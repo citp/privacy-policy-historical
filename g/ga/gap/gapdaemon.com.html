@@ -1,0 +1,994 @@
+<!--The following is the downloaded HTML source of the gapdaemon.com privacy policy that was archived on 2011-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111219095053id_/http%3A//www.gapdaemon.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+                <link rel="shortcut icon" href="http://static2.gapdaemon.com/dsgn/5.2/images/favicon.ico" type="image/x-icon"> 
+        <title>Privacy Policy | Gap Daemon for Gap Years: Meet Backpackers, Get Travel Advice, Share in the Community</title>
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_d55c9376b9efc38f49891357df697da7.css">
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_f6d9e81c842763d29e7857e6a902c17f.css">
+
+        <link type="text/css" rel="stylesheet" media="all" href="http://static2.gapdaemon.com/dsgn/5.2/css/home.css">
+        <link type="text/css" rel="stylesheet" media="all" href="http://static2.gapdaemon.com/dsgn/5.2/css/plugins.css">
+        <link type="text/css" rel="stylesheet" media="all" href="http://static2.gapdaemon.com/dsgn/5.2/css/ie_only.css">
+        <link type="text/css" rel="stylesheet" media="all" href="http://static2.gapdaemon.com/dsgn/5.2/css/custom.css">
+        <link type="text/css" rel="stylesheet" media="all" href="http://static2.gapdaemon.com/dsgn/5.2/css/jquery-ui-1.8.13.custom.css">
+
+        <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/sites/default/files/js/js_34c23051e24e5fb67230a243221dd3eb.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "nice_menus_options": { "delay": "800", "speed": "slow" } });
+//--><!]]>
+</script>
+        <!--[if lt IE 7]>
+        <link type="text/css" rel="stylesheet" media="all" href="/themes/garland/fix-ie.css" />        <![endif]-->
+        <!--[if lt IE 7]>
+        <style type='text/css'>
+                #simplemodal-container a.modalCloseImg {
+                background:none;
+                right:-14px;
+                width:22px;
+                height:26px;
+                filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+                        src='images/mapBubble.png', sizingMethod='scale'
+                );
+        }
+       </style>
+       <![endif]-->   
+        <link media="all" type="text/css" href="http://static2.gapdaemon.com/dsgn/5.2/css/jqModal.css" rel="stylesheet">
+        <script src="/themes/garland/scripts/js/jqModal.js" type="text/javascript"></script>
+        <script type="text/javascript" src="/themes/garland/scripts/js/jquery.simplemodal.js"></script>
+        <script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+        <script type="text/javascript">
+            var preloadForm = (true);
+                   // Apply custom fonts using Cufon
+            Cufon.replace('.CufonFonts');
+
+            $(document).ready(function() {
+                if ($('div.promo').addEventListener)
+                {
+                    $('div.promo').addEventListener('DOMSubtreeModified' , function(){
+
+                        $.each($('span'),function(k,v){
+                            if ($(v).attr('id').match('te\-.*\-icon')){
+                                $(v).css('z-index','1');
+                            }
+                        });
+                    }, false);
+                }
+
+                $('.my_gap').bind('click',function(){
+              $('#menu-popup').jqmShow();
+        
+            return false;
+        });
+
+        $('.journals').bind('click',function(){
+            location.href= 'http://my.gapdaemon.com/journals';
+            return false;
+        });
+
+        $('.travel').bind('click',function(){
+            location.href= 'http://my.gapdaemon.com/shop';
+            return false;
+        });
+
+        $('#ex2a').jqm({
+            trigger: '#signin',
+            overlay: 0, /* 0-100 (int) : 0 is off/transparent, 100 is opaque */
+            overlayClass: 'whiteOverlay'}); 
+
+        // login
+        $('li.clicklogin').click(function() {  
+            var t = $(this).children();
+            $('#ex2a').jqmShow();
+            var href = $(t).attr('href');
+            $('#destination').attr('value',href);
+            return false; 
+        }); 
+            
+        // Adding tokens to YZ submenu
+        var coll = $('a.tkn');
+        $.each(coll, function(id,value){
+            var hr = $(coll[id]).attr('href');
+            $(coll[id]).attr('href', hr + '');
+        });
+
+        // Close Button Highlighting. IE doesn't support :hover. Surprise?
+        $('input.jqmdX').hover(
+        function(){ $(this).addClass('jqmdXFocus'); }, 
+        function(){ $(this).removeClass('jqmdXFocus'); }
+    ).focus( 
+        function(){ this.hideFocus=true; $(this).addClass('jqmdXFocus'); }
+    ).blur( 
+        function(){ $(this).removeClass('jqmdXFocus'); }
+    );
+                    
+        // load zend page to reshresh the session
+        $('body').append('<img src="http://my.gapdaemon.com/index/refreshSession" width="1" height="1" style="display:none" />');
+        
+    });
+    
+    $(document).ready(function() {
+        $('#ex3a').jqm({
+            trigger: '#signup',
+            overlay: 80, /* 0-100 (int) : 0 is off/transparent, 100 is opaque */
+            overlayClass: 'whiteOverlay'}).jqmAddClose('.signin_btn'); 
+        $('#ex2a').jqm({
+            trigger: '#login',
+            overlay: 80, /* 0-100 (int) : 0 is off/transparent, 100 is opaque */
+            overlayClass: 'whiteOverlay'}); 
+        $('#ex4a').jqm({
+            trigger: '#verify',
+            overlay: 80, /* 0-100 (int) : 0 is off/transparent, 100 is opaque */
+            overlayClass: 'whiteOverlay'}); 
+        $('#menu-popup').jqm({trigger: '.clicklogin', overlay: 80, overlayClass: 'whiteOverlay'}).jqmAddClose('.menu-popup-close');
+
+        // Close Button Highlighting. IE doesn't support :hover. Surprise?
+        $('input.jqmdX')
+        .hover(
+        function(){ $(this).addClass('jqmdXFocus'); }, 
+        function(){ $(this).removeClass('jqmdXFocus'); })
+        .focus( 
+        function(){ this.hideFocus=true; $(this).addClass('jqmdXFocus'); })
+        .blur( 
+        function(){ $(this).removeClass('jqmdXFocus'); });
+
+        getRegistrationForm();
+
+    });
+                        
+    var tunedOpen = function(hash)
+    {
+        hash.w.css('opacity',1).show();
+        InitCapcha();
+    }
+    $(document).ready(function(){
+        
+        $('#ex3a').jqm(
+        {onShow:tunedOpen}); 
+    }
+);
+        
+    function showModalLogin() {
+        $('#ex2a').jqmShow();
+    }
+
+    function loginModal() {
+        //alert('login');
+        $.post("/auth.php", function(data) {
+            alert("Data Loaded: " + data);
+        });
+    }         
+
+    function processlogin()
+    {
+        
+        url =  $('#destination').attr('value');
+         
+        
+        var isrc='http://my.gapdaemon.com/auth?login=' + $('#email_m').attr('value') + '&pass=' + $('#password_m').attr('value');
+        $('body').append("<iframe id='xxx' src='" + isrc + "' style='top: -10000px;left:-10000px;' />");
+        $.post(
+        "/user/login",
+        {
+            'name' : $('#email_m').attr('value'),
+            'pass' : $('#password_m').attr('value'),
+            'form_build_id' : $('#form-9fcf2e531b98ab3d297678c59bfb5186').attr('value'),
+            'form_id' : $('#edit-user-login').attr('value')
+        },
+        function(data, textStatus, jqXHR){
+            // if log in failed
+            if (data == 'login_error') {
+                $('#hd_signin_err_msg').show();
+                return false;
+            }
+            else {
+                $('#ex2a').jqmHide();
+                if ($('#email_m').attr('value') == 'admin') {
+                    document.location.href = "/admin"; 
+                }
+                else if(url) {
+                    document.location.href = url;
+                }
+                else document.location.href = "http://my.gapdaemon.com/where-i-am"; 
+            }
+        }                                      
+    );
+        return false;
+    }
+    
+    function gotoRemindPassword()
+    {
+        document.location = 'http://my.gapdaemon.com/index/forgot';
+    }
+    
+    function ResendActivationEmail(id)
+    {
+        $("#errormsg").html("Sending activation email...");
+    
+        var url = '/ajaxproxy.php?method=get&target=' + Base64.encode('http://my.gapdaemon.com/index/sendactivationmail/user/' + id);
+    
+        $.get(url, {}, function(result)
+        {
+            if (result === '1')
+            {
+                $('#ex3a').jqmHide();
+                getRegistrationForm();
+                $('#ex4a').jqmShow();
+            }
+            else
+            {
+                $("#errormsg").html("There were some errors while sending an email.");
+            }
+        });
+    }
+    function getRegistrationForm()
+    {
+        if (preloadForm)
+            $.get(
+        '/ajaxproxy.php?method=get&target=' + Base64.encode('http://my.gapdaemon.com/index/registerajax'),
+        {a:''},
+        function(data)
+        {
+            $('#registerform').html(data);
+            GetFaceBookData();
+            $(".signup_btn").bind('click', PostRegistrationForm);
+            UpdateFacebookPath();
+        }
+    );
+    }
+    function PostRegistrationForm()
+    {
+        var dt = $('#regform').serialize();
+        $.post(
+        '/ajaxproxy.php?method=post&target=' + Base64.encode('http://my.gapdaemon.com/index/registerajax'),
+        dt,
+        function(data)
+        {
+            if (data === 'ok')
+            {
+                preloadForm = (preloadForm && false);
+                $('#ex3a').jqmHide();
+                getRegistrationForm();
+                $('#ex4a').jqmShow();
+            }
+            else
+            {
+                $('#registerform').html(data);
+                InitCapcha();
+                $(".signup_btn").bind('click', PostRegistrationForm);
+            }
+        }
+    );
+    }                                            
+    function InitCapcha()
+    {
+        Recaptcha.create("6Lc5E8gSAAAAAGyc0gpMMosjIEdeojhWw4wFBiGm",
+        "rcdiv",
+        {
+            theme: "red",
+            callback: Recaptcha.focus_response_field
+        }
+    );
+    }
+    function UpdateFacebookPath(){
+        var loc =  'http://my.gapdaemon.com/index/joinviafb?returnpath=' + document.location;
+        $('#fbconnect').attr('href',loc);
+    }
+    var fbdata = false;
+    function GetFaceBookData()
+    {
+        var cachekey = -1;
+        
+        var indicator = /fb_join/gi;
+        var str = document.location;
+        str += "";
+        
+        if (indicator.test(str))
+        {
+            // join via facebook. stage 2 detected
+            // getting cache key
+            var pos = str.search(/\d+/);
+            cachekey = str.substr(pos);
+        }
+        if (cachekey !== -1)
+        {
+            
+            $.get('/ajaxproxy.php?method=get&target=' + Base64.encode('http://my.gapdaemon.com' + '/index/joinviafbdata'),{key:cachekey},function(data){
+                var fb =eval( '(' +  data + ')' );
+                $('#facebookId').val(fb.id);
+                $('#email').val(fb.email);
+                $('#firstName').val(fb.name);
+                $('#lastName').val(fb.surname);
+                $('#day').val(fb.dob.day);
+                $('#month').val(fb.dob.month);
+                $('#year').val(fb.dob.year);
+                if (fb.gender !== 'male')
+                {
+                    $('#sex-female').attr('checked', 'checked');
+                }
+                InitCapcha();
+                $('#ex3a').jqmShow();
+            
+            });
+     
+        }
+        else
+        {
+            return false;
+        } 
+    }
+        </script>   
+        <!-- Slider Kit -->
+        <script type="text/javascript" src="/themes/garland/scripts/js/jquery.sliderkit.1.5.1.pack.js"></script>
+        <!-- Add-ons -->
+        <script type="text/javascript" src="/themes/garland/scripts/js/jquery.easing.1.3.min.js"></script>
+        
+        <!-- Google Analytics Code --> 
+        <script type="text/javascript">
+
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-18161261-1']);
+          _gaq.push(['_setDomainName', '.gapdaemon.com']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+
+        </script>
+    </head>
+    <body>
+        <noscript><div style="border: 0px;  padding: 15px; width: 100%; background-color: black;z-index:100000;"><div id="noscript" style="margin: auto;border: 5px solid red; width:270px; color:red; padding: 15px; height:50px; background-color: black;z-index:100000;">To enjoy this website please enable JavaScript in your web browser settings</div></div></noscript>
+        <!-- Modal Login form  jqModal-->
+        <div class="jqmDialog jqmID1 login_form" id="ex2a">
+            <div class="left_top_bg">
+                <div class="right_top_bg"></div>
+            </div>
+            <div class="left_bg">
+                <div class="right_bg">
+                    <div class="block_bg">
+                        <div id="alt-login" style="margin-left: 10px; color: white;" class=" typeface-js">
+                            <h2>Sign in to Gap Daemon</h2></div>
+                        <div id="alt-login" style="margin-left: 10px;padding-bottom: 10px;">
+                            <div class="f_connect log"><a class="connect-log" href="http://my.gapdaemon.com/index/fblogin?type=login"><img alt="" src="http://static.gapdaemon.com/dsgn/5.2/images/f_connect.gif"></a></div>
+                        </div> 
+                        <div id="login-wrap">
+                            <div id="hd_signin_err_msg" class="div2 clear mart5 orange" style="display:none">Incorrect details entered: please try again.</div>
+                            <form method="post" action="/user/login?destination=/" id="loginform">
+                                <div class="popup_form">
+                                    <div class="form_line">
+                                        <label>Username or Email</label>
+                                        <div class="div2 padb"><a class="orange" href="http://my.gapdaemon.com/index/username/">Forgot username?</a> </div>
+                                        <input type="text" onkeypress="$('#hd_signin_err_msg').hide();" onfocus="" onblur="" class="inpu2" value="" id="email_m" name="name">
+                                    </div>
+                                    <div class="form_line">
+                                        <label>Password</label>
+                                        <div class="div2 padb"><a class="orange" href="http://my.gapdaemon.com/index/forgot/">Forgot password?</a></div>
+                                        <input type="password" onkeypress="$('#hd_signin_err_msg').hide();" class="inpu2" value="" id="password_m" name="pass">
+                                    </div>
+                                </div>
+                                <div class="clearing"> </div>
+
+                                <div class="rememberme">
+                                    <input type="checkbox" name="rememberMe_m" id="rememberMe_m" value="1" class="form">
+                                        <span>Remember me</span>
+                                        <input type="button" class="signin_btn" onclick="processlogin('my-travel-wall');">
+                                            </div>
+
+
+                                            <div class="clearing"> </div>	
+
+                                            <div class="div3 aqua_green not_member">
+                                                <span class="f-left not-a-mem"><strong>Not a Member?</strong></span>
+                                                <a href="http://my.gapdaemon.com/index/register" onclick="$('#ex2a').jqmHide(); $('#ex3a').jqmShow();return false;"><img src="http://static.gapdaemon.com/dsgn/5.2/images/newsletter_submit_button.png"></a>
+                                            </div>
+                                            <input type="hidden" name="form_build_id" id="form-44089c2ff009685ef35a031f71d1fc07" value="form-44089c2ff009685ef35a031f71d1fc07">
+                                            <input type="hidden" name="form_id" id="edit-user-login" value="user_login">
+                                            <input type="hidden" id="destination" value="">
+
+                                            </form>
+                                            </div>
+
+                                            <div class="clearing"></div>
+                                            </div>
+                                            </div>
+                                            </div>
+                                            <div class="left_bottom_bg">
+                                                <div class="right_bottom_bg"></div>
+                                            </div>
+                                            <div class="jqmdX jqmClose sprite-main sprite-close_btn"></div>
+                                            </div>
+                                            <!-- Modal Login form end -->                                            
+
+                                            <!-- Modal sign up form -->
+                                            <div id="ex3a" class="jqmDialog jqmID1 sign_in_form">
+                                                <div class="left_top_bg">
+                                                    <div class="right_top_bg"></div>
+                                                </div>
+                                                <div class="left_bg">
+                                                    <div class="right_bg">
+                                                        <div id="registerform" class="block_bg">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="left_bottom_bg">
+                                                    <div class="right_bottom_bg"></div>
+                                                </div>
+                                                <div class="jqmdX jqmClose sprite-main sprite-close_btn"></div>
+                                            </div>
+                                            <!-- Modal sign up form end -->
+                                            <!-- Modal remember dialog  -->
+                                            <div class="jqmDialog jqmID1 verify_block" id="ex4a">
+                                                <div class="left_top_bg">
+                                                    <div class="right_top_bg"></div>
+                                                </div>
+                                                <div class="left_bg">
+                                                    <div class="right_bg">
+                                                        <div class="block_bg">
+                                                            <div class="main_b_title typeface-js"><span class="red">Great! <br>You're almost <br>there now.</span></div>
+                                                            <div id="login-wrap">
+                                                                <div class="ver_text">
+                                                                    <p>Check your email and click the link we've just sent you to activate your new Gap Daemon account.</p>
+                                                                    <p>(Remember to check your junk mail if you can't see our email)</p>
+                                                                </div>
+                                                                <div class="right_pic">
+                                                                    <img src="http://static2.gapdaemon.com/dsgn/5.2/images/verify_pic.png">
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="clearing"></div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="left_bottom_bg">
+                                                    <div class="right_bottom_bg"></div>
+                                                </div>
+                                                <div class="jqmdX jqmClose sprite-main sprite-close_btn"></div>
+                                            </div>
+                                            <!-- Modal remember dialog end -->
+                                            <!-- Model menu login -->
+                                            <div class="jqmDialog jqmID1 login_form" id="menu-popup">
+                                                <div class="left_top_bg">
+                                                    <div class="right_top_bg"></div>
+                                                </div>
+                                                <div class="left_bg">
+                                                    <div class="right_bg">
+                                                        <div class="block_bg">
+                                                            <div id="alt-login" style="margin-left: 10px;">
+                                                                <strong>  
+                                                                Sign up or sign to create your<br>
+                                                                own travel profile. Don't worry,<br>
+                                                                joining is free and quick.
+                                                                </strong>  
+                                                            </div>
+                                                            <div class="clearing"> </div>
+                                                            <div id="alt-login" style="margin-left: 10px;">
+                                                                <div class="div3 aqua_green log">Not member yet ?</div>
+                                                                <div class="f_connect log"><a class="connect-log" href="http://my.gapdaemon.com/index/fblogin?type=login"><img alt="" src="http://static.gapdaemon.com/dsgn/5.2/images/f_connect.gif"></a></div>
+                                                                <div class="div3 aqua_green log">Or sign up manually</div>
+
+                                                                <input style="background: url(http://static.gapdaemon.com/dsgn/5.2/images/newsletter_submit_button.png) no-repeat scroll left top transparent;
+                                                                    border: 0 none;
+                                                                    float: left;
+                                                                    height: 36px;
+                                                                    overflow: hidden;
+                                                                    text-indent: -1500px;
+                                                                    cursor: pointer; 
+                                                                    outline: none;
+                                                                    width: 86px;" type="button" class="menu-popup-close" onclick="menu_popup();">
+                                                            </div>    
+                                                            <div class="clearing"> </div>
+                                                            <div style="margin: 10px;">
+                                                                <div style="margin-bottom: 5px;">Already member ?</div>
+                                                                <input type="button" class="signin_btn menu-popup-close" style="cursor: pointer; float: left;" onclick="showModalLogin();">
+                                                            </div>
+                                                            <div class="clearing"></div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="left_bottom_bg">
+                                                    <div class="right_bottom_bg"></div>
+                                                </div>
+                                                <input type="image" class="jqmdX jqmClose" src="http://static.gapdaemon.com/dsgn/5.2/images/close_btn.png">
+                                            </div>
+
+                                            <!-- Model like comment end -->
+                                            <div id="wrapper">
+                                                <table class="main_wrap">
+                                                    <tbody><tr><td valign="top">
+                                                            <!-- header start -->
+                                                            <div id="header">
+                                                                <div class="container">
+                                                                    <div class="logo"><a href="/"><img src="http://static2.gapdaemon.com/dsgn/5.2/images/logo.png" width="195" height="137" alt="Home"></a></div>
+                                                                    <div class="login">
+                                                                                     
+                                                                            <ul>  
+                                                                                <li class="none"><a id="signin" href="http://my.gapdaemon.com/index/user-login">Sign in</a></li>
+                                                                                <li><a id="signup" href="http://my.gapdaemon.com/index/register" onclick="InitCapcha();">Sign up</a></li>
+                                                                            </ul>
+                                                                                                                                            </div>
+
+
+
+                                                                    <!--/* SimplyTech v3.0 - gapdaemon.com - gapdaemon.com - ROS - 728x90 - 728x90 */-->
+
+
+                                                                    <div class="banner" id="banner-top">  
+                                                                                                                                                    <script src="/themes/garland/scripts/js/ads.js"></script>
+                                                                                                                                            </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- header end -->
+                                                            <!-- menu start -->
+
+                                                            <div id="panel">
+                                                                <div class="container">
+                                                                    <div class="nav typeface-js"><ul class="nice-menu nice-menu-down" id="nav"><li class=""><a href="http://my.gapdaemon.com" class="my_gap">Your Zone</a><div class="submenu_bg"> <div class="left_submenu_bg">  <ul class=""><li class=" clicklogin"><a href="http://my.gapdaemon.com/where-i-am" class=" clicklogin">Your Zone</a></li>
+<li class=" clicklogin"><a href="http://my.gapdaemon.com/my-messages" class=" clicklogin clicklogin">Messages</a></li>
+<li class=" clicklogin"><a href="http://my.gapdaemon.com/my-journals" class=" clicklogin clicklogin clicklogin">Journals</a></li>
+<li class=" clicklogin"><a href="http://my.gapdaemon.com/album/my-photos" class=" clicklogin clicklogin clicklogin clicklogin">Photos</a></li>
+<li class=" clicklogin"><a href="http://my.gapdaemon.com/my-friends" class=" clicklogin clicklogin clicklogin clicklogin clicklogin">Friends</a></li>
+<li class=" last  clicklogin"><a href="http://my.gapdaemon.com/my-profile" class=" clicklogin clicklogin clicklogin clicklogin clicklogin clicklogin">Account</a></li>
+</ul> </div>  </div></li>
+<li class=""><a href="http://my.gapdaemon.com/journals" class="journals tkn">Journals</a></li>
+<li class=""><a href="/travelguides" class="travel_g">Travel Guides</a><div class="submenu_bg"> <div class="left_submenu_bg">  <ul class="subnav"><li class=""><a href="/travelguides/africa" class="">Africa</a><div class="submenu_bg">   <div class="left_sub"><div class="right_sub">
+ 							      <div class="left_submenu_bg">  <ul class="subnav"><li class=""><a href="/travelguides/africa/algeria" class=" tkn">Algeria</a></li>
+<li class=""><a href="/travelguides/africa/angola" class=" tkn tkn">Angola</a></li>
+<li class=""><a href="/travelguides/africa/benin" class=" tkn tkn tkn">Benin</a></li>
+<li class=""><a href="/travelguides/africa/botswana" class=" tkn tkn tkn tkn">Botswana</a></li>
+<li class=""><a href="/travelguides/africa/burkina-faso" class=" tkn tkn tkn tkn tkn">Burkina Faso</a></li>
+<li class=""><a href="/travelguides/africa/burundi" class=" tkn tkn tkn tkn tkn tkn">Burundi</a></li>
+<li class=""><a href="/travelguides/africa/cameroon" class=" tkn tkn tkn tkn tkn tkn tkn">Cameroon</a></li>
+<li class=""><a href="/travelguides/africa/canary-islands" class=" tkn tkn tkn tkn tkn tkn tkn tkn">Canary Islands</a></li>
+<li class=""><a href="/travelguides/africa/cape-verde" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn">Cape Verde</a></li>
+<li class=""><a href="/travelguides/africa/central-african-republic" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Central African Republic</a></li>
+<li class=""><a href="/travelguides/africa/chad" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Chad</a></li>
+<li class=""><a href="/travelguides/africa/comoros-mayotte" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Comoros &amp; Mayotte</a></li>
+<li class=""><a href="/travelguides/africa/democratic-republic-congo" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Democratic Republic of Congo</a></li>
+<li class=""><a href="/travelguides/africa/djibouti" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Djibouti</a></li>
+<li class=""><a href="/travelguides/africa/egypt" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Egypt</a></li>
+<li class=""><a href="/travelguides/africa/equatorial-guinea" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Equatorial Guinea</a></li>
+<li class=""><a href="/travelguides/africa/eritrea" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Eritrea</a></li>
+<li class=""><a href="/travelguides/africa/ethiopia" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Ethiopia</a></li>
+<li class=""><a href="/travelguides/africa/gabon" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Gabon</a></li>
+<li class=""><a href="/travelguides/africa/gambia" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Gambia</a></li>
+<li class=""><a href="/travelguides/africa/ghana" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Ghana</a></li>
+<li class=""><a href="/travelguides/africa/guinea" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Guinea</a></li>
+<li class=""><a href="/travelguides/africa/guinea-bissau" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Guinea-Bissau</a></li>
+<li class=""><a href="/travelguides/africa/kenya" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Kenya</a></li>
+<li class=""><a href="/travelguides/africa/lesotho" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Lesotho</a></li>
+<li class=""><a href="/travelguides/africa/liberia" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Liberia</a></li>
+<li class=""><a href="/travelguides/africa/libya" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Libya</a></li>
+<li class=""><a href="/travelguides/africa/madagascar" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Madagascar</a></li>
+<li class=""><a href="/travelguides/africa/malawi" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Malawi</a></li>
+<li class=""><a href="/travelguides/africa/mali" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Mali</a></li>
+<li class=""><a href="/travelguides/africa/mauritania" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Mauritania</a></li>
+<li class=""><a href="/travelguides/africa/mauritius" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Mauritius</a></li>
+<li class=""><a href="/travelguides/africa/morocco" class="">Morocco</a></li>
+<li class=""><a href="/travelguides/africa/mozambique" class=" tkn">Mozambique</a></li>
+<li class=""><a href="/travelguides/africa/namibia" class="">Namibia</a></li>
+<li class=""><a href="/travelguides/africa/niger" class=" tkn">Niger</a></li>
+<li class=""><a href="/travelguides/africa/nigeria" class=" tkn tkn">Nigeria</a></li>
+<li class=""><a href="/travelguides/africa/republic-congo" class=" tkn tkn tkn">Republic of Congo</a></li>
+<li class=""><a href="/travelguides/africa/rwanda" class=" tkn tkn tkn tkn">Rwanda</a></li>
+<li class=""><a href="/travelguides/africa/senegal" class=" tkn tkn tkn tkn tkn">Senegal</a></li>
+<li class=""><a href="/travelguides/africa/seychelles" class=" tkn tkn tkn tkn tkn tkn">Seychelles</a></li>
+<li class=""><a href="/travelguides/africa/sierra-leone" class=" tkn tkn tkn tkn tkn tkn tkn">Sierra Leone</a></li>
+<li class=""><a href="/travelguides/africa/somalia" class=" tkn tkn tkn tkn tkn tkn tkn tkn">Somalia</a></li>
+<li class=""><a href="/travelguides/africa/south-africa" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn">South Africa</a></li>
+<li class=""><a href="/travelguides/africa/sudan" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Sudan</a></li>
+<li class=""><a href="/travelguides/africa/swaziland" class=" tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn tkn">Swaziland</a></li>
+<li class=""><a href="/travelguides/africa/tanzania" class="">Tanzania</a></li>
+<li class=""><a href="/travelguides/africa/togo" class=" tkn">Togo</a></li>
+<li class=""><a href="/travelguides/africa/tunisia" class=" tkn tkn">Tunisia</a></li>
+<li class=""><a href="/travelguides/africa/uganda" class="">Uganda</a></li>
+<li class=""><a href="/travelguides/africa/zambia" class="">Zambia</a></li>
+<li class=" last "><a href="/travelguides/africa/zimbabwe" class="">Zimbabwe</a></li>
+</ul> </div>  </div></div></div></li>
+<li class=""><a href="/travelguides/antarctica" class=" tkn">Antarctica</a></li>
+<li class=""><a href="/travelguides/asia" class="">Asia</a><div class="submenu_bg">   <div class="left_sub"><div class="right_sub">
+ 							      <div class="left_submenu_bg">  <ul class="subnav"><li class=""><a href="/travelguides/asia/afghanistan" class=" tkn">Afghanistan</a></li>
+<li class=""><a href="/travelguides/asia/bangladesh" class=" tkn tkn">Bangladesh</a></li>
+<li class=""><a href="/travelguides/asia/bhutan" class=" tkn tkn tkn">Bhutan</a></li>
+<li class=""><a href="/travelguides/asia/brunei" class=" tkn tkn tkn tkn">Brunei</a></li>
+<li class=""><a href="/travelguides/asia/cambodia" class="">Cambodia</a></li>
+<li class=""><a href="/travelguides/asia/china" class="">China</a></li>
+<li class=""><a href="/travelguides/asia/east-timor" class=" tkn">East Timor</a></li>
+<li class=""><a href="/travelguides/asia/india" class=" tkn tkn">India</a></li>
+<li class=""><a href="/travelguides/asia/indonesia" class="">Indonesia</a></li>
+<li class=""><a href="/travelguides/asia/japan" class="">Japan</a></li>
+<li class=""><a href="/travelguides/asia/kazakhstan" class=" tkn">Kazakhstan</a></li>
+<li class=""><a href="/travelguides/asia/laos" class="">Laos</a></li>
+<li class=""><a href="/travelguides/asia/malaysia" class="">Malaysia</a></li>
+<li class=""><a href="/travelguides/asia/maldives" class=" tkn">Maldives</a></li>
+<li class=""><a href="/travelguides/asia/mongolia" class="">Mongolia</a></li>
+<li class=""><a href="/travelguides/asia/myanmar" class=" tkn">Myanmar</a></li>
+<li class=""><a href="/travelguides/asia/nepal" class="">Nepal</a></li>
+<li class=""><a href="/travelguides/asia/north-korea" class=" tkn">North Korea</a></li>
+<li class=""><a href="/travelguides/asia/pakistan" class=" tkn tkn">Pakistan</a></li>
+<li class=""><a href="/travelguides/asia/philippines" class="">Philippines</a></li>
+<li class=""><a href="/travelguides/asia/singapore" class=" tkn">Singapore</a></li>
+<li class=""><a href="/travelguides/asia/south-korea" class=" tkn tkn">South Korea</a></li>
+<li class=""><a href="/travelguides/asia/sri-lanka" class=" tkn tkn tkn">Sri Lanka</a></li>
+<li class=""><a href="/travelguides/asia/taiwan" class=" tkn tkn tkn tkn">Taiwan</a></li>
+<li class=""><a href="/travelguides/asia/tajikistan" class=" tkn tkn tkn tkn tkn">Tajikistan</a></li>
+<li class=""><a href="/travelguides/asia/thailand" class="">Thailand</a></li>
+<li class=""><a href="/travelguides/asia/palestinian-territories" class=" tkn">The Palestinian Territories</a></li>
+<li class=""><a href="/travelguides/asia/turkmenistan" class=" tkn tkn">Turkmenistan</a></li>
+<li class=""><a href="/travelguides/asia/uzbekistan" class=" tkn tkn tkn">Uzbekistan</a></li>
+<li class=" last "><a href="/travelguides/asia/vietnam" class="">Vietnam</a></li>
+</ul> </div>  </div></div></div></li>
+<li class=""><a href="/travelguides/europe" class="">Europe</a><div class="submenu_bg">   <div class="left_sub"><div class="right_sub">
+ 							      <div class="left_submenu_bg">  <ul class="subnav"><li class=""><a href="/travelguides/europe/armenia" class=" tkn">Armenia</a></li>
+<li class=""><a href="/travelguides/europe/austria" class="">Austria</a></li>
+<li class=""><a href="/travelguides/europe/azerbaijan" class=" tkn">Azerbaijan</a></li>
+<li class=""><a href="/travelguides/europe/belarus" class=" tkn tkn">Belarus</a></li>
+<li class=""><a href="/travelguides/europe/belgium" class=" tkn tkn tkn">Belgium</a></li>
+<li class=""><a href="/travelguides/europe/bulgaria" class=" tkn tkn tkn tkn">Bulgaria</a></li>
+<li class=""><a href="/travelguides/europe/croatia" class="">Croatia</a></li>
+<li class=""><a href="/travelguides/europe/cyprus" class=" tkn">Cyprus</a></li>
+<li class=""><a href="/travelguides/europe/czech-republic" class=" tkn tkn">Czech Republic</a></li>
+<li class=""><a href="/travelguides/europe/denmark" class=" tkn tkn tkn">Denmark</a></li>
+<li class=""><a href="/travelguides/europe/england" class=" tkn tkn tkn tkn">England</a></li>
+<li class=""><a href="/travelguides/europe/estonia" class=" tkn tkn tkn tkn tkn">Estonia</a></li>
+<li class=""><a href="/travelguides/europe/faroe-islands" class=" tkn tkn tkn tkn tkn tkn">Faroe Islands</a></li>
+<li class=""><a href="/travelguides/europe/finland" class=" tkn tkn tkn tkn tkn tkn tkn">Finland</a></li>
+<li class=""><a href="/travelguides/europe/france" class="">France</a></li>
+<li class=""><a href="/travelguides/europe/georgia" class=" tkn">Georgia</a></li>
+<li class=""><a href="/travelguides/europe/germany" class="">Germany</a></li>
+<li class=""><a href="/travelguides/europe/greece" class="">Greece</a></li>
+<li class=""><a href="/travelguides/europe/greenland" class=" tkn">Greenland</a></li>
+<li class=""><a href="/travelguides/europe/hungary" class=" tkn tkn">Hungary</a></li>
+<li class=""><a href="/travelguides/europe/iceland" class=" tkn tkn tkn">Iceland</a></li>
+<li class=""><a href="/travelguides/europe/ireland" class="">Ireland</a></li>
+<li class=""><a href="/travelguides/europe/italy" class="">Italy</a></li>
+<li class=""><a href="/travelguides/europe/latvia" class=" tkn">Latvia</a></li>
+<li class=""><a href="/travelguides/europe/liechtenstein" class=" tkn tkn">Liechtenstein</a></li>
+<li class=""><a href="/travelguides/europe/lithuania" class=" tkn tkn tkn">Lithuania</a></li>
+<li class=""><a href="/travelguides/europe/luxembourg" class=" tkn tkn tkn tkn">Luxembourg</a></li>
+<li class=""><a href="/travelguides/europe/macedonia" class=" tkn tkn tkn tkn tkn">Macedonia</a></li>
+<li class=""><a href="/travelguides/europe/malta" class=" tkn tkn tkn tkn tkn tkn">Malta</a></li>
+<li class=""><a href="/travelguides/europe/moldova" class="">Moldova</a></li>
+<li class=""><a href="/travelguides/europe/monaco" class=" tkn">Monaco</a></li>
+<li class=""><a href="/travelguides/europe/montenegro" class=" tkn tkn">Montenegro</a></li>
+<li class=""><a href="/travelguides/europe/netherlands" class="">Netherlands</a></li>
+<li class=""><a href="/travelguides/europe/norway" class=" tkn">Norway</a></li>
+<li class=""><a href="/travelguides/europe/poland" class=" tkn tkn">Poland</a></li>
+<li class=""><a href="/travelguides/europe/portugal" class="">Portugal</a></li>
+<li class=""><a href="/travelguides/europe/romania" class=" tkn">Romania</a></li>
+<li class=""><a href="/travelguides/europe/russia" class="">Russia</a></li>
+<li class=""><a href="/travelguides/europe/scotland" class="">Scotland</a></li>
+<li class=""><a href="/travelguides/europe/serbia" class=" tkn">Serbia</a></li>
+<li class=""><a href="/travelguides/europe/slovakia" class=" tkn tkn">Slovakia</a></li>
+<li class=""><a href="/travelguides/europe/slovenia" class=" tkn tkn tkn">Slovenia</a></li>
+<li class=""><a href="/travelguides/europe/spain" class="">Spain</a></li>
+<li class=""><a href="/travelguides/europe/sweden" class="">Sweden</a></li>
+<li class=""><a href="/travelguides/europe/switzerland" class="">Switzerland</a></li>
+<li class=""><a href="/travelguides/europe/turkey" class="">Turkey</a></li>
+<li class=""><a href="/travelguides/europe/ukraine" class=" tkn">Ukraine</a></li>
+<li class=" last "><a href="/travelguides/europe/wales" class="">Wales</a></li>
+</ul> </div>  </div></div></div></li>
+<li class=""><a href="/travelguides/middle-east" class="">Middle East</a><div class="submenu_bg">   <div class="left_sub"><div class="right_sub">
+ 							      <div class="left_submenu_bg">  <ul class="subnav"><li class=""><a href="/travelguides/middle-east/bahrain" class=" tkn">Bahrain</a></li>
+<li class=""><a href="/travelguides/middle-east/jordan" class="">Jordan</a></li>
+<li class=""><a href="/travelguides/middle-east/kuwait" class=" tkn">Kuwait</a></li>
+<li class=""><a href="/travelguides/middle-east/lebanon" class=" tkn tkn">Lebanon</a></li>
+<li class=""><a href="/travelguides/middle-east/iran" class=" tkn tkn tkn">Iran</a></li>
+<li class=""><a href="/travelguides/middle-east/iraq" class=" tkn tkn tkn tkn">Iraq</a></li>
+<li class=""><a href="/travelguides/middle-east/israel" class="">Israel</a></li>
+<li class=""><a href="/travelguides/middle-east/oman" class=" tkn">Oman</a></li>
+<li class=""><a href="/travelguides/middle-east/qatar" class=" tkn tkn">Qatar</a></li>
+<li class=""><a href="/travelguides/middle-east/saudi-arabia" class=" tkn tkn tkn">Saudi Arabia</a></li>
+<li class=""><a href="/travelguides/middle-east/syria" class=" tkn tkn tkn tkn">Syria</a></li>
+<li class=""><a href="/travelguides/middle-east/united-arab-emirates" class=" tkn tkn tkn tkn tkn">United Arab Emirates</a></li>
+<li class=" last "><a href="/travelguides/middle-east/yemen" class=" tkn tkn tkn tkn tkn tkn">Yemen</a></li>
+</ul> </div>  </div></div></div></li>
+<li class=""><a href="/travelguides/north-america" class="">North America</a><div class="submenu_bg">   <div class="left_sub"><div class="right_sub">
+ 							      <div class="left_submenu_bg">  <ul class="subnav"><li class=""><a href="/travelguides/north-america/antigua-barbuda" class=" tkn">Antigua &amp; Barbuda</a></li>
+<li class=""><a href="/travelguides/north-america/aruba" class=" tkn tkn">Aruba</a></li>
+<li class=""><a href="/travelguides/north-america/bahamas" class=" tkn tkn tkn">Bahamas</a></li>
+<li class=""><a href="/travelguides/north-america/barbados" class=" tkn tkn tkn tkn">Barbados</a></li>
+<li class=""><a href="/travelguides/north-america/belize" class=" tkn tkn tkn tkn tkn">Belize</a></li>
+<li class=""><a href="/travelguides/north-america/bermuda" class=" tkn tkn tkn tkn tkn tkn">Bermuda</a></li>
+<li class=""><a href="/travelguides/north-america/bonaire" class=" tkn tkn tkn tkn tkn tkn tkn">Bonaire</a></li>
+<li class=""><a href="/travelguides/north-america/british-virgin-islands" class=" tkn tkn tkn tkn tkn tkn tkn tkn">British Virgin Islands</a></li>
+<li class=""><a href="/travelguides/north-america/canada" class="">Canada</a></li>
+<li class=""><a href="/travelguides/north-america/cayman-islands" class=" tkn">Cayman Islands</a></li>
+<li class=""><a href="/travelguides/north-america/costa-rica" class=" tkn tkn">Costa Rica</a></li>
+<li class=""><a href="/travelguides/north-america/cuba" class="">Cuba</a></li>
+<li class=""><a href="/travelguides/north-america/dominica" class=" tkn">Dominica</a></li>
+<li class=""><a href="/travelguides/north-america/dominican-republic" class=" tkn tkn">Dominican Republic</a></li>
+<li class=""><a href="/travelguides/north-america/el-salvador" class=" tkn tkn tkn">El Salvador</a></li>
+<li class=""><a href="/travelguides/north-america/grenada" class=" tkn tkn tkn tkn">Grenada</a></li>
+<li class=""><a href="/travelguides/north-america/guadeloupe" class=" tkn tkn tkn tkn tkn">Guadeloupe</a></li>
+<li class=""><a href="/travelguides/north-america/guatemala" class="">Guatemala</a></li>
+<li class=""><a href="/travelguides/north-america/haiti" class=" tkn">Haiti</a></li>
+<li class=""><a href="/travelguides/north-america/honduras" class=" tkn tkn">Honduras</a></li>
+<li class=""><a href="/travelguides/north-america/jamaica" class="">Jamaica</a></li>
+<li class=""><a href="/travelguides/north-america/martinique" class=" tkn">Martinique</a></li>
+<li class=""><a href="/travelguides/north-america/mexico" class="">Mexico</a></li>
+<li class=""><a href="/travelguides/north-america/montserrat" class=" tkn">Montserrat</a></li>
+<li class=""><a href="/travelguides/north-america/nicaragua" class=" tkn tkn">Nicaragua</a></li>
+<li class=""><a href="/travelguides/north-america/panama" class=" tkn tkn tkn">Panama</a></li>
+<li class=""><a href="/travelguides/north-america/puerto-rico" class=" tkn tkn tkn tkn">Puerto Rico</a></li>
+<li class=""><a href="/travelguides/north-america/saint-kitts-nevis" class=" tkn tkn tkn tkn tkn">Saint Kitts &amp; Nevis</a></li>
+<li class=""><a href="/travelguides/north-america/trinidad-tobago" class=" tkn tkn tkn tkn tkn tkn">Trinidad &amp; Tobago</a></li>
+<li class=""><a href="/travelguides/north-america/us-virgin-islands" class=" tkn tkn tkn tkn tkn tkn tkn">US Virgin Islands</a></li>
+<li class=" last "><a href="/travelguides/north-america/usa" class=" tkn tkn tkn tkn tkn tkn tkn tkn">USA</a></li>
+</ul> </div>  </div></div></div></li>
+<li class=""><a href="/travelguides/oceania" class="">Oceania</a><div class="submenu_bg">   <div class="left_sub"><div class="right_sub">
+ 							      <div class="left_submenu_bg">  <ul class="subnav"><li class=""><a href="/travelguides/oceania/american-samoa" class=" tkn">American Samoa</a></li>
+<li class=""><a href="/travelguides/oceania/australia" class="">Australia</a></li>
+<li class=""><a href="/travelguides/oceania/cook-islands" class=" tkn">Cook Islands</a></li>
+<li class=""><a href="/travelguides/oceania/federated-states-micronesia" class=" tkn tkn">Federated States of Micronesia</a></li>
+<li class=""><a href="/travelguides/oceania/fiji" class="">Fiji</a></li>
+<li class=""><a href="/travelguides/oceania/french-polynesia" class=" tkn">French Polynesia</a></li>
+<li class=""><a href="/travelguides/oceania/new-zealand" class=" tkn tkn">New Zealand</a></li>
+<li class=""><a href="/travelguides/oceania/papua-new-guinea" class=" tkn tkn tkn">Papua New Guinea</a></li>
+<li class=""><a href="/travelguides/oceania/samoa" class=" tkn tkn tkn tkn">Samoa</a></li>
+<li class=""><a href="/travelguides/oceania/tonga" class=" tkn tkn tkn tkn tkn">Tonga</a></li>
+<li class=" last "><a href="/travelguides/oceania/vanuatu" class=" tkn tkn tkn tkn tkn tkn">Vanuatu</a></li>
+</ul> </div>  </div></div></div></li>
+<li class=" last "><a href="/travelguides/south-america" class="">South America</a><div class="submenu_bg">   <div class="left_sub"><div class="right_sub">
+ 							      <div class="left_submenu_bg">  <ul class="subnav"><li class=""><a href="/travelguides/south-america/argentina" class="">Argentina</a></li>
+<li class=""><a href="/travelguides/south-america/bolivia" class="">Bolivia</a></li>
+<li class=""><a href="/travelguides/south-america/brazil" class="">Brazil</a></li>
+<li class=""><a href="/travelguides/south-america/chile" class="">Chile</a></li>
+<li class=""><a href="/travelguides/south-america/colombia" class="">Colombia</a></li>
+<li class=""><a href="/travelguides/south-america/ecuador" class="">Ecuador</a></li>
+<li class=""><a href="/travelguides/south-america/falkland-islands" class=" tkn">Falkland Islands</a></li>
+<li class=""><a href="/travelguides/south-america/french-guiana" class=" tkn tkn">French Guiana</a></li>
+<li class=""><a href="/travelguides/south-america/guyana" class=" tkn tkn tkn">Guyana</a></li>
+<li class=""><a href="/travelguides/south-america/paraguay" class=" tkn tkn tkn tkn">Paraguay</a></li>
+<li class=""><a href="/travelguides/south-america/peru" class="">Peru</a></li>
+<li class=""><a href="/travelguides/south-america/suriname" class=" tkn">Suriname</a></li>
+<li class=""><a href="/travelguides/south-america/uruguay" class=" tkn tkn">Uruguay</a></li>
+<li class=" last "><a href="/travelguides/south-america/venezuela" class=" tkn tkn tkn">Venezuela</a></li>
+</ul> </div>  </div></div></div></li>
+</ul> </div>  </div></li>
+<li class=""><a href="/work-study-volunteer" class="work">Work/Study/Volunteer</a><div class="submenu_bg"> <div class="left_submenu_bg">  <ul class=""><li class=""><a href="/work-study-volunteer/study" class=" tkn">Study</a></li>
+<li class=""><a href="/work-study-volunteer/volunteer" class=" tkn tkn">Volunteer</a></li>
+<li class=" last "><a href="/work-study-volunteer/work" class=" tkn tkn tkn">Work</a></li>
+</ul> </div>  </div></li>
+<li class=""><a href="/advice" class="advice">Advice</a><div class="submenu_bg"> <div class="left_submenu_bg">  <ul class=""><li class=""><a href="/advice/experience" class=" tkn">Experience</a></li>
+<li class=""><a href="/advice/food-and-drink" class=" tkn tkn">Food and drink</a></li>
+<li class=""><a href="/advice/keeping-healthy" class=" tkn tkn tkn">Keeping healthy</a></li>
+<li class=""><a href="/advice/money-and-finance" class=" tkn tkn tkn tkn">Money and finance</a></li>
+<li class=""><a href="/advice/personal-stuff" class=" tkn tkn tkn tkn tkn">Personal stuff</a></li>
+<li class=" last "><a href="/advice/travel-kit" class=" tkn tkn tkn tkn tkn tkn">Travel kit</a></li>
+</ul> </div>  </div></li>
+<li class=""><a href="http://my.gapdaemon.com/shop" class="travel tkn">Travel shop</a></li>
+<li class=" last "><a href="http://blog.gapdaemon.com" class="blog tkn">Blog</a></li>
+</ul></div>
+                                                                    <div id="search">
+                                                                        <form action="http://my.gapdaemon.com/search" method="GET">
+                                                                            <div class="field"><input name="q" onfocus="if(this.value=='search'){this.value=''}" onblur="if(this.value==''){this.value='search'}" value="search" type="text" class="input"></div>
+                                                                            <div class="submit"><input name="" type="image" src="http://static2.gapdaemon.com/dsgn/5.2/images/panel_search_submit_button.png"></div>
+                                                                        </form>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- <div class="msh"></div> -->
+                                                            <!-- menu end -->
+                                                                                                                        <script> 
+                                                                function menu_popup() {
+                                                                     $('#ex3a').jqmShow(); $('#menu-popup').jqmHide();
+                                                                }
+                                                        </script>
+	<div id="breadcrumbs_wrap">
+		<div id="breadcrumbs">
+		    <a href="/"> Gap Daemon </a> › Privacy Policy		</div>
+	</div>
+<div class="msh"></div>
+
+<!-- main container start -->
+<div id="main_container">
+	        	
+         <div class="left_top_bg">
+						<div class="right_top_bg"></div>
+					</div>
+					<div class="left_bg">
+						<div class="right_bg">
+							<div class="block_bg">
+								<div class="main_b_title typeface-js"> Privacy Policy </div>
+								<div class="text_block">
+									  <div id="node-36" class="node">
+
+
+
+  
+
+  <div class="content clear-block">
+    <p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><strong>1&nbsp;&nbsp; &nbsp;Introduction</strong></p>
+<p style="text-align: justify;">1.1&nbsp;&nbsp; &nbsp;Gap Daemon is committed to safeguarding your personal information. Whenever you provide such information, Gap Daemon is legally obliged to use your information in accordance with all laws concerning the protection of personal information, including the Data Protection Act 1998. If you have any queries concerning your personal information please contact Gap Daemon by sending an email to <a href="mailto:support@gapdaemon.com?subject=Re%3A%20Privacy%20Policy">support@gapdaemon.com</a>.</p>
+<p style="text-align: justify;"><br>1.2&nbsp;&nbsp; &nbsp;The following privacy policy explains the data processing practices of Gap Daemon that apply to your access to and use of the GapDaemon.com website.</p>
+<p style="text-align: justify;"><br>1.3&nbsp;&nbsp; &nbsp;This Policy is effective from 13/12/2010. Gap Daemon may from time to time make changes to this Policy to reflect any changes to its privacy practices in accordance with changes to legislation, best practice or website enhancements.</p>
+<p style="text-align: justify;"><br>1.4&nbsp;&nbsp; &nbsp;The data controller responsible in respect of the information collected on the Website is GapDaemon Limited.</p>
+<p style="text-align: justify;"><br><strong>2&nbsp;&nbsp; &nbsp;Information collected</strong></p>
+<p style="text-align: justify;"><br>2.1&nbsp;&nbsp; &nbsp;When you become a member and create a registered member account on the website you provide Gap Daemon with your name, email address, gender and your birth date.</p>
+<p style="text-align: justify;"><br>2.2&nbsp;&nbsp; &nbsp;When you upload, post, email or otherwise transmit on, through or in connection with the Website any content, including but not limited to any photos, journals, music, videos, blogs, reviews or any other information and member content, Gap Daemon may receive personal information about you. This can consist of any of the following:</p>
+<p style="text-align: justify;"><br>(a)&nbsp;&nbsp; &nbsp;home address, telephone or mobile numbers;</p>
+<p style="text-align: justify;"><br>(b)&nbsp;&nbsp; &nbsp;current geographical location;</p>
+<p style="text-align: justify;"><br>(c)&nbsp;&nbsp; &nbsp;family, relationships; or</p>
+<p style="text-align: justify;"><br>(d)&nbsp;&nbsp; &nbsp;activities, interests, profession, educational history, work experience.</p>
+<p style="text-align: justify;"><br>(a)&nbsp;&nbsp; &nbsp;everyone, including Visitors;</p>
+<p style="text-align: justify;"><br>(b)&nbsp;&nbsp; &nbsp;all Members;</p>
+<p style="text-align: justify;"><br>(c)&nbsp;&nbsp; &nbsp;Members who are your friends and family;</p>
+<p style="text-align: justify;"><br>(d)&nbsp;&nbsp; &nbsp;Members who are your friends (don't let Mum see!); and</p>
+<p style="text-align: justify;"><br>(e)&nbsp;&nbsp; &nbsp;just you (private, hidden from everyone else).</p>
+<p style="text-align: justify;"><br><em>Your name and profile picture</em></p>
+<p style="text-align: justify;"><br>3.2&nbsp;&nbsp; &nbsp;Gap Daemon is designed to make it easy for you to connect to, and share your travel journey with, your family and friends. For this reason, your name and profile picture do not have pre-set privacy settings. If you do not wish to share your profile picture, do not upload it or, if you have already uploaded one and have changed your mind, delete it. You can also use the privacy settings to control who can find you when searching on the Website or on public search engines.</p>
+<p style="text-align: justify;"><br>3.3&nbsp;&nbsp; &nbsp;Gap Daemon also requires you to provide your gender and birth date as part of the registration process. Your birth date is required to verify that you are 14 or older. Because your date of birth and gender are required, you cannot delete them. You can, however, edit your profile to hide these details from other Members.</p>
+<p style="text-align: justify;"><br><em>Your profile information</em></p>
+<p style="text-align: justify;"><br>3.4&nbsp;&nbsp; &nbsp;You control who can contact you on the Website and who can see your contact details such as your email address or phone number through the contact information settings. Remember that only your email address is required and you do not have to share it with anyone else.</p>
+<p style="text-align: justify;"><br>3.5&nbsp;&nbsp; &nbsp;Through the personal information settings you can control who can see your profile information, such as your religious and political views, if you choose to add them.</p>
+<p style="text-align: justify;"><br><em>Material you Post on the Website</em></p>
+<p style="text-align: justify;"><br>3.6&nbsp;&nbsp; &nbsp;You can choose to apply the privacy settings of your Member Account to restrict access to different types of your Member Content (Restricted Member Content), in which case such Restricted Member Content shall only be accessible by such Members or group of Members as are specified through your privacy settings. For example, status updates could be seen by everyone, all photos just by family and friends and journal posts by just a few travel friends.</p>
+<p style="text-align: justify;"><br>3.7&nbsp;&nbsp; &nbsp;Any other Member Content Posted by you on the Website which is not Restricted Member Content shall be Unrestricted Member Content. This means that when you Post any unrestricted member content<span style="font-weight: bold;"> </span> you are allowing any person, including any Visitor and any Member, to access and use such Unrestricted Member Content, and to associate it with you and your name.</p>
+<p style="text-align: justify;"><br><strong>4&nbsp;&nbsp; &nbsp;Use of personal information</strong></p>
+<p style="text-align: justify;"><br>Gap Daemon will use your personal information for a number of purposes, including:</p>
+<p style="text-align: justify;"><br>(a)&nbsp;&nbsp; &nbsp;to process your Member Account registration;</p>
+<p style="text-align: justify;"><br>(b)&nbsp;&nbsp; &nbsp;to allow you to share information with other Members;</p>
+<p style="text-align: justify;"><br>(c)&nbsp;&nbsp; &nbsp;to make suggestions to you to connect with other Members;</p>
+<p style="text-align: justify;"><br>(d)&nbsp;&nbsp; &nbsp;to help other Members find you by using the contact information they have about you, such as your name, email address [any other?];</p>
+<p style="text-align: justify;"><br>(e)&nbsp;&nbsp; &nbsp;to provide, measure and improve services, features and customer support and to personalise the way the Website is presented to you;</p>
+<p style="text-align: justify;"><br>(f)&nbsp;&nbsp; &nbsp;to contact you with service-related announcements from time to time;</p>
+<p style="text-align: justify;"><br>(g)&nbsp;&nbsp; &nbsp;to serve personalised advertising to you. Gap Daemon may allow advertisers to choose the characteristics of Members who will see their advertisements and Gap Daemon may use any of the non-personally identifiable attributes it has collected (including information you may have decided not to show to other Members, such as your birth year or other sensitive personal information or preferences) to select the appropriate audience for those advertisements;</p>
+<p style="text-align: justify;"><br>(h)&nbsp;&nbsp; &nbsp;to use IP addresses to identify your location, to block disruptive Use, to establish the number of visits and to determine which country you are accessing the services from;</p>
+<p style="text-align: justify;"><br>(i)&nbsp;&nbsp; &nbsp;to analyse and improve the services offered on the Website and to provide a user-friendly navigation experience.</p>
+<p style="text-align: justify;"><br>4.2&nbsp;&nbsp; &nbsp;Gap Daemon will hold your personal information on its systems, for administration purposes before being deleted automatically, for as long as is necessary and in any event for a period of [1] year following the termination of your Member Account in accordance with the Terms and Conditions. &nbsp;</p>
+<p style="text-align: justify;"><br>4.3&nbsp;&nbsp; &nbsp;Your personal information will not be disclosed to third parties, unless such disclosure is for any of the following purposes:</p>
+<p style="text-align: justify;"><br>(a)&nbsp;&nbsp; &nbsp;to use and disclose non-personally identifiable information to third parties for marketing, strategic development purposes and to audit your usage of the Website;</p>
+<p style="text-align: justify;"><br>(b)&nbsp;&nbsp; &nbsp;to give search engines access to your Unrestricted Member Content (as defined below) together with your name and profile picture;</p>
+<p style="text-align: justify;"><br>(c)&nbsp;&nbsp; &nbsp;to provide information to service providers that assist Gap Daemon in providing the Website to you. Gap Daemon may use third parties to help host the Website, send out email updated about the Website, provide search results or links or otherwise. These service providers may have access to your personal information for use for a limited time, but when this occurs Gap Daemon implements reasonable contractual and technical protections to limit their use of that information; and</p>
+<p style="text-align: justify;"><br>(d)&nbsp;&nbsp; &nbsp;to disclose your personal information as required or permitted by law;</p>
+<p style="text-align: justify;"><br>(e)&nbsp;&nbsp; &nbsp;to disclose your personal information to any of Gap Daemon's employees, officers, agents, suppliers, subcontractors or affiliates.</p>
+<p style="text-align: justify;"><br><strong>5&nbsp;&nbsp; &nbsp;Use of cookies</strong></p>
+<p style="text-align: justify;"><br>5.1&nbsp;&nbsp; &nbsp;A <strong>cookie </strong>is a small piece of information which is sent to your computer's hard drive by the web server so that the Website can remember who you are. This information may include information relating to your Use of the Website, information about your computer such as the computer's IP address and browser type, demographic data and, if you arrived at the Website via a link from third party site, the URL of the linking page. If you are a Member, it may include your name and email address, which may be transferred to data processors for registered member verification purposes.</p>
+<p style="text-align: justify;"><br>5.2&nbsp;&nbsp; &nbsp;Gap Daemon uses information collected from cookies for purposes which may include:</p>
+<p style="text-align: justify;"><br>(a)&nbsp;&nbsp; &nbsp;identifying returning Visitors, Members and to allow them to be presented with a personalised version of the site;</p>
+<p style="text-align: justify;"><br>(b)&nbsp;&nbsp; &nbsp;eliminating the need for returning Members to re-enter their login details;</p>
+<p style="text-align: justify;"><br>(c)&nbsp;&nbsp; &nbsp;enabling you to move more easily around the Website;</p>
+<p style="text-align: justify;"><br>(d)&nbsp;&nbsp; &nbsp;tracking your Use of the Website to better develop the Website in accordance with your requirements; and</p>
+<p style="text-align: justify;"><br>(e)&nbsp;&nbsp; &nbsp;building up a profile based on your browsing patterns across the Website and third party websites, which enables Gap Daemon to make advertisements available to you that are most relevant to your interests.</p>
+<p style="text-align: justify;"><br>5.3&nbsp;&nbsp; &nbsp;You can delete cookies from your hard drive at any time, however this will mean that any settings such as your stored username and password will have to be reset each time you access the Website. You can set your internet browser so that it will not allow cookies to be stored on your computer. This may reduce functionality of the Website and certain features or content may not be available to you. Further information on how to prevent cookies from being stored on your computer can be found on <a href="http://www.allaboutcookies.org/" target="_blank">http://www.allaboutcookies.org</a> under the "manage cookies" section. Alternatively, go to the help menu within your internet browser.</p>
+<p style="text-align: justify;"><br><strong>6&nbsp;&nbsp; &nbsp;Security</strong></p>
+<p style="text-align: justify;"><br>Gap Daemon uses reasonable measures to keep your personal information secure. However, Gap Daemon cannot guarantee the security of data sent over the Internet. You accept inherent risks of data transmission over the Internet.</p>
+<p style="text-align: justify;"><br><strong>7&nbsp;&nbsp; &nbsp;Transfer of your personal information</strong></p>
+<p style="text-align: justify;"><br>7.1&nbsp;&nbsp; &nbsp;Using the Internet to collect and process your personal data involves the transmission of data on an international basis. Your personal information collected by Gap Daemon may be stored and processed in and transferred to countries which do not have data protection laws equivalent to those in force in the European Economic Area. In addition, personal information that you submit on the Website will be published on the Internet and may be available, via the Internet, around the world. Gap Daemon cannot prevent the use or misuse of such information by others.</p>
+<p style="text-align: justify;"><br>7.2&nbsp;&nbsp; &nbsp;By Using the Website you acknowledge and expressly agree to such processing and transfer of your personal information.</p>
+<p style="text-align: justify;"><br><strong>8&nbsp;&nbsp; &nbsp;Access to your personal information</strong></p>
+<p style="text-align: justify;"><br>Under the Data Protection Act 1998 you have the right to request a copy of the personal information Gap Daemon holds about you and to have any inaccuracies corrected. You can do so by sending an email to <a href="mailto:support@gapdaemon.com?subject=Re%3A%20Privacy%20Policy">support@gapdaemon.com</a>. Gap Daemon may charge a statutory fee and require proof of your identity for provision of this information.</p>
+<p style="text-align: justify;"><br><strong>9&nbsp;&nbsp; &nbsp;Children under 14</strong></p>
+<p style="text-align: justify;"><br>Gap Daemon does not intentionally collect any information on children under 14 years of age. Gap Daemon undertakes to delete any details of such users where a parent or guardian has notified Gap Daemon that any such details have been obtained.</p>
+  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+      </div>
+
+</div>
+								</div>
+							<div class="clearing"></div>
+							</div>
+						</div>
+					</div>
+					<div class="left_bottom_bg">
+						<div class="right_bottom_bg"></div>
+					</div>
+</div>
+<!-- main container end -->
+<!-- footer start -->
+<div id="footer">
+
+            <div class="container sprite-main-hor sprite-footer_bg">
+        	<div class="sprite-main-hor sprite-footer_top_bg"></div>	                               
+                <!-- fist column start -->
+                <div class="column  sprite-main-hor sprite-column">
+
+                	<div class="title typeface-js"><span class="red">Bookmark us</span></div>
+                    <div class="icons">
+                        
+                        <a href="http://www.addthis.com/bookmark.php?pub=jhuskisson&amp;v=250&amp;source=tbx-250&amp;tt=0&amp;s=googlebuzz&amp;url=http://gapdaemon.com&amp;title=Gap%20Daemon&amp;content=&amp;lng=en"><div class="sprite-main sprite-book_icon_1"></div></a>
+                        
+                        <a href="http://www.addthis.com/bookmark.php?pub=jhuskisson&amp;v=250&amp;source=tbx-250&amp;tt=0&amp;s=delicious&amp;url=http://gapdaemon.com&amp;title=Gap%20Daemon&amp;content=&amp;lng=en"><div class="sprite-main sprite-book_icon_2"></div></a>
+                        <a href="http://www.addthis.com/bookmark.php?pub=jhuskisson&amp;v=250&amp;source=tbx-250&amp;tt=0&amp;s=digg&amp;url=http://gapdaemon.com&amp;title=Gap%20Daemon&amp;content=&amp;lng=en"><div class="sprite-main sprite-book_icon_3"></div></a>
+                        <a href="http://www.addthis.com/bookmark.php?pub=jhuskisson&amp;v=250&amp;source=tbx-250&amp;tt=0&amp;s=google&amp;url=http://gapdaemon.com&amp;title=Gap%20Daemon&amp;content=&amp;lng=en"><div class="sprite-main sprite-book_icon_4"></div></a>
+                        <a href="http://www.addthis.com/bookmark.php?v=250&amp;winname=addthis&amp;pub=&amp;source=tbx32-250,max-250&amp;lng=en&amp;s=reddit&amp;url=http://gapdaemon.com&amp;title=Gap%20Daemon&amp;content=&amp;lng=en"><div class="sprite-main sprite-book_icon_5"></div></a>
+                        <a href="http://www.addthis.com/bookmark.php?pub=jhuskisson&amp;v=250&amp;source=tbx-250&amp;tt=0&amp;s=stumbleupon&amp;url=http://gapdaemon.com&amp;title=Gap%20Daemon&amp;content=&amp;lng=en"><div class="sprite-main sprite-book_icon_6"></div></a>
+                        <span> <g:plusone></g:plusone> </span>
+                        <script type="text/javascript">
+                        (function() {
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = 'https://apis.google.com/js/plusone.js'
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+})();
+                    </script>    
+                    </div>
+                    <div class="list">
+                    	<span class="list_title">Further Information</span>
+                    	
+                    	
+                    	
+                    	<ul class="menu"><li class="leaf first"><a href="/about-us" title="">About Us</a></li>
+<li class="leaf"><a href="/contact" title="">Contact Us</a></li>
+<li class="leaf"><a href="/work-for-us" title="">Work for Us</a></li>
+<li class="leaf"><a href="/safety-policy" title="">Safety Policy</a></li>
+<li class="leaf"><a href="/terms-and-conditions" title="">Terms &amp; Conditions</a></li>
+<li class="leaf active-trail"><a href="/privacy-policy" title="" class="active">Privacy Policy</a></li>
+<li class="leaf"><a href="/press-and-media-contact" title="">Press and Media</a></li>
+<li class="leaf"><a href="/advertising-and-partnerships" title="">Advertising and Partnerships</a></li>
+<li class="leaf"><a href="http://blog.gapdaemon.com" title="">The GD Blog</a></li>
+<li class="leaf"><a href="/competition" title="Competition: WIN InterRail passes for two around Europe!">Competition</a></li>
+<li class="leaf"><a href="/xmas-snowball-fight-game" title="Gap Daemon Christmas  Game">Gap Daemon Christmas  Game</a></li>
+<li class="leaf last"><a href="/TIP" title="The 100 Day Travelling Intern Programme">The 100 Day Travelling Intern Programme</a></li>
+</ul>                    
+                    </div>
+                </div>
+                               
+                <!-- second column start -->
+                <div class="column sprite-main-hor sprite-column">
+                	<div class="title typeface-js"><span class="red">Follow us</span></div>
+                    <div class="icons">
+                    	<a href="http://twitter.com/gapdaemon"><div class="sprite-main sprite-share_icon_1"></div></a>
+                        <a href="http://www.facebook.com/home.php?#!/GapDaemon?ref=ts"><div class="sprite-main sprite-share_icon_2"></div></a>
+                        <a href="http://www.youtube.com/user/GapDaemon1"><div class="sprite-main sprite-share_icon_3"></div></a>
+                    </div>
+                    <div class="list">
+                    	
+                    	<span class="list_title">Travel Advice</span>
+                    
+                        <ul class="menu"><li class="leaf first"><a href="/advice/keeping-healthy/before-you-go-vaccinations-and-first-aid-kit" title="">Before You Go: Vaccinations and the First Aid Kit</a></li>
+<li class="leaf"><a href="/advice/money-and-finance/big-adventures-small-budgets-guide-cheap-flight-routes" title="">Big Adventures on Small Budgets: A Guide to Cheap Flight Routes</a></li>
+<li class="leaf"><a href="/advice/travel-kit/how-choose-best-travel-gadgets" title="">How to Choose the Best Travel Gadgets</a></li>
+<li class="leaf"><a href="/advice/experience/local-culture-and-etiquette" title="">Local Culture and Etiquette</a></li>
+<li class="leaf"><a href="/advice/travel-kit/ultimate-packing-list" title="">The Ultimate Packing List</a></li>
+<li class="leaf last"><a href="/advice/food-and-drink/where-are-most-friendly-places-vegetarian-travellers" title="">Where are the Most Friendly Places for Vegetarian Travellers?</a></li>
+</ul>                    </div>
+                </div>                
+                               
+                <!-- third column start -->
+                <div class="column sprite-main-hor sprite-column">
+                    <div class="copy">
+						<div class="logo"><img src="http://static2.gapdaemon.com/dsgn/5.2/images/footer_logo.png" width="87" height="59" alt=""></div>
+                        <div class="copyright">© 2011 Gap Daemon<br>All rights reserved</div>
+                    </div>
+                    <div class="list">
+                    	
+                    	<span class="list_title">Work / Study / Volunteer</span>
+                    	
+                    
+                        <ul class="menu"><li class="leaf first"><a href="/work-study-volunteer/work" title="">Work</a></li>
+<li class="leaf"><a href="/work-study-volunteer/work/finding-temporary-work-abroad" title="">Finding Temporary Work Abroad</a></li>
+<li class="leaf"><a href="/work-study-volunteer/work/ski-and-sports-coaching" title="">Ski and Sports Coaching</a></li>
+<li class="leaf"><a href="/work-study-volunteer/work/teaching-abroad-and-tefl-qualification" title="">Teaching Abroad and the TEFL Qualification</a></li>
+<li class="leaf"><a href="/work-study-volunteer/study" title="">Study</a></li>
+<li class="leaf"><a href="/work-study-volunteer/study/five-great-countries-study-abroad" title="">Five Great Countries to Study Abroad In</a></li>
+<li class="leaf"><a href="/work-study-volunteer/study/study-abroad-university-courses" title="">Study Abroad: University Courses</a></li>
+<li class="leaf"><a href="/work-study-volunteer/study/great-research-tools-plan-internship-abroad" title="">Taking an Internship Abroad</a></li>
+<li class="leaf"><a href="/work-study-volunteer/volunteer" title="">Volunteer</a></li>
+<li class="leaf"><a href="/work-study-volunteer/volunteer/voluntourism-giving-back-your-gap-year" title="">Voluntourism: Giving Back on Your Gap Year</a></li>
+<li class="leaf"><a href="/work-study-volunteer/volunteer/guide-conservation-volunteering" title="">A Guide to Conservation Volunteering</a></li>
+<li class="leaf last"><a href="/work-study-volunteer/volunteer/how-volunteer-your-way-around-world" title="">How to Volunteer Your Way around the World</a></li>
+</ul>                    </div>
+                </div>  
+                
+            </div>
+        </div>
+<!-- footer end --> 
+</td></tr>
+</tbody></table>
+</div>
+<script type="text/javascript"> Cufon.now(); </script>
+
+</body></html>
