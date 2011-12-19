@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the smartnetworld.com privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310054700id_/http%3A//www.smartnetworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartnetworld.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219134319id_/http%3A//www.smartnetworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Online Home Based Business Smart Business Solutions
-
-  
-
+# Privacy Policy | Smart business solutions, internet marketing information, web tools, software, products and more for a successful and profitable online home based business
 
 **Preamble**
 
@@ -57,21 +54,13 @@ The information and services provided at Our Company’s web site by Our Company
 
 Concerning visitors to its site that it knows are children under 13 years of age, Our Company maintains the following policies:
 
-*****
+***** Our Company will not knowingly collect personal information from children under 13 years of age without prior parental consent, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, on-line information will only be used to respond directly to the child’s request and will not be used for other purposes without prior parental consent.
 
-Our Company will not knowingly collect personal information from children under 13 years of age without prior parental consent, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, on-line information will only be used to respond directly to the child’s request and will not be used for other purposes without prior parental consent.
+***** In the event a child submits information to the Our Company Web site, the child must provide an e-mail address for the child’s parent or guardian. Thereafter, Our Company will send an e-mail to the parent or guardian alerting them to the child’s registration and providing instructions on how the parent can provide consent for the child to view the contents of Our Company, or how the parent could view or delete the child’s registration, if so desired.
 
-*****
+***** Our Company will not knowingly distribute to third parties any personally identifiable offline contact information concerning children under 13 years of age without prior parental consent.
 
-In the event a child submits information to the Our Company Web site, the child must provide an e-mail address for the child’s parent or guardian. Thereafter, Our Company will send an e-mail to the parent or guardian alerting them to the child’s registration and providing instructions on how the parent can provide consent for the child to view the contents of Our Company, or how the parent could view or delete the child’s registration, if so desired.
-
-*****
-
-Our Company will not knowingly distribute to third parties any personally identifiable offline contact information concerning children under 13 years of age without prior parental consent.
-
-*****
-
-No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside Our Company.
+***** No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside Our Company.
 
 **Article 8. Our Company’s Right to Contact User**
 
@@ -101,5 +90,5 @@ If it proves impossible to arrive at a mutually satisfactory solution through me
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-© 2004 – 2010 SmartNetWorld Enterprises , All rights reserved.  
+© 2004 – 2011 SmartNetWorld Enterprises , All rights reserved.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited.
