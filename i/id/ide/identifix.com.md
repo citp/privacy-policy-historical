@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the identifix.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619210324id_/http%3A//identifix.com/Corp/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the identifix.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219024108id_/http%3A//identifix.com/Corp/privacy.aspx) for the most accurate reproduction.*
 
 # IDENTIFIX - PRIVACY
 
@@ -13,7 +13,7 @@ If you have any questions or suggestions regarding our privacy policy, please co
 651-633-2188
 
   
-[Contact Us page](https://web.archive.org/web/20110619210324id_/http%3A//identifix.com/Corp/contact_us.asp)
+[Contact Us page](https://web.archive.org/web/20111219024108id_/http%3A//identifix.com/Corp/contact_us.asp)
 
   
 2714 Patton Road  
@@ -40,7 +40,7 @@ Identifix is the sole owner of the information collected on Identifix.com. Ident
 To register to use identifix.com, we ask for a contact name, email address, mailing address, and method of payment. This information is used to set up your access to our service and for billing purposes. If we have a problem processing an order or receiving payment, the information is used to contact your business. We use this information to contact our customers, generally through email, to provide service updates, reminders and usage tracking information. To help us provide more targeted services through our website(s), we also ask for some demographic information about the shop (such as number of technicians, services performed, number of bays, etc.). Providing demographic information is optional.
 
   
-Our product is a month to month paid in advance web based product. Our product can be cancelled at anytime and does not contain a contract. For this reason, we offer no refunds as a matter of policy; however, at our option and discretion, exceptions can be made under special circumstance. If a refund is approved it will appear as a credit on the billing credit card. If you have any questions, concerns or comments, please contact us at 1-800-997-1674 option 4.
+Our product is a month to month paid in advance web based product. Our product can be cancelled at anytime and does not contain a contract. For this reason, we offer no refunds as a matter of policy; however, at our option and discretion, exceptions can be made under special circumstance. If a refund is approved it will appear as a credit on the billing credit card. If you have any questions, concerns or comments, please contact us at 1-800-745-9649 option 4.
 
   
 Identifix.com is an automated and guided interactive diagnostic solution that provides a directed and dynamic step-by-step diagnostic process based on user input. It automatically assembles all relevant supporting information (specifications, diagrams, test procedures, component locations, TSBs, Repair-Tracs) needed by the technician to complete a successful diagnosis and repair. The information we gather enables approved technicians to access our web site for repair assistance. A log of each visit to our web site is stored by the customer and can be used to review the diagnostic steps and dates of repair completed on each vehicle. We also use this information to analyze the use and benefits of each feature of our site, and to help us make improvements.
