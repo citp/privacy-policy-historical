@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chavaramatrimony.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607210857id_/http%3A//www.chavaramatrimony.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chavaramatrimony.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219014421id_/http%3A//www.chavaramatrimony.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Chavara Matrimony.com –Privacy Policy
 
-ChavaraMatrimony.com is an online matrimonial website endeavoring constantly to provide you with quality matrimonial services. This privacy statement is common to all ChavaraMatrimony.com customers since we are strongly committed to your right to privacy, we have drawn out a privacy statement with regard to the information we collect from you.
+ChavaraMatrimony.com is an online matrimonial website endeavoring constantly to provide you with quality matrimonial services. This privacy statement is common to all ChavaraMatrimony.com customers. Since we are strongly committed to your right to privacy, we have drawn out a privacy statement with regard to the information we collect from you.
 
 To register on the website you will be required to provide certain personal information. This information includes (but is not limited to) data that specifically identifies an individual, such as a user name, name, address, telephone number, e-mail address, religion, caste, gender, photos, employment details, income details, family background, physical and health data etc. Please refer to FAQ section to identify the information that will be available to all Users of the Website and that which will be available only to those registered with our Website.
 
