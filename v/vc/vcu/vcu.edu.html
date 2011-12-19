@@ -1,18 +1,17 @@
-<!--The following is the downloaded HTML source of the vcu.edu privacy policy that was archived on 2011-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110620005043id_/http%3A//www.vcu.edu/vcu/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vcu.edu privacy policy that was archived on 2011-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111219170925id_/http%3A//www.vcu.edu/vcu/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us"><!-- InstanceBegin template="/Templates/subpage.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Privacy statement » Virginia Commonwealth University</title>
 <!-- InstanceEndEditable -->
+
 <link href="../css/vcumain_march2011.css" rel="stylesheet" type="text/css" media="all">
 
-
 <!--[if IE 7]>
-<link href="/css/ie7_march2011.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/css/ie7.css" rel="stylesheet" type="text/css" media="all" />
 <![endif]-->
-
 
 <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable --><!-- InstanceParam name="class" type="text" value="basic" -->
 </head>
@@ -35,7 +34,7 @@
             <li class="nav-myvcu"><a href="https://my.vcu.edu/">myVCU</a></li>
             <li class="nav-email"><a href="email.php">E-mail</a></li>
             <li class="nav-blackboard"><a href="http://blackboard.vcu.edu/">Blackboard</a></li>
-            <li class="nav-alert  
+            <li class="nav-alert 
 "><a href="http://www.vcu.edu/alert">VCU Alert</a></li>
       </ul>
       <!--end #util-nav-->
@@ -57,7 +56,7 @@
             <div class="menu tableft">
                 <ul class="sub_nav">
 					<li><a href="../about">About VCU</a></li>
-                    <li><span class="  
+                    <li><span class=" 
 "><a href="http://www.vcu.edu/alert/">VCU Alert</a></span></li>
                     <li><a href="../about/index.php#divisions">Administration</a></li>
                     <li><a href="http://vabiotech.com/">BioTech Park</a></li>
@@ -278,7 +277,7 @@
     <ul class="firstlst">
     <li><h4><a href="../about/index.php">About VCU</a></h4>
         <ul>
-        <li class="  
+        <li class=" 
 "><a href="http://www.vcu.edu/alert/">VCU Alert</a></li>
         <li><a href="../about/index.php#divisions">Administration</a></li>
         <li><a href="http://vabiotech.com/">BioTech Park</a></li>
@@ -347,7 +346,7 @@
         <li><a href="http://www.research.vcu.edu/ott/index.htm">VCU Tech Transfer</a></li>
         </ul>
     </li>
-    <li><h4><a href="../Library/index.php">Support VCU</a></h4>
+    <li><h4><a href="../support/index.php">Support VCU</a></h4>
         <ul>
         <li><a href="http://www.vcu-mcvalumni.org/">Alumni associations</a></li>
         <li><a href="http://www.community.vcu.edu/">Community engagement</a></li>
@@ -366,15 +365,17 @@
 <div id="signature">
 <ul>
     <li><a href="http://www.vcu.edu">Virginia Commonwealth University</a> | Richmond, Virginia 23284 | Phone: (804) 828-0100 | <a href="contacts.php">Contacts</a> | <a href="comments.php">Send us your comments</a></li>    
-    <li>© 1996-2010 Virginia Commonwealth University. All rights reserved. | Section 508 compliant | <!-- #BeginDate format:Am3 -->03/07/2011<!-- #EndDate --></li>
+    <li>© 1996-2011 Virginia Commonwealth University. All rights reserved. | Section 508 compliant | <!-- #BeginDate format:Am3 -->09/28/2011<!-- #EndDate --></li>
     <li class="sig-links"><a href="http://text.vcu.edu:8080/tt/referrer">View text version</a> | <a href="siteinfo.php">Site info</a> | <a href="http://www.president.vcu.edu/ethics/index.html">Code of Ethics</a> | <a href="privacy.php">Privacy statement</a> | <a href="http://www.vcu.edu/alert/">VCU Alert</a></li>
 </ul>
 </div><!--end #signature-->
 <script src="../js/jquery-1.3.2.min.js" type="text/javascript"></script>
 <script src="../js/jquery.cycle.lite.js" type="text/javascript"></script>
-<script type="text/javascript" src="../js/jquery.qtip.min.js"></script>
+<script type="text/javascript" src="../js/jquery.qtip.min.js"></script> 
+
 <!-- InstanceBeginEditable name="FooterJS" --><!-- InstanceEndEditable -->
-<script type="text/javascript">
+
+<script type="text/javascript">  
 	$(document).ready(function() 
 	{
 	   $('#schools').qtip({ 
@@ -414,6 +415,13 @@
 			return false;
 		  }
 		 });
+		 
+				var trackURL = 'http://atoz.vcu.edu/search.php?query=&url=';
+		$('#a2zresults ul li a').click(function() {
+		  var uri = encodeURIComponent($(this).attr('href'));
+		  window.location = trackURL + uri;
+		  return false;
+		});
 		 
 	});
 </script>
