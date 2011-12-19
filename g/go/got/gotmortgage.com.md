@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gotmortgage.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418183420id_/http%3A//www.gotmortgage.com/Privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotmortgage.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219030411id_/http%3A//www.gotmortgage.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Welcome to Gotmortgage.com Wholesale Lending
+# Privacy Policy « GotMortgage
 
 Overview
 
@@ -22,13 +22,13 @@ Registered Users Only
 
 Information collected about registered users is used and shared in accordance with our customer privacy notice and practices. If you are an existing customer, please see the Information Collection and Sharing Practices for Existing Customer section for more information.
 
-As a registered user, you may use the website to:
+As a registered user, you may use the website to: 
 
-•           Provide information to us about you when you complete an online application or other form 
+  * Provide information to us about you when you complete an online application or other form
+  * Provide information to us about you during web page registration
+  * Provide information to us about you during personal profile updates
 
-•           Provide information to us about you during web page registration 
 
-•           Provide information to us about you during personal profile updates 
 
 Security Statement
 
@@ -62,11 +62,12 @@ Information Collection and Sharing Practices for Existing Customers
 
 Existing Customer/Registered Users
 
-If you are a gotmortgage.com customer details about the information we collect and how it may be disclosed is contained in our Privacy Notice, which includes additional information regarding your privacy choices. Briefly, we collect information about you for example, when you:
+If you are a gotmortgage.com customer details about the information we collect and how it may be disclosed is contained in our Privacy Notice, which includes additional information regarding your privacy choices. Briefly, we collect information about you for example, when you: 
 
-•           Apply for a loan 
+  * Apply for a loan
+  * Make your monthly payment
 
-•           Make your monthly payment 
+
 
 We also collect personal information from you or others, such as credit bureaus, affiliates, employers, or others
 
@@ -74,25 +75,24 @@ Information We Share About Our Existing Customers
 
 The information contained in this section applies to gotmortgage.com customers
 
-We may collect and subsequently share personal information about you to:
+We may collect and subsequently share personal information about you to: 
 
-•           Run our everyday business 
+  * Run our everyday business
+  * Respond quickly to customer needs
+  * Help us communicate with you
+  * Evaluate eligibility for additional products and services that may be of interest to you
 
-•           Respond quickly to customer needs 
 
-•           Help us communicate with you 
-
-•           Evaluate eligibility for additional products and services that may be of interest to you 
 
 What We Share
 
-We may share personal information that includes, but is not limited to your:
+We may share personal information that includes, but is not limited to your: 
 
-•           Name, address, and other account application information 
+  * Name, address, and other account application information
+  * Account balances, transactions, and payment history
+  * Creditworthiness including credit history and credit score
 
-•           Account balances, transactions, and payment history 
 
-•           Creditworthiness including credit history and credit score 
 
 With Whom We Share
 
@@ -102,7 +102,7 @@ We may also share some of this information with companies performing services on
 
 We may share information we collect about you with companies with whom we have formal agreements to offer you financial products and services. These types of relationships are called joint marketing partnerships.
 
-Finally, we may share information we collect about you with companies related by common control  to offer you products and services that may be of interest to you. These types of companies are called affiliates.
+Finally, we may share information we collect about you with companies related by common control to offer you products and services that may be of interest to you. These types of companies are called affiliates.
 
 Benefits of sharing
 
@@ -116,11 +116,12 @@ Federal Law
 
 Federal law requires us to tell you how we collect, share, and protect personal information about our customers. While Federal law allows us to share information about you to run our business, to perform services and offer our products, Federal law also gives you the right to limit some, but not all, sharing of your personal information.
 
-Specifically, Federal law allows you to opt out/restrict us from sharing information as follows:
+Specifically, Federal law allows you to opt out/restrict us from sharing information as follows: 
 
-•           About your credit worthiness with our affiliates 
+  * About your credit worthiness with our affiliates
+  * To non-affiliates to offer you their products and services
 
-•           To non-affiliates to offer you their products and services 
+
 
 State Laws
 
@@ -150,13 +151,13 @@ U.S. Mail:
 
 GotMortgage Customer Care
 
-17220 Newhope St. Suite 213 
+17220 Newhope St. Suite 213
 
-Fountain Valley, CA 92708 
+Fountain Valley, CA 92708
 
 Telephone: 1-877-562-6976
 
-Email: info@gotmortgage.com 
+Email: [info@gotmortgage.com](mailto:info@gotmortgage.com)
 
 Policy Effective Date
 
@@ -168,13 +169,13 @@ Identity Theft/Fraud
 
 Identity Theft occurs when someone uses sensitive information, called Personally Identifiable Information (or PII) of another person without their permission to commit fraud or other crimes, such as Account Takeover or Application Fraud. [Account Takeover has occurred when an individual acquires another person's existing credit account information and purchases products and services at the victim's expense. Application Fraud has occurred when an individual uses another's Social Security Number or other Personally Identifiable Information to open new credit accounts in the victim's name.]
 
-If you believe you are a victim of Identity Theft, contact the three major credit bureaus to place a fraud alert message on your credit file. When you place a fraud alert on your file, the credit reporting agencies will send you a copy of your credit report at no charge.
+If you believe you are a victim of Identity Theft, contact the three major credit bureaus to place a fraud alert message on your credit file. When you place a fraud alert on your file, the credit reporting agencies will send you a copy of your credit report at no charge. 
 
-•           Experian (1-888-397-3742) 
+  * Experian (1-888-397-3742)
+  * Equifax (1-800-525-6285)
+  * TransUnion (1-800-680-7289)
 
-•           Equifax (1-800-525-6285) 
 
-•           TransUnion (1-800-680-7289) 
 
 Carefully review your credit reports for: accounts you did not open, inquiries from creditors you did not initiate, and for personal information (such as home address and social security number) that is not accurate. If you see anything you do not understand or any accounts you did not open, call the credit reporting agency at the telephone number on the report.
 
