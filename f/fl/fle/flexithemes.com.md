@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flexithemes.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608132355id_/http%3A//flexithemes.com/FlexiThemes/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexithemes.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219190433id_/http%3A//flexithemes.com/FlexiThemes/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FlexiThemes
 
