@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netygames.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603044526id_/http%3A//www.netygames.com/page/3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netygames.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219082930id_/http%3A//netygames.com/page/3.html) for the most accurate reproduction.*
 
 # Online games - Play Free Games Online - Privacy Policy
 
