@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the friendorfollow.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626095612id_/http%3A//friendorfollow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendorfollow.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219081958id_/http%3A//www.friendorfollow.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - FriendOrFollow.com
+# Who Unfollowed Me on Twitter? | Friend or Follow
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at dusty@dustyreagan.com. 
 
@@ -20,9 +20,9 @@ FriendOrFollow.com does use cookies to store information about visitors preferen
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:   
 Google AdSense   
+FeaturedUsers.com   
 BuySellAds.com   
-ValueClick Media   
-YeildBuild 
+ValueClick Media 
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on FriendOrFollow.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
