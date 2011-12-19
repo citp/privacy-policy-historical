@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the grammar.cl privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413204618id_/http%3A//www.grammar.cl/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grammar.cl privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219190840id_/http%3A//www.grammar.cl/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy Grammar.cl
+# Privacy
+
+## www.grammar.cl
 
 Grammar.cl is committed to ensuring your privacy is protected. Any information that you provide to Grammar.cl by which you can be identified will be used only in accordance with the privacy policy stated below.
 
