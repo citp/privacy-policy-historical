@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the proguitarshop.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620094056id_/http%3A//proguitarshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proguitarshop.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219050858id_/http%3A//proguitarshop.com/privacy-policy) for the most accurate reproduction.*
 
-# ProGuitarShop » Privacy Policy
-
-**ProGuitarShop.com Privacy Notice**
+# Privacy Policy
 
 This privacy notice discloses the privacy practices for www.proguitarshop.com.  
 This privacy notice applies solely to information collected by this web site. It will notify you of the following:
