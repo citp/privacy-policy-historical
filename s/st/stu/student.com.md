@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the student.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105152859id_/http%3A//www.student.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the student.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219215838id_/http%3A//www.student.com/privacy.php) for the most accurate reproduction.*
 
 # Student Center, Student.com, Student Center Network, teens, students, teen, student, college students, high school students, StudentCenter
 
@@ -65,6 +65,8 @@ You must be 13 or older to register with Student.com, Campushook.com and all oth
 ## Third-Party Companies
 
 Companies other than The Student Center, Inc. may run services or promotions on our sites. These services or promotions may collect personal information. Since they are third-party companies, The Student Center, Inc. is not responsible for how these companies handle and use your information. If you are concerned about how they may handle or use your information, please read their privacy policies. If you do not want your personal information collected, you may decide not to participate in the service or promotion.
+
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 ## Third-Party Advertisers
 
