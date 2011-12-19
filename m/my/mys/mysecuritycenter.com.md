@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the mysecuritycenter.com privacy policy that was archived on 2010-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101111144057id_/http%3A//www.mysecuritycenter.com/privacy.jsp%3Flanguage%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysecuritycenter.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219015743id_/http%3A//www.mysecuritycenter.com/eshop/index/privacy-policy) for the most accurate reproduction.*
 
-# 
+# MYSecurityCenter - Antivirus, Antispyware, Firewall, SpamFilter and Online Backup
 
-### Privacy policy
+## Privacy policy
 
 This Privacy Policy describes the information we collect from you, what we do with the information, and our information security practices. If you have any questions about our Privacy Policy, please contact support@mysecuritycenter.com
 
-#### Information
+  
+
+
+### Information
 
 When you sign up for our service, we will ask you to provide contact information such as your name, address, telephone numbers, e-mail addresses, and payment information such as credit card number and expiration date.
 
@@ -16,11 +19,14 @@ If you contact us for customer support, we may also ask you for information abou
 
 When you visit our Web site we will capture your IP Address, time of and duration of visit, and time and duration of the pages on our Web site that you view. We may tie this information to the personally identifiable information we have about you.
 
-We will also place a cookie that will identify you to us as a repeat visitor or a customer when you visit our Web site. See “ _What is a Cookie_ ” below. We may tie this cookie to the personally identifiable information we have about you.
+We will also place a cookie that will identify you to us as a repeat visitor or a customer when you visit our Web site. See "What is a Cookie" below. We may tie this cookie to the personally identifiable information we have about you.
 
 [If we send you an e-mail, we may include a marker that will allow to identify e-mail that is opened and viewed.]
 
-#### Use of Personally Identifiable Information
+  
+
+
+### Use of Personally Identifiable Information
 
 We will use your personally identifiable information only as follows:
 
@@ -37,20 +43,30 @@ We will not provide any personally identifiable information about you to any oth
   * third parties who perform services on our behalf (such as payment processing), subject to the third party agreeing with us that it will keep your personally identifiable information confidential;
   * As otherwise needed to protect or enforce or rights or the rights of others
 
+  
 
 
-#### Use of Non-Personally Identifiable Information
+### Use of Non-Personally Identifiable Information
 
 We may share aggregate statistical data about our customers with third parties, such as advertisers or suppliers. This aggregate statistical data will not identify you personally.
 
-#### What is a Cookie
+  
+
+
+### What is a Cookie
 
 A 'cookie' is an alphanumeric identifier that is unique to your browser. The cookie will identify your browser to us when you visit our web site so that we may customize your visit.
 
-#### Security of Your Information
+  
 
-We are keeping reccords of information that we acquire alongside the information you provide.
 
-#### Children's Privacy
+### Security of Your Information
+
+We are keeping records of information that we acquire alongside the information you provide.
+
+  
+
+
+### Children's Privacy
 
 Our service is not available to children under the age of 13, and we will not intentionally maintain information about anyone under the age of 13.
