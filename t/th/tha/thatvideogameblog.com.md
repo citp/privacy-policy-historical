@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatvideogameblog.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627205228id_/http%3A//www.thatvideogameblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatvideogameblog.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219073122id_/http%3A//www.thatvideogameblog.com/privacy-policy) for the most accurate reproduction.*
 
 # That VideoGame Blog » Privacy Policy
 
