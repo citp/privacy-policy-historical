@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cybertheater.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522044548id_/http%3A//www.cybertheater.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybertheater.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219221630id_/http%3A//www.cybertheater.com/privacy) for the most accurate reproduction.*
 
-# Privacy | CyberTheater.com
+# Privacy : CyberTheater.com
 
 Cybertheater.com takes peoples privacy very seriously.
 
@@ -9,8 +9,3 @@ The only information we have, are emails from people who post comments on our si
 If a Advertiser is interested in Advertising on Cybertheater.com, we provide them with traffic and demographic information only, will never disclose individual visitors information.
 
 Many Regards Webmaster
-
-Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
-
-  
-
