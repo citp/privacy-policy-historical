@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the openinviter.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127202623id_/http%3A//openinviter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openinviter.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219035407id_/http%3A//openinviter.com/privacy.php) for the most accurate reproduction.*
 
-# Open Inviter - Free Import contacts from social networking sites like Cyworld, Kincafe, Faces and many more
+# OpenInviter - Free Import contacts from social networking sites like Livejournal, Orkut, Faces and many more
 
 |  |   
   
@@ -50,4 +50,5 @@ As we continue to develop our website and take advantage of technologies to impr
 [ ](https://web.archive.org/article.php?service=yahoo) |  [ ](https://web.archive.org/article.php?service=yandex) |  [ ](https://web.archive.org/article.php?service=youtube) |  [ ](https://web.archive.org/article.php?service=zapak)  
   
 All these trademarks/logos are properties of their respective companies and are hereby acknowledged. None of these trademarks may be used in connection with any product or service in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits their owner.  
-|  | 
+|  |   
+[](http://opens.org/)
