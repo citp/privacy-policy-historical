@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frommers.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607010401id_/http%3A//www.frommers.com/about/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frommers.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219191705id_/http%3A//www.frommers.com/about/about_privacy.html) for the most accurate reproduction.*
 
 # Frommer's About Us
 
@@ -29,7 +29,7 @@
 |  |   
 |  | [Frommer's Complete Catalog](http://promo.wiley.com/2010frommersctlg/USsales/) |   
 |  |   
-|  | [Press Center](http://www.wiley.com/WileyCDA/Section/id-397743.html?brandId=13&subjectId=&month=&x=7&y=5) |   
+|  | [Press Center](http://www.frommers.com/about/press_center.html) |   
 |  |   
 |  | [Legal & Copyright Notices](https://web.archive.org/about/copyright.html) |   
 |  |   
@@ -61,4 +61,4 @@ Please note that Wiley's Privacy and Data Protection Policy is reviewed periodic
 
 | 
 
-[](http://ad.doubleclick.net/jump/wiley.frommers.com/;loc=marketing;sz=160x230;tile=4;ord=510077147986003300?)
+[](http://ad.doubleclick.net/jump/wiley.frommers.com/;loc=marketing;sz=160x230;tile=4;ord=992487756193868800?)
