@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ppvplaybook.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505025148id_/http%3A//www.ppvplaybook.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppvplaybook.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219194208id_/http%3A//www.ppvplaybook.com/privacy.html) for the most accurate reproduction.*
 
-# PPV Playbook - Learn How To Dominate PPV Traffic
+# PPV Playbook Privacy Policy
 
 Privacy Policy
 
-This privacy policy applies to the use of ppvplaybook.com
+This privacy policy applies to the use of ppvplaybook.com and roiplaybook.com 
 
 We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site.
 
@@ -56,5 +56,3 @@ If you have any questions or concerns regarding this privacy policy, or you wish
 david AT ppvplaybook.com
 
 This privacy policy was last updated on November 18 2009.
-
-P.S. If you want to visit my blog for more information on PPV marketing and PPV traffic sources check it out here PPV Blog 
