@@ -1,41 +1,137 @@
-> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622202229id_/http%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219113434id_/http%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
 
-# Alfresco Open Source Enterprise Content Management - Privacy Policy
+# Alfresco Open Source Enterprise Content Management - Privacy Statement
 
-Alfresco Software, Inc. ("Alfresco") respects your privacy and is committed to protecting your personal information that you provide to us. This statement explains our policies and practices regarding the use and disclosure of your personal information by Alfresco. Please note that, Alfresco reviews and updates this Privacy Policy from time to time as needed without notice. Therefore, you should review the terms of this policy periodically to make sure that you are aware of how Alfresco collects and uses personal information. By using our web site, you consent to the collection and use of your personal information by Alfresco as explained below. 
+Last updated: 22 November 2011
 
-## 1\. Personal Information.
+  
 
-You have complete control over your personal information. In general, you can visit our web site without providing us with any personal information. However, there are instances where we must have your personal information in order for us to grant you an access to our protected and secured sites. This information may include registration data (your name, address, email address, phone number, title, etc.), information request data and response data ("User Information"). When you receive your confirmation email or when you receive any email from the list server, you will be given instructions on how to remove yourself from the list... 
 
-## 2\. Use of User Information.
+## Scope of This Notice
 
-We intend to use such information for purposes of supporting your and your employer's relationship with Alfresco by designing a web site content that is suitable to your needs and alerting you to new product and service offerings as they become available. This User Information may be retained by Alfresco to verify compliance with the agreement between Alfresco and your employer, to keep track of the domains from which people visit us, to create a user profile to better serve you and your employer, or to simply contact you either electronically or otherwise. If you decide that we should not use your personal User Information to contact you, please let us know and we will not use that information for such purpose. However, please do not submit any User Information if you are less than 18 years of age... 
+Alfresco Software, Ltd. (" **Alfresco** ", " **we** ", "us" or " **our** ") are committed to protecting and respecting your privacy.
 
-## 3\. Disclosure of User Information.
+This Privacy Statement is intended to describe our privacy practices and provide information about the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-Alfresco does not sell, trade or transfer User Information to third parties. However, we may share User Information with our business partners for marketing, advertising or product/service offering purposes. For example, we provide User Information to our service providers for direct emailing of our newsletters, online surveys or notifications on Alfresco Offerings to our viewers. We also disclose User Information if: we have your consent; we need to share it in order to provide you with the products and/or services you requested; we respond to a court order or you violate our Terms of Use. You may separately agree to provide your personal information to third parties that provide content for Alfresco Offerings, in order to access and/or use their products and/or services. If you agree to provide such information to these third parties, then your personal information will be subject to their privacy policies... 
+We may change this Statement from time to time. If we make any changes to this Statement, we will change the “last updated” date above. If there are material changes to this Statement, we will notify you more directly. We encourage you to check this Statement whenever you use our web sites and services to understand how your personal information is used.
 
-## 4\. Accuracy and Security.
+For the purpose of the Data Protection Act 1998, the data controller is Alfresco Software, Ltd. of The Place, Bridge Avenue, Maidenhead, Berkshire SL6 1AF UK.
 
-The accuracy and security of the User Information is important to Alfresco. Currently, you may review and request updates to your User Information retained by Alfresco. If you contact us to correct your User Information, we will attempt to correct such inaccuracies in a timely manner. Alfresco is concerned with the security of your User Information and is committed to taking reasonable steps to protect it from unauthorized access and use of that personal information. To that end, we put in place the appropriate physical, electronic and managerial policies and procedures to secure your personal User Information. We also continue to implement procedures to maintain accurate, complete and current User Information... 
+## Information We Collect
 
-## 5\. Usernames and Passwords.
+This Privacy Statement applies to all information collected by or submitted to Alfresco, including personal information. "Personal information" is data that reasonably can be used to identify or describe an individual.
 
-Access to certain content on our web site may be allowed under a written agreement between you or your employer and Alfresco and will require a username and/or password. In some cases, failure to provide personal information may prevent you from accessing certain Alfresco web site(s) containing certain confidential information, products, services, or promotional offers ("Alfresco Offerings"). By accessing and using our protected and secured web site(s), you agree to maintain the confidentiality of the username and password you selected to access such site(s) and consent to our Terms of Use... 
+We may collect and process the following data about you:
 
-## 6\. Cookies.
+  * Information that you provide us by completing forms on our sites [www.alfresco.com](http://www.alfresco.com/) and any subdomains of alfresco.com (" **our sites** "). This includes information provided at the time of registering to use our site or subscribing to our service including contact details such as name, email address and phone number.
+  * Information that you upload to, or share through, our site by using our services including profile information or any personal information in data that you upload.
+  * Information that you provide us by completing surveys on our site or as carried out by our approved third parties.
+  * Information you provide to us when you contact us for customer or technical support.
+  * Information that you provide us when carrying out transactions through our site including payment details such as credit card information and billing addresses.
+  * Information we receive from our third party partners during the registration process such as first name, surname and email address.
+  * Information we receive from third party search engines relating to your search activity.
+  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access.
+  * Information provided with your consent at conventions, trade shows and expositions.
+  * Information you provide to us when you register for webcasts, request information or materials (e.g., whitepapers), and participate in promotions, contests or giveaways. 
+  * Information you provide to us when you submit questions or comments to us.
 
-Alfresco uses "cookies". A cookie is a small data file that a web site can transfer to a visitor's hard drive to keep records of the visits to such site. A cookie contains information such as your username and password that helps us recognize the pages you have visited and improve future visits, but the only personal information a cookie can contain is the information that you provide yourself. A cookie cannot read data off your hard drive or read cookie files created by other sites. Information stored in cookies may be encrypted, however, we do not store your credit card number in cookies. If you prefer not to accept a cookie, you can set your web browser (Microsoft Internet Explorer or Netscape Navigator) to warn you before accepting cookies or you can refuse all cookies by turning them off in your web browser. However, access to our secured web site(s) requires the use of per-session cookies in Microsoft Internet Explorer, in which you must enable only cookies that get sent back to the originating server. Otherwise, you can still access most of the features on our web site even without accepting a cookie... 
 
-## 7\. External Links.
 
-Alfresco web site provides links to other third party web sites. Even if the third party is affiliated with Alfresco through a business partnership or otherwise, Alfresco is not responsible for the privacy policies or practices or the content of such external links. These links are provided to you for convenience purposes only and you access them at your own risk. .. 
+## How We Use Information
 
-## 8\. Terms of Use.
+We use the personal information you provide to:
 
-Please also see our Legal Information, which describes the restrictions, disclaimers, indemnification and limitation of liability governing the use of the entire Alfresco web site... 
+  * create and maintain your accounts;
+  * process, fulfill, and follow-up on your orders;
+  * register your products;
+  * answer your questions;
+  * register you in programs (per your request);
+  * send you information;
+  * send you surveys.
 
-## 9\. General.
 
-If you have questions regarding our Privacy Statement, please contact us at [info at alfresco](mailto:info@alfresco.com) . For other general questions, please go to our [Contacts](http://www.alfresco.com/contact/) page. 
+
+We also use this personal information to provide you with information related to your account and the products or services you purchased from us, to better understand your needs and interests, to improve our service, and to personalize communications.
+
+## How We Protect Information
+
+All information you provide to us is stored on secure servers operated by us or our third party providers. Any payment transactions will be encrypted using Secure Socket Layer (SSL) technology. In addition, Alfresco and its business partners enter into confidentiality agreements which require that care and precautions be taken to prevent loss, misuse, or disclosure of your personal information.
+
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+
+Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to prevent unauthorised access.
+
+## Cookies
+
+We may collect information about your computer, including where available your IP address and operating system type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
+
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. The following table describes the cookies we use.
+
+Cookie | Name | Purpose | More information  
+---|---|---|---  
+Google Analytics | _utma   
+_utmb   
+_utmc  
+_utmz | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in anonymous form, including the number of visitors to the site, where visitors have come to the site from, and the pages they visited. | Click here for an overview of privacy at Google: [http://www.google.co.uk/intl/en/analytics/privacyoverview.html ](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
+Prospect management and lead management, by Pardot | pardot | This cookie is used to store user-entered data submitted via forms on alfresco.com, including software trials, contacting Alfresco sales, requesting white papers, and registering for webinars. | The Pardot privacy policy can be viewed at: <http://www.pardot.com/company/legal.html>  
+Alfresco Cloud | __site | This cookie is used to store anonymous information for users signing up for Alfresco’s Cloud service to help us better understand where users who sign up for the Cloud service come from. |   
+  
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). However, if you select this setting, this may adversely affect your user experience of our site.
+
+To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
+
+## Sharing Information
+
+Unless you assent, we will never share the personal information you provide to us except as described below.
+
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries.
+
+We may disclose your personal information to third parties under any of the following circumstances:
+
+  * As may be required to fulfill orders, to conduct billing/credit card processing, to provide service, and for email housing (as a consequence of uses already described in this Privacy Statement). 
+  * As required by law (such as responding to a valid subpoena, warrant, audit, or agency action, or to prevent fraud). 
+  * For research activities, including the production of statistical reports (such aggregated information is used to describe our services to current and prospective partners and other third parties, and is not used to contact the subjects of the report). 
+  * In the context of a business transaction, such as a merger, acquisition, consolidation, or divestiture (pursuant to a pledge of confidentiality under which the recipient agrees to use the information for no purpose other than carrying out the transaction).
+
+
+
+## Your Choices About Marketing Communications
+
+We may send you email about your account, about the products you have purchased, to remind you about a webcast for which you have registered or a service you have purchased, or in response to your questions. We may also send you email with information and/or special offers about products and services that may be of interest to you, unless you indicate that you do not want to receive them.
+
+You may at anytime opt-out of receiving this information by clicking on the opt-out link in the footer of a marketing email you have received or by sending us an email at [privacy@alfresco.com](mailto:privacy@alfresco.com).
+
+For your protection, we may contact you in the event that we find an issue with a product or service you have purchased that requires your immediate attention.
+
+## How To Change Or Remove Information
+
+You may change or remove your profile information displayed through our site at any time by going to your profile and editing your information. However, if you want to change the personal information we hold about you in our systems, you will need email your request to [privacy@alfresco.com](mailto:privacy@alfresco.com).
+
+If you want to stop using your account you may deactivate it. When you deactivate an account, you will not be able to use our service and your information will not be capable of being viewed through our site. However, even after you deactivate your account, copies of your information including but not limited to name and email address may be retained by us as backup copies for legal and compliance reasons.
+
+## Where Information Is Stored
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (" **EEA** "). It may also be processed by staff operating outside the EEA who work for us, a member of our group, or for one of our suppliers. Such staff may be engaged in, among other things, the provision of CRM services, marketing campaigns, support and hosting services on our behalf. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Statement.
+
+## Public Forums Reminder
+
+This site often makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information. Exercise caution when deciding to disclose your personal information. Although we value individual ideas and encourage free expression, we reserve the right to take necessary action to preserve the forum's integrity, such as removing any posting that is vulgar or inappropriate.
+
+## Children’s Online Privacy
+
+We do not knowingly accept online personal information from children under the age of 13. We do not knowingly allow children under the age of 13 to become registered members of our sites, or buy products and services on our sites. We do not knowingly collect or solicit personal information about children under 13.
+
+In the event that we ever decide to expand our intended site audience to include children under the age of 13, those specific web pages will, in accordance with the requirements of the Children's Online Privacy Protection Act (COPPA), be clearly identified and provide an explicit privacy notice addressed to children under 13. In addition, we will provide an appropriate mechanism to obtain parental approval, allow parents to subsequently make changes to or request removal of their children's personal information, and provide access to any other information as required by law.
+
+## Links To Other Sites
+
+This site contains links to other sites. We do not control the information collection of sites that can be reached through links from our sites. If you have questions about the data collection procedures of linked sites, please contact those companies directly.
+
+## How To Contact Us
+
+Questions, comments and requests regarding this Privacy Statement are welcomed and should be addressed to [privacy@alfresco.com](mailto:privacy@alfresco.com).
+
+  * [del.icio.us](http://del.icio.us/post?url=http://www.alfresco.com/privacy/&title=Alfresco+Open+Source+Enterprise+Content+Management+-+Privacy+Statement)
+  * [Digg](http://digg.com/submit?phase=2&url=http://www.alfresco.com/privacy/&title=Alfresco+Open+Source+Enterprise+Content+Management+-+Privacy+Statement&bodytext=&topic=software)
+
+
