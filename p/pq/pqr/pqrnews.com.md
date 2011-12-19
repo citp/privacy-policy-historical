@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pqrnews.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623183451id_/http%3A//pqrnews.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pqrnews.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219170114id_/http%3A//pqrnews.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PQR News
 
