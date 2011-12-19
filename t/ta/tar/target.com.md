@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the target.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502151207id_/http%3A//www.target.com/redirect%3Ftoken%3D4CEFD3F532718138FC74C8493BFFB0B3645CA358%26location%3Dhttp%253A%252F%252Fsites.target.com%252Fsite%252Fen%252Fspot%252Fpage.jsp%253Ftitle%253Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the target.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219070035id_/http%3A//sites.target.com/site/en/spot/page.jsp%3Ftitle%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Target
 
@@ -65,6 +65,17 @@ We maintain administrative, technical, and physical safeguards to protect your i
 Read more...
 
 ## How Do You Contact Target?
+
+**Mail:**
+     Target Stores, Target Executive Offices  
+PO Box 9350  
+Minneapolis MN 55440
+
+**Phone:**
+     800-440-0680
+
+**E-mail:**
+    [guest.relations@target.com](mailto:guest.relations@target.com)
 
 ## What Information is Collected?
 
@@ -263,6 +274,17 @@ We recognize the particular importance of protecting privacy where children are 
 
 ## How Do You Contact Target?
 
+**Mail:**
+     Target Stores, Target Executive Offices  
+PO Box 9350  
+Minneapolis MN 55440
+
+**Phone:**
+     800-440-0680
+
+**E-mail:**
+    [guest.relations@target.com](mailto:guest.relations@target.com)
+
 ## Target Privacy Policy Scope
 
 This privacy policy applies to all current or former guest information collected by or provided to Target with the following exceptions:
@@ -283,32 +305,25 @@ By interacting with Target, you consent to our use of information that is collec
 ## Last update: 04/08/2011
 
 Apr 2011
+    Added offline, mobile, and social collection, use, and sharing of information, expanded guest choice options
 
 Aug 2009
+    Added additional details about Cookies and Targeted Advertising. Removed information for pharmacy guests in New York and Texas.
 
 Feb 2008
+    Added information for pharmacy guests in Texas.
 
 Jan 2008
+    Added information about the Target Debit Card, added additional information to the "What are 'Cookies' and how do we use them?" paragraph, added information about "phishing" and revised the "Security" section.
 
 Sep 2005
+    Added Target Commercial Interiors as a member of the Target family.
 
 Oct 2004
+    Added Target Bank as member of the Target family.
 
 Aug 2004
-
-Added offline, mobile, and social collection, use, and sharing of information, expanded guest choice options
-
-Added additional details about Cookies and Targeted Advertising. Removed information for pharmacy guests in New York and Texas.
-
-Added information for pharmacy guests in Texas.
-
-Added information about the Target Debit Card, added additional information to the "What are 'Cookies' and how do we use them?" paragraph, added information about "phishing" and revised the "Security" section.
-
-Added Target Commercial Interiors as a member of the Target family.
-
-Added Target Bank as member of the Target family.
-
-Removed references to Mervyn's Stores and mervyns.com.
+    Removed references to Mervyn's Stores and mervyns.com.
 
 |   
 ---|---|---|---|---
