@@ -1,0 +1,524 @@
+<!--The following is the downloaded HTML source of the rebrickable.com privacy policy that was archived on 2011-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111219062358id_/http%3A//rebrickable.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+	<title>Rebrickable - Privacy Policy</title> 
+
+    <link href="/css/style.css?v=20111218" rel="stylesheet" type="text/css">
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/blog/feed/">
+    
+	<!--[if IE]>
+	<link href="/css/PIE.htc" rel="stylesheet" type="text/css" />
+	<![endif]-->
+    <!--
+	<link rel="stylesheet" type="text/css" media="only screen and (max-width: 480px), only screen and (max-device-width: 480px)" href="/css/phone.css" />
+	-->
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="keywords" content="lego, bricks, building, lego sets, lego pieces, moc">
+    <meta name="Description" content="Reuse your existing LEGO sets to build other LEGO sets. Find out what you can build!">
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+	<link rel="apple-touch-icon-72x72" sizes="72x72" href="/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon-114x114" sizes="114x114" href="/apple-touch-icon-114x114.png">
+
+	<!-- Facebook Stuff -->
+<meta property="og:image" content="http://rebrickable.com/img/robo3.png">    <!--
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+    <script type="text/javascript" src="http://github.com/malsup/blockui/raw/master/jquery.blockUI.js?v2.31"></script>
+    <script type="text/javascript" src="/js/jquery.min.js?v1.5.2"></script>
+    <script type="text/javascript" src="/js/jquery.blockUI.js?v2.38"></script>
+    -->
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=263976140282023"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+    <script type="text/javascript">
+		window.jQuery || document.write("<script src='/js/jquery.min.js?v1.5.2' type='text/javascript'>\x3C/script>")
+    </script><script src="/js/jquery.min.js?v1.5.2" type="text/javascript"></script>
+
+    <script type="text/javascript" src="/js/jquery.blockUI.js?v2.38"></script>
+
+    <script type="text/javascript">
+		function ob(link, category, action, label) {
+		  try{
+			var pageTracker = _gat._getTracker("UA-23360432-1");
+			pageTracker._trackEvent(category, action, label);
+			setTimeout('document.location = "' + link.href + '"', 100)
+		  } catch(err) {}
+		}
+    </script>
+
+    
+<!-- facebook box in footer -->
+</head><body><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=263976140282023";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- google +1 in footer -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+
+
+
+
+<div id="wrapper"> 
+
+
+<div id="header_wrap">
+<!--[if IE 6]>
+	<div id="alert">
+    This site does not work property when using Internet Explorer 6. It is highly recommended you upgrade to a recent version or choose a different browser.
+    </div>
+<![endif]-->
+
+
+<div id="header">
+
+<script type="text/javascript">   
+
+	$(function() {
+
+		/* BlockUI Defaults */
+		
+		$.blockUI.defaults.css = {}; // use my css
+		$.blockUI.defaults.fadeIn = 0;
+		$.blockUI.defaults.fadeOut = 0;
+		$.blockUI.defaults.overlayCSS = {
+	        backgroundColor: '#FFF', 
+	        opacity:         0.6
+	    };
+		
+		$(document).keyup(function(e) {
+			if (e.keyCode == 27) { $.unblockUI(); }
+		});
+	
+		/* Search box */
+		
+		$('#header #search #q').focus(function() {
+			if (this.value == 'Search...') {
+				this.value = '';
+			}
+			$(this).removeClass('inputblur').addClass('inputfocus');
+		});
+		$('#header #search #q').blur(function() {
+			if (this.value == '') {
+				this.value = 'Search...';
+				$(this).removeClass('inputfocus').addClass('inputblur');
+			}
+		});
+		
+		/* Drop down */
+
+		$('#session').click(function() {
+			$('#dropdown').toggle();
+			if ($('#dropdown').is(":visible")) {
+				$('#arrow').addClass('clicked');
+			} else {
+				$('#arrow').removeClass('clicked');
+			}
+		});
+		$(document).click(function() {
+			$('#dropdown').hide();
+			$('#arrow').removeClass('clicked');
+		});
+		$('#session').click(function(e) {
+			e.stopPropagation();
+			//return false;
+		});
+		
+		/* Login */
+	
+		var modalcss = {
+			border: '1px solid #aa3838', 
+			'box-shadow': '0 0 25px #333',
+			padding: '0 0 0 0', 
+			'background-color': '#fdfdfd',
+			width: '500px', top: '20%', 
+			left: '50%', margin: '0 0 0 -250px',
+			position: 'absolute'
+		};
+		
+		$('#login').click(function() {
+			$('#login_popup #login_error').text("");
+			$.blockUI({ message: $('#login_popup'), css: modalcss});
+		});
+		$('#login2').click(function() {
+			$('#login_popup #login_error').text("");
+			$.blockUI({ message: $('#login_popup'), css: modalcss});
+		});
+		$('#login_popup #close').click(function() { $.unblockUI(); });
+		$('#login_popup').keyup(function(e) {
+			if (e.keyCode == 13) { login(); }
+		});
+		$('#login_button').click(function() { login(); });
+		
+		$('#search').submit(function() {
+			_gaq.push(['_trackEvent', 'Header Search', $('#header #search #q').val()]);
+		});
+		
+		function login() {
+			var dataString = $('#login_form').serialize();
+			
+			$('#login_popup #login_error').text('Logging in... Please wait.');
+			_gaq.push(['_trackEvent', 'login', 'login']);
+
+			$.ajax({type: "POST", url:"/aj/aj_login.php", data: dataString, success:function(data) {
+				//alert(data);
+				if (data.substring(0,7) == 'SUCCESS') {
+					$('#login_popup #login_error').show();
+					window.location = "/privacy.php";
+				} else {
+					//alert(data);
+					$('#login_popup #login_error').text(data);
+					$('#login_popup #login_error').show();
+				}
+			}});
+		};
+		
+		/* Registration */
+		
+		$('#register').click(function() {
+			$('#register_popup #login_error').text("");
+			_gaq.push(['_trackEvent', 'login', 'register-popup']);
+			$.blockUI({ message: $('#register_popup'), css: modalcss});
+		});
+		$('#register2').click(function() {
+			$('#register_popup #login_error').text("");
+			_gaq.push(['_trackEvent', 'login', 'register2-popup']);
+			$.blockUI({ message: $('#register_popup'), css: modalcss});
+		});
+		$('#register_popup #close').click(function() { $.unblockUI(); });
+		$('#register_popup').keyup(function(e) {
+			if (e.keyCode == 13) { register(); }
+		});
+		$('#register_button').click(function() { register(); });
+		
+		function register() {
+			var dataString = $('#register_form').serialize();
+
+			$('#register_popup #login_error').text('Registering... Please wait.');
+			_gaq.push(['_trackEvent', 'login', 'register']);
+
+			$.ajax({type: "POST", url:"/aj/aj_register.php", data: dataString, success:function(data) {
+				//alert(data);
+				if (data.substring(0,7) == 'SUCCESS') {
+					$('#register_popup #login_error').text("An activation email has been sent to you (please check spam folder!). Please click the link in your email to activate your account and log in.");
+					$('#register_popup #login_error').show();
+				} else {
+					//alert(data);
+					$('#register_popup #login_error').text(data);
+					$('#register_popup #login_error').show();
+					_gaq.push(['_trackEvent', 'login', 'register', data]);
+				}
+				enable_form();
+			}});
+		};
+		
+		/* Forgotten Details */
+		
+		$('#forgotten').click(function() {
+			//var email = $('#email').val();
+			$.unblockUI();
+			//$('#forgotten_form #email').val(email);
+			$('#forgotten_popup #login_error').text('');
+			$.blockUI({ message: $('#forgotten_popup'), css: modalcss});
+		});
+		$('#forgotten_popup #close').click(function() { $.unblockUI(); });
+		$('#reset').click(function() {
+			$('#forgotten_popup #login_error').text('Processing...');
+			_gaq.push(['_trackEvent', 'login', 'forgotten']);
+			var dataString = $('#forgotten_form').serialize();
+			$.ajax({type: "POST", url:"/aj/aj_forgotten.php", data: dataString, success:function(data) {
+				if (data.substring(0,7) == 'SUCCESS') {
+					$('#forgotten_popup #login_error').text('A password reset email has been sent to you.');
+				} else {
+					$('#forgotten_popup #login_error').text(data);
+				}
+			}});
+		});
+		
+		// Toggle panel displays
+		$('.panel .formtitle').live('click',function() {
+			$(this).parent().find('.panelbody').toggle();
+		});
+		
+	})
+
+</script>
+
+    <div id="login_popup" style="display:none" class="blue">
+       	<div class="right" id="close"><img src="/img/x.png"></div>
+        <h3>Please enter your logon details below.</h3>
+      	<form id="login_form">
+			<div class="form_row">
+            	<span class="label">e-mail:</span>
+            	<input class="" type="text" name="email" id="email">
+            </div>
+			<div class="form_row">
+            	<span class="label">password:</span>
+            	<input class="" type="password" name="password" id="password">
+            </div>
+			<div class="form_row">
+            	<span class="left"><input type="checkbox" name="stay" id="stay" checked="">
+	            <label for="stay">Keep me signed in</label></span>
+                <span id="forgotten" class="link">Forgotten password?</span>
+	        </div>
+            <div class="clear"></div>
+            <div id="login_button" class="redbutton">
+                <p>Login</p>
+            </div>
+            <div id="login_error"></div>
+            
+        </form>
+	</div>
+
+    <div id="register_popup" style="display:none" class="blue">
+       	<div class="right" id="close"><img src="/img/x.png"></div>
+        <h3>Sign up to enable additional site features</h3>
+      	<form id="register_form">
+			<div class="form_row">
+		        <p>Please enter a valid email address to use as your logon name.</p>
+            	<span class="label">e-mail:</span>
+            	<input class="" type="text" name="email" id="email">
+            </div>
+			<div class="form_row">
+		        <p>Please enter a password, the only requirement is a minimum of 8 characters.</p>
+            	<span class="label">password:</span>
+            	<input class="" type="password" name="password" id="password">
+            </div>
+            <div class="clear"></div>
+            <h2>Why sign up?</h2>
+			<p>1. You can use unlimited sets in your build searches</p>
+			<p>2. You can add your loose parts to be considered in the searches</p>
+            <p>3. Instantly see your Build This % on all catalog sets/mocs</p>
+            <p>4. Many more features to be released soon</p>
+            <p>5. You can say it's for your kids, we won't tell ;)</p>
+      <div id="register_button" class="redbutton">
+                <p>Sign Up</p>
+            </div>
+            <div id="login_error"></div>
+            
+        </form>
+	</div>
+
+    <div id="forgotten_popup" style="display:none" class="blue">
+       	<div class="right" id="close"><img src="/img/x.png"></div>
+        <h3>Forgotten Password</h3>
+		<p>If you have forgotten your password you may press the button below. This will send you an e-mail with a link to a page where you can choose a new password.</p>
+      	<form id="forgotten_form">
+			<div class="form_row">
+            	<span class="label">e-mail:</span>
+            	<input class="" type="text" name="email" id="email">
+            </div>
+		</form>
+		<div id="reset" class="redbutton">Request Reset</div>
+		<div id="login_error"></div>
+	</div>
+
+
+	<div class="left">
+    	<a href="/"><img src="/img/title.png?v3" width="287" height="100" class="left" title="Hi!" alt="Rebrickable"></a>
+ 	</div>
+
+
+        <div id="session" class="right">
+            <div id="register" class="link">Sign Up</div>
+            <div id="login" class="link">Login</div>
+        </div>
+    <div id="menu" class="right">
+      <ul>
+        <li><a href="/pick_set" title="Find sets/mocs you can build">BUILD</a></li>
+        <li><a href="/showstats" title="LEGO Statistics">STATS</a></li>
+        <li><a href="/sets" title="LEGO catalog of sets/mocs">SETS</a></li>
+        <li><a href="/partpicker" title="Find and use parts">PARTS</a></li>
+        <li><a href="/mocs" title="Custom LEGO set designers and their creations (MOCs)">MOCS</a></li>
+        <li><a href="/blog/" title="Rebrickable blog">BLOG</a></li>
+        <li><form action="/sets" id="search">
+            <input class="searchfield inputblur" type="text" name="q" id="q" value="Search...">
+            <input type="hidden" name="exclude" value="0">
+            <input type="hidden" name="official" value="1">
+            <input type="hidden" name="custom" value="1">
+            <input class="searchbutton" type="submit" value="GO">
+            </form></li>
+      </ul>
+    </div>
+       
+</div>
+</div>
+
+<div class="clear"></div>
+<div id="content_s"> 
+
+	<div id="miscpanel" class="panel">
+		<h2 class="formtitle green">Privacy Policy</h2>
+        <div class="panelbody">
+
+		
+        <div style="font-family:arial"><strong>What information do we collect?</strong> <br><br>
+We collect information from you when you register on our site or fill out a form.  <br><br>
+When registering on our site you are asked to enter your e-mail address. You may, however, visit our site anonymously.<br><br>
+Google, as a third party vendor, uses cookies to serve ads on your site.
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..<br><br>
+
+<strong>What do we use your information for?</strong> <br><br>Any of the information we collect from you may be used in one of the following ways: <br><br>
+<li>To personalize your experience</li>(your information helps us to better respond to your individual needs)<br><br>
+<li>To improve our website</li>(we continually strive to improve our website offerings based on the information and feedback we receive from you)<br><br>
+<li>To improve customer service</li>(your information helps us to more effectively respond to your customer service requests and support needs)<br><br>
+<li>To send periodic emails</li>The email address you provide to login, will only be used  to send you information and updates according to your preferences.
+Note: If at any time you would like to unsubscribe from receiving future emails, simply un-check the appropriate option in your account preferences page.<br><br>
+
+<strong>How do we protect your information?</strong> <br><br>
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. <br><br>
+
+<strong>Do we use cookies?</strong> <br><br>
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) 
+that enables the sites or service providers systems to recognize your browser and capture and remember certain information<br><br> 
+We use cookies to understand and save your preferences for future visits.<br><br>
+
+<strong>Do we disclose any information to outside parties?</strong> <br><br>
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, 
+conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate 
+to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. <br><br>
+
+<strong>Third party links</strong> <br><br> Occasionally, at our discretion, we may include or offer third party products 
+or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these 
+linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.<br><br>
+
+<strong>California Online Privacy Protection Act Compliance</strong>
+<br><br>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute 
+your personal information to outside parties without your consent.<br><br>
+
+<strong>Online Privacy Policy Only</strong> <br><br>This online privacy policy applies only to information 
+collected through our website and not to information collected offline.<br><br>
+
+<strong>Your Consent</strong> <br><br>By using our site, you consent to our website's privacy policy.<br><br>
+
+<strong>Changes to our Privacy Policy</strong> <br><br>If we decide to change our privacy policy, we will post those changes on this page. <br><br>
+
+<strong>Contacting Us</strong> <br><br>If there are any questions regarding this privacy policy you may contact us at <a href="mailto:support@rebrickable.com">support@rebrickable.com</a><br><br>
+</div>
+
+        </div>
+	</div>
+    
+</div>
+
+<div id="footer_wrap">
+
+    <div id="footer">
+
+        
+        <div class="navcol">
+            <img src="/img/robo3.png" width="52" height="64" title="I'm Alive!" alt="I'm Alive!">
+        </div>
+        
+        <div class="navcol">
+            <p>Site Navigation</p>
+              <ul>
+                <li><a href="/pick_set">Build Sets</a></li>
+                <li><a href="/showstats">LEGO® Statistics</a></li>
+                <li><a href="/sets">Set Catalog</a></li>
+                <li><a href="/partpicker">Part Picker</a></li>
+                <li><a href="/mocs">MOC Designers</a></li>
+                <li><a href="/design_moc">Submit MOC</a></li>
+                <li><a href="/changes">Change Log</a></li>
+              </ul>
+        </div>
+		<div class="navcol">
+        <p>Site Help</p>
+            <ul>
+              <li><a href="/build_set?s=8142-1&amp;s1=8143-1&amp;s2=8156-1&amp;s3=8157-1&amp;s4=8671-1&amp;c=2">Example set build</a></li>
+              <li><a href="/contact">Contact Us</a></li>
+              <li><a href="/about">About Us</a></li>
+              <li><a href="/blog/">Blog</a></li>
+              <li><a href="/privacy">Privacy</a></li>
+              <li><a href="/api/">API Docs</a></li>
+              <li><a href="/faq">FAQs</a></li>
+            </ul>
+        </div>
+        <div class="navcol">
+            <p>Database Statistics</p>
+            <ul>
+                <li>6104 x Sets</li>
+                <li>71 x MOCs</li>
+                <li>1096133 x Parts</li>
+            </ul>
+        </div>
+        <div id="fb-root"></div> <!-- HACK: moved here so FB btn doesnt suck -->
+	<div class="navcol">
+	    <p>Follow Rebrickable</p>
+	    <div class="follow">
+	
+		<div class="share">
+		    <div class="fb-like" data-href="facebook.com/pages/Rebrickable/244447922243907" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>
+		</div>
+		<div class="share">
+		    <div class="g-plusone" data-size="medium" data-href="http://rebrickable.com"></div>
+		</div>
+		<div class="share">
+		    <a href="/blog/feed/"><img src="/img/rss2.png" alt="RSS" title="RSS"><span> Blog feed</span></a>
+		</div>
+		<div class="share">
+		    <a href="/rss/newsets"><img src="/img/rss2.png" alt="RSS" title="RSS"><span> New Sets</span></a>
+		</div>
+	    
+	    </div>
+	
+	</div>
+
+        <div class="clear"></div>
+        
+    </div>
+
+    <div id="footer_legal">
+       
+        <div class="clear">
+            <p>LEGO® is a trademark of <a href="http://www.lego.com">The LEGO Group</a> of companies which does not sponsor, authorize or endorse this site.</p>
+            <p>© <a href="http://rebrickable.com">Rebrickable.com</a>. All rights reserved.</p>
+        </div>
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23360432-1']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+
+  (function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</div>
+
+
+
+
+</body></html>
