@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faucetdirect.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620100131id_/http%3A//www.faucetdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucetdirect.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219050832id_/http%3A//www.faucetdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
 # FaucetDirect.com: Security & Privacy
 
@@ -32,13 +32,21 @@ Cookies are alphanumeric identifiers that we transfer to your computer's hard dr
 
 ## Emails and Newsletters
 
-Build.com uses emails as one of our primary ways to respond and communicate. All emails sent are either a direct response to an inquiry, communication concerning an order (receipt, shipping confirmation, etc) or a newsletter if you have indicated you wish to receive specials on your account information.
+Because we value your right to privacy, we do not sell or otherwise share your contact information to unrelated third parties. FaucetDirect.com and our Network of Stores use email as one of the primary methods of communicating with our customers. The emails we send may be related to a variety of issues, including:
 
-From time to time, we may notify you of special offers that take into consideration your historic purchasing activity with us. We do not share or otherwise sell your contact information to unrelated third parties.
+  * A direct response to an inquiry,
+  * Communication concerning an order (receipt, shipping confirmation, etc), or
+  * Promotional emails you have indicated you wish to receive.
 
-When creating an account (placing an order) through Build.com, we offer the opportunity to subscribe to our newsletters. These contain specials & discounts, updates about our websites and information about the lines and products we are featuring.
 
-Each newsletter contains clear and easy unsubscribe instructions. You may also change your subscription status at any time by logging into your account, and editing your "Account Preferences". Lastly, if you wish to reach us by phone, our representatives in our call center can also alter your subscription preferences.
+
+From time to time, we may notify you of special offers based on your purchasing history with us. If you create a Saved Cart, or have one created by our staff, you may receive follow-up emails related to this Cart. You may unsubscribe at any time by following the simple instructions contained in the emails. Unsubscribing will not apply to any future Saved Carts that are created. If you have signed up to receive our promotional emails and wish to stop your subscription, you'll find easy-to-follow unsubscribe instructions in each promotional email. You may also change your subscription status at any time by:
+
+  * Logging into your account and editing your "Change Billing Info"
+  * Sending an email to [newsletters@faucetdirect.com](mailto:newsletters@faucetdirect.com)
+  * Contacting us by phone at (800) 864-2555. Representatives in our call center can also alter your subscription preferences.
+
+
 
 ## Sharing Information
 
