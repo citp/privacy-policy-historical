@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nps.gov privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628192044id_/http%3A//www.nps.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nps.gov privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219214721id_/http%3A//www.nps.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -22,5 +22,5 @@ You may choose to provide us with personal information, as in e-mail with a comm
 Our website has many links to our partners, especially other federal agencies. In a few cases we link to private organizations. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.
 
 **More Information  
-**Department of Interior Privacy Statement  
-Department of Interior Childrens Privacy Statement
+**[Department of Interior Privacy Statement](http://www.doi.gov/privacy.cfm)  
+[Department of Interior Childrens Privacy Statement](http://www.doi.gov/privacy_children.cfm)
