@@ -1,80 +1,113 @@
-> *The following text is extracted and transformed from the surething.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617112602id_/http%3A//www.surething.com/ST/Category.asp%3FCatCode%3DPRIVACY_STATEMENT) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surething.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219180028id_/http%3A//www.surething.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy | SureThing and iSkinEm Information
 
-  
-Thank you for visiting SureThing.com. This document is our privacy policy, which we have created in order to demonstrate our firm commitment to the protection of the privacy of our customers and visitors. The following discloses our information gathering and dissemination practices for SureThing.com and any other web site operated by MicroVision Development, Inc. and its affiliated companies.
+## Privacy Policy
 
-SALES TRANSACTION SECURITY
+### PLEASE READ THIS PRIVACY POLICY CAREFULLY.
 
-**Protecting your Order:** SureThing.com pledges a safe and worry-free shopping experience. We use the industry standard for Internet security, Secure Sockets Layer (SSL 128-bit) encryption to scramble your personal and credit card information as it travels over the Internet during the checkout process, ensuring the privacy of your information. We protect all of your personal information, including your name, address, password AND credit card information.
+Effective Date: January 1, 2011 
 
-**Secure Browser:** All orders are performed within a secure browser window using the https Internet protocol. When you click "Check Out" from the SureThing.com shopping cart, the "http" portion of SureThing.com's web site address changes to "https." The "s" stands for secure. In addition, both Internet Explorer and Netscape use special symbols to indicate that you're in a Web site's secure area. Some browsers also let you know that you're moving in or out of a secure area by notifying you with a special pop-up window that requires you to click "OK" before continuing.
+By accessing or otherwise using this www.surething.com site, you agree to be bound contractually by this Privacy Policy. 
 
-PERSONAL INFORMATION WE GATHER OR TRACK
+###  1\. Privacy Statement; Collection of Personal Information. 
 
-**Registration:** When you register with SureThing.com you create a user profile. In the profile, SureThing.com asks for your name, e-mail address, a user selected password and other information. Once you are a registered user you can update your profile and may be able to provide other preferential information such as Address and other user preferences.
+1.1 MicroVision Development, Inc. ("MVD") owns and operates this website business. All references to "we", "us", this "website" or this "site" shall be construed to mean MVD. 
 
-**Order Forms:** When you place an order SureThing.com asks you to provide us with contact information, such as name, billing address, shipping address, e-mail address, telephone number and a valid credit card number. We require this information to process your order. Other non-required information we might request includes demographic information and/or purchasing habits so that we can provide a more personalized experience.
+1.2 We understand that visitors to this website are concerned about the privacy of information. The following describes our privacy policy regarding information, including personal information, that we collect through this website. 
 
-**IP Addresses:** SureThing.com uses the IP addresses of our visitors to help diagnose problems with our server, administer our web site and to analyze traffic patterns on our web site (for instance, the number of unique visitors to our web site). Although IP information must be logged for these purposes, we do not link your IP address to your other personal identifying information, except when cooperating with investigations involving fraudulent or other illegal activity.
+###  2\. Modification of Privacy Policy. 
 
-**Cookies:** SureThing.com uses software tags called "cookies" to identify customers when they visit our site. Cookies are stored on your computer, not on our site. Most cookies are "session cookies" which means that they are automatically deleted at the end of each visit to our web site. Some cookies remain across sessions. In addition to our cookies, some advertisers or web sites that maintain links on our site may also use their own cookies.
+We reserve the right to modify this Privacy Policy at any time, and without prior notice, by posting an amended Privacy Policy that is always accessible by clicking on the "Privacy Policy" link on this site's home page. Your continued use of this site indicates your acceptance of the amended Privacy Policy. You should check the Privacy Policy through this link periodically for modifications by clicking on the link provided near the top of the Privacy Policy for a listing of material modifications and their effective dates. Regarding personal information, if any modifications are materially less restrictive on our use or disclosure of the personal information previously disclosed by you, we will obtain your consent before implementing such revisions with respect to such information. 
 
-A cookie itself does not have the ability to automatically collect personal information about you. A cookie can store certain information that identifies your computer to us so that you don't have to re-enter information as frequently when you use our site and so we can personalize your visit to our site. Your browser can be set up to accept or reject cookies. It is important to note that if you choose to reject cookies you will not be able to take advantage of certain features on our site.
+###  3\. Collection of Anonymous, Passive Information. 
 
-**Surveys:** From time to time we may invite visitors to participate in a survey so that we can better understand our customers. Participation in a survey is voluntary, and therefore you have a choice whether or not to disclose this information.
+We reserve the right to monitor your use of this site. As you navigate through this site, certain anonymous information may be passively collected (that is, gathered without your actively providing the information) using various technologies, such as cookies, Internet tags or web beacons, and navigational data collection (log files, server logs, clickstream). The following is a listing and a brief explanation of passive information collection methodologies which we may use from time to time to better understand how this site is being used. 
 
-**Communications:** If you send us personal correspondence, such as e-mails and letters, or if other users or third parties send us correspondence about your activities or postings on our site, we may collect such information into a file specific to you. We use the information in the file that we maintain about you, and other information we obtain from your use of the services, to provide better service, resolve disputes, troubleshoot problems and enforce our agreement for [Terms of Use](https://web.archive.org/web/20110617112602id_/http%3A//www.surething.com/ST/Category.asp?CatCode=TERMS_OF_USE).
+3.1 A "cookie" is a text file that this site sends to your browser in the form of a text file The information generated by the cookie about your use of this site (including your IP address) will be transmitted to and stored. Most browsers automatically accept cookies, but they usually can be modified to decline cookies if you prefer; however, certain features of this site might not work without cookies. 
 
-HOW PERSONAL INFORMATION IS USED
+3.2 "Session" cookies are temporary bits of information that are used to improve navigation, block visitors from providing information where inappropriate (the site "remembers" previous entries of country of origin that were outside the specified parameters and blocks subsequent changes), and collect aggregate statistical information on the site. They are erased once you exit your Web browser or otherwise turn off your computer. 
 
-**Personalization:** We sometimes use collected information to provide you with a more personalized shopping experience while visiting SureThing.com. For instance, past items purchased or browsed may result in you seeing a special screen or advertisement of a product in which we believe you may be interested.
+3.3 "Persistent" cookies are more permanent bits of information that are placed on the hard drive of your computer and stay there unless you delete the cookie. Persistent cookies store information on your computer for a number of purposes, such as retrieving certain information you have previously provided, helping to determine what areas of the site you may find most valuable, and customizing the site based on your preferences on an ongoing basis. Persistent cookies placed by this site in your computer do not hold personal information. 
 
-**E-mail:** If you provide us with your e-mail address, register as a customer, or make a purchase from us, we will occasionally send you e-mail or standard mail with recommendations or notices of new products and/or special offers. These offers may include information about selected paid advertisers. However, at no time will your e-mail address or other personal information be revealed to these paid advertisers unless you provide consent or choose to conduct business with them of your own accord. If you do not wish to receive such mailings from us, please let us know by sending an e-mail to **remove@surething.com** (be sure to provide the e-mail address and/or physical address that you wish to be opted out), or [click here](https://web.archive.org/web/20110617112602id_/http%3A//www.surething.com/ST/emailprefs.asp) to change your mailing preferences online.
+3.4 You can set your browser to accept all cookies, to reject all cookies, or to notify you whenever a cookie is offered so that you can decide each time whether to accept it. To learn more about cookies and how to specify your preferences, please search for "cookie" in the "Help" portion of your browser. 
 
-**Referral Programs:** We sometimes request that our customers give us the e-mail address of someone else that they think might be interested in our web site, a particular offer or article. We treat the privacy of these referrals with the same respect we treat our registered users.
+3.5 An Internet Protocol (IP) address is a number assigned to your computer by your Internet service provider so you can access the Internet and is generally considered to be non-personally identifiable information, because in many cases an IP address is dynamic (changing each time you connect to the Internet), rather than static (unique to a particular user's computer). The IP address can be used to diagnose problems with a server, report aggregate information, determine the fastest route for your computer to use in connecting to a site, and administer and improve the site. 
 
-HOW PERSONAL INFORMATION IS SHARED
+3.6 "Internet tags" (also known as Web Beacons, single-pixel GIFs, clear GIFs, invisible GIFs, and 1-by-1 GIFs) tell the website server information such as the IP address and browser type related to the visitor's computer. Tags may be placed both on online advertisements that bring people to the site and on different pages of the site. Such tags indicate how many times a page is opened and which information is consulted. 
 
-SureThing.com does not sell, rent or trade your personal information with unaffiliated third parties. SureThing.com, LabelGear.com, and MVD.com are all part of MicroVision Development, and are therefore not third-parties. We do sometimes share information with appropriate third parties as outlined below:
+3.7 "Navigational data" (log files, server logs, and clickstream data) are used for system management, to improve the content of the site, market research purposes, and to communicate information to visitors. 
 
-**Service Providers:** Service providers are third parties who perform services in our behalf, such as processing and fulfilling orders. In such cases, we provide only the information required to complete the transaction. By contract, the third party is not permitted to sell, rent or share this information.
+###  4\. Use and Sharing of Anonymous, Passive Information. 
 
-**Business Partners:** When one or more of our business partners co-sponsor a service, product, promotion and/or contest, we may share some or all of the information collected in connection with such service, product, promotion or contest with the co-sponsors. If you do not want your information to be shared, you will be able to choose not to allow the transfer by not using or signing up for that particular service, product, promotion or contest.
+This site may make full use of passively collected anonymous information, including without limitation the right to use such information to provide better service to site visitors, customize the site based on your preferences, compile and analyze statistics and trends, and otherwise administer and improve this site for your use. We reserve the right to share this anonymous, passive information in aggregated form. 
 
-**Other Exceptions:** We reserve the right to disclose your personal information to comply with legal process; to protect the company's rights; to protect against misuse or unauthorized use of SureThing.com; to investigate fraud, intellectual property infringements or other activity that is illegal or may expose us to legal liability.
+###  5\. 1st Party Behavioral Ads. 
 
-UPDATING PERSONAL INFORMATION
+We reserve the right to use anonymous, passive information about your visits to this and other websites (not including your name, address, email address or telephone number) for purposes of serving our ads that are targeted to your interests ("1st Party Behavioral Ads"). We do not share anonymous, passive information collected on this site with third parties for purposes of serving 1st Behavioral Ads. These 1st Behavioral Ads do not identify you personally. Instead, they associate your behavioral data on visited sites with your IP address, so that the ads your computer sees on this site are more likely to be relevant to your interests. 1st Party Behavioral Ads require that that you be served with a cookie containing a tracking code. You may refuse the use of cookies by selecting the appropriate settings on your browser; however, please note that if you do this you may not be able to use the full functionality of this site. 
 
-**Changing Account Profile:** If you are a registered user, you can change your account profile, including your address, e-mail address, password, or e-mail preferences by visiting [www.surething.com/myaccount](https://web.archive.org/web/20110617112602id_/http%3A//www.surething.com/ST/Login.asp?Redirect=Account.asp).
+###  6\. Use of 3rd Party Cookies. 
 
-**Choosing to Opt Out:** SureThing.com is committed to respecting your privacy and preferences regarding e-mail communications you receive from us. If you wish to change your e-mail options or no longer wish to receive communications from us, please let us know by visiting [www.surething.com/myaccount](https://web.archive.org/web/20110617112602id_/http%3A//www.surething.com/ST/Login.asp?Redirect=Account.asp), calling 800-998-4555, or sending an e-mail message to [remove@surething.com](https://web.archive.org/web/20110617112602id_/http%3A//www.surething.com/ST/emailprefs.asp).
+We reserve the right to use web analytics services provided by third parties. These services use 3rd party cookies to collect anonymous, passive information about your use of this site (see explanation of cookies in Collection of Anonymous, Passive Information above). We use this information for the purpose of evaluating your use of this site, compiling reports on website activity, and providing other services. These web analytics services may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the service's behalf. 
 
-OTHER MATTERS
+###  7\. Collection of Personal Information; Categories. 
 
-**Children's Privacy:** SureThing.com does not sell products for purchase by children. We sell products which may be appropriate for children that may be purchased by adults. If you are under 18, you may use SureThing.com only with involvement of a parent or guardian.
+7.1 We will ask you for personal information when you sign up for any specific benefit or purpose that requires registration. Personal information that we collect may vary with the each registration, and it may include one or more of the following categories: name, physical address, an email address, phone number, and credit card information including credit card number, expiration date, and billing address. 
 
-SureThing.com believes strongly in protecting the privacy and rights of children online. In accordance with new COPPA laws regarding children's privacy, web sites are restricted from collecting personally identifiable information about children under the age of 13. SureThing.com does not knowingly collect any personal information from children under the age of 13 on our web site. If a parent believes that his or her child has submitted personal information to SureThing.com, he or she can contact us via e-mail or postal mail as listed below. SureThing.com will promptly delete the information upon learning that it relates to a child under the age of 13.
+7.2 We do NOT tie or link your personal information to anonymous, passive information with persistent identifiers. For example, we would not tie or link your email address (personal information) with information collected by a cookie regarding the length of time you visit our site (anonymous, passive information). 
 
-**Protecting your password:** You can do your part to protect your personal information by keeping your password a secret and making sure you log off completely if you share a computer. If you forget your password, you can request to have it e-mailed to you by visiting [www.surething.com/myaccount](https://web.archive.org/web/20110617112602id_/http%3A//www.surething.com/ST/Login.asp?Redirect=Account.asp).
+###  8\. Use And Sharing of Personal Information: General Policy And Exceptions. 
 
-**Linked Sites:** For your convenience, this site contains links to other sites. We are not responsible for the privacy practices or the content of such sites. For more information about our policies with regard to third party sites, please see our [Terms of Use policy](https://web.archive.org/web/20110617112602id_/http%3A//www.surething.com/ST/Category.asp?CatCode=TERMS_OF_USE).
+Our general policy (subject to the exceptions listed below) is that we will use your personal information only for: the performance of the services or transaction for which it was given, our private, internal reporting for this site, and security assessments for this site, and we will not share, sell, or rent your personal information to others. The only exceptions to this general policy: (i) are described in the subsections below, and (ii) if you explicitly approve through our site. 
 
-**Privacy Policy Changes:** This Privacy Policy was last changed on June 20, 2002. If SureThing.com makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise.
+8.1 Affiliates And Service Providers. We reserve the right to provide such information to our affiliates or subsidiaries, or trusted service providers for the purpose of hosting our servers or processing or archiving personal information for us. We require that these parties agree to privacy and security safeguards for this information that are consistent with this Privacy Policy. 
 
-CONTACTING US
+8.2 Acquisition; Bankruptcy. In the event that we are acquired by or merged with a third party entity, or if we sell this website business or a line of business from this website, we reserve the right to transfer such information as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we reserve the right to transfer such information to protect our rights or as required by law. 
 
-If you have questions or concerns regarding this privacy policy, please feel free to contact us at:
+8.3 Enforcement; Legal Process. We reserve the right to transfer such information if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary (i) to satisfy any applicable law, regulation, legal process or enforceable governmental request, or (ii) to investigate or enforce violations of our rights or the security of this site. 
+
+8.4 Third Parties For Direct Marketing; Your California Privacy Rights. We may provide you with the opportunity to receive promotional offers from specifically identified third-parties through their direct marketing efforts, but only if you explicitly consent (opt-in) to receive each offer. If you explicitly consent (opt-in), your personal information will be shared only with the specifically identified third-party to enable them to provide you with the offer you have requested, and then only in connection with that specific promotion and not on a continual basis. Any information that you provide in the process of registration or purchase will be transferred to these sites. We have no responsibility or liability for the policies and practices of these sites. You should review any privacy policies posted on any of these sites before providing information to them. California Civil Code Section 1798.83 permits California residents to request certain information regarding disclosure of their personal information to third parties for purposes of direct marketing. You may request further information about our compliance with California Civil Code Section 1798.83 at the following email address: compliance.officer-at-www.surething.com. Please note that we are only required to respond to one request per registrant each year, and we are not required to respond to requests made by means other than through this the address provided above. 
+
+###  9\. Onward Transfer of Personal Information Outside Your Country of Residence. 
+
+Any personal information which we may collect on this site will be stored and processed in our servers located only in the United States. By using this site, if you reside outside the United States, you consent to the transfer of personal information outside your country of residence to the United States. 
+
+###  10\. Security of Personal Information. 
+
+We follow reasonable and appropriate industry standards to protect your personal information and data. Unfortunately, no data transmission over the Internet or method of data storage can be guaranteed 100% secure. Therefore, while we strive to protect your personal information by following generally accepted industry standards, we cannot ensure or warrant the absolute security of any information you transmit to us or archive at this site. 
+
+###  11\. Changing And Updating Personal Information. 
+
+Upon request, we will permit you to request or make changes or updates to your personal information for legitimate purposes. We request identification prior to approving such requests. We reserve the right to decline any requests that are unreasonably repetitive or systematic, require unreasonable time or effort of our technical or administrative personnel, or undermine the privacy rights of others. We reserve the right to permit you to access your personal information in any account you establish with this site for purposes of making your own changes or updates, and in such case, instructions for making such changes or updates will be provided where necessary. 
+
+###  12\. Email From This Site; Opt-Out Rights. 
+
+If you supply us with your e-mail address you may receive periodic messages from us with information specific to the site and required for the normal functioning of the site as well as for new products or services or upcoming events. If you prefer not to receive periodic email messages, you may opt-out by following the instructions on the email. 
+
+###  13\. Links To Other Sites Including Online Ads. 
+
+This site may contain links to other websites with whom we have a business relationship. These links may include online advertisements that we deem to be appropriate. Any information that you provide in the process of registration or purchase will be transferred to these sites. We have no responsibility or liability for the policies and practices of these sites. You should be careful to review any privacy policies posted on any of these sites before providing information to them. 
+
+###  14\. Children's Online Policy. 
+
+We are committed to preserving online privacy for all of its website visitors, including children. This site is a general audience site. Consistent with the Children's Online Privacy Protection Act (COPPA), we will not knowingly collect any information from, or sell to, children under the age of 13. If you are a parent or guardian who has discovered that your child under the age of 13 has submitted his or her personally identifiable information without your permission or consent, we will remove the information from our active list, at your request. To request the removal of your child's information, please contact our site as provided below under "Contact Us", and be sure to include in your message the same login information that your child submitted. 
+
+###  15\. Email And Other Messages Through This Site; ECPA Notice. 
+
+This site treats email messages and other electronic messages that are sent through this site and not viewable by others as confidential and private, except as required by law, including without limitation, the Electronic Communications Privacy Act of 1986, 18 U.S.C. Sections 2701-2711 (the "ECPA"). The ECPA permits this site's limited ability to intercept and/or disclose electronic messages, for example (i) as necessary to operate our system or to protect our rights or property, (ii) upon legal demand (court orders, warrants, subpoenas), or (iii) where we receive information inadvertently which appears to pertain to the commission of a crime. This site is not considered a "secure communications medium" under the ECPA. 
+
+###  16\. Contact Us. 
+
+If you have any questions regarding this Privacy Policy, please contact the owner and operator of this website business at: 
 
 MicroVision Development, Inc.  
-5541 Fermi Court, Ste. 120  
-Carlsbad, CA 92008
+Attn: Privacy Policy Officer  
+5541 Fermi Court, Suite 120  
+Carlsbad, CA, 92008  
+Email: compliance.officer@surething.com  
+Telephone: 760.438.7781  
+Facsimile: 760.438.7406 
 
-Phone:  |  (800) 998-4555  U.S. only  
-(760) 438-7781  International   
----|---  
-Fax:  |  760-438-7406   
-E-mail:  |  [info@surething.com](mailto:info@surething.com)  
-  
+###  Material Modifications Since January 1, 2010: none. 
 
+Copyright © 2001-10 Digital Contracts, Inc. (http://www.digicontracts.com/). All Rights Reserved (this is not a Creative Commons license). This document is licensed only for use by the owner of this website. Copying or use of this document in whole or in part by anyone other than the licensee is prohibited. 
