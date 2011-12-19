@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiacar.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621050359id_/http%3A//indiacar.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiacar.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219192900id_/http%3A//indiacar.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Terms, Conditions and Disclaimer
 
