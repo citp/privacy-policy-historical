@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finereaderonline.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619201959id_/http%3A//www.abbyyonline.com/en/Help/Privacy/finereader) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finereaderonline.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219071722id_/http%3A//www.abbyyonline.com/en/Help/Privacy/finereader) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,6 +42,8 @@ Generally, ABBYY uses the information we collect to enable the operation of and 
 
 Information that is collected may also be disclosed to ABBYY’s partners, and/or third parties, such as contractors or service providers, in connection with the operation of the Site and the provision of Services (i.e. such as for processing payment, storage of the servers for the Site and Services). ABBYY may also share certain aggregated, non-personal information with third parties.
 
+Additionally, the Sites web pages may include social media plugins. Usage of these plugins may allow social media services to use information about your browsing behaviour.
+
 **2\. Our Mutual Responsibilities With Regarding To Your Information.**
 
 It is our goal to use and handle information collected in a responsible manner. For one, we strive to limit our use of information that we collect as set forth herein. We also take measures to secure your information by physical, legal and technological means, such as storing your information on secure servers, located on premises that permit access to only authorized ABBYY personnel, encryption of data transfers, and protecting your accounts with passwords. In spite of such precautions, the security of your information cannot be absolutely guaranteed. First, we believe that no security system is impenetrable or fail-proof. 
@@ -52,7 +54,7 @@ By your use of the Site and Services, you agree that ABBYY will have no liabilit
 
 **3\. Location of Servers for the Site and Services.**
 
-ABBYY, alone, has the right and sole discretion, to determine the location of the servers of the Site and Services. Such servers may be located outside of the country that you are located in. 
+Your information may be stored and processed in any country in which ABBYY and its group and partner companies maintain facilities. In this regard, or for purposes of sharing or disclosing, ABBYY reserves the right to transfer information outside of your country. By using the Services, you consent to any such transfer of information outside of your country, for the purpose of enabling you to use the Services. As ABBYY continues to develop its business, ABBYY might sell or buy subsidiaries or business units. In such transactions as well as in the event ABBYY or substantially all of its assets are acquired by a third party, personal information of the ABBYY Online Portal users will generally be one of the transferred business assets. We reserve the right to include your personal information, collected as an asset, in any such transfer to a third party. ABBYY, alone, has the right and sole discretion, to determine the location of the servers of the Site and Services.
 
 **4\. Other Sites.**
 
