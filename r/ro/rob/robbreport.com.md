@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robbreport.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605231459id_/http%3A//www.robbreport.com/Resources/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robbreport.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219191846id_/http%3A//robbreport.com/Resources/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Robb Report
 
@@ -6,7 +6,7 @@ Last updated on October 19th, 2007
 
 This Online Privacy Statement sets forth guidelines concerning how CurtCo Robb Media, LLC gathers and uses personally identifiable information you provide only to us (as compared to publicly available postings) as part of your interaction with this website. This Online Privacy Statement concerns only this website, and does not concern any website to which this site may link.
 
-Please read this Online Privacy Statement carefully, and consult our [Terms of Use](http://www.robbreport.com/resources/terms-of-use/) for more information about the general terms and conditions regarding your use of this website.
+Please read this Online Privacy Statement carefully, and consult our [Terms of Use](http://robbreport.com/Resources/Terms-and-Conditions) for more information about the general terms and conditions regarding your use of this website.
 
 In the event that you have any questions or concerns about the guidelines set forth in this Online Privacy Statement or how we use information about your interaction with this website, please contact us at [privacypolicy@curtco.com](mailto:privacypolicy@curtco.com?subject=Robb%20Report).
 
