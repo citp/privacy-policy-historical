@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the instantcheckmate.com privacy policy that was archived on 2011-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110604180727id_/http%3A//www.instantcheckmate.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the instantcheckmate.com privacy policy that was archived on 2011-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111219035704id_/http%3A//www.instantcheckmate.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,7 +12,11 @@
 	<link href="/assets/common/css/shadowbox.css" rel="stylesheet" type="text/css">
 	<link href="/assets/overlay/overlay_1/css/overlay_style.css" rel="stylesheet" type="text/css">
 	<!--[if IE]><link rel="stylesheet" type="text/css" href="/assets/common/css/ie.css"><![endif]-->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
+	
+	<link href="/assets/common/css/loginslider.css" rel="stylesheet" type="text/css">
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/assets/common/css/loginslider_ie7.css""><![endif]-->
+	<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="/assets/common/css/loginslider_ie8.css""><![endif]-->
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
 	<script src="/assets/common/js/cufon-yui.js" type="text/javascript"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
 	<script src="/assets/common/js/Myriad_Pro_600.font.js" type="text/javascript"></script>
 	<script src="/assets/common/js/jquery.index.js" type="text/javascript"></script>
@@ -28,22 +32,120 @@ $('.tooltip').tipsy({fallback: "1-866-490-5980" });
 	<script type="text/javascript">
 		Cufon.replace(['.form_sec label'], {fontFamily: 'Myriad Pro',hover: true});
 	</script>
+	<script src="/assets/common/js/jquery.loginslider.js" type="text/javascript"></script>
 </head>
 <body>
-<div id="layout">
+<!--
+<div style="position:fixed;z-index:999;top:25px;right:25px;float:right;">
+	<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+	<g:plusone size="tall"></g:plusone>
+</div>
+--><!--
+<div style="position:fixed;z-index:999;top:25px;left:20px;float:left;">  
+    	<div id="fb-root"></div>  
+    	<script>  
+        	window.fbAsyncInit = function() {
+			FB.init({
+				appId  : '218309324856388',
+				status : true, // check login status
+				cookie : true, // enable cookies to allow the server to access the session
+				xfbml  : true  // parse XFBML
+			});
+		};
+		(function() {  
+			var e = document.createElement('script');  
+			e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';  
+			e.async = true;  
+			document.getElementById('fb-root').appendChild(e);  
+		}());  
+	</script>  
+	<fb:like href="https://www.facebook.com/pages/Instant-Checkmate/138908652808055" send="true" layout="box_count" show_faces="false" font=""></fb:like>  
+</div> 
+--><div id="layout">
   <div id="header">
-    <div class="logo"><a href="http://www.instantcheckmate.com/"><img src="/assets/common/images/logo.gif" alt=""></a></div>
-    <div class="top_links">
-      <ul class="links">
+    <div class="logo"><a href="/"><img src="/assets/common/images/logo.gif" alt=""></a></div>
+    <div id="sliderheader">
+	<div class="top_links">
+	      <ul class="links">
         <li class="icon01"><a href="/about">About Us</a></li>
         <li class="icon02"><a href="/contactus">Contact Us</a></li>
         <li class="icon03"> 1-866-490-5980</li>
       </ul>
-          <div class="notloggedin">
-		<form action="http://www.instantcheckmate.com/profile/user_login" method="post" accept-charset="utf-8"><input type="text" name="username" value="" title="Username or Email"><input type="password" name="password" value="" title="password"><input type="submit" name="submit_login_form" value="" id="top_login_button">		</form>
-	<a href="/profile/user_forgot_password">Forgot Password?</a>
+ 	    </div>
+	<div id="modalWrap"></div>
+<div id="loginClose"></div>
+<!-- <div id="signupClose"></div> -->
+<div id="sliderWrap">
+    <div id="openCloseIdentifier"></div>
+    <div id="slider">
+        <div id="sliderContent">
+            <div class="loginform">
+			<div class="login_header"></div>
+			<form action="/profile/user_login" method="post">	
+				<label for="username">Email:</label>
+				<input type="text" name="username" id="username">
+				<div style="clear:both;"></div>
+				<label for="password">Password:</label>
+				<input type="password" name="password" id="password">
+				<div style="clear:both;"></div>
+				<input type="submit" id="top_login_button" value="" name="submit_login_form">
+				<div style="clear:both;"></div>
+			</form>
+		<a href="/profile/user_forgot_password">Forgot your password?</a>
+		
     </div>
+        </div>
+        <div id="openCloseWrap">
+            <a class="topMenuAction" id="topMenuImage">
+            </a>
+        </div>
     </div>
+</div>
+
+<!--
+<div id="sliderWrapSignup">
+    <div id="openCloseIdentifierSignup"></div>
+    <div id="sliderSignup">
+        <div id="sliderContentSignup">
+			<div class="loginform">
+				<div class="signup_header"></div>
+				<form action="/register/criminal_records" method="post">
+				
+				<label for="first_name">First Name:</label>
+				<input type="text" name="first_name" id="first_name" />
+				<br clear="all" />
+				
+				<label for="last_name">Last Name:</label>
+				<input type="text" name="last_name" id="last_name" />
+				<br clear="all" />
+				
+				<label for="email">Email:</label>
+				<input type="text" name="email" id="email" />
+				<br clear="all" />
+				
+				<label for="password">Password:</label>
+				<input type="password" name="password" id="password" />
+				<br clear="all" />
+				
+				<label for="zip">Zip Code:</label>
+				<input type="text" name="zip" id="zip" />
+				<br clear="all" />
+				
+				<input type="submit" id="top_signup_button" value="" name="submit_login_form"/>
+				<br clear="all" />
+				</form>
+			</div>
+        </div>
+        <div id="openCloseWrapSignup">
+            <a class="topMenuActionSignup" id="topMenuImageSignup">
+                
+            </a>
+        </div>
+    </div>
+</div>
+-->
+
+	</div>
   </div>
   <div id="body_container">
     <div class="main_top">
@@ -68,69 +170,69 @@ $('.tooltip').tipsy({fallback: "1-866-490-5980" });
 	<p>By providing us with Personal Information about yourself on our Website or in the course of using our services, you consent to the transfer of your Personal Information, and any other data we acquire about you from third-party service providers for commercial use.  </p>
 	
 	<h2>INFORMATION COLLECTION, USE, AND DISSEMINATION PRACTICES.</h2>
-	<h3>1.0.	Collection of Information. </h3>
+	<h3>1.0. Collection of Information. </h3>
 	
 	<p>
-	</p><h3>1.1.	User Direct Information.</h3>  Each time you provide or transmit information via the Website, Company may obtain and collect personal information about you, including, but not limited to, your name, email address, mailing address, social security number, credit card information, bank account information and telephone or cell phone number (collectively referred to as "Personal Information"). 
+	</p><h3>1.1. User Direct Information.</h3>  Each time you provide or transmit information via the Website, Company may obtain and collect personal information about you, including, but not limited to, your name, email address, mailing address, social security number, credit card information, bank account information and telephone or cell phone number (collectively referred to as "Personal Information"). 
 	<p></p>
 	
 	<p>
-	</p><h3>1.2.	Survey Information. </h3> Company may collect Personal Information from you when you voluntarily complete a Company survey, order form, or a registration page either online by using the internet or offline by providing this information through the mail, in person or using a telephone. This information may be collected by surveys, order forms, or registration pages operated by third parties. This method of collection is collectively known as a “Survey.” In such Surveys, Company or a third party may ask you to provide Personal Information including your name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, social security number, employment information, personal and online interests, and such other information as may be requested from time to time. Company may also collect such information concerning you from another source and uses that information in combination with information provided from the Website or Surveys. Completing the Surveys is completely voluntary, and you are under no obligation to provide Survey Information to Company or a third party. 
+	</p><h3>1.2. Survey Information. </h3> Company may collect Personal Information from you when you voluntarily complete a Company survey, order form, or a registration page either online by using the internet or offline by providing this information through the mail, in person or using a telephone. This information may be collected by surveys, order forms, or registration pages operated by third parties. This method of collection is collectively known as a “Survey.” In such Surveys, Company or a third party may ask you to provide Personal Information including your name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, social security number, employment information, personal and online interests, and such other information as may be requested from time to time. Company may also collect such information concerning you from another source and uses that information in combination with information provided from the Website or Surveys. Completing the Surveys is completely voluntary, and you are under no obligation to provide Survey Information to Company or a third party. 
 	<p></p>
 	
 	<p>
-	</p><h3>1.3.	Third Party Information. </h3> Company may collect Personal Information from you when you provide information to a third party and Company subsequently acquires or uses the information provided by the third party. Such information may include, but is not limited to, your name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, industry of employment, personal and online interests, and such other information you may have provided to the third party. When acquiring this information, Company seeks assurances from the third party that you agreed to provide and have such information acquired by Company.  If you did not give express permission, or you would like to remove your permission, you may suppress all of your information by sending notification to us at <a href="mailto:unsubscribe@instantcheckmate.com" title="unsubscribe@instantcheckmate.com.">unsubscribe@instantcheckmate.com.</a>
+	</p><h3>1.3. Third Party Information. </h3> Company may collect Personal Information from you when you provide information to a third party and Company subsequently acquires or uses the information provided by the third party. Such information may include, but is not limited to, your name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, industry of employment, personal and online interests, and such other information you may have provided to the third party. When acquiring this information, Company seeks assurances from the third party that you agreed to provide and have such information acquired by Company.  If you did not give express permission, or you would like to remove your permission, you may suppress all of your information by sending notification to us at <a href="mailto:unsubscribe@instantcheckmate.com" title="unsubscribe@instantcheckmate.com.">unsubscribe@instantcheckmate.com.</a>
 	<p></p>
 	
 	<p>
-	</p><h3>1.4.	Other Methods of Collecting Personal Information.</h3>  Other occasions when Company obtains information from you include: (1) when you claim a prize or seek to redeem an offer by Company or by a third party; (2) when you request assistance through Company’s customer service department; and (3) when you voluntarily subscribe to a Company service or newsletter. 
+	</p><h3>1.4. Other Methods of Collecting Personal Information.</h3>  Other occasions when Company obtains information from you include: (1) when you claim a prize or seek to redeem an offer by Company or by a third party; (2) when you request assistance through Company’s customer service department; and (3) when you voluntarily subscribe to a Company service or newsletter. 
 	<p></p>
 	
 	<p>
-	</p><h3>1.5.	Cookies, Web Beacons, and Other Info Collected Using Technology.</h3>  Company currently uses cookie and web beacon technology to associate certain Internet-related information about you with information about you in its database. Additionally, Company may use other new and evolving sources of information in the future. 
+	</p><h3>1.5. Cookies, Web Beacons, and Other Info Collected Using Technology.</h3>  Company currently uses cookie and web beacon technology to associate certain Internet-related information about you with information about you in its database. Additionally, Company may use other new and evolving sources of information in the future. 
 	<p></p>
 	
 	<p>
-	</p><h3>(a)	Cookies.</h3>  "Cookies" are a feature in your browser software. If enabled, we may write cookies that may store small amounts of data on your computer about your visit to any of the pages of this Site. Cookies assist us in tracking which of our features appeal the most to you and what content you may have viewed on past visits. When you visit this site again, cookies can enable us to customize our content according to your preferences. We may use cookies to: keep track of the number of return visits to this site; accumulate and report aggregate, statistical information on website usage; deliver specific content to you based on your interests or past viewing history; save your password for ease of access to our Site.  You can disable cookies, although the Site may not function properly for you. Your browser preferences can be modified to accept or reject all cookies, or request a notification when a cookie is set. You may read more about cookies at http://cookiecentral.com. In order to use all of the features and functionality of Company’s websites, you need to accept cookies. 
+	</p><h3>(a)	Cookies.</h3> "Cookies" are a feature in your browser software. If enabled, we may write cookies that may store small amounts of data on your computer about your visit to any of the pages of this Site. Cookies assist us in tracking which of our features appeal the most to you and what content you may have viewed on past visits. When you visit this site again, cookies can enable us to customize our content according to your preferences. We may use cookies to: keep track of the number of return visits to this site; accumulate and report aggregate, statistical information on website usage; deliver specific content to you based on your interests or past viewing history; save your password for ease of access to our Site.  You can disable cookies, although the Site may not function properly for you. Your browser preferences can be modified to accept or reject all cookies, or request a notification when a cookie is set. You may read more about cookies at http://cookiecentral.com. In order to use all of the features and functionality of Company’s websites, you need to accept cookies. 
 	<p></p>
 	
 	<p>
-	</p><h3>(b)	Web Beacons.</h3>  A web beacon is a programming code that can be used to display an image on a web page, but can also be used to transfer your unique user identification to a database and associate you with previously acquired information about an individual in a database. This allows Company to track certain websites you visit. Web beacons are used to track online behavioral habits for marketing purposes to determine products or services you may be interested in. In addition to using web beacons on web pages, Company also uses web beacons in email messages sent to individuals listed in Company’s database. 
+	</p><h3>(b)	Web Beacons.</h3> A web beacon is a programming code that can be used to display an image on a web page, but can also be used to transfer your unique user identification to a database and associate you with previously acquired information about an individual in a database. This allows Company to track certain websites you visit. Web beacons are used to track online behavioral habits for marketing purposes to determine products or services you may be interested in. In addition to using web beacons on web pages, Company also uses web beacons in email messages sent to individuals listed in Company’s database. 
 	<p></p>
 	
 	<p>
-	</p><h3>(c)	IP Addresses.</h3>  Company automatically tracks certain information based upon your behavior on the site. We may use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve you and our community. This information may include the URL that you just came from (whether this URL is on the site or not), which URL you next go to (whether this URL is on the site or not), your computer browser information, and your IP address. Your Internet Protocol ("IP") is a unique Internet "address" which is assigned to you by your Internet Service Provider ("ISP"). For local area network ("LAN"), DSL, or cable modem users, an IP address may be permanently assigned to a particular computer. IP addresses are automatically logged by Web servers, collecting information about a user's traffic patterns. While the IP address does not identify an individual by name, it may, with the cooperation of the ISP, be used to locate and identify an individual using the Web. Your IP address can, however, reveal what geographic area you are connecting from, or which ISP you are using. Finally, other websites you visit have IP addresses, and we may collect the IP addresses of those websites and their pages.
+	</p><h3>(c)	IP Addresses.</h3> Company automatically tracks certain information based upon your behavior on the site. We may use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve you and our community. This information may include the URL that you just came from (whether this URL is on the site or not), which URL you next go to (whether this URL is on the site or not), your computer browser information, and your IP address. Your Internet Protocol ("IP") is a unique Internet "address" which is assigned to you by your Internet Service Provider ("ISP"). For local area network ("LAN"), DSL, or cable modem users, an IP address may be permanently assigned to a particular computer. IP addresses are automatically logged by Web servers, collecting information about a user's traffic patterns. While the IP address does not identify an individual by name, it may, with the cooperation of the ISP, be used to locate and identify an individual using the Web. Your IP address can, however, reveal what geographic area you are connecting from, or which ISP you are using. Finally, other websites you visit have IP addresses, and we may collect the IP addresses of those websites and their pages.
 	<p></p>
 	
 	<p>
-	</p><h3>(d)	Computer Profiles.</h3>  Company may also collect and accumulate other anonymous data which will help us understand and analyze the Internet experience of our visitors. For instance, Company may accumulate visitor data relating to referring domain names, the type of browsers used, operating system software, screen resolutions, color capabilities, browser plug-ins, language settings, cookie preferences, search engine keywords and JavaScript enablement. When you provide us with Personal Identification Information, we are able to use such visitor data to identify you. 
+	</p><h3>(d)	Computer Profiles.</h3> Company may also collect and accumulate other anonymous data which will help us understand and analyze the Internet experience of our visitors. For instance, Company may accumulate visitor data relating to referring domain names, the type of browsers used, operating system software, screen resolutions, color capabilities, browser plug-ins, language settings, cookie preferences, search engine keywords and JavaScript enablement. When you provide us with Personal Identification Information, we are able to use such visitor data to identify you. 
 	<p></p>
 	
 	<p>
-	</p><h3>(e)	Data Analysis.</h3>  Data Analysis technology may be employed from time to time if used by a Client of Company. 
+	</p><h3>(e)	Data Analysis.</h3> Data Analysis technology may be employed from time to time if used by a Client of Company. 
 	<p></p>
 	
 	<p class="sub_para2_txt2">
-	</p><h3>(f)	New Technology.</h3>  The use of technology on the Internet, including cookies and web beacons, is rapidly developing. As a result, Company strongly encourages individuals to revisit this policy for any updates regarding its use of new technology. 
+	</p><h3>(f)	New Technology.</h3> The use of technology on the Internet, including cookies and web beacons, is rapidly developing. As a result, Company strongly encourages individuals to revisit this policy for any updates regarding its use of new technology. 
 	<p></p>
 	
 	
 	<p>
-	</p><h3>1.6.	No Information Collected from Children.</h3>  Company will never knowingly collect any Personal Information about children under the age of 13.  If Company obtains actual knowledge that it has collected Personal Information about a child under the age of 13, that information will be immediately deleted from its database.  Because it does not collect such information, Company has no such information to use or to disclose to third parties.  
+	</p><h3>1.6. No Information Collected from Children.</h3>  Company will never knowingly collect any Personal Information about children under the age of 13.  If Company obtains actual knowledge that it has collected Personal Information about a child under the age of 13, that information will be immediately deleted from its database.  Because it does not collect such information, Company has no such information to use or to disclose to third parties.  
 	<p></p>
 	
 	<p>
-	</p><h3>1.7.Credit Card Information and Bank Account Information.</h3>  Company may, in certain instances, collect credit card numbers, bank account information and related information when an individual places an order on Company’s Website. When the credit card or bank account information is submitted to Company, such information is encrypted and is protected with SSL encryption software. Company will use the credit card information or bank account information for purposes of processing and completing the transaction you requested on the Website, and the credit card information or bank account information will be disclosed to third parties as necessary to complete the requested purchase transaction.  
+	</p><h3>1.7. Credit Card Information and Bank Account Information.</h3>  Company may, in certain instances, collect credit card numbers, bank account information and related information when an individual places an order on Company’s Website. When the credit card or bank account information is submitted to Company, such information is encrypted and is protected with SSL encryption software. Company will use the credit card information or bank account information for purposes of processing and completing the transaction you requested on the Website, and the credit card information or bank account information will be disclosed to third parties as necessary to complete the requested purchase transaction.  
 	<p></p>
 	
-	<h3>2.0.	Use of Personal Information.  </h3>
+	<h3>2.0. Use of Personal Information.  </h3>
 		
 	<p>
 	</p><h3>2.1.	General Use.</h3>  The following paragraphs describe how Company currently uses Personal Information, but Company may change or broaden its use at any time.  As noted below, Company may update this policy from time to time. Company may use Personal Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, mobile marketing, online banner advertising, and package stuffers, among other possible uses. 
 	<p></p> 
 	
 	<p>
-	</p><h3>2.2.	Email and Unsubscribe Policy.</h3> Company uses Personal Information to provide third party promotional offers by email to individuals.  Company may maintain separate email lists for different purposes.  If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list.  To unsubscribe from all Company’s email lists, a person must send an email to <a href="mailto:unsubscribe@instantcheckmate.com" title="unsubscribe@instantcheckmate.com.">unsubscribe@instantcheckmate.com.</a> 
+	</p><h3>2.2.	Email and Unsubscribe Policy.</h3> Company uses Personal Information to provide third party promotional offers by email to individuals.  Company may maintain separate email lists for different purposes.  If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list.  To unsubscribe from all Company’s email lists, please enter your email in the form located on our <a href="http://www.instantcheckmate.com/utilities/unsubscribe" title="unsubscribe link">unsubscribe page</a>.
 	<p></p>
 	
 	<p>
@@ -263,15 +365,17 @@ $('.tooltip').tipsy({fallback: "1-866-490-5980" });
   </div>
 </div>
   <div id="footer">
-    <div class="footer_links">
+        <div class="footer_links">
       <ul>
         <li class="none">Copyright © Instant Check Mate LLC®. All Rights Reserved.</li>
         <li><a href="/privacy_policy">Privacy Policy</a></li>
         <li><a href="/dmca">DMCA</a></li>
         <li><a href="/terms_conditions">Terms &amp; Conditions</a></li>
+        <li><a href="/faq">FAQ</a></li>
+        <li><a href="/assets/common/images/sample2-big.jpg" class="zoom">Sample Report</a></li>
+        <li><a href="/optout">Remove My Info</a></li>
       </ul>
-    </div>
-    <div class="disclaimer"> <strong>disclaimer</strong>
+    </div>    <div class="disclaimer"> <strong>disclaimer</strong>
       <p>Please do not use InstantCheckMate.com as a substitute for your own due diligence, research or caution when investigating others. While we strive to provide the most helpful information we can, we do not represent or warrant that the results we provide will be 100% accurate or up to date. There may be criminal history and/or other records that are not present in our results for a variety of reasons and users should be aware of such possibilities.</p>
     </div>
     <div class="footer_bottom">
@@ -305,6 +409,7 @@ $('.tooltip').tipsy({fallback: "1-866-490-5980" });
   _gaq.push(['_setCampContentKey', 'cnt']);
   _gaq.push(['_setCampSourceKey', 'src']); 
   _gaq.push(['_setCampMediumKey', 'mdm']);
+  _gaq.push(['_trackPageLoadTime']);
   
   _gaq.push(['_trackPageview']);
 
@@ -335,6 +440,7 @@ var google_conversion_value = 0;
 </noscript>
 
 <img height="1" width="1" src="https://view.atdmt.com/action/mmn_instantcheckmate_landingpage">
+<img height="1" width="1" src="https://ad.yieldmanager.com/pixel?id=1336075&amp;t=2">
 
 
 </body></html>
