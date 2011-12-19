@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seoautomatic.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230045023id_/http%3A//www.searchcommander.com/privacy-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoautomatic.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219225245id_/http%3A//www.searchcommander.com/privacy-legal) for the most accurate reproduction.*
 
-# Privacy & Legal | Search Commander, Inc.
+# Privacy & Legal - Search Commander, Inc.
 
 Privacy Policy of Search Commander, Inc. 
 
@@ -31,7 +31,7 @@ Portland OR 97220**
 **Dispute Resolution **  
 Search Commander, Inc. is committed to resolving any dispute you may have regarding our privacy policy quickly and efficiently.
 
-Disputes will be handled by our customer service representative as outlined at [http://www.searchcommander.com](http://www.searchcommander.com//).  Our customer service will promptly correct any errors.
+Disputes will be handled by our customer service representative as outlined at [http://www.searchcommander.com](http://www.searchcommander.com/).  Our customer service will promptly correct any errors.
 
 **Information Collection **
 
