@@ -1,166 +1,147 @@
-> *The following text is extracted and transformed from the healthywomen.org privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624051429id_/http%3A//www.healthywomen.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthywomen.org privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219205708id_/http%3A//www.healthywomen.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# privacy policy | HealthyWomen
 
-  * Introduction
-  * How is Personal Information Requested and/or Collected and Used at Healthywomen.org?
-  * How Does Healthywomen.org Disclose Information?
-  * How Does Healthywomen.org use Cookies?
-  * How Does Healthywomen.org Secure Your Information?
-  * How Does Healthywomen.org Cooperate with Law Enforcement Officials?
-  * Information from Third Parties
-  * NWHRC Partners
-  * NWHRC Links
-  * Electronic Newsletters
-  * Contacting the NWHRC
-  * Updating the Privacy Policy
+**Introduction**
 
-  
+The National Women's Health Resource Center, Inc. ("HealthyWomen") doing business as HealthyWomen believe strongly in an individual's right to privacy. We recognize that you trust us to provide quality health information. We apply these same high standards when we protect your Personal Information ("Personal Information" is defined as any information that identifies or can be used to identify the person to whom such information pertains) and Personal Health Information ("Personal Health Information" is defined as any information that combines your Personal Information with known health characteristics).
 
+When you visit HealthyWomen's website, [www.healthywomen.org](http://www.healthywomen.org/ "www.healthywomen.org") (the "Website"), we may request and/or collect a minimal amount of Personal Information and Personal Health Information. This information is requested and/or collected in order to better serve you through the various applications on the Website.
 
-* * *
+The information included on the Website is provided free-of-charge, and we encourage visitors to gain access to as much health information as possible.
 
-## Introduction
+To help users understand the Personal Information and Personal Health Information we gather and the practices we employ, HealthyWomen has developed this Privacy Policy.
 
-The National Women's Health Resource Center, Inc. (NWHRC) and [www.healthywomen.org](http://www.healthywomen.org/) believe strongly in an individual's right to privacy. We recognize that you trust us to provide quality health information. We apply these same high standards when we protect your personal information in confidentiality and privacy matters.
+**Disclosure of Information**
 
-When you visit [www.healthywomen.org](http://www.healthywomen.org/), we may request and/or collect a minimal amount of personal information. This information is requested and/or collected in order to better serve you through the various applications at the site.
+Except as described in this Privacy Policy or as specifically agreed to by you, HealthyWomen will not disclose any Personal Information or Personal Health Information it gathers from you on the Website. We may only release Personal Information or Personal Health Information to third-parties: (1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) in special cases, such as in response to a physical threat to you or others, to protect property or defend or assert legal rights. In the event that we are legally compelled to disclose your Personal Information or Personal Health Information to a third-party, we will attempt to notify you unless doing so would violate the law or court order. In addition, we may disclose Personal Information as described below. 
 
-The information included at Healthywomen.org is provided free-of-charge, and we encourage visitors to gain access to as much health information as possible.
+**How is Personal Information Requested and/or Collected and Used at HealthyWomen?**
 
-To help consumers understand the personal information we gather and the practices we employ, Healthywomen.org has developed this Privacy Policy.
+**1\. User (Consumer) Surveys** \- Our user surveys include registering Personal Information, such as name, email address, address, age, last education level attained, profession, ethnicity, primary language, household income, relationship status. Participation in these surveys is completely voluntary and the visitor therefore has a choice whether or not to disclose Personal Information.
 
-* * *
+The information gathered from user surveys is used for internal analysis purposes, so that we learn about the profile of our user audience. HealthyWomen does not sell, rent, loan, trade, lease, or otherwise provide to third parties any individually attributable information. HealthyWomen however, reserves the right to review and disclose aggregate data and information with third-parties to better serve our users, but will only do so in a fashion that protects from disclosure every user's Personal Information.
 
-## How is Personal Information Requested and/or Collected and Used at Healthywomen.org?
+**2\. Aggregate Data** – HealthyWomen may combine, in a non-identifiable format, the Personal Information and Personal Health Information you provide with information from other users to create a compilation of statistical data ("Aggregate Data") that may be disclosed to third-parties. Aggregate Data does not contain any information that could be used to contact or identify you. For example, HealthyWomen may use information gathered to create a composite profile of all the users of a particular third-party site. These third-party websites may use this information to understand community needs and to design appropriate programs and activities on their site. HealthyWomen will not disclose your Personal Information and Personal Health Information to any third-party without your prior permission, except as otherwise permitted by this Privacy Policy.
 
-  1. **User (Consumer) Survey** \- Our user survey includes registering personal information, such as name, email address, address, age, last education level attained, profession, ethnicity, primary language, household income, relationship status, and other variables. 
+**3\. Women's Health Surveys** \- Topic-specific surveys at the site may or may not request a participant to register/provide Personal Information and/or Personal Health Information. Participation in these surveys is completely voluntary and the visitor therefore has a choice whether or not to disclose Personal Information.
 
-The information gathered from this user survey is used for internal management purposes, so that we learn about the profile of our user audience. The NWHRC does not sell, rent, loan, trade, lease, or otherwise provide to third parties any individually attributable information. The NWHRC however, reserves the right to review aggregate data and information with third parties to better serve our users, and we do so in a fashion that protects every user's personal information.
+The information gathered from these women's health surveys are used for internal analysis purposes, so that we learn, in aggregate form, about lifestyle issues, experiences and opinions of our users. HealthyWomen does not sell, rent, loan, trade, lease, or otherwise provide to third-parties any Personal Information and/or Personal Health Information. HealthyWomen, however, reserves the right to review and disclose aggregate survey data with third-parties to better serve our users, but will only do so in a fashion that protects from disclosure every user's Personal Information and Personal Health Information.
 
-  2. **Women's Health Surveys** \- Topic-specific surveys at the site may or may not request a participant to register/provide personal information. Participation in these surveys is completely voluntary and the visitor therefore has a choice whether or not to disclose personal information. 
+**4\. Consumer Feedback** \- When you submit feedback to us through our Feedback Form, and/or [info@healthywomen.org](mailto:info@healthywomen.org) and [webmaster@healthywomen.org](mailto:webmaster@healthywomen.org), we ask that you include your name and email address.
 
-The information gathered from these women's health surveys are used for internal management purposes, so that we learn, in aggregate form, about lifestyle issues, experiences and opinions of our users. The NWHRC does not sell, rent, loan, trade, lease, or otherwise provide to third parties any individually attributable information. The NWHRC however, reserves the right to review aggregate survey data with third parties to better serve our users, and we do so in a fashion that protects every user's personal information.
+We ask for this information so that we may contact you as necessary for additional clarification and to address any questions or feedback that you send us. This clarification will help HealthyWomen continue to improve its website and information offered. HealthyWomen does not sell, rent, loan, trade, lease, or otherwise provide this Personal Information to third-parties.
 
-  3. **Consumer Feedback** \- When you submit feedback to us through our Feedback Form, and/or [info@healthywomen.org](mailto:info@healthywomen.org) and [webmaster@healthywomen.org](mailto:webmaster@healthywomen.org), we ask that you include your name and email address. 
+**5\. Ecommerce**
 
-We ask for this information so that we may contact consumers as necessary for additional clarification and to address any questions or feedback that you send us. This clarification will help the NWHRC continue to improve its site and information offered.
+a. _Newsletter Subscriptions_
 
-  4. **Ecommerce**  
-a. _Newsletter Subscription_  
-When you subscribe to NWHRC newsletters, i.e., the _National Women's Health Report_ , we ask for personal information including your name, email address, phone and fax numbers, billing address, shipping address, and credit card number and expiration.  
-We use this information to enable the Center to verify the visitor's identity, process the transaction, verify receipt of payment, confirm shipment information, and provide status reports related to orders. Individual personal information is not sold, rented, loaned, traded, leased or otherwise provided to third parties. 
+When you subscribe to HealthyWomen newsletters, e.g., the _News from HealthyWomen_ , we ask for Personal Information including your name, email address and zip code.
 
-b. _Books/Health Products Purchases_ \- With the exception of NWHRC's _Book of Women's Health_ , when you purchase books/health products, NWHRC does not handle the actual transactions. We have collaborated with Amazon.com, and it is therefore the individual user's responsibility to understand and agree to the terms, conditions and privacy policy of Amazon.com. NWHRC has no control or liability to the actions and policies of Amazon.com.
+We use this information to verify your identity, process the transaction, confirm shipment information, and provide status reports related to orders. HealthyWomen does not sell, rent, loan, trade, lease, or otherwise provide to third-parties any Personal Information.
 
-  5. **IP Address** \- Healthywomen.org collects Internet Protocol (IP) addresses for all of its visitors. 
+b. _Publications_ – When you order publications offered on the Website, we ask for Personal Information including your name, email address, and shipping address. In addition, when there is an applicable shipping charge, we ask for additional Personal Information, including billing address, credit card number and expiration.
 
-Healthywomen.org uses this information in aggregate form to analyze visitor trends, administer the site, track users, and gather broad demographic information about our users. IP addresses are not linked to personally identifiable information. Individual IP addresses are not sold, rented, loaned, traded, leased or otherwise provided to third parties.
+We use this information to verify your identity, process the transaction, verify receipt of payment, confirm shipment information, and provide status reports related to orders. HealthyWomen does not sell, rent, loan, trade, lease, or otherwise provide to third-parties any Personal Information. 
 
-  6. **Email Lists** \- Healthywomen.org presently does not maintain email lists, however, NWHRC reserves the right to do so in the future. 
+**6\. IP Address** \- HealthyWomen collects Internet Protocol (IP) addresses for all of its visitors/users.
 
-If this should take place, email lists would be used to keep healthywomen.org visitors informed as to new information at the site, products, services, and events. The NWHRC would not sell, rent, loan, trade, lease or otherwise provide individual email addresses to third parties. Additionally, we would ensure that list server software does not divulge email addresses of our list subscribers to anyone other than Healthywomen.org staff.
+HealthyWomen uses this information in aggregate form to analyze visitor/user trends, administer the site, track users, and gather broad demographic information about our visitors/users. IP addresses are not linked to a visitor/user's Personal Information. HealthyWomen does not sell, rent, loan, trade, lease, or otherwise provide individual IP addresses to third-parties.
 
-  7. **Interactive Tools** \- Healthywomen.org presently does not have interactive tools, however, NWHRC reserves the right to develop or license interactive tools in the future. 
+**7\. Email Lists** – As described in this policy, HealthyWomen collects email addresses of users who communicate with us via email, including but not limited to survey information, site registration, and for fulfillment of subscription and purchase orders. 
 
-If this should take place, the interactive tools may collect personal information if you so choose to use them. When you use a tool, it would not store personal information unless this is requested. Therefore, you would be able to use the tools and choose not to store your personal information; it is deleted and no longer accessible to anyone. If you choose to store the information, it would be collected by Healthywomen.org and subject to the overall Privacy Policy. Healthywomen.org cannot access personally identifiable information, nor will it share this information with others, unless the user expressly provides permission to do so, or we are required to disclose such information according to law.
+HealthyWomen may use this information in aggregate form to analyze visitor/user trends, administer the site, track users, and gather broad demographic information about our visitors/users. Email addresses are not linked to a visitor/user's Personal Information. HealthyWomen does not sell, rent, loan, trade, lease, or otherwise provide individual email addresses to third-parties.
 
-When a tool is provided at the site, NWHRC/healthywomen.org will disclose its source and a description of the scientific basis for its operation. As appropriate, NWHRC will describe how it maintains the tools, including an evaluation process and the date of the last review or update.
+**8\. Interactive Tools** \- HealthyWomen presently does not have interactive tools, however, HealthyWomen reserves the right to develop or license interactive tools in the future.
 
-  8. **Discussions at Healthywomen.org** \- Healthywomen.org may offer discussions (bulletin boards), chats and other types of public forums to our users. These forums require registering under an ID and password. Our users are advised that disclosure of information at these public forums becomes public record, and they should post information with caution. NWHRC's Privacy Policy does not protect you when you use public forums. We recommend that you do not use public forums to share personal information such as medical conditions due to the accessibility of that information by all who have access to it as a public domain. You should be aware that any information shared in a public chat room, bulletin board or online activity is considered public information and may be seen or collected by third parties that do not adhere to our Privacy Policy nor are in the control of NWHRC. You should think carefully before disclosing any personal information in any public forum. 
+**9\. Discussions at HealthyWomen** \- HealthyWomen may offer discussions on public bulletin boards, blogs, chat rooms and other types of public forums ("Community Sites") to our users. The Community Sites may require registering under an ID and password. The Community Sites are hosted by a third-party vendor, and any use, retention, and elimination practices of Personal Information/Personal Health Information are subject to its privacy policy. Our users are advised that disclosure of information at the Community Sites becomes public record, and they should post information with caution. HealthyWomen's Privacy Policy does not protect you when you use Community Sites. We recommend that you do not use Community Sites to share Personal Information and/or Personal Health Information such as medical conditions due to the accessibility of that information by all who have access to it as a public domain. You should be aware that any information shared in a Community Site is considered public information and may be seen or collected by third-parties that do not adhere to our Privacy Policy nor are in the control of HealthyWomen. As with any public forum on any website, the information that you post can show up on any third-party search engine. You should think carefully before disclosing any Personal Information and/or Personal health Information in a Community Site.
 
-These forums are to be respected and to be used professionally. Healthywomen.org will take steps to remove individuals from the forums who do not respect discussions protocol, such as those who include abusive language or demonstrate pornographic behavior.
+These forums are to be respected and to be used professionally. HealthyWomen will take steps to remove individuals and/or their posts from the forums that do not abide by the Community Site's discussions protocol, such as those who include abusive language or demonstrate pornographic behavior.
 
-Healthywomen.org uses this information in the event that the participants violate the terms and conditions of these discussions and we need to contact visitors. Healthywomen.org uses the information collected in these forums to evaluate consumer thoughts and behaviors in aggregate form.
+HealthyWomen will use information, including Personal Information, gathered from the Community Sites in the event that the participants violate the terms and conditions of these discussions and we need to contact users. In addition, HealthyWomen uses the information collected from the Community Sites to evaluate consumer thoughts and behaviors in aggregate form.
 
-  9. **Email A Friend** \- In the event that the visitor uses our service to inform a friend about the site and/or to send information, we ask for his/her email, and the friend's name and email address. 
+**10\. Email A Friend/Social Media Services** \- In the event that a visitor uses our service to inform a friend about the Website and/or to send information via email or a social media service (e.g., Facebook, Twitter, and LinkedIn), we ask for Personal Information, including registration information, his/her email address, and the friend's name and/or email address.
 
-Healthywomen.org uses this information to automatically send the friend a one-time email with this information, and stores this information for the sole purpose of sending this one-time email. The friend is instructed to contact [www.healthywomen.org](http://www.healthywomen.org/) to request the removal of this information from the database.
+HealthyWomen engages a third-party vendor for this service and, the use, retention and elimination practices are subject to its privacy policy. HealthyWomen does not sell, rent, loan, trade, lease, or otherwise provide to third-parties any Personal Information.  
 
 
+**How Does HealthyWomen Disclose Information?**
 
+HealthyWomen does not sell, rent, loan, lease or otherwise provide any Personal Information collected at our site to any third-parties.
 
-* * *
+**How Does HealthyWomen use Cookies?**
 
-## How Does Healthywomen.org Disclose Information?
+When you logon to the Website, a cookie is generated on the server, or the machine that hosts the site. The cookie is a randomly generated number that does not include any of your Personal Information. This randomly generated number or cookie remains on the server machine, not on your computer, until you leave the site. When you visit the Website again, a different, unique randomly generated number or cookie is assigned.
 
-Healthywomen.org does not sell, rent, loan, lease or otherwise provide any personal information collected at our site to any third parties.
+HealthyWomen uses cookies for user convenience. This enables the user to use the site without needing to input the same Personal Information over and over again. Cookies also enable HealthyWomen on an aggregate basis to track site navigation, such as what sections users are visiting, and how long they stay there. 
 
-* * *
+HealthyWomen does not and will not use cookies to direct advertisers to you based on your Personal Information. Additionally, HealthyWomen does not and will not allow third-parties to include cookies in their banners/promotional logos.
 
-## How Does Healthywomen.org use Cookies?
+Most browser software can be set to reject all Cookies. Most browsers offer instructions on how to reset the browser to reject Cookies in the "Help" section of the toolbar. If you reject our Cookies, certain of the functions and conveniences of the Website may not work properly but you do not have to accept our Cookies in order to productively use the Website. We do not link Non-Personal Information from Cookies to Personal Information without your permission and do not use Cookies to collect or store Personal Health Information about you.
 
-When you logon to Healthywomen.org, a cookie is generated on the server, or the machine that hosts the site. The cookie is a randomly generated number that does not include any of your personal information. This randomly generated number or cookie remains on the server machine, not on your computer, until you leave the site. When you visit Healthywomen.org again, a different, unique randomly generated number or cookie is assigned.
+**Web Beacons** – We also may use Web Beacons to collect Non-Personal Information about your use of the Website and your use of special promotions or newsletters. The information collected by Web Beacons (i) allows us to statistically monitor how many people are using the Website, (ii) how many people open our e-mails, and (iii) for what purposes these actions are being taken. We do not link Non-Personal Information from Web Beacons to Personal Information without your permission and do not use Web Beacons to collect or store Personal Health Information about you.
 
-Healthywomen.org uses cookies for user convenience. This enables the visitor to use the site without needing to input the same personal information over and over again. Cookies also enable Healthywomen.org on an aggregate basis to track site navigation, such as what sections visitors are visiting, and how long they stay there. Healthywomen.org does not collect this information using personal information.
+**How Does HealthyWomen Secure Your Information?**
 
-Healthywomen.org does not and will not use cookies to direct advertisers to you based on your personal information. Additionally, Healthywomen.org does not and will not allow third parties to include cookies in their banners/promotional logos.
+HealthyWomen places your Personal Information as its highest priority. Therefore, when you provide Personal Information on the Website, we use a unique security system that combines leading technical safeguards, encryption and a code of conduct for employees who access any information. HealthyWomen uses Secure Socket Layer (SSL) encryption technology in transmitting your Personal Information to our servers to ensure the integrity and privacy of your Personal Information. Also, all transactions are conducted through secure servers, which are protected behind state-of-the-art firewalls, and only selected HealthyWomen personnel and contractors have access, via password, to them.
 
-* * *
+You should be aware that there is always some risk involved in transmitting any information, personal or otherwise, over the Internet. There is also some risk and no guarantee that a site is completely secure from individuals who try to evade security measures. HealthyWomen will make every reasonable effort to protect your Personal Information from loss, misuse or alteration.
 
-## How Does Healthywomen.org Secure Your Information?
-
-NWHRC places your personal information as its highest priority. Therefore, when you register personal information at healthywomen.org, we use a unique security system that combines leading technical safeguards, encryption and a code of conduct for employees who access any information. NWHRC uses Secure Socket Layer (SSL) encryption technology in transmitting your personal information to our servers to ensure the integrity and privacy of your personal information. Also, all transactions are conducted through secure servers, which are protected behind state-of-the-art firewalls.
-
-You should be aware that there is always some risk involved in transmitting any information, personal or otherwise, over the Internet. There is also some risk and no guarantee that a site is completely secure from individuals who try to evade security measures. Healthywomen.org will make every reasonable effort to protect your personal information from loss, misuse or alteration.
-
-* * *
-
-## How Does Healthywomen.org Cooperate with Law Enforcement Officials?
+**How Does HealthyWomen Cooperate with Law Enforcement Officials?**
 
 Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy.
 
-Healthywomen.org cooperates with all law enforcement inquiries and with third parties to enforce their intellectual property or other rights. Therefore, those third parties, local, state and federal law enforcement can request your name, street address, city, state, zip code, country, phone number and email address. By way of example, Healthywomen.org may be required to disclose information to the government or others under certain circumstances or third parties may unlawfully intercept private communications. Furthermore, we may release personal information in order to comply with valid legal requirements such as a law, regulation, search warrant, subpoena, or court order.
+HealthyWomen cooperates with all law enforcement inquiries and with third-parties to enforce their intellectual property or other rights. Therefore, those third-parties, local, state and federal law enforcement officials can obtain your Personal Information and/or Personal Health Information as a result of a legal requirement. By way of example, HealthyWomen may be required to disclose information to the government or others under certain circumstances (e.g., matters of national security, law enforcement or other issues of public importance), or third-parties may unlawfully intercept Personal Information and/or Personal Health Information. Furthermore, we may release Personal Information and/or Personal health Information in order to comply with valid legal requirements such as a law, regulation, search warrant, subpoena, or court order.
 
-* * *
+**Children**
 
-## Information from Third Parties
+We are committed to protecting the privacy of children. Neither HealthyWomen nor any of its services are designed or intended to attract children under the age of 13. We do not collect Personal Information from any person we know is under the age of 13. A parent or guardian, however may use HealthyWomen with a minor. The parent or guardian is solely responsible for providing supervision of the minor's use of HealthyWomen. The parent or guardian assumes full responsibility for ensuring that the registration information is kept secure and that the information submitted is accurate. The parent or guardian also assumes full responsibility for the interpretation and use of any information or suggestions provided for the minor.
 
-From time to time, the NWHRC may offer our users the opportunity to obtain promotional and product information directly from third-party sponsors. To obtain this information, consumers will be instructed to "opt-in" or "opt-out." By opting-in, certain personal information will be requested from the consumer. The user should be aware that any personal information disclosed once you access these third party sites is not subject to this Privacy Policy. NWHRC does not endorse and is not responsible for the privacy practices of these third party sites. You should review the privacy policy posted on the third party site to understand how that third party collects and uses personal information. At any time, the consumer will be able to change its decision by visiting the particular Web site section and modifying their previous decision.
+**Information from Third Parties**
 
-* * *
+From time to time, HealthyWomen may offer our users the opportunity to obtain promotional and product information directly from third-party sponsors. To obtain this information, users will be instructed to "opt-in" or "opt-out." By opting-in, certain Personal Information will be requested from the user. The user should be aware that any Personal Information disclosed once you access these third-party sites is not subject to this Privacy Policy. HealthyWomen does not endorse and is not responsible for the privacy practices of these third-party sites. You should review the privacy policy posted on the third-party site to understand how that third-party collects and uses Personal Information. At any time, the user will be able to change its decision by visiting the particular website section and modifying their previous decision.
 
-## NWHRC Partners
+**HealthyWomen Partners**
 
-As a course of business, the NWHRC may partner with third parties in an effort to more broadly disseminate health information, as well as receive services/information for its Web site. These partners may include, but are not limited to, dot.coms, health care companies, news services, and vendors. The NWHRC does not sell, rent, loan, trade, lease or otherwise provide individual consumer/user information to these third parties. The NWHRC does not endorse and is not responsible for the privacy policies of these third parties, as indicated in the above section (Information from Third Parties) nor is it legally responsible for content that they may be providing to NWHRC.
+In the course of business, HealthyWomen may partner with third-parties in an effort to more broadly disseminate health information, as well as receive services/information for the Website. These partners may include, but are not limited to, dot.coms, health care companies, news services, and vendors. HealthyWomen does not and will not sell, rent, loan, trade, lease or otherwise provide Personal Information to these third-parties. HealthyWomen does not endorse and is not responsible for the privacy policies of these third-parties, as indicated in the above section (Information from Third Parties) nor is it legally responsible for content that they provide to HealthyWomen.
 
-* * *
+**HealthyWomen Links**
 
-## NWHRC Links
+The Website contains numerous links to health information, corporate and organizational websites. HealthyWomen does not endorse and is not responsible for the privacy policies of these third-parties, nor is it responsible for content that they provide. We encourage our users to review and understand the privacy policies posted at these sites.
 
-Healthywomen.org contains numerous links to health information, corporate and organizational Web sites. The NWHRC does not endorse and is not responsible for the privacy policies of these third parties, nor is it responsible for content that they provide. We encourage our users to review and understand the privacy policies posted at these sites.
+**Electronic Newsletters**
 
-* * *
+The HealthyWomen offers free e-mail newsletters. They include _HealthyWomen Take 10_ , a monthly e-newsletter; two editions of _News from HealthyWomen_ , one for consumers and one for health care professionals, which are mailed twice a month; and _Sex & a Healthier You_, a monthly e-newsletter. 
 
-## Electronic Newsletters
+Anyone can subscribe to these newsletters; the only information that is required is a valid e-mail address. HealthyWomen sends e-mail newsletters only to those who have specifically given us their permission to mail them to them. HealthyWomen will never sell, rent, loan, trade, lease or otherwise provide your newsletter subscriber data or Personal Information to third-parties without your advance permission.
 
-The National Women's Health Resource Center (NWHRC) offers free e-mail newsletters. They include the electronic version of the bi-monthly _National Women's Health Report_ ; _HealthyWomen Take 10_ , a monthly e-newsletter, and two editions of _News from the NWHRC_ , one for consumers and one for health care professionals, which are mailed twice a month.
+All e-newsletters offered by HealthyWomen contain a remove link at the bottom of the message. A subscriber may remove their e-mail address permanently from the list by clicking the link and selecting the "unsubscribe" function.
 
-Anyone can subscribe to these newsletters; the only information that is required is a valid e-mail address. NWHRC sends e-mail newsletters only to those who have specifically given us their permission to mail them to them. NWHRC will never share, sell or rent your newsletter subscriber data or personal information with third parties without your advance permission.
+**Contacting HealthyWomen**
 
-All e-newsletters offered by NWHRC contain a remove link at the bottom of the message. A subscriber may remove their e-mail address permanently from the list by clicking the link and selecting the "unsubscribe" function.
+Every page of the Website offers the user the opportunity to contact HealthyWomen with any questions concerning one's health, and existing policies, including the Disclaimer, Privacy Policy, Advertising Policy, and Editorial Policy. These questions are directed to [info@healthywomen.org](mailto:info@healthywomen.org).
 
-* * *
+Every page also offers the user the opportunity to contact HealthyWomen with questions/concerns regarding site functionality. The following email address is used for this purpose: [webmaster@healthywomen.org](mailto:webmaster@healthywomen.org).
 
-## Contacting the NWHRC
+Additionally, contact information for the organization is identified in the "About HealthyWomen" section, under "Contact Us." General user contact information is as follows:
 
-Every page of the Web site offers the consumer the opportunity to contact the NWHRC with any questions concerning one's health, and existing policies, including the Disclaimer, Privacy Policy, Advertising Policy, and Editorial Policy. These questions are directed to [info@healthywomen.org](mailto:info@healthywomen.org).
+National Women's Health Resource Center, Inc.
 
-Every page also offers the consumer the opportunity to contact the NWHRC with questions/concerns regarding site functionality. The following email address is used for this purpose: [webmaster@healthywomen.org](mailto:webmaster@healthywomen.org).
+157 Broad Street
 
-Additionally, contact information for the Center is identified in the "About NWHRC" section, under "Contact Us." General consumer contact information is as follows:
+Suite 106
 
-> National Women's Health Resource Center, Inc.  
->  157 Broad Street  
->  Suite 315  
->  Red Bank, NJ 07701  
->  1-877-98-NWHRC  
->  [info@healthywomen.org](mailto:info@healthywomen.org)
+Red Bank, NJ 07701
 
-* * *
+1-877-98-NWHRC
 
-## Updating the Privacy Policy
+[info@healthywomen.org](mailto:info@healthywomen.org)
 
-Due to the rapidly evolving technologies on the Internet, we reserve the right to update this Privacy Policy from time to time. All revisions will be posted to this site. Access to the Privacy Policy will be made available to the visitor from every page of Healthywomen.org. Questions regarding this policy should be directed by email to [info@healthywomen.org](mailto:info@healthywomen.org).
+This Privacy Policy does not apply to content, business information, ideas, concepts or inventions that you send to HealthyWomen by email. If you want to keep content or business information, ideas, concepts or inventions private or proprietary, do not send them in an email to HealthyWomen. We try to answer every email within 48 business hours, but are not always able to do so.
 
-Last updated December 20, 2006
+**Updating the Privacy Policy**
+
+Due to the rapidly evolving technologies on the Internet, we reserve the right to update this Privacy Policy from time to time. All revisions will be posted to this site. Access to the Privacy Policy will be made available to the visitor from every page of the Website. Questions regarding this policy should be directed by email to [info@healthywomen.org](mailto:info@healthywomen.org).
+
+Last updated December 1, 2011  
+
