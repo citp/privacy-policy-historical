@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wackywednesdaysale.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514084241id_/http%3A//wackywednesdaysale.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wackywednesdaysale.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219050218id_/http%3A//wackywednesdaysale.com/privacy.html) for the most accurate reproduction.*
 
 # Wacky Wednesday Sale | PRIVACY POLICY
 
