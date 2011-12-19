@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the cleopatraschoice.com privacy policy that was archived on 2010-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100724200907id_/http%3A//www.cleopatraschoice.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleopatraschoice.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219211217id_/http%3A//www.cleopatraschoice.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy Cleopatra's Choice
+# Privacy Policy
 
-Cleopatra's Choice values your privacy greatly and will never give out or sell any of your e-mail or other information. When you place an order with us we need to collect certain information from you including your address, phone number, name and credit card information. Because our website and database use 128 bit SSL encryption, your information is kept safe from hackers or spammers. You can be absolutely sure that Cleopatra's Choice will never divulge your e-mail, phone number, address or credit card information to any one! 
+_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
 
-We hate e-mail spam just as much as you do and we value your privacy!
+We take your privacy very seriously! We HATE Spam just as much as you do and we NEVER sell, rent or otherwise give out ANY of your information!
 
-  
-Go back to shopping our [skin care products](http://www.cleopatraschoice.com/)  
-
+Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
