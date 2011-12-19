@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clcillinois.edu privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620092621id_/http%3A//www.clcillinois.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clcillinois.edu privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219064618id_/http%3A//www.clcillinois.edu/privacy.asp) for the most accurate reproduction.*
 
 # CLC - Privacy Policy
 
