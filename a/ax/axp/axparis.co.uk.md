@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the axparis.co.uk privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617032209id_/http%3A//www.axparis.co.uk/Legal/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axparis.co.uk privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219195708id_/http%3A//www.axparis.co.uk/pages/privacy-policy) for the most accurate reproduction.*
 
-# AX Paris - META DATA - Privacy Policy
+# Privacy Policy
 
 Privacy matters AXPARIS recognizes the importance of our customers' privacy and takes a number of steps to protect that privacy. The following discloses the information gathering and dissemination practices for our web site.
 
@@ -20,7 +20,6 @@ We also collect non-personally identifiable information through the use of cooki
 
 We ask for your name, telephone number, home address, email address and age for competitions, prize draws or newsletter sign ups. When a purchase is made on our site, in addition to the above, we also ask for delivery address, and payment method details. We may obtain information about your usage of our web site to help us develop and improve it further.
 
-  
 **Uses of your Information**
 
 Financial information that is collected is used to bill you for products that you request. Contact information from the order form is used to send orders and information about our company to you. You may opt-out of receiving future mailings; see "How to remove your name from our mailing, sharing or email list" below.
@@ -29,7 +28,6 @@ If you register for email or if you provide your email address to us, we will se
 
 We use your shipping address to ship your products to you and to send catalogues and other mailings to you. We use your billing address, if different than your shipping address, to verify your billing information. We never share our customer names or addresses, e-mail addresses or other personally identifiable information, other than to the extent described in the “Consenting to Uses of Your Information” section below. If you do not wish to receive catalogues or other mailings from us, please see the "How to remove your name from our mailing, sharing or email list" section below.
 
-  
 **Disclosures of Your Information**
 
 We do not disclose your personal information to other companies, persons or agencies.
@@ -44,6 +42,10 @@ Our Site gives you the following options for removing your information from our 
 
 1\. You may send an email to
 
+[unsubscribe@axparis.co.uk](mailto:unsubscribe@axparis.co.uk)
+
+**Protection of Personal Information**
+
 We want you to feel confident about using AXPARIS to make purchases and we are committed to protecting the personal information we collect. While no web site can guarantee security, we have implemented appropriate physical, electronic and managerial security procedures to help protect the personal information that you provide to us.
 
 **Changes to this Privacy Policy**
@@ -52,6 +54,10 @@ AXPARIS may update this privacy policy in the future. We will notify you about m
 
 **How to contact us**
 
-If you have any questions or concerns about the privacy or security of your information, you may contact us in any of the following ways
+If you have any questions or concerns about the privacy or security of your information, you may contact us in any of the following ways.
 
-1\. You may contact us  on our support area below
+1\. You may contact us on our support area below
+
+[Help area](http://axparis.websitesthatrock.co.uk/pages/contact-us/)
+
+**EFFECTIVE DATE 1st April 2008**
