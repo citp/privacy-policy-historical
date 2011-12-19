@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fantomaster.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623165540id_/http%3A//fantomaster.com/index2.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantomaster.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219182047id_/http%3A//fantomaster.com/index2.html%23privacy) for the most accurate reproduction.*
 
-# About fantomaster.com: who we are - our privacy policy - 2011-06-23
+# About fantomaster.com: who we are - our privacy policy - 2011-12-19
 
 ## Our Mission
 
