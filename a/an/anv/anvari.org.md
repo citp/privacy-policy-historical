@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anvari.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623090905id_/http%3A//www.anvari.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anvari.org privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219050708id_/http%3A//www.anvari.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
