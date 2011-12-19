@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jm-experts.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508035203id_/http%3A//www.jm-experts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jm-experts.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219041229id_/http%3A//www.jm-experts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - The Joomla Experts
+# Privacy policy
 
 This is a privacy policy for the Joomla Experts and the www.jm-experts.com website.
 
