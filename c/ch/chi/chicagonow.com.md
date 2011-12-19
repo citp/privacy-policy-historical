@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chicagonow.com privacy policy that was archived on 2009-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091029161755id_/http%3A//www.chicagonow.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagonow.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219154925id_/http%3A//www.chicagonow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ChicagoNow
+# Privacy Policy | ChicagoNow
 
-_Last Updated: May 2009_
+*Last Updated: May 2009*
 
 ChicagoNow.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by ChicagoNow.com online and does not impact information collected or used by ChicagoNow.com or its affiliates through other means.
 
@@ -44,7 +44,11 @@ ChicagoNow.com does not knowingly collect or solicit Personally Identifiable Inf
 
 We can be reached by contacting:
 
-ChicagoNow c/o Clark Bender 435 Michigan Ave. Chicago, IL 60611 [cbender@tribune.com](mailto:cbender@tribune.com)
+ChicagoNow  
+c/o Clark Bender  
+435 Michigan Ave.  
+Chicago, IL 60611  
+[cbender@tribune.com](mailto:cbender@tribune.com)
 
 **Changes to this policy.**
 
@@ -56,4 +60,4 @@ This policy and the use of this Site are governed by Illinois law. Any claim rel
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control.
 
-_Copyright © 2009, ChicagoNow_
+*Copyright © 2009, ChicagoNow* 
