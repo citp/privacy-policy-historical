@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bexar.org privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222015051id_/http%3A//www.bexar.org/Privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bexar.org privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219232956id_/http%3A//www.bexar.org/Privacy/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -29,4 +29,4 @@ We use Log analysis tools to create summary statistics, which are used for purpo
 
 
 
-If you have any questions or comments on our Policy, please address them to: webmaster@co.bexar.tx.us
+If you have any questions or comments on our Policy, please address them to: Webmaster@Bexar.org
