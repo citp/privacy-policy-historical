@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hustlermoneyblog.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621045907id_/http%3A//www.hustlermoneyblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hustlermoneyblog.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219205744id_/http%3A//www.hustlermoneyblog.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -51,6 +51,7 @@ policy, please contact:  **HustlerMoneyBlog** **[at] gmail.com**
 
 **Related posts:**
 
-  1. [Finweb.com gives you good financial information](http://www.hustlermoneyblog.com/finwebcom-gives-you-good-financial-information/ "Permanent Link: Finweb.com gives you good financial information")
+  1. [Disclaimer Policy](http://www.hustlermoneyblog.com/disclaimer-policy/ "Disclaimer Policy")
+  2. [Finweb.com gives you good financial information](http://www.hustlermoneyblog.com/finwebcom-gives-you-good-financial-information/ "Finweb.com gives you good financial information")
 
 
