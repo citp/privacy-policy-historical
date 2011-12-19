@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muzigle.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630054310id_/http%3A//www.muzigle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muzigle.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219071202id_/http%3A//www.muzigle.com/privacy) for the most accurate reproduction.*
 
 # Muzigle - Privacy Policy
 
