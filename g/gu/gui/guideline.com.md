@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the guideline.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617152146id_/http%3A//www.opinionresearch.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guideline.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219170826id_/http%3A//www.opinionresearch.com/privacy.shtml) for the most accurate reproduction.*
 
-# Opinion Research Corporation :: Privacy Policy
+# ORC International :: Privacy Policy
 
 Revised January 28, 2008
 
 ## Scope 
 
-This Opinion Research Corporation (ORC) Online Privacy Policy applies solely to information collected by Opinion Research Corporation through any of its websites which display or link to this policy. It does not apply to those ORC websites, services and products which either do not display or link to this statement or have their own privacy statements. ORC is not responsible for the data policies, procedures or content of any third party website which may be linked from this website. ORC, an infoUSA company and global market research firm, is committed to maintaining the privacy and security of your personal information according to the terms outlined in this Policy. As a founding member of the Council of American Survey Research Organizations (CASRO) and member of the European Society for Opinion and Marketing Research (ESOMAR), we must adhere to rigorous industry standards which exist in part to safeguard your privacy and the security of your personal information. This website is not used to collect information from survey participants. 
+This ORC International (ORC) Online Privacy Policy applies solely to information collected by ORC International through any of its websites which display or link to this policy. It does not apply to those ORC International Websites, services and products which either do not display or link to this statement or have their own privacy statements. ORC International is not responsible for the data policies, procedures or content of any third party website which may be linked from this website. ORC International, a global market research firm, is committed to maintaining the privacy and security of your personal information according to the terms outlined in this Policy. As a founding member of the Council of American Survey Research Organizations (CASRO) and member of the European Society for Opinion and Marketing Research (ESOMAR), we must adhere to rigorous industry standards which exist in part to safeguard your privacy and the security of your personal information. This website is not used to collect information from survey participants. 
 
 ## Information We Collect and How We Use It 
 
@@ -18,7 +18,7 @@ Like many companies, we use "cookie" technology on our site. The cookies we use 
 
 ## Use of Personal Information by Third Parties
 
-Except as stated in this Policy, ORC does not disclose the personally identifying information collected on this website to any person or entity controlling, controlled by, or under common control with ORC. We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, hosting websites, processing transactions, or performing statistical analysis of our services. Those companies will be permitted to obtain only the personal information they need to deliver the service; are required to maintain the confidentiality of the information; and are prohibited from using it for any other purpose. ORC may disclose personally identifying information collected on this website if we believe such action is required by law or desirable to permit us to exercise our legal rights or take action regarding illegal activities, or if we have a good faith belief that you are in violation of the terms of service. Should there be a change in control of ORC or all or part of the company is sold, merged, or otherwise transferred to another entity, we may transfer personally identifying information as part of that transaction. 
+Except as stated in this Policy, ORC International does not disclose the personally identifying information collected on this website to any person or entity controlling, controlled by, or under common control with ORC International. We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, hosting websites, processing transactions, or performing statistical analysis of our services. Those companies will be permitted to obtain only the personal information they need to deliver the service; are required to maintain the confidentiality of the information; and are prohibited from using it for any other purpose. ORC International may disclose personally identifying information collected on this website if we believe such action is required by law or desirable to permit us to exercise our legal rights or take action regarding illegal activities, or if we have a good faith belief that you are in violation of the terms of service. Should there be a change in control of ORC International or all or part of the company is sold, merged, or otherwise transferred to another entity, we may transfer personally identifying information as part of that transaction. 
 
 ## Security 
 
@@ -26,7 +26,7 @@ We take reasonable technical and organizational precautions to prevent the loss,
 
 ## Contact Us 
 
-Questions regarding this Policy and related privacy issues should be directed to ORC by sending an e-mail to privacy@opinionresearch.com with the subject line "privacy," along with a thorough description of your concern. 
+Questions regarding this Policy and related privacy issues should be directed to ORC International by sending an e-mail to privacy@opinionresearch.com with the subject line "privacy," along with a thorough description of your concern. 
 
 ## Conditions of Use and Your Consent
 
