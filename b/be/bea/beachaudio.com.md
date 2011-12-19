@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beachaudio.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609042316id_/http%3A//www.beachaudio.com/info.php%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachaudio.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219193815id_/http%3A//www.beachaudio.com/info.php%23Privacy) for the most accurate reproduction.*
 
 # Beach Audio - About Us | Customer Help Center : Consumer Electronics, Video Games, Cables, Appliances, and much more!
 
@@ -17,7 +17,7 @@ All items we sell are BRAND NEW and FACTORY SEALED. We do not sell any refurbish
 
 We are quite proud of the ratings and testimonials we receive from independent sources. 
 
-Please visit our [Ratings & Testimonials](https://web.archive.org/web/20110609042316id_/http%3A//www.beachaudio.com/testimonials.php) page to see for yourself!
+Please visit our [Ratings & Testimonials](https://web.archive.org/web/20111219193815id_/http%3A//www.beachaudio.com/testimonials.php) page to see for yourself!
 
 ###  Sales and Support 
 
@@ -58,14 +58,14 @@ Most orders ship within one business day from the time the order is placed. Orde
 
 If your shipping address is in California or North Carolina, you will automatically be charged applicable sales tax.
 
-For Oklahoma Customers :  
-Oklahoma Sales Tax 710:65-21-8
+For Oklahoma and Vermont Customers :  
+Oklahoma/Vermont Sales Tax 710:65-21-8
 
-(A) Beach Audio is not required, and does not collect Oklahoma sales or use tax;  
-(B) The purchase is subject to Oklahoma use tax unless it is specifically exempt from taxation;  
+(A) Beach Audio is not required, and does not collect Oklahoma/Vermont sales or use tax;  
+(B) The purchase is subject to Oklahoma/Vermont use tax unless it is specifically exempt from taxation;  
 (C) The purchase is not exempt merely because it is made over the Internet, by catalog, or by other remote means;  
-(D) The State of Oklahoma requires Oklahoma purchasers to report all purchases that were not taxed and pay tax on those purchases. The tax may be reported and paid on the Oklahoma individual income tax return [Form 511] or by filing a consumer use tax return. [Form 21-1]; and  
-(E) The referenced forms and corresponding instructions are available on the Oklahoma Tax Commission website,[www.tax.ok.gov](http://www.tax.ok.gov/).
+(D) The State of Oklahoma/Vermont requires Oklahoma/Vermont purchasers to report all purchases that were not taxed and pay tax on those purchases. The tax may be reported and paid on the Oklahoma/Vermont individual income tax return [Form 511] or by filing a consumer use tax return. [Form 21-1]; and  
+(E) The referenced forms and corresponding instructions are available on the Oklahoma/Vermont Tax Commission website,[www.tax.ok.gov](http://www.tax.ok.gov/).
 
 ###  Payment Methods
 
