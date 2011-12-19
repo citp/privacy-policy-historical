@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the packtpub.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521021948id_/http%3A//www.packtpub.com/article/packtpubcom_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packtpub.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219121237id_/http%3A//www.packtpub.com/article/packtpubcom_privacy_policy) for the most accurate reproduction.*
 
 # PacktPub.com Privacy Policy | Packt Publishing Technical & IT Book and eBook Store
 
@@ -23,12 +23,7 @@ At this point we do not merge usage information with registration information to
 
 This policy applies to all web sites and email services provided by Packt Publishing. By using these web sites you consent to the general terms and conditions of usage and to the terms of this privacy policy.
 
-_Packt Publishing Ltd  
-32 Lincoln Road  
-Olton Birmingham B27 6PA  
-United Kingdom  
-T : +44 121 683 1170  
-F: +44 121 683 1171_
+Packt Publishing Ltd  2nd Floor Livery Place, 35 Livery Street  Colmore Business District Birmingham B3 2PB United Kingdom  T : +44 (0) 121 265 6484 F: +44 (0) 121 212 1419
 
 [ contact@packtpub.com](mailto:contact@packtpub.com)
 
