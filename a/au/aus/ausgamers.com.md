@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ausgamers.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619203652id_/http%3A//www.ausgamers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausgamers.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219071252id_/http%3A//www.ausgamers.com/privacy.php) for the most accurate reproduction.*
 
 # AusGamers Privacy Policy - AusGamers.com
 
@@ -68,4 +68,8 @@ Facsimile: +61-7-3721-5001
 
 ## More information
 
-For more information about privacy in general, you can visit the Federal Privacy Commissioner's web site at www.privacy.gov.au.
+For more information about privacy in general, you can visit the Federal Privacy Commissioner's web site at [http://www.privacy.gov.au](http://www.privacy.gov.au/).
+
+## Advertising
+
+Telstra's digital advertising network is responsible for placing some of the advertising on this site. To make this advertising more relevant to you, anonymous information about the previous web browsing activity of your computer on sites within Telstra's network is collected and used to associate your computer with one or more pre-defined interest categories. Advertising that matches those interest categories may then be served to your computer. This interest based advertising does not change the amount of advertising you receive, it just makes it more relevant. You can learn more about the interest based advertising conducted by Telstra here: <http://www.telstra.com.au/privacy/interest-based-advertising/>. General information about interest based advertising is available from the industry website www.youronlinechoices.com.au, and you can also opt out of some or all interest based advertising [here](http://www.youronlinechoices.com.au/opt-out). 
