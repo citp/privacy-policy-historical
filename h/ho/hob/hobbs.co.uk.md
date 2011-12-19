@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobbs.co.uk privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621002734id_/http%3A//www.hobbs.co.uk/index.cfm%3Fpage%3D1041) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbs.co.uk privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219192205id_/http%3A//www.hobbs.co.uk/index.cfm%3Fpage%3D1041) for the most accurate reproduction.*
 
 # 
 
@@ -73,6 +73,8 @@ When you visit our Website we send you a cookie. Cookies may be used in the foll
 \- To enable the personalisation features on our Website (which give you the ability to recall recently viewed pages and see information which you have input on line). 
 
 \- To compile anonymous, aggregated statistics that allow us to understand how users use our Website and to help us improve the structure of our Website. We cannot identify you personally in this way. 
+
+\- To compile anonymous statistics on what products you have looked at and in some cases bought, in order to serve you relevant advertising. This information is collected by our technology partner Struq, and is only used to serve advertising for Hobbs products. There is no way for us or Struq to identify you personally from this data and it is not shared with or used by any other company. For more information, and to opt out of this form of cookie, you can visit the [Struq website](http://www.struq.com/consumer-opt-out/index.php).
 
 Two types of cookies may be used on the Website; "session" cookies, which are temporary cookies that remain in the cookie file of your browser until you leave the site and "persistent" cookies, which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie).
 
