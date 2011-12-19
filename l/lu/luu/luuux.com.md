@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luuux.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515054955id_/http%3A//www.luuux.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luuux.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219192731id_/http%3A//www.luuux.com/privacy) for the most accurate reproduction.*
 
 # Privacy | LUUUX
 
@@ -25,7 +25,12 @@ PASSIONSFABRIKKEN APS may use cookies on the Websites it operates. Cookies are s
 
 ### Minors and Children
 
-LUUUX is intended for an adult audience and you are not permitted to register on the LUUUX site if you are under the age of eighteen.
+LUUUX is intended for audiences of 15 or over and you are not permitted to register on the LUUUX site if you are under the age of 15. If you between the age of 15 and 18 years and not an emancipated minor, you should always consult your legal parents or guardian and get their permission before submitting personal information.
+
+### 3rd Party Advertising Partners
+
+LUUUX will carry advertising on its site from 3rd Party providers such as Google Ad Sense and other companies. We do not share you information with these companies, however, these companies may collect anonymous information about visits to LUUUX. In this section of our privacy policy, we include the names of our advertiser partners so you may contact them to opt-out of any anonymous site visit data they collect.  
+[Lijit Networks](http://www.lijit.com/company/publisher-agreement)
 
 ### How to Contact Us
 
