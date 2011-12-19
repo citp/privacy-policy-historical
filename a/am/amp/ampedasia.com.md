@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the ampedasia.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509191914id_/http%3A//www.ampedasia.com/articles/15/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampedasia.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219224846id_/http%3A//www.ampedasia.com/page/15) for the most accurate reproduction.*
 
-# Amped Asia Articles | Interviews | Opposite Sex | Style | Editorials | Entertainment
+# 
 
-  
+[](http://advancedasian.com/home.html)
+
 At Amped Asia, we take your privacy seriously. This page outlines our policies regarding any information that you may send us. 
 
 Amped Asia will periodically ask e-mail or contact information during some events. When e-mail addresses are collected, they are stored safely, not sold, or given out to any third parties. If such contact information is posted on a public domain, such as our forums, we take no responsibility for the acquirement of your personal information. 
@@ -11,8 +12,10 @@ When you visit Amped Asia, some information is collected such as your IP address
 
 Cookies are set when you login to the forums, also third-party cookies are set by some of our advertising clients. These cookies are assured to be safe. 
 
-* Google, as a third party vendor, uses cookies to serve ads on Amped Asia.
-* Google's use of the DART cookie enables it to serve ads to our users based on their visit to Amped Asia and other sites on the Internet.
-* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy
+  * Google, as a third party vendor, uses cookies to serve ads on Amped Asia.
+  * Google's use of the DART cookie enables it to serve ads to our users based on their visit to Amped Asia and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy
+
+
 
 If you have any questions, [contact us at mail[@]ampedasia.com](mailto:%20mail@ampedasia.com). Thank you. 
