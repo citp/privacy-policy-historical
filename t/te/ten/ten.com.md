@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ten.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507034507id_/http%3A//ten.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ten.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219082723id_/http%3A//www.ten.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
