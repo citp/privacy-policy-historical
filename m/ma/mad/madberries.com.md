@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madberries.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620132044id_/http%3A//www.intouchweekly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madberries.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219082456id_/http%3A//www.intouchweekly.com/privacy) for the most accurate reproduction.*
 
 # Celebrity news and entertainment from In Touch Weekly
 
