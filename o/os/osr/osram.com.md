@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osram.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627235649id_/http%3A//www.osram.com/osram_com/_metapages/Privacy_Policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osram.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219202319id_/http%3A//www.osram.com/osram_com/_metapages/Privacy_Policy/index.html) for the most accurate reproduction.*
 
 # OSRAM|index
 
