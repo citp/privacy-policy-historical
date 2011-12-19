@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frbiz.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418072215id_/http%3A//www.frbiz.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frbiz.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219102012id_/http%3A//www.frbiz.com/static/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Privacy of service online.
 
