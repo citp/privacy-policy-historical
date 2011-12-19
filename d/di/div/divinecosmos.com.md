@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divinecosmos.com privacy policy that was archived on 2011-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110404232055id_/http%3A//divinecosmos.com/index.php/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divinecosmos.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219021116id_/http%3A//www.divinecosmos.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,7 +33,7 @@ Finally, we never use or share the personally identifiable information provided 
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we use a secure Internet host, Ipower.com, Pay Pal and Authorize.net secure online transactions, in order to put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-[**How To Contact Us** ](http://divinecosmos.com/index.php/contact-us)
+[**How To Contact Us** ](http://divinecosmos.com/contact-us)
 
-[Next >](http://divinecosmos.com/index.php/contact-us/privacy-policy/156-our-objectives-for-this-website)  
+[Next >](http://divinecosmos.com/contact-us/privacy-policy/156-our-objectives-for-this-website)  
 ---
