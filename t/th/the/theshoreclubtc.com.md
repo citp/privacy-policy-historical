@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theshoreclubtc.com privacy policy that was archived on 2011-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110131103228id_/http%3A//www.hartlinggroup.com/The-Shore-Club/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshoreclubtc.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219032623id_/http%3A//www.hartlinggroup.com/The-Shore-Club/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Privacy
 
