@@ -1,15 +1,189 @@
-<!--The following is the downloaded HTML source of the friendorfollow.com privacy policy that was archived on 2011-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110626095612id_/http%3A//friendorfollow.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the friendorfollow.com privacy policy that was archived on 2011-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111219081958id_/http%3A//www.friendorfollow.com/privacy) for the most accurate reproduction.-->
 
-<html><head>
-<title>Privacy Policy - FriendOrFollow.com</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script src="http://platform.twitter.com/anywhere.js?id=9cL9ITbuW2KbuLZw0oFk4Q&amp;v=1.2"></script>
+<title>Who Unfollowed Me on Twitter? | Friend or Follow</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+
+<link href="http://c3340665.r65.cf0.rackcdn.com/favicon.ico" rel="icon" type="image/x-icon">
+<link rel="apple-touch-icon" href="http://c3340665.r65.cf0.rackcdn.com/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="http://c3340665.r65.cf0.rackcdn.com/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="http://c3340665.r65.cf0.rackcdn.com/apple-touch-icon-114x114.png">
+
+<link rel="stylesheet" type="text/css" href="/css/all.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
+	<!--[if IE]><link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen"/><![endif]-->
+
+<link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/themes/smoothness/jquery-ui.css" media="screen">
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.15/jquery-ui.min.js" type="text/javascript"></script>
+
+
+
+<script type="text/javascript" src="/js/friendorfollow.js"></script>
+
+
+
+<script type="text/javascript">
+
+var twitterObj;
+
+
+jQuery.ajaxPrefilter(function( options ) {
+    options.global = true;
+});
+
+	$(document).ready(function () {
+
+    	 
+    
+	    twttr.anywhere(function(T)
+	    {
+	    	twitterObj = T;
+	    	
+			T.bind("authComplete", function (e, user) {
+				
+				//createCookie('twitter_anywhere_screenName', T.currentUser.data('screen_name'));
+				$.cookie('twitter_anywhere_screenName', T.currentUser.data('screen_name'), { path: '/' });
+				
+				url = window.location.href;
+	
+				urlSplit = url.split("/");
+				type = urlSplit[4];
+				
+				if(type != 'fans' && type != 'friends')
+					type = 'following';
+					
+				username = T.currentUser.data('screen_name');
+				
+				window.location.href = '/' + username.toLowerCase() + '/' + type + '/';
+		    }); 
+	
+		    
+		    T.bind("signOut", function (e) { 
+				//signOutActions(true);
+				$.cookie('twitter_anywhere_identity', null, { path: '/' });
+				$.cookie('twitter_anywhere_screenName', null, { path: '/' });
+				
+				url = window.location.href;
+				urlSplit = url.split("/");
+				
+				type = urlSplit[4];
+				
+				if(type == 'account')
+				{
+					type = 'following';
+					username = urlSplit[3];
+					window.location.href = '/' + username.toLowerCase() + '/' + type + '/';
+				}
+				else
+					window.location.reload(true);
+		    });
+			
+			T(".hc").hovercards({
+				expanded: true,
+				username: function(node) {
+					return node.alt;
+				}
+			});
+			
+			T(".tUser").hovercards({
+				infer: true,
+				expanded: true
+			});
+			
+			loggedIn = T.isConnected();
+		
+			if (loggedIn)
+			{	user = T.currentUser;
+				screenName = T.currentUser.data('screen_name');
+				//createCookie('twitter_anywhere_screenName', screenName);
+				$.cookie('twitter_anywhere_screenName', screenName, { path: '/' });
+				setTimeout(refresh, 60000*5);
+			}
+			else
+			{
+				$.cookie('twitter_anywhere_identity', null, { path: '/' });
+				$.cookie('twitter_anywhere_screenName', null, { path: '/' });
+			}
+		});
+		
+		var time = new Date().getTime();
+		$(document.body).bind("mousemove keypress", function(e) {
+			time = new Date().getTime();
+		});
+		
+		function refresh() {
+			if(new Date().getTime() - time >= 60000*30)
+			{
+				$.cookie('twitter_anywhere_identity', null, { path: '/' });
+				$.cookie('twitter_anywhere_screenName', null, { path: '/' });
+				twttr.anywhere.signOut();
+				window.location.reload(true);
+			}
+			else 
+				 setTimeout(refresh, 60000*5);
+		}
+		
+    // end document ready
+    });	
+</script>
+
+
+
+
+<style>
+	#wrapper .selectable img.g { opacity:1;filter:alpha(opacity=100);}
+	.selectable .ui-selected img { opacity:0.3;filter:alpha(opacity=30);}
+	.selectable .ui-selected {background-color:#EBE290;}
+	.selectable .ui-selecting {background-color:#EBE290;}
+	.selectable .ui-selecting img { opacity:0.3;filter:alpha(opacity=30);}
+</style>
+<!-- Start Google -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2238927-7']);
+  _gaq.push(['setAllowLinker', true]);
+  _gaq.push(['setDomainName', 'none']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();	
+</script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script>
+<!-- End Google -->
+
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
 </head>
-<body> 
-<h1>Privacy Policy for FriendOrFollow.com </h1> 
+
+<body id="static-page" class="lang-en">
+
+	<div class="w1">
+		<noscript><div class="javascriptnotloaded">Please enable JavaScript to use Friend or Follow.</div></noscript>
+		<div class="w2">
+			<div class="w3">
+				<h1 class="logo"><a href="/">Friend or Follow</a></h1>				<a class="hidden" href="#nav">Skip to navigation</a>
+				<!-- start wrapper -->
+				<div id="wrapper">
+					<!-- start main -->
+					<div id="main">
+						<div class="seo-holder">
+							<!-- start content -->
+							<div id="content" class="page">
+								<div class="inner-page">
+								<h1>Privacy Policy </h1> 
 <p> If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at dusty@dustyreagan.com. </p> 
 <p> At FriendOrFollow.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by FriendOrFollow.com and how it is used. </p> 
 <p> <b>Log Files</b><br> Like many other Web sites, FriendOrFollow.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. </p> 
+
 <p> <b>Cookies and Web Beacons</b><br> FriendOrFollow.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. </p> 
 <b>DoubleClick DART Cookie</b><br> 
 <p> 
@@ -18,13 +192,89 @@
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html </p> 
 <p> Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: 
 <br> Google AdSense 
+<br> FeaturedUsers.com
 <br>BuySellAds.com
 <br>ValueClick Media
-<br>YeildBuild
 </p> 
 <p> These third-party ad servers or ad networks use technology to the advertisements and links that appear on FriendOrFollow.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. </p> 
 <p> FriendOrFollow.com has no access to or control over these cookies that are used by third-party advertisers. </p> 
 <p> You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. FriendOrFollow.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. </p> 
 <p> If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. </p>
+								</div>
+							</div>
+							<!-- start header -->
+							<div id="header">
+								<div class="frame">
+									<div class="top-bar">
+	<div class="t">&nbsp;</div>
+	<div class="c">
+		<div class="bg">
+			<ul>
+				<li class=""><a href="/top-100/most-followed-twitter-users/">Top 100</a></li>
+				<li class=""><a href="/faq/">FAQ</a></li>
+				<li id="myResultsBullet" class="signedIn hidden "><a href="//following/">My Results</a></li>
+				<li id="myAccountBullet" class="signedIn hidden "><a href="//account/">My Account</a></li>
+				<li id="signoutBullet" class="signedIn hidden "><a href="javascript:twttr.anywhere.signOut();">Sign Out</a></li>
+				<li id="signinBullet" class="signedOut  "><a href="javascript:twitterObj.signIn();">Sign In</a></li>
+			</ul>
+                        <p><a href="javascript:showUpgradePopUp();">Treat yourself to Friend or Follow Gold.</a></p>
+                    </div>
+	</div>
+	<div class="b">&nbsp;</div>
+</div>									<!-- start card-box -->
+									<div class="card-box">
+										<img class="print-logo" src="http://c3340665.r65.cf0.rackcdn.com/bg-logo.png" alt="Friend or Follow" width="222" height="138">
+									</div>
+									
+									<a class="hidden" href="#wrapper">Back to top</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="footer">
+	<div class="holder">
+		<!-- google_ad_section_start(weight=ignore) -->
+		<ul>
+			<li>© 2011 <a href="http://floatingheadstudios.com/" target="_blank">Floating Head Studios</a></li>
+			<li><a href="/privacy/">Privacy Policy</a></li>
+			<li><a href="/tos/">Terms of Service</a></li>
+		</ul>
+		<!-- google_ad_section_end(weight=ignore) -->
+	</div>
+	<div class="b">&nbsp;</div>
+</div>
+<!--
+<div style="margin-left: 300px"><a href="http://bit.ly/icHHpv" target="_blank" style="text-decoration: none">
+    <img style="border:none;float:left;padding-right:8px" src="http://c3340665.r65.cf0.rackcdn.com/MongoLab-48.png" height="48" width="48" alt="MongoLab.com" />
+    <p style="width:200px;font-weight: bold;padding-top:6px;font-size: 16px;line-height: 18px;color: #666">Data power by MongoLab.</p></a>
+</div>-->				</div>
+			</div>
+		</div>
+	</div>
+<a id="uv-feedback" target="_blank" href="http://friendorfollow.uservoice.com/forums/4202-general" onmouseover="this.className='uv-mouseover';return false;" onmouseout="this.className='uv-mouseout';return false;" class="uv-mouseout">feedback</a>
 
- </body></html>
+<!-- Start Chartbeat -->
+<script type="text/javascript">
+var _sf_async_config={uid:2799,domain:"friendorfollow.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+<!-- End Chartbeat -->
+
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/26/eum/rum-staging.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","752accba01",178656,"bwEENRcCDUFRAENaVlZLJwIRCgxcHypZV1xAJwkPEREMXlwGRRxJSg0QAAYaIlFEClhd",0,24,new Date().getTime()])</script>
+
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/26/eum/rum-staging.js"></script><script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
