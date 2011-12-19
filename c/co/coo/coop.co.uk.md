@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coop.co.uk privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517064516id_/http%3A//www.co-operative.coop/terms/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coop.co.uk privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219202530id_/http%3A//www.co-operative.coop/terms/privacystatement) for the most accurate reproduction.*
 
 # privacy statement
 
@@ -32,6 +32,8 @@ This privacy policy explains what information we collect about you, how we may u
 ## What information do we hold on you?
 
 We collect details from you when you request a product, service, offers or news from us from our website, emails, telephone conversations, and written and verbal communication. We may supplement the information that you provide with other information that we obtain from our dealings with you or which we receive from other parts of The Co-operative Group or our Partners.
+
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service.](http://www.clicktale.com/privacy_service.aspx) We are using the information collected by ClickTale service to glean actionable insights into improving the application process. You can choose to disable the Service at <http://www.clicktale.net/disable.html>. 
 
 [Back to top](https://www.co-operative.coop/terms/privacystatement/#About "Back to top of page")
 
