@@ -1,163 +1,120 @@
-> *The following text is extracted and transformed from the nowpublic.net privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619013820id_/http%3A//www.nowpublic.com/newsroom/community/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowpublic.net privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219185612id_/http%3A//www.nowpublic.com/newsroom/community/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Community | Newsroom | NowPublic
 
-This Privacy Policy sets out the policies and practices of NowPublic Technologies Inc. ("NowPublic") with respect to the collection, use, and disclosure of information, including personal information, collected through nowpublic.com (the "Site"). This Privacy Policy is part of, and incorporated into, the [Terms of Use](http://my.nowpublic.com/help/terms_and_conditions) for our Site. 
+**Scope of This Privacy Policy**
 
-In this Privacy Policy, "Personal Information" means any information that identifies you personally, either alone or in combination with other information available to us, including without limitation your name, address, email address, telephone number, age, background, photos of yourself, or other personal information, as further defined under applicable laws.
+Thank you for visiting NowPublic.com. The NowPublic.com website (the “Site”) is operated by Clarity Digital Group LLC ("CDG") and its subsidiary Now Public Technologies, Inc. (“NowPublic”). Your privacy on the Internet is extremely important to us, and we want to make your experience on our Site satisfying and safe. This Privacy Policy applies to information about you collected through our Site. This Privacy Policy is part of and incorporated into the [**Terms of Use**](http://www.nowpublic.com/help/terms_and_conditions) for our Site.
+
+**Types of Information**
+
+We collect two types of information through our Site. “ **PII** ” means “personally identifiable information,” which is information that identifies you personally, either alone or in combination with other information available to us (including without limitation your name, address, email address, telephone number, age, background, or other personal information). **Non-PII** ” means “non-personally identifiable information” or information that alone does not identify you (however, in some circumstances Non-PII may be combined with PII in order to identify a specific individual).
 
 **Your Consent to This Privacy Policy**
 
-By using our Site, you are agreeing to the collection, use, and disclosure of your Personal Information as described in this Privacy Policy. If you do not consent to the collection, use, and disclosure of your Personal Information as described in this Privacy Policy, you may not use our Site.
+By using our Site, you are agreeing to the collection, use, and disclosure of your PII and Non-PII as described in this Privacy Policy. If you have any questions or concerns regarding this Privacy Policy or our privacy practices related to the Site, please email us at [legal@nowpublic.com.](mailto:legal@nowpublic.com)
 
-**This Privacy Policy May Change**
+**Information We Gather and Track**
 
-We reserve the right to update or modify this Privacy Policy, at any time and without prior notice, by posting the revised version of this Privacy Policy on the Site. Your use of the Site following any such change constitutes your agreement that all Personal Information collected from, or about, you through the Site after the revised Privacy Policy is posted will be subject to the terms of the revised Privacy Policy. 
+In order to access or use certain services and capabilities on our Site or to participate in certain programs, you may be required to voluntarily submit certain PII through our Site. The use of these services or capabilities or participation in these programs is purely optional, so you are not required to submit any PII through our Site if you do not wish to do so. For example, you may wish to provide PII in connection with registering on our Site; creating a profile on our Site; sharing content from our Site; participation in commenting features, surveys, contests, sweepstakes, referral programs or other promotions; or submitting feedback to us. This information may include your name, address, email address, and other information you voluntarily provide to us, as well as information we may track regarding the content you have viewed on our Site. 
 
-We may also email you and ask for your consent to use Personal Information previously collected in accordance with a newer version of this Privacy Policy. You may access the current version of this Privacy Policy at any time by clicking on the link marked "Privacy Policy" at the bottom of each page of our Site. 
+We also collect Non-PII through our Site. The Non-PII collected does not by itself identify you personally. However, if you have registered on the Site, it may be possible for us to link certain Non-PII to information that identifies you personally. Non-PII collected through our Site may include: information sent to us automatically by your web browser such as your IP address, the address of the web page you were visiting when you accessed our Site, information on your operating system (e.g., Microsoft Windows or Mac OS), the browser you are using (e.g., Firefox, Internet Explorer, Safari); the date and time of your visit; user traffic patterns and content accessed throughout our Site; and search terms you may enter in our Search function. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand our audience.
 
-**Collection and Use of Personal Information**
+**How Information is Gathered**
 
-NowPublic collects the following types of information from visitors to our Site:
+In order to improve your experience when using our Site, we, our third party service providers, or advertisers may place a text file called a "cookie" in the browser files of your computer, which stores your preferences and may be used to help personalize your experience. We, our third party service providers, or advertisers may also use “web beacons,” “pixel tags” or similar technologies, which are small pieces of code placed on a web page to monitor behavior and collect certain data regarding the actions of our users online. These cookies and other technologies may be used to track user traffic patterns, to enhance your experience when using our Site, to persist information through your session, to personalize the Site for you based on your preferences and selections, to target advertising or content to you as described further below, and to collect Non-PII about you and your visit to our Site for other marketing and business purposes. You can adjust your privacy preferences regarding the use of cookies and similar technologies through your browser. Disabling cookies may result in a less complete experience while using the Site.
 
-**Optional Voluntary Information**
+**Third Party Advertising; Targeting of Ads and Content**
 
-In order to access or use certain services and capabilities on our Site, or to participate in certain programs, you may be required to voluntarily submit Personal Information through our Site. The use of these services or capabilities, or participation in these programs, is purely optional - you are not required to submit any Personal Information to our Site if you do not wish to use or participate. 
+We may use third party companies to serve ads on our Site, to provide us with data collection, ad response measurement, ad or content targeting, and other marketing or related services. We have granted permission to these companies and certain advertisers or customers of these companies to use cookies, web beacons, pixel tags or similar technologies in order to collect Non-PII about our users (subject to their own privacy guidelines) for purposes of generating advertisements and other content targeted to your interests, and for other data collection, response measurement, marketing and related business purposes. The privacy policy of one of our ad-serving partners, DoubleClick, may be accessed at this link: [http://www.google.com/intl/en/privacy.html](http://www.google.com/intl/en/privacy.html#utm_source=dfp_footer&utm_medium=et&utm_campaign=dfp) Our service providers are subject to change from time to time.
 
-For example, you may wish to provide Personal Information in connection with:
+The Network Advertising Initiative (“NAI”), a cooperative group of ad serving providers that has developed a set of privacy principles to which its members adhere, provides a website offering more information about behavioral advertising practices and your choices about not having certain Non-PII used by certain companies in order to target advertisements to you, as well as information about NAI and third party ad servers in general. You may visit the NAI site and opt out of certain behavioral advertising practices at [www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp)
 
-  * registering to become a contributor to our Site; 
-  * using our "email story" feature; 
-  * participating in surveys, contests, or polls; 
-  * participating in referral programs or other promotions; 
-  * registering on our Site for any other reason; 
-  * submitting feedback. 
+**Use of Information**
 
+CDG, its related entities, or certain carefully selected third parties with whom we have business relationships may use PII or Non-PII collected on our Site:
 
+  * To enhance or personalize your experience using our Site; 
 
-Please note that if you use our Site to send content from our Site to a friend, we do not collect or store your friend's email or mobile device number, and the applicable message is considered to have been sent by you rather than NowPublic. 
+  * To inform you of offers or new features that we believe may be of interest to you;
 
-**Usage Tracking**
+  * To provide information or services you have requested;
 
-We may track user traffic patterns and content accessed throughout our Site, as well as use of various environments and tools offered to contributors within or through the Site. We sometimes track and catalog the search terms users of our Site enter in our Search function, but this tracking is not associated with individual users. This information allows us to better tailor our content to readers' needs and to help our advertisers better understand our audience. 
+  * To process or maintain your registration on the Site or content contributor applications; 
 
-**Cookies and Advertising**
+  * To process orders and facilitate advertisements or sponsorships on our Site;
 
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it may enable us to relate your use of this Site to information that you have specifically and knowingly provided. A cookie can't read data off your hard disk or read cookie files created by other sites. We generally use third-party advertising companies to serve ads when users visit the Site. 
+  * In connection with various programs, promotions or contests in which you participate;
 
-In the course of serving advertisements to this Site, our third-party advertisers may place or recognize a unique cookie on your browser. These companies may use information (not including a user’s name, address, email address or telephone number) about user visits to this and other Web sites in order to provide advertisements about goods and services of interest to our users. 
+  * For targeting of advertising or content, or other advertising or marketing purposes;
 
-If you would like more information about this practice or to prevent this information being used by these companies, visit [ DoubleClick](http://www.doubleclick.com/privacy/index.aspx), or our [online advertising networks](http://www.networkadvertising.org/optout_nonppii.asp). 
+  * To study the use and popularity of various areas of our Site and to improve our Site;
 
-NowPublic may use cookies to track user traffic patterns, to enhance your experience when using our Site, to deliver information through your session, and to personalize the Site for you based on your preferences and selections. You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. Disabling cookies may result in errors while using the Site.
+  * To analyze where we are getting our audience;
 
-**Information Sent to Us by Your Web Browser**
-
-We may collect information that is sent to us automatically by your Web browser, such as your IP address, the address of the Web page you were visiting when you accessed our Web Site, information on your operating system and browser, and the date and time of your visit. Such information does not identify you personally. 
-
-However, if you have registered on the Site, it may be possible for us to link the information provided by your browser to information that identifies you personally. In addition, we may review our server logs for security purposes, such as detecting intrusions into our network. If we suspect criminal activity, we might share our server logs - which may contain visitors’ IP addresses - with the appropriate investigative authorities who could use that information to trace and identify individuals. 
-
-**Publications on our Site**
-
-This Site allows you to publish Personal Information about yourself and others, including videos and photos. By publishing your Personal Information on such pages, you consent to the publication of such Personal Information. By publishing Personal Information about another individual, you represent that you have, where required by applicable privacy laws, obtained the consent of such individuals to publish such Personal Information.
-
-**Use of Personal Information**
-
-NowPublic may use Personal Information collected on our Site to:
-
-  * enhance your experience using our Site,
-  * enable you to post content to our Site, 
-  * provide information or services you have requested, 
-  * process or maintain your registration on the Site, 
-  * facilitate advertisements on our Site,
-  * mprove our Site, 
-  * allow you to participate in promotions and programs on our Site, 
-  * and for any other purpose described in this Privacy Policy or any other agreement you may enter with NowPublic, or otherwise as we may disclose to you or to which you consent from time to time. 
+  * For other purposes related to the business of CDG and its related entities, and for any other purpose described in this Privacy Policy or as we may disclose to you or to which you consent from time to time.
 
 
 
-We may also use Personal Information sent to us by your web browser or by cookies to perform statistical analyses of our server logs in order to study the use and popularity of various areas of our Site, and we review IP addresses to analyze our audience source. 
 
-NowPublic may create aggregate reports on user demographics and traffic patterns for advertisers and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. However, we will not collect (nor provide to an advertiser) information about a specific identifiable user who clicked on a particular ad.
+We may create aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their interests. We will not intentionally collect (nor intentionally provide to an advertiser or sponsor) information that a personally-identified user clicked on any particular ad. However, by clicking on, otherwise interacting with or viewing an ad, you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad, and this may lead to similar ads being targeted to you on our Site and potentially on other Sites.
 
-**Sharing Personal Information**
+**Sharing of Information**
 
-We may inform current or potential advertisers or business partners of the results of our analysis of our server logs, including details regarding Site usage and general information about our audience, however, such disclosures will refer only to general, aggregate usage data from this analysis - never specific identifying information. 
+We may share your PII with: (i) our current or future affiliates, subsidiaries, parent company, or other related entities (" **CDG Entities** "); (ii) companies and organizations that perform services on our behalf (such as data storage, web hosting, or other services); and (iii) carefully selected third parties for purposes relating to content creation or distribution deals, selected promotions of CDG or our related entities, or third party promotions we believe would be of interest to you, marketing activities, ad targeting as described above, or other purposes relevant to the business of NowPublic and/or CDG.
 
-We may share your Personal Information with: 
+We may also disclose the PII and Non-PII we collect through our Site when we, in good faith, believe disclosure is appropriate to comply with the law or legal process (including a court order or subpoena); to prevent or investigate a possible crime; to enforce our Site’s [Terms of Use](http://www.nowpublic.com/help/terms_and_conditions) or other agreements that you have entered into with NowPublic or other CDG Entities or that govern your use of our Site; to protect the rights, property or safety of our business, our users or others; or to protect your vital interests.
 
-  1. our current or future affiliates, subsidiaries, parent company, or other related entities ("Related Entities"); 
-  2. companies and organizations that perform services on our behalf, for example, companies that provide support services to us (such as data storage and web hosting services); 
-  3. and carefully selected third parties for purposes relating to content creation or distribution deals, joint promotions, marketing or other purposes to which you may consent. 
+We may share analyses of our server logs, including details regarding Site usage and general information about our audience, with current or potential advertisers or business partners. Such disclosures will refer only to general, aggregate usage data from these analyses - never specific identifying information.
 
+Information submitted to our Site will become part of our normal business records. Your PII may be transferred to another company that acquires the stock or assets of NowPublic and/or CDG, for example, as the result of a sale, merger, reorganization, dissolution or liquidation. If such a transfer occurs, the acquiring company's use of your PII will still be subject to this Privacy Policy, and any privacy choices you selected on our Site.
 
+Please be aware that although we may request your consent for some disclosures described in this section, by using our Site you are deemed to have consented to the collection, sharing, disclosure, processing, transfer, and other uses of your information collected through our Site in the manner described in this Privacy Policy, and we will not be required to obtain your consent for any collection, sharing, disclosure, processing, transfer, and other uses described in this Privacy Policy. 
 
-We may also disclose the Personal Information we collect through our Site when we, in good faith, believe disclosure is appropriate to:
+**User Profiles; Comments; and Other PII Posted by You**
 
-  * comply with the law or legal process (including a court order or subpoena);
-  * prevent or investigate a possible crime, such as fraud or identity theft; 
-  * enforce our Site’s [Terms of Use](http://my.nowpublic.com/help/terms_and_conditions) or other agreements that you have entered into with Related Entities or that govern your use of our Site; 
-  * protect the rights, property or safety of NowPublic, our users or others; 
-  * or to protect your vital interests. 
+If you choose to participate as a content contributor on our Site, you choose to register and create a profile as a user of our Site, or you choose to post comments on our Site, please be aware that your profile (if applicable) and any information you post on our Site (within your profile, comments, or otherwise), including without limitation your name, photo, and any PII you provide in your public profile, as well as certain information regarding your actions on our Site, may automatically be visible to the general public, and will potentially remain on the Site indefinitely.
 
+To the extent you have posted PII in your public user profile, in articles or comments on the Site, or otherwise in a publicly displayed manner on our Site, that information is available to the general public and can be used in connection with distribution and promotion of such content to third parties, for news reporting related to the article or comment in which the PII is located on our Site, or for other similar purposes, due to the fact that the information became public when you posted it on our Site.
 
+**Third Party Websites**
 
-Information submitted to our Site is an asset of NowPublic and will become part of our normal business records.
+Third party websites, including our partners, advertisers, related entities, and other content providers featured on our Site or accessible through links on our Site, may have their own privacy and data collection policies and practices. You may encounter these third party sites through links in content on our Site, advertisements, features, contests, sweepstakes or other promotions featured on or accessible via links from our Site. We do not have any control over these third parties’ use of the information you may provide to them. We are not responsible for the actions or policies of such third parties and we are not liable to you for any claims that may arise from your interaction with those third parties or their sites. You should exercise caution and check the applicable privacy policies of those third parties when providing PII or another party’s information on a feature or page operated by a third party.
 
-Your Personal Information may be transferred to another company that has acquired the stock or assets of NowPublic or our Related Entities, for example, as the result of a sale, merger, reorganization, dissolution or liquidation. If such a transfer occurs, the acquiring company's use of your Personal Information will still be subject to this Privacy Policy, and the privacy preferences you have expressed.
+**International Users – Transfer of Information**
 
-**International Transfer of Information**
-
-You acknowledge that although NowPublic is located in Canada, our parent company, Clarity Digital Group, LLC and certain other Related Entities are located in the United States. Accordingly, you understand and agree that any Personal Information collected on the Site will be transferred to NowPublic in Canada and may also be transferred to our Related Entities in the United States or elsewhere. 
-
-You hereby consent to the transfer to and processing of any Personal Information by NowPublic and any Related Entities, or any of the other parties listed in the immediately preceding paragraph "Sharing Personal Information" whether located in Canada, the United States or any other countries, for the purposes described in this Privacy Policy, or for any other specific purposes to which you consent. 
-
-If you are located in a country other than the United States, you should note that, at present, the laws of the United States and certain other countries have not been approved by the European Commission or privacy authorities in certain other countries re providing "adequate protection" for personal information in the definition of the EU Data Protection Directive or applicable laws of other countries. 
-
-Please know, however, that no matter where your personal information is collected, used, transferred or stored, if it was collected through our Site, it will be protected by the terms of this Privacy Policy. **YOU HEREBY CONSENT TO THE USE AND PROCESSING OF YOUR PERSONAL DATA IN CANADA, THE UNITED STATES, OR IN ANY OTHER COUNTRY IN THE MANNER SET FORTH HEREIN.**
-
-**Third Party Sites**
-
-Third party sites, including our partners, advertisers, affiliates and other content providers accessible through our Site, may have their own privacy and data collection policies and practices. For example, during your visit to our Site you may link to or view certain content that is actually created or hosted by a third party. Through the Site you may be introduced to, or be able to access, information, third party sites, advertisements, features, contests, sweepstakes or other promotions offered by other parties. 
-
-NowPublic is not responsible for the actions or policies of such third parties and is not liable to you for any claims that may arise from your interaction with those third parties or their sites. You should exercise caution and check the applicable privacy policies with regard to those third parties when providing Personal Information or another party’s information on a feature or page operated by a third party.
+CDG is headquartered in the United States, and you understand that any PII collected on the Site is collected and transferred to CDG in the United States and may be shared with CDG Entities in Canada or elsewhere. You hereby consent to the transfer to and processing of any PII by CDG and any CDG-related Entities, or any of the other parties listed in the preceding paragraph "Sharing of Information," whether located in the United States or any other countries, for the purposes described in this Privacy Policy, or for any other specific purposes to which you consent. If you are located in a country other than the United States, you should note that, at present, the laws of the United States and certain other countries have not been approved by the European Commission or privacy authorities in certain other countries as providing "adequate protection" for personal information within the meaning of the EU Data Protection Directive or applicable laws of other countries. Please know, however, that no matter where your personal information is collected, used, transferred or stored, if it was collected through the Site, it will be protected by the terms of this Privacy Policy. YOU HEREBY CONSENT TO THE USE AND PROCESSING OF YOUR PERSONAL DATA IN THE UNITED STATES OR IN ANY OTHER COUNTRY IN THE MANNER SET FORTH HEREIN. 
 
 **Children's Privacy**
 
-We will never knowingly request Personal Information from anyone under the age of 13 without requesting parental consent. The Site is not directed at, nor targeted to, children under the age of 13 and we do not use the Site to knowingly solicit Personal Information from or market to children under the age of 13. If you are under the age of 13, do not provide us with any Personal Information. If we learn that someone under 13 has provided Personal Information to the Site, we will use reasonable efforts to remove such information from our databases.
+Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request PII from anyone under the age of 13 without requesting parental consent. The Site is not directed at nor targeted to children under the age of 13 and we do not use the Site to knowingly solicit PII from or market to children under the age of 13. If you are under the age of 13, do not provide us with any PII. If we learn that someone under 13 has provided PII to the Site, we will use reasonable efforts to remove such information from our databases.
 
-**Security**
+**How We Protect Information**
 
-Our Site operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary. Only authorized individuals have access to the Personal Information provided by our Site’s users.
+We operate secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary. Only authorized individuals have access to the PII provided by our Site’s users.
 
-**Opt-Out**
+**Accessing and Modifying Personal Information and Preferences**
 
-When appropriate, users of the Site are given the opportunity to:
-
-  * opt-out of receiving communications from us, 
-  * remove their personal information from our records, 
-  * or elect to no longer receive services from us. 
-
-
-
-If you wish to opt-out of receiving further communications, please contact NowPublic's privacy officer (the "Privacy Officer") by email or phone using the contact information provided below. 
-
-Accessing and Modifying Personal Information
-
-We respect your right to make choices about the ways we collect, use and disclose your Personal Information. If you have registered on our Site, you may update or modify your information or change your preferences at any time by logging in to the applicable section of our Site, using your user name and password, and updating your user profile, or by sending an email to our Privacy Officer, below. If you have not registered on our Site or you are having trouble updating your profile and you wish to review or modify Personal Information we may have collected about you, please email us at privacy@nowpublic.com. 
-
-You may also direct a written complaint regarding compliance with this Privacy Policy to the Privacy Officer and, within a reasonable time upon receiving the written complaint, the Privacy Officer will conduct an investigation into the matter. Within a reasonable time of concluding the investigation, the Privacy Officer will inform you whether the complaint will be allowed or denied. If the Privacy Officer allows the complaint, NowPublic will take appropriate measure necessary to rectify the source of the complaint.
+We respect your right to make choices about the ways we collect, use and disclose your PII. If you have registered on our Site you may update or modify your information or change your preferences at any time by logging in to the applicable section of our Site using your user name and password, and updating your user profile. If you have not registered on our Site or you are having trouble updating your profile and you wish to review or modify PII we may have collected about you, please email us at [legal@nowpublic.com](mailto:legal@nowpublic.com). You may also opt-out of receiving communications from us by adjusting your subscriptions’ settings under the “Preferences” section of your account, or by emailing us at legal@nowpublic.com. Nonetheless, please be aware that certain activity on the website may generate an email from NowPublic.
 
 **Contact Us**
 
-If you have any questions about this Privacy Policy, NowPublic's privacy practices in connection with this Site, or NowPublic's collection, use, disclosure, or retention of your personal information in connection with this Site, please contact the Privacy Officer as follows:
+If you have any questions about this Privacy Policy, our privacy practices in connection with this Site, or our collection, sharing, disclosure, processing, transfer, and other uses of your personal information in connection with this Site, please contact us follows:
 
-Privacy Officer  
-c/o NowPublic Technologies Inc.  
-204-576 Seymour St,  
-Vancouver, B.C.,  
-V6B 3K1,  
-Canada  
-By fax: 604-628-1141  
-By email: privacy@nowpublic.com  
-This Privacy Policy is effective as of January 23, 2010
+Privacy Officer
+
+c/o Clarity Digital Group LLC
+
+555 17th Street, Suite 700
+
+Denver, CO 80202
+
+U.S.A.
+
+By email: legal@nowpublic.com
+
+**This Privacy Policy May Change**
+
+We reserve the right to update or modify this Privacy Policy, at any time and without prior notice, by posting the revised version of this Privacy Policy on the Site. Your use of the Site following any such change constitutes your agreement that all information collected from or about you through the Site after the revised Privacy Policy is posted will be subject to the terms of the revised Privacy Policy. You may access the current version of this Privacy Policy at any time by clicking on the link marked "Privacy Policy" at the bottom of each page of our Site.
+
+**This Privacy Policy is effective as of September 27, 2011.**
