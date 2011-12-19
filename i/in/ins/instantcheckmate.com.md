@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantcheckmate.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604180727id_/http%3A//www.instantcheckmate.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantcheckmate.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219035704id_/http%3A//www.instantcheckmate.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Checkmate
 
@@ -70,7 +70,7 @@ The use of technology on the Internet, including cookies and web beacons, is rap
 
 Company will never knowingly collect any Personal Information about children under the age of 13. If Company obtains actual knowledge that it has collected Personal Information about a child under the age of 13, that information will be immediately deleted from its database. Because it does not collect such information, Company has no such information to use or to disclose to third parties. 
 
-### 1.7.Credit Card Information and Bank Account Information.
+### 1.7. Credit Card Information and Bank Account Information.
 
 Company may, in certain instances, collect credit card numbers, bank account information and related information when an individual places an order on Company’s Website. When the credit card or bank account information is submitted to Company, such information is encrypted and is protected with SSL encryption software. Company will use the credit card information or bank account information for purposes of processing and completing the transaction you requested on the Website, and the credit card information or bank account information will be disclosed to third parties as necessary to complete the requested purchase transaction. 
 
@@ -82,7 +82,7 @@ The following paragraphs describe how Company currently uses Personal Informatio
 
 ### 2.2. Email and Unsubscribe Policy.
 
-Company uses Personal Information to provide third party promotional offers by email to individuals. Company may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all Company’s email lists, a person must send an email to [unsubscribe@instantcheckmate.com.](mailto:unsubscribe@instantcheckmate.com "unsubscribe@instantcheckmate.com.")
+Company uses Personal Information to provide third party promotional offers by email to individuals. Company may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all Company’s email lists, please enter your email in the form located on our [unsubscribe page](http://www.instantcheckmate.com/utilities/unsubscribe "unsubscribe link"). 
 
 Company's unsubscribe process impacts only the future delivery of electronic mailings disseminated by Company on its own behalf. You may still receive electronic mailings sent on behalf of Third Parties and your Personal Information may still be shared with Third Parties for use in offline marketing and data appends, including email appends unless you unsubscribe as provided above. 
 
