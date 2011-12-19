@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the onetruemedia.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623035236id_/http%3A//www.onetruemedia.com/otm_site/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onetruemedia.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219025800id_/http%3A//www.onetruemedia.com/otm_site/privacypolicy) for the most accurate reproduction.*
 
 # One True Media - Privacy Policy
 
-[](http://www.truste.org/ivalidate.php?url=www.onetruemedia.com&sealid=101)   
 _Last updated November 29, 2010_
 
 ### Our commitment to privacy
 
 Your privacy is important to us. To protect your privacy we provide this statement to explain our information practices and to define your options for how your information is collected and used. 
 
-SpotMixer, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site at [http://www.OneTrueMedia.com](http://www.onetruemedia.com/). Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+This privacy statement covers the site at [http://www.OneTrueMedia.com](http://www.onetruemedia.com/). 
 
-If you have questions or concerns regarding this statement, you should first contact our Privacy Officer at customercare@onetruemedia.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should contact our Privacy Officer at customercare@onetruemedia.com. 
 
 By using the One True Media service, you agree to the collection and use of information in the manner described below. If we make material changes to this policy, we will notify you here, by email, by means of a notice the next time you log in to our site, or by means of a notice on our homepage. To make our privacy policy easy to find, we have placed it on our homepage and at the bottom of each web page.
 
@@ -19,7 +18,7 @@ By using the One True Media service, you agree to the collection and use of info
 
 This policy applies to all information collected on the One True Media website, via email, and by phone.
 
-You provide personal information to us when you register as a One True Media member, create Video Montage, order products, and request information from us. The personal information we collect includes:
+You provide personal information to us when you register as a One True Media member, create Video, order products, and request information from us. The personal information we collect includes:
 
   * User ID
   * Password
@@ -42,7 +41,7 @@ You may also submit information about other people. For example, if you order a 
 
 
 
-When you share your Montage and photos online, we collect the email addresses of the guests you have invited to share.
+When you share your Video and photos online, we collect the email addresses of the guests you have invited to share.
 
 To personalize our website and to improve our products and services, we may also ask you to provide information regarding your personal or professional interests, demographics, and experiences with our products or services. Providing this additional information is optional.
 
