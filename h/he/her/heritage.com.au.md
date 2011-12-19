@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heritage.com.au privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620204245id_/http%3A//www.heritage.com.au/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heritage.com.au privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219054610id_/http%3A//www.heritage.com.au/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,9 @@
 
 At Heritage, we do things a little differently to the banks. For starters, we’re owned by members, not shareholders, so our focus is always on putting ‘ _People first_ ’ by providing member benefits - in the form of better rates and better service - rather than maximising profits. In everything we do, we put ‘ _People first_ ’. We actively encourage people to come in to our branches and we keep them open for longer hours. 
 
-## Heritage Building Society Privacy Policy \- Our Privacy Commitment
+## Heritage Bank Privacy Policy - Our Privacy Commitment
 
-Heritage Building Society Limited ABN 32 087 652 024, AFS Licence No. 240984 (also referred to as “we”, “our” or “us” in this Privacy Policy) considers the protection and maintenance of your personal information to be of the utmost importance. We take very seriously the ongoing trust that you place in us to protect your personal information.
+Heritage Bank Limited ABN 32 087 652 024, AFS Licence No. 240984, Australian Credit Licence No. 240984 (also referred to as “we”, “our” or “us” in this Privacy Policy) considers the protection and maintenance of your personal information to be of the utmost importance. We take very seriously the ongoing trust that you place in us to protect your personal information.
 
 When handling your personal information we are bound and committed to complying with the National Privacy Principles in the _Privacy Act 1988_.
 
@@ -37,7 +37,7 @@ We may also ask for your personal information because we are obliged to collect 
 
 ## How do we collect your personal information?
 
-We collect most personal information directly from you. We may do this when you apply for membership, complete an application for one of our products and services, deal with us over the telephone, send us a letter, visit our web site or when you visit our branches (including community and mini-branches).
+We collect most personal information directly from you. We may do this when you apply for membership, complete an application for one of our products and services, deal with us over the telephone, send us a letter, visit our web site or when you visit our branches (including community and mini-branches) or if we call you.
 
 From time to time there may also be occasions (such as where we need to verify your identity, undertake customer due diligence, prevent or detect money laundering or terrorist financing and where we are required or authorised by law) when we need to obtain personal information about you from a third party. These parties may include banks, financial advisers, family members, credit reporting agencies, government authorities and publicly available sources of information.
 
@@ -56,7 +56,7 @@ Types of third parties include:
   * alliance partners, for example, where you have a cobranded product such as the Heritage Visa credit card; 
   * your advisers which may include lawyers, mortgage brokers, financial advisers, executors, administrators, trustees or attorneys; 
   * credit reporting agencies and debt collecting agencies; 
-  * lenders mortgage insurers (if insurance is required because the amount you borrow exceeds a certain percentage of the property’s value is insured by the Society); 
+  * lenders mortgage insurers (if insurance is required because the amount you borrow exceeds a certain percentage of the property’s value is insured by Heritage); 
   * parties involved in what is known as “securitisation”, under which we sell a pool of home loans. These third parties include trustees of securitisation arrangements, investors and their advisers; and 
   * parties involved in the payments system including financial institutions, merchants and payment organisations.
 
@@ -118,17 +118,18 @@ From time to time, we may need to review our Privacy Policy. We reserve the righ
 
 If you have any concerns or questions about our Privacy Policy, or the way in which we manage your personal information, you may contact us by:
 
-**Mail:**   
+ **Mail:**   
 The Privacy Officer  
-Heritage Building Society  
+Heritage Bank  
 Reply Paid 190   
-Toowoomba QLD 4350 _(no stamp required if posted in Australia)_
+Toowoomba QLD 4350 _  
+(no stamp required if posted in Australia)_
 
-**Telephone:**   
+ **Telephone:**   
 13 14 22
 
-**E-Mail:**   
-[feedback@hbs.net.au](mailto:feedback@hbs.net.au?subject=Heritage%20Building%20Society%20Privacy%20Policy) or [info@hbs.net.au](mailto:info@hbs.net.au?subject=Heritage%20Building%20Society%20Privacy%20Policy)   
+ **E-Mail:**   
+[feedback@heritage.com.au](mailto:feedback@heritage.com.au?subject=Heritage%20Building%20Society%20Privacy%20Policy) or [info@heritage.com.au](mailto:info@heritage.com.au?subject=Heritage%20Building%20Society%20Privacy%20Policy)   
 
 
 You may also obtain further information about privacy (including general privacy information, answers to frequently asked questions and links to the 10 National Privacy Principles) on the Office of the Privacy Commissioner’s website at [www.privacy.gov.au](http://www.privacy.gov.au/ "Office of the Privacy Commissioner's website"). Alternatively, you may write to The Office of the Privacy Commissioner, GPO Box 5218, Sydney, New South Wales, 2001.
