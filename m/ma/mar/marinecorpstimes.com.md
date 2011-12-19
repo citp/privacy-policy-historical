@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marinecorpstimes.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620101547id_/http%3A//www.marinecorpstimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinecorpstimes.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219051150id_/http%3A//www.marinecorpstimes.com/privacy) for the most accurate reproduction.*
 
 # Marine Corps News, pay, benefits, careers, entertainment, photos - Marine Corps Times HOME
 
