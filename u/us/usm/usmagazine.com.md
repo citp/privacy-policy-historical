@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usmagazine.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609190711id_/http%3A//www.usmagazine.com/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usmagazine.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219232842id_/http%3A//www.usmagazine.com/services/privacypolicy) for the most accurate reproduction.*
 
-# Us Weekly’s Privacy Policy - Usmagazine.com
+# Us Weekly’s Privacy Policy - UsMagazine.com
 
 Usmagazine.com is committed to protecting your privacy online. Please take a moment to read our policy explaining our use of the personal information that you provide and the choices you can make about the collection and use of your information by Usmagazine.com.
 
