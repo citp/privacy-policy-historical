@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the natashaclub.com privacy policy that was archived on 2010-02-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100220013524id_/http%3A//www.natashaclub.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the natashaclub.com privacy policy that was archived on 2011-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111219104643id_/http%3A//www.natashaclub.com/privacy.html) for the most accurate reproduction.-->
 
 <html xmlns:v="urn:schemas-microsoft-com:vml"><head>
 <title>Natasha Club privacy statement</title>
@@ -16,7 +16,79 @@
 <!--[if gt IE 6]>
 <link href="templates/tmpl_nc/profile_images.css" rel="stylesheet" type="text/css" />
 <![endif]-->
+<script src="/js/jquery-1.5.2.min.js" type="text/javascript" language="javascript"></script>
+<script src="/js/ui/jquery-ui-1.8.11.min.js" type="text/javascript" language="javascript"></script>
+<link type="text/css" href="/js/ui/css/ui-lightness/jquery-ui-1.8.11.custom.css" rel="stylesheet">
+<style type="text/css">
+ body { font-size: 62.5%; }
+ input.qj { margin-bottom:12px; width:95%; padding: .4em; border:0; display:block; }
+ select.qj { margin-bottom:12px; padding: .4em; border:0; display:block; }
+ label.qj { display:block; }
+ fieldset.qj { padding:0; border:0; margin-top:15px; }
+ .ui-dialog .ui-state-error { padding: .3em; }
+ .validateTips { border: 1px solid transparent; padding: 0.3em; }
+</style>
+<script language="JavaScript" type="text/javascript">
+function QuickJoin()
+{ 
+ $('#qj-form').dialog('open');
+}
 
+$(function() {
+ $( "#qjDateOfBirth" ).datepicker({ changeMonth: true, changeYear: true, minDate: "-70Y", maxDate: "-18Y", yearRange: 'c-70:c+70' });
+ $( "#qjDateOfBirth" ).datepicker( "option", "dateFormat", 'yy-mm-dd' );
+});
+
+$(function() {
+
+$("#qj-form").dialog({
+ autoOpen: false,
+ height: 500,
+ width: 360,
+ modal: true,
+ buttons: {
+  'Join': function() {
+    $("#qjSex").removeClass( "ui-state-error" );
+    $("#qjDateOfBirth").removeClass( "ui-state-error" );
+    $("#qjCountry").removeClass( "ui-state-error" );
+    $("#qjCity").removeClass( "ui-state-error" );
+    $("#qjNickName").removeClass( "ui-state-error" );
+    $("#qjEmail").removeClass( "ui-state-error" );
+    $("#qjPassword").removeClass( "ui-state-error" );
+    $.ajax({
+    type: "POST",
+    url: "ajax.action.php",
+    data: { ajaxaction: 'qj', Sex: $("#qjSex").val(), DateOfBirth: $("#qjDateOfBirth").val(), Country: $("#qjCountry").val(), City: $("#qjCity").val(), NickName: $("#qjNickName").val(), Email: $("#qjEmail").val(), Password: $("#qjPassword").val() },
+    dataType: "xml",
+    success: QJpostform
+   });
+  },
+  'Close': function() {
+   $(this).dialog('close');
+  }
+ }
+});
+});
+
+function updateTips( t ) {
+ $( ".validateTips" ).text( t ).addClass( "ui-state-highlight" );
+ setTimeout(function() { $( ".validateTips" ).removeClass( "ui-state-highlight", 1500 ); }, 500 );
+}
+
+function QJpostform(xml)
+{
+ if ($('error', xml).text()=='1')
+ {
+  eval('o=$("#qj'+$('field', xml).text()+'")');
+  o.addClass( "ui-state-error" );
+  updateTips( $('text', xml).text() );
+ } else
+ {
+//  $("#qj-form").dialog('close');
+  document.location.href='/member.php';
+ }
+}
+</script>
 </head><body onload="MM_preloadImages('templates/tmpl_nc/images/search_lady_hover.gif','templates/tmpl_nc/images/search_man_hover.gif', 'templates/tmpl_nc/images/topmenu1-over.gif','templates/tmpl_nc/images/topmenu2-over.gif','templates/tmpl_nc/images/topmenu3-over.gif','templates/tmpl_nc/images/topmenu4-over.gif','templates/tmpl_nc/images/topmenu5-over.gif','templates/tmpl_nc/images/topmenu6-over.gif','templates/tmpl_nc/images/topmenu1-over.png','templates/tmpl_nc/images/topmenu2-over.png','templates/tmpl_nc/images/topmenu3-over.png','templates/tmpl_nc/images/topmenu4-over.png','templates/tmpl_nc/images/topmenu5-over.png','templates/tmpl_nc/images/topmenu6-over.png')">
 
 <div id="GeneralLeftBg">
@@ -107,7 +179,7 @@
 		  </tr>
 		  <tr>
 			<td colspan="2" align="center"><select name="Country[]">
-				<option value="0">All countries</option><option value="3">American Samoa</option><option value="4">Andorra</option><option value="6">Anguilla</option><option value="7">Antarctica</option><option value="8">Antigua and Barbuda</option><option value="9">Argentina</option><option value="10">Armenia</option><option value="11">Aruba</option><option value="12">Australia</option><option value="13">Austria</option><option value="14">Azerbaijan</option><option value="15">Bahamas</option><option value="16">Bahrain</option><option value="18">Barbados</option><option value="19">Belarus</option><option value="20">Belgium</option><option value="21">Belize</option><option value="22">Benin</option><option value="23">Bermuda</option><option value="24">Bhutan</option><option value="25">Bolivia</option><option value="26">Bosnia/Herzegowina</option><option value="27">Botswana</option><option value="28">Bouvet Island</option><option value="29">Brazil</option><option value="30">British Ind. Ocean</option><option value="31">Brunei Darussalam</option><option value="32">Bulgaria</option><option value="33">Burkina Faso</option><option value="36">Cameroon</option><option value="37">Canada</option><option value="38">Cape Verde</option><option value="39">Cayman Islands</option><option value="41">Chad</option><option value="42">Chile</option><option value="43">China</option><option value="44">Christmas Island</option><option value="45">Cocoa (Keeling) Is.</option><option value="46">Colombia</option><option value="47">Comoros</option><option value="50">Costa Rica</option><option value="51">Cote Divoire</option><option value="52">Croatia</option><option value="54">Cyprus</option><option value="55">Czech Republic</option><option value="56">Denmark</option><option value="57">Djibouti</option><option value="58">Dominica</option><option value="59">Dominican Republic</option><option value="60">East Timor</option><option value="61">Ecuador</option><option value="62">Egypt</option><option value="63">El Salvador</option><option value="64">Equatorial Guinea</option><option value="66">Estonia</option><option value="68">Falkland Islands</option><option value="69">Faroe Islands</option><option value="70">Fiji</option><option value="71">Finland</option><option value="72">France</option><option value="73">Gabon</option><option value="74">Gambia</option><option value="75">Georgia</option><option value="76">Germany</option><option value="77">Ghana</option><option value="78">Gibraltar</option><option value="79">Greece</option><option value="80">Greenland</option><option value="81">Grenada</option><option value="82">Guadeloupe</option><option value="83">Guam</option><option value="85">Guinea</option><option value="86">Guinea-Bissau</option><option value="87">Guyana</option><option value="89">Honduras</option><option value="90">Hong Kong</option><option value="91">Hungary</option><option value="92">Iceland</option><option value="93">India</option><option value="97">Ireland</option><option value="98">Israel</option><option value="99">Italy</option><option value="100">Jamaica</option><option value="101">Japan</option><option value="102">Jordan</option><option value="103">Kazakhstan</option><option value="104">Kenya</option><option value="105">Kiribati</option><option value="106">Korea</option><option value="107">Kuwait</option><option value="108">Kyrgyzstan</option><option value="110">Latvia</option><option value="111">Lebanon</option><option value="112">Lesotho</option><option value="114">Liechtenstein</option><option value="115">Lithuania</option><option value="116">Luxembourg</option><option value="117">Macau</option><option value="118">Macedonia</option><option value="119">Madagascar</option><option value="120">Malawi</option><option value="122">Maldives</option><option value="123">Mali</option><option value="124">Malta</option><option value="125">Marshall Islands</option><option value="126">Martinique</option><option value="127">Mauritania</option><option value="128">Mauritius</option><option value="129">Mayotte</option><option value="130">Mexico</option><option value="131">Micronesia</option><option value="132">Moldova</option><option value="133">Monaco</option><option value="135">Montserrat</option><option value="136">Morocco</option><option value="137">Mozambique</option><option value="139">Namibia</option><option value="141">Nepal</option><option value="142">Netherlands</option><option value="143">New Caledonia</option><option value="144">New Zealand</option><option value="145">Nicaragua</option><option value="146">Niger</option><option value="148">Niue</option><option value="149">Norfolk Island</option><option value="150">Norway</option><option value="151">Oman</option><option value="153">Palau</option><option value="154">Panama</option><option value="155">Papua New Guinea</option><option value="156">Paraguay</option><option value="157">Peru</option><option value="158">Philippines</option><option value="159">Pitcairn</option><option value="160">Poland</option><option value="161">Portugal</option><option value="162">Puerto Rico</option><option value="163">Qatar</option><option value="164">Reunion</option><option value="165">Romania</option><option value="166">Russia</option><option value="168">Saint Lucia</option><option value="169">Samoa</option><option value="170">San Marino</option><option value="171">Saudi Arabia</option><option value="172">Senegal</option><option value="219">Serbia and Montenegro</option><option value="173">Seychelles</option><option value="175">Singapore</option><option value="176">Slovakia</option><option value="220">Slovenia</option><option value="177">Solomon Islands</option><option value="178">Somalia</option><option value="179">South Africa</option><option value="180">Spain</option><option value="181">Sri Lanka</option><option value="182">St. Helena</option><option value="185">Swaziland</option><option value="186">Sweden</option><option value="187">Switzerland</option><option value="189">Taiwan</option><option value="190">Tajikistan</option><option value="191">Tanzania</option><option value="192">Thailand</option><option value="193">Togo</option><option value="194">Tokelau</option><option value="195">Tonga</option><option value="196">Trinidad and Tobago</option><option value="197">Tunisia</option><option value="198">Turkey</option><option value="199">Turkmenistan</option><option value="200">Tuvalu</option><option value="205">USA</option><option value="201">Uganda</option><option value="202">Ukraine</option><option value="203">United Arab Emirates</option><option value="204">United Kingdom</option><option value="206">Uruguay</option><option value="207">Uzbekistan</option><option value="208">Vanuatu</option><option value="209">Vatican</option><option value="211">Viet Nam</option><option value="212">Virgin Islands</option><option value="213">Western Sahara</option><option value="217">Zambia</option>          
+				<option value="0">All countries</option><option value="3">American Samoa</option><option value="4">Andorra</option><option value="6">Anguilla</option><option value="7">Antarctica</option><option value="8">Antigua and Barbuda</option><option value="9">Argentina</option><option value="10">Armenia</option><option value="11">Aruba</option><option value="12">Australia</option><option value="13">Austria</option><option value="14">Azerbaijan</option><option value="15">Bahamas</option><option value="16">Bahrain</option><option value="18">Barbados</option><option value="19">Belarus</option><option value="20">Belgium</option><option value="21">Belize</option><option value="22">Benin</option><option value="23">Bermuda</option><option value="24">Bhutan</option><option value="25">Bolivia</option><option value="26">Bosnia/Herzegowina</option><option value="27">Botswana</option><option value="28">Bouvet Island</option><option value="29">Brazil</option><option value="30">British Ind. Ocean</option><option value="31">Brunei Darussalam</option><option value="32">Bulgaria</option><option value="33">Burkina Faso</option><option value="36">Cameroon</option><option value="37">Canada</option><option value="38">Cape Verde</option><option value="39">Cayman Islands</option><option value="41">Chad</option><option value="42">Chile</option><option value="43">China</option><option value="44">Christmas Island</option><option value="45">Cocoa (Keeling) Is.</option><option value="46">Colombia</option><option value="47">Comoros</option><option value="50">Costa Rica</option><option value="51">Cote Divoire</option><option value="52">Croatia</option><option value="54">Cyprus</option><option value="55">Czech Republic</option><option value="56">Denmark</option><option value="57">Djibouti</option><option value="58">Dominica</option><option value="59">Dominican Republic</option><option value="61">Ecuador</option><option value="62">Egypt</option><option value="63">El Salvador</option><option value="64">Equatorial Guinea</option><option value="66">Estonia</option><option value="68">Falkland Islands</option><option value="69">Faroe Islands</option><option value="70">Fiji</option><option value="71">Finland</option><option value="72">France</option><option value="73">Gabon</option><option value="74">Gambia</option><option value="75">Georgia</option><option value="76">Germany</option><option value="77">Ghana</option><option value="78">Gibraltar</option><option value="79">Greece</option><option value="80">Greenland</option><option value="81">Grenada</option><option value="82">Guadeloupe</option><option value="83">Guam</option><option value="85">Guinea</option><option value="86">Guinea-Bissau</option><option value="87">Guyana</option><option value="89">Honduras</option><option value="90">Hong Kong</option><option value="91">Hungary</option><option value="92">Iceland</option><option value="93">India</option><option value="97">Ireland</option><option value="98">Israel</option><option value="99">Italy</option><option value="100">Jamaica</option><option value="101">Japan</option><option value="102">Jordan</option><option value="103">Kazakhstan</option><option value="104">Kenya</option><option value="105">Kiribati</option><option value="106">Korea</option><option value="107">Kuwait</option><option value="108">Kyrgyzstan</option><option value="110">Latvia</option><option value="111">Lebanon</option><option value="112">Lesotho</option><option value="114">Liechtenstein</option><option value="115">Lithuania</option><option value="116">Luxembourg</option><option value="117">Macau</option><option value="118">Macedonia</option><option value="119">Madagascar</option><option value="120">Malawi</option><option value="122">Maldives</option><option value="123">Mali</option><option value="124">Malta</option><option value="125">Marshall Islands</option><option value="126">Martinique</option><option value="127">Mauritania</option><option value="128">Mauritius</option><option value="129">Mayotte</option><option value="130">Mexico</option><option value="131">Micronesia</option><option value="132">Moldova</option><option value="133">Monaco</option><option value="224">Montenegro</option><option value="135">Montserrat</option><option value="136">Morocco</option><option value="137">Mozambique</option><option value="139">Namibia</option><option value="141">Nepal</option><option value="142">Netherlands</option><option value="143">New Caledonia</option><option value="144">New Zealand</option><option value="145">Nicaragua</option><option value="146">Niger</option><option value="148">Niue</option><option value="149">Norfolk Island</option><option value="150">Norway</option><option value="151">Oman</option><option value="153">Palau</option><option value="154">Panama</option><option value="155">Papua New Guinea</option><option value="156">Paraguay</option><option value="157">Peru</option><option value="158">Philippines</option><option value="159">Pitcairn</option><option value="160">Poland</option><option value="161">Portugal</option><option value="162">Puerto Rico</option><option value="163">Qatar</option><option value="164">Reunion</option><option value="165">Romania</option><option value="166">Russia</option><option value="168">Saint Lucia</option><option value="169">Samoa</option><option value="170">San Marino</option><option value="171">Saudi Arabia</option><option value="172">Senegal</option><option value="219">Serbia</option><option value="173">Seychelles</option><option value="175">Singapore</option><option value="176">Slovakia</option><option value="220">Slovenia</option><option value="177">Solomon Islands</option><option value="178">Somalia</option><option value="179">South Africa</option><option value="180">Spain</option><option value="181">Sri Lanka</option><option value="182">St. Helena</option><option value="185">Swaziland</option><option value="186">Sweden</option><option value="187">Switzerland</option><option value="189">Taiwan</option><option value="190">Tajikistan</option><option value="191">Tanzania</option><option value="192">Thailand</option><option value="193">Togo</option><option value="194">Tokelau</option><option value="195">Tonga</option><option value="196">Trinidad and Tobago</option><option value="197">Tunisia</option><option value="198">Turkey</option><option value="199">Turkmenistan</option><option value="200">Tuvalu</option><option value="205">USA</option><option value="201">Uganda</option><option value="202">Ukraine</option><option value="203">United Arab Emirates</option><option value="204">United Kingdom</option><option value="206">Uruguay</option><option value="207">Uzbekistan</option><option value="208">Vanuatu</option><option value="209">Vatican</option><option value="211">Viet Nam</option><option value="212">Virgin Islands</option><option value="213">Western Sahara</option><option value="217">Zambia</option>          
 			  </select>
 			</td>
 		  </tr>
@@ -226,8 +298,8 @@ We may amend this Privacy Policy at any time by posting the amended terms on the
 <p><font size="-1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Contact </strong></font></p>
 <p><font size="-2" face="Verdana, Arial, Helvetica, sans-serif">If you have any questions about this privacy statement and the practices of its usage, please contact: </font></p>
 <p align="center"><font size="-2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Natasha Club<br>
-429 Weber Rd #288<br>
-Romeoville, IL 60446<br>
+228 Park Ave S #80849<br>
+New York, NY 10003<br>
 USA </strong></font></p>
 <p style="TEXT-ALIGN: center" align="center"><strong><span style="FONT-FAMILY: Verdana; FONT-SIZE: 7.5pt; mso-ansi-language: EN-US; mso-bidi-font-family: Arial" lang="EN-US">Toll free phone: 1-866-Y-SINGLE (1-866-974-6453)</span></strong><span style="FONT-FAMILY: Verdana; FONT-SIZE: 7.5pt; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-font-weight: bold" lang="EN-US"><br>
 <strong><span style="FONT-FAMILY: Verdana; mso-bidi-font-family: Arial">Outside <st1:place w:st="on"><st1:country-region w:st="on">US</st1:country-region></st1:place> call: </span></strong></span><strong style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Verdana; FONT-SIZE: 7.5pt; mso-ansi-language: EN-US; mso-bidi-font-family: Arial" lang="EN-US">+1 (312) 252-0005 or&nbsp;+44 (0) 2030261229</span></strong></p>
@@ -244,7 +316,7 @@ USA </strong></font></p>
                 <tr>
                   <td><table width="100%" border="0" cellspacing="0" cellpadding="0" id="BottomTable">
                       <tbody><tr>
-                        <td id="CopyTd">© Natasha Club 2008-2009. All Rights Reserved.</td>
+                        <td id="CopyTd">© Natasha Club 2008-2010. All Rights Reserved.</td>
                         <td id="BottomMenuTd"><table align="center" border="0" cellpadding="0" cellspacing="0">
                             <tbody><tr>
                               <td><a href="/index.html">Home</a></td>
