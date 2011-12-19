@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the thekidzpage.com privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315190026id_/http%3A//www.thekidzpage.com/html/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekidzpage.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219201822id_/http%3A//thekidzpage.com/html/terms.htm) for the most accurate reproduction.*
 
 # Privacy at theKidzpage.com
 
   
-**Privacy Statement** ** \- [_Linking_](https://web.archive.org/web/20100315190026id_/http%3A//www.thekidzpage.com/html/linktous.htm)  
+**Privacy Statement** ** \- [_Linking_](https://web.archive.org/web/20111219201822id_/http%3A//thekidzpage.com/html/linktous.htm)  
 **[](http://www.cybersitter.com/)[](http://www.netnanny.com/)[](http://www.safesurf.com/)
 
 Security | Removing/Changing Information | Children's Guidelines | Contacting the Site | Copyright Information
@@ -87,7 +87,7 @@ back to top
 
 ## Copyright
 
-Although we may provide certain graphics, which _may_ be copied by our users, (i.e. The Kidz Page banners), materials which are _not specifically identified as available to users_ **ARE NOT** available to anyone without our permission. All of the graphical and written content on **theKidzpage™** site are original pieces of artwork and writing, developed (under copyright) by our webmaster. ©1998-2009, **theKidzpage™** and **divaDzine**.
+Although we may provide certain graphics, which _may_ be copied by our users, (i.e. The Kidz Page banners and some clip art content), materials which are _not specifically identified as available to users_ **ARE NOT** available to anyone for use without our permission. Graphical and written content on **theKidzpage™** site are original pieces of artwork and writing, developed (under copyright) by our webmaster. ©1998-2011, **theKidzpage™** and **divaDzine**.
 
 We hope that our contribution to kids' Internet experiences is a valuable one, and that you and your family enjoy this site.
 
