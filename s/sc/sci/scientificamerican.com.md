@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scientificamerican.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615000818id_/http%3A//www.scientificamerican.com/page.cfm%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scientificamerican.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219201426id_/http%3A//www.scientificamerican.com/page.cfm%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
 # Scientific American: Privacy Policy
 
