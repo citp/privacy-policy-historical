@@ -1,20 +1,84 @@
-> *The following text is extracted and transformed from the fixunix.com privacy policy that was archived on 2011-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110131034957id_/http%3A//fixunix.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fixunix.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219082117id_/http%3A//fixunix.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Unix Linux Forum - Fixunix.com
+# Privacy Policy
 
-  * FixUnix.com recognizes that you care about the personal information that is held about you and how that is used.
-  * This privacy policy applies to all personal data, submitted by you, to the FixUnix.com web site and subdomains.
-  * By registering to Fixunix.com you need to submit a chosen name and contact information, more specifically an e-mail address. No extremely personal information, such as Social Security or Credit Card numbers are stored by us.
-  * Fixunix.com will not sell, transmit or distribute any data held without your prior permission or consent, unless required to do so under relevant United States legislation.
-  * All other information provided by you goes into a "public profile" and is entirely optional, all information held in that profile is held there at your own risk. This info is edited via your Control Panel in the forums.
-  * You have a legal right for the personal information held at Fixunix.com to be updated if it is incorrect or deleted if you choose. Most of this can be done through your Control Panel in the forums. If you are having issues with this, please contact us if you need help.
-  * Fixunix.com will take all reasonable effort to ensure that all personal information about you submitted is maintained secure on our server. However, we make no warranty to this.
-  * This site is intended for individuals over the age of 13. Any information collected is intended to be of individuals over the age of 13. According to [COPPA](http://www.ftc.gov/coppa/index.html), our site does NOT cater to children. "Operators of commercial websites or online services directed to children under 13 that collect personal information from children" require a COPPA agreement and privacy policy. Since we do not cater to this age group, no COPPA exists on Fixunix.com
-  * If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at webmaster@fixunix.com. 
-  * LogFiles : Like many other Web sites, fixunix.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user.s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
-  * Cookies and Web Beacons : fixunix.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
-  * DoubleClick DART Cookie : Google, as a third party vendor, uses cookies to serve ads on your site. .:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
-  * Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Chitika, Kontera. These third-party ad servers or ad networks use technology to the advertisements and links that appear on fixunix.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. fixunix.com has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. fixunix.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
-  * This Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes. If you have any questions regarding your privacy, then [Contact Us](https://web.archive.org/sendmessage.php)
+##  [Google Adsense 3rd Party Cookie Info]() [](http://fixunix.com/privacy_policy.php#top)
+
+As with most other websites, We collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+
+  
 
 
+##  [Registration]() [](http://fixunix.com/privacy_policy.php#top)
+
+Registration is not necessary for the public to use this Web site. However, members must register in order to gain access to adding threads to the Web site. During registration, you must complete the registration form and create a user name and password. During registration you are required to give us contact information. We use this information to contact you about the services on our site in which you have expressed interest.We are the sole owner of the information collected on this Web site.
+
+  
+
+
+##  [Inappropriate Language]() [](http://fixunix.com/privacy_policy.php#top)
+
+The use of inappropriate or offensive language is not permitted in these forums. Inappropriate or offensive language includes, but is not limited to, any language or content that is sexually oriented, sexually suggestive or abusive, harassing, defamatory, vulgar, obscene, profane, hateful, or that contains racially, ethnically or otherwise objectionable material of any kind. We ask that you please be considerate to other members in the forums when posting your messages.
+
+  
+
+
+##  [Posting Links]() [](http://fixunix.com/privacy_policy.php#top)
+
+Our policy on linking to other forums is pretty simple. Members may link to any other site that provides information that helps answer another member's question or is just of general interest to members of that particular forum. One of the most basic tenets of the Web is the open exchange of information.
+
+  
+
+
+##  [Security]() [](http://fixunix.com/privacy_policy.php#top)
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+  
+
+
+##  [Ad Servers]() [](http://fixunix.com/privacy_policy.php#top)
+
+To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
+[ **Google**](http://www.google.com/privacypolicy.html) **  
+[vBulletin](http://www.vbulletin.org/forum/info.php?do=privacy)**[](http://www.vbulletin.org/forum/info.php?do=privacy)  
+ **If you have any questions about security on our Web site, you can send email:[Here](http://fixunix.com/sendmessage.php)**
+
+  
+
+
+##  [Opt-Out Policy]() [](http://fixunix.com/privacy_policy.php#top)
+
+We give users options wherever necessary and practical. Such choices include:  
+Opting not to register to receive our electronic newsletters.  
+Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our user
+
+  
+
+
+##  [Consent]() [](http://fixunix.com/privacy_policy.php#top)
+
+By using this site, you consent to the collection and use of this information by us.
+
+  
+
+
+##  [Disclaimer]() [](http://fixunix.com/privacy_policy.php#top)
+
+reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
+
+  
+
+
+##  [Changes in this Privacy Statement]() [](http://fixunix.com/privacy_policy.php#top)
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.  
+
+
+  
+**PLEASE NOTE that opting out of the ad-serving cookie does not mean that you will stop seeing either pop up advertising or banner ads embedded in websites! You can control many pop ups by using free software available on the Internet or by disabling JavaScript on your browser. DoubleClick has no control over the use or frequency of pop-up ads employed by website publishers or software manufacturers.** For more information about pop-up ads, please [click here](http://fixunix.com/us/about_doubleclick/privacy/faq.asp#pop-ups) **.** | **DoubleClick Opt-out Click link below**  
+[](http://optout.doubleclick.net/cgi-bin/dclk/optout.pl)  
+---|---  
+  
+Footer details 
