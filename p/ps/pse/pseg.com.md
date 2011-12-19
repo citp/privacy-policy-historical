@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pseg.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622172521id_/http%3A//www.pseg.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pseg.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219171454id_/http%3A//www.pseg.com/privacy_policy.html) for the most accurate reproduction.*
 
 # new
 
