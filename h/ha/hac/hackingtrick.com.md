@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the hackingtrick.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605082313id_/http%3A//www.hackingtrick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackingtrick.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219072602id_/http%3A//www.hackingtrick.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hacking tricks
+
+[no comments](http://www.hackingtrick.com/privacy-policy/#commentlist)
+
+## Privacy Policy
 
 At www.hackingtrick.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.hackingtrick.com and how it is used.
 
