@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jockey.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620190038id_/http%3A//www.jockey.com/en-us/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jockey.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219211008id_/http%3A//www.jockey.com/en-us/privacypolicy) for the most accurate reproduction.*
 
 # Jockey Privacy Policy | Corportate Information | Jockey.com
 
@@ -9,19 +9,19 @@ Privacy Notice
 
 * * *
 
-Effective: February 16, 2009
+Revised: July 1, 2011
 
-Welcome to the Jockey.com website owned and operated by Jockey International, Inc. Jockey International, Inc, ("Jockey") ("Site") and its subsidiaries are committed to protecting your privacy. Jockey has signed the Direct Marketing Association's Privacy Promise. 
+Welcome to a Jockey® brand website owned and operated by Jockey International, Inc. or a Jockey subsidiary. Jockey International, Inc. ("Jockey") ("Site") and its subsidiaries are committed to protecting your privacy. Jockey has signed the Direct Marketing Association's Privacy Promise. 
 
   
 
 
-This Privacy Notice is intended to explain the types of information Jockey collects about you and your visit to our Jockey.com website ("Site"), how the information is used, and the security measures we put in place to protect the information. 
+This Privacy Notice is intended to explain the types of information Jockey collects about you and your visit to our Jockey.com website ("Site"), how the information is used, how you can access and update your information, and the security measures we put in place to protect the information. 
 
 What Information Do We Collect?
 
 **1\. Personal Information**  
-Personal information may include your name, address, e-mail address, telephone number, order information (for example, the purchase date, amount, and type), credit card information, debit card information, gift card payment information, recipient's name and e-mail address, messages or reminders you create and unique identifier information, such as customer number or password. We may ask you to provide certain types of personal information when you: 
+Personal information may include your name, address, e-mail address, telephone number, order information (for example, the purchase date, amount, and type), demographic information, sizing information, credit card information, debit card information, gift card payment information, recipient's name and e-mail address, messages or reminders you create and unique identifier information, such as customer number or password. We may ask you to provide certain types of personal information when you: 
 
   
 
@@ -38,7 +38,7 @@ Personal information may include your name, address, e-mail address, telephone n
 
 
 **2\. Navigational Information**  
-Each time you visit Jockey.com or any other Jockey owned and operated website navigational information may be automatically collected. Navigational information includes your domain name/type, internet service provider and internet protocol address and browser. Navigational information is non-personally identifiable information. The navigational information tells us about your visit and other users' visits to our Site, including aggregate information on what web pages were most visited, the time a user last visited our Site, and the technical efficiencies of our Site and services, such as, the time it takes a visitor to connect to our Site. We use this information to better understand your experience with our Site, to enhance its content and services, and to deliver improved features, services and products for your convenience. 
+Each time you visit Jockey.com or any other Jockey owned and operated website navigational information may be automatically collected. Navigational information includes your domain name/type, internet service provider, internet protocol address and browser, and site preferences. Navigational information is non-personally identifiable information. The navigational information tells us about your visit and other users' visits to our Site, including aggregate information on what web pages were most visited, the time a user last visited our Site, and the technical efficiencies of our Site and services, such as, the time it takes a visitor to connect to our Site. We use this information to better understand your experience with our Site, to enhance its content and services, and to deliver improved features, services and products for your convenience. 
 
 How Does Jockey Use Personal Information?
 
@@ -48,9 +48,13 @@ How Does Jockey Use Cookies?
 
 Our site utilizes "cookies." Cookies do not gather any of your personally identifiable information. They do allow us to provide you with a more personalized shopping experience and enable you to fully interact with and complete your transaction on our site. You may decline the use of cookies if your browser permits; however, doing so may limit the functionality of some of our sites or services. 
 
+Tracking pixels are small graphic images used to track activity on web pages or to confirm receipt of emails. They help Jockey to determine user activity on our website and provide you with a more personalized experience. 
+
+Jockey also uses third party cookies to provide you with Jockey advertisements and promotions on other internet sites. To learn more about third party cookies and to designate your preferences for their use, please visit the Network Advertising Initiative at [networkadvertising.org](http://www.networkadvertising.org/). 
+
 How Does Jockey Protect Your Information?
 
-Jockey is committed to providing appropriate controls to protect your information. To that end, we have established administrative, technical, and physical safeguards to help ensure that only authorized members of our workforce with a valid business need are granted access to information supplied by customers. Other controls we use include, but are not limited to, authentication mechanisms, firewalls, antivirus software, and encryption technologies for transferring consumer data with our Site. Jockey also requires its workforce members to abide by its policies and procedures related to the proper handling of customers’ personal information. Additionally, Jockey performs periodic security reviews to help ensure that unauthorized individuals do not have access to your personal information. 
+Jockey is committed to providing appropriate controls to protect your information. To that end, we have established administrative, technical, and physical safeguards to help ensure that only authorized members of our workforce with a valid business need are granted access to information supplied by customers. Other controls we use include, but are not limited to, authentication mechanisms, firewalls, antivirus software, and encryption technologies for transferring consumer data with our Site. Jockey also requires its workforce members and contractual partners to abide by its policies and procedures related to the proper handling of customers' personal information. Additionally, Jockey performs periodic security reviews to help ensure that unauthorized individuals do not have access to your personal information. 
 
 Generally, Jockey keeps your personal information only as long as it is reasonably necessary to fulfill the purpose for which it was collected. In some cases, Jockey is required by law to keep your personal information for a specified period of time. For example, where information is collected for transactions such as purchases or refunds, Jockey is required to retain this information based on regulatory and statutory requirements. 
 
@@ -58,7 +62,7 @@ How Can I Access and Update My Personal Information?
 
 If you would like to access and update your personal information provided to us, please contact us electronically at: [http://www.jockey.com/en-US/CustomerService/ContactUS/](https://web.archive.org/en-US/CustomerService/ContactUS/) or call us toll free at 1-800-562-5391 (MON-FRI 8:00 - 6:00 CST, SAT-SUN 9:30 - 6:00 CST) or write to us at the postal address provided below. Some of your personal information may also be accessed and updated by visiting the Site and logging into your user profile. 
 
-How Can I unsubscribe or Opt-Out of Receiving Communications from Jockey?
+How Can I Unsubscribe or Opt-Out of Receiving Communications from Jockey?[](https://web.archive.org/)
 
 If you provide us with your e-mail address or other contact information and no longer wish to receive communications from Jockey or you want Jockey to stop collecting your personal information, you can unsubscribe your e-mail address or other contact information by following the link at the bottom of our e-mail communications. Or if you prefer, you can send a request to remove your e-mail address and other contact information: 
 
@@ -69,6 +73,7 @@ If you provide us with your e-mail address or other contact information and no l
   * Calling us toll free at 1-800-562-5391 (MON-FRI 8:00 - 6:00 CST, SAT-SUN 9:30 - 6:00 CST), or
   * Writing us at: 
 
+Attention: Privacy Officer  
 Jockey International, Inc.  
 P.O. Box 1417 2300 60th Street   
 Kenosha, Wisconsin 53141-1417   
@@ -82,7 +87,7 @@ Please note, however, that by unsubscribing to Jockey’s communication or by wi
 
 What Information Do We Share with Third Parties?
 
-We use reputable third parties to help us provide services to you such as fulfilling orders, processing payments, monitoring site activity, conducting surveys, maintaining our loyalty programs, administering e-mails, online and catalog marketing campaigns, and sweepstakes, drawings, or contests. We may also share aggregate purchase behavior with third parties that monitor consumer purchasing trends and product interest. Third parties also provide aggregate, comparative information on the performance of our site to us. 
+We use reputable third parties to help us provide services to you such as fulfilling orders, processing payments, monitoring site activity, conducting surveys, maintaining our loyalty programs, administering e-mails, online and catalog marketing campaigns, and sweepstakes, drawings, or contests. We may also share aggregate purchase behavior with third parties that monitor consumer purchasing trends and product interest. Third parties also provide aggregate, comparative information on the performance of our site to us. We also may share personal information with jockey's wholly owned subsidiaries. 
 
 In addition, we cooperate in advertising member networks with other consumer entities where we may communicate your name, postal address and general purchase information so that other members may inform you about products or services that might interest you. If you prefer to have your name withheld, please contact us electronically at: [http://www.jockey.com/en-US/CustomerService/ContactUS/](http://en-us/CustomerService/ContactUS/) or call us toll free at: 1-800-562-5391 (MON-FRI 8:00 - 6:00 CST, SAT-SUN 9:30 - 6:00 CST) or write to us at the postal address provided above. 
 
@@ -90,7 +95,13 @@ Please note that we may disclose specific information about you if necessary to 
 
 Links to Third Party Websites
 
-To the extent that this Site contains links to outside services and resources, the availability and content of which Jockey does not control, any concerns regarding any such service or resource, or any link thereto, should be directed to the particular outside service or resource. This Privacy Notice does not apply to any outside services or resources. You acknowledge and agree that Jockey is not responsible for the availability of such outside services or resources, and Jockey does not endorse and is not responsible or liable for any content, advertising, products, services or other materials on or available from such outside services or resources. 
+To the extent that this Site contains links to outside services and resources, the availability and content of which Jockey does not control, any concerns regarding any such service or resource, or any link thereto, should be directed to the particular outside service or resource. This Privacy Notice does not apply to any outside services or resources. You acknowledge and agree that Jockey is not responsible for the availability of such outside services or resources, and Jockey does not endorse and is not responsible or liable for any content, advertising, products, services or other materials on or available from such outside services or resources. We encourage you to become familiar with the privacy policies of such outside servies or resources. 
+
+**California Privacy Rights**  
+Under Californai Code § 1798.83, customers of Jockey who are residents of California have the right to request the names of third parties with whom their personal information is shared. In response, Jockey may offer, and does offer, consumers a cost-free means of opting out of having their information shared. If you are a California resident and would like to exercise this right, please see the above section titled "How Can I Unsubscribe or Opt-Out of Receiving Communications from Jockey?" in order to contact us. 
+
+**Canadian Resident Privacy Rights**  
+Jockey complies with the Personal Information Protection and Electronic Documents Act, which allows Canadian residents access to information regarding the existence, use and disclosure of personal information. If you are a Canadian resident and would like to exercise this right, please see the above section titled "How Can I Unsubscribe or Opt-Out of Receiving Communications from Jockey?" in order to contact us. 
 
 Children's Information Policy
 
@@ -107,7 +118,7 @@ If you have any questions or concerns about Jockey's Privacy Notice, you need fu
   
 
 
-©2009 Jockey International, Inc. All Rights Reservced. 
+©2011 Jockey International, Inc. All Rights Reservced. 
 
   
 
