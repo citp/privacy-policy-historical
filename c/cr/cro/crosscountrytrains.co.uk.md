@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crosscountrytrains.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229080758id_/http%3A//www.crosscountrytrains.co.uk/Privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosscountrytrains.co.uk privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219181158id_/http%3A//www.crosscountrytrains.co.uk/Privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for www.crosscountrytrains.co.uk
 
@@ -11,3 +11,11 @@ Unfortunately, the transmission of information via the internet is not completel
 ## Cookies 
 
 A cookie is a small text file written to your hard drive that contains information about you. Cookies do not contain any personal information about users. Once you close your browser, the cookie simply terminates. We use cookies so that we can personalise your experience of this website. If you set up your browser to reject the cookie, you may still use this website. Some of our business partners use cookies on our site (for example, advertisers). We have no access to or control over these cookies. 
+
+###  Your recent searches
+
+**Buy again quickly and easily. Your most recent journey searches on this site will be shown here.**
+
+###  Your favourite journeys
+
+**[Register with us](https://www.buytickets.crosscountrytrains.co.uk/registercustomer.aspx) and save your journey as a favourite when booking. [Sign in](https://web.archive.org/Sign_in.aspx) and your favourites will be shown here.**
