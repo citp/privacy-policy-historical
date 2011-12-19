@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uf.edu privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201004510id_/http%3A//privacy.ufl.edu/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uf.edu privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219135210id_/http%3A//privacy.ufl.edu/privacystatement.html) for the most accurate reproduction.*
 
 # Web Privacy Statement - University of Florida Privacy
 
@@ -84,7 +84,7 @@ Finally, we never use or share the personally identifiable information provided 
 
 There is no legal requirement for you to provide any information at our Web site. However, our Web site will not work without routing information and the essential technical information. Failure of your browser to provide nonessential technical information will not prevent your use of our Web site but may prevent certain features from working. For any optional information that is requested at the Web site, failure to provide the requested information will mean that the particular feature or service associated with that part of the Web page may not be available to you.
 
-Special Note: [S668.6076, F.S.](http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=Ch0668/SEC6076.HTM&Title=-%3e2007-%3eCh0668-%3eSection%206076#0668.6076) requires the University of Florida to post the following notice:
+Special Note: [S668.6076, F.S.](http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0600-0699/0668/Sections/0668.6076.html) requires the University of Florida to post the following notice:
 
 Under Florida law, email addresses are public records. If you do not want your email address released in response to a public records request, do not send electronic mail to the University. Instead, contact the specific office or individual by phone or in writing.
 
@@ -94,6 +94,6 @@ The University of Florida is dedicated to preventing unauthorized data access, m
 
 ### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies and practices, please call us at (352) 273-5094 or (866) 876-4472 (toll-free), or send us an e-mail at [privacy@ufl.edu](mailto:privacy@ufl.edu).
+Should you have other questions or concerns about these privacy policies and practices, please call us at (352) 273-1212 or (866) 876-4472 (toll-free), or send us an e-mail at [privacy@ufl.edu](mailto:privacy@ufl.edu).
 
 If you wish to review or change information gathered about you via an official University of Florida web site but you do not know how, the Privacy Office will assist in locating the persons responsible for that site so that you may make your request directly to them.
