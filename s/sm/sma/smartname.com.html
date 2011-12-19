@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smartname.com privacy policy that was archived on 2010-01-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100108091103id_/http%3A//www.smartname.com/smartname/privacy-policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smartname.com privacy policy that was archived on 2011-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111219074445id_/http%3A//www.smartname.com/smartname/privacy-policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,11 +9,38 @@
 	<link rel="Shortcut Icon" href="/smartname/images/favicon.ico">
     <link rel="stylesheet" type="text/css" href="/smartname/css/styles.css">
     
-    <script type="text/javascript" src="/smartname/js/cookies.js"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/smartname/js/cookies.js"></script>
     
     <script type="text/javascript" language="JavaScript">
     setCookie('cookieTest','true',0,'/','.smartname.com');
-    </script> 
+    </script>
+    
+    <script type="text/javascript" src="http://images.smartname.com/scripts/jquery-1.3.2.min.js"></script>
+    <script type="text/javascript">
+        function displayOnRadio(radioButton) {
+            if(radioButton.value == "1") {
+                $("#afternicUsernameInput").show();
+            } else {
+                $("#afternicUsernameInput").hide();
+                $("#afternicUsername").val("");
+            }
+            return true;
+        }
+        $(document).ready(displayOnRadio);
+    </script>
+ <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2201473-22']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 </head>
 <body>
 	<!-- Header -->
@@ -21,7 +48,7 @@
     	<div class="headerMain">
    			<!-- Logo -->
     		<div class="left logo">
-        		<a href="index.jsp"><img src="/smartname/images/smartname-logo.jpg" alt="SmartName.com"></a>
+        		<a href="/smartname/index.jsp"><img src="/smartname/images/smartname-logo.jpg" alt="SmartName.com"></a>
             </div>
    			<!-- / Logo -->
    			<!-- Top Navigation -->
@@ -59,7 +86,7 @@
                         
                             
                             
-                                <li><a href="/smartname/apply.jsp">Apply Now</a></li>
+                                <li><a href="/smartname/servlet/SignUp?form=/apply.jsp">Apply Now</a></li>
                             
                         
                     
@@ -82,9 +109,6 @@
         
 
 
-        <div class="right snClassicLoginTab">
-        	<a href="http://admin.smartname.com/gamma/index2.php"><img src="/smartname/images/sn-classic-login-tab.jpg" alt="SmartName Classic Login"></a>
-        </div>
         <div class="right loginBox">
         	<div class="loginForm">
         		<h3>Account Login:</h3>
@@ -200,7 +224,7 @@
         <div class="divider"></div>
    		<!-- Copyright -->
         <div class="footerContent">
-        	<div class="copyright">© Fri Jan 08 04:11:03 EST 2010 SmartName.com
+        	<div class="copyright">© Mon Dec 19 02:44:44 EST 2011 SmartName.com
             </div>
         </div>
    		<!-- / Copyright -->
