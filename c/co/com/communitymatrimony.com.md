@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the communitymatrimony.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620021410id_/http%3A//www.communitymatrimony.com/site/index.php%3Fact%3Dprivacypolicy_com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the communitymatrimony.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219195826id_/http%3A//www.communitymatrimony.com/site/index.php%3Fact%3Dprivacypolicy_com) for the most accurate reproduction.*
 
 # Community Matrimony, Matrimony, Indian Matrimony
 
