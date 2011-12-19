@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606133019id_/http%3A//www.inc.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219012914id_/http%3A//www.inc.com/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | Inc.com
 
 _Updated as of January 24, 2010_
 
@@ -8,7 +8,7 @@ _Updated as of January 24, 2010_
 
 **Who We Are And How To Reach Us**
 
-[Mansueto Ventures LLC](https://web.archive.org/topic/Mansueto+Ventures+LLC "Mansueto Ventures LLC") owns and operates the [Inc.com](https://web.archive.org/topic/Inc.com "Inc.com") website, the inctechnology.com website, and all websites under the root domain of Inc.com (collectively referred to in this statement as the “Website”). You may contact us directly if you have any questions regarding the content and material on the Website or if you have any questions about our privacy policies. Please contact us at privacy[at]inc.com or Privacy Officer, Mansueto Ventures, 7 World Trade Center, New York, NY 10007.
+[Mansueto Ventures LLC](https://web.archive.org/topic/Mansueto+Ventures+LLC "Mansueto Ventures LLC") owns and operates the [Inc.com](https://web.archive.org/topic/Inc.com "Inc.com") website, the inctechnology.com website, and all websites under the root domain of Inc.com (collectively referred to in this statement as the “Website'). You may contact us directly if you have any questions regarding the content and material on the Website or if you have any questions about our privacy policies. Please contact us at privacy[at]inc.com or Privacy Officer, Mansueto Ventures, 7 World Trade Center, New York, NY 10007.
 
 **Collection of Personal Information**
 
@@ -34,7 +34,7 @@ For the convenience of our visitors, we may provide the opportunity to purchase 
 
 **Our Policy on Disclosing Your Information to Parties Other than Mansueto Ventures**
 
-We only share or disclose your personal information with companies other than Mansueto Ventures when it is required by law, disclosure is necessary to operate the website or certain website services, to protect the safety of our visitors, employees or property and/or when disclosure is consistent with Mansueto Ventures’ practices for services that are similarly provided offline.
+We only share or disclose your personal information with companies other than Mansueto Ventures when it is required by law, disclosure is necessary to operate the website or certain website services, to protect the safety of our visitors, employees or property and/or when disclosure is consistent with Mansueto Ventures' practices for services that are similarly provided offline.
 
 We may in the future share personal information with our parents, partners, affiliates or other entities for other purposes. If we decide to enter into such sharing arrangements, we will disclose to our registered members and in this Privacy Policy the name of the entity(s) that we will share information with, what type of personal information will be shared, how the information will be used, and how to contact us if you do not want us to share your personal information ("opt-out").
 
@@ -42,7 +42,7 @@ We may collect and provide aggregate information about our visitors to our adver
 
 **Our Use of Cookies and Tracking Devices**
 
-This site uses cookies or other tracking devices. A cookie is a small data file that contains a unique identification number that a website places on your hard drive when you visit a site. The "cookie" is able to store information such as data about your computer, the type of browser you use, and how many times your computer visits a certain site. Cookies do not allow the Website to access personal information that you haven't already provided. Cookies enable us to track how often visitors are visiting our website and specific pages, the number of entries in specific events, the estimated audience size for sponsors and advertisers, and user preferences. You can refuse to use cookies by turning them off in your browser. Please contact your browser’s software manufacturer for questions on how to disable your cookies. You do not need to have cookies turned on to use most of this site. However, you may find that some areas on the website will be slower, or may not function at all, and you may not be able to participate in certain activities such as contests or sweepstakes if the cookies are disabled.
+This site uses cookies or other tracking devices. A cookie is a small data file that contains a unique identification number that a website places on your hard drive when you visit a site. The "cookie" is able to store information such as data about your computer, the type of browser you use, and how many times your computer visits a certain site. Cookies do not allow the Website to access personal information that you haven't already provided. Cookies enable us to track how often visitors are visiting our website and specific pages, the number of entries in specific events, the estimated audience size for sponsors and advertisers, and user preferences. You can refuse to use cookies by turning them off in your browser. Please contact your browser's software manufacturer for questions on how to disable your cookies. You do not need to have cookies turned on to use most of this site. However, you may find that some areas on the website will be slower, or may not function at all, and you may not be able to participate in certain activities such as contests or sweepstakes if the cookies are disabled.
 
 This site may use clear GIFs [Graphics Interchange Formats] (also known as pixel tags, web beacons or web bugs). A clear GIF is a tiny line of code that is programmed to collect certain information about a visit to a particular website. We use GIFs to gather non-personal, aggregate information on visits to our website, track usage of website links and assist with registration and other features. We do not disclose personal information that may be linked to our GIF collection practices to third parties. Other websites that you may link to through the Website may also use clear GIFs. Mansueto Ventures, its parents and subsidiaries are not responsible for the use of clear GIFs by other website operators. Visitor's must review other website operators' privacy policies to determine the type and extent of tracking devices used.
 
@@ -54,7 +54,7 @@ The Website may post banner ads and other forms of advertisements, and/or links 
 
 We also work with third-party data analytics and online targeting companies. Some of these companies may use anonymous information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide data and targeting recommendations based on which we may provide advertisements about goods and services of interest to you.
 
-Many large advertising networks are members of the Network Advertising Initiative (NAI), a cooperative on online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices. The NAI has developed a tool that allows consumers to opt out of targeted advertising delivered by NAI members’ ad networks. To learn more about opting out of targeted advertising or to use the tool, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+Many large advertising networks are members of the Network Advertising Initiative (NAI), a cooperative on online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices. The NAI has developed a tool that allows consumers to opt out of targeted advertising delivered by NAI members' ad networks. To learn more about opting out of targeted advertising or to use the tool, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Some of the other companies who may set cookies on the Website to serve or present the ads that appear on the Website and to conduct research about those ads include:
 
