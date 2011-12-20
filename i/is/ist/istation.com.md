@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the istation.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107103355id_/http%3A//www2.istation.com/utils/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istation.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220082501id_/http%3A//www.istation.com/utils/privacy.asp) for the most accurate reproduction.*
 
 # istation | Privacy
 
@@ -6,20 +6,20 @@
 
 ## Privacy
 
-This privacy statement (this "Privacy Statement") is incorporated in, and subject to, the Terms of Use and Service (the "Terms") for Imagination Station, Inc. (“istation”). Please refer to the [Terms](https://web.archive.org/web/20101107103355id_/http%3A//www2.istation.com/utils/terms.asp) for definitions of words with initial capitals letters that are not otherwise defined in this Privacy Statement.
+This privacy statement (this "Privacy Statement") is incorporated in, and subject to, the Terms of Use and Service (the "Terms") for Imagination Station, Inc. ("istation"). Please refer to the [Terms](https://web.archive.org/web/20111220082501id_/http%3A//www.istation.com/utils/terms.asp) for definitions of words with initial capitals letters that are not otherwise defined in this Privacy Statement.
 
 istation is committed to protecting Your privacy and that of students while providing You with the most useful and enjoyable experience possible. We strongly believe in protecting the privacy of any personally identifiable information provided to us. We also believe it is important to inform You about how we will use personal data and to give You choices about how those data will be used. Therefore, we encourage You to read this Privacy Statement carefully.
 
 This Privacy Statement explains data collection and use practices relating to access and use of the Resources and the Resource Materials. By accessing and using any Resource, You consent to the information collection and use practices described in this Privacy Statement.
 
 If You have any questions about this Privacy Statement, You may contact istation using the information below (the "Contact Information"):  
-Write to us at:  
-
+Write to us at:
 
 > [info@istation.com](mailto:info@istation.com)  
->  800 E. Campbell Road, Suite 224  
->  Richardson, TX 75081  
->  Phone: (972) 643-3440  
+>  The Imagination Station, Inc. dba istation  
+>  8150 North Central Expressway, Suite 2000  
+>  Dallas, TX 75206  
+>  Phone: (214) 237-9300  
 >  Fax: (972) 643-3441 
 
 istation will only collect, store, and use Your personal information for defined purposes, such as to provide access to, and use of, the Resources and to provide customer service and support. istation will not sell Your personal information to any unaffiliated third party, except pursuant to a sale of all or substantially all of istation’s assets or pursuant to any business combination (such as a merger) to which istation is a party. At any time You may contact istation with any privacy questions or concerns that You may have using the Contact Information above. 
@@ -104,6 +104,6 @@ istation may change this Privacy Statement at any time without notice. However, 
 
 istation welcomes Your questions and comments about our Privacy Statement. You may contact us using the Contact Information above.
 
-**Effective Date: September 24, 2009**
+**Effective Date: July 23, 2011**
 
 | 
