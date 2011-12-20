@@ -1,9 +1,8 @@
-<!--The following is the downloaded HTML source of the medallia.com privacy policy that was archived on 2011-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110520095315id_/http%3A//medallia.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the medallia.com privacy policy that was archived on 2011-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111220040321id_/http%3A//www.medallia.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><script src="http://jsonip.appspot.com?callback=jsonp1580423080854"></script>
+<!DOCTYPE html><html lang="en"><head>
      <meta charset="utf-8">
-	<meta name="google-site-verification" content="krFZ3fj8cGPNkKc4ukrH8hrnPGoEg4lYrSGT9xwgdm8">
 
 		<title>Privacy Policy - Medallia</title>
 
@@ -25,13 +24,15 @@
 <meta name="DC.publisher" content="">
 <meta name="DC.date.created" scheme="DCTERMS.W3CDTF" content="2008-05-06T00:26:45-0700">
 <meta name="DC.date.modified" scheme="DCTERMS.W3CDTF" content="2011-04-20T20:36:46-0700">
-<meta name="DC.date.valid" scheme="DCTERMS.W3CDTF" content="2011-05-26T11:45:06-0700">
+<meta name="DC.date.valid" scheme="DCTERMS.W3CDTF" content="2011-12-26T06:03:21-0800">
 <meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text">
 <meta name="DC.rights" scheme="DCTERMS.URI" content="">
 <meta name="DC.format" content="text/html">
 <meta name="DC.identifier" scheme="DCTERMS.URI" content="http://www.medallia.com/privacy/">
 	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet" href="/css/master.css" type="text/css" media="all">
+        <link rel="stylesheet" href="/css/tabs.css" type="text/css" media="all">
+
 <script src="/js/scripts.js" type="text/javascript"></script>
 <script type="text/javascript">
 var _gaq = _gaq || [];
@@ -44,7 +45,69 @@ _gaq.push(['_trackPageview']);
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
 })();
 </script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script>
+<!-- 
+{exp:weblog:entries backspace="1"}
 
+{title}<br />
+
+{/exp:weblog:entries}
+
+-->
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="/js/s_code.js"></script>
+<script type="text/javascript">
+//Place between <head> tags
+var demandbase_parse = function(company) {
+    s.pageName = ""
+    s.channel = ""
+    s.prop1 = ""
+    s.prop2 = s.pageName
+    s.eVar20 = s.pageName
+    s.eVar29 = "";
+  
+    $.each(company, function(field, value) {
+        //alert(field+'-'+value);
+        if(field=='company_size'&&(value==''||value==null)){
+         $('#annual_revenue_row').show();
+        }
+        
+        if(field=='employee_count'&&(value==''||value==null)){
+         $('#no_of_employees_row').show();
+        }
+        
+        if (field == "employee_count") {                     
+             if (value > 0 && value <= 499)
+                EmployeeRange = "0 - 499";
+             else if (value >= 500 && value <= 999)
+                EmployeeRange = "500 - 999";
+             else if (value >= 1000 && value <= 4999)
+                EmployeeRange = "1000 - 4999";
+             else if (value >= 5000 && value <= 9999)
+                EmployeeRange = "5000 - 9999";
+             else
+                EmployeeRange = "10,000 and above";
+ 
+            $("form").append('<input type="hidden" name="EmployeeRange" value="' +EmployeeRange+ '" />' + "\n");
+       }
+       $("form").append('<input type="hidden" name="DB-' + field + '" value="' + value + '" />' + "\n");
+       if(field=='primary_sic'){
+         s.eVar30=value;
+       }
+       if(field=='industry'){
+         s.eVar31=value;
+       }
+       if(field=='company_size'){
+         s.eVar32=value;
+       }
+       if(field=='employee_count'){
+         s.eVar33=EmployeeRange;
+       }
+   });
+   var s_code=s.t();
+   if(s_code)$('body').append(s_code);
+
+}
+</script>
 <!--[if lt IE 7]>
 <link rel="stylesheet" type="text/css" media="all" href="/css/ie.css" />
 <script type="text/javascript" src="/js/DD_belatedPNG_0.0.7a-min.js"></script>
@@ -55,45 +118,22 @@ DD_belatedPNG.fix('.trans-png, .snake, a.logo, .ui-dialog, .ui-dialog .ui-dialog
 </head>
 <body class="privacy  generic">
 	<div class="container">
-		<script src="//www.medallia.com/js/s_code.js"></script>
-<script>
-$(function() {
-	$.getJSON("http://jsonip.appspot.com?callback=?", function(data) {
-		// token: f48185857b69782c5c0b7d3f7da468d23096df4d
-		// test ip: 34.254.247.45
-		$.getJSON("http://api.demandbase.com/api/v2/ip.json?token=f48185857b69782c5c0b7d3f7da468d23096df4d&query="+data.ip+"&callback=?", function(data) {
-			//$.getJSON("http://api.demandbase.com/api/v2/ip.json?token=f48185857b69782c5c0b7d3f7da468d23096df4d&query=34.254.247.45&callback=?", function(data) {
-			s.pageName=""
-			
-			
-			
-			$.each(data, function(field, value) {
-			if (field == "employee_count") {
-				if (value > 0 && value <= 499)
-					EmployeeRange = "0 - 499";
-				else if (value >= 500 && value <= 999)
-					EmployeeRange = "500 - 999";
-				else if (value >= 1000 && value <= 4999)
-					EmployeeRange = "1000 - 4999";
-				else if (value >= 5000 && value <= 9999)
-					EmployeeRange = "5000 - 9999";
-				else
-					EmployeeRange = "10,000 and above";
-				$("form").append('<input type="hidden" name="EmployeeRange" value="' +EmployeeRange+ '" />' + "\n");
-			}
-			$("form").append('<input type="hidden" name="DB-' + field + '" value="' + value + '" />' + "\n");
-				if(field=='primary_sic'){s.eVar30=value;}
-				if(field=='industry'){s.eVar31=value;}
-				if(field=='company_size'){s.eVar32=value;}
-				if(field=='employee_count'){s.eVar33=EmployeeRange;}
-			});
-			var s_code=s.t();
-			if(s_code)document.write(s_code);
-		});
-   });
-});
-</script>
+		<style>
+#nav li.col{display:inline;float:left;width:150px;margin:0 10px 0 0;padding:2.5em 0 0 10px;position:relative;}
+.container .grid_20{width: 870px; border: none; padding-top: 5px; float: right;  height: 15px;
+text-decoration: none;
+position: absolute;
+text-align: right;
+z-index: 100;}
+.top_nav a {font-size:10px;text-transform:uppercase;color:#000000;letter-spacing:-0.01em;text-decoration:none;}
+.top_nav a:hover  {color:#ffffff; text-decoration:none; background-color: #0A5FBD; }
+</style>
+
 <div id="header" class="group">
+	<div class="grid_20">
+		<p class="top_nav"><a href="/careers">Careers</a> &nbsp;<strong><font color="#000000">·</font></strong>&nbsp; <a href="http://medallia.com/Medallia/disp">Login</a> 
+	</p></div>
+	
 	<div class="grid_4">
 		<a class="logo trans-png" href="/" title="Home">Medallia – Enterprise Feedback Management</a>
 	</div>
@@ -117,14 +157,14 @@ $(function() {
 					<li><a href="/insights">Insights</a></li>
 				</ul>
 			</li>
-			<li class="col omega">
-
-				<ul class="secondary">
-					<li><a href="http://medallia.com/Medallia/disp">Customer Login</a></li>
+			<li class="col">
+			<!-- The reason for this would be used on the career section only. This is the little image on the very top. -->
+				<ul>
+					<li><a href="/resources">Resources</a></li>
 					<li><a href="/about">About Us</a></li>
-					<li><a href="/careers">Careers</a></li>
 				</ul>
 			</li>
+			
 		</ul>
 	</div>
 	<hr>
@@ -219,10 +259,164 @@ $(function() {
 			
 			
 		</div>
+<script>
+$(document).ready(function() 
+{
+	$('#tabset_tabs2 a').click(function(e)
+	{
+		$('.active').removeClass('active');
+		$(this).addClass('active');
+		document.getElementById("tab_content").innerHTML = document.getElementById($(this).attr("id")+"_content").innerHTML;
+	});
+});
+</script>		
+<!--- Tabs Go Here --->
+<div id="footer_tabs">
+<ul class="tabset_tabs" id="tabset_tabs2"> 
+<li><a href="#TabTopLinks" class="active" id="tab1" onclick="return false;">TOP LINKS</a></li> 
+<li><a href="#TabTopSearches" id="tab2" onclick="return false;">POPULAR SEARCHES</a></li> 
+<li><a href="#TabCEM" id="tab3" onclick="return false;">MEDALLIA CUSTOMER EXPERIENCE MANAGEMENT</a></li> 
+</ul> 
+
+<div class="tabs tab1" id="showTab1">
+<!--- <div class="tabset_bluebar"></div> --->
+<!-- tab set main -->
+<div id="tab_content" class="tabset_content" style="display:table;">
+<div id="left-column">
+<div class="column-title">Solutions</div>
+<div id="column-left">
+<ul>
+<li><a href="/solutions/retail">Retail</a>
+</li><li><a href="/solutions/hospitality">Hospitality, Travel &amp; Leisure</a>
+</li><li><a href="/solutions/finance">Financial Services</a>
+</li><li><a href="/solutions/webexperience">Web Experience</a>
+</li><li><a href="/solutions/b2b">B2B</a>
+</li><li><a href="/solutions/b2c">B2C</a>
+</li></ul>
+</div>
+<div id="column-right">
+<ul>
+<li><a href="/solutions/nps">NPS</a>
+</li><li><a href="/solutions/employee">Employee</a>
+</li><li><a href="/solutions/contact-center">Contact Center</a>
+</li><li><a href="/products/mobile/iphone">Mobile</a>
+</li><li><a href="/solutions/textanalytics">Text Analytics Software</a>
+</li></ul>
+</div>
+</div> 
+<div id="right-column">
+<div class="column-title">Resources</div>
+<div id="column-full">
+<ul>
+<li><a href="/resources/item/customer-experience-index-score/">Forrester Report: The Business Impact of Customer Experience</a>
+</li><li><a href="/resources/item/call-center-management-report/">Reinvent Your Call Center Culture To Create 
+Amazing Customer Experience</a>
+</li><li><a href="/resources/item/text-analytics-market-study/">Text Analytics Market Study 2011: User Perspectives on Solutions and Providers</a>
+</li><li><a href="/resources/item/net-promoter-scores/">Better Customer Experience Correlates To Higher
+Net Promoter Scores For Banks And Retailers</a>
+</li></ul>
+</div>
+</div> 
+</div>
+
+
+<!-- tab set 1 -->
+<div id="tab1_content" class="tabset_content" style="display:table; visibility: hidden; position: absolute;">
+<div id="left-column">
+<div class="column-title">Solutions</div>
+<div id="column-left">
+<ul>
+<li><a href="/solutions/retail">Retail</a>
+</li><li><a href="/solutions/hospitality">Hospitality, Travel &amp; Leisure</a>
+</li><li><a href="/solutions/finance">Financial Services</a>
+</li><li><a href="/solutions/webexperience">Web Experience</a>
+</li><li><a href="/solutions/b2b">B2B</a>
+</li><li><a href="/solutions/b2c">B2C</a>
+</li></ul>
+</div>
+<div id="column-right">
+<ul>
+<li><a href="/solutions/nps">NPS</a>
+</li><li><a href="/solutions/employee">Employee</a>
+</li><li><a href="/solutions/contact-center">Contact Center</a>
+</li><li><a href="/products/mobile/iphone">Mobile</a>
+</li><li><a href="/solutions/textanalytics">Text Analytics Software</a>
+</li></ul>
+</div>
+</div> 
+<div id="right-column">
+<div class="column-title">Resources</div>
+<div id="column-full">
+<ul>
+<li><a href="/resources/item/customer-experience-index-score/">Forrester Report: The Business Impact of Customer Experience</a>
+</li><li><a href="/resources/item/call-center-management-report/">Reinvent Your Call Center Culture To Create 
+Amazing Customer Experience</a>
+</li><li><a href="/resources/item/text-analytics-market-study/">Text Analytics Market Study 2011: User Perspectives on Solutions and Providers</a>
+</li><li><a href="/resources/item/net-promoter-scores/">Better Customer Experience Correlates To Higher
+Net Promoter Scores For Banks And Retailers</a>
+</li></ul>
+</div>
+</div> 
+</div>
+
+
+<!-- tab set 2 -->
+<div class="tabset_content" id="tab2_content" style="display:table; visibility: hidden; position: absolute;">
+<div id="left-column">
+<div id="column-full">
+<ul>
+<li><a href="/category/net-promoter-score">Net Promoter Score</a>
+</li><li><a href="/category/customer-retention-strategies">Customer Retention</a>
+</li><li><a href="/category/guest-satisfaction">Guest Satisfaction</a>
+</li><li><a href="/category/customer-service-satisfaction">Customer Service Satisfaction</a>
+</li><li><a href="/category/customer-engagement">Customer Engagement</a>
+</li></ul>
+</div>
+</div> 
+<div id="right-column">
+<div id="column-full">
+<ul>
+<li><a href="/category/call-center-metrics">Call Center Metrics</a>
+</li><li><a href="/category/text-analytics">Text Analytics</a>
+</li><li><a href="/category/enterprise-feedback-management">Enterprise Feedback Management</a>
+</li><li><a href="/category/voice-of-the-customer">Voice of the Customer</a>
+</li><li><a href="/category/social-CEM">Social CEM</a>
+
+</li></ul>
+</div>
+</div> 
+</div>
+
+
+<!-- tabset 3 -->
+<div class="tabset_content" id="tab3_content" style="display:table; visibility: hidden; position: absolute;">
+<div id="full-column">
+<p>The secret of some of the most successful and enduring brands is great customer experiences that delight. While customer feedback is a key barometer of a company's health, many companies lack the infrastructure, processes and culture to identify the levers to pull. That's what Medallia aims to do with customer experience management (CEM).  We turn customer feedback into real time actionable insights that could be used by the entire organization. Companies can rescue at risk customers, facilitate increased word of mouth from customer fans, and identify the innovations a company's customers value most. Our SaaS solutions make customer experience transparent, defeats data silos, and engages everyone in a relentless effort to improve. We work with world's most admired brands in financial services, retail, high-tech, business-to-business and hospitality. For more information, please see:
+
+</p><ul>
+<li><b>Medallia Customer Experience Management Corporate Brochure</b><br>
+An introduction to the benefits of choosing the Medallia platform. <a href="/resources/item/customer-experience-management-solution-brochure/">Read More »</a>
+
+</li><li><b>Medallia Customer Experience Management Solution: Key Functionalities</b><br>
+More about the capabilities and value-adds of Medallia's customer experience management software. <a href="/resources/item/customer-experience-management-cem-brochure/">Read More »</a>
+
+</li><li><b>7 Questions to Ask Your Customer Experience Management Provider</b><br>
+Keep these potential roadblocks in mind as you work with your CEM vendor. <a href="/resources/item/customer-experience-management-providers/">Read More »</a>
+
+</li><li><b>Video: Medallia Customer Experience Management Platform Overview</b><br>
+See for yourself how the Medallia system bests the competition. <a href="/resources/video/customer-experience-management-video/">Read More »</a>
+<ul>
+</ul></li></ul></div> 
+</div>
+
+<!-- end of tabsets -->
+</div>
+</div>
+<!--- Tabs End here --->
 		<div id="footer">
 			<div class="group">
 				<ul class="nav group">
-					<li><a href="/">Home</a><span>/</span></li>
+					<!-- <li><a href="/">Home</a><span>/</span></li> -->
 					<li><a href="/whyus">Why Medallia</a><span>/</span></li>
 					<li><a href="/customers">Customers</a><span>/</span></li>
 					<li><a href="/products">Products</a><span>/</span></li>
@@ -230,6 +424,7 @@ $(function() {
 					<li><a href="/services">Services</a><span>/</span></li>
 					<li><a href="/insights">Insights</a><span>/</span></li>
 					<li><a href="/about">About Us</a><span>/</span></li>
+                                        <li><a href="/resources">Resources</a><span>/</span></li>
 					<li><a href="/careers">Careers</a><span>/</span></li>
 					<li><a href="http://experience.medallia.com/forms/ContactUs">Contact Us</a><span>/</span></li>
 					<li><a href="/news">News</a></li>
@@ -305,9 +500,10 @@ $(function() {
 <noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1035526033/?label=k2C4CKP_wgEQkb_j7QM&amp;guid=ON&amp;script=0"/></div></noscript>
 <!-- END Google Code for Medallia Remarketing -->
 <script type="text/javascript" language="javascript" src="/elqNow/elqCfg.js"></script>
-<script type="text/javascript" language="javascript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1494&amp;ref2=elqNone&amp;tzo=0&amp;ms=881" border="0" width="1" height="1"></layer>
+<script type="text/javascript" language="javascript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1494&amp;ref2=elqNone&amp;tzo=0&amp;ms=865" border="0" width="1" height="1"></layer>
 <script type="text/javascript">var domainy = location.protocol == "https:" ? "https://leads.demandbase.com" : "http://leads.demandbase.com"; document.write(unescape("%3Cscript src='" + domainy +"/178034.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://leads.demandbase.com/178034.js" type="text/javascript"></script>
 <noscript><p><img alt="Demandbase Connect" width="1" height="1" src="http://leads.demandbase.com/178034-db14.gif" /></p></noscript>
 <noscript><p><a href="http://www.demandbase.com"><img src="http://www.demandbase.com/images/stream/demandbase.gif" alt="Demandbase" width="1" height="1"></a></p></noscript>
+<script type="text/javascript" src="http://api.demandbase.com/api/v2/ip.json?key=f48185857b69782c5c0b7d3f7da468d23096df4d&amp;callback=demandbase_parse"></script>
 
 </body></html>
