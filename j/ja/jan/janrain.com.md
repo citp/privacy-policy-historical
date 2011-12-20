@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janrain.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625085246id_/http%3A//www.janrain.com/janrain-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janrain.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220032034id_/http%3A//www.janrain.com/janrain-privacy-policy) for the most accurate reproduction.*
 
 # Janrain Privacy Policy | Janrain
 
