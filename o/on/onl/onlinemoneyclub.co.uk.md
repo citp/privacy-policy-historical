@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the onlinemoneyclub.co.uk privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503162052id_/http%3A//onlinemoneyclub.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemoneyclub.co.uk privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220131458id_/http%3A//onlinemoneyclub.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | David Henry's Marketing Blog
+# Privacy Policy | David Henry's Marketing Blog | David Henry's Marketing Blog
 
-This privacy policy sets out how David Henry uses and protects any information that you give David Henry when you use this website.
+This privacy policy sets out how [David Henry](http://onlinemoneyclub.co.uk/about "David Henry") uses and protects any information that you give David Henry when you use this website.
 
 David Henry is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -63,9 +63,3 @@ You may request details of personal information which we hold about you under th
 Whiston, S60 4NR Rotherham, South Yorkshire, UK.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-
-#### Incoming search terms:
-
-  * david henry 5 spencer green whiston
-
-
