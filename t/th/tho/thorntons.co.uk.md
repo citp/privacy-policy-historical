@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the thorntons.co.uk privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508181729id_/http%3A//www.thorntons.co.uk/cm/Login_Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thorntons.co.uk privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220095452id_/http%3A//www.thorntons.co.uk/cm/Login_Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Thorntons chocolates -
+
+  * **_About cookies_**
+
+On 26 May 2011, the rules about cookies on websites changed. This site uses cookies. You may delete and block all cookies from this site, but parts of the site will not work. To find out more about cookies and how to delete them, visit www.allaboutcookies.org.  
+A cookie is a small file that can be stored on your computer's hard drive. Thorntons uses cookies to provide features like auto-log-in and to determine when customers have previously visited our site. Our cookies do not contain any personal information about you, so only Thorntons will be able to use the cookies to determine your identity.
 
   * **_Customer Account_**
 
@@ -32,10 +37,6 @@ We do not disclose your information to third parties for marketing purposes. Tho
   * **_Are my personal messages private when I purchase gifts?_**
 
 When you add a personal message to an order, your message will be printed on a gift card that is part of the dispatch stationery. This is positioned so the message cannot be read during transit.
-
-  * **_What are cookies and how do we use them?_**
-
-A cookie is a small file that can be stored on your computer's hard drive. Thorntons uses cookies to provide features like auto-log-in and to determine when customers have previously visited our site. Our cookies do not contain any personal information about you, so only Thorntons will be able to use the cookies to determine your identity.
 
   * **_What is an IP address and how does Thorntons use them?_**
 
