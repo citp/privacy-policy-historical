@@ -1,45 +1,41 @@
-> *The following text is extracted and transformed from the web-development-blog.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205132744id_/http%3A//www.finalwebsites.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-development-blog.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221005457id_/http%3A//www.web-development-blog.com/privacy-policy) for the most accurate reproduction.*
 
-# finalwebsites.com - privacy statement
+# Privacy Policy | Web Development Blog
 
-## finalwebsites.com - privacy policy
+## finalwebsites.com - Privacy Policy
 
-This site is governed by all the rules and regulation of the country of The Netherlands and is hosted in The Netherlands. The site is owned and maintained by finalwebsites.com and any enquires regarding privacy should in the first instance be directed to contact@finalwebsites.com.
+This site is governed by all the rules and regulations from the country of The Netherlands and is hosted in The Netherlands. The site is owned and maintained by finalwebsites.com and any enquires regarding privacy should in the first instance be directed to contact@finalwebsites.com.
 
-Please note we hold all data for the minimum period of time prescribed by law for our country of origin any personal data that is held in a public facing part of the site can be removed if request in writing is made to the address below, please note a small administration charge may be applied. 
+Please note that we hold all data for the minimum period of time prescribed by the law of the country of origin any personal data that is held in a public facing part of the site can be removed if a written request made to the e-mail address below. Please note, that a small administration charge may be applied. 
 
-### _Tracking of data_
+### Tracking of data
 
-This site tracks data in accordance with laws of of The Netherlands this site collects logs which include IP address but does not collect personally identifiable data from visitors, the server logs are used to track problems within the site however the information is made available to police and other authorities in the country of The Netherlands as dictated by local laws.
+This site tracks data in accordance with laws of The Netherlands this site collects logs which include the IP address but does not collect personally identifiable data from visitors. The server logs are used to track problems within the site, however the information will be made available to the police and other authorities in the country of The Netherlands as dictated by local laws.
 
-### _Forum registrations_
+### Forum registrations
 
-To get full access to our forums a visitor has to register, this data is stored in some secure database and is only used for authentication (login). Collected e-mail addresses are only used to send the member information (password).
+To get full access to our forums a visitor has to register, this data is stored in our secure database and the data is only used for authentication (login). Collected e-mail addresses are only used to submit the member information (password).
 
-### _3rd Party information_
+### 3rd Party information
 
-While we do not sell information to third parties, we do pass information on to other parties to provide a richer experience the following third parties have access to some or all of our data.
+While we do not sell information to third parties, we do pass information on to other parties to provide a richer experience. The following third parties have access to some or all of our data.
 
-> _Google Analytics cookies_  
->  Google analytics is our primary web statistics software no identifiable data is sent to Google analytics but rough geographic locations are included where available. 
-
-### _Advertising_
-
-Some of our sites are supported through sponsorship and contextual advertising our current advertising partners are:
-
-> **Google Adsense (USA) contextual**
+> **Google Analytics cookies**  
+>  Google analytics is our primary web statistics software. Only no identifiable data is sent to Google analytics, including rough geographic locations where available. Submitted data is used to improve Google products and services. finalwebsites.com might change these options from time to time. Learn more about the data sharing options [here](http://www.google.com/support/analytics/bin/answer.py?hl=en&answer=87515).
 > 
-> Google, as a third party vendor, uses cookies to serve ads on your site.
-> 
-> Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-> 
-> Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-> 
-> **Kontera (USA) contextual**
+> **Browser opt-out**  
+>  To provide our visitors more choice on how their data is collected, Google has developed the Google Analytics opt-out browser add-on. The add-on communicates with the Google Analytics JavaScript (ga.js) to indicate that information about the website visit should not be sent to Google Analytics. Learn more about the Google Analytics Opt-out Browser Add-on [here](http://tools.google.com/dlpage/gaoptout?hl=en).
 
-Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP , the browser you used to visit our site, and in some cases conditions of your browser such as the inclusion of Flash. Many Advertisers use Geo-targeting technology (using your IP address to provide a location) to allow them to provide targeted offers as well as providing adverts tailored to the content this is referred to as contextual advertising.
+### Advertising
 
-### _Disputes_
+This sites is supported through sponsorship and contextual advertising, our current advertising partners are:
+
+> **Google Adsense (USA) contextual**  
+>  Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP, the browser you used to visit our site and in some cases conditions of your browser such as the inclusion of Flash. Many Advertisers use Geo-targeting technology (using your IP address to provide a location) to allow them to provide targeted offers as well as providing adverts tailored to the content this is referred to as contextual advertising.
+
+### Disputes
 
 If you require information or believe an error has been made within this document you should in the first instance contact contact@finalwebsites.com.
 
@@ -47,4 +43,4 @@ We take your privacy seriously and do not sell or use your data in a way that co
 
 We reserve us the right to change this policy from time to time.
 
-_The Netherlands 2009_
+_The Netherlands 2011_
