@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aolanswers.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119094440id_/http%3A//aolanswers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aolanswers.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220053724id_/http%3A//aolanswers.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy on AOL Answers.
 
