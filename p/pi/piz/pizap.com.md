@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pizap.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627181807id_/http%3A//www.pizap.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizap.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220223035id_/http%3A//www.pizap.com/privacypolicy.php) for the most accurate reproduction.*
 
 # piZap - free online photo editor - fun photo effects editor
+
+| 
 
 **What information we collect**
 
@@ -8,15 +10,15 @@ PiZap.com is a free online application used for making edits and adding decorati
 
 **Direct Notice to Parents**
 
-At piZap.com take child protection and privacy very seriously. We are here to assist parents if they feel that their child is using piZap.com inappropriately or if someone has posted a photo of your child that you would like us to remove. piZap.com is not marketed to children under the age of 13 and you must be at least 13 years of age to create a piZap account. If you are a parent and your child is using piZap.com and you wish to have any photo or account removed from the website for any reason, please [contact us](https://web.archive.org/web/20110627181807id_/http%3A//www.pizap.com/contact_us.php) with a link to content or account. We will follow up with you either by e-mail or phone to verify your identity and remove the content. 
+At piZap.com we take child protection and privacy very seriously. We are here to assist parents if they feel that their child is using piZap.com inappropriately or if someone has posted a photo of your child that you would like us to remove. piZap.com is not marketed to children under the age of 13 and you must be at least 13 years of age to create a piZap account. If you are a parent and your child is using piZap.com and you wish to have any photo or account removed from the website for any reason, please [contact us](https://web.archive.org/web/20111220223035id_/http%3A//www.pizap.com/contact_us.php) with a link to content or account. We will follow up with you either by e-mail or phone to verify your identity and remove the content. 
 
 **Images posted on piZap.com and Image Removal**
 
-Images posted on piZap.com are not directly linked to any personally identifiable information that has been collected by users. Users may delete or request to have deleted any image that they post to piZap.com at any time for any reason. Simply click the "DELETE" link found on your image page or [contact us](https://web.archive.org/web/20110627181807id_/http%3A//www.pizap.com/contact_us.php) and include the URL (link) to the photo you wish to have removed. We will respond to the delete request within 24 hours.
+Images posted on piZap.com are not directly linked to any personally identifiable information that has been collected by users. Users may delete or request to have deleted any image that they post to piZap.com at any time for any reason. Simply click the "DELETE" link found on your image page or [contact us](https://web.archive.org/web/20111220223035id_/http%3A//www.pizap.com/contact_us.php) and include the URL (link) to the photo you wish to have removed. We will respond to the delete request within 24 hours.
 
 **Removal of piZap account.**
 
-You may request to have your piZap account removed and deleted at any time for any reason. Simply [contact us](https://web.archive.org/web/20110627181807id_/http%3A//www.pizap.com/contact_us.php) and include the e-mail address associated with the account and we will send you a verification e-mail to verify that you are the owner of the account. Once the account owner is veri fed the account and all associated images will be deleted.
+You may request to have your piZap account removed and deleted at any time for any reason. Simply [contact us](https://web.archive.org/web/20111220223035id_/http%3A//www.pizap.com/contact_us.php) and include the e-mail address associated with the account and we will send you a verification e-mail to verify that you are the owner of the account. Once the account owner is veri fed the account and all associated images will be deleted.
 
 **Copyright of content on piZap.com**
 
@@ -35,10 +37,10 @@ Please be aware that the user name you choose, and any other personally identifi
 
 **2\. Use of data and images**
 
-  * You may delete or request to have deleted any image that you have added to this website. [Contact us](https://web.archive.org/web/20110627181807id_/http%3A//www.pizap.com/contact_us.php) and include the URL of the image you would like removed.
+  * You may delete or request to have deleted any image that you have added to this website. [Contact us](https://web.archive.org/web/20111220223035id_/http%3A//www.pizap.com/contact_us.php) and include the URL of the image you would like removed.
   * Images that you designate as "public" by saving to pizap.com with the checkbox for "submit to public gallery" checked, may be featured or displayed in the piZap gallery, though the chances of any single image showing up are fairly low.
   * Images that you designate as "private" by unchecking the "submit to public gallery" checkbox, will only be seen by those that you share your images with however the URL to those images is not password protected. If you share the URL, people will be able to see those images. You may request to have them deleted at any time or delete them yourself by hitting the Delete link.
-  * If you view an image on this website this is offensive, vulgar, racist, pornographic, or violates a copyright, please [contact us](https://web.archive.org/web/20110627181807id_/http%3A//www.pizap.com/contact_us.php) with the the link or image name.
+  * If you view an image on this website this is offensive, vulgar, racist, pornographic, or violates a copyright, please [contact us](https://web.archive.org/web/20111220223035id_/http%3A//www.pizap.com/contact_us.php) with the the link or image name.
 
 
 
@@ -56,7 +58,7 @@ Data may be used to customize and improve your user experience on this site. Eff
 
 
 **4** **. Editing or deleting your account information**  
-You can request that your user account be deleted; to do so, please [contact us](https://web.archive.org/web/20110627181807id_/http%3A//www.pizap.com/contact_us.php).   
+You can request that your user account be deleted; to do so, please [contact us](https://web.archive.org/web/20111220223035id_/http%3A//www.pizap.com/contact_us.php).   
 
 
 **5\. Changes to this privacy policy**  
@@ -68,7 +70,7 @@ While this privacy policy states standards for maintenance of data, and while ef
 
 
 **7\. Contact information**  
-If you have any questions about this policy or about this web site, please feel free to [contact us.](https://web.archive.org/web/20110627181807id_/http%3A//www.pizap.com/contact_us.php)
+If you have any questions about this policy or about this web site, please feel free to [contact us.](https://web.archive.org/web/20111220223035id_/http%3A//www.pizap.com/contact_us.php)
 
 \-----
 
@@ -119,6 +121,9 @@ We respect other people's rights, and expect you to do the same.
     3. If you repeatedly infringe other people's intellectual property rights, we will disable your account when appropriate.
     4. You will not use our copyrights or trademarks (including pZap, the piZap Logos), or any confusingly similar marks, without our written permission.
     5. You will not post anyone's identification documents or sensitive financial information on piZap.
-  6. PiZap.com is owned and operated by Digital Palette LLC Based in Santa Clara, CA. Please [contact us](https://web.archive.org/web/20110627181807id_/http%3A//www.pizap.com/contact_us.php) with any concerns or questions about our site. Thank You.
+  6. PiZap.com is owned and operated by Digital Palette LLC Based in Santa Clara, CA. Please [contact us](https://web.archive.org/web/20111220223035id_/http%3A//www.pizap.com/contact_us.php) with any concerns or questions about our site. Thank You.
 
 
+
+|   
+---|---|---
