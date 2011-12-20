@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icicibank.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430163724id_/http%3A//www.icicibank.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icicibank.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220162137id_/http%3A//www.icicibank.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy- ICICI Bank Ltd
 
