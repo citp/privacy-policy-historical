@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the familylink.com privacy policy that was archived on 2010-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100808014603id_/http%3A//www.familylink.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familylink.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220102224id_/http%3A//www.familylink.com/FLPrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# FamilyLink.com
-
-| 
+# FamilyLink.com - Privacy Policy
 
 This policy is effective as of February 19, 2009 and has been updated as of September 29, 2009.
 
@@ -41,7 +39,7 @@ To personalize your experience on FamilyLink, we may collect incidental informat
 
 ## Children Up to Age 18
 
-FamilyLink does not knowingly collect, solicit personal information, or allow anyone under the age of 13 to register on FamilyLink. No one under age 13 may provide any personal information to or on FamilyLink. We will delete any information we discover from anyone under the age of 13. If you believe that we might have any information from or about a child under 13, please contact us at info@familylink.com. Further, individuals between the ages of 13 and 18 should consult with their parents and receive permission before sending personal information across the Internet. 
+FamilyLink does not knowingly collect, solicit personal information, or allow anyone under the age of 13 to register on FamilyLink. No one under age 13 may provide any personal information to or on FamilyLink. We will delete any information we discover from anyone under the age of 13. If you believe that we might have any information from or about a child under 13, please contact us at support@familylink.com. Further, individuals between the ages of 13 and 18 should consult with their parents and receive permission before sending personal information across the Internet. 
 
 ## FamilyLink's Use of Your Information
 
@@ -99,7 +97,7 @@ You can access and control your personal information using FamilyLink settings. 
 
 ## Security
 
-FamilyLink takes appropriate precautions to protect the information of its users. Your account information is located on a secured server behind a firewall. If you have any questions about the security of the FamilyLink Web Site, please send an email to info@familylink.com.
+FamilyLink takes appropriate precautions to protect the information of its users. Your account information is located on a secured server behind a firewall. If you have any questions about the security of the FamilyLink Web Site, please send an email to support@familylink.com.
 
 ## Terms of Use, Notices and Revisions
 
@@ -107,6 +105,4 @@ Your use of FamilyLink, and any disputes arising from it, is subject to this Pri
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy policy, please send an email to info@familylink.com. You may also contact us by mail at 4778 N 300 W, Suite 230, Provo, UT 84604.
-
-|  
+If you have any questions about this privacy policy, please send an email to support@familylink.com. You may also contact us by mail at 4778 N 300 W, Suite 230, Provo, UT 84604.
