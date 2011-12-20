@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utorrent.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623115246id_/http%3A//www.utorrent.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utorrent.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220133756id_/http%3A//www.utorrent.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - µTorrent - a (very) tiny BitTorrent client
 
@@ -23,6 +23,8 @@ In the event that you provide us with answers to voluntary survey questions, we 
 We also aggregate some data from our software applications (including µTorrent) regarding total traffic flows and content delivery performance of our Applications as well as other data collected in the use of our products or services in order to understand usability and monitor network conditions and compare the performance of Bittorrent and HTTP protocols on the public internet. End users may opt out of providing this information using a Preferences setting.
 
   * #### Gathering and Use of Personally Identifiable Information
+
+You may visit the [utorrent.com](https://web.archive.org/) website and use the µTorrent application without any registration at all. However, from time to time, we may enable certain additional functionality whereby you will have to create a user account. When you register and create an account, we may require you to provide us your contact information including your name, address, phone number and e-mail address, and other demographic information (such as date of birth, gender, age and interests). Your user name and password will be used so you can securely access and maintain your account. We may also use e-mail addresses and other personally identifiable information from time to time in order to gather and provide to our members and visitors improved content and features.
 
 Notwithstanding any other term of this Privacy Policy, we may release any personal information we obtain or collect when we believe its release is appropriate to comply with the law, enforce our Site policies, or protect ours or others' rights, property, or safety.
 
