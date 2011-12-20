@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wahoofitness.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618203909id_/https%3A//www.wahoofitness.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wahoofitness.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220105030id_/http%3A//www.wahoofitness.com/privacy.asp) for the most accurate reproduction.*
 
-# WahooFitness Privacy Policy: Wahoo Fitness - ANT+ fitness sensor iPhone adapters, ANT+ fitness accessories, heart rate monitors, speed and cadence sensor, power meters and iPhone fitness applications.
+# WahooFitness Privacy Policy: Wahoo Fitness – Connecting iPhones to Fitness- ANT+ and Bluetooth Smart sensors for running and cycling, such as heart rate monitors, speed and cadence and stride sensors
 
 The website www.wahoofitness.com. is provided by Wahoo Fitness LLC, through its offices in the United States. Wahoo Fitness recognizes the importance of protecting the privacy of personal and financial information. We have instituted strict policies and security measures to protect your information. When you register online with Wahoo Fitness or use our online store, you give us your consent to process and use your personal data in accordance with this online privacy policy. This Privacy Policy applies to all users of this website. 
 
