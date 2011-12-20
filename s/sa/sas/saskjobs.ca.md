@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saskjobs.ca privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621030453id_/http%3A//www.aee.gov.sk.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saskjobs.ca privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220062909id_/http%3A//www.aee.gov.sk.ca/privacy) for the most accurate reproduction.*
 
 # Internet Privacy Policy - Advanced Education, Employment and Immigration - Government of Saskatchewan
 
