@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blognix.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615150755id_/http%3A//www.blognix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blognix.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220211436id_/http%3A//www.blognix.com/privacy-policy) for the most accurate reproduction.*
 
 # BlogNIX | Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at terms ‘at’ techtickerblog dot com. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at terms ‘at’ blognixblog dot com. 
 
 At [BlogNIX](http://www.blognix.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by BlogNIX and how it is used. 
 
