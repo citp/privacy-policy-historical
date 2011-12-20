@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the probikekit.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604035056id_/http%3A//www.probikekit.com/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the probikekit.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220155033id_/http%3A//www.probikekit.com/security) for the most accurate reproduction.*
 
 # Security and Privacy
 
@@ -22,7 +22,17 @@ As with all online retailers, in order to deliver a high quality service it is e
 
 We will normally contact you by email, including when we confirm your order, its dispatch and any news and marketing material. We generally won’t need to call you by ‘phone, and will only do this if there is an issue with an order or purchase, there are queries on your account or you have asked us to contact you. We may send you certain marketing material by text to your mobile ‘phone. As well as using your delivery address to ship the goods, we may also send news and marketing materials by post. We collect credit or debit card details when you place an order, and will use these to collect payment, following security checks, only with your authority.
 
-We only send you news items and marketing material with your consent. If you have been receiving such material, but do not wish to continue, or haven’t been receiving it but wish to, you can [change your newsletter preferences](https://www.probikekit.com/newsletter/manage/) or [change your post and SMS preferences](https://www.probikekit.com/customer/account/edit/).
+We only send you news items and marketing material with your consent. If you have been receiving such material, but do not wish to continue, or haven’t been receiving it but wish to, you can [change your newsletter preferences](https://www.probikekit.com/newsletter/manage/) or [change your post and SMS preferences](https://www.probikekit.com/customer/account/edit/). Alternatively at the bottom of every PBK email there is an unsubscribe link, click this and you will no longer receive email marketing messages from us. If you are having problems unsubscribing please [Contact Us](https://www.probikekit.com/enquiryform/other/form/type/general/). and we will be glad to help.
+
+Alternatively if you would like to contact us by post, please write to us using the following address:
+
+ProBikeKit  
+Aynam Mills  
+Aynam Road  
+Kendal  
+Cumbria  
+LA9 7DE  
+United Kingdom
 
 You can check and/or change the information that we hold about you by visiting [your account](https://www.probikekit.com/customer/account/). If you contact us, we will take reasonable steps to verify your identity before granting access to your personal profile or making data changes, in order to protect access to your information.
 
@@ -52,7 +62,7 @@ back to top
 
 **What Information Do We Share?**
 
-We will never disclose any of your information to third party direct marketing organisations or online retailers. We may disclose certain information relating to you to third parties in the following circumstances: 
+We will never disclose any of your information to third party direct marketing organisations or online retailers. We may disclose certain information relating to you to third parties in the following circumstances:
 
 * To check and process your payments we will share certain information with credit reference, fraud prevention and detection agencies;
 * We may disclose certain generic information regarding activity on our Websites to research firms, advertisers or sponsors, to assist us to improve our services;
