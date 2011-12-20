@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paidsurveysandmore.org privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127230654id_/http%3A//paidsurveysandmore.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidsurveysandmore.org privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220195137id_/http%3A//paidsurveysandmore.org/privacy.html) for the most accurate reproduction.*
 
 # Paid Surveys and More - Privacy Policy
 
