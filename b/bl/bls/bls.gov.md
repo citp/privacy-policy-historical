@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bls.gov privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624010922id_/http%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bls.gov privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220025230id_/http%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.*
 
 # Privacy and Security Statement
 
@@ -8,36 +8,65 @@ As a general rule, the Bureau of Labor Statistics does not collect personally-id
 
 ### If you respond to an on-line request for personal information:
 
-Generally, the information requested by the Bureau of Labor Statistics will be used to respond to your inquiry or to provide you with the service associated with the request. However, when this information is requested, the reasons for collecting it with a description of the Bureau's intended use of the information will be fully described in a customized "Privacy Notice." This Privacy Notice will either appear on the Web page collecting the information or be accessible through a link prominently displayed immediately preceding the information request.
+Generally, the information requested by the Bureau of Labor Statistics will be used to respond to your inquiry or to provide you with the service associated with the request. However, when this information is requested, the reasons for collecting it with a description of the Bureau's intended use of the information will be described in a customized “Privacy Notice.” This Privacy Notice will either appear on the Web page collecting the information or be accessible through a link prominently displayed immediately preceding the information request. 
 
 ### If you visit our site to read or download information, we collect and store the following information:
 
-  * The name of the domain from which you access the Internet (for example, bls.gov, if you are connecting from the Bureau of Labor Statistics computer account).
-  * The date and time you access our site.
-  * The Internet address of the website from which you linked directly to our site.
+  * Internet Protocol (IP) Address.  A computer’s IP address establishes its location on the internet and allows other computers, such as those hosting bls.gov, to send it content and other information;
+  * The internet domain name when a computer accesses the internet through a domain, such as from a corporation (“xcompany.com”) or university (“yourschool.edu”);
+  * The date, time, and duration of a website visit;
+  * If a computer accesses a page on Bls.gov via a link on another page, the URL of that referring, non-Bls.gov page;
+  * Information about the computer set-up, such as the type and version of web browser (e.g., Internet Explorer 8.0, Mozilla Firefox 5.0), operating system (e.g., Unix, Mac OS, MS Windows), Java support (yes or no), Flash version (e.g., 10.1 r85), screen resolution (e.g., 1280x800), and connection speed (e.g., DSL, T1);
+  * The specific pages a computer accesses when it requests information from  Bls.gov; 
+  * The amount of data (measured in number of bytes) transmitted from bls.gov to a computer; and
+  * Contents of the persistent tracking cookie (see Cookie Use Notice below).
 
 
 
-The above information is used by software programs on our website to create summary statistics which allow us to assess the number of visitors to the different sections of our site, identify what information is of most and least interest, determine technical design specifications, monitor system performance, and help us make our site more useful to visitors.
+The above information is used by software programs on our website to create summary statistics which allow us to assess the number of visitors to the different sections of our site, identify what information is of most and least interest, determine technical design specifications, monitor system performance, and help us make our site more useful 
 
 ### If you identify yourself by sending an E-mail containing personal information:
 
-You also may decide to send us personally-identifying information, for example your mailing address, in an electronic mail message requesting that information be mailed to you. Information collected in this manner is used solely for responding to requests for information or records. We may forward your E-mail to other Government employees who are better able to respond to you. Should you wish to file a request under FOIA, instructions are provided at: [http://www.bls.gov/blsfoia.htm#request](https://web.archive.org/bls/blsfoia.htm#request)
+You also may decide to send us personally-identifying information, for example, your mailing address, in an electronic mail message requesting that information be mailed to you. Information collected in this manner is used solely for responding to requests for information or records. We may forward your E-mail to other Government employees who are better able to respond to you. Should you wish to file a request under FOIA, instructions are provided at: [http://www.bls.gov/blsfoia.htm#request](https://web.archive.org/bls/blsfoia.htm#request).
 
 ### If you link to other sites outside BLS:
 
-Our Website has many links to other sites. When you link to any of these sites, you are no longer on our site and are subject to the privacy policy of the new site.
+Our Website has many links to other sites. When you link to these other sites, you are no longer on our site and are subject to the privacy policy of the new site.
+
+### E-mail Filtering Notice
+
+The Bureau of Labor Statistics makes use of an automated spam filtering system on all E-mail messages entering its network to ensure the security of BLS systems and the professionalism of the Bureau’s workplace and to enable the Bureau to provide better service to our customers.  On rare occasions, this filtering process may unintentionally prevent us from receiving your E-mail or may delay our response.  If you do not receive a timely response to your message and suspect it might have been caught up in our filters, please contact us by telephone (202-691-5200) regarding your inquiry or use our online information request form found at: <http://data.bls.gov/cgi-bin/forms/opb>. We apologize for any inconvenience. 
 
 ### Cookie Use Notice
 
-On a limited number of its web pages, the Bureau of Labor Statistics employs "cookies" to provide better service to its customers. We do not use cookies to collect any personally identifying information from users or to track user activities beyond our web site. We do not maintain copies of cookies on our web site after you leave our web site.
+The Bureau of Labor Statistics employs “cookies” to provide better service to our customers. We do not use cookies to collect any personally identifying information from users or to track user activities beyond our web site.   
+This means that when you visit a page on bls.gov, the internet browser on your computer may download and save a small file from bls.gov (commonly called a “cookie”) so that our website can recognize your specific browser when you use bls.gov in the future.   
+These technologies fall into two categories, based on the length of time they remain active:
 
-Cookies are small pieces of temporary data that are exchanged between a web site and a user's computer which enable a "session", or "dialog", to be established between the two machines. With the session established, BLS is able to tailor its responses (i.e., identify and provide you with the information you want) and help you traverse our web pages in the most efficient and effective manner possible.
+  * Single-session cookies last only as long as a web browser is open.  Once the browser is closed, the data files on your computer are deleted.
+  * Multi-session, or “persistent” cookies last beyond a single session of browsing a website; this allows a website to recognize a computer or user for defined amount of time.
 
-The Bureau of Labor Statistics limits its use of cookies to "session cookies"...types of cookies that are temporarily stored in your computer's memory. Session cookies are normally deleted from a user's computer when the user logs off the computer or the user exits the browser. As of October 2000, the Bureau of Labor Statistics does not issue "persistent cookies"...types of cookies that could be stored permanently on your workstation and reused each time you visit the Department's web site. Before October 2000 however, BLS had a small number of web sites that automatically created persistent cookies. Those cookies may still be stored on some user's computers and, in some cases, may be updated by the user's browser when revisiting the BLS web site. In the event a cookie is found on your workstation which was issued from a BLS web site, you may remove it without adversely affecting your future visits to our web site. At no time did BLS track users or store any personal information.
+
+
+Bls.gov uses the following web measurement and customization technologies (defined and organized per the Office of Management and Budget’s “Guidance for Online Use of Web Measurement and Customization Technologies” ([OMB M-10-22](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf))):
+
+  * Session cookies are used for technical purposes, such as remembering your time series selections from one page to another while using the BLS data query tools.  Under the framework of OMB M-10-22, this qualifies as a Tier 1 use.
+  * Session cookies are used to track the number of pages you have viewed before showing you a customer satisfaction survey. Under the framework of OMB M-10-22, this qualifies as a Tier 1 use.
+  * Third-party session cookies are used by our third-party analytics provider (currently WebTrends OnDemand) The third-party analytics provider does not receive personally identifiable information through these cookies and does not combine, match, or cross-reference bls.gov information with any other information. Under the framework of OMB M-10-22, this qualifies as a Tier 1 use.
+  * Persistent cookies are used to recognize a computer that has previously visited bls.gov.  Bls.gov sets one persistent cookies to measure website metrics, such as which pages are popular and how often people visit the website. These cookies do not collect personal identifying information.  Under the framework of OMB M-10-22, this qualifies as a Tier 2 use.
+
+
+
+**How you can control website measurement and customization technologies**
+
+Visitors can control aspects of website measurement and customization technologies used on bls.gov.  Visitors who choose to disable these technologies will still have access to comparable information and services on bls.gov except for the data query tools which require the use of session cookies.
+
+One of the most common forms of website measurement and customization technologies is the use of “cookies.”  You can choose not to accept cookies from any website, including bls.gov, by changing the settings of your browser.  You can also delete cookies stored in your browser at any time. Instructions for setting your browser security can be found here: <http://www.usa.gov/optout_instructions.shtml>
+
+### Security
 
 For security purposes and to ensure that this service remains available to all users, our website also employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
 Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996.
 
-**Last Modified Date:** June 08, 2004
+**Last Modified Date:** September 28, 2011
