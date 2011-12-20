@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 352media.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507091719id_/http%3A//www.352media.com/Privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 352media.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220021208id_/http%3A//www.352media.com/Privacypolicy) for the most accurate reproduction.*
 
-# web design company, Web development - 352 Media Privacy Policy for Web site development - 352 Media Group
+# web design company, Web development - 352 Media Privacy Policy for Web site development
 
 Silverscape Technologies, Inc. d/b/a 352 Media Group (“352 Media”) respects the privacy of its customers and the visitors and users of its websites.
 
@@ -22,7 +22,7 @@ The Personal Information we gather from you helps us learn about our customers a
 
 We collect Personal Information that you submit to us voluntarily. The Personal Information we collect includes, but is not limited to, the following: name, mailing address, Web address, telephone number, e-mail address, and information contained in any e-mail or other communication you send to us or information you give to us in any other way.
 
-##  Personal Information Collected via Technology
+## Personal Information Collected via Technology
 
 As you navigate our website, certain passive information may also be collected, including your Internet Protocol address, browser type, and operating system. We also use cookies and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the solutions and information for which you searched and viewed. This type of information is collected to make our solutions and services more useful to you. 
 
@@ -30,7 +30,7 @@ As you navigate our website, certain passive information may also be collected, 
 
 We Receive from Other Sources We may receive Personal Information about you from other sources like telephone or telefax. We may add this information to the information we have already collected about you in order to improve the solutions and services we provide.
 
-##  Collection of Company or Organization Information
+## Collection of Company or Organization Information
 
 We may also ask you for or collect information about your company or organization.  Any information about your company or organization that is publicly accessible (such as information found on your website or through search engines or business information database services) shall not be considered Personal Information and our use of that information shall not be restricted in any way. 
 
