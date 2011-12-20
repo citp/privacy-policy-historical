@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpbbhacks.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620060159id_/http%3A//www.phpbbhacks.com/phpbbhacks/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpbbhacks.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220160905id_/http%3A//www.phpbbhacks.com/phpbbhacks/privacy.php) for the most accurate reproduction.*
 
 # phpBBHacks.com - Privacy Policy
 
