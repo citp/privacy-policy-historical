@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aarnet.edu.au privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412062120id_/http%3A//www.aarnet.edu.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarnet.edu.au privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220021513id_/http%3A//www.aarnet.edu.au/privacy.aspx) for the most accurate reproduction.*
 
 # AARNET - Privacy
 
-In order to provide you with products and services, or to conduct workshops, seminars conferences an other AARNet events, AARNet may need to collect and use information about you. AARNet is committed to protecting your privacy, managing your personal information in a secure environment and using your information for AARNet related business purposes only. 
+In order to provide you with products and services, or to conduct workshops, seminars conferences and other AARNet events, AARNet may need to collect and use information about you. AARNet is committed to protecting your privacy, managing your personal information in a secure environment and using your information for AARNet related business purposes only. 
 
 AARNet respects and upholds your rights to privacy protection under Australian Law. Our policy describes how we manage any personal information we have about you.
 
