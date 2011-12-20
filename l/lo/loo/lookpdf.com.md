@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lookpdf.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607040606id_/http%3A//lookpdf.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookpdf.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220021349id_/http%3A//www.lookpdf.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy LooKPDF.com
 
