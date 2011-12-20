@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstam.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527072559id_/http%3A//www.firstam.com/about/company-information/privacy-information.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstam.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220214907id_/http%3A//www.firstam.com/about/company-information/privacy-information.html) for the most accurate reproduction.*
 
 # Privacy Information - First American - About - Company Information
 
