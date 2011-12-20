@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the raywj.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609085405id_/http%3A//www.raywj.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raywj.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220145705id_/http%3A//www.raywj.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# » Privacy Policy Ray William Johnson
+
+## [Privacy Policy](http://www.raywj.com/privacy-policy/ "Privacy Policy")
 
 **PRIVACY POLICY (INCLUDING YOUR CALIFORNIA PRIVACY RIGHTS)**
 
