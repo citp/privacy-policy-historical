@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lampsplus.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625093856id_/http%3A//www.lampsplus.com/info-center/w/help-and-policies/your-privacy-and-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lampsplus.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220062414id_/http%3A//www.lampsplus.com/info-center/w/help-and-policies/your-privacy-and-security.aspx) for the most accurate reproduction.*
 
 # Your Privacy and Security - Help, Policies & FAQ - Community - LampsPlus.com - Information Center
 
@@ -29,7 +29,7 @@ We also may combine the information you give us online, in our stores, or throug
 
 We do not sell or rent e-mail addresses to any third parties. Furthermore, we do not share the credit card information you provide to us with anyone other than your credit card provider. However, other information about you may be combined with publicly available information, as well as information we receive from reputable companies we have selected to analyze the data we collect. 
 
-We maintain relationships with select business partners whom we have deemed to be trustworthy and responsible and whose privacy policies are aligned with ours. We may share or cross-reference information, including personal information about you and your order, with our business partners, allowing them to contact you regarding products and/or services that may be of interest to you. 
+We maintain relationships with select business partners whom we have deemed to be trustworthy and responsible and whose privacy policies are aligned with ours. We may share or cross-reference information, including personal information about you and your order, with our business partners, allowing them to contact you regarding products and/or services that may be of interest to you. We may also share your personal information with any of our subsidiaries, including our flash sales website. 
 
 In addition, when we join with another company to offer or provide services, products, sweepstakes, contests, or promotions, we and the other company may cross-reference our customer databases to identify common customers. We and the other company may use that existing information to identify future promotional opportunities and to fulfill promotional or contractual obligations. 
 
