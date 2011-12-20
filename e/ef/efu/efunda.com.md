@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efunda.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230164746id_/http%3A//www.efunda.com/members/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efunda.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220080432id_/http%3A//www.efunda.com/members/privacy.cfm) for the most accurate reproduction.*
 
 # eFunda Privacy Notice
 
@@ -10,7 +10,7 @@
   
 | 
 
-| [**Home**](http://www.efunda.com/home.cfm) | [**Membership**](http://www.efunda.com/whyjoin.cfm) | [**Store**](http://www.smallparts.com/?&tag=efunda-20&camp=217053&creative=396633&linkCode=ur1&adid=1Z2FX9128JV9BTHW4JWR&) | [**Forum**](http://www.efunda.com/forum/forum.cfm) | [**Search Member**](http://www.efunda.com/members/people/search_people.cfm) | [**Calculators**](http://www.efunda.com/calculator.cfm)  
+| [**Home**](http://www.efunda.com/home.cfm) | [**Membership**](http://www.efunda.com/whyjoin.cfm) | [Magazines](http://efunda.tradepub.com/) | [**Forum**](http://www.efunda.com/forum/forum.cfm) | [**Search Member**](http://www.efunda.com/members/people/search_people.cfm) | [**Calculators**](http://www.efunda.com/calculator.cfm)  
 ---|---|---|---|---|---  
 ---  
 | [](http://www.efunda.com/materials/)  
@@ -49,6 +49,6 @@ In particular:
 
   
 ---  
-[**Home**](http://www.efunda.com/home.cfm)  [Membership](http://www.efunda.com/whyjoin.cfm)  [About Us](http://www.efunda.com/about/about.cfm)  [Privacy](http://www.efunda.com/members/privacy.cfm)  [Disclaimer](http://www.efunda.com/disclaimer.cfm)  [Contact](http://www.efunda.com/about/contact.cfm)  [Advertise](http://www.digitalharvestmedia.com/media/efunda/index.asp)   
+[**Home**](http://www.efunda.com/home.cfm)  [Membership](http://www.efunda.com/whyjoin.cfm)  [About Us](http://www.efunda.com/about/about.cfm)  [Privacy](http://www.efunda.com/members/privacy.cfm)  [Disclaimer](http://www.efunda.com/disclaimer.cfm)  [Contact](http://www.efunda.com/about/contact.cfm)  [Advertise](http://dhmedia.com/media-sales/efunda.html)   
   
-Copyright © 2010 eFunda, Inc.
+Copyright © 2011 eFunda, Inc.
