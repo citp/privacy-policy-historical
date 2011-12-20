@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softlate.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621082109id_/http%3A//softlate.com/legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softlate.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220210415id_/http%3A//softlate.com/legal.html) for the most accurate reproduction.*
 
 # softlate. The leading software download sites
 
@@ -32,4 +32,4 @@ Our aim is to help people find the software they are looking for, in order to pr
 
 ©softlate.com - A Free Download Software Archive for Windows. All rights reserved.  
 All other trademarks are the sole property of their respective owners.  
-[Support](https://web.archive.org/web/20110621082109id_/http%3A//softlate.com/support.html) | [Privacy policy](https://web.archive.org/web/20110621082109id_/http%3A//softlate.com/legal.html) | [Contact us](mailto:%20softlate@gmail.com) . Copyright 2004-2011 [softlate.com](http://www.softlate.com/)
+[Support](https://web.archive.org/web/20111220210415id_/http%3A//softlate.com/support.html) | [Privacy policy](https://web.archive.org/web/20111220210415id_/http%3A//softlate.com/legal.html) | [Contact us](mailto:%20softlate@gmail.com) . Copyright 2004-2011 [softlate.com](http://www.softlate.com/)
