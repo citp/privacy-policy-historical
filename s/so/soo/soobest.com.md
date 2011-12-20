@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the soobest.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527084857id_/http%3A//www.soobest.com/article/about-us/privacy-policy-32.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soobest.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220084613id_/http%3A//www.soobest.com/help_article/about-us/privacy-policy-32.html) for the most accurate reproduction.*
 
-# Privacy Policy | About Us_Help Center_SooBEST.com - Fast Fashion Online Store for Bridal Wedding Gown Dress, Evening Dress, Fashion Jewelry
-
-_Welcome to SooBest.com Help_
-
-
-
+# Privacy Policy_SooBEST.com - Fast Fashion Online Store for Bridal Wedding Gown Dress, Evening Dress, Fashion Jewelry
 
 Thank you for accessing the web site of SooBEST.com. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
 
@@ -13,7 +8,7 @@ This Privacy Policy explains how we collect, use and (under certain conditions) 
 
 This privacy policy applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details. We are not responsible for the content or privacy practices on any non-Soobest.com web site to which this Site links or that links to this Site.
 
-## INFORMATION COLLECTION AND USE
+**INFORMATION COLLECTION AND USE**
 
 1\. Information Collection.  
 We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to: . help make this Site easier for you to use by not having to enter information more than once.
@@ -51,21 +46,21 @@ We collect information from you in several different ways on this Site. One goal
 
 
 
-## DATA SECURITY
+**DATA SECURITY**
 
 This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.
 
 While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
 
-## OPT OUT/CORRECTIONS
+**OPT OUT/CORRECTIONS**
 
 Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to Soobest.com Customer Support department support@soobest.com Please do not email your credit-card number or other sensitive information.
 
-## OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION
+**OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION**
 
 As you might expect from Soobest.com, the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also collect information offline, where we also try to protect the privacy of you personal information. One example involves someone calling us to place an order or to ask questions. When someone calls, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption (See the Data Security section above for more information). There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy doesn't discuss or try to predict all of those methods or uses. As we mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
 
-## UPDATES TO THIS POLICY
+**UPDATES TO THIS POLICY**
 
 If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated.  
 If any problem, please feel free to contact with the following ways.
