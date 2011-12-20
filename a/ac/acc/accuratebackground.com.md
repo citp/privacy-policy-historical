@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accuratebackground.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609013316id_/http%3A//accuratebackground.com/privacy-policy.php%3Fsec%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuratebackground.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220045713id_/http%3A//www.accuratebackground.com/privacy-policy.php%3Fsec%3D8) for the most accurate reproduction.*
 
 # Privacy Policy | Accurate Background, Inc
 
@@ -26,12 +26,12 @@ We define children as individuals under the age of 16. Our Web Site is not inten
 Personal information submitted to Accurate Background for a background screening investigation may at times be transferred outside of the United States in order to perform the background investigation specifically when Accurate Background is attempting to verify your credentials or professional history during times you were in another country outside of the United States. All personal information will be transmitted and stored in a secure manner in accordance with the terms of this Privacy Policy.
 
 **Contact Information:**  
-Laura Randazzo  
+Tracy Vrchota  
 Accurate Background, Inc.  
 6 Orchard, Suite 200   
 Lake Forest, CA 92630   
 800.784.3911  
-customer_service@accuratebackground.com  
-www.accuratebackground.com
+[ customer_service@accuratebackground.com](mailto:customer_service@accuratebackground.com)  
+[www.accuratebackground.com](https://web.archive.org/web/20111220045713id_/http%3A//www.accuratebackground.com/index.php)
 
 **Effective Date:** January 18, 2008
