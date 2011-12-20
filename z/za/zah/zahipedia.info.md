@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zahipedia.info privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611065326id_/http%3A//www.zahipedia.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zahipedia.info privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220113029id_/http%3A//www.zahipedia.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
