@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisisfutbol.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622173616id_/http%3A//thisisfutbol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisisfutbol.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220232833id_/http%3A//thisisfutbol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | thisisfutbol.com
 
