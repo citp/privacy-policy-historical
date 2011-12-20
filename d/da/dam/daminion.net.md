@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daminion.net privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427095323id_/http%3A//www.daminion.net/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daminion.net privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220125335id_/http%3A//daminion.net/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daminion Software | Archive Server for Digital Assets
 
