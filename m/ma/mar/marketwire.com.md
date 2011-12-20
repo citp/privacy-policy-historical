@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the marketwire.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414202012id_/http%3A//www.marketwire.com/mw/include.do%3Fpageid%3D516) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketwire.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220222117id_/http%3A//www.marketwire.com/privacy) for the most accurate reproduction.*
 
-# Marketwire Privacy Policy
+# Marketwire – Newswire service for online press release distribution, social media releases, social media monitoring, online newsrooms, news release analytics and reporting
+
+[Home](https://web.archive.org/web/20111220222117id_/http%3A//www.marketwire.com/) >
 
 Your privacy on the Internet is of the utmost importance to us. This privacy statement discloses what information we gather, how we use it, and how to correct or change it.
 
@@ -20,9 +22,9 @@ We use this data to tailor your experience at our site, to deliver content that 
 
 Marketwire may also disclose your personal information, the contents of your communications and/or your contact and financial information if required to do so by law, with your consent or in the good faith belief that such action is necessary:
 
-  1. To conform to the edicts of the law or comply with a legal process served on Marketwire; 
-  2. To protect and defend the rights or property of Marketwire or others; or 
-  3. To assist, under exigent circumstances, in the investigation of securities law violations or other investigations. 
+  1. To conform to the edicts of the law or comply with a legal process served on Marketwire;
+  2. To protect and defend the rights or property of Marketwire or others; or
+  3. To assist, under exigent circumstances, in the investigation of securities law violations or other investigations.
 
 
 
@@ -30,8 +32,7 @@ It is possible that as we continue to develop our business, Marketwire might be 
 
 ## Advertisers and Other Third Parties
 
-This site contains links to other sites. Marketwire is not responsible for the privacy practices or the content of such websites.
-
+This site contains links to other sites. Marketwire is not responsible for the privacy practices or the content of such websites.  
 We may use a third-party ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our website, cookies received with banner ads are collected by the third-party ad company, and we do not have access to this information. The privacy practices of companies who provide services or ads through our site are not covered by this Privacy Policy. Please contact those companies directly for more information about their privacy practices.
 
 ## Changes to Our Policies
@@ -48,15 +49,15 @@ Marketwire is not intended for and should not be used by anyone under the age of
 
 ## International Users
 
-If you are an international user, by registering with Marketwire or by using our service, you agree that we may collect, use and transfer your information as described in this Privacy Policy. If you reside in the European Union or other jurisdictions that provide access rights under law, you may access your information or have it corrected or updated in accordance with applicable law by [contacting us](http://easyir.marketwire.com/easyir/cont.do?easyirid=17&version=live).
+If you are an international user, by registering with Marketwire or by using our service, you agree that we may collect, use and transfer your information as described in this Privacy Policy. If you reside in the European Union or other jurisdictions that provide access rights under law, you may access your information or have it corrected or updated in accordance with applicable law by [contacting us](https://web.archive.org/Contact_Marketwire).
 
 ## Clients
 
 Clients who have registered in order to use our services can change or update their account information and preferences by:
 
-  1. Visiting <https://www.marketwire.com/mw/login.do>; 
+  1. Visiting <https://www.marketwire.com/mw/clogin.do>;
   2. Calling Client Services at 800-774-9473; or
-  3. [Contact us](http://easyir.marketwire.com/easyir/cont.do?easyirid=17&version=live)
+  3. [Contact us](https://web.archive.org/Contact_Marketwire)
 
 
 
@@ -68,26 +69,29 @@ From time to time we will email client prospects whom we have reason to believe 
 
 We provide subscribers to our email newsletters with the opportunity to opt out of receiving promotional communications at the point when we request your information. Additionally, subscribers have the right to mask the non-public registration details they provide (media outlet, city, state) from appearing within our activity reports. At any time, subscribers can change their preferences regarding promotional communications and reporting disclosures, can subscribe to or unsubscribe from any of our email newsletters and can modify other registration information previously provided to us by:
 
-  1. Visiting [Hot Off The Wire](http://www.ccnmatthews.com/news/hotw/signup.jsp) or
-  2. Visiting [Personal Beat](https://web.archive.org/web/20110414202012id_/http%3A//www.marketwire.com/mw/include.do?module=MONITOR&pageid=519) or
-  3. Using the link provided at the bottom of any email newsletter we send to you. 
+  1. Visiting [Hot Off The Wire](https://web.archive.org/communication_solutions/hot_off_the_wire) or
+  2. Visiting [Personal Beat](https://web.archive.org/Journalist_Blogger_Tools/Personal_News_Access) or
+  3. Using the link provided at the bottom of any email newsletter we send to you.
 
 
 
 ## Social Media
 
-From time to time we will participate in conversations on social media platforms such as [Twitter](http://www.twitter.com/Marketwire/), [LinkedIn](http://www.linkedin.com/), or [Facebook](http://www.facebook.com/marketwire/), where we have reason to believe individuals might be interested in our services because of their involvement in public relations, investor relations or related fields. Communications that are meant to be confidential in nature should be made through secure messaging options available within these third party websites/services. Questions about our [social media policy](http://www.marketwire.com/mw/include.do?module=&pageid=923) should be forwarded to [info@marketwire.com](mailto:info@marketwire.com).
+From time to time we will participate in conversations on social media platforms such as [Twitter](http://www.twitter.com/Marketwire/), [LinkedIn](http://www.linkedin.com/), or [Facebook](http://www.facebook.com/marketwire/), where we have reason to believe individuals might be interested in our services because of their involvement in public relations, investor relations or related fields. Communications that are meant to be confidential in nature should be made through secure messaging options available within these third party websites/services. Questions about our [social media policy](https://web.archive.org/about_marketwire/Social-Media-Policy) should be forwarded to [info@marketwire.com](mailto:info@marketwire.com).
 
 ## Contacting the Website
 
 If you have any questions about this Privacy Policy, the practices of Marketwire, or your dealings with this website, you can contact us at the postal address, phone number, fax number or email address listed below.
 
-> Marketwire, Inc.  
->  48 Yonge Street, 8th Floor  
->  Toronto, ON M5E 1G6  
->  Phone: 888-299-0338  
->  Fax: 416-362-5477  
->  Email: [info@marketwire.com](mailto:info@marketwire.com)   
-> 
+Marketwire, Inc.  
+25 York Street  
+Suite 900, P.O. Box 403  
+Toronto, ON M5J 2V5  
+Phone: 888-299-0338  
+Fax: 416-362-5477  
+Email: [info@marketwire.com](mailto:info@marketwire.com)
 
 Last updated: July 13, 2010
+
+  
+
