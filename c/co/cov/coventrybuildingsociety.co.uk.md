@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coventrybuildingsociety.co.uk privacy policy that was archived on 2011-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110404230445id_/http%3A//www.coventrybuildingsociety.co.uk/your-society/important-info/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coventrybuildingsociety.co.uk privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220012110id_/http%3A//www.coventrybuildingsociety.co.uk/your-society/important-info/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Coventry Building Society
 
@@ -29,7 +29,7 @@ Most of the information we hold is stored electronically on computer systems. Ho
 
 We occasionally use external suppliers to process data on our behalf, for example to print names and addresses on letters for large mailing campaigns. We only use reputable companies and always ensure that they meet our stringent security requirements. On occasion, we may transfer data outside this country or the European Economic Area, either for storage or to be processed.
 
-From time to time we'll tell you about new accounts or services. You can choose not to receive this information when you open your account. You can change your instructions at any time, by writing to us with details of your savings and/or mortgage account number(s), to Mortgage and Investment Services, Coventry Building Society, PO Box 9, Coventry, CV1 5QN. However, we will continue to send notice of General Meetings if you are eligible to vote, and where appropriate information about your account and interest rate changes.
+From time to time we'll tell you about new accounts or services. You can choose not to receive this information when you open your account. You can change your instructions at any time, by writing to us with details of your savings and/or mortgage account number(s), to Mortgage and Investment Services, Coventry Building Society, PO Box 9, Coventry, CV1 5QN.
 
 However, we will continue to send notice of General Meetings if you are eligible to vote, and where appropriate information about your account and interest rate changes.
 
@@ -43,7 +43,7 @@ To meet our responsibilities for crime prevention and for legal and regulatory c
 
 ### Credit referencing
 
-If you apply for a mortgage we will perform a search with a licensed credit reference agency. The agency will keep a record of our enquiry and if the mortgage proceeds and we will provide them with details of how you conduct your account. Other lenders may access this record if you apply to them for credit. 
+If you apply for a mortgage we will perform a search with a licensed credit reference agency. The agency will keep a record of our enquiry and if the mortgage proceeds we will provide them with details of how you conduct your account. Other lenders may access this record if you apply to them for credit. 
 
 The credit reference agencies we normally use are:
 
@@ -63,7 +63,51 @@ All financial institutions are required by Money Laundering legislation to colle
 
 ## Cookies
 
-We use cookies to support some of the security features of this site and to track visitors. You will be unable to apply for an account online or use our Online Services if you do not have cookies enabled on your browser.
+  
+
+
+### What are cookies?
+
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. 
+
+### How we use cookies?
+
+We use cookies to support some of the security features of this site as well as to track visitors so we can improve our products and services. The cookies that we use may have already been set on your device, however, you can opt not to have these cookies on your machine by using the details and link below. 
+
+**Please note: if you decide not to allow all of these cookies, certain parts of the site will not work.**
+
+Cookie | Name | Purpose  
+---|---|---  
+Essential secure browsing cookie | CBS login | This cookie is essential for all on site secure browsing. This includes Online Services and online applications. 
+
+Please note: The cookie is set once you enter a secure area of the site. This cookie is a persistent cookie which means it will stay on your device until it is removed.   
+  
+Referrer code cookie | CBSref | This cookie is used to track external advertising and understand where you have visited the site from. 
+
+We only use this information for internal analysis.
+
+This cookie is set when you arrive on the site and is a session based cookie which means the cookie is deleted once you have left our site.   
+  
+Web trends analytics | WT_FPC | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. 
+
+The cookies collect information in an anonymous form, including the number of visitors to the site and the pages they visited. 
+
+This cookie is a persistent cookie and is set to expire 10 years after it is set when you first visit the site.   
+  
+Tagman cookies | TMS (session)  
+LGP (persistent)  
+TMP (persistent) | These cookies are used to collect information about how you arrive at our site. 
+
+We use this information to monitor the success of external advertising. This information is not shared with anyone other than the Coventry Group and Tagman our analytic service provider.
+
+TMS is a session cookie, created when you arrive at our site and is removed when the browser is closed.
+
+TMP and LGP are persistent cookies, set when the user first sees Coventry campaign material and are only removed if deleted manually from your device.  
+  
+For more information about how to block cookies, delete cookies and more visit [www.allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies/)
+
+  
+
 
 ## Telephone calls
 
@@ -71,7 +115,7 @@ We may record or monitor any telephone calls you make to us, to increase your se
 
 ## Emails
 
-If you email us we will keep a record of your contact and your email address. In addition to specific services that you request, we may also email you with details of relevant products and services, as well as information about the Society. If you do not want us to do this [please let us know](https://web.archive.org/contact-us/Get-In-Touch.aspx).
+If you email us we will keep a record of your contact and your email address. In addition to specific services that you request, we may also email you with details of relevant products and services, as well as information about the Society. If you do not want us to do this [please let us know](https://web.archive.org/contact-us/get-in-touch.aspx?tab=2).
 
 For security we will not include any confidential information about you in any email we send to you, for example we will not quote account and balance information in an email to you. We would also suggest that you keep the amount of confidential information you send to us via email to a minimum.
 
@@ -83,7 +127,7 @@ The Data Protection legislation defines the legal responsibilities of data users
 
 For the purposes of the Data Protection Act 1998, the Data Controller in relation to any personal data you supply is Coventry Building Society.
 
-You have a right of access under data protection legislation to your personal records held by the Society on payment of a fee.
+You have a right of access under data protection legislation to your personal records held by the Society on payment of a £10 fee, payable to 'Coventry Building Society'. Please put your request in writing to Coventry Building Society, PO Box 9, High Street, Coventry, CV1 5QN.
 
 ## Links to other sites
 
