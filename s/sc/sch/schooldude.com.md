@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schooldude.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527052219id_/http%3A//www.schooldude.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooldude.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220124444id_/http%3A//www.schooldude.com/about/privacy) for the most accurate reproduction.*
 
 # About - SchoolDude Privacy Policy
 
