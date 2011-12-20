@@ -1,0 +1,1327 @@
+<!--The following is the downloaded HTML source of the e3hub.com privacy policy that was archived on 2011-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111220122438id_/http%3A//e3hub.com/cgi-bin/Help%3Fcmd%3Dview%26pages%3Dprivacy) for the most accurate reproduction.-->
+
+<html><!--
+################################################################################
+# Revision:$Id: header.tmpl
+################################################################################
+--><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>E3Hub  - Help is here</title>
+<meta name="description" content="E3Hub help pages- A new kind of social network that connects friends, colleagues and neighbours to a powerful network of people you know and trust. Network opportunities, market a talent, provide a service, buy and sell things, share a photo, plan an event, send money to a friend. Collaborate with your team, group, classmates, work, community, or local business. 
+ ">
+<meta name="keywords" content="auction, classifieds, Buy, sell, Sell books, sell your home, sell Jewelry, sell antiques.">
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="Classification" content="auction, Auction, AUCTION, auctions">
+<meta name="author" content="RScript">
+<meta name="Copyright" content="e3hub.com">
+<meta name="Publisher" content="e3hub.com">
+<style style="text/css">
+
+.dcountstyle{ /*Example CSS to style count up output*/
+font: bold 16px Arial;
+padding: 3px;
+}
+
+.dcountstyle sup{ /*Example CSS to style count up output*/
+font-size: 90%
+}
+
+</style>
+
+<script language="JavaScript">
+var auctionurl	= "http://e3hub.com";
+var site_url = "http://e3hub.com/cgi-bin";
+var imgsite_url = "http://e3hub.com/auction/images/";
+function pop_Up(URL,WIDTH,HEIGHT) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,"+WIDTH+","+HEIGHT+"');");
+
+}
+</script>
+<script type="text/javascript">
+
+/***********************************************
+* Dynamic CountUp script- � Dynamic Drive (http://www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+
+function dcountup(startingdate, baseunit){
+	this.currentTime=new Date('')
+	this.startingdate=new Date(startingdate)
+	this.timesup=false
+	this.baseunit=baseunit
+	this.start()
+}
+
+dcountup.prototype.oncountup=function(){} //default action for "oncountup"
+
+dcountup.prototype.start=function(){
+	var thisobj=this
+	this.currentTime.setSeconds(this.currentTime.getSeconds()+1)
+	var timediff=(this.currentTime-this.startingdate)/1000 //difference btw target date and current date, in seconds
+	var oneMinute=60 //minute unit in seconds
+	var oneHour=60*60 //hour unit in seconds
+	var oneDay=60*60*24 //day unit in seconds
+	var dayfield=Math.floor(timediff/oneDay)
+	var hourfield=Math.floor((timediff-dayfield*oneDay)/oneHour)
+	var minutefield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour)/oneMinute)
+	var secondfield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour-minutefield*oneMinute))
+	if (this.baseunit=="hours"){ //if base unit is hours, set "hourfield" to be topmost level
+		hourfield=dayfield*24+hourfield
+		dayfield="n/a"
+	}
+	else if (this.baseunit=="minutes"){ //if base unit is minutes, set "minutefield" to be topmost level
+		minutefield=dayfield*24*60+hourfield*60+minutefield
+		dayfield=hourfield="n/a"
+	}
+	else if (this.baseunit=="seconds"){ //if base unit is seconds, set "secondfield" to be topmost level
+		var secondfield=timediff
+		dayfield=hourfield=minutefield="n/a"
+	}
+	if(hourfield <= 9){
+		hourfield = "0"+hourfield;
+	}
+	if(minutefield <= 9){
+		minutefield = "0"+minutefield;
+	}
+	if(secondfield <= 9){
+		secondfield = "0"+secondfield;
+	}
+	var result={days: dayfield, hours:hourfield, minutes:minutefield, seconds:secondfield}
+	this.oncountup(result)
+	setTimeout(function(){thisobj.start()}, 1000) //update results every second
+}
+
+</script>
+<script language="JavaScript" src="http://e3hub.com/auction/javascript/js_functions.js"></script>
+<script language="JavaScript" src="http://e3hub.com/auction/javascript/jquery-menu.js"></script>
+<script language="JavaScript" src="http://e3hub.com/auction/javascript/ddsmoothmenu.js"></script>
+<script language="JavaScript" src="http://e3hub.com/auction/javascript/e3hubcontentslider.js"></script>
+<script language="JavaScript" src="http://e3hub.com/auction/javascript/ajaxroutine.js"></script>
+
+<style type="text/css"> body, img, div, td { behavior: url(http://e3hub.com/auction/javascript/iepngfix.htc) }</style>
+<script language="JavaScript">
+<!-- Begin
+function popUp(URL,WIDTH,HEIGHT) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,"+WIDTH+","+HEIGHT+"');");
+}
+// End -->
+function make_campaignpayment(campaignId)
+{
+	document.locationform.action = 'https://e3hub.com/cgi-bin/';
+	document.locationform.cmd.value = 'payment';
+	document.locationform.paymentcampaign.value=campaignId;
+	document.locationform.submit();
+}
+function do_search(){
+	
+	var e3searchcategory = document.paymentformh.e3hub_category.value;
+
+	if(trimAll(document.paymentformh.searchstring.value) == ""){
+		alert("Please enter a keyword.");
+		document.paymentformh.searchstring.focus();
+	}else{
+	    document.paymentformh.cmd.value  =  "simple_search";
+		document.paymentformh.action = "http://e3hub.com/cgi-bin/Search";
+		document.paymentformh.submit();
+	}
+}
+</script>
+<link rel="StyleSheet" href="http://e3hub.com/auction/css/trade-network.css" type="text/css">
+<link rel="StyleSheet" href="http://e3hub.com/auction/css/e3hubsmoothmenu.css" type="text/css">
+<link rel="StyleSheet" href="http://e3hub.com/auction/css/e3hubsmoothmenu-v.css" type="text/css">
+<link rel="StyleSheet" href="http://e3hub.com/auction/css/contentslider.css" type="text/css">	
+<link rel="stylesheet" type="text/css" media="all" href="http://e3hub.com/auction/css/dd.css">
+<!--[if lte IE 6]>
+<link rel='stylesheet' type='text/css' media='all' href="http://e3hub.com/auction/css/dd_ie.css">
+<![endif]-->
+
+<script language="javascript" type="text/javascript" src="http://e3hub.com/auction/dhtml/dhtmlwindow.js"></script>
+<link rel="StyleSheet" href="http://e3hub.com/auction/dhtml/dhtmlwindow.css" type="text/css">
+<script language="javascript" type="text/javascript" src="http://e3hub.com/auction/dhtml/modal.js"></script>
+<script src="http://e3hub.com/auction/javascript/menu.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript" src="http://e3hub.com/auction/dhtml/popup.js"></script>
+<script language="javascript" type="text/javascript" src="http://e3hub.com/auction/javascript/animatedcollapse.js"></script>
+<script language="javascript" type="text/javascript" src="http://e3hub.com/auction/javascript/jquery.mint.js"></script>
+<link rel="StyleSheet" href="http://e3hub.com/auction/dhtml/modal.css" type="text/css">
+
+<link rel="stylesheet" type="text/css" href="http://e3hub.com/auction/css/selectbox.css">
+<script src="http://e3hub.com/auction/javascript/jquery.minselect.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" src="http://e3hub.com/auction/javascript/jquery.selectbox-0.5.js"></script>
+<!--<link rel="stylesheet" type="text/css" href="http://e3hub.com/auction/css/countryselectbox.css">
+<script type="text/javascript" src="http://e3hub.com/auction/javascript/jquery.countryselectbox-0.5.js"></script>-->
+<script type="text/javascript">
+
+animatedcollapse.addDiv('add_new_task', 'fade=1,height=420px')
+
+animatedcollapse.ontoggle=function($, divobj, state){ //fires each time a DIV is expanded/contracted
+	//$: Access to jQuery
+	//divobj: DOM reference to DIV being expanded/ collapsed. Use "divobj.id" to get its ID
+	//state: "block" or "none", depending on state
+}
+animatedcollapse.init()
+
+</script>
+
+<script type="text/javascript">
+ddsmoothmenu.init({
+	mainmenuid: "smoothmenu3", //menu DIV id
+	orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+	classname: 'ddsmoothmenu', //class added to menu's outer DIV
+	//customtheme: ["#1c5a80", "#18374a"],
+	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
+ddsmoothmenu.init({
+	mainmenuid: "smoothmenu4", //menu DIV id
+	orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+	classname: 'ddsmoothmenu', //class added to menu's outer DIV
+	//customtheme: ["#1c5a80", "#18374a"],
+	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
+</script>
+ 
+	<style type="text/css">
+	#contextMenu{	/* The menu container */
+		border:1px solid #202867;	/* Border around the entire menu */
+		background-color:#FFF;	/* White background color of the menu */
+		margin:0px;
+		padding:0px;
+		width:195px;	/* Width of context menu */
+		font-family:arial;
+		font-size:12px;
+		height:160px;
+		/* Never change these two values */
+		display:none;
+		position:absolute;
+		overflow:auto;
+		
+
+	}
+	#contextMenu a{	/* Links in the context menu */
+		color: #000;
+		text-decoration:none;
+		vertical-align:middle;	
+		/* Don't change these 3 values */
+		display:block;	
+		width:100%;
+		clear:both;
+		
+	}
+	#contextMenu li{	/* Each menu item */
+		list-style-type:none;
+		padding:1px;
+		margin:1px;
+		cursor:pointer;	
+		clear:both;
+	}
+	#contextMenu li div{	/* Dynamically created divs */
+		cursor:pointer;	
+	}
+	#contextMenu .contextMenuHighlighted{	/* Highlighted context menu item */
+		border:0px solid #000;
+		padding:0px;
+		background-color:#DDE9F2;
+	}
+	#contextMenu img{
+		border:0px;
+	}
+	#contextMenu .imageBox{	/* Dynamically created divs for images in the menu */
+
+		float:left;
+		padding-top:3px;
+		vertical-align:middle;
+		
+		
+	}
+	#contextMenu .itemTxt{
+		float:left;		
+		width: 175px;	/* IE 5.x */
+			
+	}
+	#slider4{
+	border-color: 0px darkred;
+	height: 252px
+	}
+
+	#paginate-slider4{
+	width: 885px; 
+	background-color: white;
+	border-color: 0px solid red;
+	}
+
+
+	#paginate-slider4 a img{
+	border: 0px solid gray;
+	}
+
+	#paginate-slider4 a img:hover, #paginate-slider4 a.selected img{
+	border: 0px solid red;
+	background-color:white;
+	}
+	.toc{
+	cursor:pointer;
+	}
+	</style>
+	<script type="text/javascript">
+	
+	/************************************************************************************************************
+	(C) www.dhtmlgoodies.com, October 2005
+	
+	This is a script from www.dhtmlgoodies.com. You will find this and a lot of other scripts at our website.	
+	
+	Terms of use:
+	You are free to use this script as long as the copyright message is kept intact. However, you may not
+	redistribute, sell or repost it without our permission.
+	
+	Thank you!
+	
+	www.dhtmlgoodies.com
+	Alf Magne Kalleland
+	
+	************************************************************************************************************/
+
+	
+	var contextMenuObj;
+	var MSIE = navigator.userAgent.indexOf('MSIE')?true:false;
+	var navigatorVersion = navigator.appVersion.replace(/.*?MSIE (\d\.\d).*/g,'$1')/1;	
+	var activeContextMenuItem = false;
+	function highlightContextMenuItem()
+	{
+		this.className='contextMenuHighlighted';
+	}
+	
+	function deHighlightContextMenuItem()
+	{
+		this.className='';
+	}
+	
+	function showContextMenu(e){
+	 
+	  contextMenuSource = this;
+	  contextMenuObj.style.display='block';
+	  return false; 
+	}
+
+	function hideContextMenu(e)
+	{
+		if(document.all) e = event;
+		if(e.button==0 && !MSIE){
+			
+		}else{
+			contextMenuObj.style.display='none';
+		}
+	}
+	
+	function initContextMenu()
+	{
+		contextMenuObj = document.getElementById('contextMenu');
+		//contextMenuObj.style.display = 'block';
+		var menuItems = contextMenuObj.getElementsByTagName('LI');
+		
+		for(var no=0;no<menuItems.length;no++){
+			menuItems[no].onmouseover = highlightContextMenuItem;
+			menuItems[no].onmouseout = deHighlightContextMenuItem;
+			
+			var aTag = menuItems[no].getElementsByTagName('A')[0];
+			
+			var img = menuItems[no].getElementsByTagName('IMG')[0];
+				
+				
+				
+				if(MSIE && navigatorVersion <= 8){
+					aTag.style.paddingLeft = '2px';
+					//aTag.style.width = (aTag.offsetWidth - 2) + 'px';
+				}else{
+					aTag.style.paddingLeft = '2px';
+					aTag.style.width = (aTag.offsetWidth - 2) + 'px';
+				}
+			
+		}
+		contextMenuObj.style.display = 'none';		
+		
+	}
+
+	if(document.releaseEvents && Event.CLICK){ 
+	 	document.releaseEvents(Event.CLICK);
+	 }
+	 //document.ONCLICK = hideContextMenu;
+function SubmitLocation(){
+	document.locationform.submit();
+}
+function paymentpopuph (title,width,height) {
+	addwindow = dhtmlmodal.open('agebox', 'div', 'send_paymenth', 'Send Payment', 'width='+width+',height='+height+',left=250px,top=100px,resize=0,scrolling=0');
+	document.paymentformh.target		     = "paymentFrameh";
+	document.getElementById('paymentFrameh').src  = "https://e3hub.com/cgi-bin/Members?cmd=send_money";
+}
+function req_paymentpopuph (title,width,height) {
+	addwindow = dhtmlmodal.open('agebox', 'div', 'request_paymenth', 'Request Payment', 'width='+width+',height='+height+',left=250px,top=50px,resize=0,scrolling=0');
+	document.paymentformh.target		       = "reqpaymentFrameh";
+	document.getElementById('reqpaymentFrameh').src = "https://e3hub.com/cgi-bin/Members?cmd=request_money";
+}
+</script>
+<script language="javascript" type="text/javascript" src="http://e3hub.com/auction/dhtml/dhtmlwindow.js"></script>
+<link rel="StyleSheet" href="http://e3hub.com/auction/dhtml/dhtmlwindow.css" type="text/css">
+<script language="javascript" type="text/javascript" src="http://e3hub.com/auction/dhtml/modal.js"></script>
+<script src="http://e3hub.com/auction/javascript/menu.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript" src="http://e3hub.com/auction/dhtml/popup.js"></script>
+<link rel="StyleSheet" href="http://e3hub.com/auction/dhtml/modal.css" type="text/css">
+<script language="JavaScript" src="http://e3hub.com/auction/javascript/jquery.bxslider2.0.1.min.js"></script>
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><center>
+
+ 
+ 
+ <div id="send_paymenth" name="send_paymenth" style="display:none;">
+<iframe id="paymentFrameh" name="paymentFrameh" src="" frameborder="0" height="400" width="550"></iframe>
+</div>
+<div id="request_paymenth" name="request_paymenth" style="display:none;">
+<iframe id="reqpaymentFrameh" name="reqpaymentFrameh" src="" frameborder="0" height="400" width="550"></iframe>
+</div>
+<div id="review_documentscr" name="review_documentscr" style="display:none;">
+<iframe id="review_documentframe" name="review_documentframe" src="" frameborder="0" height="750" width="750"></iframe>
+</div>
+<table border="0" bordercolor="#111111" width="965px" cellpadding="0" cellspacing="0" align="center">
+
+<tbody><tr><td><img src="http://e3hub.com/auction/images/spacer.gif" width="1px" height="15px"></td></tr>
+ <tr>
+  <td align="center">
+   <table cellpadding="0" cellspacing="0" border="0" width="965px">
+   <form method="post" action="http://e3hub.com/cgi-bin/TradeSaveLocation/products" name="locationform"></form>
+   <input class="buttons" type="hidden" name="cmd" value="save_location">
+   <input type="hidden" name="state" value="">
+   <input type="hidden" name="city" value="">
+   <input type="hidden" name="searchstring" value="">
+   <input type="hidden" name="changecountry" value="">
+   <input type="hidden" name="paymentcampaign" value="">
+
+	   <tbody><tr>
+		<!-- <td valign="middle">
+			 
+			 
+		<a href="http://e3hub.com/cgi-bin/marketplace"><img src="http://e3hub.com/auction/images/marketplace_logo.jpg" border="0"></a></td> -->
+		<td valign="bottom" style="width:225px;padding-bottom:6px;"><a href="http://e3hub.com/cgi-bin/marketplace"><img src="http://e3hub.com/auction/images/logo_e3.jpg" border="0"></a></td>
+		<td align="center" valign="bottom">
+		   <table cellpadding="0" cellspacing="0" border="0" width="425px" align="right">
+		   <tbody><tr>
+				<td height="30px" width="145px" style="background-image:url('http://e3hub.com/auction/images/e3hub/grey_tab.jpg');background-repeat:no-repeat;cursor:pointer;" align="center" class="header_graytext" onclick="window.location='http://e3hub.com/cgi-bin/Trade-network/services';" onmouseover="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/black_tab.jpg)';this.style.color='#FFFFFF';" onmouseout="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/grey_tab.jpg)';this.style.color='#66574B';">Professional</td>
+				<td align="center" width="5px" class="header_text"><img src="http://e3hub.com/auction/images/spacer.gif" border="0" width="5px"></td>
+				<td width="180px" style="background-image:url('http://e3hub.com/auction/images/e3hub/grey_tab.jpg');background-repeat:no-repeat;cursor:pointer;" align="center" class="header_graytext" onclick="window.location='http://e3hub.com/cgi-bin/Social';">Social</td>
+				<td align="center" width="5px" class="header_text"><img src="http://e3hub.com/auction/images/spacer.gif" border="0" width="5px"></td>
+				<td width="145px" style="background-image:url('http://e3hub.com/auction/images/e3hub/black_tab.jpg');background-repeat:no-repeat;cursor:pointer;" align="center" class="headwhite_text" onclick="window.location='http://e3hub.com/cgi-bin/marketplace';">MarketPlace</td>
+				<td align="center" width="2px" class="header_text"><img src="http://e3hub.com/auction/images/spacer.gif" border="0" width="2px"></td>
+				<td width="130px" style="background-image:url('http://e3hub.com/auction/images/e3hub/grey_tab_small.jpg');background-repeat:no-repeat;cursor:pointer;" align="center" class="header_graytext" onclick="window.location='https://e3hub.com/cgi-bin/MyHub';" onmouseover="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/black_tab_small.jpg)';this.style.color='#FFFFFF';" onmouseout="this.style.backgroundImage='url(http://e3hub.com/auction/images/e3hub/grey_tab_small.jpg)';this.style.color='#66574B';">My Hub</td>
+		   </tr>
+		   </tbody></table>
+		 </td>
+		<td align="right" valign="top" style="padding-bottom:15px;">
+		<table cellpadding="0" cellspacing="0" border="0" width="300px">
+			  <tbody><tr>
+				<td align="right" colspan="7" style="position:relative;">
+				<table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+				<tbody><tr>
+					
+					<td valign="bottom" align="center" class="header_text" onclick="window.location='https://e3hub.com/cgi-bin/Login';" style="cursor:pointer;" width="130px">Welcome <span class="hubor_text" nowrap="">Guest</span></td>
+					<td valign="bottom" class="header_text" align="center" width="15px">|</td>
+					<td valign="bottom" class="header_text" align="center" onclick="window.location='https://e3hub.com/cgi-bin/Login';" style="cursor:pointer;" width="50px" nowrap="">Login</td>
+					<td valign="bottom" class="header_text" align="center" width="15px">|</td>
+					<td valign="bottom" class="header_text" align="center" onclick="window.location='https://e3hub.com/cgi-bin/Register';" style="cursor:pointer;" width="50px" nowrap="">Register</td>
+					<td valign="bottom" width="100px">&nbsp;</td>
+					
+				</tr>
+				</tbody></table>
+				</td>
+			 </tr>
+			 <tr>
+				<td align="center" width="5px" class="header_text" colspan="7"><img src="http://e3hub.com/auction/images/spacer.gif" border="0" width="5px"></td>
+			</tr>
+			
+			<tr>
+				<td colspan="7">
+				<table border="0" cellpadding="0" cellspacing="0" width="100%">
+					<tbody><tr>
+						<td width="1%" height="47px" valign="middle"><img src="http://e3hub.com/auction/images/trade-network/whitesearch_box_left.jpg" border="0"></td>
+						<td style="background-image:url('http://e3hub.com/auction/images/trade-network/whitesearch_box_center.jpg');background-repeat:repeat-x;background-position:middle;" align="center" valign="middle" class="page_btext" width="30px">Location:</td>
+						<td style="background-image:url('http://e3hub.com/auction/images/trade-network/whitesearch_box_center.jpg');background-repeat:repeat-x;background-position:middle;cursor:pointer;" align="center" valign="middle" class="page_btext" width="20px" onclick="showContextMenu(event);"><img src="http://e3hub.com/auction/images/spacer.gif" width="5px" height="1px"></td>
+						<td style="background-image:url('http://e3hub.com/auction/images/trade-network/whitesearch_box_center.jpg');background-repeat:repeat-x;background-position:middle;cursor:pointer;" align="center" valign="middle" width="98%" class="page_btext"><select name="country_Code" style="width:175Px;" onchange="location_submit('locationform')" class="search_selectbox" id="country_Code">
+<option value="">-- All Locations--</option>
+<option value="US">United States</option>
+<option value="GB">United Kingdom</option>
+<option value="CA">Canada</option>
+<option value="AU">Australia</option>
+<option value="">------------------</option>
+<option value="AF">Afghanistan</option>
+<option value="AL">Albania</option>
+<option value="DZ">Algeria</option>
+<option value="AS">American Samoa</option>
+<option value="AD">Andorra</option>
+<option value="AO">Angola</option>
+<option value="AI">Anguilla</option>
+<option value="AG">Antigua and Barbuda</option>
+<option value="AR">Argentina</option>
+<option value="AM">Armenia</option>
+<option value="AW">Aruba</option>
+<option value="AT">Austria</option>
+<option value="AZ">Azerbaijan</option>
+<option value="BS">Bahamas</option>
+<option value="BH">Bahrain</option>
+<option value="BD">Bangladesh</option>
+<option value="BB">Barbados</option>
+<option value="BY">Belarus</option>
+<option value="BE">Belgium</option>
+<option value="BZ">Belize</option>
+<option value="BJ">Benin</option>
+<option value="BM">Bermuda</option>
+<option value="BT">Bhutan</option>
+<option value="BO">Bolivia</option>
+<option value="BA">Bosnia and Herzegowina</option>
+<option value="BW">Botswana</option>
+<option value="BV">Bouvet Island</option>
+<option value="BR">Brazil</option>
+<option value="IO">British Indian Ocean Territory</option>
+<option value="BN">Brunei Darussalam</option>
+<option value="BG">Bulgaria</option>
+<option value="BF">Burkina Baso</option>
+<option value="BI">Burundi</option>
+<option value="KH">Cambodia</option>
+<option value="CM">Cameroon</option>
+<option value="CV">Cape Verde</option>
+<option value="KY">Cayman Islands</option>
+<option value="CF">Central African Republic</option>
+<option value="TD">Chad</option>
+<option value="CL">Chile</option>
+<option value="CN">China</option>
+<option value="CX">Christmas Island</option>
+<option value="CC">Cocos (Keeling) Islands</option>
+<option value="CO">Colombia</option>
+<option value="KM">Comoros</option>
+<option value="CG">Congo</option>
+<option value="CD">Congo, The Democratic Republic of the</option>
+<option value="CK">Cook Islands</option>
+<option value="CR">Costa Rica</option>
+<option value="CI">Cote D'ivoire</option>
+<option value="HR">Croatia</option>
+<option value="CU">Cuba</option>
+<option value="CY">Cyprus</option>
+<option value="CZ">Czech Republic</option>
+<option value="DK">Denmark</option>
+<option value="DJ">Djibouti</option>
+<option value="DM">Dominica</option>
+<option value="DO">Dominican Republic</option>
+<option value="TP">East Timor</option>
+<option value="EC">Ecuador</option>
+<option value="EG">Egypt</option>
+<option value="SV">El Salvador</option>
+<option value="GQ">Equatorial Guinea</option>
+<option value="ER">Eritrea</option>
+<option value="EE">Estonia</option>
+<option value="ET">Ethiopia</option>
+<option value="FK">Falkland Islands (Malvinas)</option>
+<option value="FO">Faroe Islands</option>
+<option value="FJ">Fiji</option>
+<option value="FI">Finland</option>
+<option value="FR">France</option>
+<option value="FX">France Metropolitan</option>
+<option value="GF">French Guiana</option>
+<option value="PF">French Polynesia</option>
+<option value="TF">French Southern Territories</option>
+<option value="GA">Gabon</option>
+<option value="GM">Gambia</option>
+<option value="GE">Georgia</option>
+<option value="DE">Germany</option>
+<option value="GH">Ghana</option>
+<option value="GI">Gibraltar</option>
+<option value="GR">Greece</option>
+<option value="GL">Greenland</option>
+<option value="GD">Grenada</option>
+<option value="GP">Guadeloupe</option>
+<option value="GU">Guam</option>
+<option value="GT">Guatemala</option>
+<option value="GN">Guinea</option>
+<option value="GW">Guinea-Bissau</option>
+<option value="GY">Guyana</option>
+<option value="HT">Haiti</option>
+<option value="HM">Heard and Mc Donald Islands</option>
+<option value="HN">Honduras</option>
+<option value="HK">Hong Kong</option>
+<option value="HU">Hungary</option>
+<option value="IS">Iceland</option>
+<option value="IN">India</option>
+<option value="ID">Indonesia</option>
+<option value="IE">Ireland</option>
+<option value="IL">Israel</option>
+<option value="IT">Italy</option>
+<option value="JM">Jamaica</option>
+<option value="JP">Japan</option>
+<option value="JO">Jordan</option>
+<option value="KZ">Kazakan</option>
+<option value="KE">Kenya</option>
+<option value="KI">Kiribati</option>
+<option value="KR">Korea, Republic of</option>
+<option value="KW">Kuwait</option>
+<option value="KG">Kyrgyzstan</option>
+<option value="LA">Lao People's Democratic Republic</option>
+<option value="LV">Latvia</option>
+<option value="LB">Lebanon</option>
+<option value="LS">Lesotho</option>
+<option value="LR">Liberia</option>
+<option value="LI">Liechtenstein</option>
+<option value="LT">Lithuania</option>
+<option value="LU">Luxembourg</option>
+<option value="MO">Macau</option>
+<option value="MK">Macedonia, The former Yugoslav Republic of</option>
+<option value="MG">Madagascar</option>
+<option value="MW">Malawi</option>
+<option value="MY">Malaysia</option>
+<option value="MV">Maldives</option>
+<option value="ML">Mali</option>
+<option value="MT">Malta</option>
+<option value="MH">Marshall Islands</option>
+<option value="MQ">Martinique</option>
+<option value="MR">Mauritania</option>
+<option value="MU">Mauritius</option>
+<option value="YT">Mayotte</option>
+<option value="MX">Mexico</option>
+<option value="FM">Micronesia, Federated States of</option>
+<option value="MD">Moldova, Republic of</option>
+<option value="MC">Monaco</option>
+<option value="MN">Mongolia</option>
+<option value="MS">Montserrat</option>
+<option value="MA">Morocco</option>
+<option value="MZ">Mozambique</option>
+<option value="MM">Myanmar</option>
+<option value="NA">Namibia</option>
+<option value="NR">Nauru</option>
+<option value="NP">Nepal</option>
+<option value="NL">Netherlands</option>
+<option value="AN">Netherlands Antilles</option>
+<option value="NC">New Caledonia</option>
+<option value="NZ">New zealand</option>
+<option value="NI">Nicaragua</option>
+<option value="NE">Niger</option>
+<option value="NG">Nigeria</option>
+<option value="NU">Niue</option>
+<option value="NF">Norfolk Island</option>
+<option value="MP">Northern Mariana Islands</option>
+<option value="NO">Norway</option>
+<option value="OM">Oman</option>
+<option value="PK">Pakistan</option>
+<option value="PW">Palau</option>
+<option value="PA">Panama</option>
+<option value="PG">Papua New Guinea</option>
+<option value="PY">Paraguay</option>
+<option value="PE">Peru</option>
+<option value="PH">Philippines</option>
+<option value="PN">Pitcairn</option>
+<option value="PL">Poland</option>
+<option value="PT">Portugal</option>
+<option value="PR">Puerto Rico</option>
+<option value="QA">Qatar</option>
+<option value="RE">Reunion</option>
+<option value="RO">Romania</option>
+<option value="RU">Russian Federation</option>
+<option value="RW">Rwanda</option>
+<option value="KN">Saint Kitts and Nevis</option>
+<option value="LC">Saint Lucia</option>
+<option value="VC">Saint Vincent and the Grenadines</option>
+<option value="WS">Samoa</option>
+<option value="SM">San Marino</option>
+<option value="ST">Sao Tome and Principe</option>
+<option value="SA">Saudi Arabia</option>
+<option value="SN">Senegal</option>
+<option value="SC">Seychelles</option>
+<option value="SL">Sierra Leone</option>
+<option value="SG">Singapore</option>
+<option value="SK">Slovakia (Slovak Republic)</option>
+<option value="SI">Slovenia</option>
+<option value="SB">Solomon Islands</option>
+<option value="SO">Somalia</option>
+<option value="ZA">South Africa</option>
+<option value="GS">South Georgia and the South Sandwich Islands</option>
+<option value="ES">Spain</option>
+<option value="LK">Sri Lanka</option>
+<option value="SH">St. Helena</option>
+<option value="PM">St. Pierre and Miquelon</option>
+<option value="SR">Suriname</option>
+<option value="SJ">Svalbard and Jan Mayen Islands</option>
+<option value="SZ">Swaziland</option>
+<option value="SE">Sweden</option>
+<option value="CH">Switzerland</option>
+<option value="SY">Syrian Arab Republic</option>
+<option value="TW">Taiwan</option>
+<option value="TJ">Tajikistan</option>
+<option value="TZ">Tanzania, United Republic of</option>
+<option value="TH">Thailand</option>
+<option value="TG">Togo</option>
+<option value="TK">Tokelau</option>
+<option value="TO">Tonga</option>
+<option value="TT">Trinidad and Tobago</option>
+<option value="TN">Tunisia</option>
+<option value="TR">Turkey</option>
+<option value="TM">Turkmenistan</option>
+<option value="TC">Turks and Caicos Islands</option>
+<option value="TV">Tuvalu</option>
+<option value="UG">Uganda</option>
+<option value="UA">Ukraine</option>
+<option value="AE">United Arab Emirates</option>
+<option value="UY">Uruguay</option>
+<option value="UZ">Uzbekistan</option>
+<option value="VU">Vanuatu</option>
+<option value="VE">Venezuela</option>
+<option value="VN">Vietnam</option>
+<option value="VG">Virgin Islands (British)</option>
+<option value="VI">Virgin Islands (US)</option>
+<option value="WF">Wallis and Futuna Islands</option>
+<option value="EH">Western Sahara</option>
+<option value="YE">Yemen</option>
+<option value="YU">Yugoslavia</option>
+<option value="ZM">Zambia</option>
+<option value="ZW">Zimbabwe</option>
+</select>
+</td>
+						<td width="1%" height="47px" style="cursor:pointer;"><img src="http://e3hub.com/auction/images/trade-network/whitesearch_box_right.jpg" border="0" style="cursor:pointer;"></td>
+					</tr>
+				</tbody></table>
+				</td>
+			</tr>
+			
+		</tbody></table>
+		</td>
+	</tr>
+   
+  </tbody></table>
+  </td>
+</tr>
+<tr>
+ <td align="center">
+   <table cellpadding="0" cellspacing="0" border="0" width="965px" align="center">
+   <form method="post" action="" name="paymentformh" target=""></form>
+    <input type="hidden" name="cmd" value="">
+	<input type="hidden" name="type" value="keyword">
+    <input type="hidden" name="querytype" value="1">
+  
+   
+   <tbody><tr>
+	  <td width="2px" height="34px" onclick="window.location='http://e3hub.com/cgi-bin/marketplace';" style="cursor:pointer;"><img src="http://e3hub.com/auction/images/e3hub/menu_left.jpg" border="0"></td>
+	   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;cursor:pointer;" align="center" class="headwhite_ntext" onclick="window.location='http://e3hub.com/cgi-bin/marketplace';" width="100px">Home</td>
+	   <td width="2px" height="34px"><img src="http://e3hub.com/auction/images/e3hub/menu_sep.jpg" border="0"></td> 
+	   
+	   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;cursor:pointer;border:0px solid #000000;" align="center" class="headwhite_ntext" onclick="window.location='http://e3hub.com/cgi-bin/Marketplace/browse';" height="34px" width="90px">Browse  </td>
+	   <td width="2px" height="34px"><img src="http://e3hub.com/auction/images/e3hub/menu_sep.jpg" border="0"></td>
+	   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;cursor:pointer;" align="center" class="headwhite_ntext" onclick="window.location='http://e3hub.com/cgi-bin/Post';" width="70px">Post
+	    </td>
+	   <td width="2px" height="34px"><img src="http://e3hub.com/auction/images/e3hub/menu_sep.jpg" border="0"></td> 
+	   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;cursor:pointer;" align="center" class="headwhite_ntext" onclick="window.location='http://e3hub.com/cgi-bin/Members';" width="95px">
+	   <div id="smoothmenu3" class="ddsmoothmenu">
+	   <ul>
+		
+		<li><a href="https://e3hub.com/cgi-bin/Members" class="ddsmoothmenu_white">Manage</a>
+		
+		  <ul>
+		  <li><a href="https://e3hub.com/cgi-bin/Members">My Account</a></li>
+		   <li><a href="https://e3hub.com/cgi-bin/Members/services?cmd=my_profile">My Profile</a></li>
+		   <li><a href="https://e3hub.com/cgi-bin/UserMembership/UserMembership?cmd=membership_upgrade">Upgrade</a></li>
+		  </ul>
+		</li>
+	    </ul>
+	    </div>
+	   </td>
+	   <td width="2px" height="34px"><img src="http://e3hub.com/auction/images/e3hub/menu_sep.jpg" border="0"></td> 
+	   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;cursor:pointer;" align="center" class="headwhite_ntext" width="105px">
+	   
+	    <div id="smoothmenu4" class="ddsmoothmenu">
+	   <ul>
+		
+		<li><a href="https://e3hub.com/cgi-bin/UserMembership?cmd=payment_history" class="ddsmoothmenu_white">Payments</a>
+		
+		   <ul>
+			  <li><a href="https://e3hub.com/cgi-bin/UserMembership?cmd=transactions">Transactions</a></li>
+			  <li><a href="javascript:paymentpopuph('SendMoney','550','400')">Send Money</a></li>
+			  <li><a href="javascript:req_paymentpopuph('RequestMoney','550','400');">Request Money</a></li>
+			  <li><a href="https://e3hub.com/cgi-bin/Members?cmd=escrow_payment">Escrow</a></li>
+			  <li><a href="https://e3hub.com/cgi-bin/UserMembership?cmd=withdraw_requests">Withdraw</a></li>
+		  </ul>
+	    </li></ul>
+	    </div>
+	   </td>
+	   <td width="2px" height="34px"><img src="http://e3hub.com/auction/images/e3hub/menu_sep.jpg" border="0"></td> 
+	   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;cursor:pointer;" align="center" class="headwhite_ntext" onclick="window.location='http://e3hub.com/cgi-bin/Help';" width="130px">
+	   How it works
+	
+	   </td>
+	   <td align="center" width="350px" style="background-image:url('http://e3hub.com/auction/images/e3hub/menu_center.jpg');background-repeat:repeat-x;" class="header_text">
+	   <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+		<tbody><tr>
+			 <td valign="middle" width="75px"><img src="http://e3hub.com/auction/images/spacer.gif" border="0"></td>
+		  <td valign="middle" width="50px"><input type="text" name="searchstring" id="searchstring" class="tradetextbox" value="" size="20"></td>
+		  <td valign="middle" width="137px">
+			  <select name="e3hub_category" id="e3hub_category" class="site_text">
+				  <option value="">Search</option>
+				</select>
+			 
+		  </td>
+		 
+	<!-- 	  <td valign="middle" width="50px"><img src="http://e3hub.com/auction/images/trade-network/search_bar.png" border="0" style="cursor:pointer;" OnClick="do_search();"></td> -->
+		</tr>
+	   </tbody></table>
+	   </td>
+	   <td width="2px" height="34px"><img src="http://e3hub.com/auction/images/e3hub/menu_right.jpg" border="0"></td> 
+	   
+    </tr>
+    
+     
+   </tbody></table>
+ </td>
+</tr>
+<tr>
+ <td align="center">
+   <table cellpadding="0" cellspacing="0" border="0" width="965px" align="center">
+	     <tbody><tr>
+		      <td width="1%" height="34px"><img src="http://e3hub.com/auction/images/trade-network/post_box_04.gif" border="0"></td>
+			   
+		       <td onclick="window.location='http://e3hub.com/cgi-bin/groupbuy';" style="background-image:url('http://e3hub.com/auction/images/e3hub/post_box_05.gif');background-repeat:repeat-x;cursor:pointer;" class="new_page_btext" onmouseover="this.style.background='url(http://e3hub.com/auction/images/e3hub/menu_over_hub.gif) repeat-x';" onmouseout="this.style.background='url(http://e3hub.com/auction/images/e3hub/post_box_05.gif) repeat-x';" align="center" width="110px">Group Deals</td>
+			    <td style="background-image:url('http://e3hub.com/auction/images/e3hub/post_box_05.gif');background-repeat:repeat-x;" class="new_page_btext_sep" align="center" width="2px"><img src="http://e3hub.com/auction/images/trade-network/header_sep.gif" border="0"></td>
+			   
+			   
+			   <td onclick="window.location='http://e3hub.com/cgi-bin/extreme';" style="background-image:url('http://e3hub.com/auction/images/e3hub/post_box_05.gif');background-repeat:repeat-x;cursor:pointer;" class="new_page_btext" onmouseover="this.style.background='url(http://e3hub.com/auction/images/e3hub/menu_over_hub.gif) repeat-x';" onmouseout="this.style.background='url(http://e3hub.com/auction/images/e3hub/post_box_05.gif) repeat-x';" align="center" width="116px">extreme Auctions</td>
+			   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/post_box_05.gif');background-repeat:repeat-x;" class="new_page_btext_sep" align="center" width="2px"><img src="http://e3hub.com/auction/images/trade-network/header_sep.gif" border="0"></td>
+			   
+			   <td onclick="window.location='http://e3hub.com/cgi-bin/music';" style="background-image:url('http://e3hub.com/auction/images/e3hub/post_box_05.gif');background-repeat:repeat-x;cursor:pointer;" class="new_page_btext" onmouseover="this.style.background='url(http://e3hub.com/auction/images/e3hub/menu_over_hub.gif) repeat-x';" onmouseout="this.style.background='url(http://e3hub.com/auction/images/e3hub/post_box_05.gif) repeat-x';" align="center" width="80px">Tunes</td>
+			   <td style="background-image:url('http://e3hub.com/auction/images/e3hub/post_box_05.gif');background-repeat:repeat-x;" class="new_page_btext_sep" align="center" width="2px"><img src="http://e3hub.com/auction/images/trade-network/header_sep.gif" border="0"></td>
+			     
+			    <td onclick="window.location='http://e3hub.com/cgi-bin/eStores';" style="background-image:url('http://e3hub.com/auction/images/e3hub/post_box_05.gif');background-repeat:repeat-x;cursor:pointer;" class="new_page_btext" onmouseover="this.style.background='url(http://e3hub.com/auction/images/e3hub/menu_over_hub.gif) repeat-x';" onmouseout="this.style.background='url(http://e3hub.com/auction/images/e3hub/post_box_05.gif) repeat-x';" align="center" width="80px">eStores</td>
+				
+				 <td style="background-image:url('http://e3hub.com/auction/images/e3hub/post_box_05.gif');background-repeat:repeat-x;" class="new_page_btext_sep" align="center" width="2px"><img src="http://e3hub.com/auction/images/trade-network/header_sep.gif" border="0"></td>
+		       <td align="center" width="340px" style="background-image:url('http://e3hub.com/auction/images/trade-network/post_box_05.gif');background-repeat:repeat-x;" class="header_text">&nbsp;</td>
+		      <td width="1%" height="34px"><img src="http://e3hub.com/auction/images/trade-network/post_box_06.gif" border="0"></td>
+	     </tr>
+     </tbody></table>
+ </td>
+</tr><tr>
+	<td>&nbsp;</td>
+</tr>
+
+<tr>
+ <td>
+   <table cellpadding="0" cellspacing="0" border="0" width="965px" align="center">
+   <tbody><tr>
+   <td align="center">
+   
+		   <table cellpadding="0" cellspacing="0" border="0" width="285px" align="center">
+		    <tbody><tr>
+		     <td valign="top"><img src="http://e3hub.com/auction/images/spacer.gif" width="1px" height="5px"></td>
+		    </tr>
+		   <tr>
+		    <td valign="top">
+			<iframe src="http://e3hub.com/cgi-bin/Adsdisplay?data=CgCgCgCgEABQDHDmEbEsCyEDCNEdCeDiEfEdEiCdDvAjDOAtAsDpELCkBVEdCpDwChEbCgAABYBxBACKCbEmEhAHBtEGAxDbCIBaDpDdEuCOEgBAByBnENCTCPzZBO" name="ehubFrameta" id="ehubFrameta" scrolling="no" frameborder="0" width="457px" height="20px"></iframe>
+		      </td>
+		     </tr>
+		     <tr>
+		     <td valign="top"><img src="http://e3hub.com/auction/images/spacer.gif" width="1px" height="5px"></td>
+		    </tr>
+		   </tbody></table>
+		  
+</td>
+    </tr>
+     <tr>
+      <td>
+      <div style="z-index:-1;">
+	  <table border="0" width="965px" cellpadding="0" cellspacing="0" align="center">
+	  <tbody><tr>
+		<td>
+
+
+
+
+<!--
+################################################################################
+# Revision:$Id: pages.tmpl,v 1.1.1.1 2006/10/31 22:13:33 rob Exp $
+###############################################################################
+-->
+<div align="center">
+  <center>
+<table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111">
+<tbody><tr>
+	<td>
+		&nbsp;
+	</td>
+</tr>
+<tr valign="top">
+	
+	<td>
+		<table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
+			<tbody><tr>
+				<td>
+					<div align="center">
+                      <center>
+					<table border="0" width="95%" cellpadding="2" cellspacing="0" class="category" style="border-collapse: collapse" bordercolor="#111111">
+						<tbody><tr>
+							<td valign="top">
+<!--START_TITLE-->
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
+<tbody><tr>
+<td valign="center">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%">
+  <tbody><tr>
+    <td width="100%">
+    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
+      <tbody><tr>
+        <td width="100%">
+        <table border="0" cellpadding="2" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2">
+          <tbody><tr>
+            <td valign="center" bgcolor="#7777AC"><img border="0" src="http://e3hub.com/auction/images/leftLine_16x3.gif" width="16" height="3"></td>
+            <td width="100%" bgcolor="#7777AC"><b><font color="#FFFFFF" size="4">E3Hub's Information Center</font></b></td>
+            <td nowrap="" align="right" bgcolor="#7777AC"><a href="http://e3hub.com/cgi-bin/Help?cmd=view&amp;pages=our_letter"><b><font color="#FFFFFF">A letter from our founder</font></b></a></td>
+            <td align="right" bgcolor="#7777AC"><img title="" height="1" alt=" " src="http://e3hub.com/auction/images/spacer.gif" width="12"></td>
+          </tr>
+        </tbody></table>
+        </td>
+      </tr>
+      <tr>
+        <td width="100%" bgcolor="#263A68"><img height="2" src="http://e3hub.com/auction/images/spacer.gif" width="1"></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+  <td align="center">
+  
+  </td>
+</tr>
+</tbody></table>
+<!--END_TITLE-->
+                            </td>
+						</tr>
+                        <tr>
+				<td width="471">
+					<img border="0" src="http://e3hub.com/auction/images/spacer.gif" width="1" height="10"></td>
+			            </tr>
+                        <tr>
+							<td valign="top">
+								<table border="2" cellpadding="4" cellspacing="0" style="border-collapse: collapse" bordercolor="#808080" width="100%" id="AutoNumber2" bgcolor="#EEEEEE">
+                                  <tbody><tr>
+                                    <td width="100%">
+                                    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber3">
+                                    <form action="http://e3hub.com/cgi-bin/Help" method="post"></form>
+                                    <input class="buttons" type="hidden" value="search_help" name="cmd">
+                                      <tbody><tr>
+                                        <td width="100%" colspan="2"><b>Search Help</b></td>
+                                      </tr>
+                                      <tr>
+                                        <td width="50%">
+                                        <input type="text" name="searchHelp" size="58" value=""></td>
+                                        <td width="50%" align="center">
+                                        <input type="submit" value="Search Help" class="buttons"></td>
+                                      </tr>
+                                      
+                                    </tbody></table>
+                                    </td>
+                                  </tr>
+                                </tbody></table>
+                            </td>
+						</tr>
+                        <tr>
+				<td width="471">
+					<img border="0" src="http://e3hub.com/auction/images/spacer.gif" width="1" height="10"></td>
+			            </tr>
+						<tr>
+							<td align="right">
+								<a href="http://e3hub.com/cgi-bin/Help">Back to Information Center</a></td>
+						</tr>
+						<tr>
+							<td bgcolor="#EEEEEE">
+								<center><b>Your Privacy</b></center>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<b>&nbsp;</b><br>
+								</td>
+						</tr>
+					    <tr>
+							<td>
+												<!-- start content -->
+												<p><b>Privacy Policy </b><br>
+*******************************************<br>
+As a member of the Internet community, E3Hub understands the power 
+that the Internet holds for changing people's lives, expanding their horizons, 
+and enhancing the ease with which they perform their jobs. All these benefits 
+are at risk if people are concerned about their personal privacy. E3Hub 
+is committed to providing its users with an Internet experience that respects 
+and protects their personal privacy choices and concerns.<br>
+<br>
+Our privacy policy and practices are detailed below, and we ask you to read them 
+thoroughly. This policy is derived from three pledges that we make to you, our 
+users: <br>
+<br>
+We pledge that we will not release personally identifiable information about you 
+without your permission (except as needed to provide to you the services you 
+have expressly requested, as explained in greater detail in the section on 
+"third party relationships" below).<br>
+<br>
+We pledge that we will provide the means for you to manage and control the 
+information that you have voluntarily provided to us.<br>
+<br>
+We pledge that we will provide mechanisms for you to communicate your privacy 
+questions and concerns to us and that we will respond to them thoroughly and 
+thoughtfully.<br>
+<br>
+We are constantly improving the tools you can use to manage the data that you 
+provide to us. Please refer to this page from time to time to see these new 
+features.</p>
+<p><b>Coverage</b><br>
+*******************************************<br>
+This policy applies to sites whose URL terminates in E3Hub. Our 
+affiliates have their own privacy policy statements, which we encourage you to 
+read whenever you visit these sites. When we talk about "E3Hub" or" 
+we" in this policy, we are referring to Company and its majority-owned or 
+majority-controlled subsidiaries.</p>
+<p><b>Helpful Definitions</b><br>
+*******************************************<br>
+Personally identifiable information is information�such as your name, birth 
+date, e-mail address or mailing address�that can be used to uniquely identify you.<br>
+<br>
+Anonymous Information is not personally identifiable information. Anonymous 
+information is information about how you use our site (such as places visited 
+and search queries performed). Anonymous information also includes the domain 
+names and/or I.P. addresses (as explained in greater detail below) of browsers 
+that visit our site, time of day the site was visited, and other non-personally 
+identifiable information. Anonymous information is information that is not tied 
+to any individual, but helps to characterize E3Hub's users.<br>
+<br>
+The next sections tell how and when E3Hub collects anonymous 
+information and personally identifiable information.</p>
+<p><b>Collection and Use of Personally Identifiable Information</b><br>
+*******************************************<br>
+<u>Registration</u><br>
+We want to assure you that you can visit our site and use many of our services 
+without telling us who you are or revealing any personally identifiable 
+information about yourself to us. It is only during registration to become a 
+registered user will you be asked to provide us with personally identifiable 
+information.<br>
+<br>
+Although the majority of our services do not require any form of customer 
+registration, we do require registration for the use of certain services, the 
+auctions and store items. During this registration process we require you to 
+complete certain fields, offer optional fields for you to complete, and ask you 
+to select a user name and password. For example, we ask for contact information 
+(such as first and last name, email address, and zip code). E3Hub 
+uses this contact information in several ways: </p>
+<ul>
+  <li>to welcome you to the E3Hub Network</li>
+  <li>to send communication from us about new features and services available 
+  through E3Hub (unless you tell us not to)</li>
+  <li>to display advertisements on your screen that closely match your interests 
+  (unless you tell us not to)</li>
+  <li>to provide a first and last name on messages sent from your E3Hub 
+  email account</li>
+  <li>to share your information with select sponsors and partners who work with 
+  E3Hub, only if you allow us to do so (as we explain below)<br>
+  to allow our sponsors and partners to communicate with you, but only if you 
+  tell us you want to receive these communications about their services and 
+  offers</li>
+</ul>
+<p>If you indicate to us that you do not want to receive certain types of 
+communications at the time of registration, we will respect your wishes, and 
+comply with your preferences. If you already are a registered user and would 
+like to review or change the choices you have made, you will be able to do so.
+</p>
+<p><u>Contests, Etc.</u><br>
+From time to time, we may run contests on our site in which we ask participants 
+for contact information, such as their email addresses). If you participate in 
+contests, your contact information will be used primarily to reach you in 
+connection with the contests. We may also use the collected contact information 
+to send you information about E3Hub, our services, as well as offers 
+tailored to your interests by our advertisers and sponsors, if you have opted to 
+receive these communications. You may choose to opt-out of receiving such 
+mailings at the time of registration for the contest, or afterwards. </p>
+<p><b>Sharing Personally Identifiable Information with Third Parties</b><br>
+*******************************************<br>
+To deliver advertising to you that most closely matches your interests, we share 
+your personal information with carefully selected companies with whom we have 
+relationships and trust. However, we will not share your personally identifiable 
+information unless we have first given you notice that we might share your data, 
+and you have authorized us to do so. If you have not opted-in to receive these 
+offers, and would like to do so now, you will be able to change your 
+preferences. If you have previously opted-in, but now wish to remove yourself 
+from these mailing lists, you will be able to change your preferences, or you 
+may send email directly to us, and we will modify your preferences accordingly. 
+Our partners who receive information from us have the right to use the data we 
+provide them (sometimes, in connection with other information they may have 
+gathered about you), but are generally prohibited from sharing this information 
+with other companies or people. In addition, if we add new features or services 
+that might require the sharing of your personal information with an additional 
+advertiser or sponsor, we will provide you with notice and the opportunity to 
+opt-in to receive these offers.</p>
+<p><b>PLEASE NOTE:</b> In certain special cases, we may disclose your personally 
+identifiable information when we have reason to believe that disclosing this 
+information is necessary to identify, contact or bring legal action against 
+someone who may be causing injury to you, or otherwise injuring or interfering 
+with E3Hub's rights, property or operations, other E3Hub's 
+users, or anyone else who could be harmed by such activities. We may also 
+disclose your personally identifiable information when we believe the law 
+requires it, or in response to any demand by law enforcement authorities in 
+connection with a criminal investigation, or civil or administrative authorities 
+in connection with a pending civil case or administrative investigation. </p>
+<p><b>Anonymous Information</b><br>
+*******************************************<br>
+When you use our site, we collect anonymous information, even if you have not 
+registered with E3Hub. We use this information to personalize your 
+experience at our site, show you more relevant advertising messages, and 
+generally to improve our services. We share this anonymous information with 
+selected advertisers and partners, in order to deliver to you more relevant 
+advertising messages.<br>
+<br>
+E3Hub will not share any anonymous information about your use on our 
+site if that information is or will be linked to your personally identifiable 
+information unless we have given you notice as described above and you have 
+given us authorization to do so. If you prefer that anonymous information not be 
+shared with other companies, then you may choose to opt-out during registration, 
+or by updating your preferences at any time. </p>
+<p><b>Cookies: How They Are Used and Opting-Out </b><br>
+*******************************************<br>
+How They Are Used<br>
+A "cookie" is a small piece of data that is sent to your browser from a web 
+server and stored on your computer's hard drive. Cookies do not damage your 
+system or impair its functioning in any way. We use cookies to help us provide 
+customizable services and to allow you to sign-in to our site. For example, we 
+can store your zip code in a cookie and this enables us to display your local 
+weather each time you visit our site. Cookies also make web surfing easier for 
+you by saving your preferences while you're on our site. Cookies may also be 
+used by E3Hub's partners on co-branded Web pages, as explained below 
+in "third party relationships," so please be aware of this as you visit these 
+Web pages.<br>
+<br>
+You can choose whether to accept cookies by changing the settings of your 
+browser. You can reset your browser to refuse all cookies, or allow your browser 
+to show you when a cookie is being sent. If you choose not to accept these 
+cookies, your experience at our site and other Web sites may be diminished and 
+some features will not work as intended.<br>
+<br>
+Opting-out<br>
+You can opt-out during the E3Hub Member registration process or at 
+any time from our site. You can also ask to have all information related to your 
+registration removed by choosing this from our site. </p>
+<p><b>Special Categories of Information</b><br>
+*******************************************<br>
+will not share any personally identifiable information about our users that is 
+of medical, financial or sexual nature. </p>
+<p><b>Use of IP Addresses</b><br>
+*******************************************<br>
+An Internet protocol (I.P.) address is a set of numbers that is automatically 
+assigned to your computer whenever you log on to your internet service provider 
+or through your company's local area network (LAN) or wide area network (WAN). 
+Web servers - the powerful computers that provide web pages for viewing - 
+automatically identify your computer by the IP address assigned to it during 
+your session online.<br>
+<br>
+E3Hub may collect I.P. addresses for purposes of system 
+administration, to report anonymous user information to our advertisers (as 
+explained above), and to audit the use of our site. We do not ordinarily link a 
+user's I.P. address to personally identifiable information of that user, which 
+means each user's session will be logged, but the user remains anonymous to us. 
+However, we can and will use I.P. addresses to identify users of our site when 
+we feel it is necessary to enforce compliance with our site's terms of use or 
+terms of service, or to protect our service, site, or other users.<br>
+<br>
+<b>PLEASE NOTE:</b> Under certain circumstances, I.P. addresses and/or domain 
+names may be linked to personally identifiable information, when said 
+information is stored in databases managed by Internet registrars or registries.
+</p>
+<p><b>Keywords</b><br>
+*******************************************<br>
+Certain advertisers have paid for the right to display advertisements on search 
+results pages corresponding to certain words. For instance, a particular 
+resistor manufacturer may want its advertisement to be displayed when users 
+search for its resistor. We want to be clear: by serving these ads, we are not 
+affecting the integrity of the search results in any way. The only difference is 
+that the ads that you see on the page may be influenced by the words searched. 
+Of course, many of the ads on the search results page may also be randomly 
+generated, so there is no clear-cut way of knowing which ads are targeted to 
+certain "key words" searched for, and which are not. This is true whether or not 
+you are a registered user of our site. </p>
+<p><b>Third-Party Relationships</b><br>
+*******************************************<br>
+In order to provide you with news and features that match your interests, E3Hub 
+has relationships with many of the best media and services companies throughout 
+the world. You can recognize these sites by the joint branding of E3Hub 
+and such companies. For example, if you see a logo in the upper-right corner of 
+the page that says 'Powered by ______', you will know you are on a co-branded 
+Web page. If you ever have any questions about whether certain information, 
+content or services pertain to us, or are "powered by" one of our partners, 
+please contact us at E3Hub Legal Support.<br>
+<br>
+Whenever you provide registration information on certain co-branded Web pages or 
+for certain services provided in conjunction with third party partners, we want 
+to be clear that some data you provide is shared with partners. You should make 
+every effort to read the privacy policy provided by or in association with such 
+third parties, and make an informed decision on your own whether or not to 
+continue utilizing the services based upon the privacy policies posted on these 
+co-branded Web pages, at your own discretion. However, we will make every effort 
+to ensure that you have the ability to opt-out of the sharing of such data with 
+partners. You may email us directly at E3Hub Legal Support and we 
+will forward your request to the appropriate company, and help you follow up to 
+ensure that your concerns are adequately handled.<br>
+<br>
+In addition to finding co-branded Web pages, you will find direct links on E3Hub 
+to the sites offered by third parties. Some of these sites are authorized to use 
+the E3Hub brand and/or logo. E3Hub carefully evaluates 
+all parties that are authorized to use its brand and/or logo, and believes that 
+all such sites have adopted acceptable privacy policies. Again, you should read 
+these third party privacy policies, and make an informed decision on your own as 
+to whether or not to continue based upon these sites' privacy practices, at your 
+own discretion. No third-party sites are covered by this Privacy Policy.<br>
+<br>
+<b>VERY IMPORTANT:</b> If you feel that a site using the E3Hub brand 
+and/or logo has not posted an acceptable privacy policy, or is not following the 
+privacy policy it has posted, please send us an email at E3Hub Legal 
+Support.. We will forward complaints to the appropriate third parties and help 
+you follow up to ensure that your concerns are adequately handled. Of course, if 
+any of these third party companies does not have a privacy policy that is 
+acceptable to you, you should refrain from providing information until your 
+concerns have been satisfactorily addressed. </p>
+<p><b>Security</b><br>
+*******************************************<br>
+E3Hub operates secure data networks protected by industry standard 
+firewall and password protection. E3Hub has security measures in 
+place to attempt to protect against the loss, misuse and alteration of your user 
+data under our control.<br>
+<br>
+Only authorized employees have access to the information you provide us. For 
+example, we impose strict rules on E3Hub employees who have access 
+either to the databases that store user information or to the servers that host 
+our services. While we cannot guarantee that loss, misuse or alteration to data 
+will not occur, we make every effort (such as the use of employee passwords and 
+non-disclosure agreements) to prevent such unfortunate occurrences. </p>
+<p><b>Contacting Us</b><br>
+*******************************************<br>
+If you have questions about this privacy policy or the practices of this site, 
+please contact: E3Hub legal@e3hub.com</p>
+<p>E3Hub reserves the right to change this Privacy Policy at any 
+time. All changes will be posted to this page, and we will use commercially 
+reasonable efforts to notify you of any material changes to this privacy policy.
+<br>
+&nbsp;</p>
+												<!-- end content -->
+
+                            </td>
+						</tr>
+						<tr>
+							<td align="right">
+								<a href="http://e3hub.com/cgi-bin/Help">Back to Information Center</a></td>
+						</tr>
+						<tr>
+							<td>
+								&nbsp;</td>
+						</tr>
+						<tr>
+							<td bgcolor="#EEEEEE">
+								<table border="0" cellpadding="2" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
+                                  <tbody><tr>
+                                    <td bgcolor="#FFFFFF">
+                                    Still have questions? <a href="http://e3hub.com/cgi-bin/MailContact?cmd=mail_contact">Contact Us</a></td>
+
+
+
+
+
+
+
+
+
+
+                                    <td align="right" bgcolor="#FFFFFF">
+                                    <a href="http://e3hub.com/cgi-bin/marketplace">E3Hub's Home</a> | <a href="javascript:window.print();">Print</a>&nbsp;|&nbsp;<a href="javascript:window.external.AddFavorite('http://e3hub.com/cgi-bin/Help', 'E3Hub\'s Information Center')">Add to favorites</a></td>
+                                  </tr>
+                                  </tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
+					  </center>
+                    </div>
+				</td>
+			</tr>
+		</tbody></table>
+	</td>
+</tr>
+</tbody></table>
+
+
+  </center>
+</div>
+
+
+	</td>
+</tr>
+</tbody></table>
+</div>
+	 <br>
+	 <script>
+	 var scrwidth = parseInt(screen.width) - 20;
+	 document.write('<table cellpadding="0" cellspacing="0" border="0" width="'+scrwidth+'" align="center" style="background-image:url(\'http://e3hub.com/auction/images/trade-network/footer_bg.jpg\');background-repeat:repeat-x;" height="85px">');
+	</script><table cellpadding="0" cellspacing="0" border="0" width="780" align="center" style="background-image:url('http://e3hub.com/auction/images/trade-network/footer_bg.jpg');background-repeat:repeat-x;" height="85px">
+		<tbody><tr><td><img src="http://e3hub.com/auction/images/spacer.gif" width="1px" height="5px"></td></tr>
+		<tr>
+		    <td valign="top">
+			 <table cellpadding="0" cellspacing="0" border="0" width="965px" align="center">
+			   <tbody><tr>
+			    <td valign="top">
+			     <table cellpadding="0" cellspacing="0" border="0" width="70%" align="center">
+				<tbody><tr>
+				  <td valign="top" width="100px" align="center"><a href="http://e3hub.com/cgi-bin/Trade-network/products" class="tradefootlink">Home</a></td>
+				  <td valign="top" width="5px" align="center">|</td>
+				  <td valign="top" width="100px" align="center"><a href="http://e3hub.com/cgi-bin/Browse/products" class="tradefootlink">Browse</a></td>
+				  <td valign="top" width="5px" align="center">|</td>
+				  <td valign="top" width="100px" align="center"> <a href="https://e3hub.com/cgi-bin/Register" class="tradefootlink">Register</a></td>
+				  <td valign="top" width="5px" align="center">|</td>
+				  <td valign="top" width="100px" align="center"><a href="https://e3hub.com/cgi-bin/Trade-Post/products" class="tradefootlink">Post</a></td>
+				  <td valign="top" width="5px" align="center">|</td>
+				  <td valign="top" width="100px" align="center">&nbsp;&nbsp;<a href="https://e3hub.com/cgi-bin/Trade/announcements/products?cmd=announce" class="tradefootlink">Announcements</a>&nbsp;&nbsp;</td>
+				  <td valign="top" width="5px" align="center">|</td>
+				  <td valign="top" width="100px" align="center"><a href="http://e3hub.com/cgi-bin/Help" class="tradefootlink">Help</a></td>
+				  <td valign="top" width="5px" align="center">|</td>
+				  <td valign="top" width="100px" align="center"><a href="http://e3hub.com/cgi-bin/MailContact?cmd=mail_contact" class="tradefootlink">Contact Us</a></td>
+				   <td valign="top" width="5px" align="center">|</td>
+				  <td valign="top" width="100px" align="center"><a href="http://e3hub.com/cgi-bin/adworks" class="tradefootlink">Advertising</a></td>
+				  <td valign="top" width="5px" align="center">|</td>
+				  <td valign="top" width="50px" align="center"><a href="http://e3hub.org/" class="tradefootlink" target="_blank">About</a></td>
+				   <td valign="top" width="5px" align="center">|</td>
+				  <td valign="top" width="90px" align="center"><a href="http://e3hub.com/cgi-bin/Marketplace/langselect" class="tradefootlink" target="_blank">Language</a></td>
+				</tr>
+			      </tbody></table>
+			    </td>
+			   </tr>
+			 </tbody></table>
+		    </td>
+		</tr>
+		<tr><td align="center" class="copyright_text" valign="top">Use of this Web site constitutes acceptance of the E3Hub User <a href="http://e3hub.com/cgi-bin/Help?cmd=view&amp;pages=policies">Agreement</a> and <a href="http://e3hub.com/cgi-bin/Help?cmd=view&amp;pages=privacy">Privacy Statement.</a> Designated trademarks, logos and brands are the property of their respective owners. <br>Copyright ©2011 E3Hub INC. All rights reserved.</td></tr>
+	 </tbody></table>
+	</td>
+      </tr>
+    </tbody></table>	
+  </td>
+ </tr>
+</tbody></table>
+
+
+
+
+<script type="text/javascript">
+animatedcollapse.addDiv('messagebox', 'fade=0,speed=400,group=pets,hide=0');
+
+animatedcollapse.ontoggle=function($, divobj, state){ //fires each time a DIV is expanded/contracted
+	//$: Access to jQuery
+	//divobj: DOM reference to DIV being expanded/ collapsed. Use "divobj.id" to get its ID
+	//state: "block" or "none", depending on state
+}
+
+animatedcollapse.init()
+</script>
+</center></body></html>
