@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the filmcrave.com privacy policy that was archived on 2010-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224171144id_/http%3A//www.filmcrave.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the filmcrave.com privacy policy that was archived on 2011-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111220220550id_/http%3A//www.filmcrave.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>Privacy Policy by Filmcrave</title>
 <meta name="description" content="A movie social network created for film lovers. Members create top movie lists, write new movie reviews, talk on the movie forums and watch new movie trailers.  View top movie reviews, popular movie lists, DVD releases and upcoming movies. Discuss 2009 Oscar nominees.">
 <meta name="keywords" content="new movie reviews, movie lists, rate movies, trailers, movie forum, filmcrave, oscars, DVDfilm crave, friends, social networking, free, recent, top 100 movies, dvds, rating, horror, scifi, sci-fi, mystery, comedy, crime, war, romance, family, science fiction, thriller, critics, movie trailer">
@@ -11,11 +11,11 @@
 <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 <link rel="stylesheet" type="text/css" media="screen,projection" href="/css/star_rating.css">
-<script src="js/popup.js" language="javascript"></script>
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="js/popup.js" language="javascript"></script>
 <script src="js/star_rating.js" language="javascript"></script>
 <script src="js/header.js" language="javascript"></script>
 <link media="screen" rel="stylesheet" href="css/colorbox.css">
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
 <script src="js/jquery.colorbox-min.js"></script>
 <script>
 	$(document).ready(function(){
@@ -46,9 +46,81 @@
 <script type="text/javascript">
   GA_googleFetchAds();
 </script>
-</head>
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6421468" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6421468&cv=2.0&cj=1" />
+</noscript>
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 <body bgcolor="#c8c8c8">
 <center>
+<div id="fb-root"></div>
+<script>
+window.fbAsyncInit = function() {
+  FB.init({
+	appId      : '234503626601580',
+	status     : true, // check login status
+	cookie     : true, // enable cookies to allow the server to access the session
+	oauth      : true, // enable OAuth 2.0
+	xfbml      : true, // parse XFBML
+	channelUrl : "http://www.filmcrave.com/channel.php" // Channel File
+  });
+  
+  // Additional initialization code here
+  FB.Event.subscribe('auth.login', function(response) {
+	  // do something with response
+	  //alert('auth.login');
+  });
+  
+  FB.Event.subscribe('auth.logout', function(response) {
+	  // do something with response
+	  //alert('auth.logout');
+	    });
+  
+  FB.Event.subscribe('auth.authResponseChange', function(response) {
+	  // do something with response
+	  //alert('auth.authResponseChange');
+  });
+  
+  FB.Event.subscribe('auth.statusChange', function(response) {
+	  // do something with response
+	  //alert('auth.statusChange: ' + response.status);
+	  if (response.status == 'connected') {
+		//alert(response.authResponse.accessToken);
+				window.location = "login_facebook.php?code=" + response.authResponse.accessToken;
+			  }
+  });
+};
+
+// Load the SDK Asynchronously
+(function(d){
+   var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+   js = d.createElement('script'); js.id = id; js.async = true;
+   js.src = "//connect.facebook.net/en_US/all.js";
+   d.getElementsByTagName('head')[0].appendChild(js);
+}(document));
+
+function facebook_login() {
+	 FB.login(function(response) {
+	   // do nothing, subscribed event above will catch
+	   if (response.authResponse) {
+	     document.getElementById("fb_loading").style.visibility = 'visible';
+		 
+		 if (response.status == 'connected') {
+			//alert(response.authResponse.accessToken);
+						window.location = "login_facebook.php?code=" + response.authResponse.accessToken;
+					 }
+	   }
+	 }, {scope: 'email,user_interests,user_likes,publish_stream'});
+}
+</script>
 <script language="JavaScript">
 <!--
 function add_to_list(movie_index)
@@ -98,17 +170,23 @@ function search_timeout(data){
 </script>
 <link href="/navcss.css" rel="stylesheet" type="text/css">
 <div style="background-color:#000000; width:100%;">
-<table cellpadding="0" cellspacing="0" border="0" width="969">
-<tbody><tr>
-	<td width="242" valign="top" bgcolor="#000000"><div align="right"><a href="/sign_up.php" title="Sign up to create movie lists"><img src="../images/create_movie_lists.gif" alt="Create Movie Lists on Filmcrave.com" border="0"></a></div></td>
-  	<td width="728" align="right" valign="top"><div style="height:90px; margin:0px; padding:0px;">
-			<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT Leaderboard -->
-		<script type="text/javascript">
+<table cellpadding="0" cellspacing="0" border="0" width="969"><tbody><tr><td width="242" valign="top" bgcolor="#000000"><div align="middle">
+  <table cellpadding="0" cellspacing="0" border="0" width="969">
+    <tbody><tr>
+      <td width="242" valign="top" bgcolor="#000000"><div align="middle" style="padding-right:15px;"><a href="http://www.imajan.com" title="ImaJAN Media Network includes FilmCrave.com, MeltedJoystick.com and more" target="_blank"><img src="../images/imajanNetwork.gif" alt="Create Game Lists on MeltedJoystick.com" border="0"></a></div>
+          <div style="text-align:center; padding-right:15px;"><a href="http://www.filmcrave.com" title="Movie Social Network for DVDs, Movie Trailers, and Movies Coming Soon" style="color:#CCCCCC; font-weight:bold; text-decoration:none;">FilmCrave.com</a>&nbsp;&nbsp;&nbsp;<a href="http://www.meltedjoystick.com" title="Video Game Social Network for Game Reviews, Videogame Trailers, and Videogame Lists" style="color:#CCCCCC; font-weight:bold; text-decoration:none;" target="_blank">MeltedJoystick.com</a></div>
+        /td&gt; </td>
+      <td width="728" align="right" valign="top"><div style="height:90px; margin:0px; padding:0px;">
+                    <!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT Leaderboard -->
+          <script type="text/javascript">
 		  GA_googleFillSlot("Leaderboard");
 		</script>
-		<!-- END OF TAG FOR SLOT Leaderboard -->
-	</div>	</td>
-</tr>
+          <!-- END OF TAG FOR SLOT Leaderboard -->
+                </div></td>
+    </tr>
+  </tbody></table>
+</div>
+    </td></tr>
 </tbody></table>
 </div>
 <div style="background-image:url(../images/new_headerBG.jpg)">
@@ -164,9 +242,9 @@ function search_timeout(data){
 <!-- HTML for when not logged in -->
 <table width="201" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td align="left" valign="middle" height="75" style="padding-left:75px; padding-top:5px;">
-	<div style="padding-bottom:5px;"><a href="sign_up.php" class="greenboldlinkblack" style="font-size:18px" title="Movie site sign up">Sign Up +</a></div>
-    <div style="font-size:10px; padding-top:2px; float:left; color:#FFFFFF;">Follow us on &nbsp;</div> <a href="http://www.twitter.com/filmcrave" target="_blank" title="FilmCrave on Twitter"><img src="../images/twitter_small.gif" alt="Twitter" border="0"></a>&nbsp;<a href="http://www.facebook.com/#!/pages/FilmCravecom/6999088922?ref=ts" target="_blank" title="FilmCrave on Facebook"><img src="../images/facebook_small.gif" alt="Facebook" border="0"></a>
+    <td align="left" valign="middle" height="75" style="padding-left:70px; padding-top:5px;">
+	<div style="padding-bottom:10px; float:left;"><a href="sign_up.php" class="greenboldlinkblack" style="font-size:16px" title="Movie site sign up">Sign Up +</a></div><div>&nbsp;&nbsp;<img src="../images/fb_login_upper_right.gif" border="0" alt="Login Using Facebook" style="cursor:pointer;" onclick="facebook_login();"></div>
+    <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Ffilmcrave&amp;layout=button_count&amp;show_faces=false&amp;width=85&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:21px;" allowtransparency="true"></iframe><a href="http://www.twitter.com/filmcrave" target="_blank" title="FilmCrave on Twitter"><img src="../images/twitter_small.gif" alt="Twitter" border="0"></a>
   </td></tr>
 </tbody></table>
 <!-- END HTML for when not logged in -->
@@ -193,8 +271,10 @@ function search_timeout(data){
                 <li>
 				<a href="/list_top_movie.php">Movie Lists&nbsp; +</a>
 					<ul class="sub-menu">
-							<li><a href="/list_top_movie.php">Top Movie Lists</a></li>
-							<li><a href="/list_genre_movie.php">Top Genre Lists</a></li>
+							<li><a href="/list_top_movie.php">Top Movie List</a></li>
+							<li><a href="/list_genre_movie.php">Top Movies by Genre</a></li>
+                            <li><a href="/list_top_movie.php?yr=2011">Top Movies by Year</a></li>
+                            <li><a href="/list_language_movie.php?language=English">Top Movies by Language</a></li>
                             <li><a href="/list_member_movie.php">Member Movie Lists</a></li>
 					</ul>
 				</li>
@@ -243,7 +323,7 @@ function search_timeout(data){
 					</ul>
 				</li>
                     			<li>
-				<a href="/sign_up.php">Sign Up</a>
+				<a href="http://www.meltedjoystick.com" target="_balnk">Video Games</a>
                 <ul class="sub-menu2">
 					</ul>
 				</li>
@@ -320,7 +400,11 @@ Filmcrave uses a contact importer for several functions on Filmcrave. ImaJAN Med
                   
 <br>
 <p><span class="blacktextbold2">Cookies and Advertisements </span><br>
-FilmCrave.com may have advertisements on the website that will use cookies to track the frequency of advertisements that a user has seen. These advertisements may also link to an outside website in which FilmCrave.com is not responsible for the content of any information on these sites. FilmCrave.com may also use cookies to track basic information to make browsing and visiting this website easier.</p>
+FilmCrave.com may have advertisements on the website that will use cookies to track the frequency of advertisements that a user has seen. These advertisements may also link to an outside website in which FilmCrave.com is not responsible for the content of any information on these sites. FilmCrave.com may also use cookies to track basic information to make browsing and visiting this website easier.
+<br>
+<br>
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
+</p>
 <br>
 
 <p><span class="blacktextbold2">Changes to Privacy Policy</span><br>
@@ -355,25 +439,34 @@ FilmCrave.com reserves the right to change this privacy policy at any time witho
 		<tr>
 			<td height="12" align="center">
 									<form action="/login.php" name="frm_login" method="post">
-					<table cellpadding="3" cellspacing="0" border="0">
-					  <tbody><tr>
-						<td colspan="2"><span class="blacktextbold">Log In To Your Account</span></td>
-					  </tr>
-					  <tr>
-						<td colspan="2">
-															<input id="user_name" name="user_name" type="text" size="35" maxlength="100" style="width:200px; color:#CCCCCC;" class="white" value="username (email)" onfocus="if(this.value=='username (email)'){this.value='';this.style.color='#000000';}">
-													</td>
-					  </tr>
-					  <tr>
-						<td colspan="2">
-							<input id="password" name="password" type="password" size="35" maxlength="25" style="width:200px; color:#000000;" class="login_password_white" value="" onchange="this.className='white';this.style.color='#000000';" onfocus="this.className='white';this.style.color='#000000';">
-						</td>
-					  </tr>
-					  <tr>
-						<td><input type="checkbox" name="chk_save" value="1" id="chk_save" class="radio"> remember me	</td>
-						<td align="right"><input name="submit" type="submit" value="Sign In" class="button" style="width:70px;"></td>
-					  </tr>
-										</tbody></table>
+					  <table width="235" border="0" cellpadding="3" cellspacing="0">
+                        <tbody><tr>
+                          <td colspan="2"><div style="padding-top:2px; float:left"><span class="blacktextbold" style="font-size:16px;">Log In</span></div>
+                              <div style="float:left">&nbsp;<img src="images/fb_login_large.jpg" border="0" style="cursor:pointer;" onclick="facebook_login();"></div></td>
+						  <td width="19" valign="top"><a href="fb_question_mark.php" rel="lightbox" title="Information for members wanting to use Facebook to login"><img src="../images/fb_question_mark.gif" alt="For members wanting to use FB to login, click here" width="19" height="19" border="0" title="Information for members wanting to use Facebook to login"></a></td>
+                        </tr>
+                        <tr>
+                          <td colspan="2">
+                                                        <input id="user_name" name="user_name" type="text" size="35" maxlength="100" style="width:200px; color:#CCCCCC;" class="white" value="username (email)" onfocus="if(this.value=='username (email)'){this.value='';this.style.color='#000000';}">
+                                                      </td>
+						  <td></td>
+                        </tr>
+                        <tr>
+                          <td colspan="2">
+                            <input id="password" name="password" type="password" size="35" maxlength="25" style="width:200px; color:#000000;" class="login_password_white" value="" onchange="this.className='white';this.style.color='#000000';" onfocus="this.className='white';this.style.color='#000000';">
+                          </td>
+						  <td></td>
+                        </tr>
+                        <tr>
+                          <td width="117"><input type="checkbox" name="chk_save" value="1" id="chk_save" class="radio">
+      remember me </td>
+                          <td width="81" align="right"><input name="submit" type="submit" value="Sign In" class="button" style="width:70px;"></td>
+                          <td width="19" align="right">&nbsp;</td>
+                        </tr>
+                                                <tr>
+                          <td colspan="3" align="center" style="padding-top:10px;"></td>
+                        </tr>
+                      </tbody></table>
 					</form>
 							</td>
 		</tr>
@@ -389,7 +482,7 @@ GA_googleFillSlot("Square_Ad2");
 		  <td height="30">&nbsp;</td>
 		  </tr>
 		<tr>
-			<td><h1 class="headerNew" style="padding:0px; font-size:18px; height:30px;">What Members Are Doing</h1></td>
+			<td><h1 class="headerNew" style="padding:0px; font-size:18px; height:30px;">What Members Are Doing</h1><div style="height:5px;"></div></td>
 		</tr>
 		<tr>
 			<td height="30"><div style="float:left">
@@ -397,28 +490,28 @@ GA_googleFillSlot("Square_Ad2");
 			</div><div style="float:right; padding-right:2px;"><a href="/movie_talk_recent.php" target="_self" class="greenboldlink" title="More recent movie comments">More +</a></div></td>
 		</tr>
 				<tr>
-			<td height="22" style="padding-left:7px;"><div style="float:left;"><a href="/movie_talk_comments.php?thread=507" target="_self" class="blueboldlink" title="Blue Valentine - Why the NC-17 rating? forum posts">Blue Valentine - Why the NC-17 rating?</a></div><div style="float:right; padding-right:2px;"></div></td>
+			<td height="22" style="padding-left:7px;"><div style="float:left;"><a href="/movie_talk_comments.php?thread=679" target="_self" class="blueboldlink" title="Logging In Using Facebook Bugs, Suggestions, and Comments forum posts">Logging In Using Facebook Bugs, Suggestions, and ...</a></div><div style="float:right; padding-right:2px;"></div></td>
 		</tr>
 				<tr class="bgltbluetr">
-			<td height="22" style="padding-left:7px;"><div style="float:left;"><a href="/movie_page_talk.php?id=28516" target="_self" class="blueboldlink" title="The Chronicles of Narnia: Voyage of the Dawn Treader forum posts">The Chronicles of Narnia: Voyage of the Dawn Trea...</a></div><div style="float:right; padding-right:2px;"></div></td>
+			<td height="22" style="padding-left:7px;"><div style="float:left;"><a href="/movie_page_talk.php?id=40228" target="_self" class="blueboldlink" title="The Dark Knight Rises forum posts">The Dark Knight Rises</a></div><div style="float:right; padding-right:2px;"></div></td>
 		</tr>
 				<tr>
-			<td height="22" style="padding-left:7px;"><div style="float:left;"><a href="/movie_talk_comments.php?thread=374" target="_self" class="blueboldlink" title="Best Dark Comedies of All Time forum posts">Best Dark Comedies of All Time</a></div><div style="float:right; padding-right:2px;"></div></td>
+			<td height="22" style="padding-left:7px;"><div style="float:left;"><a href="/movie_page_talk.php?id=40289" target="_self" class="blueboldlink" title="Men in Black III forum posts">Men in Black III</a></div><div style="float:right; padding-right:2px;"></div></td>
 		</tr>
 				<tr class="bgltbluetr">
-			<td height="22" style="padding-left:7px;"><div style="float:left;"><a href="/movie_page_talk.php?id=41184" target="_self" class="blueboldlink" title="The Tourist forum posts">The Tourist</a></div><div style="float:right; padding-right:2px;"></div></td>
+			<td height="22" style="padding-left:7px;"><div style="float:left;"><a href="/movie_page_talk.php?id=42531" target="_self" class="blueboldlink" title="Seconds Apart forum posts">Seconds Apart</a></div><div style="float:right; padding-right:2px;"></div></td>
 		</tr>
 				<tr>
-			<td height="22" style="padding-left:7px;"><div style="float:left;"><a href="/movie_page_talk.php?id=2814" target="_self" class="blueboldlink" title="America's Sweethearts forum posts">America's Sweethearts</a></div><div style="float:right; padding-right:2px;"></div></td>
+			<td height="22" style="padding-left:7px;"><div style="float:left;"><a href="/movie_talk_comments.php?thread=143" target="_self" class="blueboldlink" title="Most Shocking Ending forum posts">Most Shocking Ending</a></div><div style="float:right; padding-right:2px;"></div></td>
 		</tr>
 				<tr class="bgltbluetr">
-			<td height="22" style="padding-left:7px;"><div style="float:left;"><a href="/movie_talk_comments.php?thread=509" target="_self" class="blueboldlink" title="Is there a formula for winning Oscars? forum posts">Is there a formula for winning Oscars?</a></div><div style="float:right; padding-right:2px;"></div></td>
+			<td height="22" style="padding-left:7px;"><div style="float:left;"><a href="/movie_talk_comments.php?thread=628" target="_self" class="blueboldlink" title="Movies That Cheer You Up forum posts">Movies That Cheer You Up</a></div><div style="float:right; padding-right:2px;"></div></td>
 		</tr>
 				<tr>
-			<td height="22" style="padding-left:7px;"><div style="float:left;"><a href="/movie_page_talk.php?id=32126" target="_self" class="blueboldlink" title="Priest (2011) forum posts">Priest (2011)</a></div><div style="float:right; padding-right:2px;"></div></td>
+			<td height="22" style="padding-left:7px;"><div style="float:left;"><a href="/movie_talk_comments.php?thread=44" target="_self" class="blueboldlink" title="Theory on American Psycho's ending forum posts">Theory on American Psycho's ending</a></div><div style="float:right; padding-right:2px;"></div></td>
 		</tr>
 				<tr class="bgltbluetr">
-			<td height="22" style="padding-left:7px;"><div style="float:left;"><a href="/movie_page_talk.php?id=29456" target="_self" class="blueboldlink" title="The Green Hornet forum posts">The Green Hornet</a></div><div style="float:right; padding-right:2px;"></div></td>
+			<td height="22" style="padding-left:7px;"><div style="float:left;"><a href="/movie_talk_comments.php?thread=673" target="_self" class="blueboldlink" title="My proposed Angry Birds movie plot forum posts">My proposed Angry Birds movie plot</a></div><div style="float:right; padding-right:2px;"></div></td>
 		</tr>
 				<tr>
 			<td height="25"></td>
@@ -428,50 +521,50 @@ GA_googleFillSlot("Square_Ad2");
 		</tr>
 				<tr>
 			<td height="22" style="padding-left:7px;">
-            	<a href="/movie_page_main.php?id=28516" target="_self" class="blueboldlink" title="The Chronicles of Narnia: Voyage of the Dawn Treader movie review">The Chronicles of Narnia: ... movie review</a>
+            	<a href="/movie_page_main.php?id=40731" target="_self" class="blueboldlink" title="Immortals (2011) movie review">Immortals (2011) movie review</a>
                 by <a href="profile_home.php?id=5221" class="redboldlink" title="View RJ Villafuerte's profile">RJ Villafuerte</a>
             </td>
 		</tr>
 				<tr class="bgltbluetr">
 			<td height="22" style="padding-left:7px;">
-            	<a href="/movie_page_main.php?id=10377" target="_self" class="blueboldlink" title="Sophie's Choice movie review">Sophie's Choice movie review</a>
-                by <a href="profile_home.php?id=770" class="redboldlink" title="View Ichabod Crane's profile">Ichabod Crane</a>
+            	<a href="/movie_page_main.php?id=32830" target="_self" class="blueboldlink" title="Paranormal Activity movie review">Paranormal Activity movie review</a>
+                by <a href="profile_home.php?id=17" class="redboldlink" title="View Gabe's profile">Gabe</a>
             </td>
 		</tr>
 				<tr>
 			<td height="22" style="padding-left:7px;">
-            	<a href="/movie_page_main.php?id=32058" target="_self" class="blueboldlink" title="TRON: Legacy movie review">TRON: Legacy movie review</a>
-                by <a href="profile_home.php?id=1" class="redboldlink" title="View Alex's profile">Alex</a>
+            	<a href="/movie_page_main.php?id=5493" target="_self" class="blueboldlink" title="Fountain, The (2006) movie review">Fountain, The (2006) movie review</a>
+                by <a href="profile_home.php?id=9917" class="redboldlink" title="View Daniel Corleone's profile">Daniel Corleone</a>
             </td>
 		</tr>
 				<tr class="bgltbluetr">
 			<td height="22" style="padding-left:7px;">
-            	<a href="/movie_page_main.php?id=5915" target="_self" class="blueboldlink" title="The Great Mouse Detective movie review">The Great Mouse Detective movie review</a>
-                by <a href="profile_home.php?id=7002" class="redboldlink" title="View Mr.Cinema's profile">Mr.Cinema</a>
+            	<a href="/movie_page_main.php?id=4209" target="_self" class="blueboldlink" title="Constantine movie review">Constantine movie review</a>
+                by <a href="profile_home.php?id=11885" class="redboldlink" title="View Yojimbo's profile">Yojimbo</a>
             </td>
 		</tr>
 				<tr>
 			<td height="22" style="padding-left:7px;">
-            	<a href="/movie_page_main.php?id=6085" target="_self" class="blueboldlink" title="Hard Candy movie review">Hard Candy movie review</a>
-                by <a href="profile_home.php?id=2195" class="redboldlink" title="View Freddie's profile">Freddie</a>
+            	<a href="/movie_page_main.php?id=40372" target="_self" class="blueboldlink" title="Sherlock Holmes: A Game of Shadows movie review">Sherlock Holmes: A Game of... movie review</a>
+                by <a href="profile_home.php?id=3" class="redboldlink" title="View Nick's profile">Nick</a>
             </td>
 		</tr>
 				<tr class="bgltbluetr">
 			<td height="22" style="padding-left:7px;">
-            	<a href="/movie_page_main.php?id=3012" target="_self" class="blueboldlink" title="Aviator, The (2004) movie review">Aviator, The (2004) movie review</a>
-                by <a href="profile_home.php?id=7461" class="redboldlink" title="View WalDemento999's profile">WalDemento999</a>
+            	<a href="/movie_page_main.php?id=9996" target="_self" class="blueboldlink" title="Serpico movie review">Serpico movie review</a>
+                by <a href="profile_home.php?id=11795" class="redboldlink" title="View tecnoandre's profile">tecnoandre</a>
             </td>
 		</tr>
 				<tr>
 			<td height="22" style="padding-left:7px;">
-            	<a href="/movie_page_main.php?id=9407" target="_self" class="blueboldlink" title="Raging Bull movie review">Raging Bull movie review</a>
-                by <a href="profile_home.php?id=6093" class="redboldlink" title="View Patrik's profile">Patrik</a>
+            	<a href="/movie_page_main.php?id=37655" target="_self" class="blueboldlink" title="Mission: Impossible - Ghost Protocol movie review">Mission: Impossible - Ghos... movie review</a>
+                by <a href="profile_home.php?id=306" class="redboldlink" title="View patjohnson76's profile">patjohnson76</a>
             </td>
 		</tr>
 				<tr class="bgltbluetr">
 			<td height="22" style="padding-left:7px;">
-            	<a href="/movie_page_main.php?id=33168" target="_self" class="blueboldlink" title="The Other Guys movie review">The Other Guys movie review</a>
-                by <a href="profile_home.php?id=4112" class="redboldlink" title="View gideon43's profile">gideon43</a>
+            	<a href="/movie_page_main.php?id=10509" target="_self" class="blueboldlink" title="Star Wars IV: A New Hope movie review">Star Wars IV: A New Hope movie review</a>
+                by <a href="profile_home.php?id=4" class="redboldlink" title="View Chris aka Tarkin's profile">Chris aka Tarkin</a>
             </td>
 		</tr>
 				<tr>
@@ -484,50 +577,50 @@ GA_googleFillSlot("Square_Ad2");
 			</tr>
 		            <tr>
                 <td height="22" style="padding-left:7px;">
-                    <a href="/profile_view_lists.php?id=241&amp;list=2130" target="_self" class="blueboldlink" style="padding-left:3px" title="Favorite Actors 013: Cary Grant">Favorite Actors 013: Cary Gra...</a>
-                    by <a href="profile_home.php?id=241" class="redboldlink" title="View Allison's profile">Allison</a>
+                    <a href="/profile_view_lists.php?id=1733&amp;list=30479" target="_self" class="blueboldlink" style="padding-left:3px" title="My Blu-Ray's">My Blu-Ray's</a>
+                    by <a href="profile_home.php?id=1733" class="redboldlink" title="View Snoogans's profile">Snoogans</a>
                 </td>
             </tr>
 		            <tr class="bgltbluetr">
                 <td height="22" style="padding-left:7px;">
-                    <a href="/profile_view_lists.php?id=6202&amp;list=23754" target="_self" class="blueboldlink" style="padding-left:3px" title="My Movie List">My Movie List</a>
-                    by <a href="profile_home.php?id=6202" class="redboldlink" title="View Jio-Freed's profile">Jio-Freed</a>
+                    <a href="/profile_view_lists.php?id=1&amp;list=25447" target="_self" class="blueboldlink" style="padding-left:3px" title="2011 Movies to See">2011 Movies to See</a>
+                    by <a href="profile_home.php?id=1" class="redboldlink" title="View Alex's profile">Alex</a>
                 </td>
             </tr>
 		            <tr>
                 <td height="22" style="padding-left:7px;">
-                    <a href="/profile_view_lists.php?id=5221&amp;list=20081" target="_self" class="blueboldlink" style="padding-left:3px" title="Top Adventure Movies">Top Adventure Movies</a>
-                    by <a href="profile_home.php?id=5221" class="redboldlink" title="View RJ Villafuerte's profile">RJ Villafuerte</a>
+                    <a href="/profile_view_lists.php?id=7934&amp;list=30247" target="_self" class="blueboldlink" style="padding-left:3px" title="Movies to See">Movies to See</a>
+                    by <a href="profile_home.php?id=7934" class="redboldlink" title="View Stephanie's profile">Stephanie</a>
                 </td>
             </tr>
 		            <tr class="bgltbluetr">
                 <td height="22" style="padding-left:7px;">
-                    <a href="/profile_view_lists.php?id=4724&amp;list=19243" target="_self" class="blueboldlink" style="padding-left:3px" title="Top Movies I want obliterated">Top Movies I want obliterated</a>
-                    by <a href="profile_home.php?id=4724" class="redboldlink" title="View Snake Sugarbaker's profile">Snake Sugarbaker</a>
-                </td>
-            </tr>
-		            <tr>
-                <td height="22" style="padding-left:7px;">
-                    <a href="/profile_view_lists.php?id=5468&amp;list=26470" target="_self" class="blueboldlink" style="padding-left:3px" title="Movies seen since 2007">Movies seen since 2007</a>
-                    by <a href="profile_home.php?id=5468" class="redboldlink" title="View movie maniac's profile">movie maniac</a>
-                </td>
-            </tr>
-		            <tr class="bgltbluetr">
-                <td height="22" style="padding-left:7px;">
-                    <a href="/profile_view_lists.php?id=676&amp;list=24360" target="_self" class="blueboldlink" style="padding-left:3px" title="2006 best movies">2006 best movies</a>
-                    by <a href="profile_home.php?id=676" class="redboldlink" title="View Rakkie's profile">Rakkie</a>
-                </td>
-            </tr>
-		            <tr>
-                <td height="22" style="padding-left:7px;">
-                    <a href="/profile_view_lists.php?id=5592&amp;list=21497" target="_self" class="blueboldlink" style="padding-left:3px" title="Top Movie List">Top Movie List</a>
-                    by <a href="profile_home.php?id=5592" class="redboldlink" title="View The Film Rebel's profile">The Film Rebel</a>
-                </td>
-            </tr>
-		            <tr class="bgltbluetr">
-                <td height="22" style="padding-left:7px;">
-                    <a href="/profile_view_lists.php?id=3457&amp;list=13099" target="_self" class="blueboldlink" style="padding-left:3px" title="movies of 2011">movies of 2011</a>
+                    <a href="/profile_view_lists.php?id=3457&amp;list=11952" target="_self" class="blueboldlink" style="padding-left:3px" title="movies of 1936">movies of 1936</a>
                     by <a href="profile_home.php?id=3457" class="redboldlink" title="View skater4159's profile">skater4159</a>
+                </td>
+            </tr>
+		            <tr>
+                <td height="22" style="padding-left:7px;">
+                    <a href="/profile_view_lists.php?id=9794&amp;list=36612" target="_self" class="blueboldlink" style="padding-left:3px" title="Top Movie List">Top Movie List</a>
+                    by <a href="profile_home.php?id=9794" class="redboldlink" title="View EstherS23's profile">EstherS23</a>
+                </td>
+            </tr>
+		            <tr class="bgltbluetr">
+                <td height="22" style="padding-left:7px;">
+                    <a href="/profile_view_lists.php?id=10877&amp;list=40295" target="_self" class="blueboldlink" style="padding-left:3px" title="My Wish List">My Wish List</a>
+                    by <a href="profile_home.php?id=10877" class="redboldlink" title="View B-Ri's profile">B-Ri</a>
+                </td>
+            </tr>
+		            <tr>
+                <td height="22" style="padding-left:7px;">
+                    <a href="/profile_view_lists.php?id=11861&amp;list=43976" target="_self" class="blueboldlink" style="padding-left:3px" title="My Wish List">My Wish List</a>
+                    by <a href="profile_home.php?id=11861" class="redboldlink" title="View RITT's profile">RITT</a>
+                </td>
+            </tr>
+		            <tr class="bgltbluetr">
+                <td height="22" style="padding-left:7px;">
+                    <a href="/profile_view_lists.php?id=6679&amp;list=25734" target="_self" class="blueboldlink" style="padding-left:3px" title="Actors: George Clooney">Actors: George Clooney</a>
+                    by <a href="profile_home.php?id=6679" class="redboldlink" title="View Triple J's profile">Triple J</a>
                 </td>
             </tr>
 					<tr>
@@ -585,7 +678,8 @@ GA_googleFillSlot("Leaderboard2");
     <td width="288" height="25" bgcolor="#666666" class="whitetextbold" style="padding-left:3px;">Generous Partners</td>
     <td width="10" height="25" bgcolor="#666666"></td>
     <td width="96" bgcolor="#666666">&nbsp;</td>
-    <td width="114" bgcolor="#666666">&nbsp;</td>
+    <td width="114" bgcolor="#666666">&nbsp;
+    <span style="visibility:hidden;" id="fb_loading" class="greytextbold"></span>    </td>
   </tr>
   <tr>
     <td align="center" valign="top" bgcolor="#CCCCCC" style="padding-top:5px; padding-left:30px; padding-bottom:7px;"><p><a href="/advertise1.php" class="blueboldlink" title="Advertise on filmcrave, the movie social network">Advertise and Business</a></p>
@@ -601,7 +695,9 @@ GA_googleFillSlot("Leaderboard2");
     <p><a href="/terms.php" class="blueboldlink" title="Terms of use">Terms of Use</a></p>
     <p><a href="/privacy.php" class="blueboldlink" title="Privacy">Privacy</a></p></td>
     <td valign="top" bgcolor="#CCCCCC" style="padding-top:5px; padding-bottom:7px;">
+    <p><a href="http://www.meltedjoystick.com" target="_blank" class="blueboldlink" title="MeltedJoystick, New Video Game Releases, Game Trailers, and Video Game Social Network">MeltedJoystick.com</a></p>
     <p><a href="http://www.myhollywoodvacation.com" target="_blank" class="blueboldlink" title="Hollywood Vacation">MyHollywoodVacation.com</a></p>
+    <p><a href="http://www.hitfix.com" target="_blank" class="blueboldlink" title="Hitfix Movie news">Hitfix.com</a></p>
     <p><a href="http://www.gqti.com" target="_blank" class="blueboldlink" title="Goodrich Theaters">GQTI.com</a></p>
     <p><a href="http://www.hangar1.com" target="_blank" class="blueboldlink" title="Hangar1.com">Hangar1.com</a></p>
     <p><a href="http://www.traileraddict.com" target="_blank" class="blueboldlink" title="Trailer Addict - Movie Trailers">TrailerAddict.com</a></p>
