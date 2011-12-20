@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the yipit.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616192757id_/http%3A//yipit.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yipit.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220214939id_/http%3A//yipit.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Yipit
-
-* * *
 
 Yipit cares about your privacy and takes it very seriously. Please read the following to learn more about our privacy policy. By visiting the Yipit website, you are accepting the practices outlined in this Privacy Policy.
 
