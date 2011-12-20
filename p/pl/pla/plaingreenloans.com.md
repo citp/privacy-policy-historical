@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plaingreenloans.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512024429id_/http%3A//www.plaingreenloans.com/faq/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plaingreenloans.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220071208id_/http%3A//www.plaingreenloans.com/faq/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Plain Green Loans
 
@@ -142,7 +142,7 @@ to offer our products and services to you
 
 **Please note:**
 
-If you are a _new_ customer, we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice.
+If you are a _new_ customer, we can begin sharing your information as soon as the same day that you apply for a loan. When you are _no longer_ our customer, we continue to share your information as described in this notice.
 
 However, you can contact us at any time to limit our sharing.  
   
