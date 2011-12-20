@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the online-education.net privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503181311id_/http%3A//www.online-education.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-education.net privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220173909id_/http%3A//www.online-education.net/privacy.html) for the most accurate reproduction.*
 
 # Online-Education.net Privacy Policy
+
+[ ](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.online-education.net/seal_m "Validate TRUSTe privacy certification")
 
 **LAST UPDATED:   **March 22, 2011
 
@@ -128,7 +130,7 @@ We will seek to comply with your request(s) as soon as reasonably practicable. 
 
 **How you can access, change or suppress your Personal Information**
 
-If you would like to review, correct, update, suppress, delete or otherwise limit our use, on a going-forward basis, of your Personal Information that has been previously provided to us, you may do so by contacting us at [info@quinstreet.com](mailto:info@quinstreet.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process.  For your protection, we will only implement such requests with respect to the Personal Information associated with the particular e-mail address that you use to send us your request, and we may need to verify your identity before implementing your request. ** **
+If you would like to review, correct, update, suppress, delete or otherwise limit our use, on a going-forward basis, of your Personal Information that has been previously provided to us, you may do so by contacting us at [info@online-education.com](mailto:info@online-education.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process.  For your protection, we will only implement such requests with respect to the Personal Information associated with the particular e-mail address that you use to send us your request, and we may need to verify your identity before implementing your request. ** **
 
 In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. We will try to comply with your request as soon as reasonably practicable.
 
@@ -158,7 +160,7 @@ We may change this Privacy Policy.  Please take a look at the “ _Last Updated
 
 **CONTACTING US**
 
-If you have any questions about this Privacy Policy, please contact us by email at [info@quinstreet.com](mailto:info@quinstreet.com), or please write to the following address:
+If you have any questions about this Privacy Policy, please contact us by email at [info@online-education.com](mailto:info@online-education.com), or please write to the following address:
 
 Privacy
 
