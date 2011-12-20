@@ -1,41 +1,82 @@
-> *The following text is extracted and transformed from the greatdaygames.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305175656id_/http%3A//www.greatdaygames.com/helppages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatdaygames.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220232446id_/http%3A//www.greatdaygames.com/helppages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Help - Play Free Online Games on Great Day Games
 
-Privacy Policy
+Arkadium, Inc. Privacy Policy
 
-**Your privacy matters to us.**   
-As individuals and as a company, GreatDayGames.com ("we" or "us") owned by Arkadium, Inc. is as concerned about privacy protection on GreatDayGames.com (the "Site") as you are. That's why we want you to know exactly how we collect, use, and safeguard your personal information. The statement that follows explains our privacy protection practices in detail. 
+**Data Privacy at Arkadium, Inc.**   
+(the “Company”) has established a comprehensive privacy program, including a global privacy office and a chief privacy officer, designed to help us respect and protect your data privacy rights. This statement includes the Company’s European Union and U.S. Safe Harbor Privacy Statement and the Website Application Privacy Statement.
 
-We welcome your feedback on our privacy protection practices. If you feel that this company is not abiding by its posted privacy policy, contact our Customer Support department by emailing us at: [Contact us](http://www.greatdaygames.com/HelpPages/emailUs.aspx)
+**U.S. - EU Safe Harbor Privacy Statement** For personal information of employees, consumers, healthcare professionals, medical research subjects and investigators, customers, investors, and government officials that the Company receives from the European Economic Area, the Company has committed to handling such personal information in accordance with the Safe Harbor Principles.
 
-**The types of information we collect**   
-GreatDayGames.com collects the following types of information: 
+**Website Privacy Statement**   
+Scope – this privacy policy covers only the Company’s websites and applications maintained by the Company. If you access the Company’s games or applications through a third party website, you may be required to also read and accept the third party website’s Terms of Service and Privacy Policy. 
 
-1\. Registration/contact information. When you register to play on GreatDayGames.com, we collect your email address. We use this information to contact you for lost username or password purposes and to inform you about Site services in which you've expressed interest. 
+The Company respects the privacy of visitors to its websites, as a result, we have developed this privacy policy. This privacy policy applies only to the operation of websites that directly link to this policy when you click on “privacy statement” in the website footer or within one of the Company’s applications. Through this website or platform the Company will collect information that can identify you, including, but not limited to your name, address, telephone number, e-mail address, and other similar information that you provide the Company or is displayed on any social networking web (“Your Information”) when it is voluntarily submitted to us (however, see discussion below about “IP Addresses” if you have a broadband connection). We will use Your Information to respond to requests you may make of us, and from time to time, we may refer to Your Information to better understand your needs and how we can improve our websites, products and services. We may also use Your Information to contact you and/or provide you with general information as well as information about our products and services. We may also enhance or merge Your Information with data obtained from third parties for the same purposes.
 
-2\. Profile Information. GreatDayGames.com users have the ability to voluntarily create and modify their user profile using the " Profiles" menu. The information collected, such as name, age, sex and location is displayed to other users and is completely voluntary. GreatDayGames.com does not require users to create a user profile. 
+**Information about You Received from a social network**  
+When you use any Company game at a social network such as Facebook®, where our games are also referred to as “applications”, you allow the Company to access certain information from your profile for that site. The information you allow the Company to access varies by game and social network platform, and it is affected by the privacy settings you establish at the social network. You can control and find out more about these settings at the social network where you play our games. For example, the Company may access and store some or all of the following information, as allowed by you, the social network and your preferences: 
 
-3\. Legal and policy compliance information. Beyond the data we collect when you register, we also collect information needed to fulfill prizes and to track and verify compliance with GreatDayGames.com policies and federal, state, and local laws. 
+  * your first and last name 
+  * your profile picture or its URL 
+  * your user ID number, which is linked to publicly available information such as name and profile photo 
+  * the user ID numbers for your friends that are also connected to our game(s) 
+  * the login e-mail you provided to that social network when you registered 
+  * your physical location and that of your access devices 
+  * your gender 
+  * your birthday 
 
-4\. No information specific to a user's personal identity is ever revealed unless the user “opts-in” to receive other specific information such as partner and advertiser offers. 
 
-3\. The information you supply to us when you are registering and setting up your personal GreatDayGames.com account is used to provide our basic services and awarding prizes. Because we store your personal information, we don't have to ask you to re-register each time you want to play our games. GreatDayGames.com routinely sends all new players a welcoming email to verify their passwords and usernames. 
 
-GreatDayGames.com may, at times, share aggregate statistical information about our players with business partners, sponsors and other affiliates. For example, we may share our findings that the GreatDayGames.com audience plays x hours per week. This information is aggregated and will not personally identify our players. 
+Any other information transferred by you in connection with your visit to this site (“Other Information” - that is, information that cannot be used to identify you) may be included in databases owned and maintained by the Company or its agents. The Company retains all rights to these databases and the information contained in them. Other Information we collect may include your IP Address and other information gathered through our weblogs and cookies (see below).
 
-However, GreatDayGames.com may disclose personal information for the following business or legal reasons: 
+This site and application may use a technology known as **web beacons** \- sometimes called single-pixel gifs - that allow this site to collect **web log** information. A web beacon is a graphic on a web page or in an e-mail message designed to track pages viewed or messages opened. Web log information is gathered when you visit one of our websites by the computer that hosts our website (called a “webserver”). The webserver automatically recognizes some non-personal information, such as the date and time you visited our site, the pages you visited, the website you came from, the type of browser you are using (e.g., Internet Explorer), the type of operating system you are using (e.g., Windows 7), and the domain name and address of your Internet service provider (e.g., AOL). We may also include web beacons in promotional e-mail messages in order to determine whether messages have been opened.
 
-In special cases. When we have reason to believe, for example, that disclosing this information may help to identify, contact, or bring legal action against someone who, intentionally or unintentionally, may be causing injury or interference with GreatDayGames.com's rights or property, other GreatDayGames.com players, or anyone else who might be harmed as a result. Law enforcement. We will disclose your personal information if requested by any federal, state or local regulatory or law enforcement agency. 
+This website may use a technology called a **“cookie”**. A cookie is a piece of information that our webserver sends to your computer (actually to your browser file) when you access a website. Then when you come back our site will detect whether you have one of our cookies on your computer. Our cookies help provide additional functionality to the site and help us analyze site usage more accurately. For instance, our site may set a cookie on your browser that keeps you from needing to remember and then enter a password more than once during a visit to the site.
 
-To Satisfy IRS Requirements. GreatDayGames.com required by law to provide information regarding the Player's prizes or rewards of $600 or more to the IRS. This information may include information such as a player's social security number, name and address. Except as provided in this section, GreatDayGames.com does not share social security numbers with any organization other than the IRS for tax-reporting purposes. 
+This website uses Internet Protocol (IP) Addresses. An IP Address is a number assigned to your computer by your Internet service provider so you can access the Internet. Generally, an IP address changes each time you connect to the Internet (it is a “dynamic” address). Note, however, that if you have a broadband connection, depending on your individual circumstance, it is possible that your IP Address that we collect, or even perhaps a cookie we use, may contain information that could be deemed identifiable. This is because with some broadband connections your IP Address doesn’t change (it is “static”) and could be associated with your personal computer. We use your IP address to report aggregate information on use and to help improve the website.
 
-**Collection and use of players' IP addresses**   
-An IP address is a number that's automatically assigned to your computer whenever you surf the Web. Web servers - the big computers that "serve up" Web pages - automatically identify your computer by its IP address. 
+Areas of this website that collect Your Information use industry standard secure socket layer encryption (SSL); however, to take advantage of this your browser must support encryption protection (found in Internet Explorer release 3.0 and above).
 
-GreatDayGames.com collects IP addresses to analyze trends, administer our site, anonymously track players' movements on our site, and to gather broad demographic information for statistical purposes. When guests request pages from the Site, our servers log those guests' IP addresses. We do not link IP addresses to any personal information, so that while a player's session will be logged, the player remains anonymous - to us, and to anyone else. 
+Subject to any restrictions of any third party platforms displaying the Company Applications, we may share Your Information with agents, contractors or partners of the Company in connection with services that these individuals or entities perform for, or with, the Company. These agents, contractors or partners are restricted from using this data in any way other than to provide services for the Company, or services for the collaboration in which they and the Company are engaged (for example, some of our products are developed and marketed through joint agreements with other companies). We may, for example, provide your information to agents, contractors or partners for hosting our databases, for data processing services, or so that they can mail you information that you requested.
 
-We use IP addresses in only a few types of situations. We may use these addresses to identify a player when it's necessary to enforce compliance with our policies or terms of service, or to protect our service, Site, customers or others. We may also use these addresses to capture time stamps so that we can determine peak and off-peak load times. These addresses may also be used to determine browser type for demographic information. GreatDayGames.com also may be required to disclose IP address information when required in legal proceedings or by law enforcement agencies. 
+The Company reserves the right to share Your Information to respond to duly authorized information requests of governmental authorities or where required by law. In exceptionally rare circumstances where national, state or company security is at issue (such as with the World Trade Center terrorist act in September, 2001), the Company reserves the right to share our entire database of visitors and customers with appropriate governmental authorities.
 
-**Your acceptance of this privacy policy**   
-By using the Site, you indicate your agreement with the terms and conditions of this privacy policy. If you do not agree with this privacy policy, then do not use the Site. We reserve the right to change the terms of this privacy policy. We will notify you of any material changes to this policy via email or by posting a prominent notice on the Site stating that the privacy policy has been updated. We will give you an opportunity to "opt out" of having your information collected and used pursuant to this materially different privacy policy. Also, we encourage you to review this privacy policy on a regular basis. 
+We may also provide Your Information to a third party in connection with the sale, assignment, or other transfer of the business of this website or application to which the information relates, in which case we will require any such buyer to agree to treat Your Information in accordance with this Privacy Policy.
+
+In general, we collect, store and use your information to provide you with a safe, smooth, efficient, and customized experience. For example, we may use information collected from you in any one or more of the following ways: 
+
+  * to create and register your account and allow play of our games;
+  * to administer games and improve game play;
+  * for social networking purposes, including but not limited to identifying similar users;
+  * to enable user-to-user communications;
+  * to provide technical support and respond to user inquiries;
+  * to prevent fraud or potentially illegal activities, and enforce our Terms of Service;
+  * to notify users of in-game updates;
+  * to provide in-game leader boards and promote in-game player achievements;
+  * to communicate about new and current games;
+  * to solicit input and feedback to improve the Company’s products and services and customize your user experience;
+  * to resolve disputes, collect fees, and troubleshoot problems;
+  * to analyze trends and user traffic and gather statistical information;
+  * to inform users about new products or promotional offers;
+
+
+
+One important use of your information is communication. If you have provided your e-mail address to the Company, we'll use it to respond to (i) customer support inquiries, and (ii) keep you informed of your in-game activity, including comments from friends, notifications about in-game status. [We may also send promotional e-mail messages and promotional SMS messages ("Promotional Communications") directly or in partnership with parties other than the Company.]
+
+You always have the choice to stop receiving Promotional Communications. When you receive Promotional Communications from us you will have the opportunity to "opt out" by (i) following the unsubscribe instructions provided in the Promotional Communication you receive or (ii) by editing your preferences. Please note that despite your indicated e-mail preferences, we may still send you administrative messages regarding the Company games, including, for example, administrative confirmations, and notices of updates to our policies.
+
+From time to time the Company may offer Users the ability to enter sweepstakes and contest. This may be done in connection with the Company Applications or in connection with various third party independent sponsors. The official rules of such sweepstakes and contest are subject to the rules provided therewith, including but not limited to the collection of any additional information not contained in this Privacy Policy.
+
+As a convenience to our visitors, this website currently contains links to a number of sites that we believe may offer useful information. The policies and procedures we described here do not apply to those sites. We suggest contacting those sites directly for information on their privacy, security, data collection, and distribution policies.
+
+To be removed from our contact lists, please write to the Company at the following address:   
+Arkadium, Inc.   
+920 Broadway, 2nd Floor  
+New York, NY 10010  
+Attn: Marten Engblom  
+
+
+Please note that you may continue to receive materials while we are updating our lists.
+
+We may update this website Privacy Policy from time to time. When we do update it, for your convenience, we will make the updated policy available on this page.
