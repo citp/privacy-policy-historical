@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dabs.com privacy policy that was archived on 2010-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100811070152id_/http%3A//www.dabs.com/articles/help/policies/our-privacy-policy-132.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dabs.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220063236id_/http%3A//www.dabs.com/go/privacy) for the most accurate reproduction.*
 
 # Our privacy policy - dabs.com
-
-##  Our privacy policy 
 
 This policy covers all users who register to use the dabs.com website. It is not necessary to register in order to gain access to the searching facilities of the site, but we may restrict access to certain areas as referred to in Principle 2 below. Access to dabs.com is free of charge to all users.   
 The dabs.com website is operated by dabs.com PLC. We are committed to protecting your privacy when you are using our online services. To protect your privacy, we apply five principles which you can read about below.   
@@ -81,10 +79,5 @@ If you have any questions for dabs.com relating to privacy, please send them to 
 ### Changes to this policy
 
 If we decide to change this privacy policy, we would post such changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. 
-
-## Need Further Assistance?
-
-**Can we assist via email?**  
-If this article didn't help resolve your query, then you may wish to contact a dabs.com Customer Service representative via our [email service](https://web.archive.org/contact.aspx?articleId=132&articleTitle=Our+privacy+policy&rs=1&js=false "Chat Service Closed - Our online chat service is currently closed"). 
 
 [ ](https://web.archive.org/articles/help)
