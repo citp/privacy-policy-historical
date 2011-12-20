@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the americanmusical.com privacy policy that was archived on 2011-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110308050305id_/http%3A//www.americanmusical.com/content--name-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanmusical.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220031811id_/http%3A//www.americanmusical.com/content--name-Privacy-Policy) for the most accurate reproduction.*
 
-# American Musical Supply-Musical Instruments, Guitars, Amps, Mics, Cables & Recording Studio Gear
+# Privacy Policy at AmericanMusical.com
+
+Help Center | Privacy Policy
+
+  
+
 
 We use the information we collect about you to process orders and to provide a more personalized shopping experience. Please read on for more details about our privacy policy.
 
