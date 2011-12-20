@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegetpr.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529082016id_/http%3A//thegetpr.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegetpr.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220085035id_/http%3A//www.thegetpr.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
