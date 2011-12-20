@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixfuture.net privacy policy that was archived on 2011-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110130062422id_/http%3A//pixfuture.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixfuture.net privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220230452id_/http%3A//pixfuture.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PixFuture - The Future of Advertising for Publishers and Everyone
 
