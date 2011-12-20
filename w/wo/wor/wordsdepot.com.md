@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wordsdepot.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621062623id_/http%3A//www.wordsdepot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordsdepot.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220205401id_/http%3A//www.wordsdepot.com/privacy.php) for the most accurate reproduction.*
 
-# Free Article Directory | Ezine Articles | Article Submission Directory
+# Website for Articles - Submission of Articles - Ezine Articles
 
 WordsDepot.com Privacy Policy
 
@@ -24,7 +24,7 @@ Personally Identifiable Information collected by WordsDepot.com may also be used
 
 WordsDepot.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.WordsDepot.com page, certain content that is actually created or hosted by a third party. Also, through WordsDepot.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. WordsDepot.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. WordsDepot.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+While on our **website for articles** , our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. WordsDepot.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties. We are only a website dedicated to the **submission of articles**.
 
 You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of WordsDepot.com and this policy. 
 
@@ -42,8 +42,11 @@ WordsDepot.com reserves the right to change this policy at any time. Please chec
 
 **Governing law**
 
-This policy and the use of this Site are governed by Texas law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Austin. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+This policy and the use of this Site are governed by Italian law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Macerata, 62100 MC - ITALY. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Austin, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Macerata, MC ITALY, under the rules of the Italian Law and European Law about copyright and intellectual property. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+
+More info about our service by visiting this page:  
+[How To Use a Directory Submission Service](http://www.wordsdepot.com/learnmore.php "How To Use a Directory Submission Service")
