@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ed.ac.uk privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608132025id_/http%3A//www.ed.ac.uk/about/website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ed.ac.uk privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220221621id_/http%3A//www.ed.ac.uk/about/website/privacy-policy) for the most accurate reproduction.*
 
 # Website privacy policy | About our website
 
@@ -92,4 +92,4 @@ If you have any queries concerning your personal information or any questions on
 
 
 
-This article was published on Mar 18, 2011 
+This article was published on Sep 21, 2011 
