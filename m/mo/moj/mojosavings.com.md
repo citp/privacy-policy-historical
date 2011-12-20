@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mojosavings.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523061622id_/http%3A//mojosavings.com/privacy-policy-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojosavings.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220170556id_/http%3A//mojosavings.com/privacy-policy-disclosure) for the most accurate reproduction.*
 
 # Privacy Policy & Disclosure | Mojosavings.com
 
@@ -27,6 +27,8 @@ Google Adsense
 
 Commission Junction
 
+Escalate Media Network
+
 Linkshare
 
 My Savings
@@ -52,3 +54,7 @@ The compensation received will never influence the content, topics or posts made
 The owner(s) of this blog is not compensated to provide opinion on products, services, websites and various other topics. The views and opinions expressed on this blog are purely the blog owners. If we claim or appear to be experts on a certain topic or product or service area, we will only endorse products or services that we believe, based on our expertise, are worthy of such endorsement. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer or provider.
 
 This blog does not contain any content which might present a conflict of interest.
+
+**Material Connection Disclosure**
+
+Unless otherwise expressly stated, you should assume that Mojo Savings has an affiliate relationship or other material connection to the providers of goods and services mentioned by, recommended, hyperlinked to, or otherwise referenced on Mojo Savings. In addition, you should assume that Mojo Savings may be compensated monetarily or non-monetarily when you visit, purchase goods or services from, or take any other action on a third-party website mentioned by, recommended, hyperlinked to, or otherwise referenced on Mojo Savings. You should always perform due diligence before buying any goods or services online or offline.
