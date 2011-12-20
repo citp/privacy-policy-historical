@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomage.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627131147id_/http%3A//www.gomage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomage.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220075154id_/http%3A//www.gomage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ At the time of purchase and/or registration of Software, you will be asked to pr
 
 All information received from the User is used exclusively to improve the quality of the services rendered as well as to prepare generalized statistical data to be used to create a generalized user profile.
 
-GoMage.com guarantees the confidentiality of any and all data supplied by the User when utilizing the GoMage.com software or services and when visiting the GoMage.com website. We do not disclose any information provided by the Use to any third party unless ordered to by a court of law, during the investigation of a criminal offense or as required under other provisions of disclosure of personal data.
+GoMage.com guarantees the confidentiality of any and all data supplied by the User when utilizing the GoMage.com software or services and when visiting the GoMage.com website. We do not disclose any information provided by the User to any third party unless ordered to by a court of law, during the investigation of a criminal offense or as required under other provisions of disclosure of personal data.
 
 ##### IMPORTANT! GOMAGE.COM DOES NOT COLLECT DATA ON PLASTIC CARDS
 
