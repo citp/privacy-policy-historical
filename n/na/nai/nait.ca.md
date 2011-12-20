@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nait.ca privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621065026id_/http%3A//www.nait.ca/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nait.ca privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220075123id_/http%3A//www.nait.ca/privacypolicy.htm) for the most accurate reproduction.*
 
 # NAIT | NAIT Privacy Policy
+
+[Home](http://www.nait.ca/default.htm) > NAIT Privacy Policy  
 
 The Northern Alberta Institute of Technology ("NAIT") is committed to ensuring the personal privacy of faculty, staff, students, and customers visiting our website. The following information discloses our practices for collecting data, including what type of information is gathered and tracked, why this information is being collected, and how this information is used. The following guidelines were developed with a fundamental respect for our users' right to privacy, and to guide our relationships with our users. NAIT reserves the right to modify our privacy policy at any time. Any such modification will be effective immediately upon posting to the NAIT site. 
 
@@ -31,3 +33,10 @@ Some of the web pages and applications on this site use cookies. Cookies are sho
 ### Transactions where information enters a system of records
 
 Where personal information is provided that enters a system of records, it is collected in compliance with section 33 (c) of the Alberta Freedom of Information and Protection of Privacy (FOIP) Act. NAIT collects, creates and maintains information for the purposes of admission, registration and other activities directly related to its educational programming. Information collected is only kept for the length of time necessary to fulfill the purpose for which it was collected.
+
+#### Have a Question?
+
+[Ask NAIT](http://ask.nait.ca/askNAIT/index.jsp) \- Get answers to your questions online. 
+
+**Phone:** 780.471.6248  
+ **Toll free:** 1.877.333.6248
