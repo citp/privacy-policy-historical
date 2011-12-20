@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guitarnoise.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623171553id_/http%3A//www.guitarnoise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarnoise.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220155345id_/http%3A//www.guitarnoise.com/privacy) for the most accurate reproduction.*
 
-# Guitar Noise Privacy Policy
+# Guitar Noise Privacy Policy - Guitar Noise
 
 **Updated on: September 5, 2009**
 
