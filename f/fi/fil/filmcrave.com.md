@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmcrave.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224171144id_/http%3A//www.filmcrave.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmcrave.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220220550id_/http%3A//www.filmcrave.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy by Filmcrave
 
@@ -23,8 +23,13 @@ Filmcrave uses a contact importer for several functions on Filmcrave. ImaJAN Med
 Links  
 Filmcrave.com may link to outside websites. We are not responsible for the content or privacy of any information that is transferred to these websites that reside outside of the FilmCrave.com community.
 
+  
+
+
 Cookies and Advertisements   
-FilmCrave.com may have advertisements on the website that will use cookies to track the frequency of advertisements that a user has seen. These advertisements may also link to an outside website in which FilmCrave.com is not responsible for the content of any information on these sites. FilmCrave.com may also use cookies to track basic information to make browsing and visiting this website easier.
+FilmCrave.com may have advertisements on the website that will use cookies to track the frequency of advertisements that a user has seen. These advertisements may also link to an outside website in which FilmCrave.com is not responsible for the content of any information on these sites. FilmCrave.com may also use cookies to track basic information to make browsing and visiting this website easier. 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp 
 
 Changes to Privacy Policy  
 FilmCrave.com reserves the right to change this privacy policy at any time without notice. Any changes to this policy will be posted on the website for at least 30 days. The date of any and all changes will also be posted at the top of this page. We take you privacy seriously and if you have any issues, questions or concerns with this policy please contact us at [privacy@filmcrave.com. ](mailto:privacy@filmcrave.com)
