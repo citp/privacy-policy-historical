@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jigsaw-online.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419195524id_/http%3A//www.jigsaw-online.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigsaw-online.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221001537id_/http%3A//www.jigsaw-online.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Women's Fashion Clothes – Online Shop
 
@@ -10,7 +10,7 @@ We have the utmost respect for the privacy of our online customers. Any informat
 
 You can access and browse our website without having to disclose any personal data. 
 
-By browsing and shopping on Jigsaw’s website you are accepting and complying with the regulations outlined in the Privacy Policy below and in the [Terms and Conditions ](http://jigsaw-online.com/termsandconditions.aspx?pagename=siteterms)provided on the site.
+By browsing and shopping on Jigsaw’s website you are accepting and complying with the regulations outlined in the Privacy Policy below and in the [Terms and Conditions ](http://www.jigsaw-online.com/termsandconditions.aspx?pagename=siteterms)provided on the site.
 
 ### Personal Information Collected
 
@@ -25,17 +25,15 @@ We respect your right to know about the information we hold about you. If, at an
 ### Contacting You
 
 If you have purchased from the site or opted in to receive information on company news, our products and promotions, but would now like us to stop sending you this information please either:  
-• click the unsubscribe link on the latest (non order administration) e-mail received from us to stop our adjust the level of contact we have with you,  
+• click the unsubscribe link on the latest newsletter e-mail received from us   
 • log in to your account in the My Account section of the website and simply click the unsubscribe link, located next to the Newsletter Subscription field  in the My Details screen  
-• contact us by e-mail ([nomoremail@jigsaw-online.co.uk](mailto:nomoremail@jigsaw-online.co.uk))   
-• write to us at the address provided above.  Please be sure to provide your name and address when requesting the removal of your data from our database, so that we can check that it is in fact you who is making the request. 
+• contact us by e-mail ([enquiries@jigsaw-online.com](mailto:enquiries@jigsaw-online.com))   
+• write to us at the address provided above.  Please be sure to provide your name, email and address when requesting the removal of your data from our database, so that we can check that it is in fact you who is making the request. 
 
- Please remember, if you have asked us to stop sending you emails and then you make a further purchase from our website, we will need to contact you by email to confirm your order and its despatch and this will re-engage you as a registered customer wishing to be contacted. 
-
-When purchasing from the website, at the end of the checkout process, we will offer you the chance to activate your account, by simply entering a password.  This will allow you to keep a record of your orders, save your wishlist and bag when leaving the site and enjoy faster checkout on future visits.  If you would like to activate your account but do not wish for us to occasionally contact you with information about Jigsaw, our products and promotions, please log in to your account in the My Account section of the website and simply click the unsubscribe link, located next to the Newsletter Subscription field  in the My Details screen.
+ Please note, if you then make a purchase after unsubscribing we will still send you order related emails.
 
 If any of your details have changed please either:  
-• visit our website (if you have already set up an account) and open ‘My Account’ to access and edit your data  
+• visit our website if you have already set up an account with us online, and open ‘My Account’ to access and edit your data.  
 • contact us by e-mail or by post, quoting “My New Information”, if you would like us to complete the update for you.  Please be sure to provide your old information when updating us, so that we can verify that it is in fact you making this request and ensure that we correct your data accurately.  
 
 
