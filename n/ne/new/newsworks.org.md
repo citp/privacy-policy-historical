@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsworks.org privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621035547id_/http%3A//www.newsworks.org/index.php/about-us/item/6444) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsworks.org privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220044113id_/http%3A//www.newsworks.org/index.php/about-us/item/6444) for the most accurate reproduction.*
 
 # Privacy Statement — NewsWorks
 
