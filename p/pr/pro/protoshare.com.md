@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the protoshare.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524044429id_/http%3A//www.protoshare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protoshare.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220132214id_/http%3A//www.protoshare.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ProtoShare - Wireframe Tool and Prototype Development
+# Privacy Policy | Prototyping Software & Wireframe Tool
 
 Site9 respects your privacy and is committed to protect the personal information that you share with us. The purpose of our Privacy Policy is to demonstrate our commitment to the privacy and protection of all personal data shared with Site9. Generally, you can browse through our website without giving us any information about yourself. When we do need your personal information to provide services that you request, to collect payment for those services, or when you choose to provide us with your personal information, this policy describes how we collect and use your personal information.
 
@@ -55,9 +55,9 @@ If you have questions or concerns about our collection, use, or disclosure of yo
 If you have any question or concerns about what has been stated in this Privacy Policy please feel free to contact us:
 
 Site9, Inc.  
-519 SW 3rd Ave. Suite 400  
-Portland, OR 97204  
+610 SW Alder, Suite 515  
+Portland, OR 97205  
 Phone: 503.248.4440  
 Email: info@site9.com
 
-This document was last updated April 25, 2008.
+This document was last updated June 3, 2011.
