@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the videopoker.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617181025id_/http%3A//www.videopoker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videopoker.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220132225id_/http%3A//www.videopoker.com/privacy) for the most accurate reproduction.*
 
-# VideoPoker.com Privacy Policy
+# Privacy Policy
 
 ## Information Collection and Use 
 
@@ -17,6 +17,16 @@ Any personal information that you provide to our Web site shall stay safe, priva
 ## External Links
 
 This site contains links to other sites. We are not responsible for the privacy practices or the content of these other Web sites. 
+
+## Advertising
+
+We use the services of third party companies to help us carry out and measure the effectiveness of our advertising campaigns. For example, these third parties may ensure that you are shown ads at appropriate frequencies, so that you do not see the same ad repeatedly. As part of these services, one or more "action tags" may be placed on our site.
+
+These action tags do not enable these third parties to collect your name, e-mail address, phone number or other similar information that directly identifies you. Rather, when you visit our site, these action tags will direct your web browser to contact these third parties, at which time they may set or read a cookie on your device and collect information about your visit - such as your IP address, cookie ID, which parts of the site are viewed or clicked, and date/time information.
+
+Currently, the third party companies that may use action tags to enable their collection of information about visitors to our site include: [Microsoft Advertising](http://cl.exct.net/?ju=fe2d15707c6506787d1173&ls=fdf8157372670d7e74167776&m=fef111767d6d06&l=fecd16767761067c&s=fe291572736105797c1274&jb=ffcf14&t=).
+
+These companies also may use this information, combined with information they may collect at other websites, to show you ads that are targeted to your interests. You may be able to opt-out of behavioral targeting from these companies by clicking on the companies' name above and visiting their opt-out pages. Many of these companies are also members of the Network Advertising Initiative (NAI), which offers the ability to opt out from online behavioral advertising by any or all member companies on a single page at <http://www.networkadvertising.org/managing/opt_out.asp>. Opting out of a network does not mean that you will no longer receive online advertising or that the network will stop collecting information about your visit to the sites. It does mean that the network from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns.
 
 ##  Questions or Suggestions 
 
