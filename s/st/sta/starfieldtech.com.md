@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the starfieldtech.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630202110id_/http%3A//www.starfieldtech.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starfieldtech.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220072537id_/http%3A//www.starfieldtech.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Starfield Technologies, Inc. - STARFIELD TECHNOLOGIES, INC. PRIVACY POLICY
 
-## Starfield Technologies, Inc.  
-Privacy, Security, Your Information
+Last Revised: November 01, 2011
 
-### Starfield Technologies, Inc. respects your privacy. 
+## Privacy, Security, Your Information
 
-Starfield Technologies is a licensee of the TRUSTe Privacy Program. If you have questions or concerns regarding this statement, you should first contact Starfield Technologies at [privacy@starfieldtech.com](mailto:privacy@starfieldtech.com) or call (480) 505-8800. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe. TRUSTe will then serve as a liaison with the Site to resolve your concerns. However, please understand the TRUSTe Privacy Program covers only information that is collected through this Site, and does not cover information that may be collected through software downloaded from the Site. 
+### Starfield Technologies respects your privacy. 
+
+Starfield Technologies has been awarded TRUSTe's Privacy Seal signifying that its Privacy Policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements, including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [privacy@starfieldtech.com](mailto:privacy@starfieldtech.com) or call (480) 505-8800. If you are not satisfied with our response, please contact TRUSTe. 
 
 **Starfield Technologies complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. Users in the European Union consent to the transfer to and processing of their personal information in the United States. We will respond to your request for access to modify or delete your information within thirty (30) days.**
 
@@ -31,7 +32,35 @@ This Site also contains links to other websites. Unfortunately, Starfield Techno
 
 Security 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control. Please view our [Secure Ordering](https://www.godaddy.com/gdshop/secure.asp) page for further details. 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control. 
+
+Sending Emails 
+
+We use emails to communicate with you, to confirm your placed orders, and to send information that you have requested. We also provide email links, as on our [Contact Us](http://starfieldtech.com/contact) page, to allow you to contact us directly. We strive to promptly reply to your messages. 
+
+Third Party Service Providers 
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as processing credit card payments, serving advertisements, conducting contests or surveys, performing analyses of our products or customer demographics, shipping of goods or services, and customer relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes. 
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+Supplementation of Information 
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources (e.g., information from our strategic partners, service providers, or the United States Postal Service). We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you. 
+
+Contests/Surveys 
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor site traffic, and to personalize our Site. 
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice. 
+
+Targeted Advertisements 
+
+Starfield Technologies may display targeted offers to our customers based on the products currently owned by the customer. These offers will display as varying product banners. There is no personal or geolocation information collected within these product banners to build a profile about your activities or that is shared with third party advertising companies. 
+
+What Happens to my Personal Information if I Terminate my Starfield Technologies Account? 
+
+When your Starfield Technologies account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant Starfield Technologies databases. However, deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements. 
 
 Updating Your Information 
 
@@ -46,35 +75,13 @@ You may alter your account information or opt out of receiving communications fr
 
 
 
-Sending Emails 
+Transfer of Data Abroad 
 
-We use emails to communicate with you, to confirm your placed orders, and to send information that you have requested. We also provide email links, as on our ["Contact Us"](http://starfieldtech.com/contact/) page, to allow you to contact us directly. We strive to promptly reply to your messages. 
-
-The information you send to us may be stored and used to improve this site and our products, or it may be reviewed and discarded. 
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries. By visiting this Site and communicating electronically with us, you consent to such transfers. 
 
 Compliance with Laws and Law Enforcement 
 
 We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies. 
-
-Third Party Service Providers 
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as processing credit card payments, serving advertisements, conducting contests or surveys, performing analyses of our products or customer demographics, shipping of goods or services, and customer relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes. 
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [ here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-Supplementation of Information 
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g._ , information from our strategic partners, service providers, or the United States Postal Service). We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you. 
-
-Contests/Surveys 
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor site traffic, and to personalize our Site. 
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice. 
-
-What Happens to my Personal Information if I Terminate my Starfield Technologies Account? 
-
-When your Starfield Technologies account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant Starfield Technologies databases. However, deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements. 
 
 Changes in Our Practices 
 
@@ -92,5 +99,5 @@ ATTN: Web Team
 Suite 219   
 Scottsdale, AZ, 85260, U.S.A. 
 
-Revised: 9/27/2010  
-Copyright © 2000 - 2010. All Rights Reserved. 
+Revised: November 01, 2011  
+Copyright © 2000 - 2011. All Rights Reserved. 
