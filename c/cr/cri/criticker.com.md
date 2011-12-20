@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the criticker.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620093820id_/http%3A//www.criticker.com/index.php%3Fpv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criticker.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220043042id_/http%3A//www.criticker.com/index.php%3Fpv) for the most accurate reproduction.*
 
 # Criticker - Privacy Policy
 
@@ -15,3 +15,5 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 Criticker may update this policy. We will notify you about any significant changes by email. 
 
 If you have any questions about this privacy policy, please send an email to [info@criticker.com](mailto:info@criticker.com). We will answer your question as soon as possible. 
+
+[](http://www.criticker.com/blog/index.php/2011/02/18/new-sponsor-feature-statistics-graphs/)
