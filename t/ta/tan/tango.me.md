@@ -1,61 +1,66 @@
-> *The following text is extracted and transformed from the tango.me privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412041923id_/http%3A//www.tango.me/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tango.me privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220040648id_/http%3A//www.tango.me/privacy-policy) for the most accurate reproduction.*
 
-# Tango | Privacy Policy
-
-[Home](https://web.archive.org/index.php) **Privacy Policy**
+# Privacy Policy - Tango
 
 ## Introduction
 
-TangoMe, Inc. dba Tango ("Tango") is committed to maintaining the confidentiality, integrity and security of personal information about our current and prospective members. We take the utmost care in protecting our members\' privacy. This Privacy Policy explains how we protect your personal information and use this protection to service your account. Tango stresses its privacy and security standards to guard against identity theft and provide security for your personal information.
-
-In this Privacy Policy, we refer to our products and services as the "Service." Please read on to learn more about our commitment to your privacy.
+Below is the Privacy Policy of TangoMe, Inc. dba Tango (“Tango,” “we,” “us” or “our”). In this Privacy Policy, we refer to our products and services as the “Service.” Please read on to learn more about our data handling practices. Your use of the Service signifies that you agree with the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, do not use the Service.
 
 ## Information We Collect
 
-Tango collects personally identifiable information only when you voluntarily provide it to us. Personally identifiable information about you may be collected during the download process for the Service if you choose to register with us. For registration, you are only required to provide your mobile phone number in order to use the Service. You may also provide personally identifiable information such as your name and email address, but that is optional. We use this information to connect you to your friends, family and others on Tango. Through the Service we will have access to your contact list on the devices you use for the Service and we may use that information to help you Tango with other people.
+When you install the Service on your device and register with Tango, personally identifiable information about you may be collected during the download process for the Service (as requested from you during the download process) when you register with us. For registration, you are only required to provide your mobile phone number or your email address, depending on the device(s) you are using on the Service. You may also provide personally identifiable information, but that is optional. We use this information to connect you to your friends, family and others on the Service.
 
-We do not store the information in your contact list on our servers.
+In addition, when you install the Service on your device and register with Tango, you will be asked to allow us access to your address book. If you consent, we will have access to contact information in your address book on the devices you use for the Service (names, numbers and emails, but not notes or other personal information in your address book). If you consent separately to the storage of this contact information, we will store it on our servers and use it to help you use the Service, for example, by synchronizing your Tango contacts between different devices you may want to use with the Service. If you do not want Tango to store this information, you may opt-out through your account settings at any time. However we may not be able to offer some of the features that require this information.
 
-Tango may also collect and gather non-personally identifiable information, such as profile information including country of residence, zip code, preferences. In addition, Tango may collect information about your usage of and interaction with the Service, our products and websites including computer and connection information, device capability, bandwidth, statistics on page views, and traffic to and from our websites.
+Tango may also collect and gather non-personally identifiable information, such as profile information including country of residence and preferences. In addition, Tango may collect information about your and others usage of and interaction with the Service and our websites, including calls, numbers of calls made by members, call durations, usage by geographies, device and connection information, IP address, device capability, bandwidth, statistics on page views, network type and traffic to and from our websites.
 
 ## How We Use Information We Collect
 
-Your privacy is not for sale. We do not and will not sell or rent your personal information to anyone, for any reason, at any time. Period. 
-
-We use your personal information only as follow:
+We use or may disclose your personal information only as follows:
 
   * To verify your identity;
-  * To connect you with your friends and family on Tango;
-  * To show your name to the person you are Tangoing;
+  * To connect you with your friends, family and others on the Service;
+  * To show you the names of persons you communicate with and to show your name to persons you communicate with on the Service;
   * To deliver to you any administrative notices, alerts and communications relevant to your use of the Service;
-  * To contact you via email, SMS or otherwise for the purpose of informing you about new products, services or promotions offered by Tango; you can opt-out of such emails or SMSs by sending an email to [privacy@tango.me](mailto:privacy@tango.me)
-  * For troubleshooting problems, detecting and protecting against error, fraud or other criminal activity;
-  * When we have a good faith belief that the law or any legal process requires disclosure and you hereby consent to such disclosure;
-  * To enforce our Terms of Use.
+  * To contact you via email, SMS or otherwise for the purpose of informing you about new products, services or promotions offered by Tango (you can opt-out of such emails or SMSs by sending an email to [privacy@tango.me](mailto:privacy@tango.me);
+  * For troubleshooting problems, detecting and protecting against error, fraud or other illegal activity;
+  * When we have a good faith belief that the law, any legal process, law enforcement, national security or issue of public importance requires disclosure;
+  * To protect and defend our rights or property (including to enforce our Terms of Use and other agreements);
+  * In connection with a corporate transaction involving Tango, such as the purchase or sale of a business unit, an acquisition, merger, sale of assets, or other similar event.
 
 
 
-## Your User Profile 
+## Your User Profile
 
-The information you enter into your user profile may be shared with your Tango contacts. You control your user profile and you can access your user profile from the profile menu under settings in the Tango App.
+The information you enter into your user profile may be shared with your Tango contacts. You control your user profile and you can access and modify your user profile from the profile menu under settings in the Tango application at any time.
 
-## Ownership of Data
+## Data Access and Removal
 
-Your data belongs to you, and you can remove it anytime you want. If you ask us to delete your account, we will use commercially reasonable efforts to remove your data from our servers. Despite such removal, portions of your data may remain on our production and back-up servers indefinitely.
+You can remove your data anytime you want. If you ask us to delete your account, we will use commercially reasonable efforts to remove your data from our servers.
 
-Any personally identifiable information you submit on a blog, bulletin board or chat room on our website can be viewed and used by other users, and could be used to send you unsolicited messages. Tango is not responsible for your disclosure of information in these forums.
+Any personally identifiable information you submit on a blog, bulletin board or chat room on our website or elsewhere can be viewed and used by others, including to send you unsolicited messages or to commit identity theft. Tango is not responsible for any misuse of your information that might result from your disclosure of information in these forums or elsewhere.
 
-## Third Party Collection of Information 
+## Service Providers
 
-In certain instances, Tango may have contracts with third parties to provide products and/or services in connection with the Service. If you accessed a website, product or service provided by a third party, such third party may also collect information about you. Please see the privacy policies of each such third party for more information about how they use the information they collect. This Privacy Policy does not govern any exchange of information between you and any third party.
+In certain instances, Tango may have contracts with third parties to provide products and/or services in connection with the Service. In those cases, Tango may share your personal information with Tango’s third-party service providers, but only in connection with providing the services to you. For example, Tango shares your phone number or email with third party SMS and email providers to deliver the authentication SMS or email to you when you register with Tango. We contractually require that these third parties use your information solely to deliver SMS or email to you and to use appropriate security measures to protect your information.
 
-## Opt-Out
+## Outbound Links
 
-Tango does allow you to choose not to receive promotional communications from Tango and its partners. Every promotional e-mail sent by Tango or its partners will contain instructions on how to unsubscribe from that particular mailing.
+If you accessed a website, product or service provided by a third party, including through the Service or a Tango website, -such third party may also collect information about you. Please see the privacy policies of each such third party for more information about how they use the information they collect. This Privacy Policy does not govern any exchange of information between you and any third party.
 
-## Security; Data Transfer
+## Opt-Out – Promotional Communications
 
-Protecting user privacy and personal information is a top priority for Tango. We make substantial efforts to ensure the privacy of all personally identifiable information you provide to us. Access to all user information is restricted to Tango employees, contractors and agents who need to know that information in order to operate, develop or improve the Service. Tango uses password protection, access logs, and system monitoring to safeguard the confidentiality of all user information. Nonetheless, due to the inherent nature of the Internet and related technology, we do not guarantee the protection of information under our control against loss, misuse or alteration. In addition, your information may be stored and processed in any country in which Tango maintains facilities, including outside of the United States. In this regard, or for purposes of sharing or disclosing data as described in this Privacy Policy, Tango reserves the right to transfer information outside of your country. By using the Service, you consent to any such transfer of information outside of your country. As Tango continues to develop its business, Tango might sell or buy subsidiaries or business units. In such transactions as well as in the event Tango or substantially all of its assets are acquired by a third party, personal information of Tango users will generally be one of the transferred business assets. We reserve the right to include your personal information, collected as an asset, in any such transfer to a third party.
+Tango allows you to choose not to receive promotional messages from Tango and its service providers. You may do so by following instructions in the message sent by Tango or its service providers on how to unsubscribe from that particular mailing. You may also opt-out by contacting us at [privacy@tango.me](http://tango.me/privacy@tango.me).
+
+## Security
+
+Protecting user privacy and personal information is a top priority for Tango. We make substantial efforts to ensure the privacy of all personally identifiable information you provide to us. Access to all personally identifiable information is restricted to those Tango employees, contractors, agents and third-party service providers who need to know that information in order to provide, operate, develop, maintain, support or improve the Service. Tango uses password protection, access logs, and system monitoring to safeguard the confidentiality and security of all member information.
+
+In addition, due to the inherent nature of the Internet and related technology, we do not guarantee the protection of information under our control against loss, misuse or alteration.
+
+## Data Transfer
+
+In addition, your information may be stored and processed in any country in which Tango maintains facilities, including outside of the United States. In this regard, or for purposes of sharing or disclosing data as described in this Privacy Policy, Tango reserves the right to transfer information outside of your country. By using the Service, you consent to any such transfer of information outside of your country.
 
 ## Age
 
@@ -63,14 +68,14 @@ The Service is not directed to children under the age of thirteen and we do not 
 
 ## Notification of Changes
 
-We reserve the right at our discretion to make changes to this Privacy Policy. You may review updates to our Privacy Policy at any time via links on our website. You agree to accept electronic communications and/or postings of a revised Privacy Policy on the Tango web site, and you agree that such electronic communications or postings constitute notice to you of the Privacy Policy. We reserve the right to modify this policy from time to time, so please review it frequently. If we make material changes to this policy, we will notify you by publishing a revised Privacy Policy or by means of a notice on our website. You agree that your continued use of the Service after we publish a revised Privacy Policy or provide a notice on our website constitutes your acceptance of the revised Privacy Policy.
+We reserve the right at our discretion to make changes to this Privacy Policy. You may review updates to our Privacy Policy at any time via links on our website. You agree to accept electronic communications and/or postings of a revised Privacy Policy on the Tango web site, and you agree that such electronic communications or postings constitute notice to you of the Privacy Policy. We reserve the right to modify this policy from time to time, so please review it frequently.
+
+If we make material changes to this policy, we will notify you by publishing a revised Privacy Policy or by means of a notice on our website, or as required by law. You agree to review the Privacy Policy periodically so that you are aware of any modifications. You agree that your continued use of the Service after we publish a revised Privacy Policy or provide a notice on our website constitutes your acceptance of the revised Privacy Policy. If you do not agree with the terms of the Privacy Policy, you should not use the Service.
 
 ## Contact Information
 
-If you have any questions about this Privacy Policy, please contact us at [privacy@tango.me](mailto:privacy@tango.me). Any personally identifiable information provided in connection with inquiries related to this Privacy Policy will be used solely for the purpose of responding to the inquiry and consistent with our Privacy Policy.
+If you have any questions about this Privacy Policy, please contact us at [ privacy@tango.me](mailto:privacy@tango.me). Any personally identifiable information provided in connection with inquiries related to this Privacy Policy will be used solely for the purpose of responding to the inquiry and consistent with our Privacy Policy.
 
 ## Date
 
-This privacy policy was posted on October 1 2010
-
-**Top**
+This privacy policy was posted on May 1, 2011.
