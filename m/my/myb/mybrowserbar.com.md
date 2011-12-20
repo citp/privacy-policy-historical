@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybrowserbar.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118203021id_/http%3A//www.mybrowserbar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybrowserbar.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220222335id_/http%3A//www.mybrowserbar.com/privacy.html) for the most accurate reproduction.*
 
 # My Browser Bar
 
