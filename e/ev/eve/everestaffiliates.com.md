@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everestaffiliates.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630171144id_/http%3A//www.everestaffiliates.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everestaffiliates.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220060131id_/http%3A//www.everestaffiliates.com/en/privacy) for the most accurate reproduction.*
 
 # Everest Affiliates
 
