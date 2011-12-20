@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the article.at privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509045915id_/http%3A//www.article.at/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article.at privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220224955id_/http%3A//www.article.at/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Article Directory
 
