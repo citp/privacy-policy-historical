@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpire.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607040158id_/http%3A//www.adxpose.com/privacyPolicy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpire.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220063955id_/http%3A//www.adxpose.com/privacyPolicy.page) for the most accurate reproduction.*
 
 # AdXpose® - Privacy Policy
 
