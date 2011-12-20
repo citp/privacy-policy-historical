@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gpwa.org privacy policy that was archived on 2011-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110619192535id_/http%3A//www.gpwa.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gpwa.org privacy policy that was archived on 2011-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111220062329id_/http%3A//www.gpwa.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Gambling Portal Webmasters Association Privacy Policy</title>
@@ -32,6 +32,17 @@
 	<script type="text/javascript" src="/forum/clientscript/vbulletin_global.js?v=372"></script>
 	<script type="text/javascript" src="/forum/clientscript/vbulletin_menu.js?v=372"></script>
  	<script type="text/javascript" src="/s/js/ads.js"></script>
+ 	<script type="text/javascript">
+ 		<!--
+ 			function vbSearch() {
+ 				var searchUrl = '/forum/search.php?do=process&showposts=0&quicksearch=1&s=&query=' + document.SearchForm.query.value;
+ 				location.href = searchUrl;
+ 				return false;
+ 			}
+ 		// -->
+ 		</script>
+ 	
+ 	
 </head>
 <body>
 <div id="bodyContainer">
@@ -51,7 +62,7 @@
 			var username = "";
 			var userid = "";
 			var loginhtml = new String;
-			var randomnumber = 55534.8;
+			var randomnumber = 5009.396;
 			$(document).ready(function()
 						{
 							$.getJSON("/forum/user.php?rnd="+randomnumber, function(user)
@@ -85,7 +96,7 @@
     <td colspan="2"><table border="0"><tbody><tr><td id="login" style="font-size:11px; font-family:verdana;height:15px;text-align:left;vertical-align:middle;" width="390">
     	Welcome, Guest &nbsp;[<b><a href="/login.asp?url=/privacy/index.asp">Log In</a> -or- <a href="/register.asp">Join GPWA</a></b>]
     	</td>
-    <td style="height:15px;vertical-align:top;"><form action="/forum/search.php" method="post" style="display:inline;">
+    <td style="height:15px;vertical-align:top;"><form action="" method="post" style="display:inline;" name="SearchForm" onsubmit="return vbSearch()">
         <input type="hidden" name="do" value="process">
         <input type="hidden" name="showposts" value="0">
         <input type="hidden" name="quicksearch" value="1">
