@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the igigi.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621050957id_/http%3A//www.igigi.com/cms/inside-igigi/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igigi.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220052857id_/http%3A//www.igigi.com/cms/inside-igigi/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy by IGIGI
+
+Follow IGIGI on: [ ](http://www.youtube.com/user/IgigiTV) [ ](http://www.facebook.com/pages/IGIGI/164691925388?ref=s) [ ](http://twitter.com/IGIGI)
 
 This Web site (this "Site") is operated by IGIGI, Inc. We recognize that privacy is a major concern for our customers (“customers”) and we respect your privacy. This Privacy Policy is to advise you how we will and will not disclose the information provided to us through this Site. If you have any questions about our Privacy Policy, contact us at Customer Service. If elements of our Privacy Policy change, we will post them here. This Privacy Policy applies to all information obtained through this Site.
 
