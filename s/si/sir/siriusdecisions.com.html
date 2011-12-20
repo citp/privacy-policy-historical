@@ -1,967 +1,181 @@
-<!--The following is the downloaded HTML source of the siriusdecisions.com privacy policy that was archived on 2011-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110620231616id_/http%3A//www.siriusdecisions.com/live/home/document.php%3FdA%3Dprivacy%26FID%3DMarketing) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the siriusdecisions.com privacy policy that was archived on 2011-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111220062938id_/http%3A//www.siriusdecisions.com/live/home/document.php%3FdA%3Dprivacy%26FID%3DMarketing) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<!--- Marketing Template --->
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<meta name="google-site-verification" content="zTSWtGPa7G8YAKI7vGUooeiVfedr1UIaAmMZ89CHJ-0">
+		<title>Privacy Policy</title>
+		<meta name="keywords" content="siriusdecisions, b-to-b sales and marketing, b2b sales and marketing ">
+		<meta name="description" content="">
+		
+		
 
-<title>Privacy Policy</title>
-<meta name="keywords" content="siriusdecisions, b-to-b sales and marketing, b2b sales and marketing ">
-<meta name="description" content="">
-<!-- link rel="stylesheet" href="screen.css" type="text/css" / -->
-<!-- inc_form_document_sirius_marketing -->
-<!-- CSS is sirius -->
-<!-- browser=ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com) -->
-<style type="text/css">
+		<!--- STYLES GET INCLUDED HERE --->
+					<link rel="stylesheet" type="text/css" href="http://www.siriusdecisions.com/live/home/generated_css_for_http_sdprod.css">	
+		<!--- END OF STYLE INCLUSION --->		
 
+		
+		<!--Infotollgate Function File -->
+		<script type="text/javascript" src="http://www.siriusdecisions.com/live/home/functions.js"></script>
+				<script type="text/javascript" src="http://www.siriusdecisions.com/live/home/jquery-1.5.1.js"></script>
+		<script type="text/javascript">
+		$(document).ready(function(){
+		
+			//$("ul.subnav").parent().append("<span></span>"); //Only shows drop down trigger when js is enabled - Adds empty span tag after ul.subnav
+		
+			$("ul.topnav li").hover(function() { //When trigger is clicked...
+				var NavBarName = "#" + $(this).attr('id') + "Nav";
+				//alert(NavBarName);
+				//Following events are applied to the subnav itself (moving subnav up and down)
+				$(NavBarName).slideDown('fast').show(); //Drop down the subnav on click
+		
+				/*$(NavBarName).hover(function() {
+				}, function(){
+					$(NavBarName).slideUp('slow'); //When the mouse hovers out of the subnav, move it back up
+				});*/
+		
+				//Following events are applied to the trigger (Hover events for the trigger)
+					$(this).addClass("subhover"); //On hover over, add class "subhover"
+				}, function(){	//On Hover Out
+		
+					var NavBarName = "#" + $(this).attr('id') + "Nav";
+		
+					//$(NavBarName).slideUp('slow');
+					$(NavBarName).hide();
+		
+					$(this).removeClass("subhover"); //On hover out, remove class "subhover"
+			});
+		
+			$(document).focusout(function (){
+				if (!$.browser.msie ) {
+					//var NavBarName = "#" + $(this).attr('id') + "Nav";
+		
+		
+					var NavBarName = "#ResearchServicesNav";
+					$(NavBarName).hide();
+		
+					var NavBarName = "#ConsultingServicesNav";
+					$(NavBarName).hide();
+		
+					var NavBarName = "#LearningCoursesNav";
+					$(NavBarName).hide();
+		
+					$(this).removeClass("subhover"); //On hover out, remove class "subhover"
+				}
+			});
+		});
+		</script>      
+	</head>
+	<body>
+		
+		<script type="text/javascript" src="http://www.siriusdecisions.com/live/home/js/wz_tooltip.js"></script>
+		<script type="text/javascript" src="http://www.siriusdecisions.com/live/home/js/tip_balloon.js"></script>
 
-#dhtmltooltip{
-position: absolute;
-left: -300px;
-width: 150px;
-border: 1px solid black;
-padding: 2px;
-background-color: lightyellow;
-visibility: hidden;
-z-index: 100;
-/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
-filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
-}
-
-#dhtmlpointer{
-position:absolute;
-left: -300px;
-z-index: 101;
-visibility: hidden;
-}
-
-#fixedtipdiv{
-position:absolute;
-padding: 2px;
-border:0;
-font:normal 10px Verdana;
-line-height:16px;
-z-index:100;
-}
-
-* {margin: 0; padding: 0;}
-h2{font: 20px Arial, Verdana, Sans-serif; color:#b20838; padding-bottom: 15px;}
-a img{border: none !important}
-:focus{-moz-outline-style: none;}
-body{background: url(http://www.siriusdecisions.com/live/images/bg.jpg) repeat-x #6a6a6a;padding:25px 0 0;}
-html, body { height:100%; }
-
-.errorMessageDisplay{
-	color: #b20838;
-}
-.catalogTypeLabel{
-	color: #617f9d;
-	font-size: 12px;
-	font-face: Verdana, Sans-serif;
-	font-weight: bold;
-}
-.catalogSummary{
-	font-size: 12px;
-	font-face: Verdana, Sans-serif;
-}
-.catalogSummary a:link{
-	text-decoration: none;
-}
-.catalogSummary a:hover{
-	text-decoration: underline;
-}
-.catalogSummary a:visited{
-	text-decoration: none;
-}
-.catalogSummary a:active{
-	text-decoration: none;
-}
-
-.innertitle2{
-	color: #1d3958;
-	font-size: 12px;
-	font-face: Arial, Verdana, Sans-serif;
-	font-weight: bold;
-	padding: 5px 5px 5px 5px;
-}
-a:link{
-	text-decoration: none;
-}
-a:hover{
-	text-decoration: underline;
-}
-a:visited{
-	text-decoration: none;
-}
-a:active{
-	text-decoration: none;
-}
-#wrapper{
-	background: url(http://www.siriusdecisions.com/live/images/container.png) repeat-y 100%;
-	background-repeat: repeat-y 0 0 !important;
-	width: 959px;
-	margin:0 auto -30px;
-	_height: 1000px;
-}
-html > body #wrapper { min-height:100%; height:auto;  }
-a#logo{
-	float: left;
-	display: inline;
-	width: 393px;
-	height: 62px;
-	margin: 30px 0 0 25px;
-	padding-bottom: 10px;
-}
-.welcome1{
-	color: #1d3958;
-	font: .7em Arial, Verdana, Sans-serif;
-}
-.welcome1 a:link{text-decoration: none;}
-.welcome1 a:hover{text-decoration: underline;}
-.welcome1 a:visited{text-decoration: none;}
-
-#welcome{
-	color: #1d3958;
-	font: .7em Arial, Verdana, Sans-serif;
-	float: right;
-	width:225px;
-	height:150px;
-}
-#welcome p {
-	margin:96px 0 0;
-}
-#welcome a:link, #welcome a:visited{
-	color: #1d3958;
-}
-#welcome a:hover{text-decoration: none}
-#welcomelogin{
-	color: #1d3958;
-	position: relative;
-	top: 15px;
-	_top: 6px;
-}
-*:first-child+html #welcomelogin{top:6px}
-#login{
-	margin-top: 6px;
-	float: right;
-	width: 233px;
-	height: 106px;
-	background: url(http://www.siriusdecisions.com/live/images/loginbg.jpg) no-repeat;
-	margin-right: 6px;
-	display: inline;
-}
-#login p{
-	font: .7em Arial, Verdana, Sans-serif;
-	margin: 0px 10px 5px 10px;
-}
-#login span{
-	font: .6em Arial, Verdana, Sans-serif;
-	margin: 20px 10px 5px 10px;
-	display: block;
-}
-#login input{
-	width: 90px;
-	border: 1px solid #000;
-	margin: 0 0px 5px 10px;
-}
-#navbar{
-	background: url(http://www.siriusdecisions.com/live/images/navbg.gif) repeat-x;
-	height: 29px;
-	width: 947px; /* was 713, said 947*/
-	float: left;
-	margin: 0 0 0 6px;
-	border-top: 1px solid #e6e6e6;
-	display: inline;
-	clear: both;
-}
-#nav{
-	margin: 6px 0 0 0;
-}
-#nav li{
-	margin: 0;
-	display: inline;
-	list-style-type: none;
-	font: 12px Arial, Verdana, Sans-serif;
-	font-weight: bold;
-	padding: 0 16px 0 20px;
-}
-#nav li a:link, #nav li a:visited{
-	color: #6c6c6c;
-	text-decoration: none;
-}
-#nav li a:hover{color: #262626}
-#nav li.active a{color: #b20838 !important}
-#nav li.div{
-	background: url(http://www.siriusdecisions.com/live/images/div.png) no-repeat;
-	width: 2px;
-	height: 21px;
-}
-#rightblue{
-	background-color: #4c719a;
-	width: 232px;
-	height: 29px;
-	float: right;
-	margin: 0 6px 0 0;
-	display: inline;
-}
-#rightblue p{
-	margin: 8px 0 0 16px;
-	font: 12px Arial, Verdana, Sans-serif;
-	color: #fff;
-	font-weight: bold;
-}
-#rightcont{float:right;width:232px; margin: 0 6px 0 0;display:inline;}
-#leftcont{float:left;width:176px;margin-left: 25px;margin-top: 30px;display:inline;overflow:hidden}
-#rightmenutop{
-	background-color: #e1eaf5;
-	padding: 15px 0 15px;
-	clear: both;
-}
-#rightmenutop p{
-	font: 12px Arial, Verdana, Sans-serif;
-	margin-bottom: 15px;
-	margin-left: 15px;
-	margin-right: 15px;
-	color: #1d3958;
-}
-#rightmenutop a:link, a:hover; a:active, a:visited{
-	font: 12px Arial, Verdana, Sans-serif;
-	color: #1d3958;
-	text-decoration: underline;
-
-}
-#rightmenutop ul{
-	list-style-type: none;
-	margin:5px 0 0 15px;
-}
-#rightmenutop ul li{
-	font: 12px Arial, Verdana, Sans-serif;
-	line-height: 20px
-}
-#rightmenutop ul li a:visited, #rightmenu ul li a:link{
-	color: #336699 !important;
-}
-#rightmenutop ul li a:hover{text-decoration: none}
-#rightmenusub{
-padding: 15px 10px 5px 15px;
-	margin: 10px 0 0 0;
-	background-color: #e1eaf5;
-}
-#rightmenusub p{
-	font: 12px Arial, Verdana, Sans-serif;
-	color: #4c719a;
-	margin: 0px 0px 11px 0;
-}
-#rbrowse{
-	margin: 9px 0 0 0;
-	background-color: #fff;
-	border: 1px solid #bdd1e8;
-}
-#rbrowsehead{
-	width: 232px;
-	height: 35px;
-	background: url(http://www.siriusdecisions.com/live/images/browsebg.gif) repeat-x;
-	border: 0;
-}
-#rbrowsehead p{
-	color: #b20838;
-	font: 12px Arial, Verdana, Sans-serif;
-	font-weight: bold;
-	margin: 0 0 0 15px;
-	padding: 11px 0 0 0px;
-}
-#rbrowse ul{list-style-type: none; zoom:1; overflow:hidden; margin:8px 0 0; padding:0 0 8px; zoom:1; }
-#rbrowse ul li {
-	float:left; clear:left;
-	width:201px;
-	margin:2px 0;
-	padding: 2px 0 2px 23px;
-}
-#rbrowse ul li a {
-	font:bold 12px Arial, Verdana, sans-serif;
-	color:#617f9d;
-}
-#rbrowse li a:hover{text-decoration: none;}
-#rbrowse ul li.active {
-	background: url(http://www.siriusdecisions.com/live/images/leftmenu_sel.jpg) no-repeat 8px -4px;
-}
-#rbrowse ul li.active a{
-	color: #b20838 !important;
-}
-#rightnavcorp{
-	clear: both;
-}
-#rightnavcorp ul{
-	list-style-type: none;
-	overflow: hidden;
-	margin-top: -1px;
-	width: 232px;
-}
-#rightnavcorp li{
-	margin: 0;
-	padding: 0;
-	float: left;
-	clear: left;
-}
-#rightnavcorp li a:link, #rightnavcorp li a:visited{
-	float: left;
-	clear: left;
-}
-li a img { display:block; }
-#rightsearch{
-	background-color: #e1eaf5;
-	padding: 10px 0 10px 0;
-	clear: both;
-	height: 17px;
-}
-#rightsearch span{
-	font: 12px Arial, Verdana, Sans-serif;
-	color: #4c719a;
-	padding-left: 10px;
-}
-#rightsearch input{
-	color: #4c719a;
-	font: 12px Arial, Verdana, Sans-serif;
-	border: 1px solid #4f4f58;
-	margin-left: 4px;
-}
-*:first-child+html #rightsearch input{margin-left: 5px; margin-right: 4px;}
-#rightsearch button{
-	width: 25px;
-	background: transparent;
-	color: #1d3958;
-	border: 1px dotted #1d3958;
-	font: .6em Verdana, Sans-serif;
-	text-transform: uppercase;
-}
-#rightmedia{
-	background-color: #899cb0;
-	margin: 20px 0 0 -3px;
-	clear: both;
-	height: 275px;
-	padding: 0 0 10px 0;
-}
-#rightmediaheader{
-	background: url(http://www.siriusdecisions.com/live/images/mediabg.jpg) repeat-x;
-	height: 26px;
-	padding: 6px 0 0 15px;
-	font: 13px Arial, Verdana, Sans-serif;
-	color: #cd3153;
-	font-weight: bold;
-}
-#rightmedia img{
-	margin: 10px 20px 5px 20px;
-}
-#rightmedia p{
-	margin: 10px 10px 5px 20px;
-	color: #fff;
-	font: .8em Arial, Verdana, Sans-serif;
-}
-#leftmenu{
-	width: 176px;
-	margin: 0px 0 0 0px;
-}
-#leftmenuheader{
-	width: 176px;
-	height: 30px;
-	background: url(http://www.siriusdecisions.com/live/images/menuheadbg.jpg) no-repeat;
-}
-#leftmenuheader p{
-	color: #b20838;
-	font: 12px Arial, Verdana, Sans-serif;
-	font-weight: bold;
-	text-align: center;
-	padding-top: 8px;
-}
-#leftmenu ul{
-	list-style-type: none;
-	border: 1px dotted #616161;
-	border-bottom-width: 0;
-	border-top-width: 0;
-	background:#fff;
-	overflow:hidden; zoom:1;
-}
-* html #leftmenu ul { border-style:solid; }
-#leftmenu ul li {
-	font: 12px/28px Arial, Verdana, sans-serif;
-	border-bottom:1px dotted #616161;
-	float:left; clear:left;
-	width:174px;
-	background:#fff;
-	overflow:hidden;
-}
-#leftmenu ul li.double-line {
-	line-height:18px;
-}
-* html #leftmenu ul li {
-	border-bottom-style:solid;
-}
-#leftmenu ul li a {
-	padding:0 0 0 15px;
-	color:#617f9d;
-	clear:left;
-	text-decoration:none;
-	float:left; clear:left;
-}
-#leftmenu ul li a:hover{font-weight: bold}
-#leftmenu ul li.active a{
-	padding-left: 15px;
-	font-weight: bold !important;
-	background: url(http://www.siriusdecisions.com/live/images/leftmenu_sel.jpg) no-repeat;
-}
-
-#leftsearch{
-	background-color: #bdd1e8;
-	width:176px;
-	height 42px;
-	clear:left;
-	padding: 5px 0 5px 0;
-}
-/* OLD VERSION
-#leftsearch input{
-	color: #4c719a;
-	font: 12px Arial, Verdana, Sans-serif;
-	padding: 3px;
-	_padding: 1px;
-	border: 1px solid #4f4f58;
-	margin-left: 10px;
-}
- END OLD VERSION, NEW VERSION BELOW: */
-
-#leftsearch input{
-    color: #4c719a;
-    font: 12px Arial, Verdana, Sans-serif;
-    padding: 1px;
-    border: 1px solid #4f4f58;
-    margin-left: 9px;
-}
-
-*:first-child+html #leftsearch input{margin-left: 5px; margin-right: 4px;}
-#leftsearch button{
-	width: 25px;
-	background: transparent;
-	color: #1d3958;
-	border: 1px dotted #1d3958;
-	font: .6em Verdana, Sans-serif;
-	padding: 2px;
-	text-transform: uppercase;
-	_margin-left: 2px;
-}
-#midcontent{
-	margin-top: 29px;
-	width: 650px;
-	float: right;
-	padding: 0 0 10px 0;
-	display: inline;
-	margin-left: 20px;
-	padding-right: 80px;
-	color: #6c6c6c; */
-	/* font: 10pt Arial, Verdana, Sans-serif; */
-	/* color: #b20838; */
-	/* block justify  - moved from p to here*/
-	text-align: justify;
-}
-
-
-/* OLD VERSION ---
-#midcontent ul li{
-	margin-left: 1em;
-	padding-bottom: 15px;
-}*/
-
-/* New Version: */
-#midcontent ul li{
-    margin-left: 1em;
-    padding-bottom: 6px;
-    line-height: 12pt;
-    text-align: justify;
-}
-
-
-#midcontent p{
-	font: 13px Verdana;
-	margin-bottom: 15px;
-	color: #6c6c6c;
-	/* block justify */
-	/* text-align: justify; MOVED TO MIDCONTENT*/
-}
-#midcontent a:link{
-	font: 13px Arial, Verdana, Sans-serif;
-	margin-top: 15px;
-	color: #617f9d;
-	text-decoration: none;
-}
-#midcontent a:hover{
-	font: 13px Arial, Verdana, Sans-serif;
-	margin-top: 15px;
-	color: #617f9d;
-	text-decoration: underline;
-}
-#midcontent a:visited{
-	font: 13px Arial, Verdana, Sans-serif;
-	margin-top: 15px;
-	color: #617f9d;
-	text-decoration: none;
-}
-#midcontent a:active{
-	font: 13px Arial, Verdana, Sans-serif;
-	margin-top: 15px;
-	color: #617f9d;
-	text-decoration: none;
-}
-
-#maincontent h2{
-	font: 13px Arial, Verdana, Sans-serif;
-	color: #b20838;
-}
-#innercontent.nohead{margin-top: 0px; _margin-top: 0;}
-#innercontent{
-	background-color: #f2f2f2;
-	padding: 0 0 4px 0;
-	margin-bottom: 20px;
-}
-#innerheader{
-	background-color: #d5dbe1;
-	height: 35px;
-}
-#innerheader h3{
-	color: #617f9d;
-	font: 13px Arial, Verdana, Sans-serif;
-	font-weight: bold;
-	padding-top: 10px;
-	margin-left: 20px;
-}
-#innercontent h4{
-	color: #617f9d;
-	font: 12px Arial, Verdana, Sans-serif;
-	font-weight: bold;
-	padding: 15px 19px 2px 19px;
-}
-.innertitle{
-	color: #000;
-	font: 12px Arial, Verdana, Sans-serif;
-	font-weight: bold !important;
-
-}
-#innercontent p{
-	font: 12px Arial, Verdana, Sans-serif;
-	padding: 0px 19px 10px 19px;
-}
-.line{
-	border-bottom: 1px solid #d7dce1;
-	margin: 0 19px 0 19px;
-
-}
-.page, .page a:link, .page a:visited{
-	text-align: center;
-	text-decoration: none;
-	color: #617f9d;
-	font: 12px Arial, Verdana, Sans-serif;
-	padding: 0 0 10px 0;
-	background-color: #fff;
-}
-.page a:link, .page a:visited{font-weight: bold;}
-.page a:hover{text-decoration: underline;}
-#contentleft{
-	width: 713px;
-	margin: 0 0 0 6px;
-	float: left;
-	display: inline;
-}
-#leftcontentwide{
-	margin-left:6px;
-	width: 712px;
-}
-#leftcontent {
-	margin:25px 20px 0 70px; width:550px;
-	font: 12px Arial, Verdana, Sans-serif;
-	/* afc */
-	padding-left: 5px;
-	padding-right: 5px;
-	color: #6c6c6c;
-}
-#leftcontent p{
-	font: 12px Arial, Verdana, Sans-serif;
-	color: #6c6c6c;
-	margin-bottom: 15px;
-}
-#subcontent{margin-top: 10px;} /* changed -10 to 10 per dean */
-#mainrow{
-	height:260px;
-	width: 100%;
-	overflow: hidden;
-}
-#subrow{
-	height: 220px;
-	width: 100%;
-	overflow: hidden
-}
-#mainrow #box1, #subrow #box4{
-	width: 274px;
-	display: block;
-	float: left;
-	clear: both;
-	margin-left: 20px;
-	border: 1px solid #d6d6d6;
-	display: inline
-}
-#mainrow #box3, #subrow #box6{
-	width: 185px;
-	display: block;
-	border: 1px solid #d6d6d6;
-	float: left;
-	margin-left: 15px;
-	display: inline;
-}
-#mainrow #box3{
-	/* border: 0 !important; */
-	border: 1px solid #d6d6d6;
-	background-color: #e3e8ee;
-}
-#mainrow #box2, #subrow #box5{
-	width: 185px;
-	display: block;
-	float: left;
-	margin-left: 15px;
-	border: 1px solid #d6d6d6;
-	display: inline;
-}
-#mainrow #box1, #mainrow #box2, #mainrow #box3{
-	height: 250px;
-	position: relative;
-}
-#subrow #box4, #subrow #box5, #subrow #box6{
-	height: 160px;
-	padding-bottom: 50px;
-	position: relative;
-}
-#box5 .boxtextarea{padding-top: 0px !important;margin-padding: 14px;}
-/* #box5 p{margin: 0 10px 0 10px} */
-#box5 p{margin: 0 0 0 0}
-#box5 #boxhead p{padding-left: 0 !important}
-.boxtextarea{padding: 15px 6px 2px 6px}
-.boxtextarea img{margin: 0 auto;}
-#box3 img{margin-left: 4px;}
-.smalltext{
-	color: #797878;
-	font: .7em Arial, Verdana, Sans-serif;
-	line-height: 16px;
-	/* NEW afc */
-	text-align: left;
-}
-.smalltext a:link, .smalltext a:visited{
-	font: 11px Arial;
-	color: #333333;
-	/* text-align: center; */
-	text-align: left;
-	display: block;
-	text-decoration: underline;
-}
-
-.smalltext a:hover{
-	text-decoration: none;
-}
-.navText{color: #797878;
-	font: .7em Arial, Verdana, Sans-serif;
-	line-height: 16px;}
-.navText a:link, .navText a:visited{
-	font: 11px Arial;
-	color: #333333;
-	text-decoration: underline;
-}
-.navText a:hover{
-	text-decoration: none;
-}
-.largertext{
-	color: #707070;
-	font: .8em Arial, Verdana, Sans-serif;
-}
-.redinfo{color: #ca3059 !important}
-#boxhead{
-	height: 29px;
-	background: url(http://www.siriusdecisions.com/live/images/mainheadbg.jpg) repeat-x;
-}
-#boxhead p{
-	color: #b20838;
-	font: 13px Arial, Verdana, Sans-serif;
-	font-weight: bold;
-	padding: 7px 0 0 10px;
-}
-#box3 #boxhead{border: 1px solid #d6d6d6;}
-.boxfoot{
-	width: 100%;
-	background-color: #bcbcbc;
-	position: absolute;
-	bottom: 0;
-}
-.boxfoot p{
-	font: 12px Arial, Verdana, Sans-serif;
-	color: #333333;
-	padding: 5px;
-}
-.boxfoot a:link, .boxfoot a:visited{
-	text-decoration: underline;
-	color: #333333;
-}
-.boxfoot a:hover{text-decoration: none;}
-.arrowl{
-	height:15px;
-	background: url(http://www.siriusdecisions.com/live/images/arrow.png) no-repeat;
-	position: relative;
-	left: 250px;
-	bottom: 13px;
-}
-.arrow{
-	height:15px;
-	background: url(http://www.siriusdecisions.com/live/images/arrow.png) no-repeat;
-	position: relative;
-	left: 160px;
-	bottom: 13px;
-}
-/*.nested{padding: 20px;}*/
-#clear-footer { height:30px; clear:both;}
-#footer{
-	width: 947px;
-	height: 30px;
-	background-color: #bcbcbc;
-	margin: 0 auto;
-	color: #6c6c6c;
-	clear:both;
-	text-align: center;
-}
-#footer ul{padding-top: 7px;}
-#footer ul li{
-	list-style-type: none;
-	display: inline;
-	color: #6c6c6c;
-	font: .7em Arial, Verdana, Sans-serif;
-}
-#footer ul li a:link, #footer ul li a:visited{
-	text-decoration: none;
-	color: #6c6c6c;
-	padding:0 12px;
-}
-#footer ul li a:hover{color:#262626}
-#clearboth{clear:both;	width: 959px; overflow: hidden;}
-
-/* Febuary 13th Changes */
-.homedate{font: 12px Arial; text-align: center; color: #666666; padding: 0 5px 0 5px; display: block}
-.hometitle{font: 13px Arial; text-align: center; display: block; color: #006699; font-weight: bold}
-.homesummary{font: 12px Arial; color: #525252; /* padding: 0 5px 0 5px; */}
-.browsedoctype{font: 13px Arial; font-weight: bold; color: #617f9d;}
-/* .browsetitle{font: 12px Arial; text-align: left; font-weight: bold; color: #1d3958;} */
-.browsedate{font: 12px Arial; text-align: left; font-weight: bold; color: #617f9d;}
-.browsesummary{font: 12px Arial; text-align: left; color: #525252;}
-
-/* Safari Fix */
-span.homesummary p,
-span.homesummary p font,
-span.homesummary div font{font: 12px Verdana !important;}
-
-span.browsesummary p,
-span.browsesummary p font,
-span.browsesummary div font{font: 12px Verdana !important;}
-
-/* p.browsesummary{font: 12px Verdana !important; color: #525252 !important; text-align: left}*/
-*:first-child + HTML #rightsearch INPUT {
-MARGIN-LEFT: 5px; MARGIN-RIGHT: 4px; padding: 1px;
-}
-#leftcontent ul{margin-left: 15px;}
-#leftcontent ul li{font: 12px Arial; color: #525252;}
-.welcome1 {font: 11px Arial, Verdana, Sans-serif !important; color: #1d3958}
-.welcome1 a:link, .welcome a:hover{font: 11px Arial;text-decoration: none;}
-#midcontent ul li{margin-left: 1em;}/* IE fix */
-
-/* ie6 png fix */
-
-.arrow, .arrowl{ behavior: url(iepngfix.htc); }
-
-/* March 1, 2008 - newly added CSS */
-#leftcontentwide object{position: relative; top: -29px;}
-.browsetitle, a.browsetitle{
-    font: bold 12px Arial !important; color: #1d3958 !important; text-align: left;
-}
-/** shopping cart styles */
-.shopping_cart_heading {
-	background-color: #F5F5F5;
-	font-size:7pt;
-	border-color:red;
-	border-bottom: 2px #036 solid;  border-top: 2px #036 solid
-
-}
-.shopping_cart_total_box {
-	background-color:#F5F5F5;
-	font-weight:bold;
-	
-}
-.shopping_cart_button {
-	background-image: url(images/shopping/blue-left.gif);font-family: verdana;
-	font-size: 11px;
-	font-weight: bold;
-	text-transform: uppercase;
-	text-decoration: none;
-	color: #000;
-	font-color:black;
-	cursor: pointer;
-	display: -moz-inline-box;
-	display: inline-block;
-	padding-left: 5px;
-	padding-bottom: 1px;
-	line-height: 19px;
-	background-position: lef top;
-	background-repeat: no-repeat;
-}
-span.shopping_cart_button_span {
-	background-image: url(images/shopping/blue-right.gif);padding-left: 10	px;
-		display: -moz-inline-box;
-		display: inline-block;
-		padding-right: 15px;
-		padding-bottom: 1px;
-		line-height: 19px;
-		background-position: right top;
-		background-repeat: no-repeat;
-}
-span.shopping_cart_button_large_span {
-	background-image: url(images/shopping/blue-right.gif);padding-left: 1	px;
-		display: -moz-inline-box;
-		display: inline-block;
-		padding-right: 5px;
-		padding-bottom: 1px;
-		line-height: 19px;
-		background-position: right top;
-		background-repeat: no-repeat;
-}
-
-span.shopping_cart_button_wide_span {
-	background-image: url(images/shopping/blue-right.gif);padding-left: 1	px;
-		display: -moz-inline-box;
-		display: inline-block;
-		padding-right: 5px;
-		padding-bottom: 1px;
-		line-height: 19px;
-		background-position: right top;
-		background-repeat: no-repeat;
-}
-span.ShoppingCartbuttonFontColor{
-	color: #000000;
-	font-color:black;
-}
-span.shopping_cart_button_span_large {
-	background-image: url(images/shopping/blue.right_large.gif);padding-left: 10	px;
-		display: -moz-inline-box;
-		display: inline-block;
-		padding-right: 5px;
-		padding-bottom: 1px;
-		line-height: 19px;
-		background-position: right top;
-		background-repeat: no-repeat;
-}
-span.shoppingCartHighlight {
-			color:red;
-}
-/* end shopping cart styles */
-
-.shopcart span {
-    background: transparent url("http://www.siriusdecisions.com/live/images/bg_button_span.gif") no-repeat;
-    display: block;
-    line-height: 14px;
-    padding: 5px 0 5px 18px;
-} 
-.shopcart {
-    background: transparent url("http://www.siriusdecisions.com/live/images/bg_button_a.gif") no-repeat scroll top right;
-    color: #000000;    
-    display: block;
-    float: left;
-    font: bold 12px arial, sans-serif;
-    height: 24px;
-    margin-right: 6px;
-    padding-right: 18px; /* sliding doors padding */
-    text-decoration: none;
-}
-</style>
-<!--Infotollgate Function File -->
-<script type="text/javascript" src="http://www.siriusdecisions.com/live/home/functions.js"></script>
-</head>
-<body><div align="center"></div>
-<div id="wrapper" class="clearfix">
-<a href="http://www.siriusdecisions.com/live/home/index.php" id="logo"><img src="http://www.siriusdecisions.com/live/images/logo.jpg" alt="SiriusDecisions"></a>
-	<div id="login">
-					<form id="login" style="margin: 0px;" name="login" action="http://www.siriusdecisions.com/live/home/index.php?P=login" method="post">
-<span>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="http://www.siriusdecisions.com/live/home/recoverpw.php">Forgot Password</a> &gt;&gt;</span>
-<input class="logininput" name="UserName" id="" value="">
-<input class="logininput" name="Password" type="password" value="">
-<p>Email &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Password</p>
-<table border="0" width="300" cellpadding="0" cellspacing="0">
-<tbody><tr valign="top"><td valign="top" align="left">			
-			<table style="margin-left:-3px;margin-top:-2px;"><tbody><tr><td><input type="checkbox" name="RememberMe" id="RememberMe" style="width:15px;"></td><td style="font-size:0.7em;font-family:Arial,Verdana,Sans-serif;">&nbsp;Remember Me</td>
-			<td border="0" align="left">&nbsp;				<input value="Login" name="Submit" type="submit">
-</td>
-			</tr></tbody></table>
+		<table id="PrimaryTable" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr><td id="MarketingGrayBackground">
+		<!-- <img src="http://www.siriusdecisions.com/live/images/sirius_template/Top_dot_pattern.png" width="100%" />-->		
+		
+		<div class="DotLine"></div>
 			
-		</td>
-
-
-<!--
-<td>
-<font size="1" face="verdana">&nbsp;<A HREF="http://sirius.icentera.com/portals/login.asp"><strong>&nbsp;Client Login</strong></A>&gt;&gt; </font>
-</td>
--->
-</tr>
-</tbody></table>
-</form>
-
-	</div>
-	<div id="clearboth">
-		<div id="navbar">
-			<ul id="nav">
-				<li class="div"><a href="http://www.siriusdecisions.com/live/home/index.php">Home</a></li>
-		<li class="div"><a href="http://www.siriusdecisions.com/live/home/Browse.php?CC=AdvisoryList&amp;dA=AdvisoryOverview&amp;FID=Marketing">Advisory</a></li>
-		<li class="div"><a href="http://www.siriusdecisions.com/live/home/document.php?dA=ConsultingOverview&amp;FID=Marketing">Consulting</a></li>
-		<li class="div"><a href="http://www.siriusdecisions.com/live/home/document.php?dA=SDLearningOverview">Learning</a></li>
-		<li class="div"><a href="http://www.siriusdecisions.com/live/home/Browse.php?CC=SiriusMedia&amp;dA=SiriusMedia&amp;FID=Marketing">Sirius Media</a></li>
-		<li class="div"><a href="http://blog.siriusdecisions.com/">Blog</a></li>
-		<li class="div"><a href="http://www.siriusdecisions.com/live/home/document.php?dA=InTheNews">Press Room</a></li>
-		<li class="div"><a href="http://www.siriusdecisions.com/live/home/document.php?dA=about&amp;FID=Marketing">About Us</a></li>
-		<li class="div"><a href="http://www.siriusdecisions.com/live/home/document.php?dA=Careers&amp;FID=Marketing">Careers</a></li>
-			</ul>
-		</div>
-		<div id="rightblue">
-		     <p>WHERE TO BEGIN</p>
-		</div>
-	</div>
-	<div id="rightcont">
-		<div id="rightnavcorp">
-		<ul>
-			<li><a href="http://www.siriusdecisions.com/live/home/register.php?RT=2&amp;dA=NewsletterSignUp&amp;SC=RegNews"><img src="http://www.siriusdecisions.com/live/images/1.jpg"></a></li>
-			<li><a href="http://www.siriusdecisions.com/live/home/Browse.php?CC=SampleResearch&amp;dA=SampleResearch&amp;FID=marketing&amp;CS=10&amp;TFID=marketing"><img src="http://www.siriusdecisions.com/live/images/2.jpg" border="0"></a></li>
-			<li><a href="http://www.siriusdecisions.com/live/home/contact.php?TO=sales"><img src="http://www.siriusdecisions.com/live/images/3.jpg"></a></li>
-<!--		<li><a href="http://www.siriusdecisions.com/live/home/Browse.php?CC=AttendWebcast&dA=AttendWebcast&FID=marketing"><img src="http://www.siriusdecisions.com/live/images/4.jpg" border="0"></a></li>
--->			<li><a href="http://www.siriusdecisions.com/live/home/Browse.php?CC=AllEvents&amp;dA=HomeEvents&amp;FID=marketing"><img src="http://www.siriusdecisions.com/live/images/4.jpg" border="0"></a></li>
-	    	<li><a href="http://www.siriusdecisions.com/live/home/document.php?dA=HomeConference"><img src="http://www.siriusdecisions.com/live/images/5.jpg" border="0"></a></li>
-<!--        <li><a href="http://guest.summit.sd-2.com/.index.phtml"><img src="http://www.siriusdecisions.com/live/images/5.jpg" border="0"></a></li>
--->
-
-<!--		<li><a href="http://www.siriusdecisions.com/live/home/document.php?dA=RequestBriefing"><img src="http://www.siriusdecisions.com/live/images/6.jpg" border="0"></a></li>
--->		    <li><a href="http://www.siriusdecisions.com/live/home/contact.php?TO=Request a Briefing"><img src="http://www.siriusdecisions.com/live/images/6.jpg" border="0"></a></li>
-		</ul>
-	</div>
-		<div id="rightsearch">
-			<form name="search" method="post" action="http://www.siriusdecisions.com/live/home/Search.php?dT=Brief,Chart,Conference Presentation,Core Strategy Report,Forum Presentation,Marketing,Newsletter,Select Practice,Vendor Profile,Webcast Open">
-				<span>SEARCH</span>
-				<input type="text" name="SearchTerms" id="SearchTerms" size="15">
-				<input type="submit" name="Submit" value="Go">
+			<table id="MarketingInnerTable1" width="960" border="0" align="center" cellpadding="0" cellspacing="0">			
+			  <tbody><tr>
+			    <td>			    	
+							<div style="width:960px;padding-top:15px;height:68px;">
+	<table width="960px" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td>			
+				<a href="http://www.siriusdecisions.com"><div id="SiriusLogo"></div></a>					    		
+			</td>
+			<td>
+						<div style="float:right;width:327px;text-align:right;">															    		
+			<form action="http://www.siriusdecisions.com/live/home/index.php?P=login" method="post" name="login">
+				<input type="text" name="UserName" id="UserName" class="EmailBox" value="Email | Username" onfocus="if(this.value==this.defaultValue) {this.value='';}" onblur="if(this.value=='') {this.value=this.defaultValue; document.getElementById('Password').value =''; document.getElementById('Password').style.backgroundImage='url(http://www.siriusdecisions.com/dev112/images/sirius_template/Top_password_textbox.png)';}" onkeypress="document.getElementById('Password').style.backgroundImage='url(http://www.siriusdecisions.com/dev112/images/sirius_template/Top_textbox.png)';"> 
+				<span style="padding-left:5px;"><input type="password" name="Password" id="Password" class="PasswordBox" value="" onfocus="if(this.value==this.defaultValue) this.style.backgroundImage='url(http://www.siriusdecisions.com/dev112/images/sirius_template/Top_textbox.png)';" onblur="if(this.value=='') this.style.backgroundImage='url(http://www.siriusdecisions.com/dev112/images/sirius_template/Top_password_textbox.png)';"> </span>
+				<span style="padding-left:5px;"><input type="submit" name="submit" value="LOGIN" class="LoginBox"></span>				
+				<div style="text-align:left;"><input type="checkbox" name="RememberMe" id="RememberMe" style=""><span class="TopRightLinks">Remember Me</span></div>
 			</form>
-			
+			<div style="float:right;padding-top:10px;width:324px;text-align:right;display:block;" class="TopRightLinks">					
+				<a href="http://www.siriusdecisions.com/live/home/recoverpw.php"><span class="TopRightLinks">Forgot Password</span></a> <span class="TopRightLinksSeparator">|</span> <a href="http://www.siriusdecisions.com/live/home/MyAccount.php?disp=orders"><span class="TopRightLinks">My Account</span></a> <span class="TopRightLinksSeparator">|</span> <a href="http://www.siriusdecisions.com/live/home/contact.php"><span class="TopRightLinks">Contact</span></a>
+			</div>
+		</div>		
+				    			
 
+			</td>
+		</tr>
+	</tbody></table>
+</div>			    					    		
+
+							<div style="padding-top:14px;"></div>
+														<div id="NavigationBar">
+							   <ul class="topnav">				
+									<li id="Home"> <a href="http://www.siriusdecisions.com" title="Home">Home</a></li>									
+									<li class="NavigationLinksSeparator"><img src="http://www.siriusdecisions.com/dev112/images/sirius_template/Top_NavigationBackground_DotRules_strip.png"></li>
+																   													
+									<li id="Research"> <a href="http://www.siriusdecisions.com/live/home/Browse.php?CC=AdvisoryList&amp;dA=AdvisoryOverview&amp;FID=Marketing" title="Research">Research</a></li>									
+									<li class="NavigationLinksSeparator"><img src="http://www.siriusdecisions.com/dev112/images/sirius_template/Top_NavigationBackground_DotRules_strip.png"></li>
+									
+									<li id="Consulting"><a href="http://www.siriusdecisions.com/live/home/document.php?dA=ConsultingOverview&amp;FID=Marketing" title="Consulting">Consulting</a></li>								
+									<li class="NavigationLinksSeparator"><img src="http://www.siriusdecisions.com/dev112/images/sirius_template/Top_NavigationBackground_DotRules_strip.png"></li>
+									
+									<li id="Learning"><a href="http://www.siriusdecisions.com/live/home/document.php?dA=SDLearningOverview" title="Learning">Learning</a></li>									
+									<li class="NavigationLinksSeparator"><img src="http://www.siriusdecisions.com/dev112/images/sirius_template/Top_NavigationBackground_DotRules_strip.png"></li>									
+									
+									<li id="Blog"><a href="http://blog.siriusdecisions.com/" title="Blog">Blog</a></li>									
+									<li class="NavigationLinksSeparator"><img src="http://www.siriusdecisions.com/dev112/images/sirius_template/Top_NavigationBackground_DotRules_strip.png"></li>											
+									
+									<li id="Press"><a href="http://www.siriusdecisions.com/live/home/document.php?dA=InTheNews" title="Press">Press</a></li>									
+									<li class="NavigationLinksSeparator"><img src="http://www.siriusdecisions.com/dev112/images/sirius_template/Top_NavigationBackground_DotRules_strip.png"></li>
+									
+									<li id="About Us"> <a href="http://www.siriusdecisions.com/live/home/document.php?dA=about&amp;FID=Marketing" title="About Us">About Us</a></li>									
+									<li class="NavigationLinksSeparator"><img src="http://www.siriusdecisions.com/dev112/images/sirius_template/Top_NavigationBackground_DotRules_strip.png"></li>
+									
+									<li id="Careers"> <a href="http://www.siriusdecisions.com/live/home/document.php?dA=Careers&amp;FID=Marketing" title="Careers">Careers</a></li>									
+							  </ul>								
+										<div id="SearchBar"> 
+			<form action="http://www.siriusdecisions.com/live/home/eSearch.php?SCONFIG=mSearchConfig" method="POST">
+				<input type="text" name="Search" id="SearchBarText" value="Site Search" onfocus="if(this.value==this.defaultValue) this.value='';" onblur="if(this.value=='') this.value=this.defaultValue;">	
+				<input type="submit" name="SearchSubmit" id="SearchBarSubmit" value="">														
+			</form>
+		</div>								
+							</div>													
+			    </td>
+			  </tr>
+			  
+			</tbody></table>
+	</td>
+	</tr>
+	<tr>
+		<td>
+			<table id="MarketingInnerTable2" width="960" border="0" align="center" cellpadding="0" cellspacing="0">		
+				<tbody><tr>
+					<td style="width:715px;vertical-align:top;">
+														
+							<!--
+								<div id="MarketingBreadCrumbs">
+									<div id="MarketingBreadCrumbsText">Home  >  Research  >  <div id="MarketingBreadCrumbsSelectedText">Advisory Overview</div></div>
+								</div>
+							-->
+							<span class="pageMessageDisplay"></span><span class="errorMessageDisplay"></span><span class="dTypeLabelDisplay"></span>
+							<div id="MarketingBodyAlignment">
+								<table width="100%" border="0" cellpadding="0" cellspacing="0" valign="top">
+									<tbody><tr>
+											<td style="width:225px;padding-top:5px;vertical-align:top;padding-right:20px;">				
+		<div class="SiteSideBarBoxHeader"></div>					
+		<div class="SiteSideBarBoxBody" style="background-color:#ECEDEE;">			
+			<div class="SiteSideBarBoxBodyAlignment">							
+				<div class="dSideBarLabelDisplay">Questions or Comments?</div>                                    		                
+				<div class="dSideContentTextDisplay" style="margin-top:10px;">
+							 <p>If you have any questions about our Privacy Policy, please do not hesitate to <a href="http://www.siriusdecisions.com/live/home/contact.php">contact us</a>.</p>
+				</div>																			
+			</div>			
 		</div>
-	</div>
-<div id="leftcontentwide">
-	<div id="leftcontent">
-		<h2>Online Privacy Policy</h2>
-		<p>
-		<span class="pageMessageDisplay"></span><span class="errorMessageDisplay"></span></p><p><strong><span>Information Collection and Use</span><span> </span><br>
+		<div class="SiteSideBarBoxFooter"></div>
+	</td>
+										<td style="width:470px;vertical-align:top;">																						
+											<span class="dTitleLabelDisplay"><h1>Online Privacy Policy</h1></span>						
+											<div style="padding-top:10px;">					
+												    	<span class="mainTextDisplay"><p><strong><span>Information Collection and Use</span><span> </span><br>
 </strong><span><span>When you register on SiriusDecisions Web site(s), or for SiriusDecisions events, or purchase products, we ask you for personal information. We use this information to provide you with the best advice and highest-quality service as well as with offers that we think are relevant to you. We may also contact you regarding a Web site problem or other customer service-related issues. </span><br>
 <br>
 <span>SiriusDecisions does not market to children and does not knowingly collect personal information from children on SiriusDecisions Web sites. </span><br>
@@ -1021,47 +235,139 @@ SiriusDecisions and its affiliates will make every effort to prevent against a s
 <p><span>We will notify you about significant changes to our Privacy Policy by placing a prominent notice on our Web site, and in some instances, we may send a notice to the primary e-mail address specified in your user profile. </span><br>
 <br>
 <span><strong>Contact SiriusDecisions</strong><br>
-<span>If you would like to be taken off our marketing lists, please send an e-mail to <a href="mailto:info15@SiriusDecisions.com"><span>info15@SiriusDecisions.com</span></a>, or write to us at SiriusDecisions, Attention: Privacy Dept, 187 Danbury Road, Wilton, CT 06897.</span></span></p>
-		<!-- {CommentForm}  -->
-		
-		<p>
-		<span class="Segment5TextDisplay"></span>
-		</p>
-		<p>
-		<span class="Segment5TextDisplay"></span>
-		</p>
+<span>If you would like to be taken off our marketing lists, please send an e-mail to <a href="mailto:info15@SiriusDecisions.com"><span>info15@SiriusDecisions.com</span></a>, or write to us at SiriusDecisions, Attention: Privacy Dept, 187 Danbury Road, Wilton, CT 06897.</span></span></p></span><span class="Segment3TextDisplay"></span><span class="Segment4TextDisplay"></span><span class="Segment5TextDisplay"></span></div>
+															
+											
+										</td>
+									</tr>											
+								</tbody></table>
+	                <div>
 
-	</div>
+									</div>
+							</div>						
 
-</div>
-	<div id="clear-footer"></div>
-</div>
+					</td>
+					<td style="width:225px;padding-left:20px;vertical-align:top;padding-top:15px;">
+							<div class="MarketingRightSideBoxHeader"></div>
+							<div class="MarketingRightSideBoxBody">
+								<div class="MarketingRightSideBoxBodyAlignment">
+									<div><a href="http://www.siriusdecisions.com/live/downloads/Sirius2012SummitRegistrationFormV1c.xls"><img border="0" alt="" src="http://www.siriusdecisions.com/live/images//sirius_template/summit_2012_small.jpg"></a></div>
+								</div>
+							</div>
+							<div class="MarketingRightSideBoxFooter"></div>
 
-<div id="footer">
-	<ul>
-		<li><a href="http://www.siriusdecisions.com/live/home/index.php">Corporate Home</a></li>|
-		<li><a href="http://www.siriusdecisions.com/live/home/document.php?dA=privacy&amp;FID=Marketing">Privacy</a></li>|
-		<li><a href="http://www.siriusdecisions.com/live/home/document.php?dA=terms&amp;FID=Marketing">Terms</a></li>|
-		<li><a href="http://www.siriusdecisions.com/live/home/contact.php?FID=Marketing">Contact Us</a></li>|
-		<li><a href="MyAccount.php?disp=membership&amp;FID=marketing">My Account</a></li>|
-		<li><a href="http://www.siriusdecisions.com/live/home/shopping_cart_present.php">Shopping Cart</a></li>|
-		
-		
-		
-		
-		
+							<div class="MarketingRightSideBoxHeader"></div>
+							<div class="MarketingRightSideBoxBody">
+								<div class="MarketingRightSideBoxBodyAlignment">
+										<div style="width:211px;height:170px;background-color:#ECEDEE;">
+<div style="padding-left:3px;padding-top:3px;">
+<div style="font-size:15pt;font-family: Georgia,Arial, verdana, Helvetica, sans-serif;color: #36424A;border-bottom: 1px dotted  #828a8f;width:203px;padding-bottom: 10px;">How Can We Help?</div>
+<ul class="topnav">
+    <li style="background:url('http://www.siriusdecisions.com/live//images/sirius_template/RightSideBoxButtons.png')" class="RightHeaderButtons" id="ResearchServices">
+    <div class="AdjustRightHeader"><a class="RightHeaderButtonsText" title="Research Services" href="javascript:void(0);">Research Services</a>
+    <ul class="subnav" id="ResearchServicesNav">
+        <li><a href="http://www.siriusdecisions.com/live/home/Browse.php?CC=AdvisoryList&amp;dA=AdvisoryOverview&amp;FID=Marketing">Research Overview</a></li>
+        <li><a href="http://www.siriusdecisions.com/live/home/Browse.php?CC=RecentCMS&amp;dA=AllChannelManagementStrategies&amp;FID=marketing">Channel Management Strategies</a></li>
+        <li><a href="http://www.siriusdecisions.com/live/home/Browse.php?CC=RecentDCS&amp;dA=AllDemandCreationStrategies&amp;FID=marketing">Demand Creation Strategies</a></li>
+        <li><a href="http://www.siriusdecisions.com/live/home/Browse.php?CC=RecentEECMO&amp;dA=AllEECMO&amp;FID=marketing">Executive Edge CMO</a></li>
+        <li><a href="http://www.siriusdecisions.com/live/home/Browse.php?CC=RecentMOS&amp;dA=AllMarketingOperationsStrategies&amp;FID=marketing">Marketing Operations Strategies</a></li>
+        <li><a href="http://www.siriusdecisions.com/live/home/Browse.php?CC=RecentPMM&amp;dA=AllProductMarketingandManagement&amp;FID=marketing">Product Marketing and Management</a></li>
+        <li><a href="http://www.siriusdecisions.com/live/home/Browse.php?CC=RecentRMS&amp;dA=AllReputationManagementStrategies&amp;FID=marketing">Reputation Management Strategies</a></li>
+        <li><a href="http://www.siriusdecisions.com/live/home/Browse.php?CC=RecentSES&amp;dA=AllSalesEnablementStrategies&amp;FID=marketing">Sales Enablement Strategies</a></li>
+        <li class="last-item"><a href="http://www.siriusdecisions.com/live/home/Browse.php?CC=RecentSOSN&amp;dA=AllSalesOperationsStrategies&amp;FID=marketing">Sales Operations Strategies</a></li>
+    </ul>
+    </div>
+    </li>
+    <li style="background-color:#84888E;width:192px;height:29px;z-index:1;margin:0;padding:0;margin-top:6px;" id="ConsultingServices">
+    <div class="AdjustRightHeader"><a class="RightHeaderButtonsText" title="Consulting Services" href="http://www.siriusdecisions.com/live/home/document.php?dA=ConsultingOverview">Consulting Services</a> 	<!--
+		<ul id="ConsultingServicesNav" class="subnav">
+			<li ><a href="">Workshops</a></li>
+			<li ><a href="">Assessments</a></li>
+			<li class="last-item" ><a   href="" >Custom</a></li>
+		</ul>
+	--></div>
+    </li>
+    <li style="background:url('http://www.siriusdecisions.com/live//images/sirius_template/RightSideBoxButtons.png')" class="RightHeaderButtons" id="LearningCourses">
+    <div class="AdjustRightHeader"><a class="RightHeaderButtonsText" title="Learning Courses" href="javascript:void(0);">Learning Courses</a>
+    <ul class="subnav" id="LearningCoursesNav">
+        <li><a href="http://www.siriusdecisions.com/live/home/document.php?dA=SDLearningOverview">Learning Overview</a></li>
+        <li><a href="http://www.siriusdecisions.com/live/home/document.php?dA=SDLearningFoundationsCourseDetail2">Foundations for Best Practices in Demand Creation</a></li>
+        <li><a href="http://www.siriusdecisions.com/live/home/document.php?dA=SDLearningLeadNurtureCourseDetail">Best Practices in B-to-B Lead Nurturing</a></li>
+        <li><a href="http://www.siriusdecisions.com/live/home/document.php?dA=SDLearningMsgCmpgnPlnngCourseDetail">Messaging and Campaign Planning</a></li>
+        <li><a href="http://www.siriusdecisions.com/live/home/document.php?dA=SDLearningPipeAccelCourseDetail">Pipeline Acceleration</a></li>
+        <li class="last-item"><a href="http://www.siriusdecisions.com/live/home/document.php?dA=SDLearningABMCourseDetail">Account-Based Marketing</a></li>
+    </ul>
+    </div>
+    </li>
 </ul>
-	<ul>
-<li><font color="#FFFFFF"><p><strong><font color="#FFFFFF" size="1"><span class="copyrightFormat">Copyright © 2011 SiriusDecisions. All rights reserved. No portion of this site may be copied or distributed by any means,<br> including electronic distribution without the express written consent of SiriusDecisions.</span></font></strong></p></font></li>
-</ul>
-<ul>
-<li><font color="#FFFFFF">Powered by</font><a href="http://www.infotollgate.com/" target="_blank"><font color="#FFFFFF"><u>InfoTollgate FastLane 5.0</u></font></a></li><font color="#FFFFFF">
-|
-<li><font color="#FFFFFF">Graphic Design by</font><a href="http://www.spiderwebstudio.com/" target="_blank"><font color="#FFFFFF"><u>SpiderWeb Studio</u></font></a></li>
-</font></ul><font color="#FFFFFF">
-<script type="text/javascript" language="javascript">llactid=13801</script><script type="text/javascript" language="javascript" src="http://t5.trackalyzer.com/trackalyze.js"></script>
-</font></div><font color="#FFFFFF">
+</div>
+</div>
+									</div>
+								</div>
+	
+							<div class="MarketingRightSideBoxFooter"></div>
 
+							<div class="MarketingRightSideBoxHeader"></div>
+							<div class="MarketingRightSideBoxBody">
+								<div class="MarketingRightSideBoxBodyAlignment">
+									<div><a href="http://www.siriusdecisions.com/live/home/register.php?RT=2&amp;dA=NewsletterSignUp&amp;SC=RegNews"><img border="0" src="http://www.siriusdecisions.com/live/images/SignUpFree.png" alt="Sign up"></a></div>
+								</div>
+							</div>
+							<div class="MarketingRightSideBoxFooter"></div>
+							
+
+							
+							
+
+					</td>				
+				</tr>				
+			</tbody></table>
+					
+			
+		</td>
+	</tr>
+		<tr>
+		<td id="SiteInnerTable3TD">
+		</td>
+	</tr>	
+	<tr>
+		<td>
+			<div class="DotLine"></div>
+		</td>
+	</tr>
+	<tr>
+		<td id="SiteInnerTable4TD">
+			<table id="SiteInnerTable4" width="960" border="0" align="center" cellpadding="0" cellspacing="0">		
+				<tbody><tr>
+					<td>
+						<table border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td>
+									<span class="bottomNavLinks">	<a href="http://www.siriusdecisions.com/live/home/index.php" class="bottomNavLinks">Corporate Home </a><span valign="abscenter">	<b>&nbsp;&nbsp;<span class="bottomNavLinks">|</span>&nbsp;&nbsp;</b><a href="http://www.siriusdecisions.com/live/home/document.php?dA=privacy&amp;FID=Marketing" class="bottomNavLinks">Privacy </a><span valign="abscenter">	<b>&nbsp;&nbsp;<span class="bottomNavLinks">|</span>&nbsp;&nbsp;</b><a href="http://www.siriusdecisions.com/live/home/document.php?dA=terms&amp;FID=Marketing" class="bottomNavLinks">Terms </a><span valign="abscenter">	<b>&nbsp;&nbsp;<span class="bottomNavLinks">|</span>&nbsp;&nbsp;</b><a href="http://www.siriusdecisions.com/live/home/document.php?dA=about&amp;FID=Marketing" class="bottomNavLinks">About SiriusDecisions </a><span valign="abscenter">	<b>&nbsp;&nbsp;<span class="bottomNavLinks">|</span>&nbsp;&nbsp;</b><a href="http://www.siriusdecisions.com/live/home/contact.php?FID=Marketing" class="bottomNavLinks">Contact Us </a><span valign="abscenter">	<b>&nbsp;&nbsp;<span class="bottomNavLinks">|</span>&nbsp;&nbsp;</b><a href="MyAccount.php?disp=orders" class="bottomNavLinks">My Account </a><span valign="abscenter">	<b>&nbsp;&nbsp;<span class="bottomNavLinks">|</span>&nbsp;&nbsp;</b><a href="http://www.siriusdecisions.com/live/home/shopping_cart_present.php" class="bottomNavLinks">Shopping Cart </a><span valign="abscenter"></span>
+								</span></span></span></span></span></span></span></td>
+								<td style="padding-left:10px;vertical-align:top">
+								<span class="bottomNavLinks" style="display:inline-table">|</span></td>
+								<td style="padding-left:10px;vertical-align:top"><a href="http://www.twitter.com/siriusdecisions" target="_blank"><div id="TwitterBottomNavBar"></div></a></td>
+								<td style="padding-left:10px;vertical-align:top"><a href="http://www.facebook.com/pages/SiriusDecisions/205216604696" target="_blank"><div id="FacebookBottomNavBar"></div></a></td>
+								<td style="padding-left:10px;vertical-align:top"><a href="http://www.linkedin.com/companies/siriusdecisions?trk=co_search_results&amp;goback=%2Ecps_1258054262910_1" target="_blank"><div id="LinkedInBottomNavBar"></div></a></td>
+								<td style="padding-left:10px;vertical-align:top"><a href="http://www.youtube.com/user/SiriusDecisions?ob=5" target="_blank"><div id="YouTubeBottomNavBar"></div></a></td>
+								
+								
+							</tr>
+						</tbody></table>
+							<div class="copyrightFormat" style="float:right;">© 2008-2011 SiriusDecisions Inc.</div>
+
+						<div class="SiteInnerTable4BoldText" style="margin-top:6px;">Call us at today at +1.203.665.4000</div>
+						<br>
+						<div style="float:right;"><span class="infoTollgateTagLine" style="font-size:11px;">Powered by the leading 
+<a href="http://www.trainingjumpstart.com/" class="bottomNavLinks" style="font-size:11px;text-decoration: underline;color:#C5C7C6;">e-learning software</a> system, <span onmouseover="Tip('<b>Training JumpStart Portal Release 11.3</b> installed or upgraded for <u>www.siriusdecisions.com</u> on October 29, 2011. Training Jumpstart delivers branded training portals allowing companies to produce, deploy, sell and manage online, on-demand training and testing.', BALLOON, true, FADEIN, 400, FADEOUT, 400, ABOVE, true, WIDTH, 260, PADDING, 8, FONTSIZE, '10px')" onmouseout="UnTip()">Training JumpStart</span>, Creative design by <a href="http://www.taylordesign.com/" style="font-size:11px;text-decoration: underline;color:#C5C7C6;">Taylor Design</a>.
+</span></div>
+					</td>
+				</tr>
+			</tbody></table>			
+		</td>
+	</tr>		
+</tbody></table>
 <!-- Start of HubSpot Logging Code  -->
 <script type="text/javascript" language="javascript">
 var hs_portalid=55227;
@@ -1071,6 +377,6 @@ document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + 
 </script><script src="https://siriusdecisions.app5.hubspot.com/salog.js.aspx" type="text/javascript"></script>
 <!-- End of HubSpot Logging Code -->
 <script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
-<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1576&amp;ref2=elqNone&amp;tzo=0&amp;ms=803" border="0" width="1" height="1"></layer>
+<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1576&amp;ref2=elqNone&amp;tzo=0&amp;ms=766" border="0" width="1" height="1"></layer>
 
-</font></body></html>
+</body></html>
