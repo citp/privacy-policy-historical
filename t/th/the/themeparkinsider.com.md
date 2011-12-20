@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themeparkinsider.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618013538id_/http%3A//www.themeparkinsider.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeparkinsider.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220075137id_/http%3A//www.themeparkinsider.com/privacy) for the most accurate reproduction.*
 
 # Protecting Your Privacy on Theme Park Insider
 
@@ -43,5 +43,9 @@ Again, this site is a community. If you are uncomfortable participating as a pub
 Thanks for visiting,  
 [Robert Niles](http://www.themeparkinsider.com/contact/), Founder and Editor, ThemeParkInsider.com
 
+**"A must read for any Disney fan!"** |  [](http://www.amazon.com/gp/product/B005CK59EU/ref=as_li_ss_tl?ie=UTF8&tag=statistieverywri&linkCode=as2&camp=217145&creative=399373&creativeASIN=B005CK59EU)  
+---|---  
+["Stories from a Theme Park Insider"](http://www.amazon.com/gp/product/B005CK59EU/ref=as_li_ss_tl?ie=UTF8&tag=statistieverywri&linkCode=as2&camp=217145&creative=399373&creativeASIN=B005CK59EU) includes 40 stories about life working at Walt Disney World's Magic Kingdom, in a feel-good book any theme park fan will love. Download a sample from [Amazon.com](http://www.amazon.com/gp/product/B005CK59EU/ref=as_li_ss_tl?ie=UTF8&tag=statistieverywri&linkCode=as2&camp=217145&creative=399373&creativeASIN=B005CK59EU) or Apple's [iBooks](http://itunes.apple.com/us/book/isbn9780983813002) today!  
+  
   
 
