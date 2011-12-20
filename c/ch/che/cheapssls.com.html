@@ -1,19 +1,20 @@
-<!--The following is the downloaded HTML source of the cheapssls.com privacy policy that was archived on 2011-02-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110204050438id_/http%3A//www.cheapssls.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cheapssls.com privacy policy that was archived on 2011-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111220081914id_/http%3A//www.cheapssls.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
-<title>CheapSSLs: Privacy Policy</title>
-
-
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="Content-Language" content="en">
-<meta name="description" content="Feel free contact with questions might have find that your question already been answered FAQ/ Knowledgebase send your message using form below email directly support@cheapssls">
-<meta name="keywords" content="cheap ssl certificates,rapidssl,positivessl,comodo,geotrust,wildcard,multi domain ssl,quickssl,quickssl premium,premiumssl,ev ssl,extended validation certificate">
-<meta name="robots" content="index, all">
+<title>CheapSSLs.com Privacy Policy (TRUSTe Compliant)</title>
 
 <base href="http://www.cheapssls.com/">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="en">
+<meta name="description" content="This privacy statement discloses the privacy practices for the site www.cheapssls.com. We have created this privacy statement in order to demonstrate our commitment to you, our customer. ">
+<meta name="keywords" content="cheap ssl certificates,rapidssl,positivessl,comodo,geotrust,wildcard,multi domain ssl,quickssl,quickssl premium,premiumssl,ev ssl,extended validation certificate">
+
+
 <link href="/skins/basic/customer/images/icons/favicon.ico" rel="shortcut icon">
 
+
+<link href="/skins/basic/customer/css/ui/jqueryui.css" rel="stylesheet" type="text/css">
 <link href="/skins/basic/customer/styles.css" rel="stylesheet" type="text/css">
 <link href="/skins/basic/customer/print.css" rel="stylesheet" media="print" type="text/css">
 <link href="/skins/basic/customer/dropdown.css" rel="stylesheet" type="text/css">
@@ -21,42 +22,67 @@
 <link href="/skins/basic/customer/styles_ie.css" rel="stylesheet" type="text/css" />
 <![endif]-->
 
+
+<link href="/skins/basic/customer/addons/product_configurator/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/basic/customer/addons/news_and_emails/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/basic/customer/addons/discussion/styles.css" rel="stylesheet" type="text/css">
 <link href="/skins/basic/customer/addons/hot_deals_block/styles.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="/lib/jquery/jquery.js"></script>
+
+
+
+<script type="text/javascript" async="" src="https://dc.skyglue.com/sgtracker.js"></script><script type="text/javascript" src="/lib/js/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="/lib/js/jqueryui/jquery-ui.custom.min.js"></script>
+<script type="text/javascript" src="/lib/js/tools/tooltip.min.js"></script>
+<script type="text/javascript" src="/lib/js/appear/jquery.appear-1.1.1.js"></script>
+
+<script type="text/javascript" src="/js/editors/ckeditor.editor.js"></script>
+
 <script type="text/javascript" src="/js/core.js"></script>
 <script type="text/javascript" src="/js/ajax.js"></script>
 <script type="text/javascript">
 //<![CDATA[
 var index_script = 'index.php';
+var current_path = '';
+var changes_warning = 'Y';
 
 var lang = {
 	cannot_buy: 'You cannot buy the product with these option variants ',
 	no_products_selected: 'No products selected',
-	error_no_items_selected: 'No items selected! At least one checkbox must be ticked off to perform this action.',
+	error_no_items_selected: 'No items selected! At least one check box must be selected to perform this action.',
 	delete_confirmation: 'Are you sure you want to delete the selected items?',
-	text_out_of_stock: 'Out of stock',
+	text_out_of_stock: 'Out-of-stock',
+	in_stock: 'In stock',
 	items: 'item(s)',
 	text_required_group_product: 'Please select a product for the required group [group_name]',
 	notice: 'Notice',
 	warning: 'Warning',
 	loading: 'Loading...',
 	none: 'None',
-	text_are_you_sure_to_proceed: 'Are you sure you want to proceed? ',
+	text_are_you_sure_to_proceed: 'Are you sure you want to proceed?',
 	text_invalid_url: 'You have entered an invalid URL',
-	text_cart_changed: 'Items in the shopping cart have been changed. Please press \"OK\" to save changes or \"Cancel\" to leave items unchanged.',
-	error_validator_email: 'The e-mail address in the <b>[field]<\/b> field is invalid.',
-	error_validator_confirm_email: 'The e-mail addresses in the <b>[field]<\/b> and confirmation fields do not match.',
+	text_cart_changed: 'Items in the shopping cart have been changed. Please click on \"OK\" to save changes, or on \"Cancel\" to leave the items unchanged.',
+	error_validator_email: 'The email address in the <b>[field]<\/b> field is invalid.',
+	error_validator_confirm_email: 'The email addresses in the <b>[field]<\/b> field and confirmation fields do not match.',
 	error_validator_phone: 'The phone number in the <b>[field]<\/b> field is invalid. The correct format is (555) 555-55-55 or 55 55 555 5555.',
 	error_validator_integer: 'The value of the <b>[field]<\/b> field is invalid. It should be integer.',
-	error_validator_multiple: 'The <b>[field]<\/b> field does not have selected options.',
+	error_validator_multiple: 'The <b>[field]<\/b> field does not contain the selected options.',
 	error_validator_password: 'The passwords in the <b>[field2]<\/b> and <b>[field1]<\/b> fields do not match.',
 	error_validator_required: 'The <b>[field]<\/b> field is mandatory.',
 	error_validator_zipcode: 'The ZIP / Postal code in the <b>[field]<\/b> field is incorrect. The correct format is [extra].',
 	error_validator_message: 'The value of the <b>[field]<\/b> field is invalid.',
-	text_page_loading: 'Loading... Your request is being processed, please wait.'
+	text_page_loading: 'Loading... Your request is being processed, please wait.',
+	view_cart: 'View cart',
+	checkout: 'Checkout',
+	product_added_to_cart: 'Product was added to your cart',
+	products_added_to_cart: 'Products were added to your cart',
+	product_added_to_wl: 'Product was added to your Wish list',
+	product_added_to_cl: 'Product was added to your Compare list',
+	close: 'Close',
+	error: 'Error',
+	error_ajax: 'Oops, something went wrong ([error]). Please try again.',
+	text_changes_not_saved: 'Your changes have not been saved.',
+	text_data_changed: 'Your changes have not been saved.\n\nPress OK to continue, or Cancel to stay on the current page.'
 }
-
-var warning_mark = "&lt;&lt;";
 
 var currencies = {
 	'primary': {
@@ -73,12 +99,15 @@ var currencies = {
 	}
 };
 
+var default_editor = 'ckeditor';
+var default_previewer = 'fancybox';
+
 var cart_language = 'EN';
 var images_dir = '/skins/basic/customer/images';
+var skin_name = 'basic';
+var notice_displaying_time = 5;
 var cart_prices_w_taxes = false;
 var translate_mode = false;
-var iframe_urls = new Array();
-var iframe_extra = new Array();
 var regexp = new Array();
 $(document).ready(function(){
 	jQuery.runCart('C');
@@ -95,53 +124,60 @@ $(document).ready(function(){
 	$('ul.dropdown li').hover(function(){
 		$(this).addClass('hover');
 		$('> .dir',this).addClass('open');
-		$('ul:first',this).css('visibility', 'visible');
+		$('ul:first',this).css('display', 'block');
 	},function(){
 		$(this).removeClass('hover');
 		$('.open',this).removeClass('open');
-		$('ul:first',this).css('visibility', 'hidden');
+		$('ul:first',this).css('display', 'none');
 	});
 });
 //]]>
 </script>
 <![endif]-->
 
-</head>
+
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+var cot_loc0=(window.location.protocol == "https:")? "https://secure.comodo.net/trustlogo/javascript/cot.js" :
+"http://www.trustlogo.com/trustlogo/javascript/cot.js";
+document.writeln('<scr' + 'ipt language="JavaScript" src="'+cot_loc0+'" type="text\/javascript">' + '<\/scr' + 'ipt>');
+//]]>
+</script><script language="JavaScript" src="https://secure.comodo.net/trustlogo/javascript/cot.js" type="text/javascript"></script>
+
+
+<script src="https://ssl.google-analytics.com/ga.js" async="true"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script><script src="https://cdn.uservoice.com/javascripts/widgets/tab.js"></script></head>
 
 <body>
 <div class="helper-container">
 	<a name="top"></a>
 	
 <div id="ajax_loading_box" class="ajax-loading-box"><div class="right-inner-loading-box"><div id="ajax_loading_message" class="ajax-inner-loading-box">Loading...</div></div></div>
+
 	
 
-<div class="cm-notification-container">
-</div>
 
 
-		
+
 <div id="container" class="container">
 		<div id="header">
 <div class="header-helper-container">
 	<div class="logo-image">
-		<a href="/"><img src="/skins/basic/customer/images/cheapssls-logo.gif" width="210" height="69" border="0" alt="CheapSSLs.com"></a>
+		<a href="/"><img src="/skins/basic/customer/images/cheapssls-logo.gif" width="210" height="69" border="0" alt=""></a>
 	</div>
 	
-	
-<p class="quick-links">&nbsp;
+	<p class="quick-links">&nbsp;
 			<a href="/">Home</a>
 			<a href="/index.php?dispatch=simplekb.index">Help/ Knowledgebase</a>
 			<a href="/about-our-company.html">About Us</a>
 			<a href="/privacy-policy.html">Privacy Policy</a>
 			<a href="/terms-of-service.html">Terms Of Service</a>
-			<a href="https://support.cheapssl.com/">Contact Us</a>
+			<a href="https://support.cheapssl.com/index.php?/cheapssl">Contact Us</a>
 			<a href="/sitemap.html">Sitemap</a>
 	</p>
 	
 	
 <div id="top_menu">
 <ul class="top-menu dropdown"><li class="first-level "><span><a href="/geotrust-ssl-certificates/">GeoTrust Certificates</a></span></li><li class="first-level "><span><a href="/comodo-ssl-certificates/">Comodo Certificates</a></span></li><li class="first-level "><span><a href="/verisign-ssl-certificates/">Verisign Certificates</a></span></li><li class="first-level "><span><a href="/index.php?dispatch=profiles.update">My Account</a></span></li><li class="first-level "><span><a href="/index.php?dispatch=checkout.cart">View cart</a></span></li></ul>
-
 </div>
 <span class="helper-block">&nbsp;</span>
 </div>
@@ -150,36 +186,35 @@ $(document).ready(function(){
 	<span class="float-left">&nbsp;</span>
 	<span class="float-right">&nbsp;</span>
 	<div class="top-tools-helper">
-		<div class="float-right" id="sign_io"><!--dynamic:sign_io-->
-										<a id="sw_login" href="index.php?dispatch=auth.login_form">Sign in</a>
+		<div class="float-right" id="sign_io">
+													<a id="sw_login" rel="nofollow" href="/index.php?dispatch=auth.login_form&amp;return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D8">Sign in</a>
 				or
-				<a href="index.php?dispatch=profiles.add">Register</a>
+				<a href="/index.php?dispatch=profiles.add" rel="nofollow">Register</a>
 						
-					<!--/dynamic--><!--sign_io--></div>
+								<!--sign_io--></div>
 		<div class="top-search">
-			<form action="index.php" name="search_form" method="get">
+			<form action="/" name="search_form" method="get">
 <input type="hidden" name="subcats" value="Y">
-<input type="hidden" name="type" value="extended">
 <input type="hidden" name="status" value="A">
 <input type="hidden" name="pshort" value="Y">
 <input type="hidden" name="pfull" value="Y">
 <input type="hidden" name="pname" value="Y">
 <input type="hidden" name="pkeywords" value="Y">
+<input type="hidden" name="search_performed" value="Y">
  
 
 <span class="search-products-text">Search:</span>
 
 <select name="cid" class="search-selectbox">
 	<option value="0">- All categories -</option>
-		<option value="1">GeoTrust</option>
-		<option value="2">Comodo</option>
-		<option value="3">VeriSign</option>
+		<option value="2" title="Comodo">Comodo</option>
+		<option value="1" title="GeoTrust">GeoTrust</option>
+		<option value="3" title="VeriSign">VeriSign</option>
 	</select>
 
-<input type="text" name="q" value="" onfocus="this.select();" class="search-input"><input type="image" src="/skins/basic/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button"><input type="hidden" name="dispatch" value="products.search"><a href="index.php?dispatch=products.search" class="search-advanced">Advanced search</a>
+<input type="text" name="q" value="" onfocus="this.select();" class="search-input"><input type="image" src="/skins/basic/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button"><input type="hidden" name="dispatch" value="products.search"><a href="/index.php?dispatch=products.search" class="search-advanced">Advanced search</a>
 
-</form>
-		</div>
+</form>		</div>
 	</div>
 </div>
 
@@ -188,50 +223,32 @@ $(document).ready(function(){
 	<span class="float-right">&nbsp;</span>
 	<div class="content-tools-helper clear">
 		
-<div id="cart_status">
-<!--dynamic:cart_status-->
-<div class="float-left">
-			<img id="sw_cart_box" class="cm-combination cm-combo-on valign hand" src="/skins/basic/customer/images/icons/empty_cart_icon.gif" alt="Cart is empty" title="Cart is empty"><strong>&nbsp;&nbsp;&nbsp;Cart is empty</strong>
-		
-	<div id="cart_box" class="cart-list hidden cm-popup-box cm-smart-position">
-		<img src="/skins/basic/customer/images/icons/empty_cart_list_icon.gif" alt="Cart" class="cm-popup-switch hand cart-list-icon">
-		<div class="list-container">
-			<div class="list">
-							<p class="center">Cart is empty</p>
-						</div>
-			<div class="buttons-container">
-				<a href="index.php?dispatch=checkout.cart" class="view-cart">View cart</a>
-				<a href="index.php?dispatch=checkout.checkout">Checkout</a>
+	<div id="cart_status">
+	<div class="float-left">
+					<img id="sw_cart_box" class="cm-combination cm-combo-on valign hand" src="/skins/basic/customer/images/icons/empty_cart_icon.gif" alt="Cart is empty" title="Cart is empty"><strong>&nbsp;&nbsp;&nbsp;Cart is empty</strong>
+			
+		<div id="cart_box" class="cart-list hidden cm-popup-box">
+			<img src="/skins/basic/customer/images/icons/empty_cart_list_icon.gif" alt="Cart" class="cm-popup-switch hand cart-list-icon">
+			<div class="list-container">
+				<div class="list">
+									<p class="center">Cart is empty</p>
+								</div>
+				<div class="buttons-container">
+					<a href="/index.php?dispatch=checkout.cart" rel="nofollow" class="view-cart">View cart</a>
+									</div>
 			</div>
 		</div>
 	</div>
-</div><!--/dynamic-->
 
-<div class="checkout-link">
+	<div class="checkout-link">
 
-<a href="index.php?dispatch=checkout.checkout">Checkout</a>
+	<a href="/index.php?dispatch=checkout.checkout" rel="nofollow">Checkout</a>
 
-</div>
-<!--cart_status--></div>		<div class="float-right">
-			
-						
-						<!--dynamic:currency-->
-				<div class="select-wrap">
-
-		
-		
-	<a class="select-link cm-combo-on cm-combination" id="sw_select_usd_wrap_">US Dollars&nbsp;($)</a>
-
-	<div id="select_usd_wrap_" class="select-popup cm-popup-box hidden">
-		<img src="/skins/basic/customer/images/icons/icon_close.gif" width="13" height="13" border="0" alt="" class="close-icon no-margin cm-popup-switch">
-		<ul class="cm-select-list">
-							<li><a rel="nofollow" name="usd" href="/privacy-policy.html?currency=usd" class=" active">US Dollars&nbsp;($)</a></li>
-							<li><a rel="nofollow" name="eur" href="/privacy-policy.html?currency=eur" class=" ">Euro&nbsp;(€)</a></li>
-							<li><a rel="nofollow" name="gbp" href="/privacy-policy.html?currency=gbp" class=" ">GB Pound&nbsp;(£)</a></li>
-					</ul>
 	</div>
-</div>
-			<!--/dynamic-->
+	<!--cart_status--></div>
+		<div class="float-right">
+			
+			
 					</div>
 	</div>
 </div></div>
@@ -245,58 +262,101 @@ $(document).ready(function(){
 	<div class="breadcrumbs">
 		<a href="/">Home</a><img src="/skins/basic/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">">Privacy Policy
 	</div>
-					<div class="mainbox-container">
-		<h1 class="mainbox-title"><span>Privacy Policy</span></h1>
-		<div class="mainbox-body">
-<div class="wysiwyg-content">
-		<p>CheapSSLs.com respects your privacy. We have created this privacy statement in order to demonstrate our commitment to you, our customer. This privacy statement discloses the privacy practices for the site <a href="www.cheapssls.com">www.cheapssls.com.</a>.</p>
-            <ul>
-              <li><b>We do not give 3rd parties access to your personal information.</b></li>
-              <li> <b>We only send e-mail or postal mail to you if you have elected to receive it.</b></li>
-              
-            </ul>
-            <p> We will never give any information about you to others without your express permission. Our site uses forms in which you give us contact information (like your name, address, and e-mail address) so you can place orders, request information, etc. We use your customer information only when it is important for us to contact you regarding functionality changes to our products, our web site, new services, and special offers we think you'll find valuable.</p>
-            <p> We use information gathered about you from our site statistics (for example your IP address) to help diagnose problems with our server, and to administer our Web site. We also gather broad demographic information from this data to help us improve our site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information.</p>
-            <p> Our site uses cookies to keep track of your session information. We also use cookies to store your username if you request to remember your username during login. That information will be used to pre-fill the login form at a later time. If you are referred to our website through an ad or a partner, we will store the referral information in the cookies. </p>
-            <p> Our site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use 128 bit SSL security to encrypt any transmissions when you provide credit card information, personal data, etc. </p>
-            <p><b>Sending Emails</b><br>
-We use e-mails to communicate with you, to confirm your placed orders, and to send information that you have requested. We also provide e-mail links, on bottom of most pages and our "Contact" page, to allow you to contact us directly. We strive to promptly reply to your messages.</p>
-            <p> The information you send to us may be stored and used to improve our site and our products, or it may be reviewed and discarded. However, your information will only be shared with third parties with your explicit permission.</p>
-            <p><b>Only If We Have To</b><br>
-              As stated previously in this policy, we will never give out your information without your permission. The only exceptions to this are, when we are required by law, in the good-faith belief that such action is necessary in order to conform to the edicts of the law, or we must comply with a legal process served on our web site.
-            </p>
-            <p><b>Changes In Our Practices</b><br>
-              If we change our information handling practices or other privacy aspects, we will post those changes on this privacy statement, at least 7 days prior to their implementation. Please review our privacy policies from time to time to know about the changes. We may also try to notify you through e-mail of the privacy changes if necessary.</p>
-            <p><b>Credit Card Processor</b><br>
-              We use a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.</p>
-            <p><b>Contests</b><br>
-              From time to time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to respond and disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.</p>
-            <p><b>Personal Information Following Termination of Account</b><br>
-  When your CheapSSLs account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status within our corresponding databases. However, you should know that deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to resolve disputes or enforce our agreements.</p>
-            <p><b>Contacting the Web Site</b><br>
-              If you have questions or concerns regarding this statement, you can contact CheapSSLs at support@cheapssls.com. You may also contact us at:</p>
-            <p>CheapSSLs.com<br>
-              11400 W. Olympic Blvd.<br> 
-              Suite 200<br>
-              Los Angeles, CA 90064 <br>
-              USA<br>
-              support@cheapssls.com</p>
-            
-            <p>* The e-mail and/or postal mail you elect to receive may include offerings from trusted CheapSSLs advertising partners. We never sell your personal information for these offerings.</p>
-
-		
-		
-	</div>
-	
+					
 
 
-<div id="content_discussion">
+<div class="cm-notification-container"></div>
+					
+					<div class="wysiwyg-content">
+		<h1>
+	Privacy Policy</h1>
+<p>
+	Effective Date: 09/07/2011</p>
+<p>
+	Namecheap Inc. (“Namecheap.com”) is the sole owner of the personal information you submit on CheapSSLs.com and respects your privacy. We have created this privacy statement in order to demonstrate our commitment to you, our customer. This privacy statement discloses the privacy practices for the site <a href="https://www.cheapssls.com/index.php">www.cheapssls.com</a>.</p>
+<ul>
+	<li>
+		<strong>We do not give 3rd parties access to your personal information in ways other than outlined in this privacy policy.</strong></li>
+</ul>
+<p>
+	<a href="//privacy-policy.truste.com/click-with-confidence/ctv/en/www.cheapssls.com/seal_m" target="_blank" title="Validate TRUSTe privacy certification"><img align="left" alt="Validate TRUSTe privacy certification" src="//privacy-policy.truste.com/certified-seal/ctv/en/www.cheapssls.com/seal_m.png" style="border: none; padding: 10px"></a> CheapSSLs.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.&nbsp; TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at &nbsp;support@cheapssls.com. If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint">TRUSTe here</a>. The TRUSTe program covers only information that is collected through this Web site.</p>
+<p>
+	We will never give any information about you to others without your express permission. Our site uses forms in which you give us contact information (like your name, address, phone number, fax number, billing information and e-mail address) so you can create an account, place orders, request information etc. We use your customer information only when it will be important for us to contact you regarding functionality changes to our products, our web site, new services, and special offers we think you'll find valuable. If you are not signed up for our services we provide you with the opportunity to provide us with your email address in order to receive our newsletter.&nbsp;If you would rather not receive this promotional information, you may follow the unsubscribe instructions contained in the newsletters you receive.</p>
+<p>
+	We use information gathered about you from our site statistics via log files provide by third party tracking partners (for example your IP address) to help diagnose problems with our server, and to administer our Web site. We also gather broad demographic information from this data to help us improve our site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information.</p>
+<p>
+	Our site uses cookies to keep track of your session information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.</p>
+<p>
+	&nbsp;</p>
+<p>
+	We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.</p>
+<p>
+	&nbsp;We also use cookies to store your username if you request to remember your username during login. That information will be used to pre-fill the login form at a later time. If you are referred to our website through an ad or a partner, we will store the referral information in the cookies.</p>
+<p>
+	The use of cookies by our tracking utility company is covered by our privacy statement.&nbsp; We do not have access or control over these cookies. Our tracking utility company uses session ID cookies to identify issues on our web site and provide insights for improving user experience (general web analytics).</p>
+<p>
+	Our third party web analytics partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective.&nbsp; Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.&nbsp; In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. Our web analytics partner does not tie the information gathered by clear gifs to our customers’ personally identifiable information.</p>
+<p>
+	Our site also contains links to other third party Web sites. CheapSSLs (<a href="http://www.cheapssls.com/">www.cheapssls.com</a>) is not responsible for the privacy practices or the content of such Web sites. We encourage you to carefully read the privacy statement of any Web site you visit.</p>
+<p>
+	Our site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use 128 bit SSL security to encrypt any transmissions when you provide credit card information, personal data, etc. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.&nbsp; Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at support@cheapssls.com.</p>
+<h2>
+	Sending Emails</h2>
+<p>
+	We use e-mails to communicate with you, to confirm your placed orders, and to send information that you have requested. We also provide e-mail links, on bottom of most pages and our "Contact" page, to allow you to contact us directly. We strive to promptly reply to your messages.</p>
+<p>
+	The information you send to us may be stored and used to improve our site and our products, or it may be reviewed and discarded. However, your information will only be shared with third parties with your explicit permission.</p>
+<h2>
+	Only If We Have To</h2>
+<p>
+	As stated previously in this policy, we will never give out your information without your permission or in ways other than as outlined in this policy. The only exceptions to this are, when we are required by law, in the good-faith belief that such action is necessary in order to conform to the edicts of the law, or we must comply with a legal process served on our web site.</p>
+<p>
+	If Namecheap.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.</p>
+<h2>
+	Changes In Our Practices</h2>
+<p>
+	If we change our information handling practices or other privacy aspects, we will post those changes on this privacy statement, at least 7 days prior to their implementation. If we make any material changes we will notify you by means of a notice on this Site prior to the change becoming effective. Please review our privacy policies from time to time to know about the changes. We may also try to notify you through e-mail of the privacy changes if necessary.</p>
+<p>
+	Service Providers</p>
+<p>
+	We use a credit card processing company to bill users for goods and services, an email service provider to provide email hosting services, and a client services partner to assist us with customer support including live chat. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. If you would like to know more about privacy policies of our credit card processing company, you may e-mail us at support@cheapssls.com.</p>
+<h2>
+	Contests</h2>
+<p>
+	From time to time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to respond and disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.</p>
+<h2>
+	Tell-A-Friend</h2>
+<p>
+	If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and e-mail address. CheapSSLs.com will automatically send the friend a one-time e-mail inviting them to visit the site. CheapSSLs.com does not store this information in the database but uses it just to send the one-time e-mail.</p>
+<h2>
+	Access to Personally Identifiable Information</h2>
+<p>
+	If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by making the change on our member information page or by emailing our Customer Support at support@cheapssls.com.</p>
+<h2>
+	Personal Information Following Termination of Account</h2>
+<p>
+	When Your CheapSSLs.com account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status within our corresponding databases. However, you should know that deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to resolve disputes or enforce our agreements.</p>
+<h2>
+	Customer Reviews</h2>
+<p>
+	We post customer testimonials on our web site which may contain personally identifiable information.&nbsp; We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you would like to request the removal of your testimonial from the site contact us at support@cheapssls.com.<strong>&nbsp;</strong></p>
+<h2>
+	Public Forums</h2>
+<p>
+	Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at support@cheapssls.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+<h2>
+	Contacting the Web Site</h2>
+<p>
+	If you have questions or concerns regarding this statement, you can contact CheapSSLs at <a href="mailto:support@namecheap.com">support@namecheap.com</a>. You may also contact us at:</p>
+<address>
+	Namecheap.com<br>
+	11400 W. Olympic Blvd.<br>
+	Suite 200<br>
+	Los Angeles, CA 90064<br>
+	USA<br>
+	support@namecheap.com</address>
 
-
-</div>
-</div>
-</div>
-
+		</div>
 				</div>
 			</div>
 		
@@ -305,31 +365,19 @@ We use e-mails to communicate with you, to confirm your placed orders, and to se
 	<h3 class="sidebox-title"><span>Providers</span></h3>
 	<div class="sidebox-body">
 <div class="clear">
-	<ul id="vmenu" class="dropdown dropdown-vertical">
-		<li><a href="/geotrust-ssl-certificates/">GeoTrust</a></li><li class="h-sep">&nbsp;</li><li><a href="/comodo-ssl-certificates/">Comodo</a></li><li class="h-sep">&nbsp;</li><li><a href="/verisign-ssl-certificates/">VeriSign</a></li>	</ul>
+	<ul id="vmenu_1" class="dropdown dropdown-vertical">
+		<li><a href="/comodo-ssl-certificates/">Comodo</a></li><li class="h-sep">&nbsp;</li><li><a href="/geotrust-ssl-certificates/">GeoTrust</a></li><li class="h-sep">&nbsp;</li><li><a href="/verisign-ssl-certificates/">VeriSign</a></li>	</ul>
 </div></div>
 	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div>
-
-<div class="sidebox-wrapper ">
+</div><div class="sidebox-wrapper ">
 	<h3 class="sidebox-title"><span>Information</span></h3>
-	<div class="sidebox-body"><ul class="tree-list">
-
-		
-	
-	
-	<li class=""><a href="/site-seals.html">Site Seals</a>
-</li>
-<li class="delim"></li>	
-	
-	<li class=""><a href="index.php?dispatch=simplekb.index">Knowledgebase</a>
-</li>
-
-</ul>
+	<div class="sidebox-body"><ul>
+		<li><a href="/index.php?dispatch=simplekb.index" title="Knowledgebase">Knowledgebase</a></li>
+		<li><a href="/site-seals.html" title="Site Seals">Site Seals</a></li>
+	</ul>
 </div>
 	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div>
-<div class="sidebox-wrapper ">
+</div><div class="sidebox-wrapper ">
 	<h3 class="sidebox-title"><span>Bestsellers</span></h3>
 	<div class="sidebox-body"><ul class="bullets-list">
 
@@ -340,127 +388,152 @@ We use e-mails to communicate with you, to confirm your placed orders, and to se
 		<a href="/comodo-ssl-certificates/positivessl.html" title="PositiveSSL">PositiveSSL</a>
 	</li>
 	<li>
-		<a href="/geotrust-ssl-certificates/quickssl.html" title="QuickSSL">QuickSSL</a>
+		<a href="/comodo-ssl-certificates/positivessl-wildcard.html" title="PositiveSSL Wildcard">PositiveSSL Wildcard</a>
 	</li>
 
 </ul>
 </div>
 	<div class="sidebox-bottom"><span>&nbsp;</span></div>
 </div>
-
-
 			</div>
 						
 						<div class="right-column">
-				<div style="text-align:center;height:45px;margin-bottom:15px;">
-				<!-- Begin SupportSuite Javascript Code -->
-				<script type="text/javascript" src="https://support.cheapssl.com/visitor/index.php?_m=livesupport&amp;_a=htmlcode&amp;departmentid=32"></script>
-				<!-- End SupportSuite Javascript Code -->
+			<div style="text-align:center;height:73px;margin-bottom:15px;">
+					<!-- BEGIN FUSION TAG CODE - DO NOT EDIT! --><div><div id="proactivechatcontainerx0sti0dmo1"></div><table border="0" cellspacing="2" cellpadding="2"><tbody><tr><td align="center" id="swifttagcontainerx0sti0dmo1"><div style="display: inline;" id="swifttagdatacontainerx0sti0dmo1"></div><script type="text/javascript" src="https://support.namecheap.com/visitor/index.php?/cheapssl/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPXgwc3RpMGRtbzEmdmVyc2lvbj00LjAxLjI0MCZwcm9kdWN0PUZ1c2lvbiZmaWx0ZXJkZXBhcnRtZW50aWQ9NSZjdXN0b21vbmxpbmU9JmN1c3RvbW9mZmxpbmU9JmN1c3RvbWF3YXk9JmN1c3RvbWJhY2tzaG9ydGx5PQplMGY3ZTVjN2E0NzZhNjdjODcxNmI1NDAwYWY4MjJhYjc2YWRkY2Iw"></script></td> </tr><tr><td align="center"><div style="MARGIN-TOP: 2px; WIDTH: 100%; TEXT-ALIGN:
+center;"><span style="FONT-SIZE: 9px; FONT-FAMILY: Tahoma, Arial,
+Helvetica, sans-serif;"><a href="http://www.kayako.com/products/live-chat-software/" style="TEXT-DECORATION: none; COLOR: #000000" target="_blank">Live Chat
+Software</a><span style="COLOR: #000000"> by
+</span>Kayako</span></div></td></tr></tbody></table></div> <script type="text/javascript">var
+swiftscriptelemx0sti0dmo1=document.createElement("script");swiftscriptelemx0sti0dmo1.type="text/javascript";var
+swiftrandom = Math.floor(Math.random()*1001); var swiftuniqueid =
+"x0sti0dmo1"; var
+swifttagurlx0sti0dmo1="https://support.namecheap.com/visitor/index.php?/cheapssl/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPXgwc3RpMGRtbzEmdmVyc2lvbj00LjAxLjI0MCZwcm9kdWN0PUZ1c2lvbiZmaWx0ZXJkZXBhcnRtZW50aWQ9NSZjdXN0b21vbmxpbmU9JmN1c3RvbW9mZmxpbmU9JmN1c3RvbWF3YXk9JmN1c3RvbWJhY2tzaG9ydGx5PQplMGY3ZTVjN2E0NzZhNjdjODcxNmI1NDAwYWY4MjJhYjc2YWRkY2Iw";setTimeout("swiftscriptelemx0sti0dmo1.src=swifttagurlx0sti0dmo1;document.getElementById('swifttagcontainerx0sti0dmo1').appendChild(swiftscriptelemx0sti0dmo1);",1);</script><!--
+END FUSION TAG CODE - DO NOT EDIT! -->						
 				</div>
-				
-<div class="sidebox-wrapper ">
-	<h3 class="sidebox-title"><span>My account</span></h3>
-	<div class="sidebox-body"><!--dynamic:my_account-->
+				<div class="sidebox-wrapper hidden cm-hidden-wrapper">
+	<h3 class="sidebox-title"><span>Feature comparison</span></h3>
+	<div class="sidebox-body"><div id="comparison_list">
 
+
+<!--comparison_list--></div>
+</div>
+	<div class="sidebox-bottom"><span>&nbsp;</span></div>
+</div><div class="sidebox-wrapper ">
+	<h3 class="sidebox-title"><span>My account</span></h3>
+	<div class="sidebox-body">
 <ul class="arrows-list">
-			<li><a href="index.php?dispatch=auth.login_form&amp;return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D8" class="underlined">Sign in</a> / <a href="index.php?dispatch=profiles.add" class="underlined">Register</a></li>
-		<li><a href="index.php?dispatch=orders.search" class="underlined">Orders</a></li>
+			<li><a href="/index.php?dispatch=auth.login_form&amp;return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D8" rel="nofollow" class="underlined">Sign in</a> / <a href="/index.php?dispatch=profiles.add" rel="nofollow" class="underlined">Register</a></li>
+		<li><a href="/index.php?dispatch=orders.search" rel="nofollow" class="underlined">Orders</a></li>
 	<li><a href="index.php?dispatch=certificates.search" class="underlined">My SSL Certificates</a></li>
+
 
 </ul>
 
-<div class="updates-wrapper">
+<div class="updates-wrapper" id="track_orders">
 
-<form action="index.php" method="get" name="track_order_quick">
+<form action="/" method="get" class="cm-ajax" name="track_order_quick">
+<input type="hidden" name="result_ids" value="track_orders">
 
 <p>Track my order(s):</p>
 
 <div class="form-field">
-<label for="track_order_item" class="cm-required hidden">Track my order(s):</label>
-<input type="hidden" name="redirect_url" value="index.php?dispatch=pages.view&amp;page_id=8"><input type="text" size="20" class="input-text cm-hint" id="track_order_item" name="track_data" value="Order ID/E-mail"><input type="image" src="/skins/basic/customer/images/icons/go.gif" alt="Go" title="Go" class="go-button"><input type="hidden" name="dispatch" value="orders.track_request"></div>
+<label for="track_order_item5" class="cm-required hidden">Track my order(s):</label>
+	<div class="float-left"><input type="text" size="20" class="input-text cm-hint" style="float: left;" id="track_order_item5" name="track_data" value="Order ID/Email"></div>
+	<div class="float-right"><input type="image" src="/skins/basic/customer/images/icons/go.gif" alt="Go" title="Go" class="go-button">
+<input type="hidden" name="dispatch" value="orders.track_request"></div>
+	<div class="clear-both"></div>
+	</div>
 
 </form>
 
-</div>
-<!--/dynamic--></div>
+<!--track_orders--></div></div>
 	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div>
-
-<div class="sidebox-wrapper ">
+</div><div class="ad-container center">
+		<a href="/index.php?dispatch=statistics.banners&amp;banner_id=2">		<img class=" " id="det_img_11441" src="/images/promo/0/namecheap.gif" width="170" height="210" alt="Register Domains" border="0">		</a>	</div><div class="sidebox-wrapper ">
 	<h3 class="sidebox-title"><span>Site news</span></h3>
 	<div class="sidebox-body"><ul class="site-news">
 	<li>
-		<strong>08/31/2010</strong>
-		<a href="index.php?dispatch=news.view&amp;news_id=1#1">Geotrust TrueBusinessID with EV is just $179 for a limited time</a>
+		<strong>12/13/2011</strong>
+		<a href="/scheduled-system-maintenance-december-14-2011.html">[Completed]: Scheduled System Maintenance – December 14, 2011</a>
+	</li>
+		<li class="delim"></li>
+		<li>
+		<strong>11/18/2011</strong>
+		<a href="/scheduled-system-maintenance-november-18-2011.html">[Completed]: Scheduled System Maintenance – November 18, 2011</a>
+	</li>
+		<li class="delim"></li>
+		<li>
+		<strong>10/28/2011</strong>
+		<a href="/upstream-ssl-vendor-scheduled-maintenance-october-28-29-2011.html">[Completed]: Upstream SSL Vendor Scheduled Maintenance - October 28(29), 2011</a>
+	</li>
+		<li class="delim"></li>
+		<li>
+		<strong>10/11/2011</strong>
+		<a href="/website-maintenance-oct-12-2011.html">Website Maintenance - Oct 12 2011</a>
 	</li>
 	</ul>
 
 <p class="right">
-	<a href="index.php?dispatch=news.list" class="extra-link">view all</a>
+	<a href="/index.php?dispatch=news.list" class="extra-link">view all</a>
 </p>
 </div>
 	<div class="sidebox-bottom"><span>&nbsp;</span></div>
 </div>
-
-
-<div class="sidebox-wrapper hidden cm-hidden-wrapper">
-	<h3 class="sidebox-title"><span>Feature comparison</span></h3>
-	<div class="sidebox-body"><!--dynamic:feature_comparison-->
-<div id="comparison_list">
-
-
-<!--comparison_list--></div>
-<!--/dynamic--></div>
-	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div>
-
 			</div>
-								</div>
+									
+					</div>
 	</div>
 	
 	<div id="footer">
+	<div class="footer_payment_logo">
+	<div class="trusticon"><a href="//privacy-policy.truste.com/click-with-confidence/wps/en/www.cheapssls.com/seal_m" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/certified-seal/wps/en/www.cheapssls.com/seal_m.png" alt="TRUSTe online privacy certification"></a></div>
+		<div id="googleCheckoutLogo"></div><script src="https://checkout.google.com/buttons/logos?merchant_id=105812893426022&amp;loc=en_US&amp;f=png"></script>
+		<!-- PayPal Logo --><a onclick="javascript:window.open('https://www.paypal.com/us/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img src="https://www.paypal.com/en_US/i/bnr/horizontal_solution_PPeCheck.gif" border="0" alt="" align="left"></a><!-- PayPal Logo -->
+		
+</div>
 		<div class="footer-helper-container">
-						
+			<div class="footer-top-helper"><span class="float-left">&nbsp;</span><span class="float-right">&nbsp;</span></div>
+			
 <div class="bottom-search center">
 	<span class="float-left">&nbsp;</span>
 	<span class="float-right">&nbsp;</span>
-	<form action="index.php" name="search_form" method="get">
+	<form action="/" name="search_form" method="get">
 <input type="hidden" name="subcats" value="Y">
-<input type="hidden" name="type" value="extended">
 <input type="hidden" name="status" value="A">
 <input type="hidden" name="pshort" value="Y">
 <input type="hidden" name="pfull" value="Y">
 <input type="hidden" name="pname" value="Y">
 <input type="hidden" name="pkeywords" value="Y">
+<input type="hidden" name="search_performed" value="Y">
  
 
 <span class="search-products-text">Search:</span>
 
 <select name="cid" class="search-selectbox">
 	<option value="0">- All categories -</option>
-		<option value="1">GeoTrust</option>
-		<option value="2">Comodo</option>
-		<option value="3">VeriSign</option>
+		<option value="2" title="Comodo">Comodo</option>
+		<option value="1" title="GeoTrust">GeoTrust</option>
+		<option value="3" title="VeriSign">VeriSign</option>
 	</select>
 
 <input type="text" name="q" value="" onfocus="this.select();" class="search-input"><input type="image" src="/skins/basic/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button"><input type="hidden" name="dispatch" value="products.search">
 
-</form>
-</div>
-
+</form></div>
 <p class="quick-links">
 			<a href="/">Home</a>
 			<a href="/index.php?dispatch=simplekb.index">Help/ Knowledgebase</a>
 			<a href="/about-our-company.html">About Us</a>
 			<a href="/privacy-policy.html">Privacy Policy</a>
 			<a href="/terms-of-service.html">Terms Of Service</a>
-			<a href="https://support.cheapssl.com/">Contact Us</a>
+			<a href="https://support.cheapssl.com/index.php?/cheapssl">Contact Us</a>
 			<a href="/sitemap.html">Sitemap</a>
 	</p>
-<p class="bottom-copyright class">Copyright © 2009-2011 CheapSSLs.com. All rights reserved.
+<p class="bottom-copyright class">Copyright © 2004-2011 CheapSSLs.com. All rights reserved.
 </p>
 
 
+
+			<div class="footer-bottom-helper"><span class="float-left">&nbsp;</span><span class="float-right">&nbsp;</span></div>
 		</div>
 	</div>
 </div>
@@ -470,7 +543,7 @@ We use e-mails to communicate with you, to confirm your placed orders, and to se
 <script type="text/javascript">
 //<![CDATA[
 $(document).ready(function(){
-	jQuery.ajaxRequest('index.php?dispatch=statistics.collect', {
+	jQuery.ajaxRequest('/index.php?dispatch=statistics.collect', {
 		method: 'post',
 		data: {
 			've[url]': location.href,
@@ -483,7 +556,7 @@ $(document).ready(function(){
 			've[screen_x]': (screen.width || null),
 			've[screen_y]': (screen.height || null),
 			've[color]': (screen.colorDepth || screen.pixelDepth || null),
-			've[time_begin]': 1296795870.0972
+			've[time_begin]': 1324369123.7092
 		},
 		hidden: true
 	});
@@ -492,22 +565,139 @@ $(document).ready(function(){
 </script>
 
 <noscript>
-<object data="index.php?dispatch=statistics.collect&amp;ve[url]=http://www.cheapssls.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D8&amp;ve[title]=CheapSSLs%3A%20Privacy%20Policy&amp;ve[referrer]=&amp;ve[time_begin]=1296795870.0972" width="0" height="0"></object>
+<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=%2Fprivacy-policy.html&amp;ve%5Btitle%5D=CheapSSLs.com+Privacy+Policy+%28TRUSTe+Compliant%29&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1324369123.7092" width="0" height="0"></object>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-//]]>
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-	try{
-	var pageTracker = _gat._getTracker("UA-20441656-1");
-	pageTracker._trackPageview();
-	} catch(err) {}
+	var _gaq = _gaq || [];
+	_gaq.push(["_setAccount", "UA-20441656-1"]);
+	_gaq.push(["_trackPageview"]);
+	
+	(function() {
+		var ga = document.createElement("script");
+		ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
+		ga.setAttribute("async", "true");
+		document.documentElement.firstChild.appendChild(ga);
+	})();
 //]]>
 </script>
+
+<!-- Start of SkyGlue Code -->
+
+<script type="text/javascript">
+
+  var _sgq = _sgq || [];
+
+  _sgq.push(['setSgAccount', 'dzrauyxi']);
+
+  setTimeout(function() {
+
+    var sg = document.createElement('script'); sg.type = 'text/javascript'; sg.async = true;
+
+    sg.src = ("https:" == document.location.protocol ? "https://dc" : "http://cdn0") + ".skyglue.com/sgtracker.js";
+
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sg, s);
+
+  }, 1); 
+
+</script> 
+
+<!-- End of SkyGlue Code -->
+<script type="text/javascript">
+ var uservoiceOptions = {
+   key: 'cheapssls',
+   host: 'cheapssls.uservoice.com',
+   forum: '103583',
+   alignment: 'left',
+   background_color:'#1d1deb',
+   text_color: 'white',
+   hover_color: '#f50a1d',
+   lang: 'en',
+   showTab: true
+ };
+ function _loadUserVoice() {
+   var s = document.createElement('script');
+   s.src = ("https:" == document.location.protocol ? "https://" :
+"http://") + "cdn.uservoice.com/javascripts/widgets/tab.js";
+   document.getElementsByTagName('head')[0].appendChild(s);
+ }
+ _loadSuper = window.onload;
+ window.onload = (typeof window.onload != 'function') ? _loadUserVoice
+: function() { _loadSuper(); _loadUserVoice(); };
+</script>
+
+<script type="text/javascript">
+adroll_adv_id = "TL4HVZJAKBDONOOUY7KOKV";
+adroll_pix_id = "GBRCJV675BABRAPIIGSPD6";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
+
+
+<a href="http://www.instantssl.com" id="comodoTL">Premium SSL Certificate</a>
+
+<script language="JavaScript" type="text/javascript">
+COT("https://www.cheapssls.com/images/Corner-of-Trust.gif", "SC2", "none");
+</script>
+
+<!-- ClickTale Top part -->
+
+<script type="text/javascript">
+
+var WRInitTime=(new Date()).getTime();
+
+</script>
+
+
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+
+<script type="text/javascript">
+document.write(unescape("%3Cscript%20src='"+
+ (document.location.protocol=='https:'?
+  'https://clicktale.pantherssl.com/':
+  'http://s.clicktale.net/')+
+ "WRc5.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://clicktale.pantherssl.com/WRc5.js" type="text/javascript"></script>
+<script type="text/javascript">
+var ClickTaleSSL=1;
+if(typeof ClickTale=='function') ClickTale(1133,0.18,"www09");
+</script>
+
+<!-- ClickTale end of Bottom part -->
+
+<script type="text/javascript">
+
+document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://ssl-" : "http://")
+
++ "include.reinvigorate.net/re_.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script><script src="https://ssl-include.reinvigorate.net/re_.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+try {
+
+reinvigorate.track("7h0l9-b9526ujp13");
+
+} catch(err) {}
+
+</script>
+
+
+
 
 
 
