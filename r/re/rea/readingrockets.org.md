@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the readingrockets.org privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523055653id_/http%3A//www.readingrockets.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingrockets.org privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220061417id_/http%3A//www.readingrockets.org/privacy) for the most accurate reproduction.*
 
-# Reading Rockets: Privacy Policy
+# Privacy Policy | Reading Rockets
 
-Protecting the privacy of our web site visitors is very important to us. Because we gather certain types of information about our users, we want to make sure you understand the ways in which we may and may not use the information you transmit to us when you visit Reading Rockets. This statement discloses the privacy practices for all WETA web sites.
+[Home](http://www.readingrockets.org/) > Privacy Policy 
+
+Protecting the privacy of our website visitors is very important to us. Because we gather certain types of information about our users, we want to make sure you understand the ways in which we may and may not use the information you transmit to us when you visit Reading Rockets. This statement discloses the privacy practices for all WETA web sites.
 
 The information gathered by Reading Rockets falls into two categories: (1) information voluntarily supplied by visitors to Reading Rockets and (2) tracking information routinely gathered as visitors navigate through our site.
 
