@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the probikekit.com privacy policy that was archived on 2011-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110604035056id_/http%3A//www.probikekit.com/security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the probikekit.com privacy policy that was archived on 2011-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111220155033id_/http%3A//www.probikekit.com/security) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Security and Privacy</title>
@@ -131,7 +131,8 @@ optionalZipCountries = [];
 
 	<div class="header-panel">
 		<div class="panellinks">
-     	<!-- MAKE SURE THERE ARE NO <p> TAGS WRAPPING AROUND THE BELOW CODE!! MAGENTO ADDES THEM BY DEFAULT, SO JUST DELETE THEM -->
+     	<!-- MAKE SURE THERE ARE NO
+<p>TAGS WRAPPING AROUND THE BELOW CODE!! MAGENTO ADDES THEM BY DEFAULT, SO JUST DELETE THEM -->
 <a class="top-csm-link" href="http://www.probikekit.com/faq">FAQ</a> <span class="top-csm-seperator">|</span><a href="https://www.probikekit.com/enquiryform/other/form/type/general/" rel="" class="lightwindow" params="lightwindow_width=880,lightwindow_height=550,lightwindow_iframe_embed=true,lightwindow_type=external"><span><span>Contact PBK</span></span></a><span class="top-csm-seperator">|</span>        
 
 <div class="current-currency">
@@ -181,880 +182,920 @@ optionalZipCountries = [];
 				                	<a href="http://www.probikekit.com/" title="" class="logo"><strong></strong><img src="http://www.probikekit.com/skin/frontend/probike/default/images/logo2.png" alt=""><span class="logotext"></span></a>
 				            		</div>
 		    </div>
-    <div class="nav-container">
+    
+<script>  
+/*
+ * HTML Parser By John Resig (ejohn.org)
+ * Original code by Erik Arvidsson, Mozilla Public License
+ * http://erik.eae.net/simplehtmlparser/simplehtmlparser.js
+ *
+ * // Use like so:
+ * HTMLParser(htmlString, {
+ *     start: function(tag, attrs, unary) {},
+ *     end: function(tag) {},
+ *     chars: function(text) {},
+ *     comment: function(text) {}
+ * });
+ *
+ * // or to get an XML string:
+ * HTMLtoXML(htmlString);
+ *
+ * // or to get an XML DOM Document
+ * HTMLtoDOM(htmlString);
+ *
+ * // or to inject into an existing document/DOM node
+ * HTMLtoDOM(htmlString, document);
+ * HTMLtoDOM(htmlString, document.body);
+ *
+ */
+
+(function(){
+
+	// Regular Expressions for parsing tags and attributes
+	var startTag = /^<(\w+)((?:\s+\w+(?:\s*=\s*(?:(?:"[^"]*")|(?:'[^']*')|[^>\s]+))?)*)\s*(\/?)>/,
+		endTag = /^<\/(\w+)[^>]*>/,
+		attr = /(\w+)(?:\s*=\s*(?:(?:"((?:\\.|[^"])*)")|(?:'((?:\\.|[^'])*)')|([^>\s]+)))?/g;
+		
+	// Empty Elements - HTML 4.01
+	var empty = makeMap("area,base,basefont,br,col,frame,hr,img,input,isindex,link,meta,param,embed");
+
+	// Block Elements - HTML 4.01
+	var block = makeMap("address,applet,blockquote,button,center,dd,del,dir,div,dl,dt,fieldset,form,frameset,hr,iframe,ins,isindex,li,map,menu,noframes,noscript,object,ol,p,pre,script,table,tbody,td,tfoot,th,thead,tr,ul");
+
+	// Inline Elements - HTML 4.01
+	var inline = makeMap("a,abbr,acronym,applet,b,basefont,bdo,big,br,button,cite,code,del,dfn,em,font,i,iframe,img,input,ins,kbd,label,map,object,q,s,samp,script,select,small,span,strike,strong,sub,sup,textarea,tt,u,var");
+
+	// Elements that you can, intentionally, leave open
+	// (and which close themselves)
+	var closeSelf = makeMap("colgroup,dd,dt,li,options,p,td,tfoot,th,thead,tr");
+
+	// Attributes that have their values filled in disabled="disabled"
+	var fillAttrs = makeMap("checked,compact,declare,defer,disabled,ismap,multiple,nohref,noresize,noshade,nowrap,readonly,selected");
+
+	// Special Elements (can contain anything)
+	var special = makeMap("script,style");
+
+	var HTMLParser = this.HTMLParser = function( html, handler ) {
+		var index, chars, match, stack = [], last = html;
+		stack.last = function(){
+			return this[ this.length - 1 ];
+		};
+
+		while ( html ) {
+			chars = true;
+
+			// Make sure we're not in a script or style element
+			if ( !stack.last() || !special[ stack.last() ] ) {
+
+				// Comment
+				if ( html.indexOf("<!--") == 0 ) {
+					index = html.indexOf("-->");
+	
+					if ( index >= 0 ) {
+						if ( handler.comment )
+							handler.comment( html.substring( 4, index ) );
+						html = html.substring( index + 3 );
+						chars = false;
+					}
+	
+				// end tag
+				} else if ( html.indexOf("</") == 0 ) {
+					match = html.match( endTag );
+	
+					if ( match ) {
+						html = html.substring( match[0].length );
+						match[0].replace( endTag, parseEndTag );
+						chars = false;
+					}
+	
+				// start tag
+				} else if ( html.indexOf("<") == 0 ) {
+					match = html.match( startTag );
+	
+					if ( match ) {
+						html = html.substring( match[0].length );
+						match[0].replace( startTag, parseStartTag );
+						chars = false;
+					}
+				}
+
+				if ( chars ) {
+					index = html.indexOf("<");
+					
+					var text = index < 0 ? html : html.substring( 0, index );
+					html = index < 0 ? "" : html.substring( index );
+					
+					if ( handler.chars )
+						handler.chars( text );
+				}
+
+			} else {
+				html = html.replace(new RegExp("(.*)<\/" + stack.last() + "[^>]*>"), function(all, text){
+					text = text.replace(/<!--(.*?)-->/g, "$1")
+						.replace(/<!\[CDATA\[(.*?)]]>/g, "$1");
+
+					if ( handler.chars )
+						handler.chars( text );
+
+					return "";
+				});
+
+				parseEndTag( "", stack.last() );
+			}
+
+			if ( html == last )
+				throw "Parse Error: " + html;
+			last = html;
+		}
+		
+		// Clean up any remaining tags
+		parseEndTag();
+
+		function parseStartTag( tag, tagName, rest, unary ) {
+			if ( block[ tagName ] ) {
+				while ( stack.last() && inline[ stack.last() ] ) {
+					parseEndTag( "", stack.last() );
+				}
+			}
+
+			if ( closeSelf[ tagName ] && stack.last() == tagName ) {
+				parseEndTag( "", tagName );
+			}
+
+			unary = empty[ tagName ] || !!unary;
+
+			if ( !unary )
+				stack.push( tagName );
+			
+			if ( handler.start ) {
+				var attrs = [];
+	
+				rest.replace(attr, function(match, name) {
+					var value = arguments[2] ? arguments[2] :
+						arguments[3] ? arguments[3] :
+						arguments[4] ? arguments[4] :
+						fillAttrs[name] ? name : "";
+					
+					attrs.push({
+						name: name,
+						value: value,
+						escaped: value.replace(/(^|[^\\])"/g, '$1\\\"') //"
+					});
+				});
+	
+				if ( handler.start )
+					handler.start( tagName, attrs, unary );
+			}
+		}
+
+		function parseEndTag( tag, tagName ) {
+			// If no tag name is provided, clean shop
+			if ( !tagName )
+				var pos = 0;
+				
+			// Find the closest opened tag of the same type
+			else
+				for ( var pos = stack.length - 1; pos >= 0; pos-- )
+					if ( stack[ pos ] == tagName )
+						break;
+			
+			if ( pos >= 0 ) {
+				// Close all the open elements, up the stack
+				for ( var i = stack.length - 1; i >= pos; i-- )
+					if ( handler.end )
+						handler.end( stack[ i ] );
+				
+				// Remove the open elements from the stack
+				stack.length = pos;
+			}
+		}
+	};
+	
+	this.HTMLtoXML = function( html ) {
+		var results = "";
+		
+		HTMLParser(html, {
+			start: function( tag, attrs, unary ) {
+				results += "<" + tag;
+		
+				for ( var i = 0; i < attrs.length; i++ )
+					results += " " + attrs[i].name + '="' + attrs[i].escaped + '"';
+		
+				results += (unary ? "/" : "") + ">";
+			},
+			end: function( tag ) {
+				results += "</" + tag + ">";
+			},
+			chars: function( text ) {
+				results += text;
+			},
+			comment: function( text ) {
+				results += "<!--" + text + "-->";
+			}
+		});
+		
+		return results;
+	};
+	
+	this.HTMLtoDOM = function( html, doc ) {
+		// There can be only one of these elements
+		var one = makeMap("html,head,body,title");
+		
+		// Enforce a structure for the document
+		var structure = {
+			link: "head",
+			base: "head"
+		};
+	
+		if ( !doc ) {
+			if ( typeof DOMDocument != "undefined" )
+				doc = new DOMDocument();
+			else if ( typeof document != "undefined" && document.implementation && document.implementation.createDocument )
+				doc = document.implementation.createDocument("", "", null);
+			else if ( typeof ActiveX != "undefined" )
+				doc = new ActiveXObject("Msxml.DOMDocument");
+			
+		} else
+			doc = doc.ownerDocument ||
+				doc.getOwnerDocument && doc.getOwnerDocument() ||
+				doc;
+		
+		var elems = [],
+			documentElement = doc.documentElement ||
+				doc.getDocumentElement && doc.getDocumentElement();
+				
+		// If we're dealing with an empty document then we
+		// need to pre-populate it with the HTML document structure
+		if ( !documentElement && doc.createElement ) (function(){
+			var html = doc.createElement("html");
+			var head = doc.createElement("head");
+			head.appendChild( doc.createElement("title") );
+			html.appendChild( head );
+			html.appendChild( doc.createElement("body") );
+			doc.appendChild( html );
+		})();
+		
+		// Find all the unique elements
+		if ( doc.getElementsByTagName )
+			for ( var i in one )
+				one[ i ] = doc.getElementsByTagName( i )[0];
+		
+		// If we're working with a document, inject contents into
+		// the body element
+		var curParentNode = one.body;
+		
+		HTMLParser( html, {
+			start: function( tagName, attrs, unary ) {
+				// If it's a pre-built element, then we can ignore
+				// its construction
+				if ( one[ tagName ] ) {
+					curParentNode = one[ tagName ];
+					return;
+				}
+			
+				var elem = doc.createElement( tagName );
+				
+				for ( var attr in attrs )
+					elem.setAttribute( attrs[ attr ].name, attrs[ attr ].value );
+				
+				if ( structure[ tagName ] && typeof one[ structure[ tagName ] ] != "boolean" )
+					one[ structure[ tagName ] ].appendChild( elem );
+				
+				else if ( curParentNode && curParentNode.appendChild )
+					curParentNode.appendChild( elem );
+					
+				if ( !unary ) {
+					elems.push( elem );
+					curParentNode = elem;
+				}
+			},
+			end: function( tag ) {
+				elems.length -= 1;
+				
+				// Init the new parentNode
+				curParentNode = elems[ elems.length - 1 ];
+			},
+			chars: function( text ) {
+				curParentNode.appendChild( doc.createTextNode( text ) );
+			},
+			comment: function( text ) {
+				// create comment node
+			}
+		});
+		
+		return doc;
+	};
+
+	function makeMap(str){
+		var obj = {}, items = str.split(",");
+		for ( var i = 0; i < items.length; i++ )
+			obj[ items[i] ] = true;
+		return obj;
+	}
+})();
+</script>
+
+<div class="nav-container">
     <ul id="nav">
-        <li class="level0 nav-1 level-top first parent">
-<a href="http://www.probikekit.com/frames-forks.html" class="level-top">
-<span>Frames &amp; Forks</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-1-1 first">
-<a href="http://www.probikekit.com/frames-forks/performance-bicycle-frames.html">
-<span>Performance Bicycle Frames</span>
-</a>
-</li><li class="level1 nav-1-2">
-<a href="http://www.probikekit.com/frames-forks/aero-performance-bicycle-frames.html">
-<span>Aero Performance Bicycle Frames</span>
-</a>
-</li><li class="level1 nav-1-3">
-<a href="http://www.probikekit.com/frames-forks/sport-bicycle-frames.html">
-<span>Sport Bicycle Frames</span>
-</a>
-</li><li class="level1 nav-1-4">
-<a href="http://www.probikekit.com/frames-forks/triathlon-tt-bicycle-frames.html">
-<span>Triathlon TT Bicycle Frames</span>
-</a>
-</li><li class="level1 nav-1-5">
-<a href="http://www.probikekit.com/frames-forks/track-bicycle-frames.html">
-<span>Track Bicycle Frames</span>
-</a>
-</li><li class="level1 nav-1-6">
-<a href="http://www.probikekit.com/frames-forks/single-speed-bicycle-frames.html">
-<span>Single Speed Bicycle Frames</span>
-</a>
-</li><li class="level1 nav-1-7">
-<a href="http://www.probikekit.com/frames-forks/cyclo-cross-bicycle-frames.html">
-<span>Cyclo Cross Bicycle Frames</span>
-</a>
-</li><li class="level1 nav-1-8">
-<a href="http://www.probikekit.com/frames-forks/bicycle-forks.html">
-<span>Bicycle Forks</span>
-</a>
-</li><li class="level1 nav-1-9 last parent">
-<a href="http://www.probikekit.com/frames-forks/bicycle-frame-accessories.html">
-<span>Bicycle Frame Accessories</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-1-9-1 first">
-<a href="http://www.probikekit.com/frames-forks/bicycle-frame-accessories/cable-guides.html">
-<span>Cable Guides</span>
-</a>
-</li><li class="level2 nav-1-9-2">
-<a href="http://www.probikekit.com/frames-forks/bicycle-frame-accessories/drop-outs.html">
-<span>Drop Outs</span>
-</a>
-</li><li class="level2 nav-1-9-3">
-<a href="http://www.probikekit.com/frames-forks/bicycle-frame-accessories/fork-bungs.html">
-<span>Fork Bungs</span>
-</a>
-</li><li class="level2 nav-1-9-4">
-<a href="http://www.probikekit.com/frames-forks/bicycle-frame-accessories/frame-protection.html">
-<span>Frame Protection</span>
-</a>
-</li><li class="level2 nav-1-9-5">
-<a href="http://www.probikekit.com/frames-forks/bicycle-frame-accessories/seatpost-clamps.html">
-<span>Seatpost Clamps</span>
-</a>
-</li><li class="level2 nav-1-9-6 last">
-<a href="http://www.probikekit.com/frames-forks/bicycle-frame-accessories/stickers.html">
-<span>Stickers</span>
-</a>
-</li>
+			<script> 
+				function width_block(){
+					var width = document.getElementById('last-submenu').offsetWidth;
+					var newwidth = parseInt(width) - 93;
+					document.getElementById('last-submenu').style.left='-'+newwidth+'px';
+					
+					var results = 0;
+						HTMLParser(document.getElementById('last-submenu').innerHTML, {
+						  start: function( tag, attrs, unary ) {
+							  if(tag=="div"){
+								 results++; 
+							  }
+						  }
+						});
+						if(results>0){
+							var block_width = 241*parseInt(results);
+							document.getElementById('last-submenu').style.width=block_width+'px';
+						}
+				}
+				function clear_block(){
+					document.getElementById('last-submenu').style.left='';
+				}
+				function width_block_prev(id){
+					
+					var width = document.getElementById('sub-'+id).offsetWidth;
+					var items = (11 - parseInt(id))*88+93;
+					var newwidth = parseInt(width) - items;
+					
+					var results = 0;
+						HTMLParser(document.getElementById('sub-'+id).innerHTML, {
+						  start: function( tag, attrs, unary ) {
+							  if(tag=="div"){
+								 results++; 
+							  }
+						  }
+						});
+						if(results>0){
+							var block_width = 241*parseInt(results);
+							document.getElementById('sub-'+id).style.width=block_width+'px';
+						}
+
+					
+					if(newwidth>0){
+						document.getElementById('sub-'+id).style.left='-'+newwidth+'px';
+					}
+					else {
+						document.getElementById('sub-'+id).style.left='-1px';
+					}
+				}
+				function clear_block_prev(id){
+					document.getElementById('sub-'+id).style.left='';
+				}
+			</script>
+					
+			<li id="top-menu-item" onmouseover="width_block_prev(1);" onmouseout="clear_block_prev(1);" class="level-top menu-item-1 "><a onmouseover="width_block_prev(1);" onmouseout="clear_block_prev(1);" class="level-top" href="http://www.probikekit.com/frames-forks.html"><span>Frames &amp; Forks</span></a>
+								<div onmouseover="width_block_prev(1);" onmouseout="clear_block_prev(1);" class="level0 sub" id="sub-1">
+					<div id="pbk_menu_block"><span><strong>Shop By Category</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Performance Road Bike Frames" href="/frames-forks/performance-bicycle-frames.html">Performance Bicycle Frames</a></li>
+<li><a title="Aero Performance Roads Bike Frames" href="/frames-forks/aero-performance-bicycle-frames.html">Aero Performance Bicycle Frames</a></li>
+<li><a title="Sport Road Bike Frames" href="/frames-forks/sport-bicycle-frames.html">Sport Bicycle Frames</a></li>
+<li><a title="Triathlon TT Bike Frames" href="/frames-forks/triathlon-tt-bicycle-frames.html">Triathlon TT Bicycle Frames</a></li>
+<li><a title="Track Bike Frames" href="/frames-forks/track-bicycle-frames.html">Track Bicycle Frames</a></li>
+<li><a title="Single Speed Fixie Bike Frames" href="/frames-forks/single-speed-bicycle-frames.html">Single Speed Bicycle Frames</a></li>
+<li><a title="Cyclo Cross Bike Frames" href="/frames-forks/cyclo-cross-bicycle-frames.html">Cyclo Cross Bicycle Frames</a></li>
+<li><a title="Road Bike Forks" href="/frames-forks/bicycle-forks.html">Bicycle Forks</a></li>
+<li><a title="Bike Frame Accessories" href="/frames-forks/bicycle-frame-accessories.html">Bicycle Frame Accessories</a></li>
+<li><a title="Rolling Chassis" href="/frames-forks/rolling-chassis.html">Rolling Chassis</a></li>
 </ul>
-</li>
+<ul id="pbk_menu_reditem">
+<li><a href="/frames-forks/clearance-frames-forks.html">CLEARANCE - Frames &amp; Forks</a></li>
 </ul>
-</li><li class="level0 nav-2 level-top parent">
-<a href="http://www.probikekit.com/components.html" class="level-top">
-<span>Components</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-2-1 first">
-<a href="http://www.probikekit.com/components/groupsets.html">
-<span>Groupsets</span>
-</a>
-</li><li class="level1 nav-2-2 parent">
-<a href="http://www.probikekit.com/components/bicycle-brakes-and-pads.html">
-<span>Bicycle Brakes and Pads</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-2-2-1 first">
-<a href="http://www.probikekit.com/components/bicycle-brakes-and-pads/brake-calipers.html">
-<span>Brake Calipers</span>
-</a>
-</li><li class="level2 nav-2-2-2 last">
-<a href="http://www.probikekit.com/components/bicycle-brakes-and-pads/brake-pads.html">
-<span>Brake Pads</span>
-</a>
-</li>
+</div>
+<div id="pbk_menu_block"><span><strong>Shop By Brand</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Cervelo" href="/cycling-brand-list-a-z/cervelo-road-triathlon-timetrial-track-bikes.html">Cervelo</a></li>
+<li><a title="Colnago" href="/factfinder/search/result/q/colnago+frameset">Colnago</a></li>
+<li><a title="Cinelli" href="/factfinder/search/result/q/cinelli+frameset">Cinelli</a></li>
+<li><a title="Time" href="/factfinder/search/result/q/time+ulteam+frameset">Time</a></li>
+<li><a title="Kinesis" href="/factfinder/search/result/q/kinesis+frameset">Kinesis</a></li>
 </ul>
-</li><li class="level1 nav-2-3">
-<a href="http://www.probikekit.com/components/bicycle-brake-levers.html">
-<span>Bicycle Brake Levers</span>
-</a>
-</li><li class="level1 nav-2-4">
-<a href="http://www.probikekit.com/components/bicycle-cables-and-cable-sets.html">
-<span>Bicycle Cables and Cable Sets</span>
-</a>
-</li><li class="level1 nav-2-5">
-<a href="http://www.probikekit.com/components/bicycle-chainsets.html">
-<span>Bicycle Chainsets</span>
-</a>
-</li><li class="level1 nav-2-6">
-<a href="http://www.probikekit.com/components/bicycle-chains.html">
-<span>Bicycle Chains</span>
-</a>
-</li><li class="level1 nav-2-7">
-<a href="http://www.probikekit.com/components/bicycle-chainrings.html">
-<span>Bicycle Chainrings</span>
-</a>
-</li><li class="level1 nav-2-8">
-<a href="http://www.probikekit.com/components/bicycle-cassettes-sprockets.html">
-<span>Bicycle Cassettes &amp; Sprockets</span>
-</a>
-</li><li class="level1 nav-2-9">
-<a href="http://www.probikekit.com/components/bicycle-gear-levers.html">
-<span>Bicycle Gear Levers</span>
-</a>
-</li><li class="level1 nav-2-10">
-<a href="http://www.probikekit.com/components/bicycle-rear-derailleurs.html">
-<span>Bicycle Rear Derailleurs</span>
-</a>
-</li><li class="level1 nav-2-11">
-<a href="http://www.probikekit.com/components/bicycle-front-derailleurs.html">
-<span>Bicycle Front Derailleurs</span>
-</a>
-</li><li class="level1 nav-2-12">
-<a href="http://www.probikekit.com/components/bicycle-bottom-brackets-cups-sprockets.html">
-<span>Bicycle Bottom Brackets, Cups</span>
-</a>
-</li><li class="level1 nav-2-13 last">
-<a href="http://www.probikekit.com/components/nuts-bolts-and-washers.html">
-<span>Nuts, Bolts and Washers</span>
-</a>
-</li>
+</div>
+<div id="pbk_menu_block"><span><strong>WHAT'S HOT</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Save 15% Kinesis Racelight T2 Rolling Chassis Package" href="/kinesis-racelight-t2-rolling-chassis.html"><span style="color:#ff0033; font-weight:bold;">SAVE 15%</span> Kinesis Racelight T2 Rolling Chassis Package</a></li>
+<li><a title="STAFF PICK Colnago Limited Edition C59 Polka Dot Frameset" href="/colnago-c59-italia-sloping-geometry-frameset-special-edition-polka-dot.html"><span style="color:#ff0033; font-weight:bold;">STAFF PICK</span> Colnago Limited Edition C59 Polka Dot Frameset</a></li>
+<li><a title="BEST SELLER M-Wave Drivetrain Protection Bag" href="/m-wave-drivetrain-protection-bag.html"><span style="color:#ff0033; font-weight:bold;">BEST SELLER</span> M-Wave Drivetrain Protection Bag</a></li>
+<li><a title="STAFF PICK Cinelli Gazzetta Della Strada Frameset" href="/cinelli-gazzetta-della-strada-frameset.html"><span style="color:#ff0033; font-weight:bold;">STAFF PICK</span> Cinelli Gazzetta Della Strada Frameset</a></li>
+<li><a title="STAFF PICK Kinesis DC07 Carbon Winter Road Fork" href="/kinesis-dc07-carbon-winter-road-fork.html"><span style="color:#ff0033; font-weight:bold;">STAFF PICK</span> Kinesis DC07 Carbon Winter Road Fork</a></li>
 </ul>
-</li><li class="level0 nav-3 level-top parent">
-<a href="http://www.probikekit.com/contact-points.html" class="level-top">
-<span>Contact Points</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-3-1 first parent">
-<a href="http://www.probikekit.com/contact-points/bicycle-handlebars.html">
-<span>Bicycle Handlebars</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-3-1-1 first">
-<a href="http://www.probikekit.com/contact-points/bicycle-handlebars/drop-handlebars.html">
-<span>Drop Handlebars</span>
-</a>
-</li><li class="level2 nav-3-1-2">
-<a href="http://www.probikekit.com/contact-points/bicycle-handlebars/integrated-handlebars.html">
-<span>Integrated Handlebars</span>
-</a>
-</li><li class="level2 nav-3-1-3">
-<a href="http://www.probikekit.com/contact-points/bicycle-handlebars/tt-base-bars.html">
-<span>TT Base Bars</span>
-</a>
-</li><li class="level2 nav-3-1-4">
-<a href="http://www.probikekit.com/contact-points/bicycle-handlebars/track-handlebars.html">
-<span>Track Handlebars</span>
-</a>
-</li><li class="level2 nav-3-1-5 last">
-<a href="http://www.probikekit.com/contact-points/bicycle-handlebars/womens-handlebars.html">
-<span>Womens Handlebars</span>
-</a>
-</li>
+<a title="Check out this weeks HOT DEALS On Bike Frames &amp; Forks" href="/frames-forks.html"><img src="/media/import/images/hotdeals_menu.gif" alt="" width="200" height="80"></a></div>				</div>
+							</li>
+					
+			<li id="top-menu-item" onmouseover="width_block_prev(2);" onmouseout="clear_block_prev(2);" class="level-top menu-item-2 "><a onmouseover="width_block_prev(2);" onmouseout="clear_block_prev(2);" class="level-top" href="http://www.probikekit.com/components.html"><span>Components</span></a>
+								<div onmouseover="width_block_prev(2);" onmouseout="clear_block_prev(2);" class="level0 sub" id="sub-2">
+					<div id="pbk_menu_block"><span><strong>Shop By Category</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Cycling Groupsets" href="/components/groupsets.html">Groupsets</a></li>
+<li><a title="Cycling Brakes &amp; Pads" href="/components/bicycle-brakes-and-pads.html">Brakes and Pads</a></li>
+<li><a title="Cycling Brake Levers" href="/components/bicycle-brake-levers.html">Brake Levers</a></li>
+<li><a title="Cycling Cables &amp; Cable Sets" href="/components/bicycle-cables-and-cable-sets.html">Cables and Cable Sets</a></li>
+<li><a title="Cycling Chainsets" href="/components/bicycle-chainsets.html">Chainsets</a></li>
+<li><a title="Cycling Chains" href="/components/bicycle-chains.html">Chains</a></li>
+<li><a title="Cycling Chainrings" href="/components/bicycle-chainrings.html">Chainrings</a></li>
+<li><a title="Cycling Cassettes &amp; Sprockets" href="/components/bicycle-cassettes-sprockets.html">Cassettes &amp; Sprockets</a></li>
+<li><a title="Cycling Gear Levers" href="/components/bicycle-gear-levers.html">Gear Levers</a></li>
+<li><a title="Cycling Rear Mech" href="/components/bicycle-rear-derailleurs.html">Rear Derailleurs</a></li>
+<li><a title="Cycling Rear Mech" href="/components/bicycle-front-derailleurs.html">Front Derailleurs</a></li>
+<li><a title="Cycling Bottom Brackets, Cups" href="/components/bicycle-bottom-brackets-cups-sprockets.html">Bottom Brackets, Cups</a></li>
+<li><a title="Cycling Nuts, Bolts &amp; Washers" href="/components/nuts-bolts-and-washers.html">Nuts, Bolts and Washers</a></li>
 </ul>
-</li><li class="level1 nav-3-2">
-<a href="http://www.probikekit.com/contact-points/tri-bars.html">
-<span>Tri Bars</span>
-</a>
-</li><li class="level1 nav-3-3 parent">
-<a href="http://www.probikekit.com/contact-points/bicycle-handlebar-accessories.html">
-<span>Bicycle Handlebar Accessories</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-3-3-6 first">
-<a href="http://www.probikekit.com/contact-points/bicycle-handlebar-accessories/bar-end-plugs.html">
-<span>Bar End Plugs</span>
-</a>
-</li><li class="level2 nav-3-3-7">
-<a href="http://www.probikekit.com/contact-points/bicycle-handlebar-accessories/gel-inserts.html">
-<span>Gel Inserts</span>
-</a>
-</li><li class="level2 nav-3-3-8">
-<a href="http://www.probikekit.com/contact-points/bicycle-handlebar-accessories/handlebar-spares.html">
-<span>Handlebar Spares</span>
-</a>
-</li><li class="level2 nav-3-3-9 last">
-<a href="http://www.probikekit.com/contact-points/bicycle-handlebar-accessories/handlebar-tape-and-grips.html">
-<span>Handlebar Tape and Grips</span>
-</a>
-</li>
+<ul id="pbk_menu_reditem">
+<li><a href="/components/clearance-components.html">CLEARANCE - Components</a></li>
 </ul>
-</li><li class="level1 nav-3-4">
-<a href="http://www.probikekit.com/contact-points/bicycle-stems.html">
-<span>Bicycle Stems</span>
-</a>
-</li><li class="level1 nav-3-5">
-<a href="http://www.probikekit.com/contact-points/bicycle-headsets.html">
-<span>Bicycle Headsets</span>
-</a>
-</li><li class="level1 nav-3-6">
-<a href="http://www.probikekit.com/contact-points/headset-spares.html">
-<span>Headset Spares</span>
-</a>
-</li><li class="level1 nav-3-7 parent">
-<a href="http://www.probikekit.com/contact-points/bicycle-pedals.html">
-<span>Bicycle Pedals</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-3-7-10 first">
-<a href="http://www.probikekit.com/contact-points/bicycle-pedals/pedals.html">
-<span>Pedals</span>
-</a>
-</li><li class="level2 nav-3-7-11">
-<a href="http://www.probikekit.com/contact-points/bicycle-pedals/pedal-cleats.html">
-<span>Pedal Cleats</span>
-</a>
-</li><li class="level2 nav-3-7-12 last">
-<a href="http://www.probikekit.com/contact-points/bicycle-pedals/pedal-spares-accessories.html">
-<span>Pedal Spares &amp; Accessories</span>
-</a>
-</li>
+</div>
+<div id="pbk_menu_block"><span><strong>Shop By Brand</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Shimano Bike Components" href="/brand-shops/shimano-cycling-components.html">Shimano</a></li>
+<li><a title="Campagnolo Bike Components" href="/brand-shops/campagnolo-cycling-components.html">Campagnolo</a></li>
+<li><a title="Sram Bike Components" href="/brand-shops/sram-cycling-components.html">Sram</a></li>
+<li><a title="FSA Bike Components" href="/factfinder/search/result/q/fsa+-shimano+-sram">FSA</a></li>
+<li><a title="Zipp Bike Components" href="/factfinder/search/result/q/zipp+-clothing">Zipp</a></li>
+<li><a title="Miche Bike Components" href="/factfinder/search/result/q/miche">Miche</a></li>
+<li><a title="Token Bike Components" href="/factfinder/search/result/q/token">Token</a></li>
+<li><a title="KMC Bike Components" href="/factfinder/search/result/q/kmc">KMC</a></li>
+<li><a title="TRP Bike Components" href="/factfinder/search/result/q/trp+brake">TRP</a></li>
+<li><a title="Chris King Bike Components" href="/factfinder/search/result/q/chris+king">Chris King</a></li>
+<li><a title="Race Face Bike Components" href="/factfinder/search/result/q/race+face+decadence">Race Face</a></li>
+<li><a title="Frogglegs Bike Components" href="/factfinder/search/result/q/frogglegs">Frogglegs</a></li>
 </ul>
-</li><li class="level1 nav-3-8">
-<a href="http://www.probikekit.com/contact-points/bicycle-saddles.html">
-<span>Bicycle Saddles</span>
-</a>
-</li><li class="level1 nav-3-9 last parent">
-<a href="http://www.probikekit.com/contact-points/bicycle-seatposts.html">
-<span>Bicycle Seatposts</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-3-9-13 first">
-<a href="http://www.probikekit.com/contact-points/bicycle-seatposts/seatposts.html">
-<span>Seatposts</span>
-</a>
-</li><li class="level2 nav-3-9-14 last">
-<a href="http://www.probikekit.com/contact-points/bicycle-seatposts/seatpost-accessories.html">
-<span>Seatpost Accessories</span>
-</a>
-</li>
+</div>
+<div id="pbk_menu_block"><span><strong>Top Groupsets</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Shimano Ultegra Groupsets" href="/factfinder/search/result/q/shimano+ultegra">Shimano Ultegra</a></li>
+<li><a title="Shimano Dura-Ace Groupsets" href="/factfinder/search/result/q/shimano+dura-ace+-ultegra">Shimano Dura-Ace</a></li>
+<li><a title="Shimano 105 Groupsets" href="/factfinder/search/result/q/shimano+105">Shimano 105</a></li>
+<li><a title="Sram Red Groupsets" href="/factfinder/search/result/q/sram+red">SRAM Red</a></li>
+<li><a title="Sram Force Groupsets" href="/factfinder/search/result/q/sram+force">SRAM Force</a></li>
+<li><a title="Sram Rival Groupsets" href="/factfinder/search/result/q/sram+rival">SRAM Rival</a></li>
+<li><a title="Campagnolo Record Groupsets" href="/factfinder/search/result/q/campagnolo+record">Campagnolo Record</a></li>
+<li><a title="Campagnolo Chorus Groupsets" href="/factfinder/search/result/q/campagnolo+chorus">Campagnolo Chorus</a></li>
+<li><a title="Campagnolo Centaur Groupsets" href="/factfinder/search/result/q/campagnolo+centaur">Campagnolo Centaur</a></li>
 </ul>
-</li>
+</div>
+<div id="pbk_menu_block"><span><strong>WHAT'S HOT</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="STAFF PICK - SwissStop Yellow King Brake Pads" href="/factfinder/search/result/q/swissstop+yellow+king"><span style="color:#ff0033; font-weight:bold;">STAFF PICK</span> SwissStop Yellow King Brake Pads</a></li>
+<li><a title="SAVE 25% Shimano 105 5700 Bicycle Chainset" href="/shimano-105-fc-5700-standard-bicycle-chainset.html"><span style="color:#ff0033; font-weight:bold;">SAVE 25%</span> Shimano 105 5700 Bicycle Chainset</a></li>
+<li><a title="SAVE 10% FSA K-Force Light Carbon Seatpost" href="/fsa-k-force-light-carbon-seatpost.html"><span style="color:#ff0033; font-weight:bold;">SAVE 10%</span> FSA K-Force Light Carbon Seatpost</a></li>
+<li><a title="BRAND FOCUS KMC Chains - Save 10%" href="/factfinder/search/result/q/kmc+chains"><span style="color:#ff0033; font-weight:bold;">BRAND FOCUS</span> KMC Chains - Save 10%</a></li>
+<li><a title="STAFF PICK - Gore Ride-On Cables" href="/factfinder/search/result/q/gore+ride+on+cable+-selector"><span style="color:#ff0033; font-weight:bold;">STAFF PICK</span> Gore Ride-On Cables</a></li>
 </ul>
-</li><li class="level0 nav-4 level-top parent">
-<a href="http://www.probikekit.com/wheels.html" class="level-top">
-<span>Wheels</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-4-1 first">
-<a href="http://www.probikekit.com/wheels/shallow-profile-bicycle-wheels.html">
-<span>Shallow Profile Bicycle Wheels</span>
-</a>
-</li><li class="level1 nav-4-2">
-<a href="http://www.probikekit.com/wheels/mid-profile-bicycle-wheels.html">
-<span>Mid Profile Bicycle Wheels</span>
-</a>
-</li><li class="level1 nav-4-3">
-<a href="http://www.probikekit.com/wheels/deep-profile-bicycle-wheels.html">
-<span>Deep Profile Bicycle Wheels</span>
-</a>
-</li><li class="level1 nav-4-4">
-<a href="http://www.probikekit.com/wheels/disc-3-and-5-spoke-bicycle-wheels.html">
-<span>Disc, 3 and 5 Spoke Bicycle Wheels</span>
-</a>
-</li><li class="level1 nav-4-5">
-<a href="http://www.probikekit.com/wheels/track-and-single-speed-wheels.html">
-<span>Track and Single Speed Wheels</span>
-</a>
-</li><li class="level1 nav-4-6">
-<a href="http://www.probikekit.com/wheels/time-trial-wheelsets.html">
-<span>Time Trial Wheelsets</span>
-</a>
-</li><li class="level1 nav-4-7">
-<a href="http://www.probikekit.com/wheels/bicycle-wheel-accessories.html">
-<span>Bicycle Wheel Accessories</span>
-</a>
-</li><li class="level1 nav-4-8">
-<a href="http://www.probikekit.com/wheels/bicycle-wheel-bags.html">
-<span>Bicycle Wheel Bags</span>
-</a>
-</li><li class="level1 nav-4-9 last">
-<a href="http://www.probikekit.com/wheels/bicycle-wheel-hubs.html">
-<span>Hubs</span>
-</a>
-</li>
+<a title="Check out this weeks HOT DEALS On Cycling Components" href="/components.html"><img src="/media/import/images/hotdeals_menu.gif" alt="" width="200" height="80"></a></div>				</div>
+							</li>
+					
+			<li id="top-menu-item" onmouseover="width_block_prev(3);" onmouseout="clear_block_prev(3);" class="level-top menu-item-3 "><a onmouseover="width_block_prev(3);" onmouseout="clear_block_prev(3);" class="level-top" href="http://www.probikekit.com/contact-points.html"><span>Contact Points</span></a>
+								<div onmouseover="width_block_prev(3);" onmouseout="clear_block_prev(3);" class="level0 sub" id="sub-3">
+					<div id="pbk_menu_block"><span><strong>Shop By Category</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Saddles" href="/contact-points/bicycle-saddles.html">Saddles</a></li>
+<li><a title="Seatposts" href="/contact-points/bicycle-seatposts.html">Seatposts</a></li>
+<li><a title="Pedals" href="/contact-points/bicycle-pedals.html">Pedals</a></li>
+<li><a title="Handlebars" href="/contact-points/bicycle-handlebars.html">Handlebars</a></li>
+<li><a title="Stems" href="/contact-points/bicycle-stems.html">Stems</a></li>
+<li><a title="Tri Bars" href="/contact-points/tri-bars.html">Tri Bars</a></li>
+<li><a title="Headsets" href="/contact-points/bicycle-headsets.html">Headsets</a></li>
+<li><a title="Handlebar Tape" href="/contact-points/bicycle-handlebar-accessories/handlebar-tape-and-grips.html">Handlebar Tape</a></li>
+<li><a title="Pedal Cleats" href="/contact-points/bicycle-pedals/pedal-cleats.html">Pedal Cleats</a></li>
+<li><a title="Handlebar Accessories" href="/contact-points/bicycle-handlebar-accessories.html">Handlebar Accessories</a></li>
+<li><a title="Headset Spares" href="/contact-points/headset-spares.html">Headset Spares</a></li>
 </ul>
-</li><li class="level0 nav-5 level-top parent">
-<a href="http://www.probikekit.com/tyres-tubes.html" class="level-top">
-<span>Tyres &amp; Tubes</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-5-1 first">
-<a href="http://www.probikekit.com/tyres-tubes/clincher-bicycle-tyres.html">
-<span>Clincher Bicycle Tyres</span>
-</a>
-</li><li class="level1 nav-5-2">
-<a href="http://www.probikekit.com/tyres-tubes/tubular-bicycle-types.html">
-<span>Tubular Bicycle Tyres</span>
-</a>
-</li><li class="level1 nav-5-3">
-<a href="http://www.probikekit.com/tyres-tubes/tubeless-bicycle-tyres.html">
-<span>Tubeless Bicycle Tyres</span>
-</a>
-</li><li class="level1 nav-5-4">
-<a href="http://www.probikekit.com/tyres-tubes/track-tyres-tubulars.html">
-<span>Track Tyres &amp; Tubulars</span>
-</a>
-</li><li class="level1 nav-5-5">
-<a href="http://www.probikekit.com/tyres-tubes/cyclocross-tyres-tubulars.html">
-<span>Cyclocross Tyres &amp; Tubulars</span>
-</a>
-</li><li class="level1 nav-5-6">
-<a href="http://www.probikekit.com/tyres-tubes/touring-commuting-hybrid-tyres.html">
-<span>Touring, Commuting &amp; Hybrid Tyres</span>
-</a>
-</li><li class="level1 nav-5-7">
-<a href="http://www.probikekit.com/tyres-tubes/bicycle-inner-tubes.html">
-<span>Bicycle Inner Tubes</span>
-</a>
-</li><li class="level1 nav-5-8 last">
-<a href="http://www.probikekit.com/tyres-tubes/bicycle-tyre-tubular-accessories.html">
-<span>Bicycle Tyre &amp; Tubular Accessories</span>
-</a>
-</li>
+<ul id="pbk_menu_reditem">
+<li><a title="CLEARNCE Cycling Contact Points" href="/contact-points/clearance-contact-points.html">CLEARANCE - Contact Points</a></li>
 </ul>
-</li><li class="level0 nav-6 level-top parent">
-<a href="http://www.probikekit.com/clothing.html" class="level-top">
-<span>Clothing</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-6-1 first parent">
-<a href="http://www.probikekit.com/clothing/mens.html">
-<span>Mens</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-6-1-1 first parent">
-<a href="http://www.probikekit.com/clothing/mens/cycling-clothing.html">
-<span>Cycling Clothing</span>
-</a>
-<ul class="level2">
-<li class="level3 nav-6-1-1-1 first">
-<a href="http://www.probikekit.com/clothing/mens/cycling-clothing/shoes.html">
-<span>Shoes</span>
-</a>
-</li><li class="level3 nav-6-1-1-2">
-<a href="http://www.probikekit.com/clothing/mens/cycling-clothing/jerseys.html">
-<span>Jerseys</span>
-</a>
-</li><li class="level3 nav-6-1-1-3">
-<a href="http://www.probikekit.com/clothing/mens/cycling-clothing/shorts.html">
-<span>Shorts</span>
-</a>
-</li><li class="level3 nav-6-1-1-4">
-<a href="http://www.probikekit.com/clothing/mens/cycling-clothing/tights.html">
-<span>Tights</span>
-</a>
-</li><li class="level3 nav-6-1-1-5">
-<a href="http://www.probikekit.com/clothing/mens/cycling-clothing/jackets.html">
-<span>Jackets</span>
-</a>
-</li><li class="level3 nav-6-1-1-6">
-<a href="http://www.probikekit.com/clothing/mens/cycling-clothing/gilets.html">
-<span>Gilets</span>
-</a>
-</li><li class="level3 nav-6-1-1-7">
-<a href="http://www.probikekit.com/clothing/mens/cycling-clothing/waterproof.html">
-<span>Waterproof</span>
-</a>
-</li><li class="level3 nav-6-1-1-8">
-<a href="http://www.probikekit.com/clothing/mens/cycling-clothing/baselayers.html">
-<span>Baselayers</span>
-</a>
-</li><li class="level3 nav-6-1-1-9">
-<a href="http://www.probikekit.com/clothing/mens/cycling-clothing/compression.html">
-<span>Compression</span>
-</a>
-</li><li class="level3 nav-6-1-1-10">
-<a href="http://www.probikekit.com/clothing/mens/cycling-clothing/socks.html">
-<span>Socks</span>
-</a>
-</li><li class="level3 nav-6-1-1-11">
-<a href="http://www.probikekit.com/clothing/mens/cycling-clothing/headwear.html">
-<span>Headwear</span>
-</a>
-</li><li class="level3 nav-6-1-1-12">
-<a href="http://www.probikekit.com/clothing/mens/cycling-clothing/warmers.html">
-<span>Warmers</span>
-</a>
-</li><li class="level3 nav-6-1-1-13">
-<a href="http://www.probikekit.com/clothing/mens/cycling-clothing/gloves-mitts.html">
-<span>Gloves &amp; Mitts</span>
-</a>
-</li><li class="level3 nav-6-1-1-14 last">
-<a href="http://www.probikekit.com/clothing/mens/cycling-clothing/overshoes.html">
-<span>Overshoes</span>
-</a>
-</li>
+</div>
+<div id="pbk_menu_block"><span><strong>Shop By Brand</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="3T" href="/factfinder/search/result/q/3t">3T</a></li>
+<li><a title="Cinelli" href="/factfinder/search/result/q/cinelli+-clothing">Cinelli</a></li>
+<li><a title="Deda" href="/factfinder/search/result/q/deda">Deda</a></li>
+<li><a title="Fizik" href="/factfinder/search/result/q/fizik">Fizik</a></li>
+<li><a title="Look" href="/factfinder/search/result/q/look+pedal+-exustar+-speedplay+-shoe+-principia+-fizik+-clips">Look</a></li>
+<li><a title="San Marco" href="/factfinder/search/result/q/san+marco">San Marco</a></li>
+<li><a title="Selle Italia" href="/factfinder/search/result/q/selle+italia">Selle Italia</a></li>
+<li><a title="Speedplay" href="/factfinder/search/result/q/speedplay">Speedplay</a></li>
+<li><a title="Zipp" href="/factfinder/search/result/q/zipp+-clothing+-wheel">Zipp</a></li>
+<li><a title="Pro" href="/factfinder/search/result/q/pro+missile">Pro</a></li>
+<li><a title="Time" href="/factfinder/search/result/q/time+-shoe+-frame+-computer+-helmet+-socks+-cyclist">Time</a></li>
+<li><a title="FSA" href="/factfinder/search/result/q/fsa+-shimano+-sram">FSA</a></li>
+<li><a title="Profile" href="/factfinder/search/result/q/profile+design+-zipp">Profile</a></li>
+<li><a title="Colnago" href="/factfinder/search/result/q/colnago+-clothing+-frameset">Colnago</a></li>
+<li><a title="Chris King" href="/factfinder/search/result/q/chris+king">Chris King</a></li>
+<li><a title="Cane Creek" href="/factfinder/search/result/q/cane+creek+-fsa+-prorace">Cane Creek</a></li>
+<li><a title="Prologo" href="/factfinder/search/result/q/prologo+saddle+-castelli+-cinelli+-colnago">Prologo</a></li>
 </ul>
-</li><li class="level2 nav-6-1-2 parent">
-<a href="http://www.probikekit.com/clothing/mens/running-clothing.html">
-<span>Running Clothing</span>
-</a>
-<ul class="level2">
-<li class="level3 nav-6-1-2-15 first">
-<a href="http://www.probikekit.com/clothing/mens/running-clothing/shoes.html">
-<span>Shoes</span>
-</a>
-</li><li class="level3 nav-6-1-2-16">
-<a href="http://www.probikekit.com/clothing/mens/running-clothing/jerseys.html">
-<span>Jerseys</span>
-</a>
-</li><li class="level3 nav-6-1-2-17">
-<a href="http://www.probikekit.com/clothing/mens/running-clothing/shorts.html">
-<span>Shorts</span>
-</a>
-</li><li class="level3 nav-6-1-2-18">
-<a href="http://www.probikekit.com/clothing/mens/running-clothing/tights.html">
-<span>Tights</span>
-</a>
-</li><li class="level3 nav-6-1-2-19">
-<a href="http://www.probikekit.com/clothing/mens/running-clothing/jackets.html">
-<span>Jackets</span>
-</a>
-</li><li class="level3 nav-6-1-2-20">
-<a href="http://www.probikekit.com/clothing/mens/running-clothing/gilets.html">
-<span>Gilets</span>
-</a>
-</li><li class="level3 nav-6-1-2-21">
-<a href="http://www.probikekit.com/clothing/mens/running-clothing/baselayers.html">
-<span>Baselayers</span>
-</a>
-</li><li class="level3 nav-6-1-2-22">
-<a href="http://www.probikekit.com/clothing/mens/running-clothing/compression.html">
-<span>Compression</span>
-</a>
-</li><li class="level3 nav-6-1-2-23">
-<a href="http://www.probikekit.com/clothing/mens/running-clothing/socks.html">
-<span>Socks</span>
-</a>
-</li><li class="level3 nav-6-1-2-24">
-<a href="http://www.probikekit.com/clothing/mens/running-clothing/warmers.html">
-<span>Warmers</span>
-</a>
-</li><li class="level3 nav-6-1-2-25">
-<a href="http://www.probikekit.com/clothing/mens/running-clothing/gloves.html">
-<span>Gloves</span>
-</a>
-</li><li class="level3 nav-6-1-2-26">
-<a href="http://www.probikekit.com/clothing/mens/running-clothing/headwear.html">
-<span>Headwear</span>
-</a>
-</li><li class="level3 nav-6-1-2-27 last">
-<a href="http://www.probikekit.com/clothing/mens/running-clothing/other-accessories.html">
-<span>Other Accessories</span>
-</a>
-</li>
+</div>
+<div id="pbk_menu_block"><span><strong>WHAT'S HOT</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Save Up To 50% On Chris King Headsets" href="/factfinder/search/result/q/chris+king"><span style="color:#ff0033; font-weight:bold;">SAVE UP TO 50%</span> Chris King Headsets - Still The Best</a></li>
+<li><a title="STAFF PICK Fizik Saddles" href="/factfinder/search/result/q/fizik+saddle"><span style="color:#ff0033; font-weight:bold;">STAFF PICK</span> Fizik Saddles</a></li>
+<li><a title="STAFF PICK Speedplay Pedals - Save 10%" href="/factfinder/search/result/q/speedplay"><span style="color:#ff0033; font-weight:bold;">STAFF PICK</span> Speedplay Pedals - Save 10%</a></li>
+<li><a title="BEST SELLER Cinelli Handlebar Tape" href="/factfinder/search/result/q/cinelli+tape"><span style="color:#ff0033; font-weight:bold;">BEST SELLER</span> Cinelli Handlebar Tape</a></li>
+<li><a title="SAVE UP TO 33% 3T Components" href="/factfinder/search/result/q/3t"><span style="color:#ff0033; font-weight:bold;">SAVE UP TO 33%</span> 3T Components</a></li>
 </ul>
-</li><li class="level2 nav-6-1-3 parent">
-<a href="http://www.probikekit.com/clothing/mens/swimwear.html">
-<span>Swimwear</span>
-</a>
-<ul class="level2">
-<li class="level3 nav-6-1-3-28 first">
-<a href="http://www.probikekit.com/clothing/mens/swimwear/swim-suits-trunks.html">
-<span>Swim Suits &amp; Trunks</span>
-</a>
-</li><li class="level3 nav-6-1-3-29">
-<a href="http://www.probikekit.com/clothing/mens/swimwear/wetsuits.html">
-<span>Wetsuits</span>
-</a>
-</li><li class="level3 nav-6-1-3-30">
-<a href="http://www.probikekit.com/clothing/mens/swimwear/compression-clothing.html">
-<span>Compression Clothing</span>
-</a>
-</li><li class="level3 nav-6-1-3-31">
-<a href="http://www.probikekit.com/clothing/mens/swimwear/swim-aids.html">
-<span>Swim Aids</span>
-</a>
-</li><li class="level3 nav-6-1-3-32 last">
-<a href="http://www.probikekit.com/clothing/mens/swimwear/other-accessories.html">
-<span>Other Accessories</span>
-</a>
-</li>
+<a title="Check out this weeks HOT DEALS On Bike Handlebars, Stems, Seatposts, Saddles, Pedals &amp; More" href="/contact-points.html"><img src="/media/import/images/hotdeals_menu.gif" alt="" width="200" height="80"></a></div>				</div>
+							</li>
+					
+			<li id="top-menu-item" onmouseover="width_block_prev(4);" onmouseout="clear_block_prev(4);" class="level-top menu-item-4 "><a onmouseover="width_block_prev(4);" onmouseout="clear_block_prev(4);" class="level-top" href="http://www.probikekit.com/wheels.html"><span>Wheels</span></a>
+								<div onmouseover="width_block_prev(4);" onmouseout="clear_block_prev(4);" class="level0 sub" id="sub-4">
+					<div id="pbk_menu_block"><span><strong>Shop By Category</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Shallow Profile Bike Wheels" href="/wheels/shallow-profile-bicycle-wheels.html">Shallow Profile Bicycle Wheels</a></li>
+<li><a title="Mid Profile Bike Wheels" href="/wheels/mid-profile-bicycle-wheels.html">Mid Profile Bicycle Wheels</a></li>
+<li><a title="Deep Profile Bike Wheels" href="/wheels/deep-profile-bicycle-wheels.html">Deep Profile Bicycle Wheels</a></li>
+<li><a title="Disc, 3 &amp; 5 Spoke Bike Wheels" href="/wheels/disc-3-and-5-spoke-bicycle-wheels.html">Disc, 3 and 5 Spoke Bicycle Wheels</a></li>
+<li><a title="Track &amp; Single Speed Bike Wheels" href="/wheels/track-and-single-speed-wheels.html">Track and Single Speed Wheels</a></li>
+<li><a title="Time Trial Bike Wheels" href="/wheels/time-trial-wheelsets.html">Time Trial Wheelsets</a></li>
+<li><a title="Bike Wheel Accessories" href="/wheels/bicycle-wheel-accessories.html">Bicycle Wheel Accessories</a></li>
+<li><a title="Bike Wheel Bags" href="/wheels/bicycle-wheel-bags.html">Bicycle Wheel Bags</a></li>
+<li><a class="over" title="Bike Wheel Hubs" href="/wheels/bicycle-wheel-hubs.html">Bicycle Hubs</a></li>
 </ul>
-</li><li class="level2 nav-6-1-4">
-<a href="http://www.probikekit.com/clothing/mens/cycle-helmets.html">
-<span>Cycle Helmets</span>
-</a>
-</li><li class="level2 nav-6-1-5">
-<a href="http://www.probikekit.com/clothing/mens/sports-eyewear-sunglasses.html">
-<span>Sports Eyewear &amp; Sunglasses</span>
-</a>
-</li><li class="level2 nav-6-1-6 last">
-<a href="http://www.probikekit.com/clothing/mens/casual-cycling-clothing.html">
-<span>Casual Cycling Clothing</span>
-</a>
-</li>
+<ul id="pbk_menu_reditem">
+<li><a title="CLEARNCE Bike Wheels" href="/wheels/clearance-wheels.html">CLEARANCE - Wheels</a></li>
 </ul>
-</li><li class="level1 nav-6-2 parent">
-<a href="http://www.probikekit.com/clothing/womens.html">
-<span>Womens</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-6-2-7 first parent">
-<a href="http://www.probikekit.com/clothing/womens/cycling-clothing.html">
-<span>Cycling Clothing</span>
-</a>
-<ul class="level2">
-<li class="level3 nav-6-2-7-33 first">
-<a href="http://www.probikekit.com/clothing/womens/cycling-clothing/shoes.html">
-<span>Shoes</span>
-</a>
-</li><li class="level3 nav-6-2-7-34">
-<a href="http://www.probikekit.com/clothing/womens/cycling-clothing/jerseys.html">
-<span>Jerseys</span>
-</a>
-</li><li class="level3 nav-6-2-7-35">
-<a href="http://www.probikekit.com/clothing/womens/cycling-clothing/shorts.html">
-<span>Shorts</span>
-</a>
-</li><li class="level3 nav-6-2-7-36">
-<a href="http://www.probikekit.com/clothing/womens/cycling-clothing/tights.html">
-<span>Tights</span>
-</a>
-</li><li class="level3 nav-6-2-7-37">
-<a href="http://www.probikekit.com/clothing/womens/cycling-clothing/jackets.html">
-<span>Jackets</span>
-</a>
-</li><li class="level3 nav-6-2-7-38">
-<a href="http://www.probikekit.com/clothing/womens/cycling-clothing/gilets.html">
-<span>Gilets</span>
-</a>
-</li><li class="level3 nav-6-2-7-39">
-<a href="http://www.probikekit.com/clothing/womens/cycling-clothing/waterproof.html">
-<span>Waterproof</span>
-</a>
-</li><li class="level3 nav-6-2-7-40">
-<a href="http://www.probikekit.com/clothing/womens/cycling-clothing/baselayers.html">
-<span>Baselayers</span>
-</a>
-</li><li class="level3 nav-6-2-7-41">
-<a href="http://www.probikekit.com/clothing/womens/cycling-clothing/compression.html">
-<span>Compression</span>
-</a>
-</li><li class="level3 nav-6-2-7-42">
-<a href="http://www.probikekit.com/clothing/womens/cycling-clothing/socks.html">
-<span>Socks</span>
-</a>
-</li><li class="level3 nav-6-2-7-43">
-<a href="http://www.probikekit.com/clothing/womens/cycling-clothing/headwear.html">
-<span>Headwear</span>
-</a>
-</li><li class="level3 nav-6-2-7-44">
-<a href="http://www.probikekit.com/clothing/womens/cycling-clothing/warmers.html">
-<span>Warmers</span>
-</a>
-</li><li class="level3 nav-6-2-7-45">
-<a href="http://www.probikekit.com/clothing/womens/cycling-clothing/gloves-mitts.html">
-<span>Gloves &amp; Mitts</span>
-</a>
-</li><li class="level3 nav-6-2-7-46">
-<a href="http://www.probikekit.com/clothing/womens/cycling-clothing/overshoes.html">
-<span>Overshoes</span>
-</a>
-</li><li class="level3 nav-6-2-7-47 last">
-<a href="http://www.probikekit.com/clothing/womens/cycling-clothing/team-clothing.html">
-<span>Team Clothing</span>
-</a>
-</li>
+</div>
+<div id="pbk_menu_block"><span><strong>Shop By Brand</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Campagnolo Bicycle Wheels" href="/factfinder/search/result/q/campagnolo+wheel+-zipp+-fulcrum">Campagnolo</a></li>
+<li><a title="DT Swiss Bicycle Wheels" href="/factfinder/search/result/q/dt+swiss+-reynolds+-forward">DT Swiss</a></li>
+<li><a title="Fast Forward Bicycle Wheels" href="/factfinder/search/result/q/fast+forward">Fast Forward</a></li>
+<li><a title="Fulcrum Bicycle Wheels" href="/factfinder/search/result/q/fulcrum">Fulcrum</a></li>
+<li><a title="Reynolds Bicycle Wheels" href="/factfinder/search/result/q/reynolds">Reynolds</a></li>
+<li><a title="Shimano Bicycle Wheels" href="/factfinder/search/result/q/shimano+wheels+-zipp+-tacx+-token+-deore+-fulcrum">Shimano</a></li>
+<li><a title="Sram Bicycle Wheels" href="/factfinder/search/result/q/sram+wheels+-zipp+-ultegra+-fulcrum">Sram</a></li>
+<li><a title="Token Bicycle Wheels" href="/factfinder/search/result/q/token+wheels+-jockey+-lock">Token</a></li>
+<li><a title="Zipp Bicycle Wheels" href="/factfinder/search/result/q/zipp+wheel+-gear">Zipp</a></li>
 </ul>
-</li><li class="level2 nav-6-2-8 parent">
-<a href="http://www.probikekit.com/clothing/womens/running-clothing.html">
-<span>Running Clothing</span>
-</a>
-<ul class="level2">
-<li class="level3 nav-6-2-8-48 first">
-<a href="http://www.probikekit.com/clothing/womens/running-clothing/shoes.html">
-<span>Shoes</span>
-</a>
-</li><li class="level3 nav-6-2-8-49">
-<a href="http://www.probikekit.com/clothing/womens/running-clothing/jerseys.html">
-<span>Jerseys</span>
-</a>
-</li><li class="level3 nav-6-2-8-50">
-<a href="http://www.probikekit.com/clothing/womens/running-clothing/shorts.html">
-<span>Shorts</span>
-</a>
-</li><li class="level3 nav-6-2-8-51">
-<a href="http://www.probikekit.com/clothing/womens/running-clothing/tights.html">
-<span>Tights</span>
-</a>
-</li><li class="level3 nav-6-2-8-52">
-<a href="http://www.probikekit.com/clothing/womens/running-clothing/jackets.html">
-<span>Jackets</span>
-</a>
-</li><li class="level3 nav-6-2-8-53">
-<a href="http://www.probikekit.com/clothing/womens/running-clothing/gilets.html">
-<span>Gilets</span>
-</a>
-</li><li class="level3 nav-6-2-8-54">
-<a href="http://www.probikekit.com/clothing/womens/running-clothing/baselayers.html">
-<span>Baselayers</span>
-</a>
-</li><li class="level3 nav-6-2-8-55">
-<a href="http://www.probikekit.com/clothing/womens/running-clothing/compression.html">
-<span>Compression</span>
-</a>
-</li><li class="level3 nav-6-2-8-56">
-<a href="http://www.probikekit.com/clothing/womens/running-clothing/socks.html">
-<span>Socks</span>
-</a>
-</li><li class="level3 nav-6-2-8-57">
-<a href="http://www.probikekit.com/clothing/womens/running-clothing/warmers.html">
-<span>Warmers</span>
-</a>
-</li><li class="level3 nav-6-2-8-58">
-<a href="http://www.probikekit.com/clothing/womens/running-clothing/gloves.html">
-<span>Gloves</span>
-</a>
-</li><li class="level3 nav-6-2-8-59">
-<a href="http://www.probikekit.com/clothing/womens/running-clothing/headwear.html">
-<span>Headwear</span>
-</a>
-</li><li class="level3 nav-6-2-8-60 last">
-<a href="http://www.probikekit.com/clothing/womens/running-clothing/other-accessories.html">
-<span>Other Accessories</span>
-</a>
-</li>
+</div>
+<div id="pbk_menu_block"><span><strong>WHAT'S HOT</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="STAFF PICK Miche Race Road Racing Wheelset - Save 20%" href="/miche-race-road-racing-wheelset.html"><span style="color:#ff0033; font-weight:bold;">STAFF PICK</span> Miche Race Road Racing Wheelset - Save 20%</a></li>
+<li><a title="SAVE 15% Cinelli Mash Histogram Rolling Chassis" href="/cinelli-mash-histogram-rolling-chassis.html"><span style="color:#ff0033; font-weight:bold;">SAVE 15%</span> Cinelli Mash Histogram Rolling Chassis</a></li>
+<li><a title="SAVE 50% Shimano 7850 Dura-Ace C24 Rear Wheel" href="/shimano-7850-dura-ace-c24-rear-wheel-1.html"><span style="color:#ff0033; font-weight:bold;">SAVE 50%</span> Shimano 7850 Dura-Ace C24 Rear Wheel</a></li>
+<li><a title="Fulcrum Racing 7 Wheelset - FREE Continental Tyres &amp; Tubes" href="/fulcrum-racing-7-wheelset.html"><span style="color:#ff0033; font-weight:bold;">FREE CONTI TYRES &amp; TUBES</span> With Fulcrum Racing 7 Wheelset</a></li>
+<li><a title="STAFF PICK Fast Forward Double Wheel Bag" href="/fast-forward-double-wheel-bag.html"><span style="color:#ff0033; font-weight:bold;">STAFF PICK</span> Fast Forward Double Wheel Bag</a></li>
 </ul>
-</li><li class="level2 nav-6-2-9 parent">
-<a href="http://www.probikekit.com/clothing/womens/swimwear.html">
-<span>Swimwear</span>
-</a>
-<ul class="level2">
-<li class="level3 nav-6-2-9-61 first">
-<a href="http://www.probikekit.com/clothing/womens/swimwear/swim-suits-trunks.html">
-<span>Swim Suits &amp; Trunks</span>
-</a>
-</li><li class="level3 nav-6-2-9-62">
-<a href="http://www.probikekit.com/clothing/womens/swimwear/wetsuits.html">
-<span>Wetsuits</span>
-</a>
-</li><li class="level3 nav-6-2-9-63">
-<a href="http://www.probikekit.com/clothing/womens/swimwear/compression-clothing.html">
-<span>Compression Clothing</span>
-</a>
-</li><li class="level3 nav-6-2-9-64">
-<a href="http://www.probikekit.com/clothing/womens/swimwear/swim-aids.html">
-<span>Swim Aids</span>
-</a>
-</li><li class="level3 nav-6-2-9-65 last">
-<a href="http://www.probikekit.com/clothing/womens/swimwear/other-accessories.html">
-<span>Other Accessories</span>
-</a>
-</li>
+<a title="Check out this weeks HOT DEALS On Bike Wheels &amp; Accessories" href="/wheels.html"><img src="/media/import/images/hotdeals_menu.gif" alt="" width="200" height="80"></a></div>				</div>
+							</li>
+					
+			<li id="top-menu-item" onmouseover="width_block_prev(5);" onmouseout="clear_block_prev(5);" class="level-top menu-item-5 "><a onmouseover="width_block_prev(5);" onmouseout="clear_block_prev(5);" class="level-top" href="http://www.probikekit.com/tyres-tubes.html"><span>Tyres &amp; Tubes</span></a>
+								<div onmouseover="width_block_prev(5);" onmouseout="clear_block_prev(5);" class="level0 sub" id="sub-5">
+					<div id="pbk_menu_block"><span><strong>Shop By Category</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Clincher Bike Tyres" href="/tyres-tubes/clincher-bicycle-tyres.html">Clincher Bicycle Tyres</a></li>
+<li><a title="Tubular Bike Tyres" href="/tyres-tubes/tubular-bicycle-types.html">Tubular Bicycle Tyres</a></li>
+<li><a title="Tubeless Bike Tyres" href="/tyres-tubes/tubeless-bicycle-tyres.html">Tubeless Bicycle Tyres</a></li>
+<li><a title="Track Clincher &amp; Tubular Bike Tyres" href="/tyres-tubes/track-tyres-tubulars.html">Track Tyres &amp; Tubulars</a></li>
+<li><a title="Cyclocross Clincher &amp; Tubular Bike Tyres" href="/tyres-tubes/cyclocross-tyres-tubulars.html">Cyclocross Tyres &amp; Tubulars</a></li>
+<li><a title="Touring, Commuting &amp; Hybrid Tyres" href="/tyres-tubes/touring-commuting-hybrid-tyres.html">Touring, Commuting &amp; Hybrid Tyres</a></li>
+<li><a class="over" title="Bike Tyre Inner Tubes" href="/tyres-tubes/bicycle-inner-tubes.html">Bicycle Inner Tubes</a></li>
+<li><a title="Bike Tyre &amp; Tubular Accessories" href="/tyres-tubes/bicycle-tyre-tubular-accessories.html">Bicycle Tyre &amp; Tubular Accessories</a></li>
 </ul>
-</li><li class="level2 nav-6-2-10">
-<a href="http://www.probikekit.com/clothing/womens/cycle-helmets.html">
-<span>Cycle Helmets</span>
-</a>
-</li><li class="level2 nav-6-2-11">
-<a href="http://www.probikekit.com/clothing/womens/sports-eyewear-sunglasses.html">
-<span>Sports Eyewear &amp; Sunglasses</span>
-</a>
-</li><li class="level2 nav-6-2-12 last">
-<a href="http://www.probikekit.com/clothing/womens/casual-cycling-clothing.html">
-<span>Casual Cycling Clothing</span>
-</a>
-</li>
+<ul id="pbk_menu_reditem">
+<li><a title="Clearance Bicycle Tyres &amp; Inner Tubes" href="/tyres-tubes/clearance-tyres-tubes.html">CLEARANCE - Tyres &amp; Tubes</a></li>
 </ul>
-</li><li class="level1 nav-6-3 last">
-<a href="http://www.probikekit.com/clothing/team-clothing.html">
-<span>Team Clothing</span>
-</a>
-</li>
+</div>
+<div id="pbk_menu_block"><span><strong>Shop By Brand</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Continental Bike Tyres" href="/factfinder/search/result/q/continental">Continental</a></li>
+<li><a title="Vittoria Bike Tyres" href="/factfinder/search/result/q/Vittoria">Vittoria</a></li>
+<li><a title="Schwalbe Bike Tyres" href="/factfinder/search/result/q/Schwalbe">Schwalbe</a></li>
+<li><a title="Michelin Bike Tyres" href="/factfinder/search/result/q/Michelin">Michelin</a></li>
+<li><a title="Hutchinson Bike Tyres" href="/factfinder/search/result/q/Hutchinson">Hutchinson</a></li>
+<li><a title="Veloflex Bike Tyres" href="/factfinder/search/result/q/Veloflex">Veloflex</a></li>
+<li><a title="Vredestein Bike Tyres" href="/factfinder/search/result/q/Vredestein">Vredestein</a></li>
 </ul>
-</li><li class="level0 nav-7 level-top parent">
-<a href="http://www.probikekit.com/luggage-transport.html" class="level-top">
-<span>Luggage &amp; Transport</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-7-1 first">
-<a href="http://www.probikekit.com/luggage-transport/bicycle-panniers-luggage.html">
-<span>Bicycle Panniers &amp; Luggage</span>
-</a>
-</li><li class="level1 nav-7-2">
-<a href="http://www.probikekit.com/luggage-transport/bike-transportation.html">
-<span>Bike Transportation</span>
-</a>
-</li><li class="level1 nav-7-3">
-<a href="http://www.probikekit.com/luggage-transport/bicycle-wheel-bags.html">
-<span>Bicycle Wheel Bags</span>
-</a>
-</li><li class="level1 nav-7-4 last">
-<a href="http://www.probikekit.com/luggage-transport/backpacks-kit-bags.html">
-<span>Backpacks &amp; Kit Bags</span>
-</a>
-</li>
+</div>
+<div id="pbk_menu_block"><span><strong>WHAT'S HOT</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="SAVE UP TO 20% Vittoria Tyres &amp; Tubes" href="/factfinder/search/result/q/vittoria"><span style="color:#ff0033; font-weight:bold;">SAVE UP TO 20%</span> Vittoria Tyres &amp; Tubes</a></li>
+<li><a title="NEW Michelin Pro 4 Race Tyres With FREE Inner Tubes!" href="/michelin-pro-4-race-service-course-road-tyre.html"><span style="color:#ff0033; font-weight:bold;">FREE INNER TUBE</span> With Every Michelin Pro 4 Race Tyre</a></li>
+<li><a title="MULTI-BUY SAVINGS The New Way To Buy Tyres At PBK" href="/factfinder/search/result/q/multi-buy+tyres"><span style="color:#ff0033; font-weight:bold;">MULTI-BUY SAVINGS</span> The New Way To Buy Tyres At PBK</a></li>
+<li><a title="Save 30% On NEW Continental GP Tyre Twin Pack &amp; Tubes" href="/continental-ltd-edition-grand-prix-24-twinpack-with-tubes.html"><span style="color:#ff0033; font-weight:bold;">SAVE 30%</span> New Continental GP Tyre Twin Pack &amp; Tubes</a></li>
+<li><a title="STOCK UP &amp; SAVE Inner Tube Packs Of 5" href="/factfinder/search/result/q/inner+tube+5+pack"><span style="color:#ff0033; font-weight:bold;">STOCK UP &amp; SAVE</span> Inner Tube Packs Of 5</a></li>
 </ul>
-</li><li class="level0 nav-8 level-top parent">
-<a href="http://www.probikekit.com/hydration-nutrition.html" class="level-top">
-<span>Hydration &amp; Nutrition</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-8-1 first parent">
-<a href="http://www.probikekit.com/hydration-nutrition/sports-nutrition-products.html">
-<span>Sports Nutrition Products</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-8-1-1 first">
-<a href="http://www.probikekit.com/hydration-nutrition/sports-nutrition-products/isotonic.html">
-<span>Isotonic</span>
-</a>
-</li><li class="level2 nav-8-1-2">
-<a href="http://www.probikekit.com/hydration-nutrition/sports-nutrition-products/energy.html">
-<span>Energy</span>
-</a>
-</li><li class="level2 nav-8-1-3">
-<a href="http://www.probikekit.com/hydration-nutrition/sports-nutrition-products/recovery.html">
-<span>Recovery</span>
-</a>
-</li><li class="level2 nav-8-1-4 last">
-<a href="http://www.probikekit.com/hydration-nutrition/sports-nutrition-products/supplements.html">
-<span>Supplements</span>
-</a>
-</li>
+<a title="Check out this weeks HOT DEALS On Bike Tyres, Tubes &amp; Accessories" href="/tyres-tubes.html"><img src="/media/import/images/hotdeals_menu.gif" alt="" width="200" height="80"></a></div>				</div>
+							</li>
+					
+			<li id="top-menu-item" onmouseover="width_block_prev(6);" onmouseout="clear_block_prev(6);" class="level-top menu-item-6 "><a onmouseover="width_block_prev(6);" onmouseout="clear_block_prev(6);" class="level-top" href="http://www.probikekit.com/clothing.html"><span>Clothing</span></a>
+								<div onmouseover="width_block_prev(6);" onmouseout="clear_block_prev(6);" class="level0 sub" id="sub-6">
+					<div id="pbk_menu_block"><span><strong>Mens Cycling Clothing</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Mens Cycling Jerseys" href="/clothing/mens/cycling-clothing/jerseys.html">Jerseys</a></li>
+<li><a title="Bicycle Helmets" href="/clothing/mens/cycle-helmets.html">Helmets</a></li>
+<li><a title="Mens Cycling Shoes" href="/clothing/mens/cycling-clothing/shoes.html">Shoes</a></li>
+<li><a title="Mens Cycling Shorts" href="/clothing/mens/cycling-clothing/shorts.html">Shorts</a></li>
+<li><a title="Bicycle Sungalsses &amp; Eyewear" href="/clothing/mens/sports-eyewear-sunglasses.html">Sunglasses &amp; Eyewear</a></li>
+<li><a title="Mens Cycling Tights" href="/clothing/mens/cycling-clothing/tights.html">Tights</a></li>
+<li><a title="Mens Cycling Jackets" href="/clothing/mens/cycling-clothing/jackets.html">Jackets</a></li>
+<li><a title="Mens Cycling Gilets" href="/clothing/mens/cycling-clothing/gilets.html">Gilets</a></li>
+<li><a title="Mens Cycling Waterproof Clothing" href="/clothing/mens/cycling-clothing/waterproof.html">Waterproof</a></li>
+<li><a title="Mens Cycling Baselayers" href="/clothing/mens/cycling-clothing/baselayers.html">Baselayers</a></li>
+<li><a title="Mens Cycling Compression" href="/clothing/mens/cycling-clothing/compression.html">Compression</a></li>
+<li><a title="Mens Cycling Socks" href="/clothing/mens/cycling-clothing/socks.html">Socks</a></li>
+<li><a title="Mens Cycling Headwear" href="/clothing/mens/cycling-clothing/headwear.html">Headwear</a></li>
+<li><a title="Mens Cycling Warmers" href="/clothing/mens/cycling-clothing/warmers.html">Warmers</a></li>
+<li><a title="Mens Cycling Gloves &amp; Mitts" href="/clothing/mens/cycling-clothing/gloves-mitts.html">Gloves &amp; Mitts</a></li>
+<li><a title="Mens Cycling Overshoes" href="/clothing/mens/cycling-clothing/overshoes.html">Overshoes</a></li>
+<li><a title="Casual Clothing" href="/clothing/mens/casual-cycling-clothing.html">Casual Cycling Clothing</a></li>
 </ul>
-</li><li class="level1 nav-8-2">
-<a href="http://www.probikekit.com/hydration-nutrition/cycling-bottles.html">
-<span>Cycling Bottles</span>
-</a>
-</li><li class="level1 nav-8-3">
-<a href="http://www.probikekit.com/hydration-nutrition/bicycle-bottle-cages.html">
-<span>Bicycle Bottle Cages</span>
-</a>
-</li><li class="level1 nav-8-4">
-<a href="http://www.probikekit.com/hydration-nutrition/aero-hydration.html">
-<span>Aero Hydration</span>
-</a>
-</li><li class="level1 nav-8-5">
-<a href="http://www.probikekit.com/hydration-nutrition/hydration-packs.html">
-<span>Hydration Packs</span>
-</a>
-</li><li class="level1 nav-8-6 last">
-<a href="http://www.probikekit.com/hydration-nutrition/hydration-nutrition-books.html">
-<span>Hydration &amp; Nutrition Books</span>
-</a>
-</li>
+<ul id="pbk_menu_reditem">
+<li><a title="Cycling Team Clothing" href="/2011-pro-team-clothing.html">Team Clothing</a></li>
+<li><a title="Clearance Mens &amp; Womens Bicycle Clothing" href="/clothing/clearance-clothing.html">CLEARANCE - Clothing</a></li>
 </ul>
-</li><li class="level0 nav-9 level-top parent">
-<a href="http://www.probikekit.com/training-performance.html" class="level-top">
-<span>Training &amp; Performance</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-9-1 first">
-<a href="http://www.probikekit.com/training-performance/embrocation-chamois-cream.html">
-<span>Embrocation &amp; Chamois Cream</span>
-</a>
-</li><li class="level1 nav-9-2 parent">
-<a href="http://www.probikekit.com/training-performance/cycle-computers-heart-rate-monitors.html">
-<span>Cycle Computers &amp; HR Monitors</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-9-2-1 first">
-<a href="http://www.probikekit.com/training-performance/cycle-computers-heart-rate-monitors/cycling-computers.html">
-<span>Cycling Computers</span>
-</a>
-</li><li class="level2 nav-9-2-2 last">
-<a href="http://www.probikekit.com/training-performance/cycle-computers-heart-rate-monitors/watches.html">
-<span>Watches</span>
-</a>
-</li>
+</div>
+<div id="pbk_menu_block"><span><strong>Womens Cycling Clothing</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Womens Cycling Jerseys" href="/clothing/womens/cycling-clothing/jerseys.html">Jerseys</a></li>
+<li><a title="Bicycle Helmets" href="/clothing/womens/cycle-helmets.html">Helmets</a></li>
+<li><a title="Womens Cycling Shoes" href="/clothing/womens/cycling-clothing/shoes.html">Shoes</a></li>
+<li><a title="Womens Cycling Shorts" href="/clothing/womens/cycling-clothing/shorts.html">Shorts</a></li>
+<li><a title="Bicycle Sungalsses &amp; Eyewear" href="/clothing/womens/sports-eyewear-sunglasses.html">Sunglasses &amp; Eyewear</a></li>
+<li><a title="Womens Cycling Tights" href="/clothing/womens/cycling-clothing/tights.html">Tights</a></li>
+<li><a title="Womens Cycling Jackets" href="/clothing/womens/cycling-clothing/jackets.html">Jackets</a></li>
+<li><a title="Womens Cycling Gilets" href="/clothing/womens/cycling-clothing/gilets.html">Gilets</a></li>
+<li><a title="Womens Cycling Waterproof Clothing" href="/clothing/womens/cycling-clothing/waterproof.html">Waterproof</a></li>
+<li><a title="Womens Cycling Baselayers" href="/clothing/womens/cycling-clothing/baselayers.html">Baselayers</a></li>
+<li><a title="Womens Cycling Compression" href="/clothing/womens/cycling-clothing/compression.html">Compression</a></li>
+<li><a title="Womens Cycling Socks" href="/clothing/womens/cycling-clothing/socks.html">Socks</a></li>
+<li><a title="Womens Cycling Headwear" href="/clothing/womens/cycling-clothing/headwear.html">Headwear</a></li>
+<li><a title="Womens Cycling Warmers" href="/clothing/womens/cycling-clothing/warmers.html">Warmers</a></li>
+<li><a title="Womens Cycling Gloves &amp; Mitts" href="/clothing/womens/cycling-clothing/gloves-mitts.html">Gloves &amp; Mitts</a></li>
+<li><a title="Womens Cycling Overshoes" href="/clothing/womens/cycling-clothing/overshoes.html">Overshoes</a></li>
+<li><a title="Casual Clothing" href="/clothing/womens/casual-cycling-clothing.html">Casual Cycling Clothing</a></li>
 </ul>
-</li><li class="level1 nav-9-3">
-<a href="http://www.probikekit.com/training-performance/turbo-trainers-cycle-rollers.html">
-<span>Turbo Trainers &amp; Cycle Rollers</span>
-</a>
-</li><li class="level1 nav-9-4 last">
-<a href="http://www.probikekit.com/training-performance/cycling-related-books-dvds.html">
-<span>Cycling Related Books &amp; DVDs</span>
-</a>
-</li>
+</div>
+<div id="pbk_menu_block"><span><strong>Shop By Brand</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Adidas" href="/factfinder/search/result/q/Adidas">Adidas</a></li>
+<li><a title="Campagnolo" href="/factfinder/search/result/q/Campagnolo">Campagnolo</a></li>
+<li><a title="Castelli" href="/factfinder/search/result/q/Castelli">Castelli</a></li>
+<li><a title="Craft" href="/factfinder/search/result/q/Craft">Craft</a></li>
+<li><a title="Endura" href="/factfinder/search/result/q/Endura">Endura</a></li>
+<li><a title="Giro" href="/factfinder/search/result/q/Giro">Giro</a></li>
+<li><a title="Gore Bike Wear" href="/factfinder/search/result/q/Gore+Bike+Wear">Gore Bike Wear</a></li>
+<li><a title="Hincapie" href="/factfinder/search/result/q/Hincapie">Hincapie</a></li>
+<li><a title="Nalini" href="/factfinder/search/result/q/Nalini">Nalini</a></li>
+<li><a title="NorthWave" href="/factfinder/search/result/q/Northwave">NorthWave</a></li>
+<li><a title="PBK" href="/factfinder/search/result/q/PBK">PBK</a></li>
+<li><a title="Pearl Izumi" href="/factfinder/search/result/q/Pearl%2BIzumi">Pearl Izumi</a></li>
+<li><a title="Sidi" href="/factfinder/search/result/q/Sidi">Sidi</a></li>
+<li><a title="Sportful" href="/factfinder/search/result/q/Sportful">Sportful</a></li>
 </ul>
-</li><li class="level0 nav-10 level-top parent">
-<a href="http://www.probikekit.com/tools-maintenance.html" class="level-top">
-<span>Tools &amp; Maintenance</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-10-1 first">
-<a href="http://www.probikekit.com/tools-maintenance/bicycle-cleaning.html">
-<span>Bicycle Cleaning</span>
-</a>
-</li><li class="level1 nav-10-2">
-<a href="http://www.probikekit.com/tools-maintenance/bicycle-lubrication.html">
-<span>Bicycle Lubrication</span>
-</a>
-</li><li class="level1 nav-10-3">
-<a href="http://www.probikekit.com/tools-maintenance/bicycle-workshop-tools.html">
-<span>Bicycle Workshop Tools</span>
-</a>
-</li><li class="level1 nav-10-4">
-<a href="http://www.probikekit.com/tools-maintenance/cycling-multi-tools.html">
-<span>Cycling Multi Tools</span>
-</a>
-</li><li class="level1 nav-10-5">
-<a href="http://www.probikekit.com/tools-maintenance/bicycle-pumps.html">
-<span>Bicycle Pumps</span>
-</a>
-</li><li class="level1 nav-10-6">
-<a href="http://www.probikekit.com/tools-maintenance/bike-workstands.html">
-<span>Bike Workstands</span>
-</a>
-</li><li class="level1 nav-10-7">
-<a href="http://www.probikekit.com/tools-maintenance/bike-maintenance-guides.html">
-<span>Bike Maintenance Guides</span>
-</a>
-</li><li class="level1 nav-10-8">
-<a href="http://www.probikekit.com/tools-maintenance/bicycle-storage-stands.html">
-<span>Bicycle Storage Stands</span>
-</a>
-</li><li class="level1 nav-10-9 last">
-<a href="http://www.probikekit.com/tools-maintenance/workshop-safety-equipment.html">
-<span>Workshop Safety Equipment</span>
-</a>
-</li>
+</div>
+<div id="pbk_menu_block"><span><strong>WHAT'S HOT</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Save Up To 70% Biggest Ever Clothing Sale - Huge Savings!" href="/clothing/clearance-clothing.html"><span style="color:#ff0033; font-weight:bold;">SAVE UP TO 70%</span> Biggest Ever Clothing Sale - Huge Savings!</a></li>
+<li><a title="New Morvelo Clothing Range" href="/factfinder/search/result/q/morvelo"><span style="color:#ff0033; font-weight:bold;">NEW</span> Morvelo Clothing Range</a></li>
+<li><a title="NEW 2012 Sidi Ergo 3 Cycling Shoes" href="/factfinder/search/result/q/sidi+ergo+3+vent"><span style="color:#ff0033; font-weight:bold;">NEW 2012 SIDI</span> Sidi Ergo 3 Vent Road Cycling Shoes In Stock</a></li>
+<li><a title="NEW Santini 365 Cycling Clothing Range" href="/factfinder/search/result/q/santini+365"><span style="color:#ff0033; font-weight:bold;">NEW</span> Santini 365 Cycling Clothing Range</a></li>
+<li><a title="NEW Diadora Road Cycling Shoes" href="/factfinder/search/result/q/diadora"><span style="color:#ff0033; font-weight:bold;">NEW</span> Diadora Shoes - Cadel Evans Shoe Of Choice</a></li>
 </ul>
-</li><li class="level0 nav-11 level-top last parent">
-<a href="http://www.probikekit.com/lights-security.html" class="level-top">
-<span>Lights &amp; Security</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-11-1 first">
-<a href="http://www.probikekit.com/lights-security/bicycle-locks-security.html">
-<span>Bicycle Locks &amp; Security</span>
-</a>
-</li><li class="level1 nav-11-2">
-<a href="http://www.probikekit.com/lights-security/bicycle-lights-torches.html">
-<span>Bicycle Lights &amp; Torches</span>
-</a>
-</li><li class="level1 nav-11-3">
-<a href="http://www.probikekit.com/lights-security/reflective-high-visibility-clothing.html">
-<span>Reflective High Visibility Clothing</span>
-</a>
-</li><li class="level1 nav-11-4">
-<a href="http://www.probikekit.com/lights-security/bicycle-mirrors.html">
-<span>Bicycle Mirrors</span>
-</a>
-</li><li class="level1 nav-11-5 last">
-<a href="http://www.probikekit.com/lights-security/bicycle-bells.html">
-<span>Bicycle Bells</span>
-</a>
-</li>
+<a title="Check out this weeks HOT DEALS On Cycling Clothing" href="/clothing.html"><img src="/media/import/images/hotdeals_menu.gif" alt="" width="200" height="80"></a></div>				</div>
+							</li>
+					
+			<li id="top-menu-item" onmouseover="width_block_prev(7);" onmouseout="clear_block_prev(7);" class="level-top menu-item-7 "><a onmouseover="width_block_prev(7);" onmouseout="clear_block_prev(7);" class="level-top" href="http://www.probikekit.com/luggage-transport.html"><span>Luggage &amp; Transport</span></a>
+								<div onmouseover="width_block_prev(7);" onmouseout="clear_block_prev(7);" class="level0 sub" id="sub-7">
+					<div id="pbk_menu_block"><span><strong>Shop By Category</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Bike Panniers &amp; Luggage" href="/luggage-transport/bicycle-panniers-luggage.html">Bicycle Panniers &amp; Luggage</a></li>
+<li><a title="Bike Bags &amp; Transportation" href="/luggage-transport/bike-transportation.html">Bike Transportation</a></li>
+<li><a title="Bike Wheel Bags" href="/luggage-transport/bicycle-wheel-bags.html">Bicycle Wheel Bags</a></li>
+<li><a title="Backpacks &amp; kit Bags" href="/luggage-transport/backpacks-kit-bags.html">Backpacks &amp; Kit Bags</a></li>
 </ul>
-</li>    </ul>
+<ul id="pbk_menu_reditem">
+<li><a title="Clearance Cycling Luggage &amp; Transport" href="/luggage-transport/clearance-luggage-transport.html">CLEARANCE - Luggage &amp; Transport</a></li>
+</ul>
+</div>
+<div id="pbk_menu_block"><span><strong>Shop By Brand</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Agu" href="/luggage-transport/agu-bike-transportation-bag.html">Agu</a></li>
+<li><a title="Biknd" href="/luggage-transport/bike-transportation/biknd-helium-air-padded-bicycle-travel-bag-1.html">Biknd</a></li>
+<li><a title="Deuter" href="/factfinder/search/result/q/deuter">Deuter</a></li>
+<li><a title="Evoc" href="/factfinder/search/result/q/evoc">Evoc</a></li>
+<li><a title="Lezyne" href="/factfinder/search/result/q/lezyne+bag">Lezyne</a> </li>
+<li><a title="Ortlieb" href="/factfinder/search/result/q/ortlieb">Ortlieb</a></li>
+<li><a title="Pro" href="/factfinder/search/result/q/pro+bag+durable+-vaude+-look+-hincapie+-ortlieb+-fast+-aero">Pro</a></li>
+<li><a title="Topeak" href="/factfinder/search/result/q/topeak+-pump">Topeak</a></li>
+<li><a title="Vaude" href="/factfinder/search/result/q/vaude+-clothing">Vaude</a></li>
+</ul>
+</div>
+<div id="pbk_menu_block"><span><strong>WHAT'S HOT</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="SAVE 40% Vaude Discover Pro Front Bicycle Panniers" href="/vaude-discover-pro-front-bicycle-panniers.html"><span style="color:#ff0033; font-weight:bold;">SAVE 40%</span> Vaude Discover Pro Front Bicycle Panniers</a></li>
+<li><a title="SAVE 55% Vittoria Tyre Covers" href="/vittoria-tyre-covers.html"><span style="color:#ff0033; font-weight:bold;">SAVE 55%</span> Vittoria Tyre Covers</a></li>
+<li><a title="STAFF PICK Scicon Atlas Compact Bicycle Travel Case" href="/scicon-atlas-compact-travel-case.html"><span style="color:#ff0033; font-weight:bold;">STAFF PICK</span> Scicon Atlas Compact Bicycle Travel Case</a></li>
+<li><a title="STAFF PICK Ortlieb Back-Roller Plus Bicycle Panniers" href="/ortlieb-back-roller-plus-bicycle-panniers.html"><span style="color:#ff0033; font-weight:bold;">STAFF PICK</span> Ortlieb Back-Roller Plus Bicycle Panniers</a></li>
+<li><a title="BEST SELLER Fizik Saddle Pack" href="/fizik-saddle-pack.html"><span style="color:#ff0033; font-weight:bold;">BEST SELLER</span> Fizik Saddle Pack</a></li>
+</ul>
+<a title="Check out this weeks HOT DEALS On Luggage &amp; Transport" href="/luggage-transport.html"><img src="/media/import/images/hotdeals_menu.gif" alt="" width="200" height="80"></a></div>				</div>
+							</li>
+					
+			<li id="top-menu-item" onmouseover="width_block_prev(8);" onmouseout="clear_block_prev(8);" class="level-top menu-item-8 "><a onmouseover="width_block_prev(8);" onmouseout="clear_block_prev(8);" class="level-top" href="http://www.probikekit.com/hydration-nutrition.html"><span>Hydration &amp; Nutrition</span></a>
+								<div onmouseover="width_block_prev(8);" onmouseout="clear_block_prev(8);" class="level0 sub" id="sub-8">
+					<div id="pbk_menu_block"><span><strong>Shop By Category</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Sports Nutrition" href="/hydration-nutrition/sports-nutrition-products.html">Sports Nutrition Products</a></li>
+<li><a title="Bike Bottles" href="/hydration-nutrition/cycling-bottles.html">Cycling Bottles</a></li>
+<li><a title="Bike Bottle Cages" href="/hydration-nutrition/bicycle-bottle-cages.html">Bicycle Bottle Cages</a></li>
+<li><a title="Aero Hydration" href="/hydration-nutrition/aero-hydration.html">Aero Hydration</a></li>
+<li><a title="Cycling Hydration Packs" href="/hydration-nutrition/hydration-packs.html">Hydration Packs</a></li>
+<li><a title="Hydration &amp; Nutrion Literature" href="/hydration-nutrition/hydration-nutrition-books.html">Hydration &amp; Nutrition Books</a></li>
+</ul>
+<ul id="pbk_menu_reditem">
+<li><a title="Clearance Sports Hydration &amp; Nutrition" href="/hydration-nutrition/clearance-hydration-nutrition.html">CLEARANCE - Hydration &amp; Nutrition</a></li>
+</ul>
+</div>
+<div id="pbk_menu_block"><span><strong>Shop By Brand</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="High5" href="/cycling-brand-list-a-z/high5-sports-nutrition.html">High5</a></li>
+<li><a title="PowerBar" href="/factfinder/search/result/q/powerbar">PowerBar</a></li>
+<li><a title="Zipvit" href="/factfinder/search/result/q/zipvit">Zipvit</a></li>
+<li><a title="Clif" href="/factfinder/search/result/q/clif">Clif</a></li>
+<li><a title="Torq" href="/factfinder/search/result/q/Torq">Torq</a></li>
+<li><a title="Shotz" href="/factfinder/search/result/q/shotz">Shotz</a></li>
+<li><a title="Sport Beans" href="/factfinder/search/result/q/Sport+Beans">Sport Beans</a></li>
+<li><a title="Nuun" href="/factfinder/search/result/q/Nuun">Nuun</a></li>
+<li><a title="Elite" href="/factfinder/search/result/q/elite">Elite</a></li>
+<li><a title="tacx" href="/factfinder/search/result/q/tacx">Tacx</a></li>
+<li><a title="topeak" href="/factfinder/search/result/q/topeak">Topeak</a></li>
+<li><a title="Xlab" href="/factfinder/search/result/q/xlab">XLab</a></li>
+</ul>
+</div>
+<div id="pbk_menu_block"><span><strong>Shop By Type</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Sports Isotonic Energy Products" href="/hydration-nutrition/sports-nutrition-products/isotonic.html">Isotonic</a></li>
+<li><a title="Sports Energy Products" href="/hydration-nutrition/sports-nutrition-products/energy.html">Energy</a></li>
+<li><a title="Sports Recovery Products" href="/hydration-nutrition/sports-nutrition-products/recovery.html">Recovery</a></li>
+<li><a title="Sports Supplements" href="/hydration-nutrition/sports-nutrition-products/supplements.html">Supplements</a></li>
+</ul>
+</div>
+<div id="pbk_menu_block"><span><strong>WHAT'S HOT</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="SAVE 70% Tacx Juno Cycling Bottle Cage" href="/tacx-tao-carbon-cycling-cage-water-bottle.html"><span style="color:#ff0033; font-weight:bold;">SAVE 70%</span> Tacx Juno Cycling Bottle Cage</a></li>
+<li><a title="SAVE 50% MuleBar Hunza Nut MegaBites - Box Of 32" href="/mulebar-hunza-nut-megabites-energy-bar-box-of-32.html"><span style="color:#ff0033; font-weight:bold;">SAVE 50%</span> MuleBar Hunza Nut MegaBites - Box Of 32</a></li>
+<li><a title="STAFF PICK High5 Sports Zero Active Hydration Tablets" href="/high5-sports-zero-active-hydration-tablets-tube-of-20.html"><span style="color:#ff0033; font-weight:bold;">STAFF PICK</span> High5 Sports Zero Active Hydration Tablets</a></li>
+<li><a title="STAFF PICK PowerBar Beta Alanine" href="/catalog/product/view/id/25605/s/powerbar-beta-alanine/"><span style="color:#ff0033; font-weight:bold;">STAFF PICK</span> PowerBar Beta Alanine</a></li>
+<li><a title="BEST SELLER High5 Sports Race Pack - 11 Sachets" href="/hydration-nutrition/sports-nutrition-products/energy/high5-sports-race-pack-11-sachet-race-day-box.html"><span style="color:#ff0033; font-weight:bold;">BEST SELLER</span> High5 Sports Race Pack - 11 Sachets</a></li>
+</ul>
+<a title="Check out this weeks HOT DEALS On Bike Frames &amp; Forks" href="/frames-forks.html"><img src="/media/import/images/hotdeals_menu.gif" alt="" width="200" height="80"></a></div>				</div>
+							</li>
+					
+			<li id="top-menu-item" onmouseover="width_block_prev(9);" onmouseout="clear_block_prev(9);" class="level-top menu-item-9 "><a onmouseover="width_block_prev(9);" onmouseout="clear_block_prev(9);" class="level-top" href="http://www.probikekit.com/training-performance.html"><span>Training &amp; Performance</span></a>
+								<div onmouseover="width_block_prev(9);" onmouseout="clear_block_prev(9);" class="level0 sub" id="sub-9">
+					<div id="pbk_menu_block"><span><strong>Shop By Category</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Cycling Lotions &amp; Massage Oils" href="/training-performance/embrocation-chamois-cream.html">Embrocation &amp; Chamois Cream</a></li>
+<li><a title="Cycle Computers &amp; Heart Rate Monitors" href="/training-performance/cycle-computers-heart-rate-monitors.html">Cycle Computers &amp; HR Monitors </a></li>
+<li><a title="Cycling Turbo Trainers &amp; Rollers" href="/training-performance/turbo-trainers-cycle-rollers.html">Turbo Trainers &amp; Cycle Rollers</a></li>
+<li><a title="Cycling Literature" href="/training-performance/cycling-related-books-dvds.html">Cycling Related Books &amp; DVDs</a></li>
+</ul>
+<ul id="pbk_menu_reditem">
+<li><a title="Clearance Training &amp; Performance" href="/training-performance/clearance-training-performance.html">CLEARANCE - Training &amp; Performance</a></li>
+</ul>
+</div>
+<div id="pbk_menu_block"><span><strong>Shop By Brand</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Blackburn" href="/factfinder/search/result/q/blackburn+-light">Blackburn</a></li>
+<li><a title="Cateye" href="/factfinder/search/result/q/cateye+-light">Cateye</a></li>
+<li><a title="CycleOps" href="/factfinder/search/result/q/cycleops">CycleOps</a></li>
+<li><a title="Elite" href="/factfinder/search/result/q/elite+trainer">Elite</a></li>
+<li><a title="Garmin" href="/factfinder/search/result/q/garmin+-clothing">Garmin</a></li>
+<li><a title="Polar" href="/factfinder/search/result/q/polar+-buff+-polarised+-polaris">Polar</a></li>
+<li><a title="Shimano" href="/factfinder/search/result/q/shimano+flightdeck">Shimano</a></li>
+<li><a title="Smart" href="/training-performance/smart-9-function-digital-wireless-cycle-computer.html">Smart</a></li>
+<li><a title="Tacx" href="/factfinder/search/result/q/tacx">Tacx</a></li>
+</ul>
+</div>
+<div id="pbk_menu_block"><span><strong>WHAT'S HOT</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="SAVE 35% Cateye Strada 8 Handlebar Mount Kit" href="/cateye-strada-8-handlebar-mount-kit.html"><span style="color:#ff0033; font-weight:bold;">SAVE 35%</span> Cateye Strada 8 Handlebar Mount Kit</a></li>
+<li><a title="SAVE 60% Garmin Oregon 300 Sports Computer" href="/garmin-oregon-300-sports-computer.html"><span style="color:#ff0033; font-weight:bold;">SAVE 60%</span> Garmin Oregon 300 Sports Computer</a></li>
+<li><a title="STAFF PICK Sportique Joint &amp; Muscle Gel" href="/sportique-joint-and-muscle-gel.html"><span style="color:#ff0033; font-weight:bold;">STAFF PICK</span> Sportique Joint &amp; Muscle Gel</a></li>
+<li><a title="STAFF PICK PBK Chamois Creme" href="/pbk-morgan-blue-chamois-creme.html"><span style="color:#ff0033; font-weight:bold;">STAFF PICK</span> PBK Chamois Creme</a></li>
+<li><a title="BEST SELLER Garmin Edge 500 GPS/HRM/CAD Computer" href="/garmin-edge-500-gps-hrm-cad-cycle-computer-neutral.html"><span style="color:#ff0033; font-weight:bold;">BEST SELLER</span> Garmin Edge 500 GPS/HRM/CAD Computer</a></li>
+</ul>
+<a title="Check out this weeks HOT DEALS On Training &amp; Performance" href="/training-performance.html"><img src="/media/import/images/hotdeals_menu.gif" alt="" width="200" height="80"></a></div>				</div>
+							</li>
+					
+			<li id="top-menu-item" onmouseover="width_block_prev(10);" onmouseout="clear_block_prev(10);" class="level-top menu-item-10 "><a onmouseover="width_block_prev(10);" onmouseout="clear_block_prev(10);" class="level-top" href="http://www.probikekit.com/tools-maintenance.html"><span>Tools &amp; Maintenance</span></a>
+								<div onmouseover="width_block_prev(10);" onmouseout="clear_block_prev(10);" class="level0 sub" id="sub-10">
+					<div id="pbk_menu_block"><span><strong>Shop By Category</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Bike Cleaning Products" href="/tools-maintenance/bicycle-cleaning.html">Bicycle Cleaning</a></li>
+<li><a title="Bike Lubrication" href="/tools-maintenance/bicycle-lubrication.html">Bicycle Lubrication</a></li>
+<li><a title="Bike Workshop Tools" href="/tools-maintenance/bicycle-workshop-tools.html">Bicycle Workshop Tools</a></li>
+<li><a title="Bike Multi Tools" href="/tools-maintenance/cycling-multi-tools.html">Cycling Multi Tools</a></li>
+<li><a title="Bike Pumps" href="/tools-maintenance/bicycle-pumps.html">Bicycle Pumps</a></li>
+<li><a title="Bike Workstands" href="/tools-maintenance/bike-workstands.html">Bike Workstands</a></li>
+<li><a title="Bike Maintenance Guides" href="/tools-maintenance/bike-maintenance-guides.html">Bike Maintenance Guides</a></li>
+<li><a title="Bike Storage Stands" href="/tools-maintenance/bicycle-storage-stands.html">Bicycle Storage Stands</a></li>
+<li><a title="Bike Safety Equipment" href="/tools-maintenance/workshop-safety-equipment.html">Workshop Safety Equipment</a></li>
+</ul>
+<ul id="pbk_menu_reditem">
+<li><a title="Clearance Tools &amp; Maintenance" href="/tools-maintenance/clearance-tool-maintenance.html">CLEARANCE - Tools &amp; Maintenance</a></li>
+</ul>
+</div>
+<div id="pbk_menu_block"><span><strong>Shop By Brand</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Park Tool" href="/factfinder/search/result/q/park+tool">Park Tool</a></li>
+<li><a title="Lezyne" href="/factfinder/search/result/q/lezyne">Lezyne</a></li>
+<li><a title="Topeak" href="/factfinder/search/result/q/topeak+-bag+-pack+-tribag+-bottle">Topeak</a></li>
+<li><a title="Finish Line" href="/factfinder/search/result/q/finish+line">Finish Line</a></li>
+<li><a title="Pedros" href="/factfinder/search/result/q/pedros">Pedros</a></li>
+<li><a title="Tacx" href="/factfinder/search/result/q/tacx+-trainer+-bottle+-antares">Tacx</a></li>
+<li><a title="Shimano" href="/factfinder/search/result/q/shimano+tool+-tacx+-pedros+-sram+-pbk+-park+-topeak+-m-wave">Shimano</a></li>
+<li><a title="Campagnolo" href="/factfinder/search/result/q/campagnolo+tool+ut">Campagnolo</a></li>
+<li><a title="Rock n Roll" href="/factfinder/search/result/q/rock+n+roll">Rock n Roll</a></li>
+<li><a title="Muc Off" href="/factfinder/search/result/q/muc+off">Muc Off</a></li>
+<li><a title="Airbone" href="/factfinder/search/result/q/airbone">Airbone</a></li>
+<li><a title="Super B" href="/factfinder/search/result/q/super+b">Super B</a></li>
+<li><a title="Knog" href="/factfinder/search/result/q/knog+tool+-park">Knog</a></li>
+<li><a title="Feedback Sports" href="/factfinder/search/result/q/feedback+sports">Feedback Sports</a></li>
+<li><a title="Blackburn" href="/factfinder/search/result/q/blackburn+pump">Blackburn</a></li>
+<li><a title="Weldtite" href="/factfinder/search/result/q/weldtite">Weldtite</a></li>
+<li><a title="M-Wave" href="/factfinder/search/result/q/m-wave+tool+set">M-Wave</a></li>
+<li><a title="Ice Toolz" href="/tools-maintenance/bicycle-workshop-tools/xpert-precision-torque-wrench.html">Ice Toolz</a></li>
+</ul>
+</div>
+<div id="pbk_menu_block"><span><strong>WHAT'S HOT</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="SAVE 30% Airbone Supernova Pocket Bicycle Pump" href="/airbone-supernova-pocket-bicycle-pump.html"><span style="color:#ff0033; font-weight:bold;">SAVE 30%</span> Airbone Supernova Pocket Bicycle Pump</a></li>
+<li><a title="SAVE 70% Super B 6mm Hex Wrench" href="/super-b-6mm-hex-wrench.html"><span style="color:#ff0033; font-weight:bold;">SAVE 70%</span> Super B 6mm Hex Wrench</a></li>
+<li><a title="STAFF PICK Tacx T3025 Spider Professional Workstand" href="/tacx-t3025-spider-professional-workstand.html"><span style="color:#ff0033; font-weight:bold;">STAFF PICK</span> Tacx T3025 Spider Professional Workstand</a></li>
+<li><a title="BEST SELLER Super B Gear Cleaning Brush" href="/tools-maintenance/bicycle-cleaning/super-b-gear-cleaning-brush.html"><span style="color:#ff0033; font-weight:bold;">BEST SELLER</span> Super B Gear Cleaning Brush</a></li>
+<li><a title="BEST SELLER Park Tool CB-2 ChainBrite 2 Cleaner" href="/park-tool-cb-2-chainbrite-2-cleaner.html"><span style="color:#ff0033; font-weight:bold;">BEST SELLER</span> Park Tool CB-2 ChainBrite 2 Cleaner</a></li>
+</ul>
+<a title="Check out this weeks HOT DEALS On Tools &amp; Maintenance" href="/tools-maintenance.html"><img src="/media/import/images/hotdeals_menu.gif" alt="" width="200" height="80"></a></div>				</div>
+							</li>
+					
+			<li onmouseover="width_block();" onmouseout="clear_block();" class="level-top menu-item-11 last"><a onmouseover="width_block();" onmouseout="clear_block();" class="level-top" href="http://www.probikekit.com/lights-security.html"><span>Lights &amp; Security</span></a>
+								<div onmouseover="width_block();" onmouseout="clear_block();" id="last-submenu" class="level0 sub">
+					<div id="pbk_menu_block"><span><strong>Shop By Category</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Bike Locks &amp; Security" href="/lights-security/bicycle-locks-security.html">Bicycle Locks &amp; Security</a></li>
+<li><a title="Bike Lights &amp; Torches" href="/lights-security/bicycle-lights-torches.html">Bicycle Lights &amp; Torches</a></li>
+<li><a title="High Viz Cycling Clothing" href="/lights-security/reflective-high-visibility-clothing.html">Reflective High Visibility Clothing</a></li>
+<li><a title="Bike Mirrors" href="/lights-security/bicycle-mirrors.html">Bicycle Mirrors</a></li>
+<li><a title="Bike Bells" href="/lights-security/bicycle-bells.html">Bicycle Bells</a></li>
+</ul>
+<ul id="pbk_menu_reditem">
+<li><a title="Clearance Bike Lighting &amp; Security" href="/lights-security/clearance-lights-security.html">CLEARANCE - Lights &amp; Security</a></li>
+</ul>
+</div>
+<div id="pbk_menu_block"><span><strong>Shop By Brand</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="Blackburn" href="/factfinder/search/result/q/blackburn+light">Blackburn</a></li>
+<li><a title="Cateye" href="/factfinder/search/result/q/cateye+light">Cateye</a></li>
+<li><a title="Endura" href="/lights-security/endura-luminite-replacement-unit.html">Endura</a></li>
+<li><a title="Fibre Flare" href="/factfinder/search/result/q/fibre+flare">Fibre Flare</a></li>
+<li><a title="Knog" href="/factfinder/search/result/q/knog">Knog</a></li>
+<li><a title="Kryptonite" href="/factfinder/search/result/q/kryptonite">Kryptonite</a></li>
+<li><a title="Light &amp; Motion" href="/factfinder/search/result/q/light+and+motion+-campagnolo+-cateye+-pearl+-shimano">Light &amp; Motion</a></li>
+<li><a title="Niterider" href="/factfinder/search/result/q/niterider">Niterider</a></li>
+<li><a title="Petzl" href="/factfinder/search/result/q/petzl">Petzl</a></li>
+<li><a title="Respro" href="/factfinder/search/result/q/respro">Respro</a></li>
+<li><a title="Smart" href="/factfinder/search/result/q/smart+light">Smart</a></li>
+<li><a title="Topeak" href="/factfinder/search/result/q/topeak+hp">Topeak</a></li>
+</ul>
+</div>
+<div id="pbk_menu_block"><span><strong>WHAT'S HOT</strong></span> 
+<ul id="pbk_menu_list">
+<li><a title="SAVE UP TO 40% Smart Lights" href="/factfinder/search/result/q/smart+light"><span style="color:#ff0033; font-weight:bold;">SAVE UP TO 40%</span> Smart Lights</a></li>
+<li><a title="STAFF PICK Lezyne Power Drive LED Front Cycle Light" href="/lezyne-power-drive-led-front-cycle-light.html"><span style="color:#ff0033; font-weight:bold;">STAFF PICK</span> Lezyne Power Drive LED Front Cycle Light</a></li>
+<li><a title="STAFF PICK USB Rechargeable Lights" href="/factfinder/search/result/q/usb+light+-wheel+-lezyne+-gopro"><span style="color:#ff0033; font-weight:bold;">STAFF PICK</span> USB Rechargeable Lights</a></li>
+<li><a title="BEST SELLER Tacx Lumos Front &amp; Rear LED Handlebar Lightset" href="/tacx-lumos-front-and-rear-led-handlebar-lightset.html"><span style="color:#ff0033; font-weight:bold;">BEST SELLER</span> Tacx Lumos Front &amp; Rear LED Handlebar Lightset</a></li>
+<li><a title="BEST SELLER Ventura Mini Flashlight Rear Cycle Light" href="/ventura-mini-flashlight-rear-cycle-light.html"><span style="color:#ff0033; font-weight:bold;">BEST SELLER</span> Ventura Mini Flashlight Rear Cycle Light</a></li>
+</ul>
+<a title="Check out this weeks HOT DEALS On Lights &amp; Security" href="/lights-security.html"><img src="/media/import/images/hotdeals_menu.gif" alt="" width="200" height="80"></a></div>				</div>
+							</li>
+		            </ul>
 </div>
 <div id="sub-nav">
 <ul>
-<li class="hide">Brand Shops                                                   
+<li class="hide"><a title="Over 180 Cycling Brands In Store at PBK" href="http://www.probikekit.com/cycling-brand-list-a-z.html">Brand Shops</a> 
 <ul>
-<li><span class="widget widget-category-link-inline"><a href="http://www.probikekit.com/brand-shops/campagnolo-cycling-components.html"><span>Campagnolo</span></a></span>
+<li><span class="widget widget-category-link-inline"><a href="http://www.probikekit.com/cycling-brand-list-a-z/campagnolo-cycling-components.html" title="Campagnolo Cycling Components"><span>Campagnolo</span></a></span>
 </li>
-<li><span class="widget widget-category-link-inline"><a href="http://www.probikekit.com/brand-shops/shimano-cycling-components.html"><span>Shimano</span></a></span>
+<li><span class="widget widget-category-link-inline"><a href="http://www.probikekit.com/cycling-brand-list-a-z/shimano-cycling-components.html" title="Shimano Cycling Components"><span>Shimano</span></a></span>
 </li>
-<li><span class="widget widget-category-link-inline"><a href="http://www.probikekit.com/brand-shops/sram-cycling-components.html"><span>SRAM</span></a></span>
+<li><span class="widget widget-category-link-inline"><a href="http://www.probikekit.com/cycling-brand-list-a-z/sram-cycling-components.html" title="SRAM Cycling Components"><span>SRAM</span></a></span>
+</li>
+<li><span class="widget widget-category-link-inline"><a href="http://www.probikekit.com/cycling-brand-list-a-z/castelli-cycling-clothing.html" title="Castelli Cycling Clothing"><span>Castelli</span></a></span>
+</li>
+<li><span class="widget widget-category-link-inline"><a href="http://www.probikekit.com/cycling-brand-list-a-z/cervelo-road-triathlon-timetrial-track-bikes.html" title="Cervelo Road, Time Trial, Triathlon &amp; Track Bikes"><span>Cervelo</span></a></span>
+</li>
+<li><span class="widget widget-category-link-inline"><a href="http://www.probikekit.com/cycling-brand-list-a-z/high5-sports-nutrition.html" title="High5 Race Faster Energy Food"><span>High5 Energy</span></a></span>
+</li>
+<li><span class="widget widget-category-link-inline"><a href="http://www.probikekit.com/cycling-brand-list-a-z/gopro-hero-cameras.html" title="GoPro Wearable  Waterproof HD Video Cameras"><span>GoPro</span></a></span>
 </li>
 </ul>
 </li>
@@ -1078,9 +1119,32 @@ optionalZipCountries = [];
 </li>
 </ul>
 </li>
-</ul>
+<li><a style="color:#cc0033; font-weight:bold;" href="http://www.probikekit.com/clearance.html">CLEARANCE</a> 
 <ul>
-<li><a style="color:#cc0033; font-weight:bold;" href="http://www.probikekit.com/clearance.html">CLEARANCE</a></li>
+<li><span class="widget widget-category-link-inline"><a href="http://www.probikekit.com/frames-forks/clearance-frames-forks.html" title="Clearance Frames &amp; Forks"><span>Frames &amp; Forks</span></a></span>
+</li>
+<li><span class="widget widget-category-link-inline"><a href="http://www.probikekit.com/components/clearance-components.html" title="Clearance Components"><span>Components</span></a></span>
+</li>
+<li><span class="widget widget-category-link-inline"><a href="http://www.probikekit.com/contact-points/clearance-contact-points.html" title="Clearance Contact Points"><span>Contact Points</span></a></span>
+</li>
+<li><span class="widget widget-category-link-inline"><a href="http://www.probikekit.com/wheels/clearance-wheels.html" title="Clearance Wheels"><span>Wheels</span></a></span>
+</li>
+<li><span class="widget widget-category-link-inline"><a href="http://www.probikekit.com/tyres-tubes/clearance-tyres-tubes.html" title="Clearance Tyres &amp; Tubes"><span>Tyres &amp; Tubes</span></a></span>
+</li>
+<li><span class="widget widget-category-link-inline"><a href="http://www.probikekit.com/clothing/clearance-clothing.html" title="Clearance Clothing"><span>Clothing</span></a></span>
+</li>
+<li><span class="widget widget-category-link-inline"><a href="http://www.probikekit.com/luggage-transport/clearance-luggage-transport.html" title="Clearance Luggage &amp; Transport"><span>Luggage &amp; Transport</span></a></span>
+</li>
+<li><span class="widget widget-category-link-inline"><a href="http://www.probikekit.com/hydration-nutrition/clearance-hydration-nutrition.html" title="Clearance Hydration &amp; Nutrition"><span>Hydration &amp; Nutrition</span></a></span>
+</li>
+<li><span class="widget widget-category-link-inline"><a href="http://www.probikekit.com/training-performance/clearance-training-performance.html" title="Clearance Training &amp; Performance"><span>Training &amp; Performance</span></a></span>
+</li>
+<li><span class="widget widget-category-link-inline"><a href="http://www.probikekit.com/tools-maintenance/clearance-tool-maintenance.html" title="Clearance Tools &amp; Maintenance"><span>Tools &amp; Maintenance</span></a></span>
+</li>
+<li><span class="widget widget-category-link-inline"><a href="http://www.probikekit.com/lights-security/clearance-lights-security.html" title="Clearance Lights &amp; Security"><span>Lights &amp; Security</span></a></span>
+</li>
+</ul>
+</li>
 </ul> 
 	<div class="sub-nav-right">
 		<div class="top-search-bar">
@@ -1089,7 +1153,7 @@ optionalZipCountries = [];
 <form id="search_mini_form" action="http://www.probikekit.com/factfinder/search/result/" method="get">
 <div class="shop-by-brand-wrapper">
 	<div class="shop-by-brand-option">or</div>
-	<select name="filterbrand" id="shopby-brand" class="shopby-dropdown" title="Shop By Brand"><option value="">-- Shop by Brand --</option><option value="1000+Mile">1000 Mile</option><option value="2XU">2XU</option><option value="3T">3T</option><option value="A2Z">A2Z</option><option value="Adcal">Adcal</option><option value="Adidas">Adidas</option><option value="Agu">Agu</option><option value="Airbone">Airbone</option><option value="Alpina">Alpina</option><option value="Ambrosio">Ambrosio</option><option value="AquaSphere">AquaSphere</option><option value="Assos">Assos</option><option value="Avid">Avid</option><option value="Aztec">Aztec</option><option value="Barbieri">Barbieri</option><option value="Bell">Bell</option><option value="Bianchi">Bianchi</option><option value="Bicycle+Line">Bicycle Line</option><option value="Bike+Medicine">Bike Medicine</option><option value="Biknd">Biknd</option><option value="Blackburn">Blackburn</option><option value="Bloc">Bloc</option><option value="Blue+Seventy">Blue Seventy</option><option value="Body+Glide">Body Glide</option><option value="Buff">Buff</option><option value="Buh+Bump">Buh Bump</option><option value="Campagnolo">Campagnolo</option><option value="Cane+Creek">Cane Creek</option><option value="Cannondale">Cannondale</option><option value="Carmichael">Carmichael</option><option value="Carnac">Carnac</option><option value="Casco">Casco</option><option value="Castelli">Castelli</option><option value="Cateye">Cateye</option><option value="Catlike">Catlike</option><option value="Cervelo">Cervelo</option><option value="Chamois+Butt%27r">Chamois Butt'r</option><option value="Chris+King">Chris King</option><option value="Cinelli">Cinelli</option><option value="Clean+Bottle">Clean Bottle</option><option value="Clif">Clif</option><option value="Colnago">Colnago</option><option value="Continental">Continental</option><option value="Craft">Craft</option><option value="Crank+Brothers">Crank Brothers</option><option value="Crud">Crud</option><option value="Cycleops">Cycleops</option><option value="Cyfac">Cyfac</option><option value="De+Marchi">De Marchi</option><option value="De+Rosa">De Rosa</option><option value="Deda">Deda</option><option value="DeFeet">DeFeet</option><option value="Descente">Descente</option><option value="Deuter">Deuter</option><option value="Dolan">Dolan</option><option value="DT+Swiss">DT Swiss</option><option value="Dugast">Dugast</option><option value="Easton">Easton</option><option value="Ekoi">Ekoi</option><option value="Electron">Electron</option><option value="Elite">Elite</option><option value="Endura">Endura</option><option value="Enduro">Enduro</option><option value="ETC">ETC</option><option value="Evil+Bikes">Evil Bikes</option><option value="Evoc">Evoc</option><option value="Exustar">Exustar</option><option value="Fast+Forward">Fast Forward</option><option value="Feedback+Sports">Feedback Sports</option><option value="Felt">Felt</option><option value="Fibre+Flare">Fibre Flare</option><option value="Finish+Line">Finish Line</option><option value="Fizik">Fizik</option><option value="FMB">FMB</option><option value="Frogglegs">Frogglegs</option><option value="FSA">FSA</option><option value="Fulcrum">Fulcrum</option><option value="Garmin">Garmin</option><option value="Giro">Giro</option><option value="Gore+Bike+Wear">Gore Bike Wear</option><option value="Green+Oil">Green Oil</option><option value="Haynes">Haynes</option><option value="High5">High5</option><option value="Hincapie">Hincapie</option><option value="Hudz">Hudz</option><option value="Hutchinson">Hutchinson</option><option value="Hydrapack">Hydrapack</option><option value="Ice+Toolz">Ice Toolz</option><option value="Jagwire">Jagwire</option><option value="Jimi">Jimi</option><option value="Kask">Kask</option><option value="Kenda">Kenda</option><option value="Kinesis">Kinesis</option><option value="KMC">KMC</option><option value="Knog">Knog</option><option value="Kool+Stop">Kool Stop</option><option value="Kryptonite">Kryptonite</option><option value="Lake">Lake</option><option value="LAS">LAS</option><option value="Leatherman">Leatherman</option><option value="Lezyne">Lezyne</option><option value="Light+and+Motion">Light and Motion</option><option value="Lightweight">Lightweight</option><option value="Limar">Limar</option><option value="Lizard+Skins">Lizard Skins</option><option value="Look">Look</option><option value="Lucozade">Lucozade</option><option value="M-Part">M-Part</option><option value="Madison">Madison</option><option value="Magnum">Magnum</option><option value="Mavic">Mavic</option><option value="Met">Met</option><option value="MetriGear">MetriGear</option><option value="Miche">Miche</option><option value="Michelin">Michelin</option><option value="Minoura">Minoura</option><option value="Moa">Moa</option><option value="Morgan+Blue">Morgan Blue</option><option value="Morvelo">Morvelo</option><option value="Muc+Off">Muc Off</option><option value="Nalini">Nalini</option><option value="Natures+Kiss">Natures Kiss</option><option value="Nikwax">Nikwax</option><option value="NiteIze">NiteIze</option><option value="Niterider">Niterider</option><option value="No+Tubes">No Tubes</option><option value="Noene">Noene</option><option value="Nokon">Nokon</option><option value="NorthWave">NorthWave</option><option value="Nutrak">Nutrak</option><option value="Nuun">Nuun</option><option value="One+23">One 23</option><option value="Orbea">Orbea</option><option value="Oredon">Oredon</option><option value="Ortlieb">Ortlieb</option><option value="Oval">Oval</option><option value="Park+Tool">Park Tool</option><option value="PBK">PBK</option><option value="Pearl+Izumi">Pearl Izumi</option><option value="Pedros">Pedros</option><option value="Petzl">Petzl</option><option value="Polar">Polar</option><option value="PowerBar">PowerBar</option><option value="Powerplay">Powerplay</option><option value="PowerTap">PowerTap</option><option value="Princeton+Tec">Princeton Tec</option><option value="Principia">Principia</option><option value="Pro">Pro</option><option value="Pro+Max">Pro Max</option><option value="Pro-Bolt">Pro-Bolt</option><option value="Profile">Profile</option><option value="Prologo">Prologo</option><option value="Prorace">Prorace</option><option value="Quartz">Quartz</option><option value="Quintana+Roo">Quintana Roo</option><option value="Raceface">Raceface</option><option value="Raleigh">Raleigh</option><option value="Rema">Rema</option><option value="Respro">Respro</option><option value="Reynolds">Reynolds</option><option value="Ridley">Ridley</option><option value="Ritchey">Ritchey</option><option value="Rock+n+Roll">Rock n Roll</option><option value="Ronhill">Ronhill</option><option value="Rotor">Rotor</option><option value="RPM">RPM</option><option value="San+Marco">San Marco</option><option value="Santini">Santini</option><option value="Saris">Saris</option><option value="Schwalbe">Schwalbe</option><option value="Scicon">Scicon</option><option value="SealSkinz">SealSkinz</option><option value="Selev">Selev</option><option value="Selle+Italia">Selle Italia</option><option value="Shimano">Shimano</option><option value="Shotz">Shotz</option><option value="Sidi">Sidi</option><option value="Sigma">Sigma</option><option value="Silverpoint">Silverpoint</option><option value="Skins">Skins</option><option value="SKS">SKS</option><option value="Slime">Slime</option><option value="Sludge">Sludge</option><option value="Smart">Smart</option><option value="Sockguy">Sockguy</option><option value="Sof+Sole">Sof Sole</option><option value="Sombrio">Sombrio</option><option value="SpecialitesTA">SpecialitesTA</option><option value="Speedfil">Speedfil</option><option value="Speedplay">Speedplay</option><option value="Spinervals">Spinervals</option><option value="Spiuk">Spiuk</option><option value="Sportful">Sportful</option><option value="Sportique">Sportique</option><option value="Sports+Beans">Sports Beans</option><option value="SRAM">SRAM</option><option value="SRM">SRM</option><option value="Stans">Stans</option><option value="Stronglight">Stronglight</option><option value="Sunwise">Sunwise</option><option value="Suplest">Suplest</option><option value="SwissStop">SwissStop</option><option value="System+EX">System EX</option><option value="Tacx">Tacx</option><option value="TekTro">TekTro</option><option value="Thomson">Thomson</option><option value="Tifosi">Tifosi</option><option value="Time">Time</option><option value="Timex">Timex</option><option value="Token">Token</option><option value="Topeak">Topeak</option><option value="Torq">Torq</option><option value="Transfil">Transfil</option><option value="TRP">TRP</option><option value="Tubus">Tubus</option><option value="Ultima">Ultima</option><option value="Ultimate">Ultimate</option><option value="Ultimate+Ceramic">Ultimate Ceramic</option><option value="Unbranded">Unbranded</option><option value="Uvex">Uvex</option><option value="Van+Nicholas">Van Nicholas</option><option value="Vaude">Vaude</option><option value="Veloflex">Veloflex</option><option value="Velox">Velox</option><option value="Vermarc">Vermarc</option><option value="Vermont">Vermont</option><option value="Vision">Vision</option><option value="Vittoria">Vittoria</option><option value="Vredestein">Vredestein</option><option value="Weldtite">Weldtite</option><option value="Wenger">Wenger</option><option value="Wese">Wese</option><option value="Wheeler">Wheeler</option><option value="Wheels+Manufacturing">Wheels Manufacturing</option><option value="Wilier">Wilier</option><option value="Wipperman">Wipperman</option><option value="X-Act">X-Act</option><option value="X-Bionic">X-Bionic</option><option value="X-Socks">X-Socks</option><option value="XLab">XLab</option><option value="XPert">XPert</option><option value="Yokozuna">Yokozuna</option><option value="Zipp">Zipp</option><option value="Zipvit">Zipvit</option><option value="Zoot">Zoot</option></select></div>
+	<select name="filterbrand" id="shopby-brand" class="shopby-dropdown" title="Shop By Brand"><option value="">-- Shop by Brand --</option><option value="1000+Mile">1000 Mile</option><option value="2XU">2XU</option><option value="3T">3T</option><option value="Adidas">Adidas</option><option value="Agu">Agu</option><option value="Airbone">Airbone</option><option value="Ambrosio">Ambrosio</option><option value="AquaSphere">AquaSphere</option><option value="Assos">Assos</option><option value="Aztec">Aztec</option><option value="Barbieri">Barbieri</option><option value="Bell">Bell</option><option value="Bianchi">Bianchi</option><option value="Bike+Medicine">Bike Medicine</option><option value="Biknd">Biknd</option><option value="Blackburn">Blackburn</option><option value="Blue+Seventy">Blue Seventy</option><option value="Buff">Buff</option><option value="Buh+Bump">Buh Bump</option><option value="Campagnolo">Campagnolo</option><option value="Cane+Creek">Cane Creek</option><option value="Carnac">Carnac</option><option value="Castelli">Castelli</option><option value="Cateye">Cateye</option><option value="Chamois+Butt%27r">Chamois Butt'r</option><option value="Chris+King">Chris King</option><option value="Cinelli">Cinelli</option><option value="Clif">Clif</option><option value="Colnago">Colnago</option><option value="Continental">Continental</option><option value="Craft">Craft</option><option value="Crud">Crud</option><option value="Cycleops">Cycleops</option><option value="Deda">Deda</option><option value="DeFeet">DeFeet</option><option value="Descente">Descente</option><option value="Deuter">Deuter</option><option value="DT+Swiss">DT Swiss</option><option value="Elite">Elite</option><option value="Endura">Endura</option><option value="Enduro">Enduro</option><option value="Evoc">Evoc</option><option value="Exustar">Exustar</option><option value="Fast+Forward">Fast Forward</option><option value="Feedback+Sports">Feedback Sports</option><option value="Fibre+Flare">Fibre Flare</option><option value="Finish+Line">Finish Line</option><option value="Fizik">Fizik</option><option value="Frogglegs">Frogglegs</option><option value="FSA">FSA</option><option value="Fulcrum">Fulcrum</option><option value="Garmin">Garmin</option><option value="Giro">Giro</option><option value="Gore+Bike+Wear">Gore Bike Wear</option><option value="Green+Oil">Green Oil</option><option value="High5">High5</option><option value="Hincapie">Hincapie</option><option value="Hudz">Hudz</option><option value="Hutchinson">Hutchinson</option><option value="Ice+Toolz">Ice Toolz</option><option value="Jagwire">Jagwire</option><option value="Jimi">Jimi</option><option value="Kinesis">Kinesis</option><option value="KMC">KMC</option><option value="Knog">Knog</option><option value="Kryptonite">Kryptonite</option><option value="Lake">Lake</option><option value="LAS">LAS</option><option value="Lezyne">Lezyne</option><option value="Light+and+Motion">Light and Motion</option><option value="Lizard+Skins">Lizard Skins</option><option value="Look">Look</option><option value="Met">Met</option><option value="Miche">Miche</option><option value="Michelin">Michelin</option><option value="Minoura">Minoura</option><option value="Morgan+Blue">Morgan Blue</option><option value="Morvelo">Morvelo</option><option value="M-Part">M-Part</option><option value="Muc+Off">Muc Off</option><option value="Nalini">Nalini</option><option value="Nikwax">Nikwax</option><option value="Niterider">Niterider</option><option value="Nokon">Nokon</option><option value="NorthWave">NorthWave</option><option value="No+Tubes">No Tubes</option><option value="Nuun">Nuun</option><option value="One+23">One 23</option><option value="Ortlieb">Ortlieb</option><option value="Park+Tool">Park Tool</option><option value="PBK">PBK</option><option value="Pearl+Izumi">Pearl Izumi</option><option value="Pedros">Pedros</option><option value="Polar">Polar</option><option value="PowerBar">PowerBar</option><option value="Pro">Pro</option><option value="Pro-Bolt">Pro-Bolt</option><option value="Profile">Profile</option><option value="Prologo">Prologo</option><option value="Prorace">Prorace</option><option value="Raceface">Raceface</option><option value="Raleigh">Raleigh</option><option value="Rema">Rema</option><option value="Respro">Respro</option><option value="Reynolds">Reynolds</option><option value="Ritchey">Ritchey</option><option value="Rock+n+Roll">Rock n Roll</option><option value="San+Marco">San Marco</option><option value="Santini">Santini</option><option value="Saris">Saris</option><option value="Schwalbe">Schwalbe</option><option value="Scicon">Scicon</option><option value="SealSkinz">SealSkinz</option><option value="Selev">Selev</option><option value="Selle+Italia">Selle Italia</option><option value="Shimano">Shimano</option><option value="Shotz">Shotz</option><option value="Sidi">Sidi</option><option value="SKS">SKS</option><option value="Slime">Slime</option><option value="Smart">Smart</option><option value="Sockguy">Sockguy</option><option value="SpecialitesTA">SpecialitesTA</option><option value="Speedfil">Speedfil</option><option value="Speedplay">Speedplay</option><option value="Spiuk">Spiuk</option><option value="Sportful">Sportful</option><option value="Sportique">Sportique</option><option value="Sports+Beans">Sports Beans</option><option value="SRAM">SRAM</option><option value="Sunwise">Sunwise</option><option value="Suplest">Suplest</option><option value="SwissStop">SwissStop</option><option value="System+EX">System EX</option><option value="Tacx">Tacx</option><option value="TekTro">TekTro</option><option value="Tifosi">Tifosi</option><option value="Time">Time</option><option value="Token">Token</option><option value="Topeak">Topeak</option><option value="TRP">TRP</option><option value="Tubus">Tubus</option><option value="Ultimate+Ceramic">Ultimate Ceramic</option><option value="Unbranded">Unbranded</option><option value="Uvex">Uvex</option><option value="Vaude">Vaude</option><option value="Veloflex">Veloflex</option><option value="Velox">Velox</option><option value="Vermarc">Vermarc</option><option value="Vision">Vision</option><option value="Vittoria">Vittoria</option><option value="Weldtite">Weldtite</option><option value="Wheeler">Wheeler</option><option value="Wheels+Manufacturing">Wheels Manufacturing</option><option value="X-Bionic">X-Bionic</option><option value="XLab">XLab</option><option value="X-Socks">X-Socks</option><option value="Yokozuna">Yokozuna</option><option value="Zipp">Zipp</option><option value="Zipvit">Zipvit</option><option value="Zoot">Zoot</option></select></div>
 <div class="form-search">
     <label for="search">Search site:</label>
     
@@ -1157,22 +1221,12 @@ optionalZipCountries = [];
 <li><strong><a style="text-transform:none; font-size: small;" href="#disclosure">What Information Do We Share?</a></strong></li>
 <li><strong><a style="text-transform:none; font-size: small;" href="#thirdparty">What About Links To Other Sites?</a></strong></li>
 </div>
-<p>At ProBikeKit we know how much you care about how information you give us is used and protected. Our Security and Privacy Policies detail what information 
-
-we collect from you, how we use it to offer a high quality service and how we ensure it is kept secure.</p>
+<p>At ProBikeKit we know how much you care about how information you give us is used and protected. Our Security and Privacy Policies detail what information   we collect from you, how we use it to offer a high quality service and how we ensure it is kept secure.</p>
 <p>At ProBikeKit we employ market leading data security techniques and processes so that our customers can use our services with the highest confidence.</p>
-<p>By visiting our Websites, registering your account with us or ordering items from us you are accepting and consenting to our Security and Privacy 
-
-Policies. If we change our Security and Privacy Policies, we will post those changes on this page.</p>
-<p>If you have any queries relating to our Security and Privacy Policies, please take a look at our <a href="http://www.probikekit.com/faq">FAQs</a>, and if 
-
-this does not answer your query, please <a href="https://www.probikekit.com/enquiryform/other/form/type/general/" rel="" class="lightwindow" params="lightwindow_width=880,lightwindow_height=550,lightwindow_iframe_embed=true,lightwindow_type=external"><span><span>Contact Us</span></span></a>.</p>
+<p>By visiting our Websites, registering your account with us or ordering items from us you are accepting and consenting to our Security and Privacy   Policies. If we change our Security and Privacy Policies, we will post those changes on this page.</p>
+<p>If you have any queries relating to our Security and Privacy Policies, please take a look at our <a href="http://www.probikekit.com/faq">FAQs</a>, and if   this does not answer your query, please <a href="https://www.probikekit.com/enquiryform/other/form/type/general/" rel="" class="lightwindow" params="lightwindow_width=880,lightwindow_height=550,lightwindow_iframe_embed=true,lightwindow_type=external"><span><span>Contact Us</span></span></a>.</p>
 <p><strong><a name="data_collection"></a><span style="font-size: medium;">What Data Do We Collect?</span></strong></p>
-<p>As with all online retailers, in order to deliver a high quality service it is essential that we collect and store certain information about you. We use 
-
-your information to process your orders, inform you of any delays or problems and to send you news, special offers and promotions. The information we collect 
-
-is:</p>
+<p>As with all online retailers, in order to deliver a high quality service it is essential that we collect and store certain information about you. We use   your information to process your orders, inform you of any delays or problems and to send you news, special offers and promotions. The information we collect   is:</p>
 <div style="padding-left: 20px; padding-bottom: 10px;">
 <li>Your name</li>
 <li>Email address</li>
@@ -1180,86 +1234,37 @@ is:</p>
 <li>Telephone numbers</li>
 <li>Marketing permissions</li>
 </div>
-<p>We will normally contact you by email, including when we confirm your order, its dispatch and any news and marketing material. We generally won’t need to 
-
-call you by ‘phone, and will only do this if there is an issue with an order or purchase, there are queries on your account or you have asked us to contact 
-
-you. We may send you certain marketing material by text to your mobile ‘phone. As well as using your delivery address to ship the goods, we may also send 
-
-news and marketing materials by post. We collect credit or debit card details when you place an order, and will use these to collect payment, following 
-
-security checks, only with your authority.</p>
-<p>We only send you news items and marketing material with your consent. If you have been receiving such material, but do not wish to continue, or haven’t 
-
-been receiving it but wish to, you can <a href="https://www.probikekit.com/newsletter/manage/">change your newsletter preferences</a> or <a href="https://www.probikekit.com/customer/account/edit/">change your post and SMS preferences</a>.</p>        
-<p>You can check and/or change the information that we hold about you by visiting <a href="https://www.probikekit.com/customer/account/">your account</a>.  If you 
-
-contact us, we will take reasonable steps to verify your identity before granting access to your personal profile or making data changes, in order to protect 
-
-access to your information.</p>
+<p>We will normally contact you by email, including when we confirm your order, its dispatch and any news and marketing material. We generally won’t need to   call you by ‘phone, and will only do this if there is an issue with an order or purchase, there are queries on your account or you have asked us to contact   you. We may send you certain marketing material by text to your mobile ‘phone. As well as using your delivery address to ship the goods, we may also send   news and marketing materials by post. We collect credit or debit card details when you place an order, and will use these to collect payment, following   security checks, only with your authority.</p>
+<p>We only send you news items and marketing material with your consent. If you have been receiving such material, but do not wish to continue, or haven’t   been receiving it but wish to, you can <a href="https://www.probikekit.com/newsletter/manage/">change your newsletter preferences</a> or <a href="https://www.probikekit.com/customer/account/edit/">change your post and SMS preferences</a>. Alternatively at the bottom of every PBK email there is an unsubscribe link, click this and you will no longer receive email marketing messages from us. If you are having problems unsubscribing please <a href="https://www.probikekit.com/enquiryform/other/form/type/general/" rel="" class="lightwindow" params="lightwindow_width=880,lightwindow_height=550,lightwindow_iframe_embed=true,lightwindow_type=external"><span><span>Contact Us</span></span></a>. and we will be glad to help.</p>
+<p>Alternatively if you would like to contact us by post, please write to us using the following address:</p>
+<p>ProBikeKit<br>Aynam Mills<br>Aynam Road<br>Kendal<br>Cumbria<br>LA9 7DE<br>United Kingdom</p>
+<p>You can check and/or change the information that we hold about you by visiting <a href="https://www.probikekit.com/customer/account/">your account</a>.  If you   contact us, we will take reasonable steps to verify your identity before granting access to your personal profile or making data changes, in order to protect   access to your information.</p>
 <p><a href="#top">back to top</a></p>
 <p><strong><a name="secure_information"></a><span style="font-size: medium;">How Secure Is My Personal Information?</span></strong></p>
-<p>Our Websites and supporting infrastructure have been designed to deliver market leading data security, to ensure our customers can have the highest levels 
-
-of confidence when using our Websites or buying goods from us. We constantly review emerging security technologies and threats to keep abreast of new trends 
-
-and issues and strive to maintain our market leading position.</p>
-<p>All sensitive information (such as credit-card numbers) is only transmitted via Secure Socket Layer (SSL) technology, which means that you cannot 
-
-inadvertently place an order through an unsecured connection. All sensitive information is stored in an encrypted format behind firewalls.</p>
-<p>We use SagePay a third-party secure global payment specialist to process our debit and credit card transactions. SagePay process millions of secure 
-
-payments each month for over 30,000 businesses encrypting all transaction details to the highest global standards. ProBikeKit does not record or store any 
-
-card payment details outside of SagePay's secure systems.</p> 
-<p>We only accept credit or debit card payments that have been authenticated using 3-D Secure (where the card issuer is part of the 3-D Secure scheme). This 
-
-scheme links directly to your bank and provides you with superior protection and peace of mind against credit or debit card fraud. We strongly recommend that 
-
-if your card issuer is part of the MasterCard™ SecureCode™ or Verified By Visa™ schemes that you register your card for online 
-
-shopping.</p> 
-<p>Our Websites are certified by industry-leading security specialists McAfee, who carry out daily security scans. McAfee SECURE™ tests for possible 
-
-personal information access, links to dangerous sites, phishing, and other online dangers. McAfee is the largest dedicated security company in the world 
-
-helping protect over 80,000 websites from identity theft, credit card fraud, spam and malicious software.</p>
+<p>Our Websites and supporting infrastructure have been designed to deliver market leading data security, to ensure our customers can have the highest levels   of confidence when using our Websites or buying goods from us. We constantly review emerging security technologies and threats to keep abreast of new trends   and issues and strive to maintain our market leading position.</p>
+<p>All sensitive information (such as credit-card numbers) is only transmitted via Secure Socket Layer (SSL) technology, which means that you cannot   inadvertently place an order through an unsecured connection. All sensitive information is stored in an encrypted format behind firewalls.</p>
+<p>We use SagePay a third-party secure global payment specialist to process our debit and credit card transactions. SagePay process millions of secure   payments each month for over 30,000 businesses encrypting all transaction details to the highest global standards. ProBikeKit does not record or store any   card payment details outside of SagePay's secure systems.</p>
+<p>We only accept credit or debit card payments that have been authenticated using 3-D Secure (where the card issuer is part of the 3-D Secure scheme). This   scheme links directly to your bank and provides you with superior protection and peace of mind against credit or debit card fraud. We strongly recommend that   if your card issuer is part of the MasterCard™ SecureCode™ or Verified By Visa™ schemes that you register your card for online   shopping.</p>
+<p>Our Websites are certified by industry-leading security specialists McAfee, who carry out daily security scans. McAfee SECURE™ tests for possible   personal information access, links to dangerous sites, phishing, and other online dangers. McAfee is the largest dedicated security company in the world   helping protect over 80,000 websites from identity theft, credit card fraud, spam and malicious software.</p>
 <p><a href="#top">back to top</a></p>
 <p><strong><a name="cookies"></a><span style="font-size: medium;">How Do We Use Cookies?</span></strong></p>
-<p>Cookies are small text files that websites send to your computer to identify your computer to a website when you return. This lets the site bring up 
-
-information relevant to you. They are used widely by online retailers. We use cookies to remember your preferences for future visits and to hold your 
-
-shopping cart identification. We do not use internal cookies to track visits or use 3rd party advertising cookies.</p>
-<p>Cookies are not computer programs and can't read other information saved on your hard drive. They cannot be used to disseminate viruses, or get a user's 
-
-email address etc. They only contain and transfer to the website as much information as the users themselves have disclosed to that website.</p>
+<p>Cookies are small text files that websites send to your computer to identify your computer to a website when you return. This lets the site bring up   information relevant to you. They are used widely by online retailers. We use cookies to remember your preferences for future visits and to hold your   shopping cart identification. We do not use internal cookies to track visits or use 3rd party advertising cookies.</p>
+<p>Cookies are not computer programs and can't read other information saved on your hard drive. They cannot be used to disseminate viruses, or get a user's   email address etc. They only contain and transfer to the website as much information as the users themselves have disclosed to that website.</p>
 <p><a href="#top">back to top</a></p>
 <p><strong><a name="disclosure"></a><span style="font-size: medium;">What Information Do We Share?</span></strong></p>
-<p>We will never disclose any of your information to third party direct marketing organisations or online retailers. We may disclose certain information 
-
-relating to you to third parties in the following circumstances:
-</p><div style="padding-left: 20px; padding-bottom: 10px;">
+<p>We will never disclose any of your information to third party direct marketing organisations or online retailers. We may disclose certain information   relating to you to third parties in the following circumstances:</p>
+<div style="padding-left: 20px; padding-bottom: 10px;">
 <li>To check and process your payments we will share certain information with credit reference, fraud prevention and detection agencies;</li>
-<li>We may disclose certain generic information regarding activity on our Websites to research firms, advertisers or sponsors, to assist us to improve our 
-
-services;</li>
+<li>We may disclose certain generic information regarding activity on our Websites to research firms, advertisers or sponsors, to assist us to improve our   services;</li>
 <li>We may ask research firms to contact you directly to record your preferences to assist us in improving our services;</li>
-<li>In the event that our business assets are ever sold to or purchased by another company we would share our records, enabling the purchaser to continue to 
-
-offer an uninterrupted service to you;</li>
-<li>In rare cases we may need to disclose certain personal data in order to comply with a legal obligation, or in order to enforce or apply our Conditions or 
-
-to protect our rights, property, or safety, our customers, or others.</li>
+<li>In the event that our business assets are ever sold to or purchased by another company we would share our records, enabling the purchaser to continue to   offer an uninterrupted service to you;</li>
+<li>In rare cases we may need to disclose certain personal data in order to comply with a legal obligation, or in order to enforce or apply our Conditions or   to protect our rights, property, or safety, our customers, or others.</li>
 </div>
-If we disclose information to third parties, we will only disclose information necessary for their specific purpose.<p></p>
+<p>If we disclose information to third parties, we will only disclose information necessary for their specific purpose.</p>
+<p>&nbsp;</p>
 <p><a href="#top">back to top</a></p>
 <p><strong><a name="thirdparty"></a><span style="font-size: medium;">What About Links To Other Sites?</span></strong></p>
-<p>Our Websites may contain links to and from the websites of our suppliers, sponsors, advertisers and other third parties. If you follow a link to any of 
-
-these websites, please note that they have their own privacy policies and that we do not accept any responsibility or liability for these policies or website 
-
-content. You should check their policies before you submit any personal data to third party websites.</p>
+<p>Our Websites may contain links to and from the websites of our suppliers, sponsors, advertisers and other third parties. If you follow a link to any of   these websites, please note that they have their own privacy policies and that we do not accept any responsibility or liability for these policies or website   content. You should check their policies before you submit any personal data to third party websites.</p>
 <p><a href="#top">back to top</a></p></div>            </div>
         </div>
       </div>
@@ -1267,10 +1272,10 @@ content. You should check their policies before you submit any personal data to 
     <div class="footer">
         <input type="hidden" id="current_url" value="http://www.probikekit.com/">
 <div class="footer_subscribe">
-<form action="https://www.probikekit.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail"><!-- name="newsletter-validate-detail" -->
+<form action="http://www.probikekit.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail"><!-- name="newsletter-validate-detail" -->
     <div class="footer-form-subscribe">
          <div class="v-fix">
-				<button type="submit" class="button" title="Subscribe"><span class="newsletter_btn"></span></button>
+				<button type="button" id="newsletter-ft-btn" class="button" title="Subscribe"><span class="newsletter_btn"></span></button>
 				<label for="newsletter" class="newsletter">Sign up to the PBK newsletter</label>
 				<input name="email" type="text" id="newsletter" value="Enter your email address" onclick="this.value=='Enter your email address'?this.value='':''" onblur="this.value==''?this.value='Enter your email address':''" class="input-text required-entry validate-email">
 		 </div>
@@ -1324,15 +1329,17 @@ function sendToEmailVisionFooter()
 
 //<![CDATA[
     var Form1 = new VarienForm('newsletter-validate-detail');
-    Event.observe(Form1.form, 'submit', function(ev){
-		Event.stop(ev);
+    Event.observe($('newsletter-ft-btn'), 'click', function(ev){
+		//Event.stop(ev);
+		//ev.preventDefault();
+		
 		if(Form1.validator.validate()){
 			Form1.form.request({
 				onCreate : function(){
 					$('loaderConForm1').show();
 				},
 				onComplete : function(){
-					$('loaderConForm1').hide();
+					//$('loaderConForm1').hide();
 					$('successConForm1').show();
 				},
 				onSuccess: function(transport){
@@ -1350,6 +1357,7 @@ function sendToEmailVisionFooter()
             			
 							});
 							sendToEmailVisionFooter();
+							$('loaderConForm1').hide();
 						}
 					}
 			});
@@ -1376,7 +1384,7 @@ function sendToEmailVisionFooter()
 <li class="seperator">|</li>
 <li><a href="http://www.probikekit.com/sitemap">Sitemap</a></li>
 </ul>
-<ul class="last">
+<ul>
 <li><strong>Orders:</strong></li>
 <li><a href="http://www.probikekit.com/earn-points">Earn PBK Points</a></li>
 <!--
@@ -1391,7 +1399,25 @@ function sendToEmailVisionFooter()
 <li><a href="http://www.probikekit.com/cycle-to-work" mce_href="http://www.probikekit.com/cycle-to-work">Cycle to work</a></li>
 --> 
 </ul>
-<!--        
+<ul class="last">
+<li><strong>Brand Shops</strong></li>
+<li><a title="Over 180 Of The Worlds Biggest Bike Brands Available at ProBikeKit.com" href="/cycling-brand-list-a-z.html">Cycling Brands A-Z</a></li>
+<li class="seperator">|</li>
+<li><a title="Campagnolo Cycling Components" href="/cycling-brand-list-a-z/campagnolo-cycling-components.html">Campagnolo</a></li>
+<li class="seperator">|</li>
+<li><a title="Shimano Bike Components" href="/cycling-brand-list-a-z/shimano-cycling-components.html">Shimano</a></li>
+<li class="seperator">|</li>
+<li><a title="SRAM Cycling Components" href="/cycling-brand-list-a-z/sram-cycling-components.html">SRAM</a></li>
+<li class="seperator">|</li>
+<li><a title="Castelli Cycling Summer &amp; Winter Clothing" href="/cycling-brand-list-a-z/castelli-cycling-clothing.html">Castelli</a></li>
+<li class="seperator">|</li>
+<li><a title="Cervelo Road, Time Trial, Triathlon &amp; Track Bicycles" href="/cycling-brand-list-a-z/cervelo-road-triathlon-timetrial-track-bikes.html">Cervelo</a></li>
+<li class="seperator">|</li>
+<li><a title="High5 Cycling Energy &amp; Hydration" href="/cycling-brand-list-a-z/high5-sports-nutrition.html">High5</a></li>
+<li class="seperator">|</li>
+<li><a title="GoPro Wearable, Waterproof Sports HD Video Cameras" href="/cycling-brand-list-a-z/gopro-hero-cameras.html">GoPro</a></li>
+</ul>
+<!--             
 <ul class="pbk-links">
 <li>&copy; ProBikeKit 2010</li>
 <li class="seperator">|</li>
@@ -1404,14 +1430,16 @@ function sendToEmailVisionFooter()
 <li><a href="http://www.probikekit.com/ride-for-team-pbk" mce_href="http://www.probikekit.com/ride-for-team-pbk">Ride for Team PBK</a></li>
 </ul>
 -->
-<div class="footer-images"><img src="http://www.probikekit.com/skin/frontend/probike/default/images/footer-images.png" alt=""> <img src="http://www.probikekit.com/skin/frontend/probike/default/images/footer-images-mcafee.jpg" alt=""></div>
-<div style="margin:10px 0px 0px 0px; float:left;"><p>ProBikeKit.com, Bike Kit Ltd, Aynam Road, Aynam Mills, Kendal, LA9 7DE, United Kingdom<br>Tel: (0)1539 738268 Registered in England &amp; Wales 03611743 Vat Reg 708-529-128</p></div>    </div>
+<div class="footer-images"><img src="http://www.probikekit.com/skin/frontend/probike/default/images/footer-images.png" alt=""> <img src="http://www.probikekit.com/skin/frontend/probike/default/images/footer-images-mcafee.jpg" alt=""><img src="/media/import/images/feefo.jpg" width="100" height="37" style="margin:0 0 0 5px;"></div>
+<div style="margin:10px 0px 0px 0px; float:left;">
+<p>© ProBikeKit 2010 | ProBikeKit.com, Bike Kit Ltd, Aynam Road, Aynam Mills, Kendal, LA9 7DE, United Kingdom<br>Tel: (0)1539 738268 Registered in England &amp; Wales 03611743 Vat Reg 708-529-128</p>
+</div>    </div>
 </div>
         <address class="copyright"></address>
 	
 
 <script type="text/javascript">
-	var inlineStyles = '<style>.sub-nav-right{width:410px} input#search{width:190px} #ff-accordion .accordion_content{padding-bottom:0px;} #ff-accordion .accordion_content.accordion_content_active{padding-bottom:8px;} .accordion_toggle{padding-bottom:8px;}.switch ul{left:-4px;}#ff-accordion dt.accordion_toggle{background-position:left 3px;}.checkout-cart-index .btn-proceed-checkout.button span span{padding-top:8px!important}.checkout-cart-index .btn-proceed-checkout.button span span img{margin-top:-3px!important}</style>';
+	var inlineStyles = '<style type="text/css">.sub-nav-right{width:410px} input#search{width:190px} #ff-accordion .accordion_content{padding-bottom:0px;} #ff-accordion .accordion_content.accordion_content_active{padding-bottom:8px;} .accordion_toggle{padding-bottom:8px;}.switch ul{left:-4px;}#ff-accordion dt.accordion_toggle{background-position:left 3px;}.checkout-cart-index .btn-proceed-checkout.button span span{padding-top:8px!important}.checkout-cart-index .btn-proceed-checkout.button span span img{margin-top:-3px!important}</style>';
 	var OSName;
 	if(navigator.appVersion.indexOf("Mac")!=-1){
 		document.write(inlineStyles);
