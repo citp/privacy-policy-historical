@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loseit.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125023709id_/http%3A//www.loseit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loseit.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220131319id_/http%3A//www.loseit.com/privacy) for the most accurate reproduction.*
 
-# Lose it! - Succeed at weight loss with Lose It!
+# Lose It! - Privay Statement
 
 This Privacy Statement informs users of the Lose It! website and the Lose It! Connect iPhone application about how FitNow, Inc., trading as Lose It! ("Lose It!" or "we") gathers and uses personal information submitted to Lose It! and aggregated information collected from the Lose It! website or via the Lose It! iPhone application. 
 
