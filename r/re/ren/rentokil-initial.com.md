@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentokil-initial.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519043000id_/http%3A//www.rentokil-initial.com/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentokil-initial.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220012458id_/http%3A//www.rentokil-initial.com/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Rentokil Initial - Privacy Policy - Rentokil Initial
 
