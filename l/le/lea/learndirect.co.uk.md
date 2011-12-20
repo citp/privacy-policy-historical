@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learndirect.co.uk privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619063016id_/http%3A//www.learndirect.co.uk/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learndirect.co.uk privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220125212id_/http%3A//www.learndirect.co.uk/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement | learndirect
 
@@ -12,7 +12,9 @@ This notice provides a summary of the full **learndirect** Privacy Statement. Bo
 
 We collect personal data about you when you enrol as a learner. [[Further Information](https://web.archive.org/privacystatement/#2)]. At enrolment, we may ask you for [sensitive personal data](https://web.archive.org/privacystatement/#7) and for your consent to use it for a specific purpose. If you do not wish to provide this information, you way select the Not Known/Not Provided option. 
 
-We share some of your personal data with The Learner Registration Service (LRS), operated by the Skills Funding Agency. LRS offers a Learner Registration Service to allocate Unique Learner Numbers (ULNs) which enable individuals to access their participation and achievement data. LRS will share your Ufi participation and achievement data with other organisations if you tell Ufi that you are happy for LRS to do so. [[Further information](https://web.archive.org/privacystatement/#miap)]. 
+We share some of your personal data with  the Skills Funding Agency. The SFA through their Learner Registration Service allocates Unique Learner Numbers (ULNs) which enable individuals to access their participation and achievement data. The SFA will share your Ufi participation and achievement data with other organisations if you tell Ufi that you are happy for the SFA to do so. [[Further information](https://web.archive.org/privacystatement/#miap)]. 
+
+We share some personal with Job Centre Plus if you have been referred to Ufi by them. [[Further Information](https://web.archive.org/privacystatement/#jcp)]. 
 
 If government funding is available for your course, we collect personal data from you to see if you can have that funding. [[Further information](https://web.archive.org/privacystatement/#3)]. 
 
@@ -36,7 +38,7 @@ We may disclose your information to third parties who may take over some or all 
 
 We may disclose your information to certain government agencies in connection with the funding of your course. [[Further information](https://web.archive.org/privacystatement/#6)]. 
 
-We will disclose your personal data to the approved learning provider that will be delivering and supporting your learning (who may use it for any of the above purposes). Following registration and enrolment all of our approved learning providers will have access to your name, date of birth, address, username, learner reference number and details of which **learndirect** courses you have enrolled on in the past. 
+If you enrol in a **learndirect** centre we will disclose your personal data to the approved service provider that will be delivering and supporting your learning (who may use it for any of the above purposes) Following registration and enrolment, either in a **learndirect** centre or online, all of our approved service providers will have access to your name, date of birth, address, username, learner reference number and details of which **learndirect** courses you have enrolled on in the past. 
 
 ###  Your Choices 
 
@@ -80,6 +82,8 @@ Follow the hyperlinks below for more information about our policies and practice
   * **[Sensitive personal data](https://web.archive.org/privacystatement/#7)**
   * **[How we use the information we collect](https://web.archive.org/privacystatement/#8)**
   * **[Third parties and sponsors](https://web.archive.org/privacystatement/#9)**
+  * **[Refferal Partners](https://web.archive.org/privacystatement/#referral)**
+  * **[Job Centre Plus Referrals](https://web.archive.org/privacystatement/#jcp)**
   * **[Keeping you informed](https://web.archive.org/privacystatement/#10)**
   * **[Funding](https://web.archive.org/privacystatement/#11)**
   * [**Learner Registration System (LRS) and the Unique Learner Number (ULN)**](https://web.archive.org/privacystatement/#miap)
@@ -89,6 +93,7 @@ Follow the hyperlinks below for more information about our policies and practice
   * **[Keeping your personal data](https://web.archive.org/privacystatement/#15)**
   * **[Cookies and other technologies](https://web.archive.org/privacystatement/#16)**
   * **[Our policy for children](https://web.archive.org/privacystatement/#17)**
+  * **[If you are a tutor](https://web.archive.org/privacystatement/#tutors)**
   * **[Your rights](https://web.archive.org/privacystatement/#18)**
   * **[Links](https://web.archive.org/privacystatement/#19)**
   * [**Other Information**](https://web.archive.org/privacystatement/#20)
@@ -129,7 +134,7 @@ When you enrol with us, you (or the person enrolling you) must tell us :
 
 
 
-We also request other information including your title, middle name, email address,National Insurance number and if you are a Welsh speaker, but you don't have to give us these details. Following enrolment via the website, we, or our approved learning providers, may request additional personal data from you in order to further support your learning. You do not have to provide this information, but if you do not, you may not get the most out of your learning. However, we ask you to tell us whether you have achieved Level 2 in English and Maths. 
+We also request other information including your title, middle name, email address,National Insurance number and if you are a Welsh speaker, but you don't have to give us these details. Following enrolment via the website, we, or our approved service providers, may request additional personal data from you in order to further support your learning. You do not have to provide this information, but if you do not, you may not get the most out of your learning. However, we ask you to tell us whether you have achieved Level 2 in English and Maths. 
 
 Before you enrol, we will give you a username and ask you for a password. You will also be given a learner reference number and asked to give the answer to a question you choose which will identify you. 
 
@@ -167,11 +172,11 @@ If government funding is available for any of our courses, you need to answer so
 
 
 
-We, or our approved learning providers, may require additional information from you in order to support an application for funding. If you do not want to provide us with this information, we will not be able to offer you the course at the reduced price. 
+We, or our approved service providers, may require additional information from you in order to support an application for funding. If you do not want to provide us with this information, we will not be able to offer you the course at the reduced price. 
 
 ###  Learner File 
 
-When you start your learning your we or Learning Provider will create a Learner File to hold the documents which relate to your learning and evidence of proof of identity and funding eligibility. As you progress through your learning other documents, including some of your course work, may be held on this file. 
+When you start your learning your we or Service Provider will create a Learner File to hold the documents which relate to your learning and evidence of proof of identity and funding eligibility. As you progress through your learning other documents, including some of your course work, may be held on this file. 
 
 ###  The information we collect when you access course materials 
 
@@ -194,7 +199,7 @@ If you require a free information pack, we ask you to provide us with the inform
 
 
 
-You can also decide to give us your home and mobile telephone numbers and your email address but you only need to do this if you want us and/or our approved learning providers to contact you about **learndirect** developments and offers in this way. 
+You can also decide to give us your home and mobile telephone numbers and your email address but you only need to do this if you want us and/or our approved service providers to contact you about **learndirect** developments and offers in this way. 
 
 If you are not registered as a **learndirect** learner but use one of our online tests to test your skills, we ask you to provide your full name and email address. This information is not retained by us but is used only when sending you your test results.  
 You may also provide personal data through: 
@@ -225,7 +230,7 @@ Sensitive personal data includes details of your :
 
 At or before enrolment you may be asked for sensitive personal information but you do not have to provide it. Where we invite you to provide such information, we will ask you to consent to our proposed uses of such data. If you do not wish to provide this information you do not have to tell us.  When asked learners who enrol online can prefer not to say and learners who enrol in a **learndirect** centre can select the "Not Known/Not Provided"  option. 
 
-You may also volunteer sensitive personal data to us or our approved learning providers, for example, when you submit a query or comment to us via the website or some other means of communication. If you do so, you explicitly consent to our using such information as described in this Privacy Statement. 
+You may also volunteer sensitive personal data to us or our approved service providers, for example, when you submit a query or comment to us via the website or some other means of communication. If you do so, you explicitly consent to our using such information as described in this Privacy Statement. 
 
 ###  How we use the information we collect 
 
@@ -248,15 +253,33 @@ We use your personal information and your Learner File:
 
 ###  Third parties and sponsors 
 
-To achieve the purposes set out in this privacy statement we may need to share your information and Learner File with our service providers (including our approved learning providers), agents, professional advisors and auditors and to your tutor(s). When you enrol on a course in a **learndirect** centre, we will tell you which of our approved learning providers will be delivering and supporting your learning. Following enrolment via a centre or online, all of our approved learning providers will have access to your name, date of birth, address, username, learner reference number and which **learndirect** courses you have enrolled on in the past as well as details relating to these **learndirect** courses to help us deliver our services to you. 
+To achieve the purposes set out in this privacy statement we may need to share your information and Learner File with our service providers (including our approved learning providers), agents, professional advisors and auditors and to your tutor(s). When you enrol on a course with a service provider in a **learndirect** centre, the service provider will be delivering and supporting your learning. Following enrolment via a centre or online, all of our approved service providers will have access to your name, date of birth, address, username, learner reference number and which **learndirect** courses you have enrolled on in the past as well as details relating to these **learndirect** courses to help us deliver our services to you.  
 
 We may also give your information to third parties who may take over part or all of the **learndirect** business in the future, but only for the purposes outlined in this privacy statement. If your employer, trade organisation or other organisation is sponsoring or supporting you, we may give the personal information we have collected to your sponsor to monitor your learning. 
 
 Communications between you and your tutor using any of the tools or functions we make available to you (including unopened messages sent via our messaging system) may be monitored by **learndirect** staff to check the quality of tutor support. **learndirect** staff and auditors may also access these communications when we want to investigate or audit learner funding arrangements. 
 
+###  Referral Partners 
+
+If we have received your details as a referral from one of our partners we may be required by the referral partner to provide them with updates on the following areas: 
+
+  * Attendance 
+  * Progress 
+  * Achievement/completion 
+  * Outcome/destination 
+  * Withdrawal 
+
+
+
+###  Job Centre Plus Referrals 
+
+If we or our Service Providers receive your details via a Skills Conditionality Referral from Job Centre Plus we are obliged to keep them informed of your progress.  We will complete a Starter/Leaver notification form that contains details of the course being taken, when started and an anticipated end date.  You will be asked to sign this to confirm you have started the learning prior to it being sent to Job Centre Plus for processing. 
+
+When you stop learning for whatever reason the remaining boxes of the Starter/Leaver notification form are completed and returned to Job Centre Plus.  In certain circumstances this may result in sanctions being applied by Job Centre Plus, details of these are available from [www.direct.gov.uk.](http://www.direct.gov.uk/ "Direct Gov")
+
 ###  Keeping you informed 
 
-We, and our approved learning providers, will use your information to send you regular updates about : 
+We, and our approved service providers, will use your information to send you regular updates about : 
 
   * our services and materials; 
   * additions to the website; and 
@@ -272,49 +295,25 @@ We will never use your sensitive personal data for marketing purposes without y
 
 ###  Funding 
 
-We, and our approved learning providers, may use your personal data to process or to support any application made for funding associated with your learning. For these purposes we, or our approved learning providers, will share the information you supply with the [Learning and Skills Council (LSC)](http://www.lsc.gov.uk/) in England. The LSC may in turn share it with the European Social Fund, or other government agencies that may provide funding for your course, including the [Welsh Assembly Government](http://www.wales.gov.uk/) for learners who enrol in Welsh centres. We may use a third party service to verify your identity for funding eligibility. If you are a learner between the ages of 16-19 years of age (or up to 25 years of age for learners with learning difficulties or disabilities), we are required by the Skills Funding Agency to notify Connexions when you leave, or intend to leave learning. We, or our approved learning providers, may also share it with the Office for Standards in Education, Children’s Services and Skills (Ofsted) so that it can check our use of public monies. If you do not want us to use your personal data for these purposes, we will not be able to offer you the course at the reduced price. 
+We, and our approved service providers, may use your personal data to process or to support any application made for funding associated with your learning. For these purposes we, or our approved service providers, will share the information you supply with the [Skills Funding Agency (SFA)](http://skillsfundingagency.bis.gov.uk/) in England. The SFA may in turn share it with the European Social Fund, or other government agencies that may provide funding for your course, including the [Welsh Assembly Government](http://www.wales.gov.uk/) for learners who enrol in Welsh centres. We may use a third party service to verify your identity for funding eligibility. If you are a learner between the ages of 16-19 years of age (or up to 25 years of age for learners with learning difficulties or disabilities), we are required by the Skills Funding Agency to notify Connexions when you leave, or intend to leave learning. We, or our approved service providers, may also share it with the Office for Standards in Education, Children’s Services and Skills (Ofsted) so that it can check our use of public monies. If you do not want us to use your personal data for these purposes, we will not be able to offer you the course at the reduced price. 
 
-At the point this information is collected you will be asked to indicate if you do not wish to be contacted by the LSC or its partners in respect of courses, surveys and research. Please read the SFA Data Protection Statement. 
+At the point this information is collected you will be asked to indicate if you do not wish to be contacted by the SFA or its partners in respect of courses, surveys and research. Please read the SFA Data Protection Statement. 
 
 We, or the government agency providing funding for your course, may use your personal data and Learner File to investigate a suspected misuse of public monies or other fraudulent activity by any person relating to your learning activity. In doing so, we, or the government agency providing funding for your course, may disclose your information to other government agencies (e.g. the [Department for Work and Pensions](http://www.dwp.gov.uk/)) to establish whether there has been any duplication of funding for your course. We may also contact you for the purposes of any such investigation. 
 
-###  Learner Registration Service (LRS) and the Unique Learner Number (ULN) Statement 
+**SFA Privacy Notice**
 
-The Learner Registration Service (LRS) is operated by the SFA for learners aged 14 years and over and learners registering for relevant post-14 qualifications. LRS is responsible for the operation of the Learner Registration Service and also the creation of a Learner Record. 
+The SFA requires that we also tell you about its own privacy notice so that you understand how the SFA will use the information that we give them.  It says: 
 
-By enrolling with Ufi, you agree to us providing LRS with your personal data so that LRS can allocate you a Unique Learner Number (ULN). 
+**_How We Use Your Personal Information_**
 
-The LRS will enable organisations listed in section 537A of the Education Act ([www.miap.gov.uk](http://www.miap.gov.uk/)) to access your ULN and verify the details used to create your ULN, thereby saving you having to supply the same information repeatedly to different organisations. 
+_The personal information you provide is passed to the Chief Executive of Skills Funding (“the Agency”) and, when needed, the Young People’s Learning Agency for England (“the YPLA”) to meet legal duties under the Apprenticeships, Skills, Children and Learning Act 2009, and for the Agency’s Learning Records Service (LRS) to create and maintain a unique learner number (ULN). The information you provide may be shared with other partner organisations for purposes relating to education or training._
 
-###  Learner Record 
-
-By enrolling with Ufi, you also agree to us providing your participation and achievement data to LRS so that LRS can create and maintain a Learner Record. Your ULN will enable you to access the Ufi participation and achievement data held in your Learner Record via a website and will allow LRS to share this data with those organisations listed in section 537A of the Education Act ([www.miap.gov.uk](http://www.miap.gov.uk/).) You can decide to opt out of LRS sharing your participation and achievement data at any time and current details of how to do so can be found at www.miap.gov.uk or by telephoning 0845 6022589. LRS may use and disclose anonymised information pulled from Learner Records for statistical purposes. Ufi is not responsible for LRS’s privacy practices and you should read about such practices at [www.miap.gov.uk](http://www.miap.gov.uk/). 
-
-###  SFA Data Protection Statement 
-
-The SFA requires that we also tell you about its own Privacy Statement so that you understand how the SFA will use the information that we give it. It says: 
-
-**_“How we use your Personal Information_**  
-The personal information you provide is passed to the Chief Executive of Skills Funding and, where required, the Young People's Learning Agency for England ("the YPLA") to enable those organisations to fulfil their statutory obligations, principally under the Apprenticeships, Skills, Children and Learning Act 2009. Both organisations are registered as data controllers with the UK Information Commissioner's Office. 
-
-The Skills Funding Agency funds adult further education and skills training, including apprenticeships, in England. The YPLA is responsible for arranging the provision of funding for the education and training of young people in England. The Skills Funding Agency processes learner data on behalf of the YPLA. 
-
-The information you provide may be shared with other organisations for purposes of administration, the provision of career and other guidance and statistical and research purposes, relating to education or training. Other organisations include the Department for Education, the Department for Business, Innovation and Skills, Local Authorities, Connexions, Higher Education Statistics Agency, Higher Education Funding Council for England, educational institutions and organisations performing research and statistical work on behalf of the Skills Funding Agency, the YPLA, or partners of those organisations. 
-
-The Skills Funding Agency also administers the learner registration service (LRS) which uses your learner information to create and maintain a unique learner number (ULN). 
-
-Further information about use of and access to your information is available at: 
-
-  * [Skills Funding Agency](http://skillsfundingagency.bis.gov.uk/foi.htm)
-  * [YPLA](http://www.ypla.gov.uk/foi.htm)
-
-
-
-At no time will your personal information be passed to organisations for marketing or sales purposes. The YPLA, the Chief Executive of Skills Funding and their partners may wish to contact you from time to time in respect of surveys and research to monitor performance, improve quality and plan future provision and to inform you about courses, or learning opportunities relevant to you." 
+_Further information about use of and access to your personal data, and details of partner organisations are available at the[SkillsFundingAgency](http://skillsfundingagency.bis.gov.uk/privacy.htm), [ypla.gov.uk](http://www.ypla.gov.uk/privacy.htm) and [learningrecordsservice.org](http://www.learningrecordsservice.org.uk/documentlibrary/documents/Code+of+Practice+for+Sharing+of+Personal+Information.htm)._
 
 ###  Statistics 
 
-We and/or the approved learning providers delivering and supporting your learning are also required to provide statistics to all of the government agencies mentioned under the heading 'Funding' and to the [Department for Innovation, Universities and Skills](http://www.dius.gov.uk/), in order that they can carry out checks on our funding arrangements and our performance and for research and statistical purposes. This helps us, and our approved learning providers, to maintain our funding. Where such information is supplied, it is provided in an aggregated manner so that whilst such authorities may be aware of, for example, the number, geographic location and sex of persons using **learndirect,** you cannot be personally identified from this information.  
+We and/or the approved service providers delivering and supporting your learning are also required to provide statistics to all of the government agencies mentioned under the heading 'Funding' and to the [Department for Business, Innovation and Skills](http://www.bis.gov.uk/), in order that they can carry out checks on our funding arrangements and our performance and for research and statistical purposes. This helps us, and our approved service providers, to maintain our funding. Where such information is supplied, it is provided in an aggregated manner so that whilst such authorities may be aware of, for example, the number, geographic location and sex of persons using **learndirect,** you cannot be personally identified from this information.  
 However, we may provide information that identifies you (your name, date of birth, address and postcode) to the Department of Work and Pensions so that they can check whether **learndirect** learners have progressed into employment and compile statistical information about such progression. You will not be identifiable from the statistical information compiled. 
 
 The information collected on Welsh speakers is passed in an aggregate manner to the Welsh Assembly. You cannot be personally identified from this information. 
@@ -372,9 +371,13 @@ In any event, you can find out more information about electronic tags, if you [g
 
 Our website is not designed for or directed at children under the age of 13\. No one whose date of birth indicates that they are under 16 years will be able to register on-line as a learner. We recommend that you put parental controls on your internet browser and supervise your children when they are online. 
 
-We will not use information collected from people under 18 for marketing purposes. Government funding is not available to learners under 19. 
+We will not use information collected from people under 18 for marketing purposes. In general, Government funding is not available to learners under 19 via **learndirect** , although there are some specific exceptions, in particular apprenticeships.  This privacy statement will apply to any learner enrolled on an apprenticeship even if you are aged between 16 and 18. 
 
 Although anyone can take part in competitions and promotions, we will send notice of a win or prize directly to the parent or guardian identified during registration. Where a winner is under 18, we will not publish his or her personal details unless we have obtained the consent of the parent or guardian during registration. 
+
+###  If you are a tutor 
+
+When you are registered as a tutor by a Service Provider you accept that all activity is undertaken by you for the provision of learndirect learning.  Any comments or tutor notes placed by you on the learndirect system will be retained, are visible to the relevant learner and authorised personnel within Ufi and may be used as evidence of learner support. 
 
 ###  Your rights 
 
@@ -388,4 +391,4 @@ Our website contains links to other websites. We are not responsible for the pri
 
 You should note that if our business (or any part of it) is sold or transferred at any time, the information we hold may form part of the assets transferred although will still only be used in accordance with this privacy statement. 
 
-**Last updated :  November 2010**
+**Last updated :  November 2011**
