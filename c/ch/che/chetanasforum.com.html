@@ -1,7 +1,93 @@
-<!--The following is the downloaded HTML source of the chetanasforum.com privacy policy that was archived on 2011-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110621065352id_/http%3A//www.chetanasforum.com/index.php%3Fshowtopic%3D18709) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chetanasforum.com privacy policy that was archived on 2011-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111220075128id_/http%3A//www.chetanasforum.com/index.php%3Fshowtopic%3D18709) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+<!-- Custom Code By Chetana : Below is the code to display Unstoppable POP UP ADVERTISEMENT -->
+<script language="JavaScript1.2">
+
+// Popup by http://www.htmlpopups.com/
+
+var ie=document.all
+var dom=document.getElementById
+var ns4=document.layers
+var calunits=document.layers? "" : "px"
+
+var bouncelimit=32 //(must be divisible by 8)
+var direction="up"
+
+function initbox(){
+if (!dom&&!ie&&!ns4)
+return
+crossobj=(dom)?document.getElementById("dropin").style : ie? document.all.dropin : document.dropin
+scroll_top=(ie)? truebody().scrollTop : window.pageYOffset
+crossobj.top=scroll_top-250+calunits
+crossobj.visibility=(dom||ie)? "visible" : "show"
+dropstart=setInterval("dropin()",50)
+}
+
+function dropin(){
+scroll_top=(ie)? truebody().scrollTop : window.pageYOffset
+if (parseInt(crossobj.top)<100+scroll_top)
+crossobj.top=parseInt(crossobj.top)+40+calunits
+else{
+clearInterval(dropstart)
+bouncestart=setInterval("bouncein()",50)
+}
+}
+
+function bouncein(){
+crossobj.top=parseInt(crossobj.top)-bouncelimit+calunits
+if (bouncelimit<0)
+bouncelimit+=8
+bouncelimit=bouncelimit*-1
+if (bouncelimit==0){
+clearInterval(bouncestart)
+}
+}
+
+function dismissbox(){
+if (window.bouncestart) clearInterval(bouncestart)
+crossobj.visibility="hidden"
+}
+
+function truebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+
+function get_cookie(Name) {
+var search = Name + "="
+var returnvalue = ""
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) {
+offset += search.length
+end = document.cookie.indexOf(";", offset)
+if (end == -1)
+end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+
+function dropornot(){
+if (get_cookie("droppedin")==""){
+window.onload=initbox
+document.cookie="droppedin=yes"
+}
+}
+dropornot()
+</script>
+<!-- Custom Code By Chetana : Above is the code to display Unstoppable POP UP ADVERTISEMENT -->
+
+
+
+
+
+
 
 
 <!-- Custom Code By Chetana : Below is the code to display POP UNDER ADVERTISEMENT -->
@@ -2528,14 +2614,18 @@ td.formbuttonrow
 <td align="center" bgcolor="#DDEEFF"><a href="http://affiliates.tyroodr.com/ez/bvykfqdl/" target="_blank"><font face="Arial" color="blue" size="+0"><b>Over 2,00,000 Jobs - Register FREE & Post Your Resume</b></font></a></td>
 -->
 
-<td align="center" bgcolor="#DDEEFF"><a href="http://affiliates.tyroodr.com/ez/dxmochws/" target="_blank"><font face="Arial" color="blue" size="+0"><b>Over 2,00,000 Jobs - Register FREE &amp; Post Your Resume</b></font></a></td>
-
 <!--
-<td align="center" bgcolor="#DDEEFF"><a href="http://affiliates.tyroodr.com/ez/arkaptnv/" target="_blank"><font face="Arial" color="blue" size="+0"><b>Top Jobs in Wipro, CTS, Tech Mahindra. Register & Apply Now</b></font></a></td>
+<td align="center" bgcolor="#DDEEFF"><a href="http://affiliates.tyroodr.com/ez/dxmochws/" target="_blank"><font face="Arial" color="blue" size="+0"><b>Over 2,00,000 Jobs - Register FREE & Post Your Resume</b></font></a></td>
 -->
 
+<!--
+<td align="center" bgcolor="#DDEEFF"><a href="http://www.s2d6.com/x/?x=c&z=s&v=3242822&k=ChetanaSforum" target="_blank"><font face="Arial" color="blue" size="+0"><b>Click Here to Submit Resume to MNC Jobs</b></font></a></td>
+-->
 
-<td align="center" bgcolor="#DDEEFF"><a href="http://www.s2d6.com/x/?x=c&amp;z=s&amp;v=3242822&amp;k=ChetanaSforum" target="_blank"><font face="Arial" color="blue" size="+0"><b>Click Here to Submit Resume to MNC Jobs</b></font></a></td>
+<td align="center" bgcolor="#DDEEFF"><a href="http://www.s2d6.com/x/?x=c&amp;z=s&amp;v=3410440&amp;k=ChetanaSforumTop" target="_blank"><font face="Arial" color="blue" size="+0"><b>Submit Resume to 70000+ Live Jobs</b></font></a></td>
+
+<td align="center" bgcolor="#DDEEFF"><a href="http://affiliates.tyroodr.com/ez/bvykfned/" target="_blank"><font face="Arial" color="blue" size="+0"><b>Top Jobs in Wipro, CTS, Tech Mahindra. Register &amp; Apply Now</b></font></a></td>
+
 
 <!--
 <td align="center" bgcolor="#DDEEFF"><a href="http://ext.tyroo.com/click2,AAAAAGIyDAA3B0oAAAAAAFcbFAAAAAAAAAAAAAcAAAAAAAAAAAAAAGNLGwAAAAAAXEsbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAASH1RFygBAAAAAAAAADAAABji2acqAAAAPObZpyoAAADf5tmnKgAAAODoLX84AAAAEAAAAAAAAAA=,,," target="_blank"><font face="Arial" color="blue" size="+0"><b>Top Companies hiring on Shine.com. Click Here to apply !</b></font></a></td>
@@ -2703,7 +2793,7 @@ tag += '</ilayer>';
 tag += '</iframe>';
 document.write(tag);
 //-->
-</script><iframe src="http://www.s2d6.com/x/?x=i&amp;z=i&amp;v=3248185&amp;r=43&amp;k=ChetanaSforumBanner" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" width="468" height="60"><ilayer src="http://www.s2d6.com/x/?x=i&amp;z=i&amp;v=3248185&amp;r=43&amp;k=ChetanaSforumBanner" z-index="0" width="468" height="60"><a href="http://www.s2d6.com/x/?x=c&amp;z=s&amp;v=3248185&amp;r=43&amp;k=ChetanaSforumBanner" target="_blank"><img src="http://www.s2d6.com/x/?x=i&amp;z=s&amp;v=3248185&amp;r=43" border="0" alt="Click here"></a></ilayer></iframe>
+</script><iframe src="http://www.s2d6.com/x/?x=i&amp;z=i&amp;v=3248185&amp;r=97&amp;k=ChetanaSforumBanner" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" width="468" height="60"><ilayer src="http://www.s2d6.com/x/?x=i&amp;z=i&amp;v=3248185&amp;r=97&amp;k=ChetanaSforumBanner" z-index="0" width="468" height="60"><a href="http://www.s2d6.com/x/?x=c&amp;z=s&amp;v=3248185&amp;r=97&amp;k=ChetanaSforumBanner" target="_blank"><img src="http://www.s2d6.com/x/?x=i&amp;z=s&amp;v=3248185&amp;r=97" border="0" alt="Click here"></a></ilayer></iframe>
 <noscript>
 <iframe src="http://www.s2d6.com/x/?x=i&amp;z=i&amp;v=3248185&amp;r=1&amp;k=ChetanaSforumBanner" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" width="468" height="60">
 <ilayer src="http://www.s2d6.com/x/?x=i&amp;z=i&amp;v=3248185&amp;r=1&amp;k=ChetanaSforumBanner" z-index="0" width="468" height="60">
@@ -3337,7 +3427,7 @@ topic_rate.init_rating_images();
         		Administrator<br>
         		<img src="style_images/1/pip.gif" border="0" alt="*"><img src="style_images/1/pip.gif" border="0" alt="*"><img src="style_images/1/pip.gif" border="0" alt="*"><br><br>
         		Group: <span style="color:red"><b>Root Admin</b></span><br>
-        		Posts: 15,657<br>
+        		Posts: 18,264<br>
         		Joined: 28-January 06<br>
         		From: Bangalore<br>
         		Member No.: 1<br>
@@ -3407,7 +3497,7 @@ topic_rate.init_rating_images();
 			<tbody><tr>
 			<td>
 
-			<a href="http://affiliates.tyroodr.com/ez/dxmochws/" target="_blank"><font face="Arial" color="blue" size="+0"><b>Over 2,00,000 Jobs - Register FREE &amp; Post Your Resume</b></font></a>
+			<a href="http://www.s2d6.com/x/?x=c&amp;z=s&amp;v=3242822&amp;k=ChetanaSforum" target="_blank"><font face="Arial" color="blue" size="+0"><b>Top Companies Hiring. Submit Resume and get your Dream Job !</b></font></a>
 
 		    	</td>
 		    	</tr>
@@ -3434,17 +3524,21 @@ topic_rate.init_rating_images();
 
 			<br>
 
-			<!-- START : DGM - TIMESJOBS AD -->  
+			<!-- START : TYROO - TIMESJOBS AD -->  
 			<table bgcolor="#FFDEAD">
 			<tbody><tr>
 			<td>
 
-			<a href="http://www.s2d6.com/x/?x=c&amp;z=s&amp;v=3242822&amp;k=ChetanaSforum" target="_blank"><font face="Arial" color="blue" size="+0"><b>Click Here to Submit Your Resume for MNC Jobs</b></font></a>
+			<!--
+			<a href="http://affiliates.tyroodr.com/ez/arkaptal/" target="_blank"><font face="Arial" color="blue" size="+0"><b>Submit Your Resume</b></font></a>
+			-->
+			
+			<a href="http://www.s2d6.com/x/?x=c&amp;z=s&amp;v=3410440&amp;k=ChetanaSforumBott" target="_blank"><font face="Arial" color="blue" size="+0"><b>Submit Resume to 20000+ Companies</b></font></a>			
 
 		    	</td>
 		    	</tr>
 		    	</tbody></table>      		    	
-		    	<!-- END : DGM - TIMESJOBS AD -->      
+		    	<!-- END : TYROO - TIMESJOBS AD -->      
 			
                         <hr color="#DDEEFF">
 
@@ -3593,8 +3687,8 @@ topic_rate.init_rating_images();
 	</tr>
 </tbody></table>
 <div class="borderwrap" style="padding-bottom:1px;">
-	<div class="formsubtitle" style="padding: 4px;">4 User(s) are reading this topic (4 Guests and 0 Anonymous Users)</div>
-	<div class="row1" style="padding: 4px;">0 Members: </div>
+	<div class="formsubtitle" style="padding: 4px;">3 User(s) are reading this topic (2 Guests and 0 Anonymous Users)</div>
+	<div class="row1" style="padding: 4px;">1 Members: <a href="http://www.chetanasforum.com/index.php?showuser=880746" title="Reading (12:53 PM)..."><span style="color:#008000">zithromaxxrrrfd</span></a></div>
 </div>
 <!--IBF.QUICK_REPLY_OPEN-->
 <br>
@@ -3805,7 +3899,7 @@ topic_scroll_to_post( parseInt("0") );
 </div>
  </td>
 		<td width="10%" align="center" nowrap="nowrap"><a href="lofiversion/index.php/t18709.html"><b>Lo-Fi Version</b></a></td>
-		<td width="45%" align="right" nowrap="nowrap">Time is now: 21st June 2011 - 12:23 PM</td>
+		<td width="45%" align="right" nowrap="nowrap">Time is now: 20th December 2011 - 01:21 PM</td>
 	</tr>
 </tbody></table>
 <script type="text/javascript">
@@ -3841,6 +3935,36 @@ pageTracker._initData();
 pageTracker._trackPageview();
 </script>
 <!-- END : Google Analytics Code -->
+
+
+
+
+
+
+<!-- Custom Code By Chetana : Below is the code to display Unstoppable POP UP ADVERTISEMENT -->
+<div id="dropin" style="position: fixed; visibility: visible; left: 250px; top: 78px; width: 450px; height: 80px; background-color: rgb(255, 204, 204);">
+<div align="right"><a href="#" onclick="dismissbox();return false"><img src="http://www.chetanasforum.com/images/CloseButton.gif" width="16px" height="14px" border="0"></a></div>
+<!-- start your html here -->
+<h2>
+<table bgcolor="#FFCCCC" align="center">
+<tbody><tr align="center">
+
+<td align="center">
+
+<a href="http://www.s2d6.com/x/?x=c&amp;z=s&amp;v=3242822&amp;k=ChetanaSforumPop" target="_blank"><font face="Arial" color="blue" size="+1"><b>Top Companies Hiring. Submit Resume Now !</b></font></a>
+
+</td>
+</tr>
+</tbody></table>      		
+</h2>
+<!-- end your html here -->
+</div>
+<!-- Custom Code By Chetana : Below is the code to display Unstoppable POP UP ADVERTISEMENT -->
+
+
+
+
+
 
  
 </body></html>
