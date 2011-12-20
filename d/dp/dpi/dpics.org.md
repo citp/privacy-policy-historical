@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dpics.org privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225105226id_/http%3A//hq.dpics.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpics.org privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220061840id_/http%3A//hq.dpics.org/privacy.php) for the most accurate reproduction.*
 
 # Desktop Wallpapers · Privacy Policy for HQ.DPICS.ORG
 
