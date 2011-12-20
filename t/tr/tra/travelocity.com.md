@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelocity.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620041224id_/http%3A//www.travelocity.com/info/info_window/0%2C%2CTRAVELOCITY%257CPRIVACY_WINDOW%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelocity.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220041011id_/http%3A//www.travelocity.com/info/info_window/0%2C%2CTRAVELOCITY%257CPRIVACY_WINDOW%2C00.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Travelocity
 
 As a user of Travelocity's web sites, mobile applications and services (collectively, the "Travelocity Service"), you are in control of your travel-planning. We know you want to remain in control of your personal information as well. As one of the pioneers in online travel, we realize that earning and retaining your trust is of paramount importance and it's a responsibility we take very seriously. 
 
@@ -97,12 +97,12 @@ As a Travelocity member and/or customer you will also occasionally receive updat
 How can I update or correct my personal information?  
 
 
-At any time, you can view and/or update your Real Deals or other newsletter or our FareWatcher PlusSM service preferences. You can also update your personal profile, which includes member registration and travel preferences information, through "My Account" - accessible via "My Account" and "My Travelocity" on the Travelocity home page. 
+At any time, you can view and/or update your Real Deals or other newsletter or our FareWatcher PlusSM service preferences. You can also update your personal profile, which includes member registration and travel preferences information, through "My Account" - accessible via "My Account" on the Travelocity home page. 
 
 What safeguards are in place to protect the loss, misuse or alteration of your information?  
 
 
-All personal information you provide to Travelocity is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. In addition, when you make travel purchases on Travelocity, you are protected by [Travelocity's Shop Safe Guarantee](http://www.travelocity.com/info/info_popup/0,,travelocity%7CGUARANTEE_WINDOW,00.html). 
+All personal information you provide to Travelocity is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. In addition, when you make travel purchases on Travelocity, you are protected by [Travelocity's Shop Safe Guarantee](http://www.travelocity.com/info/info_popup/0,,TRAVELOCITY%7CGUARANTEE_WINDOW,00.html). 
 
 What other information should I know about my privacy?  
 
