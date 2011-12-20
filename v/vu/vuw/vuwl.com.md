@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vuwl.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220101712id_/http%3A//www.vuwl.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vuwl.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220222516id_/http%3A//www.vuwl.com/policy.html) for the most accurate reproduction.*
 
 # Vuwl Web Directory
 
@@ -12,4 +12,9 @@ Vuwl.com contains links to other sites. These sites may send their own cookies t
 
 Vuwl.com may share non-personal and non-personally identifiable information about our users with advertisers, business partners, sponsors, and other third parties. However, we only divulge aggregate information, such as how often the average user visits Vuwl.com. We will not share personally identifiable information with any third party without your express consent. 
 
+  
+
+
 By using our site, you consent to the collection and use of your information as we have outlined in this privacy statement and to our Terms of Service. Vuwl.com may decide to change this privacy statement from time to time. When we do, we will post the changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
