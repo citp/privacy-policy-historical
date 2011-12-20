@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the glassons.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521083219id_/http%3A//www.glassons.com/index.php/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassons.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220224653id_/http%3A//www.glassons.com/privacy) for the most accurate reproduction.*
 
-# Privacy. Buy Online at Glassons.com
+# Privacy Policy
 
 Glassons. value our customers and respect your privacy. We collect information about you through our website in an effort to improve your shopping experience, as well as communicate with you about our products, services and promotions. We do not sell or rent your personal information to third parties. As described in this policy, we may under certain circumstances share your information among third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service.
 
