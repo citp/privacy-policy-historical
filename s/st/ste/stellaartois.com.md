@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stellaartois.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605225001id_/http%3A//www.stellaartois.com/privacy-policy-14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellaartois.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220210004id_/http%3A//www.stellaartois.com/privacy-policy-14) for the most accurate reproduction.*
 
 # Privacy Policy | Stella Artois
 
@@ -25,6 +25,21 @@ On certain areas of this site we may provide links to third party sites. This Pr
 **How to Contact Us**
 
 If you no longer wish to receive marketing and promotional offers or information from us, please email us at [support@stellaartois.com](mailto:support@stellaartois.com), write to us at Stella Artois, One Busch Place, St. Louis MO, 63118 or call us at 1-800-342-5283. You can also follow the opt-out instructions that will be included in any promotional message you receive from us. Please note that if you opt not to receive promotional messages from us, we will still continue to send you information that relates to any account you may hold with us, or any business relationship you may have with us, such as requests you have made for or about our goods and services (such as transactional messages about sweepstakes in which you may have entered).
+
+**For UK Queries**
+
+If, at any time, you have any requests or queries concerning this policy or want to update your details, please contact us at:
+
+Stella Artois  
+Consumer Department  
+Inbev UK Limited  
+Porter Tun House  
+500, Capability Green  
+Luton  
+Bedfordshire  
+LU1 3LS  
+Tel: 01582 391166  
+Or you can send an e-mail to [consumer.helpline@inbev.co.uk](mailto:consumer.helpline@inbev.co.uk.')
 
 **Special Notice to California Residents**
 
