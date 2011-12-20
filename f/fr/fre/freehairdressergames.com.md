@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freehairdressergames.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422165149id_/http%3A//www.freehairdressergames.com/page/4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehairdressergames.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220055229id_/http%3A//www.freehairdressergames.com/page/4.html) for the most accurate reproduction.*
 
-# Free HairDresser Games - Hair Games - Nail Games - Privacy Policy
+# Hair Games | Hairdressing Games | Nail Games and Games for Girls - Privacy Policy
 
 **Privacy Policy for FreeHairDresserGames.com**
 
