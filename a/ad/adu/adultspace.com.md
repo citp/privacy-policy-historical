@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultspace.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222192157id_/http%3A//www.adultspace.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultspace.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220214731id_/http%3A//www.adultspace.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Adultspace.com | A Stimulating Social Network For the Adult Community - Special Edition
 
