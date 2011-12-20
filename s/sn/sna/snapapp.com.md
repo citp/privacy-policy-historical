@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapapp.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615224512id_/http%3A//www.snapapp.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapapp.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220170902id_/http%3A//www.snapapp.com/help/privacy) for the most accurate reproduction.*
 
 # SnapApp | Privacy Policy
 
@@ -10,15 +10,15 @@ Please read the following details of our Privacy Policy. This Privacy Policy app
 
 **By using SnapApp you agree to the terms of this Privacy Policy. This Privacy Policy also applies to users that have agreed to receive e-mail marketing from SnapApp and joint marketing advertisers ("Advertisers") that collaborate with SnapApp, whether at SnapApp, via email, on third party websites, via co-registration or otherwise.**
 
-  * [I. Collected Information](https://web.archive.org/web/20110615224512id_/http%3A//www.snapapp.com/help/privacy#collected_information)
-  * [II. Use Of Collected Information](https://web.archive.org/web/20110615224512id_/http%3A//www.snapapp.com/help/privacy#use_of_collected_information)
-  * [III. Information Sharing and Disclosure](https://web.archive.org/web/20110615224512id_/http%3A//www.snapapp.com/help/privacy#information_sharing_and_disclosure)
-  * [IV. Preferences/Opt-Out](https://web.archive.org/web/20110615224512id_/http%3A//www.snapapp.com/help/privacy#preferences_optout)
-  * [V. Third Parties](https://web.archive.org/web/20110615224512id_/http%3A//www.snapapp.com/help/privacy#third_parties)
-  * [VI. Security](https://web.archive.org/web/20110615224512id_/http%3A//www.snapapp.com/help/privacy#security)
-  * [VII. Accessing and Updating Personal Information](https://web.archive.org/web/20110615224512id_/http%3A//www.snapapp.com/help/privacy#accessing_and_updating_personal_information)
-  * [VIII. Data Integrity](https://web.archive.org/web/20110615224512id_/http%3A//www.snapapp.com/help/privacy#data_integrity)
-  * [IX. Children ](https://web.archive.org/web/20110615224512id_/http%3A//www.snapapp.com/help/privacy#children)
+  * [I. Collected Information](https://web.archive.org/web/20111220170902id_/http%3A//www.snapapp.com/help/privacy#collected_information)
+  * [II. Use Of Collected Information](https://web.archive.org/web/20111220170902id_/http%3A//www.snapapp.com/help/privacy#use_of_collected_information)
+  * [III. Information Sharing and Disclosure](https://web.archive.org/web/20111220170902id_/http%3A//www.snapapp.com/help/privacy#information_sharing_and_disclosure)
+  * [IV. Preferences/Opt-Out](https://web.archive.org/web/20111220170902id_/http%3A//www.snapapp.com/help/privacy#preferences_optout)
+  * [V. Third Parties](https://web.archive.org/web/20111220170902id_/http%3A//www.snapapp.com/help/privacy#third_parties)
+  * [VI. Security](https://web.archive.org/web/20111220170902id_/http%3A//www.snapapp.com/help/privacy#security)
+  * [VII. Accessing and Updating Personal Information](https://web.archive.org/web/20111220170902id_/http%3A//www.snapapp.com/help/privacy#accessing_and_updating_personal_information)
+  * [VIII. Data Integrity](https://web.archive.org/web/20111220170902id_/http%3A//www.snapapp.com/help/privacy#data_integrity)
+  * [IX. Children ](https://web.archive.org/web/20111220170902id_/http%3A//www.snapapp.com/help/privacy#children)
 
 
 
@@ -38,7 +38,7 @@ We regularly review our compliance with this Policy. SnapApp may edit this Polic
 
 You can request that we stop storing cookies on your computer, and that we don't set any more. **Please be aware that if you decline the use cookies set by SnapApp, you will be unable to use the site.**
 
-[Click here to opt-out of SnapApp cookies](https://web.archive.org/web/20110615224512id_/http%3A//www.snapapp.com/help/remove-all-cookies)
+[Click here to opt-out of SnapApp cookies](https://web.archive.org/web/20111220170902id_/http%3A//www.snapapp.com/help/remove-all-cookies)
 
 ## II. Use of Collected Information 
 
@@ -85,7 +85,7 @@ If you provide us with your address, telephone number and/or email, you may rece
 
 To the extent we use PII to email you about our products and services, our email practices are in compliance with the U.S. SPAM laws. 
 
-If you do not wish to receive promotional communications from us, please [unsubscribe here](https://web.archive.org/web/20110615224512id_/http%3A//www.snapapp.com/help/unsubscribe), or the bottom of promotional emails you may receive from us or you can also contact us by email at theprivacygroup@snapapp.com, or in writing to P .O. Box 0125, Watertown, MA 02472. 
+If you do not wish to receive promotional communications from us, please [unsubscribe here](https://web.archive.org/web/20111220170902id_/http%3A//www.snapapp.com/help/unsubscribe), or the bottom of promotional emails you may receive from us or you can also contact us by email at theprivacygroup@snapapp.com, or in writing to P .O. Box 0125, Watertown, MA 02472. 
 
 If you do opt out from receiving promotional communications from us, this does not prohibit us from sharing PII for non-marketing purposes listed above. 
 
@@ -131,7 +131,7 @@ Users under 13 years of age are not allowed to participate in quizzes or surveys
 
 If you do not agree to the terms of this Privacy Policy, you may unsubscribe from our services by completing an opt-out request at the following URL: 
 
-[Unsubscribe here!](https://web.archive.org/web/20110615224512id_/http%3A//www.snapapp.com/help/help/unsubscribe)
+[Unsubscribe here!](https://web.archive.org/web/20111220170902id_/http%3A//www.snapapp.com/help/help/unsubscribe)
 
 Alternatively, you may send postal mail to the following address: 
 
