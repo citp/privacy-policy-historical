@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todaysthv.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521182411id_/http%3A//www.todaysthv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaysthv.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220202622id_/http%3A//www.todaysthv.com/privacy) for the most accurate reproduction.*
 
 # todaysthv.com | Little Rock, AR
 
