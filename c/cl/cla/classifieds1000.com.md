@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifieds1000.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223174627id_/http%3A//www.classifieds1000.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifieds1000.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220204516id_/http%3A//www.classifieds1000.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,7 +61,7 @@ Name/Contact Information of Designated Agent:
 Glen Roberts   
 E-mail: dmca at glrsales.com   
 Fax: 408-228-0566   
-Mailing Address: PO Box 12148, Localidad 4, Montevideo, URUGUAY 11300 
+Mailing Address: ECM #15990, PO Box 34628, Seattle, Washington 98124-1628 United States 
 
 To be effective, the notification must be in writing and contain the following information (DMCA, 17 U.S.C. 512(c)(3)): 
 
