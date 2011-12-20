@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the siriusdecisions.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620231616id_/http%3A//www.siriusdecisions.com/live/home/document.php%3FdA%3Dprivacy%26FID%3DMarketing) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siriusdecisions.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220062938id_/http%3A//www.siriusdecisions.com/live/home/document.php%3FdA%3Dprivacy%26FID%3DMarketing) for the most accurate reproduction.*
 
 # Privacy Policy
-
-## Online Privacy Policy
 
 **Information Collection and Use   
 **When you register on SiriusDecisions Web site(s), or for SiriusDecisions events, or purchase products, we ask you for personal information. We use this information to provide you with the best advice and highest-quality service as well as with offers that we think are relevant to you. We may also contact you regarding a Web site problem or other customer service-related issues. 
