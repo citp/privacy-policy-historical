@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dfmedicine.net privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602071645id_/http%3A//www.dfmedicine.net/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfmedicine.net privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220145327id_/http%3A//www.dfmedicine.net/policy.html) for the most accurate reproduction.*
 
 # DFMedicine
+
+[Home](http://www.sunderlandcommunitynetwork.org/) >> Privacy Policy >
 
 **INTRODUCTION**
 
@@ -86,3 +88,41 @@ This Privacy Policy may change from time to time to reflect our changing busines
 This Privacy Policy and our Terms of Use , both as posted on our Sites and through our Services, contain all of the material terms of regarding your use of our Websites and Services. No summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post it to our Sites and Services. 
 
 [3rd Chakra](http://www.chakra-colors.com/Solar-Plexus-Chakra/) The Solar Plexus Chakra is located and inch or two above the navel. This Chakra is the focus point for our power and will. Our sense of power, ego and authority, as well as self-control and discipline are centered here.
+
+[Compare Bariatric Surgery](http://www.comparebariatricsurgery.co.uk/) Obesity levels have been creeping up over the last 10 years in the UK. Compare Bariatric Surgery is the UK's leading price comparison and information website for weight loss surgery. Find information about gastric band surgery as well as Incision free weight loss surgeries.
+
+[Laser Treatment](http://www.mapperleypark.co.uk/) The Mapperley Park Clinic was established in 1993 and is the region's leading cosmetic clinic providing a complete range of skin-health solutions. Whether it is laser treatment, injectable treatments for fine lines and wrinkles, plastic surgery or just the confidence to make the decision to do nothing at all - we are here to help.
+
+[Chiropractor Killeen](http://myhhchiro.com/) Chiropractic Killeen, Fort Hood, Harker Heights. Decompression Chiropractor in Texas (TX)
+
+[Pharmacovigilance](http://www.qsi.in/) Quantum Solutions India provides Pharmacovigilance Services, Drug Safety, PreClinical Research, Contract Research,Clinical Research, Pharmaceutical CRO and Medical Writing services to Pharma Companies across UK, Canada, USA, Asia and Europe. QSI is a Pharmacovigilance, Drug Safety Contract Research Organization (CRO) who works as Clinical Research Associates with Pharmaceutical Organizations. Visit QSI.in
+
+Sep11
+
+[Workout Programs](http://www.healthclubtv.com/) HealthClubTV lets you take the gym with you, providing you with instant, easy access to all your essential workouts, anytime, anywhere. Simply download the videos direct to your mobile or laptop and you are ready to go today.
+
+[Acne Scar Treatment](http://www.whitelotusantiaging.co.uk/) From a Derma Roller to Cellulite Treatment, White Lotus Anti-Aging has it all Acne Scar Treatment, Stretch Mark Treatment and a variety of Natural Anti-Aging products .
+
+Nov11
+
+[Mesothelioma Prognosis](http://www.mesotheliomaprognosis.net/) \- The mesothelioma association provides the latest information on treatments, doctors, and cancer centers for those afflicted by asbestos related diseases.
+
+Dec11
+
+[Prognosis Mesothelioma](http://www.mesotheliomaprognosis.net/) Provides cutting edge information for individuals who have received a mesothelioma prognosis, including a list of the latest clinical trials.
+
+[how to build self confidence](http://www.discover-your-true-potential.com/) observed aspects of your life and your interior looks
+
+[Garden of Life](http://www.makersintentions.com/) Maker's Intentions online health food retailer offering Garden of Life supplements and Garden of Life vitamins.
+
+[Drug rehab residential ](http://www.drug-rehab.com/) Drug rehab facility listings that offer addiction treatment for all types of abuse problems from Drug-Rehab.com.
+
+[USN pure protein igf-1](http://uf4u.co.uk/gallery-ezp-3.html?chapter=1) Ultimate Fitness :  \- Shop by Category Shop by Goals bodybuilding supplements, mma clothing, boxing gloves, fitness equipment, boxing equipment, protein supplements, mma shorts, ufc clothing
+
+[Clinical trials phases ](http://www.treatment-center.com/) Drug and alcohol treatment centers - call 866-323-5612 to find a drug or alcohol treatment center located near you. All the leading treatment centers listed here
+
+[ Opc ](http://www.ehelps.org/) Buy high quality herbal supplements to cure sleep & vision problem, stomach pain, OPC, body cleansing, immune system & digestive problems, cure diabetes and anti aging products at ehelp.org. 
+
+[ Vision Problem ](http://www.ehelps.org/) Buy high quality herbal supplements to cure sleep & vision problem, stomach pain, OPC, body cleansing, immune system & digestive problems, cure diabetes and anti aging products at ehelp.org.
+
+[used microscope](http://www.biosurplus.com/) | [San Diego Plastic Surgeon](http://www.bolithomd.com/) | [Dental care Toronto](http://www.ehealthcare.ca/) | [Medical laser equipment](http://www.lifelinemed.net/) | [Dependent eligibility audits](http://www.claimtechnologies.com/WhitePapers/dependent-eligibility.html) | [dallas cosmetic dentures](http://www.garysolomondds.com/) | [Naturopathy Clinics Toronto](http://www.ehealthcare.ca/) | Oct | [Lasik Braverman Eye Center](http://www.bravermaneyecenter.com/lasik.asp) | [E Cigarette](http://www.smokefree.in/) | [expressnaturals.com Vitalzym](http://www.expressnaturals.com/) | [Long Island Eye Doctor](http://www.optixeyecare.com/) | [cranberry pa chiropractor ](http://www.gricechiropractic.com/) | Nov11 | [herniated disc](http://www.deukspine.com/pages/herniated-disc) | [Allergy Specialist Chandgiarh](http://www.setallergy.com/) | [Invisible Braces London](http://www.smilebeautiful.co.uk/services/invisalign-invisible-orthodontics) | dec11 | [Dental Supply](http://www.hsdentalsupply.com/About-Us.htm)
