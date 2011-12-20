@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiox.org privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603222932id_/http%3A//hiox.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiox.org privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220030851id_/http%3A//hiox.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Hiox.org
 
