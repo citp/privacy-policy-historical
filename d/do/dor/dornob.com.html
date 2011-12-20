@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the dornob.com privacy policy that was archived on 2011-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110617063541id_/http%3A//dornob.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dornob.com privacy policy that was archived on 2011-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111220043528id_/http%3A//dornob.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
     
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">if(document.referrer.search(/google\.*/i) != -1 && top!=self)top.location.replace(self.location.href);</script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">if(document.referrer.search(/google\.*/i) != -1 && top!=self){top.location.replace(self.location.href+'?ref=search');};</script>
   
 <meta name="title" content="DorNob.com">
 <meta name="description" content="Modern Home, Interior &amp; Furniture Designs &amp; Ideas">
@@ -17,14 +17,16 @@
 <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-1472145-35'],
-          ['_trackPageview'],
+          ['_trackPageview'],['_trackPageLoadTime'],
           ['b._setAccount', 'UA-12439679-1'],
           ['b._trackPageview']);
+	_gaq.push(['_trackEvent', 'Testing', 'onload']);
+
   </script>
 
 		<link rel="shortcut icon" href="http://cdn.dornob.com/favicon.ico">
 
-		<link href="http://cdn.dornob.com/wp-content/themes/dornob/style.css?v=18.1" rel="stylesheet" type="text/css">
+		<link href="http://cdn.dornob.com/wp-content/themes/dornob/style.css?v=1.0015" rel="stylesheet" type="text/css">
 		
 		
 		
@@ -88,25 +90,17 @@
 <title>
   Privacy Policy | Protections for Dornob Visitors | Designs &amp; Ideas on Dornob</title>
 
-<script language="javascript">
-        var $_GET = [];
-        if ( $_GET["cc"] ) { function geoplugin_countryCode(){return $_GET["cc"];} }
-        else { jQuery.getScript('http://64.38.23.86/geo'); }
-</script>
+<script type="text/javascript" src="http://64.38.23.86/geo"></script>
+<script type="text/javascript" src="http://cdn.dornob.com/wp-content/themes/dornob/js/main.js?v=0.01"></script>
 
-    <!-- begin jswsa header code -->
-    <script type="text/javascript" src="http://cdn.dornob.com/wp-content/themes/dornob/jswsa/jswsa.js?v=1.02"></script>
-    <script type="text/javascript" src="http://cdn.dornob.com/wp-content/themes/dornob/jswsa/jswsa-data.js?v=1.1111"></script>
-        <script type="text/javascript" id="jswsaDate">
-      // this is a global var for jswsa age testing
-      var jswsaDate = new Date('April 13, 2009');
-      var jswsaIsHome = 0;
-      var jswsaIsSingle = 0;
-
+        <script type="text/javascript" id="goog">
         var googAge = "noage";
         var googType = "notype";
         var googCat = "nocat";
         var googRef = "noref";
+        var googTest = "notest";
+
+        googTest = 'nokey';
 
         // set googAge to age of page
         postDate = new Date('April 13, 2009');
@@ -122,14 +116,16 @@
         // set googCat
         googCat =
         ["nocat"];
+		googTag = 
+		["notag"];		
         //set googRef
         testsearch = RegExp("search|google|bing|yahoo|ask.com");
         testnetwork = RegExp("http://gajitz.com|http://weburbanist.com|http://webecoist.com|http://dornob.com");
-        testpaid = RegExp("darkroastedblend.com|leenks.com|i-am-bored.com|neatorama.com|asylum.com|2leep.com|huffingtonpost.com|news.us.marketgid.com|us.marketgid.com|marketgid.com|mgid.com");
+        testmisc = RegExp("darkroastedblend.com|leenks.com|i-am-bored.com|neatorama.com|asylum.com|2leep.com|huffingtonpost.com|news.us.marketgid.com|us.marketgid.com|marketgid.com|mgid.com");
         testsocial = RegExp("reddit.com|stumbleupon.com|twitter.com|facebook.com");
         if (testsearch.test(document.referrer)) {googRef = "search"; }
         else if (testnetwork.test(document.referrer.substring(0, 32))) { googRef = "network"; }
-        else if (testpaid.test(document.referrer)) { googRef = "paid"; }
+        else if (testmisc.test(document.referrer)) { googRef = "misc"; }
         else if (testsocial.test(document.referrer)) { googRef = "social"; }
         else { googRef = "nomatch"; }
 
@@ -147,7 +143,9 @@ GS_googleEnableAllServices();
   GA_googleAddAttr("age", googAge);
   GA_googleAddAttr("type", googType);
   GA_googleAddAttr("cat", googCat);
+  GA_googleAddAttr("tag", googTag);
   GA_googleAddAttr("ref", googRef);
+  GA_googleAddAttr("test", googTest);
 </script>
 <script type="text/javascript">
 GA_googleAddSlot("ca-pub-8097212468498640", "Dornob-160x600");
@@ -155,16 +153,24 @@ GA_googleAddSlot("ca-pub-8097212468498640", "Dornob-300x250");
 GA_googleAddSlot("ca-pub-8097212468498640", "Dornob-728x90");
 GA_googleAddSlot("ca-pub-8097212468498640", "Dornob-Interstitial");
 GA_googleAddSlot("ca-pub-8097212468498640", "Dornob-MPU");
-GA_googleAddSlot("ca-pub-8097212468498640", "DornobHP-160x600");
-GA_googleAddSlot("ca-pub-8097212468498640", "DornobHP-300x250");
-GA_googleAddSlot("ca-pub-8097212468498640", "DornobHP-728x90");
+GA_googleAddSlot("ca-pub-8097212468498640", "Dornob-BTF-160x600");
+GA_googleAddSlot("ca-pub-8097212468498640", "Dornob-BTF-300x250");
+GA_googleAddSlot("ca-pub-8097212468498640", "Dornob-BTF-728x90");
 </script>
 <script type="text/javascript">
 GA_googleFetchAds();
 </script>
 
+<!-- guardian tracking for UK only -->
 
-<!-- top doc -->
+<script type="text/javascript">
+
+var guardAd = '%3Cscript%20type%3D%22text/javascript%22%3E%0Afunction%20DM_onSegsAvailable%28rsinetsegs%2C%20csid%29%20%7B%0A%20if%20%28csid%20%3D%3D%20%22e05516%22%29%20%7B%0A%20%20%20var%20e%3Ddocument.createElement%28%22script%22%29%3B%0A%20%20%20e.language%3D%22JavaScript%22%3B%0A%20%20%20e.type%3D%22text/javascript%22%3B%0A%20%20%20e.src%3D%22http%3A//oas.guardian.co.uk/adstream.cap/123%3Fc%3Drsi_segs%26va%3D%22+rsinetsegs.join%28%27%7C%27%29+%22%26e%3D90d%22%3B%0A%20%20%20if%20%28document.body%20%3D%3D%20null%29%20%7B%20%20%20%20//%20we%27re%20in%20the%20head%0A%20%20%20%20%20document.getElementsByTagName%28%22head%22%29%5B0%5D.appendChild%28e%29%3B%0A%20%20%20%7D%20else%20%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%20//%20we%27re%20in%20the%20body%0A%20%20%20%20%20document.body.insertBefore%28e%2C%20document.body.firstChild%29%3B%0A%20%20%20%7D%0A%20%7D%0A%7D%0A%3C/script%3E%0A%3Cscript%20src%3D%22http%3A//js.revsci.net/gateway/gw.js%3Fcsid%3DE05516%26auto%3Dt%22%3E%3C/script%3E';
+
+if (googTest == 'guard') { document.write(unescape(guardAd)); }
+if (geoplugin_countryCode() == 'UK') { document.write(unescape(guardAd)); }
+
+</script>
 
 <!-- Begin comScore Tag -->
 <script>
@@ -181,13 +187,8 @@ GA_googleFetchAds();
 </noscript>
 <!-- End comScore Tag -->
 
-<meta name="google-site-verification" content="exlX7Ma745DkunMWTEAcmxKlD3VXeeIe_oGd2wgvXK8">
-
-
 	</head>
 	<body>
-
-
 
 <center>
 	<script type="text/javascript">
@@ -224,19 +225,10 @@ GA_googleFetchAds();
 <div style="height:90px;width:728x">
 <!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT Dornob-728x90 -->
 <script type="text/javascript">
-if(jswsaIsHome) {
-       GA_googleFillSlot("DornobHP-728x90");
- } else {
-  //document.write("o0 ");
   GA_googleFillSlot("Dornob-728x90");
-}
- 
 </script>
 <!-- END OF TAG FOR SLOT Dornob-728x90 -->
 </div>
-
-
-
 
 						</div>
 					</div>
@@ -417,7 +409,12 @@ if(jswsaIsHome) {
 	</div>
 </div>
 
-
+<div id="Dornob-BTF-728x90" class="lijit dfp" style="display:none;margin-top:10px;">
+  <!-- Dornob-BTF-728x90 -->
+  <script type="text/javascript">
+    GA_googleFillSlot("Dornob-BTF-728x90");
+  </script>
+</div>
 
 <div id="footerText">
 <a href="http://dornob.com/">Home</a> -
@@ -449,6 +446,14 @@ if(jswsaIsHome) {
 
 </center>
 
+<script type="text/javascript">
+
+	jQuery('#footerKeysText').mouseenter(function() {
+	  _gaq.push(['_trackEvent', 'Testing', 'footer mouse']);
+	});
+
+</script>
+
 <!-- loading ga.js for google analytics via ssl if available -->
 <script type="text/javascript">  (function() {
     var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = true;
@@ -467,42 +472,26 @@ qacct:"p-b0QGrEweW3QWc"
 <noscript>
 <img src="http://pixel.quantserve.com/pixel/p-b0QGrEweW3QWc.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 </noscript>
-<!-- End Quantcast tag -->		 
+<!-- End Quantcast tag -->	
 
+<script type="text/javascript">
+ch_client = "dornob";
+ch_width = 320;
+ch_height = 50;
+ch_type = "mobile";
+ch_sid = "Chitika Mobile";
+</script>
+<script src="http://scripts.chitika.net/eminimalls/amm.js" type="text/javascript">
+</script>	 
 
 </div>
 
-
-
 </center>
-
-
-
-<script type="text/javascript" id="pixazza">
-
-if ( jswsaIsSingle && isOld_jswsa(jswsaDate,10)) {
-     $("#singleContent img").addClass("pixazza");
-     if (isPaidRef_jswsa() || isSearchRef_jswsa()) { write_jswsa('pixazza'); }
-     else if (isNetworkRef_jswsa() || isRef_jswsa('stumbleupon.com')) { write_jswsa('picadmedia'); }
-     else if (document.referrer == "") { write_jswsa('picadmedia'); }
-     else if (isOld_jswsa(jswsaDate,10)) { write_jswsa('pixazza'); }
-     else { write_jswsa('picadmedia'); }
-}
-
-
-</script>
-
-<!-- guardian tracking -->
-<script src="http://js.revsci.net/gateway/gw.js?csid=E05516&amp;auto=t"></script>
-
-
 
 <script src="http://publishers.halogennetwork.com/audience/Dornob.js" type="text/javascript"></script>
 <script src="http://www.lijit.com/blog_wijits?json=0&amp;id=trakr&amp;uri=http%3A%2F%2Fwww.lijit.com%2Fusers%2Fmisnamed&amp;js=1"></script>
 
-<script type="text/javascript" id="kontera">
-
-// region marked in single.php by <div class="KonaBody">
+<!--script type="text/javascript" id="kontera">
 
 /*
 var dc_AdLinkColor = '#000000' ;
@@ -511,12 +500,13 @@ var dc_PublisherID = 173688 ;
 
  var encodedAd = '%3C%21--%20Kontera%20ContentLink%28TM%29%3B--%3E%0A%3Cscript%20type%3D%27text/javascript%27%3E%0Avar%20dc_AdLinkColor%20%3D%20%27%23000000%27%20%3B%0Avar%20dc_PublisherID%20%3D%20173688%20%3B%0A%3C/script%3E%0A%3Cscript%20type%3D%27text/javascript%27%20src%3D%27http%3A//kona.kontera.com/javascript/lib/KonaLibInline.js%27%3E%0A%3C/script%3E%0A';
 
+// change to goog* vars if used again
    if ( jswsaIsSingle ) {
      if (isPaidRef_jswsa() || isSearchRef_jswsa()) { write_jswsa('encodedAd'); }
      else {}
   }
 
-</script>
+</script-->
 
 <script>
 $(document).ready(function(){
@@ -525,9 +515,10 @@ $(document).ready(function(){
 });
 </script>
 
+
 	
 
 
 
 
-<!--Cached by HoodMonkey Cache on: June 16, 2011 10:36:48 pm--></body></html>
+<!--Cached by HoodMonkey Cache on: December 19, 2011 10:00:50 pm--></body></html>
