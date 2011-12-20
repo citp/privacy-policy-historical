@@ -1,69 +1,97 @@
-> *The following text is extracted and transformed from the getsport.tv privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231051841id_/http%3A//www.sportingo.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsport.tv privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220030652id_/http%3A//www.fanatix.com/privacy-policy) for the most accurate reproduction.*
 
-# - Sportingo
+# Privacy Policy | Fanatix
 
-**Privacy Policy**
+Fanatix takes your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the [www.fanatix.com](http://www.fanatix.com/) website and domain name (collectively, the "Website"), and/or using any other linked pages, features, content, or application services offered from time to time by Fanatix in connection therewith (collectively the "Service"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
-Last updated: 21 October, 2008
+**1\. WHAT DOES THIS PRIVACY POLICY COVER?**
 
-This document contains information regarding our privacy policy and practice and is presented to help you feel comfortable using our website. It is provided for your benefit and describes how we collect and use information. Please take a moment to read the following statement in order to affirm you agree with our practices.  
-Sportingo reserves the right to modify this Privacy Policy at any time without the requirement of any notice to you. The last modification date will be indicated on the top of this Agreement. 
+This Privacy Policy covers Fanatix's treatment of personally identifiable information ("Personal Information") that Fanatix gathers when you access the Website and/or use some other features of the Service. This policy does not apply to the practices of companies that Fanatix does not own or control, or to individuals that Fanatix does not employ or manage.
 
-By using the Sportingo Website ("Website") you permit the usage of your Personal Information and User Generated Content (as such terms are defined below) as outlined below in our Privacy Policy and in the [Terms of Use](http://www.sportingo.com/termsofuse.aspx).
+**2\. WHAT PERSONAL INFORMATION DOES FANATIX COLLECT?**
 
- **COLLECTION OF INFORMATION**
+The information we gather enables us to personalize and improve our services. We collect the following types of information from our users:
 
-Sportingo highly respects your privacy and takes careful measures to insure that any personal information collected by us is used solely in accordance with our privacy policy. It is important for us that you understand both what kind of information is collected and how it is used.  
-As part of the Website services users may exchange knowledge, provide information, reviews, and opinions on various sports related topics. In order to fulfill the purpose of our Website, we must collect and display a certain amount of personally identifiable information, the extent of which may vary depending on the type of content provided by users. Below please find a description of the types of information collected and displayed by Sportingo. 
+**i. Personal Information You Provide to Us**
 
-**TYPE OF INFORMATION COLLECTED** When registering as a member and as a writer, or when providing comments, input, feedback, etc, you will be prompted to provide certain personal information, depending on the type of content you provide or service you register. Such prompted information may include your first and last name, mailing address, e-mail address, Instant Messenger ID, and certain location information such as city, state, and/or zip code, as well as other pertinent information ("Personal Information"). You are not obligated to provide all information, in which case, however, please be advised that you may be able to enjoy only part of the services our Website has to offer. Kindly note that Personal Information may also include certain information which is not explicitly submitted by you, as we log your browser-type related information, IP address, requested URL, referring URL, and timestamp, all users who browse our Website will have such information collected from them.   
-As opposed to Personal Information which you may be prompted to provide when using the Website, which primarily is intended for voluntary sharing and transferring of information, you will also be free to provide any kind of non-abusive information of your choice, such as questions regarding various sports topics, answers to other people' questions, self-written articles, your profile photo, images of your choice, video reviews, ratings, and any other kind of content you voluntarily choose to provide ("User Generated Content"). 
+We receive and store any information you enter on the Website or provide to us in any other way, including by connecting your Facebook Account. The types of Personal Information collected include your full name, email address, IP address, browser information, username, password and any other information necessary for us to provide the Service, including the usernames and passwords for your accounts and profiles on third-party sites with which the Service interoperates. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as answering questions, sending product updates, and communicating with you about Fanatix's products and services, including specials and new features.
 
-**USE OF PERSONAL INFORMATION**
+**ii. Personal Information Collected Automatically**
 
-Sportingo will not sell, provide, rent, trade, or otherwise share your Personal Information with or to third parties for their promotional use, except as required by subpoena, search warrant or other legal process or in the case where you violate, or Sportingo in its opinion determines that you may violate, the Terms of Use of the Website, or in the event that failure to disclose information will lead to imminent harm to customers or others. Please note, however, that we may use your Personal Information in order to provide you with services our Website offers, as well as provide information to our third party affiliates, solely for the purpose of providing you with services. We may also use your email address to send you updates or news regarding our Website, but you may choose not to receive emails of this type by updating Sportingo at [info@sportingo.com](mailto:info@sportingo.com). In the event that Sportingo undergos a change of control it will be entitled to divulge Personal Information of its users to the new corporation provided that these privacy policies are maintained.
+a. We receive and store certain types of information whenever you interact with our Website or use another feature of our Service. Fanatix automatically receives and records information on our server logs from your browser including your IP address, cookie information, and the page you requested.
 
-Please be further advised that certain browser-type related information such as, IP address, requested URL, referring URL, and timestamp data may be used by us to diagnose our service, monitor our servers and make sure we provide you the highest quality of service. In addition, we may use this information to perform statistical analyses of the behavior and characteristics of people using the Website in order to measure interest and use of the various areas of the site. We may also inform advertisers of above mentioned information as well as the number of people who have been exposed to, or clicked on, their advertising banners. Advertisers in turn, may also serve content and/or advertisements and collect information directly from you. 
+b. More generally, our Service automatically collects usage information, such as the numbers and frequency of visitors to our Website and its components. Fanatix only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the Website or another feature of the Service so that we can make the Website appealing to as many customers as possible, and improve the Service. As part of this use of information, we may provide aggregate information to our partners about how our customers, collectively, use our Service. We share this type of statistical data so that our partners also understand how often people use our Service, so that they, too, may provide you with an optimal online experience. Again, Fanatix never discloses aggregate information to a partner in a manner that would identify you personally.
 
-**USE OF USER GENERATED CONTENT**
+**iii. E-mail Communications**
 
-Please note that by using this Website you hereby grant Sportingo the licenses set forth in the [Terms of Use](http://www.sportingo.com/termsofuse.aspx) under the "Use of Website Content" section. For further information regarding how your User Generated Content may be used, please refer to our [Terms of Use](http://www.sportingo.com/termsofuse.aspx). 
+We often receive a confirmation when you open an email from Fanatix if your computer supports this type of program. Fanatix uses this confirmation to help us make emails more interesting and helpful. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers.
 
-**CONTROLLING YOUR PERSONAL INFORMATION**
+**3\. WHAT ABOUT COOKIES?**
 
-Due to the nature of the web and the public nature of Sportingo please be aware that when you voluntarily disclose personally identifiable information (e.g., sign in name, e-mail address) via posts, messages, forums, etc., such information, along with any substantive information disclosed in your communication, can be collected and used by third parties for various purposes, including unsolicited messages from such third parties. Such activities are beyond the control of Sportingo. Please do not include in your User Generated Content any information which you wish to keep private. 
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. We use cookies to enhance visitors. experiences, to learn more about their use of the Website and to improve quality.
 
-**SECURITY OF INFORMATION** As we are committed to protecting the security of your Personal Information, Sportingo uses various security means and technologies in order to help protect your Personal Information from unauthorized access, use or disclosure. 
+Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of the Website's most attractive features.
 
-**COOKIES**  
-Upon your first visit to Sportingo, a cookie is sent to your computer that uniquely identifies your browser. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. Cookies cause no harm to your computer or to your web browsing experience; on the contrary, we use cookies to improve the quality of our service and to better understand how people interact with us.  
-Although most browsers are initially set up to accept cookies, you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. You can also easily remove any cookie sent to you from our Website. If you choose to decline cookies, you may not be able to use certain services that depend on cookies. 
+Ads appearing on the Website or in other features of the Service may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Fanatix and does not cover the use of cookies by any advertisers.
 
-**THIRD PARTY ADVERTISEMENTS**
+**4\. WILL FANATIX SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?**
 
-Please be aware that Sportingo may permit third parties to advertise on the WebSite, in which case advertisements you view shall be run from third party computers. Third parties may send "cookies" to your computer intended for collecting information regarding usage and viewing patterns. Usage of third parties cookies is subject to their privacy policies and not Sportingo' policy. If you wish to learn more about third parties' policies you may do such by visiting their websites. 
+Personal Information about our customers is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below.
 
-**UPDATING AND/OR REMOVING YOUR PERSONAL INFORMATION AND PRIVACY PREFERENCES**
+**i. Affiliated Businesses We Do Not Control**
 
-Members and writers have the right to access, correct and/or remove their Personal Information and privacy preferences at any time by using the Sportingo Settings page at [please insert a link].   
-If you request the removal of your Personal Information, Sportingo will use commercially reasonable efforts to functionally remove you and your Personal Information from the Website. However, please be aware that it may be technically impossible to remove your Personal Information without some residual information being retained by Sportingo. 
+We anticipate that we may become affiliated with a variety of businesses and work closely with them. In certain situations, these businesses may sell items to you through the Website and/or via email communications. In other situations, Fanatix may provide services, or sell products jointly with affiliated businesses. You can easily recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is related to such transactions with that affiliated business.
 
-**PROTECTION OF CHILDREN'S PERSONAL INFORMATION**
+**ii. Agents**
 
-The Website is a general audience website and does not knowingly collect any personal information from children under the age of 18. 
+We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Fanatix's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
 
-**LINKS TO OTHER WEBSITES**  
-The Website may contain links to third party websites. Sportingo is not responsible for the privacy practices of these websites (including any cookies sent by third party sites), nor will Sportingo be liable for any content related claim arising from visiting such third party websites. Please be advised that in some cases tracking technology may be installed on your hard drive when you click on a link to a third party website. You may reject the installation of such tracking technology by declining to install/download such technology.
+**iii. User profiles and other information you post**
 
- **PRIVACY-RELATED INQUIRIES AND COMPLAINTS**
+User profile information including users. name, email address, and other information you enter ("User Submissions") may be displayed to other users to facilitate user interaction within the Website. Email addresses are used to add new User Submissions to user profiles and to communicate through User Submissions. Users. email addresses will not be directly revealed to other users by Fanatix, except, when the user is "connected" to another user via a shared group membership, or an invitation, or if the user has chosen to include their email address in their User Profile. Any Personal Information or content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your display name may be displayed to other users when you upload images or videos or send messages through the Website and other users can contact you through messages and comments. Any images, captions, physical descriptions, personal interests or other content that you submit to the Websites may be redistributed through the Internet and other media channels, and may be viewed by the general public.
 
-If you believe that Sportingo has not complied with this privacy policy with respect to your Personal Information or if you have other related inquiries or concerns, please feel free to contact us at [info@sportingo.com](mailto:info@sportingo.com)
+**iv. Communication in response to User Submissions**
 
- **GOVERNING LAW**
+As part of the Service, you will receive from Fanatix email and other communication relating to your User Submissions. You acknowledge and agree that by posting such User Submissions, Fanatix may send you email and other communication that it determines in its sole discretion relate to your User Submissions.
 
-This privacy policy will be governed by and interpreted in accordance with the laws of England and Wales, without giving effect to its conflict of laws provisions. Any action arising from or related to this privacy policy and the use of our Website will be brought only before the competent courts of England.
+**v. Promotional Offers**
 
- **COPYRIGHT NOTICE**
+We may send offers to you on behalf of other businesses. However, when we do so, we do not give the other business your name and address. All email controls that allow you to choose whether or not to receive these offers can be found in the Account Settings section of the Website.
 
-All rights reserved. © 2008  
-SportBuzz Limited
+**vi. Business Transfers**
+
+In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if Fanatix, or substantially all of its assets were acquired, or in the unlikely event that Fanatix goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred to or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Fanatix may continue to use your Personal Information as set forth in this policy.
+
+**vii. Protection of Fanatix and Others**
+
+We may release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Fanatix, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+
+**viii. With Your Consent**
+
+Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+
+**5\. IS PERSONAL INFORMATION ABOUT ME SECURE?**
+
+Your Fanatix account Personal Information is protected by a password for your privacy and security. You need to ensure that there is no unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
+
+Fanatix endeavours to protect user information to ensure that user account information is kept private. However, Fanatix cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
+
+The Website contains links to other sites. Fanatix is not responsible for the privacy policies and/or practices on other sites. When linking to another site you should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Website.
+
+Please be aware that whenever you voluntarily post information to public areas on the Website or any other public forums, such information can be accessed by the public.
+
+**6\. WHAT CHOICES DO I HAVE?**
+
+As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of the Website or other features of the Service.
+
+You may request deletion of your Fanatix account by following the instructions at the Account Settings section of the Website. Please note that some information may remain in our records after deletion of your account.
+
+When you register for an account at our Website, you consent to receive email or other communications from us or, if you have registered through an Affiliated Business, the Affiliated Business; if you do not wish to receive such communications, you should not register for an account at our Website or through our Affiliated Businesses. Please note that if you choose not to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.
+
+**7\. CHANGES TO THIS PRIVACY POLICY**
+
+Fanatix may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.
+
+**8\. QUESTIONS OR CONCERNS**
+
+If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at [privacy@Fanatix.com](mailto:privacy@Fanatix.com).
