@@ -1,46 +1,45 @@
-> *The following text is extracted and transformed from the optum.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609183259id_/http%3A//www.clickcommerce.com/ckcm/Rooms/DisplayPages/LayoutInitial%3FPageID%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optum.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220204222id_/http%3A//www.optum.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy and Security Policy| Optum.com
 
-**Privacy**
+  |  | 
 
-Clickcommerce.com is owned and operated by Click Commerce, Inc. ("Click"). Click collects personal and non-personal information on clickcommerce.com. Click is committed to protecting the privacy of its users. If you have any questions or concerns in connection with Click's information collection practice summarized in this Privacy Statement, please send an email, with the subject heading "Privacy Statement Question," to [click.legal@clickcommerce.com](mailto:click.legal@clickcommerce.com).
+**I.     INTRODUCTION AND APPLICABILITY**
 
-To participate in certain activities and to obtain certain services offered on this website, a user is asked to provide varying amounts of personal information. Some information is mandatory while other information is discretionary. Each activity and service requires or requests different types of information in order for users to participate. Activities or services that require provision of personal information generally seek full name, email address, and phone number. We endeavor to limit our requests for personal information to information we believe is minimally necessary to achieve our stated collection purposes.
+PLEASE READ THIS PRIVACY AND SECURITY POLICY CAREFULLY BEFORE USING THIS SITE. Optum.com, by RIO Holdings, Inc., (“Optum” “Site,” “we,” “Web Site,” or “us”), is very sensitive to privacy and security issues and takes them seriously. We respect your privacy. This Privacy and Security Policy (“Privacy Policy”), along with the Optum.com Terms and Conditions, describe the terms and conditions under which we offer you access to Optum.com and the associated sites and the services contained on those sites (“Services”).
 
-The following is a list of principal activities and services involving collection of personal information:
+This Privacy Policy applies to Optum.com which is owned or operated by Optum. Optum may share information among its affiliates, subsidiaries, or sites that it owns or controls in accordance with the practices set forth in this Privacy Policy. By using these services and this Site(s), you signify your agreement to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use these services. We may revise and update this Privacy Policy at any time, as detailed below. Your continued use of Optum.com will mean you accept those changes. 
 
-  * Alliance Program 
-  * Downloading of free software or documents 
-  * Viewing of product demonstrations 
-  * Participating in web seminars or other events 
-  * Career opportunities 
-  * Participating in user surveys 
-  * Clickconnect.com access 
+**II.     PROTECTING YOUR PERSONAL INFORMATION**
 
+We have taken precautionary measures to make all information received from our online visitors secure against unauthorized access and use. We have reasonable and customary security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you (if any) at our Sites. 
 
+**III.     CHILDREN**
 
-## How does Click use my information?
+We are committed to protecting the privacy of children, and this Site is not intended for or designed to attract children under the age of 13. Optum.com does not knowingly collect personal information from any person under the age of 13.
 
-Personal information is collected and used primarily for such purposes as processing a user's resume or considering alliance applications. The personal information provided in resumes and alliance applications is used to consider the eligibility of candidates. We may also use a user's email address, phone number or address:
+**IV.     INTERNET ANALYTICS, CUSTOMIZATION TECHNOLOGY, AND INTERNET INFORMATION WE COLLECT ABOUT YOU**
 
-  * in our internal surveys to obtain feedback on our products, our web site, or on other aspects of our business that impact you as a Click customer; 
-  * to notify a user of new products or services that we think may be of interest; 
-  * to send promotional materials; 
-  * to provide a free email newsletter. 
+We do not explicitly identify visitors to our Web site. Like most Web site operators, Optum does collect non-personally identifying information that Web browsers and servers typically make available such as: (1) our Web sites may deposit a small file called a “cookie” on a visitor’s computer hard drive to personalize their experience or track aggregate site visitation statistics; and (2) our Web sites may use Web beacons in combination with cookies to help Optum identify and track usage of Optum Web sites in order to gather aggregate data related to the usage and usability of Optum Web sites. Optum will use this “Web analytics” data only as aggregate site visitation statistics or to personalize the end user experience.
 
+Optum’s purpose in collecting Web analytics information is primarily to better understand how Optum visitors use its Web sites and to optimize visitors experience and interaction with our Web sites. Optum will only share this information with its employees, contractors and agents for the purpose of understanding and enhancing Optum Web sites and their user experience. 
 
+Web site visitors may opt-out of the use of the Analytics and customization technology used by Optum.com sites by following this [link](http://www.d1.sc.omtrdc.net/optout.html?omniture=1&popup=1&locale=en_US&second=1&second_has_cookie=0) \- for to the Analytics opt-out page. Note that opting out of that analytics and customization technology may impact site functionality.
 
-If a user prefers not to receive emails or other forms of communication unrelated to Click orders and requests for services, the user may opt-out from receiving such communication. The opt-out procedure is discussed in detail below. We may also use personal information to contact a user in connection with the user's inappropriate use of our website. We do not sell, rent, share, or otherwise dispose of the personal information collected on our website to third parties. We may, however, disclose your personal information when required by law or in the good-faith belief that such disclosure is necessary to comply with law. We may use non-personal information such as demographic data to analyze and develop our marketing strategy. We use non-personal information to determine how you found out about us, what your interests are regarding our services, and how to further improve our site and our service towards you. We also may share non-personal information with third parties.
+Our Web sites may customize the Web site viewing experience and/or capture Web analytics by using either internal analytics software or by sending this information to vendors to help Optum analyze this data. Optum has agreements with its vendors that they will not share or use the information for purposes other than to maintain and enhance the services they provide to Optum.
 
-## What are Cookies and how does Click use them?
+Optum does not allow its employees, contractors or agents to correlate, link, or attempt to link its Web analytics data to personally identifiable information.
 
-A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. We use "cookie" technology for several purposes. First, we use it to track general information about our users. The information collected through cookies is non-personal information and we use this information for statistical and market research purposes. We also use cookies to establish a link between your computer and clickcommerce.com. This link assures that, when you return to clickcommerce.com, you will be able to log in without the necessity of providing your password. You have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies.
+The visitor may disable your “cookie” information by adjusting their browser preferences on your personal computer at any time. 
 
-## Does Click's privacy policy apply to linked web sites?
+We may use your IP address to help diagnose problems with our server and to administer our Site. Your IP address may also may be used to help identify visitors and to gather broad demographic information and to respond to legal requests. The information collected through this Web site is retained by Optum in accordance with the records retention and disposition requirements of Optum.
 
-Our Privacy Statement applies solely to information collection practice on clickcommerce.com. This web site may contain links to other sites. Please be aware that Click has no control or influence over the privacy practices of such other sites. We encourage our users to be aware when they leave clickcommerce.com and to read the privacy statements of each and every web site that they visit.
+**V.     LINKS TO OTHER WEB SITES**
 
-## Changes to this Privacy Statement
+This Site may contain links to other sites, including those with Optum’s affiliates. Optum is not responsible for the security, privacy practices, or the content of third-party Web sites. With respect to Optum’s affiliate Web sites, these Web sites have their own Privacy Policies and Terms and Conditions, and Optum’s Privacy Policy and Terms and Conditions do not apply. Please read the privacy statements, terms and conditions, and any other legal information of the linked Web sites that you visit, including third parties and Optum affiliates.
 
-If we later change our Privacy Statement, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personal information in a manner different from that stated at the time it was collected, we will notify users by email.
+**VI.     NOTIFICATION OF CHANGES TO THIS PRIVACY POLICY**
+
+Optum may modify this Privacy Policy at any time in its discretion, so please review it frequently. If we are going to materially change our Privacy Policy, we will post a notice that the Privacy Policy has changed on our Site for a period of 30 days following the change. Your continued use of Optum.com will indicate acceptance of any such material change, or you may opt-out of continuing to use the Site. 
+
+© 2011 Optum. All Rights Reserved.      
