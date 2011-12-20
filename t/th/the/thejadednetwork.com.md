@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the thejadednetwork.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620230005id_/http%3A//thejadednetwork.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejadednetwork.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220094931id_/http%3A//thejadednetwork.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy @ The JADED Network
-
-  * Information :
-  * Privacy Policy
-
-
 
 Log files are stored on the web server saving details such as the visitor's IP address, browser type, referring page and time of visit. Cookies may be used to remember visitor preferences when interacting with the website. Where user information is required, such as in comment forms and contact forms, the visitor's name, email, and IP address will be stored on the server. 
 
@@ -19,5 +14,4 @@ Ads such as Google Ads, as third party vendors, may use cookies to serve ads. Th
 
 ### Last Updated 02.13.2011
 
-  
-
+* * *
