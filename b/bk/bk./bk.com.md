@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bk.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610145455id_/http%3A//www.bk.com/en/us/company-info/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bk.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221100518id_/http%3A//www.bk.com/en/us/company-info/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # BURGER KING® – Privacy Policy
 
