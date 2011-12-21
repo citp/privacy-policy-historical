@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottiespromotions.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623000419id_/http%3A//scottiesfacial.com/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D74) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottiespromotions.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221082926id_/http%3A//scottiesfacial.com/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D74) for the most accurate reproduction.*
 
 # Scotties Facial Tissue
 
