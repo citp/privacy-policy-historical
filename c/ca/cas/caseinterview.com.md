@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caseinterview.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511132607id_/http%3A//www.caseinterview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caseinterview.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221021139id_/http%3A//www.caseinterview.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
