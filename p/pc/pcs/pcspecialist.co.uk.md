@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pcspecialist.co.uk privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622215612id_/http%3A//www.pcspecialist.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcspecialist.co.uk privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221153047id_/http%3A//www.pcspecialist.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# PCSPECIALIST.CO.UK - Privacy Policy
+# PCSPECIALIST - Privacy-policy
 
 Privacy Policy
 
