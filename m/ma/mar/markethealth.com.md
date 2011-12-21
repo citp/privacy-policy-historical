@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markethealth.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618113421id_/http%3A//www.markethealth.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markethealth.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221084741id_/http%3A//www.markethealth.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Health and Beauty Affiliate Programs by MarketHealth.com
 
@@ -102,11 +102,7 @@ MarketHealth, Inc. is a member of the Network Advertising Initiative ("NAI"). Th
 YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND OUR TERMS AND CONDITIONS (INCLUDING LIMITATIONS ON DAMAGES, AND ARBITRATION OF DISPUTES). YOU AGREE THAT Market Health'S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE GREATER OF THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY Market Health OR $250 TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS. You also agree that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to Market Health with regard to: (a) the purposes for which such third party's personal data has been collected; (b) the intended recipients or categories of recipients of the third party's personal data; (c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them. It is the express will of the parties that this agreement and all related documents have been drawn up in English. C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglais.
 
 **CONTACT US**   
-For more information or if you have questions or concerns regarding the MarketHealth Network Privacy Policy, please contact us at <http://www.markethealth.com/contact.php> or you can send correspondence to the following address: 
-
-**Privacy, Market Health, Inc.,  
-2049 N Lincoln St  
-Burbank, CA 91504 USA **  
+For more information or if you have questions or concerns regarding the MarketHealth Network Privacy Policy, please contact us at <http://www.markethealth.com/contact.php>.  
 
 
 ## CLIENT PRIVACY 
