@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kongregate.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523061911id_/http%3A//www.kongregate.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kongregate.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221222832id_/http%3A//www.kongregate.com/pages/privacy) for the most accurate reproduction.*
 
 # Kongregate Privacy Policy
 
@@ -37,6 +37,8 @@ Unless we tell you first (such as at the time we collect information from you), 
 From time to time we may include at the Site links to other websites as a service to you. The third party sites are operated by companies that are outside of our control, and your activities at those sites will be governed by the policies and practices of those third parties. We encourage you to review the privacy practices of these third parties before disclosing any personally identifiable information, as we are not responsible for the privacy practices of those sites.
 
 We sometimes work with third parties to add features or advertisements to our Site. These third parties may place cookies on your browser when you visit certain pages of our Site, or collect cookies that they have previously placed, along with the URL of the page you visited. We do not control those third parties or their use of data. In some cases we may provide tools for you to limit data sent to third parties. This privacy policy does not cover those third parties’ use of data.
+
+To personalize the Site, and to simplify the registration process, we give you the option to link your account with Facebook. When you link your account, Facebook may share data about you with us, and we may share information about you with Facebook. In addition, Kongregate users who are your friends on Facebook will be shown your Kongregate username if you have both linked your Facebook accounts. For more detail on how this feature works, please see our [FAQ](http://www.kongregate.com/pages/help#fbnew).
 
 ## Security
 
