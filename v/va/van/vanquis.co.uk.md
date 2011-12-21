@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanquis.co.uk privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427222614id_/http%3A//www.vanquis.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanquis.co.uk privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221033910id_/http%3A//www.vanquis.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Vanquis Bank
 
@@ -6,17 +6,17 @@
 
 This policy sets out how we use and protect any personal information that you give us when you use this website. If you have any questions about this policy or do not agree with it, please contact our customer services department at Vanquis Card, Customer Services, PO Box 399, Chatham, ME4 4WQ or on 0871 770 5555 (calls to this number will be charged at 7p per minute from a BT landline. Calls from mobiles and other networks may vary) before using this website. Full details are available when you apply and in the Vanquis Card terms and conditions.
 
-We may change this policy from time to time by updating this page. You should check this page from time to time to ensure you are happy with any changes. “We/our/us” refer to Vanquis Bank Limited (Company number 02558509) whose registered office is at Colonnade, Sunbridge Road, Bradford, West Yorkshire is a member of the Provident Financial group (the Group).
+We may change this policy from time to time by updating this page. You should check this page from time to time to ensure you are happy with any changes. “We/our/us” refer to Vanquis Bank Limited (Company number 02558509) whose registered office is at No. 1 Godwin Street, Bradford, West Yorkshire BD1 2SU is a member of the Provident Financial group (the Group).
 
-What information do we collect?  
-Direct marketing  
-Email marketing  
-Managing your account and processing your application  
-Who do we share this information with?  
-How to get copies of or amend the information we have collected  
-Security  
-Linking  
-Cookies
+[What information do we collect?  
+](https://web.archive.org/privacy#what%20information%20do%20we%20collect)[Direct marketing](https://web.archive.org/privacy#direct%20marketing)  
+[Email marketing](https://web.archive.org/privacy#email%20marketing)  
+[Managing your account and processing your application](https://web.archive.org/privacy#managing%20your%20account)  
+[Who do we share this information with?](https://web.archive.org/privacy#who%20do%20we%20share%20this%20information%20with)  
+[How to get copies of or amend the information we have collected  
+](https://web.archive.org/privacy#how%20to%20get%20copies%20of%20or%20amend%20the%20information%20we%20have%20collected)[Security  
+](https://web.archive.org/privacy#security)[Linking  
+](https://web.archive.org/privacy#linking)[Cookies](https://web.archive.org/privacy#cookies)
 
 What information do we collect?
 
@@ -24,7 +24,7 @@ In general, you can use this website without giving us any information. However,
 
 To do this we may collect your name, contact information and personal details
 
-Back to top
+[Back to top](https://web.archive.org/privacy#top)
 
 What do we do with the information we collect?
 
@@ -40,7 +40,7 @@ We use this information to provide you with a better service, and in particular 
 
 We may contact you by mail, email, phone, fax, text unless you have registered with the appropriate Preference Service.
 
-Back to top
+[Back to top](https://web.archive.org/privacy#top)
 
 Direct marketing  
 
@@ -51,7 +51,7 @@ You can change you mind at any time by contacting Vanquis Card, Customer Service
 
 **You have a legal right to prevent your information being used for direct marketing purposes.**
 
-Back to top
+[Back to top](https://web.archive.org/privacy#top)
 
 Email, text or fax marketing
 
@@ -61,7 +61,7 @@ If the reason you have given us personal information is to receive email informa
 
 Otherwise, when you provide us with personal information, we will ask you whether or not you are happy for us to send you this kind of information by email.If you decide at any time that you no longer wish to receive marketing emails from us, please write to us at Vanquis Card, Customer Service, PO Box 399, Chatham, ME4 4WQ.
 
-Back to top
+[Back to top](https://web.archive.org/privacy#top)
 
 Managing your account and processing your application
 
@@ -87,7 +87,7 @@ iv) any relevant regulatory authority, if required by law.
 
 We may contact you by post, email, telephone or mobile text and/or messaging service (SMS) about products or services relating to your account or application.
 
-Back to top
+[Back to top](https://web.archive.org/privacy#top)
 
 Who do we share this information with?
 
@@ -95,13 +95,13 @@ Who do we share this information with?
   * If we are compelled to do so by law and for fraud prevention purposes; 
   * To licensed credit reference agencies to help us and others make credit decisions; 
   * To third parties to enable them to provide details of products or services you may be interested in; and/ or 
-  * Within Vanquis Bank and the Group
+  * Within Vanquis Bank and the Group.
 
 
 
 We will not transfer, disclose, sell, distribute or lease your personal information to third parties other than our subsidiaries, parent company, group companies or potential purchasers of our business without your permission unless this is necessary for the reasons set out in the “What we do with the information we collect” section or where we are required to do so by law. We may release your personal information to our authorised direct marketing or other agents unless you tell us that you do not wish this to happen.
 
-Back to top
+[Back to top](https://web.archive.org/privacy#top)
 
 How to get copies of or amend the information we have collected
 
@@ -109,19 +109,19 @@ You may request details of personal information which we hold about you under th
 
 If you think any information we have about you is incorrect or incomplete, please write to us. We will correct or update any information as soon as possible.
 
-Back to top
+[Back to top](https://web.archive.org/privacy#top)
 
 Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. However, we cannot guarantee the security of any data you disclose online. You should be aware of the inherent security risks of providing information and dealing online over the internet. You do not hold us responsible for any breach of security unless this is due to our negligence or wilful default.
 
-Back to top
+[Back to top](https://web.archive.org/privacy#top)
 
 Linking
 
 We may link to other websites which are not within our control. Once you have left our website, we cannot be responsible for the protection and privacy of any information which you provide. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-Back to top
+[Back to top](https://web.archive.org/privacy#top)
 
 Cookies
 
@@ -129,4 +129,4 @@ We use cookies for certain areas of our website. Cookies are files that store in
 
 If you have any queries or concerns regarding our Privacy Policy, please contact Vanquis Card, Customer Services, PO Box 399, Chatham, ME4 4WQ.
 
-Back to top
+[Back to top](https://web.archive.org/privacy#top)
