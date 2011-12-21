@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the kareo.com privacy policy that was archived on 2011-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110112225902id_/http%3A//www.kareo.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kareo.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221022733id_/http%3A//www.kareo.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Medical Billing Software - Kareo
 
 ## Protecting your privacy on our web site
 
-###  What this privacy policy covers 
+### What this privacy policy covers
 
 This privacy policy pertains to the use of the Kareo web site at <http://www.kareo.com/>. This privacy policy covers how Kareo treats personal information that Kareo collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address or phone number. Children under 13 are not permitted to use the Kareo service, and so this privacy policy makes no provision for children's use of the site. 
+
+[ ](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.kareo.com&sealid=101)
 
 Kareo is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
@@ -14,7 +16,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 The TRUSTe program only covers information that is collected through this web site, and does not cover information that may be collected through any software downloaded from this web site. 
 
-###  Information collection and how it is used 
+### Information collection and how it is used
 
 **General Information**
 
@@ -62,7 +64,7 @@ Third party vendors, including Google, show our ads on sites on the Internet. Th
 
 Kareo does not rent, sell, or share personal information about you with other people or nonaffiliated companies for promotional purposes except to provide products or services you've requested or when we have your permission. 
 
-With your consent, we do share your name and email with carefully selected partners. If you would not like your information shared with these partners, uncheck the box when asked this option or notify us via [privacy@kareo.com](https://web.archive.org/web/20110112225902id_/http%3A//www.kareo.com/terms/privacy@kareo.com). 
+With your consent, we do share your name and email with carefully selected partners. If you would not like your information shared with these partners, uncheck the box when asked this option or notify us via [privacy@kareo.com](mailto:privacy@kareo.com). 
 
 It may be necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Kareo's terms of use, or as otherwise required by law. 
 
