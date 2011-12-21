@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiancountrytodaymedianetwork.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523083120id_/http%3A//indiancountrytodaymedianetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiancountrytodaymedianetwork.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221035201id_/http%3A//indiancountrytodaymedianetwork.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Indian Country Today Media Network.com
+# Privacy - ICTMN.com
 
 ### Privacy Policy
 
@@ -24,7 +24,7 @@ _Site activity information_ – __ We keep track of some of the actions you take
 
 _Information Collected Automatically_
 
-When you visit Indian Country Today Media Network.com, like when you visit most other websites, certain anonymous information about your visit is automatically logged, including **** the server name, browser type and IP address through which you access the internet, the date and time you access our site, the pages you access while at Indian Country Today Media Network.com, and the Internet address of the website, if any, from which you linked directly to Indian Country Today Media Network.com, which we sometimes aggregate with similar information from other customers to help improve or promote our service.
+When you visit Indian Country Today Media Network.com, like when you visit most other websites, certain anonymous information about your visit is automatically logged, including **** the server name, browser type and IP address through which you access the internet, the date and time you access our site, the pages you access while at Indian Country Today Media Network.com, and the Internet address of the website, if any, from which you linked directly to Indian Country Today Media Network.com, which we sometimes aggregate with similar information from other customers to help improve or promote our service. Among other uses, we may use your IP address to identify your approximate geographic location and use that location for, among other matters, determining what advertisements and offers we think would be of most interest to you. If we do approximate your geographic location, we will treat the approximated geographic location in accordance with the standards that would apply if you had directly provided us with your address.
 
 **“Cookies”**
 
