@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abbconcise.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622205028id_/http%3A//www.abbconcise.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abbconcise.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221211327id_/http%3A//abbconcise.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # ABB CONCISE Privacy Policy
 
