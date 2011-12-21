@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplybestcoupons.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508024811id_/http%3A//www.simplybestcoupons.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplybestcoupons.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221031315id_/http%3A//www.simplybestcoupons.com/Privacy) for the most accurate reproduction.*
 
 # Simply Best Coupons Privacy Policy
 
