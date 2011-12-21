@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shawnann.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622195513id_/http%3A//shawnann.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawnann.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221032416id_/http%3A//shawnann.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Shawn Ann's World
 
-October 21, 2010 | | [Leave a Comment](http://shawnann.com/about/privacy-policy/#respond) | 0 views 
+October 21, 2010 @ 4:19pm | | [Leave a Comment](http://shawnann.com/about/privacy-policy/#respond) | 11 views 
 
-**Shawn Ann's World** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+**Shawn Ann's World, LLC** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
 ## Routine Information Collection
 
@@ -12,7 +12,7 @@ All web servers track basic information about their visitors. This information i
 
 ## Cookies and Web Beacons
 
-Where necessary, Shawn Ann's World uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, Shawn Ann's World, LLC uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
