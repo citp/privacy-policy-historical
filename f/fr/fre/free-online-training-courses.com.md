@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the free-online-training-courses.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608234459id_/http%3A//www.free-online-training-courses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-online-training-courses.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221235738id_/http%3A//www.free-online-training-courses.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Place For Free Online Training Courses
+# Privacy Policy
 
 **PRIVACY POLICY for www.free-online-training-courses.com**
 
@@ -48,6 +48,10 @@ Finally, we may use your data, or allow carefully selected third parties to use 
 If you are a new customer, we will only contact you or allow third parties to contact you only when you have provided consent and, only by those means you provided consent for.
 
 If you do not want us to use your data for our or third parties use then you wil always have the option to object to such use.
+
+**Opt-out:**
+
+Email messages are required to deliver the training to you. You may opt out of these communications, which are not promotional in nature. If you do not wish to receive them you may opt-out by following the instructions included at the bottom of each communication or by contacting Free Online Training Courses at unsubscribe@free-online-training-courses.com. Once you opt-out, your data will be permanently removed from the database.
 
 **Storing Your Personal Data**
 
