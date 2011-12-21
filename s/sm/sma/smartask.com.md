@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smartask.com privacy policy that was archived on 2011-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110405082938id_/http%3A//www.smartask.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartask.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222003133id_/http%3A//www.smartask.com/privacy.html) for the most accurate reproduction.*
 
 # SmartAsk.com | Privacy Policy
 
 #### Information Collected
 
-Like most websites, Smart Ask uses cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'Does Smart Ask Use Cookies?' section below for more information about cookies. For us to identify which areas of Smart Ask are being used the most and in order to provide statistical analysis of the site, Smart Ask records information such as browser type, IP address, searches, timestamp information and pages you've viewed. This data helps to better enhance user experience on our site. When you log in through Facebook, your first name and your Facebook photo will be combined with your submissions to the site. "Submissions" refers to any content you add to Smart Ask. These submissions may be stored, or displayed publicly on our website. You may change details to your profile on your account page. Smart Ask may also record certain personal information that you provide in your feedback with so that questions, comments and concerns may be effectively responded to. 
+Like most websites, Smart Ask uses cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'Does Smart Ask Use Cookies?' section below for more information about cookies. For us to identify which areas of Smart Ask are being used the most and in order to provide statistical analysis of the site, Smart Ask records information such as browser type, IP address, searches, timestamp information and pages you've viewed. This data helps to better enhance user experience on our site. When you log in through Facebook, your first name and your Facebook photo will be combined with your submissions to the site. "Submissions" refers to any content you add to Smart Ask. These submissions may be stored, or displayed publicly on our website. You may change details to your profile on your account page. Smart Ask may also record certain personal information that you provide in your feedback with so that questions, comments and concerns may be effectively responded to.
 
 Smart Ask understands the importance of maintaining your privacy. You will be asked for consent if your personal information is to be used in any way other than originally intended.
 
@@ -12,10 +12,8 @@ Smart Ask understands the importance of maintaining your privacy. You will be as
 
 Any of the information we collect from you may be used in one of the following ways:
 
-  * To personalize and enhance your experience on Smart Ask  
-
-  * To improve customer service needs  
-
+  * To personalize and enhance your experience on Smart Ask
+  * To improve customer service needs
   * To administer a contest, promotion, survey or other site feature
   * To send periodic emails
 
@@ -32,6 +30,10 @@ Smart Ask uses cookies to save your preferences for future visits and compile ag
 #### Do we disclose any information to outside parties?
 
 Smart Ask does not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. Smart Ask may also release your information to comply with the law, enforce site policies, or protect Smart Ask or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+#### Unsubscribe
+
+You can also unsubscribe from any e-mail communications by entering your information [ on this form at any time.](http://www.smartask.com/unsubscribe/) You will be removed from any e-mail lists.
 
 #### Third party links
 
