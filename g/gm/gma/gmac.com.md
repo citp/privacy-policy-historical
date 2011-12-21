@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gmac.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623002926id_/http%3A//www.gmac.com/gmac/privacypolicy/default%3FPreservePaths%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmac.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221202225id_/http%3A//www.gmac.com/gmac/privacypolicy/default%3FPreservePaths%3D1) for the most accurate reproduction.*
 
 # GMAC®: Privacy Policy Highlights
 
-**Effective Date:  October 10, 2008**
+**Last updated: September 26, 2011**
 
 [](http://www.gmac.com/gmac/PrivacyPolicy/privacypolicychinese.htm)**      [](http://www.gmac.com/gmac/PrivacyPolicy/frenchprivacypolicy.htm)     [](http://www.gmac.com/gmac/PrivacyPolicy/spanishprivacypolicy.htm)**
 
