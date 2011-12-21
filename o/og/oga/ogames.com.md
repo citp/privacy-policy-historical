@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ogames.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528235638id_/http%3A//www.dstv.com/Pages/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogames.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221014600id_/http%3A//www.dstv.com/Pages/PrivacyPolicy) for the most accurate reproduction.*
 
 # DStv.com
 
