@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegametopia.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427194747id_/http%3A//www.freegametopia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegametopia.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221233245id_/http%3A//www.freegametopia.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -7,6 +7,10 @@
 We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.  
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.  
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+**Third Party Cookies**
+
+We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is on, or is connected to these cookies. The cookies may reflect de-identified demographic or other data linked to the registration data you have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies, please go to http://www.privacychoice.org/companies or http://www.aboutads.info/choices.
 
 **What do we use your information for?**
 
