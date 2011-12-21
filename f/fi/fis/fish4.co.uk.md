@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fish4.co.uk privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609172227id_/http%3A//www.fish4.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fish4.co.uk privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221111000id_/http%3A//www.fish4.co.uk/info/privacy) for the most accurate reproduction.*
 
 # fish4
 
@@ -47,10 +47,19 @@ We do not disclose information about your individual visits to the Fish4 site, o
 **Other ways of ensuring your privacy:**
 
   * You may amend your personal details at any time or if you wish. These options are available from the "My Profile" page of our website.
-  * You may unsubscribe from any employment or promotional information that we may send to you by using the unsubscribe function at the bottom of the email.
+  * You may unsubscribe from any employment or promotional information that we may send to you by in any of the following ways: 
+    * Using the unsubscribe function at the bottom of the email
+    * Amending your account details in "My Profile" page of our website
+    * Contacting us on: 0208 600 7000
 
 
 
   
-**Contact Fish4**  
-If you have any questions, concerns or comments regarding Fish4 or this website, please contact us: Fish4, Trinity Mirror Digital Recruitment Ltd, One Canada Square, Canary Wharf, London, E14 5AP. 
+**Contact Fish4jobs**  
+If you have any questions, concerns or comments regarding Fish4jobs or this website, please contact us: 
+
+  * Fish4jobs, Trinity Mirror Digital Recruitment Ltd, One Canada Square, Canary Wharf, London, E14 5AP.
+  * Email: customerservices@tmdr.com
+  * Tel: 0208 600 7000
+
+
