@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lafitness.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613190822id_/http%3A//www.lafitness.com/Pages/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lafitness.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221172058id_/http%3A//www.lafitness.com/Pages/privacyPolicy.aspx) for the most accurate reproduction.*
 
-# LA Fitness
+# LAFitness: Privacy Policy
 
 LAF is committed to providing users of its Site with an understanding of how LAF gathers and uses information, as well as the precautions taken by LAF to protect information concerning its Users. This Privacy Policy is incorporated into and is a part of the Terms and Conditions of Use; it describes LAF's policies and procedures for the collection and use of personal information provided by the User as well as non-personally identifiable information. 
 
