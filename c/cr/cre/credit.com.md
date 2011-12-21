@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320014111id_/http%3A//www.credit.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221025331id_/http%3A//www.credit.com/privacy.jsp) for the most accurate reproduction.*
 
-# About Us - Privacy Policy | Credit.com
+# Privacy Policy | Credit.com
 
-**This privacy policy was most recently updated on February 24, 2010.**   
+**This privacy policy was most recently updated on October 31, 2011.**   
 It governs Credit.com’s collection, use and disclosure of non-public personal information (“NPPI”), defined below, received from our current and former customers or collected by us concerning our current and former customers. We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
 
 We take the privacy and security of your NPPI seriously and believe it is important that you understand: 
@@ -55,13 +55,13 @@ This information is used to identify you, complete your requests for financial p
 
 Credit.com may disclose the NPPI we collect about you, described above, to our affiliates or non-affiliated third-parties, as described below, and as otherwise permitted by law. 
 
-> (i) To financial institutions such as banks, finance companies and other lenders and creditors in order to fulfill or respond to your request for credit. 
+> (i) To financial institutions such as banks, finance companies and other lenders and creditors in order to fulfill or respond to your request for credit or otherwise contact you with information about their products or services. When a financial institution contacts you, its use of your information is subject to its privacy policy and not ours; and 
 > 
-> (ii) To affiliates and service providers who perform professional services for us, such as demographic analysis for marketing purposes and accounting.
+> (ii) To affiliates and service providers who perform professional services for us, such as demographic analysis for marketing purposes and accounting or to assist us with marketing, advertising, product/service offerings and customer service fulfillment. For example, we may provide your contact information to our service providers for direct emailing of our newsletters or to provide you with notifications of our product/service offerings via email, phone or text message. 
 
-Selected NPPI, such as your Social Security number, driver’s license number, bank account or routing number, and debit or credit card numbers, expiration dates and security codes are immediately encrypted.
+Selected NPPI, such as your Social Security number, driver’s license number, bank account or routing number, and debit or credit card numbers, expiration dates and security codes are immediately encrypted. 
 
-Credit.com does not sell, rent or otherwise disclose your NPPI to third-parties except as explained in this privacy policy and as permitted by law.
+Credit.com does not sell, rent or otherwise disclose your NPPI to third-parties except as explained in this privacy policy and as permitted by law. 
 
 ### Why we need your e-mail address
 
