@@ -1,45 +1,74 @@
-> *The following text is extracted and transformed from the monginis.net privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621093009id_/http%3A//www.monginis.net/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monginis.net privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221094456id_/http%3A//www.monginis.net/legal-info/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy
+# Privacy Policy - Monginis Cake Shop in India - Monginis
 
-[](http://www.monginis.net/)
+Monginis is the sole owner of the information collated on [www.monginis.net](https://web.archive.org/web/20111221094456id_/http%3A//www.monginis.net/). This privacy statement applies only to information collated by this Site.
 
-[Home](https://web.archive.org/web/20090621093009id_/http%3A//www.monginis.net/index.php) » Privacy Policy 
+Communications from the Site
 
-  1. Your privacy is important to us at Monginis and is committed to the Monginis Privacy Policy. 
-  2. We collect information about your use of our website through forms, registrations and IP addresses.
-  3. We try to ensure that our website offers visitors exactly what they are looking for. To help us serve you better and achieve our objective we may analyze anonymous data collected about how our visitors and customers use our website.
-  4. We may also collect IP addresses to help diagnose problems with our servers and for system administration, but we don't link these addresses to any person's name or identity.
-  5. By using www.monginis.net, you consent to the collection and use of your information by Monginis Foods Pvt. Ltd. and that you adhere to the terms of the Privacy policy.
-  6. _Disclosure to third parties:_
-    1. Monginis Foods Pvt. Ltd. does not sell, trade, or rent your personal information.
-    2. When Monginis Foods Pvt. Ltd. uses other agents, contractors, corporations or business partners to perform services on its behalf or as part of a joint promotion, Monginis Foods Pvt. Ltd. will ensure that this entity protects the user's personal information in a manner, which is consistent with the aforementioned statement. We never disclose information about a visitor to any other person or organization without your consent unless there is an emergency situation that requires it or we are legally required to do so. 
-    3. Monginis Foods Pvt. Ltd. may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable agents, contractors, corporations or business partners, but these statistics will include no personally identifying information.
-  7. _Information collection and use:_
-    1. We may use the Data you provided for one or more of the following purposes: 
-      * To process your request on purchasing our products and services. 
-      * To fulfill your request when you use our online booking services. 
-      * To contact you regarding your enquiries. 
-      * For our own marketing purposes and partner promotions, such as sending you updates on our latest offers and promotions. 
-      * For identification and verification purposes. 
-      * For our own reference and record. 
-      * For website customization and designing target plan for advertisements and eMarketing.  
+## 1\. Special Offers and Updates
 
-    2. We will use the information you enter on the site for administration purposes and any other purposes made clear in the data entry forms themselves, in any relevant terms or conditions and on any pages or emails which link to such forms.
-    3. If you make an online booking with Monginis Foods Pvt. Ltd., we will record your personal details. Your data may be used for the following purposes: accounting, billing and audit, credit or other payment card verification, security, administrative and legal purposes, systems testing, maintenance and development, customer relations and to help us in any future dealings with you, for example by identifying your requirements and preferences.
-    4. Whenever we hire other organizations to provide support services, we will require them to confirm to Monginis privacy standards and allow us to audit their credentials for compliance.
-  8. _Data Security:_
-    1. Monginis Foods Pvt. Ltd. will take appropriate steps to protect the personal information you share with us. We have implemented technology and security features to safeguard the privacy of your personal information. 
-    2. We use protocol: An industry standard for encryption over the Internet, to protect the Data. When you type in sensitive information such as credit card details, it will be automatically converted into codes before being securely dispatched over the Internet. 
-    3. As with any standard email, emails containing your personal data sent to or from Monginis Foods Pvt. Ltd. will travel in a non-encrypted format. 
-    4. However, complete confidentiality and security is not yet possible over the Internet, and privacy cannot be assured in your communications with us. You acknowledge that personal information is disclosed at your own risk, and may be subject to unauthorized use by others. This may result in you receiving unsolicited messages from other parties. We are not responsible in any manner for direct, indirect, special or consequential damages, howsoever caused arising out of the communication of information to us. We will permit only authorized employees, who are trained and certified by standards in the proper handling of customer information and to have access permission rights to that sensitive information. 
-  9. Log Files: We may collect information regarding your IP address, browser type, domain name and access time. This information is used for our own research purposes and is separate from the Data. We do not link IP addresses to any personal information. In rare instances, IP addresses may be used to assist in deterring and/or preventing abusive or criminal activity on the website. 
-  10. _Notification of changes in policy:   _
-    1. If we decide to change our privacy policy, we will post those changes on our web site so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
-    2. We will amend our Privacy Policy statement from time to time and the updated versions will be posted to our website and date stamped so that you are aware of when the Privacy Policy was last updated. 
-  11. General Information 
-
-While compiling this information, Monginis: CABD has endeavored to ensure that all information is correct. However, no guarantee or representation is made to the accuracy or completeness of the information contained here. This information is subject to changes by Monginis: CABD without notice.
+We may occasionally send you information on products, services, special deals, and promotions. Out of respect for your privacy, we present the option not to receive these types of communications.  
 
 
+## 2\. Press Releases and Newsletters
 
+If you request to receive our press release(s) or newsletter(s), we will use your name and email address to send these documents to you. Out of respect for your privacy, please contact us if you subsequently wish to be removed from this    mailing list.  
+
+
+## 3\. Service-related Announcements
+
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email informing you of this.  
+
+
+## 4\. Legal Disclaimer
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.  
+
+
+If you no longer wish to receive our press releases, newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at netorders@monginis.net.  
+
+
+## 5\. Log Files
+
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data.  
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.  
+We do not link this automatically collected data to personally identifiable information.  
+
+
+## 6\. Cookies
+
+We do not use cookies on this site. A cookie is a small text file that is stored on a user's computer for record-keeping purposes.  
+
+
+## 7\. Clear Gifs
+
+We do not use clear gifs in our HTML-based emails.Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users and to let companies know which emails recipients have opened, allowing them to gauge the effectiveness of certain communications and the effectiveness of their on-line marketing campaigns. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence.  
+
+
+## 8\. Links to Other Sites
+
+This privacy statement applies only to information collated by this Web site. This Web site contains links to other sites that are not owned or controlled by Monginis. Please be aware that we, Monginis, are not responsible for the privacy practices of such other sites.  
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site you access to review their privacy practices.  
+
+
+## 9\. Access to Personally Identifiable Information
+
+If you’re personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete by emailing our Customer Support at netorders@monginis.net or by contacting us by telephone or by post.  
+
+
+## 10\. Security
+
+The security of your personal information is important to us. We do not use any encryption on our forms, as we do not collect credit card numbers, social security numbers or any other sensitive information that can be used in identity theft.  
+
+
+## 11\. Business Transitions
+
+In the event Monginis goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information.  
+
+
+## 12\. Changes in this Privacy Statement
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement on the homepage and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+We reserve the right to modify this privacy statement at any time, so please review it periodically. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.. 
