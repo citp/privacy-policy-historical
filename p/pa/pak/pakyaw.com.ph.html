@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the pakyaw.com.ph privacy policy that was archived on 2011-02-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110213025104id_/http%3A//www.pakyaw.com.ph/about/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pakyaw.com.ph privacy policy that was archived on 2011-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111221083955id_/http%3A//www.pakyaw.com.ph/about/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" id=""><head>
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta name="google-site-verification" content="lGTQrnrV7We8libsHQ5AmWi_Bp_ohNQHRevSlfbgQ3Q">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 		<title>Pakyaw! - It's a Big Deal | Online Shopping | Discounts | Group Buying</title>
-		<meta name="description" content="Pakyaw! Your source for great deals all around Metro Manila and beyond. From food to beauty to travel and more, Pakyaw brings you the best - for 50% to 90% off! Join the Pak now!">
+		<meta name="description" content="Pakyaw! Your source for great deals all around Metro Manila and beyond. From food to beauty to travel and more, Pakyaw brings you the best - for up to 90% off! Join the Pak now!">
 	<meta name="keywords" content="Pakyaw!, Pakyaw.com, Pakyaw.com.ph, Shopping, Voucher, Discount, Voucher Discount, groupon, Collective Buying, Team buy, Group buy">
 	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 	
@@ -12,6 +13,7 @@
 	<link rel="shortcut icon" href="/static/icon/favicon.ico">
 	<link rel="stylesheet" href="/static/css/index.css" type="text/css" media="screen" charset="utf-8">
 	<link rel="stylesheet" href="/static/css/blitzer/ui.custom.css" type="text/css" media="screen" charset="utf-8">
+	<link rel="stylesheet" href="/static/css/selectbox.css" type="text/css" media="screen" charset="utf-8">
 	
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var WEB_ROOT = '';</script>
 	<script type="text/javascript">var LOGINUID= '0';</script>
@@ -20,8 +22,92 @@
 	<script src="/static/js/validate/validate.min.js" type="text/javascript"></script>
 	<script src="/static/js/validate/additional_methods.js" type="text/javascript"></script>
 	<script src="/static/jssrc/x.js" type="text/javascript"></script>
+	<script type="text/javascript" src="/static/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+	<script type="text/javascript" src="/static/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+	<link rel="stylesheet" type="text/css" href="/static/js/fancybox/jquery.fancybox-1.3.4.css" media="screen">
+	<link rel="stylesheet" href="/static/theme/dark_gray/style.css">
+
 	
-		<!--/* Start Google Analytics */-->
+	<script src="/static/js/slides/jquery.easing.1.2.js"></script>
+	<script src="/static/js/slides/slides.min.jquery.js"></script>
+	<script src="/static/js/slides/jquery.selectbox-0.5.js" type="text/javascript"></script>
+	<script type="text/javascript" src="/static/js/slides/jquery-ui-1.8.15.custom.min.js"></script>
+	
+	<script type="text/javascript" src="/static/theme/dark_gray/js/ddsmoothmenu.js"></script>
+	<link rel="stylesheet" type="text/css" href="/static/theme/dark_gray/ddsmoothmenu.css">
+
+
+	<script type="text/javascript">
+	
+	ddsmoothmenu.init({
+	mainmenuid: "left-nav", //menu DIV id
+	orientation: "h", //Horizontal or vertical menu: Set to "h" or "v"
+	classname: "ddsmoothmenu",
+	//customtheme: ["#1c5a80", "#18374a"],
+	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+	});
+
+	$(function(){
+	  $("#slides").slides({
+		preload: true,
+		preloadImage: '/static/css/slider-images/loading.gif',
+		play: 5000,
+		pause: 2500,
+		hoverPause: true
+	  });
+	});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$("#user-logged").click(function(){
+			$("#user-menu").slideToggle("slow");
+		  });
+			
+			$('#Items1').selectbox();
+			
+		});
+	</script>
+	
+	<script>
+	$(function() {
+		$( "#tabs" ).tabs();
+	});
+	</script>
+	<script language="JavaScript" type="text/javascript">
+
+		function showSelected()
+		{
+			var selObj = document.getElementById("Items1");
+			var selIndex = selObj.selectedIndex;
+			
+			document.getElementById("linkItems1").href = "team.php?id=" + document.getElementById("Items1").value;
+			
+			return;
+			
+		}
+		
+		
+	</script>
+
+		<!--[if lte IE 6]>
+		<script type="text/javascript" src="/static/js/slides/supersleight-min.js"></script>
+	<![endif]-->
+		
+	<script type="text/javascript">
+		$(document).ready(function() {
+			/*
+			*   Examples - images
+			*/
+			 $("a.examplebox").fancybox({
+				'enableEscapeButton'	: false,
+				'showCloseButton'		: false,
+				'hideOnContentClick'	: false,
+				'hideOnOverlayClick'	: false,
+				'titlePosition'			: 'inside'
+			  })
+		});
+	</script>
+	<!--/* Start Google Analytics */-->
     <script type="text/javascript">
        var _gaq = _gaq || [];
        _gaq.push(['_setAccount', 'UA-9902927-8']);
@@ -35,66 +121,131 @@
     </script>
     <!--/* End Google Analytics */-->
 </head>
-<body class="newbie">
-<div id="pagemasker"></div><div id="dialog"></div>
-<div id="doc">
 
-<div id="hdw">
-	<div id="hd">
-    	
-                <!--/* PAKAYAW Area Select */-->
-                        
-		<div id="logo"><a href="/index.php" class="link"><img src="/static/css/i/pakyaw_logo.png" alt="Pakyaw" border="0"></a>
-        	<div class="city">
-				<h2>
-                <span style="font-size:12px;">BETA</span><!--{ echo $city['name']} -->
-                                                                </h2>
-			</div>
-        </div>
-        
-        
-        
-  		<!-- PAKYAW Coupon Veryfy -->
-       <div class="verifycoupon">
-        <!--/*
-        <table width="200" border="0">
-            <tr>
-              <td><input name="coupserial" type="text" id="coupserial"  maxLength="20" class="f-input" xtip="Enter Voucher Serial..." /></td>
-              <td>&nbsp;</td>
-              <td><a id="verify-user-coupon-id" href="javascript:;"><img  src="/static/css/i/button_verify.png" alt="Verify" border="0"/></a></td>
-            </tr>
-          </table>*/-->
-          <a id="verify-user-coupon-id" href="javascript:;"><img src="/static/css/i/button_verify_coupon.png" alt="Verify" border="0"></a>
-        </div>
-        
-        
-        <div class="deal-share-top">
-			<a>Spread the word:</a><br>
-            <!--a class="im" href="javascript:void(0);" id="deal-share-im">IM</a>-->
-            <p style="margin-top:3px;">
-            <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.pakyaw.com.ph%2F&amp;t=Pakyaw.com.ph+-+It%26s+a+Big+Deal" target="_blank"><img src="/static/css/i/button_facebook.png" alt="Facebook" border="0" align="absmiddle"></a>&nbsp;
-        	<a href="http://twitter.com/?status=http%3A%2F%2Fwww.pakyaw.com.ph/" target="_blank"></a><a href="http://twitter.com/?status=http%3A%2F%2Fwww.pakyaw.com.ph/" target="_blank"><img src="/static/css/i/button_twitter.png" alt="Twitter" border="0" align="absmiddle"></a>
-            </p>
-       </div>
-       
-    <ul class="nav cf"><li class="current"><a href="/index.php">TODAYS DEAL</a></li><li><a href="/team/index.php"><div class="separator"></div>LIVE DEALS</a></li><li><a href="/past/index.php"><div class="separator"></div>PAST  DEALS</a></li><li><a href="/help/tour.php"><div class="separator"></div>HOW PAKYAW WORKS</a></li><li><a href="/forum/index.php"><div class="separator"></div>DISCUSSIONS</a></li></ul>
+
+<!--/* comment this 
+
+<body class="newbie" >  
+
+*/-->
+
+
+<!--/*  uncomment this  */-->
+ 
+ <body onload="$(&quot;a.examplebox&quot;).trigger(&quot;click&quot;);" class="newbie">  
+
+
+
+<div id="wrapper">
+
+<div id="header">
+
+<!--top navigation-->
+<div id="top-nav">
+
+    <div id="top-nav-inside">
+    
+            <div id="top-menu">
+            
+                <ul>
+                    <li><a href="/index.php"><img src="/static/theme/dark_gray/images/home-icon.png" title="home" alt="home"></a></li>
+                    <li><a href="/about/us.php">About Pakyaw</a></li>
+                    <li><a href="/help/tour.php">How It Works</a></li>
+                    <li><a href="/past/index.php">Past Deals</a></li>
+                    <li><a href="/forum/index.php">Discussion</a></li>
+                </ul>
+            
+            </div>
+            
+            <div id="sb-btn" style="top: 155px; position: relative;">
+            <p><span style="padding-top: 10px; width:80px;display:block; float:left;">Follow Us on</span> <a href="https://www.facebook.com/pakyaw.com.ph" target="_blank"><img src="/static/theme/dark_gray/images/facebook-pakyaw.png" alt="Like us on Facebook" title="Like us on Facebook"></a><a href="http://twitter.com/?status=http%3A%2F%2Fwww.pakyaw.com.ph/" target="_blank"><img src="/static/theme/dark_gray/images/twitter-pakyaw.png" alt="Follow us on Twitter" title="Follow us on Twitter"></a></p>
+            </div>
+            
+			<div id="email-alerts">
+	<div id="email-input-con">
 		
-        
-        		<div class="logins">
-			<ul id="account">
-				<li class="login"><a href="/account/login.php">Login</a></li>
-				<li class="signup"><a href="/account/signup.php">Register </a></li>				</ul>
-			<div class="line "></div>
-		</div>
-			</div>
+		<img width="1" height="1" border="0" vspace="0" hspace="0" src="http://a.admaxserver.com/pixel?id=888&amp;tag_type=img">
+		<form id="deal-subscribe-form" method="post" action="/subscribe.php" name="subsc">
+			<input type="text" name="email" value="Don't miss out. Get deal alerts!" id="email-input" onclick="make_blank();" style="color: #0068B4; font-size: 12px;">
+			<input type="hidden" name="target_page" value="/about/privacy.php">
+			<input type="submit" name="get-deal-alerts" value="GO" id="submit-email">
+			
+			<span class="clr"></span>
+	</form>
+	
+	</div>
+
 </div>
 
+ 
+    
+    <div class="clr"></div>
+    </div>
+
+</div>
+<!--top navigation end-->
+     
+
+
+
+
+	<div id="top-header">
+
+		<p align="center">
+			<a href="/index.php"><img src="/static/theme/dark_gray/images/pakyaw-logo.jpg" title="Pakyaw" alt="pakyaw" border="0"></a>
+		</p>
+
+		<!--<div id="sb-btn">
+			<p style="float:left; padding-top: 15px; padding-right: 15px;" class="hint">Follow Us on</p> 
+			<a href="https://www.facebook.com/pakyaw.com.ph" target="_blank"><img src="/static/theme/dark_gray/images/facebook-pakyaw.jpg" alt="Like us on Facebook" title="Like us on Facebook" border="0" /></a>
+			<a href="http://twitter.com/?status=http%3A%2F%2Fwww.pakyaw.com.ph/" target="_blank"><img src="/static/theme/dark_gray/images/twitter-pakyaw.jpg" alt="Follow us on Twitter" title="Follow us on Twitter" border="0" /></a>
+		</div>-->
+
+		<!--<div id="likeus-con">
+
+			<a href="http://invite.pakyaw.com.ph/friends/importer.php"><img src="/static/theme/dark_gray/images/share-the-button.jpg" alt="share the love with Pakyaw" title="share the love with Pakyaw"/></a><br />
+
+		</div>-->
+
+	</div>
+
+	<!--navigation section-->
+	<div id="menu-holder">
+
+
+		<div id="nav">
+
+			<div id="left-nav">
+				<ul>
+					<li><a class="active" href="/home/index.php">HOME</a></li><li><a href="/daily/index.php">DAILY DEALS</a><div class="deal-notification">3</div></li><li><a href="/travel/index.php">TRAVEL &amp; ADVENTURE</a><div class="deal-notification">1</div></li><li><a id="holideals" href="/holideals/index.php"><span style="color:#282828;">HOLI</span><span style="color:#D22228;">D</span><span style="color:#69A142;">E</span><span style="color:#D22228;">A</span><span style="color:#69A142;">L</span><span style="color:#D22228;">S</span></a><div class="deal-notification">2</div></li><li><a href="/store/index.php">PAKYAW STORE</a><div class="deal-notification">2</div></li><li><a href="/specials/index.php">PAKYAW SPECIALS</a>				</li></ul>
+			</div>
+
+
+			
+			<div id="right-nav">
+
+				<a href="/account/login.php" class="top-btn">Login</a>
+				<a href="/account/signup.php" class="top-btn2">Register</a>
+			</div>
+						<div class="clr"></div>
+		</div>
+
+
+	</div>
+	<!--navigation section end-->
+
+
+</div> 
+
+
+
+<!--header here-->
 
 <div id="bdw" class="bdw">
 <div id="bd" class="cf">
 <div id="about">
 	<div class="dashboard" id="dashboard">
-		<ul><li><a href="/about/us.php">About Pakyaw</a><span></span></li><li><a href="/about/contact.php">Contact</a><span></span></li><li><a href="/about/job.php">Careers</a><span></span></li><li class="current"><a href="/about/privacy.php">Privacy Policy</a><span></span></li><li><a href="/about/terms.php">Terms &amp; Conditions</a><span></span></li></ul>
+		<ul><li><a href="/about/us.php">About Pakyaw</a><span></span></li><li><a href="/about/contact.php">Contact</a><span></span></li><li><a href="/about/job.php">Careers</a><span></span></li><li><a class="active" href="/about/privacy.php">Privacy Policy</a><span></span></li><li><a href="/about/terms.php">Terms &amp; Conditions</a><span></span></li></ul>
 	</div>
 	<div id="content" class="about clear">
 		<div class="box clear"> 
@@ -387,46 +538,186 @@ Customer Service Inquiries | &nbsp;<img src="/static/img/pakyaw_support.png" ali
 </div>
 </div> <!-- bd end -->
 </div> <!-- bdw end -->
-
-<div align="center">
-
-
-
-	<div id="ft2">
-        <div class="adbox"><a href="/feedback/seller.php"><img src="/static/css/i/pak_for_biz.png" alt="Pakyaw for Your Business" border="0"></a><br>
-          <a href="/feedback/seller.php"><br>
-        Learn how to get your business featured on PAKYAW and enjoy the benefits.</a></div>
-		<div class="adbox"><a href="/feedback/suggest.php"><img src="/static/css/i/pak_suggest_biz.png" alt="Suggest A Business" border="0"></a><br><br>
-      <a href="/feedback/suggest.php">Recommend your favorite businesses, and we'll try to get them featured on Pakyaw.</a></div>
-        <div class="adbox"><a href="/gift/buy.php"><img src="/static/css/i/pak_give_gift.png" alt="Give A Gift" border="0"></a><br><br>
-<a href="/gift/buy.php">Show your love by gifting<br>
-today's deal.</a></div>
-        
-        <!--<p class="contact"><a href="/feedback/suggest.php">Feedback</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>-->
-    </div>
-
-
-
-    <div id="ftlink">
-        <div id="ft">
-        
-            <p><img src="/static/css/i/pakyaw_philippine_flag.png" border="0" align="absmiddle">&nbsp;&nbsp;&nbsp;&nbsp; <a href="/about/us.php">ABOUT PAKYAW</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/about/contact.php">CONTACT US</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/about/job.php">CAREERS</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/account/invite.php">FOLLOW US</a>&nbsp;&nbsp;|&nbsp;<a href="/help/tour.php">&nbsp;LEARN MORE</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/help/faqs.php">FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/about/terms.php">TERMS &amp; CONDITIONS</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/about/privacy.php">PRIVACY POLICY</a></p>
-        
+	
+			<div style="display: none;">
+		<a class="examplebox" href="#email-alert-box"></a>
+	</div>
+	<div style="display: none;">
     
-            <div class="copyright">
-            <p>©<span>2010-2011</span>&nbsp;Pakyaw!&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/about/terms.php">Pakyaw is a MAGSAYSAY Company</a>&nbsp;</p>
-                <p>&nbsp;</p>
+			<div class="fancybox-inline-tmp" style="display: none;"></div>
+	</div>
+	<div id="footer">
+
+
+	<div class="footer-holder">
+
+		<!--upper-footer-->
+		<div class="inside-footer-holder">
+
+            <!--====================================================================-->
+			<div class="footer-boxes" style="padding-left:0px; margin-right: 35px;">
+				<a href="/feedback/seller.php"><img src="/static/theme/dark_gray/images/pakyaw-business.png" border="0" width="182" height="98"></a>
+				<p><a href="/feedback/seller.php">Feature your business on Pakyaw and enjoy all of the  benefits!</a></p>
+			</div>
+			<!--====================================================================-->
+
+
+			<!--====================================================================-->
+			<div class="footer-boxes footer-inset margin-left" style="padding-left:30px; margin-right: 15px;">
+				<a href="/feedback/suggest.php"><img src="/static/theme/dark_gray/images/suggest-a-business.png" border="0"></a>
+				<p><a href="/feedback/suggest.php">What would you like to see on Pakyaw? Tell us now and you  might just see them featured!</a></p>
+			</div>
+			<!--====================================================================-->
+
+
+			<!--====================================================================-->
+			<div class="footer-boxes footer-inset margin-left" style="padding-left:30px; margin-right: 10px;">
+				<a href="#"><img src="/static/theme/dark_gray/images/p-blog.png" border="0"></a>
+				<p><a href="#">What’s happening at Pakyaw? Take a peek into our world.  Discover who we are and why we love what we do!</a></p>
+			</div>
+			<!--====================================================================-->
+
+
+			<!--====================================================================-->
+			<div class="footer-boxes footer-inset margin-left" style="padding-left:20px; min-height: 150px;">
+				<a href="#"><img src="/static/theme/dark_gray/images/pakyaw-in-the-press.png" border="0"></a>
+				<p><a href="#">The word is out, and everyone's buzzing about Pakyaw! Read all about it.</a></p>
+			</div>
+			<!--====================================================================-->
+
+
+			<div class="clr"></div>
+		</div>
+		<!--upper-footer-->
+
+
+<!--grey-footer-->
+		<div class="footer-holder" id="grey">
+			<div class="inside-footer-holder">
+
+				<div class="footer-links">
+
+					<ul>
+						<li><a href="/about/us.php">About Pakyaw</a></li>
+						<li><a href="#">Pakyaw in the Press</a></li>
+						<li><a href="/about/job.php">Careers</a></li>
+						<li><a href="#">P-Blog</a></li>
+					</ul>
+
+				</div>
+
+
+				<div class="footer-links" style="margin-right: 15px;">
+
+					<ul>
+						<li><a href="/about/contact.php">Contact Us</a></li>
+						<li><a href="/help/tour.php">How Pakyaw Works</a></li>
+						<li><a href="/help/faqs.php">FAQ</a></li>
+						<li><a href="/feedback/seller.php">Pakyaw for your Business</a></li>
+						<li><a href="/feedback/suggest.php">Suggest A Business</a></li>
+					</ul>
+
+				</div>
+
+
+				<div class="footer-links">
+
+					<ul>
+						<li><a href="/about/follow_us.php">Follow Us</a></li>
+						<li><a href="/about/terms.php">Terms &amp; Conditions</a></li>
+						<li><a href="/about/privacy.php">Privacy and Policy</a></li>
+					</ul>
+
+				</div>
+
+
+				<div id="footer-message">
+
+					<img src="/static/theme/dark_gray/images/footer-man.png" title="Pakyaw It's a Big Deal" style="float:left; padding-right: 15px;">
+
+					<p>Your source for great deals all around Metro Manila and beyond. From food to beauty to travel and more, Pakyaw brings you the best, at prices simply too hard to resist!</p>
+					<br>
+					<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpakyaw.com.ph&amp;send=false&amp;layout=button_count&amp;width=150&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;" allowtransparency="true"></iframe>
+
+					<div class="clr"></div>
+				</div>
+
+
+				<div class="clr"></div>
+			</div>
+		</div>
+<!--grey-footer-->
+
+
+<!--dark grey-footer-->
+		<div class="footer-holder" id="dark-grey">
+
+			<div class="inside-footer-holder">
+
+				<div style="position:relative; float:left; width: 500px; padding-top: 15px;">
+					<p style="color:#FFFFFF; position:relative;font-family:Arial, Helvetica, sans-serif;
+					font-size: 12px;">©2010-2011 Pakyaw!   |   Pakyaw is a<a href="http://www.magsaysay.com.ph/" id="magsaysay-logo"><span>Magsaysay</span></a>      
+					<span id="company-logo" style="margin-left:127px;">Company</span></p>
+				</div>
+
+				<div style="float:right; width:160px;">
+					<div style="float:left; padding-top: 15px; font-family:Arial, Helvetica, sans-serif; font-size: 12px; color:#FFFFFF; font-weight:bold;">Pinoy and Proud
+					
+					</div>
+					<div style="float:right;"><img src="/static/theme/dark_gray/images/flag.png" style="float:right;">
+					</div>
+				</div>
+				<div class="clr"></div>
+			</div>
+
+		</div>
+<!--dark grey-footer-->
+
+
+</div>
+
+
+
+</div>
+</div>
+
+
+<div id="fancybox-tmp" style="padding: 50px;"></div><div id="fancybox-loading" style="display: none;"><div></div></div><div id="fancybox-overlay" style="background-color: rgb(119, 119, 119); opacity: 0.7; cursor: auto; height: 6035px; display: block;"></div><div id="fancybox-wrap" style="width: 638px; height: auto; top: 104px; left: 344px; display: block;"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content" style="border-width: 10px; width: 618px; height: auto;"><div style="width:auto;height:auto;overflow: auto;position:relative;"><div id="email-alert-box">
+			
+            <div id="email-alert-lpanel">
+            
+            <h1>SIGN UP NOW </h1>
+            <h2><span> &amp; </span> SAVE!</h2>
+            
+            <p id="pak-logo">- your  go-to site for the best deals around.</p>
+            
+            <p>From food, to beauty to travel &amp; more, enjoy amazing experiences for up to 90% off!</p>
+            
+            <div id="email-input-pop-up">
+
+            <form method="post" action="/subscribe.php" name="subsc">
+            <input type="text" name="email" value="Enter your e-mail address" id="email-input" onclick="make_blank();">
+            <input type="hidden" name="target_page" value="/about/privacy.php">
+            <input type="submit" name="get-deal-alerts" value="GO" id="submit-email">
+            
+            <span class="clr"></span>
+            </form>
+            
             </div>
             
-        </div>
-        
-    </div>
+            <p style="font-size: 14px;">Already a member? <a href="/subscribe.php?subs=yes&amp;url=/about/privacy.php">Click here.</a></p>
+            </div>
+            
+            <div id="email-alert-rpanel">
+            
+            <img src="/static/css/images/food-2.png" title="Food" width="251" height="118">
+            
+            <img src="/static/css/images/beauty-2.png" title="Beauty" width="251" height="118">
+            
+            <img src="/static/css/images/travel-2.png" title="Travel" width="251" height="118">
+            
+            <img src="/static/css/images/leisure-2.png" title="Leisure" width="251" height="118">
+            
+            </div>		
 
-
-
-
-</div>
-</div>
-
-
-</body></html>
+			</div></div></div><a id="fancybox-close"></a><div id="fancybox-title" style="display: none;"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
