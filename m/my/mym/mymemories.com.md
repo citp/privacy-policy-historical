@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mymemories.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622120125id_/http%3A//www.mymemories.com/mms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymemories.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221043257id_/http%3A//www.mymemories.com/mms/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | MyMemories Digital Scrapbooking
+# Privacy Policy | MyMemories
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
