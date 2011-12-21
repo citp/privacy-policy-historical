@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3xpweb.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303230248id_/http%3A//www.3xpweb.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3xpweb.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221192554id_/http%3A//www.3xpweb.com/privacy) for the most accurate reproduction.*
 
-# 3XP WEB SOLUTIONS
+# Privacy
 
 | 3XP Web Solutions Privacy Policy   
 ---  
