@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the joost.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623033845id_/http%3A//www.joost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joost.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221173613id_/http%3A//www.joost.com/privacy) for the most accurate reproduction.*
 
 # Joost
 
-#### Revision Date: August 2010
+#### Revision Date: July 2011
 
 Your privacy is very important to us. We have prepared this Privacy Policy to explain how we collect, use protect, and disclose personal information and log information when you use the Joost website at www.joost.com ("Site"); or any other services, features, tools, software, or applications provided by or through the Site, including the Joost browser plug-in and the Joost Application for the Apple® iPhone®, iPod touch® and iPadTM, (collectively "Services").
 
@@ -105,7 +105,7 @@ Additionally, we, and other users that control the groups that you join, will be
 
 ### Unsubscribe
 
-If, at any point in time, you are not interested in receiving emails or other announcements from us, you will be able to "opt-out" by clicking on the specified link in any given email communication, by modifying your personal settings on the Site, or by emailing us at [privacy@joost.com](mailto:privacy@joost.com). Please note that you cannot unsubscribe from certain correspondence from us, including messages relating to your account. To unsubscribe from receiving emails from a particular third party, you will be able to "opt-out" by clicking on the specified link in any given email communication. Unsubscribing from one party’s advertisements will not unsubscribe you from receiving emails from other third parties. 
+If, at any point in time, you are not interested in receiving emails or other announcements from us, you will be able to "opt-out" by clicking on the specified link in any given email communication or by modifying your personal settings on the Site. Please note that you cannot unsubscribe from certain correspondence from us, including messages relating to your account. To unsubscribe from receiving emails from a particular third party, you will be able to "opt-out" by clicking on the specified link in any given email communication. Unsubscribing from one party’s advertisements will not unsubscribe you from receiving emails from other third parties. 
 
 ## Sharing of Information
 
