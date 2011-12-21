@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actionscript.org privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303222901id_/http%3A//www.actionscript.org/resources/pages/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionscript.org privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221154921id_/http%3A//www.actionscript.org/resources/pages/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -28,5 +28,9 @@ By using our site you consent to the collection and use of information as specif
 
 ### Site Logo
 
-The ActionScrip.org logo was designed by ActionScript.org user [TCA-eX](http://www.tca-ex.tk/) with minor modifications by the ActionScript.org staff. We'd like to gratefully thanks TCA-eX for his great work.  
+The ActionScrip.org logo was designed by ActionScript.org user [TCA-eX](http://www.tca-ex.tk/) with minor modifications by the ActionScript.org staff. We'd like to gratefully thanks TCA-eX for his great work.
+
+### Content Ownership and Use
+
+All content submitted to the site is subject to the terms and conditions explained [here](http://www.actionscript.org/resources/authors/register). By submitting content of any nature you agree to be bound by this agreement.  
 
