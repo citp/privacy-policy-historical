@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evidon.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427084457id_/http%3A//www.evidon.com/privacy_inform) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evidon.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221071728id_/http%3A//www.evidon.com/privacy_inform) for the most accurate reproduction.*
 
 # EVIDON
 
@@ -65,7 +65,7 @@ Opt-Out: Your Choices
 
 You are welcome to opt-out of Evidon data collection regarding website usage and analytics associated with your use of the Evidon InForm Website. If you opt-out we will still record that the privacy notice associated with the particular advertisement or web page was delivered. The InForm Website will also continue to communicate the preferences you express to the appropriate member(s) of the online advertising ecosystem so that the request can be acted upon. We will continue to store the explicit preferences you set with us (for example, opt-out choices) in a cookie on your browser to ensure that we remember your requests as well. 
 
-[Click here to access our opt-out page](https://web.archive.org/web/20110427084457id_/http%3A//www.evidon.com/optout).
+[Click here to access our opt-out page](https://web.archive.org/privacy_optout).
 
 Information Retention
 
