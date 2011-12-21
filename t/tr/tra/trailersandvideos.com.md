@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trailersandvideos.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203031907id_/http%3A//trailersandvideos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trailersandvideos.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221083907id_/http%3A//www.trailersandvideos.com/privacy-policy) for the most accurate reproduction.*
 
 # Trailers and Videos, Movie Trailers, Trailers Tube, Film Trailers - all best new popular trailers videos on TrailersAndVideos.com
 
