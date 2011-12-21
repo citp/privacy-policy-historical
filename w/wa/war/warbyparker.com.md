@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the warbyparker.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101083737id_/http%3A//www.warbyparker.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warbyparker.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221081408id_/http%3A//www.warbyparker.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Warby Parker
 
-JAND, Inc., d/b/a Warby Parker, operates the website located at [www.warbyparker.com](https://web.archive.org/). This Privacy Policy describes the information that we collect through our website and how we use that information. If you have any questions about our Privacy Policy, please contact us at [ help@warbyparker.com](mailto:help@warbyparker.com). Thisf Privacy Policy applies to the services and products offered by Warby Parker, as well as any other applications, content or features that we may from time to time offer on our website.
+JAND, Inc., d/b/a Warby Parker, operates the website located at [www.warbyparker.com](https://web.archive.org/web/20111221081408id_/http%3A//www.warbyparker.com/www.warbyparker.com). This Privacy Policy describes the information that we collect through our website and how we use that information. If you have any questions about our Privacy Policy, please contact us at [ help@warbyparker.com](mailto:help@warbyparker.com). Thisf Privacy Policy applies to the services and products offered by Warby Parker, as well as any other applications, content or features that we may from time to time offer on our website.
 
 ## The Types of Information that We Collect
 
@@ -12,7 +12,7 @@ If you purchase our products or services, we request certain personally identifi
 
 In addition, if you contact us by email through our website, we may keep a record of your contact information and correspondence. In any event, we reserve the right to use your email address and any other personally identifiable information that you provide to us to respond to you and to send you marketing materials for our own products and services. We will not share your information with outside parties who wish to market other products and services to you.
 
-If at any time you would like to change your personally identifiable information, or if you no longer wish to receive materials from us or would like your personal information removed from our database, please contact us at [help@warbyparker.com](mailto:help@warbyparker.com). Alternatively, if you receive materials from us by email you can make use of the "opt out" provision in our communications so that we know that you no longer wish to receive any materials from us. 
+If at any time you would like to change your personally identifiable information, or if you no longer wish to receive materials from us or would like your personal information removed from our database, please contact us at [ help@warbyparker.com](mailto:help@warbyparker.com). Alternatively, if you receive materials from us by email you can make use of the "opt out" provision in our communications so that we know that you no longer wish to receive any materials from us.
 
 Like most websites, our website may incorporate “pixel tags”, “web beacons”, or similar tracking technologies and “cookies” that allow us to track the actions of visitors of our website. Pixel tags and cookies are used to collect non-personally identifiable information, such as the name of your internet service provider, the IP address of the computer you are using, the type of browser software and operating system that you use, the date and time you access our website, the website address, if any, from which you linked directly to our website, the website address, if any, to which you travel from our website, your home page customization preferences and other similar traffic-related information. We may aggregate your information with similar data collected from other visitors to help us improve our website and the products, services, applications, content and features that we provide through our website. We do not use non-personally identifiable information in any way to create or maintain a personal profile of you or collect personally identifiable information from you.
 
@@ -26,12 +26,12 @@ Our physical, electronic, and procedural safeguards meet or exceed current feder
 
 ## We Reserve the Right to Update and Revise this Privacy Policy at Any Time.
 
-From time to time we review this Privacy Policy to ensure that it complies with applicable law. Consequently, we reserve the right to update and revise this Privacy Policy at any time. You will know if this Privacy Policy has been revised since your last visit to the website by referring to the "Effective Date of Current Policy" date at the top of this page. Your use of our website constitutes your acceptance of the terms of the Privacy Policy as amended or revised by us from time to time, and you should therefore review this Privacy Policy regularly to ensure that you are aware of its terms. 
+From time to time we review this Privacy Policy to ensure that it complies with applicable law. Consequently, we reserve the right to update and revise this Privacy Policy at any time. You will know if this Privacy Policy has been revised since your last visit to the website by referring to the "Effective Date of Current Policy" date at the top of this page. Your use of our website constitutes your acceptance of the terms of the Privacy Policy as amended or revised by us from time to time, and you should therefore review this Privacy Policy regularly to ensure that you are aware of its terms.
 
 ## In the Event We Engage in a Business Combination, We Reserve the Right to Transfer Any Information that We Collect through Our Website.
 
 If we sell all or any part of our business or sell or transfer all or a material part of our assets or are otherwise involved in a merger or other transfer or disposition of any part our business, we reserve the right to access, transfer or disclose any and all information that we collect from our website’s visitors, or that we otherwise collect in connection with the website, to the party or parties involved in the transaction as part of that transaction.
 
-## Our Website may Contain Links to Other Websites. 
+## Our Website may Contain Links to Other Websites.
 
 Please be aware that we are not and cannot be responsible for the privacy practices of any websites that you access through our website and that this Privacy Policy applies solely to the information which we collect through our website. We encourage you to ensure that you read the privacy statements of all the destination websites which you visit.
