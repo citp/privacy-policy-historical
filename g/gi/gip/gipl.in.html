@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gipl.in privacy policy that was archived on 2011-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110613151837id_/http%3A//gipl.in/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gipl.in privacy policy that was archived on 2011-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111221221722id_/http%3A//gipl.in/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -10,7 +10,7 @@
 	
 -->
 </style>
-<link rel="stylesheet" type="text/css" href="css/gipl.css?1307975502" media="all">
+<link rel="stylesheet" type="text/css" href="css/gipl.css?1324505841" media="all">
 <link href="css/jquery.lightbox-0.5.css" rel="stylesheet" type="text/css">
 
 <script type="text/javascript" src="js/tabcontent.js"></script>
@@ -21,6 +21,7 @@
 <script type="text/javascript" src="js/jquery.validate.js"></script>
 <script type="text/javascript" src="js/jquery.cycle.lite.min.js"></script>
 
+
 </head>
 <body>
 	<div id="container">
@@ -29,7 +30,7 @@
 			<div class="header">
 				<div class="header">
 					<div class="header-left">
-					<div class="float-left"><a href="http://www.gipl.in"><img src="images/GIPL-logo.jpg" alt="GIPL - Guj Info Petro Limited" border="0"></a></div>
+					<div class="float-left"><a href="http://www.gipl.in"><img src="images/GIPL-logo.jpg" alt="GIPL - Guj Info Petro Limited" title="GIPL" border="0"></a></div>
 					<div class="float-left"><img src="images/line.jpg" alt="Software Development"></div>
 					<div class="gspc"><a href="http://www.gspcgroup.com"><img src="images/gspc.jpg" alt="A GSPC Group Company" border="0" width="162" height="9"></a></div>
 				</div>
@@ -170,13 +171,28 @@ Any and all content contained within this website is the property of The GSPC Gr
 						<div class="middle-testimonial" id="testi">
   <h3>Testimonials</h3>    
       <div id="testimony" style="position: relative;">
-                     <div class="middle-test-txt" id="0" style="position: absolute; top: 0px; left: 0px; display: block; z-index: 2; opacity: 1;">										
+                     <div class="middle-test-txt" id="0" style="position: absolute; top: 0px; left: 0px; display: block; z-index: 5; opacity: 1;">										
+                <p>GIPL team has diligently executed Invoice Management System project. GSPL appriciates GIPL effort to complete the project successfully.</p><br>
+                 <span class="d-orange"><strong>Ravindra Agrawal</strong></span><br>
+                 GM (Commercial), GSPL                                         
+                 </div>
+                       <div class="middle-test-txt" id="1" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 4; opacity: 0;">										
+                GIPL has implemented and operated centralized ticketing solution and GPS based Passenger Information System for 35 BRTS stations, which was satisfactory.<br>
+                 <span class="d-orange"><strong>Utpal Padia</strong></span><br>
+                 Executive Director, AJL                                         
+                 </div>
+                       <div class="middle-test-txt" id="2" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 3; opacity: 0;">										
+                GIPL team has successfully implemented New school application &amp; approval module &amp; training to D.E.O for DEO inspection module.<br>
+                 <span class="d-orange"><strong>Dr. K.R.Zanzarukiya</strong></span><br>
+                 Secretary, GS&amp;HSEB                                         
+                 </div>
+                       <div class="middle-test-txt" id="3" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 2; opacity: 0;">										
                 GIPL is successfully executing GSEB projects with utmost reliability and confidentiality since 5 years. 
 <br>
                  <span class="d-orange"><strong>R.K.Pathak (I.A.S)</strong></span><br>
                  Former Chairman, (G.S.E.B)                                         
                  </div>
-                       <div class="middle-test-txt" id="1" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 1; opacity: 0;">										
+                       <div class="middle-test-txt" id="4" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 1; opacity: 0;">										
                 GIPL has successfully implemented Commercial Tax Department project in time.<br>
                  <span class="d-orange"><strong>J. P. Gupta, IAS</strong></span><br>
                  Sp. Commissiner, Commercial Tax                                         
@@ -185,7 +201,7 @@ Any and all content contained within this website is the property of The GSPC Gr
       </div>  		
 					</div>
 						<div class="middle-r-part">
-							<link rel="stylesheet" type="text/css" href="css/gipl.css?1307975502" media="all">
+							<link rel="stylesheet" type="text/css" href="css/gipl.css?1324505841" media="all">
 <meta http-equiv="cache-control" content="no-cache">
 <meta http-equiv="expires" content="0">
 <meta http-equiv="pragma" content="no-cache">
@@ -216,12 +232,19 @@ Any and all content contained within this website is the property of The GSPC Gr
 			cache:false,
 			success:function(result)
 			{
+				
 				$("#imgLd").hide();
 				//$("#imgCode").html('');					
 				if(result==0)
 				{
 					$("#pMsg").css("color","red");
 					$("#pMsg").text('Message Not Sent.');
+					
+				}
+				else if(result==2)
+				{
+					$("#pMsg").css("color","red");
+					$("#pMsg").text('Access Denied.');
 					
 				}
 				else if(result==1)
@@ -270,7 +293,7 @@ Any and all content contained within this website is the property of The GSPC Gr
 		 <textarea name="message" id="message" class="con-txtarea required" onfocus="if(this.value == 'Please type your message') this.value = ''" onblur="">Please type your message</textarea>
 		</div>
 		<div class="cont-txt-error"></div>
-		<p id="imgCode"><img id="captchaImg" src="CaptchaSecurityImages.php?rnd=6aaffd4eb600a607a95dee973775d17f&amp;width=100&amp;height=40&amp;characters=5" border="0" alt=""></p>
+		<p id="imgCode"><img id="captchaImg" src="CaptchaSecurityImages.php?rnd=8d9c890dc62733575cd81e9a92ac7d72&amp;width=100&amp;height=40&amp;characters=5" border="0" alt=""></p>
 		<p>Please enter the code shown above and click Submit.</p>
 		<div class="contact-r-part"><input maxlength="8" size="8" name="userstring" id="userstring" class="required" type="text" value=""></div>
 		<div class="cont-txt-error"></div>
@@ -329,7 +352,7 @@ Any and all content contained within this website is the property of The GSPC Gr
 					  </div>
 					</div>
 					<div class="footer-txt">
-						<div class="footer-copy">� Copyright 2010 GIPL - An ISO 9001:2008 Certified Company, All rights reserved. <a href="privacy-policy.php" class="footer-links1">Privacy Policy</a> | <a href="terms-of-use.php" class="footer-links1">Terms of Use</a></div>
+						<div class="footer-copy">© Copyright 2010 GIPL - An ISO 9001:2008 Certified Company, All rights reserved. <a href="privacy-policy.php" class="footer-links1">Privacy Policy</a> | <a href="terms-of-use.php" class="footer-links1">Terms of Use</a></div>
 						<div class="footer-validate"><img src="images/xhtml.jpg" alt="W3C XHTML Validate">&nbsp;&nbsp;<img src="images/css.jpg" alt="W3C CSS Validate"></div>
 					</div>
 				</div>
