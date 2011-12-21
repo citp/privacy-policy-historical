@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the record-eagle.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623025650id_/http%3A//record-eagle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the record-eagle.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221173740id_/http%3A//record-eagle.com/privacy) for the most accurate reproduction.*
 
 # Inside index
 
