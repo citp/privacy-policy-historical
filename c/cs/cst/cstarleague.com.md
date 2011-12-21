@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cstarleague.com privacy policy that was archived on 2011-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110112010704id_/http%3A//www.cstarleague.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cstarleague.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221180310id_/http%3A//www.cstarleague.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Collegiate StarLeague
 
-We understand your right to privacy and have prepared this privacy policy to explain how we gather and use any personal information we collect when you use our website. This notice is available as a link from each page of our site. If you have further questions or comments, we invite you to reach out and leave us [feedback.](https://web.archive.org/feedback)
+We understand your right to privacy and have prepared this privacy policy to explain how we gather and use any personal information we collect when you use our website. This notice is available as a link from each page of our site. If you have further questions or comments, we invite you to reach out and leave us [feedback.](https://web.archive.org/forum/feedback-suggestions)
 
 ## Information we collect and how it is used
 
@@ -23,6 +23,7 @@ We require you to register an account to make use of the full set of website fea
 We require registered users to complete an additional "Player Profile" in order to qualify for participation in the CSL. Information collected for the "Player Profile" includes:
 
   * **Full Name** \- Your full name **displays publicly** on pages associated with league content (such as player profiles, team profiles, and match reports). Your full name might also appear in news reports, interviews, and website features.
+  * You can provide a pseudonym or go by first name only on request, so long as you have a valid school address.
   * **Race** \- Your StarCraft II: Wings of Liberty race **displays publicly** on pages associated with league content.
   * **Character Name and Code** \- Your Battle.net Character Name and Code **display publicly** on pages associated with league content. This information is used to help organize league matches and to query third party sites (such as SC2Ranks.com) for account statistics.
 
