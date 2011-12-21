@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the belkin.com privacy policy that was archived on 2010-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224132813id_/http%3A//www.belkin.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the belkin.com privacy policy that was archived on 2011-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111221213833id_/http%3A//www.belkin.com/legal/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Belkin : Privacy Statement</title>
@@ -9,18 +9,18 @@ BEGIN BRAIN INCLUDE US
 ...............................................................
 -->
 
-
 	<!--  
 	...............................................................
 	META ETC 
 	...............................................................
 	-->
-		<meta name="description" content="Manufacturer and supplier of audio, video and computer cables, power protection, wireless networking, iPod accessories, desktop and mobility accessories. USA.">
+		<meta name="robots" content="noydir">
+		<meta name="robots" content="noodp">
+		<meta name="viewport" content="width=1050">
 		<link rel="home" href="http://www.belkin.com/">
 		<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.belkin.com/pressRoom/feeds/index.rss">
 		<link rel="shortcut icon" href="/favicon.ico">
 
-	
 	<!--  
 	...............................................................
 	CSS 
@@ -30,44 +30,20 @@ BEGIN BRAIN INCLUDE US
 		<link href="/includes/css/_global.css" rel="stylesheet" type="text/css">
 		<link href="/includes/css/menu.css" rel="stylesheet" type="text/css">
 		<link href="/includes/css/prettyPhoto.css" rel="stylesheet" type="text/css">
-		
 	
 	<!--  
 	...............................................................
 	JAVASCRIPT 
 	...............................................................
 	-->
-		<script language="JavaScript" type="text/javascript" src="/includes/js/belkin.js"></script>
-		<script language="JavaScript" type="text/javascript" src="/includes/js/motionpack.js"></script>
-		<script type="text/javascript" src="/includes/js/jquery-1.4.2.min.js"></script>
-		
-		<script language="javascript" type="text/javascript" src="/includes/js/menu.js"></script>
-		
+		<script type="text/javascript" src="/includes/js/belkin.js"></script>
+		<script type="text/javascript" src="/includes/js/motionpack.js"></script>
+		<script type="text/javascript" src="/includes/js/jquery-1.5.2.min.js"></script>
+		<script type="text/javascript" src="/includes/js/menu.js"></script>
+		<script type="text/javascript" src="/includes/js/global.js"></script>
 		<script type="text/javascript" src="/includes/js/belkin.includes.headersearch.html.js"></script>
+		<script type="text/javascript" src="/includes/js/jquery.prettyPhoto.js"></script>
 		
-		<script language="javascript" type="text/javascript" src="/includes/js/jquery.prettyPhoto.js"></script>
-		
-		<script language="javascript" type="text/javascript">
-		
-		$(function() {
-			
-			$(".change_location, .close_btn").click(function(e) {
-				e.preventDefault();
-				$("#list_countries").fadeToggle();
-			});
-			
-		});
-		
-		// jQuery does not have a toggle function for fading elements in and out. I wrote a custom jQuery function to toggle the "Fade Effect" on any element.
-		jQuery.fn.fadeToggle = function(speed, easing, callback) {
-			return this.animate( {opacity: 'toggle'}, speed, easing, callback );
-		};
-		
-		// onbeforeunload event disables caching for the page - fixes browser back button issues
-		window.onbeforeunload = function() {};
-		
-		</script>
-
 
 <!--  
 ...............................................................
@@ -79,47 +55,163 @@ END BRAIN INCLUDE
 </head>
 <body>
 <div id="content">
-<!-- ||||||||||||||||||||||||||||||||||||||||||||||||||*** BEGIN HEADBAND INCLUDE ***||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
+<!--  
+...............................................................
+BEGIN HEADBAND INCLUDE
+...............................................................
+-->
 		<!--googleoff: index-->
 		<div id="frameHead">
+		
 			<h1 id="wordmark">
-
-			<a href="/">
-			<img src="/includes/graphics/belkin_wordmark.png" width="132" height="22" border="0" alt="www.belkin.com"></a>
+				<a href="/"><img src="/includes/graphics/belkin_wordmark.png" width="132" height="22" border="0" alt="www.belkin.com/"></a>
 			</h1>
-						<div id="HEAD_NAV">
-		<div id="headBandSearch">
-		<form id="searchForm" name="searchForm" action="/search/" method="get">
-						<label>Search</label>
-							<input type="text" name="q" maxlength="30" size="11" class="prod_srch" value="Product Search" onclick="this.value=''">
-							
-							<input type="image" src="/includes/graphics/go.png" value="" alt="go" class="buttons">
-							</form>
-</div> <!-- id="headBandSearch" -->
-						</div>
-						</div><!--  id="frameHead" -->
-<!-- ||||||||||||||||||||||||||||||||||||||||||||||||||*** END HEADBAND INCLUDE ***||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
-<div id="wrap">
-<!-- ||||||||||||||||||||||||||||||||||||||||||||||||||*** BEGIN LEFT_NAV INCLUDE ***||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
-<div class="left_nav">
+			
+			<div id="HEAD_NAV">
+			
+				<div id="headBandSearch">
+				
+					<form id="searchForm" name="searchForm" action="/search/" method="get">
+						
+						<input type="text" name="q" id="search-text" class="prod_srch placeholder" maxlength="30" size="11">
+						<input type="image" src="/includes/graphics/go.png" value="" alt="go" class="buttons">
+						<input type="hidden" value="" id="headerRegion">
+					</form>
+					
+				</div><!-- END #headBandSearch -->
+				
+			</div><!-- END #HEAD_NAV -->
+			
+			<div id="location">
+				<a href="/includes/markup/change-location.html" class="change_location">United States</a> 
+			</div>
+			
+			<div id="list_countries"><div id="select-location-wrap">
 
-	<input type="hidden" value="us" id="headerRegion"> 
+			<h3>
+				Select your location:
+			</h3>
+			
+			<div class="first">
+				<h4>
+					Americas
+				</h4>
+				<ul>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/">Americas | English</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/mx">Americas | Espanol</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/br">Brasil</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/ca">Canada</a></li>
+				</ul>
+			</div>
+			<div>
+				<h4>
+					Asia Pacific
+				</h4>
+				<ul>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/au">Australia</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/cn">China | 中国</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/hk">Hong Kong | English </a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/zh-hk">Hong Kong | 香港 </a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.co.in/">India</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/jp">Japan | 日本</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/kr">Korea | 대한민국</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/my">Malaysia</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/ph">Philippines</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/sg">Singapore</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/th">Thailand | English </a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/th-th">Thailand | ไทย</a></li>
+				</ul>
+			</div>
+			<div>
+				<h4>
+					Europe
+				</h4>
+				<ul>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/cz">Czech Republic | Ceský</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/dk">Denmark | Danmark</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/fi">Finland | Suomi</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/fr">France</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/de">Germany | Deutschland</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/gr">Greece | Ελλάδα</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/hu">Hungary | Magyarország</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/es">Spain | España</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/nl">Netherlands | Nederland</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/no">Norway | Norge</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/pl">Poland | Polska</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/it">Italy | Italia</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/se">Sweden | Sverige</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/uk">United Kingdom</a></li>
+				</ul>
+			</div>
+			<div class="last">
+				<h4>
+					Eurasia
+				</h4>
+				<ul>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/ru">Russia | Россия</a></li>
+					<li><a href="https://web.archive.org/web/20110218092444/http://www.belkin.com/tr">Turkey | Türkiye</a></li>
+				</ul>
+			</div>
+			<p class="close_btn">
+				Close
+			</p>
+			
+			
+			</div></div>
+				
+			
+			
+		</div><!--  END #frameHead -->
+<!--  
+...............................................................
+END HEADBAND INCLUDE
+...............................................................
+-->
+
+
+
+<div id="wrap">
+<!--  
+...............................................................
+BEGIN LEFT NAV INCLUDE US
+...............................................................
+-->
+<div class="left_nav pinned_top">
+
+	<input type="hidden" value="us"> 
 	
 	<div class="left_box">
+		
 		<h3>Products</h3>
 		
 		<div id="menu">
 		
 		<ul>
-		<li id="network-menuheader" class="header no-expand"><a href="/networking">Networking</a></li>
-
+		
+		<li id="network-menuheader" class="header"><a class="item-network" href="/networking/">Networking</a>
+			<ul class="categoryitems">
+				<li class="wireless-solutions-submenuheader"><a class="item-wireless" href="/networking/wireless-routers">Wireless Solutions</a>
+					<ul class="subcategoryitems">
+						<li><a class="item-router-picker" href="/router-picker">Router Picker</a></li>
+					</ul>
+				</li>
+				<li class="no-expand"><a class="item-powerline" href="/networking/powerline">Powerline Solutions</a></li>
+				<!-- <li class="no-expand"><a class="item-home-theater" href="/networking/home-theater">Home Theater Solutions</a></li> REMOVE FOR HOME ENT. LAUNCH -->
+				<!-- <li class="no-expand"><a class="item-210034" href="/IWCatSectionView.process?Section_Id=210034">Wired Solutions</a></li> -->
+			</ul>
+		</li>
+		<li id="home-entertainment-menuheader" class="header">
+			<a class="item-hmt" href="/home-entertainment/">Home Entertainment</a>
+		</li>		
+		
 		<li id="ipod-menuheader" class="header"><a class="item-ipod" href="/ipod/">iPod</a>
 		<ul class="categoryitems">
 			<li class="ipod-cases-submenuheader"><a href="/IWCatSectionView.process?Section_Id=208806" class="item-208806">Cases</a>
 				<ul class="subcategoryitems">
+					<!--<li><a class="item-211284" href="/IWCatSectionView.process?Section_Id=211284">iPod X</a></li>-->
 					<li><a class="item-208784" href="/IWCatSectionView.process?Section_Id=208784">iPod touch</a></li>
 					<li><a class="item-208796" href="/IWCatSectionView.process?Section_Id=208796">iPod nano</a></li>
-					<li><a class="item-208789" href="/IWCatSectionView.process?Section_Id=208789">iPod classic</a></li>
+					<!--<li><a class="item-208789" href="/IWCatSectionView.process?Section_Id=208789">iPod classic</a></li>-->
 					<li><a class="item-208795" href="/IWCatSectionView.process?Section_Id=208795">Previous iPod Models</a></li>
 				</ul>
 			</li>
@@ -134,24 +226,33 @@ END BRAIN INCLUDE
 		<ul class="categoryitems">
 			<li class="iphone-cases-submenuheader"><a href="/IWCatSectionView.process?Section_Id=208807" class="item-208807">Cases</a>
 				<ul class="subcategoryitems">
-					<li><a class="item-208776" href="/IWCatSectionView.process?Section_Id=208776">iPhone 4</a></li>
-					<li><a class="item-208777" href="/IWCatSectionView.process?Section_Id=208777">iPhone 3GS</a></li>
-					<li><a class="item-208778" href="/IWCatSectionView.process?Section_Id=208778">iPhone 3G</a></li>
+					<li><a class="item-211271" href="/IWCatSectionView.process?Section_Id=211271">iPhone 4S</a></li>
+					<li><a class="item-209777" href="/IWCatSectionView.process?Section_Id=209777">iPhone 4 (AT&amp;T)</a></li>
+					<li><a class="item-209778" href="/IWCatSectionView.process?Section_Id=209778">iPhone 4 (Verizon)</a></li>
+					<!-- <li><a class="item-208777" href="/IWCatSectionView.process?Section_Id=208777">iPhone 3G / 3GS</a></li> -->
+					<!-- <li><a class="item-208778" href="/IWCatSectionView.process?Section_Id=208778">iPhone 3G</a></li> -->
 					<!-- <li><a class="item-208779" href="/IWCatSectionView.process?Section_Id=208779">iPhone</a></li> -->
 				</ul>
 			</li>
 			<li class="no-expand"><a class="item-208800" href="/IWCatSectionView.process?Section_Id=208800">In-Car</a></li>
 			<li class="no-expand"><a class="item-208799" href="/IWCatSectionView.process?Section_Id=208799">Chargers &amp; Cables</a></li>
 			<li class="no-expand"><a class="item-208798" href="/IWCatSectionView.process?Section_Id=208798">Accessories</a></li>
+			<li class="no-expand"><a class="item-photography" href="/photography">Photography</a></li>
 		</ul>
 		</li>
 
 		<li id="ipad-menuheader" class="header"><a class="item-ipad" href="/ipad/">iPad</a>
 		<ul class="categoryitems">
-			<li class="no-expand"><a class="item-208762" href="/IWCatSectionView.process?Section_Id=208762">Cases</a></li>
+			<li class="ipad-cases-submenuheader"><a class="item-208762" href="/IWCatSectionView.process?Section_Id=208762">Cases</a>
+				<ul class="subcategoryitems">
+					<li><a class="item-210031" href="/IWCatSectionView.process?Section_Id=210031">iPad 2</a></li>
+					<li><a class="item-210032" href="/IWCatSectionView.process?Section_Id=210032">iPad</a></li>
+				</ul>
+			</li>
 			<li class="no-expand"><a class="item-208864" href="/IWCatSectionView.process?Section_Id=208864">Stands</a></li>
 			<li class="no-expand"><a class="item-208805" href="/IWCatSectionView.process?Section_Id=208805">Chargers &amp; Cables</a></li>
 			<li class="no-expand"><a class="item-208763" href="/IWCatSectionView.process?Section_Id=208763">Accessories</a></li>
+			<li class="no-expand"><a class="item-kitchen" href="/Kitchen">In the kitchen</a></li>
 		</ul>
 		</li>
 
@@ -183,14 +284,102 @@ END BRAIN INCLUDE
 		<li id="ereader-menuheader" class="header"><a class="item-ereader" href="/ereader/">eReader</a>
 		<ul class="categoryitems">
 			<li class="ereader-cases-submenuheader"><a href="/IWCatSectionView.process?Section_Id=208808" class="item-208808">Cases</a>
-				<!-- <ul class="subcategoryitems">
-					<li><a class="item-208772" href="/IWCatSectionView.process?Section_Id=208772">Kindle 3</a></li>
-					<li><a class="item-208773" href="/IWCatSectionView.process?Section_Id=208773">Kindle 2</a></li>
-				</ul> -->
+				<ul class="subcategoryitems">
+					<li><a class="item-208774" href="/IWCatSectionView.process?Section_Id=208774">Kindle </a></li>
+					<li><a class="item-208773" href="/IWCatSectionView.process?Section_Id=208773">Kindle Touch</a></li>
+					<li><a class="item-208772" href="/IWCatSectionView.process?Section_Id=208772">Kindle Fire</a></li>
+					<li><a class="item-211346" href="/IWCatSectionView.process?Section_Id=211346">Kindle 3/3G</a></li>
+				</ul> 
 			</li>
 			<!-- <li class="no-expand" ><a class="item-208810"  href="/IWCatSectionView.process?Section_Id=208810">Chargers &amp; Cables</a></li> -->
 			<li class="no-expand"><a class="item-208809" href="/IWCatSectionView.process?Section_Id=208809">Accessories</a></li>
 		</ul>
+		</li>
+		
+		<li id="screen-protection-menuheader" class="header"><a class="item-screen-protection" href="/screen-protection/">Screen Protection</a>
+			<ul class="categoryitems">
+				<li class="tablet-scrnptct-submenuheader"><a class="item-211314" href="/IWCatSectionView.process?Section_Id=211314">Tablet</a>
+					<ul class="subcategoryitems">
+						<li>
+							<a class="item-211811" href="/IWCatSectionView.process?Section_Id=211811">Galaxy Tab 8.9"</a>
+						</li>
+						<li>
+							<a class="item-211327" href="/IWCatSectionView.process?Section_Id=211327">Galaxy Tab 10.1"</a>
+						</li>
+						<li>
+							<a class="item-211813" href="/IWCatSectionView.process?Section_Id=211813">Universal LCD Screen</a>
+						</li>
+						<li>
+							<a class="item-211814" href="/IWCatSectionView.process?Section_Id=211814">Acer Tablet 10.1"</a>
+						</li>
+						<!--<li>
+							<a class="item-211329" href="/IWCatSectionView.process?Section_Id=211329">Kindle</a>
+						</li>-->
+						<li>
+							<a class="item-211351" href="/IWCatSectionView.process?Section_Id=211351">Google eReader</a>
+						</li>
+					</ul>
+				</li>
+				<li class="smartphone-scrnptct-submenuheader"><a class="item-211315" href="/IWCatSectionView.process?Section_Id=211315">Smartphone</a>
+					<ul class="subcategoryitems">
+						<li>
+							<a class="item-211332" href="/IWCatSectionView.process?Section_Id=211332">HTC Inspire</a>
+						</li>
+						
+						<!--<li>
+							<a class="item-211815" href="/IWCatSectionView.process?Section_Id=211815">HTC Evo 4G</a>
+						</li>-->
+						<li>
+							<a class="item-211816" href="/IWCatSectionView.process?Section_Id=211816">HTC Sensation</a>
+						</li>
+						<!--<li>
+							<a class="item-211330" href="/IWCatSectionView.process?Section_Id=211330">Samsung Galaxy</a>
+						</li>-->
+						<li>
+							<a class="item-211333" href="/IWCatSectionView.process?Section_Id=211333">Samsung Galaxy S II</a>
+						</li>
+						<li>
+							<a class="item-211334" href="/IWCatSectionView.process?Section_Id=211334">Samsung Infuse</a>
+						</li>
+						<li>
+							<a class="item-211331" href="/IWCatSectionView.process?Section_Id=211331">Universal</a>
+						</li>
+					</ul>
+				</li>
+				<li class="iphone-scrnptct-submenuheader"><a class="item-211316" href="/IWCatSectionView.process?Section_Id=211316">iPhone</a>
+					<ul class="subcategoryitems">
+						<li>
+							<a class="item-211826" href="/IWCatSectionView.process?Section_Id=211826">iPhone 4S</a>
+						</li>
+						<li>
+							<a class="item-211322" href="/IWCatSectionView.process?Section_Id=211322">iPhone 4</a>
+						</li>
+						<li>
+							<a class="item-211323" href="/IWCatSectionView.process?Section_Id=211323">iPhone 3G/3Gs</a>
+						</li>
+					</ul>
+				</li>
+				<li class="ipad-scrnptct-submenuheader"><a class="item-211317" href="/IWCatSectionView.process?Section_Id=211317">iPad</a>
+					<ul class="subcategoryitems">
+						<li>
+							<a class="item-211319" href="/IWCatSectionView.process?Section_Id=211319">iPad</a>
+						</li>
+						<li>
+							<a class="item-211320" href="/IWCatSectionView.process?Section_Id=211320">iPad 2</a>
+						</li>
+					</ul>
+				</li>
+				<li class="ipod-scrnptct-submenuheader"><a class="item-211318" href="/IWCatSectionView.process?Section_Id=211318">iPod</a>
+					<ul class="subcategoryitems">
+						<li>
+							<a class="item-211325" href="/IWCatSectionView.process?Section_Id=211325">iPod Touch 4G</a>
+						</li>
+						<li>
+							<a class="item-211326" href="/IWCatSectionView.process?Section_Id=211326">iPod nano</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
 		</li>
 		
 		<li id="conserve-menuheader" class="header no-expand"><a href="/conserve/">Conserve</a></li>
@@ -201,9 +390,22 @@ END BRAIN INCLUDE
 		
 		<li id="power-menuheader" class="header"><a class="item-power" href="/power/">Power</a>
 		<ul class="categoryitems">
-			<li class="no-expand"><a class="item-201475" href="/IWCatSectionView.process?Section_Id=201475">Surge Protectors</a></li>
-			<li class="no-expand"><a class="item-201476" href="/IWCatSectionView.process?Section_Id=201476">Battery Backup / UPS</a></li>
-			<li class="no-expand"><a class="item-206201" href="/IWCatSectionView.process?Section_Id=206201">Home Theater</a></li>
+			<li class="power-surge-protectors-submenuheader"><a class="item-201475" href="/IWCatSectionView.process?Section_Id=201475">Surge Protectors</a>
+				<ul class="subcategoryitems">
+					<li><a class="item-208464" href="/IWCatSectionView.process?Section_Id=208464">Total Power Protection</a></li>
+					<li class="two_lines"><a class="item-207100" href="/IWCatSectionView.process?Section_Id=207100">Conserve Energy Saving Surge Protectors </a></li>
+					<li><a class="item-conceal" href="/IWCatSectionView.process?Section_Id=210787">Conceal Surge Protector </a></li>
+					<li><a class="item-205837" href="/IWCatSectionView.process?Section_Id=205837">Home &amp; Office</a></li>
+					<li class="two_lines"><a class="item-204073" href="/IWCatSectionView.process?Section_Id=204073">More Surge Protection Solutions</a></li>
+				</ul>
+			
+			</li>
+			<li class="no-expand"><a class="item-battery" href="/gatewaybattery/">Battery Backup / UPS</a></li>
+			<li class="power-consoles-submenuheader"><a class="item-206201" href="/IWCatSectionView.process?Section_Id=206201">Home Theater</a>
+				<!--<ul class="subcategoryitems">
+					<li><a class="item-202493" href="/IWCatSectionView.process?Section_Id=202493">Power Consoles</a></li>
+				</ul>-->
+			</li>
 		</ul>
 		</li>
 
@@ -211,8 +413,9 @@ END BRAIN INCLUDE
 		<ul class="categoryitems">
 			<li class="no-expand"><a class="item-kvm-wizard" href="/wizard/kvm/">KVM Wizard</a></li>
 			<li class="no-expand"><a class="item-206981" href="/IWCatSectionView.process?Section_Id=206981">Server Room &amp; Rack Mounts</a></li>
-			<li class="no-expand"><a class="item-206988" href="/IWCatSectionView.process?Section_Id=206988">LCD Rack Mount Consoles</a></li>
-			<li class="no-expand"><a class="item-206991" href="/IWCatSectionView.process?Section_Id=206991">Government Solutions</a></li>
+			<li class="no-expand"><a class="item-206988" href="/commercial/products/kvm/rackmount-consoles/19-in-widescreen-rackmount-console/">LCD Rack Mount Consoles</a></li>
+			<!--<li class="no-expand"><a class="item-206991"  href="/IWCatSectionView.process?Section_Id=206991">Government Solutions</a></li>-->
+			<li class="no-expand"><a class="item-206991" href="/kvm/secure">Government Solutions</a></li>
 			<li class="no-expand"><a class="item-206974" href="/IWCatSectionView.process?Section_Id=206974">Cabled KVM</a></li>
 			<li class="no-expand"><a class="item-206977" href="/IWCatSectionView.process?Section_Id=206977">Desktop KVM Solutions</a></li>
 			<li class="no-expand"><a class="item-206995" href="/IWCatSectionView.process?Section_Id=206995">KVM Accessories &amp; Extenders</a></li>
@@ -220,18 +423,27 @@ END BRAIN INCLUDE
 		</li>
 		
 		
+		
 		</ul>
 
 </div><!-- id="menu" -->
+
+	
+	<a href="/reviews/" class="reviews-cta"><img src="/includes/graphics/reviews-cta.jpg" width="162" height="46" alt="Write a review on Belkin.com"></a>
 	
 	</div><!-- class="left_box" -->
+	
 	
 	
 </div><!-- class="left_nav" -->
 
 
 
-<!-- ||||||||||||||||||||||||||||||||||||||||||||||||||*** END LEFT_NAV INCLUDE ***||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
+<!--  
+...............................................................
+END LEFT NAV INCLUDE US
+...............................................................
+-->
 
 <div id="main">
 
@@ -286,121 +498,72 @@ END BRAIN INCLUDE
 
 
 
-<!-- ||||||||||||||||||||||||||||||||||||||||||||||||||*** BEGIN FEET INCLUDE ***||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
+<!--  
+...............................................................
+BEGIN FEET INCLUDE US
+...............................................................
+-->
+
 <div id="ft">
 	<ul class="footLink">
-		<li> <strong>Support</strong> </li>
-		<li> <a href="/support/">Support Home</a> </li>
-		<li> <a href="http://en-us-support.belkin.com/app/answers/list/search/">Search for Answers</a> </li>
-		<li> <a href="http://en-us-support.belkin.com/app/ask/">Ask a Question</a> </li>
-		<li> <a href="/registration/">Register a Product</a> </li>
-		<li> <a href="/product_recall">Product Recalls</a> </li>
+		<li><strong>Help</strong></li>
+		<li><a href="http://www.belkin.com/support">Customer Service</a></li>
+		<li><a href="http://en-us-support.belkin.com/app/answers/list/search/">Search for Answers</a></li>
+		<li><a href="http://en-us-support.belkin.com/app/ask/">Ask a Question</a></li>
+		<li><a href="/registration/">Register a Product</a></li>
+		<li><a href="/product_recall">Product Recalls</a></li>
 	</ul>
 	<ul class="footLink">
-		<li> <strong>Commercial</strong> </li>
-		<li> <a href="/mm/">VAR Channel Partners</a> </li>
-		<li> <a href="/cables/">Cables</a> </li>
-		<li> <a href="/IWCatSectionView.process?Section_Id=202829">Data Center Solutions</a> </li>
-		<li> <a href="/kvm/">KVM</a> </li>
-		<li> <a href="/IWCatSectionView.process?Section_Id=205964">Hubs</a> </li>
-		<li> <a href="/IWCatSectionView.process?Section_Id=206202">Home Theater</a> </li>
+		<li><strong>Commercial</strong></li>
+		<li><a href="/mm/">VAR Channel Partners</a></li>
+		<li><a href="/cables/">Cables</a></li>
+		<li><a href="/IWCatSectionView.process?Section_Id=202829">Data Center Solutions</a></li>
+		<li><a href="/kvm/">KVM</a></li>
+		<li><a href="/IWCatSectionView.process?Section_Id=205964">Hubs</a></li>
+		<li><a href="/IWCatSectionView.process?Section_Id=206202">Home Theater</a></li>
 	</ul>
 	<ul class="footLink">
-		<li> <strong>Belkin</strong> </li>
-		<li> <a href="/aboutus/">About Us</a> </li>
-		<li> <a href="/contactus/">Contact Us</a> </li>
-		<li> <a href="/pressRoom/">Press Room</a> </li>
-		<li> <a href="/careers/">Careers</a> </li>
-		<li> <a href="/resellers/resell_us.asp">Where to Buy</a> </li>
-		<li> <a href="/UMRegisterCustomer.process?RestartFlow=t&amp;Merchant_Id=1">Log In</a> </li>
-		<li> <a href="/OMBasketManager.process?RestartFlow=t&amp;OMAction=list">View Cart</a> </li>
-		<li> <a href="/legal/privacy.html">Privacy Policy</a> </li>
-		<li> <a href="/legal/tandc.html">Terms and Conditions</a> </li>
-		<li> <a href="/signup/">Email Sign Up</a> </li>
+		<li><strong>Belkin</strong></li>
+		<li><a href="/aboutus/">About Us</a></li>
+		<li><a href="/contactus/">Contact Us</a></li>
+		<li><a href="/pressRoom/">Press Room</a></li>
+		<li><a href="/careers/">Careers</a></li>
+		<li><a href="/resellers/resell_us.asp">Where to Buy</a></li>
+		<li><a href="/UMRegisterCustomer.process?RestartFlow=t&amp;Merchant_Id=1">Log In</a></li>
+		<li><a href="/OMBasketManager.process?RestartFlow=t&amp;OMAction=list">View Cart</a></li>
+		<li><a href="/signup/">Email Sign Up</a></li>
 	</ul>
 	<ul class="footLink connect">
 		<li class="title"><strong>Connect</strong></li>
-		<li> <a href="http://www.facebook.com/Belkin" target="_blank"><img src="/conserve/images/facebook.png" alt="Facebook"></a> </li>
-		<li class="last"> <a href="http://twitter.com/belkin" target="_blank"><img src="/conserve/images/twitter.png" alt="Twitter"></a> </li>
+		<li><a href="http://www.facebook.com/Belkin" target="_blank"><img src="/conserve/images/facebook.png" alt="Facebook"></a></li>
+		<li class="last"><a href="http://twitter.com/belkin" target="_blank"><img src="/conserve/images/twitter.png" alt="Twitter"></a></li>
 	</ul>
+	
+	<div class="hr"></div>
+
 	<div id="insole">
-		<span>© 2010 Belkin International, Inc. </span> <span id="location"><strong class="current_country us" href="#">United States</strong> <a href="#" class="change_location">Change Location</a></span> 
-		<div id="list_countries">
-			<h3>
-				Select your location:
-			</h3>
-			<div class="first">
-				<h4>
-					Americas
-				</h4>
-				<ul>
-					<li><a href="http://www.belkin.com">Americas | English</a></li>
-					<li><a href="http://www.belkin.com/mx">Americas | Espanol</a></li>
-					<li><a href="http://www.belkin.com/br">Brasil</a></li>
-					<li><a href="http://www.belkin.com/ca">Canada</a></li>
-				</ul>
-			</div>
-			<div>
-				<h4>
-					Asia Pacific
-				</h4>
-				<ul>
-					<li><a href="http://www.belkin.com/au">Australia</a></li>
-					<li><a href="http://www.belkin.com/cn">China | 中国</a></li>
-					<li><a href="http://www.belkin.com/hk">Hong Kong | English </a></li>
-					<li><a href="http://www.belkin.com/zh-hk">Hong Kong | 香港 </a></li>
-					<li><a href="http://www.belkin.co.in">India</a></li>
-					<li><a href="http://www.belkin.com/jp">Japan | 日本</a></li>
-					<li><a href="http://www.belkin.com/kr">Korea | 대한민국</a></li>
-					<li><a href="http://www.belkin.com/my">Malaysia</a></li>
-					<li><a href="http://www.belkin.com/sg">Singapore</a></li>
-					<li><a href="http://www.belkin.com/th">Thailand | English </a></li>
-					<li><a href="http://www.belkin.com/th-th">Thailand | ไทย</a></li>
-				</ul>
-			</div>
-			<div>
-				<h4>
-					Europe
-				</h4>
-				<ul>
-					<li><a href="http://www.belkin.com/cz">Czech Republic | Ceský</a></li>
-					<li><a href="http://www.belkin.com/dk">Denmark | Danmark</a></li>
-					<li><a href="http://www.belkin.com/fi">Finland | Suomi</a></li>
-					<li><a href="http://www.belkin.com/fr">France</a></li>
-					<li><a href="http://www.belkin.com/de">Germany | Deutschland</a></li>
-					<li><a href="http://www.belkin.com/hu">Hungary | Magyarország</a></li>
-					<li><a href="http://www.belkin.com/es">Spain | España</a></li>
-					<li><a href="http://www.belkin.com/nl">Netherlands | Nederland</a></li>
-					<li><a href="http://www.belkin.com/no">Norway | Norge</a></li>
-					<li><a href="http://www.belkin.com/pl">Poland | Polska</a></li>
-					<li><a href="http://www.belkin.com/it">Italy | Italia</a></li>
-					<li><a href="http://www.belkin.com/se">Sweden | Sverige</a></li>
-					<li><a href="http://www.belkin.com/uk">United Kingdom</a></li>
-				</ul>
-			</div>
-			<div class="last">
-				<h4>
-					Eurasia
-				</h4>
-				<ul>
-					<li><a href="http://www.belkin.com/ru">Russia | Россия</a></li>
-				</ul>
-			</div>
-			<p class="close_btn">
-				Close
-			</p>
-		</div>
-	</div>
-</div>
+		<ul>
+			<li>© 2011 Belkin International, Inc.</li>
+			<li><a href="/legal/privacy.html">Privacy Policy</a></li>
+			<li><a href="/legal/tandc.html">Terms and Conditions</a></li>
+		</ul>
+	</div><!--END #insole -->
 
-<!-- close ft -->
-<a href="http://www.belkin.com/contact.asp"></a> <script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script> <script type="text/javascript">
-		_uacct = "UA-379858-1";
-		_udn = "belkin.com";
-		urchinTracker();
-		</script> 
-<!-- ||||||||||||||||||||||||||||||||||||||||||||||||||*** END FEET INCLUDE ***||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
+</div><!--END #ft -->
 
+
+<a href="http://www.belkin.com/contact.asp"></a>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+	_uacct = "UA-379858-1";
+	_udn = "belkin.com";
+	urchinTracker();
+</script> 
+<!--  
+...............................................................
+END FEET INCLUDE US
+...............................................................
+-->
 </div><!-- close main -->
 </div> <!-- id="wrap" -->
 </div><!-- close content -->
