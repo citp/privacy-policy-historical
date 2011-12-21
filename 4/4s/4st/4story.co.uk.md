@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4story.co.uk privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623003827id_/http%3A//agb.gameforge.de/mmog/index.php%3Flang%3Den%26art%3Ddatenschutz_mmog%26special%3Dairrivals%26f_text%3D7d7070%26f_text_hover%3D72859d%26f_text_h%3D72859d%26f_text_hr%3Dffffff%26f_text_hrbg%3Dffffff%26f_text_hrborder%3Dc0c0c0%26f_text_font%3Dverdana%252C%2Barial%252C%2Bhelvetica%252C%2Bsans-serif%26f_bg%3Dverdana%252C%2Barial%252C%2Bhelvetica%252C%2Bsans-serif) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4story.co.uk privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221175946id_/http%3A//agb.gameforge.de/mmog/index.php%3Flang%3Den%26art%3Ddatenschutz_mmog%26special%3Dairrivals%26f_text%3D7d7070%26f_text_hover%3D72859d%26f_text_h%3D72859d%26f_text_hr%3Dffffff%26f_text_hrbg%3Dffffff%26f_text_hrborder%3Dc0c0c0%26f_text_font%3Dverdana%252C%2Barial%252C%2Bhelvetica%252C%2Bsans-serif%26f_bg%3Dverdana%252C%2Barial%252C%2Bhelvetica%252C%2Bsans-serif) for the most accurate reproduction.*
 
 # Gameforge
 
@@ -10,9 +10,9 @@ Gameforge 4D GmbH, Albert-Nestler-Strasse 8, 76131 Karlsruhe, (‘Gameforge‘),
 This Privacy Policy applies to all services which are offered on Gameforge internet sites, in particular the Gameforge portal and the individual online game sites. Included in this are the client- as well as the server-based games.  
 Unless stated otherwise, this Privacy Policy exclusively regulates how Gameforge treats your personal information. In case you make use of services provided by third parties, the Privacy Policy conditions of these third parties apply exclusively. Gameforge does not revise Privacy Policy conditions of third parties.
 
- **2\. Responsible contact**  
-Responsible contact according to the Federal Data Protection Act is Gameforge 4D GmbH, Albert-Nestler-Strasse 8, 76131 Karlsruhe.  
-In case you have any questions concerning privacy policy matters, please contact datenschutz@gameforge.com. At this address, you can inquire about privacy issues, review, change or delete your personal information stored by Gameforge. Alternatively, you can also contact us using the above postal address. Please - if possible – include the online game that you have played, the server and your player name.
+ **Data controller**  
+The data controller according to the Federal Data Protection Act is Gameforge 4D GmbH, Albert-Nestler-Strasse 8, 76131 Karlsruhe.  
+In case you have any questions concerning privacy policy issues, please contact datenschutz@gameforge.com. At this address, you can inquire about privacy issues and review, change or delete your personal data stored by Gameforge. Alternatively, you can also contact us using the above postal address. Please - if possible – indicate the online game that you have played, the server and your player name. This will cause you no other costs than the transmission costs stated in the base rates (i.e. the costs of your Internet, e-mail, mobile phone or telephone connection).
 
  **3\. Collection of information**  
 Generally, you can access our Internet offering without disclosing any personal information to us. It is always your choice whether or not to provide us with your personal information. We only collect, process and use personal information – unless already permitted by statutes – with your consent. If this consent is made in an electronic manner in the context of our online offerings, we shall fulfill the legal requirements to inform you about it.
@@ -38,14 +38,31 @@ You will be informed as part of this communication that you may cancel the subsc
 
 We also use your information in order to protect our web pages and to trace unauthorized access.
 
- **5\. Transmission of personal information**  
-As a matter of course, your data will not be sold to third parties. Gameforge exclusively transmits your personal data to the following extent:   
-We work together with payment providers (e.g. credit card companies, banks, PayPal, mobile services, debt collection agencies, etc.) providers that create and compile statistical data, IT service providers (e.g. data centers, hosts, backup services, database services).   
-These service providers only have access to your data to the extent which is necessary for the completion of their tasks. These service providers are obliged to treat you data according to this privacy policy and the relevant data protection statutes.   
-In the case that Gameforge, companies controlled by Gameforge, particular affiliated companies or shares of the company are sold, your customer information will generally be passed on with the transmitted part of the company. Of course, in this case your data is also subject to this privacy policy and the relevant data protection statutes.
+ **Cookies**  
+For technical purposes and to make the visit to our Internet presence as pleasant as possible, we use, like many other companies, so-called cookies. After your visit to our websites, these cookies are usually automatically deleted from your hard drive; however, some cookies may be stored on your hard drive for a longer period of time for technical reasons. Your Internet browser can be set to reject cookies generally or delete them in individual cases. **If you wish to prevent cookies from being installed or would like to delete individual cookies, please follow the instructions of the manufacturer of your browser.** Please note that you may no longer be able to use our Internet pages or only in a limited manner for technical reasons.
 
- **6\. Deletion of data**  
-If your data is no longer necessary for the above-mentioned purposes including the settlement, for tax purposes or other legal reasons it will be deleted.
+ **Collection of data for statistical purposes**  
+Within the scope of statistical evaluations, we collect in some areas of our Internet presence data such as operating system and version, browser and version, IP address as well as further system data. We use this data for statistical evaluations, in particular for the purpose of adapting our Internet presence to the users’ needs. Where possible, the data is anonymised. No data is disclosed to third parties.
 
- **7\. Security of your personal information**  
-We process the information collected from you according to the German data protection law. All employees are obliged and have been adviced to maintain data confidentiality and privacy obligations, and that received. When submitting payments the transfer of your information is protected by SSL encryption technology. Our SSL transfer is THAWTE certified.
+ **Withdrawal of consents**  
+Insofar as the processing of your personal data is based on your consent and is not contractually or statutorily justified, you may withdraw your consent to data processing at any time with effect for the future.  
+Insofar as your withdrawal refers to the receipt of newsletters or other e-mails, you will be informed as part of the communication that you may cancel your subscription at any time. The cancellation of your subscription will cause you no costs other than the transmission costs stated in the base rates.  
+Otherwise, please refer to the support of the website or game you used to withdraw your consent. The cancellation of your subscription will cause you no other costs than the transmission costs stated in the base rates.
+
+ **Use of pseudonyms**  
+In many cases it is possible to use Gameforge’s services by using pseudonyms. Users are encouraged to make use of this feature.
+
+ **Use of your personal data**  
+We use your personal data in order to constantly improve our range of services and to satisfy the users’ needs. Gameforge uses your personal data for the establishment, implementation and settlement of your contractual relationship with Gameforge and the processing of payments. Furthermore, we use your data in order to communicate with you. This includes that we, as the case may be, inform you about novelties of our services by e-mail. Thus, we use your data to regularly inform you about products, services or certain events from our range of services and our corporate group’s range of services which may be of interest to you. You may also be sent e-mails within the scope of customer surveys.  
+You may receive e-mails from us from the following address:  
+gameforge@news.gameforge.com, gameforge_web@news.gameforge.com, gameforge_mmo@news.gameforge.com  
+Finally, we use your data in order to protect our websites against abusive use and to trace any unauthorised access.
+
+ **Disclosure of personal data**  
+As a matter of course, your data will not be sold to third parties. Gameforge exclusively discloses your personal data to the following extent: We cooperate with payment providers (e.g. credit card companies, banks, PayPal, mobile services, debt collection agencies, etc.), providers that create and compile statistical data, IT service providers (e.g. data centres, hosts, backup services, database services). These service providers only have access to your data to the extent which is necessary for the completion of their tasks. These service providers are obliged to treat your data according to this Privacy Statement and the relevant data protection statutes. In the case that Gameforge, companies controlled by Gameforge, particular affiliated companies or shares of the company are sold, your customer data will generally be passed on with the transmitted part of the company. Of course, in this case your data is also subject to this Privacy Statement and the relevant data protection statutes.
+
+ **Deletion of data**  
+If your data is no longer necessary for the above-mentioned purposes including settlement, for tax purposes or other legal reasons, it will be deleted.
+
+ **Security of your personal data**  
+We process the data collected from you according to the German Data Protection Act. All employees are obliged and have been advised to maintain data confidentiality and privacy obligations. When submitting payments, the transfer of your data is protected by SSL encryption technology. Our SSL transfer is THAWTE-certified.
