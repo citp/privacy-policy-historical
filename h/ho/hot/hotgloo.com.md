@@ -1,0 +1,41 @@
+> *The following text is extracted and transformed from the hotgloo.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221202424id_/http%3A//www.hotgloo.com/privacy) for the most accurate reproduction.*
+
+# HotGloo
+
+[Bitte auf deutsch!](https://web.archive.org/privacy_de)
+
+## Information-Usage
+
+We respects each individual's right to personal privacy. We will collect and use information only in the ways disclosed in this statement. This statement applies solely to information collected on the HotGloo website and application. We collect information from all registered users such as: email, name, company name and address. We never share your information with a third-part only in the following circumstances: With your explicit consent, where it is necessary to complete a transaction or where necessary by law. We may provide your personal information to companies that provide services to help us with our business activities such as hosting our blog and offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. If necessary, we will share information to respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights or, defend against legal claims and if in our judgment in such circumstances disclosure is required or appropriate. We may share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our various terms of use, or as otherwise required by law. If you share a project with other users, they are part of your friend network and can access your name and email. 
+
+## Use of cookies
+
+We do employ cookies. A cookie is a small text file that our web server places on a user's computer hard drive to be a unique identifier. Cookies enable us to track usage patterns and deliver customized content to users. We do not use cookies to spy on you or otherwise invade your privacy. They cannot invade your hard drive and steal information. You must enable cookies on your web browser to be able to use HotGloo correctly. 
+
+## Intellectual property
+
+Our Terms and Conditions recognizes your right to retain full intellectual property protection for the digital content you create, including ideas and whole wireframes. Your ideas are yours, you own them. 
+
+## Newsletter and promotional emails
+
+If you wish to subscribe to our newsletter(s) and/or promotional emails, we will use your name and email address to send the messages to you. Out of respect for your privacy, we provide you a way to unsubscribe in all messages. 
+
+## Links to other websites
+
+The site contains links to other sites that are not owned or controlled by HotGloo. Please be aware that we are not responsible for the privacy policies of such other sites. 
+
+## Types of information collected on this website
+
+Information collected from all visitors: visitors to this website who have javascript enabled are tracked using Piwik. Piwik collects the following types of information from users: type of web browser, type of operating system, screen colors (color processing ability of the users screen), javascript support, flash version, screen resolution, network location and IP address (anomymised). This information can also include: country, city, state, region, county, or any other geographic data, hostname, bandwidth (internet connection speed), time of visit, pages visited, time spent on each page of the website, referring site statistics; the website (URI) the user came through in order to arrive at this website (example: clicking on a hyperlink from Yahoo.com that took the user to this website); search engine query used (example: typing in a phrase into a search engine like Google, and clicking on a link from that search engine). 
+
+This data is primarily used to optimize our website for our visitors, however we will use this data for marketing purposes. An example of how this data could be used for marketing purposes would be to tell potential advertisers how many visitors we get to the website, where our visitors come from, and how they arrive at our website. 
+
+This data DOES NOT include any personalized identification information such as: names, phone numbers, email addresses, mailing addresses, bank account numbers or credit card information. 
+
+## Problem resolution
+
+Any questions regarding the Privacy Policy should be addressed to info@hotgloo.com. We are committed to resolving disputes within a reasonable time-frame. 
+
+## Others
+
+We reserve the right to change this Privacy Policy at any time without notice. 
