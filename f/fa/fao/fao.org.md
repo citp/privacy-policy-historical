@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fao.org privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605114020id_/http%3A//www.fao.org/corp/privacypolicy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fao.org privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221172611id_/http%3A//www.fao.org/corp/privacypolicy/en) for the most accurate reproduction.*
 
 # FAO: Privacy policy
 
