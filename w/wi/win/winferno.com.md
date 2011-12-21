@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winferno.com privacy policy that was archived on 2010-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100212210541id_/http%3A//www.winferno.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winferno.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221090158id_/http%3A//www.winferno.com/privacy.aspx) for the most accurate reproduction.*
 
 # Winferno Software's Privacy Policy
 
@@ -17,13 +17,11 @@ It's free.**
   
 [ ](http://www.truste.org/ivalidate.php?url=www.winferno.com&sealid=101)
 
-Capital Intellect is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent,non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.winferno.com](http://www.winferno.com/). Because this web site wants to demonstrate its commitment to your privacy, they have agreed to disclose their information practices and have their privacy practices reviewed for compliance by TRUSTe. 
+This privacy statement describes how Capital Intellect collects and uses the personal information you provide on our Web site: [www.winferno.com](http://www.winferno.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-If you have questions or concerns regarding this statement, you should contact us at <http://www.winferno.com/re/support.asp>. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://truste.org/consumers/watchdog_complaint.php> . TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+Capital Intellect has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site [www.winferno.com](http://www.winferno.com/), and does not cover information that may be collected through software downloaded from the site. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <http://www.winferno.com/re/support.asp>. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
-
-This Privacy Policy was last updated on 9/28/2009.
+This Privacy Policy was last updated on 12/16/2011.
 
 ### Information Collection & Use
 
@@ -41,12 +39,12 @@ In order to make sure that our customers have the most complete and up to date v
 Out of respect for your privacy, we present the option not to receive these types of communications. Please see the "Choice and Opt-out."
 
 Service-related Announcements  
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. Service related announcements are only sent when there is a problem or potential problem with software you have purchased from us.
+We will send you service-related announcements on rare occasions when it is necessary to do so. Service related announcements are only sent when there is a problem or potential problem with software you have purchased from us.
 
 Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. Please see "Choice and Opt-out."
 
 Customer Service  
-Based upon the personally identifiable information you provide us, we will communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email, or by phone when requested
+Based upon the personally identifiable information you provide us, we will communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email, or by phone when requested.
 
 ### Information Sharing and Disclosure
 
@@ -66,20 +64,20 @@ Customer Testimonials
 We post customer testimonials on our website which may contain personally identifiable information such as the customer name. We do obtain the customer’s consent prior to posting the testimonial to post their name along with their testimonial. 
 
 Legal Disclaimer   
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site 
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. 
 
 Automatic McAfee Software Renewal   
-Customers may purchase McAfee’s automatic renewal service by selecting that option on the checkout page for McAfee products. By purchasing an automatic renewal service from Winferno Software, customers agree to have their billing information and credit card number encrypted and passed along to McAfee. This information will be used to charge the customer for another subscription after a year from the date of product registration. It is strongly recommended that customers [review McAfee’s privacy policy](http://mcafee.com/us/about/privacy.html) prior to purchasing the automatic renewal service. 
+Customers may purchase McAfee’s automatic renewal service by selecting that option on the checkout page for McAfee products. By purchasing an automatic renewal service through Winferno Software, customers agree to have their billing information and credit card number encrypted and passed along to McAfee. This information will be used by McAfee to charge the customer for another subscription after a year from the date of product registration. It is strongly recommended that customers [review McAfee’s privacy policy](http://mcafee.com/us/about/privacy.html) prior to purchasing the automatic renewal service. 
 
-###  Choice/Opt-out 
+### Choice/Opt-out
 
 We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference once you receive any promotional communications from us. 
 
-If you no longer wish to receive our promotional communications, you may opt-out of receiving them by following the instructions included in each communication or by contacting us at <http://www.winferno.com/re/support.asp>
+If you no longer wish to receive our promotional communications, you may opt-out of receiving them by following the instructions included in each communication or by contacting us at <http://www.winferno.com/re/support.asp>. 
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider so you can make an informed choice as to whether or not to share your information with that party. 
 
-###  Log Files 
+### Log Files
 
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
 
@@ -87,17 +85,17 @@ We use this information, which does not identify individual users, to analyze tr
 
 We do not link this automatically collected data to personally identifiable information. 
 
-###  Cookies 
+### Cookies
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. [We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
 
-We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. For information about cookies please click on the link that follows: <http://www.microsoft.com/info/cookies.msp>
+We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. For information about cookies please click on the link that follows: <http://www.microsoft.com/info/cookies.msp>. 
 
 We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. 
+If you reject cookies, you may still use our site, but your ability to use some areas of our site may be limited. 
 
-###  Links to Other Sites 
+### Links to Other Sites
 
 This Web site contains links to other sites that are not owned or controlled by Capital Intellect. Please be aware that we, Capital Intellect, are not responsible for the privacy practices of such other sites. 
 
@@ -105,31 +103,35 @@ We encourage you to be aware when you leave our site and to read the privacy sta
 
 This privacy statement applies only to information collected by this Web site. 
 
-###  Access to Personally Identifiable Information 
+### Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by visiting our Customer Support at <http://www.winferno.com/re/support.asp> or by contacting us by postal mail at the contact information listed below. 
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by visiting our Customer Support at <http://www.winferno.com/re/support-email.asp> or by contacting us by postal mail at the contact information listed below. 
 
-###  Security 
+### Data Retention
 
-The security of your personal information is important to us. When you enter sensitive information such as credit card number on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link: <http://searchsecurity.techtarget.com/sDefinition/0,,sid14_gci343029,00.html>
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at <http://www.winferno.com/re/support-email.asp>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+### Security
+
+The security of your personal information is important to us. When you enter sensitive information such as credit card number on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link: <http://searchsecurity.techtarget.com/sDefinition/0,,sid14_gci343029,00.html>. 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-If you have any questions about security on our Web site, you can contact us at <http://www.winferno.com/re/support.asp>
+If you have any questions about security on our Web site, you can contact us at <http://www.winferno.com/re/support.asp>. 
 
-###  Business Transitions 
+### Business Transitions
 
 In the event Capital Intellect goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information. 
 
-###  Changes in this Privacy Statement 
+### Changes in this Privacy Statement
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
 
-###  Contact Us 
+### Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at: <http://www.winferno.com/re/support-email.asp>
+If you have any questions or suggestions regarding our privacy policy, please contact us at: <http://www.winferno.com/re/support-email.asp>. 
 
 You may also mail us your questions or suggestions to us at the following address:  
 Privacy at Winferno Software  
