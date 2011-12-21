@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the losethebackpain.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419225612id_/http%3A//www.losethebackpain.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the losethebackpain.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221102134id_/http%3A//www.losethebackpain.com/privacy.html) for the most accurate reproduction.*
 
 # LoseTheBackPain.com's Privacy Policy
 
@@ -84,7 +84,7 @@ X. Updating and Removing Your PI and PHI
 
 **
 
-You may update your PI and PHI via the Website or by writing to HBI at 333 Main Street, Suite 201, Gaithersburg, MD 20878. When writing, please include your full name, address, membership account number, and the information that you would like updated. If you have a complaint or other issue, please contact HBI initially via our Customer Support link.
+You may update your PI and PHI via the Website or by writing to HBI at 431 Pine Street, Suite 312, Burlington, VT 05401 USA. When writing, please include your full name, address, membership account number, and the information that you would like updated. If you have a complaint or other issue, please contact HBI initially via our Customer Support link.
 
 Upon receipt of your written specific request, HBI will delete your PI and PHI from its databases, and, to the extent reasonably possible, from its back-up media. HBI will have no obligation to store your PI or PHI for any duration of time after termination of your Website membership. Absent your written instruction to the contrary, HBI may, in its discretion, retain and use your PI and PHI after termination of your membership.
 
