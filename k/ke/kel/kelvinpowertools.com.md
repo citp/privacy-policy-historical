@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kelvinpowertools.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607043242id_/http%3A//www.kelvinpowertools.com/Privacy-Policy-W21page-52-) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kelvinpowertools.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221150119id_/http%3A//www.kelvinpowertools.com/privacy-policy-W21page-52-) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy
 
 Kelvin Power Tools Ltd ("We") are committed to protecting and respecting your privacy.  
 This policy (together with our terms and conditions [SEE NOW](https://web.archive.org/Terms-and-Conditions-W21page-53-) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
@@ -11,7 +11,7 @@ For the purpose of the Data Protection Act 1998 (the Act), the data controller i
 
 We may collect and process the following data about you:
 
-• Information that you provide by filling in forms on our site [www.kelvinpowertools.com](http://www.kelvinpowertools.com/) (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by Kelvin Power Tools Ltd and when you report a problem with our site.  
+• Information that you provide by filling in forms on our site [www.kelvinpowertools.com](https://web.archive.org/) (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by Kelvin Power Tools Ltd and when you report a problem with our site.  
 • If you contact us, we may keep a record of that correspondence.  
 • We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.  
 • Details of transactions you carry out through our site and of the fulfilment of your orders.  
