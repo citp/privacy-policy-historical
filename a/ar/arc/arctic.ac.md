@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arctic.ac privacy policy that was archived on 2011-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110125221834id_/http%3A//www.arctic.ac/en/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arctic.ac privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221224624id_/http%3A//www.arctic.ac/en/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy · Arctic Cooling
 
@@ -45,7 +45,7 @@ Welken House
 London EC1M 6EH  
 United States
 
-[www.moneybookers.com](http://www.paypal.com/)
+[www.moneybookers.com](http://www.moneybookers.com/)
 
 | 
 
