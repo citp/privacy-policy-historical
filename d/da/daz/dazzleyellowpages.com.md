@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dazzleyellowpages.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023809id_/http%3A//www.dazzleyellowpages.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dazzleyellowpages.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221165813id_/http%3A//www.dazzleyellowpages.com/Privacy-Policy) for the most accurate reproduction.*
 
 # DazzleYellowPages.com - Privacy Policy
 
@@ -124,17 +124,4 @@ A cookie is a small, encrypted data string our server writes to your hard drive 
 |   |  Microsoft Internet Explorer 4.x: In the view menu, select Options. Click on Advanced tab and scroll down to a yellow triangle icon with an exclamation labeled "Cookies" where you have 3 options.  
 |   |  Other Browsers: Contact the manufacturer of the browser for information.  
   
-   
-  
-[ ](http://www.dazzleyellowpages.com/order.asp?ctrid=)
-
-|  Fill in almost any combination of fields:  
----  
-Keyword:  
-Business Name:  
-Street:  
-Location  (City, State, Country)  
-Phone  
-Dazzle Just this category   
-Show  matches per page   
-   
+ 
