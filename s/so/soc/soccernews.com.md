@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soccernews.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619190450id_/http%3A//www.soccernews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccernews.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221032032id_/http%3A//www.soccernews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - SoccerNews.com
 
 **SoccerNews.com Privacy Policy**
 
