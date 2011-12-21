@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the holidaytaxis.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621062517id_/http%3A//www.holidaytaxis.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaytaxis.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221082651id_/http%3A//www.holidaytaxis.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Holiday Taxis
 
-Holiday Taxis is the trading name of Airport to Hotel (UK) Limited whose registered number is 4391036 and whose registered address is - 1st Floor, Martlet Heights, 49 The Martlets, Burgess Hill, West Sussex, RH15 9NN.
+Holiday Taxis is the trading name of Airport to Hotel (UK) Limited whose registered number is 4391036 and whose registered address is - Suite B, 2nd Floor Moore House, 13 Black Lion Street, Brighton, East Sussex, BN1 1ND.
 
 At Holiday Taxis we are committed to protecting your privacy and take the responsibility regarding the security of our customers' information very seriously. Please read the following for further details on our privacy policy.
 
