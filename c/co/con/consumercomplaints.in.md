@@ -1,29 +1,8 @@
-> *The following text is extracted and transformed from the consumercomplaints.in privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617015252id_/http%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumercomplaints.in privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221100746id_/http%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Indian Consumer Complaints Forum
 
   | 
-
-### Recently discussed
-
-[](http://www.yadsi.in/ "India Classifieds")
-
-### Latest News
-
-### Worst rating
-
-### Complaints with most comments
-
-[speak asia](https://web.archive.org/complaints/speak-asia-c432939.html) (69)  
-BAWARE: online froud company
-
-### Stay away
-
-[](http://www.voteanddate.in/)
-
-### Yadsi.in - Free Classifieds
-
-| 
 
 Your privacy is important to us, so ConsumerComplaints.in (the "Site") has created this Privacy Policy to explain how your information is protected, collected and used. This Privacy Policy may be updated from time to time. You can always review the most current version here. By using the Site, you consent to the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future. If there is a conflict between our Terms of Use governing your use of the Site and this Privacy Policy, the Terms of Use control. 
 
@@ -86,8 +65,26 @@ If we merge with or are acquired by another company, the resulting combined comp
 
 | 
 
-### Latest Questions
+### Recently discussed
 
-### Categories
+(0 minutes ago)  
+[BSNL](https://web.archive.org/complaints/bsnl-c55485.html)  
+puk code
+
+(4 minutes ago)  
+[mts data card](https://web.archive.org/complaints/mts-data-card-mumbai-city-maharashtra-c686816.html)  
+Data Card Not Activated after 20 days
+
+(6 minutes ago)  
+[Rediff Bol 8.0](https://web.archive.org/complaints/rediff-bol-80-thane-maharashtra-c418603.html)  
+list of chat rooms of rediff bol is empty
+
+[](http://www.yadsi.in/ "India Classifieds")
+
+### Latest News
+
+### Yadsi.in - Free Classifieds
+
+### Latest Questions
 
 |  
