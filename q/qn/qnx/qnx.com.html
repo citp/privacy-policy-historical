@@ -1,47 +1,87 @@
-<!--The following is the downloaded HTML source of the qnx.com privacy policy that was archived on 2010-08-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100829132823id_/http%3A//www.qnx.com/legal/privacy_statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qnx.com privacy policy that was archived on 2011-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111221154034id_/http%3A//www.qnx.com/legal/privacy_statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+	<meta http-equiv="X-UA-Compatible" content="IE=8">
 	<link rel="alternate" type="application/rss+xml" title="QNX News Feed" href="/news/feeds/news.xml">
 		<meta content="text/html;charset=iso-8859-1" http-equiv="content-type">
 		<title>QNX Software Systems Privacy Statement</title>
 		<meta content="RTOS, Microkernel, Neutrino, Photon, QNX4, Momentics, Eclipse, Eclipse IDE, Embedded, Realtime, QNX, RTOS, Microkernel, Neutrino, Reliable, Momentics, Eclipse, IDE, Embedded, Realtime, Service, Security, BSP, networking, kernel, multicore, automotive, industrial, networking, telecom, netcom, medical" name="Keywords">
-		<meta content="This the home page of QNX Software Systems  QNX realtime RTOS - Middleware, development tools, realtime operating system software and services for superior embedded design " name="Description">
+		<meta content="This the home page of QNX Software Systems  QNX realtime RTOS - Operating systems, development tools, realtime operating system software and services for connected embedded systems " name="Description">
 		<meta name="verify-v1" content="u8OX6KP1awehX6NJTPTsWk+A+5luM4Y5HDOB7B5fsP4=">
 
 
-			<script language="JavaScript" type="text/javascript" src="/style/js/browser_detect.js"></script>
+			<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript" src="/style/js/browser_detect.js"></script>
 	<script type="text/javascript" language="javascript">
-
 		function setSearch() {
 			document.searchform.q.value ='';
 			document.getElementById('searchbox').style.color='#333';
 		}
 
-		sfHover = function() {
-			var sfEls = document.getElementById("mainnav").getElementsByTagName("LI");
-			for (var i=0; i<sfEls.length; i++) {
-				sfEls[i].onmouseover=function() {
-					this.className+=" sfhover";
-				}
-				sfEls[i].onmouseout=function() {
-					this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
-				}
-			}
-		}
-		if (window.attachEvent) window.attachEvent("onload", sfHover);
+		// check the size of the banner text.
+		function checkBannerTitleSize(){
+		  var oTextContainer = document.getElementById("banner_h1");
+		  // do we have a long title is it wrapping the h1?
 
+		  if(oTextContainer == null){
+		    return false;
+		  }
+
+		  if(oTextContainer.clientHeight > 32){
+		    // is there an attribute on the dom already?
+		    if(oTextContainer.style.fontSize == ""){
+			currentSize = 24;
+		    }
+		    else
+		    {
+			currentSize = oTextContainer.style.fontSize;
+		    }
+
+		    do{
+		      oTextContainer = document.getElementById("banner_h1");
+		      oTextContainer.style.fontSize = currentSize--+"px";
+		    }while(oTextContainer.clientHeight > 32 && currentSize > 5)
+		  }
+		}
 	</script>
-			<link href="/style/css/menus.css" media="all" rel="stylesheet">
+
+
+			<!--<link href="/style/css/menus.css" media="all" rel="stylesheet">-->
 
 <link href="/style/css/os_extra.css" media="all" rel="stylesheet">
 
 	<link href="http://qnxsoft.vo.llnwd.net/o15/style/css/style_llnwd.css" media="all" rel="stylesheet"> 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">_uacct = "UA-2812524-1"; urchinTracker(); </script>
 
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27400275-1']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<style>
+.mainnav form input {
+    background: url("http://qnxsoft.vo.llnwd.net/o15/images/template/searchbox.gif") no-repeat scroll 0 0 transparent;
+    border: medium none;
+    color: #999999;
+    font-size: 11px;
+    height: 16px;
+    margin: 0 6px 0 0;
+    padding: 2px 10px 0;
+    width: 130px;
+}
+</style>
 
 <link rel="shortcut icon" href="/images/qnx_web_use_only_16x16_2.ico">
+
 
 </head>
 
@@ -50,15 +90,14 @@
 
 <div class="wrapper">
 
-	<a href="/"><img class="logo" src="http://qnxsoft.vo.llnwd.net/o15/images/template/logo.gif" width="106" height="45" alt="QNX Software Systems" border="0"></a>
+	<a href="/"><img class="logo" src="http://qnxsoft.vo.llnwd.net/o15/images/template/logo2011.jpg" width="159" height="60" alt="QNX Software Systems" border="0"></a>
 
 	<div class="identifier">
-		<h1>Middleware,  development tools, realtime operating system<br>software and  services for superior embedded design		</h1>
+		<h1>Operating systems, development tools, and professional services <br> for connected embedded systems		</h1>
 	</div>
-	<ul class="topright"><li><a href="/index.html?lang=cn"><img align="bottom" src="http://qnxsoft.vo.llnwd.net/o15/images/flags/chinese.gif" height="12" alt="中文" border="0"></a>&nbsp;&nbsp;<a href="/index.html?lang=jp"><img align="bottom" src="http://qnxsoft.vo.llnwd.net/o15/images/flags/japanese.gif" height="12" alt="Japanese" border="0"></a>&nbsp;&nbsp;&nbsp;</li><li><a href="/account/login.html">Login</a>&nbsp;&nbsp;&nbsp;<a href="/company/contact/">Contact</a></li>
+	<ul class="topright clearall"><li><a href="?lang=cn"><img align="bottom" src="http://qnxsoft.vo.llnwd.net/o15/images/flags/chinese.gif" height="12" alt="中文" border="0"></a>&nbsp;&nbsp;<a href="?lang=jp"><img align="bottom" src="http://qnxsoft.vo.llnwd.net/o15/images/flags/japanese.gif" height="12" alt="Japanese" border="0"></a>&nbsp;&nbsp;&nbsp;</li><li><a href="/account/login.html">Login</a>&nbsp;&nbsp;&nbsp;<a href="/company/contact/">Contact</a></li>
 </ul>
 
-	<br clear="all">
 
 			<div class="mainnav">
 
@@ -68,19 +107,18 @@
 					<li><a href="/products/neutrino-rtos/index.html">Operating Systems</a></li>
 					<li><a href="/products/multimedia/index.html">Multimedia + Acoustics</a></li>
 					<li><a href="/products/hmi/index.html">HMI + Graphics</a></li>
-					<li><a href="/products/tools/index.html">Tools</a></li>
+					<li><a href="/products/qnxcar/index.html">QNX CAR</a></li>
+					<li><a href="/products/tools/qnx-momentics.html">Tools</a></li>
 					<li><a href="/bsp_menu.html">BSP Directory</a></li>
-					<li><a href="/products/standards.html" class="drop">Standards + Certifications</a></li>
+					<li><a href="/products/certifications.html" class="drop">Certifications</a></li>
 				</ul>
 			</li>
-			
-
-
-			<li><a href="#" onclick="return false;">Services</a>
+						<li><a href="#" onclick="return false;">Services</a>
 
 				<ul id="supportdrop">
 					<li><a href="/services/index.html">Professional Services</a></li>
-					 <li><a href="/services/special_offers/index.html">Special Offers</a></li> 					<li><a href="/services/training/">Training + Education</a>
+					<!-- <li><a href="/services/special_offers/index.html">Special Offers</a></li> -->
+					<li><a href="/services/training/">Training + Education</a>
 					</li><li><a href="/services/prof_services/">Consulting + Programs</a></li>
 					<li><a href="/services/auto_solutions_team.html">Automotive Services</a></li>
 				</ul>
@@ -94,9 +132,8 @@
 					<li><a href="/solutions/industries/automotive/">Automotive</a>
 									</li>
 					<li><a href="/solutions/industries/automation/">Industrial</a></li>
-
-					<li><a href="/solutions/industries/netcom/">Networking + Telecoms</a></li>
 					<li><a href="/solutions/industries/medical/">Medical</a></li>
+					<li><a href="/solutions/industries/netcom/">Networking + Telecoms</a></li>
 					<li><a href="/solutions/industries/defense.html">Security + Defense</a></li>
 
 			</ul>
@@ -105,11 +142,13 @@
 			<li><a href="#" onclick="return false;">Partners</a>
 
 				<ul>
-					<li><a href="/partners/">Directory</a></li>
+					<li><a href="/partners/">Overview</a></li>
+					<li><a href="/partners/directory.html">Directory</a></li>
 					<li><a href="/partners/partner_network/">Program Benefits</a></li>
+					<li><a href="/partners/partner_network/why_join.html">QNX Partner Network</a></li>
 					<!--<li><a href="/partners/partner_network/join.html">Become a partner</a></li>-->
 					<li><a href="/partners/partner_network/strategic/">Strategic Partners</a></li>
-					<li><a href="/partners/partner_developer.html">Partner Product Download</a></li>
+					<li><a href="/partners/partner_developer.html">Product Download</a></li>
 
 				</ul>
 
@@ -132,9 +171,10 @@
 					<li><a href="/company/bios.html">Executive Profiles</a></li>
 					<li><a href="/company/customer_stories/">Customers</a></li>
 					<li><a href="/news/">News + Events</a></li>
-					<li><a href="/products/standards.html">Standards + Certifications</a></li>
+					<li><a href="/company/certifications.html">Certifications</a></li>
 					<li><a href="/company/industry_awards.html">Industry Awards</a></li>
 					<li><a href="/company/distributors_resellers/index.html">Distributors + Resellers</a></li>
+                    <li><a href="/company/education/">QNX-in-Education</a></li>                                 
 					<li><a href="/company/careers/">Careers</a></li>
 					<li><a href="/company/contact/">Contact Us</a></li>
 				</ul>
@@ -146,7 +186,7 @@
 				<ul id="supportdrop">
 					<li><a href="/support/index.html">Overview</a></li>
 					<li><a href="/support/support.html">Support Options</a></li>
-					<li><a href="/account/techsupport/">Support Portal</a></li>
+					<li><a href="/account/tslogin.html">Support Portal</a></li>
 					<li><a href="/support/knowledgebase.html">Knowledge Base</a></li>	<li><a href="http://community.qnx.com/">Foundry27</a></li>
 				</ul></li>
 			<li><a href="#" onclick="return false;">Downloads</a>
@@ -163,29 +203,38 @@
 			
 		
 <!--end navigation-->
+				<script type="text/javascript">
+					var sfEls = document.getElementById("mainnav").getElementsByTagName("LI");
+					for (var i=0; i<sfEls.length; i++) {
+						sfEls[i].onmouseover=function() {
+							this.className+=" sfhover";
+						}
+						sfEls[i].onmouseout=function() {
+							this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+						}
+					}
+				</script>
 				<form name="searchform" action="/search/"><input id="searchbox" name="q" type="search" value="Search" onclick="setSearch();"></form>
 
 				<div style="clear:both; visibility: hidden; height: 1px; overflow: hidden;">&nbsp;</div>
 			</div><!--nav-->
 
-
-
-			<div class="titlearea">
-			<!-- start crumbs -->
-<dl class="crumbs">
-	<dd><a href="http://www.qnx.com">Home</a></dd><dd>QNX Software Systems Privacy Statement</dd><dt>QNX Software Systems Privacy Statement</dt>
+<!-- start crumbs -->
+<div id="breadcrumbs"><dl class="crumbs">
+	<dd><a href="http://www.qnx.com">Home</a></dd><dt>QNX Software Systems Privacy Statement</dt>
 </dl>
-<!-- end crumbs -->
-		<h1>QNX Software Systems Privacy Statement</h1>
-		</div><!-- End Title Area --><dl class="sectionnav">
+</div><!-- end crumbs --><dl class="sectionnav">
 	<dd>&nbsp;</dd>
 					
 </dl>
 
-<div class="widetext">
+			<div class="titlearea">
+		  <h1 id="banner_h1" style="font-size: 24px;">QNX Software Systems Privacy Statement</h1>
+				</div><!-- End Title Area --><div class="widetext">
+
 <h3>General</h3>
   <p style="margin:0in;margin-bottom:.0001pt">QNX Software Systems
-  International Corporation and members of the QNX Software Systems Group (as
+  Limited and members of the QNX Software Systems Group (as
   defined below, collectively "QSS" or "we") respect each
   individual's ("you" or "your") right to privacy. This
   statement outlines how we collect, use, transfer and safeguard your personal
@@ -204,9 +253,10 @@
   voting stock of the entity, or in the case of a non-corporate entity, an
   equivalent interest).<span style="mso-spacerun: yes">&nbsp; </span>An entity is a
   member of the “QNX Software Systems Group” if it is Affiliated with QNX
-  Software Systems International Corporation and contains “QNX” in its name.<span style="font-size:8.0pt;mso-bidi-font-size:8.5pt;font-family:&quot;Times New Roman&quot;;
+  Software Systems Limited and contains “QNX” in its name.<span style="font-size:8.0pt;mso-bidi-font-size:8.5pt;font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:&quot;Arial Unicode MS&quot;"><span style="mso-spacerun: yes">&nbsp;
-  </span><o:p></o:p></span></p>
+  </span>
+  <o:p></o:p></span></p>
   <p style="margin:0in;margin-bottom:.0001pt">Our primary products and services
   relate to the QNX RTOS and associated development tools (and while we do not
   anticipate it, this may change). Our primary customers are businesses and, as
@@ -513,8 +563,8 @@
 	<div class="footer">
 		
 		<div class="footleft">
-			A subsidiary of Research In Motion Limited &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		All content ©2004-2010, QNX Software Systems
-		</div><!--footleft-->
+			A subsidiary of Research In Motion Limited &nbsp;&nbsp;		All content ©2004-2011, QNX Software Systems Limited
+</div><!--footleft-->
 		
 		<ul class="footright">
 		<li><a href="/search/sitemap.html">Sitemap</a></li>
@@ -532,8 +582,14 @@
 </div>
 
 <script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
-<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1737&amp;ref2=elqNone&amp;tzo=0&amp;ms=148" border="0" width="1" height="1"></layer>
+<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.asp?pps=3&amp;siteid=277&amp;ref2=elqNone&amp;tzo=0&amp;ms=328" border="0" width="1" height="1"></layer>
+<script type="text/javascript" language="javascript">
+    var gPageNavTitle = 'QNX Software Systems Privacy Statement';
 
+  // fire check to see if the page tile is to long and resize
+  checkBannerTitleSize();
+
+</script>
 
 
 
