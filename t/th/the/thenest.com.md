@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thenest.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623025235id_/http%3A//www.thenest.com/global/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenest.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221173936id_/http%3A//www.thenest.com/global/privacy.html) for the most accurate reproduction.*
 
 # - TheNest.com
 
-If you have questions or concerns regarding this statement, you should first contact The Nest Member Services by emailing [membersupport@thenest.com](mailto:membersupport@thenest.com) and writing "Privacy Policy" in the subject line. You may also write to The Nest Member Services at 462 Broadway, Floor 6, New York, NY 10013 or call (212) 219-8555.
+If you have questions or concerns regarding this statement, you should first contact The Nest Member Services by emailing [membersupport@thenest.com](mailto:membersupport@thenest.com) and writing "Privacy Policy" in the subject line. You may also write to The Nest Member Services at 195 Broadway, Floor 25, New York, NY 10007 or call (212) 219-8555.
 
 ### HOW WE COLLECT YOUR INFORMATION
 
@@ -16,13 +16,13 @@ You can browse The Nest and read our editorial content without registering or pr
 
 ### WHAT WE DO WITH THE INFORMATION WE COLLECT
 
-Information we collect from your membership helps us to improve our content, customize certain pages for you, and update you about The Nest. From time to time, The Nest does share names, postal addresses, and demographic information with other pre-screened organizations that have specific direct mail product and service offers we think may be of interest to you. You may choose at any time to remove your name and address from these mailing lists by editing your privacy preferences (see paragraph below) or by letting us know via email to [membersupport@thenest.com](mailto:membersupport@thenest.com) (please include your name, address, and email).
+Information we collect from your membership helps us to improve our content, customize certain pages for you, and update you about The Nest. From time to time, The Nest does share names, postal addresses, email addresses, and other contact and/or demographic information with other pre-screened organizations that have specific product and service offers we think may be of interest to you. You may choose at any time to remove your name and contact information from these lists by editing your privacy preferences (see paragraph below) or by letting us know via email to [membersupport@thenest.com](mailto:membersupport@thenest.com) (please include your name, address, and email).
 
 We are currently contracted with Tacoda, Inc., a third party, to track and analyze anonymous usage and browsing patterns of our visitors and customers. All data collected by Tacoda on behalf of our Web sites is owned by us. This information is used to help provide advertisers with more targeted advertising opportunities, which means that our users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. For more information about Tacoda’s privacy policy, including how to opt out, go to [www.tacoda.com/notice](http://www.tacoda.com/notice).
 
 ### CHANGING YOUR PERSONAL INFORMATION AND/OR NEWSLETTER SUBSCRIPTION
 
-You can access or update your personal information, including subscriptions to our email newsletters, at any time. To unsubscribe, you can follow the instructions on the bottom of each newsletter, edit your privacy preferences in your member profile at <http://www.thenest.com/join/memberprofile.aspx>. If you would like to deactivate you membership with The Nest, you should contact The Nest Member Services by emailing [membersupport@thenest.com](mailto:membersupport@thenest.com) and writing "Deactivate Membership" in the subject line. You may also write to The Nest Member Services at 462 Broadway, Floor 6, New York, NY 10013 or call (212) 219-8555.
+You can access or update your personal information, including subscriptions to our email newsletters, at any time. To unsubscribe, you can follow the instructions on the bottom of each newsletter, edit your privacy preferences in your member profile at <http://www.thenest.com/join/memberprofile.aspx>. If you would like to deactivate you membership with The Nest, you should contact The Nest Member Services by emailing [membersupport@thenest.com](mailto:membersupport@thenest.com) and writing "Deactivate Membership" in the subject line. You may also write to The Nest Member Services at 195 Broadway, Floor 25, New York, NY 10007 or call (212) 219-8555.
 
 ### OTHER SITES
 
