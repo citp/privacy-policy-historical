@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multiply.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127035708id_/http%3A//multiply.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiply.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221111720id_/http%3A//multiply.com/info/privacy) for the most accurate reproduction.*
 
 # Multiply
 
@@ -71,6 +71,10 @@ Multiply has implemented security measures to protect member information from lo
 The success of Multiply is directly related to your trust in our privacy practices. Although we encourage our members to share information to get the most benefit from the site, we also let you control the way certain personal information is displayed on the site. Although we provide powerful tools for you to share information, remember it is always your choice whether or not to share certain information with other Multiply members or the general public.
 
 You can change any of your personal information stored on the Multiply site at any time, whether it be the information supplied at registration (with the exception of your user ID), for your profile page or anything else. You may change information in the Setup and Profile areas. In addition, you may cancel your Multiply membership by sending us an e-mail via our [Contact](https://web.archive.org/info/contact) page. Once we process your request, we will remove your name and other personally identifiable information from our database.
+
+## Safe Shopping Policy
+
+We use a variety of information security measures to protect your online transactions with us, including encryption technology, such as Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL protects information you submit via our Web site such as ordering information including your name, address and payment information. 
 
 ## Changes to this Privacy Policy
 
