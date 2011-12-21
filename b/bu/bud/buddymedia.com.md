@@ -1,50 +1,86 @@
-> *The following text is extracted and transformed from the buddymedia.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120073158id_/http%3A//www.buddymedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buddymedia.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221013920id_/http%3A//www.buddymedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Home » Buddy Media
 
-**Buddy Media, Inc. ("Buddy Media") has prepared this Privacy Policy to explain our  
-policy regarding Personal data that is collected on or through our website ("Site"). All capitalized terms shall have the meaning defined herein.**
+Effective Date: September 1, 2011
 
-**Personal Data:** We collect personal data from You, the user, when You voluntarily choose to register with Buddy Media. We use the personal data that we collect in order to provide and improve our services, and as otherwise set forth in this Privacy Policy and in any applicable service-specific agreement, such as the Terms and Conditions for Publishers or the Terms and Conditions for Advertisers. Examples of personal data include first name, last name, address, email address, telephone number, birth date, billing and credit card information.
+Buddy Media, Inc. ("Buddy Media") respects your concerns about privacy. This Online Privacy Policy applies to personal information we collect on buddymedia.com (the "Site"). The Online Privacy Policy describes the types of personal information we collect, how we use the information, with whom we share it and the choices you can make about our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
 
-**Use of Personal Data:** Buddy Media uses the personal data You provide in a manner that is  
-consistent with this Privacy Policy or with any applicable service-specific agreement. If You provide personal data for a certain reason, we may use the personal data in connection with the reason for which it was provided. For instance, we will use the personal data You input during the registration process to administer access to the Site. Buddy Media and its affiliates also use your personal data and other personally non-identifiable information collected through the Site to help us improve the content and functionality of the Site, to better understand the users of our  
-Site, and to improve our services.
+Click on one of the links below to jump to the listed section:
 
-**Personally Non-Identifiable Information:** We may collect personally non-identifiable information from You at the time of registration, or when You choose to use certain of our services. This information is not, by itself, sufficient to identify or contact you. Examples include demographic data, age, education level, profession or gender. Buddy Media may store such information, or it may be included in databases owned and maintained by Buddy Media's affiliates, agents or service providers. This Site may use such information and pool it with other information to track, for example, the total number of visitors to our Site and the domain names of our visitors' Internet service providers. It is important to note that no personal data is available or used in this process.
-
-**Passively Collected Information:** When You interact with us through the Site, we receive and store certain additional personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Examples include IP addresses, browser types, domain names, and other anonymous statistical data involving your use of the Site and/or our services.
-
-**Aggregated Personal Data:** In an ongoing effort to better understand our users, we might analyze the personal data that is provided to the Site in aggregate form. This aggregate information does not identify You personally. We may share this aggregate data with our affiliates, agents and business partners. We may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
-
-**Cookies:** In operating this Site, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Site gives to your computer when You access a website. Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately.
-
-**Sharing Information:** Buddy Media may share your personal data with certain third parties without notice to You under certain circumstances, including those set forth below:
-
-  * Agents, Consultants and Related Third Parties: Buddy Media, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
-  * Business Partners: Buddy Media may aggregate your personal data with personal data of other  
-users, and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing and promotional purposes. In these situations, Buddy Media will not disclose to these entities any information that could be used to  
-identify You personally.
-  * Legal Requirements: Buddy Media may disclose your personal data if required to do so by law or in the good faith belief that such action is necessary to (a) comply with a legal obligation, (b) protect and defend the rights or property of Buddy Media, (c) act in urgent circumstances to protect  
-the personal safety of users of the Site or the public, or (d) protect against legal liability.
-  * Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, personal data may be part of the transferred assets.
+  * [Information We Collect](https://web.archive.org/privacy-policy/#collect)
+  * [How We Use the Information We Collect](https://web.archive.org/privacy-policy/#information)
+  * [Sharing of Information](https://web.archive.org/privacy-policy/#sharing)
+  * [Your Rights and Choices](https://web.archive.org/privacy-policy/#rights)
+  * [Data Transfers](https://web.archive.org/privacy-policy/#data)
+  * [Protection of Personal Information](https://web.archive.org/privacy-policy/#personal)
+  * [Links to Other Websites](https://web.archive.org/privacy-policy/#links)
+  * [Updates to Our Online Privacy Policy](https://web.archive.org/privacy-policy/#updates)
+  * [How to Contact Us](https://web.archive.org/privacy-policy/#contact)
 
 
 
-**Minor:** Buddy Media does not knowingly collect personal data from minors under the age of 18 through this Site. If You are under 18, please do not give us any Personal data.
+#### Information We Collect
 
-**Links to Other Web Sites:** This Privacy Policy applies only to this Site and not to any third-party sites.
+We may obtain certain personal information you submit to us through our Site, including contact information (such as name, postal address, email address and telephone number). In addition, we offer visitors to our Site various services, which we may change from time to time. We may ask you to submit certain personal information so we can provide you with these services.
 
-**Security:** We take commercially reasonable steps to protect Personal data provided to this Site and to protect such information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from this Site may not be secure, and You should therefore take special care in deciding what information You send to us via e-mail.
+When you visit our Site, information may be collected through automated technologies such as cookies, web server logs and web beacons. A "cookie" is a file that websites send to a visitor's computer or other Internet-connected device to uniquely identify the visitor's browser or to store information or settings in the browser. A "web beacon," also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. The information collected using these tools may include your IP address, browser characteristics, operating system, the address of the web page that referred you to our Site, dates and times of Site visits, the language your system uses, and the country and time zone in which your device is located. These technologies permit the collection of "clickstream data," which may include a log of content you access while browsing a website.
 
-**Other Terms and Conditions:** We reserve the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before You provide any personal data. This Privacy Policy was last updated on December 10, 2008. Your continued use of the Site or our services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+On our Site, we use third-party web analytics services, such as those of Google Analytics. The service providers that administer these services may use technologies such as cookies, web server logs and web beacons to help analyze how visitors arrive at and interact with the Site. The information collected through these means (including IP address) is disclosed to or collected directly by these service providers. To learn more about the Google Analytics Opt-out Browser Add-on, [click here](http://tools.google.com/dlpage/gaoptout).
 
-**Access to Information:** To keep your personal data accurate, current, and complete, please contact us as specified below. We will exercise commercially reasonable efforts to update or correct Personal data in our possession that You have previously submitted via this Site.
+#### How We Use the Information We Collect
 
-**Opt-Out Policy:** If, at any time after registering, You change your mind about receiving information from us or about the use of information volunteered by You, please send us a request specifying your new choice. Please contact us as specified below.
+We may use the information we obtain about you to:
 
-**Update Your Information:** If, at any time after registering, You want to modify the personally identifiable information previously provided, please contact us as specified below. Users can expect to receive a response to any such update request within thirty (30) days of Buddy Media's receipt of the same.
+  * Provide, administer and communicate with you about products, services, events and promotions (including by sending you marketing communications); 
+  * process, evaluate and respond to your requests, inquiries and comments; 
+  * operate, evaluate and improve our business (including developing new products and services; managing our communications; performing market research; determining and managing the effectiveness of our advertising and marketing; analyzing our products, services and websites; and administering our websites); 
+  * protect against and prevent fraud, unauthorized activities, claims and other liabilities; and 
+  * comply with and enforce applicable legal requirements, industry standards and our policies and terms. 
 
-**How to Contact Us:** Please contact us if You have any questions about this Privacy Policy or the information practices of Buddy Media with respect to personal data collected from this Site. You may contact us by going to <http://www.buddymedia.com/contact> and completing the online email form.
 
-Last updated: December 10, 2008
+
+We also may use the information in other ways for which we provide specific notice at the time of collection. 
+
+#### Sharing of Information
+
+We do not sell or otherwise disclose personal information we collect on our Site, except as described here. We may share the information with our service providers who perform services on our behalf. These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. 
+
+In addition, we may disclose information about you (i) if we are required to do so by law or legal process (such as a court order), (ii) in response to a request by law enforcement authorities, (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or (iv) in connection with an investigation of suspected or actual illegal activity. We also reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us on our Site in a manner that is consistent with our Online Privacy Policy.
+
+#### Your Rights and Choices
+
+We offer you certain choices about how we communicate with you and what information we collect from you. You may contact us as described in the How to Contact Us section below to update your preferences, ask us to remove your information from our mailing lists or submit other requests.
+
+#### Data Transfers
+
+We may transfer the personal information we collect about you to countries other than the country in which the information was originally collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Privacy Policy and in accordance with applicable law.
+
+If you are located in the European Economic Area (“EEA”) or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal information to countries outside the EEA or Switzerland. Buddy Media is certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce, European Commission and Switzerland regarding the collection, storage, use, transfer and other processing of personal data transferred from the EEA or Switzerland to the U.S. Click here to view our [Safe Harbor Privacy Policy ](https://web.archive.org/safe-harbor)
+
+#### Protection of Personal Information
+
+We maintain administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
+
+#### Links to Other Websites
+
+Our Site may provide links to other websites for your convenience and information. These websites may operate independently from Buddy Media. The websites may have their own Privacy Policies or policies, which we strongly suggest you review if you visit any linked websites or pages containing content hosted by other websites. To the extent such websites are not owned or controlled by Buddy Media, we are not responsible for the websites' content, any use of the websites, or the privacy practices of the websites.
+
+#### Updates to Our Online Privacy Policy
+
+This Online Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post the updated version on this page, and indicate at the top of the notice when it was most recently updated.
+
+#### How to Contact Us
+
+If you have any questions or comments about this Online Privacy Policy, or if you would like us to update information we have about you or your preferences, please contact us by:
+
+  * Using the [Contact Us](http://www.buddymedia.com/contact) form on the Site
+  * Calling us at 646-380-7300 or 888-90-Buddy
+  * Writing to us at:  
+Buddy Media, Inc.  
+Attention: Steven Oh  
+360 W. 31st Street  
+12th Floor  
+New York, NY 10001 
+
+
