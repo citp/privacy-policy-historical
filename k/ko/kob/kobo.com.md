@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kobo.com privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226002510id_/http%3A//www.kobobooks.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kobo.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221202808id_/http%3A//www.kobo.com/privacypolicy) for the most accurate reproduction.*
 
 # Kobobooks.com: Privacy Policy
 
-Last updated on October 13th, 2010
+Last updated on May 4th, 2011
 
 Kobo Inc.(referred to herein as "We", "Our" or "Us") considers the protection of your personal information a top priority when you ("You" or "Your") use Our Kobo Service. If You decide to access the Kobo Service, Your visit and any dispute over privacy is subject to this Privacy Policy and Our [Terms and Conditions](https://web.archive.org/termsofuse) of Use. Our Policy regarding the collection, use and disclosure, if any, of personal information can be broken down into the 10 principles covered in Canada's Personal Information Protection and Electronic Documents Act ("PIPEDA"). 
 
@@ -76,6 +76,7 @@ Kobo Inc.(referred to herein as "We", "Our" or "Us") considers the protection of
   * Consent can be express or, in some circumstances, implied, and given in writing, by using or not using a check-off box, electronically, orally (in person or by telephone), or by Your conduct, such as use of a product or service. 
   * In determining the type of consent to obtain, We will consider all relevant factors, including the sensitivity of the information and Your reasonable expectations. 
   * You may withdraw Your consent at any time, on reasonable notice, subject to legal or contractual restrictions. We will inform You of the implications of doing so. Your withdrawal will apply to future collection, use or disclosure only.
+  * If you are a resident of Canada or the United States, you acknowledge and agree that Kobo shall have the right to share with Indigo Books & Music Inc. ("Indigo"), a trusted third party of Kobo, the personal information about you described below and collected by Kobo and that Indigo may analyze and use such information for the purpose of: marketing Indigo products to you; use in Indigo customer relationship management programs; conducting internal research to understand your needs and preferences; developing, marketing and presenting to you promotions and offers which Indigo may determine you would be interested in; and for purposes of integration with Indigo's loyalty programs. For these purposes, "personal information" will comprise: your name, contact information, search and purchase history.
 
 
   * Our collection of personal information will be limited to what is necessary for the purposes set out in this Policy or which we otherwise identify at or before the time of collection.
@@ -131,7 +132,7 @@ M6K 1A7
 We will inform individuals who make enquiries or lodge complaints about Our enquiry or complaint procedures, as applicable. If a complaint is found to be justified, We will take appropriate measures, including, if necessary, amending Our policies and practices.
 
 **Effective Date of this Privacy Policy**  
-This Privacy Policy is effective as of December 15th, 2009 and last updated October 13th, 2010. 
+This Privacy Policy is effective as of December 15th, 2009 and last updated May 4th, 2011. 
 
 **Changes to this Privacy Policy**  
 This Policy is subject to PIPEDA and/or any other applicable privacy laws and Our right to amend this Policy from time to time, in Our sole discretion. By using the Kobo Website, You signify Your agreement to this Policy. If We make material changes to this Policy, We will notify You by posting an announcement on the Kobo Website. Changes to this Policy will become effective when those changes are posted to the Kobo Website. Your continued use of the Kobo Website and Kobo Service following the posting of any changes to this Policy shall constitute Your acceptance of those changes. 
