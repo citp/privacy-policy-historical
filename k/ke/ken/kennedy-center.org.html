@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kennedy-center.org privacy policy that was archived on 2011-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110515180631id_/http%3A//www.kennedy-center.org/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kennedy-center.org privacy policy that was archived on 2011-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111222004008id_/http%3A//www.kennedy-center.org/legal/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><!-- #BeginTemplate "/Templates/kctemplate.dwt" --><!-- DW6 --><head>
 <!-- #BeginEditable "mainstylesheet" -->
@@ -37,24 +37,36 @@
 			<script language="JavaScript" src="/javascript.js" type="text/javascript"></script>
 			<script language="javascript" src="/templates/AC_ActiveX.js" type="text/javascript"></script>
 			<script language="javascript" src="/templates/AC_RunActiveContent.js" type="text/javascript"></script>
-		<link rel="stylesheet" type="text/css" href="/stylesheets/resetdefault.css"><link rel="stylesheet" type="text/css" href="/stylesheets/winstyles.css">
- 
- <!-- Dependencies -->
-<script type="text/javascript" src="/scripts/yui/build/yahoo-dom-event/yahoo-dom-event.js"></script>
-<script type="text/javascript" src="/scripts/yui/build/container/container-min.js"></script>
-<!-- Source File -->
-<script type="text/javascript" src="/scripts/yui/build/menu/menu-min.js"></script>
+		<link rel="stylesheet" type="text/css" href="/stylesheets/resetdefault.css"><link rel="stylesheet" type="text/css" href="/stylesheets/winstyles.css"><script type="text/javascript" language="javascript" src="/scripts/jQuery/jquery.js"></script><script type="text/javascript" language="javascript" src="/scripts/jQuery/hoverintent/jquery.hoverIntent.minified.js"></script>
+   
+   <script type="text/javascript">
+       $(document).ready(function () {
 
-<script type="text/javascript">
-YAHOO.example.onMenuBarReady = function() {
-	// Instantiate and render the menu bar
-	var oMenuBar = new YAHOO.widget.MenuBar("basicmenu", { autosubmenudisplay:true/*, x:39, width:770, height:15*/, hidedelay:250, lazyload:true, zindex:9000});
-	oMenuBar.render();
-};
+           function megaHoverOver() {
+               $(this).find(".sub").stop().fadeTo('fast', 1).show();
+           }
 
-// Initialize and render the menu bar when it is available in the DOM
-YAHOO.util.Event.onContentReady("basicmenu", YAHOO.example.onMenuBarReady);
-</script>
+           function megaHoverOut() {
+               $(this).find(".sub").stop().fadeTo('fast', 0, function () {
+                   $(this).hide();
+               });
+           }
+
+           var config = {
+               sensitivity: 2, // number = sensitivity threshold (must be 1 or higher)    
+               interval: 100, // number = milliseconds for onMouseOver polling interval    
+               over: megaHoverOver, // function = onMouseOver callback (REQUIRED)    
+               timeout: 500, // number = milliseconds delay before onMouseOut    
+               out: megaHoverOut // function = onMouseOut callback (REQUIRED)    
+           };
+
+           $("ul#topnav li .sub").css({ 'opacity': '0' });
+           $("ul#topnav li").hoverIntent(config);
+
+       });
+
+   </script>
+
 
 <script type="text/javascript">
 
@@ -76,7 +88,14 @@ var winpops=window.open(popurl,"","toolbar=0,scrollbars=0,location=0,statusbar=0
 </div>
  
 
-
+   <div id="tabmenu" class="kc">
+   <ul>
+   <li class="kc"><a href="/">The Kennedy Center</a></li>
+   <li class="nso"><a href="/nso/">National Symphony Orchestra</a></li>
+   <li class="wno"><a href="/wno/">Washington National Opera</a></li>
+   <li class="sfb"><a href="/programs/ballet/farrell/">The Suzanne Farrell Ballet</a></li>
+   </ul>
+   </div>
 <div id="topheader">
 
 	
@@ -99,8 +118,7 @@ var winpops=window.open(popurl,"","toolbar=0,scrollbars=0,location=0,statusbar=0
       </div>
       
       
-   <div id="tabmenu" class="kc"><ul><li class="kc"><a href="/">The Kennedy Center</a></li><li class="nso"><a href="/nso/">National Symphony Orchestra</a></li><li class="edu"><a href="/education/">Education</a></li><li class="pao"><a href="/explorer/">Explore the Arts</a></li></ul>
-   </div>
+
  
 	<div id="header_image">
 		<a href="/index.cfm" title="[Return to The John F. Kennedy Center for the Performing Arts home page.]"></a>
@@ -124,10 +142,8 @@ var winpops=window.open(popurl,"","toolbar=0,scrollbars=0,location=0,statusbar=0
 		
 
 
-
-
 <style type="text/css"> 
-      	.tools  {display:inline;  float:right; margin-top:35px; padding-top:5px;}
+      	.tools  {display:inline;  float:right;  padding-top:5px;}
 		.tools.sidenote {/*width:20%;*/ position:relative;}
 		
        a.fb_share_link, a.d_share_link, a.li_share_link, a.rss_share_link, a.email_link, a.print_link {
@@ -171,16 +187,18 @@ var winpops=window.open(popurl,"","toolbar=0,scrollbars=0,location=0,statusbar=0
 
 
 
-
 <!-- AddThis Button BEGIN -->
 <script type="text/javascript">
+	var addthis_config = {
+		pubid: "thekennedycenter"
+	}
 	addthis_pub  = 'thekennedycenter';
 	var addThisJsHost = (("https:" == document.location.protocol) ? "https://secure.addthis.com" : "http://s7.addthis.com");
-	document.write(unescape("%3Cscript src='" + addThisJsHost + "/js/152/addthis_widget.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://secure.addthis.com/js/152/addthis_widget.js" type="text/javascript"></script>
+	document.write(unescape("%3Cscript src='" + addThisJsHost + "/js/250/addthis_widget.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://secure.addthis.com/js/250/addthis_widget.js" type="text/javascript"></script>
 
 
-<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()" class="d_share_link">Share</a>
+<a href="http://www.addthis.com/bookmark.php?v=250" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()" class="d_share_link">Share</a>
 <!-- AddThis Button END -->
 
 
@@ -200,149 +218,266 @@ var winpops=window.open(popurl,"","toolbar=0,scrollbars=0,location=0,statusbar=0
 
 
 
+
 <div id="menubg">
-          <div id="basicmenu" class="yuimenubar menu yui-module yui-overlay visible" style="position: static; display: block; z-index: 9000;">
-    <div class="bd" style="height: auto; overflow: visible;"> 
-        <ul class=" first-of-type">
-          <li class="yuimenubaritem hassubmenu first-of-type" id="yui-gen1" groupindex="0" index="0"><a href="/calendar/" target="_top" class=" hassubmenu">Performances</a> 
-            <em class="submenuindicator">Submenu collapsed.  Click to expand submenu.</em><div class="yuimenu yui-module yui-overlay" id="yui-gen0" style="z-index: 1; position: absolute; visibility: hidden;">
-              <div class="bd" style="height: auto; overflow: visible;">
-                <ul>
-                  <li class="yuimenuitem"><a href="/calendar/" target="_top">Calendar</a></li>
-                  <li class="yuimenuitem"><a href="/calendar/?fuseaction=thisWeek" target="_top">Display this Week</a></li>
-                  <li class="yuimenuitem"><a href="/calendar/?fuseaction=showMonth" target="_top">Display this Month</a></li>
-                  <li class="yuimenuitem"><a href="/calendar/?fuseaction=showAlpha" target="_top">Event Listing</a></li>
-                  <li class="yuimenuitem"><a href="/calendar/?fuseaction=searchGenre&amp;genre=BAL" target="_top">Ballet</a></li>
-                  <li class="yuimenuitem"><a href="/calendar/?fuseaction=searchGenre&amp;genre=CHA" target="_top">Chamber Music</a></li>
-                  <li class="yuimenuitem"><a href="/calendar/?fuseaction=searchGenre&amp;genre=DAN" target="_top">Dance</a></li>
-                  <li class="yuimenuitem"><a href="/calendar/?fuseaction=searchGenre&amp;genre=FAM" target="_top">Family</a></li>
-                  <li class="yuimenuitem"><a href="/calendar/?fuseaction=searchGenre&amp;genre=JAZ" target="_top">Jazz</a></li>
-                  <li class="yuimenuitem"><a href="/programs/millennium/schedule.html" target="_top">Millennium Stage</a></li>
-                  <li class="yuimenuitem"><a href="/calendar/?fuseaction=searchGenre&amp;genre=NSO" target="_top">National Symphony</a></li>
-                  <li class="yuimenuitem"><a href="/calendar/?fuseaction=searchGenre&amp;genre=OPR" target="_top">Opera</a></li>
-                  <li class="yuimenuitem"><a href="/calendar/?fuseaction=searchGenre&amp;genre=THT" target="_top" class="bottom">Theater</a></li>
-                </ul>
-              </div>
-              
-            </div>
-            
-          </li>
+    <div id="basicmenu" class="menu">
+    <!-- <div class="bd">  -->
+        <ul id="topnav">
+            <li><a href="/calendar/" target="_top" class="performances">Performances</a> 
+                <div class="sub" style="opacity: 0;">
+                  <h3>Performances</h3>
+                    <div class="mn-columns">
+                    <h4><a href="/calendar/" target="_top">Search by Date</a></h4>
+                        <ul>
+                            <li><a href="/calendar/" target="_top">Full Calendar</a></li>
+                            <li><a href="/calendar/?fuseaction=thisWeek" target="_top">Display this Week</a></li>
+                            <li><a href="/calendar/?fuseaction=showMonth" target="_top">Display this Month</a></li>
+                            <li><a href="/calendar/?fuseaction=showAlpha" target="_top">Chronological Listing</a></li>
+                        </ul>
+                        <h4><a href="/programs/galas/" target="_top">Annual Events</a></h4>
+                        <ul>
+                            <li><a href="/programs/specialevents/honors/" target="_top"> Kennedy Center Honors</a></li>
+                            <li><a href="/programs/specialevents/marktwain/" target="_top"> Mark Twain Prize</a></li>
+                            <li><a href="/programs/specialevents/gala/" target="_top"> Kennedy Center Spring Gala</a></li>
+                            <li><a href="/support/membership/circles/nsoball/" target="_top">NSO Season Opening Ball</a></li>
+                            <li><a href="/wno/outreach/simulcast/index.cfm" target="_top"> Opera in the Outfield Simulcast</a></li>
+                        </ul>     
+                    </div>
+                    <div class="mn-columns">
+                        <h4><a href="/programs/" target="_top">Search by Category</a></h4>
+                        <ul>
+                            <li><a href="/calendar/?fuseaction=searchGenre&amp;genre=BAL" target="_top">Ballet</a></li>
+                            <li><a href="/calendar/?fuseaction=searchGenre&amp;genre=CHA" target="_top">Chamber Music</a></li>
+                            <li><a href="/calendar/?fuseaction=searchGenre&amp;genre=CLA" target="_top">Classical</a></li>
+                            <li><a href="/calendar/?fuseaction=searchGenre&amp;genre=DAN" target="_top">Dance</a></li>
+                            <li><a href="/calendar/?fuseaction=searchGenre&amp;genre=LSR" target="_top">Lectures &amp; Artist Discussions</a></li>
+                            <li><a href="/programs/festivals/" target="_top">Festivals</a></li>
+                            <li><a href="/calendar/?fuseaction=searchGenre&amp;genre=JAZ" target="_top">Jazz</a></li>
+                            <li><a href="/calendar/?fuseaction=searchGenre&amp;genre=OPR" target="_top">Opera</a></li>
+                            <li><a href="/calendar/?fuseaction=searchGenre&amp;genre=POP" target="_top">Pops</a></li>
+                            <li><a href="/calendar/?fuseaction=searchGenre&amp;genre=THT" target="_top">Theater</a></li>
+                            <li><a href="/calendar/?fuseaction=searchGenre&amp;genre=VOC" target="_top">Vocal Concerts</a></li>
+                            <li><a href="/calendar/?fuseaction=searchGenre&amp;genre=FAM" target="_top">Young Audiences</a></li>
+                        </ul>
+                    </div>
+
+                     <div class="mn-column-wide">   
+                      <h4>Visit these areas of our website:</h4>                    
+                       <ul>
+                       <li class="mn-row">
+                       <a href="/nso/" target="_top"><img src="/images/menu/logoNso.gif" alt="National Symphony Orchestra"> </a>
+                        </li>
+                        <li class="mn-row">
+                        <a href="/wno/" target="_top"> <img src="/images/menu/logoWno.png" alt="Washington National Opera" class="left"></a>
+
+                        </li>                      <li class="mn-row">
+                        <a href="/programs/millennium/" target="_top"><img src="/images/menu/logoMillennium.gif" alt="Millennium Stage"></a> 
+                        </li>
+</ul>
+                    </div>
+                </div>
+            </li>
+            <li><a href="/tickets/" target="_top">Tickets</a>
+                <div class="sub" style="opacity: 0;">
+                <h3>Tickets</h3>
+                    <div class="mn-columns">
+                    <h4><a href="/tickets/" target="_top">Buy a Ticket</a></h4>
+                        <ul>
+                            <li><a href="/calendar/" target="_top">Single Tickets</a></li>
+                            <li><a href="/tickets/groupsales/" target="_top">Group Sales</a></li>
+                            <li><a href="/offers/mytix/" target="_top">MyTix</a></li>
+                            <li><a href="/tickets/giftcertificates.html" target="_top">Gift Certificates</a></li>
+                        </ul>
+                    </div>
+                    <div class="mn-columns">
+                        <h4><a href="/tickets/subscriptions/" target="_top">Subscribe</a></h4>
+                        <p class="mn-text">Our subscription packages enable you to guarantee your seats to all of the best Kennedy Center performances.</p>
+                        <a href="/tickets/subscriptions/" target="_top" class="link_btn">Browse Packages</a>
+                    </div>
+                    <div class="mn-columns">
+                    <h4><a href="/contact/topic.cfm?topic_id=1" target="_top">Customer Help</a></h4>
+                        <ul>
+                            <li><a href="/contact/topic.cfm?topic_id=1" target="_top">FAQ about Tickets</a></li>
+                            <li><a href="/tickets/seating.html" target="_top">Seating Charts</a></li>      
+                        </ul>
+                    </div>
+
+                    <div class="mn-columns">
+                        <h4><a href="/tickets/" target="_top">Box Office</a></h4>
+                        <p class="mn-text">(202) 467-4600<br>
+                        Toll-free (800) 444-1324<br>
+                        TTY (202) 416-8524<br><br>
+                        <b>Hours</b><br>
+                        Monday-Saturday, 10 a.m.-9 p.m.
+                        Sundays and Holidays noon-9 p.m.</p>
+                    </div>
+                </div>
+            </li>
+
+            <li><a href="/support/membership/" target="_top">Contribute</a>
+                <div class="sub" style="opacity: 0;">
+                <h3>Contribute</h3>
+                    <div class="mn-column-wide">
+                        <h3><em>Give Now</em></h3>
+                         
+                <p><a href="/support/membership/" title="contributions">
+                <strong><img src="/images/support/membership/december_mmonth_small.gif" alt="December is Membership Month!"></strong></a></p>
           
-          <li class="yuimenubaritem hassubmenu" id="yui-gen3" groupindex="0" index="1"><a href="/tickets/" target="_top" class=" hassubmenu">Tickets</a>
-            <em class="submenuindicator">Submenu collapsed.  Click to expand submenu.</em><div class="yuimenu yui-module yui-overlay" id="yui-gen2" style="z-index: 1; position: absolute; visibility: hidden;">
-              <div class="bd" style="height: auto; overflow: visible;">
-                <ul>
-                  <li class="yuimenuitem"><a href="/calendar/" target="_top">Single Tickets</a></li>
-                  <li class="yuimenuitem"><a href="/tickets/subscriptions/" target="_top">Subscriptions</a></li>
-                  <li class="yuimenuitem"><a href="/tickets/seating.html" target="_top">Seating Charts</a></li>
-                  <li class="yuimenuitem"><a href="/tickets/giftcertificates.html" target="_top">Gift Certificates</a></li>
-                  <li class="yuimenuitem"><a href="/tickets/groupsales/" target="_top" class="bottom">Group Sales</a></li>
-                </ul>
-              </div>
-              
-            </div>
             
-          </li>
-          
-          <li class="yuimenubaritem hassubmenu" id="yui-gen5" groupindex="0" index="2"><a href="/programs/" target="_top" class=" hassubmenu">Programs</a>
-            <em class="submenuindicator">Submenu collapsed.  Click to expand submenu.</em><div class="yuimenu yui-module yui-overlay" id="yui-gen4" style="z-index: 1; position: absolute; visibility: hidden;">
-              <div class="bd" style="height: auto; overflow: visible;">
-                <ul>
-                  <li class="yuimenuitem"><a href="/programs/awards/" target="_top">Awards</a></li>
-                  
-                          <li class="yuimenuitem"><a href="/programs/ballet/" target="_top">Ballet</a></li>
-                  <li class="yuimenuitem"><a href="/programs/dance/" target="_top">Dance</a></li>
-                  <li class="yuimenuitem"><a href="/programs/etcetera/" target="_top">Etcetera</a></li>
-                  <li class="yuimenuitem"><a href="/programs/plus/" target="_top">Explore the Arts <br><small>(formerly Performance Plus)</small></a></li>
-                  <li class="yuimenuitem"><a href="/programs/festivals/" target="_top">Festivals</a></li>
-                  <li class="yuimenuitem"><a href="/programs/fortas/" target="_top">Fortas Chamber Music</a></li>
-                  <li class="yuimenuitem"><a href="/programs/jazz/" target="_top">Jazz</a></li>
-                  <li class="yuimenuitem"><a href="/programs/millennium/" target="_top">Millennium Stage</a></li>
-                  <li class="yuimenuitem"><a href="/nso/" target="_top">National Symphony Orchestra</a></li>
-                  <li class="yuimenuitem"><a href="/programs/galas/" target="_top">Special Events</a></li>
-                          <li class="yuimenuitem"><a href="/programs/ballet/farrell/" target="_top">The Suzanne Farrell Ballet</a></li>
-                       
-                  
-                  <li class="yuimenuitem"><a href="/programs/theater/" target="_top">Theater</a></li>
-                  <li class="yuimenuitem"><a href="/programs/family/" target="_top" class="bottom">Young Audiences</a></li>
-                </ul>
-              </div>
-              
-            </div>
-            
-          </li>
-          
-          <li class="yuimenubaritem hassubmenu" id="yui-gen7" groupindex="0" index="3"><a href="/support/" target="_top" class=" hassubmenu">Contribute</a>
-            <em class="submenuindicator">Submenu collapsed.  Click to expand submenu.</em><div class="yuimenu yui-module yui-overlay" id="yui-gen6" style="z-index: 1; position: absolute; visibility: hidden;">
-              <div class="bd" style="height: auto; overflow: visible;">
-                <ul>
-                  <li class="yuimenuitem"><a href="/support/membership/" target="_top">Individual Support</a></li>
-                  <li class="yuimenuitem"><a href="/support/corporate/" target="_top">Corporate Support</a></li>
-                  <li class="yuimenuitem"><a href="http://www.legacy.vg/72/giving/1.html" target="_top">Charitable Estate Planning</a></li>
-                  <li class="yuimenuitem"><a href="/nso/support/" target="_top">NSO Support</a></li>
-                  <li class="yuimenuitem"><a href="/support/volunteers/" target="_top">Volunteering</a></li>
-                  <li class="yuimenuitem"><a href="/jobs/" target="_top">Employment</a></li>
-                  
-                    <li class="yuimenuitem"><a href="/education/artsmanagement/" target="_top" class="bottom">Fellowships &amp; Internships</a></li>
-                  
-                </ul>
-              </div>
-              
-            </div>
-            
-          </li>
-          
-          <li class="yuimenubaritem hassubmenu" id="yui-gen9" groupindex="0" index="4"><a href="/visitor/" target="_top" class=" hassubmenu">Visit</a>
-            <em class="submenuindicator">Submenu collapsed.  Click to expand submenu.</em><div class="yuimenu yui-module yui-overlay" id="yui-gen8" style="z-index: 1; position: absolute; visibility: hidden;">
-              <div class="bd" style="height: auto; overflow: visible;">
-                <ul>
-                  <li class="yuimenuitem"><a href="/accessibility/maps.html" target="_top">Map of Center</a></li>
-                  <li class="yuimenuitem"><a href="/visitor/directions.html" target="_top">Directions and Parking</a></li>
-                  <li class="yuimenuitem"><a href="/giftshop/" target="_top">Gift Shop</a></li>
-                  <li class="yuimenuitem"><a href="/visitor/tours.html" target="_top">Guided Tours</a></li>
-                  <li class="yuimenuitem"><a href="/visitor/restaurants/" target="_top">Restaurants</a></li>
-                  <li class="yuimenuitem"><a href="/visitor/hotels.cfm" target="_top">Hotels</a></li>
-                  <li class="yuimenuitem"><a href="/accessibility/" target="_top" class="bottom">Accessibility</a></li>
-                </ul>
-              </div>
-              
-            </div>
-            
-          </li>
-          
-          <li class="yuimenubaritem hassubmenu" id="yui-gen11" groupindex="0" index="5"><a href="/about/" target="_top" class=" hassubmenu">About</a>
-            <em class="submenuindicator">Submenu collapsed.  Click to expand submenu.</em><div class="yuimenu yui-module yui-overlay" id="yui-gen10" style="z-index: 1; position: absolute; visibility: hidden;">
-              <div class="bd" style="height: auto; overflow: visible;">
-                <ul>
-                  <li class="yuimenuitem"><a href="/about/welcome.html" target="_top">Welcome</a></li>
-                  <li class="yuimenuitem"><a href="/about/performances.html" target="_top">The Performances</a></li>
-                  <li class="yuimenuitem"><a href="/about/history.html" target="_top">History of the Living Memorial</a></li>
-                  <li class="yuimenuitem"><a href="/about/virtual_tour/" target="_top">Virtual Tour</a></li>
-                  <li class="yuimenuitem"><a href="/eventplanning/" target="_top">Private Event Planning</a></li>
-                  <li class="yuimenuitem"><a href="/theaterrental/" target="_top">Theater Rental</a></li>
-                  <li class="yuimenuitem"><a href="/states/" target="_top">Around the Nation</a></li>
-                  <li class="yuimenuitem"><a href="/about/constituents.html" target="_top">Artistic Constituents</a></li>
-                  <li class="yuimenuitem"><a href="/about/commissions.html" target="_top">New Works &amp; Commissions</a></li>
-                  <li class="yuimenuitem"><a href="https://www.kennedy-center.org/secure/epatron/press/" target="_top">Press Office</a></li>
-                  <li class="yuimenuitem"><a href="/about/administration.html" target="_top">Administration</a></li>
-                  <li class="yuimenuitem"><a href="/jobs/" target="_top">Employment</a></li>
-                  <li class="yuimenuitem"><a href="/education/artsmanagement/" target="_top" class="bottom">Fellowships &amp; Internships</a></li>
-                </ul>
-              </div>
-              
-            </div>
-            
-          </li>
-          
+                        
+                        <div class="mn-contribute"><a href="/support/membership/" target="_top" class="mn_contribute_btn">Contribute Now!</a></div>
+                    </div>
+                    <div class="mn-columns">
+                        <h4><a href="/support/membership/" target="_top">Support Us</a></h4>
+                            <ul>
+                                <li><a href="/support/membership/" target="_top">Individual Support</a></li>
+                                <li><a href="/support/corporate/" target="_top">Corporate Support</a></li>
+                                <li><a href="http://www.legacy.vg/72/giving/1.html" target="_top">Charitable Estate Planning</a></li>
+                            </ul>
+                    </div>
+                    <div class="mn-columns">
+                    <h4><a href="/support/volunteers/" target="_top">Get Involved</a></h4>
+                        <ul>
+                            <li><a href="/support/volunteers/" target="_top">Volunteering</a></li>
+                            <li><a href="/jobs/" target="_top">Employment</a></li>
+                            
+                            <li><a href="/education/artsmanagement/" target="_top" class="bottom">Fellowships &amp; Internships</a></li>
+                            
+                          <li class="mn-now">
+                            <a href="http://www.kennedy-center.org/contact/topic.cfm?topic_id=14">Contact Us Now!</a>
+                          </li>
+                        </ul>
+                    </div>
+                </div>
+                </li>
+            <li><a href="/visitor/" target="_top">Visit</a>
+                <div class="sub" style="opacity: 0;">
+                <h3>Visit</h3>
+                    <div class="mn-columns">
+                    <h4><a href="/visitor/directions.html" target="_top">The Kennedy Center</a></h4>
+                        <ul>
+                            <li><a href="/accessibility/maps.html" target="_top">Map of Center</a></li>
+                            <li><a href="/visitor/directions.html" target="_top">Directions and Parking</a></li>
+                            <li><a href="/giftshop/" target="_top">Gift Shop</a></li>
+                            <li><a href="/visitor/tours.html" target="_top">Guided Tours</a></li>
+                            <li><a href="/accessibility/" target="_top">Accessibility</a></li>
+                        </ul>
+                        <h4><a href="/visitor/restaurants/" target="_top">Area Information</a></h4>
+                        <ul>
+                            <li><a href="/visitor/restaurants/" target="_top">Restaurants</a></li>
+                            <li><a href="/visitor/hotels.cfm" target="_top">Hotels</a></li>
+                        </ul>
+                    </div>
+                    <div class="mn-columns">
+                    <h4><a href="/tickets/seating.html" target="_top">The Venues</a></h4>
+                        <ul>
+                            <li><a href="/about/virtual_tour/" target="_top">Virtual Tour</a></li>
+                            <li><a href="/tickets/seating.html" target="_top">Seating Charts</a></li>
+                            <li><a href="/eventplanning/" target="_top">Private Event Planning</a></li>
+                            <li><a href="/theaterrental/" target="_top">Theater Rental</a></li>
+                        </ul>
+                    </div>
+                    <div class="mn-column-wide">
+                        <h4><a href="/visitor/mapKcExterior05.pdf" target="_top">Area Map</a></h4>
+                        <img src="/images/menu/visitMap.gif" alt="wide area map" width="460" height="214">
+                        <p><a href="/visitor/mapKcExterior05.pdf" target="_top">Download PDF of Map</a></p>
+                    </div>
+                </div>
+            </li>
+
+            <li><a href="/explorer/" target="_top">Explore The Arts</a>
+                <div class="sub" style="opacity: 0;">
+                    <h3>Explore the Arts</h3>
+                    <div class="mn-columns-5">
+                       <h4><a href="/explorer/videos/" target="_top">Videos</a></h4>
+                        <a href="/explorer/videos/" target="_top"><img src="/images/menu/etaVideosThumb.jpg" alt="Videos"></a>&nbsp; 
+                    </div>
+                    <div class="mn-columns-5">
+                        <h4><a href="/explorer/live/" target="_top">Live Broadcasts</a></h4>
+                        <a href="/explorer/live/" target="_top"><img src="/images/menu/etaBroadcastThumb.jpg" alt="Live Broadcasts"></a> 
+                    </div>
+                    <div class="mn-columns-5">
+                        <h4><a href="/explorer/interactives/" target="_top">Interactives</a></h4>
+                        <a href="/explorer/interactives/" target="_top"><img src="/images/menu/etaInteractiveThumb.jpg" alt="Interactives"></a>
+                    </div>
+                    <div class="mn-columns-5">
+                        <h4><a href="/explorer/artists/" target="_top">Artists</a></h4>
+                        <a href="/explorer/artists/" target="_top"><img src="/images/menu/etaArtistThumb.jpg" alt="Artists"></a>
+                    </div>
+                      <div class="mn-columns-5">
+                        <h4>Blogs</h4>
+                        <ul>
+                            <li><a href="http://kcblogger.kennedy-center.org/sites/nso/default.aspx" target="_blank">National Symphony Orchestra</a></li>
+                            <li><a href="http://blogs.kennedy-center.org/sites/wnoblog/" target="_blank">Washington National Opera</a></li>
+                            <li><a href="http://kcblogger.kennedy-center.org/sites/sfballet/default.aspx" target="_blank">The Suzanne Farrell Ballet</a></li>
+                        </ul>
+                    </div>   
+                </div>
+            </li>
+            <li><a href="/education/" target="_top">Education</a> 
+                <div class="sub" style="opacity: 0;">
+                    <h3>Education</h3>
+                    <div class="mn-columns-5">
+                    <h4><a href="/education/home.html?detailheader=Performances" target="_top"><small>Performances &amp; Events</small></a></h4>
+                       <a href="/education/home.html?detailheader=Performances" target="_top"> <img src="/images/menu/EduEventsThumb.jpg" alt="Events and Performances"></a>
+                      
+                    </div>
+                <div class="mn-columns-5">
+                <h4><a href="/education/home.html?detailheader=Schools" target="_top"><small>Arts &amp; Schools</small></a></h4>
+                    <a href="/education/home.html?detailheader=Schools" target="_top"><img src="/images/menu/EduSchoolsThumb.jpg" alt="Schools"></a>
+                     
+                </div>
+                <div class="mn-columns-5">
+                <h4><a href="/education/home.html?detailheader=Career" target="_top"><small>Career Development</small></a></h4>
+                        <a href="/education/home.html?detailheader=Career" target="_top"><img src="/images/menu/EduCareerThumb.jpg" alt="Career Development"></a>
+                      
+                </div>
+                 <div class="mn-columns-5">
+                   
+                <h4><a href="/education/home.html?detailheader=Access" target="_top"><small>VSA and Accessibility</small></a></h4>
+                <a href="/education/home.html?detailheader=Access" target="_top"><img src="/images/menu/EduVsaThumb.png" alt="VSA"></a>      
+                </div>
+                <div class="mn-columns-5">
+                <h4><a href="/education/artsmanagement/" target="_top"><small>Arts Management</small></a></h4>
+                        <a href="/education/artsmanagement/" target="_top"><img src="/images/menu/EduDevosThumb.png" alt="Arts Management"></a>   
+                </div>
+
+                
+                </div>
+            </li>
+
+            <li><a href="/about/" target="_top">About</a>
+                <div class="sub" style="opacity: 0;">
+                <h3>About</h3>
+                    <div class="mn-columns">
+                    <h4><a href="/about/welcome.html" target="_top">A Living Memorial</a></h4>
+                        <ul>
+                            <li><a href="/about/welcome.html" target="_top">Welcome</a></li>
+                            <li><a href="/about/performances.html" target="_top">Performance History</a></li>
+                            <li><a href="/about/history.html" target="_top">History of the Living Memorial</a></li>
+                            <li><a href="/states/" target="_top">Around the Nation</a></li>
+                            <li><a href="/about/constituents.html" target="_top">Artistic Constituents</a></li>
+                        </ul>
+                    </div>
+                    <div class="mn-columns">
+                    <h4><a href="/about/people.html" target="_top">Our People</a></h4>
+                        <ul>
+                            <li><a href="https://www.kennedy-center.org/secure/epatron/press/" target="_top">Press Office</a></li>
+                            <li><a href="/about/administration.html" target="_top">Administration</a></li>
+                            <li><a href="/jobs/" target="_top">Employment</a></li>
+                            <li><a href="/education/artsmanagement/" target="_top">Fellowships &amp; Internships</a></li>
+                        </ul>
+                    </div>
+                </div>
+              </li>
+           
         </ul>
-       </div>
+     
+    <!-- </div> -->
     
-  </div>
-          
+    </div>
 
-        </div>
-
-
+</div>
 
 
 	<div id="main_content">	
@@ -350,33 +485,35 @@ var winpops=window.open(popurl,"","toolbar=0,scrollbars=0,location=0,statusbar=0
 <!-- #BeginEditable "Content_Goes_Here" --> 
 <h1><img src="images/header_privacy.jpg" width="400" height="80" alt="[The words: &quot;Privacy Statement&quot;, and a photo of the Kennedy Center.]"><br>
 <small>The Kennedy Center and Your Privacy</small> </h1>
-<p><strong>The  Kennedy Center and Your Privacy</strong><br>
-  <br>
-  <strong>Scope</strong><br>
-  This policy covers how the Kennedy Center treats the personal information that  it collects from its patrons in any manner, including via phone, by mail, at  the Kennedy Center and through the following Kennedy Center websites: <br>
-  <br>
-  <a href="http://www.suzannefarrell.org/" target="_blank">http://www.suzannefarrell.org</a><br>
-  <a href="http://www.nationalsymphony.org/" target="_blank">http://www.nationalsymphony.org</a><br>
-  <a href="http://www.kennedy-center.org/">http://www.kennedy-center.org</a><br>
-  <a href="http://artsedge.kennedy-center.org/" target="_blank">http://artsedge.kennedy-center.org</a><br>
-  <a href="http://www.vsarts.org" target="_blank">http://vsarts.org</a><br>
-  <a href="http://www.artsmanager.org/" target="_blank">http://www.artsmanager.org</a><br>
-  <a href="http://www.artsincrisis.org">http://www.artsincrisis.org</a> <br>
-  <a href="http://livingresearch.vsarts.org">http://livingresearch.vsarts.org</a><br>
-  <a href="http://www.startwiththearts.org">http://www.startwiththearts.org</a>
-    <br>
-    <br>
-  Personal information is information about you  that is personally identifiable such as your name, address, email address, or  phone number, or other information that is not otherwise publicly available, including  information related to your usage of the Kennedy Center’s products and services. 
-    <br>
-    <br>
-  <strong>1. Information Collection  and Use</strong>.</p>
-<ul>
-  <li><strong>General Information</strong>.<br>
-    You may visit and browse the Kennedy Center’s websites as often as you like  without logging in and no personal information about your visit will be  collected. If you visit our websites simply to browse, we may collect general  information about the way in which you use our websites, including, but not  limited to, the time and duration of visit, type of web browser used, the  operating system/ platform you are using, your IP address, and the websites  from which you linked to us. We also may note whether and how you use the  websites by recording site traffic patterns and clickstreams. We do not  associate this general information that we collect with any personal  information and we do not otherwise monitor this information on an individual  basis. Instead, we aggregate this usage information and use it only to identify  the levels and areas of interest in the Kennedy Center and to improve and  refine our websites and services. We may perform (or have third parties  perform) analyses of visitors' behavior, and may share aggregated, anonymous  data with sponsors and advertisers.<br>
-      <br>
-    </li>
-  <li><strong>Personal Information</strong>. </li>
+<h1>The Kennedy Center and Your Privacy</h1>
+
+<h3 style="border-bottom:1px solid #CCC; width:50%;">Scope</h3>
+  <p>This policy covers how the Kennedy Center treats the personal information that  it collects from its patrons in any manner, including via phone, by mail, at  the Kennedy Center and through the following Kennedy Center websites: </p>
   <ul>
+  <li><a href="/programs/ballet/farrell/" target="_blank">http://www.suzannefarrell.org</a></li>
+  <li>  <a href="/nso/" target="_blank">http://www.nationalsymphony.org</a></li>
+ <li> <a href="/wno/">http://www.dc-opera.org</a></li>  
+ <li> <a href="/">http://www.kennedy-center.org</a></li>
+ <li> <a href="http://artsedge.kennedy-center.org/" target="_blank">http://artsedge.kennedy-center.org</a></li>
+ <li> <a href="http://www.vsarts.org" target="_blank">http://vsarts.org</a></li>
+ <li> <a href="http://www.artsmanager.org/" target="_blank">http://www.artsmanager.org</a></li>
+ <li> <a href="http://www.artsincrisis.org">http://www.artsincrisis.org</a> </li>
+ <li> <a href="http://livingresearch.vsarts.org">http://livingresearch.vsarts.org</a></li>
+ <li>  <a href="http://www.startwiththearts.org">http://www.startwiththearts.org</a></li>
+ </ul>
+ 
+ <p>  Personal information is information about you  that is personally identifiable such as your name, address, email address, or  phone number, or other information that is not otherwise publicly available, including  information related to your usage of the Kennedy Center’s products and services. 
+    </p>
+    <div style="margin: 0 30px 0 30px;">
+    
+    <div style="float: left; width:300px; margin-top:30px;">
+      <strong>1. Information Collection  and Use</strong></div>
+      <div style="float:left; width:590px; margin-top:30px;">
+
+<p><strong>General Information</strong><br>
+    You may visit and browse the Kennedy Center’s websites as often as you like  without logging in and no personal information about your visit will be  collected. If you visit our websites simply to browse, we may collect general  information about the way in which you use our websites, including, but not  limited to, the time and duration of visit, type of web browser used, the  operating system/ platform you are using, your IP address, and the websites  from which you linked to us. We also may note whether and how you use the  websites by recording site traffic patterns and clickstreams. We do not  associate this general information that we collect with any personal  information and we do not otherwise monitor this information on an individual  basis. Instead, we aggregate this usage information and use it only to identify  the levels and areas of interest in the Kennedy Center and to improve and  refine our websites and services. We may perform (or have third parties  perform) analyses of visitors' behavior, and may share aggregated, anonymous  data with sponsors and advertisers.</p>
+    <p><strong>Personal Information</strong><br>Certain performances at the  Kennedy Center are produced or presented by third parties. When you make a  purchase to a performance presented or produced by one of these third party  organizations, the Kennedy Center may provide them with information regarding  your purchase. This information may include, but shall not be limited to, your  name, address, telephone number and email address, as well as details of your  purchase, which may include, but shall not be limited to, the date you  purchased your tickets, any offer you responded to, the locations of your  seats, and the dollar amount of your transaction.</p>
+    <ul>
     <li>The Kennedy Center collects personal information when you make a  purchase or a contribution online, register an account, request information about  our products and services, participate in a promotion or an online survey,  contact the Kennedy Center with a question or suggestion, apply for employment  with the Kennedy Center, and when you attend certain special events where  heightened security is necessary. Depending on the nature of your interaction  with the Kennedy Center, we may ask you for information such as your name,  phone number, physical address,&nbsp; birth  date, company related information, email address, credit card information  including expiration date and billing address, and product preferences.&nbsp; Under certain less common and special  circumstances, we may ask you for other information such as your social  security number.&nbsp;&nbsp; In such cases, we will  inform you of the reason we are requesting that information and how it will be  used.<br>
       </li>
     <li>Your personal information may be used by us (or third parties  engaged by us) to: (1) customize the advertising and the content that you see,  (2) fulfill your requests for products and services, (3) contact you, (4)  conduct research, (5) respond to subpoenas, court orders or legal process, and  (6) establish or exercise our legal rights or defend against legal claims.<br>
@@ -384,58 +521,90 @@ var winpops=window.open(popurl,"","toolbar=0,scrollbars=0,location=0,statusbar=0
     <li>In addition, the Kennedy Center may provide your name and address  or phone number to third parties whose products we believe may be of interest  to you (although we do not share any other information about you, the selection  criteria may result in the third party being able to identify your relationship  with the Kennedy Center in a broad manner, i.e., that you are a subscriber or  donor, or may have attended a particular production). You can request at  anytime that we do not share your name and address or phone numbers with such  third parties. The Kennedy Center does not monitor or control the privacy  policies of such third parties.<br>
     </li>
   </ul>
-</ul>
-<p>Certain performances at the  Kennedy Center are produced or presented by third parties. When you make a  purchase to a performance presented or produced by one of these third party  organizations, the Kennedy Center may provide them with information regarding  your purchase. This information may include, but shall not be limited to, your  name, address, telephone number and email address, as well as details of your  purchase, which may include, but shall not be limited to, the date you  purchased your tickets, any offer you responded to, the locations of your  seats, and the dollar amount of your transaction.</p>
-<ul>
-  <li><strong>Anonymity</strong>.<br>
-      While you are logged into your Kennedy Center account to purchase tickets or  use other online services, you are not anonymous to us online. If you wish to  browse our site anonymously you will need to log out of your online account. You  may purchase tickets anonymously if you choose to pay by cash in person at our  Box Office.<br>
-      <br>
-    </li>
-  <li><strong>Account Information and Preferences<br>
-      </strong>Except  for email messages related to a direct action by you, such as a password reset  request or order confirmation, any email messages sent to you by the Kennedy  Center offer you the option to request not to receive future email messages.&nbsp;&nbsp; You may choose to only receive certain types  of email messages, or none at all. You may request to be removed from our  mailing or phone list at anytime by accessing the Contact Preferences on your  account <a href="https://www.kennedy-center.org/secure/epatron/forms/gateway.cfm?action=contact_pref">here</a>:&nbsp; (<a href="https://www.kennedy-center.org/secure/epatron/forms/gateway.cfm?action=contact_pref">https://www.kennedy-center.org//secure/epatron/forms/gateway.cfm?action=contact_pref</a>) or by  contacting us at the phone number or mailing address listed at the end of this  document.
+  
+
+
+<p><strong>Anonymity</strong><br>
+      While you are logged into your Kennedy Center account to purchase tickets or  use other online services, you are not anonymous to us online. If you wish to  browse our site anonymously you will need to log out of your online account. You  may purchase tickets anonymously if you choose to pay by cash in person at our  Box Office.</p>
+<p><strong>Account Information and Preferences</strong><br>
+      Except  for email messages related to a direct action by you, such as a password reset  request or order confirmation, any email messages sent to you by the Kennedy  Center offer you the option to request not to receive future email messages.&nbsp;&nbsp; You may choose to only receive certain types  of email messages, or none at all. You may request to be removed from our  mailing or phone list at anytime by accessing the Contact Preferences on your  account <a href="https://www.kennedy-center.org/secure/epatron/forms/gateway.cfm?action=contact_pref">here</a>:&nbsp; (<a href="https://www.kennedy-center.org/secure/epatron/forms/gateway.cfm?action=contact_pref">https://www.kennedy-center.org//secure/epatron/forms/gateway.cfm?action=contact_pref</a>) or by  contacting us at the phone number or mailing address listed at the end of this  document.</p>
 <ul>
   <li>In addition to changing Contact  Preferences, you may alter or change certain information associated with your  account, such as your name, physical address, phone numbers, email address, and  your interests by logging into our website or contacting us at the address or  phone number below.&nbsp; If you wish to  inactivate your Kennedy Center account, please contact us at the address listed  below.&nbsp; </li>
 </ul>
-    </li>
-</ul>
-<p><strong>2. Personal Information of  Children</strong>.<br>
-  <br>
-  The Kennedy Center allows children under the age of 13 to register an account with  verification from a parent or guardian. Use of these accounts enhances the  child’s interaction with educational content, such as allowing the child to tag  or bookmark content. &nbsp;&nbsp;Registrants  under the age of 13 are required to provide an email address for a parent or  guardian (collectively, “parent(s)”) who will be notified of the child’s  attempt to register an account and have the opportunity to approve or deny the  account. The account will only be fully activated once the Kennedy Center  receives a verification response from a parent. Parents will have the ability  to login using their child’s account to access all content which is available  to their children.<br>
-    <br>
-  The only information requested by the Kennedy Center  for registration by a person under the age of 13 is a username (which should be  distinct from the user’s email or personal name), date of birth (for purposes  of age validation only, this information will not be stored), a password, and a  parent’s email address. &nbsp;&nbsp;A verification  request will be sent to the parent at the address provided. &nbsp;If the parent denies permission for the  account or fails to validate the account within 7 days, the child will no  longer be able to login to the account. &nbsp;<br>
-    <br>
-  The Kennedy Center will not ask children under 13 for  any additional personally identifiable information without first getting a  parent’s permission. Parents will receive an email notifying them of any  attempt by their child to change the email or password associated with the  account. &nbsp;&nbsp;Parents may choose to deactivate  their child’s account at any time. <br>
-  <br>
-  <strong>3. Technology</strong><br>
-  The Kennedy Center uses "cookie" technology on some parts of our  websites. A cookie is a small amount of data sent by our websites and stored on  your computer's hard drive that our site can read and which helps us keep track  of how you use our websites and remember your preferences. Many web browsers  automatically accept cookies by default, but contain an option for you to turn  off the cookie acceptance if you prefer. If you turn off acceptance, there may  be some features of our websites that will not be available to you and some  webpages may not display properly. We do not allow unrelated third parties to  set cookies via the Kennedy Center websites.<br>
-  <br>
-  The Kennedy Center does not use tracking or measurement tools that would allow  your individual browsing activity to be tracked across third-party websites or  that would give information about you as an individual to third-parties based on  your browsing activity.&nbsp;&nbsp; <br>
-  <br>
-  <strong>4. Links</strong><br>
-  Our websites may include links to other websites. We do not control the privacy  policies or terms of service of the destination sites. Once you leave our  servers (you can check where you are by checking the URL in the location bar on  your browser), use of any information you provide is governed by the privacy  policy of the operator of the site you are visiting. That policy may differ  from ours. If you can't find the privacy policy of any of these sites via a  link from the site's homepage, you should contact the manager of that site for  more information. The Kennedy Center is not responsible for the privacy  practices or the content of websites other than the Kennedy Center websites.<br>
-  <br>
-  <strong>5. Security and Disclaimer</strong><br>
-  Although we use security that we believe to be appropriate to protect your  personal information, we do not guarantee that our security precautions will  protect against, and we expressly disclaim any liability for, any loss, misuse,  or alteration of your personal information.<br>
-  <br>
-  <strong>6. Changes to this Privacy Policy</strong><br>
-  The Kennedy Center may update this policy at any time. We will notify you about  significant changes in the way we treat personal information by sending a  notice to the email address that you have provided us or by placing a prominent  notice on our websites.<br>
-  <br>
-  <strong>7. Questions and Suggestions</strong><br>
-  If you have any questions or suggestions, or to request changes to the  information in your account, please complete a feedback form online through our  Contact Us link, or you can contact us via direct mail, email, or phone at:<br>
-    <br>
+</div>
+
+
+<div style="float: left; width:300px; clear:both; margin-top:30px;">
+      <strong>2. Personal Information of  Children</strong></div>
+      <div style="float:left; width:590px; margin-top:30px;">
+
+<p>
+  The Kennedy Center allows children under the age of 13 to register an account with  verification from a parent or guardian. Use of these accounts enhances the  child’s interaction with educational content, such as allowing the child to tag  or bookmark content. &nbsp;&nbsp;Registrants  under the age of 13 are required to provide an email address for a parent or  guardian (collectively, “parent(s)”) who will be notified of the child’s  attempt to register an account and have the opportunity to approve or deny the  account. The account will only be fully activated once the Kennedy Center  receives a verification response from a parent. Parents will have the ability  to login using their child’s account to access all content which is available  to their children.</p>
+  <p>
+  The only information requested by the Kennedy Center  for registration by a person under the age of 13 is a username (which should be  distinct from the user’s email or personal name), date of birth (for purposes  of age validation only, this information will not be stored), a password, and a  parent’s email address. &nbsp;&nbsp;A verification  request will be sent to the parent at the address provided. &nbsp;If the parent denies permission for the  account or fails to validate the account within 7 days, the child will no  longer be able to login to the account. &nbsp;</p>
+  <p>
+  The Kennedy Center will not ask children under 13 for  any additional personally identifiable information without first getting a  parent’s permission. Parents will receive an email notifying them of any  attempt by their child to change the email or password associated with the  account. &nbsp;&nbsp;Parents may choose to deactivate  their child’s account at any time. </p>
+  </div>
+  
+  
+  <div style="float: left; width:300px; clear:both; margin-top:30px;">
+  <strong>3. Technology</strong></div>
+    <div style="float:left; width:590px; margin-top:30px;">
+    <p>
+  The Kennedy Center uses "cookie" technology on some parts of our  websites. A cookie is a small amount of data sent by our websites and stored on  your computer's hard drive that our site can read and which helps us keep track  of how you use our websites and remember your preferences. Many web browsers  automatically accept cookies by default, but contain an option for you to turn  off the cookie acceptance if you prefer. If you turn off acceptance, there may  be some features of our websites that will not be available to you and some  webpages may not display properly. We do not allow unrelated third parties to  set cookies via the Kennedy Center websites.</p>
+  <p>
+  The Kennedy Center does not use tracking or measurement tools that would allow  your individual browsing activity to be tracked across third-party websites or  that would give information about you as an individual to third-parties based on  your browsing activity.&nbsp;&nbsp; </p>
+  </div>
+    
+  
+  <div style="float: left; width:300px; clear:both; margin-top:30px;">
+  
+  <strong>4. Links</strong></div>
+   <div style="float:left; width:590px; margin-top:30px;">
+    <p>
+  Our websites may include links to other websites. We do not control the privacy  policies or terms of service of the destination sites. Once you leave our  servers (you can check where you are by checking the URL in the location bar on  your browser), use of any information you provide is governed by the privacy  policy of the operator of the site you are visiting. That policy may differ  from ours. If you can't find the privacy policy of any of these sites via a  link from the site's homepage, you should contact the manager of that site for  more information. The Kennedy Center is not responsible for the privacy  practices or the content of websites other than the Kennedy Center websites.</p>
+  </div>
+  
+  
+   
+    
+  
+  <div style="float: left; width:300px; clear:both; margin-top:30px;">
+  <strong>5. Security and Disclaimer</strong></div>
+     <div style="float:left; width:590px; margin-top:30px;">
+     <p>
+  Although we use security that we believe to be appropriate to protect your  personal information, we do not guarantee that our security precautions will  protect against, and we expressly disclaim any liability for, any loss, misuse,  or alteration of your personal information.</p></div>
+      
+  
+  <div style="float: left; width:300px; clear:both; margin-top:30px;">
+  <strong>6. Changes to this Privacy Policy</strong></div>
+  <div style="float:left; width:590px; margin-top:30px;">
+     <p>
+  The Kennedy Center may update this policy at any time. We will notify you about  significant changes in the way we treat personal information by sending a  notice to the email address that you have provided us or by placing a prominent  notice on our websites.</p></div>
+    
+  
+  <div style="float: left; width:300px; clear:both; margin-top:30px;">
+  
+  <strong>7. Questions and Suggestions</strong></div>
+    <div style="float:left; width:590px; margin-top:30px;"><p>
+  
+  If you have any questions or suggestions, or to request changes to the  information in your account, please complete a feedback form online through our  Contact Us link, or you can contact us via direct mail, email, or phone at:</p>
+  <address>
   Patron Data Coordinator<br>
   The John F. Kennedy Center for the Performing Arts<br>
   2700 F Street, NW<br>
   Washington, D.C. 20566<br>
   Email: <a href="mailto:comments@kennedy-center.org">comments@kennedy-center.org</a><br>
-  Phone: (202)416-8485</p>
-
+  Phone: (202)416-8485</address>
+</div>
+</div>
       <!-- #EndEditable -->
 
 	
 	</div>
     
 	<div id="footer">
+    
 	<div class="verisign">
 	
 </div>
@@ -465,7 +634,8 @@ The John F. Kennedy Center for the Performing Arts<br>
         <a href="/accessibility">Accessibility</a> | 
         <a href="/sitemap">Site Map</a> | 
         <a href="/legal/privacy.html">Privacy Statement</a> | 
-        <a href="/legal/copyright.html">Copyright/Terms</a>
+        <a href="/legal/terms.cfm">Terms and Conditions</a> | 
+        <a href="/legal/copyright.html">Copyright</a>
         <a href="/" title="[Return to the Kennedy Center home page.]"><img src="/images/kcboathouse.gif" alt="The John F. Kennedy Center for the Performing Arts" border="0" hspace="10"></a>
         </div>
 
@@ -483,10 +653,11 @@ pageTracker._initData();
 pageTracker._setCampTermKey("PromotionNo"); // promotion_no
 pageTracker._trackPageview();
 </script>
-</div>
+ 
+    </div>
 	
 </div>
 
 	
 	
-<!-- #EndTemplate --><iframe id="_yuiResizeMonitor" style="visibility: visible; width: 10em; height: 10em; position: absolute; top: -124px; left: -124px; border-style: none; border-width: 0px; opacity: 0;"></iframe></body></html>
+<!-- #EndTemplate --></body></html>
