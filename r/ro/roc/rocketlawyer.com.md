@@ -1,16 +1,13 @@
-> *The following text is extracted and transformed from the rocketlawyer.com privacy policy that was archived on 2010-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100217041719id_/http%3A//www.rocketlawyer.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketlawyer.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221213002id_/https%3A//www.rocketlawyer.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Rocket Lawyer Privacy Policy
 
-   
-|   |    
-| This Statement of Privacy applies to the RocketLawyer.com website and governs data collection and usage. By using the RocketLawyer.com website, you consent to the data practices described in this statement.  
----  
+Protecting your private information is our priority. This Statement of Privacy applies to the RocketLawyer.com website and governs data collection and usage. By using the RocketLawyer.com website, you consent to the data practices described in this statement.  
    
   
 ### Collection of your Personal Information  
   
-Rocket Lawyer Incorporated ("RLI") may collect personally identifiable information, such as your e-mail address, name, home or work address or telephone number. RLI may also collect anonymous demographic information, which is not unique to you, such as your Postal Code, age, gender, preferences, interests and favorites. 
+Rocket Lawyer Incorporated ("RLI") may collect personally identifiable information, such as your e-mail address, name, home or work address or telephone number. If you purchase RLI products and services, we collect and store billing and credit card information. RLI may also collect anonymous demographic information, which is not unique to you, such as your Postal Code, age, gender, preferences, interests and favorites. Rocket Lawyer will not delete customer information for paying members. However, Rocket Lawyer reserves the right to delete customer information for members with a free account status at any time.
 
 Information about your computer hardware and software also may be automatically collected by RocketLawyer.com. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by RLI for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the RocketLawyer.com website. 
 
@@ -26,7 +23,7 @@ RLI collects and uses your personal information to operate the RocketLawyer.com 
 
 RLI may also use your personally identifiable information to inform you of other products or services available from RLI and its affiliates. RLI may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. 
 
-RLI does not sell, rent or lease its customer lists to third parties. RLI may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, RLI may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to RocketLawyer.com, and they are required to maintain the confidentiality of your information. 
+RLI does not sell, rent or lease its customer lists to third parties. RLI may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party without your explicit consent. In addition, RLI may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. RLI may share your information with third parties who perform tasks required to complete a purchase transaction. All such third parties are prohibited from using your personal information except to provide these services to RocketLawyer.com, and they are required to maintain the confidentiality of your information. 
 
 RLI does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent. 
 
@@ -48,7 +45,13 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
   
 ### Security of your Personal Information  
   
-RocketLawyer.com secures your personal information from unauthorized access, use or disclosure. RocketLawyer.com secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.   
+RocketLawyer.com secures your personal information from unauthorized access, use or disclosure. RocketLawyer.com secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.  
+  
+   
+  
+### Children Under Thirteen  
+  
+RLI does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.  
    
   
 ### Changes to this Statement  
@@ -58,8 +61,7 @@ RLI will occasionally update this Statement of Privacy to reflect company and cu
   
 ### Contact Information  
   
-Rocket Lawyer Incorporated welcomes your comments regarding this Statement of Privacy. If you believe that RocketLawyer.com has not adhered to this Statement, please contact RLI at [info@rocketlawyer.com.](mailto:info@rocketlawyer.com)  
+Rocket Lawyer Incorporated welcomes your comments regarding this Statement of Privacy. If you believe that RocketLawyer.com has not adhered to this Statement, please[ Contact Us](mailto:info@rocketlawyer.com)  
+For more information, please review our[ Terms and Conditions](http://www.rocketlawyer.com/terms.aspx) and [FAQ](http://www.rocketlawyer.com/help.aspx) section.  
    
-Top   
-  
- 
+Top 
