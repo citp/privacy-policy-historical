@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wegmans.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521143757id_/http%3A//www.wegmans.com/webapp/wcs/stores/servlet/ProductDisplay%3FstoreId%3D10052%26partNumber%3DUNIVERSAL_3568) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegmans.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221082711id_/http%3A//www.wegmans.com/webapp/wcs/stores/servlet/ProductDisplay%3FstoreId%3D10052%26catalogId%3D10002%26langId%3D-1%26partNumber%3DUNIVERSAL_3568) for the most accurate reproduction.*
 
 # Privacy Policy | Wegmans
 
