@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famegadget.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230162613id_/http%3A//www.famegadget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famegadget.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221055317id_/http%3A//www.famegadget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FameGadget.Com | Hottest, Newest and Famous Information
 
