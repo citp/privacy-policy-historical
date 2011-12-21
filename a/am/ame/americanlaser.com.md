@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanlaser.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608122248id_/http%3A//www.americanlaser.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanlaser.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221222450id_/http%3A//americanlaser.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | American Laser Skincare
 
