@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funary.com privacy policy that was archived on 2010-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100916085851id_/http%3A//www.funary.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funary.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221180514id_/http%3A//www.funary.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
