@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bighealthtree.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629041301id_/http%3A//bighealthtree.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bighealthtree.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221170059id_/http%3A//bighealthtree.com/privacy_statement) for the most accurate reproduction.*
 
 # Big Health Tree Privacy Statement
 
