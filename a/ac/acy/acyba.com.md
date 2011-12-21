@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acyba.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630022228id_/http%3A//www.acyba.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acyba.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221095941id_/http%3A//www.acyba.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ We may collect the following information:
   * contact information including email address
   * demographic information such as postcode, preferences and interests
   * other information relevant to customer surveys and/or offers
-  * your website URL and website IP
+  * your website URL and website IP if you use our cron service or if you enter it in your account area (paid versions only)
 
 
 
@@ -27,13 +27,15 @@ We require this information to understand your needs and provide you with a bett
   * Internal record keeping.
   * We may use the information to improve our products and services.
   * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+  * We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+  * We will not sell, distribute or lease your personal information to third parties.
 
 
 
 ### Security
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We are committed to ensuring that your information is secure.  
+In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
 ### How we use cookies
 
@@ -51,6 +53,4 @@ Our website may contain links to other websites of interest. However, once you h
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-According to the law n°78-17 of the January 6th 1978 concerning the protection of persons concerning the processing of personal information and modified by the law n°2007-801 of the August 6th 2004 (BOEM 160* and 722),  the automated gathering, recording and conservation of the personal information on this website is done following a declaration of information handling to the Commission Nationale de l'Informatique et des Libertés (CNIL). Accordingly to the article 34 and following, you have the right to ask access and rectification of your personal information by e-mail at [privacy@acyba.com](mailto:privacy@acyba.com).  
-  
-Last Updated on Monday, 28 June 2010 13:24 
+According to the law n°78-17 of the January 6th 1978 concerning the protection of persons concerning the processing of personal information and modified by the law n°2007-801 of the August 6th 2004 (BOEM 160* and 722),  the automated gathering, recording and conservation of the personal information on this website is done following a declaration of information handling to the Commission Nationale de l'Informatique et des Libertés (CNIL). Accordingly to the article 34 and following, you have the right to ask access and rectification of your personal information by e-mail at privacy@acyba.com.
