@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakyaw.com.ph privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213025104id_/http%3A//www.pakyaw.com.ph/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakyaw.com.ph privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221083955id_/http%3A//www.pakyaw.com.ph/about/privacy.php) for the most accurate reproduction.*
 
 # Pakyaw! - It's a Big Deal | Online Shopping | Discounts | Group Buying
 
