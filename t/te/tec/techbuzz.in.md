@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techbuzz.in privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506211344id_/http%3A//www.techbuzz.in/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techbuzz.in privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221072945id_/http%3A//www.techbuzz.in/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy | Computer Tips And Tricks, Gadgets, How-To, Life - 2.0 Style
 
