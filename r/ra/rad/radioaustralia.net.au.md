@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radioaustralia.net.au privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629043645id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioaustralia.net.au privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221172728id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.*
 
 # ABC Online: Privacy Policy
 
@@ -26,7 +26,7 @@ How much of your personal information that you choose to disclose to ABC Online 
 
 ## Use of anonymous information
 
-ABC Online automatically gathers anonymous information to monitor the use of ABC Online like the numbers and frequency of visitors to ABC Online and its areas, very much like television ratings that tell the networks how many people tuned in to a program. We only use such data in the aggregate. This collective data helps us determine how much our audiences use parts of the site, so we can improve ABC Online to assure that it is as appealing as we can make it for as many users as possible. ABC Online may publish or provide this aggregate data to other people.
+ABC Online automatically gathers anonymous information to monitor the use of ABC Online like the numbers and frequency of visitors to ABC Online and its areas, very much like television ratings that tell the networks how many people tuned in to a program. We only use such data in the aggregate. This collective data helps us determine how much our audiences use parts of the site, so we can improve ABC Online to assure that it is as appealing as we can make it for as many users as possible. ABC Online may publish or provide this aggregate data to other people or organisations including [Nielsen Online](http://www.nielsen-online.com/corp.jsp?section=leg_prs&nav=1).
 
 ##  Use of personal information
 
@@ -65,7 +65,7 @@ If ABC Online holds your personal information the ABC will where possible provid
 
 ## Security
 
-The ABC operates secure data networks that are designed to protect your privacy and security. The ABC Shop has it's own [Security and Privacy Issues document](http://www.abcshop.com.au/help/privacy.shtm).
+The ABC operates secure data networks that are designed to protect your privacy and security. The ABC Shop has its own [Security and Privacy Issues document](http://www.abcshop.com.au/help/privacy.shtm).
 
 ## Complaints about privacy
 
@@ -74,3 +74,5 @@ If you have any complaints relating to online privacy issues on our websites, pl
 ## Changes to ABC Online privacy policy
 
 If we decide to change the ABC Online Privacy Policy, we will post those changes here.
+
+2 Dec 2011 - added reference and link to Nielsen Online under 'Use of anonymous information'.
