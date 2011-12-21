@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the realtvsport.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604002641id_/http%3A//www.realtvsport.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtvsport.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221134530id_/http%3A//www.real-tv-sport.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Schedule - Live Sports | Football, Basketball, Hockey, Baseball, Rugby, Tennis
 
-RealTVSport.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Real-TV-Sport.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 We may change this policy from time to time by updating this page. You should always check this page to ensure that you are happy with any changes.
 
