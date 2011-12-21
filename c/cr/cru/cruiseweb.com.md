@@ -1,17 +1,7 @@
-> *The following text is extracted and transformed from the cruiseweb.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326060803id_/http%3A//www.cruiseweb.com/CRUISEWEB-PRIVACY-POLICY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruiseweb.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221150226id_/http%3A//cruiseweb.com/CRUISEWEB-PRIVACY-POLICY.HTM) for the most accurate reproduction.*
 
 # Cruises to Caribbean, Bahamas, Bermuda, Mexico, Europe, Alaska, Mediterranean, Hawaii.
 
-[](https://web.archive.org/web/20100326060803id_/http%3A//www.cruiseweb.com/DISCOUNTCRUISES.HTM)
-
-| 
-
-Privacy Policy
-
-The Cruise Web fully respects your privacy and will only use your information to service your vacation needs. We do not sell or give this information to any other third parties.
-
-| Privacy Policy Details  
----  
   
 
 
@@ -52,10 +42,4 @@ This includes:
 
 At the bottom of every email you receive from The Cruise Web, there will be a link which will display a web page where you can opt out from receiving Cruise Deals and/or where you can change your preferences as to the type of offers you would like to receive.
 
-As The Cruise Web respects your privacy, this privacy statement may be modified from time to time to properly reflect all business practices.   
-  
-### Pricing & Information Request
-
-### 
-
-Call 1-800-377-9383 or submit a request.
+As The Cruise Web respects your privacy, this privacy statement may be modified from time to time to properly reflect all business practices. 
