@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geelongadvertiser.com.au privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023226id_/http%3A//www.geelongadvertiser.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geelongadvertiser.com.au privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221165807id_/http%3A//www.geelongadvertiser.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Geelong, VIC, Australia
 
