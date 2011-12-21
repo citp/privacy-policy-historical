@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emediawire.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629001441id_/http%3A//service.prweb.com/misc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emediawire.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221212328id_/http%3A//service.prweb.com/misc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PRWeb
 
@@ -6,8 +6,8 @@ This is the website of Vocus PRW Holdings, LLC d/b/a PRWeb ("PRWeb").
 
 **Our postal address is**  
 Vocus PRW Holdings, LLC  
-4296 Forbes Boulevard  
-Lanham, MD 20706
+12051 Indian Creek Ct.  
+Beltsville, MD 20705
 
 PRWeb takes privacy seriously. As a pioneer of online visibility and search engine optimized press release distribution services, we are committed to establishing and maintaining policies and procedures which protect the privacy of personal information gathered from our customers, prospects and other visitors to our website.
 
@@ -43,4 +43,4 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 ###  Contacting the Website:
 
-If you feel that this site is not following its stated information policy, you may contact us by sending us an email at <https://console.prweb.com/prweb/support/index.php>.
+If you feel that this site is not following its stated information policy, you may contact us by sending us an email at <http://service.prweb.com/contact-us/>.
