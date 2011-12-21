@@ -1,800 +1,628 @@
-<!--The following is the downloaded HTML source of the hometone.org privacy policy that was archived on 2010-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100620142955id_/http%3A//www.hometone.org/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hometone.org privacy policy that was archived on 2011-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111221035728id_/http%3A//www.hometone.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
-		<title></title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+		<title>Privacy Policy : Hometone : A complete guide to home improvement, home technology and home decor.</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<meta name="title" content="">
-		<meta name="subject" content="">
+		<meta name="title" content="Privacy Policy : Hometone : A complete guide to home improvement, home technology and home decor.">
+		<meta name="subject" content="Lifestyle">
 		<meta name="language" content="en">
-		<meta name="keywords" content="">
-		<meta name="description" content="">
-		<link rel="alternate" href="http://feeds.feedburner.com/Hometone" type="application/rss+xml" title="Hometone RSS Feed (Instablogs Community)">
+		<meta name="keywords" content="home appliances, lighting, gadgets, home improvement, decor, renovation, remodeling, interiors, furniture, furnishings, kitchen, bathroom, bedroom, design, home theater, dining, landscaping, outdoors , architecture">
+		<meta name="description" content="A complete guide to home improvement, home technology and home decor.">
+		<link rel="alternate" type="application/rss+xml" title="Hometone RSS Feed (Instablogs Community)" href="http://www.hometone.com/rss.xml">
 		<link rel="icon" href="/favicon.ico" type="image/x-icon">
-		<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
-		<script type="text/javascript" src="/js/validate.js"></script>
-		<script type="text/javascript" src="/js/easySlider.packed.js"></script>
-		<script type="text/javascript">
-			$(document).ready(function(){
-				$("#subscribeForm").validate();
-			});
-
-			$(document).ready(function(){
-			$("#sidewindow").easySlider();
-			});
-				
-				var my_width='';
-				var my_height='';
-				function my_lightbox(id, my_width, my_height)
-				{
-					jQuery.fn.center = function (absolute) {
-						return this.each(function () {
-							var t = jQuery(this);
-
-							t.css({
-								position:    absolute ? 'absolute' : 'fixed', 
-								left:        '50%', 
-								top:        '50%', 
-								zIndex:        '999999'
-							}).css({
-								marginLeft:    '-' + (t.outerWidth() / 2) + 'px', 
-								marginTop:    '-' + (t.outerHeight() / 2) + 'px'
-							});
-
-							if (absolute) {
-								t.css({
-									marginTop:    parseInt(t.css('marginTop'), 10) + jQuery(window).scrollTop(), 
-									marginLeft:    parseInt(t.css('marginLeft'), 10) + jQuery(window).scrollLeft()
-								});
-							}
-						});
-					};
-					
-					var pageWidth = $('*').width();
-					var pageHeight = $('*').height();
-
-					var my_pageHeight = $(window).height();
-					
-					$('#'+id).height(my_height);
-					$('#'+id).width(my_width);
-					$('#'+id).fadeIn().center();
-						
-					$('#fade').show();
-					$('#fade').height(pageHeight);
-					$('#fade').width(pageWidth);
-
-					$('#fade').click(function(){
-							$(this).fadeOut();
-							$('#'+id).hide();
-					});
-					$('.my_lightbox_close').click(function(){
-							$('#fade').fadeOut();
-							$('#'+id).hide();
-					});
-					
-
-				}
-
-				function subscribe()
-					{
-						var postdata='subsciber_mail='+ $('#subsciber_mail').val();
-						$.ajax({type: "POST",url: "/share_email.php",data: postdata,success: function(msg){var id ='#subscribe .light-content';$(id).html(msg);}});
-					}
-
-
-				var currentslide = 1;
-				var i=1;
-				var nrSld1 =1
-					function showSlide(nrSld) {
-						currentslide = parseInt(nrSld)
-						$('#slider .slideWrapper').animate({left:-380*(parseInt(nrSld)-1)})
-						redrawBullets(nrSld);
-						i=nrSld;
-					};
-					function redrawBullets(slide) {
-						var currentBullet = 's'+slide;
-						$('#slideCtrl a').each(function(){
-						$(this).removeClass('s');
-						if($(this).hasClass(currentBullet)){
-							$(this).addClass('s')
-							}
-						});
-					};
-				function loop() { 
-				  if (i<5) {
-				   showSlide(i);
-				   setTimeout(function() { incr(); }, 5000);
-				  }
-				  else
-				  {
-				  i= 1;
-				  showSlide(i);
-				  loop();
-				  }
-				}
-				function incr() {
-				  i++;
-				  loop();
-				}
 		
-			function footer_articles(start, end, blog)
-			{
-				var postdata='start='+start+'&end='+end+'&blog='+blog;
-				$.ajax({type: "POST",url: "/footer_articles.php",data: postdata,success: function(msg){var id ='#week-diary';$(id).html(msg);}});
-			}
-
-			function week_diary_articles(start, blog)
-			{
-				var postdata='start='+start+'&blog='+blog;
-				$.ajax({type: "POST",url: "/week_diary.php",data: postdata,success: function(msg){var id ='#week-diary';$(id).html(msg);}});
-			}
-
-			function tag_paging(page_no, total_pages, quantity)
-			{
-				var postdata='page_no='+page_no+'&total_pages='+total_pages+'&quantity='+quantity;
-				$.ajax({type: "POST",url: "/tag_paging.php",data: postdata,success: function(msg){var id ='#t-sidewindow';$(id).html(msg);}});
-			}
-
-			function post_paging(page_no, total_pages, quantity)
-			{
-				var postdata='page_no='+page_no+'&total_pages='+total_pages+'&quantity='+quantity;
-				$.ajax({type: "POST",url: "/post_paging.php",data: postdata,success: function(msg){var id ='#insta-articles';$(id).html(msg);}});
-			}
-
-			function category_paging(page_no, quantity)
-			{
-				var postdata='page_no='+page_no+'&quantity='+quantity;
-				$.ajax({type: "POST",url: "/category_paging.php",data: postdata,success: function(msg){var id ='#category-news';$(id).html(msg);}});
-			}
-
-			function hotSheet_paging(page_no, quantity)
-			{
-				var postdata='page_no='+page_no+'&quantity='+quantity;
-				$.ajax({type: "POST",url: "/hotSheet_paging.php",data: postdata,success: function(msg){var id ='#hot-sheet';$(id).html(msg);}});
-			}
-
-			function video_list_paging(page_no, quantity, sortMethod)
-			{
-				var postdata='page_no='+page_no+'&quantity='+quantity+'&sortMethod='+sortMethod;
-				$.ajax({type: "POST",url: "/video_list_paging.php",data: postdata,success: function(msg){var id ='#video-list';$(id).html(msg);}});
-			}
-
-			function slide_feature(total_divs,display,button,divid, prev_id, next_id)
-			{
-				for(var i=1; i<= total_divs; i++)
-				{
-					var div =document.getElementById(divid + i);
-					div.style.display = 'none';
-				}
-				
-				if(button == '1')
-				{
-					var next_div = document.getElementById(next_id);
-					var next =  display + 1;
-					next_div.innerHTML ='<a href="javascript:slide_feature( '+total_divs+', '+next+',1, \''+divid+'\', \''+prev_id+'\', \''+next_id+'\')">Next</a>';
-					var prev_div = document.getElementById(prev_id);
-					var prev = next - 1;
-					prev_div.innerHTML ='<a href="javascript:slide_feature('+total_divs+', '+prev+',0, \''+divid+'\', \''+prev_id+'\', \''+next_id+'\')">Prev</a>';
-					$('#'+divid + next).show();
-
-					if(total_divs == next)
-					{
-						next_div.innerHTML ='';
-					}
-					
-				}
-				else
-				{
-					var next_div = document.getElementById(next_id);
-					var next =  display;
-					next_div.innerHTML ='<a href="javascript:slide_feature( '+total_divs+', '+next+',1, \''+divid+'\', \''+prev_id+'\', \''+next_id+'\')">Next</a>';
-					var prev_div = document.getElementById(prev_id);
-					var prev = next - 1;
-					if(prev == 0)
-						{
-							prev_div.innerHTML ='';
-						}
-						else
-						{
-							prev_div.innerHTML ='<a href="javascript:slide_feature('+total_divs+', '+prev+',0, \''+divid+'\', \''+prev_id+'\', \''+next_id+'\')">Prev</a>';
-						}
-						$('#'+divid + display).show();
-				}
-			}
-		</script>
-		<link href="/css/common.css" rel="stylesheet" type="text/css">
-		<link href="/css/club-sidebar.css" rel="stylesheet" type="text/css">
-		<link href="/css/error_404.css" rel="stylesheet" type="text/css">
-
-	</head>
+		<link rel="canonical" href="http://www.hometone.com/privacy-policy/">
+		<meta name="ROBOTS" content="INDEX, FOLLOW">	
+		
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+	<script type="text/javascript">
+	GS_googleAddAdSenseService("ca-pub-9415440757655812");
+	GS_googleEnableAllServices();
+	</script>
 	
-		<body onload="loop();">
-			<div class="container">
-				<div class="header">
-					<div id="subscribe" class="my_lightbox" style="display:none">
-						<div class="light-head"><span>Please fill in your email address</span><a href="javascript:void(0)" class="my_lightbox_close light-close">[Close]</a></div>
-						<div class="clear"></div>
-						<div class="light-content">
-							<form method="post" action="javascript:subscribe();" name="subscribeForm" id="subscribeForm">
-								<input type="text" class="required email" name="subsciber_mail" id="subsciber_mail" value="">
-								<input type="submit" value="Subscribe" name="Subscribe">
-							</form>
-						</div><!-- EOF light-content -->
-					</div><!-- EOF my_lightbox -->
+	
+	
+		<script type="text/javascript">GA_googleAddAttr("source", "other");</script>
+	
 
-					<div class="top-nav">
-						<a href="http://www.hometone.org/contact-us.php?q=tips">Send Tips</a> | 
-						<a href="http://www.instablogs.com/ad_solutions.php?b=21">Advertise</a> | 
-						<a href="http://www.hometone.org/contact-us.php?q=general">Contact</a>
-					</div><!-- EOF top-nav -->
-					<a class="logo" href="http://www.hometone.org/">&nbsp;</a>
-					<div class="ad">
-						<script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=318102597&amp;adSize=728x90"></script>											</div>
-					<div class="ad">
-						<script type="text/javascript"><!--
-google_ad_client = "pub-9415440757655812";
-/* Hometone, Header, LinkUnit, 9Jan10 */
-google_ad_slot = "5505763096";
-google_ad_width = 728;
-google_ad_height = 15;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>					</div>
-					<div class="extra-ads">
+	
+				
+		<script type="text/javascript">GA_googleAddAttr("page", "permalink");</script>
+	
+	
+	
+	
+	
+	
+	
+	
+	<script type="text/javascript">
+		GA_googleAddSlot("ca-pub-9415440757655812", "hometone_adsense_atf_MR_300x250");
+		GA_googleAddSlot("ca-pub-9415440757655812", "hometone_archives_atf_FB_468x60");
+		GA_googleAddSlot("ca-pub-9415440757655812", "hometone_header_atf_LB_728x90");
+		GA_googleAddSlot("ca-pub-9415440757655812", "hometone_home_atf_WS_160x600");
+		GA_googleAddSlot("ca-pub-9415440757655812", "hometone_permalink_atf_LR_336x280");
+		GA_googleAddSlot("ca-pub-9415440757655812", "HT_permalink_FB");
+		GA_googleAddSlot("ca-pub-9415440757655812", "HT_LU");
+		GA_googleAddSlot("ca-pub-9415440757655812", "HT_PL_LR");
+	</script>
+	<script type="text/javascript">
+		GA_googleFetchAds();
+	</script>
+	
+
+		
+		<script type="text/javascript" src="/js/jquery-latest.min.js"></script>
+		<script type="text/javascript" src="/js/jquery.jcarousel.min.js"></script>			
+		<script type="text/javascript" src="/js/common.js"></script>
+		
+		<link href="/css/common.css" rel="stylesheet" type="text/css">			
+		<link href="/css/privacy.css" rel="stylesheet" type="text/css">
+		
+	</head>
+	<body>
+		<div class="container">
+			<div class="span-24">
+				<div class="header">
+					
+	<div class="headAd">
+		
+	
+
+	</div>
+	<div class="headLogo clearfix">
+		<a class="logo" href="/"><img src="/css-img/logo.jpg"></a>
+		<div class="topNav">
+			<ul class="topNavIcons clearfix">
+				<li>&nbsp;&nbsp;<script src="http://www.stumbleupon.com/hostedbadge.php?s=6"></script></li>
+				<li><a href="http://www.facebook.com/pages/Home-Tone/122550203502" title="Be a Fan on Facebook - Hometone" class="face spriteIco"></a></li>
+				<li><a href="http://twitter.com/hometone" title="Follow Us On Twitter - Hometone" class="tweet spriteIco"></a></li>
+				<li><a href="http://feeds.feedburner.com/Hometone" title="Subscribe To Our RSS - Hometone" class="rss spriteIco"></a></li>
+			</ul>
+			<div class="topLinks clearfix">							
+				<ul>
+					
+											
+						<li class="links">
+							<a href="/slideshows/">slideshows</a> 
+						</li>	
+					
+						<li class="links">
+							<a href="/galleries/">gallery</a>&nbsp;//&nbsp;&nbsp;
+						</li>					
+							
+					
+				</ul>
+			</div>							
+		</div>
+		<form method="get" class="search" action="/search/" id="cse-search-box">
+			<input type="hidden" name="cx" value="partner-pub-9415440757655812:syo6ne-q8gj">
+			<input type="hidden" name="cof" value="FORID:10">
+			<input type="hidden" name="ie" value="UTF-8">
+			<input type="text" name="q" size="25" id="searchText">
+			<input type="submit" name="sa" value="" class="spriteIco" id="submitSearch">
+		</form>		
+
+		<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+	</div>
+	<ul class="mainNav clearfix">
+		
+			
+				
+				<li><a href="http://www.hometone.com/home-improvement-ideas/" class="navLink">Home Improvement Ideas</a></li>
+				
+			
+		
+			
+				
+				<li><a href="http://www.hometone.com/furniture/" class="navLink">Furniture</a></li>
+				
+			
+		
+			
+				
+				<li><a href="http://www.hometone.com/home-appliances/" class="navLink">Home Appliances</a></li>
+				
+			
+		
+			
+				
+				<li><a href="http://www.hometone.com/lighting/" class="navLink">Lighting</a></li>
+				
+			
+		
+			
+				
+				<li><a href="http://www.hometone.com/accessories/" class="navLink">Accessories</a></li>
+				
+			
+		
+			
+				
+				<li><a href="http://www.hometone.com/gadgets/" class="navLink">Gadgets</a></li>
+				<li class="navMore"> <a href="javascript:void(0)">More &gt;&gt;</a></li>
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		<ul class="navMoreUl">
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/green-homes/" class="navLink">Green Homes</a></li>
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/decor/" class="navLink">Decor</a></li>
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/bathrooms/" class="navLink">Bathrooms</a></li>
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/kitchens/" class="navLink">Kitchens</a></li>
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/outdoors/" class="navLink">Outdoors</a></li>
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/home-audio/" class="navLink">Home Audio</a></li>
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/bedrooms/" class="navLink">Bedrooms</a></li>
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/home-entertainment/" class="navLink">Home Entertainment</a></li>
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/interiors/" class="navLink">Interiors</a></li>
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/design/" class="navLink">Design</a></li>
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/dining-rooms/" class="navLink">Dining Rooms</a></li>
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/home-security/" class="navLink">Home Security</a></li>
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/home-automation/" class="navLink">Home Automation</a></li>
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/living-spaces/" class="navLink">Living Spaces</a></li>
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/technology/" class="navLink">Technology</a></li>
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/home-theaters/" class="navLink">Home Theaters</a></li>
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/infographics/" class="navLink">Infographics</a></li>
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/architecture/" class="navLink">Architecture</a></li>
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/home-trends/" class="navLink">Home Trends</a></li>
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/home-video/" class="navLink">Home Video</a></li>
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/landscaping/" class="navLink">Landscaping</a></li>
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/reviews/" class="navLink">Reviews</a></li>
+				
+			
+				
+					
+					<li><a href="http://www.hometone.com/workspaces/" class="navLink">Workspaces</a></li>
+				
+			
+		</ul>
+	</ul>
+	<div class="headAd">
+		<a href="/gift-guides/"><img src="/css-img/home-tone.jpg"></a>
+	</div>
+						
+				</div>
+			</div>
+			<div class="span-24">
+				<div class="content clearfix">					
+					<div class="span-16 last">
+						<div class="left">	
+							<h2>Instamedia Privacy Policy</h2>
+							<div>
+<p>Instamedia, Inc. ("Instamedia," "we," "us") is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your personally identifiable information. This Privacy Policy (the "Policy") describes our practices in connection with personally identifiable information that we collect through our website located at www.Instamedia.com (the "Site"). This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site, nor does this Policy govern the collection of information by any of our affiliates (collectively, "Affiliated Entities").</p>
+<p>The Site is controlled and operated by Instamedia from the India, and is not intended to subject Instamedia to the laws or jurisdiction of any state, country or territory other than that of the India. Instamedia does not represent or warrant that the Site or any part thereof is appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations.</p>
+<p>By using the Site, you agree to the terms and conditions of this Policy. If you do not agree to the terms and conditions of this Policy, please do not use the Site. We reserve the right to change this Policy without prior notice. You can determine when this Policy was last revised by referring to the "Last Updated" legend at the top of this page. Any changes to our Policy will become effective upon posting of the revised Policy on the Internet, accessible through the Site. Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect.</p>
+<p>This Policy represents the sole, authorized statement of Instamedia's practices with respect to the collection of Personal Information (defined below) through the Site and Instamedia's use of such information. Any summaries of this Policy generated by third party software or otherwise (for example, in connection with the "Platform for Privacy Preferences" or "P3P") shall have no legal effect, do not bind Instamedia, shall not be relied upon in substitute for this Policy, and neither supersede nor modify this Policy. This Policy is in the English language. Any translation of this Policy shall have no legal validity. In the event of any inconsistency between the English language version hereof and any translation of this Policy into another language, this English language version will govern.</p>
+<p>Note Regarding the Use of This Site by Children: The Site is not directed to individuals under the age of thirteen (13), and we request that such individuals do not provide personally identifiable information through the Site. Further, we discourage individuals between ages 13 and 18 from using this site absent parental supervision.</p>
+<p>1. What Types of Information Does Instamedia Collect Via the Site?</p>
+<p>Instamedia gathers two basic types of information through the Site: "Personally Identifiable Information" (or "PII") and "Non-Personally Identifiable Information" (or "Non-PII"). Personally Identifiable Information is information that identifies you as a specific individual; that is, your name, postal address, telephone number, e?mail address, or your credit card number. PII does not include information about any company or organization with which you work, or any newspaper, magazine or other publication with which you may be associated (for example, the name of your employer or publication). In contrast, Non-Personally Identifiable Information includes aggregated information, demographic information, IP addresses and any other information that does not reveal your specific identity.</p>
+<p>a. Personally Identifiable Information.</p>
+<p>You do not have to provide PII to us to access the Site. However, in order for you to take advantage of particular opportunities provided through the Site (for example, to apply for membership or participate in surveys, contests, sweepstakes, raffles or other similar promotions), you may require that you furnish PII. We collect PII from you only when you voluntarily provide it to us. Please note, however, that any personally identifiable information contained in any Offered Content (as defined in our Member Terms) - for example, the names of reporters and people featured or quoted in any Offered Content - is considered to be public information, and does not constitute PII under this Privacy Policy.</p>				
+<p>b. Non-Personally Identifiable Information.</p>
+<p>When you visit and interact with the Site, Instamedia and third parties with whom Instamedia has contracted to provide services to Instamedia may collect Non-PII (for example, a catalog of the Site pages that you visit). Non-PII is generally collected from four different sources: server log files, cookies, clear GIFs and information that you voluntarily provide.</p>
+<p>i. Server Log Files.</p>
+<p>Your Internet Protocol (IP) address is an identifying number that is automatically assigned to your computer by your Internet Service Provider (ISP). This number is identified and logged automatically in our server log files whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) that you visited. Collecting IP addresses is standard practice on the Internet and is done automatically by many web sites.</p>
+<p>ii. Cookies.</p>
+<p>Cookies are data that a web server transfers to an individual's computer for recordkeeping purposes. Cookies are an industry standard used by most web sites, and can facilitate users' ongoing access to and use of a particular web site. Cookies do not cause damage to your computer systems or files, and only the web site that transferred a particular cookie can read, modify or delete such cookie. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or to be given the choice of declining or accepting the transfer of a particular cookie, or cookies from a particular web site, to your computer.</p>
+<p>iii. Clear GIFs.</p>
+<p>Additionally, we or our service providers may use so-called "clear GIFs", "pixel tags", "web beacons" or similar means (collectively, "Clear GIFs") in some Site pages and HTML-formatted e-mail messages to, among other things, compile aggregate statistics about Site usage and response rates and help manage our web site reports. A Clear GIF is an electronic image, often a single-pixel (1x1), that is ordinarily not visible to Site users and may be associated with cookies on our users' hard drives. These Clear GIFs provide us and our service providers with the ability to recognize a browser's cookie when a browser visits this site. Clear GIFs also allow us and our service providers to count users who have visited certain pages of the Site and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted e-mail messages, Clear GIFs can tell the sender whether and when the e-mail has been opened.</p>
+<p>iv. Information That You Voluntarily Provide.</p>
+<p>Instamedia also collects Non-PII (e.g., your interests, your geographic location and so forth) when you voluntarily provide such information to us.</p>
+<p>2. How Does Instamedia Use Information Collected on the Site?</p>
+<p>a. Personally Identifiable Information.</p>
+<p>Instamedia may use your PII to provide you with Site related services. Subject to your right to opt-out (see "Opt-Out" section below), we may also use your PII to inform you of content we believe which may be of interest to you.</p>
+<p>When you make a purchase through the Site, for example Media Marketplace or PHIP, we may collect your credit card number, billing address and other information related to such purchase (collectively, "Payment Information") from you, and may use such Payment Information in order to fulfill your purchase. We may also provide such Payment Information to third parties as necessary to complete your purchase (for example, to process your credit card). Additionally, if you participate in a purchase made through the Site, either as a buyer/republisher or a seller/licensor, we may provide your PII to any other users who participate in such purchase as necessary to fulfill such purchase (for example, to inform the seller/licensor who the buyer/republisher is, and vice versa). To the extent that Payment Information includes non-PII, use of such non-PII is governed by Section 2.b below.</p>
+<p>We may also provide you with the opportunity to complete a survey on the Site. PII collected through surveys will be used for the purposes of monitoring or improving the use of the Site.</p>
+<p>We may offer users the opportunity to participate in discussions in Instamedia' discussion threads. If you use Instamedia' discussion threads, you should be aware that any PII you submit in any discussion thread (including any PII you may choose to make available to other users through your user profile) becomes public information, and can be read, collected, or used by other users of discussion threads, and could be used to send you unsolicited messages. We are not responsible for the PII you choose to submit in these discussion threads, and we urge you to exercise discretion and caution when deciding to disclose your PII, or any other information, in any discussion thread.</p>
+<p>From time to time, in our sole discretion, we may use your PII to e-mail to you important information regarding the Site, your purchases, issues regarding Offered Content or changes to our terms, conditions, and policies ("Administrative E-mails"). Because this information may be important to your use of the Site, you may not opt-out of receiving these Administrative E-mails.</p>
+<p>Further, notwithstanding any other provision of this Policy to the contrary, we reserve the right to disclose your PII if we believe that we are required to do so (a) by law; (b) to comply with legal process or governmental requests; (c) to enforce our Terms of Service; (d) to fulfill our contractual obligations, including fulfilling our users' audit rights, if any; (e) to protect our operations or those of any Affiliated Entities; (f) to protect the rights, privacy, safety or property of Instamedia, the Affiliated Entities, you or others; and (g) to permit us to pursue available remedies or limit the damages that we may sustain. Moreover, we may, to the fullest extent the law allows, disclose PII about you to law enforcement agencies to assist them in identifying individuals who have been or may be engaged in unlawful activities.</p>
+<p>b. Non-Personally Identifiable Information.</p>
+<p>Because Non-PII does not personally identify you, we may use such information for any purpose. In addition, we reserve the right to share such Non?PII, which does not personally identify you, with Affiliated Entities and other third parties, for any purpose.</p>
+<p>3. Other Important Notes Regarding Our Privacy Practices.</p>
+<p>a. Third Party Service Providers.</p>
+<p>We work with third parties who provide services including but not limited to web site hosting, data analysis and other services of an administrative nature. We reserve the right to share your PII with such third parties solely for the purpose of enabling such third parties to provide such services.</p>
+<p>b. Third Party Advertisers.</p>
+<p>We may use third-party contextual and interest-based advertising companies to serve ads when users visit our website, among other services. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Network websites in order to provide advertisements about goods and services of interest to you.</p>
+<p>The third party companies include Google's DoubleClick that may use a range of information including cookies, web beacons, IP addresses, usage data and other non-personal information about your computer or device (such as browser type and operating system) to provide you with relevant advertising. If you are logged into your Instamedia Account, we may also show you advertising based on the information you have provided to us in your Instamedia Account.</p>
+<p>DoubleClick cookie on Instamedia may help advertisers serve ads based on interests associated with non-personally identifiable online activity, such as content or ads viewed or previous activity on advertiser's website. This non-personally identifiable information is held separately from your Instamedia Account data, or other personally identifying information in our possession.</p>
+<p>You may view, edit and add to the categories used to provide you with interest-based advertising in the Ads Preferences Manager.</p>
+<p>You also may choose to opt out of the DoubleClick cookie at any time to stop the ads delivered to your browser.</p>
+<p>Instamedia does not provide any personal information to third-party ad servers or ad networks without your consent.</p>
+<p>c. Third Party Sites.</p>
+<p>The Site may contain links to third party web sites. These linked sites (including without limitation the web sites of Affiliated Entities) are not under Instamedia' control and we are not responsible for the privacy practices or the contents of any such linked site, or any link contained in any linked site. We provide such links only as a convenience, and the inclusion of a link on the Site does not imply endorsement of the linked site by Instamedia or any Affiliated Entities. If you provide any PII through any such third party web site, your transaction will occur on such third party's web site (not the Site) and the PII you provide will be collected by, and controlled by the privacy policy of, that third party. We recommend that you familiarize yourself with the privacy policies and practices of any such third parties. PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES.</p>
+<p>d. Security.</p>
+<p>We seek to maintain reasonable security measures in order to attempt to protect against the loss, misuse or alteration of the PII under our control. Unfortunately, there is no such thing as perfect security. As a result, although we strive to protect your PII, we cannot ensure or warrant the security of any information you transmit to us through or in connection with the Site or that we store on our or our service providers' systems.</p>
+<p>e. Opting-Out.</p>
+<p>We may, from time to time, send you messages about products and services that we believe would be of interest to you. If you would prefer not to receive such promotional messages, you may unsubscribe from such messages by clicking on the "unsubscribe" link at the bottom of such messages, or by contacting us by e-mail at contact@Instamedia.com.</p>
+<p>f. Changing or Removing Your PII.</p>
+<p>We provide you with several options for reviewing, correcting, updating or otherwise modifying PII that you have previously provided through the Site:</p>
+<p>1. You may contact us by e-mail at conatct[at]Instamedia.com.</p>
+<p>2. You may edit your profile by logging into the Instamedia and editing your personal profile.</p>
+<p>In each event, you must clearly indicate the information that you wish to have changed, or clearly indicate that you wish to have your PII removed from our database. We will endeavor to comply with your request as soon as reasonably practicable. However, we may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed therefrom. We also reserve the right, from time to time, to re-contact former users of the Site. Finally, we are not responsible for removing information from the databases of third parties with whom we have already shared your PII.</p>
+<p>g. Assignment.</p>
+<p>We reserve the right to transfer any and all PII that we collect from users of the Site to a third party in the event of any sale, transfer or other disposition of all or any portion of Instamedia's business.</p>
+<p>h. Contacting Us.</p>
+<p>If you have any questions regarding this Policy, please contact us either by e-mail at contact[at]Instamedia.com, or by regular mail at Citizen Media Pvt. Ltd, STPI, Block No. 24, SDA Complex, Kasumpti, Shimla- 171009, H.P., India . Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us.</p></div>
+						</div> 
+					</div>
+					<div class="span-8 last">
+						
+	<div class="sidebar">			
+		<div class="sidebarAds">
+				
+	<script type="text/javascript">
+	google_ad_client = "ca-pub-9415440757655812"; 
+	/* New_Hometone_Com_SD_300x250, created 1/23/11 */ 
+	google_ad_slot = "4193174475"; 
+	google_ad_width = 300; 
+	google_ad_height = 250; 	
+	</script> 
+	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"> 
+	</script> 	
+
+		</div>
+		
+		
+		
+		<div class="subscribe clearfix">
+			<div class="title">Featured Stories</div>
+			
+		</div>
+		
+		<div class="relatedStories">
+			<a class="singleStory" href="http://www.hometone.com/entry/7-unique-audio-docks-built-lamps/" title="Permalink: Seven unique audio docks with built-in lamp">
+				<p class="title">Seven unique audio docks with built-in lamp</p>
+				
+				
+			</a><a class="singleStory" href="http://www.hometone.com/space-saving-tower-kitchen-philippe-starck-warendorf.html" title="Permalink: Space-saving Tower Kitchen by Philippe Starck for Warendorf">
+				<p class="title">Space-saving Tower Kitchen by Philippe Starck for Warendorf</p>
+				
+				
+			</a><a class="singleStory" href="http://www.hometone.com/touch-time-bathroom-doorknob-loo-long.html" title="Permalink: Touch Time doorknob will tell you if you’ve been in the loo too long">
+				<p class="title">Touch Time doorknob will tell you if you’ve been in the loo too long</p>
+				
+				
+			</a><a class="singleStory" href="http://www.hometone.com/stylish-coffee-tables-living-space.html" title="Permalink: Seven stylish low coffee tables for your living space">
+				<p class="title">Seven stylish low coffee tables for your living space</p>
+				
+				
+			</a>
+			
+		</div>		
+		<div class="clear"></div>
+		
+				
+		<div class="clear"></div>
+		
+</div> 
+
+					</div>
+				</div> 				
+			</div>
+		</div> 
+		
+		<div class="footer clearfix">
+			<div class="container">
+				
+	<div class="span-24">
+		<div class="innerFooter clearfix">
+			<div class="footLeft">
+				<div class="feature">
+					<div class="title"><b>FEATURED</b><span>IN PAST</span></div>
+				</div>
+				<div class="connect clearfix">
+					<div class="title">CONNECT WITH US</div>
+					<ul class="footNavIcons">
+						<li>&nbsp;&nbsp;<script src="http://www.stumbleupon.com/hostedbadge.php?s=6"></script></li>
+						<li><a href="http://www.facebook.com/pages/Home-Tone/122550203502" title="Be a Fan on Facebook - Hometone" class="face spriteIco"></a></li>
+						<li><a href="http://twitter.com/hometone" title="Follow Us On Twitter - Hometone" class="tweet spriteIco"></a></li>
+						<li><a href="http://feeds.feedburner.com/Hometone" title="Subscribe To Our RSS - Hometone" class="rss spriteIco"></a></li>
+					</ul>
+				</div>
+				<div class="vigyapan">
+					<div class="title">ADVERTISE WITH US</div>
+					<ul class="innerVigyapan">
+						<li><a href="http://www.instablogs.com/ad_solutions.php">Advertise with us</a></li><li><a href="/contact-us/">Contact Us</a></li><li><a href="/archives/">Archives</a></li>
+					</ul>
+				</div>
+				<div class="follow clearfix">
+					<a href="http://twitter.com/ecofriend_com" title="Follow us on Twitter - Hometone" class="followUs spriteIco"></a>
+					<span></span>
+				</div>
+				<div class="footLogo">
+					<b>HomeTone</b><span>© 2010 Instamedia Pvt. Ltd.</span><span>All rights reserved</span>
+				</div>				
+			</div>
+			<div class="footRight clearfix">
+				<div class="mainScrollDiv">					
+					<div class="jcarousel-skin-ie7" id="mycarousel" data-jcarousel="true">
+						<ul style="left: 0px; top: -3448px;">
+							<li>
+								<a title="10 Cool portable hot bathtubs for modern homes" href="http://www.hometone.com/entry/10-cool-portable-hot-bathtubs-modern-homes/" excerpt="
+You might have usually heard about hot bathtubs or spa bathtubs fixed in a bathroom. There is much more to bathtubs though, depends on what you choose for yourself. Did you know that you can carry your bath tub with you? Yes! These portable hot bathtubs can be carried and installed anywhere you want to install them. Which means you can fit it in your garden on the weekends. You can carry these portable hot bath tubs with you on a vacation. You wouldn&amp;rsquo;t have to spend on a spa with these portable tubs to relax into. There are a few types of tubs listed in this article, just have a look at them to choose the right one for yourself:
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/08/08/portable_hot_tub_vqr1l_100x75.jpg"></a>	
+							</li><li>
+								<a title="15 Unique and creative pillows" href="http://www.hometone.com/entry/15-unique-creative-pillows/" excerpt="
+Sleep is scientifically defined as the state of reduced consciousness and suspended sensory activity when an individual takes a temporary leap away from the conscious world. It is the most desired relaxing activity of all individuals, and it becomes even more enjoyable one when we have creative, trendy and more comfortable pillows with us.
+Following are some unique and creative pillows available in the market:
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/08/05/15_unique_and_creative_pillows_n4aqg_100x75.jpg"></a>	
+							</li><li>
+								<a title="Videochef by Videotree: The television you always wanted for your kitchen!" href="http://www.hometone.com/entry/videochef-videotree-television-wanted-kitchen/" excerpt="
+If you have always desired to watch TV in your kitchen, or have rued missing your favorite television program while you are slogging over a hot fire, you can now rest assured with Videotree&amp;rsquo;s latest addition to its venerable family of waterproof television sets. They have named their new television model Videochef, and it is specially designed to be incorporated in your kitchen without taking up too much space or being a cumbersome burden. The screen is an impressive 27 inches High Definition LED one, and it is encased in a protective glass covering, so that you need not worry about your beloved TV screen being spoiled by kitchen fumes. And of course, as mentioned earlier, it is completely waterproof so it is the ideal accompaniment in the kitchen.
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/08/05/videochef_by_videotree_i8ofg_100x75.jpg"></a>	
+							</li><li>
+								<a title="Coz smart coffee table for contemporary setup" href="http://www.hometone.com/entry/coz-smart-coffee-table-contemporary-setup/" excerpt="
+Who doesn #8217;t like decorating their homes with exclusive pieces of furniture? Twodesigners Studio has come up with an attention-grabbing creation named Coz, which will leave an everlasting impression. The overall look is quite compact that proves to be a blessing in today&amp;rsquo;s packed world.
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/07/30/coz_by_twodesigners_studio_mwvlf_100x75.jpg"></a>	
+							</li><li>
+								<a title="12 Modular kitchen designs for space-cramped homes" href="http://www.hometone.com/entry/12-modular-kitchen-designs-space-cramped-homes/" excerpt="
+Kitchen is the main working place of housewives. There is a popular proverb saying that, &amp;ldquo;The way to a man #8217;s heart is through his stomach.&amp;rdquo; So no doubt, you can enjoy cooking only if you have a best space for it. Modular kitchens are the latest trend among the home interiors. The main attraction of the modular kitchens is the storage space they provide. We can store a lot of thing inside the cabinets. Now new designs have come, and you can store even your washing machine in the kitchen! But all these ideas are applicable to the big kitchens and the houses where a lot of space is provided. But, for a cramped house or an apartment, how can we design a small modular kitchen? Is it possible?
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/08/03/compact_modular_kitchen_atkru_100x75.jpg"></a>	
+							</li><li>
+								<a title="Minimalist Wall-lit light creates maximum delight" href="http://www.hometone.com/entry/minimalist-wall-lit-light-creates-maximum-delight/" excerpt="
+Created by Aussie designer Lorett Foth, the Wall-lit Light is a playful new design that uses a minimalist light source as a starting point and uses the interplay between the light it emits and the shadows it creates on various surfaces to dramatically alter a space. The lamp primarily uses Christmas lights fitted within acrylic rods that are held together with a rectangular wooden section. The main source of the light is hidden under the wood which does not allow the light to disperse.   
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/08/03/wall_lit_light_1ycnm_100x75.jpg"></a>	
+							</li><li>
+								<a title="How to make hidden storage space in your home?" href="http://www.hometone.com/entry/hidden-storage-space-home/" excerpt="
+Space and time have become precious commodities in the modern world.  Is your home short on storage space?  Do you like the feeling of freedom that comes with spacious clutter-free living areas?  Of course, everybody does.  The problem is that there are way too many things in the home and not enough place to put them away in.  Don #8217;t worry.  There are plenty of hidden storage spaces in your home that is commonly overlooked and hence underutilized.  Here are some tips that will help you discover hidden space to store things, and make your apartment look bigger. 
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/08/02/hidden_storage_space_zxmi2_100x75.jpg"></a>	
+							</li><li>
+								<a title="How to create a great outdoor play area in fuss-free manner" href="http://www.hometone.com/entry/create-great-outdoor-play-area-fuss-free-manner/" excerpt="
+Children love to play outdoors. Parents hardly get to spend quality time with their kids, thanks to the busy schedule that keeps them all tied up. The best way to connect with this age group is through an outdoor play area. But, constructing one can burn a hole in your pocket, if professional help is hired. How about making one on your own that too by involving you kids in it? Listed below are a few instructions that will be of great help while constructing an outdoor play area. This will help form an everlasting bond with your kids and let you relax.
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/08/01/outdoor_play_area_qjmmk_100x75.jpg"></a>	
+							</li><li>
+								<a title="Everything you need to know about adding stairs to your deck" href="http://www.hometone.com/entry/adding-stairs-deck/" excerpt="
+Introduction
+Building stairs for a deck is a straightforward job if you know the basics of building and if you have all the necessary tools. You can do the job on your own without relying on contractors and can also save a large sum of money in the process.  You can choose to build the stairs either before you put up the deck or after the deck boards are in place. Read on to learn how to add stairs to that beautiful wooden deck of yours.
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/07/29/stairs_to_deck_mnflm_100x75.jpg"></a>	
+							</li><li>
+								<a title="Give your home a fashionable makeover with French windows" href="http://www.hometone.com/entry/give-home-fashionable-makeover-french-windows/" excerpt="
+Introduction
+If you want to give your home a fashionable makeover, begin by replacing your ordinary windows with UPVC windows. The UPVC windows are pocket-friendly and give your home the much-desired extra edge. Among the UPVC windows, the most in demand are the French casement ones. These add elegance to your home and provide unhindered exterior view. It provides you with enough natural light and is long lasting. Installing French windows is also an eco-friendly option, as all the natural light will reduce your use of electricity to a large extent.
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/07/23/upvc_casemen_window_with_shutters_6pt1p_100x75.jpg"></a>	
+							</li><li>
+								<a title="10 out-of-the-box doors for your home entrance" href="http://www.hometone.com/entry/10-box-doors-home-entrance/" excerpt="A door is a structure that can be moved and it is used to close off an entrance.  A door consists of a panel that moves back and forth on the hinges, it can also slide or rotate inside the space provided for it.  When a door is opened it allows ventilation and illuminates the space.  A door regulates the physical surroundings within a provided space by surrounding the air drafts in order to make the interior to be heated or cooled down more effectively.  Doors play an important role in preventing against spreading of fire.  They also provide a barrier against noise.  Below given is a list of the most popular doors that are used for the entrance of your home:
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/07/29/chalk_door_gxryi_100x75.jpg"></a>	
+							</li><li>
+								<a title="Roca award finalists: Amazing designs for a luxurious experience" href="http://www.hometone.com/entry/roca-award-finalists-amazing-designs-luxurious-experience/" excerpt="
+Bathrooms are an essential part of every household space. People like to ornament it with the best accessories, just like any other room. Roca has organized a competition that welcomes bathroom concepts, which have a unique and user-friendly nature. Thousands of enthusiasts from all over the globe participate every year and this edition is no different. Below is a list of finalists, for the year 2011, which managed to cause ripples during the contest with their attention-grabbing concepts/designs:
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/07/30/roca_winners_mfnnf_100x75.jpg"></a>	
+							</li>
+						</ul> 									
+					</div>	
+					
+					<div class="clear" id="scrollDivContent"></div>
+				</div>
+				<div class="popularStories">
+					<div class="title">ON THE NEXT PAGE</div>					
+					<ul class="popList">
+						
+							<li class="li"><a title="Permalink: Introduction" href="http://www.hometone.com/introduction3.html">Introduction</a></li>
+												
+						
+							<li class="li"><a title="Permalink: picNYC Table: The perfect structure for indoor picnics" href="http://www.hometone.com/picnyc-table-perfect-structure-indoor-picnics.html">picNYC Table: The perfect structure for indoor picnics</a></li>
+												
+						
+							<li class="li"><a title="Permalink: Best of 2011: Bookshelves" href="http://www.hometone.com/2011-bookshelves.html">Best of 2011: Bookshelves</a></li>
+												
+						
+							<li class="li"><a title="Permalink: Home lighting achieves new possibilities with Drop..." href="http://www.hometone.com/lighting-achieves-possibilities-drop-light.html">Home lighting achieves new possibilities with Drop...</a></li>
+												
+						
+							<li class="li"><a title="Permalink: S2 One Touch by Severin is the first fully automatic..." href="http://www.hometone.com/s2-touch-severin-fully-automatic-coffee-maker.html">S2 One Touch by Severin is the first fully automatic...</a></li>
+												
+						
+							<li class="li"><a title="Permalink: Best of 2011: Floor Lamps" href="http://www.hometone.com/2011-floor-lamps.html">Best of 2011: Floor Lamps</a></li>
+												
+						
+							<li class="li"><a title="Permalink: Best of 2011: Kitchen faucets" href="http://www.hometone.com/2011-kitchen-faucets.html">Best of 2011: Kitchen faucets</a></li>
+												
+						
+							<li class="li"><a title="Permalink: Draped and knotted Lacrima Veneziana light" href="http://www.hometone.com/draped-knotted-lacrima-veneziana-light.html">Draped and knotted Lacrima Veneziana light</a></li>
+												
+						
+							<li class="li"><a title="Permalink: RGB LEDs Moodlighting system changes colors and..." href="http://www.hometone.com/rgb-leds-moodlighting-system-colors-creates-moods.html">RGB LEDs Moodlighting system changes colors and...</a></li>
+												
+						
+							
+							<li><a title="Permalink: Kivi Faucet has a simple, geometric outline" href="http://www.hometone.com/kivi-faucet-simple-geometric-outline.html">Kivi Faucet has a simple, geometric outline</a></li>					
+						
+												
+					</ul>					
+				</div>
+				<div class="latestGalInfo clearfix">
+					<div class="latestGal">
+						<div class="title">LATEST GALLERIES &amp; SLIDESHOWS</div>
+						<div class="jcarousel-skin-ie72" id="mycarousel2">
+							<ul class="scrollGal clearfix">
+								<li>
+									<a title="Permalink: compact kitchen" href="http://www.hometone.com/slideshow/compact-kitchen/"><img src="http://www.instablogsimages.com/1/2011/09/20/compact_kitchen_hikdo_110x135.jpg"></a>
+									<span></span>
+									<a title="Permalink: compact kitchen" href="http://www.hometone.com/slideshow/compact-kitchen/">compact kitchen</a>
+								</li><li>
+									<a title="Permalink: Coffee Table in the hunter's style" href="http://www.hometone.com/slideshow/coffee-table-in-the-hunters-style/"><img src="http://www.instablogsimages.com/1/2011/07/08/coffee_table_in_the_hunters_style_c8e2v_110x135.jpg"></a>
+									<span></span>
+									<a title="Permalink: Coffee Table in the hunter's style" href="http://www.hometone.com/slideshow/coffee-table-in-the-hunters-style/">Coffee Table in the hunter's style</a>
+								</li><li>
+									<a title="Permalink: LuxChroma Design" href="http://www.hometone.com/slideshow/luxchroma-design/"><img src="http://www.instablogsimages.com/images/2011/04/27/pi-illuminated-wall-art-for-the-geek_40975_110x135.jpg"></a>
+									<span></span>
+									<a title="Permalink: LuxChroma Design" href="http://www.hometone.com/slideshow/luxchroma-design/">LuxChroma Design</a>
+								</li><li>
+									<a title="Permalink: SAI Modular Wall Storage Unit" href="http://www.hometone.com/sai.html"><img src="http://www.instablogsimages.com/1/2011/12/20/sai_yfkca_110x135.jpg"></a>
+									<span></span>
+									<a title="Permalink: SAI Modular Wall Storage Unit" href="http://www.hometone.com/sai.html">SAI Modular Wall Storage Unit</a>
+								</li><li>
+									<a title="Permalink: Tino cupcake baker" href="http://www.hometone.com/tino-cupcake-baker.html"><img src="http://www.instablogsimages.com/1/2011/12/19/1_drz6z_otpbu_110x135.jpg"></a>
+									<span></span>
+									<a title="Permalink: Tino cupcake baker" href="http://www.hometone.com/tino-cupcake-baker.html">Tino cupcake baker</a>
+								</li><li>
+									<a title="Permalink: Halva Press &amp; Spread Toaster" href="http://www.hometone.com/halva-press-spread-toaster1.html"><img src="http://www.instablogsimages.com/1/2011/12/19/1_pydc2_8brgd_110x135.jpg"></a>
+									<span></span>
+									<a title="Permalink: Halva Press &amp; Spread Toaster" href="http://www.hometone.com/halva-press-spread-toaster1.html">Halva Press &amp; Spread Toaster</a>
+								</li>
+							</ul>
+						</div>
 						
 					</div>
-					<div class="clear"></div>
-					<div class="bottom-nav">
-						<a class="share sprite mail" href="javascript:void(0)" onclick="my_lightbox('subscribe')" title=""></a>
-						<a class="share sprite face" href="http://www.facebook.com/pages/Home-Tone/122550203502"></a>
-						<a class="share sprite tweet" href="http://twitter.com/hometone"></a>
-						<a class="share sprite rss" href="http://feeds.feedburner.com/Hometone"></a>
-													<span class=""><span class="nav-bg hom"><a href="http://www.hometone.org"></a></span></span>
-							<span class=""><span class="nav-bg bathrooms"><a href="http://www.hometone.org/tags/bathrooms/"></a></span></span>
-							<span class=""><span class="nav-bg decor"><a href="http://www.hometone.org/tags/decor/"></a></span></span>
-							<span class=""><span class="nav-bg design"><a href="http://www.hometone.org/tags/design/"></a></span></span>
-							<span class=""><span class="nav-bg gadgets"><a href="http://www.hometone.org/tags/gadgets/"></a></span></span>
-							<span class=""><span class="nav-bg green"><a href="http://www.hometone.org/tags/green/"></a></span></span>
-							<span class=""><span class="nav-bg kitchen"><a href="http://www.hometone.org/tags/kitchen/"></a></span></span>
-							<span class=""><span class="nav-bg living"><a href="http://www.hometone.org/tags/living/"></a></span></span>
-							<span class=""><span class="nav-bg outdoors"><a href="http://www.hometone.org/tags/outdoors/"></a></span></span>
-							<span class=""><span class="nav-bg renovations"><a href="http://www.hometone.org/tags/renovations/"></a></span></span>
-							<span class=""><span class="nav-bg technology"><a href="http://www.hometone.org/tags/technology/"></a></span></span>
-					</div><!-- EOF bottom-nav -->
-					<div class="clear"></div>
-				</div><!-- EOF header -->
-				<div class="clear"></div>
-				<div class="inner-container">
-
-				
-
-
-		<div class="content">
-				<div class="privacy-content-main">						
-					<div class="error-page-title">Privacy Policy</div> 
-
-					<p>This privacy statement covers all of the Instablogs sites. Please read this statement carefully before using proceeding to access Instablogs Sites. Your use of Instablogs Sites indicates your agreement to abide by the Terms in effect.</p>
-
-					<div>Information Collection</div>
-
-					<p>Instablogs Network is the sole owner of the information collected on the Instablogs Sites. Instablogs Network may collect information from our users at several different points on the Instablogs Sites.</p>
-
-					<div>Comments</div>
-					<p>In order to enhance their use of the Instablogs Sites, users can choose to leave comments on particular articles of interest. To leave a comment, users must submit information including a valid email address. Instablogs Network uses this information to screen out users who leave comments prohibited by our terms and conditions of use, and will not pass this information to any other organization.</p>
-
-					<div>Mailing List</div>
-
-					<p>Instablogs Network may launch a mailing list for some or all of the Instablogs Sites. In order to sign up to receive regular emails from a site's mailing list, users must submit information including a valid email address and demographic information such as location and interests. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails from the site, including new articles added to the site as well as emails from third party site sponsors. If you do not wish to receive emails from third party advertisers, do not sign up for the mailing list.</p>
-
-					<div>Discussion Group and Cookies</div>
-					<p>In order to further enhance the user experience, Instablogs Network may launch a discussion board service on some or all of the Instablogs Sites where users can discuss common topics of interest. Users will have the option of signing up for this service, and to do so must submit information including a valid email address. Instablogs Network uses this information to screen out users who leave comments prohibited by our terms and conditions of use and to pick out topics of interest to discussion board users. Instablogs Network will not pass this information to any other organization except in aggregate form.</p>
-
-					<p>The discussion board service may use cookies. A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.</p>
-
-					<p>By setting a cookie on a Instablogs Site, users will not have to log in a password more than once, thereby saving time while on the site's discussion board. We store a cookie on each user's machine that contains a username and encrypted password. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use Instablogs Network products or services that require you to "sign in," and you may not be able to take full advantage of all offerings. However, not all Instablogs Network services require that you accept cookies.</p>
-
-					<div>Third Party Cookies</div>
-					<p>Some of our business partners may use cookies on our site (for example, advertisers). However, Instablogs Network has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Instablogs Network only and does not cover the use of cookies by any advertisers.</p>
-
-					<div>Third Party Advertising</div>
-					<p>The ads appearing on this Web site are delivered to users by Google, among other services. Information about users' visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site. For more information about Google and cookies, please click here.</p>
-
-					<div>Log Files
-					</div><p>Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.</p>
-
-					<div>Legal Disclaimer</div>
-					<p>Though we make every effort to preserve user privacy, Instablogs Network may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on any of the Instablogs Sites.</p>
-
-					<div>Business Transitions</div>
-					<p>In the event Instablogs Network goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.</p>
-
-					<div>Links</div>
-
-					<p>The Instablogs Sites contain links to other sites. Please be aware that Instablogs Network is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Instablogs Network.</p>
-
-					<div>Notification of Changes</div>
-					<p>Whenever Instablogs Network changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>
-
-					<div>Contact Information</div>
-					<p>If you have any questions or notices of violations to these terms and conditions, please contact the editor of the Instablogs Site in question, or send an email to info AT instablogs.com, or by mail to: 
-					<br>Instablogs, III Floor,
-					<br>STPI, Block No. 24, 
-					<br>SDA Complex, Kasumpati, 
-					<br>Shimla, India.
 					
-					</p>
-
-				</div><!-- EOF #content-main -->
-
-			
-			</div><!-- EOF content -->
-
-			<div class="sidebar">
-<div class="search">
-	<form action="/search.php" id="cse-search-box">
-		<input type="hidden" name="cx" value="partner-pub-9415440757655812:u1vfac9z83r">
-		<input type="hidden" name="cof" value="FORID:10">
-		<input type="hidden" name="ie" value="UTF-8">
-		<input type="text" class="s-text" name="q" size="25">
-		<input type="submit" class="s-but" name="sa" value="Search">
-		<div class="s-lens sprite"></div>
-	</form>
-	<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
-</div>
-	<div class="clear"></div>
-
-<div class="side-ads" style="padding-bottom:10px; margin-top:20px;"><script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=318102597&amp;adSize=300x250"></script></div><div class="clear"></div><div class="side-ads" style="padding-bottom:10px; margin-top:20px;"></div><div class="clear"></div><div class="side-ads" style="float:right;"></div><div class="clear"></div><div class="side-ads" style="margin-top:5px;"></div><div class="clear"></div>
-<div class="side-ads" style="float:left;"></div><div class="side-ads" style="float:right;"></div><div class="clear"></div>
-	<div class="sidewindow">
-	<div class="h-space"></div>
-	<div class="side-head"><a href="http://www.hometone.org/videos/">All</a>Videos</div>
-	
-	<div class="clear"></div>
-		<div id="sidewindow">
-		<ul style="width: 2850px;">	
-							<li style="float: left;">
-												<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.hometone.org/entry/luminar-is-not-a-simple-lampits-a-living-robotic-assistant/"><img src="http://www.instablogsimages.com/images/2010/06/12/luminar_lamp_n576U_1822_100x100.jpg"></a>
-								</div>
-								<div class="video-title"><a href="http://www.hometone.org/entry/luminar-is-not-a-simple-lampits-a-living-robotic-assistant/">LuminAR is not a simple lamp...It's a li...</a></div>
-								<div class="clear"></div>
-							</div>
-														<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.hometone.org/entry/tunable-sound-cloud-enhances-the-acoustic-performance-of-room-it-hangs-in/"><img src="http://www.instablogsimages.com/images/2010/06/12/tunable-sound-cloud_TyrF3_1822_100x100.jpg"></a>
-								</div>
-								<div class="video-title"><a href="http://www.hometone.org/entry/tunable-sound-cloud-enhances-the-acoustic-performance-of-room-it-hangs-in/">Tunable Sound Cloud enhances the acousti...</a></div>
-								<div class="clear"></div>
-							</div>
-														<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.hometone.org/entry/augmented-shadow-fantasy-ecosystem-playwing-with-it-is-fun/"><img src="http://www.instablogsimages.com/images/2010/06/10/augmented-shadow_DYKDM_24702_100x100.jpg"></a>
-								</div>
-								<div class="video-title"><a href="http://www.hometone.org/entry/augmented-shadow-fantasy-ecosystem-playwing-with-it-is-fun/">'Augmented shadow' fantasy ecosystem: Pl...</a></div>
-								<div class="clear"></div>
-							</div>
-														<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.hometone.org/entry/this-coffee-table-shreds-the-trash-stylishly/"><img src="http://www.instablogsimages.com/images/2010/06/10/img_5404_knob_riXKX_1822_100x100.jpg"></a>
-								</div>
-								<div class="video-title"><a href="http://www.hometone.org/entry/this-coffee-table-shreds-the-trash-stylishly/">This coffee table shreds the trash styli...</a></div>
-								<div class="clear"></div>
-							</div>
-											</li>
-							<li style="float: left;">
-												<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.hometone.org/entry/lenses-of-this-clock-overlap-to-show-you-the-time/"><img src="http://www.instablogsimages.com/images/2010/05/26/cl1_4kyZT_1822_100x100.jpg"></a>
-								</div>
-								<div class="video-title"><a href="http://www.hometone.org/entry/lenses-of-this-clock-overlap-to-show-you-the-time/">Lenses of this clock overlap to show you...</a></div>
-								<div class="clear"></div>
-							</div>
-														<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.hometone.org/entry/open-the-book-and-sit-on/"><img src="http://www.instablogsimages.com/images/2010/05/25/takeaseat06_pFvhh_1822_100x100.jpg"></a>
-								</div>
-								<div class="video-title"><a href="http://www.hometone.org/entry/open-the-book-and-sit-on/">Open the book and sit on!</a></div>
-								<div class="clear"></div>
-							</div>
-														<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.hometone.org/entry/have-touchless-interaction-with-your-kitchen-tap/"><img src="http://www.instablogsimages.com/images/2010/05/18/tl4_u2v8u_1822_100x100.jpg"></a>
-								</div>
-								<div class="video-title"><a href="http://www.hometone.org/entry/have-touchless-interaction-with-your-kitchen-tap/">Have touchless interaction with your kit...</a></div>
-								<div class="clear"></div>
-							</div>
-														<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.hometone.org/entry/oshibe-plays-different-sounds-when-you-place-the-little-lighting-eggs-on/"><img src="http://www.instablogsimages.com/images/2010/05/17/tomomi_150510_06-630x436_2ISvi_1822_100x100.jpg"></a>
-								</div>
-								<div class="video-title"><a href="http://www.hometone.org/entry/oshibe-plays-different-sounds-when-you-place-the-little-lighting-eggs-on/">Oshibe plays different sounds when you p...</a></div>
-								<div class="clear"></div>
-							</div>
-											</li>
-							<li style="float: left;">
-												<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.hometone.org/entry/diy-fixing-ipad-on-the-kitchen-cabinet/"><img src="http://www.instablogsimages.com/images/2010/05/05/cabinet3_HHe73_1822_100x100.jpg"></a>
-								</div>
-								<div class="video-title"><a href="http://www.hometone.org/entry/diy-fixing-ipad-on-the-kitchen-cabinet/">DIY: Fixing iPad on the kitchen cabinet</a></div>
-								<div class="clear"></div>
-							</div>
-														<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.hometone.org/entry/arthur-bodolecs-living-furniture-pieces/"><img src="http://www.instablogsimages.com/images/2010/04/30/jack011_uMOZv_1822_100x100.jpg"></a>
-								</div>
-								<div class="video-title"><a href="http://www.hometone.org/entry/arthur-bodolecs-living-furniture-pieces/">Arthur Bodolec's living furniture pieces</a></div>
-								<div class="clear"></div>
-							</div>
-														<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.hometone.org/entry/flashy-home-furnishings/"><img src="http://www.instablogsimages.com/images/2010/04/29/argo-fiber_W8RtN_1822_100x100.jpg"></a>
-								</div>
-								<div class="video-title"><a href="http://www.hometone.org/entry/flashy-home-furnishings/">Flashy home furnishings!</a></div>
-								<div class="clear"></div>
-							</div>
-														<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.hometone.org/entry/funky-oxygen-sofa-by-svilen-gamolov/"><img src="http://www.instablogsimages.com/images/2010/04/27/sofa_RNc7Q_1822_100x100.jpg"></a>
-								</div>
-								<div class="video-title"><a href="http://www.hometone.org/entry/funky-oxygen-sofa-by-svilen-gamolov/">Funky Oxygen Sofa by Svilen Gamolov</a></div>
-								<div class="clear"></div>
-							</div>
-											</li>
-								
-		</ul>
-	</div><span id="prevBtn"><a href="javascript:void(0);" style="display: none;">Previous</a></span> <span id="nextBtn"><a href="javascript:void(0);" style="display: inline;">Next</a></span>
-</div>
-<div class="clear"></div>
-
-<div class="side-ads" style="float:left;margin-bottom:10px;"><!-- BEGIN RICH-MEDIA Burst Direct CODE -->
-<script type="text/javascript" language="JavaScript">
-rnum=Math.round(Math.random() * 100000);
-ts=String.fromCharCode(60);
-if (window.self != window.top) {nf=''} else {nf='NF/'};
-document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad15198y.cgi/v=2.3S/sz=125x125A/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
-</script><script src="http://www.burstnet.com/cgi-bin/ads/ad15198y.cgi/v=2.3S/sz=125x125A/25079/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad15198y-map.cgi/ns/v=2.3S/sz=125x125A/" target="_top">
-<img src="http://www.burstnet.com/cgi-bin/ads/ad15198y.cgi/ns/v=2.3S/sz=125x125A/" border="0" alt="Click Here" /></a>
-</noscript>
-<!-- END Burst Direct CODE --></div><div class="side-ads" style="float:right;margin-bottom:10px;"><!-- BEGIN UAT - 125x125 - BornRich: Hometone - DO NOT MODIFY -->
-<script type="text/javascript" src="http://ad-cdn.technoratimedia.com/00/19/47/uat_4719.js?ad_size=125x125"></script>
-<!-- END TAG --></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
-	<div class="t-sidewindow" id="t-sidewindow">
-		<div class="side-head">Popular Tags</div>
-		<ul class="pop-tags">
-					<li><a href="http://www.hometone.org/tags/lifestyle/">Lifestyle</a></li>
-					<li><a href="http://www.hometone.org/tags/home-decor/">home decor</a></li>
-					<li><a href="http://www.hometone.org/tags/furniture/">furniture</a></li>
-					<li><a href="http://www.hometone.org/tags/design/">design</a></li>
-					<li><a href="http://www.hometone.org/tags/lighting/">Lighting</a></li>
-					<li><a href="http://www.hometone.org/tags/home-furnishing/">Home Furnishing</a></li>
-					<li><a href="http://www.hometone.org/tags/kitchen/">kitchen</a></li>
-					<li><a href="http://www.hometone.org/tags/eco-friendly/">eco-friendly</a></li>
-					<li><a href="http://www.hometone.org/tags/home-furniture/">home furniture</a></li>
-					<li><a href="http://www.hometone.org/tags/seating/">Seating</a></li>
-				</ul>
-					<div class="all-tag"><a class="r-tag" href="javascript:tag_paging('2','50','10')">Next 10 <b>&gt;&gt;</b></a><a href="/tags/">All Tags</a></div>
-			</div><!-- EOF sidewindow -->
-
-<div class="side-ads" style="margin-bottom:5px;"><script src="http://www15.glam.com/glamIgm.act?igm=318102597;199268861;6050"></script></div><div class="clear"></div>
-	<div class="club-sidebar">
-	<div class="club-title"><img src="/images/insta_club_badge.gif" border="0" alt=""></div>
-		<div class="main-club"><div class="club-img"><a href="http://www.adpunch.org/entry/creativity-in-harvey-nichols-campaigns/"><img src="http://www.instablogsimages.com/images/2010/06/20/hn_bingo_mRT6P_28802_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.adpunch.org/entry/creativity-in-harvey-nichols-campaigns/">Creativity in Harvey Nichols' campaigns</a></div><div class="link"> (<a href="http://www.adpunch.org">Adpunch</a>)</div><div class="clear"></div></div><!-- EOF main-club --><div class="main-club"><div class="club-img"><a href="http://www.adpunch.org/entry/why-waste-energy/"><img src="http://www.instablogsimages.com/images/2010/06/20/xanlite-hypnotist_36S8R_28802_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.adpunch.org/entry/why-waste-energy/">Why waste energy?</a></div><div class="link"> (<a href="http://www.adpunch.org">Adpunch</a>)</div><div class="clear"></div></div><!-- EOF main-club --><div class="main-club"><div class="club-img"><a href="http://www.adpunch.org/entry/chicks-too-cross-the-red-sea-no-miracles/"><img src="http://www.instablogsimages.com/images/2010/06/20/ocean-hawaiian_QEKgl_28802_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.adpunch.org/entry/chicks-too-cross-the-red-sea-no-miracles/">Chicks too cross the red sea, no miracles</a></div><div class="link"> (<a href="http://www.adpunch.org">Adpunch</a>)</div><div class="clear"></div></div><!-- EOF main-club --><div class="main-club"><div class="club-img"><a href="http://www.adpunch.org/entry/lady-liberty-spoiled-by-reading/"><img src="http://www.instablogsimages.com/images/2010/06/20/sz_library_of_metropolises_ny_BXUyE_28802_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.adpunch.org/entry/lady-liberty-spoiled-by-reading/">Lady liberty, spoiled by reading</a></div><div class="link"> (<a href="http://www.adpunch.org">Adpunch</a>)</div><div class="clear"></div></div><!-- EOF main-club --><div class="main-club"><div class="club-img"><a href="http://www.adpunch.org/entry/a-twisted-campaign-from-israel-which-goes-for-male-pregnancy-test/"><img src="http://www.instablogsimages.com/images/2010/06/20/clalit_ready_daddy_EWzk1_28802_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.adpunch.org/entry/a-twisted-campaign-from-israel-which-goes-for-male-pregnancy-test/">A twisted campaign from Israel, which goes for  male pregnancy test</a></div><div class="link"> (<a href="http://www.adpunch.org">Adpunch</a>)</div><div class="clear"></div></div><!-- EOF main-club -->	</div><!-- EOF club-sidebar -->
-
-<div class="side-ads" style="margin-bottom:5px;margin-top:5px;"><script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=318102597&amp;adSize=300x250&amp;zone=Marketplace"></script></div><div class="clear"></div>
-	<iframe src="http://www.facebook.com/plugins/likebox.php?id=122550203502&amp;width=300&amp;height=250&amp;connections=10&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:300px; height:250px"></iframe>
-
-<div class="side-ads" style="margin-bottom:5px;margin-top:5px;"></div><div class="clear"></div>
-			<div class="t-sidewindow" id="archives">
-			<div class="side-head">Archives</div>
-			<ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open0').show('slow')}" "="">2010</ul><ul class="arch-open" id="arch-open0">					<li>
-						<a href="http://www.hometone.org/archives/201006/">June 2010</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/201005/">May 2010</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/201004/">April 2010</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/201003/">March 2010</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/201002/">February 2010</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/201001/">January 2010</a>
-					</li>
-			</ul><ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open1').show('slow')}" "="">2009</ul><ul class="arch-open" id="arch-open1" style="display:none;">					<li>
-						<a href="http://www.hometone.org/archives/200912/">December 2009</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200911/">November 2009</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200910/">October 2009</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200909/">September 2009</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200908/">August 2009</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200907/">July 2009</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200906/">June 2009</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200905/">May 2009</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200904/">April 2009</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200903/">March 2009</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200902/">February 2009</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200901/">January 2009</a>
-					</li>
-			</ul><ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open2').show('slow')}" "="">2008</ul><ul class="arch-open" id="arch-open2" style="display:none;">					<li>
-						<a href="http://www.hometone.org/archives/200812/">December 2008</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200811/">November 2008</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200810/">October 2008</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200809/">September 2008</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200808/">August 2008</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200807/">July 2008</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200806/">June 2008</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200805/">May 2008</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200804/">April 2008</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200803/">March 2008</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200802/">February 2008</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200801/">January 2008</a>
-					</li>
-			</ul><ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open3').show('slow')}" "="">2007</ul><ul class="arch-open" id="arch-open3" style="display:none;">					<li>
-						<a href="http://www.hometone.org/archives/200712/">December 2007</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200711/">November 2007</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200710/">October 2007</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200709/">September 2007</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200708/">August 2007</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200707/">July 2007</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200706/">June 2007</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200705/">May 2007</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200704/">April 2007</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200703/">March 2007</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200702/">February 2007</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200701/">January 2007</a>
-					</li>
-			</ul><ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open4').show('slow')}" "="">2006</ul><ul class="arch-open" id="arch-open4" style="display:none;">					<li>
-						<a href="http://www.hometone.org/archives/200612/">December 2006</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200611/">November 2006</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200610/">October 2006</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200609/">September 2006</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200608/">August 2006</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200607/">July 2006</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200606/">June 2006</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200605/">May 2006</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200604/">April 2006</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200603/">March 2006</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200602/">February 2006</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200601/">January 2006</a>
-					</li>
-			</ul><ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open5').show('slow')}" "="">2005</ul><ul class="arch-open" id="arch-open5" style="display:none;">					<li>
-						<a href="http://www.hometone.org/archives/200512/">December 2005</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200511/">November 2005</a>
-					</li>
-								<li>
-						<a href="http://www.hometone.org/archives/200510/">October 2005</a>
-					</li>
-					</ul></div><!-- EOF archives -->
-		
-<div class="side-ads" style="margin-left:10px;float:right;"><script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=318102597&amp;adSize=160x600"></script></div><div class="side-ad"><!-- BEGIN STANDARD TAG - 120 x 240 - hometone::Default section - DO NOT MODIFY -->
-<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="120" height="240" src="http://ad.103092804.com/st?ad_type=iframe&amp;ad_size=120x240&amp;section=804288"></iframe>
-<!-- END TAG --></div><div class="clear"></div>
-<div class="side-ads" style="margin-top:15px;"><!-- BEGIN RICH-MEDIA Burst Direct CODE -->
-<script type="text/javascript" language="JavaScript">
-rnum=Math.round(Math.random() * 100000);
-ts=String.fromCharCode(60);
-if (window.self != window.top) {nf=''} else {nf='NF/'};
-document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad15198y.cgi/v=2.3S/sz=300x250A/NZ/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
-</script><script src="http://www.burstnet.com/cgi-bin/ads/ad15198y.cgi/v=2.3S/sz=300x250A/NZ/44323/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad15198y-map.cgi/ns/v=2.3S/sz=300x250A/" target="_top">
-<img src="http://www.burstnet.com/cgi-bin/ads/ad15198y.cgi/ns/v=2.3S/sz=300x250A/" border="0" alt="Click Here" /></a>
-</noscript>
-<!-- END Burst Direct CODE --></div><div class="clear"></div>
-	<div class="clear"></div>
-</div><!-- EOF sidebar -->			
-<div class="clear"></div>
-<div class="insta-articles" id="insta-articles">
-	<div class="related-s">You might also like</div>
-	<div class="clear"></div>
-	
-
-	<div class="paging-class">		<div class="all-post"><a class="r-post prev-disabled"><b></b></a></div>
-			<div class="all-post"><a class="r-post next" href="javascript:post_paging('2','43','6')"><b></b></a></div>
+				</div> 
+			</div>
+			<div class="clear"></div>
+			<div class="footLinks clearfix">				
+				<a href="/privacy-policy/" class="link">Privacy Policy |</a>
+				<a href="/terms-of-use/" class="link">Terms of use</a>
+				<span>A part of Instamedia network | Powered by <a href="http://www.instamedia.com/">Instapress</a></span>
+				<div><script type="text/javascript" src="http://s.skimresources.com/js/2417X761148.skimlinks.js"></script></div>
+			</div>
+		</div> 
 	</div>
-	<div class="clear"></div>
-
-		<div class="single-story-insta">
-			<div class="stry-img-insta"><a href="http://www.instadaily.com/pv/549864/"><img src="http://www.instablogsimages.com/images/2010/06/19/lingerie-football-league-23_rfUhk_22975_150x150.jpg"></a></div>
-			<div class="stry-title-insta"><a href="http://www.instadaily.com/pv/549864/">Your BF ignored you for FIFA? You ignore him for LFL...</a></div>
-			<div class="clear"></div>
-		</div><!-- eof single-story -->
-				<div class="single-story-insta">
-			<div class="stry-img-insta"><a href="http://www.instadaily.com/pv/549459/"><img src="http://www.instablogsimages.com/images/2010/06/17/shanghai-corporate-pavilion_1_x3s1o_17621_XQKGL_17621_150x150.jpg"></a></div>
-			<div class="stry-title-insta"><a href="http://www.instadaily.com/pv/549459/">10 stunning interactive architectural delights</a></div>
-			<div class="clear"></div>
-		</div><!-- eof single-story -->
-				<div class="single-story-insta">
-			<div class="stry-img-insta"><a href="http://www.instadaily.com/pv/549453/"><img src="http://www.instablogsimages.com/images/2010/06/17/body-paintings_H5ILb_22975_150x150.jpg"></a></div>
-			<div class="stry-title-insta"><a href="http://www.instadaily.com/pv/549453/">How the art of geeky body painting is turning heads (NSFW)</a></div>
-			<div class="clear"></div>
-		</div><!-- eof single-story -->
-				<div class="single-story-insta">
-			<div class="stry-img-insta"><a href="http://www.instadaily.com/pv/549325/"><img src="http://www.instablogsimages.com/images/2010/06/17/fifa-1_v3roB_22975_150x150.jpg"></a></div>
-			<div class="stry-title-insta"><a href="http://www.instadaily.com/pv/549325/">Chaos at the FIFA 2010, all because of orange dresses!</a></div>
-			<div class="clear"></div>
-		</div><!-- eof single-story -->
-				<div class="single-story-insta">
-			<div class="stry-img-insta"><a href="http://www.instadaily.com/pv/549074/"><img src="http://www.instablogsimages.com/images/2010/06/16/miley-cyrus-1_mF1uy_22975_150x150.jpg"></a></div>
-			<div class="stry-title-insta"><a href="http://www.instadaily.com/pv/549074/">Miley Cyrus again lands into a controversy with excess cleavage show!</a></div>
-			<div class="clear"></div>
-		</div><!-- eof single-story -->
-				<div class="single-story-insta">
-			<div class="stry-img-insta"><a href="http://www.instadaily.com/pv/548993/"><img src="http://www.instablogsimages.com/images/2010/06/16/megan-fox-4_6Edeg_22975_150x150.jpg"></a></div>
-			<div class="stry-title-insta"><a href="http://www.instadaily.com/pv/548993/">Megan's all new with loosened corset and hot tattoo!</a></div>
-			<div class="clear"></div>
-		</div><!-- eof single-story -->
-			<div class="clear"></div>
-</div> <!-- EO week-dairy -->
-<div class="clear"></div>
-					
-<!-- start Vibrant Media IntelliTXT script section -->
-<script type="text/javascript" src="http://citizenmedia.us.intellitxt.com/intellitxt/front.asp?ipid=20320"></script>
-<!-- end Vibrant Media IntelliTXT script section -->
-		<div class="clear"></div>	
-		</div><!-- EOF inner-container -->
-		<div class="clear"></div>
-	</div> <!-- EOF container -->
-	<div id="footer">
-		<div>Published by <a href="http://www.instablogs.com/">The Instablogs Network</a>,<a href="http://www.citizenmedia.org/"> Citizen Media Pvt. Ltd</a>.</div><div>Copyright © Instablogs Network 2009. All rights reserved</div><div>Powered by <a href="http://www.instapress.org/">Instapress</a></div>
-		<div><a href="http://www.instablogs.com/ad_solutions.php?b=21">Advertising</a> | <a href="http://www.hometone.org/about-us.php">About</a> | <a href="http://www.hometone.org/disclaimer.php">Disclaimer</a> | <a href="http://www.hometone.org/privacy-policy.php">Privacy Policy</a> | <a href="http://www.hometone.org/terms-of-use.php">Terms of Use</a> | <a href="http://www.hometone.org/contact-us.php?q=general">Contact </a></div>
-	</div><!-- EOF footer -->
-	<div class="clear"></div>
-	<div id="fade" style="display:none;"></div>
-
-	<!-- Start of StatCounter Code -->
-<script type="text/javascript">
-var sc_project=970685; 
-var sc_invisible=1; 
-var sc_partition=46; 
-var sc_click_stat=1; 
-var sc_security="e7273ac4"; 
-</script>
-
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
-class="statcounter"><a title="joomla visitors"
-href="http://www.statcounter.com/joomla/"
-target="_blank"><img class="statcounter"
-src="http://c.statcounter.com/970685/0/e7273ac4/1/"
-alt="joomla visitors" ></a></div></noscript>
-<!-- End of StatCounter Code -->
-<!-- Start of StatCounter Code Instablogs Network -->
-<script type="text/javascript">
-var sc_project=2497465; 
-var sc_invisible=1; 
-var sc_partition=66; 
-var sc_click_stat=1; 
-var sc_security="77633a20"; 
-</script>
-
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
-class="statcounter"><a title="web stats"
-href="http://www.statcounter.com/free_web_stats.html"
-target="_blank"><img class="statcounter"
-src="http://c.statcounter.com/2497465/0/77633a20/1/"
-alt="web stats" ></a></div></noscript>
-<!-- End of StatCounter Code -->
-
-	<!-- Site Google Analytics -->
-	<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	try {
-	var pageTracker = _gat._getTracker("UA-601944-35");
-	pageTracker._trackPageview();
-	} catch(err) {}</script>
-	<!-- End of Site Google Analytics -->
-
-
-	<!-- Channel Google Analytics -->
-	<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	try {
-	var pageTracker = _gat._getTracker("UA-5515876-12");
-	pageTracker._trackPageview();
-	} catch(err) {}</script>
-	<!-- End of Channel Google Analytics -->
-
-<!-- Instablogs Network Google Analytics -->
+	
+	<!-- Instablogs Network Google Analytics -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -805,7 +633,52 @@ var pageTracker = _gat._getTracker("UA-601944-10");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 <!-- End of Instablogs Network Google Analytics -->
-	 <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=dtKaGys6qr35fsadbiUt4I&amp;s=131"></script>
 
+	<!-- Site Google Analytics -->
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', "UA-601944-35"]);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();	
+	</script>
+	<!-- End of Site Google Analytics -->
+<!-- Start of StatCounter Code for Instablogs network -->
+<script type="text/javascript">
+var sc_project=2497465; 
+var sc_invisible=1; 
+var sc_security="77633a20"; 
+var sc_https=1; 
+var sc_remove_link=1; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost +
+"statcounter.com/counter/counter_xhtml.js'></"+"script>");</script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter_xhtml.js"></script>
+<noscript><div class="statcounter"><img class="statcounter"
+src="https://c.statcounter.com/2497465/0/77633a20/1/"
+alt="vBulletin statistic" /></div></noscript>
+<!-- End of StatCounter Code for Instablogs network -->
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=970685; 
+var sc_invisible=1; 
+var sc_security="e7273ac4"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="tumblr tracker"
+href="http://statcounter.com/tumblr/" target="_blank"><img
+class="statcounter"
+src="http://c.statcounter.com/970685/0/e7273ac4/1/"
+alt="tumblr tracker" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+			</div>		
+		</div>
 	
 </body></html>
