@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicaldaily.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520042243id_/http%3A//www.medicaldaily.com/mediinfo/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicaldaily.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221201830id_/http%3A//medicaldaily.com/mediinfo/privacy_policy.htm) for the most accurate reproduction.*
 
 # Medical Daily
 
@@ -77,4 +77,4 @@ The Medical Daily Company may change this policy from time to time.
 
 YOU HEREBY AGREE TO ACCEPT NOTICES OF ANY CHANGE MADE TO THIS PRIVACY POLICY AND ANY APPLICABLE PERIODIC NOTICES REGARDING THIS PRIVACY POLICY BY THE POSTING OF SUCH PRIVACY POLICY ON OUR WEB SITE. 
 
-This policy was last updated on December 5th, 2006
+This policy was last updated on December 5th, 2010
