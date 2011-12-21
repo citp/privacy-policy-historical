@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scratch99.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622195320id_/http%3A//www.scratch99.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scratch99.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221032233id_/http%3A//scratch99.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,6 +36,8 @@ This site contains links to other sites. Please be aware that this site is NOT r
 
 ## Contact Information
 
-If you have any questions or concerns, please contact me using the [Contact Form](http://www.scratch99.com/contact/). 
+If you have any questions or concerns, please contact me using the [Contact Form](http://scratch99.com/contact/). 
 
 _Privacy policy last updated August 2008._
+
+**Like this article? Plus One it!**
