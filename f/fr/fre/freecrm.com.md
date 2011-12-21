@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the freecrm.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623002943id_/http%3A//www.freecrm.com/privacy.html%3FkeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D650%26width%3D900) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecrm.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221202203id_/http%3A//www.freecrm.com/privacy.html%3FkeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D650%26width%3D900) for the most accurate reproduction.*
 
 # Free CRM Privacy Policy effective 06.13.2008
-
-CRM ASP Inc. PRIVACY STATEMENT for www.FreeCRM.com (effective 06.13.2008) [](http://www.truste.org/ivalidate.php?url=www.freecrm.com&sealid=101)
 
 1\. What personally identifiable information CRM ASP Inc. collects.  
 2\. What personally identifiable information third parties collect through the Web site.  
@@ -15,16 +13,6 @@ CRM ASP Inc. PRIVACY STATEMENT for www.FreeCRM.com (effective 06.13.2008) [](htt
 
 
 If users have questions or concerns regarding this statement, they should first contact CRM ASP Inc. by privacy@crmasp.com, PHONE, or POSTAL MAIL numbers listed below. 
-
-TRUSTe Privacy Program
-
-CRM ASP Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.FreeCRM.com. 
-
-Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact Customer Support at 866-829-7011. 
-
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 Information Collection and Use
 
