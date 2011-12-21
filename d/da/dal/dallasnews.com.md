@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the dallasnews.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623111949id_/http%3A//www.dallasnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallasnews.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221135253id_/http%3A//www.dallasnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Dallasnews.com - News for Dallas, Texas - The Dallas Morning News
 
 **Effective as of August 18, 2007**
+
+[View updated privacy policy](http://www.dallasnews.com/privacy-policy/updated/)
 
 www.dallasnews.com respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by A. H. Belo Corporation and its affiliated companies (collectively, "A. H. Belo", "we" or "us") through your use of www.dallasnews.com (the "Site"). This Privacy Policy does not apply to any information you may provide to us offline or through any means other than this Site. For example, this Privacy Policy does not apply to information you provide when you subscribe by postal mail or telephone to one of our newspapers or to information that you provide to us at a live event or when you respond by postal mail or telephone to a survey or an invitation to enter a sweepstakes. These examples are not meant to be exhaustive, and this Privacy Policy does not apply to many other instances in which we may collect information from you offline. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this Site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our [Terms of Service](https://web.archive.org/terms/). Understanding that Internet technologies are rapidly evolving, we reserve the right to make changes to this Privacy Policy at any time. Any such changes will be promptly posted on this page, with an updated "effective date" posted at the beginning and/or end of this policy.
 
