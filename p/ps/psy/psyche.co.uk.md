@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the psyche.co.uk privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622213639id_/http%3A//www.psyche.co.uk/privacy-policy-i4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psyche.co.uk privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221145144id_/http%3A//www.psyche.co.uk/privacy-policy-i4) for the most accurate reproduction.*
 
-# Psyche | Psyche Privacy Policy | Customer Privacy
+# Psyche Designer Clothing Store - Privacy Policy - Customer Privacy
 
 **Privacy Statement**
 
@@ -14,7 +14,7 @@ Information is collected from you when you register with us, order goods from us
 **  
 Information is collected about you to enable us to process any orders you make, manage your online account with us and where permitted, email you with relevant product offers and promotions.
 
-When processing your order, we may send your details to and use information from, credit reference and fraud prevention agencies. We also send your name, shipping address and contact telephone number to FedEx UK for the purpose of delivering your goods.
+When processing your order, we may send your details to and use information from, credit reference and fraud prevention agencies. We also send your name, shipping address and contact telephone number to GeoPost for the purpose of delivering your goods.
 
 Psyche Limited will never share any of your personal information with any third-party companies for marketing purposes.
 
