@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digikey.in privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512011615id_/http%3A//dkc1.digikey.com/us/en/mkt/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digikey.in privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221103147id_/http%3A//dkc1.digikey.com/us/en/mkt/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | DigiKey
 
@@ -16,7 +16,7 @@ We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the pro
 
 ## Customer Information
 
-> Once you make a purchase, request a catalog or other information from Digi-Key, your name, shipping/mailing address, telephone number, email address and fax number are included in our customer file.
+> Once you make a purchase or request other information from Digi-Key, your name, shipping/mailing address, telephone number, email address and fax number are included in our customer file.
 > 
 > This information is used to ensure a quick, efficient flow of products and services to you.
 > 
