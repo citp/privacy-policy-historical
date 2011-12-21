@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the mymemories.com privacy policy that was archived on 2011-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110622120125id_/http%3A//www.mymemories.com/mms/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mymemories.com privacy policy that was archived on 2011-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111221043257id_/http%3A//www.mymemories.com/mms/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
   
-    <title>Privacy Policy | MyMemories Digital Scrapbooking</title>
+    <title>Privacy Policy | MyMemories</title>
   
 	<meta name="description" content="My Memories Suite privacy policy">
 	<meta name="keywords" content="privacy policy">
@@ -11,26 +11,34 @@
 	<meta name="verify-v1" content="QkQ92t/9FI701WBV1tPtyxoQ42GKWuMNPHAn5Nl3bvg=">  
   <meta name="netinsert" content="0.0.1.12.5.2.2">
 
+  <meta name="google-site-verification" content="8XyFjGKDzNN5ebesT2aIea5J6Fajos_xv-BKWZL2-ms">
 
 	<!-- !SCRIPTS AND CSS -->
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script plugin="substruct" src="/javascripts/substruct.js?1307568657" type="text/javascript"></script>
-  <script src="/javascripts/mms.js?1307568657" type="text/javascript"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script plugin="substruct" src="/javascripts/substruct.js?1324406812" type="text/javascript"></script>
+  <script src="/javascripts/mms.js?1324406812" type="text/javascript"></script>
 	<link type="text/css" rel="stylesheet" href="/facebox/facebox.css">
-	<link href="/stylesheets/scaffold.css?1307568657" media="screen" rel="stylesheet" type="text/css">
+	<link href="/stylesheets/scaffold.css?1324406812" media="screen" rel="stylesheet" type="text/css">
   
-<link href="/stylesheets/mm.css?1308168837" media="screen" rel="stylesheet" type="text/css">  <script type="text/javascript" src="/javascripts/hint-textbox.js"></script>
+<link href="/stylesheets/mm.css?1324406812" media="screen" rel="stylesheet" type="text/css">  <script type="text/javascript" src="/javascripts/hint-textbox.js"></script>
   <script type="text/javascript" src="/store/suggestion_js"></script>
-<script type="text/javascript" src="/javascripts/jquery.cycle.min.js"></script>  <script type="text/javascript">
+    <script type="text/javascript" src="/javascripts/jquery.cycle.min.js"></script>
+    <script type="text/javascript"> 
+      jQuery(document).ready(function() {
+        jQuery('#MM-Features').cycle({
+          fx: 'fade', // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+          pause: 1,     // true to enable "pause on hover"
+          delay: 200,
+          timeout: 6000,
+          pager: '#rotator_pager'
+        });
+      });
+    </script>
+  <script type="text/javascript">
     jQuery.noConflict();
     jQuery(document).ready(function($) {
-      $('a[rel*=facebox]').facebox()
-    jQuery('#MM-Features').cycle({
-      pause:         1,     // true to enable "pause on hover"
-      delay:         200,
-      timeout:       6000
-    });
-    })
+      $('a[rel*=facebox]').facebox()});
+    
 
     // Code that uses other library's $ can follow here.
 
@@ -51,14 +59,25 @@
 
   </script>	  
 
-
+<script type="text/javascript">
+  function recordOutboundLink(link, category, action) {
+    _gat._getTrackerByName()._trackEvent(category, action);
+    setTimeout('document.location = "' + link.href + '"', 100);
+  }
+</script>
 <!--This is used only for the New/Edit posts feature. Gives the user a WYSIWYG editor-->
 
 </head>
 
 <body>
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
 
 
+<div id="my_accounts_indicator" style="display: none;"><p>Loading...</p><img alt="Indicator" src="/images/indicator.gif?1324406812"></div>
 
 <div class="container">
 <div class="auto_complete" id="product_lookup_auto_complete"></div>
@@ -69,8 +88,8 @@
 
     <div id="Account">
         <a href="/my_accounts/store_signup?req=/mms/privacy">log in or register</a>
-      | <a href="/my_accounts">my account</a>
-      | <a href="/my_accounts/downloads">my downloads</a>
+      | <a class="action" href="#" id="my_accounts_link" onclick="new Ajax.Request('/my_accounts', {asynchronous:true, evalScripts:true, onComplete:function(request){window.location = '/my_accounts'}, onLoading:function(request){}}); return false;" rel="facebox">my account</a>
+      | <a class="action" href="#" id="my_accounts_link" onclick="new Ajax.Request('/my_accounts/downloads', {asynchronous:true, evalScripts:true, onComplete:function(request){window.location = '/my_accounts/downloads'}, onLoading:function(request){}}); return false;" rel="facebox">my downloads</a>
       | <a href="/support">help/support</a>
       | <a href="/store/cart" rel="nofollow">shopping cart</a>
     </div>
@@ -97,17 +116,18 @@ new Autocompleter.Local('term', 'product_lookup_auto_complete', products);
   </div>
   <div id="Navbar">
     <a href="/">home</a> |
-    <a href="http://www.premiumphotobooks.com/MYME/cart2/">online photobook creator</a> |
+    <a href="/store/photobook_creator" onclick="recordOutboundLink(this, 'Outbound Links', 'premiumphotobooks.com-h');return false;">online photobook creator</a> |
     <a href="/store/new_designs">new kits</a> |
     <a href="/store/free_digital_scrapbooking_kits">free kits</a> |
     <a href="/software">software</a> |
     <a href="/gallery">gallery</a> |
-    <a href="http://www.mymemoriesblog.com/" class="rightmost">blog/forum</a>
+    <a href="http://www.mymemoriesblog.com/" class="rightmost" onclick="recordOutboundLink(this, 'Outbound Links', 'mymemoriesblog.com');return false;">blog/forum</a>
   </div>
 
 </div>
 <!-- HEADER CLOSE -->
 <div class="clear"></div>
+
 
 
 	<div id="maincontent">
@@ -135,7 +155,7 @@ new Autocompleter.Local('term', 'product_lookup_auto_complete', products);
               <li><a href="/support/contact_us">Contact Technical Support</a></li>
               <li><a href="/contact">Contact Customer Care</a></li>
               <li><a href="/support/user_guide">Software User Guide</a></li>
-              <li><a href="http://www.pinktoque.com/craftblog/category/mmstutorials/" onclick="javascript: pageTracker._trackPageview('/outgoing/toque');">Tutorials (external)</a></li>
+              <li><a href="http://www.pinktoque.com/craftblog/category/mmstutorials/" onclick="recordOutboundLink(this, 'Outbound Links', 'pinktoque.com');return false;">Tutorials (external)</a></li>
 
             </ul>
         </div>
@@ -291,22 +311,22 @@ We are committed to safeguarding the privacy of our website visitors; this polic
     <div class="box">
         <h3>On the web</h3>
         <ul>
-          <li><a href="http://www.mymemoriesblog.com/" onclick="javascript: pageTracker._trackPageview('/blog/home');">Our Blog</a></li>
-          <li><a href="http://www.facebook.com/pages/Polaroid-My-Memories-Suite/54853441440?ref=ts">Facebook</a></li>
-          <li><a href="http://twitter.com/MyMemoriesSuite">Twitter</a></li>
-          <li><a href="http://www.youtube.com/user/MyMemoriesSuite">YouTube</a></li>
+          <li><a href="http://www.mymemoriesblog.com/" onclick="recordOutboundLink(this, 'Outbound Links', 'mymemoriesblog.com');return false;">Our Blog</a></li>
+          <li><a href="http://www.facebook.com/pages/MyMemories/140359372717593" onclick="recordOutboundLink(this, 'Outbound Links', 'facebook.com');return false;">Facebook</a></li>
+          <li><a href="http://twitter.com/MyMemoriesSuite" onclick="recordOutboundLink(this, 'Outbound Links', 'twitter.com');return false;">Twitter</a></li>
+          <li><a href="http://www.youtube.com/user/MyMemoriesSuite" onclick="recordOutboundLink(this, 'Outbound Links', 'youtube.com');return false;">YouTube</a></li>
         </ul>
     </div>
 
     <div class="box">
       <h3>Resources</h3>
       <ul>
-        <li><a href="https://order.srprintservices.com/cart/orderhistory.cfm?app=mymemoriessuite">Software Print Order Status</a></li>
-        <li><a href="http://www.pinktoque.com/craftblog/category/mmstutorials/">Tutorials by The Pink Toque</a></li>
+        <li><a href="https://order.srprintservices.com/cart/orderhistory.cfm?app=mymemoriessuite" onclick="recordOutboundLink(this, 'Outbound Links', 'srprintservices.com');return false;">Software Print Order Status</a></li>
+        <li><a href="http://www.pinktoque.com/craftblog/category/mmstutorials/" onclick="recordOutboundLink(this, 'Outbound Links', 'pinktoque.com');return false;">Tutorials by The Pink Toque</a></li>
         <li><a href="/support/faqs">FAQs</a></li>
         <li><a href="/mms/scrapbook_software">Software Features</a></li>
         <li><a href="/mms/digital_scrapbooking_software_giveaway">Software Giveaway</a></li>
-        <li><a href="http://www.mymemoriesblog.com/search/label/Tutorials" onclick="javascript: pageTracker._trackPageview('/blog/category/tips-tricks-tutorials/');">Tips &amp; Tricks</a></li>
+        <li><a href="http://www.mymemoriesblog.com/search/label/Tutorials" onclick="recordOutboundLink(this, 'Outbound Links', 'mmsblog-tutorials');return false;">Tips &amp; Tricks</a></li>
         <li><a href="/support/update">Software Updates &amp; Downloads</a></li>
       </ul>
     </div>
@@ -318,6 +338,7 @@ We are committed to safeguarding the privacy of our website visitors; this polic
           <li><a href="/mms/privacy">Privacy Policy</a></li>
           <li><a href="/mms/returns_policy">Returns Policy</a></li>
           <li><a href="/mms/resources">Internet Resources</a></li>
+          <li><a href="/share_the_memories?stm_ref=1">Share the Memories Program</a></li>
         </ul>
       </div>
 
@@ -333,6 +354,17 @@ We are committed to safeguarding the privacy of our website visitors; this polic
 </div>
 		
 	<script type="text/javascript">Cufon.now();</script>
+
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript">
+if(document.location.protocol!='https:')
+  document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRc5.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+if(typeof ClickTale=='function') ClickTale(1791,0.0179,"www09");
+</script>
+<!-- ClickTale end of Bottom part -->
 
   <!-- Google Analytics -->
 <script type="text/javascript">
