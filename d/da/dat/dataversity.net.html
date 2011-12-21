@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the dataversity.net privacy policy that was archived on 2011-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110611212734id_/http%3A//www.dataversity.net/about-dataversity-net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dataversity.net privacy policy that was archived on 2011-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111221040518id_/http%3A//www.dataversity.net/about-dataversity-net/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <meta name="robots" content="index,follow">
 <meta name="description" content="What information do we collect? We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a su...">
-<meta name="keywords" content="">
+<meta name="keywords" content="data, data management, data governance, big data, cloud, business intelligence, bi, semantic technology, nosql, information quality, data quality">
 <title>Privacy Policy | DATAVERSITY</title>
 
 <link rel="stylesheet" href="http://www.dataversity.net/wp-content/themes/magazine-premium/style.css" type="text/css" media="screen">
@@ -76,30 +76,99 @@ ol.commentlist li.even, h1.catheader, .pagination { background-color: #FFFFFF; }
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 	window.google_analytics_uacct = "UA-22694188-1";
 </script>
+<script type="text/javascript">
+//<![CDATA[
+var BrowserDetect = {
+init: function () {
+this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
+this.version = this.searchVersion(navigator.userAgent)|| this.searchVersion(navigator.appVersion)|| "an unknown version";
+this.OS = this.searchString(this.dataOS) || "an unknown OS";
+},
+searchString: function (data) {
+for (var i=0;i<data.length;i++)	{
+        var dataString = data[i].string;
+        var dataProp = data[i].prop;
+        this.versionSearchString = data[i].versionSearch || data[i].identity;
+        if (dataString) {if (dataString.indexOf(data[i].subString) != -1)
+                return data[i].identity;}
+        else if (dataProp){return data[i].identity;}
+}
+},
+searchVersion: function (dataString) {
+var index = dataString.indexOf(this.versionSearchString);
+if (index == -1) return;
+return parseFloat(dataString.substring(index+this.versionSearchString.length+1));
+},
+dataBrowser: [
+        {string: navigator.userAgent,subString: "Chrome",identity: "Chrome"},
+        {string: navigator.userAgent,subString: "OmniWeb",versionSearch: "OmniWeb/",identity: "OmniWeb"},
+        {string: navigator.vendor,subString: "Apple",identity: "Safari",versionSearch: "Version"},
+        {prop: window.opera,identity: "Opera"},
+        {string: navigator.vendor,subString: "iCab",identity: "iCab"},
+        {string: navigator.vendor,subString: "KDE",identity: "Konqueror"},
+        {string: navigator.userAgent,subString: "Firefox",identity: "Firefox"},
+        {string: navigator.vendor,subString: "Camino",identity: "Camino"},
+        {string: navigator.userAgent,subString: "Netscape",identity: "Netscape"},
+        {string: navigator.userAgent,subString: "MSIE",identity: "Explorer",versionSearch: "MSIE"},
+        {string: navigator.userAgent,subString: "Gecko",identity: "Mozilla",versionSearch: "rv"},
+        {string: navigator.userAgent,subString: "Mozilla",identity: "Netscape",versionSearch: "Mozilla"}],
+dataOS:[{string: navigator.platform,subString: "Win",identity: "Windows"},
+        {string: navigator.platform,subString: "Mac",identity: "Mac"},
+        {string: navigator.userAgent,subString: "iPhone",identity: "iPhone/iPod"},
+        {string: navigator.platform,subString: "Linux",identity: "Linux"}]
+};
+BrowserDetect.init();
+
+function bookMark(theurl, thetitle, browser){
+    switch(browser){
+        case "Firefox":
+            window.sidebar.addPanel(thetitle, theurl,"");
+            break;
+        case "Explorer":
+            window.external.AddFavorite( theurl, thetitle);
+            break;
+        case "Chrome":
+        case "Safari":
+        case "Opera":
+        case "Netscape":
+            switch(BrowserDetect.OS){
+            case "Windows":
+            case "Linux":
+            alert('press ctrl+D to bookmark this page');
+            break;
+            case "Mac":
+                alert('press cmd+D to bookmark this page');
+            break;
+            }
+            break;
+    }
+}
+//]]>
+</script>
                         <style type="text/css" media="screen">
                                 .socialwrap li.icon_text a img, .socialwrap li.iconOnly a img, .followwrap li.icon_text a img, .followwrap li.iconOnly a img{border-width:0 !important;background-color:none;}#follow.right {width:32px;position:fixed; right:0; top:100px;padding:10px 0;font-family:impact,charcoal,arial, helvetica,sans-serif;-moz-border-radius-topleft: 5px;-webkit-border-top-left-radius:5px;-moz-border-radius-bottomleft:5px;-webkit-border-bottom-left-radius:5px;}#follow.right ul {padding:0; margin:0; list-style-type:none !important;font-size:24px;color:black;}
 #follow.right ul li {padding-bottom:10px;list-style-type:none !important;padding-left:4px;padding-right:4px}
 #follow img{border:none;}#follow.right ul li.follow {margin:0 4px;}
 #follow.right ul li.follow img {border-width:0;display:block;overflow:hidden; background:transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/images/impact/follow-right.png) no-repeat -168px 0px;height:79px;width:20px;}
 #follow.right ul li a {display:block;}
-#follow.right ul li.follow span, #follow ul li a span {display:none}.share {margin:0 3px 3px 0;}
+#follow.right ul li.follow span, #follow ul li a span {display:none}.share {margin:0 7px 7px 0;}
 .phat span {display:inline;}
 ul.row li {float:left;list-style-type:none;}
 li.iconOnly a span.head {display:none}
 #follow.left ul.size16 li.follow{margin:0px auto !important}
-li.icon_text a {padding-left:0;margin-right:3px}
+li.icon_text a {padding-left:0;margin-right:7px}
 li.text_only a {background-image:none !important;padding-left:0;}
 li.text_only a img {display:none;}
 li.icon_text a span{background-image:none !important;padding-left:0 !important; }
 li.iconOnly a span.head {display:none}
-ul.socialwrap li {margin:0 3px 3px 0 !important;}
+ul.socialwrap li {margin:0 7px 7px 0 !important;}
 ul.socialwrap li a {text-decoration:none;}ul.row li {float:left;line-height:auto !important;}
 ul.row li a img {padding:0}.size16 li a,.size24 li a,.size32 li a, .size48 li a, .size60 li a {display:block}ul.socialwrap {list-style-type:none !important;margin:0; padding:0;text-indent:0 !important;}
 ul.socialwrap li {list-style-type:none !important;background-image:none;padding:0;list-style-image:none !important;}
 ul.followwrap {list-style-type:none !important;margin:0; padding:0}
-ul.followwrap li {margin-right:3px;margin-bottom:3px;list-style-type:none !important;}
+ul.followwrap li {margin-right:7px;margin-bottom:7px;list-style-type:none !important;}
 #follow.right ul.followwrap li, #follow.left ul.followwrap li {margin-right:0px;margin-bottom:0px;}
-.shareinpost {clear:both;padding-top:0px}.shareinpost ul.socialwrap {list-style-type:none !important;margin:0 !important; padding:0 !important}
+.shareinpost {clear:both;padding-top:10px}.shareinpost ul.socialwrap {list-style-type:none !important;margin:0 !important; padding:0 !important}
 .shareinpost ul.socialwrap li {padding-left:0 !important;background-image:none !important;margin-left:0 !important;list-style-type:none !important;text-indent:0 !important}
 .socialwrap li.icon_text a img, .socialwrap li.iconOnly a img{border-width:0}ul.followrap li {list-style-type:none;list-style-image:none !important;}
 div.clean {clear:left;}
@@ -117,7 +186,7 @@ div.display_none {display:none;}
 <link rel="alternate" type="application/rss+xml" title="DATAVERSITY » Comments Feed" href="http://www.dataversity.net/comments/feed">
 				
 	<script type="text/javascript">//<![CDATA[
-	// Google Analytics for WordPress by Yoast v4.1 | http://yoast.com/wordpress/google-analytics/
+	// Google Analytics for WordPress by Yoast v4.2.2 | http://yoast.com/wordpress/google-analytics/
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount','UA-22694188-1']);
 	_gaq.push(['_setCustomVar',2,'post_type','page',3],['_setCustomVar',3,'author','shannon-kempe',3],['_trackPageview'],['_trackPageLoadTime']);
@@ -127,9 +196,12 @@ div.display_none {display:none;}
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
 	//]]></script>
-<link rel="stylesheet" id="ws-plugin--s2member-css" href="http://www.dataversity.net/?ws_plugin__s2member_css=1&amp;qcABC=1&amp;ver=110605-1471492036" type="text/css" media="all">
+<link rel="stylesheet" id="utcw-css-css" href="http://www.dataversity.net/wp-content/plugins/ultimate-tag-cloud-widget/utcw.css?ver=1.3" type="text/css" media="all">
+<link rel="stylesheet" id="ws-plugin--s2member-css" href="http://www.dataversity.net/wp-content/plugins/s2member/s2member-o.php?ws_plugin__s2member_css=1&amp;qcABC=1&amp;ver=111206-1797693004" type="text/css" media="all">
 <script type="text/javascript" src="http://www.dataversity.net/wp-includes/js/l10n.js?ver=20101110"></script>
-<script type="text/javascript" src="http://www.dataversity.net/wp-includes/js/jquery/jquery.js?ver=1.4.4"></script>
+<script type="text/javascript" src="http://www.dataversity.net/wp-includes/js/jquery/jquery.js?ver=1.6.1"></script>
+<script type="text/javascript" src="http://www.dataversity.net/wp-content/plugins/my-calendar/js/jquery.easydrag.js?ver=3.2.1"></script>
+<script type="text/javascript" src="http://www.dataversity.net/wp-content/plugins/ultimate-tag-cloud-widget/utcw.js?ver=1.3"></script>
 <script type="text/javascript" src="http://www.dataversity.net/wp-includes/js/comment-reply.js?ver=20090102"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -145,17 +217,18 @@ try{convertEntities(pwsL10n);}catch(e){};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://www.dataversity.net/wp-admin/js/password-strength-meter.js?ver=20101027"></script>
-<script type="text/javascript" src="http://www.dataversity.net/?ws_plugin__s2member_js_w_globals=1&amp;qcABC=1&amp;ver=110605-1471492036"></script>
+<script type="text/javascript" src="http://www.dataversity.net/wp-content/plugins/s2member/s2member-o.php?ws_plugin__s2member_js_w_globals=1&amp;qcABC=1&amp;ver=111206-1797693004"></script>
+<script type="text/javascript" src="http://widgets.twimg.com/j/2/widget.js?ver=3.2.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.dataversity.net/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.dataversity.net/wp-includes/wlwmanifest.xml"> 
 <link rel="index" title="DATAVERSITY" href="http://www.dataversity.net">
-<link rel="up" title="About Dataversity" href="http://www.dataversity.net/about-dataversity-net">
-<link rel="prev" title="Welcome to Dataversity" href="http://www.dataversity.net/welcome-to-dataversity">
+<link rel="up" title="About DATAVERSITY" href="http://www.dataversity.net/about-dataversity-net">
+<link rel="prev" title="Welcome to DATAVERSITY" href="http://www.dataversity.net/welcome-to-dataversity">
 <link rel="next" title="Terms of Service" href="http://www.dataversity.net/about-dataversity-net/terms-of-service">
-<meta name="generator" content="WordPress 3.1.3">
+<meta name="generator" content="WordPress 3.2.1">
 <link rel="shortlink" href="http://wp.me/P1xYE6-C3">
 
-<!-- All in One SEO Pack 1.6.13.2 by Michael Torbert of Semper Fi Web Design[580,617] -->
+<!-- All in One SEO Pack 1.6.13.6 by Michael Torbert of Semper Fi Web Design[725,762] -->
 <link rel="canonical" href="http://www.dataversity.net/about-dataversity-net/privacy-policy">
 <!-- /all in one seo pack -->
 
@@ -164,22 +237,12 @@ try{convertEntities(pwsL10n);}catch(e){};
 <script src="http://www.dataversity.net/wp-content/plugins/bubblecast-video-plugin//js/bubblecast.js" type="text/javascript"></script>
 
 <script src="http://www.dataversity.net/wp-content/plugins/bubblecast-video-plugin//js/dynamic-js.php?username=&amp;password_hash=" type="text/javascript"></script>
-			<link rel="alternate" type="application/rss+xml" title="Forums RSS" href="http://www.dataversity.net/wp-content/plugins/mingle-forum/feed.php?topic=all"> 			<link rel="stylesheet" type="text/css" href="http://www.dataversity.net/wp-content/mingle-forum-skins/ddart_blue/style.css">
-			<script language="JavaScript" type="text/javascript" src="http://www.dataversity.net/wp-content/plugins/mingle-forum/js/script.js"></script>
-			<script language="JavaScript" type="text/javascript">
-			function wpf_confirm(){
-				var answer = confirm ('Are you sure you want to remove this?');
-				if (!answer)
-					return false;
-				else
-					return true;
-			}
-			</script>
-		
-<link rel="stylesheet" href="http://www.dataversity.net/wp-content/plugins/my-calendar/styles/my-calendar.css" type="text/css" media="all">
+			<link rel="alternate" type="application/rss+xml" title="Forums RSS" href="http://www.dataversity.net/wp-content/plugins/mingle-forum/feed.php?topic=all"> 
+<link rel="stylesheet" href="http://www.dataversity.net/wp-content/plugins/my-calendar/styles/light.css" type="text/css" media="all">
+
 <style type="text/css">
 <!--
-.js #jd-calendar .details { display: none; }
+.mcjs #jd-calendar .details, .mcjs #jd-calendar .calendar-events { display: none; }
 /* Styles from My Calendar - Joseph C Dolson http://www.joedolson.com/ */
 
 #jd-calendar .mc_general .event-title { color: #F6F79B; }
@@ -191,8 +254,9 @@ display: block!important;
 -->
 </style>
 <script type="text/javascript">
-jQuery('html').addClass('js');
-jQuery(document).ready(function($) { $('html').removeClass('js') });
+jQuery('html').addClass('mcjs');
+jQuery(document).ready(function($) { $('html').removeClass('mcjs') });
+jQuery.noConflict();
 </script>
 <style type="text/css">
 
@@ -218,7 +282,7 @@ body { background-color: #193366; }
 <link rel="stylesheet" type="text/css" href="http://www.dataversity.net/wp-content/uploads/lazyest-stylesheet.css">
 </head>
 
-<body class="page page-id-2359 page-child parent-pageid-8">
+<body class="page page-id-2359 page-child parent-pageid-8 page-template-default">
 <!-- begin header -->
 <div id="toppanel">
 		<div id="panel">
@@ -226,7 +290,8 @@ body { background-color: #193366; }
 			<div class="left right">
 				<div class="paneltitle">Welcome to Magazine Premium</div>
 <h3>You can change this text in the options panel in the admin</h3>		
-<p class="grey">There are tons of ways to configure Magazine Premium... The possibilities are endless!</p>			</div>
+<p class="grey">There are tons of ways to configure Magazine Premium... The possibilities are endless!</p>
+<img src="http://a.amxdt.com/px/?id=1350">			</div>
 			<div class="left">
 	            				<!-- Login Form -->
 				<form action="http://www.dataversity.net/wp-login.php" method="post">
@@ -275,8 +340,12 @@ body { background-color: #193366; }
 </div> <!--panel -->
 <div id="body">
 <div id="header">
+            <div id="headerad" class="aligncenter">
+            <a href="http://dgo.dataversity.net" _blank"=""><img src="http://www.dataversity.net/wp-content/uploads/2011/11/DV-DGO-Banner.png" border="6"></a>
+ <p></p>
+<img src="http://a.amxdt.com/px/?id=3831">        </div>
     	        <div id="title" class="aligncenter">
-		   	<a href="http://www.dataversity.net/" class="headerimage"><img src="http://www.dataversity.net/wp-content/uploads/2011/01/DataVersity1.jpg" alt="DATAVERSITY"></a>
+		   	<a href="http://www.dataversity.net/" class="headerimage"><img src="http://www.dataversity.net/wp-content/uploads/2011/08/DV-TM-724-Header.jpg" alt="DATAVERSITY"></a>
     	</div>
 	    <div id="description" class="aligncenter">
             </div>
@@ -286,49 +355,62 @@ body { background-color: #193366; }
 	<li id="menu-item-243" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-243"><a href="http://www.dataversity.net/archives/category/data-topics/analytics">Analytics</a></li>
 	<li id="menu-item-244" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-244"><a href="http://www.dataversity.net/archives/category/data-topics/architecture">Architecture</a></li>
 	<li id="menu-item-3021" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3021"><a href="http://www.dataversity.net/archives/category/data-topics/big-data">Big Data</a></li>
+	<li id="menu-item-6931" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6931"><a href="http://www.dataversity.net/archives/category/data-topics/business-intelligence-data-topics">Business Intelligence</a></li>
+	<li id="menu-item-6932" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6932"><a href="http://www.dataversity.net/archives/category/data-topics/cloud-based-data">Cloud-Based Data</a></li>
 	<li id="menu-item-266" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-266"><a href="http://www.dataversity.net/archives/category/data-topics/consulting">Consulting</a></li>
 	<li id="menu-item-779" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-779"><a href="http://www.dataversity.net/archives/category/data-topics/data-governance">Data Governance</a></li>
 	<li id="menu-item-245" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-245"><a href="http://www.dataversity.net/archives/category/data-topics/data-integration">Data Integration</a></li>
 	<li id="menu-item-778" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="http://www.dataversity.net/archives/category/data-topics/data-services-soa">Data Services &amp; SOA</a></li>
+	<li id="menu-item-6933" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6933"><a href="http://www.dataversity.net/archives/category/data-topics/databases">Databases</a></li>
 	<li id="menu-item-246" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-246"><a href="http://www.dataversity.net/archives/category/data-topics/enterprise-information-management">Enterprise Information Management</a></li>
 	<li id="menu-item-780" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-780"><a href="http://www.dataversity.net/archives/category/data-topics/information-quality">Information Quality</a></li>
+	<li id="menu-item-4566" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4566"><a href="http://www.dataversity.net/archives/category/data-topics/nosql">NoSQL</a></li>
 	<li id="menu-item-248" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-248"><a href="http://www.dataversity.net/archives/category/data-topics/master-data-management">Master Data Management</a></li>
 	<li id="menu-item-249" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-249"><a href="http://www.dataversity.net/archives/category/data-topics/metadata">Metadata</a></li>
 	<li id="menu-item-250" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-250"><a href="http://www.dataversity.net/archives/category/data-topics/modeling">Modeling</a></li>
 	<li id="menu-item-781" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-781"><a href="http://www.dataversity.net/archives/category/data-topics/project-management">Project Management</a></li>
+	<li id="menu-item-6399" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6399"><a href="http://www.dataversity.net/archives/category/data-topics/security-data-topics">Security</a></li>
 	<li id="menu-item-251" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-251"><a href="http://www.dataversity.net/archives/category/data-topics/semantic-technology">Semantic Technology</a></li>
+	<li id="menu-item-6400" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6400"><a href="http://www.dataversity.net/archives/category/data-topics/unstructured-data-data-topics">Unstructured Data</a></li>
 </ul>
 </li>
 <li id="menu-item-2259" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2259"><a href="http://www.dataversity.net/archives/category/education">Education</a>
 <ul class="sub-menu">
 	<li id="menu-item-2493" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2493"><a href="http://www.dataversity.net/archives/category/education/slide-presentations">Slide Presentations</a></li>
-	<li id="menu-item-272" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-272"><a href="http://www.dataversity.net/archives/category/education/webinars">Webinars</a></li>
+	<li id="menu-item-272" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-272"><a href="http://www.dataversity.net/archives/category/education/webinars">Webinars</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4071" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4071"><a href="http://www.dataversity.net/archives/category/education/webinars/upcoming-webinars">Upcoming Webinars</a></li>
+		<li id="menu-item-4070" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4070"><a href="http://www.dataversity.net/archives/category/education/webinars/archived-webinars">Archived Webinars</a></li>
+	</ul>
+</li>
 	<li id="menu-item-261" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-261"><a href="http://www.dataversity.net/archives/category/education/articles">Articles</a></li>
+	<li id="menu-item-5180" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5180"><a href="http://www.dataversity.net/archives/category/education/white-papers">White Papers</a></li>
+	<li id="menu-item-5296" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5296"><a href="http://www.dataversity.net/archives/category/education/video">Video</a></li>
+	<li id="menu-item-5664" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5664"><a href="http://www.dataversity.net/archives/category/book-samples">Book Samples</a></li>
 	<li id="menu-item-776" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-776"><a href="http://www.dataversity.net/archives/category/education/case-studies-best-practices">Case Studies &amp; Best Practices</a></li>
-	<li id="menu-item-2321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2321"><a href="http://www.dataversity.net/education/events">Events</a></li>
 	<li id="menu-item-3100" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3100"><a href="http://www.dataversity.net/archives/category/education/seminars">Seminars</a></li>
 	<li id="menu-item-2789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2789"><a href="http://www.dataversity.net/education/consulting-services">Consulting Services</a></li>
-	<li id="menu-item-268" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-268"><a href="http://www.dataversity.net/archives/category/education/knowledge-base">Knowledge Base</a></li>
-	<li id="menu-item-2771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2771"><a href="http://www.dataversity.net/education/certification">Certification</a></li>
 	<li id="menu-item-269" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-269"><a href="http://www.dataversity.net/archives/category/education/publications-research">Publications &amp; Research</a></li>
 	<li id="menu-item-270" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-270"><a href="http://www.dataversity.net/archives/category/education/surveys">Surveys</a></li>
-	<li id="menu-item-2288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2288"><a href="http://www.dataversity.net/education/books">Books</a></li>
 </ul>
 </li>
 <li id="menu-item-2258" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2258"><a href="http://www.dataversity.net/archives/category/discussion">Discussion</a>
 <ul class="sub-menu">
 	<li id="menu-item-262" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-262"><a href="http://www.dataversity.net/archives/category/discussion/blogs">Blogs</a>
 	<ul class="sub-menu">
+		<li id="menu-item-7263" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7263"><a href="http://www.dataversity.net/archives/category/discussion/blogs/anjul-bhambhri">Anjul Bhambhri</a></li>
 		<li id="menu-item-3474" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3474"><a href="http://www.dataversity.net/archives/category/discussion/blogs/christine-denney">Christine Denney</a></li>
-		<li id="menu-item-1527" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1527"><a href="http://www.dataversity.net/archives/category/discussion/blogs/chunka-mui">Chunka Mui</a></li>
 		<li id="menu-item-1528" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1528"><a href="http://www.dataversity.net/archives/category/discussion/blogs/david-plotkin">David Plotkin</a></li>
-		<li id="menu-item-1529" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1529"><a href="http://www.dataversity.net/archives/category/discussion/blogs/graeme-simsion">Graeme Simsion</a></li>
+		<li id="menu-item-5794" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5794"><a href="http://www.dataversity.net/archives/category/discussion/blogs/glenn-thomas">Glenn Thomas</a></li>
+		<li id="menu-item-5770" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5770"><a href="http://www.dataversity.net/archives/category/discussion/blogs/jaime-fitzgerald">Jaime Fitzgerald</a></li>
+		<li id="menu-item-5763" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5763"><a href="http://www.dataversity.net/archives/category/discussion/blogs/jim-wessely">Jim Wessely</a></li>
 		<li id="menu-item-1530" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1530"><a href="http://www.dataversity.net/archives/category/discussion/blogs/john-biderman">John Biderman</a></li>
-		<li id="menu-item-1531" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1531"><a href="http://www.dataversity.net/archives/category/discussion/blogs/john-ladley">John Ladley</a></li>
 		<li id="menu-item-1532" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1532"><a href="http://www.dataversity.net/archives/category/discussion/blogs/karen-lopez">Karen Lopez</a></li>
-		<li id="menu-item-1533" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1533"><a href="http://www.dataversity.net/archives/category/discussion/blogs/tony-shaw">Tony Shaw</a></li>
+		<li id="menu-item-6327" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6327"><a href="http://www.dataversity.net/archives/category/discussion/blogs/robert-greene">Robert Greene</a></li>
+		<li id="menu-item-5209" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5209"><a href="http://www.dataversity.net/archives/category/discussion/blogs/sue-geuens">Sue Geuens</a></li>
 	</ul>
 </li>
+	<li id="menu-item-5190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5190"><a href="http://www.dataversity.net/discussions/data-forum">Data Forum</a></li>
 	<li id="menu-item-822" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-822"><a href="http://www.dataversity.net/archives/category/discussion/interviews">Interviews</a></li>
 </ul>
 </li>
@@ -341,23 +423,38 @@ body { background-color: #193366; }
 		<li id="menu-item-3723" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3723"><a href="http://www.dataversity.net/archives/category/news/job-of-the-day-2/nosql-job-of-the-day">NoSQL Job of the Day</a></li>
 	</ul>
 </li>
+	<li id="menu-item-6819" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6819"><a href="http://www.dataversity.net/archives/category/dataversity-news">DATAVERSITY News</a>
+	<ul class="sub-menu">
+		<li id="menu-item-6824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6824"><a href="http://www.dataversity.net/dataversity-digest">DATAVERSITY Digest</a>
+		<ul class="sub-menu">
+			<li id="menu-item-6818" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6818"><a href="http://documents.dataversity.net/newsletter/november.html">November DATAVERSITY Digest</a></li>
+			<li id="menu-item-7451" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7451"><a href="http://documents.dataversity.net/newsletter/december.html">December DATAVERSITY Digest</a></li>
+		</ul>
+</li>
+		<li id="menu-item-6821" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6821"><a href="http://www.dataversity.net/archives/category/dataversity-news/letter-from-the-editor">Letter from the Editor</a></li>
+	</ul>
+</li>
 </ul>
 </li>
-<li id="menu-item-2562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2562"><a href="http://www.dataversity.net/membership-overview">Membership</a>
+<li id="menu-item-2321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2321"><a href="http://www.dataversity.net/education/events">Events</a>
 <ul class="sub-menu">
-	<li id="menu-item-2315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2315"><a href="http://www.dataversity.net/membership-overview">Membership Overview</a></li>
-	<li id="menu-item-2314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2314"><a href="http://www.dataversity.net/membership-overview/join-dataversity">Join Dataversity</a></li>
+	<li id="menu-item-5626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5626"><a href="http://www.dataversity.net/education/events">Calendar</a></li>
+	<li id="menu-item-5625" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5625"><a href="http://www.dataversity.net/archives/category/education/events/nosql-now-events">NoSQL Now!</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5655" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5655"><a href="http://www.dataversity.net/archives/category/education/events/nosql-now-events/nosql-blogs">NoSQL Now! Blogs</a></li>
+		<li id="menu-item-5656" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5656"><a href="http://www.dataversity.net/archives/category/education/events/nosql-now-events/nosql-news">NoSQL Now! News</a></li>
+		<li id="menu-item-5657" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5657"><a href="http://www.dataversity.net/archives/category/education/events/nosql-now-events/nosql-presentations">NoSQL Now! Presentations</a></li>
+		<li id="menu-item-5658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5658"><a href="http://www.dataversity.net/archives/category/education/events/nosql-now-events/nosql-videos">NoSQL Now! Videos</a></li>
+	</ul>
+</li>
 </ul>
 </li>
 <li id="menu-item-241" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-241"><a href="http://www.dataversity.net/about-dataversity-net">About</a>
 <ul class="sub-menu">
-	<li id="menu-item-2490" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-2490"><a href="http://www.dataversity.net/about-dataversity-net">About Dataversity</a></li>
+	<li id="menu-item-2490" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-2490"><a href="http://www.dataversity.net/about-dataversity-net">About DATAVERSITY</a></li>
 	<li id="menu-item-2475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2475"><a href="http://www.dataversity.net/about-dataversity-net/advertising-programs">Advertising Programs</a></li>
-	<li id="menu-item-1105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1105"><a href="http://www.dataversity.net/contributors">Contributors</a>
-	<ul class="sub-menu">
-		<li id="menu-item-2946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2946"><a href="http://www.dataversity.net/contributors/contributor-user-guides">Contributor User Guides</a></li>
-	</ul>
-</li>
+	<li id="menu-item-1105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1105"><a href="http://www.dataversity.net/contributors">Contributors</a></li>
+	<li id="menu-item-4398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4398"><a href="http://www.dataversity.net/about-dataversity-net/press-page">Press Page</a></li>
 	<li id="menu-item-2382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2382"><a href="http://www.dataversity.net/about-dataversity-net/terms-of-service">Terms of Service</a></li>
 	<li id="menu-item-2376" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2359 current_page_item menu-item-2376"><a href="http://www.dataversity.net/about-dataversity-net/privacy-policy">Privacy Policy</a></li>
 </ul>
@@ -365,37 +462,40 @@ body { background-color: #193366; }
 <li id="menu-item-242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-242"><a title="Contact" href="http://www.dataversity.net/contact-us">Contact Us</a>
 <ul class="sub-menu">
 	<li id="menu-item-2442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2442"><a href="http://www.dataversity.net/contact-us">Contact Us</a></li>
-	<li id="menu-item-2742" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2742"><a href="http://dataversity.us2.list-manage.com/subscribe?u=295322ae024863ded9a406f75&amp;id=3d90fe7e89">Join our Mailing List</a></li>
+	<li id="menu-item-6717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6717"><a href="http://www.dataversity.net/membership-overview/join-dataversity">Join DATAVERSITY</a></li>
 </ul>
 </li>
 </ul></div></div>
 <!-- end header -->
 	<!-- begin sidebar -->
     <div id="sidebar">
- 		<div id="sideads" class="side-widget widget_mySideads">    <h3></h3>
-    <div class="sideads">
-        <a href="http://www.debtechint.com/dgiqconference2011/" target="_blank"><img src="http://www.dataversity.net/wp-content/uploads/2011/06/dgiq125.jpg" border="0"></a>
-<a href="http://nosql2011.wilshireconferences.com/" target="_blank"><img src="http://www.dataversity.net/wp-content/uploads/2011/06/nosql125px.jpg" border="0"></a>
-<a href="http://www.dataversity.net/archives/3157" target="_blank"><img src=" http://www.dataversity.net/wp-content/uploads/2011/04/DataStewardship_125px.jpg" border="0"></a>
-<a href="http://www.dataversity.net/archives/category/education/webinars=" _blank"=""><img src="http://www.dataversity.net/wp-content/uploads/2011/06/DV_2.gif" border="0"></a>
-    </div>
-</div><div id="share-widget-3" class="side-widget share_links"><h3>Share Dataversity</h3><ul class="socialwrap row"><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.blogger.com/blog_this.pyra?t&amp;u=http%3A%2F%2Fwww.dataversity.net%2Fabout-dataversity-net%2Fprivacy-policy&amp;n=Privacy+Policy&amp;pli=1" title="Share this PAGE : Privacy Policy on Blogger"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-34px 0px" class="image-16" width="16" alt="blogger"> <span class="head">Blog this!</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://delicious.com/post?url=http%3A%2F%2Fwww.dataversity.net%2Fabout-dataversity-net%2Fprivacy-policy&amp;title=Privacy+Policy" title="Bookmark this PAGE : Privacy Policy on Delicious"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-102px 0px" class="image-16" width="16" alt="delicious"> <span class="head">Bookmark on Delicious</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://digg.com/submit?url=http%3A%2F%2Fwww.dataversity.net%2Fabout-dataversity-net%2Fprivacy-policy&amp;title=Privacy+Policy&amp;bodytext=%3C%21--+START+PRIVACY+POLICY+CODE+--%3E%3Cdiv+style%3D%22font-family%3A+arial%3B%22%3E%3Cspan+style%3D%22font-size%3A+small%3B%22%3E%3Cstrong%3EWhat+informat" title="Digg this PAGE : Privacy Policy"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-136px 0px" class="image-16" width="16" alt="digg"> <span class="head">Digg this post</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.dataversity.net%2Fabout-dataversity-net%2Fprivacy-policy&amp;t=Privacy+Policy" title="Recommend this PAGE : Privacy Policy on Facebook"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-187px 0px" class="image-16" width="16" alt="facebook"> <span class="head">Recommend on Facebook</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.dataversity.net%2Fabout-dataversity-net%2Fprivacy-policy&amp;title=Privacy+Policy&amp;&amp;summary=%3C%21--+START+PRIVACY+POLICY+CODE+--%3E%3Cdiv+style%3D%22font-family%3A+arial%3B%22%3E%3Cspan+style%3D%22font-size%3A+small%3B%22%3E%3Cstrong%3EWhat+informat" title="Share this PAGE : Privacy Policy on Linkedin"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-459px 0px" class="image-16" width="16" alt="linkedin"> <span class="head">Share on Linkedin</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.reddit.com/submit?url=http%3A%2F%2Fwww.dataversity.net%2Fabout-dataversity-net%2Fprivacy-policy&amp;title=Privacy+Policy" title="Share this post : Privacy Policy on Reddit"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-731px 0px" class="image-16" width="16" alt="reddit"> <span class="head">share via Reddit</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.dataversity.net%2Fabout-dataversity-net%2Fprivacy-policy&amp;title=Privacy+Policy" title="Share this PAGE : Privacy Policy with Stumblers"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-833px 0px" class="image-16" width="16" alt="stumble"> <span class="head">Share with Stumblers</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://twitter.com/home/?status=http%3A%2F%2Fwww.dataversity.net%2Fabout-dataversity-net%2Fprivacy-policy VIA+%40dataversity" title="Tweet this post : Privacy Policy on Twitter"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-901px 0px" class="image-16" width="16" alt="twitter"> <span class="head">Tweet about it</span></a></li><li class="iconOnly"><a rel="_self" href="http://www.dataversity.net/about-dataversity-net/privacy-policy/feed" title="Follow this SITE: Privacy Policy comments"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" width="16" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-748px 0px" class="image-16" alt="rss"> <span class="head">Subscribe to the comments on this post</span></a></li><li class="iconOnly"><a rel="nofollow" target="_self" href="javascript:window.print();" title="Print this PAGE: Privacy Policy for reading later"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-714px 0px" class="image-16" width="16" alt="print"> <span class="head">Print for later</span></a></li><li class="iconOnly"><a rel="_self" href="mailto:?subject=DATAVERSITY%20:%20Privacy%20Policy&amp;body=This%20is%20a%20link%20off%20of%20http://dataversity.net,%20an%20education%20portal%20designed%20to%20promote%20and%20educate%20professionals%20in%20the%20data%20management%20industry.%20%20http://www.dataversity.net/about-dataversity-net/privacy-policy" title="Tell a friend about this PAGE : Privacy Policy "><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" width="16" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-170px 0px" class="image-16" alt="email"> <span class="head">Tell a friend</span></a></li></ul><div class="clean"></div> </div><div id="text-7" class="side-widget widget_text">			<div class="textwidget"><script type="text/javascript"><!--
-amazon_ad_tag="dataversity-20"; 
-amazon_ad_width="120"; 
-amazon_ad_height="600"; 
-amazon_color_border="193366"; 
-amazon_color_logo="FFFFFF"; 
-amazon_color_link="193366"; 
-amazon_ad_logo="hide"; 
-amazon_ad_border="hide"; 
-amazon_ad_title="Dataversity"; //--></script>
-<script type="text/javascript" src="http://www.assoc-amazon.com/s/asw.js"></script></div>
-		</div>  
+ 		<div id="my_calendar_upcoming_widget-3" class="side-widget widget_my_calendar_upcoming_widget"><h3>Upcoming Events</h3><ul id="upcoming-events"><li class="future-event"><strong>April 29, 2012</strong> – <a href="http://edw2012.wilshireconferences.com/">Enterprise Data World 2012</a><br><span>N/A<br>Conference<br></span>
+&nbsp;
+&nbsp;</li>
+</ul></div><div id="text-8" class="side-widget widget_text">			<div class="textwidget"><a href="http://dataversity.us2.list-manage.com/subscribe?u=295322ae024863ded9a406f75&amp;id=3d90fe7e89" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://dataversity.us2.list-manage.com']);" target="_blank"><img src="http://www.dataversity.net/wp-content/uploads/2011/12/Subscribe-to-DV-Digest.jpg" border="0"></a></div>
+		</div><div id="text-6" class="side-widget widget_text"><h3>Quick Links</h3>			<div class="textwidget"><a href="http://www.dataversity.net/archives/category/news/job-of-the-day-2" target="_blank"><img src="http://www.dataversity.net/wp-content/uploads/2011/09/Job-of-the-Day.png" border="0"></a>
+ <p></p>
+<a href="http://www.dataversity.net/archives/category/education/webinars/upcoming-webinars" target="_blank"><img src="http://www.dataversity.net/wp-content/uploads/2011/09/Upcoming-Webinars.png" border="0"></a>
+ <p></p>
+<a href="http://www.dataversity.net/archives/category/discussion/blogs" target="_blank"><img src="http://www.dataversity.net/wp-content/uploads/2011/09/Blogs.png" border="0"></a>
+ <p></p>
+<a href="http://www.dataversity.net/archives/category/education/articles" target="_blank"><img src="http://www.dataversity.net/wp-content/uploads/2011/09/Articles.png" border="0"></a>
+ <p></p>
+<a href="http://www.dataversity.net/archives/category/education/slide-presentations" target="_blank"><img src="http://www.dataversity.net/wp-content/uploads/2011/09/Slide-Presentations.png" border="0"></a>
+ <p></p>
+<a href="http://www.dataversity.net/archives/category/education/video" target="_blank"><img src="http://www.dataversity.net/wp-content/uploads/2011/09/Video.png" border="0"></a>
+ <p></p>
+<a href="http://www.dataversity.net/archives/category/education/white-papers" target="_blank"><img src=" http://www.dataversity.net/wp-content/uploads/2011/09/White-Papers.png" border="0"></a>
+ <p></p>
+<a href="http://www.dataversity.net/archives/category/education/webinars/archived-webinars" target="_blank"><img src="http://www.dataversity.net/wp-content/uploads/2011/09/Archived-Webinars.png" border="0"></a>
+ <p></p>
+</div>
+		</div><div id="utcw-3" class="side-widget widget_utcw"><h3>Tag Cloud</h3><div class="widget_tag_cloud" style="letter-spacing:normal;word-spacing:normal;text-transform: capitalize;"><style type="text/css">.utcw-tag-link{background-color: !important;border-style:none !important;border-width:0px !important;}.utcw-tag-link:hover{text-decoration:underline !important;font-weight:bold !important;background-color: !important;border-style:none !important;border-width:0px !important;}</style><span style="font-size:15.4430379747px;"><a class="utcw-tag-link tag-link-18" href="http://www.dataversity.net/archives/category/data-topics/master-data-management" style="font-size:15.4430379747px;">Master Data Management</a></span> <span style="font-size:10.8016877637px;"><a class="utcw-tag-link tag-link-2640" href="http://www.dataversity.net/archives/category/data-topics/business-intelligence-data-topics" style="font-size:10.8016877637px;">Business Intelligence</a></span> <span style="font-size:10px;"><a class="utcw-tag-link tag-link-3270" href="http://www.dataversity.net/archives/category/data-topics/security-data-topics" style="font-size:10px;">Security</a></span> <span style="font-size:11.5611814346px;"><a class="utcw-tag-link tag-link-50" href="http://www.dataversity.net/archives/category/data-topics/project-management" style="font-size:11.5611814346px;">Project Management</a></span> <span style="font-size:13.5021097046px;"><a class="utcw-tag-link tag-link-10" href="http://www.dataversity.net/archives/category/data-topics/analytics" style="font-size:13.5021097046px;">Analytics</a></span> <span style="font-size:14.1772151899px;"><a class="utcw-tag-link tag-link-14" href="http://www.dataversity.net/archives/category/data-topics/databases" style="font-size:14.1772151899px;">Databases</a></span> <span style="font-size:10.8438818565px;"><a class="utcw-tag-link tag-link-23" href="http://www.dataversity.net/archives/category/data-topics/semantic-technology" style="font-size:10.8438818565px;">Semantic Technology</a></span> <span style="font-size:11.2658227848px;"><a class="utcw-tag-link tag-link-49" href="http://www.dataversity.net/archives/category/data-topics/information-quality" style="font-size:11.2658227848px;">Information Quality</a></span> <span style="font-size:10.6751054852px;"><a class="utcw-tag-link tag-link-2428" href="http://www.dataversity.net/archives/category/data-topics/unstructured-data-data-topics" style="font-size:10.6751054852px;">Unstructured Data</a></span> <span style="font-size:10.5063291139px;"><a class="utcw-tag-link tag-link-15" href="http://www.dataversity.net/archives/category/data-topics/data-integration" style="font-size:10.5063291139px;">Data Integration</a></span> <span style="font-size:11.0970464135px;"><a class="utcw-tag-link tag-link-20" href="http://www.dataversity.net/archives/category/data-topics/modeling" style="font-size:11.0970464135px;">Modeling</a></span> <span style="font-size:10.0421940928px;"><a class="utcw-tag-link tag-link-19" href="http://www.dataversity.net/archives/category/data-topics/metadata" style="font-size:10.0421940928px;">Metadata</a></span> <span style="font-size:10.253164557px;"><a class="utcw-tag-link tag-link-30" href="http://www.dataversity.net/archives/category/data-topics/consulting" style="font-size:10.253164557px;">Consulting</a></span> <span style="font-size:12.0675105485px;"><a class="utcw-tag-link tag-link-13" href="http://www.dataversity.net/archives/category/data-topics/cloud-based-data" style="font-size:12.0675105485px;">Cloud-Based Data</a></span> <span style="font-size:16.6244725738px;"><a class="utcw-tag-link tag-link-17" href="http://www.dataversity.net/archives/category/data-topics/data-governance" style="font-size:16.6244725738px;">Data Governance</a></span> <span style="font-size:16.0337552743px;"><a class="utcw-tag-link tag-link-21" href="http://www.dataversity.net/archives/category/data-topics/nosql" style="font-size:16.0337552743px;">NoSQL</a></span> <span style="font-size:10.6751054852px;"><a class="utcw-tag-link tag-link-11" href="http://www.dataversity.net/archives/category/data-topics/architecture" style="font-size:10.6751054852px;">Architecture</a></span> <span style="font-size:12.1518987342px;"><a class="utcw-tag-link tag-link-16" href="http://www.dataversity.net/archives/category/data-topics/enterprise-information-management" style="font-size:12.1518987342px;">Enterprise Information Management</a></span> <span style="font-size:20px;"><a class="utcw-tag-link tag-link-12" href="http://www.dataversity.net/archives/category/data-topics/big-data" style="font-size:20px;">Big Data</a></span></div></div>  
     </div> <!-- end #sidebar -->
 <!-- end sidebar -->	<div id="maincontent">				<div class="ind-post" id="post-2359">
 		<h1>Privacy Policy</h1>
 			<div class="entry">
-                 <p><!-- START PRIVACY POLICY CODE -->
+                 <div style="float:right;padding: 0 0 10px 10px" class="interactive_right"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fwww.dataversity.net%2Fabout-dataversity-net%2Fprivacy-policy&amp;text=Privacy Policy&amp;count=none&amp;lang=  " style="width:65px; height:31px;"></iframe><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.dataversity.net%2Fabout-dataversity-net%2Fprivacy-policy&amp;layout=button_count&amp;show_faces=false&amp;width=65&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:65px; height:21px;" allowtransparency="true"></iframe></div><p><!-- START PRIVACY POLICY CODE -->
 </p><div style="font-family: arial;"><span style="font-size: small;"><strong>What information do we collect?</strong> </span><p></p>
 <p><span style="font-size: small;">We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. </span></p>
 <p><span style="font-size: small;">When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.</span></p>
@@ -429,7 +529,7 @@ amazon_ad_title="Dataversity"; //--></script>
 <p><span style="font-size: small;"><strong>Online Privacy Policy Only</strong> </span></p>
 <p><span style="font-size: small;">This online privacy policy applies only to information collected through our website and not to information collected offline.</span></p>
 <p><span style="font-size: small;"><strong>Your Consent</strong> </span></p>
-<p><span style="font-size: small;">By using our site, you consent to our <a style="text-decoration: none; color: #3c3c3c;" href="http://www.freeprivacypolicy.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','www.freeprivacypolicy.com']);" target="_blank">websites privacy policy</a>.</span></p>
+<p><span style="font-size: small;">By using our site, you consent to our <a style="text-decoration: none; color: #3c3c3c;" href="http://www.freeprivacypolicy.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.freeprivacypolicy.com']);" target="_blank">websites privacy policy</a>.</span></p>
 <p><span style="font-size: small;"><strong>Changes to our Privacy Policy</strong> </span></p>
 <p><span style="font-size: small;">If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. </span></p>
 <p><span style="font-size: small;">This policy was last modified on March 29, 2011</span></p>
@@ -440,7 +540,7 @@ amazon_ad_title="Dataversity"; //--></script>
 </div>
 <p><span style="font-size: small;"> </span></p>
 <p><!-- END PRIVACY POLICY CODE --></p>
-<div class="shareinpost"><ul class="socialwrap row"><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.blogger.com/blog_this.pyra?t&amp;u=http%3A%2F%2Fwww.dataversity.net%2Fabout-dataversity-net%2Fprivacy-policy&amp;n=Privacy+Policy&amp;pli=1" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','www.blogger.com']);" title="Share this PAGE : Privacy Policy on Blogger"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-34px 0px" class="image-16" width="16" alt="blogger"> <span class="head">Blog this!</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://delicious.com/post?url=http%3A%2F%2Fwww.dataversity.net%2Fabout-dataversity-net%2Fprivacy-policy&amp;title=Privacy+Policy" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','delicious.com']);" title="Bookmark this PAGE : Privacy Policy on Delicious"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-102px 0px" class="image-16" width="16" alt="delicious"> <span class="head">Bookmark on Delicious</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://digg.com/submit?url=http%3A%2F%2Fwww.dataversity.net%2Fabout-dataversity-net%2Fprivacy-policy&amp;title=Privacy+Policy&amp;bodytext=What+information+do+we+collect%3F+We+collect+information+from+you+when+you+register+on+our+site%2C+place+an+order%2C+subscribe+to+our+newsletter%2C+respond+to+a+survey+or+fill+out+a+form.+When+ordering+or+registering+on+our+site%2C+as+appropriate%2C+you+may+be+asked+to+enter+your%3A+name+or+e-mail+address.+You+may%2C+however%2C+visit+ou" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','digg.com']);" title="Digg this PAGE : Privacy Policy"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-136px 0px" class="image-16" width="16" alt="digg"> <span class="head">Digg this post</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.dataversity.net%2Fabout-dataversity-net%2Fprivacy-policy&amp;t=Privacy+Policy" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','www.facebook.com']);" title="Recommend this PAGE : Privacy Policy on Facebook"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-187px 0px" class="image-16" width="16" alt="facebook"> <span class="head">Recommend on Facebook</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.dataversity.net%2Fabout-dataversity-net%2Fprivacy-policy&amp;title=Privacy+Policy&amp;&amp;summary=What+information+do+we+collect%3F+We+collect+information+from+you+when+you+register+on+our+site%2C+place+an+order%2C+subscribe+to+our+newsletter%2C+respond+to+a+survey+or+fill+out+a+form.+When+ordering+or+registering+on+our+site%2C+as+appropriate%2C+you+may+be+asked+to+enter+your%3A+name+or+e-mail+address.+You+may%2C+however%2C+visit+ou" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','www.linkedin.com']);" title="Share this PAGE : Privacy Policy on Linkedin"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-459px 0px" class="image-16" width="16" alt="linkedin"> <span class="head">Share on Linkedin</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.reddit.com/submit?url=http%3A%2F%2Fwww.dataversity.net%2Fabout-dataversity-net%2Fprivacy-policy&amp;title=Privacy+Policy" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','www.reddit.com']);" title="Share this post : Privacy Policy on Reddit"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-731px 0px" class="image-16" width="16" alt="reddit"> <span class="head">share via Reddit</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.dataversity.net%2Fabout-dataversity-net%2Fprivacy-policy&amp;title=Privacy+Policy" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','www.stumbleupon.com']);" title="Share this PAGE : Privacy Policy with Stumblers"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-833px 0px" class="image-16" width="16" alt="stumble"> <span class="head">Share with Stumblers</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://twitter.com/home/?status=http%3A%2F%2Fwww.dataversity.net%2Fabout-dataversity-net%2Fprivacy-policy VIA+%40dataversity" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','twitter.com']);" title="Tweet this post : Privacy Policy on Twitter"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-901px 0px" class="image-16" width="16" alt="twitter"> <span class="head">Tweet about it</span></a></li><li class="iconOnly"><a rel="_self" href="http://www.dataversity.net/about-dataversity-net/privacy-policy/feed" title="Follow this SITE: Privacy Policy comments"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" width="16" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-748px 0px" class="image-16" alt="rss"> <span class="head">Subscribe to the comments on this post</span></a></li><li class="iconOnly"><a rel="nofollow" target="_self" href="javascript:window.print();" title="Print this PAGE: Privacy Policy for reading later"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-714px 0px" class="image-16" width="16" alt="print"> <span class="head">Print for later</span></a></li><li class="iconOnly"><a rel="_self" href="mailto:?subject=DATAVERSITY%20:%20Privacy%20Policy&amp;body=This%20is%20a%20link%20off%20of%20http://dataversity.net,%20an%20education%20portal%20designed%20to%20promote%20and%20educate%20professionals%20in%20the%20data%20management%20industry.%20%20http://www.dataversity.net/about-dataversity-net/privacy-policy" title="Tell a friend about this PAGE : Privacy Policy "><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" width="16" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-170px 0px" class="image-16" alt="email"> <span class="head">Tell a friend</span></a></li></ul><div class="clean"></div> </div>			</div>
+<div class="shareinpost"><ul class="socialwrap row"><li class="icon_text"><a rel="nofollow" target="_blank" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.dataversity.net%2Fabout-dataversity-net%2Fprivacy-policy&amp;t=Privacy+Policy" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.facebook.com']);" title="Recommend this PAGE : Privacy Policy on Facebook"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-275px 0px" class="image-24" width="24" alt="facebook"> <span class="head">Facebook</span></a></li><li class="icon_text"><a rel="nofollow" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.dataversity.net%2Fabout-dataversity-net%2Fprivacy-policy&amp;title=Privacy+Policy&amp;&amp;summary=What+information+do+we+collect%3F+We+collect+information+from+you+when+you+register+on+our+site%2C+place+an+order%2C+subscribe+to+our+newsletter%2C+respond+to+a+survey+or+fill+out+a+form.+When+ordering+or+registering+on+our+site%2C+as+appropriate%2C+you+may+be+asked+to+enter+your%3A+name+or+e-mail+address.+You+may%2C+however%2C+visit+ou" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.linkedin.com']);" title="Share this PAGE : Privacy Policy on Linkedin"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-675px 0px" class="image-24" width="24" alt="linkedin"> <span class="head">LinkedIn</span></a></li><li class="icon_text"><a rel="nofollow" target="_blank" href="http://twitter.com/home/?status=Privacy+Policy+-+http%3A%2F%2Fwww.dataversity.net%2Fabout-dataversity-net%2Fprivacy-policy VIA+%40dataversity" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://twitter.com']);" title="Tweet this post : Privacy Policy on Twitter"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1325px 0px" class="image-24" width="24" alt="twitter"> <span class="head">Twitter</span></a></li><li class="icon_text"><a rel="_self" href="http://www.dataversity.net/about-dataversity-net/privacy-policy/feed" title="Follow this SITE: Privacy Policy comments"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="24" width="24" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1100px 0px" class="image-24" alt="rss"> <span class="head">Subscribe</span></a></li><li class="icon_text"><a rel="nofollow" target="_self" href="javascript:window.print();" title="Print this PAGE: Privacy Policy for reading later"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1050px 0px" class="image-24" width="24" alt="print"> <span class="head">Print</span></a></li><li class="icon_text"><a rel="nofollow" target="_self" href="javascript:window.bookMark('http%3A%2F%2Fwww.dataversity.net%2Fabout-dataversity-net%2Fprivacy-policy', 'Privacy+Policy', BrowserDetect.browser);" title="Bookmark this post : Privacy Policy"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-75px 0px" class="image-24" width="24" alt="bookmark"> <span class="head">Bookmark</span></a></li><li class="icon_text"><a rel="_self" href="mailto:?subject=DATAVERSITY%20:%20Privacy%20Policy&amp;body=This%20is%20a%20link%20off%20of%20http://dataversity.net,%20an%20education%20portal%20designed%20to%20promote%20and%20educate%20professionals%20in%20the%20data%20management%20industry.%20%20http://www.dataversity.net/about-dataversity-net/privacy-policy" title="Tell a friend about this PAGE : Privacy Policy "><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="24" width="24" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-250px 0px" class="image-24" alt="email"> <span class="head">Email</span></a></li></ul><div class="clean"></div> </div>			</div>
   					</div>
        				<div id="comments">
 
@@ -478,45 +578,33 @@ amazon_ad_title="Dataversity"; //--></script>
 		</form>        <ul>
             <li><a href="http://www.dataversity.net/wp-register.php">Register</a></li>            <li><a href="http://www.dataversity.net/wp-login.php?action=lostpassword">Lost your password</a></li>
         </ul>
-        </div><div id="my_calendar_upcoming_widget-3" class="side-widget widget_my_calendar_upcoming_widget"><h3>Upcoming Events</h3><ul id="upcoming-events"><li class="future-event"><strong>June 14, 2011</strong> – <a href="http://www.dataversity.net/archives/3480">Reference &amp; Master Data Management Webinar</a><br><span>10:00 am<br>Webinar<br></span>
-&nbsp;
-&nbsp;</li>
-<li class="future-event"><strong>June 27, 2011</strong> – <a href="http://www.debtechint.com/dgiqconference2011/">DGIQ Conference</a><br><span>N/A<br>Conference<br></span>
-&nbsp;
-&nbsp;</li>
-<li class="future-event"><strong>July 12, 2011</strong> – <a href="http://www.dataversity.net/archives/3520">Data Technologies Webinar</a><br><span>10:00 am<br>Webinar<br></span>
-&nbsp;
-&nbsp;</li>
-<li class="future-event"><strong>August 9, 2011</strong> – <a href="http://www.dataversity.net/archives/3538">Managing non-tabular Data Webinar</a><br><span>10:00 am<br>Webinar<br></span>
-&nbsp;
-&nbsp;</li>
-<li class="future-event"><strong>August 23, 2011</strong> – <a href="http://nosql2011.wilshireconferences.com/">NoSQL Now!</a><br><span>N/A<br>Conference<br></span>
-&nbsp;
-&nbsp;</li>
-<li class="future-event"><strong>August 24, 2011</strong> – <a href="http://www.dataversity.net/archives/3157">Data Stewardship Seminar</a><br><span>N/A<br>Conference<br></span>
-&nbsp;
-&nbsp;</li>
-<li class="future-event"><strong>September 13, 2011</strong> – <a href="http://www.dataversity.net/archives/3544">Metadata Management Webinar</a><br><span>10:00 am<br>Webinar<br></span>
-&nbsp;
-&nbsp;</li>
-</ul></div>    </div>
+        </div><div id="sideads" class="side-widget widget_mySideads">    <h3></h3>
+    <div class="sideads">
+        <a href=" http://www.datastax.com/1-million-writes?utm_source=DataVersity&amp;utm_medium=square&amp;utm_campaign=1-million-writes" target="_blank"><img src="http://www.dataversity.net/wp-content/uploads/2011/11/125x125-fast-noanimation.gif" border="0"></a>
+ <p></p>
+&nbsp;&nbsp; 
+<a href="http://www.denodo.com/en/resources/whitepapers/data_virtualization/on02.php" target="_blank"><img src="http://www.dataversity.net/wp-content/uploads/2011/10/20111003_BANNER_125X104.jpg" border="6"></a>
+ <p></p>
+ &nbsp;&nbsp;
+<a href="http://edw2012.wilshireconferences.com/" target="_blank"><img src="http://www.dataversity.net/wp-content/uploads/2011/07/EDW2012-125x125.jpg" border="0"></a>
+ <p></p>
+ &nbsp;
+<a href="http://dgo.dataversity.net" target="_blank"><img src="http://www.dataversity.net/wp-content/uploads/2011/10/dv-dgo-vertical-box-ad-2-125x250.png" border="0"></a>
+ <p></p>
+    </div>
+</div><div id="twitter_feed" class="side-widget widget_twitterFeature"><h3>DATAVERSITY Tweets</h3><ul class="mytweets"><li><a href="http://search.twitter.com/search?q=%23Data" title="#Data" class=" ">#Data</a> Job of the Day: <a href="http://search.twitter.com/search?q=%23DataArchitect" title="#DataArchitect" class=" ">#DataArchitect</a> <a href="http://t.co/Qht4CRbT">http://t.co/Qht4CRbT</a> <a href="http://search.twitter.com/search?q=%23jobs" title="#jobs" class=" ">#jobs</a></li><li><a href="http://search.twitter.com/search?q=%23NoSQL" title="#NoSQL" class=" ">#NoSQL</a> Job of the Day: Senior Software Engineer <a href="http://t.co/K6RV3UKR">http://t.co/K6RV3UKR</a> <a href="http://search.twitter.com/search?q=%23jobs" title="#jobs" class=" ">#jobs</a></li><li><a href="http://search.twitter.com/search?q=%23FF" title="#FF" class=" ">#FF</a> &amp; big thanks to: @<a class=" " href="http://twitter.com/Axeltroike">Axeltroike</a> @<a class=" " href="http://twitter.com/Warduke">Warduke</a> @<a class=" " href="http://twitter.com/enectoux">enectoux</a> @<a class=" " href="http://twitter.com/JurInnov">JurInnov</a> @<a class=" " href="http://twitter.com/ColdPC">ColdPC</a> @<a class=" " href="http://twitter.com/gwenthomasdgi">gwenthomasdgi</a> @<a class=" " href="http://twitter.com/mydatanews">mydatanews</a> @<a class=" " href="http://twitter.com/datachick">datachick</a> &amp; always funny read @<a class=" " href="http://twitter.com/madeupstats">madeupstats</a></li><li>Welcome new contributor Jay Zaidi. Holistic Data Quality – A New Paradigm in Enterprise <a href="http://search.twitter.com/search?q=%23DataQuality" title="#DataQuality" class=" ">#DataQuality</a> Management <a href="http://t.co/ZTjJ0ISZ">http://t.co/ZTjJ0ISZ</a></li><li>In case you missed it, check out our Dec <a href="http://search.twitter.com/search?q=%23DATAVERSITY" title="#DATAVERSITY" class=" ">#DATAVERSITY</a> Digest: <a href="http://t.co/lkrr0Jr2">http://t.co/lkrr0Jr2</a> <a href="http://search.twitter.com/search?q=%23mdm" title="#mdm" class=" ">#mdm</a> <a href="http://search.twitter.com/search?q=%23nosql" title="#nosql" class=" ">#nosql</a> <a href="http://search.twitter.com/search?q=%23bigdata" title="#bigdata" class=" ">#bigdata</a> <a href="http://search.twitter.com/search?q=%23datagovernance" title="#datagovernance" class=" ">#datagovernance</a></li></ul>    <img src="http://www.dataversity.net/wp-content/themes/magazine-premium/images/twitter.png" alt="Twitter" class="bird" width="60" height="60"><div class="twitter-l"></div><h3 class="twitter"><a href="http://twitter.com/Dataversity"><em>@dataversity</em></a></h3>
+  </div>    </div>
 <!-- end second sidebar --><br class="clear"><br class="clear">    <div id="imagebar">
          <h2></h2><ul>            <li style="width: 171px;">
-			<a href="http://www.dataversity.net/archives/3844" title="NoSQL Job of the Day: NoSQL Developer"><img src="http://farm5.static.flickr.com/4025/4369192900_b77e6479e4.jpg" class="alignleft" alt="NoSQL Job of the Day: NoSQL Developer" width="171" height="111"></a>
-
-            <br><h4 style="width: 171px;"><a href="http://www.dataversity.net/archives/3844">NoSQL Job of the Day: NoSQL Developer</a></h4></li>
+			<a href="http://www.dataversity.net/archives/7714"><img width="171" height="111" src="http://www.dataversity.net/wp-content/uploads/2011/12/mit_logo-171x111.jpg" class="attachment-imagebar-thumb wp-post-image" alt="mit_logo" title="mit_logo"></a>            <br><h4 style="width: 171px;"><a href="http://www.dataversity.net/archives/7714">Unprejudiced Data Mining</a></h4></li>
                     <li style="width: 171px;">
-			<a href="http://www.dataversity.net/archives/3840"><img width="171" height="111" src="http://www.dataversity.net/wp-content/uploads/2011/06/Lexisnexis_web-171x111.jpg" class="attachment-imagebar-thumb wp-post-image" alt="Lexisnexis_web" title="Lexisnexis_web"></a>            <br><h4 style="width: 171px;"><a href="http://www.dataversity.net/archives/3840">Data Job of the Day: Vice President, Enterprise Data</a></h4></li>
+			<a href="http://www.dataversity.net/archives/7711"><img width="171" height="111" src="http://www.dataversity.net/wp-content/uploads/2011/12/kpmg-171x111.jpg" class="attachment-imagebar-thumb wp-post-image" alt="kpmg" title="kpmg"></a>            <br><h4 style="width: 171px;"><a href="http://www.dataversity.net/archives/7711">Companies Looking for Better Data Analysis, KPMG Survey Finds</a></h4></li>
                     <li style="width: 171px;">
-			<a href="http://www.dataversity.net/archives/3838" title="Big Tape and the Active Archive"><img src="http://farm4.static.flickr.com/3511/4012817504_ace7f49bd5.jpg" class="alignleft" alt="Big Tape and the Active Archive" width="171" height="111"></a>
-
-            <br><h4 style="width: 171px;"><a href="http://www.dataversity.net/archives/3838">Big Tape and the Active Archive</a></h4></li>
+			<a href="http://www.dataversity.net/archives/7708"><img width="171" height="111" src="http://www.dataversity.net/wp-content/uploads/2011/12/apache_cassandra_logo-171x111.jpg" class="attachment-imagebar-thumb wp-post-image" alt="apache_cassandra_logo" title="apache_cassandra_logo"></a>            <br><h4 style="width: 171px;"><a href="http://www.dataversity.net/archives/7708">A Closer Look at Apache Cassandra</a></h4></li>
                     <li style="width: 171px;">
-			<a href="http://www.dataversity.net/archives/3836" title="Data Governance and Star Wars"><img src="http://farm3.static.flickr.com/2732/5795508929_5ffb31e0a4.jpg" class="alignleft" alt="Data Governance and Star Wars" width="171" height="111"></a>
-
-            <br><h4 style="width: 171px;"><a href="http://www.dataversity.net/archives/3836">Data Governance and Star Wars</a></h4></li>
+			<a href="http://www.dataversity.net/archives/7705"><img width="171" height="111" src="http://www.dataversity.net/wp-content/uploads/2011/12/Johnson-And-Johnson-171x111.jpg" class="attachment-imagebar-thumb wp-post-image" alt="Johnson-And-Johnson" title="Johnson-And-Johnson"></a>            <br><h4 style="width: 171px;"><a href="http://www.dataversity.net/archives/7705">Data Job of the Day: IT Manager</a></h4></li>
                     <li class="lastimg" style="width: 171px;">
-			<a href="http://www.dataversity.net/archives/3833"><img width="171" height="111" src="http://www.dataversity.net/wp-content/uploads/2011/06/nosql-logos-300x231-171x111.png" class="attachment-imagebar-thumb wp-post-image" alt="nosql-logos-300x231" title="nosql-logos-300x231"></a>            <br><h4 style="width: 171px;"><a href="http://www.dataversity.net/archives/3833">An Introduction to NoSQL</a></h4></li>
+			<a href="http://www.dataversity.net/archives/7702"><img width="171" height="99" src="http://www.dataversity.net/wp-content/uploads/2011/12/brghtlight-171x99.gif" class="attachment-imagebar-thumb wp-post-image" alt="brghtlight" title="brghtlight"></a>            <br><h4 style="width: 171px;"><a href="http://www.dataversity.net/archives/7702">NoSQL Job of the Day: Hadoop Solution Architect</a></h4></li>
                 </ul>
     </div> <!-- end #imagebar -->
         <!-- begin bottombar -->
@@ -524,18 +612,29 @@ amazon_ad_title="Dataversity"; //--></script>
         		<div class="bottom-widget">
 			<h3>Links</h3>
 			<ul>
-			<li><a href="http://codex.wordpress.org/" target="" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://codex.wordpress.org/']);">Documentation</a></li>
+			<li><a href="http://www.dataversity.net/archives/category/education/webinars/archived-webinars">Archived Webinars</a></li>
+<li><a href="http://www.dataversity.net/archives/category/education/articles">Articles</a></li>
+<li><a href="http://codex.wordpress.org/" target="" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://codex.wordpress.org/']);">Documentation</a></li>
 <li><a href="http://wordpress.org/extend/plugins/" target="" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://wordpress.org/extend/plugins/']);">Plugins</a></li>
+<li><a href="http://www.dataversity.net/archives/category/education/slide-presentations">Slide Presentations</a></li>
 <li><a href="http://wordpress.org/extend/ideas/" target="" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://wordpress.org/extend/ideas/']);">Suggest Ideas</a></li>
 <li><a href="http://wordpress.org/support/" target="" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://wordpress.org/support/']);">Support Forum</a></li>
 <li><a href="http://wordpress.org/extend/themes/" target="" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://wordpress.org/extend/themes/']);">Themes</a></li>
+<li><a href="http://www.dataversity.net/archives/category/education/video">Video</a></li>
+<li><a href="http://www.dataversity.net/archives/category/education/white-papers">White Papers</a></li>
 <li><a href="http://wordpress.org/news/" target="" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://wordpress.org/news/']);">WordPress Blog</a></li>
 <li><a href="http://planet.wordpress.org/" target="" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://planet.wordpress.org/']);">WordPress Planet</a></li>
 			</ul>
 		</div>
 		<div class="bottom-widget">
 		   <h3>Archives</h3>			<ul>
-					<li><a href="http://www.dataversity.net/archives/date/2011/06" title="June 2011">June 2011</a></li>
+					<li><a href="http://www.dataversity.net/archives/date/2011/12" title="December 2011">December 2011</a></li>
+	<li><a href="http://www.dataversity.net/archives/date/2011/11" title="November 2011">November 2011</a></li>
+	<li><a href="http://www.dataversity.net/archives/date/2011/10" title="October 2011">October 2011</a></li>
+	<li><a href="http://www.dataversity.net/archives/date/2011/09" title="September 2011">September 2011</a></li>
+	<li><a href="http://www.dataversity.net/archives/date/2011/08" title="August 2011">August 2011</a></li>
+	<li><a href="http://www.dataversity.net/archives/date/2011/07" title="July 2011">July 2011</a></li>
+	<li><a href="http://www.dataversity.net/archives/date/2011/06" title="June 2011">June 2011</a></li>
 	<li><a href="http://www.dataversity.net/archives/date/2011/05" title="May 2011">May 2011</a></li>
 	<li><a href="http://www.dataversity.net/archives/date/2011/04" title="April 2011">April 2011</a></li>
 	<li><a href="http://www.dataversity.net/archives/date/2011/03" title="March 2011">March 2011</a></li>
@@ -545,12 +644,12 @@ amazon_ad_title="Dataversity"; //--></script>
 		</div>
 		<div class="bottom-widget">
 		   <h3>Pages</h3>			<ul>
-				<li class="page_item page-item-8 current_page_ancestor current_page_parent"><a href="http://www.dataversity.net/about-dataversity-net" title="About Dataversity">About Dataversity</a></li>
+				<li class="page_item page-item-8 current_page_ancestor current_page_parent"><a href="http://www.dataversity.net/about-dataversity-net" title="About DATAVERSITY">About DATAVERSITY</a></li>
 			</ul>
 		</div>        
 		<div class="bottom-widget">
 		   <h3>Categories</h3>			<ul>
-					<li class="cat-item cat-item-45"><a href="http://www.dataversity.net/archives/category/biography" title="View all posts filed under Biography">Biography</a>
+					<li class="cat-item cat-item-2832"><a href="http://www.dataversity.net/archives/category/book-samples" title="View all posts filed under Book Samples">Book Samples</a>
 </li>
 			</ul>
 		</div>  
@@ -566,7 +665,10 @@ amazon_ad_title="Dataversity"; //--></script>
 <!-- end bottombar -->
     <!-- begin footer -->
     <div id="footer">
-            
+                <div id="footerad">
+            <a href="http://www.datastax.com/1-million-writes?utm_source=DataVersity&amp;utm_medium=footer&amp;utm_campaign=1-million-writes" target="_blank"><img src="http://www.dataversity.net/wp-content/uploads/2011/11/940x205.jpg" border="0"></a>
+        </div>
+    	    
     
         Copyright © 2011 <a href="http://www.dataversity.net">DATAVERSITY</a>. All Rights Reserved.                <br>
         <span class="red">Magazine Premium</span> created by <a href="http://themes.bavotasan.com"><span class="red">Themes by bavotasan.com</span></a>.
@@ -575,22 +677,11 @@ amazon_ad_title="Dataversity"; //--></script>
 <br class="clear">
 </div> <!-- end #body -->
 
-<div id="follow" class="right"><ul class="tab down"><li class="follow"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" alt="follow:"><span>follow:</span></li><li class="iconOnly"><a rel="nofollow me" target="_blank" href="https://www.facebook.com/pages/Dataversity/202606653090535?ref=ts" title="Follow us on Facebook"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="24" width="24" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-275px 0px" alt="Follow us on Facebook"> <span class="head">Follow us on Facebook</span></a></li><li class="iconOnly"><a rel="nofollow me" target="_blank" href="http://www.linkedin.com/groups?mostPopular=&amp;gid=3836641" title="Connect with me"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="24" width="24" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-675px 0px" alt="Connect with me"> <span class="head">Connect with me</span></a></li><li class="iconOnly"><a rel="nofollow me" target="_blank" href="http://www.dataversity.net/feed/rss" title="RSS"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="24" width="24" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1100px 0px" alt="RSS"> <span class="head">RSS</span></a></li><li class="iconOnly"><a rel="nofollow me" target="_blank" href="https://twitter.com/#!/Dataversity" title="Tweet with me"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="24" width="24" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1325px 0px" alt="Tweet with me"> <span class="head">Tweet with me</span></a></li><li class="iconOnly"><a rel="nofollow me" target="_blank" href="http://vimeo.com/dataversity" title="Watch my videos"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="24" width="24" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1350px 0px" alt="Watch my videos"> <span class="head">Watch my videos</span></a></li></ul></div><script type="text/javascript" src="http://www.dataversity.net/wp-includes/js/jquery/ui.core.js?ver=1.8.9"></script>
-<script type="text/javascript" src="http://www.dataversity.net/wp-includes/js/jquery/ui.widget.js?ver=1.8.9"></script>
-<script type="text/javascript" src="http://www.dataversity.net/wp-includes/js/jquery/ui.tabs.js?ver=1.8.9"></script>
-<script type="text/javascript" src="http://www.dataversity.net/wp-content/themes/magazine-premium/js/effects.js?ver=3.1.3"></script>
-			<script type="text/javascript">
-				var skinurl = 'http://www.dataversity.net/wp-content/mingle-forum-skins/ddart_blue';				fold();
-			function notify(){
-					
-				var answer = confirm ('');
-				if (!answer)
-					return false;
-				else
-					return true;
-			}
-			</script>
-			<script type="text/javascript">
+<div id="follow" class="right"><ul class="tab down"><li class="follow"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" alt="follow:"><span>follow:</span></li><li class="iconOnly"><a rel="nofollow me" target="_blank" href="https://www.facebook.com/pages/Dataversity/202606653090535?ref=ts" title="Follow us on Facebook"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="24" width="24" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-275px 0px" alt="Follow us on Facebook"> <span class="head">Follow us on Facebook</span></a></li><li class="iconOnly"><a rel="nofollow me" target="_blank" href="http://www.linkedin.com/groups?mostPopular=&amp;gid=3836641" title="Connect with me"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="24" width="24" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-675px 0px" alt="Connect with me"> <span class="head">Connect with me</span></a></li><li class="iconOnly"><a rel="nofollow me" target="_blank" href="http://www.dataversity.net/feed/rss" title="RSS"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="24" width="24" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1100px 0px" alt="RSS"> <span class="head">RSS</span></a></li><li class="iconOnly"><a rel="nofollow me" target="_blank" href="http://www.slideshare.net/Dataversity" title="See my presentations"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="24" width="24" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1125px 0px" alt="See my presentations"> <span class="head">See my presentations</span></a></li><li class="iconOnly"><a rel="nofollow me" target="_blank" href="https://twitter.com/#!/Dataversity" title="Tweet with me"><img src="http://www.dataversity.net/wp-content/plugins/share-and-follow/images/blank.gif" height="24" width="24" style="background: transparent url(http://www.dataversity.net/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1325px 0px" alt="Tweet with me"> <span class="head">Tweet with me</span></a></li></ul></div><script type="text/javascript" src="http://www.dataversity.net/wp-includes/js/jquery/ui.core.js?ver=1.8.12"></script>
+<script type="text/javascript" src="http://www.dataversity.net/wp-includes/js/jquery/ui.widget.js?ver=1.8.12"></script>
+<script type="text/javascript" src="http://www.dataversity.net/wp-includes/js/jquery/ui.tabs.js?ver=1.8.12"></script>
+<script type="text/javascript" src="http://www.dataversity.net/wp-content/themes/magazine-premium/js/effects.js?ver=3.2.1"></script>
+<script type="text/javascript">
 
 jQuery(document).ready(function($) {
   $(".calendar-event").children().not(".event-title").hide();
@@ -661,7 +752,7 @@ jQuery(document).ready(function(){
 		
 	});		
 	
-});</script><!--stats_footer_test--><script src="http://stats.wordpress.com/e-201123.js" type="text/javascript"></script>
+});</script><!--stats_footer_test--><script src="http://stats.wordpress.com/e-201151.js" type="text/javascript"></script>
 <script type="text/javascript">
 st_go({blog:'22874286',v:'ext',post:'2359'});
 var load_cmc = function(){linktracker_init(22874286,2359,2);};
