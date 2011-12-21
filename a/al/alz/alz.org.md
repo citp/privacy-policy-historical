@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624061054id_/http%3A//www.alz.org/about_this_site.asp%23Security_and_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221094754id_/http%3A//alz.org/about_this_site.asp%23Security_and_privacy_policy) for the most accurate reproduction.*
 
-# Alzheimer's Association - About This Site
+# About This Site | Alzheimer's Association
 
 ## Introduction
 
-The Alzheimer's Association website provides information on the latest Alzheimer care strategies, research findings and advocacy initiatives. We also provide updates on Alzheimer's Association programs, partners and events. 
+The Alzheimer's Association website provides information on the symptoms and signs, seven stages, diagnosis, treatment and care of Alzheimer's disease and dementia.  Get support from our 24/7 Helpline, message boards and your local Alzheimer's Association Chapter. We also provide updates on Alzheimer's Association programs, partners and events. 
 
 Our audience includes caregivers; people living with dementia and their families; care professionals and researchers; Alzheimer advocates; and the general public. 
 
@@ -117,5 +117,3 @@ The Alzheimer’s Association is committed to protecting your privacy when you v
 > ### Pixels
 
 > The Alzheimer's Association uses pixels, or transparent GIF files, to help manage online advertising. 
-
-##  
