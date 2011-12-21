@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countrylife.co.uk privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519164930id_/http%3A//www.ipcmedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrylife.co.uk privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221021521id_/http%3A//www.ipcmedia.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - IPC Media - The UK's leading consumer magazine publisher
 
