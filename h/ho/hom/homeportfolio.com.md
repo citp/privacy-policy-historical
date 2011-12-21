@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeportfolio.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601011849id_/http%3A//www.homeportfolio.com/AboutHomePortfolio/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeportfolio.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221102406id_/http%3A//www.homeportfolio.com/AboutHomePortfolio/privacy) for the most accurate reproduction.*
 
 # About HomePortfolio: Privacy
 
