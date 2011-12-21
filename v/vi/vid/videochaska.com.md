@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videochaska.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624052642id_/http%3A//www.videochaska.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videochaska.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222005712id_/http%3A//www.videochaska.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # Video Chaska :: Privacy Policy
 
