@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the qnx.com privacy policy that was archived on 2010-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100829132823id_/http%3A//www.qnx.com/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qnx.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221154034id_/http%3A//www.qnx.com/legal/privacy_statement.html) for the most accurate reproduction.*
 
 # QNX Software Systems Privacy Statement
 
 ### General
 
-QNX Software Systems International Corporation and members of the QNX Software Systems Group (as defined below, collectively "QSS" or "we") respect each individual's ("you" or "your") right to privacy. This statement outlines how we collect, use, transfer and safeguard your personal information. To protect your personal information QSS does not sell, rent or trade your personal information except as outlined in this Privacy Statement.
+QNX Software Systems Limited and members of the QNX Software Systems Group (as defined below, collectively "QSS" or "we") respect each individual's ("you" or "your") right to privacy. This statement outlines how we collect, use, transfer and safeguard your personal information. To protect your personal information QSS does not sell, rent or trade your personal information except as outlined in this Privacy Statement.
 
 ### The Context for the QSS Privacy Statement
 
 To understand how we are going to use your personal information, you need to understand QSS. 
 
-We are a global organization with subsidiaries, offices, agents, distributors, resellers and business partners throughout the world. Two entities are "Affiliated" if one entity, directly or indirectly through one or more intermediaries, controls, or is controlled by, or is under common control with, the other entity (with "control" meaning ownership of more than fifty percent (50%) of the voting stock of the entity, or in the case of a non-corporate entity, an equivalent interest).  An entity is a member of the “QNX Software Systems Group” if it is Affiliated with QNX Software Systems International Corporation and contains “QNX” in its name. 
+We are a global organization with subsidiaries, offices, agents, distributors, resellers and business partners throughout the world. Two entities are "Affiliated" if one entity, directly or indirectly through one or more intermediaries, controls, or is controlled by, or is under common control with, the other entity (with "control" meaning ownership of more than fifty percent (50%) of the voting stock of the entity, or in the case of a non-corporate entity, an equivalent interest).  An entity is a member of the “QNX Software Systems Group” if it is Affiliated with QNX Software Systems Limited and contains “QNX” in its name. 
 
 Our primary products and services relate to the QNX RTOS and associated development tools (and while we do not anticipate it, this may change). Our primary customers are businesses and, as a result, we do not collect a great deal of "personal information" (specifically, information about an identifiable individual) and almost no sensitive personal information. Of course, to the extent that we do collect personal information we want to respect your privacy. 
 
