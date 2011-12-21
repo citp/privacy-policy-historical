@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miles-and-more.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524051104id_/http%3A//www.miles-and-more.com/online/portal/mam/de/nonav/no_taxonomy_simple%3Fnodeid%3D2522573%26size%3D2%26l%3Den%26cid%3D18002) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miles-and-more.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221102240id_/http%3A//www.miles-and-more.com/online/portal/mam/de/nonav/no_taxonomy_simple%3Fnodeid%3D2522573%26size%3D2%26l%3Den%26cid%3D18002) for the most accurate reproduction.*
 
 # Miles & More - Privacy statement
 
