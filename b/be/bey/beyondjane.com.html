@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the beyondjane.com privacy policy that was archived on 2011-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110405121647id_/http%3A//beyondjane.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beyondjane.com privacy policy that was archived on 2011-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111221062920id_/http%3A//beyondjane.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head profile="http://gmpg.org/xfn/11">
 
@@ -22,6 +22,47 @@
 <meta property="og:site_name" content="BeyondJane">
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:url" content="http://beyondjane.com/privacy-policy/">
+<meta property="og:description" content="Flag It
+						Spam
+						Adult Content
+						Plagiarism
+						Insufficient Quality
+						Wrong Category
+					
+				
+					
+					
+				
+					
+						Select the Right Category
+						About Writing
+						Autos
+						Books
+						Business
+						Computers
+						Creative Writing
+						Domestic
+						Gaming
+						General
+						Health
+						Internet
+						Movies
+						Music
+						News
+						Offbeat
+						Pets
+						Poetry
+						Recipes
+						Religion
+						Science
+						Short Stories
+						Society
+						Sports
+						Television
+						Travel
+						Women
+					
+				if (typeof triond_writer_id != &quot;undefined&quot;) document.getElementById('flagit_div').style.display='block';">
 <meta property="og:type" content="article">
 <script type="text/javascript" src="http://beyondjane.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
 <script type="text/javascript">
@@ -31,7 +72,7 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
    document.getElementById('iLikeItLinkDiv').innerHTML = '';
    document.getElementById('iLikeItNumber').innerHTML = '<img src="http://beyondjane.com/wp-content/themes/beyondjane/images/i-like-it-load.gif" />';
    var mysack = new sack( 
-       "http://beyondjane.com/wp-content/mu-plugins/w4l/w4l_i_like_it_ajax.php" );    
+       "/wp-content/mu-plugins/w4l/w4l_i_like_it_ajax.php" );    
 
   mysack.execute = 1;
   mysack.method = 'POST';
@@ -40,6 +81,53 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
   mysack.setVar( "post_id", post_id );
   mysack.setVar( "results_div_id", "iLikeItNumber" );
   mysack.onError = function() { alert('Ajax error in voting' )};
+  mysack.runAJAX();
+
+  return true;
+
+} // end of JavaScript function myplugin_cast_vote
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+function flagReasonChanged(article_id){
+	if (document.getElementById('flagReasonsSelect').value == '') return false;
+	
+	if (document.getElementById('flagReasonsSelect').value == 'redirect'){
+		document.getElementById('masterCategoriesDiv').style.display='block';
+		document.getElementById('palagrizedUrlDiv').style.display='none';
+	}
+	else if (document.getElementById('flagReasonsSelect').value == 'plagiarism'){
+		document.getElementById('palagrizedUrlDiv').style.display='block';
+		document.getElementById('masterCategoriesDiv').style.display='none';
+	}
+	else
+		doFlagIt(article_id);
+		
+}           
+           
+function doFlagIt( article_id)
+{
+   var reason = document.getElementById('flagReasonsSelect').value;
+   var to_master_category_id = document.getElementById('masterCategoriesSelect').value;
+   var palagrized_url = encodeURIComponent(document.getElementById('palagrizedUrl').value);
+
+   if (reason == 'plagiarism' && palagrized_url.indexOf('http') < 0) return false;
+   if (reason != 'plagiarism') palagrized_url = '';
+	
+   document.getElementById('flagit_div').innerHTML = '';
+   document.getElementById('flagit_div').innerHTML = '<p>Thank you!</p>';
+   var mysack = new sack( 
+       "/wp-content/mu-plugins/w4l/w4l_flag_it_ajax.php" );    
+
+  mysack.execute = 1;
+  mysack.method = 'POST';
+  mysack.setVar( "article_id", article_id );
+  mysack.setVar( "by_writer_id", triond_writer_id);
+  mysack.setVar( "reason", reason);
+  mysack.setVar( "to_master_category_id", to_master_category_id);
+  mysack.setVar( "palagrized_url", palagrized_url);
+  mysack.onError = function() { alert('Ajax error in flagging' )};
   mysack.runAJAX();
 
   return true;
@@ -101,7 +189,7 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
 function showTriondSignupForm()
 {
    var mysack = new sack( 
-       "http://beyondjane.com/wp-content/plugins/triond-signup/triond_signup_form_ajax.php" );    
+       "/wp-content/plugins/triond-signup/triond_signup_form_ajax.php" );    
 
   mysack.execute = 0;
   mysack.method = 'GET';
@@ -150,7 +238,9 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 <meta name="google-site-verification" content="na3q-8_HXy6nrI7YhE2wGlF98QUnQPBI_vmTsuh4MvY">
 </head>
 
-<body>
+<body> 
+		<script type="text/javascript" src="http://www.triond.com/login/is-logged-in"></script>
+		
 <div id="wrap">
 
 	<div id="topnavbar">
@@ -174,23 +264,30 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 	
         <div id="ad728" style="display: block;">
 			
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=582");
-   document.write ("&clr_link=7A3254&clr_title=7A3254&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=582&amp;clr_link=7A3254&amp;clr_title=7A3254&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=&amp;cb=62041018354&amp;loc=https%3A//web.archive.org/web/20110405121647id_/http%3A//beyondjane.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=9c84ab&amp;cb=9f0acc14ba07290bcdc9c60b6dbfa4c8' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=582&amp;cb=9f0acc14ba07290bcdc9c60b6dbfa4c8&amp;n=9c84ab' border='0' alt='' /></a></noscript>			<script type="text/javascript">antimalkar_detect('ad728')</script>		</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=582");
+					   document.write ("&clr_link=7A3254&clr_title=7A3254&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=582&amp;clr_link=7A3254&amp;clr_title=7A3254&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=nontriond&amp;cb=22284517750&amp;loc=https%3A//web.archive.org/web/20111221062920id_/http%253A//beyondjane.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=9aefb9&amp;cb=2cdfd22719ff50db2a93602920462b7f' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=582&amp;cb=2cdfd22719ff50db2a93602920462b7f&amp;n=9aefb9' border='0' alt='' /></a></noscript>			<script type="text/javascript">antimalkar_detect('ad728')</script>		</div>
 
 </div>
 
@@ -276,7 +373,49 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 <p>BeyondJane is committed to handling your personal information with the highest standards of security information. BeyondJane shall maintain physical, electronic and procedural safeguards to maintain the secrecy of the personal information, and will test its security syste ms regularly.</p>
 <p>7.  Contact .</p>
 <p>If you have any questions about this Privacy Policy or your dealings with BeyondJane, you can contact us at: +97236440435 Monday through Thursday between 10:00 – 18:00 GMT, or write to as at webmaster@beyondjane.com .</p>
-<div style="clear:both;"></div>					
+<div id="flagit_div" class="flagItDiv" style="display:none;margin-top:3px;margin-bottom:10px;height:25px;"><div id="flagReasonsDiv" style="display:block;float:left;margin-right:5px;">
+					<select id="flagReasonsSelect" onchange="flagReasonChanged();" style="font-size:11px;">
+						<option value="">Flag It</option>
+						<option value="spam">Spam</option>
+						<option value="adult">Adult Content</option>
+						<option value="plagiarism">Plagiarism</option>
+						<option value="insufficient-quality">Insufficient Quality</option>
+						<option value="redirect">Wrong Category</option>
+					</select>
+				</div><div id="palagrizedUrlDiv" style="display:none;float:left;">
+					<input type="text" id="palagrizedUrl" style="font-size:11px;" value="enter plagiarized url...">
+					<input type="button" onclick="doFlagIt()" style="font-size:11px;" value="Go">
+				</div><div id="masterCategoriesDiv" style="display:none;float:left;">
+					<select id="masterCategoriesSelect" onchange="doFlagIt();" style="font-size:11px;">
+						<option value="">Select the Right Category</option>
+						<option value="27">About Writing</option>
+						<option value="59">Autos</option>
+						<option value="21">Books</option>
+						<option value="16">Business</option>
+						<option value="22">Computers</option>
+						<option value="3">Creative Writing</option>
+						<option value="13">Domestic</option>
+						<option value="6">Gaming</option>
+						<option value="2">General</option>
+						<option value="8">Health</option>
+						<option value="20">Internet</option>
+						<option value="19">Movies</option>
+						<option value="26">Music</option>
+						<option value="30">News</option>
+						<option value="29">Offbeat</option>
+						<option value="55">Pets</option>
+						<option value="54">Poetry</option>
+						<option value="9">Recipes</option>
+						<option value="11">Religion</option>
+						<option value="32">Science</option>
+						<option value="57">Short Stories</option>
+						<option value="12">Society</option>
+						<option value="17">Sports</option>
+						<option value="18">Television</option>
+						<option value="15">Travel</option>
+						<option value="53">Women</option>
+					</select>
+				</div></div><script type="text/javascript">if (typeof triond_writer_id != "undefined") document.getElementById('flagit_div').style.display='block';</script><div style="clear:both;"></div>					
 		</div>
 		
 	</div>
@@ -289,77 +428,97 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 
 		<li id="ad336" style="display: block;">
 			
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=583");
-   document.write ("&clr_link=7A3254&clr_title=7A3254&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=583&amp;clr_link=7A3254&amp;clr_title=7A3254&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=&amp;cb=69603116211&amp;loc=https%3A//web.archive.org/web/20110405121647id_/http%3A//beyondjane.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=8af2d1&amp;cb=ae886b2f2f5c91a64477cb7a721c3dac' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=583&amp;cb=ae886b2f2f5c91a64477cb7a721c3dac&amp;n=8af2d1' border='0' alt='' /></a></noscript>			<script type="text/javascript">antimalkar_detect('ad336')</script>		</li>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=583");
+					   document.write ("&clr_link=7A3254&clr_title=7A3254&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=583&amp;clr_link=7A3254&amp;clr_title=7A3254&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=nontriond&amp;cb=74113411897&amp;loc=https%3A//web.archive.org/web/20111221062920id_/http%253A//beyondjane.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=8eb217&amp;cb=54f2bd9ab6689f2f8016b0919cfdf1ea' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=583&amp;cb=54f2bd9ab6689f2f8016b0919cfdf1ea&amp;n=8eb217' border='0' alt='' /></a></noscript>			<script type="text/javascript">antimalkar_detect('ad336')</script>		</li>
 		<li id="popular-posts" class="widget">
             <div class="sidebar-title">Popular Posts</div>
                 <ul>
-                    <li><div class="popularPostImgDiv"><a href="http://beyondjane.com/relationships/can-men-and-women-be-just-friends-without-having-any-sexual-expectations/" title="Can Men and Women be Just Friends Without Having Any Sexual Expectations?"><img src="http://s3.amazonaws.com/readers/socyberty/2009/01/27/649705.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://beyondjane.com/relationships/can-men-and-women-be-just-friends-without-having-any-sexual-expectations/" title="Can Men and Women be Just Friends Without Having Any Sexual Expectations?">Can Men and Women be Just Friends Without Having Any Sexual Expectations?</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://beyondjane.com/fashion/five-interesting-ways-to-wear-a-corset/" title="Five Interesting Ways to Wear a Corset"><img src="http://s3.amazonaws.com/readers/quazen/2006/09/02/1917.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://beyondjane.com/fashion/five-interesting-ways-to-wear-a-corset/" title="Five Interesting Ways to Wear a Corset">Five Interesting Ways to Wear a Corset</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://beyondjane.com/family/marriage/15-strange-things-that-happen-after-marriage/" title="15 Strange Things That Happen After Marriage"><img src="http://s3.amazonaws.com/readers/beyondjane/2008/12/22/553563.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://beyondjane.com/family/marriage/15-strange-things-that-happen-after-marriage/" title="15 Strange Things That Happen After Marriage">15 Strange Things That Happen After Marriage</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://beyondjane.com/family/marriage/cybersex-is-it-cheating/" title="Cybersex: Is It Cheating?"><img src="http://s3.amazonaws.com/readers/authspot/2008/05/31/172655.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://beyondjane.com/family/marriage/cybersex-is-it-cheating/" title="Cybersex: Is It Cheating?">Cybersex: Is It Cheating?</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://beyondjane.com/women/the-silent-domestic-violence-victims-men/" title="The Silent Domestic Violence Victims...men!"><img src="http://s3.amazonaws.com/readers/socyberty/2006/11/13/5716.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://beyondjane.com/women/the-silent-domestic-violence-victims-men/" title="The Silent Domestic Violence Victims...men!">The Silent Domestic Violence Victims...men!</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://beyondjane.com/women/15-things-women-want-but-rarely-say/" title="15 Things Women Want But Rarely Say"><img src="http://s3.amazonaws.com/readers/socyberty/2008/05/16/163698.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://beyondjane.com/women/15-things-women-want-but-rarely-say/" title="15 Things Women Want But Rarely Say">15 Things Women Want But Rarely Say</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://beyondjane.com/family/motherhood/angel-mothers/" title="Angel Mothers"><img src="http://s3.amazonaws.com/readers/beyondjane/2008/09/27/357619.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://beyondjane.com/family/motherhood/angel-mothers/" title="Angel Mothers">Angel Mothers</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://beyondjane.com/women/what-if-women-ruled-the-world/" title="What If... Women Ruled THE World?"><img src="http://s3.amazonaws.com/readers/purpleslinky/2008/02/10/111409.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://beyondjane.com/women/what-if-women-ruled-the-world/" title="What If... Women Ruled THE World?">What If... Women Ruled THE World?</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://beyondjane.com/relationships/dating/tips-for-dating-in-spring/" title="Tips for Dating in Spring"><img src="http://s3.amazonaws.com/readers/authspot/2008/08/02/248313.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://beyondjane.com/relationships/dating/tips-for-dating-in-spring/" title="Tips for Dating in Spring">Tips for Dating in Spring</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://beyondjane.com/relationships/heart-stopping-happiness/" title="Heart Stopping Happiness"><img src="http://s3.amazonaws.com/readers/socyberty/2009/04/23/898603.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://beyondjane.com/relationships/heart-stopping-happiness/" title="Heart Stopping Happiness">Heart Stopping Happiness</a></div><div style="clear:both;"></div></li> 
+                    <li><div class="popularPostImgDiv"><a href="http://beyondjane.com/family/motherhood/trouble-two/" title="Trouble Two"><img src="http://s3.amazonaws.com/readers/authspot/2009/05/02/925981.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://beyondjane.com/family/motherhood/trouble-two/" title="Trouble Two">Trouble Two</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://beyondjane.com/relationships/friendship/your-kind-of-friends-their-kind-of-friends-and-my-kind-of-friends/" title="Your Kind of Friends, Their Kind of Friends and My Kind of Friends"><img src="http://s3.amazonaws.com/readers/authspot/2008/11/22/475575.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://beyondjane.com/relationships/friendship/your-kind-of-friends-their-kind-of-friends-and-my-kind-of-friends/" title="Your Kind of Friends, Their Kind of Friends and My Kind of Friends">Your Kind of Friends, Their Kind of Friends and My Kind of Friends</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://beyondjane.com/women/domestic-violence-inside-the-mind-of-an-abuser/" title="Domestic Violence: Inside The Mind of an Abuser"><img src="http://s3.amazonaws.com/readers/authspot/2008/11/20/468857.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://beyondjane.com/women/domestic-violence-inside-the-mind-of-an-abuser/" title="Domestic Violence: Inside The Mind of an Abuser">Domestic Violence: Inside The Mind of an Abuser</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://beyondjane.com/family/psychology-of-a-woman/" title="Psychology of a Woman"><img src="http://s3.amazonaws.com/readers/authspot/2008/05/23/168179.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://beyondjane.com/family/psychology-of-a-woman/" title="Psychology of a Woman">Psychology of a Woman</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://beyondjane.com/beauty/hair/hairstyles-beauty-tips-and-vocabulary/" title="Hairstyles: Beauty Tips and Vocabulary"><img src="http://s3.amazonaws.com/readers/authspot/2009/05/08/938957.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://beyondjane.com/beauty/hair/hairstyles-beauty-tips-and-vocabulary/" title="Hairstyles: Beauty Tips and Vocabulary">Hairstyles: Beauty Tips and Vocabulary</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://beyondjane.com/family/motherhood/the-amount-of-parental-attention-a-child-receives-today/" title="The Amount of Parental Attention a Child Receives Today"><img src="http://s3.amazonaws.com/readers/socyberty/2009/07/15/1166287.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://beyondjane.com/family/motherhood/the-amount-of-parental-attention-a-child-receives-today/" title="The Amount of Parental Attention a Child Receives Today">The Amount of Parental Attention a Child Receives Today</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://beyondjane.com/family/marriage/suicide-due-to-arrainged-marriage/" title="Suicide Due to Arrainged Marriage"><img src="http://s3.amazonaws.com/readers/cinemaroll/2008/09/04/310431.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://beyondjane.com/family/marriage/suicide-due-to-arrainged-marriage/" title="Suicide Due to Arrainged Marriage">Suicide Due to Arrainged Marriage</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://beyondjane.com/family/motherhood/leave-your-drama-at-the-door/" title="Leave Your Drama at The Door!"><img src="http://s3.amazonaws.com/readers/trifter/2007/08/26/52699.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://beyondjane.com/family/motherhood/leave-your-drama-at-the-door/" title="Leave Your Drama at The Door!">Leave Your Drama at The Door!</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://beyondjane.com/women/man-tries-to-kill-girlfriend-with-a-truck-encounters-instant-karma-instead-live-video/" title="Man Tries to Kill Girlfriend with a Truck Encounters Instant Karma Instead (Live Video)"><img src="http://s3.amazonaws.com/readers/socyberty/2008/04/23/149704.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://beyondjane.com/women/man-tries-to-kill-girlfriend-with-a-truck-encounters-instant-karma-instead-live-video/" title="Man Tries to Kill Girlfriend with a Truck Encounters Instant Karma Instead (Live Video)">Man Tries to Kill Girlfriend with a Truck Encounters Instant Karma Instead (Live Video)</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://beyondjane.com/family/motherhood/how-to-improve-your-balance-methods-and-benefits/" title="How to Improve Your Balance - Methods and Benefits"><img src="http://s3.amazonaws.com/readers/healthmad/2009/04/19/888927.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://beyondjane.com/family/motherhood/how-to-improve-your-balance-methods-and-benefits/" title="How to Improve Your Balance - Methods and Benefits">How to Improve Your Balance - Methods and Benefits</a></div><div style="clear:both;"></div></li> 
                 </ul>
 		</li>
 		<li id="ad160Wrapper">
 			<div id="ad160-1" style="display: block;">
 				
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=786");
-   document.write ("&clr_link=7A3254&clr_title=7A3254&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=786&amp;clr_link=7A3254&amp;clr_title=7A3254&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=&amp;cb=40848339209&amp;loc=https%3A//web.archive.org/web/20110405121647id_/http%3A//beyondjane.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=b7e8ad&amp;cb=2741af2bd388e9b71be405947d308074' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=786&amp;cb=2741af2bd388e9b71be405947d308074&amp;n=b7e8ad' border='0' alt='' /></a></noscript>				<script type="text/javascript">antimalkar_detect('ad160-1')</script>			</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=786");
+					   document.write ("&clr_link=7A3254&clr_title=7A3254&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=786&amp;clr_link=7A3254&amp;clr_title=7A3254&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=nontriond&amp;cb=95940322538&amp;loc=https%3A//web.archive.org/web/20111221062920id_/http%253A//beyondjane.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=ca408e&amp;cb=df1f003295982b64824f85be35fadae9' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=786&amp;cb=df1f003295982b64824f85be35fadae9&amp;n=ca408e' border='0' alt='' /></a></noscript>				<script type="text/javascript">antimalkar_detect('ad160-1')</script>			</div>
 			<div id="ad160-2" style="display: block;">
 				
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=584");
-   document.write ("&clr_link=7A3254&clr_title=7A3254&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=584&amp;clr_link=7A3254&amp;clr_title=7A3254&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=&amp;cb=38104610174&amp;loc=https%3A//web.archive.org/web/20110405121647id_/http%3A//beyondjane.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=948625&amp;cb=8a9fc38919ff8e16b14e4749d147162c' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=584&amp;cb=8a9fc38919ff8e16b14e4749d147162c&amp;n=948625' border='0' alt='' /></a></noscript>				<script type="text/javascript">antimalkar_detect('ad160-2')</script>			</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=584");
+					   document.write ("&clr_link=7A3254&clr_title=7A3254&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=584&amp;clr_link=7A3254&amp;clr_title=7A3254&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=nontriond&amp;cb=19214666856&amp;loc=https%3A//web.archive.org/web/20111221062920id_/http%253A//beyondjane.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=e74d11&amp;cb=bee7f58de39315775188c70469b8f2b7' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=584&amp;cb=bee7f58de39315775188c70469b8f2b7&amp;n=e74d11' border='0' alt='' /></a></noscript>				<script type="text/javascript">antimalkar_detect('ad160-2')</script>			</div>
 			<div class="clear"></div>
 		</li>
 		
 		
-	<script type="text/javascript" src="http://www.triond.com/login/is-logged-in"></script>
 	<div id="triond-signup-div" style="display:none">
 	</div>
 	<script type="text/javascript">
-	if(triond_user_logged_in != undefined)
+	if(typeof triond_user_logged_in != "undefined")
 	{
 		if(!triond_user_logged_in)
 		{
@@ -369,27 +528,6 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 	}
 	</script>
 	
-					<li class="widget">				
-				<div class="sidebar-title">Video of the Day</div>
-				<div id="SmartPlayer2"></div>
-				<script type="text/javascript">
-				var playerSeed = new PlayerSeed('SmartPlayer2');
-				playerSeed.sid = 332;
-				playerSeed.width = '300';
-				playerSeed.height = '250';
-				playerSeed.videoControlDisplayColor = '#86AFB0';
-				playerSeed.featured = true;
-				playerSeed.categories = '4,5,213';
-				playerSeed.overlay= true;
-				playerSeed.autoStart= false;
-				playerSeed.companionPos= 'bottom';
-				playerSeed.hasCompanion=true;
-				playerSeed.wmode = 'transparent';
-				playerSeed.Load();
-				</script>
-			</li>
-		
-
 		<li id="google-search" class="widget">
             <div class="sidebar-title">Search BeyondJane</div>
                 <div id="cse" style="width: 100%;">Loading</div>
@@ -436,6 +574,32 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 		<li id="social-plugin" class="widget">
 			<iframe src="http://www.facebook.com/plugins/activity.php?site=beyondjane.com&amp;width=300&amp;height=300&amp;header=true&amp;colorscheme=light&amp;recommendations=true&amp;ref=fb_activity" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:300px;" allowtransparency="true"></iframe>
 		</li>
+		<li id="ad336">
+			
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=226");
+					   document.write ("&clr_link=7A3254&clr_title=7A3254&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=226&amp;clr_link=7A3254&amp;clr_title=7A3254&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=nontriond&amp;cb=16068794418&amp;loc=https%3A//web.archive.org/web/20111221062920id_/http%253A//beyondjane.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=e5c7db&amp;cb=46b61f69aeb5991833e6722db7327c3c' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=226&amp;cb=46b61f69aeb5991833e6722db7327c3c&amp;n=e5c7db' border='0' alt='' /></a></noscript>		</li>
 
 		<li id="categories" class="widget">
             <div class="sidebar-title">Categories</div>
@@ -517,61 +681,6 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
                 </ul>
 		</li>
 		
-		
-		
-		<li id="popular-tags" class="widget">
-            <div class="sidebar-title">Popular Tags</div>
-                <ul>
-                    <a href="http://beyondjane.com/tag/advice/" class="tag-link-1261" title="175 topics" rel="tag" style="font-size: 8.4942363112392pt;">advice</a>
-<a href="http://beyondjane.com/tag/baby/" class="tag-link-6747" title="152 topics" rel="tag" style="font-size: 8.2622478386167pt;">Baby</a>
-<a href="http://beyondjane.com/tag/beauty/" class="tag-link-893" title="1,010 topics" rel="tag" style="font-size: 16.916426512968pt;">Beauty</a>
-<a href="http://beyondjane.com/tag/boyfriend/" class="tag-link-361" title="274 topics" rel="tag" style="font-size: 9.492795389049pt;">Boyfriend</a>
-<a href="http://beyondjane.com/tag/cheating/" class="tag-link-14617" title="173 topics" rel="tag" style="font-size: 8.4740634005764pt;">cheating</a>
-<a href="http://beyondjane.com/tag/children/" class="tag-link-1639" title="240 topics" rel="tag" style="font-size: 9.149855907781pt;">children</a>
-<a href="http://beyondjane.com/tag/clothing/" class="tag-link-5313" title="259 topics" rel="tag" style="font-size: 9.3414985590778pt;">Clothing</a>
-<a href="http://beyondjane.com/tag/cosmetics/" class="tag-link-33847" title="253 topics" rel="tag" style="font-size: 9.2809798270893pt;">cosmetics</a>
-<a href="http://beyondjane.com/tag/dating/" class="tag-link-3355" title="781 topics" rel="tag" style="font-size: 14.606628242075pt;">Dating</a>
-<a href="http://beyondjane.com/tag/divorce/" class="tag-link-6041" title="184 topics" rel="tag" style="font-size: 8.5850144092219pt;">divorce</a>
-<a href="http://beyondjane.com/tag/family/" class="tag-link-1449" title="314 topics" rel="tag" style="font-size: 9.8962536023055pt;">Family</a>
-<a href="http://beyondjane.com/tag/fashion/" class="tag-link-2667" title="566 topics" rel="tag" style="font-size: 12.438040345821pt;">Fashion</a>
-<a href="http://beyondjane.com/tag/friendship/" class="tag-link-6031" title="144 topics" rel="tag" style="font-size: 8.1815561959654pt;">Friendship</a>
-<a href="http://beyondjane.com/tag/girlfriend/" class="tag-link-14927" title="177 topics" rel="tag" style="font-size: 8.514409221902pt;">girlfriend</a>
-<a href="http://beyondjane.com/tag/girls/" class="tag-link-12263" title="156 topics" rel="tag" style="font-size: 8.3025936599424pt;">girls</a>
-<a href="http://beyondjane.com/tag/hair/" class="tag-link-26317" title="659 topics" rel="tag" style="font-size: 13.376080691643pt;">Hair</a>
-<a href="http://beyondjane.com/tag/hair-care/" class="tag-link-201239" title="164 topics" rel="tag" style="font-size: 8.3832853025937pt;">hair care</a>
-<a href="http://beyondjane.com/tag/hairstyle/" class="tag-link-169977" title="126 topics" rel="tag" style="font-size: 8pt;">hairstyle</a>
-<a href="http://beyondjane.com/tag/health/" class="tag-link-5597" title="608 topics" rel="tag" style="font-size: 12.861671469741pt;">health</a>
-<a href="http://beyondjane.com/tag/husband/" class="tag-link-14403" title="159 topics" rel="tag" style="font-size: 8.3328530259366pt;">husband</a>
-<a href="http://beyondjane.com/tag/life/" class="tag-link-1267" title="336 topics" rel="tag" style="font-size: 10.118155619597pt;">Life</a>
-<a href="http://beyondjane.com/tag/love/" class="tag-link-581" title="1,263 topics" rel="tag" style="font-size: 19.468299711816pt;">love</a>
-<a href="http://beyondjane.com/tag/make-up/" class="tag-link-27331" title="138 topics" rel="tag" style="font-size: 8.1210374639769pt;">make-up</a>
-<a href="http://beyondjane.com/tag/makeup/" class="tag-link-159971" title="221 topics" rel="tag" style="font-size: 8.9582132564842pt;">Makeup</a>
-<a href="http://beyondjane.com/tag/man/" class="tag-link-5125" title="182 topics" rel="tag" style="font-size: 8.5648414985591pt;">man</a>
-<a href="http://beyondjane.com/tag/marriage/" class="tag-link-5197" title="856 topics" rel="tag" style="font-size: 15.363112391931pt;">Marriage</a>
-<a href="http://beyondjane.com/tag/men/" class="tag-link-5857" title="644 topics" rel="tag" style="font-size: 13.224783861671pt;">men</a>
-<a href="http://beyondjane.com/tag/mother/" class="tag-link-3409" title="235 topics" rel="tag" style="font-size: 9.0994236311239pt;">mother</a>
-<a href="http://beyondjane.com/tag/parenting/" class="tag-link-4643" title="138 topics" rel="tag" style="font-size: 8.1210374639769pt;">parenting</a>
-<a href="http://beyondjane.com/tag/people/" class="tag-link-4293" title="142 topics" rel="tag" style="font-size: 8.1613832853026pt;">people</a>
-<a href="http://beyondjane.com/tag/pregnancy/" class="tag-link-1593" title="189 topics" rel="tag" style="font-size: 8.635446685879pt;">pregnancy</a>
-<a href="http://beyondjane.com/tag/relationship/" class="tag-link-7005" title="612 topics" rel="tag" style="font-size: 12.902017291066pt;">relationship</a>
-<a href="http://beyondjane.com/tag/relationships/" class="tag-link-651" title="986 topics" rel="tag" style="font-size: 16.674351585014pt;">Relationships</a>
-<a href="http://beyondjane.com/tag/romance/" class="tag-link-1621" title="189 topics" rel="tag" style="font-size: 8.635446685879pt;">romance</a>
-<a href="http://beyondjane.com/tag/sex/" class="tag-link-3309" title="453 topics" rel="tag" style="font-size: 11.298270893372pt;">sex</a>
-<a href="http://beyondjane.com/tag/shopping/" class="tag-link-2465" title="302 topics" rel="tag" style="font-size: 9.7752161383285pt;">Shopping</a>
-<a href="http://beyondjane.com/tag/skin/" class="tag-link-45585" title="389 topics" rel="tag" style="font-size: 10.652737752161pt;">Skin</a>
-<a href="http://beyondjane.com/tag/skin-care/" class="tag-link-178371" title="201 topics" rel="tag" style="font-size: 8.7564841498559pt;">skin care</a>
-<a href="http://beyondjane.com/tag/style/" class="tag-link-7107" title="168 topics" rel="tag" style="font-size: 8.4236311239193pt;">Style</a>
-<a href="http://beyondjane.com/tag/tips/" class="tag-link-7481" title="235 topics" rel="tag" style="font-size: 9.0994236311239pt;">tips</a>
-<a href="http://beyondjane.com/tag/wedding/" class="tag-link-46147" title="453 topics" rel="tag" style="font-size: 11.298270893372pt;">wedding</a>
-<a href="http://beyondjane.com/tag/weddings/" class="tag-link-3579" title="141 topics" rel="tag" style="font-size: 8.1512968299712pt;">Weddings</a>
-<a href="http://beyondjane.com/tag/wife/" class="tag-link-37621" title="146 topics" rel="tag" style="font-size: 8.2017291066282pt;">wife</a>
-<a href="http://beyondjane.com/tag/woman/" class="tag-link-5745" title="455 topics" rel="tag" style="font-size: 11.318443804035pt;">woman</a>
-<a href="http://beyondjane.com/tag/women/" class="tag-link-4019" title="1,514 topics" rel="tag" style="font-size: 22pt;">Women</a> 
-                </ul>
-		</li>
-		
-	
-				
 	</ul>
 	
 	
@@ -604,7 +713,7 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 <noscript>
 <a href="http://www.quantcast.com/p-daj4ISsTm6BnE" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-daj4ISsTm6BnE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
-<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=1599&amp;rnd=2531227204"><script type="text/javascript">
+<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=1599&amp;rnd=1477498565"><script type="text/javascript">
 					var _gaq = _gaq || [];
 					_gaq.push(['t30._setAccount', 'UA-1488967-30']);_gaq.push(['t30._trackPageview']);_gaq.push(['t29._setAccount', 'UA-1488967-29']);_gaq.push(['t29._trackPageview']);
 					(function() {
@@ -638,47 +747,62 @@ var _sf_async_config={uid:6902};
 
 	<div id="ad-to">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=1362");
-   document.write ("&clr_link=7A3254&clr_title=7A3254&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1362&amp;clr_link=7A3254&amp;clr_title=7A3254&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=&amp;cb=69260606521&amp;loc=https%3A//web.archive.org/web/20110405121647id_/http%3A//beyondjane.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=50d320&amp;cb=a538de400559fd34b17c824c8e5cf01b' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1362&amp;cb=a538de400559fd34b17c824c8e5cf01b&amp;n=50d320' border='0' alt='' /></a></noscript>	</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1362");
+					   document.write ("&clr_link=7A3254&clr_title=7A3254&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1362&amp;clr_link=7A3254&amp;clr_title=7A3254&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=nontriond&amp;cb=90094412000&amp;loc=https%3A//web.archive.org/web/20111221062920id_/http%253A//beyondjane.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=3304fa&amp;cb=a5d8ab99f0c5d46f970862c6c1a95b90' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1362&amp;cb=a5d8ab99f0c5d46f970862c6c1a95b90&amp;n=3304fa' border='0' alt='' /></a></noscript>	</div>
 	<div id="ad-slider">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=948");
-   document.write ("&clr_link=7A3254&clr_title=7A3254&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=948&amp;clr_link=7A3254&amp;clr_title=7A3254&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=&amp;cb=11461393277&amp;loc=https%3A//web.archive.org/web/20110405121647id_/http%3A//beyondjane.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=306e4c&amp;cb=d70bf82f869c40d8034d44d6d99a9e0d' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=948&amp;cb=d70bf82f869c40d8034d44d6d99a9e0d&amp;n=306e4c' border='0' alt='' /></a></noscript>	</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=948");
+					   document.write ("&clr_link=7A3254&clr_title=7A3254&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=948&amp;clr_link=7A3254&amp;clr_title=7A3254&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=nontriond&amp;cb=25939029252&amp;loc=https%3A//web.archive.org/web/20111221062920id_/http%253A//beyondjane.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=c88ad8&amp;cb=10c9ba8db12176c40b333487ec8f21ae' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=948&amp;cb=10c9ba8db12176c40b333487ec8f21ae&amp;n=c88ad8' border='0' alt='' /></a></noscript>	</div>
 
 </div>
-<!-- start eXelate tag - Triond - Default Site 
-<SCRIPT TYPE="text/javascript" SRC="http://loadus.exelator.com/load/?p=149&g=001"></SCRIPT>
- end eXelate tag -->
+<!-- start eXelate tag - Triond - Default Site -->
+
+<script type="text/javascript" src="http://loadus.exelator.com/load/?p=149&amp;g=004&amp;c=1381171&amp;ctg=fashion&amp;subctg=uncategorized"></script>
+<!--  end eXelate tag -->
 <script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=dYGUN2tt8r35nOadbiUzgI&amp;s=130"></script>
 
 <script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
