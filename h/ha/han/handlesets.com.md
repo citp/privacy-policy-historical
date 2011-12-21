@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handlesets.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623025631id_/http%3A//www.handlesets.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handlesets.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221173740id_/http%3A//www.handlesets.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
 # Handlesets.com: Security & Privacy
 
@@ -34,13 +34,21 @@ Cookies are alphanumeric identifiers that we transfer to your computer's hard dr
 
 ## Emails and Newsletters
 
-Handlesets.com uses emails as one of our primary ways to respond and communicate with our customers. All emails sent are addressing one of the three issues: a direct response to an inquiry, communication concerning an order (receipt, shipping confirmation, etc), or a promotional newsletter if you have indicated you wish to receive offers and information about our Network Stores.
+Because we value your right to privacy, we do not sell or otherwise share your contact information to unrelated third parties. Handlesets.com and our Network of Stores use email as one of the primary methods of communicating with our customers. The emails we send may be related to a variety of issues, including:
 
-From time to time, we may notify you of special offers that take into consideration your historic purchasing activity with us. We do not share or otherwise sell your contact information to unrelated third parties.
+  * A direct response to an inquiry,
+  * Communication concerning an order (receipt, shipping confirmation, etc), or 
+  * Promotional emails you have indicated you wish to receive.
 
-Upon signing up to receive our promotional emails, you will periodically receive emails with specials and discounts, updates about our [Network Stores](http://corp.improvementdirect.com/index.cfm?page=stores), and information about the lines and products featured on our sites.
 
-If you wish to stop receiving our promotional emails, you’ll find clear and easy unsubscribe instructions in each email. You may also change your subscription status at any time either by logging into your account and editing your "Change Billing Info" or by sending an email to [newsletters@handlesets.com](mailto:newsletters@handlesets.com). Lastly, if you wish to reach us by phone, representatives in our call center can also alter your subscription preferences.
+
+From time to time, we may notify you of special offers based on your purchasing history with us. If you create a Saved Cart, or have one created by our staff, you may receive follow-up emails related to this Cart. You may unsubscribe at any time by following the simple instructions contained in the emails. Unsubscribing will not apply to any future Saved Carts that are created. If you have signed up to receive our promotional emails and wish to stop your subscription, you'll find easy-to-follow unsubscribe instructions in each promotional email. You may also change your subscription status at any time by:
+
+  * [Logging into your account](https://web.archive.org/index.cfm?page=account:home) and editing your "Change Billing Info"
+  * Sending an email to [newsletters@Handlesets.com](mailto:newsletters@Handlesets.com)
+  * Contacting us by phone at (888) 649-0865. Representatives in our call center can also alter your subscription preferences.
+
+
 
 ## Sharing Information
 
