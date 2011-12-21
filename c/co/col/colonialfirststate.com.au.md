@@ -1,46 +1,31 @@
-> *The following text is extracted and transformed from the colonialfirststate.com.au privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623043218id_/http%3A//www.colonialfirststate.com.au/footer/privacy.aspx%3Fmenutabtype%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colonialfirststate.com.au privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221180035id_/http%3A//www.colonialfirststate.com.au/footer/privacy.aspx%3Fmenutabtype%3Dfooter) for the most accurate reproduction.*
 
 # Privacy policy :: Colonial First State
 
-## Colonial First State Privacy Policy 
+## Colonial First State Privacy Policy
 
-Australia's National Privacy Policy defines Personal Information as information or opinion that allows others to identify you. It includes your name, age, gender, contact details, as well as your health and financial information. 
+At Colonial First State the privacy of your personal information is of paramount importance to us. In general terms the Privacy Act 1988 (Cth) defines personal information as information or an opinion about an individual whose identity is apparent or can reasonably be ascertained. It includes your name, age and contact details as well as your health and financial information. The following statement outlines our general information handling practices, and is generally reflected in our offer documents. (Offer documents generally refer to Product Disclosure Statements).
 
-At Colonial First State the privacy of your personal information is important to us. We collect personal information to provide you with the products and services you request as well as information about compatible or related products and services we offer. In some circumstances the law may also require us to collect personal information. 
+More information is provided in the detailed privacy policy document.
 
 ## How is my personal information dealt with?
 
-The privacy of your personal information is important to us. 
+We form part of the Commonwealth Bank Group of companies (‘Group’).The Group offers a broad range of products and services. We collect personal information so that you can be provided with the products and services you request. We may also share personal information with other Group companies so that the Groups can have access to an integrated view of the relationship. The group may also tell you about other products and services that might suit your financial needs. The law also requires us to collect personal information. 
 
-We form part of the Commonwealth Bank Group of companies (“Group”), a well known financial services organisation. The Group offers a broad range of products and services.
+In the course of doing business we outsource certain tasks to third party suppliers. In these circumstances we may disclose your personal information to third parties including bulk mailing houses, market research and information technology support and email suppliers. From time to time we also seek expert help to improve our systems, products and services. These third parties are bound by confidentiality arrangements when handling your personal information.
 
-We collect personal information so that you can be provided with the products and services you request.   We may also share personal information with other Group companies so that you and the Group can have access to an integrated view of the relationship. The Group may also tell you about other products and services that might suit your financial, lifestyle or electronic needs.  The law may also require us to collect personal information.
+The law also helps us to collect and verify personal information about you. We may also collect and verify information about persons who act on your behalf. The collection and verification of information about identity helps us to protect against identity theft, money laundering and other activities. Depending on whether you are an individual or an organisation, the information we collect will vary. During your course of dealings with us, we may also collect and verify further information about you or other persons who act on your behalf. We may be permitted or required to disclose customer information by law eg under Court orders or statutory notices pursuant to taxation or social security laws or under laws relating to sanctions, anti-money laundering or counter-terrorism financing.
 
-We may disclose personal information to other parties (confidentiality arrangements apply) for certain purposes that we outsource, including bulk mailing, market research and information technology support.  We also seek expert help from time to time to help us improve our systems, products and services. Your personal information may be disclosed to these third parties in such circumstances.  Your personal information will not be shared with other third parties (except with our related bodies for prudential and risk management purposes or as otherwise set out in this statement).
+Your personal information may also be used by us to administer, monitor and evaluate products and services, assist you with any queries and take measures to detect and prevent fraud and other illegal activity, or incorporated into statistical analysis. We may also be allowed or obliged to disclose information by law and to report on prudential or risk management matters to regulators and our related bodies.
 
-Your personal information may also be used by us to administer, monitor and evaluate products and services, gather, aggregate and report statistical information, assist you with any queries and take measures to detect and prevent fraud and other illegal activity.  We may also be allowed or obliged to disclose or receive information by law and to report on prudential or risk management matters.
+If you notify us that you have a personal financial adviser, then details of your investment will be provided to them. This may also include personal health information if you have arranged insurance through your adviser.
 
-If you notify us that you have a personal financial adviser, then details of your investment will be provided to them. If you hold our products and services through a Commonwealth Financial Planner, who is part of the Group, personal information may be used by other Group companies for marketing purposes.
+If you are a member of FirstChoice Employer Super your personal information and details of your investment in FirstChoice Employer Super will be provided to your employer and the financial adviser for the plan. You can elect not to have your account balance, rollovers or investor selected insurance details disclosed to your employer. If you make this election, your employer will continue to have access to certain personal information such as your contact details and employer selected insurance details. You can also elect not to have any of your personal information or investment details disclosed to the plan adviser.
 
-We aim to ensure that the personal information we retain about you is accurate, complete and up-to-date. If you provide us with incomplete or inaccurate information, you may not be able to be provided with the products or services you are seeking.
+If you hold our products and services through a Commonwealth Financial Planner or your FirstChoice Employer Super plan is held through a Commonwealth Financial Planner, who is part of the Commonwealth Bank Group, personal information may be used by other Commonwealth Bank Group companies for marketing purposes.
 
-If you have concerns about the completeness or accuracy of the information we have about you or would like to access or amend your information, simply call us on 13 13 36 or send an email to [contactus@colonialfirststate.com.au](mailto:contactus@colonialfirststate.com.au). You can contact us if you do not want to receive any marketing information from us or any other Group company. You may be contacted by telephone unless you ask us not to do so. To stop receiving telemarketing please call 13 13 36. If you would like a copy of our Privacy Policy Statement, visit our website at [colonialfirststate.com.au](http://www.colonialfirststate.com.au/) or call the above number.
+You can contact us if you do not want to receive any marketing information from us. If you do not want to receive marketing information from other companies within the Commonwealth Bank Group, please contact the relevant Group company directly. You may be contacted by telephone for telemarketing purposes unless you ask us not to do so. To stop receiving telemarketing, please call 13 13 36.
 
-**You will be taken to agree to the collection, use and disclosure of your personal information as set out above when you apply to make an investment in FirstChoice.**
+We aim to ensure that the personal information we retain about you is accurate, complete and up-to-date. If you provide us with incomplete or inaccurate information, we may not be able to provide you with the products or services you are seeking.
 
-## Accuracy of your personal information
-
-We aim to ensure that the personal information we retain about you is accurate, complete and up-to-date. You will be taken to agree to the use, collection and disclosure of your personal information when you make an investment in the fund. If you provide us with incomplete or inaccurate information, we may not be able to provide you with the products or services you are seeking. 
-
-## **Online services**
-
-For statistical purposes we collect information on web site activity (such as the number of users who visit our web site, the date and time of visits, the number of pages viewed, navigation patterns, what country and what systems users have used to access the site and, when entering our web site from another web site, the address of that web site) through the use of [ 'cookies'](https://web.archive.org/footer/security.aspx?menutabtype=footer#cookie). This information on its own does not identify an individual but it does provide us with statistics that can be used to analyse and improve our web site.
-
-If you want to see our more detailed privacy policy document [ click here](https://web.archive.org/prospects/FS2545.pdf). 
-
-If you have any questions or would like further information on our privacy and information handling practices, you can: 
-
-  * call Investor Services on 13 13 36, or
-  * complete a [feedback form](https://web.archive.org/contact_us/submit_feedback.aspx?menutabtype=contactus)
-
-
+If you have any questions or would like further information on our privacy and information handling practices, please contact us by calling our Service Centre on 13 13 36, or e-mailing us at [contactus@colonialfirststate.com.au](mailto:contactus@colonialfirststate.com.au). 
