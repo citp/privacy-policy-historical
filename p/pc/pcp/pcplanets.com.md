@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcplanets.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624001414id_/http%3A//www.pcplanets.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcplanets.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221180228id_/http%3A//www.pcplanets.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy on PcPlanets.com
 
