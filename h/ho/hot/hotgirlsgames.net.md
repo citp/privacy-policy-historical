@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the hotgirlsgames.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211736id_/http%3A//www.hotgirlsgames.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotgirlsgames.net privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221035055id_/http%3A//www.hotgirlsgames.net/privacy.php) for the most accurate reproduction.*
 
-# Our privacy
+# Girls Games For Girls on hotgirlsgames.net
+
+Access To This Site
+
+YOU MUST BE THIRTEEN (13) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER THIRTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE FALLS WITHIN THE CHILDREN'S ONLINE PRIVACY PROTECTION ACT (COPPA) AND IS NOT MONITORED AS DOING SO.   
+Content Games/videos are unrated and the possibility exists some games may contain violence, suggestive themes, crude humor, blood, gore, sexual content, simulated gambling, and/or use of strong language. 
 
 Our Privacy
 
@@ -10,7 +15,7 @@ hotgirlsgames.net does not attempt to collect personal information from children
 
 When visiting any Internet site, your unique address called an "IP address" is recorded. hotgirlsgames.net does not release any information about the collection of this address to any third party except under court order. hotgirlsgames.net archives the log files in order to create aggregate statistical reports, detect errors on the web site, and for security reasons. The log files are eventually deleted.
 
-IP reports for advertisement clicks are shared with the advertiser. However, they usually have this information already since it is captured by their server when you view or click an ad. This is done to verify billing for the ads. No additional information associated with any specific user is provided to the advertisers. 
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
 
 Overview
 
@@ -37,6 +42,8 @@ hotgirlsgames.net does not denote ownership of any images or content unless spec
 Any pages that are original material of hotgirlsgames.net will include hotgirlsgames.net's URL on or in it. Any theft, alteration, modification, translation, or transgenderation of this material will be construed as robbery of intellectual property and will land in a fine and court date. 
 
 Some links on hotgirlsgames.net will take visitors outside its web server. Although these links were established to provide access to useful information, hotgirlsgames.net does not and are not responsible for any of these sites or their content. 
+
+Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes.
 
 Contact
 
