@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stcatharinesstandard.ca privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623052550id_/http%3A//stcatharinesstandard.ca/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stcatharinesstandard.ca privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221173812id_/http%3A//www.stcatharinesstandard.ca/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -104,7 +104,5 @@ Any rights not expressly granted herein are reserved.
 
 * * *
 
-COPYRIGHT NOTICE.© 1999-2011 [PriorityDigital.com](http://209.204.219.152/) Prepared for: www.stcatharinesstandard.ca ,All rights reserved. 
-
-  
+COPYRIGHT NOTICE.© 1999-2011 [PriorityDigital.com](http://209.204.219.152/) Prepared for: www.stcatharinesstandard.ca ,All rights reserved.   
 
