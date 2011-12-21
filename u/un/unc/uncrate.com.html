@@ -1,159 +1,88 @@
-<!--The following is the downloaded HTML source of the uncrate.com privacy policy that was archived on 2011-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623003709id_/http%3A//www.uncrate.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uncrate.com privacy policy that was archived on 2011-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111221082632id_/http%3A//uncrate.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Uncrate | Privacy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="robots" content="index, follow">
-<meta name="description" content="Uncrate is a web magazine for guys who love stuff. Our team finds the best gadgets, clothes, cars, DVDs and more.">
+<!DOCTYPE html><html lang="en"><head>
+ 
+<title>Privacy | Uncrate</title>                  
+<meta charset="utf-8">
+<meta name="description" content="Privacy Policy The policies below are applicable to Uncrate.com. Any questions or comments you may have regarding this privacy policy, contact Zombie Corp. Zombie Corp...">
 
+<link rel="stylesheet" type="text/css" href="/css/uncrate.css">
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/uncrate">
 
-    
-        
-        
-        
-        
-        
-        
-        <link rel="start" href="http://www.uncrate.com/" title="Home">
-        <script type="text/javascript" src="http://www.uncrate.com/js/mt.js"></script>
-        
-    
-
-
-<link rel="stylesheet" href="/css/un.css" type="text/css">
-<link rel="shortcut icon" href="/favicon.ico" type="image/ico">
-<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feeds.feedburner.com/uncrate">
+<script type="text/javascript" src="http://use.typekit.com/cjf7hjo.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery.box.js"></script>
+<script type="text/javascript" src="/js/mt.js"></script>
 <script type="text/javascript" src="/js/custom.js"></script>
-
-<script type="text/javascript">
-/* <![CDATA[ */
-mtAttachEvent('load', mtUpdateScores);
-mtAttachEvent('usersignin', mtUpdateScores);
-/* ]]> */
-</script>
+<!--[if lt IE 7]><script type="text/javascript" src="/js/pngfix.js"></script><![endif]-->
 
 </head>
 
-	<body>
+<body>
 
-	<div id="room">
-	<div id="rug">
+<div id="rug"> 
 
-	<div id="header">
+<div id="leaderboard"> 
+<script type="text/javascript">federated_media_section = "UC_Homepage";</script> 
+<script type="text/javascript" src="http://static.fmpub.net/zone/278"></script> 
+</div><!--leaderboard-->
 
-	<div class="leaderboard">
-		<script type="text/javascript">
-		var federated_media_section = '';
-		</script>
-		<script type="text/javascript" src="http://static.fmpub.net/zone/278"></script>
-	</div>
-	
-	<div class="logo">
-<a href="/"><img src="/i/uncrate.gif" width="495" height="107" border="0" alt="Uncrate"></a>
-	</div>
-	
-	<div class="elsewhere">
-	
-		<form method="get" action="/search" id="searchform" name="searchform" onsubmit="return search()">
-		<input name="query" id="searchbox" onfocus="javascript:if(this.value=='  Search Uncrate') {this.value='';}" onblur="javascript:if(this.value=='') {this.value='  Search Uncrate'}" value="  Search Uncrate">
-		<input type="image" src="/i/search.gif" alt="Go" name="go" value="Go">
-		</form>
-		
-		<script type="text/javascript" language="javascript">
-		<!--
-		function search() {
-		    query = document.searchform.query.value.replace(/ /g,'+')
-		    window.location = "/search/" + query;
-		    
-		    return false;
-		}
-		-->
-		</script>
-		<div id="signin-widget-content" class="widget-content"></div>
-		
-		<script type="text/javascript">
-		/* <![CDATA[ */
-		function mtUpdateSignInWidget(u) {
-		    var separator = '&nbsp;&nbsp;|&nbsp;&nbsp;';
-		    var el = document.getElementById('signin-widget-content');
-		    var content = '';
-		    if (!el) return;
-		    if (u) {
-		        if (u && u.is_authenticated) {
-		            user = u;
-		            mtSaveUser();
-		        } else {
-		            // user really isn't logged in; so let's do this!
-		            return mtSignIn();
-		        }
-		    } else {
-		        u = mtGetUser();
-		    }
-		    if (u && u.name) {
-		        var url;
-		        if (u.is_authenticated) {
-		            if (u.is_author) {
-		                url = '/user/view';
-		                url += '?static=' + encodeURIComponent( location.href );
-		            } else {
-		                url = u.url;
-		            }
-		        } else if (u.url) {
-		            url = u.url;
-		        } else {
-		            url = null;
-		        }
-		        if (url)
-		            content += '<a href="' + url + '" rel="nofollow">My Stuff</a>';
-		        else
-		            content += 'Signed in as ' + u.name + '';
-		        if (u.is_author)
-		            content += separator + '<a href="/user/edit?return_to=' + encodeURIComponent(document.URL) + '" rel="nofollow">Edit profile</a>';
-		        
-		        content += separator + '<a href="/stuff/signout?return_to=' + encodeURIComponent(document.URL) + '" rel="nofollow">Sign out</a>';
-		        
-		    } else if (u && u.is_banned) {
-		        content = 'You do not have permission to sign in to this blog.';
-		    } else {
-		        content = '<a href="http://www.uncrate.com/signin/?return_to=' + encodeURIComponent(document.URL) + '" rel="nofollow">Sign in</a> or ';
-		        content += '<a href="http://www.uncrate.com/signup/?return_to=' + encodeURIComponent(document.URL) + '" rel="nofollow">sign up</a> to partake in awesomeness.';
-		    }
-		    el.innerHTML = content;
-		}
-		mtAttachEvent('load', mtUpdateSignInWidget);
-		mtAttachEvent('usersignin', mtUpdateSignInWidget);
-		/* ]]> */
-		</script>
-</div>
-	
-<div id="nav">
-<div class="navimage">
-<img src="/i/nav-970.gif" width="970" height="21" usemap="#Nav" border="0">
-<map name="Nav">
-<area shape="rect" coords="-22,-19,49,20" href="/men/gear/" alt="Gear">
-<area shape="rect" coords="69,-13,126,20" href="/men/style/" alt="Style">
-<area shape="rect" coords="148,-29,203,20" href="/men/cars/" alt="Rides">
-<area shape="rect" coords="224,-41,375,20" href="/men/entertainment/" alt="Entertainment">
-<area shape="rect" coords="395,-26,479,20" href="/men/culture/" alt="Culture">
-<area shape="rect" coords="499,-48,551,20" href="/men/body/" alt="Body">
-<area shape="rect" coords="571,-34,632,20" href="/men/home/" alt="Living">
-<area shape="rect" coords="722,-19,815,20" href="/answers/" alt="Answers">
-<area shape="rect" coords="836,-10,898,20" href="/about/stuff/" alt="Stuff">
-<area shape="rect" coords="917,-10,970,20" href="/sections/" alt="More">
+<div id="logo">
+<a href="/"><img src="/i/uncrate.png" width="476" height="78" alt="Uncrate"></a> 
+</div><!--logo-->
+
+<div id="hello">
+The digital magazine for guys who love stuff. Five awesome new things are posted every day. We've found <a href="/">8693 products</a> since 2005. Subscribe to our <a href="http://uncrate.com/subscribe/">daily email</a>, download our <a href="http://itunes.apple.com/us/app/uncrate/id450084793?mt=8" target="_blank">App</a>, or follow us on <a href="http://www.facebook.com/uncrate" target="_blank">Facebook</a> or <a href="http://twitter.com/uncrate" target="_blank">Twitter</a>.
+</div><!--hello-->
+
+<div id="navbar"> 
+<img src="/beta/i/nav.gif" width="960" height="25" usemap="#nav" border="0">
+<map name="nav">
+<area shape="rect" coords="-11,-42,51,23" href="/gear/" alt="Gear">
+<area shape="rect" coords="70,-42,130,23" href="/style/" alt="Style">
+<area shape="rect" coords="151,-42,209,23" href="/cars/" alt="Rides">
+<area shape="rect" coords="226,-42,279,23" href="/tech/" alt="Tech">
+<area shape="rect" coords="297,-42,352,23" href="/body/" alt="Body">
+<area shape="rect" coords="371,-42,429,23" href="/vices/" alt="Vices">
+<area shape="rect" coords="448,-42,512,23" href="/home/" alt="Place">
+<area shape="rect" coords="532,-42,608,23" href="/entertainment/movies/" alt="Movies">
+<area shape="rect" coords="627,-42,698,23" href="/entertainment/games/" alt="Games">
+<area shape="rect" coords="717,-42,782,23" href="/entertainment/music/" alt="Music">
+<area shape="rect" coords="801,-42,870,23" href="/entertainment/books/" alt="Books">
+<area shape="rect" coords="888,-42,959,23" href="http://devour.com" alt="Videos" target="_blank">
 </map>
-</div>
-<div class="hrdivider"></div>
-</div>
-</div>
-<!--<div id="stamp">
-<script type='text/javascript' src='http://static.fmpub.net/zone/2567'></script>
-</div>-->
-	<div id="left">
+</div><!--navbar-->
 
-	<div class="lefttext">
+<div id="divider"></div><!--divider-->
 
-<div class="serif"><p></p><h2>Privacy Policy</h2>
+<div id="awesome">
+Stuff that’s awesome right now: &nbsp;&nbsp; <a href="http://uncrate.com/search/bacon/">Bacon</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://uncrate.com/tech/apps/">Apps</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://uncrate.com/gear/knives/">Knives</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://uncrate.com/gear/grilling/">Grilling</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://uncrate.com/tech/headphones/">Headphones</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://uncrate.com/search/bourbon/">Bourbon</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://uncrate.com/style/bags/">Packs</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://uncrate.com/stuff/movember/">Movember</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://uncrate.com/style/garb/">Garb</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://uncrate.com/style/sunglasses/">Sunglasses</a>
+
+<div id="find">
+<a href="#search" class="box"><img src="/i/search-1.gif" width="16" height="16" alt="Search" title="Search"></a>
+</div><!--find-->
+
+<div style="display: none">
+<div id="search"> 
+<form method="get" action="/search" id="searchform" name="searchform" onsubmit="return search(this)"> 
+<input name="query" id="searchbox" type="text"> 
+<button type="submit" id="search-btn" name="go"></button>
+</form>
+</div><!--search-->
+</div>
+
+</div><!--awesome-->
+
+<div id="dividerplain"></div><!--dividerplain-->
+
+
+<div id="left">
+
+<h1>Privacy Policy</h1>
+
 <p>The policies below are applicable to Uncrate.com. Any questions or comments you may have regarding this privacy policy, contact <a href="http://www.zombiecorp.com">Zombie Corp</a>.</p>
 
 <p>Zombie Corp respects each individual user's right to privacy. Zombie Corp and its sites do not collect personal identifying information unless such information is specifically and knowingly provided from users during contests, surveys, sweepstakes, giveaways, site registration, or use of public areas, such as a forum. Zombie Corp may use aggregate forms of this information — not individual data — for marketing and promotional purposes. Zombie Corp does not supply identifying information to other companies, or uses such information for its own purposes including but not limited to email newsletters, unless the user "opts-in" for such purposes by specifically allowing usage. (Identifying information must necessarily be used when notifying a user of requested information, such as notification of a winning entry in a contest or sweepstakes.) Zombie Corp is not responsible for any actions or policies of such companies.</p>
@@ -164,112 +93,36 @@ mtAttachEvent('usersignin', mtUpdateScores);
 
 <p>ATTENTION KIDS: No information should be submitted to Zombie Corp by children under 18 years of age without their parent's or guardian's consent. Zombie Corp does not monitor the age of its user audience.</p>
 
-<p>Zombie Corp reserves the right to change this policy at any time by posting notice of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.</p><p></p></div>
+<p>Zombie Corp reserves the right to change this policy at any time by posting notice of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.</p>
 
-
-
-</div>
-</div>
+</div><!--left-->
 
 <div id="right">
-<div class="righttext">
+</div><!--right-->
 
-<div id="viewright">
-<div class="viewtextright">
-
-<span style="float: left;"><strong>Get Uncrate</strong>&nbsp;&nbsp;<a href="http://www.uncrate.com/subscribe/" rel="nofollow">Email</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://feeds.feedburner.com/uncrate" rel="nofollow">RSS</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://twitter.com/uncrate/" target="_blank" rel="nofollow">Twitter</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.facebook.com/uncrate" target="_blank" rel="nofollow">Facebook</a></span>
-
-</div>
-<div class="hrtopright2"></div>
-</div>
-
-<iframe src="http://www.facebook.com/plugins/likebox.php?id=65879791704&amp;width=300&amp;connections=0&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:62px;" allowtransparency="true"></iframe>
-
-<div class="hr10"></div>
-
-<script type="text/javascript" src="http://static.fmpub.net/site/uncrate"></script>
-
-<div class="sitemeter">
-<script type="text/javascript" language="JavaScript">var site="sm5uncrate"</script>
-<script type="text/javascript" language="JavaScript1.2" src="http://sm5.sitemeter.com/js/counter.js?site=sm5uncrate">
-</script>
-<noscript>
-<a href="http://sm5.sitemeter.com/stats.asp?site=sm5uncrate" target="_top">
-<img src="http://sm5.sitemeter.com/meter.asp?site=sm5uncrate" alt="Site Meter" border="0"/></a>
-</noscript>
-</div>
-
-<p>
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://ads.uncrate.com/www/delivery/ajs.php':'http://ads.uncrate.com/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=1");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://ads.uncrate.com/www/delivery/ajs.php?zoneid=1&amp;cb=29769596310&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20110623003709id_/http%3A//uncrate.com/privacy/"></script><noscript><a href='http://ads.uncrate.com/www/delivery/ck.php?n=aceb2440&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.uncrate.com/www/delivery/avw.php?zoneid=1&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aceb2440' border='0' alt='' /></a></noscript>
-</p>
-
-<p>
-<script type="text/javascript" src="http://static.fmpub.net/zone/279"></script>
-</p>
-
-<p>
-<script type="text/javascript" src="http://static.fmpub.net/zone/875"></script>
-</p>
-
-<p>
-<script type="text/javascript" src="http://static.fmpub.net/zone/280"></script>
-</p>
-
-</div>
-</div>
-</div>
-</div>
-
+<div id="dividerbottom"></div><!--dividerbottom-->
 
 <div id="footer">
 
-<div class="pod">
-	
-<div class="pea">
+<div id="copy"> 
+Copyright © MMXI&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.zombiecorp.com/" target="_blank">Zombiecorp</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/about/">About</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/contact/">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/advertise/">Advertise</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://advertisers.federatedmedia.net/explore/view/uncrate" target="_blank">FM Living</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/privacy/">Privacy</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/terms/">Terms</a> 
+</div><!--copy-->
 
-</div>
-	
-<div class="pea">
+</div><!--footer-->
 
-</div>
-	
-<div class="pealast">
-<h3>Uncrate</h3>
-<p style="text-align: justify">Uncrate is a web magazine for guys who love stuff. Our team digs up the best gadgets, clothes, cars, DVDs and more. New items are posted daily. Enjoy responsibly.</p>
+</div><!--rug-->
 
-<p>Subscribe: <a href="http://www.uncrate.com/subscribe/">Newsletter</a> | <a href="http://feeds.feedburner.com/uncrate">RSS Feed</a> <a href="http://feeds.feedburner.com/uncrate"><img src="http://www.uncrate.com/i/feed.gif" width="12" height="12" alt="RSS" border="0" class="feed"></a></p>
+<script type="text/javascript" src="http://static.fmpub.net/site/uncrate"></script>
 
-<p>Contact: <a href="/contact/">Tips &amp; Requests</a> | <a href="/advertise/">Advertise</a></p>
+<div class="hide"><script type="text/javascript">var site="sm5uncrate"</script><script type="text/javascript" src="http://sm5.sitemeter.com/js/counter.js?site=sm5uncrate"></script></div>
 
-<p>Also: <a href="http://twitter.com/uncrate/">Twitter</a> | <a href="http://www.facebook.com/uncrate">Facebook</a> | <a href="http://www.widgetbox.com/widget/uncrate-the-buyers-guide-for-men-zombiecorp">Widget</a>
-</p> 
-</div>
-
-<div class="copy">
-Copyright © MMX&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.zombiecorp.com/" target="_blank">Zombiecorp</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/about/">About</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/contact/">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/advertise/">Advertise</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://advertisers.federatedmedia.net/explore/view/uncrate" target="_blank">FM Living</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/privacy/">Privacy</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/terms/">Terms</a>
-</div>
-</div> 
-</div>
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-
-<script type="text/javascript">
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script> 
+<script type="text/javascript"> 
 _uacct = "UA-255873-1";
 urchinTracker();
 </script>
+
+
+
 
 </body></html>
