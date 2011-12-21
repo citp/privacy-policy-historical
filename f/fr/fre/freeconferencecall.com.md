@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freeconferencecall.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622194618id_/http%3A//www.freeconferencecall.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeconferencecall.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221094229id_/http%3A//www.freeconferencecall.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Free Conference Call - Free Conference Call Services
 
-## Last Updated: September 1, 2008
+## Last Updated: September 1, 2010
 
   1. ## GENERAL POLICY REGARDING CUSTOMER INFORMATION
 
@@ -32,8 +32,8 @@
 
 California Privacy Rights  
 Free Conferencing Corporation  
-110 W. Ocean Ste. C  
-Long Beach, CA 90802
+4300 E. Pacific Coast Hwy  
+Long Beach, CA 90804
 
   8. ## CONTACT AND QUESTIONS
 
