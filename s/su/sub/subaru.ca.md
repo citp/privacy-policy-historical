@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subaru.ca privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620235008id_/http%3A//www.subaru.ca/Content/7907/Media/en-ca/LegalText/Corporate/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subaru.ca privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221064626id_/http%3A//www.subaru.ca/Content/7907/Media/en-ca/LegalText/Corporate/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Subaru Canada, Inc.
 
@@ -8,7 +8,7 @@ Subaru Canada, Inc. (“Subaru”) values its relationship with you, our existin
   
 **“Personal Information”** as used in this Privacy Policy means information about an identifiable individual. This Privacy Policy does not apply to the collection, use or disclosure of business contact information (for example the name, title, business address and telephone number of an employee of an organization), to Subaru’s employees, or in part to certain publicly available information.
 
-Accountability for Subaru’s compliance with its Privacy Policy rests with Subaru’s _[Privacy Officer](mailto:privacyofficer@mysubaru.ca)_ , even though other individuals within Subaru may have responsibility for management of personal information or may be delegated to act on behalf of the Privacy Officer.
+Accountability for Subaru’s compliance with its Privacy Policy rests with Subaru’s _[Privacy Officer](http://privacy.mysubaru.ca/)_ , even though other individuals within Subaru may have responsibility for management of personal information or may be delegated to act on behalf of the Privacy Officer.
 
 Subaru will be responsible for personal information in its possession or custody, and will also use contractual or other available means to provide a comparable level of protection when the information is being processed or managed by a third party on Subaru’s behalf.
 
@@ -50,7 +50,7 @@ Subaru will limit the amount and type of personal information collected to that 
 Personal information will be retained only as long as necessary to fulfil the identified purposes, and will be destroyed or made anonymous as soon as reasonably possible after the original purpose is no longer served by the retention of the information, provided the personal information no longer required for legal purposes. Personal information which has been used to make a decision about an individual will be retained long enough to reasonably allow the individual access to the information after the decision, and long enough to exhaust any access request or a challenge an individual may bring under applicable privacy laws.
 
   
-All individuals generally have a right to access their personal information in Subaru’s possession or custody. Upon receiving a written request (mail, e-mail or fax) addressed to Subaru’s _[Privacy Officer](mailto:privacyofficer@mysubaru.ca)_ clearly identifying the requested information with adequate identification of the requesting individual, Subaru will inform the individual of the existence, use, and disclosure of the personal information and give the individual access to that personal information. If Subaru is not able to provide a list of the organizations to which it may have actually disclosed the personal information, it will provide a list of organizations to which it may have disclosed the information.
+All individuals generally have a right to access their personal information in Subaru’s possession or custody. Upon receiving a written request (mail, e-mail or fax) addressed to Subaru’s _[Privacy Officer](http://privacy.mysubaru.ca/)_ clearly identifying the requested information with adequate identification of the requesting individual, Subaru will inform the individual of the existence, use, and disclosure of the personal information and give the individual access to that personal information. If Subaru is not able to provide a list of the organizations to which it may have actually disclosed the personal information, it will provide a list of organizations to which it may have disclosed the information.
 
 Subaru will respond to an individual’s written access request, with information in a form that is generally understandable, within a reasonable time (generally within 30 days) or will provide an explanation if additional time is required to fulfil the request. While Subaru’s response will typically be provided at no cost to an individual, depending on the nature of the request and the amount of information involved, Subaru reserves the right to impose charges. In such case Subaru will inform the individual of the approximate cost to provide the response, and will provide the information upon receipt of payment.
 
@@ -76,7 +76,6 @@ Privacy Officer
 Subaru Canada, Inc.  
 560 Suffolk Court   
 Mississauga, Ontario, L5R 4J7  
-e-mail at: [privacyofficer@mysubaru.ca](mailto:privacyofficer@mysubaru.ca)  
-Internet: [privacy.mysubaru.ca](http://privacy.mysubaru.ca/)  
+e-mail at: [privacy.mysubaru.ca](http://privacy.mysubaru.ca/)  
 Telephone: 1-800-894-4212  
 Fax: 905-568-8087
