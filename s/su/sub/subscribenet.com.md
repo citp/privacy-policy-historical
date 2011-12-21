@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the subscribenet.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628001807id_/http%3A//www.flexerasoftware.com/company/about/privacy-legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subscribenet.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221203438id_/http%3A//www.flexerasoftware.com/company/about/privacy-legal.htm) for the most accurate reproduction.*
 
 # Legal and Privacy Notices - Legal - Flexera Software
 
-Review Flexera Software’s legal and privacy notices for details on how we collect, use and protect your personal information on the website. 
+Review Flexera Software's legal and privacy notices for details on how we collect, use and protect your personal information on the website. 
 
 Flexera Software respects your privacy and is committed to protect the personal information that you share with us. Generally, you can browse through our website without giving us any information about yourself. On occasion, we may need your personal information to provide services that you request, or you may have the option choose to provide us with your personal information. This policy describes how we collect and use your personal information.
 
