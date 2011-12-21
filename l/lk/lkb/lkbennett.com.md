@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lkbennett.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304120428id_/http%3A//www.lkbennett.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lkbennett.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221011454id_/http%3A//www.lkbennett.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - LK Bennett
+# Privacy Policy - L.K.Bennett
 
 #### _Privacy_ Policy
 
