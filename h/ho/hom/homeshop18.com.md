@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeshop18.com privacy policy that was archived on 2011-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110130070706id_/http%3A//www.homeshop18.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeshop18.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221102230id_/http%3A//www.homeshop18.com/privacy-policy.html) for the most accurate reproduction.*
 
 # HomeShop18 : Privacy Policy
 
@@ -62,7 +62,7 @@ Generally, we use anonymous traffic information to:
 * administer our websites, track your session so that we can understand better how people use our sites
 
   
-With whom will your information be shared?  
+**With whom will your information be shared?**  
 
 
 We will not use your financial information for any purpose other than to complete a transaction with you.
@@ -76,7 +76,7 @@ We do not rent, sell or share your personal information and we will not disclose
 
 We share your information with advertisers on an aggregate basis only.
 
-What choices are available to you regarding collection, use and distribution of your information?
+**What choices are available to you regarding collection, use and distribution of your information?**
 
 You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. HomeShop18 reserves the right to send you certain service related communication, considered to be a part of your HomeShop18 account without offering you the facility to opt-out. You may update your information and change your account settings at any time.
 
@@ -84,7 +84,7 @@ Upon request, we will remove/block your personally identifiable information from
 
 If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes.
 
-What security procedures are in place to protect information from loss, misuse or alteration?
+**What security procedures are in place to protect information from loss, misuse or alteration?**
 
 To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you.
 
@@ -98,19 +98,17 @@ Homeshop 18
 
 Shop with Confidence
 
-| HomeShop18 offers you the highest standard of security currently available on the Net so as to ensure that your shopping expernece is Private, Safe and Secure.  
----|---  
-  
-Learn about our [Payment Options](http://help.homeshop18.com/forums/302968-payment-related) >>
+HomeShop18 offers you the highest standard of security currently available on the Net so as to ensure that your shopping Experience is Private, Safe and Secure.   
+Learn about our [Payment Options](http://help.homeshop18.com/forums/302968-payment-related)
 
 Free Shipping & Return Policy
 
-If, for any reason, you are unsatisfied with your pruchase from HomeShop18, you may return it in its original condition within 15 days for a refund. No questions asked & we'll even pay for return shipping!
+If, for any reason, you are unsatisfied with your purchase from HomeShop18, you may return it in its original condition
 
-Checkout our [Return](https://web.archive.org/shop/faces/tiles/templates/media/misc/homeshop18/return-policy.jsp) &[ Shipping Policies](https://web.archive.org/shop/faces/tiles/templates/media/misc/homeshop18/shipping-policy.jsp) >>
+Checkout our [Return](https://web.archive.org/shop/faces/tiles/templates/media/misc/homeshop18/return-policy.jsp) &[ Shipping Policies](https://web.archive.org/shop/faces/tiles/templates/media/misc/homeshop18/shipping-policy.jsp)
 
 Privacy Policy
 
 HomeShop18 respects your privacy. We Don't rent or sell your personal information to anyone.
 
-Checkout our [Privacy Policy ](https://web.archive.org/shop/faces/tiles/templates/media/misc/homeshop18/privacy_policy.jsp)>>
+Checkout our [Privacy Policy ](https://web.archive.org/shop/faces/tiles/templates/media/misc/homeshop18/privacy_policy.jsp)
