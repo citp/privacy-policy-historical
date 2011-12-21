@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fun.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421202658id_/http%3A//www.ddc.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fun.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221050732id_/http%3A//www.ddc.com/w3c/policy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Domain Development Corporation
 
