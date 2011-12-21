@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powertoendstroke.org privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406122254id_/http%3A//www.americanheart.org/presenter.jhtml%3Fidentifier%3D11404) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powertoendstroke.org privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221223926id_/http%3A//www.heart.org/HEARTORG/General/Privacy-Policy_UCM_300371_Article.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 The American Heart Association values and respects an individual's right to keep certain Personal Information private.  Likewise, the AHA values the need to collect and use Personal Information which will enable the AHA to effectively deliver products and services leading to a reduction in disability and death from heart diseases and stroke.  This Privacy Policy applies to activities of the AHA and additionally to persons visiting AHA Web sites, signing up for AHA publications and mailings, or entering into transactions with the AHA, and covers the collection, use, storage and disclosure of information and data as described in this Privacy Policy. The Privacy Policy does not apply to information that the AHA collects on contractors, vendors or other entities with which the AHA does business, although the AHA will contractually require them to comply with relevant provisions of the Privacy Policy.
 
- **A.   AHA Collection of Personal Information**
+**A.   AHA Collection of Personal Information**
 
 1.  The AHA will collect Personal Information on an individual only if the individual provides the information to the AHA.  The AHA also may collect information about a person who has been referred to the website to send them emails regarding AHA’s efforts or a person to whom the AHA has been asked to send emails regarding AHA’s programs or efforts.  If a person donates to the AHA, the AHA may collect sensitive Personal Information such as the donor’s credit card number, card type, expiration date and keep a record of the financial transaction.
 
@@ -16,7 +16,7 @@ The AHA may collect Aggregate and Transactional Information and add to its datab
 
 2.  Types of information: "Personal Information" is "Demographic Information" and/or "Medical Information" which identifies a specific individual with a minimal degree of effort. Demographic Information includes name, address, city and other similar information. Medical Information includes diseases, treatments, lifestyle behaviors, family history, genotype, phenotype and other similar information. Transactional Information is data collected on an individual based on the individuals' interactions with the AHA, which may include sensitive information such as credit card information and Medical Information. Aggregate Information is information presented  in summary or statistical form which does not contain data that would permit the identification of a specific individual without extraordinary effort.
 
- **B.   AHA Use of Personal Information**
+**B.   AHA Use of Personal Information**
 
 1.  When an individual provides Personal Information to the AHA, the AHA may use the Personal Information for its programs, research and fund raising.
 
@@ -26,7 +26,7 @@ The AHA may collect Aggregate and Transactional Information and add to its datab
 
 4.  The AHA will make every effort to discontinue the use of an individual's Personal Information as soon as practicable if requested by that individual.  The AHA may need to retain Information in its archives and records to comply with law, resolve disputes, analyze problems, assist with any investigations, enforce AHA’s User Agreement and other policies, and take other actions otherwise permitted or required by law.
 
- **C.   Specific Requirements**
+**C.   Specific Requirements**
 
 1.  Administrative
 
