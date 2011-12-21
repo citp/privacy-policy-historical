@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the karupshosting.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304133324id_/http%3A//www.eentinc.com/privacyk.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karupshosting.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221224417id_/http%3A//www.eentinc.com/privacyk.htm) for the most accurate reproduction.*
 
 # EENT, Inc. Privacy Policy
 
-This privacy policy is applicable to Karupspc.com, Karupsha.com, and Karupsow.com 
+This privacy policy is applicable to Karupspc.com, Karupsha.com, Karupsow.com, Karups.com and Karup.com. 
 
 EENT, Inc. does NOT collect personally identifiable information about individuals, except when such individuals specifically provide such information on a voluntary basis. For example, such personally identifiable information may be gathered from the members' area registration process. However, personally identifiable information on individual users is simply used for fraud prevention and age verification purposes and will NOT be sold or otherwise transferred to any third parties. EENT, Inc. reserves the right only to contact a subscriber regarding his/her membership account status, changes to the subscriber agreement and other matters relevant to the underlying service and/or the information collected. EENT, Inc. is very much against spam mail activities and does not participate in such mailings, nor do we release or authorize the use of membership data for such purposes. 
 
