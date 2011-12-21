@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bewellbuzz.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622183615id_/http%3A//www.bewellbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bewellbuzz.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221180914id_/http%3A//www.bewellbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Be Well Buzz
 
@@ -12,7 +12,7 @@ In addition to personal information—such as name, street and e-mail addresses,
 
 ### How does BeWellBuzz.com use my personal information?
 
-The more we know about you, the better we are able to customize our web site to suit your personal preferences and interests. The e-mail address you provide may be used by BeWellBuzz.com for any reason, such as contacting you for editorial purposes or to advise you of any changes to our site. We may also from time to time send you messages about our marketing partners’ products.
+The more we know about you, the better we are able to customize our web site to suit your personal preferences and interests. The e-mail address you provide may be used by BeWellBuzz.com for any reason, such as contacting you for editorial purposes or to advise you of any changes to our site. We may also from time to time send you messages about our marketing partners’ [products](http://www.bewellbuzz.com/bewellbuzz-products/ "products").
 
 To maintain a site that is free of charge and does not require registration, we display advertisements on our web site. We also use the information you give us to help our advertisers target the audience they want to reach. At no time does any party other than BeWellBuzz.com have access to your personally identifiable information, and you will never be contacted by any party other than BeWellBuzz.com. The only exceptions to the foregoing are that we may disclose personally identifiable information (i) in response to legal process, for example, in response to a court order or subpoena, (ii) in response to a law enforcement agency’s request, or where we believe it is necessary to investigate, prevent, or take actions regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of another person, violations of our terms of use, or as otherwise required by law, or (iii) in the event we are acquired by or merged with another company.
 
