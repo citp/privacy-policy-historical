@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremenicheempires.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621212544id_/http%3A//extremenicheempires.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremenicheempires.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221043226id_/http%3A//extremenicheempires.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
