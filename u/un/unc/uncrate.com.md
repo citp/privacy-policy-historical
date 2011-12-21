@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uncrate.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623003709id_/http%3A//www.uncrate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uncrate.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221082632id_/http%3A//uncrate.com/privacy) for the most accurate reproduction.*
 
-# Uncrate | Privacy
+# Privacy | Uncrate
 
-## Privacy Policy
+The digital magazine for guys who love stuff. Five awesome new things are posted every day. We've found [8693 products](https://web.archive.org/) since 2005. Subscribe to our [daily email](http://uncrate.com/subscribe/), download our [App](http://itunes.apple.com/us/app/uncrate/id450084793?mt=8), or follow us on [Facebook](http://www.facebook.com/uncrate) or [Twitter](http://twitter.com/uncrate). 
 
 The policies below are applicable to Uncrate.com. Any questions or comments you may have regarding this privacy policy, contact [Zombie Corp](http://www.zombiecorp.com/).
 
