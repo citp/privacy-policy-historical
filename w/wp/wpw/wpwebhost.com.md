@@ -1,53 +1,111 @@
-> *The following text is extracted and transformed from the wpwebhost.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321082123id_/http%3A//www.wpwebhost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpwebhost.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222005026id_/http%3A//www.wpwebhost.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WPWebHost
+# Privacy Policy | WPWebHost
 
-Because protecting your privacy is very important to WP Web Host, we operate our web site under the following guidelines to safeguard your personally identifiable information:
+Effective on May 5, 2011  
+WPWebHost.com is committed to protecting your privacy. This privacy policy describes how wpwebhost.com collects and uses the personal information you provide on our website: WPWebHost.com. It also describes the choices available to you regarding wpwebhost.com’s use of your personal information and the steps you can take to access this information and to request that we correct or update it.
 
-WP Web Host policies and procedures for handling customer information have been created with the understanding that Internet technologies are still evolving and that Internet business methods are continuing to evolve to meet the needs and opportunities of the changing technologies. As a result, WP Web Host policies and procedures are subject to change.
+ **TRUSTe Privacy Seal**
 
-* What Personal Information does WP Web Host collect?  
-* Data Security  
-* How is customer information used?  
-* Modification of customer information  
-* Will WP Web Host ever send me direct mailings?  
-* How do I protect my Personal Information in public forums?  
-* What about privacy on sites that WP Web Host links to?  
-* Disclosure of customer information and communications
+[](http://privacy.truste.com/certified-privacy/Exabytes-Network-%28Singapore%29-Pte.-Ltd./validation?validationId=1a4ae14e-1c0b-4fdb-9ebb-982ce51a805d)
 
-What Personal Information does WP Web Host collect?
+Exabytes Network (Singapore) Pte. Ltd. is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.  
+If you have questions or concerns regarding this policy, you should first contact us at admin@wpwebhost.com. If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-In the course of serving its customers, WP Web Host acquires, stores and transmits customer communications and information that customers may regard as private or sensitive. Some of this information – such as the customer’s name, address, telephone number, and credit card data – is provided to WP Web Host by its customers in order to establish service. Other information – such as the customer’s account status, choice of services, and customer logs – is created and maintained by WP Web Host in the normal course of providing service. WP Web Host also uses cookies, which are small pieces of information that a web site can store in a designated file on a user’s computer for various reasons. In addition, WP Web Host may store customers’ electronic mail and other communications as a necessary incident to the transmission and delivery of those communications.  
-Data Security
+## Collection and Use of Personal Information
 
-WP Web Host will protect the confidentiality of its customers’ information, account information and personal communications to the fullest extent possible and consistent with the law and the legitimate interests of WP Web Host, its partners, its employees and other customers of WP Web Host services. To protect the loss, misuse, and alteration of information that is collected from customers, WP Web Host has appropriate physical, electronic, and managerial procedures in place.  
-How is customer information used?
+ **We collect the following personal information from you:**
 
-WP Web Host may share customer information with selected partners, for example, to provide customers with information about products which might be of interest to the customer or to enable the customer to take advantage of special partner programs. WP Web Host may also use customer information to provide its customers with system information or information about new or upgraded products.  
-Modification of customer information.
+  * Contact Information such as name, email address, mailing address, phone number
+  * Billing Information such as credit card number, and billing address
+  * Financial Information such as bank or brokerage account numbers, types of investments
+  * Unique Identifiers such as user name, account number, password
+  * Preferences Information such as product wish lists, order history, marketing preferences
 
-Customers may modify their personal information by logging a Help Desk ticket to make the request.
 
-Domain name customers, who have registered a domain name with WP Web Host and wish to change the Technical Contact from WP Web Host to another company or change any other registration information, should be able to do so by logging into their OpenSRS account at http://manage.opensrs.org. WP Web Host provides all customers with full access to their domain account by sending them their own username and password. It is important to note that customer domain name registration information is made publicly available in the registry of domain names. In the event you lose your OpenSRS password, you can log a Help Desk ticket and we will re-send the password to the email address on the domain registration record. In the event you lose your password and the email address on record with OpenSRS is no longer valid, a direct request to OpenSRS is required, therefore it is important to keep your OpenSRS email address current as well as your email address with WP Web Host.  
-Will WP Web Host ever send me direct mailings?
 
-From time to time, WP Web Host may send its customers information about various products and services that may be of interest. We will not send you information of this type without specifically allowing you to “opt out” of such mailings. You can opt out by sending an e-mail to support@exabytes.com, however by doing so, you may miss important communication regarding your service.
+ **We also collect the following information from you:**
 
-In addition, if you are a WP Web Host reseller, WP Web Host and/or its partners and advertisers may from time to time send you newsletters, promotional material, and other mailings. You can opt out by sending an e-mail to billing@exabytes.com  
-How do I protect my Personal Information in public forums?
+  * Demographic information such as household income, age, education, gender, interests, and zip code
 
-WP Web Host may offer interactive forums, such as message boards and chat. WP Web Host users should be aware that when they voluntarily disclose Personal Information to other users or to third parties on the WP Web Host system, through e-mail, or outside of the WP Web Host system, that information can be collected and used by others and may result in unsolicited messages from other members or third parties. While WP Web Host strives to protect your Personal Information, WP Web Host cannot guarantee the security of any information that you transmit to WP Web Host, and you are solely responsible for maintaining the secrecy of any passwords or other account information.  
-What about privacy on sites that WP Web Host links to?
 
-WP Web Host may provide links to its partners and other Internet sites. These sites have separate data and privacy practices independent of WP Web Host, and WP Web Host disclaims any responsibility or liability for their policies or actions.  
-Disclosure of customer information and communications
 
-WP Web Host will not otherwise disclose its customers’ personal and account information unless WP Web Host has reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of WP Web Host, WP Web Host customers, or others, or where WP Web Host has a good faith belief that the law requires such disclosure.
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
-WP Web Host also will not, except for reasons stated below, disclose to third parties the contents of any electronic mail or other electronic communications that WP Web Host stores or transmits for its customers. The circumstances under which WP Web Host will disclose such electronic customer communications are when:
+ **We use this information to:**
 
-* it is necessary in order to provide service to the customer;  
-* it is necessary to protect the legitimate interests of WP Web Host and its customers;  
-* it is required to cooperate with interception orders, warrants, or other legal process that WP Web Host determines in its sole discretion to be valid and enforceable; and  
-* it is necessary to provide to a law enforcement agency when the contents are inadvertently obtained by WP Web Host and appear to pertain to the commission of a crime.  
-* WP Web Host disclaims any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. WP Web Host will, however, review, delete or block access to communications that may harm WP Web Host, its customers or third parties. The grounds on which WP Web Host may take such action include, but are not limited to, actual or potential violations of WP Web Host policies.
+  * Fulfill your order
+  * Send you an order confirmation
+  * Send you requested product or service information
+  * Send product updates or warranty information
+  * Respond to customer service requests
+  * Administer your account
+  * Send you a newsletter
+  * Send you marketing communications
+  * Respond to your questions and concerns
+  * Improve our Web site and marketing efforts
+
+
+
+ **Choice/Opt-Out**
+
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [admin@wpwebhost.com](http://privacy.truste.com/privacy-policy/Exabytes-Network-%28Singapore%29-Pte.-Ltd./certified/admin@wpwebhost.com).
+
+## Information Sharing
+
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information  **only** to perform the service they are providing for us.
+
+We may also disclose your personal information
+
+  * as required by law such as to comply with a subpoena, or similar legal process,
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * if Exabytes Network (Singapore) Pte. Ltd. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+  * to any other third party with your prior consent to do so.
+
+
+
+ _PayPal_
+
+If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal’s privacy policy will apply to the information you provide on the PayPal Web site.
+
+## Tracking Technologies
+
+We or a third party contracted by us may use technologies such as cookies, Web beacons, or scripts to gather information about how you and others interact with our Web site. For example, we will know how many users access a specific areas or features within our site and which links or ads they clicked on. We use this aggregated information to understand and optimize how our site is used, improve our marketing efforts, and provide content and features that are of interest to you.
+
+ **Links to Other Web Sites**
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of Exabytes Network (Singapore) Pte. Ltd.. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+
+## Security
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.
+
+If you have any questions about security on our Web site, you can contact us at [admin@wpwebhost.com](http://privacy.truste.com/privacy-policy/Exabytes-Network-%28Singapore%29-Pte.-Ltd./certified/admin@wpwebhost.com)
+
+We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
+
+## Additional Policy Information
+
+ **Correcting and Updating Your Personal Information**
+
+To review and update your personal information to ensure it is accurate, contact us at [admin@wpwebhost.com](http://privacy.truste.com/privacy-policy/Exabytes-Network-%28Singapore%29-Pte.-Ltd./certified/admin@wpwebhost.com).
+
+ **Notification of Privacy Statement Changes**
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+
+You can contact us about this privacy statement by writing or email us at the address below:
+
+Exabytes Network (Singapore) Pte. Ltd.
+
+151, Chin Swee Road,
+
+Manhattan House #01-47/48,, 169876
+
+Singapore
