@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leaguetoolbox.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624230224id_/http%3A//www.leaguetoolbox.com/software_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaguetoolbox.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222225907id_/http%3A//leaguetoolbox.com/software_privacy_policy.php) for the most accurate reproduction.*
 
 # LeagueToolbox - League Management Software - Privacy Policy
 
