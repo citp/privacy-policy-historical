@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the documentcloud.org privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622043910id_/http%3A//www.documentcloud.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the documentcloud.org privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222100032id_/http%3A//www.documentcloud.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DocumentCloud
 
@@ -33,12 +33,13 @@ DocumentCloud is provided by Document Cloud Inc., a Delaware nonprofit corporati
   8. **Feedback about this policy:**
     1. We welcome your feedback about this policy. DocumentCloud is in beta: we appreciate your input on both our software and our policies.
   9. **Contacting DocumentCloud**
+    1. See [contact us](https://web.archive.org/contact) for the complete array of ways to reach us for technical support or new account questions. Our mailing address is:
     
-        DocumentCloud
-    55 Broadway 23rd Floor
-    New York, NY 10006
-    (646) 450-2162
-    info@documentcloud.org
+                    DocumentCloud
+                Investigative Reporters and Editors
+                141 Neff Annex
+                University of Missouri
+                Columbia, MO 65211
 
 
 
