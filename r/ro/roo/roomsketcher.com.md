@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomsketcher.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615195216id_/http%3A//www.roomsketcher.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomsketcher.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222205334id_/http%3A//www.roomsketcher.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy policy for Viseno | RoomSketcher
 
@@ -58,7 +58,7 @@ Viseno does not provide personally identifiable information to unaffiliated thir
 
 ### CHILDREN’S PRIVACY
 
-By agreeing on using or accessing the Viseno Services, a person must be of legal age in accordance with the laws of the country where the person has its registered address or from which the person use, access or downloads the Viseno Services. If a person is not of legal age in accordance with the preceding, such person must have the consent of its parents to use or access the Viseno Services. Information collected from a child will only be used by Viseno in accordance with this Privacy Policy. Additionally, a persons parent or legal guardian may request that information about a person under the legal age shall be corrected or deleted from our files by contacting us at Customer Service +47 40 47 47 77. In such case, we reserve the right to terminate access of the person under legal age as a registered user of the Viseno Services, if such termination is deemed necessary by us in order for us to operate the Viseno Services in accordance with the Terms of Use and this Privacy Policy.
+By agreeing on using or accessing the Viseno Services, a person must be of legal age in accordance with the laws of the country where the person has its registered address or from which the person use, access or downloads the Viseno Services. If a person is not of legal age in accordance with the preceding, such person must have the consent of its parents to use or access the Viseno Services. Information collected from a child will only be used by Viseno in accordance with this Privacy Policy. Additionally, a persons parent or legal guardian may request that information about a person under the legal age shall be corrected or deleted from our files by contacting us at Customer Service +47 40 00 04 84. In such case, we reserve the right to terminate access of the person under legal age as a registered user of the Viseno Services, if such termination is deemed necessary by us in order for us to operate the Viseno Services in accordance with the Terms of Use and this Privacy Policy.
 
 ### “COOKIES” AND ADVERTISERS
 
@@ -80,10 +80,10 @@ Viseno maintains physical, electronic, and procedural safeguards to help guard p
 
 ### CHOICE/OPT-OUT
 
-In order to provide service to you, we will send you communications related to your transactions, security or the administration of its website. From time to time, Viseno and its affiliates may also wish to send you other messages or updates about the Viseno Services, its affiliates, or their promotions and other activities. If you do not wish to receive non-transaction/security related communications from Viseno and its affiliates, please contact customer service at +47 40 47 47 77.
+In order to provide service to you, we will send you communications related to your transactions, security or the administration of its website. From time to time, Viseno and its affiliates may also wish to send you other messages or updates about the Viseno Services, its affiliates, or their promotions and other activities. If you do not wish to receive non-transaction/security related communications from Viseno and its affiliates, please contact customer service at +47 40 00 04 84.
 
 ### DATA QUALITY/ACCESS
 
 We allow you to change, update, or delete the information you may provide in your optional registration form. If you would like to change, update, or delete your personal information, please send an email containing your request to customer service.
 
-[To the top](https://web.archive.org/web/20110615195216id_/http://www.roomsketcher.com/en/privacy/privacy/#help_content)
+[To the top](https://web.archive.org/web/20111222205334id_/http://www.roomsketcher.com/en/privacy/privacy/#help_content)
