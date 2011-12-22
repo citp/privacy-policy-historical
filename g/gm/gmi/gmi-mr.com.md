@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmi-mr.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423040551id_/http%3A//www.gmi-mr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmi-mr.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222035424id_/http%3A//www.gmi-mr.com/privacy) for the most accurate reproduction.*
 
 # GMI | Global Market Insite | Privacy Policy
 
