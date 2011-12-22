@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the easypolicy.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507215954id_/http%3A//www.easypolicy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easypolicy.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223005048id_/http%3A//easypolicy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Easypolicy
 
-Your inputs/queries as a registered user are required to serve you better and any information that you provide on this website shall not be shared with anyone without your consent. “easypolicy.com” is committed to ensuring that your privacy is protected. We ask you to provide certain information by which you can be identified when using this website, and then you can be assured that it will only be used in accordance with this privacy statement. 
+Easypolicy.com is committed to ensuring that your privacy is protected. We ask you to provide certain information by which you can be identified when using this website, and then you can be assured that it will only be used in accordance with this privacy statement. 
 
 #### 1\. Information gathering
 
@@ -10,11 +10,11 @@ Easypolicy.com collects personal information online through the website. Easypol
 
 #### 2\. Using Information gathered
 
-We use your personally identifiable information to provide you with the information or content that you have requested. We use non-identifying information collected on our website in order to better understand your use of the website and to enhance your experience. For example, we may use the information to improve the design and content of our website or to analyze the programs and services that we offer. We may provide access to your personally identifiable information when legally required to do so, to co-operate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of this website, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for those limited purposes. We will not share your personally identifiable information in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses. However, we may use the information to improve our products and services. We may also periodically send promotional email about new products, special offers or other information, which we think you may find interesting using the email address that you have provided. We may also use your information to contact you for market research purposes by email, phone, fax or mail. We may use the information to customise the website according to your interests. We may, with your consent, provide your information to our third party partners for marketing or promotional purposes. 
+We use your personally identifiable information to provide you with the information or content that you have requested. We use non-identifying information collected on our website in order to better understand your use of the website and to enhance your experience. For example, we may use the information to improve the design and content of our website or to analyze the programs and services that we offer. We may provide access to your personally identifiable information when legally required to do so, to co-operate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of this website, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for those limited purposes. We will not share your information in ways unrelated to those described above. However, we will be sharing your information with the insurance companies, where we feel that they will be able to assist you better or for the purpose of underwritng and issuance of your policy. We may call you to assist and discuss with you the product that you have shown interest in. We may send promotional emails about new products, special offers or other information, which we think you may find interesting. We may also use your information to contact you for market research purposes by email, phone, fax or mail. We may use the information to customise the website according to your interests. We may, with your consent, provide your information to our third party partners for marketing or promotional purposes. 
 
 #### 3\. Sharing Information Gathered
 
-The easypolicy.com website is designed to give our customers, prospective customers, and visitors a means of gathering information about our company, services and products; and for doing business with us over the Internet. Our site will only collect information that you voluntarily provide in order for us to service your request. If you have provided personal information on our website in order to obtain a policy quote, administer your insurance policies or ask us a question, we may need to share that information with authorized third parties, if necessary to service your request. We do not sell any customer information to mailing list companies or telemarketing companies. 
+The easypolicy.com website is designed to give our customers, prospective customers, and visitors a means of gathering information about our company, services and products; and for doing business with us over the Internet. Our site will only collect information that you voluntarily provide in order for us to service your request. If you have provided personal information on our website in order to obtain a policy quote, administer your insurance policies or ask us a question, we may need to share that information with authorized third parties, if necessary to service your request. 
 
 #### 4\. Security
 
@@ -30,7 +30,7 @@ As the internet is an ever evolving medium, we may change our privacy policy fro
 
 #### Contact Information
 
-EP Online Marketing Pvt. Ltd,  
-D-119 Saket, Lower Ground Floor,  
-New Delhi – 110017.  
-Email: EPServices@easypolicy.com 
+Sonnen Insurance Broking Services Pvt. Ltd.,  
+C-56A/13, 6th Floor, Sec-62,   
+Noida-201301, Uttar Pradesh, India.  
+Email: help@easypolicy.com 
