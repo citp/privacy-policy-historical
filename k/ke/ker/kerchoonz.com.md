@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kerchoonz.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622195517id_/http%3A//www.kerchoonz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kerchoonz.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222011310id_/http%3A//www.kerchoonz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » Free Legal Music Downloads or Streams - Register Free at Kerchoonz
 
@@ -8,7 +8,7 @@
 > 
 > Expressions used in the Terms have the same meaning in this Policy. 
 > 
-> Any reference to " **we** ", " **us** " and " **our** " in this Policy is to Kerchoonz Limited care of Henderson Loggie Sinclair Wood & Co, Gordon Chambers, 90 Mitchell Street, Glasgow, G1 3NQ 
+> Any reference to " **we** ", " **us** " and " **our** " in this Policy is to Ganghut Limited care of Henderson Loggie Sinclair Wood & Co, Gordon Chambers, 90 Mitchell Street, Glasgow, G1 3NQ 
 > 
 > Any reference to " **you** " or " **your** " in this Policy, means you as a user of the www.kerchoonz.com the " **Website** "). 
 > 
@@ -26,7 +26,7 @@
 > 
 > We may update and amend this Policy from time to time and any changes will be posted on the Website and it is your responsibility to revisit this Policy from time to time to view any amendments / updates. 
 > 
-> This Policy was last updated and was effective on 18th October 2008. 
+> This Policy was last updated and was effective on 8th August 2011. 
 > 
 > **The information we collect from you.**
 > 
@@ -113,4 +113,4 @@
 > 
 > You can email us with any questions, queries or complaints to [privacy@kerchoonz.com](mailto:privacy@kerchoonz.com)
 > 
-> Or you may write to us at Kerchoonz Limited care of Henderson Loggie Sinclair Wood & Co, Gordon Chambers, 90 Mitchell Street, Glasgow, G1 3NQ. Please mark all correspondence 'Privacy/Kerchoonz'.
+> Or you may write to us at Ganghut Limited care of Henderson Loggie Sinclair Wood & Co, Gordon Chambers, 90 Mitchell Street, Glasgow, G1 3NQ. Please mark all correspondence 'Privacy/Kerchoonz'.
