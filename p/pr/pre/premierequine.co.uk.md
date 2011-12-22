@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the premierequine.co.uk privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622220432id_/http%3A//www.premierequine.co.uk/acatalog/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premierequine.co.uk privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222013045id_/http%3A//www.premierequine.co.uk/acatalog/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Horse Rugs | Horse Coolers | Turnouts | Premier Equine International
 
 We are committed to safeguarding the privacy of our website visitors;  
 this policy sets out how we will treat your personal information  
-  
----  
   
 We may collect, store and use the following kinds of personal data:
 
