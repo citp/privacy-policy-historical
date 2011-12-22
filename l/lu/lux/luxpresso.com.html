@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the luxpresso.com privacy policy that was archived on 2011-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110507230419id_/http%3A//luxpresso.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the luxpresso.com privacy policy that was archived on 2011-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111222024159id_/http%3A//luxpresso.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,94 +10,167 @@
 <div>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
 function newletterpopup(){
-	showNewsletterDiv();
-	$('html, body').animate({scrollTop: $("#newsLetter").offset().top}, 2000);
+showNewsletterDiv();
+$('html, body').animate({scrollTop: $("#newsLetter").offset().top}, 2000);
 }
 /******Set home page***************/
 function setHomepage(what, url){
-	if (navigator.appName == 'Microsoft Internet Explorer' && getObj)
-			setHomepageExplorer(what, url);
-	else if (document.layers || getObj) 
-			setHomepageNetscape(what, url);	
+if (navigator.appName == 'Microsoft Internet Explorer' && getObj)
+setHomepageExplorer(what, url);
+else if (document.layers || getObj) 
+setHomepageNetscape(what, url);	
 return false;
 }
 function setHomepageNetscape(what, url){
 var warn='To make Luxpresso your home page: \n 1) From the browser menu, click the Settings icon \n 2) Select Options \n 3) On the Basics tab, type http://luxpresso.com/ in the Home Page entry box and click Close.'
-	if (confirm(warn)){
-		netscape.security.PrivilegeManager.enablePrivilege("UniversalPreferencesWrite");
-		navigator.preference('browser.startup.homepage', url);netscape.security.PrivilegeManager.disablePrivilege("UniversalPreferencesWrite");
-	}
+if (confirm(warn)){
+netscape.security.PrivilegeManager.enablePrivilege("UniversalPreferencesWrite");
+navigator.preference('browser.startup.homepage', url);netscape.security.PrivilegeManager.disablePrivilege("UniversalPreferencesWrite");
+}
 }
 function setHomepageExplorer(what, url){
-	what.style.behavior = 'url(#default#homepage)';
-	what.setHomePage(url);
+what.style.behavior = 'url(#default#homepage)';
+what.setHomePage(url);
 }
 function getObj(id){return document.getElementById(""+id);} 
 </script>
 <style>
-.header-temp{position: relative;}
-.sony-logo-link{width: 150px; height: 25px; position: absolute; top: 19px; left: 444px;z-index:50}
-.sony-logo-link a{display:block; width: 95px; height: 25px;}
-</style>
+.mood{ background:#fff url(http://luxpresso.com/images/bigbg.jpg) center top no-repeat; background-attachment:fixed;}</style>
+	
 
-<div class="header clearfix header-temp" id="netspidersosh">
-	<div class="tpnavi">
-        <div class="logoCtn">
-             <p class="makeCtn">
-             <a id="yourhomepage" href="#" onclick="return setHomepage(this, 'http://luxpresso.com/');" class="gry_9">MAKE LUXPRESSO MY HOMEPAGE</a>
-             </p>
-            <a href="http://luxpresso.com/"><img src="http://luxpresso.com/images/logo.gif" alt="" style="position: absolute; z-index: 100; top:30px"></a> 
-        </div>
-			 <ul class="topnav">
-                <li style="background:none"><a class="  " href="http://luxpresso.com/"> home </a></li>
-                <li><a class=" " href="http://luxpresso.com/couture/">couture</a></li>
-                <li><a class=" " href="http://luxpresso.com/beauty/">beauty</a></li>
-                <li><a class=" " href="http://luxpresso.com/accessories/">accessories</a></li>
-                <li><a class=" " href="http://luxpresso.com/lifestyle/">lifestyle</a></li>
-            	<li style="border-right:none"><a class=" " href="http://luxpresso.com/indulge/">indulge</a></li>
-            </ul>
-            <div class="CL"></div>
-        <div class="CL"></div>
-    </div>
-    <div class="CL"></div>
-        <div class="clearfix luxnavigation">
-    
-            <div class="hotNav">
-            	<div class="hottopCtn">
-			 			<p class="FL PL10"><strong>HOT  TOPICS :</strong> &nbsp;&nbsp;
-				                <a class="catnav" href="http://luxpresso.com/tags/fashion/1">Fashion</a>&nbsp;&nbsp;
-				<span class="gL_15tl">|</span>&nbsp;&nbsp;
-				                <a class="catnav" href="http://luxpresso.com/tags/jewellery/1">Jewellery</a>&nbsp;&nbsp;
-				<span class="gL_15tl">|</span>&nbsp;&nbsp;
-				                <a class="catnav" href="http://luxpresso.com/tags/travel/1">Travel</a>&nbsp;&nbsp;
-				<span class="gL_15tl">|</span>&nbsp;&nbsp;
-				                <a class="catnav" href="http://luxpresso.com/tags/gadgets/1">Gadgets</a>&nbsp;&nbsp;
-				<span class="gL_15tl">|</span>&nbsp;&nbsp;
-				                <a class="catnav" href="http://luxpresso.com/tags/celebs/1">Celebs</a>&nbsp;&nbsp;
-				            </p>
-			            <div class="CL"></div>
- 	</div>
-            </div>            
-            <div class="formCtn"> 
-            <form method="get" action="" onsubmit="return processSearch();">
-                <input name="searchTags" id="searchTags" type="text" class="txtboxs FL MR10" style="width:175px">
-                <input name="" type="image" src="http://luxpresso.com/images/searchbtn.gif" class="FL">
-                </form></div>
-            <div class="CL"></div>
-        </div>
-	<div class="CL"></div>
+<link href="http://luxpresso.com/css/commonHeader.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+function commonHeader(siteUrl, siteName) {
+
+	searchTags = $('#searchTags').val();
+	var alphaExp = /^[0-9a-zA-Z ]+$/;
+	if(Trimnew(searchTags) == '') {
+		alert('Please enter Search term.');
+		$('#searchTags').val('');
+		$('#searchTags').focus();
+		return false;
+	}else {
+		searchTags = searchTags.replace(/\s/g,"-");
+		location.href = '/search/'+searchTags+'/1';
+		return false;
+	}
+	
+	if(siteName=='technoholik') {
+		searchTags = $('#searchTags').val();
+		var alphaExp = /^[0-9a-zA-Z ]+$/;
+		if(Trimnew(searchTags) == '') {
+			alert('Please enter Search term.');
+			$('#searchTags').val('');
+			$('#searchTags').focus();
+			return false;
+		}else {
+			searchTags = searchTags.replace(/\s/g,"-");
+			location.href = siteUrl+'search/'+searchTags+'/1';
+			return false;
+		}
+	}else {
+		searchTags = $('#searchTags').val();
+		location.href = siteUrl+'search.html?tags='+searchTags;
+		return false;
+	}
+}
+</script>
+<!-- End Here -->
+<div id="commonbar">
+	<div id="commonbar_inside">
+		<div class="FL MR5 MT3 wdt78"><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.facebook.com/pages/Luxpresso/143406369039515&amp;layout=button_count&amp;show_faces=false&amp;width=60&amp;height=21&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowtransparency="true"></iframe></div>
+		<span class="common_sep PR5 PT8"><img width="2" height="12" border="0" alt="" src="http://luxpresso.com/images/sep.gif"></span>
+		<div class="FL MR5 MT5 wdt70"><g:plusone size="small" count="true" href="http://luxpresso.com/"></g:plusone></div>
+<!-- Socials -->
+<div class="common_social MT5">
+	<span class="common_follow PR5">Follow:</span>
+	<span><a class="thickbox common_mail" style="text-decoration:none;" title="Newsletter" href="http://luxpresso.com/popup/newsletter.php?height=180&amp;width=450;modal=true"></a></span>
+ 	<span class="common_sep PR5 PL5"><img width="2" height="12" border="0" alt="" src="http://luxpresso.com/images/sep.gif"></span> 
+ 	<span><a href="http://luxpresso.com/popup/rsspopup.php?height=300&amp;width=300;modal=true" class="thickbox common_rss"></a></span>
+ 	<span class="common_sep PR5 PL5"><img width="2" height="12" border="0" alt="" src="http://luxpresso.com/images/sep.gif"></span> 
+ 	<span><a class="common_twitter" target="_blank" title="Twitter" href="http://twitter.com/Luxpresso"></a></span>
+ 	<span class="common_sep PR5 PL5"><img width="2" height="12" border="0" alt="" src="http://luxpresso.com/images/sep.gif"></span>
+ 	<span><a class="common_facebook" target="_blank" title="Facebook" href="http://www.facebook.com/pages/Luxpresso/143406369039515"></a></span>
+ 	<span class="common_sep PR5 PL5"><img width="2" height="12" border="0" alt="" src="http://luxpresso.com/images/sep.gif"></span>
+ 	<span><a class="common_gplus" target="_blank" title="foursquare" href="https://foursquare.com/Luxpresso"></a></span>
 </div>
-<div class="contbody">
- <div>
-	<div class="addCtn CTR">
+<!--end socials-->
+<!-- sites -->
+<div class="common_sites">
+<span><a title="idiva" class="idiva" target="_blank" href="http://idiva.com/"></a></span><span><a title="healthmeup" class="healthmeup" target="_blank" href="http://healthmeup.com/"></a></span><span><a title="guylife" class="guylife" target="_blank" href="http://guylife.com/"></a></span><span><a title="technoholik" class="technoholik" target="_blank" href="http://technoholik.com/"></a></span><span><a title="zigwheels" class="zigwheels" target="_blank" href="http://www.zigwheels.com/"></a></span></div>
+<!-- end sites -->
+<!--search-->
+<div id="searchsection">
+<form name="frmSearch" method="GET" action="" onsubmit="return commonHeader(&quot;http://luxpresso.com/&quot;, &quot;luxpresso&quot;);">
+<input type="text" class="common_srch" onclick="make_blankFSearch(&quot;frmSearch&quot;)" value="search" id="searchTags" name="searchTags">
+<input class="serchbutton" type="submit" value="">
+<!-- <a class="serchbutton" title="Search" href="javascript:void(0);"><img onclick="return commonHeader();" title="search" alt="search" src="http://luxpresso.com//searchbutton.gif"></a>
+-->
+<div class="CL"></div>
+</form>
+</div>
+</div>
+</div><div class="mood">
+<!-- For Banner on homepage -->
+<div align="center" class="PT5 PB5">
 <script type="text/javascript">
 									var RN = new String (Math.random());
 									var RNS = RN.substring (2,11);
 									document.write('<iframe src=\"http://adstil.indiatimes.com/RealMedia/ads/adstream_sx.ads/www.luxpresso.com/luxpresso_Home/index.html/1'+RNS+'@Top?\" WIDTH=728 HEIGHT=90 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no bordercolor=\"#000000\"> </iframe>')
-									 </script><iframe src="http://adstil.indiatimes.com/RealMedia/ads/adstream_sx.ads/www.luxpresso.com/luxpresso_Home/index.html/1856836348@Top?" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"> </iframe>    <div class="CL"></div>
+									 </script><iframe src="http://adstil.indiatimes.com/RealMedia/ads/adstream_sx.ads/www.luxpresso.com/luxpresso_Home/index.html/1606883696@Top?" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"> </iframe></div>
+
+<div class="maindiv">
+<div class="middiv">
+<div id="netspidersosh" class="header clearfix header-temp">
+<div class="tpnavi">
+<div class="FL wdt280">
+<p class="MB2 PL25">
+<a id="yourhomepage" href="#" onclick="return setHomepage(this, 'http://luxpresso.com/');" class="f9 makeCtn">MAKE LUXPRESSO MY HOMEPAGE</a>
+</p>
+<a href="http://luxpresso.com/" class="logoCtn"></a> 
+</div>
+<ul class="topnav">
+
+<!--<li class="bcknone"><a class="" href="http://luxpresso.com/" title="Home"> home </a></li>-->
+<li class="bcknone"><a class="" href="http://luxpresso.com/couture/" title="Couture">couture</a></li>
+<li><a class="" href="http://luxpresso.com/beauty/" title="Beauty">beauty</a></li>
+<li><a class="" href="http://luxpresso.com/accessories/" title="Accessories">accessories</a></li>
+<li><a class="" href="http://luxpresso.com/lifestyle/" title="Lifestyle">lifestyle</a></li>
+<li><a class=" " href="http://luxpresso.com/indulge/" title="Indulge">indulge</a></li>
+<li class="brdrn"><a class=" " href="http://luxpresso.com/timenstyle/" title="Time and Style">time n style</a></li> 
+</ul>
+<div class="CL"></div>
+</div>
+<div class="CL"></div>
+<div class="clearfix luxnavigation">
+    
+<div class="FL">
+<div class="hottopCtn">
+<p class="FL PL10"><strong>HOT TOPICS :</strong> &nbsp;&nbsp;
+<a class="catnav" href="http://luxpresso.com/tags/billionaires/104/1" title="Billionaires">Billionaires</a>&nbsp;&nbsp;
+<span class="gL_15tl">|</span>&nbsp;&nbsp;
+<a class="catnav" href="http://luxpresso.com/tags/cars/105/1" title="Cars">Cars</a>&nbsp;&nbsp;
+<span class="gL_15tl">|</span>&nbsp;&nbsp;
+<a class="catnav" href="http://luxpresso.com/tags/watches/106/1" title="Watches">Watches</a>&nbsp;&nbsp;
+<span class="gL_15tl">|</span>&nbsp;&nbsp;
+<a class="catnav" href="http://luxpresso.com/tags/food-drink/107/1" title="Food &amp; Drink">Food &amp; Drink</a>&nbsp;&nbsp;
+<span class="gL_15tl">|</span>&nbsp;&nbsp;
+<a class="catnav" href="http://luxpresso.com/tags/fashion/38/1" title="Fashion">Fashion</a>&nbsp;&nbsp;
+</p>
+<div class="CL"></div>
+</div>
+</div>
+<div class="CL"></div>
+</div>
+<div class="CL"></div>
 </div>
 
-</div><div class="mainbody clearfix">
+<!-- For Banner on homepage
+<div class="PT15 PB5" align="center" style="background:#fff;width:1002px;margin:auto;">
+</div> -->
+
+<div class="contbody">
+<div class="mainbody clearfix">
 
 	<h1 class="b_30">PRIVACY POLICY</h1>
     
@@ -121,54 +194,99 @@ TIL (Privacy Policy) "I World" Tower,  DLF City Phase 5 opp DLF Golf Course ,Gur
 <div class="footerpg">
 	<div class="footmain">
 		<div class="missedPage">
-<iframe frameborder="0" scrolling="no" width="100%" height="492" src="http://luxpresso.com/genratefiles/generate/commonfooter/tplfooterUpper.html?1=1">
-</iframe>
-<link rel="stylesheet" type="text/css" href="http://luxpresso.com/css/missed-style2.css">
-<script type="text/javascript" src="http://luxpresso.com/js/footer.js"></script>
-<div id="missedFooterPanel">
-	<div id="newsLetterFooter">
-		<div class="">
-			<div class="serchSection">
-				<div class="msdSearch" style="clear:left;">
-					<form name="frmSearch1" method="POST" action="" onsubmit="return processSearch1(&quot;http://luxpresso.com/&quot;, &quot;luxpresso&quot;);">
-						<input type="text" class="sb_input" name="searchTags1" id="searchTags1" value="search" onclick="make_blankFSearch(&quot;frmSearch1&quot;)"><input class="search" type="submit" value="">
-					</form>
-				<div class="clear"></div>
-			</div>
-
-			<div class="signUp"><a href="http://luxpresso.com/popup/newsletter.php?height=180&amp;width=450;modal=true" title="Newsletter" class="thickbox">Sign up for Newsletter</a></div>
-			<div class="socialshares column">
-				<ul>
-					<li><span class="PR5">Follow Us: &nbsp;</span></li>
-					<li><a href="http://luxpresso.com/popup/rsspopup.php?height=300&amp;width=300;modal=true" class="thickbox"><img src="http://luxpresso.com/images/rss.png" border="0" style="3px 0 0 0"></a></li>
-					<li><img src="http://luxpresso.com/images/separtor_bottom.png" border="0" style="margin:0 5px;"></li>
-					<li><a href="http://twitter.com/Luxpresso" target="_blank"><img src="http://luxpresso.com/images/twitter.png" border="0" style="3px 0 0 0"></a></li>
-					<li><img src="http://luxpresso.com/images/separtor_bottom.png" border="0" style="margin:0 5px;"></li>
-					<li><a href="http://www.facebook.com/pages/Luxpresso/143406369039515" target="_blank"><img src="http://luxpresso.com/images/facebook.png" border="0" style="3px 0 0 0"></a></li>
-				</ul>
-			</div>
-			<br>
-			<div style="background:url(http://luxpresso.com/images/hozLine.gif) repeat-x; float:left; padding:0; width:940px;">
-				<div style="width: 600px;margin-top: 5px;" class="FL">
-					<p class="MT15 oSites" style="margin-top:8px">Other sites: <a class="gD_11f" href="http://www.indiatimes.com/" target="_blank">Indiatimes</a> | <a class="gD_11f" href="http://timesofindia.indiatimes.com" target="_blank">The Times of India</a> | <a class="gD_11f" href="http://economictimes.indiatimes.com/" target="_blank">The Economic Times</a> | <a class="gD_11f" href="http://zoomtv.in/" target="_blank">Zoom TV</a> | <a class="gD_11f" href="http://www.timesnow.tv/" target="_blank">Times Now</a> | <a class="gD_11f" href="http://oneclick.indiatimes.com/" target="_blank">One Click</a> | <a class="gD_11f" href="http://www.hotklix.com/" target="_blank">HotKlix</a></p>
-				</div>
-				<div class="tar FR">
-					<p align="right" style="color: #cccccc; font-size: 11px;">Copyright © 2011 Times Internet Limited. All Rights Reserved.</p>
-				</div>
-			</div>
-		</div>
-	</div>
+<!-- <iframe width="100%" height="492" frameborder="0" scrolling="no" src="http://luxpresso.com/genratefiles/generate/commonfooter/tplfooterUpper.html">
+</iframe> -->
+<script type="text/javascript" src="http://luxpresso.com/js/jquery.expander.js"></script><link rel="stylesheet" type="text/css" href="http://luxpresso.com/css/commanfooter.css"><div id="missedSection">
+				<div class="missedPanel">
+					<div class="headerMissed"><img src="http://healthmeup.com/images/sites-we-love.png"></div>
+					<ul id="panelMissed"><li class="active"><div class="expand">&nbsp;</div><a href="http://healthmeup.com" target="_blank"><div class="healthmeupFooter" align="center"></div></a><div class="content">
+					  <div class="bordermsd"></div><div class="imgExapndable"><a href="http://healthmeup.com/news-healthy-living/expert-advice-tips-for-postpartum-sex/9888" target="_blank"><img src="http://images.idiva.com/media/healthmeup/content/2011/Dec/postcoverg_320x240.jpg" alt="Expert Advice: Tips for Postpartum Sex"></a></div><div class="hmain"><div class="hone"><a href="http://healthmeup.com/news-healthy-living/expert-advice-tips-for-postpartum-sex/9888" target="_blank">Expert Advice: Tips for Postpartum Sex</a> 
+										  </div><div class="htwo"><a href="http://healthmeup.com/photogallery-healthy-living/home-workouts-exercises-to-tone-your-back/9853" target="_blank">Home Workouts: Exercises to Tone Your Back</a> 
+										  </div><div class="htwo"><a href="http://healthmeup.com/news-healthy-living/myths-and-facts-about-birth-control-methods/9741" target="_blank">Myths and Facts About Birth Control Methods</a> 
+										  </div></div><div style="clear:both;"></div><div class="hfour"><div class="go"><span>Go to</span></div><a href="http://healthmeup.com" style="color:#1F8CD6" target="_blank">healthmeup.com»</a></div></div></li><li><div class="expand">&nbsp;</div><a href="http://idiva.com" target="_blank"><div class="idivaFooter" align="center"></div></a><div class="content">
+					  <div class="bordermsd"></div><div class="imgExapndable"><a href="http://idiva.com/news-work-life/top-10-christmas-new-year-greetings-in-rhymes/9925" target="_blank"><img src="http://images.idiva.com/media/content/2011/Dec/top_10_christmas_new_year_smses_in_rhyme_320x240.jpg" alt="Top 10 Christmas and New Year Greetings in Rhymes"></a></div><div class="hmain"><div class="hone"><a href="http://idiva.com/news-work-life/top-10-christmas-new-year-greetings-in-rhymes/9925" target="_blank">Top 10 Christmas and New Year Greetings in Rhymes</a> 
+										  </div><div class="htwo"><a href="http://idiva.com/photogallery-entertainment/most-controversial-worst-tweets-of-2011/9929" target="_blank">Most Controversial and Worst Tweets of 2011</a> 
+										  </div><div class="htwo"><a href="http://idiva.com/news-health/stick-to-your-diet-at-a-party/1622" target="_blank">Stick to Your Diet at a Party</a> 
+										  </div></div><div style="clear:both;"></div><div class="hfour"><div class="go"><span>Go to</span></div><a href="http://idiva.com" style="color:#1F8CD6" target="_blank">idiva.com»</a></div></div></li><li><div class="expand">&nbsp;</div><a href="http://luxpresso.com" target="_blank"><div class="luxpressoFooter" align="center"></div></a><div class="content">
+					  <div class="bordermsd"></div><div class="imgExapndable"><a href="http://luxpresso.com/news-indulge/austria-gets-its-first-ritzcarlton-hotel/9914" target="_blank"><img src="http://images.idiva.com/media/luxury/content/2011/Dec/ritz_carlton_vienna_320x240.jpg" alt="Austria Gets it's First Ritz-Carlton Hotel"></a></div><div class="hmain"><div class="hone"><a href="http://luxpresso.com/news-indulge/austria-gets-its-first-ritzcarlton-hotel/9914" target="_blank">Austria Gets it's First Ritz-Carlton Hotel</a> 
+										  </div><div class="htwo"><a href="http://luxpresso.com/photogallery-couture/trend-alert-designer-gowns/9928" target="_blank">Trend Alert: Designer Gowns</a> 
+										  </div><div class="htwo"><a href="http://luxpresso.com/news-time-n-style/versace-for-kids/9902" target="_blank">Versace for Kids</a> 
+										  </div></div><div style="clear:both;"></div><div class="hfour"><div class="go"><span>Go to</span></div><a href="http://luxpresso.com" style="color:#1F8CD6" target="_blank">luxpresso.com»</a></div></div></li><li><div class="expand">&nbsp;</div><a href="http://technoholik.com/" target="_blank"><div class="technoholicFooter" align="center"></div></a><div class="content">
+					  <div class="bordermsd"></div><div class="imgExapndable"><a href="http://technoholik.com/reviews-diet-fitness/review-is-the-cowon-iaudio-e2-a-good-workout-companion/9837" target="_blank"><img src="http://technoholik.com/media/content/2011/Dec/orangeredcowon_600x450.jpg" alt="Review: Is the Cowon iAudio E2 a Good Workout Companion?"></a></div><div class="hmain"><div class="hone"><a href="http://technoholik.com/reviews-diet-fitness/review-is-the-cowon-iaudio-e2-a-good-workout-companion/9837" target="_blank">Review: Is the Cowon iAudio E2 a Good Workout Companion?</a> 
+										  </div><div class="htwo"><a href="http://technoholik.com/photogallery/music/speakers/speaker-systems-roundup/2717" target="_blank">Speaker systems round-up</a> 
+										  </div><div class="htwo"><a href="http://technoholik.com/news/mobile/smartphone/samsung-galaxy-y-pro-duos-upcoming-dualsim-android-smartphone/2719" target="_blank">Samsung Galaxy Y Pro Duos, upcoming Dual-SIM Android smartphone</a> 
+										  </div></div><div style="clear:both;"></div><div class="hfour"><div class="go"><span>Go to</span></div><a href="http://technoholik.com/" style="color:#1F8CD6" target="_blank">technoholik.com»</a></div></div></li><li><div class="expand">&nbsp;</div><a href="http://www.zigwheels.com/" target="_blank"><div class="zigwheelsFooter" align="center"></div></a><div class="content">
+					  <div class="bordermsd"></div><div class="imgExapndable"><a href="http://www.zigwheels.com/gallery/slideshow/2013-audi-s8-in-pictures/10966/1" target="_blank"><img src="http://static.zigwheels.com/media/photogallery/2011/Dec/audis8_ss1_320x240.jpg" alt="2013 Audi S8 : In pictures"></a></div><div class="hmain"><div class="hone"><a href="http://www.zigwheels.com/gallery/slideshow/2013-audi-s8-in-pictures/10966/1" target="_blank">2013 Audi S8 : In pictures</a> 
+										  </div><div class="htwo"><a href="http://www.zigwheels.com/news-features/news/2013-audi-s8-revealed/10965/1" target="_blank">2013 Audi S8 Revealed</a> 
+										  </div><div class="htwo"><a href="http://www.zigwheels.com/Formula1/news/headlines/hulkenberg-will-race-for-force-india-in-2012/10963/1" target="_blank">Hulkenberg will race for Force India in 2012</a> 
+										  </div></div><div style="clear:both;"></div><div class="hfour"><div class="go"><span>Go to</span></div><a href="http://www.zigwheels.com/" style="color:#1F8CD6" target="_blank">zigwheels.com»</a></div></div></li><li><div class="expand">&nbsp;</div><a href="http://guylife.com" target="_blank"><div class="guylifeFooter" align="center"></div></a><div class="content">
+					  <div class="bordermsd"></div><div class="imgExapndable"><a href="http://guylife.com/hot-list-sport/best-of-2011-top-7-sports-heroes/9798" target="_blank"><img src="http://images.idiva.com/media/guylife/photogallery/2011/Dec/sportsheroesof2011thumbjjj_320x240.jpg" alt="[Best of 2011] Top 7 Sports Heroes"></a></div><div class="hmain"><div class="hone"><a href="http://guylife.com/hot-list-sport/best-of-2011-top-7-sports-heroes/9798" target="_blank">[Best of 2011] Top 7 Sports Heroes</a> 
+										  </div><div class="htwo"><a href="http://guylife.com/news-tips/contest-get-a-new-look-with-guylife/9882" target="_blank">Contest: Get a New Look With GuyLife</a> 
+										  </div><div class="htwo"><a href="http://guylife.com/hot-list-babes/best-of-2011-guylifes-top-7-babes-of-the-week/9600" target="_blank">[Best Of 2011] Guylife's Top 7 Babes of the Week</a> 
+										  </div></div><div style="clear:both;"></div><div class="hfour"><div class="go"><span>Go to</span></div><a href="http://guylife.com" style="color:#1F8CD6" target="_blank">guylife.com»</a></div></div></li></ul></div></div><script type="text/javascript">
+	$(document).ready(function() {
+		$("#panelMissed").Expander();
+	
+		$("#panelMissed li").mouseover(function(){
+	$("#panelMissed li").removeClass("active");
+	$(this).addClass("active");
+	});
+	
+	})
+	</script><div id="missedFooterPanel">
+<div id="newsLetterFooter">
+<div>
+<div class="serchSection">
+<div class="msdSearch CL">
+<form name="frmSearch1" method="POST" action="" onsubmit="return processSearch1(&quot;http://luxpresso.com/&quot;, &quot;luxpresso&quot;);">
+<input type="text" class="common_srch" name="searchTags1" id="searchTags1" value="search" onclick="make_blankFSearch(&quot;frmSearch1&quot;)">
+<input class="serchbutton" type="submit" value="">
+</form>
+<div class="clear"></div>
 </div>
-
+<div class="signUp"><a href="http://luxpresso.com/popup/newsletter.php?height=180&amp;width=450;modal=true" title="Newsletter" class="thickbox">Sign up for Newsletter</a></div>
+<div class="socialshares column">
+<ul>
+<li><span class="PR5">Follow Us: &nbsp;</span></li>
+<li><a href="http://luxpresso.com/popup/rsspopup.php?height=300&amp;width=300;modal=true" title="RSS" class="thickbox common_rss"></a></li>
+<li class="common_sep ML3 MR10"><img src="http://images.idiva.com/images/separtor_bottom.png" border="0" style="margin:0 5px;"></li>
+<li><a href="http://twitter.com/Luxpresso" title="Twitter" target="_blank" class="common_twitter"></a></li>
+<li class="common_sep ML3 MR10"><img src="http://images.idiva.com/images/separtor_bottom.png" border="0" style="margin:0 5px;"></li>
+<li><a href="http://www.facebook.com/pages/Luxpresso/143406369039515" title="Facebook" target="_blank" class="common_facebook"></a></li>
+</ul>
+</div>
+<br>
+<div class="hozline">
+<div class="FL wdt600">
+<p class="oSites MT7">Other sites: <a class="copy" href="http://www.indiatimes.com/" title="Indiatimes" target="_blank">Indiatimes</a> | <a class="copy" href="http://timesofindia.indiatimes.com" target="_blank" title="The Times of India">The Times of India</a> | <a class="copy" href="http://economictimes.indiatimes.com/" target="_blank" title="The Economic Times">The Economic Times</a> | <a class="copy" href="http://zoomtv.in/" target="_blank" title="Zoom TV">Zoom TV</a> | <a class="copy" href="http://www.timesnow.tv/" target="_blank" title="Times Now">Times Now</a> | <a class="copy" href="http://oneclick.indiatimes.com/" target="_blank" title="One Click">One Click</a> | <a class="copy" href="http://www.hotklix.com/" target="_blank" title="HotKlix">HotKlix</a></p>
+</div>
+<div class="tar FR MT7">
+<p align="right" class="copy">Copyright © 2011 Times Internet Limited. All Rights Reserved.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
 <div class="clearfixfooter">
-	<p class="MT15 oSites" style="margin:7px 0 0 10px"><strong>More on Luxpresso : <a class="gD_11f" href="http://luxpresso.com/archive.html" style="color:#414141;">Archive</a> | <a class="gD_11f" href="http://luxpresso.com/terms" style="color:#414141;">Terms of Use</a> | <a class="gD_11f" href="http://luxpresso.com/privacypolicy" style="color:#414141;">Privacy Policy</a> | <a class="gD_11f" href="http://luxpresso.com/communityguideline" style="color:#414141;">Community Guidelines</a> | <a class="gD_11f" href="http://luxpresso.com/contactus" style="color:#414141;">Contact Us</a> | <a class="gD_11f" href="http://luxpresso.com/faq" style="color:#414141;">FAQs</a> | <a class="gD_11f" href="http://luxpresso.com/sitemap" style="color:#414141;">Sitemap</a>
-	</strong></p>
+<p class="oSites MT7 ML10"><strong>More on Luxpresso : <a class="extlink" href="http://luxpresso.com/archive.html">Archive</a> | <a class="extlink" href="http://luxpresso.com/terms">Terms of Use</a> | <a class="extlink" href="http://luxpresso.com/privacypolicy">Privacy Policy</a> | <a class="extlink" href="http://luxpresso.com/communityguideline">Community Guidelines</a> | <a class="extlink" href="http://luxpresso.com/contactus">Contact Us</a>
+</strong></p>
 </div>
-
-		</div>
+<script type="text/javascript">
+function make_blankFSearch(frmName){
+	var frmEval=eval('document.'+frmName+'.elements[0]');
+	frmEval.value='';
+}
+function processSearch1(siteUrl, siteName) {
+		searchTags = $('#searchTags1').val();
+		location.href = siteUrl+'search.html?tags='+searchTags;
+		return false;	
+}
+</script>		</div>
 	</div>
 </div>
-<!--Footer Ends --><script language="javascript">
+<!--Footer Ends -->
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script><script language="javascript">
 		<!--
 				function showNewsletterDiv(){
 					$("#nlError_msg").hide();
@@ -206,10 +324,8 @@ TIL (Privacy Policy) "I World" Tower,  DLF City Phase 5 opp DLF Golf Course ,Gur
 						}
 							
 						}); 
-					}else{
-						//$("nlVal").val() = "";
+					}else{						
 						document.getElementById("nlVal").value=="";
-
 						$("#nlVal").focus();
 						$("#nlError_msg").show();
 						$("#nlError_msg").html("Wrong email id");
@@ -220,6 +336,7 @@ TIL (Privacy Policy) "I World" Tower,  DLF City Phase 5 opp DLF Golf Course ,Gur
 				
 		//-->
 </script>
+
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-429254-24']);
@@ -247,13 +364,6 @@ TIL (Privacy Policy) "I World" Tower,  DLF City Phase 5 opp DLF Golf Course ,Gur
 		
 </script>
 <noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036484&c3=&c4=&c5=&c6=&c15=&cj=1"></noscript>
-
-<!--Apture Code -->
-<!--<script id="aptureScript" type="text/javascript" src="http://www.apture.com/js/apture.js?siteToken=xt11nEW" charset="utf-8"></script>
- -->
-
-<!-- START Nielsen Online SiteCensus V6.0 --> 
-<!-- COPYRIGHT 2010 Nielsen Online --> 
 <script type="text/javascript" src="//secure-uk.imrworldwide.com/v60.js"> 
 </script> 
 <script type="text/javascript"> 
@@ -267,11 +377,11 @@ TIL (Privacy Policy) "I World" Tower,  DLF City Phase 5 opp DLF Golf Course ,Gur
  width="1" height="1" alt="" /> 
  </div> 
 </noscript> 
-<!-- END Nielsen Online SiteCensus V6.0 --> 
-<!-- Begin TimesTrend Tag -->
 <script language="javascript" src="http://timeslog.luxpresso.com/timestrend_luxpresso_v1.js"></script><noscript><img width="0" height="0" src="http://timeslog.luxpresso.com/timeslog.dll/pgcnt?CHUR=luxpresso.com&nojs=1"></noscript>
-<!-- End TimesTrend Tag --></div>
+</div></div>
+</div></div>
+</div>
 </div>
 
 
-</div></div></body></html>
+</div></body></html>
