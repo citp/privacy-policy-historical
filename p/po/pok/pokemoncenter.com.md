@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pokemoncenter.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607055142id_/http%3A//www.pokemon.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemoncenter.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222044444id_/http%3A//www.pokemon.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pokemon.com
 
 [](http://www.esrb.org/confirm/pokemon-confirmation.jsp)
 
-Last updated April 5, 2010
+Last updated July 26, 2011
 
 Welcome to Pokemon.com!
 
@@ -16,7 +16,7 @@ We also recognize the need to provide additional protections for children who vi
 
 This Privacy Policy and the certification seal shown on this page confirms that Pokémon is a member in good standing of [ESRB's Privacy Online Program](http://www.esrb.org/privacy/index.jsp). The [ESRB's Privacy Online Program](http://www.esrb.org/privacy/index.jsp) is designed to ensure that our websites' information disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our websites and other enforcement and accountability mechanisms administered independently by the ESRB.
 
-Pokémon is a self-certified member of the U.S. Department of Commerce's EU Safe Harbor privacy program jointly established to comply with the European Commission's 1998 Directive on Data Protection. For more information about this privacy initiative, visit the Department of Commerce's website at <http://www.export.gov/safeHarbor/>.
+Pokémon is a self-certified member of the U.S. Department of Commerce's EU Safe Harbor privacy program jointly established to comply with the European Commission's 1998 Directive on Data Protection and The U.S. Department of Commerce’s Swiss Safe Harbor privacy program jointly established to comply with the Swiss Federal Act on Data Protection. For more information about this privacy initiative, visit the Department of Commerce's website at <http://www.export.gov/safeHarbor/>.
 
 Table of Contents
 
@@ -216,7 +216,7 @@ The Children's Online Privacy Protection Act ("COPPA") requires that we inform p
 
 This Privacy Statement and the certification seal shown on this page confirm that Pokémon USA, Inc. is a member in good standing of [ESRB's Privacy Online Program](http://www.esrb.org/privacy/index.jsp). ESRB's Privacy Online Program is designed to ensure that our website's information disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our websites and other enforcement and accountability mechanisms administered independently by the ESRB.
 
-Pokémon is a self-certified member of the U.S. Department of Commerce's EU Safe Harbor privacy program jointly established to comply with the European Commission's 1998 Directive on Data Protection. For more information about this privacy initiative, visit the Department of Commerce's website at <http://www.export.gov/safeHarbor/>
+Pokémon is a self-certified member of the U.S. Department of Commerce's EU Safe Harbor privacy program jointly established to comply with the European Commission's 1998 Directive on Data Protection and The U.S. Department of Commerce’s Swiss Safe Harbor privacy program jointly established to comply with the Swiss Federal Act on Data Protection. For more information about this privacy initiative, visit the Department of Commerce's website at <http://www.export.gov/safeHarbor/>.[](http://www.export.gov/safeHarbor/)
 
 TABLE OF CONTENTS
 
