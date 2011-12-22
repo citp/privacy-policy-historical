@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sheeel.com privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320012547id_/http%3A//www.sheeel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheeel.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222123503id_/http%3A//www.sheeel.com/privacy) for the most accurate reproduction.*
 
 # Sheeel ... A Deal Everyday Privacy Policy
+
+[](http://www.etrust.org/cert/289769.html "eTrust Certified Privacy Policy : Click to Verify")
 
 **Scope**
 
@@ -14,7 +16,7 @@ You can browse our sites without telling us who you are or revealing any persona
 
 We may collect and store the following personal information:
 
-\- email address, physical contact information, and (depending on the service used) sometimes financial information, such as credit card or bank account numbers;
+\- email address, physical contact information;
 
 \- transactional information based on your activities on the sites;
 
@@ -29,6 +31,8 @@ We may collect and store the following personal information:
 \- information from other companies, such as demographic and navigation data; and
 
 \- other supplemental information from third parties (for example, if you incur a debt to sheeel.com, we will generally conduct a credit check by obtaining additional information about you from a credit bureau, as permitted by law).
+
+We do not intentionally collect information from persons under thirteen years of age.
 
 **Marketing**
 
@@ -90,7 +94,7 @@ A few important things you should know about cookies are that:
 
 **No Spam, Spyware or Spoofing**
 
-We and our users do not tolerate spam. Make sure to set your sheeel.com communication preferences so we communicate to you as you prefer. You are not licensed to add other sheeel.com users, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. To report sheeel.com-related spam or spoof emails to sheeel.com, please forward the email to support@sheeel.com.   We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content.  
+We and our users do not tolerate spam. Make sure to set your sheeel.com communication preferences so we communicate to you as you prefer. You are not licensed to add other sheeel.com users, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. To report sheeel.com-related spam or spoof emails to sheeel.com, please forward the email to [support@sheeel.com.](mailto:support@sheeel.com.)   We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content.  
 
 **Account Protection**
 
@@ -102,7 +106,15 @@ You can see, review and change most of your personal information by signing on t
 
 **Security**
 
-Your information is stored on our servers located in Kuwait. We treat data as an asset that must be protected and use lots of tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the site. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
+Your information is stored on our servers. We treat data as an asset that must be protected and use lots of tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the site. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
+
+**Financial Information**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+After a transaction is completed, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
 **Third Parties**
 
@@ -110,7 +122,7 @@ Except as otherwise expressly included in this Privacy Policy, this document add
 
 **General**
 
-We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 30 days after they are initially posted on the site. In addition, we will notify you through the sheeel.com Message Center. If your questions are not answered online, you may email us on support@sheeel.com or write to us at:
+We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 30 days after they are initially posted on the site. In addition, we will notify you through the sheeel.com Message Center. If your questions are not answered online, you may email us on [support@sheeel.com](mailto:support@sheeel.com) or write to us at:
 
 Sheeel.com, Tawseel General Trading
 
