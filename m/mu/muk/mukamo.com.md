@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mukamo.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623024210id_/http%3A//www.mukamo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mukamo.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222010405id_/http%3A//www.mukamo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,16 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 **Related Entries:**
 
-[Western Union Philippines enforces “One ID Policy”](http://www.mukamo.com/western-union-philippines-enforces-one-id-policy/ "Permanent Link: Western Union Philippines enforces “One ID Policy”")
+[Yahoo! steps up anti-phishing Campaign](http://www.mukamo.com/yahoo-steps-up-anti-phishing-campaign/ "Yahoo! steps up anti-phishing Campaign")  
+[US Gov’t launches Web site for new immigrants](http://www.mukamo.com/us-govt-launches-web-site-for-new-immigrants/ "US Gov’t launches Web site for new immigrants")  
+[Pasyalera: Your One-Stop Philippine Travel Guide](http://www.mukamo.com/pasyalera-your-one-stop-philippine-travel-guide/ "Pasyalera: Your One-Stop Philippine Travel Guide")  
+[Metrobank Warns Clients of Phishing Attack](http://www.mukamo.com/metrobank-warns-clients-of-phishing/ "Metrobank Warns Clients of Phishing Attack")  
+[Stormpay: Paypal Alternative](http://www.mukamo.com/stormpay-paypal-alternative/ "Stormpay: Paypal Alternative")  
+[SSS Online Inquiry System is always down](http://www.mukamo.com/sss-online-inquiry-system-is-always-down/ "SSS Online Inquiry System is always down")  
+[How to apply for NCLEX exam in the Philippines](http://www.mukamo.com/how-to-apply-for-nclex-exam-in-the-philippines/ "How to apply for NCLEX exam in the Philippines")  
+[Local Website Aims to Help Filipinos Save On Fuel Purchases](http://www.mukamo.com/local-website-aims-to-help-filipinos-save-on-fuel-purchases/ "Local Website Aims to Help Filipinos Save On Fuel Purchases")  
+[Andi Manzano cries foul over mail-order bride web site](http://www.mukamo.com/andi-manzano-cries-foul-over-mail-order-bride-web-site/ "Andi Manzano cries foul over mail-order bride web site")  
+[Western Union Philippines enforces “One ID Policy”](http://www.mukamo.com/western-union-philippines-enforces-one-id-policy/ "Western Union Philippines enforces “One ID Policy”")
 
   
 
