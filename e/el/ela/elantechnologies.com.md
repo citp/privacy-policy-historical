@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the elantechnologies.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611084843id_/http%3A//www.elantechnologies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elantechnologies.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222062943id_/http%3A//www.elantechnologies.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Elan Technologies- Web development | Mobile development | eCommerce Development | Social Networking Apps | SaaS Development | Cloud Computing
+# Privacy Policy - Elan Technologies
 
 **What information do we collect?**
 
-We collect information from you when you fill out a form. 
+We collect information from you when you fill out a form.
 
-We collect your IP address and you may be asked to enter your name, e-mail address or phone number. You may, however, visit our site anonymously.
+We collect your IP address, City, State, Zip, Country and you may be asked to enter your name, e-mail address or phone number. You may, however, visit our site anonymously.
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
 ; To personalize your experience  
 (your information helps us to better respond to your individual needs)
@@ -28,7 +28,7 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
 We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. 
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly.
 
 **Do we disclose any information to outside parties?**
 
@@ -37,10 +37,6 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 **Third party links**
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), our policy is located at .
 
 **Online Privacy Policy Only**
 
@@ -52,12 +48,14 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 **Your Consent**
 
-By using our site, you consent to our [web site privacy policy](https://web.archive.org/web/20110611084843id_/http://www.elantechnologies.com/privacy-policy/?page_id=3128).
+By using our site, you consent to our [web site privacy policy](https://web.archive.org/web/20111222062943id_/http%3A//www.elantechnologies.com/privacy-policy?page_id=3128).
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will publish revised policy on this website. 
+If we decide to change our privacy policy, we will publish revised policy on this website.
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information given in Contact section. 
+If there are any questions regarding this privacy policy you may contact us using the information given in Contact section.
+
+At Elan technologies we pride ourselves of being of the most renowned offshore Software, web and mobile development company offering outsourcing services to enterprises worldwide. 
