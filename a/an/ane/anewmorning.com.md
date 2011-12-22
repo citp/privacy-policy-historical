@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anewmorning.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623024204id_/http%3A//www.anewmorning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anewmorning.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222042823id_/http%3A//www.anewmorning.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | A New Morning
+# Privacy Policy
 
 **Privacy Policy**
 
