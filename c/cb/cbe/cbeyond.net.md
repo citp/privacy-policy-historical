@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the cbeyond.net privacy policy that was archived on 2010-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100228180927id_/http%3A//www.cbeyond.net/constants/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbeyond.net privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222175756id_/http%3A//www.cbeyond.net/privacy) for the most accurate reproduction.*
 
-# Cbeyond - Privacy Policy
+# Cbeyond Privacy Policy
 
-CbeyondOnline™ Privacy Statement
+**CbeyondOnline™ Privacy Statement**
 
 At Cbeyond, we are committed to honoring the privacy of our on-line customers and visitors to our Web site. We recognize the importance to you, our Web site customer or visitor, of maintaining an appropriate level of privacy and security for the personal information we collect from you through this Web site. The following policy outlines our Web site information gathering, use and disclosure practices with respect to your information that is collected by us or provided by you on and through this Web site. By accessing or using our site, you acknowledge that you have read and accepted the practices, procedures and terms and conditions of this policy and any other terms of use or policies posted by us. Please note that this privacy statement applies only to this site and not to the web sites of our advertisers or of other companies or organizations to which we link. All references to "Cbeyond" throughout this policy statement include, unless otherwise stated, all Cbeyond affiliate companies, successors and assigns.
 
-### Policy Revisions
+## Policy Revisions
 
-We may from time to time change this privacy policy with or without notice, so please check it regularly for any changes or updates. If you have any questions regarding this privacy policy, then you may email us at [customer.care@cbeyond.net](mailto:customer.care@cbeyond.net).
+We may from time to time change this privacy policy with or without notice, so please check it regularly for any changes or updates. If you have any questions regarding this privacy policy, then you may email us at [customer.care@cbeyond.net](mailto:customer.care@cbeyond.net).
 
-### What Kinds of Information Does Cbeyond Collect and Use?
+## What Kinds of Information Does Cbeyond Collect and Use?
 
      _Visiting Our Web site._ Except as otherwise provided in this policy or in other written documentation or policies that may be provided to you regarding the services or Web site, the only personally identifiable information we collect about visitors to our Web site is provided to us voluntarily by you. "Personally identifiable information" is information that tells us specifically who you are, like your name, street address, email address, billing address, social security number, credit card number, other service account information, and certain other financial information. In general, you can visit our Web site without telling us who you are or revealing any personally identifiable information about yourself. Our Web servers may use "cookies" (described below) to collect information about visitors such as your domain name, host from which you access the Internet, the IP address of your computer, and your browser software and operating system. This information may be aggregated to measure such things as the number of visits, average time spent on the site, number of pages viewed, and methods by which our site was found. Cbeyond may use such information to evaluate the use of our site and to continuously improve the content and services being provided.
 
@@ -18,46 +18,46 @@ We may from time to time change this privacy policy with or without notice, so p
 
      _Using Our Web site Services._ When you use our online services by accessing your account information, ordering a service or making a payment on-line, requesting a product or service information, or sending us e-mail, we will ask you to provide personally identifiable information to us. Except as otherwise provided in this policy, when you supply information about yourself for such specific purposes, we use the information for that purpose and to manage the internal operations and security of our Web site consistent with the terms of use and policies established from time to time governing this site. Such purpose may involve the disclosure of such information to unaffiliated companies or vendors where necessary to and for the limited purpose of processing your request, processing a transaction authorized by you or providing you with products or services. Furthermore, we may use, disclose or transfer certain personally identifiable information or other information about you (i) to provide you enhanced services; (ii) to market to you services or products among the categories of services or products you currently subscribe; (iii) to obtain a credit report; (iv) to protect the confidentiality or security of your records; (v) to comply with law enforcement, government mandate or other legal requirement if appropriate for your protection or in connection with an investigation or prosecution of possible unlawful activity; (vi) to our attorneys, accountants, and regulators; (vii) in connection with a sale, acquisition or merger of Cbeyond or our assets or (viii) for other legally permissible purposes. We may also share aggregate anonymized data relating to the transactions on the site and use of our services for marketing, research and other purposes.
 
-     _Customer Proprietary Network Information ("CPNI")._ We also want you to be aware that certain information related to your telecommunications services account with us such as to whom, where and when you make calls is CPNI. CPNI is protected by specific federal laws and regulations and as such we are fully committed to comply with such laws and regulations, both through our Web site and in all other respects. Without your consent, we will only share or disclose your CPNI (i) to market to you services or products among the categories of services or products you currently subscribe, (ii) to initiate, render, bill and collect our telecommunications services, (ii) to protect you or other carriers from illegal or fraudulent use of, or subscription to, our services or to protect our rights or property, (iii) to provide your call location information in certain specified emergency situations, and (iv) for other legally permissible purposes.
+     _Customer Proprietary Network Information ("CPNI")._  We also want you to be aware that certain information related to your telecommunications services account with us such as to whom, where and when you make calls is CPNI. CPNI is protected by specific federal laws and regulations and as such we are fully committed to comply with such laws and regulations, both through our Web site and in all other respects. Without your consent, we will only share or disclose your CPNI (i) to market to you services or products among the categories of services or products you currently subscribe, (ii) to initiate, render, bill and collect our telecommunications services, (ii) to protect you or other carriers from illegal or fraudulent use of, or subscription to, our services or to protect our rights or property, (iii) to provide your call location information in certain specified emergency situations, and (iv) for other legally permissible purposes.
 
-### Who Has Access to This Information?
+## Who Has Access to This Information?
 
 Except as set forth in this policy or unless we specifically disclose it to you at the time of collection or subsequently obtain your approval, we will not make any personally identifiable information that is gathered on our site available to unaffiliated organizations for commercial purposes unrelated to the business of Cbeyond.
 
 Certain federal, state and local laws or government regulations may require us to disclose personally identifiable information about you. In these circumstances, we will use reasonable efforts to disclose only the information required by law, subpoena or court order to be disclosed.
 
-### Cookies
+## Cookies
 
 Our site may make use of cookies (or a similar technology) to better manage our sites and to assist us in providing you with tailored information and services. A cookie is a tiny element of data that a Web site can send to your browser, which is stored on your hard drive so that we can do things such as better serve you as you navigate through our site or when you return. You may set your browser to notify you or decline the receipt of a cookie; however, certain features of our sites or services may not function properly or be available if your browser is configured to disable cookies.
 
-### E-Mail
+## E-Mail
 
 Cbeyond' policy is not to read or disclose private e-mail communications that are transmitted using Cbeyond services except to respond, if directed to us, or as required to operate the service, as set forth in the terms of use and policies established from time to time governing the service, or for other legally permissible purposes.
 
-### Security
+## Security
 
 Cbeyond maintains physical, electronic and procedural safeguards designed to protect the confidentiality of personally identifiable information provided by you on and through our Web site. For example, unique passwords or user identifications are required to access a number of our Web site services. In addition to requiring the use of a unique password or user identification, all payments processed through our Web site require certain personally identifiable information provided by you to be sent in a "Secure Session" using Secure Socket Layer encryption technology. This technology is designed to encrypt - or scramble - your financial or credit card account information to help prevent unauthorized parties from reading it. We seek to regularly test and update our technology to help protect your personally identifiable information. However, such precautions do not guarantee that our Web site is invulnerable to all security breaches. Cbeyond makes no warranty, guarantee, or representation that use of our Web site is protected from all viruses, security threats or other vulnerabilities and that your information will always be secure. When doing business with others, such as advertisers to whom you can link from our site, you should consider the separate security and privacy policies of those other sites.
 
-### Your Use of Passwords Or User Identifications
+## Your Use of Passwords Or User Identifications
 
 Except as specifically permitted by this privacy policy or other instructions regarding the online services you may not, and will ensure that you do not, lend, give, or otherwise disclose any passwords or user identifications to any unauthorized person, or permit any unauthorized person to use your accounts or related passwords or user identifications. Any loss of control of passwords or user identifications may result in the loss of control over personally identifiable information. You will be responsible for any actions taken on your behalf or any person using your passwords or user identifications. If passwords or user identifications have been compromised for any reason, then you should immediately change such password or user identification or notify us so that we may issue a new password or user identification.
 
-### Discussion Areas
+## Discussion Areas
 
 This site may provide discussion areas so that customers and visitors can communicate freely and share ideas. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when disclosing such information. These discussion areas may be monitored by us or law enforcement officials as appropriate occasionally in order to enhance the safety and respect for all of our customers and visitors, and off-topic, unlawful or otherwise inappropriate content of materials of which we become aware may or may not be removed from the site during the course of such monitoring. However, Cbeyond is not responsible for any information posted or remaining on these discussion areas.
 
-### Links to Other Sites
+## Links to Other Sites
 
 For the convenience of our visitors and customers, this Web site may contain links to other sites. While we generally try to link only to sites that share similar high standards and respect for privacy, we have no responsibility or liability for the content, products or services offered, independent actions, or the privacy and security practices employed by these other independent sites. We encourage you to ask questions and review the applicable privacy policies before disclosing information to third parties on these independent sites.
 
-### Updates or Revisions to Personally Identifiable Information
+## Updates or Revisions to Personally Identifiable Information
 
 Your use of certain of our online services may permit you to update personally identifiable information from our database by accessing our web site. If you remove certain information from your account, we will only retain copies of such information as are necessary for us to comply with governmental orders, resolve disputes, troubleshoot problems, enforce any agreement you have entered into with us and as otherwise reasonably necessary.
 
-### If You Do Not Wish to Disclose Your Information
+## If You Do Not Wish to Disclose Your Information
 
 If you use our online services, then you have voluntarily consented to the collection and use of your personally identifiable information as described in this privacy policy and other written documentation provided to you regarding the services. If you do not want us to use your information as described herein, please contact us at customer.care@cbeyond.net. However, without the use of your information, we may not be able to provide you the services or the same quality of services you request.
 
-### Children's Privacy
+## Children's Privacy
 
 We do not intend for this site to be used by children under the age of 13, nor do we seek to collect information about children under the age of 13. If you are under the age of 13, please do not provide us with information and promptly exit this site. We encourage parents or legal guardians to talk with their children about the potential risks of providing information over the Internet.
