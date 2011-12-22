@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usenix.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623045921id_/http%3A//www.usenix.org/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usenix.org privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222024548id_/http%3A//www.usenix.org/membership/privacy.html) for the most accurate reproduction.*
 
 # USENIX - USENIX/SAGE Membership - Privacy Statement
 
@@ -17,6 +17,8 @@ Commercial information (such as credit card numbers) is obtained using our secur
 ### Electronic Communication
 
 The USENIX Association does not rent or sell email addresses. USENIX may use email addresses to contact members to answer member questions or to acknowledge the receipt of membership applications and other orders, to send membership renewal notices, and to send occasional announcements about USENIX events to those members who have not opted out of receiving such announcements. These announcements are short, straightforward messages which contain pointers to online resources where members can explore the information more fully. 
+
+For conference registration, our third-party vendor, Cvent, uses Web beacons in email to improve our communications with you. If you use HTML-enabled email, they track when, how often, and where you open these emails. If you would like to opt out of tracking, turn off HTML display of email for cvent.com. 
 
 ### Postal Mail
 
