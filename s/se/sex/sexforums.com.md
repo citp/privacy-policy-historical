@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexforums.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210225557id_/http%3A//www.sexforums.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexforums.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222170032id_/http%3A//www.sexforums.com/static/privacy.html) for the most accurate reproduction.*
 
 # SexForums Privacy Policy
 
@@ -12,7 +12,7 @@ Children under eighteen years of age are prohibited from using Our Websites or a
 
 ** 2\. Information We Collect**
 
-During the registration process for any of the Websites, you may provide us with certain Personal Information  (" _PI_ ") including, but not limited to, your name, address, email address, and address.
+During the registration process for any of the Websites, you may provide us with certain Personal Information  (" _PI_ ") including, but not limited to, your name, address, email address, and IP address.
 
 Our Websites also use "cookies" to store and sometimes track information to make your online experience easier and more personalized. Cookies are small pieces of data that are stored by a user's web browser on the user's hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user's transactions on related webpages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet.
 
@@ -24,9 +24,9 @@ If you send us personal correspondence, such as emails or letters, or if other W
 
 ** 3\. Our Use of Your Personal Information ** 
 
-We use your PI internally to improve our marketing efforts, analyze Website usage, improve our content and product offerings and customize Our Websites' content and layout. We believe these uses allow us to improve Our Websites and better tailor your online experience.
+We use your PI internally to analyze Website usage, improve our content and product offerings, allow personalized content, help categorize members, improve our marketing efforts, and customize Our Websites' content and layout. We believe these uses allow us to improve Our Websites and better tailor your online experience.
 
-We may also use your PI to deliver information that, in some cases, is targeted to your interests, such as banners and promotions.
+We may also use your PI to deliver information that, in some cases, is targeted to your interests, such as categorizing members or content who have similar interests or are from similar geographies, or personalize banners and promotions.
 
 We also send you periodic informational updates via email.
 
