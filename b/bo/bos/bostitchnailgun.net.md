@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bostitchnailgun.net privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318213232id_/http%3A//bostitchnailgun.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostitchnailgun.net privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222132122id_/http%3A//bostitchnailgun.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bostitch Nail Gun
 
