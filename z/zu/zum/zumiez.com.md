@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zumiez.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120074441id_/http%3A//www.zumiez.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zumiez.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222025834id_/http%3A//www.zumiez.com/help/privacy) for the most accurate reproduction.*
 
-# Zumiez Privacy & Security Policy
+# Online Privacy & Security Policy at Zumiez
 
 Privacy and Security Policy
 
@@ -152,6 +152,8 @@ A "cookie" is the term we use to describe a small data file that many Web sites 
 
 
 The use of cookies is an industry standard, you'll find them at most major Web sites. We never save passwords or credit card information in cookies. If you prefer not to receive cookies from Zumiez.com, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence, or you can also refuse all cookies by turning them off in your browser.
+
+Third-Party Web Beacons: We use third-party web beacons to help analyze where visitors go and what they do while visiting our website. We use anonymous information about your visits to this and other websites in order to improve our products and services of interest to you.
 
 As part of our overall marketing program Zumiez will use cookies and other tracking technologies as part of our advertising re-targeting program. These cookies enable our re-targeting partners to show you advertisements for our site when you visit other sites in 3rd party networks.
 
