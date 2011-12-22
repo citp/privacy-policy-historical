@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guildlaunch.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622195918id_/http%3A//www.guildlaunch.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildlaunch.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222012303id_/http%3A//www.guildlaunch.com/about/privacy_policy) for the most accurate reproduction.*
 
 # Guild Launch Privacy Policies, Game Guild Hosting Site - Guild Launch Guild Hosting & Websites for MMORPG & FPS Guilds, Clan, Kinships & More
 
