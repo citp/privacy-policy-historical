@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careonecredit.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212121250id_/http%3A//www.careonecredit.com/aboutus/privacysecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careonecredit.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222040522id_/http%3A//www.careonecredit.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -8,7 +8,7 @@ Effective Date: 8/25/2010
 
 This CareOne Website is owned and hosted by 3C Incorporated ("3Ci" or "we") for us and for licensees of the CareOneSM service mark. We are located at 8930 Stanford Boulevard, Columbia, Maryland 21045 and can be contacted via email at [customerservice@careonecredit.com](mailto:customerservice@careonecredit.com). We respect the privacy of the individuals accessing/using ("Users") this Website. 
 
-We license the CareOneSM service mark to these debt relief agencies ("CCA's") that offer the CareOne® brand of credit counseling services:
+We license the CareOneSM service mark to these debt relief agencies ("CCA's") that offer the CareOneSM brand of credit counseling services:
 
   * Consumer Education Services, Inc. (CESI)  
 3700 Barrett Drive   
@@ -16,20 +16,20 @@ Raleigh, NC 27609-7248
 1-888-419-2374  
 cesisupport@careonecredit.com  
 CESI also administers Clarion Credit Management and Debt Management Group accounts  
-View the Consumer Education Services, Inc. (CESI) [Privacy Policy](https://web.archive.org/web/20101212121250id_/http%3A//www.careonecredit.com/aboutus/orgspecificprivacypolicy.aspx?o=6).  
+View the Consumer Education Services, Inc. (CESI) [Privacy Policy](https://web.archive.org/web/20111222040522id_/http%3A//www.careonecredit.com/about-us/orgspecificprivacypolicy.aspx?o=6).  
 
   * CareOne Services, Inc.  
 P.O. Box 6971  
 Columbia, MD 21045-6971  
 1-800-227-3123  
 customercare@careonecredit.com  
-View the CareOne Services, Inc. [Privacy Policy](https://web.archive.org/web/20101212121250id_/http%3A//www.careonecredit.com/aboutus/orgspecificprivacypolicy.aspx?o=12). 
+View the CareOne Services, Inc. [Privacy Policy](https://web.archive.org/web/20111222040522id_/http%3A//www.careonecredit.com/about-us/orgspecificprivacypolicy.aspx?o=12). 
   * CareOne Services of California, Inc.   
 8880 Rio San Diego Drive, Suite 800,  
 San Diego, CA 92108  
 1-800-227-3123  
 customercare@careonecredit.com  
-View the CareOne Services, Inc. [Privacy Policy](https://web.archive.org/web/20101212121250id_/http%3A//www.careonecredit.com/aboutus/orgspecificprivacypolicy.aspx?o=17). 
+View the CareOne Services, Inc. [Privacy Policy](https://web.archive.org/web/20111222040522id_/http%3A//www.careonecredit.com/about-us/orgspecificprivacypolicy.aspx?o=17). 
 
 
 
@@ -37,7 +37,7 @@ We also license the CareOneSM service mark to the following national law firm wh
 
   * Persels & Associates  
 29 West Susquehanna Avenue  
-Suite 600  
+Suite 400  
 Towson, MD 21204  
 1-866-939-PALAW (7252)  
 View the Persels & Associates [Privacy Policy](http://www.perselsandassociates.com/privacy_policy.html).  
@@ -127,7 +127,7 @@ If you prefer that we do not send you email communications, you may opt-out of t
 
 Personally identifiable information about you as well as email address will be disclosed to third parties only as described in the Gramm Leach Bliley Act Privacy Notice of the CCA that will administer the services provided to you.
 
-To review the full Privacy Notice of each Counselor for all of the details and directions on how to "opt out" of information sharing by the CCA's click [here](http://www.careonecredit.com/aboutus/serviceproviders.aspx). 
+To review the full Privacy Notice of each Counselor for all of the details and directions on how to "opt out" of information sharing by the CCA's click [here](http://www.careonecredit.com/about-us/service-providers.aspx). 
 
 3Ci does not share, sell, rent or trade Personally Identifiable Information with third parties for their promotional purposes.
 
@@ -143,7 +143,7 @@ Notwithstanding the above commitments to protect your information (including Per
 
 ## WHAT CHOICES DO I HAVE REGARDING THE COLLECTION, DISCLOSURE AND DISTRIBUTION OF PERSONALLY IDENTIFIABLE INFORMATION?
 
-You may "opt out" of sharing your Personally Identifiable Information with affiliated and non-affiliated companies as explained in the Privacy Notices of the CCA's. To review the full Privacy Notice of each CCA for all of the details and directions on how to "opt out" click [here](https://web.archive.org/aboutus/serviceproviders.aspx). 
+You may "opt out" of sharing your Personally Identifiable Information with affiliated and non-affiliated companies as explained in the Privacy Notices of the CCA's. To review the full Privacy Notice of each CCA for all of the details and directions on how to "opt out" click [here](http://mycareone.careonecredit.com/MyProfile/Subscriptions.aspx). 
 
 Persels & Associates does not divulge your Personally Identifiable Information to anyone without your consent, except in very limited circumstances that require an attorney to divulge confidential information. In most jurisdictions, this is limited to a reasonable belief by the attorney that his or her client is about to commit an act that will result in death or serious bodily injury to another human being. To view Persels & Associates' full Privacy Notice click View the Persels & Associates [here](http://www.perselsandassociates.com/privacy_policy.html).
 
@@ -181,6 +181,6 @@ If we decide to change this Privacy Policy or email practices, we will post thos
 
 ## WHO DO I CONTACT IF I HAVE ANY PRIVACY QUESTIONS?
 
-If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact our Privacy Coordinator by [Clicking Here](https://web.archive.org/web/20101212121250id_/http%3A//www.careonecredit.com/help/emailus.aspx?emailTo=customercare@careonecredit.com&subject=Privacy%20Policy%20Coordinator).
+If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact our Privacy Coordinator by [Clicking Here](https://web.archive.org/web/20111222040522id_/http%3A//www.careonecredit.com/help/emailus.aspx?emailTo=customercare@careonecredit.com&subject=Privacy%20Policy%20Coordinator).
 
 Print 
