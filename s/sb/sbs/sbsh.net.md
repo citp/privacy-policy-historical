@@ -1,68 +1,82 @@
-> *The following text is extracted and transformed from the sbsh.net privacy policy that was archived on 2011-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110202152317id_/http%3A//www.sbsh.net/corporate/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbsh.net privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222230021id_/http%3A//www.sbsh.net/privacy-policy) for the most accurate reproduction.*
 
-# Corporate Information: Private Policy
+# Password Manager, Password Management & Form Filling Privacy Policy
 
-This Privacy Policy explains how SBSH.net may collect, use and aggregate personal information about you on www.sbsh.net. SBSH.net respects your personal privacy and is committed to protecting it.
+This Privacy Policy explains how SBSH Software may collect, use and aggregate personal information about you on www.sbsh.net. SBSH Software respects your personal privacy and is committed to protecting it.
 
-**Your IP address**
+### Your IP address
 
-For each visitor to the SBSH.net site, SBSH.net servers automatically collect information about which pages are visited and the IP address or domain name of visitors. We use your IP address to help diagnose problems with our server, and to administer our web site. Your IP address is not linked to personally identifiable information but is used to gather broad demographic information. This information helps us tailor and improve your experience when visiting our web site.
+For each visitor to the SBSH.net site, SBSH.net servers automatically collect information about which pages are visited and the IP address or domain name of visitors. We use your IP address to help diagnose problems with our server, and to administer our web site. Your IP address is not linked to personally identifiable information but is used to gather broad demographic information. This information helps us tailor and improve your experience when visiting our web site. 
 
-**Information we collect**
+### What information do we collect?
 
-General - the user can opt-in email address information for newsletter subscription, mobile device model and platform details. This info is collected to provide more accurate web-site navigation experience.
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
 
-**Cookies**
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-SBSH.net may place a "cookie" on the browser of your computer. Cookies are pieces of information that a web site transfers to your computer for record-keeping purposes. The use of cookies is common in the internet industry and used by many of the major web sites to provide useful features to their customers. The cookie itself does not contain any personally identifying information, but may be used to tell when your computer has contacted the SBSH.net site.
+### What do we use your information for?
 
-SBSH.net use the information for editorial purposes and for other purposes such as delivery of features, so that SBSH.net can customize delivery of information specific to your interests without compromising privacy. Our main use of cookies is to store your mobile device model and platform details in order to provide accurate navigation experience for our users and automatically present content that match your device of selection.
+Any of the information we collect from you may be used in one of the following ways:
 
-**Links**
+  * To personalize your experience - Your information helps us to better respond to your individual needs.
+  * To improve our website - We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * To improve customer service - Your information helps us to more effectively respond to your customer service requests and support needs.
+  * To process transactions - Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * To administer a contest, promotion, survey or other site feature
+  * To send periodic emails - The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-This site contains links to other sites. SBSH.net is not responsible for the privacy practices or the content of such Web sites, including any sites that may indicate a special relationship or partnership with SBSH.net (such as co-branded pages and "powered by" relationships) or the sites of SBSH.net advertisers that you go to by clicking on a banner ad on the SBSH.net site. SBSH.net does not disclose unique identifiers to those responsible for the linked sites. The linked sites, however, may collect personal information from you when you link to their site. This collecting of information is not subject to SBSH.net's control. To ensure protection of your privacy, always review the privacy policy of the sites you visit by linking from our Web Site.
 
-**Security**
 
-This site has security measures in place to protect against the loss, misuse and alteration of the information under our control. For example, credit-card information provided by a visitor is made available only to bonded billing personnel or technical staff responsible for server security.
+### How do we protect your information?
 
-**Newsletters**
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-SBSH.net offers a variety of opt-in e-mail newsletters. When subscribing, visitors are asked to submit information regarding their name and e-mail address. You always may opt-out of receiving future mailings from SBSH.net. To unsubscribe from our newsletters, go to http://www.SBSH.net/newsletter/unsubscribe. To remove your personally identifiable information from our databases, send e-mail to support@SBSH.net explaining your request.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-**Your role in protecting your privacy**
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers. 
 
-If you share a computer terminal with others, you may want to consider establishing an anonymous e-mail account. In this way, e-mails that you receive from SBSH.net, such as password reminders, will be seen only by you. If you access SBSH.net through an e-mail account maintained by your employer, please note that it is possible that your employer may monitor your e-mail communications.
+### Do we use cookies?
 
-**Notification of changes**
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-This Privacy Statement may be revised over time as new features are added to SBSH.net or as internet security and privacy standards evolve. We will post those changes prominently so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. We do, however, recommend that you read this Privacy Statement each time you use SBSH.net, in case you missed our notice of changes to the Privacy Policy.
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-**Notification of changes**
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service. 
 
-This Privacy Statement may be revised over time as new features are added to SBSH.net or as internet security and privacy standards evolve. We will post those changes prominently so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. We do, however, recommend that you read this Privacy Statement each time you use SBSH.net, in case you missed our notice of changes to the Privacy Policy.
+### Do we disclose any information to outside parties?
 
-**Correcting and updating information**
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
-SBSH.net also permits you to correct or update personally identifiable information that you have previously provided to us. To do so, submit the changes directly through the site feature in question or send e-mail to: [support@sbsh.net](mailto:support@sbsh.net) indicating the information that you wish to be corrected or updated.
+### Third party links
 
-**Your acceptance of these terms**
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
 
-By using this site, you signify your acceptance of the terms of the SBSH.net Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the SBSH.net site and exit the site immediately. Your continued use of the SBSH.net site following the posting of changes to these terms will mean that you accept those changes.
+### California Online Privacy Protection Act Compliance
 
-**Contacting us**
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. 
 
-If you have any questions about this privacy policy, the practices of the SBSH.net site, or your dealings with SBSH.net, you can contact us at:
+### Childrens Online Privacy Protection Act Compliance
 
- _Mailing Address_
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
 
-SBSH Mobile Software  
-Zichron Sara 35,  
-Rishon Le Zion, 75762  
-ISRAEL
+### Online Privacy Policy Only
 
- _Email Addresses_
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-Support team: [support@sbsh.net](mailto:support@sbsh.net)  
-Corporate information: [corp@sbsh.net](mailto:corp@sbsh.net)  
-Press and media relations: [press@sbsh.net](mailto:corp@sbsh.net)
+### Your Consent
+
+By using our site, you consent to our privacy policy. 
+
+### Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. This policy was last modified on 21/3/2011. 
+
+### Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below.  
+[http://www.sbsh.net](http://www.sbsh.net/)
+
+Zichron Sara 35  
+Rishon Le Zion, Israel 75762  
+ISRAEL  
+support@sbsh.net 
