@@ -1,91 +1,138 @@
-> *The following text is extracted and transformed from the ashford.edu privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627083556id_/http%3A//www.ashford.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashford.edu privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222212339id_/http%3A//www.ashford.edu/privacy.htm) for the most accurate reproduction.*
 
-# Ashford University – Privacy Policy
+# UPDATED Privacy Policy
 
-### Ashford University Privacy Policy
+[](https://web.archive.org/index.htm)
 
-At Ashford University, we take your personal privacy seriously. This document describes the categories of information we gather via the website and for what purpose, outlines how that information may be shared with others, and identifies the categories of persons with whom it may be shared. By registering with Ashford University or by using the Ashford University Site, you accept and agree to this Privacy Policy and the [Ashford University Terms and Conditions of Usage](https://web.archive.org/web/20110627083556id_/http://ashford.edu/privacy/terms.php).
+  * [Apply Now](https://oap.ashford.edu/)
+  * [Student Login](https://student.ashford.edu/secure/Student/loginstu.aspx)
 
-This Privacy Policy applies to the Internet website of Ashford University at www.ashford.edu. This Privacy Policy also applies to other affiliated websites that are owned by Ashford University and made available to students in the matriculation process and after they have enrolled with Ashford University. All such sites will be collectively referred to in this Privacy Policy as the "Ashford University Site" or "Site". 
 
-This Privacy Policy does not apply to information collected at any site that is not owned by Ashford University, including any website reached through a link on any Ashford University Site. By way of example only, a link on Ashford University Site takes a viewer to an online bookstore that is owned and operated by EdMap, not Ashford University. The name and logo of Ashford University may appear on that online bookstore website in order to notify students that the bookstore sells certain materials specified for Ashford University's curriculum. Ashford University does not have access to information collected through that online bookstore. This Privacy Policy does not apply to information collected through that online bookstore. The privacy policy for the EdMap online bookstore can be accessed by clicking [here](http://www.edmapbookstore.com/storefront/showHelpTopic/ASHSP/7).
 
-### Effective date
+  * [About Explore Ashford University.](https://web.archive.org/about.htm)
+    * ## Thrive with us.
 
-This Privacy Policy was last updated on July 22, 2009.
+You've found Ashford University, a vibrant community that combines a traditional college campus with effective learning online. Here you'll experience a quality online education infused with history. 
 
-### FERPA
+  * [Degrees Find the best program for you.](https://web.archive.org/degrees.htm)
+    *   * [Admissions Apply, transfer, and pay for your degree.](https://web.archive.org/admissions.htm)
+    * ## Set yourself up to succeed.
 
-The Family Educational Rights and Privacy Act ("FERPA") and our own FERPA compliance policy govern the educational records of Ashford University students. This Privacy Policy, and, to the extent applicable, FERPA govern the collection and use of information through the Ashford University Site. Please note that FERPA is applicable to information you provide only if you are or become a student of Ashford University. FERPA permits the disclosure of "directory information." Ashford University may use and disclose directory information that you provide, in the manner provided by this Privacy Policy for the use and sharing of personally identifiable information. "Directory information" means your name, address, telephone listing, electronic mail address, photograph, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, grade level, enrollment status (e.g., undergraduate or graduate, full-time or part time), degrees, honors and awards received, class rosters within the classroom, and the most recent previous educational agency or institution you attended. If you do not want such information about you to be disclosed, please contact us at [student.records@ashford.edu](mailto:student.records@ashford.edu). Please note that you may opt out of disclosure of this information only if you are now or become a student of Ashford University.
+It can seem overwhelming to enroll in school and finance your education. But have no fear – from transfer credits to financial aid, your team of advisors will be there for you every step of the way. 
 
-For the full FERPA policy, please refer to the Ashford University Academic Catalog.
+Of course, it's best to start by speaking with your very own Admissions Counselor, who will guide you through the steps and answer your every question.
 
-### What personal information do we collect at this site?
+  * [Student Services Including health and wellness.](https://web.archive.org/student_services.htm)
+    *   * [Athletics Men's & women's sports programs.](https://web.archive.org/athletics.htm)
+    * ## Go Saints!
 
-Our primary aim in collecting personal information is to provide you with the best customer service and experience possible. We collect personal information that you voluntarily provide to us through the Site when you sign up to receive more information about our programs or otherwise contact us through the forms available on the Site. We also collect information during the application and matriculation process, and, if you are enrolled as a student, when providing education to you or when you use pages of the Site made available to you while you are a student. By "personal information," we are referring to (1) data that uniquely identifies you or permits us to contact you, such as your name, email address, mailing address, phone number; (2) other information that we collect through the Ashford University Site and combine and maintain in combination with that personally identifiable information, such your desired campus, area of interest, current school and highest level of education; and (3) "directory information," as described above. We collect and maintain the following categories of personally identifiable information: (A) information collected from you when you complete online forms or send us emails, (B) information obtained from your transactions with Ashford University such as, without limitation, your applications, inquiries, and online education, and (C) information obtained from third parties about your transactions with them, such as degree-granting institutions, teaching certification institutions and companies that provide financial aid assistance. This Privacy Policy does not apply to information collected through means other than the Ashford University Site. 
+Athletics are an essential piece of the Ashford experience. As a student on campus in Clinton, Iowa, you have the opportunity to play, compete, and win! 
 
-### How does Ashford University use and share personal information?
+Ashford University's Saints compete as members of the Midwest Collegiate Conference (MCC), which includes nine regional colleges and universities. 
+
+  * [Military Duty. Honor. Education.](https://web.archive.org/military.htm)
+    * ## Duty.Honor.Education
+
+You make sacrifices for our nation. Fortunately, education doesn't have to be one of them. 
+
+Meet your personal corps of advisors – an online community that enables you to study anywhere in the world. 
+
+Deployment doesn't mean you have to stop learning. Either you or your spouse can request a break and pick up where you left off when you return. 
+
+Launch your education. Talk with an Admissions Counselor today.
+
+  * [Community News, events, and success stories.](https://web.archive.org/community.htm)
+    * 
+
+
+At Ashford University, we take your personal privacy seriously. This document describes the categories of information we gather via the website and for what purpose, outlines how that information may be shared with others, and identifies the categories of persons with whom it may be shared. By registering with Ashford University or by using the Ashford University Site, you accept and agree to this Privacy Policy and the [Ashford University Terms and Conditions of Usage](https://web.archive.org/terms.htm).
+
+This Privacy Policy applies to the Internet website of Ashford University at [www.ashford.edu](http://www.ashford.edu/). This Privacy Policy also applies to other affiliated websites that are owned by Ashford University and made available to students in the matriculation process and after they have enrolled with Ashford University, including sites available to students enrolled in Ashford University, including but not limited to the Student Portal, class discussion forums, Constellation and other Ashford University online resources. All such sites will be collectively referred to in this Privacy Policy as the "Ashford University Site" or "Site".\
+
+This Privacy Policy does not apply to information collected at any site that is not owned by Ashford University, including any website reached through a link on any Ashford University Site. Third-party websites are generally those that have a URL or web address other than ashford.edu.  For example, a link on the Ashford University Site takes a viewer to an online bookstore that is owned and operated by EdMap, not Ashford University. Other examples of third party websites accessible to the general public or enrolled students through the Ashford University Site include but are not limited to: the Official Online Store; Ashford University’s pages on social networking and media sites such as youtube.com, facebook.com, twitter.com and linkedin.com; the National Student Clearinghouse website for ordering transcripts; SallieMae.com or the websites of other companies that provide financial aid services; career services websites; the WritingReviser, Turnitin and RefWorks websites; and the numerous library databases Ashford University makes available to students. The name and logo of Ashford University may appear on third-party sites in order to notify students that the site contains information or materials specified for Ashford University's students or curriculum, but this Privacy Policy does not apply to information collected through the third-party sites. You are responsible for reviewing and understanding the privacy policies (if any) of any third-party websites you may access through the Ashford University Site. 
+
+## Effective date
+
+This Privacy Policy was last updated on October 20, 2011.
+
+## FERPA
+
+The Family Educational Rights and Privacy Act ("FERPA") and our own FERPA compliance policy govern the educational records of Ashford University students. This Privacy Policy, and, to the extent applicable, FERPA govern the collection and use of information through the Ashford University Site. Please note that FERPA is applicable to information you provide only if you are or become a student of Ashford University. FERPA permits the disclosure of "directory information." Ashford University may use and disclose directory information that you provide, in the manner provided by this Privacy Policy for the use and sharing of personally identifiable information. "Directory information" means your name, address, telephone listing, electronic mail address, photograph, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, grade level, enrollment status (e.g., undergraduate or graduate, full-time or part time), degrees, honors and awards received, class rosters within the classroom, and the most recent educational agency or institution you attended. If you do not want such information about you to be disclosed, please contact us at [student.records@ashford.edu](mailto:student.records@ashford.edu). Please note that you may opt out of disclosure of this information only if you are now or become a student of Ashford University.
+
+For Ashford University’s full FERPA policy, please refer to the Ashford University Academic Catalog?
+
+## What personal information do we collect at this site?
+
+Our primary aim in collecting personal information is to provide you with the best customer service and experience possible. We collect personal information that you voluntarily provide to us through the Site when you sign up to receive more information about our programs or otherwise contact us through the forms or “chat” function available on the Site. We also collect information during the application and matriculation process, and if you are enrolled as a student, when providing educational services to you or when you use pages of the Site made available to you while you are a student. By "personal information," we are referring to (1) data that uniquely identifies you or permits us to contact you, such as your name, email address, mailing address, phone number; (2) other information that we collect through the Ashford University Site and combine and maintain in combination with that personally identifiable information, such as your desired campus, area of interest, educational background and information you provide for the purpose of obtaining financial aid or financial aid information; and (3) "directory information," as described above. We collect and maintain the following categories of personally identifiable information: (A) information collected from you when you complete online forms, send us emails, or contact us through the Site’s chat feature, (B) information obtained from your transactions with Ashford University such as, without limitation, your financial transactions and financial aid applications, your academic applications and inquiries, your participation in online classes, and your online education, and (C) information obtained from third parties about your transactions with them, such as degree-granting institutions, teaching certification institutions and companies that provide financial aid assistance. This Privacy Policy does not apply to information collected from third parties or through means other than the Ashford University Site. 
+
+## How does Ashford University use and share personal information?
 
 We may use and share your personal information in the following ways:
 
-(1) We may use your personal information to contact you or send newsletters, updates and/or special offers to you, and may share this information with contractors that help us to contact you. 
+  1. We may use your personal information to contact you or send newsletters, updates and/or special offers to you, and may share this information with contractors that help us to contact you. 
+  2. We will use your personal information to determine your student status during the enrollment process and may share this information with governmental authorities and their contractors, with degree-granting institutions and teaching certificate granting institutions and their contractors, and with our contractors that help us to communicate with such governmental agencies, institutions and their contractors. 
+  3. We may provide your personal information to our affiliated schools, including the University of the Rockies, if the information you provide indicates to us that its programs or classes may be of interest to you. 
+  4. We may share your personal information with companies and individuals that provide support services to us or to enrolled students, such as contractors that send e-mails or direct mail for Ashford University, maintain or update mailing lists, analyze data, provide marketing/sales assistance, provide customer service for the Site, provide services to enrolled students, or carry out other duties relating to the operation of our Site. 
+  5. We may use and share your personal information with governmental authorities, other educational institutions and their contractors to comply with FERPA reporting regulations, or as otherwise permitted or required by FERPA. 
+  6. We may use and share your personal information with third parties and governmental agencies to comply with a legal requirement or court order. 
+  7. We may use and share your personal information to work with partner firms to reduce fraud risk, and in the case of students enrolled with Ashford University, we may share your personal information as Ashford deems necessary to enforce Ashford University’s policy on academic integrity. 
+  8. We may use your personal information to protect the rights, property or safety of Ashford University, our users, other students in our classes, employees, contractors or agents or others and would thereby share your information with such parties. 
+  9. We may use your personal information to enforce our terms of service. 
+  10. We might sell or buy websites, divisions, companies or assets or merge with other companies, and your personal information may be among the business assets transferred to or shared with the persons or entities involved in such sales or purchases. 
 
-(2) We will use your personal information to determine your student status during the enrollment process and may share this information with governmental authorities and their contractors, with degree-granting institutions and teaching certificate granting institutions and their contractors, and with our contractors that help us to communicate with such governmental agencies, institutions and their contractors.
 
-(3) We may provide your personal information to our affiliated schools, including the University of the Rockies, if the information you provide indicates to us that its programs or classes may be of interest to you. 
-
-(4) We may share your personal information with companies and individuals that provide support services to us, such as contractors that send e-mails or direct mail for Ashford University, maintain or update mailing lists, analyze data, provide marketing/sales assistance, provide customer service for the Site, or carry out other duties relating to the operation of our Site. 
-
-(5) We may use and share your personal information with governmental authorities, other educational institutions and their contractors to comply with FERPA reporting regulations, or as otherwise permitted or required by FERPA. 
-
-(6) We may use and share your personal information with third parties and governmental agencies to comply with a legal requirement or court order. 
-
-(7) We may use and share your personal information to work with partner firms to reduce fraud risk. 
-
-(8) We may use your personal information to protect the rights, property or safety of Ashford University, our users, other students in our classes, employees, contractors or agents or others and would thereby share your information with such parties. 
-
-(9) We may use your personal information to enforce our terms of service. 
-
-(10) We might sell or buy websites, divisions, companies or assets or merge with other companies, and your personal information may be among the business assets transferred to or shared with the persons or entities involved in such sales or purchases. 
 
 By using the Ashford University Site, you understand and agree that we may use and share the personal information that you provide in these ways.
 
-### What is Ashford University's practice regarding cookies?
+## What is Ashford University's practice regarding cookies?
 
-Your browser software has a feature called a 'cookie' that stores small amounts of data on your computer about your visit to certain websites. As a user of browser software, you may elect to disable this feature, although doing so may prevent you from using certain features that require cookies. Cookies placed on your computer by Ashford University don't tell Ashford any personally identifiable information about you but instead provide anonymous information that permits Ashford University to track how users navigate our pages, when users return to our sites, and which features are the most popular. 
+Your browser software has a feature called a 'cookie' that stores small amounts of data on your computer about your visit to certain websites. As a user of browser software, you may elect to disable this feature, although doing so may prevent you from using certain features that require cookies. Cookies placed on your computer by Ashford University generally don't provide Ashford with any personally identifiable information about you, but instead provide anonymous information that permits Ashford University to track how users navigate our pages, when users return to our sites, and which features are the most popular. We collect that information using cookies, and we use it to analyze how our Site is used.  We may share that information with other persons or entities who assist us in analyzing or operating the Site.
 
-### What other information does Ashford University collect on this site? 
+## Use of Flash Cookies and HTML5
 
-Like many commercial websites, Ashford University servers monitor and log all web traffic on the Site. These logs contain the IP address and URL from the site you visited just before you visited, the URL of the page you visit upon leaving the Site, if any, and the type of browser and operating system you are using. Statistical information is collected about visitor traffic patterns in order to improve the quality, functionality and usefulness of the Site to our customers. In such cases, the system has no means to identify you personally. We may also create and maintain records of anonymous data collected from cookies and anonymous demographic information that has been aggregated from multiple personally identifiable records such that it is no longer personally identifiable with a particular person (such as aggregate number of inquiries from a particular city, state or zip code). We may share all of the anonymous data described above with our contractors and consultants, other educational institutions, and unaffiliated third parties such as analysts, reporters, governmental authorities and others. 
+Our Site may enable the use of the Adobe Flash Player.  Adobe’s Flash Player is used by the vast majority of websites that offer video and other interactive content. By default, your use of the Adobe Flash Player generates “flash cookies” (also known as “persistent identification elements” or “local shared objects”). Adobe provides a short disclosure about Flash Cookies in its End User License Agreement, stating “Use of the web players, specifically the Flash Player, will enable the Software to store certain user settings as a local shared object on our computer. These settings are not associated with you, but allow you to configure certain settings within the Flash Player.” The Adobe Flash Player (and similar applications) use flash cookies to remember user settings, preferences and usage in a manner similar to the browser cookies referenced above. However, flash cookies can store more information than browser cookies and are managed through a different interface than the one provided by your web browser. You can control the degree to which you accept flash cookies using the management tools in the settings manager for Adobe Flash (<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>). (Users running the Windows operating system can generally view flash cookie files in this folder: \Documents and Settings\\[username]\Application Data\Macromedia\Flash Player. Users running the Apple operating system can generally view flash cookie files in this folder: /users/[username]/Library/Preferences/macromedia/Flash Player. Flash cookies, or LSO files are stored typically with an “.SOL” extension.) If you do not allow flash cookies on your computer, you may not be able to take advantage of certain features of the Site. 
 
-### How does Ashford University protect personal information? 
+HTML is the software language used for building most of the sites on the World Wide Web. Almost all web pages you visit on the Internet are built using HTML code. HTML5 is simply the fifth and latest iteration of this language. HTML5 is a popular standard for presenting content, especially content delivered to mobile devices. Some HTML5 code may allow your responses to advertising and other activities to be monitored across websites, and for such information to be stored on your computer or mobile device and accessed by others you do or have done business with. Solutions that allow users to opt-out of or block this sort of tracking are being developed through browser add-ons and other tools. Ashford University may access user activity information stored through this feature of HTML5
 
-Although we cannot guarantee against any loss, misuse, unauthorized disclosure, alternation or destruction of data, we try to prevent such occurrences. Our servers and databases are protected by firewalls and passwords. In addition, we use Secure Sockets Layer (SSL) software to encrypt data as it travels between your computer and our servers. 
+## What other information does Ashford University collect on this site? 
 
-### Children
+Like many commercial websites, Ashford University servers monitor and log all web traffic on the Site. These logs contain the IP address of the computer or server that you are using to access the Site, the IP address and/or the URL from the website you visited just before you visited our Site, the URL of the page you visit upon leaving the Site, if any, and the type of browser and operating system you are using. Statistical information is collected about visitor traffic patterns in order to improve the quality, functionality and usefulness of the Site to our customers. In such cases, the system has no means to identify you personally. We may also create and maintain records of data collected from cookies and demographic information that has been aggregated from multiple personally identifiable records such that it is no longer personally identifiable with a particular person (for example, the aggregate number of inquiries from a particular city, state or zip code). We may share all of the data described above with our contractors and consultants, other educational institutions, and unaffiliated third parties such as analysts, reporters, governmental authorities and others. We may also share the content of the logs described above in response to a court order, subpoena, or other legal process.
+
+## Special considerations for students enrolled with Ashford University
+
+If you are enrolled in online classes you participate in your courses by actively engaging in online class discussion forums and education sessions. Please understand that any information that is disclosed during an online classroom experience or in the Ashford Café becomes known to others in the class and to Ashford University and its employees and contractors, such as instructors and administrators. We have no control over information exchanged during these online sessions, you should have no expectation that content you post will be private, and you should exercise caution when deciding to disclose your personal information or any other information about yourself or others. The information presented during an online education session reflects the views of the individual users or instructors and does not necessarily reflect the views of Ashford University or any of its affiliates. 
+
+Ashford University may maintain records of information you post to class discussion forums, written communications you make to professors, and written assignments, papers and exam responses you submit to fulfill class or degree requirements (“your content”). The Family Educational Rights and Privacy Act ("FERPA") and Ashford University’s FERPA compliance policy govern the educational records of Ashford University students. For the full FERPA policy, including which records are governed by the policy, please refer to the Ashford University Academic Catalog. Ashford’s use of your content is also governed by the Ashford University Terms and Conditions of Usage, which you accepted and agreed to by using the Site. Other than the content you post to class discussion forums and the Ashford Café, it is not Ashford’s policy to share your content except as permitted or required under FERPA and except as Ashford University deems necessary to enforce Ashford University’s policy on academic integrity. 
+
+In the course of enforcing Ashford University’s policy on academic integrity, employees of Ashford may submit your written assignments to a service designed to ensure originality and detect plagiarism. By enrolling as a student at Ashford University and participating in classes or otherwise meeting degree requirements, you consent to the submission of your written assignments to such services, in accordance with their terms of use and privacy policies.  In particular, you consent to their retention of copies of your written assignments in order to ensure that others do not plagiarize your work.
+
+## How does Ashford University protect personal information? 
+
+Although we cannot guarantee against any loss, misuse, unauthorized disclosure, alternation or destruction of data, we try to prevent such occurrences. Our servers and databases are protected by firewalls and passwords. In addition, we use Secure Sockets Layer (SSL) software to encrypt data as it travels between your computer and our servers.  
+You are responsible for helping to keep your student account secure. You should use appropriate and reasonable practices to keep your account access credentials (including your username, password, and any other names, numbers, or codes used to access resources on or through the Site) secure and never share your account access credentials, including your password with anyone else. Another person who has access to your account access credentials and password may be able to view your personal information, make changes to your personal information or post information and comments to class discussion forums as if that person were you.  
+
+## Children
 
 We do not ever knowingly collect information from children under the age of 18, nor is this Site designed to provide any service to children under the age of 18. If you are under 18, please do not give us any personal information. If you have reason to believe that a child has provided personal information to us, please contact us and we will attempt to remove that information from our databases. 
 
-### Changes to this Privacy Policy
+## Consent to international data processing 
 
-We reserve the right to add to, change, update or modify this Privacy Policy. Any such change, update or modification will be effective without prior notice and immediately upon posting within this area of our website. You should review this Privacy Policy from time to time, to determine if changes have been made. The effective date of the current version of this Privacy Policy is listed at the beginning of the Privacy Policy. 
+This Site is operated in the United States. By providing any information to Ashford University, all users, including, without limitation, users in the member states of the European Union, Canada or elsewhere outside of the United States, represent that they fully understand and consent to this Privacy Policy. Ashford University may transfer your personal information to our contractors located in the United States, Mexico and other countries for the purposes and under the conditions described in this Privacy Policy. By using our Site, participating in any of our services and/or providing us with your information, you consent to the collection, transfer, storage and processing of your information to and in the United States, Mexico or any other country in the world. In addition, you waive any restrictions on such collection, transfer, or storage of your information imposed by the laws of any country other than the United States.
 
-### Conditions of use
+## Changes to this Privacy Policy
 
-This Privacy Policy shall be governed by and construed in accordance with the laws of the State of California, United States of America. By using our Site, you consent to the collection and use of information described above. Your visit and any dispute over privacy are subject to this Privacy Policy and our [Terms and Conditions of Usage](https://web.archive.org/web/20110627083556id_/http://ashford.edu/privacy/terms.php). If you have any concern about privacy related to the Ashford University Site, [please e-mail us](mailto:info@ashford.edu) a thorough description together with information to permit us to contact you, and we will try to resolve your concern. 
+We reserve the right, in our sole discretion, to add to, change, update or modify this Privacy Policy, in whole or in part, at any time. When we amend this Privacy Policy, we will revise the effective date located at the beginning of this Privacy Policy. For changes to this Privacy Policy that we consider to be material, we will place a notice on the Ashford University website ([www.ashford.edu](http://www.ashford.edu/)) by revising the link on the homepage to read substantially as “UPDATED Privacy Policy” for a reasonable amount of time. By providing information to us or using the Site in any way after this Privacy Policy has been revised, you consent and agree to the revised Privacy Policy. The most current version of this Privacy Policy will be available on the Site and will supersede all previous versions of this Privacy Policy. The effective date of the current version of this Privacy Policy is listed at the beginning of the Privacy Policy. 
 
-### Links to other sites
+## Conditions of use
+
+This Privacy Policy shall be governed by and construed in accordance with the laws of the State of California, United States of America. By using our Site, you consent to the collection and use of information described above. Your visit to the Site and any dispute over privacy are subject to this Privacy Policy and our Terms and Conditions of Usage, and if you are a student enrolled with Ashford University, your Enrollment Agreement with Ashford University. If you have any concern about privacy related to the Ashford University Site, please e-mail us a thorough description together with information to permit us to contact you, and we will try to resolve your concern. 
+
+## Links to other sites
 
 The Site may contain now or in the future links to other websites, such as links to online bookstores, degree-granting institutions, teaching certificate institutions, and third parties that may provide services or products to you. We are not responsible for the privacy practices, the content of, or any other actions of such other websites or their owners or operators, such as their practices regarding cookies, information they may collect or information they may share, or whether they may permit advertisers to place and use cookies. You should check the privacy policies at each of those sites. 
 
-### Requesting changes to your information
+## Requesting changes to your information
 
-If you wish to review and request changes to your personal information that we collect through the Site, you may [contact us](mailto:info@ashford.edu) directly. If you want to request us not to send you emails, you may make that request by sending us an email at [student.records@ashford.edu](mailto:student.records@ashford.edu). If you are enrolled with Ashford University, you may also access your personal profile, request changes to your personal information, and request that we not send you emails by logging onto the Ashford Student Portal and selecting the "My Information" option.
+If you wish to review and request changes to your personal information that we collect through the Site, of if you have questions about our privacy practices, you may contact us directly. If you want to request us not to send you emails, you may make that request by sending us an email at [student.records@ashford.edu](mailto:student.records@ashford.edu). If you are enrolled with Ashford University, you may also access your personal profile, request changes to your personal information, and request that we not send you emails by logging onto the Ashford Student Portal and selecting the "My Information" option.
 
-### Online education sessions
-
-During the education process, you may participate in online education sessions. Please understand that any information that is disclosed during an online classroom experience becomes known to others in the class and to Ashford University and its employees and contractors, such as instructors and administrators. We have no control over information exchanged during these online sessions and you should exercise caution when deciding to disclose your personal information or any other information about yourself or others. The information presented during an online education session reflects the views of the individual users or instructors and do not necessarily reflect the views of Ashford University or any of its affiliates.
-
-### Effective Date: July 22, 2009 
-
-[Click here to view our Terms and Conditions of usage](https://web.archive.org/web/20110627083556id_/http://ashford.edu/privacy/terms.php)
+[Click here to view our Terms and Conditions of Usage](https://web.archive.org/terms.htm)
