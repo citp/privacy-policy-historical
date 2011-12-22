@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeansshop.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620074645id_/http%3A//www.jeansshop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeansshop.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222174208id_/http%3A//www.jeansshop.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Notice | JEANSSHOP.com - Levi's® Authorised Shop - Jeans Online Shop
 
@@ -16,4 +16,4 @@ Communication between the Client and the JEANSSHOP.com is always conducted in a 
 
 JEANSSHOP.COM is secured by: 
 
-[](https://www.scanalert.com/RatingVerify?ref=www.jeans-online.pl)
+[](https://www.mcafeesecure.com/RatingVerify?ref=www.jeansshop.com)
