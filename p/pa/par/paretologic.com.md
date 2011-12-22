@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paretologic.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616005054id_/http%3A//www.paretologic.com/company/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paretologic.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222213501id_/http%3A//www.paretologic.com/company/privacy_policy.aspx) for the most accurate reproduction.*
 
 # ParetoLogic - Company - Privacy Policy
 
@@ -10,7 +10,7 @@ When you purchase, download trial or evaluation versions, or register ParetoLogi
 
 Any information that you post to a chat room, public bulletin or forum is available to all users of that site. ParetoLogic cannot control, nor is it responsible for the use, disclosure, or dissemination of such information by any third parties.
 
-## Web Site Usage 
+## Web Site Usage
 
 We may automatically collect IP addresses and Web site usage information when you access our online services. This information helps us evaluate how our visitors navigate our sites on an aggregate basis, including but not limited to the number and frequency of visitors, length of visits, etc.
 
@@ -25,7 +25,7 @@ We may use information collected in the following ways:
   * To send email notifications about new, existing, enhanced products or services.
   * To send information on special offers, or to obtain your feedback to help enhance existing features or provide added products and services.
   * To enable us to personalize content, advertising and promotions based on preferences, needs, suggestions, or recommendations.
-  * To provide advance notice of termination of a trial period or an opportunity to extend a trial period, or advance notice of expiration of your software license. 
+  * To provide advance notice of termination of a trial period or an opportunity to extend a trial period, or advance notice of expiration of your software license.
 
 
 
