@@ -1,15 +1,25 @@
-<!--The following is the downloaded HTML source of the auction.co.uk privacy policy that was archived on 2011-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110603064854id_/http%3A//www.allsop.co.uk/253/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the auction.co.uk privacy policy that was archived on 2011-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111223004214id_/http%3A//www.allsop.co.uk/253) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#" lang="en" xml:lang="en"><head>
+    
+    
+    <meta name="description" content="Allsop is an independent property consultancy with a market-leading reputation for high quality service and integrity.   To many people we are best-known as the UK’s largest and most successful property auction house but our reach is considerably wider, as can be seen in the various sections of this website.">
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-    <title>Privacy Policy</title>
-    <link rel="shortcut icon" href="/img/favicon.ico">
+    <meta property="og:description" content="Allsop is an independent property consultancy with a market-leading reputation for high quality service and integrity.   To many people we are best-known as the UK’s largest and most successful property auction house but our reach is considerably wider, as can be seen in the various sections of this website.">
+    <meta property="fb:admins" content="686760620">
+    <meta property="og:type" content="website">
+
+            <meta property="og:image" content="http://www.allsop.co.uk/img/allsop_logo.jpg">
+    
+    <title>Allsop  - Privacy Policy</title>
+    <link rel="shortcut icon" href="http://www.allsop.co.uk/img/favicon.ico">
     <!-- Framework CSS -->
     <link rel="stylesheet" href="/css/blueprint/screen.css" type="text/css" media="screen, projection">
     <link rel="stylesheet" href="/css/blueprint/print.css" type="text/css" media="print">
+    <link rel="stylesheet" href="/css/ui-lightness/jquery-ui-1.8.14.custom.css" type="text/css">
     <!--[if lt IE 8]><link rel="stylesheet" href="/css/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
 
     <!-- CSS -->
@@ -21,186 +31,72 @@
     <![endif]-->
 
     <!-- JAVASCRIPT -->
-    <script type="text/javascript" src="/js/jquery-1.4.3.min.js"></script>
+    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="/js/jquery-1.5.1.min.js"></script>
+    <script type="text/javascript" src="/js/jquery-ui-1.8.11.custom.min.js"></script>
     <script type="text/javascript" src="/js/jquery.li-scroller.1.0.js"></script>
     <script type="text/javascript" src="/js/jquery.scrollTo-min.js"></script>
-    <script type="text/javascript">
-
-
-$(document).ready(function(){
-
-    var t;
-
-    //Features sliding hover
-    $('.blocFeature.sliding').hover(
-
-        function(){
-            $(this).children('.slidingText').stop().animate({
-                top: '25px'
-            }, 400);
-        },
-
-        function(){
-            $(this).children('.slidingText').stop().animate({
-                top: '120px'
-            }, 400);
-        }
-
-    );
-
-    /* menu */
-        function fadeItOut(it){
-            if(!it.hasClass('dontFadeMeOut')){
-                $('#nav li.lvl-1').children('.title:first').removeClass('open');
-                it.fadeOut(200);
-            }
-        }
-
-
-        $('#nav li.lvl-1').children('.title:first').hover(
-            function(){
-                $('#nav li.lvl-1').children('ul:first').addClass('dontFadeMeOut');
-                clearTimeout(t);
-                $(this).addClass('open');
-                $(this).parent().children('ul:first').fadeIn(200)
-            }
-            ,
-            function(){
-                $('#nav li.lvl-1').children('ul:first').removeClass('dontFadeMeOut');
-                var ul = $(this).parent().children("ul:first");
-                clearTimeout(t);
-                t = setTimeout(function(){
-                    fadeItOut(ul);
-                },500);
-            }
-        );
-
-
-
-    $('#nav li.lvl-1').children('ul:first').hover(
-        function(){
-            $(this).addClass('dontFadeMeOut');
-        },
-        function(){
-            $(this).removeClass('dontFadeMeOut');
-            var ul = $(this);
-            setTimeout(function(){fadeItOut(ul)},350);
-        }
-    );
-
-    $('.popTags').click(function(){
-        $('input[name=tags]').val($('input[name=tags]').val() + $(this).html() + ',');
-    });
-
-    if($(".pikame").size() > 0)
-        $(".pikame").PikaChoose({autoPlay:true, transition:[1], showCaption:false, text:{previous:'',next:''}});
-
-    $('.morepics').css('display', 'none');
-    $('.morepicsToggle').click(function(){
-        $('.morepics').slideToggle();
-        return false;
-    });
-
-    $('.confirm').click(function(){
-        return confirm('Are you sure ?');
-    });
-
-
-    $('.toggleProfile').live('click', function(){
-        $(this).parent().find('.profile').slideToggle();
-        if(!$(this).hasClass('expanded'))
-            $(this).addClass('expanded');
-        else
-            $(this).removeClass('expanded')
-        return false;
-    });
-
-
-    $('ul.loadNews').each(function(){
-
-        var list = $(this);
-        var params = list.attr('class');
-
-        //alert(params);
-
-        $.post('/index.php/news/byTag', {'params': params}, function(response){
-            //alert(response);
-            $.each(response.data, function(){
-                //alert(this.title);
-                var formatedDate = this.date.replace(/^([1-3][0-9]{3,3})-(0?[1-9]|1[0-2])-(0?[1-9]|[1-2][1-9]|3[0-1])$/, "$3/$2/$1");
-                list.append('<li>' +  formatedDate + ' - '+ this.title + ' <a href="/index.php//page/item/' + this.id_page + '/' + this.id_content +'/' + this.id + '">more...</a> ' + '</li>');
-            });
-
-            if(list.hasClass('liScroll')){
-                list.liScroll();
-            }
-
-        }, 'json');
-
-    });
-
-    $('.email-link').click(function(){
-        $('.email-link-input').slideDown(200);
-        $('.email-link-input input').select();
-        return false;
-    });
-
-    $('.email-link-input input').click(function(){
-        $(this).select();
-    });
-
-    /*$('#filter-people input[type="checkbox"]').click(function(){
-
-        $('#peopleselect option').css('display', 'none');
-        
-        $('#filter-people input[type="checkbox"]').each(function(){
-            
-        });
-
-    });*/
-
-});
-
-</script>
+    <script type="text/javascript" src="/js/global_scripts.js"></script>
     <!--
     <script src="http://maps.google.com/maps/api/js?sensor=false&amp;key=ABQIAAAAGuWM9R2hAd1mHvAs-YLZ1RQVeoci47X4aaXuL2b6wfLLA8tdphS9wAtATQ7fVhUXHqCDXYg7FSIg3w" type="text/javascript"></script>
     -->
 
-    <script type="text/javascript" src="/js/home.js"></script>
+    
+    
+        
         
 </head>
 
 <body>
+
+
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) {return;}
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+    <div id="overlay">
+    </div>
+    <div id="browser">
+        <div id="close_browser">[ close this window ]</div>
+        <div class="content"></div>
+    </div>
+
+    
     <div class="container">
-        <!-- Logged as "". Your role is "" <a href="/index.php/user/logout/Logout">Logout</a>--><!--
+
                     <div class="span-24">
                 <div id="search">
-                    <form action="/index.php/page/goToSearch" method="post"><input type="submit" name="go" value="go"  /><input type="text" name="keywords" value=""  /><label>search</label></form>                </div>
+                    <form action="http://www.allsop.co.uk/index.php/page/search" method="post" accept-charset="utf-8"><input type="submit" name="go" value="go" class="submitsearch"><input type="text" name="keywords" value="" class="keywords"><label>search</label></form>                </div>
             </div>
-         -->
         
-            
-            
+        
         <div id="header" class="span-24">
 
-            <ul id="nav"><li class="lvl-1 "><a href="/164/contact-us">contact us</a></li><li class="lvl-1 "><a href="/6/careers">careers</a></li><li class="lvl-1 "><a href="/141/media">media</a></li><li class="lvl-1 "><a href="/156/our-people">our people</a></li><li class="lvl-1 "><div class="title">services</div><ul><li class="lvl-2 "><div class="title">Transactional services</div><ul><li class="lvl-3 "><a href="/3/Auctions">Auctions</a></li><li class="lvl-3 "><a href="/104/Commercial-Investment">Commercial Investment</a></li><li class="lvl-3 "><a href="/110/Residential-Investment-Development">Residential Investment &amp; Development</a></li><li class="lvl-3 last "><a href="/107/Office-Leasing">Office Leasing</a></li></ul></li><li class="lvl-2 last "><div class="title">Professional services</div><ul><li class="lvl-3 "><a href="/93/Affordable-Housing">Affordable Housing</a></li><li class="lvl-3 "><a href="/94/Business-Rates">Business Rates</a></li><li class="lvl-3 "><a href="/95/Commercial-Valuation">Commercial Valuation</a></li><li class="lvl-3 "><a href="/96/Insolvency">Insolvency</a></li><li class="lvl-3 "><a href="/97/Lease-Consultancy">Lease Consultancy</a></li><li class="lvl-3 "><a href="/100/Residential-Management">Residential Management</a></li><li class="lvl-3 "><a href="/101/Residential-Valuation">Residential Valuation</a></li><li class="lvl-3 last "><a href="/102/Fund-Management">Fund Management</a></li></ul></li></ul></li><li class="lvl-1 last "><a href="/7/about-us">about us</a></li></ul>
-            <a id="logo" href="/"><img src="/img/logo.png"></a>
+            <ul rel="menu-1" id="nav" ,="" class="menu"><li rel="menu-1" id="item-1" class="lvl-1   "><span class="label-menu-1"><a href="http://www.allsop.co.uk/7/about-us/about-us" class="  item">about us</a></span></li><li rel="menu-1" id="item-5" class="lvl-1   menu_title"><div class=" title"><span rel="5" class="label-menu-1">services</span></div><ul rel="menu-11" class="menu"><li rel="menu-11" id="item-130" class="lvl-2   menu_title"><div class=" title"><span rel="130" class="label-menu-11">Transactional services</span></div><ul rel="menu-12" class="menu"><li rel="menu-12" id="item-132" class="lvl-3   "><span class="label-menu-12"><a href="http://www.allsop.co.uk/3/about-auctions/auctions-home" class="  item">Auctions</a></span></li><li rel="menu-12" id="item-133" class="lvl-3   "><span class="label-menu-12"><a href="http://www.allsop.co.uk/104/commercial-investment/our-service" class="  item">Commercial Investment</a></span></li><li rel="menu-12" id="item-135" class="lvl-3   "><span class="label-menu-12"><a href="http://www.allsop.co.uk/110/residential-investment-development/our-service-" class="  item">Residential Investment &amp; Development</a></span></li><li rel="menu-12" id="item-134" class="lvl-3 last  "><span class="label-menu-12"><a href="http://www.allsop.co.uk/107/office-leasing/our-service" class="  item">Office Leasing</a></span></li></ul></li><li rel="menu-11" id="item-131" class="lvl-2 last  menu_title"><div class=" title"><span rel="131" class="label-menu-11">Professional services</span></div><ul rel="menu-13" class="menu"><li rel="menu-13" id="item-136" class="lvl-3   "><span class="label-menu-13"><a href="http://www.allsop.co.uk/93/affordable-housing/our-service" class="  item">Affordable Housing</a></span></li><li rel="menu-13" id="item-137" class="lvl-3   "><span class="label-menu-13"><a href="http://www.allsop.co.uk/94/business-rates/our-service" class="  item">Business Rates</a></span></li><li rel="menu-13" id="item-138" class="lvl-3   "><span class="label-menu-13"><a href="http://www.allsop.co.uk/95/commercial-valuation/our-service" class="  item">Commercial Valuation</a></span></li><li rel="menu-13" id="item-139" class="lvl-3   "><span class="label-menu-13"><a href="http://www.allsop.co.uk/96/insolvency/our-service" class="  item">Insolvency</a></span></li><li rel="menu-13" id="item-140" class="lvl-3   "><span class="label-menu-13"><a href="http://www.allsop.co.uk/97/lease-consultancy/our-service" class="  item">Lease Consultancy</a></span></li><li rel="menu-13" id="item-143" class="lvl-3   "><span class="label-menu-13"><a href="http://www.allsop.co.uk/100/residential-management/our-service" class="  item">Residential Management</a></span></li><li rel="menu-13" id="item-144" class="lvl-3   "><span class="label-menu-13"><a href="http://www.allsop.co.uk/101/residential-valuation/our-service" class="  item">Residential Valuation</a></span></li><li rel="menu-13" id="item-145" class="lvl-3 last  "><span class="label-menu-13"><a href="http://www.allsop.co.uk/102/fund-management/fund-management" class=" current item">Fund Management</a></span></li></ul></li></ul></li><li rel="menu-1" id="item-4" class="lvl-1   "><span class="label-menu-1"><a href="http://www.allsop.co.uk/156/our-people/our-people" class="  item">our people</a></span></li><li rel="menu-1" id="item-7" class="lvl-1   "><span class="label-menu-1"><a href="http://www.allsop.co.uk/141/media/allsop-news" class="  item">media</a></span></li><li rel="menu-1" id="item-6" class="lvl-1   "><span class="label-menu-1"><a href="http://www.allsop.co.uk/6/careers/working-at-allsop" class="  item">careers</a></span></li><li rel="menu-1" id="item-2" class="lvl-1 last  "><span class="label-menu-1"><a href="http://www.allsop.co.uk/164/our-offices/west-end-hq" class="  item">contact us</a></span></li></ul>
+            <a id="logo" href="http://www.allsop.co.uk/"><img src="http://www.allsop.co.uk/img/logo.png"></a>
 
         </div>
+        
 
         <div class="span-24">
-                            <div class="span-24 banner" style="background-image:url('/img/banners/careers.jpg');">
-                        </div>
-            <div class="span-24">
-                <div class="page_bar">
-                    <div class="date">Friday 3 June 2011</div>
-                    <div class="title">Privacy Policy</div>
-                </div>
-            </div>
+    <div class="span-24 banner" style="background-image:url(http://www.allsop.co.uk/uploads/editable/banners/careers.jpg);"></div>
 
+<div class="span-24">
+    <div class="page_bar">
+        <div class="date">Friday 23 December 2011</div>
+        <div class="title">Privacy Policy</div>
+    </div>
+</div>
         <div id="content" class="span-19">
 
-            <ul id="subnav"></ul><div style="clear:both"></div>
+            <div id="subnav">
+
+            
+</div>
 
 <div class="wysiwyg_content">
     <p>This privacy policy covers Allsop and its website. We are committed to protecting your privacy, and at the same time we endeavour to use any data we collect from you to provide the best possible service.</p>
@@ -238,11 +134,11 @@ $(document).ready(function(){
         <div id="sidebar" class="span-5 last">
             <div class="title_section">Quick Links</div>
             <ul class="sidebarnav">
-                <li><a href="/156/People-Search">People Search</a></li>
-                <li><a href="/3/Property-Auctions">Property Auctions</a></li>
-                <li><a href="/149/Commercial-Properties">Commercial Properties</a></li>
-                <li><a href="/151/Residential-Properties">Residential Properties</a></li>
-                <li><a href="/153/Find-Office-Space">Find Office Space</a></li>
+                <li><a href="http://www.allsop.co.uk/156/our-people/our-people">People Search</a></li>
+                <li><a href="http://www.allsop.co.uk/3/about-auctions/auctions-home">Property Auctions</a></li>
+                <li><a href="http://www.allsop.co.uk/149/commercial-investment/currently-marketing">Commercial Properties</a></li>
+                <li><a href="http://www.allsop.co.uk/151/residential-investment-development/currently-marketing">Residential Properties</a></li>
+                <li><a href="http://www.allsop.co.uk/153/office-leasing/currently-marketing">Find Office Space</a></li>
 
             </ul>
         </div> <!--end of .span-8-->
@@ -250,7 +146,7 @@ $(document).ready(function(){
     <div class="span-24" id="footer">
 
         <div class="left">© allsop 2011. All rights reserved.</div>
-        <div class="right"><a href="/263/Site-Map">Site Map</a> | <a href="/253/Privacy-Policy">Privacy Policy</a> | <a href="/273/Legal">Legal</a>  </div>
+        <div class="right"><a href="http://twitter.com/#!/allsopllp"><img style="vertical-align:bottom" src="/img/twitter_16.png"> Follow us on Twitter</a> | <a href="http://www.allsop.co.uk/263">Site Map</a> | <a href="http://www.allsop.co.uk/253">Privacy Policy</a> | <a href="http://www.allsop.co.uk/273">Legal</a>  </div>
     </div>
 
     </div> <!--end of .container -->
