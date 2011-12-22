@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bloggingexperiment.com privacy policy that was archived on 2010-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100403081349id_/http%3A//bloggingexperiment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingexperiment.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223002322id_/http%3A//bloggingexperiment.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_Last updated January 30, 2010_
+_Last updated April 2, 2011_
 
 BloggingExperiment.com (“BLOGEX”) has established this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
@@ -52,7 +52,7 @@ Unfortunately, no data transmission over the Internet can be considered 100% sec
 
 We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures.
 
-Further, BLOGEX retains your personal information only as long as necessary to fulfil the purposes identified above or as required by law.
+Further, BLOGEX retains your personal information only as long as necessary to fulfill the purposes identified above or as required by law.
 
 **CHANGES TO THIS PRIVACY POLICY  
 **
