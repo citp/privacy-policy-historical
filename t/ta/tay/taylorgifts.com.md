@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taylorgifts.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425064417id_/http%3A//www.taylorgifts.com/custserv/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylorgifts.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222102829id_/http%3A//www.taylorgifts.com/custserv/privacy.asp) for the most accurate reproduction.*
 
 # Taylor Gifts - Unique Gifts Since 1952
 
@@ -24,7 +24,7 @@ When you order online, Taylor Gifts will send you information regarding the stat
 
 When you voluntarily provide us with personal information, such as when you register or place an order, you will see a notice that states unless you opt-out of receiving communications from Taylor Gifts, you will receive additional information from Taylor Gifts. This information includes e-mails or other communication about new products and services available from Taylor Gifts that we believe will be of interest to you. Should you later choose not to receive such communications from Taylor Gifts, we reserve the right to contact you via e-mail regarding information as it relates to your order only.
 
-The personal information you have provided us, and information about your order, may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchase information) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. It may also be used by our marketing partners to bring you offers of interest. To learn more about one of our marketing partners, please click [www.plazadirect.com](http://www.plazadirect.com/). If you prefer we do not share your name and address with marketing partners, please write to us at the address above, or e-mail [tgcustomerservice@taylorgifts.com](mailto:tgcustomerservice@taylorgifts.com)
+The personal information you have provided us, and information about your order, may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchase information) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. It may also be used by our marketing partners to bring you offers of interest.  If you prefer we do not share your name and address with marketing partners, please write to us at the address above, or e-mail [tgcustomerservice@taylorgifts.com](mailto:tgcustomerservice@taylorgifts.com)
 
 If you agreed to receive e-mail from our marketing partners, we will share with them your e-mail address and the information described above, so they can send you offers for products and services that may be of interest to you. We will only share your e-mail address if you have opted in by checking the box on the registration page. Additionally, each e-mail our partners send you will include a description of the simple opt out process to enable you to stop receiving future e-mail.
 
@@ -40,7 +40,7 @@ We encourage parents to be aware of their children's online activities, and to l
 
 ## Searches
 
-Keyword search functions are provided in some areas of www.taylorgifts.com web site as a convenience to our users. We do not collect your name or e-mail address when you use a search feature, nor do we tabulate search terms entered by individuals. We may keep logs of all words searched to help us learn what kinds of information our web site visitors are seeking and to improve our service to visitors. 
+Keyword search functions are provided in some areas of www.taylorgifts.com web site as a convenience to our users. We do not collect your name or e-mail address when you use a search feature, nor do we tabulate search terms entered by individuals. We may keep logs of all words searched to help us learn what kinds of information our web site visitors are seeking and to improve our service to visitors.
 
 ## E-mail Messages
 
@@ -54,20 +54,20 @@ Taylor Gifts web site may include links to web sites of other companies unaffili
 
 Taylor Gifts, related web hosting providers, and advertisers sometimes utilize "cookie" technology. Cookies are bits of data stored on your local hard drive that contain no personally identifying information but which help enhance your web browsing experience. Not all web browsers accept cookies, and those that do usually provide a preference or setting that allow them to refuse cookies. If your browser does not accept cookies, you may browse our web sites, but you cannot order a product or request a catalog.
 
-Server logs capture certain non-personally identifying data, such as the time and date of a web visit, the browser and operating system being used, the IP address or domain name of the user's ISP, and the web URL a user linked from. This information is used in aggregate form to help us plan system enhancements when necessary and to provide content that is compatible with our visitors' web browsing systems. 
+Server logs capture certain non-personally identifying data, such as the time and date of a web visit, the browser and operating system being used, the IP address or domain name of the user's ISP, and the web URL a user linked from. This information is used in aggregate form to help us plan system enhancements when necessary and to provide content that is compatible with our visitors' web browsing systems.
 
-Taylorgifts.com may provide aggregate statistics about our customers, traffic patterns and related site information to reputable third parties for statistical analysis. Although the statistics themselves do not include personal information, it is possible they could be linked to this type of information. 
+Taylorgifts.com may provide aggregate statistics about our customers, traffic patterns and related site information to reputable third parties for statistical analysis. Although the statistics themselves do not include personal information, it is possible they could be linked to this type of information.
 
-Cookies are also used to target advertising and marketing offers to your particularized interests and to avoid showing you duplicate ads. Cookies cannot be used to get data from your hard drive, your e-mail, or any other personal data about you. 
+Cookies are also used to target advertising and marketing offers to your particularized interests and to avoid showing you duplicate ads. Cookies cannot be used to get data from your hard drive, your e-mail, or any other personal data about you.
 
-## Credit Cards 
+## Credit Cards
 
-Taylor Gifts uses credit card numbers submitted to us through our web sites for payment purposes only and not for marketing purposes. We utilize industry standard secure encryption technology to reasonably assure the privacy and security of the credit card numbers of every individual who places online orders with us. 
+Taylor Gifts uses credit card numbers submitted to us through our web sites for payment purposes only and not for marketing purposes. We utilize industry standard secure encryption technology to reasonably assure the privacy and security of the credit card numbers of every individual who places online orders with us.
 
 ## Acceptance of Privacy Policy Terms and Conditions
 
 By using this site, you signify your agreement to the terms and conditions of the Privacy Policy. If you do not agree to this policy, please do not use this site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at anytime. Please check this page periodically for any changes. Your continued use of Taylor Gifts online following the posting of any changes to these terms shall mean that you have accepted those changes.
 
-## Trademarks 
+## Trademarks
 
-Taylor Gifts is a registered trademark. 
+Taylor Gifts is a registered trademark.
