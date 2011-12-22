@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the freeskier.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624040403id_/http%3A//freeskier.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeskier.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222232938id_/http%3A//www.freeskier.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Freeskier
+# Privacy Policy | Freeskier Magazine
 
-Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of Freeskier.com, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement (this "Statement") discloses the privacy practices for Freeskier.com (the "Website") - what information we gather, how we use it and how to correct or change it. This Statement only addresses our activities from our servers. Other sites may have their own privacy policies and practices, which we do not control. Questions regarding this Statement should be emailed to webmedia@freeskier.com.
+## Privacy Policy
+
+Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of Freeskier.com, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement (this "Statement") discloses the privacy practices for Freeskier.com (the "Website") - what information we gather, how we use it and how to correct or change it. This Statement only addresses our activities from our servers. Other sites may have their own privacy policies and practices, which we do not control. Questions regarding this Statement should be emailed to [webmedia@freeskier.com](mailto:webmedia@freeskier.com).
 
 ### General Privacy Information
 
@@ -19,10 +21,11 @@ If you have any questions about this Statement, the practices of Freeskier.com w
 **Customer Service**  
 Freeskier.com  
 _Attn.: Privacy Statement_  
-P.O. Box 789  
-Niwot, CO 80544   
-Fax 303.834.9781  
+P.O. Box 789
 
+Niwot, CO 80544
+
+Fax 303.834.9781
 
 ### Registration
 
