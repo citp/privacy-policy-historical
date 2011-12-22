@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the usacoinbook.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618235748id_/http%3A//www.usacoinbook.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usacoinbook.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222174027id_/http%3A//www.usacoinbook.com/privacy-policy.php) for the most accurate reproduction.*
 
 # USA Coin Book Privacy Policy
+
+| 
 
 ## Scope
 
