@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amd.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630035226id_/http%3A//www.amd.com/us/aboutamd/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amd.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222160436id_/http%3A//www.amd.com/us/aboutamd/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
