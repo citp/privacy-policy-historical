@@ -1,162 +1,146 @@
-<!--The following is the downloaded HTML source of the bountii.com privacy policy that was archived on 2011-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110610080936id_/http%3A//bountii.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bountii.com privacy policy that was archived on 2011-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111222053030id_/http%3A//bountii.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>Privacy Policy</title>
-    <link rel="stylesheet" type="text/css" href="http://images.bountii.com/css/main.css">
-  <!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://images.bountii.com/css/main-ie7.css"><![endif]-->
-  <!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="http://images.bountii.com/css/main-ie6.css"><![endif]-->
-  <script type="text/javascript" src="/js/jquery-1.5.1.min.js"></script>
-  <script type="text/javascript" src="/js/time.min.js"></script>
-  <link rel="shortcut icon" href="http://www.bountii.com/favicon.ico">  
-            <meta name="description" content="This document describes the types and uses of personal information we collect when you use Bountii's services.">
+    <title>Privacy Policy | Bountii</title>
   
-</head>  <body>
-    <div id="top-ticker">
-  <div id="top-ticker-tag">Just Viewed by Others</div>
-  <div id="ticker-loading"><img src="http://images.bountii.com/images/loader-blue.gif" alt="Loading..."></div>
-  <ul id="ticker-results"></ul>
-  <script type="text/javascript">var isIE6 = false;</script>
-  <script type="text/javascript">var isIE7 = false;</script>
-  <!--[if IE 7]><script type="text/javascript">var isIE7 = true;</script><![endif]-->
-  <!--[if lte IE 6]><script type="text/javascript">var isIE6 = true;</script><![endif]-->
-  <script type="text/javascript">
     
-    $(function(){    
-    if (!isIE6) {
-    load_results();
-    setInterval(slide_results, 4500);
-    setInterval(load_results, 30000);
-    setInterval(function(){ $(".updatetime:gt(5)").prettyDate(); }, 15000);
-    }
-    });
-    function load_results() {
-    var numRemaining = $(".ticker-result").length;
-    var lastId = $(".ticker-result:last").attr("ID");
-    if (lastId && numRemaining && numRemaining > 12) {
-    lastId = lastId.replace("ticker", "");
-    var url = "/ticker.php?numResults=12&lastId=" + lastId; 
-    } else {
-    var url = "/ticker.php?numResults=24"; 
-    }
-    $.getJSON(url + '&_=' + (new Date()).getTime(), function(json) { 
-    var results = '';
-    $(json).each(function() {
-    if (this.Id == undefined) return;
-    results += "<li class='ticker-result' id='ticker" + this.Id + "'><a href='" + this.Url + "'>" + this.Title + " <abbr class='lgray updatetime' title='" + this.Time +  "'>" + this.TimeDiff + "</abbr></a></li>";
-    });
-    $("#ticker-loading").hide();
-    $("#ticker-results").append(results);
-    }); 
-    }
-    function slide_results() {
-    var $toslide = $(".ticker-result:first");
-    var slide_amt = $toslide.width();
-    $toslide.animate({marginLeft: '-=' + slide_amt}, {duration: 1800, easing: 'swing', complete: function(){ $toslide.remove();}});
-    }
+   
+    <meta name="description" content="This document describes the types and uses of personal information we collect when you use Bountii's services.">
+  
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" type="text/css" href="http://images.bountii.com/css/main-v3.css">
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://images.bountii.com/css/main-ie7.css" /><![endif]-->
+<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="http://images.bountii.com/css/main-ie6.css" /><![endif]-->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+<script type="text/javascript">
+  
+  $(document).ready(function() {
+  $("input#item-kw").autocomplete({
+  source: "/autocomplete.php", 
+  delay: 0,
+  focus: function(event, data) {
+  var oq_val = $("#item-kw").val();
+  if ($("#oq").length > 0) {
+  $("#oq").val(oq_val);
+  }
+  else {
+  $("#search-bountii").append('<input id="oq" type="hidden" name="oq" value="' + oq_val + '" />');
+  }
+  },
+  select: function(event, data) {
+  $(this).val(data.item.value);
+  $("#search-bountii").submit();
+  },
+  });
+  });
+  
+</script>
+<link rel="shortcut icon" href="http://bountii.com/favicon.ico">  
+<meta name="viewport" content="width=802">    
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>  <body>
     
-  </script>
-</div>    <div id="pbody">
-            <table style="width: 100%; margin: 5px 0;"><tbody><tr>
-    <td style="width: 119px;">
-      <a id="logo-box-logo" href="/"><!-- --></a>
-    </td>
-    <td style="padding-left: 10px;">
-      <div id="search-box" style="z-index: 5; background-color: #ffffff;">
-	<div id="advanced">
-	  <div class="rnd orangebg" style="width: 450px;">
-	    <div class="rnd-br"><!-- --></div>
-	    <div class="rnd-bl"><!-- --></div>
-	    <div style="padding: 5px;">
-	      <div class="fright">
-		<a class="close" href="#" onclick="document.getElementById('advanced').style.display='none';return false;"><!-- --></a>
-	      </div>
-	      <div style="background-image: none;">
-		<b>Show results with...</b>
-	      </div>
-	      <form action="/search.php" method="GET">
-		<table class="search_inputs" style="z-index: 10;">
-		  <tbody><tr>
-		    <td class="query_box">
-		      all these words:<br><input type="text" name="and"><br>
-		      any of these words:<br><input type="text" name="or"><br>
-		      none of these words:<br><input type="text" name="nor">
+<div style="border-top: 2px solid #496c96;"><!-- --></div>
+
+    <div id="pbody">
+            <div class="fright">
+  <div class="tright" style="margin-top: 5px;">
+                Already a user? <a href="/login.php">Log in</a>
+          </div>
+
+  </div>
+
+<div style="padding: 10px 0 5px 0;">
+  <table><tbody><tr>
+      <td style="width: 119px;">
+	<a id="logo-box-logo" href="/"><!-- --></a>
+      </td>
+      <td style="padding-left: 10px;">
+	<div id="search-box" style="z-index: 5; background-color: #ffffff;">
+	  <div id="advanced">
+	    <div class="rnd orangebg" style="width: 450px;">
+	      <div class="rnd-br"><!-- --></div>
+	      <div class="rnd-bl"><!-- --></div>
+	      <div style="padding: 5px;">
+		<div class="fright">
+		  <a class="close" href="#" onclick="document.getElementById('advanced').style.display='none';return false;"><!-- --></a>
+		</div>
+		<div style="background-image: none;">
+		  <b>Show results with...</b>
+		</div>
+		<form action="/search.php" method="GET">
+		  <table class="search_inputs" style="z-index: 10;">
+		    <tbody><tr>
+		      <td class="query_box">
+			all these words:<br><input type="text" name="and"><br>
+			any of these words:<br><input type="text" name="or"><br>
+			none of these words:<br><input type="text" name="nor">
+		      </td>
+		    </tr><tr>
+		      <td>
+			<input type="submit" class="submit_button" value="Advanced Search">
 		    </td>
-		  </tr><tr>
-		    <td>
-		      <input type="submit" class="submit_button" value="Advanced Search">
-		    </td>
-		  </tr>
-		</tbody></table>
-	      </form>
+		    </tr>
+		  </tbody></table>
+		</form>
+	      </div>
 	    </div>
 	  </div>
-	</div>
-	<table><tbody><tr><td>
-	      <div class="rnd graybg"> 
-		<div class="rnd-tl"><!-- --></div> 
-		<div class="rnd-tr"><!-- --></div> 
-		<div class="rnd-bl"><!-- --></div> 
-		<div class="rnd-br"><!-- --></div> 
-	        <div style="padding: 5px;"> 
-		  <form action="/search.php" method="GET">	
-		    <table class="search_inputs">
-		      <tbody><tr>
-			<td class="query_box">
-			  <input name="item" type="text" value="">
-			</td>
-			<td>
-			  <input type="submit" class="search" value="">
-			</td>
-			<td class="adv-prefs-links">
+	  <table><tbody><tr><td>
+		<div class="rnd graybg"> 
+		  <div class="rnd-tl"><!-- --></div> 
+		  <div class="rnd-tr"><!-- --></div> 
+		  <div class="rnd-bl"><!-- --></div> 
+		  <div class="rnd-br"><!-- --></div> 
+	          <div style="padding: 5px;"> 
+		    <form id="search-bountii" action="/search.php" method="GET">	
+		      <table class="search_inputs">
+			<tbody><tr>
+			  <td class="query_box">
+			    <input id="item-kw" name="item" type="text" value="" tabindex="1">
+			  </td>
+			  <td>
+			    <input type="submit" class="search" value="">
+			  </td>
+			  <td class="adv-prefs-links">
 			  <a href="#" onclick="document.getElementById('advanced').style.display = 'block'; return false;" class="smallertext">Advanced</a><br>
 			  <a href="/preferences.php" class="smallertext">Preferences</a>
-			</td>
-		      </tr>
-		    </tbody></table>
-		  </form>
-		</div>
+			  </td>
+			</tr>
+		      </tbody></table>
+		    </form>
+		  </div>
 	      </div>
-	</td></tr></tbody></table>
-	<div style="position: absolute; right: 0; top: 0px;">
-	  <div class="tright" style="margin-bottom: 3px;">
-	    	    	    	    Already a user? <a href="/login.php">Log in</a>
-	    	    	  </div> 
-	  	</div>
-      </div>
-    </td>
-</tr></tbody></table>
-<div>
-  <ul id="pop-links">
-    <li>
-      <a style="padding-left: 0;" href="/pricedrops.php">Price Drops</a>
-    </li>     
-    <li>
-      <a href="/pricehunts.php">Price Hunts</a>
-    </li>
-    <li>
-      <a href="/storerankings.php">Store Rankings</a>
-    </li>
-    <li>
-      <span>Popular:</span>
-    </li>
-    <li>
-      <a style="padding-left: 0;" href="/popular/hdtvs">HDTVs</a>
-    </li>
-    <li>
-      <a href="/popular/gps">GPS</a>
-    </li>
-    <li>
-      <a href="/popular/blu-ray-players">Blu-ray Players</a>
-    </li>
-    <li>
-      <a href="/popular/">more...</a>
-    </li>
-  </ul>
-  <div style="clear: both; border-top: 3px solid #ffffff;"></div>
+	  </td></tr></tbody></table>
+	</div>
+      </td>
+  </tr></tbody></table>
 </div>
-<div style="border-top: 1px solid #cdcdcd;"></div> 
+
+<div class="clearboth" style="margin: 0; padding: 0; border: none; border-top: 1px solid #ffffff;"><!-- --></div>
+<ul id="pop-links">
+  <li>
+    <a href="/" style="padding: 0 3px 0 0;">Today's Deals</a>
+  </li>
+  <li>
+    <span style="padding: 0;" class="lgray">:</span>
+  </li>
+  <li>
+    <a href="/hdtv/deals">HDTV Deals</a>
+  </li>
+  <li>
+    <a href="/laptop/deals">Laptop Deals</a>
+  </li>
+  <li>
+    <a href="/digital-camera/deals">Digital Camera Deals</a>
+  </li>
+  <li>
+    <a href="/printer/deals">Printer Deals</a>
+  </li>
+</ul>
+<div class="clearboth" style="margin: 0; padding: 0; border: none; border-top: 5px solid #ffffff;"><!-- --></div>
+<div class="clearboth" style="border-top: 1px solid #dedede;"><!-- --></div> 
       <div class="thirty_pixel_space"></div>
       <div style="width: 35em;">
 	<h1 style="font-size: 1.6em;">Bountii Privacy Policy</h1>
@@ -202,6 +186,41 @@
 <script type="text/javascript">
 _uacct = "UA-2670901-1";
 urchinTracker();
-</script>    </div>
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1051711975;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "GIOOCPWSwQIQ57O_9QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+  <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1051711975/?label=GIOOCPWSwQIQ57O_9QM&amp;guid=ON&amp;script=0"/>
+  </div>
+</noscript>
+<script type="text/javascript">
+adroll_adv_id = "UKNTNE3HVZHBREU7ERB4OP";
+adroll_pix_id = "NQ6OUJ6M45HQJIMHYLOVZM";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+    </div>
   
 </body></html>
