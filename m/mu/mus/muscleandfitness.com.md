@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the muscleandfitness.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227223226id_/http%3A//www.muscleandfitness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muscleandfitness.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222012646id_/http%3A//www.muscleandfitness.com/privacy) for the most accurate reproduction.*
 
-# Muscle and Fitness privacy
+# Privacy Policy - Muscle and Fitness
 
 PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective November 9, 2010. 
 
