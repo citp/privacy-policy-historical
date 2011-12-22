@@ -1,21 +1,8 @@
-> *The following text is extracted and transformed from the consumeractiongroup.co.uk privacy policy that was archived on 2011-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110210015519id_/http%3A//www.consumeractiongroup.co.uk/forum/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeractiongroup.co.uk privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222192510id_/http%3A//www.consumeractiongroup.co.uk/forum/privacy-policy.php) for the most accurate reproduction.*
 
 # - The Consumer Forums
 
-[ ](http://www.consumeractiongroup.co.uk/forum/announcement.php?a=185)
 
-[Reclaim the Right Ltd. - reg. 05783665 in the UK 
-
-reg. office:   
-923 Finchley Road   
-London   
-NW11 7PE
-
-](http://www.consumeractiongroup.co.uk/forum/feedback.php)
-
-| 
-    
-    
     THE CONSUMER FORUMS PRIVACY POLICY
     
     This policy applies to all forums operated by Reclaim the Right Limited, and includes (but is not limited to) the Consumer Action Group, 
@@ -140,12 +127,3 @@ NW11 7PE
     
     Effective Date: July  05, 2006
     
-
-  
-|  [](http://www.browsealoud.com/uk/videotours/) |    
-  
-  
----|---  
-  
-[](http://www.consumersniper.com/)   
-[Reclaim the Right Ltd. - reg.05783665 in the UK reg. office:- 923 Finchley Road London NW11 7PE](http://www.consumeractiongroup.co.uk/forum/feedback.php)
