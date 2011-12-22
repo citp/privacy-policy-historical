@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bb-articles.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622173954id_/http%3A//bb-articles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bb-articles.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223001257id_/http%3A//bb-articles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BB Articles Directory
 
@@ -36,4 +36,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-[](http://twitter.com/home/?status=Privacy+Policy+http%3A%2F%2Fbb-articles.com%2Fprivacy-policy%2F "Post to Twitter")
+[](http://twitter.com/intent/tweet?text=Privacy+Policy+http%3A%2F%2Fbb-articles.com%2Fprivacy-policy%2F "Post to Twitter")
