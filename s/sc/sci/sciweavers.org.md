@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sciweavers.org privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612053943id_/http%3A//www.sciweavers.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciweavers.org privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222023427id_/http%3A//www.sciweavers.org/privacy) for the most accurate reproduction.*
 
-# Sciweavers
+# Privacy | Sciweavers
 
 Privacy Policy
 
@@ -13,15 +13,15 @@ We only collect personal information that is relevant to the purpose of our webs
 ** Information You Provide to Us  
 **We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
 
-·        _ Registration_ In order for you to use Sciweavers services, such as sharing new academic links to the website, you must complete a registration form. As part of this registration form, we require you to provide us with e-mail address and your title.
+        _ Registration_ In order for you to use Sciweavers services, such as sharing new academic links to the website, you must complete a registration form. As part of this registration form, we require you to provide us with e-mail address and your title.
 
-·        _ User Profile_ To allow you to express yourself beyond just the information collected during registration, we enable you to provide additional information, such as a short biography, your website URL, affiliation, and position. In addition, you may choose to include a photo of yourself in your profile.
+        _ User Profile_ To allow you to express yourself beyond just the information collected during registration, we enable you to provide additional information, such as a short biography, your website URL, affiliation, and position. In addition, you may choose to include a photo of yourself in your profile.
 
 ** Automatic Information**
 
-·        We receive and store certain types of information whenever you interact with us. Sciweavers automatically receive and record certain "traffic data" on their servers from your browser including your IP address, Sciweavers cookie information, and the page you requested. Sciweavers uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
+        We receive and store certain types of information whenever you interact with us. Sciweavers automatically receive and record certain "traffic data" on their servers from your browser including your IP address, Sciweavers cookie information, and the page you requested. Sciweavers uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
 
-·        Sciweavers may collect and, on any page, display the total counts that page has been viewed. This includes User Profile pages.
+        Sciweavers may collect and, on any page, display the total counts that page has been viewed. This includes User Profile pages.
 
 E-mail Communications
 
@@ -29,9 +29,9 @@ Sciweavers is very concerned about your privacy and we will never provide your e
 
 Cookies
 
-·        Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Sciweavers cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
+        Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Sciweavers cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
 
-·        The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Sciweavers' coolest features.
+        The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Sciweavers' coolest features.
 
 Changes to this Privacy Policy
 
