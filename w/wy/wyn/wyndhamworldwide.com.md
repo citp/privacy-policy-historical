@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the wyndhamworldwide.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530030625id_/http%3A//www.wyndhamworldwide.com/legal/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndhamworldwide.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222120858id_/http%3A//www.wyndhamworldwide.com/privacy-policy) for the most accurate reproduction.*
 
-# Wyndham Worldwide: Privacy Policy
-
-## Web Site Terms of Use
-
-### WYNDHAM WORLDWIDE INTERNET CUSTOMER PRIVACY & INFORMATION PRACTICES POLICY
+# Wyndham Worldwide: Web Site Privacy Policy
 
 **Wyndham Worldwide Corporation** (" **Wyndham** ") recognizes the importance of protecting the privacy of certain Information collected about the users and visitors (" **user** ," " **you** " **or** " **your** ") of Wyndham's Web site (" **Web Site** "). The following privacy and information practices policy discloses and describes what Information Wyndham may gather about you, how Wyndham may use such Information, and how you can correct or change such Information (" **Privacy Policy** "). This Privacy Policy is designed to give you an understanding about how Wyndham collects your Information and the uses Wyndham may make of such Information during the course of Wyndham's business and in providing you with access to the information, products and services that may be available at this Web Site.
 
-You should print a copy of this Privacy Policy for your records. Please note, however, that Wyndham may update and amend this Privacy Policy from time to time as Wyndham deems necessary in its sole discretion. Certain capitalized terms used in this Privacy Policy may be defined in Wyndham's separate [Web Site Terms of Use](https://web.archive.org/legal/terms_of_use.cfm).
+You should print a copy of this Privacy Policy for your records. Please note, however, that Wyndham may update and amend this Privacy Policy from time to time as Wyndham deems necessary in its sole discretion. Certain capitalized terms used in this Privacy Policy may be defined in Wyndham's separate [Web Site Terms of Use](https://web.archive.org/terms-conditions).
 
 #### Purpose
 
