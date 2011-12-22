@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the cowboom.com privacy policy that was archived on 2011-01-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110108145755id_/http%3A//www.cowboom.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cowboom.com privacy policy that was archived on 2011-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111222014623id_/http%3A//www.cowboom.com/Privacy-Policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script src="https://cdn.uservoice.com/javascripts/widgets/tab.js"></script></head><body onload="MM_preloadImages('http://www.cowboom.com/img/footer-icon-facebook-on.png','http://www.cowboom.com/img/footer-icon-twitter-on.png')"><div class="header_newsite">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script src="https://cdn.uservoice.com/javascripts/widgets/tab.js"></script></head><body onload="MM_preloadImages('http://www.cowboom.com/img/footer-icon-facebook-on.png','http://www.cowboom.com/img/footer-icon-twitter-on.png')"><div class="header_newsite" style="margin-bottom: 54px;">
 	
 
 
@@ -26,11 +26,6 @@
 
 
 
-
-
-
-
-
 <!--[if lt IE 7]>
 <style type="text/css" media="screen">
 	body { behavior:url("/csshover.htc"); }
@@ -38,18 +33,14 @@
 	#editProfile .confInfoBox{height:170px;}
 </style>
 <![endif]-->
-<meta name="verify-v1" content="84o97L2c6voLXSKj7mJHWrHR3YpW7sdZirIUgAOPqPw=">
-<meta name="verify-v1" content="5DMpdtOThjD/1eVOgwC7ohlRbXfaju42FsuIbfNal9I=">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="robots" content="index,follow">
 
+<meta name="robots" content="index,follow">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="Shortcut Icon" href="https://www.cowboom.com/images/CowBoom/favicon.ico" type="image/x-icon">
 <link rel="stylesheet" type="text/css" href="/styles/main-min.css">
 <link href="/styles/CowBoom/global.css" rel="stylesheet" type="text/css">
-<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/styles/ie.css" media="screen"/><![endif]-->
 
-<script type="text/javascript" src="/javascript/lib/qForms.js"></script><script language="JavaScript1.2">_jsver = 12;</script><script language="JavaScript1.3">_jsver = 13;</script><script language="JavaScript1.4">_jsver = 14;</script><script language="JavaScript1.5">_jsver = 15;</script> 
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascript/lib/qForms.js"></script><script language="JavaScript1.2">_jsver = 12;</script><script language="JavaScript1.3">_jsver = 13;</script><script language="JavaScript1.4">_jsver = 14;</script><script language="JavaScript1.5">_jsver = 15;</script> 
 <script type="text/javascript" src="/js/jquery.js"></script>
 <script type="text/javascript" src="/js/jquery-ui-1.8.2.custom.min.js"></script>
 <script type="text/javascript" src="/javascript/global-min.js"></script>
@@ -57,40 +48,45 @@
 
 	<script src="/javascript/modal.js"></script>
 
-<script>
-	function setCookie(c_name,value,path,expiredays)
-	{
-		var exdate=new Date();
-		exdate.setDate(exdate.getDate()+expiredays);
-		document.cookie=c_name+ "=" +escape(value)+
-		((expiredays==null) ? "" : ";expires="+exdate.toUTCString()) +
-		((path==null) ? "" : ";path="+path);
-	}
 
-	function getCookie(c_name)
-	{
-		if (document.cookie.length>0)
-		{
-			c_start=document.cookie.indexOf(c_name + "=");
-			if (c_start!=-1)
-			{
-				c_start=c_start + c_name.length+1;
-				c_end=document.cookie.indexOf(";",c_start);
-				if (c_end==-1) c_end=document.cookie.length;
-				return unescape(document.cookie.substring(c_start,c_end));
+
+
+<script>		
+	function GCSSubmit() {
+		with(document.GCSSearch) {
+			if(keywords.value == '') {
+				alert('Please enter a search term');
+				return false;
 			}
-		}
-		return "";
+			else {
+			    var temp = keywords.value;
+				temp =  temp.replace(/[^a-zA-Z\s\- 0-9]+/g,'');
+				keywords.value = temp;
+				document.location.href= 'http://www.cowboom.com/search/results.cfm?keywords=' + temp;
+			}
+		}		
+		return false;		
 	}
+</script>
 
-	var browser = '';
-	// detect IE 6 browser
-	if (/MSIE (\d+\.\d+);/.test(navigator.userAgent))
-	{ //test for MSIE x.x;
-		var ieversion=new Number(RegExp.$1) // capture x.x portion and store as a number
-		if (ieversion<=6)
-			browser = 'ie6';
-	}
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  if((/^.*\/index\.cfm$/i).test(window.location)&&!(/(auction|signin|rma)/i).test(window.location))
+	  window.location = "/";
+  else
+  {
+	  _gaq.push(['_setAccount', 'UA-4331879-2']);
+	  _gaq.push(['_trackPageview']);
+  }
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 
 </script>
 <title>Privacy Policy</title>
@@ -98,7 +94,7 @@
 <meta name="keywords" content="Hot Deals on consumer electronics. Daily deal, auctions, and a store. Laptops, Desktops, Cameras, Camcorders, MP3 players, PS3, ipod, xbox, hdtv">
 
 
-	<div id="header">
+	<div id="header" style="background-color: rgb(0, 0, 0);">
 		<div class="holder">
 			<div class="area">
 				<ul class="social-networks">
@@ -109,7 +105,7 @@
 						document.write('<a href="javascript://chat" style="display: none;" onclick="_alc.startChat(14639); return false;" id="__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX+'"><img id="__ALC_BADGE_ONLINE_IMAGE" src="'+unescape('http://www.activalive.com/app/custom/buttons/14639/header-icon-chat-on.png')+'" style="display:block;" /></a><span id="__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX+'" style="display: none;"><a href="http://www.cowboom.com/contact.cfm"><img id="__ALC_BADGE_OFFLINE_IMAGE" src="'+unescape('http://www.activalive.com/app/custom/buttons/14639/header-icon-chat.png')+'" style="display:block;" /></a></span>');		
 						if ( typeof(__ALC_Badges) == 'undefined' ) __ALC_Badges = new Array();		
 						var __ALC_BUTTON = new Object(); __ALC_BUTTON.id = '14639'; __ALC_BUTTON.available = '__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.unavailable = '__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.department = 6237; __ALC_Badges.push(__ALC_BUTTON);	
-						</script><a href="javascript://chat" style="display: none;" onclick="_alc.startChat(14639); return false;" id="__ALC_BADGE_ONLINE105777110"><img id="__ALC_BADGE_ONLINE_IMAGE" src="http://www.activalive.com/app/custom/buttons/14639/header-icon-chat-on.png" style="display:block;"></a><span id="__ALC_BADGE_OFFLINE105777110" style="display: none;"><a href="http://www.cowboom.com/contact.cfm"><img id="__ALC_BADGE_OFFLINE_IMAGE" src="http://www.activalive.com/app/custom/buttons/14639/header-icon-chat.png" style="display:block;"></a></span>
+						</script><a href="javascript://chat" style="display: none;" onclick="_alc.startChat(14639); return false;" id="__ALC_BADGE_ONLINE1402433296"><img id="__ALC_BADGE_ONLINE_IMAGE" src="http://www.activalive.com/app/custom/buttons/14639/header-icon-chat-on.png" style="display:block;"></a><span id="__ALC_BADGE_OFFLINE1402433296" style="display: none;"><a href="http://www.cowboom.com/contact.cfm"><img id="__ALC_BADGE_OFFLINE_IMAGE" src="http://www.activalive.com/app/custom/buttons/14639/header-icon-chat.png" style="display:block;"></a></span>
 					</li>
 					
 				</ul>
@@ -124,9 +120,9 @@
 				<h1 class="logo"><a href="http://www.cowboom.com/">CowBoom</a></h1>
 
 					<div id="autocomplete">
-					<form class="search-and-cart-form" id="search-and-cart-form" action="http://www.cowboom.com/search/results.cfm">
-						<input name="keywords" id="searchBox_newsite" type="text" class="searchbox_newsite" value="" autocomplete="off">
-						<input name="search" id="searchButton" type="button" value="Search" class="searchbox-button" onclick="submit();">
+					<form name="GCSSearch" class="search-and-cart-form" id="search-and-cart-form" action="http://www.cowboom.com/search/results.cfm" onsubmit="return GCSSubmit();">
+						<input name="keywords" id="searchBox_newsite" type="text" class="searchbox_newsite" value="" autocomplete="off" onkeypress="if (event.keyCode == 13) {GCSSubmit();}">
+						<input name="search" id="searchButton" type="button" value="Search" class="searchbox-button" onclick="GCSSubmit();">
 					</form>	
 					</div>
 					<style>
@@ -137,174 +133,185 @@
 							text-indent:.5em;
 							font-size:12pt;
 						}
+						#cartTotal {
+							font-size: 18px;
+							color: #F66;
+							vertical-align:middle;
+						}
 					</style>
-				<a href="https://www.cowboom.com/checkout/cart.cfm" class="cart"><span class="item">Cart <em>(0)</em> </span>$0.00</a>				
+				<a href="https://www.cowboom.com/checkout/cart.cfm" class="cart"><span class="item">Cart <em>(<span id="cartItemCount">0</span>)</em> </span> <span id="cartTotal">$0.00</span></a>				
 			</div>
+			
+
+
+
+
+
+<script>
+	$(function() {			   
+		var MarqueeColor = $('#marquee span[style*=background-color]').css('background-color'); 
+		if(!MarqueeColor)
+			$('#marquee').find('span').each(function(i){
+				if($(this).css("background-color")!='transparent')
+				{
+					MarqueeColor = $(this).css("background-color");
+					return false;
+				}
+			});	
+		$('#header').css('background-color',MarqueeColor);
+		$('#marquee').show(10,alignHeader);
+	});
+	function alignHeader()
+	{
+		var cobrandOffset = 0;
+		if($('#brandContainer').length>0)
+			cobrandOffset = 80;
+		var altDim = $('#marquee').height() + 30;
+		var marginOffset = altDim + cobrandOffset;
+		$('.header_newsite').css('margin-bottom',marginOffset.toString()+'px');
+		if(altDim>50&&$('#marquee img').length>0)
+		{
+			if(altDim<70)
+			{
+				$('#marquee').css({top:5});
+				$('#marquee img').css({top:-5});
+			}
+			else
+			{
+				$('#marquee').css({top:10});
+				$('#marquee img').css({top:-10});
+			}
+		}
+	}
+</script>
+<style>
+	#marquee	{padding:.7em 0 .3em 0;display:none;position:relative;}
+	#marquee span	{vertical-align:baseline !important;height:20px;}
+	#marquee img	{vertical-align:middle;padding:4px 0;position:relative;}
+</style>
+<div id="marquee" style="display: block; top: 5px;"><p style="text-align: center; "><span style="background-color: rgb(0, 0, 0); "><img alt="Last Minute Savings at CowBoom.com. Take 15% off Storewide!" src="http://images.cowboom.com/library/cowboom/a-last-minute-deals-banner.png" style="top: -5px;"></span></p></div>
+
+
+
 		</div>
 		<div class="panel">
 			<div class="holder">
 				<div class="popup-holder">
 					<div class="popup">
 						<div class="close-holder"><a class="close">Close Deals</a></div>
-						<div class="DealCowSays"><p>Nigel the DealCow Says... Happy Moo Year, CowBoomers!</p>
-<p>&nbsp;</p></div>
+						<div class="DealCowSays"><p style="text-align: center"><strong>Get your goodies in the <em>St. Nick</em> of time...</strong></p>
+<p style="text-align: center">&nbsp;</p>
+<p style="text-align: center"><strong>Order with&nbsp;2-Day Air by 12/20 or Overnight Shipping by 12/21.</strong></p>
+<p style="text-align: center">&nbsp;</p>
+<p style="text-align: center">&nbsp;</p></div>
 						<ul class="items">
 							
 								
-								
 								<li>
 									<div class="holder">
-										<a href="http://www.cowboom.com/product/683830" class="image">
-											<img src="http://images.cowboom.com/store/thumb/DT_683830_2.jpg">											
+										
+										<a href="http://www.cowboom.com/product/777371" class="image">
+											<img src="http://images.cowboom.com/store/thumb/DT_777371_1.jpg" class="scaleImage" alt="Apple MC497LL/A 64GB iPad Tablet w/ WiFi/3G black- Gen1 from CowBoom">											
 										</a>
-										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/683830">Apple MB715LL/A 16GB  iPhone 3GS GSM Smartphone - Black</a></div>
-										<div style="height:20px;text-align:left;">
-											
-										</div>
-										
-										<p class="product-block-price">$291.99</p>
-										
-										<p class="free-shipping">
-										
-											<img src="http://www.cowboom.com/images/cowboom/free_truck.png" alt="Free Shipping" class="free-shipping-icon"> Free Shipping
-										
-										</p>
-									</div>
-								</li>
-								
-							
-							
-								
-								
-									
-	
-		
-		
-		
-			
-		
-	
-	
-	
-									
-									
-										
-									
-								
-								<li>
-									<div class="holder">
-										<a href="http://www.cowboom.com/product/160378" class="image">
-											<img src="http://images.cowboom.com/store/thumb/DT_160378_1.jpg">											
-										</a>
-										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/160378">Apple MB150LL/A 160GB Ipod Classic MP3 - Black</a></div>
-										<div style="height:20px;text-align:left;">
+
+										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/777371">Apple MC497LL/A 64GB iPad Tablet w/ WiFi/3G black- Gen1</a></div>
+										<div style="height:30px;text-align:left;">
 											
 												<p class="reviews">			
-												<a class="newsite" href="#">Reviews</a><a class="newsite" href="#">			
-													<img src="http://www.cowboom.com/images/ratings/4.5_clear.gif">			
+												<a class="newsite" href="/product/777371?ReviewTab=2#tabs-2">Rating:</a><a class="newsite" href="#">			
+													<img src="http://www.cowboom.com/images/ratings/4.25_clear.gif">			
 												</a></p> 
 											
 										</div>
 										
-										<p class="product-block-price">$159.99</p>
+										<p class="product-block-price" style="text-align:left;">$399.99</p>
 										
 										<p class="free-shipping">
 										
-											<img src="http://www.cowboom.com/images/cowboom/free_truck.png" alt="Free Shipping" class="free-shipping-icon"> Free Shipping
+											<img src="http://www.cowboom.com/images/cowboom/free_truck.png" alt="Free Shipping" class="free-shipping-icon"> 
 										
 										</p>
-									</div>
+									</div>	
 								</li>
-								
 							
-							
-								
-								
-									
-	
-		
-		
-		
-			
-		
-	
-	
-	
-									
-									
-										
-									
 								
 								<li>
 									<div class="holder">
-										<a href="http://www.cowboom.com/product/319178" class="image">
-											<img src="http://images.cowboom.com/store/thumb/DT_319178_3.jpg">											
+										
+										<a href="http://www.cowboom.com/product/725788" class="image">
+											<img src="http://images.cowboom.com/store/thumb/DT_725788_3.jpg" class="scaleImage" alt="Apple MC318LL/A iPhone 4 AT&amp;T 16GB Smartphone - Black from CowBoom">											
 										</a>
-										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/319178">Jabra BT2010 Universal Wireless Bluetooth Headset</a></div>
-										<div style="height:20px;text-align:left;">
+
+										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/725788">Apple MC318LL/A iPhone 4 AT&amp;T 16GB Smartphone - Black</a></div>
+										<div style="height:30px;text-align:left;">
 											
 												<p class="reviews">			
-												<a class="newsite" href="#">Reviews</a><a class="newsite" href="#">			
-													<img src="http://www.cowboom.com/images/ratings/3.25_clear.gif">			
+												<a class="newsite" href="/product/725788?ReviewTab=2#tabs-2">Rating:</a><a class="newsite" href="#">			
+													<img src="http://www.cowboom.com/images/ratings/4.25_clear.gif">			
 												</a></p> 
 											
 										</div>
 										
-										<p class="product-block-price">$4.69</p>
+										<p class="product-block-price" style="text-align:left;">$329.99</p>
 										
 										<p class="free-shipping">
 										
-											&nbsp;
+											<img src="http://www.cowboom.com/images/cowboom/free_truck.png" alt="Free Shipping" class="free-shipping-icon"> 
 										
 										</p>
-									</div>
+									</div>	
 								</li>
-								
 							
-							
-								
-								
-									
-	
-		
-		
-		
-			
-		
-	
-	
-	
-									
-									
-										
-									
 								
 								<li>
 									<div class="holder">
-										<a href="http://www.cowboom.com/product/750497" class="image">
-											<img src="http://images.cowboom.com/store/thumb/DT_750497_1.jpg">											
+										
+										<a href="http://www.cowboom.com/product/696520" class="image">
+											<img src="http://images.cowboom.com/store/thumb/DT_696520_2.jpg" class="scaleImage" alt="Toshiba A505-S6033 Laptop i7 1.6GHz 4GB 500GB DVDRW from CowBoom">											
 										</a>
-										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/750497">Sanyo VPC-WH1B 2.5in LCD HD Digital Camcorder</a></div>
-										<div style="height:20px;text-align:left;">
+
+										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/696520">Toshiba A505-S6033 Laptop i7 1.6GHz 4GB 500GB DVDRW</a></div>
+										<div style="height:30px;text-align:left;">
+											
+										</div>
+										
+										<p class="product-block-price" style="text-align:left;">$558.49</p>
+										
+										<p class="free-shipping">
+										
+											<img src="http://www.cowboom.com/images/cowboom/free_truck.png" alt="Free Shipping" class="free-shipping-icon"> 
+										
+										</p>
+									</div>	
+								</li>
+							
+								
+								<li>
+									<div class="holder">
+										
+										<a href="http://www.cowboom.com/product/754694" class="image">
+											<img src="http://images.cowboom.com/store/thumb/DT_754694_1.jpg" class="scaleImage" alt="Coby TFDVD3295 32in LCD Flat Panel HDTV DVD Combo from CowBoom">											
+										</a>
+
+										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/754694">Coby TFDVD3295 32in LCD Flat Panel HDTV DVD Combo</a></div>
+										<div style="height:30px;text-align:left;">
 											
 												<p class="reviews">			
-												<a class="newsite" href="#">Reviews</a><a class="newsite" href="#">			
-													<img src="http://www.cowboom.com/images/ratings/5.0_clear.gif">			
+												<a class="newsite" href="/product/754694?ReviewTab=2#tabs-2">Rating:</a><a class="newsite" href="#">			
+													<img src="http://www.cowboom.com/images/ratings/2.0_clear.gif">			
 												</a></p> 
 											
 										</div>
 										
-										<p class="product-block-price">$149.99</p>
+										<p class="product-block-price" style="text-align:left;">$297.99</p>
 										
 										<p class="free-shipping">
 										
-											<img src="http://www.cowboom.com/images/cowboom/free_truck.png" alt="Free Shipping" class="free-shipping-icon"> Free Shipping
+											<img src="http://www.cowboom.com/images/cowboom/free_truck.png" alt="Free Shipping" class="free-shipping-icon"> 
 										
 										</p>
-									</div>
+									</div>	
 								</li>
-								
-							
 							
 							
 						</ul>
@@ -313,7 +320,7 @@
 								<a class="newsite" href="http://www.cowboom.com/Computers" style="margin-left:0px;">Computers</a> |
 								<a class="newsite" href="http://www.cowboom.com/Gaming">Gaming</a> |
 								<a class="newsite" href="http://www.cowboom.com/Audio-Video">Audio &amp; Video</a> |
-								<a class="newsite" href="http://www.cowboom.com/Cell-Phones-PDAs">Cell Phones &amp; PDAs</a> |
+								<a class="newsite" href="http://www.cowboom.com/Mobile-Cellular">Mobile &amp; Cellular</a> |
 								<a class="newsite" href="http://www.cowboom.com/Cameras-Camcorders">Cameras &amp; Recorders</a> |
 								<a class="newsite" href="http://www.cowboom.com/Electronics">Electronics</a> |
 								<a class="newsite" href="http://www.cowboom.com/More">More</a>
@@ -330,18 +337,22 @@
 				
 				<li>
 					<a href="http://www.cowboom.com/Computers">
-						<img src="http://www.cowboom.com/images/refresh/item.png" border="0" width="11" height="10" alt="">
+						<img src="/images/refresh/item.png" border="0" width="11" height="10" alt="">
 						<span>Computers</span>
 					</a>
 					<ul>
 				 
-						<li><a href="http://www.cowboom.com/Computers/Apple">Apple</a></li>
+						<li><a href="http://www.cowboom.com/Computers/Apple-Computers">Apple Computers</a></li>
 				 
-						<li><a href="http://www.cowboom.com/Computers/Desktop">Desktop</a></li>
+						<li><a href="http://www.cowboom.com/Computers/Desktop-Computers">Desktop Computers</a></li>
 				 
-						<li><a href="http://www.cowboom.com/Computers/Laptop">Laptop</a></li>
+						<li><a href="http://www.cowboom.com/Computers/Laptops-Notebooks">Laptops / Notebooks</a></li>
 				 
-						<li><a href="http://www.cowboom.com/Computers/Drives-Storage">Drives &amp; Storage</a></li>
+						<li><a href="http://www.cowboom.com/Computers/iPads-Tablets-eReaders">iPads, Tablets &amp; eReaders</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Computers/Mobile-Broadband">Mobile Broadband</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Computers/Hard-Drives-Storage">Hard Drives &amp; Storage</a></li>
 				 
 						<li><a href="http://www.cowboom.com/Computers/Monitors-Projectors">Monitors &amp; Projectors</a></li>
 				 
@@ -355,7 +366,7 @@
 				 
 						<li><a href="http://www.cowboom.com/Computers/Networking">Networking</a></li>
 				 
-						<li><a href="http://www.cowboom.com/Computers/Accessories">Accessories</a></li>
+						<li><a href="http://www.cowboom.com/Computers/Computer-Accessories">Computer Accessories</a></li>
 				
 					</ul>				
 				</li>
@@ -363,16 +374,16 @@
 				
 				<li>
 					<a href="http://www.cowboom.com/Gaming">
-						<img src="http://www.cowboom.com/images/refresh/item2.png" border="0" width="11" height="10" alt="">
+						<img src="/images/refresh/item2.png" border="0" width="11" height="10" alt="">
 						<span>Gaming</span>
 					</a>
 					<ul>
 				 
-						<li><a href="http://www.cowboom.com/Gaming/Systems">Systems</a></li>
+						<li><a href="http://www.cowboom.com/Gaming/Video-Game-Consoles">Video Game Consoles</a></li>
 				 
 						<li><a href="http://www.cowboom.com/Gaming/Games">Games</a></li>
 				 
-						<li><a href="http://www.cowboom.com/Gaming/Accessories">Accessories</a></li>
+						<li><a href="http://www.cowboom.com/Gaming/Game-Accessories">Game Accessories</a></li>
 				
 					</ul>				
 				</li>
@@ -380,39 +391,43 @@
 				
 				<li>
 					<a href="http://www.cowboom.com/Audio-Video">
-						<img src="http://www.cowboom.com/images/refresh/item3.png" border="0" width="11" height="10" alt="">
+						<img src="/images/refresh/item3.png" border="0" width="11" height="10" alt="">
 						<span>Audio &amp; Video</span>
 					</a>
 					<ul>
 				 
-						<li><a href="http://www.cowboom.com/Audio-Video/iPod-MP-Players">iPod &amp; MP3 Players</a></li>
+						<li><a href="http://www.cowboom.com/Audio-Video/iPod-MP3-Players">iPod &amp; MP3 Players</a></li>
 				 
-						<li><a href="http://www.cowboom.com/Audio-Video/Portable">Portable</a></li>
+						<li><a href="http://www.cowboom.com/Audio-Video/Portable-Audio">Portable Audio</a></li>
 				 
 						<li><a href="http://www.cowboom.com/Audio-Video/Televisions">Televisions</a></li>
 				 
-						<li><a href="http://www.cowboom.com/Audio-Video/Home">Home</a></li>
+						<li><a href="http://www.cowboom.com/Audio-Video/Home-Audio-Video">Home Audio &amp; Video</a></li>
 				 
-						<li><a href="http://www.cowboom.com/Audio-Video/Automotive">Automotive</a></li>
+						<li><a href="http://www.cowboom.com/Audio-Video/Car-Audio-Video">Car Audio &amp; Video</a></li>
 				 
-						<li><a href="http://www.cowboom.com/Audio-Video/Accessories">Accessories</a></li>
+						<li><a href="http://www.cowboom.com/Audio-Video/Audio-Video-Accessories">Audio &amp; Video Accessories</a></li>
 				
 					</ul>				
 				</li>
 			
 				
 				<li>
-					<a href="http://www.cowboom.com/Cell-Phones-PDAs">
-						<img src="http://www.cowboom.com/images/refresh/item4.png" border="0" width="11" height="10" alt="">
-						<span>Cell Phones &amp; PDAs</span>
+					<a href="http://www.cowboom.com/Mobile-Cellular">
+						<img src="/images/refresh/item4.png" border="0" width="11" height="10" alt="">
+						<span>Mobile &amp; Cellular</span>
 					</a>
 					<ul>
 				 
-						<li><a href="http://www.cowboom.com/Cell-Phones-PDAs/Cell-Phones-Smart-Phones">Cell Phones &amp; Smart Phones</a></li>
+						<li><a href="http://www.cowboom.com/Mobile-Cellular/Cell-Phones-Smartphones">Cell Phones &amp; Smartphones</a></li>
 				 
-						<li><a href="http://www.cowboom.com/Cell-Phones-PDAs/PDAs">PDAs</a></li>
+						<li><a href="http://www.cowboom.com/Mobile-Cellular/iPads-Tablets-eReaders">iPads, Tablets &amp; eReaders</a></li>
 				 
-						<li><a href="http://www.cowboom.com/Cell-Phones-PDAs/Accessories">Accessories</a></li>
+						<li><a href="http://www.cowboom.com/Mobile-Cellular/Mobile-Broadband">Mobile Broadband</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Mobile-Cellular/PDAs">PDAs</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Mobile-Cellular/Mobile-Accessories">Mobile Accessories</a></li>
 				
 					</ul>				
 				</li>
@@ -420,7 +435,7 @@
 				
 				<li>
 					<a href="http://www.cowboom.com/Cameras-Camcorders">
-						<img src="http://www.cowboom.com/images/refresh/item5.png" border="0" width="11" height="10" alt="">
+						<img src="/images/refresh/item5.png" border="0" width="11" height="10" alt="">
 						<span>Cameras &amp; Camcorders</span>
 					</a>
 					<ul>
@@ -429,7 +444,7 @@
 				 
 						<li><a href="http://www.cowboom.com/Cameras-Camcorders/Camcorders">Camcorders</a></li>
 				 
-						<li><a href="http://www.cowboom.com/Cameras-Camcorders/Accessories">Accessories</a></li>
+						<li><a href="http://www.cowboom.com/Cameras-Camcorders/Camera-Camcorder-Accessories">Camera / Camcorder Accessories</a></li>
 				
 					</ul>				
 				</li>
@@ -437,16 +452,16 @@
 				
 				<li>
 					<a href="http://www.cowboom.com/Electronics">
-						<img src="http://www.cowboom.com/images/refresh/item6.png" border="0" width="11" height="10" alt="">
+						<img src="/images/refresh/item6.png" border="0" width="11" height="10" alt="">
 						<span>Electronics</span>
 					</a>
 					<ul>
 				 
-						<li><a href="http://www.cowboom.com/Electronics/Portable">Portable</a></li>
+						<li><a href="http://www.cowboom.com/Electronics/Portable-Electronics">Portable Electronics</a></li>
 				 
-						<li><a href="http://www.cowboom.com/Electronics/Home">Home</a></li>
+						<li><a href="http://www.cowboom.com/Electronics/Home-Electronics">Home Electronics</a></li>
 				 
-						<li><a href="http://www.cowboom.com/Electronics/Accessories">Accessories</a></li>
+						<li><a href="http://www.cowboom.com/Electronics/Electronics-Accessories">Electronics Accessories</a></li>
 				
 					</ul>				
 				</li>
@@ -454,7 +469,7 @@
 				
 				<li>
 					<a href="http://www.cowboom.com/More">
-						<img src="http://www.cowboom.com/images/refresh/item7.png" border="0" width="11" height="10" alt="">
+						<img src="/images/refresh/item7.png" border="0" width="11" height="10" alt="">
 						<span>More</span>
 					</a>
 					<ul>
@@ -488,11 +503,31 @@
 				Javascript is required for this site to function properly. <a href="http://www.cowboom.com/enableJS.cfm">Click here to learn how to enable Javascript.</a>
 			</div>
 		</div>
+		<style type="text/css">
+			#enableCookies {display:none;}
+			.header_newsite{margin-bottom:40px;}
+		</style>
 	</noscript>	
 
-
-
-
+	<div id="enableCookies" class="uiMsgContainer">
+	</div>
+	
+	<script>
+		if (getCookie("SITEPREF") == ""){
+			document.getElementById("enableCookies").innerHTML = "<div class='uiMsgContent'>You must have cookies enabled to use this site.</div>";
+			$(document).ready(function(){
+				$(".header_newsite").css({'margin-bottom':'40px'});
+			});
+		}
+		else {
+			document.getElementById("enableCookies").innerHTML = "";
+		}
+	</script>
+	
+	
+	
+	
+	
 
 </div>
 	
@@ -652,13 +687,16 @@
 
 
 <script src="/javascript/reSizer.js" type="text/javascript"></script> 
-<div class="bar footer_bar"></div> 
-<!-- FOOTER --> 
-<div class="footer"> 
+
+ 
+<div class="footer" id="idFooter"> 
+	
+	<div class="bar footer_bar"></div> 
+
 	<div class="footer-container"> 
 		<div class="footer-left"> 
 			<div class="footer-01"> 
-				<h3>Customer Service (888) 602-6963</h3> 
+				<h3>Customer Service</h3> 
 				<div style="float:left">
 					<ul> 
 					<li><a class="newsite" href="http://www.cowboom.com/FAQ">FAQs</a></li> 
@@ -667,10 +705,10 @@
 					
 					<li><script type="text/javascript">
 						var __ALC_BADGE_SUFFIX = (Math.round(Math.random()*10000000000));
-						document.write('<a href="javascript://chat" onclick="_alc.startChat(14640); return false;" id="__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX+'" style="display: none">'+decodeURIComponent("Chat%20with%20Us%20Live%21")+'</a><span id="__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX+'" style="display: none;"><a href="http://www.cowboom.com/contact.cfm">'+decodeURIComponent("Live%20Chat%20is%20Offline")+'</a></span>');
+						document.write('<a href="javascript://chat" onclick="_alc.startChat(14640); return false;" id="__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX+'" style="display: none">'+decodeURIComponent("Chat%20with%20Us%20Live%21")+'</a>');
 						if ( typeof(__ALC_Badges) == 'undefined' ) __ALC_Badges = new Array();
 						var __ALC_BUTTON = new Object(); __ALC_BUTTON.id = '14640'; __ALC_BUTTON.available = '__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.unavailable = '__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.department = 6237; __ALC_Badges.push(__ALC_BUTTON);
-						</script><a href="javascript://chat" onclick="_alc.startChat(14640); return false;" id="__ALC_BADGE_ONLINE7638859355" style="display: none">Chat with Us Live!</a><span id="__ALC_BADGE_OFFLINE7638859355" style="display: none;"><a href="http://www.cowboom.com/contact.cfm">Live Chat is Offline</a></span>
+						</script><a href="javascript://chat" onclick="_alc.startChat(14640); return false;" id="__ALC_BADGE_ONLINE5240219011" style="display: none">Chat with Us Live!</a>
 					</li>
 					</ul> 
 				</div>
@@ -698,10 +736,11 @@
 			<div class="footer-02"> 
 				<h3>Shop</h3> 
 				<ul> 
+				<li><a class="newsite" href="http://www.cowboom.com/deal-of-the-day.cfm">Deal of the Day</a></li> 
 				<li><a class="newsite" href="http://www.cowboom.com/Computers">Computers</a></li> 
 				<li><a class="newsite" href="http://www.cowboom.com/Gaming">Gaming</a></li> 
 				<li><a class="newsite" href="http://www.cowboom.com/Audio-Video">Audio &amp; Video</a></li> 
-				<li><a class="newsite" href="http://www.cowboom.com/Cell-Phones-PDAs">Cell Phones &amp; PDAs</a></li> 
+				<li><a class="newsite" href="http://www.cowboom.com/Mobile-Cellular">Mobile &amp; Cellular</a></li> 
 				<li><a class="newsite" href="http://www.cowboom.com/Cameras-Camcorders">Cameras &amp; Camcorders</a></li> 
 				<li><a class="newsite" href="http://www.cowboom.com/Electronics">Electronics</a></li> 
 				<li><a class="newsite" href="http://www.cowboom.com/More">More</a></li> 
@@ -714,7 +753,7 @@
 				<ul> 
 				<li><a class="newsite" href="http://www.cowboom.com/AboutUs">About Us</a></li> 
 				<li><a class="newsite" href="http://blog.cowboom.com/">Blog</a></li> 
-				<li><a class="newsite" href="http://blog.cowboom.com/cowboom-affiliate-program/">Affiliates</a></li> 
+				<li><a class="newsite" href="http://www.cowboom.com/Affiliates">Affiliates</a></li> 
 				<li><a class="newsite" href="https://www.cowboom.com/SignIn">Sign In</a></li> 
 				<li><a class="newsite" href="https://www.cowboom.com/SignIn">Create Account</a></li> 
 				<li><a class="newsite" href="https://www.cowboom.com/checkout/cart.cfm">View Cart</a></li> 
@@ -726,17 +765,18 @@
 			<div class="footer-04"> 
 				<h3>Shop with Confidence</h3>
 				<div style="margin-left:5px;float:left;">
-				<a href="https://www.bbb.org/online/consumer/cks.aspx?id=108103017307" target="_blank"><img src="/images/cowboom/cert.jpg"></a>
+				<a href="http://www.bbb.org/minnesota/business-reviews/home-electronics/cowboom-in-richfield-mn-96353317" target="_blank"><img src="/images/cowboom/cert.jpg"></a>
 				</div>
 				<div style="margin-left:5px;float:left;">
-				<!-- START SCANALERT CODE -->
+				
 				<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=cowboom.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/cowboom.com/55.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
-				<!-- END SCANALERT CODE -->	
+					
 				</div>												
 			</div> 
 		</div>
 	</div>
-	<!--.12-->
+</div>	
+	<!--.11-->
 	
 	<script src="https://www.google.com/jsapi" type="text/javascript"></script>
 	<script src="/javascript/GCS_commerce_preview.js" type="text/javascript"></script>
@@ -774,19 +814,9 @@
 	  _loadSuper = window.onload;
 	  window.onload = (typeof window.onload != 'function') ? _loadUserVoice : function() { _loadSuper(); _loadUserVoice(); };
 </script>
-	
-<script type="text/javascript">
-	var pageTracker = _gat._getTracker("UA-4331879-2"); 
-	pageTracker._setDomainName(".cowboom.com");
-	pageTracker._initData();
-	pageTracker._trackPageview();
-</script>
-
-
-
 
 
 
 
 <noscript><style>#spacer, #footer{display:block;}</style></noscript>
-</div></body></html>
+</body></html>
