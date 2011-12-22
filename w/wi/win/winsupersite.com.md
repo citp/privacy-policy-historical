@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winsupersite.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120022928id_/http%3A//www.penton.com/Pages/PrivacyStatementSH.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winsupersite.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222175042id_/http%3A//www.penton.com/PrivacyStatementSH.aspx) for the most accurate reproduction.*
 
 # Safe Harbor Privacy Statement
 
@@ -24,18 +24,18 @@ This policy describes our privacy practices for both online and offline activiti
 
 The websites covered by this policy, include but are not limited to:
 
-  * Windows IT Pro (windowsitpro.com)
+  * Windows IT Pro (windowsitpro.com) 
   * SQL Server Magazine (sqlmag.com)  
  
-  * Office and SharePoint Pro (officesharepointpro.com)
-  * Connected Home Magazine (connectedhomemag.com)
-  * IT Library (windowsitlibrary.com)
+  * Office and SharePoint Pro (officesharepointpro.com) 
+  * Connected Home Magazine (connectedhomemag.com) 
+  * IT Library (windowsitlibrary.com) 
   * ITTV (ittv.net)  
  
-  * Windows SuperSite (winsupersite.com)
-  * Win Dev Pro (windevpro.com)
-  * System iNetwork (www.systeminetwork.com)
-  * Any Penton Media, Inc.’s Information Technology Group website that links to this policy
+  * Windows SuperSite (winsupersite.com) 
+  * Win Dev Pro (windevpro.com) 
+  * System iNetwork (www.systeminetwork.com) 
+  * Any Penton Media, Inc.’s Information Technology Group website that links to this policy 
 
 
 
@@ -49,7 +49,7 @@ This policy is long because addressing privacy in an international business envi
 
 **C.   Safe Harbor Privacy Statement**
 
-For personal information about our customers subject to EU data protection laws that we receive from Member States of the European Union, we have committed to handling such personal information in accordance with the Safe Harbor Principles. Penton Media Inc.’s Information Technology Group’s Safe Harbor certification can be found at <http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list>. Additional information about the Safe Harbor program is available at the U.S. Department of Commerce's website at <http://www.export.gov/safeharbor>.   
+For personal information about our customers subject to EU data protection laws that we receive from Member States of the European Union, we have committed to handling such personal information in accordance with the Safe Harbor Principles. Penton Media Inc.’s Information Technology Group’s Safe Harbor certification can be found at [http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe harbor list](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe%20harbor%20list). Additional information about the Safe Harbor program is available at the U.S. Department of Commerce's website at <http://www.export.gov/safeharbor>.   
 
 We process customer information in our facilities in the United States. All customer information subject to this privacy policy is collected in the United States, obtained through websites in the United States, or obtained in other countries and transferred to the United States. Regardless where it originated, all customer data subject to this policy receives the same level of privacy protection as described in this policy statement.
 
@@ -79,36 +79,36 @@ We collect personal information about customers by lawful and fair means, and in
 
 Subscribe to or receive items including, but not limited to the following:
 
-  * a publication (whether paid or free) either directly through us or through another company, such as a subscription agency
-  * an email newsletter (whether paid or free)
+  * a publication (whether paid or free) either directly through us or through another company, such as a subscription agency 
+  * an email newsletter (whether paid or free) 
   * a digital magazine “(whether paid or free)”
 
 
 
 Register for:
 
-  * a website, webcast, trade show, roadshow, program, or other event that we produceor sponsor (with or without partners)
+  * a website, webcast, trade show, roadshow, program, or other event that we produceor sponsor (with or without partners) 
   * memberships or online products (such as eBook, whitepaper, etc.)  
-  * a contest
-  * your member profile, which you create
+  * a contest 
+  * your member profile, which you create 
 
 
 
 Use our websites or other means to purchase or place an order for (paid or otherwise) a product or service, such as:
 
-  * A book, CD, DVD, calendar, etc.
-  * A magazine subscription
-  * A podcast or similar digital content
-  * Elearning classes and materials
+  * A book, CD, DVD, calendar, etc. 
+  * A magazine subscription 
+  * A podcast or similar digital content 
+  * Elearning classes and materials 
 
 
 
 Visit or participate in:
 
-  * open forums or other public discussions that we host or sponsor
-  * our websites
-  * surveys, user panels, focus groups
-  * any of our site services, including but not limited to services like our Resource Directory, “Email a Friend”, “Post a Comment”, “Site Feedback”, “Comments and Suggestions”, “Report Bugs” and any others
+  * open forums or other public discussions that we host or sponsor 
+  * our websites 
+  * surveys, user panels, focus groups 
+  * any of our site services, including but not limited to services like our Resource Directory, “Email a Friend”, “Post a Comment”, “Site Feedback”, “Comments and Suggestions”, “Report Bugs” and any others 
 
 
 
@@ -122,10 +122,10 @@ We also obtain some information about customers from third parties. We use the 
 
  We collect: 
 
-  * Your contact information including your name, physical address, mailing address, email address, and phone and fax numbers.
-  * Your demographic and survey information: Job function, title, topics of interest, purchasing plans, responses to surveys solicited online and offline, and information solicited through online registration forms.
-  * Your history as our customer, including your order and payment history, email and websites usage, promotional history and response.
-  * All content posted in public areas (including but not limited to online forums, comments on blog posts or articles, and other community areas) is publicly available and viewable. In order to maintain standards for online conduct in public areas we sponsor, we will remove an inappropriate posting when we find it.
+  * Your contact information including your name, physical address, mailing address, email address, and phone and fax numbers. 
+  * Your demographic and survey information: Job function, title, topics of interest, purchasing plans, responses to surveys solicited online and offline, and information solicited through online registration forms. 
+  * Your history as our customer, including your order and payment history, email and websites usage, promotional history and response. 
+  * All content posted in public areas (including but not limited to online forums, comments on blog posts or articles, and other community areas) is publicly available and viewable. In order to maintain standards for online conduct in public areas we sponsor, we will remove an inappropriate posting when we find it. 
 
 
 
@@ -193,8 +193,8 @@ In general, we process personal information so that it is not used or disclosed 
 
 We offer users the opportunity to opt-out of
 
-  * being contacted by us. You can choose not to be contacted by telephone, fax, or email.
-  * disclosures that we might make to third parties, such as through the rental of customer lists.
+  * being contacted by us. You can choose not to be contacted by telephone, fax, or email. 
+  * disclosures that we might make to third parties, such as through the rental of customer lists. 
 
 
 
@@ -214,8 +214,8 @@ Anyone seeking to know if we have information about himself or herself or who wa
                         Penton Media, Inc.,  
                         1300 E. 9thSt.  
                         Cleveland, OH44114   USA  
-                        privacy@penton.com  
-                        216-931-9161
+                        [sfprivacy@penton.com](mailto:sfprivacy@penton.com)  
+                       
 
 A request should include sufficient identifying information, such as name, address telephone number, fax number, and email address. In some cases, we may ask for a copy of identification (such as a driver’s license or other government-issued identification).
 
@@ -237,8 +237,8 @@ Penton Media, Inc.’s Information Technology Group is responsible for writing t
                         Penton Media, Inc.,  
                         1300 E. 9thSt.  
                         Cleveland, OH44114   USA  
-                        privacy@penton.com  
-                        216-931-9161
+                        [sfprivacy@penton.com](mailto:sfprivacy@penton.com)  
+                       
 
 A request should include sufficient contact information, such as name, address, telephone number, fax number, and email address. 
 
@@ -251,20 +251,5 @@ If you are not satisfied with the response of the Privacy Officer, you can appea
                         249 West 17thSt.  
                         Fourth Floor  
                         New York, NY 10011   USA  
-                        privacy@penton.com  
-                        216-931-9161
-
-**IX.   How to contact us**
-
-Address any questions about our privacy policy to:           
-
-                        Privacy Officer  
-                        Penton Media, Inc.,  
-                        1300 E. 9thSt.  
-                        Cleveland, OH44114   USA  
-                        privacy@penton.com  
-                        216-931-9161
-
-[We self-certify with](http://web.ita.doc.gov/safeharbor/shlist.nsf/%20webPages/safe+harbor+list "Safe Harbor website")
-
-[](http://www.export.gov/safeharbor)
+                          
+                      
