@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sociomantic.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623063827id_/http%3A//www.sociomantic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sociomantic.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222145755id_/http%3A//www.sociomantic.com/privacy) for the most accurate reproduction.*
 
 # Privacy « sociomantic labs | Real-time bidding solutions for eCommerce
 
@@ -9,15 +9,15 @@ Last updated: 8 November, 2010
 
 **Website Privacy Policy**
 
-This section outlines the privacy practices with regards to our website, [www.sociomantic.com](https://web.archive.org/web/20110623063827id_/http%3A//) and all related domains.
+This section outlines the privacy practices with regards to our website, [www.sociomantic.com](https://web.archive.org/web/20111222145755id_/http%3A//) and all related domains.
 
   1. **Personally Identifiable Information (“PII”)**  
-We collect PII (such as your name, email address, or phone number) when you provide it to us for the purposes of communication with the company (e.g., by using our [contact form](https://web.archive.org/web/20110623063827id_/http%3A//contact/) or commenting on [our blog](http://blog.sociomantic.com/)). When we receive this information, we use it to respond to your inquiry, request, or comment, and then we store the information for a reasonable time to complete correspondence and keep a record of communications.We do not combine your PII with the non-PII data we store in our _sociomantic_ Sonar or third party cookies (more below). We will never share your PII with non-affiliate third parties unless obligated by the national law of the Federal Republic of Germany or international governance. 
+We collect PII (such as your name, email address, or phone number) when you provide it to us for the purposes of communication with the company (e.g., by using our [contact form](https://web.archive.org/web/20111222145755id_/http%3A//contact/) or commenting on [our blog](http://blog.sociomantic.com/)). When we receive this information, we use it to respond to your inquiry, request, or comment, and then we store the information for a reasonable time to complete correspondence and keep a record of communications.We do not combine your PII with the non-PII data we store in our _sociomantic_ Sonar or third party cookies (more below). We will never share your PII with non-affiliate third parties unless obligated by the national law of the Federal Republic of Germany or international governance. 
 
 If you would like to update or delete the PII we have on file, please feel free to email us.
 
   2. **Anonymous data (non-PII)**  
-Our website, [www.sociomantic.com](https://web.archive.org/web/20110623063827id_/http%3A//), places small text files on your internet browser called [cookies](http://www.allaboutcookies.org/). Cookies store non-personally identifiable information (non-PII) about your web browsing behaviors both on our site and after you leave our site. We use cookies for three purposes:
+Our website, [www.sociomantic.com](https://web.archive.org/web/20111222145755id_/http%3A//), places small text files on your internet browser called [cookies](http://www.allaboutcookies.org/). Cookies store non-personally identifiable information (non-PII) about your web browsing behaviors both on our site and after you leave our site. We use cookies for three purposes:
 
 
 
@@ -69,8 +69,7 @@ If you would like to opt-out of _sociomantic_ ’s Sonar tracking you can do so 
 
 At any time you may return to this page and opt-in again by unchecking the box below.
 
-**Links to Other Websites  
-**  
+**Links to Other Websites**  
 Our website may include links to other websites and third parties which are not directly affiliated with _sociomantic labs_ and are therefore not covered by this privacy policy. While we strive to link to companies with reputable privacy practices, we cannot guarantee that their policies will match our own. Please check the privacy policies of the website(s) you visit when questions arise.
 
 **Changes to the Privacy Policy**
