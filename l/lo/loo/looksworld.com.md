@@ -1,36 +1,132 @@
-> *The following text is extracted and transformed from the looksworld.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206154136id_/http%3A//looksworld.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looksworld.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222193501id_/http%3A//www.looksworld.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - www.looksworld.com
 
-### About this Notice
+| [](https://web.archive.org/) | [](http://www.looksworld.com/lastminute.htm)  
+---|---  
+  
+[Home](https://web.archive.org/)         [Camping](https://web.archive.org/plus/list.php?tid=1)         [Cruising](https://web.archive.org/plus/list.php?tid=2)         [Scenery spot](https://web.archive.org/plus/list.php?tid=3)         [Tradewinds](https://web.archive.org/plus/list.php?tid=4)         [Airline](https://web.archive.org/plus/list.php?tid=5)         [Stop at](https://web.archive.org/plus/list.php?tid=6)         [Traveled](https://web.archive.org/plus/list.php?tid=7)
 
-We are committed to protecting your privacy and earning your trust every day. This notice describes the personal information we collect about you and how we use and protect it. It applies to our current and former customers and replaces earlier versions that we may have given to you.
+|  |   
+---|---  
+  
+  [Camping](https://web.archive.org/plus/list.php?tid=1)
 
-### What information do you collect about me?
+[](https://web.archive.org/plus/view.php?aid=178)
 
-We consider the information you give us to quote and service your insurance policy to be “Nonpublic Personal Information” if it identifies you and is not available to the public.
+| 
 
-### Who do we share your information with?
+[Give Your Family More Flexibility At Campsites](https://web.archive.org/plus/view.php?aid=178)
 
-We will share information about you only as permitted by law. We will not share your Nonpublic Personal Information with other companies.
+[](https://web.archive.org/plus/view.php?aid=178)  
+  
+---|---  
+  
+Camping holidays can be a good option for those of us with children. They allow us to get away for a break and to do so without spending too much money. But we also know that they do require a fair amount of planning. Travelling as a family almost in…
 
-Disclosures include those that we feel are required to provide insurance claims and customer service, prevent fraud, perform research or comply with the law. Recipients include, our family of insurance companies, their claims representatives, service providers, consumer reporting agencies, law enforcement, courts and government agencies. These parties may disclose the information to others as permitted by law. For example, consumer reporting agencies may disclose transaction information received from us to other insurance companies with which you do business.
+› [LEARN MORE?](https://web.archive.org/plus/view.php?aid=178)
 
-Where permitted by law, we may also disclose application or transaction information to service providers that help us market our products.
+  [Cruising](https://web.archive.org/plus/list.php?tid=2)
 
-### Do you protect my information?
+[](https://web.archive.org/plus/view.php?aid=266)
 
-We restrict access to your Nonpublic Personal Information to our employees and others who we feel must use it to provide our products and services. Their use of the information is limited by law, our employee code of conduct, and written agreements where appropriate. We also maintain physical, electronic and procedural safeguards to protect your information.
+| 
 
-### Why do you collect my email address?
+[Characterstics Of Toronto Airport Limo](https://web.archive.org/plus/view.php?aid=266)
 
-We collect your e-mail address so that we can send you e-mails concerning your transactions with us, and other useful information.
+[](https://web.archive.org/plus/view.php?aid=266)  
+  
+---|---  
+  
+Toronto is one of the important cities in Canada. The number of tourists visiting the place remains s…
 
-To ensure you get our e-mails, our service provider or we may receive confirmations when you open them or click through the e-mail links. These confirmations may also show whether your e-mail system supports graphics, so we can tailor our messages to you. We will not share your e-mail address with other companies for their marketing purposes.
+[](https://web.archive.org/plus/view.php?aid=261)
 
-### Is there additional information for Website visitors?
+| 
 
-When you visit our site, we may use information we collect to provide services to you. We use web site information to help understand what you want so that we can enhance your online experience.
+[Cruises – How To Get The Best Travel Deals For A Holiday!](https://web.archive.org/plus/view.php?aid=261)
+
+[](https://web.archive.org/plus/view.php?aid=261)  
+  
+---|---  
+  
+Cruising is a great way to spend a holiday especially when it comes to family. This is because there …
+
+  [Scenery spot](https://web.archive.org/plus/list.php?tid=3)
+
+[Goa Adventure Sports- A Fascinating Part Of Goa Tourism](https://web.archive.org/plus/view.php?aid=448)
+
+[Kualalumpur Tour Package](https://web.archive.org/plus/view.php?aid=447)
+
+[Marina Bay - One Of The Interesting Tourist Places In Singapore](https://web.archive.org/plus/view.php?aid=446)
+
+[Why You Should Take Your Compact Camera Everywhere With You](https://web.archive.org/plus/view.php?aid=445)
+
+[Adventure Holidays In Singapore](https://web.archive.org/plus/view.php?aid=444)
+
+[Colombia Vacations &amp; Travel Packages](https://web.archive.org/plus/view.php?aid=443)
+
+[Explore The Uk On A Summer Break](https://web.archive.org/plus/view.php?aid=442)
+
+[San Diego Limos And Wine Tours – Enjoying What San Diego Has To Offer](https://web.archive.org/plus/view.php?aid=441)
+
+[Fresno Attractions: California&#039;s Playground](https://web.archive.org/plus/view.php?aid=440)
+
+[Visit Mount Abu- The Charming Hill Station Of Rajasthan](https://web.archive.org/plus/view.php?aid=439)
+
+|   
+---  
+**Privacy Policy**  
+  
+### This privacy policy statement discloses the information gathering and dissemination practices of this LooksWorld.com website.  No personal information is collected herein or disseminated hereby.  However, this privacy policy does not apply to third-party websites that are referenced by this website. 
+
+We use third-party advertising companies to serve ads when you visit this website.  These third parties may be placing and reading cookies on your web browser, or using web beacons to collect information, in the course of ads being served on this website.  Web browser privacy settings are typically used to manage cookies.  Please refer to your browser documentation for browser-specific cookie management information.
+
+These companies may also use information about your visits to this website and other websites in order to provide advertisements about goods and services that may interest you. 
 
   
+  
+  
+[The Importance Of Mexican Auto Insurance During Vacation!](https://web.archive.org/plus/view.php?aid=802)
 
+[Cheap Holidays Discount Travel: Enjoy Cheap Holidays](https://web.archive.org/plus/view.php?aid=801)
+
+[Meenakshi Temple Tour, Madurai, Tamil Nadu](https://web.archive.org/plus/view.php?aid=800)
+
+[Easygo Offers Tickets Of Low Cost Airlines India](https://web.archive.org/plus/view.php?aid=799)
+
+[India And Spirituality Buddhist](https://web.archive.org/plus/view.php?aid=798)
+
+[Caribbean Holiday Hotels](https://web.archive.org/plus/view.php?aid=797)
+
+[Yacht Charter Holidays In Croatia](https://web.archive.org/plus/view.php?aid=796)
+
+[Stop at](https://web.archive.org/plus/list.php?tid=6)
+
+[Hotel Man Singh Palace A Beautiful Place To Stay In Agra](https://web.archive.org/plus/view.php?aid=712)
+
+Situated amidst this very old splendor is MANSINGH PALAC…
+
+[Thailand Hotel Booking Skyrockets In Asia](https://web.archive.org/plus/view.php?aid=711)
+
+China leads the pack with 77.9 percent increase in onlin…
+
+[Budget Hotels In Kuala Lumpur And Accommodation In Kuala Lumpur](https://web.archive.org/plus/view.php?aid=710)
+
+Known for its amazing travel attractions, the capital ci…
+
+[Traveled](https://web.archive.org/plus/list.php?tid=7)
+
+[The Importance Of Mexican Auto Insurance During Vacation!](https://web.archive.org/plus/view.php?aid=802)
+
+[Cheap Holidays Discount Travel: Enjoy Cheap Holidays](https://web.archive.org/plus/view.php?aid=801)
+
+[Meenakshi Temple Tour, Madurai, Tamil Nadu](https://web.archive.org/plus/view.php?aid=800)
+
+[Easygo Offers Tickets Of Low Cost Airlines India](https://web.archive.org/plus/view.php?aid=799)
+
+[India And Spirituality Buddhist](https://web.archive.org/plus/view.php?aid=798)
+
+[Caribbean Holiday Hotels](https://web.archive.org/plus/view.php?aid=797)  
+  
+[Home](https://web.archive.org/)  |  [About Us](https://web.archive.org/about.htm)  |  [Contact Us](https://web.archive.org/contact.htm)  |  [Privacy Policy](https://web.archive.org/privacy.htm)   Copyright © 2010 Looksworld.com, All Rights Reserved.
