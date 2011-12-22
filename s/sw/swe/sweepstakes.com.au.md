@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweepstakes.com.au privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505114941id_/http%3A//www.readersdigest.com.au/readers-digest-privacy-policy-anz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweepstakes.com.au privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222192600id_/http%3A//www.readersdigest.com.au/readers-digest-privacy-policy-anz) for the most accurate reproduction.*
 
 # Reader's Digest Privacy Policy
 
