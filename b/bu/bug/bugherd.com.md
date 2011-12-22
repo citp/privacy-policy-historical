@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the bugherd.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623045802id_/http%3A//bugherd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugherd.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222164203id_/http%3A//www.bugherd.com/privacy) for the most accurate reproduction.*
 
 # BugHerd | Less Wrangling. More Fixing.
+
+## Privacy Policy 
+
+What we do with information you provide to us
 
 When accessing our Website, BugHerd Pty Ltd and Angry Monkeys Pty Ltd will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
