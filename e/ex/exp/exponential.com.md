@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the exponential.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615000508id_/http%3A//exponential.com/who-we-are/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exponential.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222181137id_/http%3A//www.exponential.com/who-we-are/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Exponential®
 
 EXPONENTIAL INTERACTIVE, INC.  
 PRIVACY POLICY
 
-_Updated on June 17, 2010_
+_Updated on December 1, 2011_
 
 Exponential Interactive, Inc. ("Exponential") is a technology-enabled media services company whose clients and customers include both online advertisers ("Advertisers") and Internet content sites ("Publishers"). We deliver innovative products and services designed to:
 
@@ -25,7 +25,7 @@ This Privacy Policy is intended to provide consumers with clear and complete inf
 
 _Non-Personal Information Collected by our Services_
 
-We deliver advertisements from hundreds of Advertisers across a multitude of Publisher websites. When you visit one of the Publisher websites in our network, our automated system may collect "click stream data" related to your visit to the website. Click stream data is anonymous and can include information such as your IP address, Web pages viewed, the date and time at which those pages were viewed and interaction with content and advertisements on those Web pages. Technologies used to collect this click stream data, include cookies and Web beacons. For a description of cookies and Web beacons see our FAQ section. Our anonymous cookies are programmed to expire in six months. 
+We deliver advertisements from hundreds of Advertisers across a multitude of Publisher websites. When you visit one of the Publisher websites in our network, our automated system may collect "click stream data" related to your visit to the website. Click stream data is anonymous and can include information such as your IP address, Web pages viewed, the date and time at which those pages were viewed and interaction with content and advertisements on those Web pages. Technologies used to collect this click stream data, include cookies and Web beacons. For a description of cookies and Web beacons see our FAQ section. Our anonymous cookies are programmed to expire in ninety days. 
 
 In order to improve performance, we augment our click stream data with non-personally-identifiable behavioral and demographic data from Publishers and other partners. This anonymous data may include such things as zip code, age, gender and income range. 
 
@@ -34,9 +34,9 @@ We utilize the non-personal information described above to better customize the 
 **Consumer Choice - Opting Out of Receiving Cookies**  
 We use technology which includes cookies and web beacons in the delivery of our Services. We believe that the use of these tools enables us to provide users with a more meaningful web experience. You may adjust your computer's web browser settings to refuse all cookies. However, please note that because cookies are widely used, disabling the use of cookies in your web browser may interfere with full use of various websites.
 
-You may opt out of receiving Exponential cookies by [clicking here](https://web.archive.org/web/20110615000508id_/http%3A//exponential.com/who-we-are/cookie-thankyou.jsp)
+You may opt out of receiving Exponential cookies by [clicking here](https://web.archive.org/web/20111222181137id_/http%3A//www.exponential.com/who-we-are/cookie-thankyou.jsp)
 
-[](https://web.archive.org/web/20110615000508id_/http%3A//exponential.com/who-we-are/cookie-thankyou.jsp)
+[](https://web.archive.org/web/20111222181137id_/http%3A//www.exponential.com/who-we-are/cookie-thankyou.jsp)
 
 You can also opt out of receiving cookies from Exponential and other NAI member companies by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp)
 
@@ -65,6 +65,9 @@ We reserve the right to disclose personally identifiable information you have di
 
 **Children's Privacy  
 **Exponential is sensitive to the issue of children's privacy. Hence, our services are neither developed for, nor directed at, children. We don't offer the targeting of advertising towards anyone under the age of 13.
+
+**Healthcare Privacy  
+**Exponential allows advertisers to target users in certain health-related categories. A list of these categories may be found [here](https://web.archive.org/web/20111222181137id_/http%3A//www.exponential.com/who-we-are/privacy-policy-healthcare.jsp)
 
 **Changes to this Privacy Policy  
 **We reserve the right to make changes to this Privacy Policy by posting an updated version on this page. The date on which the current Privacy Policy was posted will always be noted at the top of this page. Any change we make to our Privacy Policy will be made in compliance with applicable law.
