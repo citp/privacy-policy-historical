@@ -1,23 +1,14 @@
-<!--The following is the downloaded HTML source of the sendfromchina.com privacy policy that was archived on 2010-02-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100220092625id_/http%3A//www.sendfromchina.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sendfromchina.com privacy policy that was archived on 2011-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111222012303id_/http%3A//www.sendfromchina.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf8">
 <meta name="verify-v1" content="req1RbPsHnUoUvKOp5BK+MoBZr+hhyGjfPQ1K2+K9EQ=">
-<title>
-Privacy Policy</title>
-<!-- comments -->
-
-
-<link href="/scripts/en/include/css.css" rel="stylesheet" type="text/css">
-<meta name="robots" content="all">
-<meta name="Keywords" content="China Post Rates, China Express Mail, China Post Tracking, China Post Office, China Post Beijing, China Postal, China Postal Service">
-<meta name="Description" content="Address: Huolibao Warehouse Building 1F, 11 New Song-ping-shan Road West, Kejiyuan North, Nanshan, Shenzhen, GD 518057<br>Phone: 1-647-427-0397">
-<script type="text/javascript" src="/images/jquery.js"></script>
-<script type="text/javascript" src="/scripts/en/js/sAlert.js"></script>
-<script type="text/javascript" src="/scripts/en/js/common.js"></script>
+<link href="/app/css/sfc.css" rel="stylesheet" type="text/css">
+<title>China Postal Service starts from US$0.95, International Courier Service starts from US$7 - SFC Service Ltd.</title>
+<link href="/app/css/en/css.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://web.archive.org/web/20110628084259/https://ssl.google-analytics.com/ga.js"></script><script src="/app/js/jquery.js" type="text/javascript"></script>
 <script type="text/javascript">
-
 function region1(region_id,childdiv) {
 	if(region_id == -1){		 
 		$("#region1_id3").css("display","none");
@@ -30,7 +21,7 @@ function region1(region_id,childdiv) {
         $("#"+childdiv).css("display","none");
         $.ajax({
             type:"GET",
-            url:"/logistics/cnshipping/cnregion/region/parent_id/"+region_id,
+            url:"/logistics/region/index/parent_id/"+region_id,
             success:function(data){
                 if(data != "noregion"){
                     var region = new Array();
@@ -48,12 +39,10 @@ function region1(region_id,childdiv) {
                             }
 							sel.options.add(new Option('Other','-1'));
                         }
-
                     }                
                 }else if(data == "noregion"){
                      var sel = document.getElementById(childdiv);
                          sel.options.length = 0;
-//                         sel.options.add(new Option('Other','-1'));
                 }
             
             },
@@ -111,22 +100,18 @@ function check2(){
 	
 	return true;
 }
-
-
-</script>
-
+</script><script src="/app/js/googleAnalytics_en.js" type="text/javascript"></script>
 </head>
 <body>
+
 <div id="container">
 <div id="bg_header">
   <div id="langtitle">
     <ul>
-      <li><a href="http://www.sfcservice.com/" title="Simplified Chinese">Simplified Chinese</a></li>
+	<li><a href="/index/lang" title="Simplified Chinese">中文</a></li>
       <li>|</li>
-      <li><a href="/register/start/type/sfc" title="Register">Register</a></li>
-      <li>|</li>
-      <li><a href="/home/login" title="Login">Login</a></li>
-      <li><form action="/searchresult" id="cse-search-box">
+	  <li><a href="http://www.sfcservice.com/m/">Mobile version</a></li><li>|</li>
+       <li><a href="/user/register">Register</a></li><li>|</li><li><a href="/user/login">login</a></li>      <li><form action="/searchresult" id="cse-search-box">
 	    <div style="padding:0px; text-align:right; width:432px;">
 	    <input type="hidden" name="cx" value="011295774537253669474:wpx0gf9ezi4">
 	    <input type="hidden" name="cof" value="FORID:9">
@@ -155,17 +140,17 @@ function check2(){
       <tbody><tr>
         <td style="background: none; padding-left: 10px;">&nbsp;</td>
         <td><a href="/">Home</a></td>
-        <td><a href="/shipping.php">Postal<br>
+        <td><a href="/shipping">Postal<br>
           Service</a></td>
-        <td><a href="/express.php">Express<br>
+        <td><a href="/express">Express<br>
           Service</a></td>
-        <td><a href="/warehouse.php">Warehouse<br>
+        <td><a href="/default/warehouse">Warehouse<br>
           Fulfillment</a></td>
-        <td><a href="/packing.php">Packing<br>
+        <td><a href="/packing">Packing<br>
           Materials</a></td>
-        <td><a href="/webservice.php">Webstore<br>
+        <td><a href="/webservice">Webstore<br>
           Integration</a></td>
-        <td><a href="/about.php">About Us</a></td>
+        <td><a href="/about">About Us</a></td>
       </tr>
     </tbody></table>
   </div>
@@ -173,351 +158,430 @@ function check2(){
 <div id="banner">
 	<a href="/"><div id="logo"></div></a>
     <div id="search">
-    	<ul>
-<form action="/logistics/cnshipping/shipping/index" method="post" onsubmit="return check2()"> 
-	  <li>From:
-       	  <select><option>China</option></select>
-          <select name="region_id1" onchange="region1(this.value,'region1_id2')" id="region1_id1" class="border height-20">
-          	<option value="2">Beijing</option>
-<option value="3">Anhui</option>
-<option value="4">Fujian</option>
-<option value="5">Gansu</option>
-<option value="6">Guangdong</option>
-<option value="7">Guangxi</option>
-<option value="8">Guizhou</option>
-<option value="9">Hainan</option>
-<option value="10">Hebei</option>
-<option value="11">Henan</option>
-<option value="12">Heilongjiang</option>
-<option value="13">Hubei</option>
-<option value="14">Hunan</option>
-<option value="15">Jilin</option>
-<option value="16">Jiangsu</option>
-<option value="17">Jiangxi</option>
-<option value="18">Liaoning</option>
-<option value="19">Inner Mongolia</option>
-<option value="22">Shandong</option>
-<option value="23">Shanxi</option>
-<option value="24">Shaanxi</option>
-<option value="25">Shanghai</option>
-<option value="26">Sichuan</option>
-<option value="27">Tianjin</option>
-<option value="29">Xinjiang</option>
-<option value="30">Yunnan</option>
-<option value="31">Zhejiang</option>
-<option value="32">Chongqing</option>
-<option value="33">Hongkong</option>
-<option value="34">Macau</option>
-<option value="35">Taiwan</option>
-          </select>                     
-          <select name="region_id2" onchange="region1(this.value,'region1_id3')" id="region1_id2" class="border height-20" style="display:none"></select>
-          <select name="region_id3" id="region1_id3" class="border height-20" style="display:none;"></select>
-         To:
-        	        <select name="country" style=" width:170px;">
-<optgroup label="――――――――――――――――――"><option value="United States Of America">United States Of America</option>
-<option value="United Kingdom">United Kingdom</option>
-<option value="Canada">Canada</option>
-<option value="Germany">Germany</option>
-<option value="Spain">Spain</option>
-<option value="France">France</option>
-<option value="Italy">Italy</option>
-<option value="Australia">Australia</option>
-<option value="Japan">Japan</option>
-<option value="Afghanistan">Afghanistan</option>
-<option value="Albania">Albania</option>
-<option value="Algeria">Algeria</option>
-<option value="American Samoa">American Samoa</option>
-<option value="Andorra">Andorra</option>
-<option value="Angola">Angola</option>
-<option value="Anguilla">Anguilla</option>
-<option value="Antigua And Barbuda">Antigua And Barbuda</option>
-<option value="APO/FPO">APO/FPO</option>
-<option value="Argentina">Argentina</option>
-<option value="Armenia">Armenia</option>
-<option value="Aruba">Aruba</option>
-<option value="Austria">Austria</option>
-<option value="Azerbaijan">Azerbaijan</option>
-<option value="Azores">Azores</option>
-<option value="Bahamas">Bahamas</option>
-<option value="Bahrain">Bahrain</option>
-<option value="Balearics">Balearics</option>
-<option value="Bangladesh">Bangladesh</option>
-<option value="Barbadian">Barbadian</option>
-<option value="Barbados">Barbados</option>
-<option value="Belgium">Belgium</option>
-<option value="Belize">Belize</option>
-<option value="Benin">Benin</option>
-<option value="Bermuda">Bermuda</option>
-<option value="Bhutan">Bhutan</option>
-<option value="Bolivia">Bolivia</option>
-<option value="Bonaire">Bonaire</option>
-<option value="BOSNIA">BOSNIA</option>
-<option value="Bosnia And Herzegovina">Bosnia And Herzegovina</option>
-<option value="Botswana">Botswana</option>
-<option value="Bouvet Island">Bouvet Island</option>
-<option value="Brazil">Brazil</option>
-<option value="British Virgin Islands">British Virgin Islands</option>
-<option value="Brunei">Brunei</option>
-<option value="Bulgaria">Bulgaria</option>
-<option value="Burkina Faso">Burkina Faso</option>
-<option value="Burundi">Burundi</option>
-<option value="Byelorussia">Byelorussia</option>
-<option value="Cameroon">Cameroon</option>
-<option value="Canary Islands">Canary Islands</option>
-<option value="Cape Verde">Cape Verde</option>
-<option value="Cayman African Republic">Cayman African Republic</option>
-<option value="Central African Republic">Central African Republic</option>
-<option value="Chad">Chad</option>
-<option value="Channel Is.">Channel Is.</option>
-<option value="Chile">Chile</option>
-<option value="China">China</option>
-<option value="China Mainland(Major areas)">China Mainland(Major areas)</option>
-<option value="China Mainland(Other areas)">China Mainland(Other areas)</option>
-<option value="Christmas Island">Christmas Island</option>
-<option value="Christopher and Nevis">Christopher and Nevis</option>
-<option value="Cocos Islands">Cocos Islands</option>
-<option value="Colombia">Colombia</option>
-<option value="Comoros">Comoros</option>
-<option value="Congo">Congo</option>
-<option value="Congo Democratic">Congo Democratic</option>
-<option value="Cook Islands">Cook Islands</option>
-<option value="Corsica">Corsica</option>
-<option value="Costa Rica">Costa Rica</option>
-<option value="Croatia">Croatia</option>
-<option value="Cuba">Cuba</option>
-<option value="Curacao">Curacao</option>
-<option value="Cyprus">Cyprus</option>
-<option value="Czech Republic">Czech Republic</option>
-<option value="Denmark">Denmark</option>
-<option value="Djibouti">Djibouti</option>
-<option value="Dominica">Dominica</option>
-<option value="Dominican Republic">Dominican Republic</option>
-<option value="East Timor">East Timor</option>
-<option value="Ecuador">Ecuador</option>
-<option value="Egypt">Egypt</option>
-<option value="El Salvador">El Salvador</option>
-<option value="Equatorial Guinea">Equatorial Guinea</option>
-<option value="Eritrea">Eritrea</option>
-<option value="Estonia">Estonia</option>
-<option value="Ethiopia">Ethiopia</option>
-<option value="Faeroe Islands">Faeroe Islands</option>
-<option value="Falkland Islands">Falkland Islands</option>
-<option value="Faroe Islands">Faroe Islands</option>
-<option value="Fiji">Fiji</option>
-<option value="Finland">Finland</option>
-<option value="French Guiana">French Guiana</option>
-<option value="French Polynesia">French Polynesia</option>
-<option value="Gabon">Gabon</option>
-<option value="Gambia">Gambia</option>
-<option value="Gaza and Khan Yunis">Gaza and Khan Yunis</option>
-<option value="Georgia">Georgia</option>
-<option value="Ghana">Ghana</option>
-<option value="Gibraltar">Gibraltar</option>
-<option value="Greece">Greece</option>
-<option value="Greenland">Greenland</option>
-<option value="Grenada">Grenada</option>
-<option value="Guadeloupe">Guadeloupe</option>
-<option value="Guam">Guam</option>
-<option value="Guatemala">Guatemala</option>
-<option value="Guernsey">Guernsey</option>
-<option value="Guinea">Guinea</option>
-<option value="Guinea-bissau">Guinea-bissau</option>
-<option value="Guyana">Guyana</option>
-<option value="Haiti">Haiti</option>
-<option value="Heard And Mcdonald Islands">Heard And Mcdonald Islands</option>
-<option value="Heligoland">Heligoland</option>
-<option value="Honduras">Honduras</option>
-<option value="Hong Kong">Hong Kong</option>
-<option value="Hungary">Hungary</option>
-<option value="Iceland">Iceland</option>
-<option value="India">India</option>
-<option value="Indonesia">Indonesia</option>
-<option value="Iran">Iran</option>
-<option value="Iraq">Iraq</option>
-<option value="Ireland">Ireland</option>
-<option value="Israel">Israel</option>
-<option value="Ivory Coast">Ivory Coast</option>
-<option value="Jamaica">Jamaica</option>
-<option value="Jersey">Jersey</option>
-<option value="Jordan">Jordan</option>
-<option value="Kampuchea">Kampuchea</option>
-<option value="Kazakhstan">Kazakhstan</option>
-<option value="Kenya">Kenya</option>
-<option value="Kiribati">Kiribati</option>
-<option value="Korea">Korea</option>
-<option value="KOSOVO">KOSOVO</option>
-<option value="Kosrae">Kosrae</option>
-<option value="Kuwait">Kuwait</option>
-<option value="Kyrgyzstan">Kyrgyzstan</option>
-<option value="Laos">Laos</option>
-<option value="Latvia">Latvia</option>
-<option value="Lebanon">Lebanon</option>
-<option value="Lesotho">Lesotho</option>
-<option value="Liberia">Liberia</option>
-<option value="Libya">Libya</option>
-<option value="Liechtenstein">Liechtenstein</option>
-<option value="Lithuania">Lithuania</option>
-<option value="Lithuania">Lithuania</option>
-<option value="Luxembourg">Luxembourg</option>
-<option value="Macao">Macao</option>
-<option value="Macedonia">Macedonia</option>
-<option value="Madagascar">Madagascar</option>
-<option value="Madeira">Madeira</option>
-<option value="Malawi">Malawi</option>
-<option value="Malaysia">Malaysia</option>
-<option value="Maldives">Maldives</option>
-<option value="Mali">Mali</option>
-<option value="Malta">Malta</option>
-<option value="Marshall Islands">Marshall Islands</option>
-<option value="Martinique">Martinique</option>
-<option value="Maryland">Maryland</option>
-<option value="Mauritania">Mauritania</option>
-<option value="Mauritius">Mauritius</option>
-<option value="MAYOTTE">MAYOTTE</option>
-<option value="Melilla">Melilla</option>
-<option value="Mexico">Mexico</option>
-<option value="Micronesia">Micronesia</option>
-<option value="Miquelon">Miquelon</option>
-<option value="Moldova">Moldova</option>
-<option value="Monaco">Monaco</option>
-<option value="Mongolia">Mongolia</option>
-<option value="Montenegro">Montenegro</option>
-<option value="Montserrat">Montserrat</option>
-<option value="Morocco">Morocco</option>
-<option value="Mozambique">Mozambique</option>
-<option value="Myanmar">Myanmar</option>
-<option value="Namibia">Namibia</option>
-<option value="Nauru">Nauru</option>
-<option value="Nepal">Nepal</option>
-<option value="Netherlands">Netherlands</option>
-<option value="Netherlands Antilles">Netherlands Antilles</option>
-<option value="Neutral Zone">Neutral Zone</option>
-<option value="New Caledonia">New Caledonia</option>
-<option value="New Zealand">New Zealand</option>
-<option value="New Zealand Islands Territories">New Zealand Islands Territories</option>
-<option value="Nicaragua">Nicaragua</option>
-<option value="Niger">Niger</option>
-<option value="Nigeria">Nigeria</option>
-<option value="Niue">Niue</option>
-<option value="Norfolk Island">Norfolk Island</option>
-<option value="North Korea">North Korea</option>
-<option value="Northern Ireland">Northern Ireland</option>
-<option value="Northern Mariana Islands">Northern Mariana Islands</option>
-<option value="Norway">Norway</option>
-<option value="Oman">Oman</option>
-<option value="Pakistan">Pakistan</option>
-<option value="Palau">Palau</option>
-<option value="Palestine">Palestine</option>
-<option value="Panama">Panama</option>
-<option value="Papua New Guinea">Papua New Guinea</option>
-<option value="Paraguay">Paraguay</option>
-<option value="Peru">Peru</option>
-<option value="Philippines">Philippines</option>
-<option value="Poland">Poland</option>
-<option value="Polynesia">Polynesia</option>
-<option value="Ponape">Ponape</option>
-<option value="Portugal">Portugal</option>
-<option value="Puerto Rico">Puerto Rico</option>
-<option value="Qatar">Qatar</option>
-<option value="Reunion">Reunion</option>
-<option value="Romania">Romania</option>
-<option value="Rota(Nothern Mariana Islands)">Rota(Nothern Mariana Islands)</option>
-<option value="Russia">Russia</option>
-<option value="Rwanda">Rwanda</option>
-<option value="Saba(Netherlands Antilles)">Saba(Netherlands Antilles)</option>
-<option value="Saint Lucia">Saint Lucia</option>
-<option value="Saipan">Saipan</option>
-<option value="San Marino">San Marino</option>
-<option value="Sao Tome And Principe">Sao Tome And Principe</option>
-<option value="Saudi Arabia">Saudi Arabia</option>
-<option value="Scotland">Scotland</option>
-<option value="Senegal">Senegal</option>
-<option value="Serbia">Serbia</option>
-<option value="Seychelles">Seychelles</option>
-<option value="Sierra Leone">Sierra Leone</option>
-<option value="Singapore">Singapore</option>
-<option value="Sint Maarten">Sint Maarten</option>
-<option value="Slovakia">Slovakia</option>
-<option value="Slovenia">Slovenia</option>
-<option value="Solomon Islands">Solomon Islands</option>
-<option value="Somalia">Somalia</option>
-<option value="Somaliland">Somaliland</option>
-<option value="South Africa">South Africa</option>
-<option value="Sri Lanka">Sri Lanka</option>
-<option value="ST KITTS And NEVIS">ST KITTS And NEVIS</option>
-<option value="St. Barthelemy">St. Barthelemy</option>
-<option value="St. Eustatius">St. Eustatius</option>
-<option value="St. Pierre and Miquelon">St. Pierre and Miquelon</option>
-<option value="St. Vincent">St. Vincent</option>
-<option value="Sudan">Sudan</option>
-<option value="Suriname">Suriname</option>
-<option value="Swaziland">Swaziland</option>
-<option value="Sweden">Sweden</option>
-<option value="Switzerland">Switzerland</option>
-<option value="Syria">Syria</option>
-<option value="Tahiti">Tahiti</option>
-<option value="Taiwan">Taiwan</option>
-<option value="Tajikistan">Tajikistan</option>
-<option value="Tanzania">Tanzania</option>
-<option value="Thailand">Thailand</option>
-<option value="Timor Leste(East Timor)">Timor Leste(East Timor)</option>
-<option value="Tinian (Northern Marthern Islands)">Tinian (Northern Marthern Islands)</option>
-<option value="Togo">Togo</option>
-<option value="Tonga">Tonga</option>
-<option value="Tortola">Tortola</option>
-<option value="Trinidad And Tobago">Trinidad And Tobago</option>
-<option value="Truk">Truk</option>
-<option value="Tunisia">Tunisia</option>
-<option value="Turkey">Turkey</option>
-<option value="Turkmenistan">Turkmenistan</option>
-<option value="Turks And Caicos Islands">Turks And Caicos Islands</option>
-<option value="Tuvalu">Tuvalu</option>
-<option value="Uganda">Uganda</option>
-<option value="Ukraine">Ukraine</option>
-<option value="United Arab Emirates">United Arab Emirates</option>
-<option value="Uruguay">Uruguay</option>
-<option value="US Virgin Islands">US Virgin Islands</option>
-<option value="Uzbekistan">Uzbekistan</option>
-<option value="Vanuatu">Vanuatu</option>
-<option value="Vatican City">Vatican City</option>
-<option value="Venezuela">Venezuela</option>
-<option value="Vietnam">Vietnam</option>
-<option value="Wales">Wales</option>
-<option value="Wallis &amp; Futuna Is">Wallis &amp; Futuna Is</option>
-<option value="Western Samoa">Western Samoa</option>
-<option value="Yap">Yap</option>
-<option value="Yemen">Yemen</option>
-<option value="YUGOSLAVIA">YUGOSLAVIA</option>
-<option value="Zambia">Zambia</option>
-<option value="Zimbabwe">Zimbabwe</option>
-</optgroup></select>           </li>
+    	<ul>    	
+			<script type="text/javascript">
+$(function(){
+    region('','region_id2','');
+    region('','region_id3','');
+});
 
-  		   <li>
-				Weight&nbsp;<input id="weight1" name="weight" type="text" value="" size="" style="width:60px;">
-				kg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Length 
-				<input id="length1" name="length" type="text" value="" style="width:30px;">(cm)×Width 
-				<input id="width1" name="width" type="text" value="" style="width:30px;">(cm)×Height 
-				<input id="height1" name="height" type="text" value="" style="width:30px;">(cm)
-				<input type="image" src="/images/calculate.gif" style="border:none">
+
+function region(region_id,childdiv,childvalue) {
+	if(region_id == -1){		 
+		$("#region_id3").css("display","none");
+        $("#"+childdiv).css("display","none");
+	}
+    if(region_id != "" && region_id > 0){  
+        document.getElementById('region_id3').options.length = 0;
+        document.getElementById('region_id3').options.add(new Option("Please select",''));
+        $("#region_id3").css("display","none");
+        $("#"+childdiv).css("display","none");
+        $.ajax({
+            type:"GET",
+            url:"/logistics/region/index/parent_id/"+region_id,
+            success:function(data){
+                if(data != "noregion"){
+                    var region = new Array();
+                    var regionrow = new Array();
+                    region = data.split("||");
+                    if(region.length > 0){
+                     var sel = document.getElementById(childdiv);
+                         sel.options.length = 0;
+                         sel.options.add(new Option("Please select",''));
+                         if(region.length > 0){
+                            $("#"+childdiv).css("display","");
+                            for(i=0;i<region.length;i++){
+                                regionrow = region[i].split("_");
+                                sel.options.add(new Option(regionrow[1],regionrow[0]));
+                            }
+							sel.options.add(new Option('Other','-1'));
+                        }
+                    }
+                    if(childvalue!=null)
+                    {
+                        if(childdiv=='region_id2'){
+                            $('#region_id2').val(childvalue);
+                        }
+                        if(childdiv =='region_id3'){
+                            $('#region_id3').val(childvalue);
+                        }
+                    }
+                }else if(data == "noregion"){
+                     var sel = document.getElementById(childdiv);
+                         sel.options.length = 0;
+                }
+            
+            },
+            error:function(){               
+            }        
+        });    
+    }
+}
+</script>
+
+
+<form action="/logistics/shipping" method="post" onsubmit="return check2()"> 
+	<li>From:
+       	 <select><option>China</option></select>
+		 
+         <select name="region_id1" onchange="region(this.value,'region_id2')" id="region_id1" class="border height-20">
+                  	<option value="2" title="Beijing">Beijing</option>
+                  	<option value="3" title="Anhui">Anhui</option>
+                  	<option value="4" title="Fujian">Fujian</option>
+                  	<option value="5" title="Gansu">Gansu</option>
+                  	<option value="6" title="Guangdong">Guangdong</option>
+                  	<option value="7" title="Guangxi">Guangxi</option>
+                  	<option value="8" title="Guizhou">Guizhou</option>
+                  	<option value="9" title="Hainan">Hainan</option>
+                  	<option value="10" title="Hebei">Hebei</option>
+                  	<option value="11" title="Henan">Henan</option>
+                  	<option value="12" title="Heilongjiang">Heilongjiang</option>
+                  	<option value="13" title="Hubei">Hubei</option>
+                  	<option value="14" title="Hunan">Hunan</option>
+                  	<option value="15" title="Jilin">Jilin</option>
+                  	<option value="16" title="Jiangsu">Jiangsu</option>
+                  	<option value="17" title="Jiangxi">Jiangxi</option>
+                  	<option value="18" title="Liaoning">Liaoning</option>
+                  	<option value="19" title="Inner Mongolia">Inner Mongolia</option>
+                  	<option value="22" title="Shandong">Shandong</option>
+                  	<option value="23" title="Shanxi">Shanxi</option>
+                  	<option value="24" title="Shaanxi">Shaanxi</option>
+                  	<option value="25" title="Shanghai">Shanghai</option>
+                  	<option value="26" title="Sichuan">Sichuan</option>
+                  	<option value="27" title="Tianjin">Tianjin</option>
+                  	<option value="29" title="Xinjiang">Xinjiang</option>
+                  	<option value="30" title="Yunnan">Yunnan</option>
+                  	<option value="31" title="Zhejiang">Zhejiang</option>
+                  	<option value="32" title="Chongqing">Chongqing</option>
+                  	<option value="33" title="Hongkong">Hongkong</option>
+                  	<option value="34" title="Macau">Macau</option>
+                  	<option value="35" title="Taiwan">Taiwan</option>
+                  	<option value="183" title="gangaotai">gangaotai</option>
+                  	<option value="184" title="others">others</option>
+                  </select>                     
+         <select name="region_id2" onchange="region(this.value,'region_id3')" id="region_id2" class="border height-20">
+		 		 
+		 </select>
+         <select name="region_id3" id="region_id3" class="border height-20" style="display:none">
+                  </select>
+    
+        To:
+    	<select name="country" style="width:170px">
+						<option value="United States Of America" title="United States Of America">United States Of America</option>
+						<option value="United Kingdom" title="United Kingdom">United Kingdom</option>
+						<option value="Canada" title="Canada">Canada</option>
+						<option value="Germany" title="Germany">Germany</option>
+						<option value="Spain" title="Spain">Spain</option>
+						<option value="France" title="France">France</option>
+						<option value="Italy" title="Italy">Italy</option>
+						<option value="Australia" title="Australia">Australia</option>
+						<option value="Japan" title="Japan">Japan</option>
+						<option value="Afghanistan" title="Afghanistan">Afghanistan</option>
+						<option value="Albania" title="Albania">Albania</option>
+						<option value="Algeria" title="Algeria">Algeria</option>
+						<option value="American Samoa" title="American Samoa">American Samoa</option>
+						<option value="Andorra" title="Andorra">Andorra</option>
+						<option value="Angola" title="Angola">Angola</option>
+						<option value="Anguilla" title="Anguilla">Anguilla</option>
+						<option value="Antigua And Barbuda" title="Antigua And Barbuda">Antigua And Barbuda</option>
+						<option value="Argentina" title="Argentina">Argentina</option>
+						<option value="Aruba" title="Aruba">Aruba</option>
+						<option value="ASCENSION" title="ASCENSION">ASCENSION</option>
+						<option value="Austria" title="Austria">Austria</option>
+						<option value="Azerbaijan" title="Azerbaijan">Azerbaijan</option>
+						<option value="Azores" title="Azores">Azores</option>
+						<option value="Bahamas" title="Bahamas">Bahamas</option>
+						<option value="Bahrain" title="Bahrain">Bahrain</option>
+						<option value="Balearics" title="Balearics">Balearics</option>
+						<option value="Bangladesh" title="Bangladesh">Bangladesh</option>
+						<option value="Barbadian" title="Barbadian">Barbadian</option>
+						<option value="Barbados" title="Barbados">Barbados</option>
+						<option value="Belarus" title="Belarus">Belarus</option>
+						<option value="Belgium" title="Belgium">Belgium</option>
+						<option value="Belize" title="Belize">Belize</option>
+						<option value="Benin" title="Benin">Benin</option>
+						<option value="Bermuda" title="Bermuda">Bermuda</option>
+						<option value="Bhutan" title="Bhutan">Bhutan</option>
+						<option value="Bolivia" title="Bolivia">Bolivia</option>
+						<option value="Bonaire" title="Bonaire">Bonaire</option>
+						<option value="BOSNIA" title="BOSNIA">BOSNIA</option>
+						<option value="Bosnia And Herzegovina" title="Bosnia And Herzegovina">Bosnia And Herzegovina</option>
+						<option value="Botswana" title="Botswana">Botswana</option>
+						<option value="Bouvet Island" title="Bouvet Island">Bouvet Island</option>
+						<option value="Brazil" title="Brazil">Brazil</option>
+						<option value="British Virgin Islands" title="British Virgin Islands">British Virgin Islands</option>
+						<option value="Brunei" title="Brunei">Brunei</option>
+						<option value="Bulgaria" title="Bulgaria">Bulgaria</option>
+						<option value="Burkina Faso" title="Burkina Faso">Burkina Faso</option>
+						<option value="Burundi" title="Burundi">Burundi</option>
+						<option value="CABINDA" title="CABINDA">CABINDA</option>
+						<option value="Cameroon" title="Cameroon">Cameroon</option>
+						<option value="Canary Islands" title="Canary Islands">Canary Islands</option>
+						<option value="Cape Verde" title="Cape Verde">Cape Verde</option>
+						<option value="CAROLINE AND MARIANAS IS" title="CAROLINE AND MARIANAS IS">CAROLINE AND MARIANAS IS</option>
+						<option value="Cayman African Republic" title="Cayman African Republic">Cayman African Republic</option>
+						<option value="Central African Republic" title="Central African Republic">Central African Republic</option>
+						<option value="Chad" title="Chad">Chad</option>
+						<option value="Channel Is." title="Channel Is.">Channel Is.</option>
+						<option value="Chile" title="Chile">Chile</option>
+						<option value="China" title="China">China</option>
+						<option value="China Mainland(Major areas)" title="China Mainland(Major areas)">China Mainland(Major areas)</option>
+						<option value="China Mainland(Other areas)" title="China Mainland(Other areas)">China Mainland(Other areas)</option>
+						<option value="Christmas Island" title="Christmas Island">Christmas Island</option>
+						<option value="Christopher and Nevis" title="Christopher and Nevis">Christopher and Nevis</option>
+						<option value="Cocos Islands" title="Cocos Islands">Cocos Islands</option>
+						<option value="Colombia" title="Colombia">Colombia</option>
+						<option value="Comoros" title="Comoros">Comoros</option>
+						<option value="Congo" title="Congo">Congo</option>
+						<option value="Congo Democratic" title="Congo Democratic">Congo Democratic</option>
+						<option value="Cook Islands" title="Cook Islands">Cook Islands</option>
+						<option value="Corsica" title="Corsica">Corsica</option>
+						<option value="Costa Rica" title="Costa Rica">Costa Rica</option>
+						<option value="COTE D'IVOIRE" title="COTE D'IVOIRE">COTE D'IVOIRE</option>
+						<option value="Croatia" title="Croatia">Croatia</option>
+						<option value="Cuba" title="Cuba">Cuba</option>
+						<option value="Curacao" title="Curacao">Curacao</option>
+						<option value="Cyprus" title="Cyprus">Cyprus</option>
+						<option value="Czech Republic" title="Czech Republic">Czech Republic</option>
+						<option value="Denmark" title="Denmark">Denmark</option>
+						<option value="Djibouti" title="Djibouti">Djibouti</option>
+						<option value="Dominica" title="Dominica">Dominica</option>
+						<option value="Dominican Republic" title="Dominican Republic">Dominican Republic</option>
+						<option value="East Timor" title="East Timor">East Timor</option>
+						<option value="Ecuador" title="Ecuador">Ecuador</option>
+						<option value="Egypt" title="Egypt">Egypt</option>
+						<option value="El Salvador" title="El Salvador">El Salvador</option>
+						<option value="Equatorial Guinea" title="Equatorial Guinea">Equatorial Guinea</option>
+						<option value="Eritrea" title="Eritrea">Eritrea</option>
+						<option value="Estonia" title="Estonia">Estonia</option>
+						<option value="Ethiopia" title="Ethiopia">Ethiopia</option>
+						<option value="Faeroe Islands" title="Faeroe Islands">Faeroe Islands</option>
+						<option value="Falkland Islands" title="Falkland Islands">Falkland Islands</option>
+						<option value="Faroe Islands" title="Faroe Islands">Faroe Islands</option>
+						<option value="Fiji" title="Fiji">Fiji</option>
+						<option value="Finland" title="Finland">Finland</option>
+						<option value="French Guiana" title="French Guiana">French Guiana</option>
+						<option value="French Polynesia" title="French Polynesia">French Polynesia</option>
+						<option value="Gabon" title="Gabon">Gabon</option>
+						<option value="Gambia" title="Gambia">Gambia</option>
+						<option value="Gaza and Khan Yunis" title="Gaza and Khan Yunis">Gaza and Khan Yunis</option>
+						<option value="Georgia" title="Georgia">Georgia</option>
+						<option value="Ghana" title="Ghana">Ghana</option>
+						<option value="Gibraltar" title="Gibraltar">Gibraltar</option>
+						<option value="Greece" title="Greece">Greece</option>
+						<option value="Greenland" title="Greenland">Greenland</option>
+						<option value="Grenada" title="Grenada">Grenada</option>
+						<option value="Guadeloupe" title="Guadeloupe">Guadeloupe</option>
+						<option value="Guam" title="Guam">Guam</option>
+						<option value="Guatemala" title="Guatemala">Guatemala</option>
+						<option value="Guernsey" title="Guernsey">Guernsey</option>
+						<option value="Guinea" title="Guinea">Guinea</option>
+						<option value="Guinea-bissau" title="Guinea-bissau">Guinea-bissau</option>
+						<option value="Guyana" title="Guyana">Guyana</option>
+						<option value="Haiti" title="Haiti">Haiti</option>
+						<option value="Hawaiian Islands" title="Hawaiian Islands">Hawaiian Islands</option>
+						<option value="Heard And Mcdonald Islands" title="Heard And Mcdonald Islands">Heard And Mcdonald Islands</option>
+						<option value="Heligoland" title="Heligoland">Heligoland</option>
+						<option value="Honduras" title="Honduras">Honduras</option>
+						<option value="Hong Kong" title="Hong Kong">Hong Kong</option>
+						<option value="Hungary" title="Hungary">Hungary</option>
+						<option value="Iceland" title="Iceland">Iceland</option>
+						<option value="IFNI" title="IFNI">IFNI</option>
+						<option value="India" title="India">India</option>
+						<option value="Indonesia" title="Indonesia">Indonesia</option>
+						<option value="Iran" title="Iran">Iran</option>
+						<option value="Iraq" title="Iraq">Iraq</option>
+						<option value="Ireland" title="Ireland">Ireland</option>
+						<option value="Israel" title="Israel">Israel</option>
+						<option value="Ivory Coast" title="Ivory Coast">Ivory Coast</option>
+						<option value="Jamaica" title="Jamaica">Jamaica</option>
+						<option value="Jersey" title="Jersey">Jersey</option>
+						<option value="JOHNSTON" title="JOHNSTON">JOHNSTON</option>
+						<option value="Jordan" title="Jordan">Jordan</option>
+						<option value="Kampuchea" title="Kampuchea">Kampuchea</option>
+						<option value="Kazakhstan" title="Kazakhstan">Kazakhstan</option>
+						<option value="Kenya" title="Kenya">Kenya</option>
+						<option value="KINGMAN IS" title="KINGMAN IS">KINGMAN IS</option>
+						<option value="Kiribati" title="Kiribati">Kiribati</option>
+						<option value="Korea" title="Korea">Korea</option>
+						<option value="KOSOVO" title="KOSOVO">KOSOVO</option>
+						<option value="Kosrae" title="Kosrae">Kosrae</option>
+						<option value="Kuwait" title="Kuwait">Kuwait</option>
+						<option value="Kyrgyzstan" title="Kyrgyzstan">Kyrgyzstan</option>
+						<option value="Laos" title="Laos">Laos</option>
+						<option value="Latvia" title="Latvia">Latvia</option>
+						<option value="Lebanon" title="Lebanon">Lebanon</option>
+						<option value="Lesotho" title="Lesotho">Lesotho</option>
+						<option value="Liberia" title="Liberia">Liberia</option>
+						<option value="Libya" title="Libya">Libya</option>
+						<option value="Liechtenstein" title="Liechtenstein">Liechtenstein</option>
+						<option value="Lithuania" title="Lithuania">Lithuania</option>
+						<option value="Luxembourg" title="Luxembourg">Luxembourg</option>
+						<option value="Macau" title="Macau">Macau</option>
+						<option value="Macedonia" title="Macedonia">Macedonia</option>
+						<option value="Madagascar" title="Madagascar">Madagascar</option>
+						<option value="Madeira" title="Madeira">Madeira</option>
+						<option value="Malawi" title="Malawi">Malawi</option>
+						<option value="Malaysia" title="Malaysia">Malaysia</option>
+						<option value="Maldives" title="Maldives">Maldives</option>
+						<option value="Mali" title="Mali">Mali</option>
+						<option value="Malta" title="Malta">Malta</option>
+						<option value="Marshall Islands" title="Marshall Islands">Marshall Islands</option>
+						<option value="Martinique" title="Martinique">Martinique</option>
+						<option value="Maryland" title="Maryland">Maryland</option>
+						<option value="Mauritania" title="Mauritania">Mauritania</option>
+						<option value="Mauritius" title="Mauritius">Mauritius</option>
+						<option value="MAYOTTE" title="MAYOTTE">MAYOTTE</option>
+						<option value="Melilla" title="Melilla">Melilla</option>
+						<option value="Mexico" title="Mexico">Mexico</option>
+						<option value="Micronesia" title="Micronesia">Micronesia</option>
+						<option value="MIDWAY IS.,WAKE IS" title="MIDWAY IS.,WAKE IS">MIDWAY IS.,WAKE IS</option>
+						<option value="Miquelon" title="Miquelon">Miquelon</option>
+						<option value="Moldova" title="Moldova">Moldova</option>
+						<option value="Monaco" title="Monaco">Monaco</option>
+						<option value="Mongolia" title="Mongolia">Mongolia</option>
+						<option value="Montenegro" title="Montenegro">Montenegro</option>
+						<option value="Montserrat" title="Montserrat">Montserrat</option>
+						<option value="Morocco" title="Morocco">Morocco</option>
+						<option value="Mozambique" title="Mozambique">Mozambique</option>
+						<option value="Myanmar" title="Myanmar">Myanmar</option>
+						<option value="Namibia" title="Namibia">Namibia</option>
+						<option value="Nauru" title="Nauru">Nauru</option>
+						<option value="Nepal" title="Nepal">Nepal</option>
+						<option value="Netherlands" title="Netherlands">Netherlands</option>
+						<option value="Netherlands Antilles" title="Netherlands Antilles">Netherlands Antilles</option>
+						<option value="Neutral Zone" title="Neutral Zone">Neutral Zone</option>
+						<option value="New Caledonia" title="New Caledonia">New Caledonia</option>
+						<option value="New Zealand" title="New Zealand">New Zealand</option>
+						<option value="New Zealand Islands Territories" title="New Zealand Islands Territories">New Zealand Islands Territories</option>
+						<option value="Nicaragua" title="Nicaragua">Nicaragua</option>
+						<option value="Niger" title="Niger">Niger</option>
+						<option value="Nigeria" title="Nigeria">Nigeria</option>
+						<option value="Niue" title="Niue">Niue</option>
+						<option value="Norfolk Island" title="Norfolk Island">Norfolk Island</option>
+						<option value="North Korea" title="North Korea">North Korea</option>
+						<option value="Northern Ireland" title="Northern Ireland">Northern Ireland</option>
+						<option value="Northern Mariana Islands" title="Northern Mariana Islands">Northern Mariana Islands</option>
+						<option value="Norway" title="Norway">Norway</option>
+						<option value="Oman" title="Oman">Oman</option>
+						<option value="Pakistan" title="Pakistan">Pakistan</option>
+						<option value="Palau" title="Palau">Palau</option>
+						<option value="Palestine" title="Palestine">Palestine</option>
+						<option value="Panama" title="Panama">Panama</option>
+						<option value="Papua New Guinea" title="Papua New Guinea">Papua New Guinea</option>
+						<option value="Paraguay" title="Paraguay">Paraguay</option>
+						<option value="Peru" title="Peru">Peru</option>
+						<option value="Philippines" title="Philippines">Philippines</option>
+						<option value="PITCAIRN" title="PITCAIRN">PITCAIRN</option>
+						<option value="Poland" title="Poland">Poland</option>
+						<option value="Polynesia" title="Polynesia">Polynesia</option>
+						<option value="Ponape" title="Ponape">Ponape</option>
+						<option value="Portugal" title="Portugal">Portugal</option>
+						<option value="Puerto Rico" title="Puerto Rico">Puerto Rico</option>
+						<option value="Qatar" title="Qatar">Qatar</option>
+						<option value="Reunion" title="Reunion">Reunion</option>
+						<option value="Romania" title="Romania">Romania</option>
+						<option value="Rota(Nothern Mariana Islands)" title="Rota(Nothern Mariana Islands)">Rota(Nothern Mariana Islands)</option>
+						<option value="Russia" title="Russia">Russia</option>
+						<option value="Rwanda" title="Rwanda">Rwanda</option>
+						<option value="Saba(Netherlands Antilles)" title="Saba(Netherlands Antilles)">Saba(Netherlands Antilles)</option>
+						<option value="Saint Lucia" title="Saint Lucia">Saint Lucia</option>
+						<option value="Saipan" title="Saipan">Saipan</option>
+						<option value="San Marino" title="San Marino">San Marino</option>
+						<option value="Sao Tome And Principe" title="Sao Tome And Principe">Sao Tome And Principe</option>
+						<option value="Saudi Arabia" title="Saudi Arabia">Saudi Arabia</option>
+						<option value="Senegal" title="Senegal">Senegal</option>
+						<option value="Serbia" title="Serbia">Serbia</option>
+						<option value="Seychelles" title="Seychelles">Seychelles</option>
+						<option value="Sierra Leone" title="Sierra Leone">Sierra Leone</option>
+						<option value="SIKKIM" title="SIKKIM">SIKKIM</option>
+						<option value="Singapore" title="Singapore">Singapore</option>
+						<option value="Sint Maarten" title="Sint Maarten">Sint Maarten</option>
+						<option value="Slovakia" title="Slovakia">Slovakia</option>
+						<option value="Slovenia" title="Slovenia">Slovenia</option>
+						<option value="Solomon Islands" title="Solomon Islands">Solomon Islands</option>
+						<option value="Somalia" title="Somalia">Somalia</option>
+						<option value="Somaliland" title="Somaliland">Somaliland</option>
+						<option value="South Africa" title="South Africa">South Africa</option>
+						<option value="SOUTH GEORGIA AND SOUTH SANDWICH" title="SOUTH GEORGIA AND SOUTH SANDWICH">SOUTH GEORGIA AND SOUTH SANDWICH</option>
+						<option value="Sri Lanka" title="Sri Lanka">Sri Lanka</option>
+						<option value="ST KITTS And NEVIS" title="ST KITTS And NEVIS">ST KITTS And NEVIS</option>
+						<option value="St Vincent &amp; Grenadines" title="St Vincent &amp; Grenadines">St Vincent &amp; Grenadines</option>
+						<option value="St. Eustatius" title="St. Eustatius">St. Eustatius</option>
+						<option value="St. Pierre and Miquelon" title="St. Pierre and Miquelon">St. Pierre and Miquelon</option>
+						<option value="St. Vincent" title="St. Vincent">St. Vincent</option>
+						<option value="St.Barthelemy" title="St.Barthelemy">St.Barthelemy</option>
+						<option value="ST.HELENA ISLAND" title="ST.HELENA ISLAND">ST.HELENA ISLAND</option>
+						<option value="ST.LUCIA" title="ST.LUCIA">ST.LUCIA</option>
+						<option value="Sudan" title="Sudan">Sudan</option>
+						<option value="Suriname" title="Suriname">Suriname</option>
+						<option value="Swaziland" title="Swaziland">Swaziland</option>
+						<option value="Sweden" title="Sweden">Sweden</option>
+						<option value="Switzerland" title="Switzerland">Switzerland</option>
+						<option value="Syria" title="Syria">Syria</option>
+						<option value="Tahiti" title="Tahiti">Tahiti</option>
+						<option value="Taiwan" title="Taiwan">Taiwan</option>
+						<option value="Tajikistan" title="Tajikistan">Tajikistan</option>
+						<option value="Tanzania" title="Tanzania">Tanzania</option>
+						<option value="Thailand" title="Thailand">Thailand</option>
+						<option value="Timor Leste(East Timor)" title="Timor Leste(East Timor)">Timor Leste(East Timor)</option>
+						<option value="Tinian (Northern Marthern Islands)" title="Tinian (Northern Marthern Islands)">Tinian (Northern Marthern Islands)</option>
+						<option value="Togo" title="Togo">Togo</option>
+						<option value="Tonga" title="Tonga">Tonga</option>
+						<option value="Tortola" title="Tortola">Tortola</option>
+						<option value="Trinidad And Tobago" title="Trinidad And Tobago">Trinidad And Tobago</option>
+						<option value="TRISTAN DA CUNHA ISLANDS" title="TRISTAN DA CUNHA ISLANDS">TRISTAN DA CUNHA ISLANDS</option>
+						<option value="Truk" title="Truk">Truk</option>
+						<option value="Tunisia" title="Tunisia">Tunisia</option>
+						<option value="Turkey" title="Turkey">Turkey</option>
+						<option value="Turkmenistan" title="Turkmenistan">Turkmenistan</option>
+						<option value="Turks And Caicos Islands" title="Turks And Caicos Islands">Turks And Caicos Islands</option>
+						<option value="Tuvalu" title="Tuvalu">Tuvalu</option>
+						<option value="Uganda" title="Uganda">Uganda</option>
+						<option value="Ukraine" title="Ukraine">Ukraine</option>
+						<option value="United Arab Emirates" title="United Arab Emirates">United Arab Emirates</option>
+						<option value="Uruguay" title="Uruguay">Uruguay</option>
+						<option value="US Virgin Islands" title="US Virgin Islands">US Virgin Islands</option>
+						<option value="Uzbekistan" title="Uzbekistan">Uzbekistan</option>
+						<option value="Vanuatu" title="Vanuatu">Vanuatu</option>
+						<option value="Vatican City" title="Vatican City">Vatican City</option>
+						<option value="Venezuela" title="Venezuela">Venezuela</option>
+						<option value="Vietnam" title="Vietnam">Vietnam</option>
+						<option value="Virgin Gorda" title="Virgin Gorda">Virgin Gorda</option>
+						<option value="Wales" title="Wales">Wales</option>
+						<option value="Wallis &amp; Futuna Is" title="Wallis &amp; Futuna Is">Wallis &amp; Futuna Is</option>
+						<option value="Western Samoa" title="Western Samoa">Western Samoa</option>
+						<option value="Yap" title="Yap">Yap</option>
+						<option value="Yemen" title="Yemen">Yemen</option>
+						<option value="Zambia" title="Zambia">Zambia</option>
+						<option value="Zimbabwe" title="Zimbabwe">Zimbabwe</option>
+						<option value="Armenia" title="Armenia">Armenia</option>
+					</select>&nbsp;&nbsp;&nbsp;&nbsp;
+        
+				
+	</li>
+
+  		   <li> Weight&nbsp;<input id="weight1" name="weight" type="text" style="width:60px;">&nbsp;kg
+				Length 
+				<input id="length1" name="length" type="text" value="1" style="width:30px;">(cm)×Width 
+				<input id="width1" name="width" type="text" value="1" style="width:30px;">(cm)×Height 
+				<input id="height1" name="height" type="text" value="1" style="width:30px;">(cm)
+				<input type="image" src="/app/images/en/calculate.gif" style="border:none">
        	  </li>
-</form>
-
-
-
-            <li class="sencondsearch"><form action="/tracking/export" method="get">Tracking Number: 
+</form>   	
+            <li class="sencondsearch"><form action="/track/track/exporting" method="get">Tracking Number: 
                 <input name="tracknumbers">
-                <input type="image" src="/images/Track-Now.gif" style="border:none">
+                <input type="image" src="/app/images/en/Track-Now.gif" style="border:none">
               </form>
             </li>
     	</ul>
     </div>
-  </div>
- 
+  </div> 
 <div id="main">
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>无标题文档</title>
+<title></title>
 <style type="text/css">
 <!--
 li.MsoNormal {
@@ -566,9 +630,8 @@ font-family:"Times New Roman";
 <p style="margin:0cm;margin-bottom:.0001pt;line-height:15.0pt;"><span style="font-family:Arial; ">&nbsp;</span></p>
 
 
+<div style="clear:both"></div></div>
 
-<div style="clear:both"></div>
-</div>
 <style type="text/css">
 <!--
 .dibulinkall *{padding:0PX; MARGIN:0PX}
@@ -578,11 +641,8 @@ font-family:"Times New Roman";
 .dibulink img{ border:none}
 .dibulink li{ float:left;font-size:16px; MARGIN:0PX 2PX; font-weight:bold;}
 .dibulink li fieldset{border:1px solid #000; padding:0px 5px;color:#000}
-
-
 .dibulink li fieldset img{ margin:1px; text-align:center}
 .clear{ clear:both}
-
 -->
 </style>
 <div id="bg_footer">
@@ -592,55 +652,67 @@ font-family:"Times New Roman";
         <li style=" width:517px;">
           <fieldset style="height:65px;">
           <legend align="center">We are recommended by</legend>
-          <a href="http://www.ebay.com" target="_blank"><img src="/images/index/1.jpg"></a><a href="http://www.beltal.com&#10;" target="_blank"><img src="/images/index/2.jpg"></a><a href="http://www.madeinchina.com" target="_blank"><img src="/images/index/3.jpg"></a><a href="http://www.tradetang.com" target="_blank"><img src="/images/index/4.jpg"></a>
+          <a href="http://www.ebay.com" target="_blank"><img src="/app/images/en/index/1.jpg"></a><a href="http://www.beltal.com&#10;" target="_blank"><img src="/app/images/en/index/2.jpg"></a><a href="http://www.madeinchina.com" target="_blank"><img src="/app/images/en/index/3.jpg"></a><a href="http://www.tradetang.com" target="_blank"><img src="/app/images/en/index/4.jpg"></a>
           </fieldset>
         </li>
         <li style=" width:470px;">
           <fieldset style="height:65px;">
           <legend align="center">Secure transaction with</legend>
-          <a href="#" onclick="javascript:window.open('https://www.paypal.com/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=600, height=450');"><img src="/images/index/5.jpg"></a> <a target="_blank" href="http://sendfromchina.cn.alibaba.com"><img src="/images/index/6.jpg"> </a><a href="http://market.alipay.com/ospay/index.htm" target="_blank"><img src="/images/index/7.jpg"></a> <img src="/images/index/9.jpg">
+          <a href="#" onclick="javascript:window.open('https://www.paypal.com/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=600, height=450');"><img src="/app/images/en/index/5.jpg"></a> <a target="_blank" href="http://sendfromchina.cn.alibaba.com"><img src="/app/images/en/index/6.jpg"> </a><a href="http://market.alipay.com/ospay/index.htm" target="_blank"><img src="/app/images/en/index/7.jpg"></a> <img src="/app/images/en/9.jpg">
           </fieldset>
         </li>
         <div class="clear"></div>
       </ul>
     </div>
   </div>
-  <div id="footer"> <a href="/about.php"><b>About US</b></a> | <a href="/terms.php"><b>Terms &amp; Conditions</b></a> | <a href="/privacypolicy.php"><b>Privacy Policy</b></a> | <a href="/Sitemap.php"><b>Sitemap</b></a><br>
-    <a href="/shipping.php#anchor_01">China Postal Service</a> | <a href="/shipping.php#anchor_02">China Registered Postal</a> | <a href="/shipping.php#anchor_03">China Express Mail</a> <br>
-    <a href="/warehouse.php">China Warehouse Fulfillment</a> : <a href="/detail/warehouse/fulfillment.html">Introducing China Ecommerce Fulfillment Service</a> <br>
-    <a href="/detail/product/storage-shenzhen.html">Warehousing Facilities for Product Storage in China</a> · <a href="/detail/product/fulfillment.html">China Product Fulfillment Service</a> · <a href="/detail/inventory/management.html">Inventory Management From China</a><br>
-    <a href="/detail/digital/photography.html">ECommerce Digital Product Photography Service</a> · <a href="/detail/additional/services.html">Additional Services</a> · <a href="/detail/warehousing/price.html">Pricing and Discounts</a> <br>
-    <strong>Mail to:</strong> <a href="/rate_United+States+of+America.htm">USA</a>, <a href="/rate_United+Kingdom.htm">United Kingdom</a>, <a href="/rate_Canada.htm">Canada</a>, <a href="/rate_Australia.htm">Australia</a>, <a href="/rate_Japan.htm">Japan</a>, <a href="/rate_France.htm">France</a>, <a href="/rate_Germany.htm">Germany</a>, <a href="/rate_Korea.htm">Korea</a>, <a href="/rate_Italy.htm">Italy</a> <a href="/rate.php"><strong>Rate table:</strong></a>
-     <strong><a href="/rate.php?i=1">1</a></strong>, <strong><a href="/rate.php?i=2">2</a></strong>, <strong><a href="/rate.php?i=3">3</a></strong>, <strong><a href="/rate.php?i=4">4</a></strong>, <strong><a href="/rate.php?i=5">5</a></strong>, <strong><a href="/rate.php?i=6">6</a></strong>, <strong><a href="/rate.php?i=7">7</a></strong>, <strong><a href="/rate.php?i=8">8</a></strong>, <strong><a href="/rate.php?i=9">9</a></strong>, <strong><a href="/rate.php?i=10">10</a></strong>, <strong><a href="/rate.php?i=11">11</a></strong>,    <br>
+  <div id="footer"> <a href="/about"><b>About US</b></a> | <a href="/terms"><b>Terms &amp; Conditions</b></a> | <a href="/privacypolicy"><b>Privacy Policy</b></a> | <a href="/Sitemap"><b>Sitemap</b></a><br>
+    <a href="/shipping#anchor_01">China Postal Service</a> | <a href="/shipping#anchor_02">China Registered Postal</a> | <a href="/shipping#anchor_03">China Express Mail</a> <br>
+    <a href="/warehouse">China Warehouse Fulfillment</a> : <a href="/warehouse/detail/page/1">Introducing China Ecommerce Fulfillment Service</a> <br>
+    <a href="/warehouse/detail/page/2">Warehousing Facilities for Product Storage in China</a> · <a href="/warehouse/detail/page/3">China Product Fulfillment Service</a> · <a href="/warehouse/detail/page/4">Inventory Management From China</a><br>
+    <a href="/warehouse/detail/page/5">ECommerce Digital Product Photography Service</a> · <a href="/warehouse/detail/page/6">Additional Services</a> · <a href="/warehouse/detail/page/7">Pricing and Discounts</a> <br>
+    <strong>Mail to:</strong> <a href="/rate/tabulate/c/United_States_of_America">USA</a>, <a href="/rate/tabulate/c/United+Kingdom">United Kingdom</a>, <a href="/rate/tabulate/c/Canada">Canada</a>, <a href="/rate/tabulate/c/Australia">Australia</a>, <a href="/rate/tabulate/c/Japan">Japan</a>, <a href="/rate/tabulate/c/France">France</a>, <a href="/rate/tabulate/c/Germany">Germany</a>, <a href="/rate/tabulate/c/Korea">Korea</a>, <a href="/rate/tabulate/c/Italy">Italy</a> <a href="/rate"><strong>Rate table:</strong></a>
+	 	<a href="/rate/index/i/1"><strong>1</strong></a> , 
+        	<a href="/rate/index/i/2"><strong>2</strong></a> , 
+        	<a href="/rate/index/i/3"><strong>3</strong></a> , 
+        	<a href="/rate/index/i/4"><strong>4</strong></a> , 
+        	<a href="/rate/index/i/5"><strong>5</strong></a> , 
+        	<a href="/rate/index/i/6"><strong>6</strong></a> , 
+        	<a href="/rate/index/i/7"><strong>7</strong></a> , 
+        	<a href="/rate/index/i/8"><strong>8</strong></a> , 
+        	<a href="/rate/index/i/9"><strong>9</strong></a> , 
+        	<a href="/rate/index/i/10"><strong>10</strong></a> , 
+        	<a href="/rate/index/i/11"><strong>11</strong></a> , 
+        
+
+    <br>
     SendFromChina.com © 2007  </div>
 </div>
 </div>
 <!-- 浮动广告 -->
 <div id="float_bar">
   <div id="floatbar_01">
-    <div style="background-color: #F7F7F7; border-left: 1px solid #C2C0C0; border-right: 1px solid #C2C0C0; float: left; padding: 0px 5px;">Connect With Us:</div>
-    <div style="border: 0px solid #C2C0C0;  float: left; padding:5px;"><a href="http://sendfromchina.blogspot.com/"><img src="/images/blogger_logo.jpg" style="border:0px;"></a></div>
+
+      <div style="background-color: #F7F7F7; border-left: 1px solid #C2C0C0; border-right: 1px solid #C2C0C0; float: left; padding: 0px 5px;">Connect With Us:</div>
+    <div style="border: 0px solid #C2C0C0;  float: left; padding:5px;"><a href="http://sendfromchina.blogspot.com/"><img src="/app/images/en/blogger_logo.jpg" style="border:0px;"></a></div>
     <div style="border: 0px solid #C2C0C0;  float: left; padding:5px;">
+    <!--
     <script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/zh_CN"></script>
-    <script type="text/javascript">FB.init("ade5764f460181540fc5a106e8009f3a");</script><fb:fan profile_id="219135768037" stream="0" connections="10" logobar="1" width="300"></fb:fan>
-    <div style="border: 0px; padding:0px 5px;"><a href="http://www.facebook.com/pages/sendfromchina/219135768037"><img src="/images/facebook.jpg" style="border:0px;"></a></div>
+    
+    <script type="text/javascript">FB.init("ade5764f460181540fc5a106e8009f3a");</script>
+    --><fb:fan profile_id="219135768037" stream="0" connections="10" logobar="1" width="300"></fb:fan>
+    <div style="border: 0px; padding:0px 5px;"><a href="http://www.facebook.com/pages/sendfromchina/219135768037"><img src="/app/images/en/facebook.jpg" style="border:0px;"></a></div>
     </div>
     <div style="border: 0px solid #C2C0C0; float: left; padding:5px;"><a href="http://www.twitter.com/sendfromchina"><img src="http://twitter-badges.s3.amazonaws.com/t_small-c.png" alt="Follow sendfromchina on Twitter" style="border:0px;"></a></div>
     <div style="border-left: 1px solid #C2C0C0; float: left; padding:5px;"><a class="DiggThisButton"><img src="http://digg.com/img/diggThisCompact.png" height="18" width="120" alt="DiggThis"></a> <script src="http://digg.com/tools/diggthis.js" type="text/javascript"></script></div>
-    <div style="background-color: #F7F7F7;border-left: 1px solid #C2C0C0; border-right: 1px solid #C2C0C0; float: left; padding:0px 5px;">Online Help:</div>
-    <div style="border-right: 1px solid #C2C0C0; float: left; padding: 0px 5px;"><a target="_blank" href="http://settings.messenger.live.com/Conversation/IMMe.aspx?invitee=d024c02b4a12b40c@apps.messenger.live.com&amp;mkt=en-US"><img style="border-style: none;" src="http://messenger.services.live.com/users/d024c02b4a12b40c@apps.messenger.live.com/presenceimage?mkt=en-US" width="16" height="16">Live Chat 1</a></div>
-    <div style="border-right: 1px solid #C2C0C0; float: left; padding: 0px 5px;"><a target="_blank" href="http://settings.messenger.live.com/Conversation/IMMe.aspx?invitee=5decb09b27ca5a1c@apps.messenger.live.com&amp;mkt=en-US"><img style="border-style: none;" src="http://messenger.services.live.com/users/5decb09b27ca5a1c@apps.messenger.live.com/presenceimage?mkt=en-US" width="16" height="16">Live Chat 2</a></div>
-    <div style="color: #339900; float: right;text-align: center;">Exchange Rate: 1 USD = 6.7627 CNY</div>
+    
+     
+    <div style="color: #339900; float: right;text-align: center;">Exchange Rate: 1 USD = 6.2763 CNY</div>
+    
   </div>
 </div>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-2214790-5");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F1f04aafca6ec12ceb3304e7779f3260b' type='text/javascript'%3E%3C/script%3E"));
+</script><script src=" https://hm.baidu.com/h.js?1f04aafca6ec12ceb3304e7779f3260b" type="text/javascript"></script>  
 
 </body></html>
