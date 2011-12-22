@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vecteezy.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616153818id_/http%3A//www.vecteezy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vecteezy.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222155804id_/http%3A//www.vecteezy.com/privacy) for the most accurate reproduction.*
 
 # Free Vector Art - Download Free Vector Art Graphics at Vecteezy!
 
