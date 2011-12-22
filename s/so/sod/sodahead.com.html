@@ -1,30 +1,15 @@
-<!--The following is the downloaded HTML source of the sodahead.com privacy policy that was archived on 2011-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624184357id_/http%3A//sodahead.com/about-us/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sodahead.com privacy policy that was archived on 2011-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111222230248id_/http%3A//www.sodahead.com/about-us/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
-    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="google-site-verification" content="zW46iP-UA38biLEL3GUR2Jlo-q1hC7Sv6DLYLijWLi8">
     <title>SodaHead.com - Privacy</title>
   <meta name="keywords" content="opinion polls, popular opinion, public surveys, questions and answers, political polls, create poll, express opinions, vote, social network, embed poll, sodahead, soda head">
   <meta name="description" content="Create and vote on public opinion polls, share knowledge and express opinions in a dynamic social community.">
   <meta name="keyword_phrases" content="">
-<script>try{
-            var loc = self.location, ref = document.referrer;
-            if(top.location != loc && ref && !ref.match(['^http://digg.com/', '^http://www.stumbleupon.com/', '^http://www.sodahead.com/'].join('|'))){
-              var params = 'link=ibaf';
-              var img = /imgurl=([^&]*)/.exec(ref);
-              if(img && img.length == 2){
-                params += '&imgurl=' + img[1];
-              }
-              var search = /(q)(%3D|=)(.+?)(%26|&)/.exec(ref);
-              if(search && search.length == 5){
-                params += '&q=' + search[3];
-              }
-              top.location = loc.href + (loc.href.indexOf('?') < 0 ? '?' : '&') + params;
-            }
-          }catch(e){}var pageStartTime = new Date().getTime();
-    </script>
+
   <script>
     
   $U = {
@@ -32,7 +17,7 @@
     return eval('(' + eval('("' + eval(
           '/(?:\\s|^)' + name + '="[\\w\\d]+:({[^}]*})"/'
     ).exec(document.cookie)[1] + '")') + ')');
-  }};
+  }, ready: 0};
   SH = {
   meta: {
     'facebook': {
@@ -45,7 +30,7 @@
     'images_base': 'http://images.sodahead.com/images/static/',
     'user': {
       'authed': 0,
-      'id': '344d0f7b6b484785912edb600c366777', 
+      'id': 'ef69365ef648446a9f2639ff45a9a120', 
       'nickName': '',
       'type': 0,
       'admin': 0,
@@ -55,57 +40,127 @@
     'session': $U.cookie('session')
   }};
 
-    $U.async = function(src, cb){
-      var s = document.createElement("script"); s.src = src;
-      if(cb){
+    $Q = [], $Q.load = [];
+    $U.loader = "http://" + SH.meta.statics_host + "/js/lib/LABjs/LAB-v203.js";
+    $U.async = function(src, kw){
+      kw = kw || {};
+      var s = document.createElement("script"); s.src = src; s.id = kw.id;
+      s.text = kw.body || "";
+      if(kw.cb){
         var o = "onload", r = "onreadystatechange";
-        s[o] = cb;
+        s[o] = kw.cb;
         s[r] = function(){if(!/in/.test(s.readyState)){
-            cb(); s[o] = s[r] = 0;
+            kw.cb(); s[o] = s[r] = null;
         }};
       }
       document.getElementsByTagName("head")[0].appendChild(s);
     };
-    $U.ready = function(cb){
-      /in/.test(document.readyState) ? setTimeout("$U.ready("+cb+")", 9) : cb();
-    };
-    $Q = [];
   </script>
-<script>
-      $U.async("//" + SH.meta.statics_host + "/js/lib/LABjs/LAB.js", function(){
-        $LAB.setOptions({"AlwaysPreserveOrder": true})
-.script("http://yui.yahooapis.com/combo?2.8.0r4/build/yahoo-dom-event/yahoo-dom-event.js&2.8.0r4/build/animation/animation-min.js&2.8.0r4/build/connection/connection-min.js&2.8.0r4/build/dragdrop/dragdrop-min.js&2.8.0r4/build/cookie/cookie-min.js&2.8.0r4/build/element/element-min.js&2.8.0r4/build/get/get-min.js&2.8.0r4/build/selector/selector-min.js&2.8.0r4/build/tabview/tabview-min.js")
-.script("//statics.sodahead.com/js/generated/sodahead/utils/main-v1308876211.js")
 
-    .wait(function(){
-      for(var ii in $Q){$Q[ii].call();}
-      $Q.push = function(func){func.call();};
-    });
+  
+    <script>
+      var _qevents = _qevents || [];
+      _qevents.push({qacct:"p-ca-khV7SszzC6"});
+      $U.async("//edge.quantserve.com/quant.js");
+    </script>
+    <noscript>
+      <img src="//pixel.quantserve.com/pixel/p-ca-khV7SszzC6.gif"
+          style="display: none;" alt="Quantcast">
+    </noscript>
+  
+<script>
+        try{
+          var loc = self.location, ref = document.referrer;
+          if(ref && !ref.match(
+              "^https?://(www\.)?([a-z]+\.(corp|qa)\.)?(digg|stumbleupon|sodahead)\.com/")){
+            var p = "link=ibaf&q=",
+                q = /(%3F|\?|%26|&)(q|p)(%3D|=)(.+?)(%26|&|$)/.exec(ref),
+                i = /imgurl=([^&]*)/.exec(ref);
+            if(q){
+              p += q[4];
+            }
+            if(i){
+              p += "&" + i[0];
+              top.location = loc + (/\?/.exec(loc) ? "&" : "?") + p;
+            }else if(top.location != loc){
+              _ibaf = p;
+            }
+          }
+        }catch(e){}
+      </script>
+    <script>
+      $U.async($U.loader, {cb:function(){
+        $LAB.setOptions({"AlwaysPreserveOrder": true})
+.script("http://yui.yahooapis.com/combo?2.9.0/build/yahoo-dom-event/yahoo-dom-event.js&2.9.0/build/animation/animation-min.js&2.9.0/build/connection/connection-min.js&2.9.0/build/dragdrop/dragdrop-min.js&2.9.0/build/cookie/cookie-min.js&2.9.0/build/element/element-min.js&2.9.0/build/get/get-min.js&2.9.0/build/selector/selector-min.js&2.9.0/build/tabview/tabview-min.js")
+.script("http://statics.sodahead.com/js/generated/sodahead/utils/main-v1324501085.js")
+
+    .wait(function(){$U.ready=1;});
     
+        }
       });
     </script>
 
     
-  <link rel="stylesheet" type="text/css" href="//statics.sodahead.com/css/generated/sodahead/utils/main-v1308876211.css">
+  <link rel="stylesheet" type="text/css" href="http://statics.sodahead.com/css/generated/sodahead/utils/main-v1324501085.css">
 
-    
+    <script>
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-1008750-1']);
+        
+        _gaq.push(['_setCustomVar', 1, 'category', 'non-category', 3]);
+        
+        _gaq.push(['_trackPageview']);
+        $U.async("//www.google-analytics.com/ga.js");
+        
+          
+  !function(){
+    var s = "specificmedia",
+    ss = SH.meta.session,
+    width = document.documentElement.clientWidth,
+    ads = 344;
+    if(ss['specificmedia_homepage']){ ss[s] = 1; }
+    if(ss[s] && width > 990 + ads){
+      ss[s] = width - ads > 1140 ? 1140 : 990;
+      $U.async("http://rome.specificclick.net/rome/rome.js?l=28334&t=j&cw=" +
+          ss[s] + "&cp=10", {id:"specific_rome_js"});
+      _gaq.push(["_trackEvent", "Ad Impressions",
+          "specificmedia", "28334_" + ss[s] + "x10"]);
+    }else{
+      ss[s] = 0;
+    }
+  }();
+
+        
+        $U.async("http://pixel.indieclick.com/annonymous/domain/sodahead.com/reach/script_ic.js");
+        var LOTCC = LOTCC || {asyncBehaviors: {}, async: true};
+        
+        $U.async('//tags.crwdcntrl.net/c/375/cc.js');
+      </script>
+      
   
     
-<script src="http://www.googletagservices.com/tag/js/gpt.js"></script>
+<script src="//www.googletagservices.com/tag/js/gpt.js"></script>
 <script>
-  var js_ads = false;
   if(!/Firefox/.test(navigator.userAgent) && (
-/* #15339 */ SH.meta.demo._city_region == "Austin,TX" || 
+(/* #17787, #17873, #17884 */ SH.meta.session.country == "US" && Math.random() <= 0.04 & SH.meta.session.pageViews > 1) || 
+(/* #17213 */ SH.meta.session.gorillanation) || 
 (/* #15528 */ SH.meta.session.country != "US" && Math.random() <= 0.02) || 
-/* #15676 */ SH.meta.demo._city_region in {"Philadelphia,PA":1, "Boston,MA":1, "Baltimore,MD":1, "Washington,DC":1}
+(/* #17365 */ SH.meta.session.country == "US" && Math.random() <= 0.02 && SH.meta.session.pageViews > 1) || 
+(/* #17784 */ SH.meta.session.state in {ME:1, NH:1, VT:1, CT:1})
 )){
-    js_ads = true;
+    SH.meta.JS_ADS = 1;
   }
-
-  SH.meta.SHOW_BTF_728x90 = 'US' == SH.meta.session.country && js_ads;
-  SH.meta.SHOW_IBAF_300x600 = SH.meta.session.country in {US:1,CA:1,GB:1,AU:1,'':1};
-
   
+      SH.meta.DEFER_ADS = 0 && !SH.meta.JS_ADS;
+      SH.meta.SHOW_ATF_300x250 = true;
+      SH.meta.SHOW_BTF_728x90 = !SH.meta.JS_ADS && !SH.meta.session.specificmedia;
+      SH.meta.SHOW_300x600 = !SH.meta.session.specificmedia;
+      SH.meta.SHOW_IBAF_300x600 = SH.meta.session.country in {US:1,CA:1,GB:1,AU:1,'':1};
+      SH.meta.SHOW_IBAF_1x1 = document.cookie.indexOf("ibaf.promo") < 0;
+    
+  
+    
+   
   googletag.defineUnit(
     "/1015696/ca-pub-9765297281482169/Privacy_AR_728x90",
     [728, 90], 'Privacy_AR_728x90'
@@ -114,9 +169,9 @@
   
   googletag.pubads().setTargeting("level", "0");
 
-  googletag.pubads().setTargeting("pgct", "4");
+  googletag.pubads().setTargeting("pgct", "33");
 
-  if (js_ads){
+  if(SH.meta.JS_ADS){
     
   googletag.pubads().setTargeting("ifjs", "js");
 
@@ -127,18 +182,9 @@
 </script>
 
   
+</head>
 
-      <script>
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-1008750-1']);
-        
-        _gaq.push(['_setCustomVar', 1, 'category', 'non-category', 3]);
-        
-        _gaq.push(['_trackPageview']);
-        $U.async("//google-analytics.com/ga.js");
-      </script></head>
-
-  <body class=" anonymous theme-bubbles">
+  <body class=" anonymous theme-bubbles2">
     
     
       
@@ -158,6 +204,14 @@
 <div id="navBarBackgroundWrap">
         <div id="navBarBackground"></div>
       </div>
+      <noscript>
+          <div id="fug">
+            <img src="http://images.sodahead.com/images/static/logos/SH_newlogo.png" height="93" width="231" id="fug-logo">
+            
+            <div id="ibafSlideshowNext"></div>
+            <div id="ibafSlideshowPrev"></div>
+          </div>
+        </noscript>
       <div id="outerWrap">
         <div id="innerWrap">
           <div id="sodahead">
@@ -167,20 +221,24 @@
                 
                 
                   <a id="logoLeft" href="/" title="Free Polls, Questions, and Answers, News Discussions - SodaHead">
-                    <img src="http://images.sodahead.com/images/static/logos/sodahead-polls-blogs.png" alt="Free Polls, Questions, and Answers, News Discussions - SodaHead" height="57" width="195">
+                    <img src="http://images.sodahead.com/images/static/logos/SH_newlogo.png" alt="Free Polls, Questions, and Answers, News Discussions - SodaHead" height="93" width="231">
                   </a>
                 
-                <div class="bigChupchik"></div>
               </div>
               <div id="mastheadAd">
                 
   
     
 <div class="dfp728x90 floatRight" id="Privacy_AR_728x90">
-  <script type="text/javascript">
-    googletag.cmd.push(function(){
-      googletag.display("Privacy_AR_728x90")
-    });
+  <script>
+    function show_ad(x){
+        
+       
+      googletag.cmd.push(function(){
+        googletag.display("Privacy_AR_728x90");
+      });
+    }
+    SH.meta.DEFER_ADS && 0 && $Q.load.push(show_ad) || show_ad();
   </script>
  </div>
 
@@ -190,25 +248,68 @@
             </div><div id="fb-root"></div>
 
             <form action="/question/ask/" method="post" id="askIt">
-                <a id="askItLabel" class="subHeader" href="/question/ask/">Ask something...</a>
                 <input type="hidden" name="multipleChoice" value="y">
-                <input type="text" name="title" id="askItInput" default="Ready to join the debate? Ask your toughest question." class="defaultFormText inputText"><input type="submit" name="bootstrap" id="askItSubmit" class="button" value="Ask It">
-              </form><!-- google_ad_section_start(weight=ignore) -->
+                <input type="text" name="title" id="askItInput" default="What's on your mind? Ask your fellow SodaHeads!" class="defaultFormText inputText"><input type="submit" name="bootstrap" id="askItSubmit" class="button" value="Ask It">
+              </form>
+            <div id="sm_pushdown">
+                <script>
+                  !function(){
+                    var smp = SH.meta.session.specificmedia_pushdown;
+                    if(smp){
+                      var D = document, rnd = Math.ceil(1e6 * Math.random()),
+                      u = "", r = "";
+                      try{
+                        u = encodeURIComponent(D.location);
+                        r = encodeURIComponent(D.referrer);
+                      }catch(e){}
+                      var ask = D.getElementById("askIt");
+                      if(ask){ask.style.display = "none";}
+                      D.write("<script src='//afe.specificclick.net/?l=" + smp +
+                            "&sz=970x66&wr=j&t=j&u=" + u + "&r=" + r +
+                            "&rnd=" + rnd + "'><\/script>");
+                      _gaq.push(["_trackEvent", "Ad Impressions",
+                          "specificmedia", "pushdown-" + smp]);
+                    }
+                  }();
+                </script>
+              </div><!-- google_ad_section_start(weight=ignore) -->
             <div id="catsMenu">
               
-              <a href="/" title="SodaHead.com" class="first">
-                Today's SodaHeadlines</a>
+              <a href="/" title="SodaHead.com" class="navheadline first">
+                SodaHeadlines</a>
+              
               
                 
-                <a class="united-states" href="/united-states/" title="News and Politics">News &amp; Politics</a>
+                <a class="naventertainment" href="/entertainment/" title="Celebrity News and Gossip">Entertainment</a>
                 
-                <a class="entertainment" href="/entertainment/" title="Celebrity News and Gossip">Entertainment</a>
+                <a class="navliving" href="/living/" title="Living News from Personal to Work and Home">Living</a>
                 
-                <a class="living" href="/living/" title="Living News from Personal to Work and Home">Living</a>
+                <a class="navfun" href="/fun/" title="Fun">Fun &amp; Humor</a>
+
+              
+                  <a class=" navgames" href="/topic/games/" title="The latest news and opinion on games">
+                    games
+                  </a>
+              
+                  <a class=" navsports" href="/topic/sports/" title="The latest news and opinion on sports">
+                    sports
+                  </a>
+              
+                  <a class=" navmusic" href="/topic/music/" title="The latest news and opinion on music">
+                    music
+                  </a>
+              
+                  <a class=" navfashion" href="/topic/fashion/" title="The latest news and opinion on fashion">
+                    fashion
+                  </a>
+              
+
+              
                 
-                <a class="fun" href="/fun/" title="Fun">Fun &amp; Humor</a>
-                
-                <a class="leaderboard" href="/users/leaderboard/" title="Leaderboard">
+                <a class="navunited-states" href="/united-states/" title="News and Politics">News &amp; Politics</a>
+
+              
+              <a class="leaderboard" href="/users/leaderboard/" title="Leaderboard">
                   Leaderboard
                 </a>
             </div>
@@ -219,14 +320,8 @@
 
 <div class="contentBox clearfix">
 
-  
-<style>
-  .simpleTabs{
-    overflow: hidden;
-  }
-</style>
-<style>
-a{
+  <style>
+#content p a{
 font-size:14px;
 }
 p { margin-bottom:12px;}
@@ -303,19 +398,6 @@ div.parallelFloat {
 
 <div class="abHeader">
 <h3 class="subHeader">Privacy</h3>
-<center>
-<div class="simpleTabs">
-<ul>
-<li><a href="/about-us/">About Us</a></li>
-<li><a href="/about-us/faq/">FAQ</a></li>
-<li><a href="/about-us/press/">Press</a></li>
-<li><a href="/partners/">Partners</a></li>
-<li><a href="/about-us/terms/">Terms of Service</a></li>
-<li class="active"><a href="/about-us/privacy/">Privacy</a></li>
-<li><a href="/about-us/#Logo_Center">Logos</a></li>
-</ul>
-</div>
-</center>
 </div>
 
 <div id="aboutMain">
@@ -330,7 +412,7 @@ div.parallelFloat {
 
 <div style="text-align:justify;">
 
-<p> Date Last Modified: March 5, 2007.  </p>
+<p> Date Last Modified: October 19, 2011.  </p>
 <p> </p>
 
 <p>
@@ -504,17 +586,12 @@ div.parallelFloat {
 
   to, information in your Member Profile, by participating in polls,
 
-  discussions, comments and communities, is publicly available and can be
-
-  collected and used by others. Your User Name (but not your email address) is
+  discussions, comments and communities, is publicly available. Your User Name (but not your email address) is
 
   displayed to other Users in connection with the polls you create and messages
 
-  you post in discussions. Any information that you post on the SodaHead Website
-
-  may be redistributed through the internet and may be viewed by the general
-
-  public.
+  you post in discussions. Any information that you post on the SodaHead Website may be redistributed by SodaHead and viewed by the 
+  general public. 
 
 </p>
 
@@ -530,7 +607,7 @@ div.parallelFloat {
 
   have an opportunity to opt-in or opt-out of any such programs by selecting the
 
-  <a href="/my/dashboard/?type=settings#tabs">Change My Settings</a> link, under Controls on the My Dashboard page, or by
+  <a href="/my/settings/">Change My Settings</a> link, under Controls on the My Dashboard page, or by
 
   sending an e-mail to <a href="mailto:privacy@SodaHead.com">privacy@SodaHead.com</a> with the term "BLOCK" (in all caps)
 
@@ -876,7 +953,7 @@ div.parallelFloat {
 <div id="navBar">
               <div id="navigation">
                 
-<form name="searchnavform" action="/search/" method="get" class="searchForm" id="navSearchForm">
+<form name="searchnavform" action="/search/question/" method="get" class="searchForm" id="navSearchForm">
   <input type="submit" value="Search" name="sa" class="button searchSubmit">
   <input type="text" name="q" class="searchInput inputText">
 </form>
@@ -892,8 +969,8 @@ div.parallelFloat {
     </li>
     
     
-    <li><a id="login" href="/user/login/?next=/about-us/privacy/">Login</a></li>
-    <li><a class="needAuth" href="/user/login/?next=/about-us/privacy/">Register</a></li>
+    <li><a id="login" href="/user/login/?next=/about-us/privacy/" rel="nofollow">Login</a></li>
+    <li><a class="needAuth" href="/user/login/?next=/about-us/privacy/" rel="nofollow">Register</a></li>
   </ul>
 
 
@@ -952,71 +1029,68 @@ div.parallelFloat {
                   <div class="navMenu" id="navTopics">
                     <span class="topicsLabel">Hot Topics</span>
                     
-<a href="/topic/michele-bachmann/" class="topic" title="Michele Bachmann">Michele Bachmann</a><a href="/topic/ron-artest/" class="topic" title="Ron Artest">Ron Artest</a><a href="/topics/" class="moreTopics">more …</a>
+<a href="/topic/music/" class="topic" title="Music">Music</a><a href="/topic/fashion/" class="topic" title="Fashion">Fashion</a><a href="/topic/sports/" class="topic" title="Sports">Sports</a><a href="/topic/games/" class="topic" title="Games">Games</a><a href="/topics/" class="moreTopics">more …</a>
 
                   </div>
                 
               </div>
             </div>
           </div>
-          <!-- google_ad_section_start(weight=ignore) -->
+          
+<!-- google_ad_section_start(weight=ignore) -->
 <div id="footer">
   <div id="topicBar">
       <span class="topicsLabel">Topics:</span>
-<a href="/topic/ron-artest/" class="topic" title="Ron Artest">Ron Artest</a><a href="/topic/michele-bachmann/" class="topic" title="Michele Bachmann">Michele Bachmann</a><a href="/topic/project-runway/" class="topic" title="&quot;Project Runway&quot;">"Project Runway"</a><a href="/topic/celebrity-gossip/" class="topic" title="Celebrity Gossip">Celebrity Gossip</a><a href="/topic/nba-draft-2011/" class="topic" title="NBA Draft 2011">NBA Draft 2011</a><a href="/topic/wimbledon-2011/" class="topic" title="Wimbledon 2011">Wimbledon 2011</a><a href="/topic/2012-election/" class="topic" title="2012 Election">2012 Election</a><a href="/topic/health-studies/" class="topic" title="Health">Health</a><a href="/topics/" class="moreTopics">more …</a>
+<a href="/topic/sports/" class="topic" title="Sports">Sports</a><a href="/topic/fashion/" class="topic" title="Fashion">Fashion</a><a href="/topic/music/" class="topic" title="Music">Music</a><a href="/topic/public-opinion/" class="topic" title="Public Opinion">Public Opinion</a><a href="/topic/lifestyle/" class="topic" title="Lifestyle">Lifestyle</a><a href="/topic/infographic/" class="topic" title="Infographic">Infographic</a><a href="/topic/games/" class="topic" title="Games">Games</a><a href="/topics/" class="moreTopics">more …</a>
 </div>
-    <ul class="footerColumn">
-      <li class="footerLabel">SodaHead Site Links</li>
-      <li><a href="/question/ask/">Ask a Question</a></li>
-      <li><a href="/widget/create/">Create a Poll Widget</a></li>
-      <li><a href="/questions/">Hot Questions</a></li>
-      <li><a href="/slideshows/">Slideshows</a></li>
-      <li><a href="/united-states/">News &amp; Politics Opinions</a></li>
-      <li><a href="/entertainment/">Entertainment Opinions</a></li>
-      <li><a href="/living/">Living Opinions</a></li>
-      <li><a href="/topics/">Topics</a></li>
-      <li><a href="/about-us/sitemap/">Sitemap</a></li>
-    </ul>
-    <ul class="footerColumn">
-      <li class="footerLabel">About SodaHead</li>
-      <li><a href="/about-us/">About Us</a></li>
-      <li><a href="/partners/">Partners</a></li>
-      <li>
-        <a href="/about-us/advertise/" target="_blank">Advertise with us</a>
-      </li>
-      <li class="footerListEnd"><a href="/poll-widget/samples/">Poll Widget Samples</a></li>
-      <li class="footerLabel">SodaHead Legal</li>
-      <li><a href="/about-us/terms/" rel="nofollow">Terms</a></li>
-      <li>
-        <a href="/about-us/privacy/" rel="nofollow">Privacy</a>
-      </li>
-      <li class="footerListEnd">
-        <a href="/group/1/forum/614/discussion/197681/sodahead-user-code-of-conduct/" rel="nofollow">Code of Conduct</a>
-      </li>
-      <li class="footerLabel">SodaHead Swag</li>
-      <li><a href="/fun/sodahead-swag-store/group-236/">SodaHead Store</a></li>
-    </ul>
-    <ul class="footerColumn">
-      <li class="footerLabel">SodaHead Tools</li>
-      <li><a href="/question/ask/">Ask a Question</a></li>
-      <li><a href="/widget/create/">Create a Poll Widget</a></li>
-      <li><a href="/users/">Find Friends</a></li>
-      <li><a href="/search/">Search SodaHead</a></li>
-      <li><a href="http://twitter.com/SodaHead">Follow us on Twitter</a></li>
-      <li class="footerListEnd">
-        <a href="http://www.facebook.com/SodaHead">Find us on Facebook</a>
-      </li>
-      <li class="footerLabel">SodaHead Help</li>
-      <li><a href="/abuse/" rel="nofollow">Report Abuse</a></li>
-      <li><a href="/group/1/sodahead-groupies/">Help</a></li>
-      <li><a href="/contactus/">Contact Us</a></li>
-      <li><a href="/about-us/faq/">FAQs</a></li>
-    </ul>
-    <div id="footerFacebook">
-      <div class="footerLabel">Join SodaHead on Facebook</div>
+    <div class="footerColumn">
+      <div class="footerHeader">Site Links</div>
+      <ul>
+        <li><a href="/question/ask/">Ask a Question</a></li>
+        <li><a href="/widget/create/">Create a Poll Widget</a></li>
+        <li><a href="/questions/">Hot Questions</a></li>
+        <li><a href="/slideshows/">Slideshows</a></li>
+        <li><a href="/topics/">Topics</a></li>
+      </ul>
+      <ul>
+        <li><a href="/united-states/">News &amp; Politics Opinions</a></li>
+        <li><a href="/entertainment/">Entertainment Opinions</a></li>
+        <li><a href="/living/">Living Opinions</a></li>
+        <li><a href="/fun/">Fun &amp; Humor</a></li>
+        <li><a href="/about-us/sitemap/">Sitemap</a></li>
+      </ul>
+    </div>
+    <div class="footerColumn">
+      <div class="footerHeader">Help</div>
+      <ul>
+        <li><a href="/about-us/faq/">FAQs</a></li>
+        <li><a href="/group/1/sodahead-groupies/">Help</a></li>
+        <li><a href="/users/">Find Friends</a></li>
+        <li><a href="/contactus/">Contact Us</a></li>
+      </ul>
+      <ul>
+        <li><a href="/abuse/" rel="nofollow">Report Abuse</a></li>
+        <li><a href="/about-us/terms/" rel="nofollow">Terms of Use</a></li>
+        <li><a href="/about-us/privacy/" rel="nofollow">Privacy</a></li>
+        <li><a href="/about-us/code-of-conduct/" rel="nofollow">Code of Conduct</a></li>
+      </ul>
+    </div>
+    <div class="footerColumn last">
+      <div class="footerHeader">About SodaHead</div>
+      <ul>
+        <li><a href="/about-us/">About Us</a></li>
+        <li><a href="/about-us/advertise/">Advertise with us</a></li>
+        <li><a href="/poll-widget/samples/">Poll Widget Samples</a></li>
+      </ul>
+      <ul>
+        <li><a href="/partners/bemoresocial/" rel="nofollow">Polling Solutions</a></li>
+        <li><a href="http://twitter.com/SodaHead">@SodaHead on Twitter</a></li>
+        <li><a href="http://www.facebook.com/SodaHead">Like us on Facebook</a></li>
+      </ul>
+      <div id="footerShare"></div>
     </div>
   <div class="copyright">
-    <abbr title="wap-lax-013a.la1.sodahead.com">©</abbr> 2011
+    <abbr title="wap-lax-014a.la1.sodahead.com">©</abbr> 2011
     SodaHead.com All Rights Reserved
   </div>
 </div>
@@ -1029,7 +1103,11 @@ div.parallelFloat {
     <div id="swapable"></div>
 
     <script>
-      $Q.push(function(){
+      !function r(f){
+        if($U.ready){
+          while(f = $Q.shift()){f();}
+          $Q.push = function(f){f();};
+
           
 
           
@@ -1037,16 +1115,23 @@ div.parallelFloat {
           SH.modals.autoLoad();
           
 
-          $U.ready(function(){
-    $U.initUnauthedNav();
+          $U.lazyImages("comments");
+
+          
+    
   
 
-          });
-      });
+
+          
+        }else{
+          setTimeout(r, 9);
+        }
+      }();
 
       window.onload = function(){
-        $Q.push(function(){
-            $U.lazyImages("comments");
+        $Q.push(function(f){
+            while(f = $Q.load.shift())f()
+            $Q.load.push = function(f){f()}
             $U.injectFBLike("footerFacebook");
         });
       }
@@ -1055,26 +1140,6 @@ div.parallelFloat {
     
     
 
-    
-    
-
-    
-      
-        
-  
-    <script type="text/javascript">
-      _qoptions = {
-        'qacct': 'p-ca-khV7SszzC6'
-      };
-      $U.async("//quantserve.com/quant.js");
-    </script>
-    <noscript>
-      <img src="http://pixel.quantserve.com/pixel/p-ca-khV7SszzC6.gif"
-          style="display: none" border="0" height="1" width="1" alt="Quantcast">
-    </noscript>
-  
-
-      
     
     
 
