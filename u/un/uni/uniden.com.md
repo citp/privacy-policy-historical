@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uniden.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621222208id_/http%3A//www.uniden.com/privacy-policy/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniden.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222142800id_/http%3A//www.uniden.com/privacy-policy/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy at Uniden
+# Privacy Policy - B2C Static Page at Uniden
 
 This Privacy Policy applies only to web sites maintained by Uniden America Corporation ("Uniden") and to information provided by you or otherwise collected online through a Uniden web site.
 
