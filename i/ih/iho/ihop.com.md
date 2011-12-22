@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the ihop.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623143534id_/http%3A//www.ihop.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D40%26Itemid%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihop.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222213921id_/http%3A//www.ihop.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D40%26Itemid%3D5) for the most accurate reproduction.*
 
 # IHOP
 
-|  Privacy Statement  |  [ | Print |](http://www.ihop.com/index2.php?option=com_content&task=view&id=40&pop=1&page=0&Itemid=5 "Print")  
----|---  
-  
 We recognize that our customers' privacy is important and we take it seriously. This Privacy Policy describes how we use identifiable information regarding our customers and members that is acquired through your use of our Web site. It does not apply to any other information you may choose to provide us in any other context (e.g., by mail, in person, over the telephone, etc.). Primarily, we collect such information for the purpose of providing you with an outstanding service experience. We do not sell or rent your personal information to any third parties. 
 
 By providing us with your personal information and by using this Web site, you accept this Privacy Policy and expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy.
@@ -20,5 +17,3 @@ By providing us with your personal information and by using this Web site, you a
 **Security Disclaimer:** It is commonly known that information transferred over the Internet is never 100% secure. For example, such information may be viewed by a third party while in transit or may be unlawfully accessed by a third party who hacks into an otherwise protected computer. Consequently, although we endeavor to protect the privacy of your private information, you acknowledge that there are security and confidentiality risks associated with the Internet which are beyond our control and that the safekeeping of information exchanged between us over the Internet cannot be absolutely guaranteed. 
 
 **_This Privacy Policy was last updated on February 16, 2010 and is effective as of that date._**
-
- 
