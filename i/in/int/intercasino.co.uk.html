@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the intercasino.co.uk privacy policy that was archived on 2011-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110609092404id_/http%3A//www.intercasino.co.uk/security/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the intercasino.co.uk privacy policy that was archived on 2011-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111223003938id_/http%3A//www.intercasino.co.uk/security/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <!-- i:header1 o:head -->
 
-<script type="text/javascript" src="/includes/js/common/log.js"></script>
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="/includes/js/common/log.js"></script>
 
 
 
@@ -54,26 +54,42 @@ $(function(){
 
 
 
+<!--Blog stuff-->
+<script type="text/javascript" src="/includes/js/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="/includes/js/jquery-ui-1.8.7.custom.min.js"></script>
+<link type="text/css" rel="Stylesheet" href="/css/black-tie/jquery-ui-1.8.7.custom.css">
+<link rel="alternate" type="application/rss+xml" title="Blog RSS" href="/promotions/blog/blogrss.xml">
+<script type="text/javascript">
+function OpenBlog(blogPath, title)
+{
+	$('#blogDialog>iframe').attr('src', blogPath);
+	$('#blogDialog').dialog({height:660, width:675, modal:true, resizable:false, draggable:false, title:title });
+}
+</script>
+<!------------->
+
 </head>
 <body>
 <div class="tracking">
 <script src="/includes/hbx/hbx_var.js" type="text/javascript"></script>
 <script src="/includes/js/tracking.js?20100517" type="text/javascript"></script>
 <script src="/includes/hbx/hbx.js" type="text/javascript"></script>
-<script>
+<!--script>
 $(function() {
-	var ipb = $('#instantPlayButton');
-	ipb.attr('href', ipb.attr('href') + getCookie('src_cd'));
+	var src_cd = getCookie('src_cd');
+	$('.instantPlayButton').each(function(index) {
+		$(this).attr('href', $(this).attr('href') + src_cd);
+	});
 });
-</script>
+</script-->
 </div>
 
 		<div id="topnav">
-			<a class="logo" name="top" href="/">InterCasino. The First Online Casino. Since 1996</a>
+			<a class="logo" name="top" href="/">InterCasino. One of the First Online Casinos. Since 1996</a>
 			<div class="languagesel">Choose your language:
 			<div class="languageselmore"><ul>
 				<li><a onclick="s_objectID='lang-en';" href="http://www.intercasino.com/"><img src="/images/root/flags/world.gif" alt="flag">World - English - £/$/€</a></li>				
-				<li><a onclick="s_objectID='lang-it';" href="http://ita.intercasino.com/"><img src="/images/root/flags/italy.jpg" alt="flag">Mondo - Italiano - €</a></li>
+				<li><a onclick="s_objectID='lang-it';" href="http://ita.intercasino.com/"><img src="/images/root/flags/globe-flag.jpg" alt="flag">Mondo - Italiano - €</a></li>
 				<li><a onclick="s_objectID='lang-de';" href="http://deutsch.intercasino.com/"><img src="/images/root/flags/germany.jpg" alt="flag">Welt - Deutsch - €</a></li>
 				<li><a onclick="s_objectID='lang-fr';" href="http://france.intercasino.com/"><img src="/images/root/flags/globe-flag.jpg" alt="flag">Monde - Français - €</a></li>
 				<li><a onclick="s_objectID='lang-da';" href="http://danish.intercasino.com/"><img src="/images/root/flags/denmark.jpg" alt="flag">Verden - Dansk - €</a></li>
@@ -109,7 +125,6 @@ $(function() {
 
 				<div class="bonus">
 					<div class="message">
-						<!--a href="/promotions/interhero/bonuspower.shtml">InterHero Bonus Power</a-->
 						<a href="/promotions/0310/first-deposit-bonus.shtml">
 							
 							£250 100% Deposit Bonus
@@ -122,7 +137,8 @@ $(function() {
 						</div>
 					</div>
 					<ul class="hrsnav">
-						<li><a class="current" href="javascript://">Slots<span class="data">/images/hrs/hdr/casino_slots.jpg</span></a></li>
+						<!--li><a class="current" href="/promotions/interhero/bonuspower.shtml">InterHero Bonus Power<span class="data">/images/hrs/hdr/New_InterHeroes_image.jpg</span></a></li-->
+						<li><a href="javascript://">Slots<span class="data">/images/hrs/hdr/casino_slots.jpg</span></a></li>
 						<li><a href="javascript://">Roulette<span class="data">/images/hrs/hdr/casino_roulette.jpg</span></a></li>
 						<li><a href="javascript://">InterCasino, a name you can trust<span class="data">/images/hrs/hdr/casino_trust.jpg</span></a></li>
 					</ul>
@@ -206,18 +222,23 @@ $(function() {
 		<div id="sidebarmenu"><!-- i:sidebarmenu o/c:X -->
 			
 			<div class="sidebar-wrapper">
-				<div class="backup" style="display: block;">
-					<a onclick="inter_checkdl(this);s_objectID='dl_sidebar';" href="http://datablade.wagerlogic.com/cgi-bin/software.html/InterCasinoGBPInstaller.exe">Download to Play £250 First Deposit Bonus</a>
+				<div class="backup">
+					<a href="http://datablade.wagerlogic.com/cgi-bin/software.html/InterCasinoGBPInstaller.exe">Download to Play £250 First Deposit Bonus</a>
 				</div>
-				<div class="sidebar-instant" style="display: none;">
+				<div class="sidebar-download">
 					<div></div>
-					<a id="instantPlayButton" onclick="s_objectID='dl_sidebar_i';" href="/cgi-bin/add_email.pl?software_type_id=5&amp;casino=no-download&amp;src_cd=">Instant Play</a>
+					<a href="http://datablade.wagerlogic.com/cgi-bin/software.html/InterCasinoGBPInstaller.exe" target="_blank">Download to Play £250 First Deposit Bonus</a>
 				</div>
-				<div class="sidebar-download" style="display: none;">
+				<div class="sidebar-instant">
 					<div></div>
-					<a onclick="inter_checkdl(this);s_objectID='dl_sidebar';" href="http://datablade.wagerlogic.com/cgi-bin/software.html/InterCasinoGBPInstaller.exe">Download to Play £250 First Deposit Bonus</a>
+					<a class="instantPlayButton" href="/cgi-bin/add_email.pl?software_type_id=5&amp;casino=no-download&amp;src_cd=">Instant Play</a>
 				</div>
 			</div>
+			<div class="note">
+				<p><strong>NOTE:</strong> Your system may <strong>not support our Download Casino</strong> version so please try <a class="instantPlayButton" href="/cgi-bin/add_email.pl?software_type_id=5&amp;casino=no-download&amp;src_cd=">Instant Play</a> instead.</p>
+				<p>See our <a href="http://www.intercasino.com/help/start/">Minimum Casino Download System Requirements</a> for more details.</p>
+			</div>
+
 			
 				
 			<ul class="sidebar-menu">
@@ -236,9 +257,14 @@ $(function() {
 		</div>
 
 		<script>
-			//determine browser type - Safari or Chrome, change Instant Play to Download
-			var pattern = /Chrome|Safari|Opera/;
-			if (pattern.test(navigator.userAgent)) {
+			if(navigator.platform.indexOf("Win")==-1)
+			{
+				$(function(){
+					$('#sidebarmenu .note').show();
+				});
+			}
+			//determine browser type - Opera, change Instant Play to Download
+			if (window.opera) {
 				var elem = document.getElementsByTagName("div");
 				var pattern1 = /sidebar-instant/;
 				var pattern2 = /sidebar-download/;
@@ -261,22 +287,36 @@ $(function() {
 		
 		<!-- i:sidebar-promo c/o:X-->
 		
+<div id="blogDialog" style="display:none;">
+	<iframe id="ifr" src="" frameborder="0" height="99%" width="100%"></iframe>
+</div>
+
 		<div id="sidebar">
-		
+			<div class="heading headingl"><a href="/promotions/blog/">InterCasino Blog</a></div>
+			<div class="promotion">
+				<h3>Three incredible slots &amp; multi limit Baccarat game at InterCasino!</h3>
+				<p>Slots  lovers and secret agents are in for a treat with the release of our new games.  Our award-winning online casino is giving all players an early Christmas present  with the addition of three new slots from software developers Cryptologic. <em>Juju Jack, Battle for Olympus, and Horns and  Halos</em> are currently exclusive to InterCasino.</p>
+				<p class="more"><a href="/promotions/blog/november-2011/">More</a></p>
+			</div>
+
+<!--
 		
 			<div class="heading headingl"><a href="/promotions/0310/first-deposit-bonus.shtml">First Deposit Bonus</a></div>
 			
 			<div class="sidebar-download">
 				<div></div>
-				<a onclick="inter_checkdl(this);s_objectID='dl_sidebarp';" href="http://datablade.wagerlogic.com/cgi-bin/software.html/InterCasinoGBPInstaller.exe">Download to Play £250 First Deposit Bonus</a>
+				<a onclick="inter_checkdl(this);s_objectID='dl_sidebarp';" href="http://datablade.wagerlogic.com/cgi-bin/software.html/InterCasinoGBPInstaller.exe">Download to Play &pound;250 First Deposit Bonus</a>
 			</div>
 			
 			
-		
+-->
+
 			<h3 class="heading">Follow Us</h3>
 				<a class="openwindow sidesociallink" href="http://www.facebook.com/pages/InterCasino/151212335177" target="_blank"><img class="sidebarsocial" src="/images/root/logoontop/facebook.png" alt="Facebook"></a>
 				<a class="openwindow sidesociallink" href="http://twitter.com/_InterCasino" target="_blank"><img class="sidebarsocial" src="/images/root/logoontop/twitter.png" alt="Twitter"></a>
-				<a class="openwindow sidesociallink" href="http://www.youtube.com/user/InterCasinoTV " target="_blank"><img class="sidebarsocial" src="/images/root/logoontop/youtube.png" alt="YouTube"></a>
+				<a class="openwindow sidesociallink" href="http://www.youtube.com/user/InterCasinoTV" target="_blank"><img class="sidebarsocial" src="/images/root/logoontop/youtube.png" alt="YouTube"></a>
+				<a class="openwindow sidesociallink" href="/promotions/blog/blogrss.xml" target="_blank"><img class="sidebarsocial" src="/images/root/logoontop/rss.png" alt="InterCasino Blog"></a>
+				<div class="sidesociallink sidebarsocial"><div class="g-plusone" data-size="small" data-annotation="none"></div></div>
 		</div>
 		
 		<!-- i:footer1 o:div#bottom -->
@@ -292,7 +332,7 @@ $(function() {
 					<li class="visa"><a href="/payment/#creditcard">Visa</a></li>
 					<li class="neteller"><a href="/payment/#neteller">Neteller</a></li>					
 					<li class="paysafecard"><a href="/payment/#paysafecard">Pay Safe Card</a></li>
-					<li class="moneybookers"><a href="/payment/#moneybookers">Moneybookers</a></li>
+					<li class="moneybookers"><a href="/payment/#moneybookers">Skrill (Moneybookers)</a></li>
 					<li class="entropay"><a href="/payment/#entropay">Entropay</a></li>					
 					<li class="gambleaware"><a href="http://www.gambleaware.co.uk/">Gamble Aware</a></li>
 					<li class="gamcare"><a href="http://www.gamcare.org.uk/">Gamcare</a></li>
@@ -420,7 +460,7 @@ inter.adformtrackpage();
 var ftRandom = Math.random()*1000000;
 document.write('<script language="javascript1.1" type="text/javascript" src="http://video.flashtalking.com/container/2225/2225.js?Homepage&cachebuster='+ftRandom+'"><\/script>');
 // ]]>
-</script><script language="javascript1.1" type="text/javascript" src="http://video.flashtalking.com/container/2225/2225.js?Homepage&amp;cachebuster=365559.5679458343"></script>
+</script><script language="javascript1.1" type="text/javascript" src="http://video.flashtalking.com/container/2225/2225.js?Homepage&amp;cachebuster=506829.8138861307"></script>
 
 
 	
@@ -434,6 +474,15 @@ try {
 var pageTracker = _gat._getTracker("UA-12426285-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+
+<script type="text/javascript">
+(function() {
+	var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+	po.src = 'https://apis.google.com/js/plusone.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
 
 
 
