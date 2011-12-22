@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clickbank.net privacy policy that was archived on 2011-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623192348id_/http%3A//www.clickbank.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clickbank.net privacy policy that was archived on 2011-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111222170058id_/http%3A//www.clickbank.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <!-- Copyright should show -->
@@ -54,6 +54,9 @@
             border: none;
             margin: 3px 10px;
             vertical-align: middle;
+        }
+        .truste_content div {
+            text-align: center;
         }
     </style>
 
@@ -137,29 +140,29 @@
 
 <script type="text/javascript">
     $(document).ready(function() {
-        $("#searchQueryField").focus(function() { 
+        $("#searchQueryField").focus(function() {
             if($(this).val() == "Search") {
                 $(this).attr("value", "");
                 $(this).css("color", "#000000");
             }
         });
-        
-        $("#searchQueryField").blur(function() { 
+
+        $("#searchQueryField").blur(function() {
             if($(this).val() == "") {
                 $(this).attr("value", "Search");
                 $(this).css("color", "#9b8579");
             }
         });
-    
+
         $("#topSearch").submit(function() {
             var value = $("#searchQueryField").attr("value");
             if(value != "" && value != "Search") {
                 submit();
             } else {
                 return false;
-            }  
+            }
         });
-        
+
         $("#searchQueryField").css("color", "#9b8579");
     });
 </script>
@@ -364,13 +367,17 @@
     
         <select name="locale" class="localeChangeBox" style="width:160px;">
             
-                <option value="DE">Deutsch (German)</option>
+                    <option value="DE">Deutsch (German)</option>
             
-                <option value="EN" selected="selected">English</option>
+                    <option value="EN" selected="selected">English</option>
             
-                <option value="ES">Español (Spanish)</option>
+                    <option value="ES">Español (Spanish)</option>
             
-                <option value="FR">Français (French)</option>
+                    <option value="FR">Français (French)</option>
+            
+                    <option value="IT">Italian</option>
+            
+                    <option value="PT">Portuguese</option>
             
         </select>
     
@@ -385,15 +392,21 @@
             <li><a href="/customer_privacy.html">The Customer Privacy Policy</a> addresses the types of information gathered through this website, <a href="http://www.clickbank.com">www.clickbank.com</a> and www.clickbank.net (where the order form resides), from customers when a purchase is made. It also addresses how we collect, use, and disclose personally identifiable information.</li>
         </ul>
     </div>
-    <div class="truste_content">
-        <a href="http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.clickbank.com/seal_l" title="Validate TRUSTe privacy certification" target="_blank">
-        <img src="http://privacy-policy.truste.com/certified-seal/ctv/en/www.clickbank.com/seal_l.png" alt="Validate TRUSTe privacy certification"></a>
-        <a href="http://privacy-policy.truste.com/click-with-confidence/wps/en/www.clickbank.com/seal_l" title="TRUSTe online privacy certification" target="_blank">
-        <img src="http://privacy-policy.truste.com/certified-seal/wps/en/www.clickbank.com/seal_l.png" alt="TRUSTe online privacy certification"></a>
-        <a href="http://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.clickbank.com/seal_l" title="TRUSTe European Safe Harbor certification" target="_blank">
-        <img src="http://privacy-policy.truste.com/certified-seal/eusafe/en/www.clickbank.com/seal_l.png" alt="TRUSTe European Safe Harbor certification"></a>
+    
+    
+    <div class="truste_content" style="text-align: center;">
+        
+            
+            
+                <a href="http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.clickbank.com/seal_l" title="Validate TRUSTe privacy certification" target="_blank">
+                <img src="http://privacy-policy.truste.com/certified-seal/ctv/en/www.clickbank.com/seal_l.png" alt="Validate TRUSTe privacy certification"></a>
+                <a href="http://privacy-policy.truste.com/click-with-confidence/wps/en/www.clickbank.com/seal_l" title="TRUSTe online privacy certification" target="_blank">
+                <img src="http://privacy-policy.truste.com/certified-seal/wps/en/www.clickbank.com/seal_l.png" alt="TRUSTe online privacy certification"></a>
+                <a href="http://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.clickbank.com/seal_l" title="TRUSTe European Safe Harbor certification" target="_blank">
+                <img src="http://privacy-policy.truste.com/certified-seal/eusafe/en/www.clickbank.com/seal_l.png" alt="TRUSTe European Safe Harbor certification"></a>
+            
+        
     </div>
-
 </div>
 <br><br><br></div>
     <div id="footer">
@@ -428,7 +441,7 @@
             <td width="9"><img src="/images/mkweb20/footer/nav_right.png"></td>
         </tr>
     </tbody></table>
-    
+
     
     
         
@@ -439,9 +452,10 @@
             </tr>
         </tbody></table>
     
-    
+
 </div>
-<!-- privacy.html --></div>
+<!-- privacy.html -->
+</div>
 </div>
 
 <!-- SiteCatalyst code version: H.23.2.
@@ -452,7 +466,7 @@ More info available at http://www.omniture.com -->
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
 var idx = document.title.indexOf("| ");
-if(idx > 0 && idx <= 10) {
+if(idx > 0 && idx <= 11) {
     s.pageName = document.location.pathname + " | " + document.title.substring(idx + 2);
 }
 s.server="";  //If your site has more than one domain serving the same content, the server variable may be used to track which of those domains visitors are using. The following JavaScript will populate the domain of the page into the server variable.
