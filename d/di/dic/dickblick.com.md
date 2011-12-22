@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dickblick.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428122128id_/http%3A//www.dickblick.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickblick.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222163839id_/http%3A//www.dickblick.com/privacy) for the most accurate reproduction.*
 
 # Security and Privacy - BLICK art materials
 
@@ -28,7 +28,7 @@ Only those web pages where you actually enter your credit card and billing infor
 ###  Privacy Statement  
 
 
-Dick Blick does not collect or maintain any information about how you as an individual use our website. We analyze our web log statistics as a whole, but we do not track your browsing as an individual, and we do not share or offer this information to other companies. 
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. You can choose to disable the Service at <http://www.clicktale.net/disable.html>. 
 
 Dick Blick, like all companies that sell through a catalog or through an online store, maintains a list of current and potential customers. If you order from us, or if you request a catalog, then we will send you a new catalog from time to time, depending on the amount of business you do with us. We like to have email as well as postal addresses if possible. It's our best way of staying in touch. 
 
