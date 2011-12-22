@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appyet.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626090714id_/http%3A//www.appyet.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appyet.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222180031id_/http%3A//www.appyet.com/Privacy.aspx) for the most accurate reproduction.*
 
 # AppYet - Create Android App from any Rss/Atom web content
 
@@ -6,7 +6,7 @@
 
 ###  1\. Acknowledgement and acceptance of terms 
 
-We are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing http://appyet.com or AppYet's application, widget or gadget for social networks (including but not limited to Facebook Platform or Google OpenSocial) (each, a "Site"), you acknowledge and fully understand this Privacy Statement ("Statement"), agree to be bound by the terms contained in this Statement, and freely consent to the information collection and use practices described in this Statement. You further acknowledge and agree that you are at least 13 years old. If you are under 13 years old, you do not have permission to access this site. 
+We are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing http://appyet.com or AppYet's application, widget or gadget for social networks (including but not limited to Facebook Platform or Google OpenSocial) (each, a "Site"), you acknowledge and fully understand this Privacy Statement ("Statement"), agree to be bound by the terms contained in this Statement, and freely consent to the information collection and use practices described in this Statement. 
 
 If you do not agree to these terms, please do not access or use this site. 
 
@@ -20,17 +20,8 @@ We collect certain information from and about our users three ways: (1) directly
 
   1. ###  Web Server Logs 
 
-When you visit our Site, we may track information to administer the Site and analyze its usage. None of this information is Personally Identifiable Information. Examples of information we may track include, but are not limited to: 
+When you visit our Site, we may track information to administer the Site and analyze its usage. None of this information is Personally Identifiable Information. 
 
-    * Your Internet protocol address. 
-    * The kind of browser or computer you use. 
-    * Number of links you click within the site. 
-    * State or country from which you access the site. 
-    * Date and time of your visit. 
-    * Name of your Internet service provider. 
-    * Web pages from which you link to our site. 
-    * Web pages you go to from our site. 
-    * Pages you view on our site. 
   2. ###  Use of Cookies 
 
 We use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
@@ -99,4 +90,4 @@ AppYet([appyet@gmail.com](mailto:appyet@gmail.com))
 
 We will use commercially reasonable efforts to promptly respond and resolve any problem or question. 
 
-**This document was last updated on May 25, 2011.**
+**This document was last updated on July 5, 2011.**
