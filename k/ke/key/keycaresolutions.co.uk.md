@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keycaresolutions.co.uk privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525222517id_/http%3A//www.keycaresolutions.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keycaresolutions.co.uk privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222094828id_/http%3A//www.keycaresolutions.co.uk/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Live Care Home Room Vacancies from Key Care Solutions
+# Privacy Policy
 
 At Key Care Solutions we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you when you are on this site.  
 We do update this Policy from time to time so please do return and review this Policy regularly.  
@@ -56,6 +56,6 @@ Any changes we may make to our privacy policy in the future will be posted on th
 The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.  
 Key Care Solutions Ltd, 5 Newton Court, Bampton, Devon EX16 9LG.
 
-###  Contacting Us
+###  Contact Us
 
-We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at [info@keycaresolutions.co.uk](mailto:info@keycaresolutions.co.uk) or call 0844 4145 827 
+We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to [contact us](http://www.keycaresolutions.co.uk/contact.html)
