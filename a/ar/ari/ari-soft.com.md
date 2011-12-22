@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315003022id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223004828id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
 
 # ARI Soft - Privacy Policy
 
 You currently have **0 items** in your cart.
 
-  * 16/02/2011 Joomla 1.6! extensions. Part 2
+  * 27/09/2011 ARI Smart Content v. 1.8.0
 
-  * 10/02/2011 ARI Quiz v. 2.9.10
+ARI Smart Content v. 1.8.0 is ready. New version is compatible with Joomla! 1.5, 1.6 and 1.7 and it is released under GNU GPL license.
 
-ARI Quiz v. 2.9.10 is ready. It provides ability to set start and/or end date of quiz publication
+  * 16/09/2011 ARI Quiz v. 2.10.0
+
+ARI Quiz v. 2.10.0 has been released. New version supports Joomla! 1.6 and 1.7 and released under GNU GPL license.
 
 
   
