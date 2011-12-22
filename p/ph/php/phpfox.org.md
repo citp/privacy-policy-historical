@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpfox.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616073456id_/http%3A//www.phpfox.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpfox.org privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222212540id_/http%3A//www.phpfox.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy » phpFox - Social Networking Script
 
@@ -10,7 +10,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ## The Information We Collect
 
-This notice applies to all information collected or submitted on any of Benc Enterprises websites. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+This notice applies to all information collected or submitted on any of phpFox Inc. websites. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
   * Name
   * Address
@@ -49,7 +49,7 @@ There is a security limit of 1 request per 7 days to protect your privacy.
 
 ## Solely In A Business Capacity
 
-Users contacting Benc Enterprises in a "business capacity" will be treated the same and strictly governed by the provisions of this privacy notice. There information will not be stored In the same database as our clients information as all clients information is stored on a separate database to ensure the up most privacy. 
+Users contacting phpFox Inc. in a "business capacity" will be treated the same and strictly governed by the provisions of this privacy notice. There information will not be stored In the same database as our clients information as all clients information is stored on a separate database to ensure the up most privacy. 
 
 ## Site Usage Information
 
@@ -57,4 +57,4 @@ Similar to other commercial web sites, our web site utilizes a standard technolo
 
 ## How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please send us an [email](http://support.phpfox.com/index.php?_m=tickets&_a=submit). 
+Should you have other questions or concerns about these privacy policies, please send us an [email](http://www.phpfox.com/contact/). 
