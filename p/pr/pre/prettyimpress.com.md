@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prettyimpress.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127090507id_/http%3A//prettyimpress.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettyimpress.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222180521id_/http%3A//prettyimpress.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Customer Service - Privacy Notice - Free Shipping
 
