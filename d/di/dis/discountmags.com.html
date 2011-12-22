@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the discountmags.com privacy policy that was archived on 2010-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229124613id_/http%3A//www.discountmags.com/page/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discountmags.com privacy policy that was archived on 2011-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111222023005id_/http%3A//www.discountmags.com/page/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -8,16 +8,17 @@
 <meta name="description" content="Discount Magazine Subscriptions. Magazine subscriptions at 94% off cover price with a money back guarantee">
 
 <meta name="keywords" content="discount magazine subscriptions, magazine subscription, discount magazines, magazine subscription, discount magazine">
+<!-- xrk4wYp4_p1hs622cuR1oATCtBE -->
 <base href="http://www.discountmags.com/">
 <link rel="stylesheet" href="http://www.discountmags.com/resources/main.css?v=1.0" type="text/css">
 <link rel="stylesheet" href="http://www.discountmags.com/resources/css/blitzer/jquery-ui-1.7.2.custom.css" type="text/css">
 <link rel="stylesheet" href="http://www.discountmags.com/resources/css/ui-stars/jquery-ui.stars.css" type="text/css">
-<script language="JavaScript1.2" src="http://www.discountmags.com/resources/jserver.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript1.2" src="http://www.discountmags.com/resources/jserver.js" type="text/javascript"></script>
 <script language="JavaScript1.2" src="http://www.discountmags.com/resources/ov.js" type="text/javascript"></script>
 <script language="JavaScript1.2" src="resources/jquery.js" type="text/javascript"></script>
 <script language="JavaScript1.2" src="resources/jquery-ui.js" type="text/javascript"></script>
 <script language="JavaScript1.2" src="resources/jquery-ui.stars.js" type="text/javascript"></script>
-<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
+<!--<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>-->
 <script type="text/javascript">
     function recordOutboundLink(link, category, action, label) {
       try {
@@ -33,6 +34,40 @@
       }catch(err){return true;}
       return false;
     }
+        var hideTimers = new Array();
+        function showSubsections(sectionID,obj) {
+                // clear timeout
+                if(hideTimers[sectionID]) {
+                        window.clearTimeout(hideTimers[sectionID]);
+                }
+ 
+                // hide all subsections
+                $("#subcategories_container div[rel=subcategory]").hide();
+                if(obj) {
+                        var cssTop = obj.offsetTop-($("#subcategories_container div#subcategories_"+sectionID).height()/2)+8;
+                        if(cssTop < 0) cssTop = 0;
+                        
+                        $("#subcategories_container div#subcategories_"+sectionID).css("top",cssTop);
+                }
+                $("#subcategories_container div#subcategories_"+sectionID).show();
+        }
+ 
+        function hideSubsections(sectionID) {
+                hideTimers[sectionID] = window.setTimeout(function () { $("#subcategories_container div#subcategories_"+sectionID).hide(); },800);
+        }
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-518340-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
 </head>
 <body onload="MM_preloadImages('images/b2o.gif','images/b1o.gif','images/b3o.gif','images/b4o.gif','images/b5o.gif','images/b6o.gif','images/b7o.gif')">
@@ -63,11 +98,11 @@
         </tr>
         <tr> 
           <td valign="top"> <img src="images/ic1.gif" alt="" width="19" height="17" align="absmiddle"> 
-            <a class="cart" href="https://www.discountmags.com/cart?jssCart=c8559ba20440706e7823bf1c152b317c" alt="basket" id="view_cart_link">View Cart</a></td>
+            <a class="cart" href="https://www.discountmags.com/cart" alt="basket" id="view_cart_link">View Cart</a></td>
         </tr>
         <tr> 
           <td valign="top"> <img src="images/ic2.gif" alt="" width="19" height="17" align="absmiddle"> 
-            <a class="chk" href="https://www.discountmags.com/cart?xCmd=checkout&amp;jssCart=c8559ba20440706e7823bf1c152b317c" alt="help">Check out</a></td>
+            <a class="chk" href="https://www.discountmags.com/cart?xCmd=checkout" alt="help">Check out</a></td>
         </tr>
       </tbody></table></td>
     <td valign="top" class="end">&nbsp;</td>
@@ -97,109 +132,60 @@
                 <td valign="top"><img src="images/Cheap-Magazine-Subscriptions.gif" alt="Cheap Magazine Subscriptions" width="183" height="34"></td>
               </tr>
               <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/bestsellers"><font color="maroon">Top Sellers</font></a></td>
+		<td valign="top" class="out" style="text-align:left;padding-left:10px;"><a class="sectionlink" href="http://www.discountmags.com/bestsellers"><strong>Top Sellers</strong></a></td>
 	      </tr>
 			  <!-- root sections -->
 			  			                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/65/1/package-deals">Package Deals</a></td>
+                <td valign="top" class="out" style="text-align:left;padding-left:10px;"><a class="sectionlink" href="http://www.discountmags.com/section/65/1/package-deals" onmouseover="showSubsections(65,this.parentNode);" onmouseout="hideSubsections(65);">Package Deals</a></td>
             </tr>
 						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/54/1/adult-magazines">Adult Magazines</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/3/1/animals---pets">Animals &amp; Pets</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/5/1/arts---crafts">Arts &amp; Crafts</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/4/1/auto---cycles">Auto &amp; Cycles</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/6/1/business---finance">Business &amp; Finance</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/7/1/children-s-magazines">Children's Magazines</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/51/1/comics---cartoons">Comics &amp; Cartoons</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/8/1/computers---internet">Computers &amp; Internet</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/9/1/electronics---audio">Electronics &amp; Audio</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/37/1/en-espanol">En Espanol</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/10/1/entertainment---tv">Entertainment &amp; TV</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/11/1/family---parenting">Family &amp; Parenting</a></td>
+                <td valign="top" class="out" style="text-align:left;padding-left:10px;"><a class="sectionlink" href="http://www.discountmags.com/section/4/1/auto---cycles" onmouseover="showSubsections(4,this.parentNode);" onmouseout="hideSubsections(4);">Auto &amp; Cycles</a></td>
             </tr>
 												                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/12/1/food---cooking">Food &amp; Cooking</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/30/1/general-interest">General Interest</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/27/1/health---fitness">Health &amp; Fitness</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/48/1/history-related">History Related</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/13/1/hobbies---games">Hobbies &amp; Games</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/14/1/home---garden">Home &amp; Garden</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/26/1/hunting---fishing">Hunting &amp; Fishing</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/15/1/lifestyle---culture">Lifestyle &amp; Culture</a></td>
+                <td valign="top" class="out" style="text-align:left;padding-left:10px;"><a class="sectionlink" href="http://www.discountmags.com/section/6/1/business---finance" onmouseover="showSubsections(6,this.parentNode);" onmouseout="hideSubsections(6);">Business &amp; Finance</a></td>
             </tr>
 												                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/16/1/literary-magazines">Literary Magazines</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/17/1/men-s-magazines">Men's Magazines</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/18/1/music-magazines">Music Magazines</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/19/1/news---politics">News &amp; Politics</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/29/1/photography">Photography</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/60/1/profession-related">Profession Related</a></td>
+                <td valign="top" class="out" style="text-align:left;padding-left:10px;"><a class="sectionlink" href="http://www.discountmags.com/section/8/1/computer---electronic" onmouseover="showSubsections(8,this.parentNode);" onmouseout="hideSubsections(8);">Computer &amp; Electronic</a></td>
             </tr>
 												                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/36/1/religion---spirituality">Religion &amp; Spirituality</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/21/1/science---nature">Science &amp; Nature</a></td>
-            </tr>
-						  			  			                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/22/1/sports---recreation">Sports &amp; Recreation</a></td>
+                <td valign="top" class="out" style="text-align:left;padding-left:10px;"><a class="sectionlink" href="http://www.discountmags.com/section/10/1/entertainment---tv" onmouseover="showSubsections(10,this.parentNode);" onmouseout="hideSubsections(10);">Entertainment &amp; TV</a></td>
             </tr>
 												                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/23/1/teen-magazines">Teen Magazines</a></td>
-            </tr>
-						                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/24/1/travel---regional">Travel &amp; Regional</a></td>
+                <td valign="top" class="out" style="text-align:left;padding-left:10px;"><a class="sectionlink" href="http://www.discountmags.com/section/11/1/family---parenting" onmouseover="showSubsections(11,this.parentNode);" onmouseout="hideSubsections(11);">Family &amp; Parenting</a></td>
             </tr>
 												                <tr> 
-                <td valign="top" class="out"><a class="sectionlink" href="http://www.discountmags.com/section/25/1/women-s-magazines">Women's Magazines</a></td>
+                <td valign="top" class="out" style="text-align:left;padding-left:10px;"><a class="sectionlink" href="http://www.discountmags.com/section/12/1/food---beverage" onmouseover="showSubsections(12,this.parentNode);" onmouseout="hideSubsections(12);">Food &amp; Beverage</a></td>
             </tr>
-									
+												                <tr> 
+                <td valign="top" class="out" style="text-align:left;padding-left:10px;"><a class="sectionlink" href="http://www.discountmags.com/section/27/1/health---fitness" onmouseover="showSubsections(27,this.parentNode);" onmouseout="hideSubsections(27);">Health &amp; Fitness</a></td>
+            </tr>
+												                <tr> 
+                <td valign="top" class="out" style="text-align:left;padding-left:10px;"><a class="sectionlink" href="http://www.discountmags.com/section/14/1/home---garden" onmouseover="showSubsections(14,this.parentNode);" onmouseout="hideSubsections(14);">Home &amp; Garden</a></td>
+            </tr>
+												                <tr> 
+                <td valign="top" class="out" style="text-align:left;padding-left:10px;"><a class="sectionlink" href="http://www.discountmags.com/section/17/1/men-s-magazines" onmouseover="showSubsections(17,this.parentNode);" onmouseout="hideSubsections(17);">Men's Magazines</a></td>
+            </tr>
+												                <tr> 
+                <td valign="top" class="out" style="text-align:left;padding-left:10px;"><a class="sectionlink" href="http://www.discountmags.com/section/19/1/news---politics" onmouseover="showSubsections(19,this.parentNode);" onmouseout="hideSubsections(19);">News &amp; Politics</a></td>
+            </tr>
+												                <tr> 
+                <td valign="top" class="out" style="text-align:left;padding-left:10px;"><a class="sectionlink" href="http://www.discountmags.com/section/21/1/science---nature" onmouseover="showSubsections(21,this.parentNode);" onmouseout="hideSubsections(21);">Science &amp; Nature</a></td>
+            </tr>
+												                <tr> 
+                <td valign="top" class="out" style="text-align:left;padding-left:10px;"><a class="sectionlink" href="http://www.discountmags.com/section/22/1/sports---recreation" onmouseover="showSubsections(22,this.parentNode);" onmouseout="hideSubsections(22);">Sports &amp; Recreation</a></td>
+            </tr>
+												                <tr> 
+                <td valign="top" class="out" style="text-align:left;padding-left:10px;"><a class="sectionlink" href="http://www.discountmags.com/section/25/1/women-s-magazines" onmouseover="showSubsections(25,this.parentNode);" onmouseout="hideSubsections(25);">Women's Magazines</a></td>
+            </tr>
+									<!--
+              <tr> 
+                <td valign="top" class="out" style="text-align:left;padding-left:10px;"><a class="sectionlink" href="http://discountmags.tradepub.com/" onclick="return recordOutboundLink(this,'External','Click','Free Magazines');"><strong>Free Trade Magazines</strong></a></td>
+	      </tr>
+-->
+              <tr> 
+                <td valign="top" class="out" style="text-align:left;padding-left:10px;"><a class="sectionlink" href="http://www.discountmags.com/page/browse" onmouseover="showSubsections(1,this.parentNode);" onmouseout="hideSubsections(1);"><strong>View More Categories</strong></a></td>
+	      </tr>
+
 										<tr> 
 			<td valign="top"><img src="images/login.gif" alt="" width="183" height="34" border="0"></td>
 			</tr>
@@ -208,7 +194,7 @@
 				<!-- customer login form -->
 				<table cellpadding="1" cellpading="0" border="0" width="100%" class="menu-backing-content">
 		
-				<form name="customerLogin" method="POST" action="https://www.discountmags.com/customer?xCmd=login&amp;jssCart=c8559ba20440706e7823bf1c152b317c" onsubmit=""></form>
+				<form name="customerLogin" method="POST" action="https://www.discountmags.com/customer?xCmd=login" onsubmit="" autocomplete="off"></form>
 				<tbody><tr>
 					<td valign="top" align="center"><font class="menu-normal-text">Email Address</font><br><input type="text" name="xEmailAddress" value="" size="20" class="box1_left"></td>
 				</tr>
@@ -219,10 +205,10 @@
 					<td valign="top" align="center"><input type="submit" name="submit" value="" class="submfr"></td>
 				</tr>	
 				<tr>
-					<td><a href="https://www.discountmags.com/customer?xCmd=register&amp;xFwd=&amp;jssCart=c8559ba20440706e7823bf1c152b317c" class="menu-links">Open an Account</a></td>
+					<td><a href="https://www.discountmags.com/customer?xCmd=register&amp;xFwd=" class="menu-links">Open an Account</a></td>
 				</tr>	
 				<tr>
-					<td><a href="https://www.discountmags.com/customer?xCmd=fpshow&amp;jssCart=c8559ba20440706e7823bf1c152b317c" class="menu-links" onclick="window.open('https://www.discountmags.com/customer?xCmd=fpshow&amp;jssCart=c8559ba20440706e7823bf1c152b317c','forgottenpasswd','menubar=no,toolbar=no,location=no,status=no,width=500,height=200');return false;">Forgotten Password</a><a href="https://www.discountmags.com/customer?xCmd=fpshow&amp;jssCart=c8559ba20440706e7823bf1c152b317c" class="menu-links"></a></td>
+					<td><a href="https://www.discountmags.com/customer?xCmd=fpshow" class="menu-links" onclick="window.open('https://www.discountmags.com/customer?xCmd=fpshow','forgottenpasswd','menubar=no,toolbar=no,location=no,status=no,width=500,height=200');return false;">Forgotten Password</a><a href="https://www.discountmags.com/customer?xCmd=fpshow" class="menu-links"></a></td>
 				</tr>
 				
 				</tbody></table>
@@ -255,7 +241,218 @@
 	  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
                 <td valign="top">
-
+                        <div id="subcategories_container" style="position:relative">
+                                                                                          <div rel="subcategory" id="subcategories_4" style="position:absolute;left:-10px;z-index:10;width:auto;height:auto;border: solid #eeeeee 5px; background-color:white; display:none;" onmouseover="showSubsections(4);" onmouseout="hideSubsections(4);">
+                                        <ul style="margin:0px;padding:10px;">
+						<li style="list-style:none"><a class="sectionlink" href="http://www.discountmags.com/section/4/1/auto---cycles">Auto &amp; Cycles</a>
+							<ul style="margin:0px;padding:0px;padding-left:10px;">
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/169/1/boats">Boats</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/93/1/cars">Cars</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/128/1/classics">Classics</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/168/1/hot-rod">Hot Rod</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/167/1/motor-home---rv">Motor Home &amp; RV</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/96/1/motorcycles">Motorcycles</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/97/1/motorsports">Motorsports</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/95/1/off-road">Off-Road</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/94/1/trucks">Trucks</a></li>
+															</ul>
+						</li>
+                                        </ul>
+                                </div>
+                                                                                                                                 <div rel="subcategory" id="subcategories_6" style="position:absolute;left:-10px;z-index:10;width:auto;height:auto;border: solid #eeeeee 5px; background-color:white; display:none;" onmouseover="showSubsections(6);" onmouseout="hideSubsections(6);">
+                                        <ul style="margin:0px;padding:10px;">
+						<li style="list-style:none"><a class="sectionlink" href="http://www.discountmags.com/section/6/1/business---finance">Business &amp; Finance</a>
+							<ul style="margin:0px;padding:0px;padding-left:10px;">
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/129/1/economy---politics">Economy &amp; Politics</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/130/1/finance---money">Finance &amp; Money</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/124/1/investment">Investment</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/171/1/marketing---sales">Marketing &amp; Sales</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/172/1/retail">Retail</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/123/1/small-business---management">Small Business &amp; Management</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/173/1/supplements">Supplements</a></li>
+															</ul>
+						</li>
+                                        </ul>
+                                </div>
+                                                                                                                                 <div rel="subcategory" id="subcategories_8" style="position:absolute;left:-10px;z-index:10;width:auto;height:auto;border: solid #eeeeee 5px; background-color:white; display:none;" onmouseover="showSubsections(8);" onmouseout="hideSubsections(8);">
+                                        <ul style="margin:0px;padding:10px;">
+						<li style="list-style:none"><a class="sectionlink" href="http://www.discountmags.com/section/8/1/computer---electronic">Computer &amp; Electronic</a>
+							<ul style="margin:0px;padding:0px;padding-left:10px;">
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/9/1/audio---video">Audio &amp; Video</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/154/1/gaming">Gaming</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/184/1/internet">Internet</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/152/1/mac-magazines">Mac Magazines</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/153/1/pc-magazines">PC Magazines</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/181/1/technology">Technology</a></li>
+															</ul>
+						</li>
+                                        </ul>
+                                </div>
+                                                                                                                                 <div rel="subcategory" id="subcategories_10" style="position:absolute;left:-10px;z-index:10;width:auto;height:auto;border: solid #eeeeee 5px; background-color:white; display:none;" onmouseover="showSubsections(10);" onmouseout="hideSubsections(10);">
+                                        <ul style="margin:0px;padding:10px;">
+						<li style="list-style:none"><a class="sectionlink" href="http://www.discountmags.com/section/10/1/entertainment---tv">Entertainment &amp; TV</a>
+							<ul style="margin:0px;padding:0px;padding-left:10px;">
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/103/1/celebrity-gossip">Celebrity Gossip</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/186/1/movie">Movie</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/18/1/music">Music</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/102/1/tabloids">Tabloids</a></li>
+															</ul>
+						</li>
+                                        </ul>
+                                </div>
+                                                                                                                                 <div rel="subcategory" id="subcategories_11" style="position:absolute;left:-10px;z-index:10;width:auto;height:auto;border: solid #eeeeee 5px; background-color:white; display:none;" onmouseover="showSubsections(11);" onmouseout="hideSubsections(11);">
+                                        <ul style="margin:0px;padding:10px;">
+						<li style="list-style:none"><a class="sectionlink" href="http://www.discountmags.com/section/11/1/family---parenting">Family &amp; Parenting</a>
+							<ul style="margin:0px;padding:0px;padding-left:10px;">
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/157/1/baby---pregnancy">Baby &amp; Pregnancy</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/49/1/educational">Educational</a></li>
+															</ul>
+						</li>
+                                        </ul>
+                                </div>
+                                                                                                                                 <div rel="subcategory" id="subcategories_12" style="position:absolute;left:-10px;z-index:10;width:auto;height:auto;border: solid #eeeeee 5px; background-color:white; display:none;" onmouseover="showSubsections(12);" onmouseout="hideSubsections(12);">
+                                        <ul style="margin:0px;padding:10px;">
+						<li style="list-style:none"><a class="sectionlink" href="http://www.discountmags.com/section/12/1/food---beverage">Food &amp; Beverage</a>
+							<ul style="margin:0px;padding:0px;padding-left:10px;">
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/132/1/beer">Beer</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/135/1/cooking">Cooking</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/131/1/wine">Wine</a></li>
+															</ul>
+						</li>
+                                        </ul>
+                                </div>
+                                                                                                                                 <div rel="subcategory" id="subcategories_27" style="position:absolute;left:-10px;z-index:10;width:auto;height:auto;border: solid #eeeeee 5px; background-color:white; display:none;" onmouseover="showSubsections(27);" onmouseout="hideSubsections(27);">
+                                        <ul style="margin:0px;padding:10px;">
+						<li style="list-style:none"><a class="sectionlink" href="http://www.discountmags.com/section/27/1/health---fitness">Health &amp; Fitness</a>
+							<ul style="margin:0px;padding:0px;padding-left:10px;">
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/121/1/bodybuilding">BodyBuilding</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/125/1/diets---weight-loss">Diets &amp; Weight Loss</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/127/1/fitness">Fitness</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/120/1/general-health">General Health</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/217/1/men-s">Men's</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/126/1/psychology">Psychology</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/122/1/running">Running</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/218/1/women-s">Women's</a></li>
+															</ul>
+						</li>
+                                        </ul>
+                                </div>
+                                                                                                                                 <div rel="subcategory" id="subcategories_14" style="position:absolute;left:-10px;z-index:10;width:auto;height:auto;border: solid #eeeeee 5px; background-color:white; display:none;" onmouseover="showSubsections(14);" onmouseout="hideSubsections(14);">
+                                        <ul style="margin:0px;padding:10px;">
+						<li style="list-style:none"><a class="sectionlink" href="http://www.discountmags.com/section/14/1/home---garden">Home &amp; Garden</a>
+							<ul style="margin:0px;padding:0px;padding-left:10px;">
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/108/1/architecture">Architecture</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/193/1/cabin---log-home">Cabin &amp; Log Home</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/110/1/do-it-yourself">Do-It-Yourself</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/160/1/gardening">Gardening</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/109/1/interior-design">Interior Design</a></li>
+															</ul>
+						</li>
+                                        </ul>
+                                </div>
+                                                                                                                                 <div rel="subcategory" id="subcategories_17" style="position:absolute;left:-10px;z-index:10;width:auto;height:auto;border: solid #eeeeee 5px; background-color:white; display:none;" onmouseover="showSubsections(17);" onmouseout="hideSubsections(17);">
+                                        <ul style="margin:0px;padding:10px;">
+						<li style="list-style:none"><a class="sectionlink" href="http://www.discountmags.com/section/17/1/men-s-magazines">Men's Magazines</a>
+							<ul style="margin:0px;padding:0px;padding-left:10px;">
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/232/1/auto">Auto</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/134/1/health---fitness">Health &amp; Fitness</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/133/1/lifestyle---interests">Lifestyle &amp; Interests</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/233/1/outdoor">Outdoor</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/231/1/sports">Sports</a></li>
+															</ul>
+						</li>
+                                        </ul>
+                                </div>
+                                                                                                                                 <div rel="subcategory" id="subcategories_19" style="position:absolute;left:-10px;z-index:10;width:auto;height:auto;border: solid #eeeeee 5px; background-color:white; display:none;" onmouseover="showSubsections(19);" onmouseout="hideSubsections(19);">
+                                        <ul style="margin:0px;padding:10px;">
+						<li style="list-style:none"><a class="sectionlink" href="http://www.discountmags.com/section/19/1/news---politics">News &amp; Politics</a>
+							<ul style="margin:0px;padding:0px;padding-left:10px;">
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/202/1/conservative">Conservative</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/201/1/domestic">Domestic</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/203/1/liberal">Liberal</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/225/1/newspapers">Newspapers</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/200/1/weekly">Weekly</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/199/1/world-news">World News</a></li>
+															</ul>
+						</li>
+                                        </ul>
+                                </div>
+                                                                                                                                 <div rel="subcategory" id="subcategories_21" style="position:absolute;left:-10px;z-index:10;width:auto;height:auto;border: solid #eeeeee 5px; background-color:white; display:none;" onmouseover="showSubsections(21);" onmouseout="hideSubsections(21);">
+                                        <ul style="margin:0px;padding:10px;">
+						<li style="list-style:none"><a class="sectionlink" href="http://www.discountmags.com/section/21/1/science---nature">Science &amp; Nature</a>
+							<ul style="margin:0px;padding:0px;padding-left:10px;">
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/146/1/archaeology">Archaeology</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/207/1/engineering">Engineering</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/206/1/environmental">Environmental</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/229/1/science-fiction">Science Fiction</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/145/1/space">Space</a></li>
+															</ul>
+						</li>
+                                        </ul>
+                                </div>
+                                                                                                                                 <div rel="subcategory" id="subcategories_22" style="position:absolute;left:-10px;z-index:10;width:auto;height:auto;border: solid #eeeeee 5px; background-color:white; display:none;" onmouseover="showSubsections(22);" onmouseout="hideSubsections(22);">
+                                        <ul style="margin:0px;padding:10px;">
+						<li style="list-style:none"><a class="sectionlink" href="http://www.discountmags.com/section/22/1/sports---recreation">Sports &amp; Recreation</a>
+							<ul style="margin:0px;padding:0px;padding-left:10px;">
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/45/1/aviation">Aviation</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/111/1/baseball">Baseball</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/112/1/basketball">Basketball</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/46/1/boats">Boats</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/50/1/college">College</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/113/1/cycling">Cycling</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/191/1/dance---cheerleading">Dance &amp; Cheerleading</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/208/1/extreme---other-sports">Extreme &amp; Other Sports</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/114/1/football">Football</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/92/1/golf">Golf</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/115/1/martial-arts">Martial Arts</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/63/1/professional-teams">Professional Teams</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/116/1/running">Running</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/227/1/skateboarding---surfing">Skateboarding &amp; Surfing</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/209/1/soccer">Soccer</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/226/1/tennis">Tennis</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/228/1/volleyball">Volleyball</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/158/1/winter">Winter</a></li>
+															</ul>
+						</li>
+                                        </ul>
+                                </div>
+                                                                                                                                 <div rel="subcategory" id="subcategories_25" style="position:absolute;left:-10px;z-index:10;width:auto;height:auto;border: solid #eeeeee 5px; background-color:white; display:none;" onmouseover="showSubsections(25);" onmouseout="hideSubsections(25);">
+                                        <ul style="margin:0px;padding:10px;">
+						<li style="list-style:none"><a class="sectionlink" href="http://www.discountmags.com/section/25/1/women-s-magazines">Women's Magazines</a>
+							<ul style="margin:0px;padding:0px;padding-left:10px;">
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/53/1/bridal---weddings">Bridal &amp; Weddings</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/137/1/fashion---beauty">Fashion &amp; Beauty</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/136/1/health---fitness">Health &amp; Fitness</a></li>
+																	<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/213/1/romance">Romance</a></li>
+															</ul>
+						</li>
+                                        </ul>
+                                </div>
+                                                  <div rel="subcategory" id="subcategories_1" style="position:absolute;left:-10px;z-index:10;width:auto;height:auto;border: solid #eeeeee 5px; background-color:white; display:none;" onmouseover="showSubsections(1);" onmouseout="hideSubsections(1);">
+	<ul style="margin:0px;padding:10px;">
+		<li style="list-style:none"><a class="sectionlink" href="http://www.discountmags.com/page/browse">More Categories</a>
+			<ul style="margin:0px;padding:0px;padding-left:10px;">
+							<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/3/1/animals---pets">Animals &amp; Pets</a></li>
+							<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/7/1/children-s-magazines">Children's Magazines</a></li>
+							<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/51/1/comics---cartoons">Comics &amp; Cartoons</a></li>
+							<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/100/1/education">Education</a></li>
+							<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/91/1/ethnic">Ethnic</a></li>
+							<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/30/1/general-interest">General Interest</a></li>
+							<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/13/1/hobbies---games">Hobbies &amp; Games</a></li>
+							<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/26/1/hunting---fishing">Hunting &amp; Fishing</a></li>
+							<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/15/1/lifestyle---culture">Lifestyle &amp; Culture</a></li>
+							<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/43/1/local---regional">Local &amp; Regional</a></li>
+							<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/60/1/profession-related">Profession Related</a></li>
+							<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/36/1/religion---spirituality">Religion &amp; Spirituality</a></li>
+							<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/23/1/teen-magazines">Teen Magazines</a></li>
+							<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/24/1/travel---leisure">Travel &amp; Leisure</a></li>
+							<li style="list-style:none"><a class="sectionlink" style="font-weight:normal" href="http://www.discountmags.com/section/54/1/adult-magazines">Adult Magazines</a></li>
+						<li style="list-style:none"><br><a class="sectionlink" style="font-weight:normal" href="http://discountmags.tradepub.com/" onclick="return recordOutboundLink(this,'External','Click','Free Magazines');">Free Magazines</a></li>
+			</ul>
+		</li>
+        </ul>
+ </div>
+                        </div>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td valign="top" class="aff"><a href="index.php">Home</a> &gt; Privacy Policy<br>
@@ -329,7 +526,7 @@
 
   <tr>
 
-    <td valign="top" class="copy"><div align="center"><font color="#FFFF99" size="1">© 1999-2010 Discount Magazines, LLC.  All rights reserved.</font></div></td>
+    <td valign="top" class="copy"><div align="center"><font color="#FFFF99" size="1">© 1999-2011 DiscountMags.com.  All rights reserved.</font></div></td>
 
   </tr>
 
@@ -366,12 +563,17 @@
 
 </tbody></table>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-518340-1");
-pageTracker._trackPageview();
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-518340-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
 
 <!-- Start Quantcast tag -->
