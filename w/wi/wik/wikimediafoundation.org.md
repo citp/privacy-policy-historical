@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wikimediafoundation.org privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628191511id_/http%3A//wikimediafoundation.org/wiki/Wikimedia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikimediafoundation.org privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222151045id_/http%3A//wikimediafoundation.org/wiki/Wikimedia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Wikimedia Foundation
-
-From the Wikimedia Foundation
 
 The content of this page is an official policy approved by the Wikimedia Foundation [Board of Trustees](https://web.archive.org/wiki/Board_of_Trustees "Board of Trustees"). This policy may _not_ be circumvented, eroded, or ignored on local Wikimedia [projects](https://web.archive.org/wiki/Our_projects "Our projects"). 
 
@@ -10,7 +8,7 @@ Wikimedia policies
 ---  
   
   * [Licensing and copyright](https://web.archive.org/wiki/Resolution:Licensing_policy "Resolution:Licensing policy")
-  * **Privacy** and [donor privacy](https://web.archive.org/wiki/Donor_privacy_policy "Donor privacy policy")
+  * **Privacy** and [donor privacy](https://web.archive.org/wiki/Donor_policy "Donor policy")
   * [Data retention](https://web.archive.org/wiki/Data_retention_policy "Data retention policy")
   * [Access to nonpublic data](https://web.archive.org/wiki/Access_to_nonpublic_data_policy "Access to nonpublic data policy")
   * [Trademarks](https://web.archive.org/wiki/Trademark_policy "Trademark policy")
@@ -31,7 +29,7 @@ Wikimedia policies
 
   
   
-    _This version of the[Privacy policy](http://meta.wikimedia.org/wiki/Privacy_policy "meta:Privacy policy") was approved in October 2008 by the [Board of Trustees](https://web.archive.org/wiki/Board_of_Trustees "Board of Trustees"). Discussion and proposed changes are welcome on the [talk page at Meta](http://meta.wikimedia.org/wiki/talk:Privacy_policy "meta:talk:Privacy policy")._
+    _This version of the[Privacy policy](https://meta.wikimedia.org/wiki/Privacy_policy "meta:Privacy policy") was approved in October 2008 by the [Board of Trustees](https://web.archive.org/wiki/Board_of_Trustees "Board of Trustees"). Discussion and proposed changes are welcome on the [talk page at Meta](https://meta.wikimedia.org/wiki/talk:Privacy_policy "meta:talk:Privacy policy")._
 
     _It is requested that this notice be translated and linked from the footer (MediaWiki:Copyright) of every page._
 
@@ -127,7 +125,7 @@ Projects are primarily run by volunteer contributors. Some dedicated users are c
 
 Other users who may have access to private identifiable information include, but are not limited to, users who have access to OTRS, or to the CheckUser and Oversight functions, users elected by project communities to serve as stewards or Arbitrators, Wikimedia Foundation employees, trustees, appointees, and contractors and agents employed by the Foundation, and developers and others with high levels of server access. 
 
-Access to and publication of this information is governed by the Access to nonpublic data policy, as well as specific policies covering some of the functions in question. Sharing information with other privileged users is not considered "distribution." 
+Access to and publication of this information is governed by the [Access to nonpublic data policy](https://web.archive.org/wiki/Access_to_nonpublic_data_policy "Access to nonpublic data policy"), as well as specific policies covering some of the functions in question. Sharing information with other privileged users is not considered "distribution." 
 
 Release: Policy on Release of Data 
 
