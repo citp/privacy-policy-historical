@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startpage.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515202346id_/http%3A//startpage.com/eng/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startpage.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222231917id_/http%3A//startpage.com/eng/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@ Cookies are small pieces of data that are sent and saved to your computer's hard
 
 Startpage uses only one anonymous cookie called "preferences". This cookie is to remember the search preferences you saved for your next visit. It expires after 90 days. 
 
-You can choose to accept or refuse cookies by changing the settings of your browser. It should be noted, however, that your Startpage.com preferences will not work properly if your cookies are turned off. It is possible to accept cookies from selected sites only. 
+You can choose to accept or refuse cookies by changing the settings of your browser. It should be noted, however, that your Startpage.com preferences will not work properly if your cookies are turned off. It is possible to accept cookies from selected sites only.
 
 You can periodically delete cookies from your computer's hard drive, clearing out all historical data that may have been saved from your previous web surfing. If you delete cookies, you will not be recognized as a repeat visitor or viewer when returning to a site.
 
