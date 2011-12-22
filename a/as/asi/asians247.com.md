@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asians247.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623191755id_/http%3A//www.asians247.com/support.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asians247.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222152156id_/http%3A//www.asians247.com/support.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Asians247.com - Free Live Asian Sex Shows - Live Asian Chat Girls 24/7!
 
@@ -49,7 +49,7 @@ There may be times when we need to change the terms of this Privacy Policy. To e
 
 **HOW TO CANCEL YOUR SUBSCRIPTION**
 
-You can cancel your subscription online by visiting the Customer Service section of the site you joined.
+You can cancel your subscription online by visiting the Customer Service section of the site you joined. 
 
 **HOW CAN YOU ACCESS THE INFORMATION WE HAVE COLLECTED FROM YOU?**
 
