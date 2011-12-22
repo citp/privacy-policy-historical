@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imgchili.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612112014id_/http%3A//imgchili.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgchili.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222160916id_/http%3A//imgchili.com/privacy_policy) for the most accurate reproduction.*
 
-# imgChili » More Information » Privacy Policy
+# imgChili » Privacy Policy
 
 When you sign up for an account with imgChili, we collect personal information from you including your email address and a password. 
 
