@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canuckaudiomart.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622194907id_/http%3A//www.canuckaudiomart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canuckaudiomart.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222012447id_/http%3A//www.canuckaudiomart.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Canuck Audio Mart
 
