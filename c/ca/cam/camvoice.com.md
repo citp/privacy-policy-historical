@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camvoice.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422223358id_/http%3A//www.camvoice.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camvoice.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222071513id_/http%3A//camvoice.com/privacy.html) for the most accurate reproduction.*
 
 # CamVoice Live Chat Face to Face with Friends
 
