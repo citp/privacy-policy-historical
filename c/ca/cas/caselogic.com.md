@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caselogic.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623174220id_/http%3A//www.caselogic.com/help/index.cfm%3Ffuseaction%3Dprivacy%26PageEnd_Link%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caselogic.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222210339id_/http%3A//www.caselogic.com/help/index.cfm%3Ffuseaction%3Dprivacy%26PageEnd_Link%3DPrivacy) for the most accurate reproduction.*
 
 # CD Cases, DVD Cases, MP3 Cases, Laptop Cases, Camera Cases, CD Wallets, DVD Wallets, iPod Cases, Laptop Sleeves - Case Logic
 
