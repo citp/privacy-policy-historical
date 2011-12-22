@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the glyde.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623122419id_/http%3A//glyde.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glyde.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222232742id_/http%3A//glyde.com/privacy) for the most accurate reproduction.*
 
 # Glyde: Privacy Policy
 
+[ ](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.glyde.com/seal_m "Validate TRUSTe privacy certification")
+
 ## Introduction
 
-This Privacy Policy (this "Policy") describes how Glyde Corporation ("Glyde") manages your personal information during your use of the glyde.com website, and any successor sites ("Glyde Website"), including the Glyde marketplace technology platform located thereon ("Glyde Marketplace") (collectively, "the site" or "Glyde Service"). The Glyde Service shall also include all applications made available by Glyde on the Glyde Website or for use in connection with the Glyde Website and technology platform. If you use or visit the Glyde Service, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Policy. 
+This Privacy Policy (this "Policy") describes how Glyde ("Glyde") manages your personal information during your use of the www.glyde.com website, and any successor sites ("Glyde Website"), including the Glyde marketplace technology platform located thereon ("Glyde Marketplace") (collectively, "the site" or "Glyde Service"). The Glyde Service shall also include all applications made available by Glyde on the Glyde Website or for use in connection with the Glyde Website and technology platform. If you use or visit the Glyde Service, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Policy. 
+
+Glyde has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [service@glyde.com](mailto:service@glyde.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe certification covers information collected through the Web site [www.glyde.com](http://glyde.com/) and the Glyde marketplace technology platform. 
 
 ## Our Commitment to Children's Privacy
 
@@ -16,31 +20,35 @@ You can visit the Glyde Service without telling us who you are or revealing any 
 
 Glyde may collect and store the following personally identifiable information:
 
-  * Billing and shipping address, email address, and financial information, such as credit card or bank account numbers;
+  * Name, Billing and shipping address, email address, and financial information, such as credit card or bank account numbers;
   * Transactional information based on your activities on the site (buying and selling); and
   * Billing, shipping, and other information you provide to purchase or sell an item;
 
 
 
-You also provide information when you search, buy, sell, fill out a questionnaire, communicate with customer service, contact us by phone, e-mail, physical mail, or participate in community features. As a result of those actions, you might supply us with such information as your name, address, phone numbers, and credit card information. 
+You also provide information when you search, buy, sell, fill out a questionnaire, communicate with customer service, or contact us by phone, e-mail, or physical mail. As a result of those actions, you might supply us with such information as your name, address, phone numbers, and credit card information. 
 
-Examples of the information we collect and analyze include, but are not limited to, the Internet protocol (IP) address used to connect your computer to the Internet; e-mail address; password; computer and connection information such as browser type, version, time-zone setting, browser plug-in types and versions, operating system, and platform; purchase history; products you own, viewed, or searched for; your charitable donation history and your sales history. We may also use browser data such as cookies, or similar data, on certain parts of our Website for fraud prevention and other purposes. Cookies are identifiers that we transfer to your computer through your web browser to enable our systems to recognize your browser and provide various usability features. 
+If you choose to use our referral service to tell a friend about our site, we may ask you for your friend's email address. We will automatically send a one-time email inviting him or her to visit the site. Glyde stores this information for the sole purpose of sending this one-time email. 
 
-A few important things you should know about cookies: we use cookies to help identify you and maintain your signed-in status; we offer certain features that are available only through the use of cookies; some cookies are "session cookies", which means that that they are automatically deleted from your computer at the end of a session. You are always free to decline our cookies if your browser permits, although doing so may interfere with your use of some of our sites or services. Most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. 
+Examples of the information we collect and analyze include, but are not limited to, the Internet protocol (IP) address used to connect your computer to the Internet; e-mail address; password; computer and connection information such as browser type, version, time-zone setting, browser plug-in types and versions, operating system, and platform; purchase history; products you own, viewed, or searched for; your charitable donation history and your sales history. 
 
-We may also use pixel tags, also known as a clear GIFs or web beacons, as invisible tags placed on certain pages of our Glyde Service but not on your computer. When you access these pages, pixel tags generate a generic notice of that visit. They usually work in conjunction with cookies, registering when a particular computer visits a particular page. You may disable cookies and the pixel tags will simply detect an anonymous website visit. 
+We may also use browser data such as cookies, or similar data, on certain parts of our Website for fraud prevention and other purposes. Cookies are identifiers that we transfer to your computer through your web browser to enable our systems to recognize your browser and provide various usability features. 
 
-Glyde may also collect information from third parties. Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; purchase or redemption information, and page-view information from other sites with which we may operate co-branded or partner businesses or for which we provide technical, fulfillment, advertising, or other services; search term and search result information, search results and links, including paid listings (such as sponsored links); and credit history information from credit bureaus, which we use to help prevent and detect fraud. 
+A few important things you should know about cookies: we use cookies to help identify you and maintain your signed-in status and to offer you a personalized site experience; we offer certain features that are available only through the use of cookies; some cookies are "session cookies", which means that that they are automatically deleted from your computer at the end of a session. You are always free to decline our cookies if your browser permits, although doing so may interfere with your use of some of our sites or services. Most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. We do not tie information we store in cookies to personal information you submit while on our site, except as disclosed above. 
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.networkadvertising.org/managing/opt_out.asp)
+We or third parties may also use pixel tags, also known as a clear GIFs or web beacons, as invisible tags placed on certain pages of our Glyde Service to track the online movement of our users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. When you access these pages, pixel tags generate a generic notice of that visit. They usually work in conjunction with cookies, registering when a particular computer visits a particular page. You may disable cookies and the pixel tags will simply detect an anonymous website visit. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
+
+We may use third-party advertising companies to help tailor site content to you or to serve ads on our behalf. These companies may employ cookies and web beacons to measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what amount). Any information that these third parties collect via cookies and web beacons is not linked to any personal information collected by us. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+We may also collect information from third parties. Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; purchase or redemption information, and page-view information from other sites with which we may operate co-branded or partner businesses or for which we provide technical, fulfillment, advertising, or other services; search term and search result information, search results and links, including paid listings (such as sponsored links); and credit history information from credit bureaus, which we use to help prevent and detect fraud. 
 
 ## Marketing
 
-Glyde will not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may merge your information with information we collect from other companies and use it to improve and personalize our content and services. If you don't wish to receive marketing communications from us, you have the option to "opt out" by clicking on the link at the bottom of an email. 
+Glyde will not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may merge your information with information we collect from other companies and use it to improve and personalize our content and services. If you don't wish to receive marketing communications from us, you have the option to "opt out" by clicking on the unsubscribe link at the bottom of an email. 
 
 ## Disclosure of Information
 
-Glyde may disclose personal information to enforce our policies, respond to legal requirements, or protect anyone's property, rights, or safety. 
+Glyde will not sell, rent, or trade your personal information with third parties other than as disclosed below or to enforce our policies, respond to legal requirements, or protect anyone's property, rights, or safety. 
 
 We may also share your personal information with:
 
@@ -59,9 +67,11 @@ Typically your personal information is not shared in any way with other users on
 
 ## Use
 
-Our primary purpose in collecting personal information is to provide you with a secure, efficient, and personalized experience. Glyde uses your information that we collect to operate, maintain, enhance, and provide all of the features and services found on the Glyde Service as well as to track user-generated content and users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act and other applicable laws. We may use your email address or phone number(s), without further consent, for administrative communications such as notifying you of Glyde Service updates, for customer service purposes, and to send privacy or security related notices. Glyde uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the Glyde Service. 
+Our primary purpose in collecting personal information is to provide you with a secure, efficient, and personalized experience. Glyde uses your information that we collect to operate, maintain, enhance, and provide all of the features and services found on the Glyde Service, including potentially sending you marketing emails, as well as to track user-generated content and users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act and other applicable laws. We may use your email address or phone number(s), without further consent, for administrative communications such as notifying you of Glyde Service updates, for customer service purposes, and to send privacy or security related notices. Glyde uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the Glyde Service. 
 
 Glyde may use any automatically collected Information such as cookies to: (i) remember your information so that you will not have to re-enter it during your visit or the next time you access the Glyde Service; (ii) provide customized content, services and information; (iii) monitor and report aggregate usage metrics such as total number of visitors and pages accessed; (iv) track your entries, submissions, and status in any promotions or other activities; (v) provide services and customer support; (vi) resolve disputes, collect fees, and troubleshoot problems; and (vii) prevent potentially prohibited or illegal activities, and enforce our User Agreement. 
+
+If you no longer wish to receive our promotional communications, you may opt-out of receiving them by following the instructions included in each communication or by emailing us at [service@glyde.com](mailto:service@glyde.com). 
 
 ## Spam and Phishing Emails
 
@@ -71,15 +81,17 @@ No users are licensed to add Glyde users who have bought an item from you to any
 
 Your password is important because it serves as a key to access your account. Do not disclose your password to anyone. When selecting your password, use unique letters (upper and lower case), numbers, and characters. If you share your password or your personal information with others, you are responsible for all actions taken in the name of your account, and may jeopardize the security of your personal information. If your password has been compromised for any reason, you should immediately contact us at [service@glyde.com](mailto:service@glyde.com) and go to the website and change your password. 
 
-You can see, review and change your personal information by logging in to glyde.com. Please keep your personal information up to date. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce the Glyde User Agreement and take other actions otherwise permitted by law. 
+You can see, review and change your personal information by logging in to glyde.com or by emailing us at service@glyde.com. Please keep your personal information up to date. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce the Glyde User Agreement and take other actions otherwise permitted by law. If you wish to cancel your account, remove your encrypted credit card information, or request that we no longer use your information to provide you services contact us at the email address listed above. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ## Security
 
 The security of your personal data and payment information is important to us. Glyde uses commercially reasonable security tools to protect your personal information against unauthorized access and disclosure. However, third parties may unlawfully intercept or access transmissions or private communications. We cannot ensure the security of any information you transmit to the Glyde Service, and you do so at your own risk. Once we receive your transmission of information, Glyde makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If Glyde learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Glyde Service may post a notice on the Glyde Service if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing or by emailing us at [privacy@glyde.com](mailto:privacy@glyde.com). 
 
+When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). 
+
 ## Third Parties
 
-This document addresses only the use and disclosure of information that Glyde collects from you, except as otherwise expressly included in this Policy. If you disclose your information to other people, or other sites throughout the Internet, different rules may apply to their use or disclosure of the information disclosed to them. Glyde does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others. 
+This document addresses only the use and disclosure of information that Glyde collects from you, except as otherwise expressly included in this Policy. If you disclose your information to other people, or other sites throughout the Internet that Glyde may link to, different rules may apply to their use or disclosure of the information disclosed to them. Glyde does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others. 
 
 ## International Visitors
 
@@ -87,10 +99,10 @@ The Glyde Service is hosted in the United States. For users visiting the Glyde S
 
 ## General
 
-Glyde may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect after they are posted on the site. If there are any material changes, we will notify you through email. 
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
 ## Contact
 
 You can contact Glyde Corporation at 555 Bryant St., #602, Palo Alto, CA 94301 or by email: [privacy@glyde.com](mailto:privacy@glyde.com). We will respond to your inquiry within 30 days of its receipt. 
 
-Last Updated October 5, 2009 
+Last Updated September 7, 2011 
