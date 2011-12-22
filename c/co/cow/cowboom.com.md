@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cowboom.com privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108145755id_/http%3A//www.cowboom.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cowboom.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222014623id_/http%3A//www.cowboom.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
