@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webpagedesign.com.au privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614073302id_/http%3A//www.webpagedesign.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpagedesign.com.au privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222183328id_/http%3A//www.webpagedesign.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy- Free web templates, graphics, articles and more.
+# Privacy Policy- Free templates, graphics, web design articles and more.
 
 This is the privacy policy of http://www.webpagedesign.com.au and will be referred to as “We”, “our” and “us” in this Internet Privacy Policy. By using this site, you agree to the Internet Privacy Policy of this web site (“the web site”), which is set out on this web site page. 
 
@@ -10,6 +10,9 @@ We recognise the importance of protecting the privacy of information collected a
 
 This Internet Privacy Policy should be reviewed periodically so that you are updated on any changes. We welcome your  
 comments and feedback.
+
+Affiliate Disclosure  
+This blog uses various affiliate programs and advertising for monetization, which means when you click on links to some sites that I recommend in my posts and make a purchase, this can result in a commission that is credited to this site.
 
 Personal Information
 
