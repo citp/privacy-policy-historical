@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kolcraft.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623204721id_/http%3A//www.kolcraft.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kolcraft.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222151730id_/http%3A//www.kolcraft.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Kolcraft - Privacy Policy
 
