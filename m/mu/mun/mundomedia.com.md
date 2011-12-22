@@ -1,159 +1,163 @@
-> *The following text is extracted and transformed from the mundomedia.com privacy policy that was archived on 2005-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mundomedia.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222072117id_/http%3A//www.mundomedia.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Network Solutions
+# MUNDO media
 
-Privacy Policy  
+First Posted October 2012. Last updated. 
 
+This Privacy Policy outlines important information regarding the use and disclosure of information collected via this Website and the business operations of Mundo Media Corp. 
 
-  
-Updated September 30, 2004  
-Version 2.4
+Mundo Media Corp. c.o.b. as "Mundo Media" provides this Privacy Policy to help users, customers and suppliers of the business make an informed decision as to whether to use or continue using the Website and business services of Mundo Media. 
 
-**Privacy Topics  
-**   
-Why A Privacy Policy?  
-Getting to Know our Customers  
-Third Party Advertising and Cookies  
-Information Corrections or Changes  
-How We Put Information to Good Use  
-With Whom We May Share Information  
-How Do I Get My Name Removed from Bulk Access  
-Our Accountability to You  
-Employee Accountability  
-The Accountability of Network Solutions' Agents and Business Partners  
-Notification of Changes
+PLEASE NOTE: OUR PRIVACY POLICY CHANGES FROM TIME TO TIME AND CHANGES ARE EFFECTIVE UPON POSTING. PLEASE CHECK BACK FREQUENTLY FOR UPDATES AS IT IS YOUR SOLE RESPONSIBILITY TO BE AWARE OF CHANGES. "MUNDO MEDIA" DOES NOT PROVIDE NOTICES OF CHANGES IN ANY MANNER OTHER THAN BY POSTING THE CHANGES AT THIS WEB SITE. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY PLEASE DO NOT PROVIDE ANY INFORMATION TO OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEB SITES REFERRED IN THIS PRIVACY POLICY. 
 
-**Why A Privacy Policy?**   
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+This Privacy Policy applies to Mundo Media's collection, use, storage and disclosure of information by Mundo Media on its (a) websites, including all its divisions, subsidiaries and related companies (collectively, the "Website"), (b) on various third party websites, and (c) to Mundo Media's other information collection, including the purchase of customer lists from third parties. Mundo Media is not responsible for the information collection or privacy practices of third web sites or applications. By reference, this Privacy Policy is incorporated into and is subject to the Website Terms of Use. Your use of the Website and any personal information you provide via the Website or through other official Mundo Media contacts remain subject to this Privacy Policy, as well as the Terms of Use and/or other stated policies. 
 
-**This Privacy Policy protects your privacy by:**
+**1\. Collection of Information.
 
-**Informing you about:**
+1.1 Information Collection By Survey.
 
-  * The types of personal information Network Solutions collects about you through its Web sites;
-  * How it collects that information;
-  * The general purposes for which it collects such information;
-  * The types of organizations to which it discloses the information;
-  * The choices and means by which individuals may limit its use and disclosure.
-
-**Empowering you to choose:**  
-
-
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it).
-
-**Assuring you that Network Solutions:**  
-
-
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction;
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered;
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate.
-
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
-
-**Getting to Know Our Customers**
-
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
-
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at [www.networksolutions.com](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=RSNRVHQUXMVCCCWMEAPSFFA) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
-
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
-
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
-
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
-
-**Third Party Advertising and Cookies**
-
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.doubleclick.net/us/corporate/privacy>. 
-
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click [here](http://www.privacychoices.org/ "http://www.privacychoices.org/"). 
-
-**Information Corrections or Changes  
-**   
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
-
-**How We Put Information to Good Use  
-**   
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
-
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
-
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
-
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
-
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
-
-**With Whom We May Share Information  
-**   
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
-
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
-
-We may share certain information about you with those of our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share sensitive financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors where necessary and appropriate, we will not share such information with other third parties, except in response to formal requests (e.g., subpoena or court order) made in connection with litigation, arbitration, or criminal proceedings directly relating to a domain name registration or other services we provide, or as directed by you or your agent. 
-
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
-
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=RSNRVHQUXMVCCCWMEAPSFFA "www.networksolutions.com");  
-
-  2. Click “Edit User Info” in the left menu;  
-
-  3. Scroll to the bottom of the page;  
-
-  4. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and  
-
-  5. Click “SAVE.”  
-
-
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
-
-**How Do I Get My Name Removed from Bulk Access  
-**   
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
-
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=RSNRVHQUXMVCCCWMEAPSFFA "www.networksolutions.com");  
-
-  2. Click “Edit User Info” in the left menu;  
-
-  3. Scroll to the bottom of the page;  
-
-  4. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and  
-
-  5. Click “SAVE.”   
-
-
-
-
-**Our Accountability to You  
-**   
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
-
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
-
-**Employee Accountability  
-**   
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
-
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
-
-**The Accountability of Network Solutions' Agents and Business Partners  
-**   
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at [privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13200 Woodland Park Drive  
-Herndon, VA 20171  
-(703) 668-4600 
-
-**Notification of Changes  
-**   
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to [privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
-**If you have any questions regarding this Privacy Policy, please contact[privacy@networksolutions.com](mailto:privacy@networksolutions.com).   
 **
+
+Mundo Media collects information, personal and otherwise, from individuals primarily by having the individuals provide that information directly to Mundo Media through its surveys and other opportunities to share information. Information collection may happen by various methods, including, but not limited to, an individual who transmits or receives a message through a Mundo Media web site by any means including, but not limited to posts and text messages, when an individual supplies a photo, when an individual voluntarily completes a Mundo Media survey, order form, or a registration page either online or offline, or by means of online or offline surveys, order forms, or registration pages operated by Mundo Media or third parties (collectively, a "Survey"). (As used in this policy, "online" means using the Internet, including the Website, and related technologies, and "offline" means by methods other than online, including in person, in the postal mail, using telephones and cell phones, and other similar means.) In the Surveys, Mundo Media or a third party (a "Third Party") may ask an individual to provide various information to Mundo Media, which may include his or her name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), SMS messaging details (e.g. date, time and content of the SMS message), birth date, gender, photo, salary range, education and marital status, occupation, social security number, employment information, personal and online interests, and such other information as may be requested from time to time (together, "Survey Information"). Mundo Media may also collect information concerning an individual from another source and use that information in combination with information provided from this Web Site. Completing the Surveys is completely voluntary, and individuals are under no obligation to provide Survey Information to Mundo Media or Third Party, but an individual may receive incentives from Mundo Media or a Third Party in exchange for providing Survey Information to Mundo Media. 
+
+**1.2 Third Party List Information.**
+
+Mundo Media may collect information from individuals when an individual provides information to a Third Party and Mundo Media subsequently purchases, licenses, or otherwise acquires the information from the Third Party (the "Seller"). Such purchased information may include, but is not limited to, an individual's name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), SMS messaging details (e.g. date, time and content of the SMS message), birth date, gender, salary range, education and marital status, occupation, industry of employment, personal and online interests, and such other information as the individual may have provided to the Seller (together, "Third Party List Information"). When acquiring Third Party List Information, Mundo Media seeks assurances from the Seller that the Seller has a right to transfer the Third Party List Information to Mundo Media and that the Seller has a right to provide offers from advertisers to the individuals whose personal information is included on the Seller's list. 
+
+**1.3 Other Information.**
+
+Other occasions when Mundo Media obtains information from individuals include (1) when an individual is making a claim for a prize or seeking to redeem an incentive offered by Mundo Media or by a Third Party, (2) when an individual requests assistance through Mundo Media's customer service department, and (3) when an individual voluntarily subscribes to a Mundo Media service or newsletter (together, "Other Information"). 
+
+**1.4 Cookies, Web Beacons, and Other Info Collected Using Technology.**
+
+Mundo Media currently uses cookie and web beacon technology to associate certain Internet-related information about an individual with information about the individual in our database. Additionally, Mundo Media may use other new and evolving sources of information in the future (together, "Technology Information"). 
+
+(a) Cookies. A cookie is a small amount of data stored on the hard drive of the individual's computer that allows Mundo Media to identify the individual with his or her corresponding data that resides in Mundo Media's database. You may read more about cookies at http://cookiecentral.com. Individuals who use the Website need to accept cookies in order to use all of the features and functionality of the Website. 
+
+(b) Web Beacons. A web beacon is programming code that can be used to display an image on a web page (by using an  programming function — see http://truste.org for more information), but can also be used to transfer an individual's unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. This allows Mundo Media to track certain web sites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes. For example, Mundo Media might place, with the consent of a Third Party website, a web beacon on the Third Party's website where baseball products are sold. When Joe, an individual listed in Mundo Media's database, visits the baseball website, Mundo Media receives notice by means of the web beacon that Joe visited the baseball site, and Mundo Media would then update Joe's profile with the information that Joe is interested in baseball. Mundo Media may thereafter present offers of baseball related products and services to Joe. In addition to using web beacons on web pages, Mundo Media also uses web beacons in email messages sent to individuals listed in Mundo Media's database. 
+
+(c) New Technology. The use of technology on the Internet, including search engine indexing, cookies and web beacons, is rapidly evolving, as is Mundo Media's use of new and evolving technology. As a result, Mundo Media strongly encourages individuals to revisit this policy for any updates regarding its use of technology. 
+
+**1.5 Outside Information.**
+
+Mundo Media may receive information about individuals from Third Parties or from other sources of information outside of Mundo Media including information located in public databases ("Outside Information"). 
+
+**1.6 Individual Information.**
+
+As used in this policy, Individual Information means Survey Information, Third Party List Information, Other Information, Technology Information, and Outside Information, and any other information Mundo Media gathers or receives about individuals such as usage data, file transfer and viewing data. 
+
+**1.7 No Information Collected from Children.**
+
+Mundo Media does not knowingly collect any personal information about children under the age of 13. If Mundo Media obtains actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately deleted from our database. Because it does not collect such information, Mundo Media has no such information to use or to disclose to Third Parties. Mundo Media has designed this policy in order to comply with the Children's Online Privacy Protection Act ("COPPA"). 
+
+**1.8 Log File Information.**
+
+When users log-in to access their account, our servers may automatically record and archive certain information that web-browsers send whenever visiting a Website. These server logs may include information vital to validating the user's authorization to access the account. Information, such as a web request, Internet Protocol (the "IP") address, browser type, browser language, referring pages, exit pages and visited URLs, platform type, click counts, pages viewed and in what order, time spent, the date and time of the request, and other important data is necessary to validate and authorize a user's entry and activity on the Website. 
+
+**1.9 Credit Card Information.**
+
+Mundo Media may in certain cases collect credit card numbers and related information, such as the expiration date of the card ("Credit Card Information") when an individual places an order from Mundo Media. When the Credit Card Information is submitted to Mundo Media, such information is encrypted and is protected with SSL encryption software. Mundo Media will use the Credit Card Information for purposes of processing and completing user-initiated purchase transactions, and the Credit Card Information will be disclosed to Third Parties only as necessary to complete the purchase transaction. 
+
+**2\. Use of Individual Information.
+
+2.1 Discretion to Use Information.
+
+**
+
+THE COMPANY MAY USE INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE IN COMPANY'S SOLE DISCRETION AND THAT INCLUDES BUT IS NOT LIMITED TO, LICENSING IT TO THIRD PARTIES FOR SECONDARY MARKETING PURPOSES. 
+
+The following paragraphs in Section 2 describe how Mundo Media currently uses Individual Information, but Mundo Media may change or broaden its use at any time. As noted, Mundo Media may update this policy from time to time. Mundo Media may use Individual Information to provide promotional offers to individuals by means of email advertising, telephone marketing, SMS texting, direct mail marketing, online banner advertising, and package stuffers, among other possible uses. By default, your full name will be used as your screen name. 
+
+**2.2 Email.**
+
+Mundo Media uses Individual Information to provide promotional offers by email to individuals. Mundo Media may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all Mundo Media's email lists, a person must send an email to [unsubscribe@mundomedia.com](mailto:unsubscribe@mundomedia.com). 
+
+**2.2(a) Content of Email Messages.**
+
+In certain commercial email messages sent by Mundo Media, an advertiser's name will appear in the "From:" line but hitting the "Reply" button will cause a reply email to be sent to Mundo Media. The "Subject:" line of Mundo Media email messages will usually contain a line provided from the advertiser to Mundo Media. 
+
+**2.2(b) Solicited Email.**
+
+Mundo Media only sends email to individuals who have agreed on the Website to receive email from Mundo Media or to individuals who have agreed on Third Party websites to receive email from Third Parties such as Mundo Media. Mundo Media does not send unsolicited email messages. As a result, statutes requiring certain formatting for unsolicited email are not applicable to Mundo Media's email messages. 
+
+**2.3 Targeted Advertising.**
+
+Mundo Media uses Individual Information to target advertising to an individual and others. When an individual is using the Internet, Mundo Media uses Technology Information (see also Section 2.5 below) to associate an individual with that person's Individual Information, and Mundo Media attempts to show advertising for products and services in which the person has expressed an interest in the Surveys, indicated an interest by means of Technology Information, through indexing of search engines, and otherwise. Mundo Media may, at its discretion, target advertising by using email, internet, search engines, direct mail, telephones, cell phones, and other means of communication to provide promotional offers to individuals and others. 
+
+**2.4 Direct Mail and Telemarketing.**
+
+Mundo Media uses Individual Information to advertise, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones and cell phones. 
+
+**2.5 Mobile Phone SMS Messaging.**
+
+In certain cases, when requested by an individual, Mundo Media or a Third Party may use Individual Information to provide customized content and advertising via SMS messaging to an individual's cell phone. Please note that Mundo Media is not responsible for the privacy practices or the content of Third Parties. 
+
+**2.6 Use of Technology Information.**
+
+Mundo Media uses Technology Information (1) to match a person's Survey Information and Third Party List Information to other categories of Individual Information to make and improve profiles of individuals, (2) to track a person's online browsing habits on the Internet, (3) to determine which areas of Mundo Media's web sites are most frequently visited. This information helps Mundo Media to better understand the online habits of individuals so that Mundo Media can target advertising and promotions to them. 
+
+**2.7 Profiles of Individuals.**
+
+Mundo Media uses Individual Information to make a profile of an individual. A profile can be created by combining Survey Information and Third Party List Information with other sources of Individual Information such as information obtained from public databases. 
+
+**2.8 Storage of Individual Information.**
+
+Mundo Media stores the Individual Information in a database on Mundo Media computers. Our computers have security measures (such as a firewall) in place to protect against the loss, misuse, and alteration of the information under Mundo Media's control. Notwithstanding such measures, Mundo Media cannot guarantee that its security measures will prevent Mundo Media computers from being illegally accessed, and the Individual Information on them stolen or altered. 
+
+**3\. Dissemination of Individual Information.**
+
+**3.1 Sale or Transfer to Third Parties.**
+
+MUNDO MEDIA MAY SELL, LICENSE OR TRANSFER INDIVIDUAL INFORMATION TO THIRD PARTIES FOR ANY LEGALLY PERMISSIBLE PURPOSE IN MUNDO MEDIA'S SOLE DISCRETION. 
+
+**3.2 Order Fulfillment.**
+
+Mundo Media will transfer Individual Information to Third Parties when necessary to provide a product or service that a person orders from such Third Party while using Mundo Media web sites or when responding to offers provided by Mundo Media. 
+
+**3.3 Legal Process.**
+
+Mundo Media may disclose Individual Information to respond to subpoenas, court orders, and other legal processes. We may also share information when we have a good faith belief it is necessary to prevent fraud or other illegal activity. This may include sharing information with other companies, lawyers, courts or other government entities. 
+
+**3.4 Summary Data.**
+
+Mundo Media may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons. 
+
+**3.5 Access.**
+
+Individuals have access to their Individual Information collected to provide an opportunity for an individual to correct, amend, or delete such information. Access can be obtained by contacting [legal@mundomedia.com](mailto:legal@mundomedia.com). Mundo Media may also grant advertising clients and email services providers' access to an individual's email address to verify the origin of the Individual Information collected. 
+
+**4\. Privacy Practices of Third Parties.**
+
+**4.1 Advertiser cookies and web beacons.**
+
+Advertising agencies, advertising networks, and other companies (together, "Advertisers") who place advertisements on the Website and on the Internet generally may use their own cookies, web beacons, and other technology to collect information about individuals. Mundo Media does not control Advertisers' use of such technology and Mundo Media has no responsibility for the use of such technology to gather information about individuals. 
+
+**4.2 Links.**
+
+The Website and email messages sometimes contain hypertext links to the web sites of Third Parties. Mundo Media is not responsible for the privacy practices or the content of such other web sites. Linked web sites may contain links to web sites maintained by Third Parties. Such links are provided for your convenience and reference only. Mundo Media does not operate or control in any respect any information, software, products or services available on such Third Party web sites. The inclusion of a link to a web site does not imply any endorsement of the services or the site, its contents, or its sponsoring organization. 
+
+**4.3 Affiliated Companies.**
+
+Mundo Media may disclose, transfer, and sell Individual Information to entities affiliated with Mundo Media in Mundo Media's discretion. California residents have the right to opt-out of allowing Mundo Media to do any of the acts in the sentence above by sending an opt out request to unsubscribe@mundomedia.com. Should Mundo Media be subject to an acquisition, merger, sale or other change of control or business entity status, Mundo Media reserves the right to transfer or assign the Information collected from the Website. 
+
+**5\. Individuals Outside of the United States.**
+
+Anyone using the Website outside of the United States acknowledges that personal information will be collected and stored by Mundo Media in the United States. By using the Website, you consent to the transfer of information to and/or storage of information outside of your country and in the United States. 
+
+**6\. Unsubscribe Procedures.**
+
+**6.1 If you wish to discontinue receiving email messages from Mundo Media, you have several options:**
+
+a) Unsubscribe from one email list. To unsubscribe from a particular list, either (1) send an email to [unsubscribe@mundomedia.com](mailto:unsubscribe@mundomedia.com) or (2) follow the instructions in each promotional email message sent by Mundo Media. 
+
+b) Unsubscribe from all of Mundo Media's email lists. We reserve the right to add Individual Information to multiple lists maintained by Mundo Media. To globally unsubscribe from all of Mundo Media's lists, send an email to [unsubscribe@mundomedia.com](mailto:unsubscribe@mundomedia.com)
+
+**7\. Security.**
+
+Mundo Media has implemented commercially reasonable measures in an effect to prevent loss, misuse, and alteration of Individual Information used in our business and on the Web Site. However, no information transmitted over the Internet can be 100% secure and therefore we cannot guarantee the security of any Individual Information collected, used, or transferred under this Privacy Policy. 
+
+For more information about protecting your privacy, you may wish to visit: www.ftc.gov. If you have questions about this policy, please contact us at [legal@mundomedia.com](mailto:legal@mundomedia.com). 
+
+California User Consumer Rights. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. 
+
+© 2011 Mundo Media Corp. All rights reserved. 
