@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the shankman.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528034430id_/http%3A//shankman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shankman.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222040000id_/http%3A//shankman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Peter Shankman
-
-## [Privacy Policy](http://shankman.com/privacy-policy/ "Privacy Policy")
 
 SHANKMAN.COM™ PRIVACY POLICY STATEMENT
 
