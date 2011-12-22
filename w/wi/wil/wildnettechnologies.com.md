@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildnettechnologies.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524145706id_/http%3A//www.wildnettechnologies.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildnettechnologies.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222151523id_/http%3A//www.wildnettechnologies.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Wildnet Privacy Policy: SEO Privacy Policy, Web Design and Development Privacy Policy
 
@@ -72,4 +72,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 **Wildnet Technologies** ,  
 F-314, sector 63, Noida, UP, India  
 +91-9818883238  
-contact@wildnettechnologies.com
+leads@wildnettechnologies.com
