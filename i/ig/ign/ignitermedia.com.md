@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ignitermedia.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623025237id_/http%3A//www.ignitermedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ignitermedia.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222033636id_/http%3A//www.ignitermedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Igniter Media
 
@@ -41,11 +41,11 @@ In addition, IM will not send you e-mail that you have not agreed to receive. We
 
 ## Sharing of Personal Information
 
-IM never sells, rents, leases or exchanges your personal information with other organizations. IM assures you that the identity of all who contact us through this Web site will be kept confidential. VSP may occasionally send mailings on behalf of other organizations or ministries when their interests align with VSP. Use of your personal information will be limited to further the ministry activities of VSP and partner ministries.
+IM never sells, rents, leases or exchanges your personal information with other organizations. IM assures you that the identity of all who contact us through this Web site will be kept confidential. IM may occasionally send mailings on behalf of other organizations or ministries when their interests align with IM. Use of your personal information will be limited to further the ministry activities of IM and partner ministries.
 
 ## Security
 
-IM is committed to ensuring the security of your personal information. To prevent unauthorized access, maintain data accuracy, and ensure the proper use of information, we have established and implemented appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. IM uses Internet Encryption Software, Secure Socket Layer (SSL) Protocol when collecting or transferring sensitive data such as credit card information. Any information you enter is encrypted at your browser, sent over the public Internet in encrypted form, and then de-encrypted at our server. Once we receive your credit card information, it is accessible only to a small number of trusted VSP employees who have been specially trained in processing this information.
+IM is committed to ensuring the security of your personal information. To prevent unauthorized access, maintain data accuracy, and ensure the proper use of information, we have established and implemented appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. IM uses Internet Encryption Software, Secure Socket Layer (SSL) Protocol when collecting or transferring sensitive data such as credit card information. Any information you enter is encrypted at your browser, sent over the public Internet in encrypted form, and then de-encrypted at our server. Once we receive your credit card information, it is accessible only to a small number of trusted IM employees who have been specially trained in processing this information.
 
 ## Cookies
 
