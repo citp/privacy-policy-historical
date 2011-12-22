@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crownrelo.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429034834id_/http%3A//www.crownrelo.com/relo/privacy.policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crownrelo.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222203319id_/http%3A//www.crownrelo.com/relo/privacy.policy.html) for the most accurate reproduction.*
 
 # Crown Relocations Privacy Policy
 
@@ -6,7 +6,9 @@
 
 * * *
 
-The CROWN WORLDWIDE GROUP (including all of its subsidiaries) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the following websites:
+The CROWN WORLDWIDE GROUP and all its subsidiaries comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Crown Worldwide Group has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Crown Worldwide Group’s certification, please visit [www.export.gov/safeharbor ](http://www.export.gov/safeharbor/%20)
+
+The CROWN WORLDWIDE GROUP has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the following websites:
 
 These sites contain links to other sites. CROWN WORLDWIDE GROUP is not responsible for the privacy practices or the content of such linked websites. Users should check the applicable Privacy Policy of such websites when providing personally identifiable information on those linked websites.
 
@@ -41,21 +43,20 @@ CROWN WORLDWIDE GROUP’s Privacy Policy has been developed out of respect for t
 If you have an enquiry or concern about our Privacy Policy, please contact:
 
 **Nelson Akinrinade, Esq.**  
-Compliance  
-Crown Worldwide  
-1401 Summit Avenue, Suite 10  
-Plano, TX 75074  
-United States  
-Phone: (1) 972 422 4288  
-Fax: (1) 972 881 9176  
+Chief Privacy Officer   
+10421 Sanden Drive   
+Dallas, TX 75238   
+United States   
+Phone: (1) 214-341-2371   
+Fax: (1) 214-341-3160   
 Email: [nakinrinade@crownrelo.com](mailto:nakinrinade@crownrelo.com?subject=Privacy%20Policy "Email Nelson Akinrinade")  
-website: [www.crownworldwide.com](http://www.crownworldwide.com/ "Go to Crown Worlwide")
+Website: [www.crownworldwide.com](http://www.crownworldwide.com/ "Go to Crown Worlwide")
 
 **Chris Davis-Pipe**  
 Group Vice President of Information Technology  
 Crown Worldwide Holdings Ltd.  
+Suite 2001, MassMutual Tower  
 38 Gloucester Road  
-MassMutual Tower, Suite 2001  
 Wanchai, Hong Kong  
 Phone: (852) 2876 2623  
 Fax: (852) 2528 0177  
