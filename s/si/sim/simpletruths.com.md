@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the simpletruths.com privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320021005id_/http%3A//www.simpletruths.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpletruths.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222123809id_/http%3A//www.simpletruths.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Corporate Gift Books From Simple Truths - Our Privacy Policy
 
 This is the web site of Simple Truths, LLC.   
-Please visit our [contact page](https://web.archive.org/web/20110320021005id_/http%3A//www.simpletruths.com/contact.asp) to reach us.
+Please visit our [contact page](https://web.archive.org/web/20111222123809id_/http%3A//www.simpletruths.com/contact.asp) to reach us.
 
 This Policy is effective on 9/14/2010
 
