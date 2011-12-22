@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mobilekarma.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603192714id_/http%3A//www.mobilekarma.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilekarma.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222203225id_/http%3A//www.mobilekarma.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[Home](https://web.archive.org/web/20111222203225id_/http%3A//www.mobilekarma.com/default.aspx) > Privacy Policy
 
 _Last Update: March 3, 2011_ ****
 
