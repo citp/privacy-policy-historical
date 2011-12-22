@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the moshimonsters.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615140303id_/http%3A//www.moshimonsters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshimonsters.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222052512id_/http%3A//www.moshimonsters.com/privacy) for the most accurate reproduction.*
 
 # Moshi Monsters - Privacy Policy
+
+[](https://web.archive.org/linkwarning?target=http://www.privo.com/moshiMonsters.htm "Privo - Privacy and Safety Assured") [](https://web.archive.org/linkwarning?target=http://www.privo.com/moshiMonsters.htm "Privo - Click to Verify")
 
 ## Privacy Policy
 
 We're thrilled that you are interested in Moshimonsters.com, where you can adopt your very own pet monster! In this document we'll explain what kinds of questions we'll ask you on our website, and what we do with the information you give us.
 
-Moshi Monsters gives you the ability to have controlled interaction with your friends. We have tried to make this a fun and friendly environment, but the environment on Moshimonsters.com also depends on you. Whenever using this site, or any social networking website, you should be careful about the interactions you have with others. Want to learn more about how to protect yourself online? Check out [http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm](https://web.archive.org/linkwarning?target=http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm) and [http://www.onguardonline.gov/socialnetworking_youth.html](https://web.archive.org/linkwarning?target=http://www.onguardonline.gov/socialnetworking_youth.html).
+Moshi Monsters gives you the ability to have controlled interaction with your friends. We have tried to make this a fun and friendly environment, but the environment on Moshimonsters.com also depends on you. Whenever using this site, or any social networking website, you should be careful about the interactions you have with others. 
 
 A big Moshi Monsters welcome to parents, teachers and other concerned adults. Our website, Moshi Monsters.com, is hosted by Mind Candy Ltd., a UK company with offices at Tea Building, Unit 4.01, 56 Shoreditch High Street, London E1 6JJ, UK. On this site, with parental permission, kids can participate in a virtual online environment, giving them the opportunity to adopt a virtual pet monster from one of several species, customize it, and bring it to "life". The monster then generates several puzzles each day, and kids who play the games have a chance to earn virtual currency (we call our currency "Rox"). With Rox, kids can "buy" virtual food for their pets and accessories for their pets' rooms. At moshimonsters.com we also provide kids with the ability to have controlled communications, using limited and moderated pinboard text messages with their chosen friends.
 
@@ -103,6 +105,8 @@ We follow generally accepted industry standards to protect the personally identi
 If you have any questions about security on our Web site, you can send email us at [helpme@moshimonsters.com](mailto:helpme@moshimonsters.com).
 
 ### Privo's Privacy Assurance Program
+
+[](https://web.archive.org/linkwarning?target=http://www.privo.com/moshiMonsters.htm "Privo - Click to Verify")
 
 Mind Candy is a participant in Privo's Privacy Assurance Program. As part of participating in the Privacy Assurance Program, Mind Candy adheres to the strict information collection, use and disclosure requirements. Privo is an independent, third party organization committed to safeguarding children's personal information collected online, and to helping parents and their children exercise control over personal information while exploring the Internet. 
 
