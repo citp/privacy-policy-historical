@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amsoil.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205005429id_/http%3A//www.amsoil.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amsoil.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222071336id_/http%3A//www.amsoil.com/privacy.aspx) for the most accurate reproduction.*
 
 # AMSOIL.com - Online Privacy Policy
 
@@ -14,7 +14,7 @@ If anyone asks you for your password, and they don't seem to originate from AMSO
 
 If you arrived at the AMSOIL Corporate Website via an Authorized AMSOIL Dealer website, a special tag called a "cookie" may have been used to provide AMSOIL with the account number of that Dealer (a cookie is a tiny element of data that a Web site can send to your browser). You may set your browser to notify you when you receive a cookie. This cookie expires as soon as you close your browser.
 
-When you use and submit a credit card for an AMSOIL Online Store transaction, your credit card information is **not** saved.  AMSOIL INC. does not maintain permanent or temporary credit card information on our Internet server.  All AMSOIL Online Store transactions are encrypted using PayPal 128-bit encryption and travel over a Secure Socket Layer (SSL) server.
+When you use and submit a credit card for an AMSOIL Online Store transaction, your credit card information is **not** saved.  AMSOIL INC. does not maintain permanent or temporary credit card information on our Internet server.  All AMSOIL Online Store transactions use 128/256 Bit Strong SSL Encryption.
 
 AMSOIL INC.'s Corporate Website may contain links to other sites such as corporate racing sponsorships and AMSOIL racing partnerships and racing organizations. While we try to link only to sites that share our high standards and respect for privacy, we are **not** responsible for the content or the privacy practices employed by other sites.
 
