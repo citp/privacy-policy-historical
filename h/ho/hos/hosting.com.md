@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hosting.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921001140id_/http%3A//www.hosting.com/terms-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hosting.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223004749id_/http%3A//www.hosting.com/terms-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Hosting.com :: Privacy Policy
 
