@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the twilightguide.com privacy policy that was archived on 2011-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110525233219id_/http%3A//twilightguide.com/tg/twilight-graphics/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the twilightguide.com privacy policy that was archived on 2011-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111222112318id_/http%3A//twilightguide.com/tg/twilight-graphics/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -20,24 +20,96 @@
 <![endif]-->
 <meta name="NextGEN" content="0.98">
 <link rel="alternate" type="application/rss+xml" title="Twilight Guide » Privacy Comments Feed" href="http://twilightguide.com/tg/twilight-graphics/privacy/feed/">
+<script type="text/javascript" src="http://twilightguide.com/tg/wp-includes/js/l10n.js?ver=20101110"></script>
 <script type="text/javascript" src="http://twilightguide.com/tg/wp-includes/js/comment-reply.js?ver=20090102"></script>
-<script type="text/javascript" src="http://twilightguide.com/tg/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script>
+<script type="text/javascript" src="http://twilightguide.com/tg/wp-includes/js/jquery/jquery.js?ver=1.6.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://twilightguide.com/tg/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://twilightguide.com/tg/wp-includes/wlwmanifest.xml"> 
-<link rel="index" title="Twilight Guide" href="http://twilightguide.com/tg">
+<link rel="index" title="Twilight Guide" href="http://twilightguide.com/tg/">
 <link rel="up" title="Graphics" href="http://twilightguide.com/tg/twilight-graphics/">
-<meta name="generator" content="WordPress 2.9.1">
+<link rel="prev" title="Video Graphics" href="http://twilightguide.com/tg/twilight-graphics/video-graphics/">
+<link rel="next" title="Terms of Service" href="http://twilightguide.com/tg/twilight-graphics/terms-of-service/">
+<meta name="generator" content="WordPress 3.2.1">
 <link rel="canonical" href="http://twilightguide.com/tg/twilight-graphics/privacy/">
 <!-- all in one seo pack 0.6.2 -->
 <meta name="description" content="Privacy Agreement
 By using the twilightguide.com website " the="" site",="" you="" signify="" your="" consent="" of="" site's="" privacy="" policy.="" agreement="" this="" policy="" is="" required="" before="" using="" ..."=""><meta name="google-site-verification" content="nX6K2nrBNOiKSfiuJd3Pl7wvzsd2E8f-5LZIkO20oYk">
 </head>
 <body>
+
+<div id="dhtmltooltip"></div>
+<script type="text/javascript">
+
+var offsetxpoint=-60 //Customize x offset of tooltip
+var offsetypoint=20 //Customize y offset of tooltip
+var ie=document.all
+var ns6=document.getElementById && !document.all
+var enabletip=false
+if (ie||ns6)
+var tipobj=document.all? document.all["dhtmltooltip"] : document.getElementById? document.getElementById("dhtmltooltip") : ""
+
+function ietruebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function ddrivetip(thetext, thecolor, thewidth){
+if (ns6||ie){
+if (typeof thewidth!="undefined") tipobj.style.width=thewidth+"px"
+if (typeof thecolor!="undefined" && thecolor!="") tipobj.style.backgroundColor=thecolor
+tipobj.innerHTML=thetext
+enabletip=true
+return false
+}
+}
+
+function positiontip(e){
+if (enabletip){
+var curX=(ns6)?e.pageX : event.clientX+ietruebody().scrollLeft;
+var curY=(ns6)?e.pageY : event.clientY+ietruebody().scrollTop;
+//Find out how close the mouse is to the corner of the window
+var rightedge=ie&&!window.opera? ietruebody().clientWidth-event.clientX-offsetxpoint : window.innerWidth-e.clientX-offsetxpoint-20
+var bottomedge=ie&&!window.opera? ietruebody().clientHeight-event.clientY-offsetypoint : window.innerHeight-e.clientY-offsetypoint-20
+
+var leftedge=(offsetxpoint<0)? offsetxpoint*(-1) : -1000
+
+//if the horizontal distance isn't enough to accomodate the width of the context menu
+if (rightedge<tipobj.offsetWidth)
+//move the horizontal position of the menu to the left by it's width
+tipobj.style.left=ie? ietruebody().scrollLeft+event.clientX-tipobj.offsetWidth+"px" : window.pageXOffset+e.clientX-tipobj.offsetWidth+"px"
+else if (curX<leftedge)
+tipobj.style.left="5px"
+else
+//position the horizontal position of the menu where the mouse is positioned
+tipobj.style.left=curX+offsetxpoint+"px"
+
+//same concept with the vertical position
+if (bottomedge<tipobj.offsetHeight)
+tipobj.style.top=ie? ietruebody().scrollTop+event.clientY-tipobj.offsetHeight-offsetypoint+"px" : window.pageYOffset+e.clientY-tipobj.offsetHeight-offsetypoint+"px"
+else
+tipobj.style.top=curY+offsetypoint+"px"
+tipobj.style.visibility="visible"
+}
+}
+
+function hideddrivetip(){
+if (ns6||ie){
+enabletip=false
+tipobj.style.visibility="hidden"
+tipobj.style.left="-1000px"
+tipobj.style.backgroundColor=''
+tipobj.style.width=''
+}
+}
+
+document.onmousemove=positiontip
+
+</script>
+
 <div id="wrap">
 
 <div id="header">
 <div class="headerleftlogo">
-<a href="http://twilightguide.com/" title="Twilight Guide" id="tg12"></a>
+<a href="http://twilightguide.com/" title="Twilight Guide" id="bd1"></a>
 </div>
 <div class="headerright">
 <iframe id="fad728" src="http://twilightguide.com/ads/ad728.php" frameborder="0" height="90" scrolling="no" width="728"></iframe>
@@ -47,7 +119,7 @@ By using the twilightguide.com website " the="" site",="" you="" signify="" your
 		
 <div id="featuretop">	  		
 <div class="featuretopwidget">						
-<div id="tg2"><ul>
+<div id="bd22"><ul>
 <li><a href="http://feeds.feedburner.com/TwilightGuide" target="_blank">RSS News Feed</a></li>
 <li><a href="http://feedburner.google.com/fb/a/mailverify?uri=TwilightGuide&amp;loc=en_US">Updates by Email</a></li>
 <li><a href="http://www.facebook.com/pages/Twilight-Guide/115708349838">Facebook</a></li>
@@ -56,35 +128,31 @@ By using the twilightguide.com website " the="" site",="" you="" signify="" your
 <li><a href="http://www.criticallayouts.com/toolbar.php" target="_blank">Toolbar</a></li>
 <li><script type="text/javascript">var addthis_pub="budowar";</script><a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()">Bookmark &amp; Share</a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script></li>
 </ul></div>
-<a href="http://www.dpbolvw.net/2666vpyvpxCGEFKMGECEDKEGGJF" title="Twilight Tees" id="tg1"></a>
+<a href="http://twilightguide.com/tg/twilight-graphics/shopping-guide/holiday-gift-guide/" title="Breaking Dawn Holiday Gift Guide" id="bd21"></a>
 </div>
 					  	
-<div class="featuretopwidget">					
-<a href="http://twilightguide.com/tg/twilight-graphics/shopping-guide/" title="Shopping Guide" id="tg3"></a>
-<a href="http://twilightguide.com/tg/twilight-graphics/countdowns-breaking-dawn/" title="Breaking Dawn Movie Countdowns" id="tg4"></a>
-<a href="http://twilightguide.com/tg/twilight-graphics/" id="tg5"></a>
+<div class="featuretopwidget2">					
+<a href="http://twilightguide.com/tg/twilight-graphics/shopping-guide/" title="Shopping Guide" id="bd23"></a>
+<a href="http://twilightguide.com/tg/twilight-graphics/countdowns-breaking-dawn/" title="Breaking Dawn Movie Countdowns" id="bd24"></a>
+<a href="http://twilightguide.com/tg/twilight-graphics/" title="Pictures &amp; Graphics" id="bd25"></a>
 </div>
 					  
-<div class="featuretopwidget">
-<div class="fie2">					
-<a href="http://twilightguide.com/tg/twilight-graphics/twilight-saga-quotes/" title="Twilight Quotes" id="tg9"></a>
-<a href="http://twilightguide.com/tg/twilight-graphics/quizzes/" title="Twilight Quizzes" id="tg10"></a>
-<a href="http://twilightguide.com/tg/twilight-chat/" title="Twilight Chat" id="tg11"></a>
+<div class="featuretopwidget3">					
+<a href="http://twilightguide.com/tg/twilight-graphics/twilight-saga-quotes/" title="Twilight Quotes" id="bd26"></a>
+<a href="http://twilightguide.com/tg/twilight-graphics/quizzes/" title="Twilight Quizzes" id="bd27"></a>
+<a href="http://twilightguide.com/tg/category/poll/" title="Twilight Polls" id="bd28"></a>
 </div>
-<div class="fie1">
-<a href="http://twilightguide.com/tg/category/contests/" title="Contests" id="tg6"></a>
-<a href="http://www.coffincafe.com/" title="Twilight Forum" id="tg7"></a>
-<a href="http://twilightguide.com/tg/category/poll/" title="Twilight Polls" id="tg8"></a>
-</div></div>
 </div>
 
 <div class="topmenu"><ul>
 <li><a href="http://twilightguide.com/">Home</a></li>
+<li><span class="menuad"><a href="http://www.anrdoezrs.net/click-3926378-10366692?url=http%3A%2F%2Fsearch.hottopic.com%2Fsearch%3FbmForm%3Dfrm_ht_search%26bmFormID%3DjbgjugP%26bmUID%3DjbgjugQ%26bmIsForm%3Dtrue%26bmPrevTemplate%3D%252Fhottopic%252FPopCulture.jsp%26bmHidden%3Dpricelistname%26pricelistname%3DPRC_USA_Standard%26bmHidden%3DSEARCH_INPUT%253C%253EATR_Available_In_Inventory%26SEARCH_INPUT%253C%253EATR_Available_In_Inventory%3Dtrue%26bmHidden%3Dp%26p%3DQ%26bmHidden%3Dts%26ts%3Dcustom%26bmHidden%3Dasug%26asug%3Dbreaking%2B%26bmText%3Dw%26w%3Dbreaking%2Bdawn%26bmImage%3Dsubmit_search.x%26bmImage%3Dsubmit_search.y%26bmImage%3Dsubmit_search%26bmFields%3DbmText%252CbmPrevTemplate%252CbmImage%252CbmForm%252CbmIsForm%252CbmUID%252CbmHidden%252CbmFormID%26bmHash%3D8e619cce8f89e491d2b151fc87bcb671cf78c94f" onmouseover="ddrivetip('Get 20% off orders of $60 or more with<br>promo code HTA20DEC. Expires 1/2.')" ;="" onmouseout="hideddrivetip()">20% off Breaking Dawn Merchandise</a></span></li>
 </ul></div>
 <div id="content">
 <div id="contentmain">
 <div class="postarea">		
 <h1>Privacy</h1>
+<p></p><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://twilightguide.com/tg/twilight-graphics/privacy/" send="false" layout="button_count" width="250" show_faces="false" font=""></fb:like><p></p>
 <p><strong>Privacy Agreement</strong><br>
 By using the twilightguide.com website “the site”, you signify your consent of the site’s Privacy Policy. Agreement of this policy is required before using this website.</p>
 <p>The site may change the privacy policy at any time. Any changes will be posted on the website.</p>
@@ -116,13 +184,11 @@ From time to time, the site may send information to its users on various subject
 <iframe id="fad300" src="http://twilightguide.com/ads/ad300.php" frameborder="0" height="250" scrolling="no" width="300"></iframe>
 </div>
 
+
+<div class="widgetsearch">
 <form method="get" id="searchform" action="http://twilightguide.com/tg">
 <input type="text" value="" name="s" id="s"><input type="submit" id="searchsubmit" value="Search">
 </form>
-
-
-<div class="widget">
-<div id="tg17"></div>
 <div class="list2"><ul>
 <li>
 	<a href="http://twilightguide.com/tg/category/movie/" title="View all posts filed under Movie">Movie</a></li><li>
@@ -180,11 +246,9 @@ google_ad_height = 250;
 </div>
 
 <div class="widget">
-<div id="tg23"></div>
+<div id="sb22"></div>
 <div class="list2"><ul>
 <li><a href="http://twilightguide.com/tg/icons-avatars/">Icons &amp; Avatars</a></li>
-<li><a href="http://twilightguide.com/tg/myspace-layouts/">MySpace Layouts</a></li>
-<li><a href="http://twilightguide.com/tg/twilight-graphics/new-moon-movie-pictures/">New Moon Pictures</a></li>
 <li><a href="http://twilightguide.com/tg/twilight-graphics/movie-photos/">Twilight Pictures</a></li>
 <li><a href="http://twilightguide.com/tg/twilight-graphics/movie-posters/">Twilight Posters</a></li>
 <li><a href="http://twilightguide.com/tg/twilight-graphics/picture-captions/">Picture Captions</a></li>
@@ -192,6 +256,8 @@ google_ad_height = 250;
 <li><a href="http://twilightguide.com/tg/twilight-graphics/quote-graphics/">Quote Graphics</a></li>
 <li><a href="http://twilightguide.com/tg/twilight-graphics/video-graphics/">Video Graphics</a></li>
 <li><a href="http://twilightguide.com/tg/twilight-graphics/video-pictures/">Video Pictures</a></li>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/forum-sets/">Forum Sets</a></li>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/userbars/">Forum Userbars</a></li>
 <li><a href="http://twilightguide.com/tg/wallpaper/">Wallpaper</a></li>
 </ul></div>
 <div class="list1"><ul>
@@ -204,14 +270,22 @@ google_ad_height = 250;
 <li><a href="http://twilightguide.com/tg/twilight-graphics/buttons/">Buttons</a></li>
 <li><a href="http://twilightguide.com/tg/twilight-graphics/cast-pictures/">Cast Pictures</a></li>
 <li><a href="http://twilightguide.com/tg/twilight-graphics/twilight-comments/">Comments</a></li>
-<li><a href="http://twilightguide.com/tg/twilight-graphics/forum-sets/">Forum Sets</a></li>
-<li><a href="http://twilightguide.com/tg/twilight-graphics/userbars/">Forum Userbars</a></li>
 <li><a href="http://twilightguide.com/tg/twilight-graphics/glitter-graphics/">Glitter Graphics</a></li>
 </ul></div>
-</div>
-
-<div class="widget">
-<div id="ecg"></div>
+<div class="sidebold">new moon pictures &amp; graphics</div>
+<div class="list2"><ul>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/new-moon-banners/">New Moon Banners</a></li>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/new-moon-quote-banners/">Quote Banners</a></li>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/new-moon-icons-avatars/">New Moon Icons</a></li>
+<li><a href="http://twilightguide.com/tg/twilight-new-moon-trailers/">New Moon Trailers</a></li>
+</ul></div>
+<div class="list1"><ul>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/new-moon-movie-pictures/">New Moon Pictures</a></li>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/new-moon-posters/">New Moon Posters</a></li>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/new-moon-graphics/">New Moon Graphics</a></li>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/new-moon-character-graphics/">Character Graphics</a></li>
+</ul></div>
+<div class="sidebold">eclipse pictures &amp; graphics</div>
 <div class="list2"><ul>
 <li><a href="http://twilightguide.com/tg/twilight-graphics/eclipse-icons-avatars/">Icons &amp; Avatars</a></li>
 <li><a href="http://twilightguide.com/tg/twilight-graphics/eclipse-quote-graphics/">Quote Graphics</a></li>
@@ -230,109 +304,127 @@ google_ad_height = 250;
 </div>
 
 <div class="widget">
-<div id="tg26"></div>
+<div id="sb21"></div>
 <div class="list2"><ul>
-<li><a href="http://twilightguide.com/tg/twilight-graphics/new-moon-banners/">New Moon Banners</a></li>
-<li><a href="http://twilightguide.com/tg/twilight-graphics/new-moon-quote-banners/">Quote Banners</a></li>
-<li><a href="http://twilightguide.com/tg/twilight-graphics/new-moon-icons-avatars/">New Moon Icons</a></li>
-<li><a href="http://twilightguide.com/tg/twilight-new-moon-trailers/">New Moon Trailers</a></li>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/twilight-calendar/">Calendars</a></li>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/twilight-comments/comment-maker/">Comment Maker</a></li>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/jigsaw-puzzles/">Jigsaw Puzzles</a></li>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/breaking-dawn-trailers-videos/">Trailers &amp; Clips</a></li>
 </ul></div>
 <div class="list1"><ul>
-<li><a href="http://twilightguide.com/tg/twilight-graphics/new-moon-movie-pictures/">New Moon Pictures</a></li>
-<li><a href="http://twilightguide.com/tg/twilight-graphics/new-moon-posters/">New Moon Posters</a></li>
-<li><a href="http://twilightguide.com/tg/twilight-graphics/new-moon-graphics/">New Moon Graphics</a></li>
-<li><a href="http://twilightguide.com/tg/twilight-graphics/new-moon-character-graphics/">Character Graphics</a></li>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/breaking-dawn-banners/">Banners</a></li>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/breaking-dawn-character-graphics/">Character Graphics</a></li>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/breaking-dawn-icons-avatars/">Icons &amp; Avatars</a></li>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/breaking-dawn-pictures-stills/">Pictures &amp; Stills</a></li>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/breaking-dawn-posters/">Posters</a></li>
 </ul></div>
 </div>
 
 <div class="sidewide">
 <div class="column2">
-<a id="sad1" href="http://www.qksrv.net/click-3127931-10273919?url=http://www.audible.com/adbl/store/welcome.jsp?source_code=COMA0213WS031709&amp;entryRedirect=/site/enSearch/searchResults.jsp&amp;entryParams=^D~stephenie+meyer^Ntt~stephenie+meyer^Dx~mode%2bmatchallpartial^Ntk~S_Keywords^Ntx~mode%2bmatchallpartial^y~0^N~0^x~0^Ns~P_Total_Sold|1"></a>
+<a id="bda3" href="http://www.amazon.com/gp/product/B005HV6Y84/ref=as_li_ss_tl?ie=UTF8&amp;tag=twilightguide-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399373&amp;creativeASIN=B005HV6Y84"></a>
 </div>
 <div class="column1">
-<a id="sad10" href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fs%3Fie%3DUTF8%26ref_%3Dsr%5Fnr%5Fi%5F0%26keywords%3Declipse%2520neca%26qid%3D1277228097%26rh%3Di%253Aaps%252Ck%253Aeclipse%2520neca%252Ci%253Atoys-and-games&amp;tag=twilightguide-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957"></a>
+<a id="bda2" href="http://www.dpbolvw.net/2666vpyvpxCGEFKMGECEDKEGGJF"></a>
 </div>
 </div>
 
 <div class="sidewide">
 <div class="column2">
-<a id="sad12" href="http://affiliates.allposters.com/link/redirect.asp?AID=1026489983&amp;PSTID=1&amp;LTID=5&amp;lang=1&amp;startat=http%3A%2F%2Fwww%2Eallposters%2Ecom%2Fgallery%2Easp%3Fstartat%3D%2Fgetthumb%2Easp%26imageField2%2Ex%3D0%26imageField2%2Ey%3D0%26c%3Dc%26search%3D126531"></a>
+<a id="bda5" href="http://www.jdoqocy.com/click-3127931-10806198"></a>
 </div>
 <div class="column1">
-<a id="sad13" href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fs%3Fie%3DUTF8%26ref_%3Dsr%5Fnr%5Fi%5F0%26keywords%3Declipse%2520neca%26qid%3D1277228097%26rh%3Di%253Aaps%252Ck%253Aeclipse%2520neca%252Ci%253Atoys-and-games&amp;tag=twilightguide-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957"></a>
+<a id="bda4" href="http://www.anrdoezrs.net/click-3926378-10366692?url=http%3A%2F%2Fsearch.hottopic.com%2Fsearch%3FbmForm%3Dfrm_ht_search%26bmFormID%3DjbgjugP%26bmUID%3DjbgjugQ%26bmIsForm%3Dtrue%26bmPrevTemplate%3D%252Fhottopic%252FPopCulture.jsp%26bmHidden%3Dpricelistname%26pricelistname%3DPRC_USA_Standard%26bmHidden%3DSEARCH_INPUT%253C%253EATR_Available_In_Inventory%26SEARCH_INPUT%253C%253EATR_Available_In_Inventory%3Dtrue%26bmHidden%3Dp%26p%3DQ%26bmHidden%3Dts%26ts%3Dcustom%26bmHidden%3Dasug%26asug%3Dbreaking%2B%26bmText%3Dw%26w%3Dbreaking%2Bdawn%26bmImage%3Dsubmit_search.x%26bmImage%3Dsubmit_search.y%26bmImage%3Dsubmit_search%26bmFields%3DbmText%252CbmPrevTemplate%252CbmImage%252CbmForm%252CbmIsForm%252CbmUID%252CbmHidden%252CbmFormID%26bmHash%3D8e619cce8f89e491d2b151fc87bcb671cf78c94f"></a>
+</div>
+</div>
+
+<div class="sidewide">
+<div class="column2">
+<a id="bda7" href="http://affiliates.allposters.com/link/redirect.asp?AID=1026489983&amp;PSTID=1&amp;LTID=5&amp;lang=1&amp;startat=http%3A%2F%2Fwww%2Eallposters%2Ecom%2F%2Dst%2FTwilight%2DSaga%2DBreaking%2DDawn%2DPart%2D1%2D2011%2DPosters%5Fc144165%5F%2Ehtm"></a>
+</div>
+<div class="column1">
+<a id="bda6" href="http://www.amazon.com/gp/product/0316134112/ref=as_li_ss_tl?ie=UTF8&amp;tag=twilightguide-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399373&amp;creativeASIN=0316134112"></a>
 </div>
 </div>
 
 <div class="widget">
-<div id="tg28"></div>
-<ul><li>
-You truly are one frightening little monster. (Jasper)</li></ul>
-</div>
-
-<div class="sidewide">
-<div class="column2"><div id="tg25"></div><ul>
-<li><a href="http://twilightguide.com/tg/twilight-graphics/twilight-countdowns/">Twilight (Customize)</a></li>
-<li><a href="http://twilightguide.com/tg/twilight-graphics/new-moon-movie-countdowns/">New Moon Movie</a></li>
-<li><a href="http://twilightguide.com/tg/twilight-graphics/countdowns-eclipse-movie/">Eclipse Movie</a></li>
+<div id="sb26"></div>
+<div class="list2"><ul>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/twilight-comments/comment-maker/">Comment Maker</a></li>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/twilight-countdowns/">Countdowns</a></li>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/jigsaw-puzzles/">Jigsaw Puzzles</a></li>
 </ul></div>
-<div class="column1"><div id="tg24"></div><ul>
-<li><a href="http://twilightguide.com/tg/twilight-graphics/twilight-polls/">Twilight Polls</a></li>
-<li><a href="http://twilightguide.com/tg/twilight-graphics/quizzes/">Twilight Quizzes</a></li>
-<li><a href="http://twilightguide.com/tg/twilight-graphics/twilight-saga-quotes/">Twilight Quotes</a></li>
-</ul></div>
-</div>
-
-<div class="sidewide">
-<div class="column2"><div id="tg21"></div><ul>
+<div class="list1"><ul>
 <li><a href="http://twilightguide.com/tg/twilight-graphics/ask-edward-bella-and-jacob/">Ask Edward</a></li>
 <li><a href="http://twilightguide.com/tg/twilight-graphics/twilight-calendar/">Calendars</a></li>
 <li><a href="http://twilightguide.com/tg/twilight-graphics/twilight-clocks/">Clocks</a></li>
-<li><a href="http://twilightguide.com/tg/twilight-graphics/twilight-comments/comment-maker/">Comment Maker</a></li>
-<li><a href="http://twilightguide.com/tg/twilight-graphics/jigsaw-puzzles/">Jigsaw Puzzles</a></li>
-<li><a href="http://twilightguide.com/tg/twilight-graphics/news-widget/">News Widget</a></li>
 </ul></div>
-<div class="column1"><div id="tg19"></div><ul>
+</div>
+
+<div class="widget">
+<div id="sb27"></div>
+<div class="list2"><ul>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/twilight-fan-wallpaper/">Wallpaper</a></li>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/new-moon-posters/">New Moon Posters</a></li>
+</ul></div>
+<div class="list1"><ul>
 <li><a href="http://twilightguide.com/tg/twilight-graphics/banners-2/">Banners</a></li>
 <li><a href="http://twilightguide.com/tg/twilight-graphics/graphics/">Graphics</a></li>
 <li><a href="http://twilightguide.com/tg/twilight-graphics/icons-avatars/">Icons &amp; Avatars</a></li>
-<li><a href="http://twilightguide.com/tg/twilight-graphics/twilight-fan-wallpaper/">Wallpaper</a></li>
-<li><a href="http://twilightguide.com/tg/twilight-graphics/new-moon-posters/">New Moon Posters</a></li>
-<li>.</li>
 </ul></div>
 </div>
 
-<div class="sidewide">
-<div class="column2">
-<a id="sad11" href="http://www.shareasale.com/r.cfm?u=255454&amp;b=76162&amp;m=12172&amp;afftrack=&amp;urllink=www%2Ebirthdayinabox%2Ecom%2Fparty%2Dthemes%2Fboxbuilder%2Easp%3Ftab%5Fcat%5Fid%3D1%26cat%5Fid%3D5%26dept%5Fid%3D487%26wfvar%3Dwfctrl"></a>
-</div>
-<div class="column1">
-<a id="sad2" href="http://www.dpbolvw.net/2666vpyvpxCGEFKMGECEDKEGGJF"></a>
-</div>
+<div class="widgetquote">
+<div id="sb23"></div>
+<ul><li>
+I've been waiting a century to marry you, Miss Swan. (Edward)</li></ul>
 </div>
 
-<div id="cafe300">
-<iframe src="http://www.cafepress.com/content/make/eclipse/html/300x250.html?pid=3127931" width="300" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+<div class="widget">
+<div id="sb24"></div>
+<div class="list2"><ul>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/twilight-saga-quotes/eclipse-quotes/">Eclipse</a></li>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/twilight-saga-quotes/breaking-dawn-quotes/">Breaking Dawn</a></li>
+</ul></div>
+<div class="list1"><ul>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/twilight-saga-quotes/twilight-quotes/">Twilight</a></li>
+<li><a href="http://twilightguide.com/tg/twilight-graphics/twilight-saga-quotes/new-moon-quotes/">New Moon</a></li>
+</ul></div>
+</div>
+
+<div class="widget">
+<div id="sb25"></div>
+<div class="list2"><ul>
+<li><a href="http://twilightguide.com/tg/synopsis/eclipse/">Eclipse</a></li>
+<li><a href="http://twilightguide.com/tg/synopsis/breaking-dawn/">Breaking Dawn</a></li>
+</ul></div>
+<div class="list1"><ul>
+<li><a href="http://twilightguide.com/tg/synopsis/twilight/">Twilight</a></li>
+<li><a href="http://twilightguide.com/tg/synopsis/new-moon/">New Moon</a></li>
+</ul></div>
 </div>
 
 <!--[if gte IE 8]>
 <style>
-li.widget_polls-widget{padding-top:140px !important;}
+li.widget_polls-widget{padding-top:270px !important;}
 </style>
 <![endif]-->
 
 <ul id="sidebarwidgeted">
-<!--WP Widget Cache 0.22.1 (http://www.mashget.com) Begin --><li id="polls-widget-3" class="widget widget_polls-widget"><div id="polls-81" class="wp-polls">
-	<form id="polls_form_81" class="wp-polls-form" action="/tg/&amp;amp/page/54/swf/skinCEGPlayer.swf/" method="post">
-		<p style="display: none;"><input type="hidden" name="poll_id" value="81"></p>
-		<p style="text-align: center;"><strong>Do you plan on buying Twilight: The Graphic Novel, Volume 2?</strong></p>
-<div id="polls-81-ans" class="wp-polls-ans">
+<!--WP Widget Cache 0.22.1 (http://www.mashget.com) Begin --><li id="polls-widget-3" class="widget widget_polls-widget"><div id="polls-85" class="wp-polls">
+	<form id="polls_form_85" class="wp-polls-form" action="/tg/2011/12/17/rangoli-of-twilight/" method="post">
+		<p style="display: none;"><input type="hidden" name="poll_id" value="85"></p>
+		<p style="text-align: center;"><strong>What did you think of Breaking Dawn Part 1?</strong></p>
+<div id="polls-85-ans" class="wp-polls-ans">
 <ul class="wp-polls-ul">
-		<li><input type="radio" id="poll-answer-370" name="poll_81" value="370"> <label for="poll-answer-370">Yes! I have been waitng to buy it since I read the first one!</label></li>
-		<li><input type="radio" id="poll-answer-371" name="poll_81" value="371"> <label for="poll-answer-371">I might, haven't decided yet</label></li>
-		<li><input type="radio" id="poll-answer-372" name="poll_81" value="372"> <label for="poll-answer-372">No, I have no interest in Graphic Novels!</label></li>
+		<li><input type="radio" id="poll-answer-385" name="poll_85" value="385"> <label for="poll-answer-385">5 - The best One Yet!</label></li>
+		<li><input type="radio" id="poll-answer-386" name="poll_85" value="386"> <label for="poll-answer-386">4 - It was really Good!</label></li>
+		<li><input type="radio" id="poll-answer-387" name="poll_85" value="387"> <label for="poll-answer-387">3 - It was alright!</label></li>
+		<li><input type="radio" id="poll-answer-388" name="poll_85" value="388"> <label for="poll-answer-388">2 - Could of been Better!</label></li>
+		<li><input type="radio" id="poll-answer-389" name="poll_85" value="389"> <label for="poll-answer-389">1 - The worst one so far!</label></li>
 		</ul>
-<p style="text-align: center;"><input type="button" name="vote" value="   Vote   " class="Buttons" onclick="poll_vote(81);"></p>
-<p style="text-align: center;"><a href="#ViewPollResults" onclick="poll_result(81); return false;" title="View Results Of This Poll">View Results</a></p>
+<p style="text-align: center;"><input type="button" name="vote" value="   Vote   " class="Buttons" onclick="poll_vote(85);"></p>
+<p style="text-align: center;"><a href="#ViewPollResults" onclick="poll_result(85); return false;" title="View Results Of This Poll">View Results</a></p>
 </div>
 	</form>
 </div>
@@ -340,131 +432,133 @@ li.widget_polls-widget{padding-top:140px !important;}
 <!--WP Widget Cache End --></ul>
 
 <div class="widget">
-<a id="skin" href="http://www.jdoqocy.com/click-3127931-10725477" title="Twilight Eclipse Skins"></a>
+<a id="bda8" href="http://www.tkqlhce.com/click-3127931-10767013" title="Breaking Dawn Skins"></a>
 </div>
 
 <div class="widget">
-<a id="bday" href="http://twilightguide.com/tg/twilight-cast-birthdays/" title="Twilight Cast Birthdays"></a>
+<a id="sb30" href="http://twilightguide.com/tg/twilight-cast-birthdays/" title="Twilight Cast Birthdays"></a>
 </div>
 
 <div class="widget">
-<div id="tg29"></div>
+<div id="sb28"></div>
 <div class="list2"><ul>
-<li><a href="http://www.youtube.com/officialtwilightfilm">Eclipse YouTube</a></li>
+<li><a href="http://www.youtube.com/officialtwilightfilm">YouTube</a></li>
+<li><a href="http://www.myspace.com/twilight">MySpace</a></li>
 <li><a href="http://www.stepheniemeyer.com/index.html">Stephenie Meyer</a></li>
-<li><a href="http://twitter.com/Twilight">Twilight Twitter</a></li>
 </ul></div>
 <div class="list1"><ul>
-<li><a href="http://www.eclipsethemovie.com/">Eclipse Movie</a></li>
-<li><a href="http://www.myspace.com/twilight">Eclipse MySpace</a></li>
-<li><a href="http://www.facebook.com/twilight">Eclipse Facebook</a></li>
+<li><a href="http://http://www.breakingdawn-themovie.com/">Breaking Dawn Movie</a></li>
+<li><a href="http://www.facebook.com/twilight">Facebook</a></li>
+<li><a href="http://twitter.com/Twilight">Twitter</a></li>
 </ul></div>
-</div>
-
-<div class="widget">
-<div id="tg18"></div>
+<div class="sidebold">official cast sites</div>
+<div class="list1"><ul>
+<li><a rel="nofollow" href="http://www.alexmeraz.com/">Alex Meraz</a></li>
+<li><a rel="nofollow" href="http://www.billyburke.net/">Billy Burke</a></li>
+<li><a rel="nofollow" href="http://charliebewley.com/">Charlie Bewley</a></li>
+<li><a rel="nofollow" href="http://www.wix.com/dreamreve/chaskespencer">Chaske Spencer</a></li>
+<li><a rel="nofollow" href="http://www.gilbirmingham.com/">Gil Birmingham</a></li>
+<li><a rel="nofollow" href="http://www.guriweinberg.com/">Guri Weinberg</a></li>
+<li><a rel="nofollow" href="http://www.kellanlutz.com/">Kellan Lutz</a></li>
+</ul></div>
 <div class="list2"><ul>
-<li><a href="http://www.criticallayouts.com/">MySpace Comments</a></li>
-<li><a href="http://jellypages.com/">Blogger Layouts</a></li>
-<li><a href="http://askzy.com/">Quote Widgets</a></li>
-<li><a href="http://www.countdownclockcodes.com/">Countdowns</a></li>
-<li><a href="http://truebloodguide.com/">True Blood</a></li>
-<li><a href="http://vampirediariesguide.com/">Vampire Diaries</a></li>
-<li><a href="http://webkinzworldnews.com/">Webkinz</a></li>
-<li><a href="http://weirdphobia.com/">Weird Phobias</a></li>
-<li><a href="http://birthday-graphics.com/">Birthday Graphics</a></li>
+<li><a rel="nofollow" href="http://www.lisahowardnyc.com/">Lisa Howard</a></li>
+<li><a rel="nofollow" href="http://www.marlanebarnes.com/">Marlane Barnes</a></li>
+<li><a rel="nofollow" href="http://iamnikkireed.com/">Nikki Reed</a></li>
+<li><a rel="nofollow" href="http://noelfisher.net/">Noel Fisher</a></li>
+<li><a rel="nofollow" href="http://peter-facinelli.com/wordpress/">Peter Facinelli</a></li>
+<li><a rel="nofollow" href="http://www.facebook.com/TaylorLautner?sk=wall">Taylor Lautner</a></li>
+<li><a rel="nofollow" href="http://www.tinselkorey.com/Tinsel_Korey/Welcome.html">Tinsel Korey</a></li>
 </ul></div>
+<div class="sidebold">other cast sites</div>
 <div class="list1"><ul>
 <li><a href="http://robertpattinsonwow.com/">Robert Pattinson</a></li>
 <li><a href="http://taylorlautnerwow.com/">Taylor Lautner</a></li>
+</ul></div>
+<div class="list2"><ul>
 <li><a href="http://kellanlutzwow.com/">Kellan Lutz</a></li>
 <li><a href="http://jacksonrathbonewow.com/">Jackson Rathbone</a></li>
-<li><a href="http://shirtlessdaily.com/">Shirtless Daily</a></li>
-<li><a href="http://celebritygraphics.net/">Celebrity Graphics</a></li>
-<li><a href="http://omgstars.com/">Movie News</a></li>
-<li><a href="http://www.horrormoviesurvivalguide.com/">Horror Movie Survival</a></li>
-<li><a href="http://justboopit.com/">Betty Boop</a></li>
 </ul></div>
 </div>
 
 <div class="widget">
-<a id="vdg" href="http://vampirediariesguide.com/" title="Vampire Diaries"></a>
-</div>
-
-<div class="widget">
-<a id="tbg" href="http://truebloodguide.com/" title="True Blood"></a>
-</div>
-
-<div class="widget">
-<div id="tg15"></div>
+<div id="sb29"></div>
 <div class="list2"><ul>
-<li><a rel="nofollow" href="http://twitter.com/gilbirmingham">Gil Birmingham</a></li>
-<li><a rel="nofollow" href="http://twitter.com/Jamiebower">Jamie Campbell Bower</a></li>
 <li><a rel="nofollow" href="http://twitter.com/jodellemicah">Jodelle Ferland</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/JudiShekoni">Judi Shekoni</a></li>
 <li><a rel="nofollow" href="http://twitter.com/justinchon">Justin Chon</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/jwachsberger">Justine Wachsberger</a></li>
 <li><a rel="nofollow" href="http://twitter.com/kellanlutz">Kellan Lutz</a></li>
 <li><a rel="nofollow" href="http://twitter.com/circakigordon">Kiowa Gordon</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/kcprout">Kirsten Prout</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/leahdianegibson">Leah Gibson</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/LisaHowardNYC">Lisa Howard</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/MarisaQActress">Marisa Quintanilla</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/marlanebarnes">Marlane Barnes</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/miamaestro">Mia Maestro</a></li>
 <li><a rel="nofollow" href="http://twitter.com/michaelsheen">Michael Sheen</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/MichaelWelchAct">Michael Welch</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/MyannaBuring">MyAnna Buring</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/NikkiReed_I_Am">Nikki Reed</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/noel_fisher">Noel Fisher</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/thepatbrennan">Patrick Brennan</a></li>
 <li><a rel="nofollow" href="http://twitter.com/peterfacinelli">Peter Facinelli</a></li>
 <li><a rel="nofollow" href="http://twitter.com/RachelleLefevre">Rachelle Lefevre</a></li>
 <li><a rel="nofollow" href="http://twitter.com/tinselkorey">Tinsel Korey</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/ToniTrucks">Toni Trucks</a></li>
 <li><a rel="nofollow" href="http://twitter.com/TysonHouseman">Tyson Houseman</a></li>
 </ul></div>
 <div class="list1"><ul>
 <li><a rel="nofollow" href="http://twitter.com/TheAlexMeraz">Alex Meraz</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/AGabrielTweet">Andrea Gabriel</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/AngelaSarafyan">Angela Sarafyan</a></li>
 <li><a rel="nofollow" href="http://twitter.com/AnnaKendrick47">Anna Kendrick</a></li>
 <li><a rel="nofollow" href="http://twitter.com/AshleyMGreene">Ashley Greene</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/Billy_Tangradi">Bill Tangradi</a></li>
 <li><a rel="nofollow" href="http://twitter.com/billy_burke">Billy Burke</a></li>
 <li><a rel="nofollow" href="http://twitter.com/mammarazzi1">BooBoo Stewart</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/sonofbrown">Bronson Pelletier</a></li>
 <li><a rel="nofollow" href="http://twitter.com/cambright">Cameron Bright</a></li>
 <li><a rel="nofollow" href="http://twitter.com/alchemission">Charlie Bewley</a></li>
 <li><a rel="nofollow" href="http://twitter.com/THEREALCHASKE">Chaske Spencer</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/chrisweitz">Chris Weitz</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/therealcamargo">Christian Camargo</a></li>
 <li><a rel="nofollow" href="http://twitter.com/cserratos">Christian Serratos</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/danielcudmore">Daniel Cudmore</a></li>
 <li><a rel="nofollow" href="http://twitter.com/DAVID_A_SLADE">David Slade</a></li>
 <li><a rel="nofollow" href="http://twitter.com/iamedigathegi">Edi Gathegi</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/erikodom">Erik Odom</a></li>
+<li><a rel="nofollow" href="http://twitter.com/gilbirmingham">Gil Birmingham</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/GuriWeinberg">Guri Weinberg</a></li>
+<li><a rel="nofollow" href="http://twitter.com/#!/JacksonRathbone">Jackson Rathbone</a></li>
+<li><a rel="nofollow" href="http://twitter.com/Jamiebower">Jamie Campbell Bower</a></li>
 </ul></div>
 </div>
 
 <div class="widget">
-<a id="twm" href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FOfficial-Twilight-Merchandise-Store%2Fb%3Fie%3DUTF8%26node%3D1288130011&amp;tag=twilightguide-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957"></a>
+<a id="bda1" href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FOfficial-Twilight-Merchandise-Store%2Fb%3Fie%3DUTF8%26node%3D1288130011&amp;tag=twilightguide-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957"></a>
+</div>
+
+<div class="widget">
+<span id="face"><iframe id="fbframe" scrolling="no" frameborder="0" src="http://www.facebook.com/connect/connect.php?id=115708349838&amp;connections=5&amp;stream=0&amp;css=http://twilightguide.com/facebook/style7.css&amp;locale=en_US" allowtransparency="true"></iframe></span>
+</div>
+
+<div class="widget">
+<a id="sb31" href="http://twilightguide.com/tg/contact-us-privacy/"></a>
+</div>
+
+<div class="sidead300">
+<a href="http://christmas-graphics.org/"><img src="http://christmas-graphics.org/wp-content/uploads/2011/11/christmas-300.jpg" alt="Christmas Graphics" title="Christmas Graphics" width="300" height="250"></a>
 </div>
 
 </div></div><!-- End Main  -->
 <div style="clear:both;"></div>
-
-
-<div id="featurebottom">	 	
-<div class="featurebottomwidget1">
-<div id="tg13"></div>
-<object width="300" height="220"><param name="movie" value="http://www.youtube.com/v/dompotjTeIA&amp;rel=0&amp;color1=0xAC8F66&amp;color2=0xAC8F66&amp;feature=player_profilepage&amp;fs=1"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/dompotjTeIA&amp;rel=0&amp;color1=0xAC8F66&amp;color2=0xAC8F66&amp;feature=player_profilepage&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="300" height="220"></object>
-<textarea id="ec1" style="display:none;">&lt;object width="425" height="344"&gt;&lt;param name="movie" value="http://www.youtube.com/v/dompotjTeIA&amp;hl=en_US&amp;fs=1&amp;"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowscriptaccess" value="always"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/dompotjTeIA&amp;hl=en_US&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;br&gt;&lt;small&gt;&lt;a href="http://twilightguide.com/"&gt;Eclipse&lt;/a&gt; and &lt;a href="http://twilightguide.com/"&gt;Breaking Dawn Movie&lt;/a&gt;&lt;/small&gt;
-</textarea>
-<script src="http://cdn.gigya.com/wildfire/JS/WFButtonv2.js?useFacebookMystuff=false&amp;defaultContent=ec1&amp;module=post&amp;widgetTitle=Twilight%20Guide&amp;partner=750841&amp;theme=6&amp;btnurl=http%3A%2F%2Fimg.twilightguide.com%2Ftheme%2Fgigya-vid.jpg"></script>
-</div>
-				
-<div class="featurebottomwidget2">
-<iframe id="fbframe" scrolling="no" frameborder="0" src="http://www.facebook.com/connect/connect.php?id=115708349838&amp;connections=9&amp;stream=0&amp;css=http://twilightguide.com/facebook/style4.css&amp;locale=en_US" allowtransparency="true"></iframe>
-<div id="google_translate_element"></div><script>
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({
-    pageLanguage: 'en'
-  }, 'google_translate_element');
-}
-</script><script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
-</div>
-				
-<div class="featurebottomwidget"><div id="tg16"><ul>
-<li><a href="http://twilightguide.com/tg/contact-us-privacy/">Contact Us</a></li>
-<li><a href="http://twilightguide.com/tg/twilight-graphics/support-buttons/">Support Buttons</a></li>
-<li><a href="http://toptwilightblogs.com/"><img src="http://toptwilightblogs.com/button.php?u=budowar" alt="Top Twilight Blogs" border="0"></a></li>
-</ul>
-<p>Twilight Guide has Twilight, New Moon, Eclipse movie news, Breaking Dawn info, pictures, graphics, icons, wallpapers, quizzes, quotes, polls, contests, and giveaways for Twilight fans.</p>
-</div></div>
-</div>
+<div id="toes">
+<ul><li class="titler">Graphics</li><li><a href="http://www.criticallayouts.com/">Comment Graphics</a></li><li><a href="http://www.criticallayouts.com/component/option,com_rsgallery2/Itemid,330/catid,395/">Animated Gifs</a></li><li><a href="http://www.commentsexy.com/">Sexy Comments</a></li><li><a href="http://celebritygraphics.net/">Celebrity Graphics</a></li></ul><ul><li class="spacer">-</li><li><a href="http://jellypages.com/">Blogger Layouts</a></li><li><a href="http://birthday-graphics.com/">Birthday Graphics</a></li><li><a href="http://christmas-graphics.org/">Christmas Graphics</a></li><li><a href="http://halloweengraphics.org/">Halloween Graphics</a></li><li><a href="http://justboopit.com/">Betty Boop</a></li></ul><ul><li class="titler">Widgets</li><li><a href="http://www.magicwidgets.com/">Flash Toys</a></li><li><a href="http://www.countdownclockcodes.com/">Countdown Clocks</a></li><li><a href="http://www.photocube3d.com/">3D Photo Cubes</a></li></ul><ul><li class="spacer">-</li><li><a href="http://www.calendarcodes.com/">Flash Calendars</a></li><li><a href="http://bannerbaker.com/">Banner Makers</a></li><li><a href="http://askzy.com/">Quote Widgets</a></li></ul><ul><li class="titler">Fun</li><li><a href="http://kittenverse.com/">Kitten Pictures</a></li><li><a href="http://puppyverse.com/">Puppy Pictures</a></li><li><a href="http://webkinzworldnews.com/">Webkinz</a></li><li><a href="http://lightersideofwow.com/">World of Warcraft</a></li></ul><ul><li class="spacer">-</li><li><a href="http://shirtlessdaily.com/">Shirtless Daily</a></li><li><a href="http://weirdphobia.com/">Weird Phobias</a></li><li><a href="http://www.horrormoviesurvivalguide.com/">Horror Movie Survival</a></li></ul><ul><li class="titler">Entertainment</li><li><a href="http://twilightguide.com/">Twilight</a></li><li><a href="http://vampirediariesguide.com/">Vampire Diaries</a></li><li><a href="http://secretcirclenews.com/">Secret Circle</a></li><li><a href="http://truebloodguide.com/">True Blood</a></li><li><a href="http://omgstars.com/">Movie News</a></li></ul><div style="clear:both;"></div>
+</div><div style="clear:both;"></div>
 
 <div id="footer">
-<p>Copyright © 2011 Twilight Guide • Twilight Guide is not associated with Stephenie Meyer or Summit Entertainment.<br><a href="http://twilightguide.com/tg/twilight-graphics/privacy/">Privacy</a> - <a href="http://twilightguide.com/tg/twilight-graphics/terms-of-service/">Terms</a> - <a href="http://twilightguide.com/tg/twilight-graphics/digital-millennium-copyright-act-dmca-policy/">DMCA</a></p>
+<p>Copyright © 2011 Twilight Guide • Twilight Guide is not associated with Stephenie Meyer or Summit Entertainment.<br><a href="http://twilightguide.com/tg/twilight-graphics/privacy/">Privacy</a> - <a href="http://twilightguide.com/tg/twilight-graphics/terms-of-service/">Terms</a> - <a href="http://twilightguide.com/tg/twilight-graphics/digital-millennium-copyright-act-dmca-policy/">DMCA</a> - <a href="http://twilightguide.com/tg/contact-us-privacy/">Contact Us</a></p>
 </div>
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -480,6 +574,37 @@ var pollsL10n = {
 </script>
 <script type="text/javascript" src="http://twilightguide.com/tg/wp-content/plugins/wp-polls/polls-js.js?ver=2.50"></script>
 </div> <!-- Closes Wrap -->
+
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script>
+  FB.init({
+    appId  : '267845338201',
+    xfbml  : false
+  });
+</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script src="http://artzstudio.com/files/jquery-boston-2010/jquery.sonar/jquery.sonar.js"></script>
+<script>
+jQuery(document).ready(function($) {
+    var $shareWidgets = $( '.share-widget' );
+    $shareWidgets.bind( 'scrollin', { distance: 500 }, function() {
+        var $share = $( this );
+        if (!$share.data( 'initFB' ) && window.FB) {
+            $share.data('initFB', 1);
+            $share.unbind( 'scrollin' );
+            FB.XFBML.parse( $share[0] );
+        }
+    });
+});
+</script>
+
+<script type="text/javascript">
+function loadFrame(){
+document.getElementById('face').innerHTML='<iframe id="fbframe" scrolling="no" frameborder="0" src="http://www.facebook.com/connect/connect.php?id=115708349838&connections=5&stream=0&css=http://twilightguide.com/facebook/style7.css&locale=en_US" allowtransparency="true"></iframe>';
+}
+onload=loadFrame;
+</script>
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -490,8 +615,5 @@ var pageTracker = _gat._getTracker("UA-1882123-20");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
-<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=aPbYeMsL0r36B5adbiUt4I&amp;s=131"></script>
 
-
-<!-- Dynamic Page Served (once) in 0.197 seconds -->
 </body></html>
