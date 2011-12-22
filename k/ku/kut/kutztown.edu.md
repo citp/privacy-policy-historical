@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kutztown.edu privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623015551id_/http%3A//www.kutztown.edu/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kutztown.edu privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222091153id_/http%3A//www.kutztown.edu/privacy/index.shtml) for the most accurate reproduction.*
 
 # Welcome to Kutztown University - Privacy Statement
 
@@ -30,4 +30,4 @@ The Kutztown University site has security measures in place to protect the loss,
 
 **Contacting the Web Site:**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with the Kutztown University web site, you can contact the Webmaster at (610)-683-4803 or email the Webmaster at [webmaster@kutztown.edu](mailto:webmaster@kutztown.edu). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with the Kutztown University web site, you can contact the Webmaster at (610)-683-4114 or email [webmaster@kutztown.edu](mailto:webmaster@kutztown.edu). 
