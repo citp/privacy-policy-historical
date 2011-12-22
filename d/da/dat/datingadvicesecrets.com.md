@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingadvicesecrets.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630134936id_/http%3A//www.datingadvicesecrets.com/men/site-info%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingadvicesecrets.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222060133id_/http%3A//www.datingadvicesecrets.com/men/site-info%23privacy) for the most accurate reproduction.*
 
 # Site Info
 
@@ -6,7 +6,7 @@ ABOUT US
 
 DatingAdviceSecrets.com is a website I started because I wanted to be a positive force in helping single men out there who are having trouble meeting women, point them in the right direction, learn to become men who can naturally attract women and live more happy and fulfilling lives.  
 a  
-My vision for this website is to bring together all the leading experts in [dating advice](http://www.datingadvicesecrets.com/), and bring them here to share for free and the benefit of single men from around the world.
+My vision for this website is to bring together all the leading experts in dating advice, and bring them here to share for free and the benefit of single men from around the world.
 
 I started this website as a hobby in 2008. The website has grown beyond my expectations, and I have big plans for it in the near future!
 
@@ -86,7 +86,7 @@ Please submit some writing samples to and I’ll get back in touch within a coup
 
 DATING COMPANIES/EXPERTS/PARTNERS:
 
-If you are a [dating expert](http://www.datingadvicesecrets.com/men/meet-the-dating-experts/) and want to get your name/company out to a very targeted demographic, you’re at the right place. With over 150,000 unique singles that visit this site every month you will be talking to the right people, 100% of the time. You will get an nice author bio mentioned at the bottom of each post, that links back to your website, for increased traffic and business (for free).
+If you are a dating expert and want to get your name/company out to a very targeted demographic, you’re at the right place. With over 150,000 unique singles that visit this site every month you will be talking to the right people, 100% of the time. You will get an nice author bio mentioned at the bottom of each post, that links back to your website, for increased traffic and business (for free).
 
 I can help syndicate your content to a mass audience here. Please submit inquiries to:[rhen@datingadvicesecrets.com](mailto:rhen@datingadvicesecrets.com)
 
