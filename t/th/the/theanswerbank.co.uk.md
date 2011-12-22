@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theanswerbank.co.uk privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509155554id_/http%3A//www.theanswerbank.co.uk/Info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theanswerbank.co.uk privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222214408id_/http%3A//www.theanswerbank.co.uk/Info/PrivacyPolicy) for the most accurate reproduction.*
 
 # The AnswerBank - post questions and answers, and discuss topics of interest.
 
