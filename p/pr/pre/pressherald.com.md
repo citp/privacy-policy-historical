@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressherald.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522105741id_/http%3A//www.pressherald.com/home/privacy_policy_mt.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressherald.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222092310id_/http%3A//www.pressherald.com/home/privacy_policy_mt.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Portland Press Herald / Maine Sunday Telegram
 
