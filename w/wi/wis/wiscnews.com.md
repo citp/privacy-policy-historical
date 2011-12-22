@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiscnews.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623130824id_/http%3A//www.wiscnews.com/portagedailyregister/article_daf83af4-c307-5c65-aa4e-048f88fcc324.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiscnews.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223001331id_/http%3A//www.wiscnews.com/portagedailyregister/article_daf83af4-c307-5c65-aa4e-048f88fcc324.html) for the most accurate reproduction.*
 
 # Privacy policy
 
