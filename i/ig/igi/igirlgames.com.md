@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the igirlgames.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511231356id_/http%3A//www.igirlgames.com/girlgamesforgirlsprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igirlgames.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222023828id_/http%3A//www.igirlgames.com/girlgamesforgirlsprivacy.php) for the most accurate reproduction.*
 
-# Dress Up Games For Girls On igirlgames.com
+# igirlgames.com's privacy
 
 Access To This Site
 
