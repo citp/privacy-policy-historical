@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the direct-golf.co.uk privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602002337id_/http%3A//www.direct-golf.co.uk/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the direct-golf.co.uk privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222071758id_/http%3A//www.direct-golf.co.uk/static/privacy) for the most accurate reproduction.*
 
-# Direct Golf UK - Golf equipment, golf clubs, golf bags, golf shoes, golf balls & golf accessories
+# Privacy Policy - Direct Golf UK
 
-We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998) and according to the Privacy and Electronic Communications (EC Directive) Regulations 2003.
+We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998) and according to the Privacy and Electronic Communications (EC Directive) Regulations 2003. 
 
 ## Information About You
 
@@ -20,7 +20,7 @@ The type of information we will collect about you if you place an order with us 
 
 We will never collect sensitive information about you without your explicit consent. 
 
-The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. 
+The information we hold will be accurate and up to date. You can check the information that we hold about you by e-mailing us. If you find any inaccuracies we will delete or correct it promptly. 
 
 The personal information which we hold will be held securely in accordance with our internal security policy and governing UK law. 
 
@@ -33,22 +33,16 @@ We collect e-mail addresses in one of two ways:
 
 
 
-We will not email you in the future unless you have given us your consent, and you can at any time have yourself removed from our email database by clicking the clearly identifiable link at the bottom of any communication we send you. 
+We will not e-mail you in the future unless you have given us your consent, and you can at any time have yourself removed from our e-mail database by clicking the clearly identifiable link at the bottom of any communication we send you. 
 
-Your email address will be unsubscribed as soon as possible, however it is possible you may receive one or two emails in the mean time. 
+We will never pass on your e-mail address, or any other details to a 3rd party without your consent. 
 
-You may also request to be unsubscribed from our email broadcasts by emailing [info@direct-golf.co.uk](mailto:info@direct-golf.co.uk?subject=unsubscribe&body=Please%20unsubscribe%20me%20from%20future%20emails.), calling our customer service team on 08000 139 139 or by post to DGUK, Bankwell Road, Milnsbridge, Huddersfield, HD3 4LU. 
-
-We will never pass on your email address, or any other details to a 3rd party without your consent. 
-
-Visitors to this site who; enter competitions or request advice and feedback will automatically be entered onto our special offer mailing list. Those people who place orders, are able to decline being placed on our mailing list. Instructions on how to remove your e-mail address from this list are on the bottom of each email. 
-
-We will not email you in the future unless you have given us your consent, and you can at any time have yourself removed from our e-mail database by clicking the clearly identifiable link at the bottom of any communication we send you. 
+Visitors to this site who; enter competitions or request advice and feedback will automatically be entered onto our special offer mailing list. Those people who place orders, are able to decline being placed on our mailing list. Instructions on how to remove your e-mail address from this list are on the bottom of each e-mail. 
 
 ## Cookies
 
-We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your computer. A cookie is a simple text file which contains information about your interaction with a specific website, and cannot be read by any other site apart from the one which created it. 
+A cookie is a simple text file which contains information about your interaction with a specific website, and cannot be read by any other site apart from the one which created it. We currently use cookies on our website to personalise your experience and store cart information. If you have cookies disabled you will not be able to use all the features on our website or place orders. **You can usually enable cookies by going to the privacy section of your browsers settings or internet options.**
 
-If you are concerned about security, you can usually modify your browser to prevent cookies being stored on your machine. 
+We may also use third party cookies to track the patterns of behaviour of visitors to our site. If you prefer not to be tracked in this way you may be able to change your browser settings to block third party cookies. 
 
-If you have any questions about your privacy on this site, you should email us at [info@direct-golf.co.uk](mailto:info@direct-golf.co.uk). 
+If you have any questions about your privacy on this site, you should e-mail us at [info@direct-golf.co.uk](mailto:info@direct-golf.co.uk). 
