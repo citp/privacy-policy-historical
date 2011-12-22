@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingmo.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623013729id_/http%3A//www.marketingmo.com/privacy-policy-and-security-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingmo.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222012806id_/http%3A//www.marketingmo.com/privacy-policy-and-security-statement) for the most accurate reproduction.*
 
 # Marketing M.O. Privacy Policy | Marketing M.O.
 
@@ -41,4 +41,4 @@ If you have any questions about our services or privacy statement, contact:
 Scottsdale, Arizona 85260  
 P (480) 219-9695  
 F (866) 454-7924  
-[Click here to send an email](mailto:info@MarketingMO.com)
+[Click here to send an email](mailto:hello@marketingmo.com)
