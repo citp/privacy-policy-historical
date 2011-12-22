@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neurosciencenews.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622202214id_/http%3A//neurosciencenews.com/neuroscience-news-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neurosciencenews.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222012746id_/http%3A//neurosciencenews.com/neuroscience-news-privacy-policy) for the most accurate reproduction.*
 
 # Neuroscience News Privacy Policy | Neuroscience News
 
@@ -55,4 +55,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please leave us a comment on a post, page, or forum. You can also email us at [contact @ neurosciencenews.com].
+Should you have other questions or concerns about these privacy policies, please leave us a comment on a post, page, or forum. You can also email us at [contact @ neurosciencenews.com]. 
