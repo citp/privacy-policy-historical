@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the micksgarage.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105134440id_/http%3A//www.micksgarage.ie/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micksgarage.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222203536id_/https%3A//www.micksgarage.ie/privacy-statement.aspx) for the most accurate reproduction.*
 
 # micksgarage Privacy Statement
+
+Finding car parts. Please wait ...
 
 ## Our Privacy Guarantee
 
@@ -101,16 +103,14 @@ This site uses ClickTale web analytics service. ClickTale may record mouse click
 
 Back to top
 
-Lines are open 9:00am - 5.30pm, Monday to Friday. All calls are recorded for quality and training purposes. 
+[ ](https://web.archive.org/christmas-gifts.aspx "MicksGarage Christmas Store")
 
-######  Email 
+Customer Services
 
-Email our Parts Experts today: [info@MicksGarage.ie](mailto:info@MicksGarage.ie). 
+01-4406603
 
-######  Live chat 
+9:00am - 5.30pm, Monday to Friday
 
-Live online chat with our Parts Experts. Click the Ask Live button below. 
+Live online chat with our Parts Experts
 
-######  Delivery 
-
-Order before 4.00pm for same day dispatch via courier. 
+Order before 4.00pm for same day dispatch via courier
