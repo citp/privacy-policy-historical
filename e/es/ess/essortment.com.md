@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essortment.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624025032id_/http%3A//www.essortment.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essortment.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222155032id_/http%3A//www.essortment.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Essortment
 
@@ -9,7 +9,7 @@ This Privacy and Information Security Policy (the "Policy") discusses the person
 
 **Who We Are. We are Demand Media, Inc.  ("Demand Media," "Site," "we," "us," or "our").** Demand Media is a leading Internet registrar and syndicator of professional content and social media solutions. 
 
-**This Policy and the Terms of Use.** This Policy is part of and incorporated into the Demand Media, Inc. [**Terms of Use**](http://beta.essortment.com/disclaimer.htm) (collectively, the "Terms").
+**This Policy and the Terms of Use.** This Policy is part of and incorporated into the Demand Media, Inc. [**Terms of Use**](http://www.essortment.com/disclaimer.htm) (collectively, the "Terms").
 
 **BY PROVIDING PII OR OTHER INFORMATION TO US OR BY USING THE SITE, YOU AGREE TO THIS POLICY AND THE PRACTICES DESCRIBED IN THE POLICY.**
 
@@ -33,7 +33,7 @@ We collect any information you enter on the Site. The information that we collec
 
 3\. OUR USE AND RETENTION OF YOUR INFORMATION
 
-3.1 _Use of PII_. We use your PII for such purposes as responding to your requests; operating the Site; providing you with advertising and non-advertising content that we believe would be of interest to you; enforcing our rights and the rights of third parties; and investigating and ensuring compliance with the [**Terms**](http://beta.essortment.com/disclaimer.htm) and any other contract to which you and Demand Media are party.
+3.1 _Use of PII_. We use your PII for such purposes as responding to your requests; operating the Site; providing you with advertising and non-advertising content that we believe would be of interest to you; enforcing our rights and the rights of third parties; and investigating and ensuring compliance with the [**Terms**](http://www.essortment.com/disclaimer.htm) and any other contract to which you and Demand Media are party.
 
 3.2 _Use of Other Information_. We use non-PII for purposes such as measuring the number of visitors to our Site, making the Site more useful and delivering targeted advertising and non-advertising content. We use IP addresses to analyze trends, administer the Site, track a user's movement, and gather broad demographic information for non-personally identifiable use.
 
@@ -78,7 +78,7 @@ We reserve the right to send you customary business communications such as gener
 
 8\. CONDITIONS OF USE, NOTICES, AND REVISIONS
 
-8.1 _Privacy Concerns_. Your use of the Site and any dispute over privacy is subject to the [**Terms**](http://beta.essortment.com/disclaimer.htm). If you have any concern about privacy at Demand Media, please send us a thorough description to [**legal@demandmedia.com**](mailto:legal@demandmedia.com) , and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address in Section 9 below.
+8.1 _Privacy Concerns_. Your use of the Site and any dispute over privacy is subject to the [**Terms**](http://www.essortment.com/disclaimer.htm). If you have any concern about privacy at Demand Media, please send us a thorough description to [**legal@demandmedia.com**](mailto:legal@demandmedia.com) , and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address in Section 9 below.
 
 8.2 _Notice Required by Law_. In those jurisdictions that permit email notice, if we are required to disclose or provide notice of invasion of certain security systems, we will do so by email to the most current email address provided by you to us. It is critical that you keep your email contact information correct and updated with us at all times.
 
