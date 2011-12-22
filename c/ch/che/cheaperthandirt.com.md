@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheaperthandirt.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514095727id_/http%3A//www.cheaperthandirt.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheaperthandirt.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222220716id_/http%3A//www.cheaperthandirt.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Cheaper Than Dirt - America's Ultimate Shooting Sports Discounter
 
