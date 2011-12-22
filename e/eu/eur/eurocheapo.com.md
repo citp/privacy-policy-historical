@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eurocheapo.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230004050id_/http%3A//www.eurocheapo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocheapo.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222044642id_/http%3A//www.eurocheapo.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policye: EuroCheapo's Guide to Cheap Hotels in Europe
+# Privacy Policy: EuroCheapo's Guide to Cheap Hotels in Europe
 
 | **EuroCheapo's Privacy Policy** EuroCheapo respects your privacy! Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to EuroCheapo will be held with the utmost care, and will not be used in ways that you have not consented to. 
 
