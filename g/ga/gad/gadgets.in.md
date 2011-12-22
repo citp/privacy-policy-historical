@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gadgets.in privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619035640id_/http%3A//www.gadgets.in/main/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgets.in privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222200146id_/http%3A//www.gadgets.in/main/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy|gadgets|online shop| Gadgets.in|Online Shop India
+# Buy Privacy Policy|gadgets|online shop| Gadgets.in|Online Shop India
 
 On Gadgets.in, privacy issues are a high priority for us and we follow standard industry practices to maintain your personal information. We respect and are committed to protecting your privacy. Please read the following to learn more about our privacy policy.
 
