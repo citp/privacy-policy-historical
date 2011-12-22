@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainies.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425004527id_/http%3A//brainies.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainies.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222130250id_/http%3A//www.brainies.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Brainies.com
 
