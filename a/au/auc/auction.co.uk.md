@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the auction.co.uk privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603064854id_/http%3A//www.allsop.co.uk/253/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auction.co.uk privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223004214id_/http%3A//www.allsop.co.uk/253) for the most accurate reproduction.*
 
-# Privacy Policy
+# Allsop - Privacy Policy
 
 This privacy policy covers Allsop and its website. We are committed to protecting your privacy, and at the same time we endeavour to use any data we collect from you to provide the best possible service.
 
