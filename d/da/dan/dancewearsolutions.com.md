@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the dancewearsolutions.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602174331id_/http%3A//www.dancewearsolutions.com/CustomerService/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancewearsolutions.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222205006id_/http%3A//www.dancewearsolutions.com/CustomerService/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
 |   
 ---  
   
-***Free standard shipping** on all orders of $150 or more. *Online Only to continental US  
+Free shipping on online orders of $150 or more every day! [see terms](https://web.archive.org/web/20111222205006id_/http%3A//www.dancewearsolutions.com/CustomerService/Promotions.aspx#terms)  
   
 |   | **Privacy & Security **  
 ---|---  
@@ -40,7 +40,7 @@ We want to communicate with you only if you want to hear from us. If you prefer 
 We are always here to help you. Please feel free to contact us using one of these methods
 
 E-mail [info@dancewearsolutions.com](mailto:info@dancewearsolutions.com)  
-Phone Ordering and General Questions 1.866.542.6500 M-F 8 am – 4:30 pm CDT  
+Phone Ordering and General Questions 1.866.542.6500 M-F 8 am – 4:30 pm CST  
 Faxing an Order 1.877.773.5175  
 Postal Mail  
 Dancewear Solutions  
@@ -49,4 +49,4 @@ St. Louis MO, 63139
   
    
  
-  *[CDT]: Central Daylight Time
+  *[CST]: Central Standard Time
