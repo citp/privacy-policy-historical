@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newnfldraft.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630144811id_/http%3A//newnfldraft.com/newnfldraft-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newnfldraft.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222040551id_/http%3A//newnfldraft.com/newnfldraft-privacy-policy) for the most accurate reproduction.*
 
-# Newnfldraft Privacy Policy | 2012 NFL Mock Draft
+# Newnfldraft Privacy Policy | 2012 NFL Mock Draft | New NFL Draft
 
 Privacy Policy
 
@@ -62,5 +62,3 @@ If you decide to visit Newnfldraft.com website, your visit and any possible disp
 Effective Date of this Privacy Policy
 
 This Privacy Policy is effective as of 4/17/09 and last updated 4/17/09.
-
-To post a Comment on any player, draft pick or team please go to the NFL Draft [Forum/Discussion board](http://newnfldraft.com/tal-ki-forum-2#/20110109/post-comments-297221/) we will respond with answers to questions, comments or concerns within 48 hours. 
