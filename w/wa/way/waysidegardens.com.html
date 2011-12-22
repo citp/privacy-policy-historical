@@ -1,174 +1,107 @@
-<!--The following is the downloaded HTML source of the waysidegardens.com privacy policy that was archived on 2007-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070609074136id_/http%3A//www.waysidegardens.com/gardening/Wayside/dept/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the waysidegardens.com privacy policy that was archived on 2011-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111222010142id_/http%3A//www.waysidegardens.com/privacy-statement/a/322) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd"><html><head><title> Wayside Gardens: Providing perennials, bulbs, shrubs, trees and roses for mail order  catalog gardening.</title>
-<meta name="Keywords" content="perennials,trees,shrubs,roses,rare plants,gardens,gardening,flowers,Wayside,Wayside Gardens,Gift Certificates,horticulture">
-<meta name="Description" content="Wayside Gardens provides mail order perennials, bulbs, trees, shrubs, and roses. Discover the Wayside Gardens difference in quality.">
-	<link rel="stylesheet" href="Wayside/wayside.css" type="text/css">
-	<script language="JavaScript">
-
-// cookies disabled popup
-function cookiesOn() {
-	var testCookieName = "testcookie2";
-	document.cookie=testCookieName+"=TEST";
-	return (getCookie(testCookieName) != null);
-}
-if(!cookiesOn()) { //if cookies are disabled on client's browser
-	window.open("PopUpDisplayView?catalogId=10151&storeId=10151&langId=-1&mainPage=cookieinfo&titleText=Please Note!", "CookiesBlockedPopUp", "width=500,height=500,menubar=no,scrollbars=no,status=no");
-}
-
-// Session Timeout PopUp
-
-/*var minutes = 10;
-startTimingPage();*/
-
-function getCookie(NameOfCookie) {
-	if (document.cookie.length > 0) { 
-		var begin = document.cookie.indexOf(NameOfCookie+"="); 
-		if (begin != -1) { 
-			begin += NameOfCookie.length+1; 
-			var end = document.cookie.indexOf(";", begin);
-			if (end == -1) end = document.cookie.length;
-			return unescape(document.cookie.substring(begin, end));
-		} 
-	}
-	return null;
-}
-
-function setCookie(NameOfCookie, value, expiredays) {
-	var ExpireDate = new Date ();
-	ExpireDate.setTime(ExpireDate.getTime() + (expiredays * 24 * 3600 * 1000));
-	document.cookie = NameOfCookie + "=" + escape(value) + ((expiredays == null) ? "" : "; expires=" + ExpireDate.toGMTString());
-}
-
-function delCookie (NameOfCookie) {
-	if (getCookie(NameOfCookie)) {
-		document.cookie = NameOfCookie + ";=expires=Thu, 01-Jan-70 00:00:01 GMT";
-	}
-}
-
-function AlertUser() {
-	var urlStr = "PopUpDisplayView?catalogId=10151&storeId=10151&langId=-1&mainPage=sessiontimeoutpopup";
-	var featuresStr = "width=510,height=540,menubar=no,scrollbars=no,status=no";
-	var popup = window.open(urlStr, "ParkSeedSessionAlert", featuresStr);
-	if (popup.opener == null)
-    	popup.opener = window;
-}
-
-/*function startTimingPage() {
-	setTimeout("AlertUser()", minutes * 60 * 1000);
-}*/
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head id="head1"><base href="http://www.waysidegardens.com/"><title>
+	Privacy Policy | Wayside Gardens
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="-1"><meta name="Author" content="Fifth Gear"><meta name="rating" content="general"><meta name="resource-type" content="document"><meta name="language" content="en-us"><meta name="distribution" content="Global"><meta name="google-site-verification" content="hKbknjYI_ZOOhBvaRvvZZ8UAxLFEPtW4IoLyDD9WAeE"><meta name="google-site-verification" content="5wcZXdwvfj7K3verroTHvWp4Ou3n8SvwTS_1CKpVCks"><meta name="google-site-verification" content="J8urH_n_2LCV9qrie2-O3tAswG2K6YeszS2JvOHNgn0"><meta name="google-site-verification" content="RKdjPxFObwUq1gl6zREvqtE4cSEse_pIjPNzdv5by20"><link rel="stylesheet" type="text/css" href="Styles/master.css">
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="Styles/ie7.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="Styles/ie6.css" /><![endif]-->
 
 
-// Items in cart PopUp
+<link rel="shortcut icon" href="/images/art/wg_favicon.ico">
 
-function openNewWindow() {
-	document.cookie = window.name + "=close";
-	if (event.clientX < 0 && event.clientY < 0) {
-		if (!anyOpenParkWindows()) {
-			var urlStr = "PopUpDisplayView?catalogId=10151&storeId=10151&langId=-1&mainPage=openCart_popup&titleText=Cart Reminder!";
-			var featuresStr = "width=510,height=500,menubar=no,scrollbars=no,status=no";
-			window.open(urlStr, "ParkSeedPopUp", featuresStr);
-			delCookie("Entry");
-		}
-	}
-}
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="Javascript/jquery.js" type="text/javascript" language="JavaScript"></script>
+<script src="Javascript/jquery-ui.js" type="text/javascript" language="JavaScript"></script>
+<script src="Javascript/jquery-plugins.js" type="text/javascript" language="JavaScript"></script>
+<script src="Javascript/jquery-custom.js" type="text/javascript" language="JavaScript"></script>
+<script src="Javascript/dmcommon.js" type="text/javascript" language="JavaScript"></script>
+<script src="Javascript/scode.js" type="text/javascript" language="JavaScript"></script>
 
-function anyOpenParkWindows() {
-	var cookies = getWindowCookies();
-	for (var i=0; i<cookies.length; i++) {
-		if (cookies[i] == "open") {
-			return true;
-		}
-	}
-	return false;
-}
 
-function getWindowCookies() {
-	var dc = document.cookie;
-	var prefix = "WINDOW";
-	var begin = "0";
-	var cookies = new Array(10);
-	for (var i=0; i<10; i++) {
-		cookies[i] = "close";
-	}
 
-	for (var i=0; i<10 && begin >= 0; i++) {
-		begin = dc.indexOf(prefix, begin);
-		if (begin != -1) {
-			var end = document.cookie.indexOf(";", begin);
-			if (end == -1) {
-				end = dc.length;
-			}
-			cookies[i] = unescape(dc.substring(begin + prefix.length + 15, end));
-			begin = end;
-		}
-	}
-	return cookies;
-}
 
-function loadEntryPopup() {
-	var url = "PopUpDisplayView?catalogId=10151&storeId=10151&langId=-1&mainPage=firstpopup";
-	var settings="width=404,height=324,screenX=100,screenY=100";
-	var entry = getCookie("Entry");
-	if(entry == null || entry != "Yes") {
-		window.open(url, "EntryPopup", settings);
-		setCookie("Entry", "Yes", 1);
-	}
-}
 
-if (window.name == "") {
-	window.name = "WINDOW" + Math.random();
-	window.name = window.name.substring(0, 20);
-}
-document.cookie = window.name + "=open";
 
-var submitted = 0;
-function LockButton() {
-	if ( ! submitted ) { 
-    	submitted = 1;
-        return true;           
-    } else {
-       	alert("Form already submitted, please be patient.  Press OK to continue!");
-       	return false;
-    }
-}
 
-function emailPresent(form) {
-	var valid = true;
-	if(form["email1"].value == "") {
-		valid = false;
-		alert("You must provide an email address.");
-	}
-	return valid;
-}
 
-function preloadimages(){
-	var pic1= new Image(); 
-  	pic1.src="/web_images/Wayside/dev/processing.gif";
-}
+  <link rel="stylesheet" type="text/css" href="Styles/DmiAjax.css">
+  <script type="text/javascript" src="JavaScript/yui_yahoo-dom-event.js"></script>
+  <script type="text/javascript" src="JavaScript/yui_animation-min.js"></script>
+  <script type="text/javascript" src="JavaScript/yui_connection-min.js"></script>
+  <script type="text/javascript" src="JavaScript/yui_datasource-min.js"></script>
+  <script type="text/javascript" src="JavaScript/yui_autocomplete-min.js"></script>
+  <script type="text/javascript" src="JavaScript/DmiAjax.js"></script>
 
-</script>
-	<link rel="shortcut icon" href="/web_images/Wayside/dev/favicon.ico">
-	</head>
-	<!--  will load entry popup when inside body tag onLoad="loadEntryPopup()" -->
-	<body onload="preloadimages()">
-	<center>
-	  
-	<!-- SiteCatalyst code version: G.7. Copyright 1997-2004 Omniture, Inc. More info available at http://www.omniture.com -->
-	<script language="JavaScript">
-	<!-- /* You may give each page an identifying name, server, and channel on the next lines. */ 
-	var s_pageName="PrivacyPolicy"
-	var s_channel="PrivacyPolicy"
-	
-	
-	
-	/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/ //--></script>
-	<script language="JavaScript" src="//www.waysidegardens.com/webapp/wcs/stores/servlet/GlobalJS/s_code_remote.js"></script>
-	<!-- End SiteCatalyst code version: G.7. -->
+<meta name="ROBOTS" content="INDEX, FOLLOW"><meta name="keywords" content="Privacy Policy"><meta name="description" content="Privacy Policy"></head>
 
-    </center>
-	
+<body>
+<form name="form1" method="post" action="article.aspx?a=322" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5NDYxMTIxODFkZNKWgdVq0tsdmPPjvsXO0nb6mVlm">
+</form>
+
+  <div id="DmiAjaxDiv" style="width: 0px; height:0px; display: none;"></div>
+
+    
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 
 
@@ -180,24 +113,8 @@ function preloadimages(){
 
 
 
-	<!-- START Wayside HEADER  -->
 
-
-<table width="768" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td align="left"><h1 class="h1"><font size="1" face="Arial, Helvetica, sans-serif">Online Catalog of Mail Order Perennials, Roses, Trees and Shrubs for American Gardens Since 1916.</font></h1></td>
-  </tr>
-</tbody></table>
-
-<table width="768" height="90" border="0" align="center" cellpadding="0" cellspacing="0" background="/web_images/Wayside/topbanner/topbanner_bg.gif" id="Table_01">
-	<tbody><tr>
-		<td colspan="3">
-			<img src="/web_images/Wayside/topbanner/images/top_nav.gif" width="768" height="26" border="0" alt="" usemap="#top_nav_Map"></td>
-	</tr>
-	<tr>
-		<td width="230" align="left" valign="top">
-			<img src="/web_images/Wayside/topbanner/images/main_logo.gif" width="230" height="41" border="0" alt="" usemap="#main_logo_Map"></td>
-		<td width="528" align="right">
+ 
 
 
 
@@ -207,52 +124,6 @@ function preloadimages(){
 
 
 
-	
-
- <!--<p><a href="http://www.waysidegardens.com/gardening/Wayside/NV.mainPage.gatepage/NV.gate.WaysideQuality"><img src="/web_images/Wayside/misc/Quality.gif" width="250" height="41" border="0" align="left"></a> <img src="/web_images/Wayside/navigation/WGsmckout.gif" width="120" height="33" border="0" align="left"> --> 
-
-
-	<span class="header">0 items: $0.00&nbsp;<a href="ViewCart?catalogId=10151&amp;storeId=10151&amp;langId=-1" alt="View Cart" title="View Cart"><img src="/web_images/Wayside/topbanner/viewCartsm.gif" border="0" height="15" width="71" alt="View Cart" class="diff"></a></span><span class="hiMember">
-
-	</span>
-</td>
-		<td width="10" align="right">
-			<img src="/web_images/Wayside/topbanner/images/right_padding.gif" width="10" height="41" alt=""></td>
-	</tr>
-	
-	<tr>
-		<td colspan="3">
-			<img src="/web_images/Wayside/topbanner/images/main_nav.gif" width="768" height="23" border="0" alt="" usemap="#main_nav_Map"></td>
-	</tr>
-</tbody></table>
-
-<map name="top_nav_Map">
-<area shape="rect" alt="" coords="282,13,347,25" href="http://www.waysidegardens.com/gardening/Wayside/MP.LoginForm">
-<area shape="rect" alt="" coords="682,13,756,24" href="http://www.waysidegardens.com/gardening/Wayside/MP.orderstatus">
-<area shape="rect" alt="" coords="556,13,672,25" href="http://www.waysidegardens.com/gardening/Wayside/MP.newQuickOrder">
-<area shape="rect" alt="" coords="460,13,543,26" href="http://www.waysidegardens.com/gardening/Wayside/MP.onlinecatalog">
-<area shape="rect" alt="" coords="361,13,446,25" href="http://www.waysidegardens.com/gardening/Wayside/MP.CatalogRequest">
-</map>
-<map name="main_logo_Map">
-<area shape="rect" alt="" coords="9,2,221,39" href="http://www.waysidegardens.com/gardening/Wayside/MP.page1">
-</map>
-<map name="main_nav_Map">
-		    <area shape="rect" alt="" coords="418,3,476,20" href="http://www.waysidegardens.com/gardening/Wayside/MP.homeShrubs">
-            <area shape="rect" alt="" coords="628,3,756,21" href="http://www.waysidegardens.com/gardening/Wayside/MP.homeInetOnly">
-            <area shape="rect" alt="" coords="495,3,609,21" href="http://www.waysidegardens.com/gardening/Wayside/MP.gatevines">
-            <area shape="rect" alt="" coords="343,4,401,21" href="http://www.waysidegardens.com/gardening/Wayside/MP.homeTrees">
-            <area shape="rect" alt="" coords="275,3,325,21" href="http://www.waysidegardens.com/gardening/Wayside/MP.homeRoses">
-            <area shape="rect" alt="" coords="202,4,259,21" href="http://www.waysidegardens.com/gardening/Wayside/MP.homeBulbs">
-            <area shape="rect" alt="" coords="107,3,185,20" href="http://www.waysidegardens.com/gardening/Wayside/MP.homePerennials">
-            <area shape="rect" alt="" coords="13,3,85,21" href="http://www.waysidegardens.com/gardening/Wayside/MP.newproducts">
-</map>
-
-
-    <center>
-      
-      <table width="768" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-        <tbody><tr valign="top">
-          <td width="140" align="left" class="wayLight">
 
 
 
@@ -260,85 +131,1215 @@ function preloadimages(){
 
 
 
-<table width="140" border="0" cellpadding="9" cellspacing="0" class="wayLight">
-  <tbody><tr>
-    <td align="left" valign="top" class="leftnavText">
-	<!-- Search --> 
-	
 
 
 
 
 
 
-<table>
-<tbody><tr>
-<td><form action="StoreCatalogDisplay" method="get">
-<input type="hidden" name="storeId" value="10151">
-<input type="hidden" name="catalogId" value="10151">
-<input type="hidden" name="langId" value="-1">
-<input onfocus="this.value=''" type="text" name="SearchText" value="Keyword or Item #" size="14" class="leftnavText">
-<input type="hidden" name="mainPage" value="textsearchresults">
-<input type="hidden" name="RequestType" value="NewRequest"></form></td>
-<td>
-<input type="image" name="go" src="/web_images/Wayside/navigation/go.gif" border="0" align="absmiddle" value="submit" alt="go" width="21" height="20">
-</td>
-</tr>
-</tbody></table>
-</td>
-  </tr>
-  
-<tr>
-  <td align="left" valign="top" class="leftnavText"><a href="http://www.waysidegardens.com/gardening/Wayside/MP.toptenpage">Most Popular Plants</a><br>
-  <a href="http://www.waysidegardens.com/gardening/Wayside/MP.newproducts">New Plants</a><br>
-  <a href="http://www.waysidegardens.com/gardening/Wayside/MP.webspecials">On Sale Today</a><br>
-  <a href="http://www.waysidegardens.com/gardening/Wayside/MP.giftcertificate">Gift Certificates</a><br>
- <a href="http://www.waysidegardens.com/gardening/Wayside/MP.homeSupplies">Garden Supplies</a></td>
-</tr>
-<tr>
-  <td align="left" valign="top" class="leftnavText"><a href="http://www.waysidegardens.com/gardening/Wayside/MP.aboutus">About Us</a><br>
-   <a href="http://www.waysidegardens.com/gardening/Wayside/MP.guarantee">Our Guarantee</a><br>
-    <a href="http://www.waysidegardens.com/gardening/Wayside/MP.directions">Visit Us</a><br>
-	<a href="http://www.waysidegardens.com/gardening/Wayside/MP.zonemap">USDA Zone Map</a><br><a href="http://www.waysidegardens.com/gardening/Wayside/GP.waysideaffiliate">Become an Affiliate</a><br><a href="http://www.waysidegardens.com/gardening/Wayside/MP.FAQWGIndex">FAQ</a></td>
-</tr>
- <tr>
-    <td align="left">
 
 
 
-<!-- Newsletter Signup -->
-		<span class="headerLeftNav">FREE Newsletter</span><br><span class="leftnavText">
-		<form action="StoreCatalogDisplay">
-		<input type="hidden" name="storeId" value="10151">
-		<input type="hidden" name="catalogId" value="10151">
-		<input type="hidden" name="langId" value="-1">
-		<input type="hidden" name="mainPage" value="newSubUnsub">
-				enter your e-mail:<br>
-				<input type="text" name="email1" size="10" maxlength="45">
-				<input name="go" type="image" id="gobut" src="/web_images/Wayside/navigation/go.gif" alt="go" align="top" width="21" height="20" border="0">
-				<br>
-				<a href="http://www.waysidegardens.com/gardening/Wayside/MP.newSubUnsub">Click for information.</a>	
-	</form></span></td></tr>
-</tbody></table>
 
 
-</td>
-          <td width="617" align="left" class="bodyText"><table width="605" border="0" cellspacing="0" cellpadding="4" class="bodyText">
-  <tbody><tr class="bodyText">
-    <td class="bodyText">
-                      
+
+
+
+
+
+
+
+
+
+
+<div id="page-article" class="page-wrapper">
+    
+    
+
+
+
+<div id="header-wrap">
+    <div id="header" class="page-width">
+
+        <div id="header-top">
+            <div id="shoppinglinks">
+                <ul>
+                    <li><a href="/catalogrequestpopup.aspx" class="iframe dialog">Free Catalog</a></li>
+                    <li><a href="/quickorder.aspx">Catalog Quick Order</a></li>
+                </ul>
+            </div>
+
+            <div id="sitelinks">
+                <ul>
+                    
+                    
+                    
+                        <li><a href="signin.aspx">Sign In</a></li>
+                    
+                    
+                    
+                    <li><a class="iframe dialog-small" href="/growingzonepopup.aspx">My Growing Zone</a>  (none)</li>
+                    <li><a href="orderhistory.aspx">Order Status</a></li>
+                    <li><a href="editaccount.aspx">My Account</a></li>
+</ul>
+</div>
+<div id="cartlinks">
+<ul>
+                    <li class="cart-items"><a href="cart.aspx"><strong>View Cart </strong><span>(0 Items)</span></a></li>
+                    <li class="cart-total"><a href="cart.aspx">$0.00</a></li>
+                </ul>
+</div>
+        </div>
+
+         <div id="logo">
+            <a href="/">
+                <img src="/images/art/wg_logo.png" id="wayside-logo" alt="Wayside Gardens Home" title="Wayside Gardens Home">
+            </a>
+        </div>
+
+
+        <div id="sitetools" class="rounded box-style">
               
-
-              
-              
-
-
-
-
-
+<div id="search-box" class="buttons">
+  <form action="search.aspx" method="GET" id="search-site-frm" name="search-site-frm">
+        <input type="hidden" name="sb" value="RANK">
+        <input type="text" name="ss" title="What would you like to grow?">
         
+        <button type="submit" class="standard" id="topsearchbutton">Search</button>
+  </form>
+</div><!-- search-box -->
+
+
+        </div>
+
+    </div>
+</div>
+
+
+
+
+
+<div id="nav-main-wrap">
+    <div id="nav-main" class="page-width">
+        <ul class="dropdown">
+            
+                
+                <li>
+                    <a href="http://www.waysidegardens.com/perennials/c/WG_Perennials/">Perennials</a>
+
+                    
+                        <div class="mega-box rounded-bottom drop-shadow">
+                            <h3>Perennials</h3>
+
+                            
+                                <div class="mega-featured">
+                                    <ul>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/athyrium/c/WG_G_1001_46/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_athyrium.jpg" alt="Athyrium" title="Athyrium">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/athyrium/c/WG_G_1001_46/">Athyrium</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/coreopsis/c/WG_G_1001_118/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_coreopsis.jpg" alt="Coreopsis" title="Coreopsis">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/coreopsis/c/WG_G_1001_118/">Coreopsis</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/hemerocallis/c/WG_G_1001_205/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_daylilies.jpg" alt="Hemerocallis" title="Hemerocallis">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/hemerocallis/c/WG_G_1001_205/">Hemerocallis</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/hosta/c/WG_G_1001_212/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_hostas.jpg" alt="Hosta" title="Hosta">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/hosta/c/WG_G_1001_212/">Hosta</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/phlox/c/WG_G_1001_320/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_phlox.jpg" alt="Phlox" title="Phlox">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/phlox/c/WG_G_1001_320/">Phlox</a></p>
+                                        </li>
+                                        
+                                    </ul>
+                                </div>
+                            
+
+                            
+
+                            <h4>Shop More Perennials</h4>
+                            <div class="mega-subcats-wrap">
+                                <ul class="mega-subcats">
+                                    
+                                        <li><a href="http://www.waysidegardens.com/new-perennials/c/WG_New_Perennials_S12/">New Perennials</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/sun-perennials/c/WG_Sun_Perennials_S12/">Sun Perennials</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/shade-perennials/c/WG_Shade_Perennials_S12/">Shade Perennials</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/grasses/c/WG_Grasses_S12/">Grasses</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/groundcovers/c/WG_Groundcovers_S12/">Groundcovers</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/alcea/c/WG_G_1001_23/">Alcea</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/anemone/c/WG_G_1001_31/">Anemone</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/astilbe/c/WG_G_1001_45/">Astilbe</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/caladium/c/WG_G_1001_67/">Caladium</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/colocasia/c/WG_G_1001_113/">Colocasia</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/coreopsis/c/WG_G_1001_118/">Coreopsis</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/echinacea/c/WG_G_1001_157/">Echinacea</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/geranium/c/WG_G_1001_191/">Geranium</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/hemerocallis/c/WG_G_1001_205/">Hemerocallis</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/heuchera/c/WG_G_1001_208/">Heuchera</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/hosta/c/WG_G_1001_212/">Hosta</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/lavandula/c/WG_G_1001_239/">Lavandula</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/leucanthemum/c/WG_G_1001_242/">Leucanthemum</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/phlox/c/WG_G_1001_320/">Phlox</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/salvia/c/WG_G_1001_357/">Salvia</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/sedum/c/WG_G_1001_365/">Sedum</a></li>
+                                    
+                                </ul>
+                            </div>
+
+
+
+                            <div class="mega-promos">
+
+
+
+
+
+
+
+                                
+
+
+
+
+                                
+
+                            </div>
+                        </div>
+                    
+                </li>
+            
+                
+                <li>
+                    <a href="http://www.waysidegardens.com/bulbs/c/WG_Bulbs/">Bulbs</a>
+
+                    
+                        <div class="mega-box rounded-bottom drop-shadow">
+                            <h3>Bulbs</h3>
+
+                            
+                                <div class="mega-featured">
+                                    <ul>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/caladium/c/WG_G_1001_67/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_caladium.jpg" alt="Caladium" title="Caladium">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/caladium/c/WG_G_1001_67/">Caladium</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/crinum/c/WG_Crinum/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_crinum.jpg" alt="Crinum" title="Crinum">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/crinum/c/WG_Crinum/">Crinum</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/gladiolus/c/WG_G_1001_194/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_gladiolus.jpg" alt="Gladiolus" title="Gladiolus">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/gladiolus/c/WG_G_1001_194/">Gladiolus</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/lilium/c/WG_G_1001_245/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_lilium.jpg" alt="Lilium" title="Lilium">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/lilium/c/WG_G_1001_245/">Lilium</a></p>
+                                        </li>
+                                        
+                                    </ul>
+                                </div>
+                            
+
+                            
+
+                            <h4>Shop More Bulbs</h4>
+                            <div class="mega-subcats-wrap">
+                                <ul class="mega-subcats">
+                                    
+                                        <li><a href="http://www.waysidegardens.com/new-bulbs/c/WG_New_Bulbs_S12/">New Bulbs</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/caladium/c/WG_G_1001_67/">Caladium</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/crinum/c/WG_Crinum/">Crinum</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/gladiolus/c/WG_G_1001_194/">Gladiolus</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/lilium/c/WG_G_1001_245/">Lilium</a></li>
+                                    
+                                </ul>
+                            </div>
+
+
+
+                            <div class="mega-promos">
+
+
+
+
+
+
+
+                                
+
+
+
+
+                                
+
+                            </div>
+                        </div>
+                    
+                </li>
+            
+                
+                <li>
+                    <a href="http://www.waysidegardens.com/trees/c/WG_Trees/">Trees</a>
+
+                    
+                        <div class="mega-box rounded-bottom drop-shadow">
+                            <h3>Trees</h3>
+
+                            
+                                <div class="mega-featured">
+                                    <ul>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/acer/c/WG_G_1001_6/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_acer.jpg" alt="Acer" title="Acer">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/acer/c/WG_G_1001_6/">Acer</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/cercis/c/WG_G_1001_93/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_cercis.jpg" alt="Cercis" title="Cercis">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/cercis/c/WG_G_1001_93/">Cercis</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/cornus/c/WG_G_1001_120/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_cornus.jpg" alt="Cornus" title="Cornus">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/cornus/c/WG_G_1001_120/">Cornus</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/picea/c/WG_G_1001_322/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_picea.jpg" alt="Picea" title="Picea">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/picea/c/WG_G_1001_322/">Picea</a></p>
+                                        </li>
+                                        
+                                    </ul>
+                                </div>
+                            
+
+                            
+
+                            <h4>Shop More Trees</h4>
+                            <div class="mega-subcats-wrap">
+                                <ul class="mega-subcats">
+                                    
+                                        <li><a href="http://www.waysidegardens.com/new-trees/c/WG_New_Trees_S12/">New Trees</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/acer/c/WG_G_1001_6/">Acer</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/cercis/c/WG_G_1001_93/">Cercis</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/cornus/c/WG_G_1001_120/">Cornus</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/ginkgo/c/WG_G_1001_193/">Ginkgo</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/magnolia/c/WG_G_1001_257/">Magnolia</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/picea/c/WG_G_1001_322/">Picea</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/thuja/c/WG_G_1001_393/">Thuja</a></li>
+                                    
+                                </ul>
+                            </div>
+
+
+
+                            <div class="mega-promos">
+
+
+
+
+
+
+
+                                
+
+
+
+
+                                
+
+                            </div>
+                        </div>
+                    
+                </li>
+            
+                
+                <li>
+                    <a href="http://www.waysidegardens.com/shrubs/c/WG_Shrubs/">Shrubs</a>
+
+                    
+                        <div class="mega-box rounded-bottom drop-shadow">
+                            <h3>Shrubs</h3>
+
+                            
+                                <div class="mega-featured">
+                                    <ul>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/buddleia/c/WG_G_1001_64/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_buddleia.jpg" alt="Buddleia" title="Buddleia">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/buddleia/c/WG_G_1001_64/">Buddleia</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/hydrangea/c/WG_G_1001_214/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_hydrangea.jpg" alt="Hydrangea" title="Hydrangea">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/hydrangea/c/WG_G_1001_214/">Hydrangea</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/kalmia/c/WG_G_1001_229/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_kalmia.jpg" alt="Kalmia" title="Kalmia">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/kalmia/c/WG_G_1001_229/">Kalmia</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/rhododendron/c/WG_G_1001_347/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_rhododendron.jpg" alt="Rhododendron" title="Rhododendron">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/rhododendron/c/WG_G_1001_347/">Rhododendron</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/syringa/c/WG_G_1001_386/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_syringa.jpg" alt="Syringa" title="Syringa">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/syringa/c/WG_G_1001_386/">Syringa</a></p>
+                                        </li>
+                                        
+                                    </ul>
+                                </div>
+                            
+
+                            
+
+                            <h4>Shop More Shrubs</h4>
+                            <div class="mega-subcats-wrap">
+                                <ul class="mega-subcats">
+                                    
+                                        <li><a href="http://www.waysidegardens.com/new-shrubs/c/WG_New_Shrubs_S12/">New Shrubs</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/buddleia/c/WG_G_1001_64/">Buddleia</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/chaenomeles/c/WG_G_1001_95/">Chaenomeles</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/daphne/c/WG_G_1001_140/">Daphne</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/hibiscus/c/WG_G_1001_210/">Hibiscus</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/hydrangea/c/WG_G_1001_214/">Hydrangea</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/kalmia/c/WG_G_1001_229/">Kalmia</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/lavandula/c/WG_G_1001_239/">Lavandula</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/pieris/c/WG_G_1001_323/">Pieris</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/rhododendron/c/WG_G_1001_347/">Rhododendron</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/syringa/c/WG_G_1001_386/">Syringa</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/viburnum/c/WG_G_1001_411/">Viburnum</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/weigela/c/WG_G_1001_417/">Weigela</a></li>
+                                    
+                                </ul>
+                            </div>
+
+
+
+                            <div class="mega-promos">
+
+
+
+
+
+
+
+                                
+
+
+
+
+                                
+
+                            </div>
+                        </div>
+                    
+                </li>
+            
+                
+                <li>
+                    <a href="http://www.waysidegardens.com/roses/c/WG_Roses/">Roses</a>
+
+                    
+                        <div class="mega-box rounded-bottom drop-shadow">
+                            <h3>Roses</h3>
+
+                            
+                                <div class="mega-featured">
+                                    <ul>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/aars-winners/c/WG_AARS_Winners/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_aars.jpg" alt="AARS Winners" title="AARS Winners">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/aars-winners/c/WG_AARS_Winners/">AARS Winners</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/climbing-roses/c/WG_Climbing_Roses_S12/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_climbing_roses.jpg" alt="Climbing Roses" title="Climbing Roses">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/climbing-roses/c/WG_Climbing_Roses_S12/">Climbing Roses</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/fragrant-roses/c/WG_Fragrant_Roses/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_fragrant_roses.jpg" alt="Fragrant Roses" title="Fragrant Roses">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/fragrant-roses/c/WG_Fragrant_Roses/">Fragrant Roses</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/hybrid-teas/c/WG_HybridTeas/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_hybrid_teas.jpg" alt="Hybrid Teas" title="Hybrid Teas">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/hybrid-teas/c/WG_HybridTeas/">Hybrid Teas</a></p>
+                                        </li>
+                                        
+                                    </ul>
+                                </div>
+                            
+
+                            
+
+                            <h4>Shop More Roses</h4>
+                            <div class="mega-subcats-wrap">
+                                <ul class="mega-subcats">
+                                    
+                                        <li><a href="http://www.waysidegardens.com/rosa/c/WG_G_1001_349/">All Roses</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/new-roses/c/WG_New_Roses_S12/">New Roses</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/aars-winners/c/WG_AARS_Winners/">AARS Winners</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/climbing-roses/c/WG_Climbing_Roses_S12/">Climbing Roses</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/fragrant-roses/c/WG_Fragrant_Roses/">Fragrant Roses</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/hybrid-teas/c/WG_HybridTeas/">Hybrid Teas</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/knock-outreg-roses/c/WG_Knock_Out_Roses/">Knock Out® Roses</a></li>
+                                    
+                                </ul>
+                            </div>
+
+
+
+                            <div class="mega-promos">
+
+
+
+
+
+
+
+                                
+
+
+
+
+                                
+
+                            </div>
+                        </div>
+                    
+                </li>
+            
+                
+                <li>
+                    <a href="http://www.waysidegardens.com/vines-climbers/c/WG_VinesClimbers/">Vines &amp; Climbers</a>
+
+                    
+                        <div class="mega-box rounded-bottom drop-shadow">
+                            <h3>Vines &amp; Climbers</h3>
+
+                            
+                                <div class="mega-featured">
+                                    <ul>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/campsis/c/WG_G_1001_79/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_campsis.jpg" alt="Campsis" title="Campsis">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/campsis/c/WG_G_1001_79/">Campsis</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/clematis/c/WG_G_1001_107/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_clematis.jpg" alt="Clematis" title="Clematis">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/clematis/c/WG_G_1001_107/">Clematis</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/lonicera/c/WG_G_1001_252/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_lonicera.jpg" alt="Lonicera" title="Lonicera">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/lonicera/c/WG_G_1001_252/">Lonicera</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/wisteria/c/WG_G_1001_418/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_wisteria.jpg" alt="Wisteria" title="Wisteria">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/wisteria/c/WG_G_1001_418/">Wisteria</a></p>
+                                        </li>
+                                        
+                                    </ul>
+                                </div>
+                            
+
+                            
+
+                            <h4>Shop More Vines &amp; Climbers</h4>
+                            <div class="mega-subcats-wrap">
+                                <ul class="mega-subcats">
+                                    
+                                        <li><a href="http://www.waysidegardens.com/new-vines/c/WG_New_Vines_S12/">New Vines</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/actinidia/c/WG_G_1001_13/">Actinidia</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/campsis/c/WG_G_1001_79/">Campsis</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/clematis/c/WG_G_1001_107/">Clematis</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/climbing-roses/c/WG_Climbing_Roses_S12/">Climbing Roses</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/lonicera/c/WG_G_1001_252/">Lonicera</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/wisteria/c/WG_G_1001_418/">Wisteria</a></li>
+                                    
+                                </ul>
+                            </div>
+
+
+
+                            <div class="mega-promos">
+
+
+
+
+
+
+
+                                
+
+
+
+
+                                
+
+                            </div>
+                        </div>
+                    
+                </li>
+            
+                
+                <li>
+                    <a href="http://www.waysidegardens.com/edibles/c/WG_Edibles/">Edibles</a>
+
+                    
+                        <div class="mega-box rounded-bottom drop-shadow">
+                            <h3>Edibles</h3>
+
+                            
+                                <div class="mega-featured">
+                                    <ul>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/malus/c/WG_G_1001_259/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_apple.jpg" alt="Apple" title="Apple">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/malus/c/WG_G_1001_259/">Apple</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/vaccinium/c/WG_G_1001_407/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_blueberry.jpg" alt="Blueberry" title="Blueberry">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/vaccinium/c/WG_G_1001_407/">Blueberry</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/citrus/c/WG_G_1001_106/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_citrus_lemon.jpg" alt="Citrus" title="Citrus">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/citrus/c/WG_G_1001_106/">Citrus</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/vitis/c/WG_G_1001_416/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_grape.jpg" alt="Grape" title="Grape">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/vitis/c/WG_G_1001_416/">Grape</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/punica/c/WG_G_1001_340/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_pomegranate.jpg" alt="Pomegranate" title="Pomegranate">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/punica/c/WG_G_1001_340/">Pomegranate</a></p>
+                                        </li>
+                                        
+                                    </ul>
+                                </div>
+                            
+
+                            
+
+                            <h4>Shop More Edibles</h4>
+                            <div class="mega-subcats-wrap">
+                                <ul class="mega-subcats">
+                                    
+                                        <li><a href="http://www.waysidegardens.com/new-edibles/c/WG_New_Edibles_S12/">New Edibles</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/malus/c/WG_G_1001_259/">Apple</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/persea/c/WG_G_1001_314/">Avocado</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/vaccinium/c/WG_G_1001_407/">Blueberry</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/citrus/c/WG_G_1001_106/">Citrus</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/vitis/c/WG_G_1001_416/">Grape</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/punica/c/WG_G_1001_340/">Pomegranate</a></li>
+                                    
+                                </ul>
+                            </div>
+
+
+
+                            <div class="mega-promos">
+
+
+
+
+
+
+
+                                
+
+
+
+
+                                
+
+                            </div>
+                        </div>
+                    
+                </li>
+            
+                
+                <li>
+                    <a href="http://www.waysidegardens.com/supplies/c/WG_Supplies/">Supplies</a>
+
+                    
+                        <div class="mega-box rounded-bottom drop-shadow">
+                            <h3>Supplies</h3>
+
+                            
+                                <div class="mega-featured">
+                                    <ul>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/fertilizer-supplies/c/WG_Supplies_Fertilizer/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_fertilizer.jpg" alt="Fertilizer" title="Fertilizer">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/fertilizer-supplies/c/WG_Supplies_Fertilizer/">Fertilizer</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/irrigation-supplies/c/WG_Supplies_Irrigation/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_irrigation.jpg" alt="Irrigation" title="Irrigation">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/irrigation-supplies/c/WG_Supplies_Irrigation/">Irrigation</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/pest-control-supplies/c/WG_Supplies_Pest_Control/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_pest_control.jpg" alt="Pest Control" title="Pest Control">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/pest-control-supplies/c/WG_Supplies_Pest_Control/">Pest Control</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/planters/c/WG_Supplies_Planters/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_planters.jpg" alt="Planters" title="Planters">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/planters/c/WG_Supplies_Planters/">Planters</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/tools/c/WG_Supplies_Tools/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_tools.jpg" alt="Tools" title="Tools">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/tools/c/WG_Supplies_Tools/">Tools</a></p>
+                                        </li>
+                                        
+                                    </ul>
+                                </div>
+                            
+
+                            
+
+                            <h4>Shop More Supplies</h4>
+                            <div class="mega-subcats-wrap">
+                                <ul class="mega-subcats">
+                                    
+                                        <li><a href="http://www.waysidegardens.com/new-supplies/c/WG_New_Supllies/">New Supplies</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/composting-supplies/c/WG_Supplies_Composting/">Composting</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/fall-clean-up-supplies/c/WG_Supplies_Fall_Clean_Up/">Fall Clean Up</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/fertilizer-supplies/c/WG_Supplies_Fertilizer/">Fertilizer</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/hand-tools/c/WG_Supplies_HandTools/">Hand Tools</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/irrigation-supplies/c/WG_Supplies_Irrigation/">Irrigation</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/pest-control-supplies/c/WG_Supplies_Pest_Control/">Pest Control</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/planters/c/WG_Supplies_Planters/">Planters</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/raised-beds/c/WG_Supplies_RaisedBeds/">Raised Beds</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/support-supplies/c/WG_Supplies_Supports/">Support</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/tools/c/WG_Supplies_Tools/">Tools</a></li>
+                                    
+                                </ul>
+                            </div>
+
+
+
+                            <div class="mega-promos">
+
+
+
+
+
+
+
+                                
+
+
+
+
+                                
+
+                            </div>
+                        </div>
+                    
+                </li>
+            
+                
+                <li>
+                    <a href="http://www.waysidegardens.com/new-for-spring/c/WG_New_S12/">What's New</a>
+
+                    
+                        <div class="mega-box rounded-bottom drop-shadow">
+                            <h3>What's New</h3>
+
+                            
+                                <div class="mega-featured">
+                                    <ul>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/new-perennials/c/WG_New_Perennials_S12/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_new_perennials_s12.jpg" alt="New Perennials" title="New Perennials">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/new-perennials/c/WG_New_Perennials_S12/">New Perennials</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/new-trees/c/WG_New_Trees_S12/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_new_trees_s12.jpg" alt="New Trees" title="New Trees">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/new-trees/c/WG_New_Trees_S12/">New Trees</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/new-shrubs/c/WG_New_Shrubs_S12/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_new_shrubs_s12.jpg" alt="New Shrubs" title="New Shrubs">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/new-shrubs/c/WG_New_Shrubs_S12/">New Shrubs</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/new-roses/c/WG_New_Roses_S12/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_new_roses_s12.jpg" alt="New Roses" title="New Roses">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/new-roses/c/WG_New_Roses_S12/">New Roses</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/new-edibles/c/WG_New_Edibles_S12/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_new_edibles_s12.jpg" alt="New Edibles" title="New Edibles">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/new-edibles/c/WG_New_Edibles_S12/">New Edibles</a></p>
+                                        </li>
+                                        
+                                    </ul>
+                                </div>
+                            
+
+                            
+
+                            <h4>Shop More What's New</h4>
+                            <div class="mega-subcats-wrap">
+                                <ul class="mega-subcats">
+                                    
+                                        <li><a href="http://www.waysidegardens.com/new-perennials/c/WG_New_Perennials_S12/">New Perennials</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/new-bulbs/c/WG_New_Bulbs_S12/">New Bulbs</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/new-roses/c/WG_New_Roses_S12/">New Roses</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/new-trees/c/WG_New_Trees_S12/">New Trees</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/new-shrubs/c/WG_New_Shrubs_S12/">New Shrubs</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/new-vines/c/WG_New_Vines_S12/">New Vines</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/new-edibles/c/WG_New_Edibles_S12/">New Edibles</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/new-supplies/c/WG_New_Supplies_S12/">New Supplies</a></li>
+                                    
+                                </ul>
+                            </div>
+
+
+
+                            <div class="mega-promos">
+
+
+
+
+
+
+
+                                
+
+
+
+
+                                
+
+                            </div>
+                        </div>
+                    
+                </li>
+            
+                
+                <li>
+                    <a href="http://www.waysidegardens.com/featured-items/c/WG_FeaturedItems/">Featured Selections</a>
+
+                    
+                        <div class="mega-box rounded-bottom drop-shadow">
+                            <h3>Featured Selections</h3>
+
+                            
+                                <div class="mega-featured">
+                                    <ul>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/new-for-spring/c/WG_New_S12/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_new_s12.jpg" alt="What's New" title="What's New">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/new-for-spring/c/WG_New_S12/">What's New</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/featured-selections/c/WG_Featured_Test_S12/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_featured_selections_s12.jpg" alt="Featured Selections" title="Featured Selections">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/featured-selections/c/WG_Featured_Test_S12/">Featured Selections</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/gift-certificates/c/WG_GiftCertificates/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_gift_certificates.jpg" alt="Gift Certificates" title="Gift Certificates">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/gift-certificates/c/WG_GiftCertificates/">Gift Certificates</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/internet-exclusives/c/WG_InternetExclusives/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_internetexclusives.jpg" alt="Internet Exclusives" title="Internet Exclusives">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/internet-exclusives/c/WG_InternetExclusives/">Internet Exclusives</a></p>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="http://www.waysidegardens.com/wayside-exclusives/c/WG_Exclusives_S12/">
+                                                
+                                                        <img width="90" height="90" src="http://parkseed.com/images/art/wg_megacat_exclusives_s12.jpg" alt="Wayside Exclusives" title="Wayside Exclusives">
+                                                    
+                                            </a>
+                                            <p><a href="http://www.waysidegardens.com/wayside-exclusives/c/WG_Exclusives_S12/">Wayside Exclusives</a></p>
+                                        </li>
+                                        
+                                    </ul>
+                                </div>
+                            
+
+                            
+
+                            <h4>Shop More Featured Selections</h4>
+                            <div class="mega-subcats-wrap">
+                                <ul class="mega-subcats">
+                                    
+                                        <li><a href="http://www.waysidegardens.com/new-for-spring/c/WG_New_S12/">What's New</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/featured-selections/c/WG_Featured_Test_S12/">Featured Selections</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/gifts/c/WG_Gifts/">Gifts</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/gift-certificates/c/WG_GiftCertificates/">Gift Certificates</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/internet-exclusives/c/WG_InternetExclusives/">Internet Exclusives</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/wayside-classics/c/WG_Classics/">Wayside's Classic Selections</a></li>
+                                    
+                                        <li><a href="http://www.waysidegardens.com/wayside-exclusives/c/WG_Exclusives_S12/">Wayside Exclusives</a></li>
+                                    
+                                </ul>
+                            </div>
+
+
+
+                            <div class="mega-promos">
+
+
+
+
+
+
+
+                                
+
+
+
+
+                                
+
+                            </div>
+                        </div>
+                    
+                </li>
+            
+                
+                <li>
+                    <a href="http://www.waysidegardens.com/gift-certificates/c/WG_GiftCertificates/">Gift Certificates</a>
+
+                    
+                </li>
+            
+        </ul>
+    </div> <!-- nav-main -->
+    <div style="clear:both"></div>
+</div> <!-- nav-main-wrap -->
+
+
+
+
+    <div id="content-wrap">
+        <div id="content" class="two-col leftsidebar page-width">
+            <div id="left-col">
+                
+
+
+
+<div id="newsletter-wrap" class="column-box">
+       
+<h3>Newsletter Sign Up</h3>
+<p>Our Newsletter mailing list provides gardeners with advanced notice of new products and limited supply items, rock-bottom prices, special bonus codes and deals, gardening tips, contests, and more.</p>
+             
+<form name="NewsletterSignup" id="form_newsletter" method="post" value="NewsletterSignup">
+  <input type="hidden" name="formName" value="dmiformNewsletterSignUp">
+  <input type="hidden" name="NickName" value="wayside">
+  <input type="hidden" name="referer" value="/article.aspx?a=322">
+
+<input type="text" size="20" name="email" title="Enter your e-mail address">
+<input type="submit" value="Sign Up">      
               
-              
+
+
+
+
+
+
+</form>
+
+
+</div> <!-- newsletter-wrap -->
 
 
 
@@ -350,199 +1351,385 @@ function preloadimages(){
 
 
 
-	<!-- Main content starts here -->
-<script>
-  function changeCat(frm, thisbox) {
-     var optiontxt = thisbox.options[thisbox.selectedIndex].value;
-     if (optiontxt == "0") return;
-     else location.href = optiontxt
-  }
-</script>
 
-	 <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-       <tbody><tr>
-         <td colspan="2" align="center"><img src="/web_images/Wayside/headers/CustServHead.gif" width="590" height="50"></td>
-       </tr>
-       <tr>
-         <td width="160" align="left" valign="middle"><img src="/web_images/Wayside/headers/PrivacyPolicy.gif" width="145" height="15"></td>
-         <td align="left"><select name="subCatdd" onchange="changeCat(this.form,this)">
-             <option value="http://www.waysidegardens.com/gardening/Wayside/MP.aboutus">About Us</option>
-             <option value="http://www.waysidegardens.com/gardening/Wayside/MP.FAQWGIndex">FAQs</option>
-             <option value="http://www.waysidegardens.com/gardening/Wayside/MP.guarantee">Our Guarantee</option>
-             <option value="http://www.waysidegardens.com/gardening/Wayside/MP.shipinfo">Shipping Information</option>
-             <option value="http://www.waysidegardens.com/gardening/Wayside/MP.PrivacyPolicy" selected="selected">Privacy and Security</option>
-             <option value="http://www.waysidegardens.com/gardening/Wayside/MP.billofrights">Terms of Use</option>
-             <option value="http://www.waysidegardens.com/gardening/Wayside/MP.feedbackform">Contact Us</option>
-             <option value="http://www.waysidegardens.com/gardening/Wayside/MP.directions">Driving Directions</option>
-             <option value="http://www.waysidegardens.com/gardening/Wayside/GP.waysideaffiliate">Become An Affiliate</option>
-         </select></td>
-       </tr>
-     </tbody></table>
-	<p>Thank you for visiting our website! <br>
-	This website ("WaysideGardens.com") is owned by George W. Park Seed Company, Inc. It is our policy to protect your personal information and to use it in accordance with this Privacy Policy. Please take a few moments to review our Privacy Policy.
+            </div> <!-- left-col -->
+            <div id="center-col">
+                
 
-	</p><p><span class="privacyHead">Information Collection and Use<br></span>
+    
+        
+ 
+
+
+    
+    
+        
+    
+
+    
+    
+        
+
+
+    
+
+
+  <h1>
+    Privacy Policy
+  </h1>
+            
+  <p>
+    This website ("WaysideGardens.com") is owned by JPPA, Inc. It is our policy to protect your personal information and to use it in accordance with this Privacy Policy. Please take a few moments to review our Privacy Policy.
+
+	</p>
+<p><strong>Information Collection and Use</strong></p>
+<p>
 	Wayside Gardens asks you to provide certain personally identifiable information in order to use certain "Password Required" features and functions of the website. By providing such information, you consent to our collection and use of it, as described in this Privacy Policy. 
 
-	</p><p>The information you provide may include information provided during the registration process, including contact information, such as your name, address and email address, and financial information, such as a credit card number, if you order products or services through the website. This information will be used to process your order and if necessary, to contact you regarding the status of your order. 
+	</p>
+<p>The information you provide may include information provided during the registration process, including contact information, such as your name, address and email address, and financial information, such as a credit card number, if you order products or services through the website. This information will be used to process your order and if necessary, to contact you regarding the status of your order. 
 
-	</p><p>Information that you provide is the property of Wayside Gardens Company, Inc. All of the information that you provide may be used by Wayside Gardens to better serve you. Wayside Gardens may also use this information to contact you about new specials, catalogs, products and other opportunities. Ways we use information include: 
+	</p>
+<p>Information that you provide is the property of Wayside Gardens Company, Inc. All of the information that you provide may be used by Wayside Gardens to better serve you. Wayside Gardens may also use this information to contact you about new specials, catalogs, products and other opportunities. Ways we use information include: 
 
-	</p><p>You can contact Wayside Gardens directly with questions or comments regarding the services by using the Wayside Gardens <a href="StoreCatalogDisplay?catalogId=10151&amp;storeId=10151&amp;langId=-1&amp;mainPage=feedbackform">contact inquiry form</a>. This contact inquiry form asks you for certain identifying information so that Wayside Gardens may respond to your inquiry. 
+	</p>
+<p>You can contact Wayside Gardens directly with questions or comments regarding the services by using the Wayside Gardens contact inquiry form. This contact inquiry form asks you for certain identifying information so that Wayside Gardens may respond to your inquiry. 
 
-	</p><p>Wayside Gardens may use your contact information to get in touch with you regarding the status of your registration or any orders you may place. You may also be contacted by us regarding additional services and features or requesting syour feedback about your experience with WaysideGardens.com. 
+	</p>
+<p>Wayside Gardens may use your contact information to get in touch with you regarding the status of your registration or any orders you may place. You may also be contacted by us regarding additional services and features or requesting your feedback about your experience with WaysideGardens.com. 
 
-	</p><p>WaysideGardens.com may provide you with bulletin boards and chat rooms for your use. In the event you voluntarily disclose personally identifiable information using such services, that information, along with any content in your communication or post, can be collected, correlated and used by third parties. This may result in unsolicited messages from third parties. Such activities are beyond the control of Wayside Gardens. Wayside Gardens does not assume any duty to monitor or review the contents of any bulletin board or chat room.
+	</p>
+<p>WaysideGardens.com may provide you with bulletin boards and chat rooms for your use. In the event you voluntarily disclose personally identifiable information using such services, that information, along with any content in your communication or post, can be collected, correlated and used by third parties. This may result in unsolicited messages from third parties. Such activities are beyond the control of Wayside Gardens. Wayside Gardens does not assume any duty to monitor or review the contents of any bulletin board or chat room.
 
-	</p><p>Where technically feasible, the domain names of visitors to WaysideGardens.com are automatically recognized by our server. Wayside Gardens may use this information to track the number of visitors to the WaysideGardens.com website and to see which pages and services on WaysideGardens.com are visited most often.
+	</p>
+<p>Where technically feasible, the domain names of visitors to WaysideGardens.com are automatically recognized by our server. Wayside Gardens may use this information to track the number of visitors to the WaysideGardens.com website and to see which pages and services on WaysideGardens.com are visited most often.
 
-	</p><p>The WaysideGardens.com optional on-line survey generally asks for demographic information like your gender, age, etc. to help us get to know you and better understand your gardening needs. This data is used to personalize your experience at WaysideGardens.com by displaying content according to your preferences. We hope this will enhance your experience with the WaysideGardens.com site.
+	</p>
+<p>The WaysideGardens.com optional on-line survey generally asks for demographic information like your gender, age, etc. to help us get to know you and better understand your gardening needs. This data is used to personalize your experience at WaysideGardens.com by displaying content according to your preferences. We hope this will enhance your experience with the WaysideGardens.com site.
 
-	</p><p>Wayside Gardens may provide links on WaysideGardens.com to other sites of interest. Wayside Gardens does not review or endorse the content of these sites or guarantee that they will abide by this Privacy Policy. Your use of such linked sites
+	</p>
+<p>Wayside Gardens may provide links on WaysideGardens.com to other sites of interest. Wayside Gardens does not review or endorse the content of these sites or guarantee that they will abide by this Privacy Policy. Your use of such linked sites
 	is subject to the terms and conditions and privacy policies of the providers of those sites. We encourage our users to be aware when they leave our website and to read the privacy statements of each website that collects identifying information.
 
-	</p><p>Please note that your use of the WaysideGardens.com website and services is subject to WaysideGardens.com's <a href="StoreCatalogDisplay?catalogId=10151&amp;storeId=10151&amp;langId=-1&amp;mainPage=billofrights">Terms
+	</p>
+<p>Please note that your use of the WaysideGardens.com website and services is subject to WaysideGardens.com's <a href="/330/a/330">Terms
 	and Conditions.</a> 
 
-	</p><p><span class="privacyHead">Sharing Your Information<br></span>
-	Wayside Gardens recognizes that gardeners may want products other than the high-quality seeds, plants, bulbs and accessories that we offer. Therefore, from time to time, Wayside Gardens may make customer information available to other reputable companies whose products or services we think you might find interesting. Please remember that, although Wayside Gardens endeavors to select only reputable companies who share our commitment to customer privacy, we are in no way responsible for the actions or policies of these other organizations. If you do not want to share your information with such other companies, call us at 1-800-213-0379 to speak to a customer service representative, email us at <a href="mailto:info@waysidecs.com">info@waysidecs.com</a>, fill out our online <a href="StoreCatalogDisplay?catalogId=10151&amp;storeId=10151&amp;langId=-1&amp;mainPage=optoutmail">opt-out form</a>, or send a postcard to: Mailing Address Don't Share, Wayside Gardens Company, 1 Garden Lane, Hodges SC 29695-0001.  Be sure to include your own mailing address on your postcard or email.
+	</p>
+<p><strong>Sharing Your Information</strong><br><br>
+	Wayside Gardens recognizes that gardeners may want products other than the high-quality plants, bulbs and accessories that we offer. Therefore, from time to time, Wayside Gardens may make customer information available to other reputable companies whose products or services we think you might find interesting. Please remember that, although Wayside Gardens endeavors to select only reputable companies who share our commitment to customer privacy, we are in no way responsible for the actions or policies of these other organizations. If you do not want to share your information with such other companies, call us at 1-800-845-1124 to speak to a customer service representative, email us at <a href="mailto:info@waysidegardens.com">info@waysidegardens.com</a>, or send a postcard to: Mailing Address Don't Share, Wayside Gardens Company, 1 Garden Lane, Hodges SC 29695-0001.  Be sure to include your own mailing address on your postcard or email.
 
-	</p><p><span class="privacyHead">Other Uses of Information<br></span>
+	</p>
+<p><strong>Other Uses of Information</strong><br><br>
 	The only other instances in which Wayside Gardens discloses your identifying information to third parties are:<br>
 	when it is required by law; when it is necessary to distribute materials that you request; and when you expressly request that your information be disclosed.<br>
-	
 
-	</p><p><span class="privacyHead">Business Transfers <br></span>
+	</p>
+<p><strong>Business Transfers </strong><br><br>
 	We may buy or sell operating divisions, companies or other business assets or be acquired by another company. In such  transactions, customer information generally is one of the transferred business assets.
 
-	</p><p><span class="privacyHead">Use of Cookies</span> <br>
+	</p>
+<p><strong>Use of Cookies</strong> <br><br>
 	The use of cookies enables Wayside Gardens to enhance your visits to the WaysideGardens.com website. Cookies enable WaysideGardens.com systems to recognize your browser and provide features that are tailored to your gardening needs. For example, cookies enable us to record the items in your shopping cart. Wayside Gardens uses this information to monitor product sales which help us to plan future offerings.
 
-	</p><p><span class="privacyHead"> Accessing and Updating Your Information</span> <br>
+	</p>
+<p><strong> Accessing and Updating Your Information</strong> <br><br>
 	You can always choose not to provide information, to opt-out of receiving communications from us or to update your information at any time. WaysideGardens.com gives users the following options: 
 
 	</p><ol>
-		<li>Use the "Change Preferences" feature after entering your member name and password to receive access to your account page. At this location, you can subscribe or unsubscribe from our e-mail newsletters and you can update any information that you have provided to us. 
-		</li><li>Click on the "Unsubscribe" link included at the bottom of each of our e-mails and follow the instructions on the web page.
-		</li><li>Send an e-mail to our friendly Customer Service representatives at <a href="mailto:info@waysidecs.com">info@waysidecs.com</a>.
-		</li><li>Call our Customer Service representatives toll free at (800) 213-0379. 
-		</li><li>Drop us a line. Send mail to the following postal address: Wayside Gardens, 1 Garden Lane, Hodges, SC 29695
-	</li></ol>
+		<li style="color: #000000">Use the "Change Preferences" feature after entering your member name and password to receive access to your account page. At this location, you can subscribe or unsubscribe from our e-mail newsletters and you can update any information that you have provided to us.</li>
+		<li style="color: #000000">Click on the "Unsubscribe" link included at the bottom of each of our e-mails and follow the instructions on the web page.</li>
+		<li style="color: #000000">Send an e-mail to our friendly Customer Service representatives at <a href="mailto:info@waysidegardens.com">info@waysidegardens.com</a>.</li>
+		<li style="color: #000000">Call our Customer Service representatives toll free at (800) 845-1124.</li>
+		<li style="color: #000000">Drop us a line. Send mail to the following postal address: Wayside Gardens, 1 Garden Lane, Hodges, SC 29695.</li>
+	</ol>
 
-	<p><span class="privacyHead">Security Measures <br></span>
+	<p></p>
+<p><strong>Security Measures </strong><br><br>
 	We work hard to protect the security of your information by using Secure Socket Layer (SSL) technology, the current standard for secure transactions over the Internet. There are some simple measures that you can take to promote protection of your information. First, to help protect the security of your account, do not share your password with others. Also, remember to "log-off" after using any of our on-line services when you have finished using the website. While Wayside Gardens strives to protect your information by using SSL and through measures to protect our system, such security cannot be ensured. Consequently, Wayside Gardens does not ensure or warrant the security of information you transmit, and you do so at your own risk.
 
-	</p><p class="headerText">Encryption</p>
+	</p><h2 style="color: #132461"><p class="headerText">Encryption</p></h2>
 
-	<p><b>What is Encryption?</b>
+	<p></p>
+<p><strong>What is Encryption?</strong>
 
-	</p><p>Encryption is a process by which we use software to scramble sensitive information while it is in transit to Wayside Gardens.
+	</p>
+<p>Encryption is a process by which we use software to scramble sensitive information while it is in transit to Wayside Gardens.
 
-	</p><p>Please take a moment to read about the steps that we have taken to help protect your information and make your online transmissions safer. We also invite you to review the steps you can take to help protect yourself further.
+	</p>
+<p>Please take a moment to read about the steps that we have taken to help protect your information and make your online transmissions safer. We also invite you to review the steps you can take to help protect yourself further.
 
-	</p><p><b>How Does Encryption Work?</b>
+	</p>
+<p><strong>How Does Encryption Work?</strong>
 
-	</p><p>Encryption is based on a key that has two different parts. The public part and the private part. The public part of the key is distributed to those you want to communicate with. The private part is for the recipient's use only.
+	</p>
+<p>Encryption is based on a key that has two different parts. The public part and the private part. The public part of the key is distributed to those you want to communicate with. The private part is for the recipient's use only.
 
-	</p><p>When you send personal information to WaysideGardens.com, you use Wayside Gardens's public key to encrypt your personal information. That means, if at any point during the transmission your information is intercepted, it is scrambled and very difficult to decrypt. Once Wayside Gardens receives your encrypted personal information, we use the private part of our key to decode it.
+	</p>
+<p>When you send personal information to WaysideGardens.com, you use Wayside Gardens's public key to encrypt your personal information. That means, if at any point during the transmission your information is intercepted, it is scrambled and very difficult to decrypt. Once Wayside Gardens receives your encrypted personal information, we use the private part of our key to decode it.
 
-	</p><p><b>What Kind of Encryption Software Does Wayside Gardens Use?</b>
+	</p>
+<p><strong>What Kind of Encryption Software Does Wayside Gardens Use?</strong>
 
-	</p><p>Wayside Gardens currently uses the industry-standard SSL (Secure Sockets Layer) encryption. But we continue to keep up with the current technologies in order to provide the best security for our customers.
+	</p>
+<p>Wayside Gardens currently uses the industry-standard SSL (Secure Sockets Layer) encryption. But we continue to keep up with the current technologies in order to provide the best security for our customers.
 
-	</p><p><b>What Information Does Wayside Gardens Encrypt?</b>
+	</p>
+<p><strong>What Information Does Wayside Gardens Encrypt?</strong>
 
-	</p><p>Wayside Gardens encrypts all personal information you give us when you place an order online. Remember, if you feel uncomfortable providing any of this information online, please feel free to call one of our representatives at 1-800-213-0379.
+	</p>
+<p>Wayside Gardens encrypts all personal information you give us when you place an order online. Remember, if you feel uncomfortable providing any of this information online, please feel free to call one of our representatives at 1-800-845-1124.
 
 
-	</p><p><b>How Safe is Encryption Really?</b>
+	</p>
+<p><strong>How Safe is Encryption Really?</strong>
 
-	</p><p>Providing encrypted information online is as safe as doing it over the phone.
+	</p>
+<p>Providing encrypted information online is as safe as doing it over the phone.
 
-	</p><p><span class="privacyHead">Privacy Policy Changes<br></span>
+	</p>
+<p><strong>Privacy Policy Changes</strong><br>
 	WaysideGardens.com may update this Privacy Policy from time to time to better serve you. We encourage you to review this Privacy Policy periodically.
 
-	</p><p><span class="privacyHead">For Further Information</span> <br>
+	</p>
+<p><strong>For Further Information</strong> <br>
 	If you choose to visit WaysideGardens.com, your visit and any dispute over privacy is subject to this Privacy Policy. If you have questions or comments concerning this Privacy Policy, you may contact us at: <br>
 
 	</p><blockquote>
 	  Wayside Gardens<br>
 	  1 Garden Lane<br>
 	  Hodges, SC 29695<br>
-	  Phone: (800) 213-0379<br>
-	  Fax: (864) 941-4506 E-mail: <a href="mailto:info@waysidecs.com">info@waysidecs.com</a>
-	</blockquote>
-         
-          </td>
-  </tr>
-</tbody></table>
-</td>
-          <td width="11" class="wayLight"><img src="/web_images/Wayside/misc/spacer2.gif" width="10" height="1">       </td>
-        </tr>
+	  Phone: (800) 845-1124<br>
+	  Fax: (864) 941-4506 E-mail: <a href="mailto:info@waysidegardens.com">info@waysidegardens.com</a>
+	</blockquote>       
+  <p></p>
+
+
+            </div> <!-- center-col -->
+        </div> <!-- content -->
+    </div> <!-- content-wrap -->
+    
+
+<div id="footer-wrap">
+    <div id="footer" class="page-width">
+
+
+<div id="footer-tools-newsletter" style="margin-bottom:10px; overflow:hidden;">
+                <form name="NewsletterSignup" id="form_newsletter" method="post" value="NewsletterSignup">
+                    <input type="hidden" name="formName" value="dmiformNewsletterSignUp">
+                    <input type="hidden" name="referer" value="/article.aspx?a=322">
         
-        <tr class="wayDark">
-          <td colspan="5" align="center" class="bodyText">
+                    <!--<img src="/images/art/newslettersignup.jpg" align="left" width="110" height="100" /> -->
+                    <p id="email-signup"><strong id="email-signup">Our Newsletter</strong> mailing list provides gardeners with advanced notice of new products and limited supply items, rock-bottom prices, special bonus codes and deals, gardening tips, contests, and more.</p>
+                  
+                    
+
+                    
+
+                     
+
+                    <div id="email-signup">
+  <input type="hidden" name="NickName" value="wayside">
+                    <input type="text" title="Enter your e-mail address" name="email">  <span class="buttons"><button class="standard green" type="submit"><span>Sign Up</span></button></span>
+                    </div>
+
+                    
+                    
+                  </form> 
+
+            </div> <!-- footer-newsletter -->
 
 
+
+
+
+
+        <div id="footer-tools">
+             
+            <div id="footer-tools-contactus">
+                <h3 id="footer-contactus-h3">Contact Us</h3>
+                <div id="footer-tools-contactus-info">
+                   
+                    <h4 style="margin-top: 0px">Call us Toll Free</h4>
+                    <ul>
+                        <li>1-800-845-1124</li>
+                       <li>Monday-Friday 8 AM-6 PM ET
+                        </li><li>Saturday 8 AM-5 PM ET</li>
+                    </ul>
+                    <h4>Our Mailing Address</h4>
+<ul><li>
+                    Wayside Gardens<br>
+                    One Garden Lane<br>
+                    Hodges, SC 29653</li></ul>
+
+
+
+                </div> <!-- footer-tools-contactus-info -->
+
+                
+                <h4>Send us an Email</h4>
+                <ul>
+                    <li><a href="mailto:info@waysidegardens.com">info@waysidegardens.com</a></li>
+                </ul>
+            
+                <h4>Use Our Quick Response</h4>
+                <ul>
+                    <li><a href="/contactus/a/349/">Online Feedback Form</a></li>
+                </ul>
+           
+                <h4>Help Yourself</h4>
+                <ul>
+                    <li><a href="/FAQs/a/306/">Read our FAQ Pages</a></li>
+                    <li><a href="/customerservice/a/373/">Customer Service</a></li>
+                </ul>
+				<h4>Give the Gift of Gardening</h4>
+                <ul>
+                    <li><a href="/gift-certificates/c/WG_GiftCertificates/">Buy a Gift Certificate</a></li>
+                </ul>
+            </div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-like" style="margin-left: 10px; margin-top: 15px;" data-href="facebook.com/waysidegardens" data-send="true" data-width="400" data-show-faces="false"></div>
+<div class="twitter" style="margin-left: 10px; margin-top: 5px;"><a href="https://twitter.com/waysidegardens" class="twitter-follow-button">Follow @waysidegardens</a></div><script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
+
+
+        </div> <!-- footer-tools -->
+
+        <div id="footer-links">
+<h3 id="company-info">Company Information</h3>
+            <div id="footer-links-company">
+                <ul>    
+                    <li><a href="/about-us/a/300/">About Us</a></li>
+                    <li><a href="/root-strength/a/307/">The Wayside Difference</a></li>
+                    <!--<li><a href="/site-map/a/399/">Site Map</a></li>-->
+                    <li><a href="/our-guarantee/a/303/">Our Guarantee</a></li>
+                    <li><a href="/terms-conditions/a/330/">Terms &amp; Conditions</a></li>
+                    <li><a href="/privacy-statement/a/322/">Privacy Statement</a></li>
+                    <li><a href="/shipping-policies/a/304/">Shipping Policies</a></li>
+                    <li><a href="/affiliate-program/a/305/">Affiliate Program</a></li>
+                </ul>
+        
+                <h4>Partner Sites</h4>
+                  <a href="http://www.jacksonandperkins.com" target="_blank"><img src="/images/art/wg_jplogo.png" align="left" style="margin-bottom:5px; margin-top: 8px;"></a><br><br>
+                   <a href="http://www.parkseed.com" target="_blank"><img src="/images/art/wg_parklogo.png" align="left" style="margin-top: 8px;"></a>
+            </div>
+
+            <div id="footer-links-info">
+                <h4 style="margin-top: 0px;">Get Growing</h4>
+                <ul>
+                    <li><a href="/garden-guide/a/312/">Wayside's Gardening Guide</a></li>
+                    <li><a href="http://www.youtube.com/user/waysidegardens" target="_blank">Video Library</a></li>
+                    <li><a href="/usda-zone-map/a/351/">USDA Zone Map</a></li>
+                </ul>
+
+                <h4>Catalog</h4>
+                <ul>
+                    <li><a href="/view-ecatalog/a/301/">View E-Catalog</a></li>
+                    <li><a href="/catalogrequestpopup.aspx" class="iframe dialog">Request Catalog</a></li>
+                    <li><a href="/quickorder.aspx">Quick Order</a></li>
+                </ul>
+
+                <h4>You Might Also Like</h4>
+                <ul>
+                    <li><a href="http://www.waysidegardensvoices.com" target="_blank">Wayside's Garden Voices (Blog)</a></li>
+                    <!-- <li><a href="http://www.parkseedjournal.com" target="_blank">Park Seed Garden Journal (Blog)</a></li> -->
+                    <!--<li><a href="http://www.twofloralavenue.com" target="_blank">Two Floral Avenue (Blog)</a></li> -->
+                </ul>
+            </div>
+        </div> <!-- footer-links -->
+
+    </div> <!-- footer -->
+</div> <!-- footer-wrap -->
+
+<div id="footer-legal-wrap">
+    <div id="footer-legal" class="page-width">
+        <ul>
+            <li id="copyright">Copyright 1997-2011, J&amp;P Park Acquisitions, Inc.</li>
+            <li>Grow With Us</li>
+            <li class="facebook"><a href="http://facebook.com/waysidegardens"><span>Facebook</span></a></li>
+            <li class="twitter"><a href="http://twitter.com/WaysideGardens"><span>Twitter</span></a></li>
+            <li class="youtube"><a href="http://youtube.com/user/waysidegardens/"><span>YouTube</span></a></li>
+            <li class="flickr"><a href="http://www.flickr.com/photos/waysidegardens/"><span>Flickr</span></a></li>
+
+        </ul>
+    </div> <!-- footer-legal -->
+</div> <!-- footer-legal-wrap -->
+
+<!--<div style="background-color: #fff; border: 1px solid #000; position: absolute; top: 10px; right: 10px; text-align: right; font-size: 10px; padding: 4px;">MicroviewID:  100000000002 <br> MicroviewCategoryID: 100000005198</div>-->  
+</div> <!-- page [name] -->
+
+
+
+
+
+
+
+<!-- Mercury Mail Mode:  -->
+
+
+        <!-- Mercury Mail Code Begin -->
+        <!-- Mercury Mail status: Inactive -->
+        <!-- Mercury Mail Code End -->
+      
 
 
 
 
   
 
+<!-- standard google analytics begin -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try{
+  var pageTracker = _gat._getTracker("UA-10509669-3");
+  pageTracker._trackPageview();
+} 
+catch(err) {}
+</script>
+<!-- standard google analytics end -->				
 
-<img src="/web_images/Wayside/topbanner/footer_012007.gif" width="768" height="57" border="0" alt="" usemap="#footer_062006_Map">
 
-<p align="left"><span class="footer">* <strong>Express Shipping Upgrade details</strong>:   Offer good on any order using Bonus Code SHIPUP2 through 12am ET June 12, 2007, no minimum purchase required. Arrival date is subject to change with plant availability and hardiness zones open for shipment. Standard shipping charges will apply and are based on regular price of merchandise. This offer may not be combined with any other offer. FedEx® service marks used by permission.</span><br>
-<map name="footer_062006_Map">
-  <area shape="rect" alt="Home Page" coords="9,22,219,49" href="http://www.waysidegardens.com/gardening/Wayside/MP.page1">
-  <area shape="rect" alt="Order Status" coords="680,29,749,44" href="http://www.waysidegardens.com/gardening/Wayside/MP.orderstatus">
-  <area shape="rect" alt="Catalog Quick Order" coords="567,29,674,44" href="http://www.waysidegardens.com/gardening/Wayside/MP.newQuickOrder">
-  <area shape="rect" alt="Online Catalog" coords="480,29,560,45" href="http://www.waysidegardens.com/gardening/Wayside/MP.onlinecatalog">
-  <area shape="rect" alt="Free Catalog!" coords="390,31,472,44" href="http://www.waysidegardens.com/gardening/Wayside/MP.CatalogRequest">
-  <area shape="rect" alt="My Account" coords="318,29,383,44" href="http://www.waysidegardens.com/gardening/Wayside/MP.LoginForm">
-  <area shape="rect" alt="Money Saving Collections" coords="635,3,751,22" href="http://www.waysidegardens.com/gardening/Wayside/MP.homeInetOnly">
-  <area shape="rect" alt="Vines &amp; Climbers" coords="502,2,605,20" href="http://www.waysidegardens.com/gardening/Wayside/MP.gatevines">
-  <area shape="rect" alt="Trees" coords="347,2,400,20" href="http://www.waysidegardens.com/gardening/Wayside/MP.homeTrees">
-  <area shape="rect" alt="Roses" coords="272,2,325,20" href="http://www.waysidegardens.com/gardening/Wayside/MP.homeRoses">
-  <area shape="rect" alt="Bulbs" coords="204,2,258,20" href="http://www.waysidegardens.com/gardening/Wayside/MP.homeBulbs">
-  <area shape="rect" alt="Perennials" coords="110,4,181,18" href="http://www.waysidegardens.com/gardening/Wayside/MP.homePerennials">
-  <area shape="rect" alt="New Plants" coords="9,2,88,19" href="http://www.waysidegardens.com/gardening/Wayside/MP.newproducts">
-  <area shape="rect" alt="Shrubs" coords="422,3,472,18" href="http://www.waysidegardens.com/gardening/Wayside/MP.homeShrubs">
-</map>
-<!-- Footer Text Links -->
-</p><table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td class="footer" align="left"><em>Plants are shipped at the proper  planting time for your  region. <a href="http://www.waysidegardens.com/gardening/Wayside/MP.zonemap">Click here for details!</a></em></td>
-    <td class="footer" align="right"></td>
-  </tr>
-</tbody></table>
-<br>
-<span class="footer"><div align="left"><a href="http://www.waysidegardens.com/gardening/Wayside/MP.page1">Home Page</a> |
-	<a href="http://www.waysidegardens.com/gardening/Wayside/MP.newSubUnsub">Free Newsletter</a> | <a href="http://www.waysidegardens.com/gardening/Wayside/MP.webspecials">On Sale Today</a>  |
-	<a href="http://www.waysidegardens.com/gardening/Wayside/MP.sitemap">Site Map</a> | <a href="http://www.waysidegardens.com/gardening/Wayside/MP.shipinfo">Shipping Information</a>
-	 | 
-	<a href="http://www.waysidegardens.com/gardening/Wayside/GP.GG_Home"> Gardening Guide</a>|
-	<a href="http://www.waysidegardens.com/gardening/Wayside/GP.waysideaffiliate">Become an Affiliate</a> | <a href="http://www.waysidegardens.com/gardening/Wayside/MP.orderSEER">OrderSeer<sup>SM</sup></a> | <a href="http://www.waysidegardens.com/gardening/Wayside/MP.referafriend">Refer-a-Friend</a> <br>
-	<a href="http://www.waysidegardens.com/gardening/Wayside/MP.feedbackform">Contact Us</a> |
-			<a href="http://www.waysidegardens.com/gardening/Wayside/GP.Monrovia">Monrovia®</a> |
-			<a href="http://www.waysidegardens.com/gardening/Wayside/GP.ProvenWinners">Proven Winners®</a> |
-			<a href="http://www.waysidegardens.com/gardening/Wayside/GP.ColorChoice">ColorChoice®</a> |
-			<a href="http://www.waysidegardens.com/gardening/Wayside/GP.GardenDebut">Garden Debut®</a> | <strong>Blogs - </strong> <a href="http://www.waysidegardensvoices.com">Wayside Gardens Voices</a> | <a href="http://www.parkseedjournal.com">Park Seed Journal</a></div></span>
-<p align="center">
-	<span class="footer"><b>America's Source for Choice Perennials, Bulbs, Shrubs, and Roses</b><br>
-	Wayside Gardens | 1 Garden Lane | Hodges, SC 29695 | Toll Free 800-213-0379 &nbsp;&nbsp;&nbsp;<br>
-	<a href="mailto:info@waysidecs.com">info@waysidecs.com</a> &nbsp;&nbsp;&nbsp;www.waysidegardens.com &nbsp;&nbsp;&nbsp;<a href="http://www.waysidegardens.com/gardening/Wayside/MP.billofrights">© 1997-2007</a>, Wayside Gardens.</span>
+
+
+
+
+
+
+<script language="JavaScript"><!--
+{
+document.write("<img src=http://tracking.searchmarketing.com/welcome.asp?SMCID=480&x="+escape(document.referrer)+" width=1 height=1>");
+}
+//-->
+</script><img src="http://tracking.searchmarketing.com/welcome.asp?SMCID=480&amp;x=" width="1" height="1">
+
+
+
+
+
+
+
     
-</p></td>
-        </tr>
-      </tbody></table>
-      <script language="JavaScript"><!-- 
-      { 
-      	document.write("<img src=http://tracking.searchmarketing.com/welcome.asp?SMCID=480&x="+escape(document.referrer)+" width=1 height=1>"); 
-      }
-       //--> </script><img src="http://tracking.searchmarketing.com/welcome.asp?SMCID=480&amp;x=" width="1" height="1">
-    </center>
+
+
+
+
+
+
+
+
+
     
-	
+
+
+
 </body></html>
