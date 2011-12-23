@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babydow.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222110456id_/http%3A//www.babydow.com/terms/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babydow.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223035450id_/http%3A//www.babydow.com/terms/privacyPolicy) for the most accurate reproduction.*
 
-# Free online simulation game for girls - Babydow
+# Adopt a virtual baby - Babydow
 
 ## OWLIENT PRIVACY POLICY
 
