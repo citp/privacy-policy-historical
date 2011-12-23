@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sofmag.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623015308id_/http%3A//www.sofmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sofmag.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223212052id_/http%3A//www.sofmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Soldier of Fortune Magazine
 
