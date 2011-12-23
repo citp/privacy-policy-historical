@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scrubsmag.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607094935id_/http%3A//scrubsmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrubsmag.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224002307id_/http%3A//scrubsmag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Scrubs - The Leading Lifestyle Nursing Magazine Featuring Inspirational and Informational Nursing Articles
+# Privacy Policy | Scrubs – The Leading Lifestyle Nursing Magazine Featuring Inspirational and Informational Nursing Articles
 
 Thank you for visiting Scrubs Magazine. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by the Scrubs Editorial Team for Strategic Communications, Inc.
 
