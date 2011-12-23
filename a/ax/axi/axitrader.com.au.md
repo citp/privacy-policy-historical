@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the axitrader.com.au privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503220511id_/http%3A//www.axitrader.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axitrader.com.au privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # AxiTrader - Privacy Policy
 
 |  |  |   
 ---|---|---  
 |  |   
-|  |  [](https://web.archive.org/web/20110503220511id_/http%3A//www.axitrader.com.au/howto-fund-account.aspx)  
-[](https://web.archive.org/web/20110503220511id_/http%3A//www.axitrader.com.au/credit-card-funding.aspx)  
-[](https://web.archive.org/web/20110503220511id_/http%3A//www.axitrader.com.au/Market-News.aspx)  
-[](https://web.archive.org/web/20110503220511id_/http%3A//www.axitrader.com.au/Scholarship-Promotion.aspx)  
-[](https://web.archive.org/web/20110503220511id_/http%3A//www.axitrader.com.au/Education.aspx)  
-[](https://web.archive.org/web/20110503220511id_/http%3A//www.axitrader.com.au/attend-a-seminar.aspx)  
-[](https://web.archive.org/web/20110503220511id_/http%3A//www.axitrader.com.au/MYFX-Information.aspx)  
-[](https://web.archive.org/web/20110503220511id_/http%3A//www.axitrader.com.au/Trading-Challenge.aspx)  
+|  |  [](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/open-account.aspx)  
+[](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/howto-fund-account.aspx)  
+[](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/credit-card-funding.aspx)  
+[](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/Market-News.aspx)  
+[](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/Education.aspx)  
+[](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/attend-a-seminar.aspx)  
+[](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/Trading-Challenge.aspx)  
+[](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/MYFX-Information.aspx)  
 |  | | |   
 ---|---|---  
 | 
@@ -114,9 +114,8 @@ Mobile Number: 
 
 lblMessage
 
-[](https://web.archive.org/web/20110503220511id_/http%3A//www.axitrader.com.au/forex-trading-broker.aspx)  
-[](https://web.archive.org/web/20110503220511id_/http%3A//www.axitrader.com.au/open-account.aspx)  
-[](https://web.archive.org/web/20110503220511id_/http%3A//www.axitrader.com.au/introducing-brokers.aspx)  
-[](https://web.archive.org/web/20110503220511id_/http%3A//www.axitrader.com.au/metatrader-download-refer-a-lead.aspx)  
+[](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/forex-trading-broker.aspx)  
+[](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/introducing-brokers.aspx)  
+[](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/metatrader-download-refer-a-lead.aspx)  
   
-AxiCorp Financial Services Pty Ltd is regulated in Australia by ASIC. Australian Financial Services Licence No: 318232. view our [privacy policy](https://web.archive.org/web/20110503220511id_/http%3A//www.axitrader.com.au/privacy-policy.aspx) and [disclaimer](https://web.archive.org/web/20110503220511id_/http%3A//www.axitrader.com.au/P-Disclaimer.htm).
+AxiCorp Financial Services Pty Ltd is regulated in Australia by ASIC. Australian Financial Services Licence No: 318232. view our [privacy policy](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/privacy-policy.aspx) and [disclaimer](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/P-Disclaimer.htm).
