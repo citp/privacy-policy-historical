@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holeinthedonut.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625093511id_/http%3A//www.holeinthedonut.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holeinthedonut.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223170520id_/http%3A//www.holeinthedonut.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure, Privacy Policy | Hole In The Donut Cultural Travel
 
@@ -6,7 +6,7 @@
 
 Hole In The Donut is a personal blog written and edited by Barbara Ann Weibel. For questions about this blog, please contact me at donutmaster (at) holeinthedonut (dot) com.
 
-[](http://holeinthedonut.com/wp-content/uploads/2009/12/disclosure-badge.jpg)
+[](http://holeinthedonut.com/wp-content/uploads/2009/12/disclosure-badge.jpg?9d7bd4)
 
 I disclose
 
@@ -22,7 +22,7 @@ This blog does contain content which might present a conflict of interest. This 
 
 This disclosure policy is valid from 23 December 2009
 
-**PRIVACY POLICY:**
+ **PRIVACY POLICY:**
 
 Any personal information you provide, including your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of Hole In The Donut.
 
