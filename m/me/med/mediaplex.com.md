@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mediaplex.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528180955id_/http%3A//www.mediaplex.com/mojo-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaplex.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223051110id_/http%3A//www.mediaplex.com/mojo-privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Mediaplex
+# Privacy Statement | Mediaplex | Third-party ad server with integrated digital marketing suite
 
-Last Updated:  September 9, 2010
+Last Updated:  December 13, 2011
 
 **I. OVERVIEW**
 
@@ -74,9 +74,9 @@ Mediaplex also offers an "opt-out Cookie" to block the placement of future Media
 
 [ Click Here to Install Mediaplex Opt-out Cookie
 
-](https://web.archive.org/opt-out-complete)
+](https://web.archive.org/opt-out)
 
-Please note that use of the opt-out Cookie will affect Mediaplex’s ability to provide you content and advertisements that will more effectively match your interests, and may prevent us from controlling the frequency with which you may view any particular advertisement. Please report any problems related to the opt-out process to: customersupport@mediaplex.com.
+Please note that use of the opt-out Cookie will affect Mediaplex’s ability to provide you content and advertisements that will more effectively match your interests, and may prevent us from controlling the frequency with which you may view any particular advertisement. Please report any problems related to the opt-out process by filling out our [Corporate Feedback Form](http://www.valueclick.com/feedback?t=o&r=mplx-mpp01).
 
 Most Internet browsers give you the option of adjusting their settings which allow you to automatically refuse cookies either generally or from specific sites. To adjust these settings, we suggest that you contact the supplier of you browser and browser add-ons for more information.
 
@@ -111,7 +111,7 @@ The European Union ("EU") maintains strict privacy laws. These rules differ sign
 
 Mediaplex complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view the company's certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
-In compliance with the Safe Harbor Principles,we commit to resolve complaints about your privacy and our collection or use of your personal information.  In the first instance, European Union citizens with inquiries or complaints regarding this privacy policy should first contact: [customersupport@mediaplex.com](mailto:customersupport@mediaplex.com).  Mediaplex has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. Thus, if you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Mediaplex you may contact:  
+In compliance with the Safe Harbor Principles,we commit to resolve complaints about your privacy and our collection or use of your personal information.  In the first instance, European Union citizens with inquiries or complaints regarding this privacy policy should first fill out our [Corporate Feedback Form](http://www.valueclick.com/feedback?t=p&r=mplx-mpp01).  Mediaplex has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. Thus, if you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Mediaplex you may contact:  
 
 Council of Better Business Bureaus, Inc.  
 BBB EU Safe Harbor  
@@ -134,4 +134,4 @@ It is the express will of the parties that this agreement and all related docume
 
 **XIII. CONTACT US**
 
-For more information or if you have questions or concerns regarding the Mediaplex Privacy Policy, please email us at: [customersupport@mediaplex.com](mailto:customersupport@mediaplex.com) or you can send correspondence to the following address: Mediaplex, Attn: Privacy Officer, 30699 Russell Ranch Road, Suite 250, Westlake Village, CA 91362.
+For more information or if you have questions or concerns regarding the Mediaplex Privacy Policy, please fill out our [Corporate Feedback Form](http://www.valueclick.com/feedback?t=p&r=mplx-mpp01) or you can send correspondence to the following address: Mediaplex, Attn: Privacy Officer, 30699 Russell Ranch Road, Suite 250, Westlake Village, CA 91362.
