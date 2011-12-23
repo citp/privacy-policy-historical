@@ -1,38 +1,40 @@
-> *The following text is extracted and transformed from the infographicsarchive.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504130644id_/http%3A//www.infographicsarchive.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infographicsarchive.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223140909id_/http%3A//www.infographicsarchive.com/disclaimer) for the most accurate reproduction.*
 
 # Disclaimer & Privacy Policy - Infographics Archive
+
+****
 
 **General**  
 The information on this website has been composed with great care. However, infographicsarchive.com is not liable for any direct or indirect damage that may arise from the use of the presented information.
 
- **Information**  
+**Information**  
 The information contained in this website is for general information purposes only. The information is provided by infographicsarchive.com and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
 
 In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website.
 
- **Forms**  
+**Forms**  
 On infographicsarchive.com you may find a number of forms now and then. Usually no personal data is asked for. Data from the completed forms are collected anonymously for research, composing polls, new forms or new subjects, and therefore can not be traced to individuals. If you are, however, asked fill in personal information like in the contact form, this is explicitly requested in the form.
 
- **(External) Links**  
+**(External) Links**  
 Through this website you are able to link to other websites which are not under the control of infographicsarchive.com. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
 
- **Comments**  
+**Comments**  
 Comments are very welcome. However, note that, tasteless and insulting comments may be deleted. Any personal remarks and attacks may be deleted. The same holds true for off-topic comments. Any comments that reek of link spam or marketing messages WILL be deleted.
 
 We are not responsible for the content in comments other than those made by us, or in blogs or other online content that we may link to.
 
- **Advertising comments (SPAM)**  
+**Advertising comments (SPAM)**  
 Unfortunately comments or submitted articles are regularly posted with a (hidden) advertisement for a treatment method, medicine or alternative medicine. These comments are deleted or modified. If you want to advertise a treatment, website, product or other form of advertising we advise you to contact with us about the possibilities. The editors reserve the right to refuse or remove comments, given sufficient cause.
 
- **Availability**  
+**Availability**  
 Every effort is made to keep the website up and running smoothly. However, infographicsarchive.com takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
 
- **Rights**  
+**Rights**  
 All rights, including copyright and database rights, in the website are owned by or licensed to infographicsarchive.com. The information on this site is intended solely for use of the visitor.  
 Re-use of data with the aim of gathering addresses is not allowed. The user may not copy, download, distribute, publish (including by electronic means) or frame the content in any way, without prior written consent from infographicsarchive.com.
 
- **Google**  
+**Google**  
 We use advertising companies to serve ads. These companies may use information (not your name, address, e-mail address or telephone number) about your visits to this blog or other websites to supply ads about goods and services of interest to you. For further information or to prevent these companies using this information, click on this link.
 
- **Google Analytics**  
+**Google Analytics**  
 “This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.”
