@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instapaper.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420022215id_/http%3A//www.instapaper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instapaper.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223033136id_/http%3A//www.instapaper.com/privacy-policy) for the most accurate reproduction.*
 
 # Instapaper: Privacy Policy
 
@@ -79,7 +79,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 You can access all your personally identifiable information that we collect online and maintain by logging into your Instapaper account on the Instapaper website at [](http://www.instapaper.com/)<http://www.instapaper.com/>.
 
-You can correct factual errors in your personally identifiable information by changing or deleting the erroneous information, by deleting your entire Instapaper account at [](http://www.instapaper.com/user/delete)<http://www.instapaper.com/user/delete>, or by emailing [instapaper@marco.org](mailto:instapaper@marco.org).
+You can correct factual errors in your personally identifiable information by changing or deleting the erroneous information, by deleting your entire Instapaper account at [](http://www.instapaper.com/user/delete)<http://www.instapaper.com/user/delete>, or by emailing [instapaper.support@marco.org](mailto:instapaper.support@marco.org).
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
@@ -91,7 +91,7 @@ Due to the nature of backups and logs, deleted data may persist in backups and l
 
 ## How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please email [instapaper@marco.org](mailto:instapaper@marco.org). At this time, we only have the ability to receive and send English-language communications.
+Should you have other questions or concerns about these privacy policies, please email [instapaper.support@marco.org](mailto:instapaper.support@marco.org). At this time, we only have the ability to receive and send English-language communications.
 
 ## Changes To This Policy
 
