@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepressindex.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414233217id_/http%3A//www.freepressindex.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepressindex.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223023219id_/http%3A//www.freepressindex.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FreePressIndex.com
 
