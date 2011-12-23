@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoeboxed.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605192426id_/http%3A//www.shoeboxed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoeboxed.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223063050id_/http%3A//www.shoeboxed.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Shoeboxed | Shoeboxed.com
 
@@ -75,7 +75,7 @@ The information users provide to Shoeboxed is integral to the functioning of the
 
 ## How your information is secured
 
-Your personal data on Shoeboxed is protected by a user name and password login. You are responsible for keeping your user name and password secret, and should be careful to log out of your account after you have finished any given session, especially if you are using a public computer. The security of your personal information is important to us. When you enter sensitive information (such as your name, mailing address, or credit card information) on our registration forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link (https://www.thawte.com/siteseal/trustedlink.html). 
+Your personal data on Shoeboxed is protected by a user name and password login. You are responsible for keeping your user name and password secret, and should be careful to log out of your account after you have finished any given session, especially if you are using a public computer. The security of your personal information is important to us. When you enter sensitive information (such as your name, mailing address, or credit card information) on our registration forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link: <https://www.thawte.com/siteseal/trustedlink.html>. 
 
 Only employees that need to access personal information (such as customer service representatives) will have access to personal information. Shoeboxed keeps all employees informed and reminded of privacy and security practices. 
 
