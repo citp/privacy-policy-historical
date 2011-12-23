@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newrelic.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612193911id_/http%3A//www.newrelic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newrelic.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223224147id_/http%3A//newrelic.com/privacy) for the most accurate reproduction.*
 
 # New Relic Privacy Policy : New Relic
 
-New Relic, Inc ( **“New Relic”** ) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Application Data and Personal Data (each as defined below) that we collect from users of our website (located at www.newrelic.com), the New Relic RPM products (the **“Products”** ), or related services. This Privacy Policy is incorporated into, and considered a part of, the New Relic Terms of Use, currently located at [www.newrelic.com/terms](https://web.archive.org/web/20110612193911id_/http%3A//www.newrelic.com/terms.html).
+New Relic, Inc ( **“New Relic”** ) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Application Data and Personal Data (each as defined below) that we collect from users of our website (located at www.newrelic.com), the New Relic RPM products (the **“Products”** ), or related services. This Privacy Policy is incorporated into, and considered a part of, the New Relic Terms of Use, currently located at [www.newrelic.com/terms](https://web.archive.org/web/20111223224147id_/http%3A//newrelic.com/terms.html).
 
 ### User Consent
 
@@ -96,8 +96,10 @@ New Relic welcomes your comments or questions regarding this Privacy Policy.  P
 
 New Relic, Inc.   
 Attn: Legal Department  
-139 Townsend Street, Suite 505  
-San Francisco, CA 94107 .
+
+
+101 Second Street, 15th Floor  
+San Francisco, CA 94105
 
 ### Changes to This Privacy Policy
 
