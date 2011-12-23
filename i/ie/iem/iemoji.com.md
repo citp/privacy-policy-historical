@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iemoji.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530080626id_/http%3A//iemoji.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iemoji.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224004036id_/http%3A//www.iemoji.com/help/privacy) for the most accurate reproduction.*
 
 # iEmoji.com - Lookup, Convert, and Tweet with iPhone Emoji!
 
