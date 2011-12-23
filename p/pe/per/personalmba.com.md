@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personalmba.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626145132id_/http%3A//personalmba.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalmba.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224004834id_/http%3A//personalmba.com/privacy) for the most accurate reproduction.*
 
 # Personal MBA Privacy Policy
 
@@ -9,7 +9,7 @@ The Personal MBA
 123 N. College Ave, Suite 200  
 Fort Collins, CO 80524
 
-We can be reached via e-mail at privacy [at] personalmba.com or you can reach us by telephone at +1-888-927-5567.
+We can be reached via e-mail at privacy [at] personalmba.com or you can reach us by telephone at +1-970-480-7622.
 
 For each visitor to our web page, our web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
