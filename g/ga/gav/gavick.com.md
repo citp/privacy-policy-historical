@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the gavick.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605070818id_/http%3A//www.gavick.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gavick.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224000109id_/http%3A//www.gavick.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Professional Joomla Templates, Joomla Themes, Joomla 1.6 Templates, Joomla 1.5 Templates, Custom Website Templates - GavickPro
 
 ### GavickPro takes your privacy seriously.  
 Please read the following to learn more about our privacy policy.
 
-[1\. General info](https://www.gavick.com/privacy-policy.html#1)   
-[2\. Safe and secure online purchase](https://www.gavick.com/privacy-policy.html#2)  
-[3\. Info collection and use](https://www.gavick.com/privacy-policy.html#3)   
-[4\. Changing/updating personal data](https://www.gavick.com/privacy-policy.html#4)   
-[5\. Protection of personal info](https://www.gavick.com/privacy-policy.html#5)   
-[6\. Consent to disclose data](https://www.gavick.com/privacy-policy.html#6)   
-[7\. Contact information](https://www.gavick.com/privacy-policy.html#7)
+[1\. General info](http://www.gavick.com/privacy-policy.html#1)   
+[2\. Safe and secure online purchase](http://www.gavick.com/privacy-policy.html#2)  
+[3\. Info collection and use](http://www.gavick.com/privacy-policy.html#3)   
+[4\. Changing/updating personal data](http://www.gavick.com/privacy-policy.html#4)   
+[5\. Protection of personal info](http://www.gavick.com/privacy-policy.html#5)   
+[6\. Consent to disclose data](http://www.gavick.com/privacy-policy.html#6)   
+[7\. Contact information](http://www.gavick.com/privacy-policy.html#7)
 
   
 
