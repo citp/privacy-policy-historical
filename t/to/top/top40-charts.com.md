@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top40-charts.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628171413id_/http%3A//top40-charts.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top40-charts.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223150844id_/http%3A//top40-charts.com/about/privacy.php) for the most accurate reproduction.*
 
 # About @ Top40-Charts.com - Songs & Videos from 49 Top 20 & Top 40 Music Charts from 30 Countries
 
