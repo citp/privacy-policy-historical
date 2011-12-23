@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the winsornewton.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620145923id_/http%3A//www.winsornewton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winsornewton.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223212109id_/http%3A//www.winsornewton.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-ColArt Fine Art & Graphics Limited are dedicated to protecting and preserving your privacy when visiting our sites or communicating electronically with us. 
+ColArt International Holdings Ltd Limited are dedicated to protecting and preserving your privacy when visiting our sites or communicating electronically with us. 
 
-ColArt Fine Art & Graphics will never sell, rent or, except as set out in this Privacy Policy, otherwise disclose any of your personal information, including your Email address, to any third party without your consent. 
+ColArt International Holdings Ltd will never sell, rent or, except as set out in this Privacy Policy, otherwise disclose any of your personal information, including your Email address, to any third party without your consent. 
 
 This Privacy Policy outlines what happens to any personal data that you supply to us, or that we gather from you when you are on this site. 
 
@@ -59,4 +59,4 @@ We may also disclose your personal information to third parties:
 You may find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept responsibility or liability for their policies as we have no control over them. 
 
 **Access To Information**  
-The Data Protection Act 1998 gives you the right to access the information that we hold about you. If you wish to gain access to your Personal Information, or have questions about this Privacy Policy or its implementation, please contact the data controller at ColArt Fine Art & Graphics, Whitefriars Avenue, Harrow, Middlesex, HA3 5RH. Any demand for access may be subject to payment of a fee of £10 which covers the cost in providing you with the information requested. 
+The Data Protection Act 1998 gives you the right to access the information that we hold about you. If you wish to gain access to your Personal Information, or have questions about this Privacy Policy or its implementation, please contact the data controller at ColArt International Holdings Ltd, Whitefriars Avenue, Harrow, Middlesex, HA3 5RH. Any demand for access may be subject to payment of a fee of £10 which covers the cost in providing you with the information requested. 
