@@ -1,143 +1,198 @@
-> *The following text is extracted and transformed from the couponsuzy.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318075300id_/http%3A//www.coupons.com/solutions/main/SubPrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsuzy.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223235437id_/http%3A//www.couponsinc.com/Corporate/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
   [](http://www.truste.org/ivalidate.php?url=www.coupons.com&sealid=102)        [](http://www.bbbonline.org/cks.asp?id=1060221103954)
 
+This Privacy Policy is effective as of October 20, 2006.   
+This Privacy Policy was last modified on October 19, 2011.
+
 ### Our Privacy Policy
 
-We recognize the importance of protecting the privacy of all information provided to us and to our clients through the use of our services and related websites. We created the following policy guidelines with a fundamental respect for your right to privacy to guide our relationship with our users and consumers who use any of the websites, co-branded Microsites, services, or applications owned or provided by us (the "Sites") (collectively or individually, "Consumers").
+We recognize the importance of protecting the privacy of the personally identifiable information you provide to us and to our clients, advertisers, and affiliates (collectively “Affiliates”) in connection with your use of the websites, services, products, and software applications owned, managed or provided to you by us (the "Sites"). We created this Privacy Policy to help you understand what information we collect (whether personally identifiable or not), how we collect it, how we use it, how we share it, how we protect it, and how you can control it.
 
-This Privacy Policy is incorporated into and is subject to our End User License Agreement, which is applicable to those Consumers who download the Coupons toolbar ("CouponBar") and Coupon Printer applications. Instructions on uninstalling these programs are [available here](http://www.couponsinc.com/corp/source/u_uninstall.asp).
+If we make any changes to this Privacy Policy, we will revise the "Last Updated" date above and post the changes here.
+
+Our Sites may contain links to third-party websites, products and services. This privacy policy only applies to our Sites and our collection and use of your information. The linked websites, products and services of third parties, and their collection and use of your information, are governed by the privacy policies of such third parties. We encourage you to learn about the privacy practices of those third parties.
 
 ### 1\. Information We Collect 
 
-We may collect information before or after you request a coupon by printing, downloading to a device, saving to a loyalty card and/or digitally displaying, such as via a mobile device; if you have trouble requesting a coupon and contact customer service for support; to fulfill your requests to participate in certain offers and promotions; if you choose to tell a friend about our service; as an affiliate of a Microsite Network; and when you download and install our coupon printing software or toolbar (ActiveX-based or Internet Plug-in) on your computer. Our software and toolbar only collect information about what coupons have been requested and redeemed from your computer.
+We do not require you to provide us with personally identifiable information in order to use our Sites. However, if you choose to participate in certain activities offered on the Sites (such as surveys and grocery list building and sharing), we may ask you to provide us with what is generally called "personally identifiable" information (such as your name, email address, postal mailing address, and home/mobile telephone number, etc.). In addition, you may have the option of providing us with certain demographic information about yourself or your household (such as age, gender, household income, interests, zip code, and state). There may be other occasions not specifically identified in this Privacy Policy when we may ask you to provide us with personally identifiable information. However, it will always be your decision whether to provide us with your personally identifiable information. In some cases, if you decline to share such information with us, then we may not be able to provide you with certain services. There are different ways in which we may collect information when you interact with our Sites.  Many are discussed below, but in general we may collect information when you:
 
-Consumer Provided Information: When you visit the Sites, you may provide to us what is generally called "personally identifiable" information (such as your name, email address, postal mailing address, and home/mobile telephone number, etc.) if you request a coupon from or otherwise participate in activities offered on the Sites. In addition, you may have the option of providing us with certain demographic information about yourself or your household (such as age, gender, household compensation, interests, zip code, and state).
+  * View, print, download, save, and/or display coupons.
+  * Redeem coupons. 
+  * Register with us or our Affiliates. 
+  * Use our Sites to create and sync shopping lists.
+  * Interact with advertisements on our Sites. 
+  * Communicate with our customer service team for support.
+  * Participate in certain programs, offers, and promotions.
+  * Use our referral service to tell your friend(s) about our coupons.
+  * Invite others to share your shopping list.
+  * Register a retailer loyalty account or similar retailer identifier with us.
+  * Register or interact with us via Facebook Connect or other social media provider.   
 
-"Cookies" Information: When you visit the Sites, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer. We use both session cookies and persistent cookies. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Sites. These persistent cookies can be removed, but each web browser is a little different. So, please review your browser’s Help menu to learn the correct way to modify your cookies setup. We do not link the information we store in cookies to any personally identifiable information you submit while on the Sites.
 
-"Automatically Collected" Information: When you use the Sites or open one of our HTML emails, we automatically record certain data using technology, including clear gifs or web beacons; cookies (discussed above); IP addresses; unique "device IDs" (similar to IP addresses); and log files. Automatically collected data includes coupon requesting and redemption activity; web browser type; the website that referred you to us, the web pages you viewed on the Sites; and the dates and times that you visited the Sites.
 
-"Tell-A-Friend" Information: If you choose to use our referral service to tell a friend about our Sites, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Sites, and we do not store this information.
 
-Client Provided Information: When we manage coupon promotions for a "Client" (a company or organization to which we provide business services) a unique identifier may be shared with us in order to process the coupon requesting and redemption activity on behalf of that Client. We do not receive any personally identifiable information from these unique identifiers, which are used solely to process the coupon promotion activities.
+Additionally, when you download and install our coupon printing software, toolbar, or mobile applications on your computer or other device, we collect information about that device that helps us manage our products and services and detect and prevent coupon fraud. Instructions on uninstalling our toolbar and our coupon printer software are [available here](http://www.couponsinc.com/corp/source/u_uninstall.asp). 
+
+A device identifier stays on your computer even after uninstalling the coupon printer software. This identifier is used solely to prevent coupon fraud and does not collect personally identifiable information. 
+
+**Cookie & Web Beacon Information**: When you visit the Sites, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer. We use both session cookies and persistent cookies. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Sites. These persistent cookies can be removed, but each web browser is a little different. Please review your browser’s Help menu to learn how to modify your cookies setup. Our Sites also use web beacons (also known as clear gifs or pixel tags), which are tiny graphics with a unique identifier that are placed in the code of a webpage. 
+
+**Automatically Collected Information** : When you use the Sites or open one of our emails, we use technology (including web beacons and cookies, IP addresses, unique device IDs, user IDs, and log files) to automatically collect non-personally identifiable information including:
+
+  * Coupon activity (including requesting, printing, and saving to a loyalty account).
+  * Application activity (such as searches performed and features accessed).
+  * Web browser type.
+  * The website that referred you to us.
+  * The web pages you viewed on the Sites.
+  * The advertisements you viewed and clicked on the Sites.
+  * The dates and times that you visited the Sites.   
+
+
+
+
+We may link automatically collected information to personally identifiable information you submit while on the Sites when you are logged in or in connection with a service you have requested. For example, if you sign up for our Grocery iQ application, we will store your user ID together with your email address so that you can manage and (if you chose to) share your shopping list.  
+
+
+**Tell-A-Friend** : If you choose to use our referral service to tell a friend about our coupons, we will ask you for your friend’s name and email address. We will use the information you provide to automatically send your friend a one-time email inviting him or her to view the coupon you recommended. We delete the email address shortly after fulfilling your request and do not share it with any third party. **  
+**
+
+**Lists & List Sharing**: If you use our Grocery iQ mobile application, or our Grocery iQ website, we will collect and store for you the items you put on your list. We also may use that information to serve you tailored advertising, coupons or other content. For instance, if your list includes baby food, we may present you with a coupon or advertisement from us or an Affiliate for baby food or related items, such as diapers. If you choose to invite someone to share your shopping list, we will ask you to provide us with that person’s email address in order to send them your invitation. We store this information in order to administer the list sharing feature, but we do not share it with any third party. ** **
+
+**Location Information** : Use of the Sites, including our mobile applications, may include location-based services. If you use those services, we may receive information about your location which we may use to send you geographically relevant promotions or advertisements.
+
+**Analytic Tools** : We may use tools such as Google Analytics to better understand who is using our Sites and how they are using them. These tools use cookies to collect information such as time of visit, pages visited, time spent on each page of the website, IP address, and type of operating system used. We use this information to manage and improve our Sites. You can learn how to opt-out of Google Analytics tracking software [here](http://tools.google.com/dlpage/gaoptout).
+
+**Promotions, Sweepstakes, & Contests**: From time to time, we may sponsor sweepstakes, contests, other promotions or surveys. Personal information may be required as a condition of participation for purposes of verifying entrants' identities, notifying winners and fulfilling prizes. We will not use or disclose any such information unless we receive your consent to do so. If we engage a third party to assist us in administering a promotion or fulfilling prizes, this information will be disclosed to that third party. 
 
 Back to top
 
-### 2\. The Way We Use Information
+### 2\. How We Use Your Information
 
-We use the information that we collect to operate, maintain, and provide to Consumers all of the coupons and promotional offerings found on the Sites and for other non-marketing or administrative purposes (such as notifying you of major service updates or for customer service purposes).
+We use all of the information that we collect from your use of the Sites, any information you provide when you register with us, and information provided to us by third parties as described below.  The following are the ways we use information we collect:
 
-We use all of the information that we collect from our Consumers to understand the usage trends and preferences; to improve the way the Sites work and look; to improve our marketing and promotional efforts and to create new features and functionality.
+  * Operate, maintain, deliver, and communicate with you about the coupons, advertisements, content, and promotional offerings found on the Sites.
+  * Process and record coupon requesting and redemption activity.
+  * Manage and store shopping lists.
+  * Monitor the effectiveness of marketing campaigns. 
+  * Aggregate usage metrics (such as total number of visitors to the Sites and pages viewed, application usage and downloads, and interaction with advertisements).
+  * Understand usage trends and preferences.
+  * Improve the way the Sites work and look.
+  * Improve our marketing and promotional efforts.
+  * Provide you with a personalized experience on the Sites (such as recognizing your system so that you will not have to re-enter information during your current or future visit to the Sites).
+  * Provide you with custom, personalized coupon promotions and advertisements on and off our Sites.
+  * Create new features and functionality.
+  * For other non-marketing or administrative purposes (such as customer service purposes).
+  * We also may use the device information to provide targeted ads to you based on your printing and redemption activity. 
 
-We use automatically collected data to process and record coupon requesting and redemption activity; store information so that you will not have to re-enter it during your visit or the next time you use the Sites; provide custom, personalized coupon promotions, advertisements, content, and information; monitor the effectiveness of marketing campaigns; and monitor aggregate usage metrics such as total number of visitors and pages viewed.
 
-We will not use your email address or other personally identifiable information that you provide directly to us to send promotional or marketing messages without your consent except as part of a specific program or feature for which you will have the ability to "opt-out". For example, when you provide us with your email address to receive coupon offers from our Digital FSI network, we will send you a weekly email to tell you about coupons currently available in our network. You may stop receiving those emails by changing your preferences in the Edit Profile screen of the Digital FSI. 
 
 Back to top
 
-### 3\. When We Disclose Information
+### 3\. When We Share Information
 
-We disclose automatically collected data (such as coupon request and redeem activity) to our Clients and third-party ad servers and advertisers. These third parties may match this data with information that they have previously collected about you under their own privacy policies, which you should consult on a regular basis.
+**Personally Identifiable Information** : We do not share personally identifiable information with our Affiliates or other third-parties for their marketing or promotional uses except as part of a specific program or feature that you have chosen to participate in. For example, we offer coupons on our Sites that require you to fill out an advertiser survey in order to receive the coupon. If you choose to participate in the survey, then we will share the information you provide with the advertiser who provided the survey. You may be given the option to register with the website of one of our Affiliates, or sign up for an Affiliate’s newsletter. If we manage the website for the Affiliate and you choose to register or sign up with that Affiliate, then we will share the information you provide with that Affiliate. In addition, we may use your personally identifiable information for the purpose of obtaining associated non-personally identifiable information from third parties, but we do not permit those third parties to use your personally identifiable information for any purpose other than providing us with associated non-personally identifiable information. 
 
-We disclose both personally identifiable and automatically collected information to our clients, affiliated companies, or other businesses or persons to process such information on our behalf; to provide website maintenance and security; to enable us to fulfill coupon requests; to offer certain features on the Sites; to assist us in improving the way the Sites work and look; and to create new features. We require that these parties agree to process such information in compliance with our Privacy Policy. We use reasonable efforts to limit their use of such information, and we require these parties to use any other appropriate confidentiality and security measures.
+**Non-Personally Identifiable Information** : We aggregate non-personally identifiable information (such as age, gender, household income, interests, zip code, state, coupon print and redemption data, and other automatically collected information that does not personally identify you) and share such aggregated information with our Affiliates in order to help them improve the marketing of their products and services. We may also share such non-personally identifiable information with our Affiliates when you interact with our promotional content on their websites. An Affiliate may match the non-personally identifiable information we provide with personally identifiable information you have previously provided to that Affiliate. For instance, if you have signed up for a loyalty account from one of our Affiliates, such as a grocery retailer, and request that our coupon be saved to that loyalty account, we will provide the Affiliate with the coupon and other information necessary to fulfill your request. The Affiliate will then match the information with your loyalty account which may contain your personally identifiable information. We also may share such non-personally identifiable information with third-party ad servers, ad networks, and data exchanges (“Ad Partners”) so that they can tailor their advertisements to your apparent interests and deliver those advertisements to you while you are either on our Sites or on third-party websites. For example, if you print pet food coupons, then an Ad Server may conclude that you have a pet and display a pet care supply advertisement instead of a random advertisement. In addition, Ad Partners themselves use technologies (such as cookies, pixels, and beacons) to collect information about your browsing behavior on our Sites which they may match with information they have previously collected (including personally identifiable information you have provided to them). However, we do not share personally identifiable information with Ad Partners, and we do not permit Ad Partners to collect personally identifiable information about you on our Sites. For information about how to opt out of receiving behavioral advertisements from advertising partners [click here](http://www.couponsinc.com/corporate/PrivacyOptOut.aspx)
 
-We do not share personally identifiable information with other third-party organizations for their marketing or promotional uses without your consent except as part of a specific program or feature for which you will have the ability to opt-out. For example, we offer coupons on our network that require you to fill out an advertiser survey in order to receive the coupon. This data is provided to the advertiser and you will always have the option to say "No Thanks" and return to selecting other coupons.
+**Exceptions** : We may share information about you if required to do so by law or in the good-faith belief that such action is necessary to comply with local, state, or federal laws or to respond to a court order, judicial or other governmental subpoena or warrant, or in the event of bankruptcy proceedings. We also reserve the right to share information that we believe, in good faith, is appropriate or necessary to take precautions against liability, protect us or our Affiliates from fraudulent, abusive, or unlawful uses, investigate and defend ourselves against any third-party claims or allegations, assist government enforcement agencies, protect the security or integrity of the Sites, and to protect our rights, property, or safety and those of our Affiliates and others. 
 
-We may disclose Consumer information if required to do so by law or in the good-faith belief that such action is necessary to comply with local, state or federal laws or to respond to a court order, judicial or other government subpoena, or warrant.
-
-We also reserve the right to disclose Consumer information that we believe, in good faith, is appropriate or necessary to take precautions against liability; protect Clients from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against any third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Sites; and to protect against fraudulent uses, the rights, property, or safety of the company, our Consumers, our Clients, or others. 
+In the event that we are acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from you as part of such merger, acquisition, sale, or other change of control.
 
 Back to top
 
 ### 4\. Your Choices
 
-We provide you the opportunity to opt-out of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you registered for a Digital FSI coupon site but do not wish to receive any additional marketing material from us, you can indicate your preference on our Edit Profile page.
+If you are registered with us, you may modify, correct, or delete your personally identifiable information and preferences at any time by going to the [Member Center](http://www.coupons.com/couponweb/Login.aspx?pid=13306&zid=iq37&nid=10) on our website or by [contacting us](http://www.couponsinc.com/corporate/ContactUs.aspx).
 
-If you no longer wish to receive our weekly coupon email alerts and promotional communications, you may opt-out of receiving them by following the instructions included in each email or communication or by [contacting us](https://web.archive.org/Corporate/LinkClick.aspx?link=64&tabid=67). 
+To protect your privacy and security, we require you to enter your email address and password before allowing access to your account on the Member Center.
 
-You will be notified when your personal information is collected by any third party that is not our service provider, so you can make an informed choice as to whether or not to share your information with that party. 
+If you no longer wish to receive weekly coupon email alerts and other special offers from us you can opt-out by either following the instructions included in each email, changing your preferences in the Member Center on our website, or by [contacting us](http://www.couponsinc.com/corporate/ContactUs.aspx). For information about how to opt out of receiving behavioral advertisements from us [click here](http://www.couponsinc.com/corporate/PrivacyOptOut.aspx).
 
-In some cases if you decline to share personal information on the Sites, we will not be able to provide certain services to you on the Sites. You may update, correct, or delete your personal information and preferences at any time by going to the Edit Profile section of the website from which you are requesting coupons or by [contacting us](https://web.archive.org/Corporate/LinkClick.aspx?link=64&tabid=67).  We will respond to your request to access your personal information and preferences within 30 days.
-
-To protect your privacy and security, we take reasonable steps to verify your identity before granting access to personal information or before making corrections. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.
+Please note, we do not control communications between you and Affiliates or other third parties. Please refer to such third party in order to determine their opt-out procedures.
 
 Back to top
 
-### 5\. Third-Party Advertisers, Links to Other Sites
+**5\. Facebook Connect**
 
-Third-party ad servers or ad networks may serve advertisements within the Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Sites. These ad servers automatically receive your IP address when this happens, and they may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize their advertising content.
-
-If an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-24) or audience segment (for example, men ages 18-24 who have requested and redeemed certain categories of coupons) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they were trying to reach. In addition, these ad servers may match information relating to your activity with data that they have previously collected pertaining to you under their own privacy policies, which you should consult on a regular basis. To learn more about third-party ad servers and your options, [click here](http://networkadvertising.org/managing/opt_out.asp).
+You may be given the opportunity to register with us via Facebook Connect. We will collect and store the information you provide us through Facebook Connect (including personally identifiable information) with any other registration information you provide us. Disabling your Facebook Connect may not terminate your account with us.
 
 Back to top
 
-### 6\. Our Commitment to Data Security
+**6\. Community Forum**
 
-We use commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. WE CANNOT, HOWEVER, ENSURE OR WARRANT THE SECURITY OF ANY INFORMATION YOU TRANSMIT TO US, AND YOU DO SO AT YOUR OWN RISK. Once we receive your transmission of information, we make commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+We may ourselves manage and operate a discussion board or other forum (“Community Forum”) within the Sites, or use a third party hosted and managed site, for general matters of interest regarding our coupons and Sites or special programs we offer. The use of any Community Forum feature on our Sites is subject to the forum rules posted on the Community Forum site, and the use of a Community Forum on a third party site will be subject to that third-party site’s forum rules. Please take special note that if you post any personally identifiable information to a Community Forum, then that information can be read, collected, and used by other users of the Community Forums. This Privacy Policy does not apply to the personally identifiable information you post to a Community Forum, and we are not responsible for any use of information you post to a Community Forum, whether hosted by us or a third party.   
 
 Back to top
 
-### 7\. Our Commitment To Children’s Privacy
+**7\. Our Commitment to Data Security**
+
+The Sites incorporate physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information. Additional security measures, such as Secure Sockets Layer (“SSL”) or other technology, will be used if you engage in financial transactions on our Sites. However, as no security measures are perfect or impenetrable, we cannot guarantee the security of any information you transmit to us. 
+
+Back to top
+
+**8\. Our Commitment To Children’s Privacy**
 
 Protecting the privacy of young children is especially important. For that reason, we do not knowingly collect or maintain information from persons under 13 years of age, and no part of our Sites is structured to attract anyone under 13. If you are under 13 years of age, then please do not use or access the Sites at any time or in any manner. If we learn that personally identifiable information of persons under 13 years of age has been collected on the Sites without verified parental consent, then we will take the appropriate steps to delete this information.
 
 Back to top
 
-### 8\. TRUSTe Privacy Program
+**9\. TRUSTe Privacy Program**
 
-We are a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the sites www.coupons.com, www.couponsinc.com, www.couponbug.com, www.couponsuzy.com, b.coupons.com, bricks.coupons.com, microsite.coupons.com, and print.coupons.com. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact us at:
+Coupons.com Incorporated has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+
+This privacy statement covers the following sites and sub-domains:
+
+[www.coupons.com](http://www.coupons.com/)
+
+[www.couponsinc.com](http://www.couponsinc.com/)
+
+[www.couponbug.com](http://www.couponbug.com/)
+
+[www.couponsuzy.com](http://www.couponsuzy.com/)
+
+[b.coupons.com](http://b.coupons.com/)
+
+[bricks.coupons.com](http://bricks.coupons.com/)
+
+[microsite.coupons.com](http://microsite.coupons.com/)
+
+[print.coupons.com](http://print.coupons.com/)  
+
+
+[www.groceryiq.com](http://www.groceryiq.com/)
+
+[groceryiq.coupons.com](http://groceryiq.coupons.com/)
+
+If you have questions or concerns regarding this statement, we encourage you to first contact us at:
 
 Coupons.com Incorporated   
 400 Logue Ave.   
 Mountain View, CA 94043   
-Attn: Privacy
-
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.
+Attn: Privacy ~~~~
 
 Back to top
 
-### 9\. Special Note to International Users
+**10\. Special Note to International Users**
 
-The Sites are hosted in the United States and are intended for and directed to users in the U.S. If you are a Consumer accessing the Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure that differ from U.S. laws, please be advised that through your continued use of the Sites, which are governed by U.S. law and this Privacy Policy, you are transferring your personal information to the U.S. and you consent to that transfer.
+The Sites are hosted in the United States and are intended for and directed to users in the U.S. If you are a consumer accessing the Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure that differ from U.S. laws, please be advised that through your continued use of the Sites, which are governed by U.S. law and this Privacy Policy, you are transferring your personal information to the U.S., and you consent to that transfer.
 
 Back to top
 
-### U.S.-EU Safe Harbor
+**11\. U.S.–EU Safe Harbor**
 
 The U.S. Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (FAQs) to enable U.S. companies to satisfy European Union (EU) law requirements for adequate protection of personal information transferred from the EU to the United States.
 
-This Privacy Policy is in accordance with the U.S. - EU Safe Harbor Framework and the Safe Harbor Privacy Principles and we are registered with the [U.S. Department of Commerce's Safe Harbor Program](http://www.export.gov/safeharbor/).
+We adhere to the U.S.–EU Safe Harbor Framework and comply with the Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from the European Union.
 
-We adhere to the U.S.-EU Safe Harbor Framework and comply with the Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union.
-
+  
 Back to top
 
-### 10\. In the Event of Merger or Sale
+**12\. Our Contact Information**
 
-In the event that we are acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Consumers as part of such merger, acquisition, sale, or other change of control.
-
-Back to top
-
-### 11\. Changes and Updates to this Privacy Policy
-
-This Privacy Policy may be revised periodically, and this will be reflected by the "last modified" notice below. If we decide to change our Privacy Policy, we will post those changes to this privacy statement, the homepage, and/or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received that personal information. YOUR CONTINUED USE OF THE SITES CONSTITUTES YOUR AGREEMENT TO THIS PRIVACY POLICY AND ANY FUTURE REVISIONS.
-
-Back to top
-
-### 12\. Effective Date, Date Last Modified
-
-This Privacy Policy is effective as of October 20, 2006.   
-This Privacy Policy was last modified on June 9, 2010.
-
-Back to top
-
-### 13\. Our Contact Information
-
-For customer service or technical questions please complete a [feedback form](http://www.couponsinc.com/corporate/ContactUs.aspx).  
-For questions regarding this Privacy Policy, your personal information, our third-party disclosure practices, or your consent choices please contact privacy@coupons.com, or by mail at:
+For customer service or technical questions, please complete a feedback form. For questions regarding this Privacy Policy please contact privacy@coupons.com or by mail at:
 
 Coupons.com Incorporated   
 400 Logue Ave.   
