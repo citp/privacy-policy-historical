@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the casinocity.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624041705id_/http%3A//www.casinocity.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinocity.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223111511id_/http%3A//www.casinocity.com/Privacy) for the most accurate reproduction.*
 
 # Casino City: Privacy Policy
 
 Casino City takes your privacy seriously. Please read the following to learn more about our privacy policy.   
-NOTICE: Click [here](http://www.ftc.gov/infosecurity/) for important information about safe surfing from the Federal Trade Commission. 
+NOTICE: Click [here](http://www.ftc.gov/bcp/edu/microsites/infosecurity/) for important information about safe surfing from the Federal Trade Commission. 
 
 ## What This Privacy Policy Covers 
 
