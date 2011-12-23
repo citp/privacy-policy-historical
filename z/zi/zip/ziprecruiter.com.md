@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the ziprecruiter.com privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307070330id_/http%3A//www.ziprecruiter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziprecruiter.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223021252id_/http%3A//www.ziprecruiter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ZipRecruiter
 
-_Last revised: August 24, 2010_  
-Recent updates to this Privacy Policy
+_Last revised: August 24, 2010_
 
 ZipRecruiter, Inc. ("ZipRecruiter," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by ZipRecruiter when you use the ZipRecruiter Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/terms).
 
@@ -98,8 +97,8 @@ If we change our privacy policies and procedures, we will post those changes on 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [info@ziprecruiter.com](mailto:info@ziprecruiter.com), or send mail to:
 
 ZipRecruiter, Inc.  
-2115 Glencoe Ave.  
-Venice CA 90291-4008 
+1453 Third Street Promenade, Suite 335  
+Santa Monica, CA 90401 
 
 ### Updates
 
