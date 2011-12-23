@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the naughtydog.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621231739id_/http%3A//www.us.playstation.com/Support/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naughtydog.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223123128id_/http%3A//www.us.playstation.com/Support/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Support - PlayStation.com
 
-  * [Home](https://web.archive.org/index.htm)
-  * [Knowledge Center](https://web.archive.org/support/index.htm)
+  * [Home](https://web.archive.org/web/20111223123128id_/http://us.playstation.com/index.htm)
+  * [Knowledge Center](https://web.archive.org/web/20111223123128id_/http://us.playstation.com/support/index.htm)
   * Privacy Policy
 
 
@@ -168,7 +168,7 @@ Attn.: Privacy Online Program
 New York, NY 10017  
 [privacy@esrb.org](mailto:privacy@esrb.org)
 
-Back to Top
+[Back to Top](https://web.archive.org/web/20111223123128id_/http://us.playstation.com/support/privacypolicy/index.htm#pageTop)
 
   
 
