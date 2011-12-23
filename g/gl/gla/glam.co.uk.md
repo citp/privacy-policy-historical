@@ -1,133 +1,139 @@
-> *The following text is extracted and transformed from the glam.co.uk privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219141603id_/http%3A//www.glam.co.uk/channels/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glam.co.uk privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223200443id_/http%3A//www.glammedia.com/about_glam/legal/privacy.php) for the most accurate reproduction.*
 
-# 
+# Glam Media . About Glam . Legal . Privacy
 
-**Glam.com  
+**Glam Media, Inc.  
 Privacy and Security Policy**
 
-Effective September 12, 2007 
+Revised and posted as of August 26, 2011
 
-**Your Privacy and the Security of Your Personal Information Is Very Important to Us**
+_(Please note this version of the Privacy and Security Policy does not substantively change the way Glam Media, Inc. treats personally identifiable information compared to the[previous version of the Privacy and Security Policy](http://www.glammedia.com/about_glam/legal/privacyandsecuritypolicy-previousversion12-15-2010.php).)_
 
-Glam Media, Inc. doing business at www.glam.com ("Glam") values our customers and guests and respects your concerns about online security and privacy. We believe in providing you with a safe and secure experience in fashion, style, and shopping. Our Privacy and Security Policy is intended to protect your privacy and ensure that your personal information is handled in a safe and responsible manner. By using our website, you consent to the collection and use of your personal information. In addition to reviewing our Privacy and Security Policy, you should also read our Terms of Use. Your use of Glam.com constitutes your agreement to its terms and conditions. 
+Glam Media, Inc. ("Glam Media") owns and operates this website (the "Site") and other websites focused on women, men, and social media consumers, (collectively the "Glam Media Sites"). Glam Media also operates an advertising network consisting of websites to which it may deliver advertising. That advertising network consists of the Glam Media Sites, and websites owned by third-party publishers displaying Glam Media branding and/or Glam Media logos ("Affiliated Sites"; together with the Glam Media Sites, the "Glam Media Network"). Glam Media may, from time to time, also deliver advertising to websites owned by third-party publishers that are not part of the Glam Media Network ("Non-Affiliated Sites"). This Privacy and Security Policy applies to (i) the collection of information on the Glam Media Sites that link to or display this Privacy and Security Policy and the use of that information, (ii) the collection of information on the Affiliated Sites and the use of that information when you view ads from our advertisers, and (iii) the collection of information on the Non-Affiliated Sites and the use of that information when you view ads from our advertisers.
 
-**Our Privacy and Security Policy Will Change Over Time**
+This Privacy and Security Policy describes the kind of personally identifiable and non-personally identifiable information collected on the Glam Media Sites linking to or displaying this Privacy and Security Policy and the non-personally identifiable information collected on the Affiliated Sites and Non-Affiliated Sites when you view advertisements from Glam advertisers, how the information collected is used and shared, and the choices you have regarding certain of these practices. This Privacy and Security Policy explains:
 
-Because we continue to develop Glam.com and take advantage of technologies to improve the services we provide, our policies will change over time. We encourage you to refer to this Privacy and Security Policy from time to time to stay abreast of our most current privacy policy practices. If you are a registered member of Glam.com, we may notify you by e-mail of material changes to our Privacy and Security Policy using the most current e-mail address you have provided to us. Your continued access and use of Glam.com will constitute your acceptance of any changes or revisions to our Privacy and Security Policy. 
-
-**Summary of Our Privacy and Security Policy**
-
-This Privacy and Security Policy explains and summarizes how we collect, use, and protect your personal information as you interact with us online and through our customer and technical support. This Privacy and Security Policy explains: 
-
-  * What information Glam gathers from users of Glam.com.  
-
-  * How Glam uses the personal information that you share with us and that we learn about you because of our relationship.  
-
-  * How Glam uses "cookies" and "IP Addresses."  
-
-  * What personal information, if any, Glam may share about you with others and the conditions that protect your information if it must be shared.  
-
-  * What kind of security measures Glam takes to protect your information from loss or disclosure and how Glam will inform you in the event of a security breach.  
-
-  * The circumstances under which you can access your personal information you have shared with Glam and have that information corrected, restrict Glam's use of that information, and even have it removed from our records.  
-
-  * Other things you should know about privacy and Glam.  
-
-
-
-
-**The Type of Information Glam.com Collects About You**
-
-Glam collects information that you provide to us or that we learn about you from your use of Glam.com. We receive and store information you enter on Glam.com or give to us in any other way. For example, you may provide information to Glam.com when you register, sign-in, search, add items to your shopping cart, participate in a test profile or survey, request our e-mail newsletters, or communicate with Glam's customer service. As a result of those actions, you might supply us with such information as your name, address, phone number, e-mail address, and personal shopping and product preferences. We also automatically receive and store certain types of information whenever you visit Glam.com. We might also receive information about you from other sources, such as in providing you special offers that we think will be of interest, and we may add that information to our account information. 
-
-**How Glam Uses Information About You**
-
-We use information we have collected about you to provide you with the very best fashion and personal style news, products and services, and shopping experience. **We do not sell your personal information to third parties for any reason.** We do not disclose your personal information to unaffiliated third parties who may want to offer you their own products and services unless you have requested or authorized us to do so. 
-
-We may share your personal information with third parties or affiliates of Glam where it is necessary for us to complete a transaction or do something you have asked us to do. For example, we might need to provide your personal information to retailers whose merchandise is featured on Glam.com so they can process and fulfill your request to buy merchandise. 
-
-We may share your personal information to third parties or affiliates of Glam with whom we have contracted to perform services on our behalf. All companies that act on our behalf are contractually obligated to keep the personal information we provide to them confidential and to use the personal information we share only to provide the services we ask them to perform. 
-
-We may disclose personal information about our customers as permitted or required by law, such as in connection with a subpoena or similar legal process, or in connection with a merger, acquisition, or bankruptcy, as discussed further below. 
-
-We try to provide you with the information you need to make informed reasonable choices with respect to how Glam.com uses or shares your information. Glam collects and uses personal information from you in several ways: 
-
-  * **Website Usage.** Glam or Glam's authorized service providers may observe activities, preferences, and transactional data (such as your IP address, browser type, and operating system) relating to your use of Glam.com. We may use this collected or logged information in order to provide better service, to facilitate our customers' use of the website, to track usage of the website, and to address security hazards. Glam, or one of Glam's authorized service providers, may use this information to track aggregate traffic patterns throughout Glam.com. We may use aggregated, statistical information to describe our customer audience, products and services, and to develop partnerships with third parties to offer products and services in which we believe our customers will be interested. For example, if 30 percent of our customers are interested in the latest handbags and accessories, we may share that statistic with handbag and accessory retailers in order to offer through Glam.com the type of merchandise our customers want.  
+The Privacy and Security of Your Personal Information and Providing You with Choices Is Very Important to Glam Media  
+How Glam Media Collects Information about You   
+Use of Cookies, Log Files, GlamAdapt, and Other Technology   
+Information Collection on the Glam Media Sites   
+   Website Usage   
+   Online Transactions   
+   Information Collection on Websites Participating in the Glam Media Network and on Non-Affiliated Sites   
+   Transparency in Online Behavioral Advertising by Glam Media   
+Managing Your Privacy Choices   
+   Updating Your Contact Preferences and Personal Information on Glam Media Sites   
+   Your Choice to Opt Out: Glam Media Network and Non-Affiliated Sites   
+   Using Public Areas of Glam Media Websites   
+   What Else You Can Do About Your Privacy and Security   
+Other Things You Should Know   
+   Our Security Practices   
+   Our Data Sharing Practices   
+   Our Data Retention Policy   
+   This Privacy and Security Policy Applies to U.S. Customers   
+   Our Privacy and Security Policy Will Change Over Time   
+   Links to Third-Party Sites   
+   Glam Media Sites Are Not for Use by Children   
+   Mergers, Acquisitions, and Bankruptcy   
+   Trademark Notice   
+   Our Contact Information   
 
 
-  * **Online Transactions.** We collect information about you when you use our website. You may visit our site without registering, but if you wish to add merchandise to your shopping cart, take a test, create a shopping book, "Shop Together," or use other special features offered on our site, you will need to provide us with certain information, including your name, address, phone number, and e-mail address, to open an account with us. We will assist you in creating a user ID and a password to protect your account information. 
+Glam Media values our customers and guests and respects your concerns about online security and privacy. We believe in providing you with a safe and secure online experience. Our Privacy and Security Policy is intended to protect your privacy and ensure that your personal information is handled in a safe and responsible manner. By visiting, or registering for a Glam Media Site, you hereby accept the policies and practices described in this Privacy and Security Policy and agree and expressly consent to Glam Media's collection, use, and disclosure of the information that you provide, or that is collected about you. In addition to reviewing this Privacy and Security Policy, you should also read our [Terms of Use](http://www.glammedia.com/about_glam/legal/terms_of_use.php). Your use of any of the Glam Media Sites constitutes your agreement to its terms and conditions. 
 
-At this time, when you request to purchase items in your shopping cart, we will forward your request and basic account information to the retailer or ecommerce service provider. When you provide personal financial and other personally identifiable information to the retailers or service providers featured through Glam.com, the sales transaction will occur on the retailer's or service provider's site and not on Glam.com. As such, the financial and personally identifiable information you provide in placing your order is controlled by that retailer or service provider. In the future, Glam.com may conduct some or all of these sales transactions itself, but at this time, it only facilitates your requests. 
+Glam Media is committed to responsible online advertising and as such is a member of the [Network Advertising Initiative](http://www.networkadvertising.org/) ("NAI"). As a member of NAI, this Privacy and Security Policy provides you with notice of the types of information Glam Media may passively collect about you when you view a Glam Media Advertisement on the Glam Media Network or a Non-Affiliated Site, and provides you with a choice to opt out of receiving future customized, targeted advertisements from Glam Media advertisers.
 
-If you provide to us information about a friend through the "Invite a Friend" section of Glam.com, we will first contact that friend by e-mail to confirm that the friend wishes to participate in Glam.com activities and consents to having personal information about him or her collected and retained by Glam.com. If your friend does not consent to our use of his or her contact information, we will delete it from our records. 
+Please note that Glam Media is not responsible for and cannot control the privacy policies or privacy practices of the Glam Media Affiliated Sites and Non-Affiliated Sites. We encourage you to read the privacy policies on these sites for the applicable privacy practices relating to personally identifiable information you may choose to provide in interacting with these websites and the non-personally identifiable information collected through the use of cookies and other technologies as they may differ from Glam Media's privacy practices as set forth in this Privacy and Security Policy. Please further note that the opt out choice provided to you through this Privacy and Security Policy acts only to provide you with an opt out choice regarding customized, targeted advertisements from Glam Media and will have no effect on customized, targeted advertisements from third parties.
 
-Glam may offer Open Group Tests ("OGT"). To take our OGT, you and any of your friends who may wish to participate must be registered with Glam.com. Through our comparative scorecard, Glam will allow you to create a list of your friends and to compare your results with theirs. It works like this: You tell us whom to invite; our technology invites them on your behalf to participate in the OGT. Once your friend takes the test, you will receive an e-mail notice from Glam that his or her results are in. On the "results" page, which every invited participant can access and review, you can see their OGT results, first name, and e-mail address, and how you match up in certain categories. You can view your "personal invitation list" and who has yet to participate. The personal invitation list can only be seen by you as the inviter. 
+Glam Media collects information about you in three ways: (i) when you visit a Glam Media Site, Glam Media collects the information you voluntarily submit during your use of the site, and as you use the Glam Media Sites certain information may also be passively collected through the use of cookies and other technologies; (ii) when you visit a website participating in the Glam Media Network or a Non-Affiliated Site and view ads from our advertisers, Glam Media collects technical and usage information about your activities on the websites passively through use of cookies and other technologies; (iii) when third parties provide Glam Media with non-personally identifiable information. ****
 
-Our "Shop Together" feature operates in a similar fashion. Each friend that you ask us to invite on your behalf to shop together with you must also be registered with Glam.com. We will e-mail you when your friend is ready to shop or is done shopping. You both will be able to view and compare each other's shopping selections.  
+Glam Media may use "cookies" on the websites participating in the Glam Media Network and Non-Affiliated Sites to collect or log certain information. A cookie is a small piece of information that a website stores on a personal computer and which it can later retrieve. The cookie identifier associated with your browser is the same cookie identifier used when you visit websites in the Glam Media Network and Non-Affiliated Sites. Glam Media owns and operates GlamAdapt, an online advertising product that may provide ad delivery and reporting across various websites, including the Glam Media Network and Non-Affiliated Sites. Glam Media may also use cookies for informational purposes, for example, to store our customers' preferences for certain kinds of products or to serve advertisements tailored to a customer's preferences. The cookies will not contain information that will enable anyone to contact our customers via telephone, e-mail, or any other means. **If you are uncomfortable with the use of cookie technology, you can choose to opt out of our cookies at any time by clicking**[ **here**](http://www.glammedia.com/about_glam/legal/optout.php) **, or you can set your browsers to refuse cookies.** Please note, if you use more than one type of browser, or more than one computer to access the Internet, you will need to opt out in each browser and on each computer that you use. Certain types of Glam Media services, however, could be dependent on cookies, and you may disable those services by refusing cookies.
 
+Third parties including advertising networks and advertisers may also serve ads throughout the Glam Media Network and Non-Affiliated Sites, and these third parties may also use their own cookies. Glam Media does not control these cookies or the data collection practices of these companies. For more information about these companies' separate privacy policies, practices, and use of cookies, you should contact the advertising network directly. If the advertising network is a member of NAI, you may be able to opt out of receiving targeted advertising delivered by NAI members by following the opt out directions on www.networkadvertising.org.
 
-  * **Public Areas.** Any information disclosed in public areas of Glam.com is public information that may be viewed and collected by any party. We cannot control the use of information disclosed in the social networking, chat rooms, reviews, or bulletin board portions of our site. You should exercise caution when disclosing information, including photos or images, in these public areas and should refrain from disclosing personally identifying information. If you wish to use some of the public portions on our site, we will direct you to first create a public ID, which is not your real e-mail address, before you can post information to our site. Glam reserves the right to remove any information at any time from our site that we deem inappropriate or for any other reason.  
+Glam Media may collect and maintain (or third parties with whom Glam Media has contracted, may collect and maintain on Glam Media's behalf) information that you provide to us during your visit to a Glam Media Site. For example, you may provide information to the Site when you register, sign-in, search, participate in a test profile, survey or special offers, request our e-mail newsletters, or communicate with Glam Media's customer service. As a result of those actions, you might supply us with information such as your name, address, phone number, e-mail address, and personal shopping and product preferences. Glam Media uses information about you on the Glam Media Sites in several ways. Glam Media may use personally identifiable information (information including your name, address, email address or telephone number) about your visits to the Glam Media Sites in order to provide advertisements about goods and services of interest to you, or as more fully described below. We may share your personal information with third parties or affiliates of Glam Media with whom we have contracted to perform services on our behalf. All companies that act on our behalf are contractually obligated to keep the personal information we provide to them confidential and to use the personal information we share only to provide the services we ask them to perform. Please refer to the Managing Your Privacy Choices section below for information on how to prevent or opt out of having certain types of information collected about you.
 
+## _**Website Usage**_
 
+Glam Media or Glam Media's authorized service providers may observe activities, preferences, and transactional data (such as your IP address, browser type, and operating system) relating to your use of Glam Media Sites. Glam Media may use this collected or logged information in order to provide better service, to facilitate our customers' use of the websites, to track usage of the websites, and to address security hazards. Glam Media, or one of Glam Media's authorized service providers, may also use this information to track aggregate traffic patterns. We may use aggregated, statistical information to describe our customer audience, products and services, and to develop partnerships with third parties to offer products and services in which we believe our customers will be interested.
 
+## _Online Transactions_
 
+You may visit a Glam Media Site without registering, but if you take a test, enter a sweepstakes or contest, or use other special features offered on our site, you may need to provide us with certain information such as your name, address, phone number, and e-mail address, to open an account with us. We may share your personal information with third parties or affiliates of Glam Media where it is necessary for us to complete a transaction or do something you have asked us to do. We may also use this information to assist you in creating a user ID and a password to protect your account information and facilitate your use of special features or to complete a transaction.
 
-**Our Security Practices**
+When you visit any of the websites that participate in the Glam Media Network or a Non-Affiliated Site and view ads from Glam Media's advertisers, Glam Media automatically receives and stores certain types of non-personally identifiable information including IP address, web pages viewed, date and time, and responses to advertisements delivered by GlamAdapt or third-party ad serving technologies. While each advertising technology uses different types of technology to collect this information, including log files, cookies and pixels, none of the foregoing by itself or together can be tracked to a specific individual's personally identifiable information, and the non-personally identifiable information collected by Glam Media will not be shared with third parties, except as expressly indicated in this Privacy and Security Policy. The non-personally identifiable information collected through your use of the Glam Media Sites and the websites of the Glam Media Network, is used to provide relevant, targeted advertising and improve Glam Media's advertising technology; monitor website traffic; collect statistical data; determine the effectiveness of advertisements and content; and collect data across multiple websites to categorize likely consumer interest segments for use in online behavioral advertising ("OBA"). Glam Media may track visits to the Glam Media Network and this information may be used over time to help predict your consumer interest segments and select the ad content you see. Glam Media may also use non-personally identifiable profile-based anonymous information with other non-personally identifiable information that Glam Media has obtained from GlamAdapt, third-party ad serving technologies, the Glam Media Network, and Non-Affiliated Sites. If you wish to opt out of receiving Glam Media's customized targeted advertisements, you may opt out as indicated below at Your Choice to Opt Out: Glam Media Network and Non-Affiliated Sites.
 
-Our internal data security policies restrict access to customers' personal information to authorized employees. Authorized employees may use our customers' personal information for Glam business purposes only. Our employees are bound by Glam policies that require them to maintain the confidentiality of our customers' personal information. Employees who violate these requirements are subject to disciplinary action, up to and including termination. 
+## _Transparency in Online Behavioral Advertising by Glam Media_
 
-We maintain physical, electronic, and procedural safeguards that are designed to guard our customers' personal information. For example, for the security of your online visit to Glam.com, we may make use of firewall barriers, encryption techniques, and/or authentication procedures. Unfortunately, no data transmission over the Internet can be guaranteed to be absolutely secure. As a result, while we strive to protect your personal information, Glam cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. In the event of a breach of the confidentiality or security of your personal information, we will notify you as necessary so you can take appropriate protective steps. Unless you indicate otherwise, we may notify you under such circumstances using the e-mail address you provided to us when you registered with Glam.com. 
+Online behavioral advertising (sometimes called "interest-based advertising" or "OBA") uses information collected through your Web browser as you visit multiple websites in order to predict your preferences and show you relevant advertising. Glam Media does not create or use potentially sensitive data segments to provide its targeted online behavioral advertising for brand advertisers. However, we recognize that consumers may have differing opinions regarding which data segments are sensitive. In compliance with industry standards Glam Media provides transparency around health related audience segments collected and used by our technology solutions. We may use health related audience segments such as Health.CardioHealth, Wellness.DietNutrition, and Family.Pregnancy. For a full list of health related audience segments used click here.
 
-**What Are Cookies and How Does Glam.com Use Them?**
+## _Updating Your Contact Preferences and Personal Information on Glam Media Sites_
 
-We may use "cookies" to collect or log certain information. A cookie is a small piece of information that a website stores on a personal computer and which it can later retrieve. The cookie identifier associated with your browser is the same cookie identifier used when you visit other websites that use our advertising services (collectively, "Glam Network"). We may use cookies for informational purposes-for example, to store our customers' preferences for certain kinds of products or to serve advertisements tailored to a customer's preferences. The cookies will not contain information that will enable anyone to contact our customers via telephone, e-mail, or any other means. If our customers are uncomfortable with the use of cookie technology, they can choose to opt out of our cookies at any time by clicking [here](http://www.glammedia.com/about_glam/legal/optout.php), or they can set their browsers to refuse cookies. If a user utilizes more than one type of browser, or more than one computer to access the Internet, they will need to opt out in each browser and on each computer that they use. Certain of our services, however, could be dependent on cookies, and our customers may disable those services by refusing cookies. 
+You have choices when it comes to how Glam Media uses your personal information. When you register online with a Glam Media Site you can choose not to receive information about merchandise, services, and special promotional offers from us by direct mail and/or e-mail. If you elect not to receive such product marketing information by direct mail or e-mail, Glam Media may continue to contact you as necessary to service your account. You can change your contact preferences at any time by following the instructions on the applicable Glam Media Site. Keeping your account information accurate and up-to-date is very important, so we can provide you with excellent service. If your account information is incomplete, inaccurate, or not current, please follow the instructions on the applicable Glam Media Site to correct your account information online. If you need additional assistance, please contact Glam Media customer service at [customercare@GlamMedia.com](mailto:customercare@GlamMedia.com).
 
-Please note that third parties, which may include advertising networks and advertisers, serving ads on Glam.com and/or the Glam Network, and the independent site publishers in the Glam Network, may also use their own cookies. Glam does not control these cookies or the data collection practices of these companies. For more information about these companies' separate privacy policies, you should contact the company directly. If the advertising network is a member of the Network Advertising Initiative ("NAI"), you may be able to opt out of receiving targeted advertising delivered by NAI members by following the opt-out directions on www.networkadvertising.org. 
+## _Your Choice to Opt Out: Glam Media Network and Non-Affiliated Sites_
 
-**What Privacy Policies Cover the Ads on Glam.com?**
+If you would like to opt out from receiving customized, targeted advertisements from Glam Media based upon non-personally identifiable information, you may [opt out by clicking here](http://www.aboutads.info/choices). Opting out will not remove advertisements. You will continue to see advertisements provided by Glam Media, but the advertising will not be customized or targeted based on non-personally identifiable information collected by Glam Media. Please note that if you change cookies or browsers, you will need to repeat this process for each computer and each browser.
 
-We may use third-party advertising networks to serve ads on Glam.com. These companies may employ cookies and action tags (also known as single-pixel GIFs or Web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is not connected to personally identifiable information, such as your name and e-mail address. For more information about these companies' separate privacy policies, you should contact the advertising network directly. 
+## _Using Public Areas of Glam Media Websites_
 
-**Links to Third-Party Sites and Websites Containing Glam.com Branding**
+Any information disclosed in public areas of the Glam Media Sites, is public information that may be viewed and collected by any party. We cannot control the use of information disclosed in the social networking, chat rooms, reviews, or bulletin board portions of these sites. You should exercise caution when disclosing information, including photos or images, in public areas of websites and should refrain from disclosing personally identifying information. If you wish to use some of the public portions on our Site, we will direct you to first create a public ID, which is not your real e-mail address, before you can post information to our Site. Glam Media reserves the right to remove any information at any time from the Glam Media Sites that we deem inappropriate or for any other reason. ****
 
-Glam.com may contain links to third-party sites. Please be aware, however, that Glam is not responsible for and cannot control the privacy policies of these other sites or their practices. We encourage you to read the privacy policies for these other sites, as they may differ from ours. 
-
-This website may also contain links to sites in the Glam Network which are maintained by third parties that display Glam.com branding and/or Glam's logo. Such websites may be identified in that they do not display a "Glam.com" URL. Please read the privacy policy on these sites for applicable privacy practices relating to personal information collected via those sites because they may differ from Glam.com's privacy practices. This Privacy and Security Policy applies solely to personal information collected by Glam. 
-
-**Contact Preferences and Accessing Your Personal Information**
-
-You have choices when it comes to how Glam uses your personal information. When you register online with Glam.com, you can choose not to receive information about merchandise, services, and special promotional offers from us by direct mail and/or e-mail. If you elect not to receive such product marketing information by direct mail or e-mail, Glam may continue to contact you as necessary to service your account. You can change your contact preferences at any time by following the instructions for My Profile on Glam.com. 
-
-Your test answers and results, both for your individual and OGT results, can be viewed in the My Tests section of our site. You can delete this information at any time by following the instructions on the My Tests section of Glam.com. 
-
-Keeping your account information accurate and up-to-date is very important, so we can provide you with excellent service. If your account information is incomplete, inaccurate, or not current, please follow the instructions for My Account on Glam.com to correct your account information online. 
-
-If you need additional assistance, please contact Glam customer service at www.glam.com/customerservice. 
-
-**This Privacy and Security Policy Applies to U.S. Customers**
-
-Glam.com is hosted in the United States and is intended for United States visitors. 
-
-This Privacy and Security Policy applies to customer relationships established in the United States. Parts of this Privacy and Security Policy may not apply to visitors outside the United States. Like almost every website, Glam.com may be accessed by an international audience. If you are a non-U.S. visitor to our website, by visiting our website and providing us with data, you acknowledge and agree that your personal information may be processed for the purposes identified in this Privacy and Security Policy. In addition, such data may be stored on servers located outside your resident jurisdiction, which may have less stringent privacy practices than your own. By providing us with your data, you consent to transfer of such data. 
-
-**Mergers, Acquisitions, and Bankruptcy**
-
-If Glam should ever file for bankruptcy or merge with another company, or if Glam should decide to buy another business or sell or reorganize part or all of Glam's business, Glam may be required to disclose your personal information to prospective or actual purchasers and other parties. It is Glam's practice to obtain appropriate protections for information disclosed in these types of transactions. Glam cannot, however, guarantee that Glam's Privacy and Security Policy will remain unchanged if Glam is sold or merges with another company. 
-
-**Glam.com Is Not for Use by Children**
-
-Children are not eligible to use Glam.com. We ask that minors (under the age of 18) only use Glam.com in conjunction with your parents or guardians. Children under 13 should not send any information about themselves to Glam. If a child under 13 submits information through any part of Glam.com, and Glam becomes aware that the person submitting the information is a child, we will attempt to delete this information as soon as possible. Because we do not knowingly collect any personal information about children under 13, we do not use or disclose such information to third parties. 
-
-**What Else Should I Know About My Privacy?**
+## _What Else You Can Do About Your Privacy and Security_
 
 You should be careful to maintain the secrecy of your passwords and/or account information and be responsible about protecting your personal information and identity whenever you are online. 
 
-**Trademark Notice**
+## _Our Security Practices_
 
-Glam and Glam.com are trademarks of Glam Media, Inc. 
+Our internal data security policies restrict access to customers' personal information to authorized employees. Authorized employees may use our customers' personal information for Glam Media business purposes only. Our employees are bound by Glam Media policies that require them to maintain the confidentiality of our customers' personal information. Employees who violate these requirements are subject to disciplinary action, up to and including termination.  
+We maintain physical, electronic, and procedural safeguards that are designed to guard our customers' personal information. For example, for the security of your online visit to a Glam Media Site, we may make use of firewall barriers, encryption techniques, and/or authentication procedures. Unfortunately, no data transmission over the Internet can be guaranteed to be absolutely secure. As a result, while we strive to protect your personal information, Glam Media cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. In the event of a breach of the confidentiality or security of your personal information, we will notify you as necessary so you can take appropriate protective steps. Unless you indicate otherwise, we may notify you under such circumstances using the e-mail address you provided to us when you registered with the Glam Media Site.
 
-Glam.com  
+## _Our Data Sharing Practices_
+
+**We do not sell your personally identifiable or non-personally identifiable information to third parties for any reason.** We do not disclose your personally identifiable or non-personally identifiable information to unaffiliated third parties who may want to offer you their own products and services unless you have requested or authorized us to do so. We may share your personally identifiable and non-personally identifiable information with third parties, or affiliates of Glam Media where it is necessary for us to complete a transaction or do something you have asked us to do. For example, we might need to provide your personally identifiable information to third parties, such as advertisers, featured on a Glam Media Site, or through a website participating in the Glam Media Network or a Non-Affiliated Site so they can process and fulfill your request for more information from them; and in these instances, we will provide you with a notice at the time of collection that the information is being shared, to whom it is being shared and the privacy policy governing the use of the information collected and shared. We may share your personally identifiable and non-personally identifiable information with third parties with whom we have contracted to perform services on our behalf, or affiliates of Glam Media. All companies that act on our behalf are contractually obligated to keep the personal information we provide to them confidential and to use the personal information we share only to provide the services we ask them to perform.
+
+We may disclose personally identifiable and non-personally identifiable information about our customers as permitted or required by law, such as in connection with a subpoena or similar legal process, or in connection with a merger, acquisition, or bankruptcy, as discussed further below.
+
+## _Our Data Retention Policy_
+
+Glam Media is required to retain certain non–personally identifiable information collected from users of the Glam Media Sites, Affiliated Sites and Non-Affiliated Sites in order to provide audited information to advertisers and auditors. As a result, ad reporting and delivery data is retained for a period of 18 months. After 18 months, some of the ad reporting and delivery data may be aggregated for statistical purposes and retained indefinitely. Log files that associate individual advertising with a specific IP address will be retained by Glam Media for 18 months and during that time will be used for internal analysis and ad delivery purposes. Certain aggregated, non-personally identifiable information including historical data and attributes collected by Glam Media prior to an opt out election and which represent large numbers of users combined into aggregated statistical data and information shall be kept for 18 months and despite the fact that the user has opted out, the information will continue to be associated with the users cookie regardless of the opt out status. After 18 months some of the aggregated, non-personally identifiable information may be further aggregated for statistical purposes and retained indefinitely.
+
+Additionally, Glam Media reserves the right to retain and use any information described in this Privacy and Security Policy as reasonably necessary to comply with all laws or regulations, regardless of any limitations set forth in this Policy. Glam Media reserves the right to change its data retention policy and the new data retention policy shall apply to all data collected following such change. 
+
+YOU UNDERSTAND AND AGREE THAT GLAM MEDIA'S LIABILITY REGARDING ANY DISPUTE OVER PRIVACY OR RELATED TO THIS PRIVACY AND SECURITY POLICY ARE HEREBY LIMITED AS SET FORTH IN THE GLAM MEDIA SITES TERMS OF USE. 
+
+## _This Privacy and Security Policy Applies to U.S. Customers_
+
+The Glam Media Sites are hosted in the United States and are intended for United States visitors. This Privacy and Security Policy applies to customer relationships established in the United States. Parts of this Privacy and Security Policy may not apply to visitors outside the United States. Like almost every website, the Glam Media Sites may be accessed by an international audience. If you are a non-U.S. visitor to any of the Glam Media Sites, by providing us with data, you acknowledge and agree that your personal information may be processed for the purposes identified in this Privacy and Security Policy. In addition, such data may be stored on servers located outside your resident jurisdiction, which may have less stringent privacy practices than your own. By providing us with your data, you consent to the transfer of such data. 
+
+## _Our Privacy and Security Policy Will Change Over Time_
+
+Because we continue to develop and take advantage of technologies to improve the services we provide, we reserve the right to change, or modify, any portion of this, or any other policy, from time to time without prior notice and any changes will become effective immediately upon being posted unless you are advised otherwise. We encourage you to refer to this Privacy and Security Policy from time to time to stay abreast of our most current privacy policy practices. If you are a registered member of a Glam Media Site, we may (but need not) notify you by e-mail of material changes to our Privacy and Security Policy using the most current e-mail address you have provided to us. Your continued access and use of a Glam Media Site constitutes your acceptance of any changes or revisions to our Privacy and Security Policy.   
+
+
+## _Links to Third-Party Sites_
+
+Glam Media Sites may contain links to third-party sites, which are maintained by third parties. Please be aware that Glam Media is not responsible for and cannot control the privacy policies of these other linked sites or their practices. We encourage you to read the privacy policies on these sites for applicable privacy practices relating to personally identifiable information you may choose to provide in interacting with these websites and the non-personally identifiable information collected through the use of cookies and other technologies collected via those sites because they may differ from Glam Media’s privacy practices.
+
+## _Glam Media Sites Are Not for Use by Children_
+
+Children are not eligible to use Glam Media Sites. We ask that minors (under the age of 18) only use Glam Media Sites in conjunction with your parents or guardians.  
+
+
+## _Mergers, Acquisitions, and Bankruptcy_
+
+If Glam Media should ever file for bankruptcy or merge with another company, or if Glam Media should decide to buy another business or sell or reorganize part or all of Glam Media's business, Glam Media may be required to disclose both the information you provide to Glam Media and the information gathered by Glam Media to prospective or actual purchasers and other parties. It is Glam Media's practice to obtain appropriate protections for information disclosed in these types of transactions. Glam Media cannot, however, guarantee that Glam Media's Privacy and Security Policy will remain unchanged if Glam Media is sold or merges with another company. 
+
+## _Trademark Notice_
+
+Glam and Tinker are trademarks of Glam Media, Inc. Other featured words or symbols, used to identify the source of merchandise or services, may be the trademarks of their respective owners.
+
+## _Our Contact Information_
+
 Glam Media, Inc.  
-8000 Marina Blvd., Suite 130  
-Brisbane, CA 94005  
+2000 Sierra Point Parkway  
+Suite 1000, 10th Floor  
+Brisbane, CA 94005
 
+If you have questions regarding your user account, our privacy and security policy, your privacy choices, our terms of use, or any other topic, we are always happy to answer any questions or concerns you may have.  
+E-mail: [customercare@GlamMedia.com](mailto:customercare@GlamMedia.com)
