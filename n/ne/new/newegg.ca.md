@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newegg.ca privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530012940id_/http%3A//www.newegg.ca/HelpInfo/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newegg.ca privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223084410id_/http%3A//www.newegg.ca/HelpInfo/PrivacySecurity.aspx) for the most accurate reproduction.*
 
 # Newegg.ca - Computer Parts, PC Components, Laptop Computers, Digital Cameras and more!
 
@@ -108,6 +108,6 @@ The Privacy Policy contained herein became officially effective October 1, 2009.
 ## Address
 
 Newegg Canada Inc.   
-9997 E. Rose Hills Road,   
+9997 Rose Hills Road,   
 Whittier, CA. 90601  
 United States
