@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the match.ca privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524052423id_/http%3A//match.ca/registration/privacystatement.aspx%3Flid%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the match.ca privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223065006id_/http%3A//www.match.ca/registration/privacystatement.aspx%3Flid%3D4) for the most accurate reproduction.*
 
 # Privacy Statement
 
-#### Last Updated: February 8, 2011
+#### Last Updated: June 29, 2011
 
 Match.com, L.L.C. (“Match.com”) respects the privacy of its users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.  We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy.
 
@@ -37,7 +37,7 @@ We may use information that we collect about you to:
   * communicate with you by email, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, other IAC companies or other third parties; 
   * develop and display content and advertising tailored to your interests on our site and other sites; 
   * verify your eligibility and deliver prizes in connection with contests and sweepstakes; 
-  * enforce our terms and conditions; 
+  * enforce or exercise any rights in our terms and conditions; 
   * manage our business; 
   * provide Match.com advertisements to you when you visit other sites; and 
   * perform functions as otherwise described to you at the time of collection. 
@@ -54,7 +54,7 @@ Please review "Your choices about collection and use of your information" below.
 
 We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with: 
 
-  * **Service providers:** We may share your personal information, which may include your name and contact information (including email address) with third parties that perform certain services on our behalf. These services may include fulfilling orders, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. We may also share your name, contact information and credit card information with our authorized service providers who process credit card payments. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes. 
+  * **Service providers:** We may share your personal information, which may include your name and contact information (including email address) with third parties that perform certain services on our behalf. These services may include fulfilling orders, providing customer service and marketing assistance, performing business and sales analysis, member screenings, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. We may also share your name, contact information and credit card information with our authorized service providers who process credit card payments. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes. 
   * **Business partners:** When you make purchases on our website or click-through our advertisements offered on third party websites, we may share personal information with the businesses with which we partner to offer you the applicable products, services or advertisements. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant. 
   * **Other IAC businesses.** We are part of the IAC family of businesses (go to [www.iac.com](http://www.iac.com/) for a listing of these businesses). We may share information we collect, including personal information such as your name and contact information, interests, activities and transactions on our site, with the IAC companies. All IAC companies comply with the IAC [Consumer Privacy](http://www.iac.com/privacy-policy/) statement. 
   * **Other Situations.** We also may disclose your information, including personal information: 
