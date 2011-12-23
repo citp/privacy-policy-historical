@@ -1,40 +1,40 @@
-> *The following text is extracted and transformed from the ebony.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629090209id_/http%3A//ebony.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebony.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224005237id_/http%3A//www.ebonyjet.com/legal) for the most accurate reproduction.*
 
 # EbonyJet.com Magazine Privacy Policy and Legal Terms
 
-Johnson Publishing Company, Inc. (“Johnson Publishing”, “we”, “our” or “us”) owns and controls www.ebony.com (the “Site”) (however the Site is accessed or used by you, whether via personal computer, mobile device or otherwise).  This Privacy Policy only covers information collected at the Site and does not cover any information collected at any other web site or offline by Johnson Publishing (unless specifically stated).  This Privacy Policy explains Johnson Publishing’s information collection practices at the Site, such as the types of information Johnson Publishing collects regarding visitors to the Site and how we may use that information.  Please review this Privacy Policy carefully and the [Site’s Terms of Use,](http://ebony.com/LegalTerms.aspx) which govern your use of the Site.
+Johnson Publishing Company, Inc. (“Johnson Publishing”, “we”, “our” or “us”) owns and controls www.ebony.com (the “Site”) (however the Site is accessed or used by you, whether via personal computer, mobile device or otherwise).  This Privacy Policy only covers information collected at the Site and does not cover any information collected at any other web site or offline by Johnson Publishing (unless specifically stated).  This Privacy Policy explains Johnson Publishing’s information collection practices at the Site, such as the types of information Johnson Publishing collects regarding visitors to the Site and how we may use that information.  Please review this Privacy Policy carefully and the [Site’s Terms of Use,](http://ebonyjet.com/LegalTerms.aspx) which govern your use of the Site.
 
 **Table of Contents**
 
-[Site Functionality and Registration](http://ebony.com/legal/#Site_Functionality_and_Registration)
+[Site Functionality and Registration](http://ebonyjet.com/legal/#Site_Functionality_and_Registration)
 
-[What Information Do You Provide Us and How Do We Use It?](http://ebony.com/legal/#What_Information_Do_You_Provide_Us_and_How_Do_We_Use_It_)
+[What Information Do You Provide Us and How Do We Use It?](http://ebonyjet.com/legal/#What_Information_Do_You_Provide_Us_and_How_Do_We_Use_It_)
 
-[Information You Provide About A Third Party](http://ebony.com/legal/#Information_You_Provide_About_A_Third_Party.)
+[Information You Provide About A Third Party](http://ebonyjet.com/legal/#Information_You_Provide_About_A_Third_Party.)
 
-[What Information Does Johnson Publishing Collect As You Access and Use the Site?](http://ebony.com/legal/#What_Information_Does_Johnson_Publishing_Collect_As_You_Access_and_Use_the_Site___)
+[What Information Does Johnson Publishing Collect As You Access and Use the Site?](http://ebonyjet.com/legal/#What_Information_Does_Johnson_Publishing_Collect_As_You_Access_and_Use_the_Site___)
 
-[How and When Johnson Publishing Discloses Information to Third Parties.](http://ebony.com/legal/#How_and_When_Johnson_Publishing_Discloses_Information_to_Third_Parties._)
+[How and When Johnson Publishing Discloses Information to Third Parties.](http://ebonyjet.com/legal/#How_and_When_Johnson_Publishing_Discloses_Information_to_Third_Parties._)
 
-[Notice to California Residents / Your California Privacy Rights](http://ebony.com/legal/#Notice_to_California_Residents___Your_California_Privacy_Rights.__)
+[Notice to California Residents / Your California Privacy Rights](http://ebonyjet.com/legal/#Notice_to_California_Residents___Your_California_Privacy_Rights.__)
 
-[Record Keeping Practices.](http://ebony.com/legal/#Record_Keeping_Practices.)
+[Record Keeping Practices.](http://ebonyjet.com/legal/#Record_Keeping_Practices.)
 
-[Links to Third Party Web Sites.](http://ebony.com/legal/#Links_to_Third_Party_Web_Sites.__)
+[Links to Third Party Web Sites.](http://ebonyjet.com/legal/#Links_to_Third_Party_Web_Sites.__)
 
-[Data Security.](http://ebony.com/legal/#Data_Security.)
+[Data Security.](http://ebonyjet.com/legal/#Data_Security.)
 
-[Updating Your Personal Information and Subscriptions.](http://ebony.com/legal/#Updating_Your_Personal_Information.__)
+[Updating Your Personal Information and Subscriptions.](http://ebonyjet.com/legal/#Updating_Your_Personal_Information.__)
 
-[Your Choices/Unsubscribe](http://ebony.com/legal/#Your_Choices_Unsubscribe.)
+[Your Choices/Unsubscribe](http://ebonyjet.com/legal/#Your_Choices_Unsubscribe.)
 
-[Consent to Transfer. ](http://ebony.com/legal/#Consent_to_Transfer.__)
+[Consent to Transfer. ](http://ebonyjet.com/legal/#Consent_to_Transfer.__)
 
-[Changes to this Privacy Policy. ](http://ebony.com/legal/#Changes_to_this_Privacy_Policy.)
+[Changes to this Privacy Policy. ](http://ebonyjet.com/legal/#Changes_to_this_Privacy_Policy.)
 
-[Note to Parents. ](http://ebony.com/legal/#Note_to_Parents.__)
+[Note to Parents. ](http://ebonyjet.com/legal/#Note_to_Parents.__)
 
-[Contact Us. ](http://ebony.com/legal/#Contact_Us.__)
+[Contact Us. ](http://ebonyjet.com/legal/#Contact_Us.__)
 
 **Site Functionality and Registration.  **
 
@@ -48,7 +48,7 @@ Johnson Publishing may use the information we gather for five (5) general purpos
 
 This Site may make blogs, message boards and other public forums available to its users.  If you post Personal Information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public.  We also cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose Personal Information in these areas.
 
-Also, remember that if you submit comments, ratings, blog entries, text, photographs, videos, music or other user-generated content to the Site (“User Content”), it may be published online or offline in any media or format (currently existing or hereafter developed).  Others may have access to User Content and may have the ability to share it with third parties across the Internet. Johnson Publishing may also publish your name, voice, likeness and other Personal Information with the User Content (or a portion thereof), and Johnson Publishing may use the User content, (or a portion thereof) for advertising, marketing, publicity and promotional activities. For full terms and conditions regarding User Content you submit to the Site, please review the[ Site's Terms of Use](http://ebony.com/LegalTerms.aspx).
+Also, remember that if you submit comments, ratings, blog entries, text, photographs, videos, music or other user-generated content to the Site (“User Content”), it may be published online or offline in any media or format (currently existing or hereafter developed).  Others may have access to User Content and may have the ability to share it with third parties across the Internet. Johnson Publishing may also publish your name, voice, likeness and other Personal Information with the User Content (or a portion thereof), and Johnson Publishing may use the User content, (or a portion thereof) for advertising, marketing, publicity and promotional activities. For full terms and conditions regarding User Content you submit to the Site, please review the[ Site's Terms of Use](http://ebonyjet.com/LegalTerms.aspx).
 
 **Information You Provide About A Third Party.**
 
@@ -80,7 +80,7 @@ We may also share the information we have collected about you, including Persona
 
 (i)   **  Third Parties Providing Services on our Behalf.**  We may use third party vendors to perform certain services on behalf of the Site, such as, without limitation, hosting the Site, designing and/or operating the Site’s features (including administering Promotions), order fulfillment, delivery of Johnson Publishing's products, services, promotional materials, product offers, clearing and processing credit and debit card payments, enabling Johnson Publishing to send you e-mail or performing other administrative services on our behalf.  We may provide these companies with access to user information, including Personal Information, if necessary to carry out the services they are performing for you or for Johnson Publishing.
 
-(ii)    A **dministrative and Legal Reasons.  ** We may also transfer and disclose user information, including Personal Information, to third parties: (i) in the event we are required to respond to subpoenas or other legal process or if in our good faith opinion such disclosure is required by law; (ii) at the request of governmental authorities conducting an investigation; or (iii) to protect and/or defend the [Site’s Terms of Use](http://ebony.com/LegalTerms.aspx) or other policies applicable to the Site or to protect the personal safety, rights, property or security of any individual.  We may also use IP address or other Device Identifiers to identify users, and may do so, and disclose your information, in cooperation with copyright owners, Internet service providers, wireless service providers or law enforcement agencies in our discretion.  Such disclosures may be carried out without notice to you.
+(ii)    A **dministrative and Legal Reasons.  ** We may also transfer and disclose user information, including Personal Information, to third parties: (i) in the event we are required to respond to subpoenas or other legal process or if in our good faith opinion such disclosure is required by law; (ii) at the request of governmental authorities conducting an investigation; or (iii) to protect and/or defend the [Site’s Terms of Use](http://ebonyjet.com/LegalTerms.aspx) or other policies applicable to the Site or to protect the personal safety, rights, property or security of any individual.  We may also use IP address or other Device Identifiers to identify users, and may do so, and disclose your information, in cooperation with copyright owners, Internet service providers, wireless service providers or law enforcement agencies in our discretion.  Such disclosures may be carried out without notice to you.
 
 (iii)     **Business Transfers.**   Johnson Publishing may share Personal Information with its subsidiaries and affiliates for marketing purposes and other internal business reasons.  Johnson Publishing also reserves the right to disclose and transfer all information related to the Site, including Personal Information: (i) to a subsequent owner, co-owner or operator of the Site or other Johnson Publishing assets or applicable database; or (ii) in connection with a merger, consolidation, restructuring or other corporate change, including, without limitation, during the course of any due diligence process.    
 
@@ -94,7 +94,7 @@ You also may choose to have Johnson Publishing save your credit card information
 
 **Notice to California Residents / Your California Privacy Rights.  **
 
-California residents are entitled once a year to request and obtain certain information regarding our disclosure, if any, of their Personal Information to third parties for those third parties' direct marketing purposes during the immediately prior calendar year (e.g., requests made in 2010 will receive information about 2009 sharing activities).  As set forth in this Privacy Policy, we comply with this law by offering you the ability to tell us not to share your Personal Information with third parties for their direct marketing purposes. To make such a request, please send an e-mail to californiaprivacy@ebony.com.  You must include the name of the Site as the subject line, and your full name, e-mail address, and postal address in your message.  Please see the [“Your Choices/Unsubscribe”](http://ebony.com/#Your_Choices_Unsubscribe.) section of this Privacy Policy for additional information.
+California residents are entitled once a year to request and obtain certain information regarding our disclosure, if any, of their Personal Information to third parties for those third parties' direct marketing purposes during the immediately prior calendar year (e.g., requests made in 2010 will receive information about 2009 sharing activities).  As set forth in this Privacy Policy, we comply with this law by offering you the ability to tell us not to share your Personal Information with third parties for their direct marketing purposes. To make such a request, please send an e-mail to californiaprivacy@ebony.com.  You must include the name of the Site as the subject line, and your full name, e-mail address, and postal address in your message.  Please see the [“Your Choices/Unsubscribe”](http://ebonyjet.com/#Your_Choices_Unsubscribe.) section of this Privacy Policy for additional information.
 
 **Record Keeping Practices.**  
 
