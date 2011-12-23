@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teensexmania.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129012458id_/http%3A//teensexmania.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teensexmania.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223115412id_/http%3A//teensexmania.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY
 
