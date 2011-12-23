@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lacrossepinnies.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624012828id_/http%3A//www.lacrossepinnies.com/Pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacrossepinnies.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223035435id_/http%3A//www.lacrossepinnies.com/Pages/privacy.php) for the most accurate reproduction.*
 
-# Site Articles :: Privacy Custom Lacrosse Reversible Jerseys Custom Tank Tops | Lacrossepinnies - Custom Reversible Pinnies - Custom Practice Jerseys - Custom Reversible Jerseys
+# Site Articles :: Privacy Custom Lacrosse Reversible Jerseys Custom Tank Tops | Lacrosse Pinnies - Custom Reversible Jerseys - Custom Reversible Pinnies - Custom Pinnies
 
 [Home](http://www.lacrossepinnies.com/ "Home") » [Site Articles](http://www.lacrossepinnies.com/Pages/index.php "Site Articles") » Privacy Custom Lacrosse Reversible Jerseys Custom Tank Tops
 
@@ -18,7 +18,7 @@ Lightning Wear Apparel Inc. 
 
 Customer Service  
 
-3704 Decatur Avenue  
+10580 Metropolitan Avenue  
 
 Kensington, Maryland 20895 USA  
 
