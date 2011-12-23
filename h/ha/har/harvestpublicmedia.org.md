@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harvestpublicmedia.org privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616223110id_/http%3A//www.harvestpublicmedia.org/content/harvests-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harvestpublicmedia.org privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223061855id_/http%3A//harvestpublicmedia.org/content/harvests-privacy-policy) for the most accurate reproduction.*
 
 # Harvest's Privacy Policy | Harvest Public Media
 
