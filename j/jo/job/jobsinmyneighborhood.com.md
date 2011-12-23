@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsinmyneighborhood.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624204004id_/http%3A//www.jobsinmyneighborhood.com/Shrd/Docs/Privacy.aspx%3FType%3DJobs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsinmyneighborhood.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223221833id_/http%3A//jobsinmyneighborhood.com/Shrd/Docs/Privacy.aspx%3FType%3DJobs) for the most accurate reproduction.*
 
 # Your Privacy Rights Summarized
 
