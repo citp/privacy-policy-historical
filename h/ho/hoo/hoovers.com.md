@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoovers.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616195924id_/http%3A//www.hoovers.com/about/legal/100000523-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoovers.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223060252id_/http%3A//www.hoovers.com/about/legal/100000523-1.html) for the most accurate reproduction.*
 
 # Privacy Policy | Hoover's: The most comprehensive business information available
 
