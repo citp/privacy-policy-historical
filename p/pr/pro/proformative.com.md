@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proformative.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103212526id_/http%3A//www.proformative.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proformative.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223084623id_/http%3A//www.proformative.com/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Proformative
+# Proformative Privacy Center - Privacy Policy | Proformative
 
 **Proformative Privacy Policy** ****
 
@@ -69,10 +69,12 @@ Certain information you provide to Proformative may reveal, or allow others to i
 
 You have a right to access, modify, correct and eliminate the data about you which has been collected pursuant to your decision to become a User. If you update any of your information, we may keep a copy of the information which you originally provided to us in our archives for uses documented herein.
 
-We take your rights seriously and encourage you to use them if you deem this to be appropriate. You may exercise these rights by emailing us at privacy@Proformative.com or by contacting us at:
+We take your rights seriously and encourage you to use them if you deem this to be appropriate. You may exercise these rights by emailing us at [privacy@Proformative.com](mailto:privacy@Proformative.com) or by contacting us at:
 
-Proformative Corporation  
-Attn: Privacy Policy Issues  
+Proformative Corporation
+
+Attn: Privacy Policy Issues
+
 1608 W. Campbell Ave, #170
 
 Suite 200
@@ -159,8 +161,10 @@ In order to secure your personal information, access to your data on Proformativ
 
 If you have questions or comments about this privacy policy, please email us at [privacy@Proformative.com](mailto:privacy@proformative.com) or contact us at:
 
-Proformative Corporation  
-Attn: Privacy Policy Issues  
+Proformative Corporation
+
+Attn: Privacy Policy Issues
+
 1608 W. Campbell Ave, #170
 
 Suite 200
