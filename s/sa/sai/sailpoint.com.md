@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the sailpoint.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625031211id_/http%3A//www.sailpoint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailpoint.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223142958id_/http%3A//www.sailpoint.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: SailPoint Home
 
 Get Informed.
 
 Take the first step in identifying your priorities, conducting a side-by-side product analysis and finding a solution that suits your needs.  
-[Download your Buyer's Guide »](http://mv.treehousei.com/Services/dl.aspx?Id=HADV4Q7CTT3CG "Download Your Buyer's Guide")
+[Download your Buyer's Guide »](http://e.sailpoint.com/rc/asset-overview.aspx?dlid=T2RYU3RDE2FAA "Download Your Buyer's Guide")
 
 Get Started.
 
@@ -21,7 +21,7 @@ Take advantage of SailPoint's helpful resource center with a collection of docum
 Get Informed.
 
 Take the first step in identifying your priorities, conducting a side-by-side product analysis and finding a solution that suits your needs.   
-[Download your Buyer's Guide »](http://mv.treehousei.com/Services/dl.aspx?Id=HADV4Q7CTT3CG "Download Your Buyer's Guide")
+[Download your Buyer's Guide »](http://e.sailpoint.com/rc/asset-overview.aspx?dlid=T2RYU3RDE2FAA "Download Your Buyer's Guide")
 
 Get Started.
 
@@ -36,7 +36,7 @@ SailPoint's customer support portal is available 24x7. Request an account today 
 Get Informed.
 
 Take the first step in identifying your priorities, conducting a side-by-side product analysis and finding a solution that suits your needs.   
-[Download your Buyer's Guide »](http://mv.treehousei.com/Services/dl.aspx?Id=HADV4Q7CTT3CG "Download Your Buyer's Guide")
+[Download your Buyer's Guide »](http://e.sailpoint.com/rc/asset-overview.aspx?dlid=T2RYU3RDE2FAA "Download Your Buyer's Guide")
 
 Get Started.
 
