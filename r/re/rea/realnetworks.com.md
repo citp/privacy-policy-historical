@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the realnetworks.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620181215id_/http%3A//www.realnetworks.com/about-us/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realnetworks.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223092830id_/http%3A//www.realnetworks.com/about-us/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | RealNetworks
 
 ## REALNETWORKS, INC., AND AFFILIATED ENTITIES
 
-_This document was last updated March 31, 2010._
+_This document was last updated October 5, 2011._
 
 This Privacy Policy covers RealNetworks, Inc., its majority-owned affiliates and subsidiaries, and RealNetworks' divisions operating under different trade names, including RealArcade and GameHouse (collectively, "RealNetworks" or "RN"). RealNetworks is committed to protecting the privacy of your personal information. This Privacy Policy explains how RealNetworks collects and utilizes your personal information when you use our products and services, including consumer software, such as the RealPlayer and RealArcade, subscriptions products such as SuperPass and GameHouse FunPass, and commercial online services such as the Real Music Store. Details regarding specific topics may be found via the topic index below. For a printable pdf file version of this policy, click [here](https://web.archive.org/uploadedFiles/company/legal/privacy/eng_privacy.pdf "here").
 
@@ -66,6 +66,10 @@ RealNetworks uses your personal information to:
 
 
 
+## PRIVACY ON SOCIAL NETWORKING SITES
+
+When you use a RealNetworks product or game on a Social Networking Site (such as Facebook, Google+, MySpace, or similar), your user ID, first and last name, profile picture, usage data for that product or game, and any other information you make publically available may be received, stored, and viewed by RealNetworks and made viewable to other users of the Social Networking Site.
+
 ## WHEN AND HOW DO WE SHARE YOUR PERSONAL INFORMATION WITH THIRD PARTIES?
 
 RealNetworks does not use your personal information for purposes incompatible with those listed above.  RealNetworks does not sell, rent, or share your personal information to a third party unless you consent to provide such information to a third party partner or content service.
@@ -98,7 +102,7 @@ If you have forgotten a username or password, you can use our [online](http://ww
 ## SECURITY OF PERSONAL AND PAYMENT INFORMATION
 
 **Use of Cookies  
-**Like other major Websites, we use cookies to provide you with a tailored experience when visiting our Websites and using our products. We also use cookies to understand traffic patterns on RealNetworks Websites and to authorize access to certain premium or trial content and product features. We treat any personal information that may be contained in cookies with the same level of confidentiality as other information you provide to us.
+**Like other major Websites, we use cookies to provide you with a tailored experience when visiting our Websites and using our products. We also use cookies to understand traffic patterns on RealNetworks Websites to authorize access to certain premium or trial content and product features, and to create and monitor customized advertising. We treat any personal information that may be contained in cookies with the same level of confidentiality as other information you provide to us.
 
 RealNetworks does not require that you accept cookies, however, some functionality on our Websites, our product purchase check-out process, and products and services may be disabled if you decline to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. You may also change your RealPlayer cookie settings through preferences options in our products. For more information on cookies, please click on the Topic Index list of subjects about cookies at the bottom of this page.
 
@@ -135,7 +139,7 @@ Privacy Policy Group
 RealNetworks, Inc.  
 P.O. Box 91123  
 Seattle, WA 98111-9233  
-<http://forms.real.com/service/contact/privacy.html>
+<https://real.custhelp.com/app/ask/support_type/1>
 
 ## SPECIFIC TOPICS
 
