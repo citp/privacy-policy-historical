@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pinoyjobless.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623094837id_/http%3A//pinoyjobless.com/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoyjobless.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223100344id_/http%3A//pinoyjobless.com/about) for the most accurate reproduction.*
 
-# Privacy Policy | Dine Laang!
-
-## [Privacy Policy](http://pinoyjobless.com/about/ "Permanent Link to Privacy Policy")
+# Privacy Policy | Pinoy TV
 
 I respect your privacy and I am committed to safeguarding your privacy while online at my site http://www.pinoyjobless.com . The following discloses the information gathering and dissemination practices for this Web site.
 
