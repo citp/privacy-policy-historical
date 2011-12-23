@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverboost.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610161408id_/http%3A//www.driverboost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverboost.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223035212id_/http%3A//www.driverboost.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | DriverBoost.com
 
@@ -102,3 +102,25 @@ Changes to the MaxPro Privacy Statement: MaxPro reserves the right to change thi
 NOTICE TO CHILDREN UNDER THE AGE OF 18 AND THEIR PARENTS OR LEGAL GUARDIANS: THE MAXPRO SITES ARE INTENDED FOR ADULTS. WE DO NOT KNOWINGLY OR INTENTIONALLY COLLECT PERSONAL INFORMATION FROM ANYONE UNDER THE AGE OF 18. IF YOU ARE UNDER THE AGE OF 18, PLEASE DO NOT PROVIDE ANY PERSONAL INFORMATION TO MAXPRO SOFTWARE. IF YOU KNOW OF ANYONE UNDER THE AGE OF 18 WHO HAS PROVIDED US WITH INFORMATION, PLEASE CONTACT US IMMEDIATELY AND WE WILL REMOVE THE INFORMATION.
 
 _This Privacy Policy was last amended on October 25, 2010._
+
+###  Recognition
+
+[](http://www.bbb.org/boston/business-reviews/computer-software-publishers-and-developers/maxpro-software-inc-in-boston-ma-121711/#bbbonlineclick "MaxPro Software, Inc.  BBB Business Review")
+
+[](http://www.tucows.com/preview/753848/)
+
+[](http://getabest.com/driverboost-download-new-241164.html)
+
+[](http://www.brothersoft.com/driverboost-pro-479403.html)
+
+[](http://www.bestvistadownloads.com/software/t-free-driverboost-download-uqishlpt.html)
+
+[](http://www.downloadroute.com/DriverBoost-Maxpro-Software-Inc.html)
+
+[](https://web.archive.org/web/20111223035212id_/http%3A//www.driverboost.com/integrity.php)
+
+DriverBoost Pro™  
+MaxPro Software Inc.  
+360 Newbury Street Suite 411  
+Boston, MA USA 02115  
+(781) 577-0296 
