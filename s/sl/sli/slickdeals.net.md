@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slickdeals.net privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620181014id_/http%3A//slickdeals.net/blog/index.php/legal-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slickdeals.net privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223040347id_/http%3A//slickdeals.net/blog/index.php/legal-privacy-policy) for the most accurate reproduction.*
 
 # Slickdeals.net Blog » Legal: Privacy Policy
 
