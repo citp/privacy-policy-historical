@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the parcel2go.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624041423id_/http%3A//www.parcel2go.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parcel2go.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223111745id_/http%3A//www.parcel2go.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Parcel2Go
 
 [ ](https://web.archive.org/)
 
-##  [ ](https://web.archive.org/web/20110624041423id_/http://www.parcel2go.com/content/Multiple-Quick-Quote.aspx)
+##  [ ](https://web.archive.org/Multiple-Quick-Quote.aspx)
 
 ##  Privacy Policy for www.parcel2go.com
 
@@ -91,9 +91,11 @@
 
 
 
+[ ](https://web.archive.org/content/Christmas-dates.aspx)
+
 [ ](https://web.archive.org/What-Is-PrePay.aspx)
 
-Website user friendly and service was very reasonably priced. I was very impressed with City Link...  
-[Read More...](http://parcel-delivery-reviews.parcel2go.com/town/Ormskirk/POOLE/11036)
+How fantastic to have an efficient door to door service. No need to go and queue up at the Post O...  
+[Read More...](http://parcel-delivery-reviews.parcel2go.com/town/Leyburn/Walker/12842)
 
 [ ](https://web.archive.org/Multiple-Quick-Quote.aspx)
