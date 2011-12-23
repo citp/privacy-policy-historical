@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the searchcanvas.com privacy policy that was archived on 2011-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110501082038id_/http%3A//www.searchcanvas.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the searchcanvas.com privacy policy that was archived on 2011-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111223111824id_/http%3A//www.searchcanvas.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   
@@ -108,7 +108,7 @@ margin-bottom:10px;
 }
 .searchbox .action_links{
 float:right;
-margin:0 10px 5px 0;
+margin:15px 10px 5px 0;
 font-size:12px;
 }
 #topnav .searchbox, #searchbox_bottom, #pagination{
@@ -385,10 +385,17 @@ margin-top:-10px;
 padding-top:10px;
 */
 }
+/*
 .url, .url a{
 color:#006600;
 }
 .url a{
+font-size:12px;
+text-decoration:none;
+}
+*/
+.url, .url a{
+color:#006600;
 font-size:12px;
 text-decoration:none;
 }
@@ -532,6 +539,15 @@ text-align:right;
 padding-right:10px;
 }
 
+#sponsored_top.floating{
+position:absolute;
+z-index:1;
+background-color:#FFFFFF;
+border-bottom-width:1px;
+border-bottom-style:solid;
+border-bottom-color:#DADADA;
+}
+
 .highlighted_result{
 background-color:#F5F6F9;
 padding:10px;
@@ -655,8 +671,22 @@ font-size:11px;
 }
 
 .deep_links{
+float:none;
+margin-left:0px;
+margin-top:5px;
+margin-bottom:6px;
+}
+.deep_links a.deeplink{
+text-decoration:none;
+}
+.deep_links .column_1, .deep_links .column_2{
 float:left;
-margin-left:20px;
+}
+.deep_links .column_1{
+margin-left:15px;
+}
+.deep_links .column_2{
+margin-left:16px;
 }
 
 .videothumb{
@@ -1241,17 +1271,15 @@ _background-color:#ffffff;
 /* Skin Starts Here */
 
 .search .skinned {
-	background-image: url(http://lw-cdn.searchcanvas-static.com/skins/0206_around_europe/bg.gif); 
-	background-position:bottom center;
-	background-color: #00E2EA;
-	color:#ffffff;             			
+	background-image: url(http://lw-cdn.searchcanvas-static.com/skins/0009_christmas_antique/bg.jpg); 
+	background-position: center top;
+	background-color: #F2F1DD;       		   				
 	background-repeat:no-repeat;				
 }
 .results .skinned #header {
-	background-image: url(http://lw-cdn.searchcanvas-static.com/skins/0206_around_europe/header.gif); 
+	background-image: url(http://lw-cdn.searchcanvas-static.com/skins/0009_christmas_antique/header.gif); 
 	background-repeat: repeat-x;
 	height: 44px;
-	background-position: top center;
 }
 
 /* Skin End Here */
@@ -1260,7 +1288,7 @@ _background-color:#ffffff;
   
   
   
-  <link rel="image_src" href="/skins/0206_around_europe/thumb.gif">
+  <link rel="image_src" href="/skins/0009_christmas_antique/thumb.jpg">
   
   
   
@@ -2094,16 +2122,16 @@ Event.observe(document, 'dom:loaded', function(){ Autocomplete.isDomLoaded = tru
     <ul id="searchtype_top" class="searchtype">
       
       <li id="searchtype_top_web" class="selected">
-        <a href="/?cat=web&amp;q=" onclick="SelectSearchType('searchform_top', 'searchtype_top', 'web', '/web'); return false;">Web</a>
+        <a href="/?q=&amp;cat=web" onclick="SelectSearchType('searchform_top', 'searchtype_top', 'web', '/web'); return false;">Web</a>
       </li>
       <li id="searchtype_top_images" class="">
-        <a href="/?cat=images&amp;q=" onclick="SelectSearchType('searchform_top', 'searchtype_top', 'images', '/images'); return false;">Images</a>
+        <a href="/?q=&amp;cat=images" onclick="SelectSearchType('searchform_top', 'searchtype_top', 'images', '/images'); return false;">Images</a>
       </li>
       <li id="searchtype_top_videos" class="">
-        <a href="/?cat=videos&amp;q=" onclick="SelectSearchType('searchform_top', 'searchtype_top', 'videos', '/videos'); return false;">Videos</a>
+        <a href="/?q=&amp;cat=videos" onclick="SelectSearchType('searchform_top', 'searchtype_top', 'videos', '/videos'); return false;">Videos</a>
       </li>
       <li id="searchtype_top_news" class="">
-        <a href="/?cat=news&amp;q=" onclick="SelectSearchType('searchform_top', 'searchtype_top', 'news', '/news'); return false;">News</a>
+        <a href="/?q=&amp;cat=news" onclick="SelectSearchType('searchform_top', 'searchtype_top', 'news', '/news'); return false;">News</a>
       </li>
       
     </ul>
@@ -2132,16 +2160,6 @@ Event.observe(document, 'dom:loaded', function(){ Autocomplete.isDomLoaded = tru
 		<div class="bar">
 		  <ul>
 		    
-		    <li class="search_services">
-		      
-		      <small>Search Results By</small>
-		      
-          
-          
-          <img src="/images/ui/logos/google_bing_yahoo_277x24.png" alt="Google Bing Yahoo!" width="277" height="24" class="trans">
-          
-	      </li>
-	      
 	      
         
       </ul>
@@ -2467,16 +2485,16 @@ Event.observe(document, 'dom:loaded', function(){ Autocomplete.isDomLoaded = tru
     <ul id="searchtype_bottom" class="searchtype">
       
       <li id="searchtype_bottom_web" class="selected">
-        <a href="/?cat=web&amp;q=" onclick="SelectSearchType('searchform_bottom', 'searchtype_bottom', 'web', '/web'); return false;">Web</a>
+        <a href="/?q=&amp;cat=web" onclick="SelectSearchType('searchform_bottom', 'searchtype_bottom', 'web', '/web'); return false;">Web</a>
       </li>
       <li id="searchtype_bottom_images" class="">
-        <a href="/?cat=images&amp;q=" onclick="SelectSearchType('searchform_bottom', 'searchtype_bottom', 'images', '/images'); return false;">Images</a>
+        <a href="/?q=&amp;cat=images" onclick="SelectSearchType('searchform_bottom', 'searchtype_bottom', 'images', '/images'); return false;">Images</a>
       </li>
       <li id="searchtype_bottom_videos" class="">
-        <a href="/?cat=videos&amp;q=" onclick="SelectSearchType('searchform_bottom', 'searchtype_bottom', 'videos', '/videos'); return false;">Videos</a>
+        <a href="/?q=&amp;cat=videos" onclick="SelectSearchType('searchform_bottom', 'searchtype_bottom', 'videos', '/videos'); return false;">Videos</a>
       </li>
       <li id="searchtype_bottom_news" class="">
-        <a href="/?cat=news&amp;q=" onclick="SelectSearchType('searchform_bottom', 'searchtype_bottom', 'news', '/news'); return false;">News</a>
+        <a href="/?q=&amp;cat=news" onclick="SelectSearchType('searchform_bottom', 'searchtype_bottom', 'news', '/news'); return false;">News</a>
       </li>
       
     </ul>
@@ -2494,12 +2512,13 @@ Event.observe(document, 'dom:loaded', function(){ Autocomplete.isDomLoaded = tru
     </div>
     
     
+    
     <p class="poweredby">
-      <small>Powered By</small>
       
-      <img src="/images/ui/logos/google_bing_yahoo_277x24.png" alt="Google Bing Yahoo!" width="277" height="24" class="trans">
+      <img src="/spaceball.gif" width="1" height="24">
       
     </p>
+    
     
     
     
@@ -2555,7 +2574,7 @@ var pageTracker = _gat._getTracker("UA-1048535-3");
 
 pageTracker._setVar("");
 pageTracker._setCustomVar(1, "Agent", "", 1); // visitor
-pageTracker._setCustomVar(1, "Skin", "Cnvs:206", 2); // session
+pageTracker._setCustomVar(1, "Skin", "Cnvs:9", 2); // session
 pageTracker._trackPageview();
 } catch(err) {}
 // -->
