@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the findlaw.co.uk privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522134634id_/http%3A//www.findlaw.co.uk/about_us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlaw.co.uk privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223143303id_/http%3A//www.findlaw.co.uk/about_us/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# 
 
 This statement applies to the online collection of personal information via websites operated by FindLaw, a Thomson Reuters business, and its worldwide affiliated companies and subsidiaries. Highlights of the Online Privacy Statement follow immediately below, or read the Full Text.
 
@@ -37,7 +37,7 @@ This statement applies to the online collection of personal information via webs
 
   * You may cancel your registration or update your preferences at any time simply by accessing your user account. 
   * If you do not want to receive information about our products or services, please update your account preferences (where available), check the appropriate box when registering and/or utilise the "unsubscribe" mechanism within the communications that you receive from us.
-  * If you have any additional questions or concerns related to this statement and/or our practices, please contact us via the following: 
+  * If you have any additional questions or concerns related to this statement and/or our practices, please contact us via the following:
 
 
 
@@ -81,7 +81,7 @@ Web server logs: When you visit our website, we may track information about your
   * the date and time of your visit; 
   * the web page from which you arrived to our site;
   * the pages you viewed on the site; and
-  * certain searches/queries that you conducted via our website(s). 
+  * certain searches/queries that you conducted via our website(s).
 
 
 
@@ -102,7 +102,7 @@ Also, please note that we may store and process your personal information in sys
 We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make you personal information available to any unaffiliated parties, except as follows:
 
   * to agents and/or contractors who may use it on our behalf or in connection with their relationship with us (for example, we may use third parties to help us with promotional campaigns); and
-  * as required by law, in a matter of public safety or policy, as needed in connection with the transfer of our business assets (for example, if we are acquired by another company or if we are liquidated during bankruptcy proceedings), or if we believe in good faith that sharing the data is necessary to protect our rights or property. 
+  * as required by law, in a matter of public safety or policy, as needed in connection with the transfer of our business assets (for example, if we are acquired by another company or if we are liquidated during bankruptcy proceedings), or if we believe in good faith that sharing the data is necessary to protect our rights or property.
 
 
 
