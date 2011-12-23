@@ -1,636 +1,641 @@
-<!--The following is the downloaded HTML source of the bigadda.com privacy policy that was archived on 2011-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110627023137id_/http%3A//www.bigadda.com/frontpage/_privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bigadda.com privacy policy that was archived on 2011-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111223143701id_/http%3A//www.bigadda.com/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-    <meta name="verify-v1" content="kIqylT9Bq5irlcQBXjSvGCS9IP8UfdxId1xYAuI2SWY=">
-    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-    <script type="text/javascript">
-      var system_base_url_acmy ='http://dist.assets.addacdn.com/';
-      var system_video_url_acmy ='http://dist.videos.addacdn.com/videos/';
-      var system_base_url ='http://www.bigadda.com/';
-      var system_img_url ='http://dist.assets.addacdn.com/';
-      var system_static_url ='http://www.bigadda.com/';
-      var abc=1;
-      var env_value='Online';
-      var url ='http://www.bigadda.com/';
-    </script>   
-    <!-- dynamic title , keywords and descriptions-->
-        <title>Privacy Policy - BIGADDA.com</title>
-<meta name="description" content="Bigadda - Indian Youth Networking Site which connects you with your friends. Share your videos, photos, build communities &amp; express yourself through Blogs.">
-<meta name="keywords" content="Bigadda, Indian Social Networking, Indian Social Networking Site, Indian Youth Network Site, Friendship, Friends, Photos, Videos, Music, Blogs, Communities,bollywwod videos. IPL, shahruk Khan, Katrina Kaif, Bollywood">
-
-        <link rel="shortcut icon" href="http://dist.assets.addacdn.com/storage/image/default/big.ico">
-        <link rel="stylesheet" href="http://dist.assets.addacdn.com/javascripts/yahoo/reset-fonts-grids/reset-fonts-grids.css?201102081002" type="text/css">
-    <link rel="stylesheet" href="http://dist.assets.addacdn.com/stylesheets/bigadda.css?201102081002" type="text/css">
-    <!--link rel="stylesheet" href="http://dist.assets.addacdn.com/stylesheets/slate-gray.css?201102081002" type="text/css"-->
-    <link rel="stylesheet" href="http://dist.assets.addacdn.com/javascripts/yahoo/container/assets/skins/sam/container.css?201102081002" type="text/css">
-    <script src="http://dist.assets.addacdn.com/javascripts/topnev.js?201102081002" type="text/javascript"></script>
-        
-<link rel="stylesheet" type="text/css" href="http://dist.assets.addacdn.com/stylesheets/privacy_terms.css">
-
-        
-        	<!--[if IE 7]><link rel="stylesheet" href="http://dist.assets.addacdn.com/stylesheets/v3/ie7-fix.css" type="text/css" media="screen, projection"><![endif]-->
-  </head>
-  <body>
-
-    <!--main div for new structure 1 column -->
-        <center>
-      <div id="main">
-	
-	  
-<script>
-  var EMPTY_SEARCH_STRING = 'Please enter keywords to be searched.';
-  var SEARCH_STRING_SHORT = 'Please enter minimum 3 characters.';
-
-  function checktopsearch(search_sub_act, come_from)
-  {
-  if( come_from === undefined )
-  {
-  come_from = '';
-  }
-
-  
-  var frm = document.getElementById("search_top_form");
-  var str = trim(frm.searched_keyword.value);
-  var action_for_search;	
-
-  if(come_from == 'main_link')
-  {
-  var frm = document.getElementById("search_top_form");
-  frm.searched_keyword.value = 'Mumbai Terror';
-  var action_for_search = '';	
-
-  frm.action = system_base_url+'search/'+action_for_search+'/'+str;  
-  frm.submit();
-  return true;
-  
-  }
-  else
-  {
-  if(str == '' || str == 'Search Everything' )
-  {
-  alert(EMPTY_SEARCH_STRING);
-  return false;
-  }
-  else if(str.length < 3)
-		       {
-	 	       alert(SEARCH_STRING_SHORT);  
-		       return false;
-		       }
-		       else
-		       {
-		       var search_value = document.getElementById("searched_keyword").value;
-		       frm.method = 'post'; 
-		       
-		       if (search_sub_act == 'photos')
-		       {
-		       action_for_search = 'photos';
-		       }
-		       else if (search_sub_act == 'video')
-		       {
-		       action_for_search = 'videos';
-		       }
-		       else if (search_sub_act == 'adda')
-		       {
-		       action_for_search = 'addas';
-		       }
-		       else if (search_sub_act == 'forum')
-		       {
-		       action_for_search = 'forums';
-		       }
-		       else if (search_sub_act == 'home')
-		       {
-		       action_for_search = 'members';
-		       }
-		       else if (search_sub_act == 'profile')
-		       {
-		       action_for_search = 'members';
-		       }	
-		       else if (search_sub_act == 'friends')
-		       {
-		       action_for_search = 'members';
-		       }	
-		       else if (search_sub_act == 'scribbles')
-		       {
-		       action_for_search = 'members';
-		       }	
-		       else if (search_sub_act == 'search')
-		       {
-		       action_for_search = 'search_all';
-		       }	
-		       else
-		       {
-		       action_for_search = 'search_all';
-		       }
-   		       frm.action = system_base_url+'search/'+action_for_search+'/'+search_value;  
-   		       frm.submit();
-		       return true;
-		       }
-		       }
-		       
-		       function trim(str, chars)
-		       {
-		       return ltrim(rtrim(str, chars), chars);
-		       } 
-
-		       function ltrim(str, chars)
-		       {
-		       chars = chars || "\\s";
-		       return str.replace(new RegExp("^[" + chars + "]+", "g"), "");
-		       }
-		       
-		       function rtrim(str, chars)
-		       {
-		       chars = chars || "\\s";
-		       return str.replace(new RegExp("[" + chars + "]+ s", "g"), "");
-		       }
-
-		       }
-		       </script>
-
-<script type="text/javascript">
-  function checkBlank(){
-  str = document.forms[0].q.value;
-  if(str != ""){
-  return true;
-  }
-  else{
-  alert(EMPTY_SEARCH_STRING);
-  return false;
-  }
-  }
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+    <title>Privacy Policy | BIGADDA SHOP</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Indian online shopping site from BIGADDA - compare price and shop online for mobiles, cameras, gadgets at shop.bigadda.com, an online shopping store in india where you can get best offers and buy at affordable price.">
+<meta name="keywords" content="BIGADDA SHOP, BIGADDA, shop, online store, best offer, compare, price, cart, pay now, mobiles, cameras, phones, MP3 players, electronics, accessories">
+<meta name="robots" content="INDEX,FOLLOW">
+<link rel="icon" href="http://www.bigadda.com/skin/frontend/default/a022_revamp/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.bigadda.com/skin/frontend/default/a022_revamp/favicon.ico" type="image/x-icon">
+<script type="text/javascript" async="" src="http://tracker.myseofriend.net/myseofriend.js"></script><script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://www.bigadda.com/js/blank.html';
+    var BLANK_IMG = 'http://www.bigadda.com/js/spacer.gif';
+    var SKIN_URL = 'http://www.bigadda.com/skin/frontend/default/a022_revamp/';
+//]]>
 </script>
 
-<div id="searched_keyword"></div> 
-<!-- HEADER -->
- 
-<div id="hd">
-  <!--Login Page and friends Code runs here-->
+<link rel="stylesheet" type="text/css" href="http://www.bigadda.com/skin/frontend/base/default/css/widgets.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.bigadda.com/skin/frontend/default/a022_revamp/css/custom.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.bigadda.com/skin/frontend/default/a022_revamp/css/styles.css" media="all">
+<script type="text/javascript" src="http://www.bigadda.com/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="http://www.bigadda.com/js/prototype/validation.js"></script>
+<script type="text/javascript" src="http://www.bigadda.com/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="http://www.bigadda.com/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="http://www.bigadda.com/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="http://www.bigadda.com/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="http://www.bigadda.com/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="http://www.bigadda.com/js/varien/js.js"></script>
+<script type="text/javascript" src="http://www.bigadda.com/js/varien/form.js"></script>
+<script type="text/javascript" src="http://www.bigadda.com/js/varien/menu.js"></script>
+<script type="text/javascript" src="http://www.bigadda.com/js/varien/weee.js"></script>
+<script type="text/javascript" src="http://www.bigadda.com/js/varien/accordionFAQ.js"></script>
+<script type="text/javascript" src="http://www.bigadda.com/js/mage/translate.js"></script>
+<script type="text/javascript" src="http://www.bigadda.com/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://www.bigadda.com/js/mw_js/jquery.js"></script>
+<script type="text/javascript" src="http://www.bigadda.com/js/mw_js/jquery_noconflict.js"></script>
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.bigadda.com/skin/frontend/default/a022/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.bigadda.com/skin/frontend/default/a022/css/ie8.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://www.bigadda.com/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://www.bigadda.com/skin/frontend/base/default/js/ie6.js"></script>
+<![endif]-->
+<script type="text/javascript">var Translator = new Translate([]);</script><meta name="google-site-verification" content="k2bZzWDaGPik6GGBBK5GXvPE_jDE7jMbXnzgi1v7apU">
+<meta name="y_key" content="78e6cc071e2bd5b0">
+<script>
+function noError(){return true;}
+window.onerror=noError;
+</script>
+<script>
+if (navigator.userAgent.indexOf("Windows")!=-1)
+{
+  document.write('<style>#er_52 {margin-top:-200px !important; *margin-top:-240px !important;}#er_59 { margin-top:-200px !important; *margin-top:-240px !important;}#er_67 { margin-top:-200px !important; *margin-top:-240px !important;}#er_75 { margin-top:-200px !important; *margin-top:-240px !important;}#er_81 { margin-top:-200px !important; *margin-top:-240px !important;}#er_90 { margin-top:-200px !important; *margin-top:-240px !important;}</style>');
+}
+else
+<!-- ubantu stylesheet starts here -->
+{
+   document.write('<style>#er_90 { margin-top:-190px !important;}</style>'); 
+}
+<!-- ubantu stylesheet ends here -->
+</script><style>#er_90 { margin-top:-190px !important;}</style>
 
-<!--Login Page Code runs here-->
-  <div id="custom-dochd">
+<style>
+@font-face {
+	font-family: 'RupeeForadianRegular';
+	src: url('http://www.bigadda.com/skin/frontend/default/a022_revamp/fonts/rupee_foradian2-webfont.eot');
+	src: local('RupeeForadianRegular'), 
+	url('http://www.bigadda.com/skin/frontend/default/a022_revamp/fonts/rupee_foradian2-webfont.woff') format('woff'), url('http://www.bigadda.com/skin/frontend/default/a022_revamp/fonts/rupee_foradian2-webfont.ttf') format('truetype'), url('http://www.bigadda.com/skin/frontend/default/a022_revamp/fonts/rupee_foradian2-webfont.svg#webfontuMB2mfNw') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+</style>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
+<body class=" cms-page-view cms-privacy-policy">
 
-    <div style="clear: both;" class="head-content">
-                   <div style="clear: both;" class="left">
-	<a href="http://www.bigadda.com/"><img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/BIGADDA-small.gif" alt="BIGADDA" border="0"></a>
-      </div>
-      <div id="topright">
-	<div id="searchbox">
-	  <!--	  <form name="search_top_form" id="search_top_form" method="post" action="">
-		  <input type="hidden" name="search_sub_act" id="search_sub_act" value="frontpage">
-		  <img class="left" src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/search-left.gif" alt="" border="0">
-		  <input type="text" name="searched_keyword" id="searched_keyword" onfocus="if(this.value=='Search Everything') this.value='';" onblur="if(this.value=='') this.value='Search Everything';" onKeyPress=" if(event.keyCode ==13){ checktopsearch(document.getElementById('search_sub_act').value); return false; }" class="searchMe" value="Search Everything">
-		  <button type="submit" class="searchBtn" onClick="checktopsearch('frontpage'); return false;"><img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/search-button.gif" alt="" border="0"></button>
-	    </form>-->
-
-	  <form action="http://www.bigadda.com/search/searchresults" id="cse-search-box">
-	    <div>
-	      <input type="hidden" name="cx" value="partner-pub-5475732381378922:qz4go2-xikz">
-	      <input type="hidden" name="cof" value="FORID:9">
-	      <input type="hidden" name="ie" value="ISO-8859-1">
-	      <input type="text" name="q" size="31">
-	      <input type="submit" name="sa" style="*position:relative;*top:1px" value="Search" onclick="return checkBlank();">
-	    </div>
-	  </form>
-	  
-	  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
-	  
-	  <div class="clear"></div>
-	</div>
-	<div class=" top-sep"></div>
-		<div class="userinfo nloguser">
-	  Existing user, <a href="http://www.bigadda.com/login">Login here</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.bigadda.com/signup">Register Free</a><br>
-	</div>
-
-	
-		<div class="clear"></div>
-      </div><div class="clear spacer0"><br></div>
-      
-      <div id="common-ico-bar">
-	<div class="head-icon-bar">
-	  <img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/header-corner-left.gif" alt="" class="nav-cor-left" border="0">
-	  <img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/header-corner-right.gif" alt="" class="nav-cor-right" border="0">
-
-	  	  <!--	  <div id="main-navigation" class="left font10">  -->
-	  
-	  	  <div class="tab first-t">
-	    <a href="http://www.bigadda.com/">
-	      <img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/icon-common-header-home.gif" alt="" border="0"> Home
-	    </a>
-	  </div>
-	  
-	  	  <div class="tab">
-	    <a href="http://shop.bigadda.com" target="_blank">
-	      <img src="http://dist.assets.addacdn.com/storage/image/v3/home/shopping.gif" alt="" border="0"> Shopping
-	    </a>
-	  </div>
-	  
-	  	  <div class="tab">
-	    <a href="http://www.bigadda.com/photos">
-	      <img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/icon-common-header-photos.gif" alt="" border="0"> Photos
-	    </a>
-	  </div>
-	  
-	  	  <div class="tab">
-	    <a href="http://www.bigadda.com/video">
-	      <img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/icon-common-header-videos.gif" alt="" border="0"> Videos
-	    </a>
-	  </div>
-	  
-
-	  	  <div class="tab">
-	    <a href="http://blogs.bigadda.com/">
-	      <img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/icon-common-header-blog.gif" alt="" border="0"> Blogs
-	    </a>
-	  </div>
-	  
-	  	  <div class="tab">
-	    <a href="http://www.bigadda.com/adda/public-active">
-	      <img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/icon-common-header-adda.gif" alt="" border="0"> Adda
-	    </a>
-	  </div>
-	  	  <div class="tab">
-	    <a href="http://bigadda.quikr.com/">
-	      <img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/icon-common-header-quikr.gif" alt="" border="0">Classifieds
-	    </a>
-	  </div>
-
-	  	  <!--div class="tab active">
-	    <a href="http://www.bigadda.com/finance">
-	      <img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/icon_closeprice.gif" alt="" border="0"> Finance
-	    </a>
-	  </div-->
-	  	  <!--div class="tab">
-	    <a href="http://www.bigadda.com/finance">
-	      <img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/icon_closeprice.gif" alt="" border="0"> Finance
-	    </a>
-	  </div-->
-	  
-	  	  <!--	</div> -->
-	  	  
-	</div>
-      </div>
-      <div class="clear"></div>
-    </div>
-    <div class="shadow-border">
-      <img class="left" src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/cor-top-left.gif" alt="" border="0">
-      <img class="right" src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/cor-top-right.gif" alt="" border="0">
-      <div class="clear spacer0"><br></div>
-      <div class="clearhd"></div>
-    </div>
-  </div>
-</div>
-	  	  <div id="middle">
-	    	 <div id="bd">
-		<div id="yui-main">
-		  <div class="yui-b">
-			 <div class="yui-g">
-				 <!-- content -->
-				 <div class="custom-docbd">
-	<div class="pad20">
-		<h2><b>BIGADDA.com - Privacy Policy</b></h2>
-		<hr class="gray1pxcc">
-
-		<div style="text-align:justify;">
-			Last Revised on: July 27, 2007<br><br><br>
-
-			<b class="black font14">About BIGADDA.com</b><br><br>
-
-			BIGADDA.com is an online youth networking site, owned and managed by <b>BIGADDA.com</b>. Registered members are allowed to set up unique personal profiles that can be linked together through networks of friends. BIGADDA members can view each others' profiles with the objective of making new friends, communicating with old friends, sharing photos and posting journals and comments etc. <b>In order to ensure that the objectives of the site can be fulfilled to the satisfaction of BIGADDA members</b>, we request and display some personal information / profile information relating to one or more members to other members and visitors, which allows our users to identify each other and expand their network of friends. BIGADDA members can change their personal information and/or profile information at any time. Kindly note that although most of the online services are offered for free, users would require a "Mandatory Registration" to navigate and use BIGADDA services. To know more about the said "Mandatory Registration", please follow the link below:<br>
-
-			<a href="http://www.bigadda.com/signup">http://www.bigadda.com/signup</a><br><br>
-
-			BIGADDA.com respects the privacy of users and is committed to protect their privacy in all respects. Should you have any questions concerning this privacy policy, please email us at <a href="mailto:privacy@bigadda.com?subject=Privacy%20on%20BigAdda">privacy@bigadda.com</a>.<br><br>
-
-			The present privacy policy governs the online information collection practices of BIGADDA.com ("we" or "us" or "BIGADDA"). Specifically, it outlines the types of information that we gather about you from your use of the BIGADDA.com website (the "Site"), and the ways in which we use and don't use this information. This privacy policy, including our children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means. To register for full access to the Site and in certain areas of the Site (for example, on contest entry pages), where personal information is requested, you may be asked for your age or birth date. You hereby agree that all information you provide to BIGADDA regarding age verification shall be truthful, accurate, and complete.<br><br>
-
-			This privacy policy details important information regarding the use and disclosure of user and/ or member information collected on the Site. BIGADDA provides this privacy policy to help you make an informed decision about whether to use or discontinue using the Site.<br><br>
-
-			This privacy policy is incorporated into and is subject to the BIGADDA <a href="http://www.bigadda.com/frontpage/_terms_of_use">Terms of Use</a>. Your use of the BIGADDA Site and any personal information you provide on the Site remains subject to the terms of this privacy policy and our <a href="http://www.bigadda.com/frontpage/_terms_of_use">Terms of Use</a>.<br><br>
-
-			Please note that any video, image, comment or other content posted on the Site becomes published content and is not considered personally identifiable information which is subject to this privacy notice.<br><br>
-
-			Please read this privacy policy carefully. By visiting and using the Site, you agree that your use of the Site, and any dispute over privacy, is governed by this privacy policy and our <b>Terms of Use</b> at the following link: <a href="http://www.bigadda.com/frontpage/_terms_of_use">Terms of Use</a>.<br><br><br><br>
-
-			<b class="black font14">What information is collected about our users and members?</b><br><br>
-
-			The information that we collect about you while you are using the Site falls into the following general categories:<br><br>
-
-			<b class="black">1. User provided information</b>: We may collect and store information, personal or otherwise, that you voluntarily supply either while on the Site or in responding via email in connection with a feature provided on the Site. Some examples of this type of information include demographic information that you electronically submit when you sign up for access to certain features on the Site, information (such as your name or email address) that you electronically submit when you register for surveys or contests on the Site, information that you post on message boards on the Site, and information contained in search requests or questions that you submit to the Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.<br><br>
-
-			<b class="black">2. Cookies information</b>: When you visit the BIGADDA Site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. BIGADDA uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the BIGADDA Site may not function properly.<br><br>
-			In addition, third party advertisers or third party ad servers that place and present advertising on the Site also may collect information from you via cookies, web beacons, clear .gifs or similar technologies. These third party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements' effectiveness, or for other uses. The use and collection of your information by these third party advertisers and ad servers is governed by the relevant third party's privacy policy and is not covered by our privacy policy. Indeed, the privacy policy of these third party advertisers and ad servers may be different from our privacy policy.<br><br>
-
-			<b class="black">3. Log file information</b>: When you use the BIGADDA Site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.<br><br>
-
-			<b class="black">4. Clear / transparent GIFs information</b>: When you use the BIGADDA Site, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our users / members anonymously. In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.<br><br><br><br>
-
-			<b class="black font14">How is this information used?</b><br><br>
-
-			<ol style="margin-left: 20px;">
-				<li>
-					If you submit personally identifiable information to us through the BIGADDA Site, then we use your personal information to operate, maintain, and provide to you the features and functionality of the BIGADDA Site.<br><br>
-				</li>
-				<li>
-					Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected, seen and used by others besides us. We cannot be and are not responsible for any unauthorized third party use of such information. Your account name (not your email address) is displayed to other users / members when you upload videos or send messages through the BIGADDA Site and other users / members can contact you through messages and comments. Any videos that you submit to the BIGADDA Site may be redistributed through the internet and other media channels, and may be viewed by the general public.<br><br>
-				</li>
-				<li>
-					We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may provide our advertisers with information about you and other visitors that will enable our advertisers to better target ads to specific types of visitors. We reserve the right to use and to disclose to third parties all of the information that we collect online about you and other visitors in any way and for any purpose, with one important exception viz. We will not use the information that we collect online from you while you are using the Site, nor will we authorize third parties to use such information, to mail or email promotional offers directly to you unless you have specifically informed us that you would like to receive promotional offers from us and/or from third parties. If you choose to receive these promotional offers, then your information may be used for direct mail or email marketing. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major BIGADDA Site changes or for customer service purposes).<br><br>
-				</li>
-				<li>
-					We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the BIGADDA Site and to create new features, promotions, functionality, and services by storing, tracking, and analyzing user / member preferences and trends.<br><br>
-				</li>
-				<li>
-					We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the BIGADDA Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, and contests.<br><br>
-				</li>
-				<li>
-					The Site includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.<br><br>
-				</li>
-				<li>
-					We may also make some content, products and services available through our Site through cooperative relationships with third party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly; in which cases the privacy policy of the provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information. Be aware that we may occasionally release information about visitors / members when release is appropriate to comply with law, to enforce our Terms of Service agreement, or to protect the rights, property or safety of users of the Site, the public, or the BIGADDA Site.<br><br>
-				</li>
-				<li>
-					Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our visitors may be among the transferred assets.<br><br>
-				</li>
-			</ol><br><br>
-
-			<b class="black font14">When BIGADDA discloses information</b><br><br>
-
-			<ul style="margin-left: 20px;">
-				<li>
-					We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliate companies, or other businesses or people for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.<br><br>
-				</li>
-
-				<li>
-					We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the BIGADDA Site.<br><br>
-				</li>
-				<li>
-					We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with any law or to respond to a court order or an order from any governing body or statutory authority.<br><br>
-				</li>
-				<li>
-					BIGADDA also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that BIGADDA believes, in good faith, is appropriate or necessary to enforce our <a href="http://www.bigadda.com/frontpage/_terms_of_use">Terms of Use</a>, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of BIGADDA, our users / members or others.<br><br>
-				</li>
-			</ul><br><br>
-
-			<b class="black font14">Invitations and other communications to non-members</b><br><br>
-
-			BIGADDA members can invite friends to join the service by sending invitation emails via our automated invitation system. The BIGADDA Site stores the email addresses that members provide so that the respondents may be added to the friend's list of the member sending the invitations, and also to send reminders of the invitations. The BIGADDA Site does not sell these email addresses or use them to send any other communication besides invitations, invitation reminders (up to three (3) per email address). Recipients of invitations from BIGADDA may contact the BIGADDA Site to request the removal of their information from our database.<br><br>
-			BIGADDA members may also store email addresses of people they know in their internal BIGADDA address book and may also choose to send invitations and other communications to those addresses.<br><br>
-			You may prevent email invitations from us by sending a single email with the subject "BLOCK" to <a href="mailto:unsubscribe@bigadda.com?subject=Unsbuscribe">unsubscribe@bigadda.com</a>. Please note that the email must come from the account you wish to block.<br><br><br><br>
-
-			<b class="black font14">Our commitment to childrens' privacy</b><br><br>
-
-			The Site is NOT directed to or intended for people under the age of Eighteen. A User less than 18 (Eighteen) years of age should not register to use the Site. BIGADDA does not knowingly collect any personal information from people under the age of eighteen. If you are a parent of a person under the age of eighteen and you have questions about our Site or Privacy Policy, please feel free to contact the BIGADDA Privacy Coordinator at <a href="mailto:privacy@bigadda.com?subject=Parental%20Consent">privacy@bigadda.com</a>.<br><br><br><br>
-
-			<b class="black font14">Our commitment to data security</b><br><br>
-
-			We use commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to BIGADDA and you do so at your own risk. Once we receive your transmission of information, BIGADDA makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.<br><br>
-			If BIGADDA learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. BIGADDA may post a notice on the BIGADDA Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this link <a href="mailto:privacy@bigadda.com?subject=Security%20Breach%20at%20BigAdda">privacy@bigadda.com</a>.<br><br><br><br>
-
-			<b class="black font14">Special note to international users/ members</b><br><br>
-
-			BIGADDA is hosted in India and is intended for and directed to users / members in India. If you are a user / member accessing the BIGADDA Site from any other region with laws or regulations governing personal data collection, use, protection and disclosure, that differ from Indian laws, please be advised that through your use of the BIGADDA Site, this Privacy Notice, and our <a href="http://www.bigadda.com/frontpage/_terms_of_use">Terms of Use</a>, you are transferring your personal information to India and you consent to that transfer. We will only be complying with the legal provisions on the subject matter as applicable in India from time to time.<br><br><br><br>
-
-			<b class="black font14">How you can make changes to your information</b><br><br>
-
-			<b class="black">Notification of change</b><br>
-				We reserve the right at any time to: change the terms of this Agreement; change the Services, including eliminating or modifying any content on or feature of the Site; or change/charge any fees or charges for use of the Services.<br>
-				Any changes we make will be effective immediately on notice, which we may give either by posting the new Agreement on the Site or via electronic mail. Your use of the Services after such notice will be deemed acceptance of such changes. Be sure to review this Agreement periodically to ensure your familiarity with the most current version. You will always be able to tell when the version was last updated by checking the "Last Revised" date in the header of this agreement.<br><br>
-
-			<b class="black">Conflict resolution</b><br>
-			We are committed to resolving disputes as soon as feasible and shall endeavor to resolve all disputes brought to our notice in keeping with the mechanism prescribed, within 15 working days of such receipt.<br><br><br><br>
-
-			<span style="line-height:20px;">
-				<b class="black font14">Contact Information:</b><br>
-				If site users have any questions or suggestions regarding our privacy policy, please contact us at:<br>
-				<span class="black">E-mail</span>: <a href="mailto:customercare@bigadda.com?subject=Query">customercare@bigadda.com</a><br>
-				<span class="black">Telephone</span>: +91 22 3290 0061<br>
-				<span class="black">Postal Address</span>: 5th Floor, 49/50 Maruti Chambers, Veera Desai Extension Road, Off New Link Road, Andheri (W), Mumbai - 400 053.<br><br><br><br>
-
-				<b class="black font14">Website Administration</b><br>
-				<span class="black">Business Name</span>: BIGADDA.com<br>
-				<span class="black">Address</span>: 5th Floor, 49/50 Maruti Chambers, Veera Desai Extension Road, Off New Link Road, Andheri (W), Mumbai - 400 053.<br>
-				<span class="black">City</span>: Mumbai<br>
-				<span class="black">State</span>: Maharashtra<br>
-				<span class="black">Country</span>: India<br>
-				<span class="black">Website URL</span>: http://www.bigadda.com<br><br><br>
-			</span>
-		</div>
-		
-	</div>
-</div>
-			 </div>
-			 <div class="yui-b">
-			    <!-- right panel -->
-			    			 </div>
-		  </div> 
-		</div>
-		<div class="yui-b">
-		  <!-- right panel -->
-		  		</div>
-	 </div>
-	  </div>
-	    <!-- FOOTER -->
-
-      
-
-<!-- FOOTER for login page -->
-<div id="ft">
-  <div id="bd-bottom" style="background:url(http://dist.assets.addacdn.com/storage/image/v3/new_layout/bd-bottom.gif) repeat-x;">
-    <img class="left" src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/cor-bot-left-body.gif" alt="" border="0">
-    <img class="right" src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/cor-bot-right-body.gif" alt="" border="0">
-  </div>
-  
-   <div style="margin-top:5px;margin-left:16px;" id="inner-ft2">
-  	<a href="http://Shop.bigadda.com?track=footer_heading" target="_blank"><img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/discount-strip2.png" border="0"></a>
-  </div>
-  <div style="margin-top:1px;" id="inner-ft">
-    <div id="colored-ft">
-      <div class="ft-pane2">
-        <div align="center" class="img-pane">
-          <a href="http://shop.bigadda.com/phones.html?track=footer_phones"><img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/pda-img.png" border="0"></a>
+<!-- BEGIN GOOGLE ANALYTICS CODE -->
+<script type="text/javascript">
+//<![CDATA[
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+    })();
+var _gaq = _gaq || [];
+    _gaq.push(["_setAccount", "UA-18215360-2"]);
+    _gaq.push(["_trackPageview", "/privacy_policy/"]);
+//]]>
+</script>
+<!-- END GOOGLE ANALYTICS CODE -->
+        <div class="wrapper">
+        <noscript>
+        <div class="noscript">
+            <div class="noscript-inner">
+                <p>We detected that your JavaScript seem to be disabled.</p>
+                <p>You must have JavaScript enabled in your browser to utilize the functionality of this website.</p>
+            </div>
         </div>
-        <div style="margin-left:43px;"><div style="font-weight: bold; font-size: 14px;"><a href="http://shop.bigadda.com/phones.html?track=footer_phones">Phones:</a></div>
-        <a href="http://shop.bigadda.com/phones/mobile-phones.html?track=footer_mobiles" target="_blank">Mobile Phones</a>
-        <a href="http://shop.bigadda.com/phones/mobile-phones.html?price=1,3000&amp;track=footer_mobiles3000" target="_blank">Mobiles &lt; Rs.3000</a>
-        <a href="http://shop.bigadda.com/phones/desk-phones.html?track=footer_desk" target="_blank">Desk Phones</a>
-        <a href="http://shop.bigadda.com/phones/phone-accessories/bluetooth.html?track=footer_bluetooth" target="_blank">BlueTooth</a>
-        <a href="http://shop.bigadda.com/phones/phone-accessories/mobile-battery.html?track=footer_mobileBattery" target="_blank">Mobile Battery</a></div>
-      </div>
-      <img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/separator.gif" alt="" class="left" border="0">
-      <div class="ft-pane23">
-	<div align="center" class="img-pane">
-          <a href="http://shop.bigadda.com/cameras.html?track=footer_cameras" target="_blank"><img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/picscam-img.png" border="0"></a>
-       </div>
-       <div style="margin-left:23px;"><div style="font-weight: bold; font-size: 14px;"><a href="http://shop.bigadda.com/cameras.html?track=footer_cameras" target="_blank">Cameras:</a></div>
-	<a href="http://shop.bigadda.com/cameras/digital.html?track=footer_digital" target="_blank">Digital</a>
-	<a href="http://shop.bigadda.com/cameras/digital.html?price=1,3000&amp;track=footer_digital3000" target="_blank">Digital Cam. &lt; Rs.3000</a>
-	<a href="http://shop.bigadda.com/cameras/video.html?track=footer_video" target="_blank">Video</a>
-	<a href="http://shop.bigadda.com/cameras/slr.html?track=footer_slr" target="_blank">SLR</a>
-	<a href="http://shop.bigadda.com/cameras/security-spy-cam.html?track=footer_spy" target="_blank">Security &amp; Spy Cams</a></div>
-      </div>
-      <img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/separator.gif" alt="" class="left" border="0">
-      <div class="ft-pane3">
-	<div align="center" class="img-pane">
-          <a href="http://shop.bigadda.com/computers-parts.html?track=footer_computerAcc" target="_blank"><img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/comp-img.png" border="0"></a>
-       </div>
-	<div style="font-weight: bold; font-size: 12px;"><a href="http://shop.bigadda.com/computers-parts.html?track=footer_computerAcc" target="_blank">Computer Accessories:</a></div>
-	<div style="margin-left:3px;"><a href="http://shop.bigadda.com/computers-parts/storage-devices/pen-drives.html?track=footer_pendrives" target="_blank">Pen Drives</a>
-	<a href="http://shop.bigadda.com/computers-parts/computer-accessories/headphones.html?track=footer_headphones" target="_blank">Headphones</a>
-	<a href="http://shop.bigadda.com/computers-parts/computer-accessories/speakers.html?track=footer_speakers" target="_blank">Speakers</a>
-	<a href="http://shop.bigadda.com/computers-parts/storage-devices/external-hard-drives.html?track=footer_exthd" target="_blank">External Hard Drives</a>
-       <a href="http://shop.bigadda.com/computers-parts/storage-devices/memory-cards.html?track=footer_memcards" target="_blank">Memory Cards</a></div>
-      </div>
-      <img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/separator.gif" alt="" class="left" border="0">
-      <div class="ft-pane">
-	<div align="center" class="img-pane">
-          <a href="http://shop.bigadda.com/electronics.html?track=footer_electronics" target="_blank"><img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/ipod-img.png" border="0"></a>
-       </div>
-	<div style="margin-left:34px;"><div style="font-weight: bold; font-size: 14px;"><a href="http://shop.bigadda.com/electronics.html?track=footer_electronics" target="_blank">Electronics:</a></div>					  
-	<a href="http://shop.bigadda.com/electronics/mp3-players-accessories.html?track=footer_mp3players" target="_blank">MP3 Players</a>
-	<a href="http://shop.bigadda.com/electronics/ipods.html?track=footer_ipods" target="_blank">iPODs</a>
-	<a href="http://shop.bigadda.com/electronics/ipod-accessories.html?track=footer_ipodacc" target="_blank">iPOD Accessories</a>
-	<a href="http://shop.bigadda.com/electronics/gps-devices.html?track=footer_gps" target="_blank">GPS Devices</a>
-	<a href="http://shop.bigadda.com/electronics/car-accessories.html?track=footer_caracc" target="_blank">Car Accessories</a></div>
-      </div> 
-      <img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/separator.gif" alt="" class="left" border="0">
-      <div class="ft-pane22">
-	<div align="center" style="margin-bottom:7px;" class="img-pane">
-          <a href="http://shop.bigadda.com/gaming.html?track=footer_gaming" target="_blank"><img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/gcon-img.png" border="0"></a>
-       </div>
-	<div style="font-weight: bold; font-size: 14px;" class="centerlink"><a href="http://shop.bigadda.com/gaming.html?track=footer_gaming" target="_blank">Games:</a></div>
-	<div style="margin-left:5px;" class="centerlink"><a href="http://shop.bigadda.com/gaming/ps3-games.html?track=footer_ps3games" target="_blank">PS3 Games</a>
-	<a href="http://shop.bigadda.com/gaming/xbox-360-games.html?track=footer_xboxgames" target="_blank">Xbox Games</a>
-	<a href="http://shop.bigadda.com/gaming/wii-games.html?track=footer_wiigames" target="_blank">Wii Games</a>
-	<a href="http://shop.bigadda.com/gaming/gaming-consoles.html?track=footer_gameconsoles" target="_blank">Gaming Consoles</a>
-	<a href="http://shop.bigadda.com/gaming/game-accessories.html?track=footer_gameacc" target="_blank">Gaming Accessories</a></div>
-      </div>
-      <div class="clear"></div>
-    </div>
-  </div>
-  <br>
-  <div id="inner-ft">
-    <div id="colored-ft">
-      <div class="ft-pane">
-        <b>Shopping:</b>
-        <a href="http://shop.bigadda.com/phones/mobile-phones.html?track=footer_link" target="_blank">Mobile Phones</a>
-        <a href="http://shop.bigadda.com/phones/desk-phones.html?track=footer_link" target="_blank">Desk Phones</a>
-        <a href="http://shop.bigadda.com/cameras/digital.html?track=footer_link" target="_blank">Digital Camera</a>
-        <a href="http://shop.bigadda.com/cameras/video.html?track=footer_link" target="_blank">Video Camera</a>
-        <a href="http://shop.bigadda.com/computers-parts/storage-devices/pen-drives.html?track=footer_link" target="_blank">Pen Drives</a>
-        <a href="http://shop.bigadda.com/computers-parts/storage-devices/external-hard-drives.html?track=footer_link" target="_blank">Portable HDD</a>
-        <a href="http://shop.bigadda.com/computers-parts.html?track=footer_link" target="_blank">Computer Accessories</a>
-        <a href="http://shop.bigadda.com/electronics/mp3-players-accessories.html?track=footer_link" target="_blank">MP3 Players</a>
-        <a href="http://shop.bigadda.com/electronics/ipods.html?track=footer_link" target="_blank">Ipods</a>
-        <a href="http://shop.bigadda.com/electronics/gps-devices.html?track=footer_link" target="_blank">GPS Devices </a>
-        <a href="http://shop.bigadda.com/phones/phone-accessories/bluetooth.html?track=footer_link" target="_blank">Bluetooth</a>
-      </div>
-      <img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/separator.gif" alt="" class="left" border="0">
-      <div class="ft-pane"><b>Videos:</b>
-	<a href="http://www.bigadda.com/search/videos/Katrina Kaif">Katrina Kaif Videos</a>
-	<a href="http://www.bigadda.com/search/videos/Priyanka Chopra">Priyanka Chopra Video</a>
-	<a href="http://www.bigadda.com/search/videos/Salman Khan">Salman Khan Video Clip</a>
-	<a href="http://www.bigadda.com/search/videos/Hrithik Roshan">Hrithik Roshan Clips</a>
-	<a href="http://www.bigadda.com/search/videos/Kareena Kapoor">Kareena Kapoor Videos</a>
-	<a href="http://www.bigadda.com/video/Asi5061111/_show_video">Cricket Video</a>
-	<a href="http://www.bigadda.com/search/videos/Deepika Padukone">Deepika Padukone Clip</a>
-	<a href="http://www.bigadda.com/search/videos/Shahrukh Khan">Shahrukh Khan Video</a>
-	<a href="http://www.bigadda.com/search/videos/Dhoni">M S Dhoni Video Clip</a>
-	<a href="http://www.bigadda.com/search/videos/Sachin Tendulkar">Sachin Tendulkar Video</a>
-	<a href="http://www.bigadda.com/search/videos/Music">Music Videos</a></div>
+    </noscript>
+    <div class="page">
+        
 
-      <img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/separator.gif" alt="" class="left" border="0">
-      <div class="ft-pane"><b>Photos:</b>
-	<a href="http://www.bigadda.com/search/photos/Bollywood">Bollywood Photos</a>
-	<a href="http://www.bigadda.com/search/photos/Actor">Actor Photo</a>
-	<a href="http://www.bigadda.com/search/photos/Actress">Actress Photos</a>
-	<a href="http://www.bigadda.com/search/photos/Celebrity">Celebrity Pics</a>
-	<a href="http://www.bigadda.com/search/photos/Fashion">Fashion Pictures</a>
-	<a href="http://www.bigadda.com/search/photos/Aishwarya Rai">Aishwarya Rai Photos</a>
-	<a href="http://www.bigadda.com/search/photos/India">India Pictures</a>
-	<a href="http://www.bigadda.com/search/photos/Bipasha Basu">Bipasha Basu Photo</a>
-	<a href="http://www.bigadda.com/search/photos/Akshay Kumar">Akshay Kumar Photos</a>
-	<a href="http://www.bigadda.com/search/photos/Aamir Khan">Aamir Khan Pics</a>
-	<a href="http://www.bigadda.com/search/photos/Sushmita Sen">Sushmita Sen Pictures</a></div>
-      
-      <img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/separator.gif" alt="" class="left" border="0">
-      <div class="ft-pane"><b>Blogs:</b>
-	<a href="http://bigb.bigadda.com" target="_blank">Amitabh Bachchan</a>
-	<a href="http://blogs.bigadda.com/bom5029344/" target="_blank">Boman Irani</a>
-	<a href="http://vivekagnihotri.bigadda.com/" target="_blank">Vivek Agnihotri</a>
-	<a href="http://arbaazkhan.bigadda.com/" target="_blank">Arbaaz Khan</a>
-	<a href="http://viveksharma.bigadda.com/" target="_blank">Vivek Sharma</a>
-	<a href="http://blogs.bigadda.com/ind5052870/" target="_blank">India Today</a>
-	<a href="http://blogs.bigadda.com/pcq5032662/" target="_blank">PCQuest</a>
-	<a href="http://blogs.bigadda.com/dat5032655/" target="_blank">Dataquest</a>
-	<a href="http://blogs.bigadda.com/liv5033950/" target="_blank">Living Digital</a>
-	<a href="http://blogs.bigadda.com/dqw5032689/" target="_blank">The DQ Week</a>
-	<a href="http://blogs.bigadda.com/" target="_blank">more</a>
-      </div>
-      <img src="http://dist.assets.addacdn.com/storage/image/v3/new_layout/separator.gif" alt="" class="left" border="0">
-      <div class="ft-pane"><b>Content Partners:</b>
-	<a href="http://www.bigadda.com/video/Zee5021613/_show_video/" target="_blank">Zee TV</a>
-	<a href="http://www.bigadda.com/video/ETN4961766/_show_video/" target="_blank">ET Now</a>
-	<a href="http://www.bigadda.com/video/ZOOMTV/_show_video/" target="_blank">Zoom TV</a>
-	<a href="http://www.bigadda.com/video/Leh4962725/_show_video/" target="_blank">Lehren TV</a>
-	<a href="http://www.bigadda.com/video/Raj4972381/_show_video/" target="_blank">Rajshri.com - Hindi</a>
-	<a href="http://www.bigadda.com/video/Des4867847/_show_video/" target="_blank">Desimad</a>
-	<a href="http://www.bigadda.com/video/Sta5035311/_show_video/" target="_blank">Star Plus</a>
-	<a href="http://www.bigadda.com/video/Sta5035307/_show_video/" target="_blank">Star One</a>
-	<a href="http://www.bigadda.com/video/Ani4999594/_show_video/" target="_blank">ANI</a>
-	<a href="http://www.bigadda.com/video/Tim4112478/_show_video/" target="_blank">Times Now</a>
-	<a href="http://www.bigadda.com/video/_show_content_partner" target="_blank">more</a>
-      </div>
-      <div class="clear"></div>
+
+
+<div class="header-container">
+
+    <div class="header-top-container headersprite">
+ <div class="big-topbar"><div class="bigtopcenter"><div class="tagsorder">  
+				  <div class="call-us">
+					  <div class="porder">Call to Order - (0)9223322211</div>
+				  </div>
+                           </div>
+				<div class="quick-access">
+                            
+				<div class="shop-access">
+                                    <p class="welcome-msg">
+							Welcome						</p> 
+                                                 
+<ul>	
+    		
+        <li class="first"><a href="http://www.bigadda.com/customer/account/login/" title="Log In" class="my-login" rel="nofollow">Log In</a></li>
+    		
+        <li><a href="http://www.bigadda.com/customer/account/create/" title="Register">Register</a></li>
+    		
+        <li><a href="http://www.bigadda.com/order-status" title="Track Order">Track Order</a></li>
+    		
+        <li><a href="http://www.bigadda.com/checkout/cart/" title="My Shopping Cart" class="top-link-cart">My Shopping Cart</a></li>
+    		
+        <li class="last"><a href="http://www.bigadda.com/contacts" title="Contact Us">Contact Us</a></li>
+    </ul>
+
+				</div>
+				
+			    </div>
+                         
+                     </div></div>
+        <div class="header">
+
+        	<!--Top header including logo, search box and other links goes here-->
+            <div class="header-top">
+                 <div style="margin-top:1px;" class="logo"><a href="http://www.bigadda.com/"><img src="http://www.bigadda.com/skin/frontend/default/a022_revamp/images/logo.gif" alt="Bigadda"></a></div>
+			 <a href="http://www.bigadda.com/catalog/category/view/s/new-hot-offers/id/331/"><div class="ho-box bigheadericon "></div></a>
+                 <div class="topRight">
+					<p class="no-display">
+						<a href="#main"><strong>Skip to Main Content »</strong></a>
+
+					</p>
+					<!---->
+			  
+                        <!--Shop and Bigadda's Site Search-->
+			<form id="search_mini_form" action="http://www.bigadda.com/catalogsearch/result/" method="get">
+                          <fieldset>
+                            <legend>Search Site</legend>
+                           <div class="bigsearchbox">
+				    
+                                <div class="mini-search"><div class="bigsearch-left bigheadericon"></div>
+                                   <div class="bigsearch-bg headersprite"><input id="search" type="text" class="input-text required-entry" name="q" value=""></div>
+					<div class="input-submit bigheadericon"><input type="submit" class="input-submit bigheadericon" value=""></div>
+					<div class="bigsearch-right bigheadericon"></div>
+
+                                   
+                                   <input type="hidden" name="order" value="relevance"> 
+                                   <input type="hidden" name="dir" value="desc">
+
+                                     <div id="search_autocomplete" class="search-autocomplete"></div>
+                                   <script type="text/javascript">
+                                    //<![CDATA[
+                                   jQuery.noConflict();
+                                   var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search entire store here...');
+                                   searchForm.initAutocomplete('http://www.bigadda.com/'+'catalogsearch/ajax/suggest/', 'search_autocomplete');
+                                   //]]>
+                                  </script>
+                               </div>
+
+					<div class="pop-tags"><div class="bigheadericon durbin"></div>
+                        	   	<span class="popular">Popular searches - </span>
+                              	<span class="tags">
+                                      <a href="http://www.bigadda.com/mobile.html?source=header">Mobile, </a>
+                                      <a href="http://www.bigadda.com/mobile.html?brand=49&amp;source=header">Blackberry, </a> 
+					    <a href="http://www.bigadda.com/mobile.html?brand=38?source=header">Nokia, </a>
+                              	</span>
+                              	<span style="display:block;" class="tags">
+                                      <a href="http://www.bigadda.com/lifestyle-products/appliances.html?source=header">Home Appliances, </a>
+                                      <a href="http://www.bigadda.com/lifestyle-products/health-beauty.html?source=header">Beauty Products</a>
+                             	</span> 
+                               </div>
+  
+
+
+                             </div>
+                         </fieldset>
+                        </form>		
+                        <!--Shop and Bigadda's Site Search-->	
+                        	
+					<!---->
+                    
+				</div>
+                <!-- <div class="site-pick">
+                	<div class="shop-tab"><a href="http://shop.bigadda.com/"><img src="http://www.bigadda.com/skin/frontend/default/a022_revamp/images/shopping-home.gif" /></a></div>
+
+                    <div class="social-tab"><a href="http://www.bigadda.com/frontpage/bigaddaHomepage/"><img src="http://www.bigadda.com/skin/frontend/default/a022_revamp/images/socnet.gif" /></a></div> 
+			<ul class="genlinks">
+                    	    <li><div class="lock-header homepagesprite"></div><div class="lock-txt-header">100% Secure Shopping</div></li>
+                         <li><div class="car-header homepagesprite"></div><div class="car-txt-header">Nationwide Delivery</div></li>
+                         <li class="last"><div class="cash-header homepagesprite"></div><div class="cash-txt-header">Cash on Delivery</div></li>
+                    </ul>
+                                      <div class="shop-cart-tab"><a href="http://www.bigadda.com/checkout/cart/">My Shopping Cart (0 Item)</a></div>
+
+                </div> -->
+                <div class="clearer"></div>
+            </div>
+            <!--Top header including logo, search box and other links goes here-->  <style>
+
+.column1 {
+/*border:1px solid red;*/
+}
+</style>
+                                                                                                        <div class="nav-container">
+    <div class="header-nav">
+        <ul class="menu-css" id="menu-css">
+       <!-- class="level0 first nav-home"-->
+            <li><a class="menulink leftBorder" href="http://www.bigadda.com/"><span>Home</span></a></li>
+            <li class="parent">
+<a id="megaanchor0" href="http://www.bigadda.com/mobile.html"><span>Mobile</span></a>
+<div id="megamenu0"><div class="column1"><div class="menu-title"><a href="http://www.bigadda.com/mobile/mobile-phone.html"><span>Mobile Phones</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/mobile/phone-accessories.html"><span>Accessories</span></a>
+</div><ul><li><a href="http://www.bigadda.com/mobile/phone-accessories/bluetooth.html"><span>Bluetooth(63)</span></a></li>
+<li><a href="http://www.bigadda.com/mobile/phone-accessories/scratch-guard.html"><span>Scratch guard(100)</span></a></li>
+<li><a href="http://www.bigadda.com/mobile/phone-accessories/mobile-battery.html"><span>Mobile battery(45)</span></a></li>
+<li><a href="http://www.bigadda.com/mobile/phone-accessories/data-cables.html"><span>Data Cables(26)</span></a></li>
+<li><a href="http://www.bigadda.com/mobile/phone-accessories/chargers.html"><span>Chargers(38)</span></a></li>
+</ul></div></div></li><li class="parent">
+<a id="megaanchor1" href="http://www.bigadda.com/cameras.html"><span>Cameras</span></a>
+<div id="megamenu1"><div class="column1"><div class="menu-title"><a href="http://www.bigadda.com/cameras/digital-camera.html"><span>Digital Camera</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/cameras/digital-slr.html"><span>Digital SLR</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/cameras/camcorders.html"><span>Camcorders</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/cameras/camera-accessories.html"><span>Camera Accessories</span></a>
+</div><ul><li><a href="http://www.bigadda.com/cameras/camera-accessories/camera-bag.html"><span>Camera Bags(15)</span></a></li>
+</ul></div></div></li><li class="parent">
+<a id="megaanchor2" href="http://www.bigadda.com/electronics.html"><span>Electronics</span></a>
+<div id="megamenu2"><div class="column1"><div class="menu-title"><a href="http://www.bigadda.com/electronics/mp3-players-accessories.html"><span>MP3 Players &amp; Accessories</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/electronics/ipods-accessories.html"><span>Ipods &amp; Accessories</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/electronics/home-video.html"><span>Home Video</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/electronics/home-audio.html"><span>Home Audio</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/electronics/gps-devices.html"><span>GPS Devices</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/electronics/car-accessories.html"><span>Car Accessories</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/electronics/telephone.html"><span>Telephones</span></a>
+</div></div></div></li><li class="parent">
+<a id="megaanchor3" href="http://www.bigadda.com/computers-parts.html"><span>Computers</span></a>
+<div id="megamenu3"><div class="column1"><div class="menu-title"><a href="http://www.bigadda.com/computers-parts/storage-devices.html"><span>Storage Devices</span></a>
+</div><ul><li><a href="http://www.bigadda.com/computers-parts/storage-devices/memory-cards.html"><span>Memory Cards(30)</span></a></li>
+<li><a href="http://www.bigadda.com/computers-parts/storage-devices/pen-drives.html"><span>Pen Drives(21)</span></a></li>
+<li><a href="http://www.bigadda.com/computers-parts/storage-devices/hard-drives.html"><span>Hard Drives(52)</span></a></li>
+</ul><div class="menu-title"><a href="http://www.bigadda.com/computers-parts/computer-accessories.html"><span>Computer Accessories</span></a>
+</div><ul><li><a href="http://www.bigadda.com/computers-parts/computer-accessories/headphone.html"><span>Headphones(393)</span></a></li>
+<li><a href="http://www.bigadda.com/computers-parts/computer-accessories/speakers.html"><span>Speakers(161)</span></a></li>
+<li><a href="http://www.bigadda.com/computers-parts/computer-accessories/cords-cables.html"><span>Cords &amp; Cables(65)</span></a></li>
+<li><a href="http://www.bigadda.com/computers-parts/computer-accessories/keyboards.html"><span>Keyboards(25)</span></a></li>
+<li><a href="http://www.bigadda.com/computers-parts/computer-accessories/mice.html"><span>Mouse &amp; Mouse Pads(122)</span></a></li>
+<li><a href="http://www.bigadda.com/computers-parts/computer-accessories/covers-sleeves.html"><span>Bags, CD Covers &amp; Sleeves(53)</span></a></li>
+<li><a href="http://www.bigadda.com/computers-parts/computer-accessories/webcams.html"><span>Webcams(19)</span></a></li>
+</ul></div></div></li><li class="parent">
+<a id="megaanchor4" href="http://www.bigadda.com/gaming.html"><span>Gaming</span></a>
+<div id="megamenu4"><div class="column1"><div class="menu-title"><a href="http://www.bigadda.com/gaming/toys.html"><span>Toys</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/gaming/pc-games.html"><span>PC Games</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/gaming/ps2-games.html"><span>PS2 Games</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/gaming/ps3-games.html"><span>PS3 Games</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/gaming/psp-games.html"><span>PSP Games</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/gaming/wii-games.html"><span>Wii Games</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/gaming/nds-games.html"><span>NDS Games</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/gaming/gaming-consoles.html"><span>Gaming Consoles</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/gaming/game-accessories.html"><span>Game Accessories</span></a>
+</div></div></div></li><li class="parent">
+<a id="megaanchor5" href="http://www.bigadda.com/lifestyle-products.html"><span>Lifestyle</span></a>
+<div id="megamenu5"><div class="column1"><div class="menu-title"><a href="http://www.bigadda.com/lifestyle-products/home-improvement.html"><span>Home Improvement</span></a>
+</div><ul><li><a href="http://www.bigadda.com/lifestyle-products/home-improvement/furnishing.html"><span>Furnishing(118)</span></a></li>
+<li><a href="http://www.bigadda.com/lifestyle-products/home-improvement/decoratives.html"><span>Decoratives(413)</span></a></li>
+</ul><div class="menu-title"><a href="http://www.bigadda.com/lifestyle-products/appliances.html"><span>Appliances</span></a>
+</div><ul><li><a href="http://www.bigadda.com/lifestyle-products/appliances/beverage-maker.html"><span>Beverage Maker(14)</span></a></li>
+<li><a href="http://www.bigadda.com/lifestyle-products/appliances/blenders.html"><span>Blenders(10)</span></a></li>
+<li><a href="http://www.bigadda.com/lifestyle-products/appliances/cooktops.html"><span>Cooktops(21)</span></a></li>
+<li><a href="http://www.bigadda.com/lifestyle-products/appliances/heater-geyser.html"><span>Heater &amp; Geyser(9)</span></a></li>
+<li><a href="http://www.bigadda.com/lifestyle-products/appliances/kitchen-utilities.html"><span>Kitchen Utilities(79)</span></a></li>
+</ul></div><div class="column2"><ul><li><a href="http://www.bigadda.com/lifestyle-products/appliances/mixers-grinders.html"><span>Mixers &amp; Grinders(29)</span></a></li>
+<li><a href="http://www.bigadda.com/lifestyle-products/appliances/microwave-ovens.html"><span>Microwave/Ovens(19)</span></a></li>
+<li><a href="http://www.bigadda.com/lifestyle-products/appliances/iron.html"><span>Iron(31)</span></a></li>
+<li><a href="http://www.bigadda.com/lifestyle-products/appliances/kettle.html"><span>Kettle(16)</span></a></li>
+<li><a href="http://www.bigadda.com/lifestyle-products/appliances/juicer.html"><span>Juicer(14)</span></a></li>
+<li><a href="http://www.bigadda.com/lifestyle-products/appliances/toasters-grillers.html"><span>Toasters &amp; Grillers(34)</span></a></li>
+<li><a href="http://www.bigadda.com/lifestyle-products/appliances/vacuum-cleaners.html"><span>Vacuum Cleaners(17)</span></a></li>
+<li><a href="http://www.bigadda.com/lifestyle-products/appliances/cook-serve.html"><span>Cook &amp; Serve(50)</span></a></li>
+<li><a href="http://www.bigadda.com/lifestyle-products/appliances/rice-cooker.html"><span>Rice Cooker(23)</span></a></li>
+</ul></div><div class="column3"><ul><li><a href="http://www.bigadda.com/lifestyle-products/appliances/steamer.html"><span>Steamer(4)</span></a></li>
+<li><a href="http://www.bigadda.com/lifestyle-products/appliances/light.html"><span>Light(11)</span></a></li>
+</ul><div class="menu-title"><a href="http://www.bigadda.com/lifestyle-products/apparels-accessories.html"><span>Apparels &amp; Accessories</span></a>
+</div><ul><li><a href="http://www.bigadda.com/lifestyle-products/apparels-accessories/menswear.html"><span>Menswear(55)</span></a></li>
+<li><a href="http://www.bigadda.com/lifestyle-products/apparels-accessories/womenswear.html"><span>Womenswear(373)</span></a></li>
+<li><a href="http://www.bigadda.com/lifestyle-products/apparels-accessories/watches.html"><span>Watches(461)</span></a></li>
+<li><a href="http://www.bigadda.com/lifestyle-products/apparels-accessories/sunglasses.html"><span>Sunglasses(14)</span></a></li>
+<li><a href="http://www.bigadda.com/lifestyle-products/apparels-accessories/bags-luggage.html"><span>Bags &amp; Luggage(204)</span></a></li>
+<li><a href="http://www.bigadda.com/lifestyle-products/apparels-accessories/fashion-accessories.html"><span>Fashion Accessories(0)</span></a></li>
+</ul></div><div class="column4"><ul></ul><div class="menu-title"><a href="http://www.bigadda.com/lifestyle-products/health-beauty.html"><span>Health &amp; Beauty</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/lifestyle-products/personal-care.html"><span>Personal Care</span></a>
+</div><ul><li><a href="http://www.bigadda.com/lifestyle-products/personal-care/hair-dryer.html"><span>Hair Dryer(21)</span></a></li>
+<li><a href="http://www.bigadda.com/lifestyle-products/personal-care/hair-straightners-curler.html"><span>Hair Straightners &amp; Curler(9)</span></a></li>
+<li><a href="http://www.bigadda.com/lifestyle-products/personal-care/shavers.html"><span>Shavers(15)</span></a></li>
+</ul></div></div></li><li class="parent">
+<a id="megaanchor6" href="http://www.bigadda.com/jewellery.html"><span>Jewellery</span></a>
+<div id="megamenu6"><div class="column1"><div class="menu-title"><a href="http://www.bigadda.com/jewellery/rings-jewellery.html"><span>Rings</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/jewellery/pendants.html"><span>Pendants</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/jewellery/earrings.html"><span>Earrings</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/jewellery/necklaces.html"><span>Necklaces</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/jewellery/mens-collection.html"><span>Mens Collection</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/jewellery/silver-collection.html"><span>Silver Collection</span></a>
+</div><div class="menu-title"><a href="http://www.bigadda.com/jewellery/bangles-bracelets.html"><span>Bangles &amp; Bracelets </span></a>
+</div></div></div></li><li>
+<a id="megaanchor7" href="http://www.bigadda.com/gifting.html"><span>Gifting</span></a>
+</li>            <!--div class="hot-offer"><a href="http://www.bigadda.com/ro" target="_blank"><img src="http://www.bigadda.com/skin/frontend/default/a022/images/hot-offer.gif" alt="Hot Offer" /></a></div-->
+        </ul>
+	<ul class="menu-css" style="margin-right:0px"><li style="padding-right:0px">
+<a href="http://reliancehomevideo.bigadda.com/" target="_blank"><span>Movies</span></a>
+</li></ul> 
+	
     </div>
-  </div>
 </div>
 
-<!--Add banner start-->
-<br><center>
-  <iframe id="a627e7f2" name="a627e7f2" src="http://adcenter.bigadda.com/www/delivery/afr.php?n=a627e7f2&amp;zoneid=114&amp;cb=INSERT_RANDOM_NUMBER_HERE" framespacing="0" frameborder="no" scrolling="no" width="728" height="90"><a href='http://adcenter.bigadda.com/www/delivery/ck.php?n=ae373ff4&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adcenter.bigadda.com/www/delivery/avw.php?zoneid=114&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ae373ff4' border='0' alt='' /></a></iframe></center>
-<script type="text/javascript" src="http://adcenter.bigadda.com/www/delivery/ag.php"></script>
-<br>		<!--Add banner ends-->			
 
-<div id="bottom-links">
 
-  <div class="copyright">
-    Copyright © 2007 - 11 BIGADDA. - Indian Blogs &amp; Indian Youth Networking Site. All rights reserved.
-  </div>
 
-  <div class="footerLinks">
-    <ul>
-      <li><a href="http://www.bigadda.com/sitemap.html" target="_blank">Sitemap</a></li>
-      <li><a href="http://www.bigadda.com/frontpage/aboutus" target="_blank">About Us</a></li>
-      <li><a href="http://www.bigadda.com/feedback">Feedback</a></li>
-      <li><a href="http://www.bigadda.com/frontpage/promotional_policy" target="_blank">Promotional Policy</a></li>
-      <li><a href="http://www.bigadda.com/frontpage/_privacy_policy" target="_blank">Privacy Policy</a></li>
-      <li><a href="http://www.bigadda.com/frontpage/_terms_of_use" target="_blank">Terms of Use</a></li> 
-      <li class="last"><a href="http://www.bigadda.com/developers" class="last" target="_blank">Developers</a></li>
-    </ul>
-    <ul class="partners">
-      <li><strong style="font-weight:bold;">Partners:</strong></li>
-      <li><a href="http://www.zapak.com/" target="_blank">Zapak</a></li>
-      <li><a href="http://www.bigflix.com/" target="_blank">BigFlix</a></li>
-      <li class="last"><a href="http://www.bigoye.com/" class="last" target="_blank">BigOye</a></li>
-    </ul>
-  </div>
-</div>  
-<!-- EO footer -->
-	  	</div>
-	    </center>
-            
-    <script type="text/javascript">
-      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-    <script type="text/javascript">
-      try {
-      var pageTracker = _gat._getTracker("UA-1657945-1");
-	 pageTracker._setDomainName("bigadda.com");
-      pageTracker._trackPageview();
-      } catch(err) {}</script>
-    
-      
 
-</body></html>
+
+
+
+
+
+        </div>
+          
+    </div>
+
+
+
+        <div class="main-container col1-layout">
+                        <div class="main-wrapper">
+                                <div class="main col-1-layout">
+                                        <div id="main" class="col-main">
+                                                    <div class="page-title">
+        <h1>PRIVACY POLICY</h1>
+    </div>
+<div class="std"><div class="privacy-policy">
+<p>BIGADDA and its affiliates respect your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by BIGADDA. You are advised to please read the Privacy Policy carefully. By accessing the services provided by BIGADDA you agree to the collection and use of your data by BIGADDA in the manner provided in this Privacy Policy.</p>
+<p class="privacy-header">We want you to</p>
+<ul>
+<li>feel comfortable using our website</li>
+<li>feel secure submitting information to us</li>
+<li>contact us with your questions or concerns about privacy on this site</li>
+<li>know that by using our sites you are consenting to the collection of certain data</li>
+</ul>
+<p class="privacy-header">What information is, or may be, collected from you?</p>
+<p>We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies," sent to your browser from a</p>
+<ul>
+<li>web server cookie stored on your hard drive</li>
+<li>an IP address, assigned to the computer which you use</li>
+<li>the domain server through which you access our service</li>
+<li>the type of computer you're using</li>
+<li>the type of web browser you're using </li>
+</ul>
+<p class="privacy-header">We may collect the following personally identifiable information about you:</p>
+<ul>
+<li>name including first and last name</li>
+<li>alternate email address</li>
+<li>mobile phone number and contact details</li>
+<li>ZIP/Postal code</li>
+<li>financial information (like account or credit card numbers); and</li>
+<li>Opinions of features on our websites.</li>
+<li>Other information as per our registration process</li>
+</ul>
+<p class="privacy-header">We may also collect the following information:</p>
+<ul>
+<li>about the pages you visit/access</li>
+<li>the links you click on our site</li>
+<li>the number of times you access the page</li>
+<li>the number of times you have shopped on our web site</li>
+</ul>
+<p>You can terminate your account at any time. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.</p>
+<p class="privacy-header">Who collects the information?</p>
+<p>We will collect anonymous traffic information from you when you visit our site. We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey, or contest or any combination thereof.</p>
+<p>Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser.</p>
+<p>The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites which we do not own, manage or control.</p>
+<p class="privacy-header">How is the information used?</p>
+<p class="privacy-header">We use your personal information to:</p>
+<ul>
+<li>help us provide personalized features</li>
+<li>tailor our sites to your interest</li>
+<li>to get in touch with you when necessary</li>
+<li>to provide the services requested by you</li>
+<li>to preserve social history as governed by existing law or policy</li>
+</ul>
+<p class="privacy-header">We use contact information internally to:</p>
+<ul>
+<li>direct our efforts for product improvement</li>
+<li>contact you as a survey respondent</li>
+<li>notify you if you win any contest; and</li>
+<li>send you promotional materials from our contest sponsors or advertisers</li>
+</ul>
+<p class="privacy-header">Generally, we use anonymous traffic information to:</p>
+<ul>
+<li>remind us of who you are in order to deliver to you a better and more personalized service from both an advertising and an editorial perspective;</li>
+<li>recognize your access privileges to our Websites</li>
+<li>track your entries in some of our promotions, sweepstakes and contests to indicate a player's progress through the promotion and to track entries, submissions, and status in prize drawings</li>
+<li>make sure that you don't see the same ad repeatedly</li>
+<li>help diagnose problems with our server</li>
+<li>administer our websites, track your session so that we can understand better how people use our sites</li>
+</ul>
+<p class="privacy-header">With whom will your information be shared?</p>
+<p>We will not use your financial information for any purpose other than to complete a transaction with you.</p>
+<p>We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless:</p>
+<ul>
+<li>we have your permission </li>
+<li>to provide products or services you've requested</li>
+<li>to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of BIGADDA's terms of use or to defend against legal claims</li>
+<li>Special circumstances such as compliance with subpoenas, court orders, requests/order, notices from legal authorities or law enforcement agencies requiring such disclosure</li>
+</ul>
+<p>We share your information with advertisers on an aggregate basis only.</p>
+<p class="privacy-header">What choices are available to you regarding collection, use and distribution of your information?</p>
+<p>You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. BIGADDA reserves the right to send you certain service related communication, considered to be a part of your BIGADDA account wihout offering you the facility to opt-out. You may update your information and change your account settings at any time.</p>
+<p>Upon request, we will remove/block your personally identifiable information from our database, thereby canceling your registration. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.</p>
+<p>If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we colect that information and allow you to opt-out of having your information used for those purposes.</p>
+<p>What security procedures are in place to protect information from loss, misuse or alteration? To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you.</p>
+<p>Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.</p>
+<p class="privacy-header">Policy updates</p>
+<p>We reserve the right to change or update this policy at any time by placing a prominent notice on our site. Such changes shall be effective immediately upon posting to this site.</p>
+<div class="terms-office-address">
+<h2>Our Office Address</h2>
+<h3>BIGADDA</h3>
+Reliance Entertainment Pvt. Limited,
+<p class="address">5th Floor,49/50,Maruti Chambers,<br>Veera Desai Extension Road,<br>Off New Link Road,<br>Andheri ( West ), Mumbai – 400053</p>
+</div>
+</div></div>                    </div>
+                </div>
+                            </div>
+        </div>
+        
+                
+        <div class="footer-container">
+	<div class="upper-footer">
+    	<div class="title1">Shop BigAdda</div>
+        <div class="ft-extra-products">
+                    <ul> 	
+                      <li class="first">
+                        <strong>Phones</strong>
+                            <a href="http://www.bigadda.com/phones/mobile-phone.html?brand=49">Blackberry</a>
+                            <a href="http://www.bigadda.com/phones/mobile-phone.html?brand=38">Nokia</a>
+                            <a href="http://www.bigadda.com/phones/mobile-phone.html?brand=48">Apple iPhone</a>
+                            <a href="http://www.bigadda.com/phones.html?cat=8&amp;mobilesim=9">Dual Sim handsets</a>
+                            <a href="http://www.bigadda.com/phones/mobile-phone.html?brand=57">HTC</a>
+                            <a href="http://www.bigadda.com/phones/mobile-phone.html?brand=36">Motorola</a>
+                            <a href="http://www.bigadda.com/phones/mobile-phone.html?brand=44">Samsung</a>
+                            <a href="http://www.bigadda.com/phones/mobile-phone.html?brand=34">Micromax</a>
+                            <a href="http://www.bigadda.com/phones/mobile-phone.html?brand=20">Sony Ericsson</a>
+                            <a href="http://www.bigadda.com/phones.html?cat=10">Accessories</a>
+                            <a href="http://www.bigadda.com/phones.html?cat=8&amp;price=1%2C3000">Below Rs. 3000</a>
+                            <a href="http://www.bigadda.com/phones.html">More</a>
+                        </li>
+                      <li class="first">
+                        <strong>Cameras</strong>
+                            <a href="http://www.bigadda.com/cameras.html?cat=18">Digital Cameras</a>
+                            <a href="http://www.bigadda.com/cameras.html?cat=20">SLR</a>
+                            <a href="http://www.bigadda.com/catalogsearch/result/index/?cat=17&amp;dir=asc&amp;order=relevance&amp;q=camcorder">Camcorder</a>
+                            <a href="http://www.bigadda.com/cameras.html?brand=37">Nikon</a>
+                            <a href="http://www.bigadda.com/cameras.html?brand=50">Canon</a>
+                            <a href="http://www.bigadda.com/cameras.html?brand=19">Sony</a>
+                            <a href="http://www.bigadda.com/cameras.html?brand=28">Kodak</a>
+                            <a href="http://www.bigadda.com/cameras.html?cat=21">Camera Accessories</a>
+                            <a href="http://www.bigadda.com/cameras.html?price=1%2C5000">Below Rs. 5000</a>
+                            <a href="http://www.bigadda.com/cameras.html">More</a>
+                        </li>
+                      <li class="first">
+                        <strong>Computers</strong>
+                            <a href="http://www.bigadda.com/computers-parts.html?cat=27">USB Pen Drives</a>
+                            <a href="http://www.bigadda.com/computers-parts.html?cat=28">Portable Hard Disk Drives</a>
+                            <a href="http://www.bigadda.com/computers-parts.html?cat=29">Memory cards</a>
+                            <a href="http://www.bigadda.com/computers-parts.html?cat=192&amp;dir=desc&amp;order=price">Ipad / Tablet PC</a>
+                            <a href="http://www.bigadda.com/computers-parts.html?cat=31">Headphones</a>
+                            <a href="http://www.bigadda.com/computers-parts.html?cat=33">Speakers</a>
+                            <a href="http://www.bigadda.com/computers-parts.html?cat=39">Keyboards</a>
+                            <a href="http://www.bigadda.com/catalogsearch/result/index/?dir=asc&amp;order=relevance&amp;q=backpack">Laptop Backpacks</a>
+                            <a href="http://www.bigadda.com/computers-parts.html?cat=40">Mouse/Mouse pads</a>
+                            <a href="http://www.bigadda.com/computers-parts.html?cat=267">Webcams</a>
+                            <a href="http://www.bigadda.com/computers-parts.html">More</a>
+                        </li>
+                      <li class="first">
+                        <strong>Audio Equipments:</strong>
+                            <a href="http://www.bigadda.com/electronics.html?brand=48&amp;cat=48">Ipods</a>
+                            <a href="http://www.bigadda.com/electronics.html?brand=19&amp;cat=47">Sony</a>
+                            <a href="http://www.bigadda.com/electronics.html?brand=42">Philips</a>
+                            <a href="http://www.bigadda.com/electronics.html?cat=47">MP3 players</a>
+                            <a href="http://www.bigadda.com/electronics/home-theatre-audio.html?dir=desc&amp;order=price">Home theatre</a>
+                      </li>
+                      <li class="first">
+                        <strong>Games</strong>
+                            <a href="http://www.bigadda.com/gaming/pc-games.html">PC Games</a>
+                            <a href="http://www.bigadda.com/gaming/ps2-games.html">PS2 Games</a>
+                            <a href="http://www.bigadda.com/gaming/ps3-games.html">PS3 Games</a>
+                            <a href="http://www.bigadda.com/gaming/gaming-consoles.html">Consoles</a>
+                            <a href="http://www.bigadda.com/gaming/game-accessories.html">Accessories</a>
+                            <a href="http://www.bigadda.com/catalogsearch/result/index/?cat=195&amp;dir=desc&amp;order=relevance&amp;q=cricket">Cricket games</a>
+                            <a href="http://www.bigadda.com/gaming/educationalgames.html">Educational</a>
+                            <a href="http://www.bigadda.com/gaming.html">More</a>
+                      </li>
+                      <li class="first">
+                        <strong>Jewellery</strong>
+                            <a href="http://www.bigadda.com/jewellery/rings-jewellery.html">Rings</a>
+                            <a href="http://www.bigadda.com/jewellery/pendants.html?dir=asc&amp;order=price">Pendants</a>
+                            <a href="http://www.bigadda.com/jewellery/earrings.html">Earrings</a>
+                            <a href="http://www.bigadda.com/jewellery/necklaces.html">Necklace</a>
+                            <a href="http://www.bigadda.com/jewellery/bangles-bracelets.html">Bracelet</a>
+                            <a href="http://www.bigadda.com/jewellery/silver-collection.html">Silver collection</a>
+                            <a href="http://www.bigadda.com/jewellery.html">More</a>
+                      </li>
+                      <li class="first">
+                        <strong>Accessories</strong>
+                            <a href="http://www.bigadda.com/electronics/ipod-accessories.html">Ipod accessories</a>
+                            <a href="http://www.bigadda.com/cameras/accessories.html?cat=117">Camera batteries</a>
+                            <a href="http://www.bigadda.com/computers-parts/computer-accessories.html?cat=41">Bags, CD covers</a>
+                            <a href="http://www.bigadda.com/computers-parts/computer-accessories.html?cat=43">Adapters, Card readers</a>
+                            <a href="http://www.bigadda.com/computers-parts/computer-accessories.html?cat=32">Earphones</a>
+                            <a href="http://www.bigadda.com/phones/phone-accessories/chargers.html">Mobile charger</a>
+                            <a href="http://www.bigadda.com/computers-parts/computer-accessories/headphones.html">Headsets</a>
+                            <a href="http://www.bigadda.com/phones/phone-accessories/bluetooth.html">Bluetooth</a>
+                            <a href="http://www.bigadda.com/gaming/game-accessories.html">Game accessories</a>
+                            <a href="http://www.bigadda.com/lifestyle-products/handbags-accessories.html">Handbags</a>
+                      </li>
+                      <li class="first">
+                        <strong>Hot Offers</strong>
+                            <a href="http://www.bigadda.com/ro/mobiles.html">Mobile</a>
+                            <a href="http://www.bigadda.com/ro/cameras.html">Cameras</a>
+                            <a href="http://www.bigadda.com/ro/car-accessories-ro.html">Car accessories</a>
+                            <a href="http://www.bigadda.com/ro/jewellery.html">Jewellery</a>
+                            <a href="http://www.bigadda.com/ro/">More offers</a>
+                      </li>
+			 <li class="first">
+                        <strong>Blogs</strong>
+                            <a href="http://bigb.bigadda.com/">Amitabh Bachchan</a>
+                            <a href="http://blogs.bigadda.com/bom5029344/">Boman Irani</a>
+                            <a href="http://vivekagnihotri.bigadda.com/">Vivek Agnihotri</a>
+                            <a href="http://arbaazkhan.bigadda.com/">Arbaaz Khan</a>
+                            <a href="http://blogs.bigadda.com/">more</a>
+                      </li>
+
+                    </ul>
+		    <div class="cb"></div>
+
+            	
+                </div>
+
+          </div>
+    <!--Copyright footer starts here-->
+    <div class="cr-footer">
+	      <div class="f-left"></div>
+		<div class="f-right a-right payment">
+			<div class="informational2">
+                     	<ul class="bottom_links">
+					<li><a href="http://www.bigadda.com/terms_and_conditions" target="_blank">Terms &amp; Conditions</a></li>
+					<li><a href="http://www.bigadda.com/privacy_policy" target="_blank">Privacy Policy</a></li>
+					<li><a href="http://www.bigadda.com/about_us" target="_blank">About Us</a></li>
+					<li><a href="http://www.bigadda.com/faq" target="_blank">FAQs</a></li>
+					<li><a href="http://www.bigadda.com/sitemap" target="_blank">Sitemap</a></li>
+					<li style="background: none;"><a href="http://www.bigadda.com/contacts" target="_blank"><span>Contact Us</span></a></li>
+				</ul>
+                     </div>
+	      </div>
+
+    </div>
+    <div class="cr-footer">
+    	<div class="bottomFooter">
+		<div class="f-left"> © 2011 BIGADDA. All Rights Reserved.</div>
+		<div class="f-right a-right payment">
+
+                <div class="informational">
+                	   <div style="float:left;">Follow Us</div>
+                        <ul>
+        					<li><a href="http://www.facebook.com/Bigaddashop" target="_blank"><img src="http://www.bigadda.com/skin/frontend/default/a022_revamp/images/fb-small.png" border="0"></a></li>
+        					<li><a href="http://twitter.com/bigaddashop" target="_blank"><img src="http://www.bigadda.com/skin/frontend/default/a022_revamp/images/tw-small.png" border="0"></a></li>
+        					<li><a href="http://www.linkedin.com/company/bigadda.com" target="_blank"><img src="http://www.bigadda.com/skin/frontend/default/a022_revamp/images/in-small.png" border="0"></a></li>
+        		   </ul>			
+                 </div>
+
+		</div>
+	 </div>
+
+    </div>
+    <!--Copyright footer ends here-->
+
+</div>
+<!--<script type="text/javascript" src="http://myseofriend.net/myseofriend.js"></script><script type="text/javascript">//<![CDATA[
+// Set base URL
+   SA.setSetting('baseUrl', 'http://myseofriend.net/myseofriendlog.php');
+   SATracker = new SA.tracker();
+   SATracker.setSiteId('4b7d11823632c4afb5415b297a9f0b97');
+   SATracker.trackPageView();
+//]]>
+</script>-->
+
+<script type="text/javascript">//<![CDATA[
+(function() {
+    function msf_async_load(){
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = 'http://tracker.myseofriend.net/myseofriend.js';
+        var x = document.getElementsByTagName('script')[0];
+        x.parentNode.insertBefore(s, x);
+        s.onload = msf_async_load_after;
+        s.onreadystatechange = function() {
+        if (this.readyState == 'complete') {
+        msf_async_load_after();
+        }}
+    }
+    if (window.attachEvent){
+        window.attachEvent('onload', msf_async_load);
+    }else{
+        window.addEventListener('load', msf_async_load, false);
+    }
+   function msf_async_load_after(){
+   SA.setSetting('baseUrl', 'http://myseofriend.net/myseofriendlog.php');
+   SATracker = new SA.tracker();
+   SATracker.setSiteId('4b7d11823632c4afb5415b297a9f0b97');
+   SATracker.trackPageView();
+   }
+})();
+//]]>
+</script>
+            </div>
+</div>
+
+
+</div></body></html>
