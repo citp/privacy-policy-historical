@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freebiepixels.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623143448id_/http%3A//www.freebiepixels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebiepixels.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223090443id_/http%3A//www.freebiepixels.com/privacy) for the most accurate reproduction.*
 
-# Free Photoshop Resources – Freebie Pixels – It now pays to share
+# Privacy | Free Design Resources & PSD Files by Awesome Designers
 
 Your privacy is critically important to us. At Freebie Pixels we have a few fundamental principles:  
 1\. We don’t ask you for personal information unless we truly need it.  
@@ -34,4 +34,4 @@ A cookie is a string of information that a website stores on a visitors computer
 
 Although most changes are likely to be minor, Freebie Pixels may change its Privacy Policy from time to time, and in Freebie Pixels sole discretion. Freebie Pixels encourages visitors to frequently check this page for any changes to its Freebie Pixels. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-This Terms of Service is crafted from [wordpress.com’s version](http://en.wordpress.com/tos/), which is available under a Creative Commons Sharealike license. 
+This Terms of Service is crafted from [wordpress.com’s version](http://en.wordpress.com/tos/), which is available under a Creative Commons Sharealike license.
