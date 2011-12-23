@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the piratebay.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205011915id_/http%3A//www.piratebay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piratebay.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223225732id_/http%3A//www.piratebay.com/privacy.php) for the most accurate reproduction.*
 
-# Pirate Bay
+# ThePirateBay.com - The World's Largest Media Repository!
 
-**Privacy Statement**
+### Our Commitment To Privacy
 
-Pirate Bay has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site. 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. The Information We Collect: First Name, Last Name, Address, Zip/Postal, City, State, Country, Email, membership typeThis notice applies to all information collected or submitted on mp3downloading website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
-**Cookies**  
-Our Site uses cookies to save your login and password so you don't have to re-enter it each time you visit our site. If you click the "sign out" link the cookies will be cleared. 
+**\- Name  
+\- Address  
+\- Email address  
+\- Phone number**
 
-**Personal Information**  
-Any information we collect, including your e-mail and mailing address, are not shared with any third parties nor do we use any personal information for any purposes. 
+### The Way We Use Information
 
-**External Links**  
-This site contains links to other sites. Pirate Bay is not responsible for the privacy practices or the content of such Web sites. 
+All information is stored in a secure database.
 
-**Special Relationships**   
-The sites [room247.com ](http://www.room247.com/) and [http://rapidscout.com ](http://www.rapidscout.com/) are partners of Pirate Bay, but no account information is shared. 
+### Our Commitment To Data Security 
 
-**Public Forums**  
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-**Security**  
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. No one can view your account information without your password, which you can change anytime you want. Credit Card information is not an issue since Pirate Bay uses a third party service for secure credit card transactions. 
+### How You Can Access Or Correct Your Information
 
-**Contacting Us**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/contact/).  [cs@s74.com](mailto:cs@s74.com?subject=Post%20from%20Pirate%20Bay)
+You can access all your personally identifiable information that we collect online and maintain by [description of the company access procedure]. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+
+### How To Contact Us
+
+Should you have other questions or concerns about these privacy policies, please send us an email at [Support](http://www.piratebay.com/support.php).
