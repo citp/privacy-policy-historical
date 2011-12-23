@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsaboutiphone.co.uk privacy policy that was archived on 2011-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110126180126id_/http%3A//itsaboutiphone.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsaboutiphone.co.uk privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223113114id_/http%3A//www.itsaboutiphone.co.uk/privacy) for the most accurate reproduction.*
 
 # privacy | Apple iPhone Blog | iPhone Applications
 
@@ -59,3 +59,5 @@ You agree that you have read the privacy policy of itsaboutiphone.co.uk and agre
 In regard to notices and general concerns you can always send your queries to [privacy@itsaboutiphone.co.uk](mailto:privacy@itsaboutiphone.co.uk)
 
 Popularity: unranked
+
+No related posts.
