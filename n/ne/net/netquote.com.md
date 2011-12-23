@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netquote.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612064222id_/http%3A//www.netquote.com/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netquote.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223060729id_/http%3A//www.netquote.com/about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | NetQuote
 
