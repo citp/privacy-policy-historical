@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcrecruiter.net privacy policy that was archived on 2011-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110227093257id_/http%3A//www.pcrecruiter.net/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcrecruiter.net privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223050044id_/http%3A//www.pcrecruiter.net/privacy/index.htm) for the most accurate reproduction.*
 
 # Main Sequence Technologies, Inc. - Privacy Statement
 
@@ -81,6 +81,8 @@ Upon written request to Main Sequence Main Sequence will provide EU Account Owne
 Main Sequence has also agreed to participate in the dispute resolution program provided by the European Data Protection Authorities.
 
 Adherence to these Privacy Principles may be limited to the extent required to meet a legal, governmental, national security or public interest obligation.
+
+Main Sequence complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Main Sequence has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Main Sequence's certification, please visit <http://www.export.gov/safeharbor/>. 
 
 #### Contact information for Main Sequence: 
 
