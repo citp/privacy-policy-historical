@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebags.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517203738id_/http%3A//www.ebags.com/help/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebags.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223173104id_/http%3A//www.ebags.com/help/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
 # Luggage, Handbags, Backpacks, Suitcases, Purses, Briefcases, Wallets & More - eBags
 
@@ -34,7 +34,7 @@ It is possible to register as a My eBags email subscriber directly from our site
 If you purchase a gift certificate on our site, we will ask you to provide the recipient's name and e-mail address. The recipient information you provide us will only be used to deliver the gift certificate and for no other purpose.
 
 **Affiliate Program**  
-Our Affiliate Program is administered by BeFree. Any information collected by them is not governed by this Policy.
+Our Affiliate Program is administered by Commission Junction. Any information collected by them is not governed by this Policy.
 
 ### Does eBags share the information it receives?
 
