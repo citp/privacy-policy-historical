@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the nbr.co.nz privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624175109id_/http%3A//www.nbr.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbr.co.nz privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223034331id_/http%3A//www.nbr.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The National Business Review
 
 By using this site, you agree to the Privacy Policy of National Business Review. If you do not agree to the Policy, please do not use this site. National Business Review examines its privacy policy periodically and reserves the right, at its discretion, to modify or remove portions of this policy at any time. This page should be reviewed periodically so that you are updated on any changes. If you want to communicate with us about our policy, please write to us at:  
 Liberty Press Group.  
-Level 14, Citi Building  
-123 Customs St east,  
-Auckland NZ,  
-PO Box 1734,  
-Auckland 1015,  
+Level 3, Achilles House  
+8 Commerce Street,  
+Auckland 1140, NZ,  
+PO Box 1734, Shortland Street  
+Auckland 1140,  
 or email us at privacy@nbr.co.nz.
 
 NBR, which operates the Internet site located at www.nbr.co.nz recognises the importance of protecting the privacy of personally identifiable information collected about visitors to our sites. As a general policy, no personally identifiable information, such as your name, address or email address, is automatically collected from visitors to our sites. Personally identifiable information about visitors to our sites is collected only when knowingly and voluntarily submitted. We may collect certain non-personal information to optimise our Web pages for your computer (i.e., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites.
