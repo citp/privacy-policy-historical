@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautifulplacestovisit.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526235414id_/http%3A//beautifulplacestovisit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautifulplacestovisit.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223232423id_/http%3A//beautifulplacestovisit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Beautiful Places to Visit
 
