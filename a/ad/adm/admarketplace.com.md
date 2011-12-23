@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the admarketplace.com privacy policy that was archived on 2011-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110117090730id_/http%3A//www.admarketplace.com/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admarketplace.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223084832id_/http%3A//admarketplace.com/privacy-statement.php) for the most accurate reproduction.*
 
-# adMarketplace.com: Performance-driven Pay Per Click advertising - Privacy Statement
+# adMarketplace.com: Privacy Statement
+
+[Home](https://web.archive.org/web/20111223084832id_/http%3A//admarketplace.com/index.php) 〉〉 Privacy Statement
 
 adMarketplace, Inc.'s ("adMarketplace's") website, [www.adMarketplace.com](http://www.admarketplace.com/), serves two basic functions. First, it is a portal for information about adMarketplace products and services as well as online advertising generally. Second, it contains password-protected pages where adMarketplace partners can access partner-only materials. 
 
@@ -9,7 +11,7 @@ Although this website contains links to other websites, please be aware that we 
   
 
 
-##### Personal Information Collected on this Website
+### Personal Information Collected on this Website
 
 No personally-identifiable information is collected on this website from consumers that browse the website for information. 
 
@@ -22,7 +24,7 @@ We do not merge any of the personally-identifiable information collected via our
   
 
 
-##### Anonymous Information Collected on this Website
+### Anonymous Information Collected on this Website
 
 We record anonymous data such as traffic logs, number of visits or clicks on a given page, pages viewed or links to our site. We use IP addresses and cookies for gathering website statistics. We also store IP addresses on our server in the event that our site should become corrupted and it becomes necessary to discover the cause of this corruption. 
 
@@ -33,7 +35,7 @@ None of this anonymous data is linked to personally-identifiable information and
   
 
 
-##### Cookies
+### Cookies
 
 We use cookies on this website. 
 
@@ -48,7 +50,7 @@ You have the ability to manage the use of cookies on your computer using control
   
 
 
-### Network Privacy Policy
+## Network Privacy Policy
 
 adMarketplace's network targets ads to consumers who visit our publisher's websites. adMarketplace does not track or maintain PII (personally identifiable information) about consumers. We may obtain anonymous information like behavior of a particular user, for example, visiting a particular website, clicking on a particular ad, demographic data and browser type etc. by using cookies, web beacons, pixels and IP addresses. 
 
@@ -66,7 +68,7 @@ adMarketplace may lawfully receive information about you, including demographic 
   
 
 
-##### Use of Information and Data
+### Use of Information and Data
 
 adMarketplace may share anonymous information about your behaviors with trusted publishers under confidentiality agreements. These publishers may use this information to better target advertisements to you. 
 
@@ -75,29 +77,29 @@ adMarketplace stores anonymous information in a database. This database is passw
   
 
 
-##### Privacy Practices of Third Parties
+### Privacy Practices of Third Parties
 
-Publishers who place advertisements on the internet may use their own cookies, web beacons and other technology to collect information about you. adMarketplace does not control publishers' use of such technology. 
+Publishers who place advertisements on the Internet may use their own cookies, web beacons and other technology to collect information about you. adMarketplace does not control publishers' use of such technology. 
 
 To learn about how a particular publisher may use your PII or anonymous information, you should read the privacy policy of that publisher. 
 
   
 
 
-##### Opt-Out Information
+### Opt-Out Information
 
 To prevent adMarketplace from tracking your behavior on a website, turn off cookies, utilize a changing IP address, and do not click on or interact with any advertisements. 
 
   
 
 
-##### Changes to Our Privacy Policy
+### Changes to Our Privacy Policy
 
 As our company and services evolve, this Privacy Policy may be revised to reflect those changes, where applicable. We therefore reserve the right to amend this Privacy Policy at any time, for any reason. Notice of such amendments will be posted as an updated Privacy Policy on this website, and an effective date will be indicated. Users are encouraged to check our site frequently to review the current Privacy Policy in effect. 
 
   
 
 
-##### Questions?
+### Questions?
 
-Please [contact us](https://web.archive.org/web/20110117090730id_/http%3A//www.admarketplace.com/contact.php) with any questions about this website Privacy Policy.
+Please [contact us](https://web.archive.org/web/20111223084832id_/http%3A//admarketplace.com/contact.php?type=other) with any questions about this website Privacy Policy.
