@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneynews.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623133309id_/http%3A//www.moneynews.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneynews.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223111340id_/http%3A//www.moneynews.com/Privacy) for the most accurate reproduction.*
 
-# Moneynews - America's Money News Page
+# America's Money News Page
 
 **August 1, 2009**
 
