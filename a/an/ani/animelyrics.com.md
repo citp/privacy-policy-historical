@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animelyrics.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430201355id_/http%3A//www.animelyrics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animelyrics.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223103235id_/http%3A//www.animelyrics.com/privacy.html) for the most accurate reproduction.*
 
 # Anime Lyrics dot Com - Privacy Policy
 
@@ -33,7 +33,6 @@ With respect to security: We have appropriate security measures in place in our 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses.   
 
 
-  
   
   
   
