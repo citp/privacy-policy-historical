@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613062352id_/http%3A//www.lovehoney.co.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223225638id_/http%3A//www.lovehoney.co.uk/help/privacy) for the most accurate reproduction.*
 
 # What is your privacy policy?
 
@@ -32,4 +32,4 @@ We use cookies to keep track of your current shopping session so that you may re
 
 If you wish to remove these cookies, please refer to your browser documentation.
 
-Please [contact us](https://web.archive.org/help/contact-us/) if you have any questions about our Privacy Policy.
+Please [contact us](https://www.lovehoney.co.uk/help/contact-us/) if you have any questions about our Privacy Policy.
