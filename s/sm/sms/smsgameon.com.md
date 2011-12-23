@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsgameon.com privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227091837id_/http%3A//smsgameon.com/usprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsgameon.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223123618id_/http%3A//www.smsgameon.com/usprivacypolicy.html) for the most accurate reproduction.*
 
 # Game On
 
@@ -6,7 +6,7 @@
 
 (Last updated: August 10, 2007) 
 
-Thank you for your interest in our SMS subscription service of 2waytraffic Mobile USA, Inc. (referred to herein as “Provider”, “we” or “us”) and our website (the “Site”). As you know, Provider currently offers users access to a collection of on-line and mobile entertainment, including SMS or Short Messaging Services. These will be referred to hereinafter as the Services. This privacy policy was created to let you know what information we collect from you and what we do with it. By using the Site and the Services, you consent to the following terms. 
+Thank you for your interest in our SMS subscription service of MyPengo Mobile (referred to herein as �Provider�, �we� or �us�) and our website (the �Site�). As you know, Provider currently offers users access to a collection of on-line and mobile entertainment, including SMS or Short Messaging Services. These will be referred to hereinafter as the Services. This privacy policy was created to let you know what information we collect from you and what we do with it. By using the Site and the Services, you consent to the following terms. 
 
 This policy covers the following topics: 
 
@@ -39,30 +39,30 @@ We also may use cookies, a small data file stored on your computer, to customize
 **2\. What do we do with the information we collect?**
 
 We use the information we collect from you to do the following:   
-• provide the Services to you,   
-• confirm your agreement with us for use of the Services,   
-• bill you for the Services and process other transactions between you and us,   
-• improve our content,   
-• issue prizes and awards from our various contests,   
-• customize certain pages or Services for you, and  
-• send you promotional information, and update you about us. 
+� provide the Services to you,   
+� confirm your agreement with us for use of the Services,   
+� bill you for the Services and process other transactions between you and us,   
+� improve our content,   
+� issue prizes and awards from our various contests,   
+� customize certain pages or Services for you, and  
+� send you promotional information, and update you about us. 
 
 **3\. With whom do we share information?**
 
 Our policy is not to disclosure your personally identifiable information to any third parties, except as follows: 
 
-• We may disclose such information to third party vendors (e.g., data storage and processing facilities) that we use to assist us in providing our services, subject to similar obligations of confidentiality to those contained in this Privacy Policy.   
-• We share your MDISDN number and your carrier with our aggregator and carrier.   
-• We may disclose the name of winners of our contests as may be required by law on our Site and in winner’s lists.   
-• We may disclose information about you to the cellular telephone providers that you select to provide the mobile communications services necessary to access our Services.   
-• We may also disclose information about you as we believe is reasonably necessary to comply with laws, regulations, court or administrative orders, or other governmental authority or to prevent harm to yourself or others.   
-• Finally, we may disclose your personal information upon a transfer or sale to another entity of all or substantially all of our stock or assets in the line of business that this privacy policy relates or upon any other corporate reorganization. 
+� We may disclose such information to third party vendors (e.g., data storage and processing facilities) that we use to assist us in providing our services, subject to similar obligations of confidentiality to those contained in this Privacy Policy.   
+� We share your MDISDN number and your carrier with our aggregator and carrier.   
+� We may disclose the name of winners of our contests as may be required by law on our Site and in winner�s lists.   
+� We may disclose information about you to the cellular telephone providers that you select to provide the mobile communications services necessary to access our Services.   
+� We may also disclose information about you as we believe is reasonably necessary to comply with laws, regulations, court or administrative orders, or other governmental authority or to prevent harm to yourself or others.   
+� Finally, we may disclose your personal information upon a transfer or sale to another entity of all or substantially all of our stock or assets in the line of business that this privacy policy relates or upon any other corporate reorganization. 
 
 We may also share aggregate demographic and other information regarding use of our Services with third parties for marketing and other purposes. 
 
 **4\. Access to your account**
 
-For security reasons, we don’t currently provide users the ability to access or update their accounts on our systems. 
+For security reasons, we don�t currently provide users the ability to access or update their accounts on our systems. 
 
 **5\. Other websites**
 
@@ -80,7 +80,7 @@ We reserve the right to change this privacy policy in our sole discretion, and w
 
 If you have questions or concerns regarding this policy, you should contact us by mail at: 
 
-2waytraffic Mobile USA, Inc.   
+MyPengo Mobile   
 Concerning Privacy Policy   
-1515 Broadway, 12th floor  
-New York, NY 10036
+550 Madison Ave 8th floor  
+New York, NY 10022
