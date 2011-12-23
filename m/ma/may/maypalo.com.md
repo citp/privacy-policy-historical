@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maypalo.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625132147id_/http%3A//maypalo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maypalo.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224005047id_/http%3A//maypalo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Maypalo
+# Privacy Policy | Maypalo | Maypalo
 
 The privacy of our visitors to Maypalo.com is important to us. At Maypalo.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Maypalo.com, and how we safeguard your information. We will never sell your personal information to third parties.
 
