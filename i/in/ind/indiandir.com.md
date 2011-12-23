@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the indiandir.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126022620id_/http%3A//indiandir.com/ppolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiandir.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223095004id_/http%3A//www.indiandir.com/privacy.php) for the most accurate reproduction.*
 
-# India Web Directory, Free website Submission, Submit Site, India Search, Indian Companies, Classifieds:Indiandir.com Privacy Policy
+# Privacy Policy
+
+  
+
+
+[](http://cricruns.com/)
 
 Privacy Policy:
 
