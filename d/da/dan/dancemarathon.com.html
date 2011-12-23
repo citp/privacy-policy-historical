@@ -1,0 +1,513 @@
+<!--The following is the downloaded HTML source of the dancemarathon.com privacy policy that was archived on 2011-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111223132521id_/http%3A//childrensmiraclenetworkhospitals.org/Privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml"><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"><meta content="IE=8" http-equiv="X-UA-Compatible"><meta property="fb:page_id" content="30410334534"><link type="image/x-icon" href="/favicon.ico" rel="SHORTCUT ICON"><title>
+	
+	Privacy Policy | Children's Miracle Network Hospitals
+
+</title>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Scripts/jquery-1.4.2.min.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery-ui-1.8.2.custom.min.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.cookie.js" type="text/javascript"></script>    
+    <script src="/Scripts/cufon-yui.js" type="text/javascript"></script>
+	<script src="/Scripts/AGBookRound.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery-watermark.js" type="text/javascript"></script>       
+    <script src="/Scripts/preloadCssImages.js" type="text/javascript"></script>   
+    <script src="/Scripts/jquery.maskedinput-1.2.2.js" type="text/javascript"></script>     
+    <script src="/Scripts/validationEngine/js/jquery.validationEngine-en.js" type="text/javascript"></script>     
+    <script src="/Scripts/validationEngine/js/jquery.validationEngine.js" type="text/javascript"></script>     
+    <script src="/Scripts/jquery.validate.js" type="text/javascript"></script>     
+    <script src="/Scripts/MicrosoftMvcJQueryValidation.js" type="text/javascript"></script>
+    <link href="/Content/Reset.css" rel="stylesheet" type="text/css">
+    <link href="/Content/StyleSheet.css" rel="stylesheet" type="text/css">  
+    <script type="text/javascript" language="javascript">
+        if ($.browser.msie && $.browser.version == 6) {
+            document.writeln('<link href=\'/Content/StyleSheet-IE6.css\' rel="stylesheet" type="text/css" />');
+            document.writeln('<script type="text/javascript" src=/Scripts/iepngfix_tilebg.js><\/script>');
+            document.writeln('<style type="text/css">img, td, div, input{behavior:url(/Content/iepngfix.htc);}<\/style>');
+        }     
+    </script>  
+    <link href="/Content/ui-darkness/jquery-ui-1.8.5.custom.css" rel="stylesheet" type="text/css">
+    <link href="/Scripts/validationEngine/css/validationEngine.jquery.css" rel="stylesheet" type="text/css">	
+	<script type="text/javascript">
+	    $(document).ready(function () {
+	        $.preloadCssImages();
+	        // Setup the mask for the zipcode box
+	        $('#zipcode').mask("99999", { placeholder: " " });
+
+	        // Setup the dialog for the hospital search box
+	        $('#marketSearch').dialog({
+	            autoOpen: false,
+	            modal: true,
+	            draggable: false,
+	            resizable: false,
+	            open: function (event, ui) {
+	                _gaq.push(['_trackEvent', 'Popups', 'Hospital Search Dialog Opened', 'Site Master']);
+	            },
+	            width: 600
+	        });
+
+	        // When the dialog is closed, set a cookie to flag that they
+            // have already been asked to find a hospital this session
+	        $('#marketSearch').bind('dialogclose', function (event, ui) {
+	            $.cookie('showMarketSearch', 'false');
+	        });
+
+	        // If the user hasn't been asked to find a hospital this session and they 
+	        // don't already have a hospital set, get the list of hospital names, then 
+            // create add those names to the hospital drop down. Open the dialog
+	        if ($.cookie('showMarketSearch') == null && $.cookie('hospitalName') == null) {
+	            if ($('#hospitalDropDown > option').size() == 1) {
+	                $.getJSON('/Home/GetHospitalNames',     // URL
+                        function (data) {                   // Callback
+                            $.each(data, function (index, value) {
+                                $('#hospitalDropDown').append($('<option></option').val(value['HospitalFriendlyName']).html(value['HospitalName']));                                
+                            });
+
+                            $('#marketSearch').dialog('open');
+                        }
+                    );
+	            }
+	        }
+        });
+
+        // When the search button is clicked check the value of either the zipcode box
+        // or the hospital name dropdown list
+        function marketSearchClick() {
+            // If it's the hospital dropdown list, ask the server to set a cookie for
+            // the hospital associated with the hospital name
+	        if ($('#hospitalDropDown').val() != '') {
+	            $.ajax({
+	                url: '/Home/SetMarketInfoForHospitalName',
+	                data: { hospitalName: $('#hospitalDropDown').val() },
+	                success: function () {
+	                    $('#yourHospitalLink').attr('href', '/Hospital/' + $.cookie('hospitalName'));
+	                    $('#marketSearch').dialog('close');
+	                }
+	            });
+	        }
+
+	        // If it's the hospital dropdown list, ask the server to set a cookie for
+	        // the hospital associated with the zipcode
+	        if ($('#zipcode').val() != '') {
+	            $.ajax({
+	                url: '/Home/SetMarketInfoForZipcode',
+	                data: { zipcode: $('#zipcode').val() },
+	                success: function () {
+	                    $('#yourHospitalLink').attr('href', '/Hospital/' + $.cookie('hospitalName'));
+	                    $('#marketSearch').dialog('close');
+	                }
+	            });
+	        }	        
+	    };
+
+	    Cufon.replace('h1');
+	    Cufon.replace('h2');
+	    Cufon.replace('h3');
+	    Cufon.replace('h4');
+        Cufon.replace('.monthDisplay');
+	    Cufon.replace('.monthDisplay2');
+	    Cufon.replace('.eventTitle');
+	    Cufon.replace('.eventDate');
+	    Cufon.replace('.moreEvents');
+	</script>
+    
+    <script type="text/javascript">
+        Cufon.replace('h1');
+        Cufon.replace('h2');
+    </script>
+
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-4159481-5']);
+        _gaq.push(['_setDomainName', '.childrensmiraclenetworkhospitals.org']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+</head>
+<body>
+    <!--[if IE 6]>
+		<script type="text/javascript"> 
+			/*Load jQuery if not already loaded*/ if(typeof jQuery == 'undefined'){ document.write("<script type=\"text/javascript\"   src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js\"></"+"script>"); var __noconflict = true; } 
+			var IE6UPDATE_OPTIONS = {
+				icons_path: "/Content/Images/ie6update/"
+			}
+		</script>
+		<script type="text/javascript" src="/Scripts/ie6update.js"></script>
+	<![endif]-->
+    <div id="container">
+        <div id="topBar">
+            <div id="donateTop">
+                <a id="linkDonateTop" href="https://donations.childrensmiraclenetworkhospitals.org"><img src="../../Content/Images/donateTop.png" width="91" height="22" alt="Donate Today"></a>
+            </div>
+            <div id="search"><form action="/Search" id="SearchForm" method="get">
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#q').keydown(function (event) {
+                if (event.keyCode == 13) {
+                    $('#SearchForm').submit();
+                }
+            });
+        });
+    </script>
+    SEARCH  <input class="searchbox" id="q" name="q" type="text" value="">    
+</form></div>
+            <div class="clearFix"></div>
+        </div>
+        <div id="mainBody">
+            <div id="navTopMaster">
+                <a href="/">
+                    <img src="../../Content/Images/CMNMark.jpg" class="cmnMark" height="48" width="123" alt="Children's Miracle Network Hospitals">
+                </a>
+                <div id="navTop">
+                    
+
+<script src="/Scripts/navigation.js" type="text/javascript"></script>
+<script type="text/javascript">
+	$(document).ready(function () {
+		if ($.cookie('hospitalName') != null) {
+			$('#yourHospitalLink').attr('href', '/Hospital/' + $.cookie('hospitalName'));
+		}
+		else {
+			$('#yourHospitalLink').attr('href', '/Hospital/');
+		}
+	});
+</script>
+
+<ul id="navItems">
+    <li id="home" class="navItem">
+        <a href="/">
+            <img id="homeImg" src="../../Content/Images/navTop/topNavHome1.png" width="96" height="31" alt="Home" class="topButton" style="padding-left:0;">
+        </a>
+    </li>
+    <li id="about" class="navItem">
+            <img id="aboutImg" src="../../Content/Images/navTop/topNavAbout1.png" width="95" height="31" alt="About" class="topButton">
+        <ul class="subNavItems" style="display:none;">
+            <li class="subNavItem">
+                <a href="/About">
+                    History
+                </a>
+            </li>
+            <li class="subNavItem">
+                <a href="/About/Children">
+                    Children We<br>Help
+                </a>
+            </li>
+            <li class="subNavItem">
+                <a href="/About/FAQs">
+                    FAQs
+                </a>
+            </li>
+            <li class="subNavItem">
+                <a href="/About/ExecBios">
+                    Executive Bios
+                </a>
+            </li>            
+            <li class="subNavItem">
+                <a href="/About/LegalDocs">
+                    Legal Docs
+                </a>
+            </li>
+            <li class="subNavItem">
+                <a href="/About/Employment">
+                    Employment
+                </a>
+            </li>
+            <li><img src="../../Content/Images/navTop/topNavBottomCap.png" width="95" height="17" class="topNavBottomCap"></li>
+        </ul>
+    </li>
+    <li id="hospital" class="navItem">        
+            <a id="yourHospitalLink" href="/Hospital">
+            <img id="yourHospitalImg" src="../../Content/Images/navTop/topNavYourHospital1.png" width="121" height="31" alt="Your Hospital" class="topButton">
+        </a>
+    </li>
+    <li id="partners" class="navItem">
+            <img id="partnersImg" src="../../Content/Images/navTop/topNavPartners1.png" width="95" height="31" alt="Partners" class="topButton">
+        <ul class="subNavItems" style="display:none;">
+            <li class="subNavItem">
+                <a href="/Hospital/Search">
+                    Hospitals
+                </a>
+            </li>
+            <li class="subNavItem">
+                <a href="/Partners/Sponsors">
+                    Corporate<br>Partnerships
+                </a>
+            </li>
+            <li class="subNavItem">
+                <a href="/Partners/TvRadio">
+                    TV &amp; Radio
+                </a>
+            </li>            
+            <li class="subNavItem">
+                <a href="/Partners/Celebrities">
+                    Celebrities
+                </a>
+            </li>
+            <li><img src="../../Content/Images/navTop/topNavBottomCap.png" width="95" height="17" class="topNavBottomCap"></li>
+        </ul>
+    </li>
+    <li id="media" class="navItem">
+            <img id="mediaImg" src="../../Content/Images/navTop/topNavMedia1.png" width="95" height="31" alt="Media" class="topButton">
+        <ul class="subNavItems" style="display:none;">
+            <li class="subNavItem">
+                <a href="/Media/PressRoom">
+                    Press Room
+                </a>
+            </li>
+            <li class="subNavItem">
+                <a href="/Media/InTheNews">
+                    In The News
+                </a>
+            </li>
+            <li class="subNavItem">
+                <a href="/Media/Resources">
+                    Resources
+                </a>
+            </li>
+            <li class="subNavItem">
+                <a href="/Partners/TvRadio">
+                    Partners
+                </a>
+            </li>
+            <li class="subNavItem">
+                <a href="/About">
+                    Corporate Info
+                </a>
+            </li>
+            <li><img src="../../Content/Images/navTop/topNavBottomCap.png" width="95" height="17"></li>
+        </ul>
+    </li>
+    <li id="blog" class="navItem">
+        <a href="http://blog.childrensmiraclenetworkhospitals.org">
+            <img id="blogImg" src="../../Content/Images/navTop/topNavBlog1.png" width="96" height="31" alt="Blog" class="topButton">
+        </a>
+    </li>
+</ul>
+
+                </div>
+                <div class="clearFix"></div>
+            </div>
+            <div id="tagLine"><img src="../../Content/Images/tagLine.png" width="455" height="51" alt=""></div>
+            <div id="mainContainer">
+                <div id="sideNavLeft">
+                    
+    <table width="182" border="0" cellpadding="0" cellspacing="0">
+        <tbody>
+            <tr>
+                <td style="height:16px; background:url('../../Content/Images/leftNavTopCap.png') no-repeat top left;"></td>
+            </tr>
+            <tr>
+                <td id="sideNavLeftItems">
+                    <h3 class="noMargin">Privacy Policy</h3>
+                    <div class="dashes">-----</div>
+                    <ul>
+                        <li><span class="active" style="font-weight:bold;">Jump To:</span></li>
+                        <li><a href="#coverage">What the Privacy Policy Covers/Does Not Cover</a></li>
+                        <li><a href="#collecting">Information Collecting and Use</a></li>
+                        <li><a href="#sharing">Information Sharing and Disclosure</a></li>
+                        <li><a href="#updating">Correction/Updating Personal Information</a></li>
+                        <li><a href="#security">Confidentiality and Security</a></li>
+                        <li><a href="#changes">Changes to This Privacy Policy</a></li>
+                    </ul>
+                    <div class="thickLine"></div>
+                    <h3>Privacy Policy Contact</h3>
+                    <p style="font-weight:bold;font-size:12px;margin-bottom:3px;">Children's Miracle<br> Network Hospitals</p>
+                    <p style="margin-bottom:3px;">Customer Care -<br> 
+                    Privacy Policy Issues<br>
+                    205 West 700 South<br>
+                    Salt Lake City, Utah 84101<br>
+                    P 801.214.7400<br>
+                    F 801.746.6688</p>
+                    <p><a href="/About/ContactUs">Questions? Email Us</a></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="height:18px; background:url('../../Content/Images/leftNavBottomCap.png') no-repeat top left;"></td>
+            </tr>
+        </tbody>
+    </table>
+                    
+                </div>
+                <div id="mainContent">
+                    
+    <div id="privacyPolicy">
+        <h1>Children's Miracle Network Hospitals Privacy Policy</h1>
+        <a name="coverage"></a>
+	    <h2 style="margin-top:30px;">What The Privacy Policy Covers/Does Not Cover</h2>
+	    <ul>
+		    <li><p>This policy covers how CHILDREN'S MIRACLE NETWORK HOSPITALS treats 
+		    personal information that CHILDREN'S MIRACLE NETWORK HOSPITALS collects 
+		    and receives from donors. Personal information is information 
+		    about you that is personally identifiable like your name, address, 
+		    email address, or phone number, and that is not otherwise publicly 
+		    available.</p>
+		    </li>
+		    <li><p>This policy does not apply to the practices of local children's 
+		    hospitals, companies that CHILDREN'S MIRACLE NETWORK HOSPITALS does 
+		    not own or control, or to people that CHILDREN'S MIRACLE 
+		    NETWORK does not employ or manage.</p>
+		    </li>
+	    </ul>
+        <div class="lightGreyDivider"></div>
+        <a name="collecting"></a>
+	    <h2>Information Collection and Use</h2>
+	    <ul>
+		    <li><p>CHILDREN'S MIRACLE NETWORK HOSPITALS collects personal information 
+		    when you donate to CHILDREN'S MIRACLE NETWORK HOSPITALS.</p>
+		    </li>
+		    <li><p>When you donate, we ask for information such as your name, 
+		    email address, and zip code. Once you donate to CHILDREN'S 
+		    MIRACLE NETWORK, you are not anonymous to us.</p>
+		    </li>
+		    <li><p>CHILDREN'S MIRACLE NETWORK HOSPITALS automatically receives and 
+		    records information on our server logs from your browser, including 
+		    your IP address, and the page you request.</p>
+		    </li>
+		    <li><p>CHILDREN'S MIRACLE NETWORK HOSPITALS uses information for the 
+		    following general purposes: to improve our services, contact 
+		    you, conduct research, and provide anonymous reporting for internal 
+		    and external clients.</p></li>
+	    </ul>
+        <div class="lightGreyDivider"></div>
+        <a name="sharing"></a>
+	    <h2>Information Sharing and Disclosure</h2>
+	    <ul>
+		    <li><p>CHILDREN'S MIRACLE NETWORK HOSPITALS will share your donor contact 
+		    information with the CHILDREN'S MIRACLE NETWORK HOSPITALS participating 
+		    hospital selected during the donor's gift designation. 
+		    The donor is advised to review the receiving institution's 
+		    privacy policy to see how they will use their donor information.</p>
+		    <br>
+		    </li>
+		    <li><p>CHILDREN'S MIRACLE NETWORK HOSPITALS does not rent, sell, or 
+		    share personal information about you with other people or nonaffiliated 
+		    companies except to provide products or services you've requested, 
+		    when we have your permission, or under the following circumstances:</p>
+		    </li>
+	    <ul>
+		    <li><p>We respond to subpoenas, court orders, or legal process, 
+		    or to establish or exercise our legal rights or defend against 
+		    legal claims;</p>
+		    </li>
+		    <li><p>We believe it is necessary to share information in order 
+		    to investigate, prevent, or take action regarding illegal 
+		    activities, suspected fraud, situations involving potential 
+		    threats to the physical safety of any person, violations of 
+		    CHILDREN'S MIRACLE NETWORK HOSPITALS's terms of use, or as otherwise 
+		    required by law.</p>
+		    </li>
+		    <li><p>We transfer information about you if CHILDREN'S MIRACLE 
+		    NETWORK is acquired by or merged with another company. In 
+		    this event, CHILDREN'S MIRACLE NETWORK HOSPITALS will notify you 
+		    before information about you is transferred and becomes subject 
+		    to a different privacy policy.</p></li>
+	    </ul></ul>
+        <div class="lightGreyDivider"></div>
+        <a name="updating"></a>
+	    <h2>Correction/Updating Personal Information</h2>
+	    <p>You can change your donor information (name, address, etc…) 
+	    in our database by contacting our customer support team at 801-278-8900, 
+	    or by clicking <a href="/About/ContactUs">here</a>.</p>
+	    <p>Donors who have previously opted-in to external communication 
+	    lists and services, can also use the above contacts to inform 
+	    CHILDREN'S MIRACLE NETWORK HOSPITALS that you no longer wish to have 
+	    your personal information shared outside of the organization.</p>
+        <div class="lightGreyDivider"></div>
+        <a name="security"></a>
+	    <h2>Confidentiality and Security</h2>
+	    <ul>
+		    <li><p>We limit access to personal information about you to employees 
+		    who we believe reasonably need to come into contact with that 
+		    information to provide products or services to you or in order 
+		    to do their jobs.</p>
+		    </li>
+		    <li><p>We have physical, electronic, and procedural safeguards that 
+		    comply with federal regulations to protect personal information 
+		    about you.</p>
+		    </li>
+		    <li><p>In certain areas CHILDREN'S MIRACLE NETWORK HOSPITALS uses industry-standard 
+		    SSL-encryption to protect data transmissions</p></li>
+	    </ul>
+        <div class="lightGreyDivider"></div>
+        <a name="changes"></a>
+	    <h2>Changes to this Privacy Policy</h2>
+	    <ul>
+		    <li><p>CHILDREN'S MIRACLE NETWORK HOSPITALS may update this policy. 
+		    We will notify you about significant changes in the way we treat 
+		    personal information by sending a notice to the primary email 
+		    address specified in your CHILDREN'S MIRACLE NETWORK HOSPITALS account 
+		    or by placing a prominent notice on our site.</p>
+		    </li>
+		    <li><p>If you have questions or suggestions, please send them to us by clicking <a href="/About/ContactUs">here</a>.</p>
+		      <p>Children's Miracle Network Hospitals<br>
+			    Customer Care - Privacy Policy Issues<br>
+			    4525 South 2300 East<br>
+			    Salt Lake City, UT 84117<br>
+			    (801) 278.8900<br>
+			    </p>
+		    </li>
+	    </ul>
+    </div>
+    <input type="hidden" id="navHeading" value="home">
+
+
+                </div>
+                <div id="sideNavRight">
+                    <a id="linkDonateNavRight" href="https://donations.childrensmiraclenetworkhospitals.org"><img src="../../Content/Images/sideNavGive.png" height="53" width="116" alt="Give" class="sideButton"></a>
+                    <a href="http://www.youtube.com/cmnhospitals"><img src="../../Content/Images/sideNavWatch.png" height="53" width="116" alt="Watch" class="sideButton" style="margin:18px 0;"></a>
+                    <a href="/Help"><img src="../../Content/Images/sideNavHelp.png" height="53" width="116" alt="Help" class="sideButton"></a>
+                </div>
+                <div class="clearFix"></div>
+                <div id="social">
+                    <a id="facebookLink" href="http://www.facebook.com/cmnhospitals"><img src="../../Content/Images/facebook.png" height="19" width="19" alt="Like Us On Facebook"></a>
+                    <a href="http://twitter.com/cmnhospitals"><img src="../../Content/Images/twitter.png" height="19" width="19" alt="Follow Us On Twitter"></a>
+                    <a href="http://www.youtube.com/cmnhospitals"><img src="../../Content/Images/youtube.png" height="19" width="19" alt="Watch On YouTube"></a>
+                    <a href="http://miraclemall.childrensmiraclenetworkhospitals.org/"><img src="../../Content/Images/MiracleMall.png" height="19" width="19" alt="Shop at the Miracle Mall"></a>
+                </div>
+            </div>
+        </div>
+        
+<script src="/Scripts/eventCalendar.js" type="text/javascript"></script>
+<div id="calendarContiner">
+    <ul id="calendar"></ul>
+</div>
+
+        <div id="footer">
+            © 2011 Children’s Miracle Network Hospitals, a not-for-profit, section 501(c)(3)<a href="/Privacy">Privacy Policy</a><a href="http://www.childrensmiraclenetwork.ca">Children's Miracle Network Canada</a>
+        </div>
+        <div id="marketSearch">
+            <h1>Find A Hospital</h1>       
+            <h2>We would like to match you with the Children's Miracle Network Hospital that you are most interested in, please enter one of the following:</h2>   
+            <div class="editor-label">
+                Please enter your zip code: 
+            </div>
+            <div class="editor-field">
+                <input id="zipcode" name="zipcode" onfocus="$('#hospitalDropDown').attr('selectedIndex', 0);" style="width: 100px;" type="text" value="">
+            </div>
+            <div class="clearFix"></div>
+            <div class="editor-label">
+                Please choose a Hospital: 
+            </div>
+            <div class="editor-field">
+                <select id="hospitalDropDown" onfocus="$('#zipcode').val('');">
+                    <option></option>
+                </select>
+            </div>
+            <div class="clearFix"></div>
+            <input type="image" src="../../Content/Images/submitButtonSm.png" id="marketSearchButton" value="Set Hospital" onclick="marketSearchClick();" class="button"> 
+        </div>
+    </div>
+    <script type="text/javascript">
+        Cufon.now(); 
+    </script>
+
+
+</body></html>
