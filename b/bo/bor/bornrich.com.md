@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bornrich.com privacy policy that was archived on 2011-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110314061407id_/http%3A//www.bornrich.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bornrich.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223111437id_/http%3A//www.bornrich.com/privacy-policy) for the most accurate reproduction.*
 
-# Instamedia Privacy Policy
+# Privacy Policy : Bornrich : Bornrich - Home of luxury and most expensive things
 
 Instamedia, Inc. ("Instamedia," "we," "us") is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your personally identifiable information. This Privacy Policy (the "Policy") describes our practices in connection with personally identifiable information that we collect through our website located at www.Instamedia.com (the "Site"). This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site, nor does this Policy govern the collection of information by any of our affiliates (collectively, "Affiliated Entities").
 
