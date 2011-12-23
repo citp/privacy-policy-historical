@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stadiumastro.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624212740id_/http%3A//www.astro.com.my/portal/indices/index_102.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stadiumastro.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223013743id_/http%3A//www.astro.com.my/portal/privacy-policy) for the most accurate reproduction.*
 
 # Astro.com.my Portal - Privacy Policy
 
