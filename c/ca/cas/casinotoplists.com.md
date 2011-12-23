@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the casinotoplists.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621062441id_/http%3A//www.casinotoplists.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinotoplists.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223090212id_/http%3A//www.casinotoplists.com/privacy-policy) for the most accurate reproduction.*
 
 # CasinoToplists Privacy Policy - Secure Online Gambling
 
-Το Casinotoplists είναι τώρα διαθέσιμο και στα Ελληνικά! Αν θέλετε να επισκεφτείτε την Ελληνική έκδοση μπορείτε να κάνετε κλικ στο παρακάτω σύνδεσμο [**Casinotoplists.gr**](http://www.casinotoplists.gr/).
-
-All information collected at Casinotoplists.com will be kept strictly confidential. It will not be sold, reused, loaned, rented or otherwise disclosed. Any information you give to Casinotoplists.com will be held with great care. No information will be used in ways that you as a Casinotoplists.com visitor have not consented to. 
+All information collected at Casinotoplists.com will be kept strictly confidential. It will not be sold, reused, loaned, rented or otherwise disclosed. Any information you give to Casinotoplists.com will be held with great care. No information will be used in ways that you as a Casinotoplists.com visitor have not consented to.
 
   * Use of cookies. Casinotoplists.com uses cookies, mostly in order to track traffic coming from other websites and leaving to other websites. With the cookies, we make no attempt to link them with the individuals to make any information personally identifiable.
   * Browser information collected on the website. Casinotoplists.com analyses the website logs to improve the value of the materials available on the website. Our website logs are not personally identifiable, and we make no attempt to link them with the people that actually visit the site.
