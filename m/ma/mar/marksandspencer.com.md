@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the marksandspencer.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127010801id_/http%3A//help.marksandspencer.com/faqs/company-website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marksandspencer.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223233359id_/http%3A//help.marksandspencer.com/faqs/company-website/privacy-policy) for the most accurate reproduction.*
 
 # Ask Marks & Spencer - What is the website's privacy policy?
 
-**PART C: PRIVACY & SECURITY**
+**PRIVACY & SECURITY**
 
 **IMPORTANT – PLEASE READ CAREFULLY
 
@@ -42,9 +42,9 @@ We respect your right to privacy and will only process personal data you provide
 
 If you have any questions about how we collect, store and use personal data, or if you have any other privacy-related questions, please contact us by any of the following means:
 
-  * phone us at: 0845 302 1234; 
-  * e-mail us at chairman@marksandspencer.com or 
-  * write to us at our freepost address (no stamp required): Marks & Spencer, Chester Business Park, Wrexham Road, Chester CH4 9GA
+  * phone us on: 0845 302 1234; 
+  * e-mail us at: [retailcustomer.services@marksandspencer.com](mailto:retailcustomer.services@marksandspencer.com) or 
+  * write to us at: Marks & Spencer, Retail Customer Services, Chester Business Park, Wrexham Road, Chester CH4 9GA
 
 
 
@@ -91,16 +91,6 @@ In addition, we may collect anonymised details about visitors to our Website for
 Except as set out in this privacy policy, we will not disclose, sell or rent your personal data to any third party. If you do consent but later change your mind, you may contact us and we will cease any such activity.
 
 In the event that a third party acquires all or part of our business and/or assets, we may disclose your personal data to that third party in connection with the acquisition. Furthermore, we reserve the right to disclose your personal data to third parties as part of any business or asset sale carried out because Marks & Spencer has gone into insolvency or any similar situation, but only where lawful and compliant  with the Data Protection Act 1998. We may also disclose your personal data where necessary to comply with applicable law or an order of a governmental or law enforcement body.  
-
-If you have any questions about how we collect, store and use personal data, or if you have any other privacy-related questions, please contact us by any of the following means:
-
-  * phone us at: 0845 302 1234; 
-  * e-mail us at chairman@marksandspencer.com or 
-  * write to us at our freepost address (no stamp required): Marks & Spencer, Chester Business Park, Wrexham Road, Chester CH4 9GA
-
-
-
-When contacting us, please remember to quote your name and contact details along with any Marks & Spencer account number or correspondence reference you may have.
 
 **Microsites**
 
