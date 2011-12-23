@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponmountain.com privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310114108id_/http%3A//www.couponmountain.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponmountain.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223035141id_/http%3A//www.couponmountain.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Offer Online Coupons & Coupon Codes at Coupon Mountain
 
@@ -38,7 +38,7 @@ Finally, from time to time, but only with your permission, we may provide your P
 
 **Do I have choices?**
 
-Yes. You may opt-out of having your PII shared with third parties at any time by sending request that includes your full name, email address, and postal address with a request for opt-out with regard to your PII to: CouponMountain.com, Attn: Privacy Officer, 222 E. Huntington Drive, Suite 105 Monrovia, CA 91016 or you can email us including your full name, email address with a request for opt-out with regard to your PII to [privacy@valueclickbrands.com](mailto:privacy@valueclickbrands.com). 
+Yes. You may opt-out of having your PII shared with third parties at any time by sending request that includes your full name, email address, and postal address with a request for opt-out with regard to your PII to: CouponMountain.com, Attn: Privacy Officer, PO Box 168, Monrovia, CA 91017 or you can email us including your full name, email address with a request for opt-out with regard to your PII to [Contact Us](https://web.archive.org/Contact_Us.html?subject=Privacy%20Policy%20Questions). 
 
 We also offer "opt-out Cookies" to block the placement of future ValueClick Brands Persistent Cookies on your system for one thousand (1,000) days from the time you opted out. If you have multiple internet browsers or users on the same computer, you will need to perform the opt-out operation for each browser and/or user. If you or your privacy software deletes the opt-out Cookies from your computer, you will need to repeat the process. Alternatively, most internet browsers and browser add-ons allow you to adjust their settings to allow you to automatically refuse Cookies either generally or from specific sites. To adjust these settings, we suggest that you contact the supplier of you browser and browser add-ons for more information.
 
@@ -48,14 +48,10 @@ We employ reasonable measures to ensure the security of all information and we r
 
 **Does CouponMountain.com collect personally identifying information from or about children?**
 
-We use reasonable efforts not to collect, use or disclose PII from children under the age of 13. The services are not targeted at children, and children age 13 and under may not register for any portions of the services that require registration. If you believe your child has provided us with any PII data by registering on our Site, please specify this issue and email us at [privacy@valueclickbrands.com](mailto:privacy@valueclickbrands.com).
+We use reasonable efforts not to collect, use or disclose PII from children under the age of 13. The services are not targeted at children, and children age 13 and under may not register for any portions of the services that require registration. If you believe your child has provided us with any PII data by registering on our Site, please specify this issue and email us at [Contact Us](https://web.archive.org/Contact_Us.html?subject=Privacy%20Policy%20Questions).
 
-To request a copy of any PII you have sent to us, please send an email containing your request to [privacy@valueclickbrands.com](mailto:privacy@valueclickbrands.com). You must provide your full name and the e-mail from which the request is received (and to which the response will be sent) must match the e-mail on file with us. You may then correct or delete such information using the procedures specified in the e-mail.
+To request a copy of any PII you have sent to us, please send an email containing your request to [Contact Us](https://web.archive.org/Contact_Us.html?subject=Privacy%20Policy%20Questions). You must provide your full name and the e-mail from which the request is received (and to which the response will be sent) must match the e-mail on file with us. You may then correct or delete such information using the procedures specified in the e-mail.
 
 We may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post the revised Privacy Policy and the date the Privacy Policy was last updated on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. We encourage you to review the Privacy Policy whenever you use this Site to make sure you understand how your information will be used. It is the express will of the parties that this agreement and all related documents have been drawn up in English. C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglais.
 
 If you have any questions about anything in this Privacy Policy or about collection of personally identifiable information, or information generally, please contact us as follows: 
-
-CouponMountain.com/ValueClick Brands   
-222 E. Huntington Drive, Suite 105  
-Monrovia, CA 91016
