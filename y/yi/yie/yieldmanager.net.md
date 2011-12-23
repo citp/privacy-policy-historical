@@ -1,90 +1,131 @@
-> *The following text is extracted and transformed from the yieldmanager.net privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316003313id_/http%3A//info.yahoo.com/privacy/us/biz/rightmedia/details.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yieldmanager.net privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223111320id_/http%3A//info.yahoo.com/privacy/us/yahoo) for the most accurate reproduction.*
 
-# Right Media Exchange
+# Yahoo! Privacy Policy
 
-Please read this policy to understand how Right Media collects and uses information to operate its online exchange.  The online advertising exchange is operated by Right Media, which is part of the Yahoo! family of products and services.  
+## WHAT THIS PRIVACY POLICY COVERS
 
+### Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-**What this policy covers**
+The federal government and technology industry have developed [practical tips](http://onguardonline.gov/) to help you guard against Internet fraud, secure your computer and protect your personal information. 
 
-This policy explains how our Yield Manager technology powers our advertising exchange.  In particular, this policy explains the data collected both within our advertising exchange and collected on our website. This policy also explains what choices you have regarding the use and sharing of your information within the online advertising exchange.     
+### How Yahoo! Uses Your Personal Information
 
+This policy covers how Yahoo! treats personal information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
 
-For more information on Yahoo!’s other privacy policies that apply to subscribers and users of other Yahoo! products and services, please read the [Yahoo! Privacy Policy](http://privacy.yahoo.com/).
+### This privacy policy only applies to Yahoo!
 
-**Details**
+This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, some companies that Yahoo! has acquired have their own, preexisting privacy policies which may be viewed on our [acquired companies page](http://info.yahoo.com/privacy/us/yahoo/acquiredcompanies/).
 
-Right Media runs an online advertising exchange for our clients that enables them to buy and sell ad space on websites for online advertising.  Our clients are businesses engaged in Internet advertising - advertisers, agencies, publishers, ad networksand other technology providers. Our Yield Manager technology powers this online exchange. When ad space on a website is sold, usually to an advertiser, agency or ad network by a publisher or other ad network, the Yield Manager technology fulfills the transaction by delivering the ad to that publisher’s site. Generally, an Internet user's computer comes into contact with Right Media when a user visits a website whose publisher utilizes the Yield Manager technology, or views an ad that has been served by Yield Manager. The ads sent by the Yield Manager technology are sent from the domain ad.yieldmanager.com and through client domains that forward ads and ad requests to and from ad.yieldmanager.com. **  
-**
+### Yahoo!'s participation in the Safe Harbor program
 
-**Types of information we collect and how we use it**
+Yahoo! participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. To view our certification, visit the U.S. Department of Commerce's [Safe Harbor Web site](http://www.export.gov/safeharbor/). For more information about Yahoo!'s participation in the Safe Harbor program, please visit our [Safe Harbor](http://info.yahoo.com/privacy/us/yahoo/safeharbor/) details page.
 
-Right Media Technology Platform
+Return to top
 
-Right Media is a technology provider for our clients.  As a technology provider, we contractually prohibit our clients from sending personally identifiable information to the Yield Manager technology and require our clients to post privacy policies that comply with applicable laws, rules and regulations. 
+## INFORMATION COLLECTION AND USE
 
-Before the Yield Manager technology delivers an ad, the technology uses information collected from several sources to decide the best ad to display.  The information used helps the technology infer the context in which the ad will appear; resulting in a more relevant ad.  This section describes the technologies used on our clients’ websites to help deliver the most relevant ad to you:
+### General
 
-  * Cookies are small text files that are stored within a browser.  They are accessed and recorded by the web site visited and by the companies that show ads on that site to enable them to “recognize” the same browser or user.  They are used as part of the ad serving process and also help us collect information about a user’s online interactions.  The Yield Manager cookie helps us maintain a list of ads previously delivered by the Yield Manager technology.  The cookie also stores the number of times the same ad was delivered, the number of times you have clicked on an ad served by our technology, and the number of times you have possibly engaged in a business transaction on the advertiser’s website. 
-  * When an ad is served on one of our client’s websites, Right Media’s Yield Manager technology collects non-personally identifiable information such as the date and time of your visit to our client’s website, your IP address, the type of browser you are using, and the web page address that you are visiting.  This information helps our technology infer the context in which the ad will appear.  This information is saved in a log file and kept by Right Media for auditing and fraud detection purposes.
-  * The Yield Manager technology responds to requests from ad tags placed on the website you are visiting.  Ad tags provide Right Media with information to determine the size and location of the ad.  In some cases, websites can also provide information about you, such as non-personally identifiable demographic information.
-  * The Yield Manager technology uses web beacons (also known as clear GIFs or 1x1 pixels).  A web beacon serves a tiny graphic placed on a web site that is not visible to the user.  We allow our clients to use web beacons to measure campaign effectiveness and to optimize campaign performance.  For example, if you click through an ad to the advertiser’s website, a web beacon on the advertiser’s website can report to the Yield Manager servers what pages within the advertiser’s site that user has visited.  The advertiser can then utilize this information to measure the effectiveness of their campaign and provide more relevant advertising.  Our technology also uses pixels to allow our clients to create identify consumer segments and select the appropriate ad based on the segment.
-  * The Yield Manager technology collects and stores aggregated ad delivery reporting data.  This data is used to provide our clients with campaign reporting and used for billing purposes.  A typical report includes information about the ads delivered, including the date and time of ad delivery, the websites on which the ads were shown, and statistics on user response.  A report also includes statistics about browser types, date and time of ad delivery, and inferred geography (the IP Address for the web browser is used to approximate, general geographic location).
+Yahoo! collects personal information when you register with Yahoo!, when you use [Yahoo! products or services](http://info.yahoo.com/privacy/us/all/), when you visit Yahoo! pages or the pages of certain Yahoo! partners, and when you enter [promotions or sweepstakes](http://info.yahoo.com/privacy/us/yahoo/promotions/). Yahoo! may combine information about you that we have with information we obtain from business partners or other companies. 
 
+When you register we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. For some financial products and services we might also ask for your address, Social Security number, and information about your assets. When you register with Yahoo! and sign in to our services, you are not anonymous to us. 
 
+Yahoo! collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
 
-Right Media Website   
+Yahoo! automatically receives and records information from your computer and browser, including your [IP address](http://info.yahoo.com/privacy/us/yahoo/ip/), Yahoo! [cookie](http://info.yahoo.com/privacy/us/yahoo/cookies/) information, software and hardware attributes, and the page you request.
 
+Yahoo! uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
 
-The Right Media website collects personally-identifiable information about users only if a user voluntarily provides that information to this site.  This website also collects non-personally identifiable information to help us maximize our website performance and to improve its usefulness.  This section describes the types of information we collect about you when you interact with this web site:
+### Children
 
-  * The Right Media website uses cookies to evaluate the performance and usefulness of this site.  The information collected by cookies on this site is not combined with information from the Yield Manager cookie that is used for increasing your ad relevancy.  In addition, the Right Media cookie does not provide or link to any personally identifiable information you may have provided on this site.
-  * The Right Media website collects personally identifiable information, such as a name, email address, mailing address and phone number, only in situations where you provide it on our site.  Personally identifiable information is collected on our site in the following instances: Contact Us! function, blog posts, subscription feed, forward to a friend, inquiry about adware or spyware removal, Yield Manager client, Inquiry about the Right Media Exchange, and Request for feedback.  Right Media uses the personally-identifiable information you provide to respond to your inquiries and request, and to keep accurate records concerning the services you are requesting through the Right Media site.  This information is not collected or used by the Yield Manager technology to deliver ads to you.
-  * The Right Media website collects non-personally identifiable information, including demographic information (such as city or state) and web site activity information.  Our website collects non-personally identifiable information from browsers that send information such as the site you visit, your IP address, browser type, language and time of your visit.  This website also uses web beacons to remember the pages of sections of the site you visit.  We use this information to analyze the performance and usefulness of this site.
+When a child under age 13 attempts to register with Yahoo!, we ask the child to have a parent or guardian create a [Yahoo! Family Account](http://info.yahoo.com/privacy/us/family/details.html) to obtain parental permission. 
 
+Yahoo! does not contact children under age 13 about special offers or for marketing purposes without a parent's permission. 
 
+Yahoo! does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion.
 
-**Transparency, Choice and Opt-Out**
+Return to top
 
-The Yield Manager technology does not collect any personally identifiable information about you during the ad delivery process.  Accordingly, Right Media is unable to provide access or the ability to change information stored by our technology. 
+## INFORMATION SHARING AND DISCLOSURE
 
-The Yield Manager technology uses cookies for ad selection in order to enhance ad effectiveness.  Right Media believes that cookies enhance your web experience by limiting the repetitiveness of advertising and increasing the level of relevant ads.  Because some users may not want information to be collected using cookies,, we offer consumers the ability to opt out from our use of data associated with the Yield Manager cookie to deliver relevant ads.  You can disable the Yield Manager cookie by [opting out](http://ad.yieldmanager.com/opt-out).  By opting out, the Yield Manager technology will place an opt-out cookie on your computer that will prevent our technology from using profiled information about you.
+Yahoo! does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
-Because cookies are browser specific, if you use more than one browser on your computer, you will need to opt-out of the Yield Manager cookie on the other browser(s) in order to opt-out completely.  Please note that you will need to opt-out of the Yield Manager cookie again if you buy a new computer, upgrade or change the browser on your existing computer, or delete the Yield Manager opt-out cookie.   
-
-
-**Information Sharing and Disclosure**
-
-Right Media may provide copies of log files to advertisers, clients and certain partners relating to the specific transactions they are a party to.  These files contain information that allows clients to analyze the effectiveness and performance of their advertising campaign.  Our clients also have the ability to use any or all of the information collected in connection with our services for their own purposes. The information provided to our clients does not contain personally identifiable information about you.  In cases where Right Media provides information to our clients, our clients are obligated to use the information they receive in compliance with applicable laws and regulations.
-
-Right Media may share the information it collects with selected partners, vendors, agents or others who work on our behalf, in order to provide products or services you’ve requested, or when we have your permission.  Right Media may share information about you if Right Media is acquired by or merged with another company. 
-
-Right Media may also share information in the event that we are asked to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims, or as otherwise permitted by law.
-
-**Report Adware and Spyware Problems**
-
-Right Media does not control or condone the creation or supply of these ads on your computer.  Occasionally a website, software publisher, or other entity with access to the ad serving process will bundle ads with spyware or adware without Right Media’s knowledge or consent.  In these cases, Right Media does everything we can to track down who is doing it and put an end to it.
-
-Pop-up ads originate from two sources: websites that show pop-up ads to generate advertising revenue; or programs installed on your computer.  Such ad-enabled programs are often bundled with freeware/shareware and peer-to-peer sharing programs that you may have downloaded.
-
-If you would like help in removing the adware or spyware, please contact us using the [contact form](https://my.yieldmanager.com/spyware_form.php), or at the address below.  Please note that in order to prevent this from happening again to you and to others, we also request that you send us the click-through URL to assist us in identifying the party responsible for this problem.   
+  * We provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use your personal information to help Yahoo! communicate with you about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information. 
+  * We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing Yahoo! to collect and use their child's information without consenting to Yahoo! sharing of this information with people and companies who may use this information for their own purposes.
+  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
+  * We transfer information about you if Yahoo! is acquired by or merged with another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy. 
 
 
-**Other**
 
-Right Media maintains safeguards to protect the security, integrity and privacy of the personally identifiable information in our control.
+Yahoo! displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area. 
 
-Right Media may update this policy from time to time.  Please check this privacy policy for updates.
-
-If you have any questions about this Privacy Policy, please contact us at the following:
-
-Right Media, LLC  
+  * Yahoo! does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
+  * Yahoo! advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
 
 
-Attention: Yield Manager Privacy Questions
 
-45 West 18th Street
+Yahoo! works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [reference links](http://info.yahoo.com/privacy/us/all/). 
 
-New York, NY 10011
+Return to top
 
-_Last updated: March 1, 2010_
+## COOKIES
+
+Yahoo! may set and access Yahoo! [cookies](http://info.yahoo.com/privacy/us/yahoo/cookies/) on your computer.
+
+Yahoo! lets [other companies](http://info.yahoo.com/privacy/us/yahoo/thirdparties/) that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!'s cookies.
+
+Yahoo! uses [web beacons](http://info.yahoo.com/privacy/us/yahoo/webbeacons/) to access Yahoo! cookies inside and outside our network of web sites and in connection with Yahoo! products and services.
+
+### Your Ability to Edit and Delete Your Account Information and Preferences
+
+  
+
+
+### General
+
+You can edit your [Yahoo! Account Information](http://edit.yahoo.com/config/eval_profile), including your [marketing preferences](http://subscribe.yahoo.com/showaccount), at any time. 
+
+New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
+
+We reserve the right to send you certain communications relating to the Yahoo! service, such as service announcements, administrative messages and the Yahoo! Newsletter, that are considered part of your Yahoo! account, without offering you the opportunity to opt out of receiving them. 
+
+You can delete your Yahoo! account by visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [click here](http://info.yahoo.com/privacy/us/yahoo/datastorage/) to read about information that might possibly remain in our archived records after your account has been deleted. 
+
+### Children
+
+Parents can review, edit, and delete information relating to their child's Yahoo! account using tools offered by [Yahoo! Family Accounts](http://info.yahoo.com/privacy/us/family/details.html). 
+
+If a parent chooses not to allow us to further collect or use a child's information, parents enrolled in Yahoo! Family Accounts can delete their child's account by signing into that child's account and then visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [click here](http://info.yahoo.com/privacy/us/yahoo/datastorage/) to read about information that might possibly remain in our archived records after your account has been deleted. 
+
+Return to top
+
+## CONFIDENTIALITY AND SECURITY
+
+We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
+
+We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
+
+To learn more about security, including the security steps we have taken and security steps you can take, please read [Security at Yahoo!](http://info.yahoo.com/privacy/us/yahoo/security/).
+
+### CHANGES TO THIS PRIVACY POLICY
+
+Yahoo! may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo! account or by placing a prominent notice on our site. 
+
+Return to top
+
+## QUESTIONS AND SUGGESTIONS
+
+If you have questions, suggestions, or wish to make a complaint, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at:
+
+Yahoo! Inc.  
+Customer Care - Privacy Policy Issues  
+701 First Avenue  
+Sunnyvale, CA 94089  
+(408) 349-5070
+
+If you feel that your inquiry has not been satisfactorily addressed, please click [here](http://info.yahoo.com/privacy/us/yahoo/consumeragencies/) for information on consumer agencies that may be able to provide you with additional assistance.
+
+Effective Date: November 22, 2006
+
+Return to top
