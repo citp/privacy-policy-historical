@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mytoshiba.com.au privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627013549id_/http%3A//www.mytoshiba.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytoshiba.com.au privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223053827id_/http%3A//www.mytoshiba.com.au/about/privacy) for the most accurate reproduction.*
 
-# Privacy :: About Toshiba :: Toshiba
+# Privacy :: About Toshiba :: Toshiba :: Computers, Laptops/Notebooks, Tablets, Televisions, DVD and Blu-Ray Players, Camcorders, Storage, Accessories, and more
 
 TOSHIBA is committed to protecting your privacy.
 
