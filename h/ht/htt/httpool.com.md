@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the httpool.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605030259id_/http%3A//www.httpool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the httpool.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223011252id_/http%3A//www.httpool.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Httpool Online Advertising
 
@@ -6,7 +6,7 @@
 
 ## **Dear user,**
 
-**Before you are regulations, governing protection of privacy and personal information and data (Privacy Policy), that are collected from the website by Httpool Internet Marketing GmbH, TaborstraBe 7/8, 1020 Vienna, Austria ("controller").**
+**please carefully read regulations, governing protection of privacy and personal information and data (Privacy Policy), that are collected from the website by Httpool Internet Marketing GmbH, TaborstraBe 7/8, 1020 Vienna, Austria ("controller").**
 
 This Privacy Policy applies to all of the products, services and websites offered by Httpool Internet Marketing GmbH or its subsidiaries or affiliated companies. This Privacy Policy does not apply for other websites displayed as links from within our services. These other sites may use various means to try to collect personal information from you. 
 
