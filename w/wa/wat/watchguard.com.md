@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchguard.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625145815id_/http%3A//www.watchguard.com/corporate-info/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchguard.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223200307id_/http%3A//www.watchguard.com/corporate-info/privacy-policy.asp) for the most accurate reproduction.*
 
 # WatchGuard Technologies | Privacy Statement
 
@@ -35,19 +35,19 @@ Where we deem appropriate, contact information will be shared with WatchGuard Au
 WatchGuard periodically sends email to recipients who have _"opted-in"_ to receiving email from us. WatchGuard uses various technologies to track deliverability and performance of those emails to ensure that they are reaching the recipients properly. When WatchGuard is troubleshooting an email deliverability problem with a specific recipient or group of recipients, deliverability and performance data for specific email addresses may be reviewed to assist in the troubleshooting process. Otherwise, the deliverability and performance data is analyzed in the aggregate.
 
 **WatchGuard third party opt-out policy**  
-If you would like to opt-out of WatchGuard sharing contact information with Channel Partners that assist customers with their WatchGuard purchase decision, please provide your information using WatchGuard's [Third Party Opt Out form](https://web.archive.org/web/20110625145815id_/http%3A//www.watchguard.com/corporate-info/thirdpartycomm.asp), or contact Customer Care on the [web](https://web.archive.org/support/createincident.asp) or on the [phone](https://web.archive.org/about/contact.asp?area=support).
+If you would like to opt-out of WatchGuard sharing contact information with Channel Partners that assist customers with their WatchGuard purchase decision, please provide your information using by contacting Customer Care on the [web](http://unsubscribe.watchguard.com/) or on the [phone](https://web.archive.org/about/contact.asp?area=support).
 
 **WatchGuard opt-out policy**  
-If you would like to opt-out of being contacted by WatchGuard, please contact Customer Care on the [web](https://web.archive.org/support/createincident.asp) or on the [phone](https://web.archive.org/about/contact.asp?area=support).
+If you would like to opt-out of being contacted by WatchGuard, please contact Customer Care on the [web](http://unsubscribe.watchguard.com/) or on the [phone](https://web.archive.org/about/contact.asp?area=support).
 
 **WatchGuard policy on correcting and updating personally identifiable information**  
-If you would like to correct and/or update your personally identifiable information, please contact Customer Care on the [web](https://web.archive.org/support/createincident.asp) or on the [phone](https://web.archive.org/about/contact.asp?area=support).
+If you would like to correct and/or update your personally identifiable information, please contact Customer Care by [phone](https://web.archive.org/about/contact.asp?area=support).
 
 **WatchGuard policy on deactivating your name or deleting it from our database**  
-If you would like your name to be deleted or deactivated, please contact Customer Care on the [web](https://web.archive.org/support/createincident.asp) or on the [phone](https://web.archive.org/about/contact.asp?area=support).
+If you would like your name to be deleted or deactivated, please contact Customer Care by [phone](https://web.archive.org/about/contact.asp?area=support).
 
 **Understanding the distinction between Security and Privacy**  
 Security involves making sure that any sensitive information you may provide is safe and secure. Privacy refers to information we gather about you, and the use we make of it in the course of our business. 
 
 **Interacting with WatchGuard via email**  
-We do our best to promptly respond to all messages sent to Customer Care on the [web](https://web.archive.org/support/createincident.asp), and save messages that we think might be needed if the sender contacts us again. We do not sell or rent email addresses to other companies. Should you have a concern regarding email, please feel free to contact us by phone at +1.206.613.0895. 
+We do our best to promptly respond to all messages sent to Customer Care, and save messages that we think might be needed if the sender contacts us again. We do not sell or rent email addresses to other companies. Should you have a concern regarding email, please feel free to contact us by phone at +1.206.613.0895. 
