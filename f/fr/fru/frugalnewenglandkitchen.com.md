@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the frugalnewenglandkitchen.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623133434id_/http%3A//frugalnewenglandkitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalnewenglandkitchen.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223111404id_/http%3A//frugalnewenglandkitchen.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Frugal New England Kitchen | Grandparents And Grandkids | Connecticut Mom Blogger
+# Privacy Policy – Frugal New England Kitchen
 
 Effective Date: December 15, 2007
 
 **PRIVACY STATEMENT**
 
-Your privacy is important to Frugal New England Kitchen. This privacy statement provides information about the personal information that Frugal New England Kitchen collects, and the ways in which Frugal New England Kitchen uses that personal information.
+Your privacy is important to [Frugal](http://frugalnewenglandkitchen.com/recommends/Coupon_Clutch/) New England [Kitchen](http://frugalnewenglandkitchen.com/recommends/Stonewall/). This privacy statement provides information about the personal information that [Frugal](http://frugalnewenglandkitchen.com/recommends/Save_At_Home_Mommy_Coupon_Binder/) New England Kitchen collects, and the ways in which [Frugal](http://frugalnewenglandkitchen.com/recommends/Coupon_Clutch/) New England Kitchen uses that personal information.
 
 **Comment Policy:**
 
-**Rule No. 1. It’s my blog.** As sole author of this blog, I reserve the right to edit comments that I consider are spam, offensive in nature or not family-friendly.
+**Rule No. 1. It’s my[blog](http://frugalnewenglandkitchen.com/recommends/Mom-Webs/).** As sole author of this blog, I reserve the right to edit comments that I consider are spam, offensive in nature or not family-friendly.
 
 **Personal information collection**
 
