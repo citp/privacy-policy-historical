@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lijit.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629073014id_/http%3A//www.lijit.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lijit.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223133334id_/http%3A//www.lijit.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Lijit | Privacy Policy
 
