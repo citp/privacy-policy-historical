@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smythson.com privacy policy that was archived on 2011-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623023639id_/http%3A//www.smythson.com/privacy-security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smythson.com privacy policy that was archived on 2011-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111223135116id_/http%3A//www.smythson.com/privacy-security) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy and Security</title>
@@ -26,15 +26,15 @@
 <link rel="stylesheet" type="text/css" href="http://www.smythson.com/skin/frontend/base/default/css/pod1.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.smythson.com/skin/frontend/base/default/css/factfinder.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.smythson.com/skin/frontend/smythson/default/css/print.css" media="print">
-<script type="text/javascript" src="http://media.smythson.com/media/js/35b0347e03d9319648aae2b454de4172.js"></script>
+<script type="text/javascript" src="http://media.smythson.com/media/js/b8f2fd0429d08afe96d3d54cd359a33a.js"></script>
 <!--[if lt IE 8]>
 <link rel="stylesheet" type="text/css" href="http://www.smythson.com/skin/frontend/smythson/default/css/styles-ie.css" media="all" />
 <![endif]-->
 <!--[if IE]>
-<script type="text/javascript" src="http://media.smythson.com/media/js/5b1e2dc270b6331b10aca0598603771f.js"></script>
+<script type="text/javascript" src="http://media.smythson.com/media/js/15909247da052b3e816ca225998585d2.js"></script>
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://media.smythson.com/media/js/937607b612d3fa6e926d5b97a07a92f9.js"></script>
+<script type="text/javascript" src="http://media.smythson.com/media/js/2fbcb515e24cf8eef12d3e2d3fe6e8d7.js"></script>
 <![endif]-->
 
 <script type="text/javascript">
@@ -98,7 +98,7 @@ optionalZipCountries = [];
 <div class="form-search">
     <label for="search">Search site:</label><input id="search" type="text" name="q" value="" class="input-text"><div class="search-icon">&nbsp;</div><a href="http://www.smythson.com/catalogsearch/advanced/">Advanced Search</a>
 
-    
+    <div id="search_fieldname_message" style="display: none;">Please add a search term</div>
     <div id="search_autocomplete" class="search-autocomplete"></div>
     <script type="text/javascript">
     //<![CDATA[
@@ -108,14 +108,29 @@ optionalZipCountries = [];
     </script>
 </div>
 </form>
+
 <script type="text/javascript">
 	function init()
 	{
-		$$('div.search-icon').invoke('observe', 'click', submitform);
+	$$('div.search-icon').invoke('observe', 'click', submitform);
 	}
+	 
 	function submitform()
-	{
-		$('search_mini_form').submit();
+	{  
+	var inputval = $('search').value;
+	if (inputval == 'Search'){
+            
+	    $('search_fieldname_message').addClassName("highlight").appear({ duration: 1.0 });
+	    
+	    window.setTimeout(function() {
+	    $('search_fieldname_message').removeClassName("highlight").appear({ duration: 1.0, from: 1, to: 0 });
+	}, 5000);
+	    
+	    return false;
+	
+        }; 
+
+	$('search_mini_form').submit();
 	}
 	document.observe('dom:loaded', init);
 </script>
@@ -193,16 +208,36 @@ document.observe("dom:loaded", function() {$$('.eu-price').each(function(euPrice
 </a>
 <ul id="sub-level-304" class="child-cats">
 <li>
-<a href="http://www.smythson.com/collections/fashion-collections/citrus.html" title="Citrus">
-<span>Citrus</span>
+<a href="http://www.smythson.com/collections/fashion-collections/agatha.html" title="Agatha">
+<span>Agatha</span>
 </a>
 </li><li>
-<a href="http://www.smythson.com/collections/fashion-collections/hibiscus.html" title="Hibiscus">
-<span>Hibiscus</span>
+<a href="http://www.smythson.com/collections/fashion-collections/chameleon.html" title="Chameleon">
+<span>Chameleon</span>
+</a>
+</li><li>
+<a href="http://www.smythson.com/collections/fashion-collections/cooper.html" title="Cooper">
+<span>Cooper</span>
+</a>
+</li><li>
+<a href="http://www.smythson.com/collections/fashion-collections/emily.html" title="Emily">
+<span>Emily</span>
+</a>
+</li><li>
+<a href="http://www.smythson.com/collections/fashion-collections/jonathan-saunders.html" title="Jonathan Saunders">
+<span>Jonathan Saunders</span>
+</a>
+</li><li>
+<a href="http://www.smythson.com/collections/fashion-collections/nancy.html" title="Nancy">
+<span>Nancy</span>
+</a>
+</li><li>
+<a href="http://www.smythson.com/collections/fashion-collections/lapis.html" title="Lapis">
+<span>Lapis</span>
 </a>
 </li><li class="last">
-<a href="http://www.smythson.com/collections/fashion-collections/jade.html" title="Jade">
-<span>Jade</span>
+<a href="http://www.smythson.com/collections/fashion-collections/peridot.html" title="Peridot">
+<span>Peridot</span>
 </a>
 </li>
 </ul></li><li class="column"><a href="http://www.smythson.com/collections/core-collections-1.html" title="Core Collections">
@@ -210,20 +245,8 @@ document.observe("dom:loaded", function() {$$('.eu-price').each(function(euPrice
 </a>
 <ul id="sub-level-305" class="child-cats">
 <li>
-<a href="http://www.smythson.com/collections/core-collections-1/agatha.html" title="Agatha">
-<span>Agatha</span>
-</a>
-</li><li>
 <a href="http://www.smythson.com/collections/core-collections-1/brown-mara.html" title="Brown Mara">
 <span>Brown Mara</span>
-</a>
-</li><li>
-<a href="http://www.smythson.com/collections/core-collections-1/cooper-tote.html" title="Cooper Tote">
-<span>Cooper Tote</span>
-</a>
-</li><li>
-<a href="http://www.smythson.com/collections/core-collections-1/daphne.html" title="Daphne">
-<span>Daphne</span>
 </a>
 </li><li>
 <a href="http://www.smythson.com/collections/core-collections-1/ivory.html" title="Ivory">
@@ -234,20 +257,16 @@ document.observe("dom:loaded", function() {$$('.eu-price').each(function(euPrice
 <span>Magenta</span>
 </a>
 </li><li>
-<a href="http://www.smythson.com/collections/core-collections-1/nancy.html" title="Nancy">
-<span>Nancy</span>
-</a>
-</li><li>
 <a href="http://www.smythson.com/collections/core-collections-1/nile-blue.html" title="Nile Blue">
 <span>Nile Blue</span>
 </a>
 </li><li>
-<a href="http://www.smythson.com/collections/core-collections-1/red-mara.html" title="Red Mara">
-<span>Red Mara</span>
-</a>
-</li><li class="last">
 <a href="http://www.smythson.com/collections/core-collections-1/ruby-viana.html" title="Ruby Viana">
 <span>Ruby Viana</span>
+</a>
+</li><li class="last">
+<a href="http://www.smythson.com/collections/core-collections-1/red-calfskin.html" title="Red Calfskin">
+<span>Red Calfskin</span>
 </a>
 </li>
 </ul></li><li class="column last-col"><a href="http://www.smythson.com/collections/men-s-collections.html" title="Men's Collections">
@@ -255,10 +274,6 @@ document.observe("dom:loaded", function() {$$('.eu-price').each(function(euPrice
 </a>
 <ul id="sub-level-306" class="child-cats">
 <li>
-<a href="http://www.smythson.com/collections/men-s-collections/arlington.html" title="Arlington">
-<span>Arlington</span>
-</a>
-</li><li>
 <a href="http://www.smythson.com/collections/men-s-collections/black-pigskin.html" title="Black Pigskin">
 <span>Black Pigskin</span>
 </a>
@@ -269,6 +284,10 @@ document.observe("dom:loaded", function() {$$('.eu-price').each(function(euPrice
 </li><li>
 <a href="http://www.smythson.com/collections/men-s-collections/gresham.html" title="Gresham">
 <span>Gresham</span>
+</a>
+</li><li>
+<a href="http://www.smythson.com/collections/men-s-collections/grosvenor.html" title="Grosvenor">
+<span>Grosvenor</span>
 </a>
 </li><li class="last">
 <a href="http://www.smythson.com/collections/men-s-collections/savile.html" title="Savile">
@@ -301,12 +320,16 @@ document.observe("dom:loaded", function() {$$('.eu-price').each(function(euPrice
 <span>Belts</span>
 </a>
 </li><li>
-<a href="http://www.smythson.com/leather-goods/for-her/document-cases-folders.html" title="Document Cases &amp; Folders">
-<span>Document Cases &amp; Folders</span>
+<a href="http://www.smythson.com/leather-goods/for-her/document-cases-folders.html" title="Business Cases">
+<span>Business Cases</span>
 </a>
 </li><li>
 <a href="http://www.smythson.com/leather-goods/for-her/clutch-bags.html" title="Clutch Bags">
 <span>Clutch Bags</span>
+</a>
+</li><li>
+<a href="http://www.smythson.com/leather-goods/for-her/exotic-leathers.html" title="Exotic Leathers">
+<span>Exotic Leathers</span>
 </a>
 </li><li>
 <a href="http://www.smythson.com/leather-goods/for-her/games.html" title="Games">
@@ -358,12 +381,16 @@ document.observe("dom:loaded", function() {$$('.eu-price').each(function(euPrice
 <span>Accessories</span>
 </a>
 </li><li>
-<a href="http://www.smythson.com/leather-goods/for-him/document-cases-folders.html" title="Document Cases &amp; Folders">
-<span>Document Cases &amp; Folders</span>
+<a href="http://www.smythson.com/leather-goods/for-him/document-cases-folders.html" title="Business Cases">
+<span>Business Cases</span>
 </a>
 </li><li>
 <a href="http://www.smythson.com/leather-goods/for-him/cufflink-watch-cases.html" title="Cufflink &amp; Watch Cases">
 <span>Cufflink &amp; Watch Cases</span>
+</a>
+</li><li>
+<a href="http://www.smythson.com/leather-goods/for-him/exotic-leathers.html" title="Exotic Leathers">
+<span>Exotic Leathers</span>
 </a>
 </li><li>
 <a href="http://www.smythson.com/leather-goods/for-him/games.html" title="Games">
@@ -407,6 +434,10 @@ document.observe("dom:loaded", function() {$$('.eu-price').each(function(euPrice
 </a>
 <ul id="sub-level-516" class="child-cats">
 <li>
+<a href="http://www.smythson.com/leather-goods/leather-goods-by-theme/jonathan-saunders.html" title="Jonathan Saunders">
+<span>Jonathan Saunders</span>
+</a>
+</li><li>
 <a href="http://www.smythson.com/leather-goods/leather-goods-by-theme/business.html" title="Business">
 <span>Business</span>
 </a>
@@ -440,19 +471,15 @@ document.observe("dom:loaded", function() {$$('.eu-price').each(function(euPrice
 <a href="http://www.smythson.com/diaries/for-her/organisers-refills.html" title="Organisers &amp; Refills">
 <span>Organisers &amp; Refills</span>
 </a>
-</li><li>
+</li><li class="last">
 <a href="http://www.smythson.com/diaries/for-her/pocket-diaries.html" title="Pocket Diaries">
 <span>Pocket Diaries</span>
-</a>
-</li><li class="last">
-<a href="http://www.smythson.com/diaries/for-her/mid-year-diaries.html" title="Mid-Year Diaries">
-<span>Mid-Year Diaries</span>
 </a>
 </li>
 </ul></li><li class="column"><a href="http://www.smythson.com/diaries/for-him.html" title="For Him">
 <span class="diaries-for-him text sub-header">For Him</span>
 </a>
-<ul id="sub-level-496" class="child-cats">
+<ul id="sub-level-546" class="child-cats">
 <li>
 <a href="http://www.smythson.com/diaries/for-him/desk-business-diaries.html" title="Desk &amp; Business Diaries">
 <span>Desk &amp; Business Diaries</span>
@@ -465,26 +492,22 @@ document.observe("dom:loaded", function() {$$('.eu-price').each(function(euPrice
 <a href="http://www.smythson.com/diaries/for-him/organisers-refills.html" title="Organisers &amp; Refills">
 <span>Organisers &amp; Refills</span>
 </a>
-</li><li>
+</li><li class="last">
 <a href="http://www.smythson.com/diaries/for-him/pocket-diaries.html" title="Pocket Diaries">
 <span>Pocket Diaries</span>
 </a>
-</li><li class="last">
-<a href="http://www.smythson.com/diaries/for-him/mid-year-diaries.html" title="Mid-Year Diaries">
-<span>Mid-Year Diaries</span>
-</a>
 </li>
-</ul></li><li class="column last-col"><a href="http://www.smythson.com/diaries/theme-1.html" title="By Theme">
+</ul></li><li class="column last-col"><a href="http://www.smythson.com/diaries/theme-2.html" title="By Theme">
 <span class="diaries-by-theme text sub-header">By Theme</span>
 </a>
 <ul id="sub-level-509" class="child-cats">
 <li>
-<a href="http://www.smythson.com/diaries/theme-1/business.html" title="Business">
-<span>Business</span>
+<a href="http://www.smythson.com/diaries/theme-2/jonathan-saunders.html" title="Jonathan Saunders">
+<span>Jonathan Saunders</span>
 </a>
 </li><li class="last">
-<a href="http://www.smythson.com/diaries/theme-1/sports.html" title="Sports">
-<span>Sports</span>
+<a href="http://www.smythson.com/diaries/theme-2/business.html" title="Business">
+<span>Business</span>
 </a>
 </li>
 </ul></li>
@@ -551,6 +574,10 @@ document.observe("dom:loaded", function() {$$('.eu-price').each(function(euPrice
 </a>
 <ul id="sub-level-253" class="child-cats">
 <li>
+<a href="http://www.smythson.com/books/books-by-theme/jonathan-saunders.html" title="Jonathan Saunders">
+<span>Jonathan Saunders</span>
+</a>
+</li><li>
 <a href="http://www.smythson.com/books/books-by-theme/baby-1.html" title="Baby">
 <span>Baby</span>
 </a>
@@ -585,21 +612,25 @@ document.observe("dom:loaded", function() {$$('.eu-price').each(function(euPrice
 </li>
 </ul></li>
 </ul><div class="left_shadow"></div><div class="right_shadow"></div><div class="sub-bottom"></div></div>
-</li><li class="level0 nav-5 level-top parent">
+</li><li class="level0 nav-5 level-top last parent">
 <a href="http://www.smythson.com/stationery.html" class="level-top" title="Stationery">
 <span>Stationery</span>
 </a>
 <div id="top-level-109" class="top-menu-row">
 
 <ul>
-<li class="column"><a href="http://www.smythson.com/stationery/cards.html" title="Cards">
-<span class="stationery-cards text sub-header">Cards</span>
-</a></li><li class="column"><a href="http://www.smythson.com/stationery/plain-stationery.html" title="Plain Stationery">
+<li class="column"><a href="http://www.smythson.com/stationery/cards.html" title="Cards &amp; Notelets">
+<span class="stationery-cards-&amp;-notelets text sub-header">Cards &amp; Notelets</span>
+</a></li><li class="column"><a href="http://www.smythson.com/stationery/christmas-cards.html" title="Christmas Cards &amp; Gift Tags">
+<span class="stationery-christmas-cards-&amp;-gift-tags text sub-header">Christmas Cards &amp; Gift Tags</span>
+</a></li><li class="column last-col"><a href="http://www.smythson.com/stationery/plain-stationery.html" title="Plain Stationery">
 <span class="stationery-plain-stationery text sub-header">Plain Stationery</span>
-</a></li><li class="column last-col"><a href="http://www.smythson.com/stationery/invitations.html" title="Invitations">
+</a></li><li class="column"><a href="http://www.smythson.com/stationery/invitations.html" title="Invitations">
 <span class="stationery-invitations text sub-header">Invitations</span>
 </a></li><li class="column"><a href="http://www.smythson.com/stationery/pens-pencils.html" title="Pens &amp; Pencils">
 <span class="stationery-pens-&amp;-pencils text sub-header">Pens &amp; Pencils</span>
+</a></li><li class="column last-col"><a href="http://www.smythson.com/stationery/personalised-christmas-cards.html" title="Personalised Christmas Cards">
+<span class="stationery-personalised-christmas-cards text sub-header">Personalised Christmas Cards</span>
 </a></li><li class="column"><a href="http://www.smythson.com/stationery/personalised-stationery.html" title="Personalised Stationery">
 <span class="stationery-personalised-stationery text sub-header">Personalised Stationery</span>
 </a>
@@ -625,35 +656,12 @@ document.observe("dom:loaded", function() {$$('.eu-price').each(function(euPrice
 <span>Invitation</span>
 </a>
 </li>
-</ul></li><li class="column last-col"><a href="http://www.smythson.com/stationery/refills.html" title="Refills">
+</ul></li><li class="column"><a href="http://www.smythson.com/stationery/personalised-wedding-stationery.html" title="Personalised Wedding Stationery">
+<span class="stationery-personalised-wedding-stationery text sub-header">Personalised Wedding Stationery</span>
+</a></li><li class="column last-col"><a href="http://www.smythson.com/stationery/refills.html" title="Refills">
 <span class="stationery-refills text sub-header">Refills</span>
 </a></li><li class="column"><a href="http://www.smythson.com/stationery/stationery-boxes-desk-sets.html" title="Stationery Boxes &amp; Desk Sets">
 <span class="stationery-stationery-boxes-&amp;-desk-sets text sub-header">Stationery Boxes &amp; Desk Sets</span>
-</a>
-</li></ul><div class="left_shadow"></div><div class="right_shadow"></div><div class="sub-bottom"></div></div>
-</li><li class="level0 nav-6 level-top">
-<a href="http://www.smythson.com/new-online.html" class="level-top" title="New Online">
-<span>New Online</span>
-</a>
-</li><li class="level0 nav-7 level-top last parent">
-<a href="http://www.smythson.com/sale.html" class="level-top" title="Sale">
-<span>Sale</span>
-</a>
-<div id="top-level-534" class="top-menu-row">
-
-<ul>
-<li class="column"><a href="http://www.smythson.com/sale/sale-picks.html" title="Sale Picks">
-<span class="sale-sale-picks text sub-header">Sale Picks</span>
-</a></li><li class="column"><a href="http://www.smythson.com/sale/hibiscus-collection.html" title="Hibiscus Collection">
-<span class="sale-hibiscus-collection text sub-header">Hibiscus Collection</span>
-</a></li><li class="column last-col"><a href="http://www.smythson.com/sale/jade-collection.html" title="Jade Collection">
-<span class="sale-jade-collection text sub-header">Jade Collection</span>
-</a></li><li class="column"><a href="http://www.smythson.com/sale/leather-goods.html" title="Leather Goods">
-<span class="sale-leather-goods text sub-header">Leather Goods</span>
-</a></li><li class="column"><a href="http://www.smythson.com/sale/books.html" title="Books">
-<span class="sale-books text sub-header">Books</span>
-</a></li><li class="column last-col"><a href="http://www.smythson.com/sale/stationery.html" title="Stationery">
-<span class="sale-stationery text sub-header">Stationery</span>
 </a>
 </li></ul><div class="left_shadow"></div><div class="right_shadow"></div><div class="sub-bottom"></div></div>
 </li>        </ul>
@@ -825,6 +833,9 @@ document.observe("dom:loaded", function() {$$('.eu-price').each(function(euPrice
 <li><a title="Smythson - Delivery" href="http://www.smythson.com/delivery">Delivery</a></li>
 <li><a title="Smythson - Returns" href="http://www.smythson.com/returns">Returns</a></li>
 <li><a title="Smythson - FAQ" href="http://www.smythson.com/faq2">Frequently Asked Questions</a></li>
+<!--
+<li><a title="Smythson - Request a catalogue" href="http://www.smythson.com/request-a-catalogue-st" mce_href="http://www.smythson.com/request-a-catalogue-st">Request a catalogue</a></li>
+-->
 <li><a title="Smythson - Request a catalogue" href="http://www.smythson.com/request-a-catalogue">Request a catalogue</a></li>
 <!--
 <li><a title="Smythson - Diary Renewal" href="/diaryrenewal/" mce_href="/diaryrenewal/">Diary Renewal</a></li>
@@ -838,12 +849,9 @@ document.observe("dom:loaded", function() {$$('.eu-price').each(function(euPrice
 <p><a href="/storelocator"><span style="font-size: 9pt">FIND A STORE</span></a></p>
 </h4>
 <div class="info_content">
-<!--    
 <ul>
-<li><a title="Smythson - Easter Opening Hours" href="http://www.smythson.com/easter-opening-hours" mce_href="http://www.smythson.com/easter-opening-hours">Easter Opening Hours</a></li>
-<a title="Smythson - Store Finder" href="http://www.smythson.com/storelocator" mce_href="http://www.smythson.com/storelocator">Store Finder</a></li>
-<li><a title="Smythson - Store Services" href="http://www.smythson.com/store-services" mce_href="http://www.smythson.com/store-services">Store Services</a></li>
--->
+<li><a href="/christmas-and-new-year-store-opening-hours" mce_href="/christmas-and-new-year-store-opening-hours" title="Smythson - Christmas Store Opening Hours">Christmas and New Year Store Opening Hours</a></li>
+</ul>
 </div>    </div>
     <div id="info-accordion-three">
     <h4 class="info_toggle">
@@ -851,7 +859,7 @@ document.observe("dom:loaded", function() {$$('.eu-price').each(function(euPrice
 </h4>
 <div class="info_content">
 <ul>
-<li><a title="Smythson - Blog" href="http://blog.smythson.com/">Blog</a></li>
+<li><a title="Smythson - Blog" href="http://smythson.wordpress.com/">Blog</a></li>
 <li><a title="Smythson - As seen in" href="http://www.smythson.com/as-seen-in">As Seen In...</a></li>
 <li><a title="Smythson - Press Office" href="http://www.smythson.com/press">Press Office</a></li>
 </ul>
@@ -862,9 +870,10 @@ document.observe("dom:loaded", function() {$$('.eu-price').each(function(euPrice
 </h4>
 <div class="info_content">
 <ul>
+<li><a title="Smythson - Bespoke Christmas Cards" href="http://www.smythson.com/bespoke-christmas-cards-introduction">Bespoke Christmas Cards</a></li>
 <li><a title="Smythson - Bespoke Stationery" href="http://www.smythson.com/stationery/personalised-stationery.html">Personalised Stationery</a></li>
 <li><a title="Smythson - Corporate Gifts" href="http://www.smythson.com/corporate-gifts">Corporate Gifts</a></li>
-<li><a title="Smythson - Weddings" href="http://www.smythson.com/weddings">Wedding Stationery</a></li>
+<li><a title="Smythson - Weddings" href="http://www.smythson.com/wedding-stationery-introduction">Wedding Stationery</a></li>
 <li><a title="Smythson - Wholesale" href="http://www.smythson.com/wholesale">Wholesale</a></li>
 </ul>
 </div>    </div>
@@ -874,10 +883,12 @@ document.observe("dom:loaded", function() {$$('.eu-price').each(function(euPrice
 </h4>
 <div class="info_content">
 <ul>
-<li><a title="Smythson - Affiliates" href="http://www.smythson.com/affiliates">Affiliates</a></li>
+<!--
+<li><a title="Smythson - Affiliates" href="http://www.smythson.com/affiliates" mce_href="http://www.smythson.com/affiliates">Affiliates</a></li>
+-->
 <li><a title="Smythson - Brand Heritage" href="http://www.smythson.com/about-the-brand">Brand Heritage</a></li>
 <li><a title="Smythson - Careers" href="http://www.smythson.com/careers">Careers</a></li>
-<li><a title="Smythson - CITES" href="http://www.smythson.com/cites">CITES &amp; Sustainability</a></li>
+<li><a title="Smythson - CITES" href="http://www.smythson.com/cites">Smythson &amp; Sustainability</a></li>
 <li><a title="Smythson - Privacy &amp; Security" href="http://www.smythson.com/privacy-security">Privacy &amp; Security</a></li>
 <!--
 <li><a title="Smythson - Sitemap" href="/catalog/seo_sitemap/category/" mce_href="/catalog/seo_sitemap/category/">Sitemap</a></li>
