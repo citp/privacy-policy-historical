@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mozilla.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629164256id_/http%3A//www.mozilla.org/about/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozilla.org privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223031744id_/http%3A//www.mozilla.org/about/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # Mozilla Privacy Policy
 
@@ -81,11 +81,13 @@ If you do not want to allow your session visitation information on the Mozilla w
 
 ### Mozilla Ads
 
-Mozilla places advertisements on third party websites to introduce people to our products and services, to encourage people to contribute to our community-based activities, and to sign up to receive communications from Mozilla. We stand by our online advertising practices and aim to provide full transparency and control over how our ads appear and function.
+Mozilla places advertisements on third party websites to introduce people to our products and services, to encourage people to contribute to our community-based activities, and to provide opportunities to sign up to receive communications from Mozilla. We stand by our online advertising practices and aim to provide full transparency and control over how our ads appear and function.
 
-We use a vendor - TruEffect - to power our advertisements via the website media.mozilla.com. Some advertisements associated with this site may use cookies. Cookies are text files that your web browser places on your computer when you visit a website and can be used to store information about your activity. When you view Mozilla's advertisements on third party sites where we advertise, cookies from these campaigns provide information to us that is used to help measure and improve performance of our advertising. We do not use cookies to save data that identifies you personally such as your name, address, credit card number or other confidential information, nor do we capture behavioral data to personalize future ads or create targeting profiles about you.
+Some advertisements may use cookies and/or clear GIFs. When you view Mozilla's advertisements on third party sites where we advertise, cookies and/or clear GIFs from these campaigns provide Mozilla with metrics to help measure and improve performance of our advertising. We do not use cookies to save data that identifies you personally, nor do we capture behavioral data to personalize future ads or create targeting profiles about you. The domain name in Mozilla ad cookies will clearly identify their affiliation with Mozilla and/or, where applicable, our third-party service provider. For more information on Mozilla’s third party service providers, [click here](http://www.mozilla.org/en-US/privacy/#third-parties).
 
-Most browsers accept cookies automatically, but they can be configured not to accept them or to indicate when a cookie is being set (see <http://www.allaboutcookies.org/manage-cookies/>). You may choose to opt-out of our cookies by clicking on the following link: [Opt-Out Now](http://media.mozilla.com/).
+_Opting Out of Mozilla Ads_
+
+In the future, we hope to provide simple and comprehensive controls over our ad practices, as well as ensure that these practices respond to the Do Not Track signal enabled via Firefox and other browsers. For now, you may choose to opt-out of first party Mozilla ad cookies by clicking on the following link: Opt-Out Now . You may also wish to opt out of 3rd party ads [here](http://www.aboutads.info/choices/).
 
 ### Legal Process and Other Disclosures
 
