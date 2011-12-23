@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the subbmitt.com privacy policy that was archived on 2011-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624211920id_/http%3A//www.subbmitt.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the subbmitt.com privacy policy that was archived on 2011-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111223212143id_/http%3A//www.subbmitt.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <title>Subbmitt.com - Privacy Policy</title>
@@ -24,25 +24,25 @@
 
 
 
-<div class="messagebar"><!--<DIV CLASS="messagebar_date">Friday, June 24, 2011</DIV>--><div class="messagebar_links">
+<div class="messagebar"><!--<DIV CLASS="messagebar_date">Friday, December 23, 2011</DIV>--><div class="messagebar_links">
         <a href="signup.php">SIGN UP</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="login.php">LOGIN</a> &nbsp;&nbsp; | &nbsp;&nbsp;
-        <a href="submit.php"><p style="color: #FF6600;display: inline;">SUBMIT</p></a> &nbsp;&nbsp; <!--| &nbsp;&nbsp;<A HREF="http://www.subbmitt.com/rssfeeds.php" STYLE="position: relative;top:0px;border: none;" TITLE="Subbmitt RSS Feeds"><IMG SRC="images/rss_icon.png" WIDTH="20" HEIGHT="20" BORDER="0" ALIGN="TOP"></A>-->
+        <a href="submit.php">SUBMIT</a> &nbsp;&nbsp; <!--| &nbsp;&nbsp;<A HREF="http://www.subbmitt.com/rssfeeds.php" STYLE="position: relative;top:0px;border: none;" TITLE="Subbmitt RSS Feeds"><IMG SRC="/images/rss_icon.png" WIDTH="20" HEIGHT="20" BORDER="0" ALIGN="TOP"></A>-->
 	</div>
 </div>
 
 <div id="header">
 <table cellpadding="0" cellspacing="0" border="0" width="100%" valign="TOP">
 <tbody><tr><td align="LEFT" valign="TOP" colspan="2">
-	<div class="logo"><a href="index.php?pageno=1" title="Home Page"><p style="color:#FF6600;font-weight:bold;">»</p>subbmitt</a></div>
-	<div class="tagline">spread the news</div>
+	<div class="logo"><a href="/index.php?pageno=1" title="Home Page"><p style="color:#CC3300;font-weight:bold;">»</p>SUBBMITT</a></div>
+	<div class="tagline">social news &amp; commentary</div>
 </td><td align="LEFT">
 	<table cellspacing="0" cellpadding="0" border="0" align="LEFT">
 	<tbody><tr><td>
 
 	&nbsp;&nbsp;
 
-	<div id="searchform" style="z-index:200; right: 5px; top: 5px; height: 14px; position: absolute; display: inline; white-space: nowrap;">
-	<form name="search" action="index.php" method="POST"><input type="hidden" name="search" value="S"><input name="keyword" type="text" size="26" class="searchbox" value=""><img src="images/magnifyicon.png" style="position: relative; top:5px;"><!--<BR><A HREF="search.php" STYLE="color: #FFF;"><B>Advanced Search</B></A>-->
+	<div id="searchform" style="z-index:200; right: 5px; top: 30px; height: 14px; position: absolute; display: inline; white-space: nowrap;">
+	<form name="search" action="index.php" method="POST"><input type="hidden" name="search" value="S"><input name="keyword" type="text" size="26" class="searchbox" value=""><img src="/images/magnifyicon.png" style="position: relative; top:5px;"><!--<BR><A HREF="search.php" STYLE="color: #FFF;"><B>Advanced Search</B></A>-->
 	</form>
 	</div>
 
@@ -57,9 +57,9 @@
 	<table cellspacing="0" cellpadding="0" border="0" align="LEFT" width="100%">
 <!--	<TD ALIGN="LEFT" WIDTH="50%">&nbsp;&nbsp;<A HREF="http://www.subbmitt.com/index.php">English</A> &nbsp;&nbsp;<A HREF="http://www.subbmitt.com/es/index.php">Español</A> </TD>-->
 
-	
-	
-	</table>
+	<tbody><tr><td align="RIGHT" width="100%"><p style="color: #CC3300; display: inline; position: relative; top: 1px; vertical-align: middle;font-weight:bold;font-family:'Open Sans Condensed',Futura,Century Gothic;sans-serif;font-size: 14px;">Anonymous &nbsp;&nbsp;</p>
+	</td></tr>
+	</tbody></table>
 	</div>
 </td>
 </tr>
@@ -127,7 +127,7 @@ function hideSubmenu() {
 
         //Set background for all mainlinks
         for ( i=0;i < myEls.length;i++ ) {
-                myEls[i].style.backgroundImage="url(images/tall_menu_bg.png)";
+                myEls[i].style.backgroundImage="url(/images/grey.png)";
         }
 
 }
@@ -143,27 +143,28 @@ function toggleBg(e) {
 	//Set background for all mainlinks 
 	for ( i=0;i < myEls.length;i++ ) {
 		//myEls[i].style.backgroundColor='#333';
-		//myEls[i].style.backgroundImage="url(images/reverse_menu_bg.png)";
-		myEls[i].style.backgroundImage="url(images/tall_menu_bg.png)";
+		//myEls[i].style.backgroundImage="url(/images/reverse_menu_bg.png)";
+		//myEls[i].style.backgroundImage="url(/images/tall_menu_bg.png)";
+		myEls[i].style.backgroundImage="url(/images/grey.png)";
 	}
 
 	//Set background for current mainlink 
-	e.parentNode.style.backgroundImage='';
-	e.parentNode.style.backgroundColor='#000000';
+	//e.parentNode.style.backgroundImage='';
+	e.parentNode.style.backgroundImage="url(/images/orange_gradient.png)";
+	//e.parentNode.style.backgroundColor='#CC3300';
 }
 
 //This will control the submenu hover color
 function mouseIn(e) {
 	//alert('node: ' + e.nodeName);
 	e.style.backgroundImage="url()";
-	e.style.backgroundColor="#000000";
-	//e.style.backgroundColor="#DDD";
+	e.style.backgroundColor="#CC3300";
+	//e.style.backgroundImage="url(/images/orange_gradient.png)";
 }
 
 //This controls the submenu mouseout hover color
 function mouseOut(e) {
-	//e.style.backgroundColor='#395773';
-	e.style.backgroundImage="url(images/reverse_menu_bg.png)";
+	e.style.backgroundImage="url(/images/reverse_menu_bg.png)";
 	//e.style.backgroundColor='#FFF';
 }
 
@@ -171,64 +172,64 @@ function mouseOut(e) {
 
 function menuNews() {
 	//document.getElementById('submenu').style.background='#CCC';
-	//document.getElementById('submenu').style.backgroundImage="url(images/menugradient.png)";
-	document.getElementById('submenu').innerHTML="<UL><LI onmouseover=\"mouseIn(this);\" onmouseout=\"mouseOut(this);\"><div class=\"sublink\"><a href=\"index.php?o=r&cat=0\">Latest</a></div></LI><LI onmouseover=\"mouseIn(this);\" onmouseout=\"mouseOut(this);\"><div class=\"sublink\"><a href=\"index.php?o=r&cat=2\" title=\"Business\">Business</a></div></LI><LI onmouseover=\"mouseIn(this);\" onmouseout=\"mouseOut(this);\"> <a href=\"index.php?o=r&cat=17\" title=\"POLITICS\">Politics</a></LI><LI onmouseover=\"mouseIn(this);\" onmouseout=\"mouseOut(this);\"><a href=\"index.php?o=r&cat=42\" title=\"International\" >International</a></LI><LI onmouseover=\"mouseIn(this);\" onmouseout=\"mouseOut(this);\"><a href=\"index.php?o=r&cat=10\" title=\"Showbiz\">Showbiz</a></LI></UL>";
+	//document.getElementById('submenu').style.backgroundImage="url(/images/menugradient.png)";
+	document.getElementById('submenu').innerHTML="<UL><LI onmouseover=\"mouseIn(this);\" onmouseout=\"mouseOut(this);\"><div class=\"sublink\"><a href=\"/index.php?o=r&cat=0\">Latest</a></div></LI><LI onmouseover=\"mouseIn(this);\" onmouseout=\"mouseOut(this);\"><div class=\"sublink\"><a href=\"/index.php?o=r&cat=2\" title=\"Business\">Business</a></div></LI><LI onmouseover=\"mouseIn(this);\" onmouseout=\"mouseOut(this);\"> <a href=\"/index.php?o=r&cat=17\" title=\"POLITICS\">Politics</a></LI><LI onmouseover=\"mouseIn(this);\" onmouseout=\"mouseOut(this);\"><a href=\"/index.php?o=r&cat=42\" title=\"International\" >International</a></LI><LI onmouseover=\"mouseIn(this);\" onmouseout=\"mouseOut(this);\"><a href=\"/index.php?o=r&cat=10\" title=\"Showbiz\">Showbiz</a></LI></UL>";
 }
 
 function techNews() {
 	//document.getElementById('submenu').style.background='#CCC';
-	//document.getElementById('submenu').style.backgroundImage="url(images/menugradient.png)";
-	document.getElementById('submenu').innerHTML="<UL><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"><a href=\"index.php?o=r&cat=49\"  title=\"Internet\">Internet</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=45\" title=\"Apple\">Apple</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=6\" title=\"Gadgets\">Gadgets</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=4\" title=\"Computers\">Computers</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=47\" title=\"Hardware\">Hardware</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=46\" title=\"Linux\">Linux</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=48\" title=\"Software\">Software</a></LI></UL>";
+	//document.getElementById('submenu').style.backgroundImage="url(/images/menugradient.png)";
+	document.getElementById('submenu').innerHTML="<UL><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"><a href=\"/index.php?o=r&cat=49\"  title=\"Internet\">Internet</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=45\" title=\"Apple\">Apple</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=6\" title=\"Gadgets\">Gadgets</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=4\" title=\"Computers\">Computers</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=47\" title=\"Hardware\">Hardware</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=46\" title=\"Linux\">Linux</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=48\" title=\"Software\">Software</a></LI></UL>";
 }
 
 function funNews() {
-	document.getElementById('submenu').innerHTML="<UL><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=3\"  title=\"Chicks\">Chicks</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=5\" title=\"Douche Bags\">Douchebags</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=7\" title=\"Gaming\">Gaming</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=11\" title=\"Humor\">Humor</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=12\" title=\"Movies\">Movies</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=13\" title=\"Music\">Music</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=15\" title=\"NSFW\">NSFW</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=24\" title=\"Party\">Party</a></LI></UL>";
+	document.getElementById('submenu').innerHTML="<UL><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=3\"  title=\"Chicks\">Chicks</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=5\" title=\"Douche Bags\">Douchebags</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=7\" title=\"Gaming\">Gaming</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=11\" title=\"Humor\">Humor</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=12\" title=\"Movies\">Movies</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=13\" title=\"Music\">Music</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=15\" title=\"NSFW\">NSFW</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=24\" title=\"Party\">Party</a></LI></UL>";
 }
 
 function designNews() {
 	//document.getElementById('submenu').style.background='#CCC';
-	//document.getElementById('submenu').style.backgroundImage="url(images/menugradient.png)";
-	document.getElementById('submenu').innerHTML="<UL><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"><a href=\"index.php?o=r&cat=29\"  title=\"Architecture\">Architecture</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=28\" title=\"Fashion\">Fashion</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=27\" title=\"Web Design\">Web Design</a></LI></UL>";
+	//document.getElementById('submenu').style.backgroundImage="url(/images/menugradient.png)";
+	document.getElementById('submenu').innerHTML="<UL STYLE=\"position:relative;left:403px;\"><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"><a href=\"/index.php?o=r&cat=29\"  title=\"Architecture\">Architecture</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=28\" title=\"Fashion\">Fashion</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=27\" title=\"Web Design\">Web Design</a></LI></UL>";
 }
 function lifeNews() {
 	//document.getElementById('submenu').style.background='#CCC';
-	//document.getElementById('submenu').style.backgroundImage="url(images/menugradient.png)";
-	document.getElementById('submenu').innerHTML="<UL><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"><a href=\"index.php?o=r&cat=33\"  title=\"Autos\">Autos</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=34\" title=\"Culture\">Culture</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=35\" title=\"Food\">Food</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=9\" title=\"Health\">Health</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=8\" title=\"Pets\">Pets</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=19\" title=\"SPORTS\">Sports</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=20\" title=\"Travel\">Travel</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=30\" title=\"Television\">TV</a></LI></UL>";
+	//document.getElementById('submenu').style.backgroundImage="url(/images/menugradient.png)";
+	document.getElementById('submenu').innerHTML="<UL><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"><a href=\"/index.php?o=r&cat=33\"  title=\"Autos\">Autos</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=34\" title=\"Culture\">Culture</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=35\" title=\"Food\">Food</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=9\" title=\"Health\">Health</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=8\" title=\"Pets\">Pets</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=19\" title=\"SPORTS\">Sports</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=20\" title=\"Travel\">Travel</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=30\" title=\"Television\">TV</a></LI></UL>";
 }
 function mindNews() {
 	//document.getElementById('submenu').style.background='#CCC';
-	//document.getElementById('submenu').style.backgroundImage="url(images/menugradient.png)";
-	document.getElementById('submenu').innerHTML="<UL><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"><a href=\"index.php?o=r&cat=37\" title=\"Conspiracy\">Conspiracy</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=38\" title=\"Education\">Education</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=39\" title=\"Mind Tricks\">Mind Tricks</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=40\" title=\"Religion\">Religion</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=41\" title=\"Thinking\">Thinking</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"index.php?o=r&cat=21\" title=\"Weird\">Weird</a></LI></UL>"; 
+	//document.getElementById('submenu').style.backgroundImage="url(/images/menugradient.png)";
+	document.getElementById('submenu').innerHTML="<UL><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"><a href=\"/index.php?o=r&cat=37\" title=\"Conspiracy\">Conspiracy</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=38\" title=\"Education\">Education</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=39\" title=\"Mind Tricks\">Mind Tricks</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=40\" title=\"Religion\">Religion</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=41\" title=\"Thinking\">Thinking</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"> <a href=\"/index.php?o=r&cat=21\" title=\"Weird\">Weird</a></LI></UL>"; 
 }
 function scienceNews() {
 	//document.getElementById('submenu').style.background='#CCC';
-	//document.getElementById('submenu').style.backgroundImage="url(images/menugradient.png)";
-	document.getElementById('submenu').innerHTML="<UL><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"><a href=\"index.php?o=r&cat=43\"  title=\"Environment\">Environment</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"><a href=\"index.php?o=r&cat=44\" title=\"Space\">Space</a></LI></UL>";
+	//document.getElementById('submenu').style.backgroundImage="url(/images/menugradient.png)";
+	document.getElementById('submenu').innerHTML="<UL STYLE=\"position:relative;left:665px;\"><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"><a href=\"/index.php?o=r&cat=43\"  title=\"Environment\">Environment</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"><a href=\"/index.php?o=r&cat=44\" title=\"Space\">Space</a></LI></UL>";
 }
 function picsvids() {
 	//document.getElementById('submenu').style.background='#CCC';
-	//document.getElementById('submenu').style.backgroundImage="url(images/menugradient.png)";
-	document.getElementById('submenu').innerHTML="<UL><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"><a href=\"index.php?o=r&cat=16\"  title=\"Pictures\">Pictures</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"><a href=\"index.php?o=r&cat=22\" title=\"Videos\">Videos</a></LI></UL>";
+	//document.getElementById('submenu').style.backgroundImage="url(/images/menugradient.png)";
+	document.getElementById('submenu').innerHTML="<UL STYLE=\"position:relative;left:605px;\"><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"><a href=\"/index.php?o=r&cat=16\"  title=\"Pictures\">Pictures</a></LI><LI onmouseout=\"mouseOut(this);\" onmouseover=\"mouseIn(this);\"><a href=\"/index.php?o=r&cat=22\" title=\"Videos\">Videos</a></LI></UL>";
 }
 function blank() {
 	document.getElementById('submenu').style.background='#FFF';
-	//document.getElementById('submenu').style.backgroundImage="url(images/menugradient.png)";
+	//document.getElementById('submenu').style.backgroundImage="url(/images/menugradient.png)";
 	document.getElementById('submenu').innerHTML="";
 }
 </script>
 
 <div class="menu" onmouseout="fixOnMouseOut(this, event, 'hideSubmenu()');">
 <ul>
-<li style="width: 100px;height: 35px;"><a href="index.php?o=r&amp;cat=14" onmouseover="toggleBg(this);menuNews();">News</a></li>
-<li style="width: 100px;height: 35px;"><a href="index.php?o=r&amp;cat=25" onmouseover="toggleBg(this);techNews();">Tech</a></li>
-<li style="width: 100px;height: 35px;"><a href="index.php?o=r&amp;cat=31" onmouseover="toggleBg(this);funNews();">Fun</a></li>
-<li style="width: 100px;height: 35px;"><a href="index.php?o=r&amp;cat=32" onmouseover="toggleBg(this);lifeNews();">Lifestyle</a></li>
-<li style="width: 100px;height: 35px;"><a href="index.php?o=r&amp;cat=26" onmouseover="toggleBg(this);designNews();">Design</a></li>
-<li style="width: 100px; height: 35px;"><a href="index.php?o=r&amp;cat=36" onmouseover="toggleBg(this);mindNews();">Mind</a></li>
-<li style="width: 100px;height: 35px;"><a href="index.php?o=r&amp;cat=149" onmouseover="toggleBg(this);picsvids();">Pics &amp; Vids</a></li>
-<li style="width: 120px;height: 35px;"><a href="index.php?o=r&amp;cat=18" onmouseover="toggleBg(this);scienceNews();">Science</a></li>
+<li class="mainlink" style="width: 100px;height:35px;"><a href="/index.php?o=r&amp;cat=14" onmouseover="toggleBg(this);menuNews();">News</a></li>
+<li class="mainlink" style="width: 100px;height:35px;"><a href="/index.php?o=r&amp;cat=25" onmouseover="toggleBg(this);techNews();">Tech</a></li>
+<li class="mainlink" style="width: 100px;height:35px;"><a href="/index.php?o=r&amp;cat=31" onmouseover="toggleBg(this);funNews();">Fun</a></li>
+<li class="mainlink" style="width: 100px;height:35px;"><a href="/index.php?o=r&amp;cat=32" onmouseover="toggleBg(this);lifeNews();">Lifestyle</a></li>
+<li class="mainlink" style="width: 100px;height: 35px;"><a href="/index.php?o=r&amp;cat=26" onmouseover="toggleBg(this);designNews();">Design</a></li>
+<li class="mainlink" style="width: 100px; height:35px;"><a href="/index.php?o=r&amp;cat=36" onmouseover="toggleBg(this);mindNews();">Mind</a></li>
+<li class="mainlink" style="width: 100px;height:35px;"><a href="/index.php?o=r&amp;cat=149" onmouseover="toggleBg(this);picsvids();">Pics &amp; Vids</a></li>
+<li class="mainlink" style="width: 120px;height:35px;"><a href="/index.php?o=r&amp;cat=18" onmouseover="toggleBg(this);scienceNews();">Science</a></li>
 
-<li style="width: 46px;height: 35px;"><a href="#"></a></li>
+<li style="width: 46px;height:35px;"><a href="#"></a></li>
 
 </ul>
 <div class="submenu" id="submenu"></div>
@@ -237,9 +238,6 @@ function blank() {
 </td></tr>
 </tbody></table>
 </div>
-
-
-
 <br><br><br><br><br><br>
 
 <table cellpadding="10" cellspacing="10" border="0" align="CENTER" valign="TOP" width="700">
@@ -330,7 +328,7 @@ function blank() {
 
 <tr><td colspan="5" width="100%">
 <br>
-<div id="copyrighttext" style="color: #555; font-weight: normal;"><br>© 2011 subbmitt.com. All Rights Reserved.
+<div id="copyrighttext" style="color: #444; font-weight: normal;"><br>© 2011 subbmitt.com. All Rights Reserved. &nbsp;&nbsp; DESIGNED BY VINTEROS.INC IN LAS VEGAS
 
 </div>
 </td></tr>
