@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the distancebetween.in privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414142206id_/http%3A//distancebetween.in/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the distancebetween.in privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223130506id_/http%3A//www.distancebetween.in/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
