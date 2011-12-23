@@ -1,23 +1,95 @@
-> *The following text is extracted and transformed from the optumhealthfinancial.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625071552id_/http%3A//optumhealthfinancial.com/AboutUs/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optumhealthfinancial.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223135810id_/http%3A//www.optumhealthfinancial.com/AboutUs/PrivacyPolicy) for the most accurate reproduction.*
 
 # OptumHealth.com - About Us - Privacy Policy
 
----  
-  
-OptumHealth Financial Services is very sensitive to privacy issues. We respect your right to privacy and feel it is important for you to know how we handle the information we receive from you via the Internet. Additionally, our online and offline business practices are in full compliance with the privacy requirements under the Health Insurance Portability and Accountability Act (HIPAA).
+**Financial Privacy Rule Notice:**  
+To read more about our privacy policy as it applies to OptumHealth Bank as a regulated financial institution, and OptumHealth Financial Services, please [click here](https://web.archive.org/content/File/financial-privacy-notice.pdf "Financial Privacy Notice"), which links to our Financial Notice of Privacy Practices.
 
- **Protecting Your Confidential Information**  
-We have taken precautionary measures to make all information received from our online visitors as secure as possible against unauthorized access and use. We do not sell or share your information to companies outside of our organization. However, it may be necessary for us to provide your information to contracted external partners in order to respond to your inquiries and to provide you with services on our behalf. They may only use the information provided for the specified use and project.
+**Social Security Number Protection Policy:**  
+Protecting personal information is important to OptumHealth Financial Services and its current and future subsidiaries. It is the policy of OptumHealth and its current and future affiliates to protect the confidentiality of Social Security numbers (“SSNs”) that we receive or collect in the course of business. We secure the confidentiality of SSNs through various means, including physical, electronic, and administrative safeguards that are designed to protect against unauthorized access. It is our policy to limit access to SSNs to that which is lawful, and to prohibit unlawful disclosure of SSNs.
 
- **Your Online Preferences**  
-OptumHealth Financial Services uses "cookie" technology to obtain usage information from our online visitors. You may disable your cookie information by adjusting your browser preferences on your personal computer at any time. Keep in mind that cookies do not identify a specific user and are not used to collect any personal information. In order to provide the best possible service and relevant information to you, we use cookies to: 
+**Website Privacy Policy**
 
-  * Track resources and data accessed on the site per visitor 
-  * Record general site statistics and activity 
-  * Assist users experiencing Web site problems 
+**Introduction**  
+We are very sensitive to privacy issues. The purpose of this Website Privacy Policy is to let you know how we handle the information we receive from you specifically through this website. Portions of this website may describe additional privacy practices applicable to specific types of information or to information provided on specific Web pages. 
 
-**Your Data Is Safe**  
-We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+This Website Privacy Policy does not apply to information collected through other means such as by telephone or in person, although that information may be protected by other privacy policies. As used in this Website Privacy Policy, terms such as “we”, “us”, “our” and “Company” refer to OptumHealth and its current and future affiliate entities. 
 
- **Our Online Communication Practices/General E-mail Communications**  
-You should also know that unless otherwise noted, the e-mail functionality on our site does not provide a completely secure and confidential means of communication. It is possible that your e-mail communication may be accessed or viewed inappropriately by another Internet user while in transit to us. If you wish to keep your information completely private, you should not use e-mail.
+This site is intended for a United States audience. If you access this site from outside the U.S., you acknowledge, agree, and consent that any information you provide, including any personal information, will be transferred to and processed by a computer server located within the U.S., and subject to U.S. laws and regulations. Further, if you access this site from outside the U.S., you acknowledge and agree that you are responsible for compliance with any applicable local or national laws, rules or regulations applicable to such use.
+
+**Cookies and non-personal information**  
+“Non-personal information” means information that does not permit us to specifically identify you by your full name or similar unique identifying information such as a social security number, member identification number, address or telephone number. The Company uses “cookie” technology and similar technology to gather non-personal information from our website visitors such as which pages are used and how often they are used, and to enable certain features on this website. 
+
+You may disable these cookies and similar items by adjusting your browser preferences on your computer at any time; however, this may limit your ability to take advantage of all the features on this website. Keep in mind that cookies are not used to collect any personal information and do not tell us who you are. Some examples of the way we use cookies include: 
+
+  * Tracking resources and data accessed on the site.
+  * Recording general site statistics and activity. 
+  * Assisting users experiencing website problems. 
+  * Enabling certain functions and tools on this website. 
+  * Tracking paths of visitors to this site and within this site. 
+
+We may also collect other forms of non-personal information such as what web browsers are used to read our website and what websites are referring traffic or linking to our website. Aggregate and de-identified data regarding website users is also considered non-personal information.
+
+**With whom is non-personal information shared?**  
+Because non-personal information does not identify who you are, we do not limit the ways we may use or share non-personal information. For example, we may share non-personal information with our affiliates, suppliers, employees and agents, other businesses, and the government. 
+
+**Personal information provided by you**  
+“Personal information” means information that specifically identifies you as an individual, such as your full name, telephone number, e-mail address, postal address, or certain account numbers. With respect to OptumHealth Bank, personal information does not include any information protected under HIPAA. With respect to OptumHealth Financial Services, personal information may include information protected under HIPAA, which would be protected as described in the HIPAA Notices of Privacy Practices of your health plans or physicians and other health care professionals. In addition, in the event of any conflict between the terms of this Website Privacy Policy and the terms of the Financial Institution Privacy Policy, the terms of the Financial Institution Privacy Policy will control.
+
+This website may include web pages that give you the opportunity to provide us with personal information about yourself. **You do not have to provide us with personal information if you do not want to; however, that may limit your ability to use certain functions of this website or to request certain services or information.**
+
+We may combine personal information that you provide us through this website with other personal information held by the Company, including with affiliates or our vendors. For example, if you have purchased a product or service from us, we may combine personal information you provide through this website with information regarding your receipt of the product or service.
+
+We may use personal information for a number of purposes such as:
+
+  * To respond to an e-mail or particular request from you. 
+  * To personalize the website for you. 
+  * To process an application as requested by you. 
+  * To provide you with information that we believe may be useful to you, such as information about services provided by us or other businesses. 
+  * To comply with applicable laws, regulations, and legal process. 
+  * To protect someone's health, safety, or welfare. 
+  * To protect our rights, the rights of affiliates or related third parties, or take appropriate legal action, such as to enforce our Terms of Use. 
+  * To keep a record of our transactions and communications.
+  * As otherwise necessary or useful for us to conduct our business, so long as such use is permitted by law.
+
+You understand and specifically agree that we may use personal information to contact you through any contact information you provide through this website, including any email address, telephone number, cell phone number, text message number, or fax number. 
+
+**With whom is personal information shared?**  
+We will only share your personal information with third parties as outlined in this Website Privacy Policy (in its current or future form) and as otherwise permitted by law.
+
+We share and give access to personal information to our employees and agents in the course of operating our businesses. For example, if you sent us an e-mail asking a question, we would provide your e-mail address to one of our employees or agents, along with your question, in order for that person to reply to your e-mail. We may share personal information with other affiliates or business units within the Company, except as specifically prohibited in the Financial Institution Privacy Policy (e.g., information about creditworthiness will not be shared with affiliates).
+
+We may share and give access to personal information with other companies that we hire to perform services on our behalf or collaborate with. For example, we may hire an outside company to help us send and manage e-mail, and in that case we might provide the outside company with your e-mail address and certain other information in order for them to send you an e-mail message on our behalf. Similarly, we may hire outside companies to host or operate some of our websites and related computers and software applications. 
+
+However, if we share or give access to personal information to outside companies we require them to use the personal information only for limited purposes, such as for sending you the e-mail in the example above. If you believe we or any company associated with the Company has misused any of your information please contact us immediately and report such misuse.
+
+We may share personal information if all or part of the Company is sold, merged, dissolved, acquired, or in a similar transaction. 
+
+We may share personal information in response to a court order, subpoena, search warrant, law or regulation. We may cooperate with law enforcement authorities in investigating and prosecuting website visitors who violate our rules, or engage in behavior that is harmful to other visitors, or is illegal. 
+
+If you submit information or a posting to a chat room, bulletin board, or similar “chat” related portion of this website, the information you submit along with your screen name will be visible to all visitors, and such visitors may share with others. Therefore, please be thoughtful in what you write and understand that this information may become public.
+
+**Reviewing my information**  
+This website may permit you to view your visitor profile and related personal information. If this function is available, we will include a link on this website with a heading such as “My Profile” or similar words. Clicking on the link will take you to a page through which you may review your visitor profile and related personal information. 
+
+**Website and information security**  
+We use a number of physical security (such as locks and alarm systems), electronic security (such as passwords and encryption methods), and procedural security methods (such as rules regarding the handling and use of information), designed to protect the security and integrity of information submitted through this website. Due to the nature of the Internet and online communications, however, we can not guarantee that any information transmitted online will remain absolutely confidential, and we are not liable for the illegal acts of third parties such as criminal hackers.
+
+**Our online communication practices**  
+General e-mail communications  
+Most e-mail, including any e-mail functionality on our site, does not provide a completely secure and confidential means of communication. It is possible that your e-mail communication may be accessed or viewed inappropriately by another Internet user while in transit to us. If you wish to keep your information completely private, you should not use e-mail. We may send e-mail communications to you regarding topics such as health conditions, account benefits, service updates, website updates, and general topics. 
+
+Other online communications  
+The Company sends electronic newsletters, notification of account status, and other communications such as information marketing other products or services offered by us, on a periodic basis to various individuals and organizations. To opt-out of any specific electronic communication you're receiving, click on the opt-out button associated with the specific communication. 
+
+**Information for children under 13**  
+We will not intentionally collect any personal information from children under the age of 13 through this website without receiving verifiable parental consent. If you think that we have collected personal information from a child under the age of 13 through this website, please contact us.
+
+**Contact us.**  
+To contact us regarding this Website Privacy Policy and our related privacy practices, please contact us at: 1-866-234-8913 Monday through Friday 8:00a.m. to 8:00 p.m. Eastern Time.
+
+**Effective date**  
+The Effective Date of this Privacy Policy is September 1, 2011. 
+
+**Changes to this Website Privacy Policy**  
+We may change this Website Privacy Policy. If we do so such change will appear on this page of our website or in another location as indicated by us. It is your responsibility to review the Website Privacy Policy each time you use this website. By continuing to use this website, you consent to any changes to our Website Privacy Policy. 
