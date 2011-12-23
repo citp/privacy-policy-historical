@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brookfieldresidential.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627213353id_/http%3A//www.brookfieldresidential.com/Brookfield/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookfieldresidential.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223101756id_/http%3A//www.brookfieldresidential.com/Brookfield/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Brookfield Residential Services
 
