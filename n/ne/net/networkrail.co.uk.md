@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the networkrail.co.uk privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624140959id_/http%3A//www.networkrail.co.uk/aspx/1342.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkrail.co.uk privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223100049id_/http%3A//www.networkrail.co.uk/aspx/1342.aspx) for the most accurate reproduction.*
 
 # Network Rail - Privacy Policy
 
-Network Rail takes matters of privacy and security seriously and is committed to protecting your privacy. Network Rail complies with the Data Protection Act 1998. 
+Network Rail takes matters of privacy and security seriously and is committed to protecting your privacy. Network Rail complies with the Data Protection Act 1998.
 
-We do not sell, trade or rent any personal information you give us to others. 
+We do not sell, trade or rent any personal information you give us to others.
 
-We do not automatically capture or store personal information from visitors to our site although we do use cookies to monitor site use and for statistical purposes. [The Information Advertising Bureau](https://web.archive.org/redirector.aspx?link=2815&name=Information+Advertising+bureau) provides full information about cookies and its website tells you how to remove cookies from your browser. 
+We do not automatically capture or store personal information from visitors to our site although we do use cookies to monitor site use and for statistical purposes. [The Information Advertising Bureau](http://www.allaboutcookies.org/ "The Information Advertising Bureau") provides full information about cookies and its website tells you how to remove cookies from your browser.
 
 At times we may wish to conduct market research through a reputable company to ensure that we give you the best service we can. In that case, a specific survey will be run on the site and its purpose will be made clear. 
 
