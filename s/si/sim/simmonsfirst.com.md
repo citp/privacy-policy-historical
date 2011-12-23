@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simmonsfirst.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624212916id_/http%3A//www.simmonsfirst.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simmonsfirst.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223083816id_/http%3A//www.simmonsfirst.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ The Security and Privacy of your payments are important. Protect your Simmons Fi
 
 _**STOP Mortgage Fraud** _
 
-Features to help you avoid becoming a victim of Mortgage fraud or abusive lending. [>>>Click Here To Learn More](http://www.stopmortgagefraud.com/).
+Features to help you avoid becoming a victim of Mortgage fraud or abusive lending. [>>>Click Here To Learn More](http://www.stopfraud.gov/protect-mortgage.html).
 
 _**True Credit** _
 
@@ -46,9 +46,9 @@ _**Visa Security Sense** _
 
 Visa Security Sense provides cardholders tips with practical know-how for protecting account information and resolving unauthorized card use. Highlights of the website include:
 
-  * Tips for Preventing
+  * Tips for Preventing Fraud
 
-  * Fraud Fraud News
+  * Fraud News
 
   * Resources for Fighting Fraud
 
