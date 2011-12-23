@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homehound.com.au privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528125347id_/http%3A//www.homehound.com.au/privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homehound.com.au privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224005525id_/http%3A//www.homehound.com.au/privacy%2Bpolicy) for the most accurate reproduction.*
 
 # Privacy Policy - homehound.com.au
 
