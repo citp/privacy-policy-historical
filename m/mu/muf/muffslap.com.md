@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the muffslap.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103021415id_/http%3A//www.muffslap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muffslap.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223112437id_/http%3A//www.crazyamigo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Statement**
 
-Your privacy is important to MuffSlap.com. This privacy statement provides information about the personal information that MuffSlap.com collects, and the ways in which MuffSlap.com uses that personal information.
+Your privacy is important to CrazyAmigo.com. This privacy statement provides information about the personal information that CrazyAmigo.com collects, and the ways in which CrazyAmigo.com uses that personal information.
 
 **Personal information collection**
 
-MuffSlap.com may collect and use the following kinds of personal information:
+CrazyAmigo.com may collect and use the following kinds of personal information:
 
   * Information collected by Google Analytics used and analyzed for the purpose of improving the functionality of our website.
 
@@ -16,7 +16,7 @@ MuffSlap.com may collect and use the following kinds of personal information:
 
 **Using personal information**
 
-MuffSlap.com may use your personal information to:
+CrazyAmigo.com may use your personal information to:
 
   * Administer this website
   * Personalize the website for the end user
@@ -27,17 +27,17 @@ MuffSlap.com may use your personal information to:
 
 
 
-Where MuffSlap.com discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.
+Where CrazyAmigo.com discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.
 
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, MuffSlap.com may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
+In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, CrazyAmigo.com may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
 
 **Securing of your data**
 
-MuffSlap.com will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information.
+CrazyAmigo.com will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information.
 
 **Updating this statement**
 
-MuffSlap.com may update this privacy policy by posting a new version on this website.
+CrazyAmigo.com may update this privacy policy by posting a new version on this website.
 
 You should check this page occasionally to ensure you are familiar with any changes.
 
@@ -45,13 +45,13 @@ You should check this page occasionally to ensure you are familiar with any chan
 
 This website contains links to other websites.
 
-MuffSlap.com is not responsible for the privacy policies or practices of any third party.
+CrazyAmigo.com is not responsible for the privacy policies or practices of any third party.
 
-**Contact MuffSlap.com**
+**Contact CrazyAmigo.com**
 
-If you have any questions about this privacy policy or MuffSlap.com treatment of your personal information, please write to:
+If you have any questions about this privacy policy or CrazyAmigo.com treatment of your personal information, please write to:
 
-  * by email to muffslap@gmail.com
+  * by email to thecrazyamigo@gmail.com
 
 
 
@@ -71,7 +71,7 @@ There are two main kinds of cookies: session cookies and persistent cookies. Ses
 
 **Cookies on our website**
 
-MuffSlap.com uses the following cookies on this website, for the following purposes:
+CrazyAmigo.com uses the following cookies on this website, for the following purposes:
 
   * Google Analytics
 
@@ -79,7 +79,7 @@ MuffSlap.com uses the following cookies on this website, for the following purpo
 
 **Third party cookies**
 
-When you use MuffSlap.com website, you may also be sent the following third party cookies, which may be used for the following purposes:
+When you use CrazyAmigo.com website, you may also be sent the following third party cookies, which may be used for the following purposes:
 
   * Google Analytics
 
