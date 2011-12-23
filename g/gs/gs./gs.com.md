@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the gs.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628140222id_/http%3A//www2.goldmansachs.com/global/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gs.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223092025id_/http%3A//www2.goldmansachs.com/privacy-and-security) for the most accurate reproduction.*
 
 # Goldman Sachs | Privacy and Security - Goldman Sachs Global Privacy Policy
+
+  * [Goldman Sachs Global Privacy Policy](https://web.archive.org/privacy-and-security/index.html)
+  * [How You Can Protect Yourself](https://web.archive.org/privacy-and-security/how-you-can-protect-yourself.html)
+  * [Other Sources of Information](https://web.archive.org/privacy-and-security/other-sources-of-information.html)
+  * [Privacy Policy - India](https://web.archive.org/privacy-and-security/privacy-policy-india.html)
+
+
 
 **Your Privacy Is Important to Goldman Sachs**
 
@@ -18,18 +25,24 @@ Finally, in the provision of financial services to you and subject to strict com
 
 If you deal with Goldman Sachs in your individual capacity (e.g. as a private client), or as a settlor/trustee/beneficiary of a trust, or as an owner or principal of a company or other investment vehicle established to invest on your behalf or on behalf of your family, etc., the typical information we collect about you would include:
 
-  * Your name, address and other contact details; 
-  * Your age, occupation and marital status; 
-  * Extensive financial information, including source of wealth, investment experience and objectives, risk tolerance and, in certain jurisdictions, representations required under applicable law or regulation concerning your financial resources; 
-  * A head and shoulders photograph from, as applicable, your passport, national identity card or driver's license, as required by laws and regulations addressing due diligence and related matters; and 
+  * Your name, address and other contact details;   
+ 
+  * Your age, occupation and marital status;  
+ 
+  * Extensive financial information, including source of wealth, investment experience and objectives, risk tolerance and, in certain jurisdictions, representations required under applicable law or regulation concerning your financial resources;   
+ 
+  * A head and shoulders photograph from, as applicable, your passport, national identity card or driver's license, as required by laws and regulations addressing due diligence and related matters; and   
+ 
   * A personal identifier such as, depending on your country of residence, your Social Security Number, National Insurance Number, Tax File Number, etc.
 
 
 
 If you are an employee/officer/director/principal, etc. of one of our corporate or institutional clients, the typical information we collect about you personally would include:
 
-  * Your name and contact details; 
-  * Your role/position/title and area of responsibility; and 
+  * Your name and contact details;  
+ 
+  * Your role/position/title and area of responsibility; and   
+ 
   * Certain identifying information (e.g. passport photo, etc.) as required by laws and regulations addressing money laundering and related matters.
 
 
@@ -40,9 +53,12 @@ Of course, you are not required to supply any of the personal information that w
 
 We may use your personal information to:
 
-  * Administer, operate, facilitate and manage your relationship and/or account with Goldman Sachs. This may include sharing such information internally as well as disclosing it to third parties, as described in the following two sections, respectively; 
-  * Contact you or, if applicable, your designated representative(s) by post, telephone, electronic mail, facsimile, etc., in connection with your relationship and/or account; 
-  * Provide you with information (such as investment research), recommendations, or advice concerning products and services offered by Goldman Sachs; and 
+  * Administer, operate, facilitate and manage your relationship and/or account with Goldman Sachs. This may include sharing such information internally as well as disclosing it to third parties, as described in the following two sections, respectively;  
+ 
+  * Contact you or, if applicable, your designated representative(s) by post, telephone, electronic mail, facsimile, etc., in connection with your relationship and/or account;   
+ 
+  * Provide you with information (such as investment research), recommendations, or advice concerning products and services offered by Goldman Sachs; and   
+ 
   * Facilitate our internal business operations, including assessing and managing risk and fulfilling our legal and regulatory requirements.
 
 
@@ -69,34 +85,43 @@ The treatment and transfer of your personal information in case you are a client
 
 Goldman Sachs is committed to protecting the privacy and confidentiality of your personal information. We limit access to your personal information to authorized Goldman Sachs employees or agents and, as described above in Disclosures of Your Personal Information to Third Parties, our service providers are held to stringent standards of privacy. We also maintain physical, electronic and procedural safeguards to protect the information against loss, misuse, damage or modification and unauthorized access or disclosure. Some of the other central features of our information security program are:
 
-  * A dedicated group – the Information Security Department – that designs, implements and provides oversight to our information security program; 
-  * The use of specialized technology such as firewalls; 
-  * Testing of the security and operability of products and services before they are introduced to the Internet, as well as ongoing scanning for publicly known vulnerabilities in the technology; 
-  * Internal and external reviews of our Internet sites and services; 
-  * Monitoring of our systems infrastructure to detect weaknesses and potential intrusions; 
-  * Implementing controls to identify, authenticate and authorize access to various systems or sites; 
-  * Protecting information during transmission through various means including, where appropriate, encryption; and 
+  * A dedicated group – the Information Security Department – that designs, implements and provides oversight to our information security program;  
+ 
+  * The use of specialized technology such as firewalls;   
+ 
+  * Testing of the security and operability of products and services before they are introduced to the Internet, as well as ongoing scanning for publicly known vulnerabilities in the technology;   
+ 
+  * Internal and external reviews of our Internet sites and services;   
+ 
+  * Monitoring of our systems infrastructure to detect weaknesses and potential intrusions;   
+ 
+  * Implementing controls to identify, authenticate and authorize access to various systems or sites;   
+ 
+  * Protecting information during transmission through various means including, where appropriate, encryption; and   
+ 
   * Providing Goldman Sachs personnel with relevant training and continually updating our security practices in light of new risks and developments in technology.
 
 
 
 **Privacy and the Internet**
 
-The following additional information will be of interest to you as a visitor to this site: 
+The following additional information will be of interest to you as a visitor to this site:
 
-• Users of private Goldman Sachs Web sites are required to identify and authenticate themselves prior to accessing our services. Generally, identification and authentication take place through the use of your user name and a password, or with an RSA SecurID* Card and a Personal Identification Number (PIN). 
+  * Users of private Goldman Sachs Web sites are required to identify and authenticate themselves prior to accessing our services. Generally, identification and authentication take place through the use of your user name and a password, or with an RSA SecurID* Card and a Personal Identification Number (PIN).  
+ 
+  * The private Goldman Sachs Web sites are built upon a secure infrastructure with multiple layers of protection, including measures ranging from proper physical security of our machines to system intrusion detection capabilities. Within such private sites, Goldman Sachs uses industry standard encryption technologies to protect your information from external compromise.   
+ 
+  * Security is a cooperative effort between Goldman Sachs and the users of the Goldman Sachs Web sites. Please remember that your password, RSA SecurID Card and PIN are personal to you and should not be made available to any other person. Also, you should discontinue their use and notify us if you have any reason to suspect that someone else may be using them.   
+ 
+  * “Cookies” are small text files that may be placed on your Web browser when you visit our Web sites or when you view advertisements we have placed on other Web sites. The information derived from cookies is used for administrative purposes, to help us gauge the effectiveness of advertising efforts, and to improve your experience with our Web sites. For example, this information may help authenticate you (i.e., verify that you are who you say you are), an essential component of site security. Cookies also make it easier for you to navigate a Goldman Sachs Web site by, among other things, “remembering” your identity so that you do not have to input your password multiple times as you move between pages or services. Cookies also may be used to serve you Goldman Sachs advertisements when you visit Web sites of third parties with whom we have marketing relationships. You can set your Web browser to inform you when cookies are set, or to prevent cookies from being set. However, if you decline to use cookies, you may experience reduced functionality and, for sites serving authentication-related cookies, declining cookies will prevent you from using the Web site altogether.   
+ 
+  * “Clickstream” data (e.g., information regarding which of our Web pages you access, the frequency of such access, and your product and service preferences) may be collected by Goldman Sachs itself, or by our service providers, using cookies, Web beacons, page tags, or similar tools that are set when you visit our Web site or when you view an advertisement we have placed on another Web site. Clickstream data and similar information may be shared internally within Goldman Sachs and used: for administrative purposes; to assess the usage, value and performance of our online products and services; to improve your experience with our Web sites; and as otherwise permitted by applicable law or regulation. If you are a Goldman Sachs client, this information helps us suggest products or service offerings that may be of interest to you. This information may be processed by us for the purposes described above, or on our behalf by third parties, solely in accordance with our instructions.   
+ 
+  * When you visit this site, your browser may be momentarily directed to the Web site of an ad server or other third party service provider. This re-direction process will not be apparent to you. These third party Web sites automatically receive your IP address when this happens, and they may also collect information from your interaction with our Web sites including computer and connection information, standard Web log information, and ad information. Such information does not identify you individually.   
+ 
+  * Goldman Sachs may make available on this Web site third party applications such as content linking or sharing facilities. Information collected by providers of such applications is governed by their privacy policies.
 
-• The private Goldman Sachs Web sites are built upon a secure infrastructure with multiple layers of protection, including measures ranging from proper physical security of our machines to system intrusion detection capabilities. Within such private sites, Goldman Sachs uses industry standard encryption technologies to protect your information from external compromise. 
 
-• Security is a cooperative effort between Goldman Sachs and the users of the Goldman Sachs Web sites. Please remember that your password, RSA SecurID Card and PIN are personal to you and should not be made available to any other person. Also, you should discontinue their use and notify us if you have any reason to suspect that someone else may be using them. 
-
-• “Cookies” are small text files that may be placed on your Web browser when you visit our Web sites or when you view advertisements we have placed on other Web sites. The information derived from cookies is used for administrative purposes, to help us gauge the effectiveness of advertising efforts, and to improve your experience with our Web sites. For example, this information may help authenticate you (i.e., verify that you are who you say you are), an essential component of site security. Cookies also make it easier for you to navigate a Goldman Sachs Web site by, among other things, “remembering” your identity so that you do not have to input your password multiple times as you move between pages or services. Cookies also may be used to serve you Goldman Sachs advertisements when you visit Web sites of third parties with whom we have marketing relationships. You can set your Web browser to inform you when cookies are set, or to prevent cookies from being set. However, if you decline to use cookies, you may experience reduced functionality and, for sites serving authentication-related cookies, declining cookies will prevent you from using the Web site altogether. 
-
-• “Clickstream” data (e.g., information regarding which of our Web pages you access, the frequency of such access, and your product and service preferences) may be collected by Goldman Sachs itself, or by our service providers, using cookies, Web beacons, page tags, or similar tools that are set when you visit our Web site or when you view an advertisement we have placed on another Web site. Clickstream data and similar information may be shared internally within Goldman Sachs and used: for administrative purposes; to assess the usage, value and performance of our online products and services; to improve your experience with our Web sites; and as otherwise permitted by applicable law or regulation. If you are a Goldman Sachs client, this information helps us suggest products or service offerings that may be of interest to you. This information may be processed by us for the purposes described above, or on our behalf by third parties, solely in accordance with our instructions. 
-
-• When you visit this site, your browser may be momentarily directed to the Web site of an ad server or other third party service provider. This re-direction process will not be apparent to you. These third party Web sites automatically receive your IP address when this happens, and they may also collect information from your interaction with our Web sites including computer and connection information, standard Web log information, and ad information. Such information does not identify you individually. 
-
-• Goldman Sachs may make available on this Web site third party applications such as content linking or sharing facilities. Information collected by providers of such applications is governed by their privacy policies.
 
 **Other Privacy Policies or Statements; Changes to Policy**
 
@@ -112,7 +137,7 @@ Goldman Sachs may occasionally contact you by post, telephone, electronic mail, 
 For Australia and New Zealand: | 
 
 The Privacy Officer   
-Goldman Sachs & Partners Australia Group Holdings Pty Ltd   
+Goldman Sachs Australia Group Holdings Pty Ltd   
 GPO Box 2050   
 Melbourne 3001   
 Australia   
@@ -135,7 +160,7 @@ London EC4A 2BB 
   
 For Switzerland: | 
 
-Jillian MacNab  
+Markus Lang  
 Goldman Sachs Bank AG  
 Münsterhof 4  
 Postfach 8022, Zurich  
@@ -151,17 +176,9 @@ Roppongi Hills Mori Tower
 
 If you require further information regarding our privacy policies and practices in the United States please contact:
 
-| 
-
 J. Thomas Morina, Vice President   
 Goldman, Sachs & Co.   
 30 Hudson Street   
-Jersey City, NJ 07302   
-   
-  
----|---  
- 
-
-* * *
+Jersey City, NJ 07302
 
 * RSA SecurID is a trademark owned by RSA Security Inc.
