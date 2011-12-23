@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the scrippsnetworks.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222115147id_/http%3A//www.scrippsnetworks.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrippsnetworks.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223092305id_/http%3A//www.scrippsnetworks.com/privacy.aspx) for the most accurate reproduction.*
 
-# Scripps Networks : Privacy Policy
+# Scripps Networks Interactive: Privacy Policy
+
+| 
 
 Privacy Policy
 
 PLEASE NOTE THAT OUR PRIVACY POLICY HAS CHANGED EFFECTIVE OCTOBER 20, 2010
 
-Welcome to scrippsnetworks.com. Scrippsnetworks.com is an interactive online service operated by Scripps Networks, LLC (“ **Scripps Networks** ”, “ **us** ”, “ **we** ”, or “ **our** ”).  This “ **Privacy Policy** ” applies to this site (however accessed and/or used, whether via personal computers, mobile devices or otherwise (collectively, “ **Computer** ”)) and other interactive features, applications or downloads that are operated by us that are available through this site or that interact with this site and post this Privacy Policy (collectively, “ **Website** ”).  Further, this Privacy Policy does not apply to our collection of information from other sources (unless specifically stated).  Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also [http://www.privacyprotection.ca.gov](http://www.privacyprotection.ca.gov/)).
+Welcome to scrippsnetworks.com. Scrippsnetworks.com is an interactive online service operated by Scripps Networks, LLC (“ **Scripps Networks** ”, “ **us** ”, “ **we** ”, or “ **our** ”).  This “ **Privacy Policy** ” applies to this site (however accessed and/or used, whether via personal computers, mobile devices or otherwise (collectively, “ **Computer** ”)) and other interactive features, applications or downloads that are operated by us that are available through this site or that interact with this site and post this Privacy Policy (collectively, “ **Website** ”).  Further, this Privacy Policy does not apply to our collection of information from other sources (unless specifically stated).  Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also [ http://www.privacyprotection.ca.gov](http://www.privacyprotection.ca.gov/)).
 
 We have adopted this Privacy Policy to explain what information may be collected on our Website, how we use this information and under what circumstances we may disclose the information to third parties.  This Privacy Policy, together with the **_[Terms of Use](http://www.scrippsnetworks.com/terms.aspx)_** posted on our Website, sets forth the general rules and policies governing your use of our Website.  Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.
 
@@ -91,7 +93,7 @@ Scripps Networks, LLC
 1180 Avenue of the Americas  
 New York, NY 10036  
 Attn: California Privacy Request  
-[privacy@scrippsnetworks.com](mailto:privacy@scrippsnetworks.com "blocked::mailto:privacy@scrippsnetworks.com")[](mailto:privacy@hgtv.com)
+[ privacy@scrippsnetworks.com](mailto:privacy@scrippsnetworks.com "blocked::mailto:privacy@scrippsnetworks.com")[](mailto:privacy@hgtv.com)
 
   6. Third Party Ad Server Networks: 
 
@@ -106,7 +108,7 @@ We may offer chat rooms, message boards, bulletin boards or similar public forum
 
 **E. CHILDREN**
 
-The features, programs, promotions and other aspects of our Website requiring personally identifiable information are not intended for children.  We do not knowingly collect personally identifiable information from children under the age of thirteen (13).  If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personally identifiable information to us, please contact us at [privacy@scrippsnetworks.com](mailto:privacy@scrippsnetworks.com "blocked::mailto:privacy@scrippsnetworks.com").  A parent or guardian of a child under the age of thirteen (13) may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof.
+The features, programs, promotions and other aspects of our Website requiring personally identifiable information are not intended for children.  We do not knowingly collect personally identifiable information from children under the age of thirteen (13).  If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personally identifiable information to us, please contact us at [ privacy@scrippsnetworks.com](mailto:privacy@scrippsnetworks.com "blocked::mailto:privacy@scrippsnetworks.com").  A parent or guardian of a child under the age of thirteen (13) may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof.
 
 **F. KEEPING YOUR INFORMATION SECURE**
 
@@ -122,7 +124,7 @@ Third party applications may be available via the Website.  The owners of these
 
 **I. CONTACT & OPT-OUT INFORMATION**
 
-The Website may include subscription and registration management tools that allow you to make changes regarding your preferences for receiving communications. Regardless of whether these tools are available through the Website, you may contact us as at [privacy@scrippsnetworks.com](mailto:privacy@scrippsnetworks.com "blocked::mailto:privacy@scrippsnetworks.com") if:  (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided to us; (c) want to opt-out from receiving future commercial correspondence, including e-mails, from us  (we may continue to send you transactional messages such as responding to your inquiries); or (d) wish to withdraw your consent to our future sharing of your personally identifiable information with third parties for their direct marketing purposes. 
+The Website may include subscription and registration management tools that allow you to make changes regarding your preferences for receiving communications. Regardless of whether these tools are available through the Website, you may contact us as at [ privacy@scrippsnetworks.com](mailto:privacy@scrippsnetworks.com "blocked::mailto:privacy@scrippsnetworks.com") if:  (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided to us; (c) want to opt-out from receiving future commercial correspondence, including e-mails, from us  (we may continue to send you transactional messages such as responding to your inquiries); or (d) wish to withdraw your consent to our future sharing of your personally identifiable information with third parties for their direct marketing purposes. 
 
 We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable.  Please, note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.  Also, please note that it is not always possible to completely change, remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons.  Also, if you have made any public postings on the Website such as in forums or blogs, these communications are generally not removed by us.
 
@@ -135,3 +137,6 @@ The Website is operated in the United States and intended for users located in t
 This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website. 
 
 © 2010 Scripps Networks, LLC. All Rights Reserved
+
+   
+
