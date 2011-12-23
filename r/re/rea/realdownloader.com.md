@@ -1,174 +1,154 @@
-> *The following text is extracted and transformed from the realdownloader.com privacy policy that was archived on 2011-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110322044138id_/http%3A//www.realdownloader.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realdownloader.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223092830id_/http%3A//www.realnetworks.com/about-us/legal/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | RealNetworks
 
-### DARK BLUE SEA - PRIVACY POLICY
+## REALNETWORKS, INC., AND AFFILIATED ENTITIES
 
-This Privacy Policy explains why and how we collect certain personal information from our customers and the visitors to our websites, and what we do with that information.
+_This document was last updated October 5, 2011._
 
-The Dark Blue Sea group of companies is part of the Photon Group and offers an exciting range of online products and services including domain name registration, website hosting, domain monetization, domain name resale, expiring and deleted domain name services, reseller services and search engine services.
+This Privacy Policy covers RealNetworks, Inc., its majority-owned affiliates and subsidiaries, and RealNetworks' divisions operating under different trade names, including RealArcade and GameHouse (collectively, "RealNetworks" or "RN"). RealNetworks is committed to protecting the privacy of your personal information. This Privacy Policy explains how RealNetworks collects and utilizes your personal information when you use our products and services, including consumer software, such as the RealPlayer and RealArcade, subscriptions products such as SuperPass and GameHouse FunPass, and commercial online services such as the Real Music Store. Details regarding specific topics may be found via the topic index below. For a printable pdf file version of this policy, click [here](https://web.archive.org/uploadedFiles/company/legal/privacy/eng_privacy.pdf "here").
 
-The Dark Blue Sea group comprises a number of companies that includes:
+##  If you are in Europe, please click [here](https://web.archive.org/about-us/legal/privacy_eu.aspx "here") to read our European Privacy Policy.
 
-  * Dark Blue Sea Pty Ltd ABN 47 091 509 796
-  * Fabulous.com Pty Ltd ABN 64 094 218 443 (operates the business Fabulous Domains)
-  * Fabulous Parking Pty Ltd ABN 16 094 225 091
-  * Fabulous.com.au Pty Ltd ABN 34 139 626 994 (trading as Drop.com.au)
-  * Roar.com Pty Ltd ABN 99 094 225 064
-  * Pageseeker.com Pty Ltd ABN 45 090 513 849
-  * Darkblue.com Pty Ltd ABN 14 094 225 082
-  * Yexa.com Pty Ltd ABN 12 094 225 073
-  * Domain8 Pty Ltd ABN 79 135 424 878
-  * Yexa.com.au Pty Ltd ABN 84 137 606 172
-  * Whois Privacy Services Pty Ltd ABN 65 133 058 741
+## WHY DO WE COLLECT PERSONAL INFORMATION?
 
+RealNetworks collects personal information to improve the manner by which we operate and offer our products and services, communicate with you about those products and services, and provide effective, timely customer support when needed. We will never rent or sell any of the personally-identifiable information we collect from you to third parties, and will not share your personally identifiable information with third parties without your consent, unless such sharing is necessary for the purposes set forth in this Privacy Policy.
 
+## WHAT PERSONAL INFORMATION DO WE COLLECT?
 
-#### ABOUT THIS PRIVACY POLICY
+You must open an account or complete an online registration with RealNetworks to download or purchase RealNetworks products and services, including free trials. Information gathered during the registration or account creation process, or during access to particular products and services, may differ based on the nature of the product or service. Information that you provide when registering or creating an account, or accessing or using your account or the RN products or services associated with your account, may include: name and email address; billing information; information concerning software downloaded, products and content purchased, accessed, downloaded and/or burned through RN products or services (including, in the case of music products, tracks streamed, purchased or saved in libraries or playlists); location information (such as zip code or postal code and country); computer configuration (such as operating system, connection speed, and peripherals); the IP Internet (IP) address and URL of the Website that sent you to the RealNetworks registration page; the types of peripherals (including portable media players) used by RealNetworks products on your computer (to ensure that you have access to the latest fixes and patches for full compatibility with these devices); demographic information provided by you (such as language, gender and age, and, if applicable, content preferences and personalization information); and whether you logged into or out of a RealNetworks service, or changed your password or billing information.  As of the date of this privacy policy, RealNetworks does not intentionally collect personally identifiable information from children under the age of 13.
 
-This Privacy Policy has been drafted to comply with the National Privacy Principles set out in the _Australian Privacy Act 1988 (Cth)_. More information about the Privacy Act is available on the Australian Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/).
+We will not sell, rent or otherwise distribute your personally identifiable information to third parties without your consent, except as set forth below.
 
-#### WHY WE NEED TO COLLECT PERSONAL INFORMATION
+## HOW DO WE KEEP YOUR PERSONAL INFORMATION SECURE?
 
-Personal information is any information that identifies you or by which your identity can be reasonably determined.
+RealNetworks understands that it is a privilege to have you as a customer and is committed to protecting your personal information. We use the following controls to protect your personal information:
 
-The collection, use and disclosure of personal information is essential to enable us to conduct our business of delivering online products and services to our customers and website visitors. For example most of our products and services require some form of registration or subscription, while others require a payment to be made. Contact details of our customers and website visitors may also be required from time to time to notify them of competition prizes they may have won. 
+  * Use of secure connections using SSL to safeguard information when transmitted from your Web browser to RealNetworks;
 
-Some of the personal information we collect, including that obtained from our online enquiry/feedback facilities, is used to help us develop and improve the quality of our products and services, which in turn, provides our customers and website visitors with a more satisfying and enjoyable online experience.
+  * Use of security controls to restrict access to databases housing personally identifying information;
 
-Without collecting and making use of your personal information, we may not be able to provide our online products and services to you.
+  * Use of encryption for sensitive personal information, such as credit card numbers and user names;
 
-#### WHAT WE DO WITH YOUR PERSONAL INFORMATION
+  * Restrict employee access to databases containing personal information and impose confidentiality requirements upon employees who do; and
 
-We use personal information that we collect to conduct our business of delivering online products and services and to continually improve our relationship with you.
+  * Bind subcontractors with contractual, technical and organizational measures to protect your personal information.
 
-In order to do this, we share your personal information with our related companies.
 
-Personal information may be used to enable us to send you online promotional material on our range of products and services. You may at any time notify us that you do not wish to receive this material via the unsubscribe facility accompanying the material. Once you have notified us, we will not send you any further promotional material. 
 
-#### HOW WE COLLECT INFORMATION
 
-**Personal Information provided to us**
+## HOW DO WE USE YOUR PERSONAL INFORMATION?
 
-We collect and store personal information that is voluntarily provided by our customers as part of doing business with us. Such information may include a customer's full name, date of birth, addresses (including home, postal and email address) and telephone numbers. We also collect and securely store customer's payment details such as their credit card details (where necessary).
+RealNetworks uses your personal information to:
 
-We collect this personal information and make use of these details to provide you with our products and services and to better manage our relationship with you.
+  * Deliver to you and bill you for RealNetworks products and services, and communicate with you concerning your account and customer service issues. This may include verifying authorization of credit card usage before any purchase of premium content or services (e.g., for the purposes of access to a free trial, or to the Real Music Store);
 
-**Website activity, cookies and related technology**
+  * Verify access rights to premium content or other access-restricted services and software, including for the purpose of supporting digital rights management software;
 
-We provide products and services via a number of different websites. When you view one of our websites, our web server records anonymous information such as the time and date the website is viewed and the web pages/URL's requested. This information assists us to improve the structure of our websites and monitor their performance.  
-We also allow third parties with whom we have entered contractual arrangements ("Advertising Providers") to serve advertising on our websites.  
-We make use of cookies and iframes on our websites and permit Advertising Providers to place and read cookies on end users' browsers. These Advertising Providers may use web beacons or similar technologies to collect information in the course of advertisements being served on our websites.
+  * Improve our software and services by providing personalized content recommendations, language and location customization, and/or personalized help and instructions;
 
-Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time you request a webpage from the server. The use of cookies is an industry standard, utilized by the majority of website operators.
+  * Determine if you meet the minimum system requirements to use our products, and provide information concerning compatibility and interoperability to you;
 
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your Internet browser.  
-The National Advertising Initiative ("NAI") offers an opt-out tool (located at <http://www.networkadvertising.org/managin/opt_out.asp>) for the purpose of allowing consumers to "opt-out" of the behavioural advertising delivered by its member companies. Some of the third parties with whom we have entered into contractual arrangements are members of NAI.  
-We may have iframes embedded on our websites and may enter into contractual arrangements with third parties so that they may analyse your online behaviour. These iframes allow for the collection of non-personally identifiable information about your website visits.
+  * Track content accesses, downloads and burns for the purpose of paying royalties and license fees to third party providers, such as record labels and other copyright holders and content distributors;
 
-**IP Addresses**
+  * Ask you to participate in surveys about products, services, news and events;
 
-When you access our websites, our website servers register the type of web browsers that you are using and your IP address.
+  * Offer you product upgrades, content, services and games for you to purchase;
 
-We collect IP addresses for the purposes of system administration, to report aggregate traffic information to our customers, fraud detection and to generally audit the use of our websites. When you request pages from our websites, our servers may log your IP address.
+  * Provide you with content, services, instructions, and a more personalized experience based on personal information, such as your language preferences, zip/postal code, country locations, and any content or other preferences you provide;
 
-We do not normally link IP addresses to any personal information, which means that your session will be logged, but you otherwise remain anonymous.
+  * Auto-update downloaded RealNetworks products;
 
-We can and will use your IP address to identify you when it is necessary to enforce compliance with our terms of service or to protect the integrity of our services and websites, as well as to protect our interests and those of our other customers.
+  * Provide you with news, free newsletters, updates, targeted advertising, promotions, and special offers; and
 
-Some services provided by us, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those services if you are comfortable with their methods of collection and disclosure of personal information.
+  * Better understand how our products are used, including Web traffic patterns and what types of content are most popular with users of our products and services.
 
-#### WHEN WE DISCLOSE PERSONAL INFORMATION
 
-We take all reasonable steps to protect the personal information we hold from misuse and loss and from unauthorized access, modification or disclosure.
 
-We may disclose your personal information where you have consented to us doing so. This consent may be express (eg. in writing or verbal) or implied from your conduct. There may however be times where we are required to disclose personal information without your consent eg. when it is required or authorized by law.
 
-Personal information that you provide to us may be shared among our related companies. Our related companies are required to keep such information private and confidential and otherwise deal with such personal information strictly in accordance with this Privacy Policy.
+## PRIVACY ON SOCIAL NETWORKING SITES
 
-In order for us to conduct our business, it is necessary to disclose personal information to third parties. We may provide your personal information to third parties with whom we have contracted to provide administrative or other services, including to our affiliated website operators. We will ensure that these third parties are either bound by the Australian Privacy Act or subject to an equivalent law of another jurisdiction.
+When you use a RealNetworks product or game on a Social Networking Site (such as Facebook, Google+, MySpace, or similar), your user ID, first and last name, profile picture, usage data for that product or game, and any other information you make publically available may be received, stored, and viewed by RealNetworks and made viewable to other users of the Social Networking Site.
 
-When you utilize our domain name registration services, we provide your personal information to the registry operator for the relevant top level domain name for the purpose of inclusion in their registry database and the WHOIS service as well as to a third party providing registrar data escrow services (as required by our registrar accreditation agreement with the Internet Corporation for Assigned Names and Numbers ("ICANN")). The WHOIS service allows Internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA's WHOIS policy at <http://www.auda.org.au/whois-policy> which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data. Please refer to the relevant TLD/ccTLD authority for specific WHOIS data collection policies. We are unable to provide our domain registration services to you without providing your personal information to these parties.
+## WHEN AND HOW DO WE SHARE YOUR PERSONAL INFORMATION WITH THIRD PARTIES?
 
-#### TRANSBORDER FLOW OF PERSONAL INFORMATION
+RealNetworks does not use your personal information for purposes incompatible with those listed above.  RealNetworks does not sell, rent, or share your personal information to a third party unless you consent to provide such information to a third party partner or content service.
 
-We are in the business of delivering online products and services. The Internet has no boundaries and as such we deal with international organizations and companies such as ICANN, registry operators and other service providers. We reasonably believe that these parties are subject to a law, binding scheme or contract which effectively upholds principles of fair handling of the information that are substantially similar to the National Privacy Principles. Without the transfer overseas to these entities, we will be unable to provide our online products and services to you.
+In some cases, access to certain products and services, such as content subscription products or products distributed by third parties, may require the provision of personal information to a third party, such as a content provider or distributor.  In such cases, this will be stated during the registration process, in the terms of use, through the distribution process, or in a similar manner.  The third party's use of such information is governed by that party's privacy policy, and RealNetworks' use is governed by this privacy policy.  Please visit the privacy policy of the content partner to make sure you understand how they use the personal information you provide to them. If you do not wish for such a transfer to take place, you should not register for the applicable product or service.  Additionally, RealNetworks may be required to provide specific access and usage information to certain content providers and rights holders as a condition of content licensing and royalties.  In such cases, RealNetworks may provide content usage, access, demographic and other information without your personally identifiable information (your name, billing information, email address) to the content provider.
 
-#### EPP SHARING ARRANGEMENTS
+RealNetworks may disclose relevant information about our customers to our contractors (e.g. a customer service contractor or a credit card clearing service) in order for them to provide specific services for RealNetworks, and to better serve our customers. RealNetworks' contractors are bound by strict contractual requirements to keep all personal information they process strictly confidential and to use such information solely on behalf of RealNetworks.
 
-Fabulous.com.au Pty Ltd, has with the consent of .au Domain Administration Limited, the Australian Domain Name Administrator ("auDA"), entered into an EPP sharing arrangement with Netstart Pty Ltd ACN 111 018 154, an auDA accredited domain name registrar. "EPP" means the connection which the .au registry operator allows registrars to have to the domain name registry. Via the EPP, it is possible for Fabulous.com.au Pty Ltd, Domain8 Pty Ltd and Yexa.com.au Pty Ltd (formerly Domain Candy Pty Ltd) to have access to the registrant information of domain names managed by Netstart Pty Ltd. For this reason, agreements have been signed to protect registrant privacy and whois integrity.
+Also, RealNetworks may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law; (b) comply with the order of a competent judicial authority in any jurisdiction; (c) comply with legal process served on RealNetworks; (d) protect and defend the rights or property of RealNetworks; or (e) act in urgent circumstances to protect the personal safety of users of RealNetworks products or the public at large.
 
-#### PROTECTING KIDS PRIVACY
+RealNetworks websites, products and services contain links to other websites, and products and services.  For example, RealArcade may offer games with multiplayer matching capabilities that enable you to find other people with whom you can play multiplayer games.  Because RealNetworks does not manage such third party websites, products and services, they are not governed by this privacy policy.  RealNetworks is not responsible for the privacy practices or the content of such Websites or products. Please visit the privacy policies of these third party sites in order to understand their privacy policies and data collection practices.
 
-We are committed to complying with the provisions of the _Children's Online Privacy Protection Act of 1998_ (United States) and its rules and regulations. We encourage parents and guardians to spend time online with their children and to participate in the activities offered on our websites. 
+**Obligatory or Optional Nature of the Requested Information  
+**Some of the personal information collected by RealNetworks is necessary to provide you with the RealNetworks product or service you choose and to optimize the delivery of audio and video data to your computer. RealNetworks software may include the opportunity to disable certain software features to increase your level of privacy.  However, certain technical information (e.g., zip code, product id, GUID) may be automatically transmitted between networked servers to authenticate access to products and services, enable their delivery, or optimize your media delivery experience.
 
-**Notice to Kids**
+## E-MAIL FROM REALNETWORKS
 
-If you are under 13 years of age, we must get your parent or guardian's permission before we can collect any personal information about you, such as your name, date of birth and your hobbies. 
+Registering for a product or service allows you to tell us how or whether you want RealNetworks to communicate with you. Generally, we send e-mail to you about our products, content and special offers. Separate RealNetworks products, services and lines of business may send separate newsletters and marketing emails.  During registration, you may opt out of receiving RealNetworks marketing e-mails and/or newsletters for the relevant product or service. Additionally, your online RealNetworks account, accessed through the "My Account" link on [www.real.com](http://www.real.com/ "www.real.com"), and through other links provided in emails and on RealNetworks Web pages, enables you to select whether you wish to receive newsletters, marketing and promotional emails, special offers and the like from various RealNetworks' business lines.  However, we may continue to send you e-mail about products or services you have previously purchased (such as an available upgrade that you are entitled to receive), your account status or other information concerning functions, features and status of your RealNetworks products and services, or to inform you about critical technical service issues relating to a RealNetworks product or service.
 
-You are allowed to give us either your email address, or the email address of your parent or guardian, so that we can contact them and ask for their permission to collect your personal information. 
+## HOW TO ACCESS AND UPDATE YOUR PERSONAL INFORMATION
 
-No other information about you should be given to us, or one of our websites, until your parent or guardian has given you permission. 
+To access your account information and preferences, select "Manage My Account" from the menus on either the RealPlayer (in most versions of the RealPlayer, under the "Help" menu), RealArcade or other RealNetworks consumer software. Sign in to your account and modify your information and preferences as needed.
 
-**Notice to Parents**
+You may also review and update your account on the web at [www.real.com](http://www.real.com/ "www.real.com") or by selecting "My Account," and logging in using your name and password.
 
-Before your child can access most of the interactive products and services we provide, they are required to provide us with certain information about themselves, for example, their name, date of birth and contact details, so that we can register them as a member. 
+When you access your account by logging in, you can update and/or make sure that your account information is accurate.  You can also manage your preferences concerning receipt of newsletters and promotional emails.
 
-However, before we collect this personal information from your child, they are required to provide us with an e-mail address at which you, their parent or guardian can be contacted, so that we can obtain your consent. 
+If you have forgotten a username or password, you can use our [online](http://www.service.real.com/ "online") help resources or contact customer service at:  (866) 834-5509  Monday - Friday, 8 am - 5 PM Pacific Standard Time.
 
-Although users under 13 years of age may be allowed to participate in some contests and promotions, if they win, notification and prizes are sent to the parents or guardians at the address specified in the initial registration process. Publication of contest winners' names, ages, or images for individuals under 13 require parental or guardian consent. 
+## SECURITY OF PERSONAL AND PAYMENT INFORMATION
 
-Subject to the below exemptions, the personal information that we collect from your child will be subject to and dealt with in accordance with the terms of this Privacy Policy. 
+**Use of Cookies  
+**Like other major Websites, we use cookies to provide you with a tailored experience when visiting our Websites and using our products. We also use cookies to understand traffic patterns on RealNetworks Websites to authorize access to certain premium or trial content and product features, and to create and monitor customized advertising. We treat any personal information that may be contained in cookies with the same level of confidentiality as other information you provide to us.
 
-No information collected from visitors under 13 years of age is used for any promotional purposes whatsoever, unless expressly stated during the collection of this information or during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion). 
+RealNetworks does not require that you accept cookies, however, some functionality on our Websites, our product purchase check-out process, and products and services may be disabled if you decline to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. You may also change your RealPlayer cookie settings through preferences options in our products. For more information on cookies, please click on the Topic Index list of subjects about cookies at the bottom of this page.
 
-We do not allow visitors under 13 years of age to be listed in our member directory or to receive direct promotional communications from us.
+## CHANGES TO OUR PRIVACY POLICY
 
-#### LINKS TO OTHER WEBSITES
+We frequently revise this Privacy Policy to keep it up to date with RealNetworks products, services and Web pages. "Updated" may be used to alert users to recent changes and to the date of the last update. We also post FAQ's from time to time on specific products.
 
-You should be aware that on our affiliated websites, there are links to third party websites. If you "click" on a banner advertisement, a search result or another type of link contained on one of our sites, the "click" may result in you leaving our site and your browser being redirected to a website owned and controlled by a third party. 
+## SAFE HARBOR
 
-In this case, we recommend that you refer to the privacy policy of the websites you visit. We have no control over, and hence accept no responsibility for, the content of these sites or the actions of the operators in relation to the collection of personal information of users of these sites. 
+RealNetworks has certified its personal information practices with the U.S. Department of Commerce under the Safe Harbor Program to ensure that your personal information is protected adequately in the event that your data is processed for the purposes of your agreement with us by a RealNetworks company in the United States. Should you want more information on the Safe Harbor principles, please go to: <http://www.export.gov/safeharbor/>.  If your data privacy complaint was not satisfactorily addressed by RealNetworks, we suggest that you contact the Direct Marketing Association at:
 
-Whilst we make every reasonable effort to protect the privacy of your personal information, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
+**Safe Harbor Line**   
+Direct Marketing Association  
+1111 19th Street, NW - Suite 1100  
+Washington, DC 20036  
+E-mail: [safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)   
+Web: <http://www.the-dma.org/safeharbor/consumers.shtml>
 
-You should keep in mind that whenever you give out personal information online, there is a risk that the information can be intercepted and used by third parties without our knowledge. We are in no way responsible or liable for the misuse of personal information obtained in this manner. 
+## NON-US CUSTOMER INFORMATION
 
-#### ACCESS AND ACCURACY OF PERSONAL INFORMATION
+If you are a customer who is logging on from outside the United States, the personal information you submit to RealNetworks will be sent to and stored in servers in our U.S. headquarters in Seattle, Washington.  The personal information practices set out in this Privacy Policy apply to all RealNetworks' customers worldwide.
 
-You may request access to any personal information that we hold about you. All requests will be handled as quickly as possible, and we will endeavour to process any request for access within 30 days of its receipt.
+If you are in the European Union and you choose to purchase RealNetworks' products and services, please be aware that payment for such products and services will be handled by RealNetworks, Inc., E Commerce LL; P.O. Box 91123, Seattle, Washington 98111-9223. The following data may be turned over to this company solely for the purpose of processing the payment transaction:  your name, bank account, and amount to be charged.  You have a right of access and rectification with regard to such data; to exercise these rights, or for other data privacy questions, please contact/send an email to [privacy@real.com](mailto:privacy@real.com "privacy@real.com").
 
-We may refuse access to personal information in certain circumstances such as where the information relates to anticipated legal proceedings with you, where denying access is required or authorized by law, where providing access would be likely to prejudice an investigation by an enforcement body or where the request for access is regarded as frivolous or vexatious. If we deny you access to personal information or refuse to correct personal information, we will give you reasons as to why.
+## NO ERROR FREE PERFORMANCE
 
-#### ENSURING PERSONAL INFORMATION IS UP-TO-DATE
+We customarily release alpha and beta versions of our products, which are further refined before the release of the final "Gold" version. Because these products are still in a test phase, we may not always catch an unintended privacy issue, despite our efforts to do so. As such, we welcome feedback on any privacy concerns you may have, and on how to improve our products generally, in all stages of release. RealNetworks does not guarantee error-free performance under this privacy policy. We will use reasonable efforts to comply with this privacy policy and will take prompt corrective action when we learn of any failure to comply with our privacy policy. RealNetworks shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy. This Privacy Policy shall be governed by the laws of the United States.
 
-It is very important that the personal information that we hold about you is complete, accurate and up-to-date. Please notify us immediately if there has been any change to your personal information.
+## CONTACT US ABOUT PRIVACY
 
-If you register a domain name with us, you will be provided with a unique registry key and/or username/password which may be used to access your personal information as well as to amend/update that personal information.
+If you have questions about the privacy aspects of our products or services or would like to make a complaint, please contact:
 
-#### PRIVACY COMPLAINTS
+Privacy Policy Group  
+RealNetworks, Inc.  
+P.O. Box 91123  
+Seattle, WA 98111-9233  
+<https://real.custhelp.com/app/ask/support_type/1>
 
-If you believe that we have not protected your personal information in accordance with this Privacy Policy, you can lodge a complaint by:
+## SPECIFIC TOPICS
 
-  * Emailing: privacy@darkbluesea.com
-  * Telephoning: +61 7 3007 0070
-  * Faxing: +61 7 3007 0001
-  * Writing to us at:  
-PO Box 757  
-Fortitude Valley QLD 4006
+For more information concerning specific functionality that may be relevant to privacy issues, visit our [Specific Topics Index](https://web.archive.org/about-us/legal/privacy/specific_topics.aspx "Specific Topics Index").
 
+| 
 
+**Privacy Organization Memberships  
+**   
+[ ](http://www.etrust.org/cert/738223.html)
 
-If you are not satisfied with the result of your complaint to us, you can refer your complaint to the Australian Privacy Commissioner as follows:
-
-  * Telephoning: +61 1300 363 992
-  * Writing to:  
-Privacy Commissioner  
-GPO Box 5218  
-Sydney NSW 2001
-
-
-
-#### YOUR ACCEPTANCE OF THESE TERMS
-
-By using this website or our affiliated websites, you consent to us collecting, using and disclosing your personal information in accordance with this Privacy Policy (as amended from time to time).
+## 
