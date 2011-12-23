@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldoflogs.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613000506id_/http%3A//www.worldoflogs.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldoflogs.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223211202id_/http%3A//www.worldoflogs.com/help/privacy) for the most accurate reproduction.*
 
 # World of Logs - Real Time Raid Analysis
 
@@ -28,7 +28,7 @@ Parts of www.worldoflogs.com and our billing process (which is transacted via Pa
 
 ### 7 Accessing and updating your personal information
 
-We will always let you have a copy of personal information we have about you, should you request it, and you may correct it if you wish. Instructions about how to do this are available from data@worldoflogs.com.
+We will always let you have a copy of personal information we have about you, should you request it, and you may correct it if you wish. Instructions about how to do this are available from support@worldoflogs.com.
 
 ### 8 Online Behavioural Advertising
 
@@ -36,4 +36,4 @@ We use third-party advertising companies to serve ads when you visit our Website
 
 ### 9 Questions?
 
-If you have any questions or complaints relating to this Privacy Policy or how we use the personal information we have about you, please contact info@worldoflogs.com. We will endeavour to respond to you promptly. 
+If you have any questions or complaints relating to this Privacy Policy or how we use the personal information we have about you, please contact support@worldoflogs.com. We will endeavour to respond to you promptly. 
