@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the apexsql.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516034415id_/http%3A//www.apexsql.com/comp_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexsql.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223133536id_/http%3A//www.apexsql.com/comp_privacy.aspx) for the most accurate reproduction.*
 
 # ApexSQL Tools Privacy Policy
 
-Apex SQL Privacy Policy
+ApexSQL Privacy policy
 
-Non-Personal information
+Non-personal information
 
-You can visit ApexSQL on the World Wide Web without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors. Also, we may collect and store other information about your visit on an anonymous, aggregate basis. This information may include the time and length of your visit, the pages you look at on our sites, and the site you visited just before coming to ours. We may also record the name of your Internet service provider, browser type, and country of origin. We use this information only to measure site activity and to develop ideas for improving our sites.
+You can visit ApexSQL on the World Wide Web without telling us who you are or revealing any information about yourself. Our web servers collect the domain names of the visitors, not the e-mail addresses. Also, we may collect and store other information about your visit on an anonymous, aggregate basis. This information may include the time and length of your visit, the pages you look at on our sites, and the site you visited just before coming to ours. We may also record the name of your Internet service provider, browser type, and country of origin. We use this information only to measure site activity and to develop ideas for improving our sites.
 
 Personal information collected during web site sign-up
 
@@ -14,19 +14,19 @@ ApexSQL **may** ask you to register and provide information that personally iden
 
 ApexSQL will not provide any personal Information to any third parties.
 
-If you don't want ApexSQL to send you e-mails regarding ApexSQL products, services, or special offers, you will have the opportunity to unsubscribe with each mailing and be permanently removed from our mailing list. You may also send a request to unsubscribe by sending an email to [sales@apexsql.com](mailto:sales@apexsql.com).
+If you don't want ApexSQL to send you e-mails regarding ApexSQL products, services, or special offers, you will have the opportunity to unsubscribe with each mailing and be permanently removed from our mailing list. You may also send a request to unsubscribe by sending an email to [sales@apexsql.com](mailto:sales@apexsql.com)
 
 Personal information collected during Online purchase
 
 Online purchases are handled by shareit.com which collects a variety of information required to process your order. Such information is available to ApexSQL but is not stored on any ApexSQL web server.
 
-Please click [Here](http://www.shareit.com/privacy_statement.html?sessionid=97825978&random=d9d3f0244df95cc348cf6d60ba2c98a8) for more information on ShareIt's Privacy Policy.
+Here is more information on [ShareIt's Privacy policy](http://www.shareit.com/privacy_statement.html?sessionid=97825978&random=d9d3f0244df95cc348cf6d60ba2c98a8)
 
 ApexSQL Newsletter
 
-You will be offered the opportunity to explicitly subscribe to the ApexSQL Newsletter when you sign-up as a member on the site.  Newsletters keep you informed of new releases and other product news. You will have the opportunity to unsubscribe and be permanently removed from our mailing list after the first mailing. Click Here for instructions.
+You will be offered the opportunity to explicitly subscribe to the ApexSQL Newsletter when you sign-up as a member on the site.  Newsletters keep you informed of new releases and other product news. You will have the opportunity to unsubscribe and be permanently removed from our mailing list after the first mailing. Click here for instructions.
 
-Post Download Email
+Post download email
 
 You **may** receive an email after downloading software—confirming download and offering other product-specific information.
 
@@ -35,9 +35,9 @@ Why did I get email from ApexSQL?
 You may receive an email from ApexSQL if you have:
 
   * Signed-up as a member on ApexSQL website (Newsletter)
-  * Signed-up as a member on ApexSQL website and downloaded software (Post Download Email) 
+  * Signed-up as a member on ApexSQL website and downloaded software (Post download email) 
   * Purchased ApexSQL software (Newsletter) 
-  * Subscribed to our E-Newsletter via ApexSQL Website (Newsletter) 
+  * Subscribed to our E-Newsletter via ApexSQL website (Newsletter) 
 
 
 
@@ -49,7 +49,7 @@ You can unsubscribe permanently from ApexSQL Newsletter by clicking on the link 
 
 How do I remove myself from ApexSQL lists and/or avoid getting anymore emails?
 
-Unsubscribe to newsletter. Click Here for instructions.
+Unsubscribe to newsletter. Click here for instructions.
 
 Desist from downloading ApexSQL software and/or use alternate link to download software (if it exists).
 
@@ -61,4 +61,4 @@ Cookies
 
 Does ApexSQL store credit card information?
 
-ApexSQL does NOT store Credit Card information, neither does ShareIt which processes all of our online payments. So your credit card information can not be stolen by means of persons illegally gaining access to your customer information stored on a web server nor will you ever be re-billed automatically for any service or product.
+ApexSQL does NOT store Credit Card information, neither does ShareIt which processes all of our online payments. So your credit card information cannot be stolen by means of persons illegally gaining access to your customer information stored on a web server nor will you ever be re-billed automatically for any service or product.
