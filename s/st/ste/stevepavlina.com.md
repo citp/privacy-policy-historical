@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevepavlina.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425133741id_/http%3A//www.stevepavlina.com/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevepavlina.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223201415id_/http%3A//www.stevepavlina.com/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -34,12 +34,4 @@ This site may make chat rooms, forums, message boards, and/or newsgroups availab
 **Security**  
 This site has security measures in place to protect the loss, misuse, and alteration of the information under its control. This site provides a secure server for all credit card orders, securely encrypting all personal data with industry-standard methods. This site does not store credit card numbers for processed orders. 
 
-  
-
-
-##  Free _Personal Development Insights_ Newsletter 
-
-  
-
-
-Copyright © 2011 by Pavlina LLC, www.StevePavlina.com. All rights reserved. 
+Uncopyrighted by Pavlina LLC, www.StevePavlina.com. Feel free to share. 
