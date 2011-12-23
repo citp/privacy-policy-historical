@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eoem.cc privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605112242id_/http%3A//www.eoem.cc/about%2C22-Privacy%2BPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eoem.cc privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223124502id_/http%3A//www.eoem.cc/about%2C22-Privacy%2BPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
