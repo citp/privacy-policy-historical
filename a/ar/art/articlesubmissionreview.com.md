@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesubmissionreview.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119112236id_/http%3A//articlesubmissionreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesubmissionreview.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223072806id_/http%3A//articlesubmissionreview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Article Submission Review
 
@@ -22,7 +22,7 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 ## Contact Information
 
-Concerns or questions about this privacy policy can be emailed to us via our [Contact Form](http://articlesubmissionreview.com/contact-us) for further clarification.
+Concerns or questions about this privacy policy may be addressed via the CTC HelpDesk at [http://CTCSupport.com](http://ctcsupport.com/) for further clarification.
 
 If you have any more questions or concern about us and our practices you may contact us at the following address:
 
