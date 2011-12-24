@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the beeconomic.com.ph privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505100258id_/http%3A//www.beeconomic.com.ph/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beeconomic.com.ph privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224223014id_/http%3A//www.beeconomic.com.ph/data_privacy) for the most accurate reproduction.*
 
 # Up to 90% discount on restaurants, spas, wellness, fitness - beeconomic.com.ph
 
 **We protect your personal information and data**
 
 **1\. Protecting You**  
-The Groupon website www.beeconomic.com.ph is owned and operated by Beeconomic Philippines Inc.(t/a Groupon Philippines). Beeconomic Philippines Inc.("Groupon Philippines", "we," "us," "our") is committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998 and other applicable data protection laws in the Philippines).
+The Groupon website www.Groupon.ph is owned and operated by Groupon Philippines. Groupon Philippines Inc.("Groupon Philippines", "we," "us," "our") is committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998 and other applicable data protection laws in the Philippines).
 
 Please note that use of the Website by you is subject to this privacy policy (the "Policy") and the Website’s [terms and conditions](http://www.beeconomic.com.ph/terms_and_conditions) of use ("Terms and Conditions"). Where this Policy uses a word starting with a capital letter, that term will be defined in the Terms and Conditions or elsewhere in this Policy.
 
@@ -49,7 +49,7 @@ Please note that we may email you for the following purposes:
     * to send you information or Vouchers which you have asked for;
   * as a newsletter;
   * as promotional emails; and
-  * to offer related services to you from Beeconomic Philippines Inc.
+  * to offer related services to you from Groupon Philippines Inc.
 
 
 
@@ -61,10 +61,10 @@ The PII which we hold will be held securely within our systems in accordance wit
 Regarding information transmitted between the Website and and/or users, while we take reasonable precautions to safeguard this information, we may be unable to prevent unauthorised access to such information by third parties or inadvertent disclosure of such information during transit. Users acknowledge this risk when communicating with the Website.
 
 **7\. Transfer in Certain Circumstances**  
-If there is a sale, merger, consolidation, change in control, transfer of substantial assets, reorganisation or liquidation or Beeconomic Philippines Inc. then, in our sole discretion, we may transfer, sell or assign information collected on and through this Website (including, without limitation, PII and other information), to one or more relevant third parties.
+If there is a sale, merger, consolidation, change in control, transfer of substantial assets, reorganisation or liquidation or Groupon Philippines Inc. then, in our sole discretion, we may transfer, sell or assign information collected on and through this Website (including, without limitation, PII and other information), to one or more relevant third parties.
 
 **8\. Customer Service**  
-If you have any questions or concerns, please feel free to contact us at [support.ph@beeconomic.com](mailto:mailtosupport.ph@beeconomic.com).
+If you have any questions or concerns, please feel free to contact us at [support@groupon.ph](mailto:support@groupon.ph).
 
 **9\. Changes to this Policy**  
 Please note that this Policy forms part of the [Terms & Conditions](http://www.beeconomic.com.ph/terms_and_conditions) for use of this Website and forms part of the Agreement between you and us. We may, from time to time, amend this Policy, in whole or part, in our sole discretion. Any changes to this Policy will be effective immediately upon the posting of the revised policy on the Website. Depending on the nature of the change, we may announce the change: (a) on the home page of the Website, or (b) by email, if we have your email address. However, in any event, by continuing to use the Website following any changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Policy, as it may be amended from time to time, in whole or part, you must terminate your use of the Website.
