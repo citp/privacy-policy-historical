@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interfolio.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625005854id_/http%3A//www.interfolio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interfolio.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225003353id_/http%3A//www.interfolio.com/privacy) for the most accurate reproduction.*
 
 # Interfolio Privacy Policy
 
