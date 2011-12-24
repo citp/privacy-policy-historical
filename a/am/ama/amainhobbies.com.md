@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amainhobbies.com privacy policy that was archived on 2011-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110312045354id_/http%3A//www.amainhobbies.com/information.php/info_id/2/n/Web-site-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amainhobbies.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224023918id_/http%3A//www.amainhobbies.com/information.php/info_id/2/n/Web-site-Privacy-Policy) for the most accurate reproduction.*
 
 # Web site Privacy Policy - A Main Hobbies
 
