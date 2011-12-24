@@ -1,101 +1,86 @@
-> *The following text is extracted and transformed from the appdata.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221031724id_/http%3A//www.appdata.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appdata.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224025002id_/http%3A//www.webmediabrands.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
 
-# Facebook Application Metrics Facebook Application Metrics
+# WebMediaBrands Privacy Policy
 
-Leaderboards
+We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for the WEBM Network. The "WEBM Network" includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned or operated by WebMediaBrands Inc. and each of its wholly-owned subsidiaries (collectively the "Site") home page (collectively hereafter "WEBM"). By accessing the WEBM Network, you are consenting to the information collection and use practices described in this Privacy Policy. 
 
-Get Reports
+We promise that we will use your personal information only in ways that are compatible with this Privacy Policy as follows: 
 
-Alerts and Feeds
+## What information are you collecting and how are you collecting it?
 
-|  This Privacy Policy (the "policy") outlines the types of personally-identifiable information ("personal information") we receive and collect when you use Inside Network's services available through the AppData web sites located at www.appdata.com or pro.appdata.com (the "Services"), as well as some of the steps we take to safeguard your personal information.
+## Do you collect IP addresses?
 
-Inside Network uses personal information collected through the Services for the purposes of:
+Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer's "Internet Protocol" IP address. When a visitor requests a page from any Web site within the WEBM Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our Sites. We use this information to examine our traffic in aggregate, and to investigate misuse of the WEBM Network, its users, or to cooperate with law enforcement. We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors. 
 
-  * Providing our products and services to users, including the display of customized content, identification and authentication, and contact;
-  * Auditing, research and analysis in order to maintain, protect and improve our services;
-  * Ensuring the technical functioning of our network; and
-  * Developing new services
+## What are cookies?
 
-  
-**Questions & Answers:**
+From time to time, WEBM or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of WEBM's Network you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our Site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
 
-**Who is Inside Network?**
+## How do you use single-pixel gifs?
 
-Inside Network, based in Palo Alto, California, delivers data and research that helps leading analysts understand the state and future of the Facebook Platform and social gaming ecosystem. Thousands of developers, investors, marketers, brands, and analysts use Inside Network to help them make decisions daily. Our data is drawn from multiple sources and comprises the most in-depth resource in the industry. Our proprietary technology aggregates and normalizes the data to ensure it is as comprehensive and accurate as possible.
+WEBM, its third party service providers and advertisers may use single-pixel gif images, sometimes referred to as web bugs or Web beacons, to count Web page accesses and gather some general statistical information. WEBM does not gather personal information through the use of these images. Our advertisers and third party providers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer. WEBM also uses various third party providers to track and analyze non-personally identifiable aggregate usage information from visitors to our Web sites in order to continuously improve the quality of our sites and services to you. 
 
-Inside Network processes personal information only for the purposes for which it was collected and in accordance with this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+## What personal information do you collect?
 
-**What information do we collect at this website?**
+Wherever WEBM collects personal information we make an effort to include a link to this Privacy Policy. We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. The personal information we collect may include your name, title, company or organization name, e-mail address, phone number, work or home address, information about your job function, information about your company, and credit card information. 
 
-At Inside Network, we offer a number of services that do not require you to register for an account or provide any personal information to us, such as AppData, Inside Facebook, and Inside Social Games. However, some of our Services will require the provision of certain personal information. In order to provide our full range of services, we may collect the following types of information:
+We may request your e-mail address or mailing address for the purposes of conducting a contest or to provide additional services (for example, subscriptions to announcement lists or information about conferences and trade shows). Participation in contests or other promotions on the WEBM Network is completely voluntary and you have a choice whether or not to disclose personal information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. 
 
-**Information you provide**
+If you are purchasing something on the WEBM Network, we, and any third party provider, need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us, or third party providers, to process and fulfill your order and to notify you of your order status. Credit card and e-mail information will not be shared or sold to third parties for any purpose except as provided in this Privacy Policy without your express permission. 
 
-When you sign up for a AppData Pro account or other Inside Network services or promotions that requires registration, we sometimes ask you for personal information (such as your e-mail address and an account password). For certain services, such as our premium offerings, we also request credit card or other payment account information which will be maintained by third party merchant(s) or payment processor(s) in encrypted form on secure servers. We may combine the information you submit under your account with information from other Inside Network services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
+WEBM also offers access to some services that require registration. We may use your registration contact information to send notification to you of products and services by e-mail and/or postal mail. We may share that information with our clients and they may also send you promotional materials. We may also use your IP address internally and share it with third parties. 
 
-AppData Pro member e-mail addresses are used to contact members regarding service updates, confirmations, opt-in surveys and select partner offers. If you would like to opt-out of these e-mails, please see the Opt-out section within e-mails you receive from us. You may also contact us using the contact information listed below. If you elect to opt-out of further communications, such opt-out will apply only to marketing messages and not to communications regarding service updates and similar matters.
+When you sign up for a WEBM e-mail newsletter, you are given the opportunity to sign up for targeted third-party mailings. Whether or not you want to receive these announcements is your choice. If you choose to receive an announcement from a specific distribution list, you will receive commercial messages from independent third parties that have contracted with WEBM to send messages to the list. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to [announcementlist@webmediabrands.com](mailto:announcementlist@webmediabrands.com) or by following the instructions on the e-mails you receive. 
 
-Some Inside Network e-mail updates are administered by a 3rd party service provider. E-mail addresses provided to them via the automated form on the blog are used solely for the purpose of sending you blog alerts.
+When you sign up for a WEBM discussion forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the WEBM network. 
 
-When you contact us via our Contact form, send e-mail or other communication to Inside Network, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+When you use co-branded services, or those provided by a third party, within the WEBM Network, your information may be passed to the co-brand or third party provider and their use of your information is subject to their applicable privacy policies. 
 
-**Cookies, Beacons and Site Logging**
+We may from time to time send e-mail announcing new products and services. If you choose to supply your postal address in an online form, you may receive postal mailings from WEBM or third party companies. 
 
-To serve you faster and with better quality, we use "cookies" technology. Cookies are small bits of code, usually stored on a user's computer hard drive, which enable a website to "personalize" itself for each user. We generally use cookies to reduce the time it takes for pages to load on your computer and to assist with customer tracking. Cookies are not tied to your personal information.
+## Will you disclose the information you collect to outside third parties?
 
-When you use Inside Network services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+WEBM will disclose personal information and/or an IP address: 
 
-**Are there any other third parties with whom we share your information?**
+1) To contact you regarding other products and services which may be of interest to you (including those we may offer jointly with other companies). At any time, however, you may opt out of such contact;   
+2) When required by law or in the good-faith belief that such action is necessary to:   
+   a) Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on WEBM;   
+   b) Protect and defend the rights or property of the WEBM Network of sites and related properties, or visitors to the WEBM Network of sites and related properties;   
+   c) Identify persons who may be violating the law, the WEBM legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the WEBM Network or its related properties;   
+   d) Fulfill a user's order or request;   
+3) To process and fulfill your order or notify you of order status;   
+4) When we have your consent to share the information;   
+5) When you use co-branded services within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
 
-Inside Network only shares personal information with individuals outside of Inside Network as disclosed in this Privacy Policy and in the following limited circumstances: we have a good faith belief that access, use, preservation or disclosure of information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, (d) protect against imminent harm to the rights, property or safety of Inside Network, its users or the public as required or permitted by law, (e) allow service providers and/or vendors to fulfill Services for you on behalf of Inside Network or (f) pursuant to an acquisition, merger, sale of assets or other business transfer.
 
-**What is our policy regarding children's privacy?**
+We maintain a strict "No-Spam" policy that means that we do not sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy. 
 
-You must be at least 13 years old to use the Inside Network services. We do not knowingly collect or use personal information about visitors under 13 years of age. If you are under 13 years of age, you can use the services offered on our website only in conjunction with your parents or guardians.
+## What else should I know about my privacy when online?
 
-**What security measures do we have in place to ensure that your data is kept securely?**
+WEBM may use third-party advertising companies and advertising networks to serve ads to you based on information (not including your name, address, email address or telephone number) about your visits to our Web sites in order to provide targeted advertisements about goods and services that may be of interest to you while visiting other Web sites. 
 
-We take reasonable security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of personal information. These measures include internal reviews of our data collection, storage and processing practices and security practices.
+The WEBM Network contains many hyperlinks to third party Web sites. The WEBM Network also contains advertisements of third parties. WEBM is not responsible for the privacy practices or the content of such third party Web sites or advertisers. WEBM does not share any of the individual personal information you provide WEBM with the third parties to which WEBM links, except as stated elsewhere within this Privacy Policy, although WEBM may share general, aggregate data with such third parties (such as how many people use our Site). Please check with those Web sites to determine their privacy policy. 
 
-We restrict access to personal information to Inside Network employees, contractors and agents who need to know that information in order to operate, develop or improve our services. We take reasonable efforts to ensure all parties comply with confidentiality obligations.
+If you use WEBM's discussion threads, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these discussion threads. In order to avoid your e-mail address or other personal information from being gathered and used by others for inappropriate or harmful purposes, WEBM advises that you should be cautious about posting a real e-mail address or other personal information to newsgroups, chats, or other public forums. 
 
-We store all personal information on our servers in the United States of America.
+Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
 
-**How would we inform you if our privacy practices change?**
+Certain WEBM media properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other WEBM media properties do not use SSL and thereby do not offer a secure coded way to transfer information. 
 
-Please note that this policy may change from time to time. We will post any policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, e-mail notification of policy changes). By using our services, you signify your assent to the Inside Network Privacy Statement. Our Privacy Statement will indicate the date it was last updated. Your continued use of our site will signify your acceptance of the changes to our policy.
+Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online. 
 
-**How may I update, correct or delete information you have about me?**
+## Business transfers
 
-To update your AppData Pro profile, change your e-mail address, or be removed from any of our mailing lists, please contact us.
+We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may sell a company, assets or Web sites or one or more of the companies in our corporate family may merge with, or be acquired by, another company. In connection with the foregoing, we may transfer some or all of your information in order that the service being provided to you may continue or for other business purposes. 
 
-**How may I contact you?**
+## Your Consent To This Agreement
 
-If you have any questions related to AppData Pro or Inside Network, please contact us [here](https://web.archive.org/contacts).
+By using the WEBM Network, you consent to the collection and use of information by WEBM as specified above. We reserve the right to modify this Policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
-| 
+Please send any questions about WEBM's Privacy Policy to: [privacy@webmediabrands.com](mailto:privacy@webmediabrands.com)
 
-[](http://track.lfstmedia.com/cmp712?cid=cmp712&dmCmp=36072&key=093&ad=crv2056&dmAd=38040&dmCrty=43151&adkey=0f7)
+Please note that your use of the WEBM network of Web sites is governed by our [Legal Notice](http://www.webmediabrands.com/corporate/legal.html). 
 
-[](http://www.joyent.com/solutions/gamestudios/?utm_source=insidefacebook%2C%2Binsidesocialgames%2C%2Bappdata%2B&utm_medium=banner&utm_content=static%2Bad&utm_campaign=Game%2BSolution%2BLaunch)
+WebMediaBrands participates in the Safe Harbor program and adheres to the Safe Harbor principles developed by the U.S. Department of Commerce and the European Union. For more information about the Safe Harbor program, please visit the U.S. Department of Commerce's Safe Harbor website [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/)
 
-[](http://www.kontagent.com/?utm_source=isg&utm_medium=banner&utm_campaign=isg&utm_content=ISG2)
-
-[](http://www.adparlor.com/)
-
-## Our Network
-
-[](http://www.insidefacebook.com/)  
-[Inside Facebook](http://www.insidefacebook.com/) is devoted to tracking Facebook and Facebook Platform news for developers and marketers. [Read more...](http://www.insidefacebook.com/about/)
-
-[](https://web.archive.org/)  
-[AppData](http://www.appdata.com/) is the most reliable way to monitor traffic trends for over 75,000 Facebook applications. [Read more...](http://www.appdata.com/about/)
-
-[](http://www.insidesocialgames.com/)  
-[Inside Social Games](http://www.insidesocialgames.com/) is the first blog dedicated to tracking the convergence of games and social networks. [Read more...](http://www.insidesocialgames.com/about/)
-
-[](http://pagedata.insidefacebook.com/)  
-[PageData](http://pagedata.insidefacebook.com/) is the easiest way to track metrics for hundreds of thousands of Facebook Pages. [Read more...](http://pagedata.insidefacebook.com/)  
-  
----|---|---
+(Revised November 4, 2009) 
