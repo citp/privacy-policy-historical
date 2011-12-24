@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duarte.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508154947id_/http%3A//www.duarte.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duarte.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224172851id_/http%3A//www.duarte.com/privacy) for the most accurate reproduction.*
 
 # Duarte
 
