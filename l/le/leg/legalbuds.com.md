@@ -1,15 +1,11 @@
-> *The following text is extracted and transformed from the legalbuds.com privacy policy that was archived on 2010-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101009102052id_/http%3A//legalbuds.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalbuds.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224164828id_/http%3A//www.legalbuds.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
-[](http://www.p3pseal.com/verify.php?sid=005D1C9AD1 "P3PSeal.com: Click to Verify") Privacy Policy   
+Privacy Policy   
 GLE / legalbuds.com   
 http://www.legalbuds.com
-
-Effective from 15th of October 2007 to 14th of October 2008. 
-
-* * *
 
 General Information   
 GLE / legalbuds.com takes your privacy seriously. Please read the following information to learn more about our privacy practices. 
@@ -45,9 +41,6 @@ GLE / legalbuds.com is committed to resolving any dispute you may have regarding
 Disputes will be handled by our customer service representative. Our customer service will promptly correct any errors.
 
 Please e-mail us at: globallifesupport@gmail.com file a complaint about this sites privacy policy. 
-
-[](http://www.p3pseal.com/verify.php?sid=005D1C9AD1 "P3PSeal.com: Click to Verify")   
-GLE / legalbuds.com is [P3PSeal](http://www.p3pseal.com/verify.php?sid=005D1C9AD1) certified. In the event that a dispute regarding our privacy practices cannot be settled through our normal dispute resolution processes, you should contact [P3PSeal](http://www.p3pseal.com/), an independent third party. P3PSeal will serve as a liaison with GLE / legalbuds.com to resolve any dispute you may have.
 
 * * *
 
