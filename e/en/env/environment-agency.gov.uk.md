@@ -1,63 +1,79 @@
-> *The following text is extracted and transformed from the environment-agency.gov.uk privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605034041id_/http%3A//www.environment-agency.gov.uk/help/35770.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment-agency.gov.uk privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224190122id_/http%3A//www.environment-agency.gov.uk/help/35770.aspx) for the most accurate reproduction.*
 
-# Environment Agency - Privacy policy
+# Environment Agency - Privacy and cookies
 
-Information regarding the Environment Agency's use of personal data.
+This privacy policy explains how we use personal information that we may collect about you when you use this website.
 
-## Statement of intent 
+## Where we may collect personal information from you
 
-In order to access the services we provide and to provide us with feedback, you will be asked to submit personal information about yourself (eg name, address, and telephone number). The services provided include licence application, environmental information, provision of feedback and consultations. 
+We may collect and process the following personal information about you:
 
-By entering your details the Environment Agency will be able to provide you with the services you select. Whenever you provide personal information, we undertake to treat that information in accordance with this policy. 
-
-## Submitting personal information 
-
-When you supply personal information to the Environment Agency we have legal obligations towards you in the way we deal with that information. We have to process information within the framework of our statutory duties and powers and in addition we have to collect the information fairly. The individual notices on particular webpages, forms or specifically given to you let you know how we will use the information and whether we will pass the information on to anyone else. 
-
-## Use and disclosure of personal information 
-
-We use personal information to deal with licence applications, to monitor compliance with the licence/permit/registration conditions, to process renewals, preventing and investigating breaches of environmental law, for maintaining the relevant public register(s), dealing with complaints, consultations and for providing environmental services and literature. 
-
-We may disclose personal data to our consultants, agents and representatives to do these things on our behalf. In addition we may disclose information to other public bodies and other organisations (e.g. Health and Safety Executive Local Authorities, Emergency Services, Defra) for consultation on environmental issues. 
-
-Personal information that we are required to put on our public registers may be licensed for re-use to third parties. Personal information that is not on a public register may be also be licensed to third parties, but this will only be where the Data Protection Act 1998 allows. If personal information not on the public register is licensed for marketing purposes this will only be for strictly limited types of marketing and where you have indicated you want this to happen. Personal information may also be shared with parties other than those mentioned above where we are required by law to disclose the information. 
-
-We will only hold personal data on our systems for a strictly limited period of time. For the most part the time period will be set as a matter of internal policy and will be the minimum necessary for our use. 
-
-## Access to your personal information 
-
-You have the right to request a copy of the personal information the Environment Agency holds about you and to have any inaccuracies in that personal information corrected. Please address requests to the National Data Protection Manager or use our online enquiry form.  
+  * Information that you provide if you submit a query using our [**online enquiries form**](http://www.environment-agency.gov.uk/contactus/feedback.aspx? "Online enquiry form") or if you [**contact**](https://web.archive.org/contactus/default.aspx "Contact us") our National Customer Contact Centre. 
+  * Information that you provide if you report an environmental incident via our [**incident hotline**](https://web.archive.org/contactus/36345.aspx "Report an incident"). 
+  * Information that you provide if you request publications via this website. 
+  * Information that you provide if you apply for a permit, licence or exemption via this website. 
+  * Information that you provide if you subscribe to a newsletter via this website. 
+  * Information that you provide if you subscribe to a service via this website. 
+  * Information that you provide if you respond to a consultation via this website. 
+  * Information that you provide if you apply for a job via this website.
 
 
-## Direct marketing 
 
-From time to time we may wish to provide you with details of other services or literature about environmental matters available from the Environment Agency which may be of interest to you. We may also offer you the opportunity to participate in the consultation process for new methods, strategies, works or schemes proposed by the Environment Agency. 
+## How we will use personal information about you
 
-## Users under 18 
+Information that you provide to us if you submit a query using our online enquiries form or if you contact our National Customer Contact Centre will be used to respond to your query. It may also be used to assess customer satisfaction with our service and improve our communications.
 
-If you are under 18, please make sure that you obtain your parent/guardian's permission before you provide personal information to the Environment Agency on its website or by other means. 
+Information that you provide to us if you report an environmental incident will be used to investigate that incident.  It may also be used to assess customer satisfaction with our service and improve our communications.
 
-## Security of personal information 
+If you provide any other personal information to us via this website you will be given specific information on the relevant web page(s) about how it will be used, including any disclosures that may be made.
 
-We share the general concern over the safety and security of personal information on the Internet and have implemented procedures to promote the safety and security of information we collect online. We have implemented industry standard controls to try to ensure confidentiality; however, no data transmission over the Internet can be guaranteed to be 100% secure. We cannot therefore guarantee that personal information will never be disclosed in ways not otherwise described in this privacy policy. 
+From time to time we may use agents to carry out these activities for us.
 
-## Cookies 
+## Access to your personal information and correction of inaccuracies
+
+You have the right to request a copy of the personal information we hold about you.  Please send your request to the Data Protection Manager at the address below or use our [online enquiry form](http://www.environment-agency.gov.uk/contactus/feedback.aspx? "Online enquiry form").
+
+Data Protection Manager  
+Corporate Security team  
+Environment Agency  
+Horizon House  
+Deanery Road  
+Bristol  
+BS1 5AH
+
+You may also ask us to correct or remove information that you think is inaccurate.  You can do this by contacting the Data Protection Manager.
+
+## Security of card payment transactions
+
+We use a third party online payment service to process card payment transactions.  Organisations that provide this service must comply with the Payment Card Industry Data Security Standards. 
+
+  * **[Payment Card Industry Data Security Standards](https://www.pcisecuritystandards.org/index.php "Payment Card Industry Data Security Standards")**
+
+
+
+## Cookies
 
 When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally.
 
 These pieces of information are used to improve services for you through, for example:
 
-  * enabling a service to recognise your device so you don't have to give the same information several times during one task 
-  * recognising that you may already have given a username and password so you don't need to do it for every web page requested 
-  * measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are fast 
+  * enabling a service to recognise your device so you do not have to give the same information several times during one task 
+  * recognising that you may already have given a username and password so you do not need to do it for every web page requested 
+  * measuring how many people are using services, so they can be made easier to use and there is enough capacity to ensure they are fast
 
 
 
 You can manage these small files yourself and learn more about them:
 
-  * **[Internet browser cookies - what they are and how to manage them](http://www.direct.gov.uk/en/SiteInformation/DG_197506?CID=Central&PLA=url_mon&CRE=managing_cookies "Internet browser cookies on the Direct Gov website")**
+  * **[Internet browser cookies - what they are and how to manage them](http://www.direct.gov.uk/en/SiteInformation/DG_197506?CID=Central&PLA=url_mon&CRE=managing_cookies "Internet browser cookies - what they are and how to manage them")  
+**
+  * **[Our use of cookies](https://web.archive.org/help/130361.aspx "Use of our cookies")**
 
 
-  * **[Our use of cookies](https://web.archive.org/help/130361.aspx "Our use of cookies")**
 
+## Links to other websites
+
+This website contains links to other websites that have their own privacy policies.  We do not accept responsibility or liability for those policies or for the content of any linked website.
+
+This privacy policy was last updated on 27 October 2011.  
 
