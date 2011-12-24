@@ -1,6 +1,40 @@
-> *The following text is extracted and transformed from the americasjobexchange.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611203307id_/http%3A//www.americasjobexchange.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasjobexchange.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224224341id_/http%3A//www.americasjobexchange.com/privacy) for the most accurate reproduction.*
 
-# AJE Privacy | America's Job Exchange
+# None
+
+Thank you for visiting the America's Job Exchange (AJE) website which is owned and operated by NaviSite, Inc. This website is designed to make it easier and more efficient for job seekers to learn about employment opportunities and businesses to find capable and competent workers. AJE recognizes that it is critical for individuals and businesses to be confident that their privacy is protected when they visit the AJE website and are therefore committed to respecting your privacy when visiting this website.
+
+Because this privacy policy only applies to this website, you should examine the privacy policy of any website AJE links to, including employer websites.
+
+For purposes of this policy, "personal information" means any information concerning a natural person, which, because of name, number, symbol, mark, or other identifier, can be used to identify that natural person.
+
+**AJE does not collect any personal information about you unless you provide that information voluntarily by sending an e-mail, responding to a survey, or completing an on-line transaction.**
+
+ **Information Collected Automatically When You Visit this Website**
+
+When visiting this website AJE automatically collects and stores the following information about your visit:
+
+(i) User client hostname: The hostname or Internet Protocol address of the user requesting access to the website.
+
+(ii) HTTP header, "user agent:" The user agent information includes the type of browser, its version, and the operating system on which the browser is running.
+
+(iii) HTTP header, "referrer:" The referrer specifies the web page from which the user accessed the current web page.
+
+(iv) System date: The date and time of the user's request.
+
+(v) Full request. The exact request the user made.
+
+(vi) Status: The status code the server returned to the user.
+
+(vii) Content length: The content length, in bytes, of any document sent to the user.
+
+(viii)Method: The request method used.
+
+(ix) Universal Resource Identifier (URI): The location of a resource on the server.
+
+(x) Query string of the URI: Anything after the question mark in a URI.
+
+(xi) Protocol: The transport protocol and the version used.
 
 None of the foregoing information is deemed to constitute personal information.
 
@@ -8,13 +42,13 @@ The information that is collected automatically is used to improve this website'
 
 The information will not be used for commercial marketing purposes and AJE is not authorized to sell or otherwise disclose the information collected from the website for commercial marketing purposes except with your express consent.
 
-**Cookies**
+## Cookies
 
 Cookies are simple text files stored on your web browser to provide a means of distinguishing among users of this website. The use of cookies is a standard practice among Internet websites. To better serve you, we occasionally use "session cookies" to enhance or customize your visit to this website. The session cookies, created automatically on the device you use to access this website, do not contain personal information and do not compromise your privacy or security. We use the cookie feature to store a randomly generated identifying tag on the device you use to access this website. The session cookie is erased when your browser is closed.
 
 If you wish to submit a job order or a resume, you must register. However, while registering permits you to perform certain actions, the website will not recognize you upon your return. This is because AJE does not store "persistent cookies" on registrant's computer hard drives. Accordingly, it is important that you remember your login information for this site.
 
- **Information Collected When You E-mail this Website or Complete a Transaction**
+## Information Collected When You E-mail this Website or Complete a Transaction
 
 During your visit to this website you may send an e-mail to AJE. Your e-mail address and the contents of your message will be collected. The information collected is not limited to text characters and may include audio, video, and graphic information formats included in the message. Your e-mail address and the information included in your message will be used to respond to you, to address issues you identify, to improve this website, or to forward your message for appropriate action.
 
@@ -28,11 +62,11 @@ AJE logs events when registered users perform the following acts: (1) the user r
 
 AJE does not knowingly collect personal information from children or create profiles of children through this website. Users are cautioned, however, that the collection of personal information submitted in an e-mail will be treated as though it was submitted by an adult, and may, unless exempted from access by federal or State law, be subject to public access. AJE strongly encourages parents and teachers to be involved in children's Internet activities and to provide guidance whenever children are asked to provide personal information on-line.
 
- **Personal Information and Choice**
+## Personal Information and Choice
 
 As noted above, the AJE website does not collect any personal information about you unless you provide that information voluntarily by sending an e-mail, responding to a survey, or completing an on-line form. You may choose not to send us an e-mail, respond to a survey, or complete an on-line form. However, should you choose to not register as a user, while you will be able to take advantage of those features of the site that do not require registration, you will not be able to access significant other features that do require registration.
 
- **Disclosure of Information Collected Through This Website**
+## Disclosure of Information Collected Through This Website
 
 AJE will only collect personal information through this website or disclose personal information collected through this website if the user has consented to the collection or disclosure of such personal information. The voluntary disclosure of personal information to AJE by the user, whether solicited or unsolicited, constitutes consent to the collection and disclosure of the information for the purposes for which the user disclosed the information to AJE, as was reasonably ascertainable from the nature and terms of the disclosure, including the sharing of this information with the workforce agency(ies) in the state where you reside.
 
@@ -42,14 +76,17 @@ AJE may disclose personal information to federal or state law enforcement author
 
 AJE may disclose information to NaviSite-affiliated companies on a worldwide basis in order to facilitate our delivery of the products and services we offer. "Affiliated companies" means entities that control, are controlled by or are under common control with NaviSite, Inc.
 
- **Retention of Information Collected Through this Website**
+## Retention of Information Collected Through this Website
 
-We have a right, but not the obligation, to retain indefinitely all the information we gather about you in an effort to make your repeat use of AJE more efficient. 
+We have a right, but not the obligation, to retain indefinitely all the information we gather about you in an effort to make your repeat use of AJE more efficient.
 
-**Disclaimer**
+## Disclaimer
 
 AJE is strongly committed to protecting personal information collected through this website against unauthorized access, use or disclosure and has therefore implemented various technological and procedural safeguards designed to protect your privacy. However, the information provided in this privacy policy should not be construed as giving business, legal, or other advice, or warranting as fail proof, the security of information provided through this website. In addition, AJE may, at its sole discretion, change, modify, add, or delete portions of this policy.
 
- **Contact Information**
+## Contact Information
 
-For questions regarding this privacy policy, please contact privacypolicy@americasjobexchange.com.
+For questions regarding this privacy policy, please contact [privacypolicy@americasjobexchange.com.](mailto:privacypolicy@americasjobexchange.com)
+
+  
+
