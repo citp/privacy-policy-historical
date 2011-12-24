@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hornymatches.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615041323id_/http%3A//www.hornymatches.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hornymatches.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224223225id_/http%3A//hornymatches.com/privacy.php) for the most accurate reproduction.*
 
 # HornyMatches.com Adult Personals Online Sex Dating site
 
@@ -100,4 +100,4 @@ Copyright (c) 2004-2011 DG International / HornyMatches.com
   
   
 HornyMatches.com : [Adult Personals](http://www.hornymatches.com/), Sex Dating and Swingers Personals  
-This page was created in 0.04 seconds
+This page was created in 0.02 seconds
