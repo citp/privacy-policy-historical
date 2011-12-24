@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whosampled.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617065714id_/http%3A//www.whosampled.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whosampled.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224164942id_/http%3A//www.whosampled.com/about/privacy) for the most accurate reproduction.*
 
-# WhoSampled - Privacy Policy
+# Privacy Policy | WhoSampled
 
 This policy sets out the basis on which any personal data collected through www.whosampled.com (the “ **Website** ”), or that you provide to the Website, will be processed. Please read this policy carefully before you use the Website.
 
@@ -31,7 +31,7 @@ For the same reason, we may obtain information about your general internet usage
 
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Website.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. These companies may also use cookies, over which we have no control.
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. These companies may also use cookies, over which we have no control. In order to opt-out from cookies served by various advertising providers, you can use industry-wide services such as those run by the [Digital Advertising Alliance](http://www.aboutads.info/choices/) or the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Where we store your personal data**  
 The data that we collect from you may be transferred to, and stored at, a location outside the European Economic Area (" **EEA** "). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
@@ -79,4 +79,4 @@ Please note that this privacy policy may change from time to time. We expect the
 **Contact**  
 Questions, comments and requests regarding this privacy policy are welcomed and should be sent via [our contact form](https://web.archive.org/contact/ask/).
 
-Last updated: October 15, 2009 
+Last updated: November 21, 2011 
