@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innovationtoronto.com privacy policy that was archived on 2010-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100831060111id_/http%3A//www.innovationtoronto.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innovationtoronto.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225004613id_/http%3A//www.innovationtoronto.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Innovation Toronto
 
@@ -24,3 +24,13 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of Innovation Toronto then you may contact us at info@innovationtoronto.com
 
 Last updated Sun, 07 Feb 2010 17:27
+
+  
+
+
+Mouse here for 
+
+| | **Related Links**  
+---|---|---  
+  
+[](http://vivociti.com/component/option,com_remository/Itemid,40/func,select/id,16/ "Get Google +1 \(Google Plus One\) Recommend Button For WordPress Plugin")
