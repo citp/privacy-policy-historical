@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivermend.com privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224224324id_/http%3A//drivermend.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivermend.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224201601id_/http%3A//drivermend.com/privacy.php) for the most accurate reproduction.*
 
 # Driver Mender - Fast And Effective Driver Solutions
 
@@ -12,19 +12,17 @@ In operating our website we may collect and process the following data about you
 
 i. Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs and other communication data.   
 ii. Information that you provide by filling in forms on our website, such as when you registered for information or make a purchase.   
-iii. Information provided to us when you communicate with us for any reason. iv. 
+iii. Information provided to us when you communicate with us for any reason. 
 
 #### Use of Cookies
 
-On occasion, we may gather information about your computer for our services and to provide statistical information regarding the use of our website to our advertisers. 
+On occasion, we may gather information about your computer for our services and to provide statistical information to us regarding the use of our website. 
 
 Such information will not identify you personally it is statistical data about our visitors and their use of our site. This statistical data does not identify any personal details whatsoever. 
 
 Similarly to the above, we may gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and the service that we provide to you. 
 
 All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website. 
-
-Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website. 
 
 #### Advertising Practices
 
@@ -34,6 +32,9 @@ Third party vendors, including Google, serve ads for this site on the internet.
 Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to this website. 
 
 Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page [here](http://www.google.com/privacy/ads/). 
+
+  
+
 
 #### Use of Your Information
 
@@ -45,7 +46,12 @@ To notify you about any changes to our website, such as improvements or service/
 
 If you are an existing customer, we may contact you with information about goods and services similar to those which were the subject of a previous sale to you. 
 
-Further, we may use your data, or permit selected third parties to use your data, so that you can be provided with information about unrelated goods and services which we consider may be of interest to you. We or they may contact you about these goods and services by any of the methods that you consented at the time your information was collected. If you are a new customer, we will only contact you or allow third parties to contact you only when you have provided consent and only by those means you provided consent for. If you do not want us to use your data for our or third parties you will have the opportunity to withhold your consent to this when you provide your details to us on the form on which we collect your data. Please be advised that we do not reveal information about identifiable individuals to our advertisers but we may, on occasion, provide them with aggregate statistical information about our visitors. 
+If you are a new customer, we will only contact you or allow third parties to contact you only when you have provided consent and only by those means you provided consent for. If you do not want us to use your data for our or third parties you will have the opportunity to withhold your consent to this when you provide your details to us on the form on which we collect your data. Please be advised that we do not reveal information about identifiable individuals to our advertisers but we may, on occasion, provide them with aggregate statistical information about our visitors. 
+
+Any correspondence we send will always include specific and clear information on how to opt-out of receiving any future information from us. 
+
+  
+
 
 #### Storing Your Personal Data
 
@@ -59,19 +65,18 @@ The transmission of information via the internet is not completely secure and th
 
 Where applicable, we may disclose your personal information to any member of our group. This includes, where applicable, our subsidiaries, our holding company and its other subsidiaries (if any). 
 
-We may also disclose your personal information to third parties:   
+Under certain circumstances we may disclose your personal information to third parties:   
 i. Where we sell any or all of our business and/or our assets to a third party.   
 ii. Where we are legally required to disclose your information.   
-iii. To assist fraud protection and minimise credit risk. iv. 
+iii. To assist fraud protection and minimise credit risk. 
 
 #### Third Party Links
 
-You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them. 
+You mind find links to third party websites on this site. These websites are governed by their own privacy policies which we encourage you to check to ensure you are satisfied with their data privacy policies. We do not accept any responsibility or liability for the policies of thirty party sites and links. 
 
-#### Access To Information
+#### Third Party Data Collection
 
-The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of �10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below. 
+Accessing certain features of products we offer may require registration. If the registration is conducted on-site the data will be governed by this privacy policy and if collected offsite by a third party, for example, while registering and paying for a product with a third party payment processor, the data will be governed by the third party site.   
+For a detailed breakdown of exactly how the third party will use your data, please reference the third party site in question. 
 
-#### Contacting Us
-
-We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at our [contact page](https://web.archive.org/web/20110224224324id_/http%3A//drivermend.com/contact.php)
+For any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at our [contact](https://web.archive.org/contact.php) page. 
