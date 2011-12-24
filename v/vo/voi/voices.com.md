@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the voices.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104115752id_/http%3A//www.voices.com/security/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voices.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224140458id_/http%3A//www.voices.com/security/privacy_policy) for the most accurate reproduction.*
 
-# Voices.com
+# Privacy Policy | Voices.com
 
 #### Our Commitment To Privacy
 
@@ -38,4 +38,4 @@ At Voices.com, we trust and value the accuracy of your personal information. At 
 
 ####  Serving You Better
 
-Voices.com is the leading voice marketplace. We thank you for your business and look forward to continuing to serve you. If you have any questions or concerns, they can be sent to support@voices.com or by mail to Voices.com, 999 Collip Circle, London ON N6G 0J3 Canada.
+Voices.com is the leading voice marketplace. We thank you for your business and look forward to continuing to serve you. If you have any questions or concerns, they can be sent to support@voices.com or by mail to Voices.com, 150 Dufferin Avenue, Suite 800, London, ON N6A 5N6 Canada.
