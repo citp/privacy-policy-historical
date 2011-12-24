@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestylish.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604150411id_/http%3A//www.bestylish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestylish.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224062850id_/http%3A//www.bestylish.com/privacy) for the most accurate reproduction.*
 
-# bestylish - Privacy Policy
+# Privacy Policy
 
 **Privacy Policy** ** **
 
@@ -29,6 +29,14 @@ In an effort to make our Website as effective and enjoyable as possible, the com
 **PRIVACY POLICIES OF THIRD PARTY WEBSITES**
 
 This Privacy Policy only addresses the use and disclosure of information we collect from you. Other websites that may be accessible through this Website have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we urge you to review the respective website’s privacy policy. We are not responsible for the policies or practices of third parties.
+
+**THE OPT-OUT PRACTICE**
+
+a) If you are no longer interested in receiving e-mail announcements and other marketing information from us, or you want us to remove any personal information that we have collected about you, you can opt-out anytime by sending an e-mail about your request to support@bestylish.com.
+
+b) We use third-party service providers to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user.
+
+c) If you would like more information about this Opt-out practice and to know your choices about not having this anonymous information used by our third party service provider, please click http://www.networkadvertising.org/managing/opt_out.asp. You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative’s website by clicking http://www.networkadvertising.org/.
 
 **CHANGES IN POLICY** ** **
 
