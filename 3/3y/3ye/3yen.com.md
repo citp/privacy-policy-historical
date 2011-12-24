@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3yen.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625033219id_/http%3A//www.3yen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3yen.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224133442id_/http%3A//www.3yen.com/privacy) for the most accurate reproduction.*
 
 # News on Japan – 3Yen – Privacy Policy
 
@@ -37,5 +37,12 @@ We limit access to personal information about you to employees who we believe re
 We will transfer information about you if 3Yen.com is acquired by or merged with another company. In this event, we will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
 At any time, you may review or update your personal information by contacting us via the contact form available online. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. Please do not hesitate to contact us if you have any questions or concerns about this privacy policy.
+
+GOOGLE ADSENSE
+
+\- Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to this website.  
+\- Google’s use of the DART cookie enables it and its partners to serve ads to this site’s users based on their visit to this sites and/or other sites on the Internet.  
+\- Users may opt out of the use of the DART cookie by visiting [the advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively, you can visit the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).)  
+\- Users can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20111224133442id_/http://www.3yen.com/privacy/www.networkadvertising.org/managing/opt_out.asp). 
 
 3Yen.com may update this policy in the future.
