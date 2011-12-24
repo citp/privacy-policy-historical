@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the coollcd.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628020733id_/http%3A//www.coollcd.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coollcd.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224154459id_/http%3A//www.coollcd.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : COOLLCD.com
 
-We understand that you are very concerned about the usage and sharing of your personal information. And we are very appreciated your belief on our prudence and sensitivity handling this issue. This declaration will specify our policy regarding the protection of your privacy. Our website is under the operation of lilliputlcd.com/viwolf Inc.  
-If you have visited our website, that will be considered to be your acceptance to this privacy policy. **Automatically collected information**   
+We understand that you are very concerned about the usage and sharing of your personal information. And we are very appreciated your belief on our prudence and sensitivity handling this issue. This declaration will specify our policy regarding the protection of your privacy. Our website is under the operation of COOLLCD Technology LTD. If you have visited our website, that will be considered to be your acceptance to this privacy policy. **Automatically collected information**   
 Whenever you interact with us, we will receive and deposit the given information.  
 For example, like many other sites, we use “cookies”.  
 When your internet browser visits COOLLCD.com, we will collect some information. (please refer to the sample of information collecting process stated at the end of this policy)  
