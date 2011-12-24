@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volnation.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531033242id_/http%3A//www.volnation.com/blog/volnation-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volnation.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224192327id_/http%3A//www.volnation.com/blog/volnation-privacy-policy) for the most accurate reproduction.*
 
 # VolNation Privacy Policy - VolNation Blog
 
