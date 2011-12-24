@@ -1,0 +1,976 @@
+<!--The following is the downloaded HTML source of the growershouse.com privacy policy that was archived on 2011-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111224053408id_/http%3A//www.growershouse.com/t-privacy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Privacy Policy | Growers House</title>
+    <meta name="description" content="Hydroponics Supplies from hundreds of manufacturers including Lumatek, Kessil, Quantum, Botanicare, Digilux, and more.">
+    <meta name="keywords" content="">
+    <link rel="stylesheet" href="skins/Skin_1/style.css" type="text/css">
+    <link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="jscripts/formValidate.js"></script>
+    <script type="text/javascript" src="jscripts/core.js"></script>
+
+    <!--Added JS and Stylesheets for Smooth Menu implementation -->
+    <link rel="stylesheet" type="text/css" href="jscripts/ddsmoothmenu/ddsmoothmenu.css">
+    <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/themes/base/jquery-ui.css" type="text/css" media="all">
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="jscripts/ddsmoothmenu/ddsmoothmenu.js"></script>
+
+    <style>
+     .ui-autocomplete
+     {
+         position:absolute;
+            text-align:left;
+        z-index:4000 !important  
+     }
+    </style>
+    
+    <script type="text/javascript">
+
+        $(function() {
+            ddsmoothmenu.init({
+                mainmenuid: "smoothmenu1", //menu DIV id
+                orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+                classname: 'ddsmoothmenu', //class added to menu's outer DIV
+                //customtheme: ["#1c5a80", "#18374a"],
+                contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+            });
+
+            $('#SearchTx').autocomplete({
+                source: "SearchAutocomplete.ashx",
+                minLength: 2,
+                html: "html",
+                select: function(event, ui) {
+                    window.location.href = ui.item.link;
+                    return false;
+                }
+            });
+        });
+    </script>
+    
+    
+    <script language="javascript" type="text/javascript">
+
+        function addLoadEvent(func) {
+            var oldonload = window.onload;
+            if (typeof window.onload != 'function') {
+                window.onload = func;
+            } else {
+                window.onload = function () {
+                    oldonload();
+                    func();
+                }
+            }
+        }
+
+        function prepareMenu() {
+            // first lets make sure the browser understands the DOM methods we will be using
+            if (!document.getElementsByTagName) return false;
+            if (!document.getElementById) return false;
+
+            // lets make sure the element exists
+            if (!document.getElementById("menu")) return false;
+            var menu = document.getElementById("menu");
+
+            // for each of the li on the root level check if the element has any children
+            // if so append a function that makes the element appear when hovered over
+            var root_li = menu.getElementsByTagName("li");
+            for (var i = 0; i < root_li.length; i++) {
+                var li = root_li[i];
+                // search for children
+                var child_ul = li.getElementsByTagName("ul");
+                if (child_ul.length >= 1) {
+                    // we have children - append hover function to the parent
+                    li.onmouseover = function () {
+                        if (!this.getElementsByTagName("ul")) return false;
+                        var ul = this.getElementsByTagName("ul");
+                        ul[0].style.display = "block";
+                        return true;
+                    }
+                    li.onmouseout = function () {
+                        if (!this.getElementsByTagName("ul")) return false;
+                        var ul = this.getElementsByTagName("ul");
+                        ul[0].style.display = "none";
+                        return true;
+                    }
+                }
+            }
+
+            return true;
+        }
+
+        addLoadEvent(prepareMenu);
+    </script>
+<script type="text/javascript" async="" src="https://upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js">thefind.upfront.init('tf_upfront_badge', '2f9ca163700920ec16b9ea65dd875693')</script></head>
+<body rightmargin="0" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<div id="pnlForm" style="display:none;">
+	<form name="Form" method="post" action="driver.aspx?Topic=privacy" id="Form">
+	<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM0NjEzNTYwOA9kFgICAw8PFgIeB1Zpc2libGVnFgIeBXN0eWxlBQ1kaXNwbGF5Om5vbmU7ZGR3zfgZpCh3kjPQ6dd99DBn0YlZwg==">
+	</form>
+</div>
+<!-- PAGE INVOCATION: '/t-privacy.aspx' -->
+<!-- PAGE REFERRER: '' -->
+<!-- STORE LOCALE: 'en-US' -->
+<!-- CUSTOMER LOCALE: 'en-US' -->
+<!-- STORE VERSION: 'Interprise Suite eCommerce 5.6.0.0/5.6.22.0' -->
+<!-- CACHE MENUS: 'false' -->
+<!-- to center your pages, set text-align: center -->
+<!-- to left justify your pages, set text-align: center -->
+<!-- if using dynamic full width page sizes, the left-right align has no effect (obviously) -->
+
+<table style="width:1024px; background-image:url(images/finalpngs/banner/TopOfPageGradient.png);" cellpadding="0" cellspacing="0">
+<tbody><tr style="vertical-align:middle; color:White; height:35px; ">
+    <td style="width:50px;">&nbsp;&nbsp;&nbsp;</td>
+    <td style="white-space:nowrap;color:White; text-decoration:none; font-size:3;">Call Toll Free: 855-289-1441</td>
+    <td style="width:30px;">&nbsp;</td>
+    <td style="white-space:nowrap;"><a href="t-contact.aspx" style="color:White; text-decoration:none;">Visit Our Store</a></td>
+    <td style="width:30px;">&nbsp;</td>
+<td><a href="https://www.youtube.com/user/GrowersHouse" target="_blank"><img src="images/youtubek.png" width="35" height="30" alt="GrowersHouse on YouTube" border="0" style="vertical-align:middle;"></a>&nbsp;</td>
+    <td><a href="https://www.facebook.com/pages/Growers-House/150912654979796?sk=wall" target="_blank"><img src="images/finalpngs/banner/FacebookIcon.png" alt="Growers House Facebook Page" width="30" height="30" border="0" style="vertical-align:middle;"></a>&nbsp;</td>
+    <td><a href="https://twitter.com/#!/growershouse" target="_blank"><img src="images/finalpngs/banner/TwitterIcon.png" width="30" height="30" alt="GrowersHouse on Twitter" border="0" style="vertical-align:middle;"></a>&nbsp;</td>
+    <td><a href="http://www.growershouse.wordpress.com" target="_blank"><img src="images/finalpngs/banner/GrowersBlogIcon.png" width="70" height="30" alt="GrowersHouse Blog" border="0" style="vertical-align:middle;"></a>&nbsp;</td>
+    <td style="white-space:nowrap;">&nbsp;&nbsp;&nbsp;&nbsp;<a href="signin.aspx" style="font-family:Trebuchet MS;color:White; text-decoration:none;">Login</a>&nbsp;&nbsp;</td>
+    <td style="width:20px;">&nbsp;</td>
+    <td style="white-space:nowrap;">&nbsp;&nbsp;<a href="account.aspx" style="font-family:Trebuchet MS;color:White; text-decoration:none;">My Account</a>&nbsp;&nbsp;</td>
+    <td style="width:20px;">&nbsp;</td>
+    <td style="white-space:nowrap;">&nbsp;&nbsp;<a href="account.aspx#OrderHistory" style="font-family:Trebuchet MS;color:White; text-decoration:none;">Order Status</a>&nbsp;&nbsp;</td>
+    <td style="width:20px;">&nbsp;</td>
+    <td style="white-space:nowrap;">&nbsp;&nbsp;<a href="wishlist.aspx" style="font-family:Trebuchet MS;color:White; text-decoration:none;">Wish List</a>&nbsp;&nbsp;</td>
+    <td style="width:20px;">&nbsp;</td>
+    <td style="white-space:nowrap;">&nbsp;&nbsp;<a href="shoppingcart.aspx" style="font-family:Trebuchet MS;color:White; text-decoration:none;">Cart</a> <font color="orange">(0)</font>&nbsp;&nbsp;</td>
+    <td style="width:50px;">&nbsp;&nbsp;&nbsp;</td>
+</tr>
+</tbody></table>
+
+<table style="width:1024px; height:90px; background-image:url(images/finalpngs/banner/GrowersHouseLogo.png); background-repeat:no-repeat; background-color:White;" cellpadding="0" cellspacing="0">
+<tbody><tr><td><img src="images/transparent.gif" width="1" height="7" border="0"></td></tr>
+<tr>
+    <td rowspan="2"><a href="default.aspx"><img src="images/transparent.gif" alt="Hydroponics Supplies | Growers House" width="490" height="70" border="0"></a></td>
+    <td style="text-align:center; vertical-align:bottom;"><a href="t-shipping.aspx" style="font-family:Trebuchet MS;color:Gray; text-decoration:none;font-size:small;">Fast, Discrete Shipping</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="t-pricematchguarantee.aspx" style="font-family:Trebuchet MS;color:Gray; text-decoration:none;font-size:small">Price Match Guarantee</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="t-referral.aspx" style="font-family:Trebuchet MS;color:Gray; text-decoration:none;font-size:small">Referral Policy</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="featureditems.aspx?resetfilter=true" style="font-family:Trebuchet MS;color:orange; text-decoration:none;font-size:small">Today's Deals&nbsp;&nbsp;</a></td>
+</tr>
+<tr>
+    <td>
+    <table border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+            <td><img src="images/finalpngs/Banner/SearchBoxLeft.png" width="18" height="50"></td>
+            <td style="background-image:url(images/finalpngs/Banner/SearchBoxmiddle.png); width:150px;" width="150px;">
+                <input type="text" id="SearchTx" style="width:375px; height:45px; border-style:none; background-color:White; font-size:large;" onkeydown="if (event.keyCode == 13) document.location.href='https://www.growershouse.com/search.aspx?SearchTerm='+encodeURIComponent(document.getElementById('SearchTx').value);">
+            </td>
+            <td style="background-image:url(images/finalpngs/Banner/SearchBoxmiddle.png); width:50px;" width="50px;">
+                <input type="image" id="SearchBx" src="images/finalpngs/Banner/SearchButton.png" onclick="document.location.href='https://www.growershouse.com/search.aspx?SearchTerm='+encodeURIComponent(document.getElementById('SearchTx').value);"></td>
+            <td><img src="images/finalpngs/Banner/SearchBoxRight.png" width="18" height="50"></td>
+            <td>&nbsp;</td>
+        </tr>
+    </tbody></table>
+    </td>
+</tr>
+<tr><td><img src="images/transparent.gif" width="1" height="7" border="0"></td></tr>
+</tbody></table>
+
+<div style="clear:both;text-align:center;width:985px;height:40px;margin:auto">
+ <div id="smoothmenu1" class="ddsmoothmenu">
+  <ul>
+    <li style="background:none;"><a href="" style="background-color:transparent;background-image:url(images/finalpngs/Banner/CategoriesBarLeft.png);width:0px;padding:5px 0px;border:none;margin:none;height:22px;width:15px"></a></li>
+    <li><a href="c-3-lights.aspx">Lights</a><ul>
+        <li><a href="c-517-light-packages.aspx">Light Packages</a></li>
+        <li><a href="c-19-mhhps-bulbs.aspx">MH, HPS Bulbs</a><ul>
+            <li><a href="c-42-bulb-wattages.aspx">Wattages</a><ul>
+                <li><a href="c-440-1500-bulb.aspx">1500</a></li>
+                <li><a href="c-48-1000-bulb.aspx">1000</a></li>
+                <li><a href="c-49-750-bulb.aspx">750</a></li>
+                <li><a href="c-255-600-bulb.aspx">600</a></li>
+                <li><a href="c-280-430wattbulb.aspx">430</a></li>
+                <li><a href="c-51-400-bulb.aspx">400</a></li>
+                <li><a href="c-281-360wattbulb.aspx">360</a></li>
+                <li><a href="c-52-250-bulb.aspx">250</a></li>
+                <li><a href="c-53-150-bulb.aspx">150</a></li>
+              </ul>
+            </li>
+            <li><a href="c-41-types.aspx">Types</a><ul>
+                <li><a href="c-376-hps-bulbs.aspx">HPS</a></li>
+                <li><a href="c-45-mh-bulbs.aspx">MH</a></li>
+                <li><a href="c-46-conversion-mh-hps.aspx">Conversion (MH&lt;--&gt;HPS)</a></li>
+                <li><a href="c-47-dual-arc-hpsmh.aspx">Dual Arc (HPS+MH)</a></li>
+              </ul>
+            </li>
+            <li><a href="c-43-bulb-brands.aspx">Brands</a><ul>
+                <li><a href="c-282-digilux.aspx">Digilux</a></li>
+                <li><a href="c-439-galaxy-bulbs.aspx">Galaxy</a></li>
+                <li><a href="c-279-hortiluxbulbs.aspx">Hortilux</a></li>
+                <li><a href="c-433-lumatek-lamps.aspx">Lumatek Lamps</a></li>
+                <li><a href="c-435-lumenarc.aspx">Lumenarc</a></li>
+                <li><a href="c-405-solarmax.aspx">SolarMax</a></li>
+                <li><a href="c-269-sylvania.aspx">Sylvania</a></li>
+                <li><a href="c-461-sun-pulse.aspx">Sun Pulse</a></li>
+                <li><a href="c-414-sunlight-supply-lights.aspx">Sunlight Supply</a></li>
+                <li><a href="c-406-sunmaster.aspx">Sunmaster</a></li>
+                <li><a href="c-257-ushio-lamps.aspx">Ushio Lamps</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><a href="c-17-ballasts.aspx">Ballasts</a><ul>
+            <li><a href="c-29-wattages.aspx">Wattages</a><ul>
+                <li><a href="c-441-1500.aspx">1500</a></li>
+                <li><a href="c-35-1000.aspx">1000</a></li>
+                <li><a href="c-36-750.aspx">750</a></li>
+                <li><a href="c-37-600.aspx">600</a></li>
+                <li><a href="c-457-430.aspx">430</a></li>
+                <li><a href="c-38-400.aspx">400</a></li>
+                <li><a href="c-39-250.aspx">250</a></li>
+                <li><a href="c-481-150.aspx">150</a></li>
+              </ul>
+            </li>
+            <li><a href="c-27-digital.aspx">Digital</a></li>
+            <li><a href="c-28-magnetic.aspx">Magnetic</a><ul>
+                <li><a href="c-31-hps.aspx">HPS</a></li>
+                <li><a href="c-350-mh-magnetic-ballast.aspx">MH</a></li>
+                <li><a href="c-33-switchable.aspx">Switchable</a></li>
+                <li><a href="c-398-magnetic-accessories.aspx">Accessories</a></li>
+              </ul>
+            </li>
+            <li><a href="c-451-t5-ballasts.aspx">T5 Ballasts</a></li>
+          </ul>
+        </li>
+        <li><a href="c-18-reflectors.aspx">Reflectors</a><ul>
+            <li><a href="c-55-air-cooled.aspx">Air Cooled</a><ul>
+                <li><a href="c-383-4-inch-air-cooled-reflectors.aspx">4 Inch</a></li>
+                <li><a href="c-64-6-inch-air-cooled-reflectors.aspx">6 Inch</a></li>
+                <li><a href="c-63-8-inch-air-cooled-reflectors.aspx">8 Inch</a></li>
+                <li><a href="c-62-10-inch-air-cooled-reflectors.aspx">10 Inch</a></li>
+              </ul>
+            </li>
+            <li><a href="c-56-water-cooled.aspx">Water Cooled</a></li>
+            <li><a href="c-386-wing-reflectors.aspx">Wing Reflectors</a></li>
+            <li><a href="c-458-non-cooled-reflectors.aspx">Non-Cooled Reflectors</a></li>
+            <li><a href="c-57-parabolic.aspx">Parabolic</a></li>
+            <li><a href="c-58-built-in-ballast-reflector.aspx">Built in Ballast Reflector</a></li>
+            <li><a href="c-387-reflector-covers.aspx">Reflector Covers</a></li>
+          </ul>
+        </li>
+        <li><a href="c-20-fluorescent-lights.aspx">Fluorescent Lights</a><ul>
+            <li><a href="c-68-t5.aspx">T5</a><ul>
+                <li><a href="c-69-t5-2-foot-bulbs.aspx">2 Foot Bulbs</a></li>
+                <li><a href="c-70-t5-2-foot-fixtures.aspx">2 Foot Fixtures</a></li>
+                <li><a href="c-422-t5-3-foot-bulbs.aspx">3 Foot Bulbs</a></li>
+                <li><a href="c-421-t5-3-foot-fixtures.aspx">3 Foot Fixtures</a></li>
+                <li><a href="c-71-t5-4-foot-bulbs.aspx">4 Foot Bulbs</a></li>
+                <li><a href="c-72-t5-4-foot-fixtures.aspx">4 Foot Fixtures</a></li>
+                <li><a href="c-419-t5-accessories.aspx">T5 Accessories</a></li>
+              </ul>
+            </li>
+            <li><a href="c-73-t8.aspx">T8</a><ul>
+                <li><a href="c-75-t8-bulbs.aspx">T8 Bulbs</a></li>
+                <li><a href="c-74-t8-fixtures.aspx">T8 Fixtures</a></li>
+              </ul>
+            </li>
+            <li><a href="c-388-t12.aspx">T12</a></li>
+            <li><a href="c-76-compact-fluorescents-cfl.aspx">Compact Fluorescents (CFL)</a><ul>
+                <li><a href="c-401-small-cfls.aspx">Small CFLs</a></li>
+                <li><a href="c-400-125w-bulbs.aspx">125w Bulbs</a></li>
+                <li><a href="c-77-150w-cfl-bulbs.aspx">150w Bulbs</a></li>
+                <li><a href="c-78-200w-cfl-bulbs.aspx">200w Bulbs</a></li>
+                <li><a href="c-79-250w-cfl-bulbs.aspx">250w Bulbs</a></li>
+                <li><a href="c-501-300w-cfl-bulbs.aspx">300w Bulbs</a></li>
+                <li><a href="c-80-systems-fixtures.aspx">Systems, Fixtures</a></li>
+                <li><a href="c-81-cfl-light-stands.aspx">Light Stands</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><a href="c-389-incandescents.aspx">Incandescents</a></li>
+        <li><a href="c-21-led-lights.aspx">LED Lights</a></li>
+        <li><a href="c-22-plasma-lights.aspx">Plasma Lights</a></li>
+        <li><a href="c-23-light-hangers.aspx">Light Hangers</a></li>
+        <li><a href="c-24-light-movers.aspx">Light Movers</a></li>
+        <li><a href="c-25-timers-controllers.aspx">Timers, Controllers</a><ul>
+            <li><a href="c-84-light-timers.aspx">Timers</a></li>
+            <li><a href="c-85-light-controllers.aspx">Controllers</a></li>
+          </ul>
+        </li>
+        <li><a href="c-26-parts-accessories.aspx">Parts, Accessories</a><ul>
+            <li><a href="c-88-lightspartsaccpower-cords.aspx">Power Cords</a></li>
+            <li><a href="c-89-lightspartsaccadapters.aspx">Adapters</a></li>
+            <li><a href="c-90-lightspartsaccsockets.aspx">Sockets</a></li>
+            <li><a href="c-92-lightspartsaccflanges.aspx">Flanges</a></li>
+            <li><a href="c-91-lightspartsaccreplace-glass.aspx">Replacement Glass</a></li>
+            <li><a href="c-93-lightspartsaccother-parts.aspx">Other Parts</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="c-4-nutrients.aspx">Nutrients</a><ul>
+        <li><a href="c-100-nutrient-brands.aspx">Brands</a><ul>
+            <li><a href="c-293-bcuzz.aspx">BCuzz</a></li>
+            <li><a href="c-390-biobizz.aspx">BioBizz</a></li>
+            <li><a href="c-349-bioag.aspx">BioAg</a></li>
+            <li><a href="c-327-botanicare.aspx">Botanicare</a></li>
+            <li><a href="c-329-cutting-edge-solutions.aspx">Cutting Edge Solutions</a></li>
+            <li><a href="c-308-drearth.aspx">Dr.Earth</a></li>
+            <li><a href="c-330-dutch-master.aspx">Dutch Master</a></li>
+            <li><a href="c-357-dyna-gro.aspx">Dyna-Gro</a></li>
+            <li><a href="c-338-earth-juice.aspx">Earth Juice</a></li>
+            <li><a href="c-394-emerald-triangle.aspx">Emerald Triangle</a></li>
+            <li><a href="c-294-foxfarm.aspx">FoxFarm</a></li>
+            <li><a href="c-284-general-hydroponics.aspx">General Hydroponics</a></li>
+            <li><a href="c-312-general-organics.aspx">General Organics</a></li>
+            <li><a href="c-304-greenfuse.aspx">GreenFuse</a></li>
+            <li><a href="c-315-grotek.aspx">Grotek</a></li>
+            <li><a href="c-328-grow-more.aspx">Grow More</a></li>
+            <li><a href="c-291-humboldt-nutrients.aspx">Humboldt Nutrients</a></li>
+            <li><a href="c-305-ionic.aspx">Ionic</a></li>
+            <li><a href="c-307-maxicrop.aspx">Maxicrop</a></li>
+            <li><a href="c-311-mother-plant.aspx">Mother Plant</a></li>
+            <li><a href="c-313-naturesnectar.aspx">Nature's Nectar</a></li>
+            <li><a href="c-299-organicare.aspx">Organicare</a></li>
+            <li><a href="c-314-plant-marvel.aspx">Plant Marvel</a></li>
+            <li><a href="c-296-roots-organics.aspx">Roots Organics</a></li>
+            <li><a href="c-288-soul-synthetics.aspx">Soul Synthetics</a></li>
+            <li><a href="c-404-superthriver.aspx">Superthrive</a></li>
+            <li><a href="c-402-technaflora.aspx">Technaflora</a></li>
+            <li><a href="c-256-xtreme-gardening.aspx">Xtreme Gardening</a></li>
+          </ul>
+        </li>
+        <li><a href="c-94-synthetic-nutrients.aspx">Synthetic Nutrients</a><ul>
+            <li><a href="c-98-growth-stimulators.aspx">Growth Nutrients</a></li>
+            <li><a href="c-99-bloom-stimulators.aspx">Bloom Nutrients</a></li>
+            <li><a href="c-285-micro-nutrients.aspx">Micro Nutrients</a></li>
+            <li><a href="c-273-complete-nutrient-synthetic.aspx">Complete Nutrient</a></li>
+          </ul>
+        </li>
+        <li><a href="c-95-organic-nutrients.aspx">Organic Nutrients</a><ul>
+            <li><a href="c-271-growth-stimulators-organic.aspx">Growth Nutrients</a></li>
+            <li><a href="c-272-bloom-stimulators-organic.aspx">Bloom Nutrients</a></li>
+            <li><a href="c-270-complete-nutrient.aspx">Complete Nutrient</a></li>
+          </ul>
+        </li>
+        <li><a href="c-97-root-stimulators.aspx">Root Stimulators</a></li>
+        <li><a href="c-332-foliar-sprays.aspx">Foliar Sprays</a></li>
+        <li><a href="c-254-fish-based.aspx">Fish Based</a></li>
+        <li><a href="c-101-mycorrhizae.aspx">Mycorrhizae, Bacteria</a></li>
+        <li><a href="c-102-compost-teas.aspx">Compost Teas</a></li>
+        <li><a href="c-103-guanos.aspx">Guanos</a></li>
+        <li><a href="c-104-humates.aspx">Humates</a></li>
+        <li><a href="c-105-popular-additives.aspx">Popular Additives</a></li>
+        <li><a href="c-163-ph-up-down.aspx">pH Up, Down</a></li>
+        <li><a href="c-253-accessories.aspx">Accessories</a></li>
+      </ul>
+    </li>
+    <li><a href="c-5-co2-air-water.aspx">Air, Water, CO2</a><ul>
+        <li><a href="c-106-co2.aspx">CO2</a><ul>
+            <li><a href="c-122-co2-generators-burners.aspx">CO2 Generators, Burners</a></li>
+            <li><a href="c-120-controllers-ppm-monitors.aspx">Controllers, PPM Monitors</a></li>
+            <li><a href="c-121-co2-regulators.aspx">CO2 Regulators</a></li>
+            <li><a href="c-123-co2-tanks.aspx">CO2 Tanks</a></li>
+            <li><a href="c-125-co2accestubing.aspx">Tubing</a></li>
+            <li><a href="c-124-co2-accessories.aspx">Accessories</a></li>
+          </ul>
+        </li>
+        <li><a href="c-107-fans-ducting.aspx">Fans, Ducting</a><ul>
+            <li><a href="c-128-inline-fans.aspx">Inline Fans</a><ul>
+                <li><a href="c-129-4-inch-inline-fans.aspx">4 Inch</a></li>
+                <li><a href="c-130-6-inch-inline-fans.aspx">6 Inch</a></li>
+                <li><a href="c-131-8-inch-inline-fans.aspx">8 Inch</a></li>
+                <li><a href="c-132-10-inch-inline-fans.aspx">10 Inch</a></li>
+                <li><a href="c-133-12-inch-inline-fans.aspx">12 Inch</a></li>
+                <li><a href="c-379-14-inch-inline-fans.aspx">14 Inch</a></li>
+                <li><a href="c-378-16-inch-inline-fans.aspx">16 Inch</a></li>
+                <li><a href="c-465-18-inch-inline-fans.aspx">18 Inch</a></li>
+                <li><a href="c-466-20-inch-inline-fans.aspx">20 Inch</a></li>
+              </ul>
+            </li>
+            <li><a href="c-134-fans-by-cfm.aspx">Fans by CFM</a><ul>
+                <li><a href="c-135-less-than-200-cfm.aspx">Less than 200 CFM</a></li>
+                <li><a href="c-136-200-to-400-cfm.aspx">200 to 400 CFM</a></li>
+                <li><a href="c-137-400-to-600-cfm.aspx">401 to 600 CFM</a></li>
+                <li><a href="c-138-600-to-800-cfm.aspx">601 to 800 CFM</a></li>
+                <li><a href="c-139-800-to-1000-cfm.aspx">801 to 1000 CFM</a></li>
+                <li><a href="c-140-greater-than-1000-cfm.aspx">Greater than 1001 CFM</a></li>
+              </ul>
+            </li>
+            <li><a href="c-141-oscillating-fans.aspx">Oscillating Fans</a></li>
+            <li><a href="c-142-ducting.aspx">Ducting</a><ul>
+                <li><a href="c-143-4-inch-ducting.aspx">4 Inch</a></li>
+                <li><a href="c-144-6-inch-ducting.aspx">6 Inch</a></li>
+                <li><a href="c-145-8-inch-ducting.aspx">8 Inch</a></li>
+                <li><a href="c-146-10-inch-ducting.aspx">10 Inch</a></li>
+                <li><a href="c-147-12-inch-ducting.aspx">12 Inch</a></li>
+                <li><a href="c-148-14-inch-ducting.aspx">14 Inch</a></li>
+                <li><a href="c-500-16-inch-ducting.aspx">16 Inch</a></li>
+                <li><a href="c-322-duct-clamps.aspx">Duct Clamps</a></li>
+                <li><a href="c-396-duct-reducer.aspx">Reducers, Connectors</a></li>
+              </ul>
+            </li>
+            <li><a href="c-149-dampers-flanges.aspx">Dampers, Flanges</a></li>
+            <li><a href="c-150-mufflers.aspx">Mufflers</a></li>
+            <li><a href="c-462-axial-fans.aspx">Axial Fans</a></li>
+            <li><a href="c-463-blowers.aspx">Blowers</a></li>
+            <li><a href="c-151-fans-ducting-accessories.aspx">Accessories</a></li>
+          </ul>
+        </li>
+        <li><a href="c-108-filters-odor.aspx">Filters, Odor</a><ul>
+            <li><a href="c-153-carbon-filters.aspx">Carbon Filters</a></li>
+            <li><a href="c-154-gels-sprays.aspx">Gels, Sprays</a></li>
+            <li><a href="c-155-ozone-generators-uv.aspx">Ozone Generators, UV</a></li>
+            <li><a href="c-520-air-boxes.aspx">Air Boxes</a></li>
+            <li><a href="c-156-pre-filters.aspx">Pre-Filters</a></li>
+            <li><a href="c-431-foam-filters.aspx">Foam Filters</a></li>
+            <li><a href="c-456-other-filters.aspx">Other Filters</a></li>
+          </ul>
+        </li>
+        <li><a href="c-109-air-conditioning.aspx">Air Conditioning</a><ul>
+            <li><a href="c-437-air-conditioners.aspx">Air Conditioners</a></li>
+            <li><a href="c-321-air-conditioning-accessories.aspx">Accessories</a></li>
+          </ul>
+        </li>
+        <li><a href="c-110-dehumidifiers.aspx">Dehumidifiers</a></li>
+        <li><a href="c-111-air-water-pumps.aspx">Air, Water Pumps</a><ul>
+            <li><a href="c-158-air-pumps.aspx">Air Pumps</a></li>
+            <li><a href="c-159-water-pumps.aspx">Water Pumps</a></li>
+            <li><a href="c-160-air-water-pump-accessories.aspx">Accessories</a></li>
+          </ul>
+        </li>
+        <li><a href="c-113-ph-tds-ec-ppm.aspx">pH, TDS, EC, PPM</a><ul>
+            <li><a href="c-162-ph-testers-meters.aspx">pH Testers, Meters</a></li>
+            <li><a href="c-164-tds-ppm-ec-meters.aspx">TDS, PPM, EC Meters</a></li>
+            <li><a href="c-165-calibration-cleaning-solution.aspx">Calibration, Cleaning Solutions</a></li>
+          </ul>
+        </li>
+        <li><a href="c-114-hose-tubing-fittings.aspx">Hose, Tubing, Fittings</a><ul>
+            <li><a href="c-167-co2-tubing.aspx">CO2 Tubing</a></li>
+            <li><a href="c-168-clear-tubing.aspx">Clear Tubing</a></li>
+            <li><a href="c-169-colored-tubing.aspx">Colored Tubing</a></li>
+            <li><a href="c-170-drip-emitters.aspx">Drip Emitters</a></li>
+            <li><a href="c-171-drain-bottoms-fittings-scree.aspx">Drains, Fittings, Screens</a></li>
+            <li><a href="c-172-barbed-fittings.aspx">Barbed Fittings</a></li>
+            <li><a href="c-173-valves.aspx">Valves</a></li>
+            <li><a href="c-174-grommets.aspx">Grommets</a></li>
+            <li><a href="c-430-tubing-accessories.aspx">Tubing Accessories</a></li>
+          </ul>
+        </li>
+        <li><a href="c-115-water-chillers-heaters.aspx">Water Chillers, Heaters</a><ul>
+            <li><a href="c-318-chillers.aspx">Chillers</a></li>
+            <li><a href="c-319-heaters.aspx">Heaters</a></li>
+            <li><a href="c-320-water-chiller-heater-accessor.aspx">Accessories</a></li>
+          </ul>
+        </li>
+        <li><a href="c-117-air-stones-diffusers.aspx">Air Stones, Diffusers</a></li>
+        <li><a href="c-118-sprayers-misters.aspx">Sprayers, Misters</a><ul>
+            <li><a href="c-175-mister-fittings.aspx">Mister Fittings</a></li>
+            <li><a href="c-176-spray-bottles.aspx">Spray Bottles</a></li>
+          </ul>
+        </li>
+        <li><a href="c-391-watering-devices.aspx">Watering Devices</a></li>
+        <li><a href="c-416-humidifiers.aspx">Humidifiers</a></li>
+        <li><a href="c-525-water-filtering.aspx">Water Filtering</a><ul>
+            <li><a href="c-112-water-filters.aspx">Water Filters</a></li>
+            <li><a href="c-278-waterfiltercomponents.aspx">Components</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="c-6-grow-mediums.aspx">Soil, Media</a><ul>
+        <li><a href="c-179-coco-based.aspx">Coco Based</a></li>
+        <li><a href="c-180-rockwool.aspx">Rockwool</a></li>
+        <li><a href="c-181-hydroton.aspx">Hydroton</a></li>
+        <li><a href="c-351-soil-soilless-mixes.aspx">Soil, Soilless Mixes</a></li>
+        <li><a href="c-182-perlite-rocks-vermiculite.aspx">Perlite, Rocks, Vermiculite</a></li>
+        <li><a href="c-183-worm-castings.aspx">Worm Castings</a></li>
+        <li><a href="c-464-other-media.aspx">Other Media</a></li>
+      </ul>
+    </li>
+    <li><a href="c-7-pots-trays-containers.aspx">Pots, Trays</a><ul>
+        <li><a href="c-185-pots.aspx">Pots, Net Pots, Mesh Pots</a><ul>
+            <li><a href="c-192-round-pots.aspx">Round Pots</a></li>
+            <li><a href="c-193-square-pots.aspx">Square Pots</a></li>
+            <li><a href="c-195-fabric-bags.aspx">Fabric Bags</a></li>
+            <li><a href="c-196-coco-pots.aspx">Coco Pots</a></li>
+            <li><a href="c-197-net-pots.aspx">Net Pots</a></li>
+            <li><a href="c-198-mesh-bottom-pots.aspx">Mesh Bottom Pots</a></li>
+          </ul>
+        </li>
+        <li><a href="c-194-grow-bags.aspx">Grow Bags</a></li>
+        <li><a href="c-187-buckets.aspx">Buckets</a></li>
+        <li><a href="c-410-lids.aspx">Lids</a></li>
+        <li><a href="c-186-cut-trays.aspx">Cut Trays, Humidity Domes</a></li>
+        <li><a href="c-189-saucers.aspx">Saucers</a></li>
+        <li><a href="c-317-flood-table.aspx">Flood Tables</a></li>
+        <li><a href="c-190-reservoirs.aspx">Reservoirs</a></li>
+        <li><a href="c-191-benches-stands.aspx">Benches, Stands</a></li>
+        <li><a href="c-324-fittings-accessories.aspx">Fittings, Accessories</a></li>
+      </ul>
+    </li>
+    <li><a href="c-8-pest-control.aspx">Pests, Disease</a><ul>
+        <li><a href="c-199-pest-diseaseorganic.aspx">Organic</a></li>
+        <li><a href="c-200-air-filters.aspx">Air Filters</a></li>
+        <li><a href="c-201-insect-sprays-foggers.aspx">Insect Sprays, Foggers</a></li>
+        <li><a href="c-202-molds-fungicides.aspx">Molds, Fungicides</a></li>
+        <li><a href="c-203-atomizers.aspx">Atomizers</a></li>
+        <li><a href="c-204-surfectants-leaf-washes.aspx">Wetting Agents, Leaf Washes</a></li>
+        <li><a href="c-205-traps.aspx">Traps</a></li>
+      </ul>
+    </li>
+    <li><a href="c-9-propagation.aspx">Propagation</a><ul>
+        <li><a href="c-206-cloning-gels-solutions.aspx">Cloning Gels, Solutions</a></li>
+        <li><a href="c-208-cloning-media.aspx">Cloning Mediums</a></li>
+        <li><a href="c-209-cloning-machines.aspx">Cloning Machines</a></li>
+        <li><a href="c-210-prop-cut-trays-humidity-domes.aspx">Cut Trays, Humidity Domes</a></li>
+        <li><a href="c-211-heat-mats-thermostats.aspx">Heat Mats, Thermostats</a></li>
+        <li><a href="c-212-propagation-lighting.aspx">Lighting</a></li>
+        <li><a href="c-213-propagation-accessories-tools.aspx">Accessories, Tools</a></li>
+      </ul>
+    </li>
+    <li><a href="c-10-meters-controllers.aspx">Environment Control</a><ul>
+        <li><a href="c-214-meters.aspx">Meters</a><ul>
+            <li><a href="c-226-thermometer-hygrometer.aspx">Thermometer, Hygrometer</a></li>
+            <li><a href="c-227-ph-meters.aspx">pH Meters</a></li>
+            <li><a href="c-228-meterstds-ppm-ec-meters.aspx">TDS, PPM, EC Meters</a></li>
+            <li><a href="c-382-light-meters.aspx">Light Meters</a></li>
+            <li><a href="c-229-voltage-power-usage-meters.aspx">Voltage, Power Usage Meters</a></li>
+            <li><a href="c-230-moisture-meters.aspx">Moisture Meters</a></li>
+            <li><a href="c-231-meterscalibration-cleaning-s.aspx">Calibration, Cleaning Solutions</a></li>
+            <li><a href="c-232-water-flow-meters.aspx">Water Flow Meters</a></li>
+            <li><a href="c-233-metersreplacement-parts.aspx">Replacement Parts</a></li>
+          </ul>
+        </li>
+        <li><a href="c-215-controllers.aspx">Controllers</a><ul>
+            <li><a href="c-218-humidity.aspx">Humidity</a></li>
+            <li><a href="c-219-temperature.aspx">Temperature</a></li>
+            <li><a href="c-220-controllerslights.aspx">Lights</a></li>
+            <li><a href="c-221-controllersco2.aspx">CO2</a></li>
+            <li><a href="c-222-controllersfans.aspx">Fans</a></li>
+            <li><a href="c-223-controllersmulti-function.aspx">Multi-Function</a></li>
+            <li><a href="c-436-controller-accessories.aspx">Controller Accessories</a></li>
+          </ul>
+        </li>
+        <li><a href="c-216-timers.aspx">Timers</a><ul>
+            <li><a href="c-224-24-hour.aspx">24 Hour</a></li>
+            <li><a href="c-225-cycle-programmable.aspx">Cycle, Programmable</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="c-11-hydroponic-systems.aspx">Systems</a><ul>
+        <li><a href="c-518-systems.aspx">Systems</a></li>
+        <li><a href="c-399-system-accessories.aspx">System Accessories</a></li>
+      </ul>
+    </li>
+    <li><a href="c-12-grow-room-equip-tents.aspx">Grow Room</a><ul>
+        <li><a href="c-235-reflective-material.aspx">Reflective Material</a></li>
+        <li><a href="c-236-drying-racks.aspx">Drying Racks</a></li>
+        <li><a href="c-237-accessories-parts-tools.aspx">Accessories, Parts, Tools</a></li>
+        <li><a href="c-238-tents-by-size.aspx">Tents By Size</a><ul>
+            <li><a href="c-514-2x2.aspx">2' x 2'</a></li>
+            <li><a href="c-510-2x4.aspx">2' x 4'</a></li>
+            <li><a href="c-511-3x3.aspx">3' x 3'</a></li>
+            <li><a href="c-512-4x4.aspx">4' x 4'</a></li>
+            <li><a href="c-524-5x5.aspx">5' x 5'</a></li>
+            <li><a href="c-513-4x8.aspx">4' x 8'</a></li>
+            <li><a href="c-445-other-sizes.aspx">Other Sizes</a></li>
+          </ul>
+        </li>
+        <li><a href="c-264-tent-brands.aspx">Brands</a><ul>
+            <li><a href="c-446-growlab.aspx">GrowLab</a></li>
+            <li><a href="c-519-hydrohut.aspx">HydroHut</a></li>
+          </ul>
+        </li>
+        <li><a href="c-444-cloning-tent.aspx">Cloning Tents</a></li>
+      </ul>
+    </li>
+    <li><a href="c-13-tools.aspx">Tools, Other</a><ul>
+        <li><a href="c-243-trimmers.aspx">Trimmers, Scissors</a></li>
+        <li><a href="c-460-clips-and-ties.aspx">Clips and Ties</a></li>
+        <li><a href="c-246-stakes.aspx">Stakes, Markers, Cages</a></li>
+        <li><a href="c-249-trellis-netting.aspx">Trellis Netting</a></li>
+        <li><a href="c-247-measuring-instruments.aspx">Measuring Instruments</a></li>
+        <li><a href="c-248-tape.aspx">Tape</a></li>
+        <li><a href="c-250-books-videos.aspx">Books, Videos</a></li>
+        <li><a href="c-397-microscopes.aspx">Microscopes</a></li>
+        <li><a href="c-244-flashlights-headlamps.aspx">Flashlights, Headlamps</a></li>
+        <li><a href="c-417-cleaning-supplies.aspx">Cleaning Supplies</a></li>
+        <li><a href="c-245-safety.aspx">Safety</a></li>
+      </ul>
+    </li>
+    <li style="background:none;border:none;"><a href="" style="background-color:transparent;background-image:url(images/finalpngs/Banner/CategoriesBarRight.png);width:0px;padding:5px 0px;border:none;margin:none;height:22px;width:15px">&nbsp;</a></li>
+  </ul>
+</div>
+</div>
+
+
+<div id="MPDDiv" style="display:inline;float:none;">
+<table style="width:1024px; background-color:White; text-align:center;" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+    <td style="width:30px;">&nbsp;</td>
+    <td style="vertical-align:middle; text-align:left; width:764px;padding-top:0px"><span style="font-size:xx-small;"></span><select id="MPD" onchange="if (document.getElementById('MPD').selectedIndex > 0) document.location.href='https://www.growershouse.com/'+document.getElementById('MPD').options[document.getElementById('MPD').selectedIndex].value;" style="border-color:Green; border-bottom-color:Green; border-left-color:Green; border-right-color:Green; border-top-color:Green;background-color:White;"><option value="0" selected="True">View by brand:</option>
+  <option value="m-178-active-air.aspx">Active Air</option>
+  <option value="m-179-active-aqua.aspx">Active Aqua</option>
+  <option value="m-2-advance.aspx">Advance</option>
+  <option value="m-3-aerogarden.aspx">Aerogarden</option>
+  <option value="m-4-agroled.aspx">AgroLED</option>
+  <option value="m-182-agrosun.aspx">AgroSun</option>
+  <option value="m-271-air-box.aspx">Air Box</option>
+  <option value="m-5-air-king-fans.aspx">Air King Fans</option>
+  <option value="m-6-always-really-sharp.aspx">Always Really Sharp</option>
+  <option value="m-267-american-hydroponics.aspx">American Hydroponics</option>
+  <option value="m-7-amhydro.aspx">AmHydro</option>
+  <option value="m-274-apache-tech.aspx">Apache Tech</option>
+  <option value="m-8-atami.aspx">Atami</option>
+  <option value="m-264-atmosphere.aspx">Atmosphere</option>
+  <option value="m-262-azamax.aspx">AzaMax</option>
+  <option value="m-148-bio-green.aspx">Bio Green</option>
+  <option value="m-10-bioag.aspx">BioAg</option>
+  <option value="m-184-biobizz.aspx">BioBizz</option>
+  <option value="m-11-biowave.aspx">BioWave</option>
+  <option value="m-12-black-gold.aspx">Black Gold</option>
+  <option value="m-13-bluelab.aspx">Bluelab</option>
+  <option value="m-14-bond-manufacturing.aspx">Bond Manufacturing</option>
+  <option value="m-15-bonide.aspx">Bonide</option>
+  <option value="m-16-botanicare.aspx">Botanicare</option>
+  <option value="m-170-budswel.aspx">Budswel</option>
+  <option value="m-234-cap.aspx">C.A.P.</option>
+  <option value="m-243-cap-everlastics.aspx">C.A.P. Everlastics</option>
+  <option value="m-247-cap-harvest-sun.aspx">C.A.P. Harvest Sun</option>
+  <option value="m-244-cap-maxlume.aspx">C.A.P. MaxLume</option>
+  <option value="m-245-cap-nextgen.aspx">C.A.P. NextGen</option>
+  <option value="m-246-cap-pure-glacier.aspx">C.A.P. Pure Glacier</option>
+  <option value="m-248-cap-valuline.aspx">C.A.P. ValuLine</option>
+  <option value="m-249-cap-xtreme.aspx">C.A.P. Xtreme</option>
+  <option value="m-18-camopots-international.aspx">Camopots International</option>
+  <option value="m-158-can-filter.aspx">Can Filter</option>
+  <option value="m-19-cf-group.aspx">CF Group</option>
+  <option value="m-21-claber.aspx">Claber</option>
+  <option value="m-187-containment-solutions.aspx">Containment Solutions</option>
+  <option value="m-22-control-wizard-products.aspx">Control Wizard Products</option>
+  <option value="m-164-cutting-edge-solutions.aspx">Cutting Edge Solutions</option>
+  <option value="m-24-cwp-instruments.aspx">CWP Instruments</option>
+  <option value="m-154-dark-energy.aspx">Dark Energy</option>
+  <option value="m-26-dayton-blowers.aspx">Dayton Blowers</option>
+  <option value="m-188-dayton-fans.aspx">Dayton Fans</option>
+  <option value="m-27-deep-water-innovations.aspx">Deep Water Innovations</option>
+  <option value="m-242-digilux.aspx">Digilux</option>
+  <option value="m-28-doktor-doom.aspx">Doktor Doom</option>
+  <option value="m-29-dr-earth.aspx">Dr. Earth</option>
+  <option value="m-30-dutch-master.aspx">Dutch Master</option>
+  <option value="m-31-dyna-gro.aspx">Dyna-gro</option>
+  <option value="m-32-earth-juice.aspx">Earth Juice</option>
+  <option value="m-33-easy-grow-reflective-films.aspx">Easy Grow Reflective Films</option>
+  <option value="m-34-ec-shake.aspx">EC Shake</option>
+  <option value="m-190-eclipse.aspx">Eclipse</option>
+  <option value="m-35-eco-nutrients.aspx">Eco-Nutrients</option>
+  <option value="m-36-ecoplus.aspx">EcoPlus</option>
+  <option value="m-37-eheim.aspx">Eheim</option>
+  <option value="m-191-eiko.aspx">Eiko</option>
+  <option value="m-38-einstein.aspx">Einstein</option>
+  <option value="m-156-elicent-inline-fans.aspx">Elicent Inline Fans</option>
+  <option value="m-192-emerald-triangle.aspx">Emerald Triangle</option>
+  <option value="m-263-exhale.aspx">Exhale</option>
+  <option value="m-39-eye-hortilux.aspx">Eye Hortilux</option>
+  <option value="m-97-ez-roots.aspx">EZ Roots</option>
+  <option value="m-40-ez-clone.aspx">EZ-Clone</option>
+  <option value="m-41-fantech.aspx">Fantech</option>
+  <option value="m-42-feliz.aspx">Feliz</option>
+  <option value="m-43-fiskars.aspx">Fiskars</option>
+  <option value="m-44-flame-defender.aspx">Flame Defender</option>
+  <option value="m-45-flo-n-gro.aspx">Flo-N-Gro</option>
+  <option value="m-46-foxfarm.aspx">FoxFarm</option>
+  <option value="m-136-frequency-water.aspx">Frequency Water</option>
+  <option value="m-134-fresca-sol.aspx">Fresca Sol</option>
+  <option value="m-138-fulham.aspx">Fulham</option>
+  <option value="m-135-future-harvest-development.aspx">Future Harvest Development</option>
+  <option value="m-129-galaxy-electronic-ballasts.aspx">Galaxy Electronic Ballasts</option>
+  <option value="m-130-gardeneer.aspx">Gardeneer</option>
+  <option value="m-87-ge.aspx">GE</option>
+  <option value="m-1-general-hydroponics.aspx">General Hydroponics</option>
+  <option value="m-171-general-organics.aspx">General Organics</option>
+  <option value="m-131-geohumus.aspx">Geohumus</option>
+  <option value="m-141-global-garden-friends.aspx">Global Garden Friends</option>
+  <option value="m-140-gold-label.aspx">Gold Label</option>
+  <option value="m-139-gorilla-gardener.aspx">Gorilla Gardener</option>
+  <option value="m-137-green-air-products.aspx">Green Air Products</option>
+  <option value="m-194-green-gro.aspx">Green Gro</option>
+  <option value="m-144-greencure.aspx">GreenCure</option>
+  <option value="m-143-greenhouse.aspx">Greenhouse</option>
+  <option value="m-147-gro-pro.aspx">Gro Pro</option>
+  <option value="m-133-gro-pro-garden-products.aspx">Gro Pro Garden Products</option>
+  <option value="m-132-grodan.aspx">Grodan</option>
+  <option value="m-160-grotek.aspx">Grotek</option>
+  <option value="m-173-grow-more-hydroponics.aspx">Grow More Hydroponics</option>
+  <option value="m-195-growers-secret.aspx">Growers Secret</option>
+  <option value="m-196-growgles.aspx">Growgles</option>
+  <option value="m-198-growing-solutions-inc.aspx">Growing Solutions Inc</option>
+  <option value="m-128-growlab.aspx">GrowLab</option>
+  <option value="m-200-hd-hudson-manufacturing.aspx">H.D. Hudson Manufacturing</option>
+  <option value="m-277-haight-solid-state.aspx">Haight Solid State</option>
+  <option value="m-120-hanna-instruments.aspx">Hanna Instruments</option>
+  <option value="m-116-harvest-master.aspx">Harvest Master</option>
+  <option value="m-168-higrocorp.aspx">Higrocorp</option>
+  <option value="m-115-hm-digital.aspx">HM Digital</option>
+  <option value="m-114-horticare.aspx">HortiCare</option>
+  <option value="m-113-horti-control.aspx">Horti-Control</option>
+  <option value="m-48-humboldt-nutrients.aspx">Humboldt Nutrients</option>
+  <option value="m-108-hydor.aspx">Hydor</option>
+  <option value="m-124-hydro-innovations.aspx">Hydro Innovations</option>
+  <option value="m-165-hydrodynamics-international.aspx">Hydrodynamics International</option>
+  <option value="m-201-hydrofarm.aspx">Hydrofarm</option>
+  <option value="m-265-hydrohut.aspx">HydroHut</option>
+  <option value="m-159-hydro-logic.aspx">Hydro-Logic</option>
+  <option value="m-125-hydroton.aspx">Hydroton</option>
+  <option value="m-126-ideal-air.aspx">Ideal-Air</option>
+  <option value="m-202-intelligent-growing-systems.aspx">Intelligent Growing Systems</option>
+  <option value="m-122-intermatic.aspx">Intermatic</option>
+  <option value="m-203-international-grower-supplies.aspx">International Grower Supplies</option>
+  <option value="m-145-jungle-rain.aspx">Jungle Rain</option>
+  <option value="m-204-kessil.aspx">Kessil</option>
+  <option value="m-205-la-crosse-technology.aspx">La Crosse Technology</option>
+  <option value="m-123-leviton.aspx">Leviton</option>
+  <option value="m-127-light-rail-gualala-robotics.aspx">Light Rail (Gualala Robotics)</option>
+  <option value="m-121-lightite-films.aspx">Lightite Films</option>
+  <option value="m-206-liquid-ladybug.aspx">Liquid Ladybug</option>
+  <option value="m-207-liquid-lumens.aspx">Liquid Lumens</option>
+  <option value="m-117-little-giant.aspx">Little Giant</option>
+  <option value="m-118-lumatek-.aspx">Lumatek</option>
+  <option value="m-119-lumenarc.aspx">Lumenarc</option>
+  <option value="m-275-lumigrow.aspx">LumiGrow</option>
+  <option value="m-107-lux-products.aspx">Lux Products</option>
+  <option value="m-157-mag-drive.aspx">Mag Drive</option>
+  <option value="m-269-maxicrop.aspx">Maxicrop</option>
+  <option value="m-166-maxicrop.aspx">Maxicrop®</option>
+  <option value="m-106-maxi-jet.aspx">Maxi-Jet</option>
+  <option value="m-105-milwaukee.aspx">Milwaukee</option>
+  <option value="m-103-mondi.aspx">Mondi</option>
+  <option value="m-174-motherplant.aspx">MotherPlant</option>
+  <option value="m-102-natural-industries-inc.aspx">Natural Industries, Inc</option>
+  <option value="m-209-nature-solutions.aspx">Nature Solutions</option>
+  <option value="m-169-natures-nectar.aspx">Nature's Nectar</option>
+  <option value="m-96-nora-igs.aspx">Nora (IGS)</option>
+  <option value="m-95-oakton.aspx">Oakton</option>
+  <option value="m-94-oasis.aspx">Oasis</option>
+  <option value="m-93-odor-sok.aspx">Odor Sok</option>
+  <option value="m-151-olivias.aspx">Olivia's</option>
+  <option value="m-92-ona.aspx">Ona</option>
+  <option value="m-91-orange-guard.aspx">Orange Guard</option>
+  <option value="m-90-orca-film.aspx">Orca Film</option>
+  <option value="m-142-organic-air.aspx">Organic Air</option>
+  <option value="m-175-organicare.aspx">Organicare</option>
+  <option value="m-86-organocide.aspx">Organocide</option>
+  <option value="m-272-phantom.aspx">Phantom</option>
+  <option value="m-85-philips.aspx">Philips</option>
+  <option value="m-84-phresh-filters.aspx">Phresh Filters</option>
+  <option value="m-83-plant-marvel.aspx">Plant Marvel</option>
+  <option value="m-213-plant-revolution.aspx">Plant Revolution</option>
+  <option value="m-82-plant-success.aspx">Plant Success</option>
+  <option value="m-81-plant-warrior.aspx">Plant Warrior</option>
+  <option value="m-149-planters-pride.aspx">Planters Pride</option>
+  <option value="m-214-plantmax.aspx">Plantmax</option>
+  <option value="m-80-premier-horticulture.aspx">Premier Horticulture</option>
+  <option value="m-216-pro-pump.aspx">Pro Pump</option>
+  <option value="m-161-pure-earth.aspx">Pure Earth</option>
+  <option value="m-109-purgro-electronics.aspx">PurGro Electronics</option>
+  <option value="m-150-purple-maxx.aspx">Purple Maxx</option>
+  <option value="m-217-qualiplast.aspx">Qualiplast</option>
+  <option value="m-256-quantum.aspx">Quantum</option>
+  <option value="m-110-raindrip.aspx">Raindrip</option>
+  <option value="m-218-rainwater-hog.aspx">Rainwater Hog</option>
+  <option value="m-111-rapitest.aspx">Rapitest</option>
+  <option value="m-162-readygro.aspx">ReadyGro</option>
+  <option value="m-112-root-lowell.aspx">Root Lowell</option>
+  <option value="m-99-root-maker.aspx">Root Maker</option>
+  <option value="m-104-rooter-trapper.aspx">Rooter Trapper</option>
+  <option value="m-100-rooters.aspx">Rooters</option>
+  <option value="m-49-roots-organics.aspx">Roots Organics</option>
+  <option value="m-98-rose-city-wholesale.aspx">Rose City Wholesale</option>
+  <option value="m-79-royal-gold.aspx">Royal Gold</option>
+  <option value="m-78-safer.aspx">Safer</option>
+  <option value="m-77-sentinel.aspx">Sentinel</option>
+  <option value="m-76-serenade.aspx">Serenade</option>
+  <option value="m-75-sero-systems.aspx">Sero Systems</option>
+  <option value="m-167-sipco-industries.aspx">Sipco Industries</option>
+  <option value="m-74-smart-pots.aspx">Smart Pots</option>
+  <option value="m-219-soil-secrets.aspx">Soil Secrets</option>
+  <option value="m-72-solarmax.aspx">SolarMax</option>
+  <option value="m-71-solatel.aspx">Solatel</option>
+  <option value="m-47-soul-synthetics.aspx">Soul Synthetics</option>
+  <option value="m-70-spectralux.aspx">Spectralux</option>
+  <option value="m-220-spectrapure.aspx">SpectraPure</option>
+  <option value="m-66-spray-n-grow.aspx">Spray-N-Grow</option>
+  <option value="m-276-stealth-grow.aspx">Stealth Grow</option>
+  <option value="m-146-sucrashield.aspx">SucraShield</option>
+  <option value="m-153-sun-blocker.aspx">Sun Blocker</option>
+  <option value="m-63-sun-hut.aspx">Sun Hut</option>
+  <option value="m-222-sun-pulse.aspx">Sun Pulse</option>
+  <option value="m-62-sun-system.aspx">Sun System</option>
+  <option value="m-223-suncourt.aspx">Suncourt</option>
+  <option value="m-152-sunfilm.aspx">Sunfilm</option>
+  <option value="m-59-sungrip.aspx">SunGrip</option>
+  <option value="m-172-sunleaves.aspx">Sunleaves</option>
+  <option value="m-89-sunlight-supply-inc.aspx">Sunlight Supply, Inc.</option>
+  <option value="m-73-sunmaster.aspx">Sunmaster</option>
+  <option value="m-67-sunshine.aspx">Sunshine</option>
+  <option value="m-273-sunshine-systems.aspx">Sunshine Systems</option>
+  <option value="m-177-super-sprouter.aspx">Super Sprouter</option>
+  <option value="m-68-superthriver.aspx">Superthriver</option>
+  <option value="m-225-sure-to-grow.aspx">Sure To Grow</option>
+  <option value="m-88-sylvania.aspx">Sylvania</option>
+  <option value="m-69-tarpline.aspx">Tarpline</option>
+  <option value="m-64-technaflora.aspx">Technaflora</option>
+  <option value="m-226-terrahydro.aspx">TerraHydro</option>
+  <option value="m-270-the-guano-company.aspx">The Guano Company</option>
+  <option value="m-61-thermoflo.aspx">ThermoFlo</option>
+  <option value="m-60-titan-controls.aspx">Titan Controls</option>
+  <option value="m-58-ultra-sun-lamps.aspx">Ultra Sun Lamps</option>
+  <option value="m-57-ushio-lamps.aspx">Ushio Lamps</option>
+  <option value="m-211-uvonair.aspx">Uvonair</option>
+  <option value="m-230-venture-lighting.aspx">Venture Lighting</option>
+  <option value="m-56-verilux.aspx">Verilux</option>
+  <option value="m-55-vermicrop-organics.aspx">Vermicrop Organics</option>
+  <option value="m-54-vortex-power-fanx.aspx">Vortex Power Fanx</option>
+  <option value="m-53-waterbury-company.aspx">Waterbury Company</option>
+  <option value="m-231-whitmire.aspx">Whitmire</option>
+  <option value="m-52-wiggle-worm.aspx">Wiggle Worm</option>
+  <option value="m-232-wingscapes.aspx">Wingscapes</option>
+  <option value="m-233-xtrasun.aspx">Xtrasun</option>
+  <option value="m-51-xtreme-gardening.aspx">Xtreme Gardening</option>
+  <option value="m-50-zenport-industries.aspx">Zenport Industries</option>
+  <option value="m-176-zero-tolerance.aspx">Zero Tolerance</option>
+</select></td>
+    <td style="vertical-align:middle; text-align:right;"><span style="font-size:xx-small;"></span><table border="0" cellspacing="0" cellpadding="0" width="200">
+    <tbody><tr>
+        <td><img src="images/finalpngs/Banner/SignUpBoxLeft.png" width="15" height="30"></td>
+        <td style="white-space:nowrap;background-image:url(images/finalpngs/Banner/SignUpBoxmiddle.png); text-align:left;width:122px;"><input type="text" id="EmailNS" style="width:122px; height:26px; border-style:none;background-color:White;" value="E-mail Sign up" onfocus="this.value='';" onkeydown="if (event.keyCode == 13) document.location.href='https://www.growershouse.com/SendForm.aspx?Subject=Newsletter&amp;S1='+encodeURIComponent('Newsletter signup')+'&amp;EMail='+encodeURIComponent(document.getElementById('EmailNS').value);"></td>
+        <td style="white-space:nowrap;background-image:url(images/finalpngs/Banner/SignUpBoxmiddle.png); text-align:left;width:48px;"><input type="image" src="images/finalpngs/Banner/GoButton.png" onclick="document.location.href='https://www.growershouse.com/SendForm.aspx?Subject=Newsletter&amp;S1='+encodeURIComponent('Newsletter signup')+'&amp;EMail='+encodeURIComponent(document.getElementById('EmailNS').value);"></td>
+        <td><img src="images/finalpngs/Banner/SignUpBoxRight.png" width="15" height="30"></td>
+    </tr>
+    </tbody></table></td>
+    <td style="width:30px;">&nbsp;</td>    
+</tr>
+</tbody></table>
+</div>
+
+<table style="width:1024px; background-color:White;" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+    
+    <td style="text-align:left;"><!--Privacy Policy CONTENTS START-->
+        <!-- READ FROM DB -->
+    <div><font face="Arial"><font size="4"><strong><font size="5">Privacy Policy</font></strong> </font></font>
+    </div>
+    <div><strong></strong>
+        <br>
+        <font size="4" face="Arial">We will never, ever, under any circumstances share any infomration we collect about our customers and their transcations with anyone, period. We hate spam as much as you do. For maximum security, we do not allow our system to store credit card information. Also, we ship every package discretely unless it is clearly expressed that discrete shipping is not necessary. </font>
+    </div>
+    <div><font size="4" face="Arial"> </font>&nbsp;
+    </div>
+    <div><font face="Arial"><font size="4"><strong>How We Protect Your Data: </strong>
+        <br>
+        Whether you are shopping online or in our store, we use security measures to protect the confidentiality of personal information under our control and appropriately limit access to it. We use a variety of information security measures to protect your online transactions with us. Growers House uses encryption technology, such as Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL protects information you submit via our Web site such as ordering information including your
+        name, address and credit card number. </font></font>
+    </div>
+    <div><font size="4" face="Arial"> </font>&nbsp;
+    </div>
+    <div><font face="Arial"><font size="4"><strong>Information We Collect: 
+        <br>
+        </strong>Like many other websites, we also collect information through cookies and other automated means. Cookies are commonly used by websites to save data on your computer. The information we collect from cookies may include your IP address, browser and device characteristics, referring URLs, and a record of your interactions with our websites. We use cookies to create a more personalized shopping experience on our website. In combination with other information we collect, this cookie may facilitate the tailoring
+        of unique personalized offers based on your preferences. To help us understand and enhance our interactions with visitors to our websites, we collect data using Google web analytics. </font></font>
+    </div>
+    <div><font size="4" face="Arial"> </font>&nbsp;
+    </div>
+    <div><font size="4" face="Arial">Please let us know if there's anything we can do to make your shopping experience more enjoyable. Remember, our house is your home, and we want you to feel comfortable with us. </font>
+    </div>
+<!-- END OF DB -->
+
+
+        <!-- CONTENTS END -->
+        
+        </td>    
+      
+</tr>
+</tbody></table>
+
+
+<table style="width:1024px; background-image:url(images/finalpngs/banner/TopOfPageGradient.png); " cellpadding="0" cellspacing="0">
+<tbody><tr style="vertical-align:middle; color:White; height:15px; ">
+    <td style="text-align:center;">
+    <a href="default.aspx" class="foot">Home</a> | <a href="t-contact.aspx" class="foot"> Contact Us</a> | <a href="t-returns.aspx" class="foot"> Return Policy</a> | <a href="t-privacy.aspx" class="foot">Privacy Policy</a> <!--| <a href="t-security.aspx" class="foot">Security Policy</a>--> | <a href="sitemap2.aspx" class="foot"> Site Map</a> | <a class="foot">Copyright © 2011. All Rights Reserved. </a>
+  </td>
+</tr>
+</tbody></table>
+<br>
+<table style="width:1024px; background-color:White;" cellpadding="0" cellspacing="0">
+<tbody><tr>
+    <td style="text-align:center;">
+    <span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=Lfb7Cx2Q84nnMLDTdmh9eZ6R1UIesbCXxn4y2TAwPeN1nZwho3OGLiH"></script><br></span>
+    </td>
+
+<td>
+
+<a class="tf_upfront_badge" href="https://www.thefind.com/store/about-growershouse" title="TheFind Upfront"><img border="0" src="//upfront.thefind.com/images/badges/r/2f/9c/2f9ca163700920ec16b9ea65dd875693.png" alt="Growers House is an Upfront Merchant on TheFind. Click for info."></a>
+  <script type="text/javascript">
+    (function() {
+      var upfront = document.createElement('SCRIPT'); upfront.type = "text/javascript"; upfront.async = true;
+      upfront.src = document.location.protocol + "//upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js";
+      upfront.text = "thefind.upfront.init('tf_upfront_badge', '2f9ca163700920ec16b9ea65dd875693')";
+      document.getElementsByTagName('HEAD')[0].appendChild(upfront);
+    })();
+  </script>
+
+</td>
+
+<td>
+
+<img src="skins/Skin_1/images/seals/TransNational-Logo.jpg" width="165" height="38">
+
+</td>
+
+<td>
+
+<img src="skins/Skin_1/images/seals/amex.gif" width="45" height="38">
+</td>
+
+<td>
+
+<img src="skins/Skin_1/images/seals/mastercard_60x38.gif" width="60" height="38">
+</td>
+
+<td>
+<img src="skins/Skin_1/images/seals/visa1_60x38_a.gif" width="60" height="38">
+</td>
+<td>
+<img src="skins/Skin_1/images/seals/discover_60x38.jpg" width="60" height="38">
+</td>
+
+</tr>
+</tbody></table>
+<br>
+
+
+
+<script language="javascript" type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-26435253-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+
+    //var sPath = window.location.pathname;
+    //var sPage = sPath.substring(sPath.lastIndexOf('/') + 1);
+
+    //if (sPage.toLowerCase() != 'default.aspx')
+    //document.getElementById('MPDDiv').style.display = 'none';
+</script>
+
+
+
+ 
+
+
+</body></html>
