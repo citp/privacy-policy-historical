@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the thumbtack.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613161336id_/http%3A//www.thumbtack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thumbtack.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224223354id_/http%3A//www.thumbtack.com/privacy) for the most accurate reproduction.*
 
 # Thumbtack Privacy Policy
 
 This Privacy Policy was last updated: June 10, 2009  
 This Privacy Policy is effective as of: January 15, 2009 This Privacy Policy describes how we handle your personal information, and the measures we take to protect it and use it responsibly.
 
-Thumbtack, Inc. ("Thumbtack") is committed to protecting the privacy of your information. We recognize that privacy is of utmost importance. This Privacy Policy details certain policies implemented throughout Thumbtack governing Thumbtack's use of personal data collected through Thumbtack's website located at [www.thumbtack.com](https://web.archive.org/web/20110613161336id_/http%3A//www.thumbtack.com/www.thumbtack.com) (the "Website") and the services provided by Thumbtack on the Website ("Services"). The Privacy Policy describes how we handle your personal information in connection with your use, and our operation, of the Website and Services, including the kind of personally identifiable information that we gather and how it is used and disclosed.
+Thumbtack, Inc. ("Thumbtack") is committed to protecting the privacy of your information. We recognize that privacy is of utmost importance. This Privacy Policy details certain policies implemented throughout Thumbtack governing Thumbtack's use of personal data collected through Thumbtack's website located at [www.thumbtack.com](https://web.archive.org/web/20111224223354id_/http%3A//www.thumbtack.com/www.thumbtack.com) (the "Website") and the services provided by Thumbtack on the Website ("Services"). The Privacy Policy describes how we handle your personal information in connection with your use, and our operation, of the Website and Services, including the kind of personally identifiable information that we gather and how it is used and disclosed.
 
 If you have any questions or comments about the Privacy Policy, please contact us at [support@thumbtack.com](mailto:support@thumbtack.com). Let us know if you have any questions or comments about this Privacy Policy.
 
@@ -52,7 +52,7 @@ We collect your personal information to better understand your needs and to prov
 
 When you enter your credit card information into the Website, a credit card processor encrypts the data. Thumbtack saves none of your credit card information, and your credit card information is used for no purpose but to make the particular transaction you authorize.
 
-When you enter your credit card information into the Website, a credit card processor encrypts the data. Thumbtack deosn't save any of your credit card information.
+When you enter your credit card information into the Website, a credit card processor encrypts the data. Thumbtack doesn't save any of your credit card information.
   3. HOW AGGREGATE AND COOKIES INFORMATION ARE USED 
 
 We track user traffic patterns throughout the Website. We break down overall usage statistics according to a user's demographics, domain name, browser type, and MIME type by reading this information from the browser string (information contained in a user's browser). We sometimes track and catalog the search terms which users enter in our "Search" function. The tracking information helps us to determine which areas of our Website users like and do not like based on traffic to those areas. In addition, we track your entries, submissions, and status in connection with your participation in the Website as a Service Provider or Service User. We use information provided by your computer's cookies to track our users' interests. We do this so we can improve the website, and see which parts of it our users like most.
@@ -112,7 +112,7 @@ We may contract with various third parties for the provision and maintenance of 
 
   3. INFORMATION DISCLOSED TO LAW ENFORCEMENT OR GOVERNMENT OFFICIALS 
 
-We will disclose your personal information, such as your name, city, state, telephone number, email address, user ID history, bidding and listing history, and fraud complaints, to law enforcement or other government officials if we are required to do so by law, regulation or other government authority or otherwise in cooperation with an investigation of a governmental authority.
+We will disclose your personal information, such as your name, city, state, telephone number, email address, user ID history, quoting and listing history, and fraud complaints, to law enforcement or other government officials if we are required to do so by law, regulation or other government authority or otherwise in cooperation with an investigation of a governmental authority.
 
   4. IN THE EVENT OF A CHANGE OF CONTROL OR BANKRUPTCY 
 
