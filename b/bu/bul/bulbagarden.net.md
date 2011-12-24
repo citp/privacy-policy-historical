@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bulbagarden.net privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614003752id_/http%3A//bulbapedia.bulbagarden.net/wiki/Bulbapedia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulbagarden.net privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224010227id_/http%3A//bulbapedia.bulbagarden.net/wiki/Bulbapedia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Bulbapedia:Privacy policy - Bulbapedia, the community-driven Pokémon encyclopedia
+
+From Bulbapedia, the community-driven Pokémon encyclopedia.
 
 Bulbagarden.net recognizes the importance of protecting the privacy of all information provided by users of Bulbagarden.net. We created the following policy guidelines with a fundamental respect for our users' right to privacy. 
 
@@ -26,4 +28,4 @@ By entering Bulbagarden.net contests, users consent to the use of their name in 
 
 Bulbagarden.net may use user entered information in combination with site usage information to help display advertisements relevant to the users interest and navigation patterns. Bulbagarden.net may use cookies to help in tracking these patterns but does not store or collect any personal data in combination with user supplied information. Cookies are small text files that contain a string of alphanumeric characters. You can remove cookies by following directions provided in your Internet browser’s “help” file. For more information about cookies please visit <http://www.allaboutcookies.org/cookies/>. 
 
-Bulbagarden.net use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+Bulbagarden.net uses third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
