@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transfur.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627003738id_/http%3A//transfur.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transfur.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225002828id_/http%3A//www.transfur.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Transfur
 
