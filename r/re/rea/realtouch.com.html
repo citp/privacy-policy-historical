@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the realtouch.com privacy policy that was archived on 2011-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110531003805id_/http%3A//www.realtouch.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realtouch.com privacy policy that was archived on 2011-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111224210024id_/http%3A//www.realtouch.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <title>RealTouch Network</title>
@@ -10,6 +10,7 @@
         <meta http-equiv="Content-Language" content="en-us">
         
         
+		
         
         
         
@@ -20,6 +21,9 @@
         <link rel="shortcut icon" href="/resources/images/favicon.ico" type="image/x-icon">
             <link rel="stylesheet" href="/resources/css/style.css" type="text/css" media="screen">
             <link rel="stylesheet" href="/resources/css/coin-slider-styles.css" type="text/css" media="screen">
+			<!--[if IE 9]>
+            <link rel="stylesheet" type="text/css" href="/resources/css/ie9.css" media="screen" />
+            <![endif]-->
             <!--[if IE 8]>
             <link rel="stylesheet" type="text/css" href="/resources/css/ie8.css" media="screen" />
             <![endif]-->
@@ -29,13 +33,35 @@
             <!--[if lte IE 6]>
             <link rel="stylesheet" type="text/css" href="/resources/css/ie6.css" media="screen" />
             <![endif]-->
+			<!--[if lt IE 7]>
+        		<div style="clear: both; height: 59px; padding:0 0 0 15px; text-align: center;">
+        			<a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode" target="_blank">
+        				<img src="/resources/images/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+        			</a>
+        		</div> 
+        	<![endif]-->
             <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/resources/javascript/jquery/jquery-1.4.3.min.js"></script>
             <script type="text/javascript" src="/resources/javascript/common.js"></script>
             <script type="text/javascript" src="/resources/javascript/jquery/jquery.validate.js"></script>
             <script type="text/javascript" src="/resources/javascript/jquery/coin-slider.min.js"></script>
             <script type="text/javascript">
                 $(document).ready(function() {
-                $('#coin-slider').coinslider({ width: 980, height: 390, navigation: true, link: true, effect: 'rain', delay: 5000 });
+               		$('#coin-slider').coinslider({ width: 980, height: 390, navigation: true, link: true, effect: 'rain', delay: 5000 });  
+					$.ajax({
+            			url: "/cart/count",
+            			cache: false,
+            		  	dataType: 'json',		  	
+            		  	data: 'productId=+productId',
+            		  	success: function(data){
+            				$('.cartCount').html(data.count);
+							if (data.count == 0){
+							    $('.cartContainer').hide();
+						    } else {
+							    $('.cartContainer').show();
+						    }
+            		  	}
+            		});
+					          		
                 });
             </script>
             <script type="text/javascript">
@@ -84,24 +110,35 @@
         <div class="moduleA_right">&nbsp;</div>
     </div>
     
+	<div class="cartContainer" style="display: none;">                       
+		
+    	<span class="cartItems"><a href="/cart" title="" class="cartCount">0</a> items in your <a href="/cart" title="cart" class="cartImg"><span class="invis">Cart Image</span></a></span>|
+    	<span class="viewCart"><a href="/cart" title="View Cart">View Cart</a></span>
+	</div>
 </div>
+
 
 
 <div class="navB">
     <span class="logo">
         <a href="/" title="RealTouch Home" id="logoLink">
-            <img src="/resources/images/realtouchLogo.gif&#10;                " alt="RealTouch Logo" title="RealTouch Home"></a>
+            <img src="/resources/images/realtouchLogo.gif&#10;                " alt="RealTouch Logo" title="RealTouch"></a>
     </span>
     <span class="nav">
         <ul class="main">
             <li>
-                <a href="/" id="homeNav" title="Home">
+                <a href="/home" id="homeNav" title="Home">
                     <span class="invis">Home</span>
                 </a>
             </li>
             <li>
                 <a href="/device" id="deviceNav" title="How It Works">
                     <span class="invis">How it Works</span>
+                </a>
+            </li>
+			<li>
+                <a href="/products" id="productsNav" title="Products">
+                    <span class="invis">Products</span>
                 </a>
             </li>
             
@@ -324,6 +361,9 @@
                             <li>
                                 <a href="/device" title="How it Works" id="foot_HowItWorks">How it Works</a>
                             </li>
+							<li>
+								<a href="/products" title="Products" id="foot_Products">Products</a>
+							</li>
                             <li>
                                 <a href="/applications" title="Applications" id="foot_Apps">Applications</a>
                             </li>
@@ -373,16 +413,12 @@
                         <a href="/support/development" title="Learn More" id="foot_dev">Learn More</a>
                     </p>
                     
-                <div class="footerImage">
-                    <img src="/resources/images/foot_dev_image.gif&#10;                        " alt=""></div>
 </div>
 <div class="moduleC_footer_4">
     <h3>Business Opportunities</h3>
-    <p>Fantasy exploration is only part of the RealTouch experience. We have excellent business opportunities to explore if making money is your goal. Become a distributor and bolster your bottom line with perks like discount pricing and convenient drop shipping options. Or, become an affiliate and earn with no risk and no obligation.</p>
+    <p>Fantasy exploration is only part of the RealTouch experience. We have excellent business opportunities to explore if making money is your goal. Brick &amp; mortar retail stores can add a hot, new and innovative product and greatly increase your bottom line. Become an online reseller with low minimums and tons of marketing materials available. There are even drop shipping options if you prefer not to purchase inventory and conserve capital. Finally, become an affiliate and earn with no risk and no obligation.</p>
     <p>Click <a href="/opportunities" title="Click here to Learn More" id="foot_busOpps">here</a>
         to learn more.</p>
-        <div class="footerImage">
-            <img src="/resources/images/foot_bus_image.gif&#10;                " alt=""></div>
 </div>
 <div class="clear">&nbsp;</div>
 </div>
@@ -459,6 +495,9 @@
     //FOOTER LINKS
     $('#foot_HowItWorks').click(function(){
         _gaq.push(['_trackEvent', 'Footer', 'Click', 'Bottom Nav How It Works']);
+    });
+	$('#foot_Products').click(function(){
+        _gaq.push(['_trackEvent', 'Footer', 'Click', 'Bottom Nav Products']);
     });
     $('#foot_Apps').click(function(){
         _gaq.push(['_trackEvent', 'Footer', 'Click', 'Bottom Nav Apps']);
