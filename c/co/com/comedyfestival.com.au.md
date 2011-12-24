@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comedyfestival.com.au privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602091801id_/http%3A//www.comedyfestival.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comedyfestival.com.au privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224165505id_/http%3A//www.comedyfestival.com.au/2011/season/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Melbourne International Comedy Festival
+# Privacy Policy | Melbourne International Comedy Festival 2011
 
 ## Privacy Policy
 
@@ -14,7 +14,7 @@ On some parts of this website you are requested to submit some personal informat
 
 
 
-If you don't understand why you're being asked for information, telephone us on +613 9245 3700
+If you don't understand why you're being asked for information, telephone us on +613 9417 7711.
 
 You can contact us anytime by phone, post or email to ascertain, correct, or remove this information from our records. If you can correctly, independently verify three individual contact details from our records, we'll assume you really are you, and follow your instructions. We won't discuss any details before we've done so.
 
