@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sweetslyrics.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606082008id_/http%3A//www.sweetslyrics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetslyrics.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224061023id_/http%3A//www.sweetslyrics.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy
-
-[Home](http://www.sweetslyrics.com/) >> [Privacy](http://www.sweetslyrics.com/privacy.php)
 
 Privacy has become a major concern on the Internet. Sweetslyrics.com knows that you care how information about you is used and shared. This privacy statement describes how Sweetslyrics.com deals with your information. By visiting Sweetslyrics.com, you are accepting the practices described in this privacy statement. 
 
