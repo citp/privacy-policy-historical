@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elated.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624210819id_/http%3A//www.elated.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elated.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224093839id_/http%3A//www.elated.com/privacy) for the most accurate reproduction.*
 
 # ELATED Privacy Statement
 
@@ -7,6 +7,8 @@ We created this privacy statement in order to demonstrate our firm commitment to
 We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies to save your password so you don't have to re-enter it each time you visit the Forums, and to keep a note of the fact that you are logged in.
 
 The Forums registration form requires users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+
+Our online store requires users to give us contact information (like their name, email address and billing address). The customer's contact information is used to contact the visitor when necessary. We share customer contact information with our e-commerce provider in order to complete online payments. We do not share this information with any other third party.
 
 This site contains links to other sites. Elated Communications Ltd is not responsible for the privacy practices or the content of such Web sites.
 
