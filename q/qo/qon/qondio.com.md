@@ -1,19 +1,8 @@
-> *The following text is extracted and transformed from the qondio.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104044015id_/http%3A//admin.qondio.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qondio.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224105334id_/http%3A//admin.qondio.com/pp) for the most accurate reproduction.*
 
 # Privacy Policy - Qondio
 
-Find out more about Qondio by reading our [About Us](http://admin.qondio.com/about) page, if you haven't done so already. Or you could skip straight to the [Sign Up form](http://www.qondio.com/content.power?a=signup). 
-
-| Users|  **34,045**  
----|---  
-Intel|  **38,792**  
-Sites|  **9,825**  
-  
-
-
-Not a member yet? You're missing out on one of the most powerful website promotion resources on the web. [Sign up](http://www.qondio.com/content.power?a=signup) and join the party. 
-
-|  This privacy policy pertains to the use of the Qondio Web site at http://www.Qondio.com/ (hereinafter referred to as "Qondio"), and describes our policy regarding the handling of user-specific information. 
+This privacy policy pertains to the use of the Qondio Web site at http://www.Qondio.com/ (hereinafter referred to as "Qondio"), and describes our policy regarding the handling of user-specific information. 
 
 **Information Gathered**
 
@@ -60,13 +49,15 @@ Qondio will make utmost efforts to protect the integrity of the data held by Qon
 
 In case where Qondio has been subject to abuse by the user, or the user has harmed another user or an unidentified party, or the user has violated the Terms of Service, Qondio may cooperate with the relevant authorities and/or unilaterally publicize information, as deemed appropriate. However, Qondio will never immediately divulge private information without first attempting to resolve the issue in question directly with the user. 
 
-[About Qondio](http://admin.qondio.com/about) \- What is Qondio about? What can Qondio do for you?  
-[Share Your Intel](http://admin.qondio.com/about-intel) \- What we mean with intelligence and why we need it from you.   
-[Frequently Asked Questions](http://admin.qondio.com/faq) \- Long list of some anticipated questions, and answers.   
-[Ad Revenue Sharing](http://admin.qondio.com/revenue) \- Details about how we give you advertising revenue.   
-[When Momentum Beats Relevance](http://admin.qondio.com/tougher) \- Why promoting a site is hard and how Qondio can help.  
-[The Sweatshop in the Digital Age](http://admin.qondio.com/useless) \- Why there is something seriously wrong with the web.  
-[Powering the Community - Reward Points](http://admin.qondio.com/earning) \- What Reward Points are and how to get them.   
-[Qascade™ - The Qondio Directory](http://admin.qondio.com/directory) \- Why Qascade is such a big deal - it's unlike anything ever attempted  
-[Latest Statistics](http://admin.qondio.com/stats) \- Various stats about data in our database, organized by country and category.  
+|  | 
 
+Welcome to Qondio! Discover the awesome power this network can deliver by going to our [About](http://admin.qondio.com/about) page. Or you could skip straight to the [Sign Up form](http://www.qondio.com/content.power?a=signup). 
+
+| Users|  **35,521**  
+---|---  
+Intel|  **40,828**  
+Sites|  **9,855**  
+  
+
+
+Not a member yet? Qondio is a powerful network for making it online. If you have a website to promote, we can help. [Sign up](http://www.qondio.com/content.power?a=signup) and get in on the action. 
