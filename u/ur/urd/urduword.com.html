@@ -1,186 +1,51 @@
-<!--The following is the downloaded HTML source of the urduword.com privacy policy that was archived on 2010-09-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100928052537id_/http%3A//www.urduword.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the urduword.com privacy policy that was archived on 2011-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111224124427id_/http%3A//www.urduword.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 
-
 <meta name="description" content="Searchable English-Urdu and Urdu-English dictionary with beginner's lessons.">
 <meta name="keywords" content="urdu, urdu dictionary, urdu lessons, urdu translation, translate urdu, english to urdu dictionary, urdu to english dictionary, english urdu dictionary">
-<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
-<meta name="ProgId" content="FrontPage.Editor.Document">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 <title>UrduWord.com - Privacy Policy</title>
 
-<link rel="stylesheet" title="Default" href="/css/urduword.css">
-<link rel="stylesheet" title="Default" href="/css/tabs.css">
-<link rel="stylesheet" type="text/css" href="/css/liveUpdater.css" media="all">
+<link rel="stylesheet" title="Default" href="/css/urduword.sv3.css" media="all">
+<link rel="stylesheet" type="text/css" href="/css/redmond/jquery-ui-1.8.14.custom.css" media="all">
+<!--<link rel="stylesheet" type="text/css" href="/css/liveUpdater.css" media="all">-->
+
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.urduword.com/external/rss2.xml">
 
-<script src="/js/liveUpdater.js" type="text/javascript"></script>
-<script src="/js/keyboard.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.form.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery-ui-1.8.15.custom.min.js"></script>
+<script type="text/javascript" src="/js/urduword.global.sv3.js"></script>
+<script type="text/javascript" src="/js/keyboard.sv3.js"></script>
+<script type="text/javascript" src="/js/urduword.visualkeyboard.sv3.js"></script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=urduword&amp;async=1"></script>
 
-<script language="javascript" type="text/javascript">
-
-	function setFocusAndCursor(oTextbox) {    
-		if (oTextbox != null){
-			if (oTextbox .createTextRange) {        var r = (oTextbox.createTextRange());        r.moveStart('character', (oTextbox.value.length));        r.collapse();        r.select();    }
-			oTextbox.focus();
-		}
-	}
-
-	function showNav(strObj){
-		tner = document.getElementById("topnavEnglishRow");
-		tnrr = document.getElementById("topnavRomanRow");
-		tnnr = document.getElementById("topnavNaskhRow");
-		tnea = document.getElementById("topnavEnglishA");
-		tnra = document.getElementById("topnavRomanA");
-		tnna = document.getElementById("topnavNaskhA");
-		tnet = document.getElementById("GlobalSearchEnglishText");
-		tnrt = document.getElementById("GlobalSearchRomanText");
-		tnnt = document.getElementById("GlobalSearchNaskhText");
-		tnea.className = 'topnavOffL';
-		tnra.className = 'topnavOffL';
-		tnna.className = 'topnavOffL';	
-		//tner.style.display = 'none';
-		//tnrr.style.display = 'none';
-		//tnnr.style.display = 'none';
-		switch (strObj){
-		case 'English':
-			tner.style.display = '';
-			tnrr.style.display = 'none';
-			tnnr.style.display = 'none';
-			tnea.className                    = 'topnavOnL tabEnglish';
-			if (tnet != null)
-				setFocusAndCursor(tnet);
-			break;
-		case 'Roman':
-			tner.style.display = 'none';
-			tnrr.style.display = '';
-			tnnr.style.display = 'none';
-			tnra.className                    = 'topnavOnL tabRoman';
-			if (tnrt != null)
-				setFocusAndCursor(tnrt);
-			break;
-		case 'Naskh':
-			tner.style.display = 'none';
-			tnrr.style.display = 'none';
-			tnnr.style.display = '';
-			tnna.className                    = 'topnavOnL tabNaskh';
-			if (tnnt != null)
-				setFocusAndCursor(tnnt);
-			break;
-		case 'Alphabet':
-			tnar.style.display              = '';
-			tnaa.className                    = 'topnavOnL tabAlphabet';
-			break;
-		case 'Daily':
-			tndr.style.display              = '';
-			tnda.className                    = 'topnavOnL tabDaily';
-			break;
-		default:
-			alert ('Invalid navigation selection.');
-		} // end switch
-	}
+<script>
+$(document).ready(function(event){
+        initializeVisualKeyboard('#keyboard_placeholder');    // visual keyboard
+		initializeFormDialog('#modal_dialog');                // create a modal dialog for forms
+        addthis.init();                                       // load the AddThis widget
+        convertFormToAjax('form.popupform', '#modal_dialog'); // redirect popupforms to the modal dialog
+		$("a.popuplink").attr('href',function(index,attr){ return "javascript:showContributionFormFromFile('" + attr + "')" }); // redirect popuplinks to the modal dialog
+        
+        preprocessDynamicElements(); // update dynamic elements throughout the document
+ });
+// turn off autocomplete 
+function autocomplete(var1,var2, var3){ /* do nothing */ }
 </script>
 
-<script language="JavaScript1.2" type="text/javascript">
-<!--
-
-var keybdShow = false;
-var hasFocus  = false;
-var currentTextBoxControl = null;
-var isKeyboardOrdered = true;
-
-// show ordered keys instead of keyboard layout
-function setKeyboardOrdered(keyboardOrdered){
-	isKeyboardOrdered = keyboardOrdered;
-	keybds = document.getElementById("keyboardshifted");
-	keybdu = document.getElementById("keyboardunshifted");
-	keybdo = document.getElementById("keyboardordered");
-	keybds.style.display = 'none';
-	keybdu.style.display = isKeyboardOrdered ? 'none' : '';
-	keybdo.style.display = isKeyboardOrdered ? '' : 'none';
-}
-
-// show ordered keys instead of keyboard layout
-function getKeyboardOrdered(){
-	return isKeyboardOrdered;
-}
-
-// virtual keyboard typing
-function keyboardType(key){
-	if (currentTextBoxControl != null){
-		keyCode = key.charCodeAt(0);
-		keyboardFromKeyCode(currentTextBoxControl, keyCode);
-		currentTextBoxControl.focus();
-	}
-}
-
-function keyboardDisplay(show, textBoxControl){
-	if (show){
-		if (textBoxControl !== undefined){
-			currentTextBoxControl = textBoxControl;
-		}
-		hasFocus = true;
-		setVisib();
-	}else{
-		hasFocus = false;
-		setTimeout('setVisib()',300);
-	} // endif
-} // end keyboardDisplay()
-
-function keyboardDisplayTemporary(show){
-	if (show){
-		keybdShow = true;
-		setVisib();
-	}else{
-		keybdShow = false;
-		setTimeout('setVisib()',300);
-	} // endif
-} // end keyboardDisplay()
-
-function setVisib(){
-	keybd = document.getElementById("keyboard");
-	keybd.style.display = (keybdShow || hasFocus) ? '' : 'none';
-	if (hasFocus){
-		keybd.className = "keyboard";
-	}else{
-		keybd.className = "keyboardtemporary";
-	}
-} // end setVisib
-
-function selectkeybd1(e){
-	keybds = document.getElementById("keyboardshifted");
-	keybdu = document.getElementById("keyboardunshifted");
-	keybdo = document.getElementById("keyboardordered");
-	var key = e ? e.which : event.keyCode;
-	if (isKeyboardOrdered){
-		keybds.style.display = 'none';
-		keybdu.style.display = 'none';
-		keybdo.style.display = '';
-	}
-	else if ( key == 16 ){ // if key is SHIFT
-		keybds.style.display = '';
-		keybdu.style.display = 'none';
-		keybdo.style.display = 'none';
-	} // endif
-}
-
-function selectkeybd2(e){
-	var key = e ? e.which : event.keyCode;
-	// if key is SHIFT
-	if ( key == 16 && !isKeyboardOrdered ){
-		keybds.style.display = 'none';
-		keybdu.style.display = '';
-		keybdo.style.display = 'none';
-	} // endif
-}
-
-document.onkeydown = selectkeybd1;
-document.onkeyup   = selectkeybd2;
-
-//-->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8672405-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 </script>
 
 </head>
@@ -191,7 +56,7 @@ document.onkeyup   = selectkeybd2;
 		<tbody><tr>
 			<td nowrap="">
 			<a href="/" class="uw_siteheading"><b>UrduWord.com</b></a><br><a href="/" class="uw_sitesubheading">English-Urdu Dictionary</a><br><a href="/" class="uw_sitesubheading"> and Lessons</a></td>  
-			<td align="right" nowrap="">
+			<td align="right" nowrap="" class="noprint">
 			<script type="text/javascript"><!--
 			google_ad_client = "pub-4278910616456211";
 			/* UrduWord.com Leaderboard */
@@ -221,19 +86,26 @@ document.onkeyup   = selectkeybd2;
 </td></tr></tbody></table>
 		<table width="990" cellpadding="0" cellspacing="0" class="globalsearcharea" align="center">                                                                                                       
 			<tbody><tr>      
-					<td width="100%"><table border="0" cellspacing="0" cellpadding="0" class="globalsearchbox">      
+					<td width="100%"><table cellspacing="0" cellpadding="0" class="globalsearchbox">      
 			<tbody><tr>      
-				<td nowrap="" class="globalsearchheader">&nbsp;&nbsp; I want to translate:&nbsp;&nbsp;      
+				<td nowrap="" class="globalsearchheader">&nbsp; I want to translate:&nbsp;&nbsp;      
 				<a href="javascript:void(0)" onclick="showNav('English')" id="topnavEnglishA" class="topnavOnL tabEnglish">      
 				English to Urdu</a>      
 				<a href="javascript:void(0)" onclick="showNav('Naskh')" id="topnavNaskhA" class="topnavOffL">      
 				Urdu Script to English</a>      
 				<a href="javascript:void(0)" onclick="showNav('Roman')" id="topnavRomanA" class="topnavOffL">      
 				Roman Urdu to English</a>&nbsp;      
-				</td><td valign="bottom">      
-						<!-- AddThis Button BEGIN -->               
-						<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=urduword"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=urduword"></script>               
-						<!-- AddThis Button END -->               
+				</td><td valign="bottom" class="uw_sharewidget" nowrap="">      
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_preferred_3"></a>
+<a class="addthis_button_preferred_4"></a>
+<a class="addthis_button_compact"></a>
+<a class="addthis_counter addthis_bubble_style"></a>
+</div>
+<!-- AddThis Button END -->
 </td>      
 			</tr>      
 			<tr>      
@@ -269,7 +141,7 @@ document.onkeyup   = selectkeybd2;
 			<tr id="topnavNaskhRow" style="display: none;">      
 				<td class="topnavNaskh" align="center">      
 				<table><tbody><tr><td>Translate Urdu script:</td>      
-				<td><input type="text" name="Naskh" size="15" value="" class="urdutext_edit globalsearchtextbox" id="GlobalSearchNaskhText" onkeypress="if (typeof(urduKeyboardLoaded) != 'undefined' &amp;&amp; urduKeyboardLoaded){return keyboard(this,event)}" onkeydown="if (typeof(urduKeyboardLoaded) != 'undefined' &amp;&amp; urduKeyboardLoaded){return keyboard2(this,event)}" onfocus="keyboardDisplay(true, this)" onblur="keyboardDisplay(false)" onmouseover="keyboardDisplayTemporary(true)" onmouseout="keyboardDisplayTemporary(false)"></td>      
+				<td><input type="text" name="Naskh" size="15" value="" class="urdutext_edit globalsearchtextbox" id="GlobalSearchNaskhText"></td>      
 				<td><input type="submit" value="Translate to English" class="globalsearchbutton"></td>      
 				</tr></tbody></table>      
 				</td>      
@@ -289,8 +161,7 @@ document.onkeyup   = selectkeybd2;
 <table border="0" width="990" cellspacing="0" cellpadding="0" align="center">      
   <tbody><tr>      
     <td width="100%" class="uw_pagetitle">Privacy Policy</td>      
-    <td nowrap="" class="uw_pagetitleright">       
-	<a target="_blank" href="/privacy.php?output=print"><img border="0" src="images/icons/print_white.jpg" width="16" height="16" align="absmiddle"> Print Page</a>&nbsp;</td>      
+    <td nowrap="" class="uw_pagetitleright"> &nbsp;</td>      
   </tr>      
 </tbody></table>      
 <!-- End Page Title -->      
@@ -361,8 +232,8 @@ practices change at some time in the future we will post the policy changes to
 our Web site to notify you of these changes.</p><table width="0"><tbody><tr><td>&nbsp; </td></tr></tbody></table>
 		</td>      
               
-        <td width="10" nowrap="">&nbsp;</td>      
-        <td width="160" nowrap="" rowspan="1" class="adrightbar" valign="top">      
+        <td width="10" nowrap="" class="noprint">&nbsp;</td>      
+        <td width="160" nowrap="" rowspan="1" class="adrightbar noprint" valign="top">      
    
    <table cellspacing="0" cellpadding="0" class="tableframe" width="100%"><tbody><tr><td align="center">      
 <script type="text/javascript"><!--
@@ -396,186 +267,16 @@ google_ad_height = 600;
 <img border="0" src="images/icons/rss.png" width="36" height="14" align="top"></a>&nbsp;<p>UrduWord.com is an online      
 English-to-Urdu      
 and Urdu-to-English dictionary with lessons.<br>      
-UrduWord.com 2000-2010.      
+UrduWord.com 2000-2011.      
 <a href="/privacy.php">Privacy Policy</a>.<br>      
 &nbsp;</p>      
     </td>      
   </tr>      
 </tbody></table>      
-      
-      
-<div class="keybdholder">
-<table border="0" cellspacing="0" cellpadding="0" class="keyboardtemporary" id="keyboard" style="display:none" align="center" onclick="keyboardDisplay(true)">
-			<tbody><tr>
-				<td class="keyboardtitle">Urdu Keyboard</td>
-				<td class="keyboardtitle"><a href="javascript:void(0);" onclick="setKeyboardOrdered(!getKeyboardOrdered())"><b>Toggle Layout</b></a></td>
-				<td class="keyboardtitle"><a href="javascript:void(0);" onclick="keyboardType('\b');"><b>Backspace</b></a></td>
-			</tr>
-			<tr>
-				<td colspan="3">
-				<table border="0" width="100%" cellspacing="0" cellpadding="0">
-					<tbody><tr id="keyboardordered">
-						<td align="center">
-						<table border="0" width="100%" cellpadding="1" cellspacing="1">
-							<tbody><tr>
-								<td align="center" class="keyboardkey" onclick="keyboardType('E');">ذ <span class="keyboarden">e</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('R');">ڈ <span class="keyboarden">R</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('r');">د <span class="keyboarden">r</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('P');">خ <span class="keyboarden">P</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('p');">ح <span class="keyboarden">P</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('O');">چ <span class="keyboarden">O</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('o');">ج <span class="keyboarden">o</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('T');">ث <span class="keyboarden">T</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('t');">ٹ <span class="keyboarden">t</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('u');">ت <span class="keyboarden">u</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('y');">پ <span class="keyboarden">y</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('i');">ب <span class="keyboarden">i</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('J');">آ <span class="keyboarden">J</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('j');">ا <span class="keyboarden">j</span></td>
-							</tr>
-							</tbody></table>
-						
-						<table border="0" width="100%" id="table10" cellpadding="1" cellspacing="1">
-							<tbody><tr>
-								<td align="center" class="keyboardkey" onclick="keyboardType('F');">ں <span class="keyboarden">F</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('f');">ن <span class="keyboarden">f</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('a');">م <span class="keyboarden">a</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('g');">ل <span class="keyboarden">g</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('K');">گ <span class="keyboarden">K</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('k');">ک <span class="keyboarden">k</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('z');">ق <span class="keyboarden">z</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('x');">ف <span class="keyboarden">x</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('n');">غ <span class="keyboarden">n</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('m');">ع <span class="keyboarden">m</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('Q');">ظ <span class="keyboarden">Q</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('q');">ط <span class="keyboarden">q</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('W');">ض <span class="keyboarden">W</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('w');">ص <span class="keyboarden">w</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('b');">ش <span class="keyboarden">b</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('v');">س <span class="keyboarden">v</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('A');">ژ <span class="keyboarden">A</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('S');">ز <span class="keyboarden">S</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('D');">ڑ <span class="keyboarden">D</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('d');">ر <span class="keyboarden">d</span></td>
-							</tr>
-							</tbody></table>
-						<table border="0" width="100%" id="table11" cellpadding="1" cellspacing="1">
-							<tbody><tr>
-								<td align="center" class="keyboardkey" onclick="keyboardType('c');">ے <span class="keyboarden">c</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('L');">ي <span class="keyboarden">L</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('l');">ی <span class="keyboarden">l</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('C');">ۓ <span class="keyboarden">C</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('N');">ئ <span class="keyboarden">N</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('B');">ؤ <span class="keyboarden">B</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('G');">ۂ <span class="keyboarden">G</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('H');">ء <span class="keyboarden">H</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('U');">ۃ <span class="keyboarden">U</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('e');">ھ <span class="keyboarden">e</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('h');">ہ <span class="keyboarden">h</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('s');">و <span class="keyboarden">s</span></td>
-							</tr>
-						</tbody></table>
-						</td>
-					</tr>
-					<tr id="keyboardshifted" style="display:none">
-						<td align="center">
-						<table border="0" width="100%" cellpadding="1" cellspacing="1">
-							<tbody><tr>
-								<td width="10%" align="center" class="keyboardkey" onclick="keyboardType('Q');">ظ <span class="keyboarden">Q</span></td>
-								<td width="10%" align="center" class="keyboardkey" onclick="keyboardType('W');">ض <span class="keyboarden">W</span></td>
-								<td width="10%" align="center" class="keyboardkey" onclick="keyboardType('E');">ذ <span class="keyboarden">E</span></td>
-								<td width="10%" align="center" class="keyboardkey" onclick="keyboardType('R');">ڈ <span class="keyboarden">R</span></td>
-								<td width="10%" align="center" class="keyboardkey" onclick="keyboardType('T');">ث <span class="keyboarden">T</span></td>
-								<td width="10%" align="center" class="keyboardkey" onclick="keyboardType('Y');">ّ <span class="keyboarden">Y</span></td>
-								<td width="10%" align="center" class="keyboardkey" onclick="keyboardType('U');">ۃ <span class="keyboarden">U</span></td>
-								<td width="10%" align="center" class="keyboardkey" onclick="keyboardType('I');">ـ <span class="keyboarden">I</span></td>
-								<td width="10%" align="center" class="keyboardkey" onclick="keyboardType('O');">چ <span class="keyboarden">O</span></td>
-								<td width="10%" align="center" class="keyboardkey" onclick="keyboardType('P');">خ <span class="keyboarden">P</span></td>
-							</tr>
-							</tbody></table>
-						
-						<table border="0" width="100%" id="table10" cellpadding="1" cellspacing="1">
-							<tbody><tr>
-								<td align="center" class="keyboardkey" onclick="keyboardType('A');">ژ <span class="keyboarden">A</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('S');">ز <span class="keyboarden">S</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('D');">ڑ <span class="keyboarden">D</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('F');">ں <span class="keyboarden">F</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('G');">ۂ <span class="keyboarden">G</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('H');">ء <span class="keyboarden">H</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('J');">آ <span class="keyboarden">J</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('K');">گ <span class="keyboarden">K</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('L');">ي <span class="keyboarden">L</span></td>
-							</tr>
-							</tbody></table>
-												<table border="0" width="100%" id="table11" cellpadding="1" cellspacing="1">
-							<tbody><tr>
-								<td align="center" class="keyboardkey" width="14%">&nbsp;</td>
-								<td align="center" class="keyboardkey" width="14%">&nbsp;</td>
-								<td align="center" class="keyboardkey" width="14%" onclick="keyboardType('C');">ۓ <span class="keyboarden">C</span></td>
-								<td align="center" class="keyboardkey" width="14%">&nbsp;</td>
-								<td align="center" class="keyboardkey" width="14%" onclick="keyboardType('B');">ؤ <span class="keyboarden">B</span></td>
-								<td align="center" class="keyboardkey" width="14%" onclick="keyboardType('N');">ئ <span class="keyboarden">N</span></td>
-								<td align="center" class="keyboardkey" width="14%">&nbsp;</td>
-							</tr>
-						</tbody></table>
-						</td>
-					</tr>
-					<tr id="keyboardunshifted" style="display:none">
-						<td align="center">
-						<table border="0" width="100%" cellpadding="1" cellspacing="1">
-							<tbody><tr>
-								<td width="10%" align="center" class="keyboardkey" onclick="keyboardType('q');">ط <span class="keyboarden">Q</span></td>
-								<td width="10%" align="center" class="keyboardkey" onclick="keyboardType('w');">ص <span class="keyboarden">W</span></td>
-								<td width="10%" align="center" class="keyboardkey" onclick="keyboardType('e');">ھ <span class="keyboarden">E</span></td>
-								<td width="10%" align="center" class="keyboardkey" onclick="keyboardType('r');">د <span class="keyboarden">R</span></td>
-								<td width="10%" align="center" class="keyboardkey" onclick="keyboardType('t');">ٹ <span class="keyboarden">T</span></td>
-								<td width="10%" align="center" class="keyboardkey" onclick="keyboardType('y');">پ <span class="keyboarden">Y</span></td>
-								<td width="10%" align="center" class="keyboardkey" onclick="keyboardType('u');">ت <span class="keyboarden">U</span></td>
-								<td width="10%" align="center" class="keyboardkey" onclick="keyboardType('i');">ب <span class="keyboarden">I</span></td>
-								<td width="10%" align="center" class="keyboardkey" onclick="keyboardType('o');">ج <span class="keyboarden">O</span></td>
-								<td width="10%" align="center" class="keyboardkey" onclick="keyboardType('p');">ح <span class="keyboarden">P</span></td>
-							</tr>
-						</tbody></table><table border="0" width="100%" id="table10" cellpadding="1" cellspacing="1">
-							<tbody><tr>
-								<td align="center" class="keyboardkey" onclick="keyboardType('a');">م <span class="keyboarden">A</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('s');">و <span class="keyboarden">S</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('d');">ر <span class="keyboarden">D</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('f');">ن <span class="keyboarden">F</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('g');">ل <span class="keyboarden">G</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('h');">ہ <span class="keyboarden">H</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('j');">ا <span class="keyboarden">J</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('k');">ک <span class="keyboarden">K</span></td>
-								<td align="center" class="keyboardkey" onclick="keyboardType('l');">ی <span class="keyboarden">L</span></td>
-							</tr>
-						</tbody></table><table border="0" width="100%" id="table11" cellpadding="1" cellspacing="1">
-							<tbody><tr>
-								<td align="center" class="keyboardkey" width="14%" onclick="keyboardType('z');">ق <span class="keyboarden">Z</span></td>
-								<td align="center" class="keyboardkey" width="14%" onclick="keyboardType('x');">ف <span class="keyboarden">X</span></td>
-								<td align="center" class="keyboardkey" width="14%" onclick="keyboardType('c');">ے <span class="keyboarden">C</span></td>
-								<td align="center" class="keyboardkey" width="14%" onclick="keyboardType('v');">س <span class="keyboarden">V</span></td>
-								<td align="center" class="keyboardkey" width="14%" onclick="keyboardType('b');">ش <span class="keyboarden">B</span></td>
-								<td align="center" class="keyboardkey" width="14%" onclick="keyboardType('n');">غ <span class="keyboarden">N</span></td>
-								<td align="center" class="keyboardkey" width="14%" onclick="keyboardType('m');">ع <span class="keyboarden">M</span></td>
-							</tr>
-						</tbody></table></td>
-					</tr>
-				</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-</div>	<script language="javascript">
-		<!--
-			keyboardDisplay(false);
-		//-->
-		</script>      
-      
-<script src="/js/ga.js" type="text/javascript"></script>      
-<script type="text/javascript">      
-try {      
-var pageTracker = _gat._getTracker("UA-8672405-1");      
-pageTracker._trackPageview();      
-} catch(err) {}</script>      
-      
-      
-      
-</body></html>
+
+
+<div id="loading_window" class="loading" style="display: none;"><div align="center"><br><br><br><img src="/images/icons/ajax-loader.gif"><br>Loading…<br><br><br></div></div>
+<div id="keyboard_placeholder"></div>
+
+
+<div class="ui-dialog ui-widget ui-widget-content ui-corner-all drop-shadow ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-modal_dialog" style="display: none; z-index: 1000; outline: 0px; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-modal_dialog">Modal Dialog</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="modal_dialog" class="ui-dialog-content ui-widget-content"></div><div class="ui-resizable-handle ui-resizable-n"></div><div class="ui-resizable-handle ui-resizable-e"></div><div class="ui-resizable-handle ui-resizable-s"></div><div class="ui-resizable-handle ui-resizable-w"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" style="z-index: 1001;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 1002;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 1003;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 1004;"></div></div></body></html>
