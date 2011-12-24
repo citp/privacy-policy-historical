@@ -1,12 +1,42 @@
-> *The following text is extracted and transformed from the theamericandishtv.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118113022id_/http%3A//www.theamericandishtv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theamericandishtv.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224153756id_/http%3A//www.theamericandishtv.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The American Satellite DISH Television Company
 
-Order by Phone: 1-888-209-8226  
-email us at : support@theamericandishtv.com   
-Promo code: FB1010
+**TV Choices - Dish Network Privacy Policy**  
+Order by Phone: 0-000-000-0000  
+Dish Network Customer Service Number - 1-800-333-3474
 
-[](https://web.archive.org/web/20101118113022id_/http%3A//www.theamericandishtv.com/order1.php)
+Different TV. Different Provider. Same Content.
+
+  * Buy today for only $64.99/month
+  * Watch over 230 channels
+  * Blazing network speeds
+  * State of the art fiber optics
+  * Tons of On Demand options allowing you to watch what you want.
+
+
+
+fill out the form to your left to Order Verizon FiOS or call us at: 0-000-000-0000
+
+  * Buy today for only $24.99/month
+  * Pick One Premium (HBO, Cinemax, or Starz)
+  * Blockbuster Free for 3 months!
+  * Dish Platinum Free for 3 months!
+  * Free install in up to 6 rooms!
+
+
+
+fill out the form to your left to Order Dish Network or call us at: 0-000-000-0000
+
+  * Buy today for only $29.99/month!
+  * 400 of the newest movie releases with DirecTV Cinema!
+  * Instant access to over 6000 shows!
+  * More than 285 Channels!
+  * Whole-Home DVR Service!
+
+
+
+fill out the form to your left to Order DirecTV or call us at: <0-000-000-0000>label>
 
 ## Privacy Policy
 
