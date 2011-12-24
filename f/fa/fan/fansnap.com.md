@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fansnap.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127052421id_/http%3A//www.fansnap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansnap.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224105351id_/http%3A//www.fansnap.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FanSnap - Ticket Search
 
-_Effective Date: February 19, 2009_
+_Effective Date: December 21, 2011_
 
 [](http://www.truste.org/ivalidate.php?url=www.fansnap.com&sealid=101)
 
@@ -38,7 +38,7 @@ If you contact us, we also will collect the information you provide that details
 
 #### What Organization Is Collecting the Information
 
-FanSnap, Inc., a Delaware corporation, operates and manages the FanSnap Site, www.fansnap.com. More information about FanSnap may be found at the About FanSnap links located on the bottom of each page of the FanSnap Site.
+NexTag, Inc., a Delaware corporation, through its FanSnap unit, operates and manages the FanSnap Site, www.fansnap.com. More information about FanSnap may be found at the About FanSnap links located on the bottom of each page of the FanSnap Site.
 
 #### How Your Information Is Protected
 
@@ -77,7 +77,7 @@ We post customer testimonials on our web site which may contain personally ident
 With the exception of emails confirming registration, emails that include information about your account and emails relating directly to a purchase you have made from a third-party ticket provider to which you were transferred from the FanSnap Site, we will not send you any emails unless you opt in to receive communications from us. If you opt in to receive communications from us, you will receive information we believe will be of use and interest to you including, for example:
 
   * information regarding upcoming live events and ticket purchase opportunities;
-  * information about FanSnap promotions, sweepstakes, programs, etc., and other special offers that we think you will find valuable; and 
+  * information about FanSnap promotions, sweepstakes, programs, etc., and other special offers that we think you will find valuable; and
   * updates regarding functionality changes to the FanSnap Site and our services.
 
 
@@ -116,10 +116,10 @@ We collect, process, store, disclose and dispose of personal information that fa
 
 #### Contact Us
 
-If you have questions or concerns regarding your privacy or security on the FanSnap Site, feel free to Contact Us by email ([privacy@fansnap.com](mailto:privacy@fansnap.com)) or postal mail at 120 Hawthorne Avenue, Suite 102, Palo Alto, California 94301. 
+If you have questions or concerns regarding your privacy or security on the FanSnap Site, feel free to Contact Us by email ([privacy@fansnap.com](mailto:privacy@fansnap.com)) or postal mail at 2955 Campus Dr., Suite 300, San Mateo, CA 94403. 
 
 #### TRUSTe
 
-FanSnap, Inc. is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site (www.fansnap.com) wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.
+NexTag, Inc. is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site (www.fansnap.com) wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact us at [privacy@fansnap.com](mailto:privacy@fansnap.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
