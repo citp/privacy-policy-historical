@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ygoy.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616101828id_/http%3A//www.ygoy.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ygoy.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224101443id_/http%3A//www.ygoy.com/privacy_policy.html) for the most accurate reproduction.*
 
 # YGOY - Privacy Policy
 
@@ -50,4 +50,4 @@ We shall frequently be updating our Privacy policy (this page). It is binding up
 **Links**  
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
-_© 2011 Ygoy.com , All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited._
+_� 2011 Ygoy.com , All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited._
