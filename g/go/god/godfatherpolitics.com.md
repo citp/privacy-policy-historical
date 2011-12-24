@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the godfatherpolitics.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616164838id_/http%3A//godfatherpolitics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godfatherpolitics.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224183127id_/http%3A//godfatherpolitics.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Godfather Politics
+# Privacy - Godfather Politics | Godfather Politics
 
 ### Privacy Policy for www.godfatherpolitics.com
 
-At www.godfatherpolitics.com the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.visiontoamerica.org and how it is used.
+At www.godfatherpolitics.com the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.godfatherpolitics.com and how it is used.
 
  **Log Files**
 
