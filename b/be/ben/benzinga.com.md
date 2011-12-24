@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benzinga.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604160451id_/http%3A//www.benzinga.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benzinga.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224024236id_/http%3A//www.benzinga.com/page/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Benzinga.com
 
@@ -28,7 +28,7 @@ Any and all information that we collect from you may be used in any of the follo
 
 • To process transactions.
 
-• To administer a contest, promotion, survey or other site feature
+• To administer a contest, promotion, survey or other site feature.
 
 • To send periodic e-mails. (The e-mail address that you provide to Benzinga may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, and/or related product or service information, etc.)
 
@@ -64,7 +64,7 @@ As part of the California Online Privacy Protection Act, all users of our site m
 
 **CHILDRENS ONLINE PRIVACY PROTECTION ACT COMPLIANCE**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 **ONLINE PRIVACY POLICY**
 
