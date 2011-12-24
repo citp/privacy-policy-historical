@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the atmel.com privacy policy that was archived on 2011-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110521205552id_/http%3A//www2.atmel.com/About/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the atmel.com privacy policy that was archived on 2011-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111224143555id_/http%3A//www2.atmel.com/About/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="loading ready js"><head>
     
@@ -11,25 +11,30 @@
 
     
 
+
+    <!-- Forces IE to use the latest browser mode -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+
     <link rel="shortcut icon" href="/Images/favicon.ico" type="/image/vnd.microsoft.icon">
     <link rel="stylesheet" href="/System/Styles/style.css" type="text/css" media="screen">
     <link rel="stylesheet" href="/System/Styles/print.css" type="text/css" media="print">
+    <link rel="stylesheet" href="/ProductFinder/ProductFinder/css/finder.css" type="text/css">
 
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-2587932-1']);
-	  //LIVE PRODUCTION ONLY ... _gaq.push(['_setAccount', 'UA-2587932-1']);
-      _gaq.push(['_setDomainName', '.atmel.com']);
-      _gaq.push(['_addIgnoredRef', '.atmel.com']);
-      _gaq.push(['_trackPageview']);
-
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-    </script>
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-2587932-12']);
+          _gaq.push(['_setDomainName', '.atmel.com']);
+          _gaq.push(['_setAllowLinker', true]);
+          _gaq.push(['_setAllowAnchor', true]);
+          _gaq.push(['_trackPageview']);
+          _gaq.push(['_trackPageLoadTime']);
+         (function() {
+              var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+              ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+         })();
+     </script>
 
     <script type="text/javascript">
     //keeps mootools error from popping up... doesn't do anything if other js error...
@@ -42,133 +47,71 @@
     }
     </script>
 
-<script><!--// This is for Advanced Search flyout - Thomas Orthbandt @ Apr. 25 2011
-
-	function alertSearch() 
-	{
-		if (document.searchForm.site.value == "") 
-		{
-			var tmp = document.searchForm.target.value;
-			$('#target').val(tmp);
-			//alert ("Please select the search type.");
-			document.getElementById("search-menu").style.display = "block";
-			document.getElementById("search-menu").style.margin = "0";
-			document.getElementById("search-menu").style.padding = "10px";
-			document.getElementById("search-menu").style.opacity = "0.95";
-			document.getElementById("submit").style.background = "url('/images/search_submit_button_on.png')";
-			return false;
-		}
-	}
-
-	function goSearch(thisValue) 
-	{
-		var q, finalSearchString;
-		if (document.searchForm.target.value == "")
-		{
-			alert ("Please enter a keyword and try your search again!");
-			return false;
-		} 
-		else 
-		{
-			q=document.searchForm.target.value;
-			$('#site').val(thisValue);
-			if (thisValue=='all') 
-			{
-				finalSearchString = "http://www.atmel.com/dyn/general/search_results.asp?source=cms&cx=008864967094569334548:eyfn6tp4lcm&cof=FORID:9&ie=UTF-8&q=" + q;
-			} 
-			
-			else if (thisValue=='adv_search')
-			{
-				finalSearchString ="http://www.atmel.com/dyn/general/advanced_search.asp?device=0&tools=0&datasheets=0&appNotes=1&userGuides=0&press=0&articles=0&flyers=0&checkAll=0&checkAllReference=0&target=" + q;
-			} 
-			
-			else if (thisValue=='doc_search') 
-			{
-				finalSearchString ="http://www.atmel.com/dyn/general/document_search.asp?device=0&tools=0&datasheets=1&appNotes=0&userGuides=0&press=0&ar>ticles=0&flyers=0&checkAll=0&checkAllReference=0&target=" + q;
-			}
-			window.location = finalSearchString;
-			return false;
-		}
-	}
-	
-	function gotoSearch(thisValue) 
-	{
-		var r, finalSearchString;
-		{
-			r=document.searchForm.target.value;
-			$('#site').val(thisValue);
-			
-			if (thisValue=='adv_search')
-			{
-				finalSearchString ="http://www.atmel.com/dyn/general/advanced_search.asp?device=0&tools=0&datasheets=0&appNotes=1&userGuides=0&press=0&articles=0&flyers=0&checkAll=0&checkAllReference=0&target=" + r;
-			} 
-			
-			else if (thisValue=='doc_search') 
-			{
-				finalSearchString ="http://www.atmel.com/dyn/general/document_search.asp?device=0&tools=0&datasheets=1&appNotes=0&userGuides=0&press=0&articles=0&flyers=0&checkAll=0&checkAllReference=0&target=" + r;
-			}
-			window.location = finalSearchString;
-			return false;
-		}
-	}
-	
-//--></script>
 </head>
 <!--[if lt IE 7 ]> <body class="ie6 page"> <![endif]-->
 <!--[if IE 7 ]>    <body class="ie7 page"> <![endif]-->
 <!--[if IE 8 ]>    <body class="ie8 page"> <![endif]-->
 <!--[if IE 9 ]>    <body class="ie9 page"> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!-->
 <body class="page">
-<!--<![endif]-->
     <div id="container">
         <div id="header">
             <a id="pagetop"></a>
             
                 
-                    <div id="logo"><a href="/default.aspx"><img src="/Images/atmel.png" alt="" width="92" height="76" border="0"></a></div>
-<div id="utility-nav">
-  <ul>
-    
-    <li><a href="http://support.atmel.com/bin/customer.exe">Support</a></li>
-    
-    <li><a href="/About/Community.aspx">Community</a></li>
-    
-    <li class="cart"><a href="http://store.atmel.com/ShoppingCart.aspx?source=global_nav">Cart</a></li>
-  </ul>
+                    <div id="logo">
+     <a href="/default.aspx">
+          <img src="/Images/atmel.png" alt="" width="92" height="76" border="0">
+     </a>
+</div>
+<div id="utility-nav" data-filter="primary-nav"><!-- header right, world locations and search bar -->
+     <ul id="tpnv">
+          <li><a href="#">Worldwide</a>
+               <ul class="cl">
+	     <li><a href="/">English</a></li>
+	    <li><a href="/zh/cn/">简体中文 - Chinese (Simplified)</a></li>
+	    <li><a href="/ja/jp/">日本語 - Japanese</a></li>
+               </ul>
+          </li><!-- end country list -->
+          
+          <li><a href="http://support.atmel.com/bin/customer.exe">Support</a></li>
+          
+          <li><a href="/About/Community.aspx">Community</a></li>
+          
+          <li class="cart">
+                <a href="http://store.atmel.com/ShoppingCart.aspx?source=global_nav">Cart</a>
+          </li>
+     </ul>
 </div>                
             
                 
             
         </div>
         <div id="primary">
-			<!-- New Search that includes a Fly-Out Menu for Advanced Searching by Thomas Orthbandt on Apr-25-2011 -->
-            <div id="search" data-filter="primary-nav">
-				<form name="searchForm" id="searchForm" action="http://www.atmel.com/dyn/general/search_results.asp" onsubmit="return alertSearch();">    
-					<input type="hidden" name="cx" value="008864967094569334548:eyfn6tp4lcm">
-					<input type="hidden" name="cof" value="FORID:9">
-					<input type="hidden" name="ie" value="UTF-8">
-					<input type="text" class="query" maxlength="30" size="16" value="" name="target" title="Search">
-					<input type="hidden" name="site" value="">
-					<div id="searchnav">
-						<ul>
-							<li class="fixed">
-								<a data-filter="searchbox" id="searchbox">
-									<input type="submit" name="submit" class="submit" value="" id="submit">
-								</a>
-								<div class="content" id="search-menu">
-									<ul class="search-group">
-										<li><a href="" onclick="return goSearch('all');">Entire Site</a></li>
-										<li><a href="" onclick="return gotoSearch('adv_search');">Go to Keyword Search</a></li>
-										<li><a href="" onclick="return gotoSearch('doc_search');">Go to Document Search</a></li>
-									</ul>
-								</div>
-							</li>
-						</ul>
-					</div>
-				</form>
-			</div>
-			<div id="primarynav" data-filter="primary-nav">
+             <div id="search" data-filter="primary-nav">
+        <form name="searchForm" id="searchForm" action="http://www.atmel.com/dyn/general/search_results.asp" onsubmit="return alertSearch();" onkeyup="return goHere(event)">
+            <input type="hidden" name="cx" value="008864967094569334548:eyfn6tp4lcm">
+            <input type="hidden" name="cof" value="FORID:9">
+            <input type="hidden" name="ie" value="UTF-8">
+            <input type="text" class="query" value="" name="target" title="Search">
+            <input type="hidden" name="site" value="">
+            <div id="searchnav">
+                <ul>
+                    <li class="fixed">
+                        <a data-filter="searchbox" id="searchbox">
+                        	<input type="submit" name="submit" class="submit" value="" id="submit">
+                        </a>
+                        <div class="content" id="search-menu">
+                            <ul class="search-menu">
+		<li><a href="" id="1" onclick="return goSearch('all');">Entire Site</a></li>
+		<li><a href="" id="2" onclick="return gotoSearch('adv_search');">Go to Keyword Search</a></li>
+                                <li><a href="" id="3" onclick="return gotoSearch('doc_search');">Go to Document Search</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+    	</form>
+    </div>			<div id="primarynav" data-filter="primary-nav">
                 <ul>
                     <li class="fixed">
             	        <a data-filter="corners" href="/System/Redirect.aspx?dest=/products/overview_mcu.asp&amp;category_id=163&amp;source=global_nav" class="products" style="position: relative;">Products<i class="corner top-left"></i><i class="corner top-right"></i></a>
@@ -182,7 +125,7 @@
                                     <li><a href="/System/Redirect.aspx?dest=/products/mcu8051/default.asp&amp;category_id=163&amp;family_id=604&amp;source=global_nav">8051 Architecture</a></li>
                                     <li style="clear:both">&nbsp;</li>
                                     <li style="clear:both">&nbsp;</li>
-                                    <li style="clear:both">&nbsp;</li>
+									<li style="clear:both">&nbsp;</li>
                                 </ul>
                                 <div class="groupheader"><a href="/System/Redirect.aspx?dest=/products/overview_touch.asp&amp;category_id=170&amp;source=global_nav">Touch Solutions</a></div>
                                 <ul>
@@ -203,7 +146,10 @@
                                     <li><a href="/System/Redirect.aspx?dest=/products/serial/default.asp&amp;category_id=162&amp;family_id=647&amp;source=global_nav">Serial EEPROM</a></li>
                                     <li><a href="/System/Redirect.aspx?dest=/products/parallel/default.asp&amp;category_id=162&amp;family_id=638&amp;source=global_nav">Parallel EEPROM</a></li>
                                     <li><a href="/System/Redirect.aspx?dest=/products/eprom/default.asp&amp;category_id=162&amp;family_id=621&amp;source=global_nav">OTP EPROM</a></li>
-                                </ul>
+									<li style="clear:both">&nbsp;</li>
+									<li style="clear:both">&nbsp;</li>
+									<li style="clear:both">&nbsp;</li>
+								</ul>
                                 <div class="groupheader"><a href="/System/Redirect.aspx?dest=/products/overview_automotive.asp&amp;category_id=154&amp;source=global_nav">Automotive Solutions</a></div>
                                 <ul>
                                     <li><a href="/System/Redirect.aspx?dest=/products/auto/default.asp&amp;category_id=154&amp;family_id=606&amp;source=global_nav">Automotive Control</a></li>
@@ -224,8 +170,7 @@
                                     <li><a href="/System/Redirect.aspx?dest=/products/zigbee/default.asp&amp;category_id=171&amp;family_id=676&amp;source=global_nav">MCU Wireless</a></li>
                                     <li><a href="/System/Redirect.aspx?dest=/products/rfid/default.asp&amp;category_id=171&amp;family_id=644&amp;source=global_nav">RF Identification</a></li>
                                     <li><a href="/System/Redirect.aspx?dest=/products/smartRF/default.asp&amp;category_id=171&amp;family_id=651&amp;source=global_nav">Smart RF</a></li>
-                                    <li style="clear:both">&nbsp;</li>
-                                    <li style="clear:both">&nbsp;</li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/wifi/default.asp&amp;category_id=171&amp;family_id=708&amp;source=global_nav">Wi-Fi</a></li>
                                     <li style="clear:both">&nbsp;</li>
                                     <li style="clear:both">&nbsp;</li>
                                     <li style="clear:both">&nbsp;</li>
@@ -234,7 +179,8 @@
                                 <ul>
                                     <li><a href="/System/Redirect.aspx?dest=/products/cryptoauthentication/default.asp&amp;category_id=172&amp;family_id=699&amp;source=global_nav">Atmel CryptoAuthentication</a></li>
                                     <li><a href="/System/Redirect.aspx?dest=/products/secureRF/default.asp&amp;category_id=172&amp;family_id=671&amp;source=global_nav">Atmel CryptoRF</a></li>
-                                    <li><a href="/System/Redirect.aspx?dest=/products/securemem/default.asp&amp;category_id=172&amp;family_id=646&amp;source=global_nav">Atmel Crypto Memory</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/securemem/default.asp&amp;category_id=172&amp;family_id=646&amp;source=global_nav">Atmel CryptoMemory</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/led/default.asp&amp;category_id=172&amp;family_id=706&amp;source=global_nav">LED Drivers</a></li>
                                     <li><a href="/System/Redirect.aspx?dest=/products/embedded/default.asp&amp;category_id=172&amp;family_id=620&amp;source=global_nav">Trusted Platform Module</a></li>
                                     <li><a href="/System/Redirect.aspx?dest=/products/tempsensors/default.asp&amp;category_id=172&amp;family_id=705&amp;source=global_nav">Digital Temperature Sensors</a></li>
                                 </ul>
@@ -281,11 +227,9 @@
                     	        <div class="groupheader"><a href="/System/Redirect.aspx?dest=/applications/home_entertainment/default.asp&amp;AppID=2177&amp;source=global_nav">Home Entertainment</a></div>
                                 <ul>
                                     <li><a href="/System/Redirect.aspx?dest=/applications/home_entertainment/audio.asp&amp;AppID=2177&amp;subAppID=5008&amp;source=global_nav">Audio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/home_entertainment/mobile_accessories.asp?AppID=2177&amp;subAppID=5062&amp;source=global_nav">Mobile Accessories</a></li>
                                     <li><a href="/System/Redirect.aspx?dest=/applications/home_entertainment/video.asp&amp;AppID=2177&amp;subAppID=5010&amp;source=global_nav">Video</a></li>
                                     <li><a href="/System/Redirect.aspx?dest=/applications/home_entertainment/remote_controls.asp&amp;AppID=2177&amp;subAppID=5011&amp;source=global_nav">Remote Controls</a></li>
-                                    <li style="clear:both">&nbsp;</li>
-                                    <li style="clear:both">&nbsp;</li>
-
                                     <li style="clear:both">&nbsp;</li>
                                     <li style="clear:both">&nbsp;</li>
                                     <li style="clear:both">&nbsp;</li>
@@ -308,6 +252,10 @@
                                     <li><a href="/System/Redirect.aspx?dest=/applications/lighting/hid_ballasts.asp&amp;AppID=2180&amp;subAppID=5034&amp;source=global_nav">HID Ballasts</a></li>
                                     <li><a href="/System/Redirect.aspx?dest=/applications/lighting/led_ballasts.asp&amp;AppID=2180&amp;subAppID=5035&amp;source=global_nav">LED Ballasts</a></li>
                                     <li><a href="/System/Redirect.aspx?dest=/applications/lighting/lighting_control.asp&amp;AppID=2180&amp;subAppID=5036&amp;source=global_nav">Lighting Control</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/lighting/industrial.asp?Appid=2180&amp;subAppid=5058&amp;source=global_nav">Industrial</a></li>
+		    <li><a href="/System/Redirect.aspx?dest=/applications/lighting/tv_direct_backlight.asp?Appid=2180&amp;subAppid=5059&amp;source=global_nav">TV Direct Backlight</a></li>
+		    <li><a href="/System/Redirect.aspx?dest=/applications/lighting/tv_hv_edge-lit.asp?Appid=2180&amp;subAppid=5060&amp;source=global_nav">TV High Voltage Edge-Lit</a></li>
+		    <li><a href="/System/Redirect.aspx?dest=/applications/lighting/solid_state.asp?Appid=2180&amp;subAppid=5061&amp;source=global_nav">Solid-State Lighting</a></li>
                                 </ul>               
                             </div>
 
@@ -522,9 +470,16 @@
         
         
     <div id="content">
-        <div id="left-column">
-            
-            
+        <div id="ctl00_ctl00_mpCore_pnlLeftColumn">
+	
+            <div id="left-column">
+                <div id="ctl00_ctl00_mpCore_pnlProdFinder">
+		
+                      <div id="finder" class="finder"></div>
+                
+	</div>
+                
+                
 
      
 
@@ -532,8 +487,18 @@
 &nbsp;
  
 
-        </div>
+            </div>
+        
+</div>
         <div id="content-page">
+            <script language="Javascript1.2">
+            <!--
+            function printpage() {
+            window.print();
+            }
+            //-->
+            </script>
+
             
             
             
@@ -726,7 +691,7 @@ San Jose, California 95131</p><p>Privacy Policy , ©2011 Atmel Corporation. Webs
     	        <ul> 
                     <li><a href="/Buy/default.aspx">Buy</a></li>
                     <li><a href="http://store.atmel.com/ShoppingCart.aspx?source=super_footer">Atmel Store</a></li>
-                    <li><a href="http://support.atmel.no/bin/customer.exe">Support</a></li>
+                    <li><a href="http://support.atmel.com/bin/customer.exe">Support</a></li>
                     <li><a href="/About/community.aspx?source=super_footer">Community</a></li>
                 </ul>	
             </div>
@@ -737,9 +702,16 @@ San Jose, California 95131</p><p>Privacy Policy , ©2011 Atmel Corporation. Webs
     </div>
     
     
-          <script type="text/javascript" src="/System/JavaScript/jquery-1.4.1.js"></script>          
-          <script type="text/javascript" src="/System/JavaScript/mootools.js"></script>
-          <script type="text/javascript" src="/System/JavaScript/filters.js"></script>
+         <script type="text/javascript" src="/System/JavaScript/jquery-1.4.1.js"></script>
+         <script type="text/javascript" src="/System/JavaScript/mootools.js"></script>
+         <script type="text/javascript" src="/System/JavaScript/filters.js"></script>
+         <script type="text/javascript" src="/System/JavaScript/finder-config.js"></script>
+
+         <!-- Search -->
+         <script src="/System/JavaScript/search.js" type="text/javascript"></script>
+         <!-- Global flyout -->
+         <script src="/System/JavaScript/tpnv.js" type="text/javascript"></script>
+         <script src="/System/JavaScript/zebra.js" type="text/javascript"></script> 
       
     
     
@@ -753,6 +725,12 @@ document.write(unescape("%3Cscript src='" + optJsHost +
 </script><script src="https://service.optify.net/opt.js" type="text/javascript"></script>
 <script type="text/javascript"> try { _opt.view("3056O7SQ"); } catch(err) {} </script>
 <!-- End Optify Tracking Code. Please place immediately before closing </BODY> tag -->
+
+<!-- Cross-browser code -->
+<script type="text/javascript" src="/System/JavaScript/ga-functions.js"></script>
+<script type="text/javascript">
+     addLinkerEvents();
+</script>
 
 
 <div id="modal-container" style="display: none;"></div><img src="/Images/white.png" id="modal-background" style="display: none;"><div id="modal-close" style="display: none;"></div></body></html>
