@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battleclinic.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624175733id_/http%3A//www.battleclinic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battleclinic.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224024459id_/http%3A//www.battleclinic.com/privacy.php) for the most accurate reproduction.*
 
 # BattleClinic - MMO guides - tools - advice - forums
 
