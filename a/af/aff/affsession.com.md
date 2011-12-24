@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affsession.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418143946id_/http%3A//www.affsession.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affsession.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224161458id_/http%3A//www.affsession.com/privacy_policy) for the most accurate reproduction.*
 
 # Affiliate Marketing
 
