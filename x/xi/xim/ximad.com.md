@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ximad.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604172159id_/http%3A//www.ximad.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ximad.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224045543id_/http%3A//www.ximad.com/policy) for the most accurate reproduction.*
 
 # Policy | XiMAD - Apps for Life
 
