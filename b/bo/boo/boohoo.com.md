@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602133329id_/http%3A//www.boohoo.com/privacy-policy/privacy-policy/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224144651id_/http%3A//www.boohoo.com/privacy-policy/privacy-policy/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at boohoo.com
 
@@ -79,7 +79,7 @@ We may disclose your personal information:
   * 2\. if Wasabi Frog Limited or substantially all of its assets are acquired by a third party in which case personal data held by it about its customers will be one of the transferred assets and, in which case, we may disclose your personal data to the prospective seller or buyer of such business or assets;
   * 3\. to protect our customers and boohoo.com from fraud and theft, we may pass on personal information that we obtain from making identity checks, together with account information to organisations including law enforcement agencies, involved in fraud prevention and detection and credit risk reduction;
   * 4\. if we are under a duty to disclose or share your personal data in order to comply with any legal obligation; or,
-  * 5\. in order to enforce or apply our [terms of use](https://web.archive.org/web/20110602133329id_/http://www.boohoo.com/privacy-policy/privacy-policy/page/privacy/page/termsofuse) or [terms and conditions of supply of products](https://web.archive.org/web/20110602133329id_/http://www.boohoo.com/privacy-policy/privacy-policy/page/privacy/page/terms) and other agreements; or to protect the rights, property, or safety of Wasabi Frog Limited our customers, or others.
+  * 5\. in order to enforce or apply our [terms of use](https://web.archive.org/web/20111224144651id_/http%3A//www.boohoo.com/privacy-policy/privacy-policy/page/page/termsofuse) or [terms and conditions of supply of products](https://web.archive.org/web/20111224144651id_/http%3A//www.boohoo.com/privacy-policy/privacy-policy/page/page/terms) and other agreements; or to protect the rights, property, or safety of Wasabi Frog Limited our customers, or others.
 
 
 
@@ -93,7 +93,7 @@ If you no longer wish to receive marketing information from us you have the opti
 
 ### Access to information
 
-You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please write to us at 32 Hilton Street, Manchester, M1 2EH. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please write to us at 49/51, Dale Street, Manchester, England, M1 2HF. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
 ### Changes to our privacy policy
 
@@ -101,4 +101,4 @@ We reserve the right to change this policy at any time. If we change our privacy
 
 ### Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to 32 Hilton Street, Manchester, M1 2EH.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to 49/51, Dale Street, Manchester, England, M1 2HF.
