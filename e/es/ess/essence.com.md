@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the essence.com privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216215935id_/http%3A//www.essence.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essence.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224220500id_/http%3A//www.essence.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Essence.com
-
-PRIVACY POLICY
+# Privacy Policy | Essence.com
 
 For the Privacy Policy of Essence Magazine, operated by Time Inc., please [click here](http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/essence?dnp_source=E).
 
