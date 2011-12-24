@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbs.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629093658id_/http%3A//www.pbs.org/about/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbs.org privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224143815id_/http%3A//www.pbs.org/about/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Terms and Conditions : PBS
 
@@ -82,13 +82,9 @@ PBS uses the content from the cookies to deliver relevant local resources, remem
 
 PBS uses cookies at the following times:
 
-  1. A cookie may automatically localize pbs.org to the PBS station nearest you.  You can choose to have your computer remember a different station or no station at all at any time.
-
-
-  1. If you watch a video clip or listen to an audio clip on pbs.org, a cookie may remember which media player and type of clip you prefer to use on your computer.  You can change your video and audio preferences at any time, or choose a player each time you view of listen to a clip. 
-
-
-  1. A cookie will tell us which pages you visit and the amount of time between each page visit.  The cookie does not remember any information about you or your computer; it just helps us at PBS monitor Site usage and traffic; for example, it allows us to measure the number of repeat visitors to pbs.org in a given month. This data is only used in the aggregate.
+  * A cookie may automatically localize pbs.org to the PBS station nearest you.  You can choose to have your computer remember a different station or no station at all at any time.
+  * If you watch a video clip or listen to an audio clip on pbs.org, a cookie may remember which media player and type of clip you prefer to use on your computer.  You can change your video and audio preferences at any time, or choose a player each time you view of listen to a clip. 
+  * A cookie will tell us which pages you visit and the amount of time between each page visit.  The cookie does not remember any information about you or your computer; it just helps us at PBS monitor Site usage and traffic; for example, it allows us to measure the number of repeat visitors to pbs.org in a given month. This data is only used in the aggregate.
 
 
 
