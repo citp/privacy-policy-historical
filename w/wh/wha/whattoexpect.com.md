@@ -1,60 +1,170 @@
-> *The following text is extracted and transformed from the whattoexpect.com privacy policy that was archived on 2005-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050620121753id_/http%3A//secure.agoramedia.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whattoexpect.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224013546id_/http%3A//www.whattoexpect.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy -- Ask Heidi -- WhatToExpect.com
 
-**Waterfront Media, INC.**
+This Policy was last changed on November 23, 2011
 
-**PRIVACY POLICY**
+Everyday Health, Inc. and its subsidiaries ("Everyday Health," “us” or “we”) operates this website (the "Site"), and other health, wellness, diet and fitness websites that are part of the Everyday Health portfolio of websites (collectively, the "Sites") and the services related to or offered on the Sites (hereinafter, the "Services"). Some of the Sites are websites that we operate on behalf of third party licensors, for example, JillianMichaels.com, PDRHealth.com and SouthBeachDiet.com (collectively, "Licensors"). Everyday Health's Services may include, without limitation, tools, applications, email services, bulletin and message boards, chat areas, news groups, forums, communities, calendars, and downloadable mobile applications related to the Sites or provided through the Sites. 
 
-Waterfront Media, Inc. ("WM," "we" or "us") provides a variety of online services and products, including without limitation, subscription, newsletter and update services ("Services"), to subscribers via email and on numerous websites throughout the World Wide Web (the "Sites"). WM is strongly committed to protecting the privacy of your personal information, and providing a safe and secure environment for its subscribers. 
+We provide you this privacy policy (the "Policy") to help you understand the kinds of information we may gather about you when you visit the Site or use any of our Services, how we may use and disclose the information, and how you can control, correct and/or update the information. 
 
-THE PURPOSE OF THIS WM PRIVACY POLICY (THE "POLICY") IS TO HELP YOU UNDERSTAND THE KINDS OF INFORMATION WE MAY GATHER ABOUT YOU WHEN YOU VISIT THE SITES OR USE ANY OF OUR SERVICES, HOW WE MAY USE THAT INFORMATION, IN WHICH MANNER WE WILL DISCLOSE IT, AND HOW YOU CAN CORRECT AND/OR UPDATE THE INFORMATION. PLEASE NOTE THAT BY USING THE SERVICES OR VISITING THE SITES, YOU SIGNIFY YOUR AGREEMENT WITH THIS POLICY. IF YOU DO NOT AGREE TO THE TERMS OF THIS POLICY, PLEASE DO NOT USE THE SERVICES OR REFRAIN FROM VISITING THE SITES.   
-Please note that the Policy applies only to WM's Services and Sites, but not to other websites to which we may link, or to advertisers on the Sites. Additionally, your use of the Services and/or the Sites is governed by WM's Terms of Service, as well as by any other published rules pertaining to either a particular Site or Service. 
+To be clear about the terminology we are using, when we use the phrase "Personal Information" in this Policy, we mean information that can be used to identify or contact a person, like a person’s full name, address, e-mail address, or phone number. When we use the phrase "Anonymous Information" in this Policy, we mean information that cannot reasonably be used to identify individual persons. 
 
-**Children's Information**   
-WM's policy is that it does not knowingly collect personally identifiable information from subscribers under thirteen years of age. The Services or Sites are not directed or intended for children under thirteen years of age. If you are under thirteen years of age, you should not register to become a Subscriber or provide personally identifiable information on any of the Sites. If you are the parent or guardian of a subscriber under the age of thirteen whom you believe has disclosed personally identifiable information to WM, please contact WM at privacy@waterfrontmedia.com so that we may delete and remove such subscriber's information from our systems. 
+By visiting this Site or using the Services, you are accepting the policies and practices described in this Policy. Each time you visit the Site or use the Services, you agree and expressly consent to our collection, use and disclosure of the information that you provide as described in this Policy. 
 
-**The Information We Gather**   
-WM collects information from you at several different points on the Sites or through use of the Services in various ways. For example, WM continually reviews its visitors' demographics, interests and pages viewed, and WM may require its subscribers and users to provide certain personal information if they wish to participate in various activities on the Sites (e.g., consummating transactions and entering into contests, drawings or surveys). However, WM can only collect your personally identifiable information if, and when, it is voluntarily offered. Whenever we collect personal information, we will make an effort to include a link to this Policy on that page. 
+Your Personal Information will be processed by us in the United States. 
 
-**Message Board and Chats**   
-Among the many Services which WM offers subscribers on the Sites, we provide message boards and chat rooms. Please be aware that any visitor may read your postings on a message board or in a chat room. Furthermore, any information which you may post to a message board or in a chat room, including your profile information, will be disclosed and available to all users of that message board or chat room, and is therefore no longer private. WM cannot guarantee the security of such information that you disclose or communicate online in public areas such as message boards and chat rooms, and you do so at your own risk. WM reserves the right to republish your postings from message boards or chat rooms elsewhere on the Web in any format. 
+In addition to this general Policy, each Service may have additional privacy provisions that are specific to the particular Service. These supplemental disclosures are made adjacent to the particular Service at the time we collect the information. These supplemental disclosures also govern the use of your information. 
 
-**How We Use the Information That We Gather**   
-WM uses certain technologies, such as "cookies," to personalize and improve your online experience.   
-• Cookies are alphanumeric identifiers that we transfer to your computer's hard drive. Cookies store information about your visit to the Sites or your use of the Services, thereby allowing you to access certain WM's features not otherwise available. The information in the cookie is transmitted from your computer to WM or to one of our third-party authorized service contractors. The information contained in these cookies makes it possible for our systems to know if you are presently logged onto a Site or using any of the Services, or whether you have done so in a prior visit. This technology enables WM to instantly determine your access privileges while allowing you to navigate the Sites or use any of the Services without having to repeatedly log in.   
-• Cookies from WM and/or one of our authorized service contractors are also used to collect standard information transmitted from your web browser including, without limitation: your Internet address, browser type, web pages you visited with date and time, purchases you made on any of the Sites and the type of operating system on your computer. This information is used to help us understand and meet the ever-changing needs and interests of our subscribers.   
-• WM may also use cookies to track your access to, and use of the message boards, forums and chat rooms on the Sites, as well as your responses to any of our online surveys.   
-• You always have the option of setting your browser to warn you when a cookie is being accessed on your computer or to decline cookies altogether. However, to take full advantage of the Sites, Services and features offered by WM, we recommend that you set your browser to accept cookies. Setting your computer to accept or refuse cookies varies depending on the web browser you are running. Please check the help tab of your browser for specifics on your software.   
-• WM does not control any cookies you may receive from an advertiser and these are not subject to this Policy. • WM also uses web beacon technology to help track site usage. Web beacons (also called single pixel gifs or action tags) allow WM to track page viewing counts and patterns which we use to focus and tailor future content development, measure the effectiveness of WM's own marketing campaigns and assist with broadband capacity management for the Sites.   
-• WM also employs web beacons within the context of certain e-mails in order to determine the effectiveness and appeal of those mailings. These web beacons 'sense' and notify WM if and when you open the e-mail, if your e-mail program is capable of displaying HTML messages, and where you may navigate within these HTML messages.   
-In addition to the foregoing, WM uses the information obtained from its subscribers and users in order to enhance and customize their online experiences. 
+##  **1\. The Information We Gather**
 
-Due to the existing regulatory environment, WM cannot ensure that all of your personally identifiable information and communications will remain private and will never be disclosed in ways not otherwise described in this Policy. Therefore, although we maintain and make every effort to comply with industry privacy standards, we do not promise, nor should you expect, that your personally identifiable information or private communications will always remain private. 
+We collect information about you in the following ways: 
 
-As a matter of policy and unless otherwise stated herein, WM does not rent, sell, or share your personally identifiable information with other people or non-affiliated companies or unless you otherwise agree. However, WM reserves the right to use your personally identifiable information to notify you of certain products or Services about which you previously inquired or requested, special promotional offers, and to investigate violations of the terms and provisions of this Policy or the Terms of Use. In addition, WM aggregates (gathers and organizes data across all subscriber and user accounts) personally identifiable information from among its subscriber and user base and discloses only that portion of the information which is non-personally identifiable to advertisers and other third parties for marketing, promotional and other commercial purposes. For example, your name, email address, password, credit card number and bank account number will never to be disclosed without your express consent. 
+**A. Information you voluntarily provide us**
 
-**Disclosure of Personal Information in the Event of Merger or Sale of Assets**   
-WM, its parent, subsidiaries or affiliates, could merge with or be acquired by another business entity, or all or substantially all of their respective assets could be acquired. Should such a combination, acquisition or transaction occur, you should expect that WM will share some or all of your personally identifiable information with the acquiring or merged entity in order to continue serving you and others information, updates and offers concerning the Sites or Services. 
+We collect and maintain information that you voluntarily submit to us during your use of the Sites and Services. For example: 
 
-**Co-branded and Other Affiliated Sites**   
-As stated above, certain information or Services offered or provided through the Sites may, from time to time, be provided on or through other websites operated by or in conjunction with third party providers ("Partners"). These websites and the features thereon may have the same "look and feel" as WM's Sites and/or Services. WM terms these websites "co-branded sites", and often times a Partner's logo or name may appear on the website, or the Partner's name may appear in the URL. Although WM will continue to own any personally identifiable information collected about you from one of these co-branded sites, such information may be shared by WM with that Partner. However, a Partner will not rent, sell, or disclose any of your personally identifiable information to third parties unless you consent to such disclosures and use in advance (for example, you may be asked to opt-in on a particular co-branded site in order to receive information or offers from a Partner, its affiliates or agents). 
+  * when you register for a Site, you may provide us certain information including your name, email address, screen name, password, demographic information and the health topics that interest you;
+  * to engage a Site's social networking function, you may add to your profile by providing information about your interests or health topics. For example, your profile may list your favorite healthy foods or movie;
+  * if you are registering for a customized weight loss program, you may provide us answers to questions we use to provide you the program, like your actual and goal weights, your preferred method of exercise, or your caloric intake;
+  * if you sign up to receive a newsletter, enter a contest or participate in social networking activities, you may provide us contact information (e.g., email or physical address);
+  * if you purchase a product or service, you may provide us your credit card information; and
+  * you may provide us with Personal Information in the course of email, customer support interactions and surveys. 
 
-**Third Party Links**   
-WM does not monitor, control or endorse the information collection or privacy practices of any third parties including, without limitation, any co-branded, Partner or affiliated sites which may or may not be owned or operated by or in conjunction with WM or other third parties who may provide services throughout the Sites. Please be aware that the Sites may contain links to other websites on the Internet and the Services may be provided by such third parties WM assumes no liability or responsibility for the information collection and privacy practices of such third party. Please consult each website's privacy policy. In addition, WM is not responsible for the content or data collection practices of any third party websites, including a third party's use of cookies or other data-collection applications. Even though certain information collected by such third parties might not identify you personally, we strongly encourage you to become familiar with their privacy practices, and to contact them if you have any questions about their respective privacy policies and practices. 
 
-On behalf of various sponsors, the Sites may provide sponsored links to third-party websites or resources ("Linked Sites"). WM neither controls nor have we reviewed or approved the content that appears on such Linked Sites. You acknowledge and agree that WM is not responsible for the legality, accuracy or inappropriate nature of any content, advertising, products or other materials on or available from such Linked Sites. You further acknowledge and agree that WM shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods, and services available on or through any such Linked Site. 
 
-**Security**   
-WM places a priority on the security of personally identifiable information, and we undertake reasonable security measures that comply with federal regulations to protect the data that resides on our servers. WM also uses secure server software (SSL) to process all transactions which occur on the Sites. SSL encrypts all of your personal information transmitted over the Internet, including your credit card number, name and address. However, no security system is impenetrable. WM cannot warrant or guarantee the security of its servers, nor can it guarantee that information supplied by Subscribers or other users will not be intercepted while being transmitted to WM over the Internet. 
+You can choose not to provide us with certain information, but this may stop you from gaining access to a Service or limit the features that you can use. For more information, please see the How We Use Your Information section below. 
 
-**Correction/Updating Personal Information**   
-If your personally identifiable information changes (such as your address, zip code), or if you no longer desire to use or access one of the Sites or Services, WM encourages you to correct, update or remove the personal information that you provided. This can be done at the "Manage My Account" page on each of the Sites. Keep in mind, however, that even if you delete your account from WM's records, there will be residual information that will remain within WM's databases, access logs, and other records, which may or may not contain personally identifiable information. 
+**B. Information we collect through your use of the Site.**
 
-**How To Contact Us**
+As you use the Site and Services, certain information may also be passively collected. Through cookies, pixels, beacons, log files and other technologies, we may collect information about how you use the Site and the Services. For example we may determine through an IP address that a particular computer or device is located in New York City and we may use this information to deliver advertisements promoting New York City-based businesses. This information allows us to deliver more helpful information, programs, tools and advertisements. Please see the Cookies and Targeted Advertising sections below for more information. 
 
-Please relay any questions you may have pertaining to our above stated policies to our Customer Service Department 1-888-795-4719, or email us at [info@waterfrontmedia.com](mailto:info@waterfrontmedia.com). 
+**C. Information we receive from third parties.**
 
-**Privacy Policy Changes**
+We may also combine online and/or offline information received from third parties with the information we have already collected from you via our Sites and Services. The third party information is used for a variety of purposes including to verify other information about you (e.g., verify your mailing address to send you requested products or services) and to enhance the content and advertising we provide to you. 
 
-This Policy was last changed on April 14, 2005. If WM makes changes to any of the terms or conditions of the Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We reserve the right to change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless WM advises you otherwise. Your continued use of the Services and/or the Sites after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of the Policy, as amended. We encourage you to bookmark this web page and review this Policy regularly. Copyright © 2005, Waterfront Media, Inc. All rights reserved. 
+## **2\. How We Use Your Information**
+
+We will use your Personal Information in the ways described below or described at the time that the information is collected. 
+
+**A. Advertising.**
+
+We believe that advertising is more interesting to you when it is relevant. Accordingly, we customize the advertisements that you see based upon: (i) the information that you provide us (e.g., age, gender, stated health interests and other information in your profile); (ii) geographic location information, which we may determine through your IP address, from your mobile device, or other ways; (iii) data we receive from third parties or; (iv) your visits on the Sites or use of Services (commonly referred to as "Behavioral Advertising"). Please see the Cookies and Targeted Advertising section below for more information on the use of cookies and the information collected for Behavioral Advertising. 
+
+You can limit the way that we tailor advertising based on your self-reported interests and other information in your profile by clicking on the "Profile" or "My Account" section of this Site and deleting or modifying the information. On some Sites, the profile section is accessed through the MySite tab, (e.g., MyEverydayHealth or MyRevolution). Please see the section below on Updating and Control of Your Personal Information for more information. Please note that if you have registered on multiple Sites, you'll need to modify your profile on each Site. In addition, you can delete the cookies that we have placed on your browser. Please see the section below on Cookies, Web Beacons and IP Address Information for more information. 
+
+**B. To Provide the Sites and Services.**
+
+In general, we use your Personal Information as necessary or appropriate for purposes including to:
+
+  * administer your account;
+  * register you and provide you access to the Site or Services;
+  * respond to inquiries or requests that you direct to us;
+  * fulfill your requests for products or services;
+  * send communications and administrative emails about the Sites or Services;
+  * personalize and better tailor the features, performance and support of the Sites and Services for your use;
+  * send you promotional/marketing information, newsletters, offers or other information regarding opportunities and functionality that we think would be of particular interest to you;
+  * improve the quality of the Site and the Services, and
+  * analyze, benchmark and conduct research on user data and user interactions with the Site and Services. 
+
+
+
+## **3\. Cookies and Targeted Advertising**
+
+ **A. Cookies, Web Beacons and IP Address Information**
+
+  * "Cookies" are small pieces of information that a website places on your browser when you visit that website. We may use cookies to provide you with a more personal and interactive experience with the Sites and Services. For example, we may use cookies to control what advertisements you see, the sequence of advertisements and to make sure you don't see the same advertisement too many times. For contests or sweepstakes, we may also use cookies in order to track your progress and the number of entries in some promotions. For polls, we may use cookies to help ensure that an individual can't vote more than once on a particular question or issue. We do not store Personal Information in any cookies on your computer.
+  * Cookies can be removed by following your Internet browser's directions within the help tab. In order to use certain Services offered through the Sites, your web browser must accept cookies. If you choose to disable cookies, some aspects of the Sites may not work properly, and you may not be able to access our Services.
+  * We may also use cookies, pixels, web beacons (which are usually small, transparent graphic images), operating system and device information and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit, the features and information for which you searched and viewed, the email you opened, or on which advertisements you clicked. This type of information is collected to make the Sites and Services more useful to you and to tailor the experience with us to meet your special interests and needs.
+  * An "Internet protocol address" or "IP Address" is a number that is automatically assigned to your computer when you use the Internet. We, or our service providers, may use your IP Address when you access the Sites or Services or use other means to assist with delivering geographically targeted advertisements. 
+
+
+
+**B. Targeted Advertising**
+
+Companies Everyday Health works with may use cookies for purposes including understanding Web usage patterns of users who see advertisements on the Sites, controlling the sequence of advertisements you see, making sure you don't see the same advertisement too many times, determining your interests and tailoring advertisements and promotions based on those interests. For example, if you read an article about a particular health condition on the Sites, we may use cookies from a vendor to later serve you an advertisement for a product related to the viewed article. These third party vendors may connect information about pages you visit on our Sites with information about pages you visit on other websites and show you advertising based on this combined information. The advertisement may appear when you are visiting a different section of this Site, another Site or any other website on the Internet if the website also has a relationship with our vendor. You can choose to limit Behavioral Advertising on the Sites by clicking **[here](http://www.networkadvertising.org/managing/opt_out.asp)** and opting-out of cookies placed by those vendors listed. After you opt-out, you will still see advertisements but the advertising may not be as relevant to your interests. If you change your computer, change your browser, or delete your cookies, you will need to renew your opt-out. 
+
+We adhere to the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance (for more information click **[here](http://www.aboutads.info/consumers)** ). 
+
+**C. Information Collected by Third Party Advertisers**
+
+Advertisers or other third parties on the Sites may also engage in Behavioral Advertising and use cookies and web beacons in the manner described above. We do not control these advertisers or other parties' use of cookies or web beacons or what they do with the information they collect. Many third party vendors that engage in Behavioral Advertising participate in the Network Advertising Initiative (NAI) and/or the Digital Advertising Alliance (DAA) and abide by NAI and/or DAA principles. If you wish to opt out of participating in advertising programs conducted by NAI and DAA members or learn more about the NAI and DAA, please go to the **[NAI Opt-Out](http://www.networkadvertising.org/managing/opt_out.asp)** website and **[DAA Choice Page](http://www.aboutads.info/choices)** and follow the instructions. After you opt-out, you will still see advertisements, but the advertising may not be as relevant to your interests. If you change your computer, change your browser or delete your cookies, you will need to renew your opt-out.
+
+##  **4\. How We Disclose Information to Third Parties**
+
+We may share your Personal Information with third parties as specifically approved by you or under the circumstances described below. If you do not want us to use or disclose Personal Information collected about you in the ways identified in this Policy, you should not use the Site or Services. 
+
+**A. Disclosure for legal reasons.**
+
+We may disclose and release your Personal Information to third parties: (a) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (b) in special cases, such as a physical threat to you or others, a threat to homeland security, a threat to our system or network, or in any cases in which we believe it is reasonably necessary to investigate or prevent harm, fraud, abuse, illegal conduct or a violation or alleged violation of this Policy or other agreement we may have with you. 
+
+**B. Agents and Contractors.**
+
+We may provide your Personal Information to service providers who work on our behalf or help us to operate our business, the Sites and the Services. Examples of such service providers include vendors and suppliers that provide us with technology, services, and/or content for sending email, analyzing data, research, providing advertising and marketing assistance, processing payments (including credit card payments), and providing customer service. Access to your Personal Information by these service providers is limited to the information reasonably necessary to perform its limited function. 
+
+**C. Aggregated, Anonymous Information.**
+
+We may share aggregated Anonymous Information about you with third parties. Aggregated information is your Anonymous Information that is combined with the Anonymous Information of other users. 
+
+**D. Contests, sweepstakes and polls.**
+
+Some or all of the information collected during a promotions, contest, polls, or sweepstakes (“Promotions”) may be disclosed publicly. It may also be shared with other third parties as disclosed at the time of collection or in the Promotion rules. These third parties may include providers of prizes in order to update you of your status of your prize or other fulfillment needs or a co-sponsor who may use your Personal Information to administer the Promotion or for their marketing purposes, but only in conformance with their privacy policy as made available to you at the time of collection. Everyday Health is not responsible for their privacy policy or practices. 
+
+When you participate in a Promotion, you are subject to any official rules for that Promotion, which may contain additional information about the specific privacy practices associated with the Promotion. 
+
+**E. Long-Term-License Services.**
+
+Some of the Sites are websites that Everyday Health operates on behalf of Licensors, for example PDRHealth.com, JillianMichaels.com and SouthBeachDiet.com. Everyday Health may share some or all of your Personal Information with its Licensors. This Policy does not cover the use of your Personal Information by Licensors. The privacy practices of Everyday Health's Licensors may differ from this policy and we encourage you to contact those third parties directly if you have questions regarding their use of your Personal Information. 
+
+**F. Sponsors, Merchants and other ways that you approve at the time of collection.**
+
+We may collect Personal Information about you and share it with third parties to the extent that you give us permission at the time of collection. For example, if you purchase a deal or service, we will provide your information to the applicable merchant or vendor. We also sometimes gather Personal Information on behalf of a sponsor in association with a promotion. In such a case, we will provide you notice at the time of collection that the information is being collected on the sponsor's behalf and link to the sponsor's privacy policy. 
+
+**G. Within our Company; Changes to our Company.**
+
+We may share your Personal Information with any of our subsidiaries, joint ventures, or other companies under common control. Additionally, in the event we go through a business transition such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Personal Information may be among the assets transferred. You acknowledge that such transfers may occur and are permitted by this Policy. 
+
+## **5\. Message Boards and Chats**
+
+We may make message boards, chat rooms, and other interactive forums available as part of the Services. You should be aware that any information which you post to these interactive forums or otherwise choose to make publicly available, including your Personal Information, may be disclosed and available to all users who have access to that portion of the Site or Services. By using these interactive forums, you agree that we are not responsible for any information that you disclose or communicate in such forums, and any disclosures you make are at your own risk. 
+
+## **6\. Children's Information**
+
+The Site and Services are not directed or intended for children under 13 years of age. We do not knowingly collect Personal Information from individuals under 13 years of age. If you are under 13 years of age, you should not register or provide Personal Information on the Site or through the Services. If you are the parent or guardian of a child whom you believe has disclosed Personal Information to us, please contact us at privacy@everydayhealth.com so that we may delete and remove such child's information from our systems. 
+
+## **7\. Updating and Control of Your Personal Information**
+
+We offer you choices regarding the collection, use, and sharing of your Personal Information. When you receive promotional communications from us you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the promotional e-mail or newsletter you receive or by editing your preference to receive these communications within the "Manage My Email" or similar feature on the individual Sites when you are logged in as a registered user.. 
+
+If your Personal Information changes or if you no longer desire to use or access one of the Sites or Services, we encourage you to correct, update or remove the Personal Information from your profile. This can be done at the "Profile" or "My Account" section on each of the Sites. (On some Sites the profile section is accessed through the MySite tab, e.g., MyEverydayHealth or MyRevolution). Keep in mind, however, that even if you delete information from your profile, we may retain your Personal Information in conformance with our data retention policy and Personal Information may remain within our databases, access logs, and other records. In addition, we are not responsible for updating or removing your Personal Information contained in the lists or databases of third parties who have been provided information as permitted by this Policy. 
+
+## **8\. Co-branded Sections of the Sites**
+
+Certain portions of the Sites may be co-branded with a business partner and subject to a different privacy policy that is either the partner's privacy policy or a privacy policy developed jointly by Everyday Health and our partner (collectively the "Co-branded Policy"). The partner's collection, use and dissemination practices regarding any data or Personal Information provided by, or obtained from users of these Co-branded portions of the Sites will be governed by the Co-branded Policy. Please read the Co-branded Policy for each Co-branded Site before providing any Personal Information. 
+
+## **9\. Third Party Links**
+
+The Sites may link to websites operated by third parties that we do not control. We do not monitor, control, or endorse the information collection or privacy practices of any third parties. We encourage you to become familiar with the privacy practices of every website you visit and to contact them if you have any questions about their respective privacy policies and practices. This Policy applies solely to information collected by us through the Sites or Services and does not apply to these third party websites. The ability to access information of third parties from the Sites or Services, or links to other websites or locations, is for your convenience only and does not signify our endorsement of such third parties, their products, services, websites, locations or their content. 
+
+## **10\. Security**
+
+We place a priority on the security of Personal Information, and we undertake reasonable security measures to help protect the data that resides on our servers. We also use secure server software (SSL) to process all financial transactions that occur on the Site. SSL technology can encrypt Personal Information transmitted over the Internet. However, no security system is impenetrable. We do not warrant the security of our servers, nor do we warrant that your information, including Personal Information, will be completely secure or not be intercepted while being transmitted over the Internet. 
+
+## **11\. How To Contact Us**
+
+If you have any questions regarding privacy or this Policy, you may contact us as follows: 
+
+Telephone: 888-795-4719 
+
+Email: privacy@everydayhealth.com 
+
+Address:   
+Everyday Health, Inc.   
+345 Hudson Street, 16th Floor   
+New York, NY 10014 
+
+## **12\. Privacy Policy Changes**
+
+We reserve the right to change, modify, add or remove portions of this Policy at any time and without prior notice, and any changes will become effective immediately upon being posted unless we advise you otherwise. Your continued use of the Site or Services after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of the Policy, as amended. We encourage you to bookmark this Web page and review this Policy regularly. 
+
+Close this window
