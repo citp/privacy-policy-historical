@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigtop40.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526064717id_/http%3A//www.bigtop40.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtop40.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224120642id_/http%3A//www.bigtop40.com/help/privacy-policy) for the most accurate reproduction.*
 
-# About Us | Privacy policy - Big Top 40 Music Chart
+# Help & FAQs | Privacy policy - Big Top 40
 
 Any information you provide about yourself to Global Radio UK Limited (“Global Radio”) or our associated companies will only be used in accordance with our Privacy Policy Statement, detailed below. Please note, the Privacy Policy Statement does not apply to websites or text services operated by third parties. 
 
