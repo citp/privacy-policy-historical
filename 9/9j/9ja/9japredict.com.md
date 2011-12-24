@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9japredict.com privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110074512id_/http%3A//9japredict.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9japredict.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225003816id_/http%3A//9japredict.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome to NAIJA PREDICT
 
