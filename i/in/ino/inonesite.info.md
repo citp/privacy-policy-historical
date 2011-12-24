@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inonesite.info privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626071208id_/http%3A//inonesite.info/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inonesite.info privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225002421id_/http%3A//inonesite.info/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Inonesite Image Hosting » More Information » Privacy Policy
 
