@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bestmark.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625031936id_/http%3A//www.bestmark.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestmark.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224053332id_/http%3A//www.bestmark.com/privacy.htm) for the most accurate reproduction.*
 
 # BestMark Privacy Policy
 
-This privacy notice discloses the privacy practices for (website address). This privacy notice applies solely to information collected by this web site. It will notify you of the following:
+This privacy notice discloses the privacy practices for BestMark. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
   * What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
   * What choices are available to you regarding the use of your data.
