@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jadopado.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527154645id_/http%3A//www.jadopado.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jadopado.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224012344id_/http%3A//jadopado.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / JadoPado
 
