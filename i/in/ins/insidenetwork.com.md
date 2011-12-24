@@ -1,127 +1,86 @@
-> *The following text is extracted and transformed from the insidenetwork.com privacy policy that was archived on 2002-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020415040042id_/http%3A//www.insideworld.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidenetwork.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224025002id_/http%3A//www.webmediabrands.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
 
-# InsideWorld - Privacy
+# WebMediaBrands Privacy Policy
 
-This statement discloses the privacy practices for [http://www.InsideWorld.com](http://www.insideworld.com/), fully owned by InsideWorld Corporation, for all derivative web pages, for all derivative domains and all offered services, excluding links to third party sites. Click here of a list of all Internet sites, owned and operated by InsideWorld Corporation, whose privacy practices are covered under this Statement. Because InsideWorld wants to demonstrate its commitment to your privacy, we offer to disclose the following aspects of our information practices:
+We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for the WEBM Network. The "WEBM Network" includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned or operated by WebMediaBrands Inc. and each of its wholly-owned subsidiaries (collectively the "Site") home page (collectively hereafter "WEBM"). By accessing the WEBM Network, you are consenting to the information collection and use practices described in this Privacy Policy. 
 
-1\. What personally identifiable information of yours or third party personally identification is collected from you through the web site
+We promise that we will use your personal information only in ways that are compatible with this Privacy Policy as follows: 
 
-2\. The organization collecting the information 
+## What information are you collecting and how are you collecting it?
 
-3\. How the information is used 
+## Do you collect IP addresses?
 
-4\. With whom the information may be shared 
+Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer's "Internet Protocol" IP address. When a visitor requests a page from any Web site within the WEBM Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our Sites. We use this information to examine our traffic in aggregate, and to investigate misuse of the WEBM Network, its users, or to cooperate with law enforcement. We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors. 
 
-5\. What choices are available to you regarding collection, use and distribution of the information 
+## What are cookies?
 
-6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under InsideWorld’s control 
+From time to time, WEBM or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of WEBM's Network you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our Site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
 
-7\. How you can correct any inaccuracies in the information.
+## How do you use single-pixel gifs?
+
+WEBM, its third party service providers and advertisers may use single-pixel gif images, sometimes referred to as web bugs or Web beacons, to count Web page accesses and gather some general statistical information. WEBM does not gather personal information through the use of these images. Our advertisers and third party providers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer. WEBM also uses various third party providers to track and analyze non-personally identifiable aggregate usage information from visitors to our Web sites in order to continuously improve the quality of our sites and services to you. 
+
+## What personal information do you collect?
+
+Wherever WEBM collects personal information we make an effort to include a link to this Privacy Policy. We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. The personal information we collect may include your name, title, company or organization name, e-mail address, phone number, work or home address, information about your job function, information about your company, and credit card information. 
+
+We may request your e-mail address or mailing address for the purposes of conducting a contest or to provide additional services (for example, subscriptions to announcement lists or information about conferences and trade shows). Participation in contests or other promotions on the WEBM Network is completely voluntary and you have a choice whether or not to disclose personal information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. 
+
+If you are purchasing something on the WEBM Network, we, and any third party provider, need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us, or third party providers, to process and fulfill your order and to notify you of your order status. Credit card and e-mail information will not be shared or sold to third parties for any purpose except as provided in this Privacy Policy without your express permission. 
+
+WEBM also offers access to some services that require registration. We may use your registration contact information to send notification to you of products and services by e-mail and/or postal mail. We may share that information with our clients and they may also send you promotional materials. We may also use your IP address internally and share it with third parties. 
+
+When you sign up for a WEBM e-mail newsletter, you are given the opportunity to sign up for targeted third-party mailings. Whether or not you want to receive these announcements is your choice. If you choose to receive an announcement from a specific distribution list, you will receive commercial messages from independent third parties that have contracted with WEBM to send messages to the list. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to [announcementlist@webmediabrands.com](mailto:announcementlist@webmediabrands.com) or by following the instructions on the e-mails you receive. 
+
+When you sign up for a WEBM discussion forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the WEBM network. 
+
+When you use co-branded services, or those provided by a third party, within the WEBM Network, your information may be passed to the co-brand or third party provider and their use of your information is subject to their applicable privacy policies. 
+
+We may from time to time send e-mail announcing new products and services. If you choose to supply your postal address in an online form, you may receive postal mailings from WEBM or third party companies. 
+
+## Will you disclose the information you collect to outside third parties?
+
+WEBM will disclose personal information and/or an IP address: 
+
+1) To contact you regarding other products and services which may be of interest to you (including those we may offer jointly with other companies). At any time, however, you may opt out of such contact;   
+2) When required by law or in the good-faith belief that such action is necessary to:   
+   a) Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on WEBM;   
+   b) Protect and defend the rights or property of the WEBM Network of sites and related properties, or visitors to the WEBM Network of sites and related properties;   
+   c) Identify persons who may be violating the law, the WEBM legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the WEBM Network or its related properties;   
+   d) Fulfill a user's order or request;   
+3) To process and fulfill your order or notify you of order status;   
+4) When we have your consent to share the information;   
+5) When you use co-branded services within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
 
 
-  
----  
-  
- **  Information Collection and Use**  
-  
-InsideWorld is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. InsideWorld collects information from our users at several different points in our network of websites.  
-   
-  
- **  Registration**  
-  
-In order to use certain features of [http://www.InsideWorld.com](http://www.insideworld.com/), a user must first complete the registration form.  During registration a user is required to give their contact information (such as name and email address).  This information is used to contact the user about the services on our site for which they have expressed interest. The on-line registration form also requires that the user provide demographic information (such as nationality and gender), so we can provide a more personalized experience on our site.  
-   
-  
-  **Order**  
-  
-Currently none of InsideWorld’s sites feature on-line purchase forms. If such forms are introduced in the future, our information practice will be governed by the following.
+We maintain a strict "No-Spam" policy that means that we do not sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy. 
 
-We request information from the user on our order form.  Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date).  This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, this contact information is used to get in touch with the user.  
-   
-  
- **  Cookies**  
-  
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Since cookies are stored on the user’s hard drive, not on our site, the user may at any time examine the data files and see what information is being recorded. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site.  The only drawback to this is that the user will be limited in some areas of our site and some features may not function properly. 
+## What else should I know about my privacy when online?
 
-We also use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.  
-   
-  
- **  Log Files**  
-  
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.  
-   
-  
- **  Sharing**  
-  
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+WEBM may use third-party advertising companies and advertising networks to serve ads to you based on information (not including your name, address, email address or telephone number) about your visits to our Web sites in order to provide targeted advertisements about goods and services that may be of interest to you while visiting other Web sites. 
 
-We may use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
+The WEBM Network contains many hyperlinks to third party Web sites. The WEBM Network also contains advertisements of third parties. WEBM is not responsible for the privacy practices or the content of such third party Web sites or advertisers. WEBM does not share any of the individual personal information you provide WEBM with the third parties to which WEBM links, except as stated elsewhere within this Privacy Policy, although WEBM may share general, aggregate data with such third parties (such as how many people use our Site). Please check with those Web sites to determine their privacy policy. 
 
-We may partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.  
-   
-  
-  **Links**  
-  
-[http://www.InsideWorld.com](http://www.insideworld.com/) and derivative sites contain links to other sites. Please be aware that InsideWorld is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information.  This privacy statement applies solely to information collected by InsideWorld’s Web sites.   
-   
-  
- **  News Letter**  
-  
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name, email address and other information, including possible demographic information.  
-   
-  
- **  Surveys & Contests**  
-  
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level).  Contact information will be used to notify the winners and award prizes.  Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.   
-   
-  
- **  Tell-A-Friend/Post Cards**  
-  
-If a user elects to use our referral service for informing a friend about our site or to send an electronic post card, we ask them for the name and email address of the third party. InsideWorld will automatically send that party a one-time email with directions.  InsideWorld stores this information for the sole purpose of sending this one-time email.  
-   
-  
- **  Security**  
-  
-This website takes every precaution to protect our users’ information. When users submit information via the website, your information is protected both online and off-line. 
+If you use WEBM's discussion threads, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these discussion threads. In order to avoid your e-mail address or other personal information from being gathered and used by others for inappropriate or harmful purposes, WEBM advises that you should be cautious about posting a real e-mail address or other personal information to newsgroups, chats, or other public forums. 
 
-Currently, no forms are on-line that require sensitive information (such as credit card number and/or social security number). May the need arise that such information be transmitted, the following procedure will be used.
+Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
 
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL.  While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when you are just ‘surfing’. To learn more about SSL, follow this link to [www.ssl.org](http://www.ssl.org/) or [www.apache-ssl.org.](http://www.apache-ssl.org./)
+Certain WEBM media properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other WEBM media properties do not use SSL and thereby do not offer a secure coded way to transfer information. 
 
-Currently, data collected through registration and other means is not treated as sensitive and is not done through a secured page and the lock icon will remain open. However, we do everything in our power to protect user-information. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information.  In such event, access to your information is password protected.  Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Finally, the servers that store personally identifiable information on are kept in a secure environment. 
+Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online. 
 
-If you have any questions about the security at our website, you can send an email to [security@InsideWorld.com](mailto:security@InsideWorld.com).  
-   
-  
- **  Supplementation of Information**  
-  
-In order for this website to enhance its ability to tailor the site to an individual’s preference, we may combine information about the purchasing habits of users with similar information from our partners to create a personalized user profile.   
-   
-  
-  **Special Offers**  
-  
-We may send a new member a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Such information may come directly from InsideWorld or from third parties. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.  
-   
-  
- **  Site and Service Updates**  
-  
-We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone.  
-   
-  
- **  Correction/Updating Personal Information**  
-  
-If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us.  
-  
- **  Choice/Opt-out**  
-  
-Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information.  For example, our subscription form has an ‘opt-out’ mechanism so users who subscribe to a news service from us, but don’t want any marketing material, can keep their email address off of our lists.
+## Business transfers
 
-Users may unsubscribe from any InsideWorld news service by accessing their account page at [http://www.InsideWorld.com/members/index.shtml](http://www.insideworld.com/members/index.shtml).  Username and password are required.
+We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may sell a company, assets or Web sites or one or more of the companies in our corporate family may merge with, or be acquired by, another company. In connection with the foregoing, we may transfer some or all of your information in order that the service being provided to you may continue or for other business purposes. 
 
-Users of our site are always notified when their information is being collected by any outside parties.  We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.  
-   
-  
- **  Notification of Changes**  
-  
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, then we will notify users by way of an email.  Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.  
- 
+## Your Consent To This Agreement
+
+By using the WEBM Network, you consent to the collection and use of information by WEBM as specified above. We reserve the right to modify this Policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+
+Please send any questions about WEBM's Privacy Policy to: [privacy@webmediabrands.com](mailto:privacy@webmediabrands.com)
+
+Please note that your use of the WEBM network of Web sites is governed by our [Legal Notice](http://www.webmediabrands.com/corporate/legal.html). 
+
+WebMediaBrands participates in the Safe Harbor program and adheres to the Safe Harbor principles developed by the U.S. Department of Commerce and the European Union. For more information about the Safe Harbor program, please visit the U.S. Department of Commerce's Safe Harbor website [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/)
+
+(Revised November 4, 2009) 
