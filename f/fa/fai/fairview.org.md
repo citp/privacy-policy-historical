@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairview.org privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626024248id_/http%3A//www.fairview.org/about/S_013970) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairview.org privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224041450id_/http%3A//www.fairview.org/about/S_013970) for the most accurate reproduction.*
 
 # Privacy content - Fairview Health Services
 
