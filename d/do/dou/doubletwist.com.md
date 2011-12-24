@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doubletwist.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519014620id_/http%3A//www.doubletwist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubletwist.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224132457id_/http%3A//www.doubletwist.com/privacy) for the most accurate reproduction.*
 
 # doubleTwist - Privacy
 
@@ -6,11 +6,15 @@
 
 Your privacy is very important to us at doubleTwist Corporation and its Affiliates (“ **doubleTwist** ,” “ **we** ,” “ **us** ,” or “ **our** ”). It is also very important that you don't die of boredom while trying to understand how we protect your privacy. So for entertainment purposes, we've added these comments to the headers to each section of legalese. Happy reading.
 
-### Introduction. (We care about your privacy; if you do, too, this might interest you.)
+### Introduction. 
+
+#### (We care about your privacy; if you do, too, this might interest you.)
 
 doubleTwist is committed to respecting Your privacy and the confidentiality of Your personal data, traffic data and communications content. This Privacy Policy is designed to assist You in understanding how doubleTwist uses and safeguards the information that You provide to doubleTwist while using the doubleTwist Services (that we define below). As such, we have established and implemented this Privacy Policy to inform visitors to the Website (that we also define below) and users of the doubleTwist Services how we use and protect the information we collect on or through the doubleTwist Services. By visiting the Website or using any of the doubleTwist Services, You consent to doubleTwist’s collection, use, storage, deletion and disclosure of information relating to You as set forth in this Privacy Policy. This Privacy Policy is effective as of the date set forth above and is only applicable to the Website and other doubleTwist Services and not to any other website that You may be able to access from the Website which may have its own data collection and use practices and policies.
 
-### Definitions. (See the various, everyday words we capitalize to make things "clearer".)
+### Definitions.
+
+#### (See the various, everyday words we capitalize to make things "clearer".)
 
 The following terms are used in this Privacy Policy, in both the singular and plural forms:
 
@@ -68,11 +72,13 @@ _Website:_ the website located at [www.doubleTwist.com](http://www.doubletwist.c
 
 
 
-#### 1\. What is doubleTwist and what services does it offer?
+### 1\. What is doubleTwist and what services does it offer?
 
 doubleTwist is a company headquartered in San Francisco, California and established under the laws of Cayman Islands. Through the Website, doubleTwist offers You the doubleTwist Software and the doubleTwist Pro Service, which may be extended or changed from time to time.
 
-#### 2\. What information does doubleTwist collect? (Do you remember the capitalized words above?)
+### 2\. What information does doubleTwist collect?
+
+####  (Do you remember the capitalized words above?)
 
 In order to provide the doubleTwist Software and certain doubleTwist Services, doubleTwist gathers and processes the following information.
 
@@ -93,7 +99,9 @@ In order to provide You with the Subscription Service, doubleTwist, in addition 
 
 
 
-#### 3\. How does doubleTwist use this information and for what purpose? (Will we spam you with stuffed polar bear gift ideas?)
+### 3\. How does doubleTwist use this information and for what purpose?
+
+#### (Will we spam you with stuffed polar bear gift ideas?)
 
 Our primary purpose in collecting information is to provide You with a safe, smooth, efficient, and customized experience. We may use Personal Data to: provide services and customer support You request;, resolve disputes, collect fees or troubleshoot problems;, enforce our Terms of Service; customize, measure, and improve the functionality, features, content and layout of the doubleTwist Services; inform You about targeted marketing and promotional offers (unless You opt out); compare information for accuracy and verify Your identity; and provide other services for You as described when we collect the information.
 
@@ -103,7 +111,9 @@ We keep track of Your interactions with us, including but not limited to Your ac
 
 We may also use Your Personal Data on an aggregated basis, such as determining how many of our users own a particular brand of mobile device, for our internal analytical purposes and to contact You for targeted marketing and promotional offers as mentioned above (unless You opt out).
 
-#### 4\. To whom does doubleTwist transfer Your personal information? (Will others be able to spam you with stuffed polar bear gift ideas?)
+### 4\. To whom does doubleTwist transfer Your personal information?
+
+#### (Will others be able to spam you with stuffed polar bear gift ideas?)
 
 Except as provided below, doubleTwist shall not sell, rent, trade or otherwise transfer any Personal and/or Traffic Data or Communications Content to any third party without Your explicit permission, unless it is obliged to do so under applicable laws or by order of the appropriate authorities.
 
@@ -121,7 +131,9 @@ As doubleTwist continues to develop its business, doubleTwist might sell or buy 
 
 Advertisements appearing in doubleTwist Services may be delivered to You by our advertising partners. Information such as the number of times You have viewed an advertisement (but not Your name, address, or other Personal Data), is used to serve advertisements to You.
 
-#### 5\. What are cookies and how does doubleTwist use them? (The technical kind, not the edible kind, ok?)
+### 5\. What are cookies and how does doubleTwist use them?
+
+#### (The technical kind, not the edible kind, ok?)
 
 Cookies are pieces of information that doubleTwist will transfer to Your computer's hard drive through Your browser to enable doubleTwist´s systems to recognize and enhance Your use of the doubleTwist Website. Cookies also enable doubleTwist to gain information about the use of its Website and to enhance the Website accordingly to the preferences of the users.
 
@@ -131,21 +143,29 @@ The Help option on the toolbar of most browsers will tell You how to prevent You
 
 In the course of serving advertisements to the doubleTwist site, third party advertisers or their agents may place or recognize a unique cookie on Your browser.
 
-#### 6\. How far does doubleTwist's responsibility extend? (No, you don't have to get out of your seat to see this.)
+### 6\. How far does doubleTwist's responsibility extend?
+
+#### (No, you don't have to get out of your seat to see this.)
 
 The Website may contain links that will let You leave the Website and access another website. Linked websites are not under the control of doubleTwist and it is possible that these websites have different privacy policies. As between the Website and other websites, this Privacy Policy applies solely to Personal Data that is acquired on the Website, so doubleTwist urges You to be careful when You enter any personal information online. doubleTwist accepts no responsibility or liability for these other websites.
 
 The doubleTwist Services may also have message boards, forums and/or chat areas, where users can exchange ideas and communicate with one another. When You post to a message board, forum or chat area, please be aware that the information You post is made publicly available on-line and You do so at Your own risk. Additionally, please note that Your User Profile may be visible to other doubleTwist Services users and through third party websites, therefore, any Personal Data You disclose through the User Profile will be visible to other parties. You should therefore not put any type of information that You do not with other users to see in Your User Profile.
 
-#### 7\. How does doubleTwist protect Your personal information? (Don't worry, we have all signed up for karate.)
+### 7\. How does doubleTwist protect Your personal information?
+
+###  (Don't worry, we have all signed up for karate.)
 
 The Personal Data that You provide to us is stored on servers, which are located in secured facilities with restricted access, and protected by protocols and procedures designed to ensure the security of such information. In addition, we restrict access to Personal Data to doubleTwist employees, independent contractors and agents who need to know this information in order to develop, operate and maintain the doubleTwist Services. All doubleTwist personnel who have access to this information are trained in the maintenance and security of such information. However, no server, computer or communications network or system, or data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect user information, we cannot ensure or warrant the security of any information You transmit to us or through the use of any of the doubleTwist Services and You acknowledge and agree that You provide such information and engage in such transmissions at Your own risk. Once we receive a transmission from You, we will endeavor to maintain its security on our systems.
 
-#### 8\. doubleTwist Policy for Young People (We'd love to be like your buddy's eccentric Aunt Stardust and let you do anything, but there are laws preventing that.)
+### 8\. doubleTwist Policy for Young People
+
+#### (We'd love to be like your buddy's eccentric Aunt Stardust and let you do anything, but there are laws preventing that.)
 
 The doubleTwist Services, including, without limitation, the Website and doubleTwist Software, are not intended for use by children under the age of 13. If You are under the age of 13, You should not use the doubleTwist Services. We do not knowingly collect Personal Data from children under 13. We take children’s privacy seriously, and encourage parents to play an active role in their children’s online experience at all times.
 
-#### 9\. Can this Privacy Statement be modified? (Sure, if someone hits the wrong button, but that's probably not what you're asking.)
+### 9\. Can this Privacy Statement be modified?
+
+#### (Sure, if someone hits the wrong button, but that's probably not what you're asking.)
 
 doubleTwist reserves the right to modify the provisions of this Privacy Policy if deemed necessary. We will inform You of these changes by publishing the revised Privacy Policy at 
 
@@ -153,27 +173,31 @@ doubleTwist reserves the right to modify the provisions of this Privacy Policy i
 
 The revised Privacy Policy shall become effective on the date that it is posted and Your continued use of the doubleTwist Software or other doubleTwist Services after such date shall constitute Your acceptance of the Privacy Policy, as amended.
 
-#### 10\. What kind of options do I have regarding my Personal Data? (Are you getting flamed for insulting someone's home video?)
+### 10\. What kind of options do I have regarding my Personal Data?
+
+#### (Are you getting flamed for insulting someone's home video?)
 
 If You would like to correct, complete or remove Your Personal Data, please contact doubleTwist at
 
 [delete@doubletwist.com](mailto:delete@doubletwist.com?subject=Personal%20Data%20Request). Within a reasonable period of time and upon verification of Your identity, doubleTwist will fulfill Your request, as long as such compliance is consistent with applicable law.
 
-#### 11\. What if You live in the European Union?
+### 11\. What if You live in the European Union?
 
 doubleTwist adheres to the Safe Harbor Principles that were established by the U.S. Department of Commerce in consultation with the European Commission to comply with the European Commission's Directive on Data Protection.
 
-#### 12\. How do You resolve a dispute with doubleTwist regarding Your Personal Data?
+### 12\. How do You resolve a dispute with doubleTwist regarding Your Personal Data?
 
-##### Mediation
+#### Mediation
 
 If You are a resident of a country outside of the European Union, You agree that, in the event any dispute or claim arises out of or relating to this Privacy Policy that You and doubleTwist will attempt in good faith to negotiate a written resolution of the matter directly between the parties. You agree that if the matter remains unresolved for forty-five (45) days after notification (via certified mail or personal delivery) that a dispute exists, all parties shall join in mediation services in San Francisco, California with a mutually agreed mediator in an attempt to resolve the dispute. Should You file any arbitration claims, or any administrative or legal actions without first having attempted to resolve the matter by mediation, then You agree that You will not be entitled to recover attorney’s fees, even if You would otherwise be entitled to them.
 
-##### Dispute Resolution for Residents of the European Union
+#### Dispute Resolution for Residents of the European Union
 
 If You are a resident of the European Union, in the event that You have any dispute or claim arising out of or relating to this Privacy Policy, You may report Your claim to the European Union Data Protection Authorities located in Your jurisdiction. 
 
-#### 13\. What else should I know? (If you're not asleep now, keep reading - there's more!)
+### 13\. What else should I know?
+
+#### (If you're not asleep now, keep reading - there's more!)
 
   * **User Profile**
 
