@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremesecretsofwealth.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628171652id_/http%3A//extremewealthpotentials.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremesecretsofwealth.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224140738id_/http%3A//extremewealthpotentials.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,5 +62,5 @@ Where to Direct Questions About Our Privacy Policy:  If you have any questions 
 
 Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. 
 
-© 2008 ExtremeWealthPotentials.com  
+© 2011-12 ExtremeWealthPotentials.com  
 
