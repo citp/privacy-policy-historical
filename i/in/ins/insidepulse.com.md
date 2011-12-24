@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insidepulse.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624190308id_/http%3A//insidepulse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidepulse.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224102157id_/http%3A//insidepulse.com/privacy) for the most accurate reproduction.*
 
-# Inside Pulse | Privacy
+# Inside Pulse Privacy
 
 Thank you for visiting Inside Pulse or one of our affiliate sites. Your privacy on the Internet is of the utmost importance to us, and with that in mind we have devised this notice to fully disclose our online information practices. This privacy statement discloses the privacy practices for Inside Pulse – what information we gather, how we use it and how to correct or change it.
 
@@ -47,5 +47,3 @@ Inside Pulse uses server logs and a public tracking system, as well as data prov
 **Contact**
 
 If there are any additional privacy concerns, don’t hesitate to e-mail us and any questions will be answered to the best of our ability. All of our contact information can be found [here](http://www.inside%20pulse/about_us/contact_us).
-
-_Jonathan Widro is the owner and founder of Inside Pulse. Over a decade ago he burst onto the scene with a pro-WCW reporting style that earned him the nickname WCWidro. Now in 2010, Widro writes for nearly every Inside Pulse Zone (in addition to designing, coding and managing the whole site as well), most notably Wrestling, Video Games, TV and Music. Check him out[on Twitter](http://twitter.com/widro) for mostly inane non sequiturs_
