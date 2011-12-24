@@ -1,0 +1,353 @@
+<!--The following is the downloaded HTML source of the nextsportstar.com privacy policy that was archived on 2011-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111224170642id_/http%3A//www.nextsportstar.com/help/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
+  <base href="http://www.nextsportstar.com/">
+
+  
+    
+
+      <title>Social Network - Privacy Policy</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Language" content="en">
+<meta name="description" content="Nextsportstar.com – is a social networking website that combines the best of Facebook, Twitter and YouTube and adds elements of Kijiji and Craigslist to create a social media site for one of the biggest passion points – and entertainment businesses – thro This is the privacy policy page">
+<meta name="keywords" content="Sport, sport fans, Hockey, Football, Basketball, Baseball, Soccer, Golf, Figure Skating, Gymnastics">
+
+
+      <link href="/application/css.php?request=application/themes/default/theme.css&amp;c=34" media="screen" rel="stylesheet" type="text/css">
+<link href="/favicon.ico?c=34" rel="favicon" type="image/x-icon">
+  
+
+    
+    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+      </script>
+    <script type="text/javascript" src="/externals/mootools/mootools-1.2.5-core-yc.js?c=34"></script>
+<script type="text/javascript" src="/externals/mootools/mootools-1.2.5.1-more-yc.js?c=34"></script>
+<script type="text/javascript" src="/externals/chootools/chootools.js?c=34"></script>
+<script type="text/javascript" src="/application/modules/Core/externals/scripts/core.js?c=34"></script>
+<script type="text/javascript" src="/application/modules/User/externals/scripts/core.js?c=34"></script>
+<script type="text/javascript" src="/externals/smoothbox/smoothbox4.js?c=34"></script>
+<script type="text/javascript">
+    //<![CDATA[
+
+    Date.setServerOffset('Sat, 24 Dec 2011 17:07:08 +0000');
+    
+    en4.orientation = 'ltr';
+    en4.core.environment = 'production';
+    en4.core.language.setLocale('en');
+    en4.core.setBaseUrl('/');
+    en4.core.staticBaseUrl = '/';
+    en4.core.loader = new Element('img', {src: en4.core.staticBaseUrl + 'application/modules/Core/externals/images/loading.gif'});
+    
+            if( false ) {
+      en4.core.runonce.add(function() {
+        en4.core.dloader.attach();
+      });
+    }
+    
+        //]]>
+</script>
+<script type="text/javascript"></script>
+<script type="text/javascript" src="/application/modules/Activity/externals/scripts/core.js?c=34"></script>
+  
+</head>
+<body id="global_page_core-help-privacy">
+  <div id="global_header">
+    <div class="layout_page_header">
+<div class="generic_layout_container layout_main">
+<div class="generic_layout_container layout_core_menu_mini">
+<div id="core_menu_mini_menu">
+    <ul>
+              <li><a href="/login/return_url/64-L2hlbHAvcHJpdmFjeQ%3D%3D" class="menu_core_mini core_mini_auth">Sign In</a></li>
+          <li><a href="/signup" class="menu_core_mini core_mini_signup">Sign Up</a></li>
+              <li id="global_search_form_container">
+        <form id="global_search_form" action="/search" method="get">
+          <input type="text" class="text suggested" name="query" id="global_search_field" size="20" maxlength="100" alt="Search">
+        </form>
+      </li>
+      </ul>
+</div>
+
+
+<script type="text/javascript">
+  var notificationUpdater;
+
+  en4.core.runonce.add(function(){
+    if($('global_search_field')){
+      new OverText($('global_search_field'), {
+        poll: true,
+        pollInterval: 500,
+        positionOptions: {
+          position: ( en4.orientation == 'rtl' ? 'upperRight' : 'upperLeft' ),
+          edge: ( en4.orientation == 'rtl' ? 'upperRight' : 'upperLeft' ),
+          offset: {
+            x: ( en4.orientation == 'rtl' ? -4 : 4 ),
+            y: 2
+          }
+        }
+      });
+    }
+
+    if($('notifications_markread_link')){
+      $('notifications_markread_link').addEvent('click', function() {
+        //$('notifications_markread').setStyle('display', 'none');
+        en4.activity.hideNotifications('0 Updates');
+      });
+    }
+
+      });
+
+
+  var toggleUpdatesPulldown = function(event, element, user_id) {
+    if( element.className=='updates_pulldown' ) {
+      element.className= 'updates_pulldown_active';
+      showNotifications();
+    } else {
+      element.className='updates_pulldown';
+    }
+  }
+
+  var showNotifications = function() {
+    en4.activity.updateNotifications();
+    new Request.HTML({
+      'url' : en4.core.baseUrl + 'activity/notifications/pulldown',
+      'data' : {
+        'format' : 'html',
+        'page' : 1
+      },
+      'onComplete' : function(responseTree, responseElements, responseHTML, responseJavaScript) {
+        if( responseHTML ) {
+          // hide loading icon
+          if($('notifications_loading')) $('notifications_loading').setStyle('display', 'none');
+
+          $('notifications_menu').innerHTML = responseHTML;
+          $('notifications_menu').addEvent('click', function(event){
+            event.stop(); //Prevents the browser from following the link.
+
+            var current_link = event.target;
+            var notification_li = $(current_link).getParent('li');
+
+            // if this is true, then the user clicked on the li element itself
+            if( notification_li.id == 'core_menu_mini_menu_update' ) {
+              notification_li = current_link;
+            }
+
+            var forward_link;
+            if( current_link.get('href') ) {
+              forward_link = current_link.get('href');
+            } else{
+              forward_link = $(current_link).getElements('a:last-child').get('href');
+            }
+
+            if( notification_li.get('class') == 'notifications_unread' ){
+              notification_li.removeClass('notifications_unread');
+              en4.core.request.send(new Request.JSON({
+                url : en4.core.baseUrl + 'activity/notifications/markread',
+                data : {
+                  format     : 'json',
+                  'actionid' : notification_li.get('value')
+                },
+                onSuccess : function() {
+                  window.location = forward_link;
+                }
+              }));
+            } else {
+              window.location = forward_link;
+            }
+          });
+        } else {
+          $('notifications_loading').innerHTML = 'You have no new updates.';
+        }
+      }
+    }).send();
+  };
+
+  /*
+  function focusSearch() {
+    if(document.getElementById('global_search_field').value == 'Search') {
+      document.getElementById('global_search_field').value = '';
+      document.getElementById('global_search_field').className = 'text';
+    }
+  }
+  function blurSearch() {
+    if(document.getElementById('global_search_field').value == '') {
+      document.getElementById('global_search_field').value = 'Search';
+      document.getElementById('global_search_field').className = 'text suggested';
+    }
+  }
+  */
+</script></div>
+
+<div class="generic_layout_container layout_core_menu_logo">
+<a href="/"></a></div>
+
+<div class="generic_layout_container layout_core_menu_logo">
+<a href="/"><img src="public/admin/NextSportsStar.gif" alt=""></a></div>
+
+<div class="generic_layout_container layout_core_menu_main">
+<ul class="navigation">
+    <li>
+        <a class="menu_core_main core_main_home" href="/">Home</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_user" href="/members">Stars</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_album" href="/albums">Star Cards</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_blog" href="/blogs">Blogs</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_poll" href="/polls">Polls</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_forum" href="/forums">Forum</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_chat" href="/chat">Chat</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_group" href="/groups">Sport Groups</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_event" href="/events">Events</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_music" href="/music">Music</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_video" href="/videos">Videos</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_flashgame" href="/games/browse">Games</a>
+    </li>
+</ul></div>
+
+<div class="generic_layout_container layout_core_html_block">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24458150-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></div>
+
+<div class="generic_layout_container layout_core_html_block">
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "11356090" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=11356090&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag --></div>
+
+<div class="generic_layout_container layout_core_html_block">
+<!-- Start of StatCounter Code for Default Guide --> <script type="text/javascript"> var sc_project=7496761; var sc_invisible=1; var sc_security="6b6558d6"; </script> <script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
+<noscript><div class="statcounter"><a title="stat tracker for tumblr"
+href="http://statcounter.com/tumblr/" target="_blank"><img class="statcounter" src="http://c.statcounter.com/7496761/0/6b6558d6/1/"
+alt="stat tracker for tumblr"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide --> </div>
+</div>
+</div>
+  </div>
+  <div id="global_wrapper">
+    <div id="global_content">
+            <div class="layout_page_core_help_privacy">
+<div class="generic_layout_container layout_main">
+<div class="generic_layout_container layout_middle">
+<div class="generic_layout_container layout_core_content">
+
+<h2>Privacy Statement</h2>
+<p>
+  NextSportStar (NSS) Privacy Policy<br>
+<br>
+This Privacy Policy describes NextSportStar’s (NSS's) policies and procedures on the collection, use and disclosure of your information. NSS receives your information through our various web sites, SMS, APIs, applications, services and third-parties ("Services"). For example, you send us information when you use NSS from our web site, post or receive comments via your smart phone. When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by NSS in any country where NSS operates.<br>
+<br>
+Information Collection and Use<br>
+<br>
+Tip - We collect and use your information to provide and measure use of our Services and improve them over time.<br>
+<br>
+Information Collected Upon Registration: <br>
+When you create or reconfigure a NSS account, you provide some personal information, such as your name, username, password, and email address. Some of this information, for example, your name and username, is listed publicly on our Services, including on your profile page and in search results. Some Services, such as search, public user profiles and viewing lists, do not require registration.<br>
+<br>
+Additional Information: <br>
+You may provide us with additional information to make public, such as a short biography, your location, or a picture. You may customize your account with information from your address book so that we can help you find NSS users you know. We may use your contact information to send you information about our Services or to market to you. You may unsubscribe from these messages by following the instructions contained within the messages or the instructions on our web site. If you email us, we may keep your message, email address and contact information to respond to your request. Providing the additional information described in this section is entirely optional.<br>
+<br>
+Comments/Postings and  Public Information: <br>
+Our Services are primarily designed to help you share information with the world. Most of the information you provide to us is information you are asking us to make public. This includes not only the messages you post, information you blog, discussions in our Forum, classifieds, your fans, the Stars you follow. For example, your public comments are searchable by many search engines. You should be careful about all information that will be made public by NSS, not just your Comments.<br>
+<br>
+Tip - What you say on NSS may be viewed around the world instantly.<br>
+<br>
+Log Data: <br>
+Our servers automatically record information ("Log Data") created by your use of the Services. Log Data may include information such as your IP address, browser type, the referring domain, pages visited, your mobile carrier, device and application IDs, and search terms. Other actions, such as interactions with our website, applications and advertisements, may also be included in Log Data. If we haven’t already deleted the Log Data earlier, we will either delete it or remove any common account identifiers, such as your username, full IP address, or email address, after 18 months.<br>
+<br>
+Links:  <br>
+NSS  may keep track of how you interact with links in NSS across our Services including third party services and clients by redirecting clicks or through other means. We do this to help improve our Services, including advertising, and to be able to share aggregate click statistics such as how many times a particular link was clicked on.<br>
+<br>
+Cookies: <br>
+Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services, but we do not require cookies for many parts of our Services such as searching and looking at public user profiles or lists. A cookie is a small data file that is transferred to your computer's hard disk. NSS may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.<br>
+<br>
+Information Sharing and Disclosure<br>
+<br>
+Tip - We do not disclose your private information except in the limited circumstances described here.<br>
+<br>
+Your Consent: <br>
+We may share or disclose your information with your consent, such as when you use a third party web client or application to access your NSS account.<br>
+<br>
+Service Providers:<br>
+We engage certain trusted third parties to perform functions and provide services to us. We may share your personal information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to obligations mirroring the protections of this privacy policy.<br>
+<br>
+Law and Harm: <br>
+We may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect NSS’s rights or property.<br>
+<br>
+Business Transfers: <br>
+In the event that NSS is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this privacy policy will apply to your information as transferred to the new entity.<br>
+<br>
+Non-Private or Non-Personal Information: <br>
+We may share or disclose your non-private, aggregated or otherwise non-personal information, such as your public comments or the number of users who clicked on a particular link (even if only one did).<br>
+<br>
+Modifying Your Personal Information<br>
+<br>
+If you are a registered user of our Services, we provide you with tools to access or modify the personal information you provided to us and associated with your account.<br>
+<br>
+You can also permanently delete your NSS account, your account will be deactivated and then deleted. When your account is deactivated, it is not viewable on NextSportStar.com<br>
+<br>
+Our Policy Towards Children<br>
+<br>
+Our Services are not directed to people under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at www.nextsportstar.com/help/contact. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.<br>
+<br>
+Changes to this Policy<br>
+<br>
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always posted on the NSS website. We may make a change to this policy that, in our sole discretion, is material at any time. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.<br>
+</p></div>
+</div>
+</div>
+</div>
+          </div>
+  </div>
+  <div id="global_footer">
+    <div class="layout_page_footer">
+<div class="generic_layout_container layout_main">
+<div class="generic_layout_container layout_core_menu_footer">
+Copyright ©2011  &nbsp;-&nbsp; <a href="/help/privacy" class="menu_core_footer core_footer_privacy" active="1">Privacy</a>  &nbsp;-&nbsp; <a href="/help/terms" class="menu_core_footer core_footer_terms">Rules of Conduct</a>  &nbsp;-&nbsp; <a href="/help/contact" class="menu_core_footer core_footer_contact">Contact</a>  &nbsp;-&nbsp; <a href="/help/privacy?mobile=1" enabled="1" class="menu_core_footer core_footer_mobile" uri="/help/privacy?mobile=1">Mobile Site</a>
+
+</div>
+</div>
+</div>
+  </div>
+
+</body></html>
