@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the speedo.com privacy policy that was archived on 2011-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110503012009id_/http%3A//www.speedousa.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the speedo.com privacy policy that was archived on 2011-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111224214937id_/http%3A//www.speedousa.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -8,7 +8,8 @@
 <link href="http://spdo.imageg.net/css/oneColFix.css" rel="stylesheet" type="text/css">
 <link href="http://spdo.imageg.net/css/DF_SPDO_template.css" rel="stylesheet" type="text/css">
 <link href="http://spdo.imageg.net/css/PG_SPDO_helpdesk.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="http://spdo.imageg.net/js/prototype1_6_0_2.js" language="javascript"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://spdo.imageg.net/js/prototype1_6_0_2.js" language="javascript"></script>
+<meta name="msvalidate.01" content="85D4F0A6609C687003AAAC111C005EA8">
 <link href="http://spdo.imageg.net/css/oneColFix.css" rel="stylesheet" type="text/css">
 <link href="http://spdo.imageg.net/css/spdo.css" rel="stylesheet" type="text/css">
 <link href="http://spdo.imageg.net/css/DF_SPDO_template.css" rel="stylesheet" type="text/css">
@@ -162,9 +163,16 @@ function toggleEmail(num, x, y){
 		$('eafTopImg').src = "/images/spdo_eafTop2.png";
 		$('eafBotImg').src = "/images/spdo_eafBot2.png";
 		$('eContent').style.display = 'block'
-	}else
+	}else if(num==3){
+		y = (y-152) + 'px';
+		$('eContent-ftr').setStyle({'top':y})
+		$('eafTopImg-ftr').src = "/images/spdo_eafTop.png";
+		$('eafBotImg-ftr').src = "/images/spdo_eafBot.png";
+		$('eContent-ftr').style.display = 'block'
+	}else {
 		$('eContent').style.display = 'none'
-	
+		$('eContent-ftr').style.display = 'none'
+	} 
 }
 
 var tempX = 0
@@ -254,6 +262,9 @@ function getMouseXY(e) {
         
             _shoprunner_com.environmentID = 2;
         
+
+        _shoprunner_com.checkout = new Object();
+        _shoprunner_com.checkout.enabled = false;
     </script>
 
     <script language="JavaScript" type="text/javascript" src="http://spdo.imageg.net/include/shoprunner/js/shoprunner_init.js"></script>
@@ -299,7 +310,72 @@ document.cookie = 'domain=.speedousa.com';
 
 
 
-	
+
+<script type="text/javascript">
+function emailOmni()
+{
+/* guptas2 -  REQUIRED FOR OMNITURE DO NOT REMOVE */
+	 
+	if(typeof esclt != "undefined") {
+		emailSignupCustomLinkTrack(this);
+	}
+
+/* END OMNITURE */
+return false;
+}
+</script>
+    
+    <div id="header">
+	    <a href="/home/index.jsp?clickid=topnav_logo_img" title="" id="brand"><img src="http://spdo.imageg.net/images/global/spdo-logo.png" width="164" height="34" alt="SPEEDO"></a>
+	    
+
+	    
+	   
+		<div id="util-close"></div>
+		<ul id="util">
+		
+		<div id="util-open"></div>
+		  <li><a href="/helpdesk/index.jsp" title="Help">Help</a></li>
+		  <li><a title="Email Signup" class="emailSignup" href="javascript:toggleEmail(1, 0, 0);">Email Signup</a></li>
+		  <li><a href="/coreg/index.jsp?step=register&amp;clickid=topnav_myacct_txt" title="My Account">My Account</a></li>
+		  <li><a href="/category/index.jsp?categoryId=4304992" title="Wish List">Wish List</a></li>
+		  
+		  <li class="shopping-cart"><a href="/cart/index.jsp?an_action=viewCart" title="Shopping Cart">Shopping Cart&nbsp;&nbsp;<b>[0 items]</b></a></li>
+		</ul>
+		
+		<div id="eContent">
+			<div class="eafTop"><img id="eafTopImg" src="http://spdo.imageg.net/images/spdo_eafTop.png" width="257" height="26"></div>
+			<div class="eafMid" style="height:auto;">
+				<iframe width="237" height="220" frameborder="0" style="border:none; background:#eee; z-index:20" src="../include/entry.html"></iframe>
+			</div>
+			<div class="eafBot"><img id="eafBotImg" src="http://spdo.imageg.net/images/spdo_eafBot.png" width="257" height="26"></div>
+		</div>
+		
+		<div id="login-info">
+			<div id="welcome">
+				
+				 
+				
+					
+					
+						 
+					
+				
+				
+				
+					
+					
+						Welcome to SpeedoUSA.com&nbsp;(<a href="https://www.speedousa.com/coreg/index.jsp?step=register">Login now.</a>)
+					
+				
+				
+			</div>
+			
+		</div>
+			
+		
+		<div id="spdo-header-main">
+			
 
 
 
@@ -337,92 +413,45 @@ document.cookie = 'domain=.speedousa.com';
 	
 
 
-<div class="wrap cms-wrap">
-	<div id="header-CMS-1">
 		<!-- BEGIN CMS SLOT --><!-- =========================== CMS Page and Campaign info ========================== -->
-<!-- === Page ID:  217777   -->
-<!-- === Page Name:  Speedo_FS100_04.26.2011   -->
-<!-- === Page URI:  /gsi/spdo/cmsTemplates/spdo_headerInclude_1_v1.jsp   -->
+<!-- === Page ID:  287900   -->
+<!-- === Page Name:  Speedo_BuyASuit_OAS_11152011   -->
+<!-- === Page URI:  /gsi/spdo/cmsTemplates/spdo_headerInclude_1_v2.jsp   -->
 <!-- === -->
-<!-- === Campaign ID:  112699   -->
-<!-- === Campaign Name:  Speedo_FS100_04262011   -->
-<!-- === Campaign Tracking Code:  Speedo_FS100_0426201   -->
-<!-- === Campaign Start Time:  2011-04-26 03:00:00.0   -->
+<!-- === Campaign ID:  137226   -->
+<!-- === Campaign Name:  Speedo_BuyASuit_OAS_11152011    -->
+<!-- === Campaign Tracking Code:  Speedo_BuyASuit_OAS_   -->
+<!-- === Campaign Start Time:  2011-12-02 17:58:00.0   -->
 <!-- === Campaign End Time:  null   -->
 <!-- === -->
 <!-- ================================================================================= -->
 <!-- =========================== Request info ========================== -->
 <!-- === Request URI:  /gsi/spdo/helpdesk/index.jsp   -->
-<!-- === Request Query String:  display=safety&subdisplay=privacy   -->
-<!-- === Include URI:  /gsi/spdo/cmsTemplates/spdo_headerInclude_1_v1.jsp   -->
-<!-- === Include Query String:  null   -->
+<!-- === Include URI:  /gsi/spdo/cmsTemplates/spdo_headerInclude_1_v2.jsp   -->
 <!-- ================================================================================= -->
 <!-- =========================== CMS Slot and Widget info ========================== -->
-<!-- === Widget ID:  462890   -->
-<!-- === Widget Name:  spdo_header_1   -->
+<!-- === Widget ID:  641485   -->
+<!-- === Widget Name:  spdo_header_main   -->
 <!-- === Slot Name:  null   -->
-<!-- === Slot Data Map:  {spdo_header_1=462890}   -->
+<!-- === Slot Data Map:  {spdo_header_main=641485}   -->
 <!-- ================================================================================= -->
-<div id="spdo_header_1" style="width:992px;border:0px;overflow:hidden;">
+<div id="spdo_header_main" style="height:20px;width:439px;border:0px;overflow:hidden;">
 
 
-<div id="OUTER0" style="textOverflow:clip;overflow:hidden;position:relative;height:60px;width:957px;"><script type="text/javascript">
+<div id="OUTER29" style="textOverflow:clip;overflow:hidden;position:relative;height:20px;width:438px;"><script type="text/javascript">
 function invokeAnchor(id)
 {
 var anchor = document.getElementById(id);
 window.location = anchor.href;
 }
 </script>
-<a id="linkURL0" href="javascript:void(window.open('/promo/index.jsp?promoId=11560836&amp;ab=FS100','promo','width=500,height=400,toolbar=no,status=no,menubar=no,scrollbars=yes,resizable=no'))" title="Free Shipping on orders $100 or more. Limited time only! Details" style="display:none"></a><img border="0" name="04202011FS100OAS.png" src="http://spdo.imageg.net/cms_widgets/46/28/462890_assets/04202011FS100OAS.png" height="60" width="957" alt="Free Shipping on orders $100 or more. Limited time only! Details" align="Default" valign="Default" style="visibility: visible; cursor: pointer; display: block;" title="Free Shipping on orders $100 or more. Limited time only! Details" onclick="javascript:invokeAnchor('linkURL0');"><img border="0" name="04192011productReviewOAS.png" src="http://spdo.imageg.net/cms_widgets/46/28/462890_assets/04192011productReviewOAS.png" height="60" width="957" align="Default" valign="Default" style="visibility: hidden; display: none;"></div><script type="text/javascript">function CMS_Rotate(id,spd,isRandom){    var obj=document.getElementById(id);    if (!obj) {        return;    }    imgs = obj.getElementsByTagName("IMG");    if (!imgs || imgs.length < 2) {        return;    }    ary = new Array(imgs.length);    for (i = 0; i < imgs.length; i++) {        imgs[i].style.visibility='hidden';        imgs[i].style.display='none';        ary[i] = imgs[i];    }    if (isRandom) {        ary.sort(function() { return Math.round(Math.random())-0.5; });    }    ary[0].style.visibility='visible';    ary[0].style.display='block';    var roop=new CMS_RotateOOP(obj,ary,spd);}function CMS_RotateOOP(obj,ary,spd,srt){    this.obj=obj;    this.ary=ary;    this.spd=(spd||45)*1000;    this.curr=0;    this.to=null;    this.to=setTimeout(function(oop){return function(){oop.rotate();}}(this),this.spd);}CMS_RotateOOP.prototype.rotate=function(){    clearTimeout(this.to);    this.ary[this.curr].style.visibility="hidden";    this.ary[this.curr].style.display="none";        this.curr=++this.curr%this.ary.length;    this.ary[this.curr].style.visibility="visible";    this.ary[this.curr].style.display="block";        this.to=setTimeout(function(oop){return function(){oop.rotate();}}(this),this.spd);};</script><script type="text/javascript"> CMS_Rotate("OUTER0", 10, false);</script> </div><!-- END CMS SLOT -->
-	</div>
-</div>
-
-
-
-<script type="text/javascript">
-function emailOmni()
-{
-/* guptas2 -  REQUIRED FOR OMNITURE DO NOT REMOVE */
-	 
-	if(typeof esclt != "undefined") {
-		emailSignupCustomLinkTrack(this);
-	}
-
-/* END OMNITURE */
-return false;
-}
-</script>
-
-	
-	
-	<div id="header">
-		<div class="wrap">
-			<div id="headerUtil">
-					<a href="/home/index.jsp?clickid=topnav_logo_img" title=""><img src="http://spdo.imageg.net/images/spdo_logo_lg.jpg" width="162" height="33" id="brand" alt="SPEEDO"></a>
-					<ul id="util">
-					  <li><a href="/helpdesk/index.jsp" title="Help">Help</a></li>
-					  <li><a title="Email Signup" class="emailSignup" href="javascript:toggleEmail(1, 0, 0);">Email Signup</a></li>
-					  <li><a href="/coreg/index.jsp?step=register&amp;clickid=topnav_myacct_txt" title="My Account">My Account</a> </li>
-					  <li><a href="/category/index.jsp?categoryId=4304992" title="Wish List">Wish List</a></li>
-					  
-					  <li class="last shoppingCart"><a href="/cart/index.jsp?an_action=viewCart" title="Shopping Cart"><b>[0 items]</b></a></li>
-					</ul>	
-					<div id="utilBg"></div>
-					
-					<div id="eContent">
-						<div class="eafTop"><img id="eafTopImg" src="http://spdo.imageg.net/images/spdo_eafTop.png" width="257" height="26"></div>
-						<div class="eafMid" style="height:auto;">
-							<iframe width="237" height="220" frameborder="0" style="border:none; background:#eee; z-index:20" src="../include/entry.html"></iframe>
-						</div>
-						<div class="eafBot"><img id="eafBotImg" src="http://spdo.imageg.net/images/spdo_eafBot.png" width="257" height="26"></div>
-					</div>
-								
-			</div>
-			<div id="topNav">
-				<div class="topNavLeft"></div>
-				<div class="topNavMid">
-					<div id="topNavUL">	
-						<ul id="mainNav">
+<a id="linkURL30" href="javascript:void(window.open('/promo/index.jsp?promoId=12404549&amp;ab=FS100','promo','width=500,height=400,toolbar=no,status=no,menubar=no,scrollbars=yes,resizable=no'))" title="Free Shipping both ways on orders over $100. Click for details!>>" style="display:none"></a><img border="0" name="OAS_071911.png" src="http://spdo.imageg.net/cms_widgets/64/14/641485_assets/OAS_071911.png" height="20" width="438" alt="Free Shipping both ways on orders over $100. Click for details!>>" align="Default" valign="Default" style="visibility: visible; cursor: pointer; display: block;" title="Free Shipping both ways on orders over $100. Click for details!>>" onclick="javascript:invokeAnchor('linkURL30');"><a id="linkURL31" href="http://speedousa.com/category/index.jsp?categoryId=3819802" title="Give back this holiday season and receive something in return. Click for details!>>" style="display:none"></a><img border="0" name="buygive_OAS.png" src="http://spdo.imageg.net/cms_widgets/64/14/641485_assets/buygive_OAS.png" height="20" width="438" alt="Give back this holiday season and receive something in return. Click for details!>>" align="Default" valign="Default" style="visibility: hidden; cursor: pointer; display: none;" title="Give back this holiday season and receive something in return. Click for details!>>" onclick="javascript:invokeAnchor('linkURL31');"><a id="linkURL32" href="javascript:void(window.open('http://mktg.speedousa.com/promos/holiday-schedule/','promo','width=300,height=400,toolbar=no,status=no,menubar=no,scrollbars=yes,resizable=no'))" title="Need your order in time for the holidays? Click to see shipping deadlines!>>" style="display:none"></a><img border="0" name="111611_holi_inTime_OAS.png" src="http://spdo.imageg.net/cms_widgets/64/14/641485_assets/111611_holi_inTime_OAS.png" height="20" width="438" alt="Need your order in time for the holidays? Click to see shipping deadlines!>>" align="Default" valign="Default" style="visibility: hidden; cursor: pointer; display: none;" title="Need your order in time for the holidays? Click to see shipping deadlines!>>" onclick="javascript:invokeAnchor('linkURL32');"></div><script type="text/javascript">function CMS_Rotate(id,spd,isRandom){    var obj=document.getElementById(id);    if (!obj) {        return;    }    imgs = obj.getElementsByTagName("IMG");    if (!imgs || imgs.length < 2) {        return;    }    ary = new Array(imgs.length);    for (i = 0; i < imgs.length; i++) {        imgs[i].style.visibility='hidden';        imgs[i].style.display='none';        ary[i] = imgs[i];    }    if (isRandom) {        ary.sort(function() { return Math.round(Math.random())-0.5; });    }    ary[0].style.visibility='visible';    ary[0].style.display='block';    var roop=new CMS_RotateOOP(obj,ary,spd);}function CMS_RotateOOP(obj,ary,spd,srt){    this.obj=obj;    this.ary=ary;    this.spd=(spd||45)*1000;    this.curr=0;    this.to=null;    this.to=setTimeout(function(oop){return function(){oop.rotate();}}(this),this.spd);}CMS_RotateOOP.prototype.rotate=function(){    clearTimeout(this.to);    this.ary[this.curr].style.visibility="hidden";    this.ary[this.curr].style.display="none";        this.curr=++this.curr%this.ary.length;    this.ary[this.curr].style.visibility="visible";    this.ary[this.curr].style.display="block";        this.to=setTimeout(function(oop){return function(){oop.rotate();}}(this),this.spd);};</script><script type="text/javascript"> CMS_Rotate("OUTER29", 8, false);</script> </div><!-- END CMS SLOT -->
+		</div>
+		
+		
+		
+		
+			<ul id="main-nav">
 	
 	
 	
@@ -495,52 +524,23 @@ return false;
 		</li>
 	
 
-	<li id="catexplore-speedousa">
-		<a href="http://explore.speedousa.com" class="explore-speedousa" title="Explore Speedo">Explore Speedo®</a> 
+	<li id="pace-club">
+		<a href="http://paceclub.speedousa.com" class="pace-club" title="Pace Club">Pace Club</a> 
 	</li>
-
-</ul>				
-					</div>
-					
-					
-					<div id="navSearch">
-						<div class="middle">
-                            
-							<form action="/search/controller.jsp" method="get">
-								<input name="kw" type="text" id="search-box" class="searchBox" value="SEARCH">
-								<input name="search-button" id="srchGo" type="image" src="http://spdo.imageg.net/images/spdo_search_btn.png" value="Search">
-							</form>
-						</div>
-					</div>
-				</div>
-				<div class="topNavRight"></div>
-	
-			</div>
-			<div id="loginInfo">
-				<div id="welcome">
-					
-					 
-					
-						
-						
-							 
-						
-					
-					
-					
-						
-						
-							<b>Welcome to SpeedoUSA.com</b>&nbsp;<span class="font1">(<a href="https://www.speedousa.com/coreg/index.jsp?step=register">Login now.</a>) </span>
-						
-					
-					
-				</div>
-				<div id="headerPromo" style="float:right;"><a href="http://oas.imageg.net/O/a/s/www.speedousa.com/helpdesk/index.jsp/850228360/Top1/default/empty.gif/61633134303730393464626635383430" target="_top"><img src="http://oas.imageg.net/O/a/Creatives/default/empty.gif" width="2" height="2" alt="" border="0"></a></div>
-			</div>
-		</div>
+</ul>
 		
-    </div>
+		
+		
+		
+        
+		<form id="search-header" action="/search/controller.jsp" method="get">
+			<input type="text" value="SEARCH" class="searchBox" id="search-box" name="kw">
+			<input type="image" value="Go" src="/images/pixel.gif" name="search-button" id="srchGo">
+		</form>
+		
+	</div>
 
+<div id="content-wrapper">
 		
 	
 		<div id="mainContent">
@@ -562,7 +562,7 @@ return false;
 
 
 
-<div id="recentlyViewed"><a href="" id="rvOpen" onclick="return false"><img src="http://spdo.imageg.net/images/pixel.gif" width="102" height="26"></a></div>
+<div id="recentlyViewed"><a href="" id="rvOpen" onclick="return false">My Recently Viewed ▼</a></div>
 <div id="rvDiv">
 	<div id="rvTop"><img id="rvClose" src="http://spdo.imageg.net/images/spdo_rvTop.png" class="imgIE" width="348" height="24"></div>
 	<div id="rvMid">
@@ -571,27 +571,60 @@ return false;
 <table width="328" cellpadding="0" cellspacing="0" border="0" summary="Summary content to go here">
 	
 		
-		
 			
 			  <tbody><tr>
 				<th scope="row" colspan="2">
 					<div class="rvProd">
 						<div style="float:left"><b>PRODUCTS:</b></div>
+						<div style="float:right;font-size:10px;">
+							
+							<a href="/history/index.jsp">View All &gt;</a>
+						</div>
 					</div>
 					
 				</th>
 			  </tr>
 			  <tr>
 				  <th colspan="2" scope="row" class="navbar" id="rv-products"> 
-					  <div class="prev prevBase prevOff"><a href="javascript:void(0)" title="tooltip here"><img src="http://spdo.imageg.net/images/spdo_rvPrevOn.jpg" alt="previous product image"></a></div>
+					  <div class="prev prevBase prevOff"><a href="javascript:void(0)" title="Previous product image"><img src="http://spdo.imageg.net/images/spdo_rvPrevOn.jpg" alt="Previous product image"></a></div>
 					  <div class="mask">
-						<div class="product-results">
-							No Product Viewed
-						</div>   
+						  <ol class="products slider" id="rv-product-slider">
+							
+								<li style="border:0">
+									<div class="product-column">
+										<div class="pic"><a href="/product/index.jsp?productId=12111224&amp;clickid=body_rv_img" title="Speedo® Aquabeat® 2.0 Waterproof MP3 Player with LED Screen (4GB)">
+										
+										
+										
+										<img src="http://spdo.imageg.net/graphics/product_images/pSPDO1-11209716th.jpg" border="0" alt="Speedo® Aquabeat® 2.0 Waterproof MP3 Player with LED Screen (4GB) - SPEEDO  - Speedo USA Swimwear" title="Speedo® Aquabeat® 2.0 Waterproof MP3 Player with LED Screen (4GB) - SPEEDO  - Speedo USA Swimwear">
+										
+										</a></div>
+										
+										
+											<dt class="smallSnippet">
+												<div style="margin-top:4px"></div>
+												<script type="text/javascript">
+<!--
+
+POWERREVIEWS.display.snippet(document, {
+pr_page_id : '12111224'
+
+});
+//-->
+												</script>
+												<br clear="all">
+											</dt>
+										
+										
+									</div>   
+								</li>
+								
+						  </ol>
 					  </div>
-					
+					 <div class="next nextBase nextOff"><a href="javascript:void(0)" title="Next product image"><img src="http://spdo.imageg.net/images/spdo_rvNextOn.jpg" alt="next product image"></a></div>
 				  </th>
 				</tr>
+		
 		
 		
 	
@@ -603,9 +636,7 @@ return false;
 				<div class="rvCatLi">
 					<ul class="navbar">
 						
-							<li><a href="/family/index.jsp?categoryId=3131886" title="Boys Racing Swimwear">Boys Racing Swimwear</a></li>
-						
-							<li><a href="/category/index.jsp?categoryId=3124324" title="Women">Women</a></li>
+							<li><a href="/family/index.jsp?categoryId=3132046" title="Fitness &amp; Training Gear">Fitness &amp; Training Gear</a></li>
 						
 							<li><a href="/category/index.jsp?categoryId=3124328" title="Kids" style="border:0">Kids</a></li>
 						
@@ -798,14 +829,16 @@ If you have any questions about the Privacy Policy, the practices of our web sit
 		</div><!-- end #mainContent -->
 		<br class="clearfloat"><br>
     
-	
+	</div><!-- close #content-wrapper -->
 
 
 
 
 
 
-<!--You are running on ashprd2_ws_63_1-->
+
+
+<!--You are running on secprd2_ws_80_6-->
 
 
 
@@ -817,43 +850,102 @@ If you have any questions about the Privacy Policy, the practices of our web sit
 
 <div id="footer">
   	<div class="wrap">
-  
-	<div id="footerNav">
-		<div class="footerNavLeft">
-			<ul class="social-footer">
-				<li class="social-link" id="fan-on-facebook">Fan us on <a href="http://www.facebook.com/speedousa" target="_blank"><img src="http://spdo.imageg.net/images/spdo_facebook_icon.jpg" width="22" height="22" alt="Facebook">Facebook</a>.</li>
-				<li class="social-link" id="follow-on-twitter">Follow us on <a href="http://twitter.com/speedousa" target="_blank"><img src="http://spdo.imageg.net/images/spdo_twitter_icon.jpg" width="22" height="22" alt="Twitter">Twitter</a>.</li>
-			</ul>
-		</div>
-		<div class="footerNavMid">				
-				<ul id="nav1">
-					
-					<li><a href="/helpdesk/index.jsp?display=corp&amp;subdisplay=about">About Us</a></li>
-					
-					
-					<li><a href="/helpdesk/index.jsp">Help</a></li>
-					
-					
-					<li><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy">Privacy &amp; Security</a></li>
-					
-					
-					<li><a href="/helpdesk/index.jsp?display=ship&amp;subdisplay=shipMethods">Shipping</a></li>
-					
-					
-					<li><a href="/affiliate/index.jsp">Affiliate Network</a></li>
-					
-					
-					<li class="last"><a href="/sitemap/index.jsp">Site Map</a></li>
-						
-    			</ul>
-		</div>
-		<div class="footerNavRight"><p>Speedo USA</p></div>
+
+  	
+  	<div id="footer-email-updates">
+  	
+		
+  		<p>receive speedo® email updates – <a title="Email Signup" class="emailSignup" id="footer-email-updates-cta" href="javascript:toggleEmail(3, 0, 0);"><span>click here to join</span></a></p>
+  	
   	</div>
-  	<div id="footNote">
-	SpeedoUSA.com only ships to the 50 United States. Speedo® and <img src="http://spdo.imageg.net/images/spdo_footNote.jpg" border="0"> 
-	are registered trademarks of and used under license from Speedo International Limited.<br>
-	 ©Copyright Speedo International. All rights reserved.
+  	
+	<ul id="footer-nav">
+	 	<li id="footer-help">
+			<p><strong>Need Help?</strong><br>
+			Call 1.888.4SPEEDO<br>
+			(1.888.477.3336)</p>
+		</li>
+		<li id="footer-customer-service">
+			
+			<h4><a href="/helpdesk/index.jsp" title="Customer Service">Customer Service</a></h4>
+			<ul>
+			
+			<li><a href="/helpdesk/index.jsp?display=store&amp;subdisplay=contact" title="Contact Us">Contact Us</a></li>
+			
+			<li><a href="/helpdesk/index.jsp?display=order&amp;subdisplay=status&amp;ab=031910_HP_Btmlnks_OrderStatus" title="Order Status">Order Status</a></li>
+			
+			<li><a href="/helpdesk/index.jsp?display=ship&amp;subdisplay=shipMethods" title="Shipping &amp; Delivery">Shipping &amp; Delivery</a></li>
+			
+			<li><a href="/helpdesk/index.jsp?display=returns&amp;subdisplay=mbg" title="Return Policy">Return Policy</a></li>
+			
+			<li><a href="/helpdesk/index.jsp?display=payment&amp;subdisplay=options" title="Payment Options">Payment Options</a></li>
+			</ul>
+		</li>	
+		<li id="footer-product-information">
+			
+			<h4><a href="/helpdesk/index.jsp?display=product&amp;subdisplay=sizing" title="Product Information">Product Information</a></h4>
+			<ul>
+			
+			<li><a href="/helpdesk/index.jsp?display=product&amp;subdisplay=sizing" title="Size Chart">Size Chart</a></li>
+			
+			<li><a href="/technology/index.jsp" title="Product Technology Guide">Product Technology Guide</a></li>
+			
+			<li><a href="/helpdesk/index.jsp?display=product&amp;subdisplay=productCare" title="Product Care">Product Care</a></li>
+			</ul>
+		</li>	
+		<li id="footer-shop">
+			
+			<h4><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=secure&amp;ab=031910_HP_Btmlnks_SecureShopping" title="Safe &amp; Secure Shopping">Safe &amp; Secure Shopping</a></h4>
+			<ul>
+			
+			<li><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" title="Secure Shopping Guarantee">Secure Shopping Guarantee</a></li>
+			
+			<li><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+			
+			<li><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" title="Privacy Policy">Privacy Policy</a></li>
+			
+			<li><a href="/sitemap/index.jsp" title="Site Map">Site Map</a></li>
+			</ul>
+		</li>	
+		<li id="footer-company">
+			<h4>Company</h4>
+			<ul>
+			
+			<li><a href="/helpdesk/index.jsp?display=corp&amp;subdisplay=about" title="About Speedo">About Speedo</a></li>
+			<li><a href="http://explore.speedousa.com/locator/" title="Store Locator">Store Locator</a></li>
+            <li><a href="http://www.speedousa.com/affiliate/index.jsp" title="Affiliates">Affiliates</a></li> 
+			<li><a href="http://warnaco.hodesiq.com/job_start.asp" title="Careers">Careers</a></li>
+            <li><a href="http://www.warnaco.com/index.cfm/category/1/section/88/content/260/" title="Corporate Responsibility">Corporate Responsibility</a></li>
+			</ul>
+		</li>	
+		<li id="footer-community">
+			<h4>Community</h4>
+			<ul>
+			<li><a href="http://www.facebook.com/SpeedoUSA" target="_blank" id="facebook-btn" title="Facebook">Facebook</a></li>
+			<li><a href="http://twitter.com/speedousa" target="_blank" id="twitter-btn" title="Twitter">Twitter</a></li>
+			</ul>
+		</li>	
+		
+	</ul>
+
+
+	
+	
 	</div>
+	<div id="footNote">
+		<div class="wrap">
+		<div id="eContent-ftr">
+			<div class="eafTop"><img id="eafTopImg-ftr" src="http://spdo.imageg.net/images/spdo_eafTop.png" width="257" height="26"></div>
+			<div class="eafMid" style="height:auto;">
+				<iframe width="237" height="220" frameborder="0" style="border:none; background:#eee; z-index:20" src="../include/entry.html"></iframe>
+			</div>
+			<div class="eafBot"><img id="eafBotImg-ftr" src="http://spdo.imageg.net/images/spdo_eafBot.png" width="257" height="26"></div>
+		</div>
+		<div id="footer-speedo-logo"></div>
+		<p>SpeedoUSA.com only ships to the 50 United States. Speedo® and <img src="http://spdo.imageg.net/images/global/spdo-footnote.png" border="0"> are registered trademarks of and used under license from Speedo International Limited.<br> ©Copyright Speedo International. All rights reserved.</p>
+	 
+		<div id="footer-speedo-text">Speedo USA</div>
+		</div>
 	</div>
 
     
@@ -863,7 +955,7 @@ If you have any questions about the Privacy Policy, the practices of our web sit
 
 
 
-<!--You are running on ashprd2_ws_63_1-->
+<!--You are running on secprd2_ws_80_6-->
 
 
 
@@ -872,21 +964,27 @@ If you have any questions about the Privacy Policy, the practices of our web sit
 <!-- pageOrprocessName getRequestURI() /gsi/spdo/helpdesk/index.jsp  --><!-- pageOrprocessName finalPage() helpdesk  -->
 <div id="trackingPixels" style="visibility:hidden">
 
-        <script src="http://speedo.unrealmarketing.com/js/unrealGTS.js" type="text/javascript"></script>
-<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-	if (typeof ums_overwrite == 'undefined'){
-	ums_overwrite ="";
-	}
-	var umt_acct="UA-31193-1";
-	umtLog(ums_overwrite);
-	var pageTracker = _gat._getTracker(umt_acct);
-	pageTracker._initData();
-	pageTracker._trackPageview(ums_overwrite);
-</script>
-<script type="text/javascript" src="http://mt.unrealmarketing.com/posroi/script?advertiserCode=speedo&amp;actionCode=rtgt"></script> 
+        <script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-23830518-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script> 
     
 </div>
+<!-- Resonance code resxclsa.js v2.x Copyright 2004-2006 Certona Corporation www.certona.com -->
+
+
+
+<script type="text/javascript">
+	//variables for all pages
+	var resx = new Object();
+    	
+	
 
 
 
@@ -899,7 +997,25 @@ If you have any questions about the Privacy Policy, the practices of our web sit
 
 
 
-<!--You are running on ashprd2_ws_63_1-->
+	
+	
+</script>
+<script type="text/javascript" src="http://spdo.imageg.net/js/resxclsa.js"></script>
+<!-- Resonance -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--You are running on secprd2_ws_80_6-->
 
 
 
@@ -954,7 +1070,7 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on ashprd2_ws_63_1-->
+<!--You are running on secprd2_ws_80_6-->
 
 
 
@@ -974,7 +1090,7 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on ashprd2_ws_63_1-->
+<!--You are running on secprd2_ws_80_6-->
 
 
 
@@ -994,6 +1110,20 @@ if(rewardsflagPage==1){
 
 
 
+
+
+
+<!--You are running on secprd2_ws_80_6-->
+
+
+
+
+
+
+
+
+
+
 	
 
 
@@ -1001,7 +1131,7 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on ashprd2_ws_63_1-->
+<!--You are running on secprd2_ws_80_6-->
 
 
 
@@ -1019,7 +1149,7 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on ashprd2_ws_63_1-->
+<!--You are running on secprd2_ws_80_6-->
 
 
 
@@ -1057,6 +1187,34 @@ if(rewardsflagPage==1){
 
 
 
+
+
+<script language="JavaScript" type="text/javascript">
+function storeSREDID() {
+    var thirtyDays = (60*60*1000*24)*30;
+    var vals = document.location.search;
+    start = vals.indexOf("SREDID=");
+    if (start != -1) {
+        var end = vals.indexOf("&", start);
+        if (end == -1){ end = vals.length }
+        var date = new Date();date.setTime(date.getTime()+ thirtyDays);
+        document.cookie= vals.substring(start,end) + "; expires=" + date.toGMTString() + "; path=/";
+    }
+}
+function getSREDID(){
+   var n = "SREDID=";
+   var cookies = document.cookie;
+   var start = cookies.indexOf(n);
+   if (start == -1){ return null; }
+   start += n.length ;
+   var end = cookies.indexOf(";", start);
+   if (end == -1){ end = cookies.length }
+   return cookies.substring(start, end);
+}
+</script>
+
+
+
 <script><!-- 
 storeSREDID(); 
 //--></script> 
@@ -1081,7 +1239,7 @@ storeSREDID();
 
 
 
-<!--You are running on ashprd2_ws_63_1-->
+<!--You are running on secprd2_ws_80_6-->
 
 
 
