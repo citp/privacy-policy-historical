@@ -1,50 +1,59 @@
-> *The following text is extracted and transformed from the privacypolicyonline.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406070049id_/http%3A//www.privacypolicyonline.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacypolicyonline.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224054609id_/http%3A//www.privacypolicyonline.com/privacy-policy) for the most accurate reproduction.*
 
-# ::::::PrivacyPolicyOnline.com - the eBook Wholesaler. Brand new eBook package!
+# Privacy Policy Online » Privacy policy generator, TOS generator, privacy resources…
 
-**1\. Our Commitment To Privacy**
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at:
 
-Your privacy is important to us. To better protect your privacy we provide this privacy policy explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+###      [Privacy](mailto:office@cvfox.com "Privacy Policy Email Contact")
 
-**2\. The Information We Collect**
+At www.PrivacyPolicyOnline.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.PrivacyPolicyOnline.com and how we use it. 
 
-This notice applies to all information collected or submitted on the PrivacyPolicyOnline.com website. On some pages, you can order products (privacy policies). The types of personal information collected when ordering privacy policies are: 
+**Log Files**  
+Like many other Web sites, www.PrivacyPolicyOnline.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-Name  
-Address  
-Email address  
-Phone number  
-Credit/Debit Card Information 
+**Cookies and Web Beacons**  
+www.PrivacyPolicyOnline.com does not use cookies. 
 
-
+**DoubleClick DART Cookie**  
 
 
-**3.   The Way We Use Information at [PrivacyPolicyOnline](http://www.e-booked.com/)**
+→ Google, as a third party vendor, uses cookies to serve ads on www.PrivacyPolicyOnline.com.
 
-We use the information you provide about yourself when placing an order only to complete that privacy policy order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to www.PrivacyPolicyOnline.com and other sites on the Internet. 
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, but we would not disclose anything that could be used to identify those individuals. 
+**Our Advertising Partners**  
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
-**4.   Our Commitment To Data Security**
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….   
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-**5.   Our Commitment To Children's Privacy**
+  * Google
+  * Commission Junction
+  * Amazon
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
 
-**6.   How You Can Access Or Correct Your Information**
 
-You can access all your personally identifiable information that we collect online and maintain by contacting us. We use this procedure to better safeguard your information. 
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+You may consult this listing to find the privacy policy for each of the advertising partners of www.PrivacyPolicyOnline.com.
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+_
 
-**How To Contact Privacy Policy Online**
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.PrivacyPolicyOnline.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site. 
 
-Should you have other questions or concerns about these privacy policies, please send us an email at ebooked1@aol.com.
+www.PrivacyPolicyOnline.com has no access to or control over these cookies that are used by third-party advertisers. 
+
+**Third Party Privacy Policies**
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.PrivacyPolicyOnline.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
+
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.  
+www.PrivacyPolicyOnline.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that www.PrivacyPolicyOnline.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+
+**Update**  
+This Privacy Policy was last updated on: Tuesday, July 5th, 2011.
