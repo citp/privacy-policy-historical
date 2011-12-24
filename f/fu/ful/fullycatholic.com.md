@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the fullycatholic.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105191936id_/http%3A//fullycatholic.com/index/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullycatholic.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224215625id_/http%3A//www.fullycatholic.com/index/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Written by administrator      
+Written by Christopher Phillips      
 Saturday, 01 January 2011 20:24   
-[](http://www.fullycatholic.com/component/kunena/fbprofile/userid-62)
-
+  
 **What information do we collect?**   
 We collect information from you when you register on our site.
 
@@ -46,6 +45,6 @@ This policy was last modified on 01 Jan 2011
 **Contacting Us**   
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[http://fullycatholic.com/index/contact-us](http://www.fullycatholic.com/index/contact-us)  
+<http://fullycatholic.com/index/contact-us>  
   
-Last Updated on Saturday, 01 January 2011 20:30 
+Last Updated on Monday, 24 January 2011 21:41 
