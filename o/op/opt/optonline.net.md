@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optonline.net privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602013424id_/http%3A//www.optimum.net/Privacy/Sub) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optonline.net privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224151508id_/http%3A//www.optimum.net/Privacy/Sub) for the most accurate reproduction.*
 
 # Optimum Online - Privacy Policy - Customer
 
@@ -112,6 +112,8 @@ E. You May Obtain Access to Information About You
 You also have the right to inspect Personally Identifiable Information that Cablevision has collected and maintains in connection with the provision of Covered Services to you. If you would like access to such information, please notify us in writing at the local business office specified on your service bill. We will then contact you to set up an appointment during regular business hours. Please note, Cablevision reserves the right to charge you its reasonable costs in connection with retrieving Subscriber Information and providing you with access thereto. In order to obtain CPNI, please see Section F below.
 
 Subscribers may choose not to receive promotional or marketing telephone calls or postal mailings regarding the Covered Services by contacting us at 1-888-425-2088 for placement on Cablevision's "Do Not Call" list or by contacting us at 1-888-425-2090 for placement on Cablevision's "Do Not Mail" list. Please note, any Subscriber requests after May 1, 2010 to be placed on the "Do Not Mail" list will only be effective for the 12-month period following such request. If Subscribers wish to continue to remain on the "Do Not Mail" list, Subscribers will need to make another request upon the expiration of the previous request. Please also note, "Do Not Call" and "Do Not Mail" requests may take up to thirty (30) days to become effective.
+
+F. Special Rules About Telephone-Related Information
 
 Under federal law, you have a right, and we have a duty, to protect the confidentiality of a category of telephone-related information known as "customer proprietary network information" or "CPNI." Cablevision restricts access to your CPNI. For example, call detail records, which contain information about the calls you make, are not available, except online. In order to access call detail records online, you must have a password. All other CPNI is restricted by requiring a password online and by requiring that you provide certain information over the phone to confirm your identity. A written request may also be used to obtain your CPNI. You must send the written request to Cablevision OV at 6 Corporate Center Drive, Melville New York 11747, Attn. Shared Services- CDR. All requests will be verified.
 
