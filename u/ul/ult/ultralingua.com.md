@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultralingua.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610042610id_/http%3A//www.ultralingua.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultralingua.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224202619id_/http%3A//www.ultralingua.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Ultralingua | Ultralingua
 
