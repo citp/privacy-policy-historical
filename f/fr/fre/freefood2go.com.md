@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freefood2go.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613204817id_/http%3A//www.freefood2go.com/index.php%3Fp_resource%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefood2go.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224133443id_/http%3A//www.freefood2go.com/index.php%3Fp_resource%3Dprivacy) for the most accurate reproduction.*
 
 # Free Food 2 Go, LLC. - Privacy Policy for Individuals
 
@@ -67,3 +67,7 @@ This document applies to consumers who have, or have had, a customer relationshi
 The policies and practices described in this disclosure are subject to change, but we will communicate any significant changes to you as required by applicable law. The policies and practices described in this disclosure replace all previous notices or statements regarding this subject.
 
 | 
+
+Find CO-OP Owners
+
+Enter your zip code below to find FF2G Owners near you (i.e. required field).
