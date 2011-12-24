@@ -1,105 +1,136 @@
-> *The following text is extracted and transformed from the flyingmag.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617071738id_/http%3A//www.hfmus.com/hfmus/your_privacy_rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyingmag.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224093841id_/http%3A//www.flyingmag.com/privacy-policy) for the most accurate reproduction.*
 
-# HFMUS
+# BONNIER CORPORATION
 
-**Hachette Filipacchi Media U.S., Inc Online Privacy Policy**
+Privacy Policy
 
-Last Updated: October 1, 2007 
+_
 
-This Web site is published and maintained by Hachette Filipacchi Media U.S., Inc. ("HFM U.S."), with offices located at 1633 Broadway, New York, NY 10019. This Privacy Policy governs HFM U.S.'s collection of information on this site and our use and disclosure of such information. Except as set forth herein, this Privacy Policy does not apply to information HFM U.S. collects in connection with your subscription to any of our print publications. 
+_This policy was last updated on October 11, 2011._
 
-By visiting this site, you agree to the terms of this policy as they may be amended from time to time. As we update and expand our services, this policy may change, so check back to this page from time to time. 
+ __ At Bonnier Corporation, your privacy is important to us.  This Privacy Policy applies to all of the products, services, and websites offered by Bonnier Corporation and its subsidiaries or affiliated companies (collectively, "Bonnier").
 
-**Purpose**  
-Your privacy is a serious matter to HFM U.S. In order to make your visits to our sites as worthwhile as possible, we collect certain information from your computer each time you visit us and sometimes we ask you for Personal Information. This privacy statement explains what Personal Information is collected on HFM U.S. Web sites, including this one, how the information is used, and with whom we may share such information. Please take a few minutes to read our privacy policy so that you understand how we treat your personal information. 
+To better protect your privacy, we provide this notice explaining our privacy practices and the choices you can make about the way your information is collected and used by Bonnier.
 
-**Right to Opt Out**  
-You have the right to “opt-out” of certain uses of your Personal Information. At the time you are requested to provide Personal Information on this Site, you may have the opportunity to elect to, or not to, receive e-mail offers from HFM U.S. or have your Personal Information shared with other companies. You may also make this request by sending an e-mail to privacy@hfmus.com. **In this e-mail please identify which HFM U.S. Site you are referring to and say whether you would like to opt-out of (i) receiving e-mail offers from that Site (ii) having your Personal Information shared with other companies or (iii) both.** You may also opt-out of HFM U.S. e-mails by clicking on a link within the email replying back to an e-mail you receive. Please understand that if you opt-out of receiving e-mails from HFM U.S., we may still contact you by e-mail in connection with your account with us or to provide you with important information about HFM U.S. or this Site. Also, a request to have us stop sharing your Personal Information with other companies will only apply going forward from the date of the request, and HFM U.S. will not be responsible for any communications that you may receive from companies that received your Personal Information prior to such request. In these cases, please contact that company directly. 
+Bonnier adheres to the U.S. Department of Commerce Safe Harbor framework and the privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement.  For more information on the framework, please visit the _[Safe Harbor website](http://www.export.gov/safeharbor/doc_safeharbor_index.asp)_.
 
-**Attention Kids**  
-If you are under the age of 13 (12 or younger), you may not provide any information about yourself to this Site. While you may view content on the Site, you may not register with the Site, enter any of our sweepstakes or contests, or participate in any of our chat rooms, bulletin boards or other activities that would let you enter information about yourself. If we learn that you have provided information about yourself to this Site, we will delete such information. 
+**Note: For questions related to your magazine subscription, please visit our magazine's customer service website** **.**
 
-**Note to Parents.**  
-HFM U.S. will not knowingly collect personally identifiable information from kids under 13. If you have any concerns about this Site or its related services, wish to find out if your child is a member of one of our services, or wish to cancel your child's membership, please contact us at privacy@hfmus.com. 
+If you have any questions about this Privacy Policy, please write to us [via e-mail](mailto:privacy@bonniercorp.com) at privacy@bonniercorp.com, or via postal mail at: 
 
-**What Information is Collected on this Site?**
+Privacy Department  
+Bonnier Corporation  
+460 N. Orlando Avenue, Suite 200  
+Winter Park, FL 32789
 
-**User Provided Information**
+**An overview of the information that Bonnier may collect**
 
-HFM U.S. does not collect any Personal Information such as name, address or e-mail address on its Web sites without the knowledge and consent of the individual submitting such information. Such information is collected, for example, through registration forms, games, sweepstakes and contests and through voluntary online questionnaires that appear from time to time on some HFM U.S. Web sites. “Personal Information,” includes your name, home or other address (like a school), e-mail address, telephone number, and/or any other information that may identify you or allow online or offline contact with you. 
+ ****
 
-We may also ask you to provide other information about yourself such as your age, hobbies, likes, dislikes, etc. 
+You are able to take advantage of many Bonnier products, services, and websites without providing any information that personally identifies you.  We only collect personally-identifying information when you voluntarily submit it to us.
 
-You may review the Personal Information that you have provided to HFM U.S.’s Web sites by e-mailing privacy@hfmus.com or writing to HFM U.S. at 1633 Broadway, New York, NY 10019 ATTN: Legal Department. We will send you a copy of such Personal Information we have on file in your user account (if any). You may send us new or updated information at any time via e-mail or mail. 
+Sometimes, we need personally-identifying information in order to provide you with the products and services that you request.  Depending upon the product or service, we may ask you for a variety of personally-identifying information.  This might include, for example, your name, address, e-mail address, telephone number, gender, and birth date.  We may also ask for other information about you, such as your credit card information (when you are making a purchase), interests, income, or education level.  We consider certain identifying information "sensitive."  This includes your credit card number, income level, or any other information that would normally be considered confidential. 
 
-**Site Usage Information**
+You may choose not to provide us with any personally-identifying information.  In that case, you can still access and use many portions of our websites; however, you will not be able to access and use those portions of any Bonnier website that require your personal information.   
 
-**Cookies**
+Many Bonnier websites include community features, such as online forums and message boards.  Information that is posted in these areas becomes public information and the use that any third party makes of this information is beyond our ability to control.  You should exercise caution before disclosing any personally-identifying information in these public venues.  If you elect to submit content that includes information that can be used to identify you, you must assume that the content can and will be displayed on any website on the Internet.
 
-We try to provide you with services, products and offers customized to your interests. In order to do that, we may use "cookies" to keep, and sometimes track, information about you. Cookies are small pieces of data that are sent to your browser from a Web server and stored on your computer's hard drive. Cookies do not gather any Personal Information about you; they simply track where you travel on the HFM U.S. Web sites and what you look at. (Cookies may, however, store your login name which allows you access to our online forums.) In doing so, a cookie may enable HFM U.S. to relate your use of the Web sites to Personal Information that has already been submitted. Many other web sites use cookies for very similar purposes.  
-Most web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Refusing a cookie will generally not interfere with your use of a HFM U.S. Web site. However, refusal of a cookie may, in some cases, preclude you from using features of a site that require registration. You may occasionally get cookies from our advertisers. These cookies are sent from third-party computers and are subject to such third parties' policies. 
+At some Bonnier sites and through certain promotions, you can submit personally-identifying information about other people.  For example, you might submit a person's name and e-mail address to send an electronic greeting card; or, if you order a gift online or offline and want it sent directly to the recipient, you might submit the recipient's name and address.  Some Bonnier websites also provide referral services to help you inform a friend about our websites, products, or services.  The types of personally-identifying information that we collect about other people at pages like these may include the person's name, address, e-mail address, or telephone number.  We will only ask you for the information about your friend that we need in order to do what you request.
 
-We may also use web beacon technology to help track site usage. Web beacons (also called single pixel gifs or action tags) allow HFM U.S. and our service providers and business partners to track page viewing counts and patterns, which we use, for example, for future site development and to measure the effectiveness of marketing campaigns. We may also use web beacons within the context of certain emails to determine the effectiveness of the mailing. 
+In some circumstances, we also collect non-personally-identifying information.  When you visit a Bonnier website, we may collect information such as the type of browser you use, your operating system, your IP address, and the domain name of your Internet Service Provider.  This information, by itself, does not permit individual identification, meaning that you will remain anonymous.  However, if you elect to provide us with personally-identifying information during your visit, that information may be linked to your IP address.
 
-To the extent that the HFM U.S. Web Site carries advertising by third parties, HFM U.S.'s Web advertising technology companies, which currently include DoubleClick, Tacoda Systems, Inc. and Revenue Science, Inc. and Pulse360 also use cookies, web beacons and other technologies. The non-personally identifiable information collected by these companies, for example, about your visits to this and other web sites is used for the purpose of targeting ads and measuring ad effectiveness on behalf of advertisers and Web publishers who specifically request it. For additional information on the information that is collected by HFM U.S.'s Web advertising technology vendors and to know your choices about not having this information used by them, please click on their names or visit <http://www.networkadvertising.org/consumer/opt_out.asp>. 
+When you visit our websites, we may send one or more cookies ¿ small, removable data files ¿ to your computer.  We use cookies to uniquely identify your browser, which allows us to enhance and personalize your online experience at Bonnier websites.  For example, cookies allow us to recognize you when you return to a website and present relevant content to you when you visit.  Most browsers are initially set up to accept cookies, but you can configure your browser to warn you when cookies are sent, or to refuse all cookies.  Some of the features and services of Bonnier websites may not operate properly if your cookies are disabled.  Cookies, by themselves, do not provide us with any personally-identifying information.
 
-**IP Address**
+On our websites, we may also use tiny graphic images called pixel tags, web beacons, or clear gifs.  These tiny images help us to analyze our users' online behavior and collect other data, such as page views or advertising responses.  Pixel tags also allow us to send you e-mail in a format that you can read, and let us know when you have opened an e-mail message from us.  Pixel tags may also be used to deliver cookies.  Some of our websites also use third-party advertising companies to serve ads when you visit. These companies may use non-personally-identifying information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-Our server automatically collects data about your server’s domain address when you visit us. This information, known as an Internet Protocol address, or IP Address, is a number that’s automatically assigned to your computer by your Internet service provider whenever you’re on the Web. When you request pages from HFM U.S., our servers log your IP Address. Our server may also record the referring page that linked you to us, e.g., another Web site or search engine. Our server cannot automatically record your name or address, but we may link this information with your Personal Information. 
+We work with reputable third parties that provide data tracking and collection technologies in order to:
 
-**How is the information used?**
+-         Present or serve the advertisements you may see at Bonnier websites;
 
-We will use the Personal Information you provide to our Web sites to fulfill a specific purpose. For example, Personal Information will be used to enter you in a sweepstakes or contest, to send an e-newsletter or fulfill a product or service order. We may also use your Personal Information to maintain our internal record keeping. In addition, we may send you e-mail notices about products, services, companies and events that we think might interest you. You may opt-out of receiving future mailings from us by following the instructions in the e-mail you receive from us or sending an e-mail to the e-mail address provided in the Right to Opt-Out section section above. We may match information collected from you through different means or at different times, including both Personal Information and Site Usage Information, and use such information along with information obtained from other sources, including our other Web sites, print publications and third parties, and such merged information will be treated in accordance with this Privacy Policy. 
+-         Deliver and track e-mail communications;
 
-We may use cookies to access your account information (stored on our computers) in order to deliver better and more personalized services; estimate our audience size for our advertisers; assist in processing items in your shopping basket; track the number of entries in our promotions, sweepstakes and contests; and identify which areas of our Web Sites you have visited. We may also match information obtained from cookies with data provided by you or collected by third parties. We analyze this data both in the aggregate and in connection with individual users. This information lets us give you the services you want that are connected with your interests. We also provide the analysis of our users (as a group, of course) to prospective partners, advertisers and other third parties. 
+-         Process purchase orders through e-commerce transactions;
 
-HFM U.S. uses IP Addresses for internal system administration, to help diagnose problems with our server, to report aggregate information to our advertisers, and to administer our Web site. Your IP address is also used to gather broad demographic information, such as country of origin and Internet Service Provider (i.e. AOL, Earthlink, etc.). 
+-         Fulfill print and digital subscription orders; and
 
-**Does HFM U.S. share Personal Information and Site Usage information with others?**
+-         Provide marketing leads to third-party organizations (where you have agreed to allow us to do so).
 
-On the Site, HFM U.S. may provide visitors an opportunity to receive offers from advertisers and other companies who have services, products and offers that we think might be of interest to you. If you do not at that time indicate a preference not to receive such offers, HFM U.S. will from time to time provide your contact information to these entities so that they may send you these offers. If you change your mind and no longer want us to share your contact information with others, send an email to the email address provided in the Right to Opt Out section above.   
-If you provide information to HFM U.S. in connection with a sweepstakes, contest or other promotion that is being conducted with another entity or Web site, the information you provide may be used for the purpose for which you provided the information and may be shared with that partner. Your Personal Information may also be used for other purposes that may be disclosed at the time your information is requested. 
+These companies may collect information about you on our behalf.  We require that these parties agree to process any such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.  
 
-HFM U.S. reserves the right to analyze user behavior as a measure of interest in and use of the HFM U.S. Web sites and HFM U.S. e-mails. HFM U.S. may disclose such analyses to advertisers or other third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user. 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third-party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
 
-**E-mail**  
-If you contact HFM U.S. by e-mail, you should be aware that e-mail transmission might not be secure. A third party could view information you send by e-mail in transit. HFM U.S. will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during transmission. 
+Bonnier websites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties.  By virtue of their sponsorship, these third parties may obtain personally-identifying information that visitors voluntarily submit to them in order to participate in the contest, sweepstakes, or promotion.  Bonnier has no control over the third-party sponsors' use of this information.  If a third-party sponsor beyond our control will obtain information that you supply us, we will notify you at the time we collect the information from you.  For certain promotions, only those who provide us with the requested personally-identifying information will be able to order products, programs, and services, or otherwise participate in the promotion's activities and offerings.
 
-**Service Providers**  
-We may use third party partners to help operate our Web sites and deliver our products and services, and may share your information with our affiliates, service providers and other third parties that provide products or services for or through this Site or for our business (such as Web site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies and other similar service providers that use such information on our behalf). 
+Some of our websites contain links to other sites.  By clicking on these links, you will leave the website operated by Bonnier and this Privacy Policy will no longer apply.  These other sites' information practices may be different than ours.  You should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
 
-**Legal Authorities**  
-We may disclose user information to government authorities, and to other third parties when compelled to do so by government authorities, or otherwise as required or permitted by law, including but not limited to in response to court orders and subpoenas, at our discretion. We also may disclose user information when we have reason to believe that someone is causing injury to or interference with our rights or property, other HFM U.S. site users, or anyone else that could be harmed by such activities. 
+**How we use the information we collect**
 
-**Business Transfer**  
-In the event that HFM U.S. or substantially all of its assets or the assets related to this particular Site are acquired by one or more third parties as a result of a merger, sale, consolidation or liquidation, customer Personal Information may be one of the transferred assets. 
+ ****
 
-**Consent to Transfer**  
-By providing Personal Information to this Site, you understand and consent to the collection, maintenance, processing and transfer of such information in and to the United States and other countries and territories. You also acknowledge that governmental and other authorities in the United States and other countries and territories to which such information is transferred may have a legal right to obtain access to or the disclosure of such information. 
+We use the personally-identifying information that you provide us to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs, or services that we believe may be of interest to you.  We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests, when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us. 
 
-**Access to other sites through the HFM U.S. Sites**  
-When you are on an HFM U.S. site you may have the opportunity to visit, or link to, other sites not operated by HFM U.S.. These sites, some of which are HFM U.S. advertisers and partners, may collect personally identifiable information about you. HFM U.S. does not control sites that are operated by others and is not responsible for the information practices of these sites and this privacy statement does not address the information practices of those web sites or advertisers. 
+We may syndicate the publicly available content of our community areas to unaffiliated third-party websites, using RSS or other technologies.  The information you have shared in the community areas may be included in this syndication.
 
-**HFM U.S.'s Right to Change this Policy**  
-HFM U.S. reserves the right to change or update this Privacy Policy, or any other HFM U.S. policy or practice, at any time and will notify users of such changes or updates by posting them on the Site and/or by additional means as determined to be appropriate under the circumstances. Any changes or updates will be effective immediately upon posting to the Site 
+We will use the personally-identifying information that you provide about others in order to provide the products or services that you have requested; for example, to enable us to send them your gifts or cards.  If you provide us someone else's personally-identifying information for referral purposes, we may use that information to invite them to visit our websites or to provide them information about our products or services.
 
-**Security/Enforcement**  
-HFM U.S. will take reasonable steps to protect the security and integrity of all Personal Information provided to the HFM U.S. Web sites. However, due to the inherent nature of the Internet as an open global communications vehicle, HFM U.S. cannot guarantee that this information will be absolutely safe from intrusion by others, such as hackers. Any unauthorized access to or use of the HFM U.S. Web sites or information collected and maintained by the HFM U.S. Web sites should be immediately brought to the attention of HFM U.S. at the e-mail address below. HFM U.S. will investigate, and if necessary take action to prevent or halt, any violation of this Privacy Policy of which it becomes aware. 
+If you provide us with your e-mail and/or postal address, we may include that address in e-mail and/or postal address lists that we sell, trade, or rent to third parties.  These lists will never contain sensitive information.  If you do not wish for your e-mail or postal address to be shared with companies not owned by Bonnier who want to market products or services to you, you have the opportunity to opt out, as described below.  You may also opt out of the receipt of any marketing materials from Bonnier as described below.
 
-If you are requested to send us any sensitive personal information, such as your credit card number, password, membership number or pin number, in an e-mail or into a web site or otherwise, and you are uncertain whether such request is authorized by us, please do not hesitate to ask us by sending an e-mail to our privacy officer at privacy@hfmus.com. 
+We may transfer your sensitive personally-identifying information to other Bonnier offices for internal management and administrative purposes.  In addition, your personal data will be transferred to other Bonnier offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit.  Transfers of personally-identifying information may also be made where necessary for the establishment, exercise, or defense of legal claims.
 
-In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. **You consent to our use of e-mail as a means of such notification.** If you prefer for us to use another method to notify you in this situation, please e-mail us at privacy@hfmus.com with the alternative contact information you wish to be used. 
+Bonnier will only share your sensitive personal information with outside companies or individuals in any of the following limited circumstances:
 
-**REMEMBER - DO NOT DISCLOSE PERSONAL INFORMATION IN CHAT ROOMS, THROUGH VOICE CHAT OR ON MESSAGE BOARDS. WHENEVER YOU DO SO, ALL OF THAT INFORMATION CAN BE COLLECTED AND USED BY OTHERS. IF YOU POST PERSONAL INFORMATION IN PUBLIC PLACES, OTHERS MAY SEND YOU UNSOLICITED E-MAIL MESSAGES. BE CAREFUL AND BE SMART WITH YOUR PERSONAL INFORMATION.**
+-         When we use trusted businesses or persons to process personal information on our behalf.  Before sharing any personal information with outside parties, we require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
 
-**Privacy Contact Information:**  
-Hachette Filipacchi Media U.S., Inc.  
-Attention: Legal Department  
-1633 Broadway, 45th Floor  
-New York, NY 10019  
-Phone: 212-767-6921  
- **[privacy@hfmus.com](mailto:privacy@hfmus.com)**
+-         When we have a good faith belief that access, use, preservation, or disclosure is necessary to (a) comply with applicable law, regulation, or legal process; (b) enforce the applicable Terms of Service or other agreements and policies on the Company's Websites; (c) detect, prevent, or otherwise address fraud, security, or technical issues; or (d) protect against imminent harm to the rights, property, or safety or Bonnier, its users, or the public as required or permitted by law. 
 
-**CONTACT INFORMATION FOR SUBSCRIPTIONS, ADVERTISING, EDITORIAL, REPRINTS, RIGHTS AND PERMISSIONS, EMPLOYMENT AND MATTERS OTHER THAN PRIVACY CAN BE FOUND BY CLICKING “ABOUT US” OR “CONTACT US” ON THIS SITE. PLEASE USE THE PRIVACY CONTACT ONLY FOR PRIVACY RELATED COMMUNICATIONS.**
+-         When you consent.  Before we share your sensitive personal information outside of the previously listed circumstances, we will ask you for permission first.  Please note that this only applies to sensitive information, as defined above.
 
-**Effective Date: October 1, 2007**
+We may also use, transfer, sell, and share aggregated, anonymous data about our users for any legal purpose, such as analyzing usage trends and seeking compatible advertisers and partners.  In no event will this aggregated data contain any information that could be used to identify individual users of our products or services.
+
+**How we protect the safety and integrity of the information we collect**
+
+ ****
+
+We take appropriate physical, electronic, and procedural measures to safeguard and protect your personal information.  We use a variety of security measures, including encryption and authentication, to maintain the confidentiality of your personal information.  We store your personal information on systems behind firewalls that are only accessible to a limited number of persons, each of whom is required to keep the information confidential.  We also take appropriate measures to secure the transmission of sensitive personal information from your computer to the Company's computers.  When you transmit sensitive personal information to us, like credit card information, we offer the use of a secure connection to our servers.  To the extent you select the secure connection method or your browser supports such functionality, all credit card account information that you supply is transmitted via Secure Socket Layer (SSL) technology.  Regardless of these measures, no system connected to the Internet or data transmission sent over the Internet can be guaranteed to be 100% secure.  We will provide notice if we become aware of any security breach that may affect any sensitive personal information pertaining to you that we have stored on our systems.
+
+Bonnier employees, agents, and contractors who have access to personally-identifying information are required to protect this information in a manner that is consistent with this Privacy Policy and may not use the information for any purpose other than to carry out the services they are performing for Bonnier.  These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+Bonnier only collects personal information that is relevant to the purposes for which it will be used.  Though we do take appropriate steps to review and update the information that we store to ensure that it is accurate, complete, and current, we also depend on you to update or correct your personal information when necessary. 
+
+You may correct or delete any or all of the personal information you have provided to us at any time.  Many of our websites provide means to review and update the personal information that you have provided on that website.  To inquire about personally identifiable information that Bonnier has collected about you, or about other ways to correct factual errors in that information, please send us an e-mail at privacy@bonniercorp.com. (Note: Do not use this email address to send questions about your subscription. Instead, please visit our magazine's customer service website.) To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.  We will decline to process requests where we cannot verify the identity of the requester.  We may also decline to process requests that are automated, repetitive, systematic, or impractical, or that might jeopardize the privacy of others.
+
+In some limited circumstances, such as to resolve disputes, troubleshoot problems, and enforce our policies, we may retain some of information that you have requested us to remove.  Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. 
+
+We only use the information we collect for purposes consistent with this policy.  If we propose to use your personal information for purposes beyond that explained in this policy, we will provide appropriate notice before doing so and we will provide you with the means to opt out of those uses.  We will not use your sensitive personal information for any purposes other than those described in this Policy unless we have obtained your consent.
+
+**Your privacy options**
+
+ ****
+
+**If you prefer not to receive e-mail communications from other companies** , you may choose to remove yourself from any e-mail lists that we provide to third parties for marketing purposes by sending us an e-mail at _[emailoptout@bonniercorp.com](mailto:emailoptout@bonniercorp.com)_.  You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
+
+**If you prefer not to receive postal communication from other companies** , you may choose to remove yourself from any postal mailing lists that we provide to third parties for marketing purposes by sending us an e-mail at _[emailoptout@bonniercorp.com](mailto:emailoptout@bonniercorp.com)_ , or writing us at P.O. Box 420235, Palm Coast, FL.  You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
+
+We only want to communicate with you if you want to hear from us.  **If you prefer not to be contacted at all** , you may opt out of receiving any communications from us at any time by notifying us at _[emailoptout@bonniercorp.com](mailto:emailoptout@bonniercorp.com)_.  You may also notify us by sending mail to the following address:
+
+Online Marketing Department  
+Bonnier Corporation  
+460 North Orlando Avenue, Suite 200  
+Winter Park, FL  32789
+
+In all requests, please tell us what communications you would like to opt out of, what means we have been using to contact you (such as your e-mail or postal address), the date of your request, and a way to reach you in case we need to personally contact you in an effort to comply with your request.  We reserve the right to send you certain communications, such as technical alerts, without offering you the opportunity to opt out of receiving them.
+
+**Enforcement and Compliance with this Privacy Policy**
+
+ ****
+
+We take our Privacy Policy seriously and we regularly review our own compliance with this Policy.  If you have any questions or concerns about this Policy, or if you think that we have used your personal information in a manner inconsistent with this Policy, please contact us at:   
+  
+Privacy Department  
+Bonnier Corporation  
+460 North Orlando Ave., Suite 200  
+Winter Park, FL 32789
+
+If we receive a complaint from you, we will contact you in an attempt to address your concerns.  If we are not able to resolve a complaint, we will participate in appropriate independent recourse mechanisms as necessary.
+
+** **_****
