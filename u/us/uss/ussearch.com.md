@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ussearch.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530074315id_/http%3A//www.ussearch.com/consumer/commerce/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ussearch.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224181347id_/http%3A//www.ussearch.com/consumer/commerce/about/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | USSearch.com
 
@@ -15,7 +15,7 @@ We generally collect information about you in order to operate our business, pro
 We collect Personally Identifiable Information (“PII”) from you when you choose to provide it to us. PII is any information that can be used to identify or locate a particular person or entity. For example, we collect PII:
 
   * When you purchase our products and services, we will collect PII in order to facilitate your purchase, including your name, address, email address, telephone number, and credit card number.
-  * When you ask to take part in our PrivacyLock service (described below) we collect your name, address, previous address, date of birth, telephone number and credit card number so that we may facilitate your opt-out request.
+  * When you ask to take part in our PrivacyLock service (described below) we collect your name, address, previous address, date of birth and telephone number so that we may facilitate your opt-out request.
   * When you provide us with your email address in order to join our mailing list, we will send you email messages in order to notify you about important functionality changes to the Website, new services, and special offers we think you’ll find valuable.
   * When you fill out our [customer service form](https://web.archive.org/consumer/commerce/about/contact_cs.jsp) on our Website (e.g., to ask us a question about an order you’ve already placed, or to ask us to remove any of your PII that we have from our database, we will collect PII in order to help us answer your question or facilitate your request, including: your name, your email address, your telephone number, the order date, and the order number, if applicable.
 
@@ -67,7 +67,7 @@ We do, however, permit you to review, update, correct, delete or deactivate info
 
 If you have a US Search account, you may opt-out of receiving marketing or promotional emails from us and update your account information in the following ways:
 
-  * Online by visiting [www.USSearch.com](https://web.archive.org/consumer/index.do?cid=people), logging into your account, and clicking on the “member center”, “account settings” at the top of the page; ( _Note_ : you must call customer service at 1-800-877-3272 if you want to change or delete your credit card number.)
+  * Online by visiting [www.USSearch.com](https://web.archive.org/consumer/index.do?cid=people), logging into your account, and clicking on the “member center”, “account settings” at the top of the page.
   * By sending a written request by regular mail or email, to the address information below. Your request should include: your name, complete address, purchase date and order reference number.
 
 
