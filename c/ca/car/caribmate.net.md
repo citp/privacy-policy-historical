@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the caribmate.net privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629035214id_/http%3A//www.caribmate.net/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caribmate.net privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224151309id_/http%3A//www.caribmate.net/policy) for the most accurate reproduction.*
 
-# Privacy Policy » Caribmate Social Network | Share Your Ideas Globally
+# Privacy Policy » Caribmate Social Network
 
 Effective June 17, 2010:   
 Caribmate, LLC. (“Caribmate” or “we”) operates Caribmate.net. This Privacy Policy describes Caribmate’s use and sharing of personally identifiable information (“PII”-- your full name, email address, mailing address, telephone number, or credit card number) that Members voluntarily provide to Caribmate when they register (also known as “Registration PII”). The Term “User” refers to a Visitor or a Member. This Privacy Policy applies to the services offered by Caribmate, including any Caribmate-branded URL (the “Caribmate Website”), the Caribmate instant messaging service, the Caribmate application developer service and other features (for example, music and video embedded players), Caribmate mobile services, and any other features, content, or applications offered from time to time by Caribmate in connection with the Caribmate Website (collectively, the “Caribmate Services”). The Caribmate Services are hosted in the United States.   
@@ -40,3 +40,8 @@ ACCESS, REMEDIES AND COMPLIANCE: HOW TO ACCESS, CORRECT OR CHANGE YOUR PREFERENC
 Whenever possible, Caribmate Members may review the Registration PII we maintain about them in our records. We will take reasonable steps to correct any PII a Member informs us is Incorrect. If you are a Member, you can view and change your Registration PII, Member preferences and Profile Information by logging into your account and accessing features such as “Edit Profile” and “Account Settings.”   
 If you ask Caribmate to stop using your PII, Caribmate will honor that request while retaining any record of your PII that is necessary to comply with applicable federal, state or local law.   
 If you would like to communicate with us about this Privacy Policy or Caribmate’s collection and use of your PII, please use the Contact Caribmate form on our Help site. 
+
+  
+  
+  
+
