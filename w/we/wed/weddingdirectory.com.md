@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the weddingdirectory.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105220136id_/http%3A//www.weddingdirectory.com/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingdirectory.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224053858id_/http%3A//www.weddingdirectory.com/content/privacy-policy.html) for the most accurate reproduction.*
 
 # WeddingDirectory Privacy Policy
-
-**WeddingDirectory Website Privacy Statement**
 
 This document was last updated on March 31, 2010.
 
@@ -18,21 +16,29 @@ Related services and offerings with links from this website, including vendor si
 
 WeddingDirectory collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
 
-**a.       ****Web Server Logs**.
+**a.** **Web Server Logs**.
 
 
 
 
 When you visit our Website, we may track information to administer the site and analyze its usage.  Examples of information we may track include:
 
-  * Your Internet protocol address. 
-  * The kind of browser or computer you use. 
-  * Number of links you click within the site. 
-  * State or country from which you accessed the site. 
-  * Date and time of your visit. 
-  * Name of your Internet service provider. 
-  * Web page you linked to our site from. 
-  * Pages you viewed on the site.
+     -  Your Internet protocol address.
+
+     -  The kind of browser or computer you use.
+
+     -  Number of links you click within the site.
+
+     -  State or country from which you accessed the site.
+
+     -  Date and time of your visit.
+
+     -  Name of your Internet service provider.
+
+     -  Web page you linked to our site from.
+
+     -  Pages you viewed on the site.
+
 
 
 
