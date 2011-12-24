@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadnew.org privacy policy that was archived on 2011-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110415064114id_/http%3A//downloadnew.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadnew.org privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225002415id_/http%3A//downloadnew.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DownloadNew.org
 
