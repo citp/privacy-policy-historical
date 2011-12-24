@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rif.org privacy policy that was archived on 2011-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110626112925id_/http%3A//www.rif.org/us/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rif.org privacy policy that was archived on 2011-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111225003714id_/http%3A//www.rif.org/us/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><!-- PageID 347 - published by Open Text Web Solutions 10 - 10.0.1.64 - 26863 -->
  <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -9,6 +9,9 @@
  
 <link href="/us/includes/layout.css" rel="stylesheet" type="text/css" media="screen">
 <link href="/us/includes/sub_layout.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/us/includes/navigation.css" rel="stylesheet" type="text/css">
+<link href="/us/includes/animations.css" rel="stylesheet" type="text/css">
+<link href="" rel="stylesheet" type="text/css">
 <link href="/us/includes/layout.css" rel="stylesheet" type="text/css" media="print">
 <link href="/us/includes/sub_layout.css" rel="stylesheet" type="text/css" media="print">
 <link href="/us/includes/print.css" rel="stylesheet" type="text/css" media="print">
@@ -18,14 +21,20 @@
 
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/static/js/swfobject.js" type="text/javascript"></script>
-<script src="/static/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="/static/js/jquery-1.6.2.min.js" type="text/javascript"></script>
 <script src="/static/js/jquery.timers-1.2.js" type="text/javascript"></script>
 <script src="/static/js/layout.js" type="text/javascript"></script>
 <script src="/static/js/jquery.populate.rif.pack.js" type="text/javascript"></script>
 <script src="/static/js/webtoolkit.url.js" type="text/javascript"></script>
 
+<script type="text/javascript" src="/static/js/jparse-beta-0.3.3-full.js"></script>
+<script type="text/javascript" src="/static/js/jani.js"></script>
+<script type="text/javascript" src="/us/includes/animations.js"></script>
+<script type="text/javascript" src="/us/includes/navigation.js"></script>
+<script type="text/javascript" src="/us/includes/xmlslideshow.js"></script>
 
-<style type="text/css" media="screen">#flash_tweets {visibility:hidden}#flash_footer {visibility:hidden}#flash_footer_building {visibility:hidden}#scroller {visibility:hidden}#flash_main_nav {visibility:hidden}</style></head>
+
+<style type="text/css" media="screen">#scroller {visibility:hidden}</style></head>
 <body>
     
     <!-- Delivery Server -->
@@ -35,27 +44,72 @@
     
 <div id="wrapper">
   <div id="header">
-    
-    <a href="/us/index.htm" id="logo"><img src="/static/images/Structural-images/logo_rif2.png" alt="RIF Reading is Fundamental" class="logo_image"><img src="/static/images/Structural-images/RIF_logo_black.jpg" class="print_logo"></a>
-    
-<div style="padding-left: 350px;">
-<iframe id="ifrmLoginFrame" allowtransparency="true" frameborder="no" scrolling="no" width="400" height="100" src="http://erams.rif.org/LoginStatus.aspx"></iframe>    
-</div>
+    <a href="/us/index.htm" id="logo"><img src="/static/images/Structural-images/logo_rif3.png" alt="RIF Reading is Fundamental" class="logo_image"><img src="/static/images/Structural-images/RIF_logo_black.jpg" class="print_logo"></a>
 
     <div id="top">
-    
-            <form action="/us/search.htm" method="get">
-        <fieldset>
-          <input type="text" value="SEARCH" id="f_search" name="search">
-          <input type="image" src="/static/images/Structural-images/btn_go.png" alt="Go">
-        </fieldset>
-      </form>
-      
+        <a href="http://erams.rif.org/Markup/Signin.aspx" id="rif_login" title="RIF Coordinator Login" onclick="overlay_show('popup-wrapper'); return false"><img src="/static/images/Structural-images/btn_rif_coordinator_login.png" alt="RIF Coordinator Login"></a>
+
+        <form action="/us/search.htm" method="get">
+            <fieldset>
+                <input type="text" value="SEARCH" id="f_search" name="search">
+                <input type="image" src="/static/images/Structural-images/btn_go.png" alt="Go">
+            </fieldset>
+        </form>
     </div>
-    
-    <div id="flash_main_nav" style="visibility: visible;"></div>
-    
-  </div>
+    <div id="flash_main_nav">
+        <div id="cage">
+            <ul class="nav">
+                <li class="about_rif"><div class="text" style="width: 105px; height: 29px; background-position: 0px 0px;"><a href="/us/about-rif.htm"></a></div><span id="about_bird"></span>
+                    <div class="submenu">
+                        <ul id="about_rif_submenu">
+                        <li><a href="/us/about/our-programs.htm">Our Programs</a></li><li><a href="/us/about/literacy-issues.htm">Literacy Issues</a></li><li><a href="/us/about/leadership.htm">Leadership</a></li><li><a href="/us/about/press-room.htm">Press Room</a></li><li><a href="/us/about/jobs.htm">Jobs</a></li><li><a href="/us/about/contact.htm">Contact Us</a></li></ul>
+                    </div>
+                </li>
+                <li class="donate"><div class="text" style="width: 85px; height: 29px; background-position: 0px 0px;"><a href="/us/donate.htm"></a></div><span id="donate_bird" style="width: 75px; height: 175px; background-position: 0px 0px;"></span>
+                    <div class="submenu">
+                        <ul id="donate_submenu">
+                        <li><a href="/us/donate/ways-to-give.htm">Ways to Give</a></li><li><a href="/us/donate/why-give.htm">Why Give</a></li><li><a href="/us/donate/our-supporters.htm">Our Supporters</a></li></ul>
+                    </div>
+                </li>
+                <li class="get_involved"><div class="first_part text" style="width: 145px; height: 39px; background-position: 0px 0px;"><a href="/us/get-involved.htm"></a></div><div class="second_part text" style="width: 145px; height: 39px; background-position: 0px 0px;"><a href="/us/get-involved.htm"></a></div>
+                    <div class="submenu">
+                        <ul id="get_involved_submenu">
+                        <li><a href="/us/get-involved/advocate.htm">Advocate</a></li><li><a href="/us/get-involved/volunteer.htm">Volunteer</a></li><li><a href="/us/get-involved/join-our-campaigns.htm">Join Our Campaigns</a></li><li><a href="/us/get-involved/stay-connected.htm">Stay Connected</a></li><li><a href="/us/get-involved/1706.htm">Shop</a></li></ul>
+                    </div>
+                </li>
+                <li class="literacy_resources"><div class="text" style="width: 205px; height: 29px; background-position: 0px 0px;"><a href="/us/literacy-resources.htm"></a></div><span id="literacy_bird"></span>
+                    <div class="submenu">
+                        <ul id="literacy_resources_submenu">
+                        <li><a href="/us/literacy-resources/activities.htm">Activities</a></li><li><a href="/us/literacy-resources/booklists.htm">Booklists</a></li><li><a href="/us/literacy-resources/articles.htm">Articles</a></li><li><a href="/us/literacy-resources/brochures.htm">Brochures</a></li><li><a href="/us/literacy-resources/multicultural.htm">Multicultural</a></li></ul>
+                    </div>
+                </li>
+            </ul>
+            <div class="clear"></div>
+        </div>
+        <a href="/us/kids.htm" id="kids">
+            <div class="kids-1"></div>
+            <div class="kids-hover" style="width: 113px; height: 64px; background-position: 0px 0px;"></div>
+        </a>
+        <script type="text/javascript">
+            $('.kids-hover').jani({frameWidth: 113, frameHeight: 64, speed: 300, totalFrames: 2, loop: true});
+            $('#kids').hover(function(){
+                small_bus_animation();
+                $('.kids-1').hide();
+                $('.kids-hover').show()
+                $('.kids-hover').jani('play');
+                },function(){
+                $('.kids-1').show();
+                $('.kids-hover').hide();
+                $('.kids-hover').jani('stop');
+            })
+        </script>
+        <div id="bus_small">
+            <div class="animation-1"></div>
+            <div class="animation-2"></div>
+            <div class="animation-3"></div>                   
+        </div>
+    </div>
+</div>
   
   
   <div id="main">
@@ -68,7 +122,23 @@
     
     <h1><img src="/static/images/Structural-images/PRIVACY-POLICY.jpg"></h1>
     
-    <div id="flash_tweets" style="visibility: visible;"></div>
+
+    <div id="flash_tweets">
+        <div id="tweets">
+            <img src="/static/images/Structural-images/hoppingBird_final2.png" style="display:none">
+            <img src="/static/images/Structural-images/hoppingBird_final.png" style="display:none">
+            <div id="tweets_temp"></div>
+            <div id="tweets_container"></div>
+            <div id="tweets_counter"></div>
+            <div class="bird-1"></div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            jumping_bird_animation();
+        });
+    </script>
+    
     
     <div id="content">
         
@@ -157,7 +227,7 @@
 
 
      <div id="side_help">
-        <h2><img src="/static/images/Structural-images/h2_help_young_reader2.png" alt="HELP a young reader"></h2>
+        <h2><img src="/static/images/help-a-young-reader.png" alt="HELP a young reader"></h2>
         <a href="http://donate.rif.org/site/Donation2?df_id=2432&amp;2432.donation=form1" class="btn" title="Give &amp; Save Campaign"><img src="/static/images/Structural-images/btn_give_and_save2.png" alt="Give &amp; Save Campaign"></a>
       </div>
 <!-- /Help A Young Reader --><!-- Get Our Newsletter -->
@@ -292,8 +362,25 @@
         <li><a href="/us/about/contact.htm" title="Contact Us">Contact Us</a></li>
       </ul>  
     </div>    
-    <div id="flash_footer_building" style="visibility: visible;"></div>
-    <div id="flash_footer" style="visibility: visible;"></div>
+    <div id="flash_footer_building" style="width: 87px; height: 178px; background-position: 0px -2136px;">
+        <script type="text/javascript">
+            $(document).ready(function() {
+                footer_building_animation();
+            });
+        </script>
+    </div>
+    <div id="flash_footer">
+        <div id="bus">
+            <div class="bus-road"></div>
+            <img src="/static/images/Structural-images/bus_final.png" style="display:none">
+            <img src="/static/images/Structural-images/bus_flag.png" style="display:none">
+            <img src="/static/images/Structural-images/bus_flag_away.png" style="display:none">
+            <img src="/static/images/Structural-images/bus_flag_still.png" style="display:none">
+            <div class="animation-1"></div>
+            <div class="animation-2"></div>
+            <div class="animation-3"></div>                   
+        </div>  
+    </div>
 </div>
      
 </div>
@@ -351,16 +438,8 @@ page_nav_level2 = ((page_nav_level2 > 0) ? page_nav_level2 - (page_nav_level1 + 
 </script>
 
 <script type="text/javascript">
-// -- SWF - Tweets --
-swfobject.embedSWF("/static/flash/structural/rif_tweets.swf", "flash_tweets", "340", "70", "8","/static/flash/structural/expressInstall.swf", {config_location:escape('/us/xml/tweets_config.xml')}, {wmode:'transparent'});swfobject.embedSWF("/static/flash/structural/rif_footer.swf", "flash_footer", "967", "108", "8","/static/flash/structural/expressInstall.swf", false, {wmode:'transparent'});swfobject.embedSWF("/static/flash/structural/rif_footer_building.swf", "flash_footer_building", "111", "153", "8","/static/flash/structural/expressInstall.swf", false, {wmode:'transparent'});// -- SWF - Supporters --
-swfobject.embedSWF("/static/flash/structural/rif_scroller.swf", "scroller", "950", "80", "8","/static/flash/structural/expressInstall.swf", {config_location:escape('/us/xml/scroller_config.xml')}, {wmode:'opaque'});var nav_flashvars = {config_location:escape('/us/xml/main_navigation.xml') };
-if (page_nav_level1 >= 0) {
-    nav_flashvars .current_main_section = page_nav_level1;
-    if (page_nav_level1 >= 0) {
-        nav_flashvars .current_sub_section = page_nav_level2;
-    }
-}
-swfobject.embedSWF("/static/flash/structural/RIF_main_nav_r2.swf", "flash_main_nav", "836", "139", "8","/static/flash/structural/expressInstall.swf",nav_flashvars , {wmode:'transparent'});
+// -- SWF - Supporters --
+swfobject.embedSWF("/static/flash/structural/rif_scroller.swf", "scroller", "950", "80", "8","/static/flash/structural/expressInstall.swf", {config_location:escape('/us/xml/scroller_config.xml')}, {wmode:'opaque'});
 </script>
 
 <script src="" type="text/javascript"></script>
