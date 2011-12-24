@@ -1,11 +1,14 @@
-<!--The following is the downloaded HTML source of the tributes.com privacy policy that was archived on 2011-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623061525id_/http%3A//www.tributes.com/global/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tributes.com privacy policy that was archived on 2011-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111224143658id_/http%3A//tributes.com/global/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script> 
 	<link rel="SHORTCUT ICON" href="/favicon.ico">	
 	
 	
-    <title>Privacy Policy - Tributes.com</title>
+
+    <link href="http://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif:400,400italic" rel="stylesheet" type="text/css">
+	
+	<title>Privacy Policy - Tributes.com</title>
 
 	<meta name="description" content="Tributes.com is the premier resource for online obituaries, local obituaries news, celebrity obituary news and online tributes
 	 celebrating the life and death of loved ones and providing support during times of loss and grieving.">
@@ -25,7 +28,11 @@
 <meta property="fb:admins" content="100002410235655">
  
 
-<link href="/stylesheets/gen_screen_proj_packaged.css?1308763544" media="screen" rel="stylesheet" type="text/css">
+<link href="/stylesheets/gen_screen_two_packaged.css?1324576197" media="screen" rel="stylesheet" type="text/css"><link href="/stylesheets/gen_third_packaged.css?1324576197" media="screen" rel="stylesheet" type="text/css">
+
+<!--[if IE 9]>
+<link href="/stylesheets/ie9.css" rel="stylesheet" type="text/css" media="screen" />
+<![endif]-->
 <!--[if IE 8]>
 <link href="/stylesheets/ie8.css" rel="stylesheet" type="text/css" media="screen" />
 <![endif]-->
@@ -35,11 +42,14 @@
 <!--[if lte IE 6]>
 <link href="/stylesheets/ie6.css" rel="stylesheet" type="text/css" media="screen" />
 <![endif]-->  
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var domain = "tributes.com";</script>
+<script type="text/javascript">var domain = "tributes.com";</script>
 
 	
-	<script src="/javascripts/gen_javascript_packaged.js?1308763544" type="text/javascript"></script>
-	<script src="/javascripts/swfobject.js"></script>
+	
+	<script src="http://ajax.googleapis.com/ajax/libs/prototype/1.7/prototype.js" type="text/javascript"></script>
+	<script src="/javascripts/gen_javascript_packaged.js?1324576197" type="text/javascript"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"> type="text/javascript"> </script>
+
 	
 		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
 	
@@ -59,11 +69,13 @@
 		
 		var addthis_config = {'username': "tributes", ui_click: true};
 	</script>
+		
+	
 
 	
 	
 	
-		
+	
 	
 
 	
@@ -85,11 +97,13 @@
 	
 		
 	
-		</head>
+		<script src="//platform.twitter.com/widgets.js"></script></head>
 
-		<body class=""> <!--  body tag -->
-		
-		
+		<body class=""> 
+
+		<script type="text/javascript">
+			Event.observe(window, 'load', function() {if (parent.adjustIFrameSize) parent.adjustIFrameSize(window); });
+		</script>
 	
 
 	
@@ -113,156 +127,356 @@
 	    
 	    <![endif]-->
 	
-
-    <div id="container">
-		
-            <div id="header">  
-    
-
-
-
-
-	<a href="http://www.tributes.com" title="Tributes home page">
-		<img src="/images/global/tributes_logo.png" id="tributes_logo" alt="Tributes Logo" title="Tributes">
-	</a>
-    <hr>
-
 	
-<div id="ad-header">
-	<script type="text/javascript">dart1("eons.obits","companyinfo","","","728x90");</script>
+	<!-- Leader Board Ad -->
+	<div id="trib2-leaderboard-ad-back">
+	<div id="trib2-leaderboard-ad">
+		<p class="ad-text">Advertisement</p>
+		<script type="text/javascript">dart1("eons.obits","companyinfo","","","728x90");</script>
+	</div>
+</div>
+	<!-- End Leader Board -->
+		
+    <div id="container">
+    	
+            
+				<!-- Admin Panel -->
+<div id="header">
+	<div id="trib2-adminPanel">
+		<!-- Music Player -->
+
+<script>	
+	user_sm = true;
+		
+	function init_homepage_music() {
+		var playerVersion = swfobject.getFlashPlayerVersion(); // returns a JavaScript object
+		var majorVersion = playerVersion.major; // access the major, minor and release version numbers via their respective properties
+	    var ua = navigator.userAgent;
+		var isiPad = /iPad/i.test(ua) || /iPhone/i.test(ua);
+
+		if (majorVersion < 8) {
+			if (isiPad) {
+				// not auto-playing anyway
+			} else {
+				trib_debug("user_sm = false;");
+				user_sm = false;
+			}
+	    }
+	}
+		
+	Event.observe(document, 'dom:loaded', init_homepage_music);
+	soundManager.onload = function() {
+	// SM2 is ready to go!			 
+		var mySound = soundManager.createSound({id: 'homepageSound', 
+		  									url: 'http://d3trabu2dfbdfb.cloudfront.net/music/AM065_Best_of_Times.mp3', 
+											volume: 70,
+											autoPlay:false,
+											loops:200,
+											onfinish:function() { mySound.play();}
+											});
+
+	}
+
+	function sound_pause() {
+		if (user_sm) {
+			soundManager.pause('homepageSound');
+		}
+		else {
+			Sound.play('', {replace: true});
+		}
+		return false;
+	}
+	
+	function sound_play() {
+		if (user_sm) {
+			soundManager.play('homepageSound');
+		}
+		else {
+			Sound.play('http://d3trabu2dfbdfb.cloudfront.net/music/AM065_Best_of_Times.mp3', {replace: true});
+		}
+		return false;	
+	}
+</script>
+
+<div style="margin-top:4px; float:left;">
+	<a id="play" class="homepage-player" onclick="$('play').hide(); $('pause').show(); sound_play(); ">
+		<span class="homepage-player-icon-paused"></span>
+		Play Music
+	</a>
+	<a id="pause" class="homepage-player" style="display:none;" onclick=" $('pause').hide(); $('play').show(); sound_pause();">
+		<span class="homepage-player-icon-playing"></span>
+		Pause Music
+	</a>
 </div>
 
 
+		
+		<!-- Zoom In -->
+		<div class="zoom-section chrome-ie-show" style="display:none;">
+			<a class="zoom-small" href="" title="Normal size" onclick="document.body.style.zoom = '100%'; return false">A</a>
+			<a class="zoom-medium" href="" title="Larger size" onclick="document.body.style.zoom = '110%'; return false">A</a>
+			<a class="zoom-large" href="" title="Largest size" onclick="document.body.style.zoom = '120%'; return false">A</a>	
+		</div>
+		<!-- End Zoom In -->
+	
+		<ul>
+			<!-- Socials -->
+			<li>
+				<!-- Facebook -->
+				<iframe src="//www.facebook.com/plugins/like.php?href=www.facebook.com%2FTributesNews&amp;send=false&amp;layout=button_count&amp;width=20&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:50px; height:20px;" allowtransparency="true"></iframe>
+			</li>
+		
+			<li>
+				<!-- Twitter -->
+				<a href="https://twitter.com/share" class="twitter-share-button" data-count="none" data-via="tributescom">Tweet</a>
+				<script type="text/javascript">
+					(function() {
+	    				var tjs = document.createElement('script');
+    					tjs.src = "//platform.twitter.com/widgets.js";
+    					document.getElementsByTagName('head')[0].appendChild(tjs);
+					 })();
+				</script>
+			</li>
+							
+			<li> | </li>	
 
-    <hr>
-    <br class="clear">
-</div> <!-- END #header -->
+			<!-- End Socials -->
+			
+			
+			
+			
+				<!-- Help Link -->
+				<li>
+					<a class="admin-link" href="/global/FAQ" title="Answers to questions about our web site">Help</a>	
+				</li>
+				<!-- End Help Link -->
+				
+				<!-- Pipe -->
+				<li> | </li>
+				
+			
+				<!-- Feedback Link -->
+				<li>
+					<a class="admin-link" href="#" onclick="Effect.toggle('feedback-popup'); $('white_overlay').appear({ duration: 0.6}); return false;" title="Give Us Your Feedback!" rel="nofollow">
+	   					Feedback
+	   				</a>
+				</li>
+				<!-- End Feedback Link -->
+			
+				
+			 <!-- not logged in! --> 
+				<!-- Pipe -->
+				<li> | </li>
+				
+				<li>
+					<a class="admin-link-bold" href="/account/obitsreg?resource=%2Fglobal%2Fprivacy" title="Login" rel="nofollow">Login</a>
+				</li>
+							
+		</ul>
+	</div>
+	
+	<!-- End Admin Panel -->
 
-            <div id="menu" class="cobrand">
-    <ul class="level1 horizontal" id="root">
+	
+
+	<div id="feedback-popup" style="display:none;">
+		<div class="feedback-wrapper">
+	        <a href="#" title="Close Formt" class="removeButton" onclick="Effect.toggle('feedback-popup'); $('white_overlay').fade({ duration: 0.6}); return false">
+				<p><span class="removeButtonIcon"></span>Cancel</p>
+				<div class="clear"></div><!-- DO NOT REMOVE -->
+			</a>
+			
+			<h4 style="color:#1e63a1; font-style: italic; text-align: center; font-size:20px;">Website Feedback Submission Form</h4>
+			
+			<p>Use the form below to send us your comments or report any problems you experience while at Tributes. We welcome and read all feedback carefully, but please note that we cannot respond to all comments.</p>
+			<p>For customer service related questions, please <a href="/global/FAQ" title="Answers to questions about our web site" style="color:#2E9DCB; font-weight: bold;">go here</a>.</p>
+	
+			<div id="error_feedback"></div>
+			
+			<iframe name="a25571082" id="a25571082" style="position:absolute;left:-100px;width:0px;height:0px;border: 0px"></iframe>
+<form method="post" action="/national/save_feedback?iframe_remote=true" enctype="multipart/form-data" target="a25571082">
+			
+				<label>Full Name:							
+					<input id="feedback_fullname" maxlength="100" name="feedback[fullname]" size="50" type="text">
+				</label>
+										
+				<label>Email Address:						
+		        	<input id="feedback_email" maxlength="100" name="feedback[email]" size="50" type="text">
+		        </label>
+		        							
+				<label>Subject:						
+					<input id="feedback_subject" maxlength="100" name="feedback[subject]" size="50" type="text">
+				</label>
+										
+				<label>Comments:								
+					<textarea cols="45" id="feedback_comments" name="feedback[comments]" rows="10"></textarea>
+				</label>
+										
+				<select id="feedback_os" name="feedback[os]"><option value="Select Your Operating System:">Select Your Operating System:</option>
+<option value="Windows XP/2000">Windows XP/2000</option>
+<option value="Windows Vista">Windows Vista</option>
+<option value="Windows 7">Windows 7</option>
+<option value="Mac OS">Mac OS</option>
+<option value="Mobile">Mobile</option></select>							
+				
+				<select id="feedback_browser" name="feedback[browser]"><option value="Select Your Web Browser:">Select Your Web Browser:</option>
+<option value="Internet Explorer">Internet Explorer</option>
+<option value="Firefox">Firefox</option>
+<option value="Chrome">Chrome</option>
+<option value="Safari">Safari</option>
+<option value="Opera">Opera</option></select>						
+				<br>
+				<label class="label" for="captcha">*For security purposes, please type the text that appears below.
+					<div class="yacaph"><input id="captcha_validation" name="captcha_validation" type="hidden" value="e9edfda98be5e28f21c425bf393843b1b5ec4c8d"><img src="/images/captcha2/e9edfda98be5e28f21c425bf393843b1b5ec4c8d.png"><label for="captcha"></label><input id="captcha" name="captcha" type="text"></div>
+				</label>
+				
+				<input class="trib2-buttonblue" name="commit" type="submit" value="Submit Feedback">
+		</form>
+		</div>
+	</div>
+	
+<div id="feedback-response" style="display:none;">
+	<div class="feedback-wrapper">
+		<h4 style="color:#1e63a1; font-style: italic; text-align: center; font-size:20px;">Thank You!</h4>
+		<p>Your comments have been forwarded to our product development team.</p>
+		<p>For customer service related questions, please <a href="/global/FAQ" title="Answers to questions about our web site" style="color:#2E9DCB; font-weight: bold;">go here</a>.</p>	
+	
+		<a class="trib2-buttonblue" href="#" onclick="Effect.toggle('feedback-response'); $('white_overlay').fade({ duration: 0.6}); return false" rel="nofollow">Go Back to Tributes</a>
+	</div>
+</div>
+<div id="white_overlay" style="display: none;"></div>
+
+	<!-- Search -->
+	<div id="trib2-simpleSearch">
+		<a href="/year_in_review/show/2011" title="Notable Deaths in 2011" style="position:absolute; top:130px; width:180px; display:block; height:28px;"></a>
+		<div style="float:left; margin:30px 20px 0 30px;">
+			<a style="float:left;" href="http://www.tributes.com" title="Tributes.com home page">
+				<img src="/trib2_images/logo-tagline-ko.png" alt="Tributes.com Logo" title="Tributes.com">
+			</a>
+		</div>
+		
+		<form action="/search/obituaries" id="trib2-simpleSearchWidget" method="get" onsubmit="clear_form_defaults(this);">			<p class="simpleSearchInfo"><span class="tip1-highlight">Obituary Search</span> <a href="/search/obituaries" title="Advanced Search">Advanced Search</a></p>
+			<input class="populate firstName" id="first" name="first" title="First Name" type="text">
+			<input class="populate lastName" id="last" name="last" title="Last Name" type="text">	
+			<select id="simple-search-header" name="state"><option value="">State</option>
+<option value="AL">AL</option>
+<option value="AK">AK</option>
+<option value="AR">AR</option>
+<option value="AZ">AZ</option>
+<option value="CA">CA</option>
+<option value="CO">CO</option>
+<option value="CT">CT</option>
+<option value="DC">DC</option>
+<option value="DE">DE</option>
+<option value="FL">FL</option>
+<option value="GA">GA</option>
+<option value="HI">HI</option>
+<option value="IA">IA</option>
+<option value="ID">ID</option>
+<option value="IL">IL</option>
+<option value="IN">IN</option>
+<option value="KS">KS</option>
+<option value="KY">KY</option>
+<option value="LA">LA</option>
+<option value="MA">MA</option>
+<option value="MD">MD</option>
+<option value="ME">ME</option>
+<option value="MI">MI</option>
+<option value="MN">MN</option>
+<option value="MO">MO</option>
+<option value="MS">MS</option>
+<option value="MT">MT</option>
+<option value="NC">NC</option>
+<option value="ND">ND</option>
+<option value="NE">NE</option>
+<option value="NH">NH</option>
+<option value="NJ">NJ</option>
+<option value="NM">NM</option>
+<option value="NV">NV</option>
+<option value="NY">NY</option>
+<option value="OH">OH</option>
+<option value="OK">OK</option>
+<option value="OR">OR</option>
+<option value="PA">PA</option>
+<option value="PR">PR</option>
+<option value="RI">RI</option>
+<option value="SC">SC</option>
+<option value="SD">SD</option>
+<option value="TN">TN</option>
+<option value="TX">TX</option>
+<option value="UT">UT</option>
+<option value="VT">VT</option>
+<option value="VA">VA</option>
+<option value="WA">WA</option>
+<option value="WI">WI</option>
+<option value="WV">WV</option>
+<option value="WY">WY</option></select>
+			<input id="simple" name="simple" type="hidden" value="1">
+			<input type="submit" id="simpleSearchButton" value="" title="Search">
+		</form>
+	</div>
+	<!-- Search -->
+</div>
+
+				<!-- SubNav -->
+<div id="trib2-subnav">
     	
-        <li class="level1">
-			<a href="/search/obituaries" title="Search Obituaries">Obituary Search</a>
-			<ul class="level2 dropdown">
-					<li class="level2"><a href="/search/obituaries" title="Search Obituaries">Search Obituaries</a></li>
-					<li class="level2"><a href="/search/browse_obituaries" title="Find Obituaries by location">Browse Obituaries</a></li>
-                    <li class="level2"><a href="/browse_obituaries" title="Recent Obituaries and Funeral Information by City">Browse By City/State</a></li>
-                    <li class="level2"><a href="/latest_obituaries" title="Obituaries just added to the Tributes.com site">This Week's Obituaries</a></li>
-                    <li class="level2"><a href="/tributes" title="Recent Enhanced Obituaries">Recent Tributes</a></li>
-					
-						<li class="level2"><a href="/cobrand/network" title="Tributes.com's regional media partners">Browse By Cobrand Partner</a></li>
-					
-            </ul>
-		</li>
+    		<ul id="main-menu"><!-- Starts the list -->
+    	
 
-		
-			
-	        	<li class="level1"><a href="/national/news" title="National Obituary News">National News</a>
-			
-	            <ul class="level2 dropdown">
-					            	
-		                <li class="level2"><a href="/national/news" title="National Obituaries">National News</a></li>
-						<li class="level2"><a href="/national/notable_people" title="Recent National Obituaries by profession">List By Category</a></li>
-		                <li class="level2"><a href="/week_in_history" title="National Obituaries Week in Review">This Week in History</a></li>
-		                <li class="level2"><a href="/year_in_review/show/2010" title="National Obituaries Year in Review">The Year In Review</a></li>
-					
-	            </ul>
-	        </li>
-		
-		
         <li class="level1">
-        	<a href="/grief_recovery_center" title="Grief Recovery Articles and Support from our Grief Recovery Experts">Grief Recovery</a>
-		</li>
-		
-        <li class="level1" id="flowers_hover" style="background-color:#234f8e;"> 
-			<a href="http://click.linksynergy.com/fs-bin/click?id=ZKyx2wN3ZFQ&amp;offerid=209199.10001750&amp;type=3&amp;subid=0" title="Flower Shop" target="flower_window">
-				<img src="/images/global/icons/1800flowers2.png" alt="Flower Shop" title="" class="mini-candle" style="top:-7px; height:26px; width:80px !important;">
-				<span style="display: inline-block; line-height: 14px; position: relative;text-align: center; top: -7px;">Flower <br>Shop</span>
-		</a>
-		</li>
-		
-		<li class="level1 level1f">
-        	<a href="/global/send_condolences" title="Sympathy Gifts and Remembrances">Gifts</a>
-		</li>
-
-		<li class="level1">
-	       	<a href="/pets/tributes/" title="Pet Tributes">Pet Tributes</a>
-			<ul class="level2 dropdown">
-				<li class="level2">
-					<a href="/pets/tributes/" title="Pet Tributes and Pet Memorials">Pet Tributes</a>
-				</li>
-				<li class="level2">
-					<a href="/groups/group/8" title="Loss of a Pet Support and Discussion Group">Loss of a Pet Support Group</a>
-				</li>
+			<a class="non-link tip1-highlight" title="Search Obituaries">Obituary Search<span class="dropdownArrow"></span></a>
+			<ul>
+				<li><a href="/search/obituaries" title="Search Obituary Listings">Advanced Search</a></li>
+	            <li><a href="/browse_obituaries" title="Recent Obituaries and Funeral Information by City">Browse by Location</a></li>
+	            <li><a href="/tributes" title="Recent Obituaries from our Partners">Browse Most Recent</a></li>
+	            <li><a href="/latest_obituaries" title="Obituaries just added on the Tributes.com site">Browse by Date</a></li>
+				<li><a href="/search/funeral_homes" title="Funeral Home Locator">Find a Funeral Home</a></li>
+				<div class="trib2-clear"></div><!-- Force containment of li elements -->
 			</ul>
-		</li>
-
-		<li class="level1">
-        	<a href="/resources" title="Information and Support for those who have lost a loved one">Support After a Death</a>
-	        <ul class="level2 dropdown">
-				<li class="level2">
-					<a href="/groups/group/" title="Discussion Groups about Grieving and Loss">Discussion Groups</a>
-				</li>
-				<li class="level2">
-	        		<a href="/groups/group/4" title="Discussion Group for those who have lost a Spouse">Death of a Spouse Group</a>
-				</li>
-				<li class="level2">
-					<a href="/groups/group/5" title="Discussion Group for those who have lost a Parent">Death of a Parent Group</a>
-				</li>
-				<li class="level2">
-					<a href="/groups/group/7" title="Discussion Group about Loss and Grieving">Loss and Grieving Group</a>
-				</li>
-				<li class="level2">
-					<a href="/groups/group/6" title="Discussion Group for those who have lost a Child">Loss of a Child Group</a>
-				</li>
-				<li class="level2">
-					<a href="/groups/group/9" title="Discussion Group for those who have lost a loved one who was in the military">Death of a Hero Group</a>
-				</li>
-	        	<li class="level2">
-	        		<a href="/grief_recovery_center" title="Grief Recovery Articles and Support from our Grief Recovery Experts">Grief Recovery Center</a>
-				</li>
-	        	<li class="level2">
-				    <a href="/resources" title="Information for those who have lost a loved one">Legal Resources</a>
-				</li>
-	        </ul>
 		</li>
 
 		
 			<li class="level1">
-				<a href="/gift/candelabra" title="Condolences and Obituary Guest Book Entries with candles">View Candles</a>
-				<ul class="level2 dropdown">
-						<li class="level2"><a href="/gift/candelabra" title="Recent Condolences and Guest Book Memories">View Candelabra</a></li>
-	                	<li class="level2"><a href="/gift/candelabra/memorial_day_2011" title="Candles lit for Memorial Day 2011">Memorial Day 2011 Candelabra</a></li>
-						<li class="level2"><a href="/gift/candelabra/veterans_day" title="Candles lit for Veterans Day 2010">Veterans Day 2010 Candelabra</a></li>
-	                	<li class="level2"><a href="/gift/candelabra/memorial_day" title="Candles lit for Memorial Day 2010">Memorial Day 2010 Candelabra</a></li>
-						<li class="level2"><a href="/gift/gifts" title="Honor the lives of those who have passed away">Light a Candle</a></li>
-	            </ul>
+				<a class="non-link" title="National Obituary News">National News<span class="dropdownArrow"></span></a>
+		    	<ul>
+		        	<li><a href="/national/news" title="National Obituaries">Notable Obituaries</a></li>
+					<li><a href="/national/notable_people" title="Recent National Obituaries by profession">Notables by Category</a></li>
+		            <li><a href="/week_in_history" title="National Obituaries Week in Review">This Week in History</a></li>
+		            <li><a href="/year_in_review/show/2011" title="National Obituaries Year in Review">Year in Review</a></li>
+		            <div class="trib2-clear"></div><!-- Force containment of li elements -->
+		       </ul>
 			</li>
 		
-		
-		
-	       	<li class="level1">
-	       		<a href="/search/funeral_homes" title="Find a funeral home near you">Funeral Homes</a>
-				<ul class="level2 dropdown">
-					<li class="level2"><a href="/search/funeral_homes" title="Find a funeral home near you">Funeral Home Finder</a></li>
-					<li class="level2"><a href="/funeral_homes/register" title="">Funeral Home Registration</a></li>
-					<li class="level2"><a href="/funeral_homes/index" title="" rel="nofollow">Funeral Home Login</a></li>
-					<li class="level2"><a href="/sales" title="">Partner Program</a></li>
-					<li class="level2"><a href="/partners" title="Funeral homes partnering with Tributes.com">Our Partners</a></li>
-				</ul>
-			</li>
-			
-	        <li class="level1 directors"><a href="/account/obitsreg?resource=%2Fglobal%2Fprivacy" title="Login" rel="nofollow">Login</a>
-				<ul class="level2 dropdown">
-					<li class="level2"><a href="/account/obitsreg?resource=%2Fglobal%2Fprivacy" title="Login" rel="nofollow">Login</a>
-					</li><li class="level2"><a href="/account/signup">Sign Up</a></li>	
-				</ul>
-			</li>
 
+        <li class="level1">
+        	<!-- <a href="/obituary/start_upgrade?nav=1&c=" title="Build an online memorial tribute to a loved one" >Build a Tribute</a> -->
+
+			<a style="padding:0px !important;" href="/obituary/start_upgrade?nav=1&amp;c=www" title="Build an online memorial tribute to a loved one"><span id="holidayNav"></span></a>
+		</li>
 		
+        <li class="level1"> 
+			<a href="http://click.linksynergy.com/fs-bin/click?id=ZKyx2wN3ZFQ&amp;offerid=236430.9&amp;type=3&amp;subid=0" title="Flower Shop" target="flower_window" class="subnav_flower_logo">
+				<img src="/images/flowers/flowers1800_logo.png?from=navbar" alt="Flower Shop">
+			</a>
+		</li>
+		
+		<li class="level1">
+        	<a href="/global/send_condolences" title="Sympathy Gifts and Remembrances">Sympathy Gifts</a>
+		</li>
+		
+        <li class="level1">
+        	<a href="/grief_recovery_center" class="tip3-highlight" title="Grief Recovery Articles and Support from our Grief Recovery Experts">Grief Recovery Center</a>
+		</li>
+		<div class="clear"></div><!-- DO NOT REMOVE -->
     </ul>
 </div>
-				
+
+<script type="text/javascript">
+	Menu.init("main-menu");
+</script>
+<!-- End SubNav -->
+							
 	        
 	        	<br class="clear hosting-hide">
 			
@@ -383,11 +597,12 @@
     <div class="text-container-foot"></div>
 </div>
 <div id="right-column">
-    <div id="advertisment">
-    	<script type="text/javascript">
-	        dart3("300x250");
-    	</script>
-    </div>
+	<div class="ad-msgunit">
+	
+		<script type="text/javascript">dart2("300x250");</script>
+	
+	<div class="clear"></div><!-- DO NOT REMOVE -->
+</div>
 </div>
 <br class="clear">
 
@@ -398,72 +613,103 @@
 
         
 	<div id="ad-footer">
-  		<script type="text/javascript">google_lb("obits","");</script>
+		<iframe src="http://www.ancestry.com/search/searchwidget.aspx?lname=&amp;fname=&amp;source=tributes" style="width:728px;height:130px;margin-left:0px;margin-top:0px;margin-bottom:5px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
+		</iframe>
 	</div>
 
 
-		<div id="footer">
-	<div class="footer-section left">
-		<h4>About Tributes Inc.</h4>
-		<p>Tributes.com is the online resource for current local and national obituary news, lasting tributes celebrating the lives of loved ones, and an online community to provide support during times of loss and grieving.&nbsp;&nbsp;<a href="/global/aboutus">Read More »</a></p>
-		<ul>
-			<li><span>»</span><a href="/global/aboutus">About Us</a></li>
-			<li><span>»</span><a href="/global/media_center">Media Center</a></li>
-		</ul>
-	</div>
-	<div class="footer-section middle">
-		<h4>Connect With Tributes</h4>
-		<ul>
-			<!--li><span>&raquo;</span><a href="/browse/browse_funeral_homes" >Funeral Homes</a></li-->
-			<li><span>»</span><a href="/cobrands">Media Partners / Cobrands</a></li>
-			<li><span>»</span><a href="/partners">Funeral Home Partners</a></li>
-			<li><span>»</span><a href="/global/advertise">Advertisers</a></li>
+		
+		
+			<!-- Footer -->
+<div id="trib2-footer">
+	<div id="footerLeftCol">
+		<a href="/index" title="Tributes.com"><img src="/trib2_images/logo-ko.png" alt="Tributes.com Logo" title="Tributes.com"></a>
+		<p>Tributes.com is the online resource for current local and national obituary news, lasting tributes celebrating the lives of loved ones, and an online community to 
+			provide support during times of loss and grieving.</p>
+			<p style="margin:0px;">© <script type="text/javascript">var d = new Date(); document.write(d.getUTCFullYear());</script>2020 Tributes, Inc. All rights reserved.</p>
 			
-	        	<li><span>»</span><a href="/global/link_to_us">Link To Us</a></li>
-			
-			<li><span>»</span><a href="/alert/manage">Obituary Alerts</a></li>
-			<li><span>»</span><a href="/latest_obituaries">Latest Obituaries</a></li>
-			<li><span>»</span><a href="http://blog.tributes.com" target="_blank">Our Blog</a></li>
+		<ul id="siteInfo">
+			<li><a href="/global/terms" title="Terms of Use">Terms of Use</a>&nbsp;|</li>
+			<li><a href="/global/privacy" title="Privacy Policy">Privacy Policy</a>&nbsp;|</li>
+			<li><a href="/sitemap/sitemap" title="Site Map">Site Map</a></li>
 		</ul>
 	</div>
-	<div class="footer-section right">
-		<h4>Customer Service</h4>
-		<p>For customer support, visit our <a href="/global/FAQ">FAQ section</a>.</p>
-		<ul>
-			<li><span>»</span><a href="/contact">Contact Us</a></li>
-			<li><span>»</span><a href="/global/FAQ">FAQ</a></li>
-			<li><span>»</span><a href="/global/terms">Terms of Use</a></li>
-			<li><span>»</span><a href="/global/privacy">Privacy Policy</a></li>
-			<li><span>»</span><a href="/sitemap/sitemap">Site Map</a></li>
-		</ul>
-	</div>
-	<br class="clear">
-	<h3>
-		Up to the minute National Obituary News:
-		<a href="http://www.facebook.com/TributesNews"><img src="/images/icons/32x32/facebook_32.png" alt="Connect with Tributes on Facebook" title="Connect with Tributes on Facebook" border="0"></a>
-		<a href="http://twitter.com/celebdeathtweet"><img src="/images/icons/32x32/twitter_32.png" alt="Connect with Tributes on Twitter" title="Connect with Tributes on Twitter" border="0"></a>
-		<a href="/national/notable_rss"><img src="/images/icons/32x32/rss_32.png" alt="RSS" title="RSS" border="0"></a>
-	</h3>
-</div>
-<div class="footer-copyright">
 	
-	<p class="copyright" style="text-align: center;">© 2011 Tributes, Inc. All rights reserved.</p>
+	<div id="footerRightCol">
+		<div class="footer-section">
+			<h3>About</h3>
+			<ul>
+				<li><a href="/global/aboutus" title="About Us">About Us</a></li>
+				<li><a href="/global/media_center" title="Media Center">Media Center</a></li>
+				<li><a href="/global/advertise" title="">Advertise with Us</a></li>
+				<li><a href="/cobrands" title="Media Network">Join our Media Network</a></li>
+				<li><a href="/global/helpwanted" title="">Jobs</a></li>
+			</ul>
+		</div>
+		
+		<div class="footer-section">
+			<h3>Partners</h3>
+			<ul>
+				<li><a href="/partners" title="Funeral Home Partners">Funeral Home Partners</a></li>
+				<li><a href="/cobrand/network" title="Television &amp; Radio Partners">Television &amp; Radio Partners</a></li>
+				<li><a href="/global/partners" title="Business Partners">Business Partners</a></li>
+			</ul>
+		</div>
+		
+		<div class="footer-section">
+			<h3>Customer Service</h3>
+			<ul>
+				<li><a href="/global/FAQ" title="FAQ">FAQ</a></li>
+				<li><a href="/contact" title="Contact Us">Contact Us</a></li>
+				
+				<li><a href="/latest_obituaries" title="Latest Obituaries">Latest Obituaries</a></li>
+				<li><a href="/pets/tributes/" title="Pet Tributes">Pet Tributes</a></li>
+			</ul>
+		</div>
+		
+		<div class="footer-section">
+			<h3>Funeral Homes</h3>
+			<ul>
+				<li><a href="/search/funeral_homes" title="Find a Funeral Home">Find a Funeral Home</a></li>
+				<li><a href="/funeral_homes/sales_form" title="Become a Partner">Become a Partner</a></li>
+				<li><a href="/sales" title="Partner Information">Partner Information</a></li>				
+				
+					<li><a href="/funeral_homes/index" title="Funeral Home Central Login">Funeral Home Central</a></li>
+				
+			</ul>
+		</div>
+	</div>
+	<div class="clear"></div><!-- DO NOT REMOVE -->
 </div>
-
+<!-- End Footer -->
+		
+		<br class="clear">
+		
+		
 		
     </div>
 
-	<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script><script type="text/javascript">
-//<![CDATA[
-             Element.observe(window,'load', function() {
-                FB_RequireFeatures(["XFBML"], function() {
-                  FB.init('2dd51802813437a44936387ac904d77b','/xd_receiver.html', {});
-                  
-                });
+	          <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+          <script>
+            window.fbAsyncInit = function() {
+              FB.init({
+                appId  : '182059441509',
+                status : true, // check login status
+                cookie : true, // enable cookies to allow the server to access the session
+                channelUrl : 'http://www.tributes.com/channel.html', // add channelURL to avoid IE redirect problems
+                oauth : true,
+                xfbml  : true  // parse XFBML
               });
+              
+            };
 
-//]]>
-</script>
+            (function() {
+              var e = document.createElement('script'); e.async = true;
+              e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+              document.getElementById('fb-root').appendChild(e);
+            }());
+          </script>
+
 
 	
 	<script type="text/javascript">	
@@ -519,7 +765,16 @@
 
 	
 		
-    		
+    	<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/28/eum/rum-staging.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","ad25edb642",310718,"dF9XTRMOCF0BQBwFVFhSWFVOERZYElNQGw==",0,9,new Date().getTime(),"","","","",""])</script>	
 	
 
-</body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/28/eum/rum-staging.js"></script></body></html>
