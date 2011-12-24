@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k12jobspot.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523173944id_/http%3A//k12jobspot.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k12jobspot.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225005226id_/http%3A//k12jobspot.com/Privacy) for the most accurate reproduction.*
 
 # Privacy - K12JobSpot.com
 
@@ -22,5 +22,3 @@ The website maintains appropriate technical and management measures to keep user
 Users can choose to delete their account completely at anytime. If a user wishes to do so, the user should contact a K12JobSpot service representative. Methods of contact appear at the end of this policy. 
 
 Should the security measures or information handling practices of this website ever change, the modifications will be posted in the Privacy Policy. Users who are concerned about how their information is used should contact a K12JobSpot service representative at General ASP Inc. 
-
-K12JobSpot service representatives at General ASP Inc. welcome all questions and concerns via email, telephone, or fax. 
