@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the couturecandy.com privacy policy that was archived on 2011-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110513210457id_/https%3A//www.couturecandy.com/privacy-policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the couturecandy.com privacy policy that was archived on 2011-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111224044425id_/https%3A//www.couturecandy.com/privacy-policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>CoutureCandy Security and Privacy Policy</title>
@@ -62,7 +62,16 @@ $(function() {
 	scrollage();
 });
 function scrollage() {
-	$('.scroll').jScrollPane({showArrows: true});
+	var sc = $('.scroll');
+	
+	if( $(".category li").hasClass("scroll_to_me")) {
+		//console.log("Hello Test");
+		sc.jScrollPane({showArrows: true});
+		var api = sc.data('jsp');
+		api.scrollToElement(".scroll_to_me",true,false);
+	} else {
+		sc.jScrollPane({showArrows: true});
+	}
 	if (ran_once == true) {
 		$(".jspVerticalBar").css({"margin-left":"-3px","right":"5px"});
 	}
@@ -104,18 +113,22 @@ urchinTracker();
 
 <div class="menu_stripe">
 	<div class="wrap">
+	<!--
     	<ul class="menu left">
-        	<li class="active"><a> WOMEN</a></li>
-            <li><a href="//www.couturecandy.com/index.do?Men=t">  MEN</a></li>
+        	<li  class="active"><a> WOMEN</a></li>
+            <li  ><a href="//www.couturecandy.com/index.do?Men=t">  MEN</a></li>
             <li><a>KIDS<sub style="font-size: 0.7em; margin-left:3px;">coming soon</sub></a></li>
-        </ul><!-- menu left -->
-        <ul class="menu right">
+        </ul>
+
+	 -->
+	<!-- menu left -->
+        <ul class="menu left">
         		        	<li><a href="//www.couturecandy.com/designer-directory.html">DESIGNERS</a></li>
 	            <li><a href="//www.couturecandy.com/addictions.htm">NEW ARRIVALS</a></li>
-	            <li><a href="//www.couturecandy.com/designers/1/catalog.html?sortby=CREATE_TIME_DESC">CLOTHING</a></li>
+	            <li><a href="//www.couturecandy.com/designers/1/catalog.html?sortby=CREATE_TIME_DESC">SHOP BY CATEGORY</a></li>
 	            <li><a href="//www.couturecandy.com/accessories/1/catalog.html?pn=1&amp;sortby=CREATE_TIME_DESC">ACCESSORIES</a></li>
 	            <li><a href="//www.couturecandy.com/sales.html">SALE</a></li>
-	            <li><a href="//www.couturecandy.com/celebs/index.html">BLOG</a></li>
+	            <li class="last"><a href="//www.couturecandy.com/celebs/index.html">CELEBRITY STYLE BLOG</a></li>
 	                </ul><!-- menu right -->
     </div><!-- wrap -->
 </div><!-- menu_stripe -->
@@ -246,8 +259,9 @@ urchinTracker();
 
 <div class="wrap">
 	<div class="footer">
-    	All Rights Reserved © Couturecandy 2011 | <a href="//www.couturecandy.com/privacy-policy.jsp">Privacy Policy</a> | <a href="//www.couturecandy.com/disclaimer.htm">Conditions of Use</a>
+    	All Rights Reserved © Couturecandy 2011 | <a href="//www.couturecandy.com/privacy-policy.jsp">Privacy Policy</a> | <a href="//www.couturecandy.com/disclaimer.htm">Conditions of Use</a> | <a href="//www.couturecandy.com/sitemap.html">Sitemap</a>
     </div><!-- footer -->
 </div><!-- wrap -->
+
 
 </body></html>
