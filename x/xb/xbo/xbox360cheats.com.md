@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xbox360cheats.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626160243id_/http%3A//www.xbox360cheats.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xbox360cheats.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225003350id_/http%3A//www.xbox360cheats.com/privacy_policy) for the most accurate reproduction.*
 
 # Xbox 360 Cheats Privacy Policy
 
@@ -7,11 +7,6 @@
   
 
 
-#### welcome to xbox 360 cheats!
-
-Xbox360Cheats.com is the ultimate source for **Xbox 360 cheats and Xbox 360 cheat codes**. In addition we have all the latest **Xbox 360 tips, glitches codes and achievements** , so make sure you bookmark and/or like us!|   
----|---  
-  
 ## Xbox 360 Cheats privacy policy
 
 By using Xbox360Cheats.com (the "Website") you certify that you have read and agree to all of the terms and conditions of this Privacy Policy. 
@@ -26,4 +21,4 @@ The Website uses cookies to store visitors preferences, record session informati
 
 This site uses a tool that collects your requests for pages and passes elements of them to search engines to assist them in indexing this site. We control the configuration of the tool and are responsible for any information sent to the search engines. 
 
-Please contact us by [using this form](http://www.xbox360cheats.com/contact_us/) if you have any questions. 
+Please contact us by [using this form](http://www.xbox360cheats.com/blog/contact/) if you have any questions. 
