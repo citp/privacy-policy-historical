@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flickrmusic.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411005308id_/http%3A//www.flickrmusic.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flickrmusic.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224075401id_/http%3A//www.flickrmusic.com/policy.php) for the most accurate reproduction.*
 
 # Flickr Music - Unlimited Latest Music Free to Download
 
