@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horizonservices.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521045036id_/http%3A//www.horizonservicesinc.com/contact-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horizonservices.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224114625id_/http%3A//www.horizonservicesinc.com/contact-us/privacy-statement) for the most accurate reproduction.*
 
 # Plumbing, Heating, Air Conditioning, Drain Cleaning, Sewer - DE, PA, MD - Privacy Statement | Horizon Services Inc.
 
@@ -71,7 +71,7 @@ If we change our privacy statement, HORIZON SERVICES, INC. will post the revised
 
 ### Who Should I Contact for More Information?
 
-If you have any questions about this privacy statement, the practices of this site, or your interactions with this site, please feel free to contact us at [webmaster@horizonservicesinc.com](mailto:webmaster@horizonservicesinc.com)  or call us at (302) 762-1200. Letters may be sent to the following address:
+If you have any questions about this privacy statement, the practices of this site, or your interactions with this site, please feel free to contact us at [webmaster@horizonservicesinc.com](mailto:webmaster@horizonservicesinc.com) or call us at (302) 762-1200. Letters may be sent to the following address:
 
 _**Horizon Services, Inc.**_  
 320 Century Blvd.  
