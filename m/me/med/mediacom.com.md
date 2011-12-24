@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediacom.com privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310011327id_/http%3A//www.mediacom.com/en/hygiene/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediacom.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224215220id_/http%3A//www.mediacom.com/en/hygiene/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy :: MediaCom
 
@@ -72,11 +72,11 @@ If you provide us information through our "Network & Contacts, Headquarters" pag
 
 MediaCom may use cookies to tailor your experience on our website (this website) and to help provide a better service to you. You may opt out of cookies used on our websites through the instructions provided above.
 
-If you would like us to remove your information from our marketing e-mails or newsletters, please contact us at [privacy.global@mediacom.com](mailto:privacy.global@mediacom.com)  . Be sure to include your name, username and clear instructions regarding any change to your PII including email address or if you would like us to unsubscribe you from our database.
+If you would like us to remove your information from our marketing e-mails or newsletters, please contact us at [privacy.global@mediacom.com](mailto:privacy.global@mediacom.com) . Be sure to include your name, username and clear instructions regarding any change to your PII including email address or if you would like us to unsubscribe you from our database.
 
 ## Children's Privacy
 
-We are sensitive to the issue of children's privacy. Therefore, our website and Services are neither developed for, nor directed at, children. If you believe your child has provided us with PII, and you would like to have the information removed, please contact us at [privacy.global@mediacom.com](mailto:privacy.global@mediacom.com)  .
+We are sensitive to the issue of children's privacy. Therefore, our website and Services are neither developed for, nor directed at, children. If you believe your child has provided us with PII, and you would like to have the information removed, please contact us at [privacy.global@mediacom.com](mailto:privacy.global@mediacom.com) .
 
 ## Linking to Other Websites
 
