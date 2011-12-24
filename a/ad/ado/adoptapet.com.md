@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adoptapet.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625053638id_/http%3A//savinglives.1-800-save-a-pet.com/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adoptapet.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224220505id_/http%3A//savinglives.1-800-save-a-pet.com/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
 
 # AdoptaPet.com: Privacy Policy
 
