@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translink.ca privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922082524id_/http%3A//www.translink.ca/en/Site-Info/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translink.ca privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224011647id_/http%3A//www.translink.ca/en/Site-Info/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,7 +41,7 @@ Return to top
 
 The personal information supplied by visitors to our website is used for the purpose of fulfilling individuals’ requests (i.e., seeking information, inquiring about employment opportunities, entering contests, etc.). TransLink does not sell, trade, or rent individuals’ personal information to anyone, or otherwise disclose it except: 1) when the purpose and manner of the disclosure has been provided to the visitor prior to their providing the information, or 2) when disclosure is required or authorized by law.
 
-We may send to individuals, from time to time, email or other communications containing information about TransLink which we believe will interest them. We may use individuals’ personal information to contact and correspond with them, send them information we feel may be of use to them, to respond to their inquiries, and enhance and assist with their use of our website. Individuals who prefer not to receive this type of information are asked to please let us know by emailing [Manager, Corporate Marketing,](mailto:Janet.King@translink.ca?subject=Privacy%20Policy " email coporate marketing manager") or by regular mail to TransLink, Suite 1600 - 4720 Kingsway, Burnaby, BC V5H 4N2, Attention: Corporate Marketing.
+We may send to individuals, from time to time, email or other communications containing information about TransLink which we believe will interest them. We may use individuals’ personal information to contact and correspond with them, send them information we feel may be of use to them, to respond to their inquiries, and enhance and assist with their use of our website. Individuals who prefer not to receive this type of information are asked to please let us know by emailing [Manager, Enterprise Marketing,](mailto:angela.otto@translink.ca?subject=Privacy%20Policy "email enterprise marketing manager") or by regular mail to TransLink, Suite 1600 - 4720 Kingsway, Burnaby, BC V5H 4N2, Attention: Corporate Marketing.
 
 Aggregated information does not include personal identifying information and therefore such information will not identify individuals. We use aggregated information to assist in determining a number of things such as which areas of the TransLink website customers frequent based on traffic to those areas; peak traffic hours of use, etc. This helps us continue to build a better website. We may disclose aggregated information to third parties (such as advertisers) or include it in public records. 
 
@@ -55,7 +55,7 @@ Return to top
 
 ##  Children's Privacy 
 
-TransLink requests that parents or guardians monitor their childrens' use of this service. No personal information should be provided by minor children without parental or guardian consent. 
+TransLink requests that parents or guardians monitor their childrens' use of this service. No personal information should be provided by minor children without parental or guardian consent. 
 
 Return to top
 
@@ -79,6 +79,6 @@ Return to top
 
 ##  Questions and Concerns
 
-Personal information collected in accordance with this policy relates directly to TransLink’s marketing and consumer research activities and is collected pursuant to section 26(c) of the British Columbia _Freedom of Information and Protection of Privacy Act_. If you have any questions concerning the collection of this information, please contact TransLink’s Manager of Corporate Marketing, Suite 1600 - 4720 Kingsway, Burnaby, BC V5H 4N2 Telephone: (604) 453-4500. 
+Personal information collected in accordance with this policy relates directly to TransLink’s marketing and consumer research activities and is collected pursuant to section 26(c) of the British Columbia _Freedom of Information and Protection of Privacy Act_. If you have any questions concerning the collection of this information, please contact TransLink’s Manager of Corporate Marketing, Suite 1600 - 4720 Kingsway, Burnaby, BC V5H 4N2 Telephone: 604.453.4500
 
 Return to top
