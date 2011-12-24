@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623133442id_/http%3A//www.protectamerica.com/pa/priv_p) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224221052id_/http%3A//www.protectamerica.com/pa/priv_p) for the most accurate reproduction.*
 
 # Privacy Policy | Security Systems | Alarm Monitoring | Protect America
 
@@ -90,8 +90,8 @@ If you have any questions about this privacy policy, please [email us](mailto:in
 
 ](http://www.protectamerica.com/pa/map "Map to Protect America, Inc.")
 
-5100 N. IH-35, Suite B  
-Round Rock, TX 78681 
+3800 Quick Hill Rd. Building 1-100  
+Austin, TX 78728 
 
 ## Call us today toll-free at
 
