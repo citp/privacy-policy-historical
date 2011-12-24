@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zsl.org privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626132716id_/http%3A//www.zsl.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zsl.org privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224213108id_/http%3A//www.zsl.org/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
