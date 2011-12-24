@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the environment-agency.gov.uk privacy policy that was archived on 2011-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605034041id_/http%3A//www.environment-agency.gov.uk/help/35770.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the environment-agency.gov.uk privacy policy that was archived on 2011-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111224190122id_/http%3A//www.environment-agency.gov.uk/help/35770.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><!-- PageID 35770 - published by RedDot 7.5 - 7.5.1.91 - 25630 -->
-    <title>Environment Agency - Privacy policy</title>
+    <title>Environment Agency - Privacy and cookies</title>
     <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-    <meta name="DC.Title" content="Privacy policy">
-    <meta name="Title" content="Privacy policy">
-    <meta name="DC.Creator" content="Nick Squire">
+    <meta name="DC.Title" content="Privacy and cookies">
+    <meta name="Title" content="Privacy and cookies">
+    <meta name="DC.Creator" content="Lianne Brown-Martin">
     <meta name="eGMS.Subject.Category" content="policy, personal, data">
     <meta name="DC.Description" content="Information regarding the Environment Agency's use of personal data.">
     <meta name="Description" content="Information regarding the Environment Agency's use of personal data.">
     <meta name="DC.Publisher" content="The Environment Agency">
     <meta name="DC.Date.Created" scheme="DCTERMS.W3CDTF" content="2008-08-17T03:19:19Z">
-    <meta name="DC.Date.Modified" scheme="DCTERMS.W3CDTF" content="2011-06-01T09:15:37Z">
+    <meta name="DC.Date.Modified" scheme="DCTERMS.W3CDTF" content="2011-11-09T10:31:41Z">
     <meta name="DC.Type.Category" content="">
     <meta name="DC.Format" content="text/html">
     <meta name="DC.Identifier" content="/help/35770.aspx">
@@ -61,13 +61,19 @@
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-18431968-2']);
+  _gaq.push(['_setDomainName', 'environment-agency.gov.uk']);
+  _gaq.push(['_setAllowLinker', true]);
   _gaq.push(['_trackPageview']);
   (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; 
+ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; 
+s.parentNode.insertBefore(ga, s);
   })();
 </script>
+
 </head>
 <body>
     <div id="wrapper">
@@ -140,6 +146,68 @@
     
                 
 </div>
+<script>
+function ShowPopup(iWidth, iHeight, iFile)
+{
+QBPopWin = window.open(iFile,'QBpopup','toolbar=no,directories=no,width='+iWidth+',height='+iHeight);
+}
+function OpenSurvey(iLink)
+{
+NewWindow = window.open(iLink,'QBSurvey','');
+ClosePopUp();
+}
+function ClosePopUp(iCookie)
+{
+var didReply = getCookie(iCookie) || 0;
+setCookie(iCookie,++didReply);
+self.close();
+}
+function checkPopUp(iCookie, iWidth, iHeight, iDelay, iFile, iPercent)
+{
+res = getCookie(iCookie);
+var popPercent = iPercent;
+var popRandom = (100 *Math.random());
+if (!(res) && ((popRandom + popPercent)>100))
+{
+setTimeout("ShowPopup("+iWidth+","+iHeight+",'"+iFile+"')",iDelay);
+var didReply = getCookie(iCookie) || 0;
+setCookie(iCookie,++didReply);
+}
+}
+function setExpDate()
+{
+var today = new Date();
+var expire = new Date(today.getTime() + 90 * 24 * 60 * 60 * 1000);
+//alert(expire);
+expire = expire.toGMTString();
+return expire;
+}
+function setCookie(cookieName, cookieValue)
+{
+var cookieLife = setExpDate();
+document.cookie = cookieName+ "=" +cookieValue+ ";expires=" +cookieLife + ";path=/";
+}
+function getCookie(name)
+{
+var currentCookie = document.cookie;
+var index = currentCookie.indexOf(name + "=");
+if (index == -1) return null;
+index = currentCookie.indexOf("=", index) + 1; // first character
+var endstr = currentCookie.indexOf(";", index);
+if (endstr == -1) endstr = currentCookie.length; // last character
+return unescape(currentCookie.substring(index, endstr));
+}
+</script>
+<script>
+var window_href = top.location.href
+var exclude_section = "floodwarn.co.uk";
+var foundit;
+foundit = 100; //default anything but -1
+foundit = window_href.indexOf(exclude_section);
+if (foundit == -1) { // -1 means it has not found 'exclude_section' in the URL
+checkPopUp('qbsurvey',480,277,1500,'http://www.environment-agency.gov.uk/134584.htm',100);
+}
+</script>
                 <div class="theme1">
                     <div id="leftcol">
                         
@@ -184,50 +252,58 @@
                     </div>            
                 </div>
                 <div id="contentWrapper">
-                    <form name="form1" method="post" action="/help/35770.aspx" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUIOTk2Mjg0MjAPZBYCZg9kFgRmD2QWAmYPDxYMHgRUZXh0BQVFbWFpbB4LTmF2aWdhdGVVcmwFyAUvY29udGFjdHVzL0VtYWlsX3RoaXNfcGFnZS5hc3B4P3N1YmplY3Q9Ulc1MmFYSnZibTFsYm5RclFXZGxibU41SzNkbFluQmhaMlVsTTJFcksxQnlhWFpoWTNrcmNHOXNhV041LVQwczRVbnBpUzJRMFZWYzFUaXRKVUUxa1ZrcDJhMDFMY1ZabmJGUjJObWxVUVdsSVVXRmxOekp2VUZrM1JtbE5NR2Q1Um0xR1owMHZkSFV5YkUxaU5nPT0mYm9keT1TU3R6WVhjcmRHaHBjeXR3WVdkbEsyOXVLM1JvWlN0RmJuWnBjbTl1YldWdWRDdEJaMlZ1WTNrcmQyVmljMmwwWlN0aGJtUXJkR2h2ZFdkb2RDdDViM1VyYzJodmRXeGtLM0psWVdRcmFYUWxNMkVyVUhKcGRtRmplU3R3YjJ4cFkza3JLMmgwZEhBbE0yRWxNbVlsTW1aM2QzY3VaVzUyYVhKdmJtMWxiblF0WVdkbGJtTjVMbWR2ZGk1MWF5VXlabWhsYkhBbE1tWXpOVGMzTUM1aGMzQjQtTkRScFkxaEVWVEJQYWtkWlowdGtiMnMyV2paUk1EQnFjbTh5YlZSM1oyRlNTRUoxUm1oMmNUbE1LemhwVEVwUVpYWnJTbVZKY0UxRlJtZElZbGRXU2twcFRVVm9SbkYxUkhORWFUTXhSVWQzVkVZNVlVRnJRbUpVVW5SbVVscHhRMVJNZEUxWFJYa3pjM2RWWVVndlYzWmxTSEIwZUM5b2VFTnRUVkZtWTNnck4zVXhVMVUxZUVoR1FVOHpkblZ3Y0RaQ1JqWmtVRlozU0hZcmVYZEdjQzlUWlhkWmNrdFpOSFp1ZGtwV1UzVjNlbGd3WW5oek1HczVZa2RWVUVkU00wOUljbFJTVkVrdmNrSktSRzVUTTFKUGFFVTBOWGR0ZW01RVVHNTROWGc9HghDc3NDbGFzcwUFZW1haWweBlRhcmdldAUGX2JsYW5rHgRfIVNCAgIeB1Zpc2libGVnFgIeBXRpdGxlBQVFbWFpbGQCAQ9kFgJmDw8WDB8ABQhGZWVkYmFjax8BBcIDL2NvbnRhY3R1cy9GZWVkYmFja19vbl90aGlzX3BhZ2UuYXNweD9zdWJqZWN0PVJXNTJhWEp2Ym0xbGJuUXJRV2RsYm1ONUszZGxZbk5wZEdVcmNHRm5aU1V6WVNzclVISnBkbUZqZVN0d2IyeHBZM2s9LVQwczRVbnBpUzJRMFZWYzFUaXRKVUUxa1ZrcDJjVTh2ZDFkaVUwRTJZMWhrY1hSSGVtOHhiV0pxVVdsMVQyeDRUeTlVSzFKb0wyaDRRMjFOVVdaamVDOVFkbWsxY0U5cUwzTjNQUT09JmJvZHk9Um1WbFpHSmhZMnNyYUhSMGNDVXpZU1V5WmlVeVpuZDNkeTVsYm5acGNtOXViV1Z1ZEMxaFoyVnVZM2t1WjI5MkxuVnJKVEptYUdWc2NDVXlaak0xTnpjd0xtRnpjSGc9LVZGUnNVbFpOZVVoR2RGWTBjRXhsT1dWaFRXcFlNV1prTWxSbGNHNHhhRTVZUmt0UVZtZ3ljMGRFTTNZNVltaE9WVGhYUW5WYU1WUlhRMU5qVDBsSVJISXhjMW94U0U5dk5rOXVVbWxQUVZaU1NHSnpTeTlRWldaM05HWktUMmsyHwIFCGZlZWRiYWNrHwMFBl9ibGFuax8EAgIfBWcWAh8GBQhGZWVkYmFja2RkkmXPsqJzaD15xYQHgtLFKVWURAQ=">
+                    <form name="form1" method="post" action="35770.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUIOTk2Mjg0MjAPZBYCZg9kFgRmD2QWAmYPDxYMHgRUZXh0BQVFbWFpbB4LTmF2aWdhdGVVcmwF6AUvY29udGFjdHVzL0VtYWlsX3RoaXNfcGFnZS5hc3B4P3N1YmplY3Q9Ulc1MmFYSnZibTFsYm5RclFXZGxibU41SzNkbFluQmhaMlVsTTJFcksxQnlhWFpoWTNrcllXNWtLMk52YjJ0cFpYTT0tVDBzNFVucGlTMlEwVlZjMVRpdEpVRTFrVmtwMmEwMUxjVlpuYkZSMk5tbFVRV2xJVVdGbE56SnZVRU1yTnpkak1XbE5iMnB1YldvM1JHaHRWWG93UmsxM1ZpOWtjV3BMZFd3d1BRPT0mYm9keT1TU3R6WVhjcmRHaHBjeXR3WVdkbEsyOXVLM1JvWlN0RmJuWnBjbTl1YldWdWRDdEJaMlZ1WTNrcmQyVmljMmwwWlN0aGJtUXJkR2h2ZFdkb2RDdDViM1VyYzJodmRXeGtLM0psWVdRcmFYUWxNMkVyVUhKcGRtRmplU3RoYm1RclkyOXZhMmxsY3lzcmFIUjBjQ1V6WVNVeVppVXlabmQzZHk1bGJuWnBjbTl1YldWdWRDMWhaMlZ1WTNrdVoyOTJMblZySlRKbWFHVnNjQ1V5WmpNMU56Y3dMbUZ6Y0hnPS1ORFJwWTFoRVZUQlBha2RaWjB0a2IyczJXalpSTURCcWNtOHliVlIzWjJGU1NFSjFSbWgyY1RsTUt6aHBURXBRWlhaclNtVkpjRTFGUm1kSVlsZFdTa3BwVFVWb1JuRjFSSE5FYVRNeFJVZDNWRVk1WVVGclFtSlVVblJtVWxweFExUk1kRTFYUlhremMzZFZZVWd2VjNabFNIQjBlV055YWxkYWRFMW1OWGROYVVSUWREazVTV2RqZURSd1RHVTVaV0ZOYWxneFptUXlWR1Z3YmpGb1RsaEdTMUJXYURKelIwUXpkamxpYUU1Vk9GZENkVm94VkZkRFUyTlBTVWhFY2pGeldqRklUMjgyVDI1U2FVOUJWbEpJWW5OTEwxQmxabmMwWmtwUGFUWT0eCENzc0NsYXNzBQVlbWFpbB4GVGFyZ2V0BQZfYmxhbmseBF8hU0ICAh4HVmlzaWJsZWcWAh4FdGl0bGUFBUVtYWlsZAIBD2QWAmYPDxYMHwAFCEZlZWRiYWNrHwEFygMvY29udGFjdHVzL0ZlZWRiYWNrX29uX3RoaXNfcGFnZS5hc3B4P3N1YmplY3Q9Ulc1MmFYSnZibTFsYm5RclFXZGxibU41SzNkbFluTnBkR1VyY0dGblpTVXpZU3NyVUhKcGRtRmplU3RoYm1RclkyOXZhMmxsY3c9PS1UMHM0VW5waVMyUTBWVmMxVGl0SlVFMWtWa3AyY1U4dmQxZGlVMEUyWTFoa2NYUkhlbTh4YldKcVVXbDFUMng0VHk5VUsxSnBZM0pxVjFwMFRXWTFkek5YUkV0bllqVjJjMU5SUFE9PSZib2R5PVJtVmxaR0poWTJzcmFIUjBjQ1V6WVNVeVppVXlabmQzZHk1bGJuWnBjbTl1YldWdWRDMWhaMlZ1WTNrdVoyOTJMblZySlRKbWFHVnNjQ1V5WmpNMU56Y3dMbUZ6Y0hnPS1WRlJzVWxaTmVVaEdkRlkwY0V4bE9XVmhUV3BZTVdaa01sUmxjRzR4YUU1WVJrdFFWbWd5YzBkRU0zWTVZbWhPVlRoWFFuVmFNVlJYUTFOalQwbElSSEl4YzFveFNFOXZOazl1VW1sUFFWWlNTR0p6U3k5UVpXWjNOR1pLVDJrMh8CBQhmZWVkYmFjax8DBQZfYmxhbmsfBAICHwVnFgIfBgUIRmVlZGJhY2tkZAStnkIoUAuM/GSI7UFzAraB4/XD">
 
                         <div id="contentInnerWrapper">
                             <div id="contentColWrapper">
                                 <div id="content" class="theme1">
                                     
                                     <a name="access-main" id="access-main" tabindex="14" title="main content"></a>
-                                    <h1>Privacy policy</h1>
+                                    <h1>Privacy and cookies</h1>
                                     
-                                    <p class="intro">Information regarding the Environment Agency's use of personal data.</p>
+                                    <p class="intro">This privacy policy explains how we use personal information that we may collect about you when you use this website.</p>
                                     
                                     
                                     <div class="plain_text">
-                                        <h2>Statement of intent </h2>
-<p>In order to access the services we provide and to provide us with feedback, you will be asked to submit personal information about yourself (eg name, address, and telephone number). The services provided include licence application, environmental information, provision of feedback and consultations. </p>
-<p>By entering your details the Environment Agency will be able to provide you with the services you select. Whenever you provide personal information, we undertake to treat that information in accordance with this policy. </p>
-<h2>Submitting personal information </h2>
-<p>When you supply personal information to the Environment Agency we have legal obligations towards you in the way we deal with that information. We have to process information within the framework of our statutory duties and powers and in addition we have to collect the information fairly. The individual notices on particular webpages, forms or specifically given to you let you know how we will use the information and whether we will pass the information on to anyone else. </p>
-<h2>Use and disclosure of personal information </h2>
-<p>We use personal information to deal with licence applications, to monitor compliance with the licence/permit/registration conditions, to process renewals, preventing and investigating breaches of environmental law, for maintaining the relevant public register(s), dealing with complaints, consultations and for providing environmental services and literature. </p>
-<p>We may disclose personal data to our consultants, agents and representatives to do these things on our behalf. In addition we may disclose information to other public bodies and other organisations (e.g. Health and Safety Executive Local Authorities, Emergency Services, Defra) for consultation on environmental issues. </p>
-<p>Personal information that we are required to put on our public registers may be licensed for re-use to third parties. Personal information that is not on a public register may be also be licensed to third parties, but this will only be where the Data Protection Act 1998 allows. If personal information not on the public register is licensed for marketing purposes this will only be for strictly limited types of marketing and where you have indicated you want this to happen. Personal information may also be shared with parties other than those mentioned above where we are required by law to disclose the information. </p>
-<p>We will only hold personal data on our systems for a strictly limited period of time. For the most part the time period will be set as a matter of internal policy and will be the minimum necessary for our use. </p>
-<h2>Access to your personal information </h2>
-<p>You have the right to request a copy of the personal information the Environment Agency holds about you and to have any inaccuracies in that personal information corrected. Please address requests to the National Data Protection Manager or use our online enquiry form.<br></p>
-<h2>Direct marketing </h2>
-<p>From time to time we may wish to provide you with details of other services or literature about environmental matters available from the Environment Agency which may be of interest to you. We may also offer you the opportunity to participate in the consultation process for new methods, strategies, works or schemes proposed by the Environment Agency. </p>
-<h2>Users under 18 </h2>
-<p>If you are under 18, please make sure that you obtain your parent/guardian's permission before you provide personal information to the Environment Agency on its website or by other means. </p>
-<h2>Security of personal information </h2>
-<p>We share the general concern over the safety and security of personal information on the Internet and have implemented procedures to promote the safety and security of information we collect online. We have implemented industry standard controls to try to ensure confidentiality; however, no data transmission over the Internet can be guaranteed to be 100% secure. We cannot therefore guarantee that personal information will never be disclosed in ways not otherwise described in this privacy policy. </p>
-<h2>Cookies </h2>
+                                        <h2>Where we may collect personal information from you</h2>
+<p>We may collect and process the following personal information about you:</p>
+<ul>
+<li>Information that you provide if you submit a query using our <a title="Online enquiry form" href="http://www.environment-agency.gov.uk/contactus/feedback.aspx?"><strong>online enquiries form</strong></a> or if you <a title="Contact us" href="/contactus/default.aspx"><strong>contact</strong></a> our National Customer Contact Centre. </li>
+<li>Information that you provide if you report an environmental incident via our <a title="Report an incident" href="/contactus/36345.aspx"><strong>incident hotline</strong></a>. </li>
+<li>Information that you provide if you request publications via this website. </li>
+<li>Information that you provide if you apply for a permit, licence or exemption via this website. </li>
+<li>Information that you provide if you subscribe to a newsletter via this website. </li>
+<li>Information that you provide if you subscribe to a service via this website. </li>
+<li>Information that you provide if you respond to a consultation via this website. </li>
+<li>Information that you provide if you apply for a job via this website.</li></ul>
+<h2>How we will use personal information about you</h2>
+<p>Information that you provide to us if you submit a query using our online enquiries form or if you contact our National Customer Contact Centre will be used to respond to your query. It may also be used to assess customer satisfaction with our service and improve our communications.</p>
+<p>Information that you provide to us if you report an environmental incident will be used to investigate that incident.&nbsp; It may also be used to assess customer satisfaction with our service and improve our communications.</p>
+<p>If you provide any other personal information to us via this website you will be given specific information on the relevant web page(s) about how it will be used, including any disclosures that may be made.</p>
+<p>From time to time we may use agents to carry out these activities for us.</p>
+<h2>Access to your personal information and correction of inaccuracies</h2>
+<p>You have the right to request a copy of the personal information we hold about you.&nbsp; Please send your request to the Data Protection Manager at the address below or use our <a title="Online enquiry form" href="http://www.environment-agency.gov.uk/contactus/feedback.aspx?">online enquiry form</a>.</p>
+<p>Data Protection Manager<br>Corporate Security team<br>Environment Agency<br>Horizon House<br>Deanery Road<br>Bristol<br>BS1 5AH</p>
+<p>You may also ask us to correct or remove information that you think is inaccurate.&nbsp; You can do this by contacting the Data Protection Manager.</p>
+<h2>Security of card payment transactions</h2>
+<p>We use a third party online payment service to process card payment transactions.&nbsp; Organisations that provide this service must comply with the Payment Card Industry Data Security Standards. </p>
+<ul>
+<li><strong><a title="Payment Card Industry Data Security Standards" href="https://www.pcisecuritystandards.org/index.php" class="global">Payment Card Industry Data Security Standards</a></strong></li></ul>
+<h2>Cookies</h2>
 <p>When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally.</p>
 <p>These pieces of information are used to improve services for you through, for example:</p>
 <ul>
-<li>enabling a service to recognise your device so you don't have to give the same information several times during one task </li>
-<li>recognising that you may already have given a username and password so you don't need to do it for every web page requested </li>
-<li>measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are fast </li></ul>
+<li>enabling a service to recognise your device so you do not have to give the same information several times during one task </li>
+<li>recognising that you may already have given a username and password so you do not need to do it for every web page requested </li>
+<li>measuring how many people are using services, so they can be made easier to use and there is enough capacity to ensure they are fast</li></ul>
 <p>You can manage these small files yourself and learn more about them:</p>
 <ul>
-<li><strong><a title="Internet browser cookies on the Direct Gov website" href="http://www.direct.gov.uk/en/SiteInformation/DG_197506?CID=Central&amp;PLA=url_mon&amp;CRE=managing_cookies" class="global">Internet browser cookies - what they are and how to manage them</a></strong></li></ul>
-<ul>
-<li><strong><a title="Our use of cookies" href="/help/130361.aspx" class="standard">Our use of cookies</a></strong></li></ul>
+<li><strong><a title="Internet browser cookies - what they are and how to manage them" href="http://www.direct.gov.uk/en/SiteInformation/DG_197506?CID=Central&amp;PLA=url_mon&amp;CRE=managing_cookies" class="global">Internet browser cookies - what they are and how to manage them</a><br></strong></li>
+<li><strong><a title="Use of our cookies" href="/help/130361.aspx" class="standard">Our use of cookies</a></strong></li></ul>
+<h2>Links to other websites</h2>
+<p>This website contains links to other websites that have their own privacy policies.&nbsp; We do not accept responsibility or liability for those policies or for the content of any linked website.</p>
+<p>This privacy policy was last updated on 27 October 2011.<br></p>
                                     </div>
                                            
                                                                     
@@ -253,7 +329,7 @@
             
                         
             
-                        <li><a id="EmailLink1_EmailLink" class="email" title="Email" href="/contactus/Email_this_page.aspx?subject=RW52aXJvbm1lbnQrQWdlbmN5K3dlYnBhZ2UlM2ErK1ByaXZhY3krcG9saWN5-T0s4UnpiS2Q0VVc1TitJUE1kVkp2a01LcVZnbFR2NmlUQWlIUWFlNzJvUFk3RmlNMGd5Rm1GZ00vdHUybE1iNg==&amp;body=SStzYXcrdGhpcytwYWdlK29uK3RoZStFbnZpcm9ubWVudCtBZ2VuY3krd2Vic2l0ZSthbmQrdGhvdWdodCt5b3Urc2hvdWxkK3JlYWQraXQlM2ErUHJpdmFjeStwb2xpY3krK2h0dHAlM2ElMmYlMmZ3d3cuZW52aXJvbm1lbnQtYWdlbmN5Lmdvdi51ayUyZmhlbHAlMmYzNTc3MC5hc3B4-NDRpY1hEVTBPakdZZ0tkb2s2WjZRMDBqcm8ybVR3Z2FSSEJ1Rmh2cTlMKzhpTEpQZXZrSmVJcE1FRmdIYldWSkppTUVoRnF1RHNEaTMxRUd3VEY5YUFrQmJUUnRmUlpxQ1RMdE1XRXkzc3dVYUgvV3ZlSHB0eC9oeENtTVFmY3grN3UxU1U1eEhGQU8zdnVwcDZCRjZkUFZ3SHYreXdGcC9TZXdZcktZNHZudkpWU3V3elgwYnhzMGs5YkdVUEdSM09IclRSVEkvckJKRG5TM1JPaEU0NXdtem5EUG54NXg=" target="_blank">Email</a>
+                        <li><a id="EmailLink1_EmailLink" class="email" title="Email" href="/contactus/Email_this_page.aspx?subject=RW52aXJvbm1lbnQrQWdlbmN5K3dlYnBhZ2UlM2ErK1ByaXZhY3krYW5kK2Nvb2tpZXM=-T0s4UnpiS2Q0VVc1TitJUE1kVkp2a01LcVZnbFR2NmlUQWlIUWFlNzJvUEMrNzdjMWlNb2pubWo3RGhtVXowRk13Vi9kcWpLdWwwPQ==&amp;body=SStzYXcrdGhpcytwYWdlK29uK3RoZStFbnZpcm9ubWVudCtBZ2VuY3krd2Vic2l0ZSthbmQrdGhvdWdodCt5b3Urc2hvdWxkK3JlYWQraXQlM2ErUHJpdmFjeSthbmQrY29va2llcysraHR0cCUzYSUyZiUyZnd3dy5lbnZpcm9ubWVudC1hZ2VuY3kuZ292LnVrJTJmaGVscCUyZjM1NzcwLmFzcHg=-NDRpY1hEVTBPakdZZ0tkb2s2WjZRMDBqcm8ybVR3Z2FSSEJ1Rmh2cTlMKzhpTEpQZXZrSmVJcE1FRmdIYldWSkppTUVoRnF1RHNEaTMxRUd3VEY5YUFrQmJUUnRmUlpxQ1RMdE1XRXkzc3dVYUgvV3ZlSHB0eWNyaldadE1mNXdNaURQdDk5SWdjeDRwTGU5ZWFNalgxZmQyVGVwbjFoTlhGS1BWaDJzR0QzdjliaE5VOFdCdVoxVFdDU2NPSUhEcjFzWjFIT282T25SaU9BVlJIYnNLL1BlZnc0ZkpPaTY=" target="_blank">Email</a>
 </li>
                     
             
@@ -263,18 +339,18 @@
                 <span class="bookmark">Bookmark</span>
                 <ul class="SocialBookmarking">
                     <li class="delicious"> 
-                    <a title="Post this web page to Delicious" rel="external" href="http://del.icio.us/post?url=http://www.environment-agency.gov.uk/help/35770.aspx%26title%3dPrivacy policy" target="_blank"><span class="hidden">Post this web page to</span> Delicious</a>
+                    <a title="Post this web page to Delicious" rel="external" href="http://del.icio.us/post?url=http://www.environment-agency.gov.uk/help/35770.aspx%26title%3dPrivacy and cookies" target="_blank"><span class="hidden">Post this web page to</span> Delicious</a>
                     </li>
                     <li class="digg"> 
-                    <a title="Post this web page to Digg" rel="external" href="http://digg.com/remote-submit?phase=2&amp;url=http://www.environment-agency.gov.uk/help/35770.aspx%26title%3dPrivacy policy" target="_blank"><span class="hidden">Post this web page to</span> Digg</a>                    </li>
+                    <a title="Post this web page to Digg" rel="external" href="http://digg.com/remote-submit?phase=2&amp;url=http://www.environment-agency.gov.uk/help/35770.aspx%26title%3dPrivacy and cookies" target="_blank"><span class="hidden">Post this web page to</span> Digg</a>                    </li>
                     <li class="reddit"> 
-                    <a title="Post this web page to reddit" rel="external" href="http://reddit.com/submit?url=http://www.environment-agency.gov.uk/help/35770.aspx%26title%3dPrivacy policy" target="_blank"><span class="hidden">Post this web page to</span> reddit</a>
+                    <a title="Post this web page to reddit" rel="external" href="http://reddit.com/submit?url=http://www.environment-agency.gov.uk/help/35770.aspx%26title%3dPrivacy and cookies" target="_blank"><span class="hidden">Post this web page to</span> reddit</a>
                     </li>
                     <li class="facebook"> 
-                    <a title="Post this web page to Facebook" rel="external" href="http://www.facebook.com/sharer.php?u=http://www.environment-agency.gov.uk/help/35770.aspx%26title%3dPrivacy policy" target="_blank"><span class="hidden">Post this web page to</span> Facebook</a>
+                    <a title="Post this web page to Facebook" rel="external" href="http://www.facebook.com/sharer.php?u=http://www.environment-agency.gov.uk/help/35770.aspx%26title%3dPrivacy and cookies" target="_blank"><span class="hidden">Post this web page to</span> Facebook</a>
                     </li>
                     <li class="stumbleupon"> 
-                    <a title="Post this web page to StumbleUpon" rel="external" href="http://www.stumbleupon.com/submit?url=http://www.environment-agency.gov.uk/help/35770.aspx%26title%3dPrivacy policy" target="_blank"><span class="hidden">Post this web page to</span> StumbleUpon</a>
+                    <a title="Post this web page to StumbleUpon" rel="external" href="http://www.stumbleupon.com/submit?url=http://www.environment-agency.gov.uk/help/35770.aspx%26title%3dPrivacy and cookies" target="_blank"><span class="hidden">Post this web page to</span> StumbleUpon</a>
                     </li>
                 </ul>    
             </li>
@@ -282,7 +358,7 @@
 
             
             
-                        <li><a id="EmailLink2_EmailLink" class="feedback" title="Feedback" href="/contactus/Feedback_on_this_page.aspx?subject=RW52aXJvbm1lbnQrQWdlbmN5K3dlYnNpdGUrcGFnZSUzYSsrUHJpdmFjeStwb2xpY3k=-T0s4UnpiS2Q0VVc1TitJUE1kVkp2cU8vd1diU0E2Y1hkcXRHem8xbWJqUWl1T2x4Ty9UK1JoL2h4Q21NUWZjeC9Qdmk1cE9qL3N3PQ==&amp;body=RmVlZGJhY2sraHR0cCUzYSUyZiUyZnd3dy5lbnZpcm9ubWVudC1hZ2VuY3kuZ292LnVrJTJmaGVscCUyZjM1NzcwLmFzcHg=-VFRsUlZNeUhGdFY0cExlOWVhTWpYMWZkMlRlcG4xaE5YRktQVmgyc0dEM3Y5YmhOVThXQnVaMVRXQ1NjT0lIRHIxc1oxSE9vNk9uUmlPQVZSSGJzSy9QZWZ3NGZKT2k2" target="_blank">Feedback</a>
+                        <li><a id="EmailLink2_EmailLink" class="feedback" title="Feedback" href="/contactus/Feedback_on_this_page.aspx?subject=RW52aXJvbm1lbnQrQWdlbmN5K3dlYnNpdGUrcGFnZSUzYSsrUHJpdmFjeSthbmQrY29va2llcw==-T0s4UnpiS2Q0VVc1TitJUE1kVkp2cU8vd1diU0E2Y1hkcXRHem8xbWJqUWl1T2x4Ty9UK1JpY3JqV1p0TWY1dzNXREtnYjV2c1NRPQ==&amp;body=RmVlZGJhY2sraHR0cCUzYSUyZiUyZnd3dy5lbnZpcm9ubWVudC1hZ2VuY3kuZ292LnVrJTJmaGVscCUyZjM1NzcwLmFzcHg=-VFRsUlZNeUhGdFY0cExlOWVhTWpYMWZkMlRlcG4xaE5YRktQVmgyc0dEM3Y5YmhOVThXQnVaMVRXQ1NjT0lIRHIxc1oxSE9vNk9uUmlPQVZSSGJzSy9QZWZ3NGZKT2k2" target="_blank">Feedback</a>
 </li>
                     
             
@@ -310,7 +386,7 @@
             </p>
             <p class="text">
                 Author: The Environment Agency | <a href="mailto:enquiries@environment-agency.gov.uk" title="Email">enquiries@environment-agency.gov.uk</a><br>
-                Last updated: 02 June 2011
+                Last updated: 14 December 2011
             </p>
             
         
