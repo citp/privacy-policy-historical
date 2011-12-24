@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeremedycentral.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426165007id_/http%3A//www.homeremedycentral.com/en/administration/home-remedy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeremedycentral.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225005532id_/http%3A//www.homeremedycentral.com/en/administration/home-remedy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Home Remedy | Administration
 
@@ -48,7 +48,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
   * Google, as a third party vendor, uses cookies to serve ads on this site.
   * Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy/ads/).
 
 
 
@@ -57,9 +57,7 @@ We use third-party advertising companies to serve ads when you visit our website
 To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 
   * [Amazon privacy policy](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496).
-  * [Kontera privacy policy](http://www.kontera.com/em-privacy-policy).
-  * [Commission Junction privacy policy](https://www.cj.com/privacy.html).
-  * [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
+  * [Google ad and content network privacy policy](http://www.google.com/privacy/ads/)
 
 
 
