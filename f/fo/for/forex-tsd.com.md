@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forex-tsd.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422192623id_/http%3A//www.forex-tsd.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex-tsd.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224113808id_/http%3A//www.forex-tsd.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Forex-TSD Privacy Policy
 
@@ -127,3 +127,5 @@ Personal Information is collected when a "store account" is created. To save you
 By setting up the reports feature of certain products, you give Forex-TSD permission to collect network information (including network traffic, application usage and internet history) that is linked to your email address, and therefore is Personal Information. The network information is summarized into a report and e-mailed to the identified e-mail address. This feature is available on an opt-in basis, and you must proactively enable the feature for it to collect data.
 
 The support services feature of certain Forex-TSD products collects and stores information about your network configuration and usage. As a result, Forex-TSD may collect and store detailed information regarding your network for the purpose of providing you technical networking support. The information is associated with you only when you provide your unique ID number to the support representative while you are receiving assistance.
+
+Inffinity Internet S.L. will use the services of entities and / or professionals located in the United States, for this purpose Inffinity Internet S.L. should allow them to access to your data. The sole purpose of such access is to deliver their services of housing, hosting, management and / or user support, Web services management and / or advice or task development regarding communication and marketing matters. In particular, Inffinity Internet S.L. uses the services of US-based companies and providers located in the Philippines, both for marketing activities. By accepting this Privacy Policy you agree to the processing described. .
