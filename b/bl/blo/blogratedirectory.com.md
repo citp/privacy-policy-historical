@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogratedirectory.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621012141id_/http%3A//www.blogratedirectory.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogratedirectory.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224054636id_/http%3A//www.blogratedirectory.com/Privacy.php) for the most accurate reproduction.*
 
 # Add Blog
 
