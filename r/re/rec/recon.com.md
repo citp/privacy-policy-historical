@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recon.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606111537id_/http%3A//www.recon.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recon.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225003617id_/http%3A//www.recon.com/privacy.aspx) for the most accurate reproduction.*
 
 # Recon - Photo profiles for gay men
 
@@ -9,7 +9,7 @@ Headings do not form part of this policy and will not affect their interpretatio
 
 In these terms and conditions, "you" refers to the member and "we", "us" refers to T101 Limited. Recon is a network of associated websites ("the sites") owned and operated wholly by us and consists of the following URLs: 
 
-recon.com, bikermen.com, worldgaymen.com, worldleathermen.com, maskedmen.com, clubmuscle.com, worldpunks.com, worldrubbermen.com, worldskins.com, worldsportskit.com, world-uniform.com, slave4master.com, bondagecontrol.com, suitedguys.com, worldfist.com, bootedmen.com, gaypiercing.com, inkedskin.com, bearvillage.com, footsexboys.com, gayfighter.com. 
+recon.com
 
 **Registration under Data Protection Act 1998**  
 We are registered under the Data Protection Act 1998 (UK). We make no use of personal information other than as set out in this policy. Except as otherwise provided below, we will not use any personal or confidential information or disclose it to any third party, unless we are required to do so by law. 
@@ -18,7 +18,7 @@ We are registered under the Data Protection Act 1998 (UK). We make no use of per
 Our web server automatically recognises the domain name and email address of each user of this website. We collect IP addresses as well as details of your browser type so we can deal with service problems we may also use it to deal with issues arising from breach of our terms and conditions of use of the sites. 
 
 **Cookies**  
-When you visit a Recon website we send one or more "cookies" - small files containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, you will be unable to login and use all features of Recon if your cookies are disabled.
+When you visit our website we send one or more "cookies" - small files containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, you will be unable to login and use all features if your cookies are disabled.
 
 **Uses of personal information**  
 The personal information we collect may be used for the following purposes: 
@@ -59,7 +59,7 @@ Our sites also contain links to other websites (other than the sites we own) whi
 Information submitted by users to one of the sites may be replicated on our other sites. 
 
 **Access right**  
-You have a right to access the personal data held about you at any time. To obtain a copy of the personal information we hold about you, please email us at admin@recon.com. 
+You have a right to access the personal data held about you at any time. To obtain a copy of the personal information we hold about you, please email us at support@recon.com. 
 
 **Security**  
 We employ a number of security measures to help limit the loss, damage, misuse and defacement of information that we control. Information that is gathered by us is stored on our secure servers. These servers are held in a high-security location and access is limited to authorised personnel only. Physical and electronic keys are used to prevent access to the servers, along with photographic identity cards. In addition, the servers themselves are electronically secured with multiple passwords. 
@@ -68,10 +68,8 @@ Our payment-processing partner uses industry-standard Secure Sockets Layer (SSL)
 
 Your personal address and payment details are collected for order processing only. Your card will be billed as one of the following 
 
-  * WWW.RECON.COM
-  * MC - T101.COM INFO@T101.COM 
-  * NETBANX-RECON.COM 
-  * WP-T101 LIMITED 
+  * RECON.COM
+  * T101 LIMITED 
 
 
 
