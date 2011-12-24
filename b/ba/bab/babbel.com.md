@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the babbel.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225204802id_/http%3A//www.babbel.com/home/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babbel.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224214408id_/http%3A//www.babbel.com/home/privacy-statement) for the most accurate reproduction.*
 
 # Babbel: Privacy Statement
 
 ### Terms and Conditions on Data Protection
 
-"Babbel" is a service provided by the Lesson Nine GmbH, located in Berlin, Germany. This policy document contains the rules how personal data are processed and stored at Lesson Nine. All personal information is handled most carefully. The protection of these data is of the highest concern to Lesson Nine. These terms and conditions are an addition to the general terms and conditions for using Babbel. Please contact us at [info@babbel.com](mailto:info@babbel.com) if you have any questions concerning this policy.
+"Babbel" is a service provided by the Lesson Nine GmbH, located in Bergmannstraße 68, 10961 Berlin, Germany. This policy document contains the rules how personal data are processed and stored at Lesson Nine. All personal information is handled most carefully. The protection of these data is of the highest concern to Lesson Nine. These terms and conditions are an addition to the general terms and conditions for using Babbel. Please contact us at [info@babbel.com](mailto:info@babbel.com) if you have any questions concerning this policy.
 
 ### 1\. What data are stored?
 
@@ -45,15 +45,20 @@ This website uses Google Analytics, a web analytics service provided by Google, 
 You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.  
 By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-#### 1.5. Personal Vocabulary
+#### 1.5. Like button  
+
+
+Babbel uses a "like button" that enables a personal information exchange with Facebook if you are logged in to Babbel and Facebook at the same time. In this case, personal data is shared with Facebook even when the "like button" is not active.
+
+#### 1.6. Personal Vocabulary
 
 In order to provide Babbel users with a convenient way of reviewing their vocabulary Lesson Nine stores all practised words and phrases as well as the test scores in the user's personal vocabulary. These data are available to others only as so-called high scores.
 
-#### 1.6. Image Uploads And Ratings
+#### 1.7. Image Uploads And Ratings
 
 Babbel users can upload pictures for public use. These pictures are publicly related to the screen name and profile of the uploader. Individual picture ratings are also related to the user's account, for other users they are only accessable anonimously.
 
-#### 1.7. Messages
+#### 1.8. Messages
 
 All messages, chats and other contacts between Babbel users who make use of the Babbel community tools are stored on the Babbel webservers. This private information will not be made accessible to others by any means.
 
