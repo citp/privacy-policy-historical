@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edgar-online.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624213655id_/http%3A//www.edgar-online.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgar-online.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224212951id_/http%3A//www.edgar-online.com/Privacy.aspx) for the most accurate reproduction.*
 
-# EDGAR Online - Experts in XBRL company financial data, SEC filings, data feeds and analytical tools
+# EDGAR Online – We care about financial data as much as you do
 
 EDGAR Online, Inc. ("EOL") respects your right to privacy while using our web sites. Our privacy policy detailed below explains what information we may gather from your visit to our web sites and how such information may be used.
 
