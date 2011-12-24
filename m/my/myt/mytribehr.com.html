@@ -1,42 +1,133 @@
-<!--The following is the downloaded HTML source of the mytribehr.com privacy policy that was archived on 2011-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110626121243id_/http%3A//tribehr.com/about-us/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mytribehr.com privacy policy that was archived on 2011-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111224152830id_/http%3A//tribehr.com/about-us/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
-	<title>Privacy Policy | Human Resources Software</title>
+<!DOCTYPE html><html dir="ltr" lang="en-US"><head>
+		<meta charset="UTF-8">
+		<title>HR Data Privacy and Security | HR Software | Applicant Tracking System</title>
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<link rel="stylesheet" type="text/css" media="all" href="http://tribehr.com/wp-content/themes/tribehr/style.css">
+		<!--[if IE]>
+		<link rel="stylesheet" type="text/css" media="all" href="http://tribehr.com/wp-content/themes/tribehr/iestyle.css" />
+		<![endif]-->
+		<link rel="pingback" href="http://tribehr.com/xmlrpc.php">
+		
+				<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://tribehr.com/wp-content/themes/tribehr/js/jquery-1.7.1.min.js"></script>
+		<script type="text/javascript" src="http://tribehr.com/wp-content/themes/tribehr/js/jcarousellite_1.0.1.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){					
+				/* no sliding yet!
+				$(".slideIt").jCarouselLite({
+					auto: 5000,
+					speed: 1000,
+					btnNext: "#homeBuckets .next",
+					btnPrev: "#homeBuckets .prev"
+				});*/
 
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+				$('#logo').click(function(){
+					window.location.href = "http://tribehr.com";
+				});
 
-	<meta name="robots" content="index,follow">
+				if ($("#homeTestimonial").length > 0){
+					//add the active class to the first items
+					$('#quote1').addClass('active');
+					$('#logo1').addClass('active');
 
-	<link rel="canonical" href="http://tribehr.com/privacy/">
+					$('#logos li').click(function(){
+						var newLogoId = $(this).attr('id');						
+						var newQuoteId = newLogoId.replace('logo','quote');
+						$('#quotes li').each(function(){
+							$(this).removeClass('active');
+						});
+						$('#'+newQuoteId).addClass('active');
+						
+						$('#logos li').each(function(){
+							$(this).removeClass('active');
+						});
+						$(this).addClass('active');
+					});
+				}
 
-	<link rel="stylesheet" type="text/css" href="http://tribehr.com/wp-content/themes/thematic/style.css">
+				//swap the blog links
+				$('#blogSummary .post').each( function(){
+					var theLink = $(this).find('.hiddenContent').find('.hubspotLink').find('.theLink').html();
 
-	<link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/tribehr" title="Human Resources Software Blog Feed">
-	<link rel="pingback" href="http://tribehr.com/xmlrpc.php">
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+					$(this).find('.title').attr('href', theLink);
+					$(this).find('.more').attr('href', theLink);
+				});
+			});
+		</script>
+		<script type="text/javascript">
 	window.google_analytics_uacct = "UA-10337296-2";
 </script>
+	<meta name="description" content="Our HR data and HR database privacy and security policies. Our stringent security protocols meet legal requirements pretty much everywhere.">
 	<meta name="keywords" content="hr software,human resources software,human resource software,applicant tracking system,applicant tracking systems,small business hr software">
 <link rel="image_src" href=""> 
-<link rel="alternate" type="application/rss+xml" title="Human Resources Software » Privacy Policy Comments Feed" href="http://tribehr.com/privacy/feed/">
+				
+	<script type="text/javascript">//<![CDATA[
+	// Google Analytics for WordPress by Yoast v4.1.1 | http://yoast.com/wordpress/google-analytics/
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount','UA-10337296-2']);
+	_gaq.push(['_setCustomVar',2,'post_type','page',3],['_trackPageview'],['_trackPageLoadTime']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	//]]></script>
+<link rel="alternate" type="application/rss+xml" title="Human Resources Software » Privacy Policy Comments Feed" href="http://tribehr.com/privacy-policy/feed/">
+<link rel="stylesheet" id="flick-css" href="http://tribehr.com/wp-content/plugins/mailchimp//css/flick/flick.css?ver=3.1.4" type="text/css" media="all">
 <link rel="stylesheet" id="share-and-follow-stylesheet-css" href="http://tribehr.com/wp-content/plugins/share-and-follow/css/stylesheet.css?ver=1" type="text/css" media="screen">
 <link rel="stylesheet" id="share-and-follow-print-css" href="http://tribehr.com/wp-content/plugins/share-and-follow/css/print.css?ver=1" type="text/css" media="print">
-<link rel="stylesheet" id="contact-form-7-css" href="http://tribehr.com/wp-content/plugins/contact-form-7/styles.css?ver=2.4.5" type="text/css" media="all">
-<link rel="stylesheet" id="wp_dlmp_styles-css" href="http://tribehr.com/wp-content/plugins/download-monitor/page-addon/styles.css?ver=3.1.3" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://tribehr.com/wp-content/plugins/contact-form-7/styles.css?ver=2.4.6" type="text/css" media="all">
+<link rel="stylesheet" id="wp_dlmp_styles-css" href="http://tribehr.com/wp-content/plugins/download-monitor/page-addon/styles.css?ver=3.1.4" type="text/css" media="all">
 <script type="text/javascript" src="http://tribehr.com/wp-includes/js/l10n.js?ver=20101110"></script>
 <script type="text/javascript" src="http://tribehr.com/wp-includes/js/jquery/jquery.js?ver=1.4.4"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js?ver=3.1.3"></script>
-<script type="text/javascript" src="http://tribehr.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<script type="text/javascript" src="http://tribehr.com/wp-content/plugins/mailchimp/js/scrollTo.js?ver=1.2.5"></script>
+<script type="text/javascript" src="http://tribehr.com/wp-content/plugins/contact-form-7/jquery.form.js?ver=2.52"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mailchimpSF = {
+	ajax_url: "http://tribehr.com/"
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://tribehr.com/wp-content/plugins/mailchimp/js/mailchimp.js?ver=1.2.5"></script>
+<script type="text/javascript" src="http://tribehr.com/wp-includes/js/jquery/ui.core.js?ver=1.8.9"></script>
+<script type="text/javascript" src="http://tribehr.com/wp-content/plugins/mailchimp//js/datepicker.js?ver=3.1.4"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://tribehr.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://tribehr.com/wp-includes/wlwmanifest.xml"> 
 <link rel="index" title="Human Resources Software" href="http://tribehr.com/">
-<link rel="prev" title="Monthly Newsletter" href="http://tribehr.com/about-us/newsletter/">
-<link rel="next" title="About Us" href="http://tribehr.com/about-us/">
-
-<link rel="canonical" href="http://tribehr.com/privacy/">
-<script type="text/javascript">
+<link rel="prev" title="Newsletter" href="http://tribehr.com/about-us-2/newsletter/">
+<link rel="next" title="Terms of Use" href="http://tribehr.com/terms-of-use/">
+<meta name="generator" content="WordPress 3.1.4">
+<link rel="canonical" href="http://tribehr.com/privacy-policy/">
+	<script type="text/javascript">
+		jQuery(function($) {
+			$('.date-pick').datepicker({
+				autoFocusNextInput: true,
+				constrainInput: false,
+				changeMonth: true,
+				changeYear: true,
+				beforeShow: function(input, inst) { $('#ui-datepicker-div').addClass('show'); },
+				dateFormat: 'yy/mm/dd',
+			});			
+			
+			d = new Date();
+			$('.birthdate-pick').datepicker({
+				autoFocusNextInput: true,
+				constrainInput: false,
+				changeMonth: true,
+				changeYear: false,
+				minDate: new Date(d.getFullYear(), 1-1, 1),
+				maxDate: new Date(d.getFullYear(), 12-1, 31),
+				beforeShow: function(input, inst) { $('#ui-datepicker-div').removeClass('show'); },
+				dateFormat: 'mm/dd',
+			});
+			
+				
+		});
+	</script>
+	<script type="text/javascript">
 //<![CDATA[
 function newsletter_check(f) {
     var re = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-]{2,})+\.)+([a-zA-Z0-9]{2,})+$/;
@@ -52,33 +143,7 @@ function newsletter_check(f) {
 }
 //]]></script>
 <style type="text/css">
-</style><script charset="utf-8" type="text/javascript">var switchTo5x=false;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'wp.418939af-6913-41c4-b286-8169a5621189'});var st_type='wordpress3.1.1';</script><script type="text/javascript">
-  swfobject.registerObject("wpFollowmeFlash", "9.0.0");
-</script>
-<style type="text/css">
-.getflash { font-size:8px; }
-.wp_followme_c2 {
-	position:fixed;
-	background:#59B7FF;
-	top:200px;
-	right:0px;
-	width:32px;
-	height:160px;
-	border:1px solid #FFFFFF;
-	color:#FFFFFF;
-}
-</style>
-
-
-	<script type="text/javascript" src="http://tribehr.com/wp-content/themes/thematic/library/scripts/hoverIntent.js"></script>
-	<script type="text/javascript" src="http://tribehr.com/wp-content/themes/thematic/library/scripts/superfish.js"></script>
-	<script type="text/javascript" src="http://tribehr.com/wp-content/themes/thematic/library/scripts/supersubs.js"></script>
-	<script type="text/javascript" src="http://tribehr.com/wp-content/themes/thematic/library/scripts/thematic-dropdowns.js"></script>
-
-	<script type="text/javascript">
-		jQuery.noConflict();
-	</script>
-		<style type="text/css">
+</style><script charset="utf-8" type="text/javascript">var switchTo5x=false;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'wp.418939af-6913-41c4-b286-8169a5621189'});var st_type='wordpress3.1.1';</script>		<style type="text/css">
 		.better-tag-cloud-shortcode li,
 		.better-tag-cloud-shortcode li a,
 		li#better-tag-cloud ul.wp-tag-cloud li,
@@ -87,184 +152,113 @@ function newsletter_check(f) {
 					}
 		</style> 	<link type="text/css" rel="stylesheet" href="http://tribehr.com/wp-content/plugins/syntaxhighlighter-plus/syntaxhighlighter/styles/shCore.css">
 	<link type="text/css" rel="stylesheet" href="http://tribehr.com/wp-content/plugins/syntaxhighlighter-plus/syntaxhighlighter/styles/shThemeDefault.css">
-<meta name="alexaVerifyID" content="8FocpUuPckX6IK0MCYHwcNC6PiI">
-<meta name="blogcatalog" content="9BC10035594"> 
-	<!-- link rel="stylesheet" href="960.css" type="text/css" / -->
-	<!--[if !IE]>
-	<link href='http://fonts.googleapis.com/css?family=Cantarell' rel='stylesheet' type='text/css'>	
-	<link href='http://fonts.googleapis.com/css?family=Crimson+Text' rel='stylesheet' type='text/css'>
-	<![endif]-->
-	<link rel="stylesheet" href="http://tribehr.com/wp-content/themes/thematic/style.css?v=1.4" type="text/css">
-	<!--[if lte IE 7]>
-	<link rel="stylesheet" href="http://tribehr.com/wp-content/themes/thematic/ie7.css" type="text/css" />
-	<![endif]-->
-<meta name="google-site-verification" content="Xm3QdWgmRNAlvvFtqycARSw9cV4jusccG-fUPazuRbk">	
-	<script type="text/javascript">document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https" : "http") + "://a.mouseflow.com/projects/f6c180d7-7285-49e8-9857-9963cfb87f6b.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://a.mouseflow.com/projects/f6c180d7-7285-49e8-9857-9963cfb87f6b.js" type="text/javascript"></script>
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-
-
-<body class="wordpress y2011 m06 d26 h08 singular slug-privacy page pageid-31 page-author-jbfung page-comments-open page-pings-open unknown-os unknown-browser">
-    
-
-<!-- Header -->
-<div class="container_12">
-
-       
-
-		<!-- Logo and Menu -->
-		<div class="grid_3 logoBox"><a href="/"><img src="/wp-content/themes/thematic/img/logo.png" alt="Human Resources Software"></a></div>
-		<div class="grid_9 menuBox">
-<div style="position:absolute; top:25px; width:710px; font-size:small; text-transform:uppercase; text-align:right;">
-<a href="/" id="homeLink" title="HR Software">HR Software</a> | <a href="/pricing">Sign Up</a> | <a href="https://www.mytribehr.com/users/login/find">Login</a>
+	</head>
+	<body>		
+		<a name="top"></a>
+		<div id="main">
+			<div id="header">
+				<h1 id="logo">TribeHR</h1>
+				<ul id="topLinks">
+					<li><a href="https://www.mytribehr.com/users/login/find">Login</a></li>
+					<li>•</li>
+					<li><a href="http://tribehr.com/support">Support</a></li>
+					<li>•</li>
+					<li>1 855 874 2347</li>
+				</ul>
+				<ul id="socialLinks">
+					<li><a href="http://www.twitter.com/tribehr" id="twitter">Twitter</a></li>
+					<li><a href="http://www.facebook.com/TribeHR" id="facebook">Facebook</a></li>
+					<li><a href="http://tribehr.com/feed/" id="rss">RSS</a></li>
+					<li><a href="mailto:info@tribehr.com" id="email">Email</a></li>
+				</ul>
+				<div class="menu-main-container"><ul id="menu-main" class="menu"><li id="menu-item-3868" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3868"><a href="http://tribehr.com/tour-2/">Tour</a></li>
+<li id="menu-item-3867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3867"><a href="http://tribehr.com/pricing-2/">Pricing</a></li>
+<li id="menu-item-3866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3866"><a href="http://tribehr.com/about-us-2/">About Us</a></li>
+<li id="menu-item-3818" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3818"><a href="http://blog.tribehr.com">Blog</a></li>
+<li id="menu-item-3819" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3819"><a href="http://www.tribehr.com/signup.php">Sign Up</a></li>
+</ul></div>				
+			</div>
+<div id="pageBanner">
+	<h2 id="bannerHeadline">  Privacy Policy</h2>
 </div>
-<script type="text/javascript">
-jQuery(document).ready(function(){
-	jQuery("#homeLink").text('Home');
-});
-</script>
-			<div class="menuDiv"><ul id="menu-main-menu" class="menu"><li id="menu-item-349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-349"><a href="http://tribehr.com/about-us/">About</a></li>
-<li id="menu-item-353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-353"><a href="http://tribehr.com/support/">Support</a></li>
-<li id="menu-item-352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-352"><a href="http://tribehr.com/blog/">Blog</a></li>
-<li id="menu-item-351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-351"><a href="http://tribehr.com/tour/">Tour</a></li>
-<li id="menu-item-350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-350"><a href="http://tribehr.com/pricing/">Sign Up</a></li>
-</ul></div> 
-		</div>
-		<div class="clear"></div>
-	</div>
 
-          		<div class="container_12">		
-				<!-- Header Banner -->
-			<div class="innerBanner"><span>Privacy Policy</span></div>		
-			</div>		
-		<div class="clear"></div>      
-    
-       
-
-	<!-- Main Content -->
-	<div class="container_12 mainBody" id="main">
-    
-
-                        
-			<div id="post-31" class="hentry p1 page publish author-joseph-fung category-uncategorized untagged comments-open pings-open y2009 m08 d22 h08 slug-privacy">
-            
-                                
-				<div class="entry-content">
-
-                    <h1>Our Commitment to Privacy</h1>
-<div class="leftContent">
+<div id="pageContent">
+	<div id="contentNoMargin">
+			<h2>Our Commitment to Privacy</h2>
 <p>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.</p>
-<h2>The Information We Collect:</h2>
-<p>This notice applies to all information collected or submitted on the TribeHR website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:</p>
-<ul>Name<br>
+<p><strong>The Information We Collect:</strong><br>
+This notice applies to all information collected or submitted on the TribeHR website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:</p>
+<p>Name<br>
 Address<br>
 Email address<br>
 Phone number<br>
 Credit/Debit Card Information<br>
-(etc.)</ul>
+(etc.)</p>
 <p>On some pages, you can submit information about other people. For example, you will be entering your staff’s information into our system along with comments or content may be confidential with regards to your employee/employer relationships. In this circumstance, the types of personal information collected are:</p>
-<ul>Name<br>
+<p>Name<br>
 Address<br>
 Phone Number<br>
-(etc.)</ul>
-<h2>The Way We Use Information:</h2>
-<p>We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.</p>
+(etc.)</p>
+<p><strong>The Way We Use Information:</strong><br>
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.</p>
 <p>We will not use any information you submit about employees within an organization. We do not share this information with outside parties except to the when the person is logged into our system requests to share that information.</p>
 <p>We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.</p>
 <p>You can register with our website if you would like to receive our newsletter as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.</p>
-<p>We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. We use this non-identifying and aggregate information to analyze the effectiveness of our system,  to improve our services, and for other similar purposes. In addition,  from time to time, we may undertake or commission statistical and other  summary analyses of the general behavior and characteristics concerning users of our software, and may share anonymous information with third  parties. Rest assured, though, that any information provided to  third parties will not allow anyone to identify you or your employees, or to determine  anything personal about you or your employees.</p>
+<p>We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. We use this non-identifying and aggregate information to analyze the effectiveness of our system, to improve our services, and for other similar purposes. In addition, from time to time, we may undertake or commission statistical and other summary analyses of the general behavior and characteristics concerning users of our software, and may share anonymous information with third parties. Rest assured, though, that any information provided to third parties will not allow anyone to identify you or your employees, or to determine anything personal about you or your employees.</p>
 <p>Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.</p>
-<h2>Our Commitment To Data Security</h2>
-<p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.</p>
-<h2>Our Commitment To Children’s Privacy:</h2>
-<p>Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.</p>
-<h2>How You Can Access Or Correct Your Information</h2>
-<p>You can access all your personally identifiable information that we collect online and maintain by logging into your companies install of TribeHR and access your profile information. We use this procedure to better safeguard your information.</p>
+<p><strong>Our Commitment To Data Security</strong><br>
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.</p>
+<p><strong>Our Commitment To Children’s Privacy:</strong><br>
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.</p>
+<p><strong>How You Can Access Or Correct Your Information</strong><br>
+You can access all your personally identifiable information that we collect online and maintain by logging into your companies install of TribeHR and access your profile information. We use this procedure to better safeguard your information.</p>
 <p>You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.</p>
 <p>To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.</p>
-<h2>How To Contact Us</h2>
-<p>Should you have other questions or concerns about these privacy policies, please send us an email at privacy@tribehr.com.</p>
-</div>
-
-				</div>
-			</div><!-- .post -->
-
-        
-
-
-<div style="position:relative;">
-  <div class="wp_followme_c2">
-    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="32" height="160" id="wpFollowmeFlash">
-      <param name="movie" value="http://tribehr.com/wp-content/plugins/wp-followme/flash/wp_followme.swf">
-      <param name="allowfullscreen" value="false">
-      <param name="allowscriptaccess" value="always">
-      <param name="flashvars" value="twit_icon=http://tribehr.com/wp-content/plugins/wp-followme/icons/3.png&amp;turl=http://www.twitter.com/tribehr&amp;twitmsg=Follow Me&amp;twitmsgcolor=FFFFFF&amp;iconbgcolor=FFFFFF">
-      <param name="bgcolor" value="#59B7FF">
-      <!--[if !IE]>-->
-      <object type="application/x-shockwave-flash" data="http://tribehr.com/wp-content/plugins/wp-followme/flash/wp_followme.swf" width="32" height="160">
-        <param name="allowfullscreen" value="false">
-        <param name="allowscriptaccess" value="always">
-        <param name="flashvars" value="twit_icon=http://tribehr.com/wp-content/plugins/wp-followme/icons/3.png&amp;turl=http://www.twitter.com/tribehr&amp;twitmsg=Follow Me&amp;twitmsgcolor=FFFFFF&amp;iconbgcolor=FFFFFF">
-        <param name="bgcolor" value="#59B7FF">
-        <!--<![endif]-->
-		<div class="getflash">
-         <a rel="nofollow" href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player"></a>Plugin by wpburn.com <a href="http://wpburn.com">wordpress themes</a></div><!--[if !IE]>-->
-      </object> <!--<![endif]-->
-    </object>
-  </div>
-</div>
-
-
-
-
-    </div><!-- #main -->
- 	<div class="clear"></div>
-   
-        
-	<div style="display:none;">Test
-						
-	</div>
-	<div id="tribeFooter">
-		<div class="container_12">
-			<div class="grid_3 copyright">
-				<a href="/"><img src="/wp-content/themes/thematic/img/footer-logo.png" alt="TribeHR Logo"></a><br>
-				A Powered By Gerbils Product<br>
-				Copyright © 2009-2011
-			</div>
-			<div class="grid_3 footerContent">
-				<h3>The Company</h3>
-				<ul>
-					<li><a href="/about-us">About TribeHR</a></li>
-					<li><a href="/contact">Contact Information</a></li>
-					<li><a href="http://tribe.mytribehr.com/careers">Careers</a></li>
-					<li><a href="http://tribehr.com">HR Software</a></li>
-					<li><a href="http://tribehr.com/about/press">Press</a></li>					
-				</ul>
-			</div>
-			<div class="grid_3 footerContent">
-				<h3>Security &amp; Legal</h3>
-				<ul>
-					<li><a href="/about-us/privacy">Our Privacy Policy</a></li>
-					<li><a href="/terms">Terms of Use</a></li>
-					<li><a href="/about-us/security">Security Safeguards</a></li>
-					<li><a href="/about-us/data-portability">Data Portability Commitment</a></li>
-				</ul>
-			</div>
-			<div class="grid_3 footerContent">
-				<h3>Keep In Touch</h3>
-				<ul>
-					<li><a href="http://feeds.feedburner.com/TribeHR">Subscribe to Our RSS Feed</a></li>
-					<li><a href="http://www.twitter.com/tribehr">Follow Us on Twitter</a></li>
-					<li><a href="http://www.facebook.com/tribehr">Like Us on Facebook</a></li>
-					<li><a href="/about-us/newsletter/">Subscribe to Our Newsletter</a></li>
-				</ul>
-			</div>
+<p><strong>How To Contact Us</strong><br>
+Should you have other questions or concerns about these privacy policies, please send us an email at <a href="mailto:privacy@tribehr.com">privacy@tribehr.com</a>.</p>
 		</div>
-	</div>   
-	 
-                
-	
-    <script type="text/javascript" src="http://tribehr.com/wp-content/plugins/contact-form-7/jquery.form.js?ver=2.52"></script>
-<script type="text/javascript" src="http://tribehr.com/wp-content/plugins/contact-form-7/scripts.js?ver=2.4.5"></script>
+</div>
+
+
+		</div>
+		<div id="footer">
+			<ul>
+				<li>
+					<a href="" id="tribeLogo">TribeHR</a>
+					<span class="copyright">
+						Copyright © 2009-2011						<br>TribeHR Corp.
+					</span>
+				</li>
+			</ul>
+			<div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-3844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3844"><a>The Company</a>
+<ul class="sub-menu">
+	<li id="menu-item-3882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3882"><a href="http://tribehr.com/about-us-2/">About TribeHR</a></li>
+	<li id="menu-item-3883" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3883"><a href="http://tribehr.com/about-us-2/contact-us/">Contact Information</a></li>
+	<li id="menu-item-3833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3833"><a href="http://tribe.mytribehr.com/careers">Careers</a></li>
+	<li id="menu-item-3884" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3884"><a href="http://tribehr.com/tour-2/">HR Software</a></li>
+	<li id="menu-item-3885" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3885"><a href="http://tribehr.com/about-us-2/contact-us/press/">Press</a></li>
+</ul>
+</li>
+<li id="menu-item-3845" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-3845"><a>Security &amp; Legal</a>
+<ul class="sub-menu">
+	<li id="menu-item-3887" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3854 current_page_item menu-item-3887"><a href="http://tribehr.com/privacy-policy/">Privacy Policy</a></li>
+	<li id="menu-item-3889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3889"><a href="http://tribehr.com/terms-of-use/">Terms of Use</a></li>
+	<li id="menu-item-3888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3888"><a href="http://tribehr.com/about-us-2/security-safeguards/">Security Safeguards</a></li>
+	<li id="menu-item-3886" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3886"><a href="http://tribehr.com/about-us-2/data-portability/">Data Portability</a></li>
+</ul>
+</li>
+<li id="menu-item-3846" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3846"><a>Keep In Touch</a>
+<ul class="sub-menu">
+	<li id="menu-item-3847" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3847"><a href="http://feeds.feedburner.com/tribehr">Subscribe to our RSS Feed</a></li>
+	<li id="menu-item-3848" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3848"><a href="http://www.twitter.com/tribehr">Follow us on Twitter</a></li>
+	<li id="menu-item-3849" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3849"><a href="http://www.facebook.com/TribeHR">Like us on Facebook</a></li>
+	<li id="menu-item-3890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3890"><a href="http://tribehr.com/about-us-2/newsletter/">Subscribe to our Newsletter</a></li>
+</ul>
+</li>
+</ul></div>			
+			<div class="spacer"></div>
+		</div>
+		<script type="text/javascript" src="http://tribehr.com/wp-content/plugins/contact-form-7/scripts.js?ver=2.4.6"></script>
 
 <!-- SyntaxHighlighter Stuff -->
 <script type="text/javascript" src="http://tribehr.com/wp-content/plugins/syntaxhighlighter-plus/syntaxhighlighter/src/shCore.js"></script>
@@ -272,52 +266,9 @@ Phone Number<br>
 	SyntaxHighlighter.all();
 </script>
 
-				
-	<script type="text/javascript">//<![CDATA[
-	// Google Analytics for WordPress by Yoast v4.1 | http://yoast.com/wordpress/google-analytics/
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount','UA-10337296-2']);
-	_gaq.push(['_setCustomVar',2,'post_type','page',3],['_trackPageview'],['_trackPageLoadTime']);
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-	//]]></script>
-<script type="text/javascript">
-adroll_adv_id = "F4KJIA3FWZD6PKZ5GAVZBG";
-adroll_pix_id = "2N5WI4ULGNACLPRBOXK36P";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   document.documentElement.firstChild.appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
+		<script type="text/javascript">
+document.write(unescape("%3Cscript src='" + ((document.location.protocol=="https:")?"https://snapabug.appspot.com":"http://www.snapengage.com") + "/snapabug.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://snapabug.appspot.com/snapabug.js" type="text/javascript"></script><script type="text/javascript">
+SnapABug.init("75f565c9-e190-4a13-897a-680aa71c7b8c");
 </script>
-<!-- Google Code for All Visitors Remarketing List -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1038969112;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "666666";
-var google_conversion_label = "rI-YCMqUlAIQmNK17wM";
-var google_conversion_value = 0;
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1038969112/?label=rI-YCMqUlAIQmNK17wM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-
-
+	
 </body></html>
