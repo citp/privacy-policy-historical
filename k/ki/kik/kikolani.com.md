@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kikolani.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624033058id_/http%3A//kikolani.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kikolani.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224021712id_/http%3A//kikolani.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
