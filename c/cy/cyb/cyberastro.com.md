@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberastro.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624060823id_/http%3A//cyberastro.com/asp/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberastro.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224155912id_/http%3A//www.cyberastro.com/asp/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy- cyberastro.com
 
