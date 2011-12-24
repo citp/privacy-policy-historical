@@ -1,66 +1,90 @@
-<!--The following is the downloaded HTML source of the thumbtack.com privacy policy that was archived on 2011-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110613161336id_/http%3A//www.thumbtack.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thumbtack.com privacy policy that was archived on 2011-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111224223354id_/http%3A//www.thumbtack.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-<meta http-equiv="X-UA-Compatible" content="IE=7">
+<meta http-equiv="X-UA-Compatible" content="IE=7, IE=9">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta http-equiv="Content-Style-Type" content="text/css">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <meta http-equiv="X-UA-Compatible" content="chrome=1">
-<meta name="msapplication-task" content="name=Post Your Request;action-uri=/postrequest;icon-uri=/favicon.ico">
-<meta name="msapplication-task" content="name=Browse Services;action-uri=/services;icon-uri=/favicon.ico">
 <title>Thumbtack Privacy Policy</title>
+<meta property="fb:app_id" content="131357050011">
+<meta property="og:url" content="http://www.thumbtack.com/privacy">
+<meta property="og:title" content="Thumbtack.com - Find &amp; book 230,000 local services |  Privacy Policy">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Thumbtack">
+<link rel="image_src" href="http://cdn-1.thumbtackstatic.com/theme/images/thumbtack.png">
+<meta property="og:image" content="http://cdn-1.thumbtackstatic.com/theme/images/thumbtack.png">
 <link rel="icon" type="image/png" href="/favicon.png">
 <link rel="shortcut icon" href="/favicon.ico">
-<link type="text/css" href="http://cdn-1.thumbtackstatic.com/theme/styles/ui/jquery-ui-1.7.custom_9.css" rel="stylesheet">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn-1.thumbtackstatic.com/theme/styles/thumbtack_a5a3affbc7add88f18c67b2a21a8bcefb540d950.css" title="thumbtack">
-<!--[if lt IE 8]>
-<link type="text/css" href="http://cdn-1.thumbtackstatic.com/theme/styles/iehacks_822ccdc251fba3dddc7e2bfaa46532b94f124e75.css" rel="stylesheet" />
-<![endif]-->
-<!--[if IE]>
-<link type="text/css" href="http://cdn-1.thumbtackstatic.com/theme/styles/ie_corners_0ab1f2f63b22ed4b10a5dc4659be1b17378df618.css" rel="stylesheet" />
-<![endif]-->
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" media="all" href="http://cdn-1.thumbtackstatic.com/theme/styles/thumbtack_m_01627d60dd198f19fe2a08f82477b73d73e68281.css">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">window.ttReady = ttReady = (function() {
+var callbacks = {},
+ready = {},
+initType = function(type) {
+if (!callbacks.hasOwnProperty(type)) {
+callbacks[type] = [];
+ready[type] = false;
+}
+};
+return function(type, callback) {
+initType(type);
+if (callback === undefined) {
+ready[type] = true;
+for (var i=0; i<callbacks[type].length; i++) {
+callbacks[type][i]();
+}
+} else if (ready[type]) {
+callback();
+} else {
+callbacks[type].push(callback);
+}
+}
+})();</script>
 </head>
-<body id="">
+<body id="" class="" itemscope="" itemtype="http://schema.org/WebPage">
 <noscript>
 <div id="javascript-warning">
 <div>Your browser has Javascript disabled. Please enable Javascript for the best experience.</div>
 </div>
 </noscript>
 <div id="header">
-<div id="ui-masthead">
-<a href="/" title="thumbtack.com" id="tt-logo" class="noBorder"><img src="http://cdn-1.thumbtackstatic.com/media/logo_thumbtack_2.png" alt="thumbtack.com" width="186" height="52"></a>
-<form id="search" action="/services" method="get">
+<div id="header-main">
+<a href="/" title="thumbtack.com" id="tt-logo">
+<img src="http://cdn-1.thumbtackstatic.com/media/logo_thumbtack_2.png" alt="thumbtack.com" width="186" height="52">
+</a>
+<span id="tagline">Find and book trustworthy local services</span>
+<div id="header-links">
+<a href="/postservice" data-click-source="header/post link">List your services</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a id="login-link" href="/login">Log in</a>
+</div>
+<form id="search" action="/search" method="get">
 <input type="hidden" name="pagenum" value="1">
 <input type="hidden" name="search_source" value="header">
 <ul>
 <li>
-<label for="input-service">I am looking for</label>
+<label for="input-service">I'm looking for <span>(ex. house cleaning)</span></label>
 <input type="text" id="input-service" value="All Services" name="keyword" onfocus="if ($(this).val() == 'All Services') { $(this).val(''); }">
 </li>
 <li>
-<label for="input-location">Near me</label>
-<input type="text" id="input-location" value="01027" name="location">
+<label for="input-location">Near</label>
+<input type="text" id="input-location" value="Seattle, WA" name="location">
 </li>
 <li>
 <button type="submit" class="btn iconsearch"><span>Search</span></button>
 </li>
 </ul>
 </form>
-<ul id="header-links">
-<li><a href="/postrequest">Request services</a></li>
-<li><a href="/postservice">List your services</a></li>
-</ul>
-</div><!--End of #ui-masthead-->
-<div id="toolbar">
-<div class="wrapper">
-<a href="/login" id="login-link">Log in</a>
+<div class="request" data-click-source="header/post link">
+<h4>Hiring someone for a job?</h4>
+<a href="/request" class="btn postrequest"><span>Let us find you a pro</span></a>
 </div>
+<div id="main-menu-container"></div>
+</div><!-- End of #header-main -->
 </div>
-</div><!--End of #header-->
 <div id="ui-wrapper" class="">
 <div id="content-body" class="terms">
 <div class="body-title">
@@ -104,7 +128,7 @@ This Privacy Policy is effective as of: January 15, 2009 <span class="annotation
 </li>
 <li>HOW FINANCIAL INFORMATION IS USED
 <p>When you enter your credit card information into the Website, a credit card processor encrypts the data. Thumbtack saves none of your credit card information, and your credit card information is used for no purpose but to make the particular transaction you authorize.</p>
-<span class="annotation">When you enter your credit card information into the Website, a credit card processor encrypts the data. Thumbtack deosn't save any of your credit card information.</span> </li>
+<span class="annotation">When you enter your credit card information into the Website, a credit card processor encrypts the data. Thumbtack doesn't save any of your credit card information.</span> </li>
 <li>HOW AGGREGATE AND COOKIES INFORMATION ARE USED
 <p>We track user traffic patterns throughout the Website. We break down overall usage statistics according to a user's demographics, domain name, browser type, and MIME type by reading this information from the browser string (information contained in a user's browser). We sometimes track and catalog the search terms which users enter in our "Search" function. The tracking information helps us to determine which areas of our Website users like and do not like based on traffic to those areas. In addition, we track your entries, submissions, and status in connection with your participation in the Website as a Service Provider or Service User. <span class="annotation">We use information provided by your computer's cookies to track our users' interests. We do this so we can improve the website, and see which parts of it our users like most.</span></p>
 <p>We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our Website in order to tailor it to Website users' needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better Website experience, by enabling us to monitor which pages you find useful and which you do not. Cookies generally do not permit us to personally identify you.</p>
@@ -143,7 +167,7 @@ This Privacy Policy is effective as of: January 15, 2009 <span class="annotation
 <p>We may contract with various third parties for the provision and maintenance of the Website, Services and our business operations, and Thumbtack may need to share your personally identifiable information [and data generated by cookies and aggregate information] with these vendors and service agencies.  For example, we may provide your personally identifiable information to a credit card processing company to process your payment.  The vendors and service agencies will not receive any right to use your personally identifiable information beyond what is necessary to perform its obligations to provide the Services to you.</p>
 </li>
 <li>INFORMATION DISCLOSED TO LAW ENFORCEMENT OR GOVERNMENT OFFICIALS
-<p>We will disclose your personal information, such as your name, city, state, telephone number, email address, user ID history, bidding and listing history, and fraud complaints, to law enforcement or other government officials if we are required to do so by law, regulation or other government authority or otherwise in cooperation with an investigation of a governmental authority.</p>
+<p>We will disclose your personal information, such as your name, city, state, telephone number, email address, user ID history, quoting and listing history, and fraud complaints, to law enforcement or other government officials if we are required to do so by law, regulation or other government authority or otherwise in cooperation with an investigation of a governmental authority.</p>
 </li>
 <li>IN THE EVENT OF A CHANGE OF CONTROL OR BANKRUPTCY
 <p>In the event that Thumbtack undergoes a change in control, including, without limitation, a merger or sale of all or substantially all of Thumbtack's assets to which this Website relates or other corporate reorganization in which Thumbtack participates, and is thus merged with or acquired by a third party entity (a "Successor"), Thumbtack hereby reserves the right to transfer the personally identifiable information we have collected from the users of the Website and/or Services to such Successor.</p>
@@ -184,105 +208,58 @@ San Francisco CA 94117</p>
 <li><a href="/contact" title="Contact">Contact</a> ·</li>
 <li><a href="/about" title="About">About</a> ·</li>
 <li><a href="/jobs" title="Jobs">Jobs</a> ·</li>
-<li><a href="http://blog.thumbtack.com/" title="Blog">Blog</a> ·</li>
+<li><a href="/blog" title="Blog">Blog</a> ·</li>
 <li><a href="/privacy" title="Privacy Policy">Privacy Policy</a> ·</li>
 <li><a href="/terms" title="Terms of Use">Terms of Use</a> ·</li>
 <li>©2011 Thumbtack, Inc. All Rights Reserved.</li>
 </ul>
 </div>
-<div id="login_form" style="display:none;"> 
-<div id="new_user_header"> 
-<h3>Join Thumbtack <span id="lbx-toggle-register" class="login-header-link">or <a href="#login">Log In</a></span></h3> 
-<a onclick="TT.facebookLogin();" href="#"><img alt="Connect via Facebook" src="/media/btn_fbconnect_sm.png" id="fb_login_image"></a> 
-</div> 
-<div style="display: none;" id="old_user_header"> 
-<h3>Log in <span id="lbx-toggle-login" class="login-header-link">or <a href="#join">Join Thumbtack</a></span></h3> 
-<a onclick="TT.facebookLogin();" href="#"><img alt="Connect via Facebook" src="/media/btn_fbconnect_sm.png" id="fb_login_image"></a> 
-</div> 
-<br> 
-<div style="display: none;" id="login_form_container"> 
-<form action="https://www.thumbtack.com/login" method="post" id="loginform" name="loginform" class="good-form" accept-charset="ISO-8859-1">
-<fieldset> 
-<ol> 
-<li>
-<label for="lbx_email" class="">Email</label>
-<input type="text" value="" tabindex="200" name="login_email" id="lbx_email" class=" ">
-</li>
-<li>
-<label for="lbx_password" class="">Password (<a href="/reset-password">forgot?</a>)</label>
-<input type="password" value="" tabindex="201" name="login_password" id="lbx_password" class=" ">
-</li>
-</ol> 
-<div class="buttonholder">
-<a href="#submit" tabindex="202" onclick="(function(btn) { if ($(btn).hasClass('disabled')) { return false; } var frm = $(btn).closest('form'); if(frm.length == 1){  frm.submit();}})(this); return false;" class="bttn blue medium   "><span>Log in »</span></a>
-<noscript><button type="submit">Submit</button></noscript>
-<input type="submit" style="visibility:collapse;width:0;height:0;display:block;float:left;margin-left:-9999px;" name="__unused__submit__" value="">
-<input type="checkbox" name="remember" id="remember" value="yes" class="" checked="checked" tabindex="203">
-<label for="remember" class="inline-label ">Remember me</label>
-</div> 
-</fieldset> 
-</form> 
-</div> 
-<div id="signupform"> 
-<form accept-charset="ISO-8859-1" action="https://www.thumbtack.com/register" method="post" name="register_lbx" class="good-form" id="register_lbx"> 
-<fieldset> 
-<ol> 
-<li class="inline-block"> 
-<label for="lbx_reg_usr_first_name">First name</label> 
-<input type="text" tabindex="4" maxlength="255" class="textInput" size="20" value="" id="lbx_reg_usr_first_name" name="lbx_reg_usr_first_name"> 
-</li> 
-<li class="inline-block"> 
-<label for="lbx_reg_usr_last_name">Last name</label> 
-<input type="text" tabindex="5" maxlength="255" class="textInput" size="20" value="" id="lbx_reg_usr_last_name" name="lbx_reg_usr_last_name"> 
-</li> 
-<li> 
-<label for="lbx_reg_usr_email">Email</label> 
-<input type="text" tabindex="6" maxlength="255" class="textInput" size="20" value="" id="lbx_reg_usr_email" name="lbx_reg_usr_email"> 
-</li>	
-<li> 
-<label for="lbx_reg_usr_password">Create password</label> 
-<input type="password" tabindex="7" maxlength="255" class="textInput" size="20" value="" id="lbx_reg_usr_password" name="lbx_reg_usr_password"> 
-</li> 
-</ol>
-<small>We will never share your email address with third parties.  Thumbtack will send you job leads and job updates via email, and optionally our email newsletter and special offers. By clicking Join, you are indicating that you have read and agree to the <a target="_blank" href="/terms">Terms of Use</a> and <a target="_blank" href="/privacy">Privacy Policy</a>.</small> 
-<div class="buttonholder">
-<a href="#submit" onclick="(function(btn) { if ($(btn).hasClass('disabled')) { return false; } var frm = $(btn).closest('form'); if(frm.length == 1){  frm.submit();}})(this); return false;" class="bttn blue medium   "><span>Join »</span></a>
-<noscript><button type="submit">Submit</button></noscript>
-<input type="submit" style="visibility:collapse;width:0;height:0;display:block;float:left;margin-left:-9999px;" name="__unused__submit__" value="">
-<input type="checkbox" tabindex="9" checked="checked" value="yes" id="lbx_reg_setcookie" name="lbx_reg_setcookie">
-<label class="inline-label" for="lbx_reg_setcookie">Remember me</label> 					 
-</div> 
-</fieldset> 
-</form>			
-</div>		
-</div> 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
-<script type="text/javascript">TT_FB_KEY = "e8945799171b4b5fd5bbebe8c6586a5d";</script>
-<script type="text/javascript" src="http://cdn-1.thumbtackstatic.com/theme/scripts/thumbtack.default_1d513c0ea5e9df46988c747502ae5c99f380389b.js"></script>
 <script type="text/javascript">
-        $(document).ready(function() {
-                        TT.frameCheck();
-            TT.prepareLogin("/privacy", "174.129.228.67");
-            TT.initFeedback();
-            $("#input-service").attr("autocomplete", "off");
-            $("#input-location").autocomplete("/ajax/location_suggestion_ajax", {
-                delay: 50,
-                cacheLength: 1,
-                selectFirst: false,
-                matchSubset: false,
-                matchContains: false,
-                scrollHeight: 240
-            });
-                        $("#input-service").autocomplete("/ajax/category_suggest", {
-                delay: 100,
-                cacheLength: 100,
-                selectFirst: false,
-                matchSubset: false,
-                matchContains: false,
-                scrollHeight: 240
-            });
-                                });
-    </script>
+        TT_FB_KEY = 131357050011;
+        TT_MOBILE = false;
+    </script><script type="text/javascript" src="http://cdn-1.thumbtackstatic.com/theme/scripts/bundle_m_d7a21664696462073d475dd0b8f4dc6964691e5f.js"></script><script type="text/javascript">
+    $(function() {
+TT.frameCheck();
+if ($.fn.autocomplete) {
+$("#input-service").attr("autocomplete", "off");
+$("#input-location").autocomplete("/ajax/location_suggestion_ajax", {
+delay: 50,
+cacheLength: 1,
+selectFirst: false,
+matchSubset: false,
+matchContains: false,
+scrollHeight: 240
+});
+$("#input-service").autocomplete("/ajax/category_suggest", {
+delay: 100,
+cacheLength: 100,
+selectFirst: false,
+matchSubset: false,
+matchContains: false,
+scrollHeight: 240
+});
+}
+$.get('/ajax/browse', function(data) {
+$("#main-menu-container").html(data);
+$("#main-menu-container").find("li." + null).addClass("active");
+ttReady("bundle", function() {
+TT.setupTracking("#main-menu-container");
+});
+});
+$.get('/ajax/feedback', function(content) {
+$("body").append(content);
+ttReady("bundle", function() {
+TT.initFeedback();
+});
+});
+$.get('/ajax/login', {}, function(content) {
+$("body").append(content);
+ttReady("bundle", function() {
+TT.prepareLogin("/privacy", "174.129.228.67");
+});
+});
+});    </script>
 <!-- Workaround to bug involving lazily loading the facebook API -->
 <div id="FB_HiddenContainer" style="position:absolute; top:-10000px;    width:0px; height:0px;"></div>
 <script type="text/javascript">
