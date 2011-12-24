@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babycenter.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426022203id_/http%3A//www.babycenter.com/help-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycenter.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224162550id_/http%3A//www.babycenter.com/help-privacy) for the most accurate reproduction.*
 
 # About Us - Privacy Policy - Main | BabyCenter
 
@@ -51,7 +51,7 @@ Please remember that if you post any information in areas of our Sites that are 
 
 #### Security
 
-We take reasonable steps to protect personally identifiable information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. But, you should keep in mind that no Internet transmission is ever completely secure or error-free. In particular, e-mail sent to or from the Sites may not be secure.
+We take reasonable steps to protect personally identifiable information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. But, you should keep in mind that no Internet transmission is ever completely secure or error-free. In particular, email sent to or from the Sites may not be secure.
 
 #### Access and Correction; Comments and Questions
 
