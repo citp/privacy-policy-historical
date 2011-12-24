@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metromasti.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623235415id_/http%3A//www.metromasti.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metromasti.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224223221id_/http%3A//www.metromasti.com/privacy-policy) for the most accurate reproduction.*
 
-# Entertainment, Latest News Portal
+# Privacy Policy | MetroMasti
 
 Welcome to metromasti.com. We value your privacy, and want you to know what information we collect and what we do with it.
 
