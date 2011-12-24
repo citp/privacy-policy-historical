@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chickensoup.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624205729id_/http%3A//www.chickensoup.com/cs.asp%3Fcid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chickensoup.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224101551id_/http%3A//www.chickensoup.com/cs.asp%3Fcid%3Dprivacy) for the most accurate reproduction.*
 
 # Chicken Soup for the Soul
 
@@ -35,6 +35,24 @@ We will comply with any subpoenas, court orders or other legal processes for any
 We may provide aggregate information, such as the number of users who visit a particular linked site, to other parties.
 
 In addition, information about you in our possession may be disclosed as part of any merger, acquisition, sale of company assets, or transition of service to another provider, as well as in the unlikely event of insolvency, bankruptcy, or receivership in which your personal information would be transferred as one of the business assets of the company.
+
+**NEWSLETTERS**
+
+If you subscribe to our Newsletter(s), we will use your name and e-mail address to send the newsletter to you and to provide you with targeted advertising. To do this we may provide your email address to third-party ad servers who will not be allowed to access, collect or use your email address except in connection with ads served to you in our Newsletters. Out of respect for your privacy, we provide you a way to unsubscribe. To unsubscribe, please see the “Choice and Opt-out” section immediately below.
+
+**NEWSLETTER - CHOICE/OPT-OUT**
+
+If you no longer wish to receive our Newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by e-mailing us at [webmaster@chickensoupforthesoul.com](mailto:webmaster@chickensoupforthesoul.com).
+
+**THIRD-PARTY AD SERVING**
+
+We send to your Web browser or Newsletter many of the advertisements you see when you use our network of websites or receive our Newsletters. However, we also allow other companies, called third-party ad servers or ad networks, to serve advertisements within our Web pages and our Newsletters. Because your Web browser or Newsletter must request these advertising banners from the ad network Web site, these companies can send their own cookies to your cookie file, just as if you had requested a Web page from the site. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, women ages 50 to 69) or audience segment (for example, women ages 50 to 69 with 2 or more grandchildren) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience it is trying to reach. As always remember, we only authorize our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. Our website third-party ad servers do not collect, nor do we give them access, to any personally identifying information about you. We give our Newsletter third-party ad servers access to your email address but only for use in connection with ads served to you in our Newsletters.
+
+We also use third-party ad servers to serve ads on our behalf across the Internet. They may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites.
+
+**OPTING OUT OF THIRD-PARTY AD SERVERS**
+
+If you want to prevent a third-party ad server from sending and reading cookies on your computer, you must visit each ad network's website individually and opt out. Currently, we have relationships with the following third-party ad networks (click to visit their website): [Google](http://www.google.com/privacy/ads/) and [LiveIntent](http://liveintent.com/policy.php).
 
 **CHILDREN’S PRIVACY**
 
