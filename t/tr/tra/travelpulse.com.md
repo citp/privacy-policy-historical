@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelpulse.com privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220075126id_/http%3A//www.travelpulse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelpulse.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224034320id_/http%3A//www.travelpulse.com/privacy.html) for the most accurate reproduction.*
 
 # Terms of Use
 
@@ -17,7 +17,7 @@ PMG collects personal information in a variety of ways, including when you regis
 
 _User Registration_
 
-When you register on our website, we ask for and collect information such as your name, email address, birth date, gender, zip code, occupation, and industry. For some products and services we may also ask for your address and information about you or your business’s assets or income. Once you register with PMG and sign in to our services, you are not anonymous to us.
+When you register on our website, we ask for and collect information such as your name, email address, birth date, gender, zip code, occupation, and industry. For some products and services we may also ask for your address and information about you or your businessï¿½s assets or income. Once you register with PMG and sign in to our services, you are not anonymous to us.
 
 _e-letters_
 
@@ -33,7 +33,7 @@ Users may elect to participate in educational programs and seminars that PMG con
 
 _Cookies_
 
-"Cookies" are small pieces of information that are stored by your browser on your computer’s hard drive. PMG or its advertisers may send a cookie to your computer through your browser. PMG uses cookies to track page requests and the duration of each user’s visit and the use of cookies allows us to provide a user’s browser with information tailored to the visitor’s preferences and needs and to also streamline the user’s visits to our website. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies or allow your browser to show you when a cookie is being sent. If you choose not to accept cookies, your experience at our website and other websites may be diminished and some features may not work as intended. 
+"Cookies" are small pieces of information that are stored by your browser on your computerï¿½s hard drive. PMG or its advertisers may send a cookie to your computer through your browser. PMG uses cookies to track page requests and the duration of each userï¿½s visit and the use of cookies allows us to provide a userï¿½s browser with information tailored to the visitor's preferences and needs and to also streamline the userï¿½s visits to our website. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies or allow your browser to show you when a cookie is being sent. If you choose not to accept cookies, your experience at our website and other websites may be diminished and some features may not work as intended. 
 
 _IP Addresses_
 
@@ -56,7 +56,7 @@ If you elect to provide us personal information, we use it primarily to deliver 
   * PMG may use personal information to contact users regarding renewing subscriptions to PMG services and products.  
  
 
-  * PMG may use personally identifiable information to send notification of PMG’s or our partners’ products and services by such methods as email and/or postal mail.  
+  * PMG may use personally identifiable information to send notification of PMGï¿½s or our partnersï¿½ products and services by such methods as email and/or postal mail.  
  
 
   * If you provide financial information, we use that information primarily to verify your credit and collect payments for your purchases, orders, subscriptions, etc.  
@@ -76,7 +76,7 @@ If you elect to provide us personal information, we use it primarily to deliver 
 
 
 
-PMG has numerous products and services and therefore numerous email and promotion lists. In an effort to allow users to tailor their participation in PMG services and promotions, PMG provides users the ability to choose specific lists or products of interest and opt-out options are product and use/list specific. All email promotions sent from PMG provide an opt-out link at the bottom of the email pursuant to which users can opt-out of specific products and promotions. If you receive one of these emails and wish to unsubscribe please follow the instructions given in each email or contact [remove@pmgemail.com](mailto:remove@pmgemail.com).
+PMG has numerous products and services and therefore numerous email and promotion lists. In an effort to allow users to tailor their participation in PMG services and promotions, PMG provides users the ability to choose specific lists or products of interest and opt-out options are product and use/list specific. All email promotions sent from PMG provide an opt-out link at the bottom of the email pursuant to which users can opt-out of specific products and promotions. If you receive one of these emails and wish to unsubscribe please follow the instructions given in each email or contact [support@travelpulse.com](mailto:support@travelpulse.com).
 
 From time to time we may use  customer information for new, unanticipated uses not previously disclosed in our Privacy Policy. If our information practices change at some time in the future we will post the policy changes to our website.
 
@@ -84,7 +84,7 @@ From time to time we may use  customer information for new, unanticipated uses 
 
 In general, PMG does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you have requested, when we have your permission, or under the following circumstances: 
 
-  * We may provide personal information about our users to trusted partners and vendors who work on behalf of or with PMG under confidentiality and similar agreements prohibiting such parties’ further use of the information. These companies may use your personal information to help PMG communicate with you about offers from PMG and our marketing partners. However, these companies do not have any independent right to use or share this information.  
+  * We may provide personal information about our users to trusted partners and vendors who work on behalf of or with PMG under confidentiality and similar agreements prohibiting such partiesï¿½ further use of the information. These companies may use your personal information to help PMG communicate with you about offers from PMG and our marketing partners. However, these companies do not have any independent right to use or share this information.  
  
 
   * When you register for an educational program, contest, or other promotion that is sponsored by a third party, the third party will be provided personally identifiable information unless otherwise posted in connection with the promotion.   
@@ -122,7 +122,7 @@ This PMG website is not intended for use by children and PMG does not knowingly 
 
 **Update/Change Your Data**
 
-To update your email address or change your email preferences please contact [support@pmgemail.com](mailto:support@pmgemail.com)
+To update your email address or change your email preferences please contact [support@travelpulse.com](mailto:support@travelpulse.com)
 
 **Changes to this Privacy Policy**
 
@@ -142,4 +142,4 @@ Ultimately, you are solely responsible for maintaining the secrecy of your perso
 
 By using our website, you consent to the collection and use of information by PMG as specified in this policy.  Please also note that your use of the website is governed by the PMG Terms and Conditions. If you do not agree to the terms of the Privacy Policy or the Terms and Conditions, please do not use the website, products and/or services. 
 
-Please send any questions about PMG's Privacy Policy to [privacy@pmgemail.com](mailto:privacy@pmgemail.com)
+Please send any questions about PMG's Privacy Policy to [support@travelpulse.com](mailto:support@travelpulse.com)
