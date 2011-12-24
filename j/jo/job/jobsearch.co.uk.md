@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsearch.co.uk privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622225138id_/http%3A//www.jobsearch.co.uk/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsearch.co.uk privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224111959id_/http%3A//www.jobsearch.co.uk/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
 
 # UK Jobs from the best companies - JobSearch
 
@@ -54,10 +54,19 @@ We do not disclose information about your individual visits to the JobSearch sit
 ### Other ways of ensuring your privacy:
 
   * You may amend your personal details at any time or if you wish. These options are available from the "My Profile" page of our website.
-  * You may unsubscribe from any employment or promotional information that we may send to you by using the unsubscribe function at the bottom of the email.
+  * You may unsubscribe from any employment or promotional information that we may send to you by in any of the following ways: 
+    * Using the unsubscribe function at the bottom of the email
+    * Amending your account details in "My Profile" page of our website
+    * Contacting us on: 0845 468 0568
 
 
 
 ### Contact JobSearch
 
-If you have any questions, concerns or comments regarding JobSearch or this website, please contact us: JobSearch, Trinity Mirror Digital Recruitment Ltd, One Canada Square, Canary Wharf, London, E14 5AP.
+If you have any questions, concerns or comments regarding JobSearch or this website, please contact us:
+
+  * JobSearch, Trinity Mirror Digital Recruitment Ltd, One Canada Square, Canary Wharf, London, E14 5AP.
+  * Email: [customerservices@tmdr.com](mailto:customerservices@tmdr.com)
+  * Tel: 0845 468 0568
+
+
