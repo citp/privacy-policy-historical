@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayt.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506011824id_/http%3A//www.bayt.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayt.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224060132id_/http%3A//www.bayt.com/en/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Bayt.com
 
@@ -24,6 +24,10 @@ Members have the option of posting their CVs in the Bayt.com database in either 
 As an additional privacy function, job seekers have the option to block the name of their current employer from any employer searches. This function is easily available on our CV Builder. Your CV will therefore appear in candidate searches with your latest experience record but without details of your current employer. This is a critical feature as the last person you would like viewing your CV is your current employer.
 
 You may edit/change information on your CV at any point in time. You may also remove your CVs from our databases at any point in time.
+
+## Public Profiles
+
+Job seekers have the option to create a Bayt.com Public Profile based on the information they provide on their Bayt.com CV and they fully understand that by opting to do so their profile becomes in the public domain and can be accessed by search engines. Job seekers can opt to enable or disable their Public Profile at any time. Job seekers need to bear in mind that once a Public Profile gets activated, search engines and others may obtain permanent copies of it and even if the user disables their profile, Bayt.com cannot restrict views of the copies of the Public Profile obtained by these search engines and other crawlers.
 
 ## Job Postings
 
