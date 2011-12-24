@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smashwords.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521152607id_/http%3A//www.smashwords.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashwords.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224225647id_/http%3A//www.smashwords.com/about/privacy) for the most accurate reproduction.*
 
 # Smashwords - About Smashwords - Privacy Policy
 
@@ -18,7 +18,7 @@ Smashwords allows member authors to publish their works under assumed “pen nam
 Authors who wish to sell their works on Smashwords are required to provide more detailed registration information, such as real name, a postal mailing address, a phone number, and possibly tax ID information to comply with State and local tax codes. Smashwords will only use this contact information to fulfill our obligations to you, and will not sell or rent your information to third parties.
 
  **Smashwords Email Policy:**  
-Registered members will receive occasional emails from Smashwords summarizing site news and feature updates. Smashwords authors/publishers will receive email alerts when they sell a book, or when their book is reviewed, or when Smashwords sends out exclusive Author/Publisher alerts.  After you purchase a book, we may send you an email reminder to review it. We may add additional event triggers in the future. Members may opt-out of these updates, or subscribe to other updates, at any time by adjusting their communications preferences at <https://www.smashwords.com/account/comm>. Smashwords does not allow third parties to send emails to its members unless the member explicity provides their permission (see "Sharing Email Address with Authors..., below). Member email addresses are never revealed on the web site. Smashwords prohibits its author members from engaging in spam email to promote their books. See the Smashwords [Terms of Service](https://web.archive.org/web/20110521152607id_/http%3A//www.smashwords.com/about/tos) for more information.
+Registered members will receive occasional emails from Smashwords summarizing site news and feature updates. Smashwords authors/publishers will receive email alerts when they sell a book, or when their book is reviewed, or when Smashwords sends out exclusive Author/Publisher alerts.  After you purchase a book, we may send you an email reminder to review it. We may add additional event triggers in the future. Members may opt-out of these updates, or subscribe to other updates, at any time by adjusting their communications preferences at <https://www.smashwords.com/account/comm>. Smashwords does not allow third parties to send emails to its members unless the member explicity provides their permission (see "Sharing Email Address with Authors..., below). Member email addresses are never revealed on the web site. Smashwords prohibits its author members from engaging in spam email to promote their books. See the Smashwords [Terms of Service](https://web.archive.org/web/20111224225647id_/http%3A//www.smashwords.com/about/tos) for more information.
 
 **Sharing Email Address with Authors/Publishers In Exchange for Free Books or Discounts** **** **:**  
 Some Smashwords authors may offer special discounts, or even free ebooks to customers in exchange for the customer agreeing to provide their email address to the author. In cases where such incentives are offered, Smashwords will clearly notify the customer in advance, and give the customer the option to accept the incentive, or reject the incentive and proceed with a purchase at the regular price. Under no circumstances will the customer's email address be shared with the author or publisher unless the customer clearly confirms their acceptance of the offer by clicking an "I AGREE" button.
@@ -41,7 +41,7 @@ This site gives users the option to change and modify information previously pro
 
   
 **Cancelling Your Membership**  
-To have your account deleted, email Mark below, or click on the customer support link at the top of every Smashwords web page.  
+To have your account deleted, click on the customer support link at the top of every Smashwords web page.  
  **  
 ** **  
 Contacting Smashwords  
