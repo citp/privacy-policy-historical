@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreeguideonline.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630034944id_/http%3A//www.degreeguideonline.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreeguideonline.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224092141id_/http%3A//www.degreeguideonline.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # DegreeGuideOnline.com
 
