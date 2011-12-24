@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiorhythmz.fm privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108044830id_/http%3A//www.radiorhythmz.fm/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiorhythmz.fm privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224131002id_/http%3A//www.radiorhythmz.fm/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy Data - Radio Rhythmz
 
@@ -43,12 +43,13 @@ ii. Where we are legally required to disclose your information.
 iii. To assist fraud protection and minimise credit risk.
 
  **Third Party Links**  
-You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
+You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them. We do make an effort to avoid linking to known "adult" and "porn" websites. RadioRhythmz.FM is a family website.
 
   **Access To Information**  
 The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested.  Should you wish to receive details that we hold about you please contact us using the contact details below.
 
+ **Changes To Our Privacy Policy**  
+To the maximum extent permitted by applicable law, we reserve the right to change or replace this Privacy Policy at anytime and from time to time without prior notice to or the consent of any person. Any changes or replacement will be posted at this website.  
+  
  **Contacting Us**  
-We welcome any queries, comments or requests you may have regarding this Privacy Policy.  Please do not hesitate to contact us at 
-
-[info@radiorhythmz.fm](mailto:info@radiorhythmz.fm)
+We welcome any queries, comments or requests you may have regarding this Privacy Policy.  Please do not hesitate to contact us at [info@radiorhythmz.fm](mailto:info@radiorhythmz.fm)
