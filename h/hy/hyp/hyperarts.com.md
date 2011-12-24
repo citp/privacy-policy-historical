@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperarts.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610074919id_/http%3A//www.hyperarts.com/san-francisco-bay-area-web-developers/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperarts.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224140922id_/http%3A//www.hyperarts.com/hyperarts/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | HyperArts
 
@@ -38,6 +38,6 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at (510) 339-6084 or via [email](https://web.archive.org/san-francisco-bay-area-web-developers/contact-hyperarts.html "Contact HyperArts").
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at (510) 339-6084 or via [email](http://www.hyperarts.com/san-francisco-bay-area-web-developers/contact-hyperarts.html "Contact HyperArts").
 
 TOP^
