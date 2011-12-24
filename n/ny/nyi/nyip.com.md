@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nyip.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605235516id_/http%3A//www.nyip.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyip.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224163617id_/http%3A//www.nyip.com/privacy.html) for the most accurate reproduction.*
 
-# NYIP - Privacy
+# New York Institute of Photography - Privacy
 
 ## Introduction
 
