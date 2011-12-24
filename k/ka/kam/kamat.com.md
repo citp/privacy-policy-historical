@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kamat.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611170706id_/http%3A//www.kamat.com/ppolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kamat.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224161001id_/http%3A//www.kamat.com/ppolicy.htm) for the most accurate reproduction.*
 
 # Kamat's Potpourri: Privacy Policy
 
-Last Updated On: March 15, 2011
+Last Updated On: October 22, 2011
 
 ###  Privacy Statement for Kamat's Potpourri 
 
@@ -26,7 +26,7 @@ Since we do not collect any personal information (such as age, income) on this W
 
 ### Unsolicited E-mail
 
-You will not receive an unsolicited email from us for any reason. Please use caution while disclosing your email address (which is optional) in our Guestbook ([add](https://web.archive.org/guest/addguest.htm) \- [view](https://web.archive.org/guest/)); it is a public forum and your email address becomes visible to everybody.
+You will not receive an unsolicited email from us for any reason. Please use caution while disclosing your email address (which is optional) in our Guestbook ([add](http://www.kamat.com/guest/addguest.htm) \- [view](http://www.kamat.com/guest/)); it is a public forum and your email address becomes visible to everybody.
 
 ###  External Links 
 
@@ -41,6 +41,6 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 ###  Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [](https://web.archive.org/tools/contact.php)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [](http://www.kamat.com/tools/contact.php)
 
-For more information, you can also see [Frequently Asked Questions](https://web.archive.org/web/20110611170706id_/http%3A//www.kamat.com/faq.htm), [Disclaimers & Copyright](https://web.archive.org/web/20110611170706id_/http%3A//www.kamat.com/copyrite.htm), and [Kamat Colophon](https://web.archive.org/colophon/index.htm) sections.
+For more information, you can also see [Frequently Asked Questions](https://web.archive.org/web/20111224161001id_/http%3A//www.kamat.com/faq.htm), [Disclaimers & Copyright](https://web.archive.org/web/20111224161001id_/http%3A//www.kamat.com/copyrite.htm), and [Kamat Colophon](http://www.kamat.com/colophon/index.htm) sections.
