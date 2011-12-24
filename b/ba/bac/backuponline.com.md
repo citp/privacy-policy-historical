@@ -1,0 +1,70 @@
+> *The following text is extracted and transformed from the backuponline.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224104450id_/http%3A//www.backuponline.com/privacy.php) for the most accurate reproduction.*
+
+# Backup Online
+
+**Privacy Policy** **  
+** This online privacy policy of BackupOnline.com. ("Backup Online," "us," "our," or "we"), demonstrates our commitment to respecting the privacy of our customers and visitors to the BackupOnline.com website ("Site"). Since we gather certain types of information about our users, we want you to understand what kind of information we gather and how it may be used.
+
+The BackupOnline.com web site is maintained by Backup Online. We can also be reached by e-mail at [privacy@backuponline.com](mailto:privacy@backuponline.com). Our online data collection and use policies with respect to BackupOnline.com are set forth in this statement ("Policy"). By using Backuponline.com, you signify your acceptance of this Policy.
+
+**Definitions**
+
+When reviewing this Policy you should understand that the term "aggregate information" means information that does not allow us to identify or contact a specific person but describes a general category of information about visitors to the Site, such as demographics, geographical location, service categories, or visitors using a particular browser to access the Site. The term "personally identifiable information" means information that can be used to identify or contact a specific individual, such as a name, address, telephone number or e-mail address
+
+**Categories of personally identifiable information that may be collected on the Site**
+
+We may request and collect various types of personally identifiable information from visitors to the Site. For instance, you may choose to request or view information about Backup Online services available to you by providing your telephone number or e-mail address. If you choose to order services or to pay your bills online, you will also be asked to provide additional information required to verify your identity, establish your service and account, and/or record your payment, such as credit or debit card number, social security number, or bank account number. You may also be requested to provide personally identifiable information in connection with a survey, promotion, sweepstakes or other game, or other activities on the Site.
+
+**Other information that may be collected on the Site**
+
+**  
+** We constantly seek to maintain the integrity of, and make improvements to, Backuponline.com.com and our products, services, and marketing. As part of these efforts, we collect and analyze certain information about how visitors use the Site. When you visit our Site, we may collect various types of technical data, which we maintain in both aggregate and personally identifiable forms. This data includes (but is not limited to) domain and/or Web browser information. We may track which Web site you visited before arriving at the Site and the Web site you link to when you leave the Site. We may also keep a record of which pages of the Site you visit, and how long you spend on each page.  
+ 
+
+We also use "cookies" on the Site. Cookies are small pieces of information that our server places on a visitor’s computer hard drive to enable that person to more easily communicate and interact with the Site and to provide us with important information on how visitors use the Site. For example, we will place a cookie on a visitor’s computer when he/she visits the Site. The next time that person visits the Site using the same computer, our server will recognize the cookie and the visitor. Many Web browsers are automatically set to accept cookies. You may change your browser settings to either reject cookies or notify you when a cookie is about to be placed on your computer. Please note, however, that rejecting cookies while visiting the Site may result in certain parts of the Site not operating correctly or as efficiently as if they were allowed.
+
+**Use of information collected on the Site**
+
+**  
+** We will use personally identifiable information provided by visitors to fulfill the purpose for which such information was provided, as described in this Policy, and as disclosed at the time the visitor information is requested. For example, personal information will be used to provide visitors with product and service information tailored to each such visitor’s interests based on such visitor’s previous activities on the Site. Order information will be used to provision customer orders. We may also use postal or e-mail address information provided by users to send them, among other things, Backup Online offers. Additionally, we may use information about your activities on the Site, your purchases, and your computer equipment to improve the performance of our Site, and to customize the content and layout of our Site pages for you. We may supplement personally identifiable and aggregate information collected from the Site with similar information obtained from our affiliates, companies with whom we have marketing or other business relationships, and other third party sources.  
+ 
+
+We may offer visitors the opportunity to receive special promotions from us and other companies. If a visitor elects to receive such offers (or does not indicate a preference not to receive such information), we will use the information provided by that visitor to send those offers. We use aggregate information collected on the Site to evaluate how the Site is being used. This information does not contain any information that may be personally identified with a specific individual. For example, we may collect and analyze information about how many visitors arrived at certain pages of the Site, how long they stayed on those pages, and where they went afterwards. This information allows us to determine which pages might be the most interesting to and popular with users and enables us to provide you with a better and richer experience on the Site. We also use personally identifiable information and aggregate information for a variety of marketing and promotional purposes. For instance, we may use information from your use of the Site or the orders you place to inform you of new areas of the Site and product specials. This information may also be used to assist companies with whom we have marketing or other business relationships to display advertising or product placements of ours and of those companies that may be of interest to you.
+
+**Reviewing or changing information previously provided online through the Site  
+**  
+BackupOnline.com customers who want to review, correct, or change personal information relating to their account that they have previously provided online may do so by e-mailing us at [privacy@backuponline.com](mailto:privacy@backuponline.com).
+
+**Receiving e-mail promotions from Backup Online  
+**
+
+You may choose not to receive promotional emails from us by following the "unsubscribe" instructions in the specific e-mail from which you wish to opt-out, you should stop receiving such e-mails within ten days. Even if you elect to stop receiving promotional e-mails from us, if you are a Backup Online customer we may still contact you via e-mail to advise you of important information about your account or service.
+
+**Sharing of information with other companies  
+**  
+We will not intentionally share your personally identifiable information with unaffiliated entities except as described in this Policy. We do, however, share aggregate information about visitors to our Site with third parties and we share visitor personally identifiable information with companies with whom we have a marketing or other business relationship. Information collected on the Site may be shared with third parties and used to support suppression, validation and enhancement services or to append demographic or lifestyle data. We may also participate in affiliate network programs to promote the Site and our services.  
+  
+
+We may use an email delivery and marketing company to send emails. One-pixel tags ("clear gifs") and cookies may be used in those email messages and at our website to help us measure the effectiveness of our advertising and how visitors use our site. We may also disclose personally identifiable information and aggregate information in order to (1) comply with applicable laws, (2) respond to governmental inquiries, (3) comply with valid legal process, and (4) protect the rights or property of BackupOnline.com. In the event there is a change in the corporate structure of BackupOnline.com such as, but not limited to, merger, consolidation, sale, liquidation, or transfer of substantial assets, Backup Online may, in its sole discretion, transfer, sell or assign information collected on and through this Site, including without limitation, personally identifiable information and aggregate information concerning visitors, to one or more affiliated or unaffiliated third parties.  
+Security of information gathered on the Site  
+ 
+
+We take reasonable precautions to safeguard information transmitted between visitors and the Site and information stored on our servers. We use Secured Socket Layers (SSL) encryption for the transmission of data to our servers during order placement and account payment. Despite these efforts, however, we may be unable to prevent and shall not be responsible for unauthorized access to such information by third parties.
+
+**Storage and maintenance of information**
+
+**  
+** We maintain this Site in the United States. By providing personal and other information to this Site, visitors understand and consent to the collection and processing of such information in, and the transfer of such information to, the United States and other countries or territories, in accordance with the terms of this Policy.
+
+**Links to other web sites** **  
+** This Site may contain links to other web sites, including foreign affiliates of BackupOnline.com, as well as unaffiliated third parties subject to different privacy policies. If you link to another web site, you will leave this Site and this Policy will not apply to your use of, and activities on, those other Web sites. We encourage you to read the legal notices posted on those other web sites, including their privacy policies. We shall have no responsibility or liability for your visitation to, and the data collection and use practices of, those Web sites.  
+**  
+Customer Proprietary Network Information (CPNI)** If you subscribe to telephone service from BackupOnline.com, under federal law, you have a right, and we have a duty, to protect the confidentiality of information about the amount, type and destination of your service usage (CPNI). CPNI does not include your telephone number, name and address or e-mail address. BackupOnline.com is permitted to share CPNI with its affiliates, agents and its independent contractors to develop or bring to your attention any products and services or to help tailor and fit our products to meet your telecommunications needs, unless you tell us that you do not want us to use your CPNI to do so. Except in accordance with or as required by law and notwithstanding any other provisions in the Policy, we will not sell, trade or share your CPNI with anyone outside of BackupOnline.com. You have a right to opt out of use of your CPNI for the purposes described above by notifying us in writing at Online of Minnesota Inc., 511 11th Avenue, Suite 214, Minneapolis, MN 55415, or by calling us at (800) 763-7599. **  
+**
+
+**Changes to this Policy  
+**We reserve the right to change this Policy at any time in order to address future developments of the BackupOnline.com Site, such as changes in information gathering or use, changes in industry or legal requirements, or any other reason. We will post changes to this Policy to our Site to notify you of these changes. By continuing to use the Site following an announcement of any change or not exercising an opt-out, you will be deemed to have agreed to such change. If you do not agree with the terms of this Policy, as it may be amended from time to time, in whole or part, please do not continue using this Site.  
+ 
+
+If you have any questions or comments about this Policy, please feel free to contact us at [privacy@backuponline.com](mailto:privacy@backuponline.com).  
+ 
