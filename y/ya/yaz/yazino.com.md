@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yazino.com privacy policy that was archived on 2010-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100905120253id_/http%3A//www.yazino.com/public/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yazino.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224155336id_/http%3A//www.yazino.com/legal/privacy) for the most accurate reproduction.*
 
-# www.yazino.com - The Social Casino
+# Yazino Privacy Policy
 
 Yazino has created this privacy statement in order to demonstrate our firm belief and commitment to privacy.
 
@@ -48,7 +48,7 @@ We may use your personal information to:-
 
 5\. send you email notifications which you have specifically requested;
 
-6\. send to you marketing communications which we think may be of interest to you (you can inform us at any time if you no longer require marketing communications by contacting us via the ÒhelpÓ page on our Sites; and
+6\. send to you marketing communications which we think may be of interest to you (you can inform us at any time if you no longer require marketing communications by contacting us via the Support page on our Sites; and
 
 7\. deal with enquiries and complaints made by or about you relating to the Sites.
 
@@ -77,6 +77,8 @@ In addition to the disclosures reasonably necessary for purposes identified else
 Except as provided for in this privacy policy, we will not provide your information to any third parties.
 
 Yazino may maintain copies of your content indefinitely, or delete certain content in whole or in part for any or no reason as Yazino in its absolute discretion determines.
+
+Yazino does not store credit or debit card information.
 
 #### Children under the age of 13
 
