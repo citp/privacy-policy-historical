@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aarpdriversafety.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629092814id_/http%3A//www.aarp.org/aarp/articles/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarpdriversafety.org privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225003308id_/http%3A//www.aarp.org/aarp/articles/privacypolicy.html) for the most accurate reproduction.*
 
 # AARP Privacy Policy
 
@@ -14,7 +14,7 @@ When you apply for membership, we ask for basic information such as your name, c
 
 We share your personal information only with companies we have selected to provide official AARP member services or support AARP operations. Some of the providers of AARP member services, including many of those listed on our Products and Services area, pay a fee for access to our membership list. Our contracts with these companies require them to keep the member information strictly confidential, and allow them to use the information only to offer the contracted services to AARP and AARP members. We oversee the companies' compliance through our wholly owned subsidiary, AARP Services, Inc.
 
-Other AARP affiliates, such as the AARP Foundation, may also have access to member information that we have acquired (the AARP Foundation has its own [privacy policy](https://web.archive.org/content/aarp/en/home/aarp-foundation/info-2010/foundation_privacy_policy.html) that applies to its donors). Finally, we may release personal member information on the rare occasions when we are required to do so by law, or when necessary or appropriate to comply with legal process or to protect or defend AARP and its members. We do not sell or rent member information to telemarketers, mailing list brokers, or any other companies that are not offering AARP-endorsed services or benefits.
+Other AARP affiliates, such as the AARP Foundation, may also have access to member information that we have acquired (the AARP Foundation has its own [privacy policy](https://web.archive.org/aarp-foundation/info-2010/foundation_privacy_policy.html) that applies to its donors). Finally, we may release personal member information on the rare occasions when we are required to do so by law, or when necessary or appropriate to comply with legal process or to protect or defend AARP and its members. We do not sell or rent member information to telemarketers, mailing list brokers, or any other companies that are not offering AARP-endorsed services or benefits.
 
 #### Your Choices
 
@@ -22,7 +22,7 @@ We respect your choices. If you do not want us to share your information with pr
 
 #### For More Information 
 
-For more detailed information about our privacy practices, and about privacy on AARP.org, please review the frequently asked questions below. To exercise your choices, or ask questions about your membership information, please contact us [online](https://web.archive.org/content/aarp/en/home/about-aarp/contact-us.html), by [e-mail](mailto:member@aarp.org), by phone at 1-888-OUR-AARP (1-888-687-2277), or by mail:
+For more detailed information about our privacy practices, and about privacy on AARP.org, please review the frequently asked questions below. To exercise your choices, or ask questions about your membership information, please contact us [online](https://web.archive.org/about-aarp/contact-us/), by [e-mail](mailto:member@aarp.org), by phone at 1-888-OUR-AARP (1-888-687-2277), or by mail:
 
 AARP Membership Center  
 3200 E. Carson Street  
@@ -60,7 +60,7 @@ If you are uncomfortable allowing cookies to be placed on your computer, read t
 
 **3\. How is this information used, and can I control the uses?**
 
-Our primary purpose in collecting this information is to provide you with the services you request, and to evaluate and improve other services that we offer. As explained above, for example, we ask for information so that we can process your membership application, send you the e-mail newsletters to which you have subscribed, and provide you with special offers for AARP members. We store your membership information in our computer files, and use this information to service your membership account, send you publications like _[AARP The Magazine](https://web.archive.org/content/aarp/en/home/magazine.html) _and the _[AARP Bulletin](https://web.archive.org/content/aarp/en/home/bulletin.html),_ and answer any questions you may have about membership.
+Our primary purpose in collecting this information is to provide you with the services you request, and to evaluate and improve other services that we offer. As explained above, for example, we ask for information so that we can process your membership application, send you the e-mail newsletters to which you have subscribed, and provide you with special offers for AARP members. We store your membership information in our computer files, and use this information to service your membership account, send you publications like _[AARP The Magazine](https://web.archive.org/magazine/) _and the _[AARP Bulletin](https://web.archive.org/bulletin/),_ and answer any questions you may have about membership.
 
 We may also use this information for other purposes. For example, we may review demographic information, survey results, and statistical analyses of AARP.org usage in order to help us evaluate, modify, and develop services that are likely to be of interest to our members.
 
@@ -104,7 +104,7 @@ When you click to unaffiliated third-party sites, AARP is not responsible for, a
 
 **6\. Do privacy protections exist in AARP's Online Community?**
 
-It is important to understand that the information you submit in personal profiles, message boards, journals, chat rooms, and user groups is publicly displayed. Your messages will be seen by people and organizations not related to AARP, and may be used by these third parties to contact you. As a result, you should be very careful about the information that you publish online. Because these unrelated parties will also see your "User Name" on any postings that you make in online discussions, you may not want to use your full name. You can use your first name only, or use an assumed name, if you like. Read the [Terms of Service](https://web.archive.org/content/aarp/en/home/about-aarp/info-05-2010/terms_of_service.html) to learn more about using the AARP Online Community.
+It is important to understand that the information you submit in personal profiles, message boards, journals, chat rooms, and user groups is publicly displayed. Your messages will be seen by people and organizations not related to AARP, and may be used by these third parties to contact you. As a result, you should be very careful about the information that you publish online. Because these unrelated parties will also see your "User Name" on any postings that you make in online discussions, you may not want to use your full name. You can use your first name only, or use an assumed name, if you like. Read the [Terms of Service](https://web.archive.org/about-aarp/info-05-2010/terms_of_service.html) to learn more about using the AARP Online Community.
 
 **7\. How does AARP.org protect security and confidentiality?**
 
@@ -118,6 +118,6 @@ From time to time, we may collect different types of information and use that in
 
 **8\. Whom can I contact with privacy questions?**
 
-If you have any questions or comments about your member information or this privacy policy, please send an e-mail by visiting [AARP Membership](https://web.archive.org/content/aarp/en/home/benefits-discounts.html), or writing to [member@aarp.org](mailto:member@aarp.org), call us at 1-888-OUR-AARP (1-888-687-2277), or write us at the address listed above. We will do our best to investigate any complaint you may have and respond promptly to your concerns.
+If you have any questions or comments about your member information or this privacy policy, please send an e-mail by visiting [AARP Membership](https://web.archive.org/benefits-discounts/), or writing to [member@aarp.org](mailto:member@aarp.org), call us at 1-888-OUR-AARP (1-888-687-2277), or write us at the address listed above. We will do our best to investigate any complaint you may have and respond promptly to your concerns.
 
 For more information about online privacy issues generally, we encourage you to visit the Web sites of the [Federal Trade Commission](http://www.ftc.gov/), the [Electronic Frontier Foundation](http://www.eff.org/), and the [Electronic Privacy Information Center](http://www.epic.org/).
