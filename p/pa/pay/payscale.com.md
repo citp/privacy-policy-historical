@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623123211id_/http%3A//www.payscale.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224175901id_/http%3A//www.payscale.com/privacy.asp) for the most accurate reproduction.*
 
 # PayScale - Salary Survey, Salaries, Wages, Compensation Information and Analysis
 
@@ -94,7 +94,7 @@ This web site is hosted in the United States. If you are visiting from the Europ
   * If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change in your account or by emailing our Customer Support email at service@payscale.com, or by contacting us by telephone or postal mail at the contact information below. PayScale will respond to requests within 30 days of receiving the request.
 
 PayScale, Inc  
-315 5th Avenue South, Suite 700  
+542 1st Avenue S, Suite 400  
 Seattle WA, 98104  
 1-888-699-0702
 
@@ -124,7 +124,7 @@ Postal Mail Address:
 
 **Attention: Geary Eppley, Privacy Officer  
 PayScale, Inc.  
-315 5th Avenue South, Suite 700  
+542 1st Avenue S, Suite 400  
 Seattle, Washington 98104 **
 
 **Last Updated: December, 2010**
