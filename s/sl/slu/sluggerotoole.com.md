@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sluggerotoole.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626223256id_/http%3A//sluggerotoole.com/re/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sluggerotoole.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225004708id_/http%3A//sluggerotoole.com/re/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Slugger O'Toole
 
