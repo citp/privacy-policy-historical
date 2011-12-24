@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mspmentor.net privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626160117id_/http%3A//www.mspmentor.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mspmentor.net privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225003522id_/http%3A//www.mspmentor.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MSPmentor Managed Services & MSP News Blog
+# Privacy Policy | MSPmentor
 
 Information you provide to us, such as your name, email address, physical address, company affiliation, remain for our eyes only unless you give us permission to divulge it to someone else.
 
