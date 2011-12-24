@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sugardoodle.net privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625203642id_/http%3A//www.sugardoodle.net/joomla/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6540%26Itemid%3D200100) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugardoodle.net privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224133511id_/http%3A//www.sugardoodle.net/joomla/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6540%26Itemid%3D200100) for the most accurate reproduction.*
 
 # Privacy Policy - T's & C's
 
@@ -27,6 +27,5 @@ We also use third party advertisements on Sugardoodle.net to support our site. 
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-Last Updated (Thursday, 12 August 2010 19:52)
+  
 
-Share any page with friends on facebook by clicking on this button. [Share](http://www.facebook.com/sharer.php)
