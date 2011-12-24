@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the salisburypost.com privacy policy that was archived on 2011-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110626095632id_/http%3A//www.salisburypost.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the salisburypost.com privacy policy that was archived on 2011-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111224145547id_/http%3A//www.salisburypost.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:pas="http://sitelife.salisburypost.com/2009/pluckApplicationServer"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -14,7 +14,12 @@
 <link href="/style/V2/NiftyRoundedCorners.css" rel="stylesheet" type="text/css">
 <link href="/style/V2/SalsFooter.css" rel="stylesheet" type="text/css">
 <link href="/style/V2/SalsPdf.css" rel="stylesheet" type="text/css">
-<script src="/scripts/V2/NiftyRoundedCorners.js" type="text/javascript"></script>
+<link type="text/css" rel="stylesheet" href="/style/V2/RightRailMostPopTab.css">
+<link type="text/css" rel="stylesheet" href="/style/V2/SalsPortableTabs.css">
+		<script type="text/javascript" src="/scripts/V2/RightRailPopularTab.js"></script>
+		<script type="text/javascript" src="/scripts/V2/NiftyRoundedCorners.js"></script>
+		<script type="text/javascript" src="/scripts/V2/SalsPortableTabs.js"></script>
+		<script type="text/javascript" src="/scripts/V2/mostCommented.js"></script>
 <script src="/scripts/jquery.js" type="text/javascript"></script>
 
 <script type="text/javascript">
@@ -32,13 +37,12 @@ Rounded("div#rightrailBlueBox5","#ffffff","#50739B");
 <script type="text/javascript" src="/scripts/pluck/global.js"></script>
 <script type="text/javascript">
 	document.domain ="salisburypost.com";
-	var serverUrl = "http://sitelife.salisburypost.com/ver1.0/Direct/Process"; 
+	var serverUrl = "http://sitelife.salisburypost.com/ver1.0/Direct/Process";
+	document.write('<scr'+'ipt type="text/javascript" src="http://sitelife.salisburypost.com/ver1.0/SiteLifeProxy"></scr'+'ipt>'); 
 </script>
 <script type="text/javascript" src="http://sitelife.salisburypost.com/slauth/Proxy/Index.rails"></script>
 <script type="text/javascript" src="http://sitelife.salisburypost.com/ver1.0/Direct/DirectProxy"></script>
-<script type="text/javascript" language="javascript">
-	document.write('<scr'+'ipt type="text/javascript" src="http://sitelife.salisburypost.com/ver1.0/SiteLifeProxy"></scr'+'ipt>');
-</script><script type="text/javascript" src="http://sitelife.salisburypost.com/ver1.0/SiteLifeProxy"></script>
+<script type="text/javascript" src="http://sitelife.salisburypost.com/ver1.0/Content/ua/scripts/pluckApps.js"></script>
 
 <!-- Put in the head. Redirect for pluck user login -->
 <script type="text/javascript" language="javascript">
@@ -117,6 +121,8 @@ Rounded("div#rightrailBlueBox5","#ffffff","#50739B");
 <script type="text/javascript" src="http://sitelife.salisburypost.com/ver1.0/Content/ua/scripts/pluckApps.js"></script>
 <link href="/style/V2/pluck4_salisbury.css" rel="stylesheet" type="text/css">
 
+<!-- facebook script -->
+<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
 <!--[if lt IE 9]>
 	<link href="http://www.salisburypost.com/style/nav/nav-ie.css" rel="stylesheet" type="text/css" />
 <![endif]-->
@@ -170,172 +176,83 @@ Rounded("div#rightrailBlueBox5","#ffffff","#50739B");
   	<!-- This can be MediaSpan Template -->
 
 
-	<div id="spacer5px"></div>
-    <div id="custServiceBar"><b class="rtop" style="background-color: rgb(255, 255, 255);"><b class="r1" style="background-color: rgb(239, 239, 239);"></b><b class="r2" style="background-color: rgb(239, 239, 239);"></b><b class="r3" style="background-color: rgb(239, 239, 239);"></b><b class="r4" style="background-color: rgb(239, 239, 239);"></b></b>
-        <div id="custServiceBarInner">
-<a href="http://www.salisburypost.com/contact/" title="Customer Service | Salisbury, North Carolina - The Salisbury Post" class="custServiceBarLinksLeft">
-   customer service
-</a> 
-| 
-<a href="https://classadz.vdata.com/Salisbury/UserType.aspx" title="Place Your Ad Online | Salisbury, North Carolina - The Salisbury Post" class="custServiceBarLinksLeftRed" target="_blank">
-   place your ad online
-</a>  
-| 
-<a href="http://vw.vrvm.com/salisbury" title="Mobile | Salisbury, North Carolina - The Salisbury Post" class="custServiceBarLinksLeftRed" target="_blank">
-mobile
-</a>  
-| 
-<a href="" title="Make Salisbury Your Home Page | Salisbury, North Carolina - The Salisbury Post" class="custServiceBarLinksLeftRed" onclick="make_homepage()">
-   make us your home page
-</a>
-<div class="custServiceBarLinksLeft" style="margin-left: 50px;">
-<script type="text/javascript">
 
-   var newDate = new Date();
-   var day = newDate.getDay();
-   var month = newDate.getMonth();
-   var date = newDate.getDate();
-   var year = newDate.getFullYear();
-   switch(day)
-   {
-		case 0: document.write("Sunday "); break;
-		case 1: document.write("Monday "); break;
-		case 2: document.write("Tuesday "); break;
-		case 3: document.write("Wednesday "); break;
-		case 4: document.write("Thursday "); break;
-		case 5: document.write("Friday "); break;
-		case 6: document.write("Saturday "); break;
-   }
-   switch(month)
-   {
-		case 0: document.write("January " + date + ", " + year); break;
-		case 1: document.write("February " + date + ", " + year); break;
-		case 2: document.write("March " + date + ", " + year); break;
-		case 3: document.write("April " + date + ", " + year); break;
-		case 4: document.write("May " + date + ", " + year); break;
-		case 5: document.write("June " + date + ", " + year); break;
-		case 6: document.write("July " + date + ", " + year); break;
-		case 7: document.write("August " + date + ", " + year); break;
-		case 8: document.write("September " + date + ", " + year); break;
-		case 9: document.write("October " + date + ", " + year); break;
-		case 10: document.write("November " + date + ", " + year); break;
-		case 11: document.write("December " + date + ", " + year); break;
-   }
-
-</script>Friday January 31, 2020
-
-	<style type="text/css">
-		#pluck_welcome{
-			margin: 0px 10px 0px 20px;
-		}
-		
-		#pluck_welcome a{
-			color: #9B0004;
-			text-decoration: none;
-		}
-		
-		#pluck_welcome a:hover{
-			text-decoration: underline;
-		}
-		
-	</style>
-
-
-	<span id="pluck_welcome"></span>
-    
-	<script type="text/javascript">
-		function customCallbackUserSpecific(responseBatch){ 
-		    //console.dir(responseBatch); 
-			userKey = responseBatch.Responses[0].User.UserKey.Key; 
-			displayName = responseBatch.Responses[0].User.DisplayName;
-			var html = "";
-			if(displayName == "anonymous"){
-				html += "Welcome Guest! | ";
-				html += "<a href='http://www.salisburypost.com/user/signin/'>Sign In</a> | ";
-				html += "<a href='http://www.salisburypost.com/user/register/'>Register</a>";
-				
-			}
-			else{
-				html += "Welcome <a href='http://www.salisburypost.com/user/profile/?UID=" + userKey + "'>" + displayName + "</a>! | ";
-				html += "<a href=\"javascript:gSLAuthProxy.__Render('/Authentication/Logout.rails?reloadPage=true');\">Sign Out</a>";
-			}
-			
-			document.getElementById('pluck_welcome').innerHTML = html;
-			//document.write(html);
-		}
-
-		var requestBatchUser = new RequestBatch();
-		requestBatchUser.AddToRequest(new UserKey());
-		requestBatchUser.BeginRequest(serverUrl, customCallbackUserSpecific);
-
-
-	</script>
-
-         </div>
-      </div>
-   <b class="rbottom" style="background-color: rgb(255, 255, 255);"><b class="r4" style="background-color: rgb(239, 239, 239);"></b><b class="r3" style="background-color: rgb(239, 239, 239);"></b><b class="r2" style="background-color: rgb(239, 239, 239);"></b><b class="r1" style="background-color: rgb(239, 239, 239);"></b></b></div>
-    <!-- End Mediaspan Template -->
-    
-    
-     <style type="text/css">
-		.searchSponsorAd{
-			float: left;
-			margin-left: 15px;
-			display: inline; 
-			clear: none;
-		}
-		
-		.sponsorSearchForm{
-			float: left;
-		}	
-		
-	</style>
-    
-    <div id="subMenu" style="border: none; height: 30px;">
-    <div style="height: 25px; width: 980px; display: inline; clear: none;">
-        <form method="get" action="/results/" class="sumMenuLeft sponsorSearchForm">
-        <input name="keyword" type="text" size="20" value="KEYWORD SEARCH" class="search_text" style="font: 10px;">
-        <input name="operator" value="search" type="hidden">&nbsp;<input type="submit" value="Search" class="search_text_button" style="font: 10px;">
-        <input name="SortBy" value="Publication Start Time" type="hidden">
-        </form>
-        <div class="searchSponsorAd">
-            <span style="font: 10px; display: inline;">
-            	<!--/* OpenX Javascript Tag v2.6.4 */-->
+	<!-- customer-service-bar -->
+    <div id="service-bar">
+    	<ul>
+            <li><a href="http://www.salisburypost.com/contact/" title="Customer Service | Salisbury, North Carolina - The Salisbury Post">customer service</a></li>
+            <li><a href="https://services.postandcourier.com/Salisbury/login.aspx" title="Place Your Ad Online | Salisbury, North Carolina - The Salisbury Post" target="_blank">place your ad online</a></li>
+            <li><a href="http://m.salisburypost.com/" title="Mobile | Salisbury, North Carolina - The Salisbury Post" target="_blank">mobile</a></li>
+            <li><a href="/insider/" title="E-mail Alerts | Salisbury, North Carolina - The Salisbury Post" target="_same">e-mail alerts</a></li>
+            <li class="date">Saturday, December 24, 2011</li>
+            <li id="header-login"></li>
+                    <script type="text/javascript">
+                    function customCallbackUserSpecific(responseBatch){ 
+                        // console.dir(responseBatch); 
+                        userKey = responseBatch.Responses[0].User.UserKey.Key; 
+                        displayName = responseBatch.Responses[0].User.DisplayName;
+                        
+                        var currentLocation = "/user/signin/?returnURL=" + escape(window.location);
+                        var html = "";
+                        
+                        if(displayName == "anonymous"){
+                            html += "welcome Guest ";
+                            html += "( <a href='"
+                            html += currentLocation;
+                            html += "' title='Sign In'>Sign In</a> &ndash; ";
+                            html += "<a href='/user/register/' title='Register'>Register</a> )";
+                        }
+                        else	{
+                            html += "Welcome  <span class='header-user-name'>" + displayName + " </span>";
+                            html += "( <a href='/user/profile/?UID=" + userKey + "' title='View My Profile'>View Profile</a> &ndash; ";
+                            html += "<a href=\"javascript:gSLAuthProxy.__Render('/Authentication/Logout.rails?reloadPage=true');\" title='Logout'>Sign Out</a> )";
+                        }
+                        document.getElementById('header-login').innerHTML = html;
+                        //document.write(html);
+                    }
+                    var requestBatchUser = new RequestBatch();
+                    requestBatchUser.AddToRequest(new UserKey());
+                    requestBatchUser.BeginRequest(serverUrl, customCallbackUserSpecific);
+                    </script>
+        </ul>
+   	</div>
+    <!-- sub-menu -->    
+    <div id="sub-menu">
+    	<ul>
+        	<li class="sub-menu-search">
+                <form method="get" action="/results/" class="search-form">
+                    <input onfocus="if(this.value == 'KEYWORD SEARCH'){this.value = '';}" onblur="if(this.value == ''){this.value='KEYWORD SEARCH';}" name="keyword" type="text" size="20" value="KEYWORD SEARCH" class="search-input">
+                    <input name="operator" value="search" type="hidden">&nbsp;<input type="submit" value="Search" class="search-button">
+                    <input name="SortBy" value="Publication Start Time" type="hidden">
+                </form>
+            </li>
+            <li class="sub-menu-ad">
 				<script type="text/javascript"><!--//<![CDATA[
                    var m3_u = (location.protocol=='https:'?'https://test.theeagle.com/www/delivery/ajs.php':'http://test.theeagle.com/www/delivery/ajs.php');
                    var m3_r = Math.floor(Math.random()*99999999999);
                    if (!document.MAX_used) document.MAX_used = ',';
                    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
                    document.write ("?zoneid=1299");
-                   document.write ('&amp;cb=' + m3_r);
-                   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-                   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-                   document.write ("&amp;loc=" + escape(window.location));
-                   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+                   document.write ('&cb=' + m3_r);
+                   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+                   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+                   document.write ("&loc=" + escape(window.location));
+                   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
                    if (document.context) document.write ("&context=" + escape(document.context));
-                   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+                   if (document.mmm_fo) document.write ("&mmm_fo=1");
                    document.write ("'><\/scr"+"ipt>");
-                //]]>--></script><script type="text/javascript" src="https://test.theeagle.com/www/delivery/ajs.php?zoneid=1299&amp;cb=76876931381&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20110626095632id_/http%253A//www.salisburypost.com/privacy"></script><noscript><a href='http://test.theeagle.com/www/delivery/ck.php?n=abce114b&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.theeagle.com/www/delivery/avw.php?zoneid=1299&amp;n=abce114b' border='0' alt='' /></a></noscript>
-            </span>
-            
-            <div class="ClearLine1px"></div>
-        </div>
+                //]]>--></script><script type="text/javascript" src="https://test.theeagle.com/www/delivery/ajs.php?zoneid=1299&amp;cb=26841359277&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111224145547id_/http%253A//www.salisburypost.com/privacy"></script>
+                <noscript><a href='http://test.theeagle.com/www/delivery/ck.php?n=abce114b&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.theeagle.com/www/delivery/avw.php?zoneid=1299&n=abce114b' border='0' alt='' /></a></noscript>
+            </li>
+            <li class="sub-menu-facebook"><a href="http://www.facebook.com/salisburypost"><img src="http://www.salisburypost.com/images/facebook.png" alt=""></a></li>
+            <li class="sub-menu-twitter"><a href="http://www.twitter.com/salisburypost/"><img src="http://www.salisburypost.com/images/twitter.png" alt=""></a></li>
+        </ul>
     </div>
-        <div class="ClearLine1px"></div>
-    </div>
-    
-    <div class="ClearLine5px"></div>
-    
-    
-    <div id="headerMid">
-    	<a href="http://www.salisburypost.com" alt="The Salisbury Post">
-           <img src="/images/V2/salisburypost.jpg" border="0" id="logo">
-       </a>
-       <div id="position728a"><iframe id="a2c04a7a" name="a2c04a7a" src="http://test.theeagle.com/www/delivery/afr.php?zoneid=951" framespacing="0" frameborder="no" scrolling="no" width="728" height="90"><a href='http://test.theeagle.com/www/delivery/ck.php?n=a445afb9' target='_blank'><img src='http://test.theeagle.com/www/delivery/avw.php?zoneid=951&amp;n=a445afb9' border='0' alt='' /></a></iframe></div>
-
-       <div class="ClearLine5px"></div>
-</div>  
-    	
+    <!-- site-logo -->
+    <div id="site-logo">
+    	<div class="site-header-logo"><a href="http://www.salisburypost.com"><img src="/images/V2/salisburypost.jpg" border="0" alt="The Salisbury Post"></a></div>
+		<div class="site-header-leaderboard" id="position728a"><iframe id="a2c04a7a" name="a2c04a7a" src="http://test.theeagle.com/www/delivery/afr.php?zoneid=951" framespacing="0" frameborder="no" scrolling="no" width="728" height="90"><a href='http://test.theeagle.com/www/delivery/ck.php?n=a445afb9' target='_blank'><img src='http://test.theeagle.com/www/delivery/avw.php?zoneid=951&amp;n=a445afb9' border='0' alt='' /></a></iframe></div>
+    </div>  
         
            
         <!-- nav -->
@@ -344,7 +261,7 @@ mobile
                 <li class="home "><a class="home" href="http://www.salisburypost.com">Home</a>
                     <ul>
                         <li><strong>Don't Miss:</strong> </li>
-                        <li><a href="http://www.salisburypost.com/lastweeksheadlines">Last 7 Days</a></li>
+                        <li><a href="http://www.salisburypost.com/todaysheadlines/">Today's Paper</a></li>
                         <li><a href="https://classadz.vdata.com/salisburycirc/">Subscriptions</a></li>
                         <li><a href="http://www.salisburypost.com/e-paper/">E-Paper</a></li>
                         <li><a href="http://www.salisburypost.com/primetime/">Prime Time</a></li>
@@ -362,10 +279,15 @@ mobile
                     	<li><a href="http://www.salisburypost.com/news/local/">Local</a></li>
                         <li><a href="http://www.salisburypost.com/news/business/">Business</a></li>
                         <li><a href="http://www.salisburypost.com/news/education/">Education</a></li>
+                        <li><a href="http://calendar.salisburypost.com">Calendar</a></li>
                         <li><a href="http://www.salisburypost.com/records/">Records</a></li>
                         <li><a href="http://www.salisburypost.com/ncrc/">N.C. Research Campus</a></li>
                         <li><a href="http://www.salisburypost.com/news/politics/">Politics</a></li>
-                        <li class="last-child"><a href="http://www.salisburypost.com/kannapolis/">Kannapolis</a></li>
+                        <li><a href="http://www.salisburypost.com/elections/">Political Directory</a></li>
+                        <li><a href="http://www.salisburypost.com/kannapolis/">Kannapolis</a></li>
+                        <li><a href="http://www.salisburypost.com/hashtags/">Hashtags</a></li>
+                        <li><a href="http://www.salisburypost.com/gasprices/">Gas Prices</a></li>
+                        <li class="last-child"><a href="http://www.salisburypost.com/watchdog/">Watchdog</a></li>
                     </ul>
                 </li>
                 <li class="crime "><a class="crimes" href="http://www.salisburypost.com/crime/">Crime</a>
@@ -400,11 +322,10 @@ mobile
                 <li class="entertainment "><a class="entertainment" href="http://www.salisburypost.com/entertainment/">Entertainment</a>
                 	<ul>
                     	<li><a href="http://www.salisburypost.com/entertainment/books/">Books</a></li>
-                        <li><a href="http://www.salisburypost.com/entertainment/music/">Music</a></li>
                         <li><a href="http://www.salisburypost.com/entertainment/timeout/">Time Out</a></li>
                         <li><a href="http://www.salisburypost.com/games/">Games</a></li>
-                        <li><a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=post77p">Movie Listings</a></li>
-                        <li class="last-child"><a href="http://affiliate.zap2it.com/movies/mvhome.do?aid=post77p">TV Listings</a></li>
+                        <li><a href="http://affiliate.zap2it.com/movies/mvhome.do?aid=post77p">Movie Listings</a></li>
+                        <li class="last-child"><a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=post77p">TV Listings</a></li>
                     </ul>
                 </li>
                 <li class="opinion "><a class="opinion" href="http://www.salisburypost.com/opinion/">Opinion</a>
@@ -412,10 +333,12 @@ mobile
                     	<li><a href="http://www.salisburypost.com/opinion/columns/">Columns</a></li>
                         <li><a href="http://www.salisburypost.com/opinion/commonsense/">Common Sense</a></li>
                         <li><a href="http://www.salisburypost.com/opinion/letters/">Letters</a></li>
+                        <li><a href="http://tools.salisburypost.com/LetterForm.php">Submit a Letter</a></li>
                         <li><a href="http://www.salisburypost.com/opinion/editorials/">Editorials</a></li>
                         <li><a href="http://www.salisburypost.com/blogs/editorsdesk/">Editor's Desk</a></li>
                         <li><a href="http://www.salisburypost.com/blogs/wineka/">Wineka's World</a></li>
-                        <li class="last-child"><a href="http://www.salisburypost.com/blogs/getalife/">Get a Life</a></li>
+                        <li><a href="http://www.salisburypost.com/blogs/getalife/">Get a Life</a></li>
+                        <li class="last-child"><a href="http://www.salisburypost.com/opinion/toons/">Brincefield Cartoons</a></li>
                     </ul>
                 </li>
                 <li class="video "><a class="video" href="http://www.salisburypost.com/videos/4/">Video</a>
@@ -425,7 +348,12 @@ mobile
                 	</ul>
 </li>
                 <li class="health "><a class="health" href="http://www.salisburypost.com/health/">Health</a>
-                	<ul><li></li></ul>
+                	<ul>
+                        <li><a href="http://www.salisburypost.com/health/local/">Local Health</a></li>
+                        <li><a href="http://www.salisburypost.com/health/yourheart/">Your Heart</a></li>
+                        <li><a href="http://www.salisburypost.com/health/yourfitness/">Your Fitness</a></li>
+                        <li class="last-child"><a href="http://www.salisburypost.com/health/pinkribbon">Pink Ribbon</a></li>
+                      </ul>
 </li>
                 <li class="environment"><a class="environment" href="http://www.salisburypost.com/centerfortheenvironment/">Environment</a>
                 	<ul><li></li></ul>
@@ -449,7 +377,7 @@ mobile
                 <li class="index"><a href="">Index <img src="http://www.salisburypost.com/images/nav-index-down.png"></a>
                     <ul>
                         <li>
-                            <div class="indextitle">About</div>
+                            <div class="indextitle">Our Site</div>
                             <ul>
                                 <li><a href="http://www.salisburypost.com/contact/">Contact Us</a></li>
                                 <li><a href="http://www.salisburypost.com/termsofuse/">Terms of Use</a></li>
@@ -457,7 +385,9 @@ mobile
                                 <li><a href="http://www.ourdavie.com">Davie County Enterprise</a></li>
                                 <li><a href="http://www.clemmonscourier.net">Clemmons Courier</a></li>
                                 <li><a href="http://archive.salisburypost.com/archive_index.php">Archives</a></li>
+                                <li><a href="http://www.salisburypost.com/lastweeksheadlines">Last 7 Days</a></li>
                                 <li><a href="http://shopping.salisburypost.com/SS/Tiles.aspx?ex=chamberrelocation">Special Sections</a></li>
+                                <li><a href="http://www.salisburypost.com/bulletinboard/">Bulletin Board</a></li>
                             </ul>
                         </li>
                         <li>
@@ -565,7 +495,7 @@ Email: <a href="mailto:jjudd@salisburypost.com">jjudd@salisburypost.com</a><br>
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://test.theeagle.com/www/delivery/ajs.php?zoneid=952&amp;cb=68561490061&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20110626095632id_/http%253A//www.salisburypost.com/privacy"></script><noscript><a href='http://test.theeagle.com/www/delivery/ck.php?n=a3f6c365&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.theeagle.com/www/delivery/avw.php?zoneid=952&amp;n=a3f6c365' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://test.theeagle.com/www/delivery/ajs.php?zoneid=952&amp;cb=18282469986&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111224145547id_/http%253A//www.salisburypost.com/privacy"></script><noscript><a href='http://test.theeagle.com/www/delivery/ck.php?n=a3f6c365&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.theeagle.com/www/delivery/avw.php?zoneid=952&amp;n=a3f6c365' border='0' alt='' /></a></noscript>
 </div>
 </div>
 </div>
@@ -586,18 +516,6 @@ Email: <a href="mailto:jjudd@salisburypost.com">jjudd@salisburypost.com</a><br>
 <div class="ClearLine5px"></div>
 <div class="ClearLine5px"></div>
 <div class="clear5px"></div>
-<link href="/style/V2/NiftyRoundedCorners.css" rel="stylesheet" type="text/css">
-<link href="/style/V2/SalsPortableTabs.css" rel="stylesheet" type="text/css">
-
-<link href="/style/V2/RightRailMostPopTab.css" rel="stylesheet" type="text/css">
-<link href="/style/V2/TopHeadlinesTabbedPanels.css" rel="stylesheet" type="text/css">
-<script src="/scripts/V2/RightRailPopularTab.js" type="text/javascript"></script>
-<script src="/scripts/V2/NiftyRoundedCorners.js" type="text/javascript"></script>
-<script src="/scripts/V2/SalsPortableTabs.js" type="text/javascript"></script>
-<script src="/scripts/V2/mostCommented.js" type="text/javascript"></script>
-
-
-
 <style type="text/css">
 
 .rightrailpostablescontainer {
@@ -758,24 +676,28 @@ var TabbedPanels1 = new Spry.Widget.TabbedPanels("TabbedPanels1");
 <div class="pollContainer">
                 
                 	
-                    	<div class="salpostPollQuestion">Do you think new graphic warnings on cigarette packs will reduce smoking?</div>
+                    	<div class="salpostPollQuestion">With 2011 drawing to a close, how do you think the U.S. economy is likely to fare in 2012?</div>
                         
-                        <form action="http://www.salisburypost.com/pollresults/Do-you-think-new-graphic-warnings-on-cigarette-packs-will-reduce-smoking-" method="post">
+                        <form action="http://www.salisburypost.com/pollresults/122211-poll" method="post">
                         	<input type="hidden" name="operator" value="select">
                             <ul style="margin-left: 5px;">
                             	 
                                 
                                 <li class="listNostyle">
-                                	<input type="radio" name="choice" id="salpostPollOptions" value="404464594">
-                                    Yes.</li>
+                                	<input type="radio" name="choice" id="salpostPollOptions" value="457302563">
+                                    Stay flat</li>
                                 
                                 <li class="listNostyle">
-                                	<input type="radio" name="choice" id="salpostPollOptions" value="404464595">
-                                    No.</li>
+                                	<input type="radio" name="choice" id="salpostPollOptions" value="457302564">
+                                    Head into another recession</li>
                                 
                                 <li class="listNostyle">
-                                	<input type="radio" name="choice" id="salpostPollOptions" value="404464596">
-                                    Undecided.</li>
+                                	<input type="radio" name="choice" id="salpostPollOptions" value="457302565">
+                                    Increase slightly</li>
+                                
+                                <li class="listNostyle">
+                                	<input type="radio" name="choice" id="salpostPollOptions" value="457302566">
+                                    Rev up into a full recovery</li>
                                 
                                  
                             </ul>
@@ -828,7 +750,7 @@ var TabbedPanels1 = new Spry.Widget.TabbedPanels("TabbedPanels1");
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://test.theeagle.com/www/delivery/ajs.php?zoneid=953&amp;cb=63437439916&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20110626095632id_/http%253A//www.salisburypost.com/privacy"></script><noscript><a href='http://test.theeagle.com/www/delivery/ck.php?n=a3f6c365&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.theeagle.com/www/delivery/avw.php?zoneid=953&amp;n=a3f6c365' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://test.theeagle.com/www/delivery/ajs.php?zoneid=953&amp;cb=9645655480&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111224145547id_/http%253A//www.salisburypost.com/privacy"></script><noscript><a href='http://test.theeagle.com/www/delivery/ck.php?n=a3f6c365&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.theeagle.com/www/delivery/avw.php?zoneid=953&amp;n=a3f6c365' border='0' alt='' /></a></noscript>
 </div>
 </div>
 
@@ -1010,15 +932,11 @@ overflow:hidden;
 </div>
 
 <div class="FooterMenuItem">
-	<a href="http://kannapoliscitizen.com/" title="KCR Archives">KCR Archives</a> | 
-</div>
-
-<div class="FooterMenuItem">
 	<a href="http://www.salisburypost.com/contact/" title="Contact">Contact Us</a> | 
 </div>
 
 <div class="FooterMenuItem">
-	<a href="/kannapolis" title="Kannapolis" target="_blank">Kannapolis</a> | 
+	<a href="http://www.aikenstandard.com" title="Aiken Standard" target="_blank">Aiken Standard</a> | 
 </div>
 
 <div class="FooterMenuItem">
