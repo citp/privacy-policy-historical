@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the achooallergy.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428005658id_/http%3A//www.achooallergy.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achooallergy.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224180209id_/http%3A//www.achooallergy.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # AchooAllergy.com Privacy Policy
 
-[ ](http://www.truste.org/ivalidate.php?url=www.achooallergy.com&sealid=101)AchooAllergy.com is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.AchooAllergy.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  
-If you have questions or concerns regarding this statement, you should first contact Customer Service at 1-800-338-7123. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php)  TRUSTe will then serve as a liaison with us to resolve your concerns.
+[ ](http://www.truste.org/ivalidate.php?url=www.achooallergy.com&sealid=101)AchooAllery.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.  
+If you have questions or concerns regarding this statement, you should first contact Customer Service at 1-800-338-7123. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [ http://www.truste.org/consumers/watchdog_complaint.php](http://watchdog.truste.com/pvr.php?page=complaint)  TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 AchooAllergy.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting AchooAllergy.com, you are accepting the practices described in our Privacy Policy.
 
@@ -32,11 +32,11 @@ To sign up for our newsletter, visit AchooAllergy.com and fill in the [ email si
 
 **What About Cookies?  
 **  
-• Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide customized features and storage of items in your Shopping Cart between visits. 
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide customized features and storage of items in your Shopping Cart between visits. 
 
-• AchooAllergy.com does not collect any personal information via tracking technologies. Usage of cookies are in no way linked to any personally identifiable information on our site.
+AchooAllergy.com does not collect any personal information via tracking technologies. Usage of cookies are in no way linked to any personally identifiable information on our site.
 
-• The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. 
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. 
 
 **Tell-A-Friend**
 
@@ -70,6 +70,10 @@ While we use encryption to protect sensitive information transmitted online, we 
 
 Users of AchooAllergy.com can update/change their personal information by calling customer service at 1-800-339-7123 or by sending an email to info@achooallergy.com. Users may request access to their personal information for the purpose of correcting and/or updating it. 
 
+**Data Retention**
+
+AchooAllergy.com will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at 1-800-339-7123. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
 **Which Information Can I Access?  
 **  
 AchooAllergy.com gives you access to a broad range of information about your account and your interactions with AchooAllergy.com for the limited purpose of viewing and, in certain cases, updating that information.   
@@ -101,4 +105,4 @@ Atlanta, GA 30341
 1-800-339-7123  
 info@achooallergy.com
 
-**Privacy Policy Last Updated on: 09/25/2008**
+**Privacy Policy Last Updated on: 07/18/2011**
