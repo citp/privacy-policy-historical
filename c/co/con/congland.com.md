@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the congland.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521083729id_/http%3A//congland.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the congland.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224055817id_/http%3A//congland.com/privacy.php) for the most accurate reproduction.*
 
 # CONGLAND - Privacy Policy
 
