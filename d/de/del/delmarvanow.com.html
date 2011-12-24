@@ -1,21 +1,31 @@
-<!--The following is the downloaded HTML source of the delmarvanow.com privacy policy that was archived on 2011-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110626034858id_/http%3A//www.delmarvanow.com/section/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the delmarvanow.com privacy policy that was archived on 2011-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111225003250id_/http%3A//www.delmarvanow.com/section/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:meebo="http://www.meebo.com" lang="en"><head>
 							<title>privacy | The Daily Times | delmarvanow.com </title>
+			<meta property="og:title" content="The Daily Times privacy Section">
+			<meta property="og:type" content="website">
+			<meta property="og:description" content="privacy news from The Daily Times.">
 <meta name="keywords" content="delmarvanow.com,Salisbury,Maryland,News,local news,headlines,stories,world news">
 <meta name="description" content="Salisbury Maryland News - delmarvanow.com is the home page of Salisbury Maryland with in depth and updated Salisbury local news. Stay informed with both Salisbury Maryland news as well as headlines and stories from around the world.">
+<meta property="og:site_name" content="The Daily Times">
+<meta property="og:url" content="">
+		<meta property="og:image" content="http://m.delmarvanow.com/images/bookmark/n_delmarvanow/apple-touch-icon.png">
 <meta name="category" content="privacy">
-<link rel="canonical" href="http://www.delmarvanow.com/section/PRIVACY">
+	<link rel="canonical" href="http://www.delmarvanow.com/section/PRIVACY">
 <meta name="robots" content="noodp">
 <meta name="robots" content="noydir">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="expires" content="0">
 <meta http-equiv="cache-control" content="no-cache">
+<link rel="alternate" type="application/rss+xml" title="delmarvanow privacy RSS" href="http://www.delmarvanow.com/section/PRIVACY&amp;template=rss_gd&amp;mime=xml">
 <link href="/includes/css/ody/ody-local.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="/odygci/p2/ody-styles-min.css">
-<script src="/odygel/lib/core/core.js"></script>
+<meta property="fb:admins" content="778614025,179822335370394,100003123590582,1087045835">
+<meta property="fb:app_id" content="179822335370394">
+<script type="text/javascript" src="/odygel/functions.js"></script>
+<script type="text/javascript" src="/odygel/lib/core/core.js"></script>
 <script type="text/javascript"> 
 /*Subsite Redirect*/
 var _bodyTimer= new GEL.util.benchmark.Timer("Body Load").start(); 
@@ -34,17 +44,20 @@ GEL.thepage.pageinfo = {
 	categoryname:"privacy",
 	categoryid:"PRIVACY",
 	pluckpage: 0,
+	commenttype:"facebook",
 	url: { 
 		hostname: "www.delmarvanow.com",
 		domainname: "delmarvanow.com",
 		domainroot: "delmarvanow"
 	},
 	pic: {
-		ptpid: "272"		
+		mycapture: "enabled",
+		enablecategory:  "on",
+		domainname: "delmarvanow.mycapture.com"
 	},
 	date: { 
 		rollover:"04:32",
-		timeoffset: "-04"
+		timeoffset: "-05"
 	},
 	ssts:{
 		adsiteid:"PRIVACYsection",
@@ -64,9 +77,10 @@ GEL.thepage.pageinfo = {
 		c1: "2", 
 		c2: "6035223"
 	},
-	navitemon: {
-		navon: "privacy"
-	}
+	gigyaapikey: '2_J-v_iSTpAUUz4H_VILQCnPypWW5Nr-ye3yQHeZzP9bf5K3pe8KAh7pnvtinPwQSZ',
+	enabledProviders: '',
+	GO4TurnOffZag: '',
+	paletteOption: '2'
 };
 GEL.thepage.pageinfo.siteinstance="";
 GEL.thepage.pageinfo.videooverlays="on";
@@ -79,6 +93,7 @@ GEL.thepage.pageinfo.admail={
 if(GEL.thepage.pageinfo.admail.enable.toLowerCase() == "on"){
 	GEL.thepage.pageinfo.admail.show= true;
 }
+GEL.thepage.pageinfo.sessiontime=0;
 (function(){
 	var _i = GEL.thepage.pageinfo;
 	GEL.register("social.pluck.api", { 
@@ -95,18 +110,6 @@ if(GEL.thepage.pageinfo.admail.enable.toLowerCase() == "on"){
 	);
 })();
 /*GO4 Faster Semantics*/
-	GEL.thepage.pageinfo.semantics={
-	response:{"Url":"http://www.delmarvanow.com/section/PRIVACY","ContentLength":0,"FetchDuration":3046,"ContentType":"","Id":0,"PathIds":0,"LanguageId":"","Channels":[{}],"UnconStatus":6},
-	source:'CW',
-	enabled:true,
-	status:'6',
-	url:'http://cx.contextweb.com/ctx/?cwurl=http%3A//www.delmarvanow.com/section/PRIVACY',
-	uniqueids:[],
-	uniqueidsdesc:[],
-	allids: [],
-	calltime:'3078',
-	cached:true
-};
 /* Banner configuration and Initialization */
 (function(){
 var 
@@ -133,34 +136,17 @@ GEL.thepage.initializer.addInitRoutine({
 	callback: bannerFinder, 
 	priority: 25
 }); 
-function bannerFinder(){
-	var 
-		_t= new GEL.util.benchmark.Timer("Banners").start(), 
-		_bl= GEL.thepage.bannerLoader= 
-			new GEL.widget.AdBanner.Locator(), 
-		_bm= null 
-	; 	
-	_bl.findBanners(); 
-	_bm= _bl.loadBanners(
-		function(){return this.config.loadOnInit;},
-		null, 
-		false
-	);
-	_bm.on("ready", _t.getStop()); 
-	this.addElement(_bm); 
-}
 })(); 
 /* This is for backward compatibility */
 window["OAS_AD"]= (function(){ 
 var _sMap= document.getElementsByTagName("SCRIPT"); 
 return function OAS_AD(pos, opts) {
-        opts= opts || {}; 
-        opts.position= pos; 
-        var 
+	opts= opts || {}; 
+	opts.position= pos; 
+	var 
 		_me= _sMap[_sMap.length - 1], 
-		_container= _container= GEL.ement("BANNER", opts)
-	; 
-        _me.parentNode.insertBefore(_container.getElement(), _me); 
+		_container= _container= GEL.ement("BANNER", opts);
+	_me.parentNode.insertBefore(_container.getElement(), _me); 
 }
 })(); 
 (function(){ 
@@ -174,9 +160,9 @@ var _c= GEL.config.userauth={
 		return _enable.toLowerCase() != 'no' ? true : false; 
 	})(), 
 	app_name: "salisbur",
-	host: "newspaper.app40.ur.gcion.com",
+	host: "npapp40ssl.gcion.com",
 	site_name: "delmarvanow.com",
-	enable_ssl: window.location.protocol === 'https:' ? true : false, 
+	enable_ssl: true,
 	enable_reg_help: true, 
 	enable_search: true, 
 	enable_links: false, 
@@ -241,82 +227,18 @@ GEL.thepage.initializer.addInitRoutine({
 	name: "userauthpreload",
 	namespace: ["legacy.GDNpreload","social.socialprovider"],
 	priority: 11, 
-	callback: function(){ 
-		GDN.UA.Page.Load();
-		var options ={}; 
-		GEL.util.uautil = new GEL.UserAuth(options);
-		GEL.util.uautil.init();
-		var spoptions={};
-		 spoptions.APIKey ='2_J-v_iSTpAUUz4H_VILQCnPypWW5Nr-ye3yQHeZzP9bf5K3pe8KAh7pnvtinPwQSZ'; 
-		GEL.util.sputil = new GEL.Socialprovider(spoptions);		
-		GEL.util.sputil.loadscript();
-	}
+	callback: inituserauthpreload
 });
 GEL.thepage.initializer.addInitRoutine({ 
 	name: "userauthpostload",
 	namespace: ["legacy.GDNpostload"],
 	priority: 120,
-	callback: function(){ 
-		/* 
-		The wonders of UA never cease. 
-		    Initializing these widgets will fail 
-		    if done immediately after the above. 
-		    Once the LoggedIn/Out widget is loaded 
-		    it will run the callbacks for these 
-		    widgets which, since they have not loaded,
-		    will fail.  
-		    Initializing UR before UA is complete will result 
-		    in UR overwriting the GCIONID cookie 
-		    This 1 second timeout should give 
-		    UA enough time to complete 
-		*/
-		GDN.Api.Register(function(){ 
-			GEL.env.user.onLogin(); 	
-		}, null, "Login"); 
-		GDN.Api.Register(function(){ 
-			GEL.env.user.onLogout(); 
-		}, null, "Logout");
-		GDN.Autologin();
-	GEL.thepage.on("ready", function(){ 
-			_timer= setTimeout(init, 1000);
-		}); 
-		function init(){ 
-			var _noneedzag=  (function(){ 
-				var _u = GEL.env.user;
-				return (_u.state || _u.yob || _u.zip || GEL.env.cookies.gcionid.values.status =="16") ? true : false;
-				})();
-			if(!_noneedzag) {
-			GDN.UR.Page.Load();  
-			}
-			/*GDN.UA.Page.PluckLogin();
-			GDN.UA.Page.PluckReg();
-			GDN.UA.Page.PluckLogout();
-			GDN.UA.Page.SaxotechLogin(); 
-			GDN.UA.Page.Newsletters();*/
-		}
-	}
-}); 
+	callback: inituserauthpostload
+});
 GEL.thepage.initializer.addInitRoutine({ 
 	name: "userauthlateload",
 	priority: 300, 
-	callback: function(){
-	if ( GEL.config.userauth.enable_premium == false &&
-		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="PLUCK_REGISTER"  &&
-		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="PLUCK_SIGNIN"  &&
-		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="NLETTERREGISTER" &&
-		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="GETPUBLISHED01" &&
-		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="NLETTERSIGNIN") {
-			GEL.util.uautil.MakeRemoteCallsilently("signup","socialprovider","signup.html");
-			GEL.util.uautil.MakeRemoteCallsilently("userauthlogin","socialprovider","login.html");
-		/*	Adding another div for Newsletter sample page */
-		if(GEL.util.uautil.isnlettersubscribe()){
-			var el = document.createElement("div");
-			el.setAttribute('id', 'NLSampleModalcontainer');
-			var temp_elem = document.getElementById("UAModalcontainerwrapper");
-			temp_elem.appendChild(el);
-			}
-		}
-	}
+	callback: inituserauthlateload
 });
 })(); 
 /****O4 Faster Omniture******/
@@ -349,10 +271,10 @@ GEL.thepage.initializer.addInitRoutine({
 		channel: 'Delmarva',
 		currencyCode: "USD",
 		trackDownloadLinks: true,
-		trackExternalLinks: false,
+		trackExternalLinks: true,
 		trackInlineStats: true,
 		linkDownloadFileTypes: "exe,zip,wav,mp3,mp4,m4v,mov,mpg,avi,wmv,doc,pdf,xls",
-		linkInternalFilters: "javascript:apartments,careerbuilder,cars,customcoupon,customwire.ap.org,eharmony,gannett,gbahn,highschoolsports,homefinder,homescape,infi,job,network,newsbank,newslibrary,pictopia,salary,topix,ur.gcion.com,usatoday,traffic,planetdiscover,metromix,mom",
+		linkInternalFilters: "javascript:apartments,careerbuilder,cars,customcoupon,customwire.ap.org,eharmony,gannett,gbahn,highschoolsports,homefinder,homescape,infi,job,network,newsbank,newslibrary,mycapture,salary,topix,ur.gcion.com,usatoday,traffic,planetdiscover,metromix,mom",
 		linkLeaveQueryString: false,
 		linkTrackVars: "None",
 		usePlugins: true, 
@@ -635,19 +557,28 @@ Combination= category-PRIVACY&type-section-->
 <script id="__gel_nsscript_legacy__GDN__GDN.js" src="https://web.archive.org/odygel/lib/legacy/GDN/GDN.js"></script>
 <script id="__gel_nsscript_legacy__GDN__GDNpreload.js" src="https://web.archive.org/odygel/lib/legacy/GDN/GDNpreload.js"></script>
 <script id="__gel_nsscript_legacy__GDN__GDNpostload.js" src="https://web.archive.org/odygel/lib/legacy/GDN/GDNpostload.js"></script>
-<script id="__gel_nsscript_widgets__time__time.js" src="https://web.archive.org/odygel/lib/widgets/time/time.js"></script>
-<script id="__gelement_2" src="https://web.archive.org/web/20130119060541/http://js.revsci.net/gateway/gw.js?csid=J06575"></script>
-<script id="__gel_nsscript_widgets__navigation__navController.js" src="https://web.archive.org/odygel/lib/widgets/navigation/navController.js"></script>
+<script id="__gelement_1" src="https://web.archive.org/web/20130119060541/http://js.revsci.net/gateway/gw.js?csid=J06575"></script>
 <script id="__gel_nsscript_userauth__userauth.js" src="https://web.archive.org/odygel/lib/userauth/userauth.js"></script>
 <script language="javascript" type="text/javascript" src="https://web.archive.org/odygel/lib/legacy/GDN//UI.js"></script><script language="javascript" type="text/javascript" src="https://web.archive.org/odygel/lib/legacy/GDN/UREvents/ZagUser.js"></script><script id="__gel_nsscript_3rdparty__gigya__gigya.js" src="https://web.archive.org/odygel/lib/3rdparty/gigya/gigya.js"></script>
 <script language="javascript" type="text/javascript" src="https://web.archive.org/odygel/lib/legacy/GDN/UAWidgets/LoggedOut.js"></script></head>
 <body class="ody-skin"><script type="text/javascript" src="https://pix04.revsci.net/J06575/a4/0/0/pcx.js?csid=J06575"></script>
 	
+	
 	<div class="ody-custom">
 		<div id="modalouter" class="modal-outer-inactive"></div>
+		
 		<div class="main-container">
 			<!-- HEADER -->
-				<!-- @ody_adposnavbar:  -->
+				<!-- ody_topnavigationmenu.pbo -->
+<!-- @ody_adposnavbar:  -->
+<script type="text/javascript">
+GEL.thepage.initializer.addInitRoutine({ 
+	name: "trackSeatGeek",
+	namespace: ["legacy.GDNpostload"],
+	priority: 200,
+	callback: inittrackSeatGeek
+});
+</script>
 <div class="header-container">
 	<div class="header-classified"> 
 		<div class="header-wrap">
@@ -671,7 +602,7 @@ Combination= category-PRIVACY&type-section-->
 				<a name="top" href="http://www.delmarvanow.com/" title="delmarvanow.com Home" alt="delmarvanow.com Home"></a>
 			</div>		
 			<div id="Nav">
-				<ul class="nav-tabs" id="__gelement_3">
+				<ul class="nav-tabs" id="__gelement_2">
 					<li id="tab0" class="mega tab 0"><a href="/section/NEWS01" class="first">News</a></li><li id="tab1" class="mega tab 1"><a href="/section/SPORTS">Sports</a></li><li id="tab2" class="mega tab 2"><a href="/section/OPINION">Opinion</a></li><li id="tab3" class="mega tab 3"><a href="/section/BUSINESS">Business</a></li><li id="tab4" class="mega tab 4"><a href="/section/LIFESTYLE">Shorelife</a></li><li id="tab5" class="mega tab 5"><a href="/section/ENTERTAINMENT?template=cover">Entertainment</a></li><li id="tab6" class="mega tab 6"><a href="http://www.legacy.com/obituaries/DelMarvaNow/">Obituaries</a></li><li id="tab7" class="mega tab 7"><a href="#">Weeklies</a></li><li id="tab8" class="mega tab 8"><a class="special" href="/section/CUSTOMERSERVICE">Help</a></li>
 				</ul>
 				<div style="clear:both"></div>
@@ -680,34 +611,36 @@ Combination= category-PRIVACY&type-section-->
 		<div class="column1">
 			<div class="sectionTop">
 				<ul class="clear">
-				<li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/NEWS01">Local News</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="http://content.usatoday.com/dist/custom/gci/topicpage.aspx?cid=delmarvanow">Nation/World</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="http://www.delmarvanow.com/section/7daysarchives">News Archives</a></li>
+				<li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/NEWS01">Local News</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="http://www.usatoday.com/news/">Nation/World</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="http://www.delmarvanow.com/section/7daysarchives">News Archives</a></li>
 				</ul>
 			</div>
 		</div>
 		<div class="column2Mega">
 			<div class="latestHeadlines">LATEST HEADLINES</div>
-<div class="section ">
+<div class="section photo">
+	<div class="photoFrame"><a href="/article/20111224/NEWS01/111224016/Christians-celebrate-Christmas-Saturday-Sunday-services?odyssey=nav|head"><img src="http://cmsimg.delmarvanow.com/apps/pbcsi.dll/bilde?Avis=A7&amp;Dato=20111224&amp;Kategori=NEWS01&amp;Lopenr=111224016&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30&amp;Christians-celebrate-Christmas-Saturday-Sunday-services" alt="In this Dec. 24, 2011 photo, Katie Soper of Salisbury lights candles at the start of a Christmas Eve service at Bethesda United Methodist Church in Salisbury. Christmas service will be at 11am Sunday. Photo/The Daily Times, Amanda Rippen White"></a>
+	</div>
 	<div class="headline">
-		<a href="/article/20110625/NEWS01/106250331/Assateague-off-site-parking-issue?odyssey=nav|head">Assateague off-site parking at issue</a>
+		<a href="/article/20111224/NEWS01/111224016/Christians-celebrate-Christmas-Saturday-Sunday-services?odyssey=nav|head">Christians celebrate Christmas with Saturday, Sunday services</a>
 	</div>
 	<div class="summary">
-			ASSATEAGUE -- U.S. Rep.
+			SALISBURY — Christmas Day falls on a Sunday this year, and Christian houses of worship throughout...<span class="timestamp">- 4:50 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110625/NEWS01/110625008/SOMERSET-Fire-Marshal-investigating-garage-fire?odyssey=nav|head">SOMERSET: Fire Marshal investigating garage fire</a>
+		<a href="/article/20111224/NEWS01/112240329/Seaford-family-gets-Christmas-miracle?odyssey=nav|head">Seaford family gets Christmas miracle</a>
 	</div>
 	<div class="summary">
-		FAIRMOUNT — The Maryland State Fire Marshal says it is investigating a fire at a garage in...<span class="timestamp">- 1:56 pm</span>
+		SEAFORD -- Ready for a Christmas story about love, prayer, kindness and -- a miracle?
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110625/NEWS01/110625007/DELAWARE-Ships-gain-historic-status?odyssey=nav|head">DELAWARE: Ships gain historic status</a>
+		<a href="/article/20111224/NEWS01/112240326/High-grade-pot-more-prevalent?odyssey=nav|head">High-grade pot more prevalent</a>
 	</div>
 	<div class="summary">
-		There's something missing from Sussex County's first National Historic Landmark: the land.<span class="timestamp">- 8:07 am</span>
+		SALISBURY -- High-grade marijuana use on the Eastern Shore is one the rise, according to local...
 	</div>
 </div>
 		</div>
@@ -718,36 +651,34 @@ Combination= category-PRIVACY&type-section-->
 		<div class="column1">
 			<div class="sectionTop">
 				<ul class="clear">
-				<li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/SPORTS">Local Sports</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/HSSPORTS&amp;template=HSSPORTAL">High School Sports</a></li>
+				<li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/SPORTS">Local Sports</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/HSSPORTS&amp;template=HSSPORTAL">High School Sports</a></li><li class="link ad 1"><span class="arrow">&nbsp;</span><a id="ody-sports-tickets-nav" href="http://seatgeek.com/baltimore-maryland-sports-tickets">Buy Tickets</a></li>
 				</ul>
 			</div>
 		</div>
 		<div class="column2Mega">
 			<div class="latestHeadlines">LATEST HEADLINES</div>
-<div class="section photo">
-	<div class="photoFrame"><a href="/article/20110625/SPORTS/106250341/Snow-Hill-prospect-signs-Padres?odyssey=nav|head"><img src="http://cmsimg.delmarvanow.com/apps/pbcsi.dll/bilde?Avis=A7&amp;Dato=20110625&amp;Kategori=SPORTS&amp;Lopenr=106250341&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30" alt="Daniel Cropper "></a>
-	</div>
+<div class="section ">
 	<div class="headline">
-		<a href="/article/20110625/SPORTS/106250341/Snow-Hill-prospect-signs-Padres?odyssey=nav|head">Snow Hill prospect signs with Padres</a>
+		<a href="/article/20111224/SPORTS/112240337/Wi-Hi-family-tradition?odyssey=nav|head">Wi-Hi, a family tradition</a>
 	</div>
 	<div class="summary">
-			SALISBURY -- It had always been Daniel Cropper's dream to play professional baseball.
+			SALISBURY -- When Paul Butler III made the decision to transfer from Parkside High School to...
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110625/SPORTS/106250345/Top-prospect-Czech?odyssey=nav|head">Top prospect? Czech</a>
+		<a href="/article/20111224/SPORTS/112240336/Ravens-tightrope-top-spot?odyssey=nav|head">Ravens on tightrope for top spot</a>
 	</div>
 	<div class="summary">
-		WASHINGTON (AP) -- Flip Saunders is very impressed with Jan Vesely.
+		BALTIMORE -- Given a second chance to earn a home playoff game, the Baltimore Ravens hope to put a...
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110625/SPORTS/106250343/Jackson-sees-court-from-both-sides?odyssey=nav|head">Jackson sees court from both sides</a>
+		<a href="/article/20111224/SPORTS/112240335/Must-see-TV-Losing-Vikes-visit-losing-Skins?odyssey=nav|head">Must-see-TV? Losing Vikes visit losing 'Skins</a>
 	</div>
 	<div class="summary">
-		SALISBURY --  It didn't take long before someone with Tia Jackson's resume would land another job...
+		WASHINGTON -- Don't touch that dial.
 	</div>
 </div>
 		</div>
@@ -766,26 +697,26 @@ Combination= category-PRIVACY&type-section-->
 			<div class="latestHeadlines">LATEST HEADLINES</div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110625/OPINION01/106250339/New-Rosa-Parks-honor?odyssey=nav|head">New Rosa Parks honor</a>
+		<a href="/article/20111224/OPINION01/112240334/Yes-Virginia-there-Santa?odyssey=nav|head">Yes, Virginia, there is a Santa</a>
 	</div>
 	<div class="summary">
-			Cheers to the Princess Anne Town Commissioners for finding a more suitable roadway to be named for...<span class="timestamp">- 3:54 am</span>
+			Eight-year-old Virginia O'Hanlon wrote a letter to the editor of New York's Sun, and the quick...
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110625/OPINION01/106250337/ROGER-SIMON-COLUMN-Leaving-Afghanistan-not-quick-not-easy?odyssey=nav|head">ROGER SIMON COLUMN Leaving Afghanistan not quick, not easy</a>
+		<a href="/article/20111224/OPINION01/112240323/Christmas-memories-evoke-smiles-tears?odyssey=nav|head">Christmas memories evoke smiles, tears</a>
 	</div>
 	<div class="summary">
-		Afghanistan has always been our "forgotten war," and President Barack Obama reminded us Wednesday...
+		I wish to share a few thoughts about my last 55 Christmases. Over the years, not much has changed.
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110625/OPINION08/106250340/GRAPEVINE?odyssey=nav|head">GRAPEVINE</a>
+		<a href="/article/20111224/OPINION01/112240332/Whose-birthday-Christmas-Day-?odyssey=nav|head">Whose birthday is it on Christmas Day?</a>
 	</div>
 	<div class="summary">
-		Grapevine is a sampling of comments and observations on a variety of timely topics submitted by...
+		Every year during the Christmas season, with all the CDs I have on or about Christmas, I like to...
 	</div>
 </div>
 		</div>
@@ -798,29 +729,29 @@ Combination= category-PRIVACY&type-section-->
 		<div class="column2Mega" style="border:none;">
 			<div class="latestHeadlines">LATEST HEADLINES</div>
 <div class="section photo">
-	<div class="photoFrame"><a href="/article/20110625/BUSINESS/106250335/Bradley-buildings-razed?odyssey=nav|head"><img src="http://cmsimg.delmarvanow.com/apps/pbcsi.dll/bilde?Avis=A7&amp;Dato=20110625&amp;Kategori=BUSINESS&amp;Lopenr=106250335&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30" alt="The former office complex of Dr. Earl B. Bradley, who was convicted on all 24 counts of rape, assault and sexual exploitation of a child in his trial Thursday, will be demolished by its new owner, an unnamed limited liability corporation. GARY EMEIGH/THE NEWS JOURNAL"></a>
+	<div class="photoFrame"><a href="/article/20111224/BUSINESS/112240320/CHRISTMAS-Layaway-angels-lend-helping-hand?odyssey=nav|head"><img src="http://cmsimg.delmarvanow.com/apps/pbcsi.dll/bilde?Avis=A7&amp;Dato=20111224&amp;Kategori=BUSINESS&amp;Lopenr=112240320&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30&amp;CHRISTMAS-Layaway-angels-lend-helping-hand" alt="Christina Shaw is shocked and grateful that someone paid for her layaway at Kmart worth almost $200. She was working overtime to cover the bills but had told her kids that they'd have to wait until January to celebrate Christmas with presents. SUCHAT PEDERSON/THE NEWS JOURNAL"></a>
 	</div>
 	<div class="headline">
-		<a href="/article/20110625/BUSINESS/106250335/Bradley-buildings-razed?odyssey=nav|head">Bradley buildings to be razed</a>
+		<a href="/article/20111224/BUSINESS/112240320/CHRISTMAS-Layaway-angels-lend-helping-hand?odyssey=nav|head">CHRISTMAS: 'Layaway angels' lend helping hand</a>
 	</div>
 	<div class="summary">
-			LEWES -- The new owner of Dr. Earl B.
+			WILMINGTON -- With money short, Christina Shaw, of Wilmington had some somber news for her children...
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110624/BUSINESS/106240314/Layoffs-housing-data-point-chronic-problems?odyssey=nav|head">Layoffs, housing data point to chronic problems</a>
+		<a href="/article/20111224/BUSINESS/112240321/Blackwater-Maryland-buy-storage-network-site?odyssey=nav|head">Blackwater Maryland to buy storage network site</a>
 	</div>
 	<div class="summary">
-		WASHINGTON -- Sour reports Thursday on the number of people who sought unemployment benefits and...
+		SALISBURY -- Blackwater Maryland LLC finalized a $1.
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110623/BUSINESS/106230378/The-Fountains-sold?odyssey=nav|head">The Fountains sold</a>
+		<a href="/article/20111223/BUSINESS/112230312/Fewest-layoffs-since-2008?odyssey=nav|head">Fewest layoffs since 2008</a>
 	</div>
 	<div class="summary">
-		SALISBURY-- The Fountains Wedding and Conference Center is under new ownership after a short sale...<span class="timestamp">- 3:56 am</span>
+		WASHINGTON -- The job market is getting healthier, adding to evidence that the economy is improving...
 	</div>
 </div>
 		</div>
@@ -831,36 +762,34 @@ Combination= category-PRIVACY&type-section-->
 		<div class="column1">
 		     	<div class="sectionTop">
 				<ul class="clear">
-				<li class="link 4"><span class="arrow">&nbsp;</span><a href="/section/LIFESTYLE">Shorelife</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="http://delmarva.momslikeme.com/members/exploregroups.aspx">MomsLikeMe</a></li>
+				<li class="link 4"><span class="arrow">&nbsp;</span><a href="/section/LIFESTYLE">Shorelife</a></li>
 				</ul>
 			</div>
 		</div>
 		<div class="column2Mega">
 			<div class="latestHeadlines">LATEST HEADLINES</div>
-<div class="section photo">
-	<div class="photoFrame"><a href="/article/20110624/LIFESTYLE/106240327/-Even-blind-squirrel-can-find-nut-every-now-then-?odyssey=nav|head"><img src="http://cmsimg.delmarvanow.com/apps/pbcsi.dll/bilde?Avis=A7&amp;Dato=20110624&amp;Kategori=LIFESTYLE&amp;Lopenr=106240327&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30" alt="Otho &quot;O.W.&quot; Mears "></a>
-	</div>
+<div class="section ">
 	<div class="headline">
-		<a href="/article/20110624/LIFESTYLE/106240327/-Even-blind-squirrel-can-find-nut-every-now-then-?odyssey=nav|head">'Even a blind squirrel can find a nut every now and then'</a>
+		<a href="/article/20111223/LIFESTYLE/112230311/Pets-get-plenty-holiday-love?odyssey=nav|head">Pets get plenty of holiday love</a>
 	</div>
 	<div class="summary">
-			Sometime back, my friend, Judge Danny Long, called to say he liked a photo I took that appeared on...
+			NEW YORK ---- The shopping frenzy has begun. Sweaters, toys and cushy new beds.
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110624/LIFESTYLE/106240328/Seeing-trees-sustainable?odyssey=nav|head">Seeing trees as sustainable</a>
+		<a href="/article/20111222/LIFESTYLE/112220362/Wrap-up?odyssey=nav|head">Wrap it up</a>
 	</div>
 	<div class="summary">
-		GUMBORO -- The Great Cypress Swamp once covered as much as 60,000 acres in Delaware and nearby...
+		BETHANY BEACH -- For those looking for the ideal gift this holiday season, local store owners have...
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110624/LIFESTYLE/106240313/LeAnn-Rimes-grace-Freeman-Stage?odyssey=nav|head">LeAnn Rimes to grace The Freeman Stage</a>
+		<a href="/article/20111222/LIFESTYLE/112220363/Kim-Hudson-Confessions-last-minute-Christmas-shopper?odyssey=nav|head">Kim Hudson: Confessions of a last-minute Christmas shopper</a>
 	</div>
 	<div class="summary">
-		SELBYVILLE -- LeAnn Rimes will be the first national act to grace The Freeman Stage for its 2011...
+		Christmas is three days away.
 	</div>
 </div>
 		</div>
@@ -877,28 +806,30 @@ Combination= category-PRIVACY&type-section-->
 		</div>
 		<div class="column2Mega">
 			<div class="latestHeadlines">LATEST HEADLINES</div>
-<div class="section ">
+<div class="section photo">
+	<div class="photoFrame"><a href="/article/20111223/ENTERTAINMENT09/111222020/Old-young-love-play-trains?odyssey=nav|head"><img src="http://cmsimg.delmarvanow.com/apps/pbcsi.dll/bilde?Avis=A7&amp;Dato=20111223&amp;Kategori=ENTERTAINMENT09&amp;Lopenr=111222020&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30&amp;Old-young-love-play-trains" alt="Sean O’Halloran of Parsonsburg plays at the model train garden at the Pocomoke River Canoe Co. in Snow Hill. Laura Emmons/Beachcomber"></a>
+	</div>
 	<div class="headline">
-		<a href="/article/20110623/ENTERTAINMENT05/110623033/From-music-movies-Shore-fun-all-tastes?odyssey=nav|head">From music to movies, Shore fun for all tastes</a>
+		<a href="/article/20111223/ENTERTAINMENT09/111222020/Old-young-love-play-trains?odyssey=nav|head">Old and young love to play with trains</a>
 	</div>
 	<div class="summary">
-			With the Fourth of July around the corner, spend this weekend relaxing with music and movies at the...<span class="timestamp">- 2:19 pm</span>
+			CAMBRIDGE —  A pair of elaborate model train displays have become part of a long-running Christmas...<span class="timestamp">- 3:00 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110623/ENTERTAINMENT02/110623032/Get-Out-Bar-music-listings-June-24-30?odyssey=nav|head">Get Out! — Bar and music listings for June 24-30</a>
+		<a href="/article/20111222/ENTERTAINMENT07/111222018/Electric-Co-has-new-release?odyssey=nav|head">Electric Co. has new release</a>
 	</div>
 	<div class="summary">
-		BERLIN<span class="timestamp">- 2:08 pm</span>
+		OCEAN CITY —  When The Electric Co.<span class="timestamp">- 2:53 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110623/ENTERTAINMENT04/110623026/Your-guide-family-fun-beach?odyssey=nav|head">Your guide to family fun at the beach</a>
+		<a href="/article/20111222/ENTERTAINMENT09/111222017/Winter-cocktails-warm-you-up?odyssey=nav|head">Winter cocktails to warm you up</a>
 	</div>
 	<div class="summary">
-		OCEAN CITY — If you’re looking for family fun on a dime, resorts on the Maryland-Delaware coast are...<span class="timestamp">- 12:54 pm</span>
+		FENWICK ISLAND — If you enjoy a good drink but don’t want to spend too much money, then some great...<span class="timestamp">- 2:46 pm</span>
 	</div>
 </div>
 		</div>
@@ -933,9 +864,10 @@ Combination= category-PRIVACY&type-section-->
 	</div>
 	<div class="header-featured">
 		<div class="header-wrap">
-			<ul id="login-container" class="login-container"><li class="signup">      <a href="javascript:GEL.util.uautil.UASignup();">Sign up</a></li><li class="first">      <a href="javascript:GEL.util.uautil.LoginProvider();">Log in</a> </li>      <span id="CustomLinks" style="display:none;visibility:hidden"><a href="javascript:GEL.util.uautil.SearchAction();">Search people</a></span></ul>
-			<ul>
-				<li><strong>FEATURED:</strong></li><li><a href="/section/CRIMEMAP">Crime Reports</a></li><li><a href="http://topics.gannett.com/jobs/?template=delmarvanow">Jobs &amp; the Economy</a></li><li><a href="/section/ENTERTAINMENT&amp;template=cover">gobeachcomber.com</a></li>
+			<ul id="login-container" class="login-container"></ul>
+			<ul class="ody-navfeatured">
+				<!-- ody_navfeatured.pbo -->
+<li><strong>FEATURED:</strong></li><li><a href="/section/CRIMEMAP">Crime Reports</a></li><li><a href="http://topics.gannett.com/jobs/?template=delmarvanow">Jobs &amp; the Economy</a></li><li><a href="/section/ENTERTAINMENT&amp;template=cover">gobeachcomber.com</a></li>
 			</ul>
 			<div class="pd-search">
 				<div class="searchbox-shift">
@@ -1026,38 +958,16 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 		for(var i=0,l=a.length;i < l; i++)
 			n.addClassName(a[i]); 
 	}
-	GEL.register("widget.NavigationWidget", {
-		type: "script", 
-		depends: ["widget","widget.GELTabs"],
-		requires: ["util.Selector","remoting"],
-		path: "widgets/navigation/navController.js"
-	});
 	GEL.thepage.initializer.addInitRoutine({ 
 		name: "Nav", 
 		namespace: "widget.NavigationWidget",
-		callback: _, 
+		callback: initNav, 
 		priority: 15
 	}); 
-	function _(){ 
-		var 
-	  	     A= GEL.ement("nav-wrap")
-		    ,C= GEL.thepage
-		;
-		if(!A.isready) return;
-		var 
-			a= C.navigationControl= 
-			new GEL.widget.navigation("Nav")
-		   ,b= GEL.ement("Nav")
-		   ,c= b.get(".nav-tabs")[0] || null
-		   ,d= GEL.ement(c)
-		   ,e= b.isready ? b.offset().left : 0
-		   ,f= d.isready ? d.offset().left : 0
-		; 
-		a.init(); 
-		A.css({paddingLeft: parseInt(f - e) + "px"});
-	}
 })();
 </script> 
+<div class="mboxDefault" style="visibility: visible; display: block;"></div>
+<script type="text/javascript">mboxCreate("_global","pageName=http://www.delmarvanow.com/section/PRIVACY","pageType=section");</script><div id="mboxMarker-default-_global-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://gannettcompany.tt.omtrdc.net/m2/gannettcompany/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1582548843886-459695&amp;mboxPage=1582548848679-389585&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxCount=1&amp;pageName=http%3A%2F%2Fwww.delmarvanow.com%2Fsection%2FPRIVACY&amp;pageType=section&amp;mbox=_global&amp;mboxId=0&amp;mboxTime=1582548848699&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20111225003250id_%2Fhttp%253A%2F%2Fwww.delmarvanow.com%2Fsection%2Fprivacy&amp;mboxReferrer=&amp;mboxVersion=39" language="JavaScript"></script> 
 
 			
 			<!-- LAUNCHPAD SF -->
@@ -1065,7 +975,7 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 			<div class="leaderboard-container-top">
 				<div>
 	<div class="ad_launchpad_SF">
-	<div id="adcontainer___gelement_adbanner_0_0"><div id="__gelement_4" class=" gel-hidden"><script id="__gelement_5" src="https://gannett.gcion.com/addyn/3.0/5111.1/896172/0/-1/ADTECH;alias=PRIVACYsection_launchpad_SF;cookie=info;loc=100;target=_blank;grp=36860;misc=1582529700892;size=728x90;noperf=1;key=privacy;kvcw=;kvtitle=privacy"></script>
+	<div id="adcontainer___gelement_adbanner_0_0"><div id="__gelement_3" class=" gel-hidden"><script id="__gelement_4" src="https://gannett.gcion.com/addyn/3.0/5111.1/896172/0/-1/ADTECH;alias=PRIVACYsection_launchpad_SF;cookie=info;loc=100;target=_blank;grp=26371;misc=1582548850401;size=728x90;noperf=1;key=privacy;kvcw=;kvtitle=privacy"></script>
 </div>
 </div><div id="adcontainer___gelement_adbanner_0_0"></div><banner position="launchpad_SF" id="__gelement_adbanner_0"></banner>
 		<div class="advertisement">ADVERTISEMENT</div>
@@ -1079,7 +989,7 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 				<div class="container">
 								<div class="glegal">
 				<h1>Privacy Notice</h1>
-<p>Last Updated: December 30, 2010</p>
+<p>Last Updated: November 9, 2011</p>
 <p>We take seriously your interest in how your information is collected and used.  Please read the following to learn about our Privacy Notice.</p>
 <p>This Privacy Notice discloses the privacy practices of this website (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).</p>
 <p>Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our <a href="http://www.delmarvanow.com/section/terms">Terms of Service</a>. Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified.</p>
@@ -1095,7 +1005,7 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 <h3>How We Collect and Use Information</h3>
 <p>We may collect and store information, including personally identifiable information (such as your name, postal address or email address) or other information, that you voluntarily supply to us while on our Site.  Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site.  We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.</p>
 <p>We also collect, through a variety of technologies and practices, and store non-personally identifiable information that is generated automatically as you navigate through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.</p>
-<p>If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting.  For example, to disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy."  Select "High" or "Block All Cookies."  To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu.  If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site.</p>
+<p>If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting.  For example, to disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy."  Select "High" or "Block All Cookies."  To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu.  To disable Adobe flash cookies, you can use the flash management tools on Adobe’s website  <a href="http://www.adobe.com">www.adobe.com</a>. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site.</p>
 <p>The information we collect may be collected directly by us, or it may be collected by a third-party website hosting provider, or another third-party service provider, on our behalf.</p>
 <p>We use the information we collect from you while you are using the Site in a variety of ways, including, for example, to process your registration request, provide you with services and communications that you have requested, send you email updates and other communications, customize features and advertising that appear on the Site, deliver our Site content to you, measure Site traffic, measure user interests and traffic patterns, and improve the Site and the services and features offered via the Site.</p>
 <p>In addition, we may use any information submitted by or collected from you via the Site for any purpose related to the Site, including to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices and any other communications that we believe may be of interest to you.</p>
@@ -1107,10 +1017,12 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 <p>Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our <a href="http://www.delmarvanow.com/section/terms">Terms of Service</a>; or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.</p>
 <p>Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.</p>
 <h3><a name="adchoices"></a>Data Collected in Connection with Ad Serving and Targeting</h3>
+<p>We operate in compliance with the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising, www.aboutads.info.</p>
 <p>We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to collect non-personally identifiable information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.</p>
 <p>We also may use third-party service providers, including Yahoo!, to target and serve some of the advertisements you see on the pages of our Site.  We may share non-personally identifiable information, such as type of pages viewed and categories of interest, from our Site with these service providers for their use in displaying ads on our Site.  These providers may use their own cookies, web beacons and similar technologies to collect non-personally identifiable information from our Site. These service providers may use that information, sometimes in conjunction with similar non-personally identifiable information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers’ advertising networks, that are tailored to match the perceived interests of consumers. In addition, Yahoo!, which is one of our third-party advertising service providers, may use information regarding its own users to select which ads to display on this Site. The non-personally identifiable information obtained by our third-party service providers also may be used to help measure and research an advertisement’s effectiveness, or for other purposes.</p>
 <p>The data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include the IP address of your computer.</p>
 <p>The use and collection of information by third-party advertising service providers is governed by the relevant third party’s Privacy Notice and is not covered by our Privacy Notice.  If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider’s information collection practices, please <a href="http://www.delmarvanow.com/section/adnetwork">click here</a>.</p>
+<p>If you would like more information on how to opt out of information collection practices, go to <a href="http://www.aboutads.info">www.aboutads.info</a>.</p>
 <h3>Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas</h3>
 <p>Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online - for example on blogs, discussion forums, or other community posting or social networking areas of our Site - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.</p>
 <h3>Children's Privacy Statement</h3>
@@ -1165,7 +1077,7 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 <div class="footer-main">
 	<div class="footer-wrap">
 		<div class="left">
-			<ul><li><h4><a href="/section/NEWS01">NEWS</a></h4></li><li><a href="/section/NEWS01">Local News</a></li><li><a href="http://content.usatoday.com/dist/custom/gci/topicpage.aspx?cid=delmarvanow">Nation/World</a></li><li><a href="http://www.delmarvanow.com/section/7daysarchives">News Archives</a></li><li><h4><a href="http://www.legacy.com/obituaries/DelMarvaNow/">OBITUARIES</a></h4></li></ul><ul><li><h4><a href="/section/SPORTS">SPORTS</a></h4></li><li><a href="/section/SPORTS">Local Sports</a></li><li><a href="/section/HSSPORTS&amp;template=HSSPORTAL">High School Sports</a></li><li><h4><a href="/section/ENTERTAINMENT?template=cover">ENTERTAINMENT</a></h4></li><li><a href="/section/ENTERTAINMENT?template=cover">gobeachcomber.com</a></li><li><a href="http://www.cozi.com/go/?a=campaign&amp;b=COZI_GANNETT&amp;c=SALISBURY&amp;l=/landing/signup.aspx%3flink_loc%3deditpromo%3fmarket%3dSALISBURY">My Cozi Calendar</a></li><li><a href="/dating">Dating</a></li></ul><ul><li><h4><a href="/section/OPINION">OPINION</a></h4></li><li><a href="/section/OPINION">Shore Voices</a></li><li><a href="/section/CUSTOMERSERVICE20">Grapevine</a></li><li><h4><a href="/section/LIFESTYLE">SHORELIFE</a></h4></li><li><a href="/section/LIFESTYLE">Shorelife</a></li><li><a href="http://delmarva.momslikeme.com/members/exploregroups.aspx">MomsLikeMe</a></li></ul><ul><li><h4><a href="/section/BUSINESS">BUSINESS</a></h4></li><li><h4><a href="#">WEEKLIES</a></h4></li><li><a href="/section/CB">Chincoteague Beacon</a></li><li><a href="/section/DCP">Delaware Coast Press</a></li><li><a href="/section/DW">Delaware Wave</a></li><li><a href="/section/ESN">Eastern Shore News</a></li><li><a href="/section/OPI">Ocean Pines Ind.</a></li><li><a href="/section/SH">Somerset Herald</a></li><li><a href="/section/WCT">Worcester County Times</a></li><li><a href="http://health.delmarvanow.com">HealthSource</a></li></ul>
+			<ul><li><h4><a href="/section/NEWS01">NEWS</a></h4></li><li><a href="/section/NEWS01">Local News</a></li><li><a href="http://www.usatoday.com/news/">Nation/World</a></li><li><a href="http://www.delmarvanow.com/section/7daysarchives">News Archives</a></li><li><h4><a href="http://www.legacy.com/obituaries/DelMarvaNow/">OBITUARIES</a></h4></li></ul><ul><li><h4><a href="/section/SPORTS">SPORTS</a></h4></li><li><a href="/section/SPORTS">Local Sports</a></li><li><a href="/section/HSSPORTS&amp;template=HSSPORTAL">High School Sports</a></li><li><h4><a href="/section/ENTERTAINMENT?template=cover">ENTERTAINMENT</a></h4></li><li><a href="/section/ENTERTAINMENT?template=cover">gobeachcomber.com</a></li><li><a href="http://www.cozi.com/go/?a=campaign&amp;b=COZI_GANNETT&amp;c=SALISBURY&amp;l=/landing/signup.aspx%3flink_loc%3deditpromo%3fmarket%3dSALISBURY">My Cozi Calendar</a></li><li><a href="/dating">Dating</a></li></ul><ul><li><h4><a href="/section/OPINION">OPINION</a></h4></li><li><a href="/section/OPINION">Shore Voices</a></li><li><a href="/section/CUSTOMERSERVICE20">Grapevine</a></li><li><h4><a href="/section/LIFESTYLE">SHORELIFE</a></h4></li><li><a href="/section/LIFESTYLE">Shorelife</a></li></ul><ul><li><h4><a href="/section/BUSINESS">BUSINESS</a></h4></li><li><h4><a href="#">WEEKLIES</a></h4></li><li><a href="/section/CB">Chincoteague Beacon</a></li><li><a href="/section/DCP">Delaware Coast Press</a></li><li><a href="/section/DW">Delaware Wave</a></li><li><a href="/section/ESN">Eastern Shore News</a></li><li><a href="/section/OPI">Ocean Pines Ind.</a></li><li><a href="/section/SH">Somerset Herald</a></li><li><a href="/section/WCT">Worcester County Times</a></li><li><a href="http://health.delmarvanow.com">HealthSource</a></li></ul>
 		</div>
 		<div class="right">
 			<ul>
@@ -1201,7 +1113,6 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 			<li>|</li>
 			<li><a target="_blank" href="http://www.shoplocal.com">Shopping</a></li>
 			<li>|</li>
-			<li><a target="_blank" href="http://Delmarva.MomsLikeMe.com">Mom Groups</a></li>
 		</ul>
 	</div>
 </div>
@@ -1215,7 +1126,6 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 			<li><a class="footer-apts" href="http://www.apartments.com/" target="_blank"></a></li>
 			<li><a class="footer-homegain" href="http://www.homegain.com" target="_blank"></a></li>
 			<li><a class="footer-shop" href="http://www.shoplocal.com" target="_blank"></a></li>
-			<li><a class="footer-moms" href="http://Delmarva.MomsLikeMe.com" target="_blank"></a></li>
 			<li><a class="footer-career" href="http://www.careerbuilder.com" target="_blank"></a></li>
 			<li><a class="footer-eharmony" href="http://www.eharmony.com" target="_blank"></a></li>			
 		</ul>
@@ -1353,7 +1263,7 @@ GEL.thepage.initializer.addInitRoutine({
 		method of inserting the image.  Once this is implemented, 
 		the inline attachment of the s_code here can be removed 
 	*/
-	var _s = GEL.ement("SCRIPT", { src: "/odygel/lib/vendor/omniture/sitecatalyst.js" }); 
+		var _s = GEL.ement("SCRIPT", { src: "/odygel/lib/vendor/omniture/sitecatalyst.js" }); 
 	_s.setAttacher("inline"); 
 	_s.attach(); 
 })(); 
@@ -1365,57 +1275,6 @@ GEL.thepage.initializer.addInitRoutine({
 <!--Semantics Agency Trading Desk-->
 <div id="adsdaq"></div>
 <script type="text/javascript">
-(function(){
-	GEL.thepage.initializer.addInitRoutine({ 
-		name: "ADSDAQ",
-		namespace: "remoting",
-		callback: function (){ 
-			var 
-				_jscntr= GEL.ement("adsdaq"), 
-				_u= "http://atd.agencytradingdesk.net/WatsonTracker/IMP/A1000138/C1000187/P1003016/cw.jsx?t=1"
-			;
-			_jscntr.setContentUrl(_u, 'script');
-			_jscntr.updateRemoteContent(); 
-			return; 
-		}, 
-		priority: 250
-	});
-})()	
-</script>
-<script type="text/javascript">
-(function(){ 
-	GEL.register("widget.TimeWidget", {
-		type: "script", 
-		depends: ["widget"],
-		requires: [],
-		path: "widgets/time/time.js"
-	});
-	GEL.thepage.initializer.addInitRoutine({ 
-		name: "Time", 
-		namespace: ["widget.TimeWidget","util.Selector"], 
-		callback: initTime, 
-		priority: 10
-	}); 
-	function initTime(){
-		var _i = GEL.thepage.$('.clienttime').length;
-		if(_i>0){
-			GEL.thepage.Time = new GEL.widget.Time();
-			GEL.thepage.Time.init();
-			var 
-				_l = parseInt(GEL.thepage.articles.topstories.length-1),
-				_p = GEL.thepage.$('.lastupdated').length
-			;
-			if(_p>0 && GEL.thepage.articles.topstories[_l]){
-				var _t = GEL.thepage.articles.topstories[_l].moddate;
-				GEL.thepage.$('.lastupdated')[0].appendChild(document.createTextNode('Updated: '+_t));
-					if(GEL.thepage.$('.lastupdated')[1])
-						GEL.thepage.$('.lastupdated')[1].appendChild(document.createTextNode('Updated: '+_t));
-					if(GEL.thepage.$('.lastupdated')[2])
-						GEL.thepage.$('.lastupdated')[2].appendChild(document.createTextNode('Updated: '+_t));
-			}
-		}
-	};
-})(); 
 </script>
 <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js#xfbml=1" async=""></script></div>
 <div style="display: none;" id="fbLike">
@@ -1446,6 +1305,7 @@ window.fbAsyncInit = function() {
 </div>
 <div id="meebobar" class="ody-meebobar"></div>
 <script type="text/javascript">
+if (typeof meebo_ab_test == "undefined" || meebo_ab_test!=1){
 (function(){
 	var 
 		_i = GEL.thepage.pageinfo,
@@ -1458,11 +1318,6 @@ window.fbAsyncInit = function() {
 			recentActivity:"/odygci/p2/recentactivity_icon.gif"
 		}
 	};
-	var 
-		_s = GEL.ement("SCRIPT", { src: _spath })
-	; 
-	_s.setAttacher("inline"); 
-	_s.attach(); 
 	GEL.thepage.initializer.addInitRoutine({ 
 		name: "Meebo",
 		namespace: ["remoting","widget.AdBanner"],
@@ -1486,8 +1341,8 @@ window.fbAsyncInit = function() {
 		priority: 200
 	});
 })()
-</script><script id="__gelement_1" src="http://sitelife.delmarvanow.com/ver1.0/Direct/DirectProxy"></script>
-
+}
+</script>
 <script type="text/javascript">
 setTimeout(function(){ GEL.thepage.initializer.init();}, 100); 
 </script> 
@@ -1499,18 +1354,18 @@ setTimeout(function(){ GEL.thepage.initializer.init();}, 100);
 <!-- General Info
 Current page request (after SAXOTECH translation): /apps/pbcs.dll/section?Category=privacy
 Canonical Link: http://www.delmarvanow.com/section/PRIVACY
-Build date and time: 2011-06-25 22:47:20
+Build date and time: 2011-12-24 19:32:49
 -->
 <!-- Cache Build Time
-Time used: 5813 ms<br>
+Time used: 2016 ms Wait: 16 ms<br>
 <b>Starting first parse</b><br>
 .Parsing macro ody_Initialize<br>
 ..Build 0: 16 ms (Misc)<br>
 ..Parsing macro ody_Initialize_All<br>
-...Build 9: 157 ms (Content)<br>
+...Build 9: 109 ms (Content)<br>
 ..Completed macro ody_Initialize_All<br>
 ..Parsing macro ody_GetTimeOffset<br>
-...Build 9: 16 ms (Content)<br>
+...Build 9: 31 ms (Content)<br>
 ..Completed macro ody_GetTimeOffset<br>
 ...Build 0: 0 ms (Misc)<br>
 ...Build 0: 0 ms (Misc)<br>
@@ -1519,14 +1374,14 @@ Time used: 5813 ms<br>
 ...Build 0: 0 ms (Misc)<br>
 ..Parsing macro ody_Initialize_Request<br>
 ...Parsing macro ody_Initialize_Section<br>
-....Build 9: 32 ms (Content)<br>
+....Build 9: 31 ms (Content)<br>
 ...Completed macro ody_Initialize_Section<br>
-...Build 9: 63 ms (Content)<br>
+...Build 9: 109 ms (Content)<br>
 ..Completed macro ody_Initialize_Request<br>
-..Build 9: 563 ms (Content)<br>
+..Build 9: 406 ms (Content)<br>
 .Completed macro ody_Initialize<br>
 .Parsing macro ody_addecision<br>
-..Build 9: 94 ms (Content)<br>
+..Build 9: 110 ms (Content)<br>
 .Completed macro ody_addecision<br>
 .Parsing macro ody_Header<br>
 ..Parsing macro ody_HeaderRequest<br>
@@ -1539,15 +1394,9 @@ Time used: 5813 ms<br>
 ...Build 9: 94 ms (Content)<br>
 ..Completed macro ody_HeaderRequest<br>
 ..Parsing macro ody_pageinfo_script<br>
-...Build 9: 31 ms (Content)<br>
+...Build 9: 47 ms (Content)<br>
 ..Completed macro ody_pageinfo_script<br>
-..Parsing macro ody_semantics_wrapper<br>
-...Parsing macro ody_semantics<br>
-....Build 9: 3093 ms (Content)<br>
-...Completed macro ody_semantics<br>
-...Build 9: 3125 ms (Content)<br>
-..Completed macro ody_semantics_wrapper<br>
-..Build 9: 3719 ms (Content)<br>
+..Build 9: 484 ms (Content)<br>
 .Completed macro ody_Header<br>
 .Parsing macro ody_nav<br>
 .Completed macro ody_nav<br>
@@ -1555,19 +1404,19 @@ Time used: 5813 ms<br>
 ..Parsing macro ody_getPrivacy<br>
 ...Build 0: 203 ms (Misc)<br>
 ..Completed macro ody_getPrivacy<br>
-..Build 9: 250 ms (Content)<br>
+..Build 9: 266 ms (Content)<br>
 .Completed macro ody_gen3_content<br>
 .Parsing macro ody_Footer<br>
 ..Parsing macro ody_analytics<br>
-...Build 9: 78 ms (Content)<br>
+...Build 9: 62 ms (Content)<br>
 ..Completed macro ody_analytics<br>
 ..Parsing macro ody_meebobar<br>
 ...Parsing macro ody_meebo_adcall<br>
-....Build 9: 62 ms (Content)<br>
+....Build 9: 0 ms (Content)<br>
 ...Completed macro ody_meebo_adcall<br>
-...Build 9: 109 ms (Content)<br>
+...Build 9: 31 ms (Content)<br>
 ..Completed macro ody_meebobar<br>
-..Build 9: 672 ms (Content)<br>
+..Build 9: 375 ms (Content)<br>
 .Completed macro ody_Footer<br>
 .Parsing macro ody_DebugInfo<br>
 -->
