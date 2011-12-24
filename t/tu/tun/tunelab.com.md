@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tunelab.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625043950id_/http%3A//tunelab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tunelab.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224101808id_/http%3A//tunelab.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TuneLab
+# tunelab™ | Privacy Policy
 
 TuneLab Music has developed this privacy statement to illustrate our desire to protect you and display our commitment to privacy. It is important that you read the following privacy policy. Agreement with the policies set forth in this document is a condition of use for this site. be sure to understand the information that we gather and for what purposes before entering the site.
 
