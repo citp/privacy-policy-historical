@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hi5networks.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623215705id_/http%3A//www.hi5.com/friend/displayPrivacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hi5networks.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224195400id_/http%3A//www.hi5.com/friend/displayPrivacy.do) for the most accurate reproduction.*
 
-# hi5 | Social Entertainment
+# Play Free Online Games at hi5!
 
 **hi5 Privacy Policy**  
 hi5 offers an online place to meet friends. This Privacy Policy is intended to inform you of hi5's policies and practices regarding the collection, use and disclosure of any Personal Information you submit to us through our Sites.
@@ -81,9 +81,9 @@ We do not intentionally gather Personal Information about visitors who are under
 **Contact Us**  
 Should you have any questions or concerns regarding this Privacy Policy, please contact us:
 
-            hi5 Networks, Inc.  
-            55 2nd St., Suite 400  
-            San Francisco, CA 94105  
+            hi5  
+            110 Pacific Mall Box #117  
+            San Francisco, CA. 94111  
             USA  
             Attn: Privacy Department  
             privacy@hi5.com
@@ -91,4 +91,7 @@ Should you have any questions or concerns regarding this Privacy Policy, please 
  **Changes to this Privacy Policy**  
 hi5 may update this policy from time to time. We will notify you about significant changes in the way we treat Personal Information by sending a notice to the primary email address specified in your hi5 account or by placing a prominent notice on our Sites. If you object to any such changes, you must cease using our Sites. Continued use of our Sites following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
-This Policy was last updated in December 2010.
+ **Document Retention Schedule**  
+All personal information collected by hi5 in connection with your use of the hi5 website, including, without limitation, your name, location, email address, pictures, friend connections, messages, comments, login information, ip addresses and other data, will be stored by hi5 indefinitely in a safe and secure manner.
+
+This Policy was last updated in December 2011.
