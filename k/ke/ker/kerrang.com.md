@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kerrang.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618012632id_/http%3A//www.kerrang.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kerrang.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224093918id_/http%3A//www.kerrang.com/privacy) for the most accurate reproduction.*
 
 # Kerrang! Privacy Policy
 
