@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftc.gov privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624121701id_/http%3A//ftc.gov/ftc/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftc.gov privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224190835id_/http%3A//www.ftc.gov/ftc/privacy.shtm) for the most accurate reproduction.*
 
 # Federal Trade Commission
 
@@ -56,8 +56,8 @@ When you contact us to help you with a problem, any personal information you pro
 Write to the FTC's Chief Privacy Officer:
 
 Federal Trade Commission  
-600 Pennsylvania Avenue, NW H-466  
-Washington, DC 20580  
+600 Pennsylvania Ave, NW H-342  
+Washington DC 20580  
 [cpo@ftc.gov](mailto:cpo@ftc.gov?subject=FTC%20Privacy%20Policy)
 
 ## Questions About Identity Theft & Online Issues 
