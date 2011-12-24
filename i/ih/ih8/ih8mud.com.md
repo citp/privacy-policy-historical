@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ih8mud.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624225626id_/http%3A//www.ih8mud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ih8mud.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224115419id_/http%3A//www.ih8mud.com/privacy) for the most accurate reproduction.*
 
-# Legal and Privacy Policy :: Your Online Offroad 4×4 Tech Resource – IH8MUD.com
+# Legal and Privacy Policy - Your Online Offroad 4x4 Tech Resource - IH8MUD.com :: Your Online Offroad 4×4 Tech Resource – IH8MUD.com
 
 This legal statement discloses the practices for the websites and information hosted by IH8MUD Inc. and located at http://www.ih8mud.com and http://www.rockcrawler.com and all related subdomains, including http://forum.ih8mud.com, http://wiki.ih8mud.com, http://gallery.ih8mud.com, http://www.cruiserfaq.com, etc.
 
@@ -9,6 +9,12 @@ This legal statement discloses the practices for the websites and information ho
 This website is for reference and entertainment purposes only. By the use of this site or by clicking any images, buttons or text links, you accept these terms and conditions and acknowledge that your use of IH8MUD.com or RockCrawler.com and its related sites is subject to the terms and conditions outlined as follows. IH8MUD Inc. is in no way responsible or liable for any injuries or damages incurred because of the use of information provided or linked within these sites.
 
 All content posted on IH8MUD.com/RockCrawler.com becomes the property of IH8MUD Inc. (unless otherwise stated) based on copyright law and may not be duplicated elsewhere without written permission.
+
+#### Notification of Changes
+
+We reserve the right, at our sole discretion, to change, modify or otherwise alter these terms and conditions at any time. Such modifications shall become effective immediately upon the posting thereof. You must review this agreement on a regular basis to keep yourself apprised of any changes. You can find the most recent version of the TOU at: <http://www.ih8mud.com/privacy>/
+
+All corporate trademarks are the property of their respective owners and are used to refer to those specific products or activities related to those products. IH8MUD Inc’s use of these trademarks in its stories in no way infers that any relationship exists between IH8MUD Inc. and the trademark owner.
 
 #### Registration
 
@@ -41,7 +47,7 @@ Currently, IH8MUD.com has relationships with the following third-party ad server
 
 
 
-Cookies
+#### Cookies
 
 We use third-party companies to serve ads and collect non-personally identifiable information ( _e.g.,_ the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp) (link to the NAI universal user opt-out).
 
@@ -77,21 +83,17 @@ If a user’s personally identifiable information changes (such as your zip code
 
 Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information. Users who no longer wish to receive email from us may opt-out of receiving these communications by changing it in their profile.
 
-#### Notification of Changes
-
-If we decide to change our privacy policy, we will email those changes in a communication to all members, so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
-
-All corporate trademarks are the property of their respective owners and are used to refer to those specific products or activities related to those products. IH8MUD Inc’s use of these trademarks in its stories in no way infers that any relationship exists between IH8MUD Inc. and the trademark owner.
-
 #### Liability
 
 Any or all activities and/or actions depicted in this site may be hazardous, the authors of this material only relate their personal experiences. This website does not endorse or recommend any particular activity or action. Use common sense and discretion before engaging in any activity.
+
+IH8MUD and RockCrawler provide a collection of online resources, including classified ads, forums, and various other services.  By using these service in any way, you are agreeing to comply with site policies. In addition, when using particular service, you agree to abide by any applicable posted guidelines for all services, which may change from time to time. Should you object to any term or condition, any guidelines, or any subsequent modifications thereto or become dissatisfied in any way, your only recourse is to immediately discontinue use of these sites. We reserve the right, but are not obligated, to strictly enforce site policies through self-help, community moderation, active investigation, litigation and prosecution.
 
 IH8MUD Inc. assumes no liability for your use of the material contained within this site.
 
 #### Forum/Bulletin Board
 
-Our Forum is visited by members of the general public. IH8MUD Inc. is in no way liable for actions direct or indirect, caused by people’s posts and opionions.
+Our Forum is visited by members of the general public. IH8MUD Inc. is in no way liable for actions direct or indirect, caused by people’s posts and opionions.   You understand that all postings, messages, text, files, images, photos, video, sounds, or other materials (“Content”) posted on, transmitted through, or linked from IH8MUD/RockCrawler, are the sole responsibility of the person from whom such Content originated. More specifically, you are entirely responsible for each individual item (“Item”) of Content that you post, email or otherwise make available via the Service. You understand that IH8MUD/RockCrawler does not control, and is not responsible for Content made available, and that by using these sites, you may be exposed to Content that is offensive, indecent, inaccurate, misleading, or otherwise objectionable. Furthermore, IH8MUD/RockCrawler and Content available through the Service may contain links to other websites, which are completely independent. IH8MUD Inc. makes no representation or warranty as to the accuracy, completeness or authenticity of the information contained in any such site. Your linking to any other webites is at your own risk. You agree that you must evaluate, and bear all risks associated with, the use of any Content, that you may not rely on said Content, and that under no circumstances will IH8MUD Inc. be liable in any way for any Content or for any loss or damage of any kind incurred as a result of the use of any Content posted, emailed or otherwise made available. You acknowledge that IH8MUD Inc. does not pre-screen or approve Content, but  shall have the right (but not the obligation) in its sole discretion to refuse, delete or move any Content that is available via the Service, for violating the letter or spirit of the policies or for any other reason.
 
 #### Contact Us
 
