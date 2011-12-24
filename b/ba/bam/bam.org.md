@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bam.org privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626014251id_/http%3A//www.bam.org/view.aspx%3Fpid%3D2769) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bam.org privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224145844id_/http%3A//www.bam.org/view.aspx%3Fpid%3D2769) for the most accurate reproduction.*
 
 # BAM | Privacy Policy
 
-[**Click here**](https://web.archive.org/web/20110626014251id_/http%3A//www.bam.org/view.aspx?pid=72) to view previous Privacy Policy
+[**Click here**](https://web.archive.org/web/20111224145844id_/http%3A//www.bam.org/view.aspx?pid=72) to view previous Privacy Policy
 
 Effective: Nov 10, 2010
 
