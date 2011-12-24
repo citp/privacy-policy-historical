@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtouch.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531003805id_/http%3A//www.realtouch.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtouch.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224210024id_/http%3A//www.realtouch.com/legal/privacy) for the most accurate reproduction.*
 
 # RealTouch Network
 
