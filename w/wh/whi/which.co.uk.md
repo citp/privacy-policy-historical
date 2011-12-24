@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the which.co.uk privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625202026id_/http%3A//www.which.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the which.co.uk privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224132931id_/http%3A//www.which.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Which? Privacy policy
 
@@ -41,6 +41,12 @@ We do not pass your details (email, address, telephone, IP address, cookie detai
 We will only keep information about you for as long as we need to. We make sure that any companies which process your data on our behalf do the same. We have an internal retention policy where there are varying retention periods for different categories of information depending on our legal obligations and whether there is a commercial need, such as answering member account queries.
 
 After a retention period has elapsed, the data is deleted.
+
+## How do we keep your information secure?
+
+Which? takes the security of our customers’ data very seriously. We use multiple layers of firewalls to ensure user data is kept as secure as possible, specialist devices to detect and prevent intrusion attempts, and encryption systems to ensure data is scrambled while being transmitted from system to system. We employ equally rigorous physical security policies to prevent physical access to our data centres. We perform regular system patching, and employ an independent security company to perform penetration tests (authorised attempts to try to hack our systems to show any risks) annually and whenever we bring new systems online.
+
+We ensure third parties employ the same rigour when handling data, ensuring they apply security far in excess of regulatory requirements.
 
 ## Marketing
 
