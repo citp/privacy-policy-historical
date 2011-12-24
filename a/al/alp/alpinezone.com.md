@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625032404id_/http%3A//www.alpinezone.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224132604id_/http%3A//www.alpinezone.com/privacy.htm) for the most accurate reproduction.*
 
 # AlpineZone.com Disclaimer and Terms of Use
 
@@ -7,35 +7,89 @@
 **[ Latest Headlines](http://news.alpinezone.com/) **[](http://rss.alpinezone.com/news.php)  
   
 ---  
- [Loon Mountain Hosts Papermill Theatre's Summer 2011 Mainstage Performance...](http://news.alpinezone.com/97374/)  
-   2:57 PM \- Jun 24, 2011   
+ [Okemo Salutes its Snowmakers...](http://news.alpinezone.com/105390/)  
+   3:35 PM \- Dec 21, 2011   
   
- [PSIA-AASI Renews Official Supplier Partnership with Subaru of America...](http://news.alpinezone.com/97373/)  
-    2:56 PM \- Jun 24, 2011   
+ [Mount Snow Hires Ski Industry Veteran Matt Gebo as Marketing and Events Director...](http://news.alpinezone.com/105389/)  
+    3:34 PM \- Dec 21, 2011   
   
- [Big Beers Festival Organizer Grants Interview Co-Founder Laura Lodge Discusses Event...](http://news.alpinezone.com/97372/)  
-    2:56 PM \- Jun 24, 2011   
+ [Three New England Resorts Offer Discounts for US Armed Forces and their Families...](http://news.alpinezone.com/105388/)  
+    3:33 PM \- Dec 21, 2011   
   
- [Attitash Mountain Resort Celebrates 35 Years of Summer Fun on Friday, July 1...](http://news.alpinezone.com/97371/)  
-    2:55 PM \- Jun 24, 2011   
+ [30 Rock Comes to Jay Peak Resort...](http://news.alpinezone.com/105387/)  
+    3:32 PM \- Dec 21, 2011   
   
- [Tin Mountain Conservation Center &amp; Appalachian Mountain Club Offer Free Guided Tours...](http://news.alpinezone.com/97370/)  
-    2:55 PM \- Jun 24, 2011   
+ [Burke Mountain Introduces New Lift, Slopeside Community, and More...](http://news.alpinezone.com/105386/)  
+    3:31 PM \- Dec 21, 2011   
   
- [Deadline for Savings on Saddleback Season Ski Passes is July 4th...](http://news.alpinezone.com/97369/)  
-    2:54 PM \- Jun 24, 2011   
+ [ORDA Winter Athletes Update #4...](http://news.alpinezone.com/105385/)  
+    3:30 PM \- Dec 21, 2011   
   
- [Preston Smith, Killington Founder, to be Inducted into Ski &amp; Snowboard Hall of Fame...](http://news.alpinezone.com/97368/)  
-    2:54 PM \- Jun 24, 2011   
+ [Vail Mountain Announces State of the Art Gondola to Replace Vista Bahn Express Lift...](http://news.alpinezone.com/105383/)  
+    3:30 PM \- Dec 21, 2011   
   
- [AbilityPlus Adaptive Sports Founder Kathy Chandler to Lead Development Efforts...](http://news.alpinezone.com/97367/)  
-    2:52 PM \- Jun 24, 2011   
+ [Safely Skate, Slide and Glide through Winter...](http://news.alpinezone.com/105382/)  
+    3:29 PM \- Dec 21, 2011   
   
- [PSIA-AASI Welcomes HEAD USA as Official Supplier of Ski and Snowboard Equipment...](http://news.alpinezone.com/97191/)  
-    2:21 PM \- Jun 21, 2011   
+ [With Little Natural Snowfall, Mount Snow's Powerful Snowmaking System Flexes Muscles...](http://news.alpinezone.com/105381/)  
+    3:27 PM \- Dec 21, 2011   
   
- [KILLINGTON RESORT KICKS OFF SUMMER SEASON WITH UNITED WAY FUNDRAISER ON FRI, JULY 1st...](http://news.alpinezone.com/97189/)  
-    2:20 PM \- Jun 21, 2011   
+ [Holiday Valley Making Snow...](http://news.alpinezone.com/105380/)  
+    3:26 PM \- Dec 21, 2011   
+  
+  
+  
+**[ Recent Discussions](http://forums.alpinezone.com/) **[](http://rss.alpinezone.com/forums.php)  
+  
+---  
+ [Balsams Wilderness...](http://forums.alpinezone.com/showthread.php?t=103812&goto=newpost)  
+   10:29 PM \- Nov 6, 2011   
+    by billski  
+  
+  
+ [Waterville 12-23-11...](http://forums.alpinezone.com/showthread.php?t=105499&goto=newpost)  
+    1:24 AM \- Dec 24, 2011   
+    by Northernflight  
+  
+  
+ [The Hobbit!...](http://forums.alpinezone.com/showthread.php?t=105500&goto=newpost)  
+    1:39 AM \- Dec 24, 2011   
+    by Northernflight  
+  
+  
+ [Aspen and Other West...](http://forums.alpinezone.com/showthread.php?t=105455&goto=newpost)  
+    12:41 AM \- Dec 23, 2011   
+    by UVSHTSTRM  
+  
+  
+ [Dear Santa.......](http://forums.alpinezone.com/showthread.php?t=105485&goto=newpost)  
+    3:01 PM \- Dec 23, 2011   
+    by billski  
+  
+  
+ [Who is hotter? Linds...](http://forums.alpinezone.com/showthread.php?t=72432&goto=newpost)  
+    11:43 AM \- Feb 19, 2010   
+    by jaywbigred  
+  
+  
+ [Can you make snow wi...](http://forums.alpinezone.com/showthread.php?t=87884&goto=newpost)  
+    6:08 AM \- Dec 18, 2010   
+    by powhunter  
+  
+  
+ [Under consideration...](http://forums.alpinezone.com/showthread.php?t=105496&goto=newpost)  
+    10:09 PM \- Dec 23, 2011   
+    by billski  
+  
+  
+ [Merry Christmas !...](http://forums.alpinezone.com/showthread.php?t=105479&goto=newpost)  
+    10:22 AM \- Dec 23, 2011   
+    by Nick  
+  
+  
+ [GoPro HD 1080P for $...](http://forums.alpinezone.com/showthread.php?t=105200&goto=newpost)  
+    10:13 AM \- Dec 17, 2011   
+    by mlctvt  
   
   
    
@@ -107,9 +161,10 @@ Top
 **Questions?**  
 If you have any questions regarding our Privacy Policy, contact:
 
-Greg Blasko  
+Nick Reuter  
+Co-Owner, Double Black Diamond, LLC  
 AlpineZone.com  
-(203) 206-9147  
+774-481-1114  
 [contact@alpinezone.com](mailto:contact@alpinezone.com)
 
 Top
