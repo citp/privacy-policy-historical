@@ -1,136 +1,515 @@
-<!--The following is the downloaded HTML source of the kpit.com privacy policy that was archived on 2010-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226185336id_/http%3A//kpitcummins.com/privacypolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kpit.com privacy policy that was archived on 2011-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111224030528id_/http%3A//www.kpitcummins.com/home/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Privacy Policy - KPIT Cummins Infosystems</title>
-<meta name="description" content="Privacy Policy - KPIT Cummins believes in integrity and security for the information that is made available or revealed by the user on the website. KPIT Cummins understands the importance of the nature of the information and the need for securing the same">
-<meta name="keywords" content="privacy policy. terms of use, cookies and other technologies, mailers, antispam policy">
-<link href="default.css" rel="stylesheet" type="text/css">
-<script type="text/JavaScript">
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<meta http-equiv="Content-Type" content="text/html" charset="utf-8">
+<title>KPIT Cummins Privacy Policy</title>
+<meta name="description" content="KPIT Cummins believes in integrity and security for the information that is made available or revealed by the user on the website.">
+<meta name="keywords" content="Privacy Policy">
+<link rel="icon" type="image/x-icon" href="http://www.kpitcummins.com//favicon.ico">
+<link href="http://www.kpitcummins.com/styles/common_kpit.css" rel="stylesheet" type="text/css">
+<link href="http://www.kpitcummins.com/styles/inside_kpit.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.kpitcummins.com/scripts/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.kpitcummins.com//scripts/jq/jquery-ui-1.8.7.custom.min.js"></script>
+<link type="text/css" href="http://www.kpitcummins.com//styles/ui-lightness/jquery-ui-1.8.7.custom.css" rel="stylesheet">
+<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css">
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js" type="text/javascript"></script>
+
+<script src="http://www.kpitcummins.com/scripts/utility.js" type="text/javascript"></script>
+
+<script src="http://www.kpitcummins.com/scripts/java.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.kpitcummins.com/scripts/pdfobject.js"></script>
+<script type="text/javascript" src="http://www.kpitcummins.com/js/popup.js"></script>
+<script type="text/javascript">
+function showCommentPopup (){
+		testpopup5 = new PopupWindow("pdfWindow");
+		testpopup5.offsetY=50;
+		testpopup5.offsetX=screen.width/2 - 400;
+		testpopup5.showPopup('content-body');
+}
+function hidePopup(){
+		testpopup5.hidePopup();
 }
 
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
-</script>
-<script language="javascript">
-<!--
-function holdings()
+function addOptionElement(addTo, text, value)
 {
-	var x=document.quicklinks.menu1.selectedIndex;
-	switch(x)
+        var opt = document.createElement("option");
+        addTo.options.add(opt);
+        opt.text = text;
+        opt.value = value;
+}
+function addressFilterChanged()
+{
+    hideallContact();
+	if(document.getElementById('addressFilter').value == "All")
 	{
-		case 1:	window.open( 'http://www.kpitcummins.com/french/index.php', 'French' )
-				break;
-		case 2:	window.open( 'http://www.kpitcummins.com/german/index.php', 'German' )
-				break;
-		case 3:	window.open( 'http://www.kpitcummins.com/japanese/index.php', 'Japanese' )
-				break;
-		case 4:	window.open( 'http://www.kpitcummins.com/polish/index.php', 'Polish' )
-				break;
+		showcontactdiv('divaddruk');
+		showcontactdiv('divaddrpoland');
+		showcontactdiv('divaddrfrance');
+		showcontactdiv('divaddrgermany');
+		showcontactdiv('divaddrusa');
+		showcontactdiv('divaddrindia');
+		showcontactdiv('divaddrjapan');
+		showcontactdiv('divaddrsingapore');
+		showcontactdiv('divaddrkorea');
+		showcontactdiv('divaddrsa');
+		showcontactdiv('divaddrchina');
+	}else{
+		showcontactdiv('divaddr'+document.getElementById('addressFilter').value);
 	}
 }
--->
+function showcontactdiv(divid) {
+    var div = document.getElementById(divid);
+	if(div)
+		div.style.display = "block";
+}
+function hideallContact()
+{
+	var div = document.getElementById('divaddruk');
+	div.style.display = "none";
+	div = document.getElementById('divaddrusa');
+	div.style.display = "none";
+	div = document.getElementById('divaddrindia');
+	div.style.display = "none";
+	div = document.getElementById('divaddrjapan');
+	div.style.display = "none";
+	div = document.getElementById('divaddrsingapore');
+	div.style.display = "none";
+	div = document.getElementById('divaddrsa');
+	div.style.display = "none";
+	div = document.getElementById('divaddrpoland');
+	div.style.display = "none";
+	div = document.getElementById('divaddrgermany');
+	div.style.display = "none";
+	div = document.getElementById('divaddrfrance');
+	div.style.display = "none";
+	div = document.getElementById('divaddrchina');
+	div.style.display = "none";
+}
+
+function popOutImage(ihref, iwidth, iheight)
+{
+}
+
+function popOutPDF(pdf){
+	var myParams = { 
+	  url: pdf,
+	  pdfOpenParams: { view: "FitV" },
+	  width: "800px",
+	  height: "500px"
+	};
+
+	var myPDF = new PDFObject(myParams).embed("pdfContents"); //returns reference to new HTML <object>
+	showCommentPopup();
+}
+function ApplyDefault()
+{
+	var div = document.getElementById('tabs-1');
+	if(div)
+		div.style.display = "none";
+	div = document.getElementById('tabs-2');
+	if(div)
+		div.style.display = "none";
+	div = document.getElementById('tabs-3');
+	if(div)
+		div.style.display = "none";
+	div = document.getElementById('tabs-4');
+	if(div)
+		div.style.display = "none";
+		
+	div = document.getElementById('divtabs-1');
+	if(div)
+		div.className = "divtabs";
+	
+	div = document.getElementById('divtabs-2');
+	if(div)
+		div.className = "divtabs";
+	
+	div = document.getElementById('divtabs-3');
+	if(div)
+		div.className = "divtabs";
+	
+	div = document.getElementById('divtabs-4');
+	if(div)
+		div.className = "divtabs";
+		
+}
+function showtabbeddiv(link)
+{
+	ApplyDefault();
+
+	
+	if(link.id == 'lnktab-1')
+	{
+		document.getElementById('tabs-1').style.display = "block";
+		var div = document.getElementById('divtabs-1');
+		div.className = "divtabs_selected";
+	}
+	if(link.id == 'lnktab-2')
+	{
+		document.getElementById('tabs-2').style.display = "block";		
+		var div = document.getElementById('divtabs-2');
+		div.className = "divtabs_selected";
+	}
+	if(link.id == 'lnktab-3')
+	{
+		document.getElementById('tabs-3').style.display = "block";		
+		var div = document.getElementById('divtabs-3');
+		div.className = "divtabs_selected";
+	}
+	if(link.id == 'lnktab-4')
+	{
+		document.getElementById('tabs-4').style.display = "block";		
+		var div = document.getElementById('divtabs-4');
+		div.className = "divtabs_selected";
+	}
+	
+}
 </script>
+  <script type="text/javascript">
+      $(document).ready(function() {
+          $(".dropdown dt a").click(function() {
+              $(".dropdown dd ul").toggle();
+          });              
+			
+          $(".dropdown dd ul li a").click(function() {
+              var text = $(this).html();
+              $(".dropdown dt a span").html(text);
+              $(".dropdown dd ul").hide();
+              $("#result").html("Selected value is: " + getSelectedValue("sample"));
+          });
+          $(document).bind('click', function(e) {
+              var $clicked = $(e.target);
+              if (! $clicked.parents().hasClass("dropdown"))
+                  $(".dropdown dd ul").hide();
+          });
+		  switchTabOnLoad();
+      });
+	  function switchTabOnLoad()
+	  {
+		  var urlParts = document.location.href.split('#');
+		  if(urlParts.length > 1)
+		  {
+			showtabbeddiv(document.getElementById('lnk'+urlParts[1]));
+		  }
+	  }
+	  function hideMenu()
+	  {
+		document.getElementById('languageDropDown').style.display = 'none';
+	  }
+  </script>
+<!--Google Analytics code start-->
+<script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19707743-1']);
+  _gaq.push(['_setDomainName', 'kpitcummins.com']);
+  _gaq.push(['_setAllowHash', 'false']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script><!--Google Analytics code end-->  
 </head>
-<body onload="MM_preloadImages('images/nav_fao_on.gif','images/nav_ptt_on.gif','images/nav_ideas_on.gif','images/nav_semi_on.gif')">
-<form name="quicklinks">
+<body id="content-body" name="content-body" onload="MM_preloadImages('../images/mainmenu/mainmenu_bg.jpg', '../images/mainmenu/mainmenu_bg_hover.jpg', '../images/mainmenu/submenu_hover.png');menuinit();" onclick="hideMenu();">
 <!--Start Wrapper-->
-<div class="wrapper">
+<div class="Wrapper">
+<table cellpadding="0" cellspacing="0" border="0" width="1004" align="center">
+<tbody><tr>
+<td width="7" class="tdLeft"></td>
+<td class="tdMiddle" valign="top">
   <!--Start InnerWrapper-->
   <div class="innerWrapper">
-    <!-- Start top navigation -->
-    <div class="topNavigation">
-      <!-- Start Primary Navigation -->
-      <!--Primary Navigation-->
-      <div class="primarynavigation"> 
-<a href="index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image23','','images/home-on.gif',1)"><img src="images/home-off.gif" alt="Home" title="Home" name="Image23" width="59" height="14" hspace="0" vspace="0" border="0" align="absmiddle" id="Image23"></a><img src="images/nav_pipe.gif" width="1" height="14" hspace="0" align="absmiddle" vspace="0" border="0"><a href="corporate/index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image39','','images/aboutus-on.gif',1)"><img src="images/aboutus-off.gif" alt="About Us" title="About Us" name="Image39" width="61" height="14" hspace="0" vspace="0" border="0" align="absmiddle" id="Image39"></a><img src="images/nav_pipe.gif" width="1" height="14" hspace="0" align="absmiddle" vspace="0" border="0"><a href="investors/index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image40','','images/investors-on.gif',1)"><img src="images/investors-off.gif" alt="Investors" name="Image40" width="62" height="14" hspace="0" vspace="0" border="0" align="absmiddle" title="Investors" id="Image40"></a><img src="images/nav_pipe.gif" width="1" align="absmiddle" height="14" hspace="0" vspace="0" border="0"><a href="processes/index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image42','','images/processes-excellence-on.gif',1)"><img src="images/processes-excellence-off.gif" alt="Process Excellence" name="Image42" width="118" height="14" hspace="0" vspace="0" title="Process Excellence" border="0" align="absmiddle" id="Image42"></a><img src="images/nav_pipe.gif" width="1" height="14" hspace="0" vspace="0" border="0" align="absmiddle"><a href="careers/index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image44','','images/careers-on.gif',1)"><img src="images/careers-off.gif" alt="Careers" title="Careers" name="Image44" width="54" height="14" hspace="0" vspace="0" border="0" align="absmiddle" id="Image44"></a><img src="images/nav_pipe.gif" width="1" height="14" hspace="0" vspace="0" border="0" align="absmiddle"><a href="newsandevents/index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image46','','images/newsandevents-on.gif',1)"><img src="images/newsandevents-off.gif" alt="News &amp; Events" name="Image46" width="91" height="14" title="News &amp; Events" hspace="0" vspace="0" border="0" align="absmiddle" id="Image46"></a><img src="images/nav_pipe.gif" width="1" height="14" hspace="0" vspace="0" border="0" align="absmiddle"><a href="contactus/index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image48','','images/contactus-on.gif',1)"><img src="images/contactus-off.gif" alt="Contact us" name="Image48" width="70" height="14" hspace="0" title="Contact us" vspace="0" border="0" align="absmiddle" id="Image48"></a><img src="images/nav_pipe.gif" width="1" height="14" hspace="0" vspace="0" border="0" align="absmiddle"><a href="sitemap.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image50','','images/sitemap-on.gif',1)"><img src="images/sitemap-off.gif" alt="SiteMap" title="SiteMap" name="Image50" width="48" height="14" hspace="0" vspace="0" border="0" align="absmiddle" id="Image50"></a><img src="images/select_language.gif" width="96" height="14" style="margin-left:20px; margin-top:6px;"><a href="#"></a> 
-        <select name="menu1" onchange="holdings();" style="width:134px; BORDER-RIGHT: #6e8fad 1px solid; FONT-SIZE: 10px; BORDER-LEFT: #6e8fad 1px solid; WIDTH: 100px; BORDER-BOTTOM: #6e8fad 1px solid; font-family:Trebuchet MS;">
-								<option value="0" selected="">Select Language</option>
-
-								<option value="">French</option>
-								<option value="">German</option>
-								<option value="">Japanese</option>
-								<option value="">Polish</option>
-							</select></div>
-      <!-- End Primary Navigation -->
-    </div>
-
-    <!-- End top navigation -->
     <!-- Start KPIT -->
-    <div class="kpit"><a href="http://www.kpitcummins.com/" title="KPIT Cummins Infosystems Limited"><img src="images/kpit-logo.gif" alt="KPIT Cummins Infosystems Limited" width="101" height="67" hspace="0" vspace="0" border="0" style="float:left; "></a>
-      <!--Start of Verticals-->
-      <div class="vertical"> <img src="images/verticals.gif" alt="Verticals" title="Verticals" width="67" height="18" hspace="0" vspace="0" border="0" style="float:left;"><br>
-        <div class="manufacturing"><a href="../manufacturing/index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image28','','images/manufacturing-on.gif',1)" title="Manufacturing"><img src="images/manufacturing-off.gif" alt="Manufacturing" name="Image28" width="91" height="9" border="0" id="Image28"></a><span style=" font-size:14px;color:#006699;"> | </span><a href="../dfs/index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image29','','images/diversified-financial-services-on.gif',1)" title="Diversified Financial Services"><img src="images/diversified-financial-services-off.gif" alt="Diversified Financial Services" name="Image29" width="175" height="9" border="0" id="Image29"></a></div><p class="manufacuring_subtitle"><a href="../manufacturing/automotive.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image21','','images/automotive-header-on.gif',1)" title="Automotive"><img src="images/automotive-header-off.gif" alt="Automotive" name="Image21" width="64" height="9" border="0" id="Image21" hspace="o" vspace="4"></a><br><a href="../manufacturing/hitech.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image22','','images/hitech-header-on.gif',1)" title="Hi-Tech"><img src="images/hitech-header-off.gif" alt="Hi-Tech" name="Image22" width="43" height="9" border="0" id="Image22" hspace="0" vspace="4"></a><br><a href="../manufacturing/industrial.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image99','','images/industrials-on.gif',1)" title="Industrials"><img src="images/industrials-off.gif" alt="Industrials" name="Image99" width="57" height="9" border="0" id="Image99" hspace="0" vspace="4"></a></p></div>
-      <!--End of Verticals-->
 
-      <!--Start of Offerings-->
-      <div class="offerings"><img src="images/offerings.gif" alt="Offerings" title="Offerings" width="69" height="18" hspace="0" vspace="0" border="0"><br><div class="advanced">
-<a href="../ats/index.htm" onmouseover="MM_swapImage('Image30','','images/advanced-technology-solutions-on.gif',1)" onmouseout="MM_swapImgRestore()" title="Advanced Technology Solutions"><img src="images/advanced-technology-solutions-off.gif" alt="Advanced Technology Solutions" name="Image30" width="202" height="9" border="0" id="Image30"></a>&nbsp;<span style="font-size:14px;color:#006699;">| </span><a href="../eit/index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image31','','images/enterprise-it-on.gif',1)" title="Enterprise IT"><img src="images/enterprise-it-off.gif" alt="Enterprise IT" name="Image31" width="80" height="9" border="0" id="Image31"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size:14px;color:#006699;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</span><a href="../gbs/index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image32','','images/bpo-kpo-on.gif',1)" title="BPO/KPO"><img src="images/bpo-kpo-off.gif" alt="BPO/KPO" name="Image32" width="50" height="9" border="0" id="Image32"></a></div><p class="aes"><a href="../ats/automotiveelectronics/index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image33','','images/automotive-electronics-on.gif',1)" title="Automotive Electronics"><img src="images/automotive-electronics-off.gif" alt="Automotive Electronics" name="Image33" width="129" height="9" hspace="0" vspace="4" border="0" id="Image33"></a><a href="../ats/mechanical-design/index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image98','','images/mechanical-design-on.gif',1)" title="Mechanical Design"><img src="images/mechanical-design-off.gif" alt="Mechanical Design" name="Image98" width="101" height="12" border="0" id="Image98" hspace="0" vspace="4"></a><a href="../ats/semiconductor/index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image34','','images/semi-conductorsolutions-off.gif',1)" title="Semiconductor Solutions"><img src="images/semi-conductorsolutions-on.gif" alt="Semiconductor Solutions" name="Image34" width="136" height="9" border="0" id="Image34"></a></p>
-<p class="eit"><a href="../eit/focus_erp.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image35','','images/erp-on.gif',1)" title="ERP"><img src="images/erp-off.gif" alt="ERP" name="Image35" width="20" height="9" hspace="2" vspace="4" border="0" id="Image35"></a><br><a href="../eit/bi_services.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image36','','images/business-intelligence-services-on.gif',1)" title="Business Intelligence"><img src="images/business-intelligence-services-off.gif" alt="Business Intelligence" name="Image36" width="116" height="12" hspace="2" vspace="0" border="0" id="Image36"></a></p><p class="bpo"><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image37','','images/finance-accounting-on.gif',1)"></a><a href="../gbs/financeandaccounting.htm" onmouseover="MM_swapImage('Image37','','images/finance-accounting-on.gif',1)" onmouseout="MM_swapImgRestore()" title="Finance &amp; Accounting"><img src="images/finance-accounting-off.gif" alt="Finance &amp; Accounting" name="Image37" width="120" height="12" hspace="0" vspace="3" border="0" id="Image37"></a><a href="../gbs/riskmanagement.htm" onmouseover="MM_swapImage('Image38','','images/risk-management-on.gif',1)" onmouseout="MM_swapImgRestore()" title="Risk Management"><img src="images/risk-management-off.gif" alt="Risk Management" name="Image38" width="95" height="12" hspace="0" vspace="0" border="0" id="Image38"></a>
-</p>
+    <div style="float:right; margin-top:5px;">
+      	<a href="http://www.kpitcummins.com/"><img alt="Home" src="http://www.kpitcummins.com//images/header/home.png" width="18px" height="18px" border="0" style="margin-right: 5px;"></a>
+
+		<script type="text/javascript">
+			function showLanguageDropDown()
+			{
+				document.getElementById('languageDropDown').style.display = document.getElementById('languageDropDown').style.display == 'none' ? 'block' : 'none';
+				document.getElementById('languageDropDown').style.left = '1050px';
+			}
+		</script>
+        <a href="javascript: showLanguageDropDown()"><img alt="Change Language" src="http://www.kpitcummins.com//images/header/globe.png" width="18px" height="18px" border="0" style="margin-right: 5px;" id="globeImage"></a>
+		<div id="languageDropDown" style="display:none; position:absolute; ">
+			<table bgcolor="#ffffff" border="0px solid">
+				<tbody><tr>
+					<td>
+						<a href="http://www.kpitcummins.com/china/" lang="cs">&nbsp;China - <img border="0" src="http://www.kpitcummins.com//images/header/chinese.png" width="24" height="11" alt=""></a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="http://www.kpitcummins.com/france" lang="fr">&nbsp;France - Française</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="http://www.kpitcummins.com/germany">&nbsp;Germany - Deutsch</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="http://www.kpitcummins.com/japan/index.html" class="jap">&nbsp;Japan - <img border="0" src="http://www.kpitcummins.com//images/header/ja.png" width="24" height="11" alt=""></a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="/" lang="en">&nbsp;Worldwide - English</a>
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
 </div>
-      <!--End of Offerings-->
-    </div>
-<div class="privacypolicy">
+  <!-- Start Primary Navigation -->
+  <!--Primary Navigation-->
+ <div class="logo_placeHolder">
+ 
+ <a href="/" title="KPIT Cummins Infosystems Limited"><img src="http://www.kpitcummins.com//images/logo/kpit-logo.png" alt="KPIT Cummins" hspace="0" vspace="0" border="0" class="kpitlink"></a></div>
+ 
+  
+  <div class="primarynavigation">
+    <ul id="topnav">
+	      <li><a href="http://www.kpitcummins.com/innovation/innovation">Research &amp; Innovation</a></li>
+      <li><a href="http://www.kpitcummins.com/about-us/about-us">Who We Are</a></li>      
+      <li><a href="http://www.kpitcummins.com/news/home">News &amp; Events</a></li>
+      <li><a href="http://www.kpitcummins.com/investors/home">Investors</a></li>
+      <li><a href="http://www.kpitcummins.com/careers/home">Careers</a></li>
+	  <li><a href="http://www.kpitcummins.com/contact-us/inquiry">Contact Us</a></li>
+	     </ul>
 	
-       <p><b style="color:#069; font-size:16px;">Privacy Policy</b></p>
 
-<p>KPIT Cummins believes in integrity and security for the information that is made available or revealed by the user on the website. KPIT Cummins understands the importance of the nature of the information and the need for securing the same.</p>
+ </div>
+ 
+  
+ 
+ 
+ 
+  <!-- End Primary Navigation -->
+   
+<div class="kpit">
+<table style="width:813px">
 
-<p>No information with KPIT is therefore shared, in breach of confidentiality and non-disclosure agreement with its customers/clients.</p>
+<tbody><tr>
+	<td style="width:813px" valign="BOTTOM">
+<div id="socialicons">
+	<div style="float:left;">
+	<a href="http://blog.kpitcummins.com" target="_blank">
+    <img src="http://www.kpitcummins.com//images/header/blog_icon.png" alt="KPIT Cummins Blog" border="0"></a>
+    <a href="http://www.facebook.com/kpitcummins" target="_blank">
+    <img src="http://www.kpitcummins.com//images/header/facebook.png" alt="KPIT Cummins Facebook Page" border="0"></a>
+    <a href="http://twitter.com/kpit" target="_blank">
+    <img src="http://www.kpitcummins.com//images/header/twitter.png" alt="KPIT Cummins Official Twitter Channel" border="0"></a>
+    <a href="http://www.linkedin.com/company/5521" target="_blank">
+    <img src="http://www.kpitcummins.com//images/header/linkedin.png" alt="KPIT Cummins Company profile on LinkedIN" border="0"></a>
+	</div>
+	
+	<div style="text-align: left; float:left;">
+	<form id="searchForm" name="searchForm" action="http://www.kpitcummins.com//query_to_google.php" method="get">
+            <div style=" float:left; margin-top: 3px; margin-left:5px;">
+            	<input id="query" name="query" type="text" style="height:18px;" value="Search" onchange="if (this.value != 'Search'){this.style.color='#333333'; }" onfocus="if (this.value == 'Search') { this.value=''; }" onblur="if (this.value == '') {this.style.color='#333333'; this.value='Search'; }">	</div>
+		<div style="float:left; cursor:pointer;"><a onclick="document.searchForm.submit();">
+        <img src="http://www.kpitcummins.com//images/buttons/Search.png" border="0" style="float:left;" alt="Search KPIT Cummins"></a></div>
+	</form>
+</div>
+	</div>	
+	</td>
+</tr>
+    
+</tbody></table>
+  </div>
+    
+	
 
-<p>The user may visit the website without any prior intimation to KPIT Cummins. However, in certain circumstances, KPIT Cummins requires the user to disclose its identity. In such situation, you may be required to reveal your true and correct identity.</p>
+<div class="bluemenu">
+    <!--Start of NEW CSS MENU-->
+	
+	<ul id="nav"><li class="submenu"><a class="singleline" style="" href="http://www.kpitcummins.com/automotive/expertise">AUTOMOTIVE</a><ul><li class=""><a class="" style="width:207px" href="http://www.kpitcummins.com/automotive/expertise">Automotive Expertise</a></li><li class="arrowsmall"><a class="" style="width:207px" href="http://www.kpitcummins.com/product-engineering/powertrain">Powertrain</a></li><li class="arrowsmall"><a class="" style="width:207px" href="http://www.kpitcummins.com/product-engineering/hybrid">Hybrid Vehicle Technology </a></li><li class="arrowsmall"><a class="" style="width:207px" href="http://www.kpitcummins.com/product-engineering/infotainment">Infotainment, Telematics &amp; Clusters</a></li><li class="arrowsmall"><a class="" style="width:207px" href="http://www.kpitcummins.com/product-engineering/body-electronics">Body Electronics</a></li><li class="arrowsmall"><a class="" style="width:207px" href="http://www.kpitcummins.com/product-engineering/chassis-safety">Chassis Safety</a></li><li class="arrowsmall"><a class="" style="width:207px" href="http://www.kpitcummins.com/product-engineering/diagnostics">Vehicle Diagnostics &amp; Networks</a></li><li class="arrowsmall"><a class="" style="width:207px" href="http://www.kpitcummins.com/product-engineering/mechanical">Mechanical Design Services</a></li><li class="arrowsmall"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/enterprise">Enterprise IT Solutions</a><img src="../images/mainmenu/small_arrow.png" width="11" height="11" alt="" border="0"><ul id="arrowsmall"><li class=""><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/sap">SAP</a></li><li class=""><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/oracle">Oracle</a></li></ul></li><li class="arrowsmall"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/business-processes">Business Process Solutions</a><img src="../images/mainmenu/small_arrow.png" width="11" height="11" alt="" border="0"><ul id="arrowsmall"><li class=""><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/scm">SCM</a></li><li class=""><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/scm">CRM</a></li></ul></li></ul></li><li class="submenu"><a class="singleline" style="" href="http://www.kpitcummins.com/energy/expertise">ENERGY &amp; UTILITIES</a><ul><li class=""><a class="" style="width:207px" href="http://www.kpitcummins.com/energy/expertise">E&amp;U Expertise</a></li><li class=""><a class="" style="width:207px" href="http://www.kpitcummins.com/energy/sunas">SUNAS</a></li><li class=""><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/bpm">Business Process Management</a></li><li class=""><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/supply-chain">Supply Chain Consulting</a></li><li class=""><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/bi">BI &amp; Analytics Consulting</a></li><li class="arrowsmall"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/enterprise">Enterprise IT Solutions</a><img src="../images/mainmenu/small_arrow.png" width="11" height="11" alt="" border="0"><ul id="arrowsmall"><li class="mainmenuImgClass"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/sap">SAP</a></li><li class="mainmenuImgClass"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/oracle">Oracle</a></li></ul></li><li class="arrowsmall"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/business-processes">Business Process Solutions</a><img src="../images/mainmenu/small_arrow.png" width="11" height="11" alt="" border="0"><ul id="arrowsmall"><li class="mainmenuImgClass"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/scm">SCM</a></li><li class="mainmenuImgClass"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/crm">CRM</a></li></ul></li><li class="arrowsmall"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/mobility">Mobility Solutions</a></li></ul></li><li class="submenu"><a class="singleline" style="" href="http://www.kpitcummins.com/industrial/expertise">INDUSTRIAL EQUIPMENTS</a><ul><li class=""><a class="" style="width:207px" href="http://www.kpitcummins.com/industrial/expertise">Industrials Expertise</a></li><li class=""><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/supply-chain">Supply Chain Consulting</a></li><li class=""><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/bpm">Business Process Management</a></li><li class=""><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/bi">BI &amp; Analytics Consulting</a></li><li class="arrowsmall"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/mom">Operations Management</a></li><li class="arrowsmall"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/enterprise">Enterprise IT Solutions</a><img src="../images/mainmenu/small_arrow.png" width="11" height="11" alt="" border="0"><ul id="arrowsmall"><li class="mainmenuImgClass"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/sap">SAP</a></li><li class="mainmenuImgClass"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/oracle">Oracle</a></li></ul></li><li class="arrowsmall"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/business-processes">Business Process Solutions</a><img src="../images/mainmenu/small_arrow.png" width="11" height="11" alt="" border="0"><ul id="arrowsmall"><li class="mainmenuImgClass"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/scm">SCM</a></li><li class="mainmenuImgClass"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/crm">CRM</a></li></ul></li><li class=""><a class="" style="width:207px" href="http://www.kpitcummins.com/product-engineering/product-design">Product Design &amp; Development</a></li><li class="arrowsmall"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/mobility">Mobility Solutions</a></li></ul></li><li class="submenu"><a class="singleline" style="" href="http://www.kpitcummins.com/semicon/expertise">SEMICONDUCTOR</a><ul><li class=""><a class="" style="width:207px" href="http://www.kpitcummins.com/semicon/expertise">Semiconductor Expertise</a></li><li class="arrowsmall"><a class="" style="width:207px" href="http://www.kpitcummins.com/product-engineering/chip-design">IC Design Services</a><img src="../images/mainmenu/small_arrow.png" width="11" height="11" alt="" border="0"><ul id="arrowsmall"><li class="mainmenuImgClass"><a class="" style="width:207px" href="http://www.kpitcummins.com/product-engineering/ams">AMS</a></li><li class="mainmenuImgClass"><a class="" style="width:207px" href="http://www.kpitcummins.com/product-engineering/digital-design">Digital Design</a></li></ul></li><li class=""><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/bpm">Business Process Management</a></li><li class=""><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/supply-chain">Supply Chain Consulting</a></li><li class=""><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/bi">BI &amp; Analytics Consulting</a></li><li class="arrowsmall"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/enterprise">Enterprise IT Solutions</a><img src="../images/mainmenu/small_arrow.png" width="11" height="11" alt="" border="0"><ul id="arrowsmall"><li class="mainmenuImgClass"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/sap">SAP</a></li><li class="mainmenuImgClass"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/oracle">Oracle</a></li></ul></li><li class="arrowsmall"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/business-processes">Business Process Solutions</a><img src="../images/mainmenu/small_arrow.png" width="11" height="11" alt="" border="0"><ul id="arrowsmall"><li class="mainmenuImgClass"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/scm">SCM</a></li><li class="mainmenuImgClass"><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/crm">CRM</a></li></ul></li><li class=""><a class="" style="width:207px" href="http://www.kpitcummins.com/biz-IT/support">Technical Support</a></li><li class=""><a class="" style="width:207px" href="http://www.kpitcummins.com/product-engineering/product-design">Product Design &amp; Development</a></li></ul></li></ul>      <!--End of NEW CSS MENU-->
+</div>      
 
-<p>KPIT Cummins does not rent, sell, or share personal information about the user with any third party except to provide products or services you've requested, when we have your permission, or under the following circumstances, where :</p>
-<ol type="1">
-<li>We provide the information to trusted partners who work on behalf of or with KPIT Cummins under extremely strict confidentiality agreements. These companies    may use your personal information to help KPIT Cummins communicate with you about offers from KPIT Cummins and our marketing partners. However, these    companies do not have any independent right to share this information.</li>
-<li>We have a parent's permission to share the information if the user is a child under age 13.</li>
-<li>We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;</li>
-<li>We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving    potential threats to the physical safety of any person, or as otherwise required by law.</li><li> We transfer information about you if KPIT Cummins is acquired by or merged with another company.</li></ol>
-<p>You may choose to give us personal information, such as your name and address or e-mail id that may be needed, for example, to correspond with you, to download our white papers or to provide you with a subscription. If you tell us that you do not want us to use this information as a basis for further contact with you, we will respect your wishes. We intend to protect the quality and integrity of your personally identifiable information.</p>
+<!-- End KPIT Logo Div  -->
+    <!-- Start KPIT -->
+		<div style="width:220px; height:110px; float:left;"><img src="http://www.kpitcummins.com/images/privacy-policy1.jpg" width="220" height="110" alt="Privacy Policy" title=""></div>
+		<div style="width:550px;padding: 10px 15px 0; font-size:14px; height:100px;float:left; background:#5BB8E3; color:#FFFFFF !important; border-left:1px solid #BCC7DD; "><h1>Privacy Policy</h1></div>
+		<div style="width:158px;padding: 10px 15px 0; height:100px;float:right; background:#5BB8E3; color:#FFFFFF !important; border-left:1px solid #5BB8E3; ">
+		<a href="http://www.kpitcummins.com//product-engineering/home"><img src="../images/banner/prod_engg_box.png" height="44" width="165" alt="" border="0"></a>
+		<a href="http://www.kpitcummins.com//biz-IT/home"><img src="../images/banner/biz_it_sol.png" height="44" width="165" alt="" border="0"></a>
+		</div>
+		
+    <!--Start Second Part-->
+    <div class="second_part">
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+    <tbody><tr>
+    <td>
+	<div class="inner_tdLeft">	
+	<div class="layout">
+<div style="height:7px; background:#FFF"></div>	
+	<ul id="vnavlist"><li class=""><a class="" style="" href="http://www.kpitcummins.com/product-engineering/home">Product Engineering Solutions</a><ul><li class=""><a class="" style="" href="http://www.kpitcummins.com/product-engineering/automotive">Automotive Sub-Systems</a></li><li class=""><a class="" style="" href="http://www.kpitcummins.com/product-engineering/chip-design">IC Design Services</a></li></ul></li><li class=""><a class="" style="" href="http://www.kpitcummins.com/biz-IT/home">Business Consulting &amp; IT solutions</a><ul><li class=""><a class="" style="" href="http://www.kpitcummins.com/biz-IT/bpm">Business Process Management</a></li><li class=""><a class="" style="" href="http://www.kpitcummins.com/biz-IT/supply-chain">Supply Chain Consulting</a></li><li class=""><a class="" style="" href="http://www.kpitcummins.com/biz-IT/bi">BI &amp; Analytics Consulting</a></li><li class=""><a class="" style="" href="http://www.kpitcummins.com/biz-IT/enterprise">Enterprise Technology Platforms</a></li><li class=""><a class="" style="" href="http://www.kpitcummins.com/biz-IT/business-processes">Business Processes</a></li><li class=""><a class="" style="" href="http://www.kpitcummins.com/biz-IT/mobility">Mobility Solutions</a></li><li class=""><a class="" style="" href="http://www.kpitcummins.com/biz-IT/portals">Portals &amp; E-Business</a></li><li class=""><a class="" style="" href="http://www.kpitcummins.com/biz-IT/testing">Software Testing</a></li><li class=""><a class="" style="" href="http://www.kpitcummins.com/biz-IT/support">Technical Support</a></li></ul></li></ul> 	
+			</div>
+	</div>
+	 <div class="middle_content">
 
-<p>We will make a sincere effort to respond in a timely manner to your requests to correct inaccuracies in your personal information. For this you need to return the message containing the inaccuracies to the sender with details of the correction requested.</p>
 
-<p><strong>Cookies and other technologies</strong></p>
-We sometimes collect anonymous information from visits to our sites to help us provide better customer service. For example, we keep track of the domains from which people visit and we also measure visitor activity on KPIT Cummins web sites, but we do so in ways that keep the information anonymous. KPIT Cummins or its affiliates or vendors may use this data to analyze trends and statistics and to help us provide better customer service. We maintain the highest levels of confidentiality for this information, our affiliates and vendors follow the same high levels of confidentiality. This anonymous information is used and analyzed only at an aggregate level to help us understand trends and patterns. None of this information is reviewed at an individual level. If you do not want your transaction details used in this manner, you can either disable your cookies or opt-out at the download or request page.
+		<p>KPIT Cummins believes in integrity and security for the information that is made available or revealed by the user on the website. KPIT Cummins understands the importance of the nature of the information and the need for securing the same.</p><p>No information with KPIT is therefore shared, in breach of confidentiality and non-disclosure agreement with its customers/clients.</p><p>The user may visit the website without any prior intimation to KPIT Cummins. However, in certain circumstances, KPIT Cummins requires the user to disclose its identity. In such situation, you may be required to reveal your true and correct identity.</p><p>KPIT Cummins does not rent, sell, or share personal information about the user with any third party except to provide products or services you've requested, when we have your permission, or under the following circumstances, where:</p><ol><li>We provide the information to trusted partners who work on behalf of or with KPIT Cummins under extremely strict confidentiality agreements. These companies may use your personal information to help KPIT Cummins communicate with you about offers from KPIT Cummins and our marketing partners. However, these companies do not have any independent right to share this information.</li><li>We have a parent's permission to share the information if the user is a child under age 13.</li><li>We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.</li><li>We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law.</li><li>We transfer information about you if KPIT Cummins is acquired by or merged with another company.</li></ol><p>You may choose to give us personal information, such as your name and address or e-mail id that may be needed, for example, to correspond with you, to download our white papers or to provide you with a subscription. If you tell us that you do not want us to use this information as a basis for further contact with you, we will respect your wishes. We intend to protect the quality and integrity of your personally identifiable information.</p><p>We will make a sincere effort to respond in a timely manner to your requests to correct inaccuracies in your personal information. For this you need to return the message containing the inaccuracies to the sender with details of the correction requested.</p><p><strong>Cookies and other technologies</strong></p><p>We sometimes collect anonymous information from visits to our sites to help us provide better customer service. For example, we keep track of the domains from which people visit and we also measure visitor activity on KPIT Cummins web sites, but we do so in ways that keep the information anonymous. KPIT Cummins or its affiliates or vendors may use this data to analyze trends and statistics and to help us provide better customer service. We maintain the highest levels of confidentiality for this information, our affiliates and vendors follow the same high levels of confidentiality. This anonymous information is used and analyzed only at an aggregate level to help us understand trends and patterns. None of this information is reviewed at an individual level. If you do not want your transaction details used in this manner, you can either disable your cookies or opt-out at the download or request page. </p><p><strong>Mailers</strong></p><p>KPIT Cummins may, if you so choose, send direct mailers to you at the address given by you. You have the option to 'opt-out' of this direct mailer by way of links provided at the bottom of each mailer. We respect your privacy and in the event that you choose to not receive such mailers, we will take all steps to remove you from the list. </p><p><strong>AntiSpam policy</strong></p><p>KPIT Cummins recognizes the receipt, transmission or distribution of spam emails (unsolicited bulk emails) as a major concern and has taken reasonable measures, to minimize the transmission and effect of spam emails in its computing environment. All emails received by KPIT Cummins, are subject to spam check, in coordination with "SPAMHAUS" subscription service. Any email identified as spam will be rejected with sufficient information to the Sender for taking necessary action. With this measure, along with other technical spam reduction measures, KPIT Cummins hopes to minimize the effect of spam emails. KPIT Cummins reserves the right to reject and/or report any suspicious spam emails, to the authorities concerned, for necessary action, from time to time.&nbsp;</p>        </div>
+	  <div class="inner_tdRight"><!--Start Right-->
+      <script type="text/javascript">
+ var RecaptchaOptions = {
+    theme : 'custom',
+    custom_theme_widget: 'recaptcha_widget'
+ };
+ function getCumulativeOffsetX(obj) {
+    var left = 0;
+    if (obj.offsetParent) {
+        do {
+            left += obj.offsetLeft;
+        } while (obj = obj.offsetParent);
+    }
 
-<p><strong>Mailers</strong></p>
-KPIT Cummins may, if you so choose, send direct mailers to you at the address given by you. You have the option to 'opt-out' of this direct mailer by way of links provided at the bottom of each mailer. We respect your privacy and in the event that you choose to not receive such mailers, we will take all steps to remove you from the list.
+    return left;
+}
 
-<p><strong>AntiSpam policy</strong></p>
-KPIT Cummins recognizes the receipt, transmission or distribution of spam emails (unsolicited bulk emails) as a major concern and has taken reasonable measures, to minimize the transmission and effect of spam emails in its computing environment. All emails received by KPIT Cummins, are subject to spam check, in coordination with "SPAMHAUS" subscription service. Any email identified as spam will be rejected with sufficient information to the Sender for taking necessary action. With this measure, along with other technical spam reduction measures, KPIT Cummins hopes to minimize the effect of spam emails. KPIT Cummins reserves the right to reject and/or report any suspicious spam emails, to the authorities concerned, for necessary action, from time to time.</div>
+function getCumulativeOffsetY(obj) {
+    var top = 0;
+    if (obj.offsetParent) {
+        do {
+            top += obj.offsetTop;
+        } while (obj = obj.offsetParent);
+    }
+    return top;
+}
+
+ function showdiv()
+ {
+	var lblstate = document.getElementById('lblstate');
+	if(lblstate.value == "0")
+	{
+		var header = document.getElementById('divcontactheader');		
+		var lnkshowdiv = document.getElementById('lnkshowdiv');				
+		var div = document.getElementById('divcontactform');
+//		div.style.left = getCumulativeOffsetX(lnkshowdiv)+(header.offsetWidth-div.offsetWidth) + 'px';
+	//	div.style.top = getCumulativeOffsetY(lnkshowdiv) + header.style.height+ 'px';
+		try{
+			div.style.removeProperty("display");
+		}catch(e)
+		{
+			div.style.display = "block";
+		}
+		
+		lblstate.value = "1";
+	}
+	else
+	{
+		var div = document.getElementById('divcontactform');
+		div.style.display = "none";
+		lblstate.value = "0";
+	}
+	
+ }
+ </script>
+<div id="quickcontactform" class="right">
+<input id="lblstate" type="text" value="0" style="display:none;">
+<div class="qcbox_header" style="height:auto; vertical-align:bottom;" id="divcontactheader">
+<b>
+<a href="javascript:showdiv()" id="lnkshowdiv">
+<!--span style="margin-left:15px;">Write For Information <img style="margin-left:5px;" border="0" src="../images/mainmenu/right-arrow-icon-hi.png"></span-->
+<img border="0" src="../images/buttons/talktous.png" alt="">
+</a>
+</b> 
+</div>
+<div class="qcbox" style="display:none" id="divcontactform">
+<form name="form1" method="post" action="../includes/column_right/send_contact.php">
+            <input id="txtname" name="namefrom" type="text" value="Name" onchange="if (this.value != 'Name'){this.style.color='#333333'; }" onfocus="if (this.value == 'Name') { this.value=''; }" onblur="if (this.value == '') {this.style.color='#333333'; this.value='Name'; }"><br>
+            <input id="txtemail" name="emailfrom" type="text" value="Email" onchange="if (this.value != 'Email'){this.style.color='#333333'; }" onfocus="if (this.value == 'Email') { this.value=''; }" onblur="if (this.value == '') {this.style.color='#333333'; this.value='Email'; }"><br>
+			<span style="font-style:italic; float:left; font-size:9px; margin-left:10px;">If you require a response, please include your e-mail address
+            </span>
+			<input id="txtPhone" name="txtPhone" type="text" value="Phone" onchange="if (this.value != 'Phone'){this.style.color='#333333'; }" onfocus="if (this.value == 'Phone') { this.value=''; }" onblur="if (this.value == '') {this.style.color='#333333'; this.value='Phone'; }"><br>			
+			<select style="margin-left:10px; margin-top:10px;" id="subject" name="subject">
+			<option value="Business Inquiry">Business Inquiry</option>
+			<option value="Partnership/Alliance">Partnership/Alliance</option>
+			<option value="Job Seeker">Job Seeker</option>
+			<option value="Researcher">Researcher</option>
+			<option value="Alumni">Alumni</option>
+			<option value="Investor Relations">Investor Relations</option>
+			<option value="Media">Media</option>
+			<option value="Other">Other</option>
+			</select><br>
+			<textarea id="txtcomments" name="Comments" cols="6" rows="4" onchange="if (this.value != 'Comments'){this.style.color='#333333'; }" onfocus="if (this.value == 'Comments') { this.value=''; }" onblur="if (this.value == '') {this.style.color='#333333'; this.value='Comments'; }">Comments</textarea><br>
+<div id="recaptcha_widget" style="display:none">
+
+		   <div id="recaptcha_image" style="height: auto; width: 180px;max-width: 180px; overflow: auto;"></div>
+		   <div class="recaptcha_only_if_incorrect_sol" style="color:red">Incorrect please try again</div>
+
+		   <span class="recaptcha_only_if_image">Enter the words above:</span>
+		   <span class="recaptcha_only_if_audio" style="display:none;">Enter the numbers you hear:</span>
+
+		   <input type="text" id="recaptcha_response_field" name="recaptcha_response_field">
+
+		   <div><a href="javascript:Recaptcha.reload()">Get another CAPTCHA</a></div>
+		   <div class="recaptcha_only_if_image"><a href="javascript:Recaptcha.switch_type('audio')">Get an audio CAPTCHA</a></div>
+		   <div class="recaptcha_only_if_audio"><a href="javascript:Recaptcha.switch_type('image')">Get an image CAPTCHA</a></div>
+
+		   <div><a href="javascript:Recaptcha.showhelp()">Help</a></div>
+			<input type="hidden" id="redirect_to" name="redirect_to" value="http://www.kpitcummins.com/home/privacy-policy">
+			
+		 </div>
+<img style="margin-left:10px; margin-top:10px;" src="http://www.kpitcummins.com//captcha/CaptchaSecurityImages.php?width=100&amp;height=40&amp;characters=5" alt="captcha">
+<input id="security_code" name="security_code" type="text"><br>
+<span style="font-style:italic; font-size:9px; float:left; margin-left:10px;">This question is for testing whether you are a human visitor and to<br> prevent automated spam submissions</span>
+		 <div class="button"><span onclick="return quick_submit();"><a href="javascript:document.form1.submit();">
+			<img src="http://www.kpitcummins.com//images/buttons/btnsubmit.png" width="67" height="19" border="0" alt=""></a></span></div></form>
+</div>
+</div>
+	<br>
+      	  <div class="right">
+        <div class="bgcol"><b>RELATED INFORMATION</b></div>
+		<div class="newgre"><p><br></p><ul style="color:#0000cc"><li><span style="color:#0000cc;text-decoration:underline"><a href="http://www.kpitcummins.com//innovation/expertise" title="Research Expertise" style="color:#0000cc">Our Research Areas &gt;&gt;</a></span></li><li style="color:#0000cc"><span style="text-decoration:underline"><a href="http://www.kpitcummins.com//careers/home" title="Careers Home" style="color:#0000cc">Work With Us &gt;&gt;</a></span><span style="text-decoration:underline"><br></span></li><li><span style="color:#0000cc;text-decoration:underline"><a href="http://www.kpitcummins.com//news/home" title="News Home" style="color:#0000cc">Latest News &gt;&gt;</a></span></li><li style="color:#0000cc"><span style="text-decoration:underline"><a href="http://www.kpitcummins.com//contact-us/offices" title="Global Offices"><span style="color:#0000cc">G</span><span style="color:#0000cc">lobal Office Locations &gt;&gt;</span></a></span></li></ul><p><br></p><p><br></p>  </div>
+      </div>
+	  </div>
+	</td>
+    </tr>
+    </tbody></table>
+      <!--End Second Part-->
+    </div>
     <!--End InnerWrapper-->
+    </div>
     <!-- Start Footer -->
     <div class="footer">
-      <div class="txt" style=" width:265px;float:left;">© 2005-2007  KPIT Cummins | <a href="termsofuse.htm" title="Terms of use">Terms of use </a>| <a href="privacypolicy.htm" title="Privacy policy">Privacy policy</a></div>
-      <div class="contact"><a href="contactus/index.htm" title="contact us">contact us </a>|<a href="sitemap.htm" title="sitemap"> sitemap</a></div>
-	  	  		     </div>
+      <div class="footer_left">© 2011-2016  KPIT Cummins | <a href="http://www.kpitcummins.com/home/terms-of-use" title="Terms of use">Terms of use </a>| <a href="http://www.kpitcummins.com/home/privacy-policy" title="Privacy policy">Privacy policy</a></div>
+      
+      <div class="contact"><a href="http://www.kpitcummins.com/">home </a>| <a href="http://www.kpitcummins.com/contact-us/inquiry">contact us </a>|<a href="http://www.kpitcummins.com/home/sitemap"> sitemap</a></div>
+       
+       <div class="footer_left">Best viewed in Internet Explorer 7 &amp; above.</div>
+       
+    </div>
     <!-- End Footer -->
+</td>
+<td width="7" class="tdRight"></td>
+</tr>
+
+</tbody></table>
   </div>
-</div>
-</form>
+
 <!--End Wrapper-->
 
 
-</body></html>
+
+<div id="pdfWindow" style="position:absolute;visibility:hidden; height:auto; width:900px; text-align:center; background-color:#ffffff; z-index:10001; border: solid; border-width: thin;-moz-border-radius: 5px;border-radius: 5px; border-color: #6666cc;">
+	<input type="button" value="X" onclick="javascript:hidePopup();" style="float:right;margin: 15px;">
+	<div id="pdfContents" name="pdfContents" style="width: auto;margin: 15px;padding:15px;">
+	
+</div>
+
+
+
+</div></body></html>
