@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printbindaas.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626031955id_/http%3A//printbindaas.com/view/tileLayout/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printbindaas.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224112212id_/http%3A//printbindaas.com/view/tileLayout/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Insert title here
 
