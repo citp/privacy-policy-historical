@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planet-9.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626001333id_/http%3A//www.planet-9.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planet-9.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225003757id_/http%3A//www.planet-9.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Planet-9 Home - Privacy Policy
 
