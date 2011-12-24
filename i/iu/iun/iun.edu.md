@@ -1,111 +1,267 @@
-> *The following text is extracted and transformed from the iun.edu privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509063134id_/http%3A//www.itpo.iu.edu/OLPS.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iun.edu privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224224938id_/http%3A//www.iun.edu/privacy.html) for the most accurate reproduction.*
 
-# DRAFT--3/7/02
+# Indiana University - Northwest Online Privacy Statementt
 
-**DRAFT**
+Effective: 2011-06-14
 
-**7/15/02** ****
+## Applicability
 
-**INDIANA** ******UNIVERSITY** ****
+This privacy notice applies only to the Indiana University North West (www.iun.edu) and explains our practices concerning the collection, use, and disclosure of visitor information. Visitor information collected by Indiana University North West will be used only as outlined in this privacy notice.
 
-**ONLINE PRIVACY STATEMENT**
+Other units at the university may collect and use visitor information in different ways. Therefore, visitors to other university web sites should review the privacy notices for the particular sites they visit. Indiana University North West is not responsible for the content of other web sites or for the privacy practices of web sites outside the scope of this notice.
 
-Indiana University respects the privacy of visitors to its web sites.  This Online Privacy Statement explains the University’s policy concerning the collection, use, and disclosure of visitor information. 
+## Changes
 
-University web sites will comply with all applicable laws and institutional policy regarding visitor privacy.
+Because Internet technologies continue to evolve rapidly, Indiana University North West may make appropriate changes to this notice in the future. Any such changes will be consistent with our commitment to respecting visitor privacy, and will be clearly posted in a revised privacy notice.
 
-**Applicability**
+## Collection and Use
 
-This statement applies to all web sites that are created or maintained either by or for academic, administrative, or auxiliary units of the University (“University web sites”), regardless of whether or not the sites are hosted on University servers or external servers.  This includes web sites of professional associations and publications that are formally hosted, maintained and operated by faculty or staff of the University.  All University websites must post a readily visible link to this policy on the initial page of the site.
+### Passive/Automatic Collection
 
-All other web sites that may be hosted on University servers, such as personal home pages and student organizational web sites, are encouraged to adhere to the terms of this statement as well.  _The University is not responsible, however, for the content of these sites or for their practices regarding the privacy of their online visitors._
+When you view pages on our site, the web server 
 
-This statement does NOT apply to University web sites that support web-based research, as “research” is defined in Federal law and in University policy governing human subjects-based research.  Sites engaged in web-based research must have prior review and approval by the University Institutional Review Board (IRB) or Human Subjects Committee (HSC). 
+* the domain name from which you visit our site
+* aggregate information on pages visited
+* the referring web site
+* the date and time of visit
+* your browser type
+* your screen resolution
+* Google Analytics
 
-**Maintenance of the Online Privacy Statement**
+Continued use of our web site indicates consent to the collection, use, and disclosure of this information as described in this notice.
 
-Because Internet technologies continue to evolve rapidly, the University may make appropriate changes to this statement in the future.  Any such changes will be consistent with the University’s commitment to respecting visitor privacy, and will be clearly posted in a revised Online Privacy Statement. 
+This technical information is not retained or utilized.
 
-**Technical Information** ****
+This information is:
 
-When you access a University web site from the Internet, your computer automatically provides its Internet Protocol (“IP”) address to the computer hosting that web site, as is the case when you attach to any Internet-connected computer.  This is so that the computer knows where to send the requested information.  Also, if you use a modem to dial into the Indiana University network, we receive the phone number of the telephone to which your modem is connected (unless you have caller-id information blocked).  
+  * used to improve the content of our site
+  * used to customize the content of our site
+  * to a successor entity in connection with a corporate merger, consolidation, sale of assets, or other corporate change respecting the web site
 
-We collect and store this information in the University’s computer system for a limited period of time, 30-60 days.  We use this information in aggregate form in order to help diagnose problems with our computer systems, plan the use of system capacity, and improve the quality of the information and services available to you on our web sites. 
 
-Some University web sites may also automatically collect and store certain information about your visit, such as the date, time, and duration of the visit and the Internet address of the site that referred you to them (via a web link).  This information is used in the aggregate to help manage the sites and improve service generally, and may also be used to customize the services offered to you. 
 
-Except as provided in the Disclosure of Information ** __** section below, the University does not attempt to use the technical information discussed in this section to identify individual visitors. 
+### Information Used For Contact
 
-**Cookies**
+If you supply us with your postal/mailing address, you will only receive the information for which you provided us your address.
 
-A “cookie” is a small data file that is written to your hard drive that contains information about your visit to a web page.  University web sites may use cookies to store information about your actions or choices on pages associated with those web sites, in order to customize the information and services that the sites offer you.  University web sites must clearly inform visitors if they use cookies.  If you prefer not to receive cookies, you may turn them off in your browser, or you may set your browser to ask you before accepting a new cookie; see the Indiana University Knowledgebase article at http://kb.indiana.edu/data/agwm.html for more information.  Some University web pages may not function properly if the cookies are turned off, or you may have to provide the same information each time you visit those pages.
+### Information Sharing
 
-**Information Visitors Provide Voluntarily**
+We do not share any aggregate, non-personally-identifiable information with other entities or organizations.
 
-**_General_**
+We do not share any personally-identifiable information with other entities or organizations, except when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our web site and applicable laws, or to protect against misuse or unauthorized use of our web site.
 
-A lot of information is necessarily collected when an individual establishes a formal relationship with the University (as a student, employee, or faculty, for examples).  This information is generally required to maintain and manage that relationship, including providing associated necessary services.  If, in the course of visits to University web sites, individuals in these categories find that information being displayed about them or their status is incorrect, they should contact the appropriate office to have it corrected (i.e., Human Resources Management, Student Affairs, Academic Affairs, etc.).
+Except as described above, we will not share any information with any party for any reason.
 
-Other than this necessary information, some technical information, and cookies as described above, the only other information that University web sites may obtain will be information that you provide voluntarily.  University web sites may ask you to provide information in order to make products and services available to you or to better understand and serve your needs.   
+Except as provided in the Disclosure of Information section below, we do not attempt to use the technical information discussed in this section to identify individual visitors.
 
-All University web sites that ask you to provide information must: 
+### Active/Manual/Voluntary Collection
 
-·        state why the information is being requested and how it will be used;
+Other than automatically collected technical information about your visit (described above, or cookies described below), we may ask you to provide information voluntarily, such as through forms or other manual input — in order to make products and services available to you, to maintain and manage our relationship with you, including providing associated services or to better understand and serve your needs. This information is generally retained as long as you continue to maintain a relationship with us. Your providing this information is wholly voluntary. However, not providing the requested information (or subsequently asking that the data be removed) may affect our ability to deliver the products or service for which the information is needed. Providing the requested information indicates your consent to the collection, use, and disclosure of this information as described in this notice. Information we may actively collect could include:
 
-·        use the information only for the stated purpose;
+  * name
+  * information volunteered by the visitor, such as preferences, survey information and/or site registrations
 
-·        state whether the information will be shared with any external party (other than for investigative or law enforcement purposes described in the Disclosure of Information section below); 
 
-·        make a copy of your information available to you on request;
 
-·        delete or modify your information on request; 
+### Cookies
 
-·        state that you may contact the site’s Webmaster to obtain, modify, or delete information you have provided, and give you the Webmaster’s contact information; 
+A [cookie](https://kb.iu.edu/data/agwm.html) is a small data file that is written to your hard drive that contains information about your visit to a web page. If you prefer not to receive cookies, you may configure your browser to not to accept them at all, or to notify and require approval before accepting new cookies. Some web pages/sites may not function properly if the cookies are turned off, or you may have to provide the same information each time you visit those pages.
 
-·        state that providing the requested information is wholly voluntary, and indicate how not providing the requested information (or subsequently asking that the data be removed) will affect the delivery of products or services for which the information is needed;
+In order to customize the information and services offered to you, our site uses cookies to:
 
-·        provide the statements they are required to make to you in a way that is easily seen and read before you submit any requested information; and
+  * store visitors preferences
+  * record session information, such as items that visitors add to their shopping cart
+  * record user-specific information on what pages users access or visit
+  * alert visitors to new areas that we think might be of interest to them when they return to our site
+  * record past activity at a site in order to provide better service when visitors return to our site
+  * ensure that visitors are not repeatedly sent the same banner ads
+  * customize web page content on visitors' browser type or other information that the visitor sends
 
-·        provide a link to this University Online Privacy Policy. 
 
-**_Special Requirements for Requesting Social Security Numbers_**
 
-Certain University web sites, such as those related to student financial aid or employment, may ask you to provide your Social Security Number (SSN) in order to process aid applications or carry out other operations.  Any University web site that asks specifically for your SSN (as opposed to asking for a Student or Employee ID or similar identifier) must state
+### Children
 
-·        why it is asking for the SSN; and
+This site is not directed to children under 13 years of age, does not sell products or services intended for purchase by children, and does not knowingly collect or store any personal information, even in aggregate, about children under the age of 13. We encourage parents and teachers to be involved in children's Internet explorations. It is particularly important for parents to guide their children when they are asked to provide personal information online.
 
-·        that Federal law requires the University to obtain the SSN (giving the citation to the applicable Federal law) and that the relevant form or application cannot be processed without the SSN, or 
+### Use of Third Party Services
 
-·        that providing the SSN is voluntary and that you have the right to refuse to provide it without penalty. 
+This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies" (described above) to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including possibly your IP address) will be transmitted to and stored by Google.
 
-**Unsolicited Email**
+For more information, please visit [Google's Privacy Center](http://www.google.com/privacy).
 
-If you send unsolicited email to a Webmaster, it will be directed to appropriate personnel for any response, and may be used to help improve the services supported by the web site. 
+### Updating Inaccurate Information
 
-**Disclosure of Information**
+In some cases, we will grant visitors the ability to update or correct inaccuracies in the information that we maintain.
 
-Other than sharing your information with appropriate University personnel to ensure the quality, functionality, and security of our web sites, the University will not disclose your information except under the following circumstances: 
+Visitors may correct inaccuracies in:
 
-·        With your prior written (including email) consent;
+  * contact information that we have on file
 
-·        When a University web site has given you clear notice that it will disclose information that you voluntarily provide; 
 
-·        With appropriate University personnel and external parties, such as law enforcement agencies, in order to investigate and respond to suspected violations of law or University policy.  Any such disclosures shall comply with all applicable laws and University policies. 
 
-**Security**
+Visitors can have this information corrected by:
 
-Due to the rapidly evolving nature of information technologies, no transmission of data over the Internet can be guaranteed to be completely secure.  While Indiana University is committed to protecting the privacy of our visitors, the University cannot _guarantee_ the security of any information that you transmit to University web sites, and you do so at your own risk. 
+  * sending us email at the listed address
+  * calling us at the listed telephone number
+  * writing to us at the listed address
 
-Once the University receives your information, we will use our best efforts to maintain the security of that information on University systems.  Units that maintain University web sites are expected to maintain those sites, and supporting systems and databases, at a security level consistent with prevailing industry standards, commensurate with the sensitivity of the data being stored. 
 
-In addition, Indiana University will comply with all Federal, State and local laws regarding the privacy and security of visitor information. 
 
-**Links to non-University web sites**
+## Disclosure of Information
 
-University web sites may provide links to other, non-University web sites.  The University is not responsible for the availability, content, or privacy practices of those sites.  They are not bound by this Privacy Statement and may or may not have their own privacy policies. 
+Other than sharing your information with other appropriate university personnel and units to ensure the quality, functionality, and security of our web site, or manage your relationship with us, we will not disclose personally identifiable information about your use of the site except under the following circumstances:
 
-**Contact Information**
+  * With your prior written (including email) consent
+  * When we have given you clear notice that we will disclose information that you voluntarily provide
+  * With appropriate external parties, such as law enforcement agencies, in order to investigate and respond to suspected violations of law or University policy. Any such disclosures shall comply with all applicable laws and university policies.
 
-If you have questions or concerns about a University web site’s compliance with this policy, please contact the Webmaster of the site in question.  If this does not resolve the matter, or if you have general questions or concerns about privacy or information technology policy at Indiana University, please contact the University IT Policy Office, 2711 E. 10th Street, Bloomington, IN 47408, 812-855-9255, itpo@iu.edu. 
 
-If you have general questions or concerns about information technology security at Indiana University, please contact the University IT Security Office at 2711 E. 10th Street, Bloomington, IN 47408, 812-855-9255, [itso@iu.edu](mailto:itso@iu.edu).
+
+## Security
+
+Due to the rapidly evolving nature of information technologies, no transmission of data over the Internet can be guaranteed to be completely secure. While we are committed to protecting the privacy of our visitors, we cannot guarantee the security of any information that you transmit to University web sites, and you do so at your own risk. However, once we receive your information, we will use reasonable safeguards consistent with prevailing industry standards and commensurate with the sensitivity of the data being stored to maintain the security of that information on our systems.
+
+In addition, we will comply with all applicable Federal, State and local laws regarding the privacy and security of visitor information.
+
+We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site.
+
+## Privacy Notice Changes
+
+From time to time, we may use visitor information for new, unanticipated uses not previously disclosed in our privacy notice.
+
+## Contact Information
+
+If you feel that this site is not following its stated policy and communicating with the owner of this site does not resolve the matter, or if you have general questions or concerns about privacy or information technology policy at Indiana University, please contact the University Information Policy Office, 812-855-UIPO, uipo@iu.edu.
+
+Indiana University - Northwest Online Privacy Statementt
+
+Effective: 2011-06-14
+
+## Applicability
+
+This privacy notice applies only to the Indiana University Northwest (www.iun.edu) and explains our practices concerning the collection, use, and disclosure of visitor information. Visitor information collected by Indiana University Northwest will be used only as outlined in this privacy notice.
+
+Other units at the university may collect and use visitor information in different ways. Therefore, visitors to other university web sites should review the privacy notices for the particular sites they visit. Indiana University Northwest is not responsible for the content of other web sites or for the privacy practices of web sites outside the scope of this notice.
+
+## Changes
+
+Because Internet technologies continue to evolve rapidly, Indiana University Northwest may make appropriate changes to this notice in the future. Any such changes will be consistent with our commitment to respecting visitor privacy, and will be clearly posted in a revised privacy notice.
+
+## Collection and Use
+
+### Passive/Automatic Collection
+
+When you view pages on our site, the web server 
+
+* the domain name from which you visit our site
+* aggregate information on pages visited
+* the referring web site
+* the date and time of visit
+* your browser type
+* your screen resolution
+* Google Analytics
+
+Continued use of our web site indicates consent to the collection, use, and disclosure of this information as described in this notice.
+
+This technical information is not retained or utilized.
+
+This information is:
+
+  * used to improve the content of our site
+  * used to customize the content of our site
+  * to a successor entity in connection with a corporate merger, consolidation, sale of assets, or other corporate change respecting the web site
+
+
+
+### Information Used For Contact
+
+If you supply us with your postal/mailing address, you will only receive the information for which you provided us your address.
+
+### Information Sharing
+
+We do not share any aggregate, non-personally-identifiable information with other entities or organizations.
+
+We do not share any personally-identifiable information with other entities or organizations, except when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our web site and applicable laws, or to protect against misuse or unauthorized use of our web site.
+
+Except as described above, we will not share any information with any party for any reason.
+
+Except as provided in the Disclosure of Information section below, we do not attempt to use the technical information discussed in this section to identify individual visitors.
+
+### Active/Manual/Voluntary Collection
+
+Other than automatically collected technical information about your visit (described above, or cookies described below), we may ask you to provide information voluntarily, such as through forms or other manual input — in order to make products and services available to you, to maintain and manage our relationship with you, including providing associated services or to better understand and serve your needs. This information is generally retained as long as you continue to maintain a relationship with us. Your providing this information is wholly voluntary. However, not providing the requested information (or subsequently asking that the data be removed) may affect our ability to deliver the products or service for which the information is needed. Providing the requested information indicates your consent to the collection, use, and disclosure of this information as described in this notice. Information we may actively collect could include:
+
+  * name
+  * information volunteered by the visitor, such as preferences, survey information and/or site registrations
+
+
+
+### Cookies
+
+A [cookie](https://kb.iu.edu/data/agwm.html) is a small data file that is written to your hard drive that contains information about your visit to a web page. If you prefer not to receive cookies, you may configure your browser to not to accept them at all, or to notify and require approval before accepting new cookies. Some web pages/sites may not function properly if the cookies are turned off, or you may have to provide the same information each time you visit those pages.
+
+In order to customize the information and services offered to you, our site uses cookies to:
+
+  * store visitors preferences
+  * record session information, such as items that visitors add to their shopping cart
+  * record user-specific information on what pages users access or visit
+  * alert visitors to new areas that we think might be of interest to them when they return to our site
+  * record past activity at a site in order to provide better service when visitors return to our site
+  * ensure that visitors are not repeatedly sent the same banner ads
+  * customize web page content on visitors' browser type or other information that the visitor sends
+
+
+
+### Children
+
+This site is not directed to children under 13 years of age, does not sell products or services intended for purchase by children, and does not knowingly collect or store any personal information, even in aggregate, about children under the age of 13. We encourage parents and teachers to be involved in children's Internet explorations. It is particularly important for parents to guide their children when they are asked to provide personal information online.
+
+### Use of Third Party Services
+
+This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies" (described above) to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including possibly your IP address) will be transmitted to and stored by Google.
+
+For more information, please visit [Google's Privacy Center](http://www.google.com/privacy).
+
+### Updating Inaccurate Information
+
+In some cases, we will grant visitors the ability to update or correct inaccuracies in the information that we maintain.
+
+Visitors may correct inaccuracies in:
+
+  * contact information that we have on file
+
+
+
+Visitors can have this information corrected by:
+
+  * sending us email at the listed address
+  * calling us at the listed telephone number
+  * writing to us at the listed address
+
+
+
+## Disclosure of Information
+
+Other than sharing your information with other appropriate university personnel and units to ensure the quality, functionality, and security of our web site, or manage your relationship with us, we will not disclose personally identifiable information about your use of the site except under the following circumstances:
+
+  * With your prior written (including email) consent
+  * When we have given you clear notice that we will disclose information that you voluntarily provide
+  * With appropriate external parties, such as law enforcement agencies, in order to investigate and respond to suspected violations of law or University policy. Any such disclosures shall comply with all applicable laws and university policies.
+
+
+
+## Security
+
+Due to the rapidly evolving nature of information technologies, no transmission of data over the Internet can be guaranteed to be completely secure. While we are committed to protecting the privacy of our visitors, we cannot guarantee the security of any information that you transmit to University web sites, and you do so at your own risk. However, once we receive your information, we will use reasonable safeguards consistent with prevailing industry standards and commensurate with the sensitivity of the data being stored to maintain the security of that information on our systems.
+
+In addition, we will comply with all applicable Federal, State and local laws regarding the privacy and security of visitor information.
+
+We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site.
+
+## Privacy Notice Changes
+
+From time to time, we may use visitor information for new, unanticipated uses not previously disclosed in our privacy notice.
+
+## Contact Information
+
+If you feel that this site is not following its stated policy and communicating with the owner of this site does not resolve the matter, or if you have general questions or concerns about privacy or information technology policy at Indiana University, please contact the University Information Policy Office, 812-855-UIPO, uipo@iu.edu.
