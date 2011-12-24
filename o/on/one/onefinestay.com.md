@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onefinestay.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626034621id_/http%3A//www.onefinestay.com/doc/13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefinestay.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224041913id_/http%3A//www.onefinestay.com/doc/13) for the most accurate reproduction.*
 
 # About | onefinestay
 
