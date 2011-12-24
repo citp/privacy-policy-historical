@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertyreserve.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225033559id_/http%3A//www.libertyreserve.com/en/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertyreserve.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224190057id_/http%3A//www.libertyreserve.com/en/home/privacypolicy) for the most accurate reproduction.*
 
 # Liberty Reserve – largest payment processor and money transfer system. Liberty Reserve serves millions since 2002 - Privacy Policy
 
@@ -18,7 +18,7 @@ This privacy policy covers the website [www.libertyreserve.com](http://www.liber
 
 ## 4\. Contact Information
 
-If you have any questions, concerns or complaints regarding our Privacy Policy or Liberty Reserve´s information practices, please [contact us](https://web.archive.org/web/20101225033559id_/http%3A//www.libertyreserve.com/en/contactus) at compliance@libertyreserve.cr. You can also send us mail to 920-6155 Condominio Empresarial Forum I, Santa Ana, Pozos, San José, Costa Rica or send us fax at +506 2582 0942.
+If you have any questions, concerns or complaints regarding our Privacy Policy or Liberty Reserve´s information practices, please [contact us](https://www.libertyreserve.com/en/contactus). You can also send us mail to 920-6155 Condominio Empresarial Forum I, Santa Ana, Pozos, San José, Costa Rica or send us fax at +506 2582 0942.
 
 If such questions, concerns or complaints are not acknowledged and addressed to your satisfaction, please contact TRUSTe.
 
@@ -74,7 +74,7 @@ Out of respect for our users we neither send promotional/marketing materials nor
 
 ### 6.2. Service Announcements and Opt/outs
 
-On rare occasions it is necessary to send out a strictly service-related announcement as indicated in Section 5.4 of this Privacy Policy. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications because they are not promotional in nature. However, they can deactivate their account by sending a request to **compliance@libertyreserve.cr.** Those users who request the deactivation of their accounts will receive a confirmation email within the next 48 hours and will be effectively removed from the list of users to whom these communications are sent.
+On rare occasions it is necessary to send out a strictly service-related announcement as indicated in Section 5.4 of this Privacy Policy. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications because they are not promotional in nature. However, they can deactivate their account by sending a request via [contact us](https://www.libertyreserve.com/en/contactus) form. Those users who request the deactivation of their accounts will receive a confirmation email within the next 48 hours and will be effectively removed from the list of users to whom these communications are sent.
 
 ### 6.3. Customer Service
 
@@ -96,7 +96,7 @@ Users have the opportunity to share personally identifiable information placed i
 
 Users are able to correct material inaccuracies in their personally identifiable information at any time. To make those corrections user can visit the Personal Information page placed within their Liberty Reserve Account. However, users shall consider that both dates of birth and email addresses are subject to special procedures.
 
-This information cannot be changed by users themselves. For security reasons, users willing to update their email addresses shall send a request through the [contact us](https://web.archive.org/web/20101225033559id_/http%3A//www.libertyreserve.com/en/contactus) form provided in our site. Then, a support agent will request users to provide us with the following: date of birth, current e-mail address and the new e-mail address. Dates of birth, in turn, cannot be changed for compliance reasons. They can be corrected though, but only if the user remembers the date entered when filling the registration form and requests the correction through the [contact us](https://web.archive.org/web/20101225033559id_/http%3A//www.libertyreserve.com/en/contactus) form provided in our site. Otherwise, users will be required to open a new account and use a correct date of birth as stated in the [FAQ Section](https://web.archive.org/web/20101225033559id_/http%3A//www.libertyreserve.com/help/faq) of our website.
+This information cannot be changed by users themselves. For security reasons, users willing to update their email addresses shall send a request through the [contact us](https://www.libertyreserve.com/en/contactus) form provided in our site. Then, a support agent will request users to provide us with the following: date of birth, current e-mail address and the new e-mail address. Dates of birth, in turn, cannot be changed for compliance reasons. They can be corrected though, but only if the user remembers the date entered when filling the registration form and requests the correction through the [contact us](https://www.libertyreserve.com/en/contactus) form provided in our site. Otherwise, users will be required to open a new account and use a correct date of birth as stated in the [FAQ Section](https://web.archive.org/en/help/faq) of our website.
 
 ## 10\. Security
 
