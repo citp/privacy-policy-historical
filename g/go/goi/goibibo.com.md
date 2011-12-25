@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goibibo.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518203428id_/http%3A//www.goibibo.ibibo.com/common/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goibibo.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225213321id_/http%3A//goibibo.com/common/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -38,6 +38,12 @@ Any of your information which you provide when you use our Services in an unencr
 Information, which is disclosed publicly, is also shared with our affiliates, third party service providers, sponsors of competitions etc. unless expressly stated otherwise.
 
 We are not liable to you or any third party for any damages (as defined in clause 14 of the Terms and Conditions of our Site.) that you or any third party may suffer howsoever arising from your disclosure of Personal Information in any public environment. You accordingly disclose information in a public environment at your own risk.
+
+If you are no longer interested in receiving e-mail announcements and other marketing information from us, or you want us to remove any PII that we have collected about you, please e-mail your request to [travel@ibibogroup.com](mailto:travel@ibibogroup.com).
+
+We use third-party service providers to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user.
+
+If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please click <http://www.networkadvertising.org/managing/opt_out.asp>. You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative’s website by clicking <http://www.networkadvertising.org/>.
 
 2\. Right to collect
 
