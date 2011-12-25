@@ -1,171 +1,18 @@
-<!--The following is the downloaded HTML source of the rezlive.com privacy policy that was archived on 2011-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110616023254id_/http%3A//rezlive.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rezlive.com privacy policy that was archived on 2011-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111225070500id_/http%3A//www.rezlive.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="Wholesale B2B System with 2,500 destinations &amp; more than 60 countries offering 70,000 hotels, 4500 Sightseeing &amp; Activities and Airport and land transfers.">
-<meta name="keywords" content=" Relive, Reservation Online, Global Reservation System, XML, Online Booking, Online Hotels, Worldwide Hotels, Online Sightseeing, Online Airport Transfers, Travel Reservations, Reservation System, Hotel Deals, Discounted Hotels, Travel Designer India, Travel Designer Ahmedabad, Travel Designer Mumbai, Travel Designer Delhi, Designer Indya, Indian Hotels">
 <title>RezLive.com - Global Reservation System by Travel Designer India Pvt Ltd</title>
+<meta name="description" content="Global Reservation System offering 70,000+ hotels , 40,000+ sightseeing and 5,000+ transfers options to Travel Partners is a product of Travel Designer India Private Limited">
+<meta name="keywords" content="hotels, sightseeing, transfers, online system, b2b booking engine, xml system, travel xml, wholesaler, travel agent, europe hotels, asia hotels, worldwide hotels, online deals, travel portal, discounted hotels, rezlive, travel designer">
 
 
-<style type="text/css">
-	/* Don't delete anything below here */
-	.dhtmlgoodies_contentBox {
-	height:0px;
-	visibility:hidden;
-	position:absolute;
-	overflow:hidden;
-	padding: 0px 5px 5px 5px;
-	color:#026e92;
-	width:113px;
-	float: left;
-	text-align: center;
-}
-.dhtmlgoodies_content {
-	border:1px solid #abbfd0;
-	background-color:#fff;
-	position:relative;
-	font-family: Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;
-	width:100%;
-	font-size:11px;
-	float:left;
-	height:auto;
-}
-.content_inner{border-bottom:1px solid #abbfd0; padding:5px; text-align:left;}
+<link href="css/style_sheet.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/validation.js"></script>
 
-.btn{width:113px; height:36px; border:0px solid #9ac1c9; padding:3px 0px 0px 5px; font-weight:bold; cursor:pointer; background:url(images/currency_btn.jpg) top left no-repeat;text-align: left;}
-</style>
 <script type="text/javascript">
-var slideDownInitHeight = new Array();
-var slidedown_direction = new Array();
-
-var slidedownActive = false;
-var contentHeight = false;
-var slidedownSpeed = 3; 	// Higher value = faster script
-var slidedownTimer = 7;	// Lower value = faster script
-function slidedown_showHide(boxId) {
-	if(!slidedown_direction[boxId])slidedown_direction[boxId] = 1;
-	if(!slideDownInitHeight[boxId])slideDownInitHeight[boxId] = 0;
-	
-	if(slideDownInitHeight[boxId]==0)slidedown_direction[boxId]=slidedownSpeed; else slidedown_direction[boxId] = slidedownSpeed*-1;
-	
-	slidedownContentBox = document.getElementById(boxId);
-	var subDivs = slidedownContentBox.getElementsByTagName('DIV');
-	for(var no=0;no<subDivs.length;no++){
-		if(subDivs[no].className=='dhtmlgoodies_content')slidedownContent = subDivs[no];	
-	}
-	contentHeight = slidedownContent.offsetHeight;
-	slidedownContentBox.style.visibility='visible';
-	slidedownActive = true;
-	slidedown_showHide_start(slidedownContentBox,slidedownContent);
-}
-function slidedown_showHide_start(slidedownContentBox,slidedownContent) {
-
-	if(!slidedownActive)return;
-	slideDownInitHeight[slidedownContentBox.id] = slideDownInitHeight[slidedownContentBox.id]/1 + slidedown_direction[slidedownContentBox.id];
-	if(slideDownInitHeight[slidedownContentBox.id] <= 0){
-		slidedownActive = false;	
-		slidedownContentBox.style.visibility='hidden';
-		slideDownInitHeight[slidedownContentBox.id] = 0;
-	}
-	if(slideDownInitHeight[slidedownContentBox.id]>contentHeight){
-		slidedownActive = false;	
-	}
-	slidedownContentBox.style.height = slideDownInitHeight[slidedownContentBox.id] + 'px';
-	slidedownContent.style.top = slideDownInitHeight[slidedownContentBox.id] - contentHeight + 'px';
-
-	setTimeout('slidedown_showHide_start(document.getElementById("' + slidedownContentBox.id + '"),document.getElementById("' + slidedownContent.id + '"))',slidedownTimer);	// Choose a lower value than 10 to make the script move faster
-}
-
-function setSlideDownSpeed(newSpeed) {
-	slidedownSpeed = newSpeed;
-}
-</script>
-
-<script language="javascript1.2" type="text/javascript">
-
-function manage_date(d,ci,co){
-	co_day = document.forms["hotel_form"].CO_Day;
-	co_month = document.forms["hotel_form"].CO_Month;
-	co_year = document.forms["hotel_form"].CO_Year;
-	ci_day = document.forms["hotel_form"].CI_Day;
-	ci_month = document.forms["hotel_form"].CI_Month;
-	ci_year = document.forms["hotel_form"].CI_Year;
-	days = document.forms["hotel_form"].sel_days;
-	cifromDate = ci_month.value+"/"+ci_day.value+"/"+ci_year.value;
-	cotoDate = co_month.value+"/"+co_day.value+"/"+co_year.value;
-	if (co){
-		if (Date.parse(cifromDate) > Date.parse(cotoDate)){
-			alert("Check In date should be greater than Check Out date") ;												
-			co_day.value=(ci_day.value*1)+(1);
-			return false;
-		}
-	}
-		if(d) {
-			// change CO
-			var myDate = new Date();
-			myDate.setFullYear(ci_year.value,ci_month.value-1,ci_day.value);
-			myDate.setDate(myDate.getDate() + (days.value)*1);
-			day_o = myDate.getDate();
-			if(day_o <= 9) 
-				day_o = "0"+day_o; 
-				co_day.value = day_o;
-				month = myDate.getMonth();
-				month = month+1;
-			if(month <= 9) 
-				month = "0"+month; 
-				co_month.value = month;
-				co_year.value = myDate.getFullYear();
-		}
-
-
-		if(ci){
-			// change CO
-			var myDate = new Date();
-			myDate.setFullYear(ci_year.value,ci_month.value-1,ci_day.value)	;
-			myDate.setDate(myDate.getDate() + (days.value)*1);
-			day_o = myDate.getDate();
-			if(day_o <= 9) 
-				day_o = "0"+day_o; 
-				co_day.value = day_o;
-				month = myDate.getMonth();
-				month = month+1;
-				if(month <= 9) 
-					month = "0"+month; 
-					co_month.value = month;
-					co_year.value = myDate.getFullYear();
-				}
-		if(co){
-
-
-			// change CO
-
-
-			var myCiDate = new Date();
-			var myCoDate = new Date();
-			myCiDate.setFullYear(ci_year.value,ci_month.value-1,ci_day.value);	
-			myCoDate.setFullYear(co_year.value,co_month.value-1,co_day.value);	
-			days.value = (myCoDate-myCiDate)/(24*60*60*1000);
-		}
-		if (isDate(cifromDate)==false){		
-			document.forms["hotel_form"].CI_Day.focus();			
-			return false;
-			
-		}
-		if (isDate(cotoDate)==false){		
-			document.forms["hotel_form"].CO_Month.focus();			
-		return false;
-			
-		}
-	}
-
-function hotels(arg1){
-		var i=0;
-		for(i=1; i<=3; i++){
-			document.getElementById(i).style.display = 'none';
-		}
-		document.getElementById(arg1).style.display = 'block';
-	}
+<!--
 function MM_swapImgRestore() { //v3.0
   var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
 }
@@ -187,807 +34,281 @@ function MM_swapImage() { //v3.0
   var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
-
-function Visa_Processing() {
-	winx = window.open('visa_processing.php','VisaProcessing','width=800,height=600,resizable=1,scrollbars=1');
-	winx.title = 'Visa Processing';
-}
+//-->
 </script>
-<link href="css/style_sheet.css" rel="stylesheet" type="text/css">
-<link href="css/calendar_pop.css" type="text/css" rel="stylesheet">
-<link href="css/menu_css.css" type="text/css" rel="stylesheet">
-<link rel="stylesheet" href="js/windowfiles/dhtmlwindow.css" type="text/css">
-<link rel="stylesheet" href="js/modalfiles/modal.css" type="text/css">
+<script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript" src="js/dynamic/ajax.js"></script>
-<script type="text/javascript" src="js/global.js"></script>    
-<script type="text/javascript" src="js/validation.js"></script>    
-<script type="text/javascript" src="js/PopupWindow.js"></script>
-<script type="text/javascript" src="js/AnchorPosition.js"></script>
-<script type="text/javascript" src="js/date.js"></script>
-<script type="text/javascript" src="js/hotel_search.js"></script>
-<script type="text/javascript" src="js/windowfiles/dhtmlwindow.js"></script>
-<script type="text/javascript" src="js/modalfiles/modal.js"></script>
-<script type="text/javascript" src="js/swfobject.js"></script>
-<script type="text/javascript" src="js/ajaxpagination.js"></script>
-<script type="text/javascript" src="js/menuNew.js" language="javascript"></script>
-<script language="JavaScript" src="js/menu.js" type="text/javascript"></script>
-<script language="JavaScript" src="js/mm_menu.js" type="text/javascript"></script>
-<script src="js/mootools-1.2-core.js" type="text/javascript" language="javascript"></script>
-<script src="js/mootools-1.2-more.js" type="text/javascript" language="javascript"></script>
-<script type="text/javascript" src="js/menu_new2.js"></script>
-<script type="text/javascript" src="js/check_date.js"></script>			
-<script type="text/javascript" src="js/chk_date.js"></script> 
+<script type="text/javascript" src="js/dynamic/ajax-dynamic-list.js"></script>
 <script type="text/javascript">
-//alert('hello');
 
-function validate_room_type(sId) {
-	//alert('hello');
- var check_counter = parseInt(0) ;
-    var outArray = new Array();	
-	if(typeof(sId)!='string' || !sId)	{	
-		return outArray;
-	};	
-	 if(document.hotel_form)	{		
-		var mycount=document.hotel_form[sId].length;
-		var flag ;
-		for(var i=0;i<document.hotel_form[sId].length;i++){
-			outArray[i] =  document.hotel_form[sId][i];
-			//alert(outArray[i].value);
-			if(outArray[i].value== "") {
-				//alert("blank");
-				//alert("i is" + i);
-				flag = i + 1  ;								
-				//alert("now flag is" + flag);
-			}else {
-				//alert("not blank");
-				flag = 0;	
-				return true ;
-				//alert("flag is" + flag);
-			}
+$(document).ready(function() {
+	
+	//On Click Event
+	$("ul.tabs li").click(function() {
+		$("ul.tabs li").removeClass("active"); //Remove any "active" class
+		$(this).addClass("active"); //Add "active" class to selected tab
+		$(".tab_content").hide(); //Hide all tab content
+		var activeTab = $(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
+		$(activeTab).fadeIn(); //Fade in the active content
+
+		if(activeTab =="#map_tab"){
+			$(".tab_content").hide(); //Hide all content
+			$("ul.tabs li:last").addClass("active").show(); //Activate first tab
+			$(".tab_content:last").show(); //Show first tab content
+			window.location.href= "map.php";
+		}
+
+		if(activeTab =="#list_tab"){
+			$(".tab_content").hide(); //Hide all content
+			$("ul.tabs li:first").addClass("active").show(); //Activate first tab
+			$(".tab_content:first").show(); //Show first tab content
+			window.location.href= "hotel_search_list.php?action_type=search_hotels_cached&sorting=price&sort_data=1";
 		}
 		
-	}
-	//alert("mycount is" + mycount);
-	//alert("flag  is" + flag);	
-	if (mycount == flag)	{
-		alert("Select atleast one Room Type");
-	}
-	
- }
+		return false;
+	});
 
-function validate_room_and_pax_count(sId,pId) {
-	var check_counter = parseInt(0) ;
-    var outArray = new Array();	
-	var paxArray = new Array();	
-	if(typeof(sId)!='string' || !sId)	{	
-		return outArray;
-	};	
-	 if(document.hotel_form)	{		
-		var mycount=document.hotel_form[sId].length;
-		var flag ;
-		var RoomCount = '0' ;
-		var PaxCount = '0' ;
-		for(var i=0;i<document.hotel_form[sId].length;i++){
-			outArray[i] =  document.hotel_form[sId][i];
-			paxArray[i] =  document.hotel_form[pId][i];
-			
-			//alert(outArray[i].value);
-			//alert(paxArray[i].value);
-			if(outArray[i].value > 3) {
-				alert("Maximum 3 rooms allowed in one room type");
-				return false;
-			}
-			if(((outArray[i].value) * (paxArray[i].value)) > 9){
-				alert("Maximum 9 Pax allowed in one room type");
-				return false;
-			}
-		}
-		return true;
-		
-	}
-	
- } function validate_rating(rate_id) {
-	 //alert(rate_id) ;
-	 //alert(document.hotel_form[rate_id].length);
-	 var minmum_rating_selection= new Array(); 
-	 cnt=0;
-	 for(var i=0;i<document.hotel_form[rate_id].length;i++){
-		 //alert(document.hotel_form[rate_id][i].value);
-		 if (document.hotel_form[rate_id][i].checked){
-			 //alert('Yes cnt is now '+ cnt);			 
-			 minmum_rating_selection[cnt]=document.hotel_form[rate_id][i].value ;			 
-			 cnt= cnt + 1 ;
-		 }else {
-			 //alert('No');
-		 }
-		 
-	 }
-	 
-	 if (minmum_rating_selection.length > 0) {
-		if (minmum_rating_selection.length > 3) {
-			alert('You should not select more than 3 ratings.');
-			 return false;
-		}else {
-			return true ;
-		}
-	 }else {
-		 alert('You should select atleast 1 rating.');
-		 return false;
-	 }
-
- }
-var total = new Array();
-function search_frm() {
-	var MformObj = document.forms["hotel_form"];		
-	
-	var arr_date=new Date(MformObj.arrivalDate.value) ;					
-	var departure_date=new Date(MformObj.departureDate.value) ;					
-
-	var CI_Day = arr_date.getDate() ;
-	var CI_Month = arr_date.getMonth()+1 ;
-	var CI_Year = arr_date.getFullYear();					
-
-	var CO_Day = departure_date.getDate() ;
-	var CO_Month = departure_date.getMonth()+1 ;
-	var CO_Year = departure_date.getFullYear();					
-	
-	/*if(MformObj.sel_roomtype.options[MformObj.sel_roomtype.selectedIndex].value == 'doublepluschild' || MformObj.sel_roomtype.options[MformObj.sel_roomtype.selectedIndex].value == 'triplepluschild') {
-		MformObj.txt_child_age.value = MformObj.txt_child_age.value ;
-	} else {
-		MformObj.txt_child_age.value = '' ;
-	}*/
-
-					
-	smonth	=	CI_Month; 
-	sday	=	CI_Day;
-	syear	=	CI_Year;
-
-	emonth	=	CO_Month;
-	eday	=	CO_Day;
-	eyear	=	CO_Year;
-
-	fromDate = smonth+"/"+sday+"/"+syear;
-	toDate = emonth+"/"+eday+"/"+eyear;
-
-					
-	var curr_date=new Date();
-	curr_date = curr_date.getMonth()+1+"/"+curr_date.getDate()+"/"+curr_date.getFullYear();
-	
-			
-	var total_count = 0;
-	for(var i=0;i<total.length;i++) {
-		if(total[i]) {
-			if(total[i] != "") {
-				total_count += 1;
-			}
-		} 
-	}
-					
-	if(MformObj.sel_city_preferred.options[MformObj.sel_city_preferred.selectedIndex].value == "" && MformObj.sel_country.options[MformObj.sel_country.selectedIndex].value == "") {
-		alert("Select a country.");
-		MformObj.sel_country.focus();
-	}else if(MformObj.sel_city_preferred.options[MformObj.sel_city_preferred.selectedIndex].value == "" && MformObj.sel_city.options[MformObj.sel_city.selectedIndex].value == "") {
-		alert("Select a city.");
-		MformObj.sel_city.focus();
-	} else {
-		var final_string = "";
-		var tt;
-		for(var i=0;i<total.length;i++) {
-			if(total[i]) {
-				if(total[i] != "") {
-					tt = total[i].toString();
-					final_string = final_string+tt;
-				}
-			} 
-		}
-						
-		var rating = 0;
-		var selected;
-		for(i=0;i<document.forms["hotel_form"].elements.length;i++){
-		if(document.forms["hotel_form"].elements[i].type == 'select-one'){
-			if(document.forms["hotel_form"].elements[i].name == 'sel_roomtype'){
-					if(document.forms["hotel_form"].elements[i].value != 0){
-						selected = 1;
-						//break;
-					} else {
-						selected = 0;
-					}
-				}
-			} else if(document.forms["hotel_form"].elements[i].type == "checkbox" && document.forms["hotel_form"].elements[i].checked){
-				rating++;
-			}
-		}
-						
-		if(MformObj.sel_hotel.value == "") {						
-			if(validate_room_type('room') && validate_room_and_pax_count('room','roomtypePaxCount') && validate_rating('rating_chk')){				
-				MformObj.submit();
-			}				
-		}else{
-			if(validate_room_type('room') && validate_room_and_pax_count('room','roomtypePaxCount')){
-					MformObj.submit();
-			}
-		}
-	}
-}
-
-function unselect_ratings(formObj){
-	
-}
-var ajax = new sack();
-
-function getCityList(sel) {					
-	document.getElementById('city_loading').style.display = 'block';
-	document.getElementById('sel_city').disabled = true;
-	var countryCode = sel.options[sel.selectedIndex].value;
-
-	document.getElementById('sel_city').options.length = 0;	// Empty city select box
-	if(countryCode){
-		ajax.requestFile = 'ajax/ajax_city_list.php?sel_country='+countryCode;	// Specifying which file to get
-		ajax.onCompletion = createCities;	// Specify function that will be executed after file has been found
-		ajax.runAJAX();		// Execute AJAX function
-	}																											
-}
-
-function createCities() {
-	var obj = document.getElementById('sel_city');
-	eval(ajax.response);	// Executing the response from Ajax as Javascript code	
-	document.getElementById('city_loading').style.display = 'none';
-	document.getElementById('sel_city').disabled = false;
-}
-
-function getHotelList(sel) {
-	hotel_loading.style.display = 'block';
-	document.getElementById('sel_hotel').disabled = true;
-	var cityCode = sel.options[sel.selectedIndex].value;
-	document.getElementById('sel_hotel').options.length = 0;	// Empty city select box
-	alert(cityCode);
-	if(cityCode){
-		ajax.requestFile = 'ajax/ajax_hotel_list.php?sel_city='+cityCode;	// Specifying which file to get
-		ajax.onCompletion = createHotels;	// Specify function that will be executed after file has been found
-		ajax.runAJAX();		// Execute AJAX function
-	}
-	
-}
-
-function createHotels() {
-	var obj = document.getElementById('sel_hotel');
-	eval(ajax.response);	// Executing the response from Ajax as Javascript code	
-	hotel_loading.style.display = 'none';
-	document.getElementById('sel_hotel').disabled = false;
-}
-
-/*function manage_date(d,ci,co){
-	alert("testing");
-	selected_ci_date=document.forms["hotel_form"].arrivalDate.value;
-	selected_co_date=document.forms["hotel_form"].departureDate.value;
-	
-	var ci_dateArray = selected_ci_date.split('/');					
-	var co_dateArray = selected_co_date.split('/');					
-	ci_day=ci_dateArray[0];
-	ci_month=ci_dateArray[1];
-	ci_year=ci_dateArray[2];
-	co_day=co_dateArray[0];
-	co_month=co_dateArray[1];
-	co_year=co_dateArray[2];
-
-
-	days = document.forms["hotel_form"].sel_days;
-	
-	cifromDate = ci_month+"/"+ci_day+"/"+ci_year;
-	cotoDate = co_month+"/"+co_day+"/"+co_year;
-						
-	if (co){
-		if (Date.parse(cifromDate) > Date.parse(cotoDate)){
-			alert("Check In date should be greater than Check Out date");												
-			co_day.value=(ci_day.value*1)+(1);
-			return false;
-		}
-	}
-					
-	if(d) {
-		// change CO
-		//alert('nikhil');						
-		var myDate = new Date();
-		myDate.setFullYear(ci_year,ci_month-1,ci_day);
-		
-		myDate.setDate(myDate.getDate() + (days.value)*1);
-		
-		day_o = myDate.getDate();
-		if(day_o <= 9) 
-			day_o = "0"+day_o; 
-
-		co_day = day_o;
-		
-		month = myDate.getMonth();
-		month = month+1;
-		if(month <= 9) 
-			month = "0"+month; 
-
-		co_month = month;
-		co_year = myDate.getFullYear();
-		
-		document.forms["hotel_form"].departureDate.value = co_day+"/"+co_month+"/"+co_year;						
-	}
-					
-	if(ci){
-		// change CO
-		var myDate = new Date();
-		myDate.setFullYear(ci_year,ci_month-1,ci_day);
-		myDate.setDate(myDate.getDate() + (days.value)*1);
-		
-		day_o = myDate.getDate();
-		if(day_o <= 9) 
-			day_o = "0"+day_o; 
-
-		co_day = day_o;
-		month = myDate.getMonth();
-		month = month+1;
-		if(month <= 9) 
-			month = "0"+month; 
-
-		co_month = month;
-		co_year = myDate.getFullYear();
-	}
-
-	if(co){
-		// change CO
-		var myCiDate = new Date();
-		var myCoDate = new Date();
-		myCiDate.setFullYear(ci_year,ci_month-1,ci_day);	
-		myCoDate.setFullYear(co_year,co_month-1,co_day);	
-		days.value = (myCoDate-myCiDate)/(24*60*60*1000);
-	}
-				
-}*/
-			//-->
+});
 </script>
-
+<script language="javascript">
+	function offers(abc)
+	{
+		var i=1;
+		for(i=1; i<=6; i++ ){
+		document.getElementById(i).style.display='none';
+		}
+		document.getElementById(abc).style.display='block';
+	}
+	
+function change_css(arg1){
+	if(arg1 == 'change1'){
+		document.getElementById("change1").className = 'offers_tabs_ov';
+		document.getElementById("change2").className = 'offers_tabs';
+		document.getElementById("change3").className = 'offers_tabs';
+		document.getElementById("change4").className = 'offers_tabs';
+		document.getElementById("change5").className = 'offers_tabs';
+		document.getElementById("change6").className = 'offers_tabs';
+	}
+	else if(arg1 == 'change2'){
+		document.getElementById("change1").className = 'offers_tabs';
+		document.getElementById("change2").className = 'offers_tabs_ov';
+		document.getElementById("change3").className = 'offers_tabs';
+		document.getElementById("change4").className = 'offers_tabs';
+		document.getElementById("change5").className = 'offers_tabs';
+		document.getElementById("change6").className = 'offers_tabs';
+	}
+	else if(arg1 == 'change3'){
+		document.getElementById("change1").className = 'offers_tabs';
+		document.getElementById("change2").className = 'offers_tabs';
+		document.getElementById("change3").className = 'offers_tabs_ov';
+		document.getElementById("change4").className = 'offers_tabs';
+		document.getElementById("change5").className = 'offers_tabs';
+		document.getElementById("change6").className = 'offers_tabs';
+	}
+	else if(arg1 == 'change4'){
+		document.getElementById("change1").className = 'offers_tabs';
+		document.getElementById("change2").className = 'offers_tabs';
+		document.getElementById("change3").className = 'offers_tabs';
+		document.getElementById("change4").className = 'offers_tabs_ov';
+		document.getElementById("change5").className = 'offers_tabs';
+		document.getElementById("change6").className = 'offers_tabs';
+	}
+	else if(arg1 == 'change5'){
+		document.getElementById("change1").className = 'offers_tabs';
+		document.getElementById("change2").className = 'offers_tabs';
+		document.getElementById("change3").className = 'offers_tabs';
+		document.getElementById("change4").className = 'offers_tabs';
+		document.getElementById("change5").className = 'offers_tabs_ov';
+		document.getElementById("change6").className = 'offers_tabs';
+	}
+	else if(arg1 == 'change6'){
+		document.getElementById("change1").className = 'offers_tabs';
+		document.getElementById("change2").className = 'offers_tabs';
+		document.getElementById("change3").className = 'offers_tabs';
+		document.getElementById("change4").className = 'offers_tabs';
+		document.getElementById("change5").className = 'offers_tabs';
+		document.getElementById("change6").className = 'offers_tabs_ov';
+	}
+}
+</script>
 
 </head>
-<body>
-
-
-<script language="JavaScript1.2" type="text/javascript">mmLoadMenus();</script><span id="menuContainer"><div id="menuLayer0" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(206, 206, 206); background-color: rgb(206, 206, 206); width: 123px; height: 75px;">
-  <div id="menuLite0" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 73px; width: 121px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg0" style="position: absolute; left: 1px; top: 1px; height: 72px; width: 120px; background-color: rgb(228, 213, 0);">
-<div id="menuItem0" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 119px; height: 17px; background-color: rgb(238, 235, 195); visibility: inherit; cursor: pointer;"><div id="menuItemText0" style="position:absolute;left:4px;top:2px;color:#524c00;">»&nbsp;Market&nbsp;Today&nbsp;</div>
-<div id="menuItemHilite0" style="position:absolute;left:4px;top:2px;color:#555555;visibility:hidden;">»&nbsp;Market&nbsp;Today&nbsp;</div></div><div id="menuItem1" style="position: absolute; left: 0px; top: 18px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 119px; height: 17px; background-color: rgb(238, 235, 195); visibility: inherit; cursor: pointer;"><div id="menuItemText1" style="position:absolute;left:4px;top:2px;color:#524c00;">»&nbsp;Money&nbsp;Buzz&nbsp;</div>
-<div id="menuItemHilite1" style="position:absolute;left:4px;top:2px;color:#555555;visibility:hidden;">»&nbsp;Money&nbsp;Buzz&nbsp;</div></div><div id="menuItem2" style="position: absolute; left: 0px; top: 36px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 119px; height: 17px; background-color: rgb(238, 235, 195); visibility: inherit; cursor: pointer;"><div id="menuItemText2" style="position:absolute;left:4px;top:2px;color:#524c00;">»&nbsp;Tech&nbsp;Buzz&nbsp;</div>
-<div id="menuItemHilite2" style="position:absolute;left:4px;top:2px;color:#555555;visibility:hidden;">»&nbsp;Tech&nbsp;Buzz&nbsp;</div></div><div id="menuItem3" style="position: absolute; left: 0px; top: 54px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 119px; height: 17px; background-color: rgb(238, 235, 195); visibility: inherit; cursor: pointer;"><div id="menuItemText3" style="position:absolute;left:4px;top:2px;color:#524c00;">»&nbsp;Insight&nbsp;</div>
-<div id="menuItemHilite3" style="position:absolute;left:4px;top:2px;color:#555555;visibility:hidden;">»&nbsp;Insight&nbsp;</div></div>	  <div id="focusItem0" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer1" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(206, 206, 206); background-color: rgb(206, 206, 206); width: 123px; height: 39px;">
-  <div id="menuLite1" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 37px; width: 121px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg1" style="position: absolute; left: 1px; top: 1px; height: 36px; width: 120px; background-color: rgb(228, 213, 0);">
-<div id="menuItem4" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 119px; height: 17px; background-color: rgb(238, 235, 195); visibility: inherit; cursor: pointer;"><div id="menuItemText4" style="position:absolute;left:4px;top:2px;color:#524c00;">»&nbsp;Market&nbsp;Weekly&nbsp;</div>
-<div id="menuItemHilite4" style="position:absolute;left:4px;top:2px;color:#555555;visibility:hidden;">»&nbsp;Market&nbsp;Weekly&nbsp;</div></div><div id="menuItem5" style="position: absolute; left: 0px; top: 18px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 119px; height: 17px; background-color: rgb(238, 235, 195); visibility: inherit; cursor: pointer;"><div id="menuItemText5" style="position:absolute;left:4px;top:2px;color:#524c00;">»&nbsp;WTO&nbsp;</div>
-<div id="menuItemHilite5" style="position:absolute;left:4px;top:2px;color:#555555;visibility:hidden;">»&nbsp;WTO&nbsp;</div></div>	  <div id="focusItem1" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer2" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(206, 206, 206); background-color: rgb(206, 206, 206); width: 133px; height: 57px;">
-  <div id="menuLite2" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 55px; width: 131px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg2" style="position: absolute; left: 1px; top: 1px; height: 54px; width: 130px; background-color: rgb(228, 213, 0);">
-<div id="menuItem6" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 129px; height: 17px; background-color: rgb(238, 235, 195); visibility: inherit; cursor: pointer;"><div id="menuItemText6" style="position:absolute;left:4px;top:2px;color:#524c00;">»&nbsp;Eco&nbsp;Update&nbsp;</div>
-<div id="menuItemHilite6" style="position:absolute;left:4px;top:2px;color:#555555;visibility:hidden;">»&nbsp;Eco&nbsp;Update&nbsp;</div></div><div id="menuItem7" style="position: absolute; left: 0px; top: 18px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 129px; height: 17px; background-color: rgb(238, 235, 195); visibility: inherit; cursor: pointer;"><div id="menuItemText7" style="position:absolute;left:4px;top:2px;color:#524c00;">»&nbsp;Monetary&nbsp;Policy&nbsp;</div>
-<div id="menuItemHilite7" style="position:absolute;left:4px;top:2px;color:#555555;visibility:hidden;">»&nbsp;Monetary&nbsp;Policy&nbsp;</div></div><div id="menuItem8" style="position: absolute; left: 0px; top: 36px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 129px; height: 17px; background-color: rgb(238, 235, 195); visibility: inherit; cursor: pointer;"><div id="menuItemText8" style="position:absolute;left:4px;top:2px;color:#524c00;">»&nbsp;Portfolio&nbsp;</div>
-<div id="menuItemHilite8" style="position:absolute;left:4px;top:2px;color:#555555;visibility:hidden;">»&nbsp;Portfolio&nbsp;</div></div>	  <div id="focusItem2" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer3" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(206, 206, 206); background-color: rgb(206, 206, 206); width: 143px; height: 57px;">
-  <div id="menuLite3" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 55px; width: 141px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg3" style="position: absolute; left: 1px; top: 1px; height: 54px; width: 140px; background-color: rgb(228, 213, 0);">
-<div id="menuItem9" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 139px; height: 17px; background-color: rgb(238, 235, 195); visibility: inherit; cursor: pointer;"><div id="menuItemText9" style="position:absolute;left:4px;top:2px;color:#524c00;">»&nbsp;Company&nbsp;Updates&nbsp;</div>
-<div id="menuItemHilite9" style="position:absolute;left:4px;top:2px;color:#555555;visibility:hidden;">»&nbsp;Company&nbsp;Updates&nbsp;</div></div><div id="menuItem10" style="position: absolute; left: 0px; top: 18px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 139px; height: 17px; background-color: rgb(238, 235, 195); visibility: inherit; cursor: pointer;"><div id="menuItemText10" style="position:absolute;left:4px;top:2px;color:#524c00;">»&nbsp;Results&nbsp;Preview&nbsp;</div>
-<div id="menuItemHilite10" style="position:absolute;left:4px;top:2px;color:#555555;visibility:hidden;">»&nbsp;Results&nbsp;Preview&nbsp;</div></div><div id="menuItem11" style="position: absolute; left: 0px; top: 36px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 139px; height: 17px; background-color: rgb(238, 235, 195); visibility: inherit; cursor: pointer;"><div id="menuItemText11" style="position:absolute;left:4px;top:2px;color:#524c00;">»&nbsp;Sector&nbsp;Updates&nbsp;</div>
-<div id="menuItemHilite11" style="position:absolute;left:4px;top:2px;color:#555555;visibility:hidden;">»&nbsp;Sector&nbsp;Updates&nbsp;</div></div>	  <div id="focusItem3" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer4" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(206, 206, 206); background-color: rgb(206, 206, 206); width: 123px; height: 75px;">
-  <div id="menuLite4" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 73px; width: 121px; background-color: rgb(119, 110, 1);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg4" style="position: absolute; left: 1px; top: 1px; height: 72px; width: 120px; background-color: rgb(119, 110, 1);">
-<div id="menuItem12" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 119px; height: 17px; background-color: rgb(211, 204, 113); visibility: inherit; cursor: pointer;"><div id="menuItemText12" style="position:absolute;left:4px;top:2px;color:#524c00;"> »&nbsp;Analysis&nbsp;</div>
-<div id="menuItemHilite12" style="position:absolute;left:4px;top:2px;color:#555555;visibility:hidden;"> »&nbsp;Analysis&nbsp;</div><div id="childMenu12" style="position: absolute; left: 108px; top: 4.5px;"><img src="images/arrows.gif"></div>
-</div><div id="menuItem13" style="position: absolute; left: 0px; top: 18px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 119px; height: 17px; background-color: rgb(211, 204, 113); visibility: inherit; cursor: pointer;"><div id="menuItemText13" style="position:absolute;left:4px;top:2px;color:#524c00;"> »&nbsp;Signals&nbsp;</div>
-<div id="menuItemHilite13" style="position:absolute;left:4px;top:2px;color:#555555;visibility:hidden;"> »&nbsp;Signals&nbsp;</div><div id="childMenu13" style="position: absolute; left: 108px; top: 4.5px;"><img src="images/arrows.gif"></div>
-</div><div id="menuItem14" style="position: absolute; left: 0px; top: 36px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 119px; height: 17px; background-color: rgb(211, 204, 113); visibility: inherit; cursor: pointer;"><div id="menuItemText14" style="position:absolute;left:4px;top:2px;color:#524c00;"> »&nbsp;Reports&nbsp;</div>
-<div id="menuItemHilite14" style="position:absolute;left:4px;top:2px;color:#555555;visibility:hidden;"> »&nbsp;Reports&nbsp;</div><div id="childMenu14" style="position: absolute; left: 108px; top: 4.5px;"><img src="images/arrows.gif"></div>
-</div><div id="menuItem15" style="position: absolute; left: 0px; top: 54px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 119px; height: 17px; background-color: rgb(211, 204, 113); visibility: inherit; cursor: pointer;"><div id="menuItemText15" style="position:absolute;left:4px;top:2px;color:#524c00;"> »&nbsp;Publications&nbsp;</div>
-<div id="menuItemHilite15" style="position:absolute;left:4px;top:2px;color:#555555;visibility:hidden;"> »&nbsp;Publications&nbsp;</div><div id="childMenu15" style="position: absolute; left: 108px; top: 4.5px;"><img src="images/arrows.gif"></div>
-</div>	  <div id="focusItem4" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer5" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(119, 110, 1); background-color: rgb(119, 110, 1); width: 174px; height: 57px;">
-  <div id="menuLite5" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 55px; width: 172px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg5" style="position: absolute; left: 1px; top: 1px; height: 54px; width: 171px; background-color: rgb(119, 110, 1);">
-<div id="menuItem16" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 170px; height: 17px; background-color: rgb(217, 217, 217); visibility: inherit; cursor: pointer;"><div id="menuItemText16" style="position:absolute;left:4px;top:2px;color:#524c00;">»&nbsp;Hotel&nbsp;Booking&nbsp;List&nbsp;</div>
-<div id="menuItemHilite16" style="position:absolute;left:4px;top:2px;color:#555555;visibility:hidden;">»&nbsp;Hotel&nbsp;Booking&nbsp;List&nbsp;</div></div><div id="menuItem17" style="position: absolute; left: 0px; top: 18px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 170px; height: 17px; background-color: rgb(217, 217, 217); visibility: inherit; cursor: pointer;"><div id="menuItemText17" style="position:absolute;left:4px;top:2px;color:#524c00;">»&nbsp;Sightseeing&nbsp;Booking&nbsp;List&nbsp;</div>
-<div id="menuItemHilite17" style="position:absolute;left:4px;top:2px;color:#555555;visibility:hidden;">»&nbsp;Sightseeing&nbsp;Booking&nbsp;List&nbsp;</div></div><div id="menuItem18" style="position: absolute; left: 0px; top: 36px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 170px; height: 17px; background-color: rgb(217, 217, 217); visibility: inherit; cursor: pointer;"><div id="menuItemText18" style="position:absolute;left:4px;top:2px;color:#524c00;">»&nbsp;Transfer&nbsp;Booking&nbsp;List&nbsp;</div>
-<div id="menuItemHilite18" style="position:absolute;left:4px;top:2px;color:#555555;visibility:hidden;">»&nbsp;Transfer&nbsp;Booking&nbsp;List&nbsp;</div></div>	  <div id="focusItem5" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer6" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(119, 110, 1); background-color: rgb(119, 110, 1); width: 174px; height: 57px;">
-  <div id="menuLite6" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 55px; width: 172px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg6" style="position: absolute; left: 1px; top: 1px; height: 54px; width: 171px; background-color: rgb(119, 110, 1);">
-<div id="menuItem19" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 170px; height: 17px; background-color: rgb(217, 217, 217); visibility: inherit; cursor: pointer;"><div id="menuItemText19" style="position:absolute;left:4px;top:2px;color:#524c00;">»&nbsp;Manage&nbsp;Sub&nbsp;Agent&nbsp;</div>
-<div id="menuItemHilite19" style="position:absolute;left:4px;top:2px;color:#555555;visibility:hidden;">»&nbsp;Manage&nbsp;Sub&nbsp;Agent&nbsp;</div></div><div id="menuItem20" style="position: absolute; left: 0px; top: 18px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 170px; height: 17px; background-color: rgb(217, 217, 217); visibility: inherit; cursor: pointer;"><div id="menuItemText20" style="position:absolute;left:4px;top:2px;color:#524c00;">»&nbsp;Edit&nbsp;Profile&nbsp;</div>
-<div id="menuItemHilite20" style="position:absolute;left:4px;top:2px;color:#555555;visibility:hidden;">»&nbsp;Edit&nbsp;Profile&nbsp;</div></div><div id="menuItem21" style="position: absolute; left: 0px; top: 36px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 170px; height: 17px; background-color: rgb(217, 217, 217); visibility: inherit; cursor: pointer;"><div id="menuItemText21" style="position:absolute;left:4px;top:2px;color:#524c00;">»&nbsp;Change&nbsp;Password&nbsp;</div>
-<div id="menuItemHilite21" style="position:absolute;left:4px;top:2px;color:#555555;visibility:hidden;">»&nbsp;Change&nbsp;Password&nbsp;</div></div>	  <div id="focusItem6" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-</span>
-
-
+<body onload="MM_preloadImages('images/home_btn_ov.jpg','images/hotels_btn_ov.jpg','images/sightseeing_btn_ov.jpg','images/transfers_btn_ov.jpg')">
 <div class="main">
-	<div id="container">
-    	<div id="main_content">
-           	
-<script language="javascript1.2" type="text/javascript">
-var ajax=new sack();
-function clear_text(arg1){					
-	if(arg1 == 'agent'){
-		if(document.getElementById("agent").value == 'Agent Code'){
-			document.getElementById('agent').value = '';
-		}
-	} else if(arg1 == 'username'){
-		if(document.getElementById("username").value == 'Username'){
-			document.getElementById('username').value = '';
-		}
-	} else if(arg1 == 'password'){						
-		if(document.getElementById("password").value == 'Password'){							
-			document.getElementById("dummy_pass").style.display='none';								
-			document.getElementById("main_pass").style.display='block';								
-			document.getElementById('password').value = '';					
-			document.getElementById('password').focus();
-		}
-	}
-}
-
-function clearField(id, val){
-	if(document.getElementById(id).value == val){
-		document.getElementById(id).value = "";
-	}
-}
-function defaultText(id, val){
-	if(document.getElementById(id).value == ''){
-		document.getElementById(id).value = val;
-		temp = 0;
-	}
-}
-function setNewValue(id){
-	if(document.getElementById(id).value != ""){
-		//temp = 1;
-	}
-}
-
-function getFieldNew(){
-	if(document.getElementById("passwordRequestP").value == ''){
-		document.getElementById('passwordRequestT').value = 'Password';
-		document.getElementById("dummy_pass").style.display='block';								
-		document.getElementById("main_pass").style.display='none';								
-	}
-}
-function clearFieldNew(){		
-		document.getElementById("dummy_pass").style.display='none';								
-		document.getElementById("main_pass").style.display='block';								
-		document.getElementById('passwordRequestP').value = '';					
-		document.getElementById('passwordRequestP').focus();
-}
-				
-function get_text(arg1){
-	if(arg1 == 'agent'){
-		if(document.getElementById("agent").value == ''){
-			document.getElementById('agent').value = 'Agent Code';
-		}
-	}
-	else if(arg1 == 'username'){
-		if(document.getElementById("username").value == ''){
-			document.getElementById('username').value = 'Username';
-		}
-		
-	}
-	else if(arg1 == 'password'){
-		if(document.getElementById("password").value == ''){
-			document.getElementById('password').value = 'Password';
-			document.getElementById("dummy_pass").style.display='block';								
-			document.getElementById("main_pass").style.display='none';								
-		}
-	}
-
-}
-function checkReturn(e) {
- var ENTER_KEY = 13;
-            var code = "";
-      
- if (window.event) // IE
-            {
-                code = e.keyCode;
-            }
-            else if (e.which) // Netscape/Firefox/Opera
-            {
-                code = e.which;
-            }
- if(code == ENTER_KEY) {
-  submit_login_form(document.forms['agent_login_frm']);
- 
- }
-}
-
-		
-function submit_login_form(formObj){
-	if(is_empty(formObj.txt_agent_code,formObj.txt_agent_code.value) || formObj.txt_agent_code.value == 'Agent Code') {
-		alert('Enter Agent Code.');
-		formObj.txt_agent_code.focus();
-		//return false;
-	} else if(is_empty(formObj.txt_username,formObj.txt_username.value) || formObj.txt_username.value == 'Username') {
-		alert('Enter Username.');
-		formObj.txt_username.focus();
-		//return false;
-	} else if(is_empty(formObj.txt_password,formObj.txt_password.value) || formObj.txt_password.value == 'Password') {
-		alert('Enter Password.');
-		//return false;
-	} else {
-		formObj.submit();
-	}
-}
-
-
-</script>
-
-
-<div class="float_left" style="padding:27px 0px 0px; width:100%;border:0px solid red;">
-	<div class="float_left" style="width:463px; padding:5px 0px 0px 10px; ">
-		<div class="width_auto float_left color_white">» <a href="agent_registration.php" class="color_white">Agents Register Here</a></div>
-		<div class="width_auto float_left color_white">» <a href="supplier_registration.php" class="color_white">Supplier Register Here</a></div>
-		<div class="width_auto float_right color_white">» <a href="forgot_password.php" class="color_white">Forgot Password</a></div>
-		<div class="float_left" style="width:100%; padding:3px 0px 0px;">
-			
-			<table width="100%" border="0" cellpadding="0" cellspacing="0">
-			  <tbody><tr>
-				<td align="left" valign="top"><img src="images/img_001.jpg" alt=""></td>
-			  </tr>
-			  <tr>
-				<td align="center" valign="top" style="background:url(images/img_003.jpg) top left no-repeat; width:462px; height:24px; padding:3px 0px 0px;">
-				<form name="agent_login_frm" method="POST" action="agent_login.php">
-				<input type="hidden" name="action_type" value="login">					
-					<table width="95%" border="0" cellpadding="0" cellspacing="0">
-					  <tbody><tr>
-						<td width="80" align="left" valign="top" class="color_white bold" style="padding:3px 0px 0px;">Agent Login:</td>
-						<td width="110" align="left" valign="top"><input type="text" name="txt_agent_code" id="agent" value="Agent Code" class="input_style" onfocus="clear_text('agent')" onblur="get_text('agent')"></td>
-						<td width="110" align="left" valign="top">
-						<input type="text" name="txt_username" id="txt_username" class="input_style" value="Username" onblur="javascript: defaultText('txt_username', 'Username');" onfocus="javascript: clearField('txt_username', 'Username');" style="width:95%">
-						</td>
-						<td width="110" align="left" valign="top">
-							<div id="main_pass" style="display:none;">
-							<input type="password" name="txt_password" id="passwordRequestP" class="input_style" style="width:95%;" value="" onkeydown="javascript: checkReturn(event);">
-								</div>
-								<div id="dummy_pass">
-								<input type="text" name="passwordRequest" id="passwordRequestT" class="input_style" style="width:95%;" value="Password" onfocus="javascript: clearFieldNew();" onclick="javascript: clearFieldNew();" onkeypress="javascript: clearFieldNew();" onmouseup="javascript: clearFieldNew();">
-								</div>
-						</td>
-						<td align="left" valign="top"><a href="javascript:submit_login_form(document.forms['agent_login_frm']);"><img src="images/btn_go.jpg" alt="Agent Login" title="Agent Login" width="23" height="23" border="0"></a></td>
-					  </tr>
-				  </tbody></table>
-				 </form>
-				</td>
-			  </tr>
-			  <tr>
-				<td align="left" valign="top" style="height:17px;"><img src="images/img_002_2.jpg" alt=""></td>
-			  </tr>
-		  </tbody></table>
-		  <div id="abc" style="display: block;"></div>
-		</div>
-	</div>
-	<div class="float_right" style="width:483px; padding:0px 10px 0px 0px;">
-	  <div class="width_auto float_left" style="padding:40px 0px 0px;"><img src="images/img_ad.jpg" alt=""></div>
-		<div class="float_left" style="border:1px solid black; width:468px;">
-			<div>
-				<div id="flashcontent6"> </div>
-								  <script type="text/javascript">
-							// <![CDATA[
-							var so = new SWFObject("images/germany_banner.swf", "Index", "468px", "60px", "9", "#ffffff");
-							so.addVariable("flashVarText", "this is passed in via FlashVars for example only");
-							so.addParam("scale", "noscale");
-							so.addParam("wmode", "#ffffff");
-							so.write("flashcontent6");
-							// ]]>
-							</script>
-				<!-- <img src="images/top_banner.jpg" alt="" /> -->
-				<div class="vertical_spacing"></div>
-			</div>
-		</div>
-	</div>
-</div>
-			 <div class="vertical_spacing" style="height:8px;"></div>
-            <!--   banner starts-->
-		     <div class="float_left" style="width:100%; background:#FFFFFF; ">
-  <div style="width:auto; margin:auto; text-align:center;">
-		<img src="images/banner_privacy_policy.jpg" alt="" border="1">
-  </div>
-  <div class="vertical_spacing" style="height:8px;"></div>
-</div>
-
-            <!-- banner ends-->
-            
-            <div class="vertical_spacing"></div>
-            <!--mid nav start-->
-            <div class="float_left" style="width:98%; background:#FFFFFF; padding:0px 10px;">
-            	<!--mid left start-->
-                <div class="float_left width_100per;" style="margin-left:2px;border:0px solid red;">
-  <div class="float_left" style="width:680px;background:url(images/img_012.jpg) top left repeat-x;">
-		<div class="float_left">
-	  <table width="100%" border="0" cellspacing="0" cellpadding="0" align="left">
-	<tbody><tr>
-	  <td align="left" valign="top"><a href="index.php"><img src="images/btn_home.jpg" alt="" width="39" height="27"></a></td>
-	  
-	  <td align="left" valign="top"><a href="hotel_search.php"><img src="images/btn_hotels.gif" width="51" height="28"></a></td>
-	  <td align="left" valign="top"><a href="sight_search.php"><img src="images/btn_sight_seeing.gif" alt="" width="80" height="28"></a></td>
-	  <td align="left" valign="top"><a href="transfer_search.php"><img src="images/btn_transfers.gif" alt="" width="69" height="28"></a></td>
-	<td width="78" align="left" valign="top">&nbsp;</td>
-	  <td width="62" align="left" valign="top">&nbsp;</td>
-	  <td width="82" align="left" valign="top">&nbsp;</td>  
-	<td width="82" align="left" valign="top">&nbsp;</td>    
-		<td align="right" valign="middle" width="82">
-		<a href="login.php"><img src="images/login_btn.jpg" alt="" style="padding-right:5px;padding-left:2px;"></a></td>
-	</tr>
+    <div id="container">
+        <div id="main_content">
+            				<script src="js/login/login.js" type="text/javascript"></script>
+<link rel="stylesheet" href="css/contact.css">
+<div id="header">
+<div class="width_auto float_left" style="border:0px solid blue;"><a href="index.php"><img src="images/logo.jpg" alt="Rezlive.com" title="Rezlive.com"></a></div>
+<div class="float_right align_right" style="border:0px solid red; width:80%;">
+  <div class="float_right align_right">
+    <table border="0" cellspacing="8" cellpadding="0">
+      <tbody><tr>
+        <td rowspan="2" align="left" valign="middle" class="orange_color font_18">Need Assistance !</td>
+        <td rowspan="2" align="left" valign="middle" class="blue_color font_26 bold"><img src="images/call_img.jpg" alt="" align="absmiddle"> CALL US</td>
+        <td align="left" valign="middle"><img src="images/ind_map.jpg" alt="" align="absmiddle"> 1860 <span style="display:none;">_</span> 233 <span style="display:none;">_</span>3322</td>
+        <td align="left" valign="middle"><img src="images/uk_flag.jpg" alt="" align="absmiddle"> +44 <span style="display:none;">_</span> 20 3239 <span style="display:none;">_</span>1404</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle"><img src="images/ind_map.jpg" alt="" align="absmiddle"> +91 <span style="display:none;">_</span>79 4023 <span style="display:none;">_</span>6000</td>
+        <td align="left" valign="middle"><img src="images/usa_flag.jpg" alt="" align="absmiddle"> +1 <span style="display:none;">_</span>210 807 <span style="display:none;">_</span>3950</td>
+      </tr>
     </tbody></table>
-	</div>
   </div>
-    <div class="float_left width_auto"><img src="images/call_us_img.jpg" alt=""></div>
+  <div class="clear height_10"></div>
+  <div class="width_100per float_left"><a href="agent_registration.php"> Haven't registered yet? </a> | <a href="index.php">Agent Login</a> | <a href="supplier_registration.php">Supplier Registration</a> </div>
 </div>
+<div class="clear"></div>
+<!--menu start-->
+<div class="width_100per float_left padd_15T"> 	<div class="width_53per float_left padd_15T">
+	    <ul class="menu">
+	     		      	<li><a href="index.php">HOME</a></li>	     		      	<li><a href="hotel_search.php">HOTELS</a></li>	      		      	<li><a href="sight_search.php">SIGHT SEEING</a></li>	      		      	<li><a href="transfer_search.php">TRANSFERS</a></li>		</ul>
+	</div> </div>
+<!--menu end--> 
+</div>			            
+            <div class="clear height_10"></div>
+            <div class="width_100per float_left">
+            	         		<!--title start-->
+               		<div class="width_100per float_left">
+                        <div class="container_1">
+                            <span class="round_span5"></span>
+                            <span class="round_span4"></span>
+                            <span class="round_span3"></span>
+                            <span class="round_span2"></span>
+                            <span class="round_span1"></span>
+                            <div class="content padd_5 font_26 orange_color">
+                             » PRIVACY POLICY
+                            <div class="clear"></div>
+                            </div>
+                            <span class="round_span1"></span>
+                            <span class="round_span2"></span>
+                            <span class="round_span3"></span>
+                            <span class="round_span4"></span>
+                            <span class="round_span5"></span>
+                        </div>
+                     </div>  
+            	
+                     <div class="clear height_10"></div> 
+               		<div class="width_100per float_left">
+                        <div class="container_1">
+                            <span class="round_span5"></span>
+                            <span class="round_span4"></span>
+                            <span class="round_span3"></span>
+                            <span class="round_span2"></span>
+                            <span class="round_span1"></span>
+                            <div class="content padd_5">
+                                
+                                    <div class="title_bg bold orange_color">» GENERAL POLICY </div>
+                                    <div class="clear"></div>
+                                    <div class="width_100per float_left">
+                                    	<br>
+                                        <div style="padding:5px">
+											<div class="vertical_spacing" style="height:0px;"></div>
+													RezLive.com takes your privacy concerns seriously and will not share your personal information without your consent.
+													<br><br>
+													If you choose to use one of the features below, your information will be used as follows: RezLive.com will never disclose or sell any of your personal information, including your name, address, shopping, or transaction history to any third party without your permission.
+													If you are a member, we will use your e-mail address to send correspondence about RezLive.com, including: <br><br>
+													<ul style="padding-left: 15px; line-height: 15px;">
+														<li>Reservation confirmations</li>
+														<li>Important updates about your travel plans</li>
+														<li>Newsletters</li>
+														<li>Notifications of travel specials If you have additional questions or concerns regarding the RezLive.com site, please e-mail us at Feedback@RezLive.com. We read every customer e-mail and will respond as soon as possible.</li>
+													</ul>
+											<div class="vertical_spacing" style="height:0px;"></div>              
+										</div>
+                                         <div class="clear"></div>
+                                         
+                                    </div>
+                                
+                            <div class="clear"></div>
+                            </div>
+                            <span class="round_span1"></span>
+                            <span class="round_span2"></span>
+                            <span class="round_span3"></span>
+                            <span class="round_span4"></span>
+                            <span class="round_span5"></span>
+                        </div>
+                     </div>  
+            	<div class="clear height_10"></div>
+               		<div class="width_100per float_left">
+                        <div class="container_1">
+                            <span class="round_span5"></span>
+                            <span class="round_span4"></span>
+                            <span class="round_span3"></span>
+                            <span class="round_span2"></span>
+                            <span class="round_span1"></span>
+                            <div class="content padd_5">
+                                
+                                    <div class="title_bg bold orange_color">» YOUR FEEDBACK &amp; SUGGESTIONS ARE IMPORTANT</div>
+                                    <div class="clear"></div>
+                                    <div class="width_100per float_left">
+                                    	<div style="padding:5px; ">
+											We Welcome your Suggestions to Serve you Better, write back to us on <a href="mailto:Feedback@RezLive.com" style="color:#000000; text-decoration:underline;">Feedback@RezLive.com</a>
+										</div>
+								  	</div>
+                                
+                            <div class="clear"></div>
+                            </div>
+                            <span class="round_span1"></span>
+                            <span class="round_span2"></span>
+                            <span class="round_span3"></span>
+                            <span class="round_span4"></span>
+                            <span class="round_span5"></span>
+                        </div>
+                     </div>   
+            	<div class="clear"></div>
 
-<!--<a href="car_rentals.php"><img src="images/btn_car_rentals.jpg" alt="" width="78" height="27" /></a>-->
-<!--<a href="groups.php"><img src="images/btn_services.jpg" alt="" width="91" height="27" /></a>-->
-<!--<a href="destinations.php"><img src="images/btn_destinations.jpg" alt="" width="82" height="27" /></a>-->
-<!--<td  align="left" valign="top"><a href="packages.php"><img src="images/btn_packages.jpg" alt="" width="65" height="27" /></a></td>--> 
-				<div class="float_left color_black " style="width:69.4%; border:1px solid #bdbdbd; text-align:justify">
-	<div style="background:#fff8eb; padding:6px; border-bottom:1px solid #b2b2b2;"><img src="images/privacy_policy.jpg" alt=""></div>
-	<div style="padding:5px;">
-		<div class="box_1">  	
-			<div class="box_2 bold">»  General Policy</div>
-			<div style="padding:5px">
-				<div class="vertical_spacing" style="height:0px;"></div>
-				RezLive.com takes your privacy concerns seriously and will not share your personal information without your consent.
-				<br><br>
-				If you choose to use one of the features below, your information will be used as follows: RezLive.com will never disclose or sell any of your personal information, including your name, address, shopping, or transaction history to any third party without your permission.
-				If you are a member, we will use your e-mail address to send correspondence about RezLive.com, including: <br><br>
-				<ul style="padding-left: 15px; line-height: 15px;">
-					<li>Reservation confirmations</li>
-					<li>Important updates about your travel plans</li>
-					<li>Newsletters</li>
-					<li>Notifications of travel specials If you have additional questions or concerns regarding the RezLive.com site, please e-mail us at Feedback@RezLive.com. We read every customer e-mail and will respond as soon as possible.</li>
-				</ul>
-				<div class="vertical_spacing" style="height:0px;"></div>              
-			</div>
-		</div>
-		<div class="vertical_spacing" style="height:18px;"></div>
-		<div class="box_1">  	
-			<div class="box_2 bold">»  Your Feedback &amp; Suggestions are Important</div>  
-			<div style="padding:5px; ">
-				We Welcome your Suggestions to Serve you Better, write back to us on <a href="mailto:Feedback@RezLive.com" style="color:#000000; text-decoration:underline;">Feedback@RezLive.com</a>
-			</div>
-		</div>
-		<div class="vertical_spacing" style="height:18px;"></div>
-	</div>
-</div>              
-                <!--mid left end-->
-                <!--mid right start-->
-				                <div class="float_right" style="width:30%; border:0px solid red; text-align:left;">
-               	<!--special offers start-->
-					<iframe src="special_offer.php?page=1" frameborder="0" style="width:290px; height:315px;   margin:0; padding:0;" scrolling="no"></iframe>
-                    <!--special offers end-->
-                    <div class="vertical_spacing"></div>
-					<!--marquee start-->
-                    <div style="width:auto; margin:auto; text-align:center;">
-						<div id="flashcontent5"> </div>
-								  <script type="text/javascript">
-							// <![CDATA[
-							var so = new SWFObject("images/logos_scroll2.swf", "Index", "277px", "46px", "9", "#000000");
-							so.addVariable("flashVarText", "this is passed in via FlashVars for example only");
-							so.addParam("scale", "noscale");
-							so.addParam("wmode", "transparent");
-							so.write("flashcontent5");
-							// ]]>
-							</script>
-							<!-- <img src="images/marquee1.jpg" alt="" /> -->
-					</div>
-                    <!--marquee end-->
-                </div>
-				                <!--mid right end-->
-                <div class="vertical_spacing" style="height:8px;"></div>
-              	<div class="float_left width_100per">
-				<div class="float_left" style="width:100%; border:0px solid red;">
-<div class="vertical_spacing" style="height:1px;"></div>
-	<div class="align_left" style="background:url(images/1pxline_bg01.jpg) top left repeat-x; height:34px; padding:2px 0px 0px 5px;">
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-	    <td width="140" align="left" valign="top" style="padding:5px 0px 0px;"><a href="about_travel.php">About Travel Designer India</a></td>
-	    <td width="7" align="left" valign="top"><img src="images/divider_img.jpg" alt=""></td>
-		<td width="50" align="left" valign="top" style="padding:5px 0px 0px 5px;"><a href="reach_us.php">Reach Us</a></td>
-	    <td width="7" align="left" valign="top"><img src="images/divider_img.jpg" alt=""></td>
-	    <td width="90" align="left" valign="top" style="padding:5px 0px 0px 5px;"><a href="cards.php">Cards &amp; Refunds</a></td>
-	    <td width="7" align="left" valign="top"><img src="images/divider_img.jpg" alt=""></td>
-	    <td width="50" align="left" valign="top" style="padding:5px 0px 0px 5px;"><a href="disclaimer.php">Disclaimer</a></td>
-	    <td width="7" align="left" valign="top"><img src="images/divider_img.jpg" alt=""></td>
-	    <td width="70" align="left" valign="top" style="padding:5px 0px 0px 5px;"><a href="privacy_policy.php">Privacy Policy</a></td>
-	    <td width="7" align="left" valign="top"><img src="images/divider_img.jpg" alt=""></td>
-	    <td width="60" align="left" valign="top" style="padding:5px 0px 0px 5px;"><a href="advertising.php">Advertising</a></td>
-	    <td width="7" align="left" valign="top"><img src="images/divider_img.jpg" alt=""></td>
-        <!--  <td width="40" align="left" valign="top" style="padding:5px 0px 0px 5px;"><a href="http://www.rezlive.com/cruises" target="_blank">Cruises</a></td>-->
-	    <td width="7" align="left" valign="top"><img src="images/divider_img.jpg" alt=""></td>
-	    <td align="left" valign="top" style="padding:0px 0px 0px 5px;"><!--<a href="jobs.php">Jobs</a> -->
-        	<div id="jobs"> </div>
-			<script type="text/javascript">
-            // <![CDATA[
-            var so = new SWFObject("images/jobs.swf", "Index", "92px", "26px", "9", "#000000");
-            so.addVariable("flashVarText", "this is passed in via FlashVars for example only");
-            so.addParam("scale", "noscale");
-            so.addParam("wmode", "transparent");
-            so.write("jobs");
-            // ]]>
-            </script>
-        </td>
-	    
-	</tr>
-	</tbody></table>
-	</div>
-</div>   
-              </div>
-                <div class="vertical_spacing" style="height:1px;"></div>
-                <!--footer start-->
-                <div class="float_left width_100per para">
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	  <!-- <tr>
-		<td width="40%" class="para" align="left" valign="middle" bgcolor="#d1d1d1" style="padding:10px;">
-		<div class="width_auto float_left" style="padding:3px 0px 0px 0px">&copy; 2009 rezlive. All Rights Reserved. Empowered by </div>
-		<div class="width_auto float_left" style="padding:0px 0px 0px 5px"><a href="http://www.otrams.com" target="_blank"><img src="images/otrams_logo.jpg" alt="" /></a></div></td>
-		<td align="right" class="para" valign="top" bgcolor="#d1d1d1" style="padding:10px;">
-			<div class="width_auto float_right" style="padding:0px 0px 0px 5px"><img src="images/logos_img.jpg" alt="" /></div>
-		  <div class="width_auto float_right" style="padding:8px 0px 0px 0px">A Product of Travel Designer India Pvt Ltd </div>
-		
-		</td>
-	  </tr> -->
-	  <tbody><tr>
-                        <td width="30%" align="left" valign="middle" bgcolor="#d1d1d1" style="padding:5px 10px;">
-                        <div class="width_auto float_left" style="padding:3px 0px 0px 0px">© 2009 rezlive. All Rights Reserved.  </div>
-                        </td>
-                        <td width="50%" align="center" valign="top" bgcolor="#d1d1d1" style="padding:5px 10px;">
-                       	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                              <tbody><tr>
-                                <td align="right" valign="middle" style="padding-right:5px;">A product of</td>
-                                <td align="left" valign="middle"><img src="images/travel_designer_logo.jpg" alt="" width="138" height="35"></td>
-                              </tr>
-                          </tbody></table>
-
-                          
-                          
-                        </td>
-                        <td align="right" valign="middle" bgcolor="#d1d1d1" style="padding:5px 10px;"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                          <tbody><tr>
-                            <td align="right" valign="middle" style="padding-right:5px">Empowered by</td>
-                            <td width="61" align="right" valign="middle"><a href="http://www.otrams.com" target="_blank"><img src="images/otrams_logo.jpg" alt=""></a></td>
-                          </tr>
-                        </tbody></table>                          <a href="http://www.otrams.com" target="_blank"></a></td>
-                              </tr>
-                        </tbody></table>
-
-                        </td>
-                      </tr>
-  </tbody></table>
-<div class="vertical_spacing" style="height:4px;"></div>
-</div>   
-                <!--footer end-->
+            	<div class="clear"></div>
             </div>
-            <!--mid nav end-->
-        </div>
+            <div class="clear height_10"></div>
+            <div class="padd_15T top_brdr">
+     <div class="width_85per float_left">
+          <a href="about_travel.php">About Travel Designer India</a> |  <a href="reach_us.php">Reach Us</a>  |  <a href="cards.php">Cards &amp; Refunds</a>  | 	<a href="disclaimer.php">Disclaimer</a>  | <a href="privacy_policy.php">Privacy Policy</a>  |  <a href="advertising.php">Advertising</a> |  <a href="rezlive_beta.php">Rezlive Beta 3.0</a>
+     </div>           
+     <div class="width_auto float_right"><a href="jobs.php" class="myBox width_auto white_color bg_blue float_left">We are Hiring</a></div>
+     <div class="clear height_10"></div>
+     <div class="align_center padd_6TB" style="background:#FFFFFF;">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td align="center" width="135" valign="middle"><img src="images/iata_logo.jpg" alt=""></td>
+                <td align="left" width="75" valign="middle"><img src="images/pata_logo.jpg" alt=""></td>
+                <td align="left" width="59" valign="middle"><img src="images/taai_logo.jpg" alt=""></td>
+                <td align="left" valign="middle"><img src="images/incredible_india_logo.jpg" alt=""></td>
+                <td align="right" valign="middle"><img src="images/master_card_logo.jpg" alt=""></td>
+                <td align="right" width="80" valign="middle"><img src="images/visa_logo.jpg" alt=""></td>
+            </tr>
+       </tbody></table>
+
+</div>
+     <div class="clear height_10"></div>
+     <div class="width_100per float_left">
+          <div class="width_auto float_left line_34">© 2011 Rezlive.com.  All Rights Reserved.</div>          
+          <div class="width_auto float_right"><a href="http://www.otrams.com" target="_blank"><img src="images/otrams_logo.jpg" alt=""></a></div>
+          <div class="width_auto float_right line_34">Empowered by</div>
+          <div class="width_30per footer_logo"><img src="images/travel_designer_logo.jpg" alt=""></div>
+     </div>
+     <div class="clear"></div>
+</div>        </div>
     </div>
 </div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	$("ul#navigation li a").click(function() {
+		$("ul#navigation li").removeClass("selected");
+		$(this).parents().addClass("selected");
+		return false;
+	});
+});
+</script>
+<script type="text/javascript" src="js/global.js"></script>
+<script type="text/javascript" src="js/AnchorPosition.js"></script>
+<script type="text/javascript" src="js/dynamic/ajax-dynamic-list.js"></script>
+<script type="text/javascript" src="js/check_date.js"></script>
+<script type="text/javascript" src="js/chk_date.js"></script>      
+<!-- <script type="text/javascript" src="js/curvycorners.src.js"></script>-->                                                 
+
+
 
 </body></html>
