@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oxfamindia.org privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626190133id_/http%3A//www.oxfamindia.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfamindia.org privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225114825id_/http%3A//www.oxfamindia.org/privacy) for the most accurate reproduction.*
 
-# Privacy | Oxfam India
+# Privacy Policy | Oxfam India
 
 Oxfam India is committed to safeguarding your privacy online. Our privacy policy applies to all the pages hosted on oxfamindia.org. It does not apply to pages hosted by other organizations to which we may link and whose might have different privacy policies. We do not collect personally identifiable information on our web site unless you voluntarily share it via website contact form, subscription, by signing up for a campaign, or by postal mail. Even this information is kept confidential, and our partners/ suppliers are also bound these conditions as well. 
 
@@ -51,3 +51,7 @@ When you share personal information with Oxfam India, we take all the possible s
 Our Donation form page uses Secure Sockets Layer (SSL): a security protocol that provides communications privacy over the Internet. This encrypts all of your personal information, including credit card number, name, and address, so that it cannot be read as the information travels over the Internet. While on a secure page, such as our giving form, the lock icon on the bottom of your web browser becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of your information, not just the sensitive information like a credit card number, is restricted. Only the employees who need the information to perform a specific job (for example, our donation officers) are granted access to personally identifiable information. Furthermore, all employees who handle membership information are kept up-to-date on our security and privacy practices. And they are well aware of the importance we place on privacy, and what they can do to ensure our supporters' information is protected. 
 
 **We have tried to answer all possible concerns above; should you have any additional concerns in relation to Oxfam India and your privacy, we will be glad to address them promptly and advise you of your rights.**
+
+ **Terms and Conditions**
+
+We as a merchant shall be under no liability whatsoever in respect of any loss or damage arising directly or indirectly out of the decline of authorization for any Transaction, on Account of the Cardholder having exceeded the preset limit mutually agreed by us with our acquiring bank  from time to time"
