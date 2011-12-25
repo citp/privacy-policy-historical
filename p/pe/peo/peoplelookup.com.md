@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peoplelookup.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608211335id_/http%3A//www.peoplelookup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplelookup.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226002246id_/http%3A//www.peoplelookup.com/privacy.php) for the most accurate reproduction.*
 
-# PeopleLookup People Search - Public Records, Background Checks & More.
+# PeopleLookup People Search - Public Records, Background Checks & More
 
 People Lookup Privacy Policy
 
@@ -13,6 +13,8 @@ We respect your right to privacy and we are committed to protecting it. This sta
 In general, you can visit us on the Internet without telling us who you are and without giving any personal information about yourself. However, you may choose to give us personal information in a variety of situations. For example, you may want to give us information such as your name and address, phone number or e-mail address so we may correspond with you, process an order, or provide you with a subscription or service. You may give us your credit card details to buy a product or service from us, or provide us a description of your education and work experience in connection with a job opening for which you wish to be considered. The purpose of this Policy is to inform you of how we will use your information, before you provide it. If you tell us that you do not want us to use this information in this manner or to make further contact with you beyond fulfilling your requests, we will respect your wishes. If you give us personal information about somebody else, such as a spouse or associate, we will assume that you have their permission to do so.
 
 **How to Remove your Information from the People Lookup Public Records Databases**
+
+[](https://www.truerep.com/partner-offer-1.html?refer=8095)
 
 Public records are available from the official public records custodian or repository to anyone who requests them. In order for any database of public records to be useful, the databases must contain all of the information in the public records offices. If you have a compelling privacy or security issue, you may wish to contact the official custodians of those public records that contain sensitive information about you, such as your county's land records office, to determine how to remove your information from the public record. (The process of having public records sealed typically requires a court order.) This process will ensure that the information is not available to the public, to us, or to any other public records information provider.
 
