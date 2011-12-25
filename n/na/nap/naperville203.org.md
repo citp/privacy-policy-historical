@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naperville203.org privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612022018id_/http%3A//www.naperville203.org/departments/communications/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naperville203.org privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225045548id_/http%3A//www.naperville203.org/departments/communications/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Naperville Community Unit School District 203
 
@@ -10,6 +10,7 @@ How secure is information about me?
 About children and Internet Safety  
 Videotaping and photographing of students  
 Links to third party and/or co-branded websites  
+District electronic communications guidelines  
 Message boards/forums  
 Conditions of use, notices and revisions
 
@@ -57,13 +58,13 @@ District 203 follows the guidelines of Illinois Public Act 095-0869 regarding In
 
 The following areas are covered:
 
-  1. Safe and responsible use of social networking websites, chat rooms, electronic mail, bulletin boards, instant messaging, and other means of communication on the Internet. 
-  2. Recognizing, avoiding, and reporting online solicitations of students, their classmates, and their friends by sexual predators. 
-  3. Risks of transmitting personal information on the Internet. 
-  4. Recognizing and avoiding unsolicited or deceptive communications received online. 
-  5. Recognizing and reporting online harassment and cyber-bullying. 
-  6. Reporting illegal activities and communications on the Internet. 
-  7. Copyright laws on written materials, photographs, music, and video. 
+  1. Safe and responsible use of social networking websites, chat rooms, electronic mail, bulletin boards, instant messaging, and other means of communication on the Internet.
+  2. Recognizing, avoiding, and reporting online solicitations of students, their classmates, and their friends by sexual predators.
+  3. Risks of transmitting personal information on the Internet.
+  4. Recognizing and avoiding unsolicited or deceptive communications received online.
+  5. Recognizing and reporting online harassment and cyber-bullying.
+  6. Reporting illegal activities and communications on the Internet.
+  7. Copyright laws on written materials, photographs, music, and video.
 
 
 
@@ -85,6 +86,28 @@ District 203 has and will continue to establish relationships with other communi
 
 Back to top
 
+District Electronic Communications Guidelines  
+  
+[District 203 Acceptable Use Guidelines for Electronic Communications](https://web.archive.org/assets/D203ElectronicCommunicationsGuidelinesAndMatrix.pdf)
+
+District 203 employees/volunteers have been utilizing technology for many years in delivering upon our mission to educate students to be self-directed learners, collaborative workers, complex thinkers, quality producers, and community contributors. In addition to their educational pursuits, today’s students, and those in future years, are and will be deeply engaged in electronic forms of communications and associated technologies for daily interaction with friends, family, community and larger social networks.
+
+Many District employees/volunteers have also utilized technologies such as email, websites, blogs, text messaging and use of social media websites such as Facebook, Twitter, and more, to communicate with similar groups for personal interactions. These forms of communication are dynamic, mobile, and quickly reach their targeted audience through technologies that have become an integral part of many individuals’ lives.
+
+As these technologies continue to advance at a rapid pace, they can become sources of significant benefit to the educational process when integrated into District 203's scholastic delivery model. While continual evolution will undoubtedly occur in this area, it is our goal in issuing these guidelines to increase awareness and understanding of these technologies as well as ensure that their use for District business meets the public and professional standards for communicating with students that we set for ourselves in District 203.
+
+These guidelines are designed for the purpose of:
+
+  * Clarifying acceptable ways to use electronic communication tools when communicating with students, peers, and community members for District related business.
+  * Raising awareness of the positive and negative outcomes that may result in using these tools when interacting with the targeted audience.
+  * Establishing the appropriate levels of approval for the use and integration of these technologies for educational benefits aligned with our District mission.
+
+
+
+This document includes a visual matrix that uses color coding to help clarify the District's position related to various forms of electronic communication. In the visual matrix individuals or groups are categorized into either communication originators or communication receivers (also referred to as the targeted audience) to help with interpretation of the guidelines.
+
+Back to top
+
 Message Boards/Forums
 
 Please remember that any information you may disclose in blogs, online discussion forums, wikis, message boards, chats or other public areas of our Site or the Internet becomes public information. You should exercise caution when deciding to disclose personal information in public disussion areas.
@@ -97,4 +120,4 @@ If you choose to visit or use the District 203 Site, any dispute over privacy is
 
 Back to top
 
-_Revised 6/19/2009_
+_Revised 8/11/2011_
