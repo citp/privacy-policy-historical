@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the offthegridnews.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626185728id_/http%3A//offthegridnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offthegridnews.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225110538id_/http%3A//offthegridnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Off The Grid News
+# Privacy Policy - Off The Grid News
 
 The last update to our Privacy Policy was posted on August 19, 2010.  This Privacy governs the privacy policy of our Website, www.offthegridnews.com
 
