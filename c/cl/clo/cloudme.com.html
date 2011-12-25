@@ -1,55 +1,67 @@
-<!--The following is the downloaded HTML source of the cloudme.com privacy policy that was archived on 2011-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110625133138id_/http%3A//www.cloudme.com/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cloudme.com privacy policy that was archived on 2011-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111225110519id_/http%3A//www.cloudme.com/en/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-    <title>CloudMe - Your files online</title>
+        <title>CloudMe - Your files online</title>
     <meta name="description" content="Your files online to share and access from any web browser.">
 <meta name="keywords" content="CloudMe, free online storage, backup, cloud storage, anywhere access, online file sharing, WebDAV, cloud drive, mobile access, Web Desktop, WebOS, WebTop">
-    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-        <meta property="og:title" content="CloudMe">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta property="og:title" content="CloudMe">
     <meta property="og:type" content="website">
     <meta property="og:url" content="http://www.cloudme.com/en/privacy-policy/">
     <meta property="og:image" content="http://www.cloudme.com/images/Symbol128.png">
     <meta property="og:site_name" content="CloudMe">
     <meta property="og:description" content="CloudMe - Your files online">
-    <link href="/styles/main.css?v=20110613" type="text/css" rel="stylesheet">
+    <link href="/styles/main.css?v=20111111 10:20" type="text/css" rel="stylesheet">
     <link rel="shortcut icon" href="/favicon.ico">
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
-    <script type="text/javascript" src="http://os.cloudme.com/live/jqueryloader.js"></script>
-    <script type="text/javascript" src="/scripts/main.js?v=20110613"></script>
-    <script defer="defer" type="text/javascript" src="/scripts/jquery.plugins.js"></script>
-    <link rel="alternate" type="application/rss+xml" title="CloudMe Blog" href="http://blog.cloudme.com/?feed=rss2"> 
-    <!--[if IE 6]>
-      <script defer="defer" type="text/javascript" src="/scripts/pngfix.js"></script>
-    <![endif]-->
+          <script type="text/javascript" src="/webui/js/storage.js"></script><script type="text/javascript" src="/webui/js/utils.js"></script>  <script type="text/javascript" src="/scripts/jquery-1.6.1.min.js?v=20111214"></script>
+  <script type="text/javascript" src="/scripts/main.js?v=20111214"></script>
+  <script defer="defer" type="text/javascript" src="/scripts/jquery.plugins.js?v=20111214"></script>
   </head> 
-  <body class="normal">
-    <div style="display:none"></div>    <div id="overlay">&nbsp;</div>
-    <div id="main">
-      <div id="login_form">
-        <div id="loginAvatar">
-          <div id="loginAvatarTrans"></div>
-        </div>
-        <div id="inputs">
-          <form method="post" id="loginForm" name="loginForm" action="" onsubmit="return false">
-            <label for="login_username">Username</label>
-            <input type="text" name="login_username" id="login_username" autocapitalize="off" autocorrect="off" autocomplete="off">
-            <label for="login_password">Password</label>
-            <input type="password" name="login_password" id="login_password" autocapitalize="off" autocorrect="off" autocomplete="off">
-            <button type="submit" id="login_submit" title="Click here to login to CloudMe" class="btn">Login</button>
-          </form>
-        </div>
-        <div id="loginBrowserInfo">
-                  </div>
-      </div>
-      <div id="head">
-        <div id="login_btn">Login</div>
-        <a href="/en/register" id="mainSignupBtn"><div>&nbsp;</div>FREE Sign Up</a>
-        <a href="/en/" style="height:70px;position: absolute;">
-          <img src="/images/fp/cloudMeMini.png" id="logo" alt="logo" width="197" height="55">
-        </a>
-      </div>
-            <div class="menuBox" id="appMenuBox"><ul id="featureMenu"><li class="menuHeader"><div class="frontBoxLine">&nbsp;</div>Menu</li><li><a href="/en/get-to-know">What is CloudMe?</a></li><li><a href="/en/register">Sign up</a></li></ul></div><div class="pagecontent">
+  <body class="normal w3c wbk">
+        <div style="display:none"></div>    <div id="main">
+      <div id="logout" class="btn" style="display: none">
+Logout
+</div>
+
+<div id="login_form">
+  <div id="loginAvatar">
+    <div id="loginAvatarTrans"></div>
+  </div>
+  <div id="inputs">
+    <form method="post" id="loginForm" name="loginForm" action="" onsubmit="return false">
+      <label for="login_username">Username</label>
+      <input type="text" name="login_username" id="login_username" autocapitalize="off" autocorrect="off" autocomplete="off">
+      <label for="login_password">Password</label>
+      <input type="password" name="login_password" id="login_password" autocapitalize="off" autocorrect="off" autocomplete="off">
+      <input type="checkbox" id="keepLoggedIn" style="width:20px; float:left">
+      <label for="keepLoggedIn" style="margin 1px">Keep me signed in</label>
+      <button type="submit" id="login_submit" title="Click here to login to CloudMe" class="btn">Login</button>
+    </form>
+  </div>
+  <!--
+    <div id="loginBrowserInfo">
+          </div>
+  -->
+</div>
+<div id="head">
+  <!--<div id="header_links">
+    <a href="#" onclick="">Cloudme</a> |
+    <a href="http://www.cloudme.com/sv/features/mobile/iphone">iPhone App</a> |
+    <a href="http://www.cloudme.com/sv/features/mobile/android">Android App</a> |
+    <a href="http://www.cloudme.com/en/easyupload">Easy Upload</a> |
+    <a href="#" onclick="controller.loadDesktop();">Web Desktop</a>
+  </div>-->
+  <div id="logout_btn" class="btn" style="display:none">Logout</div>
+  <div id="loggedin_info" style="display:none;"></div>
+  <div id="account_info" style="display:none;"></div>
+  <div id="login_btn">Login</div>
+    <a href="/en/register" id="mainSignupBtn"><div>&nbsp;</div>FREE Sign Up</a>
+      <a href="/en/" style="height:70px;position: absolute;">
+    <img src="/images/fp/cloudMeMini.png" id="logo" alt="logo" width="197" height="55">
+  </a>
+</div>
+                  <div class="menuBox" id="appMenuBox"><ul id="featureMenu"><li class="menuHeader"><div class="frontBoxLine">&nbsp;</div>Menu</li><li><a href="/en/get-to-know">What is CloudMe?</a></li><li><a href="/en/register">Sign up</a></li></ul></div><div class="pagecontent">
     <h1>Privacy policy</h1>
     <h3>Privacy and Confidentiality</h3>
     <p>Xcerion AB is committed to protecting your privacy. We fully adhere to the principles of integrity and trust, and respect your right to the protection of any personal information you may have entrusted to us in the course of using this web site. When your personal information is collected, it is collected with your express or clearly implied consent. It is not sold or leased, and is not retained for purposes other than those for which it was intended. To ensure this commitment, Xcerion AB agrees to comply in all material respects with applicable privacy laws, rules and regulations. Xcerion newsletter: The information you provide when you signup to stay up to date with Xcerions worldwide launch process is used to provide you with our email newsletter. Your information is stored in a secure environment and will not be shared outside of Xcerion AB, its published partners and affiliates.</p>
@@ -69,71 +81,69 @@
     <h3>Changes to this Customer Privacy Policy</h3>
     <p>Xcerion AB reserves the right to make changes to this Privacy Policy at any time. We will notify you of modifications through this web site. Please check back for updates and changes.</p>
 </div>      <div id="footer">
-        <ul id="language_box">
-          <!--<li><a href="/language.php?id=ca">Català</a></li>-->
-          <!--<li><a href="/language.php?id=dk">Dansk</a></li>-->
-          <!--<li><a href="/language.php?id=de">Deutsch</a></li>-->
-          <li><a href="/language.php?id=en">English</a></li>
-          <!--<li><a href="/language.php?id=es">Español</a></li>-->
-          <!--<li><a href="/language.php?id=fr">Français</a></li>-->
-          <!--<li><a href="/language.php?id=it">Italiano</a></li>-->
-          <!--<li><a href="/language.php?id=nl">Nederlands</a></li>-->
-          <!--<li><a href="/language.php?id=no">Norsk (Bokmål)</a></li>-->
-          <!--<li><a href="/language.php?id=pl">Polski</a></li>-->
-          <li><a href="/language.php?id=pt">Português</a></li>
-          <!--<li><a href="/language.php?id=ru">Русский</a></li>-->
-          <!--<li><a href="/language.php?id=ro">Română</a></li>-->
-          <!--<li><a href="/language.php?id=sr">Srpski</a></li>-->
-          <li><a href="/language.php?id=sv">Svenska</a></li>
-          <!--<li><a href="/language.php?id=tl">Tagalog</a></li>-->
-          <!--<li><a href="/language.php?id=tr">Türkçe</a></li>-->
-          <!--<li><a href="/language.php?id=zh-cn">中文</a></li>-->
-        </ul>
-        <div id="lang_container">
-          <span id="language_option" onmousedown="if (typeof event.preventDefault != 'undefined') {event.preventDefault();}" onselectstart="return false;">Language <span>▼</span></span>
+  <ul id="language_box">
+    <!--<li><a href="/language.php?id=ca">Català</a></li>-->
+    <!--<li><a href="/language.php?id=dk">Dansk</a></li>-->
+    <!--<li><a href="/language.php?id=de">Deutsch</a></li>-->
+    <li><a href="/language.php?id=en">English</a></li>
+    <!--<li><a href="/language.php?id=es">Español</a></li>-->
+    <!--<li><a href="/language.php?id=fr">Français</a></li>-->
+    <!--<li><a href="/language.php?id=it">Italiano</a></li>-->
+    <!--<li><a href="/language.php?id=nl">Nederlands</a></li>-->
+    <!--<li><a href="/language.php?id=no">Norsk (Bokmål)</a></li>-->
+    <!--<li><a href="/language.php?id=pl">Polski</a></li>-->
+    <li><a href="/language.php?id=pt">Português</a></li>
+    <!--<li><a href="/language.php?id=ru">Русский</a></li>-->
+    <!--<li><a href="/language.php?id=ro">Română</a></li>-->
+    <!--<li><a href="/language.php?id=sr">Srpski</a></li>-->
+    <li><a href="/language.php?id=sv">Svenska</a></li>
+    <!--<li><a href="/language.php?id=tl">Tagalog</a></li>-->
+    <!--<li><a href="/language.php?id=tr">Türkçe</a></li>-->
+    <!--<li><a href="/language.php?id=zh-cn">中文</a></li>-->
+  </ul>
+  <div id="lang_container">
+        <span id="language_option" onmousedown="if (typeof event.preventDefault != 'undefined') {event.preventDefault();}" onselectstart="return false;">Language <span>▼</span></span>
         </div>
-        <div id="footer_links">
-          <ol>
-            <li class="ol_header">CloudMe</li>
-            <li><a href="/en/">Home</a></li>
-            <li><a href="/en/register">Sign up</a></li>
-            <li><a href="/en/get-to-know">Get to know CloudMe</a></li>
-            <li><a href="/en/store">Store</a></li>
-            <li><a href="/en/features/packages">Pricing</a></li>
-          </ol>
-          <ol>
-            <li class="ol_header">Features</li>
-            <li><a href="/en/features">Web Desktop</a></li>
-            <li><a href="/en/features/mobile">Mobile</a></li>
-            <li><a href="/en/webdav">WebDAV</a></li>
-            <li><a href="/en/easyupload">Easy Upload</a></li>
-            <li><a href="/en/ready">Partners</a></li>
-            <li><a href="/en/api">API</a></li>
-          </ol>
-          <ol>
-            <li class="ol_header">News</li>
-            <li><a href="http://blog.cloudme.com">Blog</a></li>
-            <li><a href="/en/updates/press-kit">Press kit</a></li>
-            <li><a href="/en/updates/press-coverage">Press coverage</a></li>
-          </ol>
-          <ol>
-            <li class="ol_header">Help</li>
-            <li><a href="http://sos.cloudme.com/recover/">Forgot your password?</a></li>
-            <li><a href="/en/feedback">Feedback</a></li>
-            <li><a href="/en/faq">FAQ</a></li>
-            <li><a href="http://www.cloudme.com/forum">Forum</a></li>
-            <li><a href="/en/privacy-policy/">Privacy Policy</a></li>
-            <li><a href="/en/eula">EULA</a></li>
-            <li><a href="/en/dmca">DMCA</a></li>
-            <li><a href="/en/sitemap">Sitemap</a></li>
-          </ol>
-        </div>
-        <div id="footer_copy">© <a href="http://www.xcerion.com">Xcerion AB</a> 2011</div>
-      </div>
+  <div id="footer_links">
+    <ol>
+      <li class="ol_header">CloudMe</li>
+      <li><a class="homelink" href="/en/">Home</a></li>
+      <li><a href="/en/register">Sign up</a></li>
+      <li><a href="/en/get-to-know">Get to know CloudMe</a></li>
+      <li><a href="/en/features/packages">Pricing</a></li>
+    </ol>
+    <ol>
+      <li class="ol_header">Features</li>
+      <li><a href="/en/features">Web Desktop</a></li>
+      <li><a href="/en/features/mobile">Mobile</a></li>
+      <li><a href="/en/webdav">WebDAV</a></li>
+      <li><a href="/en/easyupload">Easy Upload</a></li>
+      <li><a href="/en/ready">Partners</a></li>
+      <li><a href="/en/api">API</a></li>
+    </ol>
+    <ol>
+      <li class="ol_header">News</li>
+      <!-- <li><a href="http://blog.cloudme.com">Blog</a></li> -->
+      <li><a href="/en/updates/press-kit">Press kit</a></li>
+      <li><a href="/en/updates/press-coverage">Press coverage</a></li>
+    </ol>
+    <ol>
+      <li class="ol_header">Help</li>
+      <li><a href="http://sos.cloudme.com/recover/">Forgot your password?</a></li>
+      <li><a href="/en/support">Support</a></li>
+      <li><a href="/en/faq">FAQ</a></li>
+      <li><a href="http://www.cloudme.com/forum">Forum</a></li>
+      <li><a href="/en/privacy-policy/">Privacy Policy</a></li>
+      <li><a href="/en/eula">EULA</a></li>
+      <li><a href="/en/dmca">DMCA</a></li>
+      <li><a href="/en/sitemap">Sitemap</a></li>
+    </ol>
+  </div>
+  <div id="footer_copy">© <a href="http://www.xcerion.com">Xcerion AB</a> 2011</div>
+</div>
+      <div class="overlay">&nbsp;</div>
     </div>
-    <div id="popiPhone" style="display:none" data-url="http://itunes.apple.com/se/app/icloud/id404450157?mt=8">Hello. Check out our app in the App Store. It's awesome!</div>
-    <div id="popiAndroid" style="display:none" data-url="market://search?q=pname:com.xcerion.android">Hello. Check out our app in Android Market. It's awesome!</div>
-<script type="text/javascript">
+    <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -141,6 +151,6 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 try {
 var pageTracker = _gat._getTracker("UA-10703409-1");
 pageTracker._trackPageview();
-} catch(err) {}</script>
+} catch(err) {}</script>    <div class="overlay">&nbsp;</div>
   
 </body></html>
