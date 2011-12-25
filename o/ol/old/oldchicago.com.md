@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldchicago.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626121135id_/http%3A//www.oldchicago.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldchicago.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225115045id_/http%3A//oldchicago.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Old Chicago
 
