@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstcommunity.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502164521id_/https%3A//firstcommunity.com/member/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcommunity.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226000735id_/https%3A//firstcommunity.com/member/privacy.html) for the most accurate reproduction.*
 
 # First Community Credit Union - Privacy Policy
 
@@ -81,17 +81,6 @@ In addition, to Credit Union efforts to protect your privacy, you can follow the
 **Disclosing Our Privacy Commitment to Our Members**  
 We reserve the right to change this policy at any time by posting a new privacy policy. This policy will be changed when required by law or regulation. Members will be notified of this policy at least annually when they join the Credit Union, unless a more frequent period is required by law or circumstances. If you have any questions regarding our privacy statement, you may write or phone us at:
 
-| 
-    
-    
-      First Community Credit Union
-      PO Box 1030
-      Chesterfield, MO 63006
-      (636) 537-4400
-      Contact: Compliance Officer
-    
+**rev. 08/2011**
 
-|  [Annual Privacy Notice](https://web.archive.org/pdfs/annual_privacy_notice.pdf)  
----|---  
-  
-**rev. 10/2007**
+| 
