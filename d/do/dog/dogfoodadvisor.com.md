@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogfoodadvisor.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605025928id_/http%3A//www.dogfoodadvisor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogfoodadvisor.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225202550id_/http%3A//www.dogfoodadvisor.com/privacy-policy) for the most accurate reproduction.*
 
 # Dog Food Advisor | Privacy Policy
 
