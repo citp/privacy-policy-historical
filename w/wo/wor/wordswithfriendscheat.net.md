@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wordswithfriendscheat.net privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620192323id_/http%3A//www.wordswithfriendscheat.net/global/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordswithfriendscheat.net privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226002842id_/http%3A//www.wordswithfriendscheat.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Words With Friends Cheat
-
-## [Privacy Policy](http://www.wordswithfriendscheat.net/global/privacy-policy/ "Permanent Link: Privacy Policy")
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -24,5 +22,3 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of WordsWithFriendsCheat.net then you may contact us at admin@wordswithfriendscheat.net
-
-This entry was posted on Saturday, October 23rd, 2010 at 5:34 am and is filed under [global](http://www.wordswithfriendscheat.net/category/global/ "View all posts in global"). You can follow any responses to this entry through the [RSS 2.0](http://www.wordswithfriendscheat.net/global/privacy-policy/feed/) feed. Responses are currently closed, but you can [trackback](http://www.wordswithfriendscheat.net/global/privacy-policy/trackback/) from your own site. 
