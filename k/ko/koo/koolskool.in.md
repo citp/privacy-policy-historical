@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the koolskool.in privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630031451id_/http%3A//koolskool.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koolskool.in privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225054435id_/http%3A//koolskool.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : KOOLSKOOL online store to buy text books, school books, stationery, student needs in India
+# Privacy Policy : KOOLSKOOL
 
 This privacy policy sets out how KOOLSKOOL uses and protects any information that you give KOOLSKOOL when you use this website. KOOLSKOOL is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement.
 
