@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trivedifoundation.org privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625105125id_/http%3A//www.trivedifoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trivedifoundation.org privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225220524id_/http%3A//www.trivedifoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wellness Programs, Scientific Research, Business Alliances | Trivedi Foundation
 
