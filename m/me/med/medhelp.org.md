@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the medhelp.org privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201065148id_/http%3A//www.medhelp.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medhelp.org privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225130505id_/http%3A//www.medhelp.org/privacy.htm) for the most accurate reproduction.*
 
 # MedHelp's Online Privacy Policy
 
-[Privacy Policy Frequently Asked Questions](https://web.archive.org/web/20091201065148id_/http%3A//www.medhelp.org/privacy_faq.htm)
+[Privacy Policy Frequently Asked Questions](https://web.archive.org/web/20111225130505id_/http%3A//www.medhelp.org/privacy_faq.htm)
 
 About this Privacy Policy
 
@@ -104,7 +104,7 @@ D. Disclosure to Third-Party Advertising Companies
 
 MedHelp.org uses technology provided by a third-party advertising company to serve ads when you visit this Web site. This technology may use information about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this Web site, such third-party advertising technology may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used to target ads to you, please visit Doubleclick Privacy Policy. In addition, you have the ability to accept or decline cookies by modifying the settings in your browser. 
 
-MedHelp.org may also use a third party ad network provider to help present advertisements on this Web site. Third-party ad serving enables MedHelp.org to target advertisements to you for products and services you might be interested in. These third party network advertisers, along with other advertisers and sponsors on the Web site, may use cookies, web beacons (also called single pixel gifs or action tags) or similar technologies (and, in the case of cookies, access them on your computer if you choose to have cookies enabled in your browser) to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicated advertisements. In doing so, the provider collects non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed and other clickstream data. The use of third party cookies, web beacons and similar technologies by these ad network providers is governed by each third party's specific privacy policy, not this one. Please visit http://www.networkadvertising.org/optout_nonppii.asp to learn more about the information collection practices and "opt-out" procedures of third party ad networks we may use. 
+MedHelp.org may also use a third party ad network provider to help present advertisements on this Web site. Third-party ad serving enables MedHelp.org to target advertisements to you for products and services you might be interested in. These third party network advertisers, along with other advertisers and sponsors on the Web site, may use cookies, web beacons (also called single pixel gifs or action tags) or similar technologies (and, in the case of cookies, access them on your computer if you choose to have cookies enabled in your browser) to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicated advertisements. In doing so, the provider collects non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed and other clickstream data. The use of third party cookies, web beacons and similar technologies by these ad network providers is governed by each third party's specific privacy policy, not this one. Please visit <http://www.networkadvertising.org/optout_nonppii.asp> to learn more about the information collection practices and "opt-out" procedures of third party ad networks we may use. 
 
 MedHelp also provides links to sites provided by Third Party Contractor Websites that have business arrangements with MedHelp to pay commissions based on sales of products or services generated through MedHelp. An example of this would be "Ad links" from Google on our Search pages. 
 
@@ -165,7 +165,7 @@ If you do not receive adequate resolution of a privacy related problem, you may 
 
 MedHelp  
 Attn: Office of Privacy  
-142 10th Street  
+929 Market Street, Suite 300  
 San Francisco, CA 94103 
 
 We will notify you within 30 days of receipt of your letter to confirm your personal identifiers have been removed. 
@@ -176,7 +176,7 @@ Self-Reported Information - Please log-in to My MedHelp and update your informat
 
 MedHelp  
 Attn: Record Removal  
-142 10th Street   
+929 Market Street, Suite 300   
 San Francisco, CA 94103 
 
 We will notify you to confirm your personal health identifiers have been removed. 
@@ -198,6 +198,8 @@ Non-Significant Changes - MedHelp may make non-significant changes to the Privac
 If we decide to change our privacy policy, we will post those changes to this privacy statement and other places appropriate throughout our site so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, and on the What's New page. 
+
+Definitions
 
 **Aggregate Information or Data:** As a website gathers individual pieces of Non-Personal Information (see definition below) from its users, it may combine similar data from many or all the users of the website into one big "batch". For example, the site may add up the total number of people in Peoria, Illinois, (but not their names) who are seeking information about weight loss and compare that to the number of people in Petaluma, California seeking the same information. 
 
@@ -234,5 +236,7 @@ Ideally, the password should be something that nobody could guess. In practice, 
 **username:** A name used to gain access to a computer system or program. Usernames, and often passwords, are required in shared systems, such as the Internet. In most such systems, users can choose their own usernames and passwords. On MedHelp, as part of your registration, you will be required to provide a username in addition to your email and a password. The MedHelp username is the name that will appear on any of your public forum postings. Usernames are also required to post a reply on message boards, use certain MedHelp Tools and online services such as My MedHelp. This public nickname should not include any personally identifiable information, such as your name. **NOTE:** Once you establish a username on MedHelp, you cannot change it without registering with a new account. 
 
 **virus:** A program or piece of code that is loaded onto your computer without your knowledge and runs against your wishes. Viruses can also "replicate" themselves by copying their code to other computers. All computer viruses are manmade. A simple virus that can make a copy of itself over and over again is relatively easy to produce. Even such a simple virus is dangerous because it will quickly use all available memory and bring the system to a halt. An even more dangerous type of virus is one capable of transmitting itself across networks and bypassing security systems. There are numerous virus protection programs available. 
+
+Accreditation
 
 Health on The Net Foundation - MedHelp complies with the principles of the HON Code of Conduct established by the Health on the Net Foundation. To verify our compliance, click on the HON logo. Please note that the Health on The Net Foundation certification applies only to sites under the medhelp.org domain. 
