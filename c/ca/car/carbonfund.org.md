@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbonfund.org privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630061437id_/http%3A//www.carbonfund.org/site/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonfund.org privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225110259id_/http%3A//carbonfund.org/site/pages/privacy_policy) for the most accurate reproduction.*
 
 # None
 
