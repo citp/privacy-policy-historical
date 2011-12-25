@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shopjustice.com privacy policy that was archived on 2011-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110401173858id_/http%3A//www.shopjustice.com/customerService/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopjustice.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226003930id_/http%3A//www.shopjustice.com/customerService/Privacy_Policy) for the most accurate reproduction.*
 
-# ShopJustice.com
+# Boys Clothing | ShopBrothers.com
 
-Effective as of March 1, 2011. 
+Effective as of October 25, 2011. 
 
 We are committed to protecting your personal information. Please take a few minutes to read and understand our privacy policies so that you know how we collect, use and share your personal information obtained online and in our U.S. and Puerto Rico stores. This Privacy Policy supersedes any prior privacy policy, statements, or representations relating to the collection, retention, or sharing of information. 
 
@@ -32,7 +32,7 @@ Justice and Brothers collect various types of personal information about you dur
 
 The personal information we ask for online is usually first and last name, mailing address, phone number and email address. We do not collect any personal information online unless it is voluntarily provided, for instance when registering, participating in contests, sweepstakes, promotions, completing online surveys, creating a wish list and emailing it to a friend, or purchasing products from our online stores. 
 
-We also collect information from you offline if, for example, you request a copy of our catazine, participate in a sweepstakes or purchase products from one of our stores. Justice and Brothers also collect aggregate, non-personal information that is used to help us improve your customer experience. We may combine this information with information we collect on or offline to better understand your needs, and to improve our stores, websites, products and services. 
+We also collect information from you offline if, for example, you request a copy of our catazine, participate in a sweepstakes or purchase products from one of our stores. Justice and Brothers also collect aggregate, non-personal information that is used to help us improve your customer experience. We may combine this information with information we collect on or offline to better understand your needs, and to improve our stores, websites, products and services 
 
 ### 2.      Information Collected for the Purpose of Online Orders.
 
@@ -50,7 +50,7 @@ If you access our content via a mobile device, we may also receive your mobile d
 
 ### 4.      How Personally Identifiable Information is Used and Shared.
 
-Personally identifiable information collected under this Privacy Policy online and in-store is shared among and used by the Tween Brands, Inc. companies for several purposes. For example, we may use your personal information to send you promotional materials about goods and services (including special offers and promotions) either offered by Justice, Brothers or other Tween Brands companies, or offered by outside third parties. These promotional materials may be sent to you by postal mail, email or other means. You may opt-out of receiving these communications. Please note that when you purchase or request products from Justice or Brothers, promotional materials may accompany delivery of that product. We refer to sending you promotional materials in these circumstances as "fulfillment uses" of your personal information. Because these promotional materials accompany products that you have requested, your opt-outs, if any, will not apply to any of these fulfillment uses. 
+Tween Brands, owner of the Justice and Brothers brands, may share personally identifiable information collected online and in-store under this Privacy Policy with and among its affiliated companies, including other brands owned by Tween Brands’ parent company, Ascena Retail Group, Inc., for several purposes. For example, your personal information may be used to send you promotional materials about goods and services (including special offers and promotions) either offered by Justice, Brothers or other Ascena-owned brands. We may also send you promotional materials about goods or services offered by outside third parties. These promotional materials may be sent to you by postal mail, email or other means. You may opt-out of receiving these communications. Please note that when you purchase or request products from Justice or Brothers, promotional materials may accompany delivery of that product. We refer to sending you promotional materials in these circumstances as "fulfillment uses" of your personal information. Because these promotional materials accompany products that you have requested, your opt-outs, if any, will not apply to any of these fulfillment uses. 
 
 Justice or Brothers may also use your personal information for purposes other than sending you promotional materials. For example, we may use your information to complete transactions requested by you (such as your purchase of a product offered on one of our websites), or to send you administrative communications about either your account with us or new features on our websites, including any future changes to this Privacy Policy. Because these uses of your personal information do not involve sending you promotional materials, your opt-outs will not apply to any of these operational uses. 
 
@@ -58,7 +58,7 @@ In addition, there may be times when, at your direction, we will share certain i
 
 We may take your personally identifiable information and make it non-personally identifiable, either by combining it with information about other individuals (aggregating for example your age and gender or similar information with information about other individuals), and/or by removing characteristics (such as your name) that make the information personally identifiable directly to you. Given the nature of this information, there are no restrictions under this Privacy Policy upon our right to aggregate or de-personalize your personal information and we may use, sell and/or share such non-personally identifiable information with any outside third parties. 
 
-From time to time we may release your personal information to select third parties so that they (or their clients/subscribers) can send you promotional materials and communications about respective goods and services ("promotional purposes") offered by them. When releasing your information for promotional purposes, we attempt to select reputable companies that offer high quality products and services. However, your personal information will become permanently subject to the information use and release practices of that third party. Those parties will not be restricted by this Privacy Policy with respect to their use and further sharing of your personal information. You may choose to opt-out of releasing your information to third parties as described in section 9 below. 
+From time to time we may release your personal information to select third parties so that they (or their clients/subscribers) can send you promotional materials and communications about respective goods and services ("promotional purposes") offered by them. When releasing your information for promotional purposes, we attempt to select reputable companies that offer high quality products and services. However, your personal information will become permanently subject to the information use and release practices of that third party. Those parties will not be restricted by this Privacy Policy with respect to their use and further sharing of your personal information. You may choose to opt-out of releasing your information to third parties as described in section 9 below. Notwithstanding the foregoing, we will not release your email address to third parties, even if you do not choose to opt-out. 
 
 From time to time we may offer links to third party sites on our site. Again by linking through to and using these websites and/or applications you become subject to the third parties' privacy policies, so please read the third party sites' privacy policies before submitting personal or other information or using the applications. 
 
@@ -92,11 +92,11 @@ With regard to personal information that you have provided under this Privacy Po
 
 Your three opt-out choices are: 
 
-(i). You may choose to opt out of receiving promotional materials from third parties and if so we will not release your personal information to them. If you do not choose this opt-out, we may release your personal information so that third parties can send you promotional communications and materials. 
+(i). You may choose to opt out of receiving promotional materials from third parties and if so we will not release your personal information to them. If you do not choose this opt-out, we may release your personal information as set forth in Section 4 so that third parties can send you promotional communications and materials. 
 
-(ii). You may choose to opt-out of receiving promotional materials from any of the Tween Brands companies, including Justice and/or Brothers. In doing so, you may choose to opt-out of receiving all promotional materials delivered to you OR designate communications of a specific manner, such as postal mail, email, or voice-messaging. 
+(ii). You may choose to opt-out of receiving promotional materials from any of the Tween Brands companies and its affiliated companies, including Justice and/or Brothers. In doing so, you may choose to opt-out of receiving all promotional materials delivered to you OR designate communications of a specific manner, such as postal mail, email, or voice-messaging. 
 
-(iii). You may choose to opt-out of receiving promotional materials from all of the Tween Brands companies and third parties. 
+(iii). You may choose to opt-out of receiving promotional materials from all of the Tween Brands companies, its affiliated companies, and third parties. 
 
 Please keep in mind that any opt-out choices you make will not apply in situations where (a) you later make a specific request for information from us; (b) we use your personal information for either operational uses or fulfillment uses (as described above); or (c) we share your personal information under the provisions above with respect to "Contracted Companies That Facilitate Transactions with You, and "Disclosures Required by Law and to Help Protect the Security and Safety of Our Websites." 
 
