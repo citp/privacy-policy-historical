@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webuildyourblog.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604191700id_/http%3A//www.webuildyourblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webuildyourblog.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225203659id_/http%3A//www.webuildyourblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Build Blog: How to make a blog and a blog income
+# Privacy Policy
 
 **Our Commitment To Privacy**
 
@@ -12,7 +12,6 @@ This notice applies to all information collected or submitted on the WeBuildYour
 
 \- Name  
 \- Email address 
-
 
 ** The Way We Use Information:**
 
@@ -30,7 +29,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 ** How You Can Access Or Correct Your Information**
 
-You can access all your personally identifiable information that we collect online and maintain by contacting us at support@webuildyourblog.com. We use this procedure to better safeguard your information. 
+You can access all your personally identifiable information that we collect online and maintain by contacting us at support [@] webuildyourblog [dot] com. We use this procedure to better safeguard your information. 
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
@@ -38,4 +37,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 ** How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please send us an email at support@webuildyourblog.com.
+Should you have other questions or concerns about these privacy policies, please send us an email at support [@] webuildyourblog [dot] com.
