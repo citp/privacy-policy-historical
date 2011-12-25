@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ammas.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625040657id_/http%3A//www.ammas.com/ar/home.cfm%3Fr%3Dpri%26bid%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammas.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225211445id_/http%3A//www.ammas.com/ar/home.cfm%3Fr%3Dpri%26bid%3D0) for the most accurate reproduction.*
 
 # Privacy - Ammas.com Ask Agent™ : Ask questions, Seek advice, Ask an expert
 
