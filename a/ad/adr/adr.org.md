@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adr.org privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625144211id_/http%3A//www.adr.org/aaa_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adr.org privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225103223id_/http%3A//adr.org/aaa_privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
