@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathworks.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629142028id_/http%3A//www.mathworks.com/company/aboutus/policies_statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathworks.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225222403id_/http%3A//www.mathworks.com/company/aboutus/policies_statements) for the most accurate reproduction.*
 
 # MathWorks - Policies and Statements
 
@@ -91,13 +91,11 @@ To enable you to use our products, we may request or collect information such as
 
 MathWorks may make improvements or changes in the information, services, products, and other materials on the MathWorks Web site at any time without notice. MathWorks may modify this Privacy Policy at any time, and such modifications shall be effective immediately upon posting of the modified Privacy Policy. Notification of material changes to this Privacy Policy will be provided by noting a new "updated" date in connection with the Privacy Policy link that appears at the bottom of each page. 
 
-_If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact[webmasters@mathworks.com](mailto:webmasters@mathworks.com)._
+_If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please[contact us](https://web.archive.org/company/feedback/)._
 
 Updated 08/27/2009
 
 | 
 
-|  [](https://web.archive.org/company/aboutus/contact_us/contact_sales.html) | [Contact sales](https://web.archive.org/company/aboutus/contact_us/contact_sales.html)  
----|---  
-[](mailto:?subject=An%20interesting%20item%20from%20The%20MathWorks&body=I%20thought%20you%20might%20be%20interested%20in%20this%3A%0Dhttp%3A%2F%2Fwww.mathworks.com%2Fcompany%2Faboutus%2Fpolicies_statements%2Findex.html?s_v1=emailed%0D%0DFor%20more%20information%20on%20MathWorks%20products-%0DMathWorks%20Product%20%26%20Services%3A%20http%3A%2F%2Fwww.mathworks.com%2Fproducts%2Findex.html%0DLatest%20Features%3A%20http%3A%2F%2Fwww.mathworks.com%2Fproducts%2Fnew_products%2Flatest_features.html%0DContact%20Sales%3A%20http%3A%2F%2Fwww.mathworks.com%2Fcompany%2Faboutus%2Fcontact_us%2Fcontact_sales.html%0DGet%20a%20Trial%3A%20%20http%3A%2F%2Fwww.mathworks.com%2Fprograms%2Ftrials%2Ftrial_request.html%0D) | [E-mail this page](mailto:?subject=An%20interesting%20item%20from%20The%20MathWorks&body=I%20thought%20you%20might%20be%20interested%20in%20this%3A%0Dhttp%3A%2F%2Fwww.mathworks.com%2Fcompany%2Faboutus%2Fpolicies_statements%2Findex.html?s_v1=emailed%0D%0DFor%20more%20information%20on%20MathWorks%20products-%0DMathWorks%20Product%20%26%20Services%3A%20http%3A%2F%2Fwww.mathworks.com%2Fproducts%2Findex.html%0DLatest%20Features%3A%20http%3A%2F%2Fwww.mathworks.com%2Fproducts%2Fnew_products%2Flatest_features.html%0DContact%20Sales%3A%20http%3A%2F%2Fwww.mathworks.com%2Fcompany%2Faboutus%2Fcontact_us%2Fcontact_sales.html%0DGet%20a%20Trial%3A%20%20http%3A%2F%2Fwww.mathworks.com%2Fprograms%2Ftrials%2Ftrial_request.html%0D)  
-| Print this page
+| [](https://web.archive.org/company/aboutus/contact_us/contact_sales.html) | [Contact sales](https://web.archive.org/company/aboutus/contact_us/contact_sales.html)  
+---|---
