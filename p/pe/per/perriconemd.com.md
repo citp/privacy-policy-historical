@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perriconemd.com privacy policy that was archived on 2011-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110306115452id_/http%3A//www.perriconemd.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perriconemd.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225141359id_/http%3A//www.perriconemd.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security - Perricone MD
 
@@ -10,7 +10,7 @@ By using our site, you agree to the terms of this privacy policy.
 
 ## Orders
 
-If you purchase a product or service from us, we request certain personally identifiable information from you on our order pages. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, and expiration date) otherwise we cannot process your order. We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. Also, please rest assured that all purchases and credit card transactions sent thru Perricone, M.D. Ltd. are private and secure. We use the latest technologies of encryption available from VeriSign. VeriSign has set the highest industry standards for transmitting sensitive data over the internet. They've earned the trust of businesses world wide, including all of the Fortune 500 companies on the web. For more information about encrypted data, please visit their site at VeriSign.com. 
+If you purchase a product or service from us, we request certain personally identifiable information from you on our order pages. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, and expiration date) otherwise we cannot process your order. We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. Also, please rest assured that all purchases and credit card transactions sent thru Perricone MD are private and secure. We use the latest technologies of encryption available from VeriSign. VeriSign has set the highest industry standards for transmitting sensitive data over the internet. They've earned the trust of businesses world wide, including all of the Fortune 500 companies on the web. For more information about encrypted data, please visit their site at VeriSign.com. 
 
 ## How We Use Your Personal Information
 
@@ -26,7 +26,7 @@ The security of your personal information is important to us. When you enter sen
 
 ## Opting Out of Newsletters, Special Offers and Product Updates
 
-You may be a subscriber to our newsletters. Also, we may occasionally send you information on special offers, promotions or product updates. If you ever decide you no longer wish to receive these communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication, or by submitting this form. (Click here for form.) You may also opt out by contacting customer service at 888.823.7837 or writing to us at the address below. 
+You may be a subscriber to our newsletters. Also, we may occasionally send you information on special offers, promotions or product updates. If you ever decide you no longer wish to receive these communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication, or by contacting customer service at 888.823.7837 or writing to us at the address below. 
 
 ## Cookies
 
