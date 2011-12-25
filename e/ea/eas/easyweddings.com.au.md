@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyweddings.com.au privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623161210id_/http%3A//www.easyweddings.com.au/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyweddings.com.au privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225034824id_/http%3A//www.easyweddings.com.au/information/privacy.asp) for the most accurate reproduction.*
 
 # EasyWeddings - Disclaimer & Privacy
 
