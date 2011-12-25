@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthdayinabox.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630070848id_/http%3A//www.birthdayinabox.com/info/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdayinabox.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225035601id_/http%3A//www.birthdayinabox.com/info/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at Birthday in a Box
 
@@ -59,7 +59,7 @@ When you create a Birthday in a Box customer account or purchase a product from 
 
 We use our mailing list to provide you, via email, with information about our Company, provide promotional offers and party planning information prior to your child’s next birthday, and deliver other special offers, discounts and promotions from our Company and select third party partners. If we provide an offer from a third party partner, we do not provide that partner your PII.
 
-All emails contain simple instructions on how to unsubscribe. You may also elect not to receive these offers through our [Web Site](https://web.archive.org/removeme.asp) or by emailing [unsubscribe@birthdayinabox.com](mailto:unsubscribe@birthdayinabox.com). If using the email option, please allow 5 business days for us to process your request.
+All emails contain simple instructions on how to unsubscribe. You may also elect not to receive these offers by emailing [postmaster@birthdayinabox.com](mailto:postmaster@birthdayinabox.com?subject=Unsubscribe%20Request). Please allow 5 business days for us to process your request.
 
 **IP Address**
 
