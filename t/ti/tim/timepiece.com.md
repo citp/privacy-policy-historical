@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timepiece.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626192759id_/http%3A//timepiece.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timepiece.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225110222id_/http%3A//www.timepiece.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Timepiece.com Privacy Policy
 
