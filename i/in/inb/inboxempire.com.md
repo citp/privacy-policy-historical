@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inboxempire.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628092724id_/http%3A//inboxempire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxempire.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225114234id_/http%3A//www.inboxempire.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Inbox Empire
 
 **Policies and Procedures**
 
