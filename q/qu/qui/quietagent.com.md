@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quietagent.com privacy policy that was archived on 2011-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110325192330id_/http%3A//info.quietagent.com/job-seekers/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quietagent.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225143844id_/http%3A//info.quietagent.com/job-seekers/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – QuietAgent
 
