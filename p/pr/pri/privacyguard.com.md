@@ -1,12 +1,18 @@
-> *The following text is extracted and transformed from the privacyguard.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618100631id_/http%3A//www.privacyguard.com/Content.aspx%3Fcontent%3DCustomerService%252fFinInfoPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacyguard.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225205133id_/http%3A//www.privacyguard.com/content/privacy-policy.html) for the most accurate reproduction.*
 
-# PrivacyGuard
+# Privacy Policy | PrivacyGuard
 
-Privacy Policy
+**TRY IT NOW**
 
- **[Online Privacy Policy](http://www.privacyguard.com/BCA/PG_NEW/images/privacypolicy/PPolicyPGNEWGeneric.pdf)**
+**_Get your first month  
+for just $1_**
 
-[**Privacy Policy FAQ's**](https://web.archive.org/Content.aspx?content=CustomerService%2fFinInfoFaqs)
+Billing Terms and  
+Conditions Apply
+
+**[Online Privacy Policy](https://web.archive.org/BCA/PG_NEW2/images/privacypolicy/PPolicyPGNEWGeneric.pdf)**
+
+[**Privacy Policy FAQ's**](https://web.archive.org/content/privacy-policy-faq.html)
 
 The following discloses our information collection, use and dissemination practices for https://www.privacyguard.com, a Web site of Trilegiant Corporation. Effective Date: This Privacy Policy was last updated on November 12, 2010 and is subject to change at any time.  
 ---  
@@ -110,6 +116,7 @@ YES
 If you are a _new_ customer, we can begin sharing your infor mation 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice.  
 However, you can contact us at any time to limit our sharing.  
 ---|---  
+  
 **Questions?** | Write us at: Trilegiant Corporation, P.O. Box 40383, Nashville, TN 37204 or e-mail us at GLBPolicy@Trilegiant.com.  
 ---|---  
   
@@ -156,4 +163,10 @@ Other important information
 Name  
 Address  
 City, State, Zip   
-Membership # 
+Membership #   
+  
+**Give us a call**  
+1-800-374-8273 
+
+**Email:**  
+service@privacyguard.com 
