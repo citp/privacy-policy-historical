@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudme.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625133138id_/http%3A//www.cloudme.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudme.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225110519id_/http%3A//www.cloudme.com/en/privacy-policy) for the most accurate reproduction.*
 
 # CloudMe - Your files online
 
