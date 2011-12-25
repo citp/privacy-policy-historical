@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beveragefactory.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625215407id_/http%3A//www.beveragefactory.com/privacy_statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beveragefactory.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225125941id_/http%3A//www.beveragefactory.com/privacy_statement.shtml) for the most accurate reproduction.*
 
 # Privacy Statement | BeverageFactory.com
 
