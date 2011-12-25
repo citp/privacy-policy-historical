@@ -1,183 +1,134 @@
-> *The following text is extracted and transformed from the newport-news.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509194526id_/http%3A//www.newport-news.com/customer/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newport-news.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225235508id_/http%3A//www.newport-news.com/privacy-policy) for the most accurate reproduction.*
 
-# Newport-News: Women's Clothing, Sportswear, Shoes, Jeans, Special Sizes, and more
-
-We realize that making purchases at newport-news.com, or any other website, requires trust on your part. We value your trust very highly, and pledge to you, our customer, that we are committed to ensuring the privacy of your personal information and will use any information you give us in a responsible manner. You are very important to us and we are dedicated to providing you with a safe and secure online experience. 
-
-This privacy Statement describes how we collect and use your information and gives you choices as to how we use it. We suggest that you review this Privacy Statement periodically as we may update it from time to time.  
-This policy was last revised on October 25, 2006. 
-
-What information do we collect?  
-How do we use your information?  
-What are cookies?  
-Third Party Merchants "Presented By Newport News"  
-How can you update your information?  
-How do you know your information is secure?  
-Children's policy  
-Changes to this privacy policy statement  
-Conflict in terms  
-Contact us
+# Privacy Policy - Newport News
 
 * * *
 
-  
 **What information do we collect?**
 
-Every time you visit our Web site, our Web server automatically collects the following non-personally identifiable information: your Internet service provider's address, the referring URL and, information on the pages you access on our site.
+Every time you visit our website, our Web server automatically collects the following non-personally identifiable information: your Internet service providers address, the referring URL and, information on the pages you access on our site.
 
-We also collect personally identifiable information that you provide, such as survey information and information you provide when you make a purchase, register your e-mail address or sign-up for sweepstakes or contests. If you have visited our site before and provided us with your e-mail address, we collect information on what pages you access or visit while on our site. 
+We also collect personally identifiable information that you provide, such as survey information and information you provide when you make a purchase, register your email address or sign-up for sweepstakes or contests. If you have visited our site before and provided us with your email address, we collect information on what pages you access or visit while on our site.
 
-Back to the Top.
+[Back to the Top](http://www.newport-news.com/customer/privacy_policy.aspx#top).
 
 * * *
 
-  
-**How Do We Use Your Information?**
-
-The information we collect is used: 
-
-  * to generally improve the content and layout of our Web site
-  * to improve the content and layout of our Web site for individual visitors
-  * to notify you about updates to our Web site
+  * to generally improve the content and layout of our website
+  * to improve the content and layout of our website for individual visitors
+  * to notify you about updates to our website
   * to contact you for marketing purposes
-  * in some instances, shared with other organizations for marketing purposes
   * for internal review
 
-When you supply us with personal information to request a catalog or order a product, the information you provide will be added to our customer file. You may receive periodic mailings or telephone contact from us with information on new products and services, discounts, special promotions or upcoming events that we offer. If you do not want to receive such mailings or telephone contact from us, then please Click Here for information on where to contact us to remove yourself from our contact list.
 
-We may send you e-mail with information on new products and services, discounts, special promotions or upcoming events that we offer. If you do not wish to receive such e-mail in the future, please Click Here for information on where to contact us to remove yourself from our e-mail list or, click on the "opt-out" link on any e-mail you receive from us. Please note that when you provide us with your E-mail address in order to make a purchase, we will send you confirmation of your order via E-mail even if you have chosen not to receive future e-mail from us about our products and services.
 
-We may also contact you by mail or telephone if we have questions about your order.
+In some instances, we share some of your information with our parent company, subsidiaries and other affiliates (the Newport News Affiliates) or other organizations for marketing purposes.
 
-We may provide your name, address and phone number (but not your e-mail address) to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, we can put you on our "do-not-share" or "do not call" lists. Please Click Here for information on where to contact us if you do not want us to share this information with third parties.
+When you supply us with personal information to request a catalog or order a product, the information you provide will be added to our customer file (including your name, address, phone number and email address). You may receive periodic mailings or telephone contact from us with information on new products and services, discounts, special promotions or upcoming events that we offer. If you do not want to receive such mailings from Newport News, then please [ Click Here](http://www.newport-news.com/customer/privacy_policy.aspx#contact) for information on where to reach us to remove yourself from our contact list.
 
-In some instances, we use third party vendors to help us in providing our products and services to you to assist us in managing customer information, to fulfill promotions and to communicate with you. Some of these vendors are given access to some or all of the information you provide to us, including your e-mail address, and may use cookies on our behalf. These vendors are contractually restricted from using your information other than in helping us to provide you with the products and services available on our site. For more information about these companies, [Click Here](https://web.archive.org/web/20070509194526id_/http%3A//www.newport-news.com/customer/thirdparties.aspx).
+We may send you email with information on new products and services, discounts, special promotions or upcoming events that are being offered. If you do not wish to receive such email from us in the future, please [ Click Here](http://www.newport-news.com/customer/privacy_policy.aspx#contact) for information on where to contact us to remove yourself from our email list or, click on the "opt-out" link on any email you receive from us. Please note that when you make a purchase and provide us with your email address, we may send you confirmation of your order via email even if you have chosen not to receive future email from us about our products and services. We may also contact you by mail or telephone if we have questions about your order.
 
-Newport News may participate with certain reputable companies who offer you the ability to establish a membership that would enable you to participate in travel and entertainment programs. If you elect to activate a trial membership in the Newport News Insider Pass program we will provide your name, address and credit card information to Encore Marketing International, the Newport News Insider Pass service provider. Newport News is not responsible for the privacy practices of the companies sponsoring these membership programs and we suggest you review the privacy policy of each company with whom you may be considering a membership. 
+We supply our customer file (including your name, address, phone number and email address) to certain Newport News Affiliates. In addition to information provided to Newport News Affiliates, we may also provide your name, address and phone number (but not your email address) to a select group of companies who are not Newport News Affiliates and whose products you may find of interest. If you do not want us to share this information with these companies, we can put you on our "do-not-share" or "do not call" lists. Please [ Click Here](http://www.newport-news.com/customer/privacy_policy.aspx#contact) for information on where to contact us if you do not want us to share this information with Newport News Affiliates or other third parties.
 
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes. 
+Note that Newport News Affiliates and other third parties with whom we share your information have their own privacy statements, and those statements apply to your personal information when it is held by such Newport News Affiliates or third parties. Please refer to the Newport News Affiliate or third party privacy statements, as applicable, for further information on how those entities treat your personal information.
 
-In the event that there is a change in control of Newport News, Inc., or, if all, or substantially all, of the assets of Newport News, Inc. are sold to a third party, we may transfer the information on our customer file to the third party. This information may include your name, mailing address and email address among other information. Please know that if such a transfer takes place, the third party acquiring the information will be advised of your preferences about how we use your information. After the transfer takes place, use of your information is subject to the privacy statement of the third party that acquires it. The acquiring company may continue to operate the Newport News website, if so, you should check this privacy statement periodically to determine how the acquiring entity will use your information. 
+In some instances, we use third party companies to help us in providing our products and services to you, to assist us in managing customer information, to fulfill promotions and to communicate with you. Some of these third party service providers are given access to some or all of the information you provide to us, including your email address, and may use cookies on our behalf. These third party service providers are contractually restricted from using your information in any manner, other than in helping us to provide you with the products and services available from Newport News. For more information about these companies, [Click Here](http://www.newport-news.com/customer/thirdparties.aspx).
 
-Back to the Top.
+Newport News may participate with certain reputable companies who offer you the ability to establish a membership that would enable you to participate in travel and entertainment programs. If you elect to activate a trial membership in the Newport News Insider Pass program we will provide your name, address and credit card information to Encore Marketing International, the Newport News Insider Pass service provider. Newport News is not responsible for the privacy practices of the companies sponsoring these membership programs and we suggest you review the privacy policy of each company with whom you may be considering a membership.
 
-* * *
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
 
-  
-**What are "cookies"?**
+We may buy or sell business assets or be acquired by or acquire other companies. In such transactions, personal information generally is one of the transferred business assets. In addition, in the event that we merge or consolidate with another entity or there is a change in control of Newport News, Inc., or, if all, or substantially all, of the assets of Newport News, Inc. are sold to a third party, we may transfer your personal information to the third party. This information may include your name, mailing address and email address among other information. Please know that if such a transfer takes place, the third party acquiring the information will be advised of your preferences about how we use your information. After the transfer takes place, use of your information is subject to the privacy statement of the third party that acquires it. You should check that company's privacy statement for information on how it will use your customer information.
 
-Most Internet sites, including ours, collect data about visitors through the use of "cookies". Cookies are small software programs that help sites recognize repeat visitors by assigning a random number to each desktop for tracking content preferences and traffic patterns. Cookies may be used to "connect" your computer to information stored in a separate location. At Newport News, we use cookies to connect your computer with the information we store for you in our database. Some examples of this information include items added to your shopping cart and user specific information on pages accessed and previous visits to our site. Your information is stored in a safe and secure database. Through cookies we may also: alert you to new areas that we think might be of interest to you when you return to our site; record past activity at our site in order to provide you better service when you return to our site; or, customize Web page content based on your browser type or other information that you send us.
-
-We do not use cookies to store any of your personal or financial information on your computer. 
-
-Newport News recognizes that you have a choice to refuse cookies. However, if you wish to purchase from our site, you must accept the cookie so that we can securely process your order. Cookies keep track of the items that you order during your shopping session so that when you're ready to check out, all of the items you've placed in your shopping cart will be there and ready for purchase. 
-
-To learn more about how to set your browser to accept cookies, Click here. 
-
-**For our customers using Internet Explorer 6.0**
-
-If you are shopping on newport-news.com using Internet Explorer 6.0 and are having difficulty accessing the site, please check your privacy settings in your browser and set them to "Medium". If you do not wish to change your privacy settings to "Medium" and you are currently using the "Medium High" or "High" settings, you may choose to override your current cookie handling practices for individual sites that you specify, including newport-news.com. Please click here for instructions on how to override your normal cookie handling practices. As always, you can place your order by phone at 1-800-688-2830. 
-
-Back to the Top.  
+[Back to the Top](http://www.newport-news.com/customer/privacy_policy.aspx#top).  
 
 
 * * *
 
-  
-**Third Party Merchants "Presented By Newport News"**
+**Third party merchants "Presented by Newport News"**
 
-If you make a purchase from a Merchant Site with a link originating from the Newport News site or a Merchant catalog or website "presented by" Newport News, the information you provide to that Merchant, and any other information you give such as your credit card number and contact information, is provided to the Merchant and not to Newport News. Providing this information to the Merchant enables the transaction to take place. However, you should know that the Merchant may, if you do not advise them to the contrary, share your name and postal and e-mail addresses with third parties, including Newport News.
+If you make a purchase from a Merchant Site with a link originating from the Newport News site or a Merchant catalog or website "presented by" Newport News, the information you provide to that Merchant, such as your credit card number and contact information, is provided to the Merchant and not to Newport News. Providing this information to the Merchant enables the transaction to take place. However, you should know that the Merchant may, if you do not advise them to the contrary, share your name and postal and email addresses with third parties, including Newport News. You should also know that these Merchants have their own privacy and data collection practices and are not covered by the Newport News privacy statement.
 
-Merchants on the Newport News site and those Merchants, who send catalogs or host websites "presented by" Newport News, have separate privacy and data collection practices. We have no control over and therefore no responsibility or liability for these independent policies. For more information regarding Merchants appearing on Newport News or other Merchants who send catalogs or host websites "presented by" Newport News and their privacy policies, please see the Merchant's home page and click on their Information link or review the customer service section of any catalog you may receive from the Merchant. 
+Merchants on the Newport News site and those Merchants, who send catalogs or host websites "presented by" Newport News, have separate privacy and data collection practices. We have no control over and therefore no responsibility or liability for these independent policies. For more information regarding Merchants appearing on Newport News or other Merchants who send catalogs or host websites "presented by" Newport News and their privacy policies, please see the Merchant's home page and click on their Information link or review the customer service section of any catalog you may receive from the Merchant.
 
-The Merchants that have links on the Newport News site may collect personally identifiable information about you. The information practices of these Merchants are not covered by the Newport News privacy statement. 
+Merchants that have links on the Newport News site may collect personally identifiable information about you. The information practices of these Merchants are not covered by the Newport News privacy statement.
 
-Back to the Top.
-
-* * *
-
-  
-**How can you update your information?**
-
-We will provide you access to the following information if you send us an e-mail, call us or write to us: 
-
-  * financial information (such as credit card account information)
-  * unique identifier information (customer number or password)
-  * transaction information (dates on which you made purchases, amounts and types of purchases)
-  * contact information (name, address, phone number)
-
-We will evaluate each request and reply in an appropriate manner and form of communication that ensures the security of the information you have requested. Click here for contact information. 
-
-Back to the Top.
+[Back to the Top](http://www.newport-news.com/customer/privacy_policy.aspx#top).
 
 * * *
 
-  
 **How do you know your information is secure?**
 
-When you see either a solid key icon or a locked padlock icon at the lower portion of your browser window, then your site is secured through Secure Sockets Layer. We use industry-standard encryption technologies when transferring and receiving your information on our site. If you do not see one of these icons, please contact your Internet service provider. When we transfer and receive certain types of sensitive information such as financial information, we will redirect you to a secure server and notify you through a pop-up screen on our site. 
+When you see either a solid key icon or a locked padlock icon in your browser window, then your site is secured through Secure Sockets Layer. We use industry-standard encryption technologies when transferring and receiving your information on our site. If you do not see one of these icons, please contact your Internet service provider. When we transfer and receive certain types of sensitive information, such as financial information, we will redirect you to a secure server and notify you through a pop-up screen on our site.
 
 We have appropriate security measures in place in our facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site so you can feel comfortable and secure. 
 
-**Please note that e-mail is not encrypted and is not considered a secure means of transmitting credit card numbers.**
+Please note that email is not encrypted and is not considered a secure means of transmitting credit card numbers.
 
-Back to the Top.
-
-* * *
-
-  
-**Children's Policy**
-
-Newport News does not seek to solicit information from anyone under the age of thirteen (a "Child"). If a Child submits information to us through any part of our Website, and we know that the person submitting the information is a Child, we will not use it for any purpose. We will delete the information as soon as we discover it and we will not disclose it to third parties. 
-
-Back to the Top.
+[Back to the Top](http://www.newport-news.com/customer/privacy_policy.aspx#top).
 
 * * *
 
-  
-**Changes To This Privacy Policy Statement**
+**Children's Privacy**
 
-From time to time, we may use the information you provide us for new, unanticipated uses not previously addressed in our Privacy Statement. If our information practices change at some time in the future we will post the policy changes on the privacy page of our Web site to notify you of these changes. You should check our Web site periodically for more information on how we use the data we collect.
+Newport News does not seek to solicit information from anyone under the age of thirteen (a "Child"). If a Child submits information to us through any part of our Website, and we know that the person submitting the information is a Child, we delete the information as soon as we discover it and do not use it for any purpose, nor do we disclose it to third parties. If your child has submitted personal information to us and you would like to request that such information be removed from our customer lists, you may contact us using the contact us information listed below, and we will honor your request.
 
-If there is a material change in the manner we use data we collect, we will update this Privacy Statement to reflect these changes. 
-
-Back to the Top.
+[Back to the Top](http://www.newport-news.com/customer/privacy_policy.aspx#top).
 
 * * *
 
-  
-**Conflict In Terms**
+  * financial information (such as your credit card account information)
+  * unique identifier information (your customer number or password)
+  * transaction information (dates on which you made purchases, amounts and types of purchases) 
+  * contact information (your name, address, phone number)
 
-It is our goal to make our privacy practices easy to understand. We have created this easy-to-read Privacy Statement with that goal in mind. Some browsers utilize privacy enhancing technology to translate our Privacy Statement into a computer readable format and then translate it back into human readable format for you to read. This translation back into human readable format is often referred to as a "Policy Summary". To the extent that this Policy Summary is inconsistent with, fails to address or addresses an issue not raised in, our Privacy Statement, you should rely on our Privacy Statement as it is the controlling authority. 
 
-Back to the Top.
+
+We will evaluate each request and reply in an appropriate manner and form of communication that respects the security of the information you have requested. [ Click Here](http://www.newport-news.com/customer/privacy_policy.aspx#contact) for Contact Information.
+
+[Back to the Top](http://www.newport-news.com/customer/privacy_policy.aspx#top).
 
 * * *
 
-  
-**Contact Us**
+**Changes to this privacy statement**
 
-To contact us for any reason, including a request to be added or taken off a list, or if you have any concerns or questions, please contact us: 
+From time to time, we may use the information you provide us for new, unanticipated uses not previously addressed in our Privacy Statement. If our information practices change at some time in the future, we will post the policy changes on the privacy page of our Website to notify you of these changes, and the revised Privacy Statement will apply to all of your personal information that we have on file, provided, however, that we will continue to honor any past requests not to share your information with third parties. You should check our Website periodically for more information on how we use the data we collect.
 
-  * By Postal Mail:
+If there is a material change in the manner we use data we collect, we will update this Privacy Statement to reflect these changes.
 
-Newport News  
-5100 City Line Road  
-Hampton VA 23630-5100
+[Back to the Top](http://www.newport-news.com/customer/privacy_policy.aspx#top).
 
-  * By Phone - U.S. Customer service:
+* * *
 
-1.800.759.3950; Monday through Friday, from 8:00 a.m. to midnight, EST.
+**Conflict in terms**
 
-  * By E-mail:
+It is our goal to make our privacy practices easy to understand. We have created this easy-to-read Privacy Statement with that goal in mind. Some browsers utilize privacy enhancing technology to translate our Privacy Statement into a computer readable format. The technology then requires that the computer format be translated back into human readable format for you to read. This translation back into human readable format is often referred to as a "Policy Summary". It is possible that through these translations, the Policy Summary may unintentionally end up being inconsistent with the Privacy Statement upon which it is based. It might fail to address an issue, or it might address an issue not raised in our Privacy Statement. For this reason, you should rely on our Privacy Statement as the most accurate and definitive description of our practices.
 
-[customercare@newport-news.com](mailto:customercare@newport-news.com)
+[Back to the Top.](http://www.newport-news.com/customer/privacy_policy.aspx#top)
+
+* * *
+
+**Contact us**
+
+To contact us for any reason, including a request to be added to or taken off a list, or if you have any concerns or questions, please contact us:
+
+  * By mail: 
+
+    Newport News  
+    5100 City Line Road  
+    Hampton VA 23630-5100
+
+  * By phone:
+
+    1.800.759.3950
+
+  * By email:
+
+    [customercare@newport-news.com](mailto:customercare@newport-news.com)
 
 
-Please note: When you contact us, provide your name and address exactly as it appears on correspondences you have received from us. 
 
-We are an active member of the Direct Marketing Association. [Click here](http://www.the-dma.org/consumers/index.html) for additional privacy information from the DMA. 
 
-If you feel that this site is not following its stated information privacy policy, you may contact us at the above address(es) or phone number or at [customercare@newport-news.com](mailto:customercare@newport-news.com) or you may contact the DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org). 
+Special Note: When you contact us, please provide us with your exact name and address as it appears on correspondence you have received from us.
 
-Back to the Top.
+We are an active member of the Direct Marketing Association. [ Click here](http://www.the-dma.org/index.php) for additional privacy information from the DMA. If you feel that this site is not following its stated information privacy policy, you may contact us at the above address or phone number or at [ customercare@newport-news.com](mailto:customercare@newport-news.com) or you may contact the DMA's Committee on Ethical Business Practices at [ mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org).
