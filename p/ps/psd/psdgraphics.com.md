@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psdgraphics.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623052128id_/http%3A//www.psdgraphics.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psdgraphics.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225225319id_/http%3A//www.psdgraphics.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for www.psdgraphics.com | psdGraphics
 
