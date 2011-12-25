@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spriters-resource.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627050742id_/http%3A//vg-resource.com/%3Fpage_id%3D226) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spriters-resource.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225222734id_/http%3A//vg-resource.com/%3Fpage_id%3D226) for the most accurate reproduction.*
 
-# Privacy Policy | The VG Resource
+# Privacy Policy
 
 This Policy is in regard to The Spriters Resource, The Models Resource, The Textures Resource and The Sounds Resource, as well as The VG Resource. For all of these sites, the following policy applies.
 
@@ -26,9 +26,9 @@ We implement a variety of security measures to maintain the safety of your perso
 
 **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.)
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and keep track of advertisements and .
+We use cookies to help us remember and understand your preferences for future visits and keep track of advertisements and other information. No personal information is taken or used, we simply store information regarding your use of this website.
 
 **Do we disclose any information to outside parties?**
 
