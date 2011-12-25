@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avalanchers.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414145516id_/http%3A//www.avalanchers.com/pages/priv.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avalanchers.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225112111id_/http%3A//www.avalanchers.com/pages/priv.php) for the most accurate reproduction.*
 
 # Avalanchers - Privacy Policy
 
