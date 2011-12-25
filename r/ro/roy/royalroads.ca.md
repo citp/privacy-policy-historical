@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalroads.ca privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613115644id_/http%3A//www.royalroads.ca/freedom-information-and-protection-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalroads.ca privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225144328id_/http%3A//www.royalroads.ca/freedom-information-and-protection-privacy) for the most accurate reproduction.*
 
 # Freedom of Information and Protection of Privacy | Victoria, BC Canada University
 
