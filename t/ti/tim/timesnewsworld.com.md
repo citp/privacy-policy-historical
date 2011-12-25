@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the timesnewsworld.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625224256id_/http%3A//timesnewsworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesnewsworld.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225014909id_/http%3A//timesnewsworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Times News World
-
-## Privacy Policy
+# Privacy Policy | Times News World Page
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
@@ -23,4 +21,4 @@ We have included links on this site for your use and reference. We are not respo
 own.
 
 Changes to this Privacy Statement  
-The contents of this statement may be altered at any time, at our discretion. If you have any questions regarding the privacy policy of Timesnewsworld.com then you may contact us at supportATTimesnewsworld.com (change AT to @)
+The contents of this statement may be altered at any time, at our discretion. If you have any questions regarding the privacy policy of Timesnewsworld.com then you may [contact us](http://timesnewsworld.com/contact-us/ "contact us")
