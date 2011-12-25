@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the drphil.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626065452id_/http%3A//drphil.com/members/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drphil.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225210007id_/http%3A//www.drphil.com/members/privacypolicy) for the most accurate reproduction.*
 
 # Dr. Phil.com - Privacy Policy
+
+## Privacy Policy
 
 Effective Date: June 12, 2008 
 
