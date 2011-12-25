@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the graze.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105123121id_/http%3A//www.graze.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graze.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225023415id_/http%3A//www.graze.com/help/privacy) for the most accurate reproduction.*
 
-# graze - privacy policy
+# graze | privacy policy
 
 ## Introduction
 
@@ -127,7 +127,7 @@ Companies and individuals registered in the Nature Delivered Ltd Affiliate Progr
 
 Nature Delivered Ltd also provides analyses of our customers in the aggregate to prospective partners, advertisers and other third parties. We do this so that we and our business partners can understand you better, and so we can keep bringing you first-rate services. We may also disclose, on an anonymous basis, literal statements made by our customers. At no time, however, will we disclose personal information about specific customers. 
 
-Linked websites are not under the control of Nature Delivered Ltd and we are not responsible for the conduct of companies linked to our website. Before disclosing your personal information on any other website we advise you to examine their terms and conditions of use. As a subscriber you have certain rights under the Data Protection Act 1998\. You have the right to be told what personal information we hold about you on our database. Should you wish to exercise that right, or if you have any questions concerning the Nature Delivered Ltd privacy policy please write to us at: Nature Delivered Ltd, 1 Felthambrook Estate, Middlesex, TW13 7DU. 
+Linked websites are not under the control of Nature Delivered Ltd and we are not responsible for the conduct of companies linked to our website. Before disclosing your personal information on any other website we advise you to examine their terms and conditions of use. As a subscriber you have certain rights under the Data Protection Act 1998\. You have the right to be told what personal information we hold about you on our database. Should you wish to exercise that right, or if you have any questions concerning the Nature Delivered Ltd privacy policy please write to us at: Nature Delivered Ltd, 26 Dunstable Road, Richmond, TW9 1UH. 
 
   
 
@@ -147,7 +147,7 @@ Access authorisation is granted to key Nature Delivered Ltd staff only. Backups 
 
 ## Contact details
 
-If you have questions or concerns regarding this Privacy Policy, please contact; Privacy Officer, Nature Delivered Ltd, 1 Felthambrook Estate, Middlesex, TW13 7DU. 
+If you have questions or concerns regarding this Privacy Policy, please contact; Privacy Officer, Nature Delivered Ltd, 26 Dunstable Road, Richmond, TW9 1UH. 
 
   
 
