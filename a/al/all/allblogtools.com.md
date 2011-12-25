@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allblogtools.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624232536id_/http%3A//www.allblogtools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allblogtools.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225043513id_/http%3A//www.allblogtools.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllBlogTools.com | Blogger Templates, Tutorials, Tools.
 
