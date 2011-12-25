@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pulse2.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626102542id_/http%3A//pulse2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulse2.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225220746id_/http%3A//pulse2.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy on Pulse2 – Technology and Social Media News
 
 **Pulse 2.0 respects your privacy.**
 
