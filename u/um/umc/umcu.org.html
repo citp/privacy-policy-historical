@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the umcu.org privacy policy that was archived on 2011-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110525115319id_/http%3A//www.umcu.org/about/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the umcu.org privacy policy that was archived on 2011-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111225082844id_/http%3A//www.umcu.org/about/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>University of Michigan Credit Union: Privacy Policy</title>
@@ -104,7 +104,6 @@ do	{
 			<li><a href="/savings/IRAs.html">IRAs</a></li>
 			<li><a href="/savings/financialadvisor.html">Financial Advisor</a></li>
 			<li><a href="/membership/youth/index.html">Young Member Accounts</a></li>			
-            <li><a href="/savings/savingsbonds.html">Savings Bonds</a></li>
             <li><a href="/rates/ratesheet.html#savings">Rates &amp; Fees</a></li>
             <li><a href="/electronicservices/moneytransfer/directdeposit.html">Direct Deposit</a></li></ul>
         </div>
@@ -139,7 +138,6 @@ do	{
           <ul>
             <!--Electronic Services Links -->
             <li><a href="/electronicservices/membernet/index.html">About MemberNet Online Banking</a></li>
-            <li><a href="https://secure.umcu.org/cgi-bin/mcw000.cgi?MCWSTART">MemberNet Online Banking Login</a></li>
             <li><a href="/electronicservices/applyonline.html">Apply Online</a></li>
             <li><a href="/electronicservices/onlinebillpay.html">Online Bill Pay</a></li>
             <li><a href="/electronicservices/tellerphone/index.html">TellerPhone</a></li>
@@ -185,8 +183,9 @@ do	{
             <li><a href="/about/locations/index.html">Locations</a></li>
             <li><a href="/about/privacypolicy.html">Privacy Policy</a></li>
             <li><a href="/about/communityinvolvement.html">Community Involvement</a></li>
-            <li><a href="/about/newshighlights.html">News</a></li>
-            <li><a href="/about/contactus.html">Contact Us</a></li></ul>
+            <li><a href="/about/shareinsurance.html">NCUA Insurance</a></li>
+			<li><a href="/about/newshighlights.html">News</a></li>
+			<li><a href="/about/contactus.html">Contact Us</a></li></ul>
         </div>
       </div>
     </div>
@@ -198,7 +197,7 @@ do	{
       </div>
       <div id="content">
         <h2><font size="4" color="#000080">
-		<img border="0" src="UMCU%20Blue%20Logo.jpg" width="157" height="37">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+		<img border="0" src="../images/main/UMCU%20Blue%20Logo.jpg" width="157" height="37">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         Privacy Policy Disclosure </font><font size="1" color="#000080">
 		Revised 10/2010</font></h2>
 <table border="0" cellpadding="0" style="border-collapse: collapse" width="641" id="table9" height="51">
@@ -705,15 +704,6 @@ if(node_level_1 == "savings")	{
 	
 	// draw expanded
 	
-	if(node_level_2 == "savings_bonds")	{
-		document.write('<li>')
-		if(node_level_3=="")document.write('<img src="/images/bullet_nav2.gif" />');
-		document.write('<a href="/savings/savingsbonds.html">Savings Bonds</a></li>');
-			
-	} else 	document.write('<li><a href="/savings/savingsbonds.html">Savings Bonds</a></li>'); // draw inactive	
-	
-	// draw expanded
-	
 	if(node_level_2 == "rates_and_fees")	{
 		document.write('<li>')
 		if(node_level_3=="")document.write('<img src="/images/bullet_nav2.gif" />');
@@ -788,7 +778,6 @@ if(node_level_1 == "loans_credit_cards")	{
 	
 		document.write('<ul>');
 		document.write('<li ');if(node_level_3=="auto_loan_rates")document.write('class="nav2tab"');document.write('><a href="/rates/ratesheet.html#auto">Auto Loan Rates</a></li>');
-		document.write('<li ');if(node_level_3=="auto_choice")document.write('class="nav2tab"');document.write('><a href="/loans/auto/choice.html">Auto Choice</a></li>');
 		document.write('<li ');if(node_level_3=="dealer_indirect_lending")document.write('class="nav2tab"');document.write('><a href="/loans/auto/indirect.html">Auto Financing at the Dealer</a></li>');
 		document.write('<li ');if(node_level_3=="rate_match")document.write('class="nav2tab"');document.write('><a href="/loans/auto/ratematch.html">Rate Match</a></li>');
 		document.write('<li ');if(node_level_3=="gap_insurance")document.write('class="nav2tab"');document.write('><a href="/loans/auto/insurance.html">GAP Insurance</a></li>');
@@ -875,9 +864,7 @@ if(node_level_1 == "electronic_services")	{
 		document.write('<a href="/electronicservices/membernet/index.html">Online Banking with MemberNet</a></li>');
 	
 		document.write('<ul>');
-		document.write('<li ');if(node_level_3=="instructions")document.write('class="nav2tab"');document.write('><a href="/electronicservices/membernet/instructions.html">Instructions</a></li>');
-		document.write('<li ');if(node_level_3=="membernet_faq")document.write('class="nav2tab"');document.write('><a href="/electronicservices/membernet/faq.html">MemberNet FAQ</a></li>');		
-		document.write('<li ');if(node_level_3=="register")document.write('class="nav2tab"');document.write('><a href="/electronicservices/membernet/registerform.pdf">Register (PDF)</a></li>');		
+		document.write('<li ');if(node_level_3=="register")document.write('class="nav2tab"');document.write('><a href="https://my.umcu.org/User/AccessSignup/Start">Register</a></li>');		
 		document.write('</ul>');
 	} else 	document.write('<li><a href="/electronicservices/membernet/index.html">Online Banking with MemberNet</a></li>'); // draw inactive
 
@@ -891,7 +878,6 @@ if(node_level_1 == "electronic_services")	{
 		document.write('<ul>');
 		document.write('<li ');if(node_level_3=="apply_for_membership")document.write('class="nav2tab"');document.write('><a href="https://secure.umcu.org/memapp/search.html">Apply for Membership</a></li>');
 		document.write('<li ');if(node_level_3=="apply_for_loan")document.write('class="nav2tab"');document.write('><a href="/loans/apply/index.html">Apply for a Loan</a></li>');	
-		document.write('<li ');if(node_level_3=="apply_for_membernet_or_tellerphone")document.write('class="nav2tab"');document.write('><a href="/electronicservices/membernet/registerform.pdf">Apply for MemberNet or TellerPhone (PDF)</a></li>');
 		document.write('<li ');if(node_level_3=="apply_for_employment")document.write('class="nav2tab"');document.write('><a href="https://secure.umcu.org/empapp/empapp630.html">Apply for Employment</a></li>');			
 		document.write('</ul>');
 	} else 	document.write('<li><a href="/electronicservices/applyonline.html">Apply Online</a></li>'); // draw inactive
@@ -913,7 +899,6 @@ if(node_level_1 == "electronic_services")	{
 		document.write('<a href="/electronicservices/tellerphone/index.html">TellerPhone</a></li>');
 	
 		document.write('<ul>');
-		document.write('<li ');if(node_level_3=="register")document.write('class="nav2tab"');document.write('><a href="/electronicservices/membernet/registerform.pdf">Register (PDF)</a></li>');
 		document.write('<li ');if(node_level_3=="codes")document.write('class="nav2tab"');document.write('><a href="/electronicservices/tellerphone/codes.html">Codes</a></li>');	
 		document.write('</ul>');
 	} else 	document.write('<li><a href="/electronicservices/tellerphone/index.html">TellerPhone</a></li>'); // draw inactive
@@ -974,8 +959,7 @@ if(node_level_1 == "resources")	 {
 		document.write('<li ');if(node_level_3=="budget_advisor")document.write('class="nav2tab"');document.write('><a href="/resources/advice/budget.html">Budget Advisor</a></li>');
 		document.write('<li ');if(node_level_3=="financial_advisor")document.write('class="nav2tab"');document.write('><a href="/savings/financialadvisor.html">Financial Advisor</a></li>');		
 		document.write('<li ');if(node_level_3=="fraud_identification")document.write('class="nav2tab"');document.write('><a href="/resources/scams/FraudIdentification.html">Fraud Identification</a></li>');		
-		document.write('<li ');if(node_level_3=="legal_advisor")document.write('class="nav2tab"');document.write('><a href="/resources/offers/bassett&associates.html">Legal Advisor</a></li>');
-		document.write('<li ');if(node_level_3=="wealth_management_advisor")document.write('class="nav2tab"');document.write('><a href="/savings/financialadvisor.html">Wealth Management Advisor</a></li>');
+		document.write('<li ');if(node_level_3=="legal_advisor")document.write('class="nav2tab"');document.write('><a href="/resources/offers/index.html#5">Legal Advisor</a></li>');
 		document.write('</ul>');
 	} else 	document.write('<li><a href="/resources/advice/index.html">Financial Advice and Tools</a></li>'); // draw inactive
 
@@ -1149,6 +1133,15 @@ if(node_level_1 == "about_umcu")	 {
 	
 	// draw expanded
 
+if(node_level_2 == "ncua_insurance")	 {
+		document.write('<li>')
+		if(node_level_3=="")document.write('<img src="/images/bullet_nav2.gif" />');
+		document.write('<a href="/about/shareinsurance.html">NCUA Insurance</a></li>');
+			
+	} else 	document.write('<li><a href="/about/shareinsurance.html">NCUA Insurance</a></li>'); // draw inactive
+	
+	// draw expanded
+
 	if(node_level_2 == "news_highlights")	 {
 		document.write('<li>')
 		if(node_level_3=="")document.write('<img src="/images/bullet_nav2.gif" />');
@@ -1172,7 +1165,7 @@ if(node_level_1 == "about_umcu")	 {
 } // close 	if(node_level_1 == "about_umcu")
 
 
-</script><li><a href="/about/aboutcreditunions.html">What is a Credit Union?</a></li><li><a href="/about/umcuhistory.html">History</a></li><li><a href="/about/umcufinancials.html">Financial Highlights</a></li><li><a href="/about/who.html">Who’s Who?</a></li><li><a href="/about/jobs.html">Job Opportunities</a></li><li><a href="/about/locations/index.html">Locations</a></li><li><img src="/images/bullet_nav2.gif"><a href="/about/privacypolicy.html">Privacy Policy</a></li><li><a href="/about/communityinvolvement.html">Community Involvement</a></li><li><a href="/about/newshighlights.html">News</a></li><li><a href="/about/contactus.html">Contact Us</a></li>
+</script><li><a href="/about/aboutcreditunions.html">What is a Credit Union?</a></li><li><a href="/about/umcuhistory.html">History</a></li><li><a href="/about/umcufinancials.html">Financial Highlights</a></li><li><a href="/about/who.html">Who’s Who?</a></li><li><a href="/about/jobs.html">Job Opportunities</a></li><li><a href="/about/locations/index.html">Locations</a></li><li><img src="/images/bullet_nav2.gif"><a href="/about/privacypolicy.html">Privacy Policy</a></li><li><a href="/about/communityinvolvement.html">Community Involvement</a></li><li><a href="/about/shareinsurance.html">NCUA Insurance</a></li><li><a href="/about/newshighlights.html">News</a></li><li><a href="/about/contactus.html">Contact Us</a></li>
 
 </ul>
 </div>
@@ -1203,13 +1196,12 @@ if(node_level_1 == "about_umcu")	 {
 <div id="subfooter" style="font-size: 10px; line-height: 15px; color: #000; height: 60px; background: #E0D1B4;">
  <div style="width: 800px; margin: 0px auto;">
   <div style="width: 400px; float: left;">
-   <img style="float: left; margin: 2px 8px 0px 0px;" src="http://www.umcu.org/images/umcu_footerLogo_ncua.gif" alt="NCUA" width="101" height="45">Your 
-   savings federally insured to at least $250,000 and backed by the full faith 
-   and credit of the United States Government 
-   National Credit Union Administration, a U.S. Government Agency</div>
+   <a href="../about/shareinsurance.html">
+   <img style="float: left; margin: 2px 8px 0px 0px;" src="http://www.umcu.org/images/umcu_footerLogo_ncua.gif" alt="NCUA" width="101" height="45"></a><font size="2">Federally<br>Insured<br>by NCUA</font></div>
   <div style="width: 400px; float: left; height:60px">
    <img style="float: left; margin: 0px 8px 0px 70px;" src="http://www.umcu.org/images/umcu_footerLogo_housing.gif" alt="Equal Housing Lender" width="47" height="53">
-   We do business in accordance with the Federal Fair Housing Law and the Equal Credit Opportunity Act. Mortgage loan services provided by MemberFirst Mortgage LLC (NMLS #149532)
+   We do business in accordance with the Federal Fair Housing Law and the Equal Credit Opportunity Act. Mortgage loan services provided by MemberFirst Mortgage LLC (NMLS #149532) 
+   and UMCU (NMLS #712343)
   </div>
  </div>
 </div>
