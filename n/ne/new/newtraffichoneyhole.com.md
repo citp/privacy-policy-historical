@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newtraffichoneyhole.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627112222id_/http%3A//www.fbadpower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtraffichoneyhole.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225201639id_/http%3A//www.fbadpower.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
