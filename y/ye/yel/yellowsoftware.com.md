@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowsoftware.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528095430id_/http%3A//www.yellowsoftware.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowsoftware.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225062613id_/http%3A//yellowsoftware.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Buy Cheap Microsoft Office OEM Software Online. Cheap Microsoft Office OEM Software Download.
 
