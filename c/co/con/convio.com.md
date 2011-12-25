@@ -1,120 +1,148 @@
-> *The following text is extracted and transformed from the convio.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607185605id_/http%3A//www.convio.com/convio/policies/%23Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convio.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225192902id_/http%3A//www.convio.com/convio/policies/%23Privacy_Policy) for the most accurate reproduction.*
 
 # Policies | Convio
+
+  *   * **Privacy Policy for Data Collected by Convio**
 
   *   * 
 
 
-### Privacy Policy
+## Privacy Policy for Data Collected by Convio
 
-Registering with us allows you to take advantage of all our unique services as a Convio.com registered user, including reports on critical developments affecting the world of nonprofits, stories on Internet technology for nonprofits from leading consultants in the field, best practices in technology for nonprofits, tips and strategies from your peers in nonprofits on how to get the most out of technology, and announcements of new Convio releases. 
+### Overview
 
-Convio, Inc. ("Convio") has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our website. The following discloses our information gathering and dissemination practices for the website located at the URL www.convio.com and any other site provided by Convio (collectively, the "Site").
+Convio, Inc. ( **“Convio”** or **“we”** ) provides various services to nonprofit entities and other related businesses ( **“Clients”** ), including constituent relationship management ( **“CRM”** ) software, email marketing and fundraising software, content management systems ( **“CMS”** ), online marketing services and other related professional services. Convio does not provide or market its services directly to consumers or individuals. 
 
-In order to fully understand your rights we encourage you to read this Privacy Policy. Convio reserves the right at any time and without notice to change this Privacy Policy simply by posting such change on our Site. Any such change will be effective immediately upon posting. 
+Registering with us allows you to take advantage of all of our unique offerings, including reports on critical developments affecting the world of philanthropy and nonprofits, articles, ideas and insights on use of mobile, digital and social technology to enhance fundraising, volunteerism, advocacy, direct mail and other constituent engagement activities, for nonprofits. The information can include, but is not limited to, technology and operational best practices, tips and strategies from your peers working at other nonprofits and industry and Convio experts, tips on how to get the most out of technology, and announcements of new Convio software releases, solutions and/or related services from Convio and our partners. 
 
-Because we want to demonstrate our commitment to your privacy, this Privacy Policy notifies you of: 
+We have created this Privacy Policy ( **“Policy”** ) to explain why we collect particular information and how we protect it. The Policy applies to data we receive from: 1) the www.convio.com website and 2) any other website offered by Convio, including those which Convio may later create, operate or acquire (collectively, the **"Sites"** ). For information about how we handle data collected by our Clients, please see “[Convio Privacy Policy for Data Collected By Our Clients](http://www.convio.com/convio/policies/policy-convio-clients.html "Policies").” 
 
-  1. What personally identifiable information of yours is collected through the Site; 
-  2. Who collects such information; 
-  3. How such information is used; 
-  4. With whom your information may be shared; 
-  5. What choices you have regarding collection, use and distribution of your information; 
-  6. What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control; 
-  7. and, How you can correct any inaccuracies in your information. 
+This Policy may be amended from time to time, consistent with the requirements of the Safe Harbor Principles (see below). We will post any revised policy on the Site(s) and your use of any of the Site(s) following notice of such change will be deemed acceptance of the revised Privacy Policy, which may include application of the new policy to information provided prior to the date of such change. Please click on one of the links below to be directed to any of the following topics: 
 
-
-
-Questions regarding this statement should be directed to Convio by sending an email to [webmaster@convio.com](mailto:webmaster@convio.com "E-mail webmaster@convio.com"). Please reference this Privacy Policy in your subject line. 
-
-## What Information We Collect and How We Use That Information
-
-Our registration forms require users to give us contact information that may include name, email address, format preference (HTML vs. Text), address, interests, and similar information. We do not request or store sensitive information from our visitors such as credit card or social security numbers. We use customer contact information from the registration forms to send the user requested information about our company. We never sell, share or trade any of our customer information with other companies. 
-
-## Contact and Profile Information
-
-Convio is the sole owner of the information collected on the Site. This Site does not collect personally identifying information about users except when you specifically and knowingly provide it. For example, we collect information from you in the following ways: 
-
-  * Some areas of our Site request or require contact and other information. 
-  * During the registration process, we collect personal and other information such as your name, address, and email address. 
-  * Demographic and profile data (e.g., age, gender and income level) may also be collected at our Site. We use such data to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content, layout, and services. 
+  1. Personal Data Received from the European Union (EU)/European Economic Area (EEA) 
+  2. Data We Collect From Visitors to Convio Sites and From Our Clients 
+  3. What choices you have regarding collection, use and distribution of your Personal Data 
+  4. How we take care of corrections/updates to Personal Data stored in our systems 
+  5. Our use of online surveys 
+  6. The kinds of security procedures we use to protect the loss, misuse or alteration of Personal Data under our control 
+  7. How we enforce compliance with this Policy 
 
 
 
-Additionally, this data may be shared with advertisers or other third parties solely on an aggregated basis. We do not share any personally identifying information with any third party without your consent, except to a court or governmental agency if required by law. 
+### Terms Used in This Policy
 
-## Internet Protocol Address
+**“Client Data”** means information that Convio collects or receives directly from its own business Clients via the Convio Sites, including data of prospective clients. 
 
-We collect an IP address from all visitors to our Site. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our Site, analyze trends, track users' movement, gather broad demographic information for aggregate use in order for us to improve the Site, and deliver customized, personalized content. IP addresses are not linked to personally identifiable information.
+**“Financial Data”** means data containing credit card numbers, bank account information or account information for online payment systems such as Paypal or Amazon. 
 
-## Information from Children
+**“Personal Data”** means any information relating to an identified or identifiable natural person ("Data Subject"); an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity. 
 
-Our Site is for adults and usage by children is not intended. We make efforts to verify the age of our users in order to avoid collecting personal information from children, and do not seek to collect personal information about children through our Site. If a child submits information to us through any part of our Site, and we know that the user submitting the information is a child, we delete the information as soon as we discover it and do not use it for any purpose, nor do we disclose it to third parties. 
+**“Website Data”** means Personal and non-Personal Data collected or submitted on Convio’s Sites.
 
-## Use of "Cookies"
+### Personal Data Received from the EU/EEA
 
-Our Site may use cookies to enhance your experience while using our Site. Cookies are pieces of information that some websites transfer to the computer that is browsing that website and are used for record-keeping purposes at many websites. Use of cookies makes web surfing easier by performing certain functions such as saving your passwords, your personal preferences regarding your use of the particular website and to make sure you don't see the same ad repeatedly. Many consider the use of cookies to be an industry standard. 
+Convio handles Personal Data transferred from the European Economic Area (EEA) in accordance with the U.S.-EU Safe Harbor Principles (collectively, the “Principles”). Some of this data is collected via our Sites and some of it is received by Convio as a result of its provision of services to its Clients. This Policy covers how we handle data we receive via our Sites and directly from our Clients. 
 
-Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our Site will not function properly when you view them. 
+For more information about how we handle data we receive from our Clients, please see “Convio Privacy Policy for Data Collected By Our Clients.” 
 
-## Security
+Convio complies with the U.S. – E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union. Information regarding the E.U. Safe Harbor Framework can be found at: [http://export.gov/safeharbor](http://export.gov/safeharbor/). 
 
-All information provided to Convio is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. We also protect account information by placing it on a secure portion of our Site that is only accessible by certain qualified employees of Convio. Unfortunately, however, no data transmission over the Internet is 100% secure. While we strive to protect your information, we cannot ensure or warrant the security of such information. 
+### Data Not Covered by this Policy
 
-## Choice/Opt-Out
+Please note that certain information, such as human resources/employee information, is subject to different Convio policies and agreements. Likewise, certain information we receive from our Clients is subject to agreements between Convio (or a Convio affiliated company) and its Clients. When Convio is acting as an agent on behalf of its Clients, it must adhere to its contractual obligations in handling Personal Data from the EEA. For more information about how we handle data collected by our Clients, please see “Convio Privacy Policy for Data Collected By Our Clients.” 
 
-Convio provides users with the opportunity to opt-out of receiving communications from us at any time. Convio gives users the following options for removing their information from our database to not receive future communications. 
+### Data We Collect From Visitors to Convio Sites and From Our Clients 
 
-  * You can email us at [webmaster@convio.com](mailto:webmaster@convio.com "E-mail webmaster@convio.com"). 
-  * You can click on the "Unsubscribe" link included at the bottom of your email and follow the instructions on the web page. 
+_**Contact and Profile Information**_  
+Our online registration forms require users to provide contact information that may include name, email address, format preference (HTML vs. text), address, interests, and similar information. We use contact information listed on Convio registration forms to send information the Site visitor requests. 
+
+Convio is a business-to-business (B2B entity) and does not seek to obtain Personal Data about consumers. Nevertheless, if Convio receives Personal Data (which may be submitted by visitors to its Sites or through other means), it processes such data only for purposes specified in this Policy or for purposes otherwise authorized by the individual to whom the Personal Data relates. 
+
+Convio collects, uses and discloses Website Data for various purposes. For example: 
+
+  * We require contact and other information to add registrants to our mailing lists and create registrant profiles.
+  * We collect contact information such as names, mailing addresses and email addresses, and Financial Data such as credit/debit card information and online payment service information (for example, PayPal) from our Clients or prospective clients. We may use such information internally or share such information with third parties (whom we hire to perform certain tasks) for various purposes such as:
+    * for marketing or promotional purposes - for example, to offer our products and services, or upgrades/updates to our products or services, or different products and services;
+    * to provide our products and services, for credit card authorization and verification, to bill for our products and services, to communicate with Clients concerning their accounts, and for other customer service, authorization, account history and billing purposes;
+    * to ask for participation in surveys;
+    * to provide news and newsletters, special offers, promotions and targeted advertising; or
+    * to better understand how Clients and others access and use our products and services, including our Sites and advertising, on an aggregated and individualized basis, for the purposes of improving our products and services, and to respond to Client desires and preferences.
+  * We may also collect demographic and profile data (e.g., age, gender and income level) to improve our marketing and promotional efforts, to statistically analyze Site usage, to improve our content and product offerings and/or to customize a Site’s content, layout, and services.
+  * We may share demographic, profile and/or transaction data with advertisers or other third parties, but on an aggregated basis. 
+    * For example, we may share aggregate information regarding purchases and usage of our software products as necessary for the purpose of our making royalty or other payments to third parties or for analysis, marketing or other purposes.
+  * We may share Website and/or Client Data with third parties for the purpose of facilitating the marketing or delivery of (i) Convio products and services and/or (ii) any related third party services.
 
 
 
-Our unsubscribe requests are processed immediately. 
+By visiting our Sites or submitting information to us, you consent to the uses and disclosures listed above. 
 
-## Correct/Update
+_**Internet Protocol Address**_  
+IP addresses are collected from all computers that visit our Sites. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our Sites, analyze trends, track Site visitors’ movements, gather broad demographic information for aggregate use in order for us to improve the Sites, and deliver customized, personalized content. IP addresses are not linked to Personal Data. 
 
-Convio gives you the following options for changing and modifying information previously provided. Upon your request, we will also remove any other personally identifying information we may retain from our databases. To make any such changes or requests: 
+_**Information from Children**_  
+Our Sites are directed to adults and usage by children is not intended. We do not seek to collect Personal Data about children through our Sites. If a child submits Personal Data to us on one or more of our Sites, and we know that the individual submitting the information is a child, we delete such information. 
 
-  * Email us at [webmaster@convio.com](mailto:webmaster@convio.com "E-mail webmaster@convio.com"). 
+_**Use of "Cookies"**_  
+Our Sites may use cookies to enhance your experience while using our Sites. Cookies are pieces of information that can be transferred by a website to computers browsing that website. Cookies are generally used for record-keeping and analytical purposes. Cookies can make Web surfing easier by performing certain functions such as saving passwords, saving personal preferences regarding use of a particular website and ensuring that the same advertisement does not appear repeatedly. Many people consider the use of cookies to be an industry standard. 
 
+Your browser might be set to accept cookies. If you would prefer not to receive cookies, you can alter a setting on your browser to block cookies. If you choose to do so, though, please be aware that some areas of our Sites may not function properly when you view them. 
 
+If you access our Sites from the EU, you should be aware that the EU e-Privacy Directive was recently revised so that users of a website must now consent to some cookies being placed on their computers. The law is evolving in this area, and browser manufacturers are working on enhanced browser settings. In the meantime, Convio is exploring methods of obtaining consent to certain cookies, such as through pop-up notices and/or its Terms of Service. 
 
-Additional residual information may remain in our archives and records, but this information will not be used for any commercial purpose. We reserve the right to maintain information on users who have violated our Terms of Use or who have had their access to our Site blocked. 
+### Choice/Opt-Out
 
-## Tell-A-Friend & Email this Page Services
+Convio provides its Clients and prospective clients with the opportunity to [opt-out](http://subscription.convio.com/) of receiving communications from us at any time. If we have contacted you via email and you no longer wish to receive promotional emails from us, you can click on the "Unsubscribe" link at the bottom of our emails and follow the instructions. Your email address will be promptly removed from our email marketing database. Please note that we may still use email addresses for non-marketing purposes such as customer service purposes. 
 
-If a user elects to use our referral service for informing a friend about our Site, we ask them for the friend's name and email address. Convio will automatically send the friend a one-time email inviting them to visit the Site. Convio stores this information for the sole purpose of sending this one-time email. The friend may contact Convio at [webmaster@convio.com](mailto:webmaster@convio.com "E-mail webmaster@convio.com") to request the removal of this information from our database. 
+For information about how we handle data collected by our Clients, please see “Convio Privacy Policy for Data Collected By Our Clients.” 
 
-## Surveys
+### Corrections/Updates
 
-We may conduct occasional online surveys via our website or via an email newsletter. These surveys are entirely voluntary and you may easily decline to participate. Participating in an online survey does not automatically add your name to the subscriber list for the Convio Newsletter. 
+If you believe that your Personal Data is in our possession, you can always modify or delete it. To make any such changes, email us at [privacy@convio.com](mailto:privacy@convio.com). We will respond to your access request within 30 days. 
 
-## Other Websites
+We reserve the right to maintain information about individuals who have violated our Terms of Use or who have had their access to one or more of our Sites blocked. 
 
-Our Site contains links to other websites. Please note that when you click on one of these links, you are entering another website for which Convio has no responsibility. We encourage you to read the privacy statements on all such sites as their policies may be different than ours. 
+### Surveys
 
-## Contacting the Website
+We may conduct occasional online surveys via our website or via an email newsletter. These surveys are entirely voluntary and recipients may easily decline to participate. 
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact: 
+### Other Websites
 
-Mailing Address:  
+Our Sites may contain links to other websites. Please note that when you click on one of these links, you are visiting another website for which Convio has no responsibility. We encourage you to read the privacy policies on all such sites as their policies may be different than ours. 
+
+### Security
+
+Financial Data transmitted through Convio’s system is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets a Web browser automatically encrypt, or scramble, data before it is sent to us. Unfortunately, however, no data transmission over the Internet or data storage is 100% secure. Since no data security measures are 100% foolproof, Convio cannot guarantee the security of data transmitted or stored via our software and systems. 
+
+### Data Integrity
+
+As explained above, if Convio receives Personal Data, it processes it in a way that is compatible with and relevant to the purposes for which it was collected. Convio also takes reasonable steps to ensure that Client and Website Data is accurate, complete, current and reliable for its intended use. 
+
+### Limitations 
+
+As set out in the Principles, our adherence to the Principles may be limited to the extent necessary to meet national security, public interest, or law enforcement requirements. 
+
+### Enforcement
+
+Convio uses a self-assessment approach to assure compliance with this Policy and periodically verifies that the policy is accurate, prominently displayed, completely implemented and accessible. We encourage interested persons to raise any concerns by contacting us (see contact information below). We will attempt to resolve any complaints and disputes regarding our uses and disclosures of Personal Data. If a complaint or dispute regarding our handling of Personal Data cannot be resolved through our internal processes, we agree to dispute resolution using [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint). 
+
+Convio participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the Safe Harbor Framework, we have agreed to the [TRUSTe Dispute Resolution Requirements](http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html) for disputes relating to our compliance with such Framework. If you have complaints regarding our compliance with the Safe Harbor you should first contact us at [privacy@convio.com](mailto:privacy@convio.com). If contacting us does not resolve your complaint, you may raise your complaint by contacting [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint) by fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105. 
+
+If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of the company related to your complaint, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, please visit [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint) or request this information from TRUSTe at the address listed above. The TRUSTe dispute resolution process shall be conducted in English. 
+
+For human resources data, we have agreed to cooperate with European Data Protection Authorities. 
+
+Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a hosted online OnBoarding software customer, or partner for whom Convio processes data, should be addressed to that customer or partner. 
+
+### Contacting Us
+
+If you have any questions about this Policy, our information collection practices, or your dealings with Convio, you can contact: 
+
+Chief Security Officer  
 11501 Domain Drive   
 Suite 200   
-Austin, TX 78758
+Austin, TX 78758 
 
-888-528-9501 Toll-free Phone 
+888-528-9501 Toll-free Phone  
+[privacy@convio.com](mailto:privacy@convio.com)
 
-You can also send an email to [webmaster@convio.com](mailto:webmaster@convio.com "E-mail webmaster@convio.com").
-
-Back to top
-
-### Client Engagement Principles
-
-Convio is committed to serving the entire nonprofit community. Our clients include charities, educational institutions, faith-based organizations, humanitarian groups, political campaigns, health organizations, advocacy groups and many others. We take great pride in providing nonprofits with the Internet technology and services they need to operate and communicate more efficiently and effectively. 
-
-Convio is non-partisan and does not take a position on its clients' missions, beliefs or advocacy objectives. 
-
-Convio seeks to work with organizations that share our commitment to equal opportunity and nondiscrimination. Convio will not work with groups that promote violence, hatred, or racial or religious intolerance. Convio will exercise its judgment in determining whether an organization violates the spirit of these principles.
-
-In addition, the use of Convio products or services for illegal purposes or in connection with activities that the company determines to be harmful to its reputation may be grounds for Convio to terminate its relationship with a customer. Convio's Acceptable Use Policy includes a more complete statement of our standards on these matters. 
+Questions regarding this statement should be directed to [privacy@convio.com](mailto:privacy@convio.com). Please reference this Privacy Policy in your subject line. 
