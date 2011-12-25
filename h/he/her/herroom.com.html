@@ -1,65 +1,109 @@
-<!--The following is the downloaded HTML source of the herroom.com privacy policy that was archived on 2010-08-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100815001149id_/http%3A//www.herroom.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the herroom.com privacy policy that was archived on 2011-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111225212220id_/http%3A//www.herroom.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
   <title>HerRoom Privacy Policy</title>
 	<meta name="description" content="The HerRoom and HisRoom Privacy Policy">
 	<meta name="keywords" content="HerRoom,HisRoom,Privacy Policy">
 		<meta http-equiv="content-type" content="text/html; charset=utf-8"> 
-	<link rel="stylesheet" type="text/css" href="site-specific/styles4.css">
+	<link rel="stylesheet" type="text/css" href="stylesheets/styles-main.css">
 	<link rel="stylesheet" type="text/css" href="marketing/dept-style4.css">
-	<meta name="robot" content="index,all">
 	<meta name="language" content="en">
-	
 	<link rel="search" type="application/opensearchdescription+xml" href="/site-specific/OpenSearch.xml" title="HerRoom Search">
-	<script type="text/javascript" src="/scripts/jquery/jquery-1.3.2.min.js"></script>
-	<script type="text/javascript" src="/scripts/jQuery/jquery-ui-1.7.2.custom.min.js"></script>
-	<script type="text/javascript" src="scripts/universal.js"></script>
-	<script type="text/javascript" src="scripts/smoothscrolling.js"></script>
-	<script type="text/javascript" src="scripts/highslide/highslide-full.js"></script>
-	<script type="text/javascript" src="/scripts/jquery/jquery.pngFix.js"></script>
-	<script type="text/javascript" src="/scripts/jquery/jquery.autocomplete.js"></script>
-	<script type="text/javascript" src="/scripts/jquery/jquery.cookies.js"></script>
-	<script type="text/javascript" src="/scripts/jquery/ImageHelper.js"></script>
-	<script type="text/javascript" src="/scripts/jquery/jqModal.js"></script>
-	<script type="text/javascript" src="/scripts/jquery/jquery.history.js"></script>
-	<script type="text/javascript" src="/scripts/jquery/jquery.sizescookie.js"></script>
-	<script type="text/javascript">
-		hs.graphicsDir = 'scripts/highslide/graphics/';
-		hs.outlineType = 'rounded-white';    
-		hs.outlineWhileAnimating = true;    
-		hs.objectLoadTime = 'after';
-		hs.dimmingOpacity = .3
-		hs.dimmingDuration = 0
-		hs.transitions = ["fade"];
-	</script>
-
+	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+	<script type="text/javascript" src="head.aspx.js"></script>
+	<script type="text/javascript">hs.graphicsDir = 'scripts/highslide/graphics/';hs.outlineType = 'rounded-white';hs.outlineWhileAnimating = true;hs.objectLoadTime = 'after';hs.dimmingOpacity = .3;hs.dimmingDuration = 0;hs.transitions = ["fade"];</script>
+	
 	<script type="text/javascript" src="/scripts/pages/promos.aspx.js"></script>
-<style type="text/css">.highslide img {cursor: url(scripts/highslide/graphics/zoomin.cur), pointer !important;}</style></head>
+</head>
 <body>
 	
-<!-- BEGIN COREMETRICS SUPPORT -->
-<script language="javascript1.1" src="coremetrics/v40/eluminate.js" type="text/javascript"></script>
-<script language="javascript1.1" src="coremetrics/cmdatatagutils.js" type="text/javascript"></script>
-<script language="javascript1.1" type="text/javascript">
-cmSetProduction();
-cmCreatePageviewTag("Privacy.aspx", "0");
-</script>
-<!-- END COREMETRICS -->
 
 
-<!--<script type="text/javascript" src="/Scripts/UserControls/Header.ascx.js"></script>-->
-<script type="text/javascript">$(document).ready(function(){
-	var blnMSIE6 = ($.browser.msie);
-	if(blnMSIE6 == false){
-		var objHeader = new HeaderControl("/HeaderShelfNavigation.aspx","F", "/marketing/images", "0");
-	}else{
-		$("ul.level1 li").addClass("Shelf-Child-Menu").find("ul").parent().addClass("Shelf-Parent-Menu").removeClass("Shelf-Child-Menu");}
-		$("img[src$='png']").pngFix();
+<script type="text/javascript">
+
+
+    $(function(){
+
+
+    //var objHeader = new HeaderControlLight("/HeaderShelfNavigation.aspx","F", "/marketing/images", "0");
+
+	var blnMSIE6 = ($.browser.msie && $.browser.version.indexOf('6') == 0 );
+	/*if(false){//blnMSIE6 == false){
+	    //var objHeader = new HeaderControl("/HeaderShelfNavigation.aspx","F", "/marketing/images", "0");
+	}*/
+	
+	if(blnMSIE6){
+		//$("ul.level1 li").addClass("Shelf-Child-Menu").find("ul").parent().addClass("Shelf-Parent-Menu").removeClass("Shelf-Child-Menu");}
+		//$(function() {
+		
+			var $tabs = $(".menu-item-primary");
+			$tabs = $tabs.not("#li-depts2");
+			var $dropParent = $("#li-depts2")
+			var $dropdown = $("#droplistdept");
+			var $links = $dropdown.children("ul").children("li");
+			var $selectBoxes = $('select').remove('#no-js-color');
+			//Handle mouse-over of tabs
+			var tabIn = function(obj){
+				var $this = $(this);
+				if($this == $dropParent){
+					$this.addClass("dept-over");
+				}
+				else{
+					$this.addClass("tab-over");
+				}
+				if($this.hasClass('sale2') || $this.hasClass('sale2-his') ){
+					$this.addClass('sale-hovered');
+				}
+				
+			}
+			var tabOut = function(obj){
+				var $this = $(this);
+				$(this).removeClass("tab-over");
+				
+				if($this.hasClass('sale2') || $this.hasClass('sale2-his') ){
+					$this.removeClass('sale-hovered');
+				}
+				
+			}
+			var linkIn = function(obj){
+				var $this = $(this);
+				$this.addClass("li-over");
+			}
+			var linkOut = function(obj){
+				var $this = $(this);
+				$this.removeClass("li-over");
+			}
+			//Handle drop down information
+			var onMouseIn = function(){
+				$dropdown.addClass("over");
+				$dropParent.addClass("dept-over");
+				$selectBoxes.hide();
+			}
+			var onMouseOut = function(){
+				$dropdown.removeClass("over");
+				$dropParent.removeClass("dept-over");
+				$selectBoxes.show();
+			}	
+			
+			var bindEvents = function() {	
+				$tabs.hover(tabIn,tabOut);
+				$dropParent.hover(onMouseIn, onMouseOut);
+				$links.hover(linkIn, linkOut);
+			}
+			bindEvents();
+			$('#hMenu').addClass("clearfix");
+		    $("img[src$='png']").pngFix();	
+//		});
+		
+		
+		}  //end if IE6
+		
 		
 	});
 </script>
-<div id="mainwrapper"> 
+<div id="mainwrapper" class="mainwrapper-F"> 
 <div id="contentwrapper">
 <div id="body0">
 
@@ -87,11 +131,11 @@ cmCreatePageviewTag("Privacy.aspx", "0");
 								<td width="642" valign="top">
 									<table width="100%" border="0" cellpadding="0" cellspacing="0">
 										<tbody><tr>
-											<td height="35" colspan="3" align="right" valign="bottom"><span id="phone" class="services"><a href="contact.aspx" title="Toll-Free Lingerie Order Line">800-558-6779</a> <strong> | </strong> <a href="shipping.aspx" title="Free Shipping on Bras, Panties, Sleepwear, Camis &amp; Lingerie">Free Shipping</a>  <strong> | </strong><a href="returns.aspx" title="Easy, Hassle-Free Returns">Easy Returns</a></span></td>
+											<td height="35" colspan="3" align="right" valign="bottom"><span id="phone" class="services"><a href="http://www.herroom.com/contact.aspx" title="Toll-Free Lingerie Order Line">800-558-6779</a> <strong> | </strong> <a href="http://www.herroom.com/shipping.aspx" title="Free Shipping on Bras, Panties, Sleepwear, Camis &amp; Lingerie. Minimum Order Required.">Free Shipping*</a>  <strong> | </strong><a href="http://www.herroom.com/returns.aspx" title="Easy, Hassle-Free Returns">Easy Returns</a></span></td>
 										</tr><tr>
 											<td height="26" colspan="3" align="right" valign="top">
 												
-												<a href="contact.aspx" title="Contact HerRoom" id="contact" onmouseover="MM_swapImage('contact','','images/new-contact-over.gif',1)" onmouseout="MM_swapImgRestore()"><img name="contact" src="images/new-contact.gif" border="0"></a><a href="FAQ,511,30.html" title="Frequently Asked Questions" id="faq" onmouseover="MM_swapImage('faq','','images/new-faq-over.gif',1)" onmouseout="MM_swapImgRestore()"><img name="faq" src="images/new-faq.gif" border="0"></a>				
+												<a href="http://www.herroom.com/contact.aspx" title="Contact HerRoom" id="contact" onmouseover="MM_swapImage('contact','','images/new-contact-over.gif',1)" onmouseout="MM_swapImgRestore()"><img name="contact" src="images/new-contact.gif" border="0"></a><a href="http://www.herroom.com/FAQ,511,30.html" title="Frequently Asked Questions" id="faq" onmouseover="MM_swapImage('faq','','images/new-faq-over.gif',1)" onmouseout="MM_swapImgRestore()"><img name="faq" src="images/new-faq.gif" border="0"></a>				
 											</td>
 										</tr><tr>
 											<td width="437" height="46" style="padding-top:0px;"></td>
@@ -99,7 +143,7 @@ cmCreatePageviewTag("Privacy.aspx", "0");
 												<table width="100%" cellpadding="0" cellspacing="0">
 													<tbody><tr>
 														<td align="right" valign="middle" id="td-bag-holder">
-															<a href="show-cart.aspx" class="headlinks" id="cart2" onmouseover="MM_swapImage('cart','','images/cart-orange.gif',1)" onmouseout="MM_swapImgRestore()"><div>  Items</div><div id="span-bag-count">0</div><div>Your Shopping Bag  </div></a><br>
+															<a href="http://www.herroom.com/show-cart.aspx" class="headlinks" id="cart2" onmouseover="MM_swapImage('cart','','images/cart-orange.gif',1)" onmouseout="MM_swapImgRestore()"><div>  Items</div><div id="span-bag-count">0</div><div>Your Shopping Bag  </div></a><br>
 														</td>
 													</tr>
 													<tr>
@@ -119,98 +163,46 @@ cmCreatePageviewTag("Privacy.aspx", "0");
 				<!-- end header-->
 				<!-- Horizontal navigation-->
 				<tr>
-					<td width="562" height="29" valign="top" style="border-bottom:1px solid #cccccc;">
+					<td width="562" height="29" valign="top" style="border-bottom:1px solid #cccccc;" id="td-shelf-nav">
+						
 						
 
 
-<!--[if IE]><link href="Site-Specific/Styles4-ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+<!--[if IE]><link href="Stylesheets/Styles4-ie6.css" rel="stylesheet" type="text/css" /><![endif-->
 
 
-
-	<ul id="hMenu">
-		<li id="li-depts" class="depts"><a href="" id="a-all-departments"><strong>All Departments</strong></a>
-			<div id="droplistdept">
+<ul id="hMenu">
+	    <li id="li-depts2" class="depts2 menu-item-primary"><a href="http://www.herroom.com/" id="a1"><strong>All Departments</strong></a>
+		    <div id="droplistdept">
 				<b id="pingdept"></b>
-				<h4 class="titles">Department</h4>
-				<h4 class="titles">Refine</h4>
-				<h4 class="titles pos3">Refine More</h4>
-				<ul class="level1">
-					<li><a href="http://www.herroom.com/bras.aspx" dept="001">Bras<span class="dept-style-count"></span></a></li><li><a href="http://www.herroom.com/panties.aspx" dept="002">Panties<span class="dept-style-count"></span></a></li><li><a href="http://www.herroom.com/thongs.aspx" dept="023">Thongs<span class="dept-style-count"></span></a></li><li><a href="http://www.herroom.com/sleepwear.aspx" dept="017">Sleepwear<span class="dept-style-count"></span></a></li><li><a href="http://www.herroom.com/slips.aspx" dept="003">Slips<span class="dept-style-count"></span></a></li><li><a href="http://www.herroom.com/shapewear.aspx" dept="004">Shapewear<span class="dept-style-count"></span></a></li><li><a href="http://www.herroom.com/camisole.aspx" dept="015">Camisoles<span class="dept-style-count"></span></a></li><li><a href="http://www.herroom.com/t-shirts.aspx" dept="031">T-Shirts &amp; Tops<span class="dept-style-count"></span></a></li><li><a href="http://www.herroom.com/hosiery.aspx" dept="019">Hosiery<span class="dept-style-count"></span></a></li><li><a href="http://www.herroom.com/plus-size-lingerie.aspx" dept="020">Plus-Size<span class="dept-style-count"></span></a></li><li><a href="http://www.herroom.com/sport-underwear.aspx" dept="012">Sports &amp; Activewear<span class="dept-style-count"></span></a></li><li><a href="http://www.herroom.com/swimwear.aspx" dept="032">Swimwear<span class="dept-style-count"></span>&nbsp;<span class="new">New!</span></a></li><li><a href="http://www.herroom.com/bridal-lingerie.aspx" dept="007">Bridal<span class="dept-style-count"></span></a></li><li><a href="http://www.herroom.com/maternity-underwear.aspx" dept="005">Maternity<span class="dept-style-count"></span></a></li><li><a href="http://www.herroom.com/sexy-lingerie.aspx" dept="016">Sexy Lingerie<span class="dept-style-count"></span></a></li><li><a href="http://www.herroom.com/etcetera.aspx" dept="006">Lingerie Accessories<span class="dept-style-count"></span></a></li><li id="li-other-room"><a href="http://www.hisroom.com/">Men's Underwear</a></li>
-				</ul>
-			</div>
-		</li>
-		<li id="li-bras" class="bras"><a href="http://www.herroom.com/bras.aspx"><strong>Shop Bras</strong></a>
-			<div id="droplistbras">
-				<b id="pingbras"></b>
-				<h4 class="titles">Bra Categories</h4>
-				<h4 class="titles">Refine</h4>
-				<ul class="level1" id="ul_cat_001" '="">
-					<li><a href="http://www.herroom.com/bras.aspx">All Bras<span class="dept-style-count">&nbsp;(1578)</span></a></li><li keywordid="#subkeyword_001_1068"><a href="http://www.herroom.com/3-part-cup,bras,1068,001,10.html">3 Part Cup&nbsp;<span class="dept-style-count">(144)</span></a></li><li keywordid="#subkeyword_001_904"><a href="http://www.herroom.com/corset-bustier,bras,904,001,10.html">Corset/Bustier&nbsp;<span class="dept-style-count">(33)</span></a></li><li keywordid="#subkeyword_001_131"><a href="http://www.herroom.com/cotton,bras,131,001,10.html">Cotton&nbsp;<span class="dept-style-count">(131)</span></a></li><li keywordid="#subkeyword_001_37"><a href="http://www.herroom.com/demi,bras,37,001,10.html">Demi&nbsp;<span class="dept-style-count">(128)</span></a></li><li keywordid="#subkeyword_001_38"><a href="http://www.herroom.com/front-close,bras,38,001,10.html">Front Close&nbsp;<span class="dept-style-count">(56)</span></a></li><li keywordid="#subkeyword_001_319"><a href="http://www.herroom.com/lace,bras,319,001,10.html">Lace&nbsp;<span class="dept-style-count">(595)</span></a></li><li keywordid="#subkeyword_001_42"><a href="http://www.herroom.com/longline,bras,42,001,10.html">Longline&nbsp;<span class="dept-style-count">(30)</span></a></li><li keywordid="#subkeyword_001_141"><a href="http://www.herroom.com/microfiber,bras,141,001,10.html">Microfiber&nbsp;<span class="dept-style-count">(175)</span></a></li><li keywordid="#subkeyword_001_43"><a href="http://www.herroom.com/minimizer,bras,43,001,10.html">Minimizer&nbsp;<span class="dept-style-count">(43)</span></a></li><li keywordid="#subkeyword_001_905"><a href="http://www.herroom.com/nursing-maternity,bras,905,001,10.html">Nursing/Maternity&nbsp;<span class="dept-style-count">(56)</span></a></li><li keywordid="#subkeyword_001_46"><a href="http://www.herroom.com/padded,bras,46,001,10.html">Padded&nbsp;<span class="dept-style-count">(331)</span></a></li><li keywordid="#subkeyword_001_513"><a href="http://www.herroom.com/petite,bras,513,001,10.html">Petite&nbsp;<span class="dept-style-count">(148)</span></a></li><li keywordid="#subkeyword_001_920"><a href="http://www.herroom.com/plus-size,bras,920,001,10.html">Plus-Size (DD+)&nbsp;<span class="dept-style-count">(271)</span></a></li><li keywordid="#subkeyword_001_47"><a href="http://www.herroom.com/push-up,bras,47,001,10.html">Push-Up&nbsp;<span class="dept-style-count">(182)</span></a></li><li keywordid="#subkeyword_001_48"><a href="http://www.herroom.com/racerback,bras,48,001,10.html">Racerback&nbsp;<span class="dept-style-count">(87)</span></a></li><li keywordid="#subkeyword_001_58"><a href="http://www.herroom.com/soft-cup-wireless,bras,58,001,10.html">Soft-Cup/Wireless&nbsp;<span class="dept-style-count">(371)</span></a></li><li keywordid="#subkeyword_001_50"><a href="http://www.herroom.com/sports,bras,50,001,10.html">Sports&nbsp;<span class="dept-style-count">(136)</span></a></li><li keywordid="#subkeyword_001_937"><a href="http://www.herroom.com/strapless-backless,bras,937,001,10.html">Strapless/Backless&nbsp;<span class="dept-style-count">(77)</span></a></li><li keywordid="#subkeyword_001_673"><a href="http://www.herroom.com/t-shirt,bras,673,001,10.html">T-Shirt&nbsp;<span class="dept-style-count">(224)</span></a></li><li keywordid="#subkeyword_001_794"><a href="http://www.herroom.com/teen-bras,bras,794,001,10.html">Teen Bras&nbsp;<span class="dept-style-count">(71)</span></a></li><li keywordid="#subkeyword_001_53"><a href="http://www.herroom.com/underwire,bras,53,001,10.html">Underwire&nbsp;<span class="dept-style-count">(1097)</span></a></li>
-					<li><a href="http://www.herroom.com/Search.aspx?Cat=001&amp;filter=sale">On Sale</a></li>
-				</ul>
-			</div>
-		</li>
-		<li id="li-pants" class="pants"><a href="http://www.herroom.com/panties.aspx"><strong>Shop Panties</strong></a>
-			<div id="droplistpanties">
-				<b id="pingpanties"></b>
-				<h4 class="titles">Panty Categories</h4>
-				<h4 class="titles">Refine</h4>
-				<ul class="level1" id="ul_cat_002">
-					<li><a href="http://www.herroom.com/panties.aspx">All Panties<span class="dept-style-count">&nbsp;(1396)</span></a></li><li keywordid="#subkeyword_002_84"><a href="http://www.herroom.com/bikini,panties,84,002,10.html">Bikini&nbsp;<span class="dept-style-count">(167)</span></a></li><li keywordid="#subkeyword_002_540"><a href="http://www.herroom.com/boyshort,panties,540,002,10.html">Boyshort&nbsp;<span class="dept-style-count">(319)</span></a></li><li keywordid="#subkeyword_002_35"><a href="http://www.herroom.com/briefs,panties,35,002,10.html">Briefs&nbsp;<span class="dept-style-count">(332)</span></a></li><li keywordid="#subkeyword_002_917"><a href="http://www.herroom.com/control-shapewear,panties,917,002,10.html">Control/Shapewear&nbsp;<span class="dept-style-count">(92)</span></a></li><li keywordid="#subkeyword_002_131"><a href="http://www.herroom.com/cotton,panties,131,002,10.html">Cotton&nbsp;<span class="dept-style-count">(257)</span></a></li><li keywordid="#subkeyword_002_951"><a href="http://www.herroom.com/hi-cut,panties,951,002,10.html">Hi-Cut&nbsp;<span class="dept-style-count">(57)</span></a></li><li keywordid="#subkeyword_002_319"><a href="http://www.herroom.com/lace,panties,319,002,10.html">Lace&nbsp;<span class="dept-style-count">(665)</span></a></li><li keywordid="#subkeyword_002_82"><a href="http://www.herroom.com/low-rise,panties,82,002,10.html">Low-Rise&nbsp;<span class="dept-style-count">(536)</span></a></li><li keywordid="#subkeyword_002_435"><a href="http://www.herroom.com/plus-size,panties,435,002,10.html">Plus Size&nbsp;<span class="dept-style-count">(254)</span></a></li><li keywordid="#subkeyword_002_356"><a href="http://www.herroom.com/satin,panties,356,002,10.html">Satin&nbsp;<span class="dept-style-count">(48)</span></a></li><li keywordid="#subkeyword_002_140"><a href="http://www.herroom.com/sheer,panties,140,002,10.html">Sheer&nbsp;<span class="dept-style-count">(269)</span></a></li><li keywordid="#subkeyword_002_797"><a href="http://www.herroom.com/silk,panties,797,002,10.html">Silk&nbsp;<span class="dept-style-count">(7)</span></a></li><li keywordid="#subkeyword_002_52"><a href="http://www.herroom.com/thong,panties,52,002,10.html">Thong&nbsp;<span class="dept-style-count">(423)</span></a></li>
-					<li><a href="http://www.herroom.com/Search.aspx?Cat=002&amp;filter=sale">On Sale</a></li>
-				</ul>
-			</div>
-		</li>
-		<li id="li-brands" class="brands"><a href="http://www.herroom.com/brands.aspx"><strong>Shop Brands</strong></a>
-			<div id="droplist">
-				<b id="ping"></b>
-				<dl id="popular">
-					<dt>Most Popular Brands</dt>
-					<dd><a href="http://www.herroom.com/Bali.shtml">Bali</a></dd>
-					<dd><a href="http://www.herroom.com/Chantelle.shtml">Chantelle</a></dd>
-					<dd><a href="http://www.herroom.com/Fantasie.shtml">Fantasie</a></dd>
-					<dd><a href="http://www.herroom.com/Goddess.shtml">Goddess</a></dd>
-					<dd><a href="http://www.herroom.com/Hanky-Panky.shtml">Hanky Panky</a></dd>
-					<dd><a href="http://www.herroom.com/Le-Mystere.shtml">Le Mystere</a></dd>
-					<dd><a href="http://www.herroom.com/Natori.shtml">Natori</a></dd>
-					<dd><a href="http://www.herroom.com/Panache.shtml">Panache</a></dd>
-					<dd><a href="http://www.herroom.com/Playtex.shtml">Playtex</a></dd>
-					<dd><a href="http://www.herroom.com/Spanx.shtml">Spanx</a></dd>
-					<dd><a href="http://www.herroom.com/Vanity-Fair.shtml">Vanity Fair</a></dd>
-					<dd><a href="http://www.herroom.com/Wacoal.shtml">Wacoal</a></dd>
-					<dd><a href="http://www.herroom.com/Brands.aspx">View All Brands</a></dd>
-				</dl>
-				<div id="atoz">
-					<ul id="ul_atoz" style="width: 100%;"></ul>
-				</div>
-				<div id="scroller"></div>
-				<div id="next" move="1">NEXT&nbsp;&nbsp;<img src="/images/next.png"></div>
-				<div id="previous" move="-1"><img src="/images/previous.png">&nbsp;&nbsp;PREVIOUS</div>
-			</div>
-		</li>
-		<li id="li-new" class="new"><a href="http://www.herroom.com/search.aspx?filter=new"><strong>What's New</strong><!--[if gte IE 7]><!--></a><!--<![endif]-->
-			<div id="droplistnew">
-				<b id="pingnew"></b>
-				<h4 class="titles wide">New Arrivals In...</h4>
-			</div>
-		</li>
-		<li id="li-sale" class="sale"><a href="http://www.herroom.com/sale.aspx"><strong>On Sale!</strong></a>
-			<div id="droplistsale">
-				<b id="pingsale"></b>
-				<h4 class="titles wide">On Sale In...</h4>
-			</div>
-		</li>
-	</ul>
+			    
+			    <ul class="level1 level1-F">
+				    
+				    <li><a href="http://www.herroom.com/bras.aspx">Bras<span class="kw-count"> (2022)</span></a></li><li><a href="http://www.herroom.com/panties.aspx">Panties<span class="kw-count"> (1758)</span></a></li><li><a href="http://www.herroom.com/thongs.aspx">Thongs<span class="kw-count"> (511)</span></a></li><li><a href="http://www.herroom.com/sleepwear.aspx">Sleepwear<span class="kw-count"> (1162)</span></a></li><li><a href="http://www.herroom.com/slips.aspx">Slips<span class="kw-count"> (130)</span></a></li><li><a href="http://www.herroom.com/shapewear.aspx">Shapewear<span class="kw-count"> (534)</span></a></li><li><a href="http://www.herroom.com/camisole.aspx">Camisoles<span class="kw-count"> (222)</span></a></li><li><a href="http://www.herroom.com/t-shirts.aspx">T-Shirts &amp; Tops<span class="kw-count"> (426)</span></a></li><li><a href="http://www.herroom.com/hosiery.aspx">Hosiery<span class="kw-count"> (468)</span></a></li><li><a href="http://www.herroom.com/plus-size-lingerie.aspx">Plus-Size<span class="kw-count"> (1621)</span></a></li><li><a href="http://www.herroom.com/sport-underwear.aspx">Sports &amp; Activewear<span class="kw-count"> (439)</span></a></li><li><a href="http://www.herroom.com/swimwear.aspx">Swimwear<span class="kw-count"> (508)</span>&nbsp;<span class="new">New!</span></a></li><li><a href="http://www.herroom.com/bridal-lingerie.aspx">Bridal<span class="kw-count"> (200)</span></a></li><li><a href="http://www.herroom.com/maternity-underwear.aspx">Maternity<span class="kw-count"> (139)</span></a></li><li><a href="http://www.herroom.com/sexy-lingerie.aspx">Sexy Lingerie<span class="kw-count"> (388)</span></a></li><li><a href="http://www.herroom.com/etcetera.aspx">Lingerie Accessories<span class="kw-count"> (160)</span></a></li><li class="li-other-room" id="li-other-room"><a href="http://www.hisroom.com/">Men's &amp; Boy's Underwear</a></li>
+			    </ul>
+		    </div>
+	    </li>
+	    <li id="li-bras2" class="bras2 menu-item-primary"><a href="http://www.herroom.com/bras.aspx">Shop Bras</a></li>
+	    <li id="li-pants2" class="pants2 menu-item-primary"><a href="http://www.herroom.com/panties.aspx">Shop Panties</a></li>
+	    <li id="li-brands2" class="brands2 menu-item-primary"><a href="http://www.herroom.com/brands.aspx">Shop Brands</a></li>
+	    <li id="li-new2" class="new2 menu-item-primary"><a href="http://www.herroom.com/search.aspx?filter=new">What's New</a></li>
+	    <li id="li-sale2" class="sale2 menu-item-primary"><a href="http://www.herroom.com/sale.aspx">On Sale!</a></li>
+</ul>
 
-	
+						
+						
+						
 					</td>
 					<td width="215" valign="top" style="border-bottom: 1px solid #cccccc;" align="right">
 						<div style="height:6px; font-size: 6px; position: relative;">&nbsp;</div>
-						<a href="guided-search.aspx" class="headlinks a-keyword-search" title="Can't Find What You're Looking For? Try Our Advanced Search ">Search by Keyword</a>
+						<a href="http://www.herroom.com/guided-search.aspx" class="headlinks a-keyword-search" title="Can't Find What You're Looking For? Try Our Advanced Search ">Search by Keyword</a>
 						
 
-<script type="text/javascript">var objComplete = new AutoCompleteControl();objComplete.init('txtSearch', '|', 205,'http://www.herroom.com/AutoCompleteItems.aspx', {maxrecords:12,gender:'F'}, 12, 1, 1, 0, 'btnSubmit', 'http://www.herroom.com/Search2.aspx?new=yes');</script>
-<input type="text" id="txtSearch" class="search-textbox" value="Product Search"><input type="button" id="btnSubmit" class="search-button">
+<form method="get" action="http://www.herroom.com/search2.aspx" id="frmAC" name="frmAC">
+    <script type="text/javascript">var objComplete = new AutoCompleteControl();objComplete.init('txtSearch', '|', 205,'/AutoCompleteItems.aspx', {maxrecords:12,gender:'F'}, 12, 1, 1, 0, 'btnACSubmit', 'http://www.herroom.com/search2.aspx?new=yes');</script>
+    <input type="text" name="terms" id="txtSearch" class="search-textbox" value="Product Search"><input type="button" id="btnACSubmit" class="search-button">
+    <input type="hidden" name="new" value="yes">
+</form>
 
 
 					</td>
@@ -219,6 +211,16 @@ cmCreatePageviewTag("Privacy.aspx", "0");
 		</td>
 	</tr>
 
+
+		<tr>
+			<td width="100%" align="center" bgcolor="#ffffff">
+				<table width="770" border="0" cellspacing="1" cellpadding="2" bgcolor="teal">
+					<tbody><tr>
+						<td width="100%" bgcolor="white" align="center"><b><font color="teal">HerRoom and HisRoom shipping and customer service will be closing at noon CST Friday for the Christmas holiday. We will re-open Tuesday morning. Happy Holidays from all of us at HerRoom &amp; HisRoom!</font></b></td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
 
 	</tbody></table>
 	<table cellspacing="0" cellpadding="0" border="0" bgcolor="white">
@@ -261,15 +263,18 @@ cmCreatePageviewTag("Privacy.aspx", "0");
 			<li> <a href="http://www.hisroom.com/">Mens Underwear</a></li>
 			<li>&nbsp;</li>
 			<li class="headings">SHOP BY...</li>
+			
 			<li><a href="brands.aspx">Brands </a></li>
 			<li><a href="collections.aspx">Collections </a></li>
 			<li><a href="top-sellers.aspx">Best Sellers in Your Size </a></li>
 			<li><a href="sale.aspx">On Sale! </a></li>
 			<li><a href="promos.aspx">Coupons &amp; Special Offers </a></li>
+			<li><a href="gifts.aspx"><!--<span style="color:red;">-->Gift Guide!<!--</span>--></a></li>
+			<li><a href="personal-lingerie-shopper,829,30.html"><!--<span style="color:red;">-->Ask A Personal Shopper<!--</span>--></a></li>
 			<li>&nbsp;</li>
 			<li class="headings">EXPLORE</li>
 			<li><a href="bra-fitting-advice,901,30.html">Bra Fitting Made Easy</a></li>
-			<li><a href="javascript:null()" onclick="javascript:window.open('marketing/undies-herroom-2010.html','undiewinners','scrollbars,resizable,width=335,height=500')">Undie Award Winners</a></li>
+			<li><a href="javascript:null()" onclick="javascript:window.open('marketing/undies-herroom-2011.html','undiewinners','scrollbars,resizable,width=335,height=500')">Undie Award Winners</a></li>
 			<li><a href="http://www.tomima.com" target="_blank">Tomima's Blog</a></li>
 			<li><a href="www.aspx">Celebrity Lingerie</a></li>
 			<li><a href="underwearing,650,30.html">What's She Underwearing?</a></li>
@@ -293,7 +298,7 @@ cmCreatePageviewTag("Privacy.aspx", "0");
 						<td width="162" class="resultbox2" align="left" valign="top">
 <ul style="padding:0; margin:0; list-style:none; font-size:10px;"><li>FREE SHIPPING</li>
 <li>Domestic orders over $70 
-qualify for FREE standard U.S. shipping! <a style="font-size:10px;" href="shipping.aspx">See details</a>.
+qualify for FREE standard U.S. shipping! <a style="font-size:10px !important;" href="shipping.aspx">See details »</a>
 <br>&nbsp;</li></ul>
 
 						</td>
@@ -302,10 +307,10 @@ qualify for FREE standard U.S. shipping! <a style="font-size:10px;" href="shippi
 				<table cellspacing="0" cellpadding="0" border="0" width="162">
 					<tbody><tr>
 						<td width="162" class="resultbox3" align="left" valign="top">
-<a href="http://www.HisRoom.com/"><img src="marketing/images/bts-banner.jpg" alt="Back To School - HisRoom" width="150" border="0" title="Underwear For Men And Boys"></a>
+<a href="gift-certificates,507,30.html"> <img src="marketing/images/e-gc-12-11_01-left.jpg" border="0"></a>
 <br>
-<img style="display:block;" src="marketing/images/spacer.gif" width="1" height="1"><br>
-<a href="http://www.facebook.com/pages/HerRoom/122102707271" target="_blank"><img src="marketing/images/facebook-banner.jpg" border="0" style="display:block;" alt="Become a Friend of HerRoom on Facebook" title="Become a Friend of HerRoom on Facebook"></a>
+<img style="display:block;" src="marketing/images/spacer.gif" width="150" height="1" border="0" alt="HerRoom" title="HerRoom"><br>
+<a href="final-sale,1043,5.html"><img src="marketing/images/clear-11-11.jpg" border="0" style="display:block;" alt="Pre-Season Clearance" title="Shoop THe Pre-Season Clearance"></a>
 
 <br>
 
@@ -441,7 +446,6 @@ qualify for FREE standard U.S. shipping! <a style="font-size:10px;" href="shippi
 						<tr>
 							<td><img src="images/spacer.gif" width="1" height="10" border="0" alt=""></td>
 						</tr>
-
 						<tr>
 							<td width="770" align="left" valign="top">
 <table border="0" cellspacing="0" cellpadding="4" width="100%" bgcolor="white">
@@ -450,7 +454,7 @@ qualify for FREE standard U.S. shipping! <a style="font-size:10px;" href="shippi
 			• <a href="http://www.herroom.com/shipping.aspx" class="footer-r" rel="nofollow">FREE SHIPPING!</a>
 			<br>• <a href="http://www.herroom.com/returns.aspx" class="footer" rel="nofollow">Return Policy</a>
 			<br>• <a href="http://www.herroom.com/contact.aspx" class="footer" rel="nofollow">Contact Us</a>
-			<br>• <a href="http://www.herroom.com/mailing-list.aspx" class="footer" rel="nofollow">Join Our Newsletter</a>
+			<br>• <a href="http://www.herroom.com/mailing-list.aspx" class="footer" rel="nofollow">Email Mailing List</a>
 		</td><td align="left" valign="top" width="" class="footer">
 			• <a href="http://www.herroom.com/promos.aspx" class="footer">Discounts &amp; Special Offers</a>
 			<br>• <a href="http://www.herroom.com/discontinued.aspx" class="footer">Discontinued &amp; Hard to Find Styles</a>
@@ -477,14 +481,14 @@ qualify for FREE standard U.S. shipping! <a style="font-size:10px;" href="shippi
 					<br>
 					<table bgcolor="white" border="0" cellpadding="0" cellspacing="4">
 						<tbody><tr>
-							<td align="right" width="244"><a href="http://www.herroom.com/shipping.aspx#other" class="footer">International<br>Shipping!</a></td>
-							<td align="right" width="56"><a href="http://www.herroom.com/shipping.aspx#other"><img src="images/international.jpg" border="0" align="left" alt="International Shipping for HerRoom - Bras, Panties, Thongs, Slips, Shapewear, Sleepwear &amp; More"></a></td>
+							<td align="right" width="244"><a href="http://www.herroom.com/shipping.aspx#international" class="footer">International<br>Shipping!</a></td>
+							<td align="right" width="56"><a href="http://www.herroom.com/shipping.aspx#international"><img src="images/international.jpg" border="0" align="left" alt="International Shipping for HerRoom - Bras, Panties, Thongs, Slips, Shapewear, Sleepwear &amp; More"></a></td>
 							<td width="470" align="left"><img src="images/credit-cards.gif" border="0" width="300" height="60" alt="Payment Options for HerRoom - Bras, Panties, Thongs, Slips, Shapewear, Sleepwear &amp; More" usemap="#cc_map"><br></td>
 						</tr>
 						<tr>
 							<td colspan="3" align="center">
 								<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.HerRoom.com"><img src="//images.scanalert.com/meter/www.herroom.com/22.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." border="0" width="115" height="32"></a>
-								<small><br><br>© 2010 Andra Group, LP • Saturday, August 14, 2010.</small>
+								<small><br><br>© 2011 Andra Group, LP • Sunday, December 25, 2011 (A1).</small>
 							</td>
 						</tr>
 					</tbody></table>
@@ -501,14 +505,31 @@ qualify for FREE standard U.S. shipping! <a style="font-size:10px;" href="shippi
 </div> <!-- end of mainwrapper -->
 
 <map name="cc_map">
-	<area shape="RECT" coords="153,21,183,40" href="https://www.securecheckout.billmelater.com/paycapture-content/fetch?hash=4BW27E6W&amp;content=/bmlweb/coreiw.html" target="_blank">
+	<area shape="RECT" coords="153,21,183,40" href="https://www.securecheckout.billmelater.com/paycapture-content/fetch?hash=4B827EP8&amp;content=/bmlweb/coreiw.html" target="_blank">
 </map>
 
 
-	<script type="text/javascript">
+			<!-- Begin Monetate tag, place before end of document body. DO NOT ALTER. -->
+			<script type="text/javascript">
+				var monetateT = new Date().getTime();
+				if (document.location.protocol == "http:" || document.location.protocol == "https:") { document.write(unescape("%3Cscript type='text/javascript' src='" + (document.location.protocol == "https:" ? "https://s" : "http://") + "b.monetate.net/js/1/a-47e34ec1/p/herroom.com/" + Math.floor(monetateT / 3600000) + "'%3E%3C/script%3E")); }
+			</script><script type="text/javascript" src="https://sb.monetate.net/js/1/a-47e34ec1/p/herroom.com/439005"></script>
+			<script type="text/javascript">
+				if (this.monetate) { monetate.a(); }
+			</script>
+			<!-- End Monetate tag. -->
+		
+
+	
+
+<!-- Google Analytics -->
+<script type="text/javascript">
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+
+	<!-- Google Analytics -->
 	<script type="text/javascript">
 	var pageTracker = _gat._getTracker("UA-4613918-1");
 	pageTracker._trackPageview();
