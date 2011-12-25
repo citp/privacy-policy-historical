@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pillsbury.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528095225id_/http%3A//www.pillsbury.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pillsbury.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225052318id_/http%3A//www.pillsbury.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy from Pillsbury.com
 
@@ -11,7 +11,8 @@ At General Mills, we are very sensitive to the privacy concerns of visitors to a
  **Personal information we may ask you for and how we might use it**  
 When you visit our website, we only collect personal information from you (such as your name, address, phone number, e-mail address, etc.) if you voluntarily provide it to us. Depending on the purpose for which the information was provided, we may use the information to communicate with you regarding our products, services, and promotions, to provide you with other information or materials that you request, to customize your interactive experience, and/or to improve our product and service offerings. 
 
-Here are the circumstances in which we might ask for personal information from our consumers though our site, the types of information we obtain, and how we might use the information:
+Here are the circumstances in which we might ask for personal information from our consumers though our site, the types of information we obtain, and how we might use the information:  
+ 
 
   * If you contact one of our Consumer Services Representatives through our site, we may ask you for personal information such as your name, address, phone number, or e-mail address so that we can respond to your questions or comments. (Of course, if you send us an e-mail, we will at a minimum obtain your e-mail address.) 
   * You may be asked to provide personal information if you: 
@@ -29,7 +30,7 @@ Your participation in any of these activities (and therefore your provision of p
 
 We will not send you any online newsletter or similar e-mail communication unless you expressly consent to receive such a communication from us. And if you do choose to receive any such e-mail communication from us, you will always have the opportunity to “unsubscribe” from receiving the e-mail at any time.
 
-> **How we use cookies and similar technologies**   
+ **How we use cookies and similar technologies**   
 We may employ cookie technology, web beacons, transparent GIF images, and similar devices to facilitate site administration and navigation and to provide an enhanced online experience for our visitors. Information tracked through these mechanisms includes but is not limited to (1) a user’s IP address (e.g., yahoo.com - 192.168.1.1), (2) the type of web browser (e.g., Microsoft Explorer) and operating system (e.g., Windows or Linux) being used, (3) the pages of the site a user visits, and (4) other websites a user visited before visiting our site. These devices may also be used on our behalf by third parties managing our advertising on other websites to enable us to learn which advertisements bring visitors to our websites and to otherwise improve our online advertising.
 
 Most browsers accept cookies automatically, but can be configured not to do so or to notify the user when a cookie is being sent. If you wish to disable cookies, refer to your browser help menu to learn how to disable cookies. Please note that if you disable cookies, you may be unable to access some customized features on our site. 
@@ -51,7 +52,7 @@ At General Mills, we are committed to keeping your online transactions safe and 
 **Links to other sites**  
 Our site may contain links to the websites of our subsidiaries and affiliates, and to websites that are owned and operated by third parties. These other websites may have their own privacy policies and are not be governed by this Privacy Policy. We are not responsible for the privacy practices or the content of websites owned and operated by any such third parties. Other websites may collect and treat information collected differently, so we encourage you to carefully read and review the privacy policy for each website you visit. 
 
-> **User-generated content and public profile features**   
+**User-generated content and public profile features**   
 This site may, from time to time, contain interactive areas where site users might submit comments or other content (including information about the user that might be displayed in the user’s public profile within an online community) that may be posted on the site or otherwise published. Users who do this should be aware that when they voluntarily disclose personally identifiable information (e.g., name, e-mail address, etc.) in content submitted for posting or publication, the information can be read and used by others. This may result in unsolicited messages from other posters or parties. We make no representations and undertake no obligations as to the security or use of information you voluntarily include when submitting content.
 
  **Send-to-a-friend tools**  
@@ -66,14 +67,14 @@ This website is intended for use by residents of the United States of America on
  **Changes in our privacy policy**  
 We reserve the right to change or replace this Privacy Policy at our sole discretion at any time. Please check back from time to time to ensure that you are aware of any updates or changes in this Privacy Policy. Unless stated otherwise, our current Privacy Policy applies to all information gathered via this site. 
 
-> **Your consent to the terms of this privacy policy**   
+**Your consent to the terms of this privacy policy**   
 By using this website, you signify your assent to all of the terms of this Privacy Policy and this website’s Terms of Use. If you do not agree with any term of this Privacy Policy or our Terms of Use, please do not use this site or submit any personally identifiable information.
 
  **Your control over your information**   
 You always have the right to review and update the information that you previously provided to us at this website. You may contact us as described immediately below in order to arrange this or to ask us to remove you from our list of email addresses to which we send email newsletters. All of our email newsletters also contain an “unsubscribe” link that you can click through to unsubscribe from future emails.
 
  **How to contact us**  
-If you have any questions or concerns about this Privacy Policy or about our collection or use of information, please [_Contact Us_.](http://consumercontacts.generalmills.com/ConsolidatedContact.aspx?page=http://www.pillsbury.com&js=True) You may also reach us by telephone at 1-800-248-7310 weekdays from 7:30 a.m. – 5:30 p.m. Central Time.
+If you have any questions or concerns about this Privacy Policy or about our collection or use of information, please [_Contact Us_.](http://consumercontacts.generalmills.com/ConsolidatedContact.aspx?page=http://www.pillsbury.com) You may also reach us by telephone at 1-800-248-7310 weekdays from 7:30 a.m. – 5:30 p.m. Central Time.
 
   
 
