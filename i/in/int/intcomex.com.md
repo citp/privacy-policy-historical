@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intcomex.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620043336id_/http%3A//www.intcomex.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intcomex.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225101547id_/http%3A//intcomex.com/privacy.html) for the most accurate reproduction.*
 
 # Intcomex Inc.
 
