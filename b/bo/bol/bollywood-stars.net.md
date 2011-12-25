@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywood-stars.net privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524043823id_/http%3A//www.bollywood-stars.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywood-stars.net privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225203432id_/http%3A//www.bollywood-stars.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,5 +11,3 @@ There is good number of reasons why a website collects client information? First
 Sometimes, Bollywood, also seeks for or gets access to the technical information like IP address, profile information, user data and browser type to performance enhancing tasks like managing the website, tracking its services as used by visitors and to improve website services. User IP address are generally recorded for security and monitoring usages.
 
 Collected e-mail addresses are also used as notifications alerts to a site’s users to send updates, newsletters or introduction to a new service to be launched on a website. More Bollywood star can ask for information, while, organizing a contest online. Bollywood Star can change its privacy policy as according to change occurred in cyber laws or in case of introduction of new technology into cyber space.
-
-[](http://twitter.com/home/?status=Privacy+Policy+http://pcw68.th8.us "Post to Twitter") [](http://delicious.com/post?url=http://www.bollywood-stars.net/privacy-policy/&title=Privacy+Policy "Post to Delicious") [](http://www.facebook.com/share.php?u=http://www.bollywood-stars.net/privacy-policy/&t=Privacy+Policy "Post to Facebook") [](http://reddit.com/submit?url=http://www.bollywood-stars.net/privacy-policy/&title=Privacy+Policy "Post to Reddit") [](http://stumbleupon.com/submit?url=http://www.bollywood-stars.net/privacy-policy/&title=Privacy+Policy "Post to StumbleUpon")
