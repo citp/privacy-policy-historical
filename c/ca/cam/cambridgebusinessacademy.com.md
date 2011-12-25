@@ -1,73 +1,77 @@
-> *The following text is extracted and transformed from the cambridgebusinessacademy.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120124213id_/http%3A//cambridgebusinessacademy.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambridgebusinessacademy.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225183112id_/http%3A//sublimenet.com/legal/dcs_privacy.html) for the most accurate reproduction.*
 
-# Our Privacy Policy
+# Affiliate Program Agreement
 
-**
+**PRIVACY POLICY**
 
-Cambridge Business Academy Ltd Privacy Policy
+**IMPORTANT! THIS PRIVACY POLICY (“ _POLICY_ ”) DESCRIBES HOW DOTCOMSECRETS.COM, INCORPORATED (“ _DCS_ ”) PROTECTS, USES AND SHARES ANY INFORMATION WHICH IS PROVIDED BY YOU AT ****WWW.DOTCOMSECRETS.COM** ** AND WWW.THESECONDTIER.COM (COLLECTIVELY, ****THE “ _SITE_ ”).   BY ACCESSING THE SITE, YOU ARE INDICATING THAT YOU HAVE READ, UNDERSTOOD AND  AGREE TO THIS PRIVACY POLCY AND OUR TERMS OF SERVICE** ******[**[ **http://sublimenet.com/legal/dcs_tos.html**](http://sublimenet.com/legal/dcs_tos.html) **]**
 
-**
+**IF YOU DO NOT AGREE TO THE TERMS OF SERVICE OR OUR PRIVACY POLICY, PLEASE DO NOT USE THE SITE OR ANY SERVICES OFFERED AT THE SITE.**
 
-Welcome to www.cambrigebusinessacademy.com part of the Cambridge Business Academy Ltd (the "Site"). 
+**_Types of Information that DCS Collects_**
 
-We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by www.cambrigebusinessacademy.com and Cambridge Business Academy Ltd (collectively, "Services") ("Authorised Customers"). 
+DCS collects two different types of information from You when You use the Site.   We collect certain types of personally identifiable information from You (“ _Personal Information_ ”) when You register a member or affiliate account (“ _Account_ ”). We also collect certain non- personally identifiable, aggregate information from visitors to our Site regardless of whether they create or sign in to an Account (“ _Traffic Data_ ”).
 
-**Personally Identifiable Information**
+**_Personal Information_**
 
-This refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual. 
+In order to create an Account You will have to provide Personal Information that may include: 
 
-**What Personally Identifiable Information is collected?**
+a.       name
 
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorised Customers: the names, addresses, phone numbers and email addresses of Authorised Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorised Customer intends to purchase or sell. 
+b.      address 
 
-**What organisations are collecting the information?**
+c.       telephone number
 
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorised Customers. We do not control how these third parties use such information. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them. 
+d.      billing information (such as a credit card number)
 
-**How does the Site use Personally Identifiable Information?**
+e.       the type of personal computer being used to access the services
 
-We use Personally Identifiable Information to customise the Site, to make appropriate service offerings, and to fulfil buying and selling requests on the Site. We may email Visitors and Authorised Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorised Customers in response to specific inquiries, or to provide requested information. 
+f.       payment and tax withholding information
 
-**With whom may the information may be shared?**
+Your Personal Information is used to manage Your Account and is not shared with third parties, unless specifically stated otherwise or in special circumstances. In compliance with applicable laws, it is our policy to require only the Personal Information necessary to manage Your Account and enable You to participate in our programs (as applicable, the “ _Program_ ”). DCS does not condition Your participation in any specific activity on our Site on the disclosure of more information than is reasonably necessary. 
 
-Personally Identifiable Information about Authorised Customers may be shared with other Authorised Customers who wish to evaluate potential transactions with other Authorised Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorised Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf. 
+**_Traffic Data_**
 
-**How is Personally Identifiable Information stored?**
+DCS may also use certain web technologies such as “cookies” to track Your use of our Site. Your browser may have an option that allows You to reject cookies, but doing so may limit Your use of our Site.  Usage Information is anonymous and does not personally identify You.  In addition, DCS may use web beacons or other tools to measure the effectiveness of, and otherwise manage, our online advertising.  These web beacons enable our advertising server to recognize You when You visit the Site and to determine which banner ads bring users to the Site.  DCS does not use spyware, adware or any other similarly intrusive software.  The Usage Information that DCS collects depends on how You choose to use this Site. 
 
-Personally Identifiable Information collected by www.cambridgebusinessacademy.com is securely stored and is not accessible to third parties or employees of Cambridge Business Academy Ltd except for use as indicated above. 
+**_Use of Your Information_**
 
-**What choices are available to Visitors regarding collection, use and distribution of the information?**
+DCS may use Your Personal Information to manage Your Account, such as responding to Your email inquiries or providing You with voluntary customer surveys to helps us to improve the types of products and services we offer to You.  In addition, DCS may use Traffic Data to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display or send the advertisement to the intended audience. Additionally, DCS may share non-identifying and aggregate information (except as described above), but not Personal Information, with third parties to administer certain co-branded products or services. DCS does not share Your Personal Information with these advertisers or joint venture companies unless You have provided Your permission beforehand. In these instances, You will be notified before any such data is collected or transferred and may decide not to use that particular service or feature. Finally, DCS may take the information collected in response to customer surveys and combine (or aggregate) it with the responses of other customers to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). This aggregated, non-personally identifying information may be shared with third parties.
 
-Visitors and Authorised Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at support@cambridgebusinessacademy.com 
+**_Third Party Websites_**
 
-**Are Cookies Used on the Site?**
+The Site may be hyper-linked to other sites which are not maintained by, or related to, DCS.  If You opt to provide information to such web sites, for example, to purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates, please be aware that  DCS has no control over the third parties' use of any personal information You provide when placing such an order. Please exercise care when doing so and carefully review such website’s privacy policies before providing any information.  If You provide information about someone else, such as a person’s name, address, and phone number, please be aware that such provision may be prohibited by certain laws and that You, and not DCS, are solely responsible for doing so. 
 
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorised Customers. For example, if an Authorised Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorised Customer off. 
+**_Contests_**
 
-**How does Cambridge Business Academy Ltd use login information?**
+From time to time, subject to any rules provided at the Site at such time, You may be provided with the opportunity to be entered in a sweepstakes, contest, or other promotion simply by making a purchase from DCS or by providing DCS with personally identifiable information for some other reason or purpose. In such event,  DCS may have to supply personally identifiable information of the winners to the third parties such as the entity administering the sweepstakes or contest, so that they can notify the winners
 
-www.cambrigebusinessacademy.com and Cambridge Business Academy Ltd uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyse trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
+**_Exclusions_**
 
-**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorised Customers on the Site?**
+DCS may disclose Personal Information for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: to credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Children’s Online Privacy Protection Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms Of Service, or other user policies; or to protect our company and our members. We may sell or buy other businesses or entities.  In such event, DCS may transfer or assign the information we have collected as part of such merger, acquisition, sale, or other change of control  In such transactions, Your Personal Information may be included in the transferred business assets.  Also, in the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, DCS may not be able to control how Your Personal Information is treated, transferred, or used and Your Personal Information may be included in the transferred assets. 
 
-www.cambrigebusinessacademy.com and Cambridge Business Academy has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorised Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorised Customers. 
+**_Information-Sharing Disclosures_**
 
-**How does the Site keep Personally Identifiable Information secure?**
+Under the laws of some jurisdictions, You may be entitled to request disclosure regarding how DCS shares Your Usage Information with third parties for direct marketing purposes (“ _Information-Sharing Disclosure_ ”). To the extent required by applicable law, DCS shall provide the Information-Sharing Disclosure to You upon rightful request made in writing to **support@dotcomsecrets.com** and please include the phrase " Privacy Request" and Your State of residence in the subject line, the domain name of the Site You are inquiring about, along with Your name, address and email address. If You are entitled to such Information-Sharing Disclosure, DCS will respond to You within thirty days of receiving such a request.
 
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorised Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorised Customers for any such occurrences. 
+**_Our Company Commitment to Children's Privacy._**
 
-**How can Visitors correct any inaccuracies in Personally Identifiable Information?**
+Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws.  Therefore DCS restricts our Site to persons eighteen years or older. **YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS SITE FOR ANY REASON.   DUE TO THE AGE RESTRICTIONS FOR USE OF THIS SITE, NO INFORMATION OBTAINED BY THIS SITE, FALLS WITHIN THE CHILDREN'S ONLINE PRIVACY PROTECTION ACT (COPPA) AND IS NOT MONITORED AS DOING SO.**
 
-Visitors and Authorised Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at support@cambridgebusinessacademy.com 
+**_Public Forums_**
 
-**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**
+Please remember that any information You may disclose in any public areas of the Site becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. DCS cannot and will not be liable or responsible for any disclosure of any information You publish in a public area of the Site.
 
-We provide Visitors and Authorised Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting support@cambridgebusinessacademy.com However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+**_Our Commitment to Data Security:_**
 
-**What happens if the Privacy Policy Changes?**
+DCS takes reasonable precautions and has implemented reasonable technical measures intended to protect against the risks of unauthorized access to, erroneous disclosure of, and unlawful interception of Your Personal Information, including by requiring our payment processor to comply with applicable laws and industry standards and by employing Secure Sockets Layer (SSL) encryption technology supported by most versions of Microsoft Internet Explorer, Netscape Navigator and other popular browsers.  Once Your Personal Information is received by DCS, we use commercially reasonable efforts to limit access to Your Personal Information about You to those employees and service providers whom DCS determines need access to that Personal Information to complete Your request and/or other provide offers or opportunities that may be of interest to You.  However, even after DCS receives Your Personal Information, DCS cannot guarantee that Your Personal Information may not be accessed, disclosed, altered, or destroyed as a result of a breach of our commercially reasonable efforts or as a result of any other event beyond our reasonable control.  Also, please be aware that Your email transmissions and/or other communications to DCS containing Personal Information may be unlawfully intercepted or accessed by third parties and/or this Site may be subject to hostile network attacks or administrative errors.  Accordingly, DCS cannot and does not guarantee that Your Personal Information is completely secure and safe from such risks. **  FOR THE AVOIDANCE OF DOUBT, WE EXPRESSLY DISCLAIM ANY REPRESENTATION OR WARRANTY, WHETHER EXPRESS OR IMPLIED, WITH RESPECT TO ENSURING, GUARANTEEING OR OTHERWISE OFFERING ANY DEFINITIVE PROMISE OF SECURITY IN CONNECTION WITH YOUR PERSONAL INFORMATION, PERSONAL INFORMATION OR USAGE INFORMATION.**
 
-We will let our Visitors and Authorised Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorised Customer has previously requested not be disclosed, we will contact such Visitor or Authorised Customer to allow such Visitor or Authorised Customer to prevent such disclosure. 
+**_Where to Direct Questions About Our Privacy Policy_**
 
-**Links**
+If You have any questions about this Policy or the practices described herein, You may contact us through the contact information provided on this Site.
 
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
+**_Revisions to This Policy   _**
+
+From time to time, DCS may revise this Policy.  To help You stay current of any changes, DCS takes the following two steps: (i) we note the date the Policy was last updated below and (ii) when we make a change to the Policy, we will post conspicuous announcements of such changes on the homepage of the Site for 30 days following the date the Policy was updated.  Your use of the Site following the posting of any revised Policy shall be deemed acceptance of the revised Policy.  We strongly recommend checking the Policy periodically.  We may also, at our sole discretion and with no obligation to do so, provide notices and other communications to You by email or by postings within Your Account.  You will be solely responsible for keeping Your email addresses updated and we will not be responsible for any undelivered notices caused by Your failure to do so. 
+
+Last updated: November 5, 2009
