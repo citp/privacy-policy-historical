@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machoarts.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219062636id_/http%3A//machoarts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machoarts.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225201305id_/http%3A//machoarts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
