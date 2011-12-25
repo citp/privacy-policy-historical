@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spellchecker.net privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626130349id_/http%3A//www.spellchecker.net/privacyandreturnpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spellchecker.net privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225101450id_/http%3A//www.spellchecker.net/privacyandreturnpolicy) for the most accurate reproduction.*
 
 # Spellchecker.net :: Privacy and Return Policy
 
