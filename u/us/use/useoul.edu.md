@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the useoul.edu privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511154402id_/http%3A//www.useoul.edu/images/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the useoul.edu privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226002253id_/http%3A//www.useoul.edu/images/privacy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
