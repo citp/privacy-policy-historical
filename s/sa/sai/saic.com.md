@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saic.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626185845id_/http%3A//www.saic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saic.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225110616id_/http%3A//www.saic.com/privacy) for the most accurate reproduction.*
 
 # SAIC: Web Privacy Statement
 
@@ -19,6 +19,8 @@ If you have any questions, please contact our [Webmaster](https://web.archive.or
 If you request information from www.saic.com through our on-line contact forms, we ask for and store the business-related information you provide (such as name, email, corporate profile, etc.) to assist us in responding to your request. This information is used for business contacts only. We will not knowingly collect or use personal identifying information from children younger than 13 without parental consent.
 
 If you apply for a job at SAIC, we request information about you. This information is used for employment consideration only. Unless you request otherwise, we will keep the information for future consideration.
+
+The SAIC Talent Community is hosted by Jobs2Web, an SAIC vendor partner. If you have questions about the Talent Community information you have provided to SAIC please refer to this [supplementary page](https://web.archive.org/web/20111225110616id_/http://www.saic.com/privacy/j2w.html).
 
 ### Use of Cookies
 
