@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantlistbuildinganarchy.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615235259id_/http%3A//sublimenet.com/legal/dcs_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantlistbuildinganarchy.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225183112id_/http%3A//sublimenet.com/legal/dcs_privacy.html) for the most accurate reproduction.*
 
 # Affiliate Program Agreement
 
