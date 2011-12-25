@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the blogads.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527033516id_/http%3A//web.blogads.com/Documents/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogads.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225011841id_/http%3A//web.blogads.com/privacy-policy) for the most accurate reproduction.*
 
-# Blog advertising makes opinions - Privacy Policy
+# Privacy Policy | Blogads
 
 Privacy Policy
 
 Last revised: February 28, 2006.
 
-To read the Terms & Conditions for Advertiser, [please click here](http://web.blogads.com/Documents/advertiser_terms/).  
-To read the Terms & Conditions for Adstrip Publisher, [please click here](http://web.blogads.com/Documents/blogger_terms/).
+To read the Terms & Conditions for Advertiser, [please click here](http://web.blogads.com/advertiser-terms-and-conditions).  
+To read the Terms & Conditions for Adstrip Publisher, [please click here](http://web.blogads.com/blogger-terms-and-conditions).
 
 Pressflex LLC, operator of the Blogads.com web site, ("Blogads.com") provides an online advertising sale and display service for publishers of Blogs (the "Service"). We sell "Advertiser(s)" the right to place advertisements ("Blogad(s)") via the Service into a Javascript ("Adstrip") that is then sent to and displayed on one or more web sites of our network of Blog publishers ("Publisher(s)") and managed by such Publishers. The Service runs on software developed and hosted by Pressflex LLC, its subsidiaries and third party contractors. Blogads are viewed by members of the public ("User(s)"), who access any of our Publishers’ Blogs via the World Wide Web.
 
@@ -55,7 +55,7 @@ Blogads.com uses reasonable efforts not to collect, use or disclose individually
 
 H. FURTHER INFORMATION
 
-If you have any questions about anything in this Privacy Policy, or about collection of personally identifiable information, or information generally, please contact Pressflex LLC via the [online form](http://web.blogads.com/ba_contact_us) or as follows:
+If you have any questions about anything in this Privacy Policy, or about collection of personally identifiable information, or information generally, please contact Pressflex LLC via the [online form](http://web.blogads.com/contact-blogads) or as follows:
 
 Pressflex LLC  
 Attn: Tina Merrill  
