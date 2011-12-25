@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mouser.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627025745id_/http%3A//www.mouser.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mouser.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225121229id_/http%3A//www.mouser.com/privacypolicy) for the most accurate reproduction.*
 
 # Mouser Electronics - Electronic Component Distributor
+
+privacypolicy_en-GB.html 
 
 At Mouser, we are committed to protecting your privacy and developing technology that gives you the most powerful and secure online experience. You can travel through most of our website without giving us any personal information but sometimes we do need it to provide services that you requested. This statement of privacy explains data collection and the use of it so please read the entire statement.
 
@@ -29,7 +31,7 @@ We will disclose your information, without notice, only as follows:
   2. To protect and defend the rights or property of Mouser and its websites.
   3. To act in urgent circumstances to protect Mouser's websites, its employees or the public.
   4. When you have an open account with Mouser, credit and payment history is occasionally shared with credit reporting agencies.
-  5. When required to disclose "point of sale" (POS) information to a supplier for market research and payment of commission to the supplier's sales force. POS information may be used by Mouser, TTI, and select manufacturer representatives to follow up on new design activity.
+  5. When required to disclose "point of sale" (POS) information to the manufacturer for market research and payment of commission to the manufacturer's sales force. POS information might also be used by Mouser, TTI, the manufacturer or the manufacturer's representatives to provide you with important information or to contact you about potential design activity.
 
 
 
