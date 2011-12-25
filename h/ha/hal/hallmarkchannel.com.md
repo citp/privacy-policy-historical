@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hallmarkchannel.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522202917id_/http%3A//www.hallmarkchannel.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hallmarkchannel.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225133056id_/http%3A//www.hallmarkchannel.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Hallmark Channel
 
@@ -36,7 +36,7 @@
 > 
 > If you have any questions or wish to communicate with us with regard to this Privacy Policy or your personal information please contact us at:
 > 
-> E-mail: [viewers@HallmarkChannel.com](mailto:viewers@hallmarkchannel.com)  
+> E-mail: [viewers@crownmedia.com](mailto:viewers@crownmedia.com)  
 >  Phone: (888) 390-7474 
 > 
 > **Please note that participation in some activities offered on our site may be limited, without the submission of personally identifiable information of the user.**
