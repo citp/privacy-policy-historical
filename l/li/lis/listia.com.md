@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the listia.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526085344id_/http%3A//www.listia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listia.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225030333id_/https%3A//www.listia.com/privacy) for the most accurate reproduction.*
 
-# Give & Get Free Stuff - Listia.com Auctions
-
-**Privacy Policy**
+# Privacy Policy - Listia.com Auctions for Free Stuff
 
 This is the web site of **listia.com**.
 
