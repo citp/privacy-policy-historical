@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cafepress.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623224543id_/http%3A//www.cafepress.com/cp/info/help/index.aspx%3Fpage%3Dprivacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafepress.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226005131id_/http%3A//www.cafepress.com/cp/info/help/index.aspx%3Fpage%3Dprivacy_policy.aspx) for the most accurate reproduction.*
 
 # CafePress.com : Customer Service : Privacy Policy
 
-[Cool Shirts 4 Less](https://web.archive.org/cp/store.aspx?s=cool4less.5930260) > **Customer Service**
+[Classic Car Tees](https://web.archive.org/cp/store.aspx?s=classiccartees.0) > **Customer Service**
 
 **Effective Date: June 23, 2011**
 
