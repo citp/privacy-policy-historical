@@ -1,80 +1,67 @@
-> *The following text is extracted and transformed from the viikii.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613100336id_/http%3A//www.viikii.net/copyright/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viikii.net privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225134231id_/http%3A//www.viki.com/privacy) for the most accurate reproduction.*
 
-# ViiKii - Privacy
+# ViKi
 
-**Privacy Policy**  
-**Revised: June 4, 2010**
+Revised: December 2, 2010
 
-**1\. Personal Information**
+This Privacy Policy describes how VIKI, INC. ("we," “our” or "us") collects, uses and shares your information on our website at ViKi.com (collectively, the “Website”) We provide an online video service offering a selection of content and other services from time to time, which are referred to collectively as the "ViKi Services." Use of the ViKi Services is subject to our [Terms of Service](https://web.archive.org/terms_of_use).
 
-a. Non-Account Activity. You can watch videos on ViiKii.net or ViiKii.com (collectively, “ViiKii” or the “ViiKii Sites,” which are operated by VIIKII, INC.) without having a ViiKii Account. You can also contact us about a particular video without having a ViiKii Account.
+### Information We Collect
 
-b. Account-Related Activity. Certain other activities on ViiKii — like submitting videos, posting comments, posting subtitles — require you to have a ViiKii Account. We ask for some personal information when you create a ViiKii Account, including your email address and a password, which is used to protect your account from unauthorized access.
+We collect information as follows. First, when you create an account on the Website, we collect personally identifiable information, including your name, email address, nationality and language, and, if you purchase services, credit and debit card information, PayPal information, mobile payment information and/or other payment information depending on the payment option you select. Second, we automatically collect information when you visit the Website or use the ViKi Services. We also automatically collect non- personally identifiable information from your computer and browser, including your IP address, software and hardware attributes, the page you request, and cookie and Web beacon information. Non-personal information means information that does not allow someone to identify you individually. 
 
-c. Usage Information. We may record information about your usage, such as when you use ViiKii, the channels you subscribe to, the contacts you communicate with, the videos you watch, and the frequency and size of data transfers, as well as information you display or click on in ViiKii (including UI elements, settings, and other information).
+### How we use information we collect
 
-d. Content Uploaded to Site. Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your playback or profile pages, etc.) becomes publicly available and could be collected and used by others. 
+We use the information we collect about you for the following general purposes: (i) contacting you; (ii) customizing the content and advertising you view (iii) fulfilling your requests for products or services; (iv) identifying the comments you post on the Website; (v) improving the ViKi Services; (vi) conducting research; (vii) compiling aggregate data for internal and external business purposes; (viii) preventing potentially illegal activities; (ix) protecting our rights and other uses in accordance with our Terms of Service; and (x) for any other purpose disclosed to you at the time we collect your personally identifiable information. 
 
-**2\. Uses**
+### Disclosure of information
 
-a. If you submit personally identifiable information to us through the ViiKii Sites, we use your personal information to operate, maintain, and provide to you the general and personalized features and functionality of the ViiKii Sites, and to process any activity or correspondence you send to us.
+We may share information that we have collected about you with other users if you voluntarily make the information public, including by (i) creating an account on the Website (whereby your account name and certain account information will be provided to other users of the Website), (ii) adding certain information to your channel page, and (iii) submitting videos or sending messages through the Website. 
 
-b. Your account name (not your email address) is displayed to other Users when you submit videos or send messages through the ViiKii Sites and other Users can contact you through messages and comments. Any videos that you submit to the ViiKii Sites may be redistributed through the internet and other media channels, and may be viewed by the general public.
+Also, we may share personal information with companies and organizations that we hire/contract with to perform services for us (for example, processing credit and debit card, mobile and PayPal payments) 
 
-c. We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major ViiKii Site changes or for customer service purposes).
+In addition, we may disclose your personal information to comply with legal requirements, like law, regulation, warrant, subpoena, court order, or with a regulator or law enforcement agency or personnel, or in connection with a corporate sale, merger, acquisition, reorganization, dissolution or similar event. 
 
-d. We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the ViiKii Sites and to create new features, promotions, functionality, and services by storing, tracking, analyzing, and processing user preferences and trends, as well as user activity and communications.
+### Email addresses
 
-e. We use cookies, clear gifs, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit the ViiKii Sites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+If you have provided your email address on the Website and have opted in, we may send you emails informing you of any major changes to the Website, or any pertinent information about the content on ViKi.com. If you do not want to receive these emails, please make a change to your email preference in your ViKi.com profile page. 
 
-f. We may disclose personal information to government agencies and officials as required by law or in response to information requests.
+### Choice and Access to Personal Information
 
-g. We may disclose your personal information to a successor or acquiring entity as part of a merger, acquisition, reorganization or other transaction involving all or substantially all of our assets.
+We want to keep personal information accurate. To correct or update your personal information, please visit your account profile page. 
 
-**3\. Information That is Publicly Available**
+### Links to Other Web Sites
 
-a. When you create an account on the site, some information about your account and your account activity will be provided to other Users of the site. This may include the date you opened your account, the date you last logged into your account, and the country.
+The Website may link to Web sites of other companies or organizations. These links are provided for your convenience. This Privacy Policy does not apply to these links. We do not control these Web sites and are not responsible for their operation or content. Please review the privacy policy for each Web site you visit. 
 
-b. Your account name (not your email address) is displayed to other Users when you engage in certain activity on the site, such as when you upload videos or send messages through the ViiKii Sites. Other Users can contact you through messages and comments.
+### Cookies and Web Beacons
 
-c. You may also choose to add personal information that will be visible to other Users on your channel page (which is the public facing page for your account on the site). This may include a profile picture, your name, gender, relationship status, or other details.
+Cookies are small data files that are sent to your Web browser and placed on your computer's hard drive when you visit a Web site. You can set your Web browser to accept or decline cookies. Some sections of our Web site may not work properly if you decline cookies. 
 
-d. If you choose to add certain features to your channel page, then these features and your activity associated with these features will be displayed to other Users and may be aggregated and shared with your confirmed friends or other Users.
+A Web beacon or similar means (collectively, "Pixel Tags") is a small string of code that provides a way for us to deliver a small graphic image (usually invisible) on a Web page or in an email. Pixel Tags can recognize certain types of information on your browser, check whether you have viewed a particular Web page or email message, and determine, among other things, the time and date on which you viewed the Pixel Tag and the IP address of the computer from which it was viewed. 
 
-e. Any videos that you submit to the ViiKii Sites may be redistributed through the internet and other media channels, and may be viewed by the general public. 
+We use cookies, Pixel Tags and log file information to (i) store information so that you will not have to re- enter it during your visit or the next time you visit the Website; (ii) provide custom, personalized content and information; (iii) monitor the effectiveness of our marketing campaigns and (iv) monitor aggregate metrics such as total number of visitors, pages viewed, etc. 
 
-**4\. Your Choices**
+### Third-party Advertisers
 
-a. You may decline to submit personally identifiable information through the ViiKii Sites, in which case you can still view videos and explore the ViiKii Sites, but ViiKii may not be able to provide certain services to you.
+We permit advertisements to be delivered to you by third party Internet advertising companies (also called "ad networks" or "network advertisers"). These companies may use cookies, Web beacons and other technologies to collect non-personally identifiable information about your visits to the Website to deliver advertisements to you, measure their effectiveness and personalize advertising content. We do not have access to or control over cookies, Web beacons or other technologies that they may use. We are not responsible for the privacy practices of third party advertisers. You should check the privacy policy of the third party advertiser to determine how it handles any personally identifiable information it separately collects from you. Please be aware that we do not warn you when you have chosen to link through to another Web site or property from the Website. In addition, the [Network Advertising Initiative](http://www.networkadvertising.org/) offers information about Internet advertising companies, including about how to opt-out of their information collection. 
 
-b. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. 
+### Transfer of Information to Other Countries
 
-c. You may control the information that is available to other Users and your confirmed friends at any time by editing your account. 
+Our processing of the information that it collects may involve the transfer of that information to various countries around the world. By submitting your information to us via the Website or in connection with your interactions with us offline, you consent to such transfers and to the processing of this information in various countries around the world. 
 
-**5\. Third-party Advertisers, Links to Other Sites**
+### Security
 
-ViiKii allows other companies, called third-party ad servers or ad networks, to serve advertisements within the ViiKii Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the ViiKii Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+We take reasonable steps to protect personal information from loss and misuse. No Internet transmission is 100% secure. We use reasonable physical, technical, and administrative measures to safeguard personally identifiable information in our possession against loss, theft and unauthorized use, disclosure, or modification. Some email sent to or from the Website may not be secure. Please consider this when sending information to us by email. 
 
-ViiKii does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks ViiKii to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the ViiKii Sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
+### Children's Privacy
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. ViiKii's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. Any data obtained by third-party ad servers subsequently shared with ViiKii is maintained and dealt with by ViiKii in accordance with this privacy policy.
+We do not intentionally collect personal information from children under age 13. If we discover that a child has provided us with personal information online through the Website, we will take reasonable steps to delete this information. If you believe we may have accidentally received personal information from a child under age 13, please immediately contact us at [privacy@viki.com](mailto:privacy@viki.com "privacy@viki.com") . 
 
-**6\. Transfer of Information to Other Countries**
+### Changes to this Privacy Policy
 
-ViiKii’s processing of the information that it collects may involve the transfer of that information to various countries around the world. By submitting your information to ViiKii via the ViiKii Sites or in connection with your interactions with ViiKii offline, you consent to such transfers and to the processing of this information in various countries around the world.
+We may modify, alter or update this Privacy Policy at any time, so we encourage you to review this Privacy Policy frequently. We will not provide individual notice to you of changes to this Privacy Policy, but when we make updates to this Privacy Policy, we will update the last revised date set forth above. 
 
-**7\. Policy Updates**
+### Contact Us
 
-We may update this policy from time to time, and the updated version of this policy will be effective upon posting. Please check this page to review the most up-to-date version of this policy.
-
-**8\. No Use by Minors**
-
-The ViiKii Site is intended for use by adults only. We do not promote the ViiKii Site to children or intentionally collect any personally identifiable information from children under the age of 13.
-
-**9\. Your California Privacy Rights**
-
-Under California Civil Code Section 1798.83 (also known as S.B. 27), if you are a California resident and your business relationship with ViiKii is primarily for personal, family, or household purposes, you may request certain data regarding ViiKii’s disclosure, if any, of personal information to third parties for the third-parties’ direct marketing purposes. To make such a request, please send an e-mail message to privacy@viikii.com with "Request for California Privacy Information" in the subject line. You may make such a request up to once per calendar year. If applicable, we will provide you, by e-mail, a list of the categories of personal information disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, along with the third parties' names and addresses. Please note that not all personal information sharing is covered by S.B. 27's requirements.
-
-**10\. More Information**
-
-For more information about our privacy practices, write to us at: privacy@viikii.com.
+If you have any questions or comments about this Privacy Policy, please contact us at [privacy@viki.com](mailto:privacy@viki.com "privacy@viki.com") . 
