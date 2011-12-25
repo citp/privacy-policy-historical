@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ask.fm privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622234026id_/http%3A//ask.fm/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ask.fm privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225194713id_/http%3A//ask.fm/about/privacy) for the most accurate reproduction.*
 
 # Ask.fm
 
@@ -28,6 +28,10 @@ Cookies
 
 A "cookie" is a small text file containing a unique identifier that our web server sends to a user’s browser, and may be stored on a user’s hard drive. Cookies are required to use ask.fm service. If you have your browser set to reject cookies, your use of the ask.fm service is likely to be interrupted. The cookies we use are not permanent. 
 
+Behavioral advertising
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
 Third-party websites
 
 Ask.fm is not responsible for the practices employed by websites linked to or from the ask.fm website, nor the information or content contained therein. When you use a link from the ask.fm website/service to another website, our Privacy Policy is no longer in effect. Browsing and interaction on any other website, including websites which have a link to the ask.fm website, is subject to that website’s own rules and policies. 
@@ -35,11 +39,3 @@ Ask.fm is not responsible for the practices employed by websites linked to or fr
 Your replies are publicly viewable data
 
 Your replies to questions submitted via ask.fm will be published to other websites. You are responsible for what gets published. Whatever you enter into the ask.fm reply box will be published and could be publicly viewable immediately upon your clicking the submit button. 
-
-Changes
-
-Ask.fm reserves the right to modify this privacy policy at any time, so please review it frequently. 
-
-Terms of service
-
-Your use of the ask.fm service is governed by our [Terms of service](https://web.archive.org/about/tos). 
