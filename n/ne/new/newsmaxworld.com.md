@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsmaxworld.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606063020id_/http%3A//newsmax.com/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsmaxworld.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225130703id_/http%3A//newsmax.com/PrivacyStatement) for the most accurate reproduction.*
 
-# Newsmax - Newsmax.com - Privacy Statement
+# Newsmax.com - Privacy Statement
 
 **August 1, 2009**
 
