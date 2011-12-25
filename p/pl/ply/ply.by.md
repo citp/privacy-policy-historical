@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ply.by privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623133237id_/http%3A//www.playboy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ply.by privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225144528id_/http%3A//www.playboy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Privacy Policy : Playboy.com
 
-#### Effective as of March 31, 2009 (the “Effective Date”)
+#### Effective as of September 9, 2011 (the “Effective Date”)
 
 This Privacy Policy (the “Policy”) applies to Playboy Enterprises, Inc.’s and Playboy.com, Inc’s (collectively “Playboy”) family of websites (the “Sites”).  These include playboy.com; cyber.playboy.com; and any other websites at which this Policy appears.  It does NOT apply to other online or offline websites, products or services of Playboy or Playboy’s affiliates.
 
@@ -97,3 +97,16 @@ California residents who have an established business relationship with Playboy 
 From time to time, we may share your personal information with carefully screened companies that offer products or services that we believe you may enjoy. If you do not want us to share your personal information with such third parties, please send us your name, email address, street address and phone number to [admin@playboy.com](mailto:admin@playboy.com).
 
 Your opt out request will be processed within 30 days of the date it was received.
+
+## Third Parties on the Sites
+
+Certain companies such as web analytics partners, advertisers, application developers and ad networks may use cookies, web beacons, and applications (or “widgets”) on the Sites as described below. 
+
+## Analytics Partners
+
+Playboy may allow certain partners to include web beacons within pages on the Sites. Playboy may also share portions of our log file data, including IP address, with these partners for analytics purposes. In the event your IP address is shared, this information may be used to estimate general location and other technographics (such as connection speed, whether you have visited the Sites in a shared location, and type of the device used to visit the Sites). These partners aggregate information about our advertising and what you see on the Sites and then provide auditing, research and reporting for us and our advertisers. Playboy allows web beacons from and shares log file data with the following partners (click to visit their websites):  
+[http://www.nielsen-netratings.com](http://www.nielsen-netratings.com/)
+
+None of the personal identifying information you provided to Playboy in connection with your account is shared with our advertisers or our partners as part of our analytics programs.  
+The following third parties offer information about their data collection practices, and in some cases, an opt-out, on their respective websites. Please visit each company’s privacy policy to better understand the controls available to you.  
+<http://www.nielsen-netratings.com/privacy/sitecensus.htm>
