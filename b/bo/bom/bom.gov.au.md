@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bom.gov.au privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604214923id_/http%3A//www.bom.gov.au/other/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bom.gov.au privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225041400id_/http%3A//www.bom.gov.au/other/privacy.shtml) for the most accurate reproduction.*
 
-# Bureau of Meteorology - Privacy Statement
-
-## Privacy Statement
+# Privacy Statement - Bureau of Meteorology
 
 This page explains the type of information that is collected by the Bureau of Meteorology, how such information is used and under what circumstances and to whom it may be disclosed. If you have any privacy concerns, you should direct them to the Bureau's Privacy Officer by e-mailing [privacy@bom.gov.au](mailto:privacy@bom.gov.aunospam) (*remove 'nospam' before mailing) or by writing to:
 
@@ -13,13 +11,17 @@ Melbourne Vic 3001
 Australia  
 
 
-“Personal information collected by the Bureau of Meteorology is used in accordance with its obligations under the “[Privacy Act 1988 http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/](http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/) ” Personal information is information relating to an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion provided.”
+* * *
+
+"Personal information collected by the Bureau of Meteorology is used in accordance with its obligations under the "[Privacy Act 1988 http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/](http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/) " Personal information is information relating to an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion provided."
 
 The Internet is an insecure medium and users should be aware that there are inherent risks transmitting information across the Internet. Information submitted unencrypted via e-mail or web forms may be at risk of being intercepted, read or modified.
 
 For those who do not wish to use the Internet we provide alternative ways of obtaining and providing the information. If you prefer, [you can contact us by phone or mail](https://web.archive.org/inside/contacts.shtml). 
 
-Site Visit Data
+* * *
+
+### Site Visit Data
 
 This site is mainly operated by the Bureau of Meteorology, however there are some products that are provided by an external internet service provider. Users of the products provided via external providers should be aware of the 'links to other sites' information at the end of this statement.
 
@@ -36,7 +38,9 @@ When visiting the Bureau's site, a record of your visit is logged. The following
 
 No attempt will be made to identify users or their browsing activities, unless disclosure is required by law or due to a mandatory requirement of a Court, Government Agency or Regulatory Authority in the course of a legally enforced investigation.
 
-Collection of Personal Information
+* * *
+
+### Collection of Personal Information
 
 We will, at your request, provide you with access to any information which we have collected about you through this website in accordance with Information Privacy Principle 6, Privacy Act 1988. To gain access to this information you should contact us, as per the above contact details. If you believe any information is inaccurate, incomplete or out of date, please contact us and we will revise the relevant information in accordance with Information Privacy Principle 7, Privacy Act 1988.
 
@@ -58,7 +62,9 @@ When you use our Subscription and Feedback forms:
 
 
 
-Cookies
+* * *
+
+### Cookies
 
 A cookie is a small text file that is sent from web site servers and stored on a web browser. Some parts of this web site may use a cookie to maintain site information and your setting preferences as you navigate different pages on our web site or when you return to the web site at a later time.
 
@@ -68,7 +74,9 @@ No attempt will be made to identify users or their browsing activities, unless d
 
 For more information about cookies and instructions on how to adjust your browser settings to restrict or disable cookies, see the [Office of the Privacy Commissioner web site http://www.privacy.gov.au/](http://www.privacy.gov.au/) or the [Interactive Advertising Bureau web site http://www.iabaustralia.com.au/](http://www.iabaustralia.com.au/)
 
-Google Analytics
+* * *
+
+### Google Analytics
 
 In addition to web server logs, this web site uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). Reports obtained from Google Analytics are used to help improve the efficiency and usability of this web site.
 
@@ -78,10 +86,14 @@ Google will use this information for the purpose of evaluating your use of our w
 
 By using this web site, you consent to the processing of data about you by Google in the manner and for the purposes set out above. Please refer to [Google's Privacy policy http://www.google.com/privacy.html](http://www.google.com/privacy.html)
 
-Searches
+* * *
+
+### Searches
 
 Search terms that you enter when using our search engine are collected, but there is no link between search terms and personal details. Nor are they associated with any other information that we collect. We use these search terms to ascertain what people are looking for at our site and to improve the services that we provide.
 
-Links to Other Sites
+* * *
+
+### Links to Other Sites
 
 This site contains links to other sites. The Bureau of Meteorology is not responsible for the privacy practices of these web sites and has no knowledge of whether cookies or other tracking devices are used on linked sites. If you have any concerns regarding your privacy, when visiting a linked site, you should ensure you are aware of the privacy policies of those sites.
