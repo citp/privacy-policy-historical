@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedomesticbuzz.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601231228id_/http%3A//thedomesticbuzz.com/contact-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedomesticbuzz.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225212450id_/http%3A//thedomesticbuzz.com/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Domestic Buzz
 
