@@ -1,29 +1,38 @@
-> *The following text is extracted and transformed from the the-escape.co.uk privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219052326id_/http%3A//www.the-escape.co.uk/policies/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-escape.co.uk privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225203652id_/http%3A//www.the-escape.co.uk/privacy) for the most accurate reproduction.*
 
-# The Escape Design Company - Accessibility Statement
+# Privacy Policy | The Escape - Design and Web Agency
 
-By accessing and using this Site, you hereby agree to the terms of this Privacy Policy. If you do not agree with this Privacy Policy, please exit from this site.
+Uh-oh... here comes the business end of our website. You know how this works, we gotta have this stuff and you'll probably notice a slight change in tone too. So, without further 'a-do', here we go...
 
-## Non-Personal Information Collected Automatically
+## Visitors to our websites
 
-The Escape Design Company Limited (hereafter referred to as The Escape Design) is committed to the protection of the privacy of its web site visitors. Please note that we monitor statistics about our users, traffic patterns, and site performance information, but these statistics are not shared with third-parties and do not include no personally identifying information.
+When someone visits www.the-escape.co.uk we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone.
 
-## Personal Information
+We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it.
 
-In order to respond to your enquiries or manage future interactive user functions it may be necessary to ask for personal information such as your name, address, e-mail address and telephone number. We may use this information to respond to your requests or to contact you via mail, e-mail or phone to inform you of new products, services or promotions that we offer. If you request a service or submit content to this site we may need to contact you for additional information required to process or fulfil your request. However, unless compelled by applicable legislation, we will not provide this information to a third party without your permission, except as necessary to process your enquiry or fulfil your requests. This Site may use technology that lets us collect certain technical information like your IP address, operating system, your browser type, traffic patterns and the address of any referring Web sites.
+## Use of cookies by the Escape
 
-## Security
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. 
 
-Please note that, although no system of technology is completely infallible, The Escape Design has endeavoured to take appropriate measures to prevent risks of unauthorised access to or improper use of your personal information.
+One of the cookies we use is essential for parts of the site to operate and has already been set. You may delete and block all cookies from this site, but parts of the site will not work.
 
-## Accuracy of Collected Data
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-The Escape Design will, on its own initiative or at your request, update or erase any erronious or outdated personal data retained in connection with the operation of this Site.
+To opt out of being tracked by Google Analytics across all websites visit [tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout).
 
-## Visitor Identification
+Cookie | Name | Purpose | More Information  
+---|---|---|---  
+Essential site cookie | ASPSESSIONIDCASRTSSA | This temporary cookie contains a randomly generated code that we use to link your browser to our web server allowing us to remember any settings between pages. No personal data is stored in it. | [Visit the Microsoft website](http://support.microsoft.com/kb/899918)  
+Google Analytics | _utma  
+_utmb  
+_utmc  
+_utmz | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where vistors have come to the site from and the pages they visited. | [Overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
+Escape site cookie acceptance | COOKIEACCEPTED | This cookie is used to record if a user has accepted the use of cookies on the Escape website. |   
+  
+## Links to other websites
 
-From time to time 'cookies' may be placed on your computer to allow us to identify you. This allows us to personalise the site for the user and view how and when specific users visit the site, helping us to improve the site. The use of cookies is an industry standard. Cookies are stored on your computer and used only to view information on your hard drive that was put there by a cookie from this Site. If you do not wish to receive cookies you may set your web browser to prevent them.
+This privacy notice does not cover the links within this site linking to other websites. We encourage you to read the privacy statements on the other websites you visit.
 
-## Changes
+## Changes to this privacy notice
 
-The Escape Design may change access to this Site, or any content, at any time with or without notice.
+We keep our privacy notice under regular review. This privacy notice was last updated on 26 May 2011.
