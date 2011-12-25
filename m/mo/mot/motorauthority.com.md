@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorauthority.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102190939id_/http%3A//www.motorauthority.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorauthority.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225212120id_/http%3A//www.motorauthority.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - MotorAuthority - MotorAuthority
 
