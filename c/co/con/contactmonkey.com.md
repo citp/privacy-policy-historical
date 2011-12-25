@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contactmonkey.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620215140id_/http%3A//contactmonkey.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactmonkey.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225032508id_/http%3A//contactmonkey.com/home/privacy) for the most accurate reproduction.*
 
 # ContactMonkey
 
