@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fthemes.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603220009id_/http%3A//fthemes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fthemes.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225132202id_/http%3A//fthemes.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Free WordPress Themes and Templates by FThemes.com
+# Privacy Policy - Free WordPress Themes
 
 ## Privacy Policy
 
