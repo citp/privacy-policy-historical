@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurulistsiphon.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615183448id_/http%3A//www.gurulistsiphon.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurulistsiphon.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225042520id_/http%3A//gurulistsiphon.com/privacy.php) for the most accurate reproduction.*
 
 # Guru List Siphon - Privacy Policy
 
