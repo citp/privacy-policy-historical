@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmoregistry.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625153919id_/http%3A//www.gmo-registry.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmoregistry.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225194234id_/http%3A//www.gmo-registry.com/en/privacy) for the most accurate reproduction.*
 
 # GMO Registry, Inc.｜Privacy Policy
 
@@ -192,4 +192,4 @@ Address: Cerulean Tower, 26-1 Sakuragaoka-cho,
 Shibuya-ku, Tokyo (150-8512) Japan  
 Phone: 03-5456-1601  
 Business hour: 9:00AM-6:00PM JST  
-Contact form: <https://www.gmo-registry.com/en/contact/>
+Contact form: <http://www.gmo-registry.com/en/contact/>
