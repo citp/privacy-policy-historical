@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the manipalworldnews.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315083009id_/http%3A//www.manipalworldnews.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manipalworldnews.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225201604id_/http%3A//manipalworldnews.com/privacy.asp) for the most accurate reproduction.*
 
 # ::Manipal World News::
 
-[](http://www.manipalworldnews.com/classifieds.asp?id=50)   
+[](http://nidhiace.com/Green_Fortune_ad/)   
 
 
 * * *
