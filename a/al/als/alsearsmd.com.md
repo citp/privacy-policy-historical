@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alsearsmd.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630135555id_/http%3A//www.alsearsmd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alsearsmd.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225101646id_/http%3A//www.alsearsmd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Health Newsletter
 
@@ -12,7 +12,7 @@ We will not sell, rent, or in any other way share your e-mail address with anyon
 
 You can remove your address from our mailing list by following the instructions at the end of every e-mail we send.
 
-If you receive unsolicited commercial e-mail (spam) that you believe came from us, please send an e-mail to [abuse@alsearsmd.com](mailto:abuse@alsearsmd.com).
+IIf you receive unsolicited commercial e-mail (spam) that you believe came from us, please send us an e-mail using our [online contact form](http://www.alsearsmd.com/contact-us/#form "Online contact form").
 
 ## Personal Information
 
@@ -38,7 +38,7 @@ Customer Service
 11903 Southern Blvd. Ste. 208  
 Royal Palm Beach, FL 33411
 
-Or you can email at [support@alsearsmd.com](mailto:support@alsearsmd.com) or call at 866.792.1035.
+Or you can email us using our [online contact form](http://www.alsearsmd.com/contact-us/#form "Online contact form") or call us toll-free at 1.866.792.1035.
 
 ## Cookies
 
