@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryder.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627113801id_/http%3A//www.ryder.com/privacypolicy_home.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryder.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225200405id_/http%3A//www.ryder.com/privacypolicy_home.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
