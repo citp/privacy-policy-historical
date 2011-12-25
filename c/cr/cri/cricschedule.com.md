@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the cricschedule.com privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224000751id_/http%3A//www.cricschedule.com/p/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricschedule.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225032618id_/http%3A//cricschedule.com/p/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - CricSchedule.com
-
-[](http://www.cricschedule.com/series/213-icc-world-cup-2011-schedule-fixtures.php "Cricket World Cup 2011 Schedule")
-
-Privacy Policy
 
 1.) For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
