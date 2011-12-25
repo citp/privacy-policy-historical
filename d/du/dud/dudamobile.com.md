@@ -1,65 +1,84 @@
-> *The following text is extracted and transformed from the dudamobile.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527003936id_/http%3A//www.dudamobile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dudamobile.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225021031id_/http%3A//www.dudamobile.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policies | DudaMobile
 
-**What information do we collect?**
+Effective Date: June 21, 2011
 
-We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form. 
+Duda Mobile, Inc. (" **we, our or us** ") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit [www.dudamobile.com](http://www.dudamobile.com/) (the " **Site** ") and when you use any part of our service available through the site or other related websites, toolbars, widgets, applications or distribution channels we may operate from (the " **Service** "). This Policy applies only to information that you provide to us through the Site or the Service, or when you access or use any content appearing on the Site or made available through the Service, or that we collect on your behalf as part of the Service.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+This Policy may be amended or updated from time to time. If we make any material changes to this Policy, we will post a notice of these changes on our website and in this Policy. You are advised to consult this Policy regularly for any changes. If you would like to be notified by email if and when material changes are made to this Policy, please send an email to [privacy@dudamobile.com](mailto:privacy@dudamobile.com).
 
- **What do we use your information for?**
+This Policy is an integral part of the Site's General Terms of Service (the " **Terms of Service** ").
 
-Any of the information we collect from you may be used in one of the following ways: 
+**1\. Information Collection**
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+Personally Identifiable Information.
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+In the course of using the Service, we will ask you to provide us with certain personally identifiable information that can be used to contact or identify you and administer your account (" **Personal Information** "), as well as enabling you to access certain restricted parts of the Site and the Service. Personal Information may include, but is not limited to, your name, mailing address, email address, company name and URL.
 
-• To process transactions
+Non Personally Identifiable Information.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+When you access the Site or use the Service, we collect the following:
 
-• To send periodic emails
+  * Information regarding your use of the Service, including, activity and visit behavior on your mobile website.
+  * Information that your browser sends whenever you visit a website or online service (" **Log Data** "). This Log Data may include, but is not limited to, your computer's Internet Protocol address, browser type, the web page you were visiting before you came to the Site and information you search for on the Site.
+  * Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use "persistent cookies" to save your username and login password for future logins to the Site. We use "session ID cookies" to enable certain features of the Service, to better understand how you interact with the Service and to monitor web traffic routing on the Site and aggregate usage of the Service. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the website you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Service.
+  * Third party websites which may advertise on the Site and other third parties that you interact with through your use of the Service may also place or read cookies on your computer's browser, which enables them to collect information about users who view or interact with their advertisements and content. The collection and use of such information and access of any third party websites are subject to such third party's privacy policy. **We encourage you to read the privacy policies and other terms of such third parties' websites before using their services.**
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
- **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Links to Other Websites
 
-We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+We may present links in a format that enables us to keep track of whether these links have been followed.
 
- **Do we disclose any information to outside parties?**
+Third Party Sites
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+This Policy applies only to the Service. We do not exercise control over websites that provide information, or over banners, other advertisements or links from within the Site or the Service. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites follow different rules regarding the use or disclosure of the Personal Information that you submit. We encourage you to read the privacy policies and other terms of the other websites.
 
- **California Online Privacy Protection Act Compliance**
+**2\. Our Policy Toward Children**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+We do not knowingly collect personally identifiable information from minors. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [privacy@dudamobile.com](mailto:privacy@dudamobile.com).
 
- **Childrens Online Privacy Protection Act Compliance**
+**3\. How We Use Personal Information**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+Personal Information is used for the following purposes: (i) to provide the Service, (ii) to administer your use of the Service and any accounts you may have with us, (iii) to personalize your experience, (iv) to provide to you service announcements, (v) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, such as newsletters, marketing or promotional materials, (vi) on behalf of and according to instructions of a third party, such as our advertising partners, (vii) to enforce our Terms of Service, (viii) to resolve any disputes between users of the Site or between such users and us, and (ix) to contact you to obtain feedback from you regarding the Site and the Service. **If you decide at any time that you no longer wish to receive such announcements, information or offers, please follow the unsubscribe instructions provided in the communication.**
 
- **Your Consent**
+We use information that is not Personal Information for the above purposes and in addition in order to (i) monitor and analyze use of the Service and for the technical administration of the Site, (ii) improve the Site and the Service, (iii) generate and derive useful data and information concerning the interests, characteristics and website use behavior of our users, and (iv) verify that users of the Service meet the criteria required to process their requests.
 
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
+In addition, we may post additional ancillary privacy notices with respect to specific services.
 
- **Changes to our Privacy Policy**
+**4\. Information Sharing and Disclosure**
 
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
+  * Disclosure by you of information of other users. The sending of unwanted messages from one user to another is strictly forbidden. **Personal Information of another user obtained through your use of the Site or the Service may be used by you only for the purpose for which such information was provided to you and strictly in accordance with the Terms of Service and this Policy, or otherwise subject to such user's prior written consent.**
+  * Your Submissions. Any information you choose to provide in a comment or a submission on the Site or the Service will be publicly available and should reflect how much you want other users to know about you. **We recommend that you guard your anonymity and sensitive information and we encourage you to think carefully about what information about yourself you disclose in your comments or submissions.** If you disclose your Personal Information to others, whether or not they are users of the Site, on our Site or through the Service or otherwise, different rules may apply to their use or disclosure of the information you disclose to them
+  * Aggregate Information and Non-Identifying Information. We may share aggregated information, including reports generated as a result of your use of the Service that includes non-identifying information and Log Data, with third parties for industry analysis, demographic profiling, other commercial purposes and to deliver targeted advertising about other products and services. Any aggregated information shared in these contexts will not contain your Personal Information.
+  * Combined Information. We may combine certain Personal Information with non Personal Information in order to allow us to create information packages and services that are better tailored to your interests and preferences. Among other things, linking this information may allow us generally to improve and personalize the Site and the Service. If we combine or link any information with your Personal Information, the resulting combination will be treated as Personal Information under this Policy.
+  * Service Providers. We may employ third party companies and individuals to facilitate the Service, to provide the Service on our behalf and to perform services related to administration of the Service or the Site (including, without limitation, maintenance, payments, hosting and database management services, web analytics and administration). These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated to comply with this Policy.
+  * Compliance with Laws and Law Enforcement. We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect our or a third party's property and rights, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable.
+  * Business Transfers. We may sell, transfer or otherwise share some or all of our assets, including among others your Personal Information and Log Data, in connection with a merger, acquisition, reorganization or sale of all or substantially all of our shares or assets, or in the event of our bankruptcy.
 
-This policy was last modified on 05/24/2010
+**5\. Changing or Deleting Your Information**
 
- **Contacting Us**
+Our users may review, update, correct or delete the Personal Information, if not required to be retained by law or for legitimate business reasons. If you completely delete all such information, your account may be deactivated.
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+In addition, we may delete any information provided by you or related to you, pursuant to our policies as then in effect.
 
-http://www.dudamobile.com  
-[info@dudamobile.com](mailto:info@dudamobile.com)  
-  
+**6\. Security**
 
- 
+We are concerned with safeguarding your information. We employ a variety of measures designed to protect your information from unauthorized access and disclosure. However, we do not promise that your Personal Information or private communications will be protected from unauthorized disclosure or use. PLEASE DO NOT PROVIDE ANY PRIVILEGED INFORMATION ON THE SITE OR WHEN USING THE SERVICE.
+
+If you receive an e-mail asking you to update your Personal Information, do not reply and please contact us at [privacy@dudamobile.com](mailto:privacy@dudamobile.com).
+
+**7\. International Processing or Transfer**
+
+Your information may be processed, maintained or transferred outside of your state, where the privacy laws may not be as protective as those in your jurisdiction.
+
+**8\. Contacting Us**
+
+If you have any concerns or questions about this Policy, please contact us at [privacy@dudamobile.com](mailto:privacy@dudamobile.com).
+
+Copyright © 2011, Duda Mobile, Inc. All rights reserved.
+
+  
+
+
