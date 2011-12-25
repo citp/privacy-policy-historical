@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mobilelocalfusion.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510145901id_/http%3A//www.mobilelocalfusion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilelocalfusion.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225052728id_/http%3A//www.mobilelocalfusion.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Mobile Local Fusion
+# Privacy Policy | Mobile Local Fusion
 
 Infomastery LLC Privacy Policy
 
-Last Updated May 1, 2010
+Last Updated Sep 13, 2011
 
 Our Commitment To Privacy
 
@@ -67,3 +67,9 @@ Infomastery
 Austin, TX 78735
 
 Should you have other questions or concerns about these privacy policies, please call us at 512 892-3022 or send us an email at: support@drivingtraffic.com
+
+**Unsubscribe Options**
+
+If you for any reason you do not wish to receive emails from us anymore then there is a safe unsubscribe link at the bottom of EVERY email we send you. You can either find a past email we’ve sent you, or on the latest one you’ve received just find the ‘unsubscribe’ link at the bottom to be opted-out of our email list. We promise to never spam you, or make it difficult for you to stop receiving any of our emails. 
+
+We believe out content is valuable for you to have and only want you receiving it if you feel the same way and want to receive it. If you ever have any issues with unsubscribing, or need assistance on how to unsubscribe please email support@drivingtraffic.com and our customer satisfaction team will be happy to assist you. Again, **you can unsubscribe at any time** for any reason whatsoever.
