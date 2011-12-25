@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdesignerdepot.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623024217id_/http%3A//www.webdesignerdepot.com/disclaimer-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesignerdepot.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225132410id_/http%3A//www.webdesignerdepot.com/disclaimer-and-privacy-policy) for the most accurate reproduction.*
 
 # Disclaimer and Privacy Policy | Webdesigner Depot
 
@@ -30,5 +30,8 @@ We have appropriate security measures in place in our physical facilities and th
  **Affiliate Programs, sponsored posts, etc**  
 From time to time we may choose to use affiliate links and/or sponsored posts as an effort to generate extra income to our website. The appearance of such links or sponsored content in this blog is determined by its informational or inspirational value and not by its commercial value to us. We will only promote products and services that we like and feel are beneficial to our audience.
 
- **Privacy Contact  
+ **Third party advertising**  
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>
+
+**Privacy Contact  
 If you feel that this Website is not following this Privacy Policy, you may contact us at with your concerns.**
