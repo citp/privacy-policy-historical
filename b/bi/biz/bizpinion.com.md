@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizpinion.com privacy policy that was archived on 2010-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100910203217id_/http%3A//bizpinion.com/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizpinion.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226004023id_/http%3A//www.bizpinion.com/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Note: Your personal information will
 
