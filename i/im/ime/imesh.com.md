@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the imesh.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625180654id_/http%3A//www.imesh.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imesh.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225104210id_/http%3A//www.imesh.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # iMesh - Over 15,000,000 Music downloads and MP3's - 100% legal
 
-Welcome to iMesh. We want you to know that we respect your privacy and that we value your business. This privacy statement covers the iMesh software, iMesh MediaBar and the iMesh website ([www.imesh.com](https://web.archive.org/web/20110625180654id_/http%3A//www.imesh.com/)). In order to ensure your privacy we want you to know the details of what information we collect and what we do with it.
+Welcome to iMesh. We want you to know that we respect your privacy and that we value your business. This privacy statement covers the iMesh software, iMesh MediaBar and the iMesh website ([www.imesh.com](https://web.archive.org/web/20111225104210id_/http%3A//www.imesh.com/)). In order to ensure your privacy we want you to know the details of what information we collect and what we do with it.
 
 **INFORMATION COLLECTION**  
 iMesh takes your privacy very seriously. In order to provide you with the highest quality service, we do collect certain information from you in accordance with the following guidelines.
@@ -86,4 +86,4 @@ We take every reasonable precaution to protect information from misuse, loss and
 If we decide to change our privacy policy, we will post those changes to this privacy statement and on our homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify registered users by way of an e-mail or instant messaging or similar method, and/or by posting a notice on our website.
 
 **QUESTIONS**  
-If you have questions or concerns regarding this please email us at [privacy@imesh.com](mailto:privacy@imesh.com). You can also contact us by sending us postal mail at iMesh. 635 Madison Ave. 6th Floor, New York, NY 10022, Attn: PRIVACY OFFICER. 
+If you have questions or concerns regarding this please email us at [privacy@imesh.com](mailto:privacy@imesh.com). You can also contact us by sending us postal mail at iMesh. 40 Kimonos St. 3095 Limassol, Cyprus. 
