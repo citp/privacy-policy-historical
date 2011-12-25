@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interest.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311202057id_/http%3A//mortgages.interest.com/content/general/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interest.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225200451id_/http%3A//www.interest.com/privacy-policy) for the most accurate reproduction.*
 
-# Mortgages, home loans and interest rates- Interest.com
+# Privacy Policy - Interest.com
 
 Interest.com takes your privacy seriously, and has published this Privacy Policy to explain how Interest.com treats all information you may submit to www.interest.com, except that information which is submitted pursuant to a sweepstakes entry. Refer to the Official Rules and Privacy Policy for each individual sweepstakes for Interest.com's specific policies regarding information sharing and disclosure pursuant to sweepstakes entry. 
 
