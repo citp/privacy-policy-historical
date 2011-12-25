@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skipmcgrath.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311031826id_/http%3A//www.skipmcgrath.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skipmcgrath.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225171435id_/http%3A//www.skipmcgrath.com/privacy.shtml) for the most accurate reproduction.*
 
 # Auction Seller's Resource Privacy Policy
 
@@ -23,8 +23,11 @@ We use your IP address to help diagnose problems with our server and to administ
 **External Links**  
 This site contains links to other sites. We are not responsible for the privacy practices or the content of such websites. 
 
+**Amazon Services LLC Associates Program**  
+Harry McGrath, Inc., DBA Skip McGrath, Auction Seller's Resource and Vision-One Marketing is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
+
 **Policy Changes**  
 We reserve the right to change our policy from time to time. A revised policy will apply to information collected after the date the policy is changed. 
 
 **Effective Date**  
-This policy is effective as of October 9, 2007. 
+This policy is effective as of March 17, 2011. 
