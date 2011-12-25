@@ -1,6 +1,73 @@
-> *The following text is extracted and transformed from the lfstmedia.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627051841id_/http%3A//lfstmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lfstmedia.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225232644id_/http%3A//lfstmedia.com/privacy) for the most accurate reproduction.*
 
 # LifeStreet Media - Privacy Policy
+
+LifeStreet Corporation and LifeStreet International together with their subsidiaries and affiliates (collectively **"LifeStreet"** or **"we"** ) provides an ad network for advertisers and publishers to access certain proprietary technologies and processes to distribute their advertising campaigns (collectively **"Ad Network"** ). The following Privacy Policy describes the type of information LifeStreet collects from consumers through the Ad Network; how that information is secured; how that information is used; and the choices you have regarding the collection and use of such information. A separate privacy policy is in effect for LifeStreet's web sites, which may be viewed here.
+
+#### Type of Information Collected and Use of Information.
+
+#### Personally Identifiable Information
+
+LifeStreet does not collect any personally identifiable information about you, including, but not limited to, your name, email address, mailing address, social security number, credit card information, bank account information and telephone or cell phone number ( **"PII"** ).
+
+#### Non-Personally Identifiable Information
+
+Through its proprietary technology, LifeStreet collects non-personally identifiable information about consumers who access advertising and other content through their systems, their publishers' systems and their advertisers' systems. This includes, but is not limited to, IP addresses, browser type, web page views, application views, date, time and domains. ( **"Non-PII"** ) We use the following technology to obtain this Non-Personally Identifiable Information:
+
+  * **Cookies, Web Beacons, and Other Info Collected Using Technology** LifeStreet currently uses cookie and web beacon technology to collect certain Internet-related or ad-related information about you.
+
+  * (a)
+
+ **Cookies** "Cookies" are a feature in your browser software. If enabled, Cookies may store small amounts of data on your computer about your visit to any of the pages of a website or the use of an application. Cookies assist us in tracking which kinds of information and advertisements appeal the most to you and what content you may have viewed on past visits. Cookies enable us to customize content and advertisements according to your preferences. We may use cookies for purposes including: keeping track of the number of return visits; accumulating and reporting statistical information on website or application usage; delivering specific content and advertisements to you based on your interests or past viewing history. You can disable cookies, although some sites or applications may not function properly for you if you do so. Your browser preferences can be modified to accept or reject all cookies, or request a notification when a cookie is set. You may read more about cookies at http://cookiecentral.com. In order to use all of the features and functionality of many websites and applications, you need to accept cookies.
+
+  * (b)
+
+ **Web Beacons** A web beacon is a programming code that can be used to display an image on a web page, but can also be used to transfer your unique, anonymous user identification to a database and associate you with previously acquired information about an individual in a database. They are also known as "clear gifs", "one-pixel gifs", "web bugs", "Internet tags", or "pixel tags." This allows LifeStreet to track certain websites you visit or applications you use. Web beacons are used to track online behavioral habits for marketing purposes to determine products or services you may be interested in.
+
+  * (c)
+
+ **IP Addresses** Your Internet Protocol ("IP") is a unique Internet "address" which is assigned to you by your Internet Service Provider ("ISP"). For local area networks ("LAN"), and accounts provided by some ISP's, an IP address may be permanently assigned to a particular computer. IP addresses are automatically logged by LifeStreet's Web servers, collecting information about a user's traffic patterns. While the IP address does not identify an individual by name, it may, with the cooperation of the ISP, be used to locate and identify an individual using the Web. Your IP address can, however, reveal what geographic area you are connecting from, or which ISP you are using.
+
+  * (d)
+
+ **Computer Profiles** LifeStreet may also collect and accumulate other anonymous data which will help us understand and analyze the Internet experience of consumers. For instance, LifeStreet may accumulate visitor data relating to referring domain names, the type of browsers used, operating system software, screen resolutions, color capabilities, browser plug-ins, language settings, cookie preferences, search engine keywords and JavaScript enablement. 
+
+
+
+
+#### How Information is Shared
+
+#### Disclosure of Non-Personally Identifiable Information to Business Partners
+
+With respect to data collected via our Ad Network, including user behavior data, we may combine the Non-PII we collect with Non-PII obtained from other sources. We may also disclose this Non-PII and combined information to participating Advertisers, Publishers and other business partners to improve the relevance and effectiveness of the advertising presented to consumers. For example, we use data collected via our Ad Network to create anonymous consumer segments. These segments will be used to target and optimize Advertiser campaigns.
+
+#### Complying with Legal Process
+
+LifeStreet will use or disclose your Non-PII in response to subpoenas, court orders, warrants, or legal process, or to otherwise establish or exercise LifeStreet's legal rights or defend against legal claims or in the event of a breach in an agreement with LifeStreet. LifeStreet will use and disclose your Non-PII if LifeStreet believes that a user of this Site or Business Client will harm the property or rights of LifeStreet, its owners, or LifeStreet's other customers. Finally, LifeStreet will use or disclose Non-PII if it believes it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person.
+
+#### Merger or Sale of LifeStreet
+
+If LifeStreet sells, merges or otherwise reorganizes its business, it reserves the right to transfer and disclose Non-PII to the purchaser or investors.
+
+#### Compliance with Laws and Law Enforcement
+
+LifeStreet cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We may disclose Non-PII to government or law enforcement officials or private parties if, in our discretion, we believe it is necessary or appropriate in order to respond to legal requests (including court orders and subpoenas), to protect the safety, property or rights of LifeStreet or of any third party, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
+
+#### Security
+
+We do not collect and therefore do not store consumer PII. LifeStreet uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of all Non-PII. Access to information is strictly limited, and not accessible to the public. However, please be advised that, although LifeStreet takes reasonable technological precautions to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, LifeStreet cannot and does not warrant that your information will be absolutely secure.
+
+#### No PII Collected from Children
+
+Because it does not knowingly collect PII from children under the age of 13, LifeStreet has no such information about children under the age of 13 to use or to disclose to third parties.
+
+#### Third Party Information Collection and Use
+
+Through the use of our services you may be linked to our client's websites or applications. Such websites may use cookies and/or other data collection tools. LifeStreet is not responsible for the privacy practices, policies or content of those websites. LifeStreet has no control over any third party website or application and thus does not control the collection, storage or use of information by or through third party websites. The privacy policies of those websites or applications should be reviewed at the time you access them or enter any information into them.
+
+#### Contact Information
+
+If you have any questions, please feel free to contact us at [privacy@lifestreet.com](mailto:privacy@lifestreet.com "privacy@lifestreet.com").
 
 LifeStreetMedia.com (the "Website") is an Internet property of LifeStreet ("us" or "we"). We provide this privacy policy ("Privacy Policy) so that we may inform you about how our technology ("Technology") processes information on behalf of the online advertisers, website owners and other businesses that use our services. You agree to this Privacy Policy, in its entirety, when you: (1) access or use the Website; and/or (2) apply for any information or services available through the Website ("Services"). If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website or apply for the Services.
 
