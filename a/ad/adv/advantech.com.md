@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advantech.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626092943id_/http%3A//www.advantech.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advantech.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225205320id_/http%3A//www.advantech.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Advantech - industrial computer , industrial chassis, embedded computer, industrial motherboard, network security appliance, industrial automation, digital video surveillance, panel PC, industrial IO
 
