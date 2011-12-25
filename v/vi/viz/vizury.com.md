@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vizury.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224124707id_/http%3A//vizury.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vizury.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225232615id_/http%3A//www.vizury.com/website/privacypolicy.html) for the most accurate reproduction.*
 
-# Vizury Interactive - Digital Marketing
+# 1:1 Marketing, Dynamic Personalised Retargeting
 
 **Our Commitment**
 
@@ -28,9 +28,17 @@ Vizury's technology utilizes cookies in the delivery of advertisements to our Ad
 
 The NPII data collected by Vizury in the above outlined process of Retargeting will be kept by Vizury indefinitely; and maintained and archived in our secured servers. This information is used strictly for reporting purposes and is not tied to personal information. 
 
-**How to Opt-Out of Vizury�s Services**
+**How to Opt-Out of Vizury's Services**
 
-At any time you may Opt-Out of Vizury�s services; however please note that by Opting-Out, you will not be able to take full advantage of Retargeted advertising. You are free to delete all cookies on your browser, or to have your browser notify you when a cookie is set - simply check your browser settings to do so. By deleting your cookies in this manner, you will disable Vizury and it's Partners to deliver ads that are targeted to your interests. You will have to clear your cookies each time you visit Vizury.com or one of our Advertiser's websites to ensure you are not receiving Retargeted advertisements. Another way to Opt-Out is to **[CLICK THIS LINK](https://web.archive.org/web/20101224124707id_/http%3A//vizury.com/optout.php)**. When you Opt-Out of Vizury's services in this manner, a cookie will be set on your browser. Vizury must maintain the cookie on your browser in order to recognize you as an Opted-Out visitor. You must Opt-Out again if you clear that cookie from your browser, use a different internet browser, or use a new computer to access the internet. 
+At any time you may Opt-Out of Vizury's services; however please note that by Opting-Out, you will not be able to take full advantage of Retargeted advertising. You are free to delete all cookies on your browser, or to have your browser notify you when a cookie is set - simply check your browser settings to do so. By deleting your cookies in this manner, you will disable Vizury and it's Partners to deliver ads that are targeted to your interests. You will have to clear your cookies each time you visit Vizury.com or one of our Advertiser's websites to ensure you are not receiving Retargeted advertisements.
+
+“Another way to Opt-Out:
+
+Please [CLICK THIS LINK](javascript:newPopup\('optout.html'\);) to Opt Out
+
+Please [CLICK THIS LINK ](http://www.vizury.com/website/optin.php)if you had opted out earlier, but now want to Opt back into Vizury 1:1 Marketing."
+
+When you Opt-Out of Vizury's services in this manner, a cookie will be set on your browser. Vizury must maintain the cookie on your browser in order to recognize you as an Opted-Out visitor. You must Opt-Out again if you clear that cookie from your browser, use a different internet browser, or use a new computer to access the internet. 
 
 **Security**
 
