@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the invitemedia.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231214425id_/http%3A//www.invitemedia.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitemedia.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225193425id_/http%3A//www.invitemedia.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Invite Media - Next generation platform for display media trading
 
-**Effective: August 16, 2010**
+**Effective: September 1, 2011**
 
 Invite Media (“we” or “us”), headquartered in the United States, is an online advertising and technology company. We provide this privacy policy so that we may inform you about how our technology (“Technology”), based on Bid Manager™, processes information on behalf of online advertisers, website owners and other businesses that use our services (our “Clients”). This policy also outlines our privacy practices on our corporate Website (“Website”), www.invitemedia.com. 
 
@@ -27,7 +27,7 @@ We collect Non-Personally Identifiable Information (“Non-PII”) via our Techn
 
 **Cookies and Web Beacons**  
 ****  
-Our technology uses cookies in conjunction with Web beacons in order to help make the online advertisements you see more relevant to you. We also use cookies and web beacons to understand your and your network neighbors' browsing and buying activities so that we can measure the success of our online advertising campaigns, and the campaigns of our Clients.
+Our technology uses cookies in conjunction with Web beacons in order to help make the online advertisements you see more relevant to you. We also use cookies and web beacons so that we can measure the success of our online advertising campaigns, and the campaigns of our Clients.
 
 **What are cookies?**  
 ****  
@@ -35,7 +35,7 @@ Cookies are small text files that web servers typically send to users’ compute
 
 ****HOW IS OUR INFORMATION SECURED AND PROTECTED?**  
 ****  
-** All of the user data collected by Invite Media is stored only in aggregate form, meaning that information about a specific user cannot be retrieved. Even so, we maintain physical, electronic, and administrative safeguards to protect all our data from accidental, unauthorized or unlawful access, use, modification, disclosure, loss, or destruction. The data is kept on a secure server and we restrict access to the data solely to authorized users. No security measures, however thorough, are perfect and there can be no absolute assurance of security and therefore, we cannot and do not offer an absolute guarantee or warrant the security of the information we possess. **
+** All of the user data collected by Invite Media is stored only in anonymous form, meaning that information about a specific user cannot be retrieved. Even so, we maintain physical, electronic, and administrative safeguards to protect all our data from accidental, unauthorized or unlawful access, use, modification, disclosure, loss, or destruction. The data is kept on a secure server and we restrict access to the data solely to authorized users. No security measures, however thorough, are perfect and there can be no absolute assurance of security and therefore, we cannot and do not offer an absolute guarantee or warrant the security of the information we possess. **
 
 **INFORMATION STORAGE AND SECURITY**
 
@@ -65,6 +65,8 @@ Also, in the event Invite Media is merged into another company, or another compa
 
 **CONTROLLING THE USE OF YOUR INFORMATION**
 
+Invite Media adheres to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising, [http://www.aboutads.info](http://www.aboutads.info/).
+
 **Opt-out from our cookies**  
 ****  
 If you’d like to opt-out from having Invite Media collect your Non-PII in connection with our Technology, please click[here](http://assets.invitemedia.com/opt-out.html). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to tailor our online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
@@ -87,8 +89,9 @@ We may revise this Policy at any time. Any changes and/or updates to the Policy 
 ****  
 Should you have any questions in regards to this Policy or Invite Media’s privacy practices, please contact our representatives at the following email and they will be more than happy to clarify and assist you in any way possible:[privacy@invitemedia.com](mailto:privacy@invitemedia.com), 866.422.0567, or by mail at: 
 
-Invite Media, Inc.  
-135 West 20th Street, 5th Floor  
+Google  
+ATTN: Invite Media, Inc.  
+76 9th Avenue, 4th Floor  
 New York, NY 10011 
 
   
