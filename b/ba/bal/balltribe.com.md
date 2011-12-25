@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the balltribe.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531160433id_/http%3A//balltribe.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balltribe.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225131539id_/http%3A//balltribe.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Ball Tribe
+# BallTribe - Privacy Policy
 
 Ball Tribe was founded on the principles of helping sports bloggers and sports fans discover new sports information by enabling them to share what they find interesting with one another. Ball Tribe knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting the Ball Tribe website, you are accepting the practices outlined in this Privacy Policy.
 
