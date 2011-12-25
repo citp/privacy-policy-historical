@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elevatedtraffic.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626043611id_/http%3A//elevatedtraffic.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elevatedtraffic.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225211218id_/http%3A//elevatedtraffic.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # Elevated Traffic | Traffic that Elevates your Business
 
