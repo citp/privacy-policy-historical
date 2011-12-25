@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triathlon.org privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626134931id_/http%3A//www.triathlon.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triathlon.org privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225101500id_/http%3A//www.triathlon.org/privacy_policy) for the most accurate reproduction.*
 
 # Triathlon.org - International Triathlon Union
 
@@ -22,7 +22,7 @@ You may access this Site’s home page and browse the Site without disclosing an
 
 Any personal data relating to you will be used and recorded by us in accordance with current data protection legislation and this Privacy Policy. We may use your personal information to communicate with you, such as to let you know about new features or offerings on triathlon.org, for record keeping purposes, and in aggregate (and therefore anonymously) for market research purposes, to track activity on our site, to publish trends and/or to improve usefulness and content and for any other purpose that we may notify to you and the relevant data protection authority from time to time.
 
-We may operate a mailing list to send you triathlon related news. This mailing list currently operates as a ‘opt in’ mailing list whereby subscribers add themselves to the list. We only send emails to addresses, which have been subscribed to the list, we do not ‘spam’. If you wish to unsubscribe from the list click unsubscribe available at the foot of every newsletter or please e-mail us at [info@triathlon.org](mailto:info@triathlon.org). We currently do not share, licence or sell these e-mail addresses.
+We may operate a mailing list to send you triathlon related news. This mailing list currently operates as a ‘opt in’ mailing list whereby subscribers add themselves to the list. We only send emails to addresses, which have been subscribed to the list, we do not ‘spam’. If you wish to unsubscribe from the list click unsubscribe available at the foot of every newsletter or please e-mail us at info@triathlon.org. We currently do not share, licence or sell these e-mail addresses.
 
 We reserve the right to disclose your personal information to anyone who may take over the running of the Site or who may purchase any or all of our assets including your personal information. We reserve the right to disclose your personal information to any law enforcement agency requesting it in connection with the commission of any offence, once we are reasonably satisfied as to the circumstances surrounding the request. We also reserve the right to access and disclose your personal information in order to comply with applicable laws a lawful government requests, to operate our systems properly or to protect our users and ourselves.
 
@@ -48,8 +48,8 @@ Some of our business partners (for example, advertisers) may use cookies on our 
 
 #### Correcting and Updating Personal Information
 
-If your personal information changes, or if you believe that the personal data we hold about you is incorrect, you may ask us to correct or update the personal information held by us by sending an email to [info@triathlon.org](mailto:info@triathlon.org)
+If your personal information changes, or if you believe that the personal data we hold about you is incorrect, you may ask us to correct or update the personal information held by us by sending an email to info@triathlon.org
 
 #### Privacy Support
 
-If you have any enquiry or concern about our privacy policy, please email us at [info@triathlon.org](mailto:info@triathlon.org)
+If you have any enquiry or concern about our privacy policy, please email us at info@triathlon.org 
