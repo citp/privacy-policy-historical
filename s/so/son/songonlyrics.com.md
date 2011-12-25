@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the songonlyrics.com privacy policy that was archived on 2011-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110326023325id_/http%3A//www.songonlyrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songonlyrics.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225130641id_/http%3A//www.songonlyrics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Song Lyrics-Music Lyrics-Newest Lyrics With Video
+# Privacy Policy
+
+### Privacy Policy
 
 **Privacy Policy**
 
@@ -15,5 +17,3 @@ We do use cookies to store information, such as your personal preferences when y
 Advertisements served by Google, as a third party vendor, use DART cookies. These cookies are used to serve ads based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
-
-Newest Song Lyrics Archive-New Music Lyrics with Video.All lyrics are property and copyright of their owners. All lyrics provided for educational purposes only.
