@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themetapicture.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621075944id_/http%3A//themetapicture.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themetapicture.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225012042id_/http%3A//themetapicture.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | The Meta Picture
 
 The Meta Picture is founded on the principles of helping people to discover new information by enabling them to share what they find interesting with one another. By visiting the The Meta Picture website, you are accepting the practices outlined in this Privacy Policy.
 
