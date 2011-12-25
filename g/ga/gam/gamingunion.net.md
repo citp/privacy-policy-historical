@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the gamingunion.net privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515114144id_/http%3A//www.gamingunion.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingunion.net privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225012106id_/http%3A//www.gamingunion.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - GamingUnion.net
-
-## Privacy Policy
-
-* * *
+# Privacy Policy | GamingUnion.net
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. We believe that a strong guarantee of privacy is essential to our success and to your ongoing patronage. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be voluntarily supplied or requested. This notice applies to all information collected or submitted on this website.
 
@@ -25,11 +21,3 @@ We use return email addresses to answer the email we receive. Such addresses are
 * * *
 
 We partner with ValueClick Media to serve ads and/or collect certain information when you visit our website. ValueClick Media may use cookies or web beacons to collect non-personally identifiable information (e.g. visits to this site, responses to ads) during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
-
-Come join our community today. Take part in casual conversations as well as in-depth discussions of your favorite video games. 
-
-Gaming Union Members enjoy a plethora of benefits like the exclusive auction house, taking advantage of Gaming Union Points and bidding on items, including games, action figures and other such merchandise. 
-
-Recent Posts Popular Threads   
-  
-
