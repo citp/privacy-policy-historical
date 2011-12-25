@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the videologygroup.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217155837id_/http%3A//videologygroup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videologygroup.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225181146id_/http%3A//www.tidaltv.com/privacy.html) for the most accurate reproduction.*
 
 # TidalTV | Privacy Policy
 
 TidalTV is a video advertising, optimization, and yield management solutions provider that leverages the power of data and technology to help advertisers meet their specific brand and/or response objectives and enable publishers to fulfill the value of their audiences. 
 
-TidalTV is a member of the Network Advertising Initiative (NAI). Our practices conform with the [NAI’s Self-Regulatory Code](http://www.networkadvertising.org/networks/2008%20NAI%20Principles_final%20for%20Website.pdf)
+In addition, through TidalTV’s VideologySM service in the U.S., and its wholly-owned subsidiary, Videology Ltd., in the United Kingdom, advertisers and publishers can take advantage of technology solutions to deliver, manage, target and measure the effectiveness of their online video advertising campaigns and inventory. 
 
-TidalTV conforms to Interactive Advertising Bureau's (IAB) Cross-Industry Privacy Guidelines for Interactive Advertising. 
+TidalTV is a member of the Network Advertising Initiative (NAI). Our practices conform with the NAI’s Self-Regulatory Code. 
 
-To access the TidalTV Privacy Dashboard, review your ad preferences and opt-out of TidalTV targeted advertising please [click here](https://web.archive.org/web/20101217155837id_/http%3A//videologygroup.com/PrivacyDashboard.aspx).
+TidalTV conforms to [Interactive Advertising Bureau's (IAB) Cross-Industry Privacy Guidelines for Interactive Advertising](http://www.iab.net/media/file/ven-principles-07-01-09.pdf). 
+
+To access the TidalTV Privacy Dashboard, review your ad preferences and opt-out of TidalTV targeted advertising (or Videology Ltd. if you reside in the United Kingdom) please [click here](https://web.archive.org/web/20111225181146id_/http%3A//www.tidaltv.com/PrivacyDashboard.aspx).
 
 **What this privacy policy covers**
 
-This policy covers how TidalTV treats information that TidalTV collects and receives through our services, which include TidalTV's video advertising and ad targeting solutions and any other technology, products and/or services offered by TidalTV (collectively referred to as the 'Services'), including your past use of the Services. For more information about our Services, please [click here](https://web.archive.org/web/20101217155837id_/http%3A//videologygroup.com/index.html). 
+This policy covers how TidalTV treats information that TidalTV collects and receives through our services, which include TidalTV's video advertising and ad targeting solutions and any other technology, products and/or services offered by TidalTV (collectively referred to as the 'Services'), including your past use of the Services. For more information about our Services, please [click here](https://web.archive.org/web/20111225181146id_/http%3A//www.tidaltv.com/index.html). 
 
 This policy does not apply to information about you collected by TidalTV's third party advertisers and publishers, or other third parties linked to or otherwise accessible via the Services. The information collected or received by any such providers and third parties is subject to their own privacy policies.
 
@@ -24,7 +26,7 @@ TidalTV does not require you to provide personal information in order to use man
 
 **Non-Personally Identifiable Information**
 
-When you visit a web site that uses our video advertising solution and view an advertisement that we've served to that site, TidalTV uses cookies and other technologies to record and store anonymous information about your interaction with the Services, most commonly known as 'click-stream data'. Click-stream data can include information such as IP address, date/time of visit, browser type, web pages visited and information on your interaction with the Services, including whether you interacted with the advertisement (e.g., viewed the ad to completion or clicked on the ad), and what content you viewed. For more detailed information on cookies and web beacons, please see our [FAQs](https://web.archive.org/web/20101217155837id_/http%3A//videologygroup.com/faq.html) . 
+When you visit a web site that uses our video advertising solution and view an advertisement that we've served to that site, TidalTV uses cookies and other technologies to record and store anonymous information about your interaction with the Services, most commonly known as 'click-stream data'. Click-stream data can include information such as IP address, date/time of visit, browser type, web pages visited and information on your interaction with the Services, including whether you interacted with the advertisement (e.g., viewed the ad to completion or clicked on the ad), and what content you viewed. For more detailed information on cookies and web beacons, please see our [FAQs](https://web.archive.org/web/20111225181146id_/http%3A//www.tidaltv.com/faq.html) . 
 
 In order to optimize the effectiveness of the Services for our clients, we supplement the click-stream data we collect with non-personally-identifiable behavioral and demographic data from third party data providers, publishers and other partners we work with. This anonymous data may include such things as zip code, age, gender and income range. 
 
@@ -60,9 +62,9 @@ TidalTV and its advertisers may use third party ad networks and technology provi
 
 **Cookie Opt-Out & Reviewing Your Ad Preferences**
 
-TidalTV believes users should have information necessary to make informed decisions and the right to choose how their information is used. We provide you with the ability to opt-out of our use of your click-stream data in order to deliver tailored, more relevant advertising. To opt-out of TidalTV cookies, please [click here](https://web.archive.org/web/20101217155837id_/http%3A//videologygroup.com/PrivacyDashboard.aspx).
+TidalTV believes users should have information necessary to make informed decisions and the right to choose how their information is used. We provide you with the ability to opt-out of our use of your click-stream data in order to deliver tailored, more relevant advertising. To opt-out of TidalTV cookies, please [click here](https://web.archive.org/web/20111225181146id_/http%3A//www.tidaltv.com/PrivacyDashboard.aspx).
 
-We also provide you with the ability to review the non-personally identifiable interest-based information we maintain for purposes of providing you with more tailored, relevant advertising. You can visit the [TidalTV Privacy Dashboard](https://web.archive.org/web/20101217155837id_/http%3A//videologygroup.com/PrivacyDashboard.aspx) to view the data elements we use to target ads to you, if any, and make the decision on whether to opt-out of interest-based advertising. 
+We also provide you with the ability to review the non-personally identifiable interest-based information we maintain for purposes of providing you with more tailored, relevant advertising. You can visit the [TidalTV Privacy Dashboard](https://web.archive.org/web/20111225181146id_/http%3A//www.tidaltv.com/PrivacyDashboard.aspx) to view the data elements we use to target ads to you, if any, and make the decision on whether to opt-out of interest-based advertising. 
 
 **Personal Information**
 
@@ -97,7 +99,7 @@ The Services are not developed or intended for children. If you believe your chi
 
 **A Special Note about the European Union**
 
-We may transfer your personal information to TidalTV in the United States of America or to third parties acting on our behalf, for the purposes of processing or storage, and by providing any personal information to us you fully understand and unambiguously consent to the transfer, processing and storage of such information in the United States of America. 
+TidalTV’s wholly-owned subdiary, Videology Ltd., may transfer your personal information to TidalTV in the United States of America or to third parties acting on our behalf, for the purposes of processing or storage, and by providing any personal information to us you fully understand and unambiguously consent to the transfer, processing and storage of such information in the United States of America. 
 
 **How to Contact Us**
 
@@ -105,15 +107,15 @@ If you have any questions or concerns about TidalTV's Privacy Policy or its impl
 
 Privacy  
 TidalTV, Inc.  
-720 S. Montford Ave. - Suite 200  
-Baltimore, MD 21224
+1500 Whetstone Way, Suite 500  
+Baltimore, MD 21230
 
 
 **Changes to this Privacy Policy and Additional Information**
 
 TidalTV may update this Privacy Policy from time to time, and so you should review this policy periodically. If there are significant changes to TidalTV's information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from the Services, as well as for special features and services not described in this Policy that may be introduced in the future.
 
-Last Updated: December 1, 2010
+Last Updated: April 13, 2011
 
   * [Return to Top]
 
