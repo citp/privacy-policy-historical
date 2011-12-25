@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woorank.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205182952id_/http%3A//www.woorank.com/en/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woorank.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225130020id_/http%3A//www.woorank.com/en/p/privacy) for the most accurate reproduction.*
 
 # Privacy | WooRank
 
