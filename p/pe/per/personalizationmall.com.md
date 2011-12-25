@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personalizationmall.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627074148id_/http%3A//www.personalizationmall.com/StaticPage.aspx%3Fpageid%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalizationmall.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225230250id_/http%3A//www.personalizationmall.com/StaticPage.aspx%3Fpageid%3D26) for the most accurate reproduction.*
 
 # Privacy Policy | PersonalizationMall.com
 
@@ -18,7 +18,7 @@ Like most Internet retailers, PMall collects some computer information to enhanc
 
 PMall is not in the business of selling PII and does not rent, sell, or otherwise provide your PII for third-party marketing or solicitation purposes. PMall may share PII with its business partners and affiliates as part of PMall's marketing, promotion, sale and fulfillment of its products and services, but PMall will not permit PII to be used for third-party marketing or solicitation purposes. Customer reviews may be published on the Website, viewable by both registered users and visitors and are subject to the Customer Review Posting Policy & Agreement. PMall also may collect, share, sell and use information in aggregate form, but such information will not include PII. Last, PMall may need to disclose PII to government or law enforcement authorities as required by law. Under such circumstances, we will disclose the information upon a good faith belief that is necessary to comply with the order, request, form of legal process, or otherwise defend or exercise PMall's rights. 
 
-We may share your personally-identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with our third-party advertising partner, Network Advertising Initiative, and its service provider, Dotomi, in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner and its service provider are contractually required by PMall to make the data we provide it anonymous. To learn more or to opt out, please visit the Network Advertising Initiative [by clicking here](http://www.networkadvertising.org/managing/opt_out.asp).
+We may share your personally-identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner and its service provider are contractually required to make the data we provide anonymous. To learn more about the use of this information or to choose not to have this information used by our third-party advertising partner, you may opt out via the Network Advertising Initiative by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ## 3\. How does PersonalizationMall.com protect information collected?
 
@@ -28,7 +28,7 @@ Your PMall account(s) is password protected. You are responsible for protecting 
 
 ## 4\. How can I change my PII?
 
-All registered users can access their profile by visiting [My Account](https://web.archive.org/web/20110627074148id_/http%3A//www.personalizationmall.com/AfterLogin.aspx), and edit their profile at any time. 
+All registered users can access their profile by visiting [My Account](https://web.archive.org/web/20111225230250id_/http%3A//www.personalizationmall.com/AfterLogin.aspx), and edit their profile at any time. 
 
 ## 5\. How will we update this Privacy Policy?
 
@@ -43,5 +43,5 @@ PersonalizationMall.com
 Burr Ridge, IL 60527  
 Phone: 630-910-6000  
 Fax: 630-910-6006  
-Email: [Service@PersonalizationMall.com](https://web.archive.org/web/20110627074148id_/http%3A//www.personalizationmall.com/ContactUs.aspx)  
+Email: [Service@PersonalizationMall.com](https://web.archive.org/web/20111225230250id_/http%3A//www.personalizationmall.com/ContactUs.aspx)  
 
