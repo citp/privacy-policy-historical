@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renesas.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627061026id_/http%3A//am.renesas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renesas.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225222457id_/http%3A//am.renesas.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Renesas Electronics America
 
