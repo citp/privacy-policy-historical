@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashp.org privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625140305id_/http%3A//www.ashp.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashp.org privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225141824id_/http%3A//www.ashp.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,4 +79,4 @@ If you have any questions about this privacy statement, the practices of this si
 
 American Society of Health-System Pharmacists   
 7272 Wisconsin Avenue Bethesda, MD 20814  
-[webcom@ashp.org](mailto:www@ashp.org)
+[www@ashp.org](mailto:www@ashp.org)
