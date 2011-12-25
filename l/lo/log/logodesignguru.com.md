@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logodesignguru.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618181521id_/http%3A//www.logodesignguru.com/Logo-design-privacy-policy/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logodesignguru.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225232223id_/http%3A//www.logodesignguru.com/Logo-design-privacy-policy/privacy_policy.asp) for the most accurate reproduction.*
 
 # Logo Design Guru: Expert Logo Design and Graphic Designs
 
@@ -161,8 +161,8 @@ If we change our privacy statement, we will post the revised statement here, wit
 
 We value your opinions. If you have comments or questions about our privacy statement, please send them to the LDG Privacy Office or write to us at the following address:   
 LDG Privacy Mailbox  
-3000 Cabot Blvd West  
-Suite, 225  
+370 E. Maple Avenue  
+Suite 304  
 Langhorne, PA 19047  
 USA  
 
