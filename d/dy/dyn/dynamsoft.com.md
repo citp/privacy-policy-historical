@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynamsoft.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101090829id_/http%3A//www.dynamsoft.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamsoft.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225201059id_/http%3A//www.dynamsoft.com/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -27,7 +27,7 @@ Customers may change their personally identifiable information or draw back thei
 
 We reserve the right to alter or add to this privacy statement at any time, especially as we add new services to our site. Accordingly, please review this part of our site frequently. 
 
-[ ](http://www.comm100.com/livechat/)
+[ ](http://www.dynamsoft.com/Company/Contact.aspx)
 
 ## Customers
 
