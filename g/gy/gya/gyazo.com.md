@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gyazo.com privacy policy that was archived on 2011-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110126000434id_/http%3A//gyazo.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gyazo.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225225704id_/http%3A//gyazo.com/doc/privacy) for the most accurate reproduction.*
 
-# Gyazo : Contact & Support
-
-## Privacy Policy
+# Gyazo : Privacy Policy
 
 ### A. What This Privacy Policy Covers
 
