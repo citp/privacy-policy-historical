@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thewebmoneyworld.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626234815id_/http%3A//www.thewebmoneyworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewebmoneyworld.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225101305id_/http%3A//www.thewebmoneyworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy
 
 The privacy of our visitors to Thewebmoneyworld.com is important to us.
 
@@ -16,4 +16,4 @@ We also use third party advertisements on http://www.thewebmoneyworld.com to su
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-_AdSense Privacy Policy Provided by[JenSense](https://web.archive.org/web/20110626234815id_/http%3A//www.thewebmoneyworld.com/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)_
+_AdSense Privacy Policy Provided by[JenSense](https://web.archive.org/web/20111225101305id_/http://www.thewebmoneyworld.com/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)_
