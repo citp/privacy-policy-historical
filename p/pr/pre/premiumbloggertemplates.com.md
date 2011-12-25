@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the premiumbloggertemplates.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629005415id_/http%3A//www.premiumbloggertemplates.com/2009/04/privacy-policy-premium-blogger.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumbloggertemplates.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225124420id_/http%3A//www.premiumbloggertemplates.com/2009/04/privacy-policy-premium-blogger.html) for the most accurate reproduction.*
 
-# Privacy Policy-Premium Blogger Templates ~ Premium Blogger Templates|Blogspot Themes
+# Privacy Policy-Premium Blogger Templates | Premium Blogger Templates|Blogspot Themes
+
+##  [Privacy Policy-Premium Blogger Templates](http://www.premiumbloggertemplates.com/2009/04/privacy-policy-premium-blogger.html "Privacy Policy-Premium Blogger Templates")
 
 Privacy Policy for www.premiumbloggertemplates.com
 
