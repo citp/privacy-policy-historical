@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eroi.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510000833id_/http%3A//www.eroi.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eroi.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225093021id_/http%3A//www.eroi.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | eROI
 
