@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dialindia.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523180930id_/http%3A//www.dialindia.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialindia.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225150102id_/http%3A//www.dialindia.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Dialindia.com
 
@@ -40,4 +40,4 @@ By using this website or providing personal information to us, you agree that we
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
 This Privacy and Security Policy supersedes and replaces all previously posted Privacy and Security Policies. dialindia.com reserves the right to update this Privacy and Security Policy to reflect any changes at any time.
 
-If you have any questions about the privacy of your personal information please **[ contact us](http://www.dialyp.com/about/contact.html "contact us").**
+If you have any questions about the privacy of your personal information please **[ contact us](http://www.dialindia.com/about/contact.html "contact us").**
