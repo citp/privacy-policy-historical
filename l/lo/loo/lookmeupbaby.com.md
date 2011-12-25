@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lookmeupbaby.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531131453id_/http%3A//www.yettoknow.com/commitment-to-your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookmeupbaby.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225025817id_/http%3A//www.yettoknow.com/commitment-to-your-privacy) for the most accurate reproduction.*
 
 # Yet To Know | Privacy Protection in modern day romance and socializing is crucial to our community and our company, we treat nothing more importantly then our members privacy
 
