@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwildlife.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629005831id_/http%3A//www.worldwildlife.org/item6628.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwildlife.org privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226143809id_/http%3A//www.worldwildlife.org/item6628.html) for the most accurate reproduction.*
 
 # World Wildlife Fund
 
@@ -58,6 +58,10 @@ WWF may also collect information through IP addresses or environmental variables
  **Security measures**
 
 WWF provides site visitors with a secure server environment when making online donations. WWF uses industry standard encryption method --Secure Sockets Layer (SSL) -- for secure transfer of sensitive personal and financial data between your web browser and our web servers, which are stored off-site in a physically secure, locked hosting facility with limited access.  
+
+ **Web Analytics**
+
+This site uses a web analytics service that may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use the service to collect any personally identifiable information entered in this website, and it does not track your browsing habits across web sites which do not use the same services. For more information see [Privacy Policy for Information Collected by the Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected to improve the WWF web site and enhancing the visitor experience.
 
 II. HOW INFORMATION MAY BE USED  
 We may share personally and non-personally identifiable information with third parties that help manage our web site and databases and with our partners, affiliates, or other third parties.
