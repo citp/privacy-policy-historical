@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iteenvideo.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124092931id_/http%3A//iteenvideo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iteenvideo.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226101438id_/http%3A//iteenvideo.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY
 
