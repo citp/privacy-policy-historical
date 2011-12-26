@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aldaniti.net privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612012445id_/http%3A//www.aldaniti.net/politica.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldaniti.net privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226115159id_/http%3A//aldaniti.net/politica.php) for the most accurate reproduction.*
 
 # aldaniti international network ltd.
 
