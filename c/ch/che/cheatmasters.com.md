@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cheatmasters.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608144215id_/http%3A//www.cheatmasters.com/privacycm.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatmasters.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226155450id_/http%3A//www.cheatmasters.com/privacycm.php) for the most accurate reproduction.*
 
-# Cheat Masters: For game cheats, cheat codes, unlockables, & hints!
+# Cheat Masters: cheats, walkthroughs, cheat codes, unlockables, & hints!
 
 > **Privacy Policy**
 > 
