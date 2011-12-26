@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the resorthoppa.com privacy policy that was archived on 2010-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100415051159id_/http%3A//www.resorthoppa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resorthoppa.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226032054id_/http%3A//www.resorthoppa.com/privacy.php) for the most accurate reproduction.*
 
-# Resorthoppa.com | Airport to Resort Transfers via Taxi, Minibus, Coach and Shuttle Bus
+# Resorthoppa Airport Transfers | Popular Resort & City Destinations
 
 **1\. SCOPE**
 
@@ -83,7 +83,7 @@
 
 **10\. YOUR RIGHT TO ACCESS INFORMATION**
 
-> You are entitled to see the information held about you. If you wish to do this, please contact us at Resorthoppa (UK) Limited, Sussex House, London Road, East Grinstead, West Sussex, RH19 1HH. We may require you to provide verification of your identity and to pay an administration fee (which is currently £10) to provide a copy of the information we hold. Please note that in certain circumstances we may withhold access to your information where we have the right to do so under current data protection legislation.
+> You are entitled to see the information held about you. If you wish to do this, please contact us at Resorthoppa (UK) Limited, Spectrum House, Beehive Ring Road, Gatwick, RH6 0LG. We may require you to provide verification of your identity and to pay an administration fee (which is currently £10) to provide a copy of the information we hold. Please note that in certain circumstances we may withhold access to your information where we have the right to do so under current data protection legislation.
 
 **11\. CHANGES TO THIS PRIVACY POLICY**
 
@@ -91,4 +91,4 @@
 
 **12\. CONTACTING US**
 
-> If you have any questions about this statement or your personal information, please contact us at Resorthoppa (UK) Limited, Sussex House, London Road, East Grinstead, West Sussex, RH19 1HH
+> If you have any questions about this statement or your personal information, please contact us at Resorthoppa (UK) Limited, Spectrum House, Beehive Ring Road, Gatwick, RH6 0LG
