@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the made.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616005254id_/http%3A//www.made.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the made.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226113758id_/http%3A//www.made.com/privacy-policy) for the most accurate reproduction.*
 
 # What your privacy means to us | made.com
 
