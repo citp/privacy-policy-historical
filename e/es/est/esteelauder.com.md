@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the esteelauder.com privacy policy that was archived on 2011-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110413064013id_/http%3A//www.esteelauder.com/cms/customer_service/privacy.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esteelauder.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226234312id_/http%3A//www.esteelauder.com/cms/customer_service/privacy.tmpl) for the most accurate reproduction.*
 
 # Customer Service Privacy — Estée Lauder Official Site
 
 We at Estée Lauder Online respect your privacy and value the relationship we have with you. Your visit to this website   
-is subject to this Privacy Policy and our [Terms and Conditions](https://web.archive.org/customer_service/terms.tmpl).
+is subject to this Privacy Policy and our [Terms and Conditions](https://web.archive.org/cms/customer_service/terms.tmpl).
 
 This Privacy Policy describes the types of personal information we collect at the Estée Lauder website, currently located at [www.esteelauder.com](http://www.esteelauder.com/) (the "Site"), how we may use that information and with whom we may share it. Our Privacy Policy also describes the measures we take to protect the security of this information as well as how you may reach us to update your contact information, remove your name from our mailing list or ask us any questions you may have about our use of your personal information. It also explains how you may elect to stop receiving communications about our products and services.
 
