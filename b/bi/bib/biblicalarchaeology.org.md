@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the biblicalarchaeology.org privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627231505id_/http%3A//www.bib-arch.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblicalarchaeology.org privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226211315id_/http%3A//www.bib-arch.org/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Biblical Archaeology Society
 
-The Biblical Archaeology Society is committed to respecting your privacy. We recognize the need for appropriate protection of personally identifiable information (any information by which you can be identified, including name, address, e-mail address, or credit card information). The purpose of this privacy policy is to inform you of what personally identifiable information or personal information we may collect from you when you visit this Web site, [www.bib-arch.org](http://www.bib-arch.org/), and how we use such information. This policy applies only to users accessing our Web site from the United States.
+The Biblical Archaeology Society is committed to respecting your privacy. We recognize the need for appropriate protection of personally identifiable information (any information by which you can be identified, including name, address, e-mail address, or credit card information). The purpose of this privacy policy is to inform you of what personally identifiable information or personal information we may collect from you when you visit this Web site, and how we use such information. This policy applies only to users accessing our Web site from the United States.
 
 To protect your privacy, we have adopted the following principles, and assure you that we take reasonable steps to see that it is followed within our company:
 
