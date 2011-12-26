@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greendust.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629083840id_/http%3A//www.greendust.com/pages.php%3FpID%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greendust.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226164004id_/http%3A//www.greendust.com/privacy-policy-pg-12.html) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy Policy
 
