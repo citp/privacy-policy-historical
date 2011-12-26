@@ -1,39 +1,33 @@
-> *The following text is extracted and transformed from the jeqq.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210080404id_/http%3A//www.jeqq.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeqq.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226201806id_/http%3A//www.jeqq.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Jeqq
+# PRIVACY POLICY / Jeqq
 
-### Privacy Policy
+Privacy Policy for <http://www.jeqq.com/>
 
-Please read this Privacy Policy carefully. You can access the Privacy Policy any time at http://jeqq.com/privacy.php
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [jeqqcom@gmail.com](mailto:jeqqcom@gmail.com).
 
-Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy. If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
+At <http://www.jeqq.com/>, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by <http://www.jeqq.com/> and how it is used.
 
-In addition to reviewing this Privacy Policy, please read our User Agreement. Your use of the Website constitutes agreement to its terms and conditions as well.
+Log Files  
+Like many other Web sites, <http://www.jeqq.com/> makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
+Cookies and Web Beacons  
+<http://www.jeqq.com/> does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-### The Type of Information the Website Collects
+DoubleClick DART Cookie  
+.:: Google, as a third party vendor, uses cookies to serve ads on <http://www.jeqq.com/>.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to <http://www.jeqq.com/> and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-The Website generally requests only a user name and password, although you can provide an e-mail address if you wish. If at any time the Website were to collect personally identifying information, such as your actual name, address, or telephone number, it would only be with your specific knowledge and consent. For instance, if the Website began to offer sweepstakes, and you wish to participate, Service Provider may require personally identifiable information to contact you in case you win. Optional information such as your age or gender may also be requested.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
+Google Adsense  
+Adbrite  
+Kontera
 
-Our servers may also automatically collect information about your computer when you visit the Website, including without limitation the type of browser software you use, the operating system you are running, the website that referred you, and your Internet Protocol ("IP") address. Your IP address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on <http://www.jeqq.com/> send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-### How the Website Uses Information Provided by You
+<http://www.jeqq.com/> has no access to or control over these cookies that are used by third-party advertisers.
 
-Service Provider uses your user name and password to grant you access to and use of the Website. Your e-mail address will be used, at your request, to send you a copy of your user name and password. If you provide personally identifiable information, it will be used to provide you with the service you have requested. We may also use the information to communicate with you about new features, products or services, and/or to improve the services that we offer by tailoring them to your needs.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.jeqq.com/’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums software, but only for the purpose of and to the extent necessary to provide those services. There are also times when you provide information about yourself to us in areas of the site that may be managed or participated in by third parties. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies.
-
-We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While Service Provider will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, Service Provider does not bear any responsibility for any actions or policies of third parties. There may also be occasion when we are legally required to provide access to our database in order to cooperate with police investigations or other legal proceedings. In those instances, the information is provided only for that purpose.
-
-In addition, we reserve the right to use the information we collect about your computer, which may at times be able to identify you, for any lawful business purpose, including without limitation to help diagnose problems with our servers, to gather broad demographic information, and to otherwise administer our Website. While your personally identifying information is used only as outlined above, we reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners.
-
-In addition, as our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by Service Provider, its parent or any subsidiary or affiliated entity are sold, assigned, transferred or acquired by another company, the information from and/or about our Website users may be among the transferred assets.
-
-### Cookies
-
-You may have read about "cookies," nuggets of information that are placed by a Website in a storage place on your own computer. We may use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of the Website and are given the option to save your user name and password on your computer, we can provide this convenience to you by placing a cookie on your computer. Our cookies may contain personally identifiable information and such cookies may be shared with our affiliates and other companies.
-
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers.
-
-We may also use advertising service vendors to help present advertisements on the Website. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith. However, if you set your browser to refuse cookies, some portions of the Website may not function properly.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
