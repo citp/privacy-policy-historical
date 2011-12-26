@@ -1,73 +1,79 @@
-<!--The following is the downloaded HTML source of the seriouseats.com privacy policy that was archived on 2011-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110626013255id_/http%3A//www.seriouseats.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seriouseats.com privacy policy that was archived on 2011-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226195812id_/http%3A//www.seriouseats.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<title>Serious Eats: Privacy Statement</title>
 	<!-- JS Code for Chartbeat -->
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
    
 	
 	   <script src="http://static.seriouseats.com/serious_eats/js/mt.js" type="text/javascript"></script>
 	
+	
 
 	
+
 	<script src="http://static.seriouseats.com/js/jquery.min.js"></script>
 	<script src="http://static.seriouseats.com/js/jquery.tools.scroll.min.js" type="text/javascript" charset="utf-8"></script>
-	<script src="http://static.seriouseats.com/serious_eats/js/mt-site.js?20110620121959" type="text/javascript"></script>
+	<script src="http://static.seriouseats.com/serious_eats/js/mt-site.js?20111108191420" type="text/javascript"></script>
 	<script src="http://static.seriouseats.com/js/jquery.accordion.min.js" type="text/javascript"></script>
 	<script src="http://static.seriouseats.com/js/accordion.js" type="text/javascript"></script>
 	<script type="text/javascript">
 var field_stars = new Array();
 function star_over(field, rating, on, off) {
-	for (var i = 1; i <= rating; i++) {
-		var star = document.getElementById(field + '_' + i);
-		star.src = on;
-	}
-	for (var i = rating + 1; i <= field_stars[field]; i++) {
-		var star = document.getElementById(field + '_' + i);
-		star.src = off;	
-	}
+    for (var i = 1; i <= rating; i++) {
+        var star = document.getElementById(field + '_' + i);
+        star.src = on;
+    }
+    for (var i = rating + 1; i <= field_stars[field]; i++) {
+        var star = document.getElementById(field + '_' + i);
+        star.src = off;
+    }
 }
 function star_out(field, rating, on, off) {
-	var val = document.getElementById(field).value;
-	if (val) {
-		val = parseInt(val);
-	} else {
-		val = 0;
-	}
-	for (var i = 1; i <= val; i++) {
-		var star = document.getElementById(field + '_' + i);
-		star.src = on;
-	}
-	for (var i = val + 1; i <= field_stars[field]; i++) {
-		var star = document.getElementById(field + '_' + i);
-		star.src = off;
-	}
+    var val = document.getElementById(field).value;
+    if (val) {
+        val = parseInt(val);
+    } else {
+        val = 0;
+    }
+    for (var i = 1; i <= val; i++) {
+        var star = document.getElementById(field + '_' + i);
+        star.src = on;
+    }
+    for (var i = val + 1; i <= field_stars[field]; i++) {
+        var star = document.getElementById(field + '_' + i);
+        star.src = off;
+    }
 }
 function star_click(field, rating) {
-	document.getElementById(field).value = rating;
+    document.getElementById(field).value = rating;
 }
 </script>
 
    	<script src="http://static.seriouseats.com/js/mobileRedirect.js" type="text/javascript"></script>
    	
    	
-   
+
     
    	
 
-   <link rel="stylesheet" type="text/css" href="http://static.seriouseats.com/css/general.css?v=110601" media="screen">
+   <link rel="stylesheet" type="text/css" href="http://static.seriouseats.com/css/general.css?v=110811" media="screen">
+	
 	
 	
 	<link rel="stylesheet" type="text/css" href="http://static.seriouseats.com/css/print.css" media="print">
-	
+
 	<!--[if lte IE 8]>
 	    <link rel="stylesheet" type="text/css" href="http://static.seriouseats.com/css/ie8.css" media="screen" charset="utf-8" />
 	  <![endif]-->
 	<!--[if IE 7]>
 	    <link rel="stylesheet" type="text/css" href="http://static.seriouseats.com/css/ie7.css" media="screen" charset="utf-8" />
 	  <![endif]-->
+
+
+
 
 
 
@@ -78,9 +84,9 @@ function star_click(field, rating) {
 	<meta name="MSSmartTagsPreventParsing" content="true">
    <meta name="readability-verification" content="UA7kXkwV7ntCrsptquaq9Ufjh2FcJ9qzDV3C6C5b">
 	<link rel="Shortcut Icon" href="http://www.seriouseats.com/favicon.ico">
-		
+
 	
-	
+
 	
 	<meta property="fb:page_id" content="168926019255">
 	<link rel="alternate" type="application/atom+xml" title="Serious Eats" href="http://feeds.seriouseats.com/seriouseatsfeaturesvideos">
@@ -89,12 +95,17 @@ function star_click(field, rating) {
    <script type="text/javascript">
    /* <![CDATA[ */
    $(document).ready(function() {
-       mtUpdateScores();
+       var u = mtGetUser();
+       if (u && u.is_authenticated) {
+           mtUpdateScores();
+       } else {
+           $('.scoring').addClass('scoring-scorable');
+       }
        
        	/* ------- Utilities BEGIN --------- */
 		// remove the default text on any search input box with the class "userField"
 		$(".userField").click(function() { 
-			    if ($(this).val() == 'Search Serious Eats'||'Search for Recipes') {   
+			    if ($(this).val() == 'Search Serious Eats'||'Search for Recipes' || 'Search Talk' || 'Search New York' || 'Search Sweets' || 'Search Drinks' || 'Search Slice' || 'Search AHT' || 'Search Photograzing') {   
 			        $(this).data('original', $(this).val()).val('');
 					$(this).addClass("selected");
 			    }
@@ -112,7 +123,7 @@ function star_click(field, rating) {
 			$(this).text($(this).text() == 'Go' ? 'Close' : 'Go');
 		});
 		/* ------- Utilities END --------- */
-		
+
    });
    //mtAttachEvent('load', mtUpdateScores);
    mtAttachEvent('usersignin', mtUpdateScores);
@@ -120,6 +131,8 @@ function star_click(field, rating) {
    </script>
 	<script type="text/javascript" src="http://use.typekit.com/kti2wqp.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+
 
 	
 	
@@ -153,9 +166,26 @@ function star_click(field, rating) {
 <div id="container">
 <div id="header" class="SE">
 	<div id="topAdSpace">
-        <!-- FM Leader 1 - Main Site Zone -->
-<script type="text/javascript" src="http://static.fmpub.net/zone/2385"></script>
-<!-- FM Leader 1 - Main Site Zone -->
+        <script> 
+var ve_publisher = "SeriousEats";
+var ve_site = "SERIOUSEATS_728X90_ROS";
+var ve_area = "SERIOUSEATS_728X90_ROS";
+var ve_location = "SERIOUSEATS_728X90_ROS_ROS_728X90";
+var ve_placement = "ROS";
+var ve_width = 728;
+var ve_height = 90;
+var ve_alternate = "";
+document.write("<script src='http://core.videoegg.com/eap/html/js/init.js?"+Math.random()+"'></sc"+"ript>");
+</script><script src="http://core.videoegg.com/eap/html/js/init.js?0.025494615019554523"></script> 
+
+
+
+
+
+
+
+
+
 </div>
 	<div id="newsletter-promo">
 			<p><em>Subscribe</em> to our email newsletters so you don't miss anything delicious!<span id="subscribe-button" class="toggle" style="cursor:pointer">Go</span></p> 
@@ -174,14 +204,22 @@ function star_click(field, rating) {
 			</form>
 
 	</div>
-	<form id="SearchForm" method="get" action="http://www.seriouseats.com/cgi-bin/mte/mt-search.cgi">
-        <input type="hidden" id="IncludeBlogs" name="IncludeBlogs" value="31,26,40,36,34,30,38,16,33,25,41,32,35">
-        <input type="hidden" name="limit" value="20">
-        <input id="searchBox" class="query userField" name="search" value="Search Serious Eats">
+	<form id="SearchForm" action="http://www.seriouseats.com/cgi-bin/mte/mt-search.cgi" method="get">
+        <input type="hidden" name="__mode" value="gsearch">
+        <input type="hidden" name="blog_id" value="33">
+        <input type="hidden" name="site" value="All">
+        <input id="searchBox" class="query userField" name="search" autocomplete="off" value="Search Serious Eats">
 		<input type="submit" class="submit" value="Go">
     </form>
+
+
+
+
+
 	<div class="widget-sign-in widget">
+
     <div id="signin-widget-content" class="widget-content"></div>
+
 </div>
 
 <script type="text/javascript">
@@ -248,10 +286,12 @@ mtUpdateSignInWidget();
 //mtAttachEvent('usersignin', mtUpdateScores);
 </script>
 
-	 <h1 id="sitetitle" title="Serious Eats home"><a href="http://www.seriouseats.com">Serious Eats - seriouseats.com</a></h1>  
+	 <h1 id="sitetitle" title="Serious Eats home"><a href="http://www.seriouseats.com">Serious Eats - seriouseats.com</a></h1>
+
+
 	<div id="navarea">
 		<div id="sociallinks">
-			<span class="label">Follow Serious Eats</span><a href="http://twitter.com/seriouseats" id="link-twitter">Twitter</a><a href="http://www.facebook.com/seriouseats" id="link-facebook">Facebook</a>
+			<span class="label">Follow Serious Eats</span><a href="http://foursquare.com/seriouseats" id="link-foursquare">Foursquare</a><a href="http://twitter.com/seriouseats" id="link-twitter">Twitter</a><a href="http://www.facebook.com/seriouseats" id="link-facebook">Facebook</a>
 		</div>
 		<ul id="mainnav" class="global">
 			<li id="item-sites" class="has-subnav"><a href="#">Our Sites</a><ul id="subnav-sites">
@@ -284,18 +324,11 @@ mtUpdateSignInWidget();
 	<h3>What's Hot</h3>
 
 <script type="text/javascript">window.featurescode = "SE";</script>
-<script src="http://www.seriouseats.com/js/skyboxes.js" type="text/javascript"></script>
+<script src="http://www.seriouseats.com/js/skyboxes.js?20111108191420" type="text/javascript"></script>
 
 	<div class="clearfix"></div>
 	</div>
 </div>
-
-    
-
-
-
-
-
 
 </div><!-- close header -->
 	<div id="content" class="indexes">
@@ -431,18 +464,16 @@ mtUpdateSignInWidget();
 <div class="clearer"></div>
 		
 </div><!-- /content -->
-
+<script src="http://www.seriouseats.com/js/bottombuckets.js?20111108191420" type="text/javascript"></script>
 <div id="footer" class="shortFooter">
 
 	<div id="footerColumn1" class="footer-column">
-		<h3 id="h-still-hungry">Still Hungry?</h3>
+          <h3 id="h-still-hungry">Still Hungry?</h3>
 		<ul>	
-			<li><a href="/?ref=footer">Home</a></li>
-			<li><a href="/talk/?ref=footer">Talk</a></li>
-			<li><a href="/recipes/?ref=footer">Recipes</a></li>
-			<li><a href="/eating_out/?ref=footer">Eating Out</a></li>
-			<li><a href="http://videos.seriouseats.com/?ref=footer">Videos</a></li>
-			<li><a href="/columns/?ref=footer">Columns</a></li>
+			<li><a href="http://www.seriouseats.com/?ref=footer">Home</a></li>
+			<li><a href="http://www.seriouseats.com/talk/?ref=footer">Talk</a></li>
+			<li><a href="http://www.seriouseats.com/recipes/?ref=footer">Recipes</a></li>
+			<li><a href="http://www.seriouseats.com/columns/?ref=footer">Columns</a></li>
 		</ul>
 	</div><!-- close footerColumn1 -->
 		
@@ -474,23 +505,27 @@ mtUpdateSignInWidget();
 	</div><!-- close footerColumn2 -->
 		
 	<div id="footerColumn3" class="footer-column">
-		<h3 id="h-kiss-the-chef">Kiss the Chef</h3>
+           <h3 id="h-kiss-the-chef">Kiss the Chef</h3>
 		<ul>	
-			<li><a href="/about/?ref=footer">About Us</a></li>
-			<li><a href="/contact/?ref=footer">Contact Us</a></li>
-			<li><a href="/advertise/?ref=footer">Advertise with Us</a></li>
+			<li><a href="http://www.seriouseats.com/about/?ref=footer">About Us</a></li>
+			<li><a href="http://www.seriouseats.com/contact/?ref=footer">Contact Us</a></li>
+			<li><a href="http://www.seriouseats.com/advertise/?ref=footer">Advertise with Us</a></li>
+			<li><a href="http://www.seriouseats.com/jobs/?ref=footer">Jobs</a></li>
 		</ul>
 		<h3 id="h-family-style">Family Style</h3>
 		<ul>
-			<li><a href="http://www.sliceny.com/?ref=sefooter">Slice</a></li>
-			<li><a href="http://www.ahamburgertoday.com/?ref=sefooter">A Hamburger Today</a></li>
-			<li><a href="http://newyork.seriouseats.com/?ref=sefooter">Serious Eats: New York</a></li>
-			<li><a href="http://photograzing.seriouseats.com/?ref=sefooter">Photograzing</a></li>
+			<li><a href="http://www.seriouseats.com/?ref=footer">Serious Eats</a></li>
+			<li><a href="http://drinks.seriouseats.com/?ref=footer">Drinks</a></li>
+			<li><a href="http://sweets.seriouseats.com/?ref=footer">Sweets</a></li>
+			<li><a href="http://aht.seriouseats.com/?ref=footer">A Hamburger Today</a></li>
+			<li><a href="http://slice.seriouseats.com/?ref=footer">Slice</a></li>
+			<li><a href="http://newyork.seriouseats.com/?ref=footer">Serious Eats: New York</a></li>
+			<li><a href="http://photograzing.seriouseats.com/?ref=footer">Photograzing</a></li>
 		</ul>
 	</div><!-- close footerColumn3 -->
 
 	<div id="footerColumn4" class="footer-column">
-			<h3 id="h-feed-yourself">Feed Yourself</h3>
+            <h3 id="h-feed-yourself">Feed Yourself</h3>
 			<p>Subscribe to our feeds:</p>
 			<p><a href="http://feeds.feedburner.com/seriouseatsfeaturesvideos">Serious Eats</a>, <a href="http://feeds.feedburner.com/seriouseatstalk">Talk</a>, <a href="http://feeds.feedburner.com/seriouseats/recipes">Recipes</a></p>
 			<br>
@@ -500,9 +535,7 @@ mtUpdateSignInWidget();
 
 	<a href="http://twitter.com/seriouseats" id="footer-twitter">Follow us on Twitter!</a>
 
-</div><!-- close footer div -->
-
-
+</div><!--/#footer -->
 
 <!-- footer links module -->
 <div id="footerLinks">
@@ -516,6 +549,46 @@ mtUpdateSignInWidget();
 </ul>
 </div>
 <!-- /footer links module -->
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+ 
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+ 
+_qevents.push({
+qacct:"p-abhYEve3ZZl2E"
+});
+</script>
+ 
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-abhYEve3ZZl2E.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6036036" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6036036&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -533,9 +606,7 @@ function recordOutboundLink(link, category, action, outgoingPageviewLink) {
   try {
     pageTracker._trackEvent(category, action, outgoingPageviewLink);
     pageTracker._trackPageview(outgoingPageviewLink);
-    //alert (outgoingPageviewLink);
-    //setTimeout('window.open(link.href)', 100); 
-    setTimeout('document.location = "' + link + '"', 100) 
+    setTimeout('document.location = "' + link.href + '"', 100)
   }catch(err){}
 }
 </script>
@@ -545,9 +616,8 @@ function recordOutboundLink(link, category, action, outgoingPageviewLink) {
 <noscript><img src="http://www.assoc-amazon.com/s/noscript?tag=serieats-20" alt="" /></noscript>
 <!-- End Amazon Impression Reporting Script -->
 
-<!-- FM Tracking Pixel -->
-<script type="text/javascript" src="http://static.fmpub.net/site/seriouseats"></script>
-<!-- FM Tracking Pixel -->
+
+
 
 <!-- chartbeat -->
 <script type="text/javascript">
@@ -557,20 +627,13 @@ document.write(unescape("%3Cscript src='"+cbjsprotocol+cbjspath+"' type='text/ja
 </script><script src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js?uid=2384&amp;domain=seriouseats.com" type="text/javascript"></script>
 <!-- chartbeat -->
 
-<!-- Addthis -->
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=seriouseats"></script>
-<!-- Addthis -->
 
-<!-- SkimLinks -->
-<script type="text/javascript" src="http://s.skimresources.com/js/3781X630295.skimlinks.js"></script>
-<!-- SkimLinks -->
-
-<!-- FM Custom Video Egg Zone Zone -->
-<script type="text/javascript" src="http://static.fmpub.net/zone/3947"></script>
-<!-- FM Custom Video Egg Zone Zone -->
+<!-- Addthis -->
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=seriouseats"></script>
+<!-- Addthis -->
 
 <!--  BuzzFeed code begins -->
-<div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=seriouseats.com&amp;amp;to=1&amp;amp;or=vb&amp;amp;wid=1&amp;amp;cb=1580569126695"></script></div>
+<div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=seriouseats.com&amp;amp;to=1&amp;amp;or=vb&amp;amp;wid=1&amp;amp;cb=1580569127215"></script></div>
 <script type="text/javascript">
 (function( ){
 	BF_WIDGET_JS=document.createElement('script'); BF_WIDGET_JS.type="text/javascript";
@@ -579,7 +642,6 @@ document.write(unescape("%3Cscript src='"+cbjsprotocol+cbjspath+"' type='text/ja
 })();
 </script>
 <!-- / BuzzFeed code ends -->
-
 </div><!-- close container div -->
 
 
