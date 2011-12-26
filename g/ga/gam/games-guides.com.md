@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games-guides.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611144544id_/http%3A//www.games-guides.com/privac) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games-guides.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226180941id_/http%3A//www.games-guides.com/privac) for the most accurate reproduction.*
 
 # Privacy | Games-Guides.com
 
@@ -28,11 +28,3 @@ These third-party ad servers or ad networks use technology to the advertisements
 Games-Guides.com has no access to or control over these cookies that are used by third-party advertisers.
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Games-Guides.com privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-#### Incoming search terms for the article:
-
-  * [cache:ZFnWIsyha-AJ:www games-guides com/article/mad-dog-mike-amp-the-smokin-j-s-mad-dog-mike-amp-the-smokin-j-s html segadirect reasoning](http://www.games-guides.com/privac/ "cache:ZFnWIsyha-AJ:www games-guides com/article/mad-dog-mike-amp-the-smokin-j-s-mad-dog-mike-amp-the-smokin-j-s html segadirect reasoning")
-  * [Download xbox Fallout: New Vegas patch 1 2 0 31x](http://www.games-guides.com/privac/ "Download xbox Fallout: New Vegas patch 1 2 0 31x")
-  * [www games guides com](http://www.games-guides.com/privac/ "www games guides com")
-
-
