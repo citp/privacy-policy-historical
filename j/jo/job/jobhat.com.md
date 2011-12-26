@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobhat.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212010455id_/http%3A//www.jobhat.com/education/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobhat.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227001120id_/http%3A//www.jobhat.com/education/privacy_policy) for the most accurate reproduction.*
 
 # JobsRadar.com - Find Jobs. Showcase Your Resume. Get Hired.
 
@@ -15,6 +15,11 @@ Please read this entire Policy carefully before using this Site or providing us 
 **Contact Us**
 
 If you have any questions about this Policy please contact us via e-mail at info@JobHat.com.
+
+Electronic:  
+To opt out and unsubscribe from e-mail communications, [click here](https://web.archive.org/unsubscribe)  
+To cancel or correct your personal information: send an email with your User Name and the notice "My User Information" in the subject line to info@JobHat.com  
+To express or ask questions regarding privacy concerns: send an email to info@JobHat.com 
 
 **Registration**
 
@@ -44,7 +49,7 @@ We employ software technology that enables us to track certain aspects of a User
 
 If you arrive at the Site by "clicking through" from another web site, and you have registered with that other web site, then certain information about you that you provided to that other web site, such as the terms you were searching on that led you to the Site, may be transmitted to us and we may use it as described in this Policy. You should review the privacy policy of any web site from which you reached the Site in order to determine what information was collected by that web site and for what purpose(s) you agreed that web site could use that information. We may or may not retain that information; if we do, then we may use it in accordance with this Policy. This information may or may not be associated with other User activity data or personally identifiable information.
 
-**JobHat's Policy Regarding Children Under the Age of 13**
+**JobHat Policy Regarding Children Under the Age of 13**
 
 JobHat complies with the Children's Online Privacy Protection Act (COPPA). COPPA requires that web site operators never knowingly collect personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. The Site is not intended for children under the age of 13, and JobHat does not knowingly collect or use personally identifiable information from children under the age of 13. If we discover personal data from a child under the age of 13, we will eliminate that data.
 
@@ -59,7 +64,7 @@ We may use the information (whether or not personally identifiable) that you pro
   * Contact you regarding administrative issues, such as questions about your specific request, or otherwise respond to your comments or requests.
   * E-mail information and offers to you.
   * Mail information and offers to you. 
-  * Make telephone calls to you with information and offers. 
+  * Make telephone calls and send text messages to you with information and offers. 
   * Provide your information to third parties to fulfill services you have requested or that may be of interest to you.
   * Compile anonymous statistical information and analysis. 
   * Provide compiled anonymous information to third parties. 
