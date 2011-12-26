@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dpsnc.net privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627123440id_/http%3A//dpsnc.net/about-dps/130/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpsnc.net privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226081859id_/http%3A//www.dpsnc.net/about-dps/130/your-privacy) for the most accurate reproduction.*
 
 # Your Privacy — Durham Public Schools
 
@@ -25,7 +25,7 @@ If you send us an electronic mail message (e-mail), the message will usually con
 
 ### E-mail Lists: 
 
-The information we collect when you subscribe to one of our e-mail lists is used solely to administer these lists and is not shared, disclosed or sold to other organizations. Users who no longer wish to receive our notifications may [opt-out](http://www.dpsnc.net/news/newsletters/newsletter-sign-up "Newsletter Sign-up") of receiving these communications.
+The information we collect when you subscribe to one of our e-mail lists is used solely to administer these lists and is not shared, disclosed or sold to other organizations. Users who no longer wish to receive our notifications may [opt-out](http://www.dpsnc.net/about-dps/about-dps-website/resolveuid/522c9661e83a758d8f2ea11de47f2687 "Newsletter Sign-up") of receiving these communications.
 
 ### Links to Other Sites: 
 
@@ -49,4 +49,4 @@ DPS may amend this policy from time to time. DPS will prominently display on thi
 
 ### Contact Us: 
 
-If you have questions about this privacy statement or the comments about the web site please [contact us](http://www.dpsnc.net/contact-us "Contact Us").
+If you have questions about this privacy statement or the comments about the web site please [contact us](http://www.dpsnc.net/about-dps/about-dps-website/resolveuid/ceacee6bda3503b8706f24e0313b3b72 "Contact Us").
