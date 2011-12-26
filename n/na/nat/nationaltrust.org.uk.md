@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nationaltrust.org.uk privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515022100id_/http%3A//www.nationaltrust.org.uk/main/w-global/w-terms_conditions/w-privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaltrust.org.uk privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226185532id_/http%3A//www.nationaltrust.org.uk/main/w-global/w-terms_conditions/w-privacy_policy.htm) for the most accurate reproduction.*
 
 # National Trust | Privacy Policy
+
+**Please be aware that we are reviewing our position on how we use Cookies and will be updating our privacy policy to reflect this soon.**
 
 **1\. Introduction**
 
@@ -75,6 +77,8 @@ If subsequently you make a data protection instruction to The National Trust whi
 
 **9\. Cookies**
 
+**Please be aware that we are reviewing our position on how we use Cookies and will be updating our privacy policy to reflect this soon.**
+
 A 'cookie' is a small text file that is placed on a user's computer hard drive by a website. There are several types of cookie and the most common are often referred to as 'session' cookies. These are used to keep track of information needed by a user as they travel from page to page within a website. These cookies have a short lifetime and expire within a few minutes of the user leaving the site.
 
 Other types of cookies can be used to track internet activity after the user has left a website. These are either sponsored by organisations external to the website being visited (known as 'third party' cookies) or can originate from the website organisation itself ('first party' cookies). These usually have a long lifetime with several months being quite common. They are 'harvested' and 'refreshed' whenever the user visits a page where the same or a similar cookie is being used. The website [www.nationaltrust.org.uk](http://www.nationaltrust.org.uk/main/w-index) does not use third party cookies.
@@ -103,6 +107,6 @@ If you have any questions about security please contact The National Trust on: *
 
 
 
- **Notification of Changes**
+**Notification of Changes**
 
 If The National Trust decides to change its Privacy Policy, it will post such changes on its website under the section entitled 'Privacy Policy'.
