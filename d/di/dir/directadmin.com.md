@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directadmin.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517224134id_/http%3A//www.directadmin.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directadmin.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226065454id_/http%3A//www.directadmin.com/privacypolicy.html) for the most accurate reproduction.*
 
 # DirectAdmin Web Control Panel Refund Policy
 
