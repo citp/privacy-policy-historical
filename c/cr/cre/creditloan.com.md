@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creditloan.com privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307055230id_/http%3A//www.creditloan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditloan.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226085545id_/http%3A//www.creditloan.com/privacy) for the most accurate reproduction.*
 
-# Your Privacy Is Assured
+# Privacy Statement
 
 [](http://www.truste.org/ivalidate.php?url=www.creditloan.com&sealid=101)
 
@@ -30,7 +30,7 @@ In addition, by submitting your personal information, you agree to receive mobil
 
 Without limiting the generality of the foregoing, we reserve the right to share, sell, rent, lease and/or otherwise distribute any and all personal information (other than the Sensitive Information) with/to any third party for any and all uses permitted by this Privacy Policy and applicable law.
 
-If you have questions or concerns regarding this statement, you should first contact Daniel Wesley at [support@creditloan.com.](mailto:support@creditloan.com.) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns. Credit Loan, LLC is committed to protecting your privacy when you visit our web site. You can access Creditloan.com and browse our site without disclosing any of your personal data.
+If you have questions or concerns regarding this statement, you should first contact [support@creditloan.com.](mailto:support@creditloan.com.) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns. Credit Loan, LLC is committed to protecting your privacy when you visit our web site. You can access Creditloan.com and browse our site without disclosing any of your personal data.
 
 **Non-Personally Identifiable Information**
 
@@ -40,7 +40,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 ****If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate your information by emailing our Customer Support at[support@creditloan.com](mailto:support@creditloan.com), or by contacting us by telephone or postal mail at the contact information listed below.****
 
-Phone: 813-421-1589 
+Phone: 702-407-0707 
 
 Mailing Address:
 
@@ -48,9 +48,9 @@ Credit Loan, LLC
 
 Attn: Customer Support
 
-235 Apollo Beach Blvd Suite #218
+325 E. Warm Springs Rd., Ste 200
 
-Apollo Beach, Florida 33572
+Las Vegas, NV 89119
 
 **Our Commitment to Children's Privacy**
 
@@ -62,13 +62,13 @@ We use your e-mail address to: Send you newsletters, and other customer related 
 
 Creditloan.com has a zero tolerance policy for e-mail abuse. If you receive unsolicited e-mails from creditloan.com please report it to us at  [support@creditloan.com.](mailto:support@creditloan.com.)
 
-We will never ask you to provide non-public or sensitive information in an e-mail. DO NOT RESPOND to an e-mail that appears to be from us requesting non-public or sensitive information the e-mail. Contact us immediately at 813-421-1589 or by e-mail at  [support@creditloan.com](mailto:support@creditloan.com)
+We will never ask you to provide non-public or sensitive information in an e-mail. DO NOT RESPOND to an e-mail that appears to be from us requesting non-public or sensitive information the e-mail. Contact us immediately at 702-407-0707 or by e-mail at  [support@creditloan.com](mailto:support@creditloan.com)
 
 We do not store e-mail addresses from correspondence sent to us. If you contact us by e-mail we will respond by email. Creditloan.com will not use or store your email address in our database from such correspondence. 
 
 **Choice/Opt-out**
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at  [support@creditloan.com.](mailto:support@creditloan.com.) We also offer an opportunity to opt-out of certain communications utilizing the online contact us link, or via telephone at 813-421-1589.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at  [support@creditloan.com.](mailto:support@creditloan.com.) We also offer an opportunity to opt-out of certain communications utilizing the online contact us link, or via telephone at 702-407-0707.
 
 **Co-Branded Disclosure and External Web Sites**
 
@@ -79,7 +79,7 @@ Please note that Creditloan.com contains links, co-branded links, and forms that
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We do use cookies on this site by gathering technical information from your Web browser (IP address, operating systems). We do not link the information we store in cookies to any personally identifiable information you submit while on our site. Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies.This privacy statement covers the use of cookies by Creditloan.com only and does not cover the use of cookies by any advertisers. 
 
-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to build a better user experience. You can choose to disable the Service at http://www.clicktale.net/disable.html. In addition, we work with FetchBack and Google Adwords (DoubleClick) to display Retargeted ads to our site prospects, on our behalf, across the Internet. They collect Non‐Personally Identifiable Information about your visits to our Website, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No Personally Identifiable Information is collected during in this process. To read FetchBack’s Privacy Policy, [click here](http://www.fetchback.com/privacy.html). If you do not want FetchBack to collect this information, you may opt out of their service. Opting out will not in any way effect your use of our site. To Opt‐Out, of FetchBack Retargeting, please [click here](http://www.fetchback.com/optout.html). Click to read Google's/DoubleClick's Privacy Policy [Google Privacy Policy](http://www.google.com/privacy_cookies.html) and [DoubleClick Privacy Policy](http://www.doubleclick.com/privacy/dart_adserving.aspx). Users may opt out of Google's/DoubleClick's use of cookies by visiting the [Network Advertising Initiative opt-out page.](http://www.networkadvertising.org/managing/opt_out.asp).
+We work with Google Adwords (DoubleClick) to display Retargeted ads to our site prospects, on our behalf, across the Internet. They collect Non‐Personally Identifiable Information about your visits to our Website, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No Personally Identifiable Information is collected during in this process. Click to read Google's/DoubleClick's Privacy Policy [Google Privacy Policy](http://www.google.com/privacy_cookies.html) and [DoubleClick Privacy Policy](http://www.doubleclick.com/privacy/dart_adserving.aspx). Users may opt out of Google's/DoubleClick's use of cookies by visiting the [Network Advertising Initiative opt-out page.](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Security**
 
@@ -93,15 +93,15 @@ If you have any questions about security on our Web site, you can email us at: [
 
 **Disclaimer and Information about Creditloan.com**
 
-Please view our official disclaimer page here [Disclaimer](http://www.creditloan.com/disclaimer/)
+Please view our official disclaimer page here [Disclaimer](https://web.archive.org/disclaimer/)
 
-Creditloan.com is an online directory and resource for credit, loans,  **[bad credit](http://www.creditloan.com/ "bad credit")**  services,  **[debt consolidation](http://www.creditloan.com/debt-consolidation/ "debt consolidation")** , and  **[credit repair](http://www.creditloan.com/credit-repair/ "credit repair")**. We are in the Yahoo directory in the US, Canada, and UK. Credit Loan, LLC is located in the Southeastern United States catering to users across the world. We are not a bank, broker, or lender.
+Creditloan.com is an online directory and resource for credit, loans, bad credit services, [debt consolidation](https://web.archive.org/debt-consolidation/), and credit repair. We are in the Yahoo directory in the US, Canada, and UK. Credit Loan, LLC is located in the Southwestern United States catering to users across the world. We are not a bank, broker, or lender.
 
 We offer tips from consumers and opinionated advice and we are not responsible for any actions or decisions made by any Third Party Provider, Lenders, and/or Banks. Furthermore, changing financial markets along with the steadily changing lender rules and guidelines, the information about lenders and loan processes may not always be updated timely on our site. Actual lenders will be able to give you complete and accurate information regarding their services and terms once you get to their respective websites. We are not responsible for lender decisions since we are simply an informational resource and are not involved in the lending process. 
 
 **Copyright Notice**
 
-All materials contained in this website are protected by federal copyright laws, and may not be reproduced, republished, distributed, displayed, or otherwise exploited in any manner without the express prior written permission of Creditloan.com. Our official copyright statement can be viewed here [Copyright Statement](http://www.creditloan.com/copyright-statement/). 
+All materials contained in this website are protected by federal copyright laws, and may not be reproduced, republished, distributed, displayed, or otherwise exploited in any manner without the express prior written permission of Creditloan.com. Our official copyright statement can be viewed here [Copyright Statement](https://web.archive.org/copyright-statement/). 
 
 We routinely check for copyright violations and content duplication. Federal legal action will be taken against anyone found using creditloan.com articles and/or content with the expressed written permissions and/or consent from our owner.
 
@@ -113,9 +113,9 @@ Credit Loan, LLC 
 
 Attn: Customer Support: 
 
-235 Apollo Beach Blvd Suite #218 
+325 E. Warm Springs Rd., Ste 200 
 
-Apollo Beach, Florida 33572
+Las Vegas, NV 89119
 
 Note: If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
 
