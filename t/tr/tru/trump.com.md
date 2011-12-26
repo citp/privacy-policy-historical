@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trump.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105073133id_/http%3A//www.trump.com/Privacy_Policy/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trump.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226234432id_/http%3A//www.trump.com/Privacy_Policy/Privacy_Policy.asp) for the most accurate reproduction.*
 
-# Donald Trump Organization: Donald J Trump Hotel Collection Real Estate Casinos Golf Clubs Financial University Restaurants Merchandise Corporation Company
+# Donald Trump Organization: Donald J Trump Hotel Collection Real Estate Casinos Golf Clubs Restaurants Merchandise Corporation Company
 
 **Introduction:** The Trump Organization has a strong commitment to providing excellent service to all of our customers, including respecting their concerns about privacy. We understand that visitors to our website may have questions about how this website collects and uses information. We have prepared this statement to inform you of the privacy principles that govern Trump.com.
 
