@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examone.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514143252id_/http%3A//www.questdiagnostics.com/privacy_practices.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examone.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226210622id_/http%3A//www.questdiagnostics.com/privacy_practices.html) for the most accurate reproduction.*
 
 # Quest Diagnostics: Notice of Privacy Practices
 
@@ -129,7 +129,7 @@ Write to us with your specific written request and be sure to include sufficient
 
 If you have questions or concerns regarding the privacy or confidentiality of your PHI, or you wish to register a complaint, please write us at the address located at the beginning of this notice or contact [U.S. Facilities](https://web.archive.org/brand/company/b_comp_us_facilities.html), or [privacy@questdiagnostics.com](https://web.archive.org/brand/contactus/jsp/mail.jsp?type=35). 
 
-Our online privacy notice, which describes our online privacy practices, may be viewed at the following address: [http://www.questdiagnostics.com/online_privacy.html](https://web.archive.org/web/20110514143252id_/http%3A//www.questdiagnostics.com/online_privacy.html). 
+Our online privacy notice, which describes our online privacy practices, may be viewed at the following address: [http://www.questdiagnostics.com/online_privacy.html](https://web.archive.org/web/20111226210622id_/http%3A//www.questdiagnostics.com/online_privacy.html). 
 
 Quest Diagnostics reserves the right to amend this Notice of Privacy Practices, at any time, to reflect changes in our privacy practices, and these changes will apply retroactively, unless otherwise stated. Any such changes will be applicable to and effective for all Protected Health Information (PHI) that we maintain including PHI we created or received prior to the effective date of the Notice revision. 
 
