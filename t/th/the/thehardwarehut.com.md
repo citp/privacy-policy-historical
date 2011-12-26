@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehardwarehut.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627231412id_/http%3A//www.thehardwarehut.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehardwarehut.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226223024id_/http%3A//www.thehardwarehut.com/policy.php) for the most accurate reproduction.*
 
 # The Hardware Hut - Online and Privacy Policy
 
@@ -22,10 +22,10 @@ We also ask that you allow us to share your information in aggregate form for ou
 
 | 
 
-Monday  Jun 27, 2011 
+Monday  Dec 26, 2011 
 
 [](https://www.thehardwarehut.com/cart/cart.php) [](https://www.thehardwarehut.com/portfolio.php) [](https://web.archive.org/search-site.php) [](http://www.thehardwarehut.com/trade-login-new.php)
 
 [](https://web.archive.org/gift-ideas.php)
 
-[](http://www.revivallighting.com/)
+[](http://www.lightstore.net/)
