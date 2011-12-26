@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamus.edu privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627165043id_/http%3A//tamus.edu/offices/communications/reports/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamus.edu privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227002515id_/http%3A//www.tamus.edu/offices/communications/reports/privacy) for the most accurate reproduction.*
 
 # Privacy » The Texas A&M University System
 
@@ -12,8 +12,8 @@ To contact us:
 [Email us](mailto:syscomm@tamu.edu "Email A&M System Offices ")  
 Call us: (979) 458-6023  
 Write us: The Texas A&M University System Communications Office  
-200 Technology Way, Suite 1113  
-College Station, TX 77845-3424
+301 Tarrow Street  
+College Station, TX 77840
 
 Please include your name, address, phone, and email address (where applicable) in order to ensure prompt and accurate attention to your request.
 
