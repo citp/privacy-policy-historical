@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hotwire.com privacy policy that was archived on 2010-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100824224330id_/http%3A//www.hotwire.com/travel-information/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotwire.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227002750id_/http%3A//www.hotwire.com/travel-information/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Hotwire: Privacy Policy
 
-Below you will find the updated Privacy Policy for Hotwire (www.hotwire.com). If you have not registered or otherwise provided information through Hotwire on or after February 18, 2010, please refer to the [previous privacy policy](http://www.hotwire.com/travel-information/privacy-policy2009.jsp) for Hotwire.
+Below you will find the updated Privacy Policy for Hotwire (www.hotwire.com).
 
 We understand that booking online involves significant trust on your part. We value your trust, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. Please read the following policy to learn about our privacy practices. By visiting this website, you are accepting the practices described herein.
 
@@ -115,7 +115,7 @@ Please note that we do not combine the information we collect about your travel-
 **Data collected by business partners and ad networks to serve you with relevant advertising.**  
 The advertisements you see on this website are served by us or by our service providers. But we also allow third parties to collect information about your online activities through cookies and other technologies. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on our site, and (2) advertising networks, who collect information about your interests when you view or interact with one of the advertisements they place on many different websites on the Internet. The information gathered by these third parties is used to make predictions about your characteristics, interests or preferences and to display advertisements on our site and across the Internet tailored to your apparent interests. We do not permit these third parties to collect personal information about you on our site, nor do we share with them any personal information about you.
 
-Please note that we do not have access to or control over cookies and other technologies. These third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy. These companies may offer you a way to opt out of ad targeting based on their cookies. You may find more information by clicking on the company names above and following the links to the websites of each company. Some of these companies are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies. To learn more, please click [here](http://www.networkadvertising.org/).
+Please note that we do not have access to or control over cookies and other technologies. These third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy. These companies may offer you a way to opt out of ad targeting based on their cookies. You may find more information by clicking on the company names above and following the links to the websites of each company. Some of these companies are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies. To learn more, please click [here](http://www.networkadvertising.org/) or [here](http://www.teracent.com/about-us/opt-out/).
 
 **Data collected by companies that operate cookie-based exchanges to serve you with relevant advertising.**  
 Like other companies operating online, Expedia.com participates in cookie-based exchanges where anonymous information is collected about your browsing behavior through cookies and other technologies and segmented into different topics of interest (such as travel). These topics of interest are then shared with third parties, including advertisers and ad networks, so they can tailor advertisements to your apparent interests. We do not share personal information (such as your email address) with these companies and we do not permit these companies to collect any such information about you on our site. Please click [here](http://www.networkadvertising.org/) to learn more about cookie-based exchanges, including how to access information about the topics of interest associated with cookies on your computer and how to decline participation in these programs.
@@ -156,7 +156,7 @@ Our customer care associates are available 24 hours a day, seven days a week. If
 1-866-HOTWIRE (1-866-468-9473)**
 
 **Phone - outside of the U.S. and Canada  
-1-920-634-3150 (regular toll charges apply)**
+1-417-520-1680 (regular toll charges apply)**
 
 **Mail**
 
@@ -165,4 +165,4 @@ Hotwire Customer Care
 San Francisco, CA 94111  
 U.S.A 
 
-This Privacy Policy is effective as of February 18, 2010.
+This Privacy Policy is effective as of February 25, 2011.
