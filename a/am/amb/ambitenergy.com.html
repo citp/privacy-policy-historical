@@ -1,14 +1,13 @@
-<!--The following is the downloaded HTML source of the ambitenergy.com privacy policy that was archived on 2010-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101121113939id_/http%3A//ww2.ambitenergy.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ambitenergy.com privacy policy that was archived on 2011-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226060454id_/http%3A//ww2.ambitenergy.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
 		  <base href="http://ww2.ambitenergy.com/privacy.html">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
-  <meta name="keywords" content="Ambit, Ambit Energy, electric companies, electricity provider, power companies, energy providers energy companies, Texas electric companies, Illinois electric companies, New York electric companies, Network Marketing, MLM, income opportunities">
-  <meta name="title" content="Privacy">
+  <meta name="keywords" content="electricity provider, alternative energy companies, texas energy companies, energy provider, cheap energy houston, texas energy providers reviews, lowest electricity rates houston, cheap electric companies in texas, list of electric companies in texas, energy companies in houston tx, texas electric providers reviews, best electricity rates in dallas, compare electric rates maryland, stream energy rates texas, compare electric rates texas, compare electricity rates texas, texas choice power, texas energy plans, lowest electricity rates texas, comparing electric companies in texas, commercial electricity rates texas, electricity rates houston texas, houston electricity rates comparison, tx energy providers, ny electricity rates, best electric rates houston, lowest energy rates in texas">
   <meta name="author" content="Administrator">
-  <meta name="description" content="Ambit Energy is an energy provider for Texas, New York and Illinois, with fixed rate and variable price energy plans, outstanding savings, incredible rewards and excellent service.”">
+  <meta name="description" content="Ambit is a leading energy company. Learn why so many energy providers are trying to catch up to the fastest growing private company in America.">
   <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
   <title>Privacy</title>
   <link href="/templates/ambit_energy_subpage/favicon.ico" rel="shortcut icon" type="image/x-icon">
@@ -35,7 +34,12 @@
 		<link rel="stylesheet" href="/templates/ambit_energy_subpage/css/blueprint_0_9_1/print.css" type="text/css">
 		<link rel="stylesheet" href="/templates/ambit_energy_subpage/css/blueprint_0_9_1/ie.css" type="text/css">
 		<link rel="stylesheet" href="/templates/ambit_energy_subpage/css/template.css" type="text/css">
-		 
+
+		<!-- Take care of all the bad browsers, switch from show.css to goaway.css -->
+		<!--[if IE]>
+			<link id="size-stylesheet" rel="stylesheet" type="text/css" href="http://ww2.ambitenergy.com/css/social-show.css" />
+		<![endif]-->		 
+
 		<!--[if IE 7]>
 		    <link rel="stylesheet" href="/templates/ambit_energy_subpage/css/ie7.css" type="text/css" />
 		<![endif]-->
@@ -43,27 +47,56 @@
 		<!--[if IE 8]>
 		    <link rel="stylesheet" href="/templates/ambit_energy_subpage/css/ie8.css" type="text/css" />
 		<![endif]-->
-		<!-- End CSS -->
-		
-		<!-- Start Javascript -->
-		<!-- SWFObject Library -->
-		<script type="text/javascript" src="/templates/ambit_energy_subpage/js/swfobject_2_2/swfobject.js"></script>
-		
-		<!-- JQuery Library -->
-		<script type="text/javascript" src="/templates/ambit_energy_subpage/js/jquery-1.4.1/jquery-1.4.1.min.js"></script>
-		
-		<!-- Menu Library -->
-		<script type="text/javascript" src="/templates/ambit_energy_subpage/js/menu.js"></script>
+        
 
-                <!-- Tooltip Library -->
-		<script type="text/javascript" src="/templates/ambit_energy_subpage/js/tooltip.js"></script>
+        
+        <!-- End CSS -->       
 		
-		<!-- Corner Library -->
-		<script type="text/javascript" src="/templates/ambit_energy_subpage/js/jquery.corner.js"></script>
-
-                <!-- jQuery Cookie Library -->
-		<script type="text/javascript" src="/templates/ambit_energy_subpage/js/jquery.cookie.js"></script>
+		<!-- SWFObject Library 
+		<script type="text/javascript" src="/templates/ambit_energy_subpage/js/swfobject_2_2/swfobject.js"></script>-->
+		        
+        <!-- Start Javascript -->
+		<script type="text/javascript" src="/templates/ambit_energy_subpage/js/jquery-1.4.1/jquery-1.4.1.min.js"></script><!-- JQuery -->
+		<script type="text/javascript" src="/templates/ambit_energy_subpage/js/menu.js"></script><!-- Menu Library -->
+        <script type="text/javascript" src="/templates/commonjs/tooltip.js"></script><!-- Tooltip Library -->
+		<script type="text/javascript" src="/templates/ambit_energy_subpage/js/jquery.corner.js"></script><!-- Corners Library -->		
+		<script type="text/javascript" src="/templates/ambit_energy_subpage/js/jquery.cookie.js"></script><!-- jQuery Cookie Library -->
 		<!-- End Javascript -->
+		<script>
+			$(document).ready(function(){
+				$('ul li:last-child').addClass('jklast');
+				
+				adjustStyle($(this).width());
+ 				$(window).resize(function() {
+					adjustStyle($(this).width());
+				});
+ 				$('#howitworks_sp').hide();
+ 				$('#howitworks_nav a').click(function(){ 
+					$('#howitworks_nav a').toggleClass('selected'); 
+					$(this).parents('#howitworks_nav').next('div').slideToggle(1000).next('div').slideToggle(1000); 
+					return false;
+ 				});
+				$('.jk-inner:gt(0)').hide();
+				$currenttab = $('.jk-inner:first');
+				$('a.goto').click(function(){
+					var goto = $(this).attr('rel');
+					$currenttab.hide();
+					$('.jk-inner').eq(goto).show();
+					$currenttab = $('.jk-inner').eq(goto);
+					$('.selected').removeClass('selected');
+					$(this).parent().addClass('selected');/**/
+					return false;
+				});
+			});
+			function adjustStyle(width) {
+			    width = parseInt(width);
+			    if (width < 1050) {
+ 			       $("#size-stylesheet").attr("href", "http://ww2.ambitenergy.com/css/social-hide.css");
+			    } else {
+ 			       $("#size-stylesheet").attr("href", "http://ww2.ambitenergy.com/css/social-show.css");
+			    }
+			}
+		</script>	
 	
 	</head>
     <body>
@@ -87,7 +120,7 @@
         	        <!-- Start Logo -->    	
 	        	<div class="span-11 append-bottom" id="logo">
 	        		<a href="/">
-	        			<img src="/templates/ambit_energy_subpage/images/logoSmall.jpg" alt="Ambit Energy" title="Ambit Energy">
+	        			<img src="/images/logoSmall.jpg" alt="Ambit Energy" title="Ambit Energy">
 	        		</a>
 	        	</div>
 	        	<!-- End Logo -->
@@ -201,44 +234,33 @@
         
     </li>
 	<li>
-       <!-- <img id="customer_sign_in" src="http://ww2.ambitenergy.com/templates/ambit_energy_subpage/images/customerLoginTab.png" />-->
         <img id="customer_sign_in" src="http://ww2.ambitenergy.com/images/stories/customerLoginTab.png">
         <!-- Start Customer Sign In Form -->
         <div id="customer_sign_in_form">
         	<img id="customer_sign_in_over" src="http://ww2.ambitenergy.com/templates/ambit_energy_subpage/images/customerLoginTabOver.png">
-	 		<form onsubmit="return validateCustomerForm()" id="form2" name="form2" action="https://care.ambitenergy.com/default.aspx" method="post">
+	 		<form method="post" action="https://my.ambitenergy.com/index.php/login/registersession" id="form2">
 	 			<table cellpadding="0" cellspacing="0" class="login_form">
 	 				<tbody><tr>
 	 					<td>
-	 						Account Number:
-	 						<img class="tooltip" src="http://ww2.ambitenergy.com/templates/ambit_energy_subpage/images/tooltip.png"><br>
-	 						 <div class="tooltip_text">
- 								This is the A-number listed at the top of your billing invoice.  If you can't find it, call customer care
- 								at 877-282-6248
- 							</div> 											
-	 						<input type="text" name="txtUserId" id="customer_username">
+	 						Username:<br>										
+	 						<input type="text" name="username" id="username">
 	 					</td>
 	 				</tr>
 	 				<tr>
 	 					<td>
 	 						Password:<br>									
-	 						<input type="password" name="txtPwd">
+	 						<input type="password" name="password">
 	 						<input class="form_submit" type="image" src="http://ww2.ambitenergy.com/templates/ambit_energy_subpage/images/button.png">
 	 					</td>
 	 				</tr>
 	 				<tr>
 	 					<td>
-	 						Remember me <input type="checkbox" name="remember" id="remember_customer">
-	 					</td>
-	 				</tr>
-	 				<tr>
-	 					<td>
-	 						<a href="https://care.ambitenergy.com/ForgotPwd.aspx">
-	 							Forgot your Password?
-	 						</a>
+	 						<a href="https://my.ambitenergy.com/index.php/login/forgot-username">Forgot Username?</a> | <a href="https://my.ambitenergy.com/index.php/login/forgot-password">Forgot Password?</a><br>
+                            <a href="https://my.ambitenergy.com/index.php/login/register">Register Now</a>
 	 					</td>
 	 				</tr>
 	 			</tbody></table>
+               
 	 			<div class="close" onclick="$('div#customer_sign_in_form').hide()">
 	 				Close X
 	 			</div>   	
@@ -280,7 +302,7 @@
 	 				</tr>
 	 				<tr>
 	 					<td>
-	 						<a href="https://care.ambitenergy.com/ForgotPwd.aspx">
+	 						<a href="https://my.ambitenergy.com/login/forgot-username">
 	 							Forgot your Password?
 	 						</a>
 	 					</td>
@@ -304,7 +326,7 @@
         	
         	<!-- Start Main Menu -->
         	<div class="span-24" id="menu_main">        		        		
-        	    <ul class="menu_main rounded"><li class="parent item34"><span class="separator"><span>Rates And Plans</span></span><ul><li class="item81"><a href="/rates-a-plans/see-our-rates.html"><span>Rates And Plans</span></a></li><li class="item41"><a href="/rates-a-plans/see-our-rates.html"><span>View Rates And Plans</span></a></li><li class="item89"><a href="/rates-a-plans/renew-plan.html"><span>Renew Plan</span></a></li><li class="item96"><a href="/rates-a-plans/rates-and-plans-new-york.html"><span>Rates and Plans - New York</span></a></li><li class="item97"><a href="/rates-a-plans/rates-and-plans-illinois.html"><span>Rates and Plans - Illinois</span></a></li><li class="item109"><a href="/rates-a-plans/rates-and-plans-maryland.html"><span>Rates and Plans - Maryland</span></a></li></ul></li><li class="parent item35"><span class="separator"><span>Ambit Advantages™</span></span><ul><li class="item82"><a href="/ambit-advantages/program-overview.html"><span>Ambit Advantages™</span></a></li><li class="item90"><a href="/ambit-advantages/program-overview.html"><span>Program Overview</span></a></li><li class="item45"><a href="/ambit-advantages/free-energy.html"><span>Free Energy</span></a></li><li class="item46"><a href="/ambit-advantages/travel-rewards.html"><span>Travel Rewards</span></a></li></ul></li><li class="parent item36"><span class="separator"><span>Start A Business</span></span><ul><li class="item83"><a href="/start-a-business/how-it-works.html"><span>Start A Business</span></a></li><li class="item49"><a href="/start-a-business/how-it-works.html"><span>How it Works</span></a></li><li class="parent item51"><a href="/start-a-business/testimonials.html"><span>Testimonials</span></a></li><li class="item63"><a href="/start-a-business/get-more-info.html"><span>Get More Info</span></a></li></ul></li><li class="parent item32"><span class="separator"><span>About Ambit</span></span><ul><li class="item79"><a href="/about-ambit/our-history.html"><span>About Ambit</span></a></li><li class="item37"><a href="/about-ambit/our-history.html"><span>Our History</span></a></li><li class="item38"><a href="/about-ambit/our-leaders.html"><span>Our Leaders</span></a></li><li class="parent item39"><a href="/about-ambit/media-center.html"><span>Media Center</span></a></li><li class="item40"><a href="https://ambitenergycareers.silkroad.com" target="_blank"><span>Careers</span></a></li><li class="item61"><a href="/about-ambit/contact-us.html"><span>Contact Us</span></a></li></ul></li></ul>
+        	    <ul class="menu_main rounded"><li class="parent item34"><span class="separator"><span>Rates And Plans</span></span><ul><li class="item81"><a href="/rates-a-plans/see-our-rates.html"><span>Rates And Plans</span></a></li><li class="item41"><a href="/rates-a-plans/see-our-rates.html"><span>View Rates And Plans</span></a></li><li class="item89"><a href="/rates-a-plans/renew-plan.html"><span>Renew Plan</span></a></li><li class="item96"><a href="/rates-a-plans/rates-and-plans-new-york.html"><span>Rates and Plans - New York</span></a></li><li class="item97"><a href="/rates-a-plans/rates-and-plans-illinois.html"><span>Rates and Plans - Illinois</span></a></li><li class="item109"><a href="/rates-a-plans/rates-and-plans-maryland.html"><span>Rates and Plans - Maryland</span></a></li><li class="item110"><a href="/rates-a-plans/rates-and-plans-pennsylvania.html"><span>Rates and Plans - Pennsylvania</span></a></li><li class="item144"><a href="/rates-a-plans/rates-and-plans-new-jersey.html"><span>Rates and Plans - New Jersey</span></a></li><li class="item111"><a href="/rates-a-plans/tx-avg-billing.html"><span>Texas Average Billing</span></a></li></ul></li><li class="parent item35"><span class="separator"><span>Ambit Advantages™</span></span><ul><li class="item82"><a href="/ambit-advantages/program-overview.html"><span>Ambit Advantages™</span></a></li><li class="item90"><a href="/ambit-advantages/program-overview.html"><span>Program Overview</span></a></li><li class="item45"><a href="/ambit-advantages/free-energy.html"><span>Free Energy</span></a></li><li class="item46"><a href="/ambit-advantages/travel-rewards.html"><span>Travel Rewards</span></a></li></ul></li><li class="parent item36"><span class="separator"><span>Start A Business</span></span><ul><li class="item83"><a href="/start-a-business/how-it-works.html"><span>Start A Business</span></a></li><li class="item49"><a href="/start-a-business/how-it-works.html"><span>How it Works</span></a></li><li class="parent item51"><a href="/start-a-business/testimonials.html"><span>Testimonials</span></a></li><li class="item63"><a href="/start-a-business/get-more-info.html"><span>Get More Info</span></a></li></ul></li><li class="parent item32"><span class="separator"><span>About Ambit</span></span><ul><li class="item79"><a href="/about-ambit/our-history.html"><span>About Ambit</span></a></li><li class="item37"><a href="/about-ambit/our-history.html"><span>Our History</span></a></li><li class="item38"><a href="/about-ambit/our-leaders.html"><span>Our Leaders</span></a></li><li class="item132"><a href="/about-ambit/ambition.html"><span>Ambition</span></a></li><li class="parent item39"><a href="/about-ambit/media-center.html"><span>Media Center</span></a></li><li class="parent item112"><a href="/about-ambit/multimedia-gallery.html"><span>Multimedia Gallery</span></a></li><li class="item40"><a href="https://ambitenergycareers.silkroad.com" target="_blank"><span>Careers</span></a></li><li class="item61"><a href="/about-ambit/contact-us.html"><span>Contact Us</span></a></li></ul></li></ul>
         	</div>
         	<!-- End Main Menu -->        	  
                 <div class="clear"></div>
@@ -330,77 +352,22 @@
 <td valign="top">
 <h1>Ambit Energy Privacy Policy</h1>
 <span class="leadName">Our Companywide Privacy Commitment to You</span>
-<p>As an Internet user, we understand how important safeguarding your personal information is to you.  At Ambit Energy Holdings (Ambit Energy), we are committed to protecting your personal information as you use our website.  
-We would like to take this opportunity to let you know that Ambit Energy does not collect personally identifiable information from anyone unless such information is provided to us voluntarily and knowingly except as otherwise provided in this Policy. We only collect personal information for specific purposes, including providing you with retail energy service. We will not sell or make available your personal information to unaffiliated companies for commercial purposes unrelated to the business of Ambit Energy   However, we may use this information to inform you of goods or services that may interest you. Ambit Energy will not disclose any information about you to unaffiliated companies or organizations without your consent except as disclosed to you in this Policy, unless: (a) we are required to do so by law; (b) we believe it necessary to respond to an inquiry or provide you with a requested service; (c) It is necessary to make good on our Terms of Service Agreement we have entered into with you;  or (d) to protect the rights, property or personal safety of any other person, including another Ambit Energy customer or any member of the public. </p>
-<p>Ambit Energy and its affiliates recognize that by utilizing our website you are placing trust in us.  We thank you.  Let us assure you that we will take precautions to protect your information.  In order to operate the Website and deliver retail electric service we may share your personal information with a service partner under strict conditions. We will not otherwise disclose your personal information to other companies without your explicit consent.</p> 
-
-<p>You are not required to register or provide information to us in order to view a large majority of our site.   However, to obtain services from Ambit Energy or to access portions of our Website, including, but not limited to, Ambit Energy's “Power Zone”, “Customer Login” or other services provided by Ambit Energy, you may be asked to provide personal information. We use your information to personalize your Web experience or to provide you with requested services. Ambit Energy will only use your information strictly in accordance with this Policy. </p>
-
+<p>As an Internet user, we understand how important safeguarding your personal information is to you.  At Ambit Energy Holdings (Ambit Energy), we are committed to protecting your personal information as you use our website.   We would like to take this opportunity to let you know that Ambit Energy does not collect personally identifiable information from anyone unless such information is provided to us voluntarily and knowingly except as otherwise provided in this Policy. We only collect personal information for specific purposes, including providing you with retail energy service. We will not sell or make available your personal information to unaffiliated companies for commercial purposes unrelated to the business of Ambit Energy   However, we may use this information to inform you of goods or services that may interest you. Ambit Energy will not disclose any information about you to unaffiliated companies or organizations without your consent except as disclosed to you in this Policy, unless: (a) we are required to do so by law; (b) we believe it necessary to respond to an inquiry or provide you with a requested service; (c) It is necessary to make good on our Terms of Service Agreement we have entered into with you;  or (d) to protect the rights, property or personal safety of any other person, including another Ambit Energy customer or any member of the public.</p>
+<p>Ambit Energy and its affiliates recognize that by utilizing our website you are placing trust in us.  We thank you.  Let us assure you that we will take precautions to protect your information.  In order to operate the Website and deliver retail electric service we may share your personal information with a service partner under strict conditions. We will not otherwise disclose your personal information to other companies without your explicit consent.</p>
+<p>You are not required to register or provide information to us in order to view a large majority of our site.   However, to obtain services from Ambit Energy or to access portions of our Website, including, but not limited to, Ambit Energy's “Power Zone”, “Customer Login” or other services provided by Ambit Energy, you may be asked to provide personal information. We use your information to personalize your Web experience or to provide you with requested services. Ambit Energy will only use your information strictly in accordance with this Policy.</p>
 <span class="leadName">How We Protect Your Information</span>
-<p>Ambit Energy will endeavor to take all steps deemed reasonable by Ambit Energy to keep secure any information we hold about you. Your information is stored on secure servers that are protected in controlled facilities. We require our employees and data processors to respect the confidentiality of any personal information held by Ambit Energy Ambit Energy takes many precautions, including administrative and technical measure, to protect your personal information against theft, mishandling and loss.  Additionally, Ambit protects against misuse of your information, such as unauthorized access, disclosure, alteration, and destruction of your personal information.  No one, including Ambit Energy, can give absolute assurance that your information will be secure 100% of the time due to the nature of the internet.  Ambit Energy will not be held responsible for events arising from unauthorized access to your personal information. </p>
+<p>Ambit Energy will endeavor to take all steps deemed reasonable by Ambit Energy to keep secure any information we hold about you. Your information is stored on secure servers that are protected in controlled facilities. We require our employees and data processors to respect the confidentiality of any personal information held by Ambit Energy Ambit Energy takes many precautions, including administrative and technical measure, to protect your personal information against theft, mishandling and loss.  Additionally, Ambit protects against misuse of your information, such as unauthorized access, disclosure, alteration, and destruction of your personal information.  No one, including Ambit Energy, can give absolute assurance that your information will be secure 100% of the time due to the nature of the internet.  Ambit Energy will not be held responsible for events arising from unauthorized access to your personal information.</p>
 <p>Ambit Energy uses appropriate commercially available anti-virus software to ensure that this Website does not contain or carry viruses. However, due to the rapidly developing nature of viruses and the Internet we strongly recommend that you employ similar anti-virus software when accessing the Ambit Energy Website. Ambit Energy makes no warranty that the Website or e-mail correspondence is free from such viruses.</p>
 <span class="leadName">Children</span>
 <p>Our Website contains educational energy-related information that may be of interest to children. Ambit Energy does not seek to gather personal information online from or about children under the age of 13. Ambit Energy encourages all children and young teens to ask their parents for authorization before providing any information about themselves or their household to anyone over the Internet.</p>
-
 <span class="leadName">Data Collection</span>
 <p>Ambit may use "cookie" technology on our Website. "Cookies" are small text files a Website can use to recognize repeat users, facilitate the user's access to and use of the site and to track behavior of the Web pages you visit, among other uses. Our Website may automatically collect Cookies and other information, including, but not limited to, your domain name, and Ambit may compile aggregate data for statistical purposes to improve our content of our website or to better administer the web pages available on the Ambit Energy Website.</p>
 <p>When and if Ambit Energy requests an email address from you, you will be given the opportunity to indicate whether or not you wish to receive future email solicitations from us. Regardless, from time to time we may send you emails for other reasons, including, but not limited to servicing your energy account with us.</p>
 <span class="leadName">Privacy Questions</span>
-<p>This Website is owned and operated by Ambit Energy.  This Privacy Policy is to provide you with assurance and explain Ambit’s policy to ensure you personal information is protected and properly used.  If you have questions about this Policy, please feel free to e-mail us at 
- <script language="JavaScript" type="text/javascript">
- <!--
- var prefix = 'm&#97;&#105;lt&#111;:';
- var suffix = '';
- var attribs = '';
- var path = 'hr' + 'ef' + '=';
- var addy16445 = 'c&#111;mpl&#105;&#97;nc&#101;' + '&#64;';
- addy16445 = addy16445 + '&#97;mb&#105;t&#101;n&#101;rgy' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + addy16445 + suffix + '\'' + attribs + '>' );
- document.write( addy16445 );
- document.write( '<\/a>' );
- //-->
- </script><a href="mailto:compliance@ambitenergy.com">compliance@ambitenergy.com</a> <script language="JavaScript" type="text/javascript">
- <!--
- document.write( '<span style=\'display: none;\'>' );
- //-->
- </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it
- <script language="JavaScript" type="text/javascript">
- <!--
- document.write( '</' );
- document.write( 'span>' );
- //-->
- </script></span> or write us at:</p> 
-
-Ambit Energy<br>
-P.O. Box 864589<br>
-Plano, TX 75086<br>
-Attn: Compliance Department<br> <br>
-If you would like to know what information Ambit retains or if you wish to have Ambit change your information because it is out of date or inaccurate, please contact us by e-mail at 
- <script language="JavaScript" type="text/javascript">
- <!--
- var prefix = 'm&#97;&#105;lt&#111;:';
- var suffix = '';
- var attribs = '';
- var path = 'hr' + 'ef' + '=';
- var addy75505 = 'c&#111;mpl&#105;&#97;nc&#101;' + '&#64;';
- addy75505 = addy75505 + '&#97;mb&#105;t&#101;n&#101;rgy' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + addy75505 + suffix + '\'' + attribs + '>' );
- document.write( addy75505 );
- document.write( '<\/a>' );
- //-->
- </script><a href="mailto:compliance@ambitenergy.com">compliance@ambitenergy.com</a> <script language="JavaScript" type="text/javascript">
- <!--
- document.write( '<span style=\'display: none;\'>' );
- //-->
- </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it
- <script language="JavaScript" type="text/javascript">
- <!--
- document.write( '</' );
- document.write( 'span>' );
- //-->
- </script></span> and we will modify your record accordingly. <p></p> 
-
-														                     <p>Last updated March 15, 2010© 2010 Ambit Energy All rights reserved.</p>
+<p>This Website is owned and operated by Ambit Energy.  This Privacy Policy is to provide you with assurance and explain Ambit’s policy to ensure you personal information is protected and properly used. &nbsp;<!--StartFragment-->If you have questions about this Policy, please contact us at (877) 282-6248, Monday through Friday, 8 a.m. - 6 p.m. CT, Saturday, 10 a.m. - 5 p.m. CT, or write us at:&nbsp;</p>
+Ambit Energy<br> P.O. Box 864589<br> Plano, TX 75086<br> Attn: Compliance Department<br> <br><!--StartFragment-->If you would like to know what information Ambit retains or if you wish to have Ambit change your information because it is out of date or inaccurate, please contact us at (877) 282-6248, Monday through Friday, 8 a.m. - 6 p.m. CT, Saturday, 10 a.m. - 5 p.m. CT and we will modify your record accordingly. <br>
+<p>&nbsp;</p>
+<p>Last updated February 23, 2011 &nbsp;© 2011 Ambit Energy All rights reserved.</p>
 
 </td>
 </tr>
@@ -413,39 +380,37 @@ If you would like to know what information Ambit retains or if you wish to have 
         	<!-- End Component -->      
                 <div class="clear"></div>
         	      
-        	<!-- Start Footer -->	        	
- 	<div class="span-24 prepend-top append-bottom" id="footer">
-<p class="prepend-top">
+        	<!-- Start Footer -->
+    <div class="span-24 prepend-top append-bottom" id="footer">
+        <div class="logos">
+            <div class="logoinner">
+                <!--a href="http://www.visa.com" target="_blank" title="Visit Visa Online" style="margin:0; padding:0 0 0 20px;"><img src="/images/visa-jk.png" alt="Visa" style="padding:0; margin:0;" /></a-->
+				
+                <a href="http://www.dallasnews.com/business/best-places-to-work/best-midsize-places-to-work/index.jsp?appSession=258300289981956&amp;RecordID=26&amp;PageID=3&amp;PrevPageID=2&amp;cpipage=2&amp;CPIsortType=&amp;CPIorderBy=" title="Best Places to Work in Dallas" style="margin:0; padding:0 0 0 20px;"><img src="/images/dmn-jk.png" alt="2009 Dallas Morning News Top 100 places to work" style="padding:0; margin:0;"></a>
 
-                </p><table width="875" border="0" cellspacing="0" cellpadding="0">
-        		  <tbody><tr>
-        		    <td width="125" align="center">
-                    <p class="prepend-top" style="text-align:right;"><a href="http://www.inc.com/magazine/20100901/meet-americas-fastest-growing-company.html" target="_blank"><img src="/images/stories/inc-500.png" alt="INC 500 : Ambit is named the #1 fastest-growing company in America" border="0"></a></p>
-                    </td>
-        		    <td align="center">
-        			<p class="prepend-top" style="text-align:center;">We are a member of the Direct Selling Association (DSA). We abide by the <a href="http://www.dsa.org/ethics/" target="_blank">DSA's Code of Ethics</a>. <br>
-       			© 2010 Ambit Energy Holdings, LLC, parent company of Ambit Texas, LLC <br>(Texas PUC License No. 10117), Ambit Illinois, LLC, Ambit New York, LLC, and Ambit Northeast, LLC.. All rights reserved. <br>
-       		  Toll-Free 1-877-282-6248,  P.O. Box 864589, Plano, TX 75086 </p>
-              <p class="prepend-top" style="text-align:center;">
-              
-              <a href="http://www.dsa.org/" target="_blank"><img style="margin-right: 10px" src="/images/stories/dsamemberlogo_tiny.jpg" alt="DSA Member" border="0"></a>      
-                      <a href="http://www.bbbonline.org/cks.asp?id=1061113132812" target="_blank"><img style="margin-right: 10px" src="/images/stories/bbb_horizontal.gif" alt="BBB Member" border="0"></a> 
-                <a href="http://www.visa.com" target="_blank"><img src="/images/stories/visa1_60x38_a.gif" alt="Visa" border="0"></a> </p>
-        		<p></p></td>
-        		    <td width="125" align="center">
-                    <p class="prepend-top" style="text-align:left;"><a href="http://www.dallasnews.com/sharedcontent/dws/includes/ice3/dn/bus/Top100.html&#10;" target="_blank"><img style="margin-right: 10px" src="/images/stories/dmn-top100.png" alt="2009 Dallas Morning News Top 100 places to work" border="0"></a></p>
-                    </td>
-      		    </tr>
-      		  </tbody></table>
-              <p></p>
-        	        	
-        		<ul class="menu_bottom"><li class="item21"><a href="/about-ambit/media-center.html"><span>Media Center</span></a></li><li class="item69"><span class="separator"><span>|</span></span></li><li class="item26"><a href="/satisfaction-guarantee.html"><span>Satisfaction Guarantee</span></a></li><li class="item70"><span class="separator"><span>|</span></span></li><li id="current" class="active item25"><a href="/privacy.html"><span>Privacy</span></a></li><li class="item71"><span class="separator"><span>|</span></span></li><li class="item64"><a href="/about-ambit/contact-us.html"><img src="/images/stories/iconcontact.jpg" alt="contact-us"><span>Contact Us</span></a></li><li class="item72"><span class="separator"><span>|</span></span></li><li class="item65"><a href="/site-map.html"><span>Site Map</span></a></li><li class="item93"><span class="separator"><span>|</span></span></li><li class="item95"><a href="/customer-faq.html"><span>Customer Support</span></a></li></ul>
-        	</div>
-        	<!-- End Footer -->
+                <a href="http://www.dsa.org/" target="_blank" title="Visit DSA Online" style="margin:0; padding:0 0 0 20px;"><img src="/images/dsa-jk.png" alt="DSA Member" style="padding:0; margin:0;"></a>      
+
+                <a href="http://www.bbb.org/dallas/business-reviews/electric-companies/ambit-energy-lp-in-dallas-tx-90033973#bbblogo" title="Ambit Energy, LP is a BBB Accredited Electric Company in Dallas, TX" style="margin:0; padding:0 0 0 20px;"><img src="/images/bbb-jk.png" alt="BBB" style="padding:0; margin:0;"></a>
+				
+            </div>
+        </div>
+    	<ul class="menu_bottom"><li class="item21"><a href="/about-ambit/media-center.html"><span>Media Center</span></a></li><li class="item69"><span class="separator"><span>|</span></span></li><li class="item26"><a href="/satisfaction-guarantee.html"><span>Satisfaction Guarantee</span></a></li><li class="item70"><span class="separator"><span>|</span></span></li><li id="current" class="active item25"><a href="/privacy.html"><span>Privacy</span></a></li><li class="item71"><span class="separator"><span>|</span></span></li><li class="item64"><a href="/about-ambit/contact-us.html"><img src="/images/stories/iconcontact.jpg" alt="contact-us"><span>Contact Us</span></a></li><li class="item72"><span class="separator"><span>|</span></span></li><li class="item65"><a href="/site-map.html"><span>Site Map</span></a></li><li class="item93"><span class="separator"><span>|</span></span></li><li class="item95"><a href="/customer-faq.html"><span>Customer Support</span></a></li></ul>
+    	<p>We are a member of the Direct Selling Association (DSA). We abide by the <a href="http://www.dsa.org/ethics/" target="_blank" rel="nofollow">DSA's Code of Ethics</a>.</p>
+        <p>© 2006−2011 Ambit Energy Holdings, LLC, parent company of Ambit Texas, LLC (Texas PUC License No. 10117), <br>Ambit Illinois, LLC, Ambit Northeast, LLC and Ambit New York, LLC. All rights reserved.</p>
+        <p></p><address>Toll-Free (877) 282-6248 | P.O. Box 864589, Plano, TX 75086</address><p></p>
+    </div>
+<!-- End Footer -->
                 <div class="clear"></div>
         	
         </div>
         <!-- End Container -->
+        
+        <ul class="social">
+            <li><a href="http://www.facebook.com/The-Official-Ambit-Energy-Facebook-Page#!/pages/The-Official-Ambit-Energy-Facebook-Page/117496694927143" target="_blank" title="Ambit Energy on Facebook"><img src="http://ww2.ambitenergy.com/images/social/facebook_21.png" height="21" width="21" alt="Ambit Energy on Facebook"></a></li>
+            <li><a href="http://www.youtube.com/user/AmbitEnergyLLC" target="_blank" title="Ambit Energy on YouTube"><img src="http://ww2.ambitenergy.com/images/social/youtube_21.png" height="21" width="21" alt="Ambit Energy on YouTube"></a></li>
+            <li><a href="http://twitter.com/#!/AmbitEnergy" target="_blank" title="Ambit Energy on Twitter"><img src="http://ww2.ambitenergy.com/images/social/twitter_21.png" height="21" width="21" alt="Ambit Energy on Twitter"></a></li>
+            <li><a href="http://www.linkedin.com/company/ambit-energy" target="_blank" title="Ambit Energy on Linked In"><img src="http://ww2.ambitenergy.com/images/social/linkedin_21.png" height="21" width="21" alt="Ambit Energy on Linked In"></a></li>
+        </ul>
         
         <!-- Start Google Analytics -->
 		<script type="text/javascript">
