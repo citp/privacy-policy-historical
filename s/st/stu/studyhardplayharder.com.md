@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyhardplayharder.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503154946id_/http%3A//studyhardplayharder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyhardplayharder.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226132319id_/http%3A//studyhardplayharder.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
