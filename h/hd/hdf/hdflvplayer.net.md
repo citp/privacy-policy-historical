@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdflvplayer.net privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424164017id_/http%3A//www.hdflvplayer.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdflvplayer.net privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226172801id_/http%3A//www.hdflvplayer.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Contus HD Flv Player Privacy Policy
 
