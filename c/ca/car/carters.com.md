@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carters.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627054034id_/http%3A//www.carters.com/privacy/privacy-policy%2Cdefault%2Cpg.html%3Fid%3Dcarters) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carters.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226110458id_/http%3A//www.carters.com/privacy/privacy-policy%2Cdefault%2Cpg.html%3Fid%3Dcarters) for the most accurate reproduction.*
 
 # Carters.com | OshKoshBgosh.com Privacy Policy
 
@@ -34,7 +34,7 @@ All personally identifiable and non-personally identifiable information we colle
 
 We may also share your information with third parties when we believe such disclosure is required to (i) comply with laws, regulations and/or government policies; (ii) comply with court orders, legal processes, or government enforcement actions; (iii) establish or exercise our legal rights, protect our rights and interests, or defend against legal claims; or (iv) detect, investigate, prevent, or take action with respect to illegal activities, suspected fraud or misconduct, securities or technical issues, situations involving potential threats to the physical safety of any person, or violations of our Terms of Use or our Privacy Policy.
 
-We may provide your information to carefully selected unaffiliated companies when we believe their products or services may be of interest to you.
+We may provide your information to carefully selected unaffiliated companies when we believe their products or services may be of interest to you or to other merchants and merchant exchanges who may, in turn, use such information for marketing purposes.
 
 If for any reason you do not wish us to share your information with unaffiliated third parties who use it for marketing purposes, please either inform our Consumer Affairs team at 888-782-9548, [send us an email](mailto:contactus@carters.com), or send us a note at _Carter’s Consumer Affairs, 206 State Street, Oshkosh, WI 54901._
 
@@ -45,6 +45,12 @@ In the event we, or any of our affiliates or subsidiaries, are involved in a bus
 Back to the Top
 
 No. Protecting children’s privacy is extremely important to us. Our websites are not directed to children under 13 years of age, and we do not intentionally collect or maintain any personal information from children under the age of 13.
+
+##### Is my personally identifiable information collected and maintained in the United States?
+
+Back to the Top
+
+Yes. We are a U.S. company and your personally identifiable information submitted by you through our websites is collected and maintained in the United States, regardless of the geographic location or country where the information originated. If you do not consent to your personally identifiable information being collected and maintained in the United States, then you should not enter such information through our websites.
 
 We love to hear about all of your family’s big and little changes! Is your family growing, or have you moved? Simply [sign in to your account](https://www.carters.com/on/demandware.store/Sites-Carters-Site/default/Account-StartRegister) at www.Carters.com or www.OshKoshBgosh.com to change your personal information in your account profile at any time.
 
@@ -63,3 +69,14 @@ Please be aware that our websites may contain links to other websites hosted by 
 Under California law, as a California resident you have the right to request from us the names and addresses of third parties to whom we disclosed personal information about you in the preceding calendar year and whom we know or reasonably should know to have used such information for direct marketing purposes. To request the above information, please contact us at 888-782-9548, or write to us at _Carter’s Consumer Affairs, 206 State Street, Oshkosh, WI 54901._ Please note that we are only required to respond to your request once during the course of any calendar year.
 
 We are very sensitive to your privacy concerns. If you have any questions or comments regarding our Privacy Policy, please contact Consumer Affairs at 888-782-9548, [send us an email](mailto:contactus@carters.com), or drop us a note at _Carter’s Consumer Affairs, 206 State Street, Oshkosh, WI 54901._
+
+Our Coremetrics site usage statistics system allows you to view or change your profile. There are 3 different levels of data collection:
+
+  * #### Change your current opt-out option:
+
+  * Click for Anonymous Opt-Out. This setting allows Coremetrics to anonymously capture the visitor's Web actions (including the data collected in Coremetrics reporting). All actions are grouped with all other anonymous visitors.
+  * Click for Total Opt-Out. The data is not collected by Coremetrics' data collection front-end servers and, consequently, is not included in Coremetrics reporting.
+  * Click to opt-in. This setting will again allow Coremetrics to capture all Web actions and includes the data collected in Coremetrics reporting.
+  * View Current Opt-out Status.
+
+
