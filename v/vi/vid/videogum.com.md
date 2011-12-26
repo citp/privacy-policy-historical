@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videogum.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627051228id_/http%3A//videogum.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videogum.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226104009id_/http%3A//www.videogum.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Videogum
 
