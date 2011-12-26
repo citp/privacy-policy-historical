@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the esteelauder.com privacy policy that was archived on 2011-04-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110413064013id_/http%3A//www.esteelauder.com/cms/customer_service/privacy.tmpl) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the esteelauder.com privacy policy that was archived on 2011-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226234312id_/http%3A//www.esteelauder.com/cms/customer_service/privacy.tmpl) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- The Estee Lauder Content Management System (v3.4.1.3330) --><!-- ROOT CREATOR TEMPLATE v3 --><!-- CMS PAGE ID: 42756 --><!-- PAGE NAME: privacy --><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -53,19 +53,23 @@
 </script>
 <script type="text/javascript" src="/js/v2/external/catch-console.js"></script>
 <script type="text/javascript" src="/js/js_files.js"></script>
+<script type="text/javascript" src="/js/v2/external/mtagconfig.js"></script>
+<script type="text/javascript"> if (typeof(lpUnit)=='undefined')    var lpUnit='Estee Lauder';  </script>
 <script type="text/javascript" src="/js/v2/external/jsonpath-0.8.0.js"></script>
 <script type="text/javascript" src="/js/v2/external/simulate.js"></script>
+<script type="text/javascript" src="/js/v2/external/jquery-1.5.2.min.js"></script>
+<script type="text/javascript">jQuery.noConflict();</script>
 
 <script type="text/javascript">
 var MP = {
-//<!-- mp_trans_disable_start -->
-  Version: '1.0.20',
-  Domains: {'es':'espanol.esteelauder.com'},
+//<!-- mp_trans_disable_start --> 
+  Version: '1.0.22',
+  Domains: {'es':'espanol.esteelauder.com'},	
   SrcLang: 'en',
 //<!-- mp_trans_disable_end -->
   UrlLang: 'mp_js_current_lang',
   SrcUrl: unescape('mp_js_orgin_url'),
-//<!-- mp_trans_disable_start -->
+//<!-- mp_trans_disable_start --> 	
   init: function(){
     if (MP.UrlLang.indexOf('p_js_')==1) {
       MP.SrcUrl=window.top.document.location.href;
@@ -102,26 +106,19 @@ setCookie_LiveChat_Popup: function(name,value,path,domain){
 switchLanguage: function(lang){
   if(lang!=MP.SrcLang){
     var script=document.createElement('SCRIPT');
-    script.src=location.protocol+'//'+MP.Domains[lang]+'/'+MP.SrcLang+lang+'/?1023749632;'+escape(MP.SrcUrl);
+    script.src=location.protocol+'//'+MP.Domains[lang]+'/'+MP.SrcLang+lang+'/?1023749632;'+encodeURIComponent(MP.SrcUrl);
 	document.body.appendChild(script);
   } else if(lang==MP.SrcLang && MP.UrlLang!=MP.SrcLang){
     var script=document.createElement('SCRIPT');
-    script.src=location.protocol+'//'+MP.Domains[MP.UrlLang]+'/'+MP.SrcLang+MP.UrlLang+'/?1023749634;'+escape(location.href);
+    script.src=location.protocol+'//'+MP.Domains[MP.UrlLang]+'/'+MP.SrcLang+MP.UrlLang+'/?1023749634;'+encodeURIComponent(location.href);
 	document.body.appendChild(script);
   }
   return false;
 },
 switchToLang: function(url) {
-    var mplink=document.createElement('A');
-	if (mplink.click) { // using location.href will cause IE6 to not report referrer
-		mplink.href=url;
-        window.top.document.body.appendChild(mplink);
-        mplink.click();
-	} else {
 	    window.top.location.href=url; 
-	}
 }
-//<!-- mp_trans_disable_end -->
+//<!-- mp_trans_disable_end -->   
 };
  </script>
 
@@ -144,10 +141,10 @@ switchToLang: function(url) {
 <script type="text/javascript" src="/js/v2/internal/classes/popover.js"></script>
 
 <script type="text/javascript" src="/js/v2/internal/global.js"></script>
-<script type="text/javascript" src="/js/v2/internal/classes/tabs.js?201009301258"></script>
+<script type="text/javascript" src="/js/v2/internal/classes/tabs.js"></script>
 
-<script type="text/javascript" src="/js/v2/internal/analytics/analytics.js?201009301258"></script>
-
+<script type="text/javascript" src="/js/v2/internal/analytics/analytics.js"></script>
+<script src="/js/v2/internal/endeca/generic/build/build.min.js" type="text/javascript"></script>
 
 <script src="/js/v2/internal/conditional/product/product-view.js"></script>
 <script src="/js/v2/internal/conditional/product/product-view-single.js"></script>
@@ -160,11 +157,11 @@ switchToLang: function(url) {
 <script src="/js/v2/internal/classes/endecameta.js" type="text/javascript"></script>
 <script src="/js/v2/internal/classes/typeaheadsearch.js" type="text/javascript"></script>
 
-
+<script src="/js/v2/internal/classes/facebook.js" type="text/javascript"></script>
 
 <!-- PAGE:  GROUP: products -->
 
-<link rel="stylesheet" type="text/css" href="/css/global.css?201009301258" media="all">
+<link rel="stylesheet" type="text/css" href="/css/global.css" media="all">
 <link rel="stylesheet" type="text/css" href="/css/el_global.css" media="all">
 <!--54425 - COG June 03 2010 - Signin page text alignment issue fixed-->
 <!--[if gte IE 7]> 
@@ -178,7 +175,7 @@ switchToLang: function(url) {
 <!--54425 - COG June 03 2010 - Signin page text alignment issue fixed-->
 
 
-        <link rel="stylesheet" type="text/css" href="/css/conditional/products.css?201009301258" media="all">	
+        <link rel="stylesheet" type="text/css" href="/css/conditional/products.css" media="all">	
     
 
 
@@ -199,34 +196,41 @@ switchToLang: function(url) {
     <link rel="stylesheet" type="text/css" href="/css/conditional/products/el_spp.css" media="all">
     <!--[if IE]><link href="/css/conditional/products/spp_ie.css" rel="stylesheet" media="all" /><![endif]-->
     <!--[if lt IE 7]><link href="/css/conditional/products/spp_ie6.css" rel="stylesheet" media="all" /><![endif]-->
+
     
     
+	 
+	<link rel="stylesheet" media="only screen and (max-device-width: 1024px)" href="/css/el_global_ipad.css" type="text/css">
+	
+	
+	
+	
+
 <script type="text/javascript">
 	var ANALYTICS_ENABLED = true;
 	var ANALYTICS_MODULES = ["Analytics::CoreMetrics","Analytics::DebugPanel","Analytics::Advertising","Analytics::DoubleClick","Analytics::CheetahMail","Analytics::Yahoo","Analytics::Google","Analytics::PointRoll"];
 
         var JS_PIXEL_EVENTS = new Object();
-        	var CONVERSION_EVENTS ='[{"actionType":1,"domID":"form--topnav~email_signup--field--PC_EMAIL_ADDRESS","cat":"Email Subscription","eventID":"Email SignUp - Form","points":0,"type":"conversion_event","event":"focus"},{"actionType":1,"domID":"checkout_shipping","cat":"Email Subscription","eventID":"Email SignUp - Form","points":0,"type":"conversion_event","event":"focus"}]'.evalJSON(true);
+        	var CONVERSION_EVENTS ='[{"domID":"form--topnav~email_signup--field--PC_EMAIL_ADDRESS","eventID":"Email SignUp - Form - Header","points":0,"event":"focus","actionType":1,"cat":"Email Subscription","type":"conversion_event"},{"domID":"checkout_shipping","eventID":"Email SignUp - Form","points":0,"event":"focus","actionType":1,"cat":"Email Subscription","type":"conversion_event"},{"domID":"form--footer~email_signup--field--PC_EMAIL_ADDRESS","eventID":"Email SignUp - Form - Footer","points":0,"event":"focus","actionType":1,"cat":"Email Subscription","type":"conversion_event"}]'.evalJSON(true);
 </script>
 
         <script type="text/javascript">
         	var cm_TrackLink="A";
 	var cm_HOST="c.esteelauder.com/eluminate?";
+	var tagbar="1";
 	var cm_ClientID="90042315";
 	var COREMETRICS_ENABLED = true;
             </script>
             <script type="text/javascript">
-	var JS_EVENTS ='[{"attachAttr":"name","attachTag":"a","event":"click","attachValue":"SHOP","elementID":"TAB","after":"bv:loaded","elementCategory":"SHOP EVENT","type":"element"},{"attachAttr":"name","attachTag":"a","event":"click","attachValue":"DETAILS","elementID":"TAB","after":"bv:loaded","elementCategory":"DETAILS","type":"element"},{"attachAttr":"name","attachTag":"a","event":"click","attachValue":"COLLECTION","elementID":"TAB","after":"bv:loaded","elementCategory":"COLLECTION","type":"element"},{"attachAttr":"name","attachTag":"a","event":"click","attachValue":"TRY IT ON","elementID":"TAB","after":"bv:loaded","elementCategory":"TRY IT ON","type":"element"},{"attachAttr":"name","attachTag":"a","event":"click","attachValue":"EASY RETURNS","elementID":"TAB","after":"bv:loaded","elementCategory":"EASY RETURNS","type":"element"},{"attachAttr":"name","attachTag":"a","event":"click","attachValue":"TIPS","elementID":"TAB","after":"bv:loaded","elementCategory":"TIPS","type":"element"},{"attachAttr":"name","attachTag":"a","event":"click","attachValue":"SKINCARE FINDER","elementID":"TAB","after":"bv:loaded","elementCategory":"SKINCARE FINDER","type":"element"},{"attachAttr":"name","attachTag":"a","event":"click","attachValue":"VIDEO TIPS","elementID":"TAB","after":"bv:loaded","elementCategory":"VIDEO TIPS","type":"element"},{"attachAttr":"name","attachTag":"a","event":"click","attachValue":"LEARN MORE","elementID":"TAB","after":"bv:loaded","elementCategory":"LEARN MORE","type":"element"},{"attachAttr":"name","attachTag":"a","event":"click","attachValue":"EXPLORE RE-NUTRIV","elementID":"TAB","after":"bv:loaded","elementCategory":"EXPLORE RE-NUTRIV","type":"element"},{"attachAttr":"class","attachTag":"a","event":"click","attachValue":"fb_share_link","elementID":"FACEBOOK SHARE","after":"bv:loaded","elementCategory":"FACEBOOK","type":"element"},{"attachAttr":"title","attachTag":"a","eventID":"Read All Reviews","points":5,"event":"click","attachValue":"Read all reviews","after":"bv:loaded","actionType":1,"cat":"User Reviews","type":"conversion_event"},{"actionType":1,"attachAttr":"livechat","cat":"ASK AN ARTIST","attachTag":"a","eventID":"Live Chat - Via Link","points":10,"type":"conversion_event","event":"click","attachValue":1}]'.evalJSON(true);
+	var JS_EVENTS ='[{"attachAttr":"name","attachTag":"a","event":"click","attachValue":"SHOP","elementID":"TAB","after":"bv:loaded","elementCategory":"SHOP EVENT","type":"element"},{"attachAttr":"name","attachTag":"a","event":"click","attachValue":"DETAILS","elementID":"TAB","after":"bv:loaded","elementCategory":"DETAILS","type":"element"},{"attachAttr":"name","attachTag":"a","event":"click","attachValue":"COLLECTION","elementID":"TAB","after":"bv:loaded","elementCategory":"COLLECTION","type":"element"},{"attachAttr":"name","attachTag":"a","event":"click","attachValue":"TRY IT ON","elementID":"TAB","after":"bv:loaded","elementCategory":"TRY IT ON","type":"element"},{"attachAttr":"name","attachTag":"a","event":"click","attachValue":"EASY RETURNS","elementID":"TAB","after":"bv:loaded","elementCategory":"EASY RETURNS","type":"element"},{"attachAttr":"name","attachTag":"a","event":"click","attachValue":"TIPS","elementID":"TAB","after":"bv:loaded","elementCategory":"TIPS","type":"element"},{"attachAttr":"name","attachTag":"a","event":"click","attachValue":"SKINCARE FINDER","elementID":"TAB","after":"bv:loaded","elementCategory":"SKINCARE FINDER","type":"element"},{"attachAttr":"name","attachTag":"a","event":"click","attachValue":"VIDEO TIPS","elementID":"TAB","after":"bv:loaded","elementCategory":"VIDEO TIPS","type":"element"},{"attachAttr":"name","attachTag":"a","event":"click","attachValue":"LEARN MORE","elementID":"TAB","after":"bv:loaded","elementCategory":"LEARN MORE","type":"element"},{"attachAttr":"name","attachTag":"a","event":"click","attachValue":"EXPLORE RE-NUTRIV","elementID":"TAB","after":"bv:loaded","elementCategory":"EXPLORE RE-NUTRIV","type":"element"},{"attachAttr":"class","attachTag":"a","event":"click","attachValue":"fb_share_link","elementID":"FACEBOOK SHARE","after":"bv:loaded","elementCategory":"FACEBOOK","type":"element"},{"attachAttr":"title","attachTag":"a","eventID":"Read All Reviews","points":5,"event":"click","attachValue":"Read all reviews","after":"bv:loaded","actionType":1,"cat":"User Reviews","type":"conversion_event"},{"attachAttr":"livechat","attachTag":"a","eventID":"Live Chat - Via Link","points":10,"event":"click","attachValue":1,"actionType":1,"cat":"ASK AN ARTIST","type":"conversion_event"},{"attachAttr":"id","attachTag":"a","elementCategory":"DETAILS","type":"element","event":"click","attachValue":"details_tab_link","elementID":"TAB"},{"attachAttr":"id","attachTag":"a","elementCategory":"REVIEWS","type":"element","event":"click","attachValue":"reviews_tab_link","elementID":"TAB"},{"attachAttr":"id","attachTag":"a","elementCategory":"VIDEO","type":"element","event":"click","attachValue":"video_tab_link","elementID":"TAB"}]'.evalJSON(true);
 </script>
 <script type="text/javascript" charset="iso-8859-1" src="https://service.liveperson.net/hcp/html/mTag.js?site=24631554"></script></head>
 
 
-<body style=";" onload="">
-        <script type="text/javascript" src="/js/v2/external/coremetrics/v4.2.9io/eluminate.js"></script><script src="https://data.cmcore.com/cookie-id.js?fn=cmSetAvid" language="javascript1.1" type="text/javascript"></script>
-        <script type="text/javascript" src="/js/v2/external/coremetrics/v4.2.9io/io_v4.js"></script>
-        <script type="text/javascript" src="/js/v2/external/coremetrics/v4.2.9io/cmdatatagutils.js"></script>
-        <script type="text/javascript">if (typeof Analytics =='object') { Analytics.addPendingTags({"Analytics::Advertising":null}); } </script>
-<script type="text/javascript">if (typeof Analytics =='object') { Analytics.addPendingTags({"Analytics::DoubleClick":null}); } </script>
+<body style=";" onload=""><script type="text/javascript" src="/js/v2/external/coremetrics/v4.2.9io/eluminate.js"></script><script src="https://data.cmcore.com/cookie-id.js?fn=cmSetAvid" language="javascript1.1" type="text/javascript"></script>
+<script type="text/javascript" src="/js/v2/external/coremetrics/v4.2.9io/cmdatatagutils.js"></script>
+<script type="text/javascript" src="/shared/coremetrics/tagbar/tagbar.js"></script>
+<script type="text/javascript">if (typeof Analytics =='object') { Analytics.addPendingTags({"Analytics::Advertising":null}); } </script>
 <script type="text/javascript">if (typeof Analytics =='object') { Analytics.addPendingTags({"Analytics::Yahoo":null}); } </script>
 <script type="text/javascript">if (typeof Analytics =='object') { Analytics.addPendingTags({"Analytics::Google":null}); } </script>
 
@@ -356,60 +360,60 @@ switchToLang: function(url) {
             <div class="menu_pane_layer">
                 <div class="menu_pane">
                     <div class="promos_area">
-                        <div style="position: relative; width: 431px; height: 286px;">
+                        <div style="position: relative; width: 531px; height: 300px;">
                     
-                    <!-- CMS PAGE ID: 51557 -->
+                    <!-- CMS PAGE ID: 59576 -->
                     <!-- MODULE NAME: wnew_gnav_mw -->
                     <!-- CREATED BY module_root.jsp -->
-                    <div id="layer1301955836252" class="cms_layer cms_wysiwyg" style="position:absolute; left:245px; top:203px; width:184px; height:82px; z-index:2; background-color:transparent; layer-background-color:transparent;">
-                    <img style="vertical-align:top!important;" name="image20798570" src="/images/cms/product/mw/gnav/d_201102_AutoRep_bkgrnd.jpg" width="184" height="82" alt="" border="0">
+                    <div id="layer1319560398543" class="cms_layer cms_wysiwyg" style="position:absolute; left:307px; top:37px; width:159px; height:115px; z-index:12; background-color:transparent; layer-background-color:transparent;">
+                    <ul class="standard_list_2" style="LETTER-SPACING: 0px">
+                    <li><a class="links_gnav_mw" href="/cms/about/our_heritage.tmpl?cm_sp=Gnav-_-WhatsNew-_-Mrs_Estee_Lauder">Estée Lauder, Our Founder</a></li>
+                    <li><a class="links_gnav_mw" href="/purecolor/index.tmpl?secparam=tompecheux&amp;cm_sp=Gnav-_-WhatsNew-_-TomPecheux">Tom Pecheux</a></li>
+                    <li><a class="links_gnav_mw" href="/beautiful-women-of-estee/index.tmpl?secparam=ourmodels&amp;cm_sp=Gnav-_-WhatsNew-_OurModels">The Women of Estée Lauder</a></li>
+                    <li><a class="links_gnav_mw" href="/pinkribbon?cm_sp=Gnav-_-WhatsNew-_-BCA">Breast Cancer Awareness</a></li>
+                    <li><a class="links_gnav_mw" href="/cms/looks_tips/signatureservices/index.tmpl?cm_sp=Gnav-_-WhatsNew-_-Signature_Services">Signature Services</a></li><li><a class="links_gnav_mw" href="/cms/looks_tips/makeupartists/index.tmpl?cm_sp= Gnav-_-WhatsNew -_-MakeupArtists">Our Makeup Artists</a></li></ul>
                     </div>
-                    <div id="layer1301955836220" class="cms_layer cms_wysiwyg" style="position:absolute; left:262px; top:214px; width:138px; height:14px; z-index:10; background-color:transparent; layer-background-color:transparent;">
-                    <a href="/cms/customer_service/autoreplenish.tmpl?cm_sp=Gnav-_-WhatsNewPromo-_-AutoReplenish"><img style="vertical-align:top!important;" name="image20798569" src="/images/cms/product/mw/gnav/d_201102_AutoRep_tout.png" width="138" height="14" alt="" border="0"></a>
+                    <div id="layer1319560398536" class="cms_layer cms_wysiwyg" style="position:absolute; left:307px; top:20px; width:100px; height:16px; z-index:16; background-color:transparent; layer-background-color:transparent;">
+                    <img style="vertical-align:top!important;" name="image23705278" src="/images/cms/product/mw/gnav/d_201108_gnav_h_aboutbrand.gif" width="100" height="16" alt="Behind the Scenes" border="0">
                     </div>
-                    <div id="layer1301955836236" class="cms_layer cms_wysiwyg" style="position:absolute; left:262px; top:231px; width:148px; height:30px; z-index:15; background-color:transparent; layer-background-color:transparent;">
-                    <span class="bodycopy" style="letter-spacing: 0.02em; color: #666666;">Never be without your<br>Estée Lauder essentials.</span><br>
+                    <div id="layer1319560398533" class="cms_layer cms_wysiwyg" style="position:absolute; left:142px; top:37px; width:140px; height:97px; z-index:12; background-color:transparent; layer-background-color:transparent;">
+                    <ul class="standard_list_2" style="letter-spacing: 0px;">
+                    <li><a class="links_gnav_mw" href="/media/boutiques/michael-kors-holiday/index.tmpl?cm_sp=Gnav-_-WhatsNew_-MK">Estée Lauder Michael Kors</a></li>
+                    <li><a class="links_gnav_mw" href="/products/6913/Franchise-Skincare/Nutritious/index.tmpl?cm_sp=Gnav-_-WhatsNew_-Nutritious">Nutritious</a></li>
+                    <li><a class="links_gnav_mw" href="/products/561/Franchise-Skincare/Resilience-Lift/index.tmpl?cm_sp=Gnav-_-WhatsNew_-Resiliencelift">Resilience Lift</a></li>
+                    <li><a class="links_gnav_mw" href="/purecolor?cm_sp=Lnav-_-WhatsNew_-Purecolor">Pure Color</a></li>
+                    <li><a class="links_gnav_mw" href="/serumexperts/index.tmpl?cm_sp=Gnav-_-WhatsNew-_-Serumexperts">The Serum Experts</a></li>
+                    </ul>
                     </div>
-                    <div id="layer1301955836252" class="cms_layer cms_wysiwyg" style="position:absolute; left:262px; top:264px; width:153px; height:14px; z-index:10; background-color:transparent; layer-background-color:transparent;">
-                    <div style="color: rgb(32, 85, 138);"><a class="tout_action_btn" style="line-height: 10px; letter-spacing: 0px; color: rgb(32, 85, 138); font-size: 10px;" href="/cms/customer_service/autoreplenish.tmpl?cm_sp=Gnav-_-WhatsNewPromo-_-AutoReplenish">LEARN MORE</a> »</div>
+                    <div id="layer1319560398525" class="cms_layer cms_wysiwyg" style="position:absolute; left:140px; top:20px; width:150px; height:16px; z-index:16; background-color:transparent; layer-background-color:transparent;">
+                    <img style="vertical-align:top!important;" name="image23705276" src="/images/cms/product/mw/gnav/d_201108_gnav_collections.gif" width="150" height="16" alt="Favorites" border="0">
                     </div>
-                    <div id="layer1249331322709" class="cms_layer cms_wysiwyg" style="position:absolute; left:146px; top:28px; width:66px; height:16px; z-index:16; background-color:transparent; layer-background-color:transparent;">
-                    <img style="vertical-align:top!important;" name="image20798566" src="/images/product/mw/gnav/d_200908_cat_hd_asseenin.gif" width="66" height="16" alt="As Seen In" border="0">
+                    <div id="layer1319560398520" class="cms_layer cms_wysiwyg" style="position:absolute; left:26px; top:37px; width:101px; height:69px; z-index:12; background-color:transparent; layer-background-color:transparent;">
+                    <ul class="standard_list_2" style="LETTER-SPACING: 0px"><li><a class="links_gnav_mw" href="/products/mpp/just_arrived.tmpl?CATEGORY_ID=CAT1799&amp;cm_sp=Gnav-_-WhatsNew-_-JustArrived">New Products</a></li><li><a class="links_gnav_mw" href="/products/mpp/top_rated.tmpl?CATEGORY_ID=CAT2641&amp;cm_sp=Gnav-_-WhatsNew_-TopRated">Top Rated</a></li><li><a class="links_gnav_mw" href="/cms/whatsnew/as_seen_in.tmpl?cm_sp=Gnav-_-WhatsNew-_-MediaMentions">Media Mentions</a></li><li><a class="links_gnav_mw" href="/products/mpp/awards.tmpl?CATEGORY_ID=CAT4001&amp;cm_sp=Gnav-_-WhatsNew-_-BestInBeauty">Best in Beauty</a></li><li><a class="links_gnav_mw" href="/cms/whatsnew/as_seen_in_beautyqueen.tmpl?cm_sp=Gnav-_-WhatsNew-_-EvelynLauderHarpers">Evelyn Lauder in Harper's Bazaar</a></li></ul>
                     </div>
-                    <div id="layer1300898171539" class="cms_layer cms_wysiwyg" style="position:absolute; left:3px; top:184px; width:99px; height:102px; z-index:17; background-color:transparent; layer-background-color:transparent;">
-                    <a href="/purecolor/index.tmpl?secparam=lipstick&amp;cm_sp=Gnav-_-WhatsNewPromo-_-PCLipstick"><img style="vertical-align:top!important;" name="image20798565" src="/images/cms/product/mw/gnav/d_201103_ddmu_pclipstick_prod.png" width="99" height="102" alt="" border="0"></a>
+                    <div id="layer1319560398514" class="cms_layer cms_wysiwyg" style="position:absolute; left:26px; top:20px; width:84px; height:16px; z-index:16; background-color:transparent; layer-background-color:transparent;">
+                    <img style="vertical-align:top!important;" name="image23705274" src="/images/cms/product/mw/gnav/d_201108_gnav_thisjustin.gif" width="84" height="16" alt="As Seen In" border="0">
                     </div>
-                    <div id="layer1249331322719" class="cms_layer cms_wysiwyg" style="position:absolute; left:269px; top:41px; width:158px; height:115px; z-index:12; background-color:transparent; layer-background-color:transparent;">
-                    <ul class="standard_list_2" style="LETTER-SPACING: 0px"><li><a class="links_gnav_mw" href="/cms/about/our_heritage.tmpl?cm_sp=Gnav-_-WhatsNew-_-Mrs_Estee_Lauder">Mrs. Estée Lauder</a></li><li><a class="links_gnav_mw" href="/purecolor/index.tmpl?secparam=tompecheux&amp;cm_sp=Gnav-_-WhatsNew-_-TomPecheux">Tom Pecheux</a></li><li><a class="links_gnav_mw" href="/cms/whatsnew/el_news.tmpl?cm_sp=Gnav-_-WhatsNew-_-Private_Collection">Private Collection</a></li><li><a class="links_gnav_mw" href="/pinkribbon?cm_sp=Gnav-_-WhatsNew-_-BCA">Breast Cancer Awareness</a></li></ul>
+                    <div id="layer1319560398512" class="cms_layer cms_wysiwyg" style="position:absolute; left:76px; top:275px; width:145px; height:18px; z-index:25; background-color:transparent; layer-background-color:transparent;">
+                    <div style="color: rgb(32, 85, 138); text-align: center;"><a class="tout_action_btn" style="letter-spacing: 0px; color: rgb(244, 218, 160); font-size: 10px; line-height: 12px;" href="/cms/promotions/shipping.tmpl?cm_sp=Gnav-_-WhatsNew-_-HolidayFSSFRs">LEARN MORE</a> <span style="color: rgb(244, 218, 160);">»</span></div>
                     </div>
-                    <div id="layer1292963905975" class="cms_layer cms_wysiwyg" style="position:absolute; left:111px; top:222px; width:123px; height:28px; z-index:15; background-color:transparent; layer-background-color:transparent;">
-                    <a href="/purecolor/index.tmpl?secparam=lipstick&amp;cm_sp=Gnav-_-WhatsNewPromo-_-PCLipstick"><img style="vertical-align:top!important;" name="image20798563" src="/images/cms/product/mw/gnav/d_201103_ddmu_pclipstick_text.gif" width="123" height="28" alt="Pure Color Eye" border="0"></a>
+                    <div id="layer1319560398506" class="cms_layer cms_wysiwyg" style="position:absolute; left:2px; top:218px; width:285px; height:81px; z-index:5; background-color:transparent; layer-background-color:transparent;">
+                    <a href="/cms/promotions/shipping.tmpl?cm_sp=Gnav-_-WhatsNew-_-HolidayFSSFRs"><img style="vertical-align:top!important;" name="image23705272" src="/images/cms/product/mw/gnav/d_201111_dd_wn_fssfr_bg.jpg" width="285" height="81" alt="" border="0"></a>
                     </div>
-                    <div id="layer1249331322740" class="cms_layer cms_wysiwyg" style="position:absolute; left:245px; top:203px; width:1px; height:81px; z-index:14; background-color:transparent; layer-background-color:transparent;">
-                    <img style="vertical-align:top!important;" name="image20798562" src="/images/product/mw/gnav/d_200908_gnav_wnew_vline.gif" width="1" height="81" alt="" border="0">
+                    <div id="layer1319560398499" class="cms_layer cms_wysiwyg" style="position:absolute; left:2px; top:215px; width:528px; height:1px; z-index:3; background-color:transparent; layer-background-color:transparent;">
+                    <img style="vertical-align:top!important;" name="image23705271" src="/images/cms/product/mw/gnav/d_201110_d_200912_wndd_hline.gif" width="528" height="1" alt="" border="0">
                     </div>
-                    <div id="layer1249331322701" class="cms_layer cms_wysiwyg" style="position:absolute; left:25px; top:28px; width:54px; height:16px; z-index:16; background-color:transparent; layer-background-color:transparent;">
-                    <img style="vertical-align:top!important;" name="image20798561" src="/images/product/mw/gnav/d_200908_cat_hd_favorites.gif" width="54" height="16" alt="Favorites" border="0">
+                    <div id="layer1319560398493" class="cms_layer cms_wysiwyg" style="position:absolute; left:289px; top:219px; width:1px; height:81px; z-index:3; background-color:transparent; layer-background-color:transparent;">
+                    <img style="vertical-align:top!important;" name="image23705270" src="/images/product/mw/gnav/d_200908_gnav_wnew_vline.gif" width="1" height="81" alt="" border="0">
                     </div>
-                    <div id="layer1249331322735" class="cms_layer cms_wysiwyg" style="position:absolute; left:2px; top:202px; width:429px; height:1px; z-index:3; background-color:transparent; layer-background-color:transparent;">
-                    <img style="vertical-align:top!important;" name="image20798560" src="/images/product/mw/gnav/d_200912_wndd_hline.gif" width="429" height="1" alt="" border="0">
+                    <div id="layer1319560398486" class="cms_layer cms_wysiwyg" style="position:absolute; left:291px; top:218px; width:240px; height:82px; z-index:2; background-color:transparent; layer-background-color:transparent;">
+                    <a href="/media/boutiques/giftguide_2011/web_global/giftguide2.tmpl? cm_sp=Gnav-_-WhatsNew_-GGTop10 #sortby=category&amp;val=top_10_gifts"><img style="vertical-align:top!important;" name="image23705269" src="/images/cms/product/mw/gnav/d_201111_dd_wn_bg_r.jpg" width="240" height="82" alt="" border="0"></a>
                     </div>
-                    <div id="layer1249331322707" class="cms_layer cms_wysiwyg" style="position:absolute; left:25px; top:41px; width:116px; height:97px; z-index:12; background-color:transparent; layer-background-color:transparent;">
-                    <ul class="standard_list_2" style="LETTER-SPACING: 0px"><li><a class="links_gnav_mw" href="/products/mpp/top_rated.tmpl?CATEGORY_ID=CAT2641&amp;cm_sp=Gnav-_-WhatsNew_-TopRated">Top Rated</a></li><li><a class="links_gnav_mw" href="/products/mpp/bestsellers.tmpl?CATEGORY_ID=CAT1799&amp;cm_sp=Gnav-_-WhatsNew_-BestSellers">Best Sellers</a></li><li><a class="links_gnav_mw" href="/products/mpp/just_arrived.tmpl?CATEGORY_ID=CAT1799&amp;cm_sp=Lnav-_-WhatsNew-_-JustArrived">Just Arrived!</a></li><li><a class="links_gnav_mw" href="/products/mpp/must_haves.tmpl?CATEGORY_ID=CAT1798&amp;cm_sp=Lnav-_-WhatsNew_-MustHaves">Must-Haves</a></li><li><a class="links_gnav_mw" href="/cms/looks_tips/signatureservices/index.tmpl?cm_sp=Gnav-_-WhatsNew-_-Signature_Services">Signature Services</a></li></ul>
-                    </div>
-                    <div id="layer1249331322713" class="cms_layer cms_wysiwyg" style="position:absolute; left:146px; top:41px; width:112px; height:69px; z-index:12; background-color:transparent; layer-background-color:transparent;">
-                    <ul class="standard_list_2" style="LETTER-SPACING: 0px"><li><a class="links_gnav_mw" href="/cms/whatsnew/as_seen_in.tmpl?cm_sp=Gnav-_-WhatsNew-_-MediaMentions">Media Mentions</a></li><li><a class="links_gnav_mw" href="/products/mpp/awards.tmpl?CATEGORY_ID=CAT4001&amp;cm_sp=Gnav-_-WhatsNew-_-BestInBeauty">Best in Beauty</a></li><li><a class="links_gnav_mw" href="/purecolor/index.tmpl?secparam=tompecheux&amp;cm_sp=Gnav-_-WhatsNew-_-FromTheRunway">From the Runway</a></li><li><a class="links_gnav_mw" href="/cms/whatsnew/towncountry_rhoda.tmpl?cm_sp=Gnav-_-WhatsNew-_-TownCountry">Town &amp; Country</a></li></ul>
-                    </div>
-                    <div id="layer1249331322715" class="cms_layer cms_wysiwyg" style="position:absolute; left:269px; top:28px; width:113px; height:16px; z-index:16; background-color:transparent; layer-background-color:transparent;">
-                    <img style="vertical-align:top!important;" name="image20798557" src="/images/product/mw/gnav/d_200908_cat_hd_behindscenes.gif" width="113" height="16" alt="Behind the Scenes" border="0">
-                    </div>
-                    <div id="layer1249331322744" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:204px; width:244px; height:82px; z-index:2; background-color:#f2f3f3; layer-background-color:#f2f3f3;">
-                    </div>
-                    <div id="layer1292963912865" class="cms_layer cms_wysiwyg" style="position:absolute; left:113px; top:257px; width:102px; height:14px; z-index:10; background-color:transparent; layer-background-color:transparent;">
-                    <div style="color: rgb(32, 85, 138);"><a class="tout_action_btn" style="line-height: 10px; letter-spacing: 0px; color: rgb(32, 85, 138); font-size: 10px;" href="/purecolor/index.tmpl?secparam=lipstick&amp;cm_sp=Gnav-_-WhatsNewPromo-_-PCLipstick">SHOP NOW</a> »</div>
+                    <div id="layer1319560398481" class="cms_layer cms_wysiwyg" style="position:absolute; left:335px; top:268px; width:158px; height:17px; z-index:25; background-color:transparent; layer-background-color:transparent;">
+                    <div style="color: rgb(32, 85, 138); text-align: center;"><a class="tout_action_btn" style="line-height: 10px; letter-spacing: 0px; color: rgb(244, 218, 160); font-size: 10px;" href="/media/boutiques/giftguide_2011/web_global/giftguide2.tmpl? cm_sp=Gnav-_-WhatsNew_-GGTop10 #sortby=category&amp;val=top_10_gifts">FIND IT. GIVE IT. LOVE IT.</a> <span style="color: rgb(244, 218, 160);">»</span></div>
                     </div>
                     
-                        </div><!-- style="position: relative; width: 431px; height: 286px;" -->
+                        </div><!-- style="position: relative; width: 531px; height: 300px;" -->
                     </div><!-- class="promos_area" -->
                 </div><!-- class="menu_pane" -->
             </div><!-- class="menu_pane_layer" -->
@@ -450,81 +454,91 @@ switchToLang: function(url) {
                                         <li><a href="/products/636/Product-Catalog/Makeup/Eyes/Eyeshadows/index.tmpl" manual_cm_sp="Gnav-_-Makeup-_-Eyeshadows">Eyeshadows</a></li>
                                         <li><a href="/products/637/Product-Catalog/Makeup/Eyes/Mascara/index.tmpl" manual_cm_sp="Gnav-_-Makeup-_-Mascara">Mascara</a></li>
                                     </ul>
-                                </div><!-- class="category_menu" -->
-                            </div><!-- class="col" -->
-                            <div class="col col3">
-                                <div class="category_menu">
                                     <h3><span class="alt_txt">CAT646</span><img src="/images/gnav/cat_hd_CAT646.gif" alt="CAT646"></h3>
                                     <ul>
                                         <li><a href="/products/647/Product-Catalog/Makeup/Lips/Lip-Gloss/index.tmpl" manual_cm_sp="Gnav-_-Makeup-_-Lip%20Gloss">Lip Gloss</a></li>
                                         <li><a href="/products/648/Product-Catalog/Makeup/Lips/Lip-Pencils/index.tmpl" manual_cm_sp="Gnav-_-Makeup-_-Lip%20Pencils">Lip Pencils</a></li>
                                         <li><a href="/products/649/Product-Catalog/Makeup/Lips/Lipsticks/index.tmpl" manual_cm_sp="Gnav-_-Makeup-_-Lipsticks">Lipsticks</a></li>
                                     </ul>
-                                    <h3><span class="alt_txt">CAT1288</span><img src="/images/gnav/cat_hd_CAT1288.gif" alt="CAT1288"></h3>
+                                </div><!-- class="category_menu" -->
+                            </div><!-- class="col" -->
+                            <div class="col col3">
+                                <div class="category_menu">
+                                    <h3><span class="alt_txt">CAT8315</span><img src="/images/gnav/cat_hd_CAT8315.gif" alt="CAT8315"></h3>
                                     <ul>
-                                        <li><a href="/products/mpp/seasonal_look.tmpl?CATEGORY_ID=CAT4924" manual_cm_sp="">Bronze Goddess</a></li>
-                                        <li><a href="/products/mpp/seasonal_look.tmpl?CATEGORY_ID=CAT5186" manual_cm_sp="">Orange Crush</a></li>
-                                        <li><a href="/LetsPlayMakeover/index.tmpl?CATEGORY_ID=CAT2541" manual_cm_sp="Gnav-_-Makeup-_-Virtual%20Makeup%20Tool">Virtual Makeup Tool</a></li>
+                                        <li><a href="/product/657/13562/Product-Catalog/Makeup/Tools-More/Nail-Lacquer/Pure-Color/Nail-Lacquer/index.tmpl?CATEGORY_ID=CAT8316" manual_cm_sp="">Nail Lacquer</a></li>
+                                    </ul>
+                                    <h3><span class="alt_txt">CAT654</span><img src="/images/gnav/cat_hd_CAT654.gif" alt="CAT654"></h3>
+                                    <ul>
+                                        <li><a href="/products/655/Product-Catalog/Makeup/Tools-More/Brushes/index.tmpl" manual_cm_sp="">Brushes</a></li>
+                                        <li><a href="/products/656/Product-Catalog/Makeup/Tools-More/Makeup-Removers/index.tmpl" manual_cm_sp="Gnav-_-Makeup-_-Makeup%20Removers">Makeup Removers</a></li>
+                                        <li><a href="/products/658/Product-Catalog/Makeup/Tools-More/Refills/index.tmpl" manual_cm_sp="Gnav-_-Makeup-_-Refills">Refills</a></li>
+                                    </ul>
+                                    <h3><span class="alt_txt">CAT8225</span><img src="/images/gnav/cat_hd_CAT8225.gif" alt="CAT8225"></h3>
+                                    <ul>
+                                        <li><a href="/doublewear/index.tmpl?CATEGORY_ID=CAT8229" manual_cm_sp="">Double Wear</a></li>
+                                        <li><a href="/purecolor?CATEGORY_ID=CAT8230" manual_cm_sp="">Pure Color</a></li>
+                                        <li><a href="/sumptuous/index.tmpl?CATEGORY_ID=CAT8231" manual_cm_sp="">Sumptuous</a></li>
+                                        <li><a href="/media/boutiques/michael-kors-holiday/index.tmpl?CATEGORY_ID=CAT8332" manual_cm_sp="">Estée Lauder Michael Kors</a></li>
                                     </ul>
                                 </div><!-- class="category_menu" -->
                             </div><!-- class="col" -->
                             <div class="col col4">
                                 <div class="category_menu">
-                                    <h3><span class="alt_txt">CAT654</span><img src="/images/gnav/cat_hd_CAT654.gif" alt="CAT654"></h3>
+                                    <h3><span class="alt_txt">CAT8226</span><img src="/images/gnav/cat_hd_CAT8226.gif" alt="CAT8226"></h3>
+                                    <ul>
+                                        <li><a href="/products/mpp/seasonal_look.tmpl?CATEGORY_ID=CAT7888" manual_cm_sp="">Cyber Eyes</a></li>
+                                        <li><a href="/flash/get_the_look/index.tmpl?CATEGORY_ID=CAT8232" manual_cm_sp="">Get The Look</a></li>
+                                    </ul>
+                                    <h3><span class="alt_txt">CAT8227</span><img src="/images/gnav/cat_hd_CAT8227.gif" alt="CAT8227"></h3>
+                                    <ul>
+                                        <li><a href="/flash/video_tips.tmpl?CATEGORY_ID=CAT8234" manual_cm_sp="">How to Videos</a></li>
+                                        <li><a href="/flash/foundation_finder/index.tmpl" manual_cm_sp="Gnav-_-Makeup-_-Foundation%20Finder">Foundation Finder</a></li>
+                                        <li><a href="/LetsPlayMakeover/index.tmpl?CATEGORY_ID=CAT8236" manual_cm_sp="">Virtual Makeup Tool</a></li>
+                                    </ul>
+                                    <h3><span class="alt_txt">CAT8228</span><img src="/images/gnav/cat_hd_CAT8228.gif" alt="CAT8228"></h3>
                                     <ul>
                                         <li><a href="/products/mpp/index.tmpl?CATEGORY_ID=CAT2648" manual_cm_sp="Gnav-_-Makeup-_-Top%20Rated">Top Rated</a></li>
-                                        <li><a href="/products/655/Product-Catalog/Makeup/Tools-More/Brushes-Tools/index.tmpl" manual_cm_sp="Gnav-_-Makeup-_-Brushes%20&amp;%20Tools">Brushes &amp; Tools</a></li>
-                                        <li><a href="/flash/foundation_finder/index.tmpl" manual_cm_sp="Gnav-_-Makeup-_-Foundation%20Finder">Foundation Finder</a></li>
-                                        <li><a href="/products/656/Product-Catalog/Makeup/Tools-More/Makeup-Removers/index.tmpl" manual_cm_sp="Gnav-_-Makeup-_-Makeup%20Removers">Makeup Removers</a></li>
-                                        <li><a href="/products/657/Product-Catalog/Makeup/Tools-More/Nail-Lacquer/index.tmpl" manual_cm_sp="Gnav-_-Makeup-_-Nail%20Lacquer">Nail Lacquer</a></li>
-                                        <li><a href="/products/658/Product-Catalog/Makeup/Tools-More/Refills/index.tmpl" manual_cm_sp="Gnav-_-Makeup-_-Refills">Refills</a></li>
-                                        <li><a href="/products/supercat/re_nutriv.tmpl?CATEGORY_ID=CAT953" manual_cm_sp="Gnav-_-Makeup-_-Re-Nutriv">Re-Nutriv</a></li>
-                                        <li><a href="/products/632/Product-Catalog/Makeup/Tools-More/Best-Sellers/index.tmpl" manual_cm_sp="Gnav-_-Makeup-_-Best%20Sellers">Best Sellers</a></li>
-                                        <li><a href="/products/653/Product-Catalog/Makeup/Tools-More/Sets-Gifts/index.tmpl" manual_cm_sp="Gnav-_-Makeup-_-Sets%20&amp;%20Gifts">Sets &amp; Gifts</a></li>
+                                        <li><a href="/products/653/Product-Catalog/Makeup/Tools-More/Sets-Gifts/index.tmpl?CATEGORY_ID=CAT8238" manual_cm_sp="">Sets &amp; Gifts</a></li>
+                                        <li><a href="/media/boutiques/giftguide_2011/web_global/giftguide2.tmpl?CATEGORY_ID=CAT8320" manual_cm_sp="">Holiday Gift Guide</a></li>
+                                        <li><a href="/products/539/Discontinued-Products/Makeup/index.tmpl?CATEGORY_ID=CAT8239" manual_cm_sp="">Discontinued Products</a></li>
                                     </ul>
                                 </div><!-- class="category_menu" -->
                             </div><!-- class="col" -->
                         </div><!-- class="sibling_cols" -->
                     </div><!-- class="pane_content" -->
                     <div class="promos_area">
-                        <div style="position: relative; width: 474px; height: 117px;">
+                        <div style="position: relative; width: 485px; height: 121px;">
                     
-                    <!-- CMS PAGE ID: 48863 -->
+                    <!-- CMS PAGE ID: 59722 -->
                     <!-- MODULE NAME: makeup_gnav_mw -->
                     <!-- CREATED BY module_root.jsp -->
-                    <div id="layer1277418676723" class="cms_layer cms_wysiwyg" style="position:absolute; left:250px; top:31px; width:55px; height:75px; z-index:8; background-color:transparent; layer-background-color:transparent;">
-                    <a href="/flash/foundation_finder/index.tmpl?cm_sp=Gnav-_-MakeupPromo-_-Found Finder Start"><img style="vertical-align:top!important;" name="image20688116" src="/images/templates/d_200806_promo_tn_foundation_1.png" width="55" height="75" alt="" border="0"></a>
+                    <div id="layer1320967404751" class="cms_layer cms_wysiwyg" style="position:absolute; left:243px; top:5px; width:87px; height:115px; z-index:26; background-color:transparent; layer-background-color:transparent;">
+                    <a href="/product/630/17488/Product-Catalog/Fragrance/Tools-More/Sets-Gifts/The-Color-Stylist/5750-with-any-Este-Lauder-fragrance-purchase/index.tmpl?cm_sp=Gnav-_-MakeupPromo-_-HolidayMakeup"><img style="vertical-align:top!important;" name="image23645285" src="/images/cms/product/mw/gnav/d_201112_dd_makeup.png" width="87" height="115" alt="" border="0"></a>
                     </div>
-                    <div id="layer1258400708847" class="cms_layer cms_wysiwyg" style="position:absolute; left:243px; top:36px; width:229px; height:81px; z-index:2; background-color:#f2f3f3; layer-background-color:#f2f3f3;">
+                    <div id="layer1320967315644" class="cms_layer cms_wysiwyg" style="position:absolute; left:353px; top:100px; width:132px; height:17px; z-index:14; background-color:transparent; layer-background-color:transparent;">
+                    <div style="color: rgb(32, 85, 138);"><a class="tout_action_btn" style="line-height: 10px; letter-spacing: 0px; color: rgb(244, 218, 160); font-size: 10px;" href="/products/653/Product-Catalog/Makeup/Tools-More/Sets-Gifts/index.tmpl?cm_sp=Gnav-_-MakeupPromo-_-HolidayMakeup">SHOP MAKEUP GIFTS</a> <span style="color: rgb(244, 218, 160);">»</span></div>
                     </div>
-                    <div id="layer1277418676732" class="cms_layer cms_wysiwyg" style="position:absolute; left:317px; top:44px; width:129px; height:18px; z-index:16; background-color:transparent; layer-background-color:transparent;">
-                    <a href="/flash/foundation_finder/index.tmpl"><img style="vertical-align:top!important;" name="image20688114" src="/images/product/mw/gnav/d_200808_promo_h_find_your_foundation.gif" width="129" height="18" alt="" border="0"></a>
+                    <div id="layer1258400708849" class="cms_layer cms_wysiwyg" style="position:absolute; left:241px; top:39px; width:1px; height:82px; z-index:2; background-color:transparent; layer-background-color:transparent;">
+                    <img style="vertical-align:top!important;" name="image23645283" src="/images/product/mw/gnav/d_200808_v_rule_82.gif" width="1" height="82" alt="" border="0">
                     </div>
-                    <div id="layer1277319394094" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:13px; width:147px; height:103px; z-index:15; background-color:transparent; layer-background-color:transparent;">
-                    <a href="/products/mpp/seasonal_look.tmpl?CATEGORY_ID=CAT4924&amp;cm_sp=Gnav-_-MakeupPromo-_-BronzeGoddess"><img style="vertical-align:top!important;" name="image20688113" src="/images/cms/product/mw/gnav/d_201103_ddwn_bg_prod.png" width="147" height="103" alt="" border="0"></a>
+                    <div id="layer1258400708859" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:36px; width:483px; height:3px; z-index:2; background-color:transparent; layer-background-color:transparent;">
+                    <img style="vertical-align:top!important;" name="image23645282" src="/images/cms/product/mw/gnav/d_201110_GRAY-DASH-483.gif" width="483" height="3" alt="" border="0">
                     </div>
-                    <div id="layer1277318907768" class="cms_layer cms_wysiwyg" style="position:absolute; left:152px; top:95px; width:110px; height:17px; z-index:14; background-color:transparent; layer-background-color:transparent;">
-                    <div style="color: rgb(32, 85, 138);"><a class="tout_action_btn" style="letter-spacing: 0px; color: rgb(32, 85, 138);" href="/products/mpp/seasonal_look.tmpl?CATEGORY_ID=CAT4924&amp;cm_sp=Gnav-_-MakeupPromo-_-BronzeGoddess">GET THE LOOK</a> »</div>
+                    <div id="layer1317055178144" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:39px; width:240px; height:82px; z-index:2; background-color:transparent; layer-background-color:transparent;">
+                    <a href="/products/653/Product-Catalog/Makeup/Tools-More/Sets-Gifts/index.tmpl?cm_sp=Gnav-_-MakeupPromo-_-ShopMakeup"><img style="vertical-align:top!important;" name="image23645281" src="/images/cms/product/mw/gnav/d_201110_dd_makeup_v1_bg3.jpg" width="240" height="82" alt="" border="0"></a>
                     </div>
-                    <div id="layer1277318907763" class="cms_layer cms_wysiwyg" style="position:absolute; left:150px; top:30px; width:90px; height:70px; z-index:8; background-color:transparent; layer-background-color:transparent;">
-                    <a href="/products/mpp/seasonal_look.tmpl?CATEGORY_ID=CAT4924&amp;cm_sp=Gnav-_-MakeupPromo-_-BronzeGoddess"><img style="vertical-align:top!important;" name="image20688111" src="/images/cms/product/mw/gnav/d_201103_ddtout_bg_text.gif" width="90" height="70" alt="" border="0"></a>
+                    <div id="layer1319171706132" class="cms_layer cms_wysiwyg" style="position:absolute; left:243px; top:40px; width:240px; height:81px; z-index:2; background-color:transparent; layer-background-color:transparent;">
+                    <a href="/product/630/17488/Product-Catalog/Fragrance/Tools-More/Sets-Gifts/The-Color-Stylist/5750-with-any-Este-Lauder-fragrance-purchase/index.tmpl?cm_sp=Gnav-_-MakeupPromo-_-HolidayMakeup"><img style="vertical-align:top!important;" name="image23645280" src="/images/cms/product/mw/gnav/d_201112_dd_dblwear.jpg" width="240" height="81" alt="" border="0"></a>
                     </div>
-                    <div id="layer1258400708859" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:34px; width:474px; height:1px; z-index:2; background-color:transparent; layer-background-color:transparent;">
-                    <img style="vertical-align:top!important;" name="image20688110" src="/images/product/mw/gnav/d_201001_gnav_mu_hline474.gif" width="474" height="1" alt="" border="0">
+                    <div id="layer1319171928978" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:16px; width:110px; height:104px; z-index:3; background-color:transparent; layer-background-color:transparent;">
+                    <a href="/products/653/Product-Catalog/Makeup/Tools-More/Sets-Gifts/index.tmpl?cm_sp=Gnav-_-MakeupPromo-_-ShopMakeup"><img style="vertical-align:top!important;" name="image23645279" src="/images/cms/product/mw/gnav/d_201111_dd_mu_img_l.png" width="110" height="104" alt="" border="0"></a>
                     </div>
-                    <div id="layer1258400708843" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:36px; width:240px; height:81px; z-index:5; background-color:#f2f3f3; layer-background-color:#f2f3f3;">
-                    </div>
-                    <div id="layer1258400708849" class="cms_layer cms_wysiwyg" style="position:absolute; left:241px; top:35px; width:1px; height:82px; z-index:2; background-color:transparent; layer-background-color:transparent;">
-                    <img style="vertical-align:top!important;" name="image20688108" src="/images/product/mw/gnav/d_200808_v_rule_82.gif" width="1" height="82" alt="" border="0">
-                    </div>
-                    <div id="layer1277418676738" class="cms_layer cms_wysiwyg" style="position:absolute; left:317px; top:63px; width:135px; height:29px; z-index:9; background-color:transparent; layer-background-color:transparent;">
-                    <span class="bodycopy" style="color: #666666;">Our <a class="tout_link" href="/flash/foundation_finder/index.tmpl?cm_sp=Gnav-_-MakeupPromo-_-Found Finder Start" style="color: rgb(32, 85, 138);">Foundation Finder</a><br>reveals your ideal match</span>
-                    </div>
-                    <div id="layer1277418676739" class="cms_layer cms_wysiwyg" style="position:absolute; left:317px; top:98px; width:78px; height:16px; z-index:14; background-color:transparent; layer-background-color:transparent;">
-                    <div style="color: rgb(32, 85, 138);"><a style="color: rgb(32, 85, 138);" class="tout_action_btn" href="/flash/foundation_finder/index.tmpl?cm_sp=Gnav-_-MakeupPromo-_-Found Finder Start">START NOW</a> »</div>
+                    <div id="layer1319426443843" class="cms_layer cms_wysiwyg" style="position:absolute; left:118px; top:97px; width:132px; height:15px; z-index:14; background-color:transparent; layer-background-color:transparent;">
+                    <div style="color: rgb(255, 231, 176); text-align: left;"><a style="color: rgb(255, 231, 176);" class="tout_action_btn" href="/products/653/Product-Catalog/Makeup/Tools-More/Sets-Gifts/index.tmpl?cm_sp=Gnav-_-MakeupPromo-_-ShopMakeup">SHOP MAKEUP GIFTS</a> »</div>
                     </div>
                     
-                        </div><!-- style="position: relative; width: 474px; height: 117px;" -->
+                        </div><!-- style="position: relative; width: 485px; height: 121px;" -->
                     </div><!-- class="promos_area" -->
                 </div><!-- class="menu_pane" -->
             </div><!-- class="menu_pane_layer" -->
@@ -546,26 +560,18 @@ switchToLang: function(url) {
                             <div class="col col_first">
                                 <div class="category_menu">
                                     <h3><span class="alt_txt">CAT683</span><img src="/images/gnav/cat_hd_CAT683.gif" alt="CAT683"></h3>
-                                    <div class="sibling_cols">
-                                        <div class="col col_first">
-                                            <ul>
-                                                <li><a href="/products/684/Product-Catalog/Skincare/By-Category/Cleansers-Toners/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Cleansers%20/%20Toners">Cleansers / Toners</a></li>
-                                                <li><a href="/products/685/Product-Catalog/Skincare/By-Category/Eye-Care/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Eye%20Care">Eye Care</a></li>
-                                                <li><a href="/products/1186/Product-Catalog/Skincare/By-Category/Hand-Body/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Hand%20&amp;%20Body">Hand &amp; Body</a></li>
-                                                <li><a href="/products/686/Product-Catalog/Skincare/By-Category/Makeup-Removers/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Makeup%20Removers">Makeup Removers</a></li>
-                                                <li><a href="/products/687/Product-Catalog/Skincare/By-Category/Masks-Exfoliators/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Masks%20/%20Exfoliators">Masks / Exfoliators</a></li>
-                                            </ul>
-                                        </div><!-- class="col col_first" -->
-                                        <div class="col sub2">
-                                            <ul>
-                                                <li><a href="/products/688/Product-Catalog/Skincare/By-Category/Moisturizers/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Moisturizers">Moisturizers</a></li>
-                                                <li><a href="/products/693/Product-Catalog/Skincare/By-Category/Problem-Solvers/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Problem%20Solvers">Problem Solvers</a></li>
-                                                <li><a href="/products/689/Product-Catalog/Skincare/By-Category/Repair-Serums/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Repair%20Serums">Repair Serums</a></li>
-                                                <li><a href="/products/691/Product-Catalog/Skincare/By-Category/Sensitive-Skin/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Sensitive%20Skin">Sensitive Skin</a></li>
-                                                <li><a href="/products/1216/Product-Catalog/Skincare/By-Category/Sun-Sunless/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Sun%20/%20Sunless">Sun / Sunless</a></li>
-                                            </ul>
-                                        </div><!-- class="col" -->
-                                    </div><!-- class="sibling_cols" -->
+                                    <ul>
+                                        <li><a href="/products/684/Product-Catalog/Skincare/By-Category/Cleansers-Toners/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Cleansers%20/%20Toners">Cleansers / Toners</a></li>
+                                        <li><a href="/products/685/Product-Catalog/Skincare/By-Category/Eye-Care/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Eye%20Care">Eye Care</a></li>
+                                        <li><a href="/products/1186/Product-Catalog/Skincare/By-Category/Hand-Body/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Hand%20&amp;%20Body">Hand &amp; Body</a></li>
+                                        <li><a href="/products/686/Product-Catalog/Skincare/By-Category/Makeup-Removers/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Makeup%20Removers">Makeup Removers</a></li>
+                                        <li><a href="/products/687/Product-Catalog/Skincare/By-Category/Masks-Exfoliators/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Masks%20/%20Exfoliators">Masks / Exfoliators</a></li>
+                                        <li><a href="/products/688/Product-Catalog/Skincare/By-Category/Moisturizers/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Moisturizers">Moisturizers</a></li>
+                                        <li><a href="/products/693/Product-Catalog/Skincare/By-Category/Problem-Solvers/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Problem%20Solvers">Problem Solvers</a></li>
+                                        <li><a href="/products/689/Product-Catalog/Skincare/By-Category/Repair-Serums/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Repair%20Serums">Repair Serums</a></li>
+                                        <li><a href="/products/691/Product-Catalog/Skincare/By-Category/Sensitive-Skin/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Sensitive%20Skin">Sensitive Skin</a></li>
+                                        <li><a href="/products/1216/Product-Catalog/Skincare/By-Category/Sun-Sunless/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Sun%20/%20Sunless">Sun / Sunless</a></li>
+                                    </ul>
                                 </div><!-- class="category_menu" -->
                             </div><!-- class="col col_first" -->
                             <div class="col col2">
@@ -573,68 +579,79 @@ switchToLang: function(url) {
                                     <h3><span class="alt_txt">CAT1041</span><img src="/images/gnav/cat_hd_CAT1041.gif" alt="CAT1041"></h3>
                                     <ul>
                                         <li><a href="/products/mpp/regimen.tmpl?CATEGORY_ID=CAT1043" manual_cm_sp="Gnav-_-Skincare-_-Youth-Infusing%20Hydration">Youth-Infusing Hydration</a></li>
-                                        <li><a href="/products/mpp/regimen.tmpl?CATEGORY_ID=CAT1045" manual_cm_sp="Gnav-_-Skincare-_-Prevention">Protect/Prevent/First Signs of Aging</a></li>
+                                        <li><a href="/products/mpp/regimen.tmpl?CATEGORY_ID=CAT1045" manual_cm_sp="Gnav-_-Skincare-_-Prevention">Protect / Prevent / First Signs of Aging</a></li>
+                                        <li><a href="/products/mpp/regimen.tmpl?CATEGORY_ID=CAT6195" manual_cm_sp="">Even Skintone</a></li>
                                         <li><a href="/products/mpp/regimen.tmpl?CATEGORY_ID=CAT1042" manual_cm_sp="Gnav-_-Skincare-_-Anti-Wrinkle">Anti-Wrinkle</a></li>
                                         <li><a href="/products/mpp/regimen.tmpl?CATEGORY_ID=CAT1044" manual_cm_sp="Gnav-_-Skincare-_-Lifting/Firming">Lifting/Firming</a></li>
+                                        <li><a href="/products/mpp/regimen.tmpl?CATEGORY_ID=CAT7778" manual_cm_sp="">Radiant Health</a></li>
                                         <li><a href="/flash/skincare_finder/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Find%20Your%20Regimen">Find Your Regimen</a></li>
                                     </ul>
                                 </div><!-- class="category_menu" -->
                             </div><!-- class="col" -->
                             <div class="col col3">
                                 <div class="category_menu">
-                                    <h3><span class="alt_txt">CAT1285</span><img src="/images/gnav/cat_hd_CAT1285.gif" alt="CAT1285"></h3>
+                                    <h3><span class="alt_txt">CAT8240</span><img src="/images/gnav/cat_hd_CAT8240.gif" alt="CAT8240"></h3>
+                                    <ul>
+                                        <li><a href="/advancednightrepair?CATEGORY_ID=CAT8241" manual_cm_sp="">Advanced Night Repair</a></li>
+                                        <li><a href="/daywear?CATEGORY_ID=CAT8242" manual_cm_sp="">DayWear</a></li>
+                                        <li><a href="/evenskintone?CATEGORY_ID=CAT8243" manual_cm_sp="">Illuminator</a></li>
+                                        <li><a href="/products/561/Franchise-Skincare/Resilience-Lift/index.tmpl?CATEGORY_ID=CAT8244" manual_cm_sp="">Resilience Lift</a></li>
+                                        <li><a href="/products/689/Product-Catalog/Skincare/By-Category/Repair-Serums/index.tmpl?CATEGORY_ID=CAT8245" manual_cm_sp="">Serum Experts</a></li>
+                                        <li><a href="/products/6913/Franchise-Skincare/Nutritious/index.tmpl?CATEGORY_ID=CAT8343" manual_cm_sp="">Nutritious</a></li>
+                                    </ul>
+                                </div><!-- class="category_menu" -->
+                            </div><!-- class="col" -->
+                            <div class="col col4">
+                                <div class="category_menu">
+                                    <h3><span class="alt_txt">CAT8246</span><img src="/images/gnav/cat_hd_CAT8246.gif" alt="CAT8246"></h3>
+                                    <ul>
+                                        <li><a href="/flash/video_tips.tmpl?CATEGORY_ID=CAT8247" manual_cm_sp="">How to Videos</a></li>
+                                        <li><a href="/flash/skincare_finder/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Find%20Your%20Regimen">Skincare Finder</a></li>
+                                        <li><a href="/evenskintone/vst.tmpl?CATEGORY_ID=CAT8249" manual_cm_sp="">Virtual Skincare Tool</a></li>
+                                    </ul>
+                                    <h3><span class="alt_txt">CAT8250</span><img src="/images/gnav/cat_hd_CAT8250.gif" alt="CAT8250"></h3>
                                     <ul>
                                         <li><a href="/products/mpp/index.tmpl?CATEGORY_ID=CAT2649" manual_cm_sp="Gnav-_-Skincare-_-Top%20Rated">Top Rated</a></li>
-                                        <li><a href="/products/supercat/re_nutriv.tmpl?CATEGORY_ID=CAT954" manual_cm_sp="Gnav-_-Skincare-_-Re-Nutriv">Re-Nutriv</a></li>
-                                        <li><a href="/flash/skincare_finder/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Find%20Your%20Regimen">Skincare Finder</a></li>
-                                        <li><a href="/products/682/Product-Catalog/Skincare/Tools-More/Best-Sellers/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Best%20Sellers">Best Sellers</a></li>
-                                        <li><a href="/products/707/Product-Catalog/Skincare/Tools-More/Sets-Gifts/index.tmpl" manual_cm_sp="Gnav-_-Skincare-_-Sets%20&amp;%20Gifts">Sets &amp; Gifts</a></li>
+                                        <li><a href="/products/707/Product-Catalog/Skincare/Tools-More/Sets-Gifts/index.tmpl?CATEGORY_ID=CAT8253" manual_cm_sp="">Sets &amp; Gifts</a></li>
+                                        <li><a href="/holidaystyle?CATEGORY_ID=CAT8319" manual_cm_sp="">Holiday Gift Guide</a></li>
+                                        <li><a href="/products/540/Discontinued-Products/Skincare/index.tmpl?CATEGORY_ID=CAT8251" manual_cm_sp="">Discontinued Products</a></li>
                                     </ul>
                                 </div><!-- class="category_menu" -->
                             </div><!-- class="col" -->
                         </div><!-- class="sibling_cols" -->
                     </div><!-- class="pane_content" -->
                     <div class="promos_area">
-                        <div style="position: relative; width: 540px; height: 105px;">
+                        <div style="position: relative; width: 575px; height: 119px;">
                     
-                    <!-- CMS PAGE ID: 47269 -->
+                    <!-- CMS PAGE ID: 57746 -->
                     <!-- MODULE NAME: skincare_gnav_mw -->
                     <!-- CREATED BY module_root.jsp -->
-                    <div id="layer1236621275368" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:0px; width:99px; height:104px; z-index:9; background-color:transparent; layer-background-color:transparent;">
-                    <a href="/daywear/index.tmpl?cm_sp=Gnav-_-SkincarePromo-_-DayWear"><img style="vertical-align:top!important;" name="image19567392" src="/images/cms/product/mw/gnav/d_201012_dd_sk_dayw_prod.png" width="99" height="104" alt="" border="0"></a>
+                    <div id="layer1319428599545" class="cms_layer cms_wysiwyg" style="position:absolute; left:433px; top:95px; width:137px; height:15px; z-index:8; background-color:transparent; layer-background-color:transparent;">
+                    <div style="color: rgb(244, 218, 160);"><a style="color: rgb(244, 218, 160);" class="tout_action_btn" href="/products/707/Product-Catalog/Skincare/Tools-More/Sets-Gifts/index.tmpl?cm_sp=Gnav-_-SkincarePromo-_-ANR">SHOP NOW</a> »</div>
                     </div>
-                    <div id="layer1236621261471" class="cms_layer cms_wysiwyg" style="position:absolute; left:297px; top:21px; width:1px; height:81px; z-index:11; background-color:transparent; layer-background-color:transparent;">
-                    <img style="vertical-align:top!important;" name="image19567391" src="/images/product/mw/gnav/d_200903_gnav_sk_vline.gif" width="1" height="81" alt="" border="0">
+                    <div id="layer1319428599540" class="cms_layer cms_wysiwyg" style="position:absolute; left:289px; top:37px; width:285px; height:82px; z-index:2; background-color:transparent; layer-background-color:transparent;">
+                    <a href="/products/707/Product-Catalog/Skincare/Tools-More/Sets-Gifts/index.tmpl?cm_sp=Gnav-_-SkincarePromo-_-ANR"><img style="vertical-align:top!important;" name="image23403529" src="/images/cms/product/mw/gnav/d_201111_dd_sk_bg_r.jpg" width="285" height="82" alt="" border="0"></a>
                     </div>
-                    <div id="layer1236619697422" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:23px; width:296px; height:82px; z-index:2; background-color:#f2f3f3; layer-background-color:#f2f3f3;">
+                    <div id="layer1319428504528" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:34px; width:575px; height:3px; z-index:3; background-color:transparent; layer-background-color:transparent;">
+                    <img style="vertical-align:top!important;" name="image23403528" src="/images/cms/product/mw/gnav/d_201110_GRAY-DASH-575.gif" width="575" height="3" alt="" border="0">
                     </div>
-                    <div id="layer1213719299203" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:21px; width:539px; height:1px; z-index:3; background-color:transparent; layer-background-color:transparent;">
-                    <img style="vertical-align:top!important;" name="image19567389" src="/images/product/mw/gnav/d_200903_gnav_sk_hline.gif" width="539" height="1" alt="" border="0">
+                    <div id="layer1319428489188" class="cms_layer cms_wysiwyg" style="position:absolute; left:287px; top:38px; width:1px; height:81px; z-index:11; background-color:transparent; layer-background-color:transparent;">
+                    <img style="vertical-align:top!important;" name="image23403527" src="/images/product/mw/gnav/d_200903_gnav_sk_vline.gif" width="1" height="81" alt="" border="0">
                     </div>
-                    <div id="layer1236621318265" class="cms_layer cms_wysiwyg" style="position:absolute; left:299px; top:23px; width:241px; height:82px; z-index:2; background-color:#f2f3f3; layer-background-color:#f2f3f3;">
+                    <div id="layer1319428474311" class="cms_layer cms_wysiwyg" style="position:absolute; left:127px; top:92px; width:139px; height:15px; z-index:8; background-color:transparent; layer-background-color:transparent;">
+                    <div style="color: rgb(244, 218, 160);"><a style="color: rgb(244, 218, 160);" class="tout_action_btn" href="/media/boutiques/giftguide_2011/web_global/giftguide2.tmpl?%20cm_sp=Gnav-_-SkincarePromo-_-HolidaySkincare%20#sortby=category&amp;val=skincare_gifts">SHOP SKINCARE GIFTS</a> »</div>
                     </div>
-                    <div id="layer1236621225348" class="cms_layer cms_wysiwyg" style="position:absolute; left:389px; top:31px; width:142px; height:13px; z-index:6; background-color:transparent; layer-background-color:transparent;">
-                    <a href="/flash/skincare_finder/index.tmpl?cm_sp=Gnav-_-SkincarePromo-_-SkincareFinder"><img style="vertical-align:top!important;" name="image19567387" src="/images/product/mw/gnav/d_201002_dd_sk_h_findyourbestsk.gif" width="142" height="13" alt="" border="0"></a>
+                    <div id="layer1319428464649" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:1px; width:120px; height:118px; z-index:21; background-color:transparent; layer-background-color:transparent;">
+                    <a href="/media/boutiques/giftguide_2011/web_global/giftguide2.tmpl? cm_sp=Gnav-_-SkincarePromo-_-HolidaySkincare #sortby=category&amp;val=skincare_gifts"><img style="vertical-align:top!important;" name="image23403525" src="/images/cms/product/mw/gnav/d_201111_dd_sk_img_l.png" width="120" height="118" alt="" border="0"></a>
                     </div>
-                    <div id="layer1236621237974" class="cms_layer cms_wysiwyg" style="position:absolute; left:389px; top:51px; width:137px; height:32px; z-index:5; background-color:transparent; layer-background-color:transparent;">
-                    <span class="tout_promo_detail" style="LETTER-SPACING: 0px; COLOR: rgb(102,102,102)">
-                    Our Skincare Finder<br>makes it fast and easy.
-                    </span>
+                    <div id="layer1319428449243" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:37px; width:286px; height:82px; z-index:2; background-color:transparent; layer-background-color:transparent;">
+                    <a href="/media/boutiques/giftguide_2011/web_global/giftguide2.tmpl?%20cm_sp=Gnav-_-SkincarePromo-_-HolidaySkincare%20#sortby=category&amp;val=skincare_gifts"><img style="vertical-align:top!important;" name="image23403524" src="/images/cms/product/mw/gnav/d_201110_dd_skincare_v1_bg1.jpg" width="286" height="82" alt="" border="0"></a>
                     </div>
-                    <div id="layer1236621245297" class="cms_layer cms_wysiwyg" style="position:absolute; left:389px; top:85px; width:83px; height:17px; z-index:8; background-color:transparent; layer-background-color:transparent;">
-                    <div style="color: rgb(32, 85, 138);"><a class="tout_action_btn" style="color: rgb(32, 85, 138); letter-spacing: 0.25px;" href="/flash/skincare_finder/index.tmpl?cm_sp=Gnav-_-SkincarePromo-_-SkincareFinder">START NOW</a> »</div>
-                    </div>
-                    <div id="layer1236621275376" class="cms_layer cms_wysiwyg" style="position:absolute; left:112px; top:82px; width:124px; height:14px; z-index:8; background-color:transparent; layer-background-color:transparent;">
-                    <div style="color: rgb(32, 85, 138);"><a class="tout_action_btn" style="letter-spacing: 0px; color: rgb(32, 85, 138);" href="/daywear/index.tmpl?cm_sp=Gnav-_-SkincarePromo-_-DayWear">LEARN MORE</a> »</div>
-                    </div>
-                    <div id="layer1236621208073" class="cms_layer cms_wysiwyg" style="position:absolute; left:299px; top:23px; width:76px; height:82px; z-index:3; background-color:transparent; layer-background-color:transparent;">
-                    <a href="/flash/skincare_finder/index.tmpl?cm_sp=Gnav-_-SkincarePromo-_-SkincareFinder"><img style="vertical-align:top!important;" name="image19567383" src="/images/product/mw/gnav/d_200808_promo_your_beautiful_skin.jpg" width="76" height="82" alt="" border="0"></a>
-                    </div>
-                    <div id="layer1264192111998" class="cms_layer cms_wysiwyg" style="position:absolute; left:112px; top:35px; width:135px; height:41px; z-index:4; background-color:transparent; layer-background-color:transparent;">
-                    <a href="/daywear/index.tmpl?cm_sp=Gnav-_-SkincarePromo-_-DayWear"><img style="vertical-align:top!important;" name="image19567382" src="/images/cms/product/mw/gnav/d_201012_dd_sk_h_dayw.gif" width="135" height="41" alt="" border="0"></a>
+                    <div id="layer1319428926744" class="cms_layer cms_wysiwyg" style="position:absolute; left:289px; top:3px; width:142px; height:115px; z-index:22; background-color:transparent; layer-background-color:transparent;">
+                    <a href="/products/707/Product-Catalog/Skincare/Tools-More/Sets-Gifts/index.tmpl?cm_sp=Gnav-_-SkincarePromo-_-ANR"><img style="vertical-align:top!important;" name="image23403523" src="/images/cms/product/mw/gnav/d_201110_dd_skincare_v1_product2.png" width="142" height="115" alt="" border="0"></a>
                     </div>
                     
-                        </div><!-- style="position: relative; width: 540px; height: 105px;" -->
+                        </div><!-- style="position: relative; width: 575px; height: 119px;" -->
                     </div><!-- class="promos_area" -->
                 </div><!-- class="menu_pane" -->
             </div><!-- class="menu_pane_layer" -->
@@ -660,7 +677,7 @@ switchToLang: function(url) {
                                         <li><a href="/products/665/Product-Catalog/Re-Nutriv/Collections/Re-Creation/index.tmpl" manual_cm_sp="Gnav-_-Re-Nutriv-_-Re-Creation">Re-Creation</a></li>
                                         <li><a href="/products/667/Product-Catalog/Re-Nutriv/Collections/Ultimate-Lift/index.tmpl" manual_cm_sp="Gnav-_-Re-Nutriv-_-Ultimate%20Lift">Ultimate Lift</a></li>
                                         <li><a href="/products/664/Product-Catalog/Re-Nutriv/Collections/Intensive-Lifting/index.tmpl" manual_cm_sp="Gnav-_-Re-Nutriv-_-Intensive%20Lifting">Intensive Lifting</a></li>
-                                        <li><a href="/products/666/Product-Catalog/Re-Nutriv/Collections/Revitalizing-Comfort/index.tmpl" manual_cm_sp="Gnav-_-Re-Nutriv-_-Revitalizing%20Comfort">Revitalizing Comfort</a></li>
+                                        <li><a href="/products/666/Product-Catalog/Re-Nutriv/Collections/Replenishing-Comfort/index.tmpl" manual_cm_sp="">Replenishing Comfort</a></li>
                                         <li><a href="/products/663/Product-Catalog/Re-Nutriv/Collections/Classic-Re-Nutriv/index.tmpl" manual_cm_sp="Gnav-_-Re-Nutriv-_-Classic%20Re-Nutriv">Classic Re-Nutriv</a></li>
                                     </ul>
                                 </div><!-- class="category_menu" -->
@@ -686,36 +703,35 @@ switchToLang: function(url) {
                                         <li><a href="/products/672/Product-Catalog/Re-Nutriv/Makeup/Powders/index.tmpl" manual_cm_sp="Gnav-_-Re-Nutriv-_-Powders">Powders</a></li>
                                         <li><a href="/products/670/Product-Catalog/Re-Nutriv/Makeup/Concealer/index.tmpl" manual_cm_sp="Gnav-_-Re-Nutriv-_-Concealer">Concealer</a></li>
                                     </ul>
-                                    <ul class="sub_set">
-                                        <li><a href="/products/673/Product-Catalog/Re-Nutriv/Sets-Gifts/index.tmpl" manual_cm_sp="Gnav-_-Re-Nutriv-_-Sets%20&amp;%20Gifts">Sets &amp; Gifts</a></li>
-                                        <li><a href="/products/mpp/index.tmpl?CATEGORY_ID=CAT2650" manual_cm_sp="Gnav-_-Re-Nutriv-_-Top%20Rated">Top Rated</a></li>
-                                    </ul><!-- class="sub_set" -->
+                                    <h3><span class="alt_txt">CAT8254</span><img src="/images/gnav/cat_hd_CAT8254.gif" alt="CAT8254"></h3>
+                                    <ul>
+                                        <li><a href="/products/673/Product-Catalog/Re-Nutriv/Sets-Gifts/index.tmpl?CATEGORY_ID=CAT8255" manual_cm_sp="">Sets &amp; Gifts</a></li>
+                                        <li><a href="/products/mpp/index.tmpl?CATEGORY_ID=CAT540" manual_cm_sp="">Discontinued Products</a></li>
+                                    </ul>
                                 </div><!-- class="category_menu" -->
                             </div><!-- class="col" -->
                         </div><!-- class="sibling_cols" -->
                     </div><!-- class="pane_content" -->
                     <div class="promos_area">
-                        <div style="position: relative; width: 398px; height: 108px;">
+                        <div style="position: relative; width: 397px; height: 132px;">
                     
-                    <!-- CMS PAGE ID: 45286 -->
+                    <!-- CMS PAGE ID: 57169 -->
                     <!-- MODULE NAME: re_nutriv_gnav_mw -->
                     <!-- CREATED BY module_root.jsp -->
-                    <div id="layer1230585908465" class="cms_layer cms_wysiwyg" style="position:absolute; left:5px; top:6px; width:98px; height:101px; z-index:16; background-color:transparent; layer-background-color:transparent;">
-                    <a href="/products/667/Product-Catalog/Re-Nutriv/Collections/Ultimate-Lifting/index.tmpl&amp;cm_sp=Gnav-_-Re-NutrivPromo-_-LargeSize/products/supercat/re_nutriv.tmpl?CATEGORY_ID=CAT661&amp;secparam=ultimate_lifting?cm_sp=Gnav-_-RNPromo-_-AgeCorrecting"><img style="vertical-align:top!important;" name="image20684382" src="/images/cms/product/mw/gnav/d_201009_dd_rn_ultimate3.png" width="98" height="101" alt="Re-Nutriv Ultimate Age-Correcting" border="0"></a>
+                    <div id="layer1319515541997" class="cms_layer cms_wysiwyg" style="position:absolute; left:2px; top:52px; width:395px; height:80px; z-index:2; background-color:transparent; layer-background-color:transparent;">
+                    <img style="vertical-align:top!important;" name="image23107310" src="/images/cms/product/mw/gnav/d_201110_dd_rn_gift_bg.jpg" width="395" height="80" alt="" border="0">
                     </div>
-                    <div id="layer1213720146515" class="cms_layer cms_wysiwyg" style="position:absolute; left:121px; top:79px; width:190px; height:15px; z-index:8; background-color:transparent; layer-background-color:transparent;">
-                    <div style="color: rgb(32, 85, 138);"><a class="tout_action_btn" style="color: rgb(32, 85, 138);" href="/products/667/Product-Catalog/Re-Nutriv/Collections/Ultimate-Lifting/index.tmpl?cm_sp=Gnav-_-RNPromo-_-AgeCorrecting">DISCOVER IT NOW</a> »</div>
+                    <div id="layer1230585908465" class="cms_layer cms_wysiwyg" style="position:absolute; left:2px; top:1px; width:170px; height:131px; z-index:16; background-color:transparent; layer-background-color:transparent;">
+                    <a href="/products/666/Product-Catalog/Re-Nutriv/Collections/Replenishing-Comfort/index.tmpl?cm_sp=Gnav-_-RNPromo-_-RNComfort"><img style="vertical-align:top!important;" name="image23107309" src="/images/cms/product/mw/gnav/d_201110_dd_rn_gift_prod.png" width="170" height="131" alt="Re-Nutriv Comfort" border="0"></a>
                     </div>
-                    <div id="layer1219945807832" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:27px; width:398px; height:81px; z-index:2; background-color:#f2f3f3; layer-background-color:#f2f3f3;">
+                    <div id="layer1213720146515" class="cms_layer cms_wysiwyg" style="position:absolute; left:198px; top:108px; width:149px; height:17px; z-index:8; background-color:transparent; layer-background-color:transparent;">
+                    <div style="color: rgb(32, 85, 138);"><a style="color: rgb(244, 218, 160);" class="tout_action_btn" href="/products/673/Product-Catalog/Re-Nutriv/Sets-Gifts/index.tmpl?cm_sp=Gnav-_-RNPromo-_-RNHoliday">SHOP RE-NUTRIV GIFTS</a> <span style="color: rgb(244, 218, 160);">»</span></div>
                     </div>
-                    <div id="layer1213719299203" class="cms_layer cms_wysiwyg" style="position:absolute; left:2px; top:25px; width:395px; height:1px; z-index:5; background-color:transparent; layer-background-color:transparent;">
-                    <img style="vertical-align:top!important;" name="image20684379" src="/images/product/mw/gnav/d_200808_re_nutriv_h_rule_395.gif" width="395" height="1" alt="" border="0">
-                    </div>
-                    <div id="layer1223344233499" class="cms_layer cms_wysiwyg" style="position:absolute; left:120px; top:39px; width:245px; height:35px; z-index:15; background-color:transparent; layer-background-color:transparent;">
-                    <a href="/products/667/Product-Catalog/Re-Nutriv/Collections/Ultimate-Lifting/index.tmpl?cm_sp=Gnav-_-RNPromo-_-AgeCorrecting"><img style="vertical-align:top!important;" name="image20684378" src="/images/cms/product/mw/gnav/d_201103_d_201010_dd_rn_ultimate_coll.gif" width="245" height="35" alt="" border="0"></a>
+                    <div id="layer1213719299203" class="cms_layer cms_wysiwyg" style="position:absolute; left:2px; top:49px; width:395px; height:1px; z-index:5; background-color:transparent; layer-background-color:transparent;">
+                    <img style="vertical-align:top!important;" name="image23107307" src="/images/product/mw/gnav/d_200808_re_nutriv_h_rule_395.gif" width="395" height="1" alt="" border="0">
                     </div>
                     
-                        </div><!-- style="position: relative; width: 398px; height: 108px;" -->
+                        </div><!-- style="position: relative; width: 397px; height: 132px;" -->
                     </div><!-- class="promos_area" -->
                 </div><!-- class="menu_pane" -->
             </div><!-- class="menu_pane_layer" -->
@@ -746,41 +762,35 @@ switchToLang: function(url) {
                                                 <li><a href="/products/586/Product-Catalog/Fragrance/For-Women/Beautiful-Love/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Beautiful-Love">Beautiful Love</a></li>
                                                 <li><a href="/products/588/Product-Catalog/Fragrance/For-Women/Beautiful-Sheer/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Beautiful-Sheer">Beautiful Sheer</a></li>
                                                 <li><a href="/products/590/Product-Catalog/Fragrance/For-Women/Beyond-Paradise/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Beyond-Paradise">Beyond Paradise</a></li>
-                                                <li><a href="/products/1207/Product-Catalog/Fragrance/For-Women/Bronze-Goddess/index.tmpl" manual_cm_sp="">Bronze Goddess</a></li>
                                                 <li><a href="/products/594/Product-Catalog/Fragrance/For-Women/Cinnabar/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Cinnabar">Cinnabar</a></li>
+                                                <li><a href="/products/598/Product-Catalog/Fragrance/For-Women/Este/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Este">Estée</a></li>
+                                                <li><a href="/products/600/Product-Catalog/Fragrance/For-Women/Intuition/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Intuition">Intuition</a></li>
+                                                <li><a href="/products/602/Product-Catalog/Fragrance/For-Women/Knowing/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Knowing">Knowing</a></li>
                                             </ul>
                                         </div><!-- class="col col_first" -->
                                         <div class="col sub2">
                                             <ul>
-                                                <li><a href="/products/596/Product-Catalog/Fragrance/For-Women/Dazzling/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Dazzling">Dazzling</a></li>
-                                                <li><a href="/products/598/Product-Catalog/Fragrance/For-Women/Este/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Este">Estée</a></li>
-                                                <li><a href="/products/600/Product-Catalog/Fragrance/For-Women/Intuition/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Intuition">Intuition</a></li>
-                                                <li><a href="/products/602/Product-Catalog/Fragrance/For-Women/Knowing/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Knowing">Knowing</a></li>
                                                 <li><a href="/products/574/Product-Catalog/Fragrance/For-Women/pleasures/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-pleasures"><i>pleasures</i></a></li>
                                                 <li><a href="/products/3648/Product-Catalog/Fragrance/For-Women/pleasures-bloom/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-pleasures-bloom"><i>pleasures bloom</i></a></li>
                                                 <li><a href="/products/576/Product-Catalog/Fragrance/For-Women/pleasures-delight/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-pleasures-delight"><i> pleasures delight</i></a></li>
                                                 <li><a href="/products/578/Product-Catalog/Fragrance/For-Women/pleasures-exotic/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-pleasures-exotic"><i>pleasures exotic</i></a></li>
                                                 <li><a href="/products/580/Product-Catalog/Fragrance/For-Women/pleasures-intense/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-pleasures-intense"><i>pleasures intense</i></a></li>
-                                            </ul>
-                                        </div><!-- class="col" -->
-                                        <div class="col sub3">
-                                            <ul>
                                                 <li><a href="/products/604/Product-Catalog/Fragrance/For-Women/Private-Collection/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Private-Collection">Private Collection </a></li>
                                                 <li><a href="/products/937/Product-Catalog/Fragrance/For-Women/Private-Collection-Amber-Ylang-Ylang/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Private-Collection-Amber-Ylang-Ylang">Private Collection Amber Ylang Ylang</a></li>
                                                 <li><a href="/products/1432/Product-Catalog/Fragrance/For-Women/Private-Collection-Jasmine-White-Moss/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Private-Collection-Jasmine-White-Moss">Private Collection Jasmine White Moss</a></li>
                                                 <li><a href="/products/606/Product-Catalog/Fragrance/For-Women/Private-Collection-Tuberose-Gardenia/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Private-Collection-Tuberose-Gardenia">Private Collection Tuberose Gardenia</a></li>
+                                            </ul>
+                                        </div><!-- class="col" -->
+                                        <div class="col sub3">
+                                            <ul>
                                                 <li><a href="/products/608/Product-Catalog/Fragrance/For-Women/Pure-White-Linen/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Pure-White-Linen">Pure White Linen</a></li>
                                                 <li><a href="/products/610/Product-Catalog/Fragrance/For-Women/Pure-White-Linen-Light-Breeze/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Pure-White-Linen-Light-Breeze">Pure White Linen Light Breeze</a></li>
                                                 <li><a href="/products/612/Product-Catalog/Fragrance/For-Women/Sensuous/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Sensuous">Sensuous</a></li>
-                                            </ul>
-                                        </div><!-- class="col" -->
-                                        <div class="col sub4">
-                                            <ul>
                                                 <li><a href="/products/3706/Product-Catalog/Fragrance/For-Women/Sensuous-Noir/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Sensuous-Noir">Sensuous Noir</a></li>
+                                                <li><a href="/products/mpp/sensuous_nude.tmpl?CATEGORY_ID=CAT6226" manual_cm_sp="">Sensuous Nude</a></li>
                                                 <li><a href="/products/614/Product-Catalog/Fragrance/For-Women/Spellbound/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Spellbound">Spellbound</a></li>
                                                 <li><a href="/products/616/Product-Catalog/Fragrance/For-Women/Tuscany-Per-Donna/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Tuscany-Per-Donna">Tuscany Per Donna</a></li>
                                                 <li><a href="/products/618/Product-Catalog/Fragrance/For-Women/White-Linen/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-White-Linen">White Linen</a></li>
-                                                <li><a href="/products/4707/Product-Catalog/Fragrance/For-Women/Wild-Elixir/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Wild-Elixir">Wild Elixir</a></li>
                                                 <li><a href="/products/620/Product-Catalog/Fragrance/For-Women/Youth-Dew/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Youth-Dew">Youth-Dew</a></li>
                                                                 </ul>
                                         </div><!-- class="col" -->
@@ -789,70 +799,76 @@ switchToLang: function(url) {
                             </div><!-- class="col col_first" -->
                             <div class="col col2">
                                 <div class="category_menu">
-                                    <h3><span class="alt_txt">CAT622</span><img src="/images/gnav/cat_hd_CAT622.gif" alt="CAT622"></h3>
+                                    <h3><span class="alt_txt">CAT8257</span><img src="/images/gnav/cat_hd_CAT8257.gif" alt="CAT8257"></h3>
                                     <ul>
-                                        <li><a href="/products/624/Product-Catalog/Fragrance/Fragrance-Type/Fresh-Floral/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Fresh-Floral">Fresh Floral</a></li>
-                                        <li><a href="/products/626/Product-Catalog/Fragrance/Fragrance-Type/Lush-Floral/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Lush-Floral">Lush Floral</a></li>
-                                        <li><a href="/products/4708/Product-Catalog/Fragrance/Fragrance-Type/Rich-Floral/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Rich-Floral">Rich Floral</a></li>
-                                        <li><a href="/products/625/Product-Catalog/Fragrance/Fragrance-Type/Fruity/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Fruity">Fruity</a></li>
-                                        <li><a href="/products/623/Product-Catalog/Fragrance/Fragrance-Type/Citrus/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Citrus">Citrus</a></li>
-                                        <li><a href="/products/627/Product-Catalog/Fragrance/Fragrance-Type/Warm/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Warm">Warm</a></li>
-                                        <li><a href="/products/628/Product-Catalog/Fragrance/Fragrance-Type/Woods/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Woods">Woods</a></li>
+                                        <li><a href="/products/8260/Product-Catalog/Fragrance/For-Men/pleasures-For-Men/index.tmpl" manual_cm_sp="">pleasures For Men</a></li>
+                                        <li><a href="/products/8259/Product-Catalog/Fragrance/For-Men/Lauder-for-Men/index.tmpl" manual_cm_sp="">Lauder for Men</a></li>
+                                        <li><a href="/products/8258/Product-Catalog/Fragrance/For-Men/Intuition-For-Men/index.tmpl?CATEGORY_ID=CAT8258" manual_cm_sp="">Intuition For Men</a></li>
+                                    </ul>
+                                    <h3><span class="alt_txt">CAT8261</span><img src="/images/gnav/cat_hd_CAT8261.gif" alt="CAT8261"></h3>
+                                    <ul>
+                                        <li><a href="/fragranceencounters/index.tmpl?CATEGORY_ID=CAT8262" manual_cm_sp="">Fragrance Encounters</a></li>
+                                        <li><a href="/pleasuresbloom/index.tmpl?CATEGORY_ID=CAT8263" manual_cm_sp="">Pleasures Bloom</a></li>
+                                        <li><a href="/sensuousnude/index.tmpl?CATEGORY_ID=CAT8264" manual_cm_sp="">Sensuous Nude</a></li>
+                                        <li><a href="/media/boutiques/michael-kors-holiday/index.tmpl?CATEGORY_ID=CAT8333" manual_cm_sp="">Estée Lauder Michael Kors</a></li>
                                     </ul>
                                 </div><!-- class="category_menu" -->
                             </div><!-- class="col" -->
                             <div class="col col3">
                                 <div class="category_menu">
-                                    <h3><span class="alt_txt">CAT1283</span><img src="/images/gnav/cat_hd_CAT1283.gif" alt="CAT1283"></h3>
+                                    <h3><span class="alt_txt">CAT622</span><img src="/images/gnav/cat_hd_CAT622.gif" alt="CAT622"></h3>
+                                    <ul>
+                                        <li><a href="/products/624/Product-Catalog/Fragrance/Fragrance-Type/Fresh-Floral/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Fresh-Floral">Fresh Floral</a></li>
+                                        <li><a href="/products/626/Product-Catalog/Fragrance/Fragrance-Type/Lush-Floral/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Lush-Floral">Lush Floral</a></li>
+                                        <li><a href="/products/625/Product-Catalog/Fragrance/Fragrance-Type/Fruity/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Fruity">Fruity</a></li>
+                                        <li><a href="/products/623/Product-Catalog/Fragrance/Fragrance-Type/Citrus/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Citrus">Citrus</a></li>
+                                        <li><a href="/products/627/Product-Catalog/Fragrance/Fragrance-Type/Warm/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Warm">Warm</a></li>
+                                        <li><a href="/products/628/Product-Catalog/Fragrance/Fragrance-Type/Woods/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Woods">Woods</a></li>
+                                    </ul>
+                                    <h3><span class="alt_txt">CAT8265</span><img src="/images/gnav/cat_hd_CAT8265.gif" alt="CAT8265"></h3>
                                     <ul>
                                         <li><a href="/products/mpp/index.tmpl?CATEGORY_ID=CAT2647" manual_cm_sp="Gnav-_-Fragrance-_-Top%20Rated">Top Rated</a></li>
-                                        <li><a href="/products/629/Product-Catalog/Fragrance/Tools-More/Mens-Fragrances/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Mens-Fragrances">Men’s Fragrances</a></li>
-                                        <li><a href="/products/572/Product-Catalog/Fragrance/Tools-More/Best-Sellers/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Best-Sellers">Best Sellers</a></li>
-                                        <li><a href="/products/630/Product-Catalog/Fragrance/Tools-More/Sets-Gifts/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Sets-Gifts">Sets &amp; Gifts</a></li>
-                                        <li><a href="/products/2042/Product-Catalog/Fragrance/Tools-More/Solid-Perfumes/index.tmpl" manual_cm_sp="Gnav-_-Fragrance-_-Solid-Perfumes">Solid Perfumes</a></li>
+                                        <li><a href="/products/8321/Product-Catalog/Fragrance/More-Ways-to-Shop/Solid-Perfumes/index.tmpl?CATEGORY_ID=CAT8321" manual_cm_sp="">Solid Perfumes</a></li>
+                                        <li><a href="/products/630/Product-Catalog/Fragrance/Tools-More/Sets-Gifts/index.tmpl?CATEGORY_ID=CAT8267" manual_cm_sp="">Sets &amp; Gifts</a></li>
+                                        <li><a href="/media/boutiques/giftguide_2011/web_global/giftguide2.tmpl?CATEGORY_ID=CAT8317" manual_cm_sp="">Holiday Gift Guide</a></li>
+                                        <li><a href="/products/mpp/index.tmpl?CATEGORY_ID=CAT538" manual_cm_sp="">Discontinued Products</a></li>
                                     </ul>
                                 </div><!-- class="category_menu" -->
                             </div><!-- class="col" -->
                         </div><!-- class="sibling_cols" -->
                     </div><!-- class="pane_content" -->
                     <div class="promos_area">
-                        <div style="position: relative; width: 744px; height: 144px;">
+                        <div style="position: relative; width: 751px; height: 161px;">
                     
-                    <!-- CMS PAGE ID: 49429 -->
+                    <!-- CMS PAGE ID: 59721 -->
                     <!-- MODULE NAME: fragrance_gnav_mw -->
                     <!-- CREATED BY module_root.jsp -->
-                    <div id="layer1284736283520" class="cms_layer cms_wysiwyg" style="position:absolute; left:203px; top:76px; width:138px; height:13px; z-index:15; background-color:transparent; layer-background-color:transparent;">
-                    <a href="/products/630/Product-Catalog/Fragrance/Tools-More/Sets-Gifts/index.tmpl?cm_sp=Gnav-_-FragrancePromo-_-GiftSets"><img style="vertical-align:top!important;" name="image20688619" src="/images/cms/product/mw/gnav/d_201103_ddfr_giftsshelllove.png" width="138" height="13" alt="" border="0"></a>
+                    <div id="layer1319476419256" class="cms_layer cms_wysiwyg" style="position:absolute; left:384px; top:11px; width:187px; height:150px; z-index:26; background-color:transparent; layer-background-color:transparent;">
+                    <a href="/product/630/17488/Product-Catalog/Fragrance/Tools-More/Sets-Gifts/The-Color-Stylist/5750-with-any-Este-Lauder-fragrance-purchase/index.tmpl?cm_sp=Gnav-_-FragrancePromo-_-Blockbuster"><img style="vertical-align:top!important;" name="image23645301" src="/images/cms/product/mw/gnav/d_201112_dd_threekings.jpg" width="187" height="150" alt="" border="0"></a>
                     </div>
-                    <div id="layer1300895983189" class="cms_layer cms_wysiwyg" style="position:absolute; left:194px; top:91px; width:155px; height:14px; z-index:17; background-color:transparent; layer-background-color:transparent;">
-                    <div style="text-align: center;"><span class="bodycopy" style="color: rgb(102, 102, 102); letter-spacing: 0.25px; text-align: center;">Favorite fragrances in<br>great Mother's Day Sets.</span></div>
+                    <div id="layer1319476357872" class="cms_layer cms_wysiwyg" style="position:absolute; left:581px; top:130px; width:149px; height:15px; z-index:25; background-color:transparent; layer-background-color:transparent;">
+                    <div style="color: rgb(32, 85, 138);"><a class="tout_action_btn" style="line-height: 10px; letter-spacing: 0px; color: rgb(244, 218, 160); font-size: 10px;" href="/products/630/Product-Catalog/Fragrance/Tools-More/Sets-Gifts/index.tmpl?cm_sp=Gnav-_-FragrancePromo">SHOP FRAGRANCE GIFTS</a> <span style="color: rgb(244, 218, 160);">»</span></div>
                     </div>
-                    <div id="layer1267454304053" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:61px; width:744px; height:1px; z-index:2; background-color:transparent; layer-background-color:transparent;">
-                    <img style="vertical-align:top!important;" name="image20688617" src="/images/cms/product/mw/gnav/d_201103_d_201003_frdd_hline_744.gif" width="744" height="1" alt="" border="0">
+                    <div id="layer1319476078943" class="cms_layer cms_wysiwyg" style="position:absolute; left:384px; top:80px; width:367px; height:81px; z-index:5; background-color:transparent; layer-background-color:transparent;">
+                    <a href="/product/630/17488/Product-Catalog/Fragrance/Tools-More/Sets-Gifts/The-Color-Stylist/5750-with-any-Este-Lauder-fragrance-purchase/index.tmpl?cm_sp=Gnav-_-FragrancePromo-_-Blockbuster"><img style="vertical-align:top!important;" name="image23645299" src="/images/cms/product/mw/gnav/d_201112_dd_fragkings.jpg" width="367" height="81" alt="" border="0"></a>
                     </div>
-                    <div id="layer1267454304094" class="cms_layer cms_wysiwyg" style="position:absolute; left:239px; top:124px; width:110px; height:12px; z-index:18; background-color:transparent; layer-background-color:transparent;">
-                    <div style="color: rgb(32, 85, 138);"><a class="tout_action_btn" style="line-height: 10px; letter-spacing: 0px; color: rgb(32, 85, 138); font-size: 10px;" href="/products/630/Product-Catalog/Fragrance/Tools-More/Sets-Gifts/index.tmpl?cm_sp=Gnav-_-FragrancePromo-_-GiftSets">SHOP NOW</a> »</div>
+                    <div id="layer1319476011362" class="cms_layer cms_wysiwyg" style="position:absolute; left:19px; top:30px; width:162px; height:131px; z-index:20; background-color:transparent; layer-background-color:transparent;">
+                    <a href="/media/boutiques/giftguide_2011/web_global/giftguide2.tmpl? cm_sp=Gnav-_-FragrancePromo-_-Holiday Fragrance #sortby=category&amp;val=fragrance_gifts"><img style="vertical-align:top!important;" name="image23645298" src="/images/cms/product/mw/gnav/d_201111_dd_fr_img_l.png" width="162" height="131" alt="" border="0"></a>
                     </div>
-                    <div id="layer1267454304066" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:63px; width:377px; height:81px; z-index:2; background-color:#f2f3f3; layer-background-color:#f2f3f3;">
-                    <br>
+                    <div id="layer1311707628818" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:80px; width:380px; height:81px; z-index:10; background-color:transparent; layer-background-color:transparent;">
+                    <a href="/media/boutiques/giftguide_2011/web_global/giftguide2.tmpl?%20cm_sp=Gnav-_-FragrancePromo-_-Holiday Fragrance%20#sortby=category&amp;val=fragrance_gifts"><img style="vertical-align:top!important;" name="image23645297" src="/images/cms/product/mw/gnav/d_201110_dd_tout_frag1_bg.jpg" width="380" height="81" alt="" border="0"></a>
                     </div>
-                    <div id="layer1267454304061" class="cms_layer cms_wysiwyg" style="position:absolute; left:379px; top:62px; width:1px; height:82px; z-index:4; background-color:transparent; layer-background-color:transparent;">
-                    <img style="vertical-align:top!important;" name="image20688614" src="/images/product/mw/gnav/d_200808_v_rule_82.gif" width="1" height="82" alt="" border="0">
+                    <div id="layer1310047777721" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:77px; width:751px; height:1px; z-index:2; background-color:transparent; layer-background-color:transparent;">
+                    <img style="vertical-align:top!important;" name="image23645296" src="/images/cms/product/mw/gnav/d_201107_frdd_hline_751.gif" width="751" height="1" alt="" border="0">
                     </div>
-                    <div id="layer1292965901043" class="cms_layer cms_wysiwyg" style="position:absolute; left:467px; top:124px; width:110px; height:12px; z-index:12; background-color:transparent; layer-background-color:transparent;">
-                    <div style="color: rgb(32, 85, 138);"><a class="tout_action_btn" style="line-height: 10px; letter-spacing: 0px; color: rgb(32, 85, 138); font-size: 10px;" href="/products/mpp/index.tmpl?CATEGORY_ID=CAT2647&amp;cm_sp=Gnav-_-FragrancePromo-_-TopRated">SHOP NOW</a> »</div>
+                    <div id="layer1310047777726" class="cms_layer cms_wysiwyg" style="position:absolute; left:381px; top:79px; width:1px; height:82px; z-index:4; background-color:transparent; layer-background-color:transparent;">
+                    <img style="vertical-align:top!important;" name="image23645295" src="/images/product/mw/gnav/d_200808_v_rule_82.gif" width="1" height="82" alt="" border="0">
                     </div>
-                    <div id="layer1292965769498" class="cms_layer cms_wysiwyg" style="position:absolute; left:597px; top:35px; width:102px; height:109px; z-index:17; background-color:transparent; layer-background-color:transparent;">
-                    <a href="/products/mpp/index.tmpl?CATEGORY_ID=CAT2647&amp;cm_sp=Gnav-_-FragrancePromo-_-TopRated"><img style="vertical-align:top!important;" name="image20688612" src="/images/cms/product/mw/gnav/d_201012_dd_fr_toprated_bottles.png" width="102" height="109" alt="" border="0"></a>
-                    </div>
-                    <div id="layer1300895841866" class="cms_layer cms_wysiwyg" style="position:absolute; left:14px; top:26px; width:166px; height:116px; z-index:19; background-color:transparent; layer-background-color:transparent;">
-                    <a href="/products/630/Product-Catalog/Fragrance/Tools-More/Sets-Gifts/index.tmpl?cm_sp=Gnav-_-FragrancePromo-_-GiftSets"><img style="vertical-align:top!important;" name="image20688611" src="/images/cms/product/mw/gnav/d_201103_ddfr_mothersdaygiftset.png" width="166" height="116" alt="" border="0"></a>
-                    </div>
-                    <div id="layer1292965588453" class="cms_layer cms_wysiwyg" style="position:absolute; left:382px; top:63px; width:362px; height:81px; z-index:2; background-color:transparent; layer-background-color:transparent;">
-                    <a href="/products/mpp/index.tmpl?CATEGORY_ID=CAT2647&amp;cm_sp=Gnav-_-FragrancePromo-_-TopRated"><img style="vertical-align:top!important;" name="image20688610" src="/images/cms/product/mw/gnav/d_201012_dd_fr_toprated.gif" width="362" height="81" alt="" border="0"></a>
+                    <div id="layer1311707581240" class="cms_layer cms_wysiwyg" style="position:absolute; left:192px; top:129px; width:148px; height:14px; z-index:25; background-color:transparent; layer-background-color:transparent;">
+                    <div style="color: rgb(32, 85, 138);"><a class="tout_action_btn" style="line-height: 10px; letter-spacing: 0px; color: rgb(244, 218, 160); font-size: 10px;" href="/media/boutiques/giftguide_2011/web_global/giftguide2.tmpl?%20cm_sp=Gnav-_-FragrancePromo-_-Holiday Fragrance%20#sortby=category&amp;val=fragrance_gifts">SHOP FRAGRANCE GIFTS</a> <span style="color: rgb(244, 218, 160);">»</span></div>
                     </div>
                     
-                        </div><!-- style="position: relative; width: 744px; height: 144px;" -->
+                        </div><!-- style="position: relative; width: 751px; height: 161px;" -->
                     </div><!-- class="promos_area" -->
                 </div><!-- class="menu_pane" -->
             </div><!-- class="menu_pane_layer" -->
@@ -870,63 +886,69 @@ switchToLang: function(url) {
             <div class="menu_pane_layer">
                 <div class="menu_pane">
                     <div class="promos_area">
-                        <div style="position: relative; width: 464px; height: 286px;">
+                        <div style="position: relative; width: 464px; height: 267px;">
                     
-                    <!-- CMS PAGE ID: 48830 -->
+                    <!-- CMS PAGE ID: 57204 -->
                     <!-- MODULE NAME: looks_tips_gnav_mw -->
                     <!-- CREATED BY module_root.jsp -->
-                    <div id="layer1241707434640" class="cms_layer cms_wysiwyg" style="position:absolute; left:28px; top:28px; width:81px; height:16px; z-index:16; background-color:transparent; layer-background-color:transparent;">
-                    <img style="vertical-align:top!important;" name="image20523442" src="/images/product/mw/gnav/d_200907_cat_hd_getthelook-wht.gif" width="81" height="16" alt="Get The Look" border="0">
+                    <div id="layer1295483305913" class="cms_layer cms_wysiwyg" style="position:absolute; left:112px; top:201px; width:128px; height:36px; z-index:19; background-color:transparent; layer-background-color:transparent;">
+                    <a href="/evenskintone/tips.tmpl?cm_sp=Gnav-_-LooksTipsPromo-_-IlluminatorVideo"><img style="vertical-align:top!important;" name="image23224920" src="/images/cms/product/mw/gnav/d_201108_dd_illumvideo_hdr.gif" width="128" height="36" alt="even-toned look" border="0"></a>
                     </div>
-                    <div id="layer1252074197067" class="cms_layer cms_wysiwyg" style="position:absolute; left:173px; top:41px; width:123px; height:72px; z-index:12; background-color:transparent; layer-background-color:transparent;">
-                    <ul class="standard_list_2"><li><a class="links_gnav_mw" href="/flash/foundation_finder/index.tmpl?cm_sp=Gnav-_-Looks_Tips-_-FoundationFinder">Foundation Finder</a></li><li><a class="links_gnav_mw" href="/flash/skincare_finder/index.tmpl?cm_sp=Gnav-_-Looks_Tips-_-SkincareFinder">Skincare Finder</a></li><li><a class="links_gnav_mw" href="/cms/looks_tips/signatureservices/index.tmpl?cm_sp=Gnav-_-Looks_Tips-_-SignatureServices">Signature Services</a></li><li><a class="links_gnav_mw" href="/LetsPlayMakeover/index.tmpl?cm_sp=Gnav-_-Looks_Tips-_-VirtualMakeover">Virtual Makeup Tool</a></li></ul>
+                    <div id="layer1292967029841" class="cms_layer cms_wysiwyg" style="position:absolute; left:111px; top:243px; width:114px; height:16px; z-index:10; background-color:transparent; layer-background-color:transparent;">
+                    <div style="COLOR: rgb(32,85,138)"><a class="tout_action_btn" style="LINE-HEIGHT: 10px; LETTER-SPACING: 0px; COLOR: rgb(32,85,138); FONT-SIZE: 10px" href="/evenskintone/tips.tmpl?cm_sp=Gnav-_-LooksTipsPromo-_-IlluminatorVideo">WATCH &amp; LEARN</a> »</div>
                     </div>
-                    <div id="layer1292967135371" class="cms_layer cms_wysiwyg" style="position:absolute; left:338px; top:216px; width:122px; height:53px; z-index:18; background-color:transparent; layer-background-color:transparent;">
-                    <a href="/LetsPlayMakeover/index.tmpl?cm_sp=Gnav-_-Looks_TipsPromo-_-MakeoverWidget"><img style="vertical-align:top!important;" name="image20523440" src="/images/product/mw/gnav/d_201006_dd_vmt_txt.gif" width="122" height="53" alt="" border="0"></a>
-                    </div>
-                    <div id="layer1292967135355" class="cms_layer cms_wysiwyg" style="position:absolute; left:242px; top:205px; width:222px; height:81px; z-index:2; background-color:#f2f3f3; layer-background-color:#f2f3f3;">
-                    </div>
-                    <div id="layer1292967106824" class="cms_layer cms_wysiwyg" style="position:absolute; left:240px; top:204px; width:1px; height:81px; z-index:3; background-color:transparent; layer-background-color:transparent;">
-                    <img style="vertical-align:top!important;" name="image20523438" src="/images/product/mw/gnav/d_200810_dd_lnt_vbreak.png" width="1" height="81" alt="" border="0">
-                    </div>
-                    <div id="layer1292967135371" class="cms_layer cms_wysiwyg" style="position:absolute; left:338px; top:270px; width:116px; height:12px; z-index:10; background-color:transparent; layer-background-color:transparent;">
-                    <div style="color: rgb(32, 85, 138);"><a class="tout_action_btn" style="color: rgb(32, 85, 138); font-size: 10px; line-height: 10px;" href="/LetsPlayMakeover/index.tmpl?cm_sp=Gnav-_-Looks_TipsPromo-_-MakeoverWidget">PLAY NOW</a> »</div>
-                    </div>
-                    <div id="layer1241707485219" class="cms_layer cms_wysiwyg" style="position:absolute; left:324px; top:28px; width:117px; height:16px; z-index:16; background-color:transparent; layer-background-color:transparent;">
-                    <img style="vertical-align:top!important;" name="image20523436" src="/images/product/mw/gnav/d_200905_cat_hd_tipstech.gif" width="117" height="16" alt="Tips &amp; Techniques" border="0">
-                    </div>
-                    <div id="layer1213719299203" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:204px; width:464px; height:1px; z-index:3; background-color:transparent; layer-background-color:transparent;">
-                    <img style="vertical-align:top!important;" name="image20523435" src="/images/product/mw/gnav/d_200808_looks_tips_h_rule_465.gif" width="464" height="1" alt="" border="0">
-                    </div>
-                    <div id="layer1241707462523" class="cms_layer cms_wysiwyg" style="position:absolute; left:173px; top:28px; width:125px; height:16px; z-index:16; background-color:transparent; layer-background-color:transparent;">
-                    <img style="vertical-align:top!important;" name="image20523434" src="/images/product/mw/gnav/d_200905_cat_hd_personalized.gif" width="125" height="16" alt="Personalized Beauty" border="0">
-                    </div>
-                    <div id="layer1241707618672" class="cms_layer cms_wysiwyg" style="position:absolute; left:325px; top:41px; width:123px; height:73px; z-index:12; background-color:transparent; layer-background-color:transparent;">
-                    <ul class="standard_list_2"><li><a class="links_gnav_mw" href="/cms/looks_tips/beauty_tips_lp.tmpl?cm_sp=Gnav-_-Looks_Tips-_-Beauty123">Beauty 1-2-3</a></li> <li><a class="links_gnav_mw" href="/flash/video_tips.tmpl?video=0&amp;cm_sp=Gnav-_-Looks_Tips-_-HowToVideos">How-To Videos</a></li> <li><a class="links_gnav_mw" href="/cms/looks_tips/makeupartists/index.tmpl?cm_sp=Gnav-_-Looks_Tips-_-MakeupArtists">Our Makeup Artists</a></li><li><a class="links_gnav_mw" href="/locator/index.tmpl?tab=store_events&amp;cm_sp=Gnav-_-Looks_Tips-_-StoreEvents">In-Store Events</a></li></ul>
-                    </div>
-                    <div id="layer1292967135386" class="cms_layer cms_wysiwyg" style="position:absolute; left:242px; top:192px; width:92px; height:92px; z-index:6; background-color:transparent; layer-background-color:transparent;">
-                    <a href="/LetsPlayMakeover/index.tmpl?cm_sp=Gnav-_-Looks_TipsPromo-_-MakeoverWidget"><img style="vertical-align:top!important;" name="image20523432" src="/images/product/mw/gnav/d_201006_dd_vmt_logo.png" width="92" height="92" alt="" border="0"></a>
-                    </div>
-                    <div id="layer1241707304676" class="cms_layer cms_wysiwyg" style="position:absolute; left:27px; top:41px; width:124px; height:134px; z-index:12; background-color:transparent; layer-background-color:transparent;">
-                    <ul class="standard_list_2"><li><a class="links_gnav_mw" href="/products/mpp/seasonal_look.tmpl?CATEGORY_ID=CAT4924&amp;cm_sp=Gnav-_-Looks_Tips-_-BGSoleil">Seasonal Colors: Bronze Goddess Soleil</a></li><li><a class="links_gnav_mw" href="/flash/get_the_look/index.tmpl?cm_sp=Gnav-_-Looks_Tips-_-ModelLooks">Model Looks</a></li><li><a class="links_gnav_mw" href="/cms/looks_tips/bridal_looks_lp.tmpl?cm_sp=Gnav-_-Looks_Tips-_-BridalLooks">Bridal Looks</a></li><li><a class="links_gnav_mw" href="/products/mpp/seasonal_look.tmpl?CATEGORY_ID=CAT5041&amp;cm_sp=Gnav-_-Looks_Tips-_-PassporttoColor">Passport to Color</a></li><li><a class="links_gnav_mw" href="/products/mpp/seasonal_look.tmpl?CATEGORY_ID=CAT4742&amp;cm_sp=Gnav-_-Looks_Tips-_-SensuousStyle">Sensuous Style</a></li><li><a class="links_gnav_mw" href="/products/mpp/seasonal_look.tmpl?CATEGORY_ID=CAT4247&amp;cm_sp=Gnav-_-Looks_Tips-_-Trendspotting">On The Scene</a></li></ul>
-                    </div>
-                    <div id="layer1292967029794" class="cms_layer cms_wysiwyg" style="position:absolute; left:7px; top:218px; width:90px; height:56px; z-index:10; background-color:transparent; layer-background-color:transparent;">
-                    <a href="/flash/video_tips.tmpl?video=0&amp;cm_sp=Gnav-_-Looks_TipsPromo-_-HowToVideos"><img style="vertical-align:top!important;" name="image20523430" src="/images/cms/product/mw/gnav/d_201101_ddtout_lt_howtovideo_img.jpg" width="90" height="56" alt="" border="0"></a>
-                    </div>
-                    <div id="layer1292967087465" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:205px; width:239px; height:81px; z-index:2; background-color:#f2f3f3; layer-background-color:#f2f3f3;">
+                    <div id="layer1292967087465" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:186px; width:247px; height:81px; z-index:2; background-color:#f2f3f3; layer-background-color:#f2f3f3;">
                     <br>
                     </div>
-                    <div id="layer1292967029841" class="cms_layer cms_wysiwyg" style="position:absolute; left:104px; top:266px; width:114px; height:16px; z-index:10; background-color:transparent; layer-background-color:transparent;">
-                    <div style="color: rgb(32, 85, 138);"><a class="tout_action_btn" style="line-height: 10px; letter-spacing: 0px; color: rgb(32, 85, 138); font-size: 10px;" href="/flash/video_tips.tmpl?video=0&amp;cm_sp=Gnav-_-Looks_TipsPromo-_-HowToVideos">EXPLORE NOW</a> »</div>
+                    <div id="layer1292967029794" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:186px; width:103px; height:81px; z-index:10; background-color:transparent; layer-background-color:transparent;">
+                    <a href="/evenskintone/tips.tmpl?cm_sp=Gnav-_-LooksTipsPromo-_-IlluminatorVideo"><img style="vertical-align:top!important;" name="image23224917" src="/images/cms/product/mw/gnav/d_201108_dd_illumvideo_img.jpg" width="103" height="81" alt="even-toned look" border="0"></a>
                     </div>
-                    <div id="layer1295483066761" class="cms_layer cms_wysiwyg" style="position:absolute; left:104px; top:232px; width:133px; height:33px; z-index:5; background-color:transparent; layer-background-color:transparent;">
-                    <span class="tout_promo_detail" style="letter-spacing: 0px; color: rgb(102, 102, 102);">Learn our simple<br>Signature Techniques.</span>
+                    <div id="layer1241707304676" class="cms_layer cms_wysiwyg" style="position:absolute; left:27px; top:41px; width:124px; height:134px; z-index:12; background-color:transparent; layer-background-color:transparent;">
+                    <ul class="standard_list_2"><li><a class="links_gnav_mw" href="/products/mpp/seasonal_look.tmpl?CATEGORY_ID=CAT7888&amp;cm_sp=Gnav-_-Looks_Tips-_-CyberEyes">Cyber Eyes</a></li><li><a class="links_gnav_mw" href="/flash/get_the_look/index.tmpl?cm_sp=Gnav-_-Looks_Tips-_-ModelLooks">Get The Look</a></li></ul>
                     </div>
-                    <div id="layer1295483305913" class="cms_layer cms_wysiwyg" style="position:absolute; left:104px; top:218px; width:98px; height:12px; z-index:19; background-color:transparent; layer-background-color:transparent;">
-                    <a href="/flash/video_tips.tmpl?video=0&amp;cm_sp=Gnav-_-Looks_TipsPromo-_-HowToVideos"><img style="vertical-align:top!important;" name="image20523426" src="/images/cms/product/mw/gnav/d_201101_ddtout_lt_howtovideo_text.gif" width="98" height="12" alt="" border="0"></a>
+                    <div id="layer1292967135386" class="cms_layer cms_wysiwyg" style="position:absolute; left:244px; top:172px; width:92px; height:92px; z-index:6; background-color:transparent; layer-background-color:transparent;">
+                    <a href="/LetsPlayMakeover/index.tmpl?cm_sp=Gnav-_-Looks_TipsPromo-_-MakeoverWidget"><img style="vertical-align:top!important;" name="image23224915" src="/images/product/mw/gnav/d_201006_dd_vmt_logo.png" width="92" height="92" alt="" border="0"></a>
+                    </div>
+                    <div id="layer1241707618672" class="cms_layer cms_wysiwyg" style="position:absolute; left:325px; top:41px; width:123px; height:73px; z-index:12; background-color:transparent; layer-background-color:transparent;">
+                    <ul class="standard_list_2">
+                    <li><a class="links_gnav_mw" href="/flash/skincare_finder/index.tmpl?cm_sp=Gnav-_-Looks_Tips-_-SkincareFinder">Skincare Finder</a></li>
+                    <li><a class="links_gnav_mw" href="/flash/foundation_finder/index.tmpl?cm_sp=Gnav-_-Looks_Tips-_-FoundationFinder">Foundation Finder</a></li>
+                    <li><a class="links_gnav_mw" href="/LetsPlayMakeover/index.tmpl?cm_sp=Gnav-_-Looks_Tips-_-VirtualMakeover">Virtual Makeup Tool</a></li>
+                    <li><a class="links_gnav_mw" href="/evenskintone/vst.tmpl?cm_sp=Gnav-_-Looks_Tips-_-VirtualSkincare">Virtual Skincare Tool</a></li>
+                    <li><a class="links_gnav_mw" href="/cms/looks_tips/signatureservices/index.tmpl?cm_sp=Gnav-_-Looks_Tips-_-SignatureServices">Signature Services</a></li>
+                    </ul>
+                    </div>
+                    <div id="layer1252074197067" class="cms_layer cms_wysiwyg" style="position:absolute; left:173px; top:41px; width:123px; height:72px; z-index:12; background-color:transparent; layer-background-color:transparent;">
+                    <ul class="standard_list_2">
+                    <li><a class="links_gnav_mw" href="/cms/looks_tips/beauty_tips_lp.tmpl?cm_sp=Gnav-_-Looks_Tips-_-Beauty123">Beauty 1-2-3</a></li>
+                    <li><a class="links_gnav_mw" href="/flash/video_tips.tmpl?video=0&amp;cm_sp=Gnav-_-Looks_Tips-_-How-ToVideos">How-To Videos</a></li>
+                    </ul>
+                    </div>
+                    <div id="layer1213719299203" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:184px; width:464px; height:1px; z-index:3; background-color:transparent; layer-background-color:transparent;">
+                    <img style="vertical-align:top!important;" name="image23224912" src="/images/product/mw/gnav/d_200808_looks_tips_h_rule_465.gif" width="464" height="1" alt="" border="0">
+                    </div>
+                    <div id="layer1241707485219" class="cms_layer cms_wysiwyg" style="position:absolute; left:173px; top:28px; width:115px; height:16px; z-index:16; background-color:transparent; layer-background-color:transparent;">
+                    <img style="vertical-align:top!important;" name="image23224911" src="/images/cms/product/mw/gnav/d_201109_cat_hd_tips.gif" width="115" height="16" alt="Tips &amp; Techniques" border="0">
+                    </div>
+                    <div id="layer1292967135371" class="cms_layer cms_wysiwyg" style="position:absolute; left:338px; top:250px; width:116px; height:12px; z-index:10; background-color:transparent; layer-background-color:transparent;">
+                    <div style="color: rgb(32, 85, 138);"><a class="tout_action_btn" style="color: rgb(32, 85, 138); font-size: 10px; line-height: 10px;" href="/LetsPlayMakeover/index.tmpl?cm_sp=Gnav-_-Looks_TipsPromo-_-MakeoverWidget">PLAY NOW</a> »</div>
+                    </div>
+                    <div id="layer1292967106824" class="cms_layer cms_wysiwyg" style="position:absolute; left:248px; top:186px; width:1px; height:81px; z-index:3; background-color:transparent; layer-background-color:transparent;">
+                    <img style="vertical-align:top!important;" name="image23224909" src="/images/product/mw/gnav/d_200810_dd_lnt_vbreak.png" width="1" height="81" alt="" border="0">
+                    </div>
+                    <div id="layer1292967135355" class="cms_layer cms_wysiwyg" style="position:absolute; left:250px; top:186px; width:214px; height:81px; z-index:2; background-color:#f2f3f3; layer-background-color:#f2f3f3;">
+                    </div>
+                    <div id="layer1292967135371" class="cms_layer cms_wysiwyg" style="position:absolute; left:338px; top:196px; width:122px; height:53px; z-index:18; background-color:transparent; layer-background-color:transparent;">
+                    <a href="/LetsPlayMakeover/index.tmpl?cm_sp=Gnav-_-Looks_TipsPromo-_-MakeoverWidget"><img style="vertical-align:top!important;" name="image23224907" src="/images/product/mw/gnav/d_201006_dd_vmt_txt.gif" width="122" height="53" alt="" border="0"></a>
+                    </div>
+                    <div id="layer1241707434640" class="cms_layer cms_wysiwyg" style="position:absolute; left:28px; top:28px; width:73px; height:16px; z-index:16; background-color:transparent; layer-background-color:transparent;">
+                    <img style="vertical-align:top!important;" name="image23224906" src="/images/cms/product/mw/gnav/d_201109_cat_hd_look.gif" width="73" height="16" alt="Look-Books" border="0">
+                    </div>
+                    <div id="layer1241707462523" class="cms_layer cms_wysiwyg" style="position:absolute; left:324px; top:28px; width:125px; height:16px; z-index:16; background-color:transparent; layer-background-color:transparent;">
+                    <img style="vertical-align:top!important;" name="image23224905" src="/images/cms/product/mw/gnav/d_201109_cat_hd_personal.gif" width="125" height="16" alt="Personalized Beauty" border="0">
                     </div>
                     
-                        </div><!-- style="position: relative; width: 464px; height: 286px;" -->
+                        </div><!-- style="position: relative; width: 464px; height: 267px;" -->
                     </div><!-- class="promos_area" -->
                 </div><!-- class="menu_pane" -->
             </div><!-- class="menu_pane_layer" -->
@@ -944,32 +966,60 @@ switchToLang: function(url) {
             <div class="menu_pane_layer">
                 <div class="menu_pane">
                     <div class="promos_area">
-                        <div style="position: relative; width: 288px; height: 211px;">
+                        <div style="position: relative; width: 337px; height: 212px;">
                     
-                    <!-- CMS PAGE ID: 48979 -->
+                    <!-- CMS PAGE ID: 60084 -->
                     <!-- MODULE NAME: special_offers_gnav_mw -->
                     <!-- CREATED BY module_root.jsp -->
-                    <div id="layer1228236585010" class="cms_layer cms_wysiwyg" style="position:absolute; left:35px; top:168px; width:221px; height:17px; z-index:3; background-color:transparent; layer-background-color:transparent;">
-                    <div style="text-align: center; color: rgb(255, 231, 176);"><a style="color: rgb(255, 231, 176); letter-spacing: 0.25px;" class="tout_action_btn" href="/cms/promotions/index.tmpl?cm_sp=Promotions-_-DropDown-_-EDE">SEE DETAILS</a> »</div>
-                    </div>
-                    <div id="layer1213906467218" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:0px; width:288px; height:211px; z-index:2; background-color:transparent; layer-background-color:transparent;">
-                    <a href="/cms/promotions/index.tmpl?cm_sp=Promotions-_-DropDown-_-EDE"><img style="vertical-align:top!important;" name="image20847863" src="/images/cms/product/mw/gnav/d_201102_offer_dd_navyevergreen_choose1_bg.jpg" width="288" height="211" alt="" border="0"></a>
+                    <div id="layer1213906467218" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:0px; width:337px; height:212px; z-index:2; background-color:transparent; layer-background-color:transparent;">
+                    <a href="/cms/promotions/index.tmpl?cm_sp=Promotions-_-DropDown-_-FSSFRs"><img style="vertical-align:top!important;" name="image23871503" src="/images/cms/product/mw/gnav/d_201112_d_201112_dd_fssfr_gen.jpg" width="337" height="212" alt="" border="0"></a>
                     </div>
                     
-                        </div><!-- style="position: relative; width: 288px; height: 211px;" -->
+                        </div><!-- style="position: relative; width: 337px; height: 212px;" -->
                     </div><!-- class="promos_area" -->
                 </div><!-- class="menu_pane" -->
             </div><!-- class="menu_pane_layer" -->
         </li><!-- id="globalnav_special_offers" -->
         <li id="global_search">
-            <form action="/products/search/ecat.tmpl" method="get" id="search_form">
+            <form action="/products/search/esearch.tmpl" method="get" id="search_form">
                 <div>
                     <label class="form_label" for="search_keyword">Search</label>
                     <input class="form_text" name="search" id="search" value="Search Keywords" onfocus="this.value='';this.className+=' focus';">
                     <input class="form_submit" type="image" src="/images/btn/btn_search.png" alt="Search">
                 </div>
             </form>
-            <div style="display: none;" id="global-typeahead-search-box"></div>
+            
+            <div style="display: none;" id="global-typeahead-search-box">
+            	<div class="typeahead-search-wrapper"></div>
+            	
+            	<div class="typeahead-search-content">
+                    <div class="typeahead-search-inner">
+            		    <div class="typeahead-heading">
+            				<div class="clearfix">
+            					<a class="typeahead-close-link close-link">close</a>
+            				</div>
+            			</div>
+            			
+            			<div class="spinnerText loading"><img src="/images/search/typeahead_loading_hor.gif"></div>
+            			
+            			<div style="display:none;" class="no-results typeahead-summary">No results found.</div>
+            			
+            			<div class="typeahead-products-wrapper product-results">
+            				<h3 class="hideme results-header"><img src="/images/headers/h_products_typeahead.png"> <span id="typeahead-products-shown" class="product-summary"></span></h3>
+            				<div class="browse-products clearfix results" id="typeahead-products"></div>
+            			</div>
+            			
+            			<div class="typeahead-content-wrapper content-results">
+            				<h3 class="hideme conditional results-header"><img src="/images/headers/h_relatedinformation_typeahead.png"> <span id="typeahead-content-shown" class="content-summary"></span></h3>
+            				<div class="browse-products clearfix results"></div>
+            			</div>
+            
+            			<div class="typeahead-seeall">
+            				<a class="grey-arrow see-all-results" href="#" onclick="endeca.coremetrics.seeAllClick();">View All Results »</a>
+            			</div>
+            	    </div>
+            	</div>
+            </div>
         </li>
 
     </ul><!-- id="globalnav" -->
@@ -994,24 +1044,25 @@ switchToLang: function(url) {
 
 
 
-		<!-- LivePerson -->
-	          <div id="contact_cs"><a href="javascript:void(0);"><h5 class="btn_label"><!-- mp_trans_remove_start -->chat live with a <!-- mp_trans_remove_end -->beauty advisor</h5></a>
+                <!-- LivePerson -->
+                  <div id="contact_cs"><a href="javascript:void(0);"><h5 class="btn_label"><!-- mp_trans_remove_start -->chat live with a <!-- mp_trans_remove_end -->beauty advisor</h5></a>
                     <div class="overlay_layer" id="contact_cs_layer">
-                        <div class="callout_wrapper">
+                        <div class="callout_wrapper  livechat_open ">
                             <div class="callout">
-                                <div class="callout_hdr">
-                                    <span>Call 1-877-311-3883</span>
-                                </div>
                                 <div class="callout_content">
-                                        <!-- mp_trans_remove_start -->(Live Chat: M-F 10am-7pm ET)<!-- mp_trans_remove_end -->
-                                        <a manual_cm_sp="Gnav-_-LiveChatTout-_-EmailUs" href="/customer_service/contact.tmpl">Email Us</a> your questions.
+                                        <!-- mp_trans_remove_start -->
+                                        
+                                        <a id="_lpChatBtn" class="livechat_advice_inquiry" href="https://service.liveperson.net/hc/24631554/?cmd=file&amp;file=visitorWantsToChat&amp;site=24631554&amp;byhref=1&amp;SESSIONVAR!skill=Estee%20Lauder&amp;imageUrl=https://" target="chat24631554" onclick="lpButtonCTTUrl = 'https://service.liveperson.net/hc/24631554/?cmd=file&amp;file=visitorWantsToChat&amp;site=24631554&amp;SESSIONVAR!skill=Estee%20Lauder&amp;imageUrl=https://&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); lpButtonCTTUrl = ((typeof(lpMTag)!='undefined' &amp;&amp; typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat24631554','width=472,height=320,resizable=yes');return false;"><div class="chat_link_left">CHAT NOW »</div></a>
+                                        <a id="_lpChatBtn" class="livechat_order_inquiry" href="https://service.liveperson.net/hc/24631554/?cmd=file&amp;file=visitorWantsToChat&amp;site=24631554&amp;byhref=1&amp;SESSIONVAR!skill=Your%20Estee%20Lauder%20Order&amp;imageUrl=https://" target="chat24631554" onclick="lpButtonCTTUrl = 'https://service.liveperson.net/hc/24631554/?cmd=file&amp;file=visitorWantsToChat&amp;site=24631554&amp;SESSIONVAR!skill=Your%20Estee%20Lauder%20Order&amp;imageUrl=https://&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); lpButtonCTTUrl = ((typeof(lpMTag)!='undefined' &amp;&amp; typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat24631554','width=472,height=320,resizable=yes');return false;"><div class="chat_link_right">CHAT NOW »</div></a>
+                                        <!-- mp_trans_remove_end -->
+                                        <div class="callout_content_left">Call Us: 877-311-3883</div><div class="callout_content_right"><a manual_cm_sp="Gnav-_-LiveChatTout-_-EmailUs" href="/customer_service/contact.tmpl">Email Us</a> your questions</div>
                                 </div><!-- /callout_content -->
-                            </div><!-- /callout -->                            
+                            </div><!-- /callout -->
                         </div><!-- /callout_wrapper -->
                     </div><!-- /overlay_layer -->
-                </div>                
-	<!-- /LivePerson -->
-		
+                </div>
+        <!-- /LivePerson -->
+                
 
                 <div id="breadcrumb">
 <a href="/" manual_cm_sp="Bnav-_-Home-_-Main">Home</a> &gt; <a href="/cms/customer_service/index.tmpl" manual_cm_sp="">Customer Service</a> &gt; <span>Privacy</span>
@@ -1020,7 +1071,7 @@ switchToLang: function(url) {
             </div>
 
 <div id="layer1213803117093" class="cms_layer" style="position:absolute; left:170px; top:154px; width:595px; height:33px; z-index:2;">
-<img style="vertical-align:top!important;" name="image19131423" src="/images/customer_service/d_200807_h_privacy.gif" width="595" height="33" alt="Shopping Online" border="0">
+<img style="vertical-align:top!important;" name="image23728422" src="/images/customer_service/d_200807_h_privacy.gif" width="595" height="33" alt="Shopping Online" border="0">
 </div>
 <div id="layer1213802475546" class="cms_layer" style="position:absolute; left:10px; top:158px; width:140px; height:290px; z-index:2;">
 
@@ -1028,6 +1079,9 @@ switchToLang: function(url) {
 <!-- CMS PAGE ID: 42608 -->
 <!-- MODULE NAME: leftnav_custservice -->
 <!-- CREATED BY module_root.jsp -->
+<div id="section14" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:234px; width:140px; height:15px; z-index:14; background-color:transparent; layer-background-color:transparent;">
+<a class="links_lnav" href="/cms/customer_service/supplier_relations.tmpl">SUPPLIER RELATIONS</a>
+</div>
 <div id="section2" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:25px; width:138px; height:13px; z-index:4; background-color:transparent; layer-background-color:transparent;">
 <a class="links_lnav" href="/cms/customer_service/your_order.tmpl">YOUR ORDER</a>
 </div>
@@ -1058,7 +1112,7 @@ switchToLang: function(url) {
 <div id="section4" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:61px; width:140px; height:16px; z-index:6; background-color:transparent; layer-background-color:transparent;">
 <a class="links_lnav" href="/cms/customer_service/returns.tmpl">RETURNS</a>
 </div>
-<div id="section13" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:234px; width:140px; height:15px; z-index:13; background-color:transparent; layer-background-color:transparent;">
+<div id="section13" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:252px; width:140px; height:15px; z-index:13; background-color:transparent; layer-background-color:transparent;">
 <a class="links_lnav" href="/cms/customer_service/terms.tmpl">TERMS AND CONDITIONS</a>
 </div>
 <div id="section3" class="cms_layer cms_wysiwyg" style="position:absolute; left:0px; top:43px; width:140px; height:17px; z-index:5; background-color:transparent; layer-background-color:transparent;">
@@ -1081,9 +1135,7 @@ switchToLang: function(url) {
 <div id="layer1216220418468" class="cms_layer" style="position:absolute; left:170px; top:193px; width:788px; height:4104px; z-index:2;">
 <table cellpadding="0" cellspacing="0" border="0" width="100%" height="1%">
 <tbody><tr>
-<td width="595px" align="left" valign="top" colspan="3"><a name="top"></a><span class="paragraph_2">
-We at Estée Lauder Online respect your privacy and value the relationship we have with you. Your visit to this website <br>is subject to this Privacy Policy and our <a class="links_2_inline" href="/customer_service/terms.tmpl">Terms and Conditions</a>.<br><br>This Privacy Policy describes the types of personal information we collect at the Estée Lauder website, currently located at <a class="links_2_inline" href="http://www.esteelauder.com/">www.esteelauder.com</a> (the "Site"), how we may use that information and with whom we may share it. Our Privacy Policy also describes the measures we take to protect the security of this information as well as how you may reach us to update your contact information, remove your name from our mailing list or ask us any questions you may have about our use of your personal information. It also explains how you may elect to stop receiving communications about our products and services.<br><br>Please note that this Privacy Policy governs only information provided to Estée Lauder Online. It does not govern any other information or communications that may reference Estée Lauder, e.g., communications from Estée Lauder counters located within brick and mortar retail stores. If you visit one of our other regional websites, or link to another website from this Site, you are subject to the privacy policy applicable for that website and we suggest that you consult such privacy policy.<br><br>Click on one of the links below to jump to the listed section: <br><br>
-</span></td>
+<td width="595px" align="left" valign="top" colspan="3"><a name="top"></a><span class="paragraph_2">We at Estée Lauder Online respect your privacy and value the relationship we have with you. Your visit to this website <br>is subject to this Privacy Policy and our <a class="links_2_inline" href="/cms/customer_service/terms.tmpl">Terms and Conditions</a>.<br><br>This Privacy Policy describes the types of personal information we collect at the Estée Lauder website, currently located at <a class="links_2_inline" href="http://www.esteelauder.com/">www.esteelauder.com</a> (the "Site"), how we may use that information and with whom we may share it. Our Privacy Policy also describes the measures we take to protect the security of this information as well as how you may reach us to update your contact information, remove your name from our mailing list or ask us any questions you may have about our use of your personal information. It also explains how you may elect to stop receiving communications about our products and services.<br><br>Please note that this Privacy Policy governs only information provided to Estée Lauder Online. It does not govern any other information or communications that may reference Estée Lauder, e.g., communications from Estée Lauder counters located within brick and mortar retail stores. If you visit one of our other regional websites, or link to another website from this Site, you are subject to the privacy policy applicable for that website and we suggest that you consult such privacy policy.<br><br>Click on one of the links below to jump to the listed section: <br><br></span></td>
 <td width="195px" align="left" valign="top"></td>
 </tr>
 <tr>
@@ -1261,26 +1313,26 @@ We at Estée Lauder Online respect your privacy and value the relationship we ha
             </div><!-- /content_wrapper -->
             <!--/ CONTENT -->
 
+			
             <!-- FOOTER -->
             <!-- FOOTER -->
-<!-- BEGIN LivePerson Monitor. -->
-<script language="javascript">
-var curProto = (document.location.protocol == 'http:') ? 'http' : 'https';
-var lpMTagConfig = {'lpServer' : "service.liveperson.net",'lpNumber' : "24631554",'lpProtocol' : curProto}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
-<!-- BEGIN Monitor Tracking Variables  -->
-<script language="JavaScript1.2">
-        if (typeof(lpMTagConfig.sessionVar) == "undefined"){ lpMTagConfig.sessionVar = new Array();}
-</script>
-<!-- End Monitor Tracking Variables  -->
-
             <div id="footer">
-		
                 <ul class="footer_links">
+<!-- REMOVE THIS WHEN SHIPPING MESSAGE COMES DOWN (its the shipping message)--><li style="padding-left:11px;"><a style="color: #dec07c;" href="/cms/promotions/shipping.tmpl" manual_cm_sp="Fnav-_-Free shipping-_-Index">FREE SHIPPING, FREE RETURNS, ANY ORDER</a></li>
                     <li><a href="/cms/customer_service/index.tmpl" manual_cm_sp="Fnav-_-Customer%20Service-_-Index">Customer Service</a></li>
-                    <li><a href="/promotions/sweepstakes.tmpl" manual_cm_sp="Fnav-_-Sweepstakes-_-Footer">Sweepstakes</a></li>
-                    <li><a href="/cms/product/supercat/discontinued.tmpl" manual_cm_sp="Fnav-_-Discontinued-_-Footer">Discontinued Products</a></li>
+<!-- JUST UNCOMMENT THIS WHEN SHIPPING MESSAGE COMES DOWN<li><a href="/promotions/sweepstakes.tmpl" manual_cm_sp="Fnav-_-Sweepstakes-_-Footer">Sweepstakes</a></li>-->
+<!-- JUST UNCOMMENT THIS WHEN SHIPPING MESSAGE COMES DOWN<li><a href="/cms/product/supercat/discontinued.tmpl" manual_cm_sp="Fnav-_-Discontinued-_-Footer">Discontinued Products</a></li>-->
                     <li><a href="/locator/index.tmpl" manual_cm_sp="Fnav-_-Store%20Locator-_-Footer">Store Locator</a></li>
-                    <li><a href="/cms/about/careers/index.tmpl" manual_cm_sp="Fnav-_-Careers-_-Footer">Careers</a></li>
+<!-- JUST UNCOMMENT THIS WHEN SHIPPING MESSAGE COMES DOWN<li><a href="/cms/about/careers/index.tmpl" manual_cm_sp="Fnav-_-Careers-_-Footer">Careers</a></li>-->
+<!-- REMOVE BELOW STYLE WHEN SHIPPING MESSAGE COMES DOWN -->
+<style>
+#footer .footer_links li {
+  padding-left: 32px;
+  padding-right: 0px;
+}
+</style>
+<!-- /REMOVE BELOW STYLE WHEN SHIPPING MESSAGE COMES DOWN -->
+
                     <li><a href="/cms/about/index.tmpl" manual_cm_sp="Fnav-_-About%20Estee-_-Footer">About Estée Lauder</a></li>
                     <!--<li>Get the latest news and offers:</li> 55689 1 July Footer text missing added-->
                     <li id="email_signup">
@@ -1295,10 +1347,10 @@ var lpMTagConfig = {'lpServer' : "service.liveperson.net",'lpNumber' : "24631554
                                 <input value="48" name="LANGUAGE_ID" type="hidden" id="form--footer~email_signup--field--LANGUAGE_ID" class="field">
                                 <input value="signup_footer" name="ORIGINAL_SOURCE" type="hidden" id="form--footer~email_signup--field--ORIGINAL_SOURCE" class="field">
                                 <input value="signup_footer" name="LAST_SOURCE" type="hidden" id="form--footer~email_signup--field--LAST_SOURCE" class="field">
-                                <label class="label" for="form--footer~email_signup--field--PC_EMAIL_ADDRESS">Get the latest news and offers:</label>
+                                <label class="label" for="form--footer~email_signup--field--PC_EMAIL_ADDRESS">Get the latest news and offers</label>
                                 <input onfocus="this.value='';this.className+=' focus';" value="Email Address" name="PC_EMAIL_ADDRESS" type="text" id="form--footer~email_signup--field--PC_EMAIL_ADDRESS" class="email-signup">
 		            <input type="image" class="input-image" src="/images/btn/btn_signup.jpg">
-	                    <span class="progress hidden">...</span>
+	                    <span class="progress hidden">Loading...</span>
 	               </form></div>
 	
 	                  
@@ -1306,26 +1358,36 @@ var lpMTagConfig = {'lpServer' : "service.liveperson.net",'lpNumber' : "24631554
                     </li>
                 </ul>
                 <div class="copyright">
+                    
                     <!--a href="http://www.facebook.com/EsteeLauder"  target="_blank" class="fb_share_link">Like Us on Facebook</a-->
-                    <iframe class="fb_like_link" src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FEsteeLauder&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
-                    <!-- mp_trans_remove_start --> <a class="livechatlink" livechat="1" manual_cm_sp="Fnav-_-LiveChat-_-Footer" href="https://sales.liveperson.net/hc/24631554/?cmd=file&amp;file=visitorWantsToChat&amp;site=24631554&amp;byhref=1&amp;SESSIONVAR!skill=Estee%20Lauder&amp;imageUrl=https://sales.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat24631554" onclick="lpButtonCTTUrl = 'https://www.esteelauder.com/includes/content/livechat_popup.tmpl'; lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat24631554','width=474,height=477,resizable=yes'); return false;">Live Chat</a> <!-- mp_trans_remove_end -->
+                    <iframe class="fb_like_link" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FEsteeLauder&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+					<a class="twitter_button" href="https://twitter.com/EsteeLauder" target="_blank_twitter" id="footer-twitter"><img src="/images/footer/el_footer_twitter.png" alt="Follow Estee Lauder on Twitter" width="18" height="18"></a>
+                    
+                    <!-- mp_trans_remove_start --> <a class="livechatlink" livechat="1" manual_cm_sp="Fnav-_-LiveChat-_-Footer">Live Chat</a> <!-- mp_trans_remove_end -->
                     <span>Call Us: 877-311-3883</span>
-                    <a href="/customer_service/contact.tmpl" manual_cm_sp="Fnav-_-EmailUs-_-Footer">Email Us</a>
-                    <a href="/cms/customer_service/site_map.tmpl" manual_cm_sp="Fnav-_-SiteMap-_-Footer">Site Map</a>
-                    <a href="/cms/customer_service/privacy.tmpl" manual_cm_sp="Fnav-_-PrivacyPolicy-_-Footer">PRIVACY POLICY</a>
-                    <a href="/cms/customer_service/terms.tmpl" manual_cm_sp="Fnav-_-Terms_Conditions-_-Footer">Terms &amp; Conditions</a>
+                    <a style="font-size: 11px;" href="/customer_service/contact.tmpl" manual_cm_sp="Fnav-_-EmailUs-_-Footer">Email Us</a>
+                    <a style="font-size: 11px;" href="/cms/customer_service/site_map.tmpl" manual_cm_sp="Fnav-_-SiteMap-_-Footer">Site Map</a>
+                    <a style="font-size: 11px;" href="/cms/customer_service/privacy.tmpl" manual_cm_sp="Fnav-_-PrivacyPolicy-_-Footer">PRIVACY POLICY</a>
+                    <a style="font-size: 11px;" href="/cms/customer_service/supplier_relations.tmpl" manual_cm_sp="Fnav-_-Supplier_Relations-_-Footer">Supplier Relations</a>
+                    <a style="font-size: 11px;" href="/cms/customer_service/terms.tmpl" manual_cm_sp="Fnav-_-Terms_Conditions-_-Footer">Terms &amp; Conditions</a>
                     
                     <div id="footer_country_chooser">
                         <select class="orig_select1" id="country_select" name="country_select" onchange="chooseCountry(this);">
                 <option value="">Choose A Country</option>
+                            <option value="http://www.esteelauder.com.ar">Argentina</option>
                             <option value="http://www.esteelauder.com.au">Australia</option>
                             <option value="http://www.esteelauder.at">Austria</option>
+                            <option value="http://www.esteelauder.be">Belgium</option>
                             <option value="http://www.esteelauder.ca">Canada</option>
+                            <option value="http://www.esteelauder.cl">Chile</option>
                             <option value="http://www.esteelauder.com.cn">China</option>
+                            <option value="http://www.esteelauder.cz">Czech</option>
+                            <option value="http://www.esteelauder.dk">Denmark</option>
                             <option value="http://www.esteelauder.fr">France</option>
                             <option value="http://www.esteelauder.de">Germany</option>
                             <option value="http://www.esteelauder.gr">Greece</option>
                             <option value="http://www.esteelauder.com.hk">Hong Kong</option>
+                            <option value="http://www.esteelauder.hu">Hungary</option>
                             <option value="http://www.esteelauder.in">India</option>
                             <option value="http://www.esteelauder.co.il">Israel</option>
                             <option value="http://www.esteelauder.it">Italy</option>
@@ -1346,6 +1408,8 @@ var lpMTagConfig = {'lpServer' : "service.liveperson.net",'lpNumber' : "24631554
                             <option value="http://www.esteelauder.co.th">Thailand</option>
                             <option value="http://www.esteelauder.co.uk">United Kingdom</option>
                             <option value="http://www.esteelauder.co.za">United States</option>
+                            <option value="http://www.esteelauder.com.ve">Venezuela</option>
+                            <option value="http://www.esteelauder.com.vn">Vietnam</option>
                         </select>
                     </div><br>
                     <span>© Estée Lauder Inc. All Rights Reserved.</span>
@@ -1353,6 +1417,56 @@ var lpMTagConfig = {'lpServer' : "service.liveperson.net",'lpNumber' : "24631554
             </div>
             <!-- / FOOTER -->
             
+
+
+<div id="cs_livechat_popup_window">&nbsp;
+        <div id="layer1226082257679" style="z-index:988;" class="cms_layer">
+                <img style="vertical-align:top!important;" name="image14169120" src="/images/liveperson/livechat_cs_po_bg.png" width="347" height="159" alt="Call 1-877-311-3883 to talk to an expert Beauty Advisor" border="0" usemap="#cs_livechat_close_button_map">
+          <div class="chat_link_right"><a id="_lpChatBtn" href="https://service.liveperson.net/hc/24631554/?cmd=file&amp;file=visitorWantsToChat&amp;site=24631554&amp;byhref=1&amp;SESSIONVAR!skill=Your%20Estee%20Lauder%20Order&amp;imageUrl=https://" target="chat24631554" onclick="lpButtonCTTUrl = 'https://service.liveperson.net/hc/24631554/?cmd=file&amp;file=visitorWantsToChat&amp;site=24631554&amp;SESSIONVAR!skill=Your%20Estee%20Lauder%20Order&amp;imageUrl=https://&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); lpButtonCTTUrl = ((typeof(lpMTag)!='undefined' &amp;&amp; typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat24631554','width=472,height=320,resizable=yes');return false;">CHAT NOW »</a></div>
+          <div class="chat_link_left"><a id="_lpChatBtn" href="https://service.liveperson.net/hc/24631554/?cmd=file&amp;file=visitorWantsToChat&amp;site=24631554&amp;byhref=1&amp;SESSIONVAR!skill=Estee%20Lauder&amp;imageUrl=https://" target="chat24631554" onclick="lpButtonCTTUrl = 'https://service.liveperson.net/hc/24631554/?cmd=file&amp;file=visitorWantsToChat&amp;site=24631554&amp;SESSIONVAR!skill=Estee%20Lauder&amp;imageUrl=https://&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); lpButtonCTTUrl = ((typeof(lpMTag)!='undefined' &amp;&amp; typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat24631554','width=472,height=320,resizable=yes');return false;">CHAT NOW »</a></div>
+        </div>
+        <map name="cs_livechat_close_button_map" style="z-index:999">
+                <area shape="rect" coords="1,1,339,14" href="javascript:cs_chatlive_close_window();">
+                <area shape="rect" coords="1,47,169,149" href="https://service.liveperson.net/hc/24631554/?cmd=file&amp;file=visitorWantsToChat&amp;site=24631554&amp;byhref=1&amp;SESSIONVAR!skill=Estee%20Lauder&amp;imageUrl=https://" target="chat24631554" onclick="lpButtonCTTUrl = 'https://service.liveperson.net/hc/24631554/?cmd=file&amp;file=visitorWantsToChat&amp;site=24631554&amp;SESSIONVAR!skill=Estee%20Lauder&amp;imageUrl=https://&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); lpButtonCTTUrl = ((typeof(lpMTag)!='undefined' &amp;&amp; typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat24631554','width=472,height=320,resizable=yes');return false;">
+                <area shape="rect" coords="172,49,338,149" href="https://service.liveperson.net/hc/24631554/?cmd=file&amp;file=visitorWantsToChat&amp;site=24631554&amp;byhref=1&amp;SESSIONVAR!skill=Your%20Estee%20Lauder%20Order&amp;imageUrl=https://" target="chat24631554" onclick="lpButtonCTTUrl = 'https://service.liveperson.net/hc/24631554/?cmd=file&amp;file=visitorWantsToChat&amp;site=24631554&amp;SESSIONVAR!skill=Your%20Estee%20Lauder%20Order&amp;imageUrl=https://&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); lpButtonCTTUrl = ((typeof(lpMTag)!='undefined' &amp;&amp; typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat24631554','width=472,height=320,resizable=yes');return false;">
+        </map>
+</div>
+
+
+<script type="text/javascript">                                                 
+
+launch_cs_livechat_popover = function (){
+  if((typeof(MPTRANS) != 'undefined') && (MPTRANS === 'ES')) return 1;
+  $('cs_livechat_popup_window').fade({duration:1, from:0.3, to:1.0});
+        $('cs_livechat_popup_window').style.display="block";
+}
+
+cs_chatlive_close_window = function(){
+        $('cs_livechat_popup_window').fade({duration:1});
+}
+
+document.observe('dom:loaded', function (evt) {
+$$('.livechatlink').each
+        $$('.livechatlink').each(function(link){
+                link.observe('click', function(){
+                launch_cs_livechat_popover();
+                });
+  });
+});
+</script>
+
+
+   
+<!-- sitewide_browser_bottom_banner -->
+<div id="sitewide_browser_bottom_banner">
+    <div id="inner_sitewide_browser_bottom_banner">
+        <span class="bottom_banner_text_left"><a manual_cm_sp="Global_bottom_banner-_-Free shipping-_-Index" href="/cms/promotions/shipping.tmpl"><span class="bottom_banner_text_left_red">FREE</span> SHIPPING &amp; <span class="bottom_banner_text_left_red">FREE</span> RETURNS, ANY ORDER <span class="bottom_banner_text_raquo">»</span></a></span>
+    </div>
+</div>
+<!-- end sitewide_browser_bottom_banner -->
+
+
+
 
             
 
@@ -1366,11 +1480,16 @@ var lpMTagConfig = {'lpServer' : "service.liveperson.net",'lpNumber' : "24631554
     
 <script type="text/javascript" language="JavaScript">
 var page_data = {
+   "request" : {
+      "is_mobile" : 0
+   },
    "cms_generated" : 1
 }
 </script>
 
+<div style="" id="debugdiv_CoreMetrics"> </div>
 <script type="text/javascript">if (typeof Analytics =='object') { Analytics.addPendingTags({"Analytics::CoreMetrics":{"dom:loaded":[{"params":["cms : customer_service : privacy",null,200,null,null],"tag":"cmCreatePageviewTag"}]}}); } </script>
+<script type="text/javascript">if (typeof Analytics =='object') { Analytics.addPendingTags({"Analytics::DoubleClick":null}); } </script>
 <script type="text/javascript">if (typeof Analytics =='object') { Analytics.addPendingTags({"Analytics::CheetahMail":null}); } </script>
 <script type="text/javascript">if (typeof Analytics =='object') { Analytics.addPendingTags({"Analytics::PointRoll":null}); } </script>
 
