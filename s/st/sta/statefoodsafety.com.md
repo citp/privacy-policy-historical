@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the statefoodsafety.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510001433id_/http%3A//www.statefoodsafety.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statefoodsafety.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226025649id_/http%3A//www.statefoodsafety.com/privacy/website-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Statefoodsafety.com
-
-Your Privacy
+# StateFoodSafety.com | Privacy Center | Website Policy
 
 StateFoodSafety.com does not rent, sell or share personal information (name, address, email or any other information) about you with other people or nonaffiliated companies except to provide products or services you've requested.
 
