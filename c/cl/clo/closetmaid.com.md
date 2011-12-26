@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the closetmaid.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627051159id_/http%3A//www.closetmaid.com/en-us/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the closetmaid.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226114447id_/http%3A//www.closetmaid.com/en-us/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # ClosetMaid Privacy Policy
 
