@@ -1,0 +1,98 @@
+> *The following text is extracted and transformed from the castlighthealth.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226231851id_/http%3A//www.castlighthealth.com/privacy-policy-2011) for the most accurate reproduction.*
+
+# Privacy Policy | Castlight Health
+
+## Castlight Health Privacy Policy
+
+_Last Updated June 10, 2011_
+
+At Castlight Health, Inc. (“Castlight”), our most important asset is our relationship with you. Castlight respects your privacy and takes Internet privacy very seriously. By accepting Castlight’s Terms of Use (which incorporates by reference this Privacy Statement), you are also agreeing to the terms and conditions of this Privacy Statement, including consenting to the use and disclosure of certain information, including personally identifiable information provided to us as outlined in this Privacy Statement.
+
+Castlight Health, Inc. has been awarded TRUSTe’s Privacy Seal, signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/index.html), including transparency, accountability, and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at Castlight Health, Inc., 685 Market Street, Suite 300, San Francisco, CA 94105 or privacy@castlighthealth.com. If you are not satisfied with our response, you can contact [TRUSTe here](https://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this web site.
+
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.castlighthealth.com/seal_m)
+
+A. Collection of Information
+
+Because Castlight provides a service for evaluating your health care and health care bills, we ask you for the sort of personal and medical information needed in order to make such evaluations. We will not sell, share or rent this information that is collected in the Castlight service to others in ways different than from what is disclosed in this Statement. Castlight collects information about you from both you and others at several points in our service.
+
+B. Information Collected
+
+  * Information Requests. If you wish to request more information about Castlight prior to registering, you are required to provide contact information (for example, name and e-mail address). It is optional for you to provide additional contact information (for example, health plan and physician). This information will be used by Castlight to contact you about our services.
+  * Pre-Registration. You may be pre-registered for Castlight by your health plan or its third party administrator (“TPA”). The pre-registration process requires the collection of contact information about you (for example, name and email address). Your health plan may provide (or may have its TPA provide) additional information based on its information which we collect. This information will be used by Castlight to set up your Castlight account. In order to complete registration to use Castlight, you will be asked to agree to Castlight’s Terms of Use. You may request not to receive information from Castlight at any time.
+  * Registration. No matter how you arrive at Castlight, we require the collection of certain contact information as part of the registration process (for example, name, e-mail address, home zip code, birth date, some of which may be provided by your health plan or its TPA to Castlight). You may provide additional contact information (for example, health plan, health plan subscriber ID number, physician name and contact information, email address, home phone number, and home address). We encourage you to provide this information in order to enable optimal use of our service. In many cases, you will be asked to enter this contact information directly. In other cases, that information may be pre-filled if we have already received such information from your health plan (either directly or through its TPA). In circumstances where the information has been received from your health plan (either directly or through its TPA), you will be asked to agree to Castlight’s Terms of Use before being able to use Castlight (and, since the Terms of Use incorporates by reference this Privacy Statement, you are also agreeing to this Privacy Statement). If you arrive at Castlight directly, the registration process requires you to choose a unique identifier (for example, sign in name and password) for your account. If you arrive at Castlight through a customer or business partner site, such site may provide a unique identifier that confirms to Castlight that you are an authorized member from such customer or business partner site. You will be asked to agree to Castlight’s Terms of Use before being able to use Castlight.
+  * Communications. The purpose of Castlight is to provide you with the ability to understand, analyze and better organize your health care and related financial information. Certain communications (for example, e-mails and other communications with Castlight) are recorded and maintained by Castlight. Castlight considers these communications to be personal and private and will not use or disclose these communications except as provided for in this Privacy Statement, where required by law or unless you agree to additional use and disclosure of such information.
+  * Provided Information. From time to time, your health plan (either directly or through its TPA) may provide Castlight with, or Castlight may otherwise access and collect from such parties, health care financial information (which may include medical or other information contained in their medical records, patient files or bills) or other information about you. This may include sharing of information about you via integration between our service and certain systems used by you and by your health plan or its TPA containing information about you. The provision and sharing of this information is optional by your health plan or its TPA and they may require you to provide them with certain consents. In some cases, our ability to access and collect information from such systems may require additional information from you, such as your log-in information (for example, your user ID and password). Upon your provision of such information, you consent to Castlight using such information solely to log in to such systems to access and collect your information for use in accordance with this Privacy Statement.
+  * Payor Information. Castlight requests financial information and any relevant health plan or other payor information from you.
+  * Log Files. Castlight collects and stores the Internet Protocol (IP) address of the computer you are using; the name of the domain and host from which you access the Internet; the browser software you use and your operating system; the date and time you access the service; and the Internet address of the Web site from which you directly linked to Castlight. Castlight uses this log file information to analyze trends, administer the service, and monitor service traffic and usage patterns for internal security purposes and to help make the Castlight service more useful.
+
+
+
+C. Use And Disclosure of Your Information
+
+In addition to the uses and disclosures of information outlined above, your information may also be used and disclosed as follows:
+
+  * Castlight maintains an audit trail that keeps track of who has seen your Castlight account and whether any changes to your account have occurred. You have the ability to view this audit trail to see all viewers of your account.
+  * You can always view all the information you entered in Castlight voluntarily by accessing your account.
+  * If another individual is managing your account with your permission (for example, mother managing account of her son), this account manager can view all your information entered in Castlight on your behalf.
+  * Supply certain claims data in order to facilitate and coordinate your receipt of certain insurance benefits.
+  * Survey you to evaluate and improve the Castlight service.
+  * Operate the Castlight service and decide what services will meet our members’ needs.
+  * Provide information as required by law.
+  * Communicate back to you about customer service issues.
+  * Update you on service and Castlight benefits.
+  * Use your provider and/or insurance plan information to customize your experience, or to show your health plan or its TPA logo on Castlight web pages.
+
+
+
+D. Disclosure of Information
+
+  * Compliance with Laws. Castlight will not disclose personal information (contact, health and/or billing) to third parties other than as provided for in this Privacy Statement, except when required to do so by law or you have otherwise consented to additional use or disclosure of the information.
+  * Business Partners. Castlight may work with business partners in making our services available to consumers. It is our policy to require companies with whom we do business to support the same privacy policies we do. When you sign up for these services, we will share information only as necessary for the third party to provide related services or assist us in providing our services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+  * Third Parties. If you use Castlight to link to another web site, you may decide to disclose personal information at that web site. For example, you might provide your contact information to obtain an information packet from an organization. Please be aware that in contacting that site, or in providing information on that site, that third party may obtain personal information about you. This Privacy Statement does not apply when you leave Castlight and go to a third party web site from Castlight. We structure the Castlight service so that no personal or health information goes in the search string or URL when you move from the Castlight service to a linked web site. We encourage you to be aware when you leave our service and to read the privacy statements of each and every site that collects personally identifiable information.
+
+
+
+E. De-identified Information
+
+On occasion, Castlight may make arrangements with certain customers or business partners to share certain pattern information in order to assist such customers or business partners in evaluating patterns, utilization, usage trends, etc. Castlight may also share such information with you or other users of our service. This type of information may be based in part on information related to you, but does not allow for the personal identification of any individual (in other words, it is “patient de-identified”). This information will not be used by the customer or business partner for marketing and/or any other purpose.
+
+  * Castlight removes your identity from your personal information (contact, health and/or financial) and may work with it as anonymous (“de-identified”) information.
+  * De-identified individual information is information about a user presented in a form where information about one anonymous user would be indistinguishable from information relating to other anonymous users (“a 40 year old female”). De-identified individual information is not in a form that allows anyone studying the information to personally identify any user.
+  * Aggregate information is information that describes the habits, usage patterns and/or demographics of users as a group but does not reveal the identity of particular users. Your anonymous data is combined with the anonymous data of other Castlight users and becomes statistics. We might use aggregate information within Castlight to understand the needs of the Castlight community of users and determine what kinds of programs and services we can offer to you. Castlight could use this anonymous information to give potential users or business partners a picture of the Castlight community and services. Aggregate information may be provided or sold to third parties. Absolutely no personal identifying information is included in the aggregate reports; each individual remains anonymous.
+  * Locator information is your name, electronic messaging address, physical address, and/or other data that enables someone to personally identify you. Castlight and your Internet Access Provider may use Locator information as is necessary to enforce any of the terms of the Castlight Terms of Use.
+
+
+
+F. Opting Out or Opting In to Specific Uses Of Information
+
+  * Medical Information. You have the ability to request the activation or deactivation of the authorization of an account manager at any time by notifying Castlight.
+  * Invitations. If you no longer wish to receive invitations to register for Castlight, you may so notify Castlight by contacting us at (888) 226-8021 or at privacy@CastlightHealth.com and we will cease sending such invitations to you.
+  * Email Updates and Castlight Service Marketing. Castlight may provide service updates, tips or education, or may market the Castlight service to you. You will be able opt-out of any such communications at any time.
+  * Added Services. As we add services to the Castlight service that require the collection, use or disclosure of data other than as set forth in this Privacy Statement, we will offer users the option to opt in or out of those services.
+
+
+
+G. Storage and Maintenance of Information
+
+Castlight will store and maintain Personal Information (as defined below) and Contact information in accordance with the requirements agreed to by Castlight and your health plan or its TPA, unless you notify Castlight by contacting us at privacy@CastlightHealth.com, that either (i) you wish to have all or a portion of your Personal Information Purged (as defined below) from Castlight’s system; or (ii) you wish to have Castlight retain all or a portion of such information. For more information on the specific requirements that Castlight and your health plan or its TPA agreed we would follow, you may contact us at (888) 226-8021 or at privacy@CastlightHealth.com or you may contact your health plan or its TPA. Personal Information shall mean your sensitive personal information, including but not limited to social security numbers, account numbers, protected health information (PHI), claim data, financial data, driver’s license number, date of birth, prescription-related information, next of kin contact information and passwords, but shall exclude Contact Data. Contact Data shall mean your name and email address and electronic communications between you and Castlight (such as ask Castlight inquiries and emails). Castlight shall not sell or disclose Contact Data to any unrelated third party other than disclosures to you and your health plan or its TPA or as may be required in connection with our business operations.
+
+H. Security
+
+All communication between you and the Castlight server is secured by using SSL version 3.0, which uses 128-bit encryption. Castlight takes commercially reasonable measures to secure your data on our servers. The data center we use is both physically and electronically secured. Our internet servers are protected on the internet behind a firewall which is a hardware and software system that blocks access by unauthorized parties. For more information, please refer to Castlight’s Security Statement.
+
+I. Cookies
+
+  * In order to personalize our service for you and to collect aggregate, non-personal information regarding service usage by all of our users, Castlight uses “cookies.” A “cookie” is a small text file that Castlight transfers to your computer’s hard drive. Castlight assigns each computer a different cookie. The cookie assigns a random, unique number to your computer. The cookie does not contain personally identifiable information.
+  * Your browser software can be set to warn you of cookies or reject all cookies. Most browsers offer instructions on how to reset the browser to reject cookies in the “Help” section of the toolbar. If you reject our cookie, you will not be able to use Castlight.
+  * Sponsors or partners on Castlight may also use their own cookies when you click on a hypertext link to their site or service. We do not control these third parties’ use of cookies, or how they manage the non-personal information that they gather through them. You should review the privacy statement of other sites you link to from our service to understand how these other sites use cookies and how they use the information they collect through the use of cookies on their own sites.
+
+
+
+J. Miscellaneous
+
+  * Protection of Privacy. In order to protect your privacy, never share your sign-in name or password and always log out of Castlight when you are finished using the service.
+  * Questions. If you have any questions about this Privacy Statement or the use of your information via Castlight, please contact us at privacy@CastlightHealth.com.
+  * Changes to Privacy Statement. Castlight will only use your personally identifiable information in the manner described in the Privacy Statement in effect when we collected the information from you. However, we reserve the right to change the terms of this Privacy Statement at any time by posting those changes on our service so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point, we decide to use personal health information in a manner different from that stated at the time it was collected, we will notify users by way of e-mail. You will be given the opportunity to opt-out for any additional uses or disclosures of your personal health information that you made available to us prior to any such change in our Privacy Statement. In addition, we urge you to check here for any updates to this Privacy Statement from time to time.
+
+
