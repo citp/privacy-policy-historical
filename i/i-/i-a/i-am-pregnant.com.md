@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-am-pregnant.com privacy policy that was archived on 2010-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100822163657id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3Dwww.i-am-pregnant.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-am-pregnant.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226014227id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3Dwww.i-am-pregnant.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
