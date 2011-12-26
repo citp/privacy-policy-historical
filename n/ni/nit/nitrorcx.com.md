@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nitrorcx.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819024501id_/http%3A//www.nitrorcx.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitrorcx.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226200904id_/http%3A//www.nitrorcx.com/privacypolicy.html) for the most accurate reproduction.*
 
-# NitroRCX.com - Lowest Price for the Newest Nitro RC Cars, Gas RC Buggies and Trucks - Brushless Electric & Nitro Gas Powered RC
+# 
 
 How do we use your information?  
 We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
