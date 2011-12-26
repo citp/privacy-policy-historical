@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockpromoters.com privacy policy that was archived on 2011-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110223113313id_/http%3A//stockpromoters.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockpromoters.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226235331id_/http%3A//stockpromoters.com/privacy.aspx) for the most accurate reproduction.*
 
 # Stockpromoters.com - Privacy Policy
 
