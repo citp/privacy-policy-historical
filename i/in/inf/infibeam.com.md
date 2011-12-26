@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infibeam.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613224406id_/http%3A//www.infibeam.com/static/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infibeam.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226101003id_/http%3A//www.infibeam.com/static/help/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
