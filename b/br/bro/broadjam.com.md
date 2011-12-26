@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadjam.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517200010id_/http%3A//www.broadjam.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadjam.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226062021id_/http%3A//www.broadjam.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Music Licensing, Free Music Promotion, Download Free Music, Streaming Music for Free at Broadjam.com
 
