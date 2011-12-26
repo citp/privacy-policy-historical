@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the educationuk.org privacy policy that was archived on 2011-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110627135708id_/http%3A//www.educationuk.org/Page/TermsConditionsLayout/PrivacyPolicy%3Fparam%3DPrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the educationuk.org privacy policy that was archived on 2011-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226183736id_/http%3A//www.educationuk.org/Page/TermsConditionsLayout/PrivacyPolicy%3Fparam%3DPrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -37,7 +37,7 @@
 
 
 	
-	 
+	
 
 	
 					
@@ -100,24 +100,23 @@
 <link href="/css/BC_modules.css" rel="stylesheet" type="text/css" media="all">
 <link href="/css/ui.modules.css" rel="stylesheet" type="text/css" media="all">
 <link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
-<script src="/js/jquery-1.3.2.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
 <script src="/js/ui.core.js" type="text/javascript"></script>
-<script src="/js/jquery.jNice.js" type="text/javascript"></script>
 <script src="/js/locale.json" type="text/javascript"></script>
+<script src="/js/jquery.plugins.js" type="text/javascript"></script>
 <script src="/js/global.js" type="text/javascript"></script>
-<script src="/js/genericDropdown.js" type="text/javascript"></script>
 <!-- <script type="text/javascript" src="https://api-secure.recaptcha.net/js/recaptcha_ajax.js"></script> -->
-
-
 <!--[if lte IE 6]>
-	 <link href="/css/css_ie6.css" rel="stylesheet" type="text/css" media="all" />
-	 <script src="/js/ie_js.js" type="text/javascript"></script>
+<link href="/css/css_ie6.css" rel="stylesheet" type="text/css" media="all" />
+<script src="/js/jquery.cookie.js" type="text/javascript"></script>
+<script src="/js/ie_js.js" type="text/javascript"></script>
+
 <![endif]-->
 
-<script type="text/javascript" src="/js/locale.json"></script>
-<!--[if lte IE 7]>
+<!--[if IE 7]>
   <link href="/css/css_ie7.css" rel="stylesheet" type="text/css" media="all" />
 <![endif]-->
+
 
 
 
@@ -702,6 +701,30 @@
 												 
 												 
 														<li>
+															<a href="/bc?c=Page&amp;cid=1262432675061&amp;countryLang=Turkish&amp;countryName=Turkey&amp;currStatus=Y&amp;fatwireSitename=Eduk_Turkey&amp;pagename=GLOBAL%2FLocaleIntermediateTemplate&amp;selectedLocale=tr_TR">
+																	Turkey
+															</a>
+														</li>	
+												 
+												 
+							
+									
+																			
+										
+									
+									
+																
+									 
+												
+												
+												
+											
+											
+										 
+ 													
+												 
+												 
+														<li>
 															<a href="/bc?c=Page&amp;cid=1262432675061&amp;countryLang=English&amp;countryName=USA&amp;currStatus=Y&amp;fatwireSitename=Eduk_USA&amp;pagename=GLOBAL%2FLocaleIntermediateTemplate&amp;selectedLocale=en_US">
 																	USA
 															</a>
@@ -811,6 +834,8 @@
 
 
 
+
+
 		
 			
 		
@@ -866,16 +891,11 @@
 
 																	 
 																																
-																
-																		 
-																		
 																				<li>
-																					<a href="/Life-in-the-UK" title="Life in the UK">
+																					<a href="/Life-in-UK" title="Life in the UK">
 																					 Life in the UK
 																					</a>
 																				</li>
-																		
-																	
 																
 														
 														
@@ -909,16 +929,11 @@
 
 																	 
 																																
-																
-																		 
-																		
 																				<li>
 																					<a href="/A-UK-education" title="A UK education">
 																					 A UK education
 																					</a>
 																				</li>
-																		
-																	
 																
 														
 														
@@ -952,16 +967,11 @@
 
 																	 
 																																
-																
-																		 
-																		
 																				<li>
 																					<a href="/Careers-in-different-fields" title="Subjects">
 																					 Subjects
 																					</a>
 																				</li>
-																		
-																	
 																
 														
 														
@@ -995,16 +1005,11 @@
 
 																	 
 																																
-																
-																		 
-																		
 																				<li>
 																					<a href="/Events" title="Events">
 																					 Events
 																					</a>
 																				</li>
-																		
-																	
 																
 														
 														
@@ -1038,20 +1043,23 @@
 
 																	 
 																																
-																
-																		 
-																		
 																				<li>
 																					<a href="/Applications" title="Applications">
 																					 Applications
 																					</a>
 																				</li>
-																		
-																	
 																
 														
 														
 									
+
+
+	
+																	 
+																							 
+																		
+
+											
 						 
 						 
 						
@@ -1237,35 +1245,35 @@
 
 
 	
-
-<!--  -->
-
-
-<script type="text/javascript">
- $(function(){
- activeState=getParams('ArticleTagValue');
- $('#CoursesCombo').accordion({ active: parseInt( activeState ), autoHeight:false, change: function( evt,ui ){
-	if ( $('.jsDropdownMenu').length ) $('.jsDropdownMenu').remove();
-	} });
-	$("li.byinstitution").hide();
-		setDropdownvalue();
-});
-</script>
+<script type="text/javascript" src="/js/jquery.autocomplete.js"></script>
 
 
-<div id="CoursesCombo">
+<link href="/css/jquery.multiSelect.css" rel="stylesheet" type="text/css">
 
-<h3 id="head1"> <a href="#"> 
-	Find a course</a> </h3>
- <div class="image-container courseAreaDiv">
 
-			
 
-				
+<div class="whiteBg" id="finder">
+					<div class="blueBg">
+					
+<div class="right-module no-margin">
+			<div class="content">
+				<h2>Search</h2>
+				<!--<img id="loaderImg" src="/images/ajax-loader-medium.gif" alt="Loading..." />-->
+				<div id="course_navtabs" class="tab-form-container">
+					<ul>
+						<li class="coursesTab"><a href="#Courses" class="Courses" title="Courses"><span>Courses</span></a></li>
+						<li class="institutesTab"><a href="#Institutes" class="Institutes" title="Institutions"><span>Institutions</span></a></li>
+						<li class="scholarshipsTab last"><a href="#Scholarships" class="Scholarships" title="Scholarships"><span>Scholarships</span></a></li>
+					</ul>
+					
+					<div id="Courses">
+					<div id="searchContainer">
+
 <form action="/nc" method="get" id="courseComboForm" name="courseComboForm">
-<fieldset>
-<legend>* mandatory</legend>
-	<ul>
+
+
+            <fieldset>
+            <ul class="tab-form-list" style="position:relative;">
 					
 
 				
@@ -1276,292 +1284,1999 @@
 					
 
 					
-					<li>
-
-						<label for="courseCategory">
-							 Course Category<em>*</em>
+                <li>
+                    <label for="Course" class="width245">Choose course category * 
 							
 								
 						 
-							<a href="/bc?c=Page&amp;cid=1262432675061&amp;pagename=GLOBAL%2FHelpTextContent&amp;param=courseCategory" class="tooltip register-link" id="register-link">
-								<img src="/images/help-icon.gif" alt="Help icon">
-								<span>Please select a course category from the dropdown. Click on the icon for any further details</span>
-							</a>
-                            
-                            <!--a href='#' 
-								 title="Please select a course category from the dropdown. Click on the icon for any further details" id="sendBtn"
-												 > 
-								<a href="">
-								<img src="/images/help-icon.gif" alt="Help icon" />
-								<span>
-								</span>
-							</a -->
-						</label>
-						
 					
-					</li>
-					<li class="input bycourse">
-							
-								<a href="#" class="jsDropdown " id="Level of Study" style="width: 243px;"><span style="width: 226px;">Please Select</span></a><input type="hidden" name="Level of Study" value="Please Select">
-					</li>
-							
-								
-						
-						
-					<li class="othercourses">
-						<label for="courseCategory">Subject Area<em>*</em>
-							<a href="/bc?c=Page&amp;cid=1262432675061&amp;pagename=GLOBAL%2FHelpTextContent&amp;param=subjectAreaText" class="tooltip register-link" id="register-link">
-								<img src="/images/help-icon.gif" alt="Help icon">
-								<span>Please select a subject area from the dropdown. Click on the icon for any further details.</span>
+					<a id="register-link" class="tooltip register-link" href="/bc?c=Page&amp;cid=1262432675061&amp;pagename=GLOBAL%2FHelpTextContent&amp;param=courseCategory">
+								<img alt="" src="/images/help-icon.gif">
+								<span>Please select a course category from the dropdown. Click on the icon for further details</span>
 							</a>
-						</label>
-					</li>
-					<li class="othercourses input">
-							
-
-								
-								<a href="#" class="jsDropdown " id="Subject" style="width: 243px;"><span style="width: 226px;">Please Select</span></a><input type="hidden" name="Subject" value="Please Select">
-							</li>
-
-						
-								
-						
-
-						<li class="engcourses" style="display:none;">
-							<label for="Type of Course">Type of Course<em>*</em>
-									<!--a href='#' 
-											 title="Please select a type of course from the dropdown. Click on the icon for any further details" id="sendBtn">
-										 <a href=""
-											<img src="/images/help-icon.gif" alt="Help icon" />
-											<span>
-											</span>
-										</a>		-->
-                                <a href="/bc?c=Page&amp;cid=1262432675061&amp;pagename=GLOBAL%2FHelpTextContent&amp;param=courseType" class="tooltip register-link" id="register-link">
-                                    <img src="/images/help-icon.gif" alt="Help icon">
-                                    <span>Please select a type of course from the dropdown. Click on the icon for any further details</span>
-                                </a>
+							<span class="mandatory">* Mandatory</span>
 							</label>
+                </li>
+                <li class="input bycourse">
 							
-						</li>
-						<li class="engcourses input" style="display:none;">
-							<a href="#" class="jsDropdown " id="Type of Course" style="width: 243px;"><span style="width: 226px;">Please Select</span></a><input type="hidden" name="Type of Course" value="Please Select">
-						</li>
-					<!-- 	<li><label for="SearchTerm">Keyword</label>
-						<li><input type="text" name="SearchTerm" size="12" id="SearchTerm" /></li> -->
+
+								<select id="Level_of_Study" name="Level of Study" class="jsDropdown width229" title="levelofstudy">
+
+									 <option value="Please Select">Please Select</option>
+											
+											
+											<option value="English language courses">English language courses</option>
 
 
+												<!-- <optgroup label='English language courses'> -->
+											
+												 <!-- </optgroup> -->
+											
+											
+											<option value="Career based &amp; foundation">Career based &amp; foundation</option>
+
+
+												<!-- <optgroup label='Career based & foundation'> -->
+											
+												 <!-- </optgroup> -->
+											
+											
+											<option value="Undergraduate &amp; pre-degree">Undergraduate &amp; pre-degree</option>
+
+
+												<!-- <optgroup label='Undergraduate & pre-degree'> -->
+											
+												 <!-- </optgroup> -->
+											
+											
+											<option value="Postgraduate">Postgraduate</option>
+
+
+												<!-- <optgroup label='Postgraduate'> -->
+											
+												 <!-- </optgroup> -->
+											
+											
+											<option value="MBA">MBA</option>
+
+
+												<!-- <optgroup label='MBA'> -->
+											
+												 <!-- </optgroup> -->
+																		 
+								 </select>
+                </li>
+
+							
+								
+						
+				<li id="key" class="disabledTextbox">
+				<ul>
+				<li>
+				<label for="keyword">
+				Enter subject keyword (In English)
+				<a href="/bc?c=Page&amp;cid=1262432675061&amp;pagename=GLOBAL%2FHelpTextContent&amp;param=subjectAreaKeywordText" class="tooltip register-link" id="register-link"> 
+				<img src="/images/help-icon.gif" alt=""> <span>Please enter a keyword to search. Click on the icon for further details</span> 
+				</a>
+				</label>
+				</li>
+				<li class="input textbox">
+				
+					<input type="text" value="" name="SearchTerm" size="12" id="SearchTerm">
+
+																										
+															
+																
+													 
+
+												
+
+														 <script type="text/javascript">
+																
+															var keywordSuggestionUrl='/bc?c=Template&cid=1262432675061&pagename=GLOBAL%2FCourseSubjectKeyword';
+
+														$("#SearchTerm").autocomplete(keywordSuggestionUrl,
+															{
+																extraParams: {CategoryValue: function() { return $("#Level_of_Study").val(); },SubjectValue: function() { return $("#Subject").val(); } },
+																delay:10,
+																minChars:3,
+																matchSubset:1,
+																matchContains:1,
+																cacheLength:1,
+																max:20,
+																selectFirst:false
+															}
+														);  
+															</script>
+
+
+
+
+
+
+
+				</li>
+				</ul>
+								
+				<div class="textboxDisabler">&nbsp;</div>
+				</li>
+				
+				<li id="typeCourse">
+				<ul>
+                <li>
+						
+								
+						
+                    <label for="location1">Type of Course* 
+								<a id="register-link" class="tooltip register-link" href="/bc?c=Page&amp;cid=1262432675061&amp;pagename=GLOBAL%2FHelpTextContent&amp;param=courseType">
+                                    <img alt="" src="/images/help-icon.gif">
+                                    <span>Please select a type of course from the dropdown. Click on the icon for further details</span>
+                                </a></label>
+                </li>
+                 <li class="input engcourses">
+							
+				 <select id="Type of Course" name="Type of Course" class="jsDropdown width229">
+							<option value="Please Select">Please Select</option>
+											
+							
+								
+								
+								<option value="General/Intensive English">General/Intensive English</option>
+
+								
+							
+								
+								
+								<option value="IELTS/TOEFL">IELTS/TOEFL</option>
+
+								
+							
+								
+								
+								<option value="Cambridge">Cambridge</option>
+
+								
+							
+								
+								
+								<option value="Foundation/access courses">Foundation/access courses</option>
+
+								
+							
+								
+								
+								<option value="Business/executive English">Business/executive English</option>
+
+								
+							
+								
+								
+								<option value="English courses for teachers">English courses for teachers</option>
+
+								
+							
+								
+								
+								<option value="English for academic purposes">English for academic purposes</option>
+
+								
+							
+								
+								
+								<option value="English for specific purposes">English for specific purposes</option>
+
+								
+							
+								
+								
+								<option value="English plus another subject">English plus another subject</option>
+
+								
+
+							</select>
+                </li>
+				</ul>
+				
+				</li>
+				<li id="subjectArea1" class="disabledSelectbox">
+				<ul>
+                <li>
+
+							
+								
+						
+                    <label for="subjectArea">Or choose a subject area 
 					
- <li> 
-					 <span class="button">
-							<input type="button" value="Find" name="Find">
-					 </span>
-								<input type="hidden" name="pagename" value="GLOBAL/SearchLayoutTemplate">
+						<a id="register-link" class="tooltip register-link" href="/bc?c=Page&amp;cid=1262432675061&amp;pagename=GLOBAL%2FHelpTextContent&amp;param=subjectAreaText">
+									<img alt="" src="/images/help-icon.gif">
+									<span>Please select a subject area from the dropdown. Click on the icon for further details.</span>
+						</a>
+					</label>
+                </li>
+                <li class="othercourses input finder-menu">
+
+							
+							
+
+					<select id="Subject" name="Subject" class="jsDropdown trigger width229">
+						<option value="Please Select">Please Select</option>
+						
+								
+								<option value="Agriculture, Environment and Related Subjects">								
+								Agriculture, environment and related subjects</option>
+						
+								
+								<option value="Applied and Pure Sciences">								
+								Applied and pure sciences</option>
+						
+								
+								<option value="Architecture, Building and Planning">								
+								Architecture, building and planning</option>
+						
+								
+								<option value="Business and administration">								
+								Business and administration</option>
+						
+								
+								<option value="Computing, Mathematical and Information Sciences">								
+								Computing, mathematical and information sciences</option>
+						
+								
+								<option value="Creative Arts and Design">								
+								Creative arts and design</option>
+						
+								
+								<option value="Education and teacher training">								
+								Education and teacher training</option>
+						
+								
+								<option value="Engineering and Technology">								
+								Engineering and technology</option>
+						
+								
+								<option value="Health and Medicine">								
+								Health and medicine</option>
+						
+								
+								<option value="Humanities">								
+								Humanities</option>
+						
+								
+								<option value="Law and Legal Courses">								
+								Law and legal courses</option>
+						
+								
+								<option value="Social Sciences and Communications">								
+								Social sciences and communications</option>
+						
+								
+								<option value="Travel, Tourism and Leisure">								
+								Travel, tourism and leisure</option>
+						
+					</select>
+                </li>
+				
+				</ul>
+				<div class="selectboxDisabler">&nbsp;</div>
+				</li>
+				<li id="subjectSelect">
+								<ul>
+				<li>
+                    <label for="Study1">Subject<a class="tooltip">
+								<img alt="" src="/images/help-icon.gif">
+								<span>Optional - to narrow your search further, you can select one or more subjects.</span>
+								</a></label>
+                </li>
+
+							
+									
+						
+
+                <li id="subjectMapping">
+					
+						
+				</li>
+				</ul>
+				</li>
+            </ul>
+            </fieldset>
+
+							
+							
+							
+
+							
+							
+
+<div class="filters">
+<a href="#" class="clearFilter">Clear filters</a> Filter by 					
+
+</div>
+
+<div id="CoursesCombo" class="no-margin">
+								
+								
+										<h3 id="head1" class="accordianHeading"> <a href="#">Location</a> </h3>
+										<div class="image-container tabContentContainer">
+										      <fieldset>
+												<ul>
+													<li class="custom-select checkboxes">
+														<div class="clearfix">
+															<ul class="custom-checkboxes">
+
+														
+															<li>
+																	 <label for="Anywhere in UK">
+																		<input type="checkbox" name="location" value="Anywhere in UK" id="Anywhere in UK">
+																		Anywhere in UK</label>
+																 </li>
+																 
+															<li>
+																	 <label for="Northern Ireland">
+																		<input type="checkbox" name="location" value="Northern Ireland" id="Northern Ireland">
+																		Northern Ireland</label>
+																 </li>
+																 
+															<li>
+																	 <label for="Scotland">
+																		<input type="checkbox" name="location" value="Scotland" id="Scotland">
+																		Scotland</label>
+																 </li>
+																 
+															<li>
+																	 <label for="Wales">
+																		<input type="checkbox" name="location" value="Wales" id="Wales">
+																		Wales</label>
+																 </li>
+																 
+															<li>
+																	 <label for="Northern England">
+																		<input type="checkbox" name="location" value="Northern England" id="Northern England">
+																		Northern England</label>
+																 </li>
+																 
+															<li>
+																	 <label for="Central England">
+																		<input type="checkbox" name="location" value="Central England" id="Central England">
+																		Central England</label>
+																 </li>
+																 
+															<li>
+																	 <label for="London">
+																		<input type="checkbox" name="location" value="London" id="London">
+																		London</label>
+																 </li>
+																 
+															<li>
+																	 <label for="Southern England">
+																		<input type="checkbox" name="location" value="Southern England" id="Southern England">
+																		Southern England</label>
+																 </li>
+																 
+															 </ul>
+														</div>
+													</li>
+												</ul>
+											</fieldset>
+										</div>
+										
+								
+										<h3 id="head2" class="accordianHeading"> <a href="#">Type of attendance</a> </h3>
+										<div class="image-container tabContentContainer">
+										      <fieldset>
+												<ul>
+													<li class="custom-select checkboxes">
+														<div class="clearfix">
+															<ul class="custom-checkboxes">
+
+														
+															<li>
+																	 <label for="Distance/Online">
+																		<input type="checkbox" name="Type of attendence" value="Distance/Online" id="Distance/Online">
+																		Distance/Online</label>
+																 </li>
+																 
+															 </ul>
+														</div>
+													</li>
+												</ul>
+											</fieldset>
+										</div>
+										
+								
+										<h3 id="head3" class="accordianHeading"> <a href="#">Age range</a> </h3>
+										<div class="image-container tabContentContainer">
+										      <fieldset>
+												<ul>
+													<li class="custom-select checkboxes">
+														<div class="clearfix">
+															<ul class="custom-checkboxes">
+
+														
+															<li>
+																	 <label for="under 12">
+																		<input type="checkbox" name="Age range" value="under 12" id="under 12">
+																		under 12</label>
+																 </li>
+																 
+															<li>
+																	 <label for="12-16">
+																		<input type="checkbox" name="Age range" value="12-16" id="12-16">
+																		12-16</label>
+																 </li>
+																 
+															<li>
+																	 <label for="16-18">
+																		<input type="checkbox" name="Age range" value="16-18" id="16-18">
+																		16-18</label>
+																 </li>
+																 
+															<li>
+																	 <label for="18+">
+																		<input type="checkbox" name="Age range" value="18+" id="18+">
+																		18+</label>
+																 </li>
+																 
+															<li>
+																	 <label for="23+">
+																		<input type="checkbox" name="Age range" value="23+" id="23+">
+																		23+</label>
+																 </li>
+																 
+															 </ul>
+														</div>
+													</li>
+												</ul>
+											</fieldset>
+										</div>
+										
+								
+										<h3 id="head4" class="accordianHeading"> <a href="#">Course length</a> </h3>
+										<div class="image-container tabContentContainer">
+										      <fieldset>
+												<ul>
+													<li class="custom-select checkboxes">
+														<div class="clearfix">
+															<ul class="custom-checkboxes">
+
+														
+															<li>
+																	 <label for="1 week">
+																		<input type="checkbox" name="Course length" value="1 week" id="1 week">
+																		1 week</label>
+																 </li>
+																 
+															<li>
+																	 <label for="2 weeks">
+																		<input type="checkbox" name="Course length" value="2 weeks" id="2 weeks">
+																		2 weeks</label>
+																 </li>
+																 
+															<li>
+																	 <label for="3 weeks">
+																		<input type="checkbox" name="Course length" value="3 weeks" id="3 weeks">
+																		3 weeks</label>
+																 </li>
+																 
+															<li>
+																	 <label for="4 weeks">
+																		<input type="checkbox" name="Course length" value="4 weeks" id="4 weeks">
+																		4 weeks</label>
+																 </li>
+																 
+															<li>
+																	 <label for="5 weeks">
+																		<input type="checkbox" name="Course length" value="5 weeks" id="5 weeks">
+																		5 weeks</label>
+																 </li>
+																 
+															<li>
+																	 <label for="6 weeks">
+																		<input type="checkbox" name="Course length" value="6 weeks" id="6 weeks">
+																		6 weeks</label>
+																 </li>
+																 
+															<li>
+																	 <label for="7 weeks">
+																		<input type="checkbox" name="Course length" value="7 weeks" id="7 weeks">
+																		7 weeks</label>
+																 </li>
+																 
+															<li>
+																	 <label for="8 weeks">
+																		<input type="checkbox" name="Course length" value="8 weeks" id="8 weeks">
+																		8 weeks</label>
+																 </li>
+																 
+															<li>
+																	 <label for="10 weeks">
+																		<input type="checkbox" name="Course length" value="10 weeks" id="10 weeks">
+																		10 weeks</label>
+																 </li>
+																 
+															<li>
+																	 <label for="3 months">
+																		<input type="checkbox" name="Course length" value="3 months" id="3 months">
+																		3 months</label>
+																 </li>
+																 
+															<li>
+																	 <label for="4 months">
+																		<input type="checkbox" name="Course length" value="4 months" id="4 months">
+																		4 months</label>
+																 </li>
+																 
+															<li>
+																	 <label for="5 months">
+																		<input type="checkbox" name="Course length" value="5 months" id="5 months">
+																		5 months</label>
+																 </li>
+																 
+															<li>
+																	 <label for="6 months">
+																		<input type="checkbox" name="Course length" value="6 months" id="6 months">
+																		6 months</label>
+																 </li>
+																 
+															<li>
+																	 <label for="6 months plus">
+																		<input type="checkbox" name="Course length" value="6 months plus" id="6 months plus">
+																		6 months plus</label>
+																 </li>
+																 
+															<li>
+																	 <label for="Academic year">
+																		<input type="checkbox" name="Course length" value="Academic year" id="Academic year">
+																		Academic year</label>
+																 </li>
+																 
+															 </ul>
+														</div>
+													</li>
+												</ul>
+											</fieldset>
+										</div>
+										
+								
+										<h3 id="head5" class="accordianHeading"> <a href="#">Accommodation</a> </h3>
+										<div class="image-container tabContentContainer">
+										      <fieldset>
+												<ul>
+													<li class="custom-select checkboxes">
+														<div class="clearfix">
+															<ul class="custom-checkboxes">
+
+														
+															<li>
+																	 <label for="Homestay">
+																		<input type="checkbox" name="Accommodation" value="Homestay" id="Homestay">
+																		Homestay</label>
+																 </li>
+																 
+															<li>
+																	 <label for="Residential e.g. in college/school">
+																		<input type="checkbox" name="Accommodation" value="Residential e.g. in college/school" id="Residential e.g. in college/school">
+																		Residential e.g. in college/school</label>
+																 </li>
+																 
+															<li>
+																	 <label for="Guesthouse/Hotel">
+																		<input type="checkbox" name="Accommodation" value="Guesthouse/Hotel" id="Guesthouse/Hotel">
+																		Guesthouse/Hotel</label>
+																 </li>
+																 
+															<li>
+																	 <label for="Self-catering">
+																		<input type="checkbox" name="Accommodation" value="Self-catering" id="Self-catering">
+																		Self-catering</label>
+																 </li>
+																 
+															<li>
+																	 <label for="None available">
+																		<input type="checkbox" name="Accommodation" value="None available" id="None available">
+																		None available</label>
+																 </li>
+																 
+															 </ul>
+														</div>
+													</li>
+												</ul>
+											</fieldset>
+										</div>
+										
+								
+										<h3 id="head6" class="accordianHeading"> <a href="#">Course Delivery</a> </h3>
+										<div class="image-container tabContentContainer">
+										      <fieldset>
+												<ul>
+													<li class="custom-select checkboxes">
+														<div class="clearfix">
+															<ul class="custom-checkboxes">
+
+														
+															<li>
+																	 <label for="Classroom Group">
+																		<input type="checkbox" name="Course Delivery" value="Classroom Group" id="Classroom Group">
+																		Classroom Group</label>
+																 </li>
+																 
+															<li>
+																	 <label for="One-to-one">
+																		<input type="checkbox" name="Course Delivery" value="One-to-one" id="One-to-one">
+																		One-to-one</label>
+																 </li>
+																 
+															<li>
+																	 <label for="Distance/online">
+																		<input type="checkbox" name="Course Delivery" value="Distance/online" id="Distance/online">
+																		Distance/online</label>
+																 </li>
+																 
+															<li>
+																	 <label for="Home tuition courses">
+																		<input type="checkbox" name="Course Delivery" value="Home tuition courses" id="Home tuition courses">
+																		Home tuition courses</label>
+																 </li>
+																 
+															 </ul>
+														</div>
+													</li>
+												</ul>
+											</fieldset>
+										</div>
+										
+								
+										<h3 id="head7" class="accordianHeading"> <a href="#">Vacation Courses</a> </h3>
+										<div class="image-container tabContentContainer">
+										      <fieldset>
+												<ul>
+													<li class="custom-select checkboxes">
+														<div class="clearfix">
+															<ul class="custom-checkboxes">
+
+														
+															<li>
+																	 <label for="Adult vacation">
+																		<input type="checkbox" name="Vacation Courses" value="Adult vacation" id="Adult vacation">
+																		Adult vacation</label>
+																 </li>
+																 
+															<li>
+																	 <label for="Junior vacation">
+																		<input type="checkbox" name="Vacation Courses" value="Junior vacation" id="Junior vacation">
+																		Junior vacation</label>
+																 </li>
+																 
+															 </ul>
+														</div>
+													</li>
+												</ul>
+											</fieldset>
+										</div>
+								
+			
+
+  
+</div>
+
+								
+<div class="filter"> 
+<input type="hidden" name="pagename" value="GLOBAL/SearchLayoutTemplate">
 								<input type="hidden" name="c" value="Page">
-								<input type="hidden" name="active" value="0">
 								<input type="hidden" name="SearchResultType" value="course">
 								<input type="hidden" name="cid" value="1262432674923">
 								<input type="hidden" name="checkVal" value="1">
-								<input type="hidden" name="finderVal" value="1">
 								<input type="hidden" name="finderSearchType" value="finder">
-								<input type="hidden" name="finderType" value="viewbyinstitutefinder">	
-		</li>
-					</ul>
-				</fieldset>
-				</form>
-			<!-------- Creating the Links for the Contextual Text ----------------->
- 
+								<input type="hidden" name="finderType" value="viewbyinstitutefinder">
+								<input type="hidden" name="finderIndex" value="0">
+			<span class="button">
+            <input type="button" value="Find" name="Find">
+            </span> </div>
+		<div class="row"></div>	
+</form>
 
- 
+			
+			</div>
 
-		<!------------------------ ------------------------------------>
-
-<script type="text/javascript">
-
- //jQuery('map area').live('click', updateLocationDropdown );
- //jQuery('map area').unbind().bind('click', updateLocationDropdown );
+					</div>
 
 
-</script>
-</div>
 
- <h3 id="institutes"> <a href="#">Find an Institution</a> </h3>
- <div>
- <div class="image-container instituteAreaDiv">
+<div id="Institutes">
 	
-
-				
-
-
-
-	<form action="/nc" method="get" id="institutionform" name="institutionform">
-
+		<form action="/nc" method="get" id="institutionform" name="institutionform">
+			
+			
+	<input type="hidden" name="pagename" value="GLOBAL/SearchLayoutTemplate">
+	<input type="hidden" name="c" value="Page">
+	<input type="hidden" name="SearchResultType" value="institute">
+	<input type="hidden" name="cid" value="1262432674923">
+	<input type="hidden" name="checkVal" value="1">
+	<input type="hidden" name="finderSearchType" value="finder">
+	<input type="hidden" name="finderIndex" value="1">				
+			
+			
 				<fieldset>
-				<legend>* mandatory</legend>
-					<ul>
-					
-
-					
-					
-					<li><label for="SearchTerm">Enter Name
-							<a class="tooltip">
-								<img src="/images/help-icon.gif" alt="Help icon">
-								<span>Please enter a keyword to refine the search for institutes.</span>
-							</a>
-						</label>
-						<input type="text" name="SearchTerm" size="12" id="SearchTerm">
-					</li>
-
-					
-								
+					<ul style="position:relative;">
 						
 
-					<li>
-						<label for="instituteCategory">Institution Type<em>*</em>
-							<!--a href='#' 
-											 title="Please select a institution type from the dropdown. Click on the icon for any further details" id="sendBtn"
-															 >
-											<a href="">
-											<img src="/images/help-icon.gif" alt="Help icon" />
-											<span>
-											</span>
-								</a-->	
-                           <a href="/bc?c=Page&amp;cid=1262432675061&amp;pagename=GLOBAL%2FHelpTextContent&amp;param=instituteType" class="tooltip register-link" id="register-link">
-								<img src="/images/help-icon.gif" alt="Help icon">
-								<span>Please select a institution type from the dropdown. Click on the icon for any further details</span>
-							</a>
-							
-						</label>
-					</li>
-					<li class="input">
-						<a href="#" class="jsDropdown  trigger" id="instituteCategory" style="width: 243px;"><span style="width: 226px;">Please Select</span></a><input type="hidden" name="instituteCategory" value="Please Select">
-					</li>
-					
-					<li> 
-					<span class="button">
-						<input type="button" value="Find" name="Find">
-					</span>
-
-						<input type="hidden" name="pagename" value="GLOBAL/SearchLayoutTemplate">
-						<input type="hidden" name="c" value="Page">
-						<input type="hidden" name="SearchResultType" value="institute">
-						<input type="hidden" name="cid" value="1262432674923">
-						<input type="hidden" name="active" value="1">
-						<input type="hidden" name="checkVal" value="1">
-						<input type="hidden" name="finderVal" value="1">
-						<input type="hidden" name="finderSearchType" value="finder">
-					</li>
-
-					</ul>
-				</fieldset>
-				</form>
-
-		<!-------- Creating the Links for the Contextual Text ----------------->
- 
-
- 
-		<!------------------------ ------------------------------------>
-
-	
-</div>
- </div>
-
- <h3 id="scholarship"> <a href="#">Find a scholarship</a> </h3>
- <div>
- <div class="image-container">
-
-	 <form name="scholarshipform" action="/nc" method="get" id="scholarshipform">
-				<fieldset>
-				<legend>* mandatory</legend>
-					<ul>
-					
-
-					
-					
-
-					
-
-
-						<li>
-							<label for="SearchTerm">Enter keyword
+						
+						
+						<li class="keyword">
+							<label for="Course" class="width245">
+								Enter institution keyword
 								<a class="tooltip">
-									<img src="/images/help-icon.gif" alt="Help icon">
-									<span>Please enter a keyword to refine the search for scholarships.</span>
+								<img alt="" src="/images/help-icon.gif">
+								<span>To find an institution, enter a keyword - name or city.</span>
 								</a>
+								
 							</label>
 						</li>
-							<input type="text" name="SearchTerm" size="15" id="SearchTerm">
-					
-					
+						<li class="input SearchTerm textbox">
+						
+							 
+						<input type="text" value="" name="SearchTerm" size="12" id="SearchTerm3">
+						
+						</li>
 
-
-						<li>
 						
 								
 						
 
-							<label for="Subject">Subject
-								<a href="/bc?c=Page&amp;cid=1262432675061&amp;pagename=GLOBAL%2FHelpTextContent&amp;param=subjectAreaText" class="tooltip register-link" id="register-link">
-									<img src="/images/help-icon.gif" alt="Help icon">
-									<span>Please select a subject from the dropdown. Click on the icon for any further details.</span>
+						<li>
+							<label for="location1">Institution type
+								<a id="register-link" class="tooltip register-link" href="/bc?c=Page&amp;cid=1262432675061&amp;pagename=GLOBAL%2FHelpTextContent&amp;param=instituteType">
+									<img alt="" src="/images/help-icon.gif">
+									<span>Please select an institution type from the drop down. Click on the icon for further details</span>
 								</a>
 							</label>
 						</li>
 
-						 <li class="input">
-						 
-							
-							<a href="#" class="jsDropdown " id="Subject" style="width: 243px;"><span style="width: 226px;">Please Select</span></a><input type="hidden" name="Subject" value="Please Select">
+						<li class="input">
+							<select name="instituteCategory" class="jsDropdown width229 trigger" id="instituteCategory">
+								
+										<option value="Please Select">Please Select</option>
+								
+										<option value="Boarding Schools">Boarding Schools</option>
+								
+										<option value="English Language Teaching Centres">English Language Teaching Centres</option>
+								
+										<option value="Independent Colleges">Independent Colleges</option>
+								
+										<option value="Further Education Colleges">Further Education Colleges</option>
+								
+										<option value="Higher Education Institutions">Higher Education Institutions</option>
+								
+							</select>
 						</li>
 
-				
-					
+					</ul>
+				</fieldset>
 
-						<li>
-							<div class="button-container">
+				<div class="filters">
+					<a href="#" class="clearFilter">
+						Clear filters
+					</a> Filter by 
+				</div>
+				<div id="CoursesCombo1" class="no-margin">
+
+ 
+
+ 
+ 
+ 
+  
+ <h3 id="head8" class="accordianHeading"> 
+					
+ 
+	
+	
+						<a href="#">
+							Location
+						</a> 
+	
+ 
+ </h3>
+
+						<div class="image-container tabContentContainer">
 							<fieldset>
-								<input type="hidden" name="pagename" value="GLOBAL/SearchLayoutTemplate">
+								<ul>
+									<li class="custom-select checkboxes">
+										<div class="clearfix">
+											<ul class="custom-checkboxes">
+ 
+											<li>
+												 <label for="Anywhere in UK">
+													<input type="checkbox" name="Select a Location" value="Anywhere in UK" id="Anywhere in UK">
+													Anywhere in UK</label>
+											 </li>
+											 
+											<li>
+												 <label for="Northern Ireland">
+													<input type="checkbox" name="Select a Location" value="Northern Ireland" id="Northern Ireland">
+													Northern Ireland</label>
+											 </li>
+											 
+											<li>
+												 <label for="Scotland">
+													<input type="checkbox" name="Select a Location" value="Scotland" id="Scotland">
+													Scotland</label>
+											 </li>
+											 
+											<li>
+												 <label for="Wales">
+													<input type="checkbox" name="Select a Location" value="Wales" id="Wales">
+													Wales</label>
+											 </li>
+											 
+											<li>
+												 <label for="Northern England">
+													<input type="checkbox" name="Select a Location" value="Northern England" id="Northern England">
+													Northern England</label>
+											 </li>
+											 
+											<li>
+												 <label for="Central England">
+													<input type="checkbox" name="Select a Location" value="Central England" id="Central England">
+													Central England</label>
+											 </li>
+											 
+											<li>
+												 <label for="London">
+													<input type="checkbox" name="Select a Location" value="London" id="London">
+													London</label>
+											 </li>
+											 
+											<li>
+												 <label for="Southern England">
+													<input type="checkbox" name="Select a Location" value="Southern England" id="Southern England">
+													Southern England</label>
+											 </li>
+											 
+												</ul>
+											</div>
+										</li>
+									</ul>
+								</fieldset>
+								
+							
+							</div>
+  
+ <h3 id="head9" class="accordianHeading"> 
+					
+ 
+	
+	
+						<a href="#">
+							School Type
+						</a> 
+	
+ 
+ </h3>
+
+						<div class="image-container tabContentContainer">
+							<fieldset>
+								<ul>
+									<li class="custom-select checkboxes">
+										<div class="clearfix">
+											<ul class="custom-checkboxes">
+ 
+											<li>
+												 <label for="Coeducational (boys/girls)">
+													<input type="checkbox" name="Select a type of school" value="Coeducational (boys/girls)" id="Coeducational (boys/girls)">
+													Coeducational (boys/girls)</label>
+											 </li>
+											 
+											<li>
+												 <label for="Boys/girls taught separately">
+													<input type="checkbox" name="Select a type of school" value="Boys/girls taught separately" id="Boys/girls taught separately">
+													Boys/girls taught separately</label>
+											 </li>
+											 
+											<li>
+												 <label for="Boys">
+													<input type="checkbox" name="Select a type of school" value="Boys" id="Boys">
+													Boys</label>
+											 </li>
+											 
+											<li>
+												 <label for="Girls">
+													<input type="checkbox" name="Select a type of school" value="Girls" id="Girls">
+													Girls</label>
+											 </li>
+											 
+											<li>
+												 <label for="Boys (some girls)">
+													<input type="checkbox" name="Select a type of school" value="Boys (some girls)" id="Boys (some girls)">
+													Boys (some girls)</label>
+											 </li>
+											 
+											<li>
+												 <label for="Girls (some boys)">
+													<input type="checkbox" name="Select a type of school" value="Girls (some boys)" id="Girls (some boys)">
+													Girls (some boys)</label>
+											 </li>
+											 
+											<li>
+												 <label for="International Study Centre">
+													<input type="checkbox" name="Select a type of school" value="International Study Centre" id="International Study Centre">
+													International Study Centre</label>
+											 </li>
+											 
+												</ul>
+											</div>
+										</li>
+									</ul>
+								</fieldset>
+								
+							
+							</div>
+  
+ <h3 id="head10" class="accordianHeading"> 
+					
+ 
+	
+	
+						<a href="#">
+							Residential Type
+						</a> 
+	
+ 
+ </h3>
+
+						<div class="image-container tabContentContainer">
+							<fieldset>
+								<ul>
+									<li class="custom-select checkboxes">
+										<div class="clearfix">
+											<ul class="custom-checkboxes">
+ 
+											<li>
+												 <label for="Day">
+													<input type="checkbox" name="Select a residential type" value="Day" id="Day">
+													Day</label>
+											 </li>
+											 
+											<li>
+												 <label for="Full Boarding">
+													<input type="checkbox" name="Select a residential type" value="Full Boarding" id="Full Boarding">
+													Full Boarding</label>
+											 </li>
+											 
+											<li>
+												 <label for="Weekly/flexible boarding">
+													<input type="checkbox" name="Select a residential type" value="Weekly/flexible boarding" id="Weekly/flexible boarding">
+													Weekly/flexible boarding</label>
+											 </li>
+											 
+												</ul>
+											</div>
+										</li>
+									</ul>
+								</fieldset>
+								
+							
+							</div>
+  
+ <h3 id="head11" class="accordianHeading"> 
+					
+ 
+	
+	
+						<a href="#">
+							Age Range
+						</a> 
+	
+ 
+ </h3>
+
+						<div class="image-container tabContentContainer">
+							<fieldset>
+								<ul>
+									<li class="custom-select checkboxes">
+										<div class="clearfix">
+											<ul class="custom-checkboxes">
+ 
+											<li>
+												 <label for="Prep (7-13 years of age)">
+													<input type="checkbox" name="Age Range" value="Prep (7-13 years of age)" id="Prep (7-13 years of age)">
+													Prep (7-13 years of age)</label>
+											 </li>
+											 
+											<li>
+												 <label for="Senior (14-16 years of age)">
+													<input type="checkbox" name="Age Range" value="Senior (14-16 years of age)" id="Senior (14-16 years of age)">
+													Senior (14-16 years of age)</label>
+											 </li>
+											 
+											<li>
+												 <label for="Sixth (16-18 years of age)">
+													<input type="checkbox" name="Age Range" value="Sixth (16-18 years of age)" id="Sixth (16-18 years of age)">
+													Sixth (16-18 years of age)</label>
+											 </li>
+											 
+												</ul>
+											</div>
+										</li>
+									</ul>
+								</fieldset>
+								
+							
+							</div>
+  
+ <h3 id="head12" class="accordianHeading"> 
+					
+ 
+	
+	
+						<a href="#">
+							Special Needs
+						</a> 
+	
+ 
+ </h3>
+
+						<div class="image-container tabContentContainer">
+							<fieldset>
+								<ul>
+									<li class="custom-select checkboxes">
+										<div class="clearfix">
+											<ul class="custom-checkboxes">
+ 
+											<li>
+												 <label for="Allergies">
+													<input type="checkbox" name="Special Needs" value="Allergies" id="Allergies">
+													Allergies</label>
+											 </li>
+											 
+											<li>
+												 <label for="Asperger's Syndrome">
+													<input type="checkbox" name="Special Needs" value="Asperger's Syndrome" id="Asperger's Syndrome">
+													Asperger's Syndrome</label>
+											 </li>
+											 
+											<li>
+												 <label for="Asthma (severe)">
+													<input type="checkbox" name="Special Needs" value="Asthma (severe)" id="Asthma (severe)">
+													Asthma (severe)</label>
+											 </li>
+											 
+											<li>
+												 <label for="Behavioural Disorders">
+													<input type="checkbox" name="Special Needs" value="Behavioural Disorders" id="Behavioural Disorders">
+													Behavioural Disorders</label>
+											 </li>
+											 
+											<li>
+												 <label for="Partial Sight">
+													<input type="checkbox" name="Special Needs" value="Partial Sight" id="Partial Sight">
+													Partial Sight</label>
+											 </li>
+											 
+											<li>
+												 <label for="Cerebral Palsy">
+													<input type="checkbox" name="Special Needs" value="Cerebral Palsy" id="Cerebral Palsy">
+													Cerebral Palsy</label>
+											 </li>
+											 
+											<li>
+												 <label for="Coeliac Disease">
+													<input type="checkbox" name="Special Needs" value="Coeliac Disease" id="Coeliac Disease">
+													Coeliac Disease</label>
+											 </li>
+											 
+											<li>
+												 <label for="Cystic Fibrosis">
+													<input type="checkbox" name="Special Needs" value="Cystic Fibrosis" id="Cystic Fibrosis">
+													Cystic Fibrosis</label>
+											 </li>
+											 
+											<li>
+												 <label for="Deafness">
+													<input type="checkbox" name="Special Needs" value="Deafness" id="Deafness">
+													Deafness</label>
+											 </li>
+											 
+											<li>
+												 <label for="Partial Deafness">
+													<input type="checkbox" name="Special Needs" value="Partial Deafness" id="Partial Deafness">
+													Partial Deafness</label>
+											 </li>
+											 
+											<li>
+												 <label for="Delicate">
+													<input type="checkbox" name="Special Needs" value="Delicate" id="Delicate">
+													Delicate</label>
+											 </li>
+											 
+											<li>
+												 <label for="Diabetes">
+													<input type="checkbox" name="Special Needs" value="Diabetes" id="Diabetes">
+													Diabetes</label>
+											 </li>
+											 
+											<li>
+												 <label for="Down's Syndrome">
+													<input type="checkbox" name="Special Needs" value="Down's Syndrome" id="Down's Syndrome">
+													Down's Syndrome</label>
+											 </li>
+											 
+											<li>
+												 <label for="Dyslexia">
+													<input type="checkbox" name="Special Needs" value="Dyslexia" id="Dyslexia">
+													Dyslexia</label>
+											 </li>
+											 
+											<li>
+												 <label for="Dyspraxia">
+													<input type="checkbox" name="Special Needs" value="Dyspraxia" id="Dyspraxia">
+													Dyspraxia</label>
+											 </li>
+											 
+											<li>
+												 <label for="ESN">
+													<input type="checkbox" name="Special Needs" value="ESN" id="ESN">
+													ESN</label>
+											 </li>
+											 
+											<li>
+												 <label for="Emotional Disturbance">
+													<input type="checkbox" name="Special Needs" value="Emotional Disturbance" id="Emotional Disturbance">
+													Emotional Disturbance</label>
+											 </li>
+											 
+											<li>
+												 <label for="Epilepsy">
+													<input type="checkbox" name="Special Needs" value="Epilepsy" id="Epilepsy">
+													Epilepsy</label>
+											 </li>
+											 
+											<li>
+												 <label for="Friedreich's Ataxia">
+													<input type="checkbox" name="Special Needs" value="Friedreich's Ataxia" id="Friedreich's Ataxia">
+													Friedreich's Ataxia</label>
+											 </li>
+											 
+											<li>
+												 <label for="Haemophilia">
+													<input type="checkbox" name="Special Needs" value="Haemophilia" id="Haemophilia">
+													Haemophilia</label>
+											 </li>
+											 
+											<li>
+												 <label for="Heart Disease">
+													<input type="checkbox" name="Special Needs" value="Heart Disease" id="Heart Disease">
+													Heart Disease</label>
+											 </li>
+											 
+											<li>
+												 <label for="Hyper activity/ADD/ADHD">
+													<input type="checkbox" name="Special Needs" value="Hyper activity/ADD/ADHD" id="Hyper activity/ADD/ADHD">
+													Hyper activity/ADD/ADHD</label>
+											 </li>
+											 
+											<li>
+												 <label for="Interrupted Education">
+													<input type="checkbox" name="Special Needs" value="Interrupted Education" id="Interrupted Education">
+													Interrupted Education</label>
+											 </li>
+											 
+											<li>
+												 <label for="Kidney Failure">
+													<input type="checkbox" name="Special Needs" value="Kidney Failure" id="Kidney Failure">
+													Kidney Failure</label>
+											 </li>
+											 
+											<li>
+												 <label for="Leukaemia">
+													<input type="checkbox" name="Special Needs" value="Leukaemia" id="Leukaemia">
+													Leukaemia</label>
+											 </li>
+											 
+											<li>
+												 <label for="Learning Difficulty">
+													<input type="checkbox" name="Special Needs" value="Learning Difficulty" id="Learning Difficulty">
+													Learning Difficulty</label>
+											 </li>
+											 
+											<li>
+												 <label for="Muscular Dystrophy">
+													<input type="checkbox" name="Special Needs" value="Muscular Dystrophy" id="Muscular Dystrophy">
+													Muscular Dystrophy</label>
+											 </li>
+											 
+											<li>
+												 <label for="Osteomyelitis">
+													<input type="checkbox" name="Special Needs" value="Osteomyelitis" id="Osteomyelitis">
+													Osteomyelitis</label>
+											 </li>
+											 
+											<li>
+												 <label for="Other Boarding Needs">
+													<input type="checkbox" name="Special Needs" value="Other Boarding Needs" id="Other Boarding Needs">
+													Other Boarding Needs</label>
+											 </li>
+											 
+											<li>
+												 <label for="Paralysis">
+													<input type="checkbox" name="Special Needs" value="Paralysis" id="Paralysis">
+													Paralysis</label>
+											 </li>
+											 
+											<li>
+												 <label for="Physical Handicap">
+													<input type="checkbox" name="Special Needs" value="Physical Handicap" id="Physical Handicap">
+													Physical Handicap</label>
+											 </li>
+											 
+											<li>
+												 <label for="Rheumatoid Condition">
+													<input type="checkbox" name="Special Needs" value="Rheumatoid Condition" id="Rheumatoid Condition">
+													Rheumatoid Condition</label>
+											 </li>
+											 
+											<li>
+												 <label for="Speech Defect">
+													<input type="checkbox" name="Special Needs" value="Speech Defect" id="Speech Defect">
+													Speech Defect</label>
+											 </li>
+											 
+											<li>
+												 <label for="Spina Bifida">
+													<input type="checkbox" name="Special Needs" value="Spina Bifida" id="Spina Bifida">
+													Spina Bifida</label>
+											 </li>
+											 
+											<li>
+												 <label for="Wasting Muscles">
+													<input type="checkbox" name="Special Needs" value="Wasting Muscles" id="Wasting Muscles">
+													Wasting Muscles</label>
+											 </li>
+											 
+											<li>
+												 <label for="Wheelchair">
+													<input type="checkbox" name="Special Needs" value="Wheelchair" id="Wheelchair">
+													Wheelchair</label>
+											 </li>
+											 
+												</ul>
+											</div>
+										</li>
+									</ul>
+								</fieldset>
+								
+							
+							</div>
+  
+ <h3 id="head13" class="accordianHeading"> 
+					
+ 
+	
+						<a href="#">
+							Dietary
+						</a> 
+	
+	
+ 
+ </h3>
+
+						<div class="image-container tabContentContainer">
+							<fieldset>
+								<ul>
+									<li class="custom-select checkboxes">
+										<div class="clearfix">
+											<ul class="custom-checkboxes">
+ 
+											<li>
+												 <label for="Vegetarians">
+													<input type="checkbox" name="Dietary Requirements" value="Vegetarians" id="Vegetarians">
+													Vegetarians</label>
+											 </li>
+											 
+											<li>
+												 <label for="Halal">
+													<input type="checkbox" name="Dietary Requirements" value="Halal" id="Halal">
+													Halal</label>
+											 </li>
+											 
+											<li>
+												 <label for="Vegans">
+													<input type="checkbox" name="Dietary Requirements" value="Vegans" id="Vegans">
+													Vegans</label>
+											 </li>
+											 
+											<li>
+												 <label for="Kosher">
+													<input type="checkbox" name="Dietary Requirements" value="Kosher" id="Kosher">
+													Kosher</label>
+											 </li>
+											 
+												</ul>
+											</div>
+										</li>
+									</ul>
+								</fieldset>
+								
+							
+							</div>
+  
+ <h3 id="head14" class="accordianHeading"> 
+					
+ 
+	
+	
+						<a href="#">
+							Religious Tradition
+						</a> 
+	
+ 
+ </h3>
+
+						<div class="image-container tabContentContainer">
+							<fieldset>
+								<ul>
+									<li class="custom-select checkboxes">
+										<div class="clearfix">
+											<ul class="custom-checkboxes">
+ 
+											<li>
+												 <label for="Anglican">
+													<input type="checkbox" name="Religious Tradition" value="Anglican" id="Anglican">
+													Anglican</label>
+											 </li>
+											 
+											<li>
+												 <label for="Roman Catholic">
+													<input type="checkbox" name="Religious Tradition" value="Roman Catholic" id="Roman Catholic">
+													Roman Catholic</label>
+											 </li>
+											 
+											<li>
+												 <label for="Methodist">
+													<input type="checkbox" name="Religious Tradition" value="Methodist" id="Methodist">
+													Methodist</label>
+											 </li>
+											 
+											<li>
+												 <label for="United Reformed Church">
+													<input type="checkbox" name="Religious Tradition" value="United Reformed Church" id="United Reformed Church">
+													United Reformed Church</label>
+											 </li>
+											 
+											<li>
+												 <label for="Quaker">
+													<input type="checkbox" name="Religious Tradition" value="Quaker" id="Quaker">
+													Quaker</label>
+											 </li>
+											 
+											<li>
+												 <label for="Christian">
+													<input type="checkbox" name="Religious Tradition" value="Christian" id="Christian">
+													Christian</label>
+											 </li>
+											 
+											<li>
+												 <label for="Non denominational">
+													<input type="checkbox" name="Religious Tradition" value="Non denominational" id="Non denominational">
+													Non denominational</label>
+											 </li>
+											 
+											<li>
+												 <label for="Jewish">
+													<input type="checkbox" name="Religious Tradition" value="Jewish" id="Jewish">
+													Jewish</label>
+											 </li>
+											 
+												</ul>
+											</div>
+										</li>
+									</ul>
+								</fieldset>
+								
+							
+							</div>
+  
+
+
+
+
+
+  
+
+</div>
+<div class="filter"> 
+			<span class="button">
+            <input type="button" value="Find" name="Find">
+            </span> </div>
+			
+<div class="row"></div>
+
+</form>
+			
+</div>
+
+
+
+					<div id="Scholarships">
+
+					<form action="/nc" method="get" name="scholarshipform" id="scholarshipform">
+<!--<span class="mandatory">* Mandatory</span>-->
+
+  
+  								<input type="hidden" name="pagename" value="GLOBAL/SearchLayoutTemplate">
 								<input type="hidden" name="c" value="Page">
 								<input type="hidden" name="SearchResultType" value="scholarship">
 								<input type="hidden" name="cid" value="1262432674923">
 								<input type="hidden" name="activeFinderCombo" value="2">
-								<input type="hidden" name="active" value="2">
 								<input type="hidden" name="checkVal" value="1">
-								<input type="hidden" name="finderVal" value="1">
 								<input type="hidden" name="finderSearchType" value="finder">
-								 <span class="button">
-									<input type="button" value="Find" name="Find">
-								 </span>
+								<input type="hidden" name="finderIndex" value="2">	
+            <fieldset>
+            <ul style="position:relative;">
+					
+
+					
+					
+
+					
 
 
+						
+                <li>
+                    <label for="Course">Enter keyword  :
+								<a class="tooltip">
+
+									<img src="/images/help-icon.gif" alt="">
+									<span>Please enter a keyword to refine the search for scholarships.</span>
+								</a></label>
+                </li>
+                <li class="input textbox">
+				
+				
+				<input type="text" value="" id="SearchTerm2" name="SearchTerm" size="15">
+				
+				
+                    
+                </li>
+					
+
+  					
 
 
-							</fieldset>
-							</div>
+						
+                <li>
+						
+								
+						
+                    <label for="Subject">Subject area
+								<a href="/bc?c=Page&amp;cid=1262432675061&amp;pagename=GLOBAL%2FHelpTextContent&amp;param=subjectAreaText" class="tooltip register-link" id="register-link">
 
-						</li>
-					</ul>
+									<img src="/images/help-icon.gif" alt="">
+									<span>Please select a subject from the dropdown. Click on the icon for further details.</span>
+								</a></label>
+                </li>
+                <li class="input">
+						 
+							
 
-				</fieldset>
-				</form>
+					<select name="Subject" id="Subject" class="jsDropdown width229">
+									<option value="Please Select">Please Select</option>
+										
+												
+												<option value="Agriculture, Environment and Related Subjects">Agriculture, Environment and Related Subjects	</option>								
+										
+												
+												<option value="Applied and Pure Sciences">Applied and Pure Sciences	</option>								
+										
+												
+												<option value="Architecture, Building and Planning">Architecture, Building and Planning	</option>								
+										
+												
+												<option value="Business and administration">Business and administration	</option>								
+										
+												
+												<option value="Computing, Mathematical and Information Sciences">Computing, Mathematical and Information Sciences	</option>								
+										
+												
+												<option value="Creative Arts and Design">Creative Arts and Design	</option>								
+										
+												
+												<option value="Education and teacher training">Education and teacher training	</option>								
+										
+												
+												<option value="Engineering and Technology">Engineering and Technology	</option>								
+										
+												
+												<option value="Health and Medicine">Health and Medicine	</option>								
+										
+												
+												<option value="Humanities">Humanities	</option>								
+										
+												
+												<option value="Law and Legal Courses">Law and Legal Courses	</option>								
+										
+												
+												<option value="Social Sciences and Communications">Social Sciences and Communications	</option>								
+										
+												
+												<option value="Travel, Tourism and Leisure">Travel, Tourism and Leisure	</option>								
+																		
+										
+
+							</select>
+
+                </li>
+				
+
+  					
+            </ul>
+            </fieldset>
+			<div class="filters"><a href="#" class="clearFilter">Clear filters</a> Filter by </div>
+
+						
+
+					
+
+					
+
+					
+
+<div id="CoursesCombo2" class="no-margin">
+
+																				
+
+
+  <h3 id="head15" class="accordianHeading"> <a href="#">Country of residence</a> </h3>
+
+  <div class="image-container tabContentContainer">
+
+
+      <fieldset>
+      <ul>
+        <li class="custom-select checkboxes">
+          <div class="clearfix">
+            <ul class="custom-checkboxes">
+											 
+																<li>
+																	 <label for="International (outside European Union)">
+																		<input type="checkbox" name="Country of residence" value="International (outside European Union)" id="International (outside European Union)">
+																		International (outside European Union)</label>
+																 </li>
+																 
+																<li>
+																	 <label for="European Union only">
+																		<input type="checkbox" name="Country of residence" value="European Union only" id="European Union only">
+																		European Union only</label>
+																 </li>
+																 
+		    </ul>
+          </div>
+        </li>
+      </ul>
+      </fieldset>
+	  
+  
+  </div>
+
+																					
+
+
+  <h3 id="head16" class="accordianHeading"> <a href="#">Type of course</a> </h3>
+
+  <div class="image-container tabContentContainer">
+
+
+      <fieldset>
+      <ul>
+        <li class="custom-select checkboxes">
+          <div class="clearfix">
+            <ul class="custom-checkboxes">
+											 
+																<li>
+																	 <label for="Postgraduate">
+																		<input type="checkbox" name="Level of study" value="Postgraduate" id="Postgraduate">
+																		Postgraduate</label>
+																 </li>
+																 
+																<li>
+																	 <label for="Undergraduate">
+																		<input type="checkbox" name="Level of study" value="Undergraduate" id="Undergraduate">
+																		Undergraduate</label>
+																 </li>
+																 
+		    </ul>
+          </div>
+        </li>
+      </ul>
+      </fieldset>
+	  
+  
+  </div>
+
+																					
+
+
+  <h3 id="head17" class="accordianHeading"> <a href="#">Awarding body</a> </h3>
+
+  <div class="image-container tabContentContainer">
+
+
+      <fieldset>
+      <ul>
+        <li class="custom-select checkboxes">
+          <div class="clearfix">
+            <ul class="custom-checkboxes">
+											 
+																<li>
+																	 <label for="Academic">
+																		<input type="checkbox" name="Awarding body type" value="Academic" id="Academic">
+																		Academic</label>
+																 </li>
+																 
+																<li>
+																	 <label for="Charity">
+																		<input type="checkbox" name="Awarding body type" value="Charity" id="Charity">
+																		Charity</label>
+																 </li>
+																 
+																<li>
+																	 <label for="Professional">
+																		<input type="checkbox" name="Awarding body type" value="Professional" id="Professional">
+																		Professional</label>
+																 </li>
+																 
+		    </ul>
+          </div>
+        </li>
+      </ul>
+      </fieldset>
+	  
+  
+  </div>
+
+											
 
  
 
- 
-			 <!------------------------------------------------------------>
 
 
 
- </div>
- </div>
-
-
+								
 </div>
-<div class="row"></div>
-<script>
-findervalidation();
-createOptions();
-</script>
+<div class="filter"> 
+			<span class="button">
+           <input type="button" value="Find" name="Find">
+            </span> </div>
+			
 
+<div class="row"></div>
+        </form>
+
+					</div>
+				
+				</div>
+			</div>
+</div>
+</div>
+</div>
+  
+	
+<script type="text/javascript">
+if(!selectedTab){
+var selctedTabURL = (document.location.href).split('finderIndex=');
+	
+if(selctedTabURL[1])
+{
+	selectedTab = parseInt((selctedTabURL[1].split('&'))[0])
+}
+
+if(!selctedTabURL)
+	{
+	selectedTab = 0;
+	}
+	
+	}
+	 $('#course_navtabs').tabs(
+                {
+                    ajaxOptions: { async: true },
+                    cache: true,
+					selected:selectedTab,
+					select: function(evt,ui){$('#finder').click();/*resetForms(ui.index)*/}
+                });
+
+	$('li.custom-select').jNice();
+		
+		$('#CoursesCombo .accordianHeading,.tabContentContainer').css('display','none');
+		$('#CoursesCombo1 .accordianHeading,.tabContentContainer').css('display','none');
+		$('#CoursesCombo2 .accordianHeading,.tabContentContainer').css('display','none');
+		
+		$('#CoursesCombo .accordianHeading').eq(0).css('display','block');
+		$('#CoursesCombo .tabContentContainer').eq(0).css('display','block');
+		$('#CoursesCombo1 .accordianHeading').eq(0).css('display','block');
+		$('#CoursesCombo1 .tabContentContainer').eq(0).css('display','block');
+		$('#CoursesCombo2 .accordianHeading').css('display','block');
+		$('#CoursesCombo2 .tabContentContainer').css('display','block');
+		
+       
+				
+    $("#CoursesCombo").accordion({
+            //autodelay: 15000
+			active:false,
+			autoHeight:false,
+			collapsible:true
+
+			
+        });
+		$("#CoursesCombo1").accordion({
+            //autodelay: 15000
+			active:false,
+			autoHeight:false,
+			collapsible:true		
+        });
+		$("#CoursesCombo2").accordion({
+            //autodelay: 15000
+			active:false,
+			autoHeight:false,
+			collapsible:true
+			
+		
+        });
+</script>
+<script type="text/javascript">
+$(function(){
+
+	 $("#course_navtabs #typeCourse").css("display","none");	 
+	 //$("#course_navtabs #key").css("display","none");
+	 //if($("#key").val!="" && selectedTab==0)
+	 //$("#filterKeywordWrapper").css("display","block");
+	 if($("#course_navtabs select#Subject").val()=="Please Select")
+	 {
+		$("#course_navtabs #subjectSelect").css("display","none");
+	 }
+	 else {
+	 
+		 selectsubjectFilters($("#course_navtabs select#Subject"),'load');
+	 }
+	 selectCourseFilters($("#course_navtabs #Level_of_Study"),'load');
+	 selectInstitutionFilters($("#course_navtabs #instituteCategory"),'load');
+	
+	 $("#course_navtabs #Level_of_Study").change(function(){
+		 $("#course_navtabs #SearchTerm").flushCache();
+		selectCourseFilters($(this),'change');
+		
+
+	 });
+	 
+	 
+	 $("#course_navtabs #instituteCategory").change(function(){
+		
+		selectInstitutionFilters($(this),'change');
+		
+		
+	 });
+	 
+		$("#course_navtabs select#Subject").change(function(){
+			
+			$("#course_navtabs #SearchTerm").flushCache();
+			if($(this).val()=="Please Select")
+			{
+			
+				$("#course_navtabs #subjectSelect").css("display","none");
+			}
+			else{
+			selectsubjectFilters($(this),'change')
+			
+		}
+		
+	});
+	 //jQuery( 'select.jsDropdown' ).each( function() { var dropdown = this; setTimeout( function() { new GenericDropdown( dropdown ) }, 1 ) } );
+	 
+	}); 
+	 </script>
+	 <script type="text/javascript">	
+			$(document).ready( function() {
+				$(".jsMultiDropdown").multiSelect();
+				
+			})
+			function selectInstitutionFilters(obj,evtType){
+			if(evtType=='change')
+			{
+				
+				 $("#CoursesCombo1 .ui-state-active").trigger('click');
+				  $('.clearFilter').trigger('click');
+			}
+			if($(obj).val() == 'Please Select' || ($("#course_navtabs #instituteCategory span").text()=="Please Select"))
+			{	
+				$("#CoursesCombo1 .accordianHeading").eq(0).css("display","block");
+				$("#CoursesCombo1 .accordianHeading").eq(1).css("display","none");
+				$("#CoursesCombo1 .accordianHeading").eq(2).css("display","none");
+				$("#CoursesCombo1 .accordianHeading").eq(3).css("display","none");
+				$("#CoursesCombo1 .accordianHeading").eq(4).css("display","none");
+				$("#CoursesCombo1 .accordianHeading").eq(5).css("display","none");
+				$("#CoursesCombo1 .accordianHeading").eq(6).css("display","none");
+
+			}
+			else if(($(obj).val() == 'Boarding Schools')||($.trim($(obj).find('span').text())=='Boarding Schools'))
+			{
+				$("#CoursesCombo1 .accordianHeading").eq(0).css("display","block");
+				$("#CoursesCombo1 .accordianHeading").eq(1).css("display","block");
+				$("#CoursesCombo1 .accordianHeading").eq(2).css("display","block");
+				$("#CoursesCombo1 .accordianHeading").eq(3).css("display","block");
+				$("#CoursesCombo1 .accordianHeading").eq(4).css("display","block");
+				$("#CoursesCombo1 .accordianHeading").eq(5).css("display","block");
+				$("#CoursesCombo1 .accordianHeading").eq(6).css("display","block");
+
+			}
+        else{
+			//alert("Inside ELSE");
+				$("#CoursesCombo1 .accordianHeading").eq(0).css("display","block");
+				$("#CoursesCombo1 .accordianHeading").eq(1).css("display","none");
+				$("#CoursesCombo1 .accordianHeading").eq(2).css("display","none");
+				$("#CoursesCombo1 .accordianHeading").eq(3).css("display","none");
+				$("#CoursesCombo1 .accordianHeading").eq(4).css("display","none");
+				$("#CoursesCombo1 .accordianHeading").eq(5).css("display","none");
+				$("#CoursesCombo1 .accordianHeading").eq(6).css("display","none");
+			}
+			}
+			
+			
+			function selectCourseFilters(obj,evtType){
+				if(evtType=='change'){
+				
+				$("#course_navtabs #subjectSelect").css('display','none');
+				$("#course_navtabs #studylevel1").next('multiSelectOptions').find('input[type="checkbox"]').removeAttr('checked');
+				$("#course_navtabs #studylevel1").find('span').text('Select options');
+				 $("#course_navtabs #SearchTerm").val('');
+				 $("#CoursesCombo .ui-state-active").trigger('click');
+				 $('.clearFilter').trigger('click');
+				$("#course_navtabs #Subject").click();
+				$('div.jsDropdownMenu').css('display','none');
+				$('div.jsDropdownMenu li').eq(0).click();
+				setTimeout(function(){$('#finder').click();},10)//function to remove previous jsdropdownmenu
+				 }
+			if(($(obj).val() == 'Please Select')||($("#course_navtabs #Level_of_Study span").text()=='Please Select'))
+			{	
+				$("#course_navtabs #typeCourse").css("display","none");
+				$("#course_navtabs #subjectArea1").css("display","block");
+				$("#course_navtabs #key").css("display","block");
+				if(!($("#course_navtabs #key").hasClass('disabledTextbox')))
+				{
+				$("#course_navtabs #key").addClass('disabledTextbox');
+				}
+				if(!($("#course_navtabs #subjectArea1").hasClass('disabledSelectbox')))
+				{
+				$("#course_navtabs #subjectArea1").addClass('disabledSelectbox');
+				}
+				$("#course_navtabs #subjectSelect").css("display","none");
+				$("#course_navtabs #studylevel1").next('multiSelectOptions').find('input[type="checkbox"]').removeAttr('checked');
+				$("#course_navtabs #studylevel1").find('span').text('Select options');
+				$("#CoursesCombo .accordianHeading").eq(0).css("display","block");
+				$("#CoursesCombo .accordianHeading").eq(2).css("display","none");
+				$("#CoursesCombo .accordianHeading").eq(3).css("display","none");
+				$("#CoursesCombo .accordianHeading").eq(4).css("display","none");
+				$("#CoursesCombo .accordianHeading").eq(1).css("display","none");
+				$("#CoursesCombo .accordianHeading").eq(5).css("display","none");
+				$("#CoursesCombo .accordianHeading").eq(6).css("display","none");
+
+			}
+			else if($(obj).val() == 'English language courses')
+			{	
+				$("#course_navtabs #typeCourse").css("display","block");
+				$("#course_navtabs #subjectArea1").css("display","none");
+				$("#course_navtabs #key").css("display","none");
+				$("#course_navtabs #subjectSelect").css("display","none");
+				$("#course_navtabs #studylevel1").next('multiSelectOptions').find('input[type="checkbox"]').removeAttr('checked');
+				$("#course_navtabs #studylevel1").find('span').text('Select options');
+				$("#CoursesCombo .accordianHeading").eq(0).css("display","block");
+				$("#CoursesCombo .accordianHeading").eq(2).css("display","block");
+				$("#CoursesCombo .accordianHeading").eq(3).css("display","block");
+				$("#CoursesCombo .accordianHeading").eq(4).css("display","block");
+				$("#CoursesCombo .accordianHeading").eq(5).css("display","block");
+				$("#CoursesCombo .accordianHeading").eq(6).css("display","block");
+				$("#CoursesCombo .accordianHeading").eq(1).css("display","none");
+
+			}
+        else{
+				$("#course_navtabs #typeCourse").css("display","none");
+				$("#course_navtabs #subjectArea1").css("display","block");
+				$("#course_navtabs #key").css("display","block");
+				if($("#course_navtabs #key").hasClass('disabledTextbox'))
+				{
+				$("#course_navtabs #key").removeClass('disabledTextbox');
+				}
+				if($("#course_navtabs #subjectArea1").hasClass('disabledSelectbox'))
+				{
+				$("#course_navtabs #subjectArea1").removeClass('disabledSelectbox');
+				}
+				$("#CoursesCombo .accordianHeading").css("display","none");
+				$("#CoursesCombo .accordianHeading").eq(0).css("display","block");
+				$("#CoursesCombo .accordianHeading").eq(1).css("display","block");
+				$("#CoursesCombo .accordianHeading").eq(2).css("display","none");
+				$("#CoursesCombo .accordianHeading").eq(3).css("display","none");
+				$("#CoursesCombo .accordianHeading").eq(4).css("display","none");
+				$("#CoursesCombo .accordianHeading").eq(5).css("display","none");
+				$("#CoursesCombo .accordianHeading").eq(6).css("display","none");
+			}
+			}
+			
+			function selectsubjectFilters(obj,evtType){
+				var selectedData = $(obj).val();
+				var multiSelectLength;
+				var multiSelectoptionLen;
+				var selectedCategoryData = $('#Level_of_Study').val()
+				var url = '/bc?c=Page&cid=1262432675061&pagename=GLOBAL%2FSubjectListingTemplate';//+'?seledtedData='+seledtedData;
+				if(evtType=='change'){
+				$("#course_navtabs #SearchTerm").val('');
+				$("#course_navtabs #studylevel1").next('multiSelectOptions').find('input[type="checkbox"]').removeAttr('checked');
+				$("#course_navtabs #studylevel1").find('span').text('Select options');
+				$("#course_navtabs .ui-state-active").trigger('click');
+				  $('.clearFilter').trigger('click');
+				
+				}
+				
+			jQuery.ajax({
+			url: url, 
+			type: 'POST',
+			data: {"selectedData":selectedData,"selectedCategoryData":selectedCategoryData},
+			success: function(html){
+				if(evtType=='load'){
+					multiSelectLength = $(html).find("option").filter(':selected').length;
+					multiSelectoptionLen = $(html).find("option").length;
+				}
+				$('#course_navtabs #subjectMapping').empty().html(html);
+     			$("#course_navtabs #subjectMapping .jsMultiDropdown").multiSelect();
+				if(evtType=='load' && multiSelectLength>0){
+					$("#course_navtabs #studylevel1").find('span').text(multiSelectLength+' selected');
+					if(multiSelectLength==multiSelectoptionLen){
+						$('#course_navtabs .multiSelectOptions input.selectAll').attr('checked','true')
+						$('#course_navtabs .multiSelectOptions input.selectAll').parent().addClass('checked');
+						}
+					}
+				$("#course_navtabs #subjectSelect").css('display','block');
+
+
+			},
+			error: function(){}
+		});
+		
+		$("#course_navtabs #subjectSelect").css("display","block");
+		//$('.multiSelectOptions').css({'width':'266px','height':'150px','overflow-y':'auto'})
+			}
+			
+		/*  Start: function to reset the form on tab change  */	
+			
+		/*	function resetForms(currentTab){
+			
+				switch(currentTab)
+				{
+					case 0:
+					$("#course_navtabs #Level_of_Study span").text('Please Select')	
+					selectCourseFilters($("#course_navtabs #Level_of_Study"),'change');		 	
+					break;
+					
+					case 1:
+					$("#course_navtabs #instituteCategory span").text('Please Select');
+					selectInstitutionFilters($("#course_navtabs #instituteCategory"),'change');
+					break;
+					
+					case 2:
+					resetScholarshipFilters();
+					break;
+					default:
+					
+				
+				}
+			}
+			
+			function resetScholarshipFilters(){
+				$("#course_navtabs #SearchTerm2").val('');
+				$("#course_navtabs #scholarshipform #Subject span").text('Please Select');
+				$("#course_navtabs #scholarshipform .clearFilter").click();				
+				
+			}	*/		
+			
+			/*  End: function to reset the form on tab change  */	
+	</script>
 
 
 
@@ -1588,7 +3303,7 @@ createOptions();
 $(function() {
 $('#mypersoanl_navtabs').tabs(
 {
-ajaxOptions: { async: false, 
+ajaxOptions: { async: true, 
 cache: false}
 });
 });
@@ -1611,29 +3326,29 @@ cache: false}
 						
 												
 
+<div class="whiteBg">
+<div class="blueBg">
+<div class="right-module no-margin">
 
-<div class="right-module">
-	<div class="border-t"></div>
-	<div class="border-r">
-		<div class="border-l">
 			<div class="content">
-				<h2 class="my-personal-heading">My Personal</h2>
+				<!--<h2 class="my-personal-heading">My Personal</h2>-->
 				<div id="mypersoanl_navtabs">
 					<ul>
-						<li><a href="/bc?c=Page&amp;cid=1262432675061&amp;pagename=GLOBAL%2FMyBookMarkTabTemplate" title="Bookmarks"><span>Bookmark</span></a></li>
-						<li><a href="/bc?c=Page&amp;cid=1262432675061&amp;pagename=GLOBAL%2FMyPersonalShortlistTemplate" title="Shortlist"><span>Shortlist</span></a></li>
-						<li><a href="/bc?c=Page&amp;cid=1262432675061&amp;pagename=GLOBAL%2FMyPersonalChkListTemplate" title="Checklist"><span>Checklist</span></a></li>
+						<li class="myShortlistTab"><a class="myShortlist" href="/bc?c=Page&amp;cid=1262432675061&amp;pagename=GLOBAL%2FMyPersonalShortlistTemplate" title="Shortlist"><span>My Shortlist</span></a></li>
+						<li class="myBookmarksTab"><a class="myBookmarks" href="/bc?c=Page&amp;cid=1262432675061&amp;pagename=GLOBAL%2FMyBookMarkTabTemplate" title="Bookmarks"><span>My Bookmark</span></a></li>
+						<li class="myChecklistTab last"><a class="myChecklist" href="/bc?c=Page&amp;cid=1262432675061&amp;pagename=GLOBAL%2FMyPersonalChkListTemplate" title="Checklist"><span>My Checklist</span></a></li>
 					</ul>
 					<div class="row"></div>
+					
+
 					<div id="Bookmarks"></div>
-					<div id="Shortlist"></div>
-										
+					
 					<div id="Checklist"></div>
 				</div>
 			</div>
-		</div>
-	</div>
-	<div class="border-b"></div>
+
+</div>
+</div>
 </div>
 
 
@@ -1655,7 +3370,7 @@ cache: false}
  $(function() {
  $('#prefooter_navtabs').tabs(
  {
-	ajaxOptions: { async: false },
+	ajaxOptions: { async: true },
 	cache: true,
 	spinner:'<em>Loading&#8230;</em>'
 
