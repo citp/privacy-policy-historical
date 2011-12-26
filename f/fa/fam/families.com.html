@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the families.com privacy policy that was archived on 2011-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110515080843id_/http%3A//about.families.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the families.com privacy policy that was archived on 2011-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227002054id_/http%3A//about.families.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,6 +12,8 @@
 		<meta name="verify-v1" content="T3wr23aKzg8IvJ2DFzE1qXH8JX0iY1uElsIyrmTuXHM=">
 		<meta name="y_key" content="78b831af1e01ea0c">
 		<meta name="robots" content="follow, all">
+		<meta property="fb:admins" content="1112510917,639422616">
+		<meta property="fb:app_id" content="176800785734056">
 
 
 		<link rel="Shortcut Icon" type="image/ico" href="http://assets.families.com/v2.0/images/favicon.ico">
@@ -81,14 +83,9 @@
 
 
 
-			<li class="quicklinkalign">
-				<a href="http://www.families.com/login/" class="none">Login Now</a> 
-			</li>
-			<li class="quicklinkalign signup">
-				<a href="http://www.families.com/register/" class="none ">Join For Free</a>
-			</li>
+			
             <li class="quicklinkalign signup">
-				<a href="http://apps.facebook.com/familiescom/" class="none signup"><b style="color:#da086b">Facebook Quizzes!</b></a>
+				<a href="javascript:launchWindow('#modal-dialog');" class="none signup"><b style="color:#da086b">Sign Up for Our Newsletter</b></a>
 			</li>
 
 		</ul>
@@ -166,6 +163,7 @@
 		<!-- /Ad 300x250 -->
 
 
+
 <!-- Facebook Like Box -->
 <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FFamilies.com&amp;width=300&amp;colorscheme=light&amp;show_faces=true&amp;stream=true&amp;header=false&amp;height=555" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:555px;" allowtransparency="true"></iframe>
 <!-- /Facebook Like Box -->
@@ -186,6 +184,7 @@
 
 <!-- tags -->
 <!-- /tags -->	
+
 
 
 		<!-- /right column -->
@@ -264,11 +263,11 @@
 						<a href="http://www.freecoupons.com" target="_new">
 						<img src="http://assets.families.com/v2.0/images/footer/footer_freecoupons.gif" width="180" height="45" border="0" alt="FreeCoupons.com"></a>
 						<ul class="links">		
-							<li><a href="http://www.freecoupons.com/blog/">Coupons Blog</a></li>											
-							<li><a href="http://www.freecoupons.com/brand/">Popular Brands</a></li>
-							<li><a href="http://www.freecoupons.com/coupon-codes/">Coupon Codes</a></li>
+							<li><a href="http://www.freecoupons.com/grocery-coupons/coupons-com/">Grocery Coupons</a></li>											
 							<li><a href="http://www.freecoupons.com/printable-coupons/">Printable Coupons</a></li>
-							<li><a href="http://www.freecoupons.com/free-shipping-coupons/">Free Shipping</a></li>
+							<li><a href="http://www.freecoupons.com/blog">Coupons Blog</a></li>
+							<li><a href="http://www.freecoupons.com/coupon-codes/">Coupon Codes</a></li>
+							<li><a href="http://www.freecoupons.com/blog/hot-coupons-and-promotions/">Hot Coupons</a></li>
 						</ul>
 					
 					</td>
@@ -306,6 +305,110 @@
 		</div>
 	</span>
 
+	
+    <script src="http://assets.families.com/v2.0/modules/signup/jquery/jquery.js" type="text/javascript"></script>
+    <script src="http://assets.families.com/v2.0/modules/signup/jquery/jquery.cookie.js" type="text/javascript"></script>
+    <script src="http://assets.families.com/v2.0/modules/signup/scriptbreaker-slideto-1.0.js" type="text/javascript">
+    </script>
+    <script src="http://assets.families.com/v2.0/modules/signup/modal-layer.js" type="text/javascript"></script>
+
+    <style>		
+                
+        /************************************************
+        *	Modal Diaglog Layer							*
+        ************************************************/
+        
+        #modal-mask {
+          position:absolute;
+          left:0;
+          top:0;
+          z-index:6000;
+          background-color:#555;
+          display:none;
+        }
+          
+        .modal-window {
+          position:absolute;
+          left:0;
+          top:0;
+          width:609px;
+          height:385px;
+          display:none;
+          z-index:9999;
+          padding:20px;
+        }
+        
+        #modal-dialog {
+          	background:url(http://assets.families.com/v2.0/modules/signup/images/bkgnd-signup.png) no-repeat 0 0 transparent;
+		  	width:378px;
+          	height:185px;
+          	padding:20px;
+          	padding-left:20px;		
+        }
+        
+		/* Add Slider box */
+		#sliderBox{
+			background:url(http://assets.families.com/v2.0/modules/signup/images/bkgnd-signup.png) no-repeat 0 0 transparent;
+		 	width:378px;
+			position:absolute;
+			top:-400px;
+			left:400px;
+			z-index:300;	
+			width:378px;
+			height:185px;
+			padding:20px;
+			padding-left:20px;
+		}
+		
+        #closebtn{
+            font-family:Arial;
+            padding-bottom:20px;
+            padding-left:300px;
+            color:#999;
+            font-size:11px;
+        }
+        
+        #closebtn a{
+            color:#999;
+        }
+    
+    </style>
+    
+    
+    
+    <!-- Slidebox -->
+    <div id="sliderBox">
+        <div id="closebtn">
+            [x]<a href="#" onclick="hideWindow(this)">close</a>
+        </div>
+        <iframe src="http://assets.families.com/v2.0/modules/signup/iframe/form.html" style="width:350px;height:115px;border:0px;"></iframe>
+    </div>
+
+    <!-- dialog box -->
+    <div id="modal-dialog" class="modal-window">
+
+        <div id="closebtn">
+            [x]<a href="#" onclick="hideWindow(this)">close</a>
+        </div>
+
+        <iframe src="http://assets.families.com/v2.0/modules/signup/iframe/form.html" style="width:350px;height:115px;border:0px;"></iframe>
+
+    </div>
+
+    <!-- Mask to cover the whole screen -->
+    <div id="modal-mask"></div>
+
+	<!-- Start Quantcast tag -->
+	<script type="text/javascript">
+		_qoptions={
+		qacct:"p-c3seWugRYFBGA"
+		};
+	</script>
+	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+	<noscript>
+	<a href="http://www.quantcast.com/p-c3seWugRYFBGA" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-c3seWugRYFBGA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+	</noscript>
+	<!-- /End Quantcast tag -->
 
 	<!-- Analytics -->
 	<script type="text/javascript">
@@ -322,18 +425,6 @@
 	</script>
 	<!-- /Analytics -->
 
-
-	<!-- Start Quantcast tag -->
-	<script type="text/javascript">
-		_qoptions={
-		qacct:"p-c3seWugRYFBGA"
-		};
-	</script>
-	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-	<noscript>
-	<a href="http://www.quantcast.com/p-c3seWugRYFBGA" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-c3seWugRYFBGA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-	</noscript>
-	<!-- /End Quantcast tag -->
 
 		
 	<!-- Kontera ContentLink -->
