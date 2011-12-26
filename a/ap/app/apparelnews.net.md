@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apparelnews.net privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626184703id_/http%3A//www.apparelnews.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apparelnews.net privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226074821id_/http%3A//www.apparelnews.net/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | California Apparel News
 
