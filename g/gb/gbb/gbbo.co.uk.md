@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gbbo.co.uk privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605103341id_/http%3A//www.google.co.uk/intl/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gbbo.co.uk privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226060407id_/http%3A//www.google.co.uk/intl/en/privacy) for the most accurate reproduction.*
 
 # Google Privacy Centre
 
@@ -16,6 +16,4 @@ We have five [privacy principles](https://web.archive.org/intl/en/corporate/priv
 
 
 
-This Privacy Centre was created to provide you with easy-to-understand information about our products and policies, to help you make more informed choices about which products you use, how to use them and what information you provide to us. 
-
-For information and advice on how to help your family stay safe online, see the [Google Family Safety Centre](https://web.archive.org/familysafety/).
+For information and advice on how to stay safe on the Internet and manage the data you share online, see the [Google Good to Know](http://www.google.co.uk/goodtoknow/) site and the [Google Family Safety Centre](http://www.google.co.uk/familysafety/).
