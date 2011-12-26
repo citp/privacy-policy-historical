@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beliscity.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504075528id_/http%3A//www.beliscity.com/pg5/privacy_policy/pages.html%3FosCsid%3Dapk6gd80i071pan4v4cg4on8j1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beliscity.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226233228id_/http%3A//www.beliscity.com/pg5/privacy_policy/pages.html) for the most accurate reproduction.*
 
 # Privacy Policy - Online Shopping Pakistan - Karachi, Lahore, Faisalabad, Sialkot, Islamabad, Huge
 
