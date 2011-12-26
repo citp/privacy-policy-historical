@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezlinks.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604170339id_/http%3A//www.ezlinks.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezlinks.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226063134id_/http%3A//www.ezlinks.com/privacy.asp) for the most accurate reproduction.*
 
 # EZLinks.com - Online Tee Times Made EZ
 
