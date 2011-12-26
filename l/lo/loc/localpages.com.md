@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localpages.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629063326id_/http%3A//www.localpages.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localpages.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226155110id_/http%3A//www.localpages.com/privacy.html) for the most accurate reproduction.*
 
 # Local Business Directory | Online Yellow Pages | LocalPages
 
@@ -41,14 +41,6 @@ LocalPages.com usually collects the requested information. However, LocalPages.c
 
 We use third-party advertising companies and advertising networks to collect information and serve ads to you when you visit our site. These companies may use cookies, pixel tags, or otherwise independently collect information (not including your name, address email address or telephone number) from you and use this information about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. We do not control their collection and use of information. Please note that if an advertiser or advertising network asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or advertising network may conclude that you fit the description of the audience they are trying to reach. 
 
-To learn more about the collection of information by these third party advertising networks, including how to opt out of such collection, see the links below. 
-
-To opt out of collection by AlmondNet, please visit: http://www.almondnet.com/privacy.aspx?miid=7&artid=52 
-
-To opt out of collection by Revenue Science, Inc., please visit: http://www.networkadvertising.org/optout_nonppii.asp 
-
-To opt out of collection by 24/7 Real Media, please visit: http://www.247realmedia.com/opt-out.html 
-
 ## What does LocalPages.com do with the data it collects?
 
 Whenever LocalPages.com collects data, the data is intended to tailor or improve the experience of visitors to our site. From the data collected we can customize content and advertising based on the user's preferences. We may use information from cookies to differentiate between unique users, personalize the site for each unique user, to control the frequency of individual advertisements directed to individual computers, and other purposes. In all cases, personally identifiable information is not shared with our advertisers, except as otherwise stated in this privacy policy. 
@@ -71,11 +63,13 @@ As previously noted, you may always choose to not provide us with any of the inf
 
 To learn more about the collection of information by third party advertising networks, including how to opt out of such collection, see the links below. 
 
-To opt out of collection by AlmondNet, please visit: http://www.almondnet.com/privacy.aspx?miid=7&artid=52 
+http://tools.google.com/dlpage/gaoptout 
 
-To opt out of collection by Revenue Science, Inc., please visit: http://www.networkadvertising.org/optout_nonppii.asp 
+(Full Circle Studies, Inc) has an "opt-out" at: http://www.scorecardresearch.com/OptOut.aspx 
 
-To opt out of collection by 24/7 Real Media, please visit: http://www.247realmedia.com/opt-out.html 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: 
+
+http://www.networkadvertising.org/managing/opt_out.asp 
 
 ## How can I update or correct my information?
 
