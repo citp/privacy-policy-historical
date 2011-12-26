@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617060608id_/http%3A//www.if.com/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226023605id_/http%3A//www.if.com/privacy/default.aspx) for the most accurate reproduction.*
 
 # Privacy - Intelligent Finance
 
@@ -58,7 +58,7 @@ The way in which you can set your browser to accept or disable cookies varies sl
 
 Back to top
 
-Our main use of your personal information is to look after your plan or to provide the specific service you require. 
+Our main use of your personal information is to look after your plan or to provide the specific service you require. Some details we obtain elsewhere - from credit reference agencies or your employer for instance.
 
 If you apply to us for insurance we will pass your details to the insurer. If you make a claim, any information you give to us or to the insurer may be put on to a register of claims and shared with other insurers to prevent fraudulent claims. A list of the participants is available from the insurer. 
 
@@ -87,6 +87,24 @@ Fax Preference: 0207 291 3330
 
 For more details about all the Preference Services, please see the Direct Marketing Association's website at: <http://www.dma.org.uk/>
 
+Since 19th January 2009, Lloyds TSB Group and HBOS Group have been part of Lloyds Banking Group. Lloyds Banking Group includes Bank of Scotland plc and a number of other companies using brands including Lloyds TSB and Halifax, and their associated companies.
+
+Lloyds Banking Group companies may store and use your personal information for:
+
+  1. providing you with products and services and notifying you about other important changes or developments to the features and operation of those products and services;
+  2. updating, consolidating and improving the accuracy of our records;
+  3. crime detection, prevention and prosecution;
+  4. responding to your enquiries and complaints;
+  5. administering offers, competitions and promotions;
+  6. evaluating the effectiveness of marketing and for market research, training, statistical analysis and customer modelling with the aim of improving services;
+  7. assessing lending and insurance risks across Lloyds Banking Group;
+  8. identifying products and services which we believe may be of interest to you;
+  9. managing your relationship with Lloyds Banking Group companies.
+
+
+
+Lloyds Banking Group companies may, from time to time, provide further details about how your personal information may be used.
+
 If you apply for an Intelligent Finance credit based product, we'll perform a search with a credit reference agency. The agency will keep a record of the search. After you open a credit based product, we will provide the agency with regular information about how you use it. Other lenders may use this to make decisions on future applications for credit. It may also be used for tracing debtors and to prevent fraud.
 
 When opening jars and plans we may search public records such as the Electoral Roll that are available from Credit Reference Agencies to help us verify your identity.
@@ -109,7 +127,9 @@ If you've been refused credit you can get advice from your local Trading Standar
 
 When you apply to us for a credit based product, the details you provide, the information we already have and information from credit reference agencies are used to assess credit risk using a technique known as credit scoring. 
 
-Various factors in all these details help us to assess the risk. A score is given to each factor and a total credit score obtained. If your score is above a confidential, pre-set pass score, the application is likely to succeed. For more details see credit scoring. 
+Various factors in all these details help us to assess the risk. A score is given to each factor and a total credit score obtained. If your score is above a confidential, pre-set pass score, the application is likely to succeed. For more details, please ask for a copy of our credit scoring leaflet.
+
+For savings, we may search credit reference and fraud prevention agencies to check your identity and help us make decisions. The agency keeps a record of our search, whether or not your application proceeds. Our search is not seen or used by lenders to assess your ability to obtain credit.
 
 Back to top
 
