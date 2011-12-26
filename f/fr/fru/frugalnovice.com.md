@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the frugalnovice.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620061012id_/http%3A//frugalnovice.com/about/privacy-policy-disclosure-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalnovice.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226200332id_/http%3A//frugalnovice.com/about/privacy-policy-disclosure-statement) for the most accurate reproduction.*
 
 # Privacy Policy & Disclosure Statement
-
-[](http://twitter.com/home/?status=Privacy+Policy+%26+Disclosure+Statement+http%3A%2F%2Ffrugalnovice.com%2F%3Fp%3D322 "Post to Twitter") [](http://www.facebook.com/share.php?u=http://frugalnovice.com/about/privacy-policy-disclosure-statement/&t=Privacy+Policy+%26+Disclosure+Statement "Post to Facebook") [](http://stumbleupon.com/submit?url=http://frugalnovice.com/about/privacy-policy-disclosure-statement/&title=Privacy+Policy+%26+Disclosure+Statement "Post to StumbleUpon") [](http://digg.com/submit?url=http://frugalnovice.com/about/privacy-policy-disclosure-statement/&title=Privacy+Policy+%26+Disclosure+Statement "Post to Digg") [](http://reddit.com/submit?url=http://frugalnovice.com/about/privacy-policy-disclosure-statement/&title=Privacy+Policy+%26+Disclosure+Statement "Post to Reddit")
 
 **Privacy Policy**
 
@@ -22,7 +20,7 @@ frugalnovice.com does not use cookies.
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense
+Google Adsense and Burst Media
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on frugalnovice.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
@@ -32,9 +30,11 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+
 **Disclosure Statement**
 
-This policy is valid from 08 March 2011
+This policy is valid from 20 October 2011
 
 This blog is a personal blog written and edited by me. For questions about this blog, please contact  Christi (frugalnovice {at} gmail {dot} com).
 
@@ -46,5 +46,3 @@ The owner(s) of this blog is compensated to provide opinion on products, service
 
 This blog does not contain any content which might present a conflict of interest.  
 To get your own policy, go to http://www.disclosurepolicy.org
-
-[](http://twitter.com/home/?status=Privacy+Policy+%26+Disclosure+Statement+http%3A%2F%2Ffrugalnovice.com%2F%3Fp%3D322 "Post to Twitter") [](http://www.facebook.com/share.php?u=http://frugalnovice.com/about/privacy-policy-disclosure-statement/&t=Privacy+Policy+%26+Disclosure+Statement "Post to Facebook") [](http://stumbleupon.com/submit?url=http://frugalnovice.com/about/privacy-policy-disclosure-statement/&title=Privacy+Policy+%26+Disclosure+Statement "Post to StumbleUpon") [](http://digg.com/submit?url=http://frugalnovice.com/about/privacy-policy-disclosure-statement/&title=Privacy+Policy+%26+Disclosure+Statement "Post to Digg") [](http://reddit.com/submit?url=http://frugalnovice.com/about/privacy-policy-disclosure-statement/&title=Privacy+Policy+%26+Disclosure+Statement "Post to Reddit")
