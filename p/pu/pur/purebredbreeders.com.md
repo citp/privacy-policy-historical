@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the purebredbreeders.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627181732id_/http%3A//www.purebredbreeders.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purebredbreeders.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226210914id_/http%3A//purebredbreeders.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Purebred Breeders - America's Top Dog Breeders on PurebredBreeders.com
+# Privacy
 
 This privacy policy describes how PurebredBreeders.com handles your personal information. By using PurebredBreeders.com (the "Site"), you consent to the storage, processing, transfer, and disclosure of your personal information as described in this privacy policy. 
 
