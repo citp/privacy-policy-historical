@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the nature.org privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609101309id_/http%3A//www.nature.org/aboutus/governance/Privacy-Policy.xml%3Fs_intc%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature.org privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226234233id_/http%3A//www.nature.org/aboutus/governance/privacy-policy.xml) for the most accurate reproduction.*
 
-# Privacy Policy | The Nature Conservancy
+# About the Website Privacy Policy | The Nature Conservancy
 
 ##### The Nature Conservancy Website Privacy Policy
 
  **La** **st updated** : May 28, 2008
 
-The Nature Conservancy takes your privacy very seriously.  This notice describes the Conservancy’s privacy policy as it relates to the [www.nature.org](http://www.nature.org/), [www.conserveonline.org](http://www.conserveonline.org/), [www.tncfire.org](http://www.tncfire.org/), gis.tnc.org, [www.parksinperil.org](http://www.parksinperil.org/), ivorybill.org and nature.planyourlegacy.org websites (collectively, the “Website”).  **By visiting the Website, you are accepting the policies described in this Privacy Policy.    If you do not agree with this Privacy Policy, you are not permitted to use the Website. ** The Conservancy may revise this privacy policy from time to time.  We will post any changes here, so be sure to check back periodically.  **Your continued use of this Website after changes have been posted will constitute your acceptance of such changes.**
+The Nature Conservancy takes your privacy very seriously.  This notice describes the Conservancy’s privacy policy as it relates to the [www.nature.org](https://web.archive.org/index.htm), [www.conserveonline.org](http://conserveonline.org/), [www.tncfire.org](http://www.conservationgateway.org/topic/fire-landscapes), gis.tnc.org, [www.parksinperil.org](http://www.parksinperil.org/), ivorybill.org and nature.planyourlegacy.org websites (collectively, the “Website”).  **By visiting the Website, you are accepting the policies described in this Privacy Policy.    If you do not agree with this Privacy Policy, you are not permitted to use the Website. ** The Conservancy may revise this privacy policy from time to time.  We will post any changes here, so be sure to check back periodically.  **Your continued use of this Website after changes have been posted will constitute your acceptance of such changes.**
 
 **What information we collect:   **The Nature Conservancy may ask for and collect from you personally identifiable information at various points throughout the site.  Depending on the information and/or services you request, you may be asked to provide your name, email address, address, phone number, payment details, and similar information.  Once you provide your personal information, you are not anonymous to The Nature Conservancy.
 
@@ -34,7 +34,7 @@ The Nature Conservancy processes your information on servers located in the Unit
 
 **Children:** This Website is not directed toward children under 13 years of age nor does The Nature Conservancy knowingly collect information from children under 13.  If you are under 13, please do not submit any personally identifiable information to The Nature Conservancy.
 
-**Choice:**   The Nature Conservancy may share your name and postal address with organizations that offer products and services that we believe may interest you.  You have the right to [opt-out of such information sharing](http://www.nature.org/aboutus/misc/art5099.html).  The Nature Conservancy may also use your personal information to send you surveys or email messages about Nature Conservancy projects, events, and services.  You may also choose to [opt-out of receiving email](http://support.nature.org/interests) and information from The Nature Conservancy. Finally, you may choose to de-activate your Nature Conservancy membership.  To opt-out or change your preferences at any time, [Click here to send an email to request deactivation of your membership or to make any other change](https://web.archive.org/aboutus/contact/index.htm). 
+**Choice:**   The Nature Conservancy may share your name and postal address with organizations that offer products and services that we believe may interest you.  You have the right to opt-out of such information sharing.  The Nature Conservancy may also use your personal information to send you surveys or email messages about Nature Conservancy projects, events, and services.  You may also choose to [opt-out of receiving email](http://support.nature.org/interests) and information from The Nature Conservancy. Finally, you may choose to de-activate your Nature Conservancy membership.  To opt-out or change your preferences at any time, [Click here to send an email to request deactivation of your membership or to make any other change](https://web.archive.org/aboutus/contact/index.htm). 
 
 If you prefer, you may opt-out by calling our Member Care Team toll-free at (800) 628-6860 Monday through Friday between 9:00 am and 5:00 pm Eastern Time.
 
@@ -53,5 +53,3 @@ If you prefer, you may opt-out by calling our Member Care Team toll-free at (800
 Emails:**  This privacy policy applies to the Website and is inapplicable to information that you may send to The Nature Conservancy by email or other means of communication.  We may retain your emails or other communications in order to process your inquiries, respond to your requests and improve our services.
 
 **Contacts:  ** If you have any questions, concerns, or suggestions regarding this privacy policy, please [contact us online](https://web.archive.org/aboutus/contact/index.htm) to send us an email or call our Member Care Team toll-free at 1 (800) 628-6860 Monday through Friday between 9:00 am and 5:00pm Eastern Time.
-
-September 30, 2010 
