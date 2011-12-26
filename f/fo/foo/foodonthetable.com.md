@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodonthetable.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527211641id_/http%3A//www.foodonthetable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodonthetable.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226064341id_/http%3A//www.foodonthetable.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Food on the Table
 
@@ -39,4 +39,8 @@ Food on the Table may periodically update this policy. We will notify you about 
 
 ## Questions
 
-Any questions about this Privacy Policy should be addressed to support at foodonthetable.com
+Any questions about this Privacy Policy should be addressed to [support@foodonthetable.com](mailto:support@foodonthetable.com).
+
+## Opt-Out
+
+To opt-out of future contact, please send an email to [support@foodonthetable.com](mailto:support@foodonthetable.com) to be removed from all future communication.
