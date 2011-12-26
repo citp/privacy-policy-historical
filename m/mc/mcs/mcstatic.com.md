@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the mcstatic.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506090522id_/http%3A//www.metacafe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcstatic.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226153719id_/http%3A//www.metacafe.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 The use of the Metacafe website(s) and/or Metacafe software and any Metacafe services and products (collectively, the "Website") provided by Metacafe Inc. ("Metacafe") are subject to the provisions of this Privacy Policy, including any amendments or updates hereto. This Privacy Policy is incorporated into and is subject to the Metacafe [Terms & Conditions](https://web.archive.org/terms/ "Terms & Conditions"). If you do not agree to this Privacy Policy, please do not use the Website. 
 
 ### General
+
+Behavioral Targeting
+
+Clicking on the button below will block ad networks Behavioral targeting
+
+[Opt-out](http://www.doubleverify.com/privacymanager "Opt-out")
 
 Metacafe takes your privacy seriously. We gather certain types of information about our users and we want to help you understand the terms related to the collection and use of the information which we collect. This Privacy Policy discloses the types of information we gather, how we use it, and what choices you have regarding the collection of such information. 
 
@@ -33,12 +39,6 @@ Metacafe may use cookies, web beacons or similar technologies to enhance and per
 
 Metacafe does not require that you accept cookies, and you may disable cookies at any time. However, some functionality of our Website may be impaired if you decline to accept cookies. To disable cookies, follow the instructions in your web browser. 
 
-### Third Party Ad Advertising
-
-Metacafe or its advertisers may use third party ad networks and ad serving companies to help sell and present advertisements online in connection with the Website. These third party ad companies may use cookies, web beacons or similar technologies to help present such advertisements, to help measure and research the advertisements' effectiveness and to compile anonymous statistics about Metacafe users. The use of these technologies by these third party ad companies is subject to their own privacy policies, not Metacafe's. These third party ad companies may also monitor Metacafe for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities. Metacafe works with the following ad networks, whose privacy policies are available by clicking on the company's name: [CasaleMedia](http://www.casalemedia.com/privacy.htm), [Turn](http://www.turn.com/corp/about/privacy-policy.jsp), [BlueLithium](http://www.bluelithium.com/privacy_policy.html), [Interclick](http://www.interclick.com/PrivacyPolicyV2.aspx), [Google](http://www.google.com/privacy_ads.html), [Adult Adworld](http://www.adultadworld.com/privacy.html), [Etology](http://www.avnads.com/help-privacy-policy.php?sid=56b24c81b7b4d5d61d99b4d9ba16f939), [VideoEgg](http://www.videoegg.com/privacy), [Adap.tv](http://www.adap.tv/privacy_policy.html), and [ScanScout](http://www.scanscout.com/privacy_policy.html). Some of our ad networks offer users the opportunity to opt out of having the advertising that you see on our site targeted specifically to you through the Network Advertising Initiative, [click here](http://networkadvertising.org/managing/optout.asp). You can disable cookies, including those used by ad networks, by following the instructions in your web browser.?? 
-
-Metacafe does not provide advertisers access to any personally identifiable information that you have provided to Metacafe (keeping in mind that anything you have elected to share publicly on the site is available to everyone to see). 
-
 ### Security
 
 Metacafe has implemented security policies, rules and technical measures to protect and safeguard the personally identifiable information under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our personnel that have access to, and are associated with the processing of your personally identifiable information, are obligated to respect the confidentiality of the information. 
@@ -58,10 +58,10 @@ Deletion (Opt-Out). In order to delete the personally identifiable information y
 Modification. If you wish to modify or update your personally identifiable information, use the Website or application interface. If you need help, please contact us at support@metacafe.com   
 Please note that deletion of your personally identifiable information from Metacafe's database will not prevent Metacafe from using gathered anonymous information. 
 
-Third Parties' Practices. This Privacy Policy does not cover the information practices exercised by other providers of products or services, advertisers or other web sites, or companies/people that Metacafe does not own or control, or does not employ or manage. See also, "Third Party Ad Advertising." 
+Third Parties' Practices. This Privacy Policy does not cover the information practices exercised by other providers of products or services, advertisers or other web sites, or companies/people that Metacafe does not own or control, or does not employ or manage. See also, "[Third Party Ad Advertising.](http://wikicafe.metacafe.com/en/Metacafe:Third_Party_Ad_Advertising)" 
 
 ### Non-U.S. Users
 
 The Website is hosted in the United States. If you are accessing the Website from a jurisdiction with privacy laws or regulations that differ from United States laws, please be advised that through your continued use of the Website, you are transferring your personal information to the United States and you consent to that transfer. 
 
-Last updated: June 7th, 2009.
+Last updated: July 21st, 2011.
