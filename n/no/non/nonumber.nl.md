@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the nonumber.nl privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523031231id_/http%3A//www.nonumber.nl/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonumber.nl privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226153250id_/http%3A//www.nonumber.nl/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NoNumber! | Joomla! Extensions Directory
 
 Joomla!® Websites & Extensions  
 development  -  support  -  consultancy
 
-[](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=peter%40nonumber%2enl&lc=US&no_shipping=2&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted&item_name=Donation%20%20for%20NoNumber%21)
+[](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=peter%40nonumber%2enl&lc=US&no_shipping=2&currency_code=EUR&an=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted&item_name=Donation%20for%20NoNumber%21)
 
 We want to protect your privacy. In order to operate, NoNumber.nl may gather information about you. These terms explain how this may happen, what we will do with any potentially private data and how you can get in contact should you have any concerns.
 
@@ -37,7 +37,3 @@ Browsers can be set to accept or reject cookies or notify you when a cookie is b
 ### Policy Changes, Questions & Comments
 
 We'll post changes to this policy on this page. Questions about this policy should be emailed via [the contact form or my email address](http://www.nonumber.nl/contact).
-
-[](http://tracking.maxcdn.com/c/11281/3967/378 "MaxCDN")
-
-[](http://www.ostraining.com/idevaffiliate/idevaffiliate.php?id=125_2_1_6)
