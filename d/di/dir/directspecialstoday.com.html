@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the directspecialstoday.com privacy policy that was archived on 2010-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101127043848id_/http%3A//directspecialstoday.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the directspecialstoday.com privacy policy that was archived on 2011-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226151016id_/http%3A//directspecialstoday.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -48,7 +48,7 @@
 		$(document).ready(function(){ 
 		
 			//popup subscribe that will pop every 40 days due to cookie being placed
-			//setTimeout('subscribePopup()',2000);
+			setTimeout('subscribePopup()',2000);
 			
 			//innerfade function to rotate through images. 
 			$('ul#banner').innerfade({
@@ -185,8 +185,8 @@
 <p>If you have any questions or comments about this Policy or the practices relating to this Site, or you wish to verify, correct or delete any personal information we have collected, please contact us at <a href="feedback@directspecialstoday.com">feedback@directspecialstoday.com</a> and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate. You may also contact us by mail at the following address:</p>
 <p>Direct Specials Today<br>
 Attn: Privacy Policy<br>
-PO Box 5680<br>
-Santa Monica, CA 90409</p>
+3435 Ocean Park Blvd. #107 PMB 319<br>
+Santa Monica, CA 90405</p>
 <p>However, please note that in some cases, we may believe it is necessary or appropriate to retain certain personal information we have collected, and the deletion of such personal information will be in our sole discretion unless otherwise required by law. </p>
   </div>
 
@@ -200,7 +200,12 @@ Santa Monica, CA 90409</p>
 
   <h3>Direct Specials Today Newsletter</h3>
 
-  <div class="content"><style type="text/css">
+  <div class="content"><!--
+Do not modify the NAME value of any of the INPUT fields
+the FORM action, or any of the hidden fields (eg. input type=hidden).
+These are all required for this form to function correctly.
+-->
+<style type="text/css">
 
 	.myForm td, input, select, textarea, checkbox  {
 		font-family: tahoma;
@@ -212,24 +217,27 @@ Santa Monica, CA 90409</p>
 	}
 
 </style>
-<form method="post" action="http://www.directspecialstoday.com/emailmarketer/form.php?form=1" id="frmSS1" onsubmit="return CheckForm1(this);">
+<form method="post" action="http://subscriptiontree.com/form.php?form=2" id="frmSS2" onsubmit="return CheckForm2(this);">
 	<table border="0" cellpadding="2" class="myForm">
-		<tbody><tr>
-	<td><span class="required">*</span>&nbsp; Email Address:</td>
+
+<tbody><tr>
+	<td><span class="required">*</span>&nbsp;
+Your Email Address:</td>
 	<td><input type="text" name="email" value="" size="20"></td>
 </tr><tr>
 	<td>&nbsp;&nbsp;&nbsp;&nbsp;First Name:</td>
-	<td><input type="text" name="CustomFields[2]" id="CustomFields_2_1" value="" size="20"></td>
+	<td><input type="text" name="CustomFields[2]" id="CustomFields_2_2" value="" size="20"></td>
 </tr><tr>
 	<td>&nbsp;&nbsp;&nbsp;&nbsp;Last Name:</td>
-	<td><input type="text" name="CustomFields[3]" id="CustomFields_3_1" value="" size="20"></td>
-</tr><input type="hidden" name="format" value="h">
+	<td><input type="text" name="CustomFields[3]" id="CustomFields_3_2" value="" size="20"></td>
+</tr>
 		<tr>
 			<td></td>
 			<td>
 				<input type="submit" value="Subscribe">
 				<br>
- <a href="http://directspecialstoday.com/privacy">Privacy</a>
+				
+				<a href="http://directspecialstoday.com/privacy">Privacy</a>
 			</td>
 		</tr>
 	</tbody></table>
@@ -238,7 +246,7 @@ Santa Monica, CA 90409</p>
 <script type="text/javascript">
 // <![CDATA[
 
-			function CheckMultiple1(frm, name) {
+			function CheckMultiple2(frm, name) {
 				for (var i=0; i < frm.length; i++)
 				{
 					fldObj = frm.elements[i];
@@ -254,7 +262,7 @@ Santa Monica, CA 90409</p>
 				}
 				return false;
 			}
-		function CheckForm1(f) {
+		function CheckForm2(f) {
 			var email_re = /[a-z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/i;
 			if (!email_re.test(f.email.value)) {
 				alert("Please enter your email address.");
@@ -262,6 +270,12 @@ Santa Monica, CA 90409</p>
 				return false;
 			}
 		
+						if (f.format.selectedIndex == -1) {
+							alert("Please choose a format to receive your email campaigns in");
+							f.format.focus();
+							return false;
+						}
+					
 				return true;
 			}
 		
@@ -274,31 +288,7 @@ Santa Monica, CA 90409</p>
 
 
   <div class="content">
-<div class="advertisement group-tids-1" id="group-id-tids-1"><script type="text/javascript" src="http://directspecialstoday.com/modules/ad/serve.php?q=1&amp;t=1&amp;u=node%2F4"></script></div>
-</div>
-  
-</div>
-<div id="block-weather-3" class="block block-weather region-odd odd region-count-3 count-3">
-
-  <h3>Current weather</h3>
-
-  <div class="content"><div class="weather">
-  <p><strong>CA - Santa Monica, Santa Monica Municipal Airport</strong></p>
-  <div style="text-align:center;">
-    <img src="/modules/weather/images/day-few.png" width="64" height="64" alt="Few clouds" title="Few clouds">
-  </div>
-  <ul>
-    <li>Few clouds</li>
-                  <li>Temperature: <span style="white-space:nowrap;">59 °F</span></li>
-                    <li>Wind: Variable, <span style="white-space:nowrap;">11.1 km/h</span></li>
-              <li>Pressure: <span style="white-space:nowrap;">1016 hPa</span></li>
-              <li>Rel. Humidity: <span style="white-space:nowrap;">67 %</span></li>
-              <li>Visibility: <span style="white-space:nowrap;">16.1 km</span></li>
-                  </ul>
-        <small>
-      Reported on:<br>
-      Mon, 11/08/2010 - 08:51    </small>
-  </div>
+<div class="advertisement group-tids-1" id="group-id-tids-1"><script type="text/javascript" src="http://www.directspecialstoday.com/modules/ad/serve.php?q=1&amp;t=1&amp;u=node%2F4"></script></div>
 </div>
   
 </div>
