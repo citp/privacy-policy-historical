@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blomming.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610074838id_/http%3A//blomming.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blomming.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226201014id_/http%3A//blomming.com/legal/privacy) for the most accurate reproduction.*
 
-# blomming | privacy
+# Blomming - Static - Privacy
 
 ## Scope
 
@@ -21,14 +21,14 @@ Using Blomming’s services you acknowledge and accept that:
 You can browse our sites without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information according to this Privacy Policy.   
 We may collect and store the following personal information: 
 
-  * email address, address and telephone number, date of birth and sometimes (according to the chosen service) financial information, such as the number of your credit card or bank account;
-  * transactional information based on your activities on the sites (such as buying, selling, item and content you generate or that relates to your account);
-  * shipping, billing and other information you provide to purchase or ship an item;
-  * community discussions, chats, dispute resolution, correspondence through our sites, and correspondence sent to us;
-  * other information from your interaction with our sites, services, content and advertising, including computer and connection information, statistics on page views, traffic to and from the sites, ad data, IP address and standard web log information;
-  * additional information we ask you to submit to authenticate yourself or if we believe you are violating site policies (for example, we may ask you to send us an ID or bill to verify your address, or to answer additional questions online to help verify your identity or ownership of an item);
-  * information from other companies, such as demographic and navigation data; and
-  * other supplemental information from third parties or provided by you.
+  * Email address, address and telephone number, date of birth and sometimes (according to the chosen service) financial information, such as the number of your credit card or bank account;
+  * Transactional information based on your activities on the sites (such as buying, selling, item and content you generate or that relates to your account);
+  * Shipping, billing and other information you provide to purchase or ship an item;
+  * Community discussions, chats, dispute resolution, correspondence through our sites, and correspondence sent to us;
+  * Other information from your interaction with our sites, services, content and advertising, including computer and connection information, statistics on page views, traffic to and from the sites, ad data, IP address and standard web log information;
+  * Additional information we ask you to submit to authenticate yourself or if we believe you are violating site policies (for example, we may ask you to send us an ID or bill to verify your address, or to answer additional questions online to help verify your identity or ownership of an item);
+  * Information from other companies, such as demographic and navigation data; and
+  * Other supplemental information from third parties or provided by you.
 
 
 
@@ -40,12 +40,12 @@ We do not sell or rent your personal information to third parties for their mark
 
 Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. You agree that we may use your personal information to: 
 
-  * provide the services and customer support you request;
-  * resolve disputes, collect fees, and troubleshoot problems;
-  * prevent potentially prohibited or illegal activities, and enforce our Terms and policies;
-  * customize, measure and improve our services, content and advertising;
-  * tell you about our services and those of our corporate family, targeted marketing, service updates, and promotional offers based on your communication preferences; and
-  * compare information for accuracy, and verify it with third parties.
+  * Provide the services and customer support you request;
+  * Resolve disputes, collect fees, and troubleshoot problems;
+  * Prevent potentially prohibited or illegal activities, and enforce our Terms and policies;
+  * Customize, measure and improve our services, content and advertising;
+  * Tell you about our services and those of our corporate family, targeted marketing, service updates, and promotional offers based on your communication preferences; and
+  * Compare information for accuracy, and verify it with third parties.
 
 
 
@@ -70,12 +70,14 @@ Your User ID is displayed throughout Blomming (and so available to the public), 
 
 ## Using Information from Blomming
 
-Blomming enables you to share personal and financial information to complete transactions. We encourage you to disclose your privacy practices and respect the privacy of other users. We cannot guarantee the privacy or security of your information and therefore we encourage you to evaluate the privacy and security policies of your trading partner before entering into a transaction and choosing to share your information. To help protect your privacy, we allow only limited access to other users' contact, shipping and financial information to facilitate your transactions. When users are involved in a transaction, they may have access to each other's name, User ID, email address and other contact and shipping information. If you are a professional seller Blomming can decide to make visible the necessary data you indicated to contact you (such as name and address) to ensure your respect of the Italian Laws about distance sales and electronic commerce. In all cases, you must comply with data protection laws, and give other users a chance to remove themselves from your database and a chance to review what information you have collected about them.  
+Blomming enables you to share personal and financial information to complete transactions. We encourage you to disclose your privacy practices and respect the privacy of other users.  
+We cannot guarantee the privacy or security of your information and therefore we encourage you to evaluate the privacy and security policies of your trading partner before entering into a transaction and choosing to share your information. To help protect your privacy, we allow only limited access to other users' contact, shipping and financial information to facilitate your transactions.  
+When users are involved in a transaction, they may have access to each other's name, User ID, email address and other contact and shipping information. If you are a professional seller Blomming can decide to make visible the necessary data you indicated to contact you (such as name and address) to ensure your respect of the Italian Laws about distance sales and electronic commerce. In all cases, you must comply with data protection laws, and give other users a chance to remove themselves from your database and a chance to review what information you have collected about them.  
 You agree to use user information only for: 
 
-  * transaction-related purposes that are not unsolicited commercial messages;
-  * using services offered through Blomming (such as escrow, shipping and fraud complaints), or
-  * other purposes that a user expressly chooses.
+  * Transaction-related purposes that are not unsolicited commercial messages;
+  * Using services offered through Blomming (such as escrow, shipping and fraud complaints), or
+  * Other purposes that a user expressly chooses.
 
 
 
@@ -93,7 +95,7 @@ Your password is the key to your account. Use unique numbers, letters and specia
 
 ## Security
 
-Your information is stored on our servers located in Italy. We treat data as an asset that must be protected and follow generally accepted industry standards to protect the personal information submitted to us against unauthorized access and disclosure. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the site. No method of transmission over the Internet, or method of electronic storage is 100% secure. Therefore, we cannot guarantee, and you should not expect, that your personal information or private communications will always remain private.
+Your information is stored on our cloud computing provider's servers (Heroku, Inc.) located in USA. We treat data as an asset that must be protected and follow generally accepted industry standards to protect the personal information submitted to us against unauthorized access and disclosure. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the site. No method of transmission over the Internet, or method of electronic storage is 100% secure. Therefore, we cannot guarantee, and you should not expect, that your personal information or private communications will always remain private.
 
 ## Third Parties
 
@@ -101,7 +103,8 @@ Except as otherwise expressly included in this Privacy Policy, this document add
 
 ## General
 
-We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 15 days after they are initially posted. In addition, we will notify you through the Blomming site or by e- mail. If your questions are not answered online, you may write to us at:  
+We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 15 days after they are initially posted. In addition, we will notify you through the Blomming site or by e- mail.  
+If your questions are not answered online, you may write to us at:  
 
 
   * E-Mail: info AT blomming.com 
