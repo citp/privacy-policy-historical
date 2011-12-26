@@ -1,40 +1,14 @@
-> *The following text is extracted and transformed from the bmoinvestorline.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627053848id_/http%3A//www.bmo.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmoinvestorline.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226110758id_/http%3A//www.bmo.com/privacy/index.html) for the most accurate reproduction.*
 
-# Privacy | BMO Financial Group
+# Our Privacy Code | BMO Financial Group
 
-#### Your Privacy is our Priority
+BMO Financial Group appreciates the opportunity to help you meet your financial needs. From the day Bank of Montreal was founded in 1817, earning and keeping your trust has been at the very core of our business. We are committed to respecting and protecting the privacy and confidentiality of the personal information you have entrusted to us. It is important for you to understand what information we will collect, how we will use it, and who may see it.
 
-This Privacy Code outlines our commitment to you and is designed to comply with applicable Privacy legislation in Canada, which incorporates the following ten (10) principles:
-
-  * Accountability
-  * Identifying Purpose
-  * Obtain Consent
-  * Limit Collection
-  * Limit Use, Disclosure and Retention
-  * Be Accurate
-  * Use Appropriate Safeguards
-  * Be Open
-  * Give Individuals Access
-  * Provide Recourse
-
-
-
-Other important information:
-
-  * Respecting Your Privacy Preferences
-  * Scope
-  * Our Commitment to You
-  * Web Tools Statement
-
-
-
-### 1\. Accountability
+This Privacy Code outlines our commitment to you and is designed to comply with applicable Privacy legislation in Canada, which incorporates the following ten (10) principles. Click to expand each section.
 
 Each and every one of our employees is responsible for maintaining and protecting the personal information to which they have access. We have strict policies and procedures for protecting personal information and designated individuals within BMO Financial Group who are responsible for monitoring our compliance.
 
 BMO Financial Group has a Chief Privacy Officer who oversees privacy governance including policy, dispute resolution, education, communications activities and reporting to our Board of Directors and Executive Management on enterprise-wide privacy matters. See principle #10 for contact information.
-
-### 2\. Identifying Purpose
 
 When you become a BMO Financial Group customer, or apply for additional products and services, we ask you for your personal information for the following purposes:
 
@@ -49,8 +23,6 @@ When you become a BMO Financial Group customer, or apply for additional products
 
 Your personal information may be verified with credit bureaus, credit insurers, registries, your employer, personal references and other lenders.
 
-### 3\. Obtain Consent
-
 When you apply for a new product or service, we ask you for your consent to collect, use or disclose your personal information. You may, at any time, withdraw your consent as long as:
 
   * you provide reasonable notice 
@@ -59,8 +31,6 @@ When you apply for a new product or service, we ask you for your consent to coll
   * it does not relate to a credit product we have granted you where we are required to collect and exchange your personal information on an ongoing basis with credit bureaus, credit insurers and other lenders
 
 
-
-### 4\. Limit Collection
 
 We only collect the information we need. We may ask you to provide the following personal information: 
 
@@ -75,8 +45,6 @@ You can choose not to provide us with certain information in some situations. Ho
 
 We will make certain that you are informed of the purposes listed above when you apply for any of our products or services. If a new purpose for using your personal information develops, we will ask you for your consent.
 
-### 5\. Limit Use, Disclosure and Retention
-
 BMO Financial Group will only use or disclose your personal information for the reason(s) it was collected. Under no circumstances do we sell or give lists of our clients to other companies for their own use and, if we obtain client lists from other organizations, we require the organizations to confirm their compliance with all relevant privacy legislation.
 
 Your personal information may be shared with other companies within BMO Financial Group for the purpose of marketing, including telemarketing, so that these companies can offer you a broader range of product and service solutions to meet your needs.
@@ -89,11 +57,9 @@ Personal information may be released to legal or regulatory authorities in cases
 
 BMO Financial Group has policies in place that govern the retention of your personal information so it will be kept only for as long as it fulfills its intended purpose or as legally required.
 
-### 6\. Be Accurate
+We will make certain that you are informed of the purposes listed above when you apply for any of our products or services. If a new purpose for using your personal information develops, we will ask you for your consent.
 
 We are committed to maintaining the accuracy of your personal information and ensuring that it is complete and up-to-date. If you discover inaccuracies in our data, or your personal information changes, please notify the branch or office where you do business immediately, so that we can make the necessary changes. When required, we will make our best efforts to advise others of any important amendments to your personal information that we may have released to them. If we do not agree to make the amendments that you request, you may challenge our decision. Recourse is described in principle #10.
-
-### 7\. Use Appropriate Safeguards
 
 Your personal information is secure within BMO Financial Group, regardless of the format in which it is held. We have comprehensive security controls to protect against unauthorized use, access, alteration, duplication, destruction, disclosure, loss or theft of your personal information.
 
@@ -101,19 +67,13 @@ We maintain physical, electronic and procedural safeguards to protect your perso
 
 We have agreements and controls in place with credit bureaus, credit insurers, other lenders and third party service providers requiring that any information provided by us must be safeguarded and used only for the sole purpose of providing the service we have requested the company to perform.
 
-Within BMO Financial Group web sites, cookies or other information-tracking technologies may be used to improve the functionality or security of web sites, or to provide you with a more customized online experience. Please note that cookies cannot capture files or data stored on your computer. Refer to BMO's Web Tools Statement for further details regarding information-tracking technologies.
+Within BMO Financial Group web sites,cookies or other information-tracking technologies may be used to improve the functionality or security of web sites, or to provide you with a more customized online experience. Please note that cookies cannot capture files or data stored on your computer. Refer to BMO's Web Tools Statement for further details regarding information-tracking technologies.
 
-### 8\. Be Open
-
-BMO Financial Group's Privacy Code is available in our branches and offices as a printed brochure. From time to time, we may make changes to this policy and will inform you of changes, as required by law. The most up-to-date Privacy Code, is always available at [www.bmo.com](https://www.bmo.com/) and the privacy link located at the bottom of the page.
-
-### 9\. Give Individuals Access
+BMO Financial Group's Privacy Code is available in our branches and offices as a printed brochure. From time to time, we may make changes to this policy and will inform you of changes, as required by law. The most up-to-date Privacy Code, is always available at [www.bmo.com](https://www.bmo.com/ "www.bmo.com \(opens a new window\)") and the privacy link located at the bottom of the page.
 
 If you want to review or verify your personal information, or find out to whom we have disclosed it, please request this by contacting the branch or office where you do business. We may need specific information from you to enable us to search for, and provide you with, the personal information we hold about you. We may charge you a nominal fee depending on the nature of your request. However, we will advise you of the fee prior to proceeding with your request. There may be instances where we are unable to provide some of the personal information we hold about you and if we are unable, we will let you know the reason(s) why.
 
 In most provinces you have the right to access and verify the personal information held about you by credit bureaus. We will provide you with the name and location of any credit bureau that has provided us with a report on you.
-
-### 10\. Provide Recourse
 
 The branch or office where you do business is well equipped to handle any questions you may have about our Privacy Code. However, we want to hear from you if you have any further concerns. Please contact us at one of the following offices:
 
@@ -134,7 +94,7 @@ P.O. Box 150
 1 First Canadian Place   
 Toronto, Ontario M5X 1H3 
 
-Or 
+Or
 
 Chief Privacy Officer   
 BMO Financial Group   
@@ -142,8 +102,9 @@ P.O. Box 150
 1 First Canadian Place   
 Toronto, Ontario M5X 1H3 
 
-### Independent Oversight
+Or
 
+Independent Oversight  
 Office of the Ombudsman   
 BMO Financial Group   
 55 Bloor Street West   
@@ -162,7 +123,8 @@ Call: 1 800 282-1376
 Or  
 Fax: (613) 947-6850
 
-### Respecting Your Privacy Preferences
+  
+
 
 BMO Financial Group fully respects your privacy preferences. Simply contact the branch or office where you do business to discuss the following options that are available to you:
 
@@ -172,11 +134,9 @@ BMO Financial Group fully respects your privacy preferences. Simply contact the 
 
 
 
-### Definitions
-
 #### Direct Marketing
 
-Direct Marketing is our communication with you by mail, telemarketing or email, using the contact information you have provided, to inform you about products and services that we think may be of interest and value to you. This does not include information on or enclosed with your written or electronic statements, posted at or on-screen at automated banking machines, posted online at www.bmo.com or electronic bulletin boards, or conveyed to you in person.
+Direct Marketing is our communication with you by mail, telemarketing or email, using the contact information you have provided, to inform you about products and services that we think may be of interest and value to you. This does not include information on or enclosed with your written or electronic statements, posted at or on-screen at automated banking machines, posted online at [www.bmo.com](https://www.bmo.com/ "www.bmo.com \(opens a new window\)") or electronic bulletin boards, or conveyed to you in person.
 
 #### Encryption
 
@@ -190,17 +150,11 @@ Personal Information is information about an identifiable individual. It include
 
 PIN is the personal identification number that allows you to access your accounts. This number is known only to you. Our employees do not have access to your PIN and will not ask you to reveal it.
 
-### Scope
-
 This Code applies to the operations of BMO Financial Group in Canada, regardless of how you choose to do business with us - in our branch or office, at an automated banking machine, online, or by telephone. Reference throughout this Code to "we" "our" and "us" means BMO Financial Group and its members which include: Bank of Montreal, Bank of Montreal Mortgage Corporation, BMO Investments Inc., BMO Trust Company, BMO Nesbitt Burns Inc., BMO Nesbitt Burns Ltée/Ltd., BMO InvestorLine Inc., BMO Harris Investment Management Inc., BMO Life Insurance Company, BMO Nesbitt Burns Financial Services Inc., BMO Asset Management Inc. and Guardian Group of Funds Ltd.
-
-### Our Commitment to You
 
 BMO Financial Group appreciates the opportunity to help you meet your financial needs. From the day Bank of Montreal was founded in 1817, earning and keeping your trust has been at the very core of our business. We are committed to respecting and protecting the privacy and confidentiality of the personal information you have entrusted to us. It is important for you to understand what information we will collect, how we will use it, and who may see it.
 
-To learn how to protect your accounts visit the security section at [bmo.com](http://www.bmo.com/)
-
-### BMO Financial Group Web Tools Statement
+To learn how to protect your accounts visit the security section at [www.bmo.com](https://www.bmo.com/ "www.bmo.com \(opens a new window\)")
 
 #### The Use of Web Tools at BMO Financial Group Websites
 
@@ -231,7 +185,5 @@ BMO Financial Group websites may also use Cookies to collect information about o
     3. Present new tools and website functions
 
 
-
-#### Accepting Cookies
 
 Cookies are a commonly used technology and many web browsers default to automatically accept Cookies. You can set your Internet browser to notify you before a Cookie is set, providing you the opportunity to decide whether to accept it. If you decide that you do not wish to receive Cookies, refer to your browser's online help for further instruction and information on setting Cookie preferences. You can also set your browser to immediately reject Cookies. If you select this option, you may continue to browse BMO Financial Group websites; however, you should be aware that certain features of a website may not function properly without Cookies. You should note that if you would like to use a service such as BMO Online Banking, you will be required to accept the Cookies to maintain session integrity and enhanced security.
