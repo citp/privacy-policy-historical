@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the smartshopper.com privacy policy that was archived on 2010-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100811072744id_/http%3A//www.smartshopper.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartshopper.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227005506id_/http%3A//smartshopper.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# SmartShopper.com - Privacy Policy
+# 
 
 This Privacy Policy applies to all of the products, services and websites offered  
-by Pinball Corp's SmartShopper program or its subsidiaries (Pinball).
+by SmartShopper Technologies LLC's SmartShopper program or its subsidiaries (SmartShopper Technologies).
 
-Pinball is committed to your privacy and your privacy is safe with us.  
+SmartShopper Technologies is committed to your privacy and your privacy is safe with us.  
 Our Privacy Policy for the SmartShopper program is simple:
 
 SmartShopper is a browser add-on that can be downloaded from [ www.smartshopper.com](http://www.smartshopper.com/)
@@ -133,4 +133,4 @@ SmartShopper Inc.
 Bellevue, WA 98006   
 USA
 
-**This Privacy Policy was last updated on June 2nd, 2009.**
+**This Privacy Policy was last updated on August 24, 2010.**
