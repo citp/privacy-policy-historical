@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysavingmom.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605085628id_/http%3A//moneysavingmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysavingmom.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226184215id_/http%3A//moneysavingmom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Money Saving Mom®
 
@@ -21,6 +21,10 @@ When visiting Money Saving Mom®, the IP address used to access the site will be
 **Links to Third Party Websites**
 
 We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+
+**Giveways**
+
+Any information collected during giveaways, such as names and email addresses, will not be used for any purpose other than to contact the winners.
 
 **Changes to this Privacy Statement**
 
