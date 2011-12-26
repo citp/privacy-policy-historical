@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the internetdj.com privacy policy that was archived on 2011-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110627120950id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the internetdj.com privacy policy that was archived on 2011-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226081411id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-	<meta name="description" content="Electronic Music, Videos, Bands and News">
+	<meta name="description" content="Find, search and download new mp3 music. Upload and share your music with your social network.">
 	<meta name="keywords" content="electronic music, electronic mp3, upload music, music news, music videos, music widgets">
 	<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
 	<meta property="fb:admins" content="590495798">
@@ -14,9 +14,9 @@
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/topscripts.js" language="JavaScript"></script>
 
 
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js"></script>
-  <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/themes/black-tie/jquery-ui.css" type="text/css">
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+  <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/themes/smoothness/jquery-ui.css" type="text/css">
   
 	<link rel="stylesheet" href="/images/style.css" type="text/css">
 
@@ -36,19 +36,18 @@
 
 	<script type="text/javascript">
           $(function() {
-            $( "button, input:submit, a", ".button" ).button();
+            $( "button, input:submit, a", ".button").button();
           });
 	</script>
 
 </head>
 
 <body>
+  
+  <div id="content">
 
-  <div id="header" class="header" style="background: #000; color: #fff;">
     <div class="headercontent">
-      <div class="left_side" style="margin:0;padding:0;width:182px;">
-	      <a href="/"><img alt="InternetDJ.com :: Electronic Music, Videos, Bands and News" title="InternetDJ.com :: Electronic Music, Videos, Bands and News" border="0" src="/images/logo/internetdj_logo.png"></a>
-      </div>
+
 <script>
 				$(function() {
           $( "#dialog-form" ).dialog({
@@ -59,19 +58,28 @@
             modal: true
           });
 
-					$( "#open-login")
+					$( ".open-login")
 						.click(function() {
 							$( "#dialog-form" ).dialog( "open" );
 							return false;
 						});
-				});
-        </script>
+  				$( "#album-cover" ).dialog({
+                    autoOpen: false,
+                    height: 340,
+                    width: 350,
+                    modal: true
+                  });
+          $( "#open-album-cover").click(function() {
+            $( "#album-cover" ).dialog( "open" );
+            return false;
+          });
 
-        <div class="form" id="dialog-form" style="display: none;" title="Login to InternetDJ.com">
+        });
+        </script>
+  <div class="form" id="dialog-form" style="display: none;" title="Login to InternetDJ.com">
           <form action="/user.php" method="post">
             <fieldset>
 
-              <legend>Login</legend>
               <input type="hidden" name="op" value="login">
               <div class="grid-12-12">
                 <label class="form-lbl">Username</label>
@@ -98,102 +106,13 @@
           <a href="/user.php?action=lost">Lost Password?</a> <br><br> <a href="/user.php?action=register">Want to Register?</a>
         </div>
      
-
-      <div class="right_side" style="width: 824px;">
-          <ul id="nav" class="dropdown dropdown-horizontal">
-
-            <li id="n-search" style="background: none">
-              <form name="searchform" method="get" action="/search.php" style="margin:3px 15px 0 10px;display: inline;float:left;">
-                <input style="color: #969696;font: normal 14px/17px Tahoma, Verdana, Arial, Helvetica, sans-serif;width: 140px;height: 18px;padding: 3px 29px 2px 5px;border-width: 0;vertical-align: middle;background: transparent url(/include/menu/css/dropdown/themes/vimeo.com/images/bg_search-field.png) 0 0 no-repeat;" onfocus="document.searchform.query.value='';" type="text" name="query" value="search news, music">
-                <input style="position: relative;margin: 4px 0 0 -20px;" type="image" src="/include/menu/css/dropdown/themes/vimeo.com/images/btn_search.png" name="search" value="Search">
-              </form>
-            </li>
-
-
-            <li id="n-music"><a href="/artists.php" class="dir">Music</a>
-              <ul>
-                <li class="first"><a href="/artists.php">Music Main</a></li>
-
-                <li class="empty">Find Music</li>
-                <li><a href="/artists.php?op=newtracks">New Releases</a></li>
-                <li><a href="/tags.php">Tags and Genres</a></li>
-                <li><a href="/tracks.php">Song Filter</a></li>
-                <li><a href="/artists.php?op=aotw">Artist of the Week</a></li>
-
-                <li class="empty">Stream Music</li>
-
-                <li><a href="/mixshow.php">Playlists</a></li>
-                <li><a href="/mixes.php">Mix Sets</a></li>
-                <li><a href="/radio/">Live Radio</a></li>                      
-
-		            <li class="empty">Downloads</li>
-                <li><a href="/sources.php">Sources &amp; Samples</a></li>
-         		    <li><a href="/software.php">Music Software</a></li>
-             		<li><a href="/tracks.php?op=showtracks&amp;download=2">Free MP3 Downloads</a></li>
-     		        <li><a href="http://www.bandv2.com">BANDv2.com Music Shop</a></li>
-              </ul>
-            </li>
-            <li id="n-video"><a href="/video.php" class="dir">Video</a>
-              <ul>
-                <li class="first"><a href="/video.php">Videos Main</a></li>
-                <li><a href="/mixshow.php">Playlists</a></li>
-                <li><a href="/artists.php?op=managevideo">Upload/Manage Videos</a></li>
-              </ul>
-            </li>
-            <li id="n-charts"><a href="/charts.php" class="dir">Charts</a>
-              <ul>
-                <li class="first"><a href="/charts.php">Weekly Top Music Chart</a></li>
-                <li><a href="/charts.php?op=spd">Today's Top Tracks</a></li>
-                <li><a href="/buzz.php">Social Buzz Chart</a></li>
-                <li><a href="/charts.php?op=allones">All #1 Songs</a></li>
-                <li><a href="/reviews.php?op=top">Top Reviewers</a></li>
-                <li><a href="/pointleaders.php">Point Leaders</a></li>
-								<li><a href="/reviews.php" class="dir">Music Reviews</a></li>
-              </ul>
-            </li>
-            <li id="n-news"><a href="/news.php" class="dir">News</a>
-              <ul>
-                <li class="first"><a href="/news.php">News Main</a></li>
-                <li><a href="/topics.php?topic=33">Music News</a></li>
-                <li><a href="/topics.php?topic=47">Features</a></li>
-                <li><a href="/topics.php?topic=46">Technology</a></li>
-                <li><a href="/topics.php?topic=37">How-To</a></li>
-								<li><a href="/reviews.php" class="dir">Music Reviews</a></li>
-                <li><a href="/newswire.php">Submit Article</a></li>
-                <li><a href="/guides.php">Event &amp; Club Guides</a></li>
-              </ul>
-            </li>
-            <li id="n-forum"><a href="/members.php" class="dir">Members</a>
-              <ul>
-                <li class="first"><a href="/members.php">Members Home</a>
-                </li><li><a href="/modules.php?op=modload&amp;name=NS-Forum&amp;file=index">Forum</a></li>
-                <li><a href="/members.php?op=search">Find Members</a></li>
-                <li><a href="/groups.php">Groups</a></li>
-                <li><a href="/powerusers.php">Power Users</a></li>                      
-                <li><a href="/artists.php?op=artistgallerymain">Photo Gallery</a></li>
-								<li><a href="/reviews.php" class="dir">Music Reviews</a></li>
-                <li><a href="/developers">Developer API</a></li>
-              </ul>
-            </li>
-
-            <li><div style="width:50px;height:1px;">&nbsp;</div></li>          
-            <li><a style="font-size: 12px;" id="open-login" href="/user.php?redirect=L2FydGljbGUucGhwP3N0b3J5aWQ9MzA=">Login</a></li>
-            <li><a style="font-size: 12px;background: #ff0000; height:20px; padding:0 5px; margin:7px; 5px 0 0" href="/user.php?action=register">Sign Up</a></li>
-
-          </ul>
-
-
+      <div class="left_side" style="margin:0; padding:0; width:92px;">
+	      <a href="/"><img alt="InternetDJ.com :: Electronic Music, Videos, Bands and News" title="InternetDJ.com :: Electronic Music, Videos, Bands and News" border="0" src="/images/logo/internetdj_logo2.gif"></a>
       </div>
-    </div>
-  </div>
-                
-  <div style="clear: both"></div>
 
-
-  <div style="margin: 5px auto; width: 1036px; text-align:center;height:92px; overflow: hidden;">
-    <div class="left_side" style="width:728px;">
-      
-<script type="text/javascript"><!--//<![CDATA[
+      <div class="right_side" style="width: 905px; height: 90px; overflow: hidden; margin:0; padding:0;">
+        <div style="width: 728px; height: 90px; overflow: hidden; float: left;">
+          <script type="text/javascript"><!--//<![CDATA[
    var m3_u = (location.protocol=='https:'?'https://d1.openx.org/ajs.php':'http://d1.openx.org/ajs.php');
    var m3_r = Math.floor(Math.random()*99999999999);
    if (!document.MAX_used) document.MAX_used = ',';
@@ -207,40 +126,117 @@
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://d1.openx.org/ajs.php?zoneid=202227&amp;cb=81209767169&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20110627120950id_/http%253A//www.internetdj.com/article.php%253Fstoryid%253D30"></script>
+//]]>--></script><script type="text/javascript" src="https://d1.openx.org/ajs.php?zoneid=202227&amp;cb=25678739401&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20111226081411id_/http%253A//www.internetdj.com/article.php%253Fstoryid%253D30"></script>
 
 
-    </div>
-    <div class="right_side" style="width:300px">
-      
-      <a href="/radio"><img style="border: 0;" src="/images/banners/124x90_idjradio.gif"></a>
-<!--      <a href="http://www.bandv2.com"><img style="border: 0;" src="/images/banners/bandv2_button.gif" /></a> -->
-      <a href="/advertise.php"><img style="border: 0;" src="/images/banners/170x90_ad_here.gif"></a>
-      
-          </div>
-  </div>
-
-                
-
-  <div id="content" class="content">
-<!--    <div style="margin: 0 auto;width: 100%;">
-    <div id="toolbar">
-
-        <div style="width: 350px; float: left; padding-left: 5px; text-align: left;">
-          Got Mobile? Try: <a href="/mobile">internetdj.com/mobile</a>
+  <script type="text/javascript"><!--
+  var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
+  var casaleU=escape(window.location.href);
+  var casaleHost=' type="text/javascript" src="http://as.casalemedia.com/s?s=';
+  document.write('<scr'+'ipt'+casaleHost+'108899&amp;u=');
+  document.write(casaleU+'&amp;f=1&amp;id='+casaleR+'"><\/scr'+'ipt>');
+  //--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=108899&amp;u=https%3A//web.archive.org/web/20111226081411id_/http%253A//www.internetdj.com/article.php%253Fstoryid%253D30&amp;f=1&amp;id=1863129067.5660064"></script>
         </div>
-
-        <div style="width: 335px; float: right; padding-right: 5px; text-align: right;">
-          follow us on: <a style="font-weight: bold" href="http://twitter.com/internetdj">twitter</a> & <a style="font-weight: bold" href="http://www.facebook.com/pages/InternetDJcom/24279545757">facebook</a>
-
-        </div>		
+        <div style="width: 170px; height: 90px; overflow: hidden; float: right;">
+          <a href="http://www.internetdj.com/radio/"><img src="/images/banners/124x90_idjradio.gif" border="0" alt="Internet DJ Radio" style="border: 0;"></a>
+        </div>
       </div>
-    <div style="border-top: 1px solid #999;clear: both"></div>
-    
-  </div>
--->
+      
+      
+      <div style="clear: both; margin:5px;"></div>
+
+      <div style="background-color: #000; width: 1015px; height: 36px;">
+
+        <ul id="nav" class="dropdown dropdown-horizontal;">
+          <li id="n-home"><a href="/" class="dir">Home</a></li>
+
+          <li id="n-music"><a href="/artists.php" class="dir">Music</a>
+            <ul>
+              <li class="first"><a href="/artists.php">Music Main</a></li>
+
+              <li class="empty">Find Music</li>
+              <li><a href="/artists.php?op=newtracks">New Releases</a></li>
+              <li><a href="/tags.php">Tags and Genres</a></li>
+              <li><a href="/tracks.php">Song Filter</a></li>
+              <li><a href="/artists.php?op=aotw">Artist of the Week</a></li>
+
+              <li class="empty">Stream Music</li>
+
+              <li><a href="/mixshow.php">Playlists</a></li>
+              <li><a href="/mixes.php">Mix Sets</a></li>
+              <li><a href="/radio/">Live Radio</a></li>                      
+
+              <li class="empty">Downloads</li>
+              <li><a href="/sources.php">Sources &amp; Samples</a></li>
+              <li><a href="/software.php">Music Software</a></li>
+              <li><a href="/tracks.php?op=showtracks&amp;download=2">Free MP3 Downloads</a></li>
+              <li><a href="http://www.bandv2.com">BANDv2.com Music Shop</a></li>
+            </ul>
+          </li>
+          <li id="n-video"><a href="/video.php" class="dir">Video</a>
+            <ul>
+              <li class="first"><a href="/video.php">Videos Main</a></li>
+              <li><a href="/mixshow.php">Playlists</a></li>
+              <li><a href="/artists.php?op=managevideo">Upload/Manage Videos</a></li>
+            </ul>
+          </li>
+          <li id="n-charts"><a href="/charts.php" class="dir">Charts</a>
+            <ul>
+              <li class="first"><a href="/charts.php">Weekly Top Music Chart</a></li>
+              <li><a href="/charts.php?op=spd">Today's Top Tracks</a></li>
+              <li><a href="/buzz.php">Social Buzz Chart</a></li>
+              <li><a href="/mixes.php">Top 10 Mix Sets</a></li>
+              <li><a href="/video.php">Top Music Videos</a></li>
+              <li><a href="/charts.php?op=allones">All #1 Songs</a></li>
+              <li><a href="/reviews.php?op=top">Top Reviewers</a></li>
+              <li><a href="/pointleaders.php">Point Leaders</a></li>
+              <li><a href="/reviews.php" class="dir">Music Reviews</a></li>
+            </ul>
+          </li>
+          <li id="n-news"><a href="/news.php" class="dir">Blog</a>
+            <ul>
+              <li class="first"><a href="/news.php">Blog Main</a></li>
+              <li><a href="/topics.php?topic=33">Music</a></li>
+              <li><a href="/topics.php?topic=47">Features</a></li>
+              <li><a href="/topics.php?topic=46">Technology</a></li>
+              <li><a href="/topics.php?topic=37">How-To</a></li>
+              <li><a href="/reviews.php" class="dir">Music Reviews</a></li>
+              <li><a href="/newswire.php">Submit Article</a></li>
+            </ul>
+          </li>
+          <li id="n-forum"><a href="/members.php" class="dir">Members</a>
+            <ul>
+              <li class="first"><a href="/members.php">Members Home</a></li>
+              <li><a href="/forum.php">Forum</a></li>
+              <li><a href="/members.php?op=search">Find Members</a></li>
+              <li><a href="/groups.php">Groups</a></li>
+              <li><a href="/powerusers.php">Power Users</a></li>                      
+              <li><a href="/artists.php?op=artistgallerymain">Photo Gallery</a></li>
+              <li><a href="/reviews.php" class="dir">Music Reviews</a></li>
+              <li><a href="/developers">Developer API</a></li>
+            </ul>
+          </li>
+
+          <li id="n-search" style="background: none">
+            <form name="searchform" method="get" action="/search.php" style="margin:5px 15px 0 10px;display: inline;float:left;">
+              <input style="color: #969696;font: normal 14px/17px Tahoma, Verdana, Arial, Helvetica, sans-serif;width: 120px;height: 16px;padding: 3px 29px 2px 5px;" onfocus="document.searchform.query.value='';" type="text" name="query" value="search news, music">
+              <!--<input style="float: right;position: relative;margin: 5px 0 0 -20px;" type="image" src="/include/menu/css/dropdown/themes/vimeo.com/images/btn_search.png" name="search" value="Search" />-->
+            </form>
+          </li>
+
+          <li> <span style="margin-left: 190px">&nbsp; </span></li>
+          <li><a style="font-size: 12px;" id="open-login" class="open-login" href="/user.php?redirect=L2FydGljbGUucGhwP3N0b3J5aWQ9MzA=">Login</a></li>
+          <li><a style="font-size: 12px;background: #ff0000; height:20px; padding:0 5px; margin:7px; 5px 0 0" href="/user.php?action=register">Sign Up</a></li>
+
+          
+        </ul>
+        <div style="clear: both; margin: 5px;"></div>
+      </div>	
+        
+    </div> <!-- end headercontent -->
+
       <div class="left">
-        <h2><a href="/news.php">News &amp; Features</a> &gt; <a href="/topics.php?topic=33">Music News</a></h2>
+        <h2><a href="/news.php">Music Blog</a> &gt; <a href="/topics.php?topic=33">Music News</a></h2>
         <h1>Privacy Statement for InternetDJ.com</h1>
 
         <div class="left_side">
@@ -251,8 +247,10 @@
         </div>
 
   <div style="clear: both;"></div>
-  <div style="width: 200px; float: left; border-style: double none none none; border-color: #666; margin: 0 10px 10px 0;">
-<a href="/topics.php?topic=33"><img class="image" style="width: 200px; margin-top: 10px;" src="/images/pix.gif" border="0" alt="Music News"></a><p style="clear: both; color: #666"></p></div><p style="font-size: 12px; color: #666"> by <a href="/user/michael">Michael Bordash</a><br>Thursday, August 09 2001</p><span style="font-size: 16px; line-height: 20px">InternetDJ is committed to providing quality online activities and information to fans. While we encourage the interactive nature of online media, we strive to ensure the online safety and privacy of our visitors. 
+  <div style="width: 200px; float: left; margin: 0 10px 0 0;">
+<a href="/topics.php?topic=33"><img class="image" style="width: 200px;" src="/thumb.php?src=/images/pix.gif&amp;wmax=200&amp;hmax=313&amp;uid=article&amp;quality=90" border="0" alt="Music News"></a></div><p style="font-size: 12px; color: #666">Posted  by <a href="/user/michael">Michael Bordash</a> on Thursday, August 09 2001</p><span style="font-size: 16px; line-height: 20px">
+        <p></p>
+        <p>InternetDJ is committed to providing quality online activities and information to fans. While we encourage the interactive nature of online media, we strive to ensure the online safety and privacy of our visitors. 
 <br><br>
 Information Collection Policies
 We may request personally identifiable information from visitors who choose to participate in certain activities as described below. Our information practices are described below. 
@@ -304,7 +302,8 @@ InternetDJ.com <br>
 12th Floor<br>
 New York, New York 10004
 <br><br>
-This policy, like the online medium itself, is subject to change. </span><div class="calloutblue"><a style="font-size: 20px; color: #fff; text-decoration: underline;" href="/user.php?action=register">Register Now</a> and get daily music news, songs and videos in your inbox.</div><div style="clear: both; margin-top: 10px;"></div>
+This policy, like the online medium itself, is subject to change. </p>
+      </span><div class="calloutblue"><a style="font-size: 20px; color: #fff; text-decoration: underline;" href="/user.php?action=register">Register Now</a> and get daily music news, songs and videos in your inbox.</div><div style="clear: both; margin-top: 10px;"></div>
   
         <h3>Article Comments</h3>
         <div class="left_box"><p><br><i><b>No comments found for this article</b></i><br><a name="postcomments"></a>
@@ -335,11 +334,12 @@ This policy, like the online medium itself, is subject to change. </span><div cl
 
       </b></div><b>	
       <div class="right">
-        <div class="calloutpink" style="margin-top: 3px;">
-          <a style="color: #fff; font-size: 18px;text-decoration: underline;" href="/newswire.php">Submit News</a><br>
-          Get your Press on InternetDJ right now.
+        <div class="calloutpink" style="margin: 10px 0 10px 0;">
+          <a style="color: #fff; font-size: 18px;text-decoration: underline;" href="newswire.php">Submit Press Release</a><br>
+          Get your press release on InternetDJ right now! <br>
+          Or, if you have a tutorial or a cool article to submit, contact <a href="/replypmsg.php?send=1&amp;uname=michael">michael</a>.
         </div>
-<div style="width: 300px; height: 250px;">
+<div style="width: 300px;">
 <script type="text/javascript"><!--//<![CDATA[
    var m3_u = (location.protocol=='https:'?'https://d1.openx.org/ajs.php':'http://d1.openx.org/ajs.php');
    var m3_r = Math.floor(Math.random()*99999999999);
@@ -354,18 +354,19 @@ This policy, like the online medium itself, is subject to change. </span><div cl
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://d1.openx.org/ajs.php?zoneid=202228&amp;cb=88572073474&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20110627120950id_/http%253A//www.internetdj.com/article.php%253Fstoryid%253D30"></script>
+//]]>--></script><script type="text/javascript" src="https://d1.openx.org/ajs.php?zoneid=202228&amp;cb=99692178407&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20111226081411id_/http%253A//www.internetdj.com/article.php%253Fstoryid%253D30"></script>
+
 
 </div>
 
       <div style="clear: both; margin-top: 3px;"></div>
       <h3>latest headlines</h3>
       <div class="left_box">      
-» <a href="/article/tiesto-announces-new-digital-series-in-the-booth-1348">Tiësto Announces New Digital Series :: In The Booth</a><br>» <a href="/article/tiesto-presents-allure-kiss-from-the-past-cd-download-out-now-1346">Tiesto presents Allure 'Kiss From The Past' CD &amp; Download - Out Now</a><br>» <a href="/article/soundation-studio-releases-the-wub-machine-1345"> Soundation Studio Releases The Wub Machine</a><br>» <a href="/article/bt-these-re-imagined-machines-cd-download-out-now-1344">BT - These Re-Imagined Machines - CD &amp; Download - Out Now</a><br>  » <a href="/news.php" style="font-weight: bold; font-style: italic">More in News</a>
+» <a href="/article/12-disappointing-facts-about-popular-music-1365">12 Disappointing Facts about Popular Music</a><br>» <a href="/article/cant-go-wrong-with-dj-ella-dj-wong-at-rubyskye-san-fran-1364">Can't go wrong with DJ Ella &amp; DJ Wong at Rubyskye San Fran</a><br>» <a href="/article/dubstep-to-rattle-your-brain-1363">Dubstep to rattle your brain</a><br>» <a href="/article/cosmic-gate-releases-brand-new-artist-album-wake-your-mind-1362">Cosmic Gate releases brand new artist album Wake Your Mind</a><br>  » <a href="/news.php" style="font-weight: bold; font-style: italic">More in News</a>
       </div>
       <h3>popular headlines</h3>
       <div class="left_box">
-» <a href="/article/tiesto-presents-allure-kiss-from-the-past-cd-download-out-now-1346">Tiesto presents Allure 'Kiss From The Past' CD &amp; Download - Out Now</a><br>» <a href="/article/benny-benassi-s-electronman-now-available-everywhere-1343">Benny Benassi's ELECTRONMAN - Now Available Everywhere </a><br>» <a href="/article/bt-these-re-imagined-machines-cd-download-out-now-1344">BT - These Re-Imagined Machines - CD &amp; Download - Out Now</a><br>» <a href="/article/tiesto-announces-new-digital-series-in-the-booth-1348">Tiësto Announces New Digital Series :: In The Booth</a><br> » <a href="/news.php" style="font-weight: bold; font-style: italic">More in News</a>
+» <a href="/article/bpm-festival-line-up-announced-1361">BPM Festival Line-up Announced</a><br>» <a href="/article/cosmic-gate-releases-brand-new-artist-album-wake-your-mind-1362">Cosmic Gate releases brand new artist album Wake Your Mind</a><br>» <a href="/article/12-disappointing-facts-about-popular-music-1365">12 Disappointing Facts about Popular Music</a><br>» <a href="/article/dubstep-to-rattle-your-brain-1363">Dubstep to rattle your brain</a><br> » <a href="/news.php" style="font-weight: bold; font-style: italic">More in News</a>
       </div>
 
 
@@ -380,27 +381,36 @@ This policy, like the online medium itself, is subject to change. </span><div cl
 <script language="JavaScript" type="text/javascript">
 if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; 
 document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.internetdj.com/redirect;sect=redirect;adid=99589431;sz=1x1;ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
-</script><script language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.internetdj.com/redirect;sect=redirect;adid=99589431;sz=1x1;ord=8321761223042363?" type="text/javascript"></script>
+</script><script language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.internetdj.com/redirect;sect=redirect;adid=99589431;sz=1x1;ord=1178429507273972.5?" type="text/javascript"></script>
 
-</b></div><b>
+    
+  &nbsp;
+  <span style="clear: both\">&nbsp;</span>
+</b></div><b> <!-- end content -->
 
 <div style="clear: both"> </div>
 
 <div id="footer" class="footer">
   <div class="footercontent">
-    <p style="font-weight: bold;">
+    <p style="font-weight: bold; float: left;">
       <a href="/about.php">About</a> · 
 	    <a href="/contact.php">Contact Us</a> ·
 	    <a href="/stats.php">Stats</a> ·
       <a href="/newswire.php">Submit News</a> ·
       <a href="/advertise.php">Advertise</a> ·
       <a href="/developers">Developers</a> ·
+      <a href="/mobile">Mobile</a> ·
       <a href="/help.php">Help</a>
+      <br>
+      Copyright © 1995-2011 Dashboard Media, LLC · All rights reserved. <br> 
+      <a href="/article.php?storyid=30">Privacy Policy</a> ·
+      <a href="/article.php?storyid=242">Terms of Service</a>
     </p>
-    Copyright © 1995-2011 Dashboard Media, LLC · All rights reserved. <br> 
-    <a href="/article.php?storyid=30">Privacy Policy</a> ·
-    <a href="/article.php?storyid=242">Terms of Service</a>
-
+    <p style="font-weight: bold; float: right;">
+      Follow us: <a href="http://twitter.com/internetdj">Twitter</a>, 
+      <a href="http://www.facebook.com/pages/InternetDJcom/24279545757">Facebook</a>
+    </p>
+    
 <script type="text/javascript">
 _qoptions={ qacct:"p-17TyQxbLMiL3g" };
 </script>
