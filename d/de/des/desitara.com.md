@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desitara.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221153340id_/http%3A//www.desitara.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desitara.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226161425id_/http%3A//www.desitara.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Desitara
 
@@ -9,9 +9,6 @@ The Connectfilms Media LTD Privacy Policy describes how the company and its subs
 Before you begin using the website please take the time to read through our policies to understand how we treat the information you give us!
 
 If you would like to perform any of the following actions, you will be required to create - a user account:
-
-  
-
 
   * **If you would like to perform any of the following actions, you will be required to create a user account:**
   * Upload a video
