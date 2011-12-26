@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exteel.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429185310id_/http%3A//us.ncsoft.com/en/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exteel.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226203903id_/http%3A//us.ncsoft.com/en/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | NCsoft
 
@@ -14,9 +14,7 @@ This Privacy Policy discloses the privacy practices for:
   * <http://www.guildwars.com/products/nightfall/>
   * <http://www.guildwars.com/products/factions/>
   * <http://www.guildwars.com/products/guildwars/>
-  * [www.lineage.com](http://www.lineage.com/)
   * [www.lineage2.com](http://www.lineage2.com/)
-  * [www.playtr.com](http://www.playtr.com/)
 
 
 
