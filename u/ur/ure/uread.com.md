@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uread.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529123047id_/http%3A//www.uread.com/help.aspx%3F%23policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uread.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226201057id_/http%3A//www.uread.com/help.aspx%3F%23policy) for the most accurate reproduction.*
 
 # uRead.com: Buy Books Online: Bookstore in India: Highest Discount
 
@@ -126,7 +126,7 @@ India.
 
 In case of cheque payments, orders will be processed only after clearance of the cheque. We accept cheques which are payable "at par" at New Delhi. Do make sure that your book is NOT shown as Out of Stock on uRead.com before you send us your payment. 
 
-If the value of your order is less that R100, add R30 as shipping charges. We will process your order upon receiving your payment and your book will be couriered to you, or sent by Government Registered Post if there is no Courier Service operational in your area. 
+If the value of your order is less that $1.9, add $0.57 as shipping charges. We will process your order upon receiving your payment and your book will be couriered to you, or sent by Government Registered Post if there is no Courier Service operational in your area. 
 
 Enclose a covering letter with the name and author of the book, **your Shipping Address, Phone Number and Email Address.** Kindly also send us an email informing us that you have sent your DD/Cheque. It will help us process your order quicker. 
 
@@ -180,7 +180,7 @@ The process –
   
 
 
-##  Terms and Conditions
+##  Other Terms and Conditions
 
   * Cheques/Demand Drafts/Money orders will not be accepted once you choose to pay by COD.
   * Delivery of orders will be done Address specific and not person specific 
@@ -206,7 +206,7 @@ Couldn't find the information you needed? Please ask on [ contact@uRead.com](mai
 
 ##  How much are the shipping charges?
 
-URead.com provides free shipping on all books to all locations in India if your total order amount is more than R100\. Otherwise R30 is charged as shipping charge. 
+URead.com provides free shipping on all books to all locations in India if your total order amount is more than $1.9. Otherwise $0.57 is charged as shipping charge. 
 
 International shipping rates are calculated based on the product and the shipping location. These rates are made available during checkout once you enter the delivery address. 
 
@@ -239,7 +239,7 @@ Yes. We ship to all locations in India as well as countries such as -
 
 
 
-...and many more. 
+...and many more.
 
 We are continuously expanding the list of countries that we ship to. On special requests we will ship to other countries so please contact us on [ sales@uRead.com](mailto:sales@uRead.com)
 
