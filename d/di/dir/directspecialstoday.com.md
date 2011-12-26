@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directspecialstoday.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127043848id_/http%3A//directspecialstoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directspecialstoday.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226151016id_/http%3A//directspecialstoday.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -60,11 +60,11 @@ Our web site may contain links to other web sites. Any personal information you 
 
 ## How Can You Correct and Update Your Personal Information or Obtain Additional Information
 
-If you have any questions or comments about this Policy or the practices relating to this Site, or you wish to verify, correct or delete any personal information we have collected, please contact us at [feedback@directspecialstoday.com](https://web.archive.org/web/20101127043848id_/http%3A//directspecialstoday.com/feedback@directspecialstoday.com) and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate. You may also contact us by mail at the following address:
+If you have any questions or comments about this Policy or the practices relating to this Site, or you wish to verify, correct or delete any personal information we have collected, please contact us at [feedback@directspecialstoday.com](https://web.archive.org/web/20111226151016id_/http%3A//directspecialstoday.com/feedback@directspecialstoday.com) and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate. You may also contact us by mail at the following address:
 
 Direct Specials Today  
 Attn: Privacy Policy  
-PO Box 5680  
-Santa Monica, CA 90409
+3435 Ocean Park Blvd. #107 PMB 319  
+Santa Monica, CA 90405
 
 However, please note that in some cases, we may believe it is necessary or appropriate to retain certain personal information we have collected, and the deletion of such personal information will be in our sole discretion unless otherwise required by law. 
