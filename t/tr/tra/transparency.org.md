@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the transparency.org privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627104938id_/http%3A//www.transparency.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transparency.org privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226054201id_/http%3A//transparency.org/privacy) for the most accurate reproduction.*
 
-# privacy policy/Misc
+# Misc/privacy policy
 
 ## Privacy Policy
 
