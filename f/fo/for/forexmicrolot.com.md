@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexmicrolot.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629212318id_/http%3A//www.forexmicrolot.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexmicrolot.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226225948id_/http%3A//www.forexmicrolot.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # FXCM Micro Limited Privacy Policy
 
