@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the decoist.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506040615id_/http%3A//www.decoist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decoist.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226082055id_/http%3A//www.decoist.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Modern Interior Design & Furniture - Decoist
 
 At www.decoist.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.decoist.com and how it is used.
 
