@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606112131id_/http%3A//www.letstalk.com/about/security1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226115842id_/http%3A//www.letstalk.com/about/security1.htm) for the most accurate reproduction.*
 
 # Privacy & Security
 
 [](http://www.truste.org/ivalidate.php?url=www.letstalk.com&sealid=101)Privacy Policy  
-_Last Updated: 3/25/2011_
+_Last Updated: 6/27/2011_
 
 **Your Privacy Is Not for Sale**  
 Simply put, we do not and will not sell your personally identifiable information to anyone, for any reason. 
 
 LetsTalk.com is committed to protecting your privacy and providing a secure shopping environment. We use the personal information you supply to process your order and make your shopping experience more enjoyable. By using the latest in secure transaction technologies and practicing a strict privacy policy, LetsTalk.com strives to protect your personal information. Read on for details. 
 
-LetsTalk is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site [www.letstalk.com](http://www.letstalk.com/). Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first [contact us](https://web.archive.org/about/emailsubmit.htm?htId=6) by e-mail through our online form. [Click here](https://web.archive.org/about/emailsubmit.htm?htId=6) to access it. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison with the website to resolve users concerns. 
+LetsTalk.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [http://www.letstalk.com/about/contact1.htm](http://www.letstalk.com/about/contact1.htm#contactinfo). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 What kind of information do we collect?  
 We collect information at several stages during your interaction with LetsTalk.com. When you first enter our site, we note your IP address in connection to your shopping cart and to help with administrating the site. As you browse the site, we record your zipcode via a cookie so we can serve more location specific information on your next visit. (Learn more about [cookies](https://web.archive.org/about/security1.htm#cookies)) 
