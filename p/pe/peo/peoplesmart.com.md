@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the peoplesmart.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628222715id_/http%3A//www.peoplesmart.com/%3F_act%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplesmart.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226121549id_/http%3A//www.peoplesmart.com/%3F_act%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - PeopleSmart
 
 **Effective Date: September 1, 2010**
 
-[Click here](http://www.peoplesmart.com/?_act=principles) to learn more about how we protect your privacy and how to manage your information in our databases.
+[Click here](http://www.peoplesmart.com/privacy) to learn more about how we protect your privacy and how to manage your information in our databases.
 
 ## TRUSTe
 
@@ -55,10 +55,10 @@ In an effort to protect against fraud and misuse of our Website and Services, we
 
 ## How You Can Contact Us About Privacy Questions
 
-If you have questions or concerns regarding this policy, you should contact us by writing to us at PeopleSmart.com, Attn: Privacy Department, P.O. Box 391146, Omaha, NE 68139. PeopleSmart.com maintains offices at 101 University Avenue # 320, Palo Alto, CA 94301. 
+If you have questions or concerns regarding this policy, you should contact us by writing to us at PeopleSmart.com, Attn: Privacy Department, P.O. Box 391146, Omaha, NE 68139. PeopleSmart.com maintains offices at 555 Twin Dolphin Drive #200, Redwood City, CA 94065. 
 
 Privacy Department  
 P.O. Box 391146  
 Omaha, NE 68139
 
-(Please do not write to us for opt-out requests, but instead use our [online form](http://www.peoplesmart.com/?_act=optout).)
+(Please do not write to us for opt-out requests, but instead use our [online form](http://www.peoplesmart.com/optout).)
