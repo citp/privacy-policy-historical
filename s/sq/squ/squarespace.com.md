@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squarespace.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609033943id_/http%3A//www.squarespace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squarespace.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226223027id_/http%3A//www.squarespace.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Squarespace
 
@@ -128,11 +128,7 @@ This Privacy Policy covers the use of cookies by Squarespace, Inc. only and does
 
 Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. See Third Party Advertisers. 
 
-### 9\. Third Party Advertisers
-
-The ads appearing on this website are delivered to users by Google, our advertising partner. We do not share your personally identifiable information with Google to deploy these advertisements. 
-
-For more information related to Google AdSense advertisements, please click here. 
+### 9\. Intentionally Omitted 
 
 ### 10\. Bulletin Boards/Chat Rooms/Member Websites
 
