@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reeceandnichols.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617071237id_/http%3A//www.reeceandnichols.com/Content/Content.aspx%3FFooterID%3D183793) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reeceandnichols.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226052759id_/http%3A//www.reeceandnichols.com/Content/Content.aspx%3FFooterID%3D183793) for the most accurate reproduction.*
 
 # PRIVACY | Kansas City Homes for Sale with Reece & Nichols.
 
