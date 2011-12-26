@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mynewplace.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523152945id_/http%3A//www.mynewplace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynewplace.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226181540id_/http%3A//www.mynewplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyNewPlace
 
 [](http://www.truste.com/ivalidate.php?url=www.mynewplace.com&sealid=101)
 
-Effective April 24, 2006 (Updated September 16, 2010)
+Effective April 24, 2006 (Updated June 6, 2011)
 
 Protecting the privacy of our users is very important to MyNewPlace.  When you register at MyNewPlace.com, the Personally Identifiable Information you provide to us is used to provide the services you have registered for, to deliver email notifications to you, and from time to time, to validate your identity.  Our data collection policies allow you to choose how much information you provide to us, and to control how we use that Personally Identifiable Information as set forth below.  To find out more, please read on.
 
@@ -30,6 +30,8 @@ We use third-party tracking services through Omniture that use cookies to track 
 In order to use the basic features of this Web site, you need not register or provide any personal information. However, if you wish to save any properties you’ve located, view specific details of a property or contact a property for information, you must first complete the registration form and create a user name and password or use the Login with Facebook button.  During registration you are required to give contact information (such as name and email address) as well as the time frame in which you intend to move.  If you use the Login with Facebook button, Facebook will make certain personally identifiable information available to us, such as your name, current city, and email address after you choose to allow us access. We use this information to contact you about the services on our site in which you have expressed interest.  When you register with MyNewPlace, the information you provide to us is used to provide the service for which you have registered.  Depending on the services you have chosen to use, some or all of your Personally Identifiable Information may be used by MyNewPlace to provide such services.  Personally Identifiable Information may also be provided to intermediaries and third parties who assist MyNewPlace in providing you with the service upon your request. For example, if you register and desire to contact a property, some of your personally identifiable information may be shown to the property (e.g., contact information and time frame for moving). Except as otherwise provided in this Privacy Policy, however, MyNewPlace will not rent or sell your Personally Identifiable Information to third parties without your permission.
 
 MyNewPlace is the sole owner of the information collected on www.mynewplace.com.  MyNewPlace may collect Personally Identifiable Information from our users at several different points on our Web site.
+
+We will retain your information for as long as your account is active or as needed to provide you services.  If you wish to cancel your account or request that we no longer use your information to provide you services contact us at consumercare@mynewplace.com.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements **.**
 
  **Access to Personally Identifiable Information**
 
@@ -77,9 +79,9 @@ Your friend may contact us at consumercare@mynewplace.com to request that we rem
 
  **TRUSTe**
 
-MyNewPlace.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.mynewplace.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+MyNewPlace.com has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the Web site www.mynewplace.com.
 
-If you have questions or concerns regarding this statement, you should first contact Director of Marketing via email at consumercare@mynewplace.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [**http://www.truste.com/consumers/watchdog_complaint.php**](http://www.truste.com/consumers/watchdog_complaint.php) TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Director of Marketing via email at consumercare@mynewplace.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
  **Cookies**
 
@@ -101,6 +103,14 @@ We may employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bu
 
 The ads appearing on this web site, if any, may be delivered to users by third-party advertising companies.  Third-party advertising companies may use cookies and clear GIFs on this site, which allow it to recognize a user’s cookie when a user visits this site.  The companies serve their ads from their own web sites, independently from MyNewPlace.  The information that the third-party advertising companies collect and share through this technology is not personally identifiable, unless you provide such information in response to an advertisement.
 
+ **Targeted Ads Disclosure**
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+
+ **Facebook Connect or other OpenID provider**
+
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
  **Links to Other Sites**
 
 This Web site contains links to other sites that are not owned or controlled by MyNewPlace. Please be aware that we, MyNewPlace, are not responsible for the privacy practices of such other sites.  We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information.
@@ -117,11 +127,11 @@ When you use “Share This” to bookmark and share our products and site, you w
 
  **Security**
 
-MyNewPlace operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the information provided by our customers.  You the consumer are ultimately responsible for the security of your MyNewPlace Member Name and password.  Please take care to store your Member Name separately from your account password, or better yet, choose a password that you don’t need to write down at all.
+MyNewPlace operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the information provided by our customers.  No method of transmission over the Internet, or method of electronic storage, is 100% secure.  Therefore, we cannot guarantee its absolute security. You the consumer are ultimately responsible for the security of your MyNewPlace Member Name and password.  Please take care to store your Member Name separately from your account password, or better yet, choose a password that you don’t need to write down at all.
 
  **Business Transitions**
 
-In the event MyNewPlace goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets as well as in the event of a bankruptcy, assignment for benefit of creditors or receivership, your personally identifiable information may be disclosed and will likely be among the assets transferred.  You will be notified via prominent notice on our web site for 30 days of any such change in ownership or control of your personal information.
+In the event MyNewPlace goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets as well as in the event of a bankruptcy, assignment for benefit of creditors or receivership, your personally identifiable information may be disclosed and will likely be among the assets transferred.  You will be notified via prominent notice on our web site for 30 days of any such change in ownership or control of your personal information, as well as any choices you may have regarding your personal information.
 
  **Legal Disclaimer**
 
@@ -139,7 +149,7 @@ For more information about a third party service provider, or to learn more abou
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our home page.
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our home page prior to the change becoming effective.
 
  **Contact Us**
 
