@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the opentable.co.uk privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623115444id_/http%3A//www.opentable.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentable.co.uk privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226195413id_/http%3A//www.opentable.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Online Reservations Privacy Policy - OpenTable
 
-**Effective November, 2010**
+**Effective November, 2011**
 
 OpenTable, Inc., along with its subsidiaries or affiliated companies ("OpenTable"), is committed to safeguarding your privacy. This Privacy Policy describes OpenTable’s policies and procedures on the collection, use and disclosure of the information collected through OpenTable's websites, which include [www.opentable.com](http://www.opentable.com/), [www.opentable.co.uk](http://www.opentable.co.uk/), [www.opentable.jp](http://www.opentable.jp/), [www.opentable.de](http://www.opentable.de/), and mobile applications as well as any other sites owned or operated by OpenTable (hereinafter referred to collectively as the "OpenTable Websites").
 
 **About the OpenTable Network**
 
-Each of the restaurants listed on the OpenTable Websites has adopted OpenTable’s proprietary Electronic Reservation System (“the OpenTable System”) to replace their traditional pen-and-paper reservation books. The OpenTable Websites interact with restaurants’ OpenTable Systems to find available tables, to secure, change or cancel online reservations, and to confirm that reservations were honored. While an individual restaurant’s table inventory is accessible to the OpenTable Websites to perform these functions, other diner information that may be stored by that restaurant (for example, credit card numbers or reminders about diner preferences) is not accessible to the OpenTable Websites. Similarly, the OpenTable Websites pass pertinent information to the OpenTable System in individual restaurants as required to secure or cancel online reservations, for example. However, individual restaurants cannot access any information from the OpenTable Websites. In some instances a restaurant may operate its own website and collect a myriad of diner/user information directly as part of the online reservation process. In those cases, only the information passed directly to the OpenTable Website to complete the transaction is stored by the OpenTable Website (e.g. diner name, phone and email address). 
+Each of the restaurants listed on the OpenTable Websites has adopted OpenTable’s proprietary Electronic Reservation System (“the OpenTable System”) to replace their traditional pen-and-paper reservation books. The OpenTable Websites interact with restaurants’ OpenTable Systems to find available tables, to secure, change or cancel online reservations, and to confirm that reservations were honored. While an individual restaurant’s table inventory is accessible to the OpenTable Websites to perform these functions, other diner information that may be stored by that restaurant (for example, credit card numbers or reminders about diner preferences) is not accessible to the OpenTable Websites. Similarly, the OpenTable Websites pass pertinent information to the OpenTable System in individual restaurants as required to secure or cancel online reservations, for example. However, individual restaurants cannot access any information from the OpenTable Websites. In some instances a restaurant may operate its own website and collect a myriad of diner/user information directly as part of the online reservation process. In those cases, only the information passed directly to the OpenTable Website to complete the transaction is stored by the OpenTable Website (e.g. diner name, phone and email address).
 
-An online reservation may also be made through a restaurant’s website or via an OpenTable affiliate’s web link. Similarly, your personal information is passed through from these sites onto the OpenTable System. If you choose to make a reservation through these channels, you may not be entitled to receive dining points or other benefits as you would as a Registered User through the OpenTable Website. 
+An online reservation may also be made through a restaurant’s website or via an OpenTable affiliate’s web link. Similarly, your personal information is passed through from these sites onto the OpenTable System. If you choose to make a reservation through these channels, you may not be entitled to receive dining points or other benefits as you would as a Registered User through the OpenTable Website.
 
 This document describes how OpenTable Website user information is collected, stored, used and, in specific instances, shared with restaurants via their OpenTable System.
 
@@ -62,13 +62,13 @@ You can choose to access certain third party social media web sites and services
 
 OpenTable may use your personal information for the following purposes: 
 
-  1. to secure your reservation at the OpenTable restaurant you've selected, by providing your name and contact phone number to that restaurant, 
-  2. to provide you with dining gift certificates and other products and services of the OpenTable Websites, 
-  3. to provide you with information about the services of the OpenTable Websites, 
-  4. to provide services which Registered Users are entitled to under applicable terms and conditions, 
-  5. to produce aggregate statistical data for the improvement of services offered by the OpenTable Websites, 
-  6. to provide you with restaurant recommendations based on your dining history, 
-  7. for any other purposes related to those above. 
+  1. to secure your reservation at the OpenTable restaurant you've selected, by providing your name and contact phone number to that restaurant,
+  2. to provide you with dining gift certificates and other products and services of the OpenTable Websites,
+  3. to provide you with information about the services of the OpenTable Websites,
+  4. to provide services which Registered Users are entitled to under applicable terms and conditions,
+  5. to produce aggregate statistical data for the improvement of services offered by the OpenTable Websites,
+  6. to provide you with restaurant recommendations based on your dining history,
+  7. for any other purposes related to those above.
 
 
 
@@ -78,41 +78,41 @@ Once a Registered User logs on to the OpenTable Websites, that user can view his
 
 **Cookies, web beacons and logging:**
 
-Log-in areas on the OpenTable Websites require that your browser accept cookies. A cookie is a small amount of information that is sent from a web server to your browser and stored on your computer's hard drive. OpenTable uses cookies to verify that you are properly signed in, to display information for your primary dining location, and to highlight your pending reservations, for example. OpenTable may also use cookies from time to time to measure your response to new aspects of the websites and/or emails in an effort to continually improve customer service and website usability. Please be aware that a cookie cannot spread computer viruses, retrieve any other data from your hard drive, or capture your email address. 
+Log-in areas on the OpenTable Websites require that your browser accept cookies. A cookie is a small amount of information that is sent from a web server to your browser and stored on your computer's hard drive. OpenTable uses cookies to verify that you are properly signed in, to display information for your primary dining location, and to highlight your pending reservations, for example. OpenTable may also use cookies from time to time to measure your response to new aspects of the websites and/or emails in an effort to continually improve customer service and website usability. Please be aware that a cookie cannot spread computer viruses, retrieve any other data from your hard drive, or capture your email address.
 
-You can erase or block cookies from your computer if you wish to do so (your internet browser help screen or manual will thoroughly explain this process), but certain OpenTable services, as well as parts of the website, may not work correctly or will not work at all if your browser is set not to accept cookies. 
+You can erase or block cookies from your computer if you wish to do so (your internet browser help screen or manual will thoroughly explain this process), but certain OpenTable services, as well as parts of the website, may not work correctly or will not work at all if your browser is set not to accept cookies.
 
 Web pages may contain electronic images (called a "single-pixel GIF" or "web beacon") that are used to count users who have visited that page, or to access certain cookies. 
 
 **How OpenTable uses your personal information:**
 
-OpenTable will **never** sell, rent, loan or otherwise distribute any of your personal information (including but not limited to your name, email address, phone number or any other identifiable information about you) to any third party without your prior expressed written consent, although OpenTable will pass certain information on to restaurants at which you make reservations as described above. 
+OpenTable will **never** sell, rent, loan or otherwise distribute any of your personal information (including but not limited to your name, email address, phone number or any other identifiable information about you) to any third party without your prior expressed written consent, although OpenTable will pass certain information on to restaurants at which you make reservations as described above.
 
-OpenTable does use aggregate data (based partly on IP addresses of website visitors) collected through its website to analyze website usability, system performance and usage trends. While this data, in its aggregate form only, may be shared with third parties with whom OpenTable works to analyze it, the data will only be shared under the strictest terms of confidentiality and will never contain any personally identifiable information pertaining to any user of the OpenTable Websites. 
+OpenTable does use aggregate data (based partly on IP addresses of website visitors) collected through its website to analyze website usability, system performance and usage trends. While this data, in its aggregate form only, may be shared with third parties with whom OpenTable works to analyze it, the data will only be shared under the strictest terms of confidentiality and will never contain any personally identifiable information pertaining to any user of the OpenTable Websites.
 
 Specifically, through an association with a company named Omniture, Inc. ("Omniture"), OpenTable may use web beacons and the SiteCatalyst Analytics auditing software to track page views and entry and exit points to and from OpenTable Websites. Omniture may place and analyze the cookies on your internet browser to help determine the effectiveness of OpenTable advertising and marketing campaigns. Again, the data collected will only be used in an aggregate form and will not contain any personally identifiable information, and only OpenTable and Omniture will have access to this aggregate data. Omniture is legally bound to OpenTable under strict confidentiality provisions and will never share any of this data with any third party or use this information for any other purpose not described herein. You may choose to opt-out of Omniture's analysis of your browsing behavior on the OpenTable Websites. To learn more about Omniture, the SiteCatalyst Analytics software or to exercise your opt-out choices, please visit: <http://www.omniture.com/en/company/acquisitions/visualsciences/privacy/policy>
 
-In addition, through an association with a company named Silverpop, OpenTable uses web beacons and cookies to monitor behavior with respect to email sent by OpenTable to Registered Users who have opted to receive email from OpenTable. 
+In addition, through an association with a company named Silverpop, OpenTable uses web beacons and cookies to monitor behavior with respect to email sent by OpenTable to Registered Users who have opted to receive email from OpenTable.
 
-If you choose to provide feedback on your dining experience by completing a Dining Feedback Form, any feedback you provide may be shared with other diners to enhance information on the OpenTable Websites and/or with restaurants to let restaurants know how they are doing. Your feedback will not be publicized in a way that is attributable to you by name, email address, or any other identifiable form unless you choose to provide that information within the Dining Feedback Form itself, use functions that enable you to send your Dining Feedback Form to others, or make the information public on any portions of your registered-user Profile. However, there is the potential that a restaurant may associate a particular feedback with your dining reservation. 
+If you choose to provide feedback on your dining experience by completing a Dining Feedback Form, any feedback you provide may be shared with other diners to enhance information on the OpenTable Websites and/or with restaurants to let restaurants know how they are doing. Your feedback will not be publicized in a way that is attributable to you by name, email address, or any other identifiable form unless you choose to provide that information within the Dining Feedback Form itself, use functions that enable you to send your Dining Feedback Form to others, or make the information public on any portions of your registered-user Profile. However, there is the potential that a restaurant may associate a particular feedback with your dining reservation.
 
 Notwithstanding anything to the contrary in this privacy policy, OpenTable may be required to disclose user and personal information in response to inquiries by formal law enforcement, or in cases permitted by the United State's CAN-SPAM Act of 2003 (CAN-SPAM), the European Union's Safe Harbor Provisions ("Safe Harbor"), Japan's Personal Information Protection Act ("PIPA"), or other related privacy laws and regulations. 
 
 **How restaurants may use your personal information:**
 
-Restaurants in the OpenTable network primarily use diner information provided through the OpenTable Websites to secure the desired reservations. Additionally, as noted above, if the user has given permission to a restaurant to send email to that user's address, the restaurant may then contact the diner with special announcements or offers. If permission is not given, the user's email address will not be passed on to the restaurant. 
+Restaurants in the OpenTable network primarily use diner information provided through the OpenTable Websites to secure the desired reservations. Additionally, as noted above, if the user has given permission to a restaurant to send email to that user's address, the restaurant may then contact the diner with special announcements or offers. If permission is not given, the user's email address will not be passed on to the restaurant.
 
-OpenTable restaurants want to provide you with the best possible service so that you will visit them again. One way restaurants can distinguish themselves is by recognizing returning diners and recalling their special preferences. For this reason, a restaurant may use its OpenTable System to take note of your special requests, allergies, special occasions or other pertinent information that will help the restaurant serve you better during your next visit. If a restaurant chooses to note your preferences, that information may be typed into its OpenTable System manually just as a restaurant might write a note on an index card. This data belongs to the restaurant, since it is a product of that restaurant's relationship with you. OpenTable does not access or use this information, and it is not shared with any other OpenTable restaurant or third party, other than, perhaps, a restaurant under the same ownership. OpenTable does create back-up copies of all information stored on the OpenTable System for that restaurant, to assist in the restoration process in the event of data loss. 
+OpenTable restaurants want to provide you with the best possible service so that you will visit them again. One way restaurants can distinguish themselves is by recognizing returning diners and recalling their special preferences. For this reason, a restaurant may use its OpenTable System to take note of your special requests, allergies, special occasions or other pertinent information that will help the restaurant serve you better during your next visit. If a restaurant chooses to note your preferences, that information may be typed into its OpenTable System manually just as a restaurant might write a note on an index card. This data belongs to the restaurant, since it is a product of that restaurant's relationship with you. OpenTable does not access or use this information, and it is not shared with any other OpenTable restaurant or third party, other than, perhaps, a restaurant under the same ownership. OpenTable does create back-up copies of all information stored on the OpenTable System for that restaurant, to assist in the restoration process in the event of data loss.
 
-As specified previously, for select restaurants and/or holidays, you may be required to provide valid credit card information that will be passed on to and handled by the restaurants individually in order to secure the reservation. Please contact the restaurant(s) directly for inquiries on how they will manage your credit card information. 
+As specified previously, for select restaurants and/or holidays, you may be required to provide valid credit card information that will be passed on to and handled by the restaurants individually in order to secure the reservation. Please contact the restaurant(s) directly for inquiries on how they will manage your credit card information.
 
-The restaurants within OpenTable's network are separate businesses from OpenTable. While OpenTable encourages them to comply with data protection requirements, OpenTable will not be responsible if these restaurants fail to comply with respect to your information. Any complaints or inquiries regarding use of your information by an OpenTable restaurant, or marketing communications from an OpenTable restaurant, should be addressed directly to the restaurant in question. 
+The restaurants within OpenTable's network are separate businesses from OpenTable. While OpenTable encourages them to comply with data protection requirements, OpenTable will not be responsible if these restaurants fail to comply with respect to your information. Any complaints or inquiries regarding use of your information by an OpenTable restaurant, or marketing communications from an OpenTable restaurant, should be addressed directly to the restaurant in question.
 
 Restaurants within the OpenTable network may also have their own websites. OpenTable is not responsible for how these restaurants may collect your personal information through their own websites. Please contact the appropriate restaurant regarding its website's privacy policy (if applicable) and how it will access or use your personal information. 
 
 **How OpenTable protects your registration information:**
 
-OpenTable uses a state-of-the-art multi-layer encryption algorithm and makes its best efforts to ensure that all of your user information is secure. In addition, OpenTable stores all of your personal information on a secure server. OpenTable employs a staff that regularly maintains the security of all personal information stored, and that continually monitors and implements changes and improvements that become available in the electronic data security industry. 
+OpenTable uses a state-of-the-art multi-layer encryption algorithm and makes its best efforts to ensure that all of your user information is secure. In addition, OpenTable stores all of your personal information on a secure server. OpenTable employs a staff that regularly maintains the security of all personal information stored, and that continually monitors and implements changes and improvements that become available in the electronic data security industry.
 
 **Changes to OpenTable's privacy policy:**
 
@@ -126,9 +126,9 @@ If you wish to have OpenTable disclose to you the personal information held by O
 
 _**United States and Europe**_
 
-For questions regarding how to access and change your personal information visit [http://www.opentable.com/](http://www.opentable.com/contactuslink.aspx?faq=0) or contact customer support at 1-800-OPENTABLE. 
+For questions regarding how to access and change your personal information visit [http://www.opentable.com/](http://www.opentable.com/contactuslink.aspx?faq=0) or contact customer support at 1-800-OPENTABLE .
 
-For questions or opinions on OpenTable's privacy policy, contact OpenTable via email at [info@opentable.com](mailto:info@opentable.com) or by mail at: OpenTable, Attn: Legal Department, 799 Market Street 4th Floor, San Francisco, CA 94103. 
+For questions or opinions on OpenTable's privacy policy, contact OpenTable via email at [info@opentable.com](mailto:info@opentable.com) or by mail at: OpenTable, Attn: Legal Department, 799 Market Street 4th Floor, San Francisco, CA 94103.
 
 **_Japan_**
 
@@ -136,12 +136,11 @@ For questions regarding Privacy Policy and information regarding Personal Inform
 
 **_Safe Harbor Program_**
 
-OpenTable is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce’s [Safe Harbor Web site](http://www.export.gov/safeHarbor/). 
+OpenTable is a participant in the U.S.-EU Safe Harbor program and the U.S.-Swiss Safe Harbor program.  We have certified that we adhere to the U.S.-EU Safe Harbor Privacy Principles and U.S.-Swiss Safe Harbor Privacy Principles. For more information about the Safe Harbor program and to view our certification, visit the U.S. Department of Commerce’s [Safe Harbor Web site](http://www.export.gov/safeHarbor/).
 
-[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)   
-[](http://www.export.gov/safeharbor)  
-
+[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)  
+[](http://www.export.gov/safeharbor)
 
 **_BBB Safe Harbor Privacy Dispute Resolution_**
 
-OpenTable is a participant in the Council of Business Bureau's BBB Safe Harbor Privacy Dispute Program. If you believe OpenTable has not satisfactorily addressed your data privacy concerns, you may contact the Council of Business Bureau at www.bbb.org 
+OpenTable is a participant in the Council of Business Bureau's BBB Safe Harbor Privacy Dispute Program. If you believe OpenTable has not satisfactorily addressed your data privacy concerns, you may contact the Council of Business Bureau at www.bbb.org
