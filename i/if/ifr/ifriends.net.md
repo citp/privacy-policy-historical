@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifriends.net privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627214136id_/http%3A//www.ifriends.net/ifpage.dll%3Ft%3Dsite/General/Legal/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifriends.net privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226054112id_/http%3A//www.ifriends.net/ifpage.dll%3Ft%3Dsite/General/Legal/Privacy) for the most accurate reproduction.*
 
 # Privacy Statement for iFriends
 
