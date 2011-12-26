@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the internetmarketingspeed.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420151041id_/http%3A//www.internetmarketingspeed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetmarketingspeed.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226033751id_/http%3A//www.internetmarketingspeed.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Internet Marketing Speed
+# Privacy Internet Marketing Business Blog James Schramko
 
 [Privacy](http://www.internetmarketingspeed.com/privacy/ "Privacy") Policy
 
-We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. J-Six Solutions abides by the National Privacy Principles established under the Australian Privacy Amendment (Private Sector) Act, 2001.
+We have created this [privacy](http://www.internetmarketingspeed.com/privacy/) statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. J-Six Solutions abides by the National Privacy Principles established under the Australian Privacy Amendment (Private Sector) Act, 2001.
 
 We recognise the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers’ needs.
 
