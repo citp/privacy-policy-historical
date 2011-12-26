@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpthemesdownload.net privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626030845id_/http%3A//wpthemesdownload.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpthemesdownload.net privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226232949id_/http%3A//wpthemesdownload.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Wordpress Premium Themes Download
 
@@ -29,11 +29,10 @@ Last updated Sat, 25 Dec 2010 06:15
 
 #### Incoming search terms:
 
-  * internet provider themes wordpress free download
-  * wordpress policy theme
-  * premium templates wordpress party
-  * premium themes party
-  * theme policy wordpress premium
+  * Easy Privacy Policy plugin download
+  * download easy privacy policy plugin
+  * easy privacy policy wordpress plugin download
+  * download easy privacy policy
 
 
 
