@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otherinbox.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520230835id_/http%3A//www.otherinbox.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otherinbox.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227001127id_/http%3A//www.otherinbox.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | OtherInbox
 
@@ -8,7 +8,7 @@
 
 #### Information CoIIected
 
-When you register for our services OtherInbox may collect information including, but not limited to, first and last name, email address, user name, and password.
+When you register for our services OtherInbox may collect information including, but not limited to, first and last name, email address, and user name.
 
 Most of our services also involve accessing your email messages and contacts. We take this responsibility very seriously. We store as little information as is required to provide the service and delete old information when possible.
 
