@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ogilvy.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615040535id_/http%3A//www.ogilvy.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogilvy.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226204109id_/http%3A//www.ogilvy.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Ogilvy & Mather
 
