@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the refinery29.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615033911id_/http%3A//www.refinery29.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refinery29.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226202313id_/http%3A//www.refinery29.com/privacy) for the most accurate reproduction.*
 
 # Fashion Trends - Current Fashion Trends - Refinery29.com
 
