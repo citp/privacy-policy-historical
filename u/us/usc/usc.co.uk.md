@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usc.co.uk privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605210744id_/http%3A//www.usc.co.uk/Privacy-Policy/M116_EDITORIAL_CONTENT_PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usc.co.uk privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226221503id_/http%3A//www.usc.co.uk/Privacy-Policy/M116_EDITORIAL_CONTENT_PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy @ USC
 
@@ -46,5 +46,5 @@ Your personal information may be disclosed to other businesses within the USC an
   
 We may update our policies from time-time by posting a new version on our website. You should check our policy pages occasionally to ensure you are happy with any changes.
 
-  
-Registered Office _West Coast Capital (USC) Ltd. c/o McGrigors, 5 Old Bailey, London, EC4M 7BA_
+Registered Office _West Coast Capital (USC) Ltd. Unit A Brook Park, East Road, Shirebrook, Mansfield, Nottinghamshire, NG20 8RY_  
+Registered in England. VAT Registration number 115 0889 20. Company number 04380754
