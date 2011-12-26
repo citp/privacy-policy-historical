@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tastebuds.fm privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622011826id_/http%3A//tastebuds.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastebuds.fm privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226230127id_/http%3A//tastebuds.fm/privacy) for the most accurate reproduction.*
 
-# Tastebuds - Privacy Policy
+# Privacy Policy - Tastebuds
 
   1. ### 1\. Information collected
 
