@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microsoftstore.co.in privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612070546id_/http%3A//www.microsoftstore.co.in/Privacy_Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microsoftstore.co.in privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226062426id_/http%3A//www.microsoftstore.co.in/Privacy_Statement.aspx) for the most accurate reproduction.*
 
 # Microsoft Store Quasar Privacy Statement
 
@@ -82,10 +82,10 @@ Service email: [Support@micrososft.co.in](mailto:Support@micrososft.co.in)
 
 You also can reach us by post: 
 
-Quasar Media Pvt. Ltd. Vishal House,   
-136A, 2nd Floor, Zamrudpur,  
-Opp. LSR College,   
-New Delhi – 110 048 
+Quasar Media Pvt. Ltd.   
+426 , Udyog Vihar Phase- 3,  
+Gurgaon, (Haryana) 122001,   
+0124-4734648 
 
 The Quasar department for online data protection will work together with you to find a solution that allays your concerns with regard to this data protection information. 
 
