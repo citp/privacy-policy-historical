@@ -1,117 +1,169 @@
-> *The following text is extracted and transformed from the cardratings.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515090539id_/http%3A//www.cardratings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardratings.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227003645id_/http%3A//www.cardratings.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy CardRatings.com Privacy Statement
 
-Updated as of January 5, 2009
+**LAST UPDATED:   **March 22, 2011
 
-If you have questions or concerns regarding this privacy policy, please see our contact details at the end of this document.
+**QuinStreet, Inc.** is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through this website owned and controlled by us which display or link to this Privacy Policy (the “ **Site** ”).  By using our Sites, you agree to the terms and conditions of this Privacy Policy
 
-**Your privacy is our main concern**
+**CERTIFICATIONS**
 
-U.S. Citizens for Fair Credit Card Terms, Inc., d/b/a CardRatings.com, has created this privacy policy in order to demonstrate our firm commitment to safeguarding the privacy of your personal information. The following discloses how we gather information, how that information is shared, and what practices CardRatings implements to ensure your information is safe and protected.
+QuinStreet has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us as described below, if you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-CardRatings does not require you to create an account or share any personally identifiable information in order to personally use the website www.CardRatings.com (the "Website"). By visiting, using and/or submitting information to the Website you indicate your agreement with this Privacy Policy and CardRatings' Terms of Use.
+**Personal Information**
 
-If you choose to apply for a credit card or other offer from the Website, you are taken directly to the card issuer or other vendor's website, and you will provide your information directly to the other party. This privacy policy does not apply to the practices of such websites or any other companies that CardRatings does not own or control or people who CardRatings does not employ.
+**Personal Information We Collect**
+
+“ **Personal Information** ” is information that identifies you as an individual, such as:
+
+  * Name
+  * Postal address
+  * Telephone number
+  * Email address
+  * Credit or debit card number
+
+
+
+In some cases, we may collect information, such as your age, weight, health conditions, insurance type, and whether you’re a non-smoker, combined with your Personal Information.  We will treat all such information as Personal Information as long as it is combined with Personal Information.
+
+We collect Personal Information when you interact with us on the Site.  We may associate Personal Information you provide through the Site with Personal Information collected from other sources.  We will use the combined information in accordance with this Privacy Policy as long as it is combined.
+
+**How We Use Personal Information**
+
+We may use Personal Information:
+
+  * When you request, to connect you with vendors who will provide you with information about products and services.
+  * to respond to your inquiries and fulfill your requests, such as to send you newsletters.
+  * to send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information.
+  * to send you surveys and marketing communications that we believe may be of interest to you.
+  * to personalize your experience on the Site and our other websites by presenting advertising, products and offers tailored to you.
+  * to allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully.
+  * to allow you to send messages to a friend through the Site. By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address.
+  * for our business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns.
+  * if you purchase a product or service from us, to complete and fulfill your purchase, for example, to have your payments processed, communicate with you regarding your purchase and provide you with related customer service.
+
+
+
+**How Personal Information is Disclosed**
+
+Your Personal Information may be disclosed:
+
+  * to our affiliates, including but not limited to QuinStreet Media, Inc. and WorldWideLearn, Inc., for the purposes described in this Privacy Policy. QuinStreet, Inc. is the party responsible for the management of the jointly-used Personal Information.
+  * to our third party service providers who provide services such as contact information verification, payment processing, order fulfillment, customer service, website hosting, data analysis, infrastructure provision, IT services, email delivery services, auditing services and other similar services to enable them to provide services.
+  * if you request information from vendors so that they (or so that third parties who provide similar services) can provide you with information about their products and services.  We are not responsible or liable for vendors’ use of your Personal Information.
+  * if you choose to download a white paper, eBook, or other resource, to our clients, partners and current and future sponsors of that resource. If you do not want to be contacted by these third parties, please do not download, view or otherwise access the white papers, eBooks and other resources.
+  * if you post your resume on the Site and elect to permit it to be searched by potential employers and staffing agencies, to these potential employers and staffing agencies. We do not control the use and disclosure of Personal Information by these potential employers and staffing agencies. While it is our goal that only employers or staffing agencies will gain access to Personal Information in resumes, we cannot guarantee that no other persons or entities will gain such access. WE ARE NOT RESPONSIBLE FOR THE USE OR DISCLOSURE BY OTHERS OF ANY PERSONAL INFORMATION YOU DISCLOSE IN YOUR RESUME.
+  * to third party sponsors of sweepstakes, contests and similar promotions.
+  * if you choose to send messages through the Site, to identify you as the sender to the recipient indicated by you. We will ask you for such recipient’s name and email address and we store both email addresses for the purpose of sending such message.
+  * by you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials. Please note that any information you post or disclose through these services will become public information, and may be available to visitors to the Site and to the general public.
+  * by you, if you have provided a testimonial about a site and given us permission to post that testimonial on our site.
+  * to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+  * as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+
+
+
+**NON-personal Information**
+
+**Non-Personal Information We Collect**
+
+“ **Non-Personal Information** ” is any information that does not reveal your specific identity, such as:
+
+  * Browser information
+  * Information collected through cookies, pixel tags and other technologies
+  * Demographic information and other information provided by you
+  * Aggregated information
+
+
+
+**How We Collect Non-Personal Information**
+
+We and our third party service providers may collect Non-Personal Information from you, including your MAC address, your computer type, screen resolution, OS version, Internet browser, as well as demographic data, for example, your location, educational degree, balance on mortgage, value of real estate, income, age, weight, type of insurance, diabetic or smoking-related statistics. We also aggregate Personal Information in a manner such that the end-product does not personally identify you or any other user of the Site, for example, by using Personal Information to calculate the percentage of our users who have a particular telephone area code. We also collect Non-Personal Information through the use of cookies, pixel tags, web beacons, or other similar technologies for example to help identify you and maintain your signed-in status or to measure the effectiveness of e-mail communications. We may link the information we store in cookies to any personally identifiable information you submit while on our site.
+
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. To learn more about cookies, please visit http://www.allaboutcookies.org/.
+
+**How We Use and Disclose Non-Personal Information**
+
+Because Non-Personal Information does not personally identify you, we may use and disclose Non-Personal Information for any purpose.  In some instances, we may combine Non-Personal Information with Personal Information (such as combining your name with your geographical location). If we combine any Non-Personal Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
+
+**IP ADDRESSES**
+
+Your “ **IP Address** ” is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP).
+
+**How We Log IP Addresses**
+
+An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites.
+
+**How We Use and Disclose IP Addresses?   **
+
+We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, geographic mapping and administering the Site. We may also use and disclose IP Addresses for all the purposes for which we use and disclose Personal Information. Please note that we treat IP Addresses, server log files and related information as Non-Personal Information, except where we are required to do otherwise under applicable law.
+
+**THIRD PARTY SITES**
+
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which this Site contains a link or a widget on our site.  The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates.  We may also utilize framing techniques that may make it appear that you are still on the site when you are actually on a third party web site.
+
+**Third Party VENDORS**
+
+We also work with vendors and partners in operating and improving the Site.  These vendors and other partners include advertisers (including both banner and text advertising), retargeters and web analytics companies.  These partners and vendors use cookies, web beacons and other technologies to collect information about your online activity (e.g., the sites and pages you have visited at the Site and at times other third party sites) in order to: help manage ad campaigns, understand user interests and trends and deliver personalized content and advertising to you while you are on the Site or on other sites.  You can opt out of some of our vendors' use of cookies and other technologies to tailor personalized content or advertising to you by visiting <http://networkadvertising.org/optout_nonppii.asp> and <http://www.clicktale.net/disable.html>.  Please note that if you delete all cookies, the opt-out cookie may be deleted and you will need to perform the opt out again.  For more information, see  http://www.networkadvertising.org/managing/faqs.asp#question_11.
+
+PLEASE NOTE THAT WE ARE NOT RESPONSIBLE OR LIABLE FOR THE ACTS AND/OR OMISSIONS OF THIRD PARTY VENDORS.
+
+**security**
+
+We use reasonable organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the _“Contacting Us”_ section below.
+
+The security of your personal information is important to us.  When you enter sensitive information (such as credit card number and personal health information) on our forms, we encrypt that information once it is entered.
+
+**CHOICES AND ACCESS**
+
+**Your choices regarding our use and disclosure of your Personal Information**
+
+We give you choices regarding our use and disclosure of your Personal Information for marketing purposes.  You may opt-out from:
+
+  * **Receiving electronic communications from us and our affiliates** :  If you no longer want to receive marketing-related emails from us and our affiliates on a going-forward basis, you may opt-out of receiving these marketing-related emails by clicking [here](http://www.emchoice.com/unsubscribe/index.jsp?MERID=3589) and following the instructions to unsubscribe.
+  * **Our sharing of your Personal Information with unaffiliated third parties** :  If you would prefer that we do not share your Personal Information on a going-forward basis with unaffiliated third parties for their marketing purposes, you may opt-out of this sharing by contacting us at as further explained in “How you can access, change or suppress your Personal Information” below and requesting that we suppress all of your Personal Information on a going-forward basis.  Please note that if you opt-out of such sharing, we will not be able to remove your Personal Information from the databases of third parties with which we have already shared your Personal Information (i.e., to which we have already provided your Personal Information as of the date that we implement your opt-out request).  If you wish to cease receiving marketing-related e-mails from these third parties, please contact them directly or utilize any opt-out mechanisms in their privacy policies or marketing-related e-mails.
+
+
+
+We will seek to comply with your request(s) as soon as reasonably practicable.  Please note that if you do opt-out of receiving marketing-related messages from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
+
+**How you can access, change or suppress your Personal Information**
+
+If you would like to review, correct, update, suppress, delete or otherwise limit our use, on a going-forward basis, of your Personal Information that has been previously provided to us, you may do so by contacting us at [info@quinstreet.com](mailto:info@quinstreet.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process.  For your protection, we will only implement such requests with respect to the Personal Information associated with the particular e-mail address that you use to send us your request, and we may need to verify your identity before implementing your request. ****
+
+In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. We will try to comply with your request as soon as reasonably practicable.
+
+**RETENTION PERIOD**
+
+We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
+
+**use of site by MINORS**
+
+The Site is not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Site.
+
+**CROSS-BORDER TRANSFER**
+
+Your Personal Information may be stored and processed in any country where we have facilities, and by providing any PII to us, you consent to the transfer of such Personal Information to countries outside of your country of residence, including the United States, which may have different data protection rules from your country of residence.
+
+**SENSITIVE INFORMATION**
+
+we ask that you not send us, and you not disclose, any sensitive Personal Information ( _e.g._ , Social Security number, driver’s license number, credit card number (unless necessary to make a purchase), information related to racial or ethnic origin, political opinions, religion or other beliefs, criminal background or trade union membership) on or through the Site or otherwise to us.
 
 **Your California Privacy Rights**
 
-California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information.
+California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. If you are a California resident you may request this information by writing to us at the address below. QuinStreet, Inc. is not obligated to respond to more than one such request from you per calendar year.
 
-If you are a California resident you may request this information from CardRatings or any of its affiliates by writing to us via email at feedback@cardratings.com or you may send us correspondence at the following address: CardRatings.com, Attn: Privacy, 201 W. Broadway, Suite #G12 North Little Rock, AR 72114. CardRatings is not obligated to respond to more than one such request from a customer per calendar year.
+**UPDATES TO THIS PRIVACY POLICY**
 
-**What Non-Identifying Information Does CardRatings Collect?**
+We may change this Privacy Policy.  Please take a look at the “ _Last Updated_ ” legend at the top of this page to see when this Privacy Policy was last revised. We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here in this policy, by email, or by means of a notice on our home page. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site. Your use of the Site following these changes means that you accept the revised Privacy Policy.
 
-_Information Automatically Logged_
+**CONTACTING US**
 
-Like most standard website servers, we gather information automatically from your browser or Internet session and store it in log files. This information includes your internet protocol (IP) address, the browser type that you are using, Internet service provider (ISP), referring/exit pages, platform or operating system on your computer, date/time stamp, and numberof clicks. We use this non-personally identifiable information to analyze trends, administer the site, track user's movement in aggregate, and gather broad demographic information for aggregate use. We do not link this automatically collected data to personally identifiable information.
+If you have any questions about this Privacy Policy, please contact us by email at [info@quinstreet.com](mailto:info@quinstreet.com), or please write to the following address:
 
-CardRatings also utilizes third party software to collect anonymous, non-personally identifiable information. These vendors collect information such as your IP address and do not allow us to identify you personally. We do not share this non-identifiable information.
+Privacy
 
-_Cookies_
+QuinStreet
 
-A cookie is a piece of data stored on the user's computer tied to information about the user.We only use cookies in the polling section of our forums on our Website. Our site uses cookies to ensure the integrity of our polls. Cookies prevent participants in our poll from voting more than once. This is the only instance on our site that cookies are utilized by CardRatings.
+950 Tower Lane, 6th Floor
 
-This privacy policy covers the use of cookies by CardRatings only. Some of our business partners use cookies on our Website (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. You may disable or reject cookies if your browser permits. Please be advised that this may prevent you from accessing certain features of the Website.
-
-**What Personally Identifying Information Does CardRatings Collect?**
-
-_Registration Forms_
-
-Registration forms found on the Website, such as the forum registration collect information such as user name and e-mail address, and, in the case of the newsletter, only requires an e-mail address. Contact information from the registration forms is used to deliver our newsletter, which is usually done on a monthly basis, and for purposes of allowing users to post on our forum. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
-
-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to analyze user data to better understand and optimize the user experience. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
-
-_Public Forums and Cardholders Card Review Section_
-
-This Website offers a message board and a cardholders card review section, each under the Forum tab of the Website. Please remember that any information that is disclosed in these areas becomes public information, and you should exercise caution when deciding to disclose your personal information. Any information posted on the message board or the cardholders card review section is subject to CardRatings Terms of Use. Anonymous posts are welcome. If you choose to submit, post or transmit information through CardRatings' forums, CardRatings will collect the information as provided by you. CardRatings retains this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law and pursuant to CardRatings Terms of Use.
-
-See CardRating's Terms of Use for specific terms regarding user-generated content.
-
-**Use of Information**
-
-If you elect to provide us with personal information, we may utilize such information for marketing purposes, and this use may result in follow-up communications from CardRatings and our clients.
-
-The non-personally identifiable information that we collect is used for marketing and sales efforts to better target advertisements and other content in an effort to create a more personally relevant experience and to evaluate the effectiveness of Internet properties. The information is also used to predict responses to advertisements, and to help determine which ads perform best, which content is most appropriate for different individuals, how our visitors use our Website, and which pages and features are most popular.
-
-**Links to Other Web Sites**
-
-_External Links_
-
-This Website contains links to other sites that are not owned or controlled by CardRatings. CardRatings is not responsible for the privacy practices or the content of such other sites. We encourage our users to be aware when they leave our Website and to read the privacy statements of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by CardRatings.
-
-**Information sharing**
-
-There are instances in which your personally identifiable and non-personally identifiable information is shared with third parties, as described below.
-
-_Partners:_
-
-Your non-personally identifiable data may be shared with third party partners of CardRatings on an anonymous basis, for example, to track clicks on advertisements or clicks on credit card issuer applications. We also share aggregated demographic information about our user base with our customers. This information does not identify individual users.
-
-_Service Providers and Agents_ :
-
-We partner with other third parties to provide specific services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
-
-Occasionally we hire other companies to provide other services on our behalf, such as handling the processing and delivery of mailings, providing customer support, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.
-
-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to better understand and optimize the user experience. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
-
-_Legally required disclosures:_
-
-CardRatings the right to disclose personally identifiable information as required by law, and when we believe that disclosure is necessary to protect our rights or the safety of users and to comply with judicial proceedings, court order or legal processes served on the Website.
-
-_Business Transactions:_
-
-In the event that CardRatings goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.
-
-**Security**
-
-Since CardRatings does not collect sensitive personal data, it does not encrypt data collected from the Website.
-
-**Choice/Opt-Out**
-
-_Personally Identifiable Information' Opting out:_
-
-Our Website provides users the opportunity to opt-out of receiving the e-mail newsletter as well as promotional/marketing information from us. If you no longer wish to receive information from CardRatings, you may opt-out by following the instructions included with each mailing, or, you may write to us at CardRatings.com, Attn: Newsletter Unsubscribe, 201 W. Broadway, Suite #G12 North Little Rock, AR 72114 to opt-out.
-
-When you register for our newsletter or to make postings on our forum, you may receive responses to customer support, e-mail acknowledgments, and emails regarding media inquires. To opt out of receiving these communications, you must opt out of being a registered user.
-
-_Non-Personally Identifiable Information' Opting out:_
-
-As noted above, our Website collects non-personally identifiable information about your website activities using cookies and other tracking devices. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. Blocking cookies may result in a lower quality experience for you while you are visiting the Website.
-
-**Children's Privacy**
-
-In compliance with the Children's Online Privacy Protection Act (COPPA), CardRatings is not structured to attract children. Accordingly, we do not intend to collect personally identifiableinformation from anyone we know to be under 13 years of age.
-
-**Correcting/Updating/Deleting/Deactivating Personal Information**
-
-You may at any time change your information or opt-out of CardRating's use of your personally identfiable information by contacting us by e-mail at feedback@cardratings.com or by mail at CardRatings.com, Attn: Privacy, 201 W. Broadway, Suite #G12 North Little Rock, AR 72114.
-
-**Changes to Privacy Policy**
-
-By using this Website, you consent to the terms of this privacy policy, as it may be amended from time to time. If we decide to change our privacy policy, we intend to take every reasonable step to ensure that those changes are brought to your attention by posting all changes prominently on our Website for a reasonable period of time and by amending this privacy policy. We reserve the right to modify this privacy policy at any time, so please review it frequently.
-
-**Contact Info**
-
-If you have any questions or concerns about this privacy policy, please let us know your concerns by contacting us. You should first contact us via email at feedback@cardratings.com or you may send us correspondence at the following address: CardRatings.com, Attn: Privacy, 201 W. Broadway, Suite #G12 North Little Rock, AR 72114.
+Foster City, CA 94404
