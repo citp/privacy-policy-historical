@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pupcity.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628095047id_/http%3A//www.pupcity.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pupcity.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227002047id_/http%3A//www.pupcity.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - PupCity.com
 
