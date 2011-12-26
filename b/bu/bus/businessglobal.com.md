@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the businessglobal.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513074128id_/http%3A//www.businessglobal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessglobal.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226144851id_/http%3A//www.businessglobal.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-##  Privacy Policy
+# Virtual trade shows &amp; trade fair exhibitions online at BusinessGlobal.com
 
 **Privacy Statement.**
 
-BusinessGlobal Inc., values the privacy of our users, members, sponsors, and others that organize, participate in and contribute to virtual exhibtions hosted on BusinessGlobal’s proprietary platform. This privacy policy details BusinessGlobal’s privacy practices with regards to personally identifiable information. Effective Date: October 1, 2010. If you feel that BusinessGlobal is not abiding by this privacy policy, you should contact the Privacy Officer at [privacy@businessglobal.com](mailto:privacy@businessglobal.com)   
+BusinessGlobal Inc., values the privacy of our users, members, sponsors, and others that organize, participate in and contribute to virtual exhibitions hosted on BusinessGlobal’s proprietary platform. This privacy policy details BusinessGlobal’s privacy practices with regards to personally identifiable information. Effective Date: October 1, 2010. If you feel that BusinessGlobal is not abiding by this privacy policy, you should contact the Privacy Officer at [privacy@businessglobal.com](mailto:privacy@businessglobal.com)   
 **  
 ****Collection of personal information**
 
@@ -18,12 +16,12 @@ In addition to the information you provide, BusinessGlobal may also collect info
 
 The information BusinessGlobal collects to understand your needs and interests help BusinessGlobal deliver a consistent and personalized experience. For example, BusinessGlobal may use your information to:
 
-  * communicate with you about products and services; 
-  * provide service and support; 
-  * update you on new services and exhibitions; 
-  * provide personalized promotional offers; 
-  * select content to be communicated to you; 
-  * contact you for market research regarding BusinessGlobal products or services. 
+  * communicate with you about products and services;
+  * provide service and support;
+  * update you on new services and exhibitions;
+  * provide personalized promotional offers;
+  * select content to be communicated to you;
+  * contact you for market research regarding BusinessGlobal products or services.
 
 
 
@@ -45,6 +43,6 @@ By using the Service, you consent to BusinessGlobal collection and use of the in
  **  
 Contacting BusinessGlobal  
 **  
-If you have any questions, comments, or concerns about this Privacy Policy, please contact us at [privacy@businessglobal.com](mailto:privacy@businessglobal.com).  We will attempt to respond to your inquiry within 30 days of its receipt.
+If you have any questions, comments, or concerns about this Privacy Policy, please contact us at [privacy@businessglobal.com](mailto:privacy@businessglobal.com). We will attempt to respond to your inquiry within 30 days of its receipt.
 
  **Effective Date/Last Updated: October 1 st, 2010**
