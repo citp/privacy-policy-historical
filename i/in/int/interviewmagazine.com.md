@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interviewmagazine.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123194549id_/http%3A//www.interviewmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interviewmagazine.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226214934id_/http%3A//www.interviewmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Interview Magazine
 
@@ -66,9 +66,9 @@ If you do not want your personally identifiable information to be shared, you ca
 
 You can contact us with regard to this Privacy Policy as follows:
 
-            Interview Online Department   
-            575 Broadway, 5th Floor.   
-            New York, NY 10012   
-            212.941.2800
+Interview Online Department  
+575 Broadway, 5th Floor.  
+New York, NY 10012  
+212.941.2800
 
  For the additional legal obligations that apply to your use of the Site, please see the [Terms of Use](https://web.archive.org/terms/ "View Terms of Use").
