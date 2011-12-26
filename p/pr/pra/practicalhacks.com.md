@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practicalhacks.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619001115id_/http%3A//www.practicalhacks.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicalhacks.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226204102id_/http%3A//www.practicalhacks.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy
 
