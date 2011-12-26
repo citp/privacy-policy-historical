@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desktop-documentaries.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627155244id_/http%3A//www.desktop-documentaries.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktop-documentaries.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226235512id_/http%3A//www.desktop-documentaries.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,7 +45,7 @@ In some cases, we may collect information about you that is not personally ident
 
  **Release of Information**
 
-If Desktop-Documentaries.com is sold, the information we haveobtained from you through your voluntary participation inour site may transfer to the new owner as a part of the salein order that the service being provided to you maycontinue. In that event, you will receive notice through ourwebsite of that change in control and practices, and we willmake reasonable efforts to ensure that the purchaser honorsany opt-out requests you might make of us.
+If Desktop-Documentaries.com is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.
 
  **How You Can Correct or Remove Information**
 
@@ -53,11 +53,11 @@ We provide this privacy policy as a statement to you of our commitment to protec
 
  **Updates and Effective Date**
 
-Desktop-Documentaries.com reserves the right to make changes inthis policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacypolicy. We encourage you to periodically review this policyso that you will know what information we collect and how we use it.
+Desktop-Documentaries.com reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
 
  **Agreeing to Terms**
 
-If you do not agree to Desktop-Documentaries.com PrivacyPolicy as posted here on this website, please do not usethis site or any services offered by this site.
+If you do not agree to Desktop-Documentaries.com Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
 
 Your use of this site indicates acceptance of this privacy policy. 
 
