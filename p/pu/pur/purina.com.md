@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purina.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625052516id_/http%3A//www.purina.com/General/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purina.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226063908id_/http%3A//www.purina.com/General/Privacy.aspx) for the most accurate reproduction.*
 
 # Purina.Com | Dog | Caring Privacy Policy | Purina.com
 
