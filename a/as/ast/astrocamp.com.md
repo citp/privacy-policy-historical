@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrocamp.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523183128id_/http%3A//www.astrocamp.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrocamp.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226123714id_/http%3A//www.astrocamp.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Horoscope - Astrology, Daily Horoscope, 2010 Horoscope
 
@@ -41,4 +41,4 @@ Any other information we receive due to email or other method of contact in rega
 
 
 **4\. Contacting us  
-**If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us at info@astrocamp.com
+**If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us at [query@astrocamp.com](mailto:query@astrocamp.com)
