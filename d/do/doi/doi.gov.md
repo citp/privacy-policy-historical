@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the doi.gov privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605062817id_/http%3A//www.doi.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doi.gov privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226140436id_/http%3A//www.doi.gov/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Updated May 25, 2011]
+[Updated August 4, 2011]
 
 Thank you for visiting the Department of the Interior website and reviewing our privacy policy.   How we handle information we learn about you from your visit to our website depends upon what you do when visiting our site.
 
@@ -62,11 +62,13 @@ AddThis: The "Share" function on some DOI sites is provided by a third party, Ad
 
 Google Analytics: "Like many services, Google Analytics uses … [cookies](http://www.google.com/intl/en/privacy_faq.html#toc-terms-cookie) to track visitor interactions. These cookies are used to store information, such as what time the current visit occurred, whether the visitor has been to the site before, and what site referred the visitor to the web page. Browsers do not share … cookies across domains" (from the [Google Analytics privacy overview](http://www.google.com/intl/en/analytics/privacyoverview.html)).  The Department of the Interior does not collect personally identifiable information from these third-party tools, nor provide them with additional PII.  We use IP masking in order to share only a portion of the IP address for geolocation.  In addition, Google provides an [Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout?hl=en) "to indicate that information about the website visit should not be sent to Google Analytics."  DOI does not endorse and makes no representation about the effectiveness of the Google Analytics Opt-out Browser Add-on.
 
-**Livestream:** Some of our live video is provided by [Livestream.com](http://www.livestream.com/).  It is labeled as such.  According to the Livestream privacy policy, Livestream uses cookies, "pixel tags," any user information that you may choose to provide, as well as other data.
+**Livestream:** Some of our live video is provided by [Livestream.com](http://www.livestream.com/).  It is labeled as such.  According to the Livestream [privacy policy](http://www.livestream.com/terms/privacypolicy), Livestream uses cookies, "pixel tags," any user information that you may choose to provide, as well as other data.  More is available on Livestream's [privacy policy](http://www.livestream.com/terms/privacypolicy) page.
 
-**SlideShare:** Some of our document presentation is provided by [SlideShare.com](http://www.slideshare.com/).  It is labeled as such.  According to the SlideShare privacy policy, SlideShare uses cookies, any user information that you may choose to provide, as well as other data.
+**SlideShare:** Some of our document presentation is provided by [SlideShare.com](http://www.slideshare.com/).  It is labeled as such.  According to the SlideShare [privacy policy](http://www.slideshare.net/privacy), SlideShare uses cookies, any user information that you may choose to provide, as well as other data. More is available on SlideShare's [privacy policy](http://www.slideshare.net/privacy) page.
 
-We use the information provided by third-party tools to improve our Web presence and the end-user experience.
+**YouTube:** Some of our video presentation is provided by [YouTube.com](http://www.youtube.com/).  It is labeled as such.  According to the YouTube [privacy policy](http://www.youtube.com/t/privacy), YouTube "may record information about your usage of the site, such as the channels, groups and favorites you subscribe to, which other users you communicate with, the videos you watch, the frequency and size of data transfers, and information you display about yourself as well as information you click on in YouTube (including UI elements, settings). If you are logged in, we may associate that information with your YouTube Account."  More is available on YouTube's [privacy policy](http://www.youtube.com/t/privacy) page.
+
+We use information provided by third-party tools to improve our Web presence and the end-user experience.
 
 #### Links to Other Sites
 
