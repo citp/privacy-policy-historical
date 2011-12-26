@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plumdistrict.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610154809id_/http%3A//www.plumdistrict.com/p/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumdistrict.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226062230id_/http%3A//www.plumdistrict.com/p/privacy_policy) for the most accurate reproduction.*
 
 # Plum District | Deals for Savvy Moms and Families. Discounts Daily.
 
