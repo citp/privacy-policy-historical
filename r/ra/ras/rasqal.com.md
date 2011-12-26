@@ -1,100 +1,42 @@
-> *The following text is extracted and transformed from the rasqal.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rasqal.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226011550id_/http%3A//rasqal.com/%3Fpage_id%3D36) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | Rasqal's Savings & Daily Deals Privacy Policy | An honest voice to the madness of shopping
 
-**Go Daddy Respects Your Privacy**
+  1. 1\. We are committed to protecting the privacy of our users. The purpose of this privacy policy is to inform you of what kinds of information we may gather about you when you visit Rasqal.com, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. Please note that this policy applies only to Rasqal.com and not to other companies’ or organizations’ websites to which we link.
+  2. 2\. Providing personal information to Rasqal is voluntary. We collect and use personal information about you to respond to your request for products and services offered through our websites. You will always have the option to remove yourself once you have signed up by contacting us at support@rasqal.com.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**Promotions And Contests**
 
-**Information Collection and Use**
+If opting into a promotion or contests, your information (email and name in most cases) may be used for the purpose of informing you of your status.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We utilise “cookies” which enable us to monitor traffic patterns and to serve you more efficiently if you revisit the site. It is possible to enable your browser to notify you when you receive a cookie. This will provide you with an opportunity to accept or reject the cookie in each instance.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  1. 6\. We will not sell or otherwise provide your personal information to a third party, or make any other use of your personal information other than as follows:
+  2.     1. (i) in an aggregated form that does not directly identify you;
+    2. (ii) with your consent, for example, when you agree to our sharing your information with other third parties for their own marketing purposes subject to their separate privacy policies;
+    3. (iii) with third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us;
+    4. (iv) to comply with laws or to respond to lawful requests and legal process;
+    5. (v) to protect the rights and property of Rasqal our agents, customers, community members, and others including to enforce our agreements, policies and terms of use;
+    6. (vi) in an emergency to protect the personal safety of Rasqal employees, its customers, or any person; or
+    7. (vii) in connection with any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+ Third party vendors, including Google, show Rasqal ads on sites on the internet.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We may transfer non-personally identifiable search information to third parties for the purpose of presenting visitors or members with targeted advertisements by utilizing cookies and pixel tags. Any visitor or member may contact us for information on how to opt out at any time. Learn more and/or opt-out of this service by visiting [www.aboutads.info](http://www.aboutads.info/ "go to aboutads.com") or http://www.google.com/privacy_ads.html
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+  1. 8\. You may request that we do not use your personal information or that we only use your personal information in certain ways.
+  2. 9\. If we believe we have the legal requirement to do so, we will preserve the content of any email you send us.
+  3. 10\. We may monitor your e-mail messages to us for troubleshooting or maintenance purposes or if we reasonably believe e-mail abuse may be occurring.
+  4. 11\. We may collect personal information for analysis. In such circumstances we will use reasonable efforts to ensure that individuals remain anonymous.
+  5. 13\. We use reasonable efforts to protect personal information which we collect (including your contact details and, if relevant, credit card details). You will appreciate, however, that we cannot guarantee the security of transmission.
+  6. 14\. You are entitled to have access to any personal information relating to you which you have previously supplied to us over this website. You are entitled to edit or delete such information unless we are required by law to retain it.
+  7. 15\. You must be at least 13 years old to have our permission to use this site. Our policy is that we do not knowingly collect, use or disclose personally identifiable information about visitors under 13 years of age.
+  8. 16\. Any changes to our privacy policy will be posted here. If we make any changes to this Policy, we will change the “Last Updated” date below. If you have any queries or questions about our privacy policy, please contact Rasqal.com at support@rasqal.com
+  9. Effective Date: July 1, 2011
+  10. Last Updated: December 8, 2011
 
-**Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
-
-**Updating Your Information**
-
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
-
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
-
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
