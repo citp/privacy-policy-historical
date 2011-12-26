@@ -1,198 +1,203 @@
-<!--The following is the downloaded HTML source of the uploading.com privacy policy that was archived on 2011-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110615045021id_/http%3A//uploading.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uploading.com privacy policy that was archived on 2011-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227001206id_/http%3A//uploading.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<title>Uploading.com - the simplest and secure way to host your files!</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="no-js" lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta name="keywords" content="upload, files">
 	<meta name="description" content="Upload files">
+	<meta http-equiv="content-script-type" content="text/javascript">
+	<meta http-equiv="content-style-type" content="text/css">
+
+	<title>Uploading.com - the simplest and secure way to host your files!</title>
+
 	<link rel="shortcut icon" href="http://uploading.com/favicon.ico">
 
-	<link rel="stylesheet" type="text/css" href="http://uploading.com/static/css/main.css?v=18">	<script type="text/javascript" src="http://uploading.com/static/js/jquery.js?v=18"></script>	<script type="text/javascript" src="http://uploading.com/static/js/main.js?v=18"></script>	<script type="text/javascript" src="http://uploading.com/static/js/JsHttpRequest.js?v=18"></script>
-	<script language="javascript" src="http://www.google-analytics.com/ga.js"></script>
+	<link rel="stylesheet" type="text/css" href="/static/css/new_style.css?v=56">	<script async="" src="//ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/static/js/libs/jquery.js?v=56"></script>	<script type="text/javascript" src="/static/js/libs/jquery.ui.position.min.js?v=56"></script>	<script type="text/javascript" src="/static/js/plugins.js?v=56"></script>	<script type="text/javascript" src="/static/js/libs/JsHttpRequest.js?v=56"></script>	<script type="text/javascript" src="/static/js/main.js?v=56"></script>	<script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+	<script type="text/javascript">
+		var CONF = {host: 'http://uploading.com/', domain: 'uploading.com'},
+			text_yes = 'Yes',
+			text_no = 'No';
+
+		if (navigator.userAgent.toLowerCase().indexOf('linux') != -1) {
+			if ($.browser.mozilla) {
+				$("body").append('<' + 'link rel="stylesheet" type="text/css" href="'+ CONF.host + 'static/css/linux_firefox.css" /' + '>');
+			} else if($.browser.opera) {
+				$("body").append('<' + 'link rel="stylesheet" type="text/css" href="'+ CONF.host + 'static/css/linux_opera.css" /' + '>');
+			}
+		}
+	</script>
 </head>
-
 <body class="body">
-
-<script language="javascript">
-	var CONF = {host: 'http://uploading.com/', domain: 'uploading.com'};
-
-	if(navigator.userAgent.toLowerCase().indexOf('linux') != -1)
-	{
-		if($.browser.mozilla)
-			$("body").append('<link rel="stylesheet" type="text/css" href="'+ CONF.host + 'static/css/linux_firefox.css">');
-		else if($.browser.opera)
-			$("body").append('<link rel="stylesheet" type="text/css" href="'+ CONF.host + 'static/css/linux_opera.css">');
-	}
-	var text_yes	= 'Yes';
-	var text_no		= 'No';
-
-</script>
-
-<div id="header">
-	<a href="http://uploading.com/"><img src="http://uploading.com/static/images/logo2.png" class="logo" alt="Uploading.com"></a> 
-
-	<div id="login_box">
-	<form action="http://uploading.com/general/login_form/" class="login" method="post" entity="ajax" id="login_form" onsubmit="return check_login_captcha_showed();">
-		<table class="tform">
-			<tbody><tr>
-				<td class="tright"><label>E-mail:</label></td>
-				<td colspan="2"><div class="pre_input"><input type="text" class="text" name="email" id="login_email"></div></td>
-			</tr>
-			<tr>
-				<td class="tright"><label>Password:</label></td>
-				<td colspan="2"><div class="pre_input"><input type="password" class="text" name="password" id="login_password"></div></td>
-			</tr>
-			<tr>
-				<td></td>
-				<td><input name="remember" id="remember_checkbox" type="checkbox" class="check" checked="checked"> Remember Me&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-				<td class="tright"><button type="submit" class="log_in">Sign In</button></td>
-			</tr>
-		</tbody></table>
-		<a href="#" class="question" onclick="$('#retrieve_box').show(); $('#login_box').hide(); return false;" title="Forgot Password?">?</a>
-	</form>
-</div>
-<div id="retrieve_box" style="display: none;">
-	<form action="http://uploading.com/registration/reminder/" class="login retrieve" method="post" entity="ajax">
-		<table class="tform">
-			<tbody><tr>
-				<td colspan="3"><div class="h2">Retrieve password</div></td>
-			</tr>
-			<tr>
-				<td class="tleft"><label>E-mail:</label></td>
-				<td colspan="2"><div class="pre_input"><input type="text" class="text border" name="reminder_email"></div></td>
-			</tr>
-			<tr>
-				<td></td>
-				<td class="tleft"><a href="#" onclick="$('#retrieve_box').hide(); $('#login_box').show(); return false;">« Go Back</a></td>
-				<td class="tright"><button class="send">Send</button></td>
-			</tr>
-		</tbody></table>
-	</form>
-</div>
-
-<div id="login_captcha_form" style="display: none;">
-	<!--
-		<div style="text-align: center;">
-			<label id="enter_captcha">Please enter the code displayed on the image</label><br/>
-			<div style="height: px; margin: 10px;">
-			<center>
-				<img style="display: none; width: px; height: px;" id="login_captcha" src="http://uploading.com/static/images/blank.gif" onload="$('#login_captcha_loading').hide(); $('#login_captcha').show()"/>
-				<div class="captcha_loading" id="login_captcha_loading">Loading...</div>
-			</center>
-			</div>
-			<input type="text" class="text" id="login_captcha_code" style="width: px; margin-bottom: 10px;"/>
-		</div>
-	-->
-</div>
-
-<script language="javascript">
-
-	function login_form_callback(resp)
-	{
-		if(resp && resp.captcha)
-		{
-			show_login_captcha(resp.captcha, 'submit_login');
-		}
-	}
-
-	function show_login_captcha(type, callback)
-	{
-		var d = new Date();
-		var content = get_system_window_content($('#login_captcha_form').html(), true);
-		open_windows.login_captcha_window_id = show_dhtml_window(content, [{title: 'Submit', is_ok: true, handler: callback}]);
-		$('#login_captcha').attr('src', 'http://uploading.com/general/captcha/'+type+'/?ts=' + d.getTime());
-	}
-
-	function submit_login()
-	{
-		do_request('general', 'login_form', {
-			email: $('!login_email').value,
-			password: $('!login_password').value,
-			remember: $('!remember_checkbox').checked,
-			captcha: $('!login_captcha_code').value
-		}, login_form_callback);
-
-		close_login_captcha_window();
-	}
-
-	function close_login_captcha_window()
-	{
-		close_system_window(open_windows.login_captcha_window_id);
-	}
-
-	function check_login_captcha_showed()
-	{
-		return open_windows.login_captcha_window_id ? false : true;
-	}
-
-</script><div class="menu"><div>
-<ul>
-	<li class=" first"><a href="http://uploading.com/files/upload/">Upload File</a></li><li class=""><a href="http://uploading.com/premium/">Premium Membership</a></li><li class=""><a href="http://uploading.com/registration/">Sign Up</a></li><li class=""><a href="http://uploading.com/partners/">For Partners</a></li><li class=""><a href="http://uploading.com/faq/">FAQ</a></li><li class=""><a href="http://uploading.com/top_files/">Top Files</a></li><li class=""><a href="http://uploading.com/contactus/">Support</a></li></ul>
-</div></div>
-
-<div class="undermenu"></div>
-<div id="lang" class="lang"><img src="http://uploading.com/static/images/blank.gif" class="lngen" alt=""></div>
-
-<script language="javascript">
-
-function change_language(language_id)
-{
-	var r = function(resp)
-	{
-		if(resp)
-			document.location = document.location;
-	}
-
-	do_request('general', 'select_language', {language: language_id}, r);
-}
-
-$(function()
-{
-	var languages = [];
-	var lng_numbers = [];
-
-	languages[1] = "en";lng_numbers[1] = 1;languages[2] = "de";lng_numbers[2] = 2;languages[3] = "fr";lng_numbers[3] = 3;languages[18] = "pt";lng_numbers[4] = 18;languages[19] = "br";lng_numbers[5] = 19;languages[4] = "es";lng_numbers[6] = 4;languages[5] = "no";lng_numbers[7] = 5;languages[6] = "nl";lng_numbers[8] = 6;languages[7] = "gr";lng_numbers[9] = 7;languages[8] = "fi";lng_numbers[10] = 8;languages[9] = "it";lng_numbers[11] = 9;languages[10] = "cz";lng_numbers[12] = 10;languages[11] = "pl";lng_numbers[13] = 11;languages[12] = "ru";lng_numbers[14] = 12;languages[20] = "hr";lng_numbers[15] = 20;languages[16] = "sk";lng_numbers[16] = 16;languages[13] = "tr";lng_numbers[17] = 13;languages[14] = "jp";lng_numbers[18] = 14;languages[15] = "cn";lng_numbers[19] = 15;
-	var lang = $('#lang');
-	var lang_im = lang.find('img');
+	<div id="wrapper">
 	
-	html_lng = '';
 
-	for(var n in lng_numbers){
-		nn = lng_numbers[n];
-		y = (lng_numbers[n]-1)*(-21)-1;
-		html_lng += '<p class="lng'+languages[nn]+'" onclick="change_language(' + lng_numbers[n]  + ')"><'+'/p>';
-	}
-	lang.append('<div id="lang_list">'+html_lng+'<'+'/div>');
+				<div id="header">
+			<div class="wrapper">
+				<a id="logo" href="http://uploading.com/"><img src="/static/images/logo.png" alt="Uploading.com" title="Uploading.com"></a>
+				<div id="login_options" class="header_menu">
 
-	var lang_list = $('#lang_list');
-	lang_im.click(function(){
-		if (lang.hasClass('show_lang'))
-			lang.removeClass('show_lang');
-		else
-			lang.addClass('show_lang');
+	<div class="authorise png_bg">
+		 <a class="signup" id="register_button" href="javascript:void(0);">Sign up</a>
+		 <span>or</span>
+		 <a class="login" id="login_button" href="javascript:void(0);">Log in</a>
+	</div>
 
-		document.onmouseup = function (e)
-		{
-			$('#lang').removeClass('show_lang')
+	<div id="login_popup" class="not_modal_window">
+		<img src="/static/images/blank.gif" class="login_arrow" alt="">
+		<a href="javascript:void(0)" id="login_box_close" title="Close">
+			<img class="close_popup_btn png_bg" src="/static/images/blank.gif" alt="X" title="Close">
+		</a>
+
+		<div id="login_box" style="display: none;">
+			<form action="http://uploading.com/general/login_form/" class="login entity_ajax" method="post" id="login_form" onsubmit="return check_login_captcha_showed()">
+
+				<div class="field_row">
+					<label>E-mail:</label>
+					<input type="text" class="text" name="email" id="login_email">
+				</div>
+
+				<div class="field_row">
+					<label>Password:</label>
+					<input type="password" class="text" name="password" id="login_password">
+					<a class="fright" href="javascript:void(0);" id="retrieve_box_open" title="Forgot Password?">Forgot Password?</a>
+				</div>
+
+				<div class="submit_login_wrap">
+					<button type="submit" class="square_btn sq_blue"><span><span><img src="/static/images/blank.gif" alt="" class="secure png_bg"> Sign In</span></span></button>
+					<div class="controls_wrapper">
+						<input name="remember" id="remember_checkbox" type="checkbox" class="check" checked="checked">
+						<label for="remember_checkbox">Remember Me</label>
+					</div>
+				</div>
+
+			</form>
+		</div>
+
+		<div id="retrieve_box" style="display: none;">
+			<form action="http://uploading.com/registration/reminder/" class="login retrieve entity_ajax" method="post">
+				<div class="field_row">
+					<label>E-mail:</label>
+					<input type="text" class="text border" name="reminder_email">
+				</div>
+				<div class="submit_login_wrap">
+					<button class="square_btn sq_blue"><span><span><img src="/static/images/blank.gif" alt="" class="secure png_bg"> Send</span></span></button>
+					<div class="controls_wrapper">
+						<a href="javascript:void(0)" id="retrieve_box_close">« Go Back</a>
+					</div>
+				</div>
+			</form>
+		</div>
+
+		<div id="login_captcha_form" style="display: none;">
+            <!--
+                    <div id="recaptcha_block" style="text-align: center;">
+
+                    </div>
+            -->
+		</div>
+
+	</div>
+	<div id="register_popup" class="modal_window">
+		<a href="javascript:void(0)" id="register_box_close" title="Close">
+			<img class="close_popup_btn png_bg" src="/static/images/blank.gif" alt="X" title="Close">
+		</a>
+		<form method="post" class="entity_ajax" action="http://uploading.com/partners/terms/" onsubmit="return ch_form()">
+			<div class="field_row">
+				<label>E-mail:</label>
+				<input type="text" class="text" name="email" id="email" value="">
+			</div>
+			<div class="field_row">
+				<label>Password:</label>
+				<input type="password" class="text" name="password" id="pass">
+			</div>
+			<div class="submit_login_wrap">
+				<span class="terms">I agree to <a href="http://uploading.com/terms/">Terms &amp; Conditions</a></span>
+				<button type="submit" class="square_btn sq_blue"><span><span><img src="/static/images/blank.gif" alt="" class="secure png_bg"> Register</span></span></button>
+			</div>
+		</form>
+		<script type="text/javascript">
+	function ch_form (prefix) {
+		var error = false;
+		prefix = prefix ? prefix : '';
+
+		if ($('#' + prefix + 'email').val().length == 0) {
+			error = 'Please enter your e-mail address';
+			$('#' + prefix + 'email').focus();
+		} else if(!validate_email($('#' + prefix + 'email').val())) {
+			error = 'Incorrect email';
+			$('#' + prefix + 'email').focus();
+		} else if($('#' + prefix + 'pass').val().length == 0) {
+			error ='Please enter a password (at least 3 symbols)';
+			$('#' + prefix + 'pass').focus();
+		} else if($('#' + prefix + 'pass').val().length < 3) {
+			error ='error_password_too_short';
+			$('#' + prefix + 'pass').focus();
 		}
+		if (error !== false) {
+			set_notification('alert', error);
+			return false;
+		} else {
+			return true;
+		}
+	}
+</script>	</div>
+
+</div>
+<script type="text/javascript">
+
+    $('document').ready(function () {
+		$('body').append($('#register_popup'));
 	});
 
-	if(navigator.userAgent.toLowerCase().indexOf("msie 6") != -1){
-		lang_list.hover(function(){
-			$(this).addClass('hover');
-		},function(){
-			$(this).removeClass('hover');
-		});
-	}
-});
+    function login_form_callback(resp) {
+        if (resp && resp.captcha) {
+            show_login_captcha('submit_login');
+        }
+    }
 
-</script>
-</div>
+    function submit_login() {
+        do_request('general', 'login_form', {
+            email: $('#login_email').val(),
+            password: $('#login_password').val(),
+            remember: $('#remember_checkbox').prop('checked'),
+            recaptcha_challenge_field: $('#recaptcha_challenge_field').val(),
+            recaptcha_response_field: $('#recaptcha_response_field').val()
+        }, login_form_callback);
 
-<div id="main">
-	<div class="bb"><div class="lt"><div class="rb"><div class="rt"><div class="lb">
-	<div class="page">
+        close_login_captcha_window();
+    }
+
+    function close_login_captcha_window() {
+        close_system_window(open_windows.login_captcha_window_id);
+    }
+
+    function check_login_captcha_showed() {
+        return open_windows.login_captcha_window_id ? false : true;
+    }
+
+    function show_login_captcha(callback) {
+
+        var content = get_contents('login_captcha_form');
+        open_windows.login_captcha_window_id = show_dhtml_window(content, [{title: 'Submit', is_ok: true, handler: callback}]);
+        build_recaptcha('recaptcha_block', '6Le8zcgSAAAAAFNncpPNtTq9Y5Jx0woAcCFNQMki');
+    }
+
+</script>			</div>
+		</div>
+		
+
+		
+
+
+	<div class="menu"><div class="wrapper">
+<ul>
+
+	<li class=" first"><a href="http://uploading.com/">Upload</a></li><li class=""><a href="http://uploading.com/premium/">Premium</a></li><li class=""><a href="http://uploading.com/contactus/">Support</a></li><li class=""><a href="http://uploading.com/news/">News</a></li></ul>
+</div></div>
+
+	
+<div id="content">
+	<div class="page inner_content main_content">
 		<h2>Privacy policy</h2>
 <br>
 
@@ -232,59 +237,129 @@ If any part of the Uploading.com website links you to other websites, those webs
 
 <h4>Contact information</h4>
 Should you have any questions or concerns regarding this Privacy Policy, please <a href="http://uploading.com/contactus/">contact us</a>.	</div>
-	</div></div></div></div></div>
 </div>
 
-<div id="footer">
-	<span class="copy">© 2005-2011 Uploading.com. All rights reserved.</span>
-		<ul>
-		<li><a href="http://uploading.com/terms/">Terms &amp; Conditions</a></li>
-		<li><a href="http://uploading.com/privacy/">Privacy Policy</a></li>
-		<li><a href="http://uploading.com/dmca/">DMCA</a></li>
-		<li><a href="http://resellers.uploading.com/">Resellers</a></li>
-		<li><a href="http://uploading.com/filechecker/">File Checker</a></li>
-	</ul>
+</div><!-- #wrapper -->
+	<div id="footer">
+		<div class="wrapper">
+
+			<ul id="footer_menu">
+				<li>
+					<h4 class="t-information">Information</h4>
+					<ul>
+						<li><a href="http://uploading.com/faq/">FAQ</a></li>
+						<li><a href="http://uploading.com/terms/">Terms &amp; Conditions</a></li>
+						<li><a href="http://uploading.com/privacy/">Privacy Policy</a></li>
+					</ul>
+					<h4 class="t-contacts">Contacts</h4>
+					<ul>
+						<li><a href="http://uploading.com/contactus/">Contact Support</a></li>
+						<li><a href="http://uploading.com/dmca/">DMCA</a></li>
+					</ul>
+				</li>
+				<li>
+					<h4 class="t-upload">Upload</h4>
+					<ul>
+						<li><a href="/">Upload file</a></li>
+												<li><a href="#" onclick="$('#login_button').click(); return false;">FTP Upload</a></li>
+												<!--<li><a href="/">Desktop Uploader</a></li>-->
+					</ul>
+				</li>
+				<li>
+					<h4 class="t-follow">Follow Us</h4>
+					<ul class="social">
+						<li><a href="http://twitter.com/uploading_com" class="twitter" target="_blank">Twitter</a></li>
+						<li><a href="http://www.facebook.com/uploadingcom" class="fb" target="_blank">Facebook</a></li>
+						<!--<li><a href="/" class="i">I</a></li>-->
+					</ul>
+				</li>
+				<li>
+					<h4 class="t-tools">Tools</h4>
+					<ul>
+						<li><a href="http://uploading.com/filechecker/">File Checker</a></li>
+						<li><a href="http://uploading.com/top_files/">Top Files</a></li>
+					</ul>
+				</li>
+				<li class="last">
+					<h4 class="t-money">Start making money</h4>
+					<ul>
+						<li><a href="http://uploading.com/partners/">Affiliate program</a></li>
+						<li><a href="http://resellers.uploading.com/">Resellers</a></li>
+						<li><a href="http://uploading.com/banners/">Our Banners</a>
+						<!--<li><a href="/">Banner Promotion</a></li>-->
+					</li></ul>
+					<div id="lang" class="language_select png_bg">
+	<a href="javascript:void(0)" class="png_bg"><span class="lngen"></span></a>
+</div>
+
+<script type="text/javascript">
+	$(function () {
+		var languages = [], lng_numbers = [];
+		languages[1] = "en";lng_numbers[1] = 1;languages[2] = "de";lng_numbers[2] = 2;languages[3] = "fr";lng_numbers[3] = 3;languages[18] = "pt";lng_numbers[4] = 18;languages[19] = "br";lng_numbers[5] = 19;languages[4] = "es";lng_numbers[6] = 4;languages[5] = "no";lng_numbers[7] = 5;languages[6] = "nl";lng_numbers[8] = 6;languages[7] = "gr";lng_numbers[9] = 7;languages[8] = "fi";lng_numbers[10] = 8;languages[9] = "it";lng_numbers[11] = 9;languages[10] = "cz";lng_numbers[12] = 10;languages[11] = "pl";lng_numbers[13] = 11;languages[12] = "ru";lng_numbers[14] = 12;languages[20] = "hr";lng_numbers[15] = 20;languages[16] = "sk";lng_numbers[16] = 16;languages[13] = "tr";lng_numbers[17] = 13;languages[14] = "jp";lng_numbers[18] = 14;languages[15] = "cn";lng_numbers[19] = 15;		init_language_selector(languages, lng_numbers);
+	});
+</script>				</li>
+			</ul>
+<!--
+			<p class="copyright">&copy; 2011 Uploading.com</p>
+						<ul class="footer_menu">
+				<li><a href="http://uploading.com/faq/">FAQ</a></li>
+				<li><a href="http://uploading.com/dmca/">DMCA</a></li>
+				<li><a href="http://resellers.uploading.com/">Resellers</a></li>
+				<li><a href="http://uploading.com/contactus/">Contact Support</a></li>
+				<li><a href="http://uploading.com/filechecker/">File Checker</a></li>
+				<li><a href="http://uploading.com/top_files/">Top Files</a></li>
+				<li><a href="http://uploading.com/terms/">Terms & Conditions</a></li>
+				<li><a href="http://uploading.com/privacy/">Privacy Policy</a></li>
+			</ul>
+						<div id="lang" class="language_select png_bg">
+	<a href="javascript:void(0)" class="png_bg"><span class="lngen"></span></a>
+</div>
+
+<script type="text/javascript">
+	$(function () {
+		var languages = [], lng_numbers = [];
+		languages[1] = "en";lng_numbers[1] = 1;languages[2] = "de";lng_numbers[2] = 2;languages[3] = "fr";lng_numbers[3] = 3;languages[18] = "pt";lng_numbers[4] = 18;languages[19] = "br";lng_numbers[5] = 19;languages[4] = "es";lng_numbers[6] = 4;languages[5] = "no";lng_numbers[7] = 5;languages[6] = "nl";lng_numbers[8] = 6;languages[7] = "gr";lng_numbers[9] = 7;languages[8] = "fi";lng_numbers[10] = 8;languages[9] = "it";lng_numbers[11] = 9;languages[10] = "cz";lng_numbers[12] = 10;languages[11] = "pl";lng_numbers[13] = 11;languages[12] = "ru";lng_numbers[14] = 12;languages[20] = "hr";lng_numbers[15] = 20;languages[16] = "sk";lng_numbers[16] = 16;languages[13] = "tr";lng_numbers[17] = 13;languages[14] = "jp";lng_numbers[18] = 14;languages[15] = "cn";lng_numbers[19] = 15;		init_language_selector(languages, lng_numbers);
+	});
+</script>-->
+		</div>
 	</div>
 
-<div id="tooltip" class="bubbling" style="position: absolute;"><div class="bubble_head"><b class="b1"></b><b class="b2"></b></div><div class="bubble"><div class="bubble_c_left"></div></div><div class="bubble_foot"><b class="b2"></b><b class="b1"></b></div></div>
+<noscript>
+	<div id="noscript-warning">Uploading.com works best with <a href="http://uploading.com/faq/#faq_1_14">JavaScript enabled</a></div>
+</noscript>
 
-<script language="javascript">
-	hide_tooltip();
-</script>
+<div id="splash"></div>
+
+<div id="tooltip" class="bubbling" style="position:absolute"><div class="bubble_head"></div><div class="bubble"><div class="bubble_c_left"></div></div><div class="bubble_foot"><img class="tooltip_tail" src="/static/images/blank.gif" alt=""></div></div>
 
 <div id="ajax_loading" class="ajax-loading">Loading...</div>
 
-<script language="javascript">
-	try
-	{
-		var pageTracker = _gat._getTracker("UA-21112893-1");
-		pageTracker._trackPageview();
-	}
-	catch(err){}
-
-	if(1308113421 - cookie.get('time') > 100)
-		set_notification('alert', 'Cookies seem to be disabled in your browser!<br />They must be enabled to continue using Uploading.com. Please enable cookies in your browser and reload the page.');
-
-</script>
-
-<script language="javascript">
-
+<script type="text/javascript">
 	var error = cookie.get('error');
-
-	if(error)
-	{
-		$(document).ready(function(){
+	if (error) {
+		$(document).ready(function () {
 			set_notification('alert', cookie.decode(error));
 		});
 
 		cookie.delete_cookie('error', '/', '.' + CONF.domain);
 	}
-
 </script>
-
 <script type="text/javascript">
-    document.write("<img src='http://www.jscount.com/a/5/c773cf25/z?ref="+escape(document.referrer)+"&url="+escape(document.URL)+"&rand="+Math.random()+"' width=1 height=1 alt='' style='display:none'>");
-</script><img src="http://www.jscount.com/a/5/c773cf25/z?ref=&amp;url=https%3A//web.archive.org/web/20110615045021id_/http%253A//uploading.com/privacy&amp;rand=0.6323720314820935" width="1" height="1" alt="" style="display:none">
+	hide_tooltip();
 
+		if (1324944725 - cookie.get('time') > 100) {
+		set_notification('alert', 'Cookies seem to be disabled in your browser!<br />They must be enabled to continue using Uploading.com. Please enable cookies in your browser and reload the page.');
+	}
+	</script>
+
+
+<!--[if lt IE 7 ]>
+	<script type="text/javascript" src="/static/js/dd_belatedpng.js?v=56"></script>	<script>DD_belatedPNG.fix('img, .png_bg, .yellow_btn, .yellow_btn span, .yellow_btn span span, .white_btn, .white_btn span, .white_btn span span, .blue, .blue span, .blue span span, .bigblue, .bigblue span, .bigblue span span');</script>
+<![endif]-->
+<script type="text/javascript">
+    var _gaq=[['_setAccount','UA-21112893-1'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s)}(document,'script'));
+    document.write("<" + "img src='http://www.jscount.com/a/5/c773cf25/z?ref="+escape(document.referrer)+"&url="+escape(document.URL)+"&rand="+Math.random()+"' width=1 height=1 alt='' style='display:none' /" + ">");
+</script><img src="http://www.jscount.com/a/5/c773cf25/z?ref=&amp;url=https%3A//web.archive.org/web/20111227001206id_/http%253A//uploading.com/privacy&amp;rand=0.5992306127729652" width="1" height="1" alt="" style="display:none">
 
 </body></html>
