@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the military.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624021647id_/http%3A//www.military.com/AboutUs/More/1%2C14822%2CPrivacy_Policy%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the military.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226173530id_/http%3A//www.military.com/AboutUs/More/1%2C14822%2CPrivacy_Policy%2C00.html) for the most accurate reproduction.*
 
 # About Us - Military.com
 
