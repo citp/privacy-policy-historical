@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the i-say.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610074326id_/http%3A//www.i-say.com/Privacy/PRIVACYPOLICY/tabid/167/language/en-CA/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-say.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226194226id_/http%3A//www.i-say.com/Privacy/PRIVACYPOLICY/tabid/167/language/en-US/Default.aspx) for the most accurate reproduction.*
 
-# Ipsos I-Say > Privacy Policy
+# Ipsos i-Say > Privacy Policy
 
 Revised on May 2011
 
 The purpose of this Privacy Statement is to inform you about the practices and procedures of Ipsos (as follows, “we” or “us”) in handling Personal Information and to inform you about the Personal Information we collect about you when you participate in one of our surveys. It explains how we use and disclose that information, the choices you have regarding such use and disclosure, and how you may correct that information.
 
-Ipsos Interactive Services U.S., Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html)  including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe certification covers the sites [www.i-say.com](http://www.i-say.com/) and [www.i-say.ca](http://www.i-say.ca/).   TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
+Ipsos Interactive Services U.S., Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html)  including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe certification covers the sites [www.i-say.com](http://www.i-say.com/) and [www.i-say.ca](http://www.i-say.ca/).   TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
 If you are a resident of the United States of America and have any questions or comments regarding this statement, please contact Ipsos i-Say Member by:
 
@@ -50,7 +50,7 @@ We are proud to demonstrate our commitment to your privacy. From time to time, w
 
 Personal Information is any information that is identifiable with you. This information may include but is not limited to your name, age, gender, mailing address, phone numbers, email address, identification numbers and, in certain circumstances, your opinions and individual preferences. Personal Information; however, does not include (i) your name, business title or business address and business telephone number, fax and email in your capacity as an employee of an organization; and (ii) depending on the jurisdiction, publicly available information. However, if in your capacity as an employee of an organization you participate in one of our surveys, your responses will be treated as Personal Information.
 
-Members of Your Household - We may collect personal information about other members of your household. This information may include, but is not limited to, the age and gender of the other household members. We use this information to determine if certain surveys are relevant to you based on the composition of your household. Sometimes we use this information to invite other members of your household to participate in our surveys. If one of your household members is selected for one of our surveys we will always deliver the survey invitation to your email address, and ask you to personally invite the household member to participate.
+[](https://web.archive.org/Extras/HolidayHuntContest/tabid/242/Default.aspx)Members of Your Household - We may collect personal information about other members of your household. This information may include, but is not limited to, the age and gender of the other household members. We use this information to determine if certain surveys are relevant to you based on the composition of your household. Sometimes we use this information to invite other members of your household to participate in our surveys. If one of your household members is selected for one of our surveys we will always deliver the survey invitation to your email address, and ask you to personally invite the household member to participate.
 
 Refer Friends - We offer a refer-a-friend feature on our websites, which enables you to invite your friends to participate in our surveys. This process will ask that you provide your friends first name and email address. Upon submission, an automated email message is sent to your friend’s email address which includes the registration link where they can join. We also include an Opt Out link in this same email and the referral is able to Opt Out from receiving emails from our refer-a-friend feature. We limit the number of referrals to five (5) per day.
 
@@ -133,7 +133,8 @@ We have implemented physical, organizational, contractual and technological secu
 
 All comments, questions, concerns or complaints regarding your Personal Information, including your email address, or our Privacy Policy and practices, should be forwarded to our Privacy Officer as follows.
 
-In writing:  
+**In writing:**
+
 (USA Residents)  
 Ipsos  
 Member Services  
@@ -147,9 +148,17 @@ Member Services
 160 Bloor Street East, Suite 300  
 Toronto, ON, Canada, M4W 1B9
 
+**By email:**
+
+(USA Residents)  
+[NAPrivacyOfficer@ipsos.com](mailto:NAPrivacyOfficer@ipsos.com)
+
+(Canada Residents)  
+[CdnPrivacyOfficer@ipsos.com](mailto:CdnPrivacyOfficer@ipsos.com)
+
 If you are a resident of the USA, you may submit changes to your Name, e-mail Address, Telephone Number online at www.i-say.com, by e-mail at questions@i-say.com, by telephone 1-866.893.1188 or by writing to us at Ipsos, Member Services, 1600 Stewart Ave, Suite 500, Westbury, NY, 11590, USA If you are a resident of Canada, you may submit changes to your Name, e-mail Address, Telephone Number online at www.i-say.com, by e-mail at panel@i-say.com, by telephone 1.866.893.1188, or by writing to us at Ipsos, Member Services, 160 Bloor Street East, Suite 300, Toronto, ON, M4W 1B9, Canada. We will inform you when you make an inquiry or lodge challenges or complaints of the relevant procedures.
 
-If you are chosen as a winner in one of our contests you will be given the option to provide a testimonial which we may post on the Winners page of our website. Your testimonial, first initial and last name, and an electronic picture of yourself, if you provide one, will only be posted on our website if you provide us with consent. You can request to have your testimonial and Personal Information removed from our Winners section by contacting our Member Services using any of the methods described in the Contact Us section or on our website. You may also submit your request in writing to:
+If you are chosen as a winner in one of our contests you will be given the option to provide a testimonial which we may post on the Winners page of our website. Your testimonial, first name and last initial, and an electronic picture of yourself, if you provide one, will only be posted on our website if you provide us with consent. You can request to have your testimonial and Personal Information removed from our Winners section by contacting our Member Services using any of the methods described in the Contact Us section or on our website. You may also submit your request in writing to:
 
 (USA Residents)  
 Ipsos  
