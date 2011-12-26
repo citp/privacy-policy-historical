@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the brobible.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523235454id_/http%3A//www.brobible.com/bronews/13156127) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brobible.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226201439id_/http%3A//www.brobible.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy - BroBible.com
+# Bro Code, Hot Girls, Funny Stories and Videos, Frat Music, College Stories, Sports News and Videos - BroBible.com
 
   
 
 
-_Updated as of April 5, 2010_
+_Updated as of June 18, 2011_
 
-The BroBible Privacy Policy describes how BroBible and its subsidiaries treat personal information when you use Google services, including information provided when you use BroBible.
+The BroBible Privacy Policy describes how BroBible and its subsidiaries treat personal information when you use BroBible services, including information provided when you use BroBible.
 
- **Personal Information**
+**Personal Information**
 
-  * Account-Related Activity. We ask for some personal information when you create a BroBible Account, including your email address, password and birthday, which is used to protect your account from unauthorized access.
+  * Account-Related Activity. We ask for some personal information when you create a BroBible Account, including your email address and password, which is used to protect your account from unauthorized access.
 
 
   * Usage Information. We may record information about your usage, such as when you use BroBible, the LockerRooms you join, the contacts you communicate with, the content you view, and the frequency and size of data transfers, as well as information you display or click on in BroBible (including UI elements, settings, and other information). If you are logged in, we may associate that information with your account.
 
 
-  * Content Uploaded to Site. Any personal information or content that you voluntarily disclose online (to the Brommunity, in messages and LockerRooms, within Brofile pages, etc.) becomes publicly available and can be collected and used by others.
+  * Content Uploaded to Site. Any personal information or content that you voluntarily disclose online (in comments, to the Brommunity, in messages and LockerRooms, within Brofile pages, etc.) becomes publicly available and can be collected and used by others.
 
 
 
   
- **Uses**
+**Uses**
 
   * If you submit personally identifiable information to us through the BroBible Website, we use your personal information to operate, maintain, and provide to you the general and personalized features and functionality of the BroBible Site, and to process any flagging activity or correspondence you send to us.
 
@@ -40,12 +40,12 @@ The BroBible Privacy Policy describes how BroBible and its subsidiaries treat pe
 
 
 
- **Information That is Publicly Available**
+**Information That is Publicly Available**
 
   * When you create an account on the site, some information about your account and your account activity will be provided to other Users of the site. This may include the date you opened your account, the date you last logged into your account, your age (if you choose to make it public), your location and any other information you wish to make public to other Users.
 
 
-  * Your Bro Alias (not your email address) is displayed to other Users when you engage in certain activity on the site, such as you upload content or send messages through the BroBible Site. Other Users can contact you through messages and comments.
+  * Your Bro Alias (not your email address) is displayed to other Users when you engage in certain activity on the site, such as you upload content, write comments, or send messages through the BroBible Site. Other Users can contact you through messages and comments.
 
 
   * You may also choose to add personal information that will be visible to other Users on your Brofile (which is the public facing page for your account on the site). This may include a profile picture, alias, answers to optional questions or other details.
@@ -56,7 +56,7 @@ The BroBible Privacy Policy describes how BroBible and its subsidiaries treat pe
 
 
   
- **Your Choices**
+**Your Choices**
 
   * You may update or correct your personal profile information and email preferences at any time by visiting your Brofile page.
 
@@ -69,7 +69,7 @@ The BroBible Privacy Policy describes how BroBible and its subsidiaries treat pe
 
 
   
- **Third-Party Advertisers, Links to Other Sites**  
+**Third-Party Advertisers, Links to Other Sites**  
 BroBible allows other companies, called third-party ad servers or ad networks, to serve advertisements within the BroBible Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the BroBible Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
 
   
@@ -86,10 +86,10 @@ If the ownership of all or substantially all of the BroBible business, or indivi
 
 When you use BroBible, certain information you post or share with third parties, such as personal information, comments, messages, photos, videos, or other information, may be shared with other users in accordance with the privacy settings you select. All such sharing of information is done at your own risk. Please keep in mind that if you disclose personal information in your profile or when posting comments, messages, photos, videos, or other items, this information may become publicly available.
 
- **Security**  
-BroBible takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology (SSL). (To learn more about SSL, go to <http://en.wikipedia.org/wiki/Secure_Sockets_Layer>). Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of BroBible Web Site, please Contact Us.
+**Security**  
+BroBible takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology (SSL). (To learn more about SSL, go to http://en.wikipedia.org/wiki/Secure_Sockets_Layer). Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of BroBible Web Site, please Contact Us.
 
- **More Information**  
+**More Information**  
 BroBible adheres to the US Safe Harbor privacy principles. For more information about the Safe Harbor framework or our registration, see the Department of Commerce's web site.
 
-For questions concerning the product or your account, please [Contact Us](http://www.brobible.com/contact).
+For questions concerning the product or your account, please [Contact Us](http://www.brobible.com/contact/tipoff).
