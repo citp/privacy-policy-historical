@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandonshopper.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627051648id_/http%3A//www.brandonshopper.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandonshopper.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226110226id_/http%3A//www.brandonshopper.com/privacy.php) for the most accurate reproduction.*
 
 # Brandon, Manitoba, Canada - BrandonShopper Classifieds
 
