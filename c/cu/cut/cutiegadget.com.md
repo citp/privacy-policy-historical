@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutiegadget.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627101352id_/http%3A//www.cutiegadget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutiegadget.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226110339id_/http%3A//www.cutiegadget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cutie Gadget
 
@@ -57,3 +57,12 @@
 > If you have any questions regarding our privacy policy, please contact us.
 
 Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
+
+Related Articles:
+
+  1. [About](http://www.cutiegadget.com/about/ "About")
+  2. [Contact The WebMaster](http://www.cutiegadget.com/contact-the-webmaster/ "Contact The WebMaster")
+  3. [Disclosure Policy](http://www.cutiegadget.com/disclosure-policy/ "Disclosure Policy")
+  4. [Cutie Gadget Themes](http://www.cutiegadget.com/cutie-gadget-themes/ "Cutie Gadget Themes")
+
+
