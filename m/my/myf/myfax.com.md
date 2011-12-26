@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfax.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611082759id_/http%3A//www.protus.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfax.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226195114id_/http%3A//www.protus.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Protus | Privacy
 
@@ -147,6 +147,6 @@ If you have any questions or suggestions regarding our privacy policy, please em
 
 Privacy Officer  
 j2 Global Canada, Inc.  
-2379 Holly Lane, Suite 210   
+2 Gurdwara Road, 3rd Floor   
 Ottawa, Ontario, Canada  
-K1V 7P2
+K2E 1A2
