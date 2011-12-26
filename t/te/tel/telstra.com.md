@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telstra.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520221214id_/http%3A//www.telstra.com.au/privacy/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telstra.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226213046id_/http%3A//www.telstra.com.au/privacy/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Telstra
 
