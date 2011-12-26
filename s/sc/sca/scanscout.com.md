@@ -1,82 +1,111 @@
-> *The following text is extracted and transformed from the scanscout.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129052036id_/http%3A//scanscout.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanscout.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226101206id_/http%3A//www.tremorvideo.com/about-us/privacy-policy-2011) for the most accurate reproduction.*
 
-# ScanScout : Privacy Policy
+# Privacy Policy 2011 « Tremor Video
 
-At ScanScout we recognize that privacy is important and we are committed to ensuring the privacy of personas that use the ScanScout website ("End-Users"), located at www.ScanScout.com ("Site"). This Privacy Policy ("Policy") describes what information is collected from End-Users and how such information is used and disclosed. Terms "you," "your," and "yours" refer to the End-Users of our Site. Terms "we," "us," and "our" refer to ScanScout, its subsidiaries and affiliates.
+##### Opt out of Interest-Based Advertising
 
-PLEASE READ THIS POLICY CAREFULLY SO THAT YOU UNDERSTAND OUR PRIVACY PRACTICES. BY USING THIS SITE, YOU CONSENT TO THE TERMS OF THIS POLICY. IF YOU DO NOT AGREE WITH THE TERMS OF THIS POLICY, PLEASE DO NOT USE THE SITE. WE MAY PERIODICALLY MAKE CHANGES OR MODIFICATIONS TO THIS POLICY AND IT IS YOUR RESPONSIBILITY TO REMAIN INFORMED ABOUT ANY SUCH CHANGES OR MODIFICATIONS. CONSEQUENTLY, WE ENCOURAGE YOU TO PERIODICALLY REVIEW THIS POLICY TO STAY INFORMED ABOUT HOW WE ARE PROTECTING THE INFORMATION WE COLLECT. YOU AGREE THAT YOUR CONTINUED USE OF THIS SITE CONSTITUTES YOUR AGREEMENT WITH THIS POLICY AND ANY FURTHER UPDATES AND MODIFICATIONS TO THIS POLICY, AS SUCH MAY BE MADE BY SCANSCOUT FROM TIME TO TIME.
+Tremor Video uses advertising cookies to improve the online experience of its users by trying to match the ads we serve to the possible preferences and interests of users. By so doing, ads that Tremor Video serves may be more relevant and useful to you. You may always opt out of the cookies that Tremor Video uses to serve online interest-based advertising by clicking on the button above. After you opt out, these cookies will no longer be associated with your browser. Ads may continue to be served based on information available in the Internet environment, such as the content of a web page, browser type, time of day and operating system. If you have opted out of the cookies that Tremor Video uses and subsequently delete the “opt out” cookie from your browser, change your browser, or buy a new computer, you will need to opt out again of Tremor Video interest-based advertising, and you may always do so by clicking on the button above. 
 
-Information gathered online can generally be categorized as either anonymous or personally identifiable, as follows: 
+Last Updated: August 29, 2011
 
-1\. _Personally Identifiable Information_. Personally identifiable information is information you provide to us that is uniquely associated with you, such as your name, physical mailing address, email address and telephone number. Information identifying an entity other than an individual (e.g., a corporation, partnership, joint venture and so forth) does not constitute personally identifiable information. 
+**FOR THIS TREMOR VIDEO WEBSITE**  
+www.tremorvideo.com
 
-2\. _Anonymous Information_. Anonymous information is general information that cannot be traced back to a specific individual. For instance, we know how many queries we receive each day, but we generally do not know the names and e-mail addresses of the personas submitting the queries. Anonymous information can also include "aggregate data". Aggregate data is data we collect about a group or category of features, services or individuals, from which individual identities have been removed. For example, information about how you use or purchase a feature may be collected and combined with information about how others use or purchase the same feature, without any personal information included in the resulting data. ScanScout uses aggregate data to help identify trends and understand End-Users needs so we can provide better features and services.
+www.tremorvideo.com is the corporate website of Tremor Video, Inc. (“Tremor Video” or “we”). This website (the “Tremor Video Site” or “Site”) provides users, usually current and prospective customers and job seekers, with information about our products and services, and gives users the opportunity to contact us for further information.
 
-You provide personally identifiable information to us in a number of ways when you visit our Site or use the various services and activities available on our Site, such as: 
+This privacy policy describes the types of information that Tremor Video collects on the Site and how that information is used. Tremor Video reserves the right to modify this privacy policy at any time by posting the changes on the Site. Your continued use of the Site constitutes your acceptance of the current posted privacy policy. If you have questions about this privacy policy, please email us at [privacy@tremorvideo.com](mailto:privacy@tremorvideo.com).
 
-  * Register to be a member of Site;
-  * Register to participate in programs or services offered by ScanScout;
-  * Participate in a survey;
-  * Participate or make postings in any forums or other interactive areas;
-  * Submit and/or post an article or comment to the Site and voluntarily include your name or other personal information (including, without limitation, any personally identifying photographs or images you submit and/or post);
-  * Contact us by email for any reason (such as to request customer service, provide us with your comments/feedback, submit a job application, submit a resume, etc.).
+WHAT INFORMATION DOES THE TREMOR VIDEO SITE COLLECT?
 
+Personally Identifiable Information  
+Personally identifiable information is information that identifies a user as a specific individual, such as a name, email address, mailing address or phone number.
 
+The Tremor Video Site collects personally identifiable information about users only if a user voluntarily provides that information to the Site. Personally identifiable information is collected on the Tremor Video Site in various instances including, without limitation:
 
-We generally use personally identifiable information to process your requests or transactions, and provide you with features and services you requested. For example, we use the information we collect to: 
+• _Request info._ A user, typically a publisher, advertiser or job seeker, submits an inquiry to Tremor Video through the “Request Info” function on the Site, and provides his or her name, address, email address and/or telephone number so that Tremor Video is able to respond.  
+• _Comment on blog posting._ A user posts a comment in the blog section of the Site, and submits his or her name and email address in connection with the posting.  
+• _Subscribe to email newsletter._ A user provides his or her name, email address and other contact information to subscribe to the Tremor Video email newsletter.  
+• _Subscription feed._ A user subscribes to the Site’s subscription function by providing his or her email address.  
+• _Access to Tremor Video’s web-based client interface._ A current Tremor Video client accesses the client-only areas of the Site, either the Publisher or Advertiser platforms, by submitting his or her username and password.  
+• _Request for feedback._ From time to time, the Tremor Video Site may ask users for voluntary feedback that will help us improve the Site. In connection with such feedback, users may choose to provide optional name and contact information.  
+• _Promotions, sweepstakes, or contests._ From time to time, Tremor Video may sponsor or co-sponsor an offer for users to provide information, such as his or her name, email address or other contact information, and/or to answer certain questions on an entry form if he or she chooses to participate in the applicable activity. 
 
-  * Contact you for administrative purposes or provide you with customer service;
-  * Complete transactions requested by you or to verify your use of the Site;
-  * Respond to any questions, problems, complaints or feedback requests;
-  * Organize the Site to better serve you and customize or develop our features and services;
-  * Send you emails or other communications containing information about features and services that you might request or find of interest.
+Non-Personally Identifiable Information  
+Non-personally identifiable information includes demographic information (such as age, gender, city or state) and a user’s click stream information. The Tremor Video Site collects information about users and stores it in log files. This information includes non-personally identifiable information that your browser automatically sends whenever you visit this Site, including information about your web request, your IP address, your browser type, browser language, date and time of the request.
 
+HOW DOES TREMOR VIDEO USE THE INFORMATION COLLECTED BY THE TREMOR VIDEO SITE?
 
+Personally Identifiable Information  
+Tremor Video uses the personally identifiable information you provide to respond to your inquiries and requests, and to keep accurate records concerning the services you are requesting through the Tremor Video Site.
 
-Personal information provided on our Site may be linked together or merged with other personal information we obtain about you so that we may better understand your needs and inform you about our features or services and those of our business partners. 
+Non-Personally Identifiable Information  
+Tremor Video generally uses non-personally identifiable information in aggregated form to help measure the Tremor Video Site’s performance and effectiveness, and to improve its usefulness.
 
-We do not sell, rent or share personal information with third parties without your prior consent except in the limited circumstances described in this Policy. We share personal information with third-party vendors who assist us in performing internal functions necessary to operate our business. These functions may include: analysis data, providing marketing assistance and processing payment transactions. In all cases we limited the information shared with our third-party vendors to that which is necessary to carry out those functions. We require that these parties agree to process such information in compliance with this Policy and use reasonable efforts to limit their use of such information. We are not, however, responsible for any information you provide to third party vendors directly, and we encourage you to become familiar with their practices before disclosing information directly to them. 
+WITH WHOM DOES TREMOR VIDEO SHARE THE PERSONALLY-IDENTIFIABLE INFORMATION COLLECTED ON THE TREMOR VIDEO SITE?
 
-We also disclose personal information where it is needed to comply with the law (e.g., a lawful subpoena, warrant or court order); to enforce or apply this Policy or our other policies or agreements; to initiate, render, bill and collect for amounts owed to us, to protect our or our End-Users' rights, property or safety; to protect our End-Users from fraudulent, abusive, or unlawful use of our site, or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person required disclosure of communications or justifies disclosure of records without delay. 
+Tremor Video may share personally identifiable information with its service providers that help Tremor Video provide the services that you request, such as delivery of our email newsletters. Tremor Video does not share the personally identifiable information that you provide to the Tremor Video Site with any other third party.
 
-Additionally, information about our End-Users may be disclosed as part of any merger, acquisition, debt financing or sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personally identifiable information could be transferred to third parties as one of our business assets.
+Tremor Video may transfer the information it collects on this Site to any successor- in-interest to Tremor Video (such as a company that acquires Tremor Video), or internally to one or more affiliates (such as a corporate subsidiary or parent). Tremor Video may also disclose personally identifiable information about a user if it determines that an applicable law, regulation or legal process requires it, or if Tremor Video determines that it needs to share such information to protect or enforce Tremor Video’s rights or the rights of another user.
 
-General user data, such as your computer's Internet Protocol (IP) address, operating system and browser type, pages you visited, and the date and time of your visit, is automatically collected through the use of "cookies". Cookies are small files that are stored on your computer by a website to give you a unique identification. Cookies also keep track of services you have used, record registration information regarding your login name and password, record your preferences and keep you logged into the Site. You can opt out of receiving a cookie by changing your browser settings to prevent the receipt of cookies. Since each web browser is different, we recommend that you please look through your browser "Help" file to learn the correct way to modify your cookies set-up. Please note that disabling cookies may prevent you from accessing some of the functionality and site offerings available via the Site. Please also keep in mind that you may get cookies through sites linked to the Site and we do not control these cookies. 
+WHAT ELSE SHOULD I KNOW ABOUT PRIVACY?
 
-We may use, and allow third parties to use, web beacons on the Site to monitor the effectiveness of advertising or for other legitimate purposes. Web beacons are small, graphic images on web pages, web-based documents, or in e-mail messages that allow us or third parties to monitor who is visiting the Site or if the email has been read. Web beacons collect the IP address of the computer that the web beacon is sent to, the URL of the page the web beacon comes from and the time it was viewed. Web beacons may be linked to your personal information. We may also use third-party ad servers or network advertisers, to deliver ads to you. These third-party ad servers may use cookies, web beacons or other technology to collect non-personally identifiable information about your visits to our Site in order to present advertisements that may be of interest to you. If you would like more information about this practice or whether you can opt out of having this information used by third-party ad servers to provide targeted ads, visit <http://www.networkadvertising.org/optout_nonppii.asp>. 
+Security  
+Tremor Video maintains safeguards to protect the security, integrity and privacy of the personally identifiable information within our reasonable control. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to protect your information, please be advised that Tremor Video assumes no responsibility or liability for disclosure of your information due to errors in transmission, unauthorized third-party access or other causes beyond Tremor Video’s reasonable control.
 
-We may use automatically collected information and cookies information for a number of purposes, including, but not limited to: 
+Links to Other Websites  
+Tremor Video does not control the data collection policies of any website linked to the Tremor Video Site. If you click on a link or an advertisement, the privacy policy of the website to which you link will govern the collection and use of your information by that website’s operators. Tremor Video assumes no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise.
 
-  * Remember your information so that you will not have to re-enter it during your visit or the next time you visit the Site;
-  * Provide custom, personalized content, and information;
-  * Monitor the effectiveness of our marketing campaigns;
-  * Monitor aggregate usage metrics, such as total number of visitors and pages viewed.
+Collection of Information from Minors  
+The Tremor Video Site is directed to, and intended for use by, adults only. We do not knowingly collect personally identifiable information from children under the age of thirteen. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen, we will delete such information from our records.
 
+ACCEPTANCE OF PRIVACY POLICY FOR THE TREMOR VIDEO SITE
 
+When you use the Tremor Video Site, you are accepting the terms and conditions of this privacy policy, and Tremor Video will have the right to use your information as described in this privacy policy. If you do not agree to have your information used in any of the ways described in this privacy policy, you must discontinue use of the Tremor Video Site. 
 
-We treat anonymous information as personal information if we combine it with or link it to any of the personally identifying information mentioned above and, in those cases, will only use it on aggregate basis. 
+* * *
 
-Additionally, information about our End-Users may be disclosed as part of any merger, acquisition, debt financing or sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personally identifiable information could be transferred to third parties as one of our business assets. 
+**FOR THE TREMOR VIDEO NETWORK SERVICES**
 
-We use reasonable security measures in an effort to prevent loss, misuse and alteration of information under our control. However, we cannot guarantee protection of all information in all cases. For instance, we cannot guarantee protection against interception, misappropriation, misuse, or alteration, or that your information will not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Additionally, we have absolutely no control over the security of other sites you might visit, interact with or do business with. 
+WHAT DOES TREMOR VIDEO DO?  
+Tremor Video is an online advertising company that offers advertisers opportunities to display their interactive or video ads on top-tier websites, including mobile websites, and mobile applications. Our services streamline the selection and delivery of interactive and video ads for advertisers and web publishers. 
 
-If we learn of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Site. ScanScout may post a notice on the Site if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at ScanScout, Inc., Attn: Privacy Matters, 295 Devonshire Street, 4th floor, Boston, MA 02110 USA. 
+HOW DOES TREMOR VIDEO DELIVER ADS?  
+Ads delivered by Tremor Video appear primarily in two contexts as follows:  
+(i) in an ad banner or other ad unit on a web page (“in-page ads”) and (ii) as part of a video stream through a player, widget or application (“in-stream ads”).
 
-Our Site contains links to external websites. These are provided for your convenience only, and we do not have control over the content or privacy and security practices and policies of third party sites. Any personal information you provide on linked pages is provided directly to that third party and is subject to that third party's privacy policy. Please learn about the privacy and security practices and policies of external websites before providing them with personal information. 
+Most of our advertisers’ ads are delivered by Tremor Video proprietary or AdTech technology. AdTech is a third party technology service provider who is our agent for delivering certain of our advertisers’ advertisements.
 
-In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we do not knowingly collect or maintain information from End-Users under age 13 without parental consent. We do not monitor the age of our End-Users. However, if you are under the age of 13, you should not use the Site nor submit personal identifying information to ScanScout without the consent of your parent or guardian. This Site is not intended for or directed to persons under the age of 13. Any End-User using the Site represent to ScanScout that they are 13 years of age or older. 
+HOW ARE ADS SELECTED FOR DELIVERY?  
+Tremor Video’s customers are advertisers that ask us to display their ads on websites and applications affiliated with Tremor Video (“Tremor Video Network”). Advertisers may specify where, when and in what context they want their ads to be displayed. These specifications are sometimes called targeting parameters.
 
-The Site is hosted in the United States. If you are an End-User accessing the Site from the European Union, Australia, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please note that you are transferring your personal data to the United States which does not have the same data protection laws as such other regions. Personal information collected on this web site may be stored and processed in the United States or any other country in which ScanScout maintains facilities, and by using this Site, you consent to any such transfer of information outside of your country.
+Tremor Video uses its proprietary or AdTech ad serving technology to select, target and deliver ads according to the advertisers’ specifications. In order to select an ad, the ad serving technology will receive information provided by the web publisher, user’s browser, and advertiser which, in turn, is automatically recorded by the servers of Tremor Video and/or AdTech. This information is usually non-personally identifiable, although some web publishers or advertisers may also incidentally provide to Tremor Video personally-identifiable information about a user. Tremor Video does not actively collect, and does not use or store personally identifiable information about a user on the Tremor Video Network. 
 
-Under California law, California residents have the right to request in writing from businesses with whom they have an established business relationship the following: (i) a list of the categories of personal information (e.g., name, address, e-mail address, and the type of services provided to the customer) that a business has disclosed to third parties, during the immediately preceding calendar year, for the third parties' direct marketing purposes, and (ii) the names and addresses of all such third parties. To request the above information, please e-mail us at: privacy@ScanScout.com, or write to us at ScanScout, Inc., Attn: Privacy Matters, 295 Devonshire Street, 4th floor, Boston, MA 02111, USA, with a reference to California Disclosure Information.
+The Tremor Video proprietary and/or AdTech ad serving technology may use cookies, web beacons and other similar technologies in order to select, target, and measure the effectiveness of advertisements, including when determining what ads to present so that they may best relate to the preferences of users on the Tremor Video Network. A “cookie” is generally a small text file that is sent to a user’s computer. Cookies are commonly assigned by online services, such as websites or ad technologies, to recognize a computer that they have encountered before. A cookie is associated with a specific site domain, a specific computer and a specific Internet browser program. A “web beacon” is a small piece of code placed on web pages that can be used, among other things, to count the users who visit the web page, or to deliver a cookie to the browser of a user viewing that page.
 
-We will respond to such written requests within thirty (30) days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed one hundred and fifty (150) days from the date received. Please note that we are only required by law to respond to each End-User once per calendar year. 
+In the case of advertisements selected, targeted and delivered to mobile websites and applications, the ad serving technology may also receive information provided by the user’s mobile device, including a unique device ID. Tremor Video changes the unique device ID into an anonymous ID. 
 
-This Site operates "AS-IS" and "AS-AVAILABLE," without liability of any kind. We are not responsible for events beyond our direct control. This Privacy Policy is governed by the laws of the State of California, excluding conflicts of law principles. Any legal actions against us must be commenced in the county of San Mateo, California, within one (1) year after the claim arose, or such action(s) will be barred.
+In addition, Tremor Video uses Adobe Systems Incorporated Flash cookies for functionality purposes in connection with Tremor Video’s (i) ad management platform and (ii) advertisers’ ad units. 
 
-If you have any questions about this Policy, or the practices of or your dealings with the Site, please email us at [privacy@ScanScout.com](mailto:privacy@ScanScout.com) or write to us at:
+Tremor Video and its advertisers may also use third-party ad service providers to help present advertisements on the Tremor Video Network. These ad service providers use cookies, web beacons, or similar technologies on your computer to select, target, deliver, and measure the effectiveness of advertisements to determine or predict the characteristics and user preferences. Tremor Video may use data that ad service providers collect to help present interest-based advertisements. This data is non-personally identifiable information and is used to make advertisements more relevant. 
 
-ScanScout, Inc.  
-Attn: Privacy Matters  
-295 Devonshire Street, 4th floor  
-Boston, MA 02110 
+Tremor Video may share non-personally identifiable information about users gathered by means of cookies, web beacons, or similar technologies with certain ad service providers so that they can help Tremor Video deliver more relevant advertisements. The use of cookies, web beacons, or similar technologies by other ad service providers is subject to their respective privacy policies, not the privacy policy of Tremor Video. You can find out more about ad service providers and the choices you have about these technologies by clicking on the links at the bottom of this privacy policy. Similarly, the publishers that comprise the Tremor Video Network are subject to their own privacy policies and not the privacy policy of Tremor Video.
+
+IS INFORMATION TRANSFERRED TO TREMOR VIDEO SUCCESSORS AND AFFILIATES?  
+Tremor Video may transfer the information it collects in connection with its business to any successor-in-interest to Tremor Video (such as a company that acquires Tremor Video), or internally to one or more affiliates (such as a corporate subsidiary or parent). Tremor Video may also disclose information if it determines that an applicable law, regulation, or legal process requires it, or if Tremor Video determines that it needs to share such information to protect or enforce Tremor Video’s rights or the rights of another user.
+
+ABOUT THIS PRIVACY POLICY  
+Tremor Video reserves the right to modify this privacy policy at any time. If you have questions or concerns about this privacy policy, please email us at [privacy@tremormedia.com](mailto:privacy@tremormedia.com) or write to us at  
+Tremor Video, Inc., Attention: Privacy  
+53 West 23rd Street, New York, NY 10010.
+
+SELF-REGULATORY PROGRAM FOR ONLINE BEHAVIORAL ADVERTISING  
+Tremor Video follows the Digital Advertising Alliance industry privacy standards for online behavioral advertising. To learn more about the program and its principles [click here](http://www.aboutads.info/). 
+
+US-EU SAFE HARBOR FRAMEWORK  
+Tremor Video is registered with the U.S. Department of Commerce’s US-EU Safe Harbor program, and we adhere to the Safe Harbor framework regarding the collection, use, and retention of data received from the European Union (EU). In the event there is a written complaint by submitted to Tremor Video regarding the transfer of personal data from the EU that Tremor Video is unable to resolve, we will cooperate with the appropriate regulatory authorities, including the EU Data Protection Authorities. To learn more about the US-EU Safe Harbor program [click here](http://export.gov/safeharbor/). 
+
+THIRD PARTY AD SERVICE PROVIDERS  
+The following third party ad service providers may use cookies, web beacons, or similar technology in connection with advertisements offered through the Tremor Video Network. Click on the links to find out more about their practices, and the choices they provide to you:
+
+[AdTech](http://www.adtechus.com/privacy/)  
+[Network Advertising Initiative Participating Networks](http://www.networkadvertising.org/participating/)
