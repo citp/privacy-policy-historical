@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ausdroid.net privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627214507id_/http%3A//ausdroid.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausdroid.net privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226150300id_/http%3A//ausdroid.net/privacy) for the most accurate reproduction.*
 
 # Privacy | Ausdroid
 
@@ -14,7 +14,7 @@ This Privacy Policy applies to all Ausdroid’s business activities. Also, to th
 
 This Privacy Policy outlines how Ausdroid handles personal information. “Personal information” is information or an opinion that identifies an individual, or from which an individual’s identity reasonably can be ascertained.
 
- **1\. What personal information do we collect and why?**
+**1\. What personal information do we collect and why?**
 
 (a) Website Users
 
@@ -22,8 +22,8 @@ Much of the personal information that Ausdroid collects is information that webs
 
 For instance, personal information is provided by users who register for our website services (Registration Information), including:
 
-  *  _Discussion Boards_ : Sometimes we provide a discussion board service on our websites so that users can discuss common topics of interest. If a user chooses to sign up to a discussion board service, they must provide us with some personal information including a valid email address. Ausdroid uses this personal information to identify users who leave comments prohibited by our terms and conditions of use, and also to identify topics of interest to discussion board users; and
-  *  _Comments_ : Also, website users can choose to leave comments on particular articles of interest. To leave a comment, users must submit personal information including a valid email address. Ausdroid uses this information to screen out users who leave comments prohibited by our terms and conditions of use only.
+  * _Discussion Boards_ : Sometimes we provide a discussion board service on our websites so that users can discuss common topics of interest. If a user chooses to sign up to a discussion board service, they must provide us with some personal information including a valid email address. Ausdroid uses this personal information to identify users who leave comments prohibited by our terms and conditions of use, and also to identify topics of interest to discussion board users; and
+  * _Comments_ : Also, website users can choose to leave comments on particular articles of interest. To leave a comment, users must submit personal information including a valid email address. Ausdroid uses this information to screen out users who leave comments prohibited by our terms and conditions of use only.
 
 
 
@@ -51,7 +51,7 @@ In operating our websites, Ausdroid is committed to complying with the Journalis
 
 Ausdroid also collects personal information about its own employees, but its handling of employee information is not within the scope of this privacy policy.
 
- **2\. Will personal information be given to anyone else?**
+**2\. Will personal information be given to anyone else?**
 
 Subject to the exceptions outlined below, Ausdroid’s policy is not to disclose personal information that is Registration Information to third parties.
 
@@ -61,41 +61,41 @@ We may also disclose personal information we are under a legal requirement to do
 
 As noted above, website users who post information to discussion boards or comment pages consent to such information and comments being disclosed to other users of those websites.
 
- **3\. Access and Correction**
+**3\. Access and Correction**
 
 Under the Privacy Act, you have a right to seek access to information which we hold about you (although there are some exceptions to this). You also have the right to ask us to correct information about you which is inaccurate, incomplete or out of date.
 
 As noted, the personal information that we hold about you will generally be information that you have provided to us. However, if you wish to exercise your right under the Privacy Act to seek access to personal information that we hold about you, we ask that you contact our Privacy Officer (details at point 7 below), who will explain how we will handle your access request. Our policy is to consider any requests for correction in a timely way.
 
- **4\. Is personal information stored safely?**
+**4\. Is personal information stored safely?**
 
 Ausdroid takes reasonable steps to ensure that the personal information we hold is stored in a secure environment protected from unauthorised access, modification or disclosure. We remind our staff and contractors of the importance of storing personal information in a secure way, and to treat it like confidential information.
 
- **5\. Cookies and Log Files**
+**5\. Cookies and Log Files**
 
- _Cookies_ : The discussion boards hosted by our websites may use cookies. A cookie is a piece of data stored on the user’s computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
+_Cookies_ : The discussion boards hosted by our websites may use cookies. A cookie is a piece of data stored on the user’s computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
 
 By setting a cookie on an Ausdroid site, users will not have to log in a password more than once, thereby saving time while on the site’s discussion board. We store a cookie on each user’s machine that contains a username and encrypted password. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use any products or services we offer that require you to “sign in,” and you may not be able to take full advantage of all offerings. However, not all of our services require that you accept cookies.
 
- _Log Files_ : Like most standard web site servers we use log files. This includes internet protocol (IP) addresses, information about you browser type and your internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks you make. This is used to analyse trends, administer the site, track users’ movements in the aggregate, and gather broad demographic information for aggregate use. However, this information is not linked to the personal information that you provide to the site.
+_Log Files_ : Like most standard web site servers we use log files. This includes internet protocol (IP) addresses, information about you browser type and your internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks you make. This is used to analyse trends, administer the site, track users’ movements in the aggregate, and gather broad demographic information for aggregate use. However, this information is not linked to the personal information that you provide to the site.
 
- **6\. Email/SMS Marketing**
+**6\. Email/SMS Marketing**
 
 We will not email or SMS you marketing material unless you have consented to this. This is a requirement of the Spam Act 2003. Further, you can unsubscribe from our electronic communications by using the “unsubscribe” facility contained in each electronic publication we send.
 
- **7\. Contact Us**
+**7\. Contact Us**
 
 If you have any questions or comments about this privacy policy, or if you wish to complain about how we have handled personal information about you, please contact our Privacy Officer via email: [privacy@ausdroid.net](mailto:privacy@ausdroid.net).
 
- **8\. Changes to this Privacy Policy**
+**8\. Changes to this Privacy Policy**
 
 We review our privacy policy from time to time to make sure it is complying with legislative requirements and is in line with our users’ expectations. We reserve the right to change the policy accordingly.
 
 This policy was last updated in February 2010.
 
- **Annexure A: Journalism Privacy Standards**
+**Annexure A: Journalism Privacy Standards**
 
- **Introduction**
+**Introduction**
 
 The National Privacy Principles contained in the Privacy Act 1988 do not apply to “acts done or practices engaged in by a media organisation in the course of journalism”, so long as that media organisation is publicly committed to observing standards that deal with privacy in the context of its activities and those standards have been published in writing by the organisation.
 
@@ -103,30 +103,30 @@ Ausdroid acts as a media organisation to the extent that it operates websites (W
 
 The objective of these Standards is to balance the right of a person to privacy against the media’s right to inform the public about newsworthy matters and other matters of public interest.
 
- **What is personal information?**
+**What is personal information?**
 
 “Personal information” is information or an opinion that identifies an individual, or from which an individual’s identity reasonably can be ascertained.
 
- **Collection of personal information by Journalists**
+**Collection of personal information by Journalists**
 
 Journalists will collect personal information in the course of compiling reports and other information for the Website. Journalists should only collect personal information that is needed for an actual or anticipated report or Website posting.
 
- **How will personal information be used or disclosed by Journalists?**
+**How will personal information be used or disclosed by Journalists?**
 
 Personal information collected by Journalists should be used or disclosed for the purpose for which it was collected (eg for the publication of a story on the Website) or for related purposes (eg formulating commentary about such information, for publication on the Website). Personal information should only be disclosed on the Website if it is relevant to the story in question.
 
- **How will personal information be stored and checked?**
+**How will personal information be stored and checked?**
 
 It is a responsibility of Journalists to take reasonable steps to check that the personal information they use is accurate, complete and up-to-date, and that it is stored in a secure way.
 
- **Can our sources stay anonymous?**
+**Can our sources stay anonymous?**
 
 Journalists are not required by privacy laws to reveal the identity of confidential sources.
 
- **What is sensitive information?**
+**What is sensitive information?**
 
 Under the NPPs, sensitive information includes details of a person’s religion, race, sexual preferences, health or union/association membership. Sometimes, media organisations need to collect sensitive information if it is relevant information for a story. Journalists must take care in relation to the use of sensitive information by taking reasonable steps to ensure that they do not portray any person in a negative light on the basis of that information only (eg by placing gratuitous emphasis on age, colour, gender, national origin, physical or mental disability, race, religion or sexual preference). The focus should be upon the conduct or omissions, rather than the racial or other sensitive characteristics of the person who engages (or fails to engage in) in the relevant conduct.
 
- **Complaints**
+**Complaints**
 
 If you have a complaint about the handling of personal information by Journalists, please contact our Privacy Officer (see details in section 7 of the Ausdroid Privacy Policy).
