@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirefly.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531075308id_/http%3A//www.wirefly.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirefly.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226173250id_/http%3A//www.wirefly.com/about/privacy) for the most accurate reproduction.*
 
 # Wirefly - We place the utmost importance on protecting your personal information
 
