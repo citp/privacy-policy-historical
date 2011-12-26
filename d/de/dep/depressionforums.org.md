@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the depressionforums.org privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603135810id_/http%3A//www.depressionforums.org/forums/depression-Forums-Privacy-Policy-t10928.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the depressionforums.org privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226131137id_/http%3A//www.depressionforums.org/forums/depression-Forums-Privacy-Policy-t10928.html) for the most accurate reproduction.*
 
 # The Depression Forums Privacy Policy - The Depression Forums - A Depression & Mental Health Social Community Support Group
 
@@ -40,15 +40,17 @@ Our Web site does not track, collect or distribute personal information about in
 
 **About Cookies**
 
-Depression Forums, Inc. is dedicated to protecting the privacy of our visitors and to ensure that our information is accurate, complete, and up-to-date. To be useful we must gain and earn the trust and confidence of our members and visitors. Therefore, with the help of Administration and Members alike, we strive to maintain the highest possible level of integrity. Our principals are based on the best codes of practice and ethical standards. We invite suggestions on how we can do better.
+Depression Forums, Inc. is dedicated to protecting the privacy of our visitors and to ensure that our information is accurate, complete, and up-to-date.   
+To be useful we must gain and earn the trust and confidence of our members and visitors. Therefore, with the help of Administration and Members alike, we strive to maintain the highest possible level of integrity.   
+Our principals are based on the best codes of practice and ethical standards. We invite suggestions on how we can do better.
 
-We understand that health is a very personal subject and we want our Members and Visitors to be as comfortable as possible while visiting our website and using our services. This policy tells you, among other things, what information we gather from you, how we may use or disclose that information and our efforts to protect it. Please read this policy carefully, and feel free to contact us if you have any questions regarding its contents.
-
-Types of Information Collected
+We understand that health is a very personal subject and we want our Members and Visitors to be as comfortable as possible while visiting our website and using our services. This policy tells you, among other things, what information we gather from you, how we may use or disclose that information and our efforts to protect it. Please read this policy carefully, and feel free to contact us if you have any questions regarding its contents.  
+**  
+Types of Information Collected**
 
 In connection with your use of our site, we ask for and may collect a variety of information from and about you in different ways. For example, when you register to use our site, we ask for and store your user name, email address and other identifying contact data. Cookies were originally designed to help a website distinguish a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. Currently, websites use cookies to enhance the user's visit; in general, cookies can securely store a user's ID and password, personalize home pages, or identify which parts of a site have been visited.
 
-You may set your web browser to notify you of cookie placement requests or decline cookies completely. In addition, you can delete the files that contain cookies; those files are stored as part of your Internet browser, however, if you delete cookies that have been sent from our site, this will cause you to reenter data (e.g. login again).
+You may set your web browser to notify you of cookie placement requests or decline cookies completely. In addition, you can delete the files that contain cookies; those files are stored as part of your Internet browser, however, if you delete cookies that have been sent from our site, this will cause you to re-enter your data (e.g. login again).
 
 **About Advertisments**
 
@@ -57,9 +59,11 @@ We rely primarily on donations or subscriptions to maintain these forums.
 [ Your Help ](http://www.depressionforums.org/forums/Donating-Depressionforumsorg-Sponsor-t10361.html)**   
 Any member who continues to post, send PMs and actively use this free service understands that they do so under Our [ **Terms of Service**](http://www.depressionforums.org/forums/Forums-Terms-Service-TOS-and-FAQ-f7.html)
 
-We do NOT have any pop up advertisements what- so-ever - No pop under advertisements and nothing will follow you when you leave our site and we will continue to adhere to this policy.   
-We do not have anything to do with the Pharmacy Manufacturers and do not track you as in monitoring antidepressant usage and side effects such as other depression forums do.   
-DF has no direct funding from drug companies. However, DF does have bills to pay to cover the costs of our server and the general running of the site. In an ideal world, we would prefer to be solely sponsored by member donations and/or subscriptions, but we cannot afford to run on subscriptions alone as we now have a dedicated server for you and plenty of expense.
+We do NOT have any pop up advertisements what- so-ever - No pop under advertisements and nothing will follow you when you leave our site and we will continue to adhere to this policy. 
+
+_We **do not** have anything to do with the Pharmacy Manufacturers _and we **do not** track you as in monitoring antidepressant usage and side effects such as other depression forums do.   
+_DF has no direct funding from drug companies._   
+However, DF does have bills to pay to cover the costs of our server and the general running of this site. In an ideal world, we would prefer to be solely sponsored by member donations and/or subscriptions, but we cannot afford to run on subscriptions alone as we now have a dedicated server for you and plenty of expense.
 
 To make up the shortfall, Depressionforums.org accepts ads from advertising agencies. These advertising agencies sell our ad space and pay DF directly. They make their money by dealing with the large pharma companies directly and selling ad space on many health sites, DF included.  
 If you look at the larger sites you will notice similar ads. If you do not wish to see the ads, you may take out a subscription for a nominal price.  
@@ -70,7 +74,7 @@ We appreciate your understanding and wish you all the very best, as we know you 
  **The Depression Forums Administration  
 Depression Forums, Inc.**
 
-Reviewed Nov 9, 2009 by Forum Admin 
+Reviewed June 9, 2011 by Forum Admin 
 
   
 
