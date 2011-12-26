@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fawry.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627112911id_/http%3A//www.fawry.com/En/common/Page.aspx%3FPageID%3D79) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fawry.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226145637id_/http%3A//www.fawry.com/En/common/Page.aspx%3FPageID%3D79) for the most accurate reproduction.*
 
 # :: Fawry ::
 
@@ -6,7 +6,7 @@ Fawry is a payment service available through banks and a nationwide network of r
 
 User Name:   Password:   Remember me. 
 
-[](https://web.archive.org/web/20110627112911id_/http%3A//www.fawry.com/En/common/default.aspx)
+[](https://web.archive.org/web/20111226145637id_/http%3A//www.fawry.com/En/common/default.aspx)
 
 ## Privacy Policy
 
@@ -29,6 +29,6 @@ User Name:   Password:   Remember me.
 
 
 
-[](https://web.archive.org/web/20110627112911id_/http%3A//www.fawry.com/En/common/PaymentLocator.aspx "Fawry Locator")
+[](https://web.archive.org/web/20111226145637id_/http%3A//www.fawry.com/En/common/PaymentLocator.aspx "Fawry Locator")
 
 © 2011 Fawry.All Rights Reserved 
