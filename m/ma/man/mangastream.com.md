@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangastream.com privacy policy that was archived on 2011-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110124112151id_/http%3A//mangastream.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangastream.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226164943id_/http%3A//mangastream.com/content/privacy) for the most accurate reproduction.*
 
 # Manga Stream - Privacy Policy
 
