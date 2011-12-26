@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizbash.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627050728id_/http%3A//www.bizbash.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizbash.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226103315id_/http%3A//www.bizbash.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Legal | User Agreement | Website | Event Planners | PR | Caterers | Venues | Trade Show | Marketing | Strategy | Ideas | Trends | Style | BizBash
 
