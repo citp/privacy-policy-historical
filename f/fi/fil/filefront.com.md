@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filefront.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630175353id_/http%3A//www.gamefront.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filefront.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226090609id_/http%3A//www.gamefront.com/privacy) for the most accurate reproduction.*
 
 # GAMEFRONT MEDIA PRIVACY POLICY | GameFront
 
@@ -50,7 +50,7 @@ Like many web sites, GameFront may also use pixel tags, also known as clear gifs
 
 GameFront uses numerous third-party advertising service companies to serve advertisements when you visit our site. These companies may use information (not including your name, address, e-mail address, telephone number, or any other personally identifiable information you’ve provided us) about your visits to our and other web sites in order to provide advertisements about goods and services of interest to you. For this purpose, these companies may monitor our sites using cookies and pixel tags for the purpose of reporting web site traffic, statistics, advertisement data and/or other activities on our sites. The information collected through the use of these pixel tags is not personally identifiable.
 
-Some of our advertisers use third-party companies to serve their advertisements on our sites and, in some cases, in our HTML-formatted newsletters. Often, these third-party advertising companies employ cookie and pixel tag technologies to measure the effectiveness of Web and e-mail advertisements. We do not give any personally identifiable information to them as part of this relationship. Use of their tracking technology is subject to their own privacy policies. For more information about the privacy policies of the third-party advertising providers including information on how to opt out of their tracking methods, click here.
+Some of our advertisers use third-party companies to serve their advertisements on our sites and, in some cases, in our HTML-formatted newsletters. Often, these third-party advertising companies employ cookie and pixel tag technologies to measure the effectiveness of Web and e-mail advertisements. We do not give any personally identifiable information to them as part of this relationship. Use of their tracking technology is subject to their own privacy policies. For more information about the privacy policies of the third-party advertising providers including information on [how to](http://www.gamefront.com/howtos) opt out of their tracking methods, click here.
 
 **Contests and Sweepstakes**
 
