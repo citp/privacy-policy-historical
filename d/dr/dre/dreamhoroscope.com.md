@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dreamhoroscope.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625034247id_/http%3A//dreamhoroscope.com/Privacy-Policy/1_186_menu%3D6_object%3D527.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhoroscope.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226013536id_/http%3A//dreamhoroscope.com/Privacy-Policy/1_186_menu%3D6_object%3D527.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Dream Horoscope
+# Home | Dream Horoscope
 
 February 12th 2010
 
@@ -57,7 +57,9 @@ California Civil Code Section 1798.83 enables California residents who have prov
 
 GMB555 - dreamhoroscope.com  
 315 Madison Avenue, Suite 901  
-New York, NY 10017
+New York, NY 10017  
+888-231-8602  
+company@dreamhoroscope.com
 
   Acceptance
 
