@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidrepair.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229221327id_/http%3A//rapidrepair.com/Privacy/PP.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidrepair.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226055613id_/http%3A//rapidrepair.com/Privacy/PP.htm) for the most accurate reproduction.*
 
 # Rapid Repair - Links | iPod Repair, iPhone Repair, Batteries, LCD Screens and more | Fast iPod Repair, iPhone Repair and Zune Repair | Fast iPod Repair, iPhone Repair and Zune Repair
 
@@ -6,7 +6,7 @@
 
 * * *
 
-##  [ ](http://www.truste.org/ivalidate.php?url=www.rapidrepair.com&sealid=101)
+## 
 
 **_Orders_**
 
@@ -24,15 +24,15 @@ If you purchase a product or service from us, we request certain personally iden
 
 -         shipping notification
 
- We may contact you via phone or e-mail for any one of the steps listed above.  We may also contact you if we have trouble processing your order during any one of these steps. There will be a 15% restocking fee for all parts and devices that are returned in fully functional order.
+We may contact you via phone or e-mail for any one of the steps listed above.  We may also contact you if we have trouble processing your order during any one of these steps. There will be a 15% restocking fee for all parts and devices that are returned in fully functional order.
 
 _Uses of Information_
 
 Rapid Repair collects certain personally identifiable information and other secure personal data (e.g. Credit Card Data.)  Rapid Repair uses this information in the filling or servicing of your order.  We typically use this information to verify the authenticity and authority for any credit card presented for payment and to contact users regarding their order or item in for service. 
 
- To protect your personally-identifiable information, data is transmitted via a secure connection to our servers, and is kept in an encrypted, protected database.  This information is available only to Rapid Repair and its employees and only for the purposes necessary in the normal operation of conducting business.  We DO NOT sell or share this information with any third parties.
+To protect your personally-identifiable information, data is transmitted via a secure connection to our servers, and is kept in an encrypted, protected database.  This information is available only to Rapid Repair and its employees and only for the purposes necessary in the normal operation of conducting business.  We DO NOT sell or share this information with any third parties.
 
- We also collect other non-personally identifying information, detailed below in the Information Sharing section below.
+We also collect other non-personally identifying information, detailed below in the Information Sharing section below.
 
 Communications from the Site
 
@@ -51,7 +51,7 @@ Our Address info:
 Rapid Repair  
 2328 Winters Dr.  
 Portage, MI 49002  
-(Please do NOT mail in an iPod without placing an order online first.)
+(Please do NOT mail in a device without placing an order online first.)
 
 _Rush Processing_
 
@@ -60,7 +60,7 @@ RapidRepair.com offers rush processing for orders placed before before 12PM EST 
 Rush Processing is only available if the following conditions are met:
 
   * Billing address and shipping address are accurate and verified.
-  * If parts are in stock(99% of items will be available)
+  * If parts are in stock (99% of items will be available)
   * Order is placed before the shipping deadline.
 
 
@@ -106,13 +106,13 @@ If you have any questions about security on our Web site, you can send email us 
 
 **Log Files**
 
- As is true of most Web sites, we gather certain information automatically and store it in log files.  This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data. 
+As is true of most Web sites, we gather certain information automatically and store it in log files.  This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data. 
 
- We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
 
- We do not link this automatically-collected data to personally identifiable information.
+We do not link this automatically-collected data to personally identifiable information.
 
- We use a third-party tracking service, called Google Ad Words conversion tracking that uses cookies [log files] to track non-personally identifiable information about visitors to our site in the aggregate.  This is typically used to capture usage and volume statistics, page use, and to track conversion rates of visitors especially by source.
+We use a third-party tracking service, called Google Ad Words conversion tracking that uses cookies [log files] to track non-personally identifiable information about visitors to our site in the aggregate.  This is typically used to capture usage and volume statistics, page use, and to track conversion rates of visitors especially by source.
 
 **Cookies**  
 
