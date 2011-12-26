@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the snowboardmag.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627120929id_/http%3A//snowboardmag.com/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowboardmag.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226030337id_/http%3A//snowboardmag.com/privacy-policy-0) for the most accurate reproduction.*
 
 # Privacy Policy | Snowboard Magazine
 
 ## Privacy Policy
 
-Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of Snowboardmag.com, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement (this "Statement") discloses the privacy practices for Snowboardmag.com (the "Website") - what information we gather, how we use it and how to correct or change it. This Statement only addresses our activities from our servers. Other sites may have their own privacy policies and practices, which we do not control. Questions regarding this Statement should be emailed to jon@snowboard-mag.com.
+Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of Snowboardmag.com, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement (this "Statement") discloses the privacy practices for Snowboardmag.com (the "Website") - what information we gather, how we use it and how to correct or change it. This Statement only addresses our activities from our servers. Other sites may have their own privacy policies and practices, which we do not control. Questions regarding this Statement should be emailed to [jon@snowboard-mag.com](mailto:jon@snowboard-mag.com).
 
 ### General Privacy Information
 
@@ -21,10 +21,11 @@ If you have any questions about this Statement, the practices of Snowboardmag.co
 **Customer Service**  
 Snowboardmag.com  
 _Attn.: Privacy Statement_  
-P.O. Box 789  
-Niwot, CO 80544   
-Fax 303.834.9781  
+P.O. Box 789
 
+Niwot, CO 80544
+
+Fax 303.834.9781
 
 ### Registration
 
