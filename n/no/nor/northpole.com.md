@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the northpole.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520103302id_/http%3A//www.northpole.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northpole.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226182447id_/http%3A//www.northpole.com/privacy.asp) for the most accurate reproduction.*
 
-# Visit with Santa Claus at northpole.com
+# Visit with Santa Claus at Christmas at the North Pole
 
 Northpole.com, LLC has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this site. 
 
@@ -11,7 +11,6 @@ Northpole.com, LLC has created this privacy statement in order to demonstrate ou
 
 
   * We do NOT use online information for any purpose other than responding directly to the child’s request. 
-  * We do NOT collect personally identifiable offline contact information. 
   * We do NOT distribute to third parties any personally identifiable information. 
   * We do NOT give the ability to publicly post or otherwise distribute personally identifiable contact information. 
 
@@ -29,4 +28,5 @@ If you have any questions about this privacy statement, the practices of this si
   
 Northpole.com, LLC   
 1325 Williams Drive   
-Marietta, GA 30066 
+Marietta, GA 30066   
+United States of America 
