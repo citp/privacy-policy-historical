@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zennioptical.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514020135id_/http%3A//www.zennioptical.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zennioptical.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226200052id_/http%3A//www.zennioptical.com/privacy) for the most accurate reproduction.*
 
 # Zenni Optical - Eyeglasses, Privacy Policy Glasses
 
