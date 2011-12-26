@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the topperliquidators.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520211415id_/http%3A//www.topperliquidators.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topperliquidators.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226185244id_/http%3A//www.topperliquidators.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : Topper Liquidators - Merchandise Liquidators, Overstock Liquidations, Wholesale Sunglasses, Surplus Liquidator, Discount Wholesale Wedding Gowns, Liquidation Services
 
-Thank you for visiting Topper International Liquidators & Liquidation Services. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information collected for future use, not on a retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. Note: the privacy practices set forth in this privacy policy are for TopperLiquidators.com only. If you link to other web sites, please review the privacy policies posted at those sites. 
+Thank you for visiting Topper International Liquidators & Liquidation Services. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information collected for future use, not on a retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. Note: the privacy practices set forth in this privacy policy are for TopperLiquidators.com only. If you link to other web sites, please review the privacy policies posted at those sites.
+
+### Site Security - SSL Certificates  
+
+
+Topper Liquidators uses industry-standard 256-bit SSL Encryption for all transactions and all activities that may expose your personal information. SSL uses a cryptographic system that uses two keys to encrypt data − a public key known to everyone and a private or secret key known only to the recipient of the message. A hacker would need both of these keys in order to unscramble your information - a very unlikely scenario.
 
 ### Collection of Information
 
