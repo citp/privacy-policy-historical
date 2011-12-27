@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viaddress.com privacy policy that was archived on 2010-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100215181149id_/http%3A//www.viaddress.com/privacy%2520policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viaddress.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227100851id_/http%3A//www.viaddress.com/privacy%2520policy.php) for the most accurate reproduction.*
 
-# ViaAddress
+# Viaddress : The Global Leader in Package Forwarding
 
 At VIAddress.com we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us.   
 This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you.  
