@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pbtech.co.nz privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629045715id_/http%3A//pbtech.co.nz/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbtech.co.nz privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227082736id_/http%3A//www.pbtech.co.nz/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# PB Tech - Computer Parts, PC Components, Laptop Computers, LCD Monitors, Digital Cameras and more!
+# PB Tech - Computer Parts, PC Components, Laptop Computers, LCD Monitors, Tablets and more!
 
 PB Technologies Ltd are committed to providing our customers with a secure, private shopping experience.
 
