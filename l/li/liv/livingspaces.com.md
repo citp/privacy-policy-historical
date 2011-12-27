@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingspaces.com privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218035155id_/http%3A//www.livingspaces.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingspaces.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227151741id_/http%3A//www.livingspaces.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Living Spaces Furniture - About Us
 
@@ -35,3 +35,6 @@ Living Spaces Furniture has the appropriate security measures in place in our ph
 
 **Marketing Tracking**  
 Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page.](http://www.google.com/privacy_ads.html)
+
+**California Privacy Rights**  
+Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To request a copy of the information disclosure provided by Living Spaces Furniture pursuant to Section 1798.83 of the California Civil Code, please contact (insert email address here)
