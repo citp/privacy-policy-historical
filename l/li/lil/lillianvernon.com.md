@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lillianvernon.com privacy policy that was archived on 2011-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110326192253id_/http%3A//www.lillianvernon.com/CustomerService/Index/PrivacyAndSecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lillianvernon.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227025658id_/http%3A//www.lillianvernon.com/CustomerService/Index/PrivacyAndSecurity) for the most accurate reproduction.*
 
 # Customer Service
 
