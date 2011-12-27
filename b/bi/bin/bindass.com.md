@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bindass.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628165101id_/http%3A//www.bindass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bindass.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227204049id_/http%3A//www.bindass.com/privacy) for the most accurate reproduction.*
 
-# Bindass - Privacy Policies
+# Bindass.com - Be bindass! Be yourself!
+
+[Home ](http://www.bindass.com/)Privacy Policies
 
 PRIVACY POLICY
 
