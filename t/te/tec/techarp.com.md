@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techarp.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628202111id_/http%3A//www.techarp.com/show.aspx%3FfileID%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techarp.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227085324id_/http%3A//www.techarp.com/show.aspx%3FfileID%3D10) for the most accurate reproduction.*
 
 # Tech ARP - Where The Best In Technology Gather
 
