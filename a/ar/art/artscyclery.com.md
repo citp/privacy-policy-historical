@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artscyclery.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628002921id_/http%3A//www.artscyclery.com/custservice/privacy.html%3Fpage%3Dserv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artscyclery.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227155115id_/http%3A//www.artscyclery.com/custservice/privacy.html%3Fpage%3Dserv) for the most accurate reproduction.*
 
 # Art's Cyclery
 
