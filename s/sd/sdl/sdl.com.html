@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sdl.com privacy policy that was archived on 2011-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624013657id_/http%3A//www.sdl.com/en/Legal/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sdl.com privacy policy that was archived on 2011-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227082139id_/http%3A//www.sdl.com/en/Legal/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -75,15 +75,11 @@
 </div>
 
 <div id="branding"><a href="/en"><img src="/en/Images/logo-sdl-yctl-branding_tcm16-30905.gif" alt="SDL.com" class="Image"></a>
-  <form name="frmSearch" method="get" action="/en/search.asp">
-<ul id="Tools"><li class="Search">
-		<input type="hidden" name="site" value="sdl_EN">		
-			<input type="hidden" name="client" value="sdl_com">
-			<input type="hidden" name="proxystylesheet" value="sdl_com">
-			<input type="hidden" name="output" value="xml_no_dtd">
-<input name="q" type="text"> 
+  <form name="frmSearch" method="get" action="/en/search/default.asp">
+<ul id="Tools">
+<li class="Search">
+        <input name="q" type="text"> 
         <input type="submit" name="Search" value="Search" id="Search" alt="Search" class="imgbutton"> 
-
 </li>
   </ul>
   </form>
@@ -228,7 +224,7 @@ $(document).ready(function() {
 function postDataToSF(userData){
                 //alert("userData:" + userData);
 	//var targetURL = "http://dev.sdl.com/en/test/form-pages/playerDataToSF.asp";
-	var targetURL = "http://dev.sdl.com/PostDataToSF.aspx";
+	var targetURL = "http://www.sdl.com/PostDataToSF.aspx";
 	$.ajax({
 		type 	: "POST",
 		cache	: false,
@@ -242,5 +238,6 @@ function postDataToSF(userData){
 
 }
 </script>
+   
 
 </body></html>
