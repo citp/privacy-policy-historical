@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogsdaddy.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623004957id_/http%3A//www.blogsdaddy.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogsdaddy.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227161046id_/http%3A//www.blogsdaddy.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy ~ Blogs Daddy | Link Building Service | Seo Service | Directory Submission | Article Submission | Social Bookmarking Submission | Web Designing | Web design India
+# Privacy Policy ~ Technology Blog | Blogs Daddy
 
 Thank you for visiting our **blog site**. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
