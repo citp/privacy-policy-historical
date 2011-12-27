@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubi.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192414id_/http%3A//www.ubi.com/US/Info/Info.aspx%3Ftagname%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubi.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227090715id_/http%3A//www.ubi.com/US/Info/Info.aspx%3Ftagname%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Ubisoft - Privacy Policy
 
@@ -147,6 +147,10 @@ Ubisoft may collect information regarding the user’s behaviour, and his/her us
 Our websites also use cookies. Cookies are pieces of information that a website sends to your computer while you are viewing the website. We and other companies use cookies for a variety of purposes. For example, when you return to one of our websites after logging in, cookies provide information to the website so that the website will remember who you are. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You can do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your web experience smoother, like the features mentioned above, and some of our services may not function properly. 
 
 Finally, once you've clicked on an advertisement and have left our websites, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their website. 
+
+**Advertisements**
+
+Our website(s) may partner with third party online advertising companies, such as AdTech, to deliver advertisements on our website(s). To help select the ads of greatest interest to you, AdTech uses cookies and similar technology to collect non-personal information such as browser type, operating system, and date and time at which a specific banner was delivered to select ads that are more relevant to your interests, to better personalize the experience for you. To learn more about this practice, you may visit the Interactive Advertising Bureau (IAB) at [http://iab.net](http://iab.net/) and AdTech at [http://adtechus.com](http://adtechus.com/). To opt-out of personalized advertising, visit <http://www.adtechus.com/privacy/>. 
 
 back to top  
   
