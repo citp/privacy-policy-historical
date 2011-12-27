@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asb.tv privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626104624id_/http%3A//airshowbuzz.com/go/browse/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asb.tv privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227084517id_/http%3A//www.airshowbuzz.com/go/browse/privacyPolicy) for the most accurate reproduction.*
 
-# Airshowbuzz.com: Your Airshow Source
+# Airshowbuzz.com: Your Aviation Resource
 
 **We know people rarely read the fine print, but we thought we’d post it anyway. Without breaking out your magnifying glass, we’ll zealously guard your personal information and we’ll never compromise your integrity, or ours.**
 
