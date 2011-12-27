@@ -1,65 +1,200 @@
-> *The following text is extracted and transformed from the tradesmarter.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624194630id_/http%3A//www.tradesmarter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradesmarter.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227200228id_/http%3A//www.tradesmarter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
-Thank you for visiting Tradesmarter, and using the games, services, platform and applications we provide (collectively, the “Services”). Your privacy is important to us.  
-To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Site (the “Policy”).
+**Our Commitment**
 
-_Capitalized terms used and not otherwise defined in this document shall have the meanings set forth in the Tradesmarter Terms of Use (the “Terms”)._
+Market Punter Pty Ltd is committed to providing you with the highest levels of client service. We recognise that your privacy is very important to you. The Privacy Amendment (Private Sector) Act, 2000 sets out a number of National Privacy Principles (NPPs). Our aim is to both support and ensure that we comply with these principles. Further information on privacy in Australia may be obtained by visiting the website of the Office of the Federal Privacy Commissioner at http://www.privacy.gov.au.
 
-## **Information Collection and Use**
+Market Punter Pty Ltd believes that this Privacy Policy discloses how the personal information you provide to us and our representatives, is collected, used, held, disclosed and disseminated.
 
-During the registration process to the Services, Users are required to submit information such as full name, password, nickname, country, email address, mobile phone. The username and password are used to ensure that only you have access to any of the personal information you have provided. You are solely responsible for maintaining the secrecy of any password you use to register, ensuring that you log out from your account when you finish using the Service, and applying caution whenever disclosing information online.
+Market Punter Pty Ltd is required to meet particular legislative and regulatory requirements. We are required to collect certain personal information from you for the purposes of:
 
-[](http://www.tradesmarter.com/)
+  * Providing you with the relevant product or service
+  * Managing and administering the product or service
+  * Protecting against fraud
 
-The Site also logs non-personally-identifiable information including IP address, profile information, aggregate user data and browser type. We use information about your activity on the Site to manage the Site, track usage and improve Tradesmarter products and services. We may share with our partners aggregated and non-personally identifiable information regarding the way our users use our products and services.
 
-## **Sharing and Disclosure of Information**
 
-Except as otherwise described in this Policy, Tradesmarter will not disclose personal information to any third party unless Tradesmarter believes that disclosure is necessary:  
-**_(1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by Tradesmarter, whether or not a response  
-is required by applicable law;_**  
-**_(2) to enforce the Terms or to protect Tradesmarter’s rights; or_**  
-**_(3) to protect the safety of members of the public and Users of the Services._**  
-Tradesmarter reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of Tradesmarter  
-or any of its assets. For more information see the _“Changes in Our Privacy Policy”_ section below.
+We encourage you to check our website regularly for any updates to our Privacy Policy.
 
-## **Use of Cookies**
+**Your Personal Information**
 
-Tradesmarter uses cookies to store Users’ preferences and to record session information, for the purpose of customizing Web page content based on browser type and user profile information, and advertising. We do not link the information we store in cookies to any personally identifiable information you submit while using the Services.  
-You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set — each browser is different,  
-so check the “Help” menu of your browser to learn how to change your cookie preferences –  
-however, you must enable cookies from Tradesmarter in order to use most functions on the Site.  
-Please note that Tradesmarter allows third party advertisers that are presenting advertisements on some of our pages to set and access their cookies on your computer.  
-This Policy covers the use of cookies by Tradesmarter and does not cover the use of cookies by any advertisers.  
-Advertisers’ use of cookies is subject to their own privacy policies.  
-Tradesmarter is not responsible for the privacy practices exercised by any third parties. Please consult the respected policies of these providers to learn more about their practices.
+As a financial services organisation we are subject to certain legislative and regulatory requirements which necessitate us to obtain personal information about you, including s945A of the Corporations Act. Detailed below is some of the information you may be required to provide:
 
-### **Links**
+  * your name, date of birth, tax file number, current addresses, telephone/mobile/fax numbers, e-mail address;
+  * information regarding your dependents and family commitments;
+  * your occupation, employment history, details family commitments, social security eligibility, health information or other information the organisation considers necessary;
+  * your financial needs and objectives;
+  * your assets and liabilities (current and future), income, expenses;
+  * your superannuation and insurance details;
+  * your social security entitlements; and
+  * your risk profile details.
 
-The Site contains links to third party websites. Tradesmarter is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user  
-should read the privacy policy stated on that site. This Policy only governs information collected on the Site.
 
-### Correcting/Updating or Removing Information
 
-You may modify or remove any of your personal information at any time by logging into your account and accessing you account profile management.  
-Email Choice/Opt-out.
+**How We Collect Personal Information**
 
-[](https://www.tradesmarter.com/options/account)
+Market Punter Pty Ltd collects personal information in a number of ways, including:
 
-During the registration process, you are requested to provide a valid email address in order to enable the Tradesmarter team to provide you with email support and in order to allow Tradesmarter to contact you, from time to time, with news and updates about services, products and offers (such as: a newsletter, new releases, new features, special offers).
+  * directly from you, when you attend a face-to face interview;
+  * directly from you, when you provide information through a data collection form;
+  * directly from you, when you provide information by phone;
+  * directly from you via an email or the internet; and
+  * directly from fund managers, superannuation funds, life insurance companies and other product issuers once authorisation has been provided by you.
 
-Users who no longer wish to receive updates or notifications, other than emails directly related to the Site may choose to do so by sending an email. All notification emails and other communications include the above instructions for opting-out of those communications in the future.
 
-### **Third Party Advertising**
 
-Ads, marketing offers and other promotional information appearing on the Site may be delivered to users by Tradesmarter or one of its Web advertising partners. Tradesmarter makes no warranty, either express or implied, as to these other products, services, or other advertised items and the use thereof.
+You have a right to refuse us authorisation to collect information from a third party.
 
-### **International Visitors**
+**How We Use Your Personal Information**
 
-The Site and Services are hosted and processed in Europe You therefore understand and consent that your information may be transferred outside of the country in which you reside, and that the laws governing data collection and use in Europe may differ from the laws of the country in which you reside. By providing your personal data you consent to such transfer.  
-Changes in Our Privacy Policy
+The information in this document details how we comply with the Privacy Act including:
 
-_From time to time we may make changes to this Policy. If we make changes that are materially less restrictive on our use or disclosure of personal information you have provided to us, we will notify our registered users of what the changes are. A user is bound by any changes to the policy when she or he uses the site after receiving  
-notification of those changes._
+  * What is the purpose?
+  * Who is my information disclosed to?
+  * What law requires collection?
+  * What are the consequences?
+
+
+
+Primarily, your personal information is used in order to provide appropriate investment services to you. We may also use the information that is related to the primary purpose and it is reasonable for you to expect the information to be disclosed.
+
+From time to time, we may provide you with direct marketing material. This will include articles and newsletters that may be of interest to you. If, at any time, you do not wish to receive this information any further, you may contact us with this request. We will endeavour to meet your request within 2 weeks. We maintain a Register for those individuals not wanting direct marketing material.
+
+If you provide inaccurate or incomplete information we may not be able to provide you with the products or services you are seeking.
+
+**When We Disclose Your Personal Information**
+
+In line with modern business practices common to many financial institutions and to meet your specific needs we may disclose your personal information to the organisations described below.
+
+The Corporations Act has provided the Australian Securities and Investments Commission with the authority to inspect certain personal information that is kept on our files about you.
+
+We collect information about you for the purpose of reporting to AUSTRAC under the Anti-Money Laundering and Counter-Terrorism Financing Act 2006.
+
+For the purposes set out above, we may disclose your personal information to organisations outside Market Punter Pty Ltd. The organisations to which we disclose information may include:
+
+  * superannuation fund trustees, insurance providers, fund managers and other product providers in order to manage or administer your product or service;
+  * compliance consultants to ensure that our representatives are meeting our compliance standards;
+  * paraplanning contractors or temporary staff to handle workloads during peak periods;
+  * mailing houses;
+  * your professional advisers, including your solicitor or accountant as authorised by you;
+  * information technology service providers to maintain, review and develop our business systems, procedures and infrastructure including testing or upgrading our computer systems;
+  * government and regulatory authorities and other organisations, as required or authorised by law, for example, to government or regulatory bodies for the purposes related to public health or safety, the prevention or detection of unlawful activities or to protect public revenue;
+  * a potential purchaser/organisation involved in the proposed sale of our business for the purpose of due diligence, corporate re-organisation and transfer or all or part of the assets of our business;
+  * product planning and development advisers;
+  * where you have given your consent including your legal advisers;
+  * a new owner of our business that will require the transfer of your personal information.
+
+
+
+In addition, our employees and the outsourced companies are obliged to respect the confidentiality of any personal information held by Market Punter Pty Ltd.
+
+Market Punter Pty Ltd takes its obligations to protect your information seriously. This includes when we operate throughout Australia and overseas. As part of our operations some uses and disclosures of your information may occur outside your State or Territory and/or outside of Australia. In some circumstances we may need to obtain your consent before this occurs.
+
+In the event of that we propose to sell the business, we may disclose your personal information to potential purchasers for the purpose of them conducting due diligence investigations. Disclosure will be made in confidence and it will be a condition of that disclosure that no personal information will be used or disclosed by them.
+
+**How We Store and Secure Your Personal Information**
+
+We keep your personal information in your client file. These files are accessible to authorised personnel only and are appropriately secured out of hours.
+
+Your personal information may also be held on our computer database. All computer-based information is protected through the use of access passwords. Data is backed up regularly and stored securely off site. Other measures taken are:
+
+  * Confidentiality requirements for our employees
+  * Security measures for systems access
+  * Providing a discreet environment for confidential discussions
+
+
+
+Personal information will be treated as confidential information and sensitive information will be treated highly confidential.
+
+It is a legislative requirement that we keep all personal information and records for a period of 7 years. Should you cease to be a client of ours, we will maintain your personal information on or off site in a secure manner for 7 years. After this, the information will be destroyed.
+
+**Ensure Your Personal Information Is Correct**
+
+Market Punter Pty Ltd takes all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. To ensure we can maintain this level of accuracy and completeness, we recommend that you:
+
+  * inform us of any errors in your personal information as soon as possible; and
+  * update us with any changes to your personal information as soon as possible.
+
+
+
+**Access to Your Personal Information**
+
+You have a right to access your personal information, subject to certain exceptions allowed by law. We ask that you provide your request for access in writing (for security reasons) and we will provide you with access to that personal information. Access to the requested personal information may include:
+
+  * providing you with copies;
+  * providing you with the opportunity for inspection; or
+  * providing you with a summary.
+
+
+
+If charges are applicable in providing access to you, we will disclose these charges to you prior to providing you with the information.
+
+Some exceptions exist where we will not provide you with access to your personal information if:
+
+  * providing access would pose a serious threat to the life or health of a person;
+  * providing access would have an unreasonable impact on the privacy of others;
+  * the request for access is frivolous or vexatious;
+  * the information is related to existing or anticipated legal proceedings between us and would not be discoverable in those proceedings;
+  * providing access would reveal our intentions in relation to negotiations with you in such a way as to prejudice those negotiations;
+  * providing access would be unlawful;
+  * denying access is required or authorised by or under law;
+  * providing access would be likely to prejudice certain operations by or on behalf of an enforcement body or an enforcement body requests that access not be provided on the grounds of national security.
+
+
+
+Should we refuse you access to your personal information, we will provide you with a written explanation for that refusal.
+
+**Using Government Identifiers**
+
+Although in certain circumstances we are required to collect government identifiers such as your tax file number, Medicare number or pension card number, we do not use or disclose this information other than when required or authorised by law or unless you have voluntarily consented to disclose this information to any third party.
+
+**Dealing with us anonymously**
+
+You can deal with us anonymously where it is lawful and practicable to do so. For example, if you telephone requesting our postal address.
+
+**Your sensitive information**
+
+Without your consent we will not collect information about you that reveals your racial or ethnic origin, political opinions, religious or philosophical beliefs or affiliations, membership of professional or trade association, membership of a trade union, details of health, disability, sexual orientation, or criminal record.
+
+This is subject to some exceptions including:
+
+  * the collection is required by law; and
+  * when the information is necessary for the establishment, exercise or defence of a legal claim.
+
+
+
+**Complaints Resolutions**
+
+Please contact us if you wish to complain about any breach or potential breach of your privacy rights. Your complaint will be responded to within 7 days. If you are not satisfied with the outcome of your complaint, you are entitled to contact the Office of the Privacy Commissioner.
+
+**Our Website**
+
+Our Website utilises cookies to provide you with a better user experience. Cookies also allow us to identify your browser while you are using our site – they do not identify you. If you do not wish to receive cookies, you can instruct your web browser to refuse them.
+
+**Spam Act**
+
+Spam is a generic term used to describe electronic ‘junk mail’- unwanted messages sent to a person’s email account or mobile phone. In Australia, spam is defined as unsolicited commercial electronic messages, such as emails, instant messaging, SMS and other mobile phone messaging. It excludes normal voice-to-voice communication by telephone.
+
+Market Punter Pty Ltd complies with the provisions of the Spam Act when sending commercial electronic messages.
+
+Equally importantly, Market Punter Pty Ltd makes sure that our practices are in accordance with the National Privacy Principles in all activities where they deal with personal information. Personal information includes our clients contact details.
+
+**Internal Procedure for dealing with complaints**
+
+The three key steps Market Punter Pty Ltd follows:
+
+  * Consent – Only commercial electronic messages are sent with the addressee’s consent – either express or inferred consent.
+  * Identify – Electronic messages will include clear and accurate information about the person and that Market Punter Pty Ltd is responsible for sending the commercial electronic message.
+  * Unsubscribe – We ensure that a functional unsubscribe facility is included in all our commercial electronic messages and deal with unsubscribe requests promptly.
+
+
+
+**Consented to such communications**
+
+Commercial messages will only be sent to you when you have given consent. This may be express consent – a direct indication that it is okay to send the message, or messages of that nature or inferred consent based on our business or other relationship with you and your conduct.
+
+**Comply with the law regarding viral messages**
+
+Market Punter Pty Ltd ensures that Commercial Communications that include a Forwarding Facility contain a clear recommendation that the Recipient should only forward the Commercial Communication to persons with whom they have a relationship, where that relationship means that person could be said to have Consented to receiving Commercial Communications.
