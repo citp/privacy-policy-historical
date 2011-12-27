@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drscholls.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626062001id_/http%3A//www.schering-plough.com/legal/privacy-certified.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drscholls.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227070715id_/http%3A//www.schering-plough.com/legal/privacy-certified.aspx) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -9,7 +9,7 @@ Effective: September 2007   |  Last updated: August 2008
   
 **Scope [ ](http://www.spfiles.com/exit.html)**
 
-This notice provides highlights of the full [Schering-Plough Online Privacy Notice](https://web.archive.org/web/20110626062001id_/http%3A//www.schering-plough.com/legal/privacy-full-certified.aspx). and applies to TRUSTe certified Schering-Plough Web sites.  To view a complete list of these validated Schering-Plough Web sites, please click on the TRUSTe seal.   
+This notice provides highlights of the full [Schering-Plough Online Privacy Notice](https://web.archive.org/web/20111227070715id_/http%3A//www.schering-plough.com/legal/privacy-full-certified.aspx). and applies to TRUSTe certified Schering-Plough Web sites.  To view a complete list of these validated Schering-Plough Web sites, please click on the TRUSTe seal.   
  
 
 **Personal Information**
