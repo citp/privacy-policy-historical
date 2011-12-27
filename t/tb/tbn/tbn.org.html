@@ -1,19 +1,128 @@
-<!--The following is the downloaded HTML source of the tbn.org privacy policy that was archived on 2010-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101130151248id_/http%3A//www.tbn.org/about-us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tbn.org privacy policy that was archived on 2011-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228005409id_/http%3A//www.tbn.org/about-us/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>Privacy Policy - About Us</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Privacy Policy</title>
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:type" content="tv_show">
+<meta property="og:url" content="http://www.tbn.org/about-us/privacy-policy">
+<meta property="og:site_name" content="Trinity Broadcasting Network">
+<meta property="og:image" content="http://www.tbn.org/images/fb_recommend_icon.jpg">
+<meta property="fb:admins" content="100002059815959">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="viewport" content="width = device-width, initial-scale = 1.25, minimum-scale = 0.6667, maximum-scale = 5.0, user-scalable = yes">
+<meta name="description" content="TBN is the world's largest religious network, delivering the Christian message of hope around the globe via television, internet and mobile devices.">
+<meta name="keywords" content="Christian television online, Christian tv, Christian online television, Christian television shows, Live Christian television, Live Christian tv, Christian movies, Christian videos, Christian vodeo, Christian videos online">
 <link href="/includes/styles_default.css" rel="stylesheet" type="text/css">
 <link href="/about/includes/styles.css" rel="stylesheet" type="text/css">
+<link href="http://www.tbn.org/includes/subs-master.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="/includes/styles_iphone.css" media="only screen and (max-device-width: 480px)">
 <link rel="shortcut icon" href="/favicon.ico">
-<script src="/includes/jquery-1.4.2.min.js" type="text/javascript" language="javascript"></script>
-<script src="/includes/scripts.js" type="text/javascript" language="javascript"></script>
+<!--[if lte IE 6]>
+	<link href="http://www.tbn.org/includes/fix-ie6.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+    .pngBg {
+    background: none !important;
+    }
+    </style>
+<![endif]-->
+
+<!--[if gte IE 7]>
+    <style type="text/css">
+    .pngBg {
+    filter: none !important;
+    }
+    </style>
+<![endif]-->
+
+
+<!--[if IE]>
+     <script type="text/javascript" src="/includes/CSSMenu.js"></script>
+<![endif]-->
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="/includes/jquery-1.4.2.min.js" type="text/javascript" language="javascript"></script>
+<script src="/includes/scripts.js?v=7" type="text/javascript" language="javascript"></script>
 <script src="/includes/swfobject.js" type="text/javascript" language="javascript"></script>
 <script src="/includes/swfobject2.1.js" type="text/javascript" language="javascript"></script>
 <script src="/includes/scripts_iphone.js" type="text/javascript" language="javascript"></script>
+
+<script type="text/javascript">
+	function fixIE9Position() {
+		if(navigator.userAgent.indexOf("Trident/5")>-1) {
+			var leftpos = 5;
+			var noleft = 0;
+			var selectleft = 51;
+			document.getElementById("headerFlash").style.left = leftpos + 'px';
+			document.getElementById("containHeader").style.left = noleft + 'px';
+			document.getElementById("site_select").style.left = selectleft + 'px';
+			
+		}
+	}
+</script>
+<script type="text/javascript">
+/**
+* Written by Rob Schmitt, The Web Developer's Blog
+* http://webdeveloper.beforeseven.com/
+*/
+
+/**
+* The following variables may be adjusted
+*/
+var active_color = '#000'; // Colour of user provided text
+var inactive_color = '#222'; // Colour of default text
+
+/**
+* No need to modify anything below this line
+*/
+/*window.onload = formDefaultValues;*/
+
+function formDefaultValues() {
+  var fields = getElementsByClassName(document, "input", "default-value");
+  if (!fields) {
+    return;
+  }
+  var default_values = new Array();
+  for (var i = 0; i < fields.length; i++) {
+    fields[i].style.color = inactive_color;
+    if (!default_values[fields[i].id]) {
+      default_values[fields[i].id] = fields[i].value;
+    }
+    fields[i].onfocus = function() {
+      if (this.value == default_values[this.id]) {
+        this.value = '';
+        this.style.color = active_color;
+      }
+      this.onblur = function() {
+        if (this.value == '') {
+          this.style.color = inactive_color;
+          this.value = default_values[this.id];
+        }
+      }
+    }
+  }
+}
+
+/**
+* getElementsByClassName()
+* Written by Jonathan Snook, http://www.snook.ca/jonathan
+* Add-ons by Robert Nyman, http://www.robertnyman.com
+*/
+
+function getElementsByClassName(oElm, strTagName, strClassName){
+  var arrElements = (strTagName == "*" && oElm.all)? oElm.all : oElm.getElementsByTagName(strTagName);
+  var arrReturnElements = new Array();
+  strClassName = strClassName.replace(/\-/g, "\\-");
+  var oRegExp = new RegExp("(^|\\s)" + strClassName + "(\\s|$)");
+  var oElement;
+  for (var i = 0; i < arrElements.length; i++) {
+    oElement = arrElements[i];
+    if (oRegExp.test(oElement.className)) {
+      arrReturnElements.push(oElement);
+    }
+  }
+  return (arrReturnElements);
+}
+</script>
 <script type="text/javascript" language="javascript">
 	// iPhone specific JavaScript
 	if (navigator.userAgent.match(/Android|iPhone|iPod/i)) {
@@ -49,7 +158,7 @@
 <!--        Or visit our website at: http://www.trinetcom.com       -->
 <!--****************************************************************-->
 </head>
-<body class="" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<body onload="fixIE9Position();formDefaultValues();" class="" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <script type="text/javascript" language="javascript">
 	/*
 	// iPhone specific JavaScript
@@ -69,35 +178,223 @@
 	}
 	*/
 </script>
-<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0" id="containerTable">
 	<tbody><tr>
-		<td width="100%" height="100%" align="center" valign="top"> 
-				<table width="760" border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr> 
-						<td height="1" colspan="7" class="border"><img src="http://tbn.org/images/clear.gif" alt="clear" width="1" height="1"></td>
+		<td width="100%" height="100%" align="center" valign="top" style="position:relative;z-index:100;"> 
+        		
+                  <div id="containHeader">          
+                      <div id="subsHeader" style="width:915px; height:198px;">
+                    		<div id="headerFlash" style="position:relative;width:915px;height:172px;">                          	<!--<img src="/images/all/sub-headerFlash-map3.jpg" style="width:915px;height:172px;" usemap="#headerMap" border="0"/><map name="headerMap" id="headerMap"><area shape="rect" coords="1,27,155,171" href="/" /><area shape="rect" coords="570,147,614,164" href="/" /><area shape="rect" coords="618,147,660,164" href="/about-us" /><area shape="rect" coords="662,147,712,164" href="/partner/pledge-donation" /></map>-->
+                            <img src="/images/all/sub-headerFlash-map-interior.jpg" style="width:822px;height:99px;margin-top:71px;margin-left:-23px;" usemap="#headerMap" border="0"><map name="headerMap" id="headerMap"><area shape="rect" coords="0,0,110,99" href="/"><area shape="rect" coords="538,78,573,89" href="/"><area shape="rect" coords="582,78,621,89" href="/about-us"><area shape="rect" coords="630,78,674,89" href="/partner/pledge-donation"></map>
+                    		<form id="search-top" name="search" method="post" action="http://www.tbn.org/search/"><input id="keywords" type="text" size="15" name="keywords" value="Search tbn.org" class="default-value" style="color: rgb(34, 34, 34);"><input type="submit" value="Go" id="search-submit-top"></form><!--input type="image" src="/images/all/search-go-btn.jpg" border="0" width="20" height="20" id="search-submit-top" /-->
+                            </div>
+               <div id="topnav">
+                <div id="tbn-ltr-link">
+                   <a href="/"><img src="/images/clear.gif" width="82" height="29" border="0"></a>
+                </div>
+                <div id="menuwrapper">
+                  <ul id="primary-nav">
+                    <li class="menuactive"><a class="menuparent" href="/your-destiny" accesskey="1" title="Your Destiny"><dfn>1: </dfn>Your Destiny</a></li>
+                    <li class="menu_divider">&nbsp;</li>
+                    <li class="menuparent"><a class="menuparent" href="/watch-us"><dfn>2: </dfn>Watch Us</a>
+                      <ul>
+                        <li><a href="/watch-us"><dfn>2.1: </dfn>Watch Online</a></li>
+                        <li><a href="/watch-us/how-to-watch-tbn"><dfn>2.2: </dfn>How to Watch TBN</a></li>
+                        <li><a href="/tbn-films/video-gallery"><dfn>2.3: </dfn>Video Gallery</a></li>
+                        <li><a href="/video_portal/"><dfn>2.4: </dfn>Video Portal</a></li>
+                        <li><a href="/watch-us/archives"><dfn>2.5: </dfn>Archives</a></li>
+                        <li><a href="/watch-us/broadcast-schedule"><dfn>2.6: </dfn>Broadcast Schedule</a></li>
+                        <li><a href="/watch-us/our-programs"><dfn>2.7: </dfn>Our Programs</a></li>
+                        <li><a href="/watch-us/praise-schedule"><dfn>2.8: </dfn>Praise Schedule</a></li>
+                        <li><a href="/watch-us/behind-the-scenes-schedule"><dfn>2.9: </dfn>Behind the Scenes Schedule</a></li>
+                        <li><a href="/watch-us/program-poll"><dfn>2.10: </dfn>Program Poll</a></li>
+                        <li><a href="/watch-us/da-vinci-code-resources"><dfn>2.11: </dfn>Da Vinci Code Resources</a></li>
+                        <li class="primarynav_li_bottom"></li>
+                      </ul>
+                      <div></div>
+                    </li>
+                    <li class="menu_divider">&nbsp;</li>
+                    <li class="menuparent"><a class="menuparent" href="/about-us"><dfn>3: </dfn>About Us</a>
+                      <ul>
+                        <li><a class="menuparent" href="/about-us"><dfn>3.1: </dfn>About Us</a>
+                        </li><li><a class="menuparent" href="/about-us/visit-tbn"><dfn>3.2: </dfn>Visit TBN</a>
+                          <!-- was commented before <ul>
+        <li><a href="#" ><dfn>3.1.1: </dfn>Yet Another Link</a></li>
+        <li><a href="#" ><dfn>3.1.2: </dfn>Yet Another Link</a></li>
+        <li class="primarynav_li_bottom">&nbsp;</li>
+        </ul>-->
+                       </li>
+                        <li><a class="menuparent" href="/about-us/the-tbn-story"><dfn>3.3: </dfn>The TBN Story</a></li>
+                        <li><a class="menuparent" href="/about-us/faq"><dfn>3.4: </dfn>FAQ</a></li>
+                        <li><a class="menuparent" href="/about-us/newsletter"><dfn>3.5: </dfn>Newsletter</a></li>
+                        <li class="primarynav_li_bottom">&nbsp;</li>
+                      </ul>
+                    </li>
+                    <li class="menu_divider">&nbsp;</li>
+                    <li class="menuparent"><a class="menuparent" href="http://www.tbnwebstore.org/" target="_blank" title="Store"><dfn>4: </dfn>Store</a></li>
+                    <li class="menu_divider">&nbsp;</li>
+                    <li class="menuparent"><a class="menuparent" href="/partner"><dfn>5: </dfn>Partner</a>
+                      <ul>
+                        <li><a href="/partner"><dfn>5.1: </dfn>Partner</a></li>
+                        <li><a href="/partner/pledge-donation"><dfn>5.2: </dfn>Pledge &amp; Donation</a></li>
+                        <li><a href="/partner/monthly-love-gift"><dfn>5.3: </dfn>Monthly Love Gift</a></li>
+                        <li><a href="/partner/gift-annuity"><dfn>5.4: </dfn>Gift Annuity</a></li>
+                        <li><a href="/partner/estate-planning"><dfn>5.5: </dfn>Estate Planning</a></li>
+                        <li><a href="/partner/prayer-partner"><dfn>5.6: </dfn>Prayer Partner</a></li>
+                        <li><a href="/partner/email-list-signup"><dfn>5.7: </dfn>Email List Signup</a></li>
+                        <li class="primarynav_li_bottom">&nbsp;</li>
+                      </ul>
+                    </li>
+                    <li class="menu_divider">&nbsp;</li>
+                    <li class="menuparent"><a class="menuparent" href="/announcements" title="Announcements"><dfn>6: </dfn>Announcements</a></li>
+                    <li class="menu_divider">&nbsp;</li>
+                    <li class="menuparent"><a class="menuparent" href="/watch-us/praise-schedule" title="Praise Tonight"><dfn>7: </dfn>Praise Tonight</a></li>
+                    <li class="menu_divider">&nbsp;</li>
+                    <li class="menuparent"><a class="menuparent" href="/contact"> <!--onmouseover="document.getElementById('news_select').style.visibility='hidden';" onmouseout="document.getElementById('news_select').style.visibility='visible';"--><dfn>8: </dfn>Contact</a>
+                      <ul> <!--onmouseover="document.getElementById('news_select').style.visibility='hidden';" onmouseout="document.getElementById('news_select').style.visibility='visible';"-->
+                        <li><a href="/contact"><dfn>8.1: </dfn>Contact Info</a></li>
+						<li><a href="/contact/prayer-praise"><dfn>8.2: </dfn>Prayer &amp; Praise</a></li>
+                        <li><a href="/contact/tbn-stations"><dfn>8.3: </dfn>TBN Stations</a></li>
+                        <li><a href="/contact/tbn-address-book"><dfn>8.4: </dfn>TBN Address Book</a></li>
+                        <li><a href="/contact/employment-opportunities"><dfn>8.5: </dfn>Employment Opportunities</a></li>
+                        <li><a href="/contact/prayer-request-form"><dfn>8.6: </dfn>Prayer Request Form</a></li>
+                        <li><a href="/contact/contact-form"><dfn>8.7: </dfn>Contact Form</a></li>
+                        <li class="primarynav_li_bottom">&nbsp;</li>
+                      </ul>
+                    </li>
+                  </ul>
+                  <div id="navi_search">
+                    <div class="select_container">
+                      <!-- class="formelement125" -->
+
+<!--[if IE]>
+<style type="text/css">
+.inpSelect {
+  color: black; 
+  position: absolute;
+  width: 128px;
+  top: 3px; 
+  left: -2px;
+  border: 0;
+}
+</style>
+<![endif]--> 
+
+<script type="text/javascript">
+var isIE = false;
+	
+function ExpandSelectMenu(select_menu)
+{
+	if(isIE)	select_menu.style.width='auto';
+}
+
+function ContractSelectMenu(select_menu)
+{
+	if(isIE)	select_menu.style.width='128px';
+}
+	
+</script>
+<!--[if IE]><script type="text/javascript">var isIE = true;</script><![endif]--> 
+
+<div class="container">
+	<select class="inpSelect" name="site_select" id="site_select" size="1" style="overflow:auto;" onmouseover="ExpandSelectMenu(this);" onblur="ContractSelectMenu(this);" onchange="P7_JumpMenu(this,1);">
+
+		<option value="">Other TBN Sites: </option>
+						<option value="/">-------------------</option>
+				<option value="/" title="TBN Networks">TBN Networks</option>
+				<option value="/">-------------------</option>
+									<option value="http://www.itbn.org~window:New" title="iTBN">iTBN</option>
+										<option value="http://www.tbnnetworks.com/~window:New" title="TBN Networks Affiliates">TBN Networks Affiliates</option>
+										<option value="http://www.churchchannel.tv~window:New" title="Church Channel">Church Channel</option>
+										<option value="http://www.jc-tv.net~window:New" title="JC-TV">JC-TV</option>
+										<option value="http://www.smileofachildtv.org~window:New" title="Smile of a Child TV">Smile of a Child TV</option>
+										<option value="http://www.tbnenlaceusa.com~window:New" title="TBN Enlace USA">TBN Enlace USA</option>
+										<option value="http://nejattv.org/~window:New" title="Nejat TV">Nejat TV</option>
+										<option value="http://www.thehealingchannel.org~window:New" title="The Healing Channel">The Healing Channel</option>
+										<option value="http://www.tbnsecondchance.org/~window:New" title="TBN Second Chance">TBN Second Chance</option>
+									<option value=""> </option>
+								<option value="/">-------------------</option>
+				<option value="/" title="TBN Program Websites">TBN Program Websites</option>
+				<option value="/">-------------------</option>
+									<option value="http://www.tbn.org/virtualmemory~window:New" title="Virtual Memory">Virtual Memory</option>
+									<option value=""> </option>
+								<option value="/">-------------------</option>
+				<option value="/" title="Foreign TBN sites">Foreign TBN sites</option>
+				<option value="/">-------------------</option>
+									<option value="http://www.familykenya.com~window:New" title="TBN Africa">TBN Africa</option>
+										<option value="http://www.tbnasia.org~window:New" title="TBN Asia-South Pacific">TBN Asia-South Pacific</option>
+										<option value="http://www.tbn.org.au~window:New" title="TBN Australia">TBN Australia</option>
+										<option value="http://www.enlace.org~window:New" title="TBN Enlace South America">TBN Enlace South America</option>
+										<option value="http://www.lifetv.ee/~window:New" title="TBN Estonia">TBN Estonia</option>
+										<option value="http://www.tbneurope.org~window:New" title="TBN Europe">TBN Europe</option>
+										<option value="http://www.tbnasia-india.org~window:New" title="TBN India">TBN India</option>
+										<option value="http://www.tci-italia.it/~window:New" title="TBN Italy">TBN Italy</option>
+										<option value="http://www.tbnnamibia.tv~window:New" title="TBN Namibia">TBN Namibia</option>
+										<option value="http://www.tbn.org.nz~window:New" title="TBN New Zealand">TBN New Zealand</option>
+										<option value="http://www.tbnrussia.org~window:New" title="TBN Russia">TBN Russia</option>
+										<option value="http://www.tbn.co.za~window:New" title="TBN South Africa">TBN South Africa</option>
+										<option value="http://www.agape.co.tz~window:New" title="TBN Tanzania">TBN Tanzania</option>
+									<option value=""> </option>
+								<option value="/">-------------------</option>
+				<option value="/" title="Other">Other</option>
+				<option value="/">-------------------</option>
+									<option value="http://www.smileofachild.org~window:New" title="Smile of a Child">Smile of a Child</option>
+										<option value="http://www.communityedtv.org~window:New" title="Community Educational TV">Community Educational TV</option>
+										<option value="http://bible.gospelcom.net/~window:New" title="The Bible">The Bible</option>
+										<option value="http://www.biblenetworknews.com/~window:New" title="Latest Christian News">Latest Christian News</option>
+										<option value="http://www.holylandexperience.com/~window:New" title="Holy Land Experience">Holy Land Experience</option>
+										<option value="http://www.wdcmedia.com~window:New" title="Christian PR Firm &amp; Newswire">Christian PR Firm &amp; Newswire</option>
+										<option value="http://www.tmcrecordingstudio.com/~window:New" title="Trinity Music City Recording Studio">Trinity Music City Recording Studio</option>
+										<option value="http://www.paulcrouch.com~window:New" title="Paul Crouch Website">Paul Crouch Website</option>
+										<option value="http://tbnnewswire.com/~window:New" title="TBN News">TBN News</option>
+									<option value=""> </option>
+								<option value="/">-------------------</option>
+				<option value="/" title="Affiliates">Affiliates</option>
+				<option value="/">-------------------</option>
+									<option value="http://www.communityedtv.org~window:New" title="Community Educational TV">Community Educational TV</option>
+									<option value=""> </option>
+					</select>
+</div>                    </div>
+                  </div>
+                </div>
+              </div>
+              </div>
+
+                            
+                    
+                    
+                </div>
+                <table border="0" cellpadding="0" align="center" cellspacing="0" id="MainContentBg" class="pngBg"> 
+                <tbody><tr>
+                <td>
+                
+				<table width="850" border="0" cellpadding="0" cellspacing="0" align="center" style="margin:0 auto;top:-1px;/*IE*/top:-3px\9;/*IE End*/">
+					<!--background-color:#e6ebef;<tr> 
+                    
+						<td height="1" colspan="7" class="border"><img src="http://www.tbn.org/images/clear.gif" alt="clear" width="1" height="1"></td>
 					</tr>
 					<tr> 
-						<td width="1" rowspan="5" class="border"><img src="http://tbn.org/images/clear.gif" alt="clear" width="1" height="1"></td>
-						<td width="123" align="left" valign="top"><a href="http://tbn.org/"><img src="http://tbn.org/images/tbn_sub_01.jpg" width="123" height="68" border="0"></a></td>
-						<td width="242" align="left" valign="top"><img src="http://tbn.org/images/tbn_sub_02.jpg" width="242" height="68"></td>
-						<td width="242" align="left" valign="top"><img src="http://tbn.org/images/tbn_sub_03.jpg" width="242" height="68"></td>
-						<td colspan="2" class="navbackground"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><img src="http://tbn.org/images/tbn_sub_04.jpg" width="151" height="53"></td></tr><tr><td><img src="http://tbn.org/images/tbn_sub_04b.gif" width="151" height="15"></td></tr></tbody></table></td>
-						<td width="1" rowspan="5" class="border"><img src="http://tbn.org/images/clear.gif" alt="clear" width="1" height="1"></td>
+						<td width="1" rowspan="5" class="border"><img src="http://www.tbn.org/images/clear.gif" alt="clear" width="1" height="1"></td>
+						<td width="123" align="left" valign="top"><a href="http://www.tbn.org/"><img src="http://www.tbn.org/images/tbn_sub_01.jpg" width="123" height="68" border="0"></a></td>
+						<td width="242" align="left" valign="top"><img src="http://www.tbn.org/images/tbn_sub_02.jpg" width="242" height="68"></td>
+						<td width="242" align="left" valign="top"><img src="http://www.tbn.org/images/tbn_sub_03.jpg" width="242" height="68"></td>
+						<td colspan="2" class="navbackground"><table cellspacing=0 cellpadding=0 border=0><tr><td><img src="http://www.tbn.org/images/tbn_sub_04.jpg" width="151" height="53"></td></tr><tr><td><img src="http://www.tbn.org/images/tbn_sub_04b.gif" width=151 height=15></td></tr></table></td>
+						<td width="1" rowspan="5" class="border"><img src="http://www.tbn.org/images/clear.gif" alt="clear" width="1" height="1"></td>
+					</tr>-->
+					<tbody><tr style="line-height: 0.75em;"> 
+						<td width="123" align="left" valign="top" style="line-height: 0.75em;"><img src="http://www.tbn.org/images/tbn_sub_05.gif" width="123" height="15"></td>
+						<td width="289" align="left" valign="top"><img src="http://www.tbn.org/images/tbn_sub_06.gif" width="289" height="15"></td>
+						<td width="288" align="left" valign="top"><img src="http://www.tbn.org/images/tbn_sub_07.gif" width="288" height="15"></td>
+						<td width="1" rowspan="4" class="border"><img src="http://www.tbn.org/images/clear.gif" alt="clear" width="1" height="1"></td>
+						<td width="243" align="right" valign="middle" class="conhombck"><span class="conhomfon1"><a href="/contact" class="conhomfon">Contact</a> | <a href="http://www.tbn.org/" class="conhomfon">Home</a>&nbsp;&nbsp;</span></td>
 					</tr>
 					<tr> 
-						<td width="123" align="left" valign="top"><img src="http://tbn.org/images/tbn_sub_05.gif" width="123" height="15"></td>
-						<td width="242" align="left" valign="top"><img src="http://tbn.org/images/tbn_sub_06.gif" width="242" height="15"></td>
-						<td width="242" align="left" valign="top"><img src="http://tbn.org/images/tbn_sub_07.gif" width="242" height="15"></td>
-						<td width="1" rowspan="4" class="border"><img src="http://tbn.org/images/clear.gif" alt="clear" width="1" height="1"></td>
-						<td width="151" align="right" valign="middle" class="conhombck"><span class="conhomfon"><a href="/contact" class="conhomfon">Contact</a> | <a href="http://tbn.org/" class="conhomfon">Home</a>&nbsp;&nbsp;</span></td>
-					</tr>
-					<tr> 
-						<td width="123" align="left" valign="top"><img src="http://tbn.org/about/images/about_01.jpg" width="123" height="20"></td>
-						<td colspan="2" align="left" valign="top">&nbsp;</td>
+						<td width="123" align="left" valign="top" style="line-height: 0.75em;"><img src="http://www.tbn.org/about/images/about_01.jpg" width="123" height="20"></td>
+						<td colspan="2" align="left" valign="top" style="background-color:#fff;">&nbsp;</td>
 						<td width="151" align="left" valign="middle" class="rightsect">&nbsp;&nbsp;SEARCH</td>
 					</tr>
 					<tr> 
-						<td width="123" rowspan="2" align="left" valign="top" class="navbackground"><img src="http://tbn.org/about/images/about_02.jpg" width="123" height="28"><img src="http://tbn.org/about/images/about_03.jpg" width="123" height="39"><img src="http://tbn.org/about/images/about_04.jpg" width="123" height="53"><table width="123" border="0" cellspacing="0" cellpadding="0">
+						<td width="123" rowspan="2" align="left" valign="top" class="navbackground" style="line-height: 0.75em;position:relative;"><img src="http://www.tbn.org/about/images/about_02.jpg" width="123" height="28"><img src="http://www.tbn.org/about/images/about_03.jpg" width="123" height="39"><img src="http://www.tbn.org/about/images/about_04.jpg" width="123" height="53"><table width="123" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td height="1" colspan="2" class="subnavline"><img src="/images/clear.gif" alt="clear" width="1" height="1"></td>
 	</tr>
@@ -229,7 +526,19 @@
 				<tbody><tr>
 					<td align="left" valign="top" class="tbnnewsfon">				<li>
 	
-					<a class="tbnnewslink" href="/announcements/with-digital-shift-complete-tbn-viewers-make-big-gains-with-sharper-pictures-more-faith-and-family-friendly-channel-options">With Digital Shift Complete, TBN Viewers Make Big Gains With Sharper Pictures, More Faith and Family-Friendly Channel Options</a>
+					<a class="tbnnewslink" href="/announcements/tbn-monroe-atlanta-ga-station-site-change-and-power-increase">TBN Monroe/Atlanta, GA Station Site Change and Power Increase</a>
+				</li>
+								<li>
+	
+					<a class="tbnnewslink" href="/announcements/join-tour-hosts-matt-laurie-crouch-on-an-unforgettable-trip-to-the-holy-land-2012">Join tour hosts Matt &amp; Laurie Crouch on an unforgettable trip to the Holy Land 2012!</a>
+				</li>
+								<li>
+	
+					<a class="tbnnewslink" href="/announcements/tbn-oklahoma-city-power-increase">TBN Oklahoma City Full-Power Major Power Increase</a>
+				</li>
+								<li>
+	
+					<a class="tbnnewslink" href="/announcements/newsboys-anchor-trio-of-new-reality-shows-on-tbn-s-jctv-youth-network">Newsboys Anchor Trio of New Reality Shows on TBN’s JCTV Youth Network</a>
 				</li>
 				</td>
 				</tr>
@@ -238,26 +547,66 @@
 	</tr>
 </tbody></table>
 </td>
-						<td colspan="2" align="left" valign="top"><a href="/about-us"><img src="http://tbn.org/about/images/about_title.gif" width="484" height="28" border="0" alt="About Us"></a><br><h1 class="subtitle">Privacy Policy</h1></td>
-						<td width="151" rowspan="2" align="left" valign="top" class="rightback"> 
-							<table width="150" border="0" cellspacing="0" cellpadding="5">
+						<td colspan="2" align="left" valign="top" style="background-color:#fff;width:577px;">
+                       
+                        <a href="/about-us"><img src="http://www.tbn.org/about/images/about_title.gif" width="484" height="28" border="0" alt="About Us"></a><br><h1 class="subtitle">Privacy Policy</h1>                        <div id="FB-Like-Google-Plus" style="position:relative;">
+                         <table border="0" cellspacing="2" cellpadding="0">
+                       <tbody><tr>
+                        <td>
+                                                	<iframe src="https://www.facebook.com/plugins/like.php?href=www.tbn.org/about-us/privacy-policy&amp;send=false&amp;layout=standard&amp;width=500&amp;show_faces=false&amp;action=recommend&amp;colorscheme=light&amp;font=arial&amp;height=30" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:500px; height:30px; display:inline;" allowtransparency="true"></iframe>
+                        </td>
+                        
+                        
+                        </tr>
+                        <tr>
+                       	<td><div style="display:inline;float:left;width:105px; height:30px;"><a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-url="http://www.tbn.org/about-us/privacy-policy">Tweet</a><script async="aysnc" defer="defer" type="text/javascript" src="https://platform.twitter.com/widgets.js"></script></div><!-- Google Plus 1--><!-- Place this tag where you want the +1 button to render --><div style="display:inline;float:left; width:80px; height:30px;"><g:plusone></g:plusone><!--  Place this tag after the last plusone tag -->
+						<script async="aysnc" defer="defer" type="text/javascript">                        
+						(function() {
+                            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                            po.src = 'https://apis.google.com/js/plusone.js';
+                            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                          })();
+                        </script></div><!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style " style="position:relative;display:inline; float:left; width:100px; height:30px; ">
+<a href="https://www.addthis.com/bookmark.php?v=250&amp;pubid=ra-4df7dd1023cd8606" class="addthis_button_compact">Share</a>
+</div>
+<script async="aysnc" defer="defer" type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4df7dd1023cd8606"></script>
+<script async="aysnc" defer="defer" type="text/javascript">
+var addthis_config = {
+          services_compact: 'email, bitly, delicious, digg, evernote, favorites, friendfeed, linkedin, netvibes, newsvine, orkut, reddit, stumbleupon, tumblr',
+          services_exclude: 'print'
+}
+</script>
+<!-- AddThis Button END --></td>
+                        </tr>
+                        </tbody></table>
+                      
+                        
+                        </div>
+                                                
+						
+                        </td>
+						<td rowspan="2" align="left" valign="top" class="rightback" style="width:151px;"> 
+							<table border="0" cellspacing="0" cellpadding="5" style="width:100%;">
 								<tbody><tr> 
-									<td height="46" align="right" valign="top" class="rightback">
-										<form action="http://tbn.org/search/" method="post" name="search" id="search">
+									<td height="46" align="right" valign="top" class="rightback" style="width:151px;">
+										<form action="http://www.tbn.org/search/" method="post" name="search" id="search">
 											<input name="keywords" type="text" id="keywords" size="15">
-											<a href="javascript: document.search.submit()"><img src="http://tbn.org/images/sub_go_btn.gif" alt="GO >" width="24" height="17" border="0"></a><br>
+											<a href="javascript: document.search.submit()"><img src="http://www.tbn.org/images/sub_go_btn.gif" alt="GO >" width="24" height="17" border="0"></a><br>
 										</form>
 									</td>
 								</tr>
-								<tr> 
-									<td height="21" align="left" valign="middle" class="rightsect">NOW ON TBN</td>
+                              </tbody></table>
+                              <table border="0" cellspacing="0" cellpadding="5" style="width:100%;position:relative;">  
+								<tbody><tr> 
+									<td height="21" align="left" valign="middle" class="rightsect" style="width:151px;">NOW ON TBN</td>
 								</tr>
 								<tr> 
-	<td height="10" align="right" valign="top" class="rightback">Nov 30, 2010</td>
+	<td height="10" align="right" valign="top" class="rightback">Dec 27, 2011</td>
 	</tr>
 	<tr> 
-	<td height="34" align="left" valign="top" class="rightback"><span class="righttitle">7:00 AM PST</span><br><a class="rightprogram" href="/watch-us/our-programs/breakthrough-hosted-by-pastor-rod-parsley">Pastor Rod Parsley</a> <a href="/watch-us"><img src="/images/watchnow.gif" width="54" height="10" border="0"><br></a><span class="righttitle">7:30 AM PST</span><br><a class="rightprogram" href="/watch-us/our-programs/this-is-your-day-with-benny-hinn">This Is Your Day with Benny Hinn</a><br><span class="righttitle">8:00 AM PST</span><br><a class="rightprogram" href="/watch-us/our-programs/believer-s-voice-of-victory-hosted-by-kenneth-copeland">Kenneth Copeland</a><br>								</td></tr><tr> 
-									<td height="21" align="left" valign="middle" class="rightsect">SHORTCUTS</td>
+	<td height="34" align="left" valign="top" class="rightback"><span class="righttitle">4:30 PM PST</span><br><a class="rightprogram" href="/watch-us/our-programs/the-potter-s-touch">The Potter's Touch</a> <a href="/watch-us"><img src="/images/watchnow.gif" width="54" height="10" border="0"><br></a><span class="righttitle">5:00 PM PST</span><br><a class="rightprogram" href="/watch-us/our-programs/behind-the-scenes">Behind the Scenes</a><br><span class="righttitle">5:30 PM PST</span><br><a class="rightprogram" href="/watch-us/our-programs/enjoying-everyday-life-hosted-by-joyce-meyer">Joyce Meyer</a><br>								</td></tr><tr> 
+									<td height="21" align="left" valign="middle" class="rightsect" style="width:151px;">SHORTCUTS</td>
 								</tr>
 								<tr> 
 	<td height="169" align="left" valign="top" class="rightback">
@@ -265,11 +614,22 @@
 <a href="/about-us/free-newsletter">FREE NEWSLETTER</a><br>Sign up online to receive our newsletter in the mail<br><img src="/images/sub_sect_spacr.gif" width="124" height="1"><br><a href="/partner/email-list-signup">EMAIL UPDATES</a><br>Subscribe to our email list to receive updates<br><img src="/images/sub_sect_spacr.gif" width="124" height="1"><br><a href="/partner/prayer-partner">PRAYER PARTNER</a><br>Become a TBN telephone prayer partner<br><img src="/images/sub_sect_spacr.gif" width="124" height="1"><br><a href="/watch-us/program-poll">PROGRAM POLL</a><br>Vote for your favorite TBN programs<br><img src="/images/sub_sect_spacr.gif" width="124" height="1"><br>
 	</td>
 </tr>								<tr> 
-									<td height="21" align="left" valign="middle" class="rightsect">PROGRAMS</td>
+									<td height="21" align="left" valign="middle" class="rightsect" style="width:151px;">PROGRAMS</td>
 								</tr>
 								<tr> 
-									<td height="20" align="left" valign="top" class="rightback"><a href="/watch-us/our-programs">Click here</a> to view our list of programs.</td>
+									<td height="20" align="left" valign="top" class="rightback" style="width:151px;"><a href="/watch-us/our-programs">Click here</a> to view our list of programs.</td>
 								</tr>
+                                <tr> 
+									<td height="21" align="left" valign="middle" class="rightsect" style="width:151px;">LATEST ACTIVITY</td>
+								</tr>
+                                <tr>
+                                <td align="left" valign="top" class="rightback" style="width:151px;">
+                                
+                                <!-- Facebook Activity Plugin -->
+                                <iframe src="https://www.facebook.com/plugins/activity.php?site=www.tbn.org&amp;width=131&amp;height=400&amp;header=false&amp;colorscheme=light&amp;font=verdana&amp;border_color=%23e6ebef&amp;recommendations=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:131px; height:400px;" allowtransparency="true"></iframe>
+                                <!-- End of Plugin -->
+                                </td>
+                                </tr>
 							</tbody></table>
 						</td>
 					</tr>
@@ -277,7 +637,7 @@
 						<td colspan="2" align="left" valign="top" id="mainContentContainer">
 							<table width="100%" border="0" cellpadding="4" cellspacing="4">
 								<tbody><tr valign="top"> 
-									<td width="100%" height="500" align="left" valign="top"><span class="question">TRINITY BROADCASTING NETWORK<br>
+									<td width="100%" height="500" align="left" valign="top" style="position:relative;z-index:50;"><span class="question">TRINITY BROADCASTING NETWORK<br>
 ONLINE PRIVACY POLICY</span><br>
 <br>
 <p>
@@ -396,15 +756,38 @@ If you have comments or questions about our privacy policy, please use our “<a
 							</tbody></table>
 						</td>
 					</tr>
-					<tr> 
+					<!--tr> 
 						<td height="1" colspan="7" class="border"><img src="/images/clear.gif" alt="clear" width="1" height="1"></td>
-					</tr>
+					</tr-->
 				</tbody></table>
+                </td>
+             </tr>
+            </tbody></table>   
+			<!--<br>
 			<br>
 			<br>
-			<br>
-			<span class="copyright1">© 2010 TBN - Trinity Broadcasting Network. All rights reserved. | <a href="/index.php/3/19.html">Privacy Policy</a></span><br>
-			<span class="copyrightnl"><a href="http://www.trinetsolutions.com" target="_blank" class="footerCredit">Church Web Design – Trinet Internet Solutions, Inc.</a></span>
+			<span class="copyright1">&copy; 2011 TBN - Trinity Broadcasting Network. All rights reserved. | <a href="/index.php/3/19.html">Privacy Policy</a></span><br>
+			<span class="copyrightnl"><a href="http://www.trinetsolutions.com" target="_blank" class="footerCredit">Church Web Design – Trinet Internet Solutions, Inc.</a></span>-->
+            
+            <div id="footer">
+            <div style="position:absolute; right: 0; top: 11px; left: 870px;">
+                <a href="http://www.facebook.com/trinitybroadcastingnetwork" class="footer_video" target="_blank">
+                    <img src="/images/facebook_link.gif" height="32" width="106" border="0">
+                </a>
+			</div>
+		
+        <p class="bottomnav"><a href="/watch-us/broadcast-schedule" class="footer_video">Broadcast Schedule</a> | <a href="/watch-us/how-to-watch-tbn" class="footer_video">Channel Finder</a> | <a href="/about-us/newsletter" class="footer_video">Newsletter</a> | <a href="/watch-us/archives" class="footer_video">Video Archives</a> | <a href="/contact/employment-opportunities" class="footer_video">Employment Opportunities</a> | <a href="/your-destiny" class="footer_video">Your Destiny</a> | <a href="/about-us" class="footer_video">About Us</a> | <a href="/links" class="footer_video">Links</a> | <a href="http://www.tbnwebstore.org/" target="_blank" class="footer_video">Store</a> | <a href="http://tbnnewswire.com/" target="_blank" class="footer_video">TBN News</a></p>
+	<p class="bottomnav"><a href="/partner" class="footer_video">Partner</a> | <a href="/announcements" class="footer_video">Announcements</a> | <a href="/watch-us/praise-schedule" class="footer_video">Praise Tonight</a> | <a href="/contact" class="footer_video">Contact</a> | <a href="/about-us/privacy-policy" class="footer_video">Privacy Policy</a> | <a href="/terms.php" class="footer_video">Terms and Conditions</a> | <a href="/index-html.php" class="footer_video">HTML Version</a> | <a href="/publicfile/" class="footer_video">Public File</a></p>
+	<p class="bottomnav"><a href="http://www.paulcrouch.com" target="_blank" class="footer_video">Paul Crouch</a> | <a href="http://www.itbn.org" target="_blank" class="footer_video">Trinity Broadcasting Network Shows Online</a> | <a href="http://www.tbnnetworks.com" target="_blank" class="footer_video">TBN Networks</a> | <a href="http://www.churchchannel.tv" target="_blank" class="footer_video">Church Channel</a> | <a href="http://www.soac.tv" target="_blank" class="footer_video">Children's Website</a> | <a href="http://www.jctv.org" target="_blank" class="footer_video">Christian Teen Site</a></p>	
+
+        <p class="credit">Copyright © 2011 TBN - Trinity Broadcasting Network.  All Rights Reserved.&nbsp; Broadcasting Since 1973</p>
+        <table border="0" cellspacing="0" cellpadding="0" align="center" width="408">
+        <tbody><tr>
+        <td><p style="color:#ffffff;font-family:Verdana, Arial, Helvetica, sans-serif;font-weight:bold;font-size:11px;"><a href="http://twitter.com/#!/tbnnetworks" target="_blank"><img src="/images/all/twitter-icon.jpg" align="left" border="0" hspace="10"></a><a href="http://twitter.com/#!/tbnnetworks" target="_blank" style="color:#ffffff;text-decoration:none;">Follow Praise the Lord on Twitter</a></p></td>
+        </tr>
+        </tbody></table>
+        <p class="credit"><span class="copyrightnl"><a href="http://www.trinetsolutions.com" target="_blank" class="footerCredit">Ministry Web Design - Trinet Internet Solutions, Inc.</a></span></p>
+           </div> 
 		</td>
 	</tr>
 </tbody></table>
