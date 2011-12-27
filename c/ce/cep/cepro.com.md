@@ -1,31 +1,91 @@
-> *The following text is extracted and transformed from the cepro.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214220id_/http%3A//www.ehpub.com/ehpub/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cepro.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227050318id_/http%3A//www.cepro.com/company/privacy_policy) for the most accurate reproduction.*
 
-# EH Publishing | Privacy Policy
+# Privacy Policy - CE Pro Company Page
 
-EH Publishing, Inc. is committed to protecting your privacy to ensure a safe and enjoyable online experience. 
+**EH Publishing, Inc.  
+Privacy Policy  
+Latest Revision: December 2011**
 
-## General
+Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site. This Privacy Policy describes the policies of the publishers of this web site, EH Publishing, Inc., (“EH” or “we”), and its divisions, regarding the collection, use, disclosure and protection of the following types of information:
 
-EH Publishing, Inc. may ask for personal information in order to provide services accessible from our site, including subscriptions, downloads, purchases, and/or contests. EH Publishing, Inc. uses this information to help facilitate quick delivery of goods and services. EH Publishing, Inc. tracks domains and anonymous demographic data for the purpose of analyzing trends and statistics. 
+  * Information obtained when you (“you” or “User”) visit our web sites.  
+(this “Site”, including CommercialIntegrator.com,CEPro.com, ElectronicHouse.com, prosoundweb.com, mmh.com, Logisticsmgmt.com, scmr.com, and all TechDecisions Websites (worship,k-12, HigherEd, Corporate, Healthcare, and Hospitality)).
+  
 
-Submission of personal information is by choice. If you do not wish to provide personal information online you may have access to most of the Web site, with the exception of some online requests. At any point, if you wish to be excluded from receiving any correspondence from EH Publishing, Inc. or from any of our partners, you may do so by opting out during the process of providing personal information or after the receipt of e-mail from EH Publishing, Inc. EH Publishing, Inc. will not disclose your personally identifiable information to any third party without first providing you with an opportunity to opt out, except to comply with law or to administer the site. 
+  * Information obtained through e-mail communications with you related to the Site.
 
-EH Publishing, Inc. may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to appropriate governmental authorities. If requested by law enforcement or judicial authorities, EH Publishing, Inc. will provide this information upon receipt of the appropriate documentation. EH Publishing, Inc. may also provide information to law enforcement to protect its property and the health and safety of individuals as permitted by statute. 
 
-## Links to External Material
 
-The appearance of hyperlinks that connect to third-party Web sites from EH Publishing, Inc. web sites, newsletters, or other electronic media does not constitute an endorsement by EH Publishing, Inc. of these Web sites, or information, products, or services contained therein. EH Publishing, Inc. shall have no responsibilities or liabilities whatsoever for the privacy practices of any third party on its site. In addition, EH Publishing, Inc. is not responsible for the availability of, or the content located on or through, any such third-party site. 
+This privacy policy does not apply to information we collect by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy. We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes.
 
-## Cookies
+**Your Information: What We Collect and How We Collect It**  
+Many of our sites require you to provide certain information about yourself when you register to use the site and when you request products and services. We also collect information when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site (e.g., comments, blogs, moderated discussions and forums/message boards). The information we collect may include information from which you may be personally identified (“Personally Identifiable Information”), such as name, postal address, telephone number, fax number and e-mail address, and certain business information such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including, if applicable, registering for premium site access or a paid event) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge.
 
-Cookie technology can be used to provide tailored information from a Web site. A cookie is an element of data a Web site sends to your browser that can be stored by your browser depending on your preferences. EH Publishing, Inc. uses cookies to provide you better service when you return to our site. 
+When you visit this Site, we may collect the IP address of your computer. We also use technology to automatically record other information that identifies your computer and tracks your behavior on this Site. Methods used to collect this information may include “cookies” and “clear GIFs” (also known as “pixel tags” or “beacons”). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
 
-## Infrastructure
+Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both this Site and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit: <http://www.networkadvertising.org/optout_nonppii.asp>. You also may view the privacy policy of 24/7 Real Media, Open Ad Stream, a third party that serves ads to our Sites, at <http://www.247realmedia.com/EN-US/privacy-policy.html>.
 
-EH Publishing, Inc. operates secure data networks protected by industry-standard password protection and verified systems. Its security and privacy policies are periodically reviewed and enhanced as necessary. Only authorized individuals have access to the information provided by EH Publishing, Inc. users. Any other sensitive information, including credit card numbers and addresses, is also encrypted prior to transmission. 
+**Your Information: How We Use It**  
+We use Personally Identifiable Information collected on this Site for the following purposes:
 
-EH Publishing, Inc. takes every step to ensure that your information is treated securely and in accordance with its Privacy Policy. Please be advised, however, that no data transmission over the Internet can be guaranteed secure. As a result, EH Publishing, Inc. cannot guarantee the security of any information in transit to it. 
+  * To provide you with this Site and other products and services.
+  
 
-## Information Continuity
+  * To respond to your inquiries and contact you about changes regarding the Site.
+  
 
-EH Publishing, Inc. believes strongly in providing you with the ability to access and edit the personal information that you have provided. To update the information you've submitted to EH Publishing, Inc., or to deactivate your account, please [contact us](http://www.ehpub.com/ehpub/contact_us.html "http://www.ehpub.com/ehpub/contact_us.html"). 
+  * To provide you with e-mail, fax and other notices (such as expiration and renewal notices) regarding your account and the products or services that you are receiving, and for billing and collection purposes.
+  
+
+  * For any other purpose disclosed at the time the information is collected or to which you consent.
+  
+
+  * As otherwise specifically described in this Privacy Policy.
+
+
+
+We also may use your information to better understand our Users and to improve our Site. For example, we may use this information to determine what portions of this Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site. We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of this Site. We may use the information you provide us to send you e-mail, fax and other communications on behalf of EH Publishing, Inc., and our affiliates. These communications may include e-mail newsletters, as well as offers for other EH Publishing, Inc. services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from EH Publishing, Inc . We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. 
+
+**Disclosing of Your Information: To Whom and When**  
+We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed, and otherwise will not disclose your Personally Identifiable Information except as follows:
+
+  * Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.
+  
+
+  * To third parties engaged to provide services under contractual requirement to keep Personally Identifiable Information confidential and use it only to perform the services.
+  
+
+  * Portions of this Site may be provided as “Premium” or “Sponsored” content. Premium or Sponsored content is made available to Users on the condition that we may share certain of the User’s registration information with the Premium or Sponsored content’s sponsors and advertisers and/or their service providers. We will always disclose when you are registering or being provided with Premium or Sponsored content.
+  
+
+  * To other third parties (and/or to their service providers on their behalf) to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services.
+  
+
+  * To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving EH Publishing, Inc. or this Site.
+  
+
+  * When we believe such disclosure is required by law, regulation or securities exchange requirement or for the protection of persons or property.
+  
+
+  * disclosure is necessary to accomplish the purpose for which you provide it.
+  
+
+  * To other EH Publishing, Inc. member companies for any uses consistent with those disclosed in this Privacy Policy.
+
+**Our Security**  
+We use reasonable safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.
+
+**Right to Access and Change Information**  
+You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, or by contacting us directly. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process. 
+
+**Links to Non-EH Publishing Sites**  
+This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.
+
+Our sites are owned and operated by:  
+EH Publishing, Inc.  
+111 Speen St.  
+Framingham, MA 01701  
+508-663-1500
+
+
+
