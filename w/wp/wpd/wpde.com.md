@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpde.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628042417id_/http%3A//www.carolinalive.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpde.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228002456id_/http%3A//www.carolinalive.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
 
 # About : CarolinaLive.com
 
@@ -95,8 +95,9 @@ If you have any questions or comments about this policy or our use of personal i
 
 Barrington Interactive  
 Barrington Broadcasting Corporation  
-2500 W. Higgins Road, Suite 155  
-Hoffman Estates, IL 60169  
+650 East Algonquin Road, Suite 300  
+Schaumburg, IL 60173
+
 [Send an Email Message](mailto:contact@barringtontv.com)
 
 We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of personal information.
