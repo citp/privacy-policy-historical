@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trollandtoad.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609174814id_/http%3A//www.trollandtoad.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trollandtoad.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227052140id_/http%3A//www.trollandtoad.com/privacy.php) for the most accurate reproduction.*
 
-# Magic The Gathering Cards & Decks - TrollAndToad.com
+# Troll And Toad
 
 **Privacy & Security Notice**
 
@@ -9,7 +9,7 @@ Troll and Toad knows that the privacy and security of your information is import
 **What information about customers do we store?**
 
   * **Information given to us by you -** We keep all information you enter, such as name address, etc.
-  * **"Cookies" on your computer -** We store a “digital cookie” on your computer so we can keep track of your shopping card order when your are shopping with us. However, to protect your privacy, we don’t show any of your account information until you have entered the password you selected when you set up your account. If you, as a user of the site, choose to not accept cookies, this will not prevent you from shopping on our site. However, you won't be able to use the shopping cart. After choosing the items you wish to purchase, you can then either e-mail the order to us, or call us on the phone, or fax us with the list of items you wish to order.
+  * **"Cookies" on your computer -** We store a digital cookie on your computer so we can keep track of your shopping cart order when your are shopping with us. However, to protect your privacy, we don't show any of your account information until you have entered the password you selected when you set up your account. If you, as a user of the site, choose to not accept cookies, this will not prevent you from shopping on our site. However, you won't be able to use the shopping cart. After choosing the items you wish to purchase, you can then either e-mail the order to us, or call us on the phone, or fax us with the list of items you wish to order.
   * **Information on current and past orders -** We do store the contents of present and past orders on the website for your personal information. These are not accessible without entering the password you selected when you set up your account.
 
 
@@ -50,7 +50,7 @@ If you then are under 13, and want to register on our site, we suggest that inst
 
 If you visit the Troll and Toad Web site, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Kentucky. If you have any concerns about the privacy at Troll and Toad, please send a thorough description to [sales@trollandtoad.com](mailto:sales@trollandtoad.com), and we will try to resolve it. If we ever decide to change the way we use your personal information on our site, we will first notify you by e-mail of our intent to change our policy. You will be able to choose whether you are willing to be included in out policy change. 
 
-If we ever change our Privacy Policy, we will post that change in the News section on the front page of our site, and will leave that notice posted for at least on month. We will also notify all users who have agreed to be on our e-mail mailing list of this change in our Privacy Policy.
+If we ever change our Privacy Policy, we will post that change in the News section on the front page of our site, and will leave that notice posted for at least one month. We will also notify all users who have agreed to be on our e-mail mailing list of this change in our Privacy Policy.
 
 **Log Files**
 
