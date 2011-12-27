@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the travolution.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229071338id_/http%3A//www.travolution.co.uk/staticpages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travolution.co.uk privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227090527id_/http%3A//www.travolution.co.uk/staticpages/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Travolution.co.uk
+# Privacy policy - Travolution.co.uk
 
-Travolution is owned and operated by TW Group Limited.
+Travolution is owned and operated by Travel Weekly Group Limited.
 
 Information we collect from our customers and users of our websites may be used in the following ways.
 
@@ -29,4 +29,4 @@ Your personal data will be held on a secure server. Our sites are equipped with 
 
 Under the [Data Protection Act 1988](http://www.hmso.gov.uk/acts/acts1998/19980029.htm). You have the right to be told what personal information we hold about you on our databases. 
 
-You should write to us, attn Company Secretary at the following address: **TWgroup** , **3rd Floor, 52 Grosvenor Gardens, London, SW1W 0AU**. State your full name, your address and any of our publications or services to which you know you subscribe. A small administrative charge may be made for fulfilling this request.
+You should write to us, attn Company Secretary at the following address: **Travel Weekly Group, 3rd Floor, 52 Grosvenor Gardens, London, SW1W 0AU**. State your full name, your address and any of our publications or services to which you know you subscribe. A small administrative charge may be made for fulfilling this request.
