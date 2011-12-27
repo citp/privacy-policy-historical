@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the awf.org privacy policy that was archived on 2011-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110628155701id_/http%3A//www.awf.org/section/_footer/_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the awf.org privacy policy that was archived on 2011-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227201236id_/http%3A//www.awf.org/section/_footer/_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en-us"><head>
 <title>AWF: Privacy Policy</title>
@@ -8,7 +8,7 @@
 <meta name="Keywords" content="">
 <link type="text/css" href="/style.css" rel="stylesheet">
 <link type="text/css" href="/javascript/jquery.tooltip.css" rel="stylesheet">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
 <script type="text/javascript" src="/javascript/jquery.tooltip.pack.js"></script>
 <!--<script type="text/javascript" src="/javascript/jquery.dimensions.js"></script>-->
 <script type="text/javascript" src="/javascript/swfobject.js"></script>
@@ -101,14 +101,176 @@ function changeImages() {
 </script>
 </head>
 <body>
+<script type="text/javascript">
 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18408550-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<script type="text/javascript" src="http://rebuildingtogether.org/js/jquery.simplemodal-1.2.3.min.js"></script>
+<script type="text/javascript">
+jQuery(function() {
+    // Display the modal window
+    var my_modal = jQuery("#modal-container");
+    jQuery("#modal-container").remove();
+    jQuery.modal(my_modal, {onClose: function (dialog) {
+        // issue GA call to generate event
+        _gaq.push(['_trackPageview', document.URL + "?utm_source=eoysplash&utm_medium=splash&utm_campaign=nothanks"]);
+        // call the default close function
+        $.modal.close();
+    }});
+
+    jQuery("#Splash_Donate .other-amount").keydown(function() {
+        jQuery("#Splash_Donate .custom-amount").attr("checked", "checked");
+    });
+
+    jQuery("#Splash_Donate").submit(function() {
+        // Process the custom amount if necessary
+        jQuery("#Splash_Donate .custom-amount").val(jQuery("#Splash_Donate .other-amount").val());
+        
+        // Monthly donation
+        if (jQuery(".monthly-donation:first").is(":checked")) {
+            jQuery("#Splash_Donate .df_id").val("2382");
+            jQuery("#Splash_Donate .donation_id").attr("name", "2382.donation");
+        }
+
+        // Find the donation amount
+        var amount = jQuery("#Splash_Donate .donate-area input[type=radio]:checked").val();
+        amount = parseFloat(amount.replace(/[^0-9.]/g, ""));
+        var total = Math.ceil(amount);
+
+        jQuery("#Splash_Donate .level_standardname").val(total);
+        _gaq.push(['_trackPageview', document.URL + "?utm_source=eoysplash&utm_medium=splash&utm_campaign=submit"]);
+    });
+});
+</script>
+
+<div id="modal-container">
+    <form enctype="multipart/form-data" id="Splash_Donate" action="https://secure2.convio.net/awf/site/Donation2" method="post">
+        <div id="xmas-donate">
+            <img class="xmas-image" src="/images/xmas2011/EOY_Splash_v5.png" alt="Donate Now">
+            <div class="donate-form">
+                <div class="donate-area">
+                    <div class="giving-amount">
+                      <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                          <tbody><tr class="form-choices-row">
+                            <td>
+                              <div class="form-intro"><strong>Please consider a special year-end gift this holiday season.</strong></div>
+                              <div class="form-choices">
+                              <span class="form-choice"><input type="radio" name="amt" value="25" checked="">$25</span>
+                              <span class="form-choice"><input type="radio" name="amt" value="50">$50</span>
+                              <span class="form-choice"><input type="radio" name="amt" value="100">$100</span>
+                              <span class="form-choice"><input type="radio" name="amt" value="500">$500</span>
+                              <span class="form-choice"><input type="radio" name="amt" value="1000">$1000</span>
+                              <span class="form-choice"><input type="radio" name="amt" class="custom-amount" value="0">
+                              Other Amount $ <input type="text" class="other-amount"></span>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr class="form-monthly-row">
+                            <td>
+                              <p style="margin: 5px 0pt 5px;">
+                                <input type="checkbox" class="monthly-donation">
+                                Set up an automatic monthly donation
+                              </p>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+                </div>
+
+                <input type="hidden" value="25" class="level_standardname" name="level_standardname">
+                <input type="hidden" value="" class="level_installmentname" name="level_installmentname">
+                <input type="hidden" value="2940" class="df_id" name="df_id">
+                <input type="hidden" value="form1" class="donation_id" name="2940.donation">
+                <input type="hidden" value="true" name="level_standardsubmit">
+                <input type="hidden" value="true" name="level_installmentsubmit">
+                <p><a href="/section/engaging_you/donate#leadership" target="_blank">Learn more about leadership gifts or other ways to give</a></p>
+                <div class="submit-container">
+                    <input type="submit" class="button-submit" value="">
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+<style type="text/css">
+.donate-form {
+    position: absolute;
+    top: 304px;
+    left: 70px;
+    width: 550px;
+    height: 90px;
+    color: #fff;
+    padding: 3px;
+    overflow: hidden;
+}
+
+.submit-container {
+    position: absolute;
+    bottom: 14px;
+    right: 9px;
+}
+
+.button-submit {
+    cursor: pointer;
+    background: url(/images/xmas2011/button_submit_green.png) no-repeat;
+    border: none;
+    height: 16px;
+    width: 53px;
+}
+
+#simplemodal-overlay {
+    background: #000;
+}
+
+#simplemodal-container {
+    height: 520px;
+    width: 678px;
+    text-align: left;
+}
+
+#simplemodal-container a.modalCloseImg {
+    background: url(/images/button_no_thanks.png) no-repeat;
+    width: 66px;
+    height: 16px;
+    display: inline;
+    z-index: 3200;
+    position: absolute;
+    top: 370px;
+    right: 125px;
+    cursor: pointer;
+}
+
+input.other-amount {
+	width: 8em;
+}
+
+div.form-intro {
+	margin-bottom: 4px;
+}
+
+#simplemodal-container form .form-choice {
+	margin-right: 10px;
+}
+</style>
 
     <div id="container">
         <div id="leftside"><div id="rightside">
             <div id="header">
                 <div id="headerContent">
                  <a id="homeHeaderLink" href="/"><img alt="" src="/images/invisible.gif"></a>
-                 <a href="http://www.awf.org/section/wildlife/gallery"><img src="/images/gallery.jpg" style="float:left;padding-left:40px;" onmouseover="this.src='/images/gallery.jpg';" onmouseout="this.src='/images/gallery.jpg';"></a>
+                 <a href="http://support.awf.org/site/Donation2?df_id=2800&amp;2800.donation=form1"><img src="/images/2011EOY/eoy_top_ask.png" style="float:left;padding-left:40px;" onmouseover="this.src='/images/2011EOY/eoy_top_ask.png';" onmouseout="this.src='/images/2011EOY/eoy_top_ask.png';"></a>
                     <table border="0" cellspacing="0" cellpadding="0" style="height: 59px; float: right;">
                         <tbody><tr>
                             <td style="vertical-align: bottom; text-align: right;" align="right">
@@ -211,7 +373,7 @@ function setCloseEvent() {
 		<a href="/section/land/protectedareas">Protected Areas Support</a> |
 		<a href="/section/land/landuse">Local Land Use Planning</a> |
 		<a href="/section/land/landtrusts">Land Trusts</a> |
-		<a href="http://shop.awf.org/acre/default.aspx">Adopt African Acres</a> |
+		<a href="http://adopt.awf.org/store/c/402-Adopt-African-Acres.aspx?a=acre_adoption_center">Adopt African Acres</a> |
 		<a href="/section/land/help">Want to Help?</a>
     </div>
     <div class="sub empowering_people">
@@ -225,7 +387,6 @@ function setCloseEvent() {
 		<a href="/section/engaging_you">Overview</a> |
 		<a href="/section/engaging_you/donate">Donate</a> |
 		<a href="http://www.awf.org/section/engaging_you/donate/donors/adoption_center">Adoption Center</a> |
-		<a href="/section/engaging_you/getcc">AWF Credit Card</a> |
 		<a href="http://www.plan.gs/Home.do?orgId=251">Legacy Giving</a> |
 		<a href="/section/engaging_you/corporate">For Foundations &amp; Corporations</a>
     </div>
@@ -245,11 +406,11 @@ function setCloseEvent() {
             <table width="100%" border="0" cellpadding="0" cellspacing="0">
             <tbody><tr>
               <td class="left">
-                    <img src="/files/3568_file_wildebeestindusk.jpg" width="544">
+                    <img src="/files/3613_file_Blackrhino_boulton.JPG" width="544">
     		      </td>
     		      
         <td class="right" style="width:210px">
-        The wildebeest can travel upwards of 1,000 miles per year.
+        AWF's goal: Help the rhinoceros recover from near extinction by protecting it from poachers.
               </td>
             </tr>
             </tbody></table>
