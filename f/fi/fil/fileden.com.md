@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileden.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023338id_/http%3A//www.fileden.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileden.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227221242id_/http%3A//www.fileden.com/privacy_policy.php) for the most accurate reproduction.*
 
 # FileDen.com | Free file hosting and online storage
 
@@ -30,4 +30,4 @@ Your browser sends various information to all websites you visit, this includes 
 Our policies are often reviewed and as such are subject to change. In the event of our policies being changed a notification will be displayed on the File Den website.
 
 **Contact Us**  
-For any concerns relating to this privacy policy please send an email to us using [this contact form](http://fileden.com/forums/sendmessage.php).
+For any concerns relating to this privacy policy please [contact our tech support](http://fileden.com/support.php).
