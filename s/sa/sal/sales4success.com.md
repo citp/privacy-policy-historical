@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sales4success.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627210312id_/http%3A//www.sales4success.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sales4success.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227090451id_/http%3A//www.sales4success.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
