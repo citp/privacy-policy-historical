@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the judysbook.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628055654id_/http%3A//www.judysbook.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the judysbook.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227041117id_/http%3A//www.judysbook.com/terms) for the most accurate reproduction.*
 
 # Terms of Use & Privacy - Judy's Book
 
@@ -133,8 +133,8 @@ We welcome your feedback. If you have any comments or concerns about this privac
 E-Mail: [info@judysbookteam.com](mailto:info@judysbookteam.com)
 
 Postal Mail:  
-PO Box 433  
-Redmond, WA 98073-0433
+PO Box 192  
+Bothell, WA 98041-0192
 
 **Data Changes  
 **   
