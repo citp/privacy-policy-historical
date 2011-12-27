@@ -1,371 +1,30 @@
-<!--The following is the downloaded HTML source of the kenexa.com privacy policy that was archived on 2011-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110521064700id_/http%3A//www.kenexa.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kenexa.com privacy policy that was archived on 2011-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227080508id_/http%3A//www.kenexa.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="generator" content="Kentico CMS 3.1a (build 3.1.3142) "> 
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
 <meta http-equiv="pragma" content="no-cache"> 
 <link type="text/css" rel="stylesheet" href="/CMSPages/GetCSS.aspx?stylesheetname=kenexa_page_default"> 
-<script language="JavaScript" type="text/javascript" src="/App_Themes/Kenexa/js/swfobject.js"></script>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/9718.js?439594" async="" type="text/javascript"></script><script language="JavaScript" type="text/javascript" src="/App_Themes/Kenexa/js/swfobject.js"></script>
 
-<script type="text/javascript" src="/App_Themes/Kenexa/js/jquery-1.5.1.min.js"></script> 
+<script language="JavaScript" type="text/javascript" src="/App_Themes/Kenexa/js/jquery-1.3.2.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="/App_Themes/Kenexa/js/jquery-ui-1.7.1.custom.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="/App_Themes/Kenexa/js/jquery.cookie.js"></script>
 
-        <script type="text/javascript" src="/App_Themes/Kenexa/js/jquery-ui-1.8.12.custom.min.js"></script>
-
-        <script type="text/javascript" src="/App_Themes/Kenexa/js/jquery.cookie.js"></script>
-
-        <script type="text/javascript" src="/App_Themes/Kenexa/js/jquery.jstore-all-min.js"></script>
-
-  
-
-                                               <script type="text/javascript">  
-			// instantiate variables
-			var value_arr = ['fullname','email','company','phone'];
-			var url = null;
-			var tracking_path = null;
-			var cookie_name = 'kenexa';
-			var cookie_options = { path: '/', expires: 30 };
-		
-			// setup engine 
-            jQuery.extend(jQuery.jStore.defaults, {  
-                project: 'kenexa',  
-                engine: 'flash',  
-                flash: '/App_Themes/Kenexa/js/jStore.Flash.html'  
-            }) 
-			
-            // Next, we need to wait for jStore to prepare the storage engine  
-            jQuery.jStore.ready(function(engine){ 
-                jQuery.jStore.flashReady(function(){ 
-					// wait for storage engine to be ready 
-					engine.ready(function(){ 
-						// jstore engine is ready to use	
-					})  
-                })   
-            });  
-             
-			// load jstore for use 
-            $(function(){ 
-                jQuery.jStore.load();
-				
-				// analytics tracking for downloads and feeds via google analytics
-				$('a.knxa-download').click(function() {
-				  _track_google_analytics('/downloads', _get_download_filepath($(this).attr('href')));
-				  return true;
-				});
-			
-				$('a.knxa-remote-download').click(function() {
-				  _track_google_analytics('/downloads', _get_download_remote($(this).attr('href')));
-				  return true;
-				});
-			
-				$('a.knxa-feed').click(function() {
-				  _track_google_analytics('/feeds', _get_download_filepath($(this).attr('href')));
-				  return true;
-				});
-			
-				$('a.knxa-remote-feed').click(function() {
-				  _track_google_analytics('/feeds', _get_download_remote($(this).attr('href')));
-				  return true;
-				});	
-				
-				// click link actions
-				$('a.knxa-user-download').click(function() {
-					// set filepath for download
-					tracking_path = _get_download_filepath($(this).attr('href'));
-					
-					if(!tracking_isset())
-					{
-						// run dialog box
-						$('#knxa-login-dialog').dialog('open');
-					}
-					else
-					{
-						// run confirm box
-						$('#knxa-login-dialog-confirm').dialog('open');
-					}
-					
-					return false;
-				});			
-				
-				// dialogue box
-				$('#knxa-login-dialog').dialog({
-					autoOpen: false,
-					bgiframe: true,
-					closeOnEscape: true,
-					width: 350,
-					height: 290,
-					modal: true,
-					resizable: false,
-					buttons: {
-					  'Continue': function() {
-								value_arr['fullname'] = $('#knxa-login-dialog #fullname').val();
-								value_arr['email'] = $('#knxa-login-dialog #email').val();
-								value_arr['company'] = $('#knxa-login-dialog #company').val();
-								value_arr['phone'] = $('#knxa-login-dialog #phone').val();
-
-
-								if(value_arr['fullname'] == '' || value_arr['email'] == '' || value_arr['company'] == '' || value_arr['phone'] == '') { $('#knxa-login-dialog .knxa-dialog-errors').text('Please ensure all fields are filled in.').css('color','red'); return false; } else {
-
-								// save values into cookies
-								set_values(value_arr);
-								
-								// save into database
-								save_values(value_arr, 'all');
-							}
-					  },
-					  Cancel: function() {
-						$(this).dialog('close');
-					  }
-					},
-					close: function() { }
-				});
-				
-				// dialogue box for previous visitors (confirm)
-				$('#knxa-login-dialog-confirm').dialog({
-					autoOpen: false,
-					bgiframe: true,
-					closeOnEscape: true,
-					width: 350,
-					height: 290,
-					modal: true,
-					resizable: false,
-					buttons: {
-					  'Continue': function() {
-								var tempEmail = $('#knxa-login-dialog-confirm #email').val();
-								var tempArray = get_values();
-								
-								if(tempArray['email'] != tempEmail) 
-								{ 
-									$('#knxa-login-dialog-confirm .knxa-dialog-errors').text('Please enter the email associated with your Kenexa downloads for validation.').css('color','red');
-									return false; 
-								} 
-								else 
-								{
-									// save into database
-									save_values(tempArray, 'all');
-								}
-					  },
-					  Cancel: function() {
-						$(this).dialog('close');
-					  }
-					},
-					close: function() { }
-				});				
-				
-				// put user information into db, save google analytics data and reroute user to the download
-				function save_values(value_arr, user_mode) {
-					// check for user mode
-					if(!(_isset(user_mode)))
-						var set_mode = 'all';
-					else
-						var set_mode = user_mode;
-					
-					// set tracking data
-					var tracking_data = {
-						mode: set_mode,
-						fullname: value_arr['fullname'],
-						email: value_arr['email'],
-						company: value_arr['company'],
-						phone: value_arr['phone'],
-						filename: tracking_path,
-						ga_ident: tracking_path
-					};
-					
-					$.ajax({
-						// pre-ajax callback
-						beforeSend: function(XMLHttpRequest) { 
-							$('#knxa-login-dialog .knxa-dialog-errors').html('');
-						},	    
-						cache: false,
-						complete: function(XMLHttpRequest, textStatus) { },
-						data: tracking_data,
-						dataType: 'json', 
-						error: function(XMLHttpRequest, textStatus, errorThrown) { 
-							
-							// ajax call error
-							if(tracking_path != null) {
-								// close dialog if open
-								if($('#knxa-login-dialog').dialog('isOpen')) {
-									$('#knxa-login-dialog').dialog('close');
-								}
-								if($('#knxa-login-dialog-confirm').dialog('isOpen')) {
-									$('#knxa-login-dialog-confirm').dialog('close');
-								}								
-								
-								// save google analytics information and let them get the download anyway
-								_track_google_analytics('/downloads', tracking_path);
-								var tmp = tracking_path;
-								tracking_path = null;
-								window.location = tmp;
-							}
-						},		
-						success: function(data, textStatus) {
-							
-							// ajax call success
-							if(tracking_path != null) {
-								if(data.status == 'success') {
-									// close dialog if open
-									if($('#knxa-login-dialog').dialog('isOpen')) {
-										$('#knxa-login-dialog').dialog('close');
-									}
-									if($('#knxa-login-dialog-confirm').dialog('isOpen')) {
-										$('#knxa-login-dialog-confirm').dialog('close');
-									}									
-									
-									// set tracking and reroute to download url
-									_track_google_analytics('/downloads', tracking_path);
-									var tmp = tracking_path;
-									tracking_path = null;
-									window.location = tmp;
-								}
-							}
-						},		
-						type: 'POST',
-						url: '/tracking.asp'	
-					});
-				}				
-            }); 
-			
-			// ----- functions ------
-			// set values on client machine
-			function set_values(value_arr)
-			{
-				// set flash shared object values
-				jQuery.jStore.set('fullname', value_arr['fullname']);
-				jQuery.jStore.set('email', value_arr['email']);
-				jQuery.jStore.set('company', value_arr['company']);
-				jQuery.jStore.set('phone', value_arr['phone']);
-				
-				// set cookie values
-				$.cookie(cookie_name + '-fullname', value_arr['fullname'], cookie_options);
-				$.cookie(cookie_name + '-email', value_arr['email'], cookie_options);
-				$.cookie(cookie_name + '-company', value_arr['company'], cookie_options);
-				$.cookie(cookie_name + '-phone', value_arr['phone'], cookie_options);
-				
-				return true;
-			}
-			
-			// get values stored on client machine
-			function get_values()
-			{
-				// check for browser cookies first, if not use flash shared object
-				if(!(_isset($.cookie(cookie_name + '-email'))))
-				{
-					// get flash values
-					value_arr['fullname'] = jQuery.jStore.get('fullname');
-					value_arr['email'] = jQuery.jStore.get('email');
-					value_arr['company'] = jQuery.jStore.get('company');
-					value_arr['phone'] = jQuery.jStore.get('phone');
-				}
-				else
-				{
-					// get cookie values
-					value_arr['fullname'] = $.cookie(cookie_name + '-fullname');
-					value_arr['email'] = $.cookie(cookie_name + '-email');
-					value_arr['company'] = $.cookie(cookie_name + '-company');
-					value_arr['phone'] = $.cookie(cookie_name + '-phone');
-				}
-				
-				return value_arr;
-			}			
-			
-			// reset saved values on client machine
-			function reset_values()
-			{
-				// reset flash cookies
-				jQuery.jStore.engine.rem('fullname');
-				jQuery.jStore.engine.rem('email');
-				jQuery.jStore.engine.rem('company');
-				jQuery.jStore.engine.rem('phone');
-				
-				// reset browser cookies
-				$.cookie(cookie_name + '-fullname', null);
-				$.cookie(cookie_name + '-email', null);
-				$.cookie(cookie_name + '-company', null);
-				$.cookie(cookie_name + '-phone', null);
-				
-				if($.cookie(cookie_name + '-email') == null && jQuery.jStore.get('email') == null)
-					return true;
-				else
-					return false;
-			}	
-			
-			// checks for current cookies that are set
-			function tracking_isset()
-			{
-				var email_value = $.cookie(cookie_name + '-email');
-				
-			
-				if(_isset(email_value))
-				{
-					return true;
-				}
-				else
-				{
-					email_value = jQuery.jStore.get('email');
-					
-					
-					if(_isset(email_value))
-						return true;
-					else
-						return false;
-				}
-			}
-			
-			// forgotten email
-			function forgot_email()
-			{
-				// close confirm dialog, reset cookies, ask for data again
-				if($('#knxa-login-dialog-confirm').dialog('isOpen'))
-				{
-					$('#knxa-login-dialog-confirm').dialog('close');
-					$('#knxa-login-dialog').dialog('open');
-				}
-			}
-			
-			// google tracking
-			function _track_google_analytics(prefix, ga) {
-				if(ga.substring(0, 1) != '/') {
-					ga = '/' + ga;
-				}
-				pageTracker._trackPageview(prefix + ga);
-				//alert(prefix + ga);
-			}			
-			
-			// download url path
-			function _get_download_filepath(url) {
-				if((url.substring(0, 7) == 'http://') || (url.substring(0, 8) == 'https://')) {
-					url = url.substring(url.indexOf('/', 8));
-				}
-				return url;
-			}
-			
-			// remote url path
-			function _get_download_remote(url) {
-				if(url.substring(0, 7) == 'http://') {
-					return '/remote/' + url.replace('http://', '');
-				} else if(url.substring(0, 8) == 'https://') {
-					return '/remote/' + url.replace('https://', '');
-				}
-				return '/remote/unknown';
-			}			
-			
-			// check for null or undefined value in variable
-			function _isset(variable) {
-			  	return (typeof variable != 'undefined') && (variable != null);
-			}			
-        </script>
-
-
-
-<!--<script language="JavaScript" type="text/javascript" src="/App_Themes/Kenexa/js/knxa-tracking.js"></script>-->
+<script language="JavaScript" type="text/javascript" src="/App_Themes/Kenexa/js/knxa-tracking.js"></script>
 
 <script language="JavaScript" type="text/javascript" src="/App_Themes/Kenexa/js/jquery.equalheights.js"></script>
+<script language="JavaScript" type="text/javascript" src="/App_Themes/KenexaGlobal/toolbar/jquery.searchbox.js"></script>
 
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=kenexa"></script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?&#10;&#10;pub=kenexa"></script>
 
 <!--[if lt IE 7]>
-<link href="/CMSPages/GetCSS.aspx?stylesheetname=kenexa_ie6" rel="stylesheet" type="text/css" />
-<script language="JavaScript" type="text/javascript" src="/App_Themes/Kenexa/js/iepngfix_tilebg.js"></script>
+<link href="/CMSPages/GetCSS.aspx?stylesheetname=kenexa_ie6" 
+
+rel="stylesheet" type="text/css" />
+<script language="JavaScript" type="text/javascript" 
+
+src="/App_Themes/Kenexa/js/iepngfix_tilebg.js"></script>
 <![endif]-->
 
 <script language="JavaScript" type="text/javascript">
@@ -375,62 +34,56 @@ function resize_media_player(width, height) {
 }
 
 $(document).ready(function() {
-  $('.resources-box .inner, .nav-box .inner').equalHeights();
+      var search = $('.simple-search-box');
+      if (typeof search.searchbox != 'undefined') {
+        search.searchbox({
+          targetUrl: 'http://www.kenexa.com/search',
+	  keywordParam: 'searchtext',
+	  formTarget: '_top'
+        });
+      }
+$('#page-header #page-logo').css('cursor','pointer').click(function() 
+
+{
+   window.location = '/';
+});
+
+  var rsbox = $('.resources-box .inner, .nav-box .inner');
+  if (typeof rsbox.equalHeights != 'undefined') {
+    rsbox.equalHeights();
+  }
       
   var leftadjust = $('.rightcol', $('#page-content')).height() - 36;
-  var rightadjust = $('.leftcol', $('#page-content')).height() - $('#page-subnav').height() - 56;
-  if($('.leftcol', $('#page-content')).height() > $('.rightcol', $('#page-content')).height()) {
+  var rightadjust = $('.leftcol', $('#page-content')).height() - 
+
+$('#page-subnav').height() - 56;
+  if($('.leftcol', $('#page-content')).height() > $('.rightcol', 
+
+$('#page-content')).height()) {
     $('.related-box .inner').height(rightadjust);
   } else {
     $('.leftcol .inner', $('#page-content')).height(leftadjust);
   }
 
   // search box
-  var page_search_txt = "Search the Kenexa website...";
-  $('.page-search input.txt').addClass("blur").val(page_search_txt).focus(function() {
+  var page_search_txt = "Search Kenexa...";
+  $('.page-search input.txt').addClass("blur").val
+
+(page_search_txt).focus(function() {
     if($(this).val() == page_search_txt) {
       $(this).addClass("focus").removeClass("blur").val("");
     }
   }).blur(function() {
     if($(this).val() == "") {
-      $(this).removeClass("focus").addClass("blur").val(page_search_txt);
+      $(this).removeClass("focus").addClass("blur").val
+
+(page_search_txt);
     }
   }).click(function() {
     if(($(this).val() == "") || ($(this).val() == page_search_txt)){
       return false;
     }
   });
-
-  // content header reflection
-  var flashvars = {
-    headerText: $('h1#reflection').text()
-  };
-  var flashvars_player = {
-    cUrl: "/documents/coverflow-xml",
-    sUrl: "/documents/ssp-xml"
-  };
-
-  if($('input#lng').val().toLowerCase() == 'zh-cn') {
-    flashvars.useGeneric = true;
-    flashvars_player.useGeneric = true;
-  }
-
-  var params = { 
-    wmode: "transparent",
-    bgcolor: "#000000", 
-    menu: "false",
-    allowScriptAccess: "always" 
-  };
-  var attributes = {
-    name: "kenexa-compact-player",
-    id: "kenexa-compact-player"
-  };
-
-  if($("body.EditMode").size() == 0) {
-    swfobject.embedSWF("/App_Themes/Kenexa/flash/reflection.swf", "reflection", "960", "80", "9.0.0", "", flashvars, params);
-  }
-
-  swfobject.embedSWF("/App_Themes/Kenexa/flash/KenexaMediaPlayerCompact.swf", "kenexa-compact-player", "962", "90", "9.0.0", "", flashvars_player, params, attributes);
 
   $('li.email a').addClass("addthis_button_email");
   $('li.print a').addClass("addthis_button_print");
@@ -444,8 +97,24 @@ $(document).ready(function() {
 <style type="text/css">
   #at_use_addr { display: none !important; }
   #at16pit { display:none !important; }
+  li.print a .at15t_print, li.email a .at15t_email { background: 
+
+none; }
+</style>
+
+<link href="/CMSPages/GetCSS.aspx?stylesheetname=kenexa_new_design" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+  #at_use_addr { display: none !important; }
+  #at16pit { display:none !important; }
   li.print a .at15t_print, li.email a .at15t_email { background: none; }
-</style><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</style>
+
+<script type="text/javascript" language="javascript">
+   $(function() {
+      $('a[href="/rpo/brochure"]').addClass('knxa-user-download');
+   });
+</script><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 <meta name="verify-v1" content="P3BEhWmb5ouyAOH2kFV8Er8/2IbZ2sIuf83tbRJj+0A="> <!-- cm -->
 <meta name="verify-v1" content="gFqK0QCxcrWU3pDkhyr8y1IKeLgwiLqOcZKv3oGZO28="> <!-- ae -->
@@ -801,12 +470,12 @@ $(document).ready(function() {
 			}			
         </script> 
 <title>
-	 Privacy Policy - Kenexa - HR Success Multiplied
+	 Privacy Policy - Kenexa
 </title></head>
 <body class="LTR ENUS">
     <form name="form1" method="post" action="http://www.kenexa.com:80/privacy-policy.aspx" id="form1">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExNTc2MTkwNjMPZBYCAgEQZGQWBAIFD2QWAmYPZBYCZg9kFgYCAw9kFgJmD2QWAgICD2QWAmYPZBYCZg9kFggCAQ9kFgJmDw8WEB4LUmVnaW9uVGl0bGUFBVRpdGxlHgpSZWdpb25UeXBlCyl+Q01TLkNvbnRyb2xzLkNNU0VkaXRhYmxlUmVnaW9uVHlwZUVudW0sIENNUy5Db250cm9scywgVmVyc2lvbj0zLjEuMzE0Mi4yNzU3MSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj04MzRiMTJhMjU4ZjIxM2Y5AB4FV2lkdGhmHgZIZWlnaHRmHhdIVE1MRWRpdG9yQ3NzU3R5bGVzaGVldGUeBFdyYXBoHglNaW5MZW5ndGhmHglNYXhMZW5ndGhmZGQCBQ9kFgJmDw8WEB8ABQRDb3B5HwELKwQCHwJmHwMC2AQfBGUfBWcfBmYfB2ZkZAIJD2QWEGYPDxYCHgdWaXNpYmxlaGRkAgEPDxYCHwhoZGQCAg8PFgIfCGhkZAIDD2QWAmYPZBYCZg9kFgJmD2QWAmYPFQMUL2Fib3V0LXVzL2NvbnRhY3QtdXMHQ29udGFjdAdDb250YWN0ZAIEDw8WAh8IaGRkAgUPDxYCHwhoZGQCBg8PFgIfCGhkZAIHDw8WAh8IaGRkAgsPZBYEAgEPDxYCHwhoZGQCAg8PFgIfCGhkFgICAg8WFB4QTmVzdGVkQ29udHJvbHNJRGUeElRyYW5zZm9ybWF0aW9uTmFtZQUZY3VzdG9tLmtueGFkb2MuS2VuZXhhTGlzdB4QTmVzdGVkRGF0YUxpc3RJRGUeEE5lc3RlZFJlcGVhdGVySURlHhVTaG93RWRpdERlbGV0ZUJ1dHRvbnNoHgtfIUl0ZW1Db3VudGYeFkhpZGVDb250cm9sRm9yWmVyb1Jvd3NnHgxaZXJvUm93c1RleHQFcTxsaSBjbGFzcz0iZXZlbiI+PGRpdiBjbGFzcz0iaG9sZGVyIj48ZGl2IGNsYXNzPSJjb250ZW50Ij5ObyByZWxhdGVkIGNvbnRlbnQgaXRlbXMgYXJlIGF2YWlsYWJsZTwvZGl2PjwvZGl2PjwvbGk+Hh1BbHRlcm5hdGluZ1RyYW5zZm9ybWF0aW9uTmFtZQUiY3VzdG9tLmtueGFkb2MuS2VuZXhhTGlzdEFsdGVybmF0ZR4MRW5hYmxlUGFnaW5naGQCBw9kFgJmD2QWAgICD2QWBmYPZBYCZg9kFgJmDxUEUC9NZWRpYVJvb20vUHJlc3NSZWxlYXNlcy8yMDExL0tlbmV4YS1Bbm5vdW5jZXMtUHJpY2luZy1vZi1Gb2xsb3ctb24tUHVibGljLU9mZmVyRUtlbmV4YSBBbm5vdW5jZXMgUHJpY2luZyBvZiBGb2xsb3ctb24gUHVibGljIE9mZmVyaW5nIG9mIENvbW1vbiBTdG9ja0VLZW5leGEgQW5ub3VuY2VzIFByaWNpbmcgb2YgRm9sbG93LW9uIFB1YmxpYyBPZmZlcmluZyBvZiBDb21tb24gU3RvY2sURnJpZGF5LCBNYXkgMjAsIDIwMTFkAgEPZBYCZg9kFgJmDxUEUC9NZWRpYVJvb20vUHJlc3NSZWxlYXNlcy8yMDExL0tlbmV4YS1DbGllbnQtQ2FzZS1FeGFtcGxlcy1GZWF0dXJlZC1pbi1MYXRlc3QtQmVycUtlbmV4YSBDbGllbnQgQ2FzZSBFeGFtcGxlcyBGZWF0dXJlZCBpbiBMYXRlc3QgQmVyc2luICYgQXNzb2NpYXRlcyBSZXNlYXJjaCBvbiBDb21wZW5zYXRpb24gUGxhbm5pbmcgYW5kIEFuYWx5c2lzcUtlbmV4YSBDbGllbnQgQ2FzZSBFeGFtcGxlcyBGZWF0dXJlZCBpbiBMYXRlc3QgQmVyc2luICYgQXNzb2NpYXRlcyBSZXNlYXJjaCBvbiBDb21wZW5zYXRpb24gUGxhbm5pbmcgYW5kIEFuYWx5c2lzFVR1ZXNkYXksIE1heSAxNywgMjAxMWQCAg9kFgJmD2QWAmYPFQRQL01lZGlhUm9vbS9QcmVzc1JlbGVhc2VzLzIwMTEvS2VuZXhhLUFubm91bmNlcy1Qcm9wb3NlZC1Gb2xsb3ctb24tUHVibGljLU9mZmVyaW5DS2VuZXhhIEFubm91bmNlcyBQcm9wb3NlZCBGb2xsb3ctb24gUHVibGljIE9mZmVyaW5nIG9mIENvbW1vbiBTdG9ja0NLZW5leGEgQW5ub3VuY2VzIFByb3Bvc2VkIEZvbGxvdy1vbiBQdWJsaWMgT2ZmZXJpbmcgb2YgQ29tbW9uIFN0b2NrFE1vbmRheSwgTWF5IDE2LCAyMDExZAIJD2QWAmYPZBYCAgIPZBYGZg9kFgJmD2QWAmYPFQUJdHJhZGVzaG93Ii9LZW5leHVzL1RyYWRlc2hvd3MvMjAxMS9BU1RELTIwMTEKQVNURCAyMDExIApBU1REIDIwMTEgFFN1bmRheSwgTWF5IDIyLCAyMDExZAIBD2QWAmYPZBYCZg8VBQl0cmFkZXNob3dLL0tlbmV4dXMvVHJhZGVzaG93cy8yMDExL1dvcmxkYXRXb3JrLVRvdGFsLVJld2FyZHMtMjAxMS1Db25mZXJlbmNlLS0tRXhwb3NpNldvcmxkYXRXb3JrIFRvdGFsIFJld2FyZHMgMjAxMSBDb25mZXJlbmNlICYgRXhwb3NpdGlvbjZXb3JsZGF0V29yayBUb3RhbCBSZXdhcmRzIDIwMTEgQ29uZmVyZW5jZSAmIEV4cG9zaXRpb24UTW9uZGF5LCBNYXkgMjMsIDIwMTFkAgIPZBYCZg9kFgJmDxUFCXRyYWRlc2hvdyMvS2VuZXh1cy9UcmFkZXNob3dzLzIwMTEvUlBPLVN1bW1pdApSUE8gU3VtbWl0ClJQTyBTdW1taXQVVHVlc2RheSwgTWF5IDI0LCAyMDExZAIHDw8WAh8IaGRkGAEFFGxvZ1F1ZXJ5JGdyaWRRdWVyaWVzD2dkTMKOpSDCT+3bCvi/y1mnlagl8fk=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExNTc2MTkwNjMPZBYCAgEQZGQWBAIFD2QWAmYPZBYCZg9kFgYCBQ9kFgJmD2QWAgICD2QWAmYPZBYCZg9kFgoCAQ9kFgJmDw8WEB4LUmVnaW9uVGl0bGUFBVRpdGxlHgpSZWdpb25UeXBlCyl+Q01TLkNvbnRyb2xzLkNNU0VkaXRhYmxlUmVnaW9uVHlwZUVudW0sIENNUy5Db250cm9scywgVmVyc2lvbj0zLjEuMzE0Mi4yNzU3MSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj04MzRiMTJhMjU4ZjIxM2Y5AB4FV2lkdGhmHgZIZWlnaHRmHhdIVE1MRWRpdG9yQ3NzU3R5bGVzaGVldGUeBFdyYXBoHglNaW5MZW5ndGhmHglNYXhMZW5ndGhmZGQCAw9kFgZmDw8WAh4HVmlzaWJsZWhkZAIBDw8WAh8IaGRkAgIPDxYCHwhoZGQCBQ9kFgJmDw8WEB8ABQRDb3B5HwELKwQCHwJmHwMC2AQfBGUfBWcfBmYfB2ZkZAIJD2QWFGYPDxYCHwhoZGQCAQ8PFgIfCGhkZAICDw8WAh8IaGRkAgMPDxYCHwhoZGQCBA9kFgJmD2QWAmYPZBYCZg9kFgJmDxUDFC9hYm91dC11cy9jb250YWN0LXVzB0NvbnRhY3QHQ29udGFjdGQCBQ8PFgIfCGhkZAIGDw8WAh8IaGRkAgcPDxYCHwhoZGQCCA8PFgIfCGhkZAIJDw8WEB8ABQxlZGl0YWJsZXRleHQfAQsrBAIfAmYfA2YfBGUfBWcfBmYfB2ZkZAILD2QWCAIBDw8WAh8IaGRkAgIPDxYCHwhoZBYCAgIPFhQeEE5lc3RlZENvbnRyb2xzSURlHhJUcmFuc2Zvcm1hdGlvbk5hbWUFGWN1c3RvbS5rbnhhZG9jLktlbmV4YUxpc3QeEE5lc3RlZERhdGFMaXN0SURlHhBOZXN0ZWRSZXBlYXRlcklEZR4VU2hvd0VkaXREZWxldGVCdXR0b25zaB4LXyFJdGVtQ291bnRmHhZIaWRlQ29udHJvbEZvclplcm9Sb3dzZx4MWmVyb1Jvd3NUZXh0BXE8bGkgY2xhc3M9ImV2ZW4iPjxkaXYgY2xhc3M9ImhvbGRlciI+PGRpdiBjbGFzcz0iY29udGVudCI+Tm8gcmVsYXRlZCBjb250ZW50IGl0ZW1zIGFyZSBhdmFpbGFibGU8L2Rpdj48L2Rpdj48L2xpPh4dQWx0ZXJuYXRpbmdUcmFuc2Zvcm1hdGlvbk5hbWUFImN1c3RvbS5rbnhhZG9jLktlbmV4YUxpc3RBbHRlcm5hdGUeDEVuYWJsZVBhZ2luZ2hkAgMPDxYQHwAFClJpZ2h0IENvcHkfAQsrBAIfAmYfAwKQAx8EZR8FZx8GZh8HZmRkAgQPDxYQHwAFEVJpZ2h0IEJvdHRvbSBDb3B5HwELKwQCHwJmHwMCkAMfBGUfBWcfBmYfB2ZkZAIJD2QWAmYPZBYCAgIPZBYGZg9kFgJmD2QWAmYPFQRQL01lZGlhUm9vbS9QcmVzc1JlbGVhc2VzLzIwMTEvS2VuZXhhLUV4cGFuZHMtR2xvYmFsLVJQTy1CdXNpbmVzcy1XaXRoLU9wZW5pbmctb2ZMS2VuZXhhIEV4cGFuZHMgR2xvYmFsIFJQTyBCdXNpbmVzcyBXaXRoIE9wZW5pbmcgb2YgTmV3IENlbnRlciBvZiBFeGNlbGxlbmNlIExLZW5leGEgRXhwYW5kcyBHbG9iYWwgUlBPIEJ1c2luZXNzIFdpdGggT3BlbmluZyBvZiBOZXcgQ2VudGVyIG9mIEV4Y2VsbGVuY2UgGlR1ZXNkYXksIERlY2VtYmVyIDEzLCAyMDExZAIBD2QWAmYPZBYCZg8VBFAvTWVkaWFSb29tL1ByZXNzUmVsZWFzZXMvMjAxMS9TYXZlLXRoZS1EYXRlLS1LZW5leGEtQW5ub3VuY2VzLURldGFpbHMtb2YtMjAxMi1Xb0BTYXZlIHRoZSBEYXRlOiBLZW5leGEgQW5ub3VuY2VzIERldGFpbHMgb2YgMjAxMiBXb3JsZCBDb25mZXJlbmNlQFNhdmUgdGhlIERhdGU6IEtlbmV4YSBBbm5vdW5jZXMgRGV0YWlscyBvZiAyMDEyIFdvcmxkIENvbmZlcmVuY2UaVHVlc2RheSwgRGVjZW1iZXIgMDYsIDIwMTFkAgIPZBYCZg9kFgJmDxUESi9NZWRpYVJvb20vUHJlc3NSZWxlYXNlcy8yMDExL0tlbmV4YS1IZWxwcy1DYW5kaWRhdGVzLWFuZC1IaXJpbmctQ29tcGFuaWVzLUtlbmV4YSBIZWxwcyBDYW5kaWRhdGVzIGFuZCBIaXJpbmcgQ29tcGFuaWVzIC1LZW5leGEgSGVscHMgQ2FuZGlkYXRlcyBhbmQgSGlyaW5nIENvbXBhbmllcyAZTW9uZGF5LCBOb3ZlbWJlciAyMSwgMjAxMWQCCw9kFgJmD2QWAgICD2QWBmYPZBYCZg9kFgJmDxUFB3dlYmNhc3Q6L0tlbmV4dXMvV2ViY2FzdHMvMjAxMi9BcmUteW91LVNlbGVjdGluZy1mb3ItdGhlLVJpZ2h0LUZpdCRBcmUgeW91IFNlbGVjdGluZyBmb3IgdGhlIFJpZ2h0IEZpdD8kQXJlIHlvdSBTZWxlY3RpbmcgZm9yIHRoZSBSaWdodCBGaXQ/G1dlZG5lc2RheSwgSmFudWFyeSAyNSwgMjAxMmQCAQ9kFgJmD2QWAmYPFQUHd2ViY2FzdDovS2VuZXh1cy9XZWJjYXN0cy8yMDEyL0RlZmluaW5nLVlvdXItT3JnYW5pemF0aW9ucy1DdWx0dXJlJkRlZmluaW5nIFlvdXIgT3JnYW5pemF0aW9u4oCZcyBDdWx0dXJlJkRlZmluaW5nIFlvdXIgT3JnYW5pemF0aW9u4oCZcyBDdWx0dXJlGlRodXJzZGF5LCBKYW51YXJ5IDI2LCAyMDEyZAICD2QWAmYPZBYCZg8VBQd3ZWJjYXN0SC9LZW5leHVzL1dlYmNhc3RzLzIwMTIvUGF5LWZvci1QZXJmb3JtYW5jZS0tQS1DbGVhci1TaWduYWwtZm9yLVJldGVudGlvbkBQYXkgZm9yIFBlcmZvcm1hbmNlOiBBIENsZWFyIFNpZ25hbCBmb3IgUmV0ZW50aW9uIGFuZCBFbmdhZ2VtZW50QFBheSBmb3IgUGVyZm9ybWFuY2U6IEEgQ2xlYXIgU2lnbmFsIGZvciBSZXRlbnRpb24gYW5kIEVuZ2FnZW1lbnQbVGh1cnNkYXksIEZlYnJ1YXJ5IDAyLCAyMDEyZAIHDw8WAh8IaGRkGAEFFGxvZ1F1ZXJ5JGdyaWRRdWVyaWVzD2dkYgOsCFqVGVmK3Bn77o129RvLct0=">
 </div>
 
 <input type="hidden" name="lng" id="lng" value="en-US">
@@ -815,43 +484,143 @@ $(document).ready(function() {
         
         
          
-<!--<div style="position: absolute; top: 53px; right: 50%; width: 236px; height: 74px; margin-right: -80px; z-index: 3;">
-  <a style="display: block; z-index: 2; " href="http://www.kenexaworldconference.com" title="Kenexa World Conference" target="_blank"><img style="width: 236px; height: 74px; display: block; z-index: 1;" alt="Kenexa World Conference" src="/graphics/kwc-2010-topad" height="74" width="236"></a>
-</div>-->
+<!--<div style="position: absolute; top: 53px; right: 50%; width: 
 
-<link type="text/css" rel="stylesheet" href="http://www.kenexa.com/App_Themes/KenexaGlobal/toolbar/jquery.toolbar.css"> 
-<script language="JavaScript" type="text/javascript" src="http://www.kenexa.com/App_Themes/KenexaGlobal/toolbar/jquery.toolbar.js"></script>
+236px; height: 74px; margin-right: -80px; z-index: 3;">
+  <a style="display: block; z-index: 2; " 
+
+href="http://www.kenexaworldconference.com" title="Kenexa World 
+
+Conference" target="_blank"><img style="width: 236px; height: 74px; 
+
+display: block; z-index: 1;" alt="Kenexa World Conference" 
+
+src="/graphics/kwc-2010-topad" height="74" width="236"></a>
+</div>
+
+<link type="text/css" rel="stylesheet" 
+
+href="http://www.kenexa.com/App_Themes/KenexaGlobal/toolbar/jquery.to
+
+olbar.css" /> 
+<script language="JavaScript" type="text/javascript" 
+
+src="http://www.kenexa.com/App_Themes/KenexaGlobal/toolbar/jquery.too
+
+lbar.js"></script>
+
+<script type="text/javascript" language="javascript">
+   showToolbar = false;
+</script>
+-->
+<style type="text/css">
+	#page-content-header-frontpage {
+		position: relative;
+		top: 0;
+		right: 0;
+	}
+
+	#page-content-header-frontpage .translate {
+		position: absolute;
+		top: 52px;
+		right: 10px;
+	}
+</style>
+
 
 <script language="JavaScript" type="text/javascript">
 <!--
+var showToolbar = true;
+
 $(document).ready(function() {
+if(showToolbar == true)
+{
   $('#js-toolbar').toolbar();
+}
+
   $('.translate select').change(function() {
     window.open('?lang=' + $(this).val(), '_self');
   });
 });
 // -->
+
+
+$(function() {
+$('#page-logo').css('cursor','pointer').click(function() {
+    window.location = '/';
+
+});
+});
 </script>
 
 <style type="text/css">
 #page-area { padding-top: 45px; }
-#js-toolbar { height: 35px; width: 100%; }
+<!--
+#js-toolbar { height: 35px; width: 100%; }-->
 </style>
-<div id="js-toolbar">
-  <iframe src="http://www.kenexa.com/App_Themes/KenexaGlobal/toolbar/default.html" width="100%" height="35" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>
+<!--<div id="js-toolbar">
+  <iframe 
+
+src="http://www.kenexa.com/App_Themes/KenexaGlobal/toolbar/default.ht
+
+ml" width="100%" height="35" marginheight="0" marginwidth="0" 
+
+frameborder="0" scrolling="no"></iframe>
 </div>
+-->
+
+
 <div id="page-area">
+
+
+
+
+<script type="text/javascript" language="javascript">
+   showToolbar = false;
+</script>
+<div style="margin-top: -50px; display: none;" id="business-personal">
+&nbsp;
+</div>
+
+
+
+<div id="page-content-header-frontpage">
+
+	<div class="translate">
+	  Translate:
+          <select>
+            <option value="en-US">-choose-</option>
+            <option value="en-US">English</option>
+	    <option value="zh-CN">Chinese</option>
+            <option value="de-DE">German</option>
+          </select>
+	</div>
+  <div class="search"><div id="plcRoot_Layout_zoneContentHeader_PageSearchTop_pnlSearch" class="searchBox">
+	
+    <label for="plcRoot_Layout_zoneContentHeader_PageSearchTop_txtWord" id="plcRoot_Layout_zoneContentHeader_PageSearchTop_lblSearch"></label><input name="plcRoot$Layout$zoneContentHeader$PageSearchTop$txtWord" type="text" id="plcRoot_Layout_zoneContentHeader_PageSearchTop_txtWord" class="txt"><input type="submit" name="plcRoot$Layout$zoneContentHeader$PageSearchTop$btnGo" value="." id="plcRoot_Layout_zoneContentHeader_PageSearchTop_btnGo" class="btn">
+
+</div>
+</div>
+</div>
+
+
+
+
   <div id="page-top">
     <div id="page-header">
       <div id="page-logo">
-        <a title="Home" href="/"><img width="174" height="61" alt="Kenexa - HR Success Multiplied" src="/graphics/kenexa-logo"></a>
+        <a title="Home" href="/"><img width="174" height="61" alt="Kenexa - To Us Business is Personal" src="/graphics/kenexa-logo"></a>
       </div>
-	<!--<div id="custom-banner"><a target="_blank" href="http://www.knowledgeinfusion.com/ondemand/docs/DOC-8691"></a></div>-->
+
       <div id="page-buttons">
         <ul>
           <li class="contact-us"><a href="/about-us/contact-us" title="Contact Us">Contact Us</a></li>
-          <li class="mailing-list"><a href="/sign-up" title="Contact Us">Join Our Mailing List</a></li>
-          <li class="request-demo"><a href="/request" title="Contact Us">Request Information/Demo</a></li>
+          <li class="mailing-list"><a href="/sign-up" title="Contact 
+
+Us">Join Our Mailing List</a></li>
+          <li class="request-demo"><a href="/request" title="Contact 
+
+Us">Request Information/Demo</a></li>
         </ul>
       </div>
     </div>
@@ -876,7 +645,23 @@ $(document).ready(function() {
   <div id="page-middle">
     
  
+<script type="text/javascript" language="javascript">
+   showToolbar = false;
+</script>
+<div id="business-personal">
+&nbsp;
+</div>
 <div id="page-content-header">
+
+	<div class="translate">
+	  Translate:
+          <select>
+            <option value="en-US">-choose-</option>
+            <option value="en-US">English</option>
+	    <option value="zh-CN">Chinese</option>
+            <option value="de-DE">German</option>
+          </select>
+	</div>
   <h1 id="reflection">Privacy Policy</h1>
 </div>
 <div id="page-content">
@@ -895,18 +680,18 @@ $(document).ready(function() {
             
           </ul>
         </div>
-        <a target="_blank" href="http://www.truste.org/ivalidate.php?url=www.kenexa.com&amp;sealid=103"><img width="68" height="95" style="float: right; margin-left: 15px; margin-bottom: 15px;" alt="Click to Verify" src="/getfile/355ef4e2-f4a5-4ad5-a2a7-77defe353465/truste_seal_ctv.aspx"></a>
+        <a href="http://www.truste.org/ivalidate.php?url=www.kenexa.com&amp;sealid=103" target="_blank"><img height="95" width="68" src="/getfile/355ef4e2-f4a5-4ad5-a2a7-77defe353465/truste_seal_ctv.aspx" alt="Click to Verify" style="float: right; margin-left: 15px; margin-bottom: 15px;"></a>
 <p><strong>I. INTRODUCTION</strong></p>
 <p>The following sets forth Kenexa’s and its subsidiaries’ Privacy Policy, which contains four separate sections as follows:</p>
 <ul>
     <li>This Introduction;</li>
     <li>Kenexa Online Privacy Policy, which addresses the privacy practices applicable to usage of the Kenexa websites;</li>
-    <li>Kenexa's ASP Privacy Policy, which addresses the privacy practices applicable to information processed by Kenexa in its role as an ASP provider;</li>
+    <li>Kenexa's SaaS Privacy Policy, which addresses the privacy practices applicable to information processed by Kenexa in its role as a software as a service provider; </li>
     <li>A General Section, which applies to all of our privacy policies.</li>
 </ul>
-<p>Kenexa respects individual privacy. Kenexa strives to collect and use personal information in a manner consistent with the laws of the countries in which it does business. Kenexa abides by the Safe Harbor Principles developed by the U.S. Department of Commerce and the European Commission and the U.S.-Switzerland Safe Harbor Framework.</p>
+<p>Kenexa respects individual privacy. Kenexa strives to collect and use personal information in a manner consistent with the laws of the countries in which it does business. Kenexa complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.&nbsp; Kenexa has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.&nbsp; To learn more about the Safe Harbor program, and to view Kenexa’s certification, please visit <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a>.</p>
 <p>Kenexa is a licensee of the TRUSTe Privacy Program and the TRUSTe EU Safe Harbor Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This Privacy Policy covers the Web site Kenexa.com and our on-line URC site which is available only to clients of Kenexa. Because Kenexa wants to demonstrate its commitment to its users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.</p>
-<p>If you have questions or concerns regarding this Policy, you should first contact <a href="mailto:Privacy@kenexa.com">Privacy@kenexa.com</a>. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <a href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=" target="_blank">http://watchdog.truste.com/pvr.php?page=complaint&amp;url=</a>, by mail at WatchDog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA&nbsp; 94105, by phone at 415-520-3400, or by fax at 415-520-3420.&nbsp; If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <a href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=" target="_blank">http://watchdog.truste.com/pvr.php?page=complaint&amp;url=</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.</p>
+<p>If you have questions or concerns regarding this Policy, you should first contact <a href="mailto:Privacy@kenexa.com">Privacy@kenexa.com</a>. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <a target="_blank" href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=">http://watchdog.truste.com/pvr.php?page=complaint&amp;url=</a>, by mail at WatchDog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA&nbsp; 94105, by phone at 415-520-3400, or by fax at 415-520-3420.&nbsp; If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <a target="_blank" href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=">http://watchdog.truste.com/pvr.php?page=complaint&amp;url=</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.</p>
 <p><strong>Legal Disclaimer</strong><br>
 We may disclose Personal Information when required by law or regulation or in the good faith belief that such action is necessary in order to conform to the edicts of the law, comply with legal mandates, or to protect the rights, property, or personal safety of Kenexa, its employees, users and the public.</p>
 <p><strong>II. KENEXA ONLINE PRIVACY POLICY</strong></p>
@@ -928,7 +713,7 @@ When registering on the website, you have the option of receiving different subs
 <p>We may post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We obtain the customer's consent prior to posting the testimonial.</p>
 <p>Kenexa is the sole owner of the information collected on www.kenexa.com.</p>
 <p><strong>Clear Gifs (Web Beacons/Web Bugs)</strong><br>
-Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that helps us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.  To learn more about our advertising company’s use of clear gifs, please visit <a target="_blank" href="http://www.leadlander.com">http://www.leadlander.com</a> and <a target="_blank" href="http://www.addthis.com">http://www.addthis.com</a>.</p>
+Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that helps us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.  To learn more about our advertising company’s use of clear gifs, please visit <a href="http://www.leadlander.com" target="_blank">http://www.leadlander.com</a> and <a href="http://www.addthis.com" target="_blank">http://www.addthis.com</a>.</p>
 <p><strong>Links to Other Sites</strong><br>
 This Web site contains links to other sites that are not owned or controlled by Kenexa. Please be aware that we, Kenexa, are not responsible for the privacy practices of such other sites. For example, when you use "Add This" to bookmark and share our products and site, you will be taken to a third party site. Please note that these third party sites’ privacy policies govern the collection and use of the information collected on those sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This Privacy Policy applies only to the information collected by our Web site.</p>
 <p><strong>Order Processing</strong><br>
@@ -954,21 +739,22 @@ We use cookies on this site. A cookie is a small text file that is stored on a u
 <p>If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as document downloads will be limited.</p>
 <p>The Kenexa websites use Google Analytics, a web analysis service of Google Inc. (“Google”) Google Analytics uses “cookies”, text files, which will be saved on your computer and which allow an analysis of your use of the website. The information provided by the cookie concerning your use of the website (including your IP-address) will be transferred to a Google server in the United States and saved there. Google will use this information to analyze your use of the website, to compile reports about the website activities for the website operator and to provide additional services concerning the website and internet utilization. Google may transfer this information to third parties, if this is a legal requirement or if third parties are commissioned by Google to process the information. Google will in no event connect your IP-address with other Google data. You can prevent the installation of cookies with the relevant browser software setting; however, in this case you may not be able to use all the functions on this website to the full extent. Through use of the Kenexa websites, you agree to the processing of your data by Google in the way described above and for the purpose stated above.</p>
 <p><strong>Privacy Officer</strong><br>
-Kenexa has a Privacy Officer who is responsible for Kenexa's compliance with and enforcement of this Policy. Kenexa's Privacy Officer, Jim Restivo, is available to any of its employees, customers, vendors, business partners, or others who may have questions concerning this Policy or data security practices. Kenexa's Privacy Officer may be contacted by email at <a href="mailto:Privacy@kenexa.com">Privacy@kenexa.com</a>, by telephone at 610-971-6124 or by mail at Kenexa, 650 East Swedesford Road, Wayne, PA 19087. If users have questions or concerns regarding this statement, they should first contact Jim Restivo. Kenexa requires a response to an access request by a user be provided within 30 days of submitting the request. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <a href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=" target="_blank">http://watchdog.truste.com/pvr.php?page=complaint&amp;url=</a>, by mail at WatchDog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA&nbsp; 94105, by phone at 415-520-3400, or by fax at 415-520-3420.&nbsp; If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <a href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=" target="_blank">http://watchdog.truste.com/pvr.php?page=complaint&amp;url=</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.</p>
+Kenexa has a Privacy Officer who is responsible for Kenexa's compliance with and enforcement of this Policy. Kenexa's Privacy Officer, Jim Restivo, is available to any of its employees, customers, vendors, business partners, or others who may have questions concerning this Policy or data security practices. Kenexa's Privacy Officer may be contacted by email at <a href="mailto:Privacy@kenexa.com">Privacy@kenexa.com</a>, by telephone at 610-971-6124 or by mail at Kenexa, 650 East Swedesford Road, Wayne, PA 19087. If users have questions or concerns regarding this statement, they should first contact Jim Restivo. Kenexa requires a response to an access request by a user be provided within 30 days of submitting the request. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <a target="_blank" href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=">http://watchdog.truste.com/pvr.php?page=complaint&amp;url=</a>, by mail at WatchDog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA&nbsp; 94105, by phone at 415-520-3400, or by fax at 415-520-3420.&nbsp; If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <a target="_blank" href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=">http://watchdog.truste.com/pvr.php?page=complaint&amp;url=</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.</p>
 <p>TRUSTe will serve as a liaison with Kenexa to resolve users' concerns.</p>
 <p><strong>Changes to this Policy</strong><br>
 We reserve the right to modify this Privacy Policy at any time, so please review it frequently.&nbsp; If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>
 <a name="saas"></a>
-<p><strong>III. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kenexa's Application Service Provider (ASP) Personal Information Privacy Policy</strong></p>
+<p><strong>III. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kenexa's Software as a Service (SaaS) Privacy Policy</strong></p>
 <p>Kenexa provides our customers with applications that facilitate many Human Resource related requirements. These applications are not a part of our corporate web site. Kenexa serves as a Data Processor for the clients who use these applications. More specifically, Kenexa does not own the information that is submitted to our applications. The information that is submitted to our applications will be subject to our clients’ privacy policies.</p>
-<p>Kenexa participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <a href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=">http://watchdog.truste.com/pvr.php?page=complaint&amp;url=</a>, fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA&nbsp; 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <a href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=">http://watchdog.truste.com/pvr.php?page=complaint&amp;url=</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities. Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a client for whom Kenexa processes data should be addressed to that client.</p>
+<p>Kenexa complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <a href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=">http://watchdog.truste.com/pvr.php?page=complaint&amp;url=</a>, fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA&nbsp; 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <a href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=">http://watchdog.truste.com/pvr.php?page=complaint&amp;url=</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities. Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a client for whom Kenexa processes data should be addressed to that client.</p>
 <p>The following information discloses how information is submitted via our applications and how we handle the information for our clients who are the owners of this data.</p>
-<p>Kenexa is a leading end-to-end provider of software, proprietary content, services and process outsourcing that enable organizations to more effectively recruit and retain employees. This ASP Privacy Policy applies only to the transfer of personally identifiable information ("Personal Information") received by Kenexa in any format through its hosted software, whether supplied directly by Kenexa customers or by employees or users of the hosted software anywhere in the world, including transfers from the European Economic Area (EEA) to the United States.</p>
-<p>Kenexa abides by the EU Safe Harbor framework as set forth by the United States Department of Commerce regarding collection, use, and retention of data received from the European Union. For more information about Safe Harbor, go to <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>. Accordingly, we operate as a data processor for our customers. Kenexa’s customers act as data controllers. Kenexa maintains only that Personal Information which its customers have asked it to process. This ASP Privacy Policy does not reflect the privacy practices of Kenexa's customers and Kenexa is not responsible for its customers' privacy policies or practices. Kenexa does not review, comment upon or monitor its customers' privacy policies or their compliance with their respective privacy policies, nor does Kenexa review its customer’s instructions to determine whether they are in compliance with or conflict with the terms of a customer's published privacy policy.</p>
+Kenexa is a leading end-to-end provider of software, proprietary content, services and process outsourcing that enable organizations to more effectively recruit and retain employees. This SaaS Privacy Policy applies only to the transfer of personally identifiable information ("Personal Information") received by Kenexa in any format through its hosted software, whether supplied directly by Kenexa customers or by employees or users of the hosted software anywhere in the world.<br>
+<br>
+Kenexa complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.&nbsp; Kenexa has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.&nbsp; To learn more about the Safe Harbor program, and to view Kenexa’s certification, please visit http://www.export.gov/safeharbor/.&nbsp; . Accordingly, we operate as a data processor for our customers. Kenexa’s customers act as data controllers. Kenexa maintains only that Personal Information which its customers have asked it to process. This SaaS Privacy Policy does not reflect the privacy practices of Kenexa's customers and Kenexa is not responsible for its customers' privacy policies or practices. Kenexa does not review, comment upon or monitor its customers' privacy policies or their compliance with their respective privacy policies, nor does Kenexa review its customer’s instructions to determine whether they are in compliance with or conflict with the terms of a customer's published privacy policy.<br>
 <p><strong>Notice/Use of Personal Information</strong><br>
 Because it supplies a hosted system, Kenexa operates as a data processor for its customers. Kenexa’s customers act as data controllers. Individual users involved in employment activities may interact directly with Kenexa's customers rather than with Kenexa. Kenexa provides its customers with the option of disclosing their relationship with Kenexa by providing notice to individual employees and candidates of the customer regarding the Kenexa technology that they use. Kenexa maintains only that Personal Information which its customers have asked Kenexa to process. It is the Kenexa customer's responsibility to ensure that the data the customer collects can be legally collected in the country of origin. The Kenexa customer is responsible for giving its employees, applicants and users the appropriate level of notification that Personal Information is being collected and maintained.</p>
 <p><strong>Notification of Changes/Choice</strong><br>
-Kenexa will maintain Personal Information in accordance with this ASP Privacy Policy. If Kenexa decides to change this Policy, Kenexa will post the changes on this page so our customers and/or their employees, applicants and users are aware of what Personal Information Kenexa processes, how Kenexa uses it, and under what circumstances, if any, Kenexa discloses it. If at any point Kenexa decides to retain or use Personal Information in a different manner, Kenexa will notify its customers by way of email or by posting a notice on Kenexa’s website for at least 30 days prior to the change in use. Customers, in turn, are responsible for their users and providing them a choice as to whether or not Kenexa uses their Personal Information in this revised manner.</p>
+Kenexa will maintain Personal Information in accordance with this SaaS Privacy Policy. If Kenexa decides to change this Policy, Kenexa will post the changes on this page so our customers and/or their employees, applicants and users are aware of what Personal Information Kenexa processes, how Kenexa uses it, and under what circumstances, if any, Kenexa discloses it. If at any point Kenexa decides to retain or use Personal Information in a different manner, Kenexa will notify its customers by way of email or by posting a notice on Kenexa’s website for at least 30 days prior to the change in use. Customers, in turn, are responsible for their users and providing them a choice as to whether or not Kenexa uses their Personal Information in this revised manner.</p>
 <p><strong>Onward Transfer</strong><br>
 We are a global corporation with operations in several countries.&nbsp; We have developed global data practices designed to assure Personal Information is appropriately protected. While our primary data centers are in the USA, we may transfer Personal Information to Kenexa offices outside of the United States.&nbsp; In addition, we may employ other companies and individuals to perform functions on our behalf.&nbsp; If we disclose Personal Information to a third party or to Kenexa employees outside of the United States, we will ensure that such party has agreed to abide by the Safe Harbor principles or is subject to the Data Directive, or can otherwise assure adequate protection of such Personal Information.</p>
 <p><strong>Data Integrity</strong><br>
@@ -987,9 +773,9 @@ We may use cookies to enhance a user’s experience while using our hosted softw
 <p>Our hosted software may contain links to other sites. Please be aware that we are not responsible for the privacy practices or content of such other sites.</p>
 <p><strong>Children's privacy</strong><br>
 Kenexa&nbsp;is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children's online activities and interests. Kenexa does not knowingly collect information from children under the age of 13 and Kenexa does not target its website or its products to children under the age of 13.</p>
-<p>Last updated on: ­­ March 25, 2010</p>
-<p>© 2010 Kenexa. All Rights Reserved</p>
-<p style="text-align: center;"><img width="165" height="47" src="/getfile/63f103b5-aeda-41e3-be45-1e6fc09b3456/TRUSTe_EU_Seal.aspx" alt="TRUSTe"></p>
+<p>Last updated on: ­­ August 9, 2011</p>
+<p>© 2011 Kenexa. All Rights Reserved</p>
+<p style="text-align: center;"><img height="47" width="165" alt="TRUSTe" src="/getfile/63f103b5-aeda-41e3-be45-1e6fc09b3456/TRUSTe_EU_Seal.aspx"></p>
       </div>
     </div></div></div>
   </div>
@@ -1026,22 +812,30 @@ Kenexa&nbsp;is committed to protecting the privacy needs of children and we enco
 <div id="page-media">
   <div id="kenexa-compact-player"></div>
 </div>
-
   </div>
   <div id="page-bottom">
     <div id="page-footer"><div class="outer"><div class="inner">
       <div class="leftcol">
-        <ul>
-    <li><a href="http://www.kenexagovernmentsolutions.com" title="Government Solutions" target="_blank">     <span>Government Solutions</span>     </a></li>
-    <li><a href="/investor-relations" title="Investor Relations" target="_self">     <span>Investor Relations</span>     </a></li>
-    <li><a href="/kri" title="Kenexa Research Institute" target="_self">     <span>Kenexa Research Institute</span>     </a></li>
-    <li><a target="_self" title="Resource Center" href="/resource-center">     <span>Resource Center</span>     </a></li>
-    <li><a href="/media-room" title="Media Room" target="_self">     <span>Media Room</span>     </a></li>
-    <li><a href="/procurement" target="_self" title="Procurement Center">     <span>Procurement Center</span>     </a></li>
-    <li><a href="http://www.kenexa.jobs" target="_blank" title="Careers">     <span>Careers</span>     </a></li>
-    <li><a href="/connect" target="_self" title="Connect With Us">     <span>Connect With Us</span>     </a></li>
-    <li><a href="/about-us" target="_self" title="About Kenexa">     <span>About Kenexa</span>     </a></li>
-</ul>
+        <ul><!--<li><a title="Government Solutions" target="_blank" href="http://www.kenexagovernmentsolutions.com">     <span>Government Solutions</span>     </a></li>-->
+    <li><a href="/investor-relations" target="_self" title="Investor Relations"><span>Investor Relations</span> </a></li>
+    <li><a href="http://www.khpi.com" target="_blank" title="Kenexa High Performance Institute"><span>Kenexa High Performance Institute</span> </a></li>
+    <li><a href="/resource-center" target="_self" title="Resource Center"><span>Resource Center</span> </a></li>
+    <li><a href="/media-room" target="_self" title="Media Room"><span>Media Room</span> </a></li>
+    <li><a href="/procurement" target="_self" title="Procurement Center"><span>Procurement Center</span> </a></li>
+    <li><a href="http://www.kenexa.jobs" target="_blank" title="Careers"><span>Careers</span> </a></li>
+    <li><a href="/connect" target="_self" title="Connect With Us"><span>Connect With Us</span> </a></li>
+    <li><a href="/about-us" target="_self" title="About Kenexa"><span>About Kenexa</span> </a></li>
+    <li><a href="http://kenexagovernmentsolutions.com/Select-Country" target="_blank" title="Kenexa Government Solutions"><span>Government Solutions</span> </a></li>
+    <li><a href="/splash-pages/2011/Kenexa_Synergy_Awards" target="_self" title="Synergy Awards"><span>Synergy Awards</span> </a></li>
+</ul><div><ul class="networking-links">
+    <li><a id="twitter" target="_blank" href="http://twitter.com/#!/Kenexa">Twitter</a></li>
+    <li><a target="_blank" id="linkedin" href="http://www.linkedin.com/company/kenexa">LinkedIN</a></li>
+    <li><a target="_blank" id="facebook" href="http://www.facebook.com/pages/Kenexa/48113173481">Facebook</a></li>
+    <li><a target="_blank" id="youtube" href="http://www.youtube.com/user/KenexaHRSuccess">YouTube</a></li>
+    <li><a target="_blank" id="blog" href="http://blog.kenexa.com/">Kenexa Blog</a></li>
+    <li><a target="_blank" id="pods" href="http://www.kenexapods.com/">Kenexapods</a></li>
+    <li><a target="_blank" id="rss" href="http://www.kenexa.com/press-releases/rss">RSS</a></li>
+</ul></div>
       </div>
       <div class="middlecol">
         <div class="small-list" id="news-list">
@@ -1049,26 +843,26 @@ Kenexa&nbsp;is committed to protecting the privacy needs of children and we enco
   <ul>
 
 <li>
-  <a href="/MediaRoom/PressReleases/2011/Kenexa-Announces-Pricing-of-Follow-on-Public-Offer" title="Kenexa Announces Pricing of Follow-on Public Offering of Common Stock">
+  <a href="/MediaRoom/PressReleases/2011/Kenexa-Expands-Global-RPO-Business-With-Opening-of" title="Kenexa Expands Global RPO Business With Opening of New Center of Excellence ">
     <div class="holder"><div class="content">
-      <h5>Kenexa Announces Pricing of Follow-on Public Offering of Common Stock</h5>
-      <div class="subtext">Friday, May 20, 2011</div>
+      <h5>Kenexa Expands Global RPO Business With Opening of New Center of Excellence </h5>
+      <div class="subtext">Tuesday, December 13, 2011</div>
     </div></div>
   </a>
 </li>
 <li class="even">
-  <a href="/MediaRoom/PressReleases/2011/Kenexa-Client-Case-Examples-Featured-in-Latest-Ber" title="Kenexa Client Case Examples Featured in Latest Bersin &amp; Associates Research on Compensation Planning and Analysis">
+  <a href="/MediaRoom/PressReleases/2011/Save-the-Date--Kenexa-Announces-Details-of-2012-Wo" title="Save the Date: Kenexa Announces Details of 2012 World Conference">
     <div class="holder"><div class="content">
-      <h5>Kenexa Client Case Examples Featured in Latest Bersin &amp; Associates Research on Compensation Planning and Analysis</h5>
-      <div class="subtext">Tuesday, May 17, 2011</div>
+      <h5>Save the Date: Kenexa Announces Details of 2012 World Conference</h5>
+      <div class="subtext">Tuesday, December 06, 2011</div>
     </div></div>
   </a>
 </li>
 <li>
-  <a href="/MediaRoom/PressReleases/2011/Kenexa-Announces-Proposed-Follow-on-Public-Offerin" title="Kenexa Announces Proposed Follow-on Public Offering of Common Stock">
+  <a href="/MediaRoom/PressReleases/2011/Kenexa-Helps-Candidates-and-Hiring-Companies" title="Kenexa Helps Candidates and Hiring Companies ">
     <div class="holder"><div class="content">
-      <h5>Kenexa Announces Proposed Follow-on Public Offering of Common Stock</h5>
-      <div class="subtext">Monday, May 16, 2011</div>
+      <h5>Kenexa Helps Candidates and Hiring Companies </h5>
+      <div class="subtext">Monday, November 21, 2011</div>
     </div></div>
   </a>
 </li>
@@ -1083,27 +877,27 @@ Kenexa&nbsp;is committed to protecting the privacy needs of children and we enco
   <h3><a href="/kenexus" title="Upcoming Events">Upcoming Events</a></h3>
   <ul>
 
-<li class="tradeshow">
-  <a href="/Kenexus/Tradeshows/2011/ASTD-2011" title="ASTD 2011 ">
+<li class="webcast">
+  <a href="/Kenexus/Webcasts/2012/Are-you-Selecting-for-the-Right-Fit" title="Are you Selecting for the Right Fit?">
     <div class="holder"><div class="content">
-      <h5>ASTD 2011 </h5>
-      <div class="subtext">Sunday, May 22, 2011</div>
+      <h5>Are you Selecting for the Right Fit?</h5>
+      <div class="subtext">Wednesday, January 25, 2012</div>
     </div></div>
   </a>
 </li>
-<li class="even tradeshow">
-  <a href="/Kenexus/Tradeshows/2011/WorldatWork-Total-Rewards-2011-Conference---Exposi" title="WorldatWork Total Rewards 2011 Conference &amp; Exposition">
+<li class="even webcast">
+  <a href="/Kenexus/Webcasts/2012/Defining-Your-Organizations-Culture" title="Defining Your Organization’s Culture">
     <div class="holder"><div class="content">
-      <h5>WorldatWork Total Rewards 2011 Conference &amp; Exposition</h5>
-      <div class="subtext">Monday, May 23, 2011</div>
+      <h5>Defining Your Organization’s Culture</h5>
+      <div class="subtext">Thursday, January 26, 2012</div>
     </div></div>
   </a>
 </li>
-<li class="tradeshow">
-  <a href="/Kenexus/Tradeshows/2011/RPO-Summit" title="RPO Summit">
+<li class="webcast">
+  <a href="/Kenexus/Webcasts/2012/Pay-for-Performance--A-Clear-Signal-for-Retention" title="Pay for Performance: A Clear Signal for Retention and Engagement">
     <div class="holder"><div class="content">
-      <h5>RPO Summit</h5>
-      <div class="subtext">Tuesday, May 24, 2011</div>
+      <h5>Pay for Performance: A Clear Signal for Retention and Engagement</h5>
+      <div class="subtext">Thursday, February 02, 2012</div>
     </div></div>
   </a>
 </li>
@@ -1117,14 +911,19 @@ Kenexa&nbsp;is committed to protecting the privacy needs of children and we enco
     <div id="page-links">
       <ul class="left">
         <li>© Kenexa 2011</li>
-        <li><a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+        <li><a href="/privacy-policy" title="Privacy Policy">Privacy 
+
+Policy</a></li>
         <li><a href="/site-map" title="Site Map">Site Map</a></li>
-        <li><a href="/about-us/contact-us" title="Contact Us">Contact Us</a></li>
+        <li><a href="/about-us/contact-us" title="Contact 
+
+Us">Contact Us</a></li>
       </ul>
       <ul class="right">
         <li class="translate">
 	  Translate:
           <select>
+	    <option value="en-US">-choose-</option>
             <option value="en-US">English</option>
 	    <option value="zh-CN">Chinese</option>
             <option value="de-DE">German</option>
@@ -1141,7 +940,9 @@ Kenexa&nbsp;is committed to protecting the privacy needs of children and we enco
    
 <div style="display: none;" id="knxa-login-dialog-confirm">
 
-<div class="knxa-dialog-errors">Please re-enter your previously registered email address.</div>
+<div class="knxa-dialog-errors">Please re-enter your previously 
+
+registered email address.</div>
 
 <table width="100%" cellspacing="1" cellpadding="2" border="0">
 
@@ -1159,7 +960,11 @@ Kenexa&nbsp;is committed to protecting the privacy needs of children and we enco
 
 </table>
 
-<p style="color: #666; font-size: 9px;">By viewing and downloading this document you agree with our <a href="http://www.kenexa.com/privacy-policy" target="_blank">privacy policy</a>.<br>
+<p style="color: #666; font-size: 9px;">By viewing and downloading 
+
+this document you agree with our <a href="http://www.kenexa.com/privacy-policy" target="_blank">privacy 
+
+policy</a>.<br>
 <a href="#" onclick="forgot_email();">forgot your email?</a>
 </p> 
 
@@ -1187,16 +992,24 @@ Kenexa&nbsp;is committed to protecting the privacy needs of children and we enco
         </tr>
     </tbody>
 </table>
-<p style="color: #666; font-size: 9px;">By viewing and downloading this document you agree with our <a href="http://www.kenexa.com/privacy-policy" target="_blank">privacy policy</a>.</p> 
+<p style="color: #666; font-size: 9px;">By viewing and downloading 
+
+this document you agree with our <a href="http://www.kenexa.com/privacy-policy" target="_blank">privacy 
+
+policy</a>.</p> 
 </div>
 
-<script type="text/javascript" language="javascript">i=11159</script>  <script type="text/javascript" language="javascript" src="http://t4.trackalyzer.com/trackalyze.js"></script>
+<script type="text/javascript" language="javascript">i=11159</script> 
+
+ <script type="text/javascript" language="javascript" src="http://t4.trackalyzer.com/trackalyze.js"></script>
 
 <!-- Google Analytics -->
 
 <script type="text/javascript">
 
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+var gaJsHost = (("https:" == document.location.protocol) ? 
+
+"https://ssl." : "http://www.");
 
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 
@@ -1211,6 +1024,14 @@ var pageTracker = _gat._getTracker("UA-515138-1");
 pageTracker._trackPageview();
 
 } catch(err) {}</script>
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName('script')[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/9718.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
         
     
 
@@ -1221,5 +1042,5 @@ Sys.Application.initialize();
 </script>
 </form>
 
-
+ 
 </body></html>
