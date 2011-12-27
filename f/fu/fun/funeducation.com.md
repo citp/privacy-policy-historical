@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the funeducation.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620160843id_/http%3A//www.funeducation.com/Company/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funeducation.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227082142id_/http%3A//www.funeducation.com/Company/Privacy) for the most accurate reproduction.*
 
 # FunEducation, Inc. Privacy Statement
 
   
-General Privacy Statement  |  [Children's Privacy Policy](https://web.archive.org/web/20110620160843id_/http://www.funeducation.com/Company/Privacy/Children.aspx)
+General Privacy Statement  |  [Children's Privacy Policy](https://web.archive.org/web/20111227082142id_/http%3A//www.funeducation.com/Company/Children.aspx)
 
 * * *
 
 FunEducation, Inc. Privacy Statement
 
-FunEducation fully respects your rights to privacy and developed this statement to demonstrate our firm commitment to protecting your privacy. The following privacy policy discloses the information gathering and dissemination practices for the funeducation.com Web site ("Site").
+FunEducation, and its affiliated companies including Bright Education (collectively referred to as "FunEducation") fully respects your rights to privacy and developed this statement to demonstrate our firm commitment to protecting your privacy. The following privacy policy discloses the information gathering and dissemination practices for the funeducation.com Web site and any subdomains, such as brighted.funeducation.com (the "Site").
 
   * INFORMATION COLLECTION AND USE
   * REGISTRATION
@@ -17,6 +17,7 @@ FunEducation fully respects your rights to privacy and developed this statement 
   * CONTESTS AND SURVEYS
   * SPECIAL OFFERS
   * PROFILE
+  * CONSENT TO THE USE OF THIRD PARTY PROVIDERS
   * COOKIES
   * LOG FILES
   * CLEAR GIFS
@@ -66,11 +67,19 @@ We use third party software to verify your address, in order to send you future 
 We purchase marketing data from third parties and add it to our existing user database, to better target our advertising and to provide pertinent offers in which we think you would be interested.  To enrich our Profiles of individual customers, we tie this information to the personally identifiable information they have provided to us.  
 We use IP addresses to analyze trends, administer the site, track user movement, and gather broad demographic information for aggregate use.
 
+**CONSENT TO THE USE OF THIRD PARTY PROVIDERS**
+
+FunEducation may contract with other third parties to provide various outsourced services to us relating to the Site rather than performing the services itself. For example, we may contract with an email provider to handle the delivery of email messages to you. Likewise, we may contract with a web site hosting provider to host the Site for us. By visiting the Site, you consent to FunEducation providing all information (whether or not personally identifiable) received or collected from you to such third party providers for the purpose of enabling the third party provider to provide these outsourced services to us. 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this Site and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org. 
+
+Third parties will protect your information as FunEducation would under the terms of this policy. We may also share personally identifiable information with third party providers for the purpose of direct marketing, including email marketing. All third parties are bound by applicable laws including, but not limited to the CAN SPAM Act (s.877) of 2003, and are required to be in full compliance of all consumer opt-out rules and regulations. 
+
 **COOKIES**
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We link the information we store in cookies to personally identifiable information you submit while on our site. We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. 
 
-  We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. See “Third Party Advertisers.” 
+  We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
 
 **LOG FILES**
 
@@ -100,13 +109,16 @@ If you elect to use our referral service for informing a friend about our Site, 
 
 **SECURITY PROCEDURES**
 
-This Site has security measures in place to protect the loss, misuse and alteration of the information under our control. All information is stored in a secure database behind a firewall designed to prevent unauthorized access and none of the information can be retrieved via the Internet.  
-To provide you with an additional layer of security, all credit card numbers are stored on a computer that is not connected to the Internet. After you type in your credit card number, it is transferred to our secure computer. This computer is not accessible by network or modem and your credit card number is not stored anywhere else except for normal back-ups. In addition, all credit card numbers stored in the secure computer are encrypted as an added security measure.  
+This Site has security measures in place to protect the loss, misuse and alteration of the information under our control. All information is stored in a secure database behind a firewall designed to prevent unauthorized access and none of the information can be retrieved via the Internet.
+
+To provide you with an additional layer of security, all credit card numbers are stored on a computer that is not connected to the Internet. After you type in your credit card number, it is transferred to our secure computer. This computer is not accessible by network or modem and your credit card number is not stored anywhere else except for normal back-ups. In addition, all credit card numbers stored in the secure computer are encrypted as an added security measure.
+
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
 **OPT-OUT POLICY**
 
-Our Site gives users the opportunity to opt-out of receiving non-essential communications from FunEducation. You can opt-out of receiving non-essential communications from us at any time by emailing us at  . In addition, whenever we send you a non-essential email communication, you can opt-out of similar future mailings by simply clicking on a link provided in the e-mail message.  
+Our Site gives users the opportunity to opt-out of receiving non-essential communications from FunEducation. You can opt-out of receiving non-essential communications from us at any time by emailing us at  . In addition, whenever we send you a non-essential email communication, you can opt-out of similar future mailings by simply clicking on a link provided in the e-mail message.
+
 If at any time you believe that we have not followed this Privacy Policy, you have any questions about this policy, or if you would like your information to be removed from our system, please contact us at  . We will make reasonable efforts to identify and correct any reported problems. 
 
 **CORRECTING AND UPDATING YOUR INFORMATION**
@@ -120,4 +132,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
   We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
 
   
-< [ Back to Homepage ](https://web.archive.org/web/20110620160843id_/http://www.funeducation.com/)
+< [ Back to Homepage ](https://web.archive.org/web/20111227082142id_/http%3A//)
