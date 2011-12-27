@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the viaddress.com privacy policy that was archived on 2010-02-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100215181149id_/http%3A//www.viaddress.com/privacy%2520policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the viaddress.com privacy policy that was archived on 2011-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227100851id_/http%3A//www.viaddress.com/privacy%2520policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>ViaAddress</title>
+<title>Viaddress : The Global Leader in Package Forwarding</title>
 
-<script language="javascript">AC_FL_RunContent = 0;</script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript">AC_FL_RunContent = 0;</script>
 <script src="AC_RunActiveContent.js" language="javascript"></script>
 <script type="text/javascript">
 // Index It Image Slideshow script- By JavaScriptKit.com
@@ -386,6 +386,90 @@ function validate1()
 	
  } 
     </script>
+	<script>
+	//====================================================================================================
+	//	Function Name	:	change_msg_click()
+	//	Purpose			:	This function will executed when user click on question textarea default msg blank
+	//----------------------------------------------------------------------------------------------------
+
+	function on_msg_click(v,vl){
+		var val = document.getElementById(v).value;
+		if(val == 'UserName' || val == 'Password')
+			document.getElementById(v).value = '';
+		
+	}
+	//====================================================================================================
+	//	Function Name	:	change_msg_blur()
+	//	Purpose			:	This function will executed when user without enter a any msg out the textarea
+	//						then dispaly a default msg
+	//----------------------------------------------------------------------------------------------------
+	function on_msg_blur(vl,v){
+		
+		//var msg_val = document.getElementById('msg_val_1').value;	
+		
+		if(vl == ''){
+			if(v == 'username')
+			{
+				document.getElementById(v).value = "UserName";	
+			}
+			else
+			{
+				document.getElementById(v).value = "Password";	
+			}
+		return true;
+		}
+	}
+	
+	function change_type(element,type)
+	{
+		if(element.value == 'Password')
+		{
+			element.type = 'text';
+		}
+		else if(element.value == '')
+		{
+			element.type = 'password';
+		}
+		else
+		{
+			element.type = 'password';
+		}
+	}
+</script>
+
+
+<style>
+.login_top{
+	background:url(images/login-bg.gif) no-repeat 0px 0px;
+	height:27px;
+	float:left;
+	padding:0px 10px; 
+	line-height:22px;
+	position:relative;
+	font-weight:bold; 
+	font-size:13px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#3C3C3C;
+}
+.login_top strong{
+	padding:0;
+	margin:0; 
+	color:#0281C8;
+}
+.login_top span{
+	background:url(images/login-bg.gif) no-repeat -390px -45px;
+	width:10px;
+	height:27px;
+	position:absolute;
+	top:0;
+	right:0;	}
+	
+.gplusbox div
+{
+	width:80px !important;
+}	
+</style>
+
 
 
 
@@ -396,25 +480,31 @@ function validate1()
 
               <tbody><tr>
 
-                <td width="45%" height="71" align="left" style="cursor:pointer;" onclick="javascript: window.location.href='http://www.viaddress.com/';">&nbsp;</td>
+                <td width="35%" height="45" align="left" style="cursor:pointer;" onclick="javascript: window.location.href='http://www.viaddress.com/';">&nbsp;</td>
 
-                <td width="55%" align="right" valign="top"><table width="485" border="0" cellspacing="0" cellpadding="0">
-
+                <td width="70%" align="right" valign="top">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tbody><tr>
-
-                    <td width="60%" align="left" valign="top" style="width:220px; background:url(images/login_bg.gif) no-repeat;">
+				  							
+					<td width="70%" align="left" valign="top" style="width:260px; float:right; margin-right:-10px; background:url(images/login_bg.gif) no-repeat;">						
 					<form id="frm1" name="frm1" method="post" action="login-php.php" onsubmit="return validate1()">
 					<table width="100" border="0" cellspacing="0" cellpadding="2">
 						
                       <tbody><tr>
+						<input type="hidden" id="msg_val_1" name="msg_val_1">
+                        
 
-                        <td align="left" valign="middle">&nbsp;</td>
+                        <td align="left" valign="middle">
+							<input name="username" type="text" style="height:12px;color:#828282;font-size:11px;width:50px" id="username" value="UserName" size="5" onfocus="on_msg_click(this.name, this.value)" onblur="on_msg_blur(this.value, this.name)">
+						</td>
 
-                        <td align="left" valign="middle"><input name="username" type="text" style="height:12px;" id="username" size="6"></td>
-
-                        <td align="left" valign="middle"><input name="password" style="height:12px;" type="password" id="password" size="6"></td>
+                        <td align="left" valign="middle">
+							<input name="password" style="height:12px;color:#828282;font-size:11px;width:50px" type="text" id="password" value="Password" size="5" onfocus="on_msg_click(this.name, this.value);change_type(this,'password');" onblur="on_msg_blur(this.value, this.name);change_type(this,'password');">
+						</td>
 
                         <td align="left" valign="middle"><input type="image" style="height:17px; padding:0;" border="0" src="images/login.gif" alt=""></td>
+
+                        <td align="left" valign="middle"><a href="http://www.viaddress.com/forgot_password.php">Forgot?</a></td>
 
                       </tr>
 
@@ -422,12 +512,12 @@ function validate1()
 					</form>
 					</td>
 
-                    <td width="10%" align="right" valign="top"><a href="registration1.php"><img src="images/register.gif" width="72" height="25" border="0"></a></td>
-
+                    <td width="10%" align="right" valign="top"><!--<a href="registration1.php">--><a href="register.php"><img src="images/register.gif" width="72" height="25" border="0"></a></td>
+										
                     <td width="10%" align="right" valign="top"><a href="contact_us.php"><img src="images/live_help.gif" alt="" width="71" height="26" border="0"></a></td>
 
-                    <td width="20%" align="right" valign="top">
-
+                    <td width="15%" align="right" valign="top">
+				
                     
 
 <ul id="sddm">
@@ -444,137 +534,137 @@ function validate1()
 
        
 
-<a href="#">Afghanistan</a>
+<a href="http://www.viaddress.com/#">Afghanistan</a>
 
 
 
-<a href="#">Albania</a>
+<a href="http://www.viaddress.com/#">Albania</a>
 
 
 
 
 
-<a href="#">Algeria</a>
+<a href="http://www.viaddress.com/#">Algeria</a>
 
 
 
 
 
-<a href="#">American Samoa</a>
+<a href="http://www.viaddress.com/#">American Samoa</a>
 
 
 
 
 
-<a href="#">Andorra</a>
+<a href="http://www.viaddress.com/#">Andorra</a>
 
 
 
 
 
-<a href="#">Angola</a>
+<a href="http://www.viaddress.com/#">Angola</a>
 
 
 
 
 
-<a href="#">Anguilla</a>
+<a href="http://www.viaddress.com/#">Anguilla</a>
 
 
 
 
 
-<a href="#">Antigua and Barbuda</a>
+<a href="http://www.viaddress.com/#">Antigua and Barbuda</a>
 
 
 
 
 
-<a href="#">Argentina</a>
+<a href="http://www.viaddress.com/#Argentina">Argentina</a>
 
 
 
 
 
-<a href="#">Armenia</a>
+<a href="http://www.viaddress.com/#">Armenia</a>
 
 
 
 
 
-<a href="#">Aruba</a>
+<a href="http://www.viaddress.com/#">Aruba</a>
 
 
 
 
 
-<a href="#">Australia</a>
+<a href="http://www.viaddress.com/#Australia">Australia</a>
 
 
 
 
 
-<a href="#">Austria</a>
+<a href="http://www.viaddress.com/#Austria">Austria</a>
 
 
 
 
 
-<a href="#">Azerbaijan</a>
+<a href="http://www.viaddress.com/#">Azerbaijan</a>
 
 
 
 
 
-<a href="#">Bahamas</a>
+<a href="http://www.viaddress.com/#">Bahamas</a>
 
 
 
 
 
-<a href="#">Bahrain</a>
+<a href="http://www.viaddress.com/#Bahrain">Bahrain</a>
 
 
 
 
 
-<a href="#">Bangladesh</a>
+<a href="http://www.viaddress.com/#">Bangladesh</a>
 
 
 
 
 
-<a href="#">Barbados</a>
+<a href="http://www.viaddress.com/#">Barbados</a>
 
 
 
 
 
-<a href="#">Belarus</a>
+<a href="http://www.viaddress.com/#">Belarus</a>
 
 
 
 
 
-<a href="#">Belgium</a>
+<a href="http://www.viaddress.com/#Belgium">Belgium</a>
 
 
 
 
 
-<a href="#">Belize</a>
+<a href="http://www.viaddress.com/#">Belize</a>
 
 
 
 
 
-<a href="#">Benin</a>
+<a href="http://www.viaddress.com/#">Benin</a>
 
 
 
 
 
-<a href="#">Bermuda</a>
+<a href="http://www.viaddress.com/#">Bermuda</a>
 
 
 
@@ -999,6 +1089,10 @@ function validate1()
 
 
 
+<a href="#Iraq">Iraq</a>
+
+
+
 
 <a href="#Ireland">Ireland</a>
 
@@ -1307,12 +1401,6 @@ function validate1()
 
 
 <a href="#Niger">Niger</a>
-
-
-
-
-
-<a href="#Nigeria">Nigeria</a>
 
 
 
@@ -1796,7 +1884,7 @@ function validate1()
 
                   <tr>
 
-                    <td colspan="4" align="left" valign="top">&nbsp;</td>
+                    <td colspan="4" align="left" valign="top"><font color="#FF0000"><b></b></font></td>
 
                   </tr>
 
@@ -1806,21 +1894,53 @@ function validate1()
 
               <tr>
 
-                <td width="45%" align="left">&nbsp;</td>
 
-                <td align="left"><div style="clear:both">
 
-                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <td width="30%" align="left">&nbsp;</td>
+
+                <td align="left"><div style="clear:both; text-align:right;">
+
+                  <link href="https://plus.google.com/105434590750684526353" rel="publisher"><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com/viaddress%2F&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:20px;" allowtransparency="true"></iframe><span class="gplusbox">
+<g:plusone size="medium"></g:plusone>
+</span><div style="text-align: right;"><small><small style="color: rgb(153, 153, 153);"><span style="font-family: Verdana;"><big style="color: rgb(168, 168, 168);"> Facebook fans  &nbsp;  Twitter Followers</big>
+ </span></small></small>
+</div><table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+
+
+
+
+
+
 
                     <tbody><tr>
 
-                      <td width="24%" align="center" class="top_menus"><a href="individuals.php">Individuals</a></td>
+                      <td width="16%" align="center" class="top_menus"><a href="individuals.php">Individuals</a></td>
 
-                      <td width="24%" align="center" class="top_menus"><a href="business.php">Businesses</a></td>
+                      <td width="18%" align="center" class="top_menus"><a href="business.php">Businesses</a></td>
 
-                      <td width="16%" align="center" class="top_menus"><a href="faq.php">FAQs</a></td>
+                      <td width="10%" align="center" class="top_menus"><a href="faq.php">FAQs</a></td>
 
-                      <td width="36%" align="center" class="top_menus"><a href="cost-calculator.php">Shipping Calculator</a></td>
+                      <td width="28%" align="center" class="top_menus"><a href="cost-calculator.php">Shipping Calculator</a></td>
+
+                      
+
+                  <td align="center" class="top_menus"><a href="http://www.facebook.com/viaddress" target="_blank"><img src="https://www.viaddress.com/images/faceb.png" title="" alt="" align="ABSMiddle" width="30pxpxpx" height="30pxpxpx" style="margin-right: 2px; " border="0">48,769 </a></td> 
+
+                      <td align="center" class="top_menus"><a href="http://twitter.com/viaddress" target="_blank"><img src="https://www.viaddress.com/images/twit.png" title="" alt="" align="ABSMiddle" width="30pxpxpx" height="30pxpxpx" style="margin-right: 2px; " border="0">22,199</a></td>
+
+
+                     
+                      
 
                     </tr>
 
@@ -1988,7 +2108,22 @@ your information.<br>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <td>	
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17839786-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
             <tbody><tr>
               <td><a href="#"><img src="images/footer-img1.jpg" width="329"></a></td>
               <td><table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
@@ -2008,35 +2143,64 @@ your information.<br>
       </tbody></table>
     
     
-      <div align="center">Copyright © 2010 VIAddress.com . All Rights Reserved.
-<br> Designated trademarks and brands are the property of their respective owners. Use of this Web site constitutes acceptance of the VIAddress User Agreement and Privacy Policy.</div>
+      <div align="center">© 2007-2012 viaddress. All Rights Reserved.
+<br> Designated trademarks and brands are the property of their respective owners. Use of this Web site constitutes acceptance of the viaddress User Agreement and Privacy Policy.</div>
     
     
       &nbsp;	
     
     
-      <div class="footer" align="center">  <a href="index.php">Home</a>      | <a href="about-us.php">About Us</a>  | 
-          <a href="contact_us.php">Contact us</a>        | <a href="news_press.php">News &amp; Press</a> |<a href="terms_conditions.php">Terms &amp; Conditions</a> | <a href="privacy policy.php">Privacy policy</a></div>
-         
+      <div class="footer" align="center" style="font-weight: bold">  <a href="index.php">Home</a>      | <a href="about-us.php">About Us</a>  | 
+          <a href="contact_us.php">Contact us</a>        | <a href="http://www.viaddressreviews.com" target="_blank">Blog reviews</a>        |<a href="news_press.php">News &amp; Press</a> |<a href="terms_conditions.php">Terms &amp; Conditions</a> | <a href="privacy policy.php">Privacy policy</a>
+
+
+<br style="font-family: Arial;">
+<div style="font-family: Arial; font-weight: bold; text-align: center;"><span style="color: rgb(107, 107, 107);"></span></div>
+<span style="font-weight: bold; font-family: Arial;"></span>
+<div style="font-family: Arial;"><span style="color: rgb(107, 107, 107);">
+<table style="border-collapse: collapse; width: 632px; height: 56px;">
+  <tbody>
+    <tr>
+
+   
+     
+ <td><span style="border-collapse: separate; font-size: 8pt;"><a href="http://www.facebook.com/viaddress" target="_blank"><span style="font-size: x-small;"><img title="" style="border-style: solid; border-width: 0px; font-size: 8pt;" src="https://www.viaddress.com/images/vfacebook.png" alt="" align="middle"></span></a>
+    &nbsp;&nbsp; </span></td>
       
-    
-    
-      &nbsp;	
-    
+
+   <td><span style="border-collapse: separate; font-size: 8pt;">
+<a href="http://www.twitter.com/viaddress" target="_blank"><img style="border-style: solid; border-width: 0px;" title="" src="https://www.viaddress.com/images/vtwitter.png" alt="" align="middle"></a>
+ </span></td>
+
+
+<td><span style="border-collapse: separate; font-size: 8pt;"><a href="http://www.myspace.com/viaddress" target="_blank"><img title="" style="border-style: solid; border-width: 0px;" src="https://www.viaddress.com/images/vmyspace.png" alt="" align="middle"></a>
+     </span></td>
+      <td><span style="border-collapse: separate; font-size: 8pt;"><a href="http://www.linkedin.com/company/viaddress" target="_blank"><img alt="" src="https://www.viaddress.com/images/vlinkedin.png" style="border-style: solid; border-width: 0px;" title="" align="middle"></a>
+      </span></td>
+      <td><span style="border-collapse: separate; font-size: 8pt;"><a href="http://www.youtube.com/viaddress" target="_blank"><img src="https://www.viaddress.com/images/vyoutube.png" alt="" style="border-style: solid; border-width: 0px;" title="" align="middle"></a>
+      
+      </span></td>
+      <td><span style="border-collapse: separate; font-size: 8pt;"><a href="http://www.vimeo.com/user3204844" target="_blank"><img src="https://www.viaddress.com/images/vvimeo.png" alt="" style="border-style: solid; border-width: 0px;" title="" align="middle"></a>
+      </span></td>
+      <td><span style="border-collapse: separate; font-size: 8pt;"><a href="http://www.twitter.com/statuses/user_timeline/42590669.rss" target="_blank"><img title="" style="border-style: solid; border-width: 0px;" alt="" src="https://www.viaddress.com/images/vrssfeed.png" align="middle"></a>
+      </span></td>
+    </tr>
+
+
+
+  </tbody>
+</table>
+</span>
+</div>
+
+
+
+  
+
+
 <!-- Woopra Code Start -->
 <script type="text/javascript" src="//static.woopra.com/js/woopra.js"></script>
-<!-- Woopra Code End -->
-
-<!-- twitter follow badge by go2web20 -->
-<script src="http://files.go2web20.net/twitterbadge/1.0/badge.js" type="text/javascript"></script><script type="text/javascript" charset="utf-8"><!--
-tfb.account = 'viaddress';
-tfb.label = 'follow-us';
-tfb.color = '#35ccff';
-tfb.side = 'r';
-tfb.top = 100;
-tfb.showbadge();
---></script>
-<!-- end of twitter follow badge -->    
+<!-- Woopra Code End -->    
       &nbsp;
     
   
@@ -2044,4 +2208,4 @@ tfb.showbadge();
 </div>
 </div>
 
-</body></html>
+</div></body></html>
