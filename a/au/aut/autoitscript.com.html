@@ -1,158 +1,184 @@
-<!--The following is the downloaded HTML source of the autoitscript.com privacy policy that was archived on 2011-01-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110125084331id_/http%3A//www.autoitscript.com/privacy_policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the autoitscript.com privacy policy that was archived on 2011-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227084332id_/http%3A//www.autoitscript.com/site/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<title>Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link href="/css/default.css" rel="stylesheet" type="text/css">
-</head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" class="js"><head profile="http://gmpg.org/xfn/11"><link rel="stylesheet" href="http://www.autoitscript.com/site/wp-content/plugins/wp-minify/min/?f=wp-content/themes/TheCorporation/style.css,wp-content/themes/TheCorporation/epanel/shortcodes/shortcodes.css,wp-content/themes/TheCorporation/epanel/page_templates/js/fancybox/jquery.fancybox-1.3.4.css,wp-content/themes/TheCorporation/epanel/page_templates/page_templates.css&amp;b=site&amp;m=1324306495" type="text/css" media="screen"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>Privacy Policy - AutoItScript</title><link rel="alternate" type="application/rss+xml" title="AutoItScript RSS Feed" href="http://www.autoitscript.com/site/feed/"><link rel="alternate" type="application/atom+xml" title="AutoItScript Atom Feed" href="http://www.autoitscript.com/site/feed/atom/"><link rel="pingback" href="http://www.autoitscript.com/site/xmlrpc.php"> <!--[if lt IE 7]><link
+rel="stylesheet" type="text/css" href="http://www.autoitscript.com/site/wp-content/themes/TheCorporation/css/ie6style.css" /> <script type="text/javascript" src="http://www.autoitscript.com/site/wp-content/themes/TheCorporation/js/DD_belatedPNG_0.0.8a-min.js"></script> <script type="text/javascript">DD_belatedPNG.fix('#logo,div#top-menu,a#prevlink,a#nextlink,#featured-slider a.readmore,#featured-slider a.readmore span,#featured-slider img.thumb, a#search-icon,ul.nav li ul li,#services img.icon,#footer h3.widgettitle,#footer .widget ul li, .reply-container, .bubble');</script> <![endif]--> <!--[if IE 7]><link
+rel="stylesheet" type="text/css" href="http://www.autoitscript.com/site/wp-content/themes/TheCorporation/css/ie7style.css" /> <![endif]--> <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">document.documentElement.className = 'js';</script> <script type="text/javascript">window.google_analytics_uacct = "UA-22732331-4";</script> <script type="text/javascript">/*<![CDATA[*///
+var BrowserDetect = {
+init: function () {
+this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
+this.version = this.searchVersion(navigator.userAgent)|| this.searchVersion(navigator.appVersion)|| "an unknown version";
+this.OS = this.searchString(this.dataOS) || "an unknown OS";
+},
+searchString: function (data) {
+for (var i=0;i<data.length;i++)	{
+        var dataString = data[i].string;
+        var dataProp = data[i].prop;
+        this.versionSearchString = data[i].versionSearch || data[i].identity;
+        if (dataString) {if (dataString.indexOf(data[i].subString) != -1)
+                return data[i].identity;}
+        else if (dataProp){return data[i].identity;}
+}
+},
+searchVersion: function (dataString) {
+var index = dataString.indexOf(this.versionSearchString);
+if (index == -1) return;
+return parseFloat(dataString.substring(index+this.versionSearchString.length+1));
+},
+dataBrowser: [
+        {string: navigator.userAgent,subString: "Chrome",identity: "Chrome"},
+        {string: navigator.userAgent,subString: "OmniWeb",versionSearch: "OmniWeb/",identity: "OmniWeb"},
+        {string: navigator.vendor,subString: "Apple",identity: "Safari",versionSearch: "Version"},
+        {prop: window.opera,identity: "Opera"},
+        {string: navigator.vendor,subString: "iCab",identity: "iCab"},
+        {string: navigator.vendor,subString: "KDE",identity: "Konqueror"},
+        {string: navigator.userAgent,subString: "Firefox",identity: "Firefox"},
+        {string: navigator.vendor,subString: "Camino",identity: "Camino"},
+        {string: navigator.userAgent,subString: "Netscape",identity: "Netscape"},
+        {string: navigator.userAgent,subString: "MSIE",identity: "Explorer",versionSearch: "MSIE"},
+        {string: navigator.userAgent,subString: "Gecko",identity: "Mozilla",versionSearch: "rv"},
+        {string: navigator.userAgent,subString: "Mozilla",identity: "Netscape",versionSearch: "Mozilla"}],
+dataOS:[{string: navigator.platform,subString: "Win",identity: "Windows"},
+        {string: navigator.platform,subString: "Mac",identity: "Mac"},
+        {string: navigator.userAgent,subString: "iPhone",identity: "iPhone/iPod"},
+        {string: navigator.platform,subString: "Linux",identity: "Linux"}]
+};
+BrowserDetect.init();
+function bookMark(theurl, thetitle, browser){
+    switch(browser){
+        case "Firefox":
+            window.sidebar.addPanel(thetitle, theurl,"");
+            break;
+        case "Explorer":
+            window.external.AddFavorite( theurl, thetitle);
+            break;
+        case "Chrome":
+        case "Safari":
+        case "Opera":
+        case "Netscape":
+            switch(BrowserDetect.OS){
+            case "Windows":
+            case "Linux":
+            alert('press ctrl+D to bookmark this page');
+            break;
+            case "Mac":
+                alert('press cmd+D to bookmark this page');
+            break;
+            }
+            break;
+    }
+}
+///*]]>*/</script> <style type="text/css" media="screen">.socialwrap li.icon_text a img, .socialwrap li.iconOnly a img, .followwrap li.icon_text a img, .followwrap li.iconOnly a img{border-width:0 !important;background-color:none;}#follow.right {width:32px;position:fixed; right:0; top:100px;background-color:#878787;padding:10px 0;font-family:impact,charcoal,arial, helvetica,sans-serif;-moz-border-radius-topleft: 5px;-webkit-border-top-left-radius:5px;-moz-border-radius-bottomleft:5px;-webkit-border-bottom-left-radius:5px;border:2px solid #fff;border-right-width:0}#follow.right ul {padding:0; margin:0; list-style-type:none !important;font-size:24px;color:black;}
+#follow.right ul li {padding-bottom:10px;list-style-type:none !important;padding-left:4px;padding-right:4px}
+#follow img{border:none;}#follow.right ul li.follow {margin:0 4px;}
+#follow.right ul li.follow img {border-width:0;display:block;overflow:hidden; background:transparent url(http://www.autoitscript.com/site/wp-content/plugins/share-and-follow/images/impact/follow-right.png) no-repeat -0px 0px;height:79px;width:20px;}
+#follow.right ul li a {display:block;}
+#follow.right ul li.follow span, #follow ul li a span {display:none}.share {margin:0 4px 4px 0;}
+.phat span {display:inline;}
+ul.row li {float:left;list-style-type:none;}
+li.iconOnly a span.head {display:none}
+#follow.left ul.size16 li.follow{margin:0px auto !important}
+li.icon_text a {padding-left:0;margin-right:4px}
+li.text_only a {background-image:none !important;padding-left:0;}
+li.text_only a img {display:none;}
+li.icon_text a span{background-image:none !important;padding-left:0 !important; }
+li.iconOnly a span.head {display:none}
+ul.socialwrap li {margin:0 4px 4px 0 !important;}
+ul.socialwrap li a {text-decoration:none;}ul.row li {float:left;line-height:auto !important;}
+ul.row li a img {padding:0}.size16 li a,.size24 li a,.size32 li a, .size48 li a, .size60 li a {display:block}ul.socialwrap {list-style-type:none !important;margin:0; padding:0;text-indent:0 !important;}
+ul.socialwrap li {list-style-type:none !important;background-image:none;padding:0;list-style-image:none !important;}
+ul.followwrap {list-style-type:none !important;margin:0; padding:0}
+ul.followwrap li {margin-right:4px;margin-bottom:4px;list-style-type:none !important;}
+#follow.right ul.followwrap li, #follow.left ul.followwrap li {margin-right:0px;margin-bottom:0px;}
+.shareinpost {clear:both;padding-top:15px}.shareinpost ul.socialwrap {list-style-type:none !important;margin:0 !important; padding:0 !important}
+.shareinpost ul.socialwrap li {padding-left:0 !important;background-image:none !important;margin-left:0 !important;list-style-type:none !important;text-indent:0 !important}
+.socialwrap li.icon_text a img, .socialwrap li.iconOnly a img{border-width:0}ul.followrap li {list-style-type:none;list-style-image:none !important;}
+div.clean {clear:left;}
+div.display_none {display:none;}</style><style type="text/css" media="print">body {background: white;font-size: 12pt;color:black;}
+ * {background-image:none;}
+ #wrapper, #content {width: auto;margin: 0 5%;padding: 0;border: 0;float: none !important;color: black;background: transparent none;}
+ a { text-decoration : underline; color : #0000ff; }
+#menu, #navigation, #navi, .menu {display:none}</style><link rel="image_src" href="http://www.gravatar.com/avatar/d1b70a501c484e5bba76f2a2fade8717?default=&amp;size=110.jpg"><meta name="description" content="Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disc"><link rel="canonical" href="http://www.autoitscript.com/site/privacy-policy/"><link rel="alternate" type="application/rss+xml" title="AutoItScript » Feed" href="http://www.autoitscript.com/site/feed/"><link rel="alternate" type="application/rss+xml" title="AutoItScript » Comments Feed" href="http://www.autoitscript.com/site/comments/feed/"> <script type="text/javascript">//
+	// Google Analytics for WordPress by Yoast v4.2.2 | http://yoast.com/wordpress/google-analytics/
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount','UA-22732331-4']);
+	_gaq.push(['_trackPageview'],['_trackPageLoadTime']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	//</script> <meta content="TheCorporation v.3.0" name="generator"> <script type="text/javascript" src="http://www.autoitscript.com/site/wp-includes/js/comment-reply.js?ver=20090102"></script> <script type="text/javascript" src="http://www.autoitscript.com/site/wp-includes/js/jquery/jquery.js?ver=1.7.1"></script> <script type="text/javascript" src="http://www.autoitscript.com/site/wp-content/themes/TheCorporation/epanel/shortcodes/js/et_shortcodes_frontend.js?ver=2.0"></script> <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.autoitscript.com/site/xmlrpc.php?rsd"><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.autoitscript.com/site/wp-includes/wlwmanifest.xml"><meta name="generator" content="WordPress 3.3"><style type="text/css">.better-tag-cloud-shortcode li,
+		.better-tag-cloud-shortcode li a,
+		li#better-tag-cloud ul.wp-tag-cloud li,
+		li#better-tag-cloud ul.wp-tag-cloud li a {
+			display:	inline;
+					}</style><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script> <script type="text/javascript">GS_googleAddAdSenseService("ca-pub-2584082051607049");
+GS_googleEnableAllServices();</script> <script type="text/javascript">GA_googleAddSlot("ca-pub-2584082051607049", "autoitscript_home_footer_leader_728x90");
+GA_googleAddSlot("ca-pub-2584082051607049", "autoitscript_home_right_skyscraper2_160x600");
+GA_googleAddSlot("ca-pub-2584082051607049", "autoitscript_home_right_skyscraper_160x600");</script> <script type="text/javascript">GA_googleFetchAds();</script> <style type="text/css">#et_pt_portfolio_gallery { margin-left: -15px; }
+		.et_pt_portfolio_item { margin-left: 27px; }
+		.et_portfolio_small { margin-left: -3px !important; }
+		.et_portfolio_small .et_pt_portfolio_item { margin-left: 22px !important; }
+		.et_portfolio_large { margin-left: -4px !important; }
+		.et_portfolio_large .et_pt_portfolio_item { margin-left: 14px !important; }</style></head><body class="page page-id-269 page-template-default ie"><div id="header"><div class="container"> <a href="http://www.autoitscript.com/site"> <img src="http://www.autoitscript.com/site/wp-content/themes/TheCorporation/images/logo.png" alt="Logo" id="logo"></a><div id="top-menu"><ul id="menu-mainmenu" class="superfish nav clearfix"><li id="menu-item-216" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-216"><a href="/site/">Home</a></li><li id="menu-item-207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-207"><a href="http://www.autoitscript.com/site/autoit/">AutoIt</a><ul class="sub-menu"><li id="menu-item-231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a href="http://www.autoitscript.com/site/autoit/">Overview</a></li><li id="menu-item-209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-209"><a href="http://www.autoitscript.com/site/autoit/downloads/">Downloads</a></li><li id="menu-item-210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-210"><a href="http://www.autoitscript.com/site/autoit/graphics/">Graphics</a></li><li id="menu-item-480" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-480"><a href="/autoit3/docs/">Online Documentation</a></li></ul></li><li id="menu-item-208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-208"><a href="http://www.autoitscript.com/site/autoit-script-editor/">AutoIt Editor</a><ul class="sub-menu"><li id="menu-item-309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-309"><a href="http://www.autoitscript.com/site/autoit-script-editor/">Overview</a></li><li id="menu-item-308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-308"><a href="http://www.autoitscript.com/site/autoit-script-editor/downloads/">Downloads</a></li><li id="menu-item-312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-312"><a href="http://www.autoitscript.com/site/autoit-script-editor/cvswrapper/">CVSWrapper</a></li></ul></li><li id="menu-item-213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213"><a href="http://www.autoitscript.com/site/autoit-tools/">AutoIt Tools</a><ul class="sub-menu"><li id="menu-item-436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-436"><a href="http://www.autoitscript.com/site/autoit-tools/">Overview</a></li><li id="menu-item-435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-435"><a href="http://www.autoitscript.com/site/autoit-tools/logoff-screensaver/">Logoff Screensaver</a></li><li id="menu-item-211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-211"><a href="http://www.autoitscript.com/site/autoit-tools/gimagex/">GImageX</a></li><li id="menu-item-437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-437"><a href="http://www.autoitscript.com/site/autoit-tools/vdi-optimizer/">VDI Optimizer</a></li></ul></li><li id="menu-item-212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-212"><a href="http://www.autoitscript.com/site/code/">Code</a></li><li id="menu-item-214" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214"><a href="/forum/">Forum</a></li><li id="menu-item-476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-476"><a href="http://www.autoitscript.com/site/blog/">Blog</a></li><li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="http://www.autoitscript.com/site/contact-us/">Contact</a></li></ul></div> <a href="#" id="search-icon">search</a><div id="search-form"><form method="get" id="searchform1" action="http://www.autoitscript.com/site/"> <input type="text" value="search this site..." name="s" id="searchinput"></form></div></div></div><div id="pagetop"><div class="container"><h1> Privacy Policy</h1><p class="tagline"> Privacy Policy for the AutoIt Website</p></div></div><div id="breadcrumbs"><div class="container"> <a title="Go to Home." href="http://www.autoitscript.com/site">Home</a> &gt; Privacy Policy</div></div><div id="content" class="clearfix"><div class="container"><div id="content-area" class="clearfix"><div class="post clearfix"><p>Your privacy is very important to us. Accordingly, we have developed  this Policy in order for you to understand how we collect, use,  communicate and disclose and make use of personal information. The  following outlines our privacy policy.</p><ul><li> Before or at the time of collecting personal information, we will  identify the purposes for which information is being collected.</li><li> We will collect and use of personal information solely with the  objective of fulfilling those purposes specified by us and for other  compatible purposes, unless we obtain the consent of the individual  concerned or as required by law.</li><li> We will only retain personal information as long as necessary for the fulfillment of those purposes.</li><li> We will collect personal information by lawful and fair means and,  where appropriate, with the knowledge or consent of the individual  concerned.</li><li> Personal data should be relevant to the purposes for which it is to be  used, and, to the extent necessary for those purposes, should be  accurate, complete, and up-to-date.</li><li> We will protect personal information by reasonable security safeguards  against loss or theft, as well as unauthorized access, disclosure,  copying, use or modification.</li><li> We will make readily available to customers information about our  policies and practices relating to the management of personal  information.</li></ul><p>We are committed to conducting our business in accordance with these  principles in order to ensure that the confidentiality of personal  information is protected and maintained.</p><div class="clear"></div></div></div><div id="sidebar"><div class="widget widget_text"><center>  <script type="text/javascript">GA_googleFillSlot("autoitscript_home_right_skyscraper_160x600");</script></center></div><div id="recent-posts-2" class="widget widget_recent_entries"><h3 class="widgettitle">Recent Posts</h3><ul><li><a href="http://www.autoitscript.com/site/autoit-news/autoit-v3-3-8-0-released/" title="AutoIt v3.3.8.0 Released">AutoIt v3.3.8.0 Released</a></li><li><a href="http://www.autoitscript.com/site/deployment/autoit-consulting-deployment-blog-posts/" title="AutoIt Consulting Deployment Blog Posts">AutoIt Consulting Deployment Blog Posts</a></li><li><a href="http://www.autoitscript.com/site/autoit-tools-news/autoit-tools-logoff-screensaver-added/" title="AutoIt Tools: Logoff Screensaver Added">AutoIt Tools: Logoff Screensaver Added</a></li><li><a href="http://www.autoitscript.com/site/autoit-script-editor-news/autoit-script-editor-updates-19th-november-2010/" title="AutoIt Script Editor Updates – 19th November, 2010">AutoIt Script Editor Updates – 19th November, 2010</a></li><li><a href="http://www.autoitscript.com/site/autoit-news/autoit-updates-19th-november-2010/" title="AutoIt Updates – 19th November, 2010">AutoIt Updates – 19th November, 2010</a></li></ul></div><div id="advanced_text-3" class="widget advanced_text"><div class="AdvancedText"><center><a href="http://www.autoitscript.com/site/donate/"><img src="/images/donate.png" alt="Donate towards my web hosting bill!" style="border: 0px;width: 106px: height: 51px;"></a></center></div></div><div id="categories-3" class="widget widget_categories"><h3 class="widgettitle">Categories</h3><select name="cat" id="cat" class="postform"><option value="-1">Select Category</option><option class="level-0" value="11">AutoIt News&nbsp;&nbsp;(2)</option><option class="level-0" value="17">AutoIt Script Editor News&nbsp;&nbsp;(1)</option><option class="level-0" value="21">AutoIt Tools News&nbsp;&nbsp;(1)</option><option class="level-0" value="27">Deployment&nbsp;&nbsp;(1)</option> </select> <script type="text/javascript">/*  */
+	var dropdown = document.getElementById("cat");
+	function onCatChange() {
+		if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
+			location.href = "http://www.autoitscript.com/site/?cat="+dropdown.options[dropdown.selectedIndex].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+/*  */</script> </div><div id="linkcat-2" class="widget widget_links"><h3 class="widgettitle">Blogroll</h3><ul class="xoxo blogroll"><li><a href="http://www.autoitconsulting.com" rel="me" title="Windows Deployment and Scripting Specialists" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.autoitconsulting.com']);">AutoIt Consulting Ltd</a></li><li><a href="http://blogs.technet.com/b/deploymentguys/" rel="acquaintance met co-worker" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://blogs.technet.com/b/deploymentguys/']);">Deployment Guys</a></li></ul></div><div id="nktagcloud-3" class="widget widget_nktagcloud"><h3 class="widgettitle">Tags</h3><a href="http://www.autoitscript.com/site/tag/autoit/" class="tag-link-12 nktagcloud-22" title="2 topics" rel="tag" style="font-size: 22pt;">AutoIt</a> <a href="http://www.autoitscript.com/site/tag/autoit-tools/" class="tag-link-22 nktagcloud-8" title="1 topic" rel="tag" style="font-size: 8pt;">AutoIt Tools</a> <a href="http://www.autoitscript.com/site/tag/digital-signature/" class="tag-link-15 nktagcloud-8" title="1 topic" rel="tag" style="font-size: 8pt;">Digital Signature</a> <a href="http://www.autoitscript.com/site/tag/group-policy/" class="tag-link-24 nktagcloud-8" title="1 topic" rel="tag" style="font-size: 8pt;">Group Policy</a> <a href="http://www.autoitscript.com/site/tag/logoff/" class="tag-link-25 nktagcloud-8" title="1 topic" rel="tag" style="font-size: 8pt;">Logoff</a> <a href="http://www.autoitscript.com/site/tag/screensaver/" class="tag-link-23 nktagcloud-8" title="1 topic" rel="tag" style="font-size: 8pt;">Screensaver</a> <a href="http://www.autoitscript.com/site/tag/shutdown/" class="tag-link-26 nktagcloud-8" title="1 topic" rel="tag" style="font-size: 8pt;">Shutdown</a> <a href="http://www.autoitscript.com/site/tag/unicode/" class="tag-link-13 nktagcloud-8" title="1 topic" rel="tag" style="font-size: 8pt;">Unicode</a> <a href="http://www.autoitscript.com/site/tag/x64/" class="tag-link-14 nktagcloud-8" title="1 topic" rel="tag" style="font-size: 8pt;">x64</a></div><div class="widget widget_text"><center>  <script type="text/javascript">GA_googleFillSlot("autoitscript_home_right_skyscraper2_160x600");</script></center></div></div></div></div><div id="footer"><p></p><p></p><center> <script type="text/javascript">GA_googleFillSlot("autoitscript_home_footer_leader_728x90");</script></center><div class="container clearfix"></div></div><div id="copyright"><div class="container clearfix"> <a href="/site/terms-of-service/">Terms</a> - <a href="/site/privacy-policy/">Privacy</a><p id="copyinfo">©1999-2011 Jonathan Bennett &amp; <a href="http://www.autoitconsulting.com">AutoIt Consulting Ltd</a></p></div></div>  <script type="text/javascript" src="http://www.autoitscript.com/site/wp-content/themes/TheCorporation/js/jquery.cycle.all.min.js"></script> <script type="text/javascript" src="http://www.autoitscript.com/site/wp-content/themes/TheCorporation/js/jquery.easing.1.3.js"></script> <script type="text/javascript" src="http://www.autoitscript.com/site/wp-content/themes/TheCorporation/js/superfish.js"></script> <script type="text/javascript">/*<![CDATA[*///
+		jQuery.noConflict();
+		jQuery('.thumb_popup').css('bottom','106px')
+		jQuery('ul.superfish').superfish({
+			delay:       200,                            // one second delay on mouseout
+			animation:   {'marginLeft':'0px',opacity:'show',height:'show'},  // fade-in and slide-down animation
+			speed:       'fast',                          // faster animation speed
+			autoArrows:  true,                           // disable generation of arrow mark-up
+			onBeforeShow: function(){ this.css('marginLeft','20px'); },
+			dropShadows: false                            // disable drop shadows
+		});
+		jQuery('ul.nav > li > a.sf-with-ul').parent('li').addClass('sf-ul');
+		jQuery("ul.nav > li > ul").prev("a").attr("href","#");
+		/* search form */
+		var $searchform = jQuery('#header div#search-form');
+		var $searchinput = $searchform.find("input#searchinput");
+		var $searchvalue = $searchinput.val();
+		$searchform.css("right","25px");
+		jQuery("#header a#search-icon").click(function(){
+			if ($searchform.filter(':hidden').length == 1)
+				$searchform.animate({"right": "-1", "opacity": "toggle"}, "slow")
+			else
+				$searchform.animate({"right": "25", "opacity": "toggle"}, "slow");
+			return false;
+		});
+		$searchinput.focus(function(){
+			if (jQuery(this).val() == $searchvalue) jQuery(this).val("");
+		}).blur(function(){
+			if (jQuery(this).val() == "") jQuery(this).val($searchvalue);
+		});
+		/* footer widgets improvements */
+		var $footer_widget = jQuery("#footer .widget");
+		if (!($footer_widget.length == 0)) {
+			$footer_widget.each(function (index, domEle) {
+				// domEle == this
+				if ((index+1)%3 == 0) jQuery(domEle).addClass("last").after("<div class='clear'></div>");
+			});
+		};
+	///*]]>*/</script>		<!-- Advertising Manager v3.4.19 (0.431 seconds.) -->
+<script type="text/javascript" src="http://www.autoitscript.com/site/wp-content/themes/TheCorporation/epanel/page_templates/js/fancybox/jquery.easing-1.3.pack.js?ver=1.3.4"></script>
+<script type="text/javascript" src="http://www.autoitscript.com/site/wp-content/themes/TheCorporation/epanel/page_templates/js/fancybox/jquery.fancybox-1.3.4.pack.js?ver=1.3.4"></script>
+<script type="text/javascript" src="http://www.autoitscript.com/site/wp-content/themes/TheCorporation/epanel/page_templates/js/et-ptemplates-frontend.js?ver=1.1"></script>
+	
 
-<body>
-<div id="container">
-<a name="top"></a>
 
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
-<table width="960" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr> 
-		<td height="102" class="logo"> <img src="/images/autoit_6_240x100.jpg" alt="Logo" width="240" height="100" border="0"> 
-		</td>
-		<td width="4">
-		</td>
-	</tr>
-</tbody></table>
+Page Caching using apc
+Database Caching 23/31 queries in 0.017 seconds using apc
 
-
-<table width="960" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr> 
-		<td class="header">
-			<img src="/header_nav.png" width="956" height="32" border="0" usemap="#HeaderNavMap" alt="Navigation">
-		</td>
-		<td width="4">
-		</td>
-	</tr>
-</tbody></table>
-
-<map name="HeaderNavMap">
-	<area shape="rect" coords="414, 12, 497, 32" href="http://www.autoitscript.com" alt="Home">
-	<area shape="rect" coords="496, 12, 573, 32" href="http://www.autoitscript.com/autoit3/" alt="AutoIt v3">
-	<area shape="rect" coords="576, 12, 651, 32" href="http://www.autoitscript.com/forum/" alt="Forum">
-	<area shape="rect" coords="652, 12, 724, 32" href="http://www.autoitscript.com/wiki" alt="Wiki">
-	<area shape="rect" coords="725, 12, 802, 32" href="http://www.cafepress.com/autoit" alt="Gift Shop">
-	<area shape="rect" coords="803, 12, 878, 32" href="http://www.autoitscript.com/email_us.shtml" alt="Contact">
-</map>
-
-
-<table width="960" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td class="NLHS" width="170" height="126" valign="top">
-	<div class="NLHSTitle">AutoIt</div>
-<div class="NLHSL1"><a href="http://www.autoitscript.com/autoit3/">AutoIt v3</a></div>
-<div class="NLHSL1"><a href="http://www.autoitscript.com/autoit3/autoit_v2.shtml">AutoIt v2 (legacy)</a></div>
-
-<br>
-<div class="NLHSTitle">GImageX</div>
-<div class="NLHSL1"><a href="http://www.autoitscript.com/gimagex/">GImageX</a></div>
-
-<br>
-<div class="NLHSTitle">Automation Tools</div>
-<div class="NLHSL1"><a href="http://www.autoitscript.com/tools/">AutoIt Tools</a></div>
-
-<br>
-<div class="NLHSTitle">Misc.</div>
-<div class="NLHSL1"><a href="http://www.autoitscript.com/code/">C++ Source Code</a></div>
-
-<br><br>
-
-<div align="center">
-
-<a href="http://www.autoitscript.com/autoit3/downloads.shtml"><img src="images/download_autoit.png" alt="Download AutoIt" width="106" height="51" border="0"></a>
-<br><br>
-<a href="http://www.autoitscript.com/donate.shtml"><img border="0" alt="Donate towards my web hosting bill!" src="images/donate.png" width="106" height="51"></a>
-<br><br><br><br><br><br>
-</div>
-
-<br><br>
-	<br>
-
-    </td>
-
-    <td valign="top">
-      <table width="100%" border="0" cellpadding="2" cellspacing="2">
-        <tbody><tr>
-
-          <td height="139" valign="top">
-            <h1>Privacy Policy</h1>
-
-<p>
-	Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
-</p>
-
-<ul>
-	<li>
-		Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
-	</li>
-	<li>
-		We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.		
-	</li>
-	<li>
-		We will only retain personal information as long as necessary for the fulfillment of those purposes. 
-	</li>
-	<li>
-		We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
-	</li>
-	<li>
-		Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
-	</li>
-	<li>
-		We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
-	</li>
-	<li>
-		We will make readily available to customers information about our policies and practices relating to the management of personal information. 
-	</li>
-</ul>
-
-<p>
-	We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
-</p>		
-
-			
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-
-<table width="960" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td class="footer">&nbsp;</td>
-  </tr>
-  <tr>
-    <td>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td>
-            <div class="legal">©1999-2010 Jonathan Bennett</div>
-          </td>
-          <td>
-		    <div align="right">
-            <div class="legal"><a href="/terms_of_service.shtml">Terms</a> -
-				<a href="/privacy_policy.shtml">Privacy</a></div>
-            </div>
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-
-
-<br>
-<br>
-<br>
-<br>
-
-</div>
-
-
-</body></html>
+Served from: www.autoitscript.com @ 2011-12-27 08:28:39 --></body></html>
