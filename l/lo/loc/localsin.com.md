@@ -1,100 +1,108 @@
-> *The following text is extracted and transformed from the localsin.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localsin.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227073914id_/http%3A//www.localsin.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Legal Agreement
+# LocalSin is the new way for dating. Find hookups tonight online and on your phone! It’s Free!
 
-**Go Daddy Respects Your Privacy**
+| 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Effective Date: 12.15.2009  
+Last Updated:  10.24.2009  
+ 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+_**I. General**  
+_
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+  
+    A. The operative parties referred to in this policy are COMPANY and You, the User of this SITE.
 
-**Information Collection and Use**
+        1\. PinpointsX, Ltd., is the Publisher and operator of the Web Site [www.LocalSin.com](http://www.localsin.com/). Hereinafter, PinpointsX, Ltd., will be referred to as the “COMPANY”. When first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to PinpointsX, Ltd., d/b/a [www.LocalSin.com](http://www.localsin.com/). Additionally, when the terms including, but not limited to, “the SITE” or “this SITE” or “our SITE” or “SITE” are used, these terms refer to [www.LocalSin.com](http://www.localsin.com/). 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+        2\. **You, the User** – As the User of this SITE, this policy will refer to the User as “You” or through any second-person pronouns, such as “Yours,” etc. Hereinafter, the User of the SITE shall be referred to in applicable second-person pronouns.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+    B. This Privacy Policy describes how We use information received about You when you visit Our SITE or when You subscribe to, or otherwise use Our online services. This Policy does not cover any information that We may receive from or about You through channels other than through the use of the SITE.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+ _ **II. Revisions to This Policy**  
+_  
+We reserve the absolute discretion to revise, amend, or modify this policy and Our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the “Refresh” button on Your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the “Last Modified” date remains unchanged after You have clicked the “Refresh” button on Your browser, You may presume that no changes have been made since the last reading of the Policy. A changed “Last Modified” dates indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting. _ **III. Personal Information That We Collect**_
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Visitors to Our SITE and services will have multiple manners of interactivity with Us. Depending upon your level of interaction, we will collect different information about you. Users enrolling in one of the first three, described categories, below, are deemed “Registered Members.” The type of information collected is as follows:
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+    A. **Private Members** \- Members are those individual Users who subscribe to Our services will be prompted to provide their full name, their full address, their age, their gender, their email address, and any necessary billing information. Further, these Users will be prompted to voluntarily provide a number of discretionary demographical details including, but not limited to, hair color, weight, religion, drinking habits/preferences, marital status and sexual orientation. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+    B. **Professional Members** – Professional Members are Users who professionally serve as escorts or companions who cater, on a commercial basis, to the individual needs of clients, consistent with all national, state and local laws. Professional Users who subscribe to Our services will be prompted to provide all required information as established for private members. Further, Professional Members will have the opportunity to provide, at their discretion, additional information including, but not limited to, their area of specialization (i.e., massage, dancing, etc.), rates, services, and their targeted audience, as well as other discretionary demographic details as described above for Private Members.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+    C. **Business Members** – Business Members are Users who maintain an active business presence and avail themselves of the opportunity to be listed as a “Romantic Resource” on the SITE’s “Romance Map,” thus allowing their businesses to be pinpointed by all other Users. Business members who subscribe to Our services will be prompted to provide their business type, business name, contact and locational information, email address(es), and any necessary billing information. Further, these Users will have the ability to provide additional discretionary details including, but not limited to, targeted population, including age, gender, and sexual preference of clientele.
 
-**Security**
+    D. **Trial Members** – Trial Members are Users who have opted to avail themselves of a one-month, free “Trial Period.” During that period, the Trial Member will possess the privileges of any Registered Member classification – Private, Professional or Business. At the expiration of the trial period, the Trial Member will have the option of continuing as a paying, subscription Member.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+At the expiration of any membership period, whether at Trial Membership, or a Registered Membership reaching the end of a subscription, pending enrollment or renewal of Membership, the User will be unable to utilize any SITE areas, or avail themselves of any SITE benefits including, but not limited to, interaction with other Members. 
 
-**Updating Your Information**
+Additionally, Members – regardless of status – will have the opportunity to register as “Preferred Customers,” entitling those Members to additional benefits and access, as described within the SITE’s User Agreement.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+ _ **IV. How We Collect Information From You**_
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+    A. **Passive Collection** – We use cookies to collect information about You in order to enhance Your experience on the SITE. The information collected in Our cookies includes, but is not limited to, Your User IP address, browser information, Your geographic location (for purposes of using the SITE’s specialized GPS technology), Your ranking by other Users and other session data. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+    B. **Active Collection** – We collect information from You when You complete registration forms to sign up for User access on Our SITE. Locations for such collection are registration pages, such as [http://www.localsin.com/SelectType.aspx](https://web.archive.org/registerp.aspx) but We reserve the right to add additional information collection portals. 
 
-      iii.      You may call us at: (480) 505-8800
+_**V. How We Use Your Information**_
 
-       iv.      You may fax us at: (480) 505-8844
+The primary use for Your information is to provide You with services You have requested and/or paid for. We also use Your information to deliver customized services to You; for Member support purposes; and for efforts to monitor and ensure against fraud. Non-personal and aggregate information, such as that collected passively, is used in order to customize Our marketing efforts or to customize the use of Our SITE for an aggregate group of customers. We will not use the personal information of Users whose membership have expired or have been cancelled in order to market Our services to such individuals in the future. Rather, all such personal information will be retained indefinitely in the SITE’s protected database.
 
-**Sending Emails**
+Please note, Members’ personal information collected – with the exception of billing information collected by the SITE’s third-party billing processor(s) – will not be shared with third-parties, and is only intended for use by the COMPANY. We generally will use Your information for the purposes for which You specifically provide it including, but not necessarily limited to, the following:
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+  * Ensuring payment for subscription services;
+  * Statistical purposes designed to ensure Users with the highest quality of products and services.  
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+  * To initiate intermittent contact with Users regarding new features; other Users that are also present; and upcoming chat room events.  
 
-**Compliance with Laws and Law Enforcement**
+  * To initiate contact with Users upon registration for a particular type of Member account; upgrading of use to a premium account; and password recovery.  
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**Third Party Service Providers**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Notwithstanding, the SITE reserves the right to transmit the generalized behavioral information of SITE Users in order to provide SITE advertisers with the ability to target their advertising campaigns. No actual personal User information will be conveyed to third-parties as a result of this particular marketing practice. _ **VI. Special Cases**_
 
-**Supplementation of Information**
+It is Our policy not to use or share the personal information about Members in ways unrelated to those described in this Policy without also providing You with an opportunity to opt out or otherwise prohibit such unrelated uses. However, We may disclose personal information about Members, or information regarding Your use of the Services or Web sites accessible through our Services, for any reason if, in Our sole discretion, We believe that it is reasonable to do so, including: 
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+    1\. To satisfy any laws, such as the United States’ Electronic Communications Privacy Act, Secured Communications Act, regulations, or governmental, or legal requests for such information; 
 
-**Contests/Surveys**
+    2\. To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating Our Acceptable Use Policy or other User policies; 
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+    3\. To operate Our Services properly; 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+    4\. To protect Ourselves, Our Members, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if We are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process. 
 
-**Tell-A-Friend**
+    5\. We will always cooperate with law enforcement authorities, private-party litigants, and others seeking information about Our end users to the extent required by applicable law. Examples of such cooperation include lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process. 
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+_**VII. Transmittals From Us**_
 
-**What Happens to my Personal Information if I Opt Out?**
+As indicated in Section V, above, We may send You periodic announcements including, but not limited to, the details of Our existing and new programs. You may opt out of these announcements by either clicking an “Unsubscribe” link contained within an email, or by logging into the User’s account settings and selecting the option to revise email contact settings. If You opt out of these marketing emails, You may still receive system notices and other information that is specifically related to Your account. These system notices include, but are not limited to, notifications of the expiration of subscription services/packages. Indeed, the one true exception to the COMPANY’s ‘opt out’ policy, herein, is that Users will be unable to opt out of receive updating cellular applications consistent with the SITE’s GPS technology (referred to as “SW Updates”)
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+If You provide Your information to Us, use the SITE, and/or subscribe to any of Our services, You will have created a commercial relationship with Us. Even though the SITE does not intend to provide Members with e-mail advertising materials – aside from those materials cited above – Your use of the SITE and its services constitutes Your understanding and consent that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law. 
 
-**Transfer of Data Abroad**
+_**VIII. Public Forums, Member Directories, and Internal Messaging**_
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+    A. **Public Forums** – The SITE may provide for one or more a public fora, in the form of a chat room(s) or public comment areas. Any information posted to a Forum should immediately be considered to be public information. Public forums are accessed via e-mail address, user name, and password. 
 
-**Changes in Our Practices**
+    B. **Member Directories** – Any information provided in a User profile, Member directory, or other related service should be considered to be public information. We do not, cannot, and will not act to maintain the privacy of any information that You provide in any such forum or medium.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+    C. **Internal Messaging** – We provide an internal messaging system for use between members of Our SITE. Any information that You send via this internal messaging system is not secure, and is not considered to be private information. You should use caution when sending any personal information over the internal messaging system, and You should not transmit any information that You would not wish to see disclosed to the general public. 
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+    D. **Telephone Calls:** Telephone numbers may, due to technological issues, be transmitted and visible by recipients during telephone calls, although our system makes reasonable attempts to maintain privacy of callers’ telephone device numbers. 
 
-**Contacting Our Site**
+_**IX. Our Commitment to Data Security**_
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+We take measures, including use of encrypted Secure Socket Layers (SSLs), to protect the transmission of all sensitive end-user information, as well as through the account upgrading process. We make every effort to ensure the integrity and security of Our network and systems. Nevertheless, We cannot guarantee that our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals We are unable to guarantee that Our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite Our reasonable security measures.
 
-* * *
+Further, We do not provide User information to third-parties (aside from the SITE’s third-party billing processor, and generalize, non-personal, statistical information, as noted above); nor will We sell, rent or provide any of Your personal information to other entities such as SITE advertisers, or other companies selling services similar to this COMPANY’s services.
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+ _ **X. How to Access or Modify Your Information**_
+
+We offer Our Members the opportunity to access or modify information provided during registration. To access or modify such information, Members possess the ability of accessing and modifying their profiles via their “personal home page” at MyLocalSin. If any problems arise during efforts by Members to access or modify information, the Member may contact Our Customer Service Department at [www.localsin.com](https://web.archive.org/web/20111227073914id_/http%3A//www.localsin.com/support.aspx).
+
+ _ **XI. Where to Direct Questions About Our Privacy Policy**_
+
+If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [www.localsin.com](http://www.localsin.com/support.aspx)
+
+|   
+---|---|---
