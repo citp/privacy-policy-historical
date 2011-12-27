@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igcar.gov.in privacy policy that was archived on 2010-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100903192951id_/http%3A//www.igcar.gov.in/igc2004/private.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igcar.gov.in privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227170324id_/http%3A//www.igcar.gov.in/igc2004/private.htm) for the most accurate reproduction.*
 
 # Private Policy
 
