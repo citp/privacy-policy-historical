@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolomarketing.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522042850id_/http%3A//www.wolomarketing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolomarketing.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227075956id_/http%3A//www.wolomarketing.com/privacy.html) for the most accurate reproduction.*
 
 # Wolo Marketing Privacy Policy
 
@@ -19,6 +19,8 @@ Your postal address
 IP information 
 
 Generally, this information is requested when you are either downloading free products, when you purchase any of our products (eBooks, software etc.), or when you subscribe to our newsletters. We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by e-mailing us at: support@wolomarketing.com. If you find any inaccuracies we will delete or correct it promptly.
+
+By signing up for wolomarketing.com products/offers you agree to have mail sent to you from Nick, Peter, Yvonne or wolomarketing.com. See "How we use your personal information" for further information.
 
 **How We Control Your Personal Information**
 
