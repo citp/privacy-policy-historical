@@ -1,171 +1,319 @@
-<!--The following is the downloaded HTML source of the faithclipart.com privacy policy that was archived on 2010-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101230075351id_/http%3A//www.faithclipart.com/fca/privacyPolicy/view.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the faithclipart.com privacy policy that was archived on 2011-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227043850id_/http%3A//www.faithclipart.com/fca/privacyPolicy/view.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+    
 
-
-
-<link rel="Shortcut Icon" href="/favicon.ico">
-
-<link rel="stylesheet" type="text/css" href="/css/styles.css" media="screen, projection">
+    <link href="/favicon.ico" rel="Shortcut Icon">
+    <link href="/css/styles.css" type="text/css" rel="stylesheet" media="screen, projection">
+    <link href="/css/jquery-ui-1.8.9.custom.css" type="text/css" rel="stylesheet">
 <!--[if IE 6]><link rel="stylesheet" href="/css/ie6.css" type="text/css" media="screen, projection"><![endif]-->
 <!--[if IE 7]><link rel="stylesheet" href="/css/ie7.css" type="text/css" media="screen, projection"><![endif]-->
 
-<script type="text/javascript">
-<!--//
-siteUrlContext = "fca";
-//-->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js" type="text/javascript">
+  </script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js" type="text/javascript">
+  </script>
+
+  <script src="/js/global-js.js" type="text/javascript">
+  </script>
+
+
+  <script type="text/javascript">
+    //<![CDATA[
+      var LANDA = LANDA || {};
+
+      LANDA.Constant = LANDA.Constant || {};
+      LANDA.Constant.siteUrlContext = "fca";
+
+      // CxTBD Find and replace this global function
+      function printPlural(value, plural, singular) {
+        if(value == 1) {
+          document.write(value + " " + singular);
+        }
+        else {
+          document.write(value + " " + plural);
+        }
+      }
+
+      // CxTBD Find where global constant is being used and use LANDA constant
+      siteUrlContext = LANDA.Constant.siteUrlContext;
+    //]]>
 </script>
 
-<script type="text/javascript" src="/js/jquery/jquery-1.3.2.min.js"></script>
-<script type="text/javascript" src="/js/jquery/jquery-ui-1.7.1.custom.min.js"></script>
-
-<script type="text/javascript" src="/js/global-js.js"></script>
-<script type="text/javascript" src="/js/mouseover.js"></script></head><body><div style="position:relative;z-index:100;" id="trailimageid"></div>
-
-<link rel="stylesheet" type="text/css" href="/css/jquery-ui-1.7.1.custom.css">
-
 <script type="text/javascript">
-<!--
-
-  function printPlural(value, plural, singular) {
-    if(value == 1) {
-      document.write(value + " " + singular);
-    }
-    else {
-      document.write(value + " " + plural);
-    }
-  }
-
-  $(window).load(function() {
-    // sizeImageBoxes();
-    //addDropShadow("img.type_13"); // ppt
-    addDropShadow("img.type_14"); // docx
-    //addDropShadow("img.type_3");  // doc
-
-  });
-
-// -->
+window.google_analytics_uacct = "UA-462165-2";
 </script>
 
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <!--- end header.jsp -->
 
 
 <title>Privacy Policy</title>
 
-
-
+  <script src="/js/mouseover.js" type="text/javascript">
+  </script></head><body><div style="position:relative;z-index:100;" id="trailimageid"></div>
 
 <div id="wrapper"><!-- stick to bottom -->
 
 <!-- begin top-fixed.jsp -->
 
 <div id="header">
-        <div class="container">
+  <div class="container">
+    <div id="topnav">
+      
+        <a href="https://www.faithclipart.com/fca/affiliate.do?id=58&amp;coupon=christmas" class="visitorOptionJoin">join now</a>
 
-                <div id="topnav">
 
-                        
-		   <a href="https://www.faithclipart.com/fca/register.do" rel="nofollow">join now</a>
-		      <a id="memberLoginLink" href="http://www.faithclipart.com/fca/login.do" rel="nofollow">login</a>
-		   <a href="/fca/learnmore.do">learn more</a>
-		    <a href="http://www.faithclipart.com/fca/faq/view.do" rel="nofollow">help/faq</a>
+<!--<a href="https://www.faithclipart.com/fca/affiliate.do?id=17&coupon=INSTANT-SAVINGS-TOPNAV" class="visitorOptionJoin">join now</a>-->
+        <a href="http://www.faithclipart.com/fca/login.do" class="visitorOptionLogin" rel="nofollow">
+          login
+        </a>
+        <a href="/fca/learnmore.do">learn more</a>
+        <a href="/fca/contact.do">contact us</a>
+          <a href="http://www.faithclipart.com/fca/faq/view.do" rel="nofollow">help/faq</a>
+      
 
-		    
+      
 
-		    
-
-                </div><!--/topnav-->
-
+    </div><!--/topnav-->
+              <input id="hd_searchFieldPrompt" type="hidden" value="Enter Keywords (e.g. Cross, etc.) ">
+		    <form id="searchForm" method="post" action="/fca/validateSearch.do">
                 <div id="topsearch">
-		    <form method="post" action="/fca/validateSearch.do">
-			  <input type="text" class="search_text_field" name="query" onfocus="doclear(this);" value="Enter Keywords (e.g. Cross, etc.) ">
+			  <input type="text" id="searchTextBox" class="search_text_field" name="query" autocomplete="off" title="Enter Keywords (e.g. Cross, etc.) " value="">
    			  <button type="submit" name="submit" value="search" class="searchbtn" title="Search"></button>
+                        <script type="text/javascript" src="/js/coolSearch.js"></script><style type="text/css">#topsearch {width:400px; background: url("/images/bg_search_box_400.gif") no-repeat scroll 0 0 transparent; border-radius: 5px; }#topsearch .search_text_field {width:192px;} .filterWrapper{margin-top:4px; float:right;position:relative;}.filterWrapper option{color:#666666;}.searchFilterStyle option{ border: 1px solid white;}.searchFilterStyle {padding: 2px 7px; font-size:14px; border-left: 1px dotted #666666; border-right: 1px dotted #666666; color: #7C7C7C; background-color:transparent; }.searchFilterStyle.changed { background-color:transparent; }.searchFilterStyleInner {background: url("/images/select_arrow1.gif") no-repeat scroll right center transparent;}.searchFilterDDL{right:0px;}</style><div class="filterWrapper hide"><select id="mainFilterDDL" name="filterType" class="searchFilterDDL"><option value="-1">Any</option><option value="13">Powerpoints</option><option value="17">Worship Video Loop</option><option value="18">Welcome Video Loop</option><option value="19">Countdown Videos</option><option value="16">Sermon Videos</option><option value="22">Flyers</option><option value="20">Newsletters</option><option value="21">Bulletins</option><option value="8">Backgrounds</option><option value="1">Clipart</option><option value="23">Website Banners</option></select></div><style type="text/css">.dynamicSearchPop{clear:right; z-index:9999; float:right;  border: 1px solid #ccc;  background-color: white; border-top:none;  max-height:300px;  width:398px; margin-top:3px;  border-radius: 0 0 8px 8px; box-shadow: 0px 2px 8px 1px #CCC; position:relative;}.dynamicSearchPop ul {padding:0px; margin: 0px;  text-align:left;}.dynamicSearchPop ul li {list-style: none outside none; margin: 0;padding: 0; word-wrap: break-word; -ms-word-wrap:break-word;}.dynamicSearchPop ul li a{color:inherit; text-decoration:none;border-bottom: 1px dotted #CCCCCC;cursor: pointer;display: block;font-size: inherit;line-height: 14px;margin: 0;padding: 6px !important;}.dynamicSearchPop ul li.selectedAjax, .dynamicSearchPop ul li:hover{background: none repeat scroll 0 0 #F0F0F0;}.dynamicSearchPop ul li.selectedAjax a, .dynamicSearchPop ul li:hover a {font-weight:bold!important; }span.ajaxS_Highlighted{color: #2E64D2; font-weight:bold; }</style><div class="dynamicSearchPop hide "><input id="hd_ajaxoptions" type="hidden" value="6"><ul id="searchULBox"></ul></div>
+                    </div>
 		    </form>
-                </div><!--/topsearch-->
+      <!--/topsearch-->
 
- <h1><a href="http://www.faithclipart.com" alt="FaithClipart.com">FaithClipart.com</a></h1>
+      <h1>
+        <a href="http://www.faithclipart.com" alt="FaithClipart.com">FaithClipart.com</a>
+      </h1>
 
-            <ul id="nav">
+      <ul id="nav">
   
-    
-    <li id="Learn More">
-      <a id="Learn More-url" href="http://www.faithclipart.com/fca/gallery.do">Learn More</a>
-    </li>
-    
   
+   
+<div id="wrapper_menu">
+
+<ul class="menu">
+
+<li class="nodrop"><a href="http://www.exaltnow.com" class="drop green">Worship Software</a></li>
+
+<li><a href="http://www.faithclipart.com/category/church-websites.html" class="blue">FREE Church Websites</a>
+
+            <div class="dropdown_1column">
+            
+                <div class="col_1 firstcolumn">
+                
+                    <ul>
+                    
+<li><a href="http://www.faithclipart.com/category/church-websites.html" class="blue">Church Websites</a></li>
+<li><a href="http://www.faithclipart.com/category/website-banners.html">Website Banners</a></li>
+<li><a href="http://www.faithclipart.com/category/website-sidebar.html">Website Sidebar Widgets</a></li>
+<li><a href="http://www.faithclipart.com/category/church-website-tutorials.html">Church Website Tutorials</a></li>
+<li><a href="http://www.faithclipart.com/category/church-website-features.html">Church Website Features</a></li> 
+<li><a href="http://www.faithclipart.com/category/church-website-testimonials.html">Church Website Testimonials</a></li>
+                    </ul>   
+                     
+                </div>
+                
+            </div>
+            
+</li>
     
-    <li id="Video">
-      <a id="Video-url" href="http://www.faithclipart.com/category/christian-video.html">Video</a>
-    </li>
     
-  
-    
-    <li id="Church PowerPoints">
-      <a id="Church PowerPoints-url" href="http://www.faithclipart.com/category/church-powerpoint-templates.html">PowerPoints</a>
-    </li>
-    
-  
-    
-    <li id="Bulletin Covers">
-      <a id="Bulletin Covers-url" href="http://www.faithclipart.com/category/church-bulletin-covers.html">Bulletins</a>
-    </li>
-    
-  
-    
-    <li id="Backgrounds">
-      <a id="Backgrounds-url" href="http://www.faithclipart.com/category/christian-backgrounds.html">Backgrounds</a>
-    </li>
-    
-  
-    
-    <li id="Flyers">
-      <a id="Flyers-url" href="http://www.faithclipart.com/category/flyer-templates.html">Flyers</a>
-    </li>
-    
-  
-    
-    <li id="Newsletters">
-      <a id="Newsletters-url" href="http://www.faithclipart.com/category/newsletter-templates.html">Newsletters</a>
-    </li>
-    
-  
-    
-    <li id="Images">
-      <a id="Images-url" href="http://www.faithclipart.com/fca/browse.do">Images</a>
-    </li>
-    
-  
-    
-    <li id="Blog">
-      <a id="Blog-url" href="http://www.sharefaithblog.com" target="_blank">Blog</a>
-    </li>
-    
-  
-    
-    <li id="Church Email">
-      <a id="Church Email-url" href="http://www.faithclipart.com/category/church-email.html">Church Email</a>
-    </li>
-    
-  
-    
-    <li id="Guide">
-      <a id="Guide-url" href="http://www.faithclipart.com/fca/guide.do">Guide</a>
-    </li>
-    
-  
-    
-    <li id="MyHome">
-      <a id="MyHome-url" href="http://www.faithclipart.com/fca/member.do">MyHome</a>
-    </li>
-    
-  
+<li><a href="http://www.faithclipart.com/category/christian-video.html" class="drop">Video</a>
+        
+            <div class="dropdown_1column">
+            
+                <div class="col_1 firstcolumn">
+                
+                    <ul>
+                    
+<li><a href="http://www.faithclipart.com/category/christian-video.html" class="blue">Christian Video</a></li>
+<li><a href="http://www.faithclipart.com/category/christmas-video.html">Christmas Video</a></li>
+<li><a href="http://www.faithclipart.com/category/worship-video.html">Worship Video</a></li>
+<li><a href="http://www.faithclipart.com/category/welcome-video-loops.html">Welcome Video Loops</a></li>
+<li><a href="http://www.faithclipart.com/category/sermon-video.html">Sermon Videos</a></li>
+<li><a href="http://www.faithclipart.com/category/church-countdown-timers.html">Church Countdown Timers</a></li>
+<li><a href="http://www.faithclipart.com/category/easter-video.html">Easter Video</a></li>
+<li><a href="http://www.faithclipart.com/category/motion-loops.html">Motion Loops</a></li>
+<li><a href="http://www.faithclipart.com/category/fall-video.html">Fall Video</a></li>
+                        
+                    </ul>   
+                     
+                </div>
+            
+            </div>
+            
+</li>
+
+
+<li><a href="http://www.faithclipart.com/category/church-powerpoint-templates.html" class="drop">PowerPoints</a>
+
+            <div class="dropdown_2columns">
+            
+                    <div class="col_1 firstcolumn">
+<ul>
+<li><a href="http://www.faithclipart.com/category/church-powerpoint-templates.html" class="blue">Church PowerPoint Templates</a></li>
+<li><a href="http://www.faithclipart.com/category/christmas-powerpoints.html">Christmas</a></li>
+<li><a href="http://www.faithclipart.com/category/powerpoint-sermons.html">Sermon Themes</a></li>
+<li><a href="http://www.faithclipart.com/category/spanish-powerpoint.html">Spanish Themes</a></li>
+<li><a href="http://www.faithclipart.com/category/women-of-the-bible-powerpoints.html">Women Of The Bible </a></li>
+<li><a href="http://www.faithclipart.com/category/sunday-school-powerpoints.html">Sunday School </a></li>
+<li><a href="http://www.faithclipart.com/category/new-testament-books.html">New Testament Books </a></li>
+<li><a href="http://www.faithclipart.com/category/heroes-of-the-bible-powerpoints.html">Heroes of The Bible </a></li>
+<li><a href="http://www.faithclipart.com/category/back-to-school-powerpoints.html">Back To School </a></li>
+<li><a href="http://www.faithclipart.com/category/church-new-year-presentations.html">Happy New Year</a></li>
+<li><a href="http://www.faithclipart.com/category/valentine%27s-day-powerpoints.html">Valentine's Day </a></li>
+<li><a href="http://www.faithclipart.com/category/lent-powerpoints.html">The Season of Lent</a></li>
+<li><a href="http://www.faithclipart.com/category/thanksgiving-art-powerpoints.html">Thanksgiving</a></li>
+<li><a href="http://www.faithclipart.com/category/fall-powerpoints.html">Fall Harvest</a></li>
+
+</ul>
+                    </div>
+
+                    <div class="col_1">
+<ul>
+
+<li><a href="http://www.faithclipart.com/category/easter-sunday-resurrection-powerpoints.html">Easter Sunday Resurrection</a></li>
+<li><a href="http://www.faithclipart.com/category/ascension-of-jesus-powerpoints.html">Ascension of Jesus</a></li>
+<li><a href="http://www.faithclipart.com/category/mother%27s-day-powerpoints.html">Mother's Day</a></li>
+<li><a href="http://www.faithclipart.com/category/father%27s-day-powerpoint.html">Father's Day</a></li>
+<li><a href="http://www.faithclipart.com/category/pentecost-powerpoints.html">Pentecost</a></li>
+<li><a href="http://www.faithclipart.com/category/martin-luther-king-jr.-day.html">Martin Luther King Jr.</a></li>
+<li><a href="http://www.faithclipart.com/category/seasonal-powerpoints.html">Seasonal</a></li>
+<li><a href="http://www.faithclipart.com/category/independence-day-powerpoints.html">Independence Day</a></li>
+<li><a href="http://www.faithclipart.com/category/memorial-day-powerpoints.html">Memorial Day</a></li>
+<li><a href="http://www.faithclipart.com/category/good-friday-jesus-crucifixion-powerpoints.html">Good Friday</a></li>
+<li><a href="http://www.faithclipart.com/category/palm-sunday-powerpoints.html">Palm Sunday</a></li>
+
+                        </ul>
+                    </div>
+                     
+            
+            </div>
+        
+</li>
+
+<li><a href="http://www.faithclipart.com/category/church-bulletin-covers.html" class="drop">Bulletins</a>
+
+            <div class="dropdown_2columns">
+                    
+                    <div class="col_1 firstcolumn">
+<ul>
+<li><a href="http://www.faithclipart.com/category/church-bulletin-covers.html" class="blue">Church Bulletins</a></li>
+<li><a href="http://www.faithclipart.com/category/sermon-bulletin-covers.html">Sermon Bulletin Covers</a></li>
+<li><a href="http://www.faithclipart.com/category/christmas-bulletins.html">Christmas Bulletin Covers</a></li>
+<li><a href="http://www.faithclipart.com/category/cross-bulletin-covers.html">Cross Bulletin Covers</a></li>
+<li><a href="http://www.faithclipart.com/category/nature-bulletin-covers.html">Nature Bulletin Covers</a></li>
+<li><a href="http://www.faithclipart.com/category/praise-%26-worship-bulletin-covers.html">Praise &amp; Worship Bulletin Covers</a></li>
+<li><a href="http://www.faithclipart.com/category/communion-prayer-bulletin-covers.html">Communion Bulletin Covers</a></li>
+<li><a href="http://www.faithclipart.com/category/love-bulletin-covers.html">Love Bulletin Covers</a></li>
+<li><a href="http://www.faithclipart.com/category/thanksgiving-bulletins.html">Thanksgiving Bulletin Covers</a></li>
+
+</ul>
+                    </div>
+
+                    <div class="col_1">
+<ul>
+
+<li><a href="http://www.faithclipart.com/category/floral-bulletin-covers.html">Floral Bulletin Covers</a></li>
+<li><a href="http://www.faithclipart.com/category/palm-sunday-bulletin-covers.html">Palm Sunday Bulletin Covers</a></li>
+<li><a href="http://www.faithclipart.com/category/good-friday-golgotha--bulletin-covers.html">Good Friday Bulletin Covers</a></li>
+<li><a href="http://www.faithclipart.com/category/easter-bulletins.html">Easter Bulletin Covers</a></li>
+<li><a href="http://www.faithclipart.com/category/mothers-day-bulletin-covers.html">Mother's Day Bulletins</a></li>
+<li><a href="http://www.faithclipart.com/category/fathers-day-bulletin-covers.html">Father's Day Bulletins</a></li>
+<li><a href="http://www.faithclipart.com/category/harvest-fall-church-bulletin-covers.html">Harvest Fall Bulletin Covers</a></li>
+<li><a href="http://www.faithclipart.com/category/secular-holiday-bulletin-covers.html">Secular Holiday Bulletin Covers</a></li>
+                        </ul>
+                    </div>
+                          
+            
+            </div>
+           
+</li>
+
+<li><a href="http://www.faithclipart.com/category/christian-backgrounds.html" class="drop">Backgrounds</a>
+
+            <div class="dropdown_1column">
+            
+                <div class="col_1 firstcolumn">
+                
+                    <ul>
+
+<li><a href="http://www.faithclipart.com/category/christian-backgrounds.html" class="blue">Christian Backgrounds</a></li>
+<li><a href="http://www.faithclipart.com/category/worship-backgrounds.html">Worship Backgrounds</a></li>
+<li><a href="http://www.faithclipart.com/category/church-announcements.html">Church Announcement Slides</a></li>
+<li><a href="http://www.faithclipart.com/category/holiday-backgrounds.html">Holiday Backgrounds</a></li>
+<li><a href="http://www.faithclipart.com/category/christmas-backgrounds.html">Christmas Backgrounds</a></li>
+<li><a href="http://www.faithclipart.com/category/easter-backgrounds.html">Easter Backgrounds</a></li>
+<li><a href="http://www.faithclipart.com/category/secular-holiday-backgrounds.html">Secular Holiday Backgrounds</a></li>
+                        
+                    </ul>   
+                     
+                </div>
+            
+            </div>
+            
+</li>
+
+<li class="nodrop"><a href="http://www.faithclipart.com/category/flyer-templates.html">Flyers</a></li>
+
+<li class="nodrop"><a href="http://www.faithclipart.com/category/newsletter-templates.html">Newsletters</a></li>
+
+<li class="nodrop"><a href="http://www.faithclipart.com/fca/browse.do">Images</a></li>
+
+<li class="nodrop"><a href="http://crossleadership.com/">Crossleadership</a></li>
+
+
+<!-- <li><a href="http://www.sharefaithblog.com" class="drop">Blog</a> -->
+
+            <div class="dropdown_2columns-blog">
+            
+                    <div class="col_1-blog firstcolumn">
+<ul>
+<li><a href="http://www.sharefaithblog.com/" class="blue">Sharefaith Blog</a></li>
+<li><a href="http://www.sharefaithblog.com/category/christian-articles/">Christian Articles</a></li>
+<li><a href="http://www.sharefaithblog.com/category/church-media-solutions/">Church Media Solutions</a></li>
+<li><a href="http://www.sharefaithblog.com/category/church-social-media/">Church Social Media</a></li>
+<li><a href="http://www.sharefaithblog.com/category/christian-powerpoints/">Christian PowerPoints</a></li>
+<li><a href="http://www.sharefaithblog.com/category/church-newsletters/">Church Newsletters</a></li>
+</ul>
+                    </div>
+
+                    <div class="col_1-blog">
+<ul>
+<li><a href="http://www.sharefaithblog.com/category/christian-book-reviews-2/">Christian Book Reviews</a></li>
+<li><a href="http://www.sharefaithblog.com/category/churchwebsites/">The Best Church Websites</a></li>
+<li><a href="http://www.sharefaithblog.com/category/church-flyers-2/">How To Create Church Flyers</a></li>
+<li><a href="http://www.sharefaithblog.com/category/how-to-church-media/">How To Create Church Media</a></li>
+<li><a href="http://www.sharefaithblog.com/category/church-email-marketing-2/">Church Email Marketing</a></li>
+<li><a href="http://www.sharefaithblog.com/category/church-worship-videos/">Creating Worship Videos</a></li>
+</ul>
+                    </div>
+            
+            </div>
+        
+
+   
+<li class="nodrop right"><a href="http://www.faithclipart.com/fca/member.do" class="drop blue">MyHome</a></li>
+</ul>
+<!-- END MENU -->
+
+</div><!-- END MENU WRAPPER -->
+
+<hr>
+
 </ul>
         
 
-        </div><!--/header container-->
+    </div><!--/header container-->
 
-</div><!--/header-->
+  </div><!--/header-->
 
 
 <!-- start header promo -->
@@ -173,23 +321,28 @@ siteUrlContext = "fca";
 
 
 
-<div class="header-promo">
-          <div style="background-color:#7a9b04;height:38px;">
+  <div class="header-promo">
+    <div id="header-promo-content">
+<p>
+40,000 Worship Templates used by 18,700 churches - For only $149/year
+</p>
 
-<div style="float:left;font-size:14px;color:#fff;padding:12px 0 0 20px;text-align:left;">
-34,000 Worship Templates to help you communicate with relevance - Only $129/year!
+<div style="margin:0 -6px 0 0;">
+<a href="http://www.faithclipart.com/fca/learnmore.do" class="promobtn3"></a>
+
+<a href="http://www.faithclipart.com/feature/tryitfreein.html" class="promobtn2"></a>
+
+<a href="https://www.faithclipart.com/fca/affiliate.do?id=58&amp;coupon=christmas" class="promobtn1"></a>
+
+<!-- <a href="https://www.faithclipart.com/fca/affiliate.do?id=17&coupon=INSTANT-SAVINGS-HP" class="promobtn1"></a> -->
 </div>
 
-<div style="float:right;padding:3px 10px 0 0;">
-<a href="https://www.faithclipart.com/fca/affiliate.do?id=17&amp;coupon=2010Savings-25PERCENT" class="promobtn1"></a>
-<a href="https://www.faithclipart.com/fca/register.do" class="promobtn2"></a>
+<hr>
 </div>
 
-<div class="clear"></div>
 
-</div>
 
-</div><!-- end header-promo -->
+  </div><!-- end header-promo -->
 
 
 
@@ -199,6 +352,43 @@ siteUrlContext = "fca";
 
 <!-- IF PPD -->
 
+
+
+<!-- POP UP : Account Expire-->
+
+
+ 
+
+
+
+ <!-- POP UP : Customer Service Chat-->
+
+ 
+ 
+<!--"PopUp CustomerService" TextBlock Copy START-->
+<!--<h1 id="testCS"></h1>-->
+<script src="/js/popup.js" type="text/javascript"></script>
+<script src="/js/jquery.cookie.js" type="text/javascript"></script>
+
+<style type="text/css">/* Account Expire PopUp CSS */
+.defaultP{position:relative; height:.1px; margin:0 auto;width:980px;}.popup_close{ position:absolute; bottom:5px; right:8px; font-size:14px; }.ItemHover{color:#3377AA; font-weight:bold; cursor:pointer;}.ItemHover:hover{ color:#006400;}
+.box_PopUp_CustomerService{border: 8px #CCCCCC solid;border-radius: 10px; moz-border-radius: 10px; -webkit-border-radius: 10px; padding:15px; box-shadow: 4px 4px 20px #CCC; -moz-box-shadow: 4px 4px 20px #CCC; -webkit-box-shadow: 4px 4px 20px #CCC;
+width:500px; height:320px; position:absolute;  top:-5px; left:212px; background-color:White; z-index:9999; text-align:center; display:none;}</style>
+
+<!--SETTINGS value="(SECONDS on site before popup)|(# of times per day to show)"-->
+<input id="hd_popup_CustomerService" type="hidden" value="90|1">
+
+<div class="defaultP"><div class="box_PopUp_CustomerService"><!-- Content Start : To Do, add more content here -->
+
+<div style="margin:0px auto; margin-top:5px; width:455px; height:300px; background: url('http://images.faithclipart.com/images/img/3/PopUps/cs_backimage.png') no-repeat;">
+<a style="display:block; float:right; margin-top:68px; margin-right:3px; width:220px; height:226px; background: url('http://images.faithclipart.com/images/img/3/PopUps/cs_frontimage.png') no-repeat;" href="http://www.faithclipart.com/fca/contact.do"></a>
+</div>
+
+    <div class="popup_close ItemHover">Close</div><!-- style, but dont delete --> <!-- Content End-->
+    </div></div>
+<!--"PopUp CustomerService" TextBlock Copy END-->
+ 
+ 
 
 
 <!-- end top-fixed.jsp -->
@@ -260,8 +450,9 @@ Sharefaith values your privacy. You may contact us any time to learn more about 
 <br>
 <b>ShareFaith</b><br>
 Letters and Arts, Inc.<br>
-600 Siskiyou Blvd<br>
+180 Lithia Way, #202<br>
 Ashland, Oregon 97520<br>
+Tel: 888-317-4018 <br>
 
 
 
@@ -274,14 +465,25 @@ Ashland, Oregon 97520<br>
 
 <!-- begin footer.jsp -->
 
-<div id="push"></div>
+  <div id="push"></div>
 </div><!-- end wrapper --><!-- this forces footer to stick to bottom -->
 
 <div id="footer">
+  <div class="container">
+    <div id="footer-newsletter">
+<form name="ccoptin" action="http://visitor.r20.constantcontact.com/d.jsp" target="_blank" method="post">
+<input type="hidden" name="llr" value="oa6uqoeab">
+<input type="hidden" name="m" value="1102835539931">
+<input type="hidden" name="p" value="oi">
 
-          <div class="container">
 
-                              <div class="column border-right">
+<h1>Current Church News, Hot Worship Topics, Media Tips Pastor Solutions &amp; Give-aways... </h1> <input type="text" name="ea" value="" onblur="showPromptFromTitle(this);" onfocus="clearPromptFromTitle(this);" class="prompt_text" title="Enter your email address here">
+<input type="submit" name="go" value="" class="submit">
+</form>
+<hr>
+</div>
+
+<div class="column">
 
                       <h5>Customer Service</h5>
             		
@@ -295,7 +497,7 @@ Ashland, Oregon 97520<br>
 
 </div>
 
-<div class="column border-right">
+<div class="column">
 
                       <h5>About Us</h5>
             		
@@ -327,25 +529,32 @@ Ashland, Oregon 97520<br>
                                 <li><a href="http://twitter.com/sharefaith">Sharefaith Twitter</a></li>
                        </ul>
 </div>
-                
-
-          </div><!--/container-->
+       
 
 
 
-<div id="copyright">
-	<div class="container">
+<script type="text/javascript">
+<!--//
 
-                    <h3>© <script type="text/javascript">var d = new Date();document.write(d.getFullYear());</script>2020 ShareFaith, Letters &amp; Arts Inc., All Rights Reserved.</h3>
+  $(document).ready(function() {
+    $(".prompt_text").each(function(i) {
+      showPromptFromTitle(this);
+    });
+  });
 
+//-->
+</script>
+         
+<hr>
+  </div><!--/container-->
 
+  <div id="copyright">
+    <div class="container">
+      <h3>© <script type="text/javascript">var d = new Date();document.write(d.getFullYear());</script>2020 ShareFaith, Letters &amp; Arts Inc., All Rights Reserved.</h3>
+<h3><a href="http://www.faithclipart.com/fca/usagePolicy/view.do">Terms of Use</a><a href="http://www.faithclipart.com/fca/privacyPolicy/view.do">Privacy Policy</a></h3>
 
-
-
-        </div><!--/container-->
-</div><!--/copyright-->
-
-
+    </div><!--/container-->
+  </div><!--/copyright-->
 
 </div><!--/footer-->
 
