@@ -1,0 +1,71 @@
+> *The following text is extracted and transformed from the goingcrazywannago.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227135204id_/http%3A//goingcrazywannago.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | Going Crazy!! Wanna Go??!!
+
+**Privacy Policy**
+
+If you have questions about this Privacy Policy, please contact me [here](https://web.archive.org/web/20111227135204id_/http%3A//goingcrazywannago.com/janet@goingcrazywannago.com "Email").
+
+The privacy of my followers is very important to me. I want to tell you about how the types of personal information I receive and  
+collect when you visit my site is protected and how I strive to safeguard your information. I would never sell your personal information to third parties.
+
+**Young’ins (Children Under the Age of 13)**
+
+I will not knowingly collect or maintain identifiable information (personal or non-personal) from anyone under 13 years of age, and my site is not directed to the young’ins. Children under 13 years of age are not eligible for contests or giveaways on my site. If I learn that identifiable information of anyone under 13 years of age has been collected on Going Crazy!! Wanna Go??!! without parental consent, I will take the appropriate steps to delete the information.
+
+**Information I Collect**
+
+**A.   ****Information Submitted by a User**
+
+Going Crazy!! Wanna Go??!! does not require registration or membership to use the sites. However, I collect personal information when you post a comment or enter a giveaway or contest. That information may include: Name or alias, email address, IP address, and in the case of contest winners, mailing address.
+
+If you subscribe to Going Crazy!! Wanna Go??!! by email, your email address will also be recorded by the Feedburner service. I also offer an email newsletter through voluntary opt-in signup. I will not share my mailing list with anyone!!
+
+**B.   ****Non-submitted Information Collected**
+
+Going Crazy!! Wanna Go??!! may also collect non-personal information not associated with your identity to improve the site. This information includes your IP (internet protocol) address, your ISP (internet service provider), your country, city, or state, the browser you used to visit, the time you visited, and which pages you viewed.
+
+**C.   ** **Cookies and Web Beacons**
+
+We do not use cookies to store information about visitors to our sites. However, we may use third party advertisements to support the sites. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our sites, which will also send the advertisers your information including your IP address, your ISP, the browser you used to visit our site, or whether you have Flash installed. This is generally used for targeting purposes to help show appropriate ads to the visitor. For example, these companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
+Some advertisers might also use cookies to track purchases made in order to pay Going Crazy!! Wanna Go??!! a commission for sales made through affiliate links on our site. We may have access to the time and date of purchase, the merchant, the amount of sale, products purchased, and in some cases general location of the purchaser, but we do not have access to the name,  
+mailing address, phone number, email address, or other personal identifying information of the user.
+
+We also may use Google Adsense, whose DART cookie enables it to serve ads to users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+You may also chose to disable or selectively turn off cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with websites. For example, entirely blocking cookies can cause the inability to login to services or programs, such as logging into forums or accounts.
+
+**How I Use Your Information**
+
+Going Crazy!! Wanna Go??!! uses your Internet Protocol (IP) address to help diagnose problems with the computer server, and to administer the web site. Your IP address is used to help identify you, and to gather broad demographic data. Your IP address contains no personal information about you. For example, it does not include your name, email, or mailing address. ** **
+
+I will not disclose any personal information about you without your prior consent, unless I  have a belief that such action is necessary to: (i) comply with legal process or other legal requirements of any governmental authority; (ii) protect and defend the rights or property of Going Crazy!! Wanna Go??!!; (iii) protect the interests of users of my services otherthan you or any other person; or (iv) operate or conduct maintenance and repair of my services or equipment as authorized by law.
+
+I do not sell or rent personal information about users to ANYONE!!
+
+If you voluntarily disclose personal information in comments, that information might be collected and disseminated by third  
+parties, and result in, among other things, unsolicited inquiries, messages, and offers from third parties. Although our comment form may require an email address, that is not shown to the public. Email address shown in the body of the comment, however, will be displayed. Please understand that any information that is disclosed in comments becomes public information and this third-party conduct is out of the control of Pika Revolution. Please exercise caution when deciding to disclose your personal information.
+
+Going Crazy!! Wanna Go??!! may also contain links to other web sites. I am not responsible for the privacy practices or the content  
+of such web sites.
+
+**Security**
+
+The identifiable information I collect is securely stored within my database, and I  use standard, industry-wide practices for protecting your information. However, as effective as encryption technology is, no security system is impenetrable. I cannot guarantee the security of my database, nor can I guarantee that information you supply won’t be intercepted while being transmitted to me over the Internet.
+
+**Revisions and Amendment**
+
+If you have further privacy concerns please do not hesitate to contact me [here](https://web.archive.org/web/20111227135204id_/http%3A//goingcrazywannago.com/janet@goingcrazywannago.com "Email").
+
+This Privacy Policy is effective as of August 2, 2011. This Privacy Policy is not intended to and does not create any contractual or other legal rights in or on behalf of any party. Going Crazy!! Wanna Go??!! reserves the right, at any time and without notice, to add to, modify, change or update this Privacy Policy, simply by posting such change, update or modification on the site. Any such change, update or modification will be effective immediately upon posting.
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fgoingcrazywannago.com%2Fprivacy-policy%2F%20\(via%20@sociablesite\) "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fgoingcrazywannago.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fgoingcrazywannago.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fgoingcrazywannago.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fgoingcrazywannago.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=Privacy%20Policy%0D%0A%0D%0AIf%20you%20have%20questions%20about%20this%20Privacy%20Policy%2C%20please%20contact%20me%20here.%0D%0A%0D%0AThe%20privacy%20of%20my%20followers%20is%20very%20important%20to%20me.%20I%20want%20to%20tell%20you%20about%20how%20the%20types%20of%20personal%20information%20I%20receive%20and%0D%0Acollect%20when%20you%20visit%20my "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fgoingcrazywannago.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fgoingcrazywannago.com%2Fprivacy-policy%2F&srcTitle=Going+Crazy%21%21+Wanna+Go%3F%3F%21%21+My+Tornado+of+Thoughts+blurted+out+Here%21%21 "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fgoingcrazywannago.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Going+Crazy%21%21+Wanna+Go%3F%3F%21%21+My+Tornado+of+Thoughts+blurted+out+Here%21%21&summary=Privacy%20Policy%0D%0A%0D%0AIf%20you%20have%20questions%20about%20this%20Privacy%20Policy%2C%20please%20contact%20me%20here.%0D%0A%0D%0AThe%20privacy%20of%20my%20followers%20is%20very%20important%20to%20me.%20I%20want%20to%20tell%20you%20about%20how%20the%20types%20of%20personal%20information%20I%20receive%20and%0D%0Acollect%20when%20you%20visit%20my "LinkedIn")
+  * 
+
