@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the animebuzz.tv privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227082039id_/http%3A//www.animebuzz.tv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animebuzz.tv privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227041952id_/http%3A//www.animebuzz.tv/privacy.html) for the most accurate reproduction.*
 
-# AnimeBuzz Legal Disclaimer
+# Privacy and Policy
 
 Animebuzz is committed to protecting your online privacy while providing you with the most useful and enjoyable Web experience possible.
 
