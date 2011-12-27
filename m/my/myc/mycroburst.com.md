@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mycroburst.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627161438id_/http%3A//www.mycroburst.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycroburst.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227223322id_/http%3A//www.mycroburst.com/privacy_policy) for the most accurate reproduction.*
 
-# MycroBurst » Marketplace for Logo, Web and Graphic Design
+# MycroBurst » Leader in Graphic, Web and Logo Design Contests
 
 **Guru Corporation (c/o Logo Design Guru, Inc) Respects Your Privacy**  
 Logo Design Guru, Inc (herein known as LDG) and its subsidiaries, (to include LogoDesignGuru.com, MycroBurst.com, LogoSnap.com and LogoGuru.co.uk, WebbyGuru.com) ,respect your privacy. This Privacy Statement informs you of our privacy practices and of the choices you can make about the way your information is collected online and how that information is used. 
@@ -161,8 +161,8 @@ If we change our privacy statement, we will post the revised statement here, wit
 
 We value your opinions. If you have comments or questions about our privacy statement, please send them to the LDG Privacy Office or write to us at the following address:   
 LDG Privacy Mailbox  
-3000 Cabot Blvd West  
-Suite, 225  
+370 E. Maple Avenue   
+Suite 304  
 Langhorne, PA 19047  
 USA  
 
