@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tutsbuzz.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628155006id_/http%3A//www.tutsbuzz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutsbuzz.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227084133id_/http%3A//www.tutsbuzz.com/privacy.html) for the most accurate reproduction.*
 
-# TutsBuzz.com - Tutorial Index Page
+# 3D, Photoshop and Programming Tutorials | TutsBuzz.com
 
 We here at Tutsbuzz.com greatly respect your privacy and we hope that our users feel that the information they share with us is 100% secure and private. Here are the guidelines we follow at Tutsbuzz to ensure your privacy and our integrity: 
 
