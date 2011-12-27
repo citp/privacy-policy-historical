@@ -1,26 +1,21 @@
-> *The following text is extracted and transformed from the find-bride.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629230825id_/http%3A//www.find-bride.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the find-bride.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227160641id_/http%3A//www.find-bride.com/privacy) for the most accurate reproduction.*
 
 # 
 
-Latest Blog Post
+[Latest Blog Post](https://web.archive.org/blogs)
 
-[](http://www.find-bride.com/search/profile/all/10271)
+[](http://find-bride.com/search/profile/all/11627)
 
-Darya, 20 years old
+Alyona , 28 years old
+
+Sevastopol \ Ukraine
+
+ Man with strong core...
+
+[](http://find-bride.com/mess/send/all/11627) [](http://find-bride.com/gift/read/all/11627) [](http://find-bride.com/profile/addfriends/addGirl/11627) [](http://find-bride.com/privacy/video/all/11627)
 
 [   
-](http://www.find-bride.com/video)   
-Reviews of Happy Pair
-
-Elena and Martin  
-Ukraine\USA  
-You've made us happy find-bride.com Thank's very much for help!!!.   
-
-
-Marina and Daniel  
-Ukraine\USA  
-We can’t believe that it happened… but sometimes dreams come true in most favorable light!) Thank you to the site and all the stuff!!!   
-
+](http://find-bride.com/video)
 
 Privacy Policy
 
@@ -37,23 +32,23 @@ Credit card fraud is impossible on find-bride.com because we don’t require you
 
 now online
 
-[](http://www.find-bride.com/photo/full/1309215189hpcq.jpg)
+[](http://find-bride.com/photo/full/bride/1323476995hpxx.jpg)
 
 now online
 
-[](http://www.find-bride.com/photo/full/1308828664hpth.jpg)
+[](http://find-bride.com/photo/full/1309174229hpjw.jpg)
 
 now online
 
-[](http://www.find-bride.com/photo/full/1305193706hpwi.jpg)
+[](http://find-bride.com/photo/full/bride/1323556189hpcf.jpg)
 
 now online
 
-[](http://www.find-bride.com/photo/full/1309293577hpn8.jpg)
+[](http://find-bride.com/photo/full/bride/1324663967hpx9.jpg)
 
 now online
 
-[](http://www.find-bride.com/photo/full/1297873628hpf5.jpg)
+[](http://find-bride.com/photo/full/bride/1317901369hpfv.jpg)
 
   
 
