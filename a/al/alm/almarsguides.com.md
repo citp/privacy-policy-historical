@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the almarsguides.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104034910id_/http%3A//www.almarsguides.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almarsguides.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228005330id_/http%3A//www.almarsguides.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Almar's Guides: Almar's Guides Privacy Policy
 
-[](http://search.barnesandnoble.com/2012/Ryan-Tomasella/e/9781450225342/?itm=2&USRI=2012+the+zombie+apocalypse)
+[](http://search.barnesandnoble.com/Drylor/Ryan-Tomasella/e/9781450299923/?itm=1&USRI=drylor+the+first+artifact)
+
+[](http://almarsguides.com/donate/)
 
 **Almarsguides.com Privacy Policy**
 
