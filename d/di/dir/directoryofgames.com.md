@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the directoryofgames.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627051103id_/http%3A//www.directoryofgames.com/main.php%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryofgames.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227200025id_/http%3A//www.directoryofgames.com/main.php%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # Directory of Games - The greatest MMORPG games online
 
-_Last modified on June 17, 2004_
+_Last modified on July 14, 2011_
 
 Directory of Games respects your privacy and strives to offer you the best service possible with the most security available to us. Directory of Games requests and uses certain information provided by you to allow a more personalized experience while browsing the site. Below you will find our privacy policy, which outlines the types of information we collect and how it�s used on the site.
 
 **Changes of the Privacy Policy**
 
 Occasionally, Directory of Games will update this privacy policy. If this document is updated, an announcement will be posted to ensure that all current and potential members accessing the site are made aware that the privacy policy has undergone a change. It is your responsibility to make sure you read the privacy policy if and when it is updated. In the instance that you miss the announcement, you may check the "Last modified date" located above.
+
+**Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
 **Information Collected**
 
