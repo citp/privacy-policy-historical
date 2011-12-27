@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fabulousfoods.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624105733id_/http%3A//www.sheknows.com/mediakit/articles/813566/privacy-policy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabulousfoods.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227102925id_/http%3A//www.sheknows.com/mediakit/articles/813566/privacy-policy-1) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**This privacy policy was last modified on February 11, 2010.**
 
 SheKnows, LLC ("Company," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Company when you use SheKnows.com and related services (the "Service"), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. 
 
