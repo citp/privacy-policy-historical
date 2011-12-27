@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freehostingnoads.net privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627214438id_/http%3A//freehostingnoads.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehostingnoads.net privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227113357id_/http%3A//freehostingnoads.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - FreeHostingNoAds.net
 
