@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sooperarticles.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628185716id_/http%3A//www.sooperarticles.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sooperarticles.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227214358id_/http%3A//www.sooperarticles.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Sooper Articles
 
@@ -42,7 +42,7 @@ Though we make efforts to preserve your privacy, we may need to disclose persona
 
 Sooper Articles store loggined user information in cookies for keeping the session alive
 
-Sooper Articles uses third party adserver Google. 
+Sooper Articles uses third party adserver Google.
 
   * Google, as a third party vendor, uses cookies to serve ads on your site. 
   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
