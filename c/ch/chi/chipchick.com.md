@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chipchick.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602085305id_/http%3A//www.chipchick.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chipchick.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227065118id_/http%3A//www.chipchick.com/about/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Chip Chick
+# Privacy Policy - Chip Chick
 
 What follows is the Privacy Statement for all ChipChick.com & ChipChicklets.com websites (a.k.a. blogs)..
 
