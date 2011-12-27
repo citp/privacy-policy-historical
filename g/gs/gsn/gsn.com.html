@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gsn.com privacy policy that was archived on 2011-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110602152947id_/http%3A//www.gsn.com/cgi/corporate/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gsn.com privacy policy that was archived on 2011-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227084640id_/http%3A//www.gsn.com/cgi/corporate/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -22,10 +22,9 @@ var ord = Math.random() * 1000000000000000000;
 function resetOrd()
 { ord = Math.random() * 1000000000000000000; setTimeout("resetOrd()", 57333); }
 setTimeout("resetOrd()", 57333);
-var topnavHighlight = "corporate";
+    var topnavHighlight = "other";
 topnavHighlight = topnavHighlight.split("-");
-// set the key for loading the trivia question popup
-var trivia_onload = false;
+var trivia_onload = false; //false;
 //-->
 </script>
 
@@ -35,6 +34,7 @@ var trivia_onload = false;
 <script type="text/javascript" src="http://www.gsn.com/dynamic/html/js/jquery.cluetip.js"></script>
 <script type="text/javascript" src="http://www.gsn.com/dynamic/html/js/jquery.bgiframe.js"></script>
 <script type="text/javascript" src="http://www.gsn.com/dynamic/html/js/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="http://www.gsn.com/dynamic/html/js/jquery.ticker-min.js"></script>
 <script type="text/javascript" src="http://www.gsn.com/dynamic/html/js/swfobject.js"></script>
 <script type="text/javascript" src="http://www.gsn.com/dynamic/html/js/popups.js"></script>
 <script type="text/javascript" src="http://www.gsn.com/dynamic/html/js/popup_600.js"></script>
@@ -42,6 +42,7 @@ var trivia_onload = false;
 <script type="text/javascript" src="http://www.gsn.com/cgi/nosession/js/global.js"></script>
 <script type="text/javascript" src="http://www.gsn.com/cgi/nosession/js/xmlHTTP.js"></script>
 <script type="text/javascript" src="http://www.gsn.com/cgi/nosession/js/acct_modal.js"></script>
+<script type="text/javascript" src="http://www.gsn.com/cgi/nosession/js/mygsn_modal.js"></script>
 <script type="text/javascript" src="http://www.gsn.com/cgi/nosession/js/facebook.js"></script>
 <script type="text/javascript" src="http://www.gsn.com/cgi/nosession/js/favorite_games.js"></script>
 <!--[if lt ie 7]>
@@ -49,6 +50,14 @@ var trivia_onload = false;
 <![endif]-->
 
 
+
+<script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=2_VDlRq7_j7iruy-2g0e8z-o1llZ6KAugUh2nEOBOvrB7MJhbo7VfBt3U3Zvg9PwF0"></script>
+<script type="text/javascript">
+var conf=
+{
+    enabledProviders: 'facebook,twitter,yahoo,google'
+}
+</script>
 
 
 
@@ -60,6 +69,8 @@ var trivia_onload = false;
 <link rel="stylesheet" type="text/css" media="screen" title="" charset="utf-8" href="http://www.gsn.com/cgi/nosession/css/jcarousel.gsn-skin.css">
 <link rel="stylesheet" type="text/css" media="screen" title="" charset="utf-8" href="http://www.gsn.com/cgi/nosession/css/jquery.cluetip.css">
 <link rel="stylesheet" type="text/css" media="screen" title="" charset="utf-8" href="http://www.gsn.com/cgi/nosession/css/jquery.autocomplete.css">
+<link rel="stylesheet" type="text/css" media="screen" title="" charset="utf-8" href="http://www.gsn.com/cgi/nosession/css/mygsn.css">
+<link rel="stylesheet" type="text/css" media="screen" title="" charset="utf-8" href="http://www.gsn.com/cgi/nosession/css/news_ticker.css">
 
 
 
@@ -67,13 +78,8 @@ var trivia_onload = false;
 
 
 
-<script type="text/javascript">
-//alert('reg_key = \n' +
-//      '_cobrand_key = \n' + 
-//	  'cobrand_key = \n' +
-//	  '_cable_provider = \n' +
-//	  '_cobrand_id = ');
-</script>
+
+
 
 </head>
 
@@ -87,8 +93,23 @@ var trivia_onload = false;
 
 
 
+
+
+
+<script type="text/javascript">
+function tokenbonus_popup() {}
+</script>
+
+
+
+
+
+
+
+
 <div id="acct_box"></div>
 <div id="acct_outer"></div>
+
 
 <div id="fav_box"></div>
 <div id="fav_outer"></div>
@@ -106,18 +127,18 @@ var trivia_onload = false;
 
     <span id="schedule_media">
         
-<div id="allmedia_1109Wrapper"></div>
+<div id="allmedia_1525Wrapper"><img src="/dynamic/images/skin/template/gsn_logo_blue.gif" alt="GSN.com"></div>
 <script type="text/javascript">
 <!--
 var aProps = new Array();
 aProps['width'] = "120";
-aProps['name'] = "allmedia_1109";
-aProps['id'] = "allmedia_1109";
+aProps['name'] = "allmedia_1525";
+aProps['id'] = "allmedia_1525";
 aProps['height'] = "110";
 
 var aParams = new Array();
 aParams['bgcolor'] = "#FFFFFF";
-aParams['movie'] = "http://www.gsn.com/cgi/nosession/getImage.pl?class_id=Schedule&lookup_id=1109";
+aParams['movie'] = "http://www.gsn.com/cgi/nosession/getImage.pl?class_id=Schedule&lookup_id=1525";
 aParams['quality'] = "high";
 aParams['gid'] = "2001";
 
@@ -134,11 +155,11 @@ var schedulerSWF = new SWFObject(aParams['movie'], aProps['name'], aProps['width
 schedulerSWF.addParam("quality", "high");
 schedulerSWF.addParam("wmode", "transparent");
 schedulerSWF.addParam("play", aParams['play']);
-schedulerSWF.addVariable("seen", "0");
-schedulerSWF.addVariable("clickTag", "http://www.gsn.com?utm_source=gsn&utm_medium=top_logo&utm_campaign=Blue%20GSN%20Animated%20main","1");
-schedulerSWF.write("allmedia_1109Wrapper");
+schedulerSWF.addVariable("seen", "1");
+schedulerSWF.addVariable("clickTag", "http://www.gsn.com/?utm_source=gsn&utm_medium=top_logo&utm_campaign=WNMW%20Animated%20Logo%20main","1");
+schedulerSWF.write("allmedia_1525Wrapper");
 
-//alert("playoption: 0");
+//alert("playoption: 1");
 //alert("sessionvar: 1");
 
 
@@ -153,32 +174,27 @@ schedulerSWF.write("allmedia_1109Wrapper");
     </span>
 
 	<div id="user_element">
-    	<span id="fbconnection">
-<fb:login-button v="2" size="small" onclick="pageTracker._trackEvent('Facebook','1: Connect Started');" onlogin="fbConnected();" class="fb_btn_login">Login with Facebook</fb:login-button>
-</span> <span class="separator">|</span> 
-
-
+    	
 <a href="javascript:displayAcctModal('login', '');">Login</a> <span class="separator">|</span> 
-<a href="javascript:displayAcctModal('join', '');">Create an Account</a>
-
+<a href="/cgi/account/register.html">Create an Account</a>
 
 <div class="clear-float"></div>
 			
 
     </div>
 	
-		 <span id="topadbanner"><iframe id="consumer_ad_728_90" style="width:728px; height:90px;" scrolling="no" frameborder="0" src="http://ad.doubleclick.net/adi/N5412.gsn/other_other;dept=other;title=other;sect=corporate;pgid=privacy;sf=;regi=n;rgen=null;ra21=null;null;null;null;rzip=null;rst=null;rpov=null;rcb=null;kw=null;prz=;tile=2;pos=null;sz=728x90;ord=6369607882547?"></iframe>
+		 <span id="topadbanner"><iframe id="consumer_ad_728_90" style="width:728px; height:90px;" scrolling="no" frameborder="0" src="http://ad.doubleclick.net/adi/N5412.gsn/other_other;dept=other;title=other;sect=corporate;pgid=privacy;sf=;regi=n;rgen=null;ra21=null;null;null;null;rzip=null;rst=null;rpov=null;rcb=null;ghub=;kw=null;prz=;tile=2;pos=null;sz=728x90;ord=4149345467771?"></iframe>
 
 
 </span>
 
 <span id="social_networking_buttons">
 
-<a href="http://www.facebook.com/GSNOodles" target="_blank" onclick="pageTracker._trackEvent('Outbound Links','Facebook_GSNOodles');"><img src="http://www.gsn.com/dynamic/images/skin/template/icon_facebook.gif" alt="Facebook" title="Facebook"></a>
+<a href="http://www.facebook.com/GSNOodles" target="_blank" onclick="pageTracker._trackEvent('Outbound Links','Facebook_GSNOodles');"><img src="/dynamic/images/skin/template/icon_facebook.gif" alt="Facebook" title="Facebook"></a>
 
-<a href="http://www.youtube.com/OodleStudio" target="_blank" onclick="pageTracker._trackEvent('Outbound Links','YouTube_OodleStudio');"><img src="http://www.gsn.com/dynamic/images/skin/template/icon_youtube.gif" alt="YouTube" title="YouTube"></a>
+<a href="http://www.youtube.com/OodleStudio" target="_blank" onclick="pageTracker._trackEvent('Outbound Links','YouTube_OodleStudio');"><img src="/dynamic/images/skin/template/icon_youtube.gif" alt="YouTube" title="YouTube"></a>
 
-<a href="http://twitter.com/GSNOodles" target="_blank" onclick="pageTracker._trackEvent('Outbound Links','Twitter_GSNOodles');"><img src="http://www.gsn.com/dynamic/images/skin/template/icon_twitter.gif" alt="Twitter" title="Twitter"></a> 
+<a href="http://twitter.com/GSNOodles" target="_blank" onclick="pageTracker._trackEvent('Outbound Links','Twitter_GSNOodles');"><img src="/dynamic/images/skin/template/icon_twitter.gif" alt="Twitter" title="Twitter"></a> 
 
 
 </span>
@@ -191,28 +207,34 @@ schedulerSWF.write("allmedia_1109Wrapper");
 		<div id="gsn-gamesnav" class="site_navbutton">
 			<a href="http://www.gsn.com/games/" onclick="pageTracker._trackEvent('Internal Links','NAV_AllGames');"><img src="http://www.gsn.com/dynamic/images/skin/template/blank.gif" alt="GSN Games" id="gsn-gamesimg" class="site_navimg"></a>
 		</div>
-		<div id="gsn-cashnav" class="site_navbutton">
-			<a href="http://gsn.worldwinner.com/" onclick="pageTracker._trackEvent('Outbound Links','NAV_CashCompetitions');"><img src="http://www.gsn.com/dynamic/images/skin/template/blank.gif" alt="Cash Competitions" id="gsn-cashimg" class="site_navimg"></a>
+	    <div id="gsn-cashnav" class="site_navbutton">
+		    <a href="http://gsn.worldwinner.com/" onclick="pageTracker._trackEvent('Outbound Links','NAV_CashCompetitions_2');"><img src="http://www.gsn.com/dynamic/images/skin/template/blank.gif" alt="Cash Competitions" id="gsn-cashimg" class="site_navimg"></a>
 		</div>
-		<div id="gsn-currencynav" class="site_navbutton">
-			<a href="http://www.gsn.com/oodles/" onclick="pageTracker._trackEvent('Internal Links','NAV_Oodles');"><img src="http://www.gsn.com/dynamic/images/skin/template/blank.gif" alt="Oodles" id="gsn-currencyimg" class="site_navimg"></a>
+		<div id="gsn-mygsnnav" class="site_navbutton">
+			<a href="http://www.gsn.com/mygsn/" onclick="pageTracker._trackEvent('Internal Links','NAV_MyGSN');"><img src="http://www.gsn.com/dynamic/images/skin/template/blank.gif" alt="MyGSN" id="gsn-mygsnimg" class="site_navimg"></a>
 		</div>
 		<div id="gsn-prizesnav" class="site_navbutton">
 			<a href="http://www.gsn.com/prizes/" onclick="pageTracker._trackEvent('Internal Links','NAV_Prizes');"><img src="http://www.gsn.com/dynamic/images/skin/template/blank.gif" alt="GSN Prizes" id="gsn-prizesimg" class="site_navimg"></a>
 		</div>
 		<div id="gsn-communitynav" class="site_navbutton">
-			<a href="javascript:setRegKey('community');displayAcctModal('join', 'http://www.gsn.com/forums/gsn_login.php');" onclick="pageTracker._trackEvent('Internal Links','NAV_Community');"><img src="http://www.gsn.com/dynamic/images/skin/template/blank.gif" alt="GSN Community" id="gsn-communityimg" class="site_navimg"></a>
+			<a href="http://www.gsn.com/cgi/account/register.html?reg_key=community&amp;redirect_url=http%3A%2F%2Fwww.gsn.com%2Fforums%2Fgsn_login.php" onclick="pageTracker._trackEvent('Internal Links','NAV_Community');"><img src="http://www.gsn.com/dynamic/images/skin/template/blank.gif" alt="GSN Community" id="gsn-communityimg" class="site_navimg"></a>
 		</div>
 		<div id="gsn-tvnav" class="site_navbutton">
 			<a href="http://tv.gsn.com" onclick="pageTracker._trackEvent('Outbound Links','NAV_Shows');"><img src="http://www.gsn.com/dynamic/images/skin/template/blank.gif" alt="GSN Television" id="gsn-tvimg" class="site_navimg"></a>
 		</div>
-		<div id="gsn-videosnav" class="site_navbutton">
-			<a href="http://tv.gsn.com/videos/" onclick="pageTracker._trackEvent('Outbound Links','NAV_Videos');"><img src="http://www.gsn.com/dynamic/images/skin/template/blank.gif" alt="GSN Videos" id="gsn-videosimg" class="site_navimg"></a>
+
+		<div id="gsn-casinonav" class="site_navbutton">
+			<a href="http://www.gsn.com/casinogames" onclick="pageTracker._trackEvent('Internal Links','NAV_Casino');"><img src="http://www.gsn.com/dynamic/images/skin/template/blank.gif" alt="GSN Casino" id="gsn-casinoimg" class="site_navimg"></a><img class="site_navnew" src="http://www.gsn.com/dynamic/images/skin/navigation/sitenav_btn_new.gif">
 		</div>
+		
 	</div>
+
 
 <div id="logo_glow"></div>
 </div>
+
+
+
 
 
 <div id="shell_top_shadow" class="collapse"></div>
@@ -225,7 +247,10 @@ schedulerSWF.write("allmedia_1109Wrapper");
 		<div id="gsn-leftcol">
 
 
-<div id="user_messaging_tasks"><div id="user_messaging_tasks_inner"></div></div>
+<div id="user_messaging_tasks"><div id="user_messaging_tasks_inner">
+
+
+</div></div>
 
 <div style="display:block; position:absolute; top:1000px; left:1000px;">
 </div>
@@ -242,7 +267,7 @@ schedulerSWF.write("allmedia_1109Wrapper");
 
 
 
-<div class="about_us_text privacy">
+<div id="terms" class="terms_privacy about_us_text terms_scroll" "="">
 <h4>GSN.COM PRIVACY POLICY</h4>
 
 <h4>PLEASE READ THIS PRIVACY POLICY AND THE GSN TERMS OF SERVICE BEFORE USING THIS WEBSITE OR ANY GSN FORUM </h4>
@@ -525,6 +550,7 @@ posted. </p>
 
 <div class="clear">&nbsp;</div>
 
+
 <div id="disclaimer" class="privacy">
 <div class="legal">
 
@@ -543,86 +569,1237 @@ posted. </p>
 
 
 
+<iframe src="http://pixel.fetchback.com/serve/fb/pdj?cat=&amp;name=landing&amp;sid=4069" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
+
+
 
   </div>
-		
-  <div id="gsn-rail">
-  <img class="gsn-rail-top" src="http://www.gsn.com/dynamic/images/skin/template/blank.gif" alt="">
-      <div id="gsn-rail-content">
 
-         <div class="gsn-rail-box">
-		 <div class="rail-headertext" style="margin-bottom:10px;">Start Winning Here!</div>
+<div id="rail_game_content">
+
+
+<div id="today_oodletunities">
+<img class="hdr_oodletunities" src="/dynamic/images/games/layout/hdr_oodletunities_grey.gif">
+<p><iframe id="consumer_ad_280_320" style="width:280px; height:320px;" scrolling="no" frameborder="0" src="http://ad.doubleclick.net/adi/N5412.gsn/other_rail;dept=other;title=rail;sect=other;pgid=rail;sf=;regi=n;rgen=null;ra21=null;null;null;null;rzip=null;rst=null;rpov=null;rcb=null;ghub=;kw=null;prz=;tile=3;pos=null;sz=280x320;ord=4149345467771?"></iframe>
+
+
+</p>
+</div>
+
+<div id="today_topgames">
+<img class="hdr_topgames" src="/dynamic/images/games/layout/hdr_topgames_grey.gif">
+
+<div id="showtopgames">
+<table width="100%">
+<tbody><tr>
+      <td align="center">
+          <a href="http://www.gsn.com/games/free/bejeweled2/"><img src="http://www.gsn.com/cgi/nosession/getImage.pl?lookup_id=233_255&amp;class_id=Game" width="58" height="58"></a>
+      </td>
+
+      <td align="center">
+          <a href="http://www.gsn.com/games/free/doubletrouble/"><img src="http://www.gsn.com/cgi/nosession/getImage.pl?lookup_id=258_276&amp;class_id=Game" width="58" height="58"></a>
+      </td>
+
+      <td align="center">
+          <a href="http://www.gsn.com/games/free/catch21/"><img src="http://www.gsn.com/cgi/nosession/getImage.pl?lookup_id=172_266&amp;class_id=Game" width="58" height="58"></a>
+      </td>
+
+      <td align="center">
+          <a href="http://www.gsn.com/games/free/mahjonggdark/"><img src="http://www.gsn.com/cgi/nosession/getImage.pl?lookup_id=274_302&amp;class_id=Game" width="58" height="58"></a>
+      </td>
+
+</tr><tr><td><br></td></tr><tr>      <td align="center">
+          <a href="http://www.gsn.com/games/free/deal/"><img src="http://www.gsn.com/cgi/nosession/getImage.pl?lookup_id=222_275&amp;class_id=Game" width="58" height="58"></a>
+      </td>
+
+      <td align="center">
+          <a href="http://www.gsn.com/games/free/wheel/"><img src="http://www.gsn.com/cgi/nosession/getImage.pl?lookup_id=187_338&amp;class_id=Game" width="58" height="58"></a>
+      </td>
+
+      <td align="center">
+          <a href="http://www.gsn.com/games/free/mahjonggdimensionsark/"><img src="http://www.gsn.com/cgi/nosession/getImage.pl?lookup_id=247_303&amp;class_id=Game" width="58" height="58"></a>
+      </td>
+
+      <td align="center">
+          <a href="http://www.gsn.com/games/free/pyramidsolitaireark/"><img src="http://www.gsn.com/cgi/nosession/getImage.pl?lookup_id=181_314&amp;class_id=Game" width="58" height="58"></a>
+      </td>
+
+</tr>
+</tbody></table>
+</div>
+
+<div id="showallgames" style="display:none;">
+
+
+
+      <div id="gamelist_category_box">
+         <h1>GAME SHOW GAMES</h1>
+
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=bingo&amp;game_type=free" href="http://www.gsn.com/shows/bingo/lobby.html">Bingo America</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=bingo_blitz&amp;game_type=live" href="http://www.gsn.com/bingoblitz/index.html">BINGO Blitz</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/bingoblitz/index.html" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=catch21&amp;game_type=free" href="http://www.gsn.com/games/free/catch21/">Catch-21</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/catch21/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/games/free/catch21/" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=deal&amp;game_type=free" href="http://www.gsn.com/games/free/deal/">Deal or No Deal</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/games/free/deal/" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+              <a class="gamelist_icon gamelist_token" href="http://www.gsn.com/games/free/deal/" alt="Play for Tokens" title="Play for Tokens"><img src="/dynamic/images/games/layout/gamelist_icon_token.gif"></a>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=familyfeud&amp;game_type=cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=54">Family Feud</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=54" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=grandslam&amp;game_type=free" href="http://www.gsn.com/games/free/grandslam/">Grand Slam</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=jeopardy&amp;game_type=free" href="http://www.gsn.com/games/free/jeopardy/">JEOPARDY!</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/games/free/jeopardy/" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=lingo&amp;game_type=free" href="http://www.gsn.com/games/free/lingo/">Lingo</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/lingo/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=moneylist&amp;game_type=free" href="http://www.gsn.com/games/free/moneylist/">The Money List</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=newlywed2&amp;game_type=free" href="http://www.gsn.com/games/free/newlywed2/">The Newlywed Game</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=tpir&amp;game_type=cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=42">The Price Is Right</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=42" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=wheel&amp;game_type=free" href="http://www.gsn.com/games/free/wheel/">Wheel Of Fortune</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/wheel/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/games/free/wheel/" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      </div>
+
+
+
+      <div id="gamelist_category_box">
+         <h1>STRATEGY GAMES</h1>
+
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=cubis&amp;game_type=free" href="http://www.gsn.com/games/free/cubis/">Cubis</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/cubis/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/games/free/cubis/" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=dynomite&amp;game_type=free" href="http://www.gsn.com/games/free/dynomite/">Dynomite</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/games/free/dynomite/" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=eggzark&amp;game_type=free" href="http://www.gsn.com/games/free/eggzark/">Eggz</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/eggzark/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=findit&amp;game_type=free" href="http://www.gsn.com/games/free/findit/">Find-It</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/findit/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=firefly&amp;game_type=free" href="http://www.gsn.com/games/free/firefly/">Firefly</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=fliptogsn&amp;game_type=free" href="http://www.gsn.com/games/free/fliptogsn/">Flip To GSN!</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=mahjonggark&amp;game_type=free" href="http://www.gsn.com/games/free/mahjonggark/">Mahjongg</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/mahjonggark/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=mahjonggalchemyark&amp;game_type=free" href="http://www.gsn.com/games/free/mahjonggalchemyark/">Mahjongg Alchemy</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/mahjonggalchemyark/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=mahjonggdark&amp;game_type=free" href="http://www.gsn.com/games/free/mahjonggdark/">Mahjongg Dark Dimens...</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/mahjonggdark/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=mahjonggdimensionsark&amp;game_type=free" href="http://www.gsn.com/games/free/mahjonggdimensionsark/">Mahjongg Dimensions</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/mahjonggdimensionsark/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/games/free/mahjonggdimensionsark/" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=mahjonggtoychestark&amp;game_type=free" href="http://www.gsn.com/games/free/mahjonggtoychestark/">Mahjongg Toy Chest</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/mahjonggtoychestark/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=mysterypi&amp;game_type=cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=43">Mystery P.I.</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=43" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=paintbuckets&amp;game_type=cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=28">Paint Buckets</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=28" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=pvz&amp;game_type=cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=55">Plants vs. Zombies</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=55" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=skillgammon&amp;game_type=cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=26">Skillgammon</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=26" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=straws&amp;game_type=free" href="http://www.gsn.com/games/free/straws/">Straws</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/straws/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=talismania&amp;game_type=free" href="http://www.gsn.com/games/free/talismania/">Talismania</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=tilecity&amp;game_type=cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=7">Tile City</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=7" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=zengems&amp;game_type=free" href="http://www.gsn.com/games/free/zengems/">Zen Gems</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/zengems/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/games/free/zengems/" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      </div>
+
+
+
+      <div id="gamelist_category_box">
+         <h1>SPORTS GAMES</h1>
+
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=9ballpool&amp;game_type=cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=16">9-Ball Pool</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=16" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      </div>
+
+
+
+      <div id="gamelist_category_box">
+         <h1>CASINO GAMES GAMES</h1>
+
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=deal&amp;game_type=free" href="http://www.gsn.com/games/free/deal/">Deal or No Deal</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/games/free/deal/" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+              <a class="gamelist_icon gamelist_token" href="http://www.gsn.com/games/free/deal/" alt="Play for Tokens" title="Play for Tokens"><img src="/dynamic/images/games/layout/gamelist_icon_token.gif"></a>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=doubletrouble&amp;game_type=free" href="http://www.gsn.com/games/free/doubletrouble/">Double Trouble</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_token" href="http://www.gsn.com/games/free/doubletrouble/" alt="Play for Tokens" title="Play for Tokens"><img src="/dynamic/images/games/layout/gamelist_icon_token.gif"></a>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=madjokerpoker&amp;game_type=free" href="http://www.gsn.com/games/free/madjokerpoker/">Mad Joker Poker</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_token" href="http://www.gsn.com/games/free/madjokerpoker/" alt="Play for Tokens" title="Play for Tokens"><img src="/dynamic/images/games/layout/gamelist_icon_token.gif"></a>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=outlawvideopoker&amp;game_type=free" href="http://www.gsn.com/games/free/outlawvideopoker/">Outlaw Video Poker</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_token" href="http://www.gsn.com/games/free/outlawvideopoker/" alt="Play for Tokens" title="Play for Tokens"><img src="/dynamic/images/games/layout/gamelist_icon_token.gif"></a>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=superslots&amp;game_type=free" href="http://www.gsn.com/games/free/superslots/">Super Slots</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_token" href="http://www.gsn.com/games/free/superslots/" alt="Play for Tokens" title="Play for Tokens"><img src="/dynamic/images/games/layout/gamelist_icon_token.gif"></a>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=tikislots&amp;game_type=free" href="http://www.gsn.com/games/free/tikislots/">Tiki Island Slots</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_token" href="http://www.gsn.com/games/free/tikislots/" alt="Play for Tokens" title="Play for Tokens"><img src="/dynamic/images/games/layout/gamelist_icon_token.gif"></a>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=tripleplayblackjack&amp;game_type=free" href="http://www.gsn.com/games/free/tripleplayblackjack/">Triple Play Black Ja...</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_token" href="http://www.gsn.com/games/free/tripleplayblackjack/" alt="Play for Tokens" title="Play for Tokens"><img src="/dynamic/images/games/layout/gamelist_icon_token.gif"></a>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=underseatreasureslots&amp;game_type=free" href="http://www.gsn.com/games/free/underseatreasureslots/">Undersea Treasure Sl...</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_token" href="http://www.gsn.com/games/free/underseatreasureslots/" alt="Play for Tokens" title="Play for Tokens"><img src="/dynamic/images/games/layout/gamelist_icon_token.gif"></a>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=videobingo&amp;game_type=free" href="http://www.gsn.com/games/free/videobingo/">Video Bingo</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_token" href="http://www.gsn.com/games/free/videobingo/" alt="Play for Tokens" title="Play for Tokens"><img src="/dynamic/images/games/layout/gamelist_icon_token.gif"></a>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=wheelslots&amp;game_type=free" href="http://www.gsn.com/games/free/wheelslots/">Wheel Of Fortune®...</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_token" href="http://www.gsn.com/games/free/wheelslots/" alt="Play for Tokens" title="Play for Tokens"><img src="/dynamic/images/games/layout/gamelist_icon_token.gif"></a>
+
+      </div>
+      </div>
+
+
+
+      <div id="gamelist_category_box">
+         <h1>QUICK PLAY GAMES</h1>
+
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=bingo_blitz&amp;game_type=live" href="http://www.gsn.com/bingoblitz/index.html">BINGO Blitz</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/bingoblitz/index.html" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=oodlestrivia&amp;game_type=free" href="javascript:question_popup('gameshow',undefined,undefined,undefined,undefined,undefined,39);">Oodles Bonus Trivia</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="javascript:question_popup('gameshow',undefined,undefined,undefined,undefined,undefined,39);" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=wonderwheel&amp;game_type=free" href="http://www.gsn.com/wonderwheel">The Wonder Wheel</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/wonderwheel" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=qotd&amp;game_type=free" href="javascript:question_popup('day');">Question of the Day</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="javascript:question_popup('day');" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      </div>
+
+
+
+      <div id="gamelist_category_box">
+         <h1>CARD GAMES</h1>
+
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=25stud&amp;game_type=free" href="http://www.gsn.com/games/free/25stud/">25 Stud</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/25stud/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=beatthedeck&amp;game_type=free" href="http://www.gsn.com/games/free/beatthedeck/">Beat The Deck</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=flingshot&amp;game_type=free" href="http://www.gsn.com/games/free/flingshot/">FlingShot</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/flingshot/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=freecellark&amp;game_type=free" href="http://www.gsn.com/games/free/freecellark/">Freecell</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/freecellark/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/games/free/freecellark/" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=golfsolitaire&amp;game_type=cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=18">Golf Solitaire</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=18" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=hearts&amp;game_type=cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=39">Hearts</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=39" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=klondikesolitaireark&amp;game_type=free" href="http://www.gsn.com/games/free/klondikesolitaireark/">Klondike Solitaire</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/klondikesolitaireark/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=pussycatpoker&amp;game_type=free" href="http://www.gsn.com/games/free/pussycatpoker/">Pussy Cat Poker</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=pyramidsolitaireark&amp;game_type=free" href="http://www.gsn.com/games/free/pyramidsolitaireark/">Pyramid Solitaire</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/pyramidsolitaireark/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=royalflush&amp;game_type=cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=32">Royal Flush</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=32" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=solitairerush&amp;game_type=cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=1">Solitaire Rush</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=1" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=spades&amp;game_type=cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=29">Spades</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=29" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=spidersolitaireark&amp;game_type=free" href="http://www.gsn.com/games/free/spidersolitaireark/">Spider Solitaire</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/spidersolitaireark/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/games/free/spidersolitaireark/" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=tpsolitaire&amp;game_type=free" href="http://www.gsn.com/games/free/tpsolitaire/">Tri-Peaks Solitaire</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      </div>
+
+
+
+      <div id="gamelist_category_box">
+         <h1>WORD GAMES</h1>
+
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=bookworm&amp;game_type=free" href="http://www.gsn.com/games/free/bookworm/">Bookworm</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/bookworm/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/games/free/bookworm/" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=camouflage&amp;game_type=free" href="http://www.gsn.com/games/free/camouflage/">Camouflage</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=dailywordsearch&amp;game_type=free" href="http://www.gsn.com/games/free/dailywordsearch/">Daily Word Search</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=hangmania&amp;game_type=cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=17">Hangmania</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=17" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=scrabblecubes&amp;game_type=cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=35">SCRABBLE Cubes</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=35" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=spliteratureark&amp;game_type=free" href="http://www.gsn.com/games/free/spliteratureark/">Spliterature</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/spliteratureark/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=sudsark&amp;game_type=free" href="http://www.gsn.com/games/free/sudsark/">Suds</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/sudsark/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=wizardsspell&amp;game_type=free" href="http://www.gsn.com/games/free/wizardsspell/">Wizard's Spell</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=wordmojo&amp;game_type=cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=24">Word Mojo</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=24" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=wordsearchark&amp;game_type=free" href="http://www.gsn.com/games/free/wordsearchark/">Word Search</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      </div>
+
+
+
+      <div id="gamelist_category_box">
+         <h1>ARCADE GAMES</h1>
+
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=alusrevengeark&amp;game_type=free" href="http://www.gsn.com/games/free/alusrevengeark/">Alu's Revenge</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/alusrevengeark/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=avantgrid&amp;game_type=free" href="http://www.gsn.com/games/free/avantgrid/">Avant Grid</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=bejeweled2&amp;game_type=free" href="http://www.gsn.com/games/free/bejeweled2/">Bejeweled 2</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/bejeweled2/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/games/free/bejeweled2/" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=bejeweledtwist&amp;game_type=cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=50">Bejeweled Twist</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=50" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=bigmoney&amp;game_type=free" href="http://www.gsn.com/games/free/bigmoney/">Big Money</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/bigmoney/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/games/free/bigmoney/" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=blockwerx&amp;game_type=cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=25">Blockwerx</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=25" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=brickout&amp;game_type=cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=11">Brickout</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=11" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=chuzzle&amp;game_type=cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=152">Chuzzle</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=152" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=dinerdash&amp;game_type=free" href="http://www.gsn.com/games/free/dinerdash/">Diner Dash</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/dinerdash/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/games/free/dinerdash/" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=doubletrouble&amp;game_type=free" href="http://www.gsn.com/games/free/doubletrouble/">Double Trouble</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_token" href="http://www.gsn.com/games/free/doubletrouble/" alt="Play for Tokens" title="Play for Tokens"><img src="/dynamic/images/games/layout/gamelist_icon_token.gif"></a>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=fizgig&amp;game_type=free" href="http://www.gsn.com/games/free/fizgig/">Fizgig!</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=freezerburn&amp;game_type=free" href="http://www.gsn.com/games/free/freezerburn/">Freezer Burn</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=kritterkrawler&amp;game_type=free" href="http://www.gsn.com/games/free/kritterkrawler/">Kritter Krawler</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=luxor&amp;game_type=cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=33">Luxor</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=33" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=swapit&amp;game_type=cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=20">SwapIt!</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/cgi/cash/index.pl?game_id=20" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=salarmycoincatch&amp;game_type=free" href="http://www.gsn.com/games/free/salarmycoincatch/">Salvation Army Coin...</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=vegasnights&amp;game_type=free" href="http://www.gsn.com/games/free/vegasnights/">Vegas Nights</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/vegasnights/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_odd">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=swapit_winter&amp;game_type=free" href="http://www.gsn.com/games/free/swapit_winter/">Winter SwapIt!</a>
+
+      <a class="gamelist_icon gamelist_leaderboard" href="http://www.gsn.com/games/free/swapit_winter/" alt="Play for Oodles" title="Play for Oodles"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard.gif"></a>
+
+      <span class="gamelist_icon gamelist_cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash_gray.gif"></span>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      <div class="gamelist_game_even">
+
+
+      <a class="gamelist_link" rel="/cgi/nosession/xml/getGameToolTip.pl?keyword=zuma&amp;game_type=free" href="http://www.gsn.com/games/free/zuma/">Zuma</a>
+
+      <span class="gamelist_icon gamelist_leaderboard"><img src="/dynamic/images/games/layout/gamelist_icon_leaderboard_gray.gif"></span>
+
+              <a class="gamelist_icon gamelist_cash" href="http://www.gsn.com/games/free/zuma/" alt="Play for Cash" title="Play for Cash"><img src="/dynamic/images/games/layout/gamelist_icon_cash.gif"></a>
+
+       <span class="gamelist_icon gamelist_token"><img src="/dynamic/images/games/layout/gamelist_icon_token_gray.gif"></span>
+
+      </div>
+      </div>
+
+
+</div>
+
+<div id="top_games_link">
+<a href="javascript:toggleTopGames();">Click Here</a> <span id="click_text">to view all of our games.</span>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function() { 
+        $('a.gamelist_link').cluetip({sticky:false,arrows:false,cursor:'pointer',positionBy:'fixed',topOffset:-128,leftOffset:-3,cluetipClass:'gsngamelist',width:346,height:157,attribute:'rel'}); 
+    });
+
+function toggleTopGames() {
+    $("#showallgames").toggle();
+    if($("#showallgames").is(":visible")) {
+        $("#click_text").text("to hide all games.");
+    } else {
+        $("#click_text").text("to view all of our games.");
+    }
+}
+
+</script>
+
+
+
+</div>
+
+</div>
+<div style="clear:both;">&nbsp;</div>
+
+
+
+	
+
 		 
-		<div id="doubletrouble_button">
-        <a href="http://www.gsn.com/games/free/doubletrouble"><img src="http://www.gsn.com/dynamic/images/games/doubletrouble/rail.gif"></a>
-        </div>
 		
 
-         <a href="http://www.gsn.com/bingoblitz/" id="bingoblitz_link">
-		 <div id="bblink_div">
-         <div id="jackpot">$1,000</div>
-         </div></a><div class="clear-all"></div>
 
-        <div id="dond_button">
-         <a href="http://www.gsn.com/games/free/deal/"><img src="http://www.gsn.com/dynamic/images/games/deal/dond_rail.gif"></a><br>
-		 </div>
 		 
-	     <div id="dond_button">
-         <a href="http://www.gsn.com/wonderwheel/"><img src="http://www.gsn.com/dynamic/images/wonderwheel/wonderwheel_rail.gif"></a><br>
-		 </div>
 
          
 
-		 <span id="railbanner"><iframe id="consumer_ad_180_320" style="width:180px; height:320px;" scrolling="no" frameborder="0" src="http://ad.doubleclick.net/adi/N5412.gsn/other_rail;dept=other;title=rail;sect=other;pgid=rail;sf=;regi=n;rgen=null;ra21=null;null;null;null;rzip=null;rst=null;rpov=null;rcb=null;kw=null;prz=;tile=3;pos=null;sz=180x320;ord=6369607882547?"></iframe>
-
-
-</span>
-         <div class="gsn-rail-box-bot"><span></span></div>
-         </div>
-
-         <div class="gsn-rail-box" id="gsn-rail-profile">
-             <div class="rail-headertext">Register</div>
-             <p>Passionate for playtime? <a href="javascript:displayAcctModal('join', '');">Register at GSN.com</a> and play every day! Banish boredom with popular online games or play along with hit GSN game shows for your chance to WIN!</p>
-			 <p>Already have an account? <a href="javascript:displayAcctModal('login', '');">Click Here to Login</a></p>
-        <div class="gsn-rail-box-bot"><span></span></div>
-        </div>
-
-
-         <div class="gsn-rail-box" id="gsn-rail-goingon">
-             <span class="rail-headertext">On GSN </span>
-             <div class="gsn-rail-subbox">
-             
 
 
 
-
-      <div class="gsn-rail-programming">On <span class="textUpper">Now</span>:</div>
-      <div class="gsn-rail-programming-show"><span class="showtime">11:00AM</span>
-      
-      </div>
-      <div class="gsn-rail-programming">Up <span class="textUpper">Next</span>:</div>
-      <div class="gsn-rail-programming-show"><span class="showtime">11:00AM</span>
-      
-      </div>
-
-
-
-
-
-
-             </div>
-             <div class="gsn-rail-subbox-bot"><span><img src="/dynamic/images/skin/template/blank.gif"></span></div>
-             <a href="http://www.gsn.com/cgi/onair/program_schedule.html" class="goingon-block">View TV Schedule</a>
-             <a href="http://www.gsn.com/cgi/onair/program_schedule.html" class="goingon-block">Channel Finder</a>
-             <a href="http://www.gsn.com/forums/gsn_login.php" class="goingon-block">Message Board</a>
-             <div class="gsn-rail-box-bot"><span></span></div>
-         </div>
-      </div>
-  </div>
-  <div style="clear:both">&nbsp;</div>
-  </div>
 	
-  <div id="railcap">&nbsp;</div>
 
 
 
@@ -630,19 +1807,22 @@ posted. </p>
 		<span id="bcrf"><a href="http://www.gsn.com/bcrf"><img src="http://www.gsn.com/dynamic/images/skin/logo_BCRF.gif" alt="GSN is a proud supporter of the Breast Cancer Research Foundation" border="0" title="GSN is a proud supporter of the Breast Cancer Research Foundation"></a></span>
 		<span id="bbb"><img src="http://www.gsn.com/dynamic/images/skin/bbb.jpg" alt="GSN has an &quot;A&quot; rating with the BBB" border="0" title="GSN has an &quot;A&quot; rating with the BBB"></span>
 		<span id="bottomadbanner">
-		<iframe id="consumer_ad_728_91" style="width:728px; height:91px;" scrolling="no" frameborder="0" src="http://ad.doubleclick.net/adi/N5412.gsn/other_other;dept=other;title=other;sect=corporate;pgid=privacy;sf=;regi=n;rgen=null;ra21=null;null;null;null;rzip=null;rst=null;rpov=null;rcb=null;kw=null;prz=;tile=7;pos=bottom;sz=728x91;ord=6369607882547?"></iframe>
+		<iframe id="consumer_ad_728_91" style="width:728px; height:91px;" scrolling="no" frameborder="0" src="http://ad.doubleclick.net/adi/N5412.gsn/other_other;dept=other;title=other;sect=corporate;pgid=privacy;sf=;regi=n;rgen=null;ra21=null;null;null;null;rzip=null;rst=null;rpov=null;rcb=null;ghub=;kw=null;prz=;tile=7;pos=bottom;sz=728x91;ord=4149345467771?"></iframe>
 
 
 
 		</span>
 	</div>
 
+<div class="clear-float"></div>
+</div>
+<div class="clear-float"></div>
 </div>
 
 <div class="clear-float"></div>
 </div>
 <div id="shell_bot_shadow" class="collapse"></div>
-<div id="shell_bot">
+<div id="shell_bot" class="">
 
 <div id="footer">
 <table id="footerlinks">
@@ -655,27 +1835,30 @@ posted. </p>
 <td><h1>TV</h1><ul>
 <li><a href="http://tv.gsn.com/">Home</a></li>
 <li><a href="http://tv.gsn.com/shows/baggage/">Baggage</a></li>
-<li><a href="http://tv.gsn.com/shows/latenightliars/">Late Night Liars</a></li>
-<li><a href="http://www.gsn.com/shows/thenewlywedgame/">The Newlywed Game</a></li>
-<li><a href="http://tv.gsn.com/shows/catch21/">Catch 21</a></li>
+<li><a href="http://tv.gsn.com/shows/improv/">Drew Carey's Improv-A-Ganza</a></li>
 <li><a href="http://tv.gsn.com/shows/highstakespoker/">High Stakes Poker</a></li>
+<li><a href="http://tv.gsn.com/shows/lovetriangle/">Love Triangle</a></li>
+<li><a href="http://tv.gsn.com/shows/thenewlywedgame/">The Newlywed Game</a></li>
 </ul></td>
 <td><h1>Games</h1><ul>
 <li><a href="http://www.gsn.com/games/cash/">Cash Competitions</a></li>
 <li><a href="http://www.gsn.com/games/free/">Free Games</a></li>
-<li><a href="http://www.gsn.com/oodles/?utm_source=gsn&amp;utm_medium=wtw&amp;utm_campaign=Sweepstakes%20bottom_right">Start Winning</a></li>
 </ul></td>
-<td><h1>Community</h1><ul>
-<li><a href="http://www.gsn.com/community/">Public Profile</a></li>
-<li><a href="http://www.gsn.com/community/buddy_list.html">Buddy List</a></li>
-<li><a href="http://www.gsn.com/community/player_search.html">Player Search</a></li>
-<li><a href="http://www.gsn.com/community/messages.html">Messages</a></li>
-<li><a href="http://www.gsn.com/community/comment_wall.html">Comment Wall</a></li>
+<td><h1>My GSN</h1><ul>
+<li><a href="http://www.gsn.com/mygsn/buddies.html">Buddy List</a></li>
+<li><a href="http://www.gsn.com/mygsn/messages.html">Messages</a></li>
+<li><a href="http://www.gsn.com/mygsn/player_search.html">Player Search</a></li>
+<li><a href="http://www.gsn.com/mygsn/account.html">Public Profile</a></li>
+</ul></td>
+<td><h1>Tokens</h1><ul>
+<li><a href="https://www.gsn.com/payment">Get Tokens</a></li>
+<li><a href="http://www.gsn.com/mygsn/">My Tokens</a></li>
+<li><a href="http://www.gsn.com/cgi/corporate/tokens_terms.html">Tokens terms&nbsp;&amp; <br>conditions</a></li>
 </ul></td>
 <td><h1>Oodles</h1><ul>
-<li><a href="http://www.gsn.com/oodles/account.html">My Oodles</a></li>
-<li><a href="http://www.gsn.com/oodles/ways_to_win.html">What's an Oodle</a></li>
-<li><a href="http://www.gsn.com/cgi/corporate/oodles_terms.html">Oodles terms &amp; <br>conditions</a></li>
+<li><a href="http://www.gsn.com/mygsn/todoodles.html">Win Oodles</a></li>
+<li><a href="http://www.gsn.com/mygsn/">My Oodles</a></li>
+<li><a href="http://www.gsn.com/cgi/corporate/oodles_terms.html">Oodles terms&nbsp;&amp; <br>conditions</a></li>
 </ul></td>
 <td><h1>Prizes</h1><ul>
 <li><a href="http://www.gsn.com/cgi/prizes/index.html">Featured Events</a></li>
@@ -683,23 +1866,24 @@ posted. </p>
 </ul></td>
 <td><h1>Corporate</h1><ul>
 <li><a href="http://tv.gsn.com/about.jsp">About</a></li>
-<li><a href="http://www.gsn.com/cgi/help/index.html">Help</a></li>
-<li><a href="http://www.gsn.com/cgi/help/contact.html">Contact</a></li>
-<li><a href="http://www.gsn.com/cgi/corporate/privacy.html">Privacy</a></li>
-<li><a href="http://www.gsn.com/cgi/corporate/terms.html">Terms of Service</a></li>
-<li><a href="http://corp.gsn.com/">Press</a></li>
 <li><a href="http://www.gsn.com/cgi/careers/index.html">Careers</a></li>
+<li><a href="http://www.gsn.com/cgi/help/contact.html">Contact</a></li>
+<li><a href="http://www.gsn.com/cgi/help/index.html">Help</a></li>
+<li><a href="http://corp.gsn.com/">Press</a></li>
+<li><a href="http://www.gsn.com/cgi/corporate/privacy.html">Privacy</a></li>
+<li><a href="http://www.gsn.com/cgi/corporate/submission_policy.html">Submission Policy</a></li>
+<li><a href="http://www.gsn.com/cgi/corporate/terms.html">Terms of Service</a></li>
 </ul></td>
 <td><h1>Log In</h1><ul>
-<li><a href="http://www.gsn.com/cgi/account/account_edit.html">My Account</a></li>
-<li><a href="javascript:displayAcctModal('join','');">Get an Account</a></li>
 <li><a href="javascript:displayAcctModal('forgot_password','');">Forgot Password</a></li>
+<li><a href="http://www.gsn.com/cgi/account/register.html">Get an Account</a></li>
+<li><a href="http://www.gsn.com/mygsn/account.html">My Account</a></li>
 </ul></td>
 </tr>
 </tbody></table>
 
 
-<a href=""><img id="footerlinks_gsn" src="http://www.gsn.com/dynamic/images/skin/template/blank.gif" alt="Game Show Network" title="Game Show Network"></a>
+<a href=""><img id="footerlinks_gsn" src="/dynamic/images/skin/template/blank.gif" alt="Game Show Network" title="Game Show Network"></a>
 <span id="legalfooter">© Game Show Network, LLC 2004-2011.  All Rights Reserved. GSN and its distinctive logo are trademarks of Game Show Network, LLC.</span>
 <span id="footerlinks_etc">
 <p><a href="http://www.gsn.com">GSN.com</a> is the online home of <a href="http://www.gsn.com">Game Show Network</a>, offering the latest news on your favorite <a href="http://www.gsn.com/game_shows.html">game shows</a> 
@@ -718,16 +1902,14 @@ and a <a href="http://www.gsn.com/web-arcade.html">web arcade</a> where you can 
 
 <div id="conad_1x1">
 <script language="JavaScript" type="text/javascript">
-document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/N5412.gsn/other_other;dcopt=ist;dept=other;title=other;sect=corporate;pgid=privacy;sf=;regi=n;rgen=null;ra21=null;null;null;null;rzip=null;rst=null;rpov=null;rcb=null;kw=null;prz=;tile=10;pos=bottom;sz=1x1;ord=6369607882547?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/N5412.gsn/other_other;dcopt=ist;dept=other;title=other;sect=corporate;pgid=privacy;sf=;regi=n;rgen=null;ra21=null;null;null;null;rzip=null;rst=null;rpov=null;rcb=null;kw=null;prz=;tile=10;pos=bottom;sz=1x1;ord=6369607882547?" type="text/javascript"></script>
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/N5412.gsn/other_other;dcopt=ist;dept=other;title=other;sect=corporate;pgid=privacy;sf=;regi=n;rgen=null;ra21=null;null;null;null;rzip=null;rst=null;rpov=null;rcb=null;ghub=;kw=null;prz=;tile=10;pos=bottom;sz=1x1;ord=4149345467771?" type="text/javascript"><\/script>');
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/N5412.gsn/other_other;dcopt=ist;dept=other;title=other;sect=corporate;pgid=privacy;sf=;regi=n;rgen=null;ra21=null;null;null;null;rzip=null;rst=null;rpov=null;rcb=null;ghub=;kw=null;prz=;tile=10;pos=bottom;sz=1x1;ord=4149345467771?" type="text/javascript"></script>
 
 
 
 </div>
 
 </div>
-
-
 
 
 
@@ -745,12 +1927,12 @@ pageTracker._trackPageview();
 //pageTracker._trackPageview("/relative-directory/filename.html");
 </script>
 
-
 <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
 <script type="text/javascript">
 FB.init("a5c2116542c2134d3e9f46d3f2792ea5", "/cgi/xd_receiver.htm");
-
 </script>
+
+
 
 
 
