@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cineworld.co.uk privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628050157id_/http%3A//www.cineworld.co.uk/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cineworld.co.uk privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227031227id_/http%3A//www.cineworld.co.uk/policy) for the most accurate reproduction.*
 
 # Cineworld Cinemas: Privacy Policy
 
 ## Privacy Policy
 
-Cineworld is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. All defined terms contained within this privacy policy are defined in our [Terms](https://web.archive.org/web/20110628050157id_/http%3A//terms).
+Cineworld is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. All defined terms contained within this privacy policy are defined in our [Terms](https://web.archive.org/web/20111227031227id_/http%3A//terms).
 
 We use the information we collect about you to help efficiently administer our business and the services we provide to you in accordance with the Data Protection Act 1998. We take privacy seriously and endeavour to be as open as possible in terms of how your information is used.
 
