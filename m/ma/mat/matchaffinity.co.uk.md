@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matchaffinity.co.uk privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629150920id_/http%3A//www.matchaffinity.com/misc/privacy_g.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matchaffinity.co.uk privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227121432id_/http%3A//www.matchaffinity.com/misc/privacy_g.php) for the most accurate reproduction.*
 
 # MatchAffinity Privacy Policy.
 
@@ -24,7 +24,7 @@
 
 **4\. What personal or other data do we collect?**
 
-4.1 We collect and store the information which you enter into forms on our site, for example when you register as a member or apply for a Pass on our site (eg your name, address, contact details and payment information), post a profile or personal ad, enter search criteria, upload photos or video, participate in surveys or contests or the like, or communicate with other members via our site including chat, video etc. You may opt out of providing any such information by simply choosing not to complete the relevant form but certain information is compulsory if you want to use a particular part of our services.
+4.1 We collect and store the information which you enter into forms on our site, for example when you register as a member or apply for a Pass on our site (eg your name, address, contact details and payment information), post a profile or personal ad, enter search criteria, upload photos or video, participate in surveys or contests or the like, or communicate with other members via our site including chat, video etc. We have the ability to retain your contact details should you input them on our website even if you do not complete your registration. You may opt out of providing any such information by simply choosing not to complete the relevant form but certain information is compulsory if you want to use a particular part of our services.
 
 4.2 Certain of the information which you voluntarily provide (eg photos or video) may constitute "sensitive data" eg by revealing your ethnic origin, religion and/or sexual orientation. By providing such data you specifically consent to our processing it in accordance with the policy.
 
