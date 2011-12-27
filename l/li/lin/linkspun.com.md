@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkspun.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518012300id_/http%3A//www.linkspun.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkspun.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227033529id_/http%3A//www.linkspun.com/privacy.php) for the most accurate reproduction.*
 
 # Linkspun | Hard Link Generation And Tracking.
 
