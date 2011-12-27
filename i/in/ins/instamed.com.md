@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instamed.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514170714id_/http%3A//www.instamed.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instamed.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227064218id_/http%3A//www.instamed.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement – InstaMed – Healthcare Payments Simplified
 
