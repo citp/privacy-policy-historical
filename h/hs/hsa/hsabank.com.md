@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsabank.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522203310id_/http%3A//www.hsabank.com/HSABank/%7E/media/Files/privacy_statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsabank.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227122235id_/http%3A//www.hsabank.com/HSABank/%7E/media/Files/privacy_statement.pdf) for the most accurate reproduction.*
 
 # FACTS
 
