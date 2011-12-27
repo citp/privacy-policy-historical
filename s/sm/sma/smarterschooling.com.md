@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarterschooling.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617015458id_/http%3A//www.smarterschooling.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarterschooling.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227025831id_/http%3A//www.smarterschooling.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Smarter Schooling
 
@@ -42,9 +42,7 @@ We may find it necessary or be legally obligated to update this Privacy Policy f
 
 If you have any questions about anything in this Privacy Policy or about collection of personally identifiable information, or information generally, please contact us as follows: 
 
-Business and Legal Affairs   
-SmarterSchooling.com/ValueClick Inc.   
-30699 Russell Ranch Road  
-Suite 250  
-Westlake Village, CA 91362  
-E-Mail: [privacy@valueclick.com](mailto:privacy@valueclick.com)
+SmarterSchooling.com   
+PO Box 168  
+Monrovia, CA 91017  
+E-Mail: [contact us](https://web.archive.org/contact.html)
