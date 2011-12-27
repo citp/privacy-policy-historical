@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sesac.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523130107id_/http%3A//www.sesac.com/About/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sesac.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227080139id_/http%3A//www.sesac.com/About/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy :: SESAC
 
