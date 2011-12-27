@@ -1,60 +1,82 @@
-> *The following text is extracted and transformed from the extreme-seo.net privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321213018id_/http%3A//www.extreme-seo.net/index-7.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extreme-seo.net privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227153804id_/http%3A//www.extreme-seo.net/privacy-policy.php) for the most accurate reproduction.*
 
-# Srilanka Search Engine Ranking Service Company|Search Engine Optimization Services
+# Privacy Policy - Extreme Seo Internet Solution Privacy Policy
 
-**Our Commitment To Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+**What information do we collect?**
 
-**The Information We Collect**  
-This notice applies to all information collected or submitted on the Extreme-seo.net Search Engine Optimization and Placement Services website. On some pages, you can make requests, register to receive materials, and use free webmaster tools. The types of personal information collected at these pages are: 
+When you are registering on our web site, place order, subscribe our newsletter, answer to survey, or fill up a form, we ask you to provide information about you. When you register or order on our web site, you would be requested to give your name, phone number, mailing address or e-mail address. However, you may also visit our web site anonymously. As the 3rd party vendor, Google uses cookies for serving ads on your web site. The use of such DART cookies by Google allows it to be serving ads to the users of your web site basing on the frequency of their visits to your web sites, and other web sites in Internet. Users might avoid the use of DART cookie by going to the privacy policy network of Google ad & content.
 
-Name  
-Company name  
-Address  
-Email address  
-Phone number  
-Web address  
-Descriptions of business issues 
+ 
 
-**The Way We Use Information**
+**What do we use your information for?**
 
-We use the information you provide about yourself and your business to reply to your inquiries. We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. We use non-identifying and aggregate information to better design our website. For example, we track how frequently individual pages are visited as an indicator of interest levels in different service areas. We use aggregate data obtained through our free tools to research and compare search engines. Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above.
+Any information that we gather from you might be utilized in any of the following purpose:
 
-**Our Data Security**
+a.      For personalizing your experience – basing on your information, we would be able to respond better to your personal needs.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+b.      For improving customer service – basing on your information, we would be able to respond effectively to your requests of customer service as well as support needs.
 
-**Our Commitment To Children's Privacy**
+c.       For processing transactions – any of your information, no matter if it is private or public, would remain confidential, and would not be exchanged, transferred, sold, or passed to other company at any cost, without your full consent, apart from the expressed purpose for delivering the requested purchased products and services.
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+d.      For sending periodic emails – email address that you give for the order processing, would be used for sending you information as well as updates related to your orders only.
 
-**How You Can Access**
+**How do we protect your information?**
 
-You can request that we delete your information by emailing us. 
+We apply various security measures for maintaining and ensuring the protection of your information, when you are placing order or entering, or submitting, or accessing your information.
 
-**How To Contact Us**
+We are offering you to use a secured server. Every sensitive or credit information that you have supplied is transmitted through SSL (Secure Socket Layer) technology, and encrypted in our providers database of gateway Payment for the accessibility only by those who are authorized with the special accessing rights to the systems, and are requested and trusted to be keeping all your information classified. After the transaction, your personal information (credit cards numbers, numbers of social security, financials, and so on) would be recorded on file just for 60 days only.
 
-Should you have other questions or concerns about these privacy policies, please call us at +94-24492-3310 or +94-24492-1511 or send us email by Mail : support@extreme-seo.net 
+Yes, we do use cookies. Cookies are the small files which a web site or the service provider of the website transmits to the hard drive of your computers by means of your browser, that is, if you let to, which facilities the websites or the systems of its service providers to identify your web browser, and retain and keep in mind certain information. Cookies are used by us for helping us to remember you and process items into your cart, besides understanding and saving your predilections for your future visits.
 
-**Our Gurantee**  
-Extreme-Seo.net promises a transparent and up front process. We will clearly explain any steps that we recommend to be taken on behalf of your site - before any changes take place.Seo-Extreme.net guarantees to never use banned or questionable practices such as: 
+  
+**Do we disclose any information to outside parties?**
 
-Mirror pages and sites   
-Shadow domains   
-Search engine Cloaking   
-Doorway pages Generating  
-Link Farming   
-Improper redirects   
-Meta Data forgery   
-Spam Software submissions   
-Hidden or invisible links   
-Hidden or invisible text   
-Special browser software   
-Pay-Per-Click (PPC) advertising arbitrage   
-Keyword stuffing   
-Spyware / Scumware / Adware or other Malware   
-Unauthorized automated queries
+We absolutely do not trade, sell, or transfer your personal identifiable information to outer parties. It is not inclusive of the trusted 3rd parties who help us operate our web site, conduct our business, or provide service to you, as long as those third parties consent to keep your information in confidence. We might release information about you when we would believe that releasing it would be suitable for complying with law, enforcing the policies of our web site, or protecting our rights, safety, or property, or of others. Nevertheless, the non-personal certain visitor information might be given to third parties for advertising, marketing, and other purposes.
 
-Extreme-Seo.net guarantees that your search engine partner will have clearly traceable business structures. Our business is Private Sector and Located in Staate of North Province , Srilanka as S-V-N-networks Internet Marketing, and our business contact information in LK is clearly stated on this site. All of our WhoIS information clearly states these regular business structures. 
+**Links of Third parties**
 
-E-mail: support@extreme-seo.net 
+Seldom, at our prudence, we might include or suggest products and services of third parties on our web site. These 3rd party web sites have their independent and separate privacy policies. Therefore, we do not have any responsibility as well as liability for the activities and contents of the linked web sites. Nevertheless, we do attempt to guard the veracity of our web site, welcome feedbacks about these web sites as well.
+
+**In Compliance** **with Children’s Online Privacy Protection Act**  
+We fulfill all the requirements of Children’s Online Privacy Protection Act (COPPA). Collection of information from those who are younger than 13 years is not done since our products and services and website are for those people who are minimum of 13 years of age or older than that.
+
+Due to the confidence that we have in the way we work, we offer guarantee of money back. The guarantee contract is for only minimum of 3 months, and 36 months maximum signed by the customers for only Search Engine Optimization only. If you happen to be dissatisfied with our services, then send your request of refund to: [admin@extreme-seo.net](mailto:admin@extreme-seo.net). We will then try to figure out the reasons behind your dissatisfaction and will reduce our basic charges of off-page optimization, and costs of directory submission, submission of search engine, article submission, and submission of press release. Then we would be sending your refund via the same method of payment that you have followed.
+
+Note that, money-back guarantee or refunds are not offered for off-page work, like submission projects of search engine, submission projects of directory, submission projects of article, submission projects of press release, bulk orders of content creations and such other off-page projects.
+
+  
+**Cancellation of Contract:**
+
+If you are subscribed to monthly SEO package or Campaign monitoring monthly contract with the Extreme SEO Internet Solutions, then the contract will be intact as long as it will be cancelled by any of the party with prior notice of 30 days expiring any time when the initial terms or so ends compliant with other clauses (if any) that is mentioned in the contracts. The cancellation of the contract, arising however, shall not be affecting or prejudicing the rights accrued by the other apprehensive parties as to the cancellation or the persistence of any of the provision expressly mentioned for surviving or implicitly surviving cancellation.
+
+**Security and Abuse:**
+
+We have no affiliate or reseller program; hence we have no affiliates or resellers. However, we do accept request of outsource projects, even though Extreme SEO Internet Solutions have no liability for this sort of business. We never request for your financial information or passwords in any e-mail. You shall only be sharing information regarding your website when you have once log in directly to [http://www.extreme-seo.net](http://www.extreme-seo.net/) from your web browser. In case you receive or find any phishing attempts or fake emails, kindly report the matter to [abuse@extreme-seo.net](mailto:abuse@extreme-seo.net).
+
+**Online Privacy Policy Only**
+
+The privacy online policy is applicable only to the information that are collected via our web site, not the ones collected offline.
+
+**Terms and Conditions**
+
+Kindly please visit our section of Terms and Conditions where there is mentioned the disclaimers, use and the limitations of responsibility regarding the usage of our web site <http://www.extreme-seo.net/terms-of-service.php>.
+
+**Your Consent**
+
+If you use our web site, you are consenting to the privacy online policy.
+
+**Changes to our Privacy Policy**
+
+If there is any changes made to our privacy policies, we would be updating the date of the modification of the privacy policy at the end of the page.
+
+This Privacy Policy was last modified on 29-May-2011
+
+ **Contacting Us**
+
+If there are any questions regarding this (our ) Privacy Policy you may contact us using the information below. 
+
+Shree Vengadeshwara Networks (P) LTD  
+196,1st Lane,Goodshed Road  
+Vavuniya, NP 43000,Srilanka.  
+Email : support@extreme-seo.net  
+Ph: 0094242225992 
