@@ -1,22 +1,48 @@
-> *The following text is extracted and transformed from the stitchlabs.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628095300id_/http%3A//www.stitchlabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stitchlabs.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227194140id_/http%3A//www.stitchlabs.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Stitch Labs
+# Privacy Policy – Stitch Labs
 
-We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+Privacy Policy
 
-  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of [Terms of Service](http://www.stitchlabs.com/terms), or as otherwise required by law.
-  * We transfer information about you if Stitch Labs is acquired by or merged with another company. In this event, Stitch Labs will notify you before information about you is transferred and becomes subject to a different privacy policy.
+Our Commitment To Privacy
 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where private information may be requested.
 
+The Information We Collect:
 
-When you register for Stitch Labs we ask for information such as your name, company name, email address, credit card information. Members who sign up for the free account are not required to enter a credit card. Stitch Labs uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
+This notice applies to all information collected or submitted on the Stitch Labs, Inc. website. The types of information collected at these pages are:
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. Cookies are required to use the Stitch Labs service. We use cookies to record current session information, but do not use permanent cookies. You are required to log-in to your Stitch Labs Site after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
+Name  
+Address  
+Email address  
+Phone number  
+Credit/Debit Card information  
+Contact information of the companies supplied by customers  
+Customer product catalog information  
+Customer information relating to invoices, payments, packages and shipments  
+Files uploaded by customers, including contracts, manufacturing specs, and other private information  
+Inventory information
 
-Stitch Labs uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Stitch Labs. Although Stitch Labs owns the code, databases, and all rights to the Stitch Labs application, you retain all rights to your data.
+The Way We Use Information:
 
-Stitch Labs may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the [Terms of Service](http://www.stitchlabs.com/terms).
+We use the information you provide us when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
 
-Stitch Labs may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Stitch Labs primary account holder account or by placing a prominent notice on our site.
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-Any questions about this Privacy Policy should be addressed to support at stitchlabs.com
+You can register with our website if you would like to receive information about our new services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
+
+We use non-identifying and aggregate information to better design our website and potentially share with 3rd parties. For example, we may tell a 3rd party that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
+
+Finally, we never use or share the private information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+
+Our Commitment To Data Security 
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+
+How You Can Access Or Correct Your Information 
+
+You can access all your private information that we collect online via the tool, admin and account pages of your account. You can correct factual errors in your private information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+
+How To Contact Us 
+
+Should you have other questions or concerns about these privacy policies, please call us at +1 415.323.0630 and/or [info@stitchlabs.com](mailto:info@stitchlabs.com).
