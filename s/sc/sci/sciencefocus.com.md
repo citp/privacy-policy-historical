@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencefocus.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614222249id_/http%3A//www.bbcworldwide.com/bbcworldwidewebsites-privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencefocus.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227021043id_/http%3A//www.bbcworldwide.com/bbcworldwidewebsites-privacypolicy.aspx) for the most accurate reproduction.*
 
 # bbcworldwidewebsites-privacypolicy
 
