@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecards.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229214332id_/http%3A//www.ecards.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecards.co.uk privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227010710id_/http%3A//www.ecards.co.uk/privacy.php) for the most accurate reproduction.*
 
 # eCards.co.uk - Privacy - Send FREE e-Cards here! Birthday, Christmas, Romance and many more...
 
@@ -61,7 +61,7 @@ Both sender and recipient information will be held by us so that if either the s
 Any additional information you choose to give us about services, interests or lifestyle and information gathered via cookies will be used to learn about our users and improve the Website and Service we provide and advertising we show you. 
 
 Third party use of information   
-We may pass the information you provide to us to third parties who may use this information to decide whether to advertise with us and/or ask us to contact you on their behalf and/or contact you directly with offers of products, services and information that may be of interest to you. If you are a recipient of an eCard we will not use your data, which has been provided by a sender in order to send you an eCard, in this way. 
+We may pass the information you provide to us to third parties who may use this information to decide whether to advertise with us and/or ask us to contact you on their behalf and/or contact you directly with offers of products, services and information that may be of interest to you. The personal information you provide may also be used for the purposes of: identity verification, credit and risk management, revenue collection, database verification and enhancement. 
 
 We contract with a third party to deliver emails to our database of users. The third party is an accredited delivery platform which has been white listed with all major ISPs. 
 
@@ -89,16 +89,15 @@ Want to change your details, here's how:-
 If you would like us to update your contact information, remove your name from our mailing list, or if you have any questions about eCard's Privacy Policy or your personal information, please don't hesitate to contact us. 
 
 eCards Media Limited trading as eCards.co.uk   
-Unit 9   
-Farm Road   
-Caddsdown Industrial Park   
+Unit 6   
+Alverdiscott Road   
+Alverdiscott Industrial Park   
 Bideford   
 North Devon   
-EX39 3BT 
+EX39 4LQ 
 
-Telephone number: +44 (0) 1237 426555   
-Fax number: +44 (0)1237 426415   
-Email: [contacting admin at eCards.co.uk](http://www.ecards.co.uk/help.php?#contact)
+Telephone number: +44 (0) 1237 420156   
+Fax number: +44 (0)1237 470525 Email: [contacting admin at eCards.co.uk](http://www.ecards.co.uk/help.php?#contact)
 
 eCards Media Limited is a company incorporated in England and Wales with Company number: 5455777. 
 
