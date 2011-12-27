@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the redspottedhanky.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609013447id_/http%3A//www.redspottedhanky.com/policies/privacy-and-data-protection-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redspottedhanky.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227212541id_/http%3A//www.redspottedhanky.com/policies/privacy-and-data-protection-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Data Protection Policy - redspottedhanky.com
 
-This privacy policy outlines the procedures redspottedhanky has in place regarding the collection and use of any personal information (i.e. information from which you can be identified) that you give to us, or that we collect when you use this website or SMS feedback service. We respect your privacy and take care in the storage and use of your personal information. 
+This privacy policy outlines the procedures redspottedhanky.com has in place regarding the collection and use of any personal information (i.e. information from which you can be identified) that you give to us, or that we collect when you use this website or SMS feedback service. We respect your privacy and take care in the storage and use of your personal information. 
 
 ## Privacy & Data Protection Policy
 
@@ -32,15 +32,15 @@ When you use our service we will collect, store and use the following kinds of p
 We will use personal data that we collect in the following ways:
 
   * To provide and administer the Services to you
-  * To administer our [loyalty card scheme ]
+  * To administer our loyalty card scheme
   * To operate the site from a technical and practical perspective
   * For internal record keeping
-  * To personalise your use of the site (for instance to follow up on purchases made on the site)
-  * For the purposes of customer care (for instance responding to complaints)
+  * To personalise your use of the site (for instance, to follow up on purchases made on the site)
+  * For the purposes of customer care (for instance, responding to complaints)
 
 
 
-In addition to use of your information as we have described above we may (if you have specifically opted in on registration with us) use your personal data to send you emails and marketing communications from us and from third parties where you have expressly opted in to this when you registered.
+In addition to the use of your information as we have described above we may (if you have specifically opted in on registration with us) use your personal data to send you emails and marketing communications from us and from third parties.
 
 Our use of your data for the above purposes may require us to pass on the information to third parties.
 
