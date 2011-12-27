@@ -1,65 +1,110 @@
-> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515105158id_/http%3A//www.vodafone.com.au/personal/aboutvodafone/legal/privacypolicy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227021026id_/http%3A//www.vodafone.com.au/personal/aboutvodafone/legal/privacypolicy/index.htm) for the most accurate reproduction.*
 
 # About - Legal - Privacy Policy - Vodafone Australia
 
-Vodafone Australia, as part of the world's largest mobile phone company, is committed to adopting the highest standards to safeguard our customers' personal information.
+Vodafone will always protect and maintain your privacy. This policy outlines how we collect, store, use and disclose the personal information that you provide us with.
 
-Vodafone, like other companies operating in Australia, is bound by the National Privacy Principles as set out in the _Privacy Act 1988 (Cth)_ and the _Privacy Amendment (Private Sector) Act 2000_.
+This Policy also confirms Vodafone’s obligations under the _Privacy Act 1988 (including the National Privacy Principles)_ and the _Telecommunications Act 1997._
 
-Vodafone's collection, use and disclosure of personal information is set out below:
+**Why do we collect personal information?**
 
-**What Personal Information does Vodafone collect and why?**
+Vodafone is required to collect certain details of your personal information in order to provide you with telecommunication services and products (including mobile phones and broadband).
 
-Vodafone collects personal information about you in order to provide personalised wireless telecommunications and information services.
+If you don’t provide us with the information required, we may not be legally allowed to provide you with the products and/or services you want.
 
-The personal information you provide to Vodafone will enhance the products and services that we offer you. The type of personal information we collect may include your name, address, telephone numbers, information on how you use our products and services (such as the type, date, time, location and duration of calls, messages or other mobile communications, the numbers you call and how much you spend, and information on your browsing activity when visiting one of our websites), and personal preferences. This information permits us to issue accurate bills and also helps us develop products and plans to suit your needs.
+**What personal information do we collect?**
 
-**How Vodafone may use your Personal Information**
+We may collect information such as your name, date of birth, physical address, email address, telephone number, bank account & credit card details, driver’s licence number and employment history
 
-The personal information you provide Vodafone may be used for a number of purposes connected with our business operations, which include:
+**How do we collect personal information?**
 
-  * processing your orders or applications;
-  * carrying out credit checking and scoring (unless we have agreed otherwise);
-  * providing you with products and/or services requested;
-  * billing you or administering your account;
-  * dealing with requests, enquiries or complaints and other customer care related activities;
-  * carrying out market and product analysis and marketing our products and services generally;
-  * contacting you about our group companies' products and services;
-  * registering your details and allocating or offering you rewards, discounts or other benefits and fulfilling any requests or requirements you may have in respect of our and our group companies' loyalty or reward programmes and other similar schemes; and
-  * carrying out any activity in connection with a legal, governmental or regulatory requirement on us or in connection with legal proceedings, crime or fraud prevention, detection or prosecution.
+We collect personal information in a number of ways, including:
 
-
-
-We may also use your personal information for purposes related to those described above which would be reasonably expected by you. For example, we may use your personal information to keep you informed about features of our telecommunications services or conducting analysis in order to provide better service to you. To opt-out of receiving certain Vodafone marketing materials, please contact **1555 from your Vodafone mobile** or **1300 650 410**. Please note that Vodafone will still need to send you essential information about your account or changes to your service.
-
-We will not use your information for purposes other than described above unless we have your consent or there are specified law enforcement or public health and safety reasons.
-
-**Sharing your Personal Information**
-
-Vodafone may disclose or receive personal information or documents about you to/from:
-
-  * credit providers or credit reporting agencies for the purposes permitted under the Privacy Act;
-  * law enforcement agencies to assist in the prevention of criminal activities;
-  * our service and content providers, dealers and agents, or any company within the Vodafone group for purposes that are related to providing you with a telecommunications service which would be reasonably expected.
+  * When you complete a Vodafone account application, service enquiry form, or similar;
+  * From other companies in the Vodafone group;
+  * From third party companies like credit reporting agencies, law enforcement agencies and other government entities;
+  * From publicly available sources of information like market research providers;
+  * When you visit our website, online store, Facebook page and other pages that we own and manage;
+  * When you visit external pages through our portals like Vodafone Live;
+  * During recordings of call made when you contact Vodafone. These calls may be recorded for training, quality and business purposes; and
+  * From our mobile base stations and other equipment that may collect information about your usage (including location-based information);
 
 
 
-Unless you consent, we will not disclose your personal information to third parties, other than those who have contracted with Vodafone to keep the information confidential, or who are subject to obligations to protect your personal information.
+We may also collect information by other means and will take all reasonable steps to inform you if and when we do.
 
-**Security of your Personal Information**
+**How is your personal information used?**
 
-We will take reasonable steps to ensure that the personal information we collect, use or disclose is accurate, complete, up-to-date and stored in a secure environment protected from unauthorised access, modification or disclosure.
+The personal information we collect may be used for a number of purposes related to providing you with mobile phone and broadband services including:
 
-Vodafone will take reasonable steps to let you know, generally, what sort of personal information we hold, for what purposes and how we collect, use and disclose that information.
+  * Processing orders or applications to become a customer;
+  * Carrying out credit checks and credit reporting;
+  * Generating bills, managing your account and carrying out debt-recovery functions;
+  * Dealing with enquiries or complaints and other customer care activities;
+  * Carrying out market analysis and product analysis and development;
+  * Contacting you about our products and services and those offered under other brands that our group owns – which may include marketing these products to you;
+  * Conducting internal investigations in relation to crime and fraud prevention, detection or prosecution;
+  * Training our staff; and
+  * For any other purposes that would be reasonably expected.
 
-If you would like to access the personal information that Vodafone holds about you, please complete the below form. The return address details are included on the form.
 
-[_Download Personal Information Request form_](https://web.archive.org/web/20110515105158id_/http%3A//www.vodafone.com.au/stelprd/groups/webcontent/documents/webcontent/vodafone-privacy-request-form.doc)
 
-**How to contact us**
+For other purposes, Vodafone will obtain your consent to use your personal information.
 
-If you have any queries or concerns, please contact Customer Care by phoning contact **1555 from your Vodafone mobile** or **1300 650 410** from any phone.
+**How to opt-out of marketing materials?**
 
-If you would like to report an alleged privacy breach, please fill in the below form. The return address details are included on the form. Please ensure the form is completed with all information requested. A member of Vodafone's Privacy team will be in contact within 14 days from receipt of your form.
+If you’d rather not receive communications about our latest products and services, you can opt out. Just contact **1555 from your Vodafone mobile** or **1300 650 410** and we'll do the rest. Just be aware that we will still need to send you essential information about your account, and/or changes to your service or plan
 
-[_Download Vodafone Privacy Breach form here_](https://web.archive.org/web/20110515105158id_/http%3A//www.vodafone.com.au/stelprd/groups/webcontent/documents/webcontent/vha-privacy-breach-form.doc)
+**Who may we provide your personal information?**
+
+Vodafone may disclose your personal information both within and outside Australia to:
+
+  * Credit providers or credit reporting agencies for the purposes permitted under the Privacy Act and credit reporting legislation;
+  * Our service and content providers, dealers and agents, contractors and advisers;
+  * Our mobile phone manufacturers and repairers;
+  * Vodafone Hutchison Australia and other companies in the Vodafone group;
+  * Your authorised representatives or legal advisors;
+  * Our professional advisors including lawyers, accountants, tax advisors and auditors;
+  * Debt collection agencies and other parties that assist with debt-recovery functions;
+  * Law enforcement bodies to assist in their functions, Courts of law or as otherwise required or authorised by law;
+  * Regulatory or government bodies for the purposes of resolving customer complaints or disputes both internally and externally or to comply with any investigation by one of those bodies
+  * Other telecommunications services providers for the purposes of both unwelcome calls and mobile number portability issues; and
+  * Any other person or for any other purposes that would be reasonably expected.
+
+
+
+We are required by law to disclose certain personal information about you (including your name, address, telephone number and address) to the operator of the Integrated Public Number Database (IPND). Personal information in the IPND is used to assist emergency services and safeguard national security. If you consent, information from the IPND may also be published in public directories or used by directory assistance.
+
+**How accurate is the personal information we hold about you?**
+
+We take all reasonable measures to ensure that the personal information we hold is accurate, complete and up-to-date. However, the accuracy of your information is largely dependent on what you provide us. To ensure that we have your most current and accurate personal information, please contact us when your information changes (e.g. if you change your name or move house).
+
+**What security measures do we use to protect your personal information?**
+
+The security of your personal information is given a high priority. We take all reasonable steps to securely store your personal information so that it is protected from unauthorised use, access, modification or disclosure. This includes both physical and electronic security measures.
+
+**Protecting your account from unauthorised access?**
+
+Anyone who knows your account PIN or online username and password can access your account. You must keep your PIN, username and password secure and only share these details with people you authorise to access and manage your Vodafone account. Vodafone accepts no responsibility for information disclosed to parties who know your PIN, username or password.
+
+**Can you access the personal information we hold about you?**
+
+Yes, however there are some exceptions by law which we will explain if relevant to your request. To request your personal information, just click the link below, complete the form, and return it to the address provided. We may charge reasonable costs for actioning your request.
+
+If you think your personal information may be inaccurate, incomplete or out of date, you can request it to be updated.
+
+[_Download Personal Information Request form_](https://web.archive.org/web/20111227021026id_/http%3A//www.vodafone.com.au/stelprd/groups/webcontent/documents/webcontent/vodafone-privacy-request-form.pdf)
+
+**How can you report a breach of your privacy?**
+
+If you believe your privacy has been compromised, please fill in the Privacy Breach form below and return it to the address provided. A member of our Privacy team will contact you within 10 business days.
+
+[_Download Vodafone Privacy Breach form here_](https://web.archive.org/web/20111227021026id_/http%3A//www.vodafone.com.au/stelprd/groups/webcontent/documents/webcontent/vha-privacy-breach-form.pdf)
+
+**Contact us**
+
+For any other questions regarding privacy, please contact Customer Care on **1555 from your Vodafone mobile** or **1300 650 410** from any phone.
+
+**Vodafone Privacy Policy July 2011**
+
+Vodafone Hutchison Australia Pty Limited ABN 76 096 304 620 Vodafone Australia Limited ABN 86 056 161 043 Vodafone Pty Limited ABN 76 062 954 554 Vodafone Network Pty Limited ABN 31 081 918 461 Registered address: Level 7, 40 Mount Street, North Sydney NSW 2060
