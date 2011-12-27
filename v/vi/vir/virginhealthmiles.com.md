@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginhealthmiles.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627235530id_/http%3A//us.virginhealthmiles.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginhealthmiles.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227012754id_/http%3A//us.virginhealthmiles.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Virgin HealthMiles - privacypolicy
 
