@@ -1,100 +1,60 @@
-> *The following text is extracted and transformed from the snakkle.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snakkle.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227201625id_/http%3A//www.snakkle.com/legal) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - Snakkle
 
-**Go Daddy Respects Your Privacy**
+**SNAKKLE Privacy Statement**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**(last modified 6/13/2011)**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This Privacy Statement relates to the websites owned or by Snakkle, LLC ( **“SNAKKLE”** ).  Additional information regarding your use of the SNAKKLE websites can be found in the Terms of Service located at <http://www.snakkle.com/terms-of-service/>). SNAKKLE may, in its sole discretion, modify or revise this Privacy Statement at any time, and you agree to be bound by such modifications or revisions.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+SNAKKLE has created this privacy statement in order to demonstrate its firm commitment to privacy. The following discloses our information gathering and dissemination practices for the SNAKKLE Websites and any other website under which it conducts business.
 
-**Information Collection and Use**
+**1\. A Special Note About Children**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Children under the age of 13 are not eligible to use our services and we ask that such persons not submit personal information to us.  We believe that is important that parents supervise their children when they are online.  As a result, we require that children under the age of 18 use this service only in conjunction with their parents or guardians.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**2\. Information We Collect and Our Use and Disclosure of Your Information**
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+> **2.1** We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to gather broad demographic information. ****
+> 
+> **2.2** We may use cookies on certain pages of our site.  Cookies are stored on your hard drive, not on our site.  Most cookies are “session cookies” which means that they are automatically deleted at the end of each session.  A cookie itself does not have the ability to automatically collect personal information about you.  A cookie can store certain information that identifies your computer to us so that you don’t have to re-enter your password as frequently when you use our site.
+> 
+> **2.3** Prior to providing us content or signing up to receive email or other notifications, the website may require users to give us contact information including your name, address and phone number and email address, as well as demographic information including zip code (and certain other information that may be optional) ****
+> 
+> **2\. 4** We also may occasionally send email to our users announcing special promotions changes in our services, and other information we believe will be of interest to our users. Users may opt-out of receiving future mailings; see the choice/opt-out section below.. Demographic and profile data is also collected at our site. This information may be shared with advertisers and our partners on an individual or aggregate basis.
+> 
+> **2.5** If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on our site, we may collect such information into a file specific to you.  We use information in the file that we maintain for you, and other information that we obtain from your use of the services, to resolve disputes, troubleshoot problems and enforce our agreement for Terms of Service.
+> 
+> **2.6** We have partnered with various companies, and gather information regarding preferences which indicate you may be interested in items and products our partners may sell. This information may be made available to those companies on an individual or aggregate basis.
+> 
+> **2.7** We cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Statement.  For example, we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications.  We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability. ****
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**3\. Linked Sites**
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+For your convenience, this site contains links to other sites. SNAKKLE is not responsible for the privacy practices or the content of such Web sites.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**4\. Enforcement**
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+SNAKKLE regularly reviews its compliance with this Privacy Policy.  When we receive formal written complaints, it is SNAKKLE’S policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between SNAKKLE and an individual.
 
-**Security**
+**5\. Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control.  All user information stored on our server is stored in an encrypted format.  Notwithstanding these efforts, we caution you that “perfect security” does not exist on the Internet.
 
-**Updating Your Information**
+**6\. Choice/Opt-Out**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.  You can send email to newsletter@snakkle.com or you can change your mailing preferences at  [http://_______________](http://_______________/).
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**7\. Correct/Update**
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+This site gives users the following options for changing and modifying information previously provided:  Visit [http://_______________________](http://_______________________/).
 
-      iii.      You may call us at: (480) 505-8800
+**8\. Contacting SNAKKLE**
 
-       iv.      You may fax us at: (480) 505-8844
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
 
-**Sending Emails**
+SNAKKLE.com  
+Email: info@snakkle.com
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Fax: 310 882-5443
