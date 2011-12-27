@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemade-gifts-made-easy.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315064436id_/http%3A//www.homemade-gifts-made-easy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemade-gifts-made-easy.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227073200id_/http%3A//www.homemade-gifts-made-easy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,6 +27,17 @@ We may serve third-party advertisements that use cookies and web beacons in the 
 Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose.
+
+### Advertising Disclosures
+
+Homemade Gifts Made Easy is a participant in the Google Adsense contextual advertising program. Google ads appearing on pages are clearly marked as such.
+
+Homemade Gifts Made Easy is a participant in the Infolinks contextual advertising program. Infolinks ads appearing on pages are marked by double underlines, and hovering the mouse over the link will display more information about each ad.
+
+Homemade Gifts Made Easy is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. If you click on their ad or text link and buy something, I get a small commission. If you prefer not to do this you can also go to Amazon and buy direct through them in which case I would not receive a commission. Either way the product will cost you the same amount.
+
+  
+
 
 ### Site Search
 
@@ -67,4 +78,6 @@ What's This?
 ---|---|---|---|---  
 | | |   
   
-Enjoy this page? Please pay it forward. Here's how...
+Enjoy this page? Please pay it forward. Here's how...  
+  
+[ ](http://www.homemade-gifts-made-easy.com/homemade-gift-basket-ideas-christmas-contest.html)
