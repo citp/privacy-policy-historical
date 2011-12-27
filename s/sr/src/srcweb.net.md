@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srcweb.net privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513085116id_/http%3A//srcweb.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srcweb.net privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227084502id_/http%3A//srcweb.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Download Free Software
 
@@ -27,10 +27,8 @@ If you have any questions regarding the privacy policy of Download Free Software
 
 Latest Update
 
-Advertisement
-
 Latest Comments
 
 Friends
 
-Popular Tags
+Subscribe
