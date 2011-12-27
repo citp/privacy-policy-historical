@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submitedge.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621053149id_/http%3A//www.submitedge.com/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitedge.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228004404id_/http%3A//www.submitedge.com/policies.html) for the most accurate reproduction.*
 
 # SubmitEdge Privacy Policies
 
@@ -60,6 +60,19 @@ We may also disclose your personal information
 PayPal
 
 If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site. 
+
+Refund Policy
+
+Our company is very particular about any feedback from the purchasers of our services. If you send us a message informing about an error, any question or just a suggestion, you will receive a fast and competent answer from our technical support team within 24 working hours. As a rule all the majority of problems are solved "on the spot". Numerous positive reports concerning our specialists and services prove that perfectly well.
+
+We provides refund of your payment in the following cases:  
+1.If you accidentally bought the product more than once for the same URL.  
+2\. If you intend to cancel your order before start of the service.
+
+We reserve the right to decline refund requests in the following cases:  
+1\. When a user demands a refund immediately after receiving the service/ report.  
+2\. When a user informs us about changing his decision to buy the service , saying he is not going to use the service's contents after receiving it.  
+3\. When reasons which prevent a customer from proper using of the service are stated clearly on our official site. (For example, if the customer requests a refund due to the absence of features which we never claimed to provide and which are not listed in the feature list for the product). 
 
 Third Party E-Commerce Solutions Provider
 
@@ -149,3 +162,7 @@ Live Chat
 We use Live Chat to assist you if you have questions while using our site or regarding your order. When you make a request for live assistance, we'll gather information like your name, email id and your message. Any information collected is not shared or used for any form of promotional purposes and is strictly used to respond to customer query.
 
 In case for further clarification please feel free to write to us at support@submitedge.com .
+
+Modification
+
+Kush Infosystems Pvt. Ltd. as an organization has with it the exclusive right to bring about any modification of the provisions of refund of cancellation policy without intimating prior notice.
