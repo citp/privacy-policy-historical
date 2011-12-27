@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discusstech.org privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618021720id_/http%3A//discusstech.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discusstech.org privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227124343id_/http%3A//discusstech.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Discuss Tech
 
 If you need any more information or have any queries related to our privacy policy, kindly feel free to communicate with us by email at ej.salsan AT gmail.com.
 
