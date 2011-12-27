@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kidneydiet.net privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622084000id_/http%3A//kidneydiet.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidneydiet.net privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227023639id_/http%3A//kidneydiet.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | KidneyDiet.net
+# Privacy Policy | Kidney Diet
 
 ## Privacy Policy
 
