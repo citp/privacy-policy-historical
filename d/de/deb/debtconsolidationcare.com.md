@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debtconsolidationcare.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509171422id_/http%3A//www.debtconsolidationcare.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtconsolidationcare.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227194544id_/http%3A//www.debtconsolidationcare.com/privacypolicy) for the most accurate reproduction.*
 
 # Debt Consolidation Care Privacy Policy
 
@@ -45,3 +45,18 @@ To protect your privacy and security, we take steps to verify your identity befo
 ## How you can contact us
 
 If you have any questions regarding our privacy policy, please call **800-debt-913** or send us an email at **vikas(at)debtconsolidationcare.com**.
+
+800-DEBT-913
+
+#### ( Open 7 days till 9 )
+
+Or
+
+Chat Live
+
+Or
+
+  
+
+
+Top 10 Online Financial Resources
