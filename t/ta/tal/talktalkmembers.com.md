@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talktalkmembers.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628160006id_/http%3A//talktalkmembers.com/content/view/36/95) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talktalkmembers.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227050637id_/http%3A//www.talktalkmembers.com/content/view/36/95) for the most accurate reproduction.*
 
 # TalkTalk Members - Privacy Policy
 
