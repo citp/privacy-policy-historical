@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the benjerry.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613143148id_/http%3A//www.benjerry.com/contact-us/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benjerry.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227062522id_/http%3A//www.benjerry.com/contact-us/privacy.cfm) for the most accurate reproduction.*
 
 # Ben & Jerry's Ice Cream - Privacy Policy
 
-[Personal Information Update](https://web.archive.org/web/20110613143148id_/http%3A//www.benjerry.com/contact-us/update-info.cfm?action=update)
+[Personal Information Update](https://web.archive.org/web/20111227062522id_/http%3A//www.benjerry.com/contact-us/update-info.cfm?action=update)
 
-[Do Not Contact](https://web.archive.org/web/20110613143148id_/http%3A//www.benjerry.com/contact-us/update-info.cfm?action=remove)
+[Do Not Contact](https://web.archive.org/web/20111227062522id_/http%3A//www.benjerry.com/contact-us/update-info.cfm?action=remove)
 
 We endeavor to be in compliance with the policies of CARU, the Children’s Advertising Review Unit of the Council of Better Business Bureaus, Inc.
 
@@ -77,9 +77,9 @@ Please write to us at [privacy@benjerry.com](mailto:privacy@benjerry.com) or at 
 
 If you **don’t want to be contacted** in the future or would like us to **correct or update your Personal Information** in our records, please use the appropriate link below:
 
-[Personal Information Update](https://web.archive.org/web/20110613143148id_/http%3A//www.benjerry.com/contact-us/update-info.cfm?action=update)
+[Personal Information Update](https://web.archive.org/web/20111227062522id_/http%3A//www.benjerry.com/contact-us/update-info.cfm?action=update)
 
-[ **Do Not Contact**](https://web.archive.org/web/20110613143148id_/http%3A//www.benjerry.com/contact-us/update-info.cfm?action=remove)
+[ **Do Not Contact**](https://web.archive.org/web/20111227062522id_/http%3A//www.benjerry.com/contact-us/update-info.cfm?action=remove)
 
 Ben & Jerry’s will take reasonable steps to comply with the foregoing requests.
 
