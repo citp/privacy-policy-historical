@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honeywell.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502092257id_/http%3A//honeywell.com/Privacy/Pages/en.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honeywell.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227022722id_/http%3A//honeywell.com/Privacy/Pages/en.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -52,6 +52,8 @@ Employment Applications. In connection with a job application or inquiry, you ma
 #### Our use of cookies and web beacons
 
 Cookies are small files that websites save to your hard disk or to your browser's memory. We may use them to track the number of times you have visited the site, to track the number of visitors to the site, to determine and analyze visitors' use of our sites (including the effectiveness of online advertising), to store information that you provide such as your preferences, and to store technical information useful for your interactions with our websites. We may use session cookies (cookies that are deleted when your browser session ends) to store your user ID, elements of your user profile, to facilitate your movement around our websites (particularly in connection with information searches and order placement) and other information useful in administering the session. You have the ability to accept or decline cookies. Most Internet browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies or to notify you when a cookie is being placed on your computer. If you choose to decline cookies, you may not be able to fully experience the features of Honeywell's websites or other websites that you visit. Our sites also may contain electronic images known as web beacons - sometimes called single-pixel gifs - that allow us to count the number of users who have visited those pages. We may include web beacons in promotional e-mail messages or Newsletters in order to determine whether messages have been opened and acted upon. 
+
+#### Our use of web analytics
 
 #### Disclosure of your personal information
 
