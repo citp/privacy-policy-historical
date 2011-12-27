@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the templatepanic.com privacy policy that was archived on 2011-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110206195010id_/http%3A//www.templatepanic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatepanic.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227094619id_/http%3A//www.templatepanic.com/privacy-policy) for the most accurate reproduction.*
 
-# TemplatePanic.com » Privacy Policy
+# Privacy Policy | TemplatePanic.com
 
 **TemplatePanic.com Privacy Statement**
 
