@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the uberhumor.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626042046id_/http%3A//uberhumor.com/new-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberhumor.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227060948id_/http%3A//uberhumor.com/new-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Funny Pictures, Animal Pics, Cute Images
+# Privacy Policy | Funny Pictures, Images & Funny Pics, Photos. Really Very Cute animals videos too.
+
+[](http://uberhumor.com/beautifully-sexy-street-art-by-smug-one-13-pictures/)
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -17,6 +19,16 @@ The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of uberHumor then you may contact us at admin@uberhumor.com
 
-[](http://uberhumor.com/i-think-i-saw-mario-and-luigi-irl/) [](http://uberhumor.com/?p=14112) [](http://uberhumor.com/cherenkooooooooov/)
+ 
 
-### YOU MIGHT ALSO LIKE THIS
+Like us to get BEST hand-picked content Share This Picture
+
+[](http://uberhumor.com/?random&random_cat_id=74)
+
+### You might also Like:
+
+  
+
+
+  
+
