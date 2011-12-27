@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the snagajob.com privacy policy that was archived on 2011-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110630215931id_/http%3A//www.snagajob.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the snagajob.com privacy policy that was archived on 2011-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227012531id_/http%3A//www.snagajob.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="ctl00_ctl00_head"><meta name="verify-v1" content="XbfKV5Qdci9NlyvYpEISDYZXbWTwk7Q78ZgkoSUE+F0="><meta name="verify-v1" content="edv8MLEiqpUqyQnmNJ3ViMiouhLEYokK7b7zm8wsAG4="><meta name="y_key" content="61cba9cdaef7c7bd"><meta name="robots" content="noodp,noydir">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="ctl00_ctl00_head"><script async="" src="http://js.adsonar.com/js/aslJSON.js?_=1580395959761"></script><meta name="verify-v1" content="XbfKV5Qdci9NlyvYpEISDYZXbWTwk7Q78ZgkoSUE+F0="><meta name="verify-v1" content="edv8MLEiqpUqyQnmNJ3ViMiouhLEYokK7b7zm8wsAG4="><meta name="y_key" content="61cba9cdaef7c7bd"><meta name="robots" content="noodp,noydir">
 	
 	<!-- run ie8 as ie8 -->
 	<meta http-equiv="X-UA-Compatible" content="IE=8"><link rel="shortcut icon" href="/favicon.ico"><link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -17,7 +17,15 @@
             document.write(unescape('%3Cscript type="text/javascript" src="/assets/js/jquery.js"%3E%3C/script%3E'));
         }
     </script><script type="text/javascript" src="/assets/js/jquery.js"></script>
-    
+
+    <!-- criteo -->
+    <script type="text/javascript">
+        var crtg_nid = "1590";
+        var crtg_cookiename = "ctosnag";
+        function crtg_getCookie(c_name) { var i, x, y, ARRcookies = document.cookie.split(";"); for (i = 0; i < ARRcookies.length; i++) { x = ARRcookies[i].substr(0, ARRcookies[i].indexOf("=")); y = ARRcookies[i].substr(ARRcookies[i].indexOf("=") + 1); x = x.replace(/^\s+|\s+$/g, ""); if (x == c_name) { return unescape(y); } } return ''; }
+        var crtg_content = crtg_getCookie(crtg_cookiename); var crtg_rnd = Math.floor(Math.random() * 99999999999); var crtg_url = 'http://rta.criteo.com/dis/rtt.js?networkId=' + escape(crtg_nid); crtg_url += '&cookieName=' + escape(crtg_cookiename); crtg_url += '&rnd=' + crtg_rnd; crtg_url += '&varName=crtg_content'; var crtg_script = document.createElement('script'); crtg_script.type = 'text/javascript'; crtg_script.src = crtg_url; crtg_script.async = true; if (document.getElementsByTagName("head").length > 0) document.getElementsByTagName("head")[0].appendChild(crtg_script); else if (document.getElementsByTagName("body").length > 0) document.getElementsByTagName("body")[0].appendChild(crtg_script); 
+    </script><script type="text/javascript" src="http://rta.criteo.com/dis/rtt.js?networkId=1590&amp;cookieName=ctosnag&amp;rnd=35166623219&amp;varName=crtg_content" async=""></script>
+
 	<script type="text/javascript" src="/assets/js/jquery-ui-1.8.10.js?v=8.0.6"></script><script type="text/javascript" src="/assets/js/jquery.plugins.js?v=8.0.6"></script><script type="text/javascript" src="/assets/js/sponsors.js?v=8.0.6"></script><script type="text/javascript" src="/assets/js/global.js?v=8.0.6"></script><script type="text/javascript" src="/assets/webtracking/mbox.js?v=8.0.6"></script><style>.mboxDefault { visibility:hidden; }</style>
 	
 
@@ -45,15 +53,63 @@
 	Privacy Policy | Snagajob
 </title></head>
 <body style="">
+    <script type="text/javascript">
+    $(document).ready(function () {
+  
+            
+		    window["ASL"] = {
+			    cfg:
+			    {
+				    type:"0",
+				    k:"/templates/js-one-col-no-ads.aspx:fea35641-7f48-4f4e-9e3a-66dde931f0c8:",
+				    
+				    placements:[]
+			    }
+		    };
 
-	
+		    $(".quigo, .quigo4").each(function () {
+			    var id = $.id();
+			    $(this).attr("id", id);
+			    var added = false;
+			    for (var p in ASL.cfg.placements) {
+				    if (ASL.cfg.placements[p].placementId == $(this).attr("placementid")) {
+					    ASL.cfg.placements[p].pageElements.push(id);
+					    added = true;
+				    }
+			    }
+            
+                var numAds = 3;
 
-	<form name="aspnetForm" method="post" action="/privacy/" id="aspnetForm"><div>
+                if($(this).hasClass('quigo4'))
+                {
+                    numAds = 4;
+                }
+
+			    if (!added) {
+				    ASL.cfg.placements[ASL.cfg.placements.length] = {
+					    placementId: $(this).attr("placementid"),
+					    numAds: numAds,
+					    pageElements: [id]
+				    };
+			    }
+		    }).filter("[pid]:first").each(function () {
+			    ASL.cfg.pid = $(this).attr("pid");
+		    });
+            $("<script src='http://js.adsonar.com/js/aslJSON.js'><\/script>").appendTo("body");
+        });
+	</script>
+
+    
+	<div class="mboxDefault" style="visibility: visible; display: block;"></div>
+		<script type="text/javascript"><!--
+			mboxCreate('gblTop');
+		--></script><div id="mboxMarker-default-gblTop-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://snagajobinc.tt.omtrdc.net/m2/snagajobinc/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580395954509-849016&amp;mboxPage=1580395959775-303228&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxCount=1&amp;mbox=gblTop&amp;mboxId=0&amp;mboxTime=1580395960576&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20111227012531id_%2Fhttp%253A%2F%2Fwww.snagajob.com%2Fprivacy&amp;mboxReferrer=&amp;mboxVersion=39" language="JavaScript"></script>
+	<form name="aspnetForm" method="post" action="/privacy" id="aspnetForm"><div>
 
 	<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTgyMDM0Mjk2Nw9kFgJmD2QWAmYPZBYEAgEPDxYCHgdWaXNpYmxlaGRkAgQPDxYCHwBoZGRk+soILX9cWxoYl7cAalSJ1wcp4kY=">
 
 	
-<script src="/ScriptResource.axd?d=o9Ah8JHRLICGWPsmgqjgmzofumpZzsD5ngtuhh_cPmpl7ICpqWIroWwFm7HKTTwJIOzvdZSV-gz5GrloewQr8rwPi-hix-gvvioRTTcksQdM2i5NqmPKLvYnxK9kN1Exql8XBpLdF_hN1fVj27nsFwDxd2M1&amp;t=5c2f384e" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=o9Ah8JHRLICGWPsmgqjgmzofumpZzsD5ngtuhh_cPmpl7ICpqWIroWwFm7HKTTwJIOzvdZSV-gz5GrloewQr8rwPi-hix-gvvioRTTcksQdM2i5NqmPKLvYnxK9kN1Exql8XBpLdF_hN1fVj27nsFwDxd2M1&amp;t=fffffffff9d85fa6" type="text/javascript"></script>
 	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLUkaq/AgLMgL2DAUPGBerGodCACA3D6VwHoFCxSm6r">
 	<input type="submit" name="ctl00$ctl00$defaultButton" value="" onclick="javascript: return false;" id="ctl00_ctl00_defaultButton" style="display:none">
 	
@@ -75,13 +131,12 @@
 	</div>
 
 	<div id="wrapper">		
-
         
 
 <div id="header">
     <div class="contentSection" id="employerLink">
         <div class="employerCallout">
-            <b>EMPLOYERS: <a href="http://employer.snagajob.com?ref=hiring">Post Jobs</a></b>
+            <b>EMPLOYERS: <a href="http://hiring.snagajob.com">Post Jobs</a></b>
         </div>
         <div class="clear"></div>
     </div>
@@ -90,7 +145,6 @@
             <ul>
                 <li><a href="/find-jobs">Browse Jobs</a></li>
                 <li><a href="/job-resources/">Job Tips</a></li>
-                <li><a href="/answers">Answers</a></li>
 
                 <li class="joinwelcome">
                     
@@ -111,12 +165,16 @@
         <div method="get" action="/job-seeker/jobs/search-results.aspx">
             <div class="searchBar">
                 <div class="grid-9">
-                    <a class="logo" href="/" title="Snagajob"></a>
+                    <a href="/" title="Snagajob">
+                        <img class="logo" src="/assets/images/trans.gif" alt="Snagajob">
+                    </a>
                 </div>
                 <div class="grid-15">
                     <div class="findLocalJobs">
-                        <h3 class="findjobs">FIND LOCAL JOBS</h3>
-                        <input class="zipCode" type="text" name="postalCode" maxlength="5" placeholder="Enter ZIP Code" value="">
+                        
+                        <h3 class="findjobs"><a href="job-seeker/jobs/search-results.aspx?postalCode=90230" style="text-decoration: none; color:#363636">FIND LOCAL JOBS</a></h3>
+                        
+                        <input class="zipCode" type="text" name="postalCode" id="pc" maxlength="5" placeholder="Enter ZIP Code" value="">
                         <input class="btn" type="submit" value="Find Jobs">
                         
                         <div class="clear"></div>
@@ -129,17 +187,29 @@
     </div>
     <div class="clear"></div>
 
-    <script>        
+    
+    <script type="text/javascript">
+        
+        mboxCreate('header', "mboxPageValue=1");
+        
         if ($("form #header").length) {
             var redirectSearch = function () {
-                window.location = "/job-seeker/jobs/search-results.aspx?postalCode=" + $("#header .zipCode").val();
+                var pcvInHeader = $("#header .zipCode").val();
+                
+                if (pcvInHeader == '') {
+                    window.location = "/find-jobs";
+                }
+                else {
+                    window.location = "/job-seeker/jobs/search-results.aspx?postalCode=" + pcvInHeader;
+                }
+                
                 return false;
             };
 
             $("#header .zipCode").onReturn(redirectSearch);
             $("#header :submit").click(redirectSearch);
         }
-    </script>
+    </script><div class="mboxDefault" style="visibility: visible; display: block;"></div><div id="mboxMarker-default-header-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://snagajobinc.tt.omtrdc.net/m2/snagajobinc/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580395954509-849016&amp;mboxPage=1580395959775-303228&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxCount=2&amp;mboxPageValue=1&amp;mbox=header&amp;mboxId=0&amp;mboxTime=1580395960823&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20111227012531id_%2Fhttp%253A%2F%2Fwww.snagajob.com%2Fprivacy&amp;mboxReferrer=&amp;mboxVersion=39" language="JavaScript"></script>
 </div>
         
         
@@ -323,7 +393,7 @@ h2 {margin: 1em 0; color: #444; }</style><h1>SnagAJob.com Privacy Policy</h1>
                     <a title="Snagajob" href="/">Job Seeker</a>
                 </dt>
                 <dd>
-                    <a id="sajFeedback" title="feedback and support" rel="nofollow" target="_blank" href="http://getsatisfaction.com/snagajob">Feedback and Support</a>
+                    <a title="security center" href="http://www.snagajob.com/security/">Security Center</a>
                 </dd>
                     <dd>
                     <a title="local jobs" href="/job-seeker/jobs/statelist.aspx">Local Jobs</a>
@@ -347,8 +417,8 @@ h2 {margin: 1em 0; color: #444; }</style><h1>SnagAJob.com Privacy Policy</h1>
                     <a title="contact us" href="/contact.aspx">Contact Us</a>
                 </dd>
                 <dd>
-                    <a class="socialIcons twitter" rel="nofollow" target="_blank" href="http://twitter.com/#!/snagajob" title="Give us your feedback and ask questions"></a>
-                    <a class="socialIcons facebook" rel="nofollow" target="_blank" href="http://www.facebook.com/SnagAJob" title="Get job search tips and advice"></a>
+                    <a class="socialIcons twitter" rel="nofollow" target="_blank" href=" http://twitter.com/snagajob" title="Give us your feedback and ask questions"></a>
+                    <a class="socialIcons facebook" rel="nofollow" target="_blank" href="http://www.facebook.com/SnagAJob" title="Snagajob Facebook"></a>
                 </dd>
             </dl>
 
@@ -384,7 +454,7 @@ h2 {margin: 1em 0; color: #444; }</style><h1>SnagAJob.com Privacy Policy</h1>
                     <a title="contact sales" href="/business-solutions/contact/">Contact Sales</a>
                 </dd>
                 <dd>
-                    <a class="socialIcons twitter" rel="nofollow" target="_blank" href="http://twitter.com/#!/SnagajobWorks" title="Stay on top of industry news, special offers and information on our products"></a>
+                    <a class="socialIcons twitter" rel="nofollow" target="_blank" href="http://twitter.com/SnagajobWorks" title="Stay on top of industry news, special offers and information on our products"></a>
                 </dd>
             </dl>
 
@@ -408,8 +478,8 @@ h2 {margin: 1em 0; color: #444; }</style><h1>SnagAJob.com Privacy Policy</h1>
                     <a title="news" href="/news/">News</a>
                 </dd>
                 <dd>
-                    <a class="socialIcons twitter" rel="nofollow" target="_blank" href="http://twitter.com/#!/lifeatsnagajob" title="Chat about Snagger life"></a>
-                    <a class="socialIcons facebook" rel="nofollow" target="_blank" href="http://www.facebook.com/LifeAtSnagajob" title="Immerse yourself in our culture"></a>
+                    <a class="socialIcons twitter" rel="nofollow" target="_blank" href="http://twitter.com/lifeatsnagajob" title="Chat about Snagger life"></a>
+                    <a class="socialIcons facebook" rel="nofollow" target="_blank" href="http://www.facebook.com/LifeAtSnagajob" title="Snagajob culture"></a>
                 </dd>
             </dl>
 
@@ -432,22 +502,23 @@ h2 {margin: 1em 0; color: #444; }</style><h1>SnagAJob.com Privacy Policy</h1>
 
 	
 	<!-- SiteCatalyst code version: H.21. Copyright 1996-2010 Adobe, Inc. All Rights Reserved. More info available at http://www.omniture.com -->
-<script type="text/javascript"> var s_account = 'snagajobcom';</script><script type="text/javascript" src="/assets/webtracking/s_code.js"></script><img name="s_i_snagajobcom" height="1" width="1" border="0" alt="" src="https://snagajob.122.2O7.net/b/ss/snagajobcom/1/H.1-pdv-2/s23438636277174?[AQB]&amp;ndh=1&amp;t=30/0/2020%2014%3A52%3A43%204%200&amp;ns=snagajob&amp;pageName=%7Cprivacy&amp;g=https%3A//web.archive.org/web/20110630215931id_/http%3A//www.snagajob.com/privacy/&amp;cc=USD&amp;server=10.0.63.60&amp;c2=15858b23-4a64-4851-97fd-fa483ddd9923&amp;v2=browseresults&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script type="text/javascript"> var s_account = 'snagajobcom';</script><script type="text/javascript" src="/assets/webtracking/s_code.js"></script><img name="s_i_snagajobcom" height="1" width="1" border="0" alt="" src="https://snagajob.122.2O7.net/b/ss/snagajobcom/1/H.1-pdv-2/s23471800350596?[AQB]&amp;ndh=1&amp;t=30/0/2020%2014%3A52%3A40%204%200&amp;ns=snagajob&amp;pageName=%7Cprivacy&amp;g=https%3A//web.archive.org/web/20111227012531id_/http%253A//www.snagajob.com/privacy&amp;cc=USD&amp;server=10.0.63.1&amp;c1=bmktyp&amp;v1=bmktyp&amp;c2=fea35641-7f48-4f4e-9e3a-66dde931f0c8&amp;c9=New&amp;c10=bmktyp&amp;v10=bmktyp&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <script type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on the next lines. */
 s.pageName = "|privacy"
-s.server = "10.0.63.60"
+s.server = "10.0.63.1"
 s.channel = ""
 s.pageType = ""
-s.prop1 = ""
-s.prop2 = "15858b23-4a64-4851-97fd-fa483ddd9923"
+s.prop1 = "bmktyp"
+s.prop2 = "fea35641-7f48-4f4e-9e3a-66dde931f0c8"
 s.prop3 = ""
 s.prop4 = ""
 s.prop5 = ""
 s.prop6 = ""
 s.prop7 = ""
 s.prop8 = ""
-s.prop10 = ""
+s.prop9 = s.getNewRepeat();
+s.prop10 = "bmktyp"
 /* Conversion Variables */
 s.campaign = ""
 s.state = ""
@@ -455,8 +526,8 @@ s.zip = ""
 s.events = ""
 s.products = ""
 s.purchaseID	= ""
-s.eVar1 = ""
-s.eVar2 = "browseresults"
+s.eVar1 = "bmktyp"
+s.eVar2 = ""
 s.eVar3 = ""
 s.eVar4 = ""
 s.eVar5 = ""
@@ -464,7 +535,7 @@ s.eVar6 = ""
 s.eVar7 = ""
 s.eVar8 = ""
 s.eVar9 = ""
-s.eVar10 = ""
+s.eVar10 = "bmktyp"
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script language="JavaScript" type="text/javascript"><!--
@@ -480,64 +551,16 @@ Sys.Application.initialize();
 </script>
 
 </div></form>
+
 	
 
-    <!--Server:  PRODJSWEBB14-->
-
-    <script type="text/javascript"><!--
-        var is_ssl = ("https:" == document.location.protocol);
-        var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
-        document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
---></script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
-<script type="text/javascript">
-    var feedback_widget_options = {};
-    feedback_widget_options.display = "overlay";
-    feedback_widget_options.company = "snagajob";
-    feedback_widget_options.placement = "left";
-    feedback_widget_options.color = "#222";
-    feedback_widget_options.style = "question";
-    var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
-
-    $(document).ready(function () {
-
-        $('#sajFeedback').click(function () {
-            $('#fdbk_tab').click();
-            return false;
-        });
-    });
-        
-		window["ASL"] = {
-			cfg:
-			{
-				type:"0",
-				k:"/templates/js-one-col-no-ads.aspx:15858b23-4a64-4851-97fd-fa483ddd9923:",
-				
-				placements:[]
-			}
-		};
-		$(".quigo").each(function () {
-			var id = $.id();
-			$(this).attr("id", id);
-			var added = false;
-			for (var p in ASL.cfg.placements) {
-				if (ASL.cfg.placements[p].placementId == $(this).attr("placementid")) {
-					ASL.cfg.placements[p].pageElements.push(id);
-					added = true;
-				}
-			}
-			if (!added) {
-				ASL.cfg.placements[ASL.cfg.placements.length] = {
-					placementId: $(this).attr("placementid"),
-					numAds: 3,
-					pageElements: [id]
-				};
-			}
-		}).filter("[pid]:first").each(function () {
-			ASL.cfg.pid = $(this).attr("pid");
-		});
-	</script>
-	<script type="text/javascript" src="http://js.adsonar.com/js/aslJSON.js"></script>
+    <!--Server:  PRODJSWEBA12-->
+    <script type="text/javascript">
+        // tracking pixel version 2.5
+        var aid = '9193';
+        var tdr = ''; if (top.document.referrer != '') { tdr = encodeURIComponent(top.document.referrer); }
+        (function () { steelhouse = { add: function (a, b, c, d) { d = d || false; if (a.addEventListener) { a.addEventListener(b, c, d) } else if (a.attachEvent) { a.attachEvent("on" + b, c) } }, load: function () { var a; if (typeof a == 'undefined') { a = Math.random() * 100000000000000000 } var b = document.createElement('script'); var c = 'px.steelhousemedia.com/st?aid=' + aid + '&cb=' + a + additional + '&tdr=' + tdr; b.type = 'text/javascript'; b.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + c; var d = document.getElementsByTagName('script'); var e = Number(d.length) - 1; var f = document.getElementsByTagName('script')[e]; f.parentNode.insertBefore(b, f) } }; steelhouse.load(); })(); 
+    </script>
 
 
-
-</body></html>
+<script src="http://js.adsonar.com/js/aslJSON.js"></script></body></html>
