@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jellofart.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516081629id_/http%3A//www.jellofart.com/privacyp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jellofart.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227121435id_/http%3A//www.jellofart.com/privacyp) for the most accurate reproduction.*
 
 # Jellofart.com Privacy Policy « Jellofart
 
@@ -30,5 +30,16 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
+  * [](http://twitter.com/intent/tweet?text=Jellofart.com%20Privacy%20Policy%20-%20http%3A%2F%2Fblog.jellofart.com%2Fprivacyp%2F%20\(via%20@sociablesite\) "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fblog.jellofart.com%2Fprivacyp%2F&t=Jellofart.com%20Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Jellofart.com%20Privacy%20Policy&body=http%3A%2F%2Fblog.jellofart.com%2Fprivacyp%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fblog.jellofart.com%2Fprivacyp%2F&title=Jellofart.com%20Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fblog.jellofart.com%2Fprivacyp%2F&title=Jellofart.com%20Privacy%20Policy&notes=Privacy%20Policy%20for%20www.jellofart.com%0D%0A%0D%0AAt%20www.jellofart.com%2C%20the%20privacy%20of%20our%20visitors%20is%20of%20extreme%20importance%20to%20us.%20This%20privacy%20policy%20document%20outlines%20the%20types%20of%20personal%20information%20is%20received%20and%20collected%20by%20www.jellofart.com%20and%20how%20i "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fblog.jellofart.com%2Fprivacyp%2F&title=Jellofart.com%20Privacy%20Policy&srcURL=http%3A%2F%2Fblog.jellofart.com%2Fprivacyp%2F&srcTitle=Jellofart+My+blog+-+my+rules. "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fblog.jellofart.com%2Fprivacyp%2F&title=Jellofart.com%20Privacy%20Policy&source=Jellofart+My+blog+-+my+rules.&summary=Privacy%20Policy%20for%20www.jellofart.com%0D%0A%0D%0AAt%20www.jellofart.com%2C%20the%20privacy%20of%20our%20visitors%20is%20of%20extreme%20importance%20to%20us.%20This%20privacy%20policy%20document%20outlines%20the%20types%20of%20personal%20information%20is%20received%20and%20collected%20by%20www.jellofart.com%20and%20how%20i "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fblog.jellofart.com%2Fprivacyp%2F&Title=Jellofart.com%20Privacy%20Policy "BlinkList")
+  * 
+
+
 Completed unsolicited and worthless random fact:   
-Bruce Lee was so fast that they actually had to SLOW a film down so you could see his moves. That�s the opposite of the norm. 
+In the film �Star Trek : First Contact�, when Picard shows Lilly she is orbiting Earth, Australia and Papa New Guinea are clearly visible .. but New Zealand is missing. 
