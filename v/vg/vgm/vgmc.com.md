@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vgmc.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201174051id_/http%3A//www.vgmc.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vgmc.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227055641id_/http%3A//www.vgmc.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # VIRGIN GOLD MINING CORPORATION
 
