@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mothercare.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101124219id_/http%3A//www.mothercare.com/b/49726031) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mothercare.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228004252id_/http%3A//www.mothercare.com/b/49726031) for the most accurate reproduction.*
 
 # privacy policy from the Mothercare Other pages range - Pushchairs, Car Seats, Nursery Furniture, Baby & Maternity Clothes
 
@@ -39,6 +39,21 @@ We will not sell, distribute or lease your personal information to third parties
 This process may include sending personal information outside of the European Economic Area. The data protection laws in these countries may not be as extensive as in the European Economic Area.
 
 When you provide any information on line, you should look for the box which you can click to say that you do not want the information to be used by anyone for direct marketing purposes. If you have not previously objected to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us at:
+
+**Email Subscriptions**  
+If you are opted into mothercare emails and wish to change your preferences, you can do so by logging into 'my account' at anytime.
+
+If you wish to unsubscribe from email communications from mothercare you can do so by clicking on the unsubscribe link at the bottom of any email received, or else, amend your preferences when you log into 'my account.'
+
+For information contact:
+
+Mothercare Customer Care Team  
+Cherry Tree Road  
+Watford  
+WD24 6SH
+
+Tel: 0844 875 5222  
+[Email Us](http://help.mothercare.com/help/emailPage)
 
 **The Data Protection Compliance Officer**
 
