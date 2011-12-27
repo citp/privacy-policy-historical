@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studyplaces.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630024156id_/http%3A//studyplaces.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyplaces.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227232928id_/http%3A//studyplaces.com/privacy) for the most accurate reproduction.*
 
-# Studyplaces
+# Privacy Policy | Studyplaces
 
 **Privacy Policy**
 
