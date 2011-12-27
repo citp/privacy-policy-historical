@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetimes-tribune.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422185243id_/http%3A//www.timesshamrockcommunications.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetimes-tribune.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227041923id_/http%3A//www.timesshamrockcommunications.com/policy.html) for the most accurate reproduction.*
 
 # Times-Shamrock Communications Online Privacy & Posting Policies
 
@@ -28,11 +28,14 @@ Scranton, PA 18503
 
 **Third Parties**
 
+[Associated Press Terms and Conditions ](http://www.ap.org/termsandconditions/)
+
+Legacy.com [Terms of Use](http://www.legacy.com/ns/termsofuse.aspx) and [Privacy Policy](http://www.legacy.com/ns/PrivacyPolicy.aspx)
+
+  
 Times-Shamrock websites use the services of third-party network advertisers on its site. Network advertisers are third parties that attempt to show customized advertisements based on visits to this Website and unrelated Web sites of others by your computer or web browser. Click on links below for information about these companies [including any choices on participation in their service].
 
-**[_Legacy.com_](http://www.legacy.com/)  
-[_AP  
-_](http://www.ap.org/pages/terms/index.html)**  
+  
 **Registration**
 
 Anyone who participates in interactive activities (chat, message boards or opinion posting, contests, store and product purchase, membership program, classifieds) on Times-Shamrock's network of Web sites may be asked to register for a free guest ID and password or to complete subscription registration for a member ID and password. We use customer contact information from this registration form to send the user information about our company and promotional material from some of our partners. Financial information that is collected is used to bill the user for products and services. The customer's contact information is also used to contact the visitor when necessary for customer service reasons. Users may opt out of receiving future mailings; please reference your Personal Options. Unique identifier such as ID and passwords, are collected to verify the user's identity and for use as account numbers in our record system.
