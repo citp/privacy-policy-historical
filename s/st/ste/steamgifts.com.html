@@ -1,0 +1,411 @@
+<!--The following is the downloaded HTML source of the steamgifts.com privacy policy that was archived on 2011-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227152111id_/http%3A//www.steamgifts.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="keywords" content="buy, purchase, game, gaming, pc, computer">
+		<link rel="shortcut icon" href="/favicon.ico">
+				<title>Privacy Policy - SteamGifts.com</title>	
+		<link href="/css/style54.css" rel="stylesheet" type="text/css">
+					<link href="/css/flick/jquery-ui-1.8.12.custom.css" rel="stylesheet" type="text/css">
+				<!-- RSS Feed -->
+		<link href="http://feeds.feedburner.com/steamgifts" rel="alternate" type="application/rss+xml" title="SteamGifts.com">
+		<!-- Include Scripts -->
+		<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.5.2.min.js"></script>
+		<script type="text/javascript" src="/js/jquery-ui-1.8.12.custom.min.js"></script>
+		<script type="text/javascript" src="/js/jquery-ui-timepicker-addon.js"></script>
+		<script type="text/javascript" src="/js/jquery.hoverIntent.minified.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){
+			$('.search_query').focus(function() {
+			  $(".search .icon").fadeTo(0, 1);
+			});
+			$('.search_query').blur(function() {
+			  $(".search .icon").fadeTo(0, 0.6);
+			});
+									
+								$(".checkbox").click(function(){
+					$(this).parent().children(".checkbox").removeClass('selected');
+					$(this).addClass('selected');
+					if ($(this).hasClass('sticky_checkbox')){
+						$("input[name='sticky']").val($(this).attr("rel"));
+					}else{
+						$("input[name='private']").val($(this).attr("rel"));
+					}
+					if ($(this).hasClass('display_groups')){
+						$("select[name='group_id']").fadeIn();
+					}else{
+						$("select[name='group_id']").fadeOut();
+					}
+				});			
+				$(".post.fade").hover(function () {
+					$(this).addClass("over");
+				},function () {
+					$(this).removeClass("over");
+				});
+								
+				$('.register_submit').click(function(){
+					$('#register_form').submit();
+					return false;
+				});				
+
+				$('.confirm_submit').click(function(){
+					if ($(this).hasClass('create_submit')){
+						$("input[name='step']").val(3);
+					}else{
+						$("input[name='step']").val(1);
+					}
+					$('#confirm_form').submit();
+					return false;
+				});	
+				
+				$('.button.toggle_delete').click(function(){
+					$('.notification.toggle_delete').toggle();
+					return false;
+				});					
+				
+				$('.create_submit').click(function(){
+					$('#create_form').submit();
+					return false;
+				});
+				
+				$('.button.ban').click(function(){
+					$('#submit_ban').submit();
+					return false;
+				});				
+
+				$('.button.report').click(function(){
+					$('#submit_report').submit();
+					return false;
+				});
+				
+				$('.notification .confirm_delete_giveaway').click(function(){
+					$('#submit_delete_giveaway').submit();
+					return false;
+				});				
+				
+				$('.generate_invite_submit').click(function(){
+					$('#generate_invite_form').submit();
+					return false;
+				});
+				
+				$('.sync_submit').click(function(){
+					$('#sync_submit').submit();
+					return false;
+				});				
+				
+				$('.discussions .buttons a.edit').click(function(){
+					$('#edit_discussion').submit();
+					return false;
+				});					
+
+				$('.submit_parent_form').click(function(){
+					$(this).closest("form").submit();
+					return false;
+				});	
+				
+				$('.discussions .buttons a.delete').click(function(){
+					$('#delete_discussion').submit();
+					return false;
+				});
+
+				$('.discussions .buttons a.reopen').click(function(){
+					$('#reopen_discussion').submit();
+					return false;
+				});
+				
+				$('.discussions .buttons a.close').click(function(){
+					$('#close_discussion').submit();
+					return false;
+				});
+				
+				$('.delete_comment').click(function(){
+					$("input[name='delete_comment_id']").val($(this).parent().attr("rel"));
+					$('#delete_comment').submit();
+					return false;
+				});					
+				
+				$('.submit_entry, .remove_entry').click(function(){
+					$('#form_enter_giveaway').submit();
+					return false;
+				});	
+
+				$('.featured .edit_gift_show').click(function(){
+					$('.body.markdown').hide();
+					$('.body.edit_gift').show();
+					return false;
+				});
+				$('.featured .edit_gift_hide').click(function(){
+					$('.body.edit_gift').hide();
+					$('.body.markdown').show();
+					return false;
+				});
+				$('.featured .edit_gift_save').click(function(){
+					$('#edit_gift').submit();
+					return false;
+				});					
+				
+				$('.display_winners').click(function(){
+					$(this).parent().parent().next('.winner_container').toggle();
+					return false;
+				});	
+	
+				$('.manage .received .option.enabled').click(function(){
+					$("input[name='gid']").val($(this).attr("rel"));
+					if ($(this).hasClass('selected')){
+						$("#received_gift input[name='rid']").val(0);
+					}else if ($(this).hasClass('yes')){
+						$("#received_gift input[name='rid']").val(2);
+					}else{
+						$("#received_gift input[name='rid']").val(1);
+					}
+					$('#received_gift').submit();
+					return false;
+				});		
+
+				$('.manage .sent .option.enabled').click(function(){
+					$("input[name='wid']").val($(this).attr("rel"));
+					if ($(this).hasClass('selected')){
+						$("#sent_gift input[name='rid']").val(0);
+					}else if ($(this).hasClass('yes')){
+						$("#sent_gift input[name='rid']").val(1);
+					}
+					$('#sent_gift').submit();
+					return false;
+				});		
+
+				$('.manage .delete_entry').click(function(){
+					$("input[name='eid']").val($(this).attr("rel"));
+					$('#remove_entries').submit();
+					return false;
+				});					
+
+				$('.absolute_dropdown .heading').click(function(){
+					if (!$(this).hasClass('selected')){
+						$('.absolute_dropdown .heading').removeClass('selected');
+						$('.absolute_dropdown .items').hide();						
+						$(this).parent().children(".items").show();
+						$(this).addClass('selected')	
+					}else{
+						$('.absolute_dropdown .heading').removeClass('selected');
+						$('.absolute_dropdown .items').hide();						
+					}
+					return false;
+				});
+
+				$('body').click(function() {
+					$('.absolute_dropdown .heading').removeClass('selected');
+					$('.absolute_dropdown .items').hide();
+					$('#navigation ol li').removeClass('open');
+					$('#navigation ol li .absolute-dropdown').hide();
+				});
+
+				$('.absolute_dropdown').click(function(event){
+					event.stopPropagation();
+				});
+				
+				$('.cancel_edit_comment').click(function(){
+					$(this).parent().parent().parent().parent().children('.user_body').show();
+					$(this).parent().parent().parent().parent().children('.user_edit').hide();
+					return false;
+				});
+				
+				$('.comment_reply .edit_comment').click(function(){
+					$(this).parent().parent().parent().children('.user_body').hide();
+					$(this).parent().parent().parent().children('.user_edit').show();
+					return false;
+				});
+				
+				$('.comment_reply .reply_link a').click(function(){
+					id=$(this).attr('rel');
+					depth=parseInt($(this).attr('class'))+1;
+					$("#comment_form #parent_id").val(id);
+					$("span.title").html("Add a reply");
+					$("span.cancel").show();
+					$("#comment_form").insertAfter('.comment#' + id);
+					$("#comment_form").addClass('border_container');
+					return false;
+				});
+				$('#comment_form span.cancel a').click(function(){
+					$("#comment_form #parent_id").val(0);
+					$("span.title").html("Add a comment");
+					$("span.cancel").hide();
+					$("#comment_form").insertAfter('#comment_location');
+					$("#comment_form").removeClass('border_container');
+					return false;
+				});	
+	
+				$("li a.arrow").click(function() {
+					$(this).parent().siblings().removeClass('open');
+					$(this).parent().siblings().children('.relative-dropdown').children('.absolute-dropdown').hide();
+					$(this).parent().addClass('open');
+					$(this).siblings('.relative-dropdown').children('.absolute-dropdown').show();
+					return false;
+				});
+				
+				//Check and uncheck categories while reloading content
+				$('.stores li a').click(function(){
+					$(this).toggleClass("enabled");
+					//loadContent();
+					return false;
+				});
+				
+				$(".sales .row").hover(function () {
+					
+
+				}, function () {
+					$('.absolute_thumbnail').fadeOut();
+				});
+				$(".sales .row").hoverIntent(function () {
+					$('.absolute_thumbnail img').attr('src', 'http://www.steamgifts.com/img/games/sm/' + $(this).attr('rel')  + '.jpg');
+					var new_location = -20+(($(this).index()-2)*31);
+					$('.absolute_thumbnail').stop(true, true).show().animate({ opacity: 1, top: new_location }, 250);				
+				}, function () {
+				
+				});
+				
+				
+				//$("#navigation .left ol>li").mouseleave(function() {
+					//$('#navigation .left ol li').removeClass('open');
+					//$('#navigation .left ol li .absolute-dropdown').hide();
+				//});				
+			});
+		</script>
+				<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-3791796-9']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script>
+		<script type="text/javascript">
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') + 
+		'//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+		})();
+		</script>
+
+		<script type="text/javascript">
+		googletag.cmd.push(function() {
+		googletag.defineSlot('/21347335/Footer_Leaderboard', [728, 90], 'div-gpt-ad-1322662218357-0').addService(googletag.pubads());
+		googletag.defineSlot('/21347335/Homepage_Rectangle', [300, 250], 'div-gpt-ad-1322662218357-1').addService(googletag.pubads());
+		googletag.pubads().enableSingleRequest();
+		googletag.enableServices();
+		});
+		</script>		
+	</head>
+	<body>
+		<div class="bg_gradient">
+			<div class="content">
+				<div id="navigation">
+					<a href="/" class="logo"></a>
+					<ol>
+													<li><a href="/">Home</a></li>
+							<li><a href="/forum">Forum</a></li>
+							<li>
+								<div class="relative-dropdown">
+									<div class="absolute-dropdown">
+										<ul>
+											<li><a href="http://www.steamgamesales.com">SteamGameSales.com</a></li>
+											<li><a href="http://www.steamtrades.com">SteamTrades.com</a></li>
+										</ul>
+									</div>
+								</div>
+								<a class="arrow" href="">Network</a></li>							
+																			<a style="margin-left:12px;" href="/?login&amp;return=/privacy"><img class="login" src="/img/sits_small.png"></a>						
+					</ol>
+											<div class="search disabled"></div>
+										
+				</div>
+			</div>	</div>
+	<div class="wrapper">
+		<div class="content">
+			<div class="privacy_policy">
+				<h2>Privacy Policy</h2>
+				<p>This privacy policy outlines how information collected through our site is both used and protected. Information which we request from users, or information that is made available to us will be used with accordance to this policy.</p>
+				
+				<h3>Information Collected</h3>
+				<p>While registering on our site, users may be requested to submit an e-mail address.</p>
+				<p>When signing in through the Steam OpenID provider, users will be authenticated using their 64-bit SteamID. Information made publically available from this SteamID may also be collected, including, but not limited to, user game lists, wishlists, and groups.</p>
+				
+				<h3>How We Use Your Information</h3>
+				<p>The information we collect may be used to personalize your experience with our site, while providing additional user functionality. E-mail adddresses are used as a method of notification, and if a user is deemed the winner of a giveaway, their e-mail address will be made available to the giveaway creator.</p>
+
+				<h3>Do We Disclose Any Information to Outside Parties?</h3>
+				<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or providing information to you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.</p>
+
+				<h3>Third Party Links</h3>
+				<p>Occasionally, at our discretion, we may include third party links or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
+
+				<h3>Third Party Advertising</h3>
+				<p>We use third party advertising companies to serve ads when you visit our site. These companies may use information about your visits to this and other sites in order to provide advertisements about goods and services of interest to you.</p>
+
+				<h3>Your Consent</h3>
+				<p>By using our site, you consent to our privacy policy.</p>
+
+				<h3>Changes to Our Privacy Policy</h3>
+				<p>If we decide to change our privacy policy, we will post those changes on this page.</p>
+				<p><em>This policy was last modified on September 25, 2011.</em></p>
+			</div>
+		</div>
+	</div>
+			<div class="footer">
+			<div class="content">
+							<div class="footer_column">
+									
+					<h4>Statistics</h4>
+					<ul>
+						<li><span class="highlight">69,553</span> Members</li>
+						<li><span class="highlight">21,582</span> Gifts</li>
+						<li>Gifts Valued at <span class="highlight">$302,246.49</span></li>
+					</ul>
+				</div>
+							
+				<div class="footer_column">
+					<h4>Network</h4>
+					<ul>
+						<li><a href="http://feeds.feedburner.com/steamgifts" target="_blank">Follow the Latest Giveaways Using RSS</a></li>
+						<li><a href="http://www.steamgamesales.com" target="_blank">SteamGameSales.com - Track Game Sales</a></li>
+						<li><a href="http://www.steamtrades.com" target="_blank">SteamTrades.com - Steam Game and Item Trading</a></li>
+					</ul>				
+				</div>
+				<div class="footer_column">
+					<h4>Extras</h4>
+					<ul>
+						<li><a href="/stats">Statistics</a></li>
+						<li><a href="http://steamcommunity.com/groups/steamgifts" target="_blank">Join Our Group</a></li>
+						<li><a href="steam://friends/joinchat/103582791432125620" target="_blank">Enter Chat</a></li>
+					</ul>
+				</div>					
+				<div class="clear_both"></div>			
+			</div>
+		</div>
+		<div class="footer_sm">
+			<div class="content">
+				<div class="left">
+					<h2>Steam Gifts</h2>
+				</div>
+				<div class="right">
+					<a style="margin-right:15px;" href="/privacy">Privacy Policy</a>
+					<a style="margin-right:15px;" href="/forum/91wob/faq-and-guidelines">FAQ</a>
+					<a href="mailto:inbox@steamgifts.com" target="_blank">E-mail Us</a>
+				</div>
+				<div class="clear_both"></div>
+			</div>
+		</div>
+			
+</body></html>
