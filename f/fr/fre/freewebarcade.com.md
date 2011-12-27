@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewebarcade.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624020926id_/http%3A//www.freewebarcade.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebarcade.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227081920id_/http%3A//www.freewebarcade.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Free Web Arcade - Privacy Policy
 
