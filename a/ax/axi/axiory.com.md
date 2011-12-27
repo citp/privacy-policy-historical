@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the axiory.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628093015id_/http%3A//axiory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axiory.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227092952id_/http%3A//axiory.com/privacy-policy) for the most accurate reproduction.*
 
-# Axiory - Privacy Policy
+# Privacy Policy - Axiory
 
 > Axiory Ltd. respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients as well as our current clients.
 
