@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internmatch.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606040010id_/http%3A//www.internmatch.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internmatch.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227113635id_/http%3A//www.internmatch.com/home/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | InternMatch
 
