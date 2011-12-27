@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the founder2be.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628203615id_/http%3A//www.founder2be.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the founder2be.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227214640id_/http%3A//www.founder2be.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Legal - www.founder2be.com
+# Privacy Policy - Founder2be
 
 Your privacy is very important to us. We protect it from third parties and from other users of this service.
 
- **Personal information**
+**Personal information**
 
 Your profile is kept anonymous in the sense that we do not disclose your first name, last name or email address to other users of the service. You are known only by the username you choose when creating your account, as well as the location (city and country) and role you specify.
 
@@ -16,11 +16,11 @@ If you decide to upgrade to a pro account, all information collected during this
 
 As you can see, we do take your privacy serious and strive to keep your information secure.
 
- **Other information**
+**Other information**
 
 Your browser may provide other information when you use the Internet. We may receive the same information your browser sends to any other site on the Internet. For example, if you use Firefox or Internet Explorer, if your computer runs on MacOS or Windows, whether you are visiting from a mobile device, and others. We may use this information to improve the quality of this service.
 
- **Integration with 3rd party services**
+**Integration with 3rd party services**
 
 Founder2be intregrates with 3rd party services to make the experience of having and discussing ideas, connecting with other users, and founding a start-up in general more social.
 
@@ -30,7 +30,11 @@ If you prefer to register without connecting to Facebook, you are welcome to use
 
 Please note that the information you provide as it is visible to other users on this site, may be published using share functionality to third-party services such as Twitter or Facebook.
 
- **Keeping your information secure**
+**Communications**
+
+An integral part of Founder2be are the communications we send to help you find a co-founder. These include notifications, for example, when someone comments on an idea you shared or sends you a message via the built-in messaging system, as well as our monthly newsletter, which includes useful information regarding everything start-up and co-founder related. Should you choose to no longer receive the monthly newsletter or other notifications, you can do so any time either by clicking the unsubscribe link contained in the footer, or simply contact us at [info@founder2be.com](mailto:info@founder2be.com).
+
+**Keeping your information secure**
 
 Your account is protected by the password you choose. Just as with most Internet services, the security of your information depends on this password, and how well you safeguard access to your account from others. Fortunately, this is not very difficult.
 
@@ -40,22 +44,22 @@ Should you have accidentally disclosed your password to someone, or otherwise co
 
 While we would certainly like to be able to, we cannot guarantee the security of user information at all times. Unforeseen circumstances such as hardware or software failures and other factors may compromise the security of it at any time.
 
- **Account deletion**
+**Account deletion**
 
 Should you ever wish to delete your account, for example after you decide to start a project or found a company with some fellow members you got on touch with here, simply let us know by contacting us at [info@founder2be.com](mailto:info@founder2be.com). We will delete your account including the personal information you provided. Please note that we may have back-ups of your information for 90 days after we deleted your account. This is the price we pay for running this service in an as reliable way as we can.
 
 On the other hand, why delete your account even after you found some fellow founders? Stay around and help others achieve the same!
 
- **Business transfer**
+**Business transfer**
 
 Company may choose to acquire other companies or may in turn be acquired itself by another company. In such cases, business assets, typically including user information, are transferred to another company. If Company, or substantially all of its assets, were acquired, or in the unlikely event that we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by another party. You acknowledge that such transfers may happen, and that any acquirer of Company may continue to use your personal information as protected by this policy.
 
- **Changes to this Privacy Policy**
+**Changes to this Privacy Policy**
 
 We may amend this Privacy Policy from time to time. If we make significant changes, we will notify you by posting an announcement on our service or via email. All user information is protected by the most recent version of our Privacy Policy, and our users are bound to it if they continue to use the Service after the changes have been first posted.
 
- **Questions**
+**Questions**
 
-In case you have any questions or concerns, please do not hesitate to contact us any time at [info@founder2be.com](mailto:info@founder2be.com)
+In case you have any questions or concerns, please do not hesitate to contact us any time at [info@founder2be.com](mailto:info@founder2be.com).
 
 Effective Date: January 1st, 2011
