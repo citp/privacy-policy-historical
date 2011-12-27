@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ruroc.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616014627id_/http%3A//www.ruroc.com/info/4/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruroc.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227020952id_/http%3A//www.ruroc.com/info/4/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ride Ruroc: Extreme Protection!
+# Ride Ruroc: Extreme Protection!
 
 Ruroc is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Ruroc Web site and governs data collection and usage. By using the Ruroc website, you consent to the data practices described in this statement.
 
