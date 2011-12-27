@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pragprog.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519130900id_/http%3A//www.pragprog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pragprog.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227114516id_/http%3A//pragprog.com/privacy) for the most accurate reproduction.*
 
 # The Pragmatic Bookshelf
 
@@ -6,24 +6,22 @@ As with most modern organizations, The Pragmatic Programmers, LLC, uses computer
 
 ### About Us and this Web Site
 
-We are based in the United States. We work in the area of software development: we design an implement software, and we help teams do the same. We write books, articles, and whitepapers. We also provide training courses and workshops. We sell some of our books from a section of this web site. Our contact details are:
+We are based in the United States. Our main business is publishing books, articles, and screencasts. We also provide training courses and workshops. We sell some of our books from a section of this web site. Our contact details are:
 
 Organization Name: |  The Pragmatic Programmers, LLC  
 ---|---  
 Address:  |  P.O. Box 293325   
   |  Lewisville, TX 75029-3325   
   |  USA   
-Web Site:  |  www.pragmaticprogrammer.com   
+Web Site:  |  www.pragprog.com   
   
 ### Information We Collect
 
 You can access our Web site home page and browse our site without disclosing your personal data. We collect the personal data that you may volunteer while using our services. We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations.
 
-If you use the WikiWiki web, you may choose to register yourself, giving a nickname and setting preferences. If you do, other users of the WikiWiki web will be able to see the nickname you provide. As the WikiWiki web is not intended to be secure, they may even be able to masquerade as you on it. This nickname is not used for any other purpose on our site.
+You may choose to register yourself, giving us your e-mail address to enable us to identify you. You may optionally elect to have us send you email using that address. This email falls into two categories. One is information on orders (for example, telling you that a download is available, or sending you a receipt. The second category is informational, low volume marketing information—in particular we send out a weekly newsletter, and very occasionally send out information about sales. You may opt in to one or both of these email options.
 
-Certain pages on the site invite you to give us your e-mail address to enable us to contact you in the future, typically to solicit your feedback or to give you news.
-
-In order to purchase things at our online store, you will need to give us certain personal information (name, e-mail address, telephone number, address(s), credit card type, number, expiration, and CVV2 value). We store your contact information in our order entry system. We do not store your credit card details. In fact, your credit card information never passes through our site—it is captured directly by our payment gateway, [Authorize.net](http://authorize.net/).
+In order to purchase things at our online store, you will need to give us certain personal information (name, e-mail address, telephone number, address(s), credit card type, number, expiration, and CVV2 value). We store your contact information in our order entry system. We do not store your credit card details. In fact, your credit card information never passes through our site—it is captured directly by our payment gateway.
 
 ### Automatic Collection of Information
 
@@ -57,7 +55,7 @@ We ensure that your personal data will not be disclosed to State institutions an
 
 ### Access to the personal data we may hold about you
 
-You can ask us whether we are keeping personal data about you. To do this, send a fax to +1 972 539 7832 containing information that we can use to identify you, along with a copy of an officially issued identity document (such as a driving license or passport). The latter requirement may seem like overkill, but we don’t want to give your information out to someone who isn’t you. Please be sure to include sufficient contact details to allow us to respond to you, including an e-mail address and telephone and/or fax number. We will provide you with a readable copy of the personal data which we keep about you within a week.
+You can ask us whether we are keeping personal data about you. To do this, send a fax to +1 214 206 9982 containing information that we can use to identify you, along with a copy of an officially issued identity document (such as a driving license or passport). The latter requirement may seem like overkill, but we don’t want to give your information out to someone who isn’t you. Please be sure to include sufficient contact details to allow us to respond to you, including an e-mail address and telephone and/or fax number. We will provide you with a readable copy of the personal data which we keep about you within a week.
 
 We’ll happily update or completely remove any data we hold on you, although we might have to defer any update or deletion if there is a pending credit card transaction based on your data. If however you are disputing a credit card transaction based on your data, them we’ll take steps to deal with it immediately. (Basically, if you want us to remove your from our order-processing system, we’re happy to do it, but we may need your details for a day or two while the order itself is processed. If instead you’re telling us that an order apparently placed by you was not placed by you, we’ll take steps immediately, and not wait for any transaction to complete).
 
@@ -73,8 +71,8 @@ Address:  |  Pragmatic Programmers, LLC
   |  PO Box 293325   
   |  Lewisville, TX 75029-3325   
   |  USA   
-Phone Number:  |  972 539 7098   
-Fax Number:  |  972 539 7832   
+Phone Number:  |  214 233 6543   
+Fax Number:  |  214 206 9982   
 E-Mail:  |  support@pragprog.com   
   
 ### What We Collect and What We Do With it
