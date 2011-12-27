@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkcity.com privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218025704id_/http%3A//www.talkcity.com/InfoCentral/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkcity.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227130848id_/http%3A//www.talkcity.com/InfoCentral/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Talk City: Info Central: Privacy Policy
 
@@ -88,4 +88,4 @@ All of our users' information collected on Talk City services , is restricted. O
 
 If you have any questions about the security at our website, you can send an email to: [ info@delphiforums.com](mailto:info@delphiforums.com)
 
-Talk City, Delphi Forums and Mzinga reserve the right to modify this agreement at any time, by posting it on our website.
+Delphi Forums LLC reserves the right to modify this agreement at any time, by posting it on our website.
