@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localmoneysites.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511201434id_/http%3A//www.localmoneysites.com/member/membership/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localmoneysites.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227111335id_/http%3A//www.localmoneysites.com/member/membership/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Local Money Sites
 
