@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the silktide.com privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310013149id_/http%3A//www.silktide.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silktide.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227222451id_/http%3A//www.silktide.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Silktide
+# Privacy policy
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
