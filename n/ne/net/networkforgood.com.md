@@ -1,100 +1,67 @@
-> *The following text is extracted and transformed from the networkforgood.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkforgood.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227081842id_/http%3A//www1.networkforgood.org/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Our Privacy, Security & Disclosures Statement | Network for Good
 
-**Go Daddy Respects Your Privacy**
+Since our inception in November 2001, the Network for Good giving system has processed over $485 million in donations to more than 60,000 charities thanks to the generosity of donors like you.  We understand your concerns about safety and security and want to assure you that we make every effort to safeguard your privacy when you make donations through our giving system.  Our mission is to help you support any charity, anywhere online - in a convenient and secure manner. 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+The information below spells out our privacy and security practices.  If you have any questions about this statement, please do not hesitate to [contact us](http://www.networkforgood.org/about/contact.aspx).
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Network for Good is a [BBB Accredited Charity](http://www.bbb.org/charity-reviews/national/other/network-for-good-in-bethesda-md-1290) and uses industry-leading Secure Sockets Layer (SSL) technology to keep your personal information as secure as possible and protect against the loss, misuse and alteration of the information under our control. Network for Good helps to protect your information by working with partners that provide a secure and safe environment for credit card donations. All information is stored in a secure database.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Like most web site administrators we use log files that record information such as Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and page navigation. We gather this information to track web site visitor movement in the aggregate, and to gather broad demographic information for aggregate use. Our goal in gathering this information is to learn how our customers and the public are using our service. IP addresses that are recorded by our log files are not linked to personally identifiable information.
 
-**Information Collection and Use**
+Network for Good uses "session cookies" while a visitor is making a donation using a  DonateNow button. "Cookies" are bits of information that are stored by your browser on your hard drive. We use "session cookies" so that we can properly verify a donor's identity as they move from one donation page to the next. For our nonprofit customers, we use "session cookies" and "persistent cookies" in addition to verifying personal information, so that we can provide secure access to donor information. These session cookies are not linked to personally identifiable information.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+This web site contains links to other sites. Please be aware that Network for Good is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Privacy & Security for Donors
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Donations through the Network for Good giving system are made to a nonprofit, donor advised fund, which will distribute your donation. Network for Good respects and protects your privacy and will never sell, trade or rent your personal information to other individuals or companies.  The information that you provide is used only to complete your donation. With your permission, your name and contact information will be provided to the charity or charities you supported through Network for Good. If you do not wish share your name and contact information with the charity or charities you supported through Network for Good or you choose to make your donation anonymously, Network for Good will not share your name or contact information.  Network for Good provides a field to include an optional dedication with the donation. Network for Good reserves the right in its sole discretion to remove text from this field before it is provided to the designated charity, for example, if Network for Good deems it inappropriate, offensive or misrepresentative.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+When you create an account with Network for Good you may choose to receive your donation records at tax time and occasional email updates on your favorite charities. If you do not wish to hear from us, simply uncheck the box on the bottom of the billing page, unsubscribe from any mailing or [contact us](http://www.networkforgood.org/about/contact.aspx) directly.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+  * **Tell-a-Friend** : If you use our referral service to inform a friend about our site, you will be asked for the friend's name and email address. Network for Good will automatically send the friend a one-time email inviting them to visit the site. Network for Good stores this information for the sole purpose of sending this one-time email and will not add your friend to our mailing list.
+  * **The Good Card** **®** **:** If you purchase a Good Card®on Network for Good's website, all of your personal information is kept confidential by Network for Good. When the card recipient uses their card to give to charity their personal information is also kept confidential. We do not share the recipient's information with the charity they choose. The recipient gets the option of letting the purchaser know they have redeemed their card. 
+  * **SixDegrees.org** ®: If you make a donation, use a Charity Badge, purchase a Good Card®or redeem a Good Card®on [www.sixdegrees.org](http://www.sixdegrees.org/), your first name and selected charity may appear as a pinpoint on the homepage map of recent activity on Six Degrees. This information is for display purposes only. If you have selected to remain anonymous, your first name and charity will not appear on the map.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Security**
+**Special note on employee giving** :  Network for Good provides employee giving solutions for partner companies such as TimeWarner and the New York Federal Reserve Bank.  When Network for Good is processing donations as part of a specific employee giving campaign, we do share some donor information (such as name, email address, donation amount), but not credit card or financial information, with the partner company to confirm that the donation was made by a legitimate employee.  In these instances, the partner company has disclosed its relationship to Network for Good through its Intranet, website or employee communications prior to the donation being made.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**Special note on corporate partners:** Network for Good partners with other organizations and companies to enable giving across the Internet.  Please be aware that Network for Good is not responsible for the privacy practices of our partners and any donor information shared through partner sites (such as [Capital One](https://www.capitalone.com/give/?linkid=WWW_Z_Z_Z_GSFAQ_H1_01_T_GSHM) or [Causes on Facebook](http://www.causes.com/)) is subject to that partner's privacy policy.  However, when donations are "Powered by Network for Good," the donor information shared with recipient charities is subject to Network for Good's privacy policy.  Example: [Causes on Facebook Privacy Policy](http://apps.facebook.com/causes/privacy)
 
-**Updating Your Information**
+**Special note on charities:**   Each charity has its own policies regarding privacy of donor information. Please contact the charity you contribute to directly to learn about their privacy policies. We will only pass on the information you provide us if you authorize us to do so.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**What information is being shared by Network for Good with the recipient charity?**
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Before you confirm your donation through the Network for Good giving system, you are asked what information you wish to be shared with the recipient charity(ies).You have a choice of: full contact information, name and email address only, or no personal information (anonymous).  Network for Good respects donor privacy and only shares information with donor consent.  For example, when a donor has asked to remain anonymous, no information is shared with the charity - we simply confirm that a donation has been made.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**How can I confirm what donor information was shared by Network for Good with the recipient charity or request corrections?**
 
-      iii.      You may call us at: (480) 505-8800
+If you want to confirm information shared with a recipient charity or change your personal information, please contact our [Customer Support Team](http://www.networkforgood.org/about/contact.aspx), and a Support Specialist will be happy to help you.  If you are looking to get in touch directly with a charity, you can find contact information in our partner [GuideStar](http://www2.guidestar.org/)'s database.
 
-       iv.      You may fax us at: (480) 505-8844
+Privacy & Security for Nonprofits
 
-**Sending Emails**
+To provide services to nonprofits, we collect your personal and organizational information such as: name, address, email address, organization name, employer ID, credit card number, etc.  We collect this information so that we can process set-up fees and monthly fees and to carefully screen organizations for our subscription services (including, but not limited to, **DonateNow** , **EmailNow** and **EventsNow** ) to ensure that their programmatic work meets the scope of our vision statement. Applicants fill out an online Application Form, which our customer service staff reviews. We may contact an applicant to verify information. The set-up fees and monthly fees are processed through a credit card processing company. This company does not retain, share, store or use personally identifiable information for any secondary purposes. Nonprofit customers can log into their password protected "My Account" section to update any personally identifiable information.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Network for Good offers its own free e-Newsletter that it sends out to nonprofit customers and other interested individuals that includes online fundraising and marketing advice and training opportunities. Customers are automatically added to this e-Newsletter, and other individuals opt-in to subscribe on the Network for Good web site or through personal contact. Subscribers may choose to unsubscribe at any time and unsubscribe information is located at the bottom of each e-Newsletter. Individuals who donate to nonprofits through the Network for Good DonateNow service are not subscribed to this e-Newsletter.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+When you register for one of our webinars, we collect your personal and organizational information such as: name, address, email address, phone number, etc. This information is collected through an event registration vendor who shares the information with Network for Good. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
 
-**Compliance with Laws and Law Enforcement**
+**EmailNow Privacy & Security**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**EventsNow Privacy & Security**
 
-**Third Party Service Providers**
+Charitable Solicitation Disclosure
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+You can read our Charitable Solicitation Disclosure online [here](http://www1.networkforgood.org/solicitationdisclosure) or at <http://www1.networkforgood.org/solicitationdisclosure>.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Complying With the Legal System
 
-**Supplementation of Information**
+Though Network for Good makes every effort to preserve donor and customer privacy, we may need to disclose personal information when we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our organization.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Changes to the Policy
 
-**Contests/Surveys**
+Network for Good periodically reviews and updates this privacy policy.  If we decide to change our privacy policy, we will post those changes to our web site so our donors and customers are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+[Additional FAQs on Privacy and Security](http://support.networkforgood.org/Default.asp?a=5&searchin=all&n=1&ST=privacy&searchSubmit.x=0&searchSubmit.y=0)
