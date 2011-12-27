@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hunch.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612225848id_/http%3A//hunch.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunch.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227060343id_/http%3A//hunch.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hunch
 
-Effective January 13, 2011
+Effective November 3, 2011
 
-This Privacy Policy covers Hunch's treatment of personal information that Hunch collects when you are on the Hunch website ("the Site") and when you use Hunch services. It covers Hunch accounts that were created on or after January 13, 2011. Accounts created before January 13, 2011 are subject to the [previous version](https://web.archive.org/info/privacy-policy/?date=2010-09-13) of this policy until they are prompted to opt-in to this updated version.
+This Privacy Policy covers Hunch's treatment of personal information that Hunch collects when you are on the Hunch website ("the Site") and when you use Hunch services.
 
 ### The really big picture:
 
