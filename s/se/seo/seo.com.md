@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seo.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616101816id_/http%3A//www.seo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227034127id_/http%3A//www.seo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
