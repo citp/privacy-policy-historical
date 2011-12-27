@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shtyle.fm privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316084827id_/http%3A//www.shtyle.fm/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shtyle.fm privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227081426id_/http%3A//www.shtyle.fm/Privacy.jsp) for the most accurate reproduction.*
 
 # Shtyle.fm : Privacy Policy
 
@@ -79,20 +79,4 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.shtyle.fm/Terms.jsp>
-
-**Your Consent**
-
-By using our site, you consent to our [web site privacy policy](http://www.shtyle.fm/). 
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
-
-This policy was last modified on June 19 2009 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the email address below. 
-
-support@shtyle.fm 
+Please also visit our Terms and Conditions section establis
