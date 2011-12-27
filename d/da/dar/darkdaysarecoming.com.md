@@ -1,28 +1,16 @@
-> *The following text is extracted and transformed from the darkdaysarecoming.com privacy policy that was archived on 2010-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100203210418id_/http%3A//www.funcom.com/wsp/funcom/frontend.cgi%3Ffunc%3Dpublish.show%26table%3DCONTENT%26func_id%3D1279) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darkdaysarecoming.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227235006id_/http%3A//www.funcom.com/corporate/privacy_policy) for the most accurate reproduction.*
 
-# Funcom - Privacy Policy
+# funcom.com | Funcom Privacy Policy
+
+[](https://web.archive.org/corporate/privacy_policy_german) [](https://web.archive.org/corporate/privacy_policy_french) [](https://web.archive.org/corporate/privacy_policy_spanish)
 
 Funcom takes the privacy of its customers seriously and wants you to understand how and why it collects, uses and maintains the privacy of your personal information. This Privacy Policy is part of the Terms of Use for the Services offered by Funcom. Funcom is not responsible or liable for any third party websites not under the control of Funcom, accessible through the Game or from Funcom controlled websites. This Privacy Policy does not apply to such third party websites. Accessing Funcom’s website implies acceptance of the Funcom Privacy Policy.
-
-  * What information does Funcom collect?
-  * How do we protect your personal information and do we share it with others?
-  * With whom do you share my information?
-  * What happens to my information if I terminate the Service?
-  * Can I reactivate my account?
-  * What Other Uses may you make of my personal information? Can I opt-out of information uses and how? Do you use cookies or track IP addresses?
-  * What about children?
-  * What choices do I have about Funcom's use of information about me?
-  * Do you sell my information to third parties?
-  * What if you change the Policy?
-  * How to access and rectify my information?
-
-
 
 ### What information does Funcom collect?
 
 Personal Information: Funcom collects information you voluntarily provide during the registration process in order to grant you access to products and service provided by Funcom and its affiliates. This "Personal Information" may include your name, your address, your email, and payment details such as credit card information. Funcom uses this information to collect payments and to provide access to our products and services.
 
-Computer Information: Funcom may collect and store your internet protocol address. As noted in the Funcom End User License Agreement (“EULA”), we may use this information to remotely check your computer to determine if any “Restricted Software” (as such term is defined in the EULA) is installed or if any necessary software patches supplied by Funcom have been installed.
+Computer Information: Funcom may collect and store your internet protocol address.  As noted in individual game's End User License Agreements and/or Terms of Service. We may use this information to remotely check your computer to determine if any “Restricted Software” (as such term is defined in the EULA) is installed or if any necessary software patches supplied by Funcom have been installed.
 
 Chat Room Information: Funcom may monitor any Chat room on the Funcom website(s) for the purpose of determining whether a violation of the Chat room guidelines has occurred and to take appropriate action as we deem reasonably necessary. Funcom encourages you not to use your real name or disclose personal information in a Chat room – once posted any personal information will no longer be private.
 
@@ -60,7 +48,7 @@ From time to time Funcom may contact you regarding new games or services availab
 
 ### What about children?
 
-The Funcom games are rated by the official rating boards in all major markets. Funcom does not knowingly collect personal information from any person under the age limits that have been assigned by the rating boards.
+Funcom games may be rated by official boards. See the individual games privacy information on respective sites. Funcom does not knowingly collect personal information from any person under the age limits that have been assigned by the rating boards.
 
 ### What choices do I have about Funcom's use of information about me?
 
@@ -78,4 +66,7 @@ In the event Funcom decides to change the Privacy Policy you will receive notice
 
 ### How to access and rectify my information?
 
-If you wish to access or rectify the information which Funcom has stored about you, please contact Funcom Sales GmbH,Neugutstrasse 66, 8600 Dübendorf Switzerland
+If you wish to access or rectify the information which Funcom has stored about you, please contact:  
+Funcom Sales GmbH,  
+Neugutstrasse 66,  
+8600 Dübendorf Switzerland
