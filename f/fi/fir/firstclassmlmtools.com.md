@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstclassmlmtools.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627050840id_/http%3A//www.firstclassmlmtools.com/Privacy-Policy-W12.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstclassmlmtools.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227095319id_/http%3A//www.firstclassmlmtools.com/Privacy-Policy-W12.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
