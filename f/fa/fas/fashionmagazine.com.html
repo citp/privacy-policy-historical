@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fashionmagazine.com privacy policy that was archived on 2011-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110622195436id_/http%3A//www.fashionmagazine.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fashionmagazine.com privacy policy that was archived on 2011-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227225819id_/http%3A//www.fashionmagazine.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -63,6 +63,24 @@ $(document).ready(function(){
 });
 // ]]>
 </script>
+<script type="text/javascript">
+<!--
+//code for expanding unit in RR
+$(document).ready(function(){
+    //hide the all of the element with class msg_body
+    $('div.msg_body').hide();
+    //toggle the componenet with class msg_body
+    $('a img.msg_head').hover(function(){
+        $('div.msg_body').slideDown(200);
+    });
+    
+    $(".msg_close").click(function(){
+    $('.msg_body').hide();
+    });
+    
+});
+//-->
+</script>
 
 
 <!-- OAS SETUP begin -->
@@ -84,6 +102,25 @@ if(jQuery.url.segment(1)=='slideshow') {
 } else {
     var URL_PATH = jQuery.url.attr("path"); // get the path
 }
+
+
+<!--start wallpaper -->
+
+
+
+if(URL_PATH=='/') 
+    {
+document.write('<style type="text/css">body { background:#ffffff url(http://media.fashionmagazine.com/ads/roots-boxing-day-wallpaper.jpg) fixed top no-repeat; } #add_link1 { display: block; height: 100%; left: 0; position: fixed; text-indent: -5000em; top: 0; width: 100%; z-index: 0; }#uber {position:relative;}</style>');
+                
+                }else
+    {
+    document.write('<style type="text/css">body #add_link1 { visibility:hidden; position: absolute; left: -200%;} </style>');
+ 
+    }
+
+
+
+<!-- end wallpaper -->
 
 // load the array with the URL's in the campaign. 
 var arr = ["/guides/fall/", "/fashion-file/regulararticle/709/", "/fashion-file/regulararticle/710/", "/fashion-file/regulararticle/711/", "/fashion-file/regulararticle/712/", "/fashion-file/regulararticle/713/", "/fashion-file/regulararticle/714/", "/fashion-file/slideshowarticle/993/", "/fashion-file/slideshowarticle/996/", "/fashion-file/slideshowarticle/997/", "/fashion-file/slideshowarticle/998/", "/fashion-file/slideshowarticle/999/", "/fashion-file/slideshowarticle/1000/", "/fashion-file/slideshowarticle/1001/", "/fashion-file/slideshowarticle/1002/", "/fashion-file/slideshowarticle/1003/", "/fashion-file/slideshowarticle/1004/", "/fashion-file/slideshowarticle/1008/", "/fashion-file/slideshowarticle/1014/", "/fashion-file/slideshowarticle/1015/", "/fashion-file/slideshowarticle/1016/", "/fashion-file/slideshowarticle/1017/", "/fashion-file/slideshowarticle/1018/", "/fashion-file/slideshowarticle/1019/", "/fashion-file/slideshowarticle/1020/", "/fashion-file/slideshowarticle/1021/", "/fashion-file/slideshowarticle/1022/", "/fashion-file/slideshowarticle/1023/", "/fashion-file/slideshowarticle/1024/", "/quiz/180/2/", "/videos/fashion/fall-2009-trend-report/"];
@@ -171,9 +208,31 @@ function OAS_AD(pos) {
 </script>
 <!-- GOOGLE Analytics end -->
 
+<!--Start navigation drop-down fix for IE-->	
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+sfHover = function() {
+	var sfEls = document.getElementById("main-nav").getElementsByTagName("LI");
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" sfhover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		}
+	}
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+//--><!]]></script>
+<!--End navigation drop-down fix for IE-->
+
 </head>
 
-<body id="page-privacy">
+
+
+<body style="overflow-x: hidden; overflow-y: auto;" id="page-privacy">
+<a target="_blank" id="add_link1" href="/roots_wp_bd/"></a>
+
+
 <a name="alpha"></a>
 <div id="uber"><!--start #uber-->
     
@@ -208,24 +267,71 @@ jQuery(document).ready(OAS_AD('x14'));
                 <p><a href="/video/">Video</a></p>
                 <p><a href="/blogs/">Blog</a></p>
                 <div id="site-search">
-<form action="http://www.fashionmagazine.com/blogs/search/" id="cse-search-box">
-  <div>
-    <input type="hidden" name="cx" value="009142606550517782678:vrdnozpuxlo">
-    <input type="hidden" name="cof" value="FORID:10;NB:1">
-    <input type="hidden" name="ie" value="UTF-8">
-    <input type="text" class="text" name="q" size="31" onblur="if(this.value=='')this.value='enter keyword search'" onfocus="if(this.value=='enter keyword search')this.value=''" value="enter keyword search">
-    <input type="submit" name="sa" value="Search" class="go-btn">
-  </div>
-</form>
-              
+                    <form action="http://www.fashionmagazine.com/blogs/search/" id="cse-search-box">
+                        <div>
+                            <input type="hidden" name="cx" value="009142606550517782678:vrdnozpuxlo">
+                            <input type="hidden" name="cof" value="FORID:10;NB:1">
+                            <input type="hidden" name="ie" value="UTF-8">
+                            <input type="text" class="text" name="q" size="31" onblur="if(this.value=='')this.value='enter keyword search'" onfocus="if(this.value=='enter keyword search')this.value=''" value="enter keyword search">
+                            <input type="submit" name="sa" value="Search" class="go-btn">
+                        </div>
+                    </form>
                 </div>
             </div>      
-            <ul id="main-nav">
-                <li id="nav-fashion"><a href="/fashion-file/" title="FASHION">Fashion</a></li>
-                <li id="nav-beauty"><a href="/beauty/" title="BEAUTY">Beauty</a></li>
-                <li id="nav-culture"><a href="/luxe-life/" title="CULTURE + MUSIC">Culture + Music</a></li>
-                <li id="nav-shops" class="last-item"><a href="/shops/" title="SHOPS + SERVICES">Shops + Services</a></li>
-            </ul>
+                <ul id="main-nav">
+                    <li id="nav-fashion"><a href="/blogs/fashion-home/" title="FASHION">Fashion</a>
+                        <ul class="drop-down">
+                            <li><a href="/blogs/fashion-home/"><strong>Fashion home</strong></a></li>
+                            <li><a href="/blogs/tag/style-snaps/">Style Snaps</a></li>                            
+                            <li><a href="/blogs/fashion/2011/08/18/fall-trends-guide-2011/">Fall Trends Guide 2011</a></li>
+                            <li><a href="/blogs/tag/fashion-week/">Fashion Week coverage</a></li>
+                            <li><a href="/blogs/tag/they-saidwe-said/">They Said/We Said</a></li>
+                            <li><a href="/blogs/tag/whats-in-your-bag/">What’s in your bag</a></li>
+                            <li><a href="/blogs/tag/style-studio/">Style Studio</a></li>
+                            <li><a href="/blogs/tag/fashion-news/">Fashion news</a></li>
+                            <li><a href="/blogs/tag/ones-to-watch/">Ones to Watch</a></li>
+                            <li><a href="/videos/fashion/">All fashion videos</a></li>
+                            <li><a href="/blogs/fashion/"><strong>All Fashion posts</strong></a></li>
+                       </ul>
+                    </li>
+                    <li id="nav-beauty"><a href="/blogs/beauty-home/" title="BEAUTY">Beauty</a>
+                        <ul class="drop-down">
+                            <li><a href="/blogs/beauty-home/"><strong>Beauty home</strong></a></li>
+                            <li><a href="/blogs/beauty/2011/08/30/fall-beauty-guide-2011/">Fall Beauty Guide 2011</a></li>
+                            <li><a href="/blogs/backstage-beauty/">Backstage Beauty</a></li>
+                            <li><a href="/blogs/tag/afternoon-beauty-fix/">Afternoon Beauty Fix</a></li>
+                            <li><a href="/blogs/tag/beauty-decoded/">Beauty Decoded</a></li>
+                            <li><a href="/blogs/tag/diy-nails/">DIY Nails</a></li>
+                            <li><a href="/videos/beauty/">All beauty videos</a></li>
+                            <li><a href="/blogs/beauty/"><strong>All Beauty posts</strong></a></li>
+                       </ul>
+                    </li>              
+                    <li id="nav-shopping"><a href="/blogs/shopping-home/" title="SHOPPING">Shopping</a>
+                        <ul class="drop-down">
+                            <li><a href="/blogs/shopping-home/"><strong>Shopping home</strong></a></li>
+                            <li><a href="/blogs/tag/daily-steal/">Daily Steal</a></li>
+                            <li><a href="/blogs/tag/fashion-plates/">Fashion Plates shopping guides</a></li>
+                            <li><a href="/blogs/tag/toronto/">Toronto</a></li>
+                            <li><a href="/blogs/tag/montreal/">Montreal</a></li>
+                            <li><a href="/blogs/tag/calgary/">Calgary</a></li>                        
+                            <li><a href="/blogs/tag/edmonton/">Edmonton</a></li>                        
+                            <li><a href="/blogs/tag/vancouver/">Vancouver</a></li>
+                            <li><a href="/blogs/shopping/"><strong>All shopping posts</strong></a></li>
+                        </ul>
+                    </li>
+                    <li id="nav-scene" class="last-item"><a href="/blogs/scene-home/" title="SCENE + MUSIC">Scene + Music</a>
+                        <ul class="drop-down">
+                            <li><a href="/blogs/scene-home/"><strong>Scene home</strong></a></li>
+                            <li><a href="/blogs/tag/tiff-2011/">TIFF 2011</a></li>
+                            <li><a href="/blogs/tag/party-pics/">Party Coverage</a></li>                               
+                            <li><a href="/blogs/tag/true-blood-recap/">True Blood Recaps</a></li>
+                            <li><a href="/blogs/tag/snps-word-of-the-day/">SNP's Word of the Day</a></li>
+                            <li><a href="/blogs/tag/red-carpet/">Red Carpet</a></li>
+                            <li><a href="/blogs/tag/royal-watch/">Royal Watch</a></li>
+                            <li><a href="/blogs/society/"><strong>All Scene posts</strong></a></li>
+                       </ul>                
+                    </li>                        
+                </ul>        
         </div>
 
         <h1 id="site-title"><a href="/" title="HOME">Fashion</a></h1>  
@@ -237,7 +343,11 @@ jQuery(document).ready(OAS_AD('x14'));
         <div id="content" class="">
             
 <div id="generic">
-<h2>Privacy. Plain and Simple</h2>
+<!-- go back -->
+<p style=" padding:5px; background-color: #f8f8f8; border: 1px solid #cccccc; width: 70px; float:right;"><a href="javascript:history.go(-1)">Go Back</a></p>
+<p style="clear:both;"></p><p>
+<!-- go back end -->
+</p><h2>Privacy. Plain and Simple</h2>
 <p>
   Your privacy is important to you. And it’s important to us  as well. St. Joseph Media, the parent company of <em>FASHION Magazine</em>, will not  sell, distribute, barter or transfer any of your personally identifiable  information to companies, organizations or other parties outside of St. Joseph  Media and its subsidiaries (the St. Joseph Media Companies) without your  permission. It’s that simple.</p>
 <p>Want more detailed information about how we protect your  personal information, how you can contact us with questions about privacy or  any other privacy-related concerns? Please read our complete <u>St. Joseph  Media Companies’ Privacy Policy</u>.</p>
@@ -385,6 +495,7 @@ L3P 8C8
     
     
     
+    
     <div class="community">
         <ul class="icons">
             <li class="twitter"><a href="http://twitter.com/FashionCanada">Twitter</a></li>    
@@ -395,9 +506,9 @@ L3P 8C8
         <h5>Join Fashion</h5>      
     
         <ul class="additional-links">
-            <li><a title="Sign up for newsletters" href="/contest/insider/">Newsletters</a></li>
+            <li><a title="Sign up for newsletters" href="/blogs/newsletter-subscribe/">Newsletters</a></li>
             <li><a title="Subscribe to the magazine" href="https://secure.indas.on.ca/care/fsm/subscribe.php3">Subscribe</a></li>
-            <li><a title="Enter contests" href="/win/">Contests</a></li>
+            <li><a title="Enter contests" href="/blogs/contests/">Contests</a></li>
             <li><a title="Find out about events" href="/events/">Events</a></li>
             <li class="last_item"><a title="Music coverage" href="/music/">Music</a></li>
         </ul> 
@@ -411,7 +522,29 @@ jQuery(document).ready(OAS_AD('x05'));
 //--> 
 </script>
     </div>    
-    
+  
+    <!--START EXPANDING UNIT-->
+     
+		<!--div style="padding: 0 12px 8px 8px; font-family:Verdana, sans-serif; font-size:12px; margin-top:10px;">		
+			<div class="msg_list">
+			
+        		<a href="https://secure.indas.on.ca/care/fsm/cp_strike_login.php"><img class="msg_head" src="http://media.fashionmagazine.com/images2/FMcan-post-strike.png" width="300px" height="60px" /></a>
+
+				<div class="msg_body" style="background-color:#fff3f3; padding:8px;">
+					<h4 style="padding-bottom:4px; border-bottom:4px solid #A0A0A0;">FREE! DOWNLOAD YOUR FULL
+					AUGUST’11 DIGITAL EDITION, NOW.</h4>
+					
+					<p style="margin-bottom:8px;">Your August 2011 subscriber copy of FASHION Magazine is printed and in the mail. You may not have received it yet due to labour issues at Canada Post.</p>
+					
+					<a href="https://secure.indas.on.ca/care/fsm/cp_strike_login.php" target="_blank"><img src="http://media.fashionmagazine.com/images2/FMfree-dig-ed-btn.png" alt="Get Your Free Digital Edition" style="float:right;" /></a>
+					
+					<p style="margin-bottom:16px;">In the meantime you can read the August issue in digital format. <a href="https://secure.indas.on.ca/care/fsm/cp_strike_login.php" target="_blank">Log-in to your account now!</a> As a valued subscriber you'll get the full digital edition of August 2011 FASHION Magazine, FREE. Download it and view it on your iPhone, iPad, PC or MAC. Thank you for reading FASHION!</p>
+
+					<div class="msg_close" style="cursor: pointer;"><strong>x CLOSE</strong></div>
+				</div> 		
+			</div>
+		</div-->	
+    <!--END EXPANDING UNIT-->    
     <div class="magazine">
         <h5><a title="Read what's in FASHION Magazine's latest issue" href="/inthisissue/">Current Issue</a></h5>
         
@@ -419,7 +552,7 @@ jQuery(document).ready(OAS_AD('x05'));
     
         <ul>
             <li><a title="Table of contents" href="/inthisissue/">Table of contents</a></li>        
-            <li><a title="Digital edition" href="http://magazinescanada.zinio.com/checkout/publisher/?productId=500247451&amp;offer=500349615&amp;bd=1&amp;pss=1">Get the digital edition</a></li>
+            <li><a title="Digital edition" href="http://magazinescanada.zinio.com/browse/publications/index.jsp?productId=500247451&amp;categoryId=cat1460016">Get the digital edition</a></li>
             <li><a title="Subscribe" href="https://secure.indas.on.ca/care/fsm/subscribe.php3">Subscribe</a></li>
             <li><a title="Gift subscription" href="https://secure.indas.on.ca/care/fsm/gift/gift.php3?chk=100&amp;">Give a gift</a></li>
             <li><a title="Cover archive" href="/coverarchive/">Cover archive</a></li>
@@ -427,7 +560,9 @@ jQuery(document).ready(OAS_AD('x05'));
         </ul>  
     </div>
     
-   
+    <h3 style="font-family:'Open Sans',sans-serif;color:#4F4F4F;margin:0 10px 8px;text-transform:uppercase;">Most popular right now</h3>
+    <div id="streamContainer" style="margin:0 10px 20px;"></div>
+
     <div class="boxad">
         <span class="ad-marker">Advertisement</span>
         <script type="text/javascript">
@@ -441,24 +576,29 @@ jQuery(document).ready(OAS_AD('x13'));
         
         <img class="msg-marker" src="http://media.fashionmagazine.com/global/ad-marker.gif" alt="special messages">
         
-        <a href="/bb_mb/" title="Eco Guide" target="_blank"><img src="http://media.fashionmagazine.com/global/WBecoGuideFall_MB.jpg" alt="eco guide" width="300" height="60"></a>        
+            <!--a href="/reitmans_mb/" title="Reitmans contest"><img src="http://media.fashionmagazine.com/ads/300x60-en.jpg" alt="Reitmans contest" width="300" height="60"></a-->
+        
+        <a href="/birks_mb/" title="Birks 10 Jewellery Essentials"><img src="http://media.fashionmagazine.com/global/FM_Birks_MB.jpg" alt="Birks 10 Jewellery Essentials" width="300" height="60"></a>
+         
+         <a href="/sabo_mb/" title="Thomas Sabo After Party"><img src="http://media.fashionmagazine.com/global/TS_VAN_300x60.jpg" alt="Thomas Sabo After Party" width="300" height="60"></a>
+         
+        <a href="/cityscene/" title="Click to see this month's events and promotions"><img src="http://media.fashionmagazine.com/global/FMcityscene300.gif" alt="City Scene: Check out this month's events and promotions" width="300" height="60"></a>  
+        
     </div>
     
     <div class="contests">
-        <h5><a title="Contests" href="/win/">Contests</a></h5>   
-            
-            
-            
+        <h5><a title="Contests" href="/blogs/contests/">Contests</a></h5>   
+        <iframe src="http://stage.directory.stjosephmedia.com:81/landing_temp3.php?siteid=FM&amp;showimg=no" width="300" height="300" frameborder="0"></iframe> 
     </div> 
     
     
         
-<div class="text-ads">
-	<img alt="advertisement" src="http://media.fashionmagazine.com/global/ad-marker.gif" class="ad-marker"><br>
+<!--div class="text-ads">
+	<img alt="advertisement" src="http://media.fashionmagazine.com/global/ad-marker.gif" class="ad-marker"/><br />
     <p>THIS IS OUR VANCOUVER <a href="/van_txt" target="_blank">www.thisisourvancouver.com</a></p>
     <p>Get the latest <a href="http://www.appareltrade.net/" target="_blank">wholesale apparel</a> fashion suppliers!</p>
     <p>Get <a href="http://www.textilezone.net/" target="_blank">textile industry</a> related websites and news!</p>
-</div>
+</div-->
     
 </div><!--end sidebar, #right-rail-->
         
@@ -474,12 +614,12 @@ jQuery(document).ready(OAS_AD('x13'));
     <div id="special-features">
         <h5><span>Special Features</span></h5>    
         <ul>
-            <li><a href="http://www.fashionmagazine.com/blogs/tag/fashion-plates/">FASHION Plates: Shopping guides</a></li>
-            <li><a href="http://www.fashionmagazine.com/blogs/fashion/2011/05/20/destination-dressing-get-outta-town/">Summer destination dressing</a></li>
-            <li><a href="http://www.fashionmagazine.com/blogs/fashion/2011/06/07/25-most-splash-worthy-swimsuits-of-summer/">The list: Swimsuits</a></li>
-            <li><a href="http://www.fashionmagazine.com/blogs/beauty/2011/06/03/summer-beauty-guide-2011/">Summer beauty guide</a></li>
+        <li><a href="http://www.fashionmagazine.com/blogs/shopping/2011/11/18/holiday-gift-guide-2011/">Holiday Gift Guide 2011</a></li>
+            <li><a href="/blogs/tag/fashion-plates/">FASHION Plates: Shopping guides</a></li>
+<li><a href="http://www.fashionmagazine.com/blogs/tag/style-snaps/">Style snaps</a></li>
+            <li><a href="/blogs/tag/snps-word-of-the-day/">Word of the day</a></li>
             <li><a href="/coverarchive/">Covers archive</a></li>
-            <li><a href="http://www.fashionmagazine.com/blogs/tag/guides/">SEE ALL GUIDES</a></li> 
+            <li><a href="/blogs/tag/guides/">SEE ALL GUIDES</a></li> 
         </ul>    
     </div>
     
@@ -496,39 +636,39 @@ jQuery(document).ready(OAS_AD('x13'));
 <div id="widget_xml_feed">
 
 	<div class="topic">
-		<h4><a href="http://www.fashionmagazine.com/blogs/society/2011/06/22/inside-last-nights-mad-hot-wonderland-gala-boldfaced-names-a-hookah-smoking-caterpillar-and-fascinators-galore/">Inside last night’s Mad Hot Wonderland gala: Boldfaced names, a hookah-smoking caterpillar and fascinators galore</a>
-		
-		<span class="date">54 minutes ago</span></h4>
-	</div>
-
-	<div class="topic">
-		<h4><a href="http://www.fashionmagazine.com/blogs/shopping/2011/06/22/vancouver-shop-notes-she-shells/">Vancouver shop notes: She shells</a>
-		
-		<span class="date">1 hour ago</span></h4>
-	</div>
-
-	<div class="topic">
-		<h4><a href="http://www.fashionmagazine.com/blogs/beauty/2011/06/22/afternoon-beauty-fix-fake-a-summer-glow-after-a-day-at-the-office/">Afternoon beauty fix: Fake a summer glow after a day at the office.</a>
+		<h4><a href="http://www.fashionmagazine.com/blogs/shopping/2011/12/27/fashion-plates-solve-fashion-crimes-with-our-sherlock-holmes-guide/">FASHION Plates: Solve fashion crimes with our Sherlock Holmes-inspired shopping guide</a>
 		
 		<span class="date">2 hours ago</span></h4>
 	</div>
 
 	<div class="topic">
-		<h4><a href="http://www.fashionmagazine.com/blogs/fashion/2011/06/22/ones-to-watch-felicity-brown-deconstructs-picasso-for-ethereal-results/">Ones to watch: Felicity Brown deconstructs Picasso for ethereal results</a>
+		<h4><a href="http://www.fashionmagazine.com/blogs/beauty/2011/12/27/afternoon-beauty-fix-the-solution-for-eye-makeup-irritation-woes/">Afternoon beauty fix: The solution for eye makeup irritation woes</a>
 		
-		<span class="date">5 hours ago</span></h4>
+		<span class="date">3 hours ago</span></h4>
 	</div>
 
 	<div class="topic">
-		<h4><a href="http://www.fashionmagazine.com/blogs/fashion/2011/06/22/summer-fitness-guide-workout-gear/">Summer fitness guide: Stylish workout gear is the great motivator</a>
+		<h4><a href="http://www.fashionmagazine.com/blogs/society/2011/12/27/snps-word-of-the-day-giftalanche/">SNP’s word of the day: Giftalanche</a>
+		
+		<span class="date">4 hours ago</span></h4>
+	</div>
+
+	<div class="topic">
+		<h4><a href="http://www.fashionmagazine.com/blogs/society/2011/12/27/catch-up-on-what-kate-middleton-wore-on-christmas-at-sandringham/">Catch up on what Kate Middleton wore during her first Christmas as a Royal</a>
 		
 		<span class="date">6 hours ago</span></h4>
 	</div>
 
 	<div class="topic">
-		<h4><a href="http://www.fashionmagazine.com/blogs/shopping/daily-steal/2011/06/22/daily-steal-bracelet-3-pack-7/">Daily steal: Bracelet 3-pack, $7</a>
+		<h4><a href="http://www.fashionmagazine.com/blogs/beauty/2011/12/27/the-battle-of-the-blowout/">The battle of the blowout: Our beauty editors go head to head</a>
 		
 		<span class="date">7 hours ago</span></h4>
+	</div>
+
+	<div class="topic">
+		<h4><a href="http://www.fashionmagazine.com/blogs/shopping/daily-steal/2011/12/27/daily-steal-crochet-t-shirt/">Daily steal: Crochet T-shirt, $36</a>
+		
+		<span class="date">9 hours ago</span></h4>
 	</div>
 
 </div>
@@ -540,7 +680,7 @@ jQuery(document).ready(OAS_AD('x13'));
         
         <ul class="footer-links">
             <li><a href="/subscribe/" title="Subscribe">Subscribe</a></li>
-            <li><a href="/newsletter/" title="Newsletter">Newsletter</a></li>
+            <li><a href="/blogs/newsletter-subscribe/" title="Newsletter">Newsletter</a></li>
             <li><a href="/privacy/" title="Privacy Policy">Privacy Policy</a></li>
             <li><a href="/about/" title="About Us">About Us</a></li>
             <li><a href="/inquiry/" title="Contact Us">Contact Us</a></li>
@@ -554,24 +694,14 @@ jQuery(document).ready(OAS_AD('x13'));
         
             <!--googleoff: all -->
 <div id="button_ads">
-    <a href="http://www.fashionmagazine.com/racalieu_but/" target="_blank">
-	<img src="http://media.fashionmagazine.com/images2/racalieu_125x125.gif" width="125" height="125" alt="racalieu" border="0"></a>
-	<a href="http://www.jdoqocy.com/click-3655592-10539579" target="_blank">
-	<img src="http://media.fashionmagazine.com/images2/10539579-25.gif" width="125" height="125" alt="Free Shipping on orders over $150 at Steve Madden" border="0"></a>
-	<a href="http://www.jdoqocy.com/click-3655592-10378041" target="_blank">
-	<img src="http://media.fashionmagazine.com/images2/10378041-10.gif" width="125" height="125" alt="1800CONTACTS.com - 100% Satisfaction Guarantee!" border="0"></a>
-	<a href="http://www.tkqlhce.com/click-3655592-10661509">
-	<img src="http://media.fashionmagazine.com/images2/10661509-21.gif" width="125" height="125" alt="MXM 10% Off Banner - 125x125 " border="0"></a>
-	<a href="http://www.dpbolvw.net/click-3655592-10530401" target="_blank">
-	<img src="http://media.fashionmagazine.com/images2/10530401-7.jpg" width="125" height="125" alt="Charlotte Russe lifestyle banner" border="0"></a>
-	<!--a href="http://www.jdoqocy.com/click-3655592-10539579" target="_blank">
-	<img src="http://www.ftjcfx.com/image-3655592-10539579" width="125" height="125" alt="Free Shipping on orders over $150 at Steve Madden" border="0"/></a>
-	<a href="http://www.jdoqocy.com/click-3655592-10378041" target="_blank">
-	<img src="http://www.tqlkg.com/image-3655592-10378041" width="125" height="125" alt="1800CONTACTS.com - 100% Satisfaction Guarantee!" border="0"/></a>
-	<a href="http://www.tkqlhce.com/click-3655592-10661509">
-	<img src="http://www.tqlkg.com/image-3655592-10661509" width="125" height="125" alt="MXM 10% Off Banner - 125x125 " border="0"/></a>
-	<a href="http://www.dpbolvw.net/click-3655592-10530401" target="_blank">
-	<img src="http://www.lduhtrp.net/image-3655592-10530401" width="125" height="125" alt="Charlotte Russe lifestyle banner" border="0"/></a-->
+    <!--a href="http://www.fashionmagazine.com/mafia_but/" target="_blank">
+	<img src="http://media.fashionmagazine.com/images2/mafia_125x125.gif" width="125" height="125" alt="Mafia" border="0"/></a-->
+    <a target="_blank" href="/stellarstilettos_but/">
+	<img width="125" height="125" border="0" alt="Stellar Stilettos" src="http://media.fashionmagazine.com/images2/StellarStilettos_BtnAd.gif"></a>
+	<script type="text/javascript" language="javascript" src="http://www.dpbolvw.net/9g117dyujlnqxumn-8EED9AAA?target=_blank&amp;mouseover=Y"></script>
+    <script type="text/javascript" language="javascript" src="http://www.kqzyfj.com/placeholder-5540113?target=_blank&amp;mouseover=Y"></script>
+    <script type="text/javascript" language="javascript" src="http://www.dpbolvw.net/placeholder-5540124?target=_blank&amp;mouseover=Y"></script>
+    <script type="text/javascript" language="javascript" src="http://www.tkqlhce.com/placeholder-5540126?target=_blank&amp;mouseover=Y"></script>
 </div>
 
 
@@ -589,8 +719,14 @@ jQuery(document).ready(OAS_AD('x13'));
 document.write("<img id='img1' height='1' width='1' src='' alt='' />");
 document.getElementById("img1").src=(("https:" == document.location.protocol) ? "https://" : "http://")+"beacon.securestudies.com/scripts/beacon.dll?C1=2&C2=6035671&C3=&C4="+escape(window.location.href.indexOf("?")>0 ? window.location.href.substring(0, window.location.href.indexOf("?")) : window.location.href)+"&C5=&C6=&C7=" + escape(window.location.href) + "&C8=" + escape(document.title) + "&C9=" + escape(document.referrer) + "&rn=" + Math.floor(Math.random()*99999999);
 // ]]>
-</script><img id="img1" height="1" width="1" src="https://beacon.securestudies.com/scripts/beacon.dll?C1=2&amp;C2=6035671&amp;C3=&amp;C4=https%3A//web.archive.org/web/20110622195436id_/http%3A//www.fashionmagazine.com/privacy/&amp;C5=&amp;C6=&amp;C7=https%3A//web.archive.org/web/20110622195436id_/http%3A//www.fashionmagazine.com/privacy/&amp;C8=privacy%20policy%20%7C%20fashionmagazine.com&amp;C9=&amp;rn=34360107" alt="">
+</script><img id="img1" height="1" width="1" src="https://beacon.securestudies.com/scripts/beacon.dll?C1=2&amp;C2=6035671&amp;C3=&amp;C4=https%3A//web.archive.org/web/20111227225819id_/http%253A//www.fashionmagazine.com/privacy&amp;C5=&amp;C6=&amp;C7=https%3A//web.archive.org/web/20111227225819id_/http%253A//www.fashionmagazine.com/privacy&amp;C8=privacy%20policy%20%7C%20fashionmagazine.com&amp;C9=&amp;rn=21474063" alt="">
 <!-- End comScore Tag -->
+<!--ShareThis code -->
+<script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+<script>
+var options={ "theme": 1, "width": "", "height": 385, "topic": "", "domain": "fashionmagazine.com", "category": "", "defaultSelection": "", "image": { "visible": true, "align": "left"}, "metadata": { "line1": "", "line2": ""}, "socialFeatures": { "like": true, "comment": true}, "customColors": { "widgetBackgroundColor": "#fff", "articleLinkColor": "#ff3333"}, "visualRank": { "visible": false, "size": "big"}, "headline": { "visible": true, "align": ""}, "realtime": { "everyoneLoadRange": "21600"}, "footer": { "visible": false}, "publisher": "5a734991-ff46-4f98-8c9d-cebc53a430c7"};
+var st_disc_widget = new sharethis.widgets.discovery(document.getElementById("streamContainer"), options, true);
+</script>
 
 
   <script type="text/javascript">
