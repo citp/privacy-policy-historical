@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxhyip.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515170611id_/http%3A//maxhyip.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxhyip.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227122613id_/http%3A//www.maxhyip.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Statement for MaxHYIP Monitor
 
@@ -40,7 +40,7 @@ Contacting the Web Site
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [admin@maxhyip.com](mailto:admin@maxhyip.com)  
 
 
-Last Updated: October 12 2010
+Last Updated: September 30 2011
 
   
 
