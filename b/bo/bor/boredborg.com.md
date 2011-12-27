@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boredborg.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519231849id_/http%3A//www.boredborg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boredborg.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227011305id_/http%3A//www.boredborg.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bored Borg
 
@@ -25,4 +25,4 @@ This site contains links to other sites. **BoredBorg.com** is not responsible fo
 the privacy practices or the content of such Web sites.  
 Contacting the Web Site  
 If you have any questions about this privacy statement, the practices of this site,  
-or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20110519231849id_/http://www.boredborg.com/privacy-policy/admin@boredborg.com).
+or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20111227011305id_/http://www.boredborg.com/privacy-policy/admin@boredborg.com).
