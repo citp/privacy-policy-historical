@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firstshowing.net privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623190629id_/http%3A//www.firstshowing.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstshowing.net privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228002337id_/http%3A//www.firstshowing.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « FirstShowing.net
+# Privacy Policy | FirstShowing.net
 
 This Privacy Policy governs the manner in which **FirstShowing.net** collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.firstshowing.net](http://www.firstshowing.net/) website ("Site"). This Privacy Policy outlines the types of personal information is received and collected by FirstShowing.net and how it is used.
 
@@ -34,10 +34,9 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 If you would like more information about this practice and to know your choices about not having this information used by third-party companies to serve ads and collect non-personally identifiable information, [click here](http://www.networkadvertising.org/managing/opt_out.asp). You can also find out how to opt out of various ad programs at that [link](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Some of our advertising partners may use cookies on our site. Our advertising partners include:  
-<http://www.kontera.com/>  
-<http://www.amazon.com/>  
 <http://www.google.com/doubleclick/>  
-[http://affiliates.sideshowtoy.com/](https://affiliates.sideshowtoy.com/)
+<http://affiliates.sideshowtoy.com/>  
+[hhttp://giantrelease.com/](http://giantrelease.com/privacy/)
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. FirstShowing.net's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
@@ -54,4 +53,4 @@ FirstShowing.net
 719-964-5995  
 [movies[at]firstshowing.net](mailto:movies\[at\]firstshowing.net)
 
-_This document was last updated on March 3, 2011_.
+_This document was last updated on July 8th, 2011_.
