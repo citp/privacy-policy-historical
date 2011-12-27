@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mackeeper.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621072005id_/http%3A//mackeeper.zeobit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mackeeper.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227184824id_/http%3A//mackeeper.zeobit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -89,7 +89,7 @@ We are open to any questions on this Privacy Policy. Please address all your con
 ### 1 (888) 572-5876
 
 Call us 24/7 with any questions.  
-TOLL free.
+Toll free.
 
 **Live chat**
 
