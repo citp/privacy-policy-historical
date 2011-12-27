@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roaminghunger.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517031116id_/http%3A//roaminghunger.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roaminghunger.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227072241id_/http%3A//roaminghunger.com/pages/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Roaming Hunger
+# Privacy Policy | Roaming Hunger
 
 Roaming Hunger is an online service that provides recommendations for mobile food vendors and restaurants. Our Web site is owned and operated by Roaming Hunger Inc.
 
