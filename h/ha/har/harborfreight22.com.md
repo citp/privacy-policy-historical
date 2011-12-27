@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harborfreight22.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613002150id_/http%3A//www.harborfreight.com/security-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harborfreight22.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227115848id_/http%3A//www.harborfreight.com/security-and-privacy-policy) for the most accurate reproduction.*
 
 # Security & Privacy Policy
 
@@ -204,14 +204,3 @@ _
 **I. Changes to the Privacy and Security Statement**
 
 We may change this Privacy and Security Policy at any time in our sole discretion. Any updates to our Privacy and Security Policy will be posted on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Continued use of our Sites, Stores, Customer Call Centers or other Harbor Freight services following our posting of the change notice or an updated Privacy and Security Policy will constitute binding acceptance of those changes.
-
-**LEGAL  
-***Harbor Freight does not endorse any other business or organization or any technique in any customer video. Always follow all of the instructions and warnings included with our products. Harbor Freight makes no representation or warranty of any kind by including this video on its website.
-
-© Copyright 2010 Harbor Freight Tools, All Rights Reserved. MATERIAL AND PHOTOS ON THIS SITE ARE THE COPYRIGHTED PROPERTY OF HARBOR FREIGHT TOOLS AND MAY NOT BE USED WITHOUT THE PRIOR WRITTEN PERMISSION OF HARBOR FREIGHT TOOLS. 
-
-**LIFETIME WARRANTY**  
-Lifetime Warranty on Hand Tools! We guarantee our Hand Tools to be free from defects in material and workmanship for the life of the product. Limitations apply. 
-
-**ABOUT HARBOR FREIGHT TOOLS**  
-At Harbor Freight Tools you'll find one of the largest selections of brand-name discount tools, including hand tools, power tools...anything that fits into your tool box, and bigger equipment too! Make Harbor Freight Tools your first stop for the best prices on: Chicago Electric, Pittsburgh, Central Machinery, Central Hydraulic, Central Forge...then load-up your tool box! What customers like best about Harbor Freight Tools is that they won't find better discount tools, including hand tools and power tools, for lower prices anywhere else! Plus we're so sure you'll love the value of our hand tools, we back them with a lifetime warranty on all our hand tools!
