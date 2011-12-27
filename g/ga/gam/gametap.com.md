@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gametap.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211203735id_/http%3A//www.gametap.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametap.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227182249id_/http%3A//www.gametap.com/privacy-policy.html) for the most accurate reproduction.*
 
-# GameTap - Play Free Games Now or Download Games to Own - PC Games, Arcade Games and Console Games - GameTap.com
+# GameTap.com - Play Premium Games Online Now or Download Games to Own - PC Games, Arcade Games and Console Games
 
 Thank you for visiting GameTap. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this website and in the GameTap service.
 
