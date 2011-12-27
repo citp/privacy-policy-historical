@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogsolute.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227155226id_/http%3A//www.blogsolute.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogsolute.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227211227id_/http%3A//www.blogsolute.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Blogsolute
 
 Here, the privacy of your personal information is important and the below are the details of what kind of data is collected from you and how it is safeguarded. Your personal data will never be sold to third parties.
 
