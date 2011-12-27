@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basementsystems.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505042223id_/http%3A//www.basementsystems.com/company/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basementsystems.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227011158id_/http%3A//www.basementsystems.com/company/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement by Basement Systems for Customers and Site Visitors
 
@@ -11,7 +11,7 @@ When you visit our site, you can expect to be notified of: what personally ident
 The information gathered by the Basement Systems, Inc. on [www.basementsystems.com](http://www.basementsystems.com/) falls into two categories: (1) information voluntarily supplied by visitors to our websites through optional registration and (2) tracking information gathered as visitors navigate through our sites. 
 
 **Email Addresses and Personal Information**   
-E-mail Addresses and personal information: When you fill out any of our Web forms for free inspections or any other inquiries, you generally may have to submit your phone number, address, e-mail address and other personal information. **This information collected from you WILL NOT be distributed or shared with any third parties other than the assigned local Basement Systems or CleanSpace Dealer in your area.** The information you provide us will be kept confidential within Basement Systems database and your local dealer. 
+E-mail Addresses and personal information: When you fill out any of our Web forms for free inspections or any other inquiries, you generally may have to submit your phone number, address, e-mail address and other personal information. **This information collected from you WILL NOT be distributed or shared with any third parties other than the assigned local Basement Systems or CleanSpace Dealer in your area.** The information you provide us will be kept confidential within Basement Systems database and your local dealer. 
 
 To make use of certain features on our websites (such as bulletin boards, coupon pages, and other interactive forums), visitors need to register and to provide certain information as part of the registration process. The information you supply will help us to offer you more personalized features, to tailor our site to your interests and make them more useful to you. The more you tell us about yourself, the more value we can offer you. 
 
