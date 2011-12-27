@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the streetfiles.org privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628141736id_/http%3A//streetfiles.org/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetfiles.org privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227083813id_/http%3A//streetfiles.org/page/privacy) for the most accurate reproduction.*
 
-# Streetfiles.org | Privacy Policy of Streetfiles
+# Privacy Policy of Streetfiles | Streetfiles.org
 
 This Privacy Policy applies to the treatment of personally identifiable information ("Personal Information") that you submit or that may be gathered when you use the Streetfiles web site. 
 
