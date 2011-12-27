@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6pm.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223040037id_/http%3A//www.6pm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6pm.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227034959id_/http%3A//www.6pm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 6pm.com
 
@@ -75,9 +75,9 @@ While we use industry-standard precautions to safeguard your personal informatio
 
 **OPT OUT/CORRECTIONS**
 
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section of the Site [http://www.zappos.com/cs.zhtml](http://www.zappos.com/customer-service-center "http://www.zappos.com/cs.zhtml"), or by telephoning, or emailing your request to Zappos.com’s Customer Loyalty Team 1-888-676-2660 or:
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section of the Site <http://www.6pm.com/customer-service-center>, or by telephoning, or emailing your request to 6pm.com’s Customer Loyalty Team 1-888-676-2660 or:
 
-cs@zappos.com  _ _
+cs@6pm.com  _ _
 
 Please do not email your credit-card number or other sensitive information.
 
@@ -87,6 +87,6 @@ As you might expect from us, the majority of information that we collect is obta
 
 **UPDATES TO THIS POLICY**
 
-If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at 1-888-676-2660 or [cs@zappos.com](mailto:cs@zappos.com).
+If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at 1-888-676-2660 or [cs@6pm.com](mailto:cs@6pm.com).
 
 Effective May 1, 2010
