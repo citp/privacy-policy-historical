@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creditsesame.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629131530id_/http%3A//www.creditsesame.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditsesame.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227043851id_/http%3A//www.creditsesame.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Credit Sesame
+# Privacy Policy | Save Money with Credit Sesame
 
 **Date Last Revised: October 1, 2010**
 
@@ -10,13 +10,9 @@ We recognize that your privacy is of utmost importance and take it seriously. Th
 
 Credit Sesame uses the information we collect to do things like: analyze your credit and debt factors, find you personalized loan offers, maintain security, personalize content, remember information such as your email address, more efficiently access your account and set monitoring alerts. We also monitor aggregate metrics such as total visits and time on site.
 
-**Information You Provide:** The information that you provide - including name, date of birth, email, real estate ownership, home address, social security, and any information about your finances (income, assets, debt, credit) - is not sold to third parties.
+**Information You Provide:** The information that you provide - including name, date of birth, email, real estate ownership, home address, social security, and any information about your finances (income, assets, debt, credit) - is used only to automatically and securely collection your personal financial information from trusted partners and is never sold to third parties.
 
 Some of your information - such as name, address, social security number, and financial information (credit and debt) - is retained in encrypted form so that our system can continuously look for pre-qualified loan and mortgage offers through our proprietary algorithm.
-
-You have the option to provide your social security number to us to automatically and securely collect your personal financial information from trusted partners and third parties, but your social security number is not required to use our service. We also offer a manual option to enter your detailed credit, debt and other financial information.
-
-However, if you choose the manual option, you will not be able to use some of Credit Sesame's services, including automatic monitoring of your credit score, debt information, and other financial information. We also may not be able to provide you with accurate and personalized pre-qualified financial options.
 
 We may also obtain personal information about you from our business partners and other third parties (for example, if you provide Credit Sesame your social security number so that we can retrieve monthly updates on your credit score and debt information from the credit Bureaus, or if you provide your address so that we can retrieve and track your current home value). In these cases, we will request your explicit permission.
 
@@ -71,4 +67,4 @@ To protect your personal and financial information, we use numerous procedural, 
 
 We may update our current privacy policy with new information or changes. If so, we will update the Privacy Policy landing page as well as the "last updated" date to indicate the latest changes. All changes will take effect immediately after posting.
 
-How to Contact Us: If you have any questions or comments regarding our privacy policy, please email us at [privacy@creditsesame.com](https://web.archive.org/web/20110629131530id_/http%3A//www.creditsesame.com/about/privacy@creditsesame.com) or write Credit Sesame, Attn: Privacy and Security, 440 N Wolfe Rd, Sunnyvale CA 94085. 
+How to Contact Us: If you have any questions or comments regarding our privacy policy, please email us at [privacy@creditsesame.com](https://web.archive.org/web/20111227043851id_/http%3A//www.creditsesame.com/about/privacy@creditsesame.com) or write Credit Sesame, Attn: Privacy and Security, 440 N Wolfe Rd, Sunnyvale CA 94085. 
