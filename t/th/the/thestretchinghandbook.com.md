@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestretchinghandbook.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613051641id_/http%3A//www.thestretchinghandbook.com/legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestretchinghandbook.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227075859id_/http%3A//www.thestretchinghandbook.com/legal.php%23privacy) for the most accurate reproduction.*
 
 # The Stretching Institute™ - Legal Information, Policies and Disclaimers
 
@@ -55,7 +55,7 @@ The information contained in the forms will be limited to generating the appropr
 
 
 Opt-Out, Unsubscribe and Removal from our database  
-Removing your information from our database is easy. At the bottom of every email we send to you are options for unsubscribing and removing your information from our database. Either use the unsubscribe links at the bottom of the email, or [submit a ticket via our help desk](https://web.archive.org/web/20110613051641id_/http%3A//www.thestretchinghandbook.com/help/index.php?a=add) and one of our staff will remove you from our database.
+Removing your information from our database is easy. At the bottom of every email we send to you are options for unsubscribing and removing your information from our database. Either use the unsubscribe links at the bottom of the email, or [submit a ticket via our help desk](https://web.archive.org/web/20111227075859id_/http%3A//www.thestretchinghandbook.com/help/index.php?a=add) and one of our staff will remove you from our database.
 
 If you do submit a ticket via our help desk, please make sure you include the email address that you used when you subscribed, purchased one of our products or requested information from us: You can find this address at the bottom of every email we send to you.
 
