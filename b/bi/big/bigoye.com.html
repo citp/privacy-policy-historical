@@ -1,0 +1,1336 @@
+<!--The following is the downloaded HTML source of the bigoye.com privacy policy that was archived on 2011-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227084346id_/http%3A//www.bigflix.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+
+  
+
+
+
+
+
+
+<link href="http://www.bigflix.com/apache_file/css/style-bigflix.css" rel="stylesheet" type="text/css">
+<link href="http://www.bigflix.com/apache_file/css/facebox.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="http://tracker.myseofriend.net/myseofriend.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+function clear_click(thisfield, defaulttext)
+
+{
+   if (thisfield.value == defaulttext) {
+   thisfield.value = "";
+
+}
+}
+function recall_click(thisfield, defaulttext)
+
+{
+   if (thisfield.value == "") {
+   thisfield.value = defaulttext;
+
+}
+
+}
+</script>
+<link rel="shortcut icon" type="image/x-icon" href="http://www.bigflix.com/apache_file/favicon.ico">
+<script type="text/javascript" src="http://www.bigflix.com/apache_file/js/flash/AC_OETags.js"></script>
+<script type="text/javascript" src="http://www.bigflix.com/apache_file/js/barebone_packed.js"></script>
+<script type="text/javascript" src="http://www.bigflix.com/apache_file/js/accordian.pack.js"></script>
+<script type="text/javascript" src="http://www.bigflix.com/apache_file/js/protoaculous1.6.packed.js"></script>
+<script type="text/javascript" src="http://www.bigflix.com/apache_file/js/jquery-1.2.6.pack.js"></script>
+<script type="text/javascript" src="http://www.bigflix.com/apache_file/js/facebox.js"></script>
+<script type="text/javascript" src="http://www.bigflix.com/apache_file/js/jquery.watermarkinput.js"></script>
+
+<!--  this has been added by Ashish Jain to make Skin Branding dynamic -->
+<!-- <script type="text/javascript" src="http://vodimages.bigflicks.com/images/vod/skinbranding/SkinBranding.js"></script> -->
+<script type="text/javascript" src="http://www.bigflix.com/apache_file/js/SkinBranding.js"></script> 
+<script type="text/javascript" src="http://www.bigflix.com/apache_file/js/swfobject.js"></script>
+	 <script type="text/javascript">
+	 jQuery.noConflict();
+  </script>
+<script>
+  var user = User;
+</script>
+
+
+
+
+
+<link href="/apache_file/css/accordian.css" rel="stylesheet" type="text/css">
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+
+<!-- These meta tags has been defined by Ashish Jain for Facebook Embedding -->
+
+
+
+
+
+		
+
+<!--  meta tags for Facebook ends here -->
+
+
+
+
+
+
+
+
+<!-- Veeresh Added to move titles from vodheader -->
+	
+
+
+
+
+
+
+
+
+  
+
+
+
+		
+	
+<title>BIGFlix</title>
+
+
+
+
+</head>
+
+
+
+
+
+
+
+<body>
+
+
+
+
+<!-- Start of Login Box -->
+    
+    <div id="loginbox" style="display:none">
+    <script>
+		document.getElementById('signupdiv').innerHTML = '<a href="/sign-up">Sign up now</a>  |  <a href="/Login.do?forgotPass=yes">Forgot Password?</a>';
+	</script>
+<div id="signin4">
+<div class="closebutton"><a href="javascript:void(0);" onclick="javascript:jQuery(document).trigger('close.facebox');" tabindex="8">X</a></div>
+<div class="fb-connect"><a href="#" id="fb-connect-link" onclick="jQuery(document).trigger('close.facebox');FB.Facebook.init('???en_US.facebook.id???', '/apache_file/html/xd_receiver.htm');FB.Connect.requireSession(BIGFlix.update_user_box());return false;">
+<img src="http://www.bigflix.com/apache_file/images/f-login.gif" alt="F"></a></div>
+<div class="popcontent">
+      <div class="content-area">
+      <div class="error-block" style="display:none;" id="invalidemailbox">The email address is invalid.<br>Please try again.</div>
+	  <div class="error-block" style="display:none;" id="errorbox">The username or password you entered is incorrect.<br>Please try again.</div>
+	  <div class="error-block" style="display:none;" id="emptyemailbox">Email address should not be empty.<br>Please try again.</div>
+	  <div class="error-block" style="display:none;" id="emptypassordbox">Password should not be empty.<br>Please try again.</div>
+	  <div class="form-field-content">Login with your BIGFlix ID</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="30%" align="right" class="form-field">Email</td>
+    <td width="70%" class="form-field2">
+		<input id="popupemail" name="popupe" onblur="checkpopupemail(this.value);" type="text" value="" class="text-box" tabindex="1">
+	</td>
+  </tr>
+  <tr>
+    <td align="right" class="form-field">Password</td>
+    <td class="form-field2">
+		<input id="popuppassword" name="popupp" onblur="if(ispopupemailvalid)checkpopuppassword(this.value);" type="password" value="" class="text-box" tabindex="2">
+	</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td class="form-field2">
+	<input type="checkbox" id="Field2" value="" name="rememberMe" tabindex="3">
+	&nbsp;      Remember me</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td class="form-field2">
+	<a href="javascript:void(0);" onclick="popuplogin();return false;" onmouseover="mouseOver('idsup', 'new_images/signinbutton.gif')" onmouseout="mouseOut('idsup', 'new_images/signinbutton.gif')"><img src="/apache_file/images/new_images/signinbutton.gif" name="idsup" id="idsup" class="imagefield" tabindex="4"></a> 
+	&nbsp;or&nbsp; <a href="javascript:void(0);" class="bf3-link-smallb" onclick="javascript:jQuery(document).trigger('close.facebox');" tabindex="5"><strong>Cancel</strong></a></td>
+  </tr>
+</tbody></table>
+
+      </div>
+      <div class="bottomborder"></div>
+      </div>
+	  
+	  
+<div class="otheroptions" id="signupdiv"><a href="/sign-up">Sign up now</a>  |  <a href="/Login.do?forgotPass=yes">Forgot Password?</a></div>
+
+
+</div>
+<div id="loginsuccessbox" style="display:none; width:210px;">
+	<div class="closebutton"><a href="javascript:void(0);" onclick="javascript:jQuery(document).trigger('close.facebox');">X</a></div>
+      			<div class="fb-connect"></div>
+      			<div class="popcontent">
+        			<div class="content-area">
+        				<div class="form-field-content bold">Login Sucessful</div>
+        			</div>
+        			<div class="bottomborder"></div>
+      			</div>
+      			<div class="otheroptions"></div>
+</div>
+  
+</div>
+
+<!-- End of login box -->
+
+
+<div id="playlisterror" style="display:none; ">
+				<div class="closebutton"><a href="javascript:void(0);" onclick="javascript:jQuery(document).trigger('close.facebox');">X</a></div>
+      			<div class="fb-connect"></div>
+      			<div class="popcontent">
+        			<div class="content-area">
+        				<div class="form-field-content bold">You have already added this video</div>
+        			</div>
+        			<div class="bottomborder"></div>
+      			</div>
+      			<div class="otheroptions"></div>
+</div>
+
+
+
+<div id="playlistsuccess" style="display:none;">
+	<div class="closebutton"><a href="javascript:void(0);" onclick="javascript:jQuery(document).trigger('close.facebox');">X</a></div>
+      			<div class="fb-connect"></div>
+      			<div class="popcontent">
+        			<div class="content-area">
+        				<div class="form-field-content bold">Video added successfully </div>
+        			</div>
+        			<div class="bottomborder"></div>
+      			</div>
+      			<div class="otheroptions"></div>
+</div>
+
+<div id="gcValidationInfo" style="display:none;">
+	<div class="closebutton"><a href="javascript:void(0);" onclick="javascript:jQuery(document).trigger('close.facebox');">X</a></div>
+      			<div class="fb-connect"></div>
+      			<div class="popcontent">
+        			<div class="content-area">
+        				<div class="form-field-content bold">GC Info Here ....</div>
+        			</div>
+        			<div class="bottomborder"></div>
+      			</div>
+      			<div class="otheroptions"></div>
+</div>
+
+<!-- Login Successful Box -->
+<div id="loginsuccessbox" style="display:none;">
+	<div class="closebutton"><a href="javascript:void(0);" onclick="javascript:jQuery(document).trigger('close.facebox');">X</a></div>
+      			<div class="fb-connect"></div>
+      			<div class="popcontent">
+        			<div class="content-area">
+        				<div class="form-field-content bold">Login Successful</div>
+        			</div>
+        			<div class="bottomborder"></div>
+      			</div>
+      			<div class="otheroptions"></div>
+</div>
+
+<!-- End of login Successful box -->
+
+<!-- Start of share embed Box -->
+    
+	
+
+<div id="shareembed" class="flt-lt clear" style="display:none;">
+<div class="closebutton"><a href="javascript:void(0);" onclick="jQuery(document).trigger('close.facebox');">X</a></div>
+      <div style="padding:0 0 4px 4px;">&nbsp;</div>
+      <div class="popcontent">
+        <div class="content-area">
+          <div class="blocktext bold bigfonts spacedblock">Embed this video on your Website, Blog, Facebook or other profiles.</div>
+         <div class="spacedblock">
+           <textarea id="embedcodearea" rows="10" cols="67" class="text-box3" style="overflow-x:hidden; overflow-y:auto;" onclick="javascript:document.getElementById('textfield').focus();document.getElementById('textfield').select();" name="textfield">           		
+&lt;embed width="640" height="360" align="middle" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer" allowfullscreen="true" allowscriptaccess="always" name="videoPlayer" bgcolor="#000000" quality="high" id="videoPlayer"  src="http://www.bigflix.com/video/"&gt;&lt;/embed&gt;
+
+
+
+           </textarea>
+         </div> 
+        </div>
+        <div class="bottomborder"></div>
+      </div>
+      <div class="otheroptions"></div>	
+</div>
+
+
+<!-- End of share embed box -->
+
+<!-- Start of share mail Box -->
+ 
+ <script>
+	function validateMail(c)
+	{
+		if(c.length == 0)
+		{
+			document.getElementsByName('tellemailblank')[1].style.display = 'block';
+			document.getElementsByName('tellvalidemail')[1].style.display = 'none';
+			document.getElementsByName('tellemail')[1].focus();
+		}
+		else
+		{
+			if(!validEmail(c))
+			{
+				document.getElementsByName('tellvalidemail')[1].style.display = 'block';
+				document.getElementsByName('tellemail')[1].focus();
+			}
+			else
+			{
+				document.getElementsByName('tellvalidemail')[1].style.display = 'none';
+				document.getElementsByName('tellpassword')[1].focus();
+			}
+			document.getElementsByName('tellemailblank')[1].style.display = 'none';
+		}
+		document.getElementsByName('tellpasswordblank')[1].style.display = 'none';
+	}
+	function validatePassword(c)
+	{
+		if(c.length == 0)
+		{
+			document.getElementsByName('tellpasswordblank')[1].style.display = 'block';
+		}
+		else
+		{
+			document.getElementsByName('tellpasswordblank')[1].style.display = 'none';
+		}
+		document.getElementsByName('tellemailblank')[1].style.display = 'none';
+		document.getElementsByName('tellvalidemail')[1].style.display = 'none';
+		document.getElementsByName('tellpassword')[1].focus();
+	}
+ </script>
+  
+
+
+
+
+
+
+
+
+<div id="sharemail" style="display:none; ">
+<div id="mailshare">
+      <div class="closebutton"><a href="javascript:void(0);" onclick="jQuery(document).trigger('close.facebox');">X</a></div>
+      <div style="padding:0 0 4px 4px;"><h2>Send Message</h2></div>
+      <div class="popcontent">
+        <div class="content-area">
+        <div class="blocktext bold bigfonts spacedblock">Tell your friends about this video</div>
+        
+        <div id="inlinelogin" name="inlinelogin" style="display:none" class="bold">
+ <form name="SignInForm" method="post" action="/SignIn.do" onsubmit="">
+ <div class="flt-lt pdl10" style="display:none; width:190px" id="tellerror" name="tellerror">
+			  
+					<span style="color:#EA3F4A">
+						The username or password you entered is incorrect or empty.
+					</span>
+
+</div>
+<div class="flt-lt pdl10" style="display:none;width:190px;" id="tellvalidemail" name="tellvalidemail">
+			  
+					<span style="color:#EA3F4A">
+						The email address is invalid. Please try again.
+					</span>
+
+</div>
+<div class="flt-lt pdl10" style="display:none;width:190px;" id="tellemailblank" name="tellemailblank">
+			  
+					<span style="color:#EA3F4A">
+						Email address should not be empty.
+					</span>
+
+</div>
+<div class="flt-lt pdl10" style="display:none;width:190px;" id="tellpasswordblank" name="tellpasswordblank">
+			  
+					<span style="color:#EA3F4A">
+						Password should not be empty.
+					</span>
+
+</div>
+ 
+        <table border="0" cellspacing="0" cellpadding="0" class="greenblock tableblock">
+         <tbody><tr>
+    <td align="left" valign="middle" class="spacedtext"><span class="blocktext">Email address</span>
+    <input type="text" name="tellemail" size="12" tabindex="0" value="" onblur="validateMail(this.value);" class="text-box">
+    </td>
+    <td align="left" valign="middle" class="spacedtext"><span class="blocktext">Password</span>
+    	<input type="password" name="tellpassword" size="12" tabindex="1" value="" onblur="validatePassword(this.value);" class="text-box">
+     </td>
+     <input type="hidden" name="highway">
+	 <script>
+	   var ill=new String(window.location.href);
+	   ill = ill.substring(ill.indexOf('&highway')+22,ill.length);
+	   if(ill.indexOf('true') == -1){ ill = ill + "/true"; }
+	   getname('highway').value = ill;
+	</script>
+    <td align="left" valign="middle" class="spacedtext"><span class="blocktext">&nbsp;</span>
+    	<a href="javascript:void(0)"><img src="/apache_file/images/new_images/signin.gif" onclick="javascript:shareVideoWithFriendLogin(this);return false;"></a>
+    </td>
+  </tr>
+</tbody></table>
+</form>
+        </div>
+        
+        <form name="TellYourFriendForm" method="post" action="/TellYourFriend.do" onsubmit="javascript:shareVideoWithFriend(this); return false;">
+          <div class="bold" id="signin3">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tbody><tr>
+               		<td><div class="flt-lt pdl10" style="display:none; width:190px" name="errorboxmail" id="errorboxmail"></div></td>
+               </tr>
+              <tr>
+                <td class="form-field2"><span class="blocktext">Your Name</span>
+                	<input type="text" name="senderName" size="12" tabindex="2" value="" id="tell:userName" class="text-box2">
+                </td>
+              </tr>
+              <tr>
+                <td class="form-field2"><span class="blocktext">Your Email Address</span>
+                	<input type="text" name="senderEmailId" size="12" tabindex="3" value="" onblur="checkpopupshareVideoWithFriendEmail(this.value,'Your Email');" id="tell:emailId" class="text-box2">
+              	</td>
+              </tr>
+              <tr>
+                <td class="form-field2"><span class="blocktext">Your Friend's Email</span>
+                <input type="text" name="recieverEmailId" size="12" tabindex="4" value="" onblur="checkpopupshareVideoWithFriendEmail(this.value,'Friends Emails');" id="tell:friendsMailId" class="text-box2">
+               </td>
+              </tr>
+              <tr>
+                <td class="form-field2"><span class="blocktext">Message</span>
+                 <textarea name="message" tabindex="4" cols="31" rows="3" id="msgbox" class="text-box2"></textarea>
+                
+                </td>
+              </tr>
+              <input type="hidden" name="productUrl1" value="">
+			  <input type="hidden" name="productName" value="">
+              <tr>
+                <td class="form-field2">
+                <input type="image" name="" src="/apache_file/images/new_images/send-button2.gif" onclick=" return validateShareThis();" class="imagefield">&nbsp;or&nbsp;<a href="javascript:void(0);" onclick="jQuery(document).trigger('close.facebox');"><strong>Cancel</strong></a>
+                </td>
+              </tr>
+            </tbody></table>
+          </div>
+          </form>	
+        </div>
+        <div class="bottomborder"></div>
+      </div>
+      <div class="otheroptions"></div>
+    
+<div id="tofriendsuccessbox" style="display:none; width:210px;" class="bg4 pdt5 pdb5 small-login-main">
+	<div class="pl-box">
+ 		<div class="pl-create-div1">
+				<div class="pl-create-diva1 pl-create-txt1">Successfully Sent !!!</div>
+    	</div>
+	</div>
+</div>
+</div>
+<div id="tellfriendsent" style="display:none; width:210px;" class="bg4 pdt5 pdb5 small-login-main">
+	<div class="pl-box">
+	   <div class="pl-create-div1">
+			<div class="pl-create-diva1 pl-create-txt1">Mail Successfully Sent !!!</div>
+    	</div>
+	</div>
+</div>
+</div>
+
+<div id="checkfacebookuserdiv" class="flt-lt clear" style="width:600px;display:none;  ">
+<div class="bg4 flt-lt">
+		 <div class="pdt5" style="display:inline; float:right;"><a href="javascript:void(0);" onclick="jQuery(document).trigger('close.facebox');" class="bf3-link-small-nl" tabindex="7"><b>X</b></a>&nbsp;&nbsp;&nbsp;</div>
+		<h4 class="pd5 pdl20 pdt20 ie6pd28" style="padding-left:22px;"><div class="white-txt" style="width:240px">You are not signed in as BIGFlix user click yes to sign-in or sign-up now</div></h4>
+		<!-- Signin Start -->
+		<div class="clear flt-lt" style="padding:10px 20px 20px 20px;">
+			
+		<a onmouseout="mouseOut('idyes', 'btn_yes.gif')" onmouseover="mouseOver('idyes', 'btn_yes_ho.gif')" href="http://www.bigflix.com/fbsignup.do"><img border="0" id="idyes" name="idyes" class="valign" src="http://www.bigflix.com/apache_file/images/btn_yes.gif"></a><span class="bluetxt-nor">��or� </span><a href="javascript:void(0);" class="bf3-link-smallb" onclick="jQuery(document).trigger('close.facebox');">No Thanks</a>			
+		</div>
+</div>		
+</div>
+
+<!-- End of share mail box -->
+
+
+
+
+
+
+	
+<div id="wrapper">
+
+		<!-- Header starts -->
+    	<div class="header" id="header">
+        	
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+	
+			
+<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript">
+</script>
+
+<!-- OAS SETUP begin --> 
+ <script type="text/javascript"> 
+<!--
+//configuration
+OAS_url ='http://oas.bigflix.com/RealMedia/ads/';
+OAS_listpos = 'Bottom1,Bottom2';
+OAS_query = '?';
+OAS_sitepage = 'www.bigflix.com/ros/index.html';
+//end of configuration
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+function OAS_NORMAL(pos) { 
+document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '" TARGET=_top>');
+document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '" BORDER=0 ALT="Click!"></A>');
+}
+//--> 
+</script> 
+<script type="text/javascript"> 
+<!--
+OAS_version = 11;
+if (navigator.userAgent.indexOf('Mozilla/3') != -1)
+OAS_version = 10;
+if (OAS_version >= 11)
+document.write('<SC'+'RIPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + OAS_query + '"><\/SCRIPT>');
+//--> 
+</script><script language="JavaScript1.1" src="http://oas.bigflix.com/RealMedia/ads/adstream_mjx.ads/www.bigflix.com/ros/index.html/1620682477@Bottom1,Bottom2?"></script><script type="text/javascript"> 
+ <!-- 
+ document.write('');
+function OAS_AD(pos) {
+if (OAS_version >= 11 && typeof(OAS_RICH)!='undefined')
+  OAS_RICH(pos);
+else
+  OAS_NORMAL(pos);
+}
+//--> 
+</script> 
+<!-- OAS SETUP end --> 
+
+<script>
+	var plmsg = "My Playlist(s):&nbsp;";
+	var vmsg = "Videos:&nbsp;";
+</script>
+<script>
+function showorderpref(id) {
+	var ele = document.getElementById(id);
+	if(ele.style.display == "block") {
+    	ele.style.display = "none";
+    	if(id == 'more')
+		{
+			document.getElementById('five').className = "";	
+		}
+	}
+	else {
+		ele.style.display = "block";
+		if(id == 'more')
+		{
+			document.getElementById('five').className = "active";	
+		}
+
+	}
+} 
+function changehighlight(){
+	document.getElementById("zero").className = "";
+	document.getElementById("one").className = "";
+	document.getElementById("two").className = "";
+	document.getElementById("three").className = "";
+	document.getElementById("six").className = "";
+	var isBigflix = false;
+	
+	if(!isBigflix)
+	{
+		if (''=='Movie' && 'null' != 'IndexForm'){
+			document.getElementById("one").className += "active"
+		}else if ('' =='Trailers' ){
+			document.getElementById("two").className += "active"
+		}else if (''=='MusicAlbum' ||  '' =='FilmSong' || '' =='MusicVideo'){
+			document.getElementById("three").className += "active"
+		}else{
+			document.getElementById("zero").className += "active"
+		}
+	}
+}
+var currentclick = '';
+function opensubmenu(id){
+	if(currentclick == id){
+		showorderpref(id);
+		currentclick = '';
+	}else{
+		if (currentclick != '')
+		{
+			showorderpref(currentclick);
+		}
+		currentclick = id;
+		showorderpref(id);		
+	}
+}
+</script>
+<!-- logo starts -->
+				
+
+	
+<div id="notlogin">
+ <div class="content-block first">
+    	<ul class="top-links">
+        	<li class="active"><a href="http://www.bigflix.com/home">Home</a></li>
+            <li><a href="http://www.bigflix.com/customer-care">Customer Care</a></li>
+            <li class="last"><a href="http://www.bigflix.com/contact-us">Contact Us</a></li>
+        </ul>
+	<div class="fb-connect">
+		<fb:login-button onlogin="BIGFlix.update_user_box();" v="2" size="small" style="margin-left: 2px; color: rgb(18, 56, 99); font-size: 11px;">Login With Facebook
+						</fb:login-button>
+				</div>
+	
+		<div class="register-now ">
+       	<div>NEW TO <span class="red">BIG</span><span class="blue">FLIX</span>?</div>
+            <div class="regi-btn"><a href="http://www.bigflix.com/sign-up"><img src="http://www.bigflix.com/apache_file/images/new_images/register-now.gif" width="99" height="21" alt="Register Now!"></a></div>
+		</div>		
+	
+	</div>
+<div class="content-block second">
+    	<h1 class="logo"><a href="http://www.bigflix.com/home">BIGFLIX MOVIES &amp; MORE...</a></h1>
+        <div class="search-box">
+        	<div class="search-wrap">
+            	<!-- <ul class="search-category">
+                    <li><a href="#" onClick="javascript:changeSearchProductType('ALL');">All</a></li>
+                    <li><a href="#" onClick="javascript:changeSearchProductType('Movie');">Movies</a></li>
+                    <li><a href="#" onClick="javascript:changeSearchProductType('Trailers');">Trailers</a></li>
+                    <li><a href="#" onClick="javascript:changeSearchProductType('MusicAlbum');">Music Videos</a></li>
+                    <!-- <li class="last"><a href="#" onClick="javascript:changeSearchProductType('TVShow');">TV Shows</a></li> ->
+            	</ul>-->
+            <div class="search">
+            	<input type="text" name="text" autocomplete="off" id="searchsuggest" onkeydown="if ((event.which &amp;&amp; event.which == 13) || (event.keyCode &amp;&amp; event.keyCode == 13)) {search();return false;}else return true;" class="search"> <input type="image" src="http://www.bigflix.com/apache_file/images/new_images/search-btn.gif" alt="Search" style="cursor:pointer" onclick="search()" name="hdsearchbtn" id="hdsearchbtn">
+            	<input type="hidden" name="selectedProductType" id="selectedProductType" value="ALL">
+				<div class="clearfix"></div>
+				<div class="shadow" id="shadow" style="position: absolute; top: 238px; left: 10px; visibility: hidden; display: none;">
+				<div class="output" id="output1" style="display:block;">
+				</div>
+				</div>
+				
+					
+
+
+
+<script type="text/javascript">
+
+
+ var suggestions = new Array("Boris", "B�cker", "Peter", "Test","Bums");
+    var outp;
+    var oldins;
+    var posi = -1;
+    var words = new Array();
+    var input;
+    var key;
+
+    function setVisible(visi){
+        var x = document.getElementById("shadow");
+		var t = document.getElementsByName("text")[0];
+		x.style.position = 'absolute';
+        x.style.top =  (findPosY(t)+3)+"px";
+        x.style.left = (findPosX(t)+2)+"px";
+        x.style.visibility = visi;
+		x.style.display = 'hidden'==visi?'none':'block';		
+    }
+
+    function init(){
+        outp = document.getElementById("output1");
+		window.setInterval("lookAt()", 100);
+        setVisible("hidden");
+		var textfield = document.getElementsByName("text")[0];
+        document.onkeydown = keygetter; //needed for Opera...
+        document.onkeyup = keyHandler;
+	}
+
+    function findPosX(obj)
+    {
+        var curleft = 0;
+        if (obj.offsetParent){
+            while (obj.offsetParent){
+                curleft += obj.offsetLeft;
+                obj = obj.offsetParent;
+            }
+        }
+        else if (obj.x)
+            curleft += obj.x;
+        return curleft;
+    }
+
+    function findPosY(obj)
+    {
+        var curtop = 0;
+        if (obj.offsetParent){
+            curtop += obj.offsetHeight;
+            while (obj.offsetParent){
+                curtop += obj.offsetTop;
+                obj = obj.offsetParent;
+            }
+        }
+        else if (obj.y){
+            curtop += obj.y;
+            curtop += obj.height;
+        }
+        return curtop;
+    }
+    
+    function lookAt(){
+       var ins = document.getElementsByName("text")[0].value;
+	   if (oldins == ins) {return;}
+       else if (ins.length > 0){
+       		 if(ins != searchKeyword){
+		  		getSuggestedData(ins);
+		  		}  
+        }
+        else{
+            setVisible("hidden");
+            posi = -1;
+        }
+        oldins = ins;
+    }
+    
+    function addWord(word){
+        var sp = document.createElement("div");
+        sp.appendChild(document.createTextNode(word));
+        sp.onmouseover = mouseHandler;
+        sp.onmouseout = mouseHandlerOut;
+        sp.onclick = mouseClick;
+        outp.appendChild(sp);
+    }
+    
+    function clearOutput(){
+        while (outp.hasChildNodes()){
+            noten=outp.firstChild;
+            outp.removeChild(noten);
+        }
+        posi = -1;
+    }
+    
+    function getWord(beginning){
+    	getSuggestedData(val);
+        /*var words = new Array();
+        for (var i=0;i<suggestions.length; ++i){
+            var j = -1;
+            var correct = 1;
+            while (correct == 1 && ++j < beginning.length){
+                if (suggestions[i].charAt(j) != beginning.charAt(j)) correct = 0;
+            }
+            if (correct == 1) words[words.length] = suggestions[i];
+        }
+        return words;*/
+    }
+    
+    function setColor (_posi, _color, _forg){
+		outp.childNodes[_posi].style.background = _color;
+        outp.childNodes[_posi].style.color = _forg;
+    }
+    
+    function keygetter(event){
+        if (!event && window.event) event = window.event;
+        if (event) key = event.keyCode;
+        else key = event.which;
+    }
+        
+    function keyHandler(event){
+        if (document.getElementById("shadow").style.visibility == "visible"){
+        var textfield = document.getElementsByName("text")[0];
+        if (key == 40){ //Key down
+            //alert (words);
+            if (words.length > 0 && posi < words.length-1){
+                if (posi >=0) setColor(posi, "#FFFFFF", "#666666");
+                else input = textfield.value;
+                setColor(++posi, "#666666", "white");
+                //textfield.value = outp.childNodes[posi].firstChild.nodeValue;
+            }
+        }
+        else if (key == 38){ //Key up
+            if (words.length > 0 && posi >= 0){
+                if (posi >=1){
+                    setColor(posi, "#FFFFFF", "#666666");
+                    setColor(--posi, "#666666", "white");
+                    //textfield.value = outp.childNodes[posi].firstChild.nodeValue;
+                }
+                else{
+                    setColor(posi, "#FFFFFF", "#666666");
+                    textfield.value = input;
+                    textfield.focus();
+                    posi--;
+                }
+            }
+        }
+        else if (key == 27){ // Esc
+            //textfield.value = input;
+            setVisible("hidden");
+            posi = -1;
+            oldins = input;
+        }
+        else if (key == 8){ // Backspace
+            posi = -1;
+            oldins=-1;
+        }else if(key == 13)
+		{
+			textfield.value = outp.childNodes[posi].firstChild.nodeValue;
+            textfield.focus();
+			setVisible("hidden");
+            posi = -1;
+            oldins = textfield.value;
+		}
+        }
+    }
+    
+    var mouseHandler=function(){
+        for (var i=0;i<outp.childNodes.length;++i)
+        {    
+			setColor (i, "#FFFFFF", "#666666");
+		}
+        this.style.background = "#666666";
+        this.style.color= "white";
+    }
+    
+    var mouseHandlerOut=function(){
+        this.style.background = "#FFFFFF";
+        this.style.color= "#666666";
+    }
+    
+    var mouseClick=function(){
+        document.getElementsByName("text")[0].value = this.firstChild.nodeValue;
+        setVisible("hidden");
+        posi = -1;
+        oldins = this.firstChild.nodeValue;
+    }
+	//jQuery(".text").keyup(function() 
+	//{
+	window.onload = init();	
+	//	return false;    
+//	});
+	
+
+
+function getSuggestedData(val) {
+	var url = "/xaja/BFDispatch.do?parameter=autoSuggestForHome&searchword="+val;
+    new Ajax.Request(url, {
+        method: "get",
+        onSuccess: function (transport) {
+			var responseText = transport.responseText;
+			if(responseText != null)
+			{
+				var op = responseText.split("##");
+				words = op[1].split("@#@");
+				if ((words.length > 0) && (words[0]!='')){
+	                clearOutput();
+	                for (var i=0;i<words.length; ++i) 
+					{
+						addWord (words[i]);
+					}
+	                setVisible("visible");
+	                input = document.getElementsByName("text")[0].value;
+	            }
+	            else{
+	                setVisible("hidden");
+	                posi = -1;
+	            }			
+			}
+        }
+    })
+}
+</script>
+				
+			</div>
+		</div>
+</div>
+	
+	<div class="top-login">
+
+		<form name="SignInForm" method="post" action="/Login.do"> 
+        	<div class="input">
+				<input type="text" name="email" value="Username" onclick="clear_click(this, 'Username')" onblur="recall_click(this,'Username')" class="logintxt">
+				<input type="password" name="password" value="........" onclick="clear_click(this, '........')" onblur="recall_click(this,'........')" class="logintxt">
+		
+		</div>
+            <div class="frgt-password">
+            	<p><a href="/Login.do?forgotPass=yes">Forgot Your Password?</a></p>
+				<input type="image" name="" src="/apache_file/images/new_images/login-btn.gif" id="idsign">
+          </div>
+		</form>
+            
+                    </div>
+	       
+                 </div>
+                  </div>
+ <div id="yeslogin" style="display: none;">
+ 	
+<div class="content-block first">
+    	<ul class="top-links">
+        	<li class="active"><a href="http://www.bigflix.com/home">Home</a></li>
+            <li><a href="http://www.bigflix.com/customer-care">Customer Care</a></li>
+            <li class="last"><a href="http://www.bigflix.com/contact-us">Contact Us</a></li>
+        </ul>
+ <div class="playlist-details">
+<img src="/apache_file/images/new_images/playlist_icon.gif" alt="" align="absmiddle"> <a href="http://www.bigflix.com/my-playlist" id="userPlst">You have <strong> </strong> videos in your playlist</a></div>
+ <div class="fb-connect ">
+				<div id="fbprofilepic" style="display:none">
+					<span class="sep3"> | </span>
+					<fb:profile-pic uid="0" facebook-logo="true" width="16" height="16" style="width:20;height:20;vertical-align:middle;" linked="true" target="_BLANK"></fb:profile-pic>
+				</div>
+	<span class="bold">Welcome <span class="red" id="firstname"></span></span> | <span><a href="javascript:void(0)" onclick="checkfacebookUser(this,'http://www.bigflix.com/my-profile');">My Account</a></span> | <span><a href="http://www.bigflix.com/sign-out" onclick="FB.Connect.logout(function() { refresh_page(); })">Signout</a></span> </div>
+				
+    </div>
+	<div class="content-block second">
+    	<h1 class="logo"><a href="http://www.bigflix.com/home">BIGFLIX MOVIES &amp; MORE...</a></h1>
+        <div class="search-box">
+        	<div class="search-wrap">
+            	 <ul class="search-category">
+                    <li><a href="#" onclick="javascript:changeSearchProductType('ALL');">All</a></li>
+                    <li><a href="#" onclick="javascript:changeSearchProductType('Movie');">Movies</a></li>
+                    <li><a href="#" onclick="javascript:changeSearchProductType('Trailers');">Trailers</a></li>
+                    <li><a href="#" onclick="javascript:changeSearchProductType('MusicAlbum');">Music Videos</a></li>
+                    <!-- <li class="last"><a href="#" onClick="javascript:changeSearchProductType('TVShow');">TV Shows</a></li> -->
+            	</ul>
+            <div class="search">
+            	<input type="text" name="text" autocomplete="off" id="searchsuggest" class="search"> <input type="image" src="http://www.bigflix.com/apache_file/images/new_images/search-btn.gif" alt="Search" style="cursor:pointer" onclick="search()" name="hdsearchbtn" id="hdsearchbtn">
+            	<input type="hidden" name="selectedProductType" id="selectedProductType" value="ALL">
+				<div class="clearfix"></div>
+				<div class="shadow" id="shadow">
+				<div class="output" id="output1" style="display:block;">
+				</div>
+				</div>
+				
+            </div>
+          </div>
+        </div>			       
+    </div>
+</div>
+ 	
+	 <div class="content-block navigation">
+    	<ul class="main-nav">
+        	<li id="zero" class="active"><a href="http://www.bigflix.com/home"><span>HOME</span></a></li>
+            <li id="one" class=""><a href="http://www.bigflix.com/home/movies"><span>FREE MOVIES</span></a></li>
+            <li id="two" class=""><a href="http://www.bigflix.com/home/trailers"><span>TRAILERS</span></a></li>
+            <li id="three" class=""><a href="javascript:void(0);" onclick="opensubmenu('music');return false;"><span>MUSIC VIDEOS</span></a></li>
+            <!-- <li id="four"><a href="javascript:void(0);"  onclick="opensubmenu('tvshow');return false;"><span>TV SHOWS</span></a></li>
+            <li id="five"><a href="javascript:void(0);"  onclick="opensubmenu('more');return false;" class="more"><span>MORE</span></a></li> -->
+            <li id="six" class=""><a href="/bigflixplus" class="bigflixplus"></a></li>  
+        </ul>
+        
+        <!-- new Filter 
+                        
+       <div id="familyFilter" class="filter selected">
+			
+				<a class="family-block" href="javascript:void(0);" onClick="javascript:changeDiv('/BFDispatch.do?parameter=updateFamilyFilter&familyFilter=OFF','familyFilter');reloadPage();"><span>Family Filter</span>
+				</a>
+			
+      </div>
+         new filter end -->
+		
+		
+
+         </div>
+	
+	<!-- <div class="submenu" style="display:none;" id="tvshow">
+   		<a href="http://www.bigflix.com/home/tv-shows" >TV Shows Home</a> |
+        <a href="http://www.bigflix.com/home/tv-shows/series" >Series </a> |
+        <a href="http://www.bigflix.com/home/tv-shows/reality-show">Reality Shows</a> |
+        <a href="http://www.bigflix.com/home/tv-shows/comedy" >Comedy Shows</a> |
+        <a href="http://www.bigflix.com/home/tv-shows/talk-show" >Talk Shows</a> 
+    </div> -->
+	
+	<div class="submenu" style="display:none;" id="music">
+   		<a href="http://www.bigflix.com/home/music-videos">Music Videos Home</a> |
+        <a href="http://www.bigflix.com/home/film-songs">Film Songs</a> |
+        <a href="http://www.bigflix.com/home/music-albums">Non Film Songs</a> 
+         </div>
+	<div class="submenu" style="display:none;" id="more">
+   		<a href="http://www.bigflix.com/home/plays">Play</a> |
+        <a href="http://www.bigflix.com/home/kids-videos">Kids Videos</a> |
+		<a href="http://www.bigflix.com/home/short-films">Short Films</a> 
+    </div>
+<script>changehighlight();</script>
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript">
+</script>
+<script src="/apache_file/js/facebook_integration.js" type="text/javascript"></script>
+
+<form name="FacebookLoginForm" method="post" action="/FBLogin.do" id="fbform">
+	<input type="hidden" name="fbfirstname" id="fbfirstname">
+	<input type="hidden" name="fblastname" id="fblastname">
+    <input type="hidden" name="fbemailid" id="fbemailid">
+	<input type="hidden" name="fbpermission" id="fbpermission">
+	<input type="hidden" name="fbid" id="fbid">
+</form>
+        </div>	
+		<!-- Header ends -->
+
+        <!-- Header ends -->	
+
+        
+
+        
+
+        
+
+        <!-- Body Starts -->
+
+			<div class="container">
+				<div class="breadcrumbs">
+				
+
+
+
+
+
+
+
+
+
+
+
+<a href="/home" class="bc-link">Home</a> <span class="bc-arrow">&gt;</span> 
+<span class="bc-link">BIGFlix Privacy Policy</span>
+
+			</div>
+				<div class="container-block">
+               
+
+
+
+
+
+
+
+
+
+        
+        <div class="center-panel">
+        <div class="content-block">
+          <h3 style="margin-bottom:-3px;">BIGFlix Privacy Policy</h3>
+
+        </div>
+        <div id="invite" class="content-block greenblock">
+          <p class="formfield">BIGFlix ("<a href="http://www.bigflix.com" class="red">www.bigflix.com</a>") recognizes that its customers, visitors, users, and others who use <a href="http://www.bigflix.com" class="red">www.bigflix.com</a> or other web sites owned or operated by BIGFlix Pvt Ltd (hereinafter referred to as collectively or individually "Users") value their privacy.</p>
+          <p class="formfield">This Privacy Notice details important information regarding the use and disclosure of User information collected on the website of BIGFlix. BIGFlix provides this Privacy Notice to help you make an informed decision about whether to use or continue using our website.</p>
+		   
+          <p class="formfield">This Privacy Notice is incorporated into and is subject to the Terms of Use of our site. (link to the terms of use should be given here) Your use of our site and any personal information you provide on our website remains subject to the terms of this Privacy Notice and our Terms of Use.</p>
+          <p class="formfield">Please note that any literature, comments, messages, blogs, scribbles etc. posted/uploaded/conveyed/communicated by users onto our website becomes published content and is not considered personally identifiable information subject to this Privacy Notice.</p>
+          <p class="formfield">We distribute movies that have been appropriately certified by the Central Board of Film Certification, television and other filmed entertainment and we reserve the right to display and promote the filmed entertainment or other information on our website to you in any manner we choose in our sole and absolute discretion.</p>
+          <p class="formfield bold">The Information our website gathers from its users are as follows:</p>
+          <p class="formfield"><strong>User Provided Information:</strong> You provide certain personally identifiable information (such as your name and email address) to us while choosing to participate in various activities on our website such as uploading videos, posting messages in our forums or in the video comments section, entering contests or, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.</p>
+
+          <p class="formfield"><strong>Cookies Information:</strong> When you visit our website, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. We use both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of our website may not function properly if the ability to accept cookies is disabled.</p>
+          <p class="formfield"><strong>Log File Information:</strong> When you use our website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.</p>
+          <p class="formfield"><strong>Clear GIFs Information: </strong>When you use our website, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.</p>
+
+          <p class="formfield bold">Manner of usage of the user's Information</p>
+          <ul class="terms-listed">
+            <li><span>If you submit personally identifiable information to us through our website, then we use your personal information to operate, maintain, and provide to you the features and functionality of our website.</span></li>
+            <li><span>Any personal information that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name or your email address is displayed to other Users when you send messages through our website and other Users can contact you through messages and comments.</span></li>
+            <li><span>We may use your email address or other personally identifiable information to send commercial or marketing messages without your consent and except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major changes or for customer service purposes).</span></li>
+            <li><span>We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, click stream data, etc.) to improve the quality and design of our website and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.</span></li>
+
+            <li><span>We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit our website; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.</span></li>
+							</ul>
+          <p class="formfield bold">When www.bigflix.com Discloses Information</p>
+          <ul class="terms-listed">
+            <li><span>We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.</span></li>
+            <li><span>We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.</span></li>
+            <li><span>We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties for commercial and marketing use or to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the <a href="http://www.bigflix.com" class="red">www.bigflix.com</a> Sites.</span></li>
+
+            <li><span>We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and central laws (such as Copyright Law of India) or respond to a court order, subpoena, or search warrant or at the request of any judicial and or quasi judicial authority or the Government of India or State to disclose this information to a third party, after taking all due precautions before the information requested is disclosed.</span></li>
+            <li><span><a href="http://www.bigflix.com" class="red">www.bigflix.com</a> also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that <a href="http://www.bigflix.com" class="red">www.bigflix.com</a> believes, in good faith, is appropriate or necessary to enforce our Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of <a href="http://www.bigflix.com" class="red">www.bigflix.com</a>, our Users or others</span></li>
+                            </ul>
+          <p class="formfield bold">Your Choices</p>
+
+          <p class="formfield">You may, of course, decline to submit personally identifiable information through our website, in which case we may not be able to provide certain services to you. In such an event, you will be notified of the same at the time of opening your account and we shall not be liable and or responsible for the lack of certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page on our website. Please note that media files uploaded by Users on our website cannot be removed and remain subject to our Terms of Use.</p>
+          <p class="formfield">To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.</p>
+          <p class="formfield">Please contact <a href="mailto:privacy@bigflicks.com" class="red">privacy@bigflicks.com</a> with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices.</p>
+          <p class="formfield bold">Third-party Advertisers, Links to Other Sites</p>
+          <p class="formfield">We allow other companies, called third-party ad servers or ad networks, to serve advertisements within our website. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on our website. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see. We do not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you may request to opt-out. However, please note that if an advertiser asks Us to show an advertisement to a certain audience (for example, men aged 18-34) or audience segment (for example, men aged 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of our website, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.</p>
+
+          <p class="formfield">You should consult the respective privacy policies of these third-party ad servers or ad networks on their practices and for instructions on how to opt-out of certain practices. Our privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p>
+          <p class="formfield bold">Our Commitment to Data Security</p>
+          <p class="formfield">We use commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission of information, we make commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.</p>
+          <p class="formfield">If we come to know about a breach in the security systems, then we may attempt to notify you electronically so that you can take appropriate protective steps. We may post a notice on our website if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this link <a href="mailto:securitybreach@bigflicks.com" class="red">securitybreach@bigflicks.com</a></p>
+          <p class="formfield bold">Our Commitment to Children's Privacy</p>
+          <p class="formfield">Protecting the privacy of young children is especially important. For that reason, we do not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on our website from persons below 18 years of age, and no part of our website is directed to persons below the age of 18. If you are under 18 years of age, then please do not use or access our website at any time or in any manner. If we learn that personally identifiable information of persons below 18 years of age has been collected on our website then we will take appropriate steps to delete this information. If you have questions about our Site or Privacy Policy, please feel free to contact the BIGFlix Privacy Coordinator at <a href="mailto:privacy@bigflicks.com" class="red">privacy@bigflicks.com</a><br>
+
+                        </p>
+          <p class="formfield bold">Special Note to International Users</p>
+          <p class="formfield"><a href="http://www.bigflix.com" class="red">www.bigflix.com</a> is a website hosted in India and is intended for and directed to Users worldwide. If you are a User accessing our website from any other country with laws or regulations governing personal data collection, use, and disclosure, that differ from the laws of India, please be advised that through your use of our website, this Privacy Notice, and our Terms of Use, you are transferring your personal information to India and you consent to that transfer. We will only be complying with the legal provisions on the subject matter as applicable in India from time to time.</p>
+          <p class="formfield bold">In the Event of Merger, Sale, or Bankruptcy</p>
+          <p class="formfield">In the event that <a href="http://www.bigflix.com" class="red">www.bigflix.com</a> is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.</p>
+
+          <p class="formfield bold">Changes and Updates to this Privacy Notice:</p>
+          <p class="formfield">We reserve the right at any time to: change the terms of this privacy policy; change the Services, including eliminating or modifying any content on or feature of the Site; or change/charge any fees or charges for use of the Services.</p>
+          <p class="formfield">Any changes we make will be effective immediately on notice, which we may give either by posting the new policy on the Site or via electronic mail. Your use of the Services after such notice will be deemed acceptance of such changes. Be sure to review this policy periodically to ensure your familiarity with the most current version. You will always be able to tell when the version was last updated by checking the “Last Revised date in the header of this agreement.</p>
+          <p class="formfield">If site users have any questions or suggestions regarding our privacy policy, please contact us at:</p>
+          <p class="formfield">E-mail: <a href="mailto:privacy@bigflicks.com" class="red">privacy@bigflicks.com</a><br>
+            Postal address: 4th Floor, 49/50, Maruti Chambers, Veera Desai Extension Road, Off New Link Road, Andheri (West), Mumbai</p>
+  
+          <p class="formfield"><strong>Website Administration</strong></p>
+          <p class="formfield">Business Name: BIGFlix.com<br>
+            Address: 4th Floor, 49/50, Maruti Chambers, Veera Desai Extension Road, Off New Link Road, Andheri (West),<br>
+            City: Mumbai<br>
+            State: Maharashtra<br>
+            Pin code: 400 053<br>
+		
+            Country: India<br>
+            Website URL: <a href="http://www.bigflix.com" class="red">http://www.bigflix.com</a></p>
+        </div>
+      </div>
+				</div>
+
+		   </div>
+
+ </div>        
+
+
+        <!-- Body End -->
+
+        
+        <!-- Footer start -->
+          <div id="footer1" class="footer_wrap">
+          
+
+
+
+
+
+
+
+
+
+	
+	
+  <div class="footer_content">
+    <div style="border:1px solid #165495;background-color:#f8fbf5;position:relative;width:964px;">
+      <div class="left-panel">
+        <table width="100%" cellspacing="0" cellpadding="0" border="0">
+          <tbody><tr>
+            <td><table width="100%" cellspacing="0" cellpadding="0" border="0" class="footerblock">
+                <tbody><tr>
+                  <td style="padding-left:10px;"><div class="content-wrap">
+                      <div class="contentblog">
+                        <div class="content">
+                          <h3>Advertise with Us</h3>
+                          <p>Want to advertise on BIGFLIX?</p>
+                          <p>Please write to <a href="mailto:advertise@bigflix.com">advertise@bigflix.com</a></p>
+                        </div>
+                      </div>
+                    </div></td>
+                  <td><div class="content-wrap">
+                      <div class="contentblog">
+                        <div align="center" style="padding:3px;" class="content">
+                          <h3>Sign Up for our Newsletter</h3>
+                          <div class="subscibe">
+                            <input type="text" onblur="recall_click(this,'Email address')" onclick="clear_click(this, 'Email address')" class="sub_input" value="Email address" name="subscribe" id="nl_emailid">
+                            <a href="javascript:void(0);" onclick="subscribeNewsLetter('nl_emailid', this);" onmouseover="mouseOver('homesb', 'submit_ho.gif')" onmouseout="mouseOut('homesb', 'submit_btn.gif')"><input type="image" name="subscribe-btn" src="/apache_file/images/new_images/subscribe-now.gif" id="homesb"></a>
+                          </div>
+                        </div>
+                      </div>
+                    </div></td>
+                  <td><div style="width:220px;" class="content-wrap">
+                      <div class="contentblog">
+                        <div align="center" style="padding:15px 10px;" class="content">
+                          <p align="left">Cards we accept:</p>
+                          <p align="left" style="padding-top:8px;"><img alt="" src="/apache_file/images/new_images/card-icons.gif"></p>
+                        </div>
+                      </div>
+                    </div></td>
+                </tr>
+              </tbody></table></td>
+            <td>
+            	<div style="float:left; background:#000000; width:180px; height:80px;margin-left:13px; padding:10px;"> 
+            		<a href="http://www.facebook.com/myBigFlix"><img width="79" height="31" style="margin:4px" alt="" src="/apache_file/images/new_images/facebook.jpg"> </a>
+            		<a href="http://www.twitter.com/myBigFlix"><img width="76" height="31" style="margin:4px;" alt="" src="/apache_file/images/new_images/twitter.jpg"></a> 
+            		<img style="margin:4px;" alt="" src="/apache_file/images/new_images/geotrust.jpg"> 
+            	</div>
+            </td>
+          </tr>
+        </tbody></table>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+    <div style="position:relative;width: 970px;" class="content-block">
+      <div class="relatedlinks">
+        <p>Related Websites:</p>
+        <p><a href="http://www.zapak.com/">Zapak</a></p>
+      </div>
+      <div class="footerlinks">
+        <p>Copyrights © 2010 BIG Flicks Private Limited. All Rights Reserved.</p>
+        <p><a href="/customer-care">Customer Care</a> | <a href="/contact-us">Contact Us</a> | <a href="/terms">Terms &amp; Conditions</a> | <a href="/privacy">Privacy Policy</a></p>
+      </div>
+    </div>
+  </div>
+	
+	
+		<!-- Email popup start -->
+		<div id="newsletterSuccess" style="display:none;">
+						<div class="closebutton"><a href="javascript:void(0);" onclick="jQuery(document).trigger('close.facebox');">X</a></div>
+						<div class="fb-connect"></div>
+						<div class="popcontent">
+							<div class="content-area">
+								<div class="form-field-content bold">You will receive updates about new additions to our library and special promotions via email address provided by you. </div>
+							</div>
+							<div class="bottomborder"></div>
+						</div>
+						<div class="otheroptions"></div>					
+		</div>
+		<div id="newsletterError" style="display:none;">
+						<div class="closebutton"><a href="javascript:void(0);" onclick="jQuery(document).trigger('close.facebox');">X</a></div>
+						<div class="fb-connect"></div>
+						<div class="popcontent">
+							<div class="content-area">
+								<div class="form-field-content bold">Please enter email address.</div>
+							</div>
+							<div class="bottomborder"></div>
+						</div>
+						<div class="otheroptions"></div>					
+		</div>
+		<div id="newslettereEmailInvalid" style="display:none;">
+						<div class="closebutton"><a href="javascript:void(0);" onclick="jQuery(document).trigger('close.facebox');">X</a></div>
+						<div class="fb-connect"></div>
+						<div class="popcontent">
+							<div class="content-area">
+								<div class="form-field-content bold">Please enter valid email address.</div>
+							</div>
+							<div class="bottomborder"></div>
+						</div>
+						<div class="otheroptions"></div>					
+		</div>		
+			
+			
+			
+			
+			
+			
+		<!-- Email popup end-->
+    <!-- Footer end -->
+				
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1992703-9']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+ 	  
+
+			  
+       <div id="fb-root"></div>
+
+ 
+ 
+ 
+<!-- OAS AD 'Bottom1' begin --> 
+<script type="text/javascript"> 
+<!--
+OAS_AD('Bottom1');
+//--> 
+</script><a href="http://oas.bigflix.com/RealMedia/ads/click_nx.ads/www.bigflix.com/ros/index.html/1620682477@Bottom1,Bottom2!Bottom1?" target="_top"><img src="http://oas.bigflix.com/RealMedia/ads/adstream_nx.ads/www.bigflix.com/ros/index.html/1620682477@Bottom1,Bottom2!Bottom1?" border="0" alt="Click!"></a> 
+<!-- OAS AD 'Bottom1' end --> 
+
+<!-- new SEO Code -->
+
+<script type="text/javascript">//<![CDATA[
+
+(function() {
+
+    function msf_async_load(){
+
+        var s = document.createElement('script');
+
+        s.type = 'text/javascript';
+
+        s.async = true;
+
+        s.src = 'http://tracker.myseofriend.net/myseofriend.js';
+
+        var x = document.getElementsByTagName('script')[0];
+
+        x.parentNode.insertBefore(s, x);
+
+                s.onload = msf_async_load_after;
+
+                s.onreadystatechange = function() {
+
+                 if (this.readyState == 'complete') {
+
+                 msf_async_load_after();
+
+                 }}
+
+    }
+
+    if (window.attachEvent){
+
+        window.attachEvent('onload', msf_async_load);
+
+    }else{
+
+        window.addEventListener('load', msf_async_load, false);
+
+    }
+
+   function msf_async_load_after(){
+
+   SA.setSetting('baseUrl', 'http://myseofriend.net/myseofriendlog.php');
+
+   SATracker = new SA.tracker();
+
+   SATracker.setSiteId('3ee1bfa9cd04bd1cb2be194bb550fda9');
+
+   SATracker.trackPageView();
+
+   }
+
+})();
+
+//]]>
+
+</script>
+
+
+<!-- end SEO Code -->
+
+        </div>
+        <!-- Footer end -->
+
+  
+
+
+
+
+
+</body></html>
