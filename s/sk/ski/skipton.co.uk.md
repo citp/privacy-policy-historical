@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the skipton.co.uk privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507083655id_/http%3A//www.skipton.co.uk/securityAndPrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skipton.co.uk privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228005714id_/http%3A//www.skipton.co.uk/securityAndPrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Important Security and Privacy Policy - Skipton Building Society - mutual matters
+# Important Security Cookie & Privacy Policy- Skipton Building Society - mutual matters
 
-Skipton Building Society is committed to protecting your privacy and keeping your personal information secure. This policy does not extend to external websites accessed from this site —including those of other members of the Skipton Building Society Group. Please read the terms and conditions of any other sites separately.
+Skipton Building Society is committed to protecting your privacy and keeping your personal information secure. This policy does not extend to external websites accessed from this site - including those of other members of the Skipton Building Society Group. Please read the terms and conditions of any other sites separately.
 
 ## Security
 
@@ -36,27 +36,44 @@ We provide training for our employees and emphasise the need to keep data confid
 
 Your telephone conversations with the Society may be recorded. This is to help the Society in its continuous attempts to improve customer service and to offer additional security. Calls and electronic communications may also be monitored for reasons of staff training.
 
-## Cookies
+## Cookies and similar technologies
 
-**What are Cookies?**
+For the purpose of this policy 'Cookies' and 'similar technologies' will be referred to collectively as 'Cookies'.
 
-Cookies are harmless text files that websites can store on your computer’s hard drive when you visit to allow the website to recognise you when you revisit. 
+### What are Cookies?
 
-**Permanent cookies**
+Cookies are harmless text files that websites can store on your computer's hard drive when you visit to allow the website to recognise you when you revisit. 
 
-These stay on your machine until expiry or deletion. Many are built with automatic deletion dates to help ensure your hard drive doesn’t get overloaded. We use this type of cookie. 
+### What are Similar Technologies?
 
-**What we use cookies for**
+Similar technologies are those which perform a comparable function to cookies, However they are not technically defined as cookies. For more free information please see: [www.aboutcookies.org](http://www.aboutcookies.org/).
 
-We use cookies to enable us to gather general management information about web site traffic patterns and to help monitor and improve our internet service.
+### Persistent cookies
 
-**We use cookies to:**
+These stay on your machine until expiry or deletion (many of these have automatic deletion dates). We use this type of cookie.
 
-  * Gather customer journey information across our sites 
-  * Evaluate our sites advertising and promotional effectiveness (we own the anonymous data collected, which is not shared with anyone). 
+### Session Cookies
+
+These are temporary cookies which remain on your machine whilst you are on our web-site. We use this type of cookie.
+
+### What we use cookies for
+
+We use cookies to enable us to gather general management information about web site traffic patterns and to help monitor and improve our internet service. Sometimes we use third parties to assist in analysis, but as we do not collect personal information, no personal information is sent to those third parties.
+
+### We use cookies to:
+
+  * Gather customer journey information across our sites
+  * Evaluate advertising and promotional effectiveness
+  * Ensure our on-line services work properly for you
 
 
 
-**Changing your cookie settings**
+Obtain anonymous data that shows visitor numbers to our site. For example, we would be able to see that 1000 people visited our Savings Page yesterday but we could not personally identify these visitors.
 
-To enable or disable cookies, follow the instructions provided by your browser (usually located within the “Help”, “Tools” or “Edit” facility). Alternatively, an external resource is available at www.allaboutcookies.org/manage-cookies providing specific information about cookies and how to manage them to suit your preferences.
+### Changing your cookie settings
+
+To enable or disable cookies, follow the instructions provided by your browser (usually located within the "Help", "Tools" or "Edit" facility). Alternatively, an external resource is available at [www.aboutcookies.org](http://www.aboutcookies.org/) providing specific information about cookies and how to manage them to suit your preferences. However, please be aware that disabling cookies may mean that some of our on-line services will not work. 
+
+### Consent to Cookies
+
+If you do not wish to give your consent to our use of cookies, please do not use our web-site.
