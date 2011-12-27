@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earnadegreenow.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003845id_/http%3A//earnadegreenow.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnadegreenow.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227102729id_/http%3A//earnadegreenow.com/privacy.htm) for the most accurate reproduction.*
 
 # welcome to earnadegree.com
 
