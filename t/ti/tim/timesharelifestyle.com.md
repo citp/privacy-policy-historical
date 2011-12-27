@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesharelifestyle.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501033802id_/http%3A//www.timesharelifestyle.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesharelifestyle.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227114414id_/http%3A//www.timesharelifestyle.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Call 1-800-616-1966
 
