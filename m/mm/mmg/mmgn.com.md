@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mmgn.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604050212id_/http%3A//www.mmgn.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmgn.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227071445id_/http%3A//mmgn.com/Privacy) for the most accurate reproduction.*
 
-# MMGN Privacy
+# MMGN Privacy Policy
 
 ## What is the Privacy Policy about?
 
-MMGN.com ('MMGN') is operated and owned My Media International Pty Ltd (ACN 119581743) ('We' or 'us'). We take privacy obligations seriously and are committed to the responsible handling of personal information and protecting the privacy rights of individuals. This policy sets out how we handle your personal information. It explains the key measures that have been taken to make sure it abides by the Commonwealth Privacy Act 1998, which includes the 10 National Privacy Principles. As a condition of using the site, you agree to be bound by the terms of this Policy.
+MMGN.com ('MMGN') is operated and owned MMGN.com Pty Ltd (ACN 149 673 183) ('We' or 'us'). We take privacy obligations seriously and are committed to the responsible handling of personal information and protecting the privacy rights of individuals. This policy sets out how we handle your personal information. It explains the key measures that have been taken to make sure it abides by the Commonwealth Privacy Act 1998, which includes the 10 National Privacy Principles. As a condition of using the site, you agree to be bound by the terms of this Policy.
 
 ## Collection of information
 
