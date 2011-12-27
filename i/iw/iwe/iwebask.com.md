@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iwebask.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630120835id_/http%3A//iwebask.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwebask.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227074424id_/http%3A//iwebask.com/blog/privacy) for the most accurate reproduction.*
 
-# Privacy - -
+# -
 
 We are glad to welcome you to iwebask.com. Please read this privacy statement to ensure that we are committed to keeping secure the privacy of our members’ (customers) details. This privacy policy outlines important information regarding the use and disclosure of User information collected via the Website. We provides this privacy policy to help Users make an informed decision as to whether to use or continue using the website.
 
