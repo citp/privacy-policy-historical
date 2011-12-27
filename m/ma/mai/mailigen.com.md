@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailigen.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530160516id_/http%3A//www.mailigen.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailigen.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227012238id_/http%3A//www.mailigen.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Mailigen
 
@@ -72,5 +72,5 @@ Updated: 15 October 2010
 
 ****Mailigen**  is an iMedia Ltd. service.**
 
-iMedia Ltd. - Peldu iela 7, Jelgava, LV-3002, Latvia  
+iMedia Ltd. - Aspazijas bulvaris, Riga, LV-1050, Latvia  
 We can be reached via email at info@mailigen.com or you can reach us by telephone at (+371) 67491059
