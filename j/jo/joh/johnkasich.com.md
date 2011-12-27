@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the johnkasich.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206010336id_/http%3A//www.kasichforohio.com/site/lookup.asp%3Fc%3DhpIJKWOCJqG%26b%3D5207703) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnkasich.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227095856id_/http%3A//www.kasichforohio.com/site/lookup.asp%3Fc%3DhpIJKWOCJqG%26b%3D5207703) for the most accurate reproduction.*
 
-# John Kasich for Governor of Ohio | Privacy Policy
+# John Kasich for Ohio | Privacy Policy
 
 This is the web site of Kasich - Taylor for Ohio.
 
