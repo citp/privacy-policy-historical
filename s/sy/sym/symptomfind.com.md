@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symptomfind.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626010834id_/http%3A//www.symptomfind.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symptomfind.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227041115id_/http%3A//www.symptomfind.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Symptom Find
 
@@ -42,11 +42,9 @@ We may find it necessary or be legally obligated to update this Privacy Policy f
 
 If you have any questions about anything in this Privacy Policy or about collection of personally identifiable information, or information generally, please contact us as follows: 
 
-Business and Legal Affairs  
-SymptomFind.com/ValueClick Inc.   
-30699 Russell Ranch Road  
-Suite 250  
-Westlake Village, CA 91362  
-E-Mail: [privacy@valueclick.com](mailto:privacy@valueclick.com)
+SymptomFind.com  
+PO Box 168  
+Monrovia, CA 91017  
+E-Mail: [contact us](https://web.archive.org/contact.html)
 
 Note: The information provided on this site is for informational purposes only, and it may be provided by third parties. The owners, operators, and contributors of this site do not guarantee the accuracy, completeness, and compliance of the content on this site and shall not be responsible and liable for your reliance on information contained on and linked from this site. Such content is not and shall not be deemed tax, legal, financial, professional medical, or other advice, and we encourage you to confirm the accuracy of the content. The content on this site is not intended to be a substitute for medical treatment by a qualified healthcare provider, and we hope that when necessary you seek advice from your doctor(s) or other qualified healthcare provider(s) and that in cases of a medical emergency you call 9-1-1. References or links to a site, product, company, and/or organization from this site are not endorsements and/or recommendations of those sites, products, companies, and material contained on those sites. You use this site and the contents herein at your own risk. Use of this site shall be deemed acceptance of the above.
