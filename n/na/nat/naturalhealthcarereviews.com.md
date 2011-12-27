@@ -1,76 +1,78 @@
-> *The following text is extracted and transformed from the naturalhealthcarereviews.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626080921id_/http%3A//naturalhealthcarereviews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalhealthcarereviews.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227182727id_/http%3A//naturalhealthcarereviews.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. naturalhealthcarereviews.com  hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
+this privacy declaration we would like to confirm out commitment to keeping the personal information of all visitors and users of this Web site private. We, at [http://www.naturalhealthcarereviews.com](http://www.naturalhealthcarereviews.com/) place great importance on the privacy of everyone that interacts with us. Below you will find complete information on our policies regarding personal data collection and distribution.
 
-**We recognize the importance of protecting your privacy** and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers’ needs.
+**We know the value of keeping your personal information private**. It is our policy to keep the website’s visitors and users informed about the methods which we use for personal data collection, processing and keeping. We safeguard your data when you provide it to us while trying to assist you in making well-informed decisions. Our goal is to update our policy in line with changes and advancements in technologies, business and customer relations.
 
-**What Information Do We Collect?** **  
-** When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
+**What Kind of Data Do We Gather?**
 
-**1\. Personal Information You Choose to Provide**
+There are two types of information collected by us from visitors to our website [http://www.naturalhealthcarereviews.com](http://www.naturalhealthcarereviews.com/) – personal information disclosed willingly by you and web site use data gathered on a cumulative basis from all visitors as they browse the Web site.
+
+****1\. Personal Information that You Choose to Disclose****
 
 **Registration Information**  
-When you register for any of our products, services or newsletters you will provide us information about yourself.
+This information is provided by you personally, when you register for any of the products and services on this website. This includes registration for newsletters.
 
 **Email Information**  
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.  
+In case you decide to communicate with us via email, we may keep your email address and the entire content of the correspondence between you and us. We use the same privacy protection measures to safeguard your personal data and the messages that you send to us that we employ when information is provided via telephone and mail.
+
 **2\. Web Site Use Information**  
-Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site.
+This Web site has standard technology typical for commercial Web sites called “cookies” (please find an explanation of what cookies are below) and web server log files. These tools are used for collecting information on the use of this Web site. The information collected through these tools may include times and dates of visits, time spent on this Web site, the Web pages visited, the Web sites visited before and after your visit to our Web site.
 
-**How Do We Use the Information That You Provide to Us?**
+**What Do We Do with the Information You Leave with Us?**
 
-Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to process your payment, to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our site’s content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs.
+We use the information that you provide to us for various purposes. It is used for product and service delivery, for payment processing and for monitoring the use of services. We use the data provided by visitors for the purpose of marketing and promoting our products and services. Web site content improvement and customization of content, layout and services are among the other legally permitted purposes which we use personal data for. These are all methods that allow us to make our Web site better for you to use.
 
-Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law.
+The sharing of this kind of information on a cumulative basis is possible. Personal information and business information will not be disclosed to third parties except for the cases in which this is required by law.
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter.
+Seldom, we may use the information gathered by us to send you notifications of changes to our Web site, newly introduced services, exclusive offers and of other events which may be of interest to you. You have the right to notify us that you do not wish to receive such notifications at any time. You can do this by writing an email to us at the link available on our newsletter.
 
-**What Are Cookies?**  
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. **A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.**
+**Cookies – What Are They?**  
+A cookie is a tiny text document. Usually, it has an anonymous identifying code that is unique. Upon visiting a Web site, its server will ask your computer whether cookies can be stored on your hard drive in a special section designated for these text documents. Technically, if your website permits it, any Web site can send cookies to your computer. However, for the purpose of privacy protection, the browser allows each and every Web site to access only its own cookies on your computer. It cannot access the text documents sent by other Web sites. Most browsers are technically set to receive cookies. Still, you may set your browser not to accept them. If you choose this option, some of the parts of our Web site may not function properly when you visit it. **It is not possible for a cookie to collect any other information from your hard drive or to infect your machine with a computer virus.**
 
-**How Do We Use Information We Collect from Cookies?**  
-As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server’s log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
+**What Do We Do with Data We Gather from Cookies?**  
+Our Web site employs cookies to set you apart from others when you visit it. Often, cookies are used to prevent you from logging in more than required for security purposes. Together with our Web server’s log files, cookies are utilized to compute the cumulative number of unique visitors to our website. They are also used to determine which of its pages are most visited. In this way, we collect technical data feedback which we use for improving our website so that it serves our clients better. Cookies do not enable us to gather personal data. We do not deliberately keep any personal information made available to us by your browser in your cookies.
 
 **IP Addresses**  
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the Web pages you request) can be sent to you.
+When you are connected to the internet, your computer uses IP addresses. Your IP address is a code that is used by servers on the network to identify your computer. Our Web server gathers IP addresses automatically. These are part of traffic data (demographic and profile information). They are used in order for Web site data, for instance pages that you request, to be made available to you.
 
-**Sharing and Selling Information**  
-We **do not** share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested.
+**Information Sharing and Sale**  
+Information that may be used to identify a visitor (for instance email address and personal data) **is not** shared, sold, lent or leased by us to anyone expect to the level required to process payments or deliver services that you have asked for.
 
-**How Can You Access and Correct Your Information?**  
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address.
+**How Can You Access and Change Your Information?**  
+Please, feel free to email us at the provided address with a request to access your personal data that we have collected and keep in our database.
 
-**What About Legally Compelled Disclosure of Information?  
-**We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public.
+**How About Legally Required Provision of Data?** **  
+** We may disclose information in case we are legally obliged to do it. Basically, we may do this if we, in good faith, believe that it is required by law or to protect our legal rights. We may reveal user account information if we consider that the disclosure of this data is necessary to identify, get in touch with or bring legal action against an individual who may have breached our Terms of Service or to preserve the security of our Web site’s users and the general public.
 
-**What About Other Web Sites Linked to Our Web Site?**  
-We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.
+**How About Web Sites Linked to Our Web Site?**  
+We do not bear any responsibility for the practices, information and content of Web sites that have inbound links or outbound links to or from our Web site. In many cases, links to other sites are provided solely for information purposes in order to benefit users.
 
-Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site’s own rules and policies. Please read over those rules and policies before proceeding.
+Please, take into account the fact that when you follow a link from our Web site to visit another one, our Privacy Policy is no longer applicable. When you browse and use another Web site, which may or may not have a link on our Web site, this is subject to the other Web site’s regulations, terms and conditions. Please, go over those before continuing your browsing.
 
 **Your Consent**  
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice.
+When you are using our Web site, you permit us to collect, keep and use your personal data as thoroughly explained in this Privacy Policy. We keep the right to make changes to this policy when we deem fit with or without notification.
 
-_**Our Commitment To Data Security:**_
+**_Our Data Security Obligation:_**
 
-Please note that your information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your Country of residence or citizenship. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+Please keep in mind that your data will be kept and used on our computers in the USA. The US laws on personal data keeping may be less strict than the ones in your country. For the purposes of unauthorized access prevention, data accuracy maintenance and correct use of data, we have adopted adequate physical, managerial and electronic procedures. These are used to protect the data which we gather online.
 
-**Choice/Opt-In/Opt-Out  
-**This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible.
+**Choice/Subscription/Unsubscribing** **  
+** Our policy gives you the option to unsubscribe for receiving messages from us. Upon unsubscribing, we will stop sending messages to you immediately when this is technically possible.
 
 **Surveys & Contests**
 
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+Occasionally, we request data from visitors through surveys and contests. Participation in these is voluntary. You can choose whether to disclose information or not. The requested information may include personal details (name and address) and demographic data (zip code, age). Contact information is used for notifying winning participants. Survey data is used for improving the services provided on this Web site.
 
-**A Special Note About Children**
+**About Children**
 
-Children are not eligible to use our services unsupervised and we ask that children (under the age of 14) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians.
+Minors should not use our Web site without supervision. We request that visitors to our Web site under the age of 14 do not provide any personal data to us. If you are a minor, you may use this Web site only with the permission and under the guidance of a parent or guardian.
 
-**Acquisition or Changes in Ownership**
+**Ownership Changes and Acquisition**
 
-In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred.
+In case this Web site or a significant portion of its assets are purchased, your data will be regarded as part of these assets. It may be part of these transferred assets.
 
-**Policy Modifications  
-**We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+**Policy Changes** **  
+** We keep the right to make amendments to this policy. When this is done, we will notify users who have permitted us to do so via email. Changes will be posted on this page as well. Please, rest assured that irrespective of future Privacy Policy amendments, we will not use personal data provided to us under this Privacy Policy in any way that is not in agreement with it without your permission.
