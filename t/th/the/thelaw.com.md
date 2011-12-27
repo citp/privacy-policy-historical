@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thelaw.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628002144id_/http%3A//www.thelaw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelaw.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227085235id_/http%3A//www.thelaw.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free Legal Advice Site | Lawyers | Legal Forms | TheLaw.com
+# Privacy Policy - The Law - Free Legal Advice, Answers from Lawyers, Legal Forms, Law Library
 
 ## Privacy Policy v. 1.3
 
