@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetrugby.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509183717id_/http%3A//www.planetrugby.com/story/0%2C25883%2C9831_3796775%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetrugby.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227075608id_/http%3A//www.planetrugby.com/story/0%2C25883%2C9831_3796775%2C00.html) for the most accurate reproduction.*
 
 # Planet Rugby | Privacy | Planet Rugby Privacy Policy
 
