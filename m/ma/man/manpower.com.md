@@ -1,76 +1,97 @@
-> *The following text is extracted and transformed from the manpower.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125002738id_/http%3A//www.manpower.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manpower.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227215506id_/http%3A//www.manpowergroup.com/privacy.cfm) for the most accurate reproduction.*
 
-# Manpower | Privacy Statement
+# ManpowerGroup | Privacy Statement
 
-**PRIVACY NOTICE for this MANPOWER GLOBAL WEB SITE AS OF 21 FEBRUARY 2006**
+_**ManpowerGroup Privacy Notice**_
 
-In general, you may visit this Web site without providing any personal information to us. If you choose to provide information voluntarily, we will use that information in accordance with our data privacy principles and notice for individuals. 
+**Effective Date: 3/30/2011**
 
-**MANPOWER’S GLOBAL DATA PRIVACY PRINCIPLES**
+ManpowerGroup understands that the privacy of your personal information is important to you. The nature of our business requires us to collect and maintain personal information, and we understand that we have a responsibility to protect it. This notice describes the types of personal information we collect, how we may use that information, and how we protect it. We also provide information on how you can update your information or contact us with questions about our privacy practices.
 
-Manpower has long recognized the importance of maintaining the privacy of personal and sensitive information of our employees, candidates, clients, vendors and partners. The nature of our business requires us to collect and handle such information, and we have a responsibility to protect this information for as long as it is in our possession. At Manpower, respecting our employees, candidates, clients, vendors and partners is a part of our core values, along with being committed to providing services in an ethical manner. 
+**Information We Collect**
 
-To support these obligations, Manpower has created a set of global data privacy principles, which guide our efforts as they relate to privacy and the handling and protection of personal and sensitive information. 
+When you create a ManpowerGroup account and/or apply for a job, we ask for personal information such as:
 
-We respect your privacy by: 
-
-  * Offering privacy notices that explain how and why we handle personal information. 
-  * Respecting your choices about our collection, use and sharing of information, where appropriate. 
-  * Collecting, using and retaining only personal information that is relevant and useful to our business interactions. 
-  * Using reasonable efforts to keep personal information accurate and up-to-date. 
-  * Using safeguards to protect personal information. 
-  * Limiting access to and disclosure of personal information. 
-  * Retaining only the personal information that is needed to fill our legal and business obligations. 
-  * Offering you the ability to view and update your personal information, where appropriate. 
-  * Providing you with an opportunity to ask questions and register complaints about privacy. 
+  * Your name, mailing address, phone number, email address, and other contact information;
+  * Your country of residence;
+  * Information related to your current and past employment, such as the industries in which you have worked, and your current and past job titles;
+  * Your work experience and compensation;
+  * Your skills and abilities, including language proficiencies;
+  * Your education, including degrees held and institutions attended;
+  * Your preferences regarding the type of employment or job placement you are seeking;
+  * Your anticipated availability to begin work; and
+  * The names and contact information for those you refer under our Tell A Friend Program. 
 
 
 
-For more information on our privacy practices for individuals, please see the following notice: 
+You also may elect to upload a resume or curriculum vitae, which will provide any personal information you have chosen to disclose to us by including it in the file you upload. If you decide to contact us directly or through an internet application, we will receive the contact information you provided so that we could respond and any other personal information you chose to include in your message.
 
-**DATA PRIVACY NOTICE FOR INDIVIDUALS at this MANPOWER GLOBAL WEB SITE**
+You may elect not to provide us with all of the information we request. . However, if you do not provide the information we have requested, we will not be able to provide you with an account or t be able to use our internet applications that facilitate job placement.
 
-Manpower Inc. cares about the privacy of our applicants, employees and clients. This notice contains information about how we handle your personal information. We collect and process your personal information for the following purposes where necessary: 
+We may combine information we collect about you with other information we receive from additional sources, such as information you may have provided to us by other means or information collected by our job placement consultants. 
 
-  * to maintain our contractual or business relationship with you, 
-  * for employment-related services where applicable, 
-  * to tell you about the products and services we offer, 
-  * to contact and correspond with you, 
-  * for the management and defense of legal claims and actions, compliance with court orders and other legal obligations and regulatory requirements, and as otherwise permitted by law. 
+**How We Use Your Information**
+
+ManpowerGroup uses your information to provide you with job placement services. We also may use your information for a variety of related purposes and other business functions, such as:
+
+  * To establish and maintain an employment or staffing/placement relationship with you;
+  * To fulfill your requests for information and to communicate with you, such as alerting you to available positions or services we offer;
+  * To provide you with services, such as job placement, training, career counseling, or career transition services;
+  * To arrange employment or temporary assignments for you;
+  * To assess whether you are qualified for a position or task;
+  * To consider and address feedback you may provide to us;
+  * To provide referral services, such as if you refer a friend or colleague to us, or if we refer you to a client;
+  * To inform our clients, candidates and business partners about our services;
+  * For the performance of our placement, management, or other services agreements with our clients, including billing and enforcing payment arrangements;
+  * To help us administer or improve our business and our services, the applications and other processes we use to deliver those services, and the promotional materials we have developed to describe those services;
+  * To perform certain research and analyses;
+  * To protect the integrity of or to improve our websites, information systems, and security;
+  * To prevent physical harm or financial loss; and
+  * For certain administrative purposes, such as risk management, to fulfill legal obligations or address compliance needs, and to resolve or defend legal claims. 
 
 
 
-Manpower may disclose your personal information for these purposes to other Manpower entities, affiliates, suppliers, subcontractors who perform services on our behalf, clients if you are seeking employment, an acquiring organization if Manpower is involved in the sale or transfer of some or all of its business, and where we are otherwise required to do so, such as by court order. 
+**Information We Share**
 
-Manpower collects, processes and discloses sensitive personal information only if required to comply with legal obligations or if there is a compelling business reason to do so, or with your consent. 
+We may share the personal information we collect about you with other parties. For example, we may share information about you with our clients in order to identify appropriate job opportunities for you. We also may share your information:
 
-If you would like more information about Manpower’s privacy practices, please contact us by emailing us at globalprivacy.director@manpower.com or by writing to us at: 
+  * With our subsidiaries and affiliates;
+  * With clients who may have job opportunities available or interest in placing our candidates;
+  * With business partners, such as job placement consultants;
+  * With service providers, who are only authorized to use information to perform services on our behalf or for limited administrative purposes, such as complying with legal requirements;
+  * When reasonably requested or required by law enforcement authorities or other government officials;
+  * When otherwise required by law or in response to legal process;
+  * When we believe disclosure is appropriate to prevent physical harm or financial loss;
+  * When reasonably necessary to an investigation of suspected or actual illegal activity;
+  * As needed to protect the vital interests of an individual; and
+  * In the event we sell or transfer all or a portion of our business or assets.
 
-Manpower Inc.  
-Attention: Global Data Privacy Director  
-100 Manpower Place  
-Milwaukee Wisconsin, 53212 USA 
 
-**WEBSITE PRACTICES NOTICE for this MANPOWER GLOBAL WEB SITE**
 
-**AUTOMATICALLY COLLECTED INFORMATION**
+If you are a resident of California, you may ask us to refrain from sharing your information with third parties and among our affiliates for marketing purposes. Let us know your preference by contacting us as shown in the "How to Contact Us" section.
 
-Non-Identifiable Information – Like many other Web sites, this Web site automatically collects certain non-identifiable information regarding Web site users, such as the Internet Protocol (IP) address of your computer, the IP address of your Internet Service Provider, the date and time you access the Web site, the Internet address of the Web site from which you linked directly to the Web site, the operating system you are using, the sections of the Web site you visit, the Web site pages accessed and information viewed, and the materials you post to or download from the Web site. This non-identifiable information is used for Web sites and system administration purposes and to improve the Web site. Your non-identifiable information may be disclosed to others and permanently archived for future use. 
+**Information Security**
 
-Cookies – This Web site uses “cookies”, a technology that installs information on a Web site user’s computer to permit the Web site to recognize future visits using that computer. Cookies enhance the convenience and use of the Web site. For example, the information provided through cookies is used to recognize you as a previous user of the Web site, to track your activity at the Web site in order to respond to your needs, to offer personalized Web page content and information for your use, to automatically populate online forms with your personal information for your convenience, and to otherwise facilitate your Web site experience. 
+We maintain administrative, physical, and technical safeguards intended to protect against the loss, misuse, or unauthorized access, acquisition, alteration or destruction of information we collect through physical and automated means. Your ManpowerGroup account is protected by your log-in credentials, which you must keep secure and confidential.
 
-Advertisements displayed on the Web site may also contain cookies or other technologies. Those advertisements may be provided by third party advertising companies, and Manpower does not have any control over, or any responsibility or liability for, the cookies or other technologies used in the advertisements or for use and disclosure of information collected through advertisement cookies. 
+We communicate our privacy and security guidelines and standards to ManpowerGroup employees and enforce these requirements within the company. 
 
-You may choose to decline cookies if your browser permits, but doing so may affect your use of this Web site and your ability to access or use certain Web site features. 
+We also require that our suppliers protect your personal information collected against loss, misuse or unauthorized access, acquisition, alteration or destruction.
 
-**INFORMATION USED**
+**Accessing and Correcting Your Information**
 
-Tracking Information – Manpower may use non-personal information to create aggregate tracking information reports regarding Web site user demographics and the use of this Web site, and then provide those reports to others. None of the tracking information in the reports is connected to the identities or other personal information of individual users. 
+ManpowerGroup endeavors to maintain accurate information and provides you with options to update your information. You can log into your account and modify your information at any time using your log-in credentials. You also may request that we update your information by contacting us through one of the methods specified in the "How to Contact Us" section of this notice.
 
-**OTHER MATTERS**
+**International Data Transfer**
 
-Security – Manpower works to keep our servers, applications and databases secure and free from unauthorized access and use, by using physical, administrative and technological measure to protect the information we maintain. Unfortunately, no one can guarantee 100% security. If you have particular security concerns about certain personal information, please do not transmit that information over the Internet. 
+ManpowerGroup is a global company that operates in numerous worldwide locations. We also work with business partners and clients in multiple worldwide locations. We may transfer the personal information we collect to any country where we do business. Those countries may not have the same data protection laws as the country in which you reside. No matter where we transfer personal information collected, that information will be subject to the policies and protections described by this notice.
 
-Other Web sites – This Web site may contain links to other Web sites or Internet resources. When you click on one of those links you are contacting another Web site or Internet resource that may collect information about you voluntarily or through cookies or other technologies. Manpower has no responsibility, liability for, or control over those other Web sites or Internet resources or their collection, use and disclosure of your personal information. You should review the privacy policies of those other Web sites and Internet resources to understand how they collect and use information. 
+**Links to Other Sites**
 
-Privacy Notice Changes – Manpower may change, supplement or amend this Notice as it relates to your future use of this Web site from time to time, for any reason, by posting a revised Notice on this Web site. This notice was last updated on 21 February 2006 
+We may provide links to websites for your convenience and information. These sites may not be owned, controlled, or operated by us. In those cases, we cannot control how information collected by those sites will be used, shared, or secured. If you visit linked sites, we strongly suggest that you review the privacy notices or policies posted at those sites. We are not responsible for the content of linked sites, your use of them, or the information practices of their operators. 
+
+**Updates to Our Privacy Notice**
+
+This notice may be updated without prior notice to you to reflect changes in our information collection, use and security practices. If the notice is updated, we will post a new effective date to let you know when the notice was most recently updated.
+
+**How to Contact Us**
