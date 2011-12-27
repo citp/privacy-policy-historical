@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabric.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619042359id_/http%3A//www.fabric.com/SitePages/SecurityPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabric.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227111814id_/http%3A//www.fabric.com/SitePages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Fabric - Store
 
@@ -8,8 +8,10 @@ The Place To Go When You Sew
 
 |   
 ---|---  
-**  
-**
+  
+Our office will be closed at 3:00pm EST on Friday, Dec. 23rd through Monday, Dec. 26th for the Christmas Holiday   
+We will resume operations on Tuesday, Dec. 27th at 8:30 EST. Happy Holidays from Fabric.com  
+
 
 Last Updated: April 29, 2011. To see what's changed, [click here](http://privacyinfo.fabric.com/). 
 
