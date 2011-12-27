@@ -1,43 +1,123 @@
-> *The following text is extracted and transformed from the boxee.tv privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614125649id_/http%3A//www.boxee.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxee.tv privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227020024id_/http%3A//www.boxee.tv/privacy) for the most accurate reproduction.*
 
 # Boxee - Privacy Policy
 
-Boxee provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of boxee.tv and subdomains ("Sites"). This Privacy Policy applies only to information that you provide to us through these Sites. Our Privacy Policy may be updated from time to time, and we will notify you of any material changes by posting the new Privacy Policy for the Sites at [http://www.boxee.tv/static/privacy.](https://web.archive.org/web/20110614125649id_/http%3A//www.boxee.tv/privacy)
+Last Updated: August 8, 2011
 
-**1\. Information Collection: The Personally Identifiable Information We Collect**
+This Privacy Policy describes the policies and procedures of Boxee, Inc. (“Boxee”, “we” or “us”) on the collection, use and disclosure of information collected by Boxee on http://www.boxee.tv/ (together with any subdomains or related pages, the “Site”) or in connection with Boxee’s media platform that permits end users to manage and view digital content downloaded or streamed through the internet (including all related services, features, content, applications or widgets offered by Boxee, the “Boxee Platform” and, collectively with the site, the “Service”). In connection with your use of the Service, we receive information about you from various sources, including: (i) through your account as a user of the Boxee Platform (your “Account”) and (ii) through your use of the Site and the Service generally. When you use the Service, you are consenting to the collection, transfer, manipulation, storage, transmission, disclosure and other uses of your information as described in this Privacy Policy. 
 
-In the course of using Boxee Sites, you may provide us with personally identifiable information. This refers to information about you that can be used to contact or identify you, and information on your use of and activities at our Sites that may be connected with you ("Personal Information"). Personal Information that we collect may include, but is not limited to, your name, phone number, credit card or other billing information, email address and home and business postal addresses. Personal Information may also include information you supply to us concerning your preferences and interests expressed in the course of use of our Sites, as well as the content which you have viewed on the Sites.
+**What does this Privacy Policy Cover? What is not covered by this Privacy Policy?**
 
-When you visit the Sites, our servers automatically record information that your browser sends whenever you visit a website. This information may include, but is not limited to, your computer's Internet Protocol address, browser type, the web page you were visiting before you came to our Sites and information you search for on our Sites. Like many websites, we may also use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We may use "persistent cookies" to save your registration ID and login password for future logins to the Sites; and we use "session ID cookies" to enable certain features of the Sites, to better understand how you interact with the Sites and to monitor aggregate usage and web traffic routing on the Sites. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Sites or all functionality of our services.
+This Privacy Policy covers the collection and treatment of information, including personally identifiable information (“Personal Information”), by Boxee through the Service. This Privacy Policy also covers our treatment of information that our business partners share with us or that we share with our business partners. 
 
-**2\. How We Use Personal Information**
+**This Privacy Policy does not apply to the practices of third parties that we do not own or control, including, but not limited to, any third party websites, content sources, services and applications (“Third Party Services”) that you elect to access through the Service. Please note that most applications accessed via the Boxee Platform are provided by third parties and accordingly, the collection and treatment of information within such applications is governed by the privacy policies of such third parties.** **While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those third party services. We strongly encourage you to carefully review the privacy policies of all Third Party Services.**
 
-Personal Information is or may be used for the following purposes: (i) to provide and improve our Sites, services, features and content, (ii) to administer your use of our Sites, (iii) to enable you to enjoy and easily navigate the Sites, (iv) to better understand your needs and interests, (v) to fulfill requests you may make, or (vi) to personalize your experience. We may use your contact information to provide or offer (including via e-mail) software updates and product announcements, and to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on services and products offered by us or third parties. If you decide at any time that you no longer wish to receive any such communications, please follow the "unsubscribe" instructions provided in any of the communications sent to you, or you may opt-out of receiving communications at any time by updating your "account settings" information. (See "Changing or Deleting Information" below.)
+**What Information Is Collected by Boxee?**
 
-We use information we obtain by technical means (such as the automatic recording performed by our servers or through the use of cookies) for the above purposes and in order to monitor and analyze use of the Sites and our services, for the Sites technical administration, to increase our Sites functionality and user-friendliness, to better tailor it to your needs, to generate and derive useful data and information concerning the interests, characteristics and website use behavior of our users, and to verify that visitors to these Sites meet the criteria required to process their requests.
+The information we gather enables us to personalize your experience within the Boxee Platform, and to continually improve and operate the Service. In connection with certain aspects of the Service, we may request, collect and/or display certain information from our users. We collect the following types of information from our users:
 
-**3\. Information Sharing and Disclosure**
+**Account** **Information:** ****
 
-**Boxee Users.** We will display your Personal Information in your profile page and elsewhere on the Sites according to the preferences you set in your account. Any information you choose to provide should reflect how much you want other Boxee users to know about you. We recommend that you guard your anonymity and sensitive information, and we encourage users to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time.
+When you create an Account or login, you will provide information that could be Personal Information, such as your name, address, username, password and email address. You acknowledge that this information may be personal to you, and by creating an account with Boxee and providing Personal Information to us, you allow others, including us, to identify you and therefore you may not be anonymous. We may use your contact information to provide information to you regarding your Account, and we may also send you promotional emails relating to the Boxee Platform that inform you of certain new developments and the applications and services available to you. You may unsubscribe from promotional messages through your Account settings, however, we reserve the right to contact you when we believe it is necessary to provide the Service to you. We may receive a confirmation when you open an email from us. We use this confirmation to improve our customer service.
 
-**Service Providers, Business Partners and Others.** We may employ third party companies and individuals to facilitate our service, to provide the service on our behalf, to perform Sites-related services (including but not limited to data storage, maintenance services, database management, web analytics, payment processing, and improvement of the Sites features) or to assist us in analyzing how our Sites and service are used. These third parties have access to your Personal Information only for purposes of performing these tasks on our behalf.
+If you purchase content through the Boxee Platform, you may elect to have Boxee store your credit card information for your ease of use in making further purchases. Unless you elect for Boxee to store credit card information, Boxee uses, collects and stores your credit card information only for the purpose completing each specific transaction.
 
-**Compliance with Laws and Law Enforcement.** Boxee cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Boxee or a third party, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable.
+**Profile Page:**
 
-**Business Transfers.** Boxee may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+We will display your Personal Information in your profile page and elsewhere on the Sites according to the preferences you set in your Account. Any information you choose to provide should reflect how much you want other Boxee users to know about you. We recommend that you guard your anonymity and sensitive information, and we encourage users to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time.
 
-**4\. Changing or Deleting Your Information**
+**User Activity and Sharing:**
 
-You may review, update, correct or delete the Personal Information provided in your registration or account profile by changing your "[account settings](http://www.boxee.tv/account)."
+We collect and store information regarding your use of the Boxee Platform, including (i) the content viewed, (ii) the time and date of each viewing, (iii) the application used in viewing the content and (iv) IP addresses, including internal IP addresses, of devices accessing the Boxee Platform. We also retain your browsing history on the Site for fourteen (14) days, including the identity and address of the pages you view via the Site. If you choose to link your Account to Facebook, Twitter, or any other social media service, we may collect and store information relating to any content that you share through the Boxee Platform with friends as well as information relating to your friends and any media files shared by your friends on the social media service. 
 
-**5\. Security**
+The Boxee Platform also includes a feature that allows you to search Boxee’s system for metadata relating to your local files. We do not collect or retain any information relating to such searches, however, if you view a local file for which a related metadata file has been provided from the Service, we may collect and store information on the time and date on which you viewed the local file.
 
-Boxee is very concerned with safeguarding your information. We employ reasonable measures designed to protect your information from unauthorized access.
+We use all of this information to optimize your experience within the Boxee Platform, and to improve and optimize the Boxee Platform generally.
 
-**6\. Our Policy Toward Children**
+**Third Party Services:**
 
-This Sites is not directed to children under 18. We do not knowingly collect Personal Information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [privacy@boxee.tv](mailto:privacy@boxee.tv). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+If you have accounts directly with third parties for certain Third Party Services available on the Boxee Platform (e.g. Netflix, Pandora, etc.), you may elect to have Boxee store your account information for such Third Party Services (“Third Party Account Information”). In such event, we use this information only for your ease of use in connecting to the Third Party Services through the Boxee Platform.
 
-**7\. Contacting Us**
+**IP Address Information and Other Information Collected Automatically:**
 
-If you have any questions about this Privacy Policy, please contact us at [privacy@boxee.tv](mailto:privacy@boxee.tv).
+We automatically receive and record information from the Service or your web browser when you interact with the Service, including your IP address and cookie information. This information is used to facilitate collection of data concerning your interaction with the Service as described in this policy.
+
+Generally, Boxee automatically collects usage information, such as the number and frequency of users accessing the Service and various channels of content. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Service so that we can analyze and improve the Service. 
+
+**Information Collected Using Cookies:**
+
+Cookies are pieces of text that may be provided to your computer through your web browser or application when you access a website or service. Your browser stores cookies in a manner associated with each website or service you visit. We use cookies to enable our servers to recognize your web browser or the Service and tell us how and when you visit and use the Service through the web or through an application. 
+
+Cookies also allow us to track when you have accessed content through the Service. Each access may be tracked using a unique identifier assigned to you in one or more cookies stored by your web browser or application and associated with Boxee.
+
+Boxee cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with Personal Information you have provided to us. As noted, however, we do use cookies to identify that your web browser or application has accessed content through the Service and may associate that information with your Account if you have one. 
+
+This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer or device. For example, Third Party Services may set their own cookies. 
+
+**Aggregate Information:**
+
+We may combine certain information that we collect from you with information collected from other users in an aggregate, non-personally identifiable format (“Aggregate Information”). Some of this information is derived from Personal Information, such as your location (which, in turn, can be derived from your IP address or through location based services used by your device). Aggregate Information is not Personal Information and cannot be tied back to you or your Account. If you delete your Account, information pertaining to your Account activity is retained as a part of the Aggregate Information; however there will be no association between this information and your Account. We use Aggregate Information to gain insight into our users’ use of the Service generally, and to optimize and improve the Service. We may also share Aggregate Information with our third party partners, who use such information for the purpose of optimizing and improving the Third Party Services.
+
+**Our Policy Toward Children:**
+
+The Service is available only to individuals who are at least 13 years old. We do not knowingly collect Personal Information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without parental consent, he or she should contact us at [privacy@boxee.tv](mailto:privacy@boxee.tv). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+
+**How and To Whom Is My Information Shared?**
+
+Except for use of your Personal Information in connection with and to optimize your experience with the Service, we use your Personal Information for the purpose of providing the Service to you only. We do not and will not sell, rent, distribute or otherwise provide your information to third parties, except as provided below. We consider your privacy to be of utmost importance.
+
+**Third Party Services:**
+
+Please remember that if you choose to connect to Third Party Services through the Service (including through third party applications on the Boxee Platform), any information you provide within such Third Party Services is being provided directly to such third parties and is governed by such third parties’ privacy policies. We encourage you to understand the privacy policies of such third parties prior to providing Personal Information to any Third Party Services, and to think carefully about what information you choose to share.
+
+**IP Address Information:**
+
+While we collect and store IP address information, that information is not made public. We do at times, however, share this information with our partners, service providers and other persons with whom we conduct business. We may share hashes of your IP address with other third parties, but these hashes cannot feasibly be reversed into the IP addresses themselves or linked to you individually. 
+
+**Information You Elect to Share:**
+
+As mentioned above, you may elect to share certain content you access on the Boxee Platform with your friends through Facebook, Twitter or other social media services, and in doing so certain profile information will be displayed to those with whom you share content. In addition, we will display your Personal Information in your profile page and elsewhere on the Sites according to the preferences you set in your Account. You can control the information that is shared through your Account settings. 
+
+**Aggregate Information:**
+
+We share Aggregate Information with our partners, service providers and other persons with whom we conduct business. We share this type of statistical data so that our partners can understand how and how often people use Boxee and their services or websites, which facilitates improving both their services and how we interface with them. In addition, these third parties may share with us non-private, aggregated or otherwise non Personal Information about you that they have independently developed or acquired.
+
+**Information Shared with Our Agents** **:**
+
+We employ and contract with people and other entities that perform certain tasks on our behalf and who are under our control (our “Agents”). We may need to share Personal Information with our Agents in order to provide the Service to you. Unless we tell you differently, our Agents do not have any right to use Personal Information or other information we share with them beyond what is necessary to assist us in providing the Service to you.
+
+**Information Disclosed Pursuant to Business Transfers:**
+
+In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the transferred business assets. Moreover, if we, or substantially all of our assets associated with Boxee, were acquired, or in the unlikely event that we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us may continue to use your Personal Information as set forth in this policy.
+
+**Information Disclosed for the Protection of Us and Others:**
+
+We also reserve the right to access, read, preserve, and disclose any information as we reasonably believe is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce Boxee’s Terms of Use (available at <http://www.boxee.tv/tou> or a successor URL), including investigation of potential violations thereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam prevention.
+
+**Information We Share With Your Consent:**
+
+Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+
+**Is Information About Me Secure?**
+
+We protect your Personal Information, Account information and Third Party Account Information using industry-standard security techniques. While we endeavor to protect such information to ensure that it is kept private, we cannot guarantee the security of any information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. Therefore, we do not guarantee or warrant that such techniques will prevent unauthorized access to information about you we store, Personal Information or otherwise.
+
+You should do your part to prevent unauthorized access to your Account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your Account.
+
+**How Can I Delete My Account?**
+
+Should you ever decide to delete your Account, you may do so by altering your Account settings. If you terminate and delete your Account, any association between your Account and information stored by and in connection with Boxee will no longer be accessible. However, any information collected by Boxee prior to deletion of your Account will continue to be stored by Boxee in an aggregate, non-personally identifiable manner. 
+
+**What Choices Do I Have Regarding My Information?**
+
+As stated previously, you can opt not to disclose certain information to us; however, you may be required to share certain information in order to take advantage of some Boxee features. If you do not wish to disclose any information to us, you can delete your Account and discontinue using the Service. 
+
+**What Happens When There Are Changes to this Privacy Policy?**
+
+We may amend this Privacy Policy from time to time. Use of information we collect is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we collect or use information, we will notify you by posting an announcement on or within the Service or sending you an email. A user is bound by any changes to the Privacy Policy when he or she uses Boxee after such changes have been first posted, so we encourage you to review this Privacy Policy periodically.
+
+**What If I Have Questions or Concerns?**
+
+If you have any questions or concerns regarding privacy using Boxee, please send us a detailed message to: [privacy@boxee.tv](mailto:privacy@boxee.tv). We will make every effort to resolve your concerns.
+
+**Effective Date:** August 8, 2011.
