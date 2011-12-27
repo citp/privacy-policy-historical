@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the submitlinkurl.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611041805id_/http%3A//www.submitlinkurl.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitlinkurl.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227232821id_/http%3A//www.submitlinkurl.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Submit Link URL - Free Directory Submission - Privacy Policy
+# Submit Link URL - Web Directory - Privacy Policy
 
 Privacy Policy for www.submitlinkurl.com
 
