@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overstockjeweler.com privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319223830id_/http%3A//www.overstockjeweler.com/privacy-i-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overstockjeweler.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227214342id_/http%3A//www.overstockjeweler.com/privacy-i-3.html) for the most accurate reproduction.*
 
 # Overstock Jewelry Privacy
 
@@ -28,3 +28,7 @@ For further information about Overstockjeweler.com privacy policy, please email 
 
   
 International Users Should Use Paypal as the faster way to get the orders processed. Shipping and Billing address must match with the address on Paypal Account 
+
+  
+Overstockjeweler.com partners with Amazon to provide a prompt purchase option called Amazon Payments. If you have Amazon USA account you can now pay with your Amazon Account. You will be redirected to Amazon checkout page. You may view Amazon Payments [Privacy Policy here.](https://payments.amazon.com/sdui/sdui/about?nodeId=82974)  
+
