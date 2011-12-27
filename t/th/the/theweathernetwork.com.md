@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617071137id_/http%3A//www.theweathernetwork.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227205836id_/http%3A//www.theweathernetwork.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - The Weather Network
 
@@ -84,6 +84,44 @@ When a subscriber cancels his or her subscription account, that individual's per
   
 
 
+#### Facebook Commenting
+
+When a user chooses to log in to comment using their Facebook account, we request access to the information indicated in the Facebook acceptance screen and described below.
+
+Users can click "Allow" to login using their Facebook account, or click "Don't Allow" to close and return to the login options. If the user chooses not to login using Facebook, they can login using their Weather Network account -- or create one if they don’t have one already.
+
+When a user chooses to log in using their Facebook account, we request access to the following:
+
+  * "Access my basic information: Includes name, profile picture, gender, networks, user ID, list of friends. And any other information I've shared with everyone."
+
+Access to basic user information is required by Facebook in order to use the Facebook login functionality. We will display the user’s name, and potentially their profile picture in future, to identify them as the person who posted the comment.
+
+  
+
+  * "Send me e-mail: The Weather Network may e-mail me directly at [user’s e-mail address]"
+
+We require an e-mail address to match the user's Facebook account with The Weather Network's user database. We may contact the user directly regarding their use of the commenting feature, or to notify them if their comment might be used on television. Unless the user has "opted in" elsewhere on the website, we will not send the user marketing or promotional material.
+
+  
+
+  * "Post to Facebook as me: The Weather Network may post status messages, notes, photos, and videos on my behalf"
+
+We require this access to allow users to send comments made on our website to their own Facebook pages, allowing them to share links with their friends. Any postings sent to users' Facebook pages are user-generated: We will not post promotional, informational or other unexpected messages. After allowing access for initial login, a user may Remove this permission on Facebook, under Privacy Settings | Apps and websites | Edit settings.
+
+  
+
+  * "Access my profile information: Activities, Interests, Birthday, Hometown, Current City"
+
+This data will be used to target content and advertising, allowing us to display information on our website that is relevant to the user's location, interests and age.
+
+
+
+
+Services that use Facebook features are developed in accordance with the [Facebook Platform Policy for Developers](http://developers.facebook.com/policy/)
+
+  
+
+
 #### Weather Button
 
 When users sign up to obtain a 'Weather Button' we request their name, e-mail address, company name (if available) and website URL. The purpose of this is to be able to contact users of the button to communicate changes in the program as well as for record keeping purposes in respect of where the Weather Button is posted. This information will be retained until the operator of the website using the Weather Button informs us that they have removed the Weather Button from their website. 
@@ -154,4 +192,4 @@ Ottawa, ON K1A 1H3
 
 ## Updates
 
-PMI reserves the right to update and amend this Privacy Policy as it is deemed necessary or appropriate to do so. Please check back often to be appraised of any changes. By continuing to use the Website, you accept any updates to this Privacy Policy. This version was updated on January 20, 2011.
+PMI reserves the right to update and amend this Privacy Policy as it is deemed necessary or appropriate to do so. Please check back often to be apprised of any changes. By continuing to use the Website, you accept any updates to this Privacy Policy. This version was updated on November 15, 2011.
