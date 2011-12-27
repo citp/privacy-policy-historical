@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeonlinegames.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612170941id_/http%3A//www.freeonlinegames.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonlinegames.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227054309id_/http%3A//www.freeonlinegames.com/privacypolicy.php) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 We want our users to always be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
@@ -34,7 +34,7 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We are committed to resolving disputes within 24-48 hours. If problems arise, users may contact via our contact form. 
 
-If site users have any questions or suggestions regarding our privacy policy, please contact us via our [contact page](https://web.archive.org/web/20110612170941id_/http%3A//www.freeonlinegames.com/contact.php). 
+If site users have any questions or suggestions regarding our privacy policy, please contact us via our [contact page](https://web.archive.org/web/20111227054309id_/http%3A//www.freeonlinegames.com/contact.php). 
 
 For the amusement and greater good of all the gamers of FreeOnlineGames.com:  
 We reserve the right to alter, delete, jump on, kick, smackdown, nuke or do with the reviews whatever we please. If you have any objections with that, please refrain from posting - thank you. 
@@ -44,3 +44,5 @@ We reserve the right to alter, delete, jump on, kick, smackdown, nuke or do with
 **PROVISION REGARDING GAIKAI'S COLLECTION OF USER-RELATED INFORMATION AS PART OF THE GAIKAI SERVICE:**
 
 Licensee's corporate privacy policy (which is accessible at http://www.freeonlinegames.com/privacypolicy.php) already includes, or will include prior to the commercial launch of the Gaikai Service on any website(s) owned or controlled by Licensee (collectively, the "Licensee Sites"), reasonable notice that (i) entities that are not affiliated with Licensee, such as Gaikai (collectively, "Providers") may provide certain products and/or services (e.g., the Gaikai Service) on behalf of Licensee; and (ii) Licensee may disclose and/or share with Gaikai (as a Provider) certain Usage Data and other information of or concerning the individuals who access and use the Gaikai Service and the Trial Games by means of the Licensee Sites, and/or allow Gaikai (as a Provider) to collect and use certain Usage Data and other information regarding such individuals, their respective computer system configurations and performance characteristics, and their use of the Gaikai Service and the Trial Games. Such information may include information that is not personally identifiable (e.g., computer CPU, graphics card, stability of Internet connectivity, latency, etc.), and may also include personally identifiable information regarding such individuals (e.g., email addresses, etc.) and/or information that some jurisdictions consider to be personally identifiable information, such as an IP address. Gaikai's collection, retention and use of any and all such information shall be subject to Gaikai's corporate privacy policy, as posted on http://www.gaikai.com/privacy, which policy may be amended by Gaikai from time to time, at its sole discretion, both during and after the term of the Agreement. 
+
+@{advert:bottom-banner} 
