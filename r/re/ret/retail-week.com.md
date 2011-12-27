@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retail-week.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527061722id_/http%3A//www.retail-week.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retail-week.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227053055id_/http%3A//www.retail-week.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Retail Week
 
