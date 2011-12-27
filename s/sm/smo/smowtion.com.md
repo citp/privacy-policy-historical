@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smowtion.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223085243id_/http%3A//www.smowtion.com/en/users/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smowtion.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227070401id_/http%3A//www.smowtion.com/en/users/privacy) for the most accurate reproduction.*
 
 # Smowtion
 
@@ -32,19 +32,19 @@ For the purposes of this Privacy Policy, the advertisements published by the Adv
 
 Smowtion provides data analysis and audience segmentation services based on information provided by the Clients regarding the interactions from their users (the “Users”), including those on the Client’s web site or online advertisements.
 
-Smowtion creates usage/behavior/interest-based categories called “segments”. These segments are unique groups of Users that are created using “client side” technology, that enables the Client to selectively serve targeted advertisements based on these segments. 
+Smowtion creates usage/behavior/interest-based categories called “segments”. These segments are unique groups of Users that are created using “client side” technology, that enables the Client to selectively serve targeted advertisements based on these segments.
 
-Smowtion also provides targeting advertising services using non-personal information that is gathered across multiple, unaffiliated web sites that use our network. Much like our data analytic services provided for specific web sites, Smowtion creates network segments that are used to serve targeted advertisements in Smowtion’s network. 
+Smowtion also provides targeting advertising services using non-personal information that is gathered across multiple, unaffiliated web sites that use our network. Much like our data analytic services provided for specific web sites, Smowtion creates network segments that are used to serve targeted advertisements in Smowtion’s network.
 
 ### COLLECTION OF INFORMATION FROM USERS. PURPOSES
 
-Generally the Clients collect information about the Users interactions using cookies, tags, and other methods (such as the information provided by the Users while registering in the web sites from Clients). 
+Generally the Clients collect information about the Users interactions using cookies, tags, and other methods (such as the information provided by the Users while registering in the web sites from Clients).
 
 A cookie is a small text file that could identify a certain internet browser, and that is usually installed, sent or written in the computer of the internet users, when the user navigates for such web sites. A cookie will typically contain the name of the domain from where the cookie was transferred, the date of creation, and an identification code. The only personal information that a cookie could contain is the information that the user provides by internet navigation, such as internet protocol addresses, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time, etc. (“Activity Information”). A cookie cannot read information from the User’s hard disk nor read the cookie files created by other web sites.
 
 A tag is a small graphic image on a web page that is designed to allow the site owner or a third party to monitor who is visiting a site by collecting the IP address of the computer that the tag is sent to, the URL of the page the tag comes from, and the time it was viewed. Tags also may be associated with cookie information.
 
-Clients use to collect information from Users to improve the quality of their services, due their storage of the preferences from the Users, and that they supervise the interactions tendencies, such as, the type of researches they made. 
+Clients use to collect information from Users to improve the quality of their services, due their storage of the preferences from the Users, and that they supervise the interactions tendencies, such as, the type of researches they made.
 
 Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
 
@@ -52,15 +52,17 @@ Our Web site includes Widgets, which are interactive mini-programs that run on o
 
 The Clients may provide information that they collect, including personally identifiable information, to Smowtion, with the previous consent, express or tacit, from Users.
 
-Also, as part of the Services, Smowtion may collect data from Users on behalf of a Client using cookies (when User visits the Client's web site or view an advertisement placed by Smowtion) and/ or tags. Information that Smowtion collects and compiles might include navigation behavior, IP addresses, logs, and other types of data. That situation shall be informed by the Clients to their Users, as well as the Users consent shall be obtained, whether express or tacit. However, Smowtion shall not collect any personally identifiable information directly from any User, whether using cookies or tags. 
+Also, as part of the Services, Smowtion may collect data from Users on behalf of a Client using cookies (when User visits the Client's web site or view an advertisement placed by Smowtion) and/ or tags. Information that Smowtion collects and compiles might include navigation behavior, IP addresses, logs, and other types of data. That situation shall be informed by the Clients to their Users, as well as the Users consent shall be obtained, whether express or tacit. However, Smowtion shall not collect any personally identifiable information directly from any User, whether using cookies or tags.
 
-Smowtion shall use data provided by the Client, as well as data that Smowtion collects on behalf of the Client, only to create segments and reports for the Client. Additionally, data provided by a Client, as well as data that Smowtion collects on behalf of such Client, shall be made available by Smowtion to that Client, and to those third parties with whom Smowtion may hire to provide the Services, such as QuantCast, RightMedia, y OpenX. Notwithstanding the foregoing, Smowtion shall control the access to such information by those third parties. Smowtion shall not be obliged to withhold the information for no certain term, and shall dispose the elimination of the same when considered as convenient.
+Smowtion shall use data provided by the Client, as well as data that Smowtion collects on behalf of the Client, only to create segments and reports for the Client. Additionally, data provided by a Client, as well as data that Smowtion collects on behalf of such Client, shall be made available by Smowtion to that Client, and to those third parties with whom Smowtion may hire to provide the Services, such as QuantCast, RightMedia and/or OpenX. This data is non-personal. Notwithstanding the foregoing, Smowtion shall control the access to such information by those third parties. Smowtion shall not be obliged to withhold the information for no certain term, and shall dispose the elimination of the same when considered as convenient. Any User is able to request Smowtion to delete the information related to them by sending an email with the subject “Delete Personal Data” to privacy@smowtion.com. Smowtion may request such User to identify itself, which might be verified by Smowtion, as well as to specify the personal data to which the User wants to delete. Beware that this does not apply to the information in your Publisher Client account as we need this for our accounting and tax records.
 
 Smowtion may provide analytic or segmentation Services to Clients that are network advertisers or service providers, which may use the Services whereby collected data is used to predict User characteristics, behavior, or preferences typically for use in the serve of advertisings. Such Clients are responsible for notifying users of these collection practices and making opt-out procedures available (if any).
 
 A Client may correlate or merge information provided by Smowtion due to the Services, with personal information already collected or accessible by that Client. Also, on behalf of a Client, Smowtion may correlate or merge personal information provided by the Client with non-personal information that Smowtion collects for that Client. The Clients are responsible for notifying Users whether they correlate or merge personal information to non-personal information that they collect or that Smowtion or any other third party collects on their behalf.
 
 Smowtion shall develop processing of information and personal and non-personal data, according to the Privacy Policy and the additional notices included for certain Services. Also, Smowtion firmly recommends, supports and encourages the Clients, to adopt privacy policies that fully inform the Users about the used information collection practices and use of the Smowtion Services. The User should familiarize itself with the privacy practices of any web site the User visits to understand what information the site collects, how the information is used, what choices the User has, how to access the information, and how it is safeguarded.
+
+Notwithstanding the above mentioned, and provided the User requests the Do not Track option or the User does not want Smowtion to register his interests by selecting the opt-out option, Smowtion shall not correlate nor merge any personal and/or non-personal information for that User.
 
 ### SMOWTION’S WEB SITE
 
@@ -82,11 +84,15 @@ If you use a bulletin board, chat room, blog or forum on this Web site, you shou
 
 ### MINORS OF AGE
 
-We do not collect, use or disclose personally identifiable information about children we know to be under 18
+Smowtion does not collect, use or disclose personally identifiable information about children knowingly to be under 18.
+
+### SENSITIVE INFORMATION
+
+Smowtion does not collect, use or disclose personally and sensitive identifiable information, including but not limited to sexual orientation, politics orientation, health and diseases, financial, creeds or beliefs. As a matter of policy, Smowtion does not set any targeting cookies based on adult related searches or adult content.
 
 ### TRANSFER OF THE INFORMATION
 
-The data provided to Smowtion by the Clients, as well as data that Smowtion collects directly on behalf of the Clients, may be transferred between different advservers, which might be located in different countries, with different regulations regarding data protection. The use of the Services shall be considered as an authorization from Client for the international transfer of the data provided to Smowtion by the Clients, as well as data that Smowtion collects directly on behalf of the Clients.
+The non-personal data provided to Smowtion by the Clients, as well as any non-personal data that Smowtion collects directly on behalf of the Clients, may be transferred between different advservers, which might be located in different countries, with different regulations regarding data protection. The use of the Services shall be considered as an authorization from Client for the international transfer of the data provided to Smowtion by the Clients, as well as data that Smowtion collects directly on behalf of the Clients.
 
 If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
 
@@ -139,7 +145,7 @@ Smowtion may use and uses third party services from which Smowtion is not respon
 
 ### CHANGES IN THE PRIVACY POLICIY
 
-Smowtion shall modify this Privacy Policy any time it considers that as appropriate. In case those changes are material or substantial regarding treatment of personal data collected by virtue of the Services, the same shall be also notified by posting a highlight notice in Smowtions’s Web Site home page. In case a Client wants to be notified by email of such changes, it shall send an email with the subject “List of Privacy Policy Changes”, to [privacy@smowtion.com](mailto:privacy@smowtion.com), from the email address where the Client wants to receive such notices. 
+Smowtion shall modify this Privacy Policy any time it considers that as appropriate. In case those changes are material or substantial regarding treatment of personal data collected by virtue of the Services, the same shall be also notified by posting a highlight notice in Smowtions’s Web Site home page. In case a Client wants to be notified by email of such changes, it shall send an email with the subject “List of Privacy Policy Changes”, to [privacy@smowtion.com](mailto:privacy@smowtion.com), from the email address where the Client wants to receive such notices.
 
 ### CONTACT
 
