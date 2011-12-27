@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedypc.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628054507id_/http%3A//www.speedypc.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedypc.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227040506id_/http%3A//www.speedypc.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # SpeedyPC – Legal - Privacy Policy
 
@@ -7,6 +7,8 @@ SpeedyPC is dedicated to maintaining the confidentiality of your personal inform
 ## How we collect information
 
 We collect information from you including name, address, email address, etc. when you purchase or register SpeedyPC and when you download a free trial/evaluation version. This information is used to verify transactions during use of SpeedyPC or the SpeedyPC website. Payment processing merchants utilized by SpeedyPC and SpeedyPC customers use the same careful privacy criteria as SpeedyPC. The SpeedyPC website is not intended for users under the age of 18, and SpeedyPC does not intentionally gather information on users under the age of 18.
+
+To unsubscribe from future communications, [click here](https://web.archive.org/web/20111227040506id_/http%3A//www.speedypc.com/legal/privacy_unsubscribe.php). 
 
 SpeedyPC is not responsible for the information posted by users on public message boards, blogs, forums, etc., nor does SpeedyPC supervise the potential use of this information by third-parties. SpeedyPC makes no claims of privacy or confidentiality for items which users post in public spaces.
 
@@ -61,7 +63,7 @@ We are in compliance with the requirements of COPPA (Children's Online Privacy P
 
 ## Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20110628054507id_/http%3A//www.speedypc.com/legal/terms.aspx "Terms of Use Documentation") documentation establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20111227040506id_/http%3A//www.speedypc.com/legal/terms.aspx "Terms of Use Documentation") documentation establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 ## Your Consent
 
