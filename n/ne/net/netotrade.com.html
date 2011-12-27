@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the netotrade.com privacy policy that was archived on 2011-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110527083606id_/http%3A//www.netotrade.com/privacy%2Bpolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the netotrade.com privacy policy that was archived on 2011-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227114807id_/http%3A//www.netotrade.com/privacy%2Bpolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -18,19 +18,7 @@
 <script defer type="text/javascript" src="pngfix.js"></script>
 <![endif]-->
 <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-23596310-2']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-<script>
+var justOn = logOn = false;
 function checkDemo(f)
 {
 	if (!f.cfirst.value.trim())
@@ -45,233 +33,337 @@ function checkDemo(f)
 	
 	return false;
 }
+
+function showLang()
+{
+	document.getElementById('lngDiv').style.display = 'block';
+	justOn = true;
+}
+function hideLang()
+{
+	justOn ? justOn = false : document.getElementById('lngDiv').style.display = 'none';
+}
+
+function showLogin(from_table)
+{
+	var d = document.getElementById('loginDiv');
+	if (d) {
+		if(d.style.display == 'block' && from_table){
+			hideLogin();
+		}else{	
+			d.style.display = 'block';
+			logOn = true;
+		}
+		
+	}
+}
+
+function hideLogin()
+{
+	var d = document.getElementById('loginDiv');
+	if (d)
+		logOn ? logOn = false : d.style.display = 'none';
+}
 </script>
+<style type="text/css">
+.lngd {position:relative; display:block; padding:0px 6px 0px 10px; background:url(/images/top/lang_bg.png); cursor:pointer; direction:ltr; height:24px}
+.lngd a {color:white; font-weight:bold; display:block; }
+.lngd a:hover {color: #C2F253}
+.lngd_flag{margin-top:2px;}
+#loginDiv {position:absolute; width:302px; display:none; margin-top:22px; margin-left:-3px}
+#loginDiv B {color:white}
+#loginDiv INPUT {width:150px; border:1px solid #CCC;}
+#loginDiv TD.regg {padding:2px 10px;}
+</style>
 <link rel="icon" href="favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 </head>
+<body dir="ltr" background="/images/bg.jpg" style="background-repeat:no-repeat;background-position:center top;" bgcolor="#EEEEEE" onclick="hideLang(); hideLogin();">
+<table cellpadding="0" cellspacing="0" width="100%" height="100%" border="0" align="center">
+	<tbody><tr>
+		<td valign="top">
+			<table cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr height="100">
+					<td align="center" valign="top">						
+						<table cellpadding="0" cellspacing="0" width="980" border="0" dir="ltr">
+							<tbody><tr>
+								<td width="238"><a href="http://www.netotrade.com/"><img style="margin-top:10px;" src="/images/logo2.png" width="238" height="80" border="0" alt=""></a></td>
+								<td valign="top" align="right">
+									<table cellpadding="0" cellspacing="0">
+										<tbody><tr>
+											<td>
+												<table cellpadding="0" cellspacing="0" dir="ltr">
+													<tbody><tr><td width="4"><img src="/images/top/lang_left.png" width="4" height="26" border="0" alt=""></td>
+													<td background="/images/top/lang_bg.png">
+														<div id="loginDiv" onclick="showLogin()">
+															<form style="margin:0px" method="POST" id="topLForm" action="/cust_login.php">
+															<input type="hidden" name="act" value="login">
+																<table cellpadding="2" cellspacing="0" border="0" style="background-color:#333" width="100%" dir="ltr">
+																	<tbody><tr>
+																		<td class="regg"><b>Username :</b></td>
+																		<td class="regg" align="right"><input type="text" name="levusr" value=""></td>
+																	</tr>
+																	<tr>
+																		<td class="regg"><b>Password :</b></td>
+																		<td class="regg" align="right"><input type="password" name="levpwd" value=""></td>
+																	</tr>
+																	<tr>
+																		<td>&nbsp;</td>
+																		<td class="regg" align="right">
+															
+															<table cellpadding="0" cellspacing="0" onclick="document.getElementById('topLForm').submit()" style="cursor:pointer">												
+																<tbody><tr><td width="4"><img src="images/top/left.png" width="4" height="25" border="0" alt=""></td>
+																<td background="/images/top/bg.png" style="padding:0px 10px"><b>Log In</b></td>																		
+																<td width="24" background="/images/top/bg.png" align="center"><img src="images/top/ar_left.png" width="9" height="12" border="0" alt=""></td>		
+																<td width="4"><img src="/images/top/right.png" width="4" height="25" border="0" alt=""></td>
+															</tr></tbody></table>
 
-								
-<body dir="ltr" background="/images/bg.jpg" style="background-repeat:no-repeat;background-position:center top;" bgcolor="#EEEEEE">
-<table cellpadding="0" cellspacing="0" width="1000" height="100%" border="0" align="center">
-	<tbody><tr height="130">
-		<td dir="ltr" valign="top">
-			<table cellpadding="0" cellspacing="0" width="100%" border="0">
-				<tbody><tr>
-					<td><a href="http://www.netotrade.com/"><img style="margin-top:20px;" src="/images/logo.png" width="300" height="101" border="0" alt=""></a></td>
-					<td style="padding-top:50px;" valign="top" align="right">
-						<table cellpadding="0" cellspacing="0">
-							<tbody><tr><td><a style="color:#333333" href="http://webtrader.netotrade.com/" target="_blank">Log in</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a style="color:#333333" href="http://www.netotrade.com/neto+trade+risk+disclaimer.html">Risk Disclosure</a></td></tr><tr>
-								<td align="right" style="padding-top:5px">		
-									<div style="float:right">
-																			<div style="margin-left:10px; float:left"><a href="http://www.netotrade.com/"><img src="/images/flags/2B.png" width="26" height="20" border="0" alt=""></a></div>
-																				<div style="margin-left:10px; float:left"><a href="http://www.netotrade.com/arb/"><img src="/images/flags/3A.png" width="26" height="20" border="0" alt=""></a></div>
-																			</div>
+															
+																		</td>
+																	</tr>
+																</tbody></table>
+															</form>
+														</div>
+														<table cellpadding="0" cellspacing="0" dir="ltr" style="cursor:pointer" onclick="showLogin(2)">
+															<tbody><tr>
+																<td width="10"></td>
+																<td width="250" style="color:white;"><b>Member Login</b></td>
+																<td width="3"><img src="/images/top/spt.png" width="1" height="19" border="0" alt=""></td>																
+																<td width="33" align="center"><img src="/images/top/ar_down.png" width="10" height="9" border="0" alt=""></td>
+															</tr>
+														</tbody></table>
+													</td>
+													<td width="4"><img src="/images/top/lang_right.png" width="4" height="26" border="0" alt=""></td>
+												</tr></tbody></table>
+											</td>
+											<td width="20"></td>
+											<td align="right" valign="top">
+												<table cellpadding="0" cellspacing="0" dir="ltr">
+													<tbody><tr><td width="4"><img src="/images/top/lang_left.png" width="4" height="26" border="0" alt=""></td>
+													<td background="/images/top/lang_bg.png">
+														<div style="position:absolute; width:142px; display:none; padding-top:22px; margin-left:-3px" id="lngDiv">
+<div class="lngd"><a href="/arb/"><div style="float:right"><img class="lngd_flag" src="/images/flags/3A.png" width="26" height="20" border="0" alt=""></div>العربية</a></div><div class="lngd"><a href="/fra/"><div style="float:right"><img class="lngd_flag" src="/images/flags/4A.png" width="26" height="20" border="0" alt=""></div>Français</a></div>														</div>
+														<table cellpadding="0" cellspacing="0" dir="ltr" style="cursor:pointer" onclick="showLang()">
+															<tbody><tr>
+																<td width="10"></td>
+																<td width="90" style="color:white;"><b>English</b></td>
+																<td width="3"><img src="/images/top/spt.png" width="1" height="19" border="0" alt=""></td>																
+																<td width="33" align="center"><img src="/images/top/ar_down.png" width="10" height="9" border="0" alt=""></td>
+															</tr>
+														</tbody></table>
+													</td>
+													<td width="4"><img src="/images/top/lang_right.png" width="4" height="26" border="0" alt=""></td>
+												</tr></tbody></table>
+											</td>
+										</tr>
+										<tr>
+											<td valign="top" style="padding-top:25px" colspan="3">
+												<table cellpadding="0" cellspacing="0">
+													<tbody><tr>
+														<td>
+															<table cellpadding="0" cellspacing="0">
+																<tbody><tr><td width="4"><img src="images/top/left.png" width="4" height="25" border="0" alt=""></td>
+																<td background="/images/top/bg.png">
+																	<table cellpadding="0" cellspacing="0" dir="ltr" style="cursor:pointer;" onclick="window.open(&quot;http://webtrader.netotrade.com&quot;,&quot;webtrader&quot;,&quot;toolbar=no,location=no,directories=no,status=0,menubar=no,scrollbars=1,resizable=1,copyhistory=no&quot;)">
+																		<tbody><tr>
+																			<td width="10"></td>
+																			<td width="100" style="color:white; font-size:12px"><b>Web Login</b></td>																				
+																			<td width="24" align="center"><img src="images/top/ar_left.png" width="9" height="12" border="0" alt=""></td>
+																		</tr>
+																	</tbody></table>
+																</td>
+																<td width="4"><img src="/images/top/right.png" width="4" height="25" border="0" alt=""></td>
+															</tr></tbody></table>
+														</td>
+														<td width="20"></td>
+														<td>
+															<table cellpadding="0" cellspacing="0">												
+																<tbody><tr><td width="4"><img src="images/top/left.png" width="4" height="25" border="0" alt=""></td>
+																<td background="/images/top/bg.png">
+																	<table cellpadding="0" cellspacing="0" dir="ltr" style="cursor:pointer" onclick="window.location='http://mobile.netotrade.com/'">
+																		<tbody><tr>
+																			<td width="10"></td>
+																			<td width="100" style="color:white; font-size:12px"><b>Mobile Login</b></td>																				
+																			<td width="24" align="center"><img src="images/top/ar_left.png" width="9" height="12" border="0" alt=""></td>
+																		</tr>
+																	</tbody></table>
+																</td>
+																<td width="4"><img src="/images/top/right.png" width="4" height="25" border="0" alt=""></td>
+															</tr></tbody></table>
+														</td>
+														<td width="20"></td>
+														<td>
+															<table cellpadding="0" cellspacing="0">												
+																<tbody><tr><td width="4"><img src="images/top/left.png" width="4" height="25" border="0" alt=""></td>
+																<td background="/images/top/bg.png">
+																	<table cellpadding="0" cellspacing="0" dir="ltr" style="cursor:pointer;" onclick="window.location='/contact_us.php'">
+																		<tbody><tr>
+																			<td width="10"></td>
+																			<td width="100" style="color:white; font-size:12px"><b>Contact Us</b></td>																				
+																			<td width="24" align="center"><img src="images/top/ar_left.png" width="9" height="12" border="0" alt=""></td>
+																		</tr>
+																	</tbody></table>
+																</td>
+																<td width="4"><img src="/images/top/right.png" width="4" height="25" border="0" alt=""></td>
+															</tr></tbody></table>
+														</td>
+													</tr>
+												</tbody></table>	
+											</td>
+										</tr>										
+									</tbody></table>
 								</td>
 							</tr>
 						</tbody></table>
 					</td>
 				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr height="44">
-		<td align="right" valign="top"><div style="width:1000px;"><div style="background-image:url(/images/top/mn_bg.png);"><div class="tMenu_rgt"><div class="tMenu_lft">
-<table cellpadding="0" cellspacing="0" height="44" width="970" border="0" dir="ltr" align="center">
+				<tr><td align="center"><div style="width:986px;"><table cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td width="6"><img src="/images/menu/left.png" width="6" height="50" border="0" alt=""></td>
+<td valign="top" background="/images/menu/bg.png" style="padding-top:2px">
+<table cellpadding="0" cellspacing="0" height="44" width="100%">
 	<tbody><tr>
 		
 		<td width="136" align="left" height="100%" id="top_TD0">
 			<div align="center" style="padding:0px 4px 0px 4px;line-height:12px"><b><a class="top_menu" href="http://www.netotrade.com/about+us.html" onmouseover="menu_71.style.display=&quot;block&quot;;" onmouseout="menu_71.style.display=&quot;none&quot;;">About Us</a></b></div>
-			<div style="position:absolute; z-index:100;padding-top:0px; width:150px" onmouseover="menu_71.style.display=&quot;block&quot;;" onmouseout="menu_71.style.display=&quot;none&quot;;">
+			<div style="position:absolute; z-index:200;padding-top:0px; width:150px" onmouseover="menu_71.style.display=&quot;block&quot;;" onmouseout="menu_71.style.display=&quot;none&quot;;">
 			<table cellpadding="0" cellspacing="0" width="150" id="menu_71" style="display:none">
 				<tbody><tr><td height="11"></td></tr>
-				<tr height="18"><td class="drop_td" id="drop0_0"><div class="drop_bull"></div><b><a href="http://www.netotrade.com/about+us.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop0_0').className='drop_td_over'" onmouseout="document.getElementById('drop0_0').className='drop_td'" class="drop_down">About Us</a></b></td></tr>
-				<tr height="18"><td class="drop_td" id="drop1_0"><div class="drop_bull"></div><b><a href="http://www.netotrade.com/commitment+towards+clients.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop1_0').className='drop_td_over'" onmouseout="document.getElementById('drop1_0').className='drop_td'" class="drop_down">Why Trade Wth Us</a></b></td></tr>
-				<tr height="18"><td class="drop_td" id="drop2_0"><div class="drop_bull"></div><b><a href="http://www.netotrade.com/conflict+of+interest.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop2_0').className='drop_td_over'" onmouseout="document.getElementById('drop2_0').className='drop_td'" class="drop_down">Conflict of interest</a></b></td></tr>
-				<tr height="18"><td class="drop_td" id="drop3_0"><div class="drop_bull"></div><b><a href="http://www.netotrade.com/netotrade+systems.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop3_0').className='drop_td_over'" onmouseout="document.getElementById('drop3_0').className='drop_td'" class="drop_down">NetoTrade Systems</a></b></td></tr>
-				<tr height="18"><td class="drop_td" id="drop4_0"><div class="drop_bull"></div><b><a href="http://www.netotrade.com/our+technology.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop4_0').className='drop_td_over'" onmouseout="document.getElementById('drop4_0').className='drop_td'" class="drop_down">Our Technology</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop0_0"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/about+us.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop0_0').className='drop_td_over'" onmouseout="document.getElementById('drop0_0').className='drop_td'" class="drop_down">About Us</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop1_0"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/why+trade+with+neto+trade.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop1_0').className='drop_td_over'" onmouseout="document.getElementById('drop1_0').className='drop_td'" class="drop_down">Why Trade With Us</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop2_0"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/commitment+towards+clients.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop2_0').className='drop_td_over'" onmouseout="document.getElementById('drop2_0').className='drop_td'" class="drop_down">Our Commitment</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop3_0"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/netotrade+systems.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop3_0').className='drop_td_over'" onmouseout="document.getElementById('drop3_0').className='drop_td'" class="drop_down">NetoTrade Systems</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop4_0"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/our+technology.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop4_0').className='drop_td_over'" onmouseout="document.getElementById('drop4_0').className='drop_td'" class="drop_down">Our Technology</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop5_0"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/security+of+funds.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop5_0').className='drop_td_over'" onmouseout="document.getElementById('drop5_0').className='drop_td'" class="drop_down">Security of funds</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop6_0"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/testimonials.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop6_0').className='drop_td_over'" onmouseout="document.getElementById('drop6_0').className='drop_td'" class="drop_down">Testimonials</a></b></td></tr>
 			</tbody></table>
 			</div>
 		</td>
-<td width="3" style="padding-top:2px" valign="top"><img src="/images/top/spt.png" width="3" height="37" border="0" alt=""></td>		<td width="136" align="left" height="100%" id="top_TD1">
-			<div align="center" style="padding:0px 4px 0px 4px;line-height:12px"><b><a class="top_menu" href="http://www.netotrade.com/accounts+type.html" onmouseover="menu_86.style.display=&quot;block&quot;;" onmouseout="menu_86.style.display=&quot;none&quot;;">Accounts</a></b></div>
-			<div style="position:absolute; z-index:100;padding-top:0px; width:150px" onmouseover="menu_86.style.display=&quot;block&quot;;" onmouseout="menu_86.style.display=&quot;none&quot;;">
+<td width="3" valign="top"><img src="/images/menu/spt.png" width="3" height="44" border="0" alt=""></td>		<td width="136" align="left" height="100%" id="top_TD1">
+			<div align="center" style="padding:0px 4px 0px 4px;line-height:12px"><b><a class="top_menu" href="http://www.netotrade.com/trading+style.html" onmouseover="menu_86.style.display=&quot;block&quot;;" onmouseout="menu_86.style.display=&quot;none&quot;;">Accounts</a></b></div>
+			<div style="position:absolute; z-index:200;padding-top:0px; width:150px" onmouseover="menu_86.style.display=&quot;block&quot;;" onmouseout="menu_86.style.display=&quot;none&quot;;">
 			<table cellpadding="0" cellspacing="0" width="150" id="menu_86" style="display:none">
 				<tbody><tr><td height="11"></td></tr>
-				<tr height="18"><td class="drop_td" id="drop0_1"><div class="drop_bull"></div><b><a href="http://www.netotrade.com/accounts+type.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop0_1').className='drop_td_over'" onmouseout="document.getElementById('drop0_1').className='drop_td'" class="drop_down">Accounts Type</a></b></td></tr>
-				<tr height="18"><td class="drop_td" id="drop1_1"><div class="drop_bull"></div><b><a href="http://www.netotrade.com/trading+conditions.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop1_1').className='drop_td_over'" onmouseout="document.getElementById('drop1_1').className='drop_td'" class="drop_down">Forex Trading Conditions</a></b></td></tr>
-				<tr height="18"><td class="drop_td" id="drop2_1"><div class="drop_bull"></div><b><a href="http://www.netotrade.com/trading+conditions+cfd.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop2_1').className='drop_td_over'" onmouseout="document.getElementById('drop2_1').className='drop_td'" class="drop_down">CFD Trading Conditions</a></b></td></tr>
-				<tr height="18"><td class="drop_td" id="drop3_1"><div class="drop_bull"></div><b><a href="http://www.netotrade.com/createLive.php" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop3_1').className='drop_td_over'" onmouseout="document.getElementById('drop3_1').className='drop_td'" class="drop_down">Open Live Account</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop0_1"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/trading+style.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop0_1').className='drop_td_over'" onmouseout="document.getElementById('drop0_1').className='drop_td'" class="drop_down">Trading Style</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop1_1"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/accounts+type.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop1_1').className='drop_td_over'" onmouseout="document.getElementById('drop1_1').className='drop_td'" class="drop_down">Accounts Type</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop2_1"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/mini+account.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop2_1').className='drop_td_over'" onmouseout="document.getElementById('drop2_1').className='drop_td'" class="drop_down">Mini Account</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop3_1"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/gold+account.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop3_1').className='drop_td_over'" onmouseout="document.getElementById('drop3_1').className='drop_td'" class="drop_down">Gold Account</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop4_1"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/platinum+account.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop4_1').className='drop_td_over'" onmouseout="document.getElementById('drop4_1').className='drop_td'" class="drop_down">Platinum Account</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop5_1"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/ecn+account.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop5_1').className='drop_td_over'" onmouseout="document.getElementById('drop5_1').className='drop_td'" class="drop_down">ECN Account</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop6_1"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/swaps.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop6_1').className='drop_td_over'" onmouseout="document.getElementById('drop6_1').className='drop_td'" class="drop_down">Swaps</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop7_1"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/createGold.php" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop7_1').className='drop_td_over'" onmouseout="document.getElementById('drop7_1').className='drop_td'" class="drop_down">Open Live Account</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop8_1"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/createDemo.php" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop8_1').className='drop_td_over'" onmouseout="document.getElementById('drop8_1').className='drop_td'" class="drop_down">Open Demo Account</a></b></td></tr>
 			</tbody></table>
 			</div>
 		</td>
-<td width="3" style="padding-top:2px" valign="top"><img src="/images/top/spt.png" width="3" height="37" border="0" alt=""></td>		<td width="136" align="left" height="100%" id="top_TD2">
+<td width="3" valign="top"><img src="/images/menu/spt.png" width="3" height="44" border="0" alt=""></td>		<td width="136" align="left" height="100%" id="top_TD2">
 			<div align="center" style="padding:0px 4px 0px 4px;line-height:12px"><b><a class="top_menu" href="#" onmouseover="menu_73.style.display=&quot;block&quot;;" onmouseout="menu_73.style.display=&quot;none&quot;;">Platforms</a></b></div>
-			<div style="position:absolute; z-index:100;padding-top:0px; width:150px" onmouseover="menu_73.style.display=&quot;block&quot;;" onmouseout="menu_73.style.display=&quot;none&quot;;">
+			<div style="position:absolute; z-index:200;padding-top:0px; width:150px" onmouseover="menu_73.style.display=&quot;block&quot;;" onmouseout="menu_73.style.display=&quot;none&quot;;">
 			<table cellpadding="0" cellspacing="0" width="150" id="menu_73" style="display:none">
 				<tbody><tr><td height="11"></td></tr>
-				<tr height="18"><td class="drop_td" id="drop0_2"><div class="drop_bull"></div><b><a href="http://www.netotrade.com/mt4.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop0_2').className='drop_td_over'" onmouseout="document.getElementById('drop0_2').className='drop_td'" class="drop_down">Meta Trader 4</a></b></td></tr>
-				<tr height="18"><td class="drop_td" id="drop1_2"><div class="drop_bull"></div><b><a href="http://www.netotrade.com/netotrade+web.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop1_2').className='drop_td_over'" onmouseout="document.getElementById('drop1_2').className='drop_td'" class="drop_down">NetoTrade  Web</a></b></td></tr>
-				<tr height="18"><td class="drop_td" id="drop2_2"><div class="drop_bull"></div><b><a href="http://www.netotrade.com/netotrade+mobile.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop2_2').className='drop_td_over'" onmouseout="document.getElementById('drop2_2').className='drop_td'" class="drop_down">NetoTrade Mobile</a></b></td></tr>
-				<tr height="18"><td class="drop_td" id="drop3_2"><div class="drop_bull"></div><b><a href="http://www.netotrade.com/ceos+platform.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop3_2').className='drop_td_over'" onmouseout="document.getElementById('drop3_2').className='drop_td'" class="drop_down">NetoTrade Manager</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop0_2"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/mt4.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop0_2').className='drop_td_over'" onmouseout="document.getElementById('drop0_2').className='drop_td'" class="drop_down">Meta Trader 4</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop1_2"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/netotrade+web.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop1_2').className='drop_td_over'" onmouseout="document.getElementById('drop1_2').className='drop_td'" class="drop_down">NetoTrade  Web</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop2_2"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/netotrade+mobile.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop2_2').className='drop_td_over'" onmouseout="document.getElementById('drop2_2').className='drop_td'" class="drop_down">NetoTrade Mobile</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop3_2"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/ceos+platform.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop3_2').className='drop_td_over'" onmouseout="document.getElementById('drop3_2').className='drop_td'" class="drop_down">CEOs' Platform</a></b></td></tr>
 			</tbody></table>
 			</div>
 		</td>
-<td width="3" style="padding-top:2px" valign="top"><img src="/images/top/spt.png" width="3" height="37" border="0" alt=""></td>		<td width="136" align="left" height="100%" id="top_TD3">
-			<div align="center" style="padding:0px 4px 0px 4px;line-height:12px"><b><a class="top_menu" href="http://www.netotrade.com/funds.html" onmouseover="menu_74.style.display=&quot;block&quot;;" onmouseout="menu_74.style.display=&quot;none&quot;;">Funds</a></b></div>
-			<div style="position:absolute; z-index:100;padding-top:0px; width:150px" onmouseover="menu_74.style.display=&quot;block&quot;;" onmouseout="menu_74.style.display=&quot;none&quot;;">
+<td width="3" valign="top"><img src="/images/menu/spt.png" width="3" height="44" border="0" alt=""></td>		<td width="136" align="left" height="100%" id="top_TD3">
+			<div align="center" style="padding:0px 4px 0px 4px;line-height:12px"><b><a class="top_menu" href="#" onmouseover="menu_74.style.display=&quot;block&quot;;" onmouseout="menu_74.style.display=&quot;none&quot;;">Funds</a></b></div>
+			<div style="position:absolute; z-index:200;padding-top:0px; width:150px" onmouseover="menu_74.style.display=&quot;block&quot;;" onmouseout="menu_74.style.display=&quot;none&quot;;">
 			<table cellpadding="0" cellspacing="0" width="150" id="menu_74" style="display:none">
 				<tbody><tr><td height="11"></td></tr>
-				<tr height="18"><td class="drop_td" id="drop0_3"><div class="drop_bull"></div><b><a href="#" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop0_3').className='drop_td_over'" onmouseout="document.getElementById('drop0_3').className='drop_td'" class="drop_down">Credit Card</a></b></td></tr>
-				<tr height="18"><td class="drop_td" id="drop1_3"><div class="drop_bull"></div><b><a href="http://www.netotrade.co.il/Editor/assets/widthraw en.pdf" target="_blank" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop1_3').className='drop_td_over'" onmouseout="document.getElementById('drop1_3').className='drop_td'" class="drop_down">Withdrawal</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop0_3"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/funds.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop0_3').className='drop_td_over'" onmouseout="document.getElementById('drop0_3').className='drop_td'" class="drop_down">Deposit</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop1_3"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.co.il/Editor/assets/widthraw en.pdf" target="_blank" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop1_3').className='drop_td_over'" onmouseout="document.getElementById('drop1_3').className='drop_td'" class="drop_down">Withdrawal</a></b></td></tr>
 			</tbody></table>
 			</div>
 		</td>
-<td width="3" style="padding-top:2px" valign="top"><img src="/images/top/spt.png" width="3" height="37" border="0" alt=""></td>		<td width="136" align="left" height="100%" id="top_TD4">
-			<div align="center" style="padding:0px 4px 0px 4px;line-height:12px"><b><a class="top_menu" href="#" onmouseover="menu_72.style.display=&quot;block&quot;;" onmouseout="menu_72.style.display=&quot;none&quot;;">Tools</a></b></div>
-			<div style="position:absolute; z-index:100;padding-top:0px; width:150px" onmouseover="menu_72.style.display=&quot;block&quot;;" onmouseout="menu_72.style.display=&quot;none&quot;;">
+<td width="3" valign="top"><img src="/images/menu/spt.png" width="3" height="44" border="0" alt=""></td>		<td width="136" align="left" height="100%" id="top_TD4">
+			<div align="center" style="padding:0px 4px 0px 4px;line-height:12px"><b><a class="top_menu" href="#" onmouseover="menu_72.style.display=&quot;block&quot;;" onmouseout="menu_72.style.display=&quot;none&quot;;">Education</a></b></div>
+			<div style="position:absolute; z-index:200;padding-top:0px; width:150px" onmouseover="menu_72.style.display=&quot;block&quot;;" onmouseout="menu_72.style.display=&quot;none&quot;;">
 			<table cellpadding="0" cellspacing="0" width="150" id="menu_72" style="display:none">
 				<tbody><tr><td height="11"></td></tr>
-				<tr height="18"><td class="drop_td" id="drop0_4"><div class="drop_bull"></div><b><a href="http://www.netotrade.com/forex.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop0_4').className='drop_td_over'" onmouseout="document.getElementById('drop0_4').className='drop_td'" class="drop_down">Forex</a></b></td></tr>
-				<tr height="18"><td class="drop_td" id="drop1_4"><div class="drop_bull"></div><b><a href="http://www.netotrade.com/cfds.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop1_4').className='drop_td_over'" onmouseout="document.getElementById('drop1_4').className='drop_td'" class="drop_down">CFD'S</a></b></td></tr>
-				<tr height="18"><td class="drop_td" id="drop2_4"><div class="drop_bull"></div><b><a href="http://www.netotrade.com/orderstypes.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop2_4').className='drop_td_over'" onmouseout="document.getElementById('drop2_4').className='drop_td'" class="drop_down">OrdersTypes</a></b></td></tr>
-				<tr height="18"><td class="drop_td" id="drop3_4"><div class="drop_bull"></div><b><a href="http://www.netotrade.com/WeeklyForecast.php" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop3_4').className='drop_td_over'" onmouseout="document.getElementById('drop3_4').className='drop_td'" class="drop_down">Weekly Market Review</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop0_4"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/forex.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop0_4').className='drop_td_over'" onmouseout="document.getElementById('drop0_4').className='drop_td'" class="drop_down">What is Forex</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop1_4"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/cfds.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop1_4').className='drop_td_over'" onmouseout="document.getElementById('drop1_4').className='drop_td'" class="drop_down">CFD'S</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop2_4"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/orderstypes.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop2_4').className='drop_td_over'" onmouseout="document.getElementById('drop2_4').className='drop_td'" class="drop_down">OrdersTypes</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop3_4"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/forex+trading+hours.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop3_4').className='drop_td_over'" onmouseout="document.getElementById('drop3_4').className='drop_td'" class="drop_down">Forex trading hours</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop4_4"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/margin.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop4_4').className='drop_td_over'" onmouseout="document.getElementById('drop4_4').className='drop_td'" class="drop_down">Margin and Leverage</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop5_4"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/world+interest+rates.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop5_4').className='drop_td_over'" onmouseout="document.getElementById('drop5_4').className='drop_td'" class="drop_down">Interest Rates</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop6_4"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/commodities+trading.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop6_4').className='drop_td_over'" onmouseout="document.getElementById('drop6_4').className='drop_td'" class="drop_down">Commodities Trading</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop7_4"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/frequent+questions.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop7_4').className='drop_td_over'" onmouseout="document.getElementById('drop7_4').className='drop_td'" class="drop_down">Frequent Questions</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop8_4"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/tutorials1.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop8_4').className='drop_td_over'" onmouseout="document.getElementById('drop8_4').className='drop_td'" class="drop_down">Tutorials</a></b></td></tr>
 			</tbody></table>
 			</div>
 		</td>
-<td width="3" style="padding-top:2px" valign="top"><img src="/images/top/spt.png" width="3" height="37" border="0" alt=""></td>		<td width="136" align="left" height="100%" id="top_TD5">
+<td width="3" valign="top"><img src="/images/menu/spt.png" width="3" height="44" border="0" alt=""></td>		<td width="136" align="left" height="100%" id="top_TD5">
+			<div align="center" style="padding:0px 4px 0px 4px;line-height:12px"><b><a class="top_menu" href="#" onmouseover="menu_311.style.display=&quot;block&quot;;" onmouseout="menu_311.style.display=&quot;none&quot;;">Tools</a></b></div>
+			<div style="position:absolute; z-index:200;padding-top:0px; width:150px" onmouseover="menu_311.style.display=&quot;block&quot;;" onmouseout="menu_311.style.display=&quot;none&quot;;">
+			<table cellpadding="0" cellspacing="0" width="150" id="menu_311" style="display:none">
+				<tbody><tr><td height="11"></td></tr>
+				<tr height="18"><td class="drop_td" id="drop0_5"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/WeeklyForecast.php" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop0_5').className='drop_td_over'" onmouseout="document.getElementById('drop0_5').className='drop_td'" class="drop_down">Weekly Market Review</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop1_5"><div class="drop_bull" style="float:left"></div><b><a href="http://netotrade.com/intraday.php" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop1_5').className='drop_td_over'" onmouseout="document.getElementById('drop1_5').className='drop_td'" class="drop_down">Technical Analysis</a></b></td></tr>
+			</tbody></table>
+			</div>
+		</td>
+<td width="3" valign="top"><img src="/images/menu/spt.png" width="3" height="44" border="0" alt=""></td>		<td width="136" align="left" height="100%" id="top_TD6">
 			<div align="center" style="padding:0px 4px 0px 4px;line-height:12px"><b><a class="top_menu" href="http://www.netotrade.com/partners.html" onmouseover="menu_112.style.display=&quot;block&quot;;" onmouseout="menu_112.style.display=&quot;none&quot;;">Partners</a></b></div>
-			<div style="position:absolute; z-index:100;padding-top:0px; width:150px" onmouseover="menu_112.style.display=&quot;block&quot;;" onmouseout="menu_112.style.display=&quot;none&quot;;">
+			<div style="position:absolute; z-index:200;padding-top:0px; width:150px" onmouseover="menu_112.style.display=&quot;block&quot;;" onmouseout="menu_112.style.display=&quot;none&quot;;">
 			<table cellpadding="0" cellspacing="0" width="150" id="menu_112" style="display:none">
 				<tbody><tr><td height="11"></td></tr>
-				<tr height="18"><td class="drop_td" id="drop0_5"><div class="drop_bull"></div><b><a href="http://www.netotrade.com/ib+program.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop0_5').className='drop_td_over'" onmouseout="document.getElementById('drop0_5').className='drop_td'" class="drop_down">IB program</a></b></td></tr>
-				<tr height="18"><td class="drop_td" id="drop1_5"><div class="drop_bull"></div><b><a href="http://www.netotrade.com/white+label.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop1_5').className='drop_td_over'" onmouseout="document.getElementById('drop1_5').className='drop_td'" class="drop_down">White Label</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop0_6"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/ib+program.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop0_6').className='drop_td_over'" onmouseout="document.getElementById('drop0_6').className='drop_td'" class="drop_down">IB program</a></b></td></tr>
+				<tr height="18"><td class="drop_td" id="drop1_6"><div class="drop_bull" style="float:left"></div><b><a href="http://www.netotrade.com/white+label.html" style="cursor:pointer;display:block" onmouseover="document.getElementById('drop1_6').className='drop_td_over'" onmouseout="document.getElementById('drop1_6').className='drop_td'" class="drop_down">White Label</a></b></td></tr>
 			</tbody></table>
 			</div>
-		</td>
-<td width="3" style="padding-top:2px" valign="top"><img src="/images/top/spt.png" width="3" height="37" border="0" alt=""></td>		<td width="136" align="left" height="100%" id="top_TD6">
-			<div align="center" style="padding:0px 4px 0px 4px;line-height:12px"><b><a class="top_menu" href="http://www.netotrade.com/contact+us.html">Contact Us</a></b></div>
 		</td>
 	
 	</tr>
 </tbody></table>
-</div></div></div>
-<div></div></div></td>
-	</tr>
-	
-		<tr height="15">
-		<td></td>
-	</tr>
-		<tr>
-		<td valign="top">
-		
-			<table cellpadding="0" cellspacing="0" width="100%" dir="rtl">
-	<tbody><tr height="14"><td class="main_box_c2"></td><td class="main_box_top"></td><td class="main_box_c1"></td></tr>
-	<tr><td class="main_box_rgt"></td><td class="main_box_cnt" dir="ltr">
-
-	
-			<table cellpadding="0" cellspacing="0" width="100%" border="0" height="100%">
-				<tbody><tr>
-					<td width="210" valign="top">
-						<table cellpadding="0" cellspacing="0" width="100%" border="0" align="center">
-							<tbody><tr><td valign="top"><div class="sMenu_box_lft">
-<div class="sMenu_box_rgt">
-<div class="sMenu_box_top">
-<div class="sMenu_box_btm">
-<div class="sMenu_box_c1">
-<div class="sMenu_box_c2">
-<div class="sMenu_box_c3">
-<div class="sMenu_box_c4">
-<table cellpadding="0" cellspacing="0" width="100%" height="100%" border="0"><tbody><tr><td class="sMenu_box_cnt">
-<script type="text/javascript">
-function showMenuDiv(id)
-{
-	var obj = document.getElementById('mnDiv_'+id);
-	if (obj)
-		obj.className = (obj.className.substr(obj.className.className.length - 1,1) == 'c') ? "sideMenuDiv_o" : "sideMenuDiv_c";
-}
-</script>
-<table cellpadding="0" cellspacing="0" width="100%" height="100%">
-	<tbody><tr height="2"><td></td></tr>
-	 
-	<tr>
-		<td>
-			<div class="category_div">
-			<table cellpadding="0" cellspacing="0" class="side_menuTD" border="0"><tbody><tr><td width="20" class="LinkRight_ltr"></td><td class="LinkBg_ltr" align="right"><b><a class="regular" style="cursor:pointer" onclick="window.open(&quot;http://webtrader.netotrade.com&quot;,&quot;new&quot;,&quot;toolbar=no,location=no,directories=no,status=0,menubar=no,scrollbars=1,resizable=1,copyhistory=no&quot;)">NetoTrade - Web</a></b></td><td width="17" class="LinkLeft_ltr"></td></tr></tbody></table>
-			</div>
-		</td>
-	</tr>
-
-    
-	<tr height="6"><td></td></tr> 
-	<tr>
-		<td>
-			<div class="category_div">
-			<table cellpadding="0" cellspacing="0" class="side_menuTD" border="0"><tbody><tr><td width="20" class="LinkRight_ltr"></td><td class="LinkBg_ltr" align="right"><b><a class="regular" href="http://www.netotrade.com/createLive.php">Open Live Account</a></b></td><td width="17" class="LinkLeft_ltr"></td></tr></tbody></table>
-			</div>
-		</td>
-	</tr>
-
-    
-	<tr height="6"><td></td></tr> 
-	<tr>
-		<td>
-			<div class="category_div">
-			<table cellpadding="0" cellspacing="0" class="side_menuTD" border="0"><tbody><tr><td width="20" class="LinkRight_ltr"></td><td class="LinkBg_ltr" align="right"><b><a class="regular" href="http://www.netotrade.com/WeeklyForecast.php">Weekly  Review</a></b></td><td width="17" class="LinkLeft_ltr"></td></tr></tbody></table>
-			</div>
-		</td>
-	</tr>
-
-    
-	<tr height="6"><td></td></tr> 
-	<tr>
-		<td>
-			<div class="category_div">
-			<table cellpadding="0" cellspacing="0" class="side_menuTD" border="0"><tbody><tr><td width="20" class="LinkRight_ltr"></td><td class="LinkBg_ltr" align="right"><b><a class="regular" href="http://www.netotrade.com/forex.html">Forex</a></b></td><td width="17" class="LinkLeft_ltr"></td></tr></tbody></table>
-			</div>
-		</td>
-	</tr>
-
-    
-	<tr height="6"><td></td></tr> 
-	<tr>
-		<td>
-			<div class="category_div">
-			<table cellpadding="0" cellspacing="0" class="side_menuTD" border="0"><tbody><tr><td width="20" class="LinkRight_ltr"></td><td class="LinkBg_ltr" align="right"><b><a class="regular" href="#">Tutorials</a></b></td><td width="17" class="LinkLeft_ltr"></td></tr></tbody></table>
-			</div>
-		</td>
-	</tr>
-
-    
-	<tr height="6"><td></td></tr> 
-	<tr>
-		<td>
-			<div class="category_div">
-			<table cellpadding="0" cellspacing="0" class="side_menuTD" border="0"><tbody><tr><td width="20" class="LinkRight_ltr"></td><td class="LinkBg_ltr" align="right"><b><a class="regular" href="">Technical Analysis</a></b></td><td width="17" class="LinkLeft_ltr"></td></tr></tbody></table>
-			</div>
-		</td>
-	</tr>
-
-    
-	<tr height="4"><td></td></tr>
+</td>
+<td width="6"><img src="/images/menu/right.png" width="6" height="50" border="0" alt=""></td>
+</tr>
 </tbody></table>
-</td></tr></tbody></table></div></div></div></div></div></div></div></div>
-</td></tr>
-							<tr height="11"><td></td></tr>
-							<tr><td valign="top">
-								<table cellpadding="0" cellspacing="0" width="100%" height="200" border="0" background="/images/box2/btm_bg.png" style="background-repeat:repeat;background-position:bottom;">
-	<tbody><tr height="27">
-		<td valign="top" style="padding:5px 0px; padding-left:10px">
-			<table cellpadding="0" cellspacing="0" width="185" border="0">
-				<tbody><tr>
-					<td width="2" class="ttlRgt_ltr"></td><td class="ttlBg_ltr">Quick Contact</td><td width="25" class="ttlLeft_ltr" bgcolor="#e99e0d"></td>
-				</tr>
-			</tbody></table>
-		</td>
+<div></div></div></td></tr>
+			
+							<tr>
+					<td align="center" style="padding-top:10px">
+						<table cellpadding="0" cellspacing="0" width="1000" border="0" height="100%">
+							<tbody><tr>
+								<td width="250" valign="top">
+									<table cellpadding="0" cellspacing="0" width="100%" border="0" align="center">
+<!-- SELECT Categories_menu.*, MainPages.MainPageID as `PageID`, MainPages.ifShow as `page_show`, MainPages.prefix, seo_data.seo_url
+												FROM `Categories_menu` as `a` INNER JOIN `Categories_menu` ON (Categories_menu.Parent = IF(a.Parent, a.Parent, a.CategoryID))
+													LEFT JOIN `MainPages` ON (Categories_menu.MainPageID = MainPages.MainPageID) LEFT JOIN `seo_data` USING(`seoID`)  WHERE Categories_menu.ifShow = 1 AND Categories_menu.Parent > 0 AND Categories_menu.LangID = 2 AND (327 AND a.MainPageID = 327) GROUP BY Categories_menu.CategoryID
+												ORDER BY Categories_menu.ShowOrder -->										<tbody><tr>
+											<td>
+													<table cellpadding="0" cellspacing="0" class="Ibox1">
+		<tbody><tr><td class="Ibox3_top"></td></tr>
+		<tr><td class="Ibox3_btm">
+
+																									<table cellpadding="0" cellspacing="0" width="100%" style="cursor:pointer" onclick="location.href='createGold.php'">
+													<tbody><tr><td height="25" style="color:#FFFFFF; font-size:16px"><b>OPEN LIVE ACCOUNT</b></td></tr>
+													<tr><td valign="top" style="color:#FFFFFF; font-size:12px; line-height:15px"><p><strong>Get&nbsp;our WELCOME PACKAGE </strong></p></td></tr>
+												</tbody></table>
+																										</td>
 	</tr>
-	<tr>
-		<td valign="top" class="box2Text_ltr">
-	<!-- #e99e0d -->
-							<script>
+</tbody></table> 
+											</td>
+										</tr>
+																				<tr height="5"><td></td></tr>
+										<tr>
+											<td height="108" background="/images/livechat/right.png" valign="top" style="cursor:pointer" onclick="javascript:void(window.open('http://www.netotrade.com/livezilla/chat.php?code=U0VSVkVSUEFHRQ__','','width=590,height=610,left=0,top=0,resizable=yes,menubar=no,location=yes,status=yes,scrollbars=yes'))">
+												<table cellpadding="0" cellspacing="0" width="110" style="margin:15px 25px;">
+													<tbody><tr><td height="25" style="color:#666666; font-size:16px"><b>Live Chat</b></td></tr>
+													<tr><td valign="top" style="font-size:11px; line-height:15px">Chat with an expert</td></tr>
+												</tbody></table>
+											</td>
+										</tr>		
+										<tr height="5"><td></td></tr>
+										<tr><td valign="top">
+											<table cellpadding="0" cellspacing="0" class="Ibox1">
+		<tbody><tr><td class="Ibox2_top"></td></tr>
+		<tr><td class="Ibox2_btm">
+
+											<script type="text/javascript">
 function CheckEmail(src) {
      var emailReg = "^[\\w-_\.]*[\\w-_\.]\@[\\w]\.+[\\w]+[\\w]$";
      var regex = new RegExp(emailReg);
@@ -316,6 +408,9 @@ function selectField(obj)
 	el = obj;
 }
 </script>
+<div style="height:65px"><img src="images/pics/note_left.png" align="left" style="margin-right:5px" width="56" height="65" border="0" alt="">
+<b style="color:#76ab03; font-size:16px">Quick Contact</b><br>
+<b style="color:#333333; font-size:13px">Send your message</b></div>
 <form name="send_msg" id="send_msg" method="POST" onsubmit="return verify(this);">
 <input type="hidden" name="snd" value="1">
 <input type="hidden" name="join_topic" value="">
@@ -334,19 +429,26 @@ function selectField(obj)
 		<td class="Join1Field">Email :</td>
 		<td><input type="text" name="Email" value="" class="join_input" id="iemail" onclick="selectField(this)"></td>
 	</tr>
-	<!-- <TR>
-		<TD class="Join1Field">נושא : </TD>
-		<td><input type="text" name="Title" value="" class="join_input" id="Title" onclick='selectField(this)'></td>
-	</tr> -->
-	<tr height="1"><td></td></tr>
-	<tr><td colspan="2"><textarea name="Message" id="Message" style="width:183px; height:40px; border:1px #CCC solid"></textarea></td></tr>
+	<tr>		
+		<td class="Join1Field">Country :</td>
+		<td>
+			<select name="country" id="country" class="join_input"><option value="">- - - - - - - - -</option>
+<option value="AF">Afghanistan</option><option value="AX">Aland Islands</option><option value="AL">Albania</option><option value="DZ">Algeria</option><option value="AS">American Samoa</option><option value="AD">Andorra</option><option value="AO">Angola</option><option value="AI">Anguilla</option><option value="AQ">Antarctica</option><option value="AG">Antigua And Barbuda</option><option value="AR">Argentina</option><option value="AM">Armenia</option><option value="AW">Aruba</option><option value="AU">Australia</option><option value="AT">Austria</option><option value="AZ">Azerbaijan</option><option value="BS">Bahamas</option><option value="BH">Bahrain</option><option value="BD">Bangladesh</option><option value="BB">Barbados</option><option value="BY">Belarus</option><option value="BE">Belgium</option><option value="BZ">Belize</option><option value="BJ">Benin</option><option value="BM">Bermuda</option><option value="BT">Bhutan</option><option value="BO">Bolivia</option><option value="BA">Bosnia And Herzegovina</option><option value="BW">Botswana</option><option value="BV">Bouvet Island</option><option value="BR">Brazil</option><option value="IO">British Indian Ocean Territory</option><option value="BN">Brunei Darussalam</option><option value="BG">Bulgaria</option><option value="BF">Burkina Faso</option><option value="BI">Burundi</option><option value="KH">Cambodia</option><option value="CM">Cameroon</option><option value="CA">Canada</option><option value="CV">Cape Verde</option><option value="KY">Cayman Islands</option><option value="CF">Central African Republic</option><option value="TD">Chad</option><option value="CL">Chile</option><option value="CN">China</option><option value="CX">Christmas Island</option><option value="CC">Cocos (Keeling) Islands</option><option value="CO">Colombia</option><option value="KM">Comoros</option><option value="CG">Congo</option><option value="CD">Congo, The Democratic Republic Of The</option><option value="CK">Cook Islands</option><option value="CR">Costa Rica</option><option value="CI">Cote D'Ivoire</option><option value="HR">Croatia</option><option value="CU">Cuba</option><option value="CY">Cyprus</option><option value="CZ">Czech Republic</option><option value="DK">Denmark</option><option value="DJ">Djibouti</option><option value="DM">Dominica</option><option value="DO">Dominican Republic</option><option value="EC">Ecuador</option><option value="EG">Egypt</option><option value="SV">El Salvador</option><option value="GQ">Equatorial Guinea</option><option value="ER">Eritrea</option><option value="EE">Estonia</option><option value="ET">Ethiopia</option><option value="FK">Falkland Islands (Malvinas)</option><option value="FO">Faroe Islands</option><option value="FJ">Fiji</option><option value="FI">Finland</option><option value="FR">France</option><option value="GF">French Guiana</option><option value="PF">French Polynesia</option><option value="TF">French Southern Territories</option><option value="GA">Gabon</option><option value="GM">Gambia</option><option value="GE">Georgia</option><option value="DE">Germany</option><option value="GH">Ghana</option><option value="GI">Gibraltar</option><option value="GR">Greece</option><option value="GL">Greenland</option><option value="GD">Grenada</option><option value="GP">Guadeloupe</option><option value="GU">Guam</option><option value="GT">Guatemala</option><option value="GG">Guernsey</option><option value="GN">Guinea</option><option value="GW">Guinea-Bissau</option><option value="GY">Guyana</option><option value="HT">Haiti</option><option value="HM">Heard Island And Mcdonald Islands</option><option value="VA">Holy See (Vatican City State)</option><option value="HN">Honduras</option><option value="HK">Hong Kong</option><option value="HU">Hungary</option><option value="IS">Iceland</option><option value="IN">India</option><option value="ID">Indonesia</option><option value="IR">Iran, Islamic Republic Of</option><option value="IQ">Iraq</option><option value="IE">Ireland</option><option value="IM">Isle Of Man</option><option value="IL">Israel</option><option value="IT">Italy</option><option value="JM">Jamaica</option><option value="JP">Japan</option><option value="JE">Jersey</option><option value="JO">Jordan</option><option value="KZ">Kazakhstan</option><option value="KE">Kenya</option><option value="KI">Kiribati</option><option value="KP">Korea, Democratic People's Republic Of</option><option value="KR">Korea, Republic Of</option><option value="KW">Kuwait</option><option value="KG">Kyrgyzstan</option><option value="LA">Lao People's Democratic Republic</option><option value="LV">Latvia</option><option value="LB">Lebanon</option><option value="LS">Lesotho</option><option value="LR">Liberia</option><option value="LY">Libyan Arab Jamahiriya</option><option value="LI">Liechtenstein</option><option value="LT">Lithuania</option><option value="LU">Luxembourg</option><option value="MO">Macao</option><option value="MK">Macedonia, The Former Yugoslav Republic Of</option><option value="MG">Madagascar</option><option value="MW">Malawi</option><option value="MY">Malaysia</option><option value="MV">Maldives</option><option value="ML">Mali</option><option value="MT">Malta</option><option value="MH">Marshall Islands</option><option value="MQ">Martinique</option><option value="MR">Mauritania</option><option value="MU">Mauritius</option><option value="YT">Mayotte</option><option value="MX">Mexico</option><option value="FM">Micronesia, Federated States Of</option><option value="MD">Moldova, Republic Of</option><option value="MC">Monaco</option><option value="MN">Mongolia</option><option value="MS">Montserrat</option><option value="MA">Morocco</option><option value="MZ">Mozambique</option><option value="MM">Myanmar</option><option value="NA">Namibia</option><option value="NR">Nauru</option><option value="NP">Nepal</option><option value="NL">Netherlands</option><option value="AN">Netherlands Antilles</option><option value="NC">New Caledonia</option><option value="NZ">New Zealand</option><option value="NI">Nicaragua</option><option value="NE">Niger</option><option value="NG">Nigeria</option><option value="NU">Niue</option><option value="NF">Norfolk Island</option><option value="MP">Northern Mariana Islands</option><option value="NO">Norway</option><option value="OM">Oman</option><option value="PK">Pakistan</option><option value="PW">Palau</option><option value="PS">Palestinian Territory, Occupied</option><option value="PA">Panama</option><option value="PG">Papua New Guinea</option><option value="PY">Paraguay</option><option value="PE">Peru</option><option value="PH">Philippines</option><option value="PN">Pitcairn</option><option value="PL">Poland</option><option value="PT">Portugal</option><option value="PR">Puerto Rico</option><option value="QA">Qatar</option><option value="RE">Reunion</option><option value="RO">Romania</option><option value="RU">Russian Federation</option><option value="RW">Rwanda</option><option value="SH">Saint Helena</option><option value="KN">Saint Kitts And Nevis</option><option value="LC">Saint Lucia</option><option value="PM">Saint Pierre And Miquelon</option><option value="VC">Saint Vincent And The Grenadines</option><option value="WS">Samoa</option><option value="SM">San Marino</option><option value="ST">Sao Tome And Principe</option><option value="SA">Saudi Arabia</option><option value="SN">Senegal</option><option value="CS">Serbia And Montenegro</option><option value="SC">Seychelles</option><option value="SL">Sierra Leone</option><option value="SG">Singapore</option><option value="SK">Slovakia</option><option value="SI">Slovenia</option><option value="SB">Solomon Islands</option><option value="SO">Somalia</option><option value="ZA">South Africa</option><option value="GS">South Georgia And The South Sandwich Islands</option><option value="ES">Spain</option><option value="LK">Sri Lanka</option><option value="SD">Sudan</option><option value="SR">Suriname</option><option value="SJ">Svalbard And Jan Mayen</option><option value="SZ">Swaziland</option><option value="SE">Sweden</option><option value="CH">Switzerland</option><option value="SY">Syrian Arab Republic</option><option value="TW">Taiwan, Province Of China</option><option value="TJ">Tajikistan</option><option value="TZ">Tanzania, United Republic Of</option><option value="TH">Thailand</option><option value="TL">Timor-Leste</option><option value="TG">Togo</option><option value="TK">Tokelau</option><option value="TO">Tonga</option><option value="TT">Trinidad And Tobago</option><option value="TN">Tunisia</option><option value="TR">Turkey</option><option value="TM">Turkmenistan</option><option value="TC">Turks And Caicos Islands</option><option value="TV">Tuvalu</option><option value="UG">Uganda</option><option value="UA">Ukraine</option><option value="AE">United Arab Emirates</option><option value="GB">United Kingdom</option><option value="US">United States</option><option value="UM">United States Minor Outlying Islands</option><option value="UY">Uruguay</option><option value="UZ">Uzbekistan</option><option value="VU">Vanuatu</option><option value="VE">Venezuela</option><option value="VN">Viet Nam</option><option value="VG">Virgin Islands, British</option><option value="VI">Virgin Islands, U.S.</option><option value="WF">Wallis And Futuna</option><option value="EH">Western Sahara</option><option value="YE">Yemen</option><option value="ZM">Zambia</option><option value="ZW">Zimbabwe</option>			</select>
+		</td>	
+	</tr><tr height="1"><td></td></tr>
+	<tr><td colspan="2"><textarea name="Message" id="Message" style="width:200px; height:40px; background-image:url(/images/input/bg.png);background-repeat:no-repeat; border: 0px; overflow-y:auto"></textarea></td></tr>
 	
 	<tr>
 		<td></td>
-		<td align="left">
-			<table cellpadding="0" cellspacing="0" dir="rtl" width="75" border="0" onclick="document.getElementById('send_msg').submit()" style="cursor:pointer"><tbody><tr>
-			<td width="7" class="btnRgt"></td><td class="btnBg">Send</td><td width="7" class="btnLeft"></td>
-			</tr></tbody></table>
+		<td align="right" style="padding:3px 5px 0 5px">
+			<table cellpadding="0" cellspacing="0" onclick="document.getElementById('send_msg').submit()" style="cursor:pointer">
+				<tbody><tr>
+					<td width="6"><img src="/images/btn1/left.png" width="6" height="29" border="0" alt=""></td>
+					<td width="100" align="center" background="/images/btn1/bg.png" style="padding:0px 5px; color:white; font-weight:bold">Send</td>
+					<td width="9" background="/images/btn1/bg.png"><img src="images/index/btn_arr_right.png" width="9" height="12" border="0" alt=""></td>
+					<td width="6"><img src="/images/btn1/right.png" width="6" height="29" border="0" alt=""></td>
+				</tr>
+			</tbody></table>
 		</td>
 	</tr>
 </tbody></table>
@@ -354,29 +456,30 @@ function selectField(obj)
 		
 
 </form>
-									</td>
+												</td>
 	</tr>
-	</tbody></table>
-								</td></tr>
-						</tbody></table>
-					</td>
-					<td style="padding:0px 20px 0px 0px;" valign="top">
-<div class="sMenu_box_lft">
-<div class="sMenu_box_rgt">
-<div class="sMenu_box_top">
-<div class="sMenu_box_btm">
-<div class="sMenu_box_c1">
-<div class="sMenu_box_c2">
-<div class="sMenu_box_c3">
-<div class="sMenu_box_c4">
-<table cellpadding="0" cellspacing="0" width="100%" height="100%" border="0"><tbody><tr><td class="sMenu_box_cnt">
+</tbody></table> 
+										</td></tr>
+										
+									</tbody></table>
+								</td>
+								<td width="10"></td>
+								<td valign="top" style="padding-top:10px"><table cellpadding="0" cellspacing="0" width="100%" height="100%" dir="ltr">
+	<tbody><tr height="5"><td class="Frm1_c1"></td><td class="Frm1_top"><img src="images/spacer.gif"></td><td class="Frm1_c2"></td></tr>
+	<tr><td class="Frm1_lft"><img src="images/spacer.gif"></td><td class="Frm1_bg" dir="ltr" valign="top">
+
 <table cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr>
-		<td>
-			<table cellpadding="0" cellspacing="0" width="100%">
-				<tbody><tr><td style="padding:10px 5px 0px 0px;font-size:14px;">Privacy Policy</td></tr>
-				<tr><td style="padding:1px 5px 0px 5px;" bgcolor="#CCCCCC" height="1"></td></tr>
-				<tr><td style="padding:10px"><div style="direction: ltr;">We are committed to preserving the privacy of all visitors and users of this website. Please read the following privacy policy to understand how we use and protect the information that you provide to us. We will only use your personal information in accordance with this privacy policy. Our Privacy Policy Statement will be reviewed from time to time to take into account of new laws and technology, changes to our operations and practices and to ensure it remains appropriate to the changing environment. By using this website, you consent to us using your personal information as set out below.<br>
+<tbody><tr>
+	<td style="padding:3px 10px 5px 10px;">
+	<table cellpadding="0" cellspacing="0">
+		<tbody><tr><td><b style="color: ;font-size:15px;">Privacy Policy</b></td></tr>
+	</tbody></table>
+	</td>
+</tr>
+<tr><td style="padding:1px 5px 0px 5px;" bgcolor="#CCCCCC" height="1"></td></tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" width="100%">				
+	<tbody><tr><td style="padding:10px"><div style="direction: ltr;">We are committed to preserving the privacy of all visitors and users of this website. Please read the following privacy policy to understand how we use and protect the information that you provide to us. We will only use your personal information in accordance with this privacy policy. Our Privacy Policy Statement will be reviewed from time to time to take into account of new laws and technology, changes to our operations and practices and to ensure it remains appropriate to the changing environment. By using this website, you consent to us using your personal information as set out below.<br>
 	<br>
 	</div>
 <div style="direction: ltr;"><span style="font-weight: bold;">What personal information do we collect?<br>
@@ -455,78 +558,83 @@ function selectField(obj)
 <div style="direction: ltr;">Support@netotrade.com</div>
 <div style="direction: ltr;"><br>
 	</div></td></tr>
-				
-			</tbody></table>
-		</td>				
-	</tr>		
+			
 	</tbody></table>
-</td></tr></tbody></table></div></div></div></div></div></div></div></div>
-</td>								
-				</tr>
-			</tbody></table>
-					
-					</td><td class="main_box_lft"></td></tr>
-	<tr height="16"><td class="main_box_c4"></td><td class="main_box_btm"></td><td class="main_box_c3"></td></tr>
-</tbody></table>
-		
-		</td>
-	</tr>	<tr><td style="padding:15px 0px"><style>
-.mmc {color:#333; font-size:12px; display:block; font-weight:bold; line-height:30px;}
-.smc {color:#333; font-size:12px;  display:block; line-height:24px;}
-.mmc:hover, .smc:hover {color:#000;}
-.mmc_ttl{background-color:#DDDDDD; border-bottom:2px #51AC4C solid; padding:0px 10px}
-</style>
-<table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="top" width="138"><div class="mmc_ttl"><a class="mmc" href="http://www.netotrade.com/about+us.html">About Us</a></div><div style="padding-left:0px; direction:ltr"><a class="smc" href="http://www.netotrade.com/about+us.html">• About Us</a><a class="smc" href="http://www.netotrade.com/commitment+towards+clients.html">• Why Trade Wth Us</a><a class="smc" href="http://www.netotrade.com/conflict+of+interest.html">• Conflict of interest</a><a class="smc" href="http://www.netotrade.com/netotrade+systems.html">• NetoTrade Systems</a><a class="smc" href="http://www.netotrade.com/our+technology.html">• Our Technology</a></div></td><td width="5"></td><td valign="top" width="138"><div class="mmc_ttl"><a class="mmc" href="http://www.netotrade.com/accounts+type.html">Accounts</a></div><div style="padding-left:0px; direction:ltr"><a class="smc" href="http://www.netotrade.com/accounts+type.html">• Accounts Type</a><a class="smc" href="http://www.netotrade.com/trading+conditions.html">• Forex Trading Conditions</a><a class="smc" href="http://www.netotrade.com/trading+conditions+cfd.html">• CFD Trading Conditions</a><a class="smc" href="http://www.netotrade.com/createLive.php">• Open Live Account</a></div></td><td width="5"></td><td valign="top" width="138"><div class="mmc_ttl"><a class="mmc" href="#">Platforms</a></div><div style="padding-left:0px; direction:ltr"><a class="smc" href="http://www.netotrade.com/mt4.html">• Meta Trader 4</a><a class="smc" href="http://www.netotrade.com/netotrade+web.html">• NetoTrade  Web</a><a class="smc" href="http://www.netotrade.com/netotrade+mobile.html">• NetoTrade Mobile</a><a class="smc" href="http://www.netotrade.com/ceos+platform.html">• NetoTrade Manager</a></div></td><td width="5"></td><td valign="top" width="138"><div class="mmc_ttl"><a class="mmc" href="http://www.netotrade.com/funds.html">Funds</a></div><div style="padding-left:0px; direction:ltr"><a class="smc" href="#">• Credit Card</a><a class="smc" href="http://www.netotrade.co.il/Editor/assets/widthraw en.pdf" target="_blank">• Withdrawal</a></div></td><td width="5"></td><td valign="top" width="138"><div class="mmc_ttl"><a class="mmc" href="#">Tools</a></div><div style="padding-left:0px; direction:ltr"><a class="smc" href="http://www.netotrade.com/forex.html">• Forex</a><a class="smc" href="http://www.netotrade.com/cfds.html">• CFD'S</a><a class="smc" href="http://www.netotrade.com/orderstypes.html">• OrdersTypes</a><a class="smc" href="http://www.netotrade.com/WeeklyForecast.php">• Weekly Market Review</a></div></td><td width="5"></td><td valign="top" width="138"><div class="mmc_ttl"><a class="mmc" href="http://www.netotrade.com/partners.html">Partners</a></div><div style="padding-left:0px; direction:ltr"><a class="smc" href="http://www.netotrade.com/ib+program.html">• IB program</a><a class="smc" href="http://www.netotrade.com/white+label.html">• White Label</a></div></td><td width="5"></td><td valign="top" width="138"><div class="mmc_ttl"><a class="mmc" href="http://www.netotrade.com/contact+us.html">Contact Us</a></div></td><td width="5"></td></tr></tbody></table></td></tr>
-	
-	<tr>
-		<td>
-			<table cellpadding="0" cellspacing="0" width="100%" dir="rtl">
-	<tbody><tr height="14"><td class="main_box_c2"></td><td class="main_box_top"></td><td class="main_box_c1"></td></tr>
-	<tr><td class="main_box_rgt"></td><td class="main_box_cnt" dir="ltr">
 
-	
-			<table cellpadding="0" cellspacing="0" width="100%">
-					<tbody><tr>
-						<td style="font-size:11px; line-height:14px; padding:10px 50px; color:#888888">
-													<div style="text-align: center;">Forex and CFDs are leveraged products, incur a high level of risk and may not be suitable for all investors. You
-should not risk more than you are prepared to lose. Before deciding to trade, please ensure you understand the risks involved and take into account your level of experience. Trading may result in a substantial or complete loss of funds and therefore Only speculate with money you can afford to lose.</div>						</td>					
-					</tr>
-					<tr><td bgcolor="#CCCCCC" height="1"></td></tr>
-					<tr height="8"><td></td></tr>
-					<tr><td align="center"><table cellpadding="0" cellspacing="0" border="0">
+	</td><td class="Frm1_rgt"><img src="images/spacer.gif"></td></tr>
+	<tr height="5"><td class="Frm1_c3"></td><td class="Frm1_btm"><img src="images/spacer.gif"></td><td class="Frm1_c4"></td></tr>
+</tbody></table>
+
+
+
+</td>
+								<td width="10"></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+						</tbody></table>
+		</td>
+	</tr>
+	<tr height="30"><td></td></tr>
+	<tr height=""><td background="/images/btm/shadow.png" width="32" height="29"></td></tr>
+	<tr height="280">
+		<td background="/images/btm/bg.png" align="center">
+			
+			<table cellpadding="0" cellspacing="0" width="1000" align="center">
+				<tbody><tr><td align="center"><div style="width:980px; padding:15px 0; border-bottom:1px #AAAAAA solid;"><style>
+.mmc {color:#EEE; font-size:12px; display:block; font-weight:bold; line-height:30px;}
+.smc {color:#DDD; font-size:12px;  display:block; line-height:24px;}
+.mmc:hover, .smc:hover {color:#FFF;}
+.mmc_ttl{ padding:0px 0px}
+</style>
+<table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="top" width="138"><div class="mmc_ttl"><a class="mmc" href="http://www.netotrade.com/about+us.html">About Us</a></div><div><a class="smc" href="http://www.netotrade.com/about+us.html">About Us</a><a class="smc" href="http://www.netotrade.com/why+trade+with+neto+trade.html">Why Trade With Us</a><a class="smc" href="http://www.netotrade.com/commitment+towards+clients.html">Our Commitment</a><a class="smc" href="http://www.netotrade.com/netotrade+systems.html">NetoTrade Systems</a><a class="smc" href="http://www.netotrade.com/our+technology.html">Our Technology</a><a class="smc" href="http://www.netotrade.com/security+of+funds.html">Security of funds</a><a class="smc" href="http://www.netotrade.com/testimonials.html">Testimonials</a></div></td><td width="5"></td><td valign="top" width="138"><div class="mmc_ttl"><a class="mmc" href="http://www.netotrade.com/trading+style.html">Accounts</a></div><div><a class="smc" href="http://www.netotrade.com/trading+style.html">Trading Style</a><a class="smc" href="http://www.netotrade.com/accounts+type.html">Accounts Type</a><a class="smc" href="http://www.netotrade.com/mini+account.html">Mini Account</a><a class="smc" href="http://www.netotrade.com/gold+account.html">Gold Account</a><a class="smc" href="http://www.netotrade.com/platinum+account.html">Platinum Account</a><a class="smc" href="http://www.netotrade.com/ecn+account.html">ECN Account</a><a class="smc" href="http://www.netotrade.com/swaps.html">Swaps</a><a class="smc" href="http://www.netotrade.com/createGold.php">Open Live Account</a><a class="smc" href="http://www.netotrade.com/createDemo.php">Open Demo Account</a></div></td><td width="5"></td><td valign="top" width="138"><div class="mmc_ttl"><a class="mmc" href="#">Platforms</a></div><div><a class="smc" href="http://www.netotrade.com/mt4.html">Meta Trader 4</a><a class="smc" href="http://www.netotrade.com/netotrade+web.html">NetoTrade  Web</a><a class="smc" href="http://www.netotrade.com/netotrade+mobile.html">NetoTrade Mobile</a><a class="smc" href="http://www.netotrade.com/ceos+platform.html">CEOs' Platform</a></div></td><td width="5"></td><td valign="top" width="138"><div class="mmc_ttl"><a class="mmc" href="#">Funds</a></div><div><a class="smc" href="http://www.netotrade.com/funds.html">Deposit</a><a class="smc" href="http://www.netotrade.co.il/Editor/assets/widthraw en.pdf" target="_blank">Withdrawal</a></div></td><td width="5"></td><td valign="top" width="138"><div class="mmc_ttl"><a class="mmc" href="#">Education</a></div><div><a class="smc" href="http://www.netotrade.com/forex.html">What is Forex</a><a class="smc" href="http://www.netotrade.com/cfds.html">CFD'S</a><a class="smc" href="http://www.netotrade.com/orderstypes.html">OrdersTypes</a><a class="smc" href="http://www.netotrade.com/forex+trading+hours.html">Forex trading hours</a><a class="smc" href="http://www.netotrade.com/margin.html">Margin and Leverage</a><a class="smc" href="http://www.netotrade.com/world+interest+rates.html">Interest Rates</a><a class="smc" href="http://www.netotrade.com/commodities+trading.html">Commodities Trading</a><a class="smc" href="http://www.netotrade.com/frequent+questions.html">Frequent Questions</a><a class="smc" href="http://www.netotrade.com/tutorials1.html">Tutorials</a></div></td><td width="5"></td><td valign="top" width="138"><div class="mmc_ttl"><a class="mmc" href="#">Tools</a></div><div><a class="smc" href="http://www.netotrade.com/WeeklyForecast.php">Weekly Market Review</a><a class="smc" href="http://netotrade.com/intraday.php">Technical Analysis</a></div></td><td width="5"></td><td valign="top" width="138"><div class="mmc_ttl"><a class="mmc" href="http://www.netotrade.com/partners.html">Partners</a></div><div><a class="smc" href="http://www.netotrade.com/ib+program.html">IB program</a><a class="smc" href="http://www.netotrade.com/white+label.html">White Label</a></div></td><td width="5"></td></tr></tbody></table></div></td></tr>
+				<tr><td style="padding-top:15px">
+				</td></tr><tr><td valign="bottom">
+				
+				<div style="width:80px; float:left;"><img src="/images/mini_logo2.png" width="80" height="80" border="0" alt=""></div>
+				<div style="width:80px; float:right;"><img src="/images/spacer.gif" width="80" height="80" border="0" alt=""></div>
+				<table cellpadding="0" cellspacing="0" width="800" align="center">
+						<tbody><tr>
+							<td style="font-size:11px; line-height:14px; padding:0 0 10px 0px; color:#888888">
+															<div style="text-align: center;">Forex and CFDs are leveraged products, incur a high level of risk and may not be suitable for all investors. You
+should not risk more than you are prepared to lose. Before deciding to trade, please ensure you understand the risks involved and take into account your level of experience. Trading may result in a substantial or complete loss of funds and therefore Only speculate with money you can afford to lose.</div>							</td>					
+						</tr>
+						
+						<tr><td align="center"><table cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
 		<td width="10">&nbsp;</td>
 				<td width="14"></td>
 			<td height="100%">
-				<div align="center"><b><a style="color:#222222;font-size:12px;line-height:12px" href="http://www.netotrade.com/contact+us.html">Contact Us</a></b></div>
+				<div align="center"><b><a style="color:#CCCCCC;font-size:12px;line-height:12px" href="http://www.netotrade.com/contact+us.html">Contact Us</a></b></div>
 	
 
 			</td>
 			
 				<td width="14"></td>
 			<td height="100%">
-				<div align="center"><b><a style="color:#222222;font-size:12px;line-height:12px" href="http://www.netotrade.com/neto+trade+risk+disclaimer.html">Risk Disclosure</a></b></div>
+				<div align="center"><b><a style="color:#CCCCCC;font-size:12px;line-height:12px" href="http://www.netotrade.com/neto+trade+risk+disclaimer.html">Risk Disclosure</a></b></div>
 	
 
 			</td>
 			
 				<td width="14"></td>
 			<td height="100%">
-				<div align="center"><b><a style="color:#222222;font-size:12px;line-height:12px" href="http://www.netotrade.com/agreement+en.html">Terms &amp; Conditions</a></b></div>
+				<div align="center"><b><a style="color:#CCCCCC;font-size:12px;line-height:12px" href="http://www.netotrade.com/agreement.html">Terms &amp; Conditions</a></b></div>
 	
 
 			</td>
 			
 				<td width="14"></td>
 			<td height="100%">
-				<div align="center"><b><a style="color:#222222;font-size:12px;line-height:12px" href="http://www.netotrade.com/privacy+policy.html">Privacy Policy</a></b></div>
+				<div align="center"><b><a style="color:#CCCCCC;font-size:12px;line-height:12px" href="http://www.netotrade.com/privacy+policy.html">Privacy Policy</a></b></div>
 	
 
 			</td>
 			
 				<td width="14"></td>
 			<td height="100%">
-				<div align="center"><b><a style="color:#222222;font-size:12px;line-height:12px" href="http://www.netotrade.com/partners.html">Partners</a></b></div>
+				<div align="center"><b><a style="color:#CCCCCC;font-size:12px;line-height:12px" href="http://www.netotrade.com/partners.html">Partners</a></b></div>
 	
 
 			</td>
@@ -535,14 +643,30 @@ should not risk more than you are prepared to lose. Before deciding to trade, pl
 	</tr>
 </tbody></table>
 </td></tr>
-					<tr height="8"><td></td></tr>
-										<tr height="4"><td></td></tr>
-								</tbody></table>
-					</td><td class="main_box_lft"></td></tr>	
-</tbody></table>
+						<tr height="20"><td></td></tr>
+						
+						
+						
+				</tbody></table>
+								
+			</td></tr></tbody></table>
+			
 		</td>
 	</tr>
 </tbody></table>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23596310-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 
 
 </body></html>
