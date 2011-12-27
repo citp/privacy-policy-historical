@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forcechange.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626094354id_/http%3A//forcechange.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forcechange.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227093922id_/http%3A//forcechange.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ForceChange
 
@@ -10,7 +10,9 @@ ForceChange.com also collects potentially personally-identifying information lik
 
 **Gathering of Personally-Identifying Information**
 
-Certain visitors to ForceChange.com’s websites choose to interact with ForceChange.com in ways that require ForceChange.com to gather personally-identifying information. The amount and type of information that ForceChange.com gathers depends on the nature of the interaction. For example, we ask visitors who comment or create other content to provide a username and email address. In each case, ForceChange.com collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with ForceChange.com. ForceChange.com does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to ForceChange.com’s websites choose to interact with ForceChange.com in ways that require ForceChange.com to gather personally-identifying information. The amount and type of information that ForceChange.com gathers depends on the nature of the interaction. For example, visitors who comment or create other content are asked to provide a username and email address. In each case, ForceChange.com collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with ForceChange.com. For another example, visitors who sign petitions will be contacted by ForceChange.com about that cause and related causes. Visitors who explicitly choose to be contacted and to sign petitions sponsored by sites other than ForceChange.com, such as Care2.com, may be contacted by those organizations.
+
+ForceChange.com does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 **Protection of Certain Personally-Identifying Information**
 
