@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oodle.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510143905id_/http%3A//www.oodle.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oodle.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227073759id_/http%3A//www.oodle.com/info/privacy) for the most accurate reproduction.*
 
 # Oodle Classifieds - Privacy Policy
 
@@ -29,9 +29,13 @@ Registered users may choose to receive a copy of our newsletter or receive other
 
 You can review and change your Personally Identifiable Information or password at any time on the [My Profile Tab](http://www.oodle.com/account/profile/) in the My Account section. 
 
-### Cookies
+### Cookies, Web Beacons and Scripts
 
 Like many web sites, Oodle uses a standard technology call "cookies." A cookie is a small text file stored on your computer's hard drive that can be accessed by a specific web site to make your experience quicker and more convenient. Cookies allow our users to login without entering their ID and password each time they use Oodle. Cookies also help us understand how our users use the Sites, which allows us to improve the service. We do not use cookies to retrieve any information from your computer other than the information we provide, such as a user code. 
+
+A "web beacon" is an electronic file that signals when a web page, an advertisement, a video or other type of content has been viewed. A "script" is a short section of computer code included in a Web page or other content that can be used to set and access a cookie on your computer's hard drive and to record your activity on a web site. Web beacons and scripts can be used for a number of purposes, including counting and tracking visitors to the Sites, recognizing and accessing cookies, recording page view information, tracking and reporting audience information and conducting research to improve the Sites. 
+
+Oodle allows certain third parties to set and access their own cookies, use their own web beacons and use their own scripts on and through the Sites. How other companies use their own cookies, web beacons and scripts and the information they gather is subject to those companies' own privacy policies, not this Privacy Policy. Some of these companies are participants in the Network Advertising Initiative ("NAI"), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. You can learn more about NAI and how you may "opt out" of targeted advertising delivered by NAI members [here](http://www.networkadvertising.org/). 
 
 ### Data We Collect
 
@@ -90,6 +94,19 @@ Oodle may also disclose information with:
 
 If we merge with or are acquired by another company, the resulting combined company will use the information you have provided as described in this Privacy Policy. 
 
+### International Users
+
+The Sites are hosted in the United States. If you use the Sites from outside of the United States, you are voluntarily transferring information (potentially including personally-identifiable information) and content to the United States and agreeing that Oodle’s collection, use, storage and sharing of your information and content is exclusively subject to the laws of the United States, not of the jurisdiction in which you are located. Privacy Complaints from European Union Citizens; in compliance with the Safe Harbor Principles, Oodle commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Oodle at abuse@oodle.com Oodle has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Oodle, you may contact the BBB EU SAFE HARBOR program at the address below: 
+
+Council of Better Business Bureaus, Inc.  
+BBB EU SAFE HARBOR  
+4200 Wilson Boulevard, Suite 800  
+Arlington, VA 22203  
+Phone: 703-276-0100  
+Web: [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints)
+
 ### More Questions?
 
-If you have any questions about this Privacy Policy or want to report abuse, please contact us at [abuse@oodle.com](http://www.oodle.com/info/help/?&node_id=2&mode=contact).
+If you have any questions about this Privacy Policy or want to report abuse, please contact us at [abuse@oodle.com](http://www.oodle.com/info/help/?&node_id=2&mode=contact). 
+
+Last update June 29, 2011
