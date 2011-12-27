@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the carhire3000.com privacy policy that was archived on 2010-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100717012722id_/http%3A//www.carhire3000.com/PrivacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carhire3000.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227061618id_/http%3A//www.carhire3000.com/PrivacyPolicy.do) for the most accurate reproduction.*
 
 # Great Prices on Car Hire Worldwide
-
-Search for Car Hire
 
 CARHIRE 3000 takes the privacy of the information you give us very seriously. Any information you give us will be used in accordance with the UK data protection act of 1998 and The Privacy and Electronic Communications (EC Directive) Regulations 2003. This policy explains how your information is used, and how we protect your privacy.
 
  **Booking Information**  
-When you book with us we need to know your name, address, telephone number, credit or debit card number and expiry date. We also need the drivers' age to enable us to process the booking. As a booking agent CARHIRE 3000 passes on essential booking details to our car rental partners in order to confirm your booking. 
+When you book with us we need to know your name, address, telephone number, credit or debit card number and expiry date. We also need the drivers" age to enable us to process the booking. As a booking agent CARHIRE 3000 passes on essential booking details to our car rental partners in order to confirm your booking. 
 
 **Promotional updates**  
 You may choose to subscribe to our Special Offers service in order to receive e-mails notifying you of any promotions or new services we are offering. You can opt out of this service at any time by clicking on the unsubscribe link in any e-mails we send to you . We use the services of a data mailing provider to facilitate the dispatch of promotional e-mails and postal updates to you. We ensure that this provider keeps your personal information confidential and secure at all times. 
@@ -30,7 +28,14 @@ By using this web site you consent to the collection, storage and use of this in
 Please note that the information you provide for your booking will be transferred outside the European economic area if your rental takes place outside of this area. By submitting your order, you consent to this transfer. 
 
 **Secure Transactions  
-** CARHIRE 3000 is committed to ensuring that the information you provide in making a booking is secure. To do so we use SSL (secure socket layer) technology the recognised industry standard. This encrypts all your personal information including your credit card details, so that it cannot be read as it is sent over the internet. Once your transaction has been completed, your personal information is stored on a secure computer, not on the web server, so it cannot be accessed through the internet. To verify that your browser is using the secure server look for a small padlock icon on the lower part of your browser window. If it is shown in the 'locked' position, your transaction is secure.
+** CARHIRE 3000 is committed to ensuring that the information you provide in making a booking is secure. To do so we use SSL (secure socket layer) technology the recognised industry standard. This encrypts all your personal information including your credit card details, so that it cannot be read as it is sent over the internet. Once your transaction has been completed, your personal information is stored on a secure computer, not on the web server, so it cannot be accessed through the internet. To verify that your browser is using the secure server look for a small padlock icon on the lower part of your browser window. If it is shown in the "locked" position, your transaction is secure.
 
 **Cookies**  
 The CARHIRE 3000 web site does make limited use of cookies to better serve you. However, we do not store any personal or credit card information about you in these cookies. They do contain a session id number and some other basic information about your visit (for instance, which country you chose when you came to the site).
+
+**Control over your data**  
+You always have the right to review the personal data you have stored with us. You can request your personal data, to the extent we have retained such data, by emailing us at: **marketing@traveljigsaw.com**. Please state 'request personal data' in the subject line of your email.
+
+If your personal data is incorrect, we will change it upon your request. You can also ask us to remove your personal data from our database by sending us an email to the aforementioned email address.
+
+Should you have any questions, concerns or comments about our practices or this Privacy Policy, please e-mail us at **marketing@traveljigsaw.com**. Please state "Privacy" in the subject line of your e-mail. TravelJigsaw has its offices at St. George’s House, 56 Peter Street, Manchester M2 3NQ United Kingdom.
