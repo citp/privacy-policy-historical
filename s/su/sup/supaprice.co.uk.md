@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the supaprice.co.uk privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512172216id_/http%3A//www.supaprice.co.uk/p/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supaprice.co.uk privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227020358id_/http%3A//www.supaprice.co.uk/p/privacy_policy.jsp) for the most accurate reproduction.*
 
 # SupaPrice.co.uk - Privacy Policy
 
-**Privacy Policy**
+### Privacy Policy
 
 This privacy policy sets out how SupaPrice.co.uk uses and protects any information that you give SupaPrice.co.uk when you use this website.
 
@@ -14,12 +14,13 @@ We may collect the following information:
 
   * name and job title 
   * contact information including email address 
-  * Referrer URL (die zuvor besuchte Seite) 
+  * Referrer URL (the page you visited before) 
   * demographic information such as postcode, preferences and interests 
   * other information relevant to customer surveys and/or offers 
 
 
 
+  
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
   * Internal record keeping. 
