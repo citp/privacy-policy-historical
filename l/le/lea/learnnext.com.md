@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnnext.com privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215190828id_/http%3A//www.learnnext.com/user/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnnext.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227101402id_/http%3A//www.learnnext.com/user/privacy.htm) for the most accurate reproduction.*
 
 # CBSE TuTorial's Online, CBSE Maths, CBSE Science -Class X, Class IX, Class VIII , Class VII, Class VI
 
@@ -12,7 +12,7 @@ Personal Information You Choose to Provide
 
 ##### Registration Information.
 
-You will provide us information about yourself that will enable us to verify whether you are entitled to access and use certain information, materials and services available from the Web site [LearnNext](http://www.learnnext.com/) This information may also be used to enable us to enhance your Site visit, to assist you with customer service or technical support issues, or to follow up with you after your visit, or to otherwise support your relationship with [LearnNext](http://www.learnnext.com/) It is completely optional for you to participate. However, failure to participate may mean that you cannot access and use certain information, materials and services.  
+You will provide us information about yourself that will enable us to verify whether you are entitled to access and use certain information, materials and services available from the Web site [LearnNext](http://www.learnnext.com/) This information may also be used to enable us to enhance your Site visit, to assist you with customer service or technical support issues, or to follow up with you after your visit, or to otherwise support your relationship with [Next Education](http://www.nexteducation.in/) It is completely optional for you to participate. However, failure to participate may mean that you cannot access and use certain information, materials and services.  
 For example, we request information from you when you:
 
   * Log-on to certain areas of the Web site [LearnNext](http://www.learnnext.com/) where you may be prompted to provide us with your Log in Name and Password as a condition to gaining access to certain information, materials or services.
@@ -25,19 +25,19 @@ For example, we request information from you when you:
 
 In each of the instances above, we typically ask for your name, e-mail address, phone number, address, Log in Name and Password, as well as, other similar personal information that is needed to register or subscribe you to services or offers. On occasion, we may ask for additional information to enable us to provide you with access to and use of certain information, materials and services. In the case of newsletters or mailing lists, you will be able to "unsubscribe" to these mailers at any time.
 
-Wherever [LearnNext](http://www.learnnext.com/) collects personal information we make an effort to include a link to this Privacy Policy on that page.
+Wherever [Next Education](http://www.nexteducation.in/) collects personal information we make an effort to include a link to this Privacy Policy on that page.
 
 ##### How we use information
 
-[LearnNext](http://www.learnnext.com/) uses your personal information for specific purposes only. The personal information you provide to us when using the Web site, such as your name, postal, e-mail address or telephone number will be kept confidential and used to support your relationship with [LearnNext](http://www.learnnext.com/) to notify you of special offers, updated information and new products and services from [LearnNext](http://www.learnnext.com/), or offers from third parties that we think may be of interest to you. Agents or contractors of [LearnNext](http://www.learnnext.com/) who are given access to your personal information will be required to keep the information confidential and not use it for any other purpose other than to carry out the services they are performing for [LearnNext.](http://www.learnnext.com/)
+[Next Education](http://www.nexteducation.in/) uses your personal information for specific purposes only. The personal information you provide to us when using the Web site, such as your name, postal, e-mail address or telephone number will be kept confidential and used to support your relationship with [Next Education](http://www.nexteducation.in/) to notify you of special offers, updated information and new products and services from [Next Education](http://www.nexteducation.in/), or offers from third parties that we think may be of interest to you. Agents or contractors of [Next Education](http://www.nexteducation.in/) who are given access to your personal information will be required to keep the information confidential and not use it for any other purpose other than to carry out the services they are performing for [LearnNext.](http://www.nexteducation.in/)
 
 ##### Sharing information with Third Parties
 
-[LearnNext](http://www.learnnext.com/) may enhance or merge your information collected at its Web site with data from third parties for purposes of marketing products or services to you. With respect to network advertising companies (companies that manage and provide advertising for numerous unrelated companies), to the extent that [LearnNext](http://www.learnnext.com/) utilizes such advertising companies to provide advertisements on the Web site, may provide them with your Sign in Name and any demographic information about you that we collect. Those advertising companies may combine that data with non-personally identifiable data collected by the advertising company from your computer, solely for the purpose of delivering on our Web site, advertisements that are targeted to you.
+[Next Education](http://www.nexteducation.in/) may enhance or merge your information collected at its Web site with data from third parties for purposes of marketing products or services to you. With respect to network advertising companies (companies that manage and provide advertising for numerous unrelated companies), to the extent that [Next Education](http://www.nexteducation.in/) utilizes such advertising companies to provide advertisements on the Web site, may provide them with your Sign in Name and any demographic information about you that we collect. Those advertising companies may combine that data with non-personally identifiable data collected by the advertising company from your computer, solely for the purpose of delivering on our Web site, advertisements that are targeted to you.
 
-Circumstances may arise where we are required to disclose your personal information to third parties for purposes other than to support your customer relationship with [LearnNext](http://www.learnnext.com/), such as in connection with a corporate divestiture or dissolution where we sell all or a portion of our business or assets (including our associated customer lists containing your personal information), or if disclosure is required by law or is pertinent to judicial or governmental investigations or proceedings.
+Circumstances may arise where we are required to disclose your personal information to third parties for purposes other than to support your customer relationship with [Next Education](http://www.nexteducation.in/), such as in connection with a corporate divestiture or dissolution where we sell all or a portion of our business or assets (including our associated customer lists containing your personal information), or if disclosure is required by law or is pertinent to judicial or governmental investigations or proceedings.
 
-We will send you information about our various products and services, or other products and services we feel may be of interest to you. Only [LearnNext](http://www.learnnext.com/) (or agents or contractors working on behalf of [LearnNext](http://www.learnnext.com/) and under confidentiality agreements) will send you these direct mailings.
+We will send you information about our various products and services, or other products and services we feel may be of interest to you. Only [Next Education](http://www.nexteducation.in/) (or agents or contractors working on behalf of [Next Education](http://www.nexteducation.in/) and under confidentiality agreements) will send you these direct mailings.
 
 ##### Cookies
 
@@ -53,7 +53,7 @@ If you do not wish to use the Internet to transmit personal information you can 
 
 ##### How Can You Access and Correct Your Information?
 
-Email is not recognized as a secure medium of communication. You may request access to all your personally identifiable information that we collect online and maintain in our database by calling [LearnNext.](http://www.learnnext.com/)
+Email is not recognized as a secure medium of communication. You may request access to all your personally identifiable information that we collect online and maintain in our database by calling [LearnNext.](http://www.nexteducation.in/)
 
 ##### Certain Disclosures
 
@@ -73,18 +73,18 @@ We do not knowingly collect personal information from children below the age of 
 
 Sending unsolicited mail messages, including, without limitation, commercial advertising and informational announcements, is expressly prohibited. A user shall not use another site’s mail server to relay mail without the express permission of the site.
 
-It is contrary to [LearnNext](http://www.learnnext.com/) policy for customers to use our servers to effect or participate in any of the following activities:
+It is contrary to [Next Education](http://www.nexteducation.in/) policy for customers to use our servers to effect or participate in any of the following activities:
 
   * To post to any Usenet or other newsgroup, forum, e-mail mailing list or other similar group or list articles which are off-topic according to the agreement or other owner-published FAQ or description of the group or list;
   * To send unsolicited mass e-mailings, if such unsolicited e-mailings provoke complaints from the recipients;
-  * To engage in any of the foregoing activities using the service of another provider, but channeling such activities through [LearnNext](http://www.learnnext.com/) provided server, or using [LearnNext](http://www.learnnext.com/) provided server as a maildrop for responses;
-  * To falsify user information provided to [LearnNext](http://www.learnnext.com/) or to other users of the service in connection with use of [LearnNext](http://www.learnnext.com/) service.. 
+  * To engage in any of the foregoing activities using the service of another provider, but channeling such activities through [Next Education](http://www.nexteducation.in/) provided server, or using [Next Education](http://www.nexteducation.in/) provided server as a maildrop for responses;
+  * To falsify user information provided to [Next Education](http://www.nexteducation.in/) or to other users of the service in connection with use of [Next Education](http://www.nexteducation.in/) service.. 
 
 
 
 ##### Consequences of Violation:
 
-When [LearnNext](http://www.learnnext.com/) becomes aware of an alleged violation of its Acceptable Use Policy, [LearnNext](http://www.learnnext.com/) will initiate an investigation. During the investigation [LearnNext](http://www.learnnext.com/) may restrict Customer 's access in order to prevent further possible unauthorised activity. Depending on the severity of the violation, [LearnNext](http://www.learnnext.com/) may, at its sole discretion, restrict, suspend, or terminate Customer's account and pursue other civil remedies. If such violation is a criminal offence, [LearnNext](http://www.learnnext.com/) will notify the appropriate law enforcement department of such violation.
+When [Next Education](http://www.nexteducation.in/) becomes aware of an alleged violation of its Acceptable Use Policy, [Next Education](http://www.nexteducation.in/) will initiate an investigation. During the investigation [Next Education](http://www.nexteducation.in/) may restrict Customer 's access in order to prevent further possible unauthorised activity. Depending on the severity of the violation, [Next Education](http://www.nexteducation.in/) may, at its sole discretion, restrict, suspend, or terminate Customer's account and pursue other civil remedies. If such violation is a criminal offence, [Next Education](http://www.nexteducation.in/) will notify the appropriate law enforcement department of such violation.
 
 ##### Your Consent
 
@@ -94,11 +94,14 @@ By using our Web site you consent to our collection and use of your personal inf
 
 If you would like to contact us for any reason regarding our privacy practices, Please contact us at :
 
-**[Helix Technology Solutions Private Limited,](http://www.helixtechsolutions.com/)**  
-Plot # 89, Road # 2, Banjara Hills,  
-Hyderabad, Andhra Pradesh, INDIA.  
+**Address**  
+**LearnNext**   
+C/o **[Next Education India Private Limited ](http://www.nexteducation.in/)**  
+Plot # 89, Road # 2,   
+Banjara Hills, Hyderabad,  
+Andhra Pradesh-500 034  
 
 
 ##### Revisions to this policy:
 
-[LearnNext](http://www.learnnext.com/) reserves the right to revise, amend or modify this policy at any time and in any manner it pleases. Any change or revision will be posted on our Web site.
+[Next Education](http://www.nexteducation.in/) reserves the right to revise, amend or modify this policy at any time and in any manner it pleases. Any change or revision will be posted on our Web site.
