@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outveo.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625182353id_/http%3A//outveo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outveo.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227085744id_/http%3A//outveo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OutVeo.com | Outsourcing Projects Made Easy
 
@@ -23,6 +23,8 @@ And like many other websites, we may use cookies. In plain English, this means i
 We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website’s services and features.
 
 Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
+
+Some of the links provided on this site will re-direct you to sites that are not owned or controlled by us. They will have their own privacy policies which you should review before committing your personal data to them. We do not hide these re-directions from you.
 
 **WHAT WE DO WITH YOUR INFORMATION**
 
@@ -70,7 +72,7 @@ United Kingdom
 
 **CALIFORNIA PRIVACY RIGHTS**
 
-If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. 
+If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes.
 
 To request this information, please send an e-mail to support[at]reactorpublishing.com or write us at the following address:
 
