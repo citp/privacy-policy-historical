@@ -1,15 +1,18 @@
-<!--The following is the downloaded HTML source of the briefingwire.com privacy policy that was archived on 2011-01-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110101050008id_/http%3A//www.briefingwire.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the briefingwire.com privacy policy that was archived on 2011-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227023653id_/http%3A//www.briefingwire.com/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
         <base href="http://www.BriefingWire.com/">
         <!--base href="http://localhost:4207/_netBW/" /-->
+        
         <link rel="alternate" type="application/rss+xml" title="Latest Press Releases from BriefingWire.com" href="http://www.BriefingWire.com/rss.ashx"> <!-- for blogs et al to know where rss file is -->
         <link rel="image_src" href="http://www.briefingwire.com/Images/logo.jpg">
+        <!-- add canonicalization tag -->
 
         <title>BriefingWire - Free Press Release Submission</title> 
         <meta name="description" content="Free Press Release submission and distribution service. Increase the visibility of your business by submitting your press release for free."> 
         <meta name="keywords" content="press release, press releases, free press release, free press releases, pr, free pr, free press release sites, free press release websites, press release submission, free press release submission, press release submission sites, free press release submission sites, free press release submission service, press release distribution, free press release distribution, press release distribution sites, free press release distribution sites, free press release distribution service, free press release posting, seo, search engine optimization, news, ranking, rankings, google ranking, increase google ranking, search results, increase my website revenue, website promotion, promote my site, promote my website, website marketing, market my site, market my website, website promotion, publication"> 
+        <meta name="document-classification" content="PR Submission, Free Press Releases, Online Press Release Distribution, Submit Free Press Releases, Free PR Websites, PR Distribution">
 
         <meta name="y_key" content="5a29f45663f6af97"> <!-- verify ownership for Yahoo Site Explorer -->
         <meta name="msvalidate.01" content="E2667B55CE196EFE41109D73AE446BBE"> <!-- verify ownership for Bing Webmaster Central -->
@@ -21,7 +24,9 @@
         <link id="ctl00_Link1" rel="stylesheet" type="text/css" href="BWStyles.css">
         <link id="ctl00_Link2" rel="shortcut icon" href="Images/favicon.ico">
 
-        <script type="text/javascript" language="Javascript1.2"><!--
+        <script type="text/javascript" language="Javascript1.2">
+            <!--
+            // Confirms permanant action with warning
             function doConfirm() {
                 var answer = confirm("This is a permanent action. Please Confirm.")
 	            if (answer){
@@ -30,17 +35,78 @@
 	            else{
 		            return false;
 	            }
-            }
+	        }
             
-            function objLimit(objThis,objMax) {
-	            if (objThis.value.length==objMax) return false;
+            // Calcs Total Cost of Premium PR && Toggles 'Free Press Release' (i.e. Create) and Paypal buttons
+            function getTotalCost() {
+                document.getElementById('custom').value = document.getElementById('ctl00_cphMain_bID').value;
+                sTotalCost = 0;
+                if (document.getElementById('cbImg') != null && document.getElementById('cbImg').checked == true) {
+                    document.getElementById('amount_1').value = 10;
+                    sTotalCost = sTotalCost + 10;
+                }
+                else {
+                    document.getElementById('amount_1').value = 0;
+                }
+                if (document.getElementById('cbLinks') != null && document.getElementById('cbLinks').checked == true) {
+                    document.getElementById('amount_2').value = 10;
+                    sTotalCost = sTotalCost + 10;
+                }
+                else {
+                    document.getElementById('amount_2').value = 0;
+                }
+                if (document.getElementById('cbFPR') != null && document.getElementById('cbFPR').checked == true) {     //tbFPRCost
+                    sTotalCost = sTotalCost + Number(document.getElementById('tbFPRCost').value);
+                    document.getElementById('amount_3').value = Number(document.getElementById('tbFPRCost').value);
+                }
+                else {
+                    document.getElementById('amount_3').value = 0;
+                }
+                if (sTotalCost > 0) {
+                    document.getElementById('lblTotalCost').innerHTML = 'Total Cost: ' + formatNumber(sTotalCost.toString(), '$') + '&nbsp;&nbsp;';
+                    document.getElementById('btnFreePR').style.visibility = "hidden";
+                    document.getElementById('btnPayPal').style.visibility = "visible";
+                }
+                else {
+                    document.getElementById('lblTotalCost').innerHTML = '';
+                    document.getElementById('btnFreePR').style.visibility = "visible";
+                    document.getElementById('btnPayPal').style.visibility = "hidden";
+                }
+                return true;
+            }
+
+            // Converts $ to impressions
+            function getNumImpressions(objThis, strThatID) {
+                strVal = formatNumber(objThis.value * 100, '');
+                document.getElementById(strThatID).innerHTML = strVal;
+                getTotalCost();
+                return true;
+            }
+
+            // Formats numbers by adding commas (and prefix could be '$')
+            function formatNumber(nStr, prefix) {
+                var prefix = prefix || '';
+                nStr += '';
+                x = nStr.split('.');
+                x1 = x[0];
+                x2 = x.length > 1 ? '.' + x[1] : '';
+                var rgx = /(\d+)(\d{3})/;
+                while (rgx.test(x1))
+                    x1 = x1.replace(rgx, '$1' + ',' + '$2');
+                return prefix + x1 + x2;
+            }
+
+            // Following 3 functions used to display field limits
+            function objLimit(objThis, objMax) {
+                if (objThis.value.length == objMax) return false;
 	            return true;
             }
-            function objCount(objThis,objID,objMax) { 
-	            objObj=createObject(objID);
-	            objVal=objThis.value;
-	            if (objVal.length>objMax) objVal=objVal.substring(0,objMax);
-	            if (objObj) objObj.innerText=objMax-objVal.length;
+            function objCount(objThis, objID, objMax) {
+                objObj = createObject(objID);
+                objVal = objThis.value;
+	            if (objVal.length > objMax) objVal = objVal.substring(0, objMax);
+	            //if (objObj) objObj.innerText = objMax - objVal.length;
+	            if (objObj) objObj.innerHTML = objMax - objVal.length;
 	            return true;
             }
             function createObject(objId) {
@@ -48,13 +114,14 @@
 	            else if (document.layers) return eval("document." + objId);
 	            else if (document.all) return eval("document.all." + objId);
 	            else return eval("document." + objId);
-            }
+	        }
+            
             //-->
         </script>
     </head>
     <body>
-        <form name="aspnetForm" method="post" action="/Privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWCAIBDxYCHgRUZXh0BTs8dGl0bGU+QnJpZWZpbmdXaXJlIC0gRnJlZSBQcmVzcyBSZWxlYXNlIFN1Ym1pc3Npb248L3RpdGxlPmQCAw8WAh8ABbEBPG1ldGEgbmFtZT0iZGVzY3JpcHRpb24iIGNvbnRlbnQ9IkZyZWUgUHJlc3MgUmVsZWFzZSBzdWJtaXNzaW9uIGFuZCBkaXN0cmlidXRpb24gc2VydmljZS4gSW5jcmVhc2UgdGhlIHZpc2liaWxpdHkgb2YgeW91ciBidXNpbmVzcyBieSBzdWJtaXR0aW5nIHlvdXIgcHJlc3MgcmVsZWFzZSBmb3IgZnJlZS4iIC8+ZAIFDxYCHwAFuwY8bWV0YSBuYW1lPSJrZXl3b3JkcyIgY29udGVudD0icHJlc3MgcmVsZWFzZSwgcHJlc3MgcmVsZWFzZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSwgZnJlZSBwcmVzcyByZWxlYXNlcywgcHIsIGZyZWUgcHIsIGZyZWUgcHJlc3MgcmVsZWFzZSBzaXRlcywgZnJlZSBwcmVzcyByZWxlYXNlIHdlYnNpdGVzLCBwcmVzcyByZWxlYXNlIHN1Ym1pc3Npb24sIGZyZWUgcHJlc3MgcmVsZWFzZSBzdWJtaXNzaW9uLCBwcmVzcyByZWxlYXNlIHN1Ym1pc3Npb24gc2l0ZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSBzdWJtaXNzaW9uIHNpdGVzLCBmcmVlIHByZXNzIHJlbGVhc2Ugc3VibWlzc2lvbiBzZXJ2aWNlLCBwcmVzcyByZWxlYXNlIGRpc3RyaWJ1dGlvbiwgZnJlZSBwcmVzcyByZWxlYXNlIGRpc3RyaWJ1dGlvbiwgcHJlc3MgcmVsZWFzZSBkaXN0cmlidXRpb24gc2l0ZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSBkaXN0cmlidXRpb24gc2l0ZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSBkaXN0cmlidXRpb24gc2VydmljZSwgZnJlZSBwcmVzcyByZWxlYXNlIHBvc3RpbmcsIHNlbywgc2VhcmNoIGVuZ2luZSBvcHRpbWl6YXRpb24sIG5ld3MsIHJhbmtpbmcsIHJhbmtpbmdzLCBnb29nbGUgcmFua2luZywgaW5jcmVhc2UgZ29vZ2xlIHJhbmtpbmcsIHNlYXJjaCByZXN1bHRzLCBpbmNyZWFzZSBteSB3ZWJzaXRlIHJldmVudWUsIHdlYnNpdGUgcHJvbW90aW9uLCBwcm9tb3RlIG15IHNpdGUsIHByb21vdGUgbXkgd2Vic2l0ZSwgd2Vic2l0ZSBtYXJrZXRpbmcsIG1hcmtldCBteSBzaXRlLCBtYXJrZXQgbXkgd2Vic2l0ZSwgd2Vic2l0ZSBwcm9tb3Rpb24sIHB1YmxpY2F0aW9uIiAvPmQCDQ9kFgICBQ9kFgICAQ9kFgICAQ9kFgICAQ9kFgICAQ9kFgQCAw8QDxYGHg5EYXRhVmFsdWVGaWVsZAUEdmNpZB4NRGF0YVRleHRGaWVsZAUFdmFsdWUeC18hRGF0YUJvdW5kZ2QQFSUAC0FkdmVydGlzaW5nBEFydHMLQXV0b21vdGl2ZXMGQmVhdXR5BUJsb2dzCEJ1c2luZXNzCUNvbXB1dGVycwhDb25zdW1lcglFZHVjYXRpb24NRW50ZXJ0YWlubWVudAtFbnZpcm9ubWVudA1GYW1pbHkgJiBTZWxmDEZhcm1pbmcgJiBBZwdGYXNoaW9uCUZpbmFuY2lhbAVHYW1lcwpHb3Zlcm5tZW50BkhlYWx0aA1Ib21lICYgR2FyZGVuCEluZHVzdHJ5CEludGVybmV0A0xhdwlMaWZlc3R5bGUFTWVkaWEHTWVkaWNhbAVNdXNpYwROZXdzCk5vbiBQcm9maXQIUG9saXRpY3MHU2NpZW5jZQhTaG9wcGluZwdTb2NpZXR5BlNwb3J0cwpUZWNobm9sb2d5BlRyYWRlcwZUcmF2ZWwVJQJOUwNBRFYDQVJUA0FVVANCVFkDQkxPA0JVUwNDT00DQ09OA0VEVQNFTlQDRU5WA0ZBTQNGQVIDRkFTA0ZJTgNHQU0DR09WA0hFTANITkcDSU5EA0lOVANMQVcDTElGA01ESQNNRUQDTVVTA05FVwNOUEYDUE9MA1NDSQNTSE8DU09DA1NQTwNURUMDVFJEA1RSVhQrAyVnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZGQCBQ8QZGQWAGRkoZGZNq5Mz78xlfsM3bYWffkNGR4=">
+        <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWCAIBDxYCHgRUZXh0BTs8dGl0bGU+QnJpZWZpbmdXaXJlIC0gRnJlZSBQcmVzcyBSZWxlYXNlIFN1Ym1pc3Npb248L3RpdGxlPmQCAw8WAh8ABbEBPG1ldGEgbmFtZT0iZGVzY3JpcHRpb24iIGNvbnRlbnQ9IkZyZWUgUHJlc3MgUmVsZWFzZSBzdWJtaXNzaW9uIGFuZCBkaXN0cmlidXRpb24gc2VydmljZS4gSW5jcmVhc2UgdGhlIHZpc2liaWxpdHkgb2YgeW91ciBidXNpbmVzcyBieSBzdWJtaXR0aW5nIHlvdXIgcHJlc3MgcmVsZWFzZSBmb3IgZnJlZS4iIC8+ZAIFDxYCHwAFuwY8bWV0YSBuYW1lPSJrZXl3b3JkcyIgY29udGVudD0icHJlc3MgcmVsZWFzZSwgcHJlc3MgcmVsZWFzZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSwgZnJlZSBwcmVzcyByZWxlYXNlcywgcHIsIGZyZWUgcHIsIGZyZWUgcHJlc3MgcmVsZWFzZSBzaXRlcywgZnJlZSBwcmVzcyByZWxlYXNlIHdlYnNpdGVzLCBwcmVzcyByZWxlYXNlIHN1Ym1pc3Npb24sIGZyZWUgcHJlc3MgcmVsZWFzZSBzdWJtaXNzaW9uLCBwcmVzcyByZWxlYXNlIHN1Ym1pc3Npb24gc2l0ZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSBzdWJtaXNzaW9uIHNpdGVzLCBmcmVlIHByZXNzIHJlbGVhc2Ugc3VibWlzc2lvbiBzZXJ2aWNlLCBwcmVzcyByZWxlYXNlIGRpc3RyaWJ1dGlvbiwgZnJlZSBwcmVzcyByZWxlYXNlIGRpc3RyaWJ1dGlvbiwgcHJlc3MgcmVsZWFzZSBkaXN0cmlidXRpb24gc2l0ZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSBkaXN0cmlidXRpb24gc2l0ZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSBkaXN0cmlidXRpb24gc2VydmljZSwgZnJlZSBwcmVzcyByZWxlYXNlIHBvc3RpbmcsIHNlbywgc2VhcmNoIGVuZ2luZSBvcHRpbWl6YXRpb24sIG5ld3MsIHJhbmtpbmcsIHJhbmtpbmdzLCBnb29nbGUgcmFua2luZywgaW5jcmVhc2UgZ29vZ2xlIHJhbmtpbmcsIHNlYXJjaCByZXN1bHRzLCBpbmNyZWFzZSBteSB3ZWJzaXRlIHJldmVudWUsIHdlYnNpdGUgcHJvbW90aW9uLCBwcm9tb3RlIG15IHNpdGUsIHByb21vdGUgbXkgd2Vic2l0ZSwgd2Vic2l0ZSBtYXJrZXRpbmcsIG1hcmtldCBteSBzaXRlLCBtYXJrZXQgbXkgd2Vic2l0ZSwgd2Vic2l0ZSBwcm9tb3Rpb24sIHB1YmxpY2F0aW9uIiAvPmQCDQ9kFgQCBQ9kFgICAQ9kFgICAQ9kFgICAQ9kFgICAQ9kFgQCAw8QDxYGHg5EYXRhVmFsdWVGaWVsZAUEdmNpZB4NRGF0YVRleHRGaWVsZAUFdmFsdWUeC18hRGF0YUJvdW5kZ2QQFSUAC0FkdmVydGlzaW5nBEFydHMLQXV0b21vdGl2ZXMGQmVhdXR5BUJsb2dzCEJ1c2luZXNzCUNvbXB1dGVycwhDb25zdW1lcglFZHVjYXRpb24NRW50ZXJ0YWlubWVudAtFbnZpcm9ubWVudA1GYW1pbHkgJiBTZWxmDEZhcm1pbmcgJiBBZwdGYXNoaW9uCUZpbmFuY2lhbAVHYW1lcwpHb3Zlcm5tZW50BkhlYWx0aA1Ib21lICYgR2FyZGVuCEluZHVzdHJ5CEludGVybmV0A0xhdwlMaWZlc3R5bGUFTWVkaWEHTWVkaWNhbAVNdXNpYwROZXdzCk5vbiBQcm9maXQIUG9saXRpY3MHU2NpZW5jZQhTaG9wcGluZwdTb2NpZXR5BlNwb3J0cwpUZWNobm9sb2d5BlRyYWRlcwZUcmF2ZWwVJQJOUwNBRFYDQVJUA0FVVANCVFkDQkxPA0JVUwNDT00DQ09OA0VEVQNFTlQDRU5WA0ZBTQNGQVIDRkFTA0ZJTgNHQU0DR09WA0hFTANITkcDSU5EA0lOVANMQVcDTElGA01ESQNNRUQDTVVTA05FVwNOUEYDUE9MA1NDSQNTSE8DU09DA1NQTwNURUMDVFJEA1RSVhQrAyVnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZGQCBQ8QZGQWAGQCCw8PFgIfAAUgwqkgMjAxMSBQcm9zZXJ2ZSBUZWNobm9sb2d5LCBJbmNkZGQ7PUUPDWj5ntjcQfXhEps2OCx+Lg==">
 
 
 <script src="/ScriptResource.axd?d=Cu75YD27aUqM6MemsubzXSGJEPHdNywtPkgjA2UteipX9n1dJbIjrwXdbs72NcgAfaWhIeCcRTRwRVCCq3qGwh-KkB7FbaqKNj_nG8nLqQ01&amp;t=ffffffffbaac9f04" type="text/javascript"></script>
@@ -64,7 +131,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 //]]>
 </script>
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWKQLroeY+AqS/8+wFArbnvaMIAq+5opYMApHXrkgCkdeiSALP0p5iArnsjlcC/f7A1Q4C4prFiQsChfOgvA0CiMDA4woCldf+SAKjubqWDALnmv2JCwLehbWjCwLx/pDWDgKa87i8DQLmmv2JCwKhubaWDALyoZOXAQKbprf9AQKp+pm9AgKZ1/5IAs+TiIkGAuTNqcoPAoTl+dYDAq36vb0CAvr+wNUOAs2TuIkGAvrNjcoPAvqh65YBAo7l/dYDAqjsnlcCvIG6iggCqOz+VgKzgaKKCALW+8m8AgLcuuqVDALt0KjHDALP0LMSe1HkiORlDIgJcxn5kideEgx4uEI=">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWKQKwkK7aDwKkv/PsBQK2572jCAKvuaKWDAKR165IApHXokgCz9KeYgK57I5XAv3+wNUOAuKaxYkLAoXzoLwNAojAwOMKApXX/kgCo7m6lgwC55r9iQsC3oW1owsC8f6Q1g4CmvO4vA0C5pr9iQsCobm2lgwC8qGTlwECm6a3/QECqfqZvQICmdf+SALPk4iJBgLkzanKDwKE5fnWAwKt+r29AgL6/sDVDgLNk7iJBgL6zY3KDwL6oeuWAQKO5f3WAwKo7J5XAryBuooIAqjs/lYCs4GiiggC1vvJvAIC3LrqlQwC7dCoxwwCz9CzEtgV+oAwbzj+hK5HyW5CGa5kl8Qu">
             
             <div style="width:100%">
             <table style="width:100%;" cellspacing="0">
@@ -220,12 +287,15 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         <td align="left" valign="top">
                             
     <table width="700"><tbody><tr align="center"><td>
-        <div class="Header1Large" align="left"><b>Privacy Policy (01/01/2009)</b><br><hr style="height:1px;color:#CCCCCC;"></div><br>
+        <div class="Header1Large" align="left"><b>Privacy Policy (01/01/2011)</b><br><hr style="height:1px;color:#CCCCCC;"></div><br>
         <div class="ContentSmall" align="left">
             At BriefingWire we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by BriefingWire LLC ("BriefingWire") or its subsidiaries or affiliated companies (collectively, BriefingWire's "services").  <br> <br>
 
             <font class="Header1Small">Information you provide:</font><br>
             The BriefingWire website allows its members to submit personal information. Other members, when looking at your profile, can view some of the information in your profile (e.g. name, company, and tags). This is information about yourself that you are asked to submit or be candid about. Other, more personal, information will only be accessible to others if you choose to submit and make it publicly visible to others. This information includes but is not limited to your email address and phone number. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent. <br> <br>
+
+            <font class="Header1Small">Third-party advertisers:</font><br>
+            Some of our advertising partners, including Google AdSense, may use cookies, JavaScript, or web beacons on our site to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see. BriefingWire has no access to or control over these cookies that are used by third-party advertisers.   <br> <br>
 
             <font class="Header1Small">User communications:</font><br>
             When you send email or other communication to or through BriefingWire, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.  <br> <br>
@@ -264,7 +334,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         </td>
                         </tr>
 
-                        <tr><td class="ContentXSmall">© 2009 BriefingWire LLC</td></tr>        
+                        <tr><td class="ContentXSmall"><span id="ctl00_Label_Copywrite">© 2011 Proserve Technology, Inc</span></td></tr>        
                     </tbody></table>
 
                     </div></center>
