@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appolicious.com privacy policy that was archived on 2011-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110212204749id_/http%3A//www.appolicious.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appolicious.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227183130id_/http%3A//www.appolicious.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Appolicious ™ iPhone and iPad App Directory
 
