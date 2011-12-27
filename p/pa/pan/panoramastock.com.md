@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panoramastock.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629045938id_/http%3A//panoramastock.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panoramastock.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227204109id_/http%3A//www.panoramastock.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # webarchiveorg,Photo Stock,Creative Photos,China Stock,Stock Photography
 
