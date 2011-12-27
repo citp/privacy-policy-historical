@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the njoy.co.za privacy policy that was archived on 2010-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100119165117id_/http%3A//www.calora.co.za/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njoy.co.za privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227061128id_/http%3A//www.njoy.co.za/privacy.php) for the most accurate reproduction.*
 
-# Calora Online
+# NJOY Electronic Cigarettes
 
 We understand that your privacy while using our Site is important, especially when conducting business or providing sensitive personal information. This Notice will govern our Privacy Policy for users of this Site, whether or not a transaction of any sort is conducting while visiting. 
 
