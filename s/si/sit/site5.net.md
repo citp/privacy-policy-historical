@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the site5.net privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613101718id_/http%3A//www.site5.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site5.net privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227101238id_/http%3A//www.site5.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Site5 - Privacy Policy
 
-Site5 LLC ("Site5") has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of our consulting services, online services, websites, and web services ("Services").
+Site5.com ("Site5") has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of our consulting services, online services, websites, and web services ("Services").
 
 This privacy policy governs the manner in which Site5 uses, maintains and discloses information collected from its customers and users of our Services.
 
