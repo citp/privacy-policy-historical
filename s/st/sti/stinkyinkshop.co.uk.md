@@ -1,76 +1,91 @@
-> *The following text is extracted and transformed from the stinkyinkshop.co.uk privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228041957id_/http%3A//www.stinkyinkshop.co.uk/acatalog/company_info.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stinkyinkshop.co.uk privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227124239id_/http%3A//www.stinkyinkshop.co.uk/pages/privacy) for the most accurate reproduction.*
 
-# Company Information - Stinkyink
+# Stinkyink Privacy Policy
 
-## Company information: [](http://www.stinkyinkshop.co.uk/Solar_Short.wmv)
+Stinkyink is strongly committed to protecting the privacy of consumers of its interactive products and services. The following statement discloses the privacy practices for the Stinkyink websites and attempts to address the following questions:
 
-Solar Electronics (Trading as Stinkyink.Com) is a family run business and as such we are completely dedicated to your total satisfaction. If you have any suggestions or comments please email us at customerservice@stinkyink.com or call us on (0871) 288 1365. This line is manned Monday - Friday from 09:00 to 17:00 and is charged at normal national call rate. We appreciate your business and will always endeavour to resolve any complaints or problems within 5 working days
-
-Our Contact details:  
-Solar Electronics Ltd.  
-PO Box 3371  
-BRIDGNORTH  
-Shropshire  
-WV15 6ZW
-
-VAT Reg No 786 6380 77
-
-Making A Purchase:
-
-Making a purchase could not be easier. Just browse our Catalogue, and click on any items that you wish to buy and put them into the shopping cart. After you have finished your selection, click on "Order" and you will be asked for a few details that we need to be able to satisfy the order.
-
-We accept credit card payment and use Protx for our Credit Card Processing. We do not record or maintain any credit card information on site. 
-
-We accept Visa and Mastercard, Electron, Switch, Delta, and Solo. We do not charge for any item until it is ready to ship. You may send your credit card information via phone, fax, snail mail or over the Internet.
-
-Cancellation Rights.  
-Under the Distance Selling Regulations, you are given the right to cancel your order without giving a reason within 7 days of placing the order. The cancellation period in the case of contracts for the supply of goods begins with the day on which the contract is concluded. The cancellation period ends on the expirey of 7 working days, begining on the day after the day on which the consumer receives the goods. Should you exercise this right to cancel you must return the goods unopened and at your cost. On receipt you will receive a full refund excluding any costs incurred in returning them. Any returns will be credited within 7 working days to the Credit/Debit card which made the initial payment.
-
-Order acceptance and the completion of the contract between you and us will take place on the dispatch of the Products ordered by you unless we have notified you that we do not accept your order or you have cancelled it in accordance with the instructions in How to Cancel and Order. 
-
-Non-acceptance of an order may be a result of one of the following: 
-
-The product you ordered being unavailable from stock   
-Our inability to obtain authorisation for your payment   
-The identification of a pricing or product description error   
-You not meeting the eligibility to order criteria set out in the main Terms and Conditions
-
-Shipping and handling
-
-Delivery is Free via Royal Mail for all inkjet deliveries and via our nominated Carrier for Toner Cartridges to Mainland United Kingdom, all other shipments will be charged by destination and weight
-
-Credit card security:
-
-To protect our customers from any chance of fraud, we use Protx's securly encyrpted site for all credit card transactions. No card details are held or maintained at our premises.
-
-Our Warranty:
-
-At Stinkyink.Com we try to guarantee your satisfaction. If you have any problems please call us on (0871) 288 1365 (Calls are charged at national rate) for an immediate resolution. This does not affect your statutory rights as a consumer
-
-Privacy Policy:  
+  * What personal information we collect and how is it used
+  * Who will have access to this personal information
+  * What are cookies and how are they used
+  * What choices are available to a user regarding the disclosure of personal information
+  * How can a user access, update, or delete his/her information
+  * Who can a user contact if they have any questions regarding privacy
 
 
-At Solar Electronics Ltd (Trading as Stinkyink.Com) we are very aware of concerns regarding Privacy, The Managing Director Mr. John Sollars is directly responsible for all maters regarding Privacy, and is contactable on (0871) 288 1365 or via email: John@stinkyink.Com. The only information that is collected by Stinkyink.Com is that given at the time of confirming your order. Any information collected is used purley by Solar Electronics Ltd(T/A Stinkyink.Com) and its affiliated companies and is not passed to any third parties. Any information collected is collected lawfully and in accordance with the Data Protection Act 1998. Any information collected is used purley to transact your order efficiently.
 
-We do not send random marketing emails to personal email addresses (spam).  
+Stinkyink.com is a multi-dimensional Website. It offers its users an array of services. Because the success of Stinkyink is dependent on building and maintaining goodwill with our customers, we are committed to implementing measures designed to protect the privacy of those using our services. Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet. During registration, each service asks the user to provide different types and amounts of personal information. We intend through the use of this statement to illustrate, clarify, and reinforce the degree of security and privacy an internet-user should feel when accessing the Stinkyink.com Website.
+
+This Privacy Policy governs your interaction with the Stinkyink website, and your registration for and use of Stinkyink's online services. Except as set forth within this Privacy Policy and our Terms of Service and other published guidelines, we do not release personally identifiable information about out members and visitors without their permission. Please note that Stinkyink reviews its privacy practices from time to time, and that those practices are therefore subject to change. We ask that you bookmark and periodically review this page to ensure continuing familiarity with the most current version of our Privacy Policy. After reading this policy, if there are any further questions regarding Stinkyink privacy practices please feel free to address all inquires to info@Stinkyink.com
+
+## Personal Information and Its Use
+
+**Stinkyink gathers two types of information about users:**
+
+### (1) Non-personally identifiable information:
+
+When visitors come to our website, we collect and aggregate information indicating, among other things, which pages were visited, the order in which they were visited, and which hyperlinks were "clicked." Collecting such information involves the logging of IP addresses, operating system and browser software used by each visitor to the Stinkyink website.
+
+Although such information is not personally identifiable, we can determine from the IP address a visitor's Internet Service Provider and the geographic location of his or her point of connectivity. The non-personally identifiable information we collect helps us identify the most popular areas of our website and determine the effectiveness of our promotional activities. In addition, we may disclose some of this information to advertisers to inform them of the number of people who have seen and/or clicked through their advertisements.
+
+### (2) Personally identifiable information:
+
+In certain areas of the Stinkyink website. during our signup process we will ask a user to provide his/her full name, and contact details. Stinkyink collects this personal information primarily so we can complete and deliver your order to you. We may provide the information provided in the delivery details section with 3rd party couriers and delivery agencies in order to facilitate the delivery of your purchase.
+
+## Information Collecting and Access
+
+The information that a user shares with Stinkyink is collected, stored, and handled carefully by Stinkyink. However, Stinkyink may offer some of its services in conjunction with partner companies which may need access to your details to fulfil your order. We will endeavour to make it clear whenever this is the case.
+
+## Cookies
+
+Stinkyink aids in offering its community members a simple, easy, and personalised web experience through the use of cookies. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Stinkyink uses cookies for the benefit of its users. For example, to make the log in process for the Stinkyink website easier and faster, users have the option to save their ID and password in a cookie. The next time the user logs into a Stinkyink service, he/she will be able to use one-click instant access.
+
+Cookies help us determine the type of content and sites to which you link, the length of time you spend at any particular area of the site, and the services you choose to use. Cookies also tell us which advertising you have seen on our site. Essentially, cookies are your identification cards for the Stinkyink servers, that placed them there. Cookies are only read by the server that placed them, and are unable to execute any code or virus. Cookies allow us to serve you better and more efficiently, and to personalize your experience at the Stinkyink website. Nevertheless, you should be able to control how and whether cookies will be accepted by your web browser. For more information on how to do so, please refer to the documentation accompanying your browser. In essence, Stinkyink views the use of its cookies as a "luxurious tool" which enables its user to move freely from service to service without the hassle of having to "re-identify" themselves.
+
+## Information Choices
+
+Stinkyink users always have a choice whether or not to disclose information. Certain information is required for registration of our services, but most other requested information is optional. It is a top priority at Stinkyink to make its user feel comfortable and in control.
+
+## Links
+
+This website may contain links to other websites. Stinkyink is not responsible for the content or the privacy policy or practices of any other websites or for the actions of the companies responsible for those websites. Please review the privacy policies of those websites before providing them with any personal information.
+
+## Update and Access of Information
+
+Stinkyink strongly encourages its members to update and edit their personal information and keep it current. A Stinkyink user can easily access and correct his/her personal information at any time using our web based interface.
+
+## Contact
+
+We may revise our privacy policy from time to time. When we do, those changes will be reflected in this document. Any changes that we make will always be made with your privacy and satisfaction as top priorities. We encourage you to review our privacy policy whenever you visit this website. 
+
+Questions regarding this statement or the privacy practices of Stinkyink should be directed to the Stinkyink site coordinator at info@Stinkyink.com
+
+Stinkyink users also have the option of directly contacting our customer service department via telephone, fax, and/or standard mail.
+
+We feel we have a duty to provide our members with a safe, secure, and private website. The Stinkyink name and reputation is at the crux of our business, and we will take all necessary actions to uphold and reinforce our strong standing as a leading online stock photography site.
+
+## Copyright Policy
+
+Stinkyink owns or has the right to use all the intellectual propriety rights with respect to the content and services that are developed or jointly developed by Stinkyink. This content and services are protected by applicable intellectual property laws, copyrights, trademarks, service marks, patents or other proprietary rights and laws.
+
+For permission on copyright or any question, please contact info@Stinkyink.com
+
+  * [About Stinkyink What we do and how we do it](https://web.archive.org/pages/about/)
+  * [The Stinkyink Story How we got where we are today](https://web.archive.org/pages/about-timeline/)
+  * [Meet the Team It's all about the people baby!](https://web.archive.org/pages/about-team/)
+  * [Testimonials See why our customers love us](https://web.archive.org/pages/testimonials/)
+  * [FAQ's Frequently Asked Questions](https://web.archive.org/pages/frequently-asked-questions/)
+  * [Delivery Options You'll get your ink, in a blink!](https://web.archive.org/pages/delivery-options/)
+  * [Safe Shopping How we protect you from nasties](https://web.archive.org/pages/secure-shopping/)
+  * [Quality StatementsOnly the highest quality](https://web.archive.org/pages/quality-guarantee/)
+  * [EventsMeet us on the road](https://web.archive.org/pages/events/)
+  * [Press RoomGet the Scoop on Stinkyink](https://web.archive.org/pages/press/)
+  * [Terms & Conditions All the small print](https://web.archive.org/pages/terms/)
+  * [Privacy Policy How we use your information](https://web.archive.org/pages/privacy/)
 
 
-Neither Solar Electronics Ltd nor any affiliated companies, do not disclose buyers' information to third parties. Cookies are used on this shopping site to keep track of the contents of your shopping cart once you have selected an item, to store delivery addresses if the address book is used and to store your details if you select the 'Remember Me' Option.
 
-Data Protection
+* * *
 
-We will use your details for fraud prevention purposes. We will check your details with fraud prevention agencies and if you give us false or inaccurate information and we suspect fraud, we will record this.  
-Data collected by this site is used to:  
-a. Take and fulfill customer orders  
-b. Administer and enhance the site and service  
-c. Issue a unique identifier (e.g. customer login)  
-d. Monitor customer account status beyond that required for individual purchases  
-e. Only disclose information to third-parties for goods delivery purposes
+* * *
 
-Returns Information:  
-
-
-1\. Should product be found to be faulty on receipt, it will be replaced or your purchase price refunded immediately.  
-2\. Please check that you have ordered the correct product before opening the packaging, once the packaging is opened we are unable to accept a return unless it is subsequently found to be faulty. If this is the case please contact us on (0871) 288 1365 immediately.  
-3\. Should you wish more information then please consult "The Consumer Protection (Distance Selling) Regulations 2000" which can be found at http://www.hmso.gov.uk/si/si2000/20002334.htm  
-
+* * *
