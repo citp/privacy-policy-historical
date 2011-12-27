@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adelaidenow.com.au privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228091515id_/http%3A//adelaidenow.com.au/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelaidenow.com.au privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227212750id_/http%3A//www.adelaidenow.com.au/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Adelaide Now
 
@@ -71,4 +71,4 @@ Please contact our Privacy Officer to ask for access to your information or if y
 Privacy Officer  
 Darryl Hamilton   
 [privacy.officer@adv.newsltd.com.au](mailto:privacy.officer@adv.newsltd.com.au)  
-Box 2708 GPO Adelaide SA 5001
+Box 339 GPO Adelaide SA 5001
