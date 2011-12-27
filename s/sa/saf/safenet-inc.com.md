@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safenet-inc.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604070704id_/http%3A//www.safenet-inc.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safenet-inc.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227025147id_/http%3A//www.safenet-inc.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - SafeNet
 
