@@ -1,568 +1,1865 @@
-<!--The following is the downloaded HTML source of the allheart.com privacy policy that was archived on 2010-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222185920id_/http%3A//www.allheart.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allheart.com privacy policy that was archived on 2011-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227025817id_/http%3A//www.allheart.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><script src="http://lib.store.yahoo.net/lib/allheart/pdMobileRedirect.js"></script><title>AllHeart.com Privacy Statement</title><meta name="keywords" content="scrubs, nursing scrubs, medical scrubs, stethoscope, medical supplies, nursing uniforms and nursing shoes.">
-<meta name="verify-v1" content="67e/lJN+2NjFBXgPlUfr5Ef43BI8WWiAKnIoEKkFMqA=">
-<meta name="description" content="Shop allheart.com for scrubs, nursing scrubs, medical scrubs, stethoscope, medical supplies, nursing uniforms and nursing shoes.">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head><script type="text/javascript"> 
+ <!-- 
+ (new Image).src="http://store.yahoo.net/cgi-bin/refsd?e=http://www.allheart.com/privacy.html&h=www.allheart.com&v=1.0&dr=" + escape(document.referrer); 
+ --> 
+ </script>
+<script src="http://lib.store.yahoo.net/lib/allheart/pdMobileRedirect.js"></script><link rel="canonical" href="http://www.allheart.com/privacy.html"><title>Privacy Policy | allheart.com</title><meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<meta name="Subject" content="Shop allheart.com for scrubs, nursing scrubs, medical scrubs, stethoscope, medical supplies, nursing uniforms and nursing shoes.">
-<meta name="Classification" content="scrubs, nursing scrubs, medical scrubs, stethoscope, medical supplies, nursing uniforms and nursing shoes.">
-<meta http-equiv="imagetoolbar" content="no">
-<meta http-equiv="resource-type" content="document">
-<link rel="StyleSheet" href="http://manage.allheart.com/inventory/dialog.css" type="text/css">
-<script language="javascript" src="http://manage.allheart.com/inventory/jquery.js"></script>
-<script language="javascript" src="http://manage.allheart.com/inventory/improm.js"></script>
-<script language="javascript" src="http://manage.allheart.com/inventory/utility2.js"></script>
+    <link rel="shortcut icon" href="http://lib.store.yahoo.net/lib/allheart/favicon.ico">
+    
+    
+    <!-- BEGIN ALLHEART CSS -->
+    <link rel="stylesheet" type="text/css" media="print" href="http://manage.allheart.com/design/v3-final/css/print.css">
+    <link rel="stylesheet" type="text/css" media="screen,projection,tv" href="http://manage.allheart.com/design/v3-final/css/allheart.css">
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen,projection,tv" href="http://manage.allheart.com/design/v3-final/css/allheart-ie6.css" /><![endif]-->
+    <!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen,projection,tv" href="http://manage.allheart.com/design/v3-final/css/allheart-ie7.css" /><![endif]-->
+
+    
+    <!-- BEGIN ALLHEART JS -->
+    <script type="text/javascript" src="http://manage.allheart.com/design/v3-final/js/jquery.1.4.3.min.js"></script>
+    <script type="text/javascript" src="http://manage.allheart.com/design/v3-final/js/jquery.bt.min.js"></script>
+    <!--[if IE]><script type="text/javascript" src="http://manage.allheart.com/design/v3-final/js/other_libs/excanvas_r3/excanvas.js"></script><![endif]-->
 
 
+    <!-- BEGIN CELEBROS AUTO COMPLETE FILES -->
+    <script type="text/javascript" src="http://allheart-ac.celebros-analytics.com/AutoComplete/CelebrosAutoCompleteV2.js"></script>  
+
+
+     <!-- BEGIN EMAIL NEWSLETTER VALIDATION -->
 <script type="text/javascript">
-<!-- Begin
-var startTime=new Date();
+ 
 
-function currentTime(){
-  var a=Math.floor((new Date()-startTime)/100)/10;
-  if (a%1==0) a+=".0";
-  document.getElementById("endTime").innerHTML=a;
-}
+function emailCheck (emailStr) {
+			var emailPat=/^(.+)@(.+)$/;
+			var specialChars="\\(\\)<>@,;:\\\\\\\"\\.\\[\\]";
+			var validChars="\[^\\s" + specialChars + "\]";
+			var quotedUser="(\"[^\"]*\")";
+			var ipDomainPat=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/;
+			var atom=validChars + '+';
+			var word="(" + atom + "|" + quotedUser + ")";
+			var userPat=new RegExp("^" + word + "(\\." + word + ")*$");
+			var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$");
+			var matchArray=emailStr.match(emailPat);
+			if (matchArray==null) {
+				alert("Email address seems incorrect (check @ and .'s)");
+				return false;
+			}
+			var user=matchArray[1];
+			var domain=matchArray[2];
+			if (user.match(userPat)==null) {
+				alert("The username doesn't seem to be valid.");
+				return false;
+			}
+			var IPArray=domain.match(ipDomainPat);
+			if (IPArray!=null) {
+				  for (var i=1;i<=4;i++) {
+					if (IPArray[i]>255) {
+						alert("Destination IP address is invalid!");
+					return false;
+					}
+				}
+				return true;
+			}
+			var domainArray=domain.match(domainPat);
+			if (domainArray==null) {
+				alert("The domain name doesn't seem to be valid.");
+				return false;
+			}
+			var atomPat=new RegExp(atom,"g");
+			var domArr=domain.match(atomPat);
+			var len=domArr.length;
+			if ((domArr[domArr.length-1] != "info") &&
+				(domArr[domArr.length-1] != "name") &&
+				(domArr[domArr.length-1] != "arpa") &&
+				(domArr[domArr.length-1] != "coop") &&
+				(domArr[domArr.length-1] != "aero")) {
+					if (domArr[domArr.length-1].length<2 ||
+						domArr[domArr.length-1].length>3) {
+							alert("The address must end in a three-letter domain, or two letter country.");
+							return false;
+					}
+			}
+			if (len<2) {
+			   var errStr="This address is missing a hostname!";
+			   alert(errStr);return false;
+			}
+			return true;}
+			
+			 
 
-window.onload=function(){
-  ahinit();
-}
-
-// End -->
-</script>
-<!-- <LINK REL=StyleSheet HREF="http://lib.store.yahoo.net/lib/allheart/style.css" TYPE="text/css"> -->
-
-
-<link rel="StyleSheet" href="http://lib.store.yahoo.net/lib/allheart/allheart-cws-2009.css" type="text/css">
-
-<link rel="SHORTCUT ICON" href="http://lib.store.yahoo.net/lib/allheart/favicon.ico">
-
-<script type="text/JavaScript" src="http://lib.store.yahoo.net/lib/allheart/allheart-cws-2009-js.js"></script>
+			function UPTvalidateform(thisform)
+			{
+				if (emailCheck(thisform.email.value)){
+				email_param = $('input[name$="email"]').val();
+				thisform.action = 'emailsignup.html?email='+email_param+'&loc=bottom';
+					return false;
+				}else {return true;}
 
 
-<!-- <SCRIPT type="text/JavaScript" src="http://lib.store.yahoo.net/lib/allheart/javascripts.js"></SCRIPT> -->
-
-<!-- <script type="text/JavaScript" src="http://lib.store.yahoo.net/lib/allheart/querystring.js"></script> -->
-
-<!-- <script type="text/JavaScript" src="http://lib.store.yahoo.net/lib/allheart/mbox.js"> </script>-->
-
-
- <!--<script>
-var _csCaptureFormData=false;
-</script>-->
-
-
-
-<style>
-#logoright { padding: 0;}
-#expandlocal {margin-top:10px}
-.optionrowright {color:#b22222;font-weight:bold;font-family:arial;font-size:1.1em}
-</style>
+			}
+			
+ 
+			function UPTvalidateform2(thisform)
+			{
+				if (emailCheck(thisform.email.value)){
+				email_param = $('input[name$="email"]').val();
+				thisform.action = 'emailsignup.html?email='+email_param+'&loc=top';
+					return false;
+				}else {return true;}
 
 
-<script type="text/javascript" src="http://AllHeart-ac.celebros-analytics.com/AutoComplete/CelebrosAutoCompleteV2.js"></script> 
-<script type="text/javascript" src="http://search.allheart.com/scripts/acfix.js"></script>  
-<link type="text/css" rel="stylesheet" href="http://lib.store.yahoo.net/lib/allheart/AutoComplete.css">
-
-
-<script src="http://lib.store.yahoo.net/lib/allheart/swfobject.js" type="text/javascript"></script>
-
- <link type="text/css" href="http://manage.allheart.com/css/demo.css" rel="stylesheet">	
-
-
-<script type="text/javascript" src="http://manage.allheart.com/js/jquery-ui-1.8.5.custom.min.js"></script>
-<script type="text/javascript" src="http://manage.allheart.com/js/accordionformat.js"></script>
-
-<!--Start vidbox S-->
-<link rel="stylesheet" type="text/css" href="http://manage.allheart.com/design/v3-final/css/fancybox.min.css">
+			}
+			
+</script><meta name="description" content="We carry the world's largest selection of medical scrubs, uniforms, and nursing accessories. Satisfaction guaranteed with hassle-free returns and same-day shipping 866-947-5684"><script type="text/javascript" src="http://t.p.mybuys.com/js/mybuys3.js"></script><script type="text/javascript" src="http://t.p.mybuys.com/clients/ALLHEART/js/setup.js"></script></head>    <!-- BEGIN FEEDBACK TAB -->
+    <body><div id="feedback-tab" class="form-modal">
+    	<a href="http://services.allheart.com/FeedbackSystem/Feedback-Allheart.aspx"><span></span></a>
+    </div>
     <script type="text/javascript" src="http://manage.allheart.com/design/v3-final/js/fancybox.min.js"></script>
-<!--End vidbox E-->
-
-
-
-
- <script src="http://lib.store.yahoo.net/lib/allheart/pdMyAccountGlobalScript.js"></script>
-<script src="http://lib.store.yahoo.net/lib/allheart/pdRightPanelScript.js"></script>
-<link rel="stylesheet" type="text/css" href="http://lib.store.yahoo.net/lib/allheart/pdStyle.css"><link rel="stylesheet" type="text/css" href="http://lib.store.yahoo.net/lib/allheart/style.css">
-<script type="text/javascript" src="http://lib.store.yahoo.net/lib/allheart/displayRecentlyViewedItems.js"></script>
-<script type="text/javascript" src="http://lib.store.yahoo.net/lib/allheart/recentlyViewedItems.js"></script>
-<script type="text/javascript" src="http://lib.store.yahoo.net/lib/allheart/getStoreCode.js"></script>
-<script type="text/javascript" src="http://lib.store.yahoo.net/lib/allheart/serialize.js"></script>
-<script type="text/javascript">
-//**********************************************************
-//***** CODE COPYRIGHT PRACTICAL DATA, INC 2009 ************
-//***** - USE WITHOUT PERMISSION IS PROHIBITED *************
-//***********************************************************
-try { var product = product } catch(e) { product = null }
-var cookieDomain = getCurrentDomainName();
-var storeCode = getStoreCode();
-var productList = getProductList();
-if(product) productList = addProductToProductList(product, productList, 3);
-recordProductList(productList, storeCode, cookieDomain, "");
-</script>
-<!--<link rel="stylesheet" type="text/css" href="http://lib.store.yahoo.net/lib/allheart/allheart2008.css" />--><!--<script type="text/javascript" src="http://lib.store.yahoo.net/lib/allheart/allheart.js"></script>--></head><body bgcolor="ffffff" text="000000" link="ee3b3b" vlink="8b1a1a" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0"><script type="text/javascript">
-var onloadList = new Array();
-function doWindowOnload() {
-	for(var i=0;i<onloadList.length;i++) {
-		try {
-			onloadList[i]();
-		} catch(e) { 
-			//***IGNORE BAD SCRIPT 
-		}
-	}
-}
-function windowOnload(f){
-	if(typeof window.onload=='function') onloadList.push(window.onload);
-	window.onload = null;
-	onloadList.push(f);
-}
-</script><div class="pdHeader"><table border="0" cellspacing="0" cellpadding="0" width="985"><tbody><tr valign="top"><td><div id="header2008"><div id="logo20082" style="float:left;"><a href="index.html"><img border="0" src="http://lib.store.yahoo.net/lib/allheart/ahlogo2009hpb.png" width="315" height="50" alt="AllHeart.com"></a></div><div id="logoright"><table border="0" cellspacing="0" cellpadding="0" width="670"><tbody><tr valign="top"><td align="right"><div class="mboxDefault2">
-
-<!--Begin banner rotate script-->
-
-
-<script language="JavaScript">
-
-var how_many_ads = 1;
-
-var now = new Date()
-
-var sec = now.getSeconds()
-
-var ad = sec % how_many_ads;
-
-ad +=1;
-
-if (ad==1) {
-
-url="decl.html"
-
-alt="Clearance Sale!";
-
-banner="http://lib.store.yahoo.net/lib/allheart/12212010clearancetopbnnr.jpg";
-
-width="160";
-
-height="45";
-
-}
-
-document.write('<a href=\"' + url + '\" >')
-
-document.write('<img s');
-
-document.write('rc=\"' + banner + '\" width=')
-
-document.write(width + ' height=' + height + ' ');
-
-document.write('alt=\"' + alt + '\" border=0></a>');
-
-</script><a href="decl.html"><img src="http://lib.store.yahoo.net/lib/allheart/12212010clearancetopbnnr.jpg" width="160" height="45" alt="Clearance Sale!" border="0"></a>
-
-<script language="JavaScript">
-
-var how_many_ads = 1;
-
-var now = new Date()
-
-var sec = now.getSeconds()
-
-var ad = sec % how_many_ads;
-
-ad +=1;
-
-if (ad==1) {
-
-url="hoprtoja.html"
-
-alt="Christmas Prints!";
-
-banner="http://lib.store.yahoo.net/lib/allheart/12162010xmasprintstopbnnr.jpg";
-
-width="160";
-
-height="45";
-
-}
-
-document.write('<a href=\"' + url + '\" >')
-
-document.write('<img s');
-
-document.write('rc=\"' + banner + '\" width=')
-
-document.write(width + ' height=' + height + ' ');
-
-document.write('alt=\"' + alt + '\" border=0></a>');
-
-</script><a href="hoprtoja.html"><img src="http://lib.store.yahoo.net/lib/allheart/12162010xmasprintstopbnnr.jpg" width="160" height="45" alt="Christmas Prints!" border="0"></a>
-
+     <script type="text/javascript">
+     <!--
+     $(document).ready(function(){
  
+	$(".form-modal a").fancybox({
+		'type':'iframe',
+		'padding':0,
+		'autoScale':false,
+		'width':640,
+		'height':525,
+		'scrolling':'no',
+		'transitionIn':'elastic',
+		'transitionOut':'elastic'
+	});
+ 
+    });
+    //-->
+    </script>
 
 
-
-<!-- START SCANALERT CODE -->
-
-<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.allheart.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/survey/www.allheart.com/12.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
-
-<!-- END SCANALERT CODE -->
+    <!-- BEGIN WRAPPER -->
+    <div id="v3page">
 
 
+    	<!-- BEGIN HEADER -->
+        <div id="v3header">
+        
+        
+        	<!-- BEGIN LOGO BANNER / BUSINESS HOURS -->
+            <a href="http://www.allheart.com"><img id="v3logo" src="http://manage.allheart.com/design/v3/images/allheart.png" alt=""></a>
+            <div class="v3fix"><p id="v3store-info">866.947.5684 · M-F 8am-8pm CT · SAT 8am-4pm CT</p></div>
+            
+            
+            <!-- BEGIN TOP MENU -->
+            <ul id="v3top-menu">
+            	<li class="v3first"><a href="info.html">Customer Service</a></li>
+                <li><a href="http://manage.allheart.com/orderstatus/index.php">Order Status</a></li>
+                <li><a href="http://myaccount.allheart.com/">My Account</a></li>
+                <li><a href="http://myaccount.allheart.com/favorites.php">Wish List</a></li>
+			</ul>
+            
+            
+            <!-- BEGIN SEARCH AREA -->
+            <form method="get" action="http://search.allheart.com" id="v3search">
+				<fieldset>
+					<div class="v3search-fix">
+                    	<input name="catalog" type="hidden" value="allheart">
+                        <input name=".autodone" type="hidden" value="nsearch.html">
+                        <input id="v3search-field" name="query" maxlength="200" size="30" value="What are you looking for?" onfocus="if(this.value=='What are you looking for?') {this.value=''}" onblur="if(this.value=='') {this.value='What are you looking for?'}" autocomplete="off">
+					</div>
+                    <input type="image" id="v3search-submit" src="http://manage.allheart.com/design/v3-final/images/design/search.gif" value="">
+				</fieldset>
+			</form>
+            <script language="javascript">
+			<!--
+				CelebrosAutoComplete("AllHeart","v3search-field",onSelect);
+					function onSelect(aParameter){
+						if ((aParameter["SelectedURL"]!="")&&(aParameter["IsAutoComplete"])){
+							window.location = aParameter["SelectedURL"];
+						}
+						else{
+							window.location="http://search.allheart.com/?query="+escape(aParameter["SelectedQuery"]);	
+						}
+					}
+			//-->
+            </script>
+            
+            
+            <!-- BEGIN VIEW CART / CHECKOUT -->
+            <p id="v3cart-checkout">
+            	<a id="v3checkout" href="http://order.store.yahoo.net/allheart/cgi-bin/wg-order?ysco_key_store_id=allheart">Checkout</a>
+                <a href="http://order.store.yahoo.net/allheart/cgi-bin/wg-order?ysco_key_store_id=allheart" id="v3cart">View Cart</a>
+			</p>
+            
+            
+            <!-- BEGIN NAV MENU -->
+            <ul id="nav">
+            	<li class="first"><a href="nursingscrubs.html">Scrubs</a>
+                	<ul class="menu-box">
+                    	<li>
+                        	<ul class="img-links">
+                            	<li>
+                                	<a href="womens-scrub-sets.html?cmp=MegaNav_Scrubs_Pos1_WomensScrubSets">
+                                    	<img src="http://manage.allheart.com/design/v3-final/images/mega-nav/womens-scrub-sets.gif" alt="">
+                                        <p>Women’s Scrub Sets</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="womens-solid-scrub-tops.html?cmp=MegaNav_Scrubs_Pos2_WomensSolidTops">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/womens-solid-tops.gif" alt="">
+                                        <p>Women’s Solid Tops</p>
+                                    </a>
+                                </li>
+                                <li>
+                                	<a href="womens-print-scrub-tops.html?cmp=MegaNav_Scrubs_Pos3_WomensPrintTops">
+                                    	<img src="http://manage.allheart.com/design/v3-final/images/mega-nav/womens-print-tops.gif" alt="">
+                                        <p>Women’s Print Tops</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="womens-scrub-pants.html?cmp=MegaNav_Scrubs_Pos4_WomensPants">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/womens-pants.gif" alt="">
+                                        <p>Women’s Pants</p>
+                                    </a>
+                                </li>
+                                <li class="last">
+                                    <a href="mens-scrubs.html?cmp=MegaNav_Scrubs_Pos5_MensScrubs">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/mens-scrubs.gif" alt="">
+                                        <p>Men’s Scrubs</p>
+                                    </a>
+                                </li>
+                            </ul>
+                            <ul class="text-links">
+                            	<li class="text-title">Shop Scrubs</li>
+                                <li class="text-columns">
+                                    <ul>
+                                        <li class="section"><a href="scrub-sets.html">Scrub Sets</a></li>
+                                        <li class="section"><a href="womens-scrubs.html">Women’s Scrubs</a></li>
+                                        <li><a href="womens-scrub-sets.html">Scrub Sets</a></li>
+                                        <li><a href="womens-solid-scrub-tops.html">Solid Tops</a></li>
+                                        <li><a href="womens-solid-scrub-jackets.html">Solid Jackets</a></li>
+                                        <li><a href="womens-print-scrub-tops.html">Print Tops</a></li>
+                                        <li><a href="womens-print-scrub-jackets.html">Print Jackets</a></li>
+                                        <li><a href="womens-tshirts.html">T-Shirts</a></li>
+                                        <li><a href="womens-scrub-pants.html">Pants</a></li>
+                                        <li><a href="nurses-dresses.html">Dresses</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li><a href="maternity-scrubs.html">Maternity</a></li>
+                                        <li><a href="womens-petite-scrubs.html">Petite Size</a></li>
+                                        <li><a href="womens-tall-scrubs.html">Tall/Long Size</a></li>
+                                        <li><a href="womens-plus-size-scrubs.html">Plus Size</a></li>
+                                        <li><a href="womens-clinical-whites.html?c=White">Whites</a></li>
+                                        <li class="section"><a href="mens-scrubs.html">Men’s Scrubs</a></li>
+                                        <li><a href="mens-scrub-sets.html">Scrub Sets</a></li>
+                                        <li><a href="mens-scrub-solid-tops.html">Solid Tops</a></li>
+                                        <li><a href="mens-scrub-solid-jackets.html">Solid Jackets</a></li>
+                                        <li><a href="mens-scrub-pants.html">Pants</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li><a href="mens-short-scrubs.html">Short Size</a></li>
+                                        <li><a href="mens-tall-scrubs.html">Tall/Long Size</a></li>
+                                        <li><a href="mens-plus-size-scrubs.html">Plus Size</a></li>
+                                        <li><a href="mens-clinical-whites.html?c=White">Whites</a></li>
+                                        <li class="section"><a href="kids-scrubs.html">Kid’s Scrubs</a></li>
+                                        <li><a href="kids-scrub-sets.html">Scrub Sets</a></li>
+                                        <li><a href="kids-scrub-tops.html">Tops</a></li>
+                                        <li><a href="kids-scrub-pants.html">Pants</a></li>
+                                        <li><a href="kids-lab-coats.html">Lab Coats</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li class="section"><a href="petites-and-talls.html">Petite &amp; Tall</a></li>
+                                        <li class="section"><a href="plus-sizes.html">Plus Size</a></li>
+                                        <li class="section"><a href="scrub-caps-and-hats.html">Scrub Caps &amp; Hats</a></li>
+                                        <li class="section"><a href="seasonal-scrubs.html">Seasonal Scrubs</a></li>
+                                    </ul>
+                                    <ul class="last">
+                                        <li><a href="http://search.allheart.com/search.aspx?&amp;query=Scrubs&amp;Action=10&amp;FieldName=DaysOld&amp;NumericSort=True&amp;Ascending=True">New Arrivals</a></li>
+                                        <li><a href="http://search.allheart.com/search.aspx?&amp;query=Scrubs&amp;Action=10&amp;FieldName=ProductRankingCurrent&amp;NumericSort=True&amp;Ascending=True">Best Sellers</a></li>
+                                         <li><a href="http://search.allheart.com/search.aspx?query=scrubs&amp;LAP=0&amp;Action=2&amp;AnswerID=2843">Clearance</a></li>
+                                        <li><a href="embroidery.html">Embroidery &amp; Emblems</a></li>
+                                        <li><a href="http://search.allheart.com/?query=scrubs">View All</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <ul class="promo-links">
+                                <li class="promo-big">
+                                     <a></a>
+                                </li>
+                            </ul>
+                    	</li>
+                    </ul>
+				</li>
+                <li><a href="petites-and-talls.html">Petite &amp; Tall</a>
+                	<ul class="menu-box">
+                    	<li>
+                        	<ul class="img-links">
+                            	<li>
+                                	<a href="womens-petite-pants.html?cmp=MegaNav_PetitesTalls_Pos1_WomensPetPants">
+                                    	<img src="http://manage.allheart.com/design/v3-final/images/mega-nav/womens-petite-pants.gif" alt="">
+                                        <p>Women’s Petite Pants</p>
+                                    </a>
+                                </li>
+                                <li>
+                                	<a href="womens-tall-pants.html?cmp=MegaNav_PetitesTalls_Pos2_WomensTallPants">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/womens-tall-pants.gif" alt="">
+                                        <p>Women’s Tall Pants</p>
+                                    </a>
+                                </li>
+                                <li>
+                                	<a href="womens-tall-lab-coats.html?cmp=MegaNav_PetitesTalls_Pos3_WomensTallLabs">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/womens-tall-lab-coats.gif" alt="">
+                                        <p>Women’s Tall Lab Coats</p>
+                                    </a>
+                                </li>
+                                <li>
+                                	<a href="mens-tall-pants.html?cmp=MegaNav_PetitesTalls_Pos4_MensTallPants">
+                                    	<img src="http://manage.allheart.com/design/v3-final/images/mega-nav/mens-tall-pants.gif" alt="">
+                                        <p>Men’s Tall Pants</p>
+                                    </a>
+                                </li>
+                                <li class="last">
+                                	<a href="mens-tall-lab-coats.html??cmp=MegaNav_PetitesTalls_Pos5_MensTallLabs">
+                                    	<img src="http://manage.allheart.com/design/v3-final/images/mega-nav/mens-tall-lab-coats.gif" alt="">
+                                        <p>Men’s Tall Lab Coats</p>
+                                    </a>
+                                </li>
+                            </ul>
+                            <ul class="text-links">
+                            	<li class="text-title">Shop Petite &amp; Tall Scrubs</li>
+                                <li class="text-columns">
+                                    <ul>
+                                        <li class="section"><a href="womens-petite-and-tall.html">Women’s Scrubs</a></li>
+                                        <li><a href="womens-petite-pants.html">Petite Pants</a></li>
+                                        <li><a href="womens-tall-pants.html">Tall Pants</a></li>
+                                        <li><a href="womens-tall-lab-coats.html">Tall Lab Coats</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li class="section"><a href="mens-short-and-tall.html">Men’s Scrubs</a></li>
+                                        <li><a href="mens-short-pants.html">Short Pants</a></li>
+                                        <li><a href="mens-tall-pants.html">Tall Pants</a></li>
+                                        <li><a href="mens-tall-lab-coats.html">Tall Lab Coats</a></li>
+                                    </ul>
+                                    <ul></ul>
+                                    <ul class="last">
+                                    	<li class="section"><a href="petite-scrubs.html">Petite/Short</a></li>
+                                    	<li><a href="http://search.allheart.com/?Action=10&amp;FieldName=DaysOld&amp;NumericSort=True&amp;Ascending=True&amp;query=petite">New</a></li>
+                                        <li><a href="http://search.allheart.com/search.aspx?query=petite">Best Sellers</a></li>
+                                        <li><a href="http://search.allheart.com/?&amp;LAP=0&amp;Action=2&amp;AnswerID=2843&amp;query=petite">Clearance</a></li>
+                                        <li><a href="embroidery.html">Embroidery &amp; Emblems</a></li>
+                                        <li><a href="http://search.allheart.com/?query=petite">View All</a></li>
+                                    </ul>
+                                    <ul>
+                                    	<li class="section"><a href="tall-scrubs.html">Tall/Long</a></li>
+                                        <li><a href="http://search.allheart.com/?Action=10&amp;FieldName=DaysOld&amp;NumericSort=True&amp;Ascending=True&amp;query=tall">New</a></li>
+                                        <li><a href="http://search.allheart.com/search.aspx?query=tall">Best Sellers</a></li>
+                                        <li><a href="http://search.allheart.com/?&amp;LAP=0&amp;Action=2&amp;AnswerID=2843&amp;query=tall">Clearance</a></li>
+                                        <li><a href="embroidery.html">Embroidery &amp; Emblems</a></li>
+                                        <li><a href="http://search.allheart.com/?query=tall">View All</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <ul class="promo-links">
+                                <li class="promo-big">
+                                     <a></a>
+                                </li>
+                            </ul>
+						</li>
+                    </ul>
+                </li>
+                <li><a href="plus-sizes.html">Plus Size</a>
+					<ul class="menu-box">
+                    	<li>
+                            <ul class="img-links">
+                                <li>
+                                    <a href="womens-plus-size-scrub-sets.html?cmp=MegaNav_PlusSize_Pos1_WomensScrubSets">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/womens-plus-size-scrub-sets.gif" alt="">
+                                        <p>Women’s Plus Size Scrub Sets</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="womens-plus-size-solid-tops.html?cmp=MegaNav_PlusSize_Pos2_WomensSolidTops">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/womens-plus-size-solid-tops.gif" alt="">
+                                        <p>Women’s Plus Size Solid Tops</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="womens-plus-size-pants.html?cmp=MegaNav_PlusSize_Pos3_WomensPants">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/womens-plus-size-pants.gif" alt="">
+                                        <p>Women’s Plus Size Pants</p>
+                                        
+                                    </a>
+                                    
+                                </li>
+                                <li>
+                                    <a href="womens-plus-size-lab-coats.html?cmp=MegaNav_PlusSize_Pos4_WomensLabs">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/womens-plus-size-lab-coats.gif" alt="">
+                                        <p>Women’s Plus Size Lab Coats</p>
 
+                                    </a>
+                                </li>
+                                <li class="last">
+                                    <a href="mens-plus-size.html?cmp=MegaNav_PlusSize_Pos5_MensPlusSize">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/mens-plus-size.gif" alt="">
+                                        <p>Men’s Plus Size</p>
+                                    </a>
+                                </li>
+                            </ul>
+                        	<ul class="text-links">
+                            	<li class="text-title">Shop Plus Size Scrubs</li>
+                                <li class="text-columns">
+                                    <ul>
+                                        <li class="section"><a href="womens-plus-size.html">Women’s Scrubs</a></li>
+                                        <li><a href="womens-plus-size-scrub-sets.html">Scrub Sets</a></li>
+                                        <li><a href="womens-plus-size-solid-tops.html">Solid Tops</a></li>
+                                        <li><a href="womens-plus-size-solid-jackets.html">Solid Jackets</a></li>
+                                        <li><a href="womens-plus-size-print-tops.html">Print Tops</a></li>
+                                        <li><a href="womens-plus-size-print-jackets.html">Print Jackets</a></li>
+                                    </ul>
+                                    <ul>
+                                    	<li>&nbsp;</li>
+                                        <li><a href="womens-plus-size-pants.html">Pants</a></li>
+                                        <li><a href="womens-plus-size-maternity.html">Maternity</a></li>
+                                        <li><a href="womens-plus-size-lab-coats.html">Lab Coats</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li class="section"><a href="mens-plus-size.html">Men’s Scrubs</a></li>
+                                        <li><a href="mens-plus-size-scrub-sets.html">Scrub Sets</a></li>
+                                        <li><a href="mens-plus-size-solid-tops.html">Solid Tops</a></li>
+                                        <li><a href="mens-plus-size-solid-jackets.html">Solid Jackets</a></li>
+                                        <li><a href="mens-plus-size-pants.html">Pants</a></li>
+                                        <li><a href="mens-plus-size-lab-coats.html">Lab Coats</a></li>
+                                    </ul>
+                                    <ul></ul>
+                                    <ul class="last">
+                                        <li><a href="http://search.allheart.com/?Action=10&amp;FieldName=DaysOld&amp;NumericSort=True&amp;Ascending=True&amp;query=catplus">New Arrivals</a></li>
+                                        <li><a href="http://search.allheart.com/search.aspx?query=catplus">Best Sellers</a></li>
+                                        <li><a href="http://search.allheart.com/?&amp;LAP=0&amp;Action=2&amp;AnswerID=2843&amp;query=catplus">Clearance</a></li>
+                                        <li><a href="embroidery.html">Embroidery &amp; Emblems</a></li>
+                                        <li><a href="http://search.allheart.com/?query=catplus">View All</a></li>
+                                    </ul>
+                                </li>
+							</ul>
+                            <ul class="promo-links">
+                                <li class="promo-big">
+                                     <a></a>
+                                </li>
+                            </ul>
+                    	</li>
+                    </ul>
+				</li>
+                <li><a href="labcoat.html">Lab Coats</a>
+					<ul class="menu-box">
+                    	<li>
+                            <ul class="img-links">
+                                <li>
+                                    <a href="womens-lab-coats.html?cmp=MegaNav_LabCoats_Pos1_WomensLabs">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/womens-lab-coats.gif" alt="">
+                                        <p>Women’s Lab Coats</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="mens-lab-coats.html?cmp=MegaNav_LabCoats_Pos2_MensLabs">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/mens-lab-coats.gif" alt="">
+                                        <p>Men’s Lab Coats</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="unisex-lab-coats.html?cmp=MegaNav_LabCoats_Pos3_UnisexLabs">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/unisex-lab-coats.gif" alt="">
+                                        <p>Unisex Lab Coats</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="tall-and-long-lab-coats.html?cmp=MegaNav_LabCoats_Pos4_TallLongLabs">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/tall-lab-coats.gif" alt="">
+                                        <p>Tall/Long Lab Coats</p>
+                                    </a>
+                                </li>
+                                <li class="last">
+                                    <a href="plus-size-lab-coats.html?cmp=MegaNav_LabCoats_Pos5_PlusSizeLabs">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/plus-size-lab-coats.gif" alt="">
+                                        <p>Plus Size Lab Coats</p>
+                                    </a>
+                                </li>
+                            </ul>
+                        	<ul class="text-links">
+                            	<li class="text-title">Shop Lab Coats</li>
+                                <li class="text-columns">
+                                    <ul>
+                                        <li class="section"><a href="womens-lab-coats.html">Women’s Lab Coats</a></li>
+                                        <li class="section"><a href="mens-lab-coats.html">Men’s Lab Coats</a></li>
+                                        <li class="section"><a href="unisex-lab-coats.html">Unisex Lab Coats</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li class="section"><a href="tall-and-long-lab-coats.html">Tall/Long Lab Coats</a></li>
+                                        <li class="section"><a href="plus-size-lab-coats.html">Plus Size Lab Coats</a></li>
+                                    </ul>
+                                    <ul></ul>
+                                    <ul></ul>
+                                    <ul class="last">
+                                        <li><a href="http://search.allheart.com/?Action=10&amp;FieldName=DaysOld&amp;NumericSort=True&amp;Ascending=True&amp;query=labcoats">New Arrivals</a></li>
+                                        <li><a href="http://search.allheart.com/search.aspx?query=labcoats">Best Sellers</a></li>
+                                        <li><a href="clearance-lab-coats.html">Clearance</a></li>
+                                        <li><a href="embroidery.html">Embroidery &amp; Emblems</a></li>
+                                        <li><a href="http://search.allheart.com/?query=labcoats">View All</a></li>
+                                    </ul>
+                                </li>
+							</ul>
+                            <ul class="promo-links">
+                                <li class="promo-big">
+                                     <a></a>
+                                </li>
+                            </ul>
+                    	</li>
+                    </ul>
+				</li>
+                <li><a href="shoes.html">Shoes</a>
+					<ul class="menu-box">
+                    	<li>
+                            <ul class="img-links">
+                                <li>
+                                    <a href="womens-shoes.html?cmp=MegaNav_Shoes_Pos1_WomensShoes">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/womens-shoes.gif" alt="">
+                                        <p>Women’s Shoes</p>
+                                    </a>
+                                </li>
+                                <li>
+                                	<a href="mens-shoes.html?cmp=MegaNav_Shoes_Pos2_MensShoes">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/mens-shoes.gif" alt="">
+                                        <p>Men’s Shoes</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="clogs.html?cmp=MegaNav_Shoes_Pos3_Clogs">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/nursing-clogs.gif" alt="">
+                                        <p>Nursing Clogs</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="socks.html?cmp=MegaNav_Shoes_Pos4_SocksHosiery">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/socks.gif" alt="">
+                                        <p>Socks &amp; Hosiery</p>
+                                    </a>
+                                </li>
+                                <li class="last">
+                                    <a href="shoecleaner.html?cmp=MegaNav_Shoes_Pos5_Accessories">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/shoe-accessories.gif" alt="">
+                                        <p>Accessories</p>
+                                    </a>
+                                </li>
+                            </ul>
+                        	<ul class="text-links">
+                            	<li class="text-title">Shop Shoes</li>
+                                <li class="text-columns">
+                                    <ul>
+                                        <li class="section"><a href="womens-shoes.html">Women’s Shoes</a></li>
+                                        <li class="section"><a href="mens-shoes.html">Men’s Shoes</a></li>
+                                        <li class="section"><a href="clogs.html">Nursing Clogs</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li class="section"><a href="socks.html">Socks &amp; Hosiery</a></li>
+                                        <li class="section"><a href="shoecleaner.html">Shoe Accessories</a></li>
+									</ul>
+                                    <ul></ul>
+                                    <ul></ul>
+                                    <ul class="last">
+                                        <li><a href="http://search.allheart.com/?Action=10&amp;FieldName=DaysOld&amp;NumericSort=True&amp;Ascending=True&amp;query=shoes">New Arrivals</a></li>
+                                        <li><a href="http://search.allheart.com/search.aspx?query=shoes">Best Sellers</a></li>
+                                        <li><a href="http://search.allheart.com/?&amp;LAP=0&amp;Action=2&amp;AnswerID=2843&amp;query=shoes">Clearance</a></li>
+                                        <li><a href="http://search.allheart.com/search.aspx?query=shoes">View All</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <ul class="promo-links">
+                                <li class="promo-big">
+                                     <a></a>
+                                </li>
+                            </ul>
+						</li>
+                    </ul>
+                </li>
+                <li><a href="stethoscopes.html">Stethoscopes</a>
+					<ul class="menu-box">
+                    	<li>
+                            <ul class="img-links">
+                                <li>
+                                    <a href="littmann-stethoscopes.html?cmp=MegaNav_Stethoscopes_Pos1_Littmann">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/littmann.gif" alt="">
+                                        <p>Littmann Stethoscopes</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="single-head-stethoscopes.html?cmp=MegaNav_Stethoscopes_Pos2_SingleHead">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/single-head-stethoscopes.gif" alt="">
+                                        <p>Single Head Stethoscopes</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="dual-head-stethoscopes.html?cmp=MegaNav_Stethoscopes_Pos3_DualHead">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/dual-head-stethoscopes.gif" alt="">
+                                        <p>Dual Head Stethoscopes</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="cardiology-stethoscopes.html?cmp=MegaNav_Stethoscopes_Pos4_Cardiology">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/cardiology-stethoscopes.gif" alt="">
+                                        <p>Cardiology Stethoscopes</p>
+                                    </a>
+                                </li>
+                                <li class="last">
+                                    <a href="electronic-stethoscopes.html?cmp=MegaNav_Stethoscopes_Pos5_Electronic">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/electronic-stethoscopes.gif" alt="">
+                                        <p>Electronic Stethoscopes</p>
+                                    </a>
+                                </li>
+                            </ul>
+                        	<ul class="text-links">
+                            	<li class="text-title">Shop Stethoscopes</li>
+                                <li class="text-columns">
+                                    <ul>
+                                        <li class="section"><a href="littmann-stethoscopes.html">Littmann</a></li>
+                                        <li class="section"><a href="single-head-stethoscopes.html">Single Head</a></li>
+                                        <li class="section"><a href="dual-head-stethoscopes.html">Dual Head</a></li>
+                                        <li class="section"><a href="triple-head-stethoscopes.html">Triple Head</a></li>
+                                        <li class="section"><a href="acrylic-stethoscopes.html">Acrylic</a></li>
+                                        <li class="section"><a href="cardiology-stethoscopes.html">Cardiology</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li class="section"><a href="chrono-stethoscopes.html">Chrono/Time</a></li>
+                                        <li class="section"><a href="electronic-stethoscopes.html">Electronic</a></li>
+                                        <li class="section"><a href="hearing-impaired-stethoscopes.html">Hearing Impaired</a></li>
+                                        <li class="section"><a href="fetal-stethoscopes.html">Fetal</a></li>
+                                    	<li class="section"><a href="infant-stethoscopes.html">Infant</a></li>
+                                        <li class="section"><a href="pediatric-stethoscopes.html">Pediatric</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li class="section"><a href="rappaport-stethoscopes.html">Rappaport/Sprague</a></li>
+                                        <li class="section"><a href="teaching-stethoscopes.html">Teaching</a></li>
+                                        <li class="section"><a href="veterinary-stethoscopes.html">Veterinary</a></li>
+                                        <li class="section"><a href="stethoscope-parts-and-accessories.html">Parts &amp; Accessories</a></li>
+                                    </ul>
+                                    <ul></ul>
+                                    <ul class="last">
+                                        <li><a href="http://search.allheart.com/?Action=10&amp;FieldName=DaysOld&amp;NumericSort=True&amp;Ascending=True&amp;query=stethoscopes">New Arrivals</a></li>
+                                        <li><a href="http://search.allheart.com/search.aspx?query=stethoscopes">Best Sellers</a></li>
+                                        <li><a href="http://search.allheart.com/?&amp;LAP=0&amp;Action=2&amp;AnswerID=2843&amp;query=stethoscopes">Clearance</a></li>
+                                        <li><a href="engraving.html">Personalization &amp; Engraving</a></li>
+                                        <li><a href="http://search.allheart.com/search.aspx?query=stethoscopes">View All</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <ul class="promo-links">
+                                <li class="promo-big">
+                                     <a></a>
+                                </li>
+                            </ul>
+						</li>
+                    </ul>
+                </li>
+                <li><a href="medical-devices.html">Medical Devices</a>
+					<ul class="menu-box">
+                    	<li>
+                            <ul class="img-links">
+                                <li>
+                                    <a href="blood-pressure-cuffs.html?cmp=MegaNav_Devices_Pos1_BloodPressure">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/blood-pressure-devices.gif" alt="">
+                                        <p>Blood Pressure Devices</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="nurse-kits.html?cmp=MegaNav_Devices_Pos2_NurseKits">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/nurse-kits.gif" alt="">
+                                        <p>Nurse Kits</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="otoscopes.html?cmp=MegaNav_Devices_Pos3_Otoscopes">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/otoscopes.gif" alt="">
+                                        <p>Otoscopes</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="scissors.html?cmp=MegaNav_Devices_Pos4_Scissors">
+                                    	<img src="http://manage.allheart.com/design/v3-final/images/mega-nav/scissors.gif" alt="">
+                                        <p>Scissors</p>
+                                    </a>
+                                </li>
+                                <li class="last">
+                                    <a href="thermometers.html?cmp=MegaNav_Devices_Pos5_Thermometers">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/thermometers.gif" alt="">
+                                        <p>Thermometers</p>
+                                    </a>
+                                </li>
+                            </ul>
+                        	<ul class="text-links">
+                            	<li class="text-title">Shop Medical Devices</li>
+                                <li class="text-columns">
+                                    <ul>
+                                        <li class="section"><a href="blood-pressure-cuffs.html">Blood Pressure Devices</a></li>
+                                        <li class="section"><a href="clinical-supplies.html">Clinical Supplies</a></li>
+                                        <li class="section"><a href="clip-boards.html">Clip Boards</a></li>
+                                        <li class="section"><a href="cpr.html">CPR</a></li>
+                                        <li class="section"><a href="diagnostic-tools.html">Diagnostic Tools</a></li>
+                                        <li class="section"><a href="dissecting-kits.html">Dissecting Kits</a></li>
+									</ul>
+                                    <ul>
+                                        <li class="section"><a href="emt-supplies.html">EMT/EMS Holsters</a></li>
+                                        <li class="section"><a href="forceps.html">Forceps &amp; Clamps</a></li>
+                                        <li class="section"><a href="gait-transfer-belts.html">Gait Transfer Belts</a></li>
+                                        <li class="section"><a href="measuring-devices.html">Measuring Devices</a></li>
+                                        <li class="section"><a href="nurse-kits.html">Nurse Kits</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li class="section"><a href="opthalmoscopes.html">Ophthalmoscopes</a></li>
+                                        <li class="section"><a href="otoscopes.html">Otoscopes</a></li>
+                                        <li class="section"><a href="medical-device-parts-and-accessories.html">Parts &amp; Accessories</a></li>
+                                        <li class="section"><a href="protective-eyewear.html">Protective Eyewear</a></li>
+                                        <li class="section"><a href="pulse-oximeters.html">Pulse Oximeters</a></li>
+									</ul>
+                                    <ul>
+                                        <li class="section"><a href="scissors.html">Scissors</a></li>
+                                        <li class="section"><a href="thermometers.html">Thermometers</a></li>
+                                    </ul>
+                                    <ul class="last">
+                                        <li><a href="http://search.allheart.com/?Action=2&amp;AnswerID=814">New Arrivals</a></li>
+                                        <li><a href="http://search.allheart.com/?LAP=0&amp;Action=2&amp;AnswerID=814">Best Sellers</a></li>
+                                        <li><a href="http://search.allheart.com/search.aspx?&amp;Query=clearance&amp;Action=2&amp;AnswerID=814">Clearance</a></li>
+                                        <li><a href="engraving.html">Personalization &amp; Engraving</a></li>
+                                        <li><a href="http://search.allheart.com/?Action=2&amp;AnswerID=814">View All</a></li>
+                                    </ul>
+                                </li>
+							</ul>
+                            <ul class="promo-links">
+                                <li class="promo-big">
+                                     <a></a>
+                                </li>
+                            </ul>
+                    	</li>
+                    </ul>
+				</li>
+                <li><a href="medical-gifts.html">Gifts &amp; Accessories</a>
+					<ul class="menu-box gifts">
+                    	<li>
+                            <ul class="img-links">
+                                <li>
+                                    <a href="gift-certificates.html?cmp=MegaNav_Gifts_Pos1_GiftCerts">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/gift-certificates-holiday.gif" alt="">
+                                        <p>Gift Certificates</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="breast-cancer-awareness.html?cmp=MegaNav_Gifts_Pos2_BreastCancerAwareness">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/breast-cancer-awareness.gif" alt="">
+                                        <p>Breast Cancer Awareness</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="medical-bags-doctors-bags.html?cmp=MegaNav_Gifts_Pos3_MedBags">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/medical-bags.gif" alt="">
+                                        <p>Medical Bags &amp; Totes</p>
+                                    </a>
+                                </li>
+                                <li>
+                                	<a href="organizers.html?cmp=MegaNav_Gifts_Pos4_Organizers">
+                                    	<img src="http://manage.allheart.com/design/v3-final/images/mega-nav/organizers.gif" alt="">
+                                        <p>Organizers</p>
+                                    </a>
+                                </li>
+                                <li class="last">
+                                	<a href="watches.html?cmp=MegaNav_Gifts_Pos5_Watches">
+                                    	<img src="http://manage.allheart.com/design/v3-final/images/mega-nav/watches.gif" alt="">
+                                        <p>Watches</p>
+                                    </a>
+                                </li>
+                            </ul>
+                            <ul class="text-links">
+                            	<li class="text-title">Shop Gifts &amp; Accessories</li>
+                                <li class="text-columns">
+                                	<ul>
+                                        <li class="section"><a href="gift-certificates.html">Gift Certificates</a></li>
+                                        <li class="section"><a href="gifts.html">Gifts</a></li>
+                                        <li><a href="breast-cancer-awareness.html">Breast Cancer Awareness</a></li>
+                                        <li><a href="graduation-gifts.html">Graduation</a></li>
+                                        <li><a href="keychain-and-badge-holders.html">Keychains, Lanyards, Badge Holders</a></li>
+                                    	<li><a href="mugs.html">Mugs</a></li>
+				    </ul>
+                                    <ul>
+                                        <li><a href="pens-and-penlights.html">Pens &amp; Penlights</a></li>
+                                        <li><a href="pins-and-jewelry.html">Pins &amp; Jewelry</a></li>
+                                        <li><a href="stuffed-animals.html">Plush Toys</a></li>
+                                        <li><a href="tshirts.html">T-Shirts</a></li>
+                                        <li><a href="watches.html">Watches</a></li>
+                                        <li class="section"><a href="accessories.html">Accessories</a></li>
+                                        <li><a href="anatomical-charts-and-models.html">Anatomical Models &amp; Charts</a></li>
+                                    </ul>
+                                    <ul>
+                                    	<li><a href="medical-software.html">Educational Software</a></li>
+                                        <li><a href="medical-bags-doctors-bags.html">Medical Bags &amp; Totes</a></li>
+                                        <li><a href="organizers.html">Organizers</a></li>
+                                        <li><a href="badges-and-pins.html">Badges &amp; Pins</a></li>
+									</ul>
+                                    <ul></ul>
+                                    <ul class="last">
+                                    	<li><a href="http://search.allheart.com/?Action=10&amp;FieldName=DaysOld&amp;NumericSort=True&amp;Ascending=True&amp;query=accessories">New Arrivals</a></li>
+                                        <li><a href="http://search.allheart.com/search.aspx?query=accessories">Best Sellers</a></li>
+                                        <li><a href="http://search.allheart.com/search.aspx?&amp;LAP=0&amp;Action=2&amp;AnswerID=697&amp;query=clearance">Clearance</a></li>
+                                        <li><a href="http://search.allheart.com/search.aspx?query=accessories">View All</a></li>
+                                    </ul>
+                                </li>
+							</ul>
+                            <ul class="promo-links">
+                                <li class="promo-big">
+                                     <a></a>
+                                </li>
+                            </ul>
+                    	</li>
+                    </ul>					
+				</li>
+                <li class="clearance"><a href="sale.html">Clearance</a>
+                	<ul class="menu-box clearance">
+                    	<li>
+                        	<ul class="img-links">
+                            	<li>
+                                	<a href="clearance-scrub-sets.html?cmp=MegaNav_Clearance_Pos1_ScrubSets">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/clearance-scrub-sets.gif" alt="">
+                                        <p>Clearance Scrub Sets</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="closeout-solid-scrub-tops.html?cmp=MegaNav_Clearance_Pos2_SolidTops">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/clearance-solid-tops.gif" alt="">
+                                        <p>Clearance Solid Tops</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="clearance-print-tops.html?cmp=MegaNav_Clearance_Pos3_PrintTops">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/clearance-print-tops.gif" alt="">
+                                        <p>Clearance Print Tops</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="clearance-pants.html?cmp=MegaNav_Clearance_Pos4_Pants">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/clearance-pants.gif" alt="">
+                                        <p>Clearance Pants</p>
+                                    </a>
+                                </li>
+                                <li class="last">
+                                    <a href="clearance-shoes.html??cmp=MegaNav_Clearance_Pos5_Shoes">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/clearance-shoes.gif" alt="">
+                                        <p>Clearance Shoes</p>
+                                    </a>
+                                </li>
+                            </ul>
+                            <ul class="text-links">
+                            	<li class="text-title">Shop Clearance</li>
+                                <li class="text-columns">
+                                    <ul>
+                                        <li class="section"><a href="clearance-scrub-sets.html">Scrub Sets</a></li>
+                                        <li class="section"><a href="closeout-solid-scrub-tops.html">Solid Tops</a></li>
+                                        <li class="section"><a href="closeout-solid-scrub-jackets.html">Solid Jackets</a></li>
+                                        <li class="section"><a href="clearance-print-tops.html">Print Tops</a></li>
+                                        <li class="section"><a href="clearance-print-jackets.html">Print Jackets</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li class="section"><a href="clearance-shirts-and-knits.html">T-shirts</a></li>
+                                        <li class="section"><a href="clearance-pants.html">Pants</a></li>
+                                        <li class="section"><a href="clearance-dresses.html">Dresses</a></li>
+                                        <li class="section"><a href="clearance-lab-coats.html">Lab Coats</a></li>
+                                        <li class="section"><a href="clearance-shoes.html">Shoes</a></li>
+                                    </ul>
+                                    <ul>
+					<li class="section"><a href="clearance-socks-and-hosiery.html">Socks &amp; Hosiery</a></li>
+                                        <li class="section"><a href="clearance-diagnostics.html">Diagnostics</a></li>
+                                        <!-- <li class="section"><a href="clearance-stethoscopes.html">Stethoscopes</a></li> -->
+                                        <li class="section"><a href="clearance-gifts.html">Gifts &amp; Accessories</a></li>
+                                    </ul>
+                                    <ul></ul>
+                                    <ul class="last">
+                                        <li class="section"><a href="http://search.allheart.com/search.aspx?query=clearance">View All</a></li>
+                                    </ul>
+                                </li>
+                        	</ul>
+                            <ul class="promo-links">
+                                <li class="promo-big">
+                                     <a></a>
+                                </li>
+                            </ul>
+                        </li>
+					</ul>
+				</li>
+                <li><a href="group-sale-discounts.html">Group Sales</a>
+					<ul class="menu-box groupsales">
+                    	<li>
+                            <ul class="img-links">
+                                <li>
+                                    <a href="bulk-scrub-sets.html?_s_icmp=GroupSales_Pos1_ScrubSets">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/bulk-scrub-sets.gif" alt="">
+                                        <p>Bulk Scrub Sets</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="bulk-solid-tops.html?_s_icmp=GroupSales_Pos2_SolidTops">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/bulk-solid-tops.gif" alt="">
+                                        <p>Bulk Solid Tops</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="bulk-pants.html?_s_icmp=GroupSales_Pos3_Pants">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/bulk-pants.gif" alt="">
+                                        <p>Bulk Pants</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="bulk-lab-coats.html?_s_icmp=GroupSales_Pos4_LabCoats">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/bulk-lab-coats.gif" alt="">
+                                        <p>Bulk Lab Coats</p>
+                                    </a>
+                                </li>
+                                <li class="last">
+                                    <a href="bulk-medical-diagnostics.html?_s_icmp=GroupSales_Pos5_Diagnostics">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/bulk-diagnostics.gif" alt="">
+                                        <p>Bulk Diagnostics</p>
+                                    </a>
+                                </li>
+                            </ul>
+                            <ul class="text-links">
+                            	<li class="text-title">Shop Group Sales</li>
+                                <li class="text-columns">
+                                    <ul>
+                                        <li class="section"><a href="bulk-scrub-sets.html">Bulk Scrub Sets</a></li>
+                                        <li class="section"><a href="bulk-solid-tops.html">Bulk Solid Tops</a></li>
+                                        <li class="section"><a href="bulk-solid-jackets.html">Bulk Solid Jackets</a></li>
+                                        <li class="section"><a href="bulk-pants.html">Bulk Pants</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li class="section"><a href="bulk-lab-coats.html">Bulk Lab Coats</a></li>
+                                        <li class="section"><a href="bulk-scrub-caps-and-hats.html">Bulk Scrub Caps &amp; Hats</a></li>
+                                        <li class="section"><a href="bulk-medical-diagnostics.html">Bulk Diagnostics</a></li>
+                                    </ul>
+                                    <ul></ul>
+                                    <ul></ul>
+                                    <ul class="last">
+                                        <li><a href="http://search.allheart.com/?query=bulk">View All</a></li>
+                                    </ul>
+                                </li>
+							</ul>
+                            <ul class="promo-links">
+                                <li class="promo-big">
+                                     <a></a>
+                                </li>
+                            </ul>
+                    	</li>
+                    </ul>
+		</li>
+                <li><a href="brands.html">Brands</a>
+                	<ul class="menu-box brands">
+                    	<li>
+                            <ul class="img-links">
+                                <li>
+                                    <a href="littmann-stethoscopes.html?cmp=MegaNav_Brands_Pos1_Littmann">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/littmann.gif" alt="">
+                                        <p>Littmann</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="cherokee-workwear.html?cmp=MegaNav_Brands_Pos2_Workwear">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/cherokee-workwear.gif" alt="">
+                                        <p>Cherokee Workwear</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="dickies-medical-uniforms.html?cmp=MegaNav_Brands_Pos3_Dickies">
+                                    	<img src="http://manage.allheart.com/design/v3-final/images/mega-nav/dickies.gif" alt="">
+                                        <p>Dickies</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="koiscrubs.html?cmp=MegaNav_Brands_Pos4_Koi">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/koi.gif" alt="">
+                                        <p>Koi</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="landau-uniforms.html?cmp=MegaNav_Brands_Pos5_Landau">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/landau.gif" alt="">
+                                        <p>Landau</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="urbanescrubs.html?cmp=MegaNav_Brands_Pos6_Urbane">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/urbane.gif" alt="">
+                                        <p>Urbane</p>
+                                    </a>
+                                </li>
+                                <li class="last">
+                                    <a href="white-swan-uniforms.html?cmp=MegaNav_Brands_Pos7_WhiteSwan">
+                                        <img src="http://manage.allheart.com/design/v3-final/images/mega-nav/white-swan.gif" alt="">
+                                        <p>White Swan</p>
+                                    </a>
+                                </li>
+                            </ul>
+                            <ul class="text-links">
+                            	<li class="text-title">Shop by Brand</li>
+                                <li class="text-columns">
+                                    <ul>
+                                        <li class="section"><a href="apparel-brands.html">Apparel</a></li>
+                                        <li><a href="allheart-scrubs-uniforms.html">allheart</a></li>
+                                        <li><a href="adarmedical.html">Adar</a></li>
+                                        <li><a href="baby-phat-scrubs.html">Baby Phat</a></li>
+                                        <li><a href="barco-uniforms.html">Barco Uniforms</a></li>
+                                        <!-- <li><a href="bill-blass-healthcare.html">Bill Blass Healthcare</a></li> -->
+                                        <li><a href="carhartt-scrubs.html">Carhartt</a></li>
+                                        <li><a href="cherokee-uniforms.html">Cherokee Uniforms</a></li>
+                                        <li><a href="cherokee-flexibles.html">Cherokee Flexibles</a></li>
+                                        <li><a href="ckstudio.html">Cherokee Studio</a></li>
+										<li><a href="cherokee-workwear.html">Cherokee Workwear</a></li>
+                                        <li><a href="crayola.html">Crayola Threads by Barco</a></li>
+                                        <li><a href="crocs-medical-apparel.html">Crocs</a></li>
+                                        <li><a href="dansko-apparel.html">Dansko</a></li>
+                                        <li><a href="dickies-enzyme-washed.html">Dickies Enzyme Washed</a></li>
+                                        <li><a href="dieds.html">Dickies Everyday Scrubs</a></li>
+                                        <li><a href="dickies-flex-scrubs.html">Dickies Generation Flex</a></li>
+                                        <li><a href="hipflip.html">Dickies Hip Flip</a></li>
+                                        <li><a href="dickies-medical-uniforms.html">Dickies Medical Uniforms</a></li>
+                                        <li><a href="dickies-natural-elements.html">Dickies Natural Elements</a></li>							                        <li><a href="dickies-denim.html">Dickies New Blue Denim</a></li>
+                                        <li><a href="disand.html">Dickies Sandwashed Classics</a></li>
+                                        <li><a href="disney.html">Disney</a></li>
+                                    </ul>
+                                    <ul>
+                                    	<li>&nbsp;</li>
+                                        <!-- <li><a href="donoharm.html">Do No Harm</a></li> -->
+                                        <li><a href="ecko-scrubs.html">Ecko</a></li>
+                                        <li><a href="fundamentals.html">Fundamentals</a></li>
+                                        <li><a href="wsgear-fusion-scrubs.html">Fusion by White Swan</a></li>
+                                        <li><a href="greys-anatomy-scrubs.html">Grey’s Anatomy</a></li>
+                                        <li><a href="healing-hands-scrubs.html">Healing Hands</a></li>
+                                        <li><a href="icu-scrubs.html">ICU by Barco</a></li>
+                                        <li><a href="iguanamed.html">IguanaMed</a></li>
+                                        <li><a href="jasco.html">Jasco by allheart</a></li>
+                                        <li><a href="jockey-scrubs.html">Jockey</a></li>
+                                        <!-- <li><a href="kathryn-hiegl-scrubs.html">Katherine Heigl</a></li> -->
+                                        <li><a href="koiscrubs.html">Koi</a></li>
+                                        <li><a href="la-imprints.html">L.A. Imprints</a></li>
+										<li><a href="larose.html">L.A. Rose</a></li>
+                                        <li><a href="landau-uniforms.html">Landau</a></li>
+                                        <!-- <li><a href="loft-scrubs.html">Loft</a></li> -->
+                                        <li><a href="mary-engelbreit-scrubs.html">Mary Engelbreit</a></li>
+                                        <li><a href="med-couture-scrubs.html">Med Couture</a></li>
+                                        <li><a href="medgear-scrubs.html">MedGear</a></li>
+                                        <li><a href="meta.html">META Labwear</a></li>
+                                        <li><a href="mlbscrubs.html">MLB</a></li>
+                                        <li><a href="nba-scrubs.html">NBA</a></li>
+                                        <!-- <li><a href="college-scrubs.html">NCAA</a></li> -->
+                                        <!-- <li><a href="new-balance-scrubs.html">New Balance</a></li> -->
+                                        <!-- <li><a href="nfl-scrubs.html">NFL</a></li> -->
+                                        <li><a href="nrg.html">NRG by Barco</a></li>
+                                        <li><a href="nudimension.html">Nu Dimension</a></li>
+										                <!-- <li><a href="nurse-mates-apparel.html">Nurse Mates Apparel</a></li> -->
+					<li><a href="peaches.html">Peaches Uniforms</a></li>
+                                    </ul>
+                                    <ul>
+                                    	<li>&nbsp;</li>
+                                        <li><a href="rampage-medical-apparel.html">Rampage Medical Apparel</a></li>
+                                        <!-- <li><a href="riverwashed.html">Riverwashed by allheart</a></li> -->
+                                        <li><a href="scrub-works.html">Scrub Works</a></li>
+                                        <li><a href="landau-scrub-zone.html">ScrubZone</a></li>
+                                        <li><a href="skechers.html">Skechers</a></li>
+                                        <li><a href="cherokee-tooniforms-scrub-tops.html">Tooniforms by Cherokee</a></li>
+                                        <li><a href="urbanescrubs.html">Urbane</a></li>
+                                        <li><a href="white-swan-uniforms.html">White Swan</a></li>
+                                        <li><a href="wink-scrubs.html">WonderWink</a></li>
+                                        <li><a href="wsgear.html">WS Gear</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li class="section"><a href="shoe-brands.html">Footwear</a></li>
+                                        <li><a href="amps.html">A.M.P.S.</a></li>
+                                        <li><a href="allheart-shoes.html">allheart</a></li>
+                                        <!-- <li><a href="alegria-nursing-shoes.html">Alegria</a></li> -->
+                                        <li><a href="anywear-shoes.html">Anywear</a></li>
+                                        <!-- <li><a href="arc.html">American Red Cross</a></li> -->
+                                        <li><a href="avia.html">Avia</a></li>
+                                        <li><a href="birkenstock.html">Birkenstock</a></li>
+                                        <li><a href="cherokee-footwear.html">Cherokee Footwear</a></li>
+                                        <li><a href="cherokee-workwear-shoes.html">Cherokee Workwear</a></li>
+                                        <li><a href="dansko.html">Dansko</a></li>
+                                        <li><a href="dawgsfootwear.html">Dawgs</a></li>
+                                        <li><a href="dickies-shoes.html">Dickies</a></li>
+                                        <!-- <li><a href="dickies-prestige.html">Dickies Prestige</a></li> -->
+                                        <li><a href="flyflotshoes.html">Fly Flot</a></li>
+                                        <li><a href="compression-hosiery.html">Global Health Connection</a></li>
+                                        <li><a href="jasco-shoes.html">Jasco by allheart</a></li>
+                                        <li><a href="klogs.html">Klogs</a></li>
+                                        <!-- <li><a href="koi-shoes.html">Koi</a></li> -->
+                                        <li><a href="foot-wearx.html">Landau FootWeaRx</a></li>
+                                        <!-- <li><a href="mediplog-plogs-clogs.html">Medimex</a></li> -->
+                                        <li><a href="nursemates-shoes.html">Nurse Mates</a></li>
+                                        <li><a href="oxypas.html">Oxypas</a></li>
+                                        <li><a href="quark-shoes-clogs.html">Quark</a></li>
+                                        <li><a href="cherokee-rockers.html">Rockers by Cherokee</a></li>
+                                        <li><a href="sanita-shoes.html">Sanita</a></li>
+                                        <!-- <li><a href="scrub-stuff-footwear.html">Scrub Stuff</a></li> -->
+                                        <li><a href="skechers-shoes.html">Skechers</a></li>
+                                        <li><a href="springstepshoes.html">Spring Step</a></li>
+                                        <li><a href="urbane-footwear.html">Urbane</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li class="section"><a href="diagnostic-brands.html">Diagnostic &amp; More</a></li>
+                                        <li><a href="allheart-diagnostic.html">allheart</a></li>
+                                        <li><a href="littmann-stethoscopes.html">Littmann</a></li>
+                                        <li><a href="adc.html">ADC </a></li>
+                                        <li><a href="anatomical-chart-company.html">Anatomical Chart Company </a></li>
+                                        <li><a href="nursing-pins.html">Arthur Farb Pins</a></li>
+                                        <li><a href="cardionics-stethoscopes.html">Cardionics</a></li>
+                                        <!-- <li><a href="drg-stethoscopes.html">Doctor&rsquo;s Research Group</a></li> -->
+                                        <li><a href="mabis.html">Mabis</a></li>
+                                        <li><a href="mdf-instruments.html">MDF Instruments</a></li>
+                                        <li><a href="medtools.html">MedTools</a></li>
+                                        <li><a href="nursemates-diagnostic.html">Nurse Mates</a></li>
+                                        <li><a href="pediapals.html">PediaPals</a></li>
+                                        <li><a href="prestige-medical.html">Prestige Medical</a></li>
+                                        <li><a href="riester.html">Riester</a></li>
+                                        <li><a href="scrub-stuff-gifts.html">Scrub Stuff</a></li>
+                                        <li><a href="thinklabs.html">Thinklabs</a></li>
+                                        <li><a href="tycos.html">Tycos by Welch Allyn</a></li>
+                                        <li><a href="ultrascope-stethoscopes.html">Ultrascope</a></li>
+                                        <li><a href="veridian-healthcare.html">Veridian Healthcare</a></li>
+                                        <li><a href="wabaum.html">W.A. Baum</a></li>
+                                        <li><a href="welch-allyn.html">Welch Allyn</a></li>
+                                        <li><a href="whimsical-watches.html">Whimsical Watches</a></li>
+                                        <!-- <li><a href="zargis.html">Zargis</a></li> -->
+                                    </ul>
+								</li>
+							</ul>
+                    	</li>
+                    </ul>
+</li>
+			</ul>	
+		</div>
+
+
+        <!-- BEGIN MARKETING BAR -->
+        <ul id="marketing-bar">
+            <li class="first"><a href="embroidery.html" style="background:url(http://manage.allheart.com/design/v3-final/images/promo/mb-12222011personalization.png)no-repeat;"><span class="bold">Embroidery, Emblems &amp; Engraving</span> Personalization</a></li>
+            <li class="middle"><a name="freeship" id="freeship" title="<center><b>Free shipping</b> on purchases of $129 or more*. Use coupon code: 30860. *Cannot be combined with any other coupon offer. Excludes Littmann, Welch-Allyn and international orders.</center>"><span class="bold">Free Shipping</span> on orders of $129+* <span style="font-size:8pt;color:#820a24">&nbsp;&nbsp;details »</span></a></li>
+            <li class="last"><a href="email-promotion.html"><span class="bold">Current Email</span> Promotion</a></li>
+         </ul>
+
+<script type="text/javascript" src="http://manage.allheart.com/design/v3/js/category-page.js"></script><script language="javascript">mybuys.setPageType("HIGH_LEVEL_CATEGORY"); mybuys.set("categoryid", "privacy");</script><!-- BEGIN HERO BANNER -->
+<div id="v3hero">
+   <div class="v3hero sitewide">
+      <div class="v3hero privacy">
+         <div class="banner-text">
+            <h1>Privacy Policy</h1>
+            <h2></h2>
+         </div>
+         <span class="one"></span>
+         <span class="two"></span>
+      </div>
+   </div>
 </div>
 
 
+<h2>Overview</h2>
+<p>Scrubs AC, Inc. ("Scrubs AC," "we" or "us") is committed to keeping our customers informed about how we use the information we gather from you through the use of each of our websites located at, or linked to, the URLs <a href="http://www.allheart.com">www.allheart.com</a>, <a href="http://www.allheartchefs.com">www.allheartchefs.com</a>, and <a href="http://www.jascouniform.com">www.jascouniform.com</a>. Please read this privacy policy ("Policy") carefully to understand how we will use and protect your personal information. We will not share your personal information with anyone except as described in this Policy. Changes to this Policy will be announced on each of our Sites at least ten (10) days in advance, so please check back periodically.</p>
+<p>Your privacy is very important to us. We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how Scrubs AC, Inc. (allheart.com, allheartchefs.com, Jascouniform.com) collects information from all users of Scrubs AC, Inc. Internet services ("Services") — those who make a purchase ("Customers"), as well as those who access some of our Services but do not make a purchase ("Visitors")— and what we do with the information we collect.</p>
+<h2>Information Collection and Management</h2>
+<p>Scrubs AC, Inc. collects information from Visitors and Customers who access the various parts of our Services. Our primary goal in collecting personal information is to provide our visitors with a superior customized online experience. Among other things, we use customer contact information to fill orders, contact prior purchasers to inform them of their order status, and to send service and promotional emails. Promotional emails may be sent from any one or more of our brands, including allheart, allheart Chefs, and Jasco Uniform, plus other brands that we may market or acquire.</p>
+<p>In order to better provide you with numerous products and services, each of our Sites collects Personally Identifiable Information about its visitors. Personally Identifiable Information refers to information that lets us know the specifics of who you are and can be used to identify, contact or locate you. Personally Identifiable Information is requested when you register with us, order a product or service, fill out surveys, participate in contests or sweepstakes, correspond with us, or otherwise volunteer information, for instance, to request a catalog. Personally Identifiable Information might include your name, mailing address, telephone number, mobile phone number, email address, credit card and billing information, profession, gender, and other identification and contact information.</p>
+<p>Third-Party Web Beacons: We use third-party web beacons from Yahoo! and Google to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, <a href="https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com">click here</a>.</p>
+<p>Except as otherwise stated in this Policy, we do not sell, trade or rent your Personally Identifiable Information collected on our Sites to others. The information collected by our Sites is used to process orders, to keep you informed about your order status, to notify you of products or special offers that may be of interest to you, and for statistical purposes for improving our Sites. We will disclose your Personally Identifiable Information to third parties for tracking purposes, to charge your credit card (or process your check or money order, as appropriate), fill your order, improve the functionality of our sites, customize our marketing efforts with you, perform statistical and data analyses, deliver your order, and deliver promotional emails to you from us. These third parties may not use your Personally Identifiable Information other than to provide the services requested by us.</p>
+<p>We may disclose Personal Identification Information to law enforcement agencies when we believe that such disclosure is required by law.</p>
+<p>Please note that our sites (allheart.com, allheartchefs.com, Jascouniform.com) may contain links to other sites. Scrubs AC, Inc. is not responsible for the privacy practices or the content of such other Web sites.</p>
+<h2>Data Security</h2>
+<p>Our shopping carts (including credit card information) are secured using Secure Socket Layer (SSL) encryption technology. We use this SSL technology to prevent such information from being intercepted and read as it is transmitted over the Internet. The encrypted data goes to a secure site where your information is stored on restricted-access computers located at restricted-access sites.</p>
+<p>Secured with:</p>
+<p><a href="http://smallbusiness.yahoo.com/ecommerce/"><img border="0" src="https://sec.yimg.com/us.yimg.com/i/us/smallbiz/gr/ecomby_128bit2col.gif"></a></p>
+<h4>Email Addresses</h4>
+<p>If you order one of our products or services, we will collect and maintain your name, email address, mailing address, telephone or mobile number, product selections, credit card number in an encrypted file (or check or money order information, if using such payment methods while ordering via mail), order number, referring URL, IP address and a password, as well as the recipient's name, address, telephone or mobile number and email address, if different from the customer. We collect this, and other information, as disclosed in this Policy, in order to fill your order, to communicate with you or the recipient of the order about your order, as appropriate, and to send you promotional materials.</p>
+<p>When individuals send email inquiries to Scrubs AC, Inc., the return email address is used to answer the email inquiry we receive and may be used to send those individuals promotional materials.</p>
+<p>All promotional emails include opt-out links. If you would like to opt-out of promotional emails, click:</p>
+<ul style="margin:0 0 12px 25px;">
+	<li><a href="http://www.allheart.com/aboutus.html#emaillist">Opt-in/opt-out Form</a></li>
+	<li>email: <a href="mailto:customerservice@allheart.com">customerservice@allheart.com</a></li>
+</ul>
+<h4>"Cookies" and How Scrubs AC, Inc. (allheart.com and Jasco Uniform Company) Uses Them</h4>
+<p>A "cookie" is a small data file that can be placed on your hard drive when you visit certain websites. Scrubs AC, Inc. may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide. These cookies do not enable third parties to access any of your customer information. These "cookies" DO NOT collect your credit card data.</p>
+<h4>Revisions to This Policy</h4>
+<p>Scrubs AC, Inc. reserves the right to revise, amend, or modify this policy and other policies and agreements at any time and in any manner. The last revision to the policy was published on January 23, 2009. Changes to this Policy will be announced on each of our Sites at least ten (10) days in advance, so please check back periodically.</p>
+<h4>Where to direct questions about the Scrubs AC, Inc. (allheart.com and Jasco Uniform Company) Privacy Policy</h4>
+<p>If you have any questions about our Privacy Policy please contact:</p>
+<p>Scrubs AC, Inc.<br>Privacy Policy <br>23975 Park Sorrento, Suite 430<br>Calabasas, CA 91302</p>
+<div class="clear"></div>		
+ <!-- BEGIN NEWSLETTER SIGN UP -->
+       <div id="v3newsletter">
+<form id="leftform" action="http://www.allheart.com/emailsignup.html" method="post" name="UPTml46946" onsubmit="return (!(UPTvalidateform(document.UPTml46946))); ">
+<fieldset>
+ <input type="hidden" name="mlid" value="46946">
+<input type="hidden" name="siteid" value="2010001497">
+<input type="hidden" name="tagtype" value="q2">
+<input type="hidden" name="demographics" value="-1,1,2">
+<input type="hidden" name="redirection" value="http://www.allheart.com/emailsignup.html">
+<input type="hidden" name="uredirection" value="http://">
 
-<!-- Temp CSS -->
+<input type="hidden" name="welcome" value="on">
+<input type="hidden" name="double_optin" value="">
+<input type="hidden" name="append" value="">
+<input type="hidden" name="update" value="">
+<input type="hidden" name="activity" value="submit">
+<input type="checkbox" name="val_42845[]" value="1" checked="checked" style="position:absolute; left:-9999px;">
+<input type="checkbox" name="val_42845[]" value="2" style="position:absolute; left:-9999px;">
+<input type="checkbox" name="val_42845[]" value="3" style="position:absolute; left:-9999px;">
+<input type="hidden" name="val_40926" value="allheart">
+
+<input type="hidden" name="val_40919" value="webform">
+<input type="hidden" name="val_54582" value="bottom">
+<input type="hidden" id="dateField" name="val_40920" value="">
+                <div>
+                                <input class="leftinputs" id="emailField" type="text" name="email" size="40" maxlength="100" value="Enter your e-mail address" onfocus="if(this.value=='Enter your e-mail address') {this.value=''}" onblur="if(this.value=='') {this.value='Enter your e-mail address'}">
+
+                </div>
+      <input id="specialsubmit" type="image" src="http://manage.allheart.com/design/v3-final/images/design/search.gif" value="Submit" onclick="return (!(UPTvalidateform(document.UPTml46946))); ">
+                </fieldset>
+                </form>
+</div>
+    
+	
+		<!-- BEGIN FOOTER -->
+        <ul id="v3footer">
+        	<li class="v3first">
+            	<ul>
+                	<li class="v3service">
+                    	<ul>
+                            <li><h4>Customer Service</h4></li>
+                            <li><a href="info.html#contact">Contact Us</a></li>
+                            <li><a href="info.html#returns">Easy Returns</a></li>
+                            <li><a href="info.html">F.A.Q.</a></li>
+                            <li><a href="http://manage.allheart.com/orderstatus/index.php">Order Status</a></li>
+                            <li><a href="info.html#shipping">Shipping</a></li>
+						</ul>
+					</li>
+                    <li class="v3company">
+                    	<ul>
+                        	<li><h4>Company</h4></li>
+                            <li><a href="about.html">About Us</a></li>
+                            <li class="form-modal"><a href="http://services.allheart.com/FeedbackSystem/Feedback-Allheart.aspx">Feedback</a></li>
+                            <li><a href="privacy.html">Privacy Policy</a></li>
+                            <li><a href="sitemap.html">Site Map</a></li>
+                            <li><a href="http://www.allheartchefs.com">allheart<i>chefs</i>.com</a></li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+            <li class="v3middle">
+            	<ul>
+                	<li class="left">
+                    	<a href="http://www.shopzilla.com/144147/merchant_report_card" target="_blank">
+                        	<img src="http://medals.bizrate.com/medals/dynamic/144147_medal.gif" alt="">
+                        </a>
+                    </li>
+                    <li class="center">
+                    	<a href="http://www.santabarbara.bbb.org/BusinessReport.aspx?CompanyID=14000608" target="_blank">
+                        	<img src="http://manage.allheart.com/design/v3-final/images/design/bbb.png" alt="">
+						</a>
+					</li>
+                    <li class="right">
+                    	<a href="secure.html" target="_blank">
+                        	<img src="http://manage.allheart.com/design/v3-final/images/design/secure-icon.jpg" alt="">
+                        </a>
+                    </li>
+				</ul>
+			</li>
+            <li class="v3last">
+            	<ul>
+                	<li><a id="v3blog" href="http://blog.allheart.com/" target="_blank"></a></li>
+                    <li><a id="v3twitter" href="http://twitter.com/allheart" target="_blank"></a></li>
+                    <li><a id="v3facebook" href="http://facebook.com/allheart" target="_blank"></a></li>
+ 
+                    <li id="v3facebook-share">
+                    	<div id="v3facebook-count">
+                            <div class="align">
+                                <div id="fb-root"></div>
+
+                                <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+                                <fb:like-box href="http://www.facebook.com/allheart" width="292" show_faces="false" stream="false" header="false"></fb:like-box>
+                            </div>
+                        </div>
+                        <div id="v3facebook-like-btn">
+                            <div class="align">
+                                <div id="fb-root"></div>
+                                <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+                                <fb:like-box href="http://www.facebook.com/allheart" width="292" show_faces="false" stream="false" header="false"></fb:like-box>
+                            </div>
+                        </div>
+                        <div id="v3google-share">
+							<script src="https://apis.google.com/js/plusone.js"></script>
+                        	<g:plusone count="true" href="http://www.allheart.com"></g:plusone> 
+						</div>
+                        <div id="v3twitter-tweet">
+                        	<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+                            <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="allheart">Tweet</a>
+                        </div>
+					</li> 
+				</ul>
+			</li> 
+			<li class="clear"></li>
+		</ul>
 
 
+        <!-- BEGIN FOOTER LOGOS JS -->
+        <script type="text/javascript">
+        <!--
+            // BEGIN EXPAND/COLLAPSE SCRIPT
+            $(document).ready(function(){
+                $(".footer-logos-all").hide();
+                $(".footer-logos-more").click(function(){
+                    $(".footer-logos-all").slideToggle(500);
+                    $(this).toggleClass("view-less"); return false;
+                });
+            });
+        //-->
+        </script>
 
-<style>
 
-.optiontable select, .optiontable input	{
+	<!-- BEGIN FOOTER LOGOS -->
+        <div id="logo-footer">
+            <ul>
+                <li class="allheart">
+                    <a href="allheart-scrubs-uniforms.html?_s_icmp=footer-logo" title="allheart Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="allheart">
+                    </a>
+                </li>
+                <li class="barco">
+                    <a href="barco-uniforms.html?_s_icmp=footer-logo" title="Barco Uniforms Scurbs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Barco Uniforms">
+                    </a>
+                </li>
+                <li class="cherokee">
+                    <a href="cherokee-uniforms.html?_s_icmp=footer-logo" title="Cherokee Uniforms">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Cherokee Uniforms">
+                    </a>
+                </li>
+                <li class="cherokee-workwear">
+                    <a href="cherokee-workwear.html?_s_icmp=footer-logo" title="Cherokee Workwear Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Cherokee Workwear">
+                    </a>
+                </li>
+                <li class="dansko">
+                    <a href="dansko.html?_s_icmp=footer-logo" title="Dansko Nursing Shoes">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Dansko">
+                    </a>
+                </li>
+                <li class="dickies">
+                    <a href="dickies-medical-uniforms.html?_s_icmp=footer-logo" title="Dickies Medical Uniforms">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Dickies Medical Uniforms">
+                    </a>
+                </li>
+                <li class="fundamentals">
+                    <a href="fundamentals.html?_s_icmp=footer-logo" title="Fundamentals Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Fundamentals">
+                    </a>
+                </li>
+                <li class="greys-anatomy">
+                    <a href="greys-anatomy-scrubs.html?_s_icmp=footer-logo" title="Grey's Anatomy Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Grey's Anatomy">
+                    </a>
+                </li>
+                <li class="koi">
+                    <a href="koiscrubs.html?_s_icmp=footer-logo" title="Koi Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Koi">
+                    </a>
+                </li>
+                <li class="landau">
+                    <a href="landau-uniforms.html?_s_icmp=footer-logo" title="Landau Uniforms">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="L.A. Rose">
+                    </a>
+                </li>
+                <li class="littmann">
+                    <a href="littmann-stethoscopes.html?_s_icmp=footer-logo" title="3M Littmann Stethoscopes">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="3M Littmann">
+                    </a>
+                </li>
+                <li class="meta-labwear">
+                    <a href="meta.html?_s_icmp=footer-logo" title="Meta Labwear">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Meta Labwear">
+                    </a>
+                </li>
+                <!-- <li class="new-balance">
+                    <a href="new-balance-scrubs.html?_s_icmp=footer-logo" title="New Balance Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="New Balance" />
+                    </a>
+                </li> -->
+                <li class="nurse-mates">
+                    <a href="nursemates-shoes.html?_s_icmp=footer-logo" title="Nurse Mates Nursing Shoes">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Nurse Mates">
+                    </a>
+                </li>
+                <li class="prestige-medical">
+                    <a href="prestige-medical.html?_s_icmp=footer-logo" title="Prestige Medical">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Prestige Medical">
+                    </a>
+                </li>
+                <li class="rampage">
+                    <a href="rampage-medical-apparel.html?_s_icmp=footer-logo" title="Rampage Medical Apparel">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Rampage Medical Apparel">
+                    </a>
+                </li>
+                <li class="scrubzone">
+                    <a href="landau-scrub-zone.html?_s_icmp=footer-logo" title="ScrubZone Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="ScrubZone">
+                    </a>
+                </li>
+                <li class="welch-allyn">
+                    <a href="welch-allyn.html?_s_icmp=footer-logo" title="Welch Allyn Diagnostics">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Welch Allyn">
+                    </a>
+                </li>
+                <li class="white-swan">
+                    <a href="white-swan-uniforms.html?_s_icmp=footer-logo" title="White Swan Medical Uniforms">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="White Swan Uniforms">
+                    </a>
+                </li>
+                <li class="wink">
+                    <a href="wink-scrubs.html?_s_icmp=footer-logo" title="WonderWink">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="WonderWink">
+                    </a>
+                </li>
+            </ul>
+            <ul class="footer-logos-all">
+                <li class="adar">
+                    <a href="adarmedical.html?_s_icmp=footer-logo" title="Adar Medical Uniforms">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Adar Medical">
+                    </a>
+                </li>
+                <!-- <li class="alegria">
+                    <a href="alegria-nursing-shoes.html?_s_icmp=footer-logo" title="Alegria Nursing Shoes">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="" />
+                    </a>
+                </li> -->
+                <li class="american-diagnostic-corporation">
+                    <a href="adc.html?_s_icmp=footer-logo" title="American Diagnostic Corporation (ADC)">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="American Diagnostic Corporation (ADC)">
+                    </a>
+                </li>
+                <!-- <li class="american-red-cross">
+                    <a href="arc.html?_s_icmp=footer-logo" title="American Red Cross (ARC)">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="American Red Cross (ARC)" />
+                    </a>
+                </li> -->
+                <li class="anatomical-chart-company">
+                    <a href="anatomical-chart-company.html?_s_icmp=footer-logo" title="Anatomical Chart Company">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Anatomical Chart Company (ACC)">
+                    </a>
+                </li>
+                <li class="anywear">
+                    <a href="anywear-shoes.html?_s_icmp=footer-logo" title="AnyWear Nursing Shoes">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="AnyWear Shoes">
+                    </a>
+                </li>
+                <!-- <li class="arthur-farb">
+                    <a href="nursing-pins.html?_s_icmp=footer-logo" title="Arthur Farb Nursing Pins">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Arthur Farb" />
+                    </a>
+                </li> -->
+                <li class="avia">
+                    <a href="avia.html?_s_icmp=footer-logo" title="Avia Nursing Shoes">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Avia">
+                    </a>
+                </li>
+                <li class="baby-phat">
+                    <a href="baby-phat-scrubs.html?_s_icmp=footer-logo" title="Baby Phat Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Baby Phat">
+                    </a>
+                </li>
+                <!-- <li class="bill-blass">
+                    <a href="bill-blass-healthcare.html?_s_icmp=footer-logo" title="Bill Blass Healthcare Uniforms">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Bill Blass Healthcare" />
+                    </a>
+                </li> -->
+                <!-- <li class="birkenstock">
+                    <a href="birkenstock.html?_s_icmp=footer-logo" title="Birkenstock Shoes">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Birkenstock" />
+                    </a>
+                </li> -->
+                <li class="cardionics">
+                    <a href="cardionics-stethoscopes.html?_s_icmp=footer-logo" title="Cardionics Stethoscopes">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Cardionics">
+                    </a>
+                </li>
+                <li class="carhartt">
+                    <a href="carhartt-scrubs.html?_s_icmp=footer-logo" title="Carhartt Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Carhartt">
+                    </a>
+                </li>
+                <li class="crayola">
+                    <a href="crayola.html?_s_icmp=footer-logo" title="Crayola Threads by Barco">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Crayola Threads">
+                    </a>
+                </li>
+                <li class="dawgs">
+                    <a href="dawgsfootwear.html?_s_icmp=footer-logo" title="Dawgs Medical Footwear">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Dawgs">
+                    </a>
+                </li>
+                <li class="disney">
+                    <a href="disney.html?_s_icmp=footer-logo" title="Disney Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Disney">
+                    </a>
+                </li>
+                <!-- <li class="do-no-harm">
+                    <a href="donoharm.html?_s_icmp=footer-logo" title="Do No Harm Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Do No Harm" />
+                    </a>
+                </li> -->
+                <!-- <li class="doctors-research-group">
+                    <a href="drg-stethoscopes.html?_s_icmp=footer-logo" title="Doctor's Research Group (DRG)">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Doctor's Research Group (DRG)" />
+                    </a>
+                </li> -->
+                <li class="ecko">
+                    <a href="ecko-scrubs.html?_s_icmp=footer-logo" title="Ecko Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Ecko">
+                    </a>
+                </li>
+                <li class="fly-flot">
+                    <a href="flyflotshoes.html?_s_icmp=footer-logo" title="Fly Flot Nursing Shoes">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Fly Flot">
+                    </a>
+                </li>
+                <li class="footwearx">
+                    <a href="foot-wearx.html?_s_icmp=footer-logo" title="Landau FootWeaRx Nursing Shoes">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Landau FootWeaRx">
+                    </a>
+                </li>
+                <li class="fusion">
+                    <a href="wsgear-fusion-scrubs.html?_s_icmp=footer-logo" title="Fusion Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Fusion">
+                    </a>
+                </li>
+                <!-- <li class="global-health-connection">
+                    <a href="compression-hosiery.html?_s_icmp=footer-logo" title="Global Health Connection (GHC)">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Global Health Connection (GHC)" />
+                    </a>
+                </li> -->
+                <li class="healing-hands">
+                    <a href="healing-hands-scrubs.html?_s_icmp=footer-logo" title="Healing Hands Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Healing Hands">
+                    </a>
+                </li>
+                <li class="icu">
+                    <a href="icu-scrubs.html?_s_icmp=footer-logo" title="ICU by Barco Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="ICU by Barco">
+                    </a>
+                </li>
+                <li class="iguanamed">
+                    <a href="iguanamed.html?_s_icmp=footer-logo" title="IguanaMed">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="IguanaMed">
+                    </a>
+                </li>
+                <li class="jasco">
+                    <a href="jasco.html?_s_icmp=footer-logo" title="Jasco by allheart Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Jasco">
+                    </a>
+                </li>
+                <li class="jockey">
+                    <a href="jockey-scrubs.html?_s_icmp=footer-logo" title="Jockey Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Jockey Scrubs">
+                    </a>
+                </li>
+                <!-- <li class="katherine-heigl">
+                    <a href="kathryn-hiegl-scrubs.html?_s_icmp=footer-logo" title="Katherine Heigl Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Katherine Heigl" />
+                    </a>
+                </li> -->
+                <li class="klogs">
+                    <a href="klogs.html?_s_icmp=footer-logo" title="Klogs Nursing Shoes">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Klogs">
+                    </a>
+                </li>
+                <li class="larose">
+                    <a href="larose.html?_s_icmp=footer-logo" title="L.A. Rose Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="">
+                    </a>
+                </li>
+                <!-- <li class="loft">
+                    <a href="loft-scrubs.html?_s_icmp=footer-logo" title="Loft">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Loft" />
+                    </a>
+                </li> -->
+                <li class="mabis">
+                    <a href="mabis.html?_s_icmp=footer-logo" title="Mabis Diagnostics">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Mabis">
+                    </a>
+                </li>
+                <li class="mdf-instruments">
+                    <a href="mdf-instruments.html?_s_icmp=footer-logo" title="MDF Instruments Diagnostics">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="MDF Instruments">
+                    </a>
+                </li>
+                <li class="med-couture">
+                    <a href="med-couture-scrubs.html?_s_icmp=footer-logo" title="Med Couture Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Med Couture">
+                    </a>
+                </li>
+                <li class="medgear">
+                    <a href="medgear-scrubs.html?_s_icmp=footer-logo" title="Medgear Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="MedGear">
+                    </a>
+                </li>
+                <!-- <li class="medimex">
+                    <a href="mediplog-plogs-clogs.html?_s_icmp=footer-logo" title="Medimex Nursing Shoes">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Medimex" />
+                    </a>
+                </li> -->
+                <!-- <li class="mlb">
+                    <a href="mlbscrubs.html?_s_icmp=footer-logo" title="MLB Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Major League Baseball (MLB)" />
+                    </a>
+                </li> -->
+                <!-- <li class="nba">
+                    <a href="nba-scrubs.html?_s_icmp=footer-logo" title="NBA Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="National Basketball Association (NBA)" />
+                    </a>
+                </li> -->
+                <!-- <li class="ncaa">
+                    <a href="college-scrubs.html?_s_icmp=footer-logo" title="NCAA Collegiate Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="NCAA" />
+                    </a>
+                </li> -->
+                <!-- <li class="nfl">
+                    <a href="nfl-scrubs.html?_s_icmp=footer-logo" title="NFL Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="National Football League (NFL)" />
+                    </a>
+                </li> -->
+                <li class="nrg">
+                    <a href="nrg.html?_s_icmp=footer-logo" title="NrG by Barco Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="NrG">
+                    </a>
+                </li>
+                <li class="nu-dimension">
+                    <a href="nudimension.html?_s_icmp=footer-logo" title="Nu Dimension Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Nu Dimension">
+                    </a>
+                </li>
+                <li class="oxypas">
+                    <a href="oxypas.html?_s_icmp=footer-logo" title="Oxypas Nursing Shoes">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Oxypas">
+                    </a>
+                </li>
+                <li class="peaches">
+                    <a href="peaches.html?_s_icmp=footer-logo" title="Peaches Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Peaches">
+                    </a>
+                </li>
+                <li class="pediapals">
+                    <a href="pediapals.html?_s_icmp=footer-logo" title="PediaPals Diagnostics">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="PediaPals">
+                    </a>
+                </li>
+                <li class="quark">
+                    <a href="quark-shoes-clogs.html?_s_icmp=footer-logo" title="Quark Nursing Shoes">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Quark">
+                    </a>
+                </li>
+                <li class="riester">
+                    <a href="riester.html?_s_icmp=footer-logo" title="Riester Diagnostics">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Riester">
+                    </a>
+                </li>
+                <!-- <li class="riverwashed">
+                    <a href="riverwashed.html?_s_icmp=footer-logo" title="Riverwashed by allheart Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Riverwashed" />
+                    </a>
+                </li> -->
+                <li class="rockers">
+                    <a href="cherokee-rockers.html?_s_icmp=footer-logo" title="Rockers by Cherokee Nursing Shoes">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Rockers">
+                    </a>
+                </li>
+                <li class="scrub-stuff">
+                    <a href="scrub-stuff-gifts.html?_s_icmp=footer-logo" title="Scrub Stuff Medical Gifts">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Scrub Stuff">
+                    </a>
+                </li>
+                <li class="skechers">
+                    <a href="skechers.html?_s_icmp=footer-logo" title="Skechers Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Skechers">
+                    </a>
+                </li>
+                <li class="spring-step">
+                    <a href="springstepshoes.html?_s_icmp=footer-logo" title="Spring Step Nursing Shoes">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Spring Step">
+                    </a>
+                </li>
+                <li class="thinklabs">
+                    <a href="thinklabs.html?_s_icmp=footer-logo" title="Thinklabs Diagnostics">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Thinklab">
+                    </a>
+                </li>
+                <li class="tooniforms">
+                    <a href="cherokee-tooniforms-scrub-tops.html?_s_icmp=footer-logo" title="Tooniforms by Cherokee Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Tooniforms">
+                    </a>
+                </li>
+                <li class="tycos">
+                    <a href="tycos.html?_s_icmp=footer-logo" title="Welch Allyn Tycos Diagnostics">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Tycos by Welch Allyn">
+                    </a>
+                </li>
+                <li class="ultrascope">
+                    <a href="ultrascope-stethoscopes.html?_s_icmp=footer-logo" title="Ultrascope Stethoscopes">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="UltraScope">
+                    </a>
+                </li>
+                <li class="urbane">
+                    <a href="urbanescrubs.html?_s_icmp=footer-logo" title="Urbane Scrubs">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Urbane">
+                    </a>
+                </li>
+                <li class="veridian">
+                    <a href="veridian-healthcare.html?_s_icmp=footer-logo" title="Veridian Healthcare Diagnostics">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Veridian Healthcare">
+                    </a>
+                </li>
+                <li class="wabaum">
+                    <a href="wabaum.html?_s_icmp=footer-logo" title="W.A. Baum Diagnostics">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="W.A. Baum">
+                    </a>
+                </li>
+                <!-- <li class="whimsical-watches?_s_icmp=footer-logo">
+                    <a href="whimsical-watches.html" title="Whimsical Watches">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Whimsical Watches" />
+                    </a>
+                </li> -->
+                <li class="ws-gear">
+                    <a href="wsgear.html?_s_icmp=footer-logo" title="W.S. Gear Apparel">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="W.S. Gear">
+                    </a>
+                </li>
+                <!-- <li class="zargis">
+                    <a href="zargis.html?_s_icmp=footer-logo" title="Zargis Diagnostics">
+                        <img src="http://manage.allheart.com/design/v3-final/images/design/pixel.gif" alt="Zargis" />
+                    </a>
+                </li> -->
+            </ul>
+            <div id="v3copy"><a style="text-decoration:none;" href="index.html">©2011 by Scrubs AC, Inc.</a></div>
+            <div class="footer-logos-more"></div>
+        </div>
+        <div class="clear"></div>
+    
+		
+        <!-- MARKETING BAR HIDDEN DIV -->
+        <div id="shipinfo-content" style="display:none;">
+        	<b>Shipping Costs - Domestic</b><br>(Includes the cost of Shipping + Handling + Insurance)<br><br>
+            <table width="500">
+            	<tbody><tr>
+                	<td width="90" colspan="2"><b>Order Amount:</b></td>
+                    <td width="86" align="right"><b>Smart Post</b></td>
+                    <td width="86" align="right"><b>Premium Ground*</b></td>
+                    <td width="86" align="right"><b>3-Day Air</b></td>
+                    <td width="86" align="right"><b>2-Day Air**</b></td>
+                    <td width="86" align="right"><b>Next Day Delivery</b></td>
+				</tr>
+                <tr>
+                	<td width="45">From</td>
+                    <td width="45">To</td>
+                    <td width="86">&nbsp;</td>
+                    <td width="86">&nbsp;</td>
+                    <td width="86">&nbsp;</td>
+                    <td width="86">&nbsp;</td>
+                    <td width="86">&nbsp;</td>
+				</tr>
+                <tr>
+                	<td width="45">$0</td>
+                    <td width="45">$14.99</td>
+                    <td width="86" align="right">$6.99</td>
+                    <td width="86" align="right">$9.99</td>
+                    <td width="86" align="right">$11.99</td>
+                    <td width="86" align="right">$16.99</td>
+                    <td width="86" align="right">$26.99</td>
+				</tr>
+                <tr>
+                	<td width="45">$15.00</td>
+                    <td width="45">$25.99</td>
+                    <td width="86" align="right">$8.99</td>
+                    <td width="86" align="right">$11.99</td>
+                    <td width="86" align="right">$13.99</td>
+                    <td width="86" align="right">$18.99</td>
+                    <td width="86" align="right">$28.99</td>
+				</tr>
+                <tr>
+                	<td width="45">$26.00</td>
+                    <td width="45">$49.99</td>
+                    <td width="86" align="right">$10.99</td>
+                    <td width="86" align="right">$13.99</td>
+                    <td width="86" align="right">$15.99</td>
+                    <td width="86" align="right">$20.99</td>
+                    <td width="86" align="right">$30.99</td>
+				</tr>
+                <tr>
+                	<td width="45">$50.00 </td>
+                    <td width="45">$74.99</td>
+                    <td width="86" align="right">$12.99</td>
+                    <td width="86" align="right">$15.99</td>
+                    <td width="86" align="right">$17.99</td>
+                    <td width="86" align="right">$22.99</td>
+                    <td width="86" align="right">$32.99</td>
+				</tr>
+                <tr>
+                	<td width="45">$75.00 </td>
+                    <td width="45">$99.99</td>
+                    <td width="86" align="right">$14.99</td>
+                    <td width="86" align="right">$17.99</td>
+                    <td width="86" align="right">$19.99</td>
+                    <td width="86" align="right">$24.99</td>
+                    <td width="86" align="right">$34.99</td>
+				</tr>
+                <tr>
+                	<td width="45">$100.00 </td>
+                    <td width="45">$199.99</td>
+                    <td width="86" align="right">$16.99</td>
+                    <td width="86" align="right">$19.99</td>
+                    <td width="86" align="right">$21.99</td>
+                    <td width="86" align="right">$26.99</td>
+                    <td width="86" align="right">$36.99</td>
+				</tr>
+                <tr>
+                	<td width="45">$200.00 </td>
+                    <td width="45">$499.99</td>
+                    <td width="86" align="right">$19.99</td>
+                    <td width="86" align="right">$22.99</td>
+                    <td width="86" align="right">$24.99</td>
+                    <td width="86" align="right">$29.99</td>
+                    <td width="86" align="right">$39.99</td>
+				</tr>
+                <tr>
+                	<td width="45">$500.00+</td>
+                    <td width="45">&nbsp;</td>
+                    <td width="86" align="right">4.0%</td>
+                    <td width="86" align="right">4.5%</td>
+                    <td width="86" align="right">5.0%</td>
+                    <td width="86" align="right">6.0%</td>
+                    <td width="86" align="right">7.5%</td>
+				</tr>
+			</tbody></table>
+        	<br>For additional shipping information, <a href="http://www.allheart.com/info.html#shipping" target="_blank" style="color:#8b1a1a;">click here</a>.
+		</div>
 
-	width: 200px;
 
-}
+        </div>
 
-.optionrowleft	{
 
-	width: 150px;
-
-}
-
-</style>
-
-<!--[if IE]>
-
-<style>
-
-.optiontable select, .optiontable input	{
-
-	width: auto;
-
-}
-
-</style>
-
-<![endif]--></td></tr></tbody></table></div><div class="clearboth"></div><div class="mboxDefault2"><div id="topnavbar"><table border="0" cellspacing="0" cellpadding="0" width="985"><tbody><tr valign="top"><td align="right"><img border="0" usemap="#topnavbar" src="http://lib.store.yahoo.net/lib/allheart/topnavbar123109.gif" width="809" height="47" align="right"></td></tr></tbody></table></div></div></div></td></tr></tbody></table></div><table border="0" cellspacing="0" cellpadding="0" width="778"><tbody><tr valign="top"><td width="198"><div class="mboxDefault2"><div id="leftcontainer"><div id="leftsearch"><script type="text/javascript">
- function clearMe(formfield){
-  if (formfield.defaultValue==formfield.value)
-   formfield.value = ""
- }
-</script> 
-<form method="get" action="http://search.allheart.com">
-	<input name="catalog" type="hidden" value="allheart">
-	<input name=".autodone" type="hidden" value="nsearch.html">
-	<input autocomplete="off" id="txtQuery" name="query" type="text" style="font-size:10px;font-family:arial,helvetica,sans-serif;" value="What Are You Looking For?" onfocus="clearMe(this)">
-	<div id="divSuggestions"></div>
-	<input src="http://lib.store.yahoo.net/lib/allheart/searchgo.gif" id="searchgo" type="image">
-</form>
-
-<script language="javascript">   
-	CelebrosAutoComplete("AllHeart","txtQuery",onSelect);
-	function onSelect(aParameter)
-	{ 
-		if ((aParameter["SelectedURL"]!="")&&(aParameter["IsAutoComplete"]))
-		{
-			window.location = aParameter["SelectedURL"];
-		}
-		else
-		{ 
-			window.location=" http://search.AllHeart.com/?query="+escape(aParameter["SelectedQuery"]);
-		}
-	}
-</script></div><div id="shopbybrand"><form name="form1">
-<select name="jumpmenu" style="font-size:10px;font-family:arial,helvetica,sans-serif;" onchange="jumpto(document.form1.jumpmenu.options[document.form1.jumpmenu.options.selectedIndex].value)">
-		<option value="#" style="color:#000000;">Select a brand...</option>
-		<option value="#"></option>
-		<option value="#" style="color:#ffffff;background-color:#cc3300;font-weight:bold;">----APPAREL &amp; FOOTWEAR----</option>
-		<option value="allheart-scrubs-uniforms.html"> AllHeart </option>
-		<option value="riverwashed.html"> Riverwashed by AllHeart </option>
-		<option value="adarmedical.html"> Adar Medical Uniforms </option>
-		<option value="alegria-nursing-shoes.html"> Alegria Nursing Shoes </option>
-		<option value="baby-phat-scrubs.html"> Baby Phat </option>
-		<option value="barco-uniforms.html"> Barco Uniforms </option>
-		<option value="chfl.html"> Cherokee Flex-i-bles </option>
-		<option value="cherokee-rockers.html"> Cherokee Footwear </option>
-		<option value="cherokee-uniforms.html"> Cherokee Uniforms </option>
-		<option value="cherokee-scrubs.html"> Cherokee Workwear </option>
-		<option value="college-scrubs.html"> Collegiate Scrubs </option>
-		<option value="crayola.html"> Crayola™ Threads </option>
-		<option value="dansko.html"> Dansko Shoes </option>
-		<option value="dawgsfootwear.html"> Dawgs Footwear </option>
-		<option value="dickies-medical-uniforms.html"> Dickies Medical </option>
-		<option value="dieds.html"> Dickies Everyday Scrubs </option>
-		<option value="hipflip.html"> Dickies Hip Flip </option>
-		<option value="disand.html"> Dickies Sandwashed Classics </option>
-		<option value="donoharm.html"> Do No Harm Scrubs </option>
-		<option value="flyflotshoes.html"> Fly Flot Shoes</option>
-		<option value="compression-hosiery.html"> Global Health Connection </option>
-		<option value="greys-anatomy-scrubs.html"> Grey's Anatomy Scrubs </option>
-		<option value="healing-hands-scrubs.html"> Healing Hands Medical Scrubs </option>
-		<option value="iguanamed.html"> IguanaMed Scrubs </option>
-		<option value="http://search.allheart.com/?query=jasco"> Jasco by AllHeart </option>
-		<option value="jockey.html"> Jockey Scrubs </option>
-		<option value="klogs-shoes.html"> Klogs </option>
-		<option value="koiscrubs.html"> Koi Scrubs </option>
-		<option value="larose.html"> L.A. Rose </option>
-		<option value="landau-uniforms.html"> Landau </option>
-		<option value="foot-wearx.html"> Landau FootWeaRx Shoes  </option>
-		<option value="medgear-scrubs.html"> Medgear Medical Scrubs  </option>
-		<option value="mediplog-plogs-clogs.html"> Medimex </option>
-		<option value="meta.html"> META Lab Coats</option>
-		<option value="mlbscrubs.html"> MLB Scrubs </option>
-		<option value="new-balance-scrubs.html"> New Balance</option>		
-<option value="nrg.html"> NRG Scrubs </option>
-		<option value="nudimension.html"> Nu Dimension </option>
-		<option value="nursemates-shoes.html"> Nurse Mates </option>
-		<option value="oxypas.html"> Oxypas Footwear </option>
-		<option value="quark-shoes-clogs.html"> Quark Shoes </option>
-		<option value="scrubstuff.html"> Scrub Stuff </option>
-		<option value="landau-scrub-zone.html"> ScrubZone by Landau </option>
-		<option value="skechers.html"> Skechers Medical Scrubs </option>
-		<option value="springstepshoes.html"> Spring Step Shoes</option>
-		<option value="cherokee-tooniforms-scrub-tops.html"> Tooniforms </option>
-		<option value="urbanescrubs.html"> Urbane Scrubs </option>
-		<option value="white-swan-uniforms.html"> White Swan </option>
-		<option value="#"></option>
-		<option value="#" style="color:#ffffff;background-color:#cc3300;font-weight:bold;">----DIAGNOSTICS &amp; MORE----</option>
-		<option value="littmann-stethoscopes.html"> 3M Littmann </option>
-		<option value="adc.html"> ADC </option>
-		<option value="allheart-scrubs-uniforms.html"> AllHeart </option>
-		<option value="anatomical-charts-and-models.html"> Anatomical Chart Company </option>
-		<option value="nursing-pins.html"> Arthur Farb </option>
-		<option value="cardionics-stethoscopes.html"> Cardionics </option>
-		<option value="littmannscopes.html"> Littmann </option>
-		<option value="mabis.html"> Mabis </option>
-		<option value="mdfst.html"> MDF Stethoscopes </option>
-		<option value="blprdebymdf.html"> MDF Blood Pressure</option>
-		<option value="pediapals.html"> PediaPals </option>
-		<option value="prestige-medical.html"> Prestige Medical </option>
-		<option value="riester-otoscopes.html"> Riester </option>
-		<option value="ultrascope-stethoscopes.html"> Ultrascope </option>
-		<option value="wabaumscopes.html"> W.A. Baum stethoscopes</option>
-		<option value="wa-baum-sphygmomanometers.html"> W.A. Baum Blood Pressure</option>
-		<option value="welch-allyn.html"> Welch Allyn </option>
-		<option value="whimsical-watches.html"> Whimsical Watches </option>
-	</select></form></div><div id="shopbycat"><img src="http://lib.store.yahoo.net/lib/allheart/shopbycat.jpg" width="187" height="17"></div><div class="caticon"><a href="new.html"><img src="http://ep.yimg.com/ca/I/allheart_2138_4999" width="187" height="19" border="0" hspace="0" vspace="0"></a></div><div class="caticon"><a href="sale.html"><img src="http://ep.yimg.com/ca/I/allheart_2138_5879" width="187" height="19" border="0" hspace="0" vspace="0"></a></div><div class="leftcat"><a href="holidayprints1.html">Holiday Print Tops and Jackets</a></div><div class="leftcat"><a href="gice.html">Gift Certificates</a></div><div class="leftcat"><a href="embroidery.html">Embroidery &amp; Personalization</a></div><div class="leftcat"><a href="nursingscrubs.html">Women's Scrubs &amp; Uniforms</a></div><div class="leftcat"><a href="mens-scrubs.html">Men's Scrubs &amp; Uniforms</a></div><div class="leftcat"><a href="solid-scrub-tops-and-jackets.html">Scrub Tops and Jackets</a></div><div class="leftcat"><a href="pants.html">Scrub Pants</a></div><div class="leftcat"><a href="scrubsets.html">Scrub Sets</a></div><div class="leftcat"><a href="labcoat.html">Lab Coats</a></div><div class="leftcat"><a href="petite-scrubs.html">Petite &amp; Short Size Scrub Pants</a></div><div class="leftcat"><a href="tall-scrubs.html">Tall Size Scrub Pants</a></div><div class="leftcat"><a href="taandlolabco.html">Tall and Long Lab Coats</a></div><div class="leftcat"><a href="http://search.allheart.com/?catalog=allheart&amp;.autodone=nsearch.html&amp;query=catplus&amp;x=0&amp;y=0">Plus Size Scrubs</a></div><div class="leftcat"><a href="maternity-scrubs.html">Maternity Scrubs &amp; Uniforms</a></div><div class="leftcat"><a href="nursematesshoes.html">Shoes, Clogs, Hosiery, Socks</a></div><div class="leftcat"><a href="littmannstethoscopes.html">Stethoscopes and Nurse Kits</a></div><div class="leftcat"><a href="blood-pressure-cuffs.html">Blood Pressure Devices</a></div><div class="leftcat"><a href="otoscopes-ophthalmoscopes.html">Otoscopes, Ophthalmoscopes</a></div><div class="leftcat"><a href="medicine.html">Accessories, Pins, Pens</a></div><div class="leftcat"><a href="medical-gifts.html">Gifts, Watches, Fun &amp; Jewelry</a></div><div class="leftcat"><a href="emt-ems-supplies.html">Penlights, Scissors, EMT, Misc</a></div><div class="leftcat"><a href="clinical-medical-supplies.html">Clinical Medical Supplies</a></div><div class="leftcat"><a href="medical-books.html">Charts, Models, CDs</a></div><div class="leftcat"><a href="medical-bags-doctors-bags.html">Medical Bags &amp; Totes</a></div><div class="leftcat"><a href="wholesale-scrubs.html">Group and Bulk Prices</a></div><div class="caticon"><a href="orderstatus.html"><img src="http://ep.yimg.com/ca/I/allheart_2133_4370" width="187" height="19" border="0" hspace="0" vspace="0"></a></div><div id="leftbanner"></div><div id="specialweek"><a href="ck4700.html?_s_icmp=01DaC6X9"><img src="http://lib.store.yahoo.net/lib/allheart/dotd-12222010-ck4700.jpg" border="0" width="187" height="200" alt="Workwear V-Neck 2-Pocket Top by Cherokee"></a><br><br><img src="http://lib.store.yahoo.net/lib/allheart/ahsidenaveformtitle2.gif" border="0">
-<style>
-#specialform	{
-	background: url('/lib/allheart/specialbg.jpg') no-repeat;
-}
-</style></div></div><div id="specialform"><form name="subscribeForm" id="leftform" action="http://cl.exct.net/subscribe.aspx?lid=15833752" method="post" onsubmit="return checkForm();"><input name="thx" type="hidden" value="http://www.allheart.com/subscribed.html"><input name="err" type="hidden" value="http://www.allheart.com/emailerror.html"><input name="usub" type="hidden" value="http://www.allheart.com/unsubscribed.html"><input name="MID" type="hidden" value="62059"><input style="display: none;" name="signup" type="hidden" value="webform">Name:<br><input class="leftinputs" name="Full Name" type="text"><br>Email:<br><input class="leftinputs" name="Email Address" type="text"><br><input src="http://lib.store.yahoo.net/lib/allheart/specialsubmit.gif" id="specialsubmit" type="image"></form></div></div></td><td width="10"><img src="http://ep.yimg.com/ca/I/allheart_2136_0" width="10" height="1" border="0" hspace="0" vspace="0" alt=""></td><td width="600"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td bgcolor="#ffffff" valign="top"></td></tr></tbody></table><font size="1" face="arial, helvetica"><br></font><table border="0" cellspacing="0" cellpadding="0" width="600"><tbody><tr valign="top"><td width="600"><h1><font color="8b1a1a" face="arial,helvetica,sans-serif">AllHeart.com Privacy Statement<br></font></h1><font size="1" face="arial, helvetica"><font face="Tahoma" size="4"><b>Privacy Statement for AllHeart.com</b></font><br><br>
-<b>Overview</b>
-<br><br>
-Scrubs AC, Inc. ("Scrubs AC," "we" or "us") is committed to keeping our customers informed about how we use the information we gather from you through the use of each of our websites located at, or linked to, the URLs <a href="http://www.allheart.com">www.allheart.com</a>, <a href="http://www.allheartchefs.com">www.allheartchefs.com</a>, <a href="http://www.allheartkids.com">www.allheartkids.com</a>, and <u>www.jascouniform.com</u>. Please read this privacy policy ("Policy") carefully to understand how we will use and protect your personal information. We will not share your personal information with anyone except as described in this Policy. Changes to this Policy will be announced on each of our Sites at least ten (10) days in advance, so please check back periodically.
-<br><br>
-Your privacy is very important to us. We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how Scrubs AC, Inc. (AllHeart.com, AllHeartchefs.com, AllHeartkids.com, Jascouniform.com) collects information from all users of Scrubs AC, Inc. Internet services ("Services") — those who make a purchase ("Customers"), as well as those who access some of our Services but do not make a purchase ("Visitors")— and what we do with the information we collect.
-<br><br>
-<b>Information Collection and Management</b>
-<br><br>
-Scrubs AC, Inc. collects information from Visitors and Customers who access the various parts of our Services. Our primary goal in collecting personal information is to provide our visitors with a superior customized online experience. Among other things, we use customer contact information to fill orders, contact prior purchasers to inform them of their order status, and to send service and promotional emails. Promotional emails may be sent from any one or more of our brands, including AllHeart, AllHeart Chefs, AllHeart Kids, and Jasco Uniform, plus other brands that we may market or acquire.
-<br><br>
-In order to better provide you with numerous products and services, each of our Sites collects Personally Identifiable Information about its visitors. Personally Identifiable Information refers to information that lets us know the specifics of who you are and can be used to identify, contact or locate you. Personally Identifiable Information is requested when you register with us, order a product or service, fill out surveys, participate in contests or sweepstakes, correspond with us, or otherwise volunteer information, for instance, to request a catalog. Personally Identifiable Information might include your name, mailing address, telephone number, mobile phone number, email address, credit card and billing information, profession, gender, and other identification and contact information.
-<br><br>
-Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, <a href="https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com">click here</a>.
-<br><br>
-Except as otherwise stated in this Policy, we do not sell, trade or rent your Personally Identifiable Information collected on our Sites to others. The information collected by our Sites is used to process orders, to keep you informed about your order status, to notify you of products or special offers that may be of interest to you, and for statistical purposes for improving our Sites. We will disclose your Personally Identifiable Information to third parties for tracking purposes, to charge your credit card (or process your check or money order, as appropriate), fill your order, improve the functionality of our sites, customize our marketing efforts with you, perform statistical and data analyses, deliver your order, and deliver promotional emails to you from us. These third parties may not use your Personally Identifiable Information other than to provide the services requested by us. <br>
-We may disclose Personal Identification Information to law enforcement agencies when we believe that such disclosure is required by law.<p></p>
-<p>Please note that our sites (AllHeart.com, AllHeartchefs.com, AllHeartkids.com, Jascouniform.com) may contain links to other sites. Scrubs AC, Inc. is not responsible for the privacy practices or the content of such other Web sites. <br>
-<br><br>
-<b>Data Security</b><br>
-<br><br>
-Our shopping carts (including credit card information) are secured using Secure Socket Layer (SSL) encryption technology. We use this SSL technology to prevent such information from being intercepted and read as it is transmitted over the Internet. The encrypted data goes to a secure site where your information is stored on restricted-access computers located at restricted-access sites.<br>
-Secured with: <br>
-<a href="http://smallbusiness.yahoo.com/ecommerce/"><img border="0" src="https://sec.yimg.com/us.yimg.com/i/us/smallbiz/gr/ecomby_128bit2col.gif"></a>
-<br><br>
-<!-- START SCANALERT CODE -->
-<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.allheart.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/survey/www.allheart.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of McAfee, Inc.'); return false;"></a>
-<!-- END SCANALERT CODE -->
-<br><br>
-<b>Email Addresses</b><br>
-If you order one of our products or services, we will collect and maintain your name, email address, mailing address, telephone or mobile number, product selections, credit card number in an encrypted file (or check or money order information, if using such payment methods while ordering via mail), order number, referring URL, IP address and a password, as well as the recipient's name, address, telephone or mobile number and email address, if different from the customer. We collect this, and other information, as disclosed in this Policy, in order to fill your order, to communicate with you or the recipient of the order about your order, as appropriate, and to send you promotional materials.
-<br><br>
-When individuals send email inquiries to Scrubs AC, Inc., the return email address is used to answer the email inquiry we receive and may be used to send those individuals promotional materials.
-<br><br>
-All promotional emails include opt-out links. If you would like to opt-out of promotional e-mails, click:
-</p><li><a href="http://www.allheart.com/aboutus.html#emaillist">Opt-in/opt-out Form</a></li>
-<li>E-mail: <a href="mailto:CustomerService@allheart.com">CustomerService@AllHeart.com</a> </li>
-<br><br>
-<p><b>"Cookies" and How Scrubs AC, Inc (AllHeart.com and Jasco Uniform Company) Uses Them</b>
-<br><br>
-A "cookie" is a small data file that can be placed on your hard drive when you visit certain websites. Scrubs AC, Inc. may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide. These cookies do not enable third parties to access any of your customer information. These "cookies" DO NOT collect your credit card data.
-<br><br>
-<b>Revisions to This Policy</b>
-<br><br>
-Scrubs AC, Inc. reserves the right to revise, amend, or modify this policy and other policies and agreements at any time and in any manner. The last revision to the policy was published on January 23, 2009. Changes to this Policy will be announced on each of our Sites at least ten (10) days in advance, so please check back periodically.<br><br>
-<b>Where to direct questions about the Scrubs AC, Inc (AllHeart.com and Jasco Uniform Company) Privacy Policy</b>
-<br><br>
-If you have any questions about our Privacy Policy please contact:<br><br>
-Scrubs AC, Inc. <br>
-Privacy Policy <br>
-5284 Adolfo Road, Suite 250<br>
-Camarillo, CA 93012</p>
-<br style="clear:both"><br><form onclick="pageTracker._linkByPost(this,true);" name="master-form" method="post" action="http://order.store.yahoo.net/allheart/cgi-bin/wg-order?allheart+privacy"><img src="http://ep.yimg.com/ca/I/allheart_2136_0" width="10" height="1" border="0" hspace="0" vspace="0" alt=""><br><div class="optiontable"></div><div id="showoptions"></div></form></font></td></tr></tbody></table><br><br><!-- Pd-product-review-display --><table border="0" cellspacing="0" cellpadding="0" width="600"><tbody><tr><td><font size="1" face="arial, helvetica"><center><br>
-<a href="sale.html"><img src="http://lib.store.yahoo.net/lib/allheart/clearancesquare04132010.jpg" width="195" height="139" hspace="1" border="0"></a><!--<img src="http://lib.store.yahoo.net/lib/allheart/12032010fs129boxbnr.jpg" alt="Free Shipping on orders over $129 Use coupon code 4655" width="195" height="139" hspace="1">-->
-<a href="giftguide2010.html"><img src="http://lib.store.yahoo.net/lib/allheart/12072010giftguide.jpg" border="0"></a>
-<a href="http://www.allheart.com/gifts.html"><img src="http://lib.store.yahoo.net/lib/allheart/giftwrap-section-footer.jpg" alt="Gift Wrapping and Gift Cards now available!" width="195" height="139" hspace="1" border="0"></a>
-<p></p>
-</center></font></td></tr></tbody></table><br><table border="0" cellspacing="0" cellpadding="0" width="600"><tbody><tr><td><font size="1" face="arial, helvetica"></font><center><font size="1" face="arial, helvetica">
+<!-- BEGIN TRACKING SCRIPT -->
+<script language="JavaScript">
 <!--
-<a href="medical-scrubs.html">Scrubs</a> &nbsp; 
-<a href="nursing-uniforms.html">Nursing Uniforms</a> &nbsp; 
-<a href="medical-scrubs.html">Medical Scrubs</a> &nbsp; 
-<a href="nursing-scrubs.html">Nursing Scrubs</a> &nbsp; 
-<a href="medical-uniforms.html">Uniforms</a> &nbsp; 
-<a href="nursematesshoes.html">Nursing Shoes</a> &nbsp; 
-<a href="medical-uniforms.html">Medical Uniforms</a>
-<br />
-<a href="medical-supplies.html">Medical Supplies</a> &nbsp; 
-<a href="dickies-medical-uniforms.html">Dickies Scrubs</a> &nbsp; 
-<a href="labcoat.html">Lab Coats</a> &nbsp; 
-<a href="littmannscopes.html">Littmann Stethoscopes</a> &nbsp; 
-<a href="littmannstethoscopes.html">Stethoscopes</a> &nbsp; 
-<a href="cotton-scrubs-uniforms.html">Scrub Uniforms</a> &nbsp; 
-<a href="medical-scrubs.html">Discount Scrubs</a> &nbsp; 
-<a href="nursing-uniforms.html">Nurse Uniforms</a> &nbsp; 
-<a href="cherokee-uniforms.html">Cherokee Scrubs</a> &nbsp; 
-<a href="otherresources.html">Other Resources</a></center>--></font></center></td></tr></tbody></table><br><img src="http://ep.yimg.com/ca/Img/trans_1x1.gif" height="1" width="600" border="0"></td><td width="10"><img src="http://ep.yimg.com/ca/I/allheart_2136_0" width="10" height="1" border="0" hspace="0" vspace="0" alt=""></td><td bgcolor="#ffe5b8" align="center" width="167"><div class="pdRightPanel"><div id="pdRvDisplay" class="pdHide"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><img src="http://lib.store.yahoo.net/lib/allheart/pdRightBoxRecently.gif"></td></tr><tr><td class="pdRightBoxContent"><div id="recentlyViewedProducts"></div><script type="text/javascript">displayRecentlyViewedItems(productList);</script></td></tr><tr><td><img src="http://lib.store.yahoo.net/lib/allheart/pdRightBoxBot.gif"></td></tr></tbody></table></div></div><br><img src="http://ep.yimg.com/ca/Img/trans_1x1.gif" height="1" width="167" border="0">&nbsp;</td></tr><tr><td colspan="6" style="padding-left: 15px;"><div style="position:relative; left:10px; width: 790px; font-family: arial, 'lucida console', sans-serif; color:#696969; font-size:12px">
-<span style="font-size:14px; font-weight:bold">What our customers tell us:</span>
-<br><br>
-"I was happy with the item I purchased. The shoes are comfortable and well worth the price!"<br>
-Danene, NJ 
-<br><br>
-"Excellent expreience.  Prodcuts arrived as advertized, earlier than expected."<br>
-Aaron, VA
-<br><br>
-</div>
-
-<img src="http://lib.store.yahoo.net/lib/allheart/bottomlogos23.gif" width="790" height="160" border="0" usemap="#bottomlogosMap">
-<map name="bottomlogosMap" id="Map">
-  <area shape="rect" coords="10,7,100,35" href="allheart-scrubs-uniforms.html" alt="allheart Scrubs">
-  <area shape="rect" coords="110,10,197,32" href="riverwashed.html" alt="Riverwashed by allheart">
-  <area shape="rect" coords="202,9,260,34" href="http://search.allheart.com/?query=jasco" alt="Jasco by allheart">
-  <area shape="rect" coords="269,4,316,37" href="dickies-medical-uniforms.html" alt="Dickies Medical Uniforms">
-  <area shape="rect" coords="325,11,399,28" href="cherokee-uniforms.html" alt="Cherokee Uniforms">
-  <area shape="rect" coords="406,5,451,35" href="cherokee-scrubs.html" alt="Cherokee Workwear">
-  <area shape="rect" coords="462,9,523,35" href="landau-uniforms.html" alt="Landau">
-  <area shape="rect" coords="537,4,565,37" href="urbanescrubs.html" alt="Urbane">
-  <area shape="rect" coords="582,4,614,38" href="koiscrubs.html" alt="Koi">
-  <area shape="rect" coords="625,6,675,32" href="iguanamed.html" alt="IguanaMed">
-  <area shape="rect" coords="685,11,780,33" href="nudimension.html" alt="Nu Dimension Scrubs">
-  <area shape="rect" coords="18,38,77,76" href="flyflotshoes.html" alt="Fly Flot Shoes">
-  <area shape="rect" coords="91,47,154,73" href="anywears-shoes.html" alt="AnyWear">
-  <area shape="rect" coords="160,45,243,69" href="baby-phat-scrubs.html" alt="Baby Phat">
-  <area shape="rect" coords="251,42,282,76" href="white-swan-uniforms.html" alt="White Swan">
-  <area shape="rect" coords="291,45,322,76" href="littmannscopes.html" alt="Littmann">
-  <area shape="rect" coords="334,46,391,66" href="adc.html" alt="ADC">
-  <area shape="rect" coords="399,42,468,75" href="dansko.html" alt="Dansko">
-  <area shape="rect" coords="476,45,554,74" href="nurse-mates-shoes.html" alt="Nurse Mates">
-  <area shape="rect" coords="562,43,673,77" href="prestige-medical.html" alt="Prestige Medical">
-  <area shape="rect" coords="690,46,762,70" href="cherokee-tooniforms-scrub-tops.html" alt="Tooniforms by Cherokee">
-  <area shape="rect" coords="12,81,105,110" href="welch-allyn.html" alt="Welch Allyn">
-  <area shape="rect" coords="117,85,193,107" href="meta.html" alt="META Lab Coats">
-  <area shape="rect" coords="208,76,257,110" href="jockey.html" alt="Jockey Scrubs">
-  <area shape="rect" coords="272,85,333,107" href="mdfst.html" alt="MDF Stethoscopes">
-  <area shape="rect" coords="349,80,422,115" href="greys-anatomy-scrubs.html" alt="Grey's Anatomy� Scrubs">
-  <area shape="rect" coords="434,82,493,114" href="crayola.html" alt="Crayola� Threads by Barco">
-  <area shape="rect" coords="505,81,550,115" href="nrg.html" alt="NRG Scrubs by Barco">
-  <area shape="rect" coords="564,81,630,114" href="skechers.html" alt="Skechers Medical Scrubs">
-  <area shape="rect" coords="641,84,720,105" href="oxypas.html" alt="Oxypas Designer Footwear For Nurses">
-  <area shape="rect" coords="731,76,755,111" href="barco-uniforms.html" alt="Barco">
-  <area shape="rect" coords="13,119,105,144" href="larose.html" alt="L.A. Rose">
-  <area shape="rect" coords="114,117,148,156" href="donoharm.html" alt="Do No Harm">
-  <area shape="rect" coords="162,115,203,156" href="dawgsfootwear.html" alt="Dawgs Footwear">
-  <area shape="rect" coords="214,118,273,154" href="springstepshoes.html" alt="Spring Step Shoes">
-  <area shape="rect" coords="286,119,320,152" href="adarmedical.html" alt="Adar Medical Uniforms">
-  <area shape="rect" coords="327,123,397,149" href="alegria-nursing-shoes.html" alt="Alegria Nursing Shoes">
-  <area shape="rect" coords="408,124,479,149" href="wsgear-fusion-scrubs.html" alt="WS Gear Fusion Scrubs by White Swan">
-  <area shape="rect" coords="490,123,571,154" href="healing-hands-scrubs.html" alt="Healing Hands Medical Scrubs">
-  <area shape="rect" coords="579,124,643,153" href="landau-scrub-zone.html" alt="Medgear Medical Scrubs">
-  <area shape="circle" coords="668,137,17" href="medgear-scrubs.html" alt="ScrubZone by Landau Uniforms">
-  <area shape="rect" coords="694,127,777,148" href="whimsical-watches.html" alt="Whimsical Watches">
-</map><div class="footerboxes"><b class="footerboxtitles">SCRUBS</b><br>
-<a href="nursingscrubs.html">nursing uniforms</a><br>
-<a href="nursingscrubs.html">nursing scrubs</a><br>
-<a href="medical-scrubs.html">medical scrubs</a><br>
-<a href="nursingscrubs.html">scrub uniforms</a><br>
-<a href="medical-uniforms.html">uniforms</a><br>
-<a href="cheapscrubs.html">cheap nursing scrubs</a><br>
-<a href="medical-uniforms.html">medical uniforms</a><br>
-<a href="nursingscrubs.html">nurse uniforms</a><br>
-<a href="maternity-scrubs.html">maternity scrubs</a><br>
-<a href="dentalscrubs.html">dental scrubs</a><br>
-<a href="vet-scrubs.html">veterinary scrubs</a></div><div class="footerboxes"><b class="footerboxtitles">Scrubs Brands</b><br>	
-<a href="baby-phat-scrubs.html">baby phat scrubs</a><br>
-<a href="dickies-medical-uniforms.html">dickies scrubs</a><br>
-<a href="cherokee-uniforms.html">cherokee scrubs</a><br>
-<a href="urbanescrubs.html">urbane scrubs</a><br>
-<a href="koiscrubs.html">koi uniforms</a><br>
-<a href="landau-uniforms.html">landau</a></div><div class="footerboxes"><b class="footerboxtitles">Quick Links</b><br>
-<a href="brandstory.html">About Us</a><br>
-<a href="littmannstethoscopes.html">Stethoscope</a><br>
-<a href="nursematesshoes.html">Nursing Shoes</a><br>
-<a href="gice.html">Gift Certificates</a><br>
-<a href="http://search.allheart.com/Sitemap/Sitemap_Top.html">Popular Searches</a><br>
-<a href="http://search.allheart.com/Sitemap/Sitemap_Product_A.html">Popular Products</a><br>
-<a href="http://search.allheart.com/Sitemap/Sitemap_Catalog_1.html">Categories</a><br>
-<a href="nsearch.html">Site Map</a><br>
-<a href="http://www.allheartchefs.com">allheart<i>chefs</i>.com</a></div><div class="footerboxes"></div><div class="clearboth"></div></td></tr><tr><td colspan="6"><div id="footertext"><div id="footleft">
-</div>
-
-<div id="footright">
-	©2010 by Scrubs AC, Inc. <br>
-	AllHeart, AllHeart.com, Care with All Your Heart, America's Medical Superstore and the AllHeart.com logo are proprietary trademarks of Scrubs AC, Inc.<br> 
-<a href="trademarks.html">Other trademarks</a> are the property of their respective owners. <br>
-<a href="privacy.html">Privacy Policy</a><br>
-</div>
-<div id="sec-footer">
-
-<br style="clear:both"><br>
-
-<img src="http://lib.store.yahoo.net/lib/allheart/allheartlogo.jpg" width="150">
-
-<!-- BEGIN: BizRate Medal (125x73 pixels) -->
- <a href="http://www.shopzilla.com/ratings_guide/cust_reviews__mid--144147.html" target="http://www.shopzilla.com"> 
-<img src="http://medals.bizrate.com/medals/dynamic/144147_medal.gif" alt="BizRate Customer Certified (GOLD) Site" align="top" border="0" width="125" height="73">  </a>  
-<!-- END: BizRate Medal (125x73 pixels) -->
- 
- 
-<a target="_blank" href="http://www.santabarbara.bbb.org/BusinessReport.aspx?CompanyID=14000608&#10;">
- <img src="http://lib.store.yahoo.net/lib/allheart/bbbaplus.jpg" border="0">
-</a> 
-</div>
-<div class="clearboth"></div>
-
-
-<script language="JavaScript"><!--
 {
 document.write("<img src=http://tracking.searchmarketing.com/welcome.asp?SMCID=1619&x="+escape(document.referrer)+" width=1 height=1>");
 }
 //-->
-</script><img src="http://tracking.searchmarketing.com/welcome.asp?SMCID=1619&amp;x=" width="1" height="1">
-
-<!-- BEGIN: Custom Allheart Tracker -->
-<!--
-<script language="JavaScript">
-{
-document.write("<img src=http://manage.allheart.com/ahmarketing/welcome.aspx?refurl="+escape(document.referrer)+"&cururl="+escape(document.location.href)+" width=1 height=1>");
-}
-</script>
--->
-<!-- End: Custom Allheart Tracker -->
-
-</div></td></tr></tbody></table><map name="topnavbar">
-	<area href="emailspecials.html" shape="rect" coords="87,8,203,38">
-	<area href="info.html" shape="rect" coords="378,11,472,36">
-	<area href="embroidery.html" shape="rect" coords="478,10,563,37">
-    <area href="http://manage.allheart.com/orderstatus/" shape="rect" coords="571,8,639,40">
-    <area href="http://order.store.yahoo.net/allheart/cgi-bin/wg-order?ysco_key_store_id=allheart" shape="rect" coords="717, 12, 794, 38">
-<area shape="rect" coords="207,11,247,37" href="http://www.allheart.com/" alt="home"><area shape="rect" coords="253,10,294,35" href="http://twitter.com/allheart" alt="allheart on twitter">
-<area shape="rect" coords="299,11,374,37" href="http://blog.allheart.com/" alt="allheart blog">
-<area shape="rect" coords="643,10,711,37" href="http://myaccount.allheart.com/" alt="My Account">
-</map><script>windowOnload(rightPanelDisplay);</script><script type="text/javascript">doWindowOnload();</script>
+</script><img src="http://tracking.searchmarketing.com/welcome.asp?SMCID=1619&amp;x=" width="1" height="1"> <script type="text/javascript" src="http://ldn.monitus.net/monitus.js"></script>
+<script type="text/javascript">if(typeof(monitus_init) == "function") monitus_init(920, "new");</script>
+<noscript><img src="http://live.monitus.net/php-bin/mnsc.php?mid=920" alt="Monitus Yahoo Store web analytics" /></noscript> <script type="text/javascript">mybuys.initPage();</script>
 <script type="text/javascript">
 csell_env = 'mud';
 </script>
@@ -572,7 +1869,7 @@ csell_env = 'mud';
 </script>
 <script type="text/javascript">
 // Begin Y! Store Generated Code
-var analytics_token_map = {}; analytics_token_map['TOK_ENTRY_DOMAIN'] = ''; analytics_token_map['TOK_DOCGROUP'] = 'Store'; analytics_token_map['TOK_STATS_URL'] = 'http://a.analytics.yahoo.com/p.pl?a=1000'; analytics_token_map['TOK_PROJECT_ID'] = '2090021918'; analytics_token_map['TOK_DOCNAME'] = 'privacy'; analytics_token_map['TOK_OTHER_DOMAINS'] = '*.store.yahoo.net';  YStore = window.YStore||{};YStore.itatm = analytics_token_map;YWATracker = YWA.getTracker('1000'+YStore.itatm['TOK_PROJECT_ID']);YWATracker.setDocumentName(YStore.itatm['TOK_DOCNAME']);YWATracker.setDocumentGroup(YStore.itatm['TOK_DOCGROUP']);if ('' != YStore.itatm['TOK_ENTRY_DOMAIN']) {   YWATracker.setCookieDomain(YStore.itatm['TOK_ENTRY_DOMAIN']);}YWATracker.setDomains(YStore.itatm['TOK_OTHER_DOMAINS']);
+var analytics_token_map = {}; analytics_token_map['TOK_ENTRY_DOMAIN'] = ''; analytics_token_map['TOK_DOCGROUP'] = 'Store'; analytics_token_map['TOK_STATS_URL'] = 'http://a.analytics.yahoo.com/p.pl?a=1000'; analytics_token_map['TOK_COOKIE_PATH'] = ''; analytics_token_map['TOK_PROJECT_ID'] = '2090021918'; analytics_token_map['TOK_DOCNAME'] = 'privacy'; analytics_token_map['TOK_OTHER_DOMAINS'] = '*.store.yahoo.net,*.yhs4.search.yahoo.com';  YStore = window.YStore||{};YStore.itatm = analytics_token_map;YWATracker = YWA.getTracker('1000'+YStore.itatm['TOK_PROJECT_ID']);YWATracker.setDocumentName(YStore.itatm['TOK_DOCNAME']);YWATracker.setDocumentGroup(YStore.itatm['TOK_DOCGROUP']);YWATracker.setDomains(YStore.itatm['TOK_OTHER_DOMAINS']);YWATracker.setCookiePath(YStore.itatm['TOK_COOKIE_PATH']);
 </script>
 <script type="text/javascript">
 // Begin Y! Store Generated Code
@@ -600,10 +1897,16 @@ function csell_REC_VIEW_TAG() {  var env = (typeof csell_env == 'string')?csell_
 // Begin Y! Store Generated Code
 var csell_token_map = {}; csell_token_map['TOK_PAGE'] = 'p'; csell_token_map['TOK_WS_URL'] = 'http://allheart.csell.store.yahoo.net/cs/recommend?itemids=privacy&location=p'; csell_token_map['TOK_SHOW_CS_RECS'] = 'true'; csell_token_map['TOK_CURR_SYM'] = '$';  var t = csell_token_map; csell_GLOBAL_INIT_TAG(); YStore.page = t['TOK_PAGE']; YStore.currencySymbol = t['TOK_CURR_SYM']; YStore.crossSellUrl = t['TOK_WS_URL']; YStore.showCSRecs = t['TOK_SHOW_CS_RECS'];</script><script type="text/javascript" src="http://l.yimg.com/a/lib/smbiz/store/csell/js/recs-1.3.2.2.js"></script><script type="text/javascript">
 </script>
-<script language="javascript">
-if(window.yzq_p==null)document.write("<scr"+"ipt language=javascript src=http://l.yimg.com/d/lib/bc/bc_2.0.5.js></scr"+"ipt>");
-</script><script language="javascript" src="http://l.yimg.com/d/lib/bc/bc_2.0.5.js"></script><script language="javascript">
-if(window.yzq_p)yzq_p('P=ROdamNj8fkTogBpyA3fOXwHtz_HkpU0SSogABlGJ&T=17qrat6rr%2fX%3d1293044360%2fE%3d23732888%2fR%3dst%2fK%3d5%2fV%3d1.1%2fW%3dJ%2fY%3dYAHOO%2fF%3d3675857733%2fH%3dc2VydmVJZD0iUk9kYW1Oajhma1RvZ0JweUEzZk9Yd0h0el9Ia3BVMFNTb2dBQmxHSiIgc2l0ZUlkPSI0NDY2NTUxIiB0U3RtcD0iMTI5MzA0NDM2MDQzMzc4MiIg%2fI%3d1%2fS%3d1%2fJ%3d447EFCD8');
-if(window.yzq_s)yzq_s();
-</script><noscript><img width=1 height=1 alt="" src="http://us.bc.yahoo.com/b?P=ROdamNj8fkTogBpyA3fOXwHtz_HkpU0SSogABlGJ&T=17vsuhase%2fX%3d1293044360%2fE%3d23732888%2fR%3dst%2fK%3d5%2fV%3d3.1%2fW%3dJ%2fY%3dYAHOO%2fF%3d3822080038%2fH%3dc2VydmVJZD0iUk9kYW1Oajhma1RvZ0JweUEzZk9Yd0h0el9Ia3BVMFNTb2dBQmxHSiIgc2l0ZUlkPSI0NDY2NTUxIiB0U3RtcD0iMTI5MzA0NDM2MDQzMzc4MiIg%2fQ%3d-1%2fI%3d1%2fS%3d1%2fJ%3d447EFCD8"></noscript>
-</body></html>
+<script type="text/javascript"> 
+ <!-- 
+ if (document.referrer && (document.referrer!='') && window.Image) 
+ { 
+ (new Image).src="http://redirect1.vip.store.yahoo.com/cgi-bin/referadd?spcl=1&et=4ef93574&catalog=allheart&r=" + escape(document.referrer) + "&v=1"; }
+ // --> 
+ </script><script type="text/javascript"> 
+ <!-- 
+ if (document.referrer && (document.referrer!='') && window.Image) 
+ { 
+ (new Image).src="http://redirect1.vip.store.yahoo.net/cgi-bin/referadd?spcl=1&et=4ef93574&catalog=allheart&r=" + escape(document.referrer) + "&v=3"; }
+ // --> 
+ </script></body></html>
