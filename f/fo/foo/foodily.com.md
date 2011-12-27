@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodily.com privacy policy that was archived on 2011-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110210144053id_/http%3A//blog.foodily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodily.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227010146id_/http%3A//blog.foodily.com/privacy) for the most accurate reproduction.*
 
 # Foodily Blog
 
@@ -26,6 +26,10 @@ While Foodily encourages users to participate in discussions and comment on reci
 ### Third Party Websites Linked to Foodily.com
 
 As an indexer of recipes on the Web, Foodily links to an extensive array of third-party websites around the world. These third party websites are not under Foodily’s control and are not governed by this Privacy Policy. As a result, their privacy policies may differ substantially from Foodily’s.
+
+### Foodily Facebook App Privacy and Permissions
+
+Foodily has partnered with Facebook to make it easier to swap recipes with friends and family and have your favorite recipes be just a click away. Our partnership with Facebook and the development of our app means that we have new privacy settings and permissions for our users. For more information on Foodily’s partnership with Facebook and how it affects our users, visit our article on Privacy FAQs for Foodily’s Facebook App .
 
 ### Privacy and Children
 
