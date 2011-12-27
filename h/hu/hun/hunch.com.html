@@ -1,42 +1,53 @@
-<!--The following is the downloaded HTML source of the hunch.com privacy policy that was archived on 2011-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110612225848id_/http%3A//hunch.com/info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hunch.com privacy policy that was archived on 2011-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227060343id_/http%3A//hunch.com/info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-		
-		<meta charset="utf-8">
-		
+        
+        <meta charset="utf-8">
+        
 
-		<title>Privacy Policy - Hunch</title>
-		<link rel="stylesheet" media="screen" href="http://aka-img-1.h-img.com/media/css/base/screen-min.css?m=1307730231">
-		
-		<script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://aka-img-2.h-img.com/media/js/jquery-1.5.2.min.js"></script><script src="http://aka-img-1.h-img.com/media/js/pkg.full-min.js?m=1307722294"></script>
-		
-		
-		<link rel="icon" href="/favicon.ico" type="image/x-icon">
-		
-		
-		
+        <title>Privacy Policy - Hunch</title>
+        
+        <link rel="stylesheet" media="screen" href="http://aka-img-1.h-img.com/media/css/base/screen-min.css?m=1320967952">
+        
+        <script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://aka-img-2.h-img.com/media/js/jquery-1.5.2.min.js"></script><script src="http://aka-img-1.h-img.com/media/js/pkg.full-min.js?m=1320096293"></script>
+        
+        
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+        
+        
+        
 		<script>
+                        var p = document.location.pathname;
+                        var r = /\/browse\/(dog-names|cat-names|quotations|baby-boy-names|baby-girl-names)/i;
+                        var sem = r.exec(p);
+
 			var mpq=[];
 			mpq.push(["init", "7b8e535ea20c6836dd822a73cd4003bd"]);
+                        mpq.push(["register", {"email_arrival": "None"}, "all", 1]);
             		
-            		mpq.push(["register_once", {"mp_source": "other", "source": "other", "landing": "other"}, "all", "False", 365]);
+                        if (sem) {
+                          mpq.push(["register_once", {"mp_source": "sem", "source": "sem", "landing": "sem__"+sem}, "all", "False", 365]);
+                        } else {
+            	          mpq.push(["register_once", {"mp_source": "other", "source": "other", "landing": "other"}, "all", "False", 365]);
+                        }
             		mpq.push(["register", {}, "all", 365]);
+                        mpq.push(["register", {mobile: "False"}, "all",1])
 			mpq.push(["track", "visit_hunch"]);
             		
         </script>
-		
-	</head>
-	<body class="single">
-		<div id="container">
-			<div id="content-wrap">
-				<div id="content" class="id-content">
-					
+        
+    </head>
+    <body class="single">
+        <div id="container">
+            <div id="content-wrap">
+                <div id="content" class="id-content">
+                    
 	<div id="alpha">
 		<h1>Privacy Policy</h1>
 		<div class="prose">
-<p>Effective January 13, 2011</p>
-<p>This Privacy Policy covers Hunch's treatment of personal information that Hunch collects when you are on the Hunch website ("the Site") and when you use Hunch services. It covers Hunch accounts that were created on or after January 13, 2011. Accounts created before January 13, 2011 are subject to the <a href="/info/privacy-policy/?date=2010-09-13">previous version</a> of this policy until they are prompted to opt-in to this updated version.</p>
+<p>Effective November 3, 2011</p>
+<p>This Privacy Policy covers Hunch's treatment of personal information that Hunch collects when you are on the Hunch website ("the Site") and when you use Hunch services.</p>
 
 <h3>The really big picture:</h3>
 <p>Your privacy is protected when you use the Hunch Site. Like a knowledgeable expert who gets to know you better over time, Hunch provides increasingly accurate recommendations to you the more you answer questions and provide feedback about the recommendations you've already received. Here's a summary of how you can control that information:</p>
@@ -113,38 +124,53 @@
 </div>
 	</div>
 
-					
-					<div id="page" class="clearfix"></div>
-				</div>
-			</div>
-			<script>if(/windows.*chrome\/[01234]\./i.test(navigator.userAgent)){document.body.id='is_chrome'}</script>
-			<div id="header-wrap">
+                    
+                    <div id="page" class="clearfix"></div>
+                </div>
+            </div>
+            <div id="header-wrap">
                 <div id="header">
 
-			        
-			        
-			        <ul id="nav">
+                    
+                    
+                    <ul id="nav">
 
-			            <li>
-			                <a href="/">Feed</a>
-			            </li>
-			            <li>
-			                <a href="/browse/">Browse</a>
-			            </li>
-			            
-
-
-			            
-			            
-			            <li class="sign-in">
-			                <a class="hovers" href="/people/login/?next=/info/privacy-policy/" rel="nofollow">Sign In<s></s></a>
+                        
+                        
+                        <li>
+                            <a href="/browse/">Browse</a>
+                        </li>
+                        <li>
+                            <a class="hovers people" href="/people/influencers/">People</a>
+                            <ul>
+                                <li><a href="/people/influencers/">Influencers</a></li>
+                                <li><a href="/people/friends/">Friends</a></li>
+                                <li><a href="/people/tastemates/">Tastemates</a></li>
+                                <li><a href="/people/brands/">Brands</a></li>
+                                <li><a href="/people/new/">New Users</a></li>
+                            </ul>
+                        </li>
+                        
+                        
+                        
+                        <li class="sign-in">
+                            <a class="hovers" href="/people/login/?next=/info/privacy-policy/" rel="nofollow">Sign In</a>
                             <ul>
                                 <li class="small">
                                     <div class="clr">
-                                        <a class="left" href="/connect/facebook/?next=/info/privacy-policy/" title="sign in with facebook"><img alt="sign in with facebook" height="22" width="105" src="http://aka-img-1.h-img.com/media/img/connect/fb-medium.png" style="vertical-align:middle;"></a>
-                                        <a class="right" href="/connect/twitter/?next=/info/privacy-policy/" title="sign in with twitter"><img alt="sign in with twitter" height="22" width="105" src="http://aka-img-1.h-img.com/media/img/connect/twitter-medium.png" style="vertical-align:middle;"></a>
+
+                                        
+                                        <a class="connect-facebook left" href="/connect/facebook/?next=/info/privacy-policy/" title="Sign in with Facebook" rel="nofollow">
+                                            <span>Sign in with Facebook</span>
+                                        </a>
+
+                                        
+                                        <a class="connect-twitter right" href="/connect/twitter/?next=/info/privacy-policy/" title="Sign in with Twitter" rel="nofollow">
+                                            <span>Sign in with Twitter</span>
+                                        </a>
+
                                     </div>
-                                    <form class="br-spl" method="post" action="/people/login/?next=/info/privacy-policy/">
+                                    <form class="br-spl" method="post" action="https://hunch.com/people/login/?next=/info/privacy-policy/">
                                         <label for="id_email_or_username">Email or username:</label>
                                         <input id="id_email_or_username" class="text" type="text" name="email_or_username" value="">
                                         <label for="id_password">Password:</label>
@@ -155,92 +181,91 @@
                                         </div>
                                     </form>
                                     <p class="xsmall">
-	                                    <a class="" rel="nofollow" href="/people/forgot-password/">Forgot your password?</a><br>
-	                                    <a class="" rel="nofollow" href="/people/create-account/">Create account</a>
+                                        <a class="" rel="nofollow" href="/people/forgot-password/">Forgot your password?</a><br>
+                                        <a class="" rel="nofollow" href="/signup/create-account/">Create account</a>
                                     </p>
                                 </li>
-                                
                             </ul>
-			            </li>
-			            
+                        </li>
+                        
 
-		            </ul>
-		            
+                    </ul>
+                    
 
-					<p id="logo"><a href="/">Hunch</a></p>
+                    <p id="logo"><a href="/">Hunch</a></p>
 
-					
-					
-					<form action="/search/" method="get" id="site-search" name="search"><input id="search-box" type="text" class="text" name="query" placeholder="" maxlength="100" autocomplete="off"><a rel="nofollow" href="javascript:document.forms['search'].submit();" class="search">search</a><div class="yui-skin-sam yui-ac"><div id="ac-container" class="actnav-myContainer"></div></div></form>
-					
+                    
+                    <form action="/search/" method="get" id="site-search" name="search"><input id="search-box" type="text" class="text" name="query" placeholder="" maxlength="100" autocomplete="off"><a rel="nofollow" href="javascript:document.forms['search'].submit();" class="search">search</a><div class="yui-skin-sam yui-ac"><div id="ac-container" class="actnav-myContainer"></div></div></form>
+                    
 
-					
+                    
 
-					
-	                
+                    
+                </div>
+            </div>
+        
+        </div>
+
+        
+        <div id="footer-wrap">
+            <div id="footer">
+                <ul class="sections">
+                    <li class="first">
+                        <ul>
+                            <li><h5>About</h5></li>
+                            <li><a href="/info/about/">About Hunch</a></li>
+                            <li><a href="/info/community-guidelines/">Community Guidelines</a></li>
+                            <li><a href="/info/the-hunch-team/">The Hunch Team</a></li>
+                            <li><a href="/fact-sheet/">Fact Sheet</a></li>
+                            <li><a href="/info/press/">Press &amp; Reports</a></li>
+                        </ul>
+                    </li>
+                    <li class="footer-legal">
+                        <ul>
+                            <li><h5>Legal</h5></li>
+                            <li><a href="/info/terms-of-service/">Terms of Service</a></li>
+                            <li><a href="/info/privacy-policy/">Privacy Policy</a></li>
+                            <li><a href="/info/copyright-notice/">Copyright Policy</a></li>
+                        </ul>
+                    </li>
+                    <li class="footer-help">
+                        <ul>
+                            <li><h5>Help</h5></li>
+                            <li><a href="/help/">FAQ</a></li>
+                            <li><a href="/forums/help/">Help Forum</a></li>
+                            <li><a href="/info/jobs/">Jobs</a></li>
+                            <li><a href="/info/press/">Contact Us</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <ul>
+                            <li><h5>More</h5></li>
+                            <li><a href="http://blog.hunch.com/">Hunch Blog</a></li>
+                            <li><a href="http://twitter.com/hunch/">Follow us on Twitter</a></li>
+                            <li><a href="http://www.facebook.com/hunch">Facebook Page</a></li>
+                            <li><a href="/goodies/">Goodies</a></li>
+                            <li><a href="/developers/">Developers/API</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <div class="notice prose">
+                    <p id="mobile-footer" class="hide">View Hunch in: <a href="#" id="mobile-switch">Mobile</a> | <strong>Classic</strong></p>
+                    <p>
+                        Hunch does not evaluate or guarantee the accuracy of any advice or content on the Hunch site.
+                        <a href="/info/terms-of-service/#content-disclaimer" rel="nofollow">Full disclaimer</a>
+                    </p>
+                    <p>
+                        <strong>Copyright © 2011 Hunch Inc.</strong>
+                        <br>
+                        <a href="http://nytm.org/made/">Made in NYC</a>
+                    </p>
                 </div>
             </div>
         </div>
 
         
-		
-        <div id="footer-wrap">
-			<div id="footer">
-				<ul class="sections">
-					<li class="first">
-						<ul>
-							<li><h5>About</h5></li>
-							<li><a href="/info/about/">About Hunch</a></li>
-							<li><a href="/info/community-guidelines/">Community Guidelines</a></li>
-							<li><a href="/info/the-hunch-team/">The Hunch Team</a></li>
-							<li><a href="/fact-sheet/">Fact Sheet</a></li>
-							<li><a href="/info/press/">Press &amp; Reports</a></li>
-						</ul>
-					</li>
-					<li class="footer-legal">
-						<ul>
-							<li><h5>Legal</h5></li>
-							<li><a href="/info/terms-of-service/">Terms of Service</a></li>
-							<li><a href="/info/privacy-policy/">Privacy Policy</a></li>
-							<li><a href="/info/copyright-notice/">Copyright Policy</a></li>
-						</ul>
-					</li>
-					<li class="footer-help">
-						<ul>
-							<li><h5>Help</h5></li>
-							<li><a href="/help/">FAQ</a></li>
-							<li><a href="/forums/help/">Help Forum</a></li>
-							<li><a href="/info/jobs/">Jobs</a></li>
-                            <li><a href="/info/press/">Contact Us</a></li>
-						</ul>
-					</li>
-					<li>
-						<ul>
-							<li><h5>More</h5></li>
-							<li><a href="http://blog.hunch.com/">Hunch Blog</a></li>
-							<li><a href="http://twitter.com/hunch/">Follow us on Twitter</a></li>
-							<li><a href="http://www.facebook.com/hunch">Facebook Page</a></li>
-                            <li><a href="/goodies/">Goodies</a></li>
-							<li><a href="/developers/">Developers/API</a></li>
-						</ul>
-					</li>
-				</ul>
-				<div class="notice prose">
-                                    
-					<p>
-						Hunch does not evaluate or guarantee the accuracy of any advice or content on the Hunch site.
-						<a href="/info/terms-of-service/#content-disclaimer" rel="nofollow">Full disclaimer</a>
-					</p>
-					<p><strong>Copyright © 2011 Hunch Inc.</strong></p>
-				</div>
-			</div>
-			
-			
 
-		</div>
-		
-
-<script>
+        <script>
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-10902294-1'], ['_trackPageview']);
 (function(d, c) {
@@ -250,16 +275,15 @@ _gaq.push(['_setAccount', 'UA-10902294-1'], ['_trackPageview']);
 })(document, 'script');
 </script>
 
+        
 
-
-<script>
+        <script>
 		(function() {
 			var mp = document.createElement("script"); mp.type = "text/javascript"; mp.async = true;
 			mp.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + "//api.mixpanel.com/site_media/js/api/mixpanel.js";
 			var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(mp, s);
 		})();
 	</script>
+    
 
-
-
-<!-- request time 0:00:00.019161 version 19779M server hostname b-app-5.hprod server pid 15067 --></body></html>
+<!-- request time 0:00:00.019200 version b69e19ee5effa7fecc8bcf8d5e160961ca7ce3c9 server hostname b-app-4.hprod server pid 16822 --></body></html>
