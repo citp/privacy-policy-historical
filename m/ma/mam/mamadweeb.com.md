@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mamadweeb.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516045547id_/http%3A//mamadweeb.com/2010/03/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamadweeb.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227235411id_/http%3A//mamadweeb.com/2010/03/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mama Dweeb
-
-March 14, 2010 By [Leave a Comment](http://mamadweeb.com/2010/03/privacy-policy/#comments)
+# Privacy Policy
 
 #### Mama Dweeb refuses to distribute contact information with any other parties. Emails are kept private. In the rare event that a sponsor needs the winner’s email address I will ask the winner before I hand it out.
 
