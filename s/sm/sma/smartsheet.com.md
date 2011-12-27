@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smartsheet.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608131423id_/http%3A//www.smartsheet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsheet.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227015626id_/http%3A//www.smartsheet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Smartsheet
 
 ## Smartsheet.com Privacy Policy
 
-Updated policy: Effective on June 24, 2010
+Updated policy: Effective on July 20, 2011
 
 This privacy statement describes how Smartsheet collects and uses the personal information you provide on our Web site: www.smartsheet.com . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
@@ -45,11 +45,16 @@ We use this information to
 
 
 
+This Policy applies only to personal information that we collect from you. We provide a service from our web site that permits users to share information with each other by creating, uploading, and attaching information to shared "sheets" that are stored on our web site. This Policy does not apply to personal information that you share with other users when you submit or upload it to these shared sheets. Instead, our use and distribution of information submitted to sheets is described in our [Master Service Agreement](https://www.smartsheet.com/files/MasterServiceAgreement.pdf).
+
+
+
+
 ## Choice/Opt-Out
 
 Customers can opt out of being contacted by us, or receiving such information from us, by following the opt out instructions located in the e-mails we may send you, by changing your privacy settings in the Service, or by [contacting us](http://www.smartsheet.com/contact) at any time.
 
-Smartsheet.com reserves the right to send its existing customers certain communications relating to the Service as part of our commercial relationship with you, such as service announcements and administrative messages without offering the opportunity to opt out of receiving them. If you do not wish to receive them, you have the option to deactivate your account by logging in to your Smartsheet account, clicking on the My Account link, selecting Account & Billing Info and clicking on the Cancel Account link.
+Smartsheet.com reserves the right to send its existing customers certain communications relating to the Service as part of our commercial relationship with you, such as service announcements and administrative messages without offering the opportunity to opt out of receiving them. If you do not wish to receive them, you have the option to cancel your account by logging in to your Smartsheet account, accessing the Account Admin menu, and clicking the Cancel Account link.
 
 ## Testimonials
 
@@ -89,7 +94,7 @@ In order to make a purchase from us, you must use our shopping cart provider to 
 
 ## Opt-Out Policy
 
-Smartsheet.com offers its visitors and customers a means to choose how we may use information provided. If, at any time after registering for information or ordering the Service, you change your mind about receiving information from us or about sharing your information with third parties, send us a request specifying your new choice.
+Smartsheet.com offers its visitors and customers a means to choose how we may use information provided. Any time after registering for information or ordering the Service, you may change your mind about receiving information from us or about sharing your information with third parties. You may notify us of your change in preference using the Personal Settings menu within the application, or by sending an email to support@smartsheet.com.
 
 ## Additional Policy Information
 
@@ -113,4 +118,4 @@ We may update this privacy statement to reflect changes to our information pract
 
 ## Contact Information
 
-Questions regarding this Policy or the practices of this Site should be directed to Smartsheet.com's Security Administrator by [online submittal](http://www.smartsheet.com/contact) or by regular mail addressed to Smartsheet.com, inc., Attn: Security Administrator, 325 118th Ave SE, Suite 305 Bellevue, WA 98005.
+Questions regarding this Policy or the practices of this Site should be directed to Smartsheet.com's Security Administrator by [online submittal](http://www.smartsheet.com/contact) or by regular mail addressed to Smartsheet.com, Inc., Attn: Security Administrator, 10500 NE 8th St. Suite 1550, Bellevue WA 98004.
