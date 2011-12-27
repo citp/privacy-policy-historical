@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blucigs.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602095119id_/http%3A//www.blucigs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blucigs.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227054128id_/http%3A//www.blucigs.com/privacy-policy) for the most accurate reproduction.*
 
-# Electronic Cigarette by blu E Cigarette - Privacy Policy
+# blu Cigs Privacy Policy | Electronic Cigarettes by blu Cigs | FREE SHIPPING
 
 ### Privacy Policy
 
@@ -49,9 +49,9 @@ If your personally identifiable information changes, or if you no longer desire 
 
 ### Surveys or Contests
 
-From time to time, we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary, and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address) and demographic information (such as zip code).
+From time to time, we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary, and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address) and demographic information (such as zip code). We may request other information, in our sole discretion, which we consider important to the administration and promotion of the survey or contest
 
-We use this information to notify contest winners and award prizes, monitor site traffic, personalize the site (in the case of anonymous information collected in surveys), and send participants an email newsletter.
+We use this information to notify contest winners and award prizes, monitor site traffic, personalize the site (in the case of anonymous information collected in surveys), and send participants an email newsletter. We may also use this information for publicity or marketing purposes. We may publish this information in our sole discretion. The rules applicable to any individual survey or contest will be published prior to the collection of any personally identifiable information and you agree to such use by submitting any information.
 
 We may use a third party service provider to conduct these surveys or contests; that company is prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
