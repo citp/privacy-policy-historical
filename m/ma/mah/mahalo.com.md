@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the mahalo.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527212911id_/http%3A//www.mahalo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mahalo.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227223302id_/http%3A//www.mahalo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-* ## 
-
-Here at Mahalo, we pride ourselves on providing a view of the Internet free from spam and problematic websites. We want to make your time spent on Mahalo the best Internet experience that we can. For these same reasons, we value your privacy and strive to keep as little information about you and your activities on our site as possible. 
-
-* ## 
 
 **If you are a regular visitor to our site:**
 
@@ -18,8 +12,6 @@ Here at Mahalo, we pride ourselves on providing a view of the Internet free from
   6. What does this mean? All of your searches in our system are 100% anonymous. We are never able to connect a search with a specific person. 
 
 
-
-* ## 
 
 **If you sign up for a user account, recommend links to our pages, edit any of our pages, participate in our message boards, or participate in Mahalo Answers:**
 
@@ -33,8 +25,6 @@ Here at Mahalo, we pride ourselves on providing a view of the Internet free from
 
 
 
-* ## 
-
 **Uses:**
 
   1. We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
@@ -44,8 +34,6 @@ Here at Mahalo, we pride ourselves on providing a view of the Internet free from
 
 
 
-* ## 
-
 If you have additional questions, please contact us any time: privacy@mahalo.com. Or write to us at: 
 
   * Mahalo.com, Inc 
@@ -53,3 +41,5 @@ If you have additional questions, please contact us any time: privacy@mahalo.com
   * Santa Monica, CA 90401 (USA) 
 
 
+
+Here at Mahalo, we pride ourselves on providing a view of the Internet free from spam and problematic websites. We want to make your time spent on Mahalo the best Internet experience that we can. For these same reasons, we value your privacy and strive to keep as little information about you and your activities on our site as possible. 
