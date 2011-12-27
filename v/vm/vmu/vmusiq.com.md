@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vmusiq.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502185719id_/http%3A//vmusiq.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmusiq.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227043817id_/http%3A//www.vmusiq.com/Privacy.asp) for the most accurate reproduction.*
 
 # :: Privacy Policy :: NewTamilHits.com ::
 
