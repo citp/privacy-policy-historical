@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netotrade.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527083606id_/http%3A//www.netotrade.com/privacy%2Bpolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netotrade.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227114807id_/http%3A//www.netotrade.com/privacy%2Bpolicy.html) for the most accurate reproduction.*
 
 # Neto Trade Home Page | Forex | Trading | CFD's - Privacy Policy
 
