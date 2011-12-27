@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinkcanyon.info privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612230657id_/http%3A//www.backlinkcanyon.info/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinkcanyon.info privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227192317id_/http%3A//www.backlinkcanyon.info/privacypolicy.php) for the most accurate reproduction.*
 
 # Back Link Canyon General Directory - Privacy Policy
 
@@ -35,13 +35,13 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 Free high quality female celebrity wallpapers including musicians, models, Hollywood and Bollywood actresses. Visit us for hot free background pictures.  
   
 ---|---  
-| [911 locksmith services](http://www.911locksmithservices.com/ "911 locksmith services") \- http://www.911locksmithservices.com
+| [Ariesoul Jewelry](http://www.ariesouljewelry.com/ "Ariesoul Jewelry") \- http://www.ariesouljewelry.com
 
-911 Locksmith Services provides locksmith services around the clock throughout the country. When you require the services of an experienced locksmith, we provide the services of a reputable, experienced, and reasonable locksmiths, ranging from simple jobs (such as lock repair) to extensive security systems.  
+One-of-a-kind handcrafted necklaces, earrings, and bracelets designed by Alicia A. Bergman feature semiprecious, Swarovski crystal, and glass beads with hypoallergenic sterling silver, copper, or black metal links and clasps.  
   
 ---|---  
-| [Bendy Fun](http://bendyfun.info/ "Bendy Fun") \- http://bendyfun.info
+| [QPEW! Arcade](http://qpew.com/ "QPEW! Arcade") \- http://qpew.com/
 
-Learn about bendable toys, crafts and arts. Fun, creative and artistic pursuits with Bendaroos, Wikki Stix, Wax Works and other bendy toys and crafts.  
+Online free games arcade focusing on providing quality games without having to jump through hoops, offsite links and reams of advertising.  
   
 ---|---
