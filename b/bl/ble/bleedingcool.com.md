@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bleedingcool.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619215916id_/http%3A//www.bleedingcool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleedingcool.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228000242id_/http%3A//www.bleedingcool.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Bleeding Cool Comic Book, Movies and TV News and Rumors
-
-[Home](http://www.bleedingcool.com/) » Privacy Policy
+# Privacy Policy | Bleeding Cool Comic Book, Movies and TV News and Rumors
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
