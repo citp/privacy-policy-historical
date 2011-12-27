@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news-journalonline.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615072526id_/http%3A//www.news-journalonline.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-journalonline.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227060831id_/http%3A//www.news-journalonline.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Daytona Beach News-Journal
 
@@ -24,10 +24,10 @@ _**2\. Children's Online Privacy Protection Act Notices.**_
 
 _**3\. Targeted Advertisements.**_ News-Journal displays targeted advertisements based on personal information. Advertisers (including advertisement serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria. News-Journal does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
 
-_**4\. Modification or Deletion of Account Information.**_ You can edit or delete your E-delivery newsletter account information at any time at [www.news-journalonline.com/online/email.htm](http://www.news-journalonline.com/help/email.html). Some information about you and your account may remain in our archived records after modification and/or deletion.
+_**4\. Modification or Deletion of Account Information.**_ You can edit or delete your E-delivery newsletter account information at any time at [www.news-journalonline.com/newsletter/user-login.aspx](http://www.news-journalonline.com/newsletter/user-login.aspx). Some information about you and your account may remain in our archived records after modification and/or deletion.
 
 **5\. Sale or Merger of Business.** If News-Journal becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will transfer the information to the resulting entity, which may or may not utilize the same privacy policy.
 
 **6\. Changes.** News-Journal may update this policy at any time. We will notify you about significant changes in the way we treat personal information by placing a prominent notice on our website.
 
-**7\. Comments or Questions.** If you have any questions or comments about this policy, please contact our Webmaster, Chris Bridges, at [chris.bridges@news-jrnl.com](mailto:chris.bridges@news-jrnl.com).
+**7\. Comments or Questions.** If you have any questions or comments about this policy, please contact us at [webmaster@news-jrnl.com](mailto:webmaster@news-jrnl.com).
