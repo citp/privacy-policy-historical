@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inentertainment.co.uk privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627211833id_/http%3A//www.inentertainment.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inentertainment.co.uk privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227082903id_/http%3A//www.inentertainment.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy « In Entertainment
+# Privacy - In Entertainment
 
 All information that we at In Entertainment gather from you, this could either be when you first register with us or from the use of cookies which we gather from you every time that you visit our site will not be passed on to any outside party what so ever
 
