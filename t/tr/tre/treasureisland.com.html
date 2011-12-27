@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the treasureisland.com privacy policy that was archived on 2011-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624052824id_/http%3A//www.treasureisland.com/privacy_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the treasureisland.com privacy policy that was archived on 2011-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227054953id_/http%3A//www.treasureisland.com/privacy_policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -124,6 +124,36 @@
 <p>Revised:&nbsp;March 26, 2009</p>
 <p>© 2011 Treasure Island, LLC</p>
 </div>
+<!-- calendar -->
+<script language="JavaScript">
+function getDateStrWithDOW() {
+	var aMonth = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+	var today = new Date();
+	var year = today.getYear();
+	if(year<1000) year+=1900;
+	var todayStr =  today.getDate() + " " + aMonth[today.getMonth()] + ", " + year;
+	document.iform.DateIn.value = todayStr;
+
+}
+//getDateStrWithDOW();
+</script>
+
+<!--outbound links -->
+
+<script type="text/javascript">
+function recordOutboundLink(link, category, action) {
+  try {
+    var pageTracker=_gat._getTracker("UA-8014095-1");
+    pageTracker._trackEvent(category, action);
+    if (link.target == '_blank') {
+         window.open(link.href);
+    } else {
+        setTimeout('document.location = "' + link.href + '"', 100)
+   }
+  }catch(err){}
+}
+</script>
+
 <!-- affliliate -->
 <script language="javascript1.1" type="text/javaScript" src="/include/js/myap9.js"></script>
 <!-- tracking -->
