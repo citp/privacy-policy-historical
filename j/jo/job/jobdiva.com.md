@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobdiva.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530030327id_/http%3A//www.jobdiva.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobdiva.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227065815id_/http%3A//www.jobdiva.com/privacy) for the most accurate reproduction.*
 
 # JobDiva | Privacy Policy
 
