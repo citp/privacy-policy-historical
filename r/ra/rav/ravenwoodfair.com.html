@@ -1,7 +1,442 @@
-<!--The following is the downloaded HTML source of the ravenwoodfair.com privacy policy that was archived on 2011-03-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110303111512id_/http%3A//ravenwoodfair.com/app/1/email/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ravenwoodfair.com privacy policy that was archived on 2011-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227055339id_/http%3A//www.ravenwoodfair.com/app/1/email/privacy_policy) for the most accurate reproduction.-->
 
-<html><head></head><body><div id="privacy-policy">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+    <title>Ravenwood Fair | Play for Free</title>
+    <meta name="description" content="Clear the forest and build a fun fair! Play online for free.">
+    <meta name="keywords" content="ravenwood fair, free game, facebook connect, facebook, play ravenwood, ravenwood, online game, free online game">
+    <meta name="robots" content="index,follow">
+    <script type="text/javascript" src="http://gp1.wac.edgecastcdn.net/801EC0/www.ravenwoodfair.com/js/jquery-1.4.2.min.js"></script>
+    <script type="text/javascript" src="http://gp1.wac.edgecastcdn.net/801EC0/www.ravenwoodfair.com/js/jquery.json-2.2.min.js"></script>
+    <script type="text/javascript" src="http://gp1.wac.edgecastcdn.net/801EC0/www.ravenwoodfair.com/js/jquery.infieldlabel.min.js"></script>
+    <script type="text/javascript" src="http://gp1.wac.edgecastcdn.net/801EC0/www.ravenwoodfair.com/js/base.js"></script>
+
+    <script type="text/javascript">
+      var resizeInterval;
+      var lastHeight = 0;
+      var paddingHeight = 20;
+      var requestPrepareUrl = 'http://www.ravenwoodfair.com/app/1/apprequest/prepare';
+      var requestCallbackUrl = 'http://www.ravenwoodfair.com/app/1/apprequest/add_request';
+      var requestAcceptUrl = 'http://www.ravenwoodfair.com/app/1/apprequest/accept';
+      var requestIgnoreUrl = 'http://www.ravenwoodfair.com/app/1/apprequest/ignore';
+      var requestCancelUrl = 'http://www.ravenwoodfair.com/app/1/apprequest/cancel';
+      var freeGiftsUrl = 'http://www.ravenwoodfair.com/app/1/gift';
+      var removeNeighborUrl = 'http://www.ravenwoodfair.com/app/1/neighbors/remove_neighbor';
+      var cancelNeighborUrl = 'http://www.ravenwoodfair.com/app/1/neighbors/cancel_request';
+      var pnLoadUrl = 'http://www.ravenwoodfair.com/app/1/playernetwork/embed';
+      var pnUserUrl = 'http://www.ravenwoodfair.com/app/1/playernetwork/get_users';      
+
+      var loadingGif = 'http://gp1.wac.edgecastcdn.net/801EC0/www.ravenwoodfair.com/img/loading.gif';
+      var safeWindowSize = 6000;
+      var gameHeight = 700;
+      var tagged_friends = "";
+      var fs = new FriendSelector("inviteDialog");
+
+      function startResizeInterval() {
+          clearInterval(resizeInterval);
+          resizeInterval = setInterval(function() {
+              var currentHeight = window_height();
+              if (lastHeight < currentHeight) {
+                  if (lastHeight == 0) {
+                      currentHeight = safeWindowSize;
+                  }
+                  set_window_height(currentHeight);
+              } else if (lastHeight - currentHeight > paddingHeight) {
+                  var chunks = Math.ceil((lastHeight - currentHeight) / (2 *  paddingHeight));
+                  set_window_height(lastHeight - paddingHeight * chunks);
+              }   
+          }, 100);
+      }   
+      
+      function window_height() {
+          var currentHeight = $(document.body).height();
+          return currentHeight;
+      }   
+          
+      function set_window_height(currentHeight) {
+          if (currentHeight < gameHeight) {
+              currentHeight = gameHeight;
+          }
+          FB.Canvas.setSize({height: currentHeight + paddingHeight});
+          lastHeight = currentHeight;
+      }
+      
+      function recordEnergyIcon(startTime, label) {
+        var time = new Date().getTime() - startTime;
+        var data = {};
+        data['is_ajax'] = true;
+        data['label'] = label;
+        data['time'] = time;
+        $.post("http://www.ravenwoodfair.com/app/1/stats/energy_icon", data);
+      }
+    </script>
+
+    <style>
+        
+  .hidden {
+    display: none;
+  }
+  
+  .displaysLolTicker {
+    position:absolute;
+    right:-2px;
+    top:-1px;
+    background:#aa2705;
+    padding:0px 1px 1px 0px;
+    font-weight:normal;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+  }
+  
+  .displaysLolTicker span {
+    background:#ef3f11;
+    padding:0px 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    font-size:12px;
+  }
+  
+  a:hover displaysLolTicker {
+    text-decoration:none;
+  }
+
+
+  .containsTabs {
+    padding-top:4px;
+  }
+
+  .containsTabs ul, .containsTabs li {
+    margin:0px;
+    padding:0px;
+    list-style:none;
+  }
+
+  .containsTabs ul.firstChild /* First set of tabs */ {
+    float:left;
+  }
+
+  .containsTabs ul.lastChild /* Second set of tabs */ {
+    float:right;
+  }
+
+  .containsTabs ul.lastChild li.lastChild {
+    margin-right:10px;
+  }
+
+  .containsTabs li {
+    float:left;
+    font-size:12px;
+    position:relative;
+  }
+
+  .containsTabs li a, .displaysHeader .containsTabs li a {
+    display:block;
+    position:relative;
+    float:left;
+    height:24px;
+    padding:0px 8px;
+    margin-right:-1px;
+    color:#503216;
+    background-color:#fff;
+    background-image:url(http://gp1.wac.edgecastcdn.net/801EC0/www.ravenwoodfair.com/img/chrome/gameHeaderTabNormal.gif);
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    border-color: #6f9aa4;
+    border-width:1px 1px 0px 1px;
+    border-style:solid;
+    -moz-border-radius: 4px 4px 0px 0px;
+    border-radius: 4px 4px 0px 0px;
+    line-height:24px;
+    text-decoration:none;
+    font-weight:bold;
+  }
+  
+  .containsTabs li.active a {
+    background-image: url(http://gp1.wac.edgecastcdn.net/801EC0/www.ravenwoodfair.com/img/chrome/gameHeaderTabActive.gif);
+    color:#fff;
+    border-color:#1c3f18;
+    z-index:100;
+  }
+
+  .containsTabs li a:hover, .displaysHeader .containsTabs li a:hover {
+    margin-top:-2px;
+    padding-bottom:2px;
+  }
+
+  .containsTabs li a .displaysLolTicker {
+    right:-5px;
+    top:-9px;
+    line-height:14px;
+  }
+
+  .clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+    }
+  * html .clearfix             { zoom: 1; } /* IE6 */
+  *:first-child+html .clearfix { zoom: 1; } /* IE7 */
+
+
+  .inputbutton {
+    background-color: #5B74A8;
+    border-color: #29447E #29447E #1A356E;
+    border-style: solid;
+    border-width: 1px;
+    color:#fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: normal !important;
+    padding: 2px 6px;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: top;
+    white-space: nowrap;
+  }
+	
+    .actionButton {
+    display:-moz-inline-stack; display:inline-block; zoom:1; *display:inline; /* Display Block Fix */
+    color:#514f53;
+    border-width: 1px;
+    border-style: solid;
+    border-color:#b7b3be;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    background-position: top left;
+    background-repeat: repeat-x;
+    background-image:url(http://gp1.wac.edgecastcdn.net/801EC0/www.ravenwoodfair.com/img/tabShared/buttonDefaultBase.gif);
+    font-size:12px;
+    font-weight:bold;
+    line-height:25px;
+    padding:0px 7px;
+    font-family:arial;
+    text-shadow:none;
+    text-transform:none;
+    text-decoration:none;
+  }
+
+  .actionButton:hover {
+    background-position:0 -50px;
+    cursor:pointer;
+  }
+
+  .actionButton.primary {
+    background-image: url(http://gp1.wac.edgecastcdn.net/801EC0/www.ravenwoodfair.com/img/tabShared/buttonPrimaryBase.gif);
+    color:#fff;
+    border-color:#2b5611;
+  }
+
+  .actionButton.secondary {
+    background-image: url(http://gp1.wac.edgecastcdn.net/801EC0/www.ravenwoodfair.com/img/tabShared/buttonSecondaryBase.gif);
+    color:#fff;
+    border-color:#153152;
+  }
+  
+  .actionButton.secondary.disabled, button[disabled].actionButton.secondary {
+    background-image:none;
+    background-color:#6f95ba;
+    color:#bfd3e5;
+    border-color:#527fa0;
+    cursor:auto;
+  }
+
+  .actionButton.primary {
+    background-image: url(http://gp1.wac.edgecastcdn.net/801EC0/www.ravenwoodfair.com/img/tabShared/buttonPrimaryBase.gif);
+  }
+
+        
+  /* RWF GAME HEADER */
+  
+  #ravenwoodFairHeader {
+    background: url(http://gp1.wac.edgecastcdn.net/801EC0/www.ravenwoodfair.com/img/chrome/gameHeaderBase.jpg) no-repeat top left;
+    width:760px;
+    font-family:arial;
+  }
+
+  #ravenwoodFairHeader a img {
+    border:none;
+  }
+
+  #ravenwoodFairHeader #ravenwoodFairLogo {
+    float:left;
+  }
+
+  #ravenwoodFairHeader > div {
+    float:right;
+    width:610px;
+  }
+
+  /* RWF GH Like Section */
+
+  #ravenwoodFairHeader .containsLike {
+    display:block;
+    font-size:12px;
+    margin-top:8px;
+    height:35px;
+  }
+
+  #ravenwoodFairHeader .containsLike a {
+    color:#3a589d;
+    text-decoration:none;
+  }
+
+  #ravenwoodFairHeader .containsTabs li.messageCenter a, #ravenwoodFairHeader .containsTabs li.messageCenter.active a {
+    background-image: url(http://gp1.wac.edgecastcdn.net/801EC0/www.ravenwoodfair.com/img/chrome/gameHeaderTabMessageCenter.gif);
+    color:#fff;
+    padding-left:25px;
+    border-color:#173b57;
+  }
+
+  #ravenwoodFairHeader .containsTabs li.trialpay a {
+    background-image: url(http://gp1.wac.edgecastcdn.net/801EC0/www.ravenwoodfair.com/img/chrome/gameHeaderTabTrialpay.gif);
+    padding-left:25px;
+    border-color:#6F9AA4;
+  }
+
+  #ravenwoodFairHeader .containsTabs li.playerNetwork a {
+    background-image: url(http://gp1.wac.edgecastcdn.net/801EC0/www.ravenwoodfair.com/img/chrome/gameHeaderTabSpringFling.gif);
+    border-color:#a76daf;
+  }
+
+        
+  #dialog_container {
+      display: none;
+      border: 1px solid #3a5998;
+      position: absolute;
+      width: 450px;
+      height: 175px;
+      left: 250px;
+      top: 150px;
+      background: #fff;
+      z-index: 2;
+  }
+  #dc_title {
+      height: 15%;
+      background-color: #6D84B4;
+      color: #fff;
+      line-height: 28px;
+      padding-left: 5px;
+      font-size: 1.1em;
+  }
+  #dc_body {
+      float: left;
+      height: 65%;
+      width: 90%;
+      text-align: center;
+      margin: 0px 15px;
+  }
+  #dc_buttons {
+      text-align: right;
+      height: 20%;
+      background-color: #f2f2f2;
+      clear: both;
+      display: none;
+  }
+  #dialog_container .dialog-button {
+      border: 1px solid #3a5998;
+      margin-right: 5px;
+      padding: 3px;
+      background-color: #6679AE;
+      margin-top: 5px;
+      float: right;
+      cursor: pointer;
+      color: #fff;
+      font-weight: bold;
+  }
+  #dc_close_button {
+      position: absolute;
+      right: 0px;
+      font-weight: bold;
+      cursor: pointer;
+      color: #A7B8D8;
+      margin-right: 5px;
+      font-size: 1.1em;
+      font-family: tahoma;
+  }
+
+  #feed_error {
+    display:none;
+    background: #FAA;
+    border: 1px solid #E33;
+    margin:10px;
+    padding: 10px 10px;
+    font-size:12pt;
+  }
+
+        
+ #ravenwoodFairFooter {
+   width:760px;
+   font-family:arial, verdana, sans-serif;
+   text-align:center;
+   margin-top:20px;
+ }
+
+ #ravenwoodFairFooter a {
+   color:#00439f;
+   text-decoration:none;
+ }
+
+ #ravenwoodFairFooter a:hover {
+   text-decoration:underline;
+ }
+
+ #ravenwoodFairFooter ul, #ravenwoodFairFooter li {
+   margin:0;
+   padding:0;
+   list-style:none;
+ }
+
+ #ravenwoodFairFooter li {
+   float:left;
+   padding:7px 15px 7px 0px;
+   line-height:19px;
+ }
+
+ #ravenwoodFairFooter .containsLinks {
+   font-size:12px;
+   margin-top:10px;
+   text-align:left;
+   padding:0px 0px 0px 10px;
+   border-color:#ddd;
+   border-style:solid;
+   border-width:1px 0px 0px 0px;
+ }
+
+ #ravenwoodFairFooter .containsLinks .displaysLanguageChooser {
+   float:right;
+   padding:7px;
+   -moz-border-radius: 0 5px 5px 0;
+   border-radius: 0 5px 5px 0;
+ }
+
+ #ravenwoodFairFooter .containsLinks .displaysLanguageChooser form {
+   margin:0;
+   padding:0;
+ }
+
+ #ravenwoodFairFooter .displaysCopyright {
+   font-size:12px;
+   color:#999;
+ }
+
+        
+        body { margin: 0px 0px 0px 0px; padding:0px 0px 0px 0px; }
+        #ccswf { z-index: -1; }
+        #loading, #install_flash { clear: both; padding: 50px 0px; font-size: 18px; text-align: center; }
+    </style>
+
+  </head>
+
+  <body>
+    
+
+
+<div id="privacy-policy">
     <div class="flexible-header border-right border-left border-top content">
         <h2>Privacy Policy</h2>
     </div>
@@ -53,9 +488,56 @@ function switch_display(elem_id) {
 </script>
 
 
+    <div id="fb-root"></div> 
+     
+    <script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
+          
+    <script type="text/javascript"> 
+        var me; 
+        var loggedIn; 
+        var fb = fb || {}; 
 
+        FB.init({appId: 120563477996213, xfbml: true, cookie: true, logging: true, oauth: true, frictionlessRequests: true}); 
+    
+        var oldMakeActive = FB.Dialog._makeActive; 
+        FB.Dialog._makeActive = function(element) { 
+            oldMakeActive(element); 
+            document.location.href = '#'; 
+            $(element).css('top', '20px'); 
+        }; 
 
+        var handleLoginResponse = function(response) { 
+            if(response.authResponse) { 
+                loggedIn = true; 
+                $(document).trigger('fbLogin', response); 
+                FB.api('/me', function(meResponse) { 
+                    me = meResponse; 
+                }); 
+            } else { 
+                loggedIn = false; 
+            } 
+        }; 
+        FB.getLoginStatus(function(response) { 
+            handleLoginResponse(response); 
+        }); 
+       
+        fb.checkIfFan = function(callback) {  
+            FB.api({ 
+                method: 'fql.query', 
+                query: "SELECT page_id FROM page_fan WHERE uid= AND page_id=120563477996213" 
+            }, function(response) { 
+                if (response && response[0]) { 
+                    callback(true); 
+                    fb.isFan = true; 
+                } else { 
+                    callback(false); 
+                } 
+            }); 
+        }; 
 
+    </script>
+ 
+  
 
 
 
