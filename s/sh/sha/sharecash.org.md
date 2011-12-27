@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharecash.org privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520132535id_/http%3A//www.sharecash.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharecash.org privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227040944id_/http%3A//www.sharecash.org/privacy.php) for the most accurate reproduction.*
 
 # ShareCash.Org - Make Money Uploading Files!
 
@@ -120,9 +120,9 @@ Any questions relating to our Privacy Policies may be directed to admin@sharecas
   
 
 
-**benjahut**
+**Dean McGuire**
 
-Sharecash is a great site for earning money from home. It only takes about a week to earn big sums of money if you upload some good and wanted files. All in all, Sharecash is by far the best file host online I've ever seen!
+I've used sites like ziddu before and made close to nothing. This all changed when I found sharecash. In three days I had $400 in my account, and I only uploaded five files. I LOVE this site!
 
   more testimonials       
 
@@ -131,12 +131,12 @@ Sharecash is a great site for earning money from home. It only takes about a wee
 
 **Latest User!**
 
-Welcome and congratulations to _**aksin2008,**_ the newest member of our community!
+Welcome and congratulations to _**easwaran555,**_ the newest member of our community!
 
 [](http://sharecash.org/register.php)
 
 **Latest Payout!**
 
-Congratulations to _**BlitzBucks**_ for cashing out _**50$**_! Keep up the great work!
+Congratulations to _**eddy9898**_ for cashing out _**200.00$**_! Keep up the great work!
 
 [](http://sharecash.org/register.php)
