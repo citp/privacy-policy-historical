@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the briefingwire.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101050008id_/http%3A//www.briefingwire.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briefingwire.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227023653id_/http%3A//www.briefingwire.com/Privacy.aspx) for the most accurate reproduction.*
 
 # BriefingWire - Free Press Release Submission
 
-**Privacy Policy (01/01/2009)**
+**Privacy Policy (01/01/2011)**
 
 * * *
 
@@ -13,6 +13,9 @@ At BriefingWire we recognize that privacy is important. This Policy applies to a
 
   
 The BriefingWire website allows its members to submit personal information. Other members, when looking at your profile, can view some of the information in your profile (e.g. name, company, and tags). This is information about yourself that you are asked to submit or be candid about. Other, more personal, information will only be accessible to others if you choose to submit and make it publicly visible to others. This information includes but is not limited to your email address and phone number. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent. 
+
+  
+Some of our advertising partners, including Google AdSense, may use cookies, JavaScript, or web beacons on our site to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see. BriefingWire has no access to or control over these cookies that are used by third-party advertisers. 
 
   
 When you send email or other communication to or through BriefingWire, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
