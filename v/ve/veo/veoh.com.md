@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the veoh.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624052231id_/http%3A//www.veoh.com/corporate/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veoh.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227061614id_/http%3A//www.veoh.com/corporate/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Veoh Video Network | Veoh
+# Privacy Policy | Veoh Video Network
 
 Veoh is committed to protecting your privacy when you use Veoh, which is comprised of the Veoh website, currently located at www.veoh.com and the Veoh client, a downloadable application that enables users to view content. This Privacy Policy informs you of the types of information we collect about you, how that information is used, whether and to whom we disclose it, and the choices you have regarding your personal information. 
 
