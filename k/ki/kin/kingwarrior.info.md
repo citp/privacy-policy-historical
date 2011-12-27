@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingwarrior.info privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628211956id_/http%3A//kingwarrior.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingwarrior.info privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227072441id_/http%3A//kingwarrior.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KingWarrior.info
 
@@ -25,4 +25,4 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion. 
 
-If you have any questions regarding the privacy policy of KingWarrior.info then you may [contact us](http://kingwarrior.info/contact-us "contact us") at admin@kingwarrior.info 
+If you have any questions regarding the privacy policy of KingWarrior.info then you may contact us at admin@kingwarrior.info 
