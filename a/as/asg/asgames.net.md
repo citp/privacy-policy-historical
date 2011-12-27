@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asgames.net privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627233427id_/http%3A//www.asgames.net/option.privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asgames.net privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227085312id_/http%3A//www.asgames.net/option.privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - AsGames.Net, Funny Games For Kids, Fun Games, Free Flash Game Arcade!
 
