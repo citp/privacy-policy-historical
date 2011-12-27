@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncbuy.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023822id_/http%3A//www.ncbuy.com/servicecenter/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncbuy.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228001841id_/http%3A//www.ncbuy.com/servicecenter/privacy.html) for the most accurate reproduction.*
 
 # NCBuy: Service Center - Privacy Policy
 
