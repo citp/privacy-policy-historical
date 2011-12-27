@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creative-culinary.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530175710id_/http%3A//www.creative-culinary.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creative-culinary.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227065227id_/http%3A//www.creative-culinary.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Denver, Colorado Food Blog with Recipes including main dishes, side dishes, soup, salads and desserts - Creative Culinary
+# Privacy Policy — Recipe - Creative Culinary - A Denver, Colorado Food Blog
 
 ## General Statement About Privacy on Creative Culinary
 
