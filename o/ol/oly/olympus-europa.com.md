@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olympus-europa.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525070759id_/http%3A//www.olympus-europa.com/privacynotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olympus-europa.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227075740id_/http%3A//www.olympus-europa.com/privacynotice.htm) for the most accurate reproduction.*
 
 # Digital Camera, SLR, Cameras, Olympus, Endoscope, Endoscopy, Diagnostics, microscope, Microscopy, Medical Systems, Industrial Endoscopy, Voice Recorders, Binoculars, Business Solutions, Testing, Instruments, Equipement, Information, Olympus Europe
 
