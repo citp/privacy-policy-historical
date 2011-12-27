@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morgan.edu privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226195342id_/http%3A//www.morgan.edu/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morgan.edu privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227090818id_/http%3A//www.morgan.edu/Privacy_Statement.html) for the most accurate reproduction.*
 
 # Morgan State University - Privacy Statement
 
@@ -13,7 +13,7 @@ Some of The University's web pages may contain links to other, third party web s
 **_Cookies_**   
 Cookies are small data files that some web sites write to your hard drive when you visit them, and they record and store your information. A cookie file can contain information such as a user ID that the web site may use to track the pages you've visited, however a cookie can contain personal information that only you would supply personally. A cookie does not contain any sensitive information, such as credit card information, nor can it read data off of your hard drive.
 
-**_Changes to Privacy Policy_**   
-Due to new university policies & practices, any legal developments, and/or advances in technology, Morgan State University reserves the right to change/update this policy without notice. It is the responsibility of the user to check this page periodically for any changes to this policy.
+**_Changes to Privacy Statement_**  
+Due to new university policies & practices, any legal developments, and/or advances in technology, Morgan State University reserves the right to change/update this privacy statement without notice. It is the responsibility of the user to check this page periodically for any changes to this statement.
 
 _Last Updated: Friday, August 21, 2009_
