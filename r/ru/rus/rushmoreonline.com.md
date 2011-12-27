@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rushmoreonline.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230122833id_/http%3A//www.rushmoreonline.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rushmoreonline.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227201322id_/http%3A//www.rushmoreonline.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Rushmore Online Casino • $888 Free Bonus • Privacy Policy
 
