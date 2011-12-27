@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the looneytunesphonics.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507055020id_/http%3A//www.looneytunesphonics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looneytunesphonics.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228004101id_/http%3A//www.looneytunesphonics.com/privacy.php) for the most accurate reproduction.*
 
-# Looney Tunes Phonics
+# Our Privacy Policy : Reading Programs for Kids : Looney Tunes Phonics
 
 ## WE NEVER SELL YOUR EMAIL OR OTHER CONTACT INFORMATION TO OTHER COMPANIES, PERIOD!
 
