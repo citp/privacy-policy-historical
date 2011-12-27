@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the aratext.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513081658id_/http%3A//aratext.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aratext.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227073310id_/http%3A//www.aratext.com/privacy) for the most accurate reproduction.*
 
 # Bulk SMS | Lagos | Nigeria | Send Text Messages Worldwide | Aratext.com
 
 This is the web site of **ASV Solutions**.
 
 Our address is   
-**Suite A20, Adeniran Ogunsanya Complex, Adeniran Ogunsanya Street, Surulere, Lagos.**
+**16, Ogunlana Drive, Surulere, Lagos.**
 
 We can be reached via e-mail at [info@asvsolutions.net](mailto:info@asvsolutions.net)  
 or you can reach us by telephone at +234-1-7359680
