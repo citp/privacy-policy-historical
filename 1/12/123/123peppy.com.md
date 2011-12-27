@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123peppy.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623070555id_/http%3A//www.123peppy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123peppy.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227095236id_/http%3A//www.123peppy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of 123Peppy.com
 
@@ -29,3 +29,5 @@ If you seek to know about the personal information of your child which is stored
 **Changes to this privacy policy**
 
 The privacy policy published herein may be changed at any time at our discretion, and it is entirely up to you to keep yourself updated with regard to the latest developments on our site.
+
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit http://valueclickmedia.com/member_privacy.shtml
