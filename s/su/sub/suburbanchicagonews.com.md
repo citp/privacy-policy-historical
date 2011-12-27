@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the suburbanchicagonews.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623173101id_/http%3A//www.suntimes.com/aboutus/privacy.stng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suburbanchicagonews.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227153603id_/http%3A//www.suntimes.com/aboutus/privacypolicy/index.html) for the most accurate reproduction.*
 
-# privacypolicy - Chicago Sun-Times
+# Privacy policy from the Chicago Sun-Times
 
 ### PRIVACY POLICY – YOUR PRIVACY RIGHTS (Updated as of November 1, 2010)
 
