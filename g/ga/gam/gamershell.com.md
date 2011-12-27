@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamershell.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101090243id_/http%3A//www.gamershell.com/privacystat.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamershell.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227102248id_/http%3A//www.gamershell.com/privacystat.shtml) for the most accurate reproduction.*
 
 # G a m e r s H e l l . C o M - Privacy Statement
 
@@ -12,7 +12,7 @@ Serving advertisements to this site, our third-party advertiser may place or rec
 
 If you have any questions about our dedication to consumer privacy, feel free to contact us
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. GTPlanet.net cannot be held responsible in any way for any information posted or otherwise distributed by public users via its chat or forum mediums.
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. GamersHell.com cannot be held responsible in any way for any information posted or otherwise distributed by public users via its chat or forum mediums.
 
   
 _Famous gH Quote:
