@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbn.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121142653id_/http%3A//www.sbn.com/PDF/PrivacyPolicy_2010-03-26.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbn.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227024113id_/http%3A//www.sbn.com/PDF/PrivacyPolicy_2010-03-26.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
