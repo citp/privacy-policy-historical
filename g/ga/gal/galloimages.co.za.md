@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the galloimages.co.za privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215135616id_/http%3A//www.galloimages.co.za/Page/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galloimages.co.za privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228091726id_/http%3A//www.galloimages.co.za/Page/PrivacyPolicy) for the most accurate reproduction.*
 
-# Africa's source for Images, Footage and Event Services [15000]
+# Africa's source for Images, Footage and Event Services
 
 Gallo Images is committed to protecting your privacy. This privacy policy tells you about our online collection and use of data. The terms of this policy apply to all Gallo Images websites, unless different terms are specified in a form or contract provided to you online or offline.
 
