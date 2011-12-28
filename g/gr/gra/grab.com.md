@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grab.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605073641id_/http%3A//www.grab.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grab.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228151845id_/http%3A//www.grab.com/pages/privacy) for the most accurate reproduction.*
 
 # Grab | Privacy
 
@@ -93,7 +93,7 @@ Information relating to our programs is not necessarily maintained in a retrieva
 
 10\. CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY
 
-Contacting Us & Our Address for Legal Notices; Notices to You. For customer service matters (including questions relating to this Policy), you may contact us by using the contact support form at [http://www.grab.com/site/?page=contactus](https://web.archive.org/site/?page=contactus). To send us a legal notice, mail it by certified mail (return receipt requested) to: Legal Department, Grab LLC, 10900 Wilshire Blvd, Suite 400, Los Angeles, CA 90024. When we need to contact you, including when we give a legal notice, we may do so to a email address that we have on file for you or to your Grab email account, or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and sending you an email to your Grab email account or to the non-Grab email address that we have on record for you.
+Contacting Us & Our Address for Legal Notices; Notices to You. For customer service matters (including questions relating to this Policy), you may contact us by using the contact support form at [http://www.grab.com/site/?page=contactus](https://web.archive.org/site/?page=contactus). To send us a legal notice, mail it by certified mail (return receipt requested) to: Legal Department, Grab LLC, 1100 Glendon Ave, Suite 800, Los Angeles, CA 90024. When we need to contact you, including when we give a legal notice, we may do so to a email address that we have on file for you or to your Grab email account, or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and sending you an email to your Grab email account or to the non-Grab email address that we have on record for you.
 
 Grab is a trademark or registered trademark of Grab LLC in the United States and other countries.
 
