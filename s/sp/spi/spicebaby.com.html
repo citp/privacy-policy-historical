@@ -1,0 +1,1005 @@
+<!--The following is the downloaded HTML source of the spicebaby.com privacy policy that was archived on 2011-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228083821id_/http%3A//www.spicebaby.com/spicebaby-privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
+<title>Privacy Policy | SpiceBaby.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" type="text/css" href="http://i.spicebaby.com/wp-content/themes/InspiredBits/style.css" media="screen">
+<link rel="stylesheet" type="text/css" href="http://i.spicebaby.com/wp-content/themes/InspiredBits/print.css" media="print">
+
+<!--FOR BANNER POST AD-->
+
+<link rel="stylesheet" type="text/css" href="http://i.spicebaby.com/wp-content/themes/InspiredBits/library/css/easyslider/anythingslider.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://i.spicebaby.com/wp-content/themes/InspiredBits/dev_sh.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://i.spicebaby.com/wp-content/themes/InspiredBits/category.css" media="all">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feeds2.feedburner.com/spicebaby">
+<link rel="pingback" href="http://www.spicebaby.com/xmlrpc.php">
+
+<!--[if lt IE 7]>
+
+<script type="text/javascript" src="http://i.spicebaby.com/wp-content/themes/InspiredBits/library/js/pngfix.js"></script>
+
+<![endif]-->
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://c.compete.com/bootstrap/6763f5e1dd07ce7ca946bc479c05a3ac/bootstrap.js" type="text/javascript" async=""></script><script type="text/javascript">
+__compete_code = '6763f5e1dd07ce7ca946bc479c05a3ac';
+(function () {
+    var s = document.createElement('script'),
+        e = document.getElementsByTagName('script')[0];
+    s.src = (document.location.protocol.toLowerCase() === 'https:' ? 'https:' : 'http:') +
+        '//c.compete.com/bootstrap/6763f5e1dd07ce7ca946bc479c05a3ac/bootstrap.js';
+    s.type = 'text/javascript';
+    s.async = true;
+    if (e) { e.parentNode.insertBefore(s, e); }
+}());
+</script><link href="http://i.spicebaby.com/wp-content/themes/InspiredBits/library/css/slimbox.css" rel="stylesheet" type="text/css" media="all">
+<link href="http://i.spicebaby.com/wp-content/themes/InspiredBits/library/css/superfish.css" rel="stylesheet" type="text/css" media="all">
+<link href="http://i.spicebaby.com/wp-content/themes/InspiredBits/library/css/superfish-navbar.css" rel="stylesheet" type="text/css" media="all">
+<link rel="stylesheet" href="http://www.spicebaby.com/wp-content/plugins/emo-vote/emo-vote.css" type="text/css">
+<!-- latest post info -->
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+<script type="text/javascript" src="http://i.spicebaby.com/wp-content/themes/InspiredBits/library/js/superfish.js"></script>
+
+<!--FOR BANNER POST AD-->
+
+<script type="text/javascript" src="http://i.spicebaby.com/wp-content/themes/InspiredBits/library/js/jquery.anythingslider.js"></script>
+<script type="text/javascript" src="http://i.spicebaby.com/wp-content/themes/InspiredBits/library/js/jquery.easing.1.2.js"></script>
+<script src="http://connect.facebook.net/en_US/all.js#xfbml=1" type="text/javascript"></script>
+
+<!-- For Menu -->
+
+<script type="text/javascript">
+
+jQuery(function(){
+
+	//jQuery('#menu-navi').superfish();
+
+});     
+
+</script>
+<script type="text/javascript">
+
+var sh = jQuery.noConflict(); 
+
+sh(document).ready(function(){
+
+    sh('.banner_slider').anythingSlider({
+
+        width          : 228,
+
+        height         : 440,
+
+        autoPlay       : false,
+
+        buildNavigation: false,
+
+        startStopped   : false,
+
+        toggleControls : true,
+
+        easing : "swing",
+
+        animationTime : 1,
+
+        appendControlsTo: '#scontrol-hidden'
+
+    });    
+
+    sh('.banner_slider_small').anythingSlider({
+
+        width          : 228,
+
+        height         : 290,
+
+        autoPlay       : false,
+
+        buildNavigation: false,
+
+        startStopped   : false,
+
+        toggleControls : true,
+
+        easing : "swing",
+
+        animationTime : 1,
+
+        appendControlsTo: '#scontrol-hidden'
+
+    });    
+
+    sh('.post_slider').anythingSlider({
+
+        width          : 590,
+
+        height         : 300,
+
+        resizeContents : false,
+
+        autoPlay       : false,
+
+        buildNavigation: false,
+
+        startStopped   : false,
+
+        toggleControls : false,
+
+        easing : "swing",
+
+        animationTime : 1,
+
+        theme : 'postSlider',
+
+        appendControlsTo: '#scontrol-hidden'
+
+    });
+
+    sh('.ps_left_arrow').click(function(){
+
+        sh('.post_slider').data('AnythingSlider').goBack();
+
+        
+
+    });
+
+    
+
+    sh('.post_slider').bind('slide_complete', function(e, slider){
+
+        var current =  slider.currentPage; 
+
+        sh('.post_slider_curr_num').html(current);
+
+
+
+        var title   =  sh('.post_slider_image_'+current).attr('title');
+
+        sh('.post_slider_title').text(title);
+
+    // Do something else
+
+    }); 
+
+ 
+
+
+
+    sh('.ps_right_arrow').click(function(){
+
+        sh('.post_slider').data('AnythingSlider').goForward();
+
+    });
+
+
+
+    //$('#slider1').data('AnythingSlider').goForward();      // go forward one slide
+
+    //sh('#menu-navi').addClass('sf-menu');
+
+    //sh('#menu-navi').addClass('sf-navbar');
+
+    
+
+    sh('.inner_shop_slider').anythingSlider({
+
+        width          : 820,
+
+        height         : 300,
+
+        resizeContents : false,
+
+        autoPlay       : false,
+
+        buildNavigation: false,
+
+        startStopped   : false,
+
+        toggleControls : false,
+
+        easing : "swing",
+
+        animationTime : 1,
+
+        theme : 'shopSliderInner',
+
+        appendControlsTo: '#scontrol-hidden'
+
+    });
+
+    sh('.shop_slider').anythingSlider({
+
+        width          : 880,
+
+        height         : 400,
+
+        resizeContents : false,
+
+        autoPlay       : false,
+
+        buildNavigation: false,
+
+        startStopped   : false,
+
+        toggleControls : false,
+
+        easing : "swing",
+
+        animationTime : 1,
+
+        theme : 'shopSliderInner',
+
+        appendControlsTo: '#scontrol-hidden'
+
+    });
+
+});
+
+</script>
+<link rel="alternate" type="application/rss+xml" title="SpiceBaby.com » Privacy Policy Comments Feed" href="http://www.spicebaby.com/spicebaby-privacy-policy/feed">
+<style type="text/css">#upprev_box {display:block;right: -400px;}</style>
+<link rel="stylesheet" id="upprev-css-css" href="http://www.spicebaby.com/wp-content/plugins/upprev-nytimes-style-next-post-jquery-animated-fly-in-button/upprev.css?ver=3.3" type="text/css" media="all">
+<link rel="stylesheet" id="NextGEN-css" href="http://www.spicebaby.com/wp-content/plugins/nextgen-gallery.moved/css/nggallery.css?ver=1.0.0" type="text/css" media="screen">
+<link rel="stylesheet" id="shutter-css" href="http://www.spicebaby.com/wp-content/plugins/nextgen-gallery.moved/shutter/shutter-reloaded.css?ver=1.3.2" type="text/css" media="screen">
+<link rel="stylesheet" id="sharedaddy-css" href="http://www.spicebaby.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.css?ver=3.3" type="text/css" media="all">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js?ver=1.6.1"></script>
+<script type="text/javascript" src="http://www.spicebaby.com/wp-content/plugins/upprev-nytimes-style-next-post-jquery-animated-fly-in-button/upprev_js.php?ver=3.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var shutterSettings = {"msgLoading":"L O A D I N G","msgClose":"Click to Close","imageCount":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.spicebaby.com/wp-content/plugins/nextgen-gallery.moved/shutter/shutter-reloaded.js?ver=1.3.2"></script>
+<script type="text/javascript" src="http://www.spicebaby.com/wp-content/plugins/nextgen-gallery.moved/js/jquery.cycle.all.min.js?ver=2.88"></script>
+<script type="text/javascript" src="http://www.spicebaby.com/wp-content/plugins/nextgen-gallery.moved/js/ngg.slideshow.min.js?ver=1.05"></script>
+<script type="text/javascript" src="http://i.spicebaby.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<script type="text/javascript" src="http://www.spicebaby.com/wp-content/plugins/jquery-image-lazy-loading/javascripts/jquery.lazyload.mini.js?ver=1.5.0"></script>
+<script type="text/javascript" src="http://www.spicebaby.com/wp-content/plugins/emo-vote/emo-vote-user.js?ver=1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.spicebaby.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://i.spicebaby.com/wp-includes/wlwmanifest.xml"> 
+<link rel="next" title="Write For Us" href="http://www.spicebaby.com/pitch-your-blog">
+<meta name="generator" content="WordPress 3.3">
+<link rel="shortlink" href="http://wp.me/P1U7d9-tu">
+
+<!-- All in One SEO Pack 1.6.13.8 by Michael Torbert of Semper Fi Web Design[211,236] -->
+<meta name="description" content="This privacy policy sets out how Spicebaby.com uses and protects any information that you give while using www.spicebaby.com Should we ask you to provide">
+<link rel="canonical" href="http://www.spicebaby.com/spicebaby-privacy-policy">
+<!-- /all in one seo pack -->
+
+<meta name="NextGEN" content="1.8.3">
+		<link href="http://i.spicebaby.com/wp-content/themes/InspiredBits/skins/1-default.css" rel="stylesheet" type="text/css">
+
+
+<link href="http://boakes.org/most-wanted?v=0.1.9v">
+<link rel="canonical" href="http://www.spicebaby.com/spicebaby-privacy-policy">
+<script type="text/javascript">
+var sho = jQuery.noConflict();  
+sho(document).ready(function($){
+  if (navigator.platform == "iPad") return;
+  sho(".SHLazyLoad img").not(".notlazy").lazyload({
+    placeholder: "http://www.spicebaby.com/wp-content/plugins/jquery-image-lazy-loading/images/trans.png",
+    effect      : "fadeIn"
+
+  });
+});
+</script><link href="http://i.spicebaby.com/wp-content/themes/InspiredBits/shortcodes-style.css" rel="stylesheet" type="text/css" media="all">
+<script type="text/javascript" async="" src="http://s3.buysellads.com/ac/bsa.js"></script></head>
+
+<body class="page page-id-1828 page-template-default">
+
+<!-- BuySellAds.com Ad Code --> 
+
+<script type="text/javascript">
+
+(function(){
+
+  var bsa = document.createElement('script');
+
+     bsa.type = 'text/javascript';
+
+     bsa.async = true;
+
+     bsa.src = 'http://s3.buysellads.com/ac/bsa.js';
+
+  (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+
+})();
+
+</script> 
+
+<!-- End BuySellAds.com Ad Code -->
+
+<div class="sh-wrap">
+<div id="top_sh_nav">
+  <div class="top_sh_nav_left">
+        <div class="widget"><div class="menu-top-most-menu-container"><ul id="menu-top-most-menu" class="top_sh_nav_ul"><li id="menu-item-3738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3738"><a href="http://www.spicebaby.com/pitch-your-blog">Write For Us!</a></li>
+<li id="menu-item-3997" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3997"><a href="http://www.spicebaby.com/tag/quick">Quick Meals</a></li>
+<li id="menu-item-5566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5566"><a href="http://www.spicebaby.com/contact-us">Contact Us</a></li>
+</ul></div></div>      </div>
+  <div class="top_sh_nav_right">
+        <a href="http://www.spicebaby.com/wp-signup.php">Join Spicebaby</a> or <a href="http://www.spicebaby.com/wp-login.php">Sign in</a>
+      </div>
+</div>
+<div id="header">
+  <div id="header-in" class="container_16 clearfix">
+    <div class="header_left">
+            <a href="http://www.spicebaby.com/"><img src="http://i.spicebaby.com/wp-content/themes/InspiredBits/images/logo.png" alt="SpiceBaby.com"></a>
+      <p class="blog-description desc_spacer">
+        African Food In Amazing Color      </p>
+          </div>
+    <!--/logo-->
+    
+    <div class="header_right" style="min-height:83px;">
+      <div class="searchform">
+
+  <form method="get" id="searchform" action="http://www.spicebaby.com/search">
+    <input type="text" value="Search Recipes, Articles" name="q" id="s" class="s" onfocus="if (this.value == 'Search Recipes, Articles') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search Recipes, Articles';}">
+    <input type="hidden" name="cx" value="partner-pub-0463223701527697:0831481338">
+    <input type="hidden" name="cof" value="FORID:10">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="hidden" name="sa" value="Search">
+    <input type="image" class="search_btn" src="http://i.spicebaby.com/wp-content/themes/InspiredBits/images/search_button.png" alt="Submit button">
+    
+  </form>
+</div>
+          </div>
+    <div class="header_last">
+      <div id="top_follow_links">
+        <div class="follow_links">
+          <div class="follow_text">Follow</div>
+          <div class="follow_medias"> <a href="http://www.facebook.com/myspicebaby" target="_blank"> <img src="http://i.spicebaby.com/wp-content/themes/InspiredBits/images/i_facebook.png" width="24" alt="facebook"> </a> <a href="http://www.twitter.com/myspicebaby" target="_blank"> <img src="http://i.spicebaby.com/wp-content/themes/InspiredBits/images/i_twitter.png" width="24" alt="twitter"> </a> </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="main_navi clearfix">
+    <div class="widget"><div class="menu-navi-container"><ul id="menu-navi" class="sf-menu sf-navbar"><li id="menu-item-3154" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3154"><a href="http://www.spicebaby.com">Home</a></li>
+<li id="menu-item-5875" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5875"><a href="http://www.spicebaby.com/category/news">News</a></li>
+<li id="menu-item-5409" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5409"><a href="http://www.spicebaby.com/category/recipes">Recipes</a>
+<ul class="sub-menu">
+	<li id="menu-item-4325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4325"><a href="http://www.spicebaby.com/tag/rice">Rice Dishes</a></li>
+	<li id="menu-item-5410" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5410"><a href="http://www.spicebaby.com/category/recipes/stews">Stews</a></li>
+	<li id="menu-item-5411" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5411"><a href="http://www.spicebaby.com/category/recipes/nigerian-small-chops">Small Chops</a></li>
+	<li id="menu-item-2202" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2202"><a href="http://www.spicebaby.com/category/recipes/healthy-african-food">Healthy</a></li>
+</ul>
+</li>
+<li id="menu-item-3304" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3304"><a href="http://www.spicebaby.com/category/home-cooking">Home Cooking</a></li>
+<li id="menu-item-3156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3156"><a href="http://www.spicebaby.com/category/kitchen-cooking-tips">Cooking Tips</a></li>
+<li id="menu-item-5412" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5412"><a href="http://www.spicebaby.com/category/taste-of-home">Taste of Home</a></li>
+<li id="menu-item-3163" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3163"><a href="http://www.spicebaby.com/category/eat-out">Eat Out</a></li>
+<li id="menu-item-5455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5455"><a href="http://www.spicebaby.com/contact-us">Contact Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-3155" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3155"><a href="http://www.spicebaby.com/pitch-your-blog">Write</a></li>
+	<li id="menu-item-5457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5457"><a href="http://www.spicebaby.com/submit-recipe">Submit Recipe</a></li>
+</ul>
+</li>
+</ul></div></div>  </div>
+</div>
+<!-- header #end -->
+
+<div class="top_advt_strip container_16 ">
+  </div>
+<!-- top 4 advt #end --> 
+
+<div class="wrapper">
+    <div class="clearfix container_border">
+        <div class="breadcrumb clearfix">
+                    </div>
+    </div>
+    <div class="container_16 clearfix ">
+                 <div id="content-inner" class="grid_12 clearfix">    			 
+            <!--h1 class="head">Privacy Policy</h1-->
+            			                		                    <div id="post-1828">
+                        <div class="entry shohanpage"> 
+                            <p>This privacy policy sets out how Spicebaby.com uses and protects any information that you give while using www.spicebaby.com<br><br></p>
+<p>Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.<br><br><br>
+Spicebaby.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from date.<br><br></p>
+<h3>What we collect</h3>
+<p>We may collect the following information:
+</p><ul>
+<li>contact information including email address</li>
+<li>demographic information such as postcode, preferences and interests</li>
+<li>other information relevant to customer surveys and/or offers</li>
+</ul>
+<p></p>
+<h3>What we do with the information we gather</h3>
+<p>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+</p><ul>
+<li>We may use the information to improve our products and services.</li>
+<li>We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.</li>
+<li>From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.</li>
+<p><br></p>
+<h3>Security</h3>
+<p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.<br><br></p>
+<h3>How we use cookies</h3>
+<p>A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.<br><br><br>
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.<br><br><br>
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.<br><br>
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.<br><br></p>
+<h3>Advertising</h3>
+<p>Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements.<br><br><br>
+In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.<br><br></p>
+<h3>Links to other websites</h3>
+<p>Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.<br><br></p>
+<h3>Controlling your personal information</h3>
+<p>You may choose to restrict the collection or use of your personal information in the following ways:</p>
+<ul>
+<li>whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.</li>
+<li>if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us.</li>
+<li>We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.</li>
+</ul>
+<p>If you believe that any information we are holding on you is incorrect or incomplete, please contact us.</p>
+                        </ul></div>
+                    </div><!--/post-->
+                        </div> <!-- content-in #end -->
+         <div id="sidebar-inner" class="grid_4">
+              <div class="widget">        <div class="sh_banner_ad_small" style="width:300px;">
+        <div class="banner_top">
+            <div class="sh_banner_title" style="padding: 15px 10px;">
+                Popular            </div>
+                                <ul class="banner_slider_small">
+                                        <li>
+                        <div class="banner_content">
+                            <div class="banner_image">
+                                <a href="http://www.spicebaby.com/recipes/nigerian-small-chops/photos-meat-pie-recipe-how-to-roll-the-dough-in-easy-steps.html">
+                                    <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/11/meatpie600.jpg&amp;w=224&amp;h=162&amp;zc=1&amp;q=80&amp;bid=1" width="224" height="162" alt="PHOTOS: Meat pie Recipe - How To Make The Dough in Easy Steps" class="thumbnail notlazy" border="0">
+                                </a>
+                            </div>
+                            <div class="banner_title">
+                                 <a href="http://www.spicebaby.com/recipes/nigerian-small-chops/photos-meat-pie-recipe-how-to-roll-the-dough-in-easy-steps.html">PHOTOS: Meat pie Recipe - How To Make The Dough in Easy Steps </a>                                                   
+                            </div>
+                            <div class="banner_rating" style="text-align:center; font-weight:bold; font-size: 13px; text-shadow:1px 1px #FFFFFF;"><span class="small_rat" style="text-align:right"><span class="small_val" style="color:#CD5555;">20% Buy It</span>&nbsp;&nbsp;<span class="small_val" style="color:#BC2715;">80% Cook It</span></span></div>
+                            <div class="banner_share">
+                                Share on : <a class="banner_s_tw" href="http://twitter.com/home?status=PHOTOS: Meat pie Recipe - How To Make The Dough in Easy Steps http://www.spicebaby.com/recipes/nigerian-small-chops/photos-meat-pie-recipe-how-to-roll-the-dough-in-easy-steps.html" title="Click to share this post on Twitter" target="_blank">Twiter</a><a class="banner_s_fb" href="http://www.facebook.com/sharer.php?u=http://www.spicebaby.com/recipes/nigerian-small-chops/photos-meat-pie-recipe-how-to-roll-the-dough-in-easy-steps.html&amp;t=PHOTOS: Meat pie Recipe - How To Make The Dough in Easy Steps" target="_blank" title="Share on Facebook">Facebook</a>
+                            </div>
+                        </div>
+                        </li>       
+                                     <li>
+                        <div class="banner_content">
+                            <div class="banner_image">
+                                <a href="http://www.spicebaby.com/recipes/stews/light-and-quick-dinner-heres-the-easy-chicken-stir-fry-recipe.html">
+                                    <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/10/stir.jpg&amp;w=224&amp;h=162&amp;zc=1&amp;q=80&amp;bid=1" width="224" height="162" alt="Light and Quick Dinner? Try Our Easy Chicken Stir Fry Recipe" class="thumbnail notlazy" border="0">
+                                </a>
+                            </div>
+                            <div class="banner_title">
+                                 <a href="http://www.spicebaby.com/recipes/stews/light-and-quick-dinner-heres-the-easy-chicken-stir-fry-recipe.html">Light and Quick Dinner? Try Our Easy Chicken Stir Fry Recipe </a>                                                   
+                            </div>
+                            <div class="banner_rating" style="text-align:center; font-weight:bold; font-size: 13px; text-shadow:1px 1px #FFFFFF;"><span class="small_rat" style="text-align:right"><span class="small_val" style="color:#CD5555;">20% Buy It</span>&nbsp;&nbsp;<span class="small_val" style="color:#BC2715;">80% Cook It</span></span></div>
+                            <div class="banner_share">
+                                Share on : <a class="banner_s_tw" href="http://twitter.com/home?status=Light and Quick Dinner? Try Our Easy Chicken Stir Fry Recipe http://www.spicebaby.com/recipes/stews/light-and-quick-dinner-heres-the-easy-chicken-stir-fry-recipe.html" title="Click to share this post on Twitter" target="_blank">Twiter</a><a class="banner_s_fb" href="http://www.facebook.com/sharer.php?u=http://www.spicebaby.com/recipes/stews/light-and-quick-dinner-heres-the-easy-chicken-stir-fry-recipe.html&amp;t=Light and Quick Dinner? Try Our Easy Chicken Stir Fry Recipe" target="_blank" title="Share on Facebook">Facebook</a>
+                            </div>
+                        </div>
+                        </li>       
+                                     <li>
+                        <div class="banner_content">
+                            <div class="banner_image">
+                                <a href="http://www.spicebaby.com/recipes/stews/photos-restaurant-style-bell-pepper-stew-a-k-a-obe-ata-dindin-at-home.html">
+                                    <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/10/goat.jpg&amp;w=224&amp;h=162&amp;zc=1&amp;q=80&amp;bid=1" width="224" height="162" alt="Photos: Restaurant-Style Bell Pepper stew a.k.a Obè ata Díndín At Home" class="thumbnail notlazy" border="0">
+                                </a>
+                            </div>
+                            <div class="banner_title">
+                                 <a href="http://www.spicebaby.com/recipes/stews/photos-restaurant-style-bell-pepper-stew-a-k-a-obe-ata-dindin-at-home.html">Photos: Restaurant-Style Bell Pepper stew a.k.a Obè ata Díndín At Home </a>                                                   
+                            </div>
+                            <div class="banner_rating" style="text-align:center; font-weight:bold; font-size: 13px; text-shadow:1px 1px #FFFFFF;"><span class="small_rat" style="text-align:right"><span class="small_val" style="color:#CD5555;">43% Buy It</span>&nbsp;&nbsp;<span class="small_val" style="color:#BC2715;">57% Cook It</span></span></div>
+                            <div class="banner_share">
+                                Share on : <a class="banner_s_tw" href="http://twitter.com/home?status=Photos: Restaurant-Style Bell Pepper stew a.k.a Obè ata Díndín At Home http://www.spicebaby.com/recipes/stews/photos-restaurant-style-bell-pepper-stew-a-k-a-obe-ata-dindin-at-home.html" title="Click to share this post on Twitter" target="_blank">Twiter</a><a class="banner_s_fb" href="http://www.facebook.com/sharer.php?u=http://www.spicebaby.com/recipes/stews/photos-restaurant-style-bell-pepper-stew-a-k-a-obe-ata-dindin-at-home.html&amp;t=Photos: Restaurant-Style Bell Pepper stew a.k.a Obè ata Díndín At Home" target="_blank" title="Share on Facebook">Facebook</a>
+                            </div>
+                        </div>
+                        </li>       
+                                     <li>
+                        <div class="banner_content">
+                            <div class="banner_image">
+                                <a href="http://www.spicebaby.com/recipes/stews/okra-recipes-the-simple-tasty-plain-stew.html">
+                                    <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/05/okra1.jpg&amp;w=224&amp;h=162&amp;zc=1&amp;q=80&amp;bid=1" width="224" height="162" alt="Okra Recipes: The Simple, Tasty, Plain Stew" class="thumbnail notlazy" border="0">
+                                </a>
+                            </div>
+                            <div class="banner_title">
+                                 <a href="http://www.spicebaby.com/recipes/stews/okra-recipes-the-simple-tasty-plain-stew.html">Okra Recipes: The Simple, Tasty, Plain Stew </a>                                                   
+                            </div>
+                            <div class="banner_rating" style="text-align:center; font-weight:bold; font-size: 13px; text-shadow:1px 1px #FFFFFF;"><span class="small_rat" style="text-align:right"><span class="small_val" style="color:#CD5555;">13% Buy It</span>&nbsp;&nbsp;<span class="small_val" style="color:#BC2715;">88% Cook It</span></span></div>
+                            <div class="banner_share">
+                                Share on : <a class="banner_s_tw" href="http://twitter.com/home?status=Okra Recipes: The Simple, Tasty, Plain Stew http://www.spicebaby.com/recipes/stews/okra-recipes-the-simple-tasty-plain-stew.html" title="Click to share this post on Twitter" target="_blank">Twiter</a><a class="banner_s_fb" href="http://www.facebook.com/sharer.php?u=http://www.spicebaby.com/recipes/stews/okra-recipes-the-simple-tasty-plain-stew.html&amp;t=Okra Recipes: The Simple, Tasty, Plain Stew" target="_blank" title="Share on Facebook">Facebook</a>
+                            </div>
+                        </div>
+                        </li>       
+                                     <li>
+                        <div class="banner_content">
+                            <div class="banner_image">
+                                <a href="http://www.spicebaby.com/recipes/nigerian-small-chops/puff-puff-recipe-3-quick-steps-to-a-traditional-snack.html">
+                                    <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/10/puff620.jpg&amp;w=224&amp;h=162&amp;zc=1&amp;q=80&amp;bid=1" width="224" height="162" alt="PUFF PUFF Recipe - 3 Quick Steps To A Traditional Snack-petizer" class="thumbnail notlazy" border="0">
+                                </a>
+                            </div>
+                            <div class="banner_title">
+                                 <a href="http://www.spicebaby.com/recipes/nigerian-small-chops/puff-puff-recipe-3-quick-steps-to-a-traditional-snack.html">PUFF PUFF Recipe - 3 Quick Steps To A Traditional Snack-petizer </a>                                                   
+                            </div>
+                            <div class="banner_rating" style="text-align:center; font-weight:bold; font-size: 13px; text-shadow:1px 1px #FFFFFF;"><span class="small_rat" style="text-align:right"><span class="small_val" style="color:#CD5555;">33% Buy It</span>&nbsp;&nbsp;<span class="small_val" style="color:#BC2715;">67% Cook It</span></span></div>
+                            <div class="banner_share">
+                                Share on : <a class="banner_s_tw" href="http://twitter.com/home?status=PUFF PUFF Recipe - 3 Quick Steps To A Traditional Snack-petizer http://www.spicebaby.com/recipes/nigerian-small-chops/puff-puff-recipe-3-quick-steps-to-a-traditional-snack.html" title="Click to share this post on Twitter" target="_blank">Twiter</a><a class="banner_s_fb" href="http://www.facebook.com/sharer.php?u=http://www.spicebaby.com/recipes/nigerian-small-chops/puff-puff-recipe-3-quick-steps-to-a-traditional-snack.html&amp;t=PUFF PUFF Recipe - 3 Quick Steps To A Traditional Snack-petizer" target="_blank" title="Share on Facebook">Facebook</a>
+                            </div>
+                        </div>
+                        </li>       
+                                     <li>
+                        <div class="banner_content">
+                            <div class="banner_image">
+                                <a href="http://www.spicebaby.com/home-cooking/photos-5-delicious-ways-to-eat-crab-meat.html">
+                                    <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/09/crab620.jpg&amp;w=224&amp;h=162&amp;zc=1&amp;q=80&amp;bid=1" width="224" height="162" alt="PHOTOS: 5 Delicious Ways To Eat Crab Meat" class="thumbnail notlazy" border="0">
+                                </a>
+                            </div>
+                            <div class="banner_title">
+                                 <a href="http://www.spicebaby.com/home-cooking/photos-5-delicious-ways-to-eat-crab-meat.html">PHOTOS: 5 Delicious Ways To Eat Crab Meat </a>                                                   
+                            </div>
+                            <div class="banner_rating" style="text-align:center; font-weight:bold; font-size: 13px; text-shadow:1px 1px #FFFFFF;"><span class="small_rat" style="text-align:right"><span class="small_val" style="color:#7CAC05;">23% Read It</span>&nbsp;&nbsp;<span class="small_val" style="color:#008000;">77% Loved It</span></span></div>
+                            <div class="banner_share">
+                                Share on : <a class="banner_s_tw" href="http://twitter.com/home?status=PHOTOS: 5 Delicious Ways To Eat Crab Meat http://www.spicebaby.com/home-cooking/photos-5-delicious-ways-to-eat-crab-meat.html" title="Click to share this post on Twitter" target="_blank">Twiter</a><a class="banner_s_fb" href="http://www.facebook.com/sharer.php?u=http://www.spicebaby.com/home-cooking/photos-5-delicious-ways-to-eat-crab-meat.html&amp;t=PHOTOS: 5 Delicious Ways To Eat Crab Meat" target="_blank" title="Share on Facebook">Facebook</a>
+                            </div>
+                        </div>
+                        </li>       
+                                     <li>
+                        <div class="banner_content">
+                            <div class="banner_image">
+                                <a href="http://www.spicebaby.com/kitchen-cooking-tips/kitchen-tips-what-a-pinch-of-salt-on-your-tongue-can-cure.html">
+                                    <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/07/salt620.jpg&amp;w=224&amp;h=162&amp;zc=1&amp;q=80&amp;bid=1" width="224" height="162" alt="Kitchen Tips: What A Pinch Of Salt On Your Tongue Can Cure" class="thumbnail notlazy" border="0">
+                                </a>
+                            </div>
+                            <div class="banner_title">
+                                 <a href="http://www.spicebaby.com/kitchen-cooking-tips/kitchen-tips-what-a-pinch-of-salt-on-your-tongue-can-cure.html">Kitchen Tips: What A Pinch Of Salt On Your Tongue Can Cure </a>                                                   
+                            </div>
+                            <div class="banner_rating" style="text-align:center; font-weight:bold; font-size: 13px; text-shadow:1px 1px #FFFFFF;"><span class="small_rat" style="text-align:right"><span class="small_val" style="color:#7CAC05;">29% Read It</span>&nbsp;&nbsp;<span class="small_val" style="color:#008000;">71% Loved It</span></span></div>
+                            <div class="banner_share">
+                                Share on : <a class="banner_s_tw" href="http://twitter.com/home?status=Kitchen Tips: What A Pinch Of Salt On Your Tongue Can Cure http://www.spicebaby.com/kitchen-cooking-tips/kitchen-tips-what-a-pinch-of-salt-on-your-tongue-can-cure.html" title="Click to share this post on Twitter" target="_blank">Twiter</a><a class="banner_s_fb" href="http://www.facebook.com/sharer.php?u=http://www.spicebaby.com/kitchen-cooking-tips/kitchen-tips-what-a-pinch-of-salt-on-your-tongue-can-cure.html&amp;t=Kitchen Tips: What A Pinch Of Salt On Your Tongue Can Cure" target="_blank" title="Share on Facebook">Facebook</a>
+                            </div>
+                        </div>
+                        </li>       
+                                     <li>
+                        <div class="banner_content">
+                            <div class="banner_image">
+                                <a href="http://www.spicebaby.com/recipes/nigerian-small-chops/name-these-small-chops-sweet-roasted-glazed-peanuts-from-lagos.html">
+                                    <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/06/nut.jpg&amp;w=224&amp;h=162&amp;zc=1&amp;q=80&amp;bid=1" width="224" height="162" alt="Name These Small Chops!" class="thumbnail notlazy" border="0">
+                                </a>
+                            </div>
+                            <div class="banner_title">
+                                 <a href="http://www.spicebaby.com/recipes/nigerian-small-chops/name-these-small-chops-sweet-roasted-glazed-peanuts-from-lagos.html">Name These Small Chops! </a>                                                   
+                            </div>
+                            <div class="banner_rating" style="text-align:center; font-weight:bold; font-size: 13px; text-shadow:1px 1px #FFFFFF;"><span class="small_rat" style="text-align:right"><span class="small_val" style="color:#CD5555;">64% Buy It</span>&nbsp;&nbsp;<span class="small_val" style="color:#BC2715;">36% Cook It</span></span></div>
+                            <div class="banner_share">
+                                Share on : <a class="banner_s_tw" href="http://twitter.com/home?status=Name These Small Chops! http://www.spicebaby.com/recipes/nigerian-small-chops/name-these-small-chops-sweet-roasted-glazed-peanuts-from-lagos.html" title="Click to share this post on Twitter" target="_blank">Twiter</a><a class="banner_s_fb" href="http://www.facebook.com/sharer.php?u=http://www.spicebaby.com/recipes/nigerian-small-chops/name-these-small-chops-sweet-roasted-glazed-peanuts-from-lagos.html&amp;t=Name These Small Chops!" target="_blank" title="Share on Facebook">Facebook</a>
+                            </div>
+                        </div>
+                        </li>       
+                                       </ul>
+             </div>
+             </div><div id="scontrol-hidden" style="display:none;"></div>
+
+    </div><div class="widget">        <div style="width:100%; float:left; margin-bottom:10px;"><div class="fp_cat" style="float:left;font-weight: bold; background-color:#BC2715; -moz-box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.09);text-transform:uppercase;color:#FFFFFF !important;font-family:Arial;font-size:12px;-moz-border-radius-bottomleft:4px;-moz-border-radius-bottomright:0px;-moz-border-radius-topleft:4px;-moz-border-radius-topright:0px;line-height:15px;padding:1px 1px 1px 6px;">Recently…</div><div style="float:left; width:17px; height:17px;background-image:url(http://www.spicebaby.com/wp-content/themes/InspiredBits/images/tag_arrow.png); background-position:0 -17px;background-repeat:no-repeat; background-color:#BC2715;"></div></div> 
+		<ul class="popular_post">				                <li class="clearfix"> 
+                 
+                    <a href="http://www.spicebaby.com/news/newspaper-ordered-to-pay-120000-for-exploding-snack-recipe.html" title="Newspaper Must Pay $120,000 To Exploding Snack Recipe Victims"> 
+                                                                        <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/12/churro.jpg&amp;w=90&amp;h=70&amp;zc=1&amp;q=80" width="90" height="70" alt="Newspaper Must Pay $120,000 To Exploding Snack Recipe Victims">
+                                            </a> 
+                                <p>  
+                    <strong> 
+                        <a href="http://www.spicebaby.com/news/newspaper-ordered-to-pay-120000-for-exploding-snack-recipe.html" rel="bookmark" title=" Newspaper Must Pay $120,000 To Exploding Snack Recipe Victims" class="sh-recent-post-title">
+                        Newspaper Must Pay $120,000 To Exploding Snack Recipe Victims                        </a> 
+                    </strong> 
+                    <br>   
+                    <span>
+                    <fb:like href="http://www.spicebaby.com/news/newspaper-ordered-to-pay-120000-for-exploding-snack-recipe.html" send="false" layout="button_count" width="80" show_faces="false" action="like" font=""></fb:like>
+                    </span> 
+                </p>
+                    
+                   
+                                 </li><li class="clearfix"> 
+                 
+                    <a href="http://www.spicebaby.com/news/watch-soul-food-is-killing-black-america.html" title="WATCH: Soul Food Is Killing Black America"> 
+                                                                        <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/12/soulfooding.jpg&amp;w=90&amp;h=70&amp;zc=1&amp;q=80" width="90" height="70" alt="WATCH: Soul Food Is Killing Black America">
+                                            </a> 
+                                <p>  
+                    <strong> 
+                        <a href="http://www.spicebaby.com/news/watch-soul-food-is-killing-black-america.html" rel="bookmark" title=" WATCH: Soul Food Is Killing Black America" class="sh-recent-post-title">
+                        WATCH: Soul Food Is Killing Black America                        </a> 
+                    </strong> 
+                    <br>   
+                    <span>
+                    <fb:like href="http://www.spicebaby.com/news/watch-soul-food-is-killing-black-america.html" send="false" layout="button_count" width="80" show_faces="false" action="like" font=""></fb:like>
+                    </span> 
+                </p>
+                    
+                   
+                                 </li><li class="clearfix"> 
+                 
+                    <a href="http://www.spicebaby.com/kitchen-cooking-tips/new-year-special-5-of-your-favorite-foods-with-a-delicious-twist.html" title="New Year Special - 5 of Your Favorite Foods With A Delicious Twist"> 
+                                                                        <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/12/xmas.jpg&amp;w=90&amp;h=70&amp;zc=1&amp;q=80" width="90" height="70" alt="New Year Special - 5 of Your Favorite Foods With A Delicious Twist">
+                                            </a> 
+                                <p>  
+                    <strong> 
+                        <a href="http://www.spicebaby.com/kitchen-cooking-tips/new-year-special-5-of-your-favorite-foods-with-a-delicious-twist.html" rel="bookmark" title=" New Year Special - 5 of Your Favorite Foods With A Delicious Twist" class="sh-recent-post-title">
+                        New Year Special - 5 of Your Favorite Foods With A Delicious Twist                        </a> 
+                    </strong> 
+                    <br>   
+                    <span>
+                    <fb:like href="http://www.spicebaby.com/kitchen-cooking-tips/new-year-special-5-of-your-favorite-foods-with-a-delicious-twist.html" send="false" layout="button_count" width="80" show_faces="false" action="like" font=""></fb:like>
+                    </span> 
+                </p>
+                    
+                   
+                                 </li><li class="clearfix"> 
+                 
+                    <a href="http://www.spicebaby.com/feedback/nigerian-styled-meat-pie-recipe-gets-a-from-sassy-blogger.html" title="Nigerian-style Meat pie Recipe Gets A+ from Sassy Blogger"> 
+                                                                        <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/12/pie.jpg&amp;w=90&amp;h=70&amp;zc=1&amp;q=80" width="90" height="70" alt="Nigerian-style Meat pie Recipe Gets A+ from Sassy Blogger">
+                                            </a> 
+                                <p>  
+                    <strong> 
+                        <a href="http://www.spicebaby.com/feedback/nigerian-styled-meat-pie-recipe-gets-a-from-sassy-blogger.html" rel="bookmark" title=" Nigerian-style Meat pie Recipe Gets A+ from Sassy Blogger" class="sh-recent-post-title">
+                        Nigerian-style Meat pie Recipe Gets A+ from Sassy Blogger                        </a> 
+                    </strong> 
+                    <br>   
+                    <span>
+                    <fb:like href="http://www.spicebaby.com/feedback/nigerian-styled-meat-pie-recipe-gets-a-from-sassy-blogger.html" send="false" layout="button_count" width="80" show_faces="false" action="like" font=""></fb:like>
+                    </span> 
+                </p>
+                    
+                   
+                                 </li><li class="clearfix"> 
+                 
+                    <a href="http://www.spicebaby.com/eat-out/review-houlayamatou-senegalese-restaurant-an-adventure-in-new-york.html" title="Review: Houlayamatou Senegalese Restaurant – An Adventure in New York"> 
+                                                                        <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/12/review.jpg&amp;w=90&amp;h=70&amp;zc=1&amp;q=80" width="90" height="70" alt="Review: Houlayamatou Senegalese Restaurant – An Adventure in New York">
+                                            </a> 
+                                <p>  
+                    <strong> 
+                        <a href="http://www.spicebaby.com/eat-out/review-houlayamatou-senegalese-restaurant-an-adventure-in-new-york.html" rel="bookmark" title=" Review: Houlayamatou Senegalese Restaurant – An Adventure in New York" class="sh-recent-post-title">
+                        Review: Houlayamatou Senegalese Restaurant – An Adventure in New York                        </a> 
+                    </strong> 
+                    <br>   
+                    <span>
+                    <fb:like href="http://www.spicebaby.com/eat-out/review-houlayamatou-senegalese-restaurant-an-adventure-in-new-york.html" send="false" layout="button_count" width="80" show_faces="false" action="like" font=""></fb:like>
+                    </span> 
+                </p>
+                    
+                   
+                                 </li><li class="clearfix"> 
+                 
+                    <a href="http://www.spicebaby.com/drinks/whats-in-your-juice.html" title="What's In Your Fruit &amp; Vegetable Juice?"> 
+                                                                        <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/12/apple.jpg&amp;w=90&amp;h=70&amp;zc=1&amp;q=80" width="90" height="70" alt="What's In Your Fruit &amp; Vegetable Juice?">
+                                            </a> 
+                                <p>  
+                    <strong> 
+                        <a href="http://www.spicebaby.com/drinks/whats-in-your-juice.html" rel="bookmark" title=" What's In Your Fruit &amp; Vegetable Juice?" class="sh-recent-post-title">
+                        What's In Your Fruit &amp; Vegetable Juice?                        </a> 
+                    </strong> 
+                    <br>   
+                    <span>
+                    <fb:like href="http://www.spicebaby.com/drinks/whats-in-your-juice.html" send="false" layout="button_count" width="80" show_faces="false" action="like" font=""></fb:like>
+                    </span> 
+                </p>
+                    
+                   
+                                 </li><li class="clearfix"> 
+                 
+                    <a href="http://www.spicebaby.com/news/nigerian-i-t-couple-launches-new-restaurant-in-downtown-greensboro.html" title="Nigerian I.T Couple Launches New Restaurant in Downtown Greensboro"> 
+                                                                        <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/12/greensboro.jpg&amp;w=90&amp;h=70&amp;zc=1&amp;q=80" width="90" height="70" alt="Nigerian I.T Couple Launches New Restaurant in Downtown Greensboro">
+                                            </a> 
+                                <p>  
+                    <strong> 
+                        <a href="http://www.spicebaby.com/news/nigerian-i-t-couple-launches-new-restaurant-in-downtown-greensboro.html" rel="bookmark" title=" Nigerian I.T Couple Launches New Restaurant in Downtown Greensboro" class="sh-recent-post-title">
+                        Nigerian I.T Couple Launches New Restaurant in Downtown Greensboro                        </a> 
+                    </strong> 
+                    <br>   
+                    <span>
+                    <fb:like href="http://www.spicebaby.com/news/nigerian-i-t-couple-launches-new-restaurant-in-downtown-greensboro.html" send="false" layout="button_count" width="80" show_faces="false" action="like" font=""></fb:like>
+                    </span> 
+                </p>
+                    
+                   
+                                 </li><li class="clearfix"> 
+                 
+                    <a href="http://www.spicebaby.com/news/mandelas-personal-chef-offers-recipes-in-new-cookbook.html" title="WATCH: Mandela's Personal Chef Offers Recipes In New Cookbook"> 
+                                                                        <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/12/chef.jpg&amp;w=90&amp;h=70&amp;zc=1&amp;q=80" width="90" height="70" alt="WATCH: Mandela's Personal Chef Offers Recipes In New Cookbook">
+                                            </a> 
+                                <p>  
+                    <strong> 
+                        <a href="http://www.spicebaby.com/news/mandelas-personal-chef-offers-recipes-in-new-cookbook.html" rel="bookmark" title=" WATCH: Mandela's Personal Chef Offers Recipes In New Cookbook" class="sh-recent-post-title">
+                        WATCH: Mandela's Personal Chef Offers Recipes In New Cookbook                        </a> 
+                    </strong> 
+                    <br>   
+                    <span>
+                    <fb:like href="http://www.spicebaby.com/news/mandelas-personal-chef-offers-recipes-in-new-cookbook.html" send="false" layout="button_count" width="80" show_faces="false" action="like" font=""></fb:like>
+                    </span> 
+                </p>
+                    
+                   
+                                 </li><li class="clearfix"> 
+                 
+                    <a href="http://www.spicebaby.com/news/man-arrested-for-throwing-hot-soup-on-wife.html" title="Man Arrested For Throwing Hot Soup On Wife"> 
+                                                                        <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/12/mansoup.jpg&amp;w=90&amp;h=70&amp;zc=1&amp;q=80" width="90" height="70" alt="Man Arrested For Throwing Hot Soup On Wife">
+                                            </a> 
+                                <p>  
+                    <strong> 
+                        <a href="http://www.spicebaby.com/news/man-arrested-for-throwing-hot-soup-on-wife.html" rel="bookmark" title=" Man Arrested For Throwing Hot Soup On Wife" class="sh-recent-post-title">
+                        Man Arrested For Throwing Hot Soup On Wife                        </a> 
+                    </strong> 
+                    <br>   
+                    <span>
+                    <fb:like href="http://www.spicebaby.com/news/man-arrested-for-throwing-hot-soup-on-wife.html" send="false" layout="button_count" width="80" show_faces="false" action="like" font=""></fb:like>
+                    </span> 
+                </p>
+                    
+                   
+                                 </li><li class="clearfix"> 
+                 
+                    <a href="http://www.spicebaby.com/family/feeding-your-baby-salty-food-is-responsible-for-lifelong-salt-preference.html" title="Feeding Your Baby Salty Food Is Responsible For Lifelong Salt Preference"> 
+                                                                        <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/12/baby.jpg&amp;w=90&amp;h=70&amp;zc=1&amp;q=80" width="90" height="70" alt="Feeding Your Baby Salty Food Is Responsible For Lifelong Salt Preference">
+                                            </a> 
+                                <p>  
+                    <strong> 
+                        <a href="http://www.spicebaby.com/family/feeding-your-baby-salty-food-is-responsible-for-lifelong-salt-preference.html" rel="bookmark" title=" Feeding Your Baby Salty Food Is Responsible For Lifelong Salt Preference" class="sh-recent-post-title">
+                        Feeding Your Baby Salty Food Is Responsible For Lifelong Salt Preference                        </a> 
+                    </strong> 
+                    <br>   
+                    <span>
+                    <fb:like href="http://www.spicebaby.com/family/feeding-your-baby-salty-food-is-responsible-for-lifelong-salt-preference.html" send="false" layout="button_count" width="80" show_faces="false" action="like" font=""></fb:like>
+                    </span> 
+                </p>
+                    
+                   
+                                 </li><li class="clearfix"> 
+                 
+                    <a href="http://www.spicebaby.com/family/5-easy-recipes-to-introduce-a-first-timer-to-african-food.html" title="5 Easy Recipes To Introduce A First-Timer To African Food"> 
+                                                                        <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/12/foodfirst.jpg&amp;w=90&amp;h=70&amp;zc=1&amp;q=80" width="90" height="70" alt="5 Easy Recipes To Introduce A First-Timer To African Food">
+                                            </a> 
+                                <p>  
+                    <strong> 
+                        <a href="http://www.spicebaby.com/family/5-easy-recipes-to-introduce-a-first-timer-to-african-food.html" rel="bookmark" title=" 5 Easy Recipes To Introduce A First-Timer To African Food" class="sh-recent-post-title">
+                        5 Easy Recipes To Introduce A First-Timer To African Food                        </a> 
+                    </strong> 
+                    <br>   
+                    <span>
+                    <fb:like href="http://www.spicebaby.com/family/5-easy-recipes-to-introduce-a-first-timer-to-african-food.html" send="false" layout="button_count" width="80" show_faces="false" action="like" font=""></fb:like>
+                    </span> 
+                </p>
+                    
+                   
+                                 </li><li class="clearfix"> 
+                 
+                    <a href="http://www.spicebaby.com/recipe-ingredients/ewa-agoyin-the-world-famous-mashed-beans-palm-oil-dish.html" title="Ewa Agoyin: The World-Famous Mashed Beans &amp; Palm Oil Dish"> 
+                                                                        <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/12/beans1.jpg&amp;w=90&amp;h=70&amp;zc=1&amp;q=80" width="90" height="70" alt="Ewa Agoyin: The World-Famous Mashed Beans &amp; Palm Oil Dish">
+                                            </a> 
+                                <p>  
+                    <strong> 
+                        <a href="http://www.spicebaby.com/recipe-ingredients/ewa-agoyin-the-world-famous-mashed-beans-palm-oil-dish.html" rel="bookmark" title=" Ewa Agoyin: The World-Famous Mashed Beans &amp; Palm Oil Dish" class="sh-recent-post-title">
+                        Ewa Agoyin: The World-Famous Mashed Beans &amp; Palm Oil Dish                        </a> 
+                    </strong> 
+                    <br>   
+                    <span>
+                    <fb:like href="http://www.spicebaby.com/recipe-ingredients/ewa-agoyin-the-world-famous-mashed-beans-palm-oil-dish.html" send="false" layout="button_count" width="80" show_faces="false" action="like" font=""></fb:like>
+                    </span> 
+                </p>
+                    
+                   
+                                 </li><li class="clearfix"> 
+                 
+                    <a href="http://www.spicebaby.com/recipes/nigerian-small-chops/sausage-rolls-quick-homemade-pastry-recipe-with-spicy-beef-hot-dogs.html" title="Sausage Rolls: Quick Homemade Pastry Recipe With Spicy Beef Hot dogs"> 
+                                                                        <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/12/gala600.jpg&amp;w=90&amp;h=70&amp;zc=1&amp;q=80" width="90" height="70" alt="Sausage Rolls: Quick Homemade Pastry Recipe With Spicy Beef Hot dogs">
+                                            </a> 
+                                <p>  
+                    <strong> 
+                        <a href="http://www.spicebaby.com/recipes/nigerian-small-chops/sausage-rolls-quick-homemade-pastry-recipe-with-spicy-beef-hot-dogs.html" rel="bookmark" title=" Sausage Rolls: Quick Homemade Pastry Recipe With Spicy Beef Hot dogs" class="sh-recent-post-title">
+                        Sausage Rolls: Quick Homemade Pastry Recipe With Spicy Beef Hot dogs                        </a> 
+                    </strong> 
+                    <br>   
+                    <span>
+                    <fb:like href="http://www.spicebaby.com/recipes/nigerian-small-chops/sausage-rolls-quick-homemade-pastry-recipe-with-spicy-beef-hot-dogs.html" send="false" layout="button_count" width="80" show_faces="false" action="like" font=""></fb:like>
+                    </span> 
+                </p>
+                    
+                   
+                                 </li><li class="clearfix"> 
+                 
+                    <a href="http://www.spicebaby.com/eat-out/restaurant-review-zembaba-ethiopean-restaurant.html" title="Restaurant Review:  Zembaba Ethiopean Restaurant"> 
+                                                                        <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/11/zebemba600.jpg&amp;w=90&amp;h=70&amp;zc=1&amp;q=80" width="90" height="70" alt="Restaurant Review:  Zembaba Ethiopean Restaurant">
+                                            </a> 
+                                <p>  
+                    <strong> 
+                        <a href="http://www.spicebaby.com/eat-out/restaurant-review-zembaba-ethiopean-restaurant.html" rel="bookmark" title=" Restaurant Review:  Zembaba Ethiopean Restaurant" class="sh-recent-post-title">
+                        Restaurant Review:  Zembaba Ethiopean Restaurant                        </a> 
+                    </strong> 
+                    <br>   
+                    <span>
+                    <fb:like href="http://www.spicebaby.com/eat-out/restaurant-review-zembaba-ethiopean-restaurant.html" send="false" layout="button_count" width="80" show_faces="false" action="like" font=""></fb:like>
+                    </span> 
+                </p>
+                    
+                   
+                                 </li><li class="clearfix"> 
+                 
+                    <a href="http://www.spicebaby.com/recipes/nigerian-small-chops/photos-meat-pie-recipe-how-to-roll-the-dough-in-easy-steps.html" title="PHOTOS: Meat pie Recipe - How To Make The Dough in Easy Steps"> 
+                                                                        <img src="http://www.spicebaby.com/wp-content/themes/InspiredBits/thumb.php?src=http://i.spicebaby.com/wp-content/uploads/2011/11/meatpie600.jpg&amp;w=90&amp;h=70&amp;zc=1&amp;q=80" width="90" height="70" alt="PHOTOS: Meat pie Recipe - How To Make The Dough in Easy Steps">
+                                            </a> 
+                                <p>  
+                    <strong> 
+                        <a href="http://www.spicebaby.com/recipes/nigerian-small-chops/photos-meat-pie-recipe-how-to-roll-the-dough-in-easy-steps.html" rel="bookmark" title=" PHOTOS: Meat pie Recipe - How To Make The Dough in Easy Steps" class="sh-recent-post-title">
+                        PHOTOS: Meat pie Recipe - How To Make The Dough in Easy Steps                        </a> 
+                    </strong> 
+                    <br>   
+                    <span>
+                    <fb:like href="http://www.spicebaby.com/recipes/nigerian-small-chops/photos-meat-pie-recipe-how-to-roll-the-dough-in-easy-steps.html" send="false" layout="button_count" width="80" show_faces="false" action="like" font=""></fb:like>
+                    </span> 
+                </p>
+                    
+                   
+                                 </li></ul></div>        
+ </div><!-- sidebar #end -->		        </div> <!-- container 16-->
+    </div> <!-- wrapper #end -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11743065-1']);
+_gaq.push(['_setDomainName', 'www.spicebaby.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></div><!--end sh-wrap-->
+
+<div id="bottom">
+        <div class="bottom-frist-row bottom-row">
+            <div class="bottom-content">
+            <div class="width1000 wbg1">
+                        </div>
+            </div>
+        </div>        
+        <div class="bottom-second-row bottom-row">
+            <div class="bottom-content">
+            <div class="width1000 wbg2">
+                <div class="bsrow-frist">
+                    						
+
+ 
+      		<h3>about us </h3>
+       
+         
+        	
+         • We bring you relevant classic and contemporary African food articles, recipes, events and news.
+<br><br>
+• We partner with home-makers, chefs, nutritionists, event professionals to provide an African food community like no other.
+<br><br>
+• We seek to partner with brands and promote authentic product associations via customized campaigns and content engagement programs. 
+         		
+        
+           
+            
+            
+	                </div>
+                <div class="bsrow-second">
+                    <h3>advertise with us</h3>
+                    <div class="blinks">
+                        <ul>
+                            <li><a href="http://www.spicebaby.com/introduction">introduction »</a></li>
+                            <li><a href="http://www.spicebaby.com/introduction#why">why spicebaby »</a></li>
+                            <li><a href="">our solutions »</a></li>
+                            <li><a href="">our vision »</a></li>
+                            <li><a href="">brand engagement » </a></li>
+                            <li><a href="http://www.spicebaby.com/contact-us">contact sales » </a></li>
+                        </ul>
+                    </div>
+                    <div class="bachivement">
+                        <img src="http://i.spicebaby.com/wp-content/themes/InspiredBits/images/special_stats.png" class="notlazy" alt="special stats">
+                    </div>
+                    <div class="bgraph">
+                        <img src="http://i.spicebaby.com/wp-content/themes/InspiredBits/images/stats.jpg" class="notlazy" alt="stats">
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>        
+        <div class="bottom-third-row bottom-row">
+            <div class="bottom-content">
+            <div class="width1000 wbg3"> 
+                <div class="btrow-frist">
+                    <h3>More</h3>
+                    <div class="blinks">
+                        <ul>
+                            <li><a href="http://www.spicebaby.com/spicebaby-archives">Archives »</a></li>
+                            <li><a href="http://www.spicebaby.com/spicebaby-privacy-policy">Privacy policy »</a></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+                <div class="btrow-second">
+                    <h3>facebook</h3>
+                    <img src="http://i.spicebaby.com/wp-content/themes/InspiredBits/images/fb_b.jpg" class="notlazy" style="float:left; margin-right:10px;" alt="facebook">
+                    <a href="http://www.facebook.com/myspicebaby" target="_blank">
+                        Become a fan</a> of Spicebaby on Facebook to keep up to date with our Daily Special, various spicebaby promos, recipes, photos and more. 
+                </div>
+                <div class="btrow-third">
+                    <h3>twitter</h3>
+                    <img src="http://i.spicebaby.com/wp-content/themes/InspiredBits/images/tw_b.jpg" class="notlayz" style="float:left; margin-right:10px;" alt="twitter">
+                                        <br>
+                    <br>
+                    <a href="http://www.twitter.com/myspicebaby" target="_blank" style="float:right;">follow us »</a>   
+                    
+                </div>
+                <div class="btrow-fourth">
+                    <div class="bcopy">© 2011 SpiceBaby.com  All right reserved.</div>
+                    <div class="blinks">
+                        <ul>
+                            <li><a href="">Start A Free Blog »</a></li>
+                            <li><a href="http://www.spicebaby.com/contact-us">Contact Us »</a></li>
+                            <li><a href="">Advertise »</a></li>
+                            <li><a href="">Copyright »</a></li>
+                            <li><a href="">Photography » </a></li>
+                            <li><a href="">Press » </a></li>
+                        </ul>
+                    </div>   
+                </div>
+            </div>
+            </div>
+        </div>
+</div> <!-- bottom #end -->
+<!-- For Menu -->
+
+<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?aa&amp;ver=3.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.spicebaby.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.3"></script>
+	<div style="display:none">
+	</div>
+
+	<script src="http://stats.wordpress.com/e-201152.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:1.2.2',blog:'28150427',post:'1828'});
+	var load_cmc = function(){linktracker_init(28150427,1828,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script>
+<!-- latest post info -->
+<script type="text/javascript" src="http://i.spicebaby.com/wp-content/themes/InspiredBits/library/js/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="http://i.spicebaby.com/wp-content/themes/InspiredBits/library/js/superfish.js"></script>
+
+<!-- For Menu -->
+<script type="text/javascript">
+
+jQuery.noConflict(); var $j = jQuery;
+
+jQuery(function(){
+    jQuery('ul.sf-menu').superfish();
+});
+            
+</script> 
+
+
+
+		
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Database Caching 21/31 queries in 0.022 seconds using disk: basic
+Object Caching 1363/1379 objects using disk: basic
+Content Delivery Network via i.spicebaby.com
+
+Served from: www.spicebaby.com @ 2011-12-28 02:38:20 -->
+
+<!-- W3 Total Cache: Page cache debug info:
+Engine:             disk: basic
+Cache key:          w3tc_www.spicebaby.com_1_page_d98e269e67a8d078804ed944bc2a9a53
+Caching:            enabled
+Status:             not cached
+Creation Time:      0.768s
+Header info:
+Link:               <http://wp.me/P1U7d9-tu>; rel=shortlink
+Last-Modified:      Wed, 28 Dec 2011 08:38:20 GMT
+Vary:               Cookie
+Expires:            Wed, 28 Dec 2011 09:38:20 GMT
+Pragma:             public
+Cache-Control:      public, must-revalidate, proxy-revalidate
+Etag:               04e075cd8fcda58ef45c36d3f84939b8
+X-Powered-By:       W3 Total Cache/0.9.2.4
+X-Pingback:         http://www.spicebaby.com/xmlrpc.php
+Content-Type:       text/html; charset=UTF-8
+--></body></html>
