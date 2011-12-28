@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gator995.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514203436id_/http%3A//gator995.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gator995.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228032454id_/http%3A//gator995.com/privacy) for the most accurate reproduction.*
 
 # 99.5 KNGT Radio - GATOR 99.5 - Lake Charles Music
 
