@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scad.edu privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605082204id_/http%3A//www.scad.edu/website/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scad.edu privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228210156id_/http%3A//www.scad.edu/website/privacy.cfm) for the most accurate reproduction.*
 
 # SCAD > Privacy Policy
 
