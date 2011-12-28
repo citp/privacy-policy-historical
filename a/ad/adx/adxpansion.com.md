@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the adxpansion.com privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008153246id_/http%3A//www.adxpansion.com/en/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adxpansion.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228092730id_/http%3A//www.adxpansion.com/en/index/privacy) for the most accurate reproduction.*
 
-# AdXpansion - Privacy Policy
-
-## Privacy Policy
+# Política de privacidad
 
 ### Information Collected and How It's Used
 
@@ -40,8 +38,8 @@ We restrict access to personal information to our employees, contractors and age
 
 When you use AdXpansion services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical, or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. 
 
-### Changes to This Privacy Policy
+### Changes to This Privacy
 
-We may change this policy as new services are added or old ones are changed. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice. Please check this Privacy Policy from time to time for updates by checking the date of the "Last Update" at the top of this document. 
+We may change this policy as new services are added or old ones are changed. We will post any Privacy changes on this page and, if the changes are significant, we will provide a more prominent notice. Please check this Privacy Policy from time to time for updates by checking the date of the "Last Update" at the top of this document. 
 
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site Contact Us page.
+If you have any additional questions or concerns about this Privacy, please feel free to contact us any time through this web site Contact Us page.
