@@ -1,16 +1,33 @@
-<!--The following is the downloaded HTML source of the tikona.in privacy policy that was archived on 2011-01-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110123173649id_/http%3A//www.tikona.in/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tikona.in privacy policy that was archived on 2011-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228010224id_/http%3A//www.tikona.in/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Tikona Digital Networks   - Privacy Statement</title>
-<meta name="description" content="Default Meta Description">
-<meta name="keywords" content="Default Meta keyword">
-<link href="templates/css/style.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="templates/css/ddsmoothmenu2.css">
+<title>Tikona Digital Networks-Secured Wireless Broadband-Home-Enterprise-SME-Privacy Statement</title>
+<meta name="description" content="Tikona Digital Networks- Privacy Statement">
+<meta name="keywords" content="Secured Wireless Broadband, Tikona Digital Networks, Internet, Home, Enterprise,SME">
+<link href="http://www.tikona.in/templates/css/style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="http://www.tikona.in/templates/css/ddsmoothmenu2.css">
 <script type="text/javascript">
 	var pathUrl = 'http://www.tikona.in/';
-	var imgUrl  ="templates/images/";
+	var imgUrl  ="http://www.tikona.in/templates/images/";
+	
+	function bookmark()
+	{
+		bookmarkurl="http://www.tikona.in/privacy.php"  
+		bookmarktitle="Tikona Digital Networks-Secured Wireless Broadband-Home-Enterprise-SME-Privacy Statement"
+		if (document.all)
+		window.external.AddFavorite(bookmarkurl,bookmarktitle)
+		else if (window.sidebar) // firefox
+		window.sidebar.addPanel(bookmarktitle, bookmarkurl, "");
+		else if(window.opera && window.print){
+		alert('Press ctrl+D to bookmark (Command+D for macs) after you click OK');
+		} else if(window.chrome){
+		alert('Press ctrl+D to bookmark (Command+D for macs) after you click OK');
+		}
+
+	}
+	
 </script>
 
 <script type="text/javascript" src="http://www.tikona.in/js/javascript.js"></script>
@@ -18,6 +35,11 @@
 <script type="text/javascript" src="http://www.tikona.in/js/ddsmoothmenu2.js"></script>
 <script type="text/javascript" src="http://www.tikona.in/js/jquery.innerfade.js"></script>
 <script type="text/javascript" src="http://www.tikona.in/js/verticalmenu.js"></script>
+<script type="text/javascript" src="http://www.tikona.in/js/postpaid.js"></script>
+<script type="text/javascript" src="http://www.tikona.in/js/prepaid.js"></script>
+<script type="text/javascript" src="http://www.tikona.in/js/ajax.js"></script>
+
+
 <script type="text/javascript">
 <!--
    $(document).ready(
@@ -54,20 +76,166 @@ function tikona_search()
 </script>
 </head>
 <body>
+
+<div id="popup_trackorder" style="width: 500px; DISPLAY: none; margin:0 auto;  left: 8%; right:8%; HEIGHT: auto;  ZOOM: 1;  POSITION: absolute;  TOP: 180px; z-index:100">
+<table width="100%" border="0" cellspacing="0" cellpadding="7" bgcolor="#72B3DC">
+        <tbody><tr>
+            <td valign="middle">
+                <table width="100%" border="0" cellspacing="10" cellpadding="0" bgcolor="#FFFFFF">
+	                <tbody><tr>
+                        <td>						
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tbody><tr>
+								    <td align="center"><h2>Track My Order</h2></td>
+                                    <td align="right" width="3%"><a href="javascript:fadeOutMyPopup_trackorder();
+									location.href='index.php'" style="color:#FF0000; text-decoration:none;">
+									<img src="http://www.tikona.in/templates/images/close_small.gif" border="0" alt="Close"></a></td>
+                                </tr>
+								<tr><td colspan="2" valign="top"> 
+										<table border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
+											<tbody><tr>
+												<td><script language="javascript" type="text/javascript">
+<!--
+function check_frm_trkorder()
+{
+   var thisform = "data_lookup";
+
+    var validity = [
+			{field:"srf", msg:"Please enter SRF no.", datatype:"char",  fieldtype:"text" ,responseid:'errsrfp' }
+			];
+	return chkvalidity(thisform, validity);
+	//return true;
+}
+
+function check_frm_trkorder1()
+{
+   var thisform = "data_track";
+
+    var validity = [
+			{field:"usr", msg:"Please enter User Id.", datatype:"char",  fieldtype:"text" ,responseid:'errusrp' }
+			];
+	return chkvalidity(thisform, validity);
+	//return true;
+}
+-->
+</script> 
+			<form method="post" name="data_lookup" action="trackorder.php" onsubmit="return check_frm_trkorder()">
+			<table border="0" cellspacing="0" cellpadding="2" align="center" width="100%"> 
+        
+        <tbody><tr>
+          <td colspan="3" align="left"><strong>Look up your User ID </strong></td>
+        </tr>
+		<tr>
+			<td class="title" width="22%" valign="top" align="left"><span class="msg">*</span>&nbsp;SRF Number </td>
+		  	<td align="right" valign="top" width="10">:</td>
+			<td align="left"><input type="text" name="srf" value="" class="clsinput" size="30">
+						<input type="submit" name="cmdLookup" value="Submit">
+						<div id="errsrfp"></div>
+											</td>
+		</tr>
+		
+				<tr><td align="right" colspan="3">
+						<input type="hidden" name="cmd_mode" value="_lookup_usr">							
+						<input type="hidden" name="incurl" value="http://www.tikona.in/privacy.php?contentid=&amp;mid=">
+						<input type="hidden" name="redurl" value="http://www.tikona.in/privacy.php?contentid=&amp;mid=">
+						<input type="hidden" name="curPage" value="privacy.php">
+					</td>
+				</tr>
+		</tbody></table>
+		</form>
+		<!-- 2 different forms  -->
+		<form method="post" name="data_track" action="trackorder.php" onsubmit="return check_frm_trkorder1()">
+			<table border="0" cellspacing="0" cellpadding="2" align="center" width="100%">
+						
+				<tbody><tr align="left">
+				  <td colspan="3"><strong>Know the status of your order  </strong></td>
+			  </tr> 		    	
+				<tr>
+					<td valign="top" width="22%" class="title" align="left"><span class="msg">*</span>&nbsp;User ID </td>
+				  <td align="right" valign="top" width="10">:</td>
+<td align="left"><input type="text" name="usr" value="" size="30" class="clsinput">
+					  <input type="submit" name="cmdSave" value="Submit">
+					  <div id="errusrp"></div>
+					  		  </td>
+				</tr>
+				
+				<tr><td align="right" colspan="3">
+						<input type="hidden" name="cmd_mode" value="_track_order">							
+						<input type="hidden" name="incurl" value="http://www.tikona.in/privacy.php?contentid=&amp;mid=">
+						<input type="hidden" name="redurl" value="http://www.tikona.in/privacy.php?contentid=&amp;mid=">
+						<input type="hidden" name="curPage" value="privacy.php">
+					</td>
+				</tr> 
+			</tbody></table>
+</form>
+		
+							</td>
+											</tr>
+										</tbody></table>
+									</td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+				</tbody></table>	
+			</td>	
+		</tr>	
+	</tbody></table>	
+</div>	
+
+  <script language="javascript" type="text/javascript">
+<!--
+function show_trackorder_form()
+ {
+	fireMyPopup_trackorder();
+ }
+ // Browser safe opacity handling function
+ 
+function setOpacity_trackorder( value ) {
+ document.getElementById("popup_trackorder").style.opacity = value / 10;
+ document.getElementById("popup_trackorder").style.filter = 'alpha(opacity=' + value * 10 + ')';
+}
+
+function fadeInMyPopup_trackorder() {
+ for( var i = 0 ; i <= 100 ; i++ )
+   setTimeout( 'setOpacity_trackorder(' + (i / 10) + ')' , 8 * i );
+}
+
+function fadeOutMyPopup_trackorder() {
+ for( var i = 0 ; i <= 100 ; i++ ) {
+   setTimeout( 'setOpacity_trackorder(' + (10 - i / 10) + ')' , 8 * i );
+ }
+
+ setTimeout('closeMyPopup_trackorder()', 800 );
+}
+
+function closeMyPopup_trackorder() {
+ document.getElementById("popup_trackorder").style.display = "none";
+}
+
+function fireMyPopup_trackorder() {
+ setOpacity_trackorder( 0 );
+ document.getElementById("popup_trackorder").style.display = "block";
+ fadeInMyPopup_trackorder();
+}
+
+function show_feedback_frm(){
+	 document.getElementById("fdbform").style.display = "block";
+}
+-->
+</script>
 <div class="container">
 <div id="wrap">
 
-  <a href="index.php"><img src="templates/images/logo.gif" alt="Tikona Digital Networks" width="210" height="83" border="0" class="logo"></a>
+  <a href="index.php"><img src="http://www.tikona.in/templates/images/logo.gif" alt="Tikona Digital Networks" width="210" height="83" border="0" class="logo"></a>
 <div class="top_box">
-	<div class="tollfree">
-		For live demo call: <span class="org"><strong>1800 20 90044</strong></span> or sms <span class="org"><strong>TIKONA </strong></span>to <span class="org"><strong>575758</strong></span>    </div>
-    <div class="top_link">
-    <a href="news.php">News</a> &nbsp;|&nbsp; <a href="career.php">Career</a> &nbsp;|&nbsp; <a href="testimonial.php">Testimonials</a> &nbsp;|&nbsp;<a href="https://selfcare.tikona.in" target="_blank" class="blue">My Account</a>
-    </div>
+  <div class="tollfree">
+     <a href="pincode-search"><img src="http://www.tikona.in/templates/images/ebill.gif" alt="Sign up for e-bill" align="absmiddle"></a>  </div>
+    <div class="top_link"> <a href="javascript:show_trackorder_form();">Track My Order</a>&nbsp;| <a href="http://www.tikonae3.com" target="_blank">Sign Up for E-bill</a> |&nbsp;<a href="bill-payment">Bill Payment</a> |&nbsp;<a href="https://selfcare.tikona.in" target="_blank" class="blue">My Account</a></div>
     
 </div>
 <div class="clear"></div><div class="ddsmoothmenu">
-		<ul><li><a href="index.php" class="">Home</a></li><li><a href="http://www.tikona.in/pagedetail.php?contentid=12&amp;mid=8" title="About us">About us</a></li><li><a href="http://www.tikona.in/pagedetail.php?contentid=48&amp;mid=13" title="Product &amp; Services">Product &amp; Services</a></li><li><a href="http://www.tikona.in/subscribe" title="Subscribe">Subscribe</a></li><li class="last"><a href="pagedetail.php?contentid=29&amp;mid=17" title="Contact Us">Contact Us</a></li></ul><div class="clear"></div></div><div class="content">
+		<ul><li><a href="index.php" class="">Home</a></li><li><a href="http://www.tikona.in/about-tdn" title="About us">About us</a></li><li><a href="http://www.tikona.in/product-and-services" title="Product &amp; Services">Product &amp; Services</a></li><li><a href="http://tikona.in/pincode-search" title="Subscribe">Subscribe</a></li><li class="last"><a href="http://www.tikona.in/contactus" title="Contact Us">Contact Us</a></li></ul><div class="clear"></div></div><div class="content">
 
 	<div class="left_sidebar"> &nbsp; </div>
     <div class="right_content">
@@ -116,14 +284,14 @@ We aim to keep our information about you as accurate as possible. If you would l
  <!--footer start here-->
 <div class="wrap">
     <div class="fot_top">
-        <div class="left">For live demo call: <span class="org_big">1800 20 90044</span> or sms <span class="org_big">TIKONA</span> to <span class="org_big">575758</span></div>
-        <div class="right"><a href="terms.php">Terms &amp; Conditions</a>&nbsp; | &nbsp;<a href="privacy.php">Privacy Statement</a>&nbsp; | &nbsp;<a href="disclaimer.php">Disclaimer</a>&nbsp; | &nbsp;<a href="sitemap.php">Sitemap</a>
-		</div>
-    </div>
+        <!--<div class="left">For live demo call: <span class="org_big">1800 20 90044</span> or sms <span class="org_big">TIKONA</span> to <span class="org_big">575758</span></div>-->
+        <div class="right">&nbsp;<a href="news">News</a>|&nbsp;<a href="career">Career</a> |&nbsp; <a href="testimonials">Testimonials</a> |&nbsp;<a href="javascript:bookmark()">Add to favorites | &nbsp;</a><a href="legal-notice">Legal Notice</a> | &nbsp;<a href="terms-and-conditions">Terms &amp; Conditions</a>|&nbsp;<a href="privacy-statement">Privacy Statement</a>| &nbsp;<a href="disclaimer">Disclaimer</a>| &nbsp;<a href="sitemap">Sitemap</a>		</div>
+  </div>
     <div class="clear"></div>
 </div>
-<div class="footer">Copyright © 2010 Tikona Digital Networks. All Rights Reserved. &nbsp;&nbsp;&nbsp;&nbsp; <span class="santey">Site Developed by <a href="http://www.santey.com/" target="_blank">Santech Systems</a></span></div>
+<div class="footer">Copyright © 2011 Tikona Digital Networks. All Rights Reserved. &nbsp;&nbsp;&nbsp;&nbsp; </div>
 </div>
+
 
 
 </body></html>
