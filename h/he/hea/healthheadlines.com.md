@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthheadlines.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621032618id_/http%3A//www.healthheadlines.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthheadlines.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228175838id_/http%3A//www.healthheadlines.com/privacy) for the most accurate reproduction.*
 
 # HealthHeadlines.com - Privacy Policy
 
@@ -54,6 +54,9 @@ A "cookie" is a bit of information that a website sends to your web browser that
 "Internet tags" (also known as single-pixel GIFs, clear GIFs, invisible GIFs, and 1-by-1 GIFs) are smaller than cookies and tell the website server information such as the IP address and browser type related to the visitor's computer. This Website uses Internet tags.
 
 "Navigational data" ("log files," "server logs," and "clickstream" data) and "Internet Tags" are used for system management, to improve the content of the site, market research purposes, and to communicate information to visitors. This Website uses navigational data.
+
+**Third Party Cookies**  
+We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is on, or is connected to these cookies. The cookies may reflect de-identified demographic or other data linked to the registration data you have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.privacychoice.org/companies> or <http://www.aboutads.info/choices>.
 
 **Links**  
 This Website may contain links to websites of third parties not affiliated with Health Headlines. This Privacy Policy will not apply to these third-party websites and the Website is not responsible for the privacy practices or the content on any of these other websites, even where these third-party sites indicate a special relationship or "partnership" with the Website. We do not disclose personally identifiable information to those responsible for the linked sites. The linked sites, however, may collect personal information from you when you link to their site. This collecting of information is not subject to the control of the Website. To ensure protection of your privacy, always review the privacy policies of the sites you visit by linking from this Website.
