@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivacashgames.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629172231id_/http%3A//www.vivacashgames.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivacashgames.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228090035id_/http%3A//www.vivacashgames.com/static/privacy-policy) for the most accurate reproduction.*
 
 # VivaCashGames.com - Cash Games - Privacy Policy
 
