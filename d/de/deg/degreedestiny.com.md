@@ -1,49 +1,15 @@
-> *The following text is extracted and transformed from the degreedestiny.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629184123id_/http%3A//degreedestiny.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreedestiny.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228060234id_/http%3A//www.degreedestiny.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# Privacy policy
+# DegreeDestiny.com
 
-#### privacy policy
+## Surfing Data
 
-Our highest priority is that you enjoy the experience of visiting this site and to ensure that:  
+When you browse through our site, we collect information on the efficiency and working of our Web site. This information includes the number of times a web page is accessed, the browser used, and paths taken when moving through the Web site, and search terms entered by users. We keep this information for an indefinite time to improve the operation of our site. We may use third-party advertising companies to serve ads on our site. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.
 
+## Contact Information
 
-  * • your privacy is respected; 
-  * • your information is secure and private;
-  * • and that any data you provide to us is protected.
+We also collect personal contact information if you enter it when requesting information from a school. This contact information is stored on our servers to provide schools with inquiry management features. It is also passed onto the schools you identify (sometimes through a vendor that is under contract to the school), so that they may contact you with more information. Personally identifiable Contact Information is not sold to third parties except as explicitly required to fulfill your information request. Contact Information is aggregated to create reports on overall education industry trends, which may be sold to third parties.
 
-  
-Any personal information you provide to us is:  
+## Cookies
 
-
-  * • never shared with any other company, individual or organization without your express consent;
-  * • held in accordance with data protection legislation;
-  * • stored in a secure database.
-
-  
-Our data security policy operated independently, or in conjunction with our data management partners and sponsor, meets, or exceeds, the requirements of all current Privacy legislation. 
-
-Online Privacy Opt-in 
-
-Personal information is collected only when you voluntarily register at any of our specialized, focused sites to provide data, receive newsletters, or for other information opportunities. Our policy is to maintain all personal information as confidential and to use it only for the purpose for which it was submitted and to advise you of new developments that may interest you. 
-
-Sharing Data 
-
-We never share our consumer list with any company or organization nor sell or otherwise disclose any personally identifiable information about you without your express consent. At any time, you may obtain a summary of your information on record with us. You may also request that we destroy any information about you and remove you from our database at any time. 
-
-Aggregate Data 
-
-As with all servers on the Internet, the computers that deliver the Web pages to you identify your computer by its unique IP address or that of your ISP, such as AOL. The servers automatically record the name of the domain from which you accessed the site and the type of operating system and web browser that you use, noting your preferences and choices. These data are collected and analyzed to identify broad demographic and psychographic trends. This helps us monitor the appeal and quality of information we publish and ensures that we only provide relevant and useful information to you. Unless you register with us, this information cannot be used to identify you personally.
-
-Cookies 
-
-In order to serve you better we may utilize cookies to store information. A cookie is a small piece of data kept on your computer that is used by the browser and that can only be read and understood by our servers. All browsers will work with cookies but you can set your browser to accept or reject them. If your browser rejects cookies you can still access our sites but some features may not be available to you. 
-
-Children and Privacy 
-
-We encourage parents to spend time with their children online. Under no circumstances do we intentionally collect 
-
-###### search for schools
-
-Search by Degree:
-
-Search by Program:
+All Online Schools uses cookies (small files on your computer), to provide us with usage statistics about our web site, and to understand where visitors find out about our web site. No data is stored in the cookie that identifies you personally. 
