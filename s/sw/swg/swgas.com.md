@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swgas.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618165918id_/http%3A//www.swgas.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swgas.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228143000id_/http%3A//www.swgas.com/about/privacy.php) for the most accurate reproduction.*
 
-# SWG / Privacy Policy
+# Southwest Gas -
 
 Thank you for visiting [www.swgas.com](https://web.archive.org/_http) (the Web site). Southwest Gas Corporation (also referred to as "we", "us" or "the Company") takes individuals' privacy seriously and is committed to preventing unauthorized use of, or access to, personal information. Southwest protects personal identifying information through processes and procedures intended to detect, prevent and mitigate the unauthorized use or disclosure of any identifying information. Please read the following to learn more about our Web Site Privacy Policy. By using the Web site, you agree to be bound by this Privacy Policy. 
 
