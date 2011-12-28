@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silvertouch.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629203806id_/http%3A//silvertouch.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silvertouch.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228114602id_/http%3A//www.silvertouch.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Silver Touch Technologies Ltd.
 
