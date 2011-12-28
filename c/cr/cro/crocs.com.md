@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crocs.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623205207id_/http%3A//www.crocs.com/privacy-security-policy/privacy-security-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crocs.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228044629id_/http%3A//www.crocs.com/privacy-security-policy/privacy-security-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Crocs | Privacy & Security Policy
 
-**Effective Date of this version: January 1, 2011**
+* **Effective Date of this version: January 1, 2011**
 
   
 Thank you for visiting crocs.com, including the Crocs online store; (collectively, the "Website"). This Website is operated by Crocs Retail, Inc. ("Crocs"), located at 6273 Monarch Park Place, Niwot, CO 80503. Your access to and use of this Website is subject to the following Privacy Policy ("Privacy Policy") and all applicable laws. The terms "Crocs," "we," "us" and "our" when used in this Privacy Policy mean Crocs Retail, Inc. The terms "you" and "your," when used in this Privacy Policy, mean any user of this Website.
