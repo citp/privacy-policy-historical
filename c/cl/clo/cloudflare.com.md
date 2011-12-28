@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cloudflare.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223205237id_/http%3A//www.cloudflare.com/security-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudflare.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228225420id_/https%3A//www.cloudflare.com/security-policy.html) for the most accurate reproduction.*
 
-# Performance & Security for Any Website | CloudFlare | Privacy Policy
+# Security policy | CloudFlare | The web performance & security company
 
-## CloudFlare Privacy & Security Policy
+## CloudFlare privacy & security policy
 
 CloudFlare will not sell, rent, or give away any of your personal information without your consent. It is our overriding privacy principle that any personal information you provide to us is just that: private. We do not presume that you are granting us permission to share your personal information with third parties wanting to sell you products or services that you have not requested. In order for us to provide some of the services we do we may on occasion need to provide information you supply us to external parties. When this is necessary we will provide you explicit notice and the ability to opt-out. CloudFlare may need to purge information from its system from time to time, and does not promise to keep any information beyond what is required by applicable law or regulation.
 
@@ -24,7 +24,7 @@ Our site uses "cookies" in order to provide a better service to our users. Cooki
 
 If you do not want CloudFlare or other websites to use cookies, you can disable them within your browser. Some portions of the CloudFlare website are still functional without cookies. If you'd specifically like to delete all cookies CloudFlare has placed on your browser, click here. Be aware that this will reset your session, disable auto-login, and may adversely affect other functions on the CloudFlare website.
 
-You may choose to enable CloudFlare to place cookies on the browswers of your visitors to your CloudFlare-protected sites. We do this to in order to track malicious visitors and reduce the chance of blocking legitimate users. If you would like, you can always opt-out of us placing cookies on your visitors' browsers.
+You may choose to enable CloudFlare to place cookies on the browsers of your visitors to your CloudFlare-protected sites. We do this to in order to track malicious visitors and reduce the chance of blocking legitimate users. If you would like, you can always opt-out of us placing cookies on your visitors' browsers.
 
 ### DATA AGGREGATION
 
