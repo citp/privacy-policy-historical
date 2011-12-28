@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rcrdlbl.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128204109id_/http%3A//rcrdlbl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcrdlbl.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228015517id_/http%3A//rcrdlbl.com/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | RCRD LBL | Free MP3 Downloads
+# PRIVACY POLICY
 
 Please read this statement regarding our site. If you have questions please contact us at  
 
