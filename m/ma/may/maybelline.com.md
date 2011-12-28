@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maybelline.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605202453id_/http%3A//www.maybelline.com/terms-of-service%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maybelline.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228050754id_/http%3A//www.maybelline.com/terms-of-service%23privacy) for the most accurate reproduction.*
 
-# Maybelline :: Terms of Use
+# Maybelline Privacy Policy - Contact and Corporate Policy Information for Maybelline
 
 ## Privacy Policy
 
