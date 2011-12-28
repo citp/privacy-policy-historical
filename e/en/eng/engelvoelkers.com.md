@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engelvoelkers.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622195936id_/http%3A//www.engelvoelkers.com/com/en/Footer/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engelvoelkers.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228060259id_/http%3A//www.engelvoelkers.com/com/en/Footer/privacy.php) for the most accurate reproduction.*
 
 # Privacy ENGEL & VÖLKERS - Your real estate agency for villas, houses, apartments, penthouses and other properties in Europe and worldwide
 
@@ -34,7 +34,15 @@ Our website has links to other sites of third party providers. Engel & Völkers 
 
 Opting out
 
-If you no longer wish to receive e-mails from Engel & Völkers, you can revoke the previously granted permission at any time. E-mail notification suffices for removal from the e-mail list or web registration database   
+If you no longer wish to receive e-mails from Engel & Völkers, you can revoke the previously granted permission at any time. E-mail notification suffices for removal from the e-mail list or web registration database 
+
+Facebook  
+  
+The Engel & Völkers website uses social plugins ("plugins") of the social network facebook.com, operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). These plugins are marked with a Facebook logo. If the customer accesses an Engel & Völkers website that contains such a plugin, the customer's browser will establish a direct connection to the Facebook servers. Facebook transmits the contents of the plugin directly to the customer's browser where it is integrated into the website.
+
+The plugin integration provides Facebook with the information that the customer has accessed the corresponding page of the Engel & Völkers website. If the customer is logged into Facebook, Facebook can assign the customer's visit to the customer's Facebook account. If the customer interacts with the plugins, for example by using the "Like" button or leaving a comment, the browser transmits the corresponding information directly to Facebook where it is saved. The purpose and scope of the data collection and the further processing and use of the data by Facebook as well as related rights and settings available to customers to protect their privacy can be found in the Facebook privacy policies. 
+
+If the customer does not want Facebook to collect data in the aforementioned way, the customer must log out of his/her Facebook account before visiting the Engel & Völkers website.  
 
 
 Information and questions
