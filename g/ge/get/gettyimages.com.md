@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettyimages.com privacy policy that was archived on 2011-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110114164923id_/http%3A//www.gettyimages.com/Corporate/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettyimages.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228035420id_/http%3A//www.gettyimages.com/Corporate/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Getty Images - Getty Images Privacy Policy
 
