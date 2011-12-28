@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msishopper.net privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304174003id_/https%3A//www.msishopper.net/NewSite/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msishopper.net privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228012953id_/http%3A//www.msishopper.net/NewSite/Privacy.htm) for the most accurate reproduction.*
 
 # TrendSource and MSI Services Privacy Policy
 
@@ -71,5 +71,5 @@ This web site contains links to other web sites. Please note that when you click
   
 
 
-© 2010 **MSI Services, Inc.** All rights reserved.  
+© 2011 **MSI Services, Inc.** All rights reserved.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
