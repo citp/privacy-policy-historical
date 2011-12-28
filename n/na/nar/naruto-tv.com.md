@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naruto-tv.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225010608id_/http%3A//naruto-tv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naruto-tv.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228070801id_/http%3A//naruto-tv.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Watch Naruto shippuden 241- Naruto Episodes, watch naruto anime, Videos in english
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
