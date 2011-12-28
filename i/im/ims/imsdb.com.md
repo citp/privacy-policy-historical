@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102151638id_/http%3A//www.imsdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228191526id_/http%3A//www.imsdb.com/privacy) for the most accurate reproduction.*
 
 # The Internet Movie Script Database (IMSDb)
 
@@ -23,17 +23,13 @@ Movie Software
 ---  
 [Blu-Ray ripper](https://web.archive.org/software/bluray-ripper)  
   
-Save the seals   
----  
-[](https://web.archive.org/out/helpseals)  
-  
 Latest Comments   
 ---  
-[Alien](https://web.archive.org/Movie%20Scripts/Alien%20Script.html)| 10/10  
-[Big Fish](https://web.archive.org/Movie%20Scripts/Big%20Fish%20Script.html)| 10/10  
-[Cinema Paradiso](https://web.archive.org/Movie%20Scripts/Cinema%20Paradiso%20Script.html)| 10/10  
-[American Beauty](https://web.archive.org/Movie%20Scripts/American%20Beauty%20Script.html)| 10/10  
-[Ace Ventura: Pet Detective](https://web.archive.org/Movie%20Scripts/Ace%20Ventura:%20Pet%20Detective%20Script.html)| 10/10  
+[My Girl](https://web.archive.org/Movie%20Scripts/My%20Girl%20Script.html)| 10/10  
+[Darkman](https://web.archive.org/Movie%20Scripts/Darkman%20Script.html)| 10/10  
+[Jurassic Park](https://web.archive.org/Movie%20Scripts/Jurassic%20Park%20Script.html)| 1/10  
+[Independence Day](https://web.archive.org/Movie%20Scripts/Independence%20Day%20Script.html)| 1/10  
+[Reader, The](https://web.archive.org/Movie%20Scripts/Reader,%20The%20Script.html)| 10/10  
   
 | 
 
@@ -57,7 +53,7 @@ Our website logs are not personally identifiable, and we make no attempt to link
 **_Use of cookies_** :   
 
 
-We do not use cookies on this site. 
+We allow third-party companies to serve adverts and/or collect certain anonymous information when you visit IMSDb. These companies may use non-personally identifiable information during your visits in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
   
 **_Privacy of our email lists_** :   
