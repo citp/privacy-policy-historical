@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daft.ie privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609193609id_/http%3A//www.daft.ie/docs.daft%3Fpage%3Dprivacy%26fr%3Ddefault) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daft.ie privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228060647id_/http%3A//www.daft.ie/docs.daft%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Daft.ie : Information
 
@@ -83,11 +83,51 @@ Like many websites, we use "cookies" to enable us to personalise your visits to 
 
 Like all websites, our servers automatically record 'log files' containing information about the volume and characteristics of our website traffic e.g. IP address, numbers of pages viewed, length of time spent on site. We use log files to build pictures of how our site is used that help us to monitor and improve the service. We cannot identify you from your log files. 
 
+Here is a list of all the cookies that we set and how we use them: 
+
+Cookie Name | Typical Value | Purpose | Expires  
+---|---|---|---  
+daftID | Randomly generated alphanumeric string | Used to identify user session | On browser exit  
+unique | Date and randomly generated alphanumeric string | Used for comparison with other "unique" cookies to decide unique visits to site | Jan 1st, 6 years after visit  
+strap_*_* | The number "1" | Ensure a strapline won't be seen after being dismissed | 3 years  
+adserver_ccid | "roi", "ni", "c1"-"c32", "ct1"-"ct6" | Remembers the last county/city/general area searched so it's recalled in subsequent searches | End of following year  
+cookie_user_id | User ID | Set only if "Remember me" is checked. Auto-login on subsequent visits. | On user log out  
+cookie_uid | User ID | Set only if "Remember me" is checked. Auto-login on subsequent visits. | On user log out  
+  
+In addition to the above cookies set by Daft, cookies may also be set by a number of our site partners. 
+
+Google Analytics (Audience Measurement)  
+---  
+__utma | Randomly generated number | Usage stats | 2 years  
+__utmb | Randomly generated number | Usage stats | 30 minutes  
+__utmc | Randomly generated number | Usage stats | On browser exit  
+__utmz | Randomly generated number | Usage stats | 6 months  
+Adtech.de (Ad serving)  
+CfP | "1" | This is a unique ID for the browser, so we know if an ad has already been seen | On browser exit  
+JEB2 | Alphanumeric string | This is a unique ID for the browser, so we know if an ad has already been place | 2 years  
+Comscore (Audience Measurement)  
+UID | Hexadecimal-ip-numerical | User id | 1 year, 354 days  
+UIDR | Numerical (same as end of UID) | Real user id | 1 year, 354 days  
+ie-stat.bmmetrix.com (Audience Measurement)  
+Bm_map | string | Identify location of user  | 01/01/2030  
+Cid | Alphanumeric string:numerical string | Client id | 01/01/2030  
+Sid | Alphanumeric string:numerical string | Session id | On browser exit  
+Twitter.com ("Tweet" button on ads clicked)  
+k | Alphanumeric string |  | 1 week  
+guest_id | Alphanumeric string | User ID | 2 years  
+_twitter_sess | Alphanumeric string (286 characters long!) | Session ID | On browser exit  
+Facebook.com ("Like" & "Share" buttons clicked)  
+wd | Alphanumeric string (width x height) | Width x Height of FB login popup | On browser exit  
+datr | Randomly generated alphanumeric string | Used to identify user session | 2 years  
+reg_ext_ref | Referring page URL | Redirection, stats | On browser exit  
+reg_fb_gate | FB login URL | FB login | On browser exit  
+reg_fb_ref | FB login URL | Usage stats | On browser exit  
+  
 We also use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing France property adverts to someone in Paris, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
 
 ### DoubleClick DART cookies
 
-We also may use DART cookies for ad serving through Google?s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non- related site, such as on a site about hockey). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
+We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non- related site, such as on a site about hockey). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
 
 ### Security, storage and transfer of information
 
