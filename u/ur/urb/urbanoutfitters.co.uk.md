@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanoutfitters.co.uk privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629175519id_/http%3A//www.urbanoutfitters.co.uk/help-and-info/privacy%2Bsecurity-policy/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanoutfitters.co.uk privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228084140id_/http%3A//www.urbanoutfitters.co.uk/help-and-info/privacy%2Bsecurity-policy/page/privacypolicy) for the most accurate reproduction.*
 
 # Urban Outfitters - Privacy & Security Policy
 
@@ -26,7 +26,8 @@ We use cookies and similar technologies to collect information about the pages y
 INFORMATION WE SHARE  
 We may transfer (or otherwise make available) your personal information to other members of the Urban Outfitters corporate family and other third parties who provide services on our behalf. We may use service providers to process data, host our website, and send emails, in order to help us better understand your use of our website and refine and improve the website. These companies may store and process this information in the United Kingdom or United States.  
 All of our service providers are required to maintain the confidentiality and security of your personal information and to use it only in compliance with applicable privacy laws. These companies are not authorised to use your information in any manner, other than in helping us to provide you with products and services or as otherwise required by applicable law. At various times we may also ask you whether you would be happy for your personal information to be shared with other companies that are not associated with the Urban Outfitters corporate family. Where you agree to this, once we have shared your personal information with those other companies, this Privacy & Security Policy will not apply to their use of your personal information and their own policies will apply.  
-We may also disclose specific personal information about you if required by law, governmental request or court order if, based on our good faith belief, it is necessary to conform or comply with such law, request or court order.
+We may also disclose specific personal information about you if required by law, governmental request or court order if, based on our good faith belief, it is necessary to conform or comply with such law, request or court order.  
+At various times we may also ask you whether you would be happy for your personal information to be shared with other companies which are not associated with the Anthropologie corporate family. Where you agree to this, once we have shared your personal information with those other companies, this Privacy & Security Policy will not apply to their use of your personal information and their own policies will apply.
 
 SALE OF BUSINESS  
 Urban Outfitters Europe may transfer any information we have about you in the event of a merger with a third party or upon a sale or transfer of all or a portion of our business or assets to a third party acquirer.
@@ -44,7 +45,7 @@ This Privacy & Security Policy was updated on 10 September 2010 to take account 
 CONTACT US  
 Feel free to contact us with any questions about our Privacy & Security Policy or the manner in which we treat your personal information or to withdraw your name from an email or other marketing list.  
 If you wish to access or update the personal information we have about you, or to correct factual errors in our records, please contact us as set out below. To protect your privacy, we will take reasonable steps to help verify your identity before granting access or making corrections.  
-EMAIL: [UrbanEuropeCS@urbanout.com](mailto:UrbanEuropeCS@urbanout.com)  
+EMAIL: [UrbanEuropeCS@urbanout.com](mailto:UrbanEuropeCS@urbanout.com) [UrbanEuropeCS@urbanout.com](mailto:UrbanEuropeCS@urbanout.com)   
 MAIL: Urban Outfitters Europe, Stephenson Harwood, 1 St Paul's Churchyard, London EC4M 8SH  
 Urban Outfitters Europe is a trading name of URBN UK Limited, a UK registered company (company number 3124253 and VAT number 6325757B), whose registered office address is: Stephenson Harwood, 1 St Pauls Churchyard, London EC4M 8SH
 
