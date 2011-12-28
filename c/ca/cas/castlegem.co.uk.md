@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castlegem.co.uk privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613025707id_/http%3A//www.castlegem.co.uk/PrivacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castlegem.co.uk privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228223937id_/http%3A//www.castlegem.co.uk/PrivacyStatement.html) for the most accurate reproduction.*
 
 # Castlegem - Privacy Statement
 
@@ -12,7 +12,7 @@ We are committed to protecting your privacy and to developing technology that gi
 
 We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when purchasing Castlegem Ltd. products or contacting Castlegem Ltd. Personal information collected by Castlegem Ltd. often is limited to e-mail address, language, country or location, but may include other information when needed to provide a service you requested.
 
-We keep this registration information on file with any information you've already given us on previous visits to our Web site. This information is kept offsite. 
+We keep this registration information on file with any information you've already given us on previous visits to our Web site. **Credit card information is never stored on our servers.**
 
 ### Use of your Personal Information
 
@@ -55,8 +55,7 @@ When someone visits the site, a cookie is placed on the customer's machine (if t
 Castlegem Ltd. will occasionally update this privacy statement. When we do, we will also revise the .last updated. date at the top of the privacy statement. For material changes to this statement, Castlegem Ltd. will notify you by placing prominent notice on the Web site.
 
 Castlegem Ltd.  
-Office 404, 4th floor, Albany House  
-324/326 Regent St.  
+207 Regent St.  
 London  
 W1B 3HH  
 UK
