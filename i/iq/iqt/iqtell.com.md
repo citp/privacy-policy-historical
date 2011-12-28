@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iqtell.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615073653id_/http%3A//www.iqtell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iqtell.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228064108id_/http%3A//iqtell.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Organize your life by getting things done, IQTELL
+# Privacy Policy | Manage your tasks, emails, bookmarks and much more on IQTELL
 
 [](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.iqtell.com/seal_m "Validate TRUSTe privacy certification")
 
