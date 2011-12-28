@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kifaa.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629094447id_/http%3A//www.kifaa.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kifaa.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228034052id_/http%3A//www.kifaa.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Post free ads. Free advertisement. Buy and Sell Online free! Place your free classified ads with Kifaa.com today
 
