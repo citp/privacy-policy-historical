@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mikefilsaime.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226233544id_/http%3A//www.mikefilsaime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mikefilsaime.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228033641id_/http%3A//www.mikefilsaime.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy Mike Filsaime Official Website and Blog
 
 1\. HOW WE PROTECT YOUR PRIVACY.  
 This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
@@ -69,4 +69,4 @@ This policy was last updated on 04-09-2010.
 
 Copyright © 2008Law Office of Michael E. Young PLLC , and licensed for use by the owner of this website at www.MikeFilsaime.com. All Rights Reserved.  No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
 
-Rating: 4.0/ **10** (1 vote cast)
+Rating: 7.0/ **10** (2 votes cast)
