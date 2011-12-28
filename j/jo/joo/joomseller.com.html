@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the joomseller.com privacy policy that was archived on 2011-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110608182530id_/http%3A//joomseller.com/js-tos/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the joomseller.com privacy policy that was archived on 2011-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228192856id_/http%3A//www.joomseller.com/js-tos/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
 	<script type="text/javascript">
 var siteurl='/';
 var tmplurl='/templates/ja_social/';
+var isRTL = false;
 </script>
 
-  <base href="http://joomseller.com/js-tos/privacy.html">
+  <base href="http://www.joomseller.com/js-tos/privacy.html">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
   <meta name="keywords" content="osjoomla, open source, joomla, modules, plugins, free extensions, extensions, component, accordion menu, dropline menu, dropdown menu, scrolling, newsflash, expanding, sh404sef, artio, joomsef, google page rank, dropdown menu, accordion menu, paypal, moneybookers, liberty reserve, donation, jobline, virtuemart, jdirectory, forum, scrolling, Blue, green">
@@ -16,11 +17,13 @@ var tmplurl='/templates/ja_social/';
   <meta name="description" content="This is a joomla extensions site, you can find so many free joomla extensions at here and they are very useful for your site. Feel free to download and try. For all commercial products, you have 1 year free upgrade and 3 months free support.">
   
   <title>Privacy | JS TOS</title>
-  <link rel="stylesheet" href="http://joomseller.com//plugins/system/jatypo/typo/typo.css" type="text/css">
   <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css">
   <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css">
+  <link rel="stylesheet" href="/plugins/system/jatypo/typo/typo.css" type="text/css">
   <link rel="stylesheet" href="/modules/mod_zj_fileseller_cart/assets/css/mod_zj_fileseller_cart.css" type="text/css">
+  <link rel="stylesheet" href="/modules/mod_zj_fileseller/assets/css/mod_zj_fileseller.css" type="text/css">
   <link rel="stylesheet" href="/modules/mod_jalogin/assets/style.css" type="text/css">
+  <link rel="stylesheet" href="/modules/mod_zj_fileseller_search/assets/css/style.css" type="text/css">
   <link rel="stylesheet" href="/plugins/system/jat3/base-themes/default/css/addons.css" type="text/css">
   <link rel="stylesheet" href="/plugins/system/jat3/base-themes/default/css/layout.css" type="text/css">
   <link rel="stylesheet" href="/plugins/system/jat3/base-themes/default/css/template.css" type="text/css">
@@ -37,14 +40,34 @@ var tmplurl='/templates/ja_social/';
   <script type="text/javascript" src="/plugins/system/jat3/base-themes/default/js/menu/mega.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
   <script type="text/javascript" src="/modules/mod_jalogin/assets/script.js"></script>
+  <script type="text/javascript" src="http://www.joomseller.com/modules/mod_zj_fileseller_search/assets/js/dojo.js"></script>
+  <script type="text/javascript" src="http://www.joomseller.com/modules/mod_zj_fileseller_search/assets/js/script.js"></script>
+  <script type="text/javascript">
+
+dojo.addOnLoad(function(){
+  var ajaxSearch = new AJAXSearch({
+    node : dojo.byId('offlajn-ajax-search'),
+    searchBoxCaption : 'Search...',
+    noResultsTitle : 'Product(0)',
+    noResults : 'Products not Found!',
+    productsPerPlugin : 5,
+    searchRsWidth : 250,
+    resultElementHeight : 83,
+    minChars : 2,
+    searchFormUrl : 'http://www.joomseller.com/index.php?tmpl=component&orderby=rdate&thumb_width=50&thumb_height=75&max_desc=70',
+    enableScroll : '1',
+    showIntroText: '1'
+  })
+});
+  </script>
   <script type="text/javascript">
 /*<![CDATA[*/
-	var jax_live_site = 'http://joomseller.com/index.php';
+	var jax_live_site = 'http://www.joomseller.com/index.php';
 	var jax_site_type = '1.5';
 /*]]>*/
-</script><script type="text/javascript" src="http://joomseller.com/plugins/system/pc_includes/ajax_1.2.js"></script>
-  <link rel="stylesheet" type="text/css" href="http://joomseller.com/components/com_jomcomment/style.css">
-<link rel="stylesheet" type="text/css" href="http://joomseller.com/components/com_jomcomment/templates/pastel/comment_style.css">
+</script><script type="text/javascript" src="http://www.joomseller.com/plugins/system/pc_includes/ajax_1.2.js"></script>
+  <link rel="stylesheet" type="text/css" href="http://www.joomseller.com/components/com_jomcomment/style.css">
+<link rel="stylesheet" type="text/css" href="http://www.joomseller.com/components/com_jomcomment/templates/pastel/comment_style.css">
 
 <script type="text/javascript">
 /*<![CDATA[*/
@@ -52,46 +75,31 @@ var jc_option           = "";
 var jc_autoUpdate       = "0";
 var jc_update_period    = 0*1000;
 var jc_orderBy          = "0";
-var jc_livesite_busyImg = "http://joomseller.com/components/com_jomcomment/busy.gif";
+var jc_livesite_busyImg = "http://www.joomseller.com/components/com_jomcomment/busy.gif";
 var jc_username         = "";
 var jc_email            = "";
 var jc_commentForm;
 /*]]>*/
 </script>
-  <link rel="stylesheet" type="text/css" href="http://joomseller.com/modules/mod_followme/style.css" title="default">
+  <link rel="stylesheet" type="text/css" href="http://www.joomseller.com/modules/mod_followme/style.css" title="default">
 
 
 
 
 <link href="/plugins/system/jat3/base-themes/default/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
-
-
-<!--[if IE 7.0]>
-<style>
-.clearfix { display: inline-block; } /* IE7xhtml*/
-</style>
-<![endif]-->
-
 		
-	
-
-<style type="text/css">
+	<style type="text/css">
 /*dynamic css*/
-	.main {
-		width: 980px;
-	}
-	
-	#ja-wrapper {
-		min-width: 980px;
-	}
-</style>
-</head>
 
-<body id="bd" class="fs3">
+	body.bd .main {width: 980px;}
+	body.bd #ja-wrapper {min-width: 980px;}
+</style></head>
+
+<body id="bd" class="bd fs3 com_content">
 <div id="ja-wrapper">
 	<a name="Top" id="Top"></a>
 	
-						<div id="ja-header" class="wrap">		
+	<div id="ja-header" class="wrap ">		
 				
 			
 					<div class="main">
@@ -106,12 +114,60 @@ var jc_commentForm;
 		
 		<div id="ja-search">
 		
-<form action="index.php" method="post" class="search">
-	<label for="mod_search_searchword">
-		Search	</label>
-	<input name="searchword" id="mod_search_searchword" maxlength="20" class="inputbox" type="text" size="20" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';"><input type="submit" value="Search" class="button">	<input type="hidden" name="option" value="com_search">
-	<input type="hidden" name="task" value="search">
-</form>
+<style>
+#zj_searchform{
+  width: 215px;
+}
+#zj_searcharea{
+  width: 125px !important;
+}
+#search-results .page-container{
+	height:415px;
+	width:250px;
+}
+#zj_searchclosebutton{
+	left:127px;
+}
+#results_inner{
+	width:250px;
+}
+#search-results .result-element{
+	width:250px;
+}
+#search-results .result-element span{
+    width: 183px;
+}
+#search-results .result-products span{
+    width: 142px;
+}
+#search-results .result-element span.small-desc{
+  margin-top : 2px;
+  font-weight: normal;
+  line-height: 13px;
+  color: #4E5051;
+}
+
+#search-results .no-result{
+	width:250px;
+}
+#search-results .no-result span{
+	width:233px;
+}
+#results_moovable{
+	width:250px;
+}
+</style>
+
+<div id="offlajn-ajax-search">
+  <form id="zj_searchform" action="" method="get" onsubmit="return false;">
+    <div class="zj_search">
+      <input type="text" name="keywords" id="zj_searcharea" class="inputbox" value="" autocomplete="off">
+      <div id="zj_searchclosebutton"></div>
+      <input type="submit" id="zj_searchbutton" class="button" value="Search">
+      <div class="ajax-clear"></div>
+    </div>
+  </form>
+</div>
 
 	</div>
 	
@@ -123,18 +179,20 @@ var jc_commentForm;
 					</div>
 		
 			
-				</div>		
-								<div id="ja-topbar" class="wrap">		
+				</div><div id="ja-topbar" class="wrap ">		
 				
 			
 					<div class="main clearfix">
 		
 				
-		
+		<!--
 <p class="ja-day">
-  <span class="day">Thursday</span><span class="date">, Jun 09th</span></p>
-<p class="ja-updatetime"><span>Last update</span><em>10:39:45 PM GMT</em></p>
-
+  <span class="day">Wednesday</span><span class="date">, Dec 28th</span></p>
+<p class="ja-updatetime"><span>Last update</span><em>T3_DATE_FORMAT_LASTUPDATE</em></p>
+-->
+	<div class="ja-footnav">
+		<div style="position:fixed; top:180px; right:10px; z-index:999;"><a href="http://twitter.com/joomseller" target="_blank"><img title="Follow Us On Twitter" alt="Follow us on Twitter" src="http://www.joomseller.com/modules/mod_followme/images/followme_right.png" border="0"></a></div><ul id="mainlevel-nav"><li><a href="/js-tos/terms-of-use.html" class="mainlevel-nav">Terms of Use</a></li><li><a href="/js-tos/privacy.html" class="mainlevel-nav">Privacy</a></li><li><a href="/js-tos/disclaimer.html" class="mainlevel-nav">Disclaimer</a></li><li><a href="/contact-us/joomseller-customer-services.html" class="mainlevel-nav">Contact Us</a></li></ul>
+	</div>
 	<div id="ja-headtools" class="ja-headtool">
   <ul> 			
 			<li>
@@ -170,7 +228,7 @@ var jc_commentForm;
         <input type="hidden" name="option" value="com_user">
         <input type="hidden" name="task" value="login">
         <input type="hidden" name="return" value="L2pzLXRvcy9wcml2YWN5Lmh0bWw=">
-        <input type="hidden" name="3d4803a7f9072dcc4c7db2c7bf183594" value="1">    </form>
+        <input type="hidden" name="6c5b611236629b2ff31b2fd9edfc03e5" value="1">    </form>
     </div>
 		
 	</li>
@@ -190,45 +248,80 @@ var jc_commentForm;
 					</div>
 		
 			
-				</div>		
-									<div id="ja-mainnav" class="wrap">		
+				</div><div id="ja-mainnav" class="wrap ">		
 				
 			
 					<div class="main clearfix">
 		
 				
 			<div class="ja-megamenu clearfix" id="ja-megamenu">
-<ul class="megamenu level0"><li class="mega first"><a href="/" class="mega first" id="menu1" title="Home"><span class="has-image" style="background-image:url(/images/stories/home.png);"><span class="menu-title">Home</span></span></a></li><li class="mega haschild"><a href="/our-products.html" class="mega haschild" id="menu108" title="Our Products"><span class="menu-title">Our Products</span></a><div class="childcontent cols1 ">
+<ul class="megamenu level0"><li class="mega first"><a href="/" class="mega first" id="menu1" title="Home"><span class="has-image" style="background-image:url(/images/stories/home.png);"><span class="menu-title">Home</span></span></a></li><li class="mega haschild"><a href="/general/our-services.html" class="mega haschild" id="menu115" title="About Us"><span class="menu-title">About Us</span></a><div class="childcontent cols1 ">
 <div class="childcontent-inner-wrap">
-<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first haschild"><a href="/joomla-components.html" class="mega first haschild" id="menu120" title="Joomla Components"><span class="menu-title">Joomla Components</span><span class="menu-desc">&nbsp;</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="/our-services/request-quote.html" class="mega first" id="menu98" title="Request Quote"><span class="menu-title">Request Quote</span></a></li><li class="mega last"><a href="/index.php?option=com_wordpress&amp;Itemid=171" class="mega last" id="menu171" title="My Blog"><span class="menu-title">My Blog</span></a></li></ul></div></div>
+</div></div></li><li class="mega haschild"><a href="/our-products.html" class="mega haschild" id="menu108" title="Our Products"><span class="menu-title">Our Products</span></a><div class="childcontent cols4 ">
 <div class="childcontent-inner-wrap">
-<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="/joomla-components/real-estate-component.html" class="mega first" id="menu129" title="ZJ Realty - Real estate"><span class="menu-title">ZJ Realty - Real estate</span></a></li><li class="mega last"><a href="/joomla-components/adwords-keywords-advertising.html" class="mega last" id="menu130" title="Adwords - Keywords Advertising"><span class="menu-title">Adwords - Keywords Advertising</span></a></li></ul></div></div>
-</div></div></li><li class="mega haschild"><a href="/joomla-modules.html" class="mega haschild" id="menu109" title="Joomla Modules"><span class="menu-title">Joomla Modules</span><span class="menu-desc">&nbsp;</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner clearfix" style="width: 800px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-title"><a href="/joomla-components.html" class="mega first group" id="menu120" title="J! Components"><span class="menu-title">J! Components</span></a></div><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/joomla-components/events-booking-pro.html" class="mega first" id="menu166" title="Pro Events Booking"><span class="menu-title">Pro Events Booking</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega"><a href="/joomla-components/zj-donation.html" class="mega" id="menu170" title="ZJ Donation"><span class="menu-title">ZJ Donation</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega"><a href="/joomla-components/files-seller-documents-seller.html" class="mega" id="menu168" title="Documents Seller"><span class="menu-title">Documents Seller</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega"><a href="/joomla-components/real-estate-component.html" class="mega" id="menu129" title="ZJ Realty - Real estate"><span class="menu-title">ZJ Realty - Real estate</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega"><a href="/joomla-components/jt-showcase-pro.html" class="mega" id="menu169" title="JT Showcase Pro"><span class="menu-title">JT Showcase Pro</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega"><a href="/joomla-components/adwords-keywords-advertising.html" class="mega" id="menu130" title="Keywords Advertising"><span class="menu-title">Keywords Advertising</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega last parent-tags tags-red"><a href="/joomla-components/ajax-faqs.html" class="mega last parent-tags tags-red" id="menu202" title="AJAX FAQs"><span class="menu-title">AJAX FAQs</span><span class="menu-desc">New</span></a></li></ul></div></div></li></ul></div><div class="megacol column2" style="width: 200px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-title"><a href="/joomla-modules.html" class="mega first group" id="menu109" title="Joomla Modules"><span class="menu-title">Joomla Modules</span></a></div><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/joomla-modules/dropdown-mega-menu.html" class="mega first" id="menu173" title="Dropdown Mega Menu"><span class="menu-title">Dropdown Mega Menu</span><span class="menu-desc">New</span></a></li><li class="mega"><a href="/joomla-modules/pro-accordion-menu.html" class="mega" id="menu131" title="Pro Accordion Menu"><span class="menu-title">Pro Accordion Menu</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega"><a href="/joomla-modules/dropdown-mootools-menu.html" class="mega" id="menu134" title="Dropdown Mootools"><span class="menu-title">Dropdown Mootools</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega"><a href="/joomla-modules/newsflash-expanding.html" class="mega" id="menu137" title="Newsflash Expanding"><span class="menu-title">Newsflash Expanding</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega"><a href="/joomla-modules/newsflash-scrolling.html" class="mega" id="menu136" title="NewsFlash Scrolling"><span class="menu-title">NewsFlash Scrolling</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega parent-tags tags-red"><a href="/joomla-modules/ajax-search-for-virtuemart.html" class="mega parent-tags tags-red" id="menu210" title="VM AJAX Search"><span class="menu-title">VM AJAX Search</span><span class="menu-desc">New</span></a></li><li class="mega last haschild parent-tags tags-green"><a href="#" class="mega last haschild parent-tags tags-green" id="menu176" title="Show More --->"><span class="menu-title">Show More ---&gt;</span><span class="menu-desc">MORE</span></a><div class="childcontent cols1 ">
 <div class="childcontent-inner-wrap">
-<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first parent-tags tags-red"><a href="/joomla-modules/pro-accordion-menu.html" class="mega first parent-tags tags-red" id="menu131" title="Pro Accordion Menu"><span class="menu-title">Pro Accordion Menu</span><span class="menu-desc">HOT</span></a></li><li class="mega parent-tags tags-red"><a href="/joomla-modules/standalone-accordion-menu.html" class="mega parent-tags tags-red" id="menu132" title="Accordion Menu"><span class="menu-title">Accordion Menu</span><span class="menu-desc">HOT</span></a></li><li class="mega"><a href="/joomla-modules/pro-dropdown-menu.html" class="mega" id="menu133" title="Pro Dropdown Menu"><span class="menu-title">Pro Dropdown Menu</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega parent-tags tags-red"><a href="/joomla-modules/dropdown-mootools-menu.html" class="mega parent-tags tags-red" id="menu134" title="Dropdown Mootools"><span class="menu-title">Dropdown Mootools</span><span class="menu-desc">HOT</span></a></li><li class="mega"><a href="/joomla-modules/dropdown-expanding-menu.html" class="mega" id="menu135" title="Dropdown Expanding"><span class="menu-title">Dropdown Expanding</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega"><a href="/joomla-modules/newsflash-scrolling.html" class="mega" id="menu136" title="NewsFlash Scrolling"><span class="menu-title">NewsFlash Scrolling</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega"><a href="/joomla-modules/newsflash-expanding.html" class="mega" id="menu137" title="Newsflash Expanding"><span class="menu-title">Newsflash Expanding</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega"><a href="/joomla-modules/standalone-dropdown-menu.html" class="mega" id="menu138" title="Standalone Drop down"><span class="menu-title">Standalone Drop down</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega last"><a href="/joomla-modules/virtuemart-accordion-menu.html" class="mega last" id="menu139" title="vm Categories Accordion"><span class="menu-title">vm Categories Accordion</span><span class="menu-desc">&nbsp;</span></a></li></ul></div></div>
-</div></div></li><li class="mega haschild"><a href="/joomla-plugins.html" class="mega haschild" id="menu110" title="Joomla Plugins"><span class="menu-title">Joomla Plugins</span><span class="menu-desc">&nbsp;</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="/joomla-modules/virtuemart-accordion-menu.html" class="mega first" id="menu139" title="vm Categories Accordion"><span class="menu-title">vm Categories Accordion</span></a></li><li class="mega"><a href="/joomla-modules/standalone-dropdown-menu.html" class="mega" id="menu138" title="Standalone Drop down"><span class="menu-title">Standalone Drop down</span></a></li><li class="mega"><a href="/joomla-modules/standalone-accordion-menu.html" class="mega" id="menu132" title="Standalone Accordion"><span class="menu-title">Standalone Accordion</span></a></li><li class="mega"><a href="/joomla-modules/dropdown-expanding-menu.html" class="mega" id="menu135" title="Dropdown Expanding"><span class="menu-title">Dropdown Expanding</span></a></li><li class="mega last"><a href="/joomla-modules/pro-dropdown-menu.html" class="mega last" id="menu133" title="Pro Dropdown Menu"><span class="menu-title">Pro Dropdown Menu</span></a></li></ul></div></div>
+</div></div></li></ul></div></div></li></ul></div><div class="megacol column3" style="width: 200px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-title"><a href="/joomla-plugins.html" class="mega first group" id="menu110" title="Joomla Plugins"><span class="menu-title">Joomla Plugins</span></a></div><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/joomla-plugins/facebook-fanbox-plugin.html" class="mega first" id="menu140" title="Facebook Fanbox Plugin"><span class="menu-title">Facebook Fanbox Plugin</span></a></li><li class="mega last"><a href="/joomla-plugins/facebook-social-comments.html" class="mega last" id="menu141" title="Facebook Comment"><span class="menu-title">Facebook Comment</span></a></li></ul></div></div></li></ul></div><div class="megacol column4 last" style="width: 200px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-title"><a href="/free-extensions.html" class="mega first group" id="menu175" title="Free extensions"><span class="menu-title">Free extensions</span></a></div><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/free-extensions/accordion-menu-lite.html" class="mega first" id="menu143" title="Accordion Menu - Lite"><span class="menu-title">Accordion Menu - Lite</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega"><a href="/free-extensions/blue-dropline-menu.html" class="mega" id="menu144" title="Blue Dropline Menu"><span class="menu-title">Blue Dropline Menu</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega"><a href="/free-extensions/dropline-menu.html" class="mega" id="menu145" title="Dropline Menu"><span class="menu-title">Dropline Menu</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega"><a href="/free-extensions/paypal-donation-module.html" class="mega" id="menu151" title="Paypal Donation Module"><span class="menu-title">Paypal Donation Module</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega"><a href="/free-extensions/facebook-javascript-sdk-connect.html" class="mega" id="menu160" title="Facebook connection"><span class="menu-title">Facebook connection</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega last haschild parent-tags tags-green"><a href="#" class="mega last haschild parent-tags tags-green" id="menu111" title="Show More --->"><span class="menu-title">Show More ---&gt;</span><span class="menu-desc">MORE</span></a><div class="childcontent cols1 ">
 <div class="childcontent-inner-wrap">
-<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first parent-tags tags-red"><a href="/joomla-plugins/facebook-fanbox-plugin.html" class="mega first parent-tags tags-red" id="menu140" title="Facebook Fanbox Plugin"><span class="menu-title">Facebook Fanbox Plugin</span><span class="menu-desc">New</span></a></li><li class="mega"><a href="/joomla-plugins/facebook-social-comments.html" class="mega" id="menu141" title="Facebook Comment"><span class="menu-title">Facebook Comment</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega last"><a href="/joomla-plugins/joomsef-ext-for-virtuemart.html" class="mega last" id="menu142" title="Artio JoomSEF Ext for VM"><span class="menu-title">Artio JoomSEF Ext for VM</span><span class="menu-desc">&nbsp;</span></a></li></ul></div></div>
-</div></div></li><li class="mega last haschild parent-tags tags-red"><a href="/free-extensions.html" class="mega last haschild parent-tags tags-red" id="menu111" title="Free extensions"><span class="menu-title">Free extensions</span><span class="menu-desc">FREE</span></a><div class="childcontent cols1 ">
-<div class="childcontent-inner-wrap">
-<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="/free-extensions/accordion-menu-lite.html" class="mega first" id="menu143" title="Accordion Menu - Lite"><span class="menu-title">Accordion Menu - Lite</span></a></li><li class="mega"><a href="/free-extensions/blue-dropline-menu.html" class="mega" id="menu144" title="Blue Dropline Menu"><span class="menu-title">Blue Dropline Menu</span></a></li><li class="mega"><a href="/free-extensions/dropline-menu.html" class="mega" id="menu145" title="Dropline Menu"><span class="menu-title">Dropline Menu</span></a></li><li class="mega"><a href="/free-extensions/changeable-color-menu.html" class="mega" id="menu146" title="Changeable Color Menu"><span class="menu-title">Changeable Color Menu</span></a></li><li class="mega"><a href="/free-extensions/access-content-j1.5-plugins.html" class="mega" id="menu147" title="OJAccess Content"><span class="menu-title">OJAccess Content</span></a></li><li class="mega haschild"><a href="#" class="mega haschild" id="menu148" title="Donation Modules"><span class="menu-title">Donation Modules</span></a><div class="childcontent cols1 ">
-<div class="childcontent-inner-wrap">
-<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level3"><li class="mega first"><a href="/free-extensions/paypal-donation-module.html" class="mega first" id="menu151" title="Paypal Donation"><span class="menu-title">Paypal Donation</span></a></li><li class="mega last"><a href="/free-extensions/liberty-reserve-donation.html" class="mega last" id="menu153" title="Liberty Reserve Donation"><span class="menu-title">Liberty Reserve Donation</span></a></li></ul></div></div>
-</div></div></li><li class="mega haschild"><a href="#" class="mega haschild" id="menu149" title="SH404SEF Extensions"><span class="menu-title">SH404SEF Extensions</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first haschild"><a href="#" class="mega first haschild" id="menu149" title="SH404SEF Extensions"><span class="menu-title">SH404SEF Extensions</span></a><div class="childcontent cols1 ">
 <div class="childcontent-inner-wrap">
 <div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level3"><li class="mega first"><a href="/free-extensions/sh404sef-for-joobb.html" class="mega first" id="menu156" title="SH404SEF for Joo!BB"><span class="menu-title">SH404SEF for Joo!BB</span></a></li><li class="mega last"><a href="/free-extensions/sh404sef-for-jobline.html" class="mega last" id="menu157" title="SH404SEF for Jobline"><span class="menu-title">SH404SEF for Jobline</span></a></li></ul></div></div>
 </div></div></li><li class="mega haschild"><a href="#" class="mega haschild" id="menu150" title="JoomSEF Extensions"><span class="menu-title">JoomSEF Extensions</span></a><div class="childcontent cols1 ">
 <div class="childcontent-inner-wrap">
-<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level3"><li class="mega first"><a href="/free-extensions/joomsef-ext-for-jobline.html" class="mega first" id="menu158" title="JoomSEF for Jobline"><span class="menu-title">JoomSEF for Jobline</span></a></li><li class="mega last"><a href="/free-extensions/joomsef-for-jdirectory.html" class="mega last" id="menu159" title="JoomSEF for jDirectory"><span class="menu-title">JoomSEF for jDirectory</span></a></li></ul></div></div>
-</div></div></li><li class="mega"><a href="/free-extensions/hits-and-visitors-counter.html" class="mega" id="menu154" title="Visitors Counter"><span class="menu-title">Visitors Counter</span></a></li><li class="mega"><a href="/free-extensions/login-by-email-j15.html" class="mega" id="menu155" title="Login by Email"><span class="menu-title">Login by Email</span></a></li><li class="mega last"><a href="/free-extensions/facebook-javascript-sdk-connect.html" class="mega last" id="menu160" title="Facebook connection"><span class="menu-title">Facebook connection</span></a></li></ul></div></div>
-</div></div></li></ul></div></div>
-</div></div></li><li class="mega haschild"><a href="http://demo.joomseller.com" target="_blank" class="mega haschild" id="menu125" title="Live Demo"><span class="menu-title">Live Demo</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level3"><li class="mega first"><a href="/free-extensions/joomsef-ext-for-jobline.html" class="mega first" id="menu158" title="JoomSEF for Jobline"><span class="menu-title">JoomSEF for Jobline</span></a></li><li class="mega"><a href="/free-extensions/joomsef-for-jdirectory.html" class="mega" id="menu159" title="JoomSEF for jDirectory"><span class="menu-title">JoomSEF for jDirectory</span></a></li><li class="mega last"><a href="/free-extensions/joomsef-ext-for-virtuemart.html" class="mega last" id="menu142" title="Artio JoomSEF for VM"><span class="menu-title">Artio JoomSEF for VM</span></a></li></ul></div></div>
+</div></div></li><li class="mega"><a href="/free-extensions/liberty-reserve-donation.html" class="mega" id="menu153" title="Liberty Reserve Donation"><span class="menu-title">Liberty Reserve Donation</span></a></li><li class="mega"><a href="/free-extensions/changeable-color-menu.html" class="mega" id="menu146" title="Changeable Color Menu"><span class="menu-title">Changeable Color Menu</span></a></li><li class="mega"><a href="/free-extensions/related-videos-for-jomsocial.html" class="mega" id="menu172" title="JS Related Videos"><span class="menu-title">JS Related Videos</span></a></li><li class="mega"><a href="/free-extensions/access-content-j1.5-plugins.html" class="mega" id="menu147" title="OJAccess Content"><span class="menu-title">OJAccess Content</span></a></li><li class="mega"><a href="/free-extensions/hits-and-visitors-counter.html" class="mega" id="menu154" title="Visitors Counter"><span class="menu-title">Visitors Counter</span></a></li><li class="mega last"><a href="/free-extensions/login-by-email-j15.html" class="mega last" id="menu155" title="Login by Email"><span class="menu-title">Login by Email</span></a></li></ul></div></div>
+</div></div></li></ul></div></div></li></ul></div></div>
+</div></div></li><li class="mega haschild"><a href="http://demo.joomseller.com" target="_blank" class="mega haschild" id="menu177" title="Live demo"><span class="menu-title">Live demo</span></a><div class="childcontent cols3 ">
 <div class="childcontent-inner-wrap">
-<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="http://demo16.joomseller.com" target="_blank" class="mega first" id="menu126" title="Demo Joomla! 1.6"><span class="menu-title">Demo Joomla! 1.6</span></a></li></ul></div></div>
-</div></div></li><li class="mega"><a href="/forum/" class="mega" id="menu43" title="Forum"><span class="menu-title">Forum</span></a></li><li class="mega haschild"><a href="/general/our-services.html" class="mega haschild" id="menu115" title="Our Services"><span class="menu-title">Our Services</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner clearfix" style="width: 600px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-title"><a href="#" class="mega first group" id="menu181" title="J! Components"><span class="menu-title">J! Components</span></a></div><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="http://eventsbooking.net/" target="_blank" class="mega first" id="menu196" title="Pro Events Booking"><span class="menu-title">Pro Events Booking</span></a></li><li class="mega"><a href="http://zjdonation.joomseller.com/" target="_blank" class="mega" id="menu199" title="ZJ Donation"><span class="menu-title">ZJ Donation</span></a></li><li class="mega"><a href="http://fileseller.joomseller.com" target="_blank" class="mega" id="menu197" title="Documents Seller"><span class="menu-title">Documents Seller</span></a></li><li class="mega"><a href="http://zjrealty.joomseller.com/" target="_blank" class="mega" id="menu182" title="ZJ Realty - Real estate"><span class="menu-title">ZJ Realty - Real estate</span></a></li><li class="mega"><a href="http://showcase.joomseller.com" target="_blank" class="mega" id="menu198" title="JT Showcase Pro"><span class="menu-title">JT Showcase Pro</span></a></li><li class="mega"><a href="http://adwords.joomseller.com/" target="_blank" class="mega" id="menu183" title="Keywords Advertising"><span class="menu-title">Keywords Advertising</span></a></li><li class="mega last"><a href="http://ajaxfaq.joomseller.com" target="_blank" class="mega last" id="menu203" title="AJAX FAQs"><span class="menu-title">AJAX FAQs</span></a></li></ul></div></div></li></ul></div><div class="megacol column2" style="width: 200px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-title"><a href="#" class="mega first group" id="menu178" title="Joomla Modules"><span class="menu-title">Joomla Modules</span></a></div><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="http://megamenu.joomseller.com/" target="_blank" class="mega first" id="menu200" title="Dropdown Mega Menu"><span class="menu-title">Dropdown Mega Menu</span><span class="menu-desc">New</span></a></li><li class="mega"><a href="http://demo.joomseller.com/joomla-modules/pro-accordion-menu.html" target="_blank" class="mega" id="menu184" title="Pro Accordion Menu"><span class="menu-title">Pro Accordion Menu</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega"><a href="http://demo.joomseller.com/joomla-modules/standalone-accordion-menu.html" target="_blank" class="mega" id="menu185" title="Standalone Accordion"><span class="menu-title">Standalone Accordion</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega"><a href="http://demo.joomseller.com/joomla-modules/dropdown-mootools-menu.html" target="_blank" class="mega" id="menu187" title="Dropdown Mootools"><span class="menu-title">Dropdown Mootools</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega"><a href="http://demo.joomseller.com/joomla-modules/newsflash-expanding.html" target="_blank" class="mega" id="menu190" title="Newsflash Expanding"><span class="menu-title">Newsflash Expanding</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega"><a href="http://demo.joomseller.com/joomla-modules/newsflash-scrolling.html" target="_blank" class="mega" id="menu189" title="NewsFlash Scrolling"><span class="menu-title">NewsFlash Scrolling</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega"><a href="http://demo.joomseller.com/joomla-modules/ajax-search-for-virtuemart.html" target="_blank" class="mega" id="menu211" title="VM AJAX Search"><span class="menu-title">VM AJAX Search</span><span class="menu-desc">&nbsp;</span></a></li><li class="mega last haschild"><a href="#" class="mega last haschild" id="menu180" title="Show More ---->"><span class="menu-title">Show More ----&gt;</span><span class="menu-desc">&nbsp;</span></a><div class="childcontent cols1 ">
 <div class="childcontent-inner-wrap">
-<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="/our-services/request-quote.html" class="mega first" id="menu98" title="Request Quote"><span class="menu-title">Request Quote</span></a></li></ul></div></div>
-</div></div></li><li class="mega last"><a href="/contact-us/joomseller-customer-services.html" class="mega last" id="menu56" title="Contact us"><span class="menu-title">Contact us</span></a></li></ul>
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="http://demo.joomseller.com/joomla-modules/pro-dropdown-menu.html" class="mega first" id="menu186" title="Pro Dropdown Menu"><span class="menu-title">Pro Dropdown Menu</span></a></li><li class="mega"><a href="http://demo.joomseller.com/joomla-modules/virtuemart-accordion-menu.html" target="_blank" class="mega" id="menu192" title="vm Categories Accordion"><span class="menu-title">vm Categories Accordion</span></a></li><li class="mega"><a href="http://demo.joomseller.com/joomla-modules/standalone-dropdown-menu.html" target="_blank" class="mega" id="menu191" title="Standalone Drop down"><span class="menu-title">Standalone Drop down</span></a></li><li class="mega last"><a href="http://demo.joomseller.com/joomla-modules/dropdown-expanding.html" target="_blank" class="mega last" id="menu188" title="Dropdown Expanding"><span class="menu-title">Dropdown Expanding</span></a></li></ul></div></div>
+</div></div></li></ul></div></div></li></ul></div><div class="megacol column3 last" style="width: 200px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-title"><a href="#" class="mega first group" id="menu179" title="Joomla Plugins"><span class="menu-title">Joomla Plugins</span></a></div><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="http://demo.joomseller.com/joomla-plugins/facebook-fanbox-plugin.html" target="_blank" class="mega first" id="menu193" title="Facebook Fanbox Plugin"><span class="menu-title">Facebook Fanbox Plugin</span></a></li><li class="mega last"><a href="http://demo.joomseller.com/joomla-plugins/facebook-comment.html" target="_blank" class="mega last" id="menu194" title="Facebook Comment"><span class="menu-title">Facebook Comment</span></a></li></ul></div></div></li></ul></div></div>
+</div></div></li><li class="mega haschild"><a href="#" class="mega haschild" id="menu208" title="Support Area"><span class="menu-title">Support Area</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="http://tickets.joomseller.com" target="_blank" class="mega first" id="menu128" title="Submit Ticket"><span class="menu-title">Submit Ticket</span></a></li><li class="mega"><a href="/contact-us/joomseller-customer-services.html" class="mega" id="menu56" title="Contact Us"><span class="menu-title">Contact Us</span></a></li><li class="mega last"><a href="/forum/" class="mega last" id="menu43" title="Forum"><span class="menu-title">Forum</span></a></li></ul></div></div>
+</div></div></li><li class="mega haschild"><a href="/my-orders.html" class="mega haschild" id="menu113" title="My Orders"><span class="menu-title">My Orders</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="/my-stuff/community.html" class="mega first" id="menu105" title="My Profile"><span class="menu-title">My Profile</span></a></li><li class="mega last"><a href="/my-wishlist.html" class="mega last" id="menu114" title="My Wishlists"><span class="menu-title">My Wishlists</span></a></li></ul></div></div>
+</div></div></li><li class="mega last haschild"><a href="#" class="mega last haschild" id="menu206" title="Login"><span class="menu-title">Login</span></a><div class="childcontent cols2 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 400px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-title"><a href="#" class="mega first group" id="menu209" title="User Login"><span class="menu-title">User Login</span></a></div><div class="group-content">	<div class="ja-moduletable moduletable  clearfix" id="Mod106">
+						<div class="ja-box-ct clearfix">
+		<form action="http://www.joomseller.com/your-profile/log-yourself-in.html" method="post" id="mod_loginform" style="margin:0px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="mod_login">
+<tbody><tr><td><input type="text" name="username" id="mod_login_username" class="inputbox" size="18" style="background-image:url(http://www.joomseller.com/modules/mod_cblogin/mod_cblogin/username.png); background-repeat: no-repeat; background-position: 0px 0px; padding-left: 30px; min-height: 18px;width:auto;" title="Username or email"><br>
+<span><input type="password" name="passwd" id="mod_login_password" class="inputbox" size="18" style="background-image:url(http://www.joomseller.com/modules/mod_cblogin/mod_cblogin/password.png); background-repeat: no-repeat; background-position: 0px 0px; padding-left: 30px; min-height: 18px;width:auto;" title="Password"></span><br>
+<input type="hidden" name="op2" value="login">
+<input type="hidden" name="lang" value="english">
+<input type="hidden" name="force_session" value="1">
+<input type="hidden" name="return" value="B:aHR0cDovL3d3dy5qb29tc2VsbGVyLmNvbS9pbmRleC5waHA/b3B0aW9uPWNvbV9jb250ZW50JmFtcDtJdGVtaWQ9OTQmYW1wO2lkPTg0JmFtcDtsYW5nPWVuJmFtcDt2aWV3PWFydGljbGU=">
+<input type="hidden" name="message" value="0">
+<input type="hidden" name="loginfrom" value="loginmodule">
+<input type="hidden" name="cbsecuritym3" value="cbm_0ccfd416_3b2f5992_5ca2e7d54ab4cd4173a8418c6858fdb1">
+<input type="hidden" name="remember" value="yes"><input type="submit" name="Submit" class="button" value="Login"></td></tr>
+<tr><td><a href="http://www.joomseller.com/your-profile/forgotten-password.html" class="mod_login">Forgot login?</a></td></tr>
+<tr><td><a href="http://www.joomseller.com/your-profile/create-an-account.html" class="mod_login">Register</a></td></tr>
+</tbody></table></form>		</div>
+    </div>
+	</div></div></li></ul></div><div class="megacol column2 last" style="width: 200px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-title"><a href="#" class="mega first group" id="menu207" title="Who's Online"><span class="menu-title">Who's Online</span></a></div><div class="group-content">	<div class="ja-moduletable moduletable  clearfix" id="Mod148">
+						<div class="ja-box-ct clearfix">
+		 We have&nbsp;77 guests&nbsp;and&nbsp;6 members&nbsp;online		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod147">
+						<div class="ja-box-ct clearfix">
+		<ul class="mod_login">
+<li><a href="http://www.joomseller.com/my-profile/view-user-profile/cshaffstall.html" class="mod_login">cshaffstall</a></li>
+<li><a href="http://www.joomseller.com/my-profile/view-user-profile/dyli.html" class="mod_login">dyli</a></li>
+<li><a href="http://www.joomseller.com/my-profile/view-user-profile/foundation.html" class="mod_login">foundation</a></li>
+<li><a href="http://www.joomseller.com/my-profile/view-user-profile/maurusblues.html" class="mod_login">maurusblues</a></li>
+<li><a href="http://www.joomseller.com/my-profile/view-user-profile/mujerforestal.html" class="mod_login">MujerForestal</a></li>
+</ul>
+		</div>
+    </div>
+	</div></div></li></ul></div></div>
+</div></div></li></ul>
 </div>			<script type="text/javascript">
 			var megamenu = new jaMegaMenuMoo ('ja-megamenu', {
 				'bgopacity': 0, 
@@ -255,7 +348,6 @@ var jc_commentForm;
 <ul class="no-display">
     <li><a href="#ja-content" title="Skip to content">Skip to content</a></li>
 </ul>
-
 	<!-- MAIN CONTAINER -->
 	<div id="ja-container" class="wrap ja-r1">
 					
@@ -269,19 +361,6 @@ var jc_commentForm;
 			<div class="inner clearfix">
 				
 				
-								<div id="ja-content-mass-top" class="ja-mass ja-mass-top clearfix">
-							
-		
-			<div class="ja-moduleraw  clearfix" id="Mod42">
-		<span class="breadcrumbs pathway">
-<span class="name">Privacy</span></span>    </div>
-		<div class="ja-moduleraw_twittericon  clearfix" id="Mod156">
-		<div style="position:fixed; top:180px; right:10px; z-index:999;"><a href="http://twitter.com/joomseller" target="_blank"><img title="Follow Us On Twitter" alt="Follow us on Twitter" src="http://joomseller.com/modules/mod_followme/images/followme_right.png" border="0"></a></div>    </div>
-			
-
-		 
-		
-			 				</div>
 				
 				<div id="ja-contentwrap" class="clearfix ">
 					<div id="ja-content" class="column" style="width:100%">
@@ -298,160 +377,51 @@ var jc_commentForm;
 
 <div class="article-content">
 <div>
-<table class="contentpaneopen">
+<table class="contentpaneopen" border="0">
 <tbody>
 <tr>
-<td class="contentheading" width="100%">Privacy Policy									</td>
-<td class="buttonheading" width="100%" align="right"><a href="http://www.Joomla!!®rt.com/index2.php?option=com_content&amp;task=view&amp;id=111&amp;pop=1&amp;page=0&amp;Itemid=340" target="_blank" title="Print"><br>
-</a></td>
-<td class="buttonheading" width="100%" align="right"><a href="http://www.Joomla!!®rt.com/index2.php?option=com_content&amp;task=emailform&amp;id=111&amp;itemid=340" target="_blank" title="E-mail"><br>
-</a></td></tr></tbody></table>
-<table class="contentpaneopen">
+<td class="contentheading" width="100%">Privacy Policy</td>
+<td class="buttonheading" width="100%" align="right"><a href="http://www.Joomla!!®rt.com/index2.php?option=com_content&amp;task=view&amp;id=111&amp;pop=1&amp;page=0&amp;Itemid=340" target="_blank" title="Print"><br> </a></td>
+<td class="buttonheading" width="100%" align="right"><a href="http://www.Joomla!!®rt.com/index2.php?option=com_content&amp;task=emailform&amp;id=111&amp;itemid=340" target="_blank" title="E-mail"><br> </a></td>
+</tr>
+</tbody>
+</table>
+<table class="contentpaneopen" border="0">
 <tbody>
 <tr>
-<td colspan="2" class="createdate" valign="top"><br>
-</td></tr>
+<td class="createdate" colspan="2" valign="top"><br></td>
+</tr>
 <tr>
 <td colspan="2" valign="top">
-<p>JoomSeller("Joomla!!® Seller") is committed to protecting your privacy. This Privacy
-Policy explains our privacy practices for our website, www.JoomSeller.com
-on the World Wide Web (the "Site"), as well as for JoomSeller services
-that may be accessed through the normal use of our products (the
-"Services"). You can travel through most of our Site without giving us
-any information about yourself. But sometimes we do need information to
-provide services that you request. The following statement explains our
-information-gathering and dissemination practices. Please read the
-complete JoomSeller Privacy Policy.</p>
+<p>JoomSeller("Joomla!!® Seller") is committed to protecting your privacy. This Privacy Policy explains our privacy practices for our website, www.JoomSeller.com on the World Wide Web (the "Site"), as well as for JoomSeller services that may be accessed through the normal use of our products (the "Services"). You can travel through most of our Site without giving us any information about yourself. But sometimes we do need information to provide services that you request. The following statement explains our information-gathering and dissemination practices. Please read the complete JoomSeller Privacy Policy.</p>
 <ul>
 <li>General Information</li>
 <li>Information Collection and Use</li>
 <li>If You Opt to Receive Communications, How We Will Contact You</li>
 <li>Site Functionality</li>
 <li>Security of Your Information</li>
-<li>Correcting/Updating Personal Information</li></ul>
+<li>Correcting/Updating Personal Information</li>
+</ul>
 <h3>General Information</h3>
-<p>JoomSeller may periodically update this Privacy Policy. If so,
-JoomSeller will post the updated Privacy Policy on this Site. JoomSeller encourages you to review this Privacy Policy from time to time for any
-changes.</p>
-<p>By using this Site or any products or services provided through the
-Site, you expressly consent to the use and disclosure of information as
-described in this Privacy Policy. <strong>IF YOU DO NOT AGREE WITH ANY OF THE
-TERMS BELOW, YOU SHOULD NOT USE THIS SITE OR THE PRODUCTS OR SERVICES
-OFFERED BY JOOMSELLER AT THIS SITE.</strong></p>
-<p>Please note that the JoomSeller Users Forum is covered
-by its own privacy policy, which is available for review at any time. And has been protected by<strong> Joomla!!® core</strong>.</p>
+<p>JoomSeller may periodically update this Privacy Policy. If so, JoomSeller will post the updated Privacy Policy on this Site. JoomSeller encourages you to review this Privacy Policy from time to time to update changes.</p>
+<p>By using this Site or any products or services provided through the Site, you expressly consent to the use and disclosure of information as described in this Privacy Policy. <strong>IF YOU DO NOT AGREE WITH ANY OF THE TERMS BELOW, YOU SHOULD NOT USE THIS SITE OR THE PRODUCTS OR SERVICES OFFERED BY JOOMSELLER AT THIS SITE.</strong></p>
+<p>Please note that the JoomSeller Users Forum is covered by its own privacy policy, which is available for review at any time. And has been protected by<strong> Joomla!!® core</strong>.</p>
 <h3>Information Collection and Use</h3>
-<p>You may decide whether to proceed with any activity that requests
-personally identifiable information. If you do not wish to provide the
-requested information, however, you may not be able to complete the
-transaction. We do not collect information from individuals under the
-age of 13. If you are under the age of 13, we ask that you do not
-submit any personal information through the Site. If we have specific
-knowledge that an individual under the age of 13 has submitted
-personally identifiable information to the Site, we will delete such
-information permanently and without notice.</p>
-<p>Except as described below, JoomSeller will only disclose your
-personally identifiable information to third parties if acting under a
-good faith belief that such action is necessary (1) to conform to legal
-requirements; (2) to protect and defend the rights or property of JoomSeller ; (3) to enforce the JoomSeller Terms of Service; or (4) in the
-event of a merger, acquisition or sale of all or substantially all JoomSeller' assets relating to the business in connection with which the
-information was collected. JoomSeller collects personally identifiable
-information that can be divided into the following categories:</p>
-<p><strong>JoomSeller </strong><strong>Product Registration Information:</strong> Some
-JoomSeller products ask you for certain personally identifiable
-information as part of the installation/registration process (including
-but not limited to your name, email address, credit card information
-and connection type and number of computers). Certain of this
-information is necessary in order to conclude the transaction, and for
-applicable products, to be eligible to receive technical support. If
-you provide us with personally identifiable information, and select the
-"Inform me about important updates and news" option on the purchase
-confirmation page or in the in the "Registration Information" section
-located in the "Configuration Panel" of the "Control Panel" in the
-JoomSeller product, we use this information to send you communications,
-including informative emails/newsletters about JoomSeller product
-upgrades, product updates, new products, and services, and to provide
-you with special offers that may be of interest to you, including paid
-advertisements from third parties. In the event you no longer wish to
-receive such information, you may choose to opt out of receiving
-further communications by complying with the procedures listed in the
-"Updating/Unsubscribing Your Email Address" section of this Privacy
-Policy. Except in the case of Partner Products (see below), JoomSeller keeps personally identifiable information collected in the course of
-installation/registration of JoomSeller' products confidential and does
-not sell, trade, or exchange mailing lists with any organization.</p>
-<p><strong>Credit Card Information</strong>: If you use a credit card
-to purchase products via this Site, your name as it appears on the
-credit card, the credit card number, expiration date and billing
-address will be encrypted as it passes over the Internet. JoomSeller does
-not record or keep your credit card information for online credit-card
-transactions; rather such information is simply passed through to our
-contracted payment processing vendor. JoomSeller may access such
-information through the payment processing company, but does not do so
-except to process refunds or adjustments and to the extent necessary in
-the event of nonpayment or disputed payments, or as may be necessary
-for JoomSeller' compliance, in JoomSeller' discretion, with applicable law.</p>
-<p><strong>Technical Support</strong>: If you request technical support
-online, we will ask you for information necessary to complete the
-transaction such as your name, email address and information about your
-computer hardware, software, and the nature of the problem you are
-experiencing. In the course of providing support, your data may be
-transmitted to service providers that are under contract to JoomSeller and have agreed to abide by the provisions of this privacy policy. Such
-transmissions of your data are encrypted and secure.</p>
-<p><strong>Partner Application</strong>: If you request participation
-in the partner program online, we will ask you for information
-necessary to complete the transaction such as company name, email
-address, and company profile.</p>
+<p>You may decide whether to proceed with any activity that requests personally identifiable information. If you do not wish to provide the requested information, however, you may not be able to complete the transaction. We do not collect information from individuals under the age of 13. If you are under the age of 13, we suggest that you should not submit any personal information through the Site. If we have specific knowledge that an individual under the age of 13 has submitted personally identifiable information to the Site, we will delete such information permanently and without notice.</p>
+<p>As described below, JoomSeller will only disclose your personally identifiable information to third parties based on belief that such action is necessary (1) to conform to legal requirements; (2) to protect and defend the rights or property of JoomSeller ; (3) to enforce the JoomSeller Terms of Service; or (4) in the event of a merger, acquisition or sale of all or substantially all JoomSeller' assets related to the business in connection with or collected information. JoomSeller collects personally identifiable information that can be divided into the following categories:</p>
+<p><strong>JoomSeller </strong><strong>Product Registration Information:</strong> Some JoomSeller products require you certain personally identifiable information as part of the installation/registration process (including but not limited to your name, email address, credit card information and connection type and number of computers). Certain information is necessary in order to conclude the transaction, and for applicable products, to be eligible to receive technical support. If you provide us with personally identifiable information, and select the "Inform me about important updates and news" option on the purchase confirmation page or in the in the "Registration Information" section located in the "Configuration Panel" of the "Control Panel" in the JoomSeller product, we use this information to send you communications, including informative emails/newsletters about JoomSeller product upgrades, product updates, new products, and services; and to provide you with special offers that may be of your interest, including paid advertisements from third parties. In the event that you no longer wish to receive such information, you may choose to opt out of receiving further communications by complying with the procedures listed in the "Updating/Unsubscribing Your Email Address" section of this Privacy Policy. Except for the case of Partner Products (see below), JoomSeller keeps personally identifiable information collected in the course of installation/registration of JoomSeller' products confidentially and does not sell, trade, or exchange mailing lists with any organization.</p>
+<p><strong>Credit Card Information</strong>: If you use a credit card to purchase products via this Site, your name (as appeared on the credit card), the credit card number, expiration date and billing address will be encrypted as it passes over the Internet. JoomSeller does not record or keep your credit card information for online credit-card transactions; rather such information is simply passed through to our contracted payment processing vendor. JoomSeller may access such information through the payment processing company, but does not do so except for processing refunds or adjustments and to the extent it is necessary in the event of nonpayment or disputed payments, or as may be necessary for JoomSeller' compliance, in JoomSeller' discretion, with applicable law.</p>
+<p><strong>Technical Support</strong>: If you request online technical support, we will ask you for&nbsp;necessary&nbsp;information to complete the transaction such as your name, email address and information about your computer hardware, software, and the nature of the problem you are experiencing. In the course of providing support, your data may be transmitted to service providers who are under contract to JoomSeller and have agreed to abide by the provisions of this privacy policy. Such transmissions of your data are encrypted and secure.</p>
+<p><strong>Partner Application</strong>: If you request participation in the partner program online, we will ask you for information necessary to complete the transaction such as company name, email address, and company profile.</p>
 <h3>If You Opt to Receive Communications, How We Will Contact You</h3>
-<p><strong>Email</strong>: With your permission, JoomSeller will send you
-communications, including informative emails/newsletters about product
-upgrades, product updates, new products, and services. These
-communications provide you with special offers that may be of interest
-to you. JoomSeller uses a third-party program of outbound email
-technology to send email from our servers and does not collect
-information about you but does collect requests to unsubscribe.</p>
+<p><strong>Email</strong>: With your permission, JoomSeller will send you communications, including informative emails/newsletters about product upgrades, product updates, new products, and services. These communications provide you with special offers that may be of your interest. JoomSeller uses a third-party program of outbound email technology to send email from our servers and does not collect information about you but does collect requests to unsubscribe.</p>
 <h3>Site Functionality</h3>
-<p><strong>Cookies</strong>: A "cookie" is a piece of data stored on
-the user's hard drive containing information about the user. Usage of a
-cookie is in no way linked to any personally identifiable information
-while on our Site. Once you close your browser, the cookie simply
-terminates. For instance, by setting a cookie on our Site, you would
-not have to log in a password more than once, thereby saving time while
-on our Site. You may still use our Site if you reject the cookie. The
-only drawback to this is that you will be limited in some areas of our
-Site. For example, you will not be able to use certain features of our
-forum or other parts of the Site that offer customized settings.</p>
-<p><strong>Log Files</strong>: We (JoomSeller and/or our contracted web
-analytics provider(s)) do keep track of the domains from which you
-access our Site and Services on the World Wide Web, and may log IP
-addresses or other identifiers for statistical purposes. We do this to
-gather broad demographic information for aggregate use to identify and
-analyze trends and the results ofour marketing efforts, to help
-diagnose problems with our servers and to administer the Site and
-Services, and analyze users' movements. We may periodically share
-aggregate demographic information with our business partners. IP
-addresses and other identifiers are not linked to personally
-identifiable information.</p>
-<p><strong>Links</strong>: This Site contains links to other sites.
-Please be aware that we JoomSeller are not responsible for the privacy
-practices of such other sites. We encourage you to be aware when you
-leave our Site and to read the privacy statements of each and every web
-site that collects personally identifiable information. This privacy
-statement applies solely to information collected by this Site.</p>
-<p><strong>Newsletter</strong>: If you wish to subscribe to our newsletter, we ask for contact information such as name and email address.</p>
+<p><strong>Cookies</strong>: A "cookie" is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information on our Site. Once you close your browser, the cookie simply terminates. For instance, by setting a cookie on our Site, you would not have to log in a password more than once, thereby saving time while entering our Site. You may still use our Site if you reject the cookie. The only drawback of this is that you will be limited in some areas of our Site. For example, you will not be able to use certain features of our forum or other parts of the Site that offer customized settings.</p>
+<p><strong>Log Files</strong>: We (JoomSeller and/or our contracted web analytics provider(s)) do keep track of the domains from which you access our Site and Services on the World Wide Web, and may log IP addresses or other identifiers for statistical purposes. We do this to gather broad demographic information for aggregate use to identify and analyze trends and the results ofour marketing efforts, to help diagnose problems with our servers and to administer the Site and Services, and analyze users' movements. We may periodically share aggregate demographic information with our business partners. IP addresses and other identifiers are not linked to personally identifiable information.</p>
+<p><strong>Links</strong>: This Site contains links to other sites. Please be aware that we JoomSeller are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Site.</p>
+<p><strong>Newsletter</strong>: If you wish to subscribe to our newsletter, we will ask for contact information such as name and email address.</p>
 <h3>Security of Your Information</h3>
-<p>All information gathered on the Site is stored and maintained in
-secure facilities. In addition, internal security provides that this
-information is coded with restricted access, and our servers are kept
-in a secure, locked environment that limits access to authorized
-personnel only. All JoomSeller employees, and all external service
-providers who may process and/or store customer data, are briefed about
-the company's privacy and security policies on a regular basis. The
-Site is regularly tested for security breaches to ensure that all
-information collected is secure from unauthorized viewing. Any service
-providers with whom JoomSeller contracts, and who receive, store, or
-process personally identifiable customer data, have committed to abide
-by the provisions of this privacy policy. All transmissions of
-personally identifiable customer data are encrypted and secure.</p>
+<p>All information gathered on the Site is stored and maintained in secure facilities. In addition, internal security provides that this information is coded with restricted access, and our servers are kept in a secure, locked environment that limits access to authorized personnel only. All JoomSeller employees, and all external service providers who may process and/or store customer data, are briefed about the company's privacy and security policies on a regular basis. The Site is regularly tested for security breaches to ensure that all information collected is secure from unauthorized viewing. Any service providers with whom JoomSeller contracts, and who receive, store, or process personally identifiable customer data, have committed to abide by the provisions of this privacy policy. All transmissions of personally identifiable customer data are encrypted and secure.</p>
 <p>If you have any questions about the security at our Site, you can send an email to 
  <script language="JavaScript" type="text/javascript">
  <!--
@@ -459,10 +429,10 @@ personally identifiable customer data are encrypted and secure.</p>
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy99287 = '&#97;dm&#105;n' + '&#64;';
- addy99287 = addy99287 + 'j&#111;&#111;ms&#101;ll&#101;r' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + addy99287 + suffix + '\'' + attribs + '>' );
- document.write( addy99287 );
+ var addy19145 = '&#97;dm&#105;n' + '&#64;';
+ addy19145 = addy19145 + 'j&#111;&#111;ms&#101;ll&#101;r' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + addy19145 + suffix + '\'' + attribs + '>' );
+ document.write( addy19145 );
  document.write( '<\/a>' );
  //-->
  </script><a href="mailto:admin@joomseller.com">admin@joomseller.com</a><script language="JavaScript" type="text/javascript">
@@ -478,15 +448,8 @@ personally identifiable customer data are encrypted and secure.</p>
  </script></span>.</p>
 <p>Please note that this email address will reject messages with attachments of any kind.</p>
 <h3>Correcting/Updating Personal Information</h3>
-<p>You are free to update your information at any time directly through
-our Site. At your request, JoomSeller will change your information; we
-may request evidence of your identity before doing so. Inasmuch as your
-information will never be used without your explicit consent, we are
-not able to update the email address to which you subscribe to JoomSeller
-communications on your behalf. Should you wish to update the email
-address at which you receive communications from us, please see the
-next section ("Updating/Unsubscribing Your Email Address") below.</p>
-<p>To change your information, or request that your information be changed, please use one of the following options:</p>
+<p>You are free to update your information at any time directly through our Site. At your request, JoomSeller will change your information; we may request evidence of your identity before doing so. Inasmuch as your information will never be used without your explicit consent, we are not able to update the email address to which you subscribe to JoomSeller communications on your behalf. Should you wish to update the email address at which you receive communications from us, please see the next section ("Updating/Unsubscribing Your Email Address") below.</p>
+<p>To change your information, or request your information to be changed, please use one of the following options:</p>
 <ul>
 <li>Log in at http://www.JoomSeller.com and click on "Your Details" link</li>
 <li>Send email to us at 
@@ -496,10 +459,10 @@ next section ("Updating/Unsubscribing Your Email Address") below.</p>
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy20859 = '&#97;dm&#105;n' + '&#64;';
- addy20859 = addy20859 + 'j&#111;&#111;ms&#101;ll&#101;r' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + addy20859 + suffix + '\'' + attribs + '>' );
- document.write( addy20859 );
+ var addy43253 = '&#97;dm&#105;n' + '&#64;';
+ addy43253 = addy43253 + 'j&#111;&#111;ms&#101;ll&#101;r' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + addy43253 + suffix + '\'' + attribs + '>' );
+ document.write( addy43253 );
  document.write( '<\/a>' );
  //-->
  </script><a href="mailto:admin@joomseller.com">admin@joomseller.com</a><script language="JavaScript" type="text/javascript">
@@ -512,8 +475,13 @@ next section ("Updating/Unsubscribing Your Email Address") below.</p>
  document.write( '</' );
  document.write( 'span>' );
  //-->
- </script></span>.
-Please note that this email address will reject messages with attachments of any kind. </li></ul></td></tr></tbody></table>&nbsp;</div>
+ </script></span>. Please note that this email address will reject messages with attachments of any kind. </li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 </div>
 
@@ -541,9 +509,7 @@ Please note that this email address will reject messages with attachments of any
 						<div class="ja-colswrap clearfix ja-r1">
 				
 								<div id="ja-right2" class="ja-col  column" style="width:100%">
-							
-		
-			<div class="ja-moduletable moduletable  clearfix" id="Mod140">
+						<div class="ja-moduletable moduletable  clearfix" id="Mod140">
 						<div class="ja-box-ct clearfix">
 		
 <div class="zj_fsmcart-container">
@@ -563,57 +529,120 @@ Please note that this email address will reject messages with attachments of any
 </div>
 		</div>
     </div>
-		<div class="ja-moduletable moduletable  clearfix" id="Mod106">
-						<h3><span>User Login</span></h3>
-				<div class="ja-box-ct clearfix">
-		<form action="http://joomseller.com/your-profile/log-yourself-in.html" method="post" id="mod_loginform" style="margin:0px;">
-<table width="100%" border="0" cellspacing="0" cellpadding="0" class="mod_login">
-<tbody><tr><td><input type="text" name="username" id="mod_login_username" class="inputbox" size="22" alt="Username or email" value="Username or email" onfocus="if (this.value=='Username or email') this.value=''" onblur="if(this.value=='') { this.value='Username or email'; return false; }" title="Username or email"><br>
-<span><input type="password" name="passwd" id="mod_login_password" class="inputbox" size="22" alt="Password" value="paswww" onfocus="if (this.value=='paswww') this.value=''" onblur="if(this.value=='') { this.value='paswww'; return false; }" title="Password"></span><br>
-<input type="hidden" name="op2" value="login">
-<input type="hidden" name="lang" value="english">
-<input type="hidden" name="force_session" value="1">
-<input type="hidden" name="return" value="B:aHR0cDovL2pvb21zZWxsZXIuY29tL2luZGV4LnBocD9vcHRpb249Y29tX2NvbnRlbnQmYW1wO0l0ZW1pZD05NCZhbXA7aWQ9ODQmYW1wO2xhbmc9ZW4mYW1wO3ZpZXc9YXJ0aWNsZQ==">
-<input type="hidden" name="message" value="0">
-<input type="hidden" name="loginfrom" value="loginmodule">
-<input type="hidden" name="cbsecuritym3" value="cbm_6eda6b47_5ceb913f_14066705b6d4f502b61d0b40f95a981c">
-<input type="checkbox" name="remember" id="mod_login_remember" value="yes"> <span id="mod_login_remembermetext"><label for="mod_login_remember">Remember me</label></span><br>
-<input type="submit" name="Submit" class="button" value="Login"></td></tr>
-<tr><td><a href="http://joomseller.com/your-profile/forgotten-password.html" class="mod_login">Forgot login?</a></td></tr>
-<tr><td><a href="http://joomseller.com/your-profile/create-an-account.html" class="mod_login">Register</a></td></tr>
-</tbody></table></form>		</div>
-    </div>
 		<div class="ja-moduletable moduletable_blank  clearfix" id="Mod160">
 						<h3><span>Find us on</span></h3>
 				<div class="ja-box-ct clearfix">
 		<p style="margin: 0 -10px" align="center"><a href="http://extensions.joomla.org/extensions/owner/osjoomla" target="_blank" title="Joomseller Extensions"><span style="padding: 5px;"><img src="/images/stories/joomla-icon-small.png" border="0"></span></a><a href="http://www.facebook.com/pages/Joomseller-Solutions/144784572238210" target="_blank" title="Facebook"><span style="padding: 5px;"><img src="/images/stories/follow-fb.png" border="0"></span></a><a href="http://twitter.com/joomseller" target="_blank" title="Twitter"><span style="padding: 5px;"><img src="/images/stories/follow-twitter.png" border="0"></span></a><a href="http://www.youtube.com/user/joomsellerTV" target="_blank" title="Youtube"><span style="padding: 5px;"><img src="/images/stories/youtube-icon.png" border="0"></span></a></p>		</div>
     </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod168">
+						<h3><span>Popular Products</span></h3>
+				<div class="ja-box-ct clearfix">
+		<table cellpadding="7" cellspacing="0" border="0" width="100%" class="zj_table">
+	<thead>
+		    			<tr>
+                   
+    				<td class="key">
+    					<a href="/joomla-components/events-booking-pro.html" title="Events Booking Pro">
+    						<img src="http://www.joomseller.com/components/com_zj_fileseller/libraries/image.php?width=55&amp;height=55&amp;image=/images/eventbooking_small_1307959336.png" border="0">
+    					</a>
+    				</td>
+    				<td class="key" style="padding-left:5px;">
+                            					<span>
+    						<a href="/joomla-components/events-booking-pro.html" class="product_title" title="Events Booking Pro">
+    							Events Booking Pro    						</a>
+    					</span><br>
+                                                    					<span style="font-weight: bold;">
+							Price:							<font style="color:red;">
+								€25.00															</font>
+						</span>
+                            				</td>
+    			</tr>
+    		    			<tr>
+                   
+    				<td class="key">
+    					<a href="/joomla-components/real-estate-component.html" title="Real estate component">
+    						<img src="http://www.joomseller.com/components/com_zj_fileseller/libraries/image.php?width=55&amp;height=55&amp;image=/images/zj_relaty_box_small_1301541420.png" border="0">
+    					</a>
+    				</td>
+    				<td class="key" style="padding-left:5px;">
+                            					<span>
+    						<a href="/joomla-components/real-estate-component.html" class="product_title" title="Real estate component">
+    							Real estate component    						</a>
+    					</span><br>
+                                                    					<span style="font-weight: bold;">
+							Price:							<font style="color:red;">
+								€25.00															</font>
+						</span>
+                            				</td>
+    			</tr>
+    		    			<tr>
+                   
+    				<td class="key">
+    					<a href="/joomla-components/files-seller-documents-seller.html" title="Files Seller - Documents Seller">
+    						<img src="http://www.joomseller.com/components/com_zj_fileseller/libraries/image.php?width=55&amp;height=55&amp;image=/images/file_seller_box_small_1309361204.png" border="0">
+    					</a>
+    				</td>
+    				<td class="key" style="padding-left:5px;">
+                            					<span>
+    						<a href="/joomla-components/files-seller-documents-seller.html" class="product_title" title="Files Seller - Documents Seller">
+    							Files Seller - Documents Seller    						</a>
+    					</span><br>
+                                                    					<span style="font-weight: bold;">
+							Price:							<font style="color:red;">
+								€25.00															</font>
+						</span>
+                            				</td>
+    			</tr>
+    		    			<tr>
+                   
+    				<td class="key">
+    					<a href="/joomla-modules/pro-accordion-menu.html" title="Pro Accordion Menu">
+    						<img src="http://www.joomseller.com/components/com_zj_fileseller/libraries/image.php?width=55&amp;height=55&amp;image=/images/pro_accordion_small_1291092758.png" border="0">
+    					</a>
+    				</td>
+    				<td class="key" style="padding-left:5px;">
+                            					<span>
+    						<a href="/joomla-modules/pro-accordion-menu.html" class="product_title" title="Pro Accordion Menu">
+    							Pro Accordion Menu    						</a>
+    					</span><br>
+                                                    					<span style="font-weight: bold;">
+							Price:							<font style="color:red;">
+								€15.00															</font>
+						</span>
+                            				</td>
+    			</tr>
+    		    			<tr>
+                   
+    				<td class="key">
+    					<a href="/joomla-modules/dropdown-mega-menu.html" title="Dropdown Mega Menu">
+    						<img src="http://www.joomseller.com/components/com_zj_fileseller/libraries/image.php?width=55&amp;height=55&amp;image=/images/dropdown_megamenu_small_1314415346.png" border="0">
+    					</a>
+    				</td>
+    				<td class="key" style="padding-left:5px;">
+                            					<span>
+    						<a href="/joomla-modules/dropdown-mega-menu.html" class="product_title" title="Dropdown Mega Menu">
+    							Dropdown Mega Menu    						</a>
+    					</span><br>
+                                                    					<span style="font-weight: bold;">
+							Price:							<font style="color:red;">
+								€20.00															</font>
+						</span>
+                            				</td>
+    			</tr>
+    			</thead>
+</table>		</div>
+    </div>
 		<div class="ja-moduletable moduletable  clearfix" id="Mod159">
 						<div class="ja-box-ct clearfix">
 		<p align="center"><a href="http://paypal.com" target="_blank" title="PayPal"><img src="/images/stories/payments/logo_paypal.gif" border="0"></a></p>
 <p align="center"><a href="http://2checkout.com" target="_blank" title="2Checkout"><img src="/images/stories/payments/logo_2co.gif" border="0"></a></p>
-<p align="center"><a href="http://moneybookers.com" target="_blank" title="Moneybookers"><img src="/images/stories/payments/logo_moneybookers.png" border="0"></a></p>
-<p style="display: none"><a href="http://www.affiliatetutorial.net">http://www.affiliatetutorial.net</a></p>		</div>
-    </div>
-		<div class="ja-moduletable moduletable  clearfix" id="Mod38">
-						<h3><span>Popular Products</span></h3>
-				<div class="ja-box-ct clearfix">
-		<p class="clearfix" style="margin-top: 0;"><a href="/joomla-modules/pro-accordion-menu.html" title="Pro Accordion Menu"><img src="/components/com_zj_fileseller/libraries/image.php?width=40&amp;height=40&amp;image=/images/pro_accordion_small_1291092758.png" border="0" width="40" style="float: left; margin-right: 5px;"></a> <a href="/joomla-modules/pro-accordion-menu.html" title="Pro Accordion Menu"><strong>Pro Accordion Menu</strong></a></p>
-<p class="clearfix" style="margin-top: 0;"><a href="/joomla-plugins/facebook-social-comments.html" title="Facebook Social Comments"><img src="/components/com_zj_fileseller/libraries/image.php?width=40&amp;height=40&amp;image=/images/aaafacebook_1292814464.png" border="0" width="40" style="float: left; margin-right: 5px;"></a> <a href="/joomla-plugins/facebook-social-comments.html" title="Facebook Social Comments"><strong>Facebook Social Comments</strong></a></p>
-<p class="clearfix" style="margin-top: 0;"><a href="/joomla-plugins/facebook-fanbox-plugin.html" title="Facebook Fanbox Plugin"><img src="/components/com_zj_fileseller/libraries/image.php?width=40&amp;height=40&amp;image=/images/lens5830542_1247264339becomeafan150x150_1295433521.png" border="0" width="40" style="float: left; margin-right: 5px;"></a> <a href="/joomla-plugins/facebook-fanbox-plugin.html" title="Facebook Fanbox Plugin"><strong>Facebook Fanbox Plugin</strong></a></p>
-<p class="clearfix" style="margin-top: 0;"><a href="/joomla-modules/newsflash-scrolling.html" title="Newsflash Scrolling"><img src="/components/com_zj_fileseller/libraries/image.php?width=40&amp;height=40&amp;image=/images/newsflash_scrolling_small_1291104564.png" border="0" width="40" style="float: left; margin-right: 5px;"></a> <a href="/joomla-modules/newsflash-scrolling.html" title="Newsflash Scrolling"><strong>Newsflash Scrolling</strong></a></p>
-<p class="clearfix" style="margin: 0;"><a href="/joomla-components/real-estate-component.html" title="Real estate component"><img src="/components/com_zj_fileseller/libraries/image.php?width=40&amp;height=40&amp;image=/images/zj_relaty_box_small_1301541420.png" border="0" width="40" style="float: left; margin-right: 5px;"></a> <a href="/joomla-components/real-estate-component.html" title="Real estate component"><strong>Real estate component</strong></a></p>		</div>
+<p align="center"><a href="http://moneybookers.com" target="_blank" title="Moneybookers"><img src="/images/stories/payments/logo_moneybookers.png" border="0"></a></p>		</div>
     </div>
 		<div class="ja-moduletable moduletable  clearfix" id="Mod133">
-						<h3><span>Facebook Connection</span></h3>
-				<div class="ja-box-ct clearfix">
-		<div style="margin: 0 -10px;"><iframe src="http://www.facebook.com/plugins/likebox.php?id=144784572238210&amp;width=186&amp;height=300&amp;connections=6&amp;stream=false&amp;header=false&amp;colorscheme=light&amp;border_color=white&amp;" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:186px; height:300px;" allowtransparency="true"></iframe></div>		</div>
+						<div class="ja-box-ct clearfix">
+		<div style="margin: 0 -10px;"><iframe src="http://www.facebook.com/plugins/likebox.php?id=144784572238210&amp;width=186&amp;height=375&amp;connections=9&amp;stream=false&amp;header=false&amp;colorscheme=light&amp;border_color=white&amp;" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:186px; height:375px;" allowtransparency="true"></iframe></div>		</div>
     </div>
-			
-
-		 
-		
-			 					
+						
 				</div>
 							</div>
 								</div>
@@ -627,7 +656,7 @@ Please note that this email address will reject messages with attachments of any
 					</div>
 		<!-- //MAIN CONTAINER -->
 
-					<div id="ja-botsl" class="wrap">		
+					<div id="ja-botsl" class="wrap ">		
 				
 			
 					<div class="main">
@@ -635,60 +664,59 @@ Please note that this email address will reject messages with attachments of any
 				
 		 
 			<div class="main-inner1 clearfix">
-		
-	<!-- SPOTLIGHT -->
-			<div class="ja-box column ja-box-left" style="width: 25%;">
-			<div class="ja-moduletable moduletable  clearfix" id="Mod157">
-						<h3><span>Latest News</span></h3>
+		<!-- SPOTLIGHT -->
+<div class="ja-box column ja-box-left" style="width: 25%;">
+		<div class="ja-moduletable moduletable  clearfix" id="Mod157">
+						<h3><span>Latest Products</span></h3>
 				<div class="ja-box-ct clearfix">
 		<ul class="latestnews">
 		<li class="latestnews">
-		<a href="/free-extensions/zj-adwords-modules.html" class="latestnews">
-			ZJ Adwords Modules</a>
+		<a href="/joomla-plugins/products-navigator.html" class="latestnews">
+			Products Navigator</a>
 	</li>
 		<li class="latestnews">
-		<a href="/joomla-components/adwords-keywords-advertising.html" class="latestnews">
-			Adwords - Keywords Advertising</a>
+		<a href="/joomla-modules/slide-horizontal-accordion.html" class="latestnews">
+			Slide Horizontal Accordion</a>
 	</li>
 		<li class="latestnews">
-		<a href="/joomla-components/real-estate-component.html" class="latestnews">
-			Real estate component</a>
+		<a href="/joomla-modules/multiple-slideshow.html" class="latestnews">
+			Multiple Slideshow</a>
 	</li>
 		<li class="latestnews">
-		<a href="/joomla-plugins/facebook-fanbox-plugin.html" class="latestnews">
-			Facebook Fanbox Plugin</a>
+		<a href="/joomla-modules/ajax-search-for-virtuemart.html" class="latestnews">
+			AJAX Search for Virtuemart</a>
 	</li>
 		<li class="latestnews">
-		<a href="/free-extensions/facebook-javascript-sdk-connect.html" class="latestnews">
-			Facebook Javascript SDK connect</a>
+		<a href="/joomla-components/community-seller.html" class="latestnews">
+			Community Seller</a>
 	</li>
 		<li class="latestnews">
-		<a href="/joomla-plugins/facebook-social-comments.html" class="latestnews">
-			Facebook Social Comments</a>
+		<a href="/joomla-components/registration-form.html" class="latestnews">
+			Registration Form</a>
 	</li>
 </ul>		</div>
     </div>
 	
-	</div>
-				<div class="ja-box column ja-box-center" style="width: 25%;">
-			<div class="ja-moduletable moduletable  clearfix" id="Mod115">
-						<h3><span>Latest posts</span></h3>
+</div>
+<div class="ja-box column ja-box-center" style="width: 25%;">
+		<div class="ja-moduletable moduletable  clearfix" id="Mod115">
+						<h3><span>Latest Forum Posts</span></h3>
 				<div class="ja-box-ct clearfix">
 		<table style="border-width: 0px; width: 100%">
-	<tbody><tr><td><span title="Modules &amp; Plugins > Facebook connect problems"> <a href="/modules-plugins/1515-facebook-connect-problems.html#1515" rel="follow">Facebook connect problems</a> - <a href="http://joomseller.com/your-profile/view-user-profile/awand.html" rel="nofollow">awand</a></span></td></tr>
-	<tr><td><span title="Modules &amp; Plugins > Re:Bloue dropline menu problem"> <a href="/modules-plugins/1507-bloue-dropline-menu-problem/page-2.html#1513" rel="follow">Re:Bloue dropline menu problem</a> - <a href="http://joomseller.com/your-profile/view-user-profile/hanspu.html" rel="nofollow">hanspu</a></span></td></tr>
-	<tr><td><span title="Modules &amp; Plugins > Re:Bloue dropline menu problem"> <a href="/modules-plugins/1507-bloue-dropline-menu-problem.html#1512" rel="follow">Re:Bloue dropline menu problem</a> - <a href="http://joomseller.com/your-profile/view-user-profile/contact.html" rel="nofollow">contact</a></span></td></tr>
-	<tr><td><span title="Modules &amp; Plugins > Re:Bloue dropline menu problem"> <a href="/modules-plugins/1507-bloue-dropline-menu-problem.html#1511" rel="follow">Re:Bloue dropline menu problem</a> - <a href="http://joomseller.com/your-profile/view-user-profile/hanspu.html" rel="nofollow">hanspu</a></span></td></tr>
-	<tr><td><span title="Modules &amp; Plugins > Re:Bloue dropline menu problem"> <a href="/modules-plugins/1507-bloue-dropline-menu-problem.html#1510" rel="follow">Re:Bloue dropline menu problem</a> - <a href="http://joomseller.com/your-profile/view-user-profile/contact.html" rel="nofollow">contact</a></span></td></tr>
-	<tr><td><span title="Modules &amp; Plugins > Re:Bloue dropline menu problem"> <a href="/modules-plugins/1507-bloue-dropline-menu-problem.html#1509" rel="follow">Re:Bloue dropline menu problem</a> - <a href="http://joomseller.com/your-profile/view-user-profile/hanspu.html" rel="nofollow">hanspu</a></span></td></tr>
+	<tbody><tr><td><span title="Components Extensions > Re:How to remove a field " agent:*"="" in="" submit="" form"=""> <a href="/components-extensions/2666-how-to-remove-a-field-agent*-in-submit-form.html#2668" rel="follow">Re:How to remove a field "...</a> - <a href="/11541-ngoctuoi/" rel="nofollow">ngoctuoi</a></span></td></tr>
+	<tr><td><span title="Components Extensions > Editing Agent's profile from frontend"> <a href="/components-extensions/2667-editing-agent-s-profile-from-frontend.html#2667" rel="follow">Editing Agent's profile fr...</a> - <a href="/21606-lolitma/" rel="nofollow">lolitma</a></span></td></tr>
+	<tr><td><span title="Components Extensions > How to remove a field " agent:*"="" in="" submit="" form"=""> <a href="/components-extensions/2666-how-to-remove-a-field-agent*-in-submit-form.html#2666" rel="follow">How to remove a field "Age...</a> - <a href="/21606-lolitma/" rel="nofollow">lolitma</a></span></td></tr>
+	<tr><td><span title="Components Extensions > Re:Parent Categories in ZJ Realty"> <a href="/components-extensions/2661-parent-categories-in-zj-realty.html#2665" rel="follow">Re:Parent Categories in ZJ...</a> - <a href="/11541-ngoctuoi/" rel="nofollow">ngoctuoi</a></span></td></tr>
+	<tr><td><span title="Components Extensions > Re:Parent Categories in ZJ Realty"> <a href="/components-extensions/2661-parent-categories-in-zj-realty.html#2664" rel="follow">Re:Parent Categories in ZJ...</a> - <a href="/21606-lolitma/" rel="nofollow">lolitma</a></span></td></tr>
+	<tr><td><span title="Components Extensions > Re:Parent Categories in ZJ Realty"> <a href="/components-extensions/2661-parent-categories-in-zj-realty.html#2663" rel="follow">Re:Parent Categories in ZJ...</a> - <a href="/11541-ngoctuoi/" rel="nofollow">ngoctuoi</a></span></td></tr>
 </tbody></table>
 
 		</div>
     </div>
 	
-	</div>
-				<div class="ja-box column ja-box-center" style="width: 25%;">
-			<div class="ja-moduletable moduletable  clearfix" id="Mod143">
+</div>
+<div class="ja-box column ja-box-center" style="width: 25%;">
+		<div class="ja-moduletable moduletable  clearfix" id="Mod143">
 						<h3><span>Contact us</span></h3>
 				<div class="ja-box-ct clearfix">
 		<ul class="contact-list">
@@ -699,18 +727,20 @@ Please note that this email address will reject messages with attachments of any
 joomseller.com is not affiliated with or endorsed by the Joomla! Project or Open Source Matters. The Joomla! name and logo is used under a limited license granted by Open Source Matters the trademark holder in the United States and other countries.</p>		</div>
     </div>
 	
-	</div>
-				<div class="ja-box column ja-box-right" style="width: 25%;">
-			<div class="ja-moduletable moduletable  clearfix" id="Mod109">
+</div>
+<div class="ja-box column ja-box-right" style="width: 25%;">
+		<div class="ja-moduletable moduletable  clearfix" id="Mod109">
 						<h3><span>Popular Product</span></h3>
 				<div class="ja-box-ct clearfix">
-		<p align="center"><a href="/joomla-modules/pro-accordion-menu.html" title="Pro Accordion Menu" style="border: 0 none;"><img src="/images/stories/sellerimages/popular_product.png" border="0" width="145"></a></p>		</div>
+		<p align="center"><a href="/joomla-components/events-booking-pro.html" title="Pro Accordion Menu" style="border: 0 none;"><img src="/components/com_zj_fileseller/libraries/image.php?width=175&amp;height=250&amp;image=/images/eventbooking_small_1307959336.png" border="0" width="145"></a></p>		</div>
     </div>
 	
-	</div>
-					<!-- SPOTLIGHT -->
+</div>
+<!-- SPOTLIGHT -->
 
-		 
+<script type="text/javascript">
+	window.addEvent('load', function (){ equalHeight ('#ja-botsl .ja-box') });
+</script>		 
 			</div>
 		 
 		
@@ -719,11 +749,7 @@ joomseller.com is not affiliated with or endorsed by the Joomla! Project or Open
 		
 			
 				</div>		
-				
-<script type="text/javascript">
-	window.addEvent('load', function (){ equalHeight ('#ja-botsl .ja-box') });
-</script>
-				<div id="ja-navhelper" class="wrap">		
+								<div id="ja-navhelper" class="wrap ">		
 				
 			
 					<div class="main">
@@ -731,51 +757,20 @@ joomseller.com is not affiliated with or endorsed by the Joomla! Project or Open
 				
 		 
 			<div class="main-inner1 clearfix">
-			 
-	<div class="ja-breadcrums">
-		<strong>You are here:</strong> <span class="breadcrumbs pathway">
+		<div class="ja-breadcrums">
+	<strong>You are here:</strong> <span class="breadcrumbs pathway">
 <span class="name">Privacy</span></span>
-	</div>
-	
-	<ul class="ja-links">
-		<li class="layout-switcher">&nbsp;</li>
+</div>
+
+<ul class="ja-links">
 		<li class="top"><a href="#Top" title="Back to Top">Top</a></li>
-	</ul>
-	
-	<ul class="no-display">
-		<li><a href="#ja-content" title="Skip to content">Skip to content</a></li>
-	</ul>
-	
-		 
+</ul>
+
+<ul class="no-display">
+	<li><a href="#ja-content" title="Skip to content">Skip to content</a></li>
+</ul>		 
 			</div>
 		 
-		
-				
-					</div>
-		
-			
-				</div>		
-								<div id="ja-footer" class="wrap">		
-				
-			
-					<div class="main clearfix">
-		
-				
-		    
-
-		<div class="ja-footnav">
-		<ul id="mainlevel-nav"><li><a href="/js-tos/terms-of-use.html" class="mainlevel-nav">Terms of Use</a></li><li><a href="/js-tos/privacy.html" class="mainlevel-nav">Privacy</a></li><li><a href="/links/" class="mainlevel-nav">Links</a></li><li><a href="/contact-us/joomseller-customer-services.html" class="mainlevel-nav">Contact Us</a></li><li><a href="/general/what-is-new-in-joomseller-v3-version.html" class="mainlevel-nav">What is news in V3?</a></li></ul>
-	</div>
-	
-	<div class="ja-copyright">
-		<small>Copyright © 2011 Joomseller - Joomla Extensions - Joomla Templates. All Rights Reserved. Designed by <a href="http://www.joomlart.com/" title="Visit Joomlart.com!">JoomlArt.com</a>.</small>
-<small><a href="http://www.joomla.org">Joomla!</a> is Free Software released under the <a href="http://www.gnu.org/licenses/gpl-2.0.html">GNU/GPL License.</a></small>
-	</div>
-	
-		<div id="ja-poweredby" class="t3-logo t3-logo-light">
-		<a href="http://t3.joomlart.com" title="Powered By T3 Framework" target="_blank">Powered By T3 Framework</a>
-	</div>  	
-			 
 		
 				
 					</div>
@@ -784,9 +779,6 @@ joomseller.com is not affiliated with or endorsed by the Joomla! Project or Open
 				</div>		
 				
 </div>
-
-
-
 
 
 
