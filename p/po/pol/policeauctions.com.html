@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the policeauctions.com privacy policy that was archived on 2011-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110604211324id_/http%3A//www.policeauctions.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the policeauctions.com privacy policy that was archived on 2011-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228053723id_/http%3A//www.policeauctions.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://fireauctions.policeauctions.com/dtd/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head>
 	<script type="text/javascript">
 		if (top != self) { top.location.replace(self.location.href); }
 	</script>
@@ -30,10 +30,19 @@
 	
 	    <link rel="stylesheet" type="text/css" href="/javascript/xc.css">
     <script type="text/javascript" src="/javascript/xc.js"></script>
+    
+	
 
-			<script type="text/javascript" src="http://policeauctions.com/javascript/jquery/jquery.js"></script>
-	                		<script type="text/javascript" src="http://policeauctions.com/javascript/libjs/jquery/plugins/jfav/jFav_v1.0.js"></script>
-		<script type="text/javascript">$(document).ready(function() { $('.jFavBookmark').jFav();});</script>
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+		
+                		<script type="text/javascript" src="http://policeauctions.com/javascript/libjs/jquery/plugins/jfav/jFav_v1.0.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() { 
+					if ($.fn.jFav) {
+						$('.jFavBookmark').jFav();			
+					}
+			});
+		</script>
 
 		<script type="text/javascript">
 			$(document).ready(function()
@@ -43,24 +52,107 @@
 				$('#FooterAffiliation').load('/policeauction_affiliation_notice.html');
 			});
 		</script>
+		
+			<script type="text/javascript" src="http://www.policeauctions.com/javascript/jquery.tools/jquery.tools.tooltip.min.js"></script>
+	<style type="text/css">
+		.tooltip{
+			display:none;
+			background-color:#ffa;
+			border:1px solid #cc9;
+			padding: 3px;
+			font-size:13px;
+			-moz-box-shadow: 2px 2px 11px #666;
+			-webkit-box-shadow: 2px 2px 11px #666;
+			z-index: 10;
+		}
+	</style>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$("#calltollfree").tooltip({
+				tip: '#tollfreetip',
+				effect: 'fade',
+				fadeoutspeed: 100,
+				predelay: 400,
+				position: "bottom right",
+				offset: [ 0, -150]
+			});
+		});
+	</script>
+		<link rel="stylesheet" type="text/css" href="http://www.policeauctions.com/stylesheets/dcmegamenu.css">
+	<link rel="stylesheet" type="text/css" href="http://www.policeauctions.com/stylesheets/whitemm.css">
+	<script type="text/javascript" src="http://www.policeauctions.com/javascript/jquery.hoverintent.min.js"></script>
+	<script type="text/javascript" src="http://www.policeauctions.com/javascript/jquery.dcmegamenu.1.3.3.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			jQuery('#mega-menu').dcMegaMenu({
+                effect: 'slide',
+                onLoad: function(){
+                	// var position = $('div.sub-container.non-mega').css('left');
+                	// alert(position);
+                	$('div.sub-container.non-mega').css('left', '65px');
+                }
+            });
+		});
+	</script>
+	<script type="text/javascript" src="http://www.policeauctions.com/javascript/jquery.tools/jquery.tools.tabs.min.js"></script>
 </head>
+
 <body style="width: 934px" ;="">
+
+	
+
+
+
+
+
+
+		
+
+<div id="tollfreetip" class="tooltip" style="display:none;z-index: 1000;">
+	Customer service open Monday - Friday 8am to 4pm pst<br>
+	Closed evenings, weekends and Holidays<br>
+	Outside toll free area? call: 1-714-556-4900
+</div>
 
 <div class="headerContainer" id="policeHeaderContainer" style="width: 934px;">
 
         
-	<div class="HeaderMark2" style="width: 934px; height: 49px;">
+	<div class="HeaderMark2" style="width: 934px; height: 49px; z-index: 3000;">
 
 				<div class="HeaderMark2HomePageLink" onclick="JavaScript: document.location=&quot;http://www.policeauctions.com&quot;;" style="height: 49px;">
 			&nbsp;
 		</div>
 		
 		<div class="HeaderMark2Links" style="width: 669px;">
-						<a id="redlink" href="http://www.policeauctions.com/members/">LOGIN</a> |
-			<a href="http://www.policeauctions.com/reg/index.php">SIGN UP</a> |
-						<a href="http://www.policeauctions.com/support/">HELP</a>
-			<br>
-			<div style="font-family: optima; margin-top: 5px;">
+		
+															
+						
+																		
+          	<div class="white">
+			    <ul id="mega-menu" class="mega-menu" style="left: 395px; width: 285px;">
+			    
+			        			        <li><a id="redlink" href="http://www.policeauctions.com/members/" rel="login_form_overlay" class="overlay_trigger" style="padding-right: 10px;padding-left: 10px;">LOGIN</a> | </li>
+			        <li><a href="http://www.policeauctions.com/reg/index.php" rel="signup_form_overlay_1" class="overlay_trigger" style="padding-right: 10px;padding-left: 10px;">SIGN UP</a> | </li>
+			        			        <li><a href="http://www.policeauctions.com/support/" style="padding-right: 10px;padding-left: 10px;">HELP</a> | </li>
+			        <li>			        	<div style="padding-right: 10px;padding-left: 10px;">SETTINGS</div>
+				        <ul style="display:none;">
+				        	<li>
+				        					        		<a href="http://www.policeauctions.com/members/">Login</a></li>
+				        		<li><a href="http://www.policeauctions.com/forgot/">Forgot Password</a>
+				        					        	</li>
+				        	<li><a href="http://fireauctions.policeauctions.com/index.php?Action=ShowWon">My Items</a></li>
+				        	<li><a href="http://www.policeauctions.com/members/mybids">My Bids</a></li>
+				        	<li><a href="http://www.policeauctions.com/members/browse/?Action=viewWatchlist">Watch List</a></li>
+				        	<li><a href="http://www.policeauctions.com/members/preferences/">Newsletter Settings</a></li>
+				        	<li><a href="http://www.policeauctions.com/members/profile/">Account Settings</a></li>
+					        <li><a href="http://www.policeauctions.com/cancel/">Cancel Account</a></li>
+					        <li><a href="http://www.policeauctions.com/support/">Support</a></li>
+					        				        </ul>
+			        </li>
+		        </ul>
+            </div>
+
+			<div id="calltollfree" style="font-family: optima; margin-top: 5px;">
 				<span style="color: #1b4579;">Call Toll Free</span> 877 677-3040
 			</div>
 		</div>
@@ -69,13 +161,13 @@
 	<div class="subMenu" style="text-align: center; width: 934px; padding-left: 0px; padding-right: 0px;">
 				<a class="subMenuLink" href="http://www.policeauctions.com">Home</a> |
 				<a class="subMenuLink" href="http://www.policeauctions.com/members/?Action=ActiveAuctions" title="$1 Auctions">$1 Auctions</a> |
-		<a class="subMenuLink" href="http://www.policeauctions.com/data2/?Action=MainDisplay&amp;DataMode=GovAuctions" title="Gov Auctions">Gov Auctions</a> |
-		<a class="subMenuLink" href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fdata2%2F%3FAction%3DMainDisplay%26DataMode%3DCars" title="Cars">Car Auctions</a> |
-		<a class="subMenuLink" href="http://www.policeauctions.com/foreclosure/" title="Foreclosures">Foreclosures</a> |
-								<a class="subMenuLink" href="http://www.policeauctions.com/offer/" title="Submit Offer">Submit Offer</a> |
-		<a class="subMenuLink" href="http://www.policeauctions.com/members/mybids" title="My Bids">My Bids</a> |
-		<a class="subMenuLink" href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Ffireauctions.policeauctions.com%2Findex.php%3FAction%3DShowWon" title="My Items">My Items</a> |
-		<a class="subMenuLink" href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fmembers%2Fbrowse%2F%3FAction%3DviewWatchlist" title="Watch List">Watch List</a> | 
+		<a class="subMenuLink overlay_trigger" rel="login_form_overlay" data-href="http://www.policeauctions.com/data2/?Action=MainDisplay&amp;DataMode=GovAuctions" href="http://www.policeauctions.com/data2/?Action=MainDisplay&amp;DataMode=GovAuctions" title="Gov Auctions">Gov Auctions</a> |
+		<a class="subMenuLink overlay_trigger" rel="login_form_overlay" data-href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fdata2%2F%3FAction%3DMainDisplay%26DataMode%3DCars" href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fdata2%2F%3FAction%3DMainDisplay%26DataMode%3DCars" title="Cars">Car Auctions</a> |
+		<a class="subMenuLink overlay_trigger" rel="login_form_overlay" data-href="http://www.policeauctions.com/foreclosure/" href="http://www.policeauctions.com/foreclosure/" title="Foreclosures">Foreclosures</a> |
+								<a class="subMenuLink" href="http://www.policeauctions.com/offer/" title="Daily Deals">Daily Deals</a> |
+		<a class="subMenuLink overlay_trigger" rel="login_form_overlay" data-href="http://www.policeauctions.com/members/mybids" href="http://www.policeauctions.com/members/mybids" title="My Bids">My Bids</a> |
+		<a class="subMenuLink overlay_trigger" rel="login_form_overlay" href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Ffireauctions.policeauctions.com%2Findex.php%3FAction%3DShowWon" title="My Items">My Items</a> |
+		<a class="subMenuLink overlay_trigger" rel="login_form_overlay" href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fmembers%2Fbrowse%2F%3FAction%3DviewWatchlist" title="Watch List">Watch List</a> | 
 		<a class="subMenuLink jFavBookmark" title="Police Auctions">Bookmark</a>
 	</div>
 	</div>
@@ -86,176 +178,305 @@
                 <div id="policeauction-hot-spots" class="link-block">
                 <span class="linkBoxHeader" id="redLinkBoxHeader">PoliceAuction Hot Spots</span>
                                 	                        <br>
-                        <a href="http://www.policeauctions.com/data2/?Action=MainDisplay&amp;DataMode=GovAuctions" class="itemDefaultLink" id="policeDefaultLink">Gov Auctions</a>
+                        <a href="http://www.policeauctions.com/data2/?Action=MainDisplay&amp;DataMode=GovAuctions" rel="payopts2_overlay" data-href="http://www.policeauctions.com/data2/?Action=MainDisplay&amp;DataMode=GovAuctions" class="itemDefaultLink overlay_trigger" id="policeDefaultLink">Gov Auctions</a>
                                                     	                        <br>
-                        <a href="http://www.policeauctions.com/foreclosure/" class="itemDefaultLink" id="policeDefaultLink">Foreclosures</a>
+                        <a href="http://www.policeauctions.com/foreclosure/" rel="payopts2_overlay" data-href="http://www.policeauctions.com/foreclosure/" class="itemDefaultLink overlay_trigger" id="policeDefaultLink">Foreclosures</a>
                                                     	                        <br>
-                        <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions" class="itemDefaultLink" id="policeDefaultLink">$1 Auctions</a>
+                        <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions" class="itemDefaultLink " id="policeDefaultLink">$1 Auctions</a>
                                                     	                        <br>
-                        <a href="http://www.policeauctions.com/offer/" class="itemDefaultLink" id="policeDefaultLink">Submit Offer</a>
+                        <a href="http://www.policeauctions.com/offer/" class="itemDefaultLink " id="policeDefaultLink">Daily Deals</a>
                                                     	                        <br>
-                        <a href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fdata2%2F%3FAction%3DMainDisplay%26DataMode%3DCars" class="itemDefaultLink" id="policeDefaultLink">Car Auctions</a>
+                        <a href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fdata2%2F%3FAction%3DMainDisplay%26DataMode%3DCars" rel="payopts2_overlay" data-href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fdata2%2F%3FAction%3DMainDisplay%26DataMode%3DCars" class="itemDefaultLink overlay_trigger" id="policeDefaultLink">Car Auctions</a>
                                                     	                        <br>
-                        <a href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fjump.php%3Fid%3D53" class="itemDefaultLink" id="policeDefaultLink">Seized Boats</a>
+                        <a href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fjump.php%3Fid%3D53" rel="payopts2_overlay" data-href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fjump.php%3Fid%3D53" class="itemDefaultLink overlay_trigger" id="policeDefaultLink">Seized Boats</a>
                                                     	                        <br>
-                        <a href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fmembers%2Fmoney%2F" class="itemDefaultLink" id="policeDefaultLink">Unclaimed Money</a>
-                                                    	                        <br>
-                        <a href="http://www.policeauctions.com/data2/?Action=MainDisplay&amp;DataMode=LiveEvents" class="itemDefaultLink" id="policeDefaultLink">Live Events</a>
+                        <a href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fmembers%2Fmoney%2F" rel="payopts2_overlay" data-href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fmembers%2Fmoney%2F" class="itemDefaultLink overlay_trigger" id="policeDefaultLink">Unclaimed Money</a>
                                             </div>
                         <div id="government-auction-spotlight" class="link-block">
                 <span class="linkBoxHeader"><span style="color: #009900;">Live</span> $1 Auctions</span>
                 
                 <ul id="x">
-                                        <li class="xc"><div class="xcc"><a href="javascript:xcHide('jt');" title="Jewelry Categories (collapse menu)">[-]</a></div><a style="color: #ff0000; font-weight: bold; font-size: 14px;" href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=JEWELRY" class="itemDefaultLink" id="blackPoliceDefaultLink">Jewelry (385)</a>
+                                        <li class="xc"><div class="xcc"><a href="javascript:xcHide('jt');" title="Jewelry Categories (collapse menu)">[-]</a></div>
+                        
+                        
+                                           <a style="color: #ff0000; font-weight: bold; font-size: 14px;" href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=JEWELRY" class="itemDefaultLink" id="blackPoliceDefaultLink">Jewelry (502)</a>
                                                      <ul id="jt" title="Jewelry Categories">
-                                                                                                                                                                                <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=JEWELRY&amp;InvJewelMount_Code=BRACEL3" class="itemDefaultLink" id="blackPoliceDefaultLink">Bracelet (37)</a></li>
-                                                                                                                                                <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=JEWELRY&amp;InvJewelMount_Code=EARRIN4" class="itemDefaultLink" id="blackPoliceDefaultLink">Earrings (62)</a></li>
-                                                                                                                                                <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=JEWELRY&amp;InvJewelMount_Code=NECKLA2" class="itemDefaultLink" id="blackPoliceDefaultLink">Necklace (63)</a></li>
-                                                                                                                                                <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=JEWELRY&amp;InvJewelMount_Code=RING1" class="itemDefaultLink" id="blackPoliceDefaultLink">Ring (222)</a></li>
-                                                                                                                                                <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=JEWELRY&amp;InvJewelMount_Code=WATCH5" class="itemDefaultLink" id="blackPoliceDefaultLink">Watch (353)</a></li>
+                                                                                                                                                                                <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=JEWELRY&amp;InvJewelMount_Code=BRACEL3" class="itemDefaultLink" id="blackPoliceDefaultLink">Bracelet (31)</a></li>
+                                                                                                                                                <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=JEWELRY&amp;InvJewelMount_Code=CUFFL1" class="itemDefaultLink" id="blackPoliceDefaultLink">Cufflink (4)</a></li>
+                                                                                                                                                <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=JEWELRY&amp;InvJewelMount_Code=EARRIN4" class="itemDefaultLink" id="blackPoliceDefaultLink">Earrings (82)</a></li>
+                                                                                                                                                <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=JEWELRY&amp;InvJewelMount_Code=NECKLA2" class="itemDefaultLink" id="blackPoliceDefaultLink">Necklace (95)</a></li>
+                                                                                                                                                <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=JEWELRY&amp;InvJewelMount_Code=RING1" class="itemDefaultLink" id="blackPoliceDefaultLink">Ring (290)</a></li>
+                                                                                                                                                <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=JEWELRY&amp;InvJewelMount_Code=WATCH5" class="itemDefaultLink" id="blackPoliceDefaultLink">Watch (190)</a></li>
                                                                                                  </ul>
-                                                </li>
+                                                                   </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=FEATURED" class="itemDefaultLink" id="blackPoliceDefaultLink">Featured (56)</a>
-                                                </li>
+                                        <li class="xc featured">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=FEATURED" class="itemDefaultLink" id="blackPoliceDefaultLink">Featured (56)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a style="font-weight: bold" href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=" class="itemDefaultLink" id="blackPoliceDefaultLink">All (1628)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a style="font-weight: bold" href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=" class="itemDefaultLink" id="blackPoliceDefaultLink">All (1518)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=ACCESSOR" class="itemDefaultLink" id="blackPoliceDefaultLink">Accessories (7)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                   			                        <a href="/offer/" class="blackPoliceDefaultLink" style="color:red; font-weight:bold">Daily Deals</a>
+                        
+                                           </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=celart" class="itemDefaultLink" id="blackPoliceDefaultLink">Animation Cel Art (1)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=celart" class="itemDefaultLink" id="blackPoliceDefaultLink">Animation Cel Art (3)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=APPLIANC" class="itemDefaultLink" id="blackPoliceDefaultLink">Appliances (5)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=ART" class="itemDefaultLink" id="blackPoliceDefaultLink">Art (83)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=ART" class="itemDefaultLink" id="blackPoliceDefaultLink">Art (87)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=artifact" class="itemDefaultLink" id="blackPoliceDefaultLink">Artifacts (10)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=BINOCULARS_SCOPES" class="itemDefaultLink" id="blackPoliceDefaultLink">Binoculars &amp; Scopes (3)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=beerobilia" class="itemDefaultLink" id="blackPoliceDefaultLink">Bar &amp; Grill (5)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=BUSSINES" class="itemDefaultLink" id="blackPoliceDefaultLink">Business &amp; Industrial (2)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=BINOCULARS_SCOPES" class="itemDefaultLink" id="blackPoliceDefaultLink">Binoculars &amp; Scopes (3)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=CAMERAS" class="itemDefaultLink" id="blackPoliceDefaultLink">Cameras &amp; Photo (2)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=CAMERAS" class="itemDefaultLink" id="blackPoliceDefaultLink">Cameras &amp; Photo (8)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=caraudioelectronics" class="itemDefaultLink" id="blackPoliceDefaultLink">Car Audio Electronics (16)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=caraudioelectronics" class="itemDefaultLink" id="blackPoliceDefaultLink">Car Audio Electronics (7)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=CARSTRU" class="itemDefaultLink" id="blackPoliceDefaultLink">Cars Trucks and Parts (3)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=CARSTRU" class="itemDefaultLink" id="blackPoliceDefaultLink">Cars Trucks and Parts (3)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=CLOTHING" class="itemDefaultLink" id="blackPoliceDefaultLink">Clothing (3)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=CLOTHING" class="itemDefaultLink" id="blackPoliceDefaultLink">Clothing &amp; Accessories (13)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=COINS" class="itemDefaultLink" id="blackPoliceDefaultLink">Coins &amp; Paper Money (134)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=COINS" class="itemDefaultLink" id="blackPoliceDefaultLink">Coins &amp; Paper Money (212)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=COINSUS" class="itemDefaultLink" id="blackPoliceDefaultLink">Coins Minted in the US (30)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=COINSUS" class="itemDefaultLink" id="blackPoliceDefaultLink">Coins Minted in the US (17)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=COLLECTI" class="itemDefaultLink" id="blackPoliceDefaultLink">Collectibles (71)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=COLLECTI" class="itemDefaultLink" id="blackPoliceDefaultLink">Collectibles (53)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=collectfigs" class="itemDefaultLink" id="blackPoliceDefaultLink">Collector Figurines (3)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=COMPUTER" class="itemDefaultLink" id="blackPoliceDefaultLink">Computers &amp; Laptops (3)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=COMPUTER" class="itemDefaultLink" id="blackPoliceDefaultLink">Computers (3)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=FOSSILROCK" class="itemDefaultLink" id="blackPoliceDefaultLink">Fossils &amp; Rocks (20)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=DOLLS" class="itemDefaultLink" id="blackPoliceDefaultLink">Dolls &amp; Bears (9)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=FRAGRANCE" class="itemDefaultLink" id="blackPoliceDefaultLink">Fragrances (1)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=FOSSILROCK" class="itemDefaultLink" id="blackPoliceDefaultLink">Fossils &amp; Rocks (7)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=gemstones" class="itemDefaultLink" id="blackPoliceDefaultLink">Gemstones (99)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=FRAGRANCE" class="itemDefaultLink" id="blackPoliceDefaultLink">Fragrances (2)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=HOMENG" class="itemDefaultLink" id="blackPoliceDefaultLink">Home &amp; Garden (24)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=gemstones" class="itemDefaultLink" id="blackPoliceDefaultLink">Gemstones (43)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=HOMEELE" class="itemDefaultLink" id="blackPoliceDefaultLink">Home Electronics (19)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=GIFT_CARD" class="itemDefaultLink" id="blackPoliceDefaultLink">Gift Cards (3)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=HOMESEC" class="itemDefaultLink" id="blackPoliceDefaultLink">Home Security (7)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=HEALTHBEAUTY" class="itemDefaultLink" id="blackPoliceDefaultLink">Health &amp; Beauty (5)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=MILITARY_GEAR" class="itemDefaultLink" id="blackPoliceDefaultLink">Military (16)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=HOBBIES" class="itemDefaultLink" id="blackPoliceDefaultLink">Hobbies &amp; Crafts (2)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=MISCELLA" class="itemDefaultLink" id="blackPoliceDefaultLink">Miscellaneous (5)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=HOMENG" class="itemDefaultLink" id="blackPoliceDefaultLink">Home &amp; Garden (53)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=motorgear" class="itemDefaultLink" id="blackPoliceDefaultLink">Motorcycle Gear (12)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=HOMEELE" class="itemDefaultLink" id="blackPoliceDefaultLink">Home Electronics (22)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=MOVIEMEM" class="itemDefaultLink" id="blackPoliceDefaultLink">Movie Memorabilia (5)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=HOMESEC" class="itemDefaultLink" id="blackPoliceDefaultLink">Home Security (15)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=MUSIC" class="itemDefaultLink" id="blackPoliceDefaultLink">Music Memorabilia (3)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=MILITARY_GEAR" class="itemDefaultLink" id="blackPoliceDefaultLink">Military &amp; Tactical Gear (1)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=MUSICAL" class="itemDefaultLink" id="blackPoliceDefaultLink">Musical Instruments (19)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=military" class="itemDefaultLink" id="blackPoliceDefaultLink">Military Memorabilia (2)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=POTTERY" class="itemDefaultLink" id="blackPoliceDefaultLink">Pottery &amp; Glass (10)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=MISCELLA" class="itemDefaultLink" id="blackPoliceDefaultLink">Miscellaneous (10)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=SIGNED_MEMORABILIA" class="itemDefaultLink" id="blackPoliceDefaultLink">Signed Memorabilia (3)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=motorgear" class="itemDefaultLink" id="blackPoliceDefaultLink">Motorcycle Gear (13)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=SPORTING" class="itemDefaultLink" id="blackPoliceDefaultLink">Sporting Goods (22)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=MOVIEMEM" class="itemDefaultLink" id="blackPoliceDefaultLink">Movie Memorabilia (22)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=SPORTSM" class="itemDefaultLink" id="blackPoliceDefaultLink">Sports Memorabilia (17)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=MUSIC" class="itemDefaultLink" id="blackPoliceDefaultLink">Music Memorabilia (23)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=SPYGEAR" class="itemDefaultLink" id="blackPoliceDefaultLink">Spy Gear (6)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=MUSICAL" class="itemDefaultLink" id="blackPoliceDefaultLink">Musical Instruments (17)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=SWORDS" class="itemDefaultLink" id="blackPoliceDefaultLink">Swords &amp; Armor (72)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=POKER" class="itemDefaultLink" id="blackPoliceDefaultLink">Poker &amp; Gaming (3)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=TOOLS" class="itemDefaultLink" id="blackPoliceDefaultLink">Tools (29)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=POTTERY" class="itemDefaultLink" id="blackPoliceDefaultLink">Pottery &amp; Glass (7)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=TOYS" class="itemDefaultLink" id="blackPoliceDefaultLink">Toys (14)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=SPORTING" class="itemDefaultLink" id="blackPoliceDefaultLink">Sporting Goods (37)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=TRAVEL" class="itemDefaultLink" id="blackPoliceDefaultLink">Travel (3)</a>
+                                                                        </li>
+
                                
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=SPORTSM" class="itemDefaultLink" id="blackPoliceDefaultLink">Sports Memorabilia (33)</a>
-                                                </li>
-                               
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=SPYGEAR" class="itemDefaultLink" id="blackPoliceDefaultLink">Spy Gear (12)</a>
-                                                </li>
-                               
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=SWORDS" class="itemDefaultLink" id="blackPoliceDefaultLink">Swords &amp; Armor (78)</a>
-                                                </li>
-                               
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=TOOLS" class="itemDefaultLink" id="blackPoliceDefaultLink">Tools (76)</a>
-                                                </li>
-                               
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=TOYS" class="itemDefaultLink" id="blackPoliceDefaultLink">Toys (17)</a>
-                                                </li>
-                               
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=TRADINGCARDS" class="itemDefaultLink" id="blackPoliceDefaultLink">Trading Cards (1)</a>
-                                                </li>
-                               
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=TRAVEL" class="itemDefaultLink" id="blackPoliceDefaultLink">Travel (1)</a>
-                                                </li>
-                               
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=VIDEOGA" class="itemDefaultLink" id="blackPoliceDefaultLink">Video Games (4)</a>
-                                                </li>
-                               
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=JEWELRY&amp;InvJewelMount_Code=WATCH5" class="itemDefaultLink" id="blackPoliceDefaultLink">Watches (352)</a>
-                                                </li>
-                               
-                                        <li class="xc"><a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=WESTERN" class="itemDefaultLink" id="blackPoliceDefaultLink">Western Theme (3)</a>
-                                                </li>
+                                        <li class="xc">
+                        
+                        
+                                           <a href="http://www.policeauctions.com/members/?Action=ActiveAuctions&amp;PageCategory=JEWELRY&amp;InvJewelMount_Code=WATCH5" class="itemDefaultLink" id="blackPoliceDefaultLink">Watches (190)</a>
+                                                                        </li>
+
                                
                                 </ul>
                  <script>
@@ -271,30 +492,17 @@
 		                	<div id="government-utilities" class="link-block">
 		<span class="linkBoxHeader">Government Utilities</span>
 					<br>
-			<a href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fmembers%2Fmoney%2F" class="itemDefaultLink" id="blackPoliceDefaultLink">Unclaimed Money</a>
+			<a href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fmembers%2Fmoney%2F" rel="payopts2_overlay" data-href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fmembers%2Fmoney%2F" class="itemDefaultLink overlay_trigger" id="blackPoliceDefaultLink">Unclaimed Money</a>
 					<br>
-			<a href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fjump.php%3Fid%3D100" class="itemDefaultLink" id="blackPoliceDefaultLink">Government Loans</a>
+			<a href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fjump.php%3Fid%3D100" rel="payopts2_overlay" data-href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fjump.php%3Fid%3D100" class="itemDefaultLink overlay_trigger" id="blackPoliceDefaultLink">Government Loans</a>
 					<br>
-			<a href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fjump.php%3Fid%3D103" class="itemDefaultLink" id="blackPoliceDefaultLink">Unclaimed Pensions</a>
+			<a href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fjump.php%3Fid%3D103" rel="payopts2_overlay" data-href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fjump.php%3Fid%3D103" class="itemDefaultLink overlay_trigger" id="blackPoliceDefaultLink">Unclaimed Pensions</a>
 					<br>
-			<a href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fjump.php%3Fid%3D79" class="itemDefaultLink" id="blackPoliceDefaultLink">Government Benefits</a>
+			<a href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fjump.php%3Fid%3D79" rel="payopts2_overlay" data-href="http://www.policeauctions.com/index.php?Action=RegisteredFeature&amp;XURI=http%3A%2F%2Fwww.policeauctions.com%2Fjump.php%3Fid%3D79" class="itemDefaultLink overlay_trigger" id="blackPoliceDefaultLink">Government Benefits</a>
 					<br>
-			<a href="http://www.policeauctions.com/data2/?Action=Portals" class="itemDefaultLink" id="blackPoliceDefaultLink">Gov Auction Portals</a>
+			<a href="http://www.policeauctions.com/data2/?Action=Portals" class="itemDefaultLink " id="blackPoliceDefaultLink">Gov Auction Portals</a>
 			</div>
-                        <div id="member-support-area" class="link-block">
-                <span class="linkBoxHeader" id="redLinkBoxHeader">Member Support Area</span>
-                                        <br>
-                        <a href="http://www.policeauctions.com/members/preferences/" class="itemDefaultLink" id="policeDefaultLink">My Preferences</a>
-                                        <br>
-                        <a href="http://www.policeauctions.com/members/profile/" class="itemDefaultLink" id="policeDefaultLink">Update My Profile</a>
-                                        <br>
-                        <a href="http://www.policeauctions.com/support/" class="itemDefaultLink" id="policeDefaultLink">Support</a>
-                                        <br>
-                        <a href="http://www.policeauctions.com/forgot/" class="itemDefaultLink" id="policeDefaultLink">Forgot Password</a>
-                                        <br>
-                        <a href="http://www.policeauctions.com/cancel/" class="itemDefaultLink" id="policeDefaultLink">Cancel Account</a>
-                        </div>
-        </div>	<div class="mainbody-wide">
+                        </div>	<div class="mainbody-wide">
 
 		<div class="privacy-and-terms">
 			<p> </p>
@@ -533,9 +741,9 @@ google_ad_channel = "5229902329";
 </script>
 	</div>
 <div class="headerContainer" style="width: 934px;">
-	<div class="footerMenu" id="footerstrip" style="width: 934px; padding-left: 0px; padding-right: 0px; margin-left: 0px; margin-right: 0px;" '="">
+	<div class="footerMenu" id="footerstrip" style="width: 934px; padding-left: 0px; padding-right: 0px; margin-left: 0px; margin-right: 0px;">
 		<a class="headerMenuLink" href="http://www.policeauctions.com/logout.php" title="Log out">Logout</a> |
-				<a class="headerMenuLink" href="http://www.policeauctions.com/reg/index.php" title="Watch List">Join</a> |
+				<a class="headerMenuLink overlay_trigger" href="http://www.policeauctions.com/reg/index.php" rel="signup_form_overlay_1" title="Watch List">Join</a> |
 				<a class="headerMenuLink" href="http://www.policeauctions.com/faqs/" title="Frequently Asked Questions">FAQ's</a> |
 		<a class="headerMenuLink" href="http://www.policeauctions.com/termsofservice.php" title="Terms of Service">Terms of Service</a> |
 		<a class="headerMenuLink" href="http://www.policeauctions.com/privacy.php" title="Privacy">Privacy</a> |
@@ -555,8 +763,8 @@ google_ad_channel = "5229902329";
 		-->
 	</div>
 	<p>
-	<a href="http://www.twitter.com/PoliceAuctions1"><img src="http://twitter-badges.s3.amazonaws.com/follow_me-a.png" alt="Follow PoliceAuctions1 on Twitter">
-	</a></p><a href="http://www.twitter.com/PoliceAuctions1">
+	<a href="http://www.twitter.com/PoliceAuctions1"><img src="http://twitter-badges.s3.amazonaws.com/follow_me-a.png" alt="Follow PoliceAuctions1 on Twitter"></a>
+	</p>
 	<p>
 		<span style="font-size:10px;font-weight:bold;font-family:verdana;" id="FooterAffiliation">
 		</span>
@@ -578,9 +786,11 @@ google_ad_channel = "5229902329";
 	</center>
 	-->
 	</p>
-</a></div><a href="http://www.twitter.com/PoliceAuctions1">
+</div>
 	
+	<!-- Begin Google Remarketing Script  -->
+		<!-- End Google Remarketing Script -->
 	
 
 
-<!-- srv29 --></a></body></html>
+<!-- srv28 --></body></html>
