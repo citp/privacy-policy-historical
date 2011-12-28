@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcpowerspeed.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525013415id_/http%3A//pcpowerspeed.com/Legal/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcpowerspeed.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228153940id_/http%3A//www.pcpowerspeed.com/Legal/Privacy.aspx) for the most accurate reproduction.*
 
 # PCPowerSpeed.com
 
@@ -10,11 +10,11 @@ This Privacy Policy, which is a part of the Terms of Use and End User License Ag
 
 We recognize the importance of privacy and have attempted to conform this Privacy Policy to applicable industry standards and practices existing at the time of its posting. We welcome your feedback. This Privacy Policy provides you information on the following areas:
 
-  1. Use of the Service by children under the age of 13; 
-  2. The information we collect, and whether this includes personally identifiable information; 
-  3. What we do with your information, and how we share your information; 
-  4. Security measures in place to protect against the loss, misuse or alteration of information under our control; 
-  5. Choice and Correcting/Updating/Deleting/Deactivating Personal Information; and 
+  1. Use of the Service by children under the age of 13;
+  2. The information we collect, and whether this includes personally identifiable information;
+  3. What we do with your information, and how we share your information;
+  4. Security measures in place to protect against the loss, misuse or alteration of information under our control;
+  5. Choice and Correcting/Updating/Deleting/Deactivating Personal Information; and
   6. Changes to the Privacy Policy.
 
 
@@ -25,9 +25,11 @@ We encourage parents to spend time online with their children. We urge parents t
 
 ### 2\. Information we collect, and whether this includes personally identifiable information
 
-Personally identifiable information is collected if it is necessary to provide the Services. For example, when you visit our websites, performance and usage information (such as search term, time of day, browser type, default language setting, IP address, an anonymous unique ID, etc.) will be transmitted to us for evaluation. This information does not personally identify you.
+Personally identifiable information is collected if it is necessary to provide the Services. For example, when you visit our websites, performance and usage information (such as search term, time of day, browser type, default language setting, IP address, an anonymous unique ID, etc.) will be transmitted to us for evaluation and for purpose of LinkToMyPC it is transmitted from viewer to client for session statistic. This information does not personally identify you.
 
 When you sign up for an account or other Services that require registration, we ask you for personal information such as your name, email address and an account password. The information voluntarily provided by you during the registration process may also include or naturally entail other demographic information such as gender, age, occupation, household income, zip code and country. If we also request credit card or other payment account information, it will be maintained in encrypted form on secure servers.
+
+Due to the nature of the Service, LinkToMyPC collects certain standard information about your computers for security and identification purposes. This information may include: IP addresses, domain name, access times, network addresses and the primary disk-drive serial number of machines that have the LinkToMyPC software downloaded and installed. This information is used for the operation of the service, to identify and protect our customers and to control unauthorized use or abuse of our services. All information is encrypted during transmission and is stored securely within our servers. To maintain our quality of service and to assist in the analysis of product performance, we may also gather data on connection information, including the timing and size of all packets sent over the Internet during a session. The gathered information is used only to ensure the highest quality experience possible at LinkToMyPC.
 
 We may combine the information you submit under your account with information from other services or third parties in order to provide you with a better experience and to improve the quality of our Services. Our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your Internet Protocol ("IP") address, browser type, browser language and the date and time of your request. “Cookies” are small files that contain information that we use to track trends and patterns of how people search. We send one or more cookies to your computer that uniquely identify your user account or computer. We use cookies to improve the quality of our Services. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some features may not function properly if your receipt of cookies is disabled. When you send email or other communication to us, we may retain those communications in order to process your inquiries, respond to your requests and improve our Services.
 
@@ -41,7 +43,7 @@ We use your information solely for providing Services, and therefore, as a natur
 
 If we become involved in a merger, acquisition, or any form of sale of some or all of our assets, we will provide notice if such a transaction results in your information being subject to a different privacy policy.
 
-We use cookies for such functions as verifying that you are one of our users and enabling the fulfillment of Services. We use IP addresses to diagnose problems with our servers and to administer our website. Your IP address also is used by us to gather broad demographic information, such as your general geographic location and internet service provider. IP addresses are further used to help determine the number of our users. This demographic information may also be used by us to analyze aggregate usage behavior.
+We use cookies for such functions as verifying that you are one of our users and enabling the fulfillment of Services. We use IP addresses to diagnose problems with our servers and to administer our website. Your IP address also is used by us to gather broad demographic information, such as your general geographic location and internet service provider. IP addresses are further used to help determine the number of our users. This demographic information may also be used by us to analyze aggregate usage behavior or provided to LinkToMyPC licensed user in session statistic as part of the Service
 
 We may share aggregated non-personally identifiable information with third parties. Aggregated non-personally identifiable information is recorded about users and collected into groups so that it no longer reflects or references an individually identifiable user. These third parties collect information when users visit our Services. They may use this information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on the other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit: <http://www.networkadvertising.org/managing/opt_out.asp>.
 
@@ -51,7 +53,7 @@ We employ other companies and individuals to perform functions on our behalf, su
 
 We use commercially reasonable computer security safeguards to protect our databases and servers against risks of loss, unauthorized access, destruction, misuse, modification, or inadvertent or improper disclosure of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. We restrict access to personal information to our employees, contractors and agents who need to know that information in order for us to provide, develop or improve our Services. Security risks, however, cannot be completely eliminated and we therefore cannot guarantee complete security.
 
-If you send us an email, you should know that email is not necessarily secure against interception. Therefore, if your communication will include sensitive information like your bank account, charge card, or social security number, and you prefer not to transmit it electronically, please contact us by postal mail or telephone rather than email.
+If you send us an email, you should know that email is not necessarily secure against interception. Therefore, if your communication will include sensitive information like your bank account, charge card, or social security number, and you prefer not to transmit it electronically, please contact us by postal mail or telephone rather than email. We do not send emails asking for a user's username and password or its Windows username and password or any other username or password.
 
 ### 5\. Choice and Correcting/Updating/Deleting/Deactivating Personal Information
 
@@ -61,4 +63,4 @@ You can decline to submit personal information to any of our Services, in which 
 
 This Privacy Policy may change from time to time. We expect most such changes to be minor. You are responsible for periodically reviewing this Privacy Policy for any applicable changes.
 
-**Last Updated:** April 21, 2011
+**Last Updated:** November 1, 2011
