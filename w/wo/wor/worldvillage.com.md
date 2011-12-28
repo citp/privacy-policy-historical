@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldvillage.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203164445id_/http%3A//worldvillage.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldvillage.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228031843id_/http%3A//worldvillage.com/privacy-policy) for the most accurate reproduction.*
 
 # WorldVillage » Privacy Policy »
 
