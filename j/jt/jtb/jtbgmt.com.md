@@ -1,32 +1,31 @@
-> *The following text is extracted and transformed from the jtbgmt.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628115435id_/http%3A//www.jtbgmt.com/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jtbgmt.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228162819id_/http%3A//www.jtbgmt.com/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
 
 # JTB Global Marketing & Travel : Privacy Policy
 
 JTB Global Marketing & Travel Inc. Privacy Policy
 
-As a member of the JTB Group, JTB Global Marketing & Travel has a corporate philosophy of contributing to the realization of a peaceful and open-minded society through exchange among people of all countries.
+As a member of the JTB Group, JTB Global Marketing & Travel has developed a corporate philosophy focused on introducing the allure of Japan to the world by creating a multitude of valuable and meaningful experiences. While conducting business, we also strive to support global communication and the realization of a peaceful, eco-friendly society.
 
-Based on this philosophy, our fundamental policy is to use our solution know-how nurtured as a DMC in Japan and Asia to sincerely provide the best products with the best service for MICE business such as corporate events. By continuously working to be No. 1 in terms of customer satisfaction, we strive to be fair and just in our corporate activities, place the greatest import in earning the trust of our customers and corporate partners, and work to improve our corporate value through continuous innovation in our operations.
+Based on this philosophy, our fundamental policy is to use our solution know-how nurtured as a DMC (Destination Management Company) in Japan and Asia to sincerely provide the best products with the best service for companies and events through our MICE (Meeting, Incentive, Conference and Event) business, SIT (Special Interest Tour) and package tours for overseas visitors. By continuously working to be No. 1 in terms of customer satisfaction, we strive to be fair and just in our corporate activities, place the greatest importance in earning the trust of our customers and corporate partners, and work to improve our corporate value through continuous innovation in our operations.
 
-In order to realize this philosophy and fundamental policy, we see the reliable protection of personal information of our customers and others who have business with our company as indispensable, and have enacted the following to this end.
+We see the reliable protection of personal information of our customers and others who have business with our company as indispensable in the implementation of this philosophy and fundamental policy, prompting us to enact the following:
 
-  1. A personal information management system based on the JIS Q 15001 Standard was created, and strict adherence by management and all employees is ensured.
-  2. The legal and fair collection, use for specific purposes, and supply of personal information is conducted following the personal information management system above and only for work-related purposes.  
-
-  3. Organizational, technical, and reasonable preventive and corrective measures have been taken to mitigate the risk of illegal access, loss, destruction, or leaking of all personal information handled by the company.
-  4. Methods of appropriately and quickly handling any complaints or questions from individuals concerning their own personal information will be considered.
-  5. All laws, guidelines, social norms, and public standards regarding personal information will be strictly followed.
-  6. The personal information management system will be regularly audited and continuously improved.
+  1. We have developed a personal information management system based on the JIS Q 15001 Standard, and ensured the strict adherence by management and all employees.
+  2. We will conduct the collection, usage, and provision of personal information following the personal information management system above legally and fairly and use personal information for work-related purposes only.
+  3. We will take organizational, technical, and rational preventive and corrective measures to mitigate the risk of illegal access, loss, destruction, and leak of all personal information handled by our company.
+  4. We will consider methods of appropriately and quickly handling any complaints or questions from individuals concerning their own personal information.
+  5. We will strictly follow all laws, guidelines, social norms, and public standards regarding personal information will be strictly followed.
+  6. Our personal information management system is regularly audited and continuously improved.
 
 
 
 [](http://privacymark.org/)
 
 February 27, 2007 (Established)  
-April 1, 2009 (Revised)  
+August 9, 2011 (Revised)  
 JTB Global Marketing & Travel  
 Fukagawa Saburo, President & CEO  
-Personal Information Section  
+Personal Protection Section  
 Phone Number: 03-5796-5400
 
 How We Handle Personal Information
@@ -101,12 +100,14 @@ JTBGMT handles the collection and use of customer personal information as follow
 \- JTB Chubu Corp.  
 \- JTB Tokai Corp.  
 \- JTB Western Japan Corp.  
-\- JTB Osaka Corp.  
+\- JTB Kansai Corp.  
 \- JTB Chugoku Shikoku Corp.  
 \- JTB Kyushu Corp.  
+\- JTB Okinawa Corp.  
+\- JTB Media Retailing Corp.  
 \- i.JTB Corp.  
 \- JTB Business Innovators Corp.  
-\- JTB Traveland Corp.
+\- JTB Asia Tourist Corp.
 
 **8\. Joint Use of Customer Personal Information**
 
@@ -121,32 +122,32 @@ Among the customer personal information that it has acquired, JTBGMT will jointl
 ---|---  
 JTB Corp. | 2-3-11 Higashi ShinagawaShinagawa-ku, Tokyo   
 JTB Hokkaido Corp. | Urban Net Sapporo Building, 8th Fl6-1-2 Kita IchijoChuo-ku, Sapporo  
-JTB Kanto Corp. | 11-2 Shin ToshinChuo-ku, Saitama  
-JTB Metropolitan Corp. | 2-3-11 Higashi ShinagawaShinagawa-ku, Tokyo  
-JTB Business World Tokyo Corp. | 3-4-1 ShibauraMinato-ku, Tokyo  
-JTB Chubu Corp. | 1-1-4 Meieki Nakamura-ku, Nagoya  
-JTB Tokai Corp. | 1-1-4 Meieki Nakamura-ku, Nagoya   
+JTB Kanto Corp. | 16F LA Tower, 11-2 Shin ToshinChuo-ku, Saitama  
+JTB Metropolitan Corp. | 4F IK Bldg, 2-24-9 Kamiosaki, Shinagawa-ku, Tokyo  
+JTB Business World Tokyo Corp. | 26F Shinjuku Park Tower, 3-7-1 Nishishinjuku, Shinjuku-ku, Tokyo  
+JTB Chubu Corp. | 39F JR Central Towers, 1-1-4 Meieki Nakamura-ku, Nagoya  
+JTB Tokai Corp. | 39F JR Central Towers, 1-1-4 Meieki Nakamura-ku, Nagoya   
 JTB Western Japan Corp. | 2-1-25 Kyutaro-machiChuo-ku, Osaka  
-JTB Osaka Corp. | 2-5-10 SonezakiKita-ku, Osaka  
-JTB Chugoku Shikoku Corp. | 7-19 HondoriNaka-ku, Hiroshima  
-JTB Kyushu Corp. | New KBC Building, 5th F;1-1-35 NagahamaChuo-ku, Fukuoka  
+JTB Kansai Corp. | 6F Umeda Pan Pacific Bldg, 2-5-10 SonezakiKita-ku, Osaka  
+JTB Chugoku Shikoku Corp. | 11F, 2-1-12 Kamiya-cho, Naka-ku, Hiroshima  
+JTB Kyushu Corp. | New KBC Building, 5F 1-1-35 NagahamaChuo-ku, Fukuoka  
+JTB Okinawa Corp. | Shintoshin DL Bldg. 4-19-30 Omoromachi, Nahas-shi, Okinawa  
+JTB Media Retailing Corp. | 3F MF Bldg. 4-6-5 Kohinata, Bunkyo-ku, Tokyo  
 i.JTB Corp. | 2-3-11 Higashi ShinagawaShinagawa-ku, Tokyo  
 JTB Business Innovators Corp. | 2-3-11 Higashi ShinagawaShinagawa-ku, Tokyo  
-JTB Traveland Corp. | 5-1 Nihombashi Kabuto-choChuo-ku, Tokyo  
 JTB Tohoku Corp. | Meiji Yasuda Seimei Building, 3rd Fl.3-7-23 Ichiban-choAoba-ku, Sendai  
-JTB Business Travel Solutions, Inc. | 5-8-40 KibaKoto-ku, Tokyo  
 JTB GAIAREC, INC. | JTB Building2-43-19 MinamiikebukuroToshimaku, Tokyo  
-PTS Corp. | 3-13-2 TakadaToshima-ku, Tokyo  
-JTB Grand Tours & Services, Inc. | 5-7-20 JingumaeShibuya-ku, Tokyo  
-JTB World Vacations, Inc. | IK Building2-24-9 Kami-osakiShinagawa-ku, Tokyo  
+PTS Corp. | Takadanobaba TS Bldg. 3-13-2 TakadaToshima-ku, Tokyo  
+JTB Grand Tours & Services, Inc. | Jingumaeota Bldg. 4F, 5-7-20 JingumaeShibuya-ku, Tokyo  
+JTB World Vacations, Inc. | 2F, IK Building 2-24-9 Kami-osakiShinagawa-ku, Tokyo  
 Travel Plaza International, Inc. | 2-1-9 TomiokaKoto-ku, Tokyo  
-Travel Plaza International Chubu, Inc. | 1-1-4 Meieki Nakamura-ku, Nagoya  
+Travel Plaza International Chubu, Inc. | 3-13-24 Meieki Nakamura-ku, Nagoya  
 TPI Western Japan, Inc. | 4-5-20 Minami HonmachiChuo-ku, Osaka  
 JTB Sun & Sun Western Japan Co., Ltd. | AD Building, 2nd Fl.2-3-12 Minami HonmachiChuo-ku, Osaka  
 JTB Management Service Corp. | 2-3-11 Higashi Shinagawa Shinagawa-ku, Tokyo  
-JTB Trading, Inc. | 2-43-20 Minami IkebukuroToshima-ku, Tokyo  
-BankersPartner, Inc. | Tokyo Ginko Kyokai Building, 16th Fl1-3-1 MarunouchiChiyoda-ku, Tokyo  
-JTB Global Assistance, Inc. | 2-1-5 Iwamoto-choChiyoda-ku, Tokyo  
+JTB Trading, Inc. | 1-44-10 Sekiguchi, Bunkyo-ku, Tokyo  
+JTB Global Assistance, Inc. | 2F, COI Nihonbashihoncho Bldg. 4-13-5, Nihonbashihoncho, Chuo-ku,Tokyo  
+JTB Asia Tourist Corp.. | 2-3-11, Higashishinagawa, Shinagawa-ku, Tokyo  
   
 **9\. Cookies**
 
@@ -159,14 +160,12 @@ If we are unable to comply with all or part of your request, we will provide an 
 
 Please contact the departments below for any issues concerning personal information.
 
-(1) Questions and complaints about the handling of personal information and requests for disclose, deletion or destruction.  
-Personal Information as defined in 7-(6) 
+(1) Questions and complaints about the handling of personal information and requests for disclose, deletion or destruction.
 
 JTB Global Marketing & Travel, Inc., Administration Department  
 Address: 2-3-11 Highashi-Shinagawa, Shinagawa-ku, Tokyo  
 Hours: 9:30-18:00 (Weekdays)  
-Phone: 03-5796-5400 (Not open Saturdays, Sundays, holidays, or 12/30-1/3)   
-*The paperwork necessary for disclose and deletion of information can also be obtained from the branches of companies listed in "5. Collection and Use of Customer Personal Information", but requests must be mailed to the department listed above.
+Phone: 03-5796-5400 (Not open Saturdays, Sundays, holidays, or 12/30-1/3) 
 
 (2) Requests for Corrections, Stop of Usage, and Stop Sharing with Third Parties  
 Please contact the branch at which you purchased your trip.  
