@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ammyy.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506165529id_/http%3A//www.ammyy.com/en/priv_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammyy.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228125258id_/http%3A//www.ammyy.com/en/priv_policy.html) for the most accurate reproduction.*
 
 # Ammyy Admin - Privacy Policy.
 
