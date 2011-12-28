@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uptoten.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629225152id_/http%3A//www.uptoten.com/parents.phtml%3Fl%3Den%26sv%3Dlegal%26tv%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uptoten.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228061209id_/http%3A//www.uptoten.com/parents.phtml%3Fl%3Den%26sv%3Dlegal%26tv%3D2) for the most accurate reproduction.*
 
 # UpToTen.com Privacy policy
 
