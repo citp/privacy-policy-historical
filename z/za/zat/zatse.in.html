@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zatse.in privacy policy that was archived on 2011-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110519002134id_/http%3A//zatse.in/page/index/pageid/8) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zatse.in privacy policy that was archived on 2011-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228205444id_/http%3A//zatse.in/page/index/pageid/8) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,21 +8,64 @@
 <link href="/web_root/css/frontend/template.css" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="/web_root/images/images-front/favicon.ico">
 <link rel="icon" type="image/gif" href="/web_root/images/images-front/animated_favicon1.gif">
-
 </head>
-<body>
+<body class="body_search" style="cursor: default;">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript">
+        /**     Disable Right Click Start Here  */
+
+        function noContextt(){return false;}
+        function noClickk(e){
+                if(isNN){
+                        if(e.which > 1) {return false;}
+                } else { 
+                        if(event.button > 1){return false;}
+                }
+        }
+
+        /**     Disable Right Click End Here    */
+
+	function onKeydownn() {
+  		// current pressed key
+  		var pressedKey = String.fromCharCode(event.keyCode).toLowerCase();
+ 
+  		if (event.ctrlKey && (pressedKey == "c" || pressedKey == "a")) {
+    			// disable key press porcessing
+    			event.returnValue = false;
+  		}
+	} // onKeydownn
+        
+        /**     Disable Text Selection Start Here       */
+        function disableSelectionn(target)      {
+                if (typeof target.onselectstart!="undefined") //IE route
+                        target.onselectstart=function(){return false}
+                else if (typeof target.style.MozUserSelect!="undefined") //Firefox route
+                        target.style.MozUserSelect="none"
+                else //All other route (ie: Opera)
+                        target.onmousedown=function(){return false}
+                target.style.cursor = "default"
+        }       
+        /**     Disable Text Selection End Here */
+
+        isNN = document.layers ? 1 : 0;
+        if(isNN){ document.captureEvents(Event.MOUSEDOWN); }
+        document.oncontextmenu = noContextt;
+        document.onmousedown   = noClickk;
+        document.onmouseup     = noClickk;
+	document.onkeydown     = onKeydownn;
+        
+        disableSelectionn(document.body);
+</script>
 <!--Top facebok and twitter logo start from here-->
-<div id="top_logo"> <a href="http://www.facebook.com/ZatSe" target="_blank" class="facebook" title="Facebook"></a> <a href="https://twitter.com/zatse" target="_blank" class="twitter" title="Twitter"></a> </div>
+<!--<div id="top_logo"> <a href="http://www.facebook.com/ZatSe" target="_blank" class="facebook" title="Facebook"></a> <a href="https://twitter.com/zatse" target="_blank" class="twitter" title="Twitter"></a> </div>-->
 <!--Top facebok and twitter logo end from here-->
 <!--Banner start from here-->
 
 <div class="clr"></div>
 <!--Banner end from here-->
-
 <!--Inner header start from here-->
-    <div id="inner_header">
+    <div id="inner_search_header">
     <div class="header_container">
-    	<a href="http://zatse.in/" class="logo"></a>
+    	<a href="http://zatse.in/" onclick="_gaq.push(['_trackEvent', 'ZatSe Logo', 'ZatSe Logo', 'ZatSe Logo Detail']);" class="logo"></a>
     <!--search panel start from here-->
         <div id="search_panel_header">
         <div class="tp"></div>
@@ -32,13 +75,14 @@
 			<input type="hidden" name="search_id" value="">
 		</div>
        
-        <input name="" type="submit" value="" class="search_btn" title="Search">
+       <input name="" type="button" value="" onclick="showSearch();_gaq.push(['_trackEvent', 'ZatSe Go', 'ZatSe Go', 'ZatSe Go Detail']);" class="search_btn" title="Search">
         
         </form>
-        <a href="/search/advancesearch" class="adv_search_header" title="Advanced Search">Advanced Search</a> <a href="/page/index/pageid/9" class="search_tips_header" title="Search Tips and Tricks">Search Tips and Tricks</a>
+        <a href="javascript:void(0);" onclick="showSearch();_gaq.push(['_trackEvent', 'ZatSe Search', 'ZatSe Search', 'ZatSe Search Detail']);" class="adv_search_header" title="ZatSe Search">ZatSe Search</a> <a href="/page/index/pageid/9" class="search_tips_header" onclick="_gaq.push(['_trackEvent', 'ZatSe Search Tips and Tracks', 'ZatSe Search Tips and Tracks', 'ZatSe Search Tips and Tracks Detail']);" title="Search Tips and Tricks">Search Tips and Tricks</a>
         <div class="clr"></div>
         <div class="bc"></div>
         </div>
+
     <!--search panel end from here-->
     </div>
     <div class="strip">&nbsp;</div>
@@ -47,7 +91,7 @@
 
 <!--container start from here-->
 <div id="container">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript">
 /*function cloudSearchFn(searchVal)
 {
 	document.getElementById('searchString').value = searchVal;
@@ -57,7 +101,7 @@
 
 function showTextFn(val)
 {
-	var strval = val.trim();
+	var strval = val;
 	if(strval =="")
 	{
 		document.getElementById('searchString').value = "type your search query here";
@@ -67,7 +111,7 @@ function showTextFn(val)
 
 function hideTextFn(val)
 {
-	var strval = val.trim();
+	var strval = val;
 	if(strval =="type your search query here")
 	{
 		document.getElementById('searchString').value = "";
@@ -83,6 +127,19 @@ function submitText()
 		document.frontendsearchForm.searchString.focus();
 		return false;
 	}
+	
+}
+
+function showSearch()
+{
+	var strsearch = document.getElementById('searchString').value;
+	if(strsearch == "" || strsearch == "type your search query here")
+	{
+		document.frontendsearchForm.searchString.focus();
+		return false;
+	}else{
+		window.location.href="/search/searchresult?search_id=0&searchString="+strsearch;	
+	}
 }
 
 </script>
@@ -91,64 +148,76 @@ function submitText()
 <div id="container">    
     <!--right panel start from here-->
     <div id="right_form_container">
+	<table width="100%" cellspacing="0" cellpadding="5">
+		  <tbody><tr><td>
 	<div class="event-left-cont">
    	  <h2>Privacy Policy</h2>
 	  <!--Event start from here-->
 	  <div class="event-cont">
        	<table width="100%" cellspacing="0" cellpadding="5">
 		  <tbody><tr>
-		<td colspan="3"><p class="event-content"><span>
+		<td colspan="3"><strong><span style="font-weight: normal; font-family: Tahoma; font-size: 13px; color: rgb(96, 58, 121); line-height: 19px;">
 
 
 <title>Untitled document</title>
 
 
-</span></p><p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;">Majestic IT Services Ltd (MITSL) has created this privacy statement in order to demonstrate our commitment to privacy. This policy only applies to the practices of companies that MITSL owns or controls and the network of sites operated by it.&nbsp;</span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;">The following tends to disclose how the information provided by USERS (you) is collected, protected and used. This Policy is however subject to change. MITSL reserves the right to make modifications and updations in this privacy policy statement from time to time, the notice of which shall be published on MITSL’s website. You are requested to check for changes in the Privacy Policy from time to time.&nbsp;</span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;"><strong>Collection and Use of Information</strong></span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;">MITSL collects information from you that provides us with your personal &amp; business information when you register to gain access to our services, when you use&nbsp;any of our services or products, conduct transactions at the time you visit our pages and web sites and when you take part in promotions of any kind run by us, with or without sponsors. The promotions run by us, that are with the support of or are jointly run with third party Sponsors, might require us to share the information collected during the said promotion with the Sponsor. A User not wanting us to share such information with the Sponsors is requested not to take part in the promotion. Data collected through User registration and/or their usage of our network of sites allows us to protect their personal and business information based on their account settings and customize their experience.</span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;">When you register with or access our Service, you are required to give your (his/her/it’s) name, email address, address, birth date, gender, occupation, business information and other personal details. Once you register, you are&nbsp; deemed to have given your consent to MITSL to publish the desired business &amp; personal details throughout its network of sites, including but not limited to, business directory, catalogs etc.</span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;">When you register with MITSL and sign in to use our services, you are no longer anonymous to us. MITSL server’s automatically record information when you visit any of our websites or use any of our services or products, including the URL, IP address, browser type and language, software and hardware attributes, the page you request and the date and time of your request. MITSL only collects this type of information to compile usage statistics on an anonymous basis. MITSL does not collect IP address data to identify you.</span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;">MITSL through its website provides information based services on any type of business, industry, individual, profession or Government establishment to businesses and the public at large. We do this by making your information available on our database and making the same available to those requesting for it. Such display or making available of information may result in the you being contacted by third party(ies) which may or may not be of interest to the you. MITSL does not have any control over the party(ies) contacting you and does not take any responsibility for the same.&nbsp; We also use this information to customise the advertising and content you see, fulfill your requests for products and services, improve our services, contact you through email, phone or otherwise, conduct research, and provide anonymous reports to internal personnel and external clients.</span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;"><strong>Sharing of Information&nbsp;</strong></span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;">MITSL respects your privacy. MITSL will never sell, rent, or otherwise provide your personally identifiable information to any third parties or non affiliated entities unless it is with your permission or to carry out your instructions or to provide specific services that you may have requested or under the following circumstances, and in all the given circumstances you shall be deemed to have given consent for the same:</span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;">MITSL may release the personal information if compelled by law or, in good faith belief that such disclosure is reasonably necessary to enforce our Terms of Use, respond to claims that any posting or other content violates the rights of third-parties, or protect the rights, property, or personal safety of employees of MITSL, its users or the general public.</span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;">&nbsp;</span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;">Provide the information to trusted partners that work on behalf of or with MITSL under separate confidentiality agreements. These companies may use your personal information to assist MITSL in communicating with you about offers from us and our marketing partners.</span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;"><strong>&nbsp;Transfer your information in case MITSL is acquired by or merged with another company.</strong></span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;">MITSL may disclose your personal and business data to other entities belonging to MITSL and promoter group companies to the extent such disclosure is not incompatible to the purposes for which the data are collected as mentioned above.</span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;"><strong>Cookies</strong></span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;">A cookie is a small file containing a string of characters that is sent to your computer when you visit the website, when you visit the website again, the cookies allow that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. MITSL uses cookies&nbsp;and other technologies to enhance your online experience and to learn about how you use MITSL services in order to improve the quality of our services. MITSL lets other companies&nbsp;that show advertisements on some of its network sites and pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to MITSL's cookies. Unless you input your personal data onto our website you cannot be identified and remain anonymous.</span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;"><strong>Confidentiality and Security</strong></span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;">MITSL takes appropriate technical and organizational measures to protect your personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access, in particular where the processing involves the transmission of data over a network and all other unlawful forms of processing. MITSL takes all such measures, which are commercially viable and necessary, to ensure a level of security appropriate to the risks represented by the processing and the nature of the data to be processed. It limits access to personal information about you to employees who it believes reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.</span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;"><strong>Right to Update, Correct and Delete&nbsp;</strong></span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;">You have the right to ask MITSL for the details of the information it holds about you. In addition, you have the right to correct or delete any information it holds about you. In case you wish to know which information MITSL holds about you or wish MITSL to correct, update or delete any such information please contact it on the details given in Contact Us below.</span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;"><strong>Authorisation</strong></span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;">You acknowledge that you are disclosing the information voluntarily. You should exercise caution when deciding to include personal or proprietary information while registering with us. You may refrain from disclosing any information. However, if the minimum information required for registration is not made available then your registration process would be incomplete and you would not be able to avail of our services.</span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;"><strong>Contact Us&nbsp;</strong></span></p>
-<p style="margin: 0.0px 0.0px 10.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;">We welcome your concerns, suggestions, comments etc for this privacy policy statement, in case you wish to do the same or wish to exercise your right to seek an updation or deletion of your information, as mentioned above, please do not hesitate to contact us at:</span></p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;">Majestic IT Services Limited&nbsp;</span></p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;">Logix Omnia</span></p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;">Ground Floor</span></p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px Calibri; color: #661566;"><span style="letter-spacing: 0.0px;">A-110 Sector 4, Noida</span></p>
-<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px Calibri; color: #0e23a3;"><span style="text-decoration: underline; letter-spacing: 0.0px;"><a href="mailto:info@mitsl.in">info@mitsl.in</a></span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span>Majestic IT Services Ltd (MITSL) has created this privacy statement in order to demonstrate our commitment to privacy. This policy only applies to the practices of companies that MITSL owns or controls and the network of sites operated by it.&nbsp;</span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span>The following tends to disclose how the information provided by USERS (you) is collected, protected and used. This Policy is however subject to change. MITSL reserves the right to make modifications and updations in this privacy policy statement from time to time, the notice of which shall be published on MITSL’s website. You are requested to check for changes in the Privacy Policy from time to time.&nbsp;</span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span><strong>Collection and Use of Information</strong></span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span>MITSL collects information from you that provides us with your personal &amp; business information when you register to gain access to our services, when you use&nbsp;any of our services or products, conduct transactions at the time you visit our pages and web sites and when you take part in promotions of any kind run by us, with or without sponsors. The promotions run by us, that are with the support of or are jointly run with third party Sponsors, might require us to share the information collected during the said promotion with the Sponsor. A User not wanting us to share such information with the Sponsors is requested not to take part in the promotion. Data collected through User registration and/or their usage of our network of sites allows us to protect their personal and business information based on their account settings and customize their experience.</span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span>When you register with or access our Service, you are required to give your (his/her/it’s) name, email address, address, birth date, gender, occupation, business information and other personal details. Once you register, you are&nbsp; deemed to have given your consent to MITSL to publish the desired business &amp; personal details throughout its network of sites, including but not limited to, business directory, catalogs etc.</span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span>When you register with MITSL and sign in to use our services, you are no longer anonymous to us. MITSL server’s automatically record information when you visit any of our websites or use any of our services or products, including the URL, IP address, browser type and language, software and hardware attributes, the page you request and the date and time of your request. MITSL only collects this type of information to compile usage statistics on an anonymous basis. MITSL does not collect IP address data to identify you.</span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span>MITSL through its website provides information based services on any type of business, industry, individual, profession or Government establishment to businesses and the public at large. We do this by making your information available on our database and making the same available to those requesting for it. Such display or making available of information may result in the you being contacted by third party(ies) which may or may not be of interest to the you. MITSL does not have any control over the party(ies) contacting you and does not take any responsibility for the same.&nbsp; We also use this information to customise the advertising and content you see, fulfill your requests for products and services, improve our services, contact you through email, phone or otherwise, conduct research, and provide anonymous reports to internal personnel and external clients.</span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span><strong>Sharing of Information&nbsp;</strong></span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span>MITSL respects your privacy. MITSL will never sell, rent, or otherwise provide your personally identifiable information to any third parties or non affiliated entities unless it is with your permission or to carry out your instructions or to provide specific services that you may have requested or under the following circumstances, and in all the given circumstances you shall be deemed to have given consent for the same:</span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span>MITSL may release the personal information if compelled by law or, in good faith belief that such disclosure is reasonably necessary to enforce our Terms of Use, respond to claims that any posting or other content violates the rights of third-parties, or protect the rights, property, or personal safety of employees of MITSL, its users or the general public.</span></p>
+<p><span>&nbsp;</span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span>Provide the information to trusted partners that work on behalf of or with MITSL under separate confidentiality agreements. These companies may use your personal information to assist MITSL in communicating with you about offers from us and our marketing partners.</span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span><strong>&nbsp;Transfer your information in case MITSL is acquired by or merged with another company.</strong></span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span>MITSL may disclose your personal and business data to other entities belonging to MITSL and promoter group companies to the extent such disclosure is not incompatible to the purposes for which the data are collected as mentioned above.</span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span><strong>Cookies</strong></span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span>A cookie is a small file containing a string of characters that is sent to your computer when you visit the website, when you visit the website again, the cookies allow that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. MITSL uses cookies&nbsp;and other technologies to enhance your online experience and to learn about how you use MITSL services in order to improve the quality of our services. MITSL lets other companies&nbsp;that show advertisements on some of its network sites and pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to MITSL's cookies. Unless you input your personal data onto our website you cannot be identified and remain anonymous.</span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span><strong>Confidentiality and Security</strong></span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span>MITSL takes appropriate technical and organizational measures to protect your personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access, in particular where the processing involves the transmission of data over a network and all other unlawful forms of processing. MITSL takes all such measures, which are commercially viable and necessary, to ensure a level of security appropriate to the risks represented by the processing and the nature of the data to be processed. It limits access to personal information about you to employees who it believes reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.</span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span><strong>Right to Update, Correct and Delete&nbsp;</strong></span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span>You have the right to ask MITSL for the details of the information it holds about you. In addition, you have the right to correct or delete any information it holds about you. In case you wish to know which information MITSL holds about you or wish MITSL to correct, update or delete any such information please contact it on the details given in Contact Us below.</span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span><strong>Authorisation</strong></span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span>You acknowledge that you are disclosing the information voluntarily. You should exercise caution when deciding to include personal or proprietary information while registering with us. You may refrain from disclosing any information. However, if the minimum information required for registration is not made available then your registration process would be incomplete and you would not be able to avail of our services.</span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span><strong>Contact Us&nbsp;</strong></span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span>We welcome your concerns, suggestions, comments etc for this privacy policy statement, in case you wish to do the same or wish to exercise your right to seek an updation or deletion of your information, as mentioned above, please do not hesitate to contact us at:</span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span>Majestic IT Services Limited&nbsp;</span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span>Logix Omnia</span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span>Ground Floor</span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span>A-110 Sector 4, Noida</span></p>
+<p style="margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 15.0px; font: 13.0px Tahoma; color: #603a79;"><span><a href="mailto:info@mitsl.in">info@mitsl.in</a></span></p>
 
-<p></p></td>
+</span></strong></td>
 		</tr>
 		<tr>
 		     <td colspan="3"><div class="strip">&nbsp;</div></td>
 		</tr>
 		</tbody></table>
 	</div>
-</div>
+</div></td><td valign="top">
 <!--Event End from here-->
 <!--Cloud Search Start from here-->
 	<div class="cloud-search-cont">
+	
 	<div class="top">
-			</div>
+	   <div height="180px;">
+		<a class="dark5" href="/search/searchresult?searchString=School" onclick="cloudSearchFn('School');">School</a>  <a class="dark4" href="/search/searchresult?searchString=SPA" onclick="cloudSearchFn('SPA');">SPA</a>  <a class="dark4" href="/search/searchresult?searchString=Restaurant" onclick="cloudSearchFn('Restaurant');">Restaurant</a>  <a class="dark5" href="/search/searchresult?searchString=Pizza in Delhi" onclick="cloudSearchFn('Pizza in Delhi');">Pizza in Delhi</a>  <a class="dark5" href="/search/searchresult?searchString=Job" onclick="cloudSearchFn('Job');">Job</a>  <a class="dark4" href="/search/searchresult?searchString=Car Rent" onclick="cloudSearchFn('Car Rent');">Car Rent</a>  <a class="dark2" href="/search/searchresult?searchString=AC Service" onclick="cloudSearchFn('AC Service');">AC Service</a>  <a class="dark5" href="/search/searchresult?searchString=Movie" onclick="cloudSearchFn('Movie');">Movie</a>  <a class="dark1" href="/search/searchresult?searchString=Property Dealer" onclick="cloudSearchFn('Property Dealer');">Property Dealer</a>  <a class="dark4" href="/search/searchresult?searchString=Massage" onclick="cloudSearchFn('Massage');">Massage</a>		</div>
+		<div height="180px;">
+		<a class="dark5" href="/search/searchresult?searchString=Tuition" onclick="cloudSearchFn('Tuition');">Tuition</a>  <a class="dark3" href="/search/searchresult?searchString=Mobile Repair" onclick="cloudSearchFn('Mobile Repair');">Mobile Repair</a>  <a class="dark5" href="/search/searchresult?searchString=Vodafone" onclick="cloudSearchFn('Vodafone');">Vodafone</a>  <a class="dark5" href="/search/searchresult?searchString=Taxi or Cab" onclick="cloudSearchFn('Taxi or Cab');">Taxi or Cab</a>  <a class="dark5" href="/search/searchresult?searchString=Academy" onclick="cloudSearchFn('Academy');">Academy</a>  <a class="dark5" href="/search/searchresult?searchString=Gym" onclick="cloudSearchFn('Gym');">Gym</a>  <a class="dark5" href="/search/searchresult?searchString=Apple" onclick="cloudSearchFn('Apple');">Apple</a>  <a class="dark5" href="/search/searchresult?searchString=Emergency Services" onclick="cloudSearchFn('Emergency Services');">Emergency Services</a>  <a class="dark4" href="/search/searchresult?searchString=Bank" onclick="cloudSearchFn('Bank');">Bank</a>		</div>
+	</div>
+	
 	<img src="/web_root/images//images-front/cloud-search-zatse-logo.png" alt="ZatSe 68006800 Aap Ki Information helpline" title="ZatSe">
+
+	<!-- <div class="top">
+		<a class="dark5" href="/search/searchresult?searchString=School" onclick="cloudSearchFn('School');">School</a>  <a class="dark4" href="/search/searchresult?searchString=SPA" onclick="cloudSearchFn('SPA');">SPA</a>  <a class="dark4" href="/search/searchresult?searchString=Restaurant" onclick="cloudSearchFn('Restaurant');">Restaurant</a>  <a class="dark5" href="/search/searchresult?searchString=Pizza in Delhi" onclick="cloudSearchFn('Pizza in Delhi');">Pizza in Delhi</a>  <a class="dark5" href="/search/searchresult?searchString=Job" onclick="cloudSearchFn('Job');">Job</a>  <a class="dark4" href="/search/searchresult?searchString=Car Rent" onclick="cloudSearchFn('Car Rent');">Car Rent</a>  <a class="dark2" href="/search/searchresult?searchString=AC Service" onclick="cloudSearchFn('AC Service');">AC Service</a>  <a class="dark5" href="/search/searchresult?searchString=Movie" onclick="cloudSearchFn('Movie');">Movie</a>  <a class="dark1" href="/search/searchresult?searchString=Property Dealer" onclick="cloudSearchFn('Property Dealer');">Property Dealer</a>  <a class="dark4" href="/search/searchresult?searchString=Massage" onclick="cloudSearchFn('Massage');">Massage</a>	</div>
+	<img src="/web_root/images//images-front/cloud-search-zatse-logo.png" alt="ZatSe 68006800 Aap Ki Information helpline" title="ZatSe" />
 	<div class="bottom">
-			</div>
+		<a class="dark5" href="/search/searchresult?searchString=Tuition" onclick="cloudSearchFn('Tuition');">Tuition</a>  <a class="dark3" href="/search/searchresult?searchString=Mobile Repair" onclick="cloudSearchFn('Mobile Repair');">Mobile Repair</a>  <a class="dark5" href="/search/searchresult?searchString=Vodafone" onclick="cloudSearchFn('Vodafone');">Vodafone</a>  <a class="dark5" href="/search/searchresult?searchString=Taxi or Cab" onclick="cloudSearchFn('Taxi or Cab');">Taxi or Cab</a>  <a class="dark5" href="/search/searchresult?searchString=Academy" onclick="cloudSearchFn('Academy');">Academy</a>  <a class="dark5" href="/search/searchresult?searchString=Gym" onclick="cloudSearchFn('Gym');">Gym</a>  <a class="dark5" href="/search/searchresult?searchString=Apple" onclick="cloudSearchFn('Apple');">Apple</a>  <a class="dark5" href="/search/searchresult?searchString=Emergency Services" onclick="cloudSearchFn('Emergency Services');">Emergency Services</a>  <a class="dark4" href="/search/searchresult?searchString=Bank" onclick="cloudSearchFn('Bank');">Bank</a>	</div> -->
 <!--<div>
 <table><tr><td align="right">
 <a href="https://s3.amazonaws.com/com.alexa.toolbar/atbp/c_ySJn/download/index.htm"><img src="http://www.alexa.com/images/tbplatform/promotebuttons/purple/TB-banner1-1.jpg" alt="Get our toolbar!"></a>
@@ -156,40 +225,62 @@ function submitText()
  </div>-->
 	</div>
 	<!--Cloud Search End from here-->
+</td>
+</tr></tbody></table>
     </div> 
 </div> 	
 <!--wrapper end from here-->
 <!--footer start from here-->
   <!--footer menu start from here-->
+<!-- <div style="padding:14px">
+&nbsp;
+</div> -->
 <div id="footer_s">
-<div id="footer_menu">
+<div id="footer_menu" style="padding-top:50px;">
 <ul>
-	<li><a href="/page/index/pageid/1" title="About Zat">About <img src="/web_root/images//images-front/footer-zat.gif" alt=""></a></li>
-    <li><a href="/page/index/pageid/3" title="Post Your Ad">Post Your Ad</a></li>
-    <!--<li><a href="" onclick="" title=""></a></li> -->
+	<li><a href="/page/index/pageid/1" title="About Zat">About ZatSe <!-- <img src="/web_root/images//images-front/footer-zat.gif" alt="" /> --></a></li>
+	<li><a href="/zatdeals" title="Zat Deals">Zat Deals</a></li>
+    <li><a href="/provider/addprovider" title="Post Your Ad">Post Your Ad</a></li>
+	<li><a href="/provider/referbussiness" title="Refer a Business">Refer a Business</a></li>
+	<li><a href="/search/advancesearch" title="Advanced Search">Advanced Search</a></li>
+<!--    <li><a href="" onclick="" title="What's On">What's On</a></li>-->
     <li><a href="/page/index/pageid/5" title="Retail Network">Retail Network</a></li>
     <li><a href="/page/index/pageid/2" title="Careers">Careers</a></li>
-    <li><a href="/page/index/pageid/6" title="In the News">In the News</a></li>
+<li><a href="/provider/feedback" title="Feedback">Feedback</a></li>
+    <!--<li><a href="/page/index/pageid/6" title="In the News" >In the News</a></li>-->
     <li><a href="/page/index/pageid/7">Terms of Use</a></li>
     <li><a href="/page/index/pageid/8" class="last">Privacy policy</a></li>
 </ul>
 
-<ul>
-	<li>Copyright 2010 Majestic IT Services Ltd All rights reserved.</li>
-    
-</ul>
 </div>
-<div class="footer-icon"><img src="/web_root/images//images-front/footer-icon_s.gif" alt="ZatSe 68006800 Aap Ki Information helpline"></div>
+<font style="padding-left:34%;font-size:11px;color:#231F20;font-weight:bold">
+Copyright 2011 Majestic IT Services Ltd All rights reserved.</font>
+<div class="footer-icon" style="padding-top:30px;">
+	<a href="http://zatse.in/"><img src="/web_root/images/footer_image/image4.jpg" alt="ZatSe 68006800 Aap Ki Information helpline"></a>
+</div>
 </div>
 <!--footer menu end from here-->
 </div>
 <!--container end from here-->
+<script language="JavaScript">
+/*function disableselect(e){
+return false
+}
+function reEnable(){
+return true
+}
+document.onselectstart=new Function ("return false")
+if (window.sidebar){
+document.onmousedown=disableselect
+document.frontendsearchForm.searchString.focus();
+document.onclick=reEnable
+}
+*/
+</script>
 <script type="text/javascript">
  var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-16896975-2']);
-
 _gaq.push(['_trackPageview']);
-
 (function() {
 
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -200,8 +291,6 @@ _gaq.push(['_trackPageview']);
 
   })();
 </script>
-
-
 <!--footer end from here-->
 
 
