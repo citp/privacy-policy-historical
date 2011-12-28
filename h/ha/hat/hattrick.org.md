@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hattrick.org privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625165121id_/http%3A//www94.hattrick.org/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hattrick.org privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228205414id_/http%3A//www94.hattrick.org/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy statement » Help » Hattrick
 
@@ -18,7 +18,7 @@ Hattrick stores user data that has either been submitted to our system by you (s
 We use your IP address to help diagnose problems with our server and to administer our Web site. IP addresses are also logged and used for security purposes, and may be used in abuse investigations or to identify cheaters within the game itself. 
 
 **Cookies**  
-We do not use cookies to extract information from you, solely to simplify your visits, mainly by having cookies remember which language and specific part of the site you want to start your visit with. A temporary cookie is also used to keep track of your "session". Without that temporary cookie (which is not stored after you quit your browser) you would have had to log on again on each page. You can turn off cookies in your web browser (more information about this is available at <http://www.aboutcookies.org/>). This will however make it more or less impossible to access many of the functions on our web site. When you follow links from Hattrick to other web sites, these may install tracking cookies on your computer. This is beyond the control of Hattrick. 
+We do not use cookies to extract information from you, solely to simplify your visits, mainly by having cookies remember which language and specific part of the site you want to start your visit with, or to remember last login date so that we can distinguish new users from returning ones. A temporary cookie is also used to keep track of your "session". Without that temporary cookie (which is not stored after you quit your browser) you would have had to log on again on each page. You can turn off cookies in your web browser (more information about this is available at <http://www.aboutcookies.org/>). This will however make it more or less impossible to access many of the functions on our web site. When you follow links from Hattrick to other web sites, these may install tracking cookies on your computer. This is beyond the control of Hattrick. 
 
 **Advertisers**  
 We reserve the right to use cookies for the purpose of serving and/or targeting ads, offers and other marketing messages. 
