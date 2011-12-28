@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthbuy.com privacy policy that was archived on 2011-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110110065327id_/http%3A//www.healthbuy.com/tos.php%23pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthbuy.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228213619id_/http%3A//www.healthbuy.com/tos.php%23pp) for the most accurate reproduction.*
 
 # Health & Beauty
 
@@ -53,12 +53,15 @@ On paid offers there is no continuity charges and you will only be billed once f
 **9\. Unlimited Refill Program Terms: * NO Monthly Charges * NO Auto-Shipping **   
 
 
-This offer will allow you to order the product every 30 days and pay only $14.97 shipping included on a monthly basis month after month via our automated [order management system](http://www.websupportcenter.com/) by request only. Once your original purchase supply has been depleted, you will be able to request additional supplies every thirty days. If you choose to return your original purchase for any reason, your enrollment to our membership program will be forfeited. Customers will be given a 3-month notice of product cancellation. Unlimited Supplies subject to availability.
+This offer will allow you to order the product every 30 days and pay only $16.97 shipping included on a monthly basis month after month via our automated [order management system](http://www.websupportcenter.com/) by request only. Once your original purchase supply has been depleted, you will be able to request additional supplies every thirty days. If you choose to return your original purchase for any reason, your enrollment to our membership program will be forfeited. Customers will be given a 3-month notice of product cancellation. Unlimited Supplies subject to availability.
 
 **10\. Manufacturer Coupon Offer Terms:**   
 
 
 Try product for 30 days. If you are not completely satisfied for any reason, you can return it for a refund. Starting 30 days from your order date, you can request a new 30-day supply for FREE every month and only pay $14.97 s/p. For coupon eligibility, simply collect four refills & complete coupon form at [http://www.websupportcenter.com](http://www.websupportcenter.com/downloads/coupon-form.pdf)
+
+**11\. 14 Day Trial Terms (Billed by CCBill.com):**  
+30 day supply of for $5.95(USD). If you feel is not for you, cancel within 14 days from today to avoid the purchase fee of $79.00(USD) and enrollment in the auto-shipment program which sends you a month supply every 30 days at the low price of $29.97(USD). To cancel anytime simply call 1-877-374-0182 (U.S.). Any charges will appear as CCBill.com *Buy Health on your credit card statement. 
 
 **Legal Disclaimer  
 **Statements made by Company have not been evaluated by the food and drug administration. The FDA Dose not evaluate or test herbs. These products are not intended to diagnose, treat, cure or prevent any illness or disease. Consult with your physician for diagnosis or treatment. Use herbs as per instructions and always watch for any allergic reactions. 
