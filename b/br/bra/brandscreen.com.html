@@ -1,95 +1,32 @@
-<!--The following is the downloaded HTML source of the brandscreen.com privacy policy that was archived on 2010-08-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100817210951id_/http%3A//www.brandscreen.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brandscreen.com privacy policy that was archived on 2011-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228183205id_/http%3A//www.brandscreen.com/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head id="ctl00_ctl00_Head1"><meta http-equiv="Content-Type" content="text/html;charset=utf-8"><link rel="Stylesheet" href="/styles/buttons.css"><link rel="stylesheet" href="/styles/application.css">
-    <!--[if lte IE 6]>
-	<link rel="stylesheet" href="/styles/ie6.css" />
-	<![endif]-->
-    <!--[if lte IE 7]>
-    <link rel="stylesheet" href="/styles/ie.css" />
-	<![endif]-->
-    <link href="/favicon.png?1251268511" rel="icon" type="image/png">
-
-    <script src="/scripts/jquery-1.3.2.min.js" type="text/javascript"></script>
-
-    <script src="/scripts/jquery-ui-1.7.1.custom.min.js" type="text/javascript"></script>
-
-    <script src="/scripts/jquery.jcarousel.pack.js" type="text/javascript"></script>
-
-    <script src="/scripts/application.js" type="text/javascript"></script>
-    <script type="text/html" id="htmDialog_okcancel">        
-        <div id="okcancel">
-            <ul class="ulDialog">
-                <li>
-                    <div class="dialogIcons"></div>
-                </li>
-                <li>
-                    <div class="dialogContent">
-                        <span id="msg"></span>
-                    </div>                
-                </li>
-                <li>
-                    <div class="dialogButtons">
-                        <input type="button" class="smallButtons okButton right">
-                        <input type="button" class="smallButtons cancelButton left">           
-                    </div>
-                </li>
-            </ul>              
-        </div>
-    </script>
-
-    <script type="text/html" id="htmDialog_process">
-        <div id="process">
-           <ul class="ulDialog">
-                <li>
-                    <div class="dialogIcons"></div>
-                </li>
-                <li>
-                    <div class="dialogContent">
-                        <span id="msg"></span>
-                    </div>                
-                </li>
-            </ul> 
-        </div>
-        <div id="save">
-            <div class="noFloat processDialog">
-                <span class="dialogIcons save msg"></span>
-            </div>
-        </div>
-    </script>
-
-    <script type="text/html" id="htmDialog_ok">
-        <div id="ok">
-            <ul class="ulDialog">
-                <li>
-                    <div class="dialogIcons"></div>
-                </li>
-                <li>
-                    <div class="dialogContent">
-                        <span id="msg"></span>
-                    </div>                
-                </li>
-                <li>
-                    <div class="dialogButtons">
-                        <input type="button" class="smallButtons okButton right">            
-                    </div>
-                </li>
-            </ul>
-        </div>
-    </script>
-    
-    
-    <style type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Privacy Policy
+</title><link href="styles/brandscreen.css" rel="stylesheet" type="text/css"><link href="styles/font.css" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="styles/fancyBox/jquery.fancybox-1.3.4.css" media="screen"><meta property="og:title" content="Brandscreen"><meta property="og:description" content="Digital Media Trading Platform"><meta property="og:image" content="/favicon.png"><link rel="image_src" href="/favicon.png"><link href="favicon.png?1251268511" rel="icon" type="image/png">
+    <script type="text/javascript" src="scripts/jquery-1.6.1-min.js"></script>
+    <script type="text/javascript" src="scripts/jquery-ui-1.8.13.custom.min.js"></script>
+    <script type="text/javascript" src="scripts/imageHover.js"></script>
+	<script type="text/javascript" src="scripts/fancyBox/jquery.easing-1.3.pack.js"></script> 
+	<script type="text/javascript" src="scripts/fancyBox/jquery.mousewheel-3.0.4.pack.js"></script>
+	<script type="text/javascript" src="scripts/fancyBox/jquery.fancybox-1.3.4.js"></script> 
+	<script type="text/javascript" src="scripts/elasticImage.js"></script>
+    <script type="text/javascript" src="scripts/corporate.js"></script>
         
-        </style>
+    <link rel="stylesheet" type="text/css" href="styles/jquery-ui/jquery-ui-1.8.7.darkness.css" media="screen" <style="">
+        
+        
         <title>Privacy</title>
+        <script type="text/javascript" src="scripts/modalDialog.js"></script>
         <script type="text/javascript">
-            $(document).ready(function() {
-                $('#btnOptOut').click(function() {                    
+            $(document).ready(function () {
+                var btnOptOut = $('#btnOptOut');
+                btnOptOut.button({ label: 'Opt Out' });
+                btnOptOut.click(function () {
                     if ($('#imgOptOut').length == 0) {
-                        $('#Content').append('<img id="imgOptOut" src="http://ads.rtbidder.net/optout?ts=%%'+guid()+'%%">');
+                        $('#main').append('<img id="imgOptOut" src="http://ads.rtbidder.net/optout?ts=%%' + guid() + '%%">');
                     }
-                    $("#ModalDialog").showModalDialog("process", { message: "Opt-out successful", cssClass: "save", timeout: 1500 });
+                    $("#ModalDialog").showModalDialog("process", { message: "Opt-out successful", cssClass: "save" });
                 });
             });
             function S4() {
@@ -99,67 +36,56 @@
                 return (S4() + S4() + "-" + S4() + "-" + S4() + "-" + S4() + "-" + S4() + S4() + S4());
             } 
         </script>
+</head>
+<body onload="PreLoadImages()">
+    <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg4MTAyMTU0OGRkm7KnOf/I33azHVI9kY/sb4ClBc6Kc/1WCeDIzVxIwD0=">
 
-<title>
-	Privacy Policy
-</title></head>
-<body>
-    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRkIcmjWyD4k6cLzFKW6NjLiJIZ9xg=">
+    <div id="main">
+        <div id="mid_bg">
+            <div id="logo">
+                <a href="Default.aspx">
+                    <img src="styles/images/logo.png" alt=""></a></div>
+            
 
-
-<script src="/ScriptResource.axd?d=ZZeEHIQeoWZCPxS04cwFbh00JGYH3R_p08SNh2Oddc-WH3hdVHzruFRbsuoh8SrBeeEsssMVNrRyJME5dRw2EQwc7jqkhiwTAeeUbxSALEg1&amp;t=6b4fb9bd" type="text/javascript"></script>
-        
-        <div id="ModalDialog" class="modal_dialog"></div>
-        <div class="master_big_body">
-            <div id="LogoBar">
-                <div id="Logo">
-                </div>
-                <div class="digitalPlatform right">
-                </div>
-            </div>
-            <div id="LogoBarSpace">
-            </div>
-            <div id="menu">
-                <ul id="nav">
-                    <li id="ctl00_ctl00_Home" class="home"><a href="/Default.aspx">Home</a></li>
-                    <li id="ctl00_ctl00_NavMediaBuyers"><a href="/AgencyPlatform.aspx">Agency Platform</a></li>
-                    <li id="ctl00_ctl00_NavMediaSellers"><a href="/PublisherPlatform.aspx">Publisher Platform</a></li>
-                    <li id="ctl00_ctl00_NavNews"><a href="/News.aspx">Trading News</a></li>
-                    <li id="ctl00_ctl00_NavAbouts"><a href="/Technology.aspx">Technology</a></li>
-                    <li id="ctl00_ctl00_NavContacts"><a href="/ContactUs.aspx">Contact us</a></li>
+        </div>
+        <div id="right_bg">
+            <div class="navigation">
+                <ul>
+                    <li><a href="Connect.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','styles/images/btn_connect_hover.png',1)">
+                        <img src="styles/images/btn_connect_normal.png" name="Image7" width="201" height="38" border="0" id="Image7"></a></li>
+                    <li><a href="Optimize.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','styles/images/btn_optimise_hover.png',1)">
+                        <img src="styles/images/btn_optimise_normal.png" name="Image8" width="199" height="38" border="0" id="Image8"></a></li>
+                    <li><a href="Execute.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','styles/images/btn_execute_hover.png',1)">
+                        <img src="styles/images/btn_execute_normal.png" name="Image9" width="198" height="38" border="0" id="Image9"></a></li>
+                    <li><a href="Analyze.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','styles/images/btn_analyse_hover.png',1)">
+                        <img src="styles/images/btn_analyse_normal.png" name="Image10" width="192" height="38" border="0" id="Image10"></a></li>
                 </ul>
             </div>
-            <div class="clear">
-            </div>
-            <div id="Content">
+            <div class="heading">
                 
-    <div style="margin: 0px; background-color: #FFFFFF;">
-        <div style="margin: 15px; background-color: #D0D9DE;">
-            <table style="width: 100%; border-collapse: collapse; border-width: 0px; background-color: #FFFFFF;">
-                <tbody><tr style="padding: 15px;">
-                    <td style="background-color: white; vertical-align: top; width: 50%; margin-left: 15px;
-                        padding: 20px; border-top: 1px solid #666666; border-bottom: 1px solid #666666;
-                        border-left: 1px solid #666666; border-right: 1px solid #666666">
-                        
-    <h1 class="big_headline">
-        Brandscreen, Inc. ("Brandscreen") Privacy Policy</h1>
-    <div id="privacy" class="body_copy">
-        <p>
-            At Brandscreen, we recognize that privacy is important. This Privacy Policy applies
-            to all of the products, services and websites offered by Brandscreen. In addition,
-            where more detailed information is needed to explain our privacy practices, we post
-            supplementary privacy notices to describe how particular services process personal
-            information.
-        </p>
-        <p>
-            If you have any questions about this Privacy Policy, please feel free to contact
-            us through our website or write to us at: <a href="mailto:privacy@brandscreen.com">privacy@brandscreen.com</a></p>
-        <h2 class="subhead1">
-            Information we collect and how we use it</h2>
+    <h5>Privacy Policy</h5>
+
+            </div>
+            <p>&nbsp;</p>
+            <div class="content">
+            
+    <p>
+        At Brandscreen, we recognize that privacy is important. This Privacy Policy applies
+        to all of the products, services and websites offered by Brandscreen. In addition,
+        where more detailed information is needed to explain our privacy practices, we post
+        supplementary privacy notices to describe how particular services process personal
+        information.
+    </p><br>
+    <p>
+        If you have any questions about this Privacy Policy, please feel free to contact
+            us through our website or write to us at: <a href="mailto:privacy@brandscreen.com">privacy@brandscreen.com</a>    
+    </p>
+    <div id="privacy" class="contentContainer"> 
         <dl>
+            <dt><h3 class="subhead1">Information we collect and how we use it</h3><br></dt>
             <dt class="subhead2">Information you provide</dt>
-            <dd>
+            <dd><br>
                 When you sign up for a Brandscreen Account or other Brandscreen service or promotion
                 that requires registration, we ask you for personal information (such as your name,
                 email address and an account password). For certain services, such as our advertising
@@ -168,9 +94,10 @@
                 you submit under your account with information from other Brandscreen services or
                 third parties in order to provide you with a better experience and to improve the
                 quality of our services. For certain services, we may give you the opportunity to
-                opt out of combining such information.</dd>
-            <dt class="subhead2">Cookies</dt>
-            <dd>
+                opt out of combining such information.
+            </dd>
+            <dt class="subhead2"><br>Cookies</dt>
+            <dd><br>
                 When you visit Brandscreen, we send one or more cookies – a small file containing
                 a string of characters – to your computer or other device that uniquely identifies
                 your browser. We use cookies to improve the quality of our service, including for
@@ -181,96 +108,110 @@
                 Brandscreen sites that use our advertising cookies, and view or click on an ad supported
                 by Brandscreen’s advertising services.
             </dd>
-            <dt class="subhead2">Log information</dt>
-            <dd>
+            <dt class="subhead2"><br>Log information</dt>
+            <dd><br>
                 When you access Brandscreen services, our servers automatically record information
                 that your browser sends whenever you visit a website. These server logs may include
                 information such as your web request, Internet Protocol address, browser type, browser
                 language, the date and time of your request and one or more cookies that may uniquely
                 identify your browser.</dd>
-            <dt class="subhead2">User communications</dt>
-            <dd>
+            <dt class="subhead2"><br>User communications</dt>
+            <dd><br>
                 When you send email or other communications to Brandscreen, we may retain those
                 communications in order to process your inquiries, respond to your requests and
                 improve our services.</dd>
-            <dt class="subhead2">Affiliated Brandscreen Services on other sites</dt>
-            <dd>
+            <dt class="subhead2"><br>Affiliated Brandscreen Services on other sites</dt>
+            <dd><br>
                 We offer some of our services on or through other web sites. Personal information
                 that you provide to those sites may be sent to Brandscreen in order to deliver the
                 service. We process such information under this Privacy Policy. The affiliated sites
                 through which our services are offered may have different privacy practices and
                 we encourage you to read their privacy policies.</dd>
-            <dt class="subhead2">Gadgets</dt>
-            <dd>
+            <dt class="subhead2"><br>Gadgets</dt>
+            <dd><br>
                 Brandscreen may make available third party applications through its services. The
                 information collected by Brandscreen when you enable a gadget or other application
                 is processed under this Privacy Policy. Information collected by the application
                 or gadget provider is governed by their privacy policies.
             </dd>
-            <dt class="subhead2">Links</dt>
-            <dd>
+            <dt class="subhead2"><br>Links</dt>
+            <dd><br>
                 Brandscreen may present links in a format that enables us to keep track of whether
                 these links have been followed. We use this information to improve the quality of
                 our search technology, customized content and advertising. Read more information
                 about links and redirected URLs.
             </dd>
-            <dt class="subhead2">Other sites</dt>
-            <dd>
+            <dt class="subhead2"><br>Other sites</dt>
+            <dd><br>
                 This Privacy Policy applies to Brandscreen services only. We do not exercise control
                 over products or services, or links from within our various services. These other
                 sites may place their own cookies or other files on your computer, collect data
-                or solicit personal information from you.
+                or solicit personal information from you.<br><br>
+            </dd>        
+            <dt class="subhead2">
+                
+            </dt>
+        </dl>
+        <p class="line"></p>
+        <dl>
+            <dt>Brandscreen only processes personal information for the purposes described in this
+                Privacy Policy and/or the supplementary privacy notices for specific services. In
+                addition to the above, such purposes include:
+            </dt>
+            <dd><br>
+                <ul class="numbered">
+                    <li>Providing our services, including the display of customized content and advertising;</li>
+                    <li>Auditing, research and analysis in order to maintain, protect and improve our services;
+                    </li>
+                    <li>Ensuring the technical functioning of our network;</li>
+                    <li>Protecting the rights or property of Brandscreen or our users; and</li>
+                    <li>Developing new services.</li>
+                </ul>
+            </dd>
+            <dt><br>
+                Brandscreen processes personal information on our servers in the United States of
+                America and in other countries. In some cases, we process personal information on
+                a server outside your own country. We may process personal information to provide
+                our own services. In some cases, we may process personal information on behalf of
+                and according to the instructions of a third party, such as our advertising partners.
+            </dt>
+            <dt class="subhead2"><br><h3 class="subhead1">Choices for personal information</h3></dt>
+            <dd><br>
+                When you sign up for a particular service that requires registration, we ask you
+                to provide personal information. If we use this information in a manner different
+                than the purpose for which it was collected, then we will ask for your consent prior
+                to such use.
+            </dd>
+            <dd><br>
+                If we propose to use personal information for any purposes other than those described
+                in this Privacy Policy and/or in the specific service privacy notices, we will offer
+                you an effective way to opt out of the use of personal information for those other
+                purposes. We will not collect or use sensitive information for purposes other than
+                those described in this Privacy Policy and/or in the supplementary service privacy
+                notices, unless we have obtained your prior consent.
+            </dd>
+            <dd><br>
+                Most browsers are initially set up to accept cookies, but you can reset your browser
+                to refuse all cookies or to indicate when a cookie is being sent. However, some
+                Brandscreen features and services may not function properly if your cookies are
+                disabled.    
+            </dd>
+            <dd><br>
+                You can decline to submit personal information to any of our services, in which
+                case Brandscreen may not be able to provide those services to you.
             </dd>
         </dl>
-        <p>
-            Brandscreen only processes personal information for the purposes described in this
-            Privacy Policy and/or the supplementary privacy notices for specific services. In
-            addition to the above, such purposes include:</p>
-        <ul>
-            <li>Providing our services, including the display of customized content and advertising;</li>
-            <li>Auditing, research and analysis in order to maintain, protect and improve our services;
-            </li>
-            <li>Ensuring the technical functioning of our network;</li>
-            <li>Protecting the rights or property of Brandscreen or our users; and</li>
-            <li>Developing new services.</li>
-        </ul>
-        <p>
-            Brandscreen processes personal information on our servers in the United States of
-            America and in other countries. In some cases, we process personal information on
-            a server outside your own country. We may process personal information to provide
-            our own services. In some cases, we may process personal information on behalf of
-            and according to the instructions of a third party, such as our advertising partners.</p>
-        <h2>
-            Choices for personal information</h2>
-        <p>
-            When you sign up for a particular service that requires registration, we ask you
-            to provide personal information. If we use this information in a manner different
-            than the purpose for which it was collected, then we will ask for your consent prior
-            to such use.</p>
-        <p>
-            If we propose to use personal information for any purposes other than those described
-            in this Privacy Policy and/or in the specific service privacy notices, we will offer
-            you an effective way to opt out of the use of personal information for those other
-            purposes. We will not collect or use sensitive information for purposes other than
-            those described in this Privacy Policy and/or in the supplementary service privacy
-            notices, unless we have obtained your prior consent.
-        </p>
-        <p>
-            Most browsers are initially set up to accept cookies, but you can reset your browser
-            to refuse all cookies or to indicate when a cookie is being sent. However, some
-            Brandscreen features and services may not function properly if your cookies are
-            disabled.
-        </p>
-        <p>
-            You can decline to submit personal information to any of our services, in which
-            case Brandscreen may not be able to provide those services to you.
-        </p>
-        <h2>
-            Information sharing</h2>
-        <p>
+        <div class="optOutContainer">
+            <input id="btnOptOut" type="button" class="grey ui-button ui-widget ui-state-default ui-corner-all" role="button" aria-disabled="false" value="Opt Out">
+        </div>
+        <dl>
+        <dt class="subhead2"><h3 class="subhead1">Information sharing</h3></dt>
+        <dd><br>
             Brandscreen only shares personal information with other companies or individuals
-            outside of Brandscreen in the following limited circumstances:</p>
-        <ul>
+            outside of Brandscreen in the following limited circumstances:
+        </dd>
+        <dd>
+        <ul class="contentContainer">
             <li>We have your consent. We require opt-in consent for the sharing of any sensitive
                 personal information. </li>
             <li>We provide such information to our subsidiaries, affiliated companies or other trusted
@@ -294,28 +235,28 @@
                 how many users clicked on a particular advertisement. Such information does not
                 identify you individually.</li>
         </ul>
-        <p>
-            Please contact us at the address below for any additional questions about the management
-            or use of personal data.</p>
-        <h2>
-            Information security</h2>
-        <p>
+        </dd>
+        <dd><br>
+            Please <a href="Offices.aspx">contact us</a> for any additional questions about the management
+            or use of personal data.
+        </dd>
+        <dt class="subhead2"><br><h3 class="subhead1">Information security</h3></dt>
+        <dd><br>
             We take appropriate security measures to protect against unauthorized access to
             or unauthorized alteration, disclosure or destruction of data. These include internal
             reviews of our data collection, storage and processing practices and security measures,
             as well as physical security measures to guard against unauthorized access to systems
             where we store personal data.
-        </p>
-        <p>
+        </dd>
+        <dd><br>
             We restrict access to personal information to Brandscreen employees, contractors
             and agents who need to know that information in order to operate, develop or improve
             our services. These individuals are bound by confidentiality obligations and may
             be subject to discipline, including termination and criminal prosecution, if they
             fail to meet these obligations.
-        </p>
-        <h2>
-            Data integrity</h2>
-        <p>
+        </dd>
+        <dt class="subhead2"><br><h3 class="subhead1">Data integrity</h3></dt>
+        <dd><br>
             Brandscreen processes personal information only for the purposes for which it was
             collected and in accordance with this Privacy Policy or any applicable service-specific
             privacy notice. We review our data collection, storage and processing practices
@@ -324,10 +265,9 @@
             We take reasonable steps to ensure that the personal information we process is accurate,
             complete, and current, but we depend on our users to update or correct their personal
             information whenever necessary.
-        </p>
-        <h2>
-            Accessing and updating personal information</h2>
-        <p>
+        </dd>
+        <dt class="subhead2"><br><h3 class="subhead1">Accessing and updating personal information</h3></dt>
+        <dd><br>
             When you use Brandscreen services, we make good faith efforts to provide you with
             access to your personal information and either to correct this data if it is inaccurate
             or to delete such data at your request if it is not otherwise required to be retained
@@ -342,24 +282,23 @@
             effort. Some of our services have different procedures to access, correct or delete
             users’ personal information. We provide the details for these procedures in the
             specific privacy notices or FAQs for these services.
-        </p>
-        <h2>
-            Enforcement</h2>
-        <p>
+        </dd>
+        <dt class="subhead2"><br><h3 class="subhead1">Enforcement</h3></dt>
+        <dd><br>
             Brandscreen regularly reviews its compliance with this Privacy Policy. Please feel
             free to direct any questions or concerns regarding this Privacy Policy or Brandscreen’s
             treatment of personal information by contacting us through this web site or by writing
-            to us at <a href="mailto:privacy@brandscreen.com">privacy@brandscreen.com</a></p>
-        <p>
+            to us at <a href="mailto:privacy@brandscreen.com">privacy@brandscreen.com</a>
+        </dd>
+        <dd><br>
             When we receive formal written complaints at this address, it is Brandscreen's policy
             to contact the complaining user regarding his or her concerns. We will cooperate
             with the appropriate regulatory authorities, including local data protection authorities,
             to resolve any complaints regarding the transfer of personal data that cannot be
             resolved between Brandscreen and an individual.
-        </p>
-        <h2>
-            Changes to this Privacy Policy</h2>
-        <p>
+        </dd>
+        <dt class="subhead2"><br><h3 class="subhead1">Changes to this Privacy Policy</h3></dt>
+        <dd><br>
             Please note that this Privacy Policy may change from time to time. We will not reduce
             your rights under this Privacy Policy without your explicit consent, and we expect
             most such changes will be minor. Regardless, we will post any Privacy Policy changes
@@ -368,55 +307,65 @@
             Each version of this Privacy Policy will be identified at the top of the page by
             its effective date, and we will also keep prior versions of this Privacy Policy
             in an archive for your review.
-        </p>
-        <p>
+        </dd>        
+        <dd><br>
             If you have any additional questions or concerns about this Privacy Policy, please
             feel free to contact us any time through this web site or at <a href="mailto:privacy@brandscreen.com">
-                privacy@brandscreen.com</a></p><br>
-    </div>
-    <input id="btnOptOut" type="button" class="smallButtons optOutButton right">    
-
-                    </td>
-                </tr>
-            </tbody></table>
+                privacy@brandscreen.com</a>
+           </dd>
+        </dl><br>
+    </div> <script type="text/html" id="htmDialog_process">
+        <div id="process">
+           <ul class="ulDialog">
+                <li>
+                    <div class="dialogIcons"></div>
+                </li>
+                <li>
+                    <div class="dialogContent">
+                        <span id="msg"></span>
+                    </div>                
+                </li>
+            </ul> 
         </div>
-    </div>
+        <div id="save">
+            <div class="noFloat processDialog">
+                <span class="dialogIcons save msg"></span>
+            </div>
+        </div>
+    </script>
+    <div id="ModalDialog" class="modal_dialog"></div>
 
             </div>
-            <div id="Footer">
-                <div id="FooterLeft">
-                    <p>
-                        <strong>Brandscreen, Inc. © 2010</strong> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/contactus.aspx">
-                            Sydney</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/contactus.aspx?area=NY">New York</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-                        <a href="/contactus.aspx?area=UK">London</a> <span id="ctl00_ctl00_jobsSeparator">&nbsp;&nbsp;|&nbsp;&nbsp;</span> <a href="/jobs.aspx" id="ctl00_ctl00_lnkJobs">Jobs</a></p>
+            <div class="line"></div>
+            <div class="read-more">
+                
+    <a href="Default.aspx" class="backHome"></a>
+
+            </div>
+            <div class="line">
+            </div>
+            <p>
+                &nbsp;</p>
+            <p>
+                &nbsp;</p>
+            <p>
+                </p><div class="footer">
+                    <div class="footer-l">
+                        <p>The leading <b class="orange">Demand Side Platform</b> in the Asia-Pacific region</p>
+                        <p class="line lineFooter">&nbsp;</p>
+                        <a href="Offices.aspx">Offices</a>|<a href="People.aspx">People</a>|<a href="MediaCoverage.aspx">Media Coverage</a>
+                        |<a href="http://jobs.brandscreen.com/" target="_blank">Jobs</a>|<a href="http://support.brandscreen.com/" class="outbound">Support</a>
+                        |<a href="Privacy.aspx">Privacy</a>
+                        |<a href="http://dsp.brandscreen.com/register" class="outbound">Create an account</a>
+                        |<a href="http://dsp.brandscreen.com/login" class="outbound">Login</a>
+                    </div>
                 </div>
-                <div id="FooterRight">
-                    <p>
-                        <a href="/privacy.aspx">Privacy</a></p>
-                </div>                
-            </div>
+            <p></p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
         </div>
-   
-    
-
-<script type="text/javascript">
-//<![CDATA[
-Sys.Application.initialize();
-//]]>
-</script>
-</form>
-
-    <script type="text/javascript">
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-    <script type="text/javascript">
-        try {
-            var pageTracker = _gat._getTracker("UA-10853071-1");
-            pageTracker._trackPageview();
-        } catch (err) { }</script>
+    </div>
+    </form>
 
 
-
-</body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
