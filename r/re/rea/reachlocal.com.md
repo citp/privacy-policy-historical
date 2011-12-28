@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reachlocal.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604021548id_/http%3A//www.reachlocal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachlocal.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228031905id_/http%3A//www.reachlocal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ReachLocal Corporate
 
@@ -16,9 +16,7 @@ If you provide us with Personal Information, we may retain and use that informat
 
 #### With Whom We May Share Your Information
 
-We may sometimes use other businesses to perform certain services for us, such as maintaining the Site and our e-mail services and processing inquiries. We may provide Personal Information to those businesses when that information is necessary for them to complete a requested transaction or otherwise perform their duties. ReachLocal will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on ReachLocal’s behalf. ReachLocal will not sell or share your Personal Information with any unaffiliated third parties for marketing purposes. In the event that ReachLocal or all of its assets are acquired, customer information would be one of the transferred assets.
-
-We reserve the right to disclose visitor information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other visitors, or anyone else that could be harmed by such activities. We also reserve the right to disclose visitor information when we believe in good faith that the law requires it.
+We may sometimes use other businesses to perform certain services for us, such as maintaining the Site and our e-mail services and processing inquiries. We may provide Personal Information to those businesses when that information is necessary for them to complete a requested transaction or otherwise perform their duties. ReachLocal will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on ReachLocal’s behalf. ReachLocal will not sell or share your Personal Information with any unaffiliated third parties for marketing purposes. In the event that ReachLocal or all of its assets are acquired, customer information would be one of the transferred assets. We reserve the right to disclose visitor information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other visitors, or anyone else that could be harmed by such activities. We also reserve the right to disclose visitor information when we believe in good faith that the law requires it.
 
 ### Aggregate Information
 
@@ -26,9 +24,7 @@ From time to time, we may collect general, non-personal, statistical information
 
 #### Cookies and Other Tracking Technologies
 
-Some of our web pages utilize “cookies” and other tracking technologies. A cookie is a small text file that a website transfers to an individual’s hard drive for record-keeping purposes. For example, we may use cookies to collect information about website activity. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. However, please be aware that some features of the Site may not function properly or may be slower if you refuse cookies. We do not link the information we store in cookies to any Personal Information you submit while on the Site.
-
-Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our Site is accessed. It is not our practice to link the information we record using tracking technologies to any Personal Information you submit while on the Site. However, we reserve the right to use IP addresses and other tracking technologies to identify a visitor only when we feel it is necessary to enforce compliance with the Site’s policies, to protect the Site, our customers, or others, or when we believe in good faith that the law requires it.
+Some of our web pages utilize “cookies” and other tracking technologies. A cookie is a small text file that a website transfers to an individual’s hard drive for record-keeping purposes. For example, we may use cookies to collect information about website activity. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. However, please be aware that some features of the Site may not function properly or may be slower if you refuse cookies. We do not link the information we store in cookies to any Personal Information you submit while on the Site. Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our Site is accessed. It is not our practice to link the information we record using tracking technologies to any Personal Information you submit while on the Site. However, we reserve the right to use IP addresses and other tracking technologies to identify a visitor only when we feel it is necessary to enforce compliance with the Site’s policies, to protect the Site, our customers, or others, or when we believe in good faith that the law requires it.
 
 ### Links to Other Sites; Public Venues
 
@@ -56,10 +52,4 @@ ReachLocal makes no representation that this Privacy Policy and such practices c
 
 ### Contacting Us
 
-If you have any comments or questions regarding our Privacy Policy, please contact us at [privacy@reachlocal.com](mailto:privacy@reachlocal.com), or at our contact information below. 
-
-ReachLocal, Inc.  
-21700 Oxnard Street  
-Suite 1600  
-Woodland Hills, CA 91367  
-866-500-1692
+If you have any comments or questions regarding our Privacy Policy, please contact us at [privacy@reachlocal.com](mailto:privacy@reachlocal.com), or at our contact information below. ReachLocal, Inc. 21700 Oxnard Street Suite 1600 Woodland Hills, CA 91367 866-500-1692
