@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djgusa.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516022428id_/http%3A//www.djgusa.com/usa/eng/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djgusa.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228091845id_/http%3A//www.djgusa.com/usa/eng/Privacy) for the most accurate reproduction.*
 
 # Dorel Juvenile Group | Privacy Policy
 
@@ -49,7 +49,7 @@ Dorel may collect information about the use of the Site, such as the types of se
 **Choices Regarding Personal Information**
     
 
-Dorel recognizes and appreciates the importance of responsible use of personal information collected on this Site. Unless you have indicated you wish to be on our emailing list or otherwise opted to receive promotional communications, Dorel will not communicate any information to you regarding products, services, and special offers available from Dorel or third parties, although we may communicate with you regarding services you have requested or your use of the services on this Site. Except in the particular circumstances described in this Privacy Policy, Dorel will not provide your name to unaffiliated companies or organizations without your consent.
+Dorel recognizes and appreciates the importance of responsible use of personal information collected on this Site. Unless you have indicated you wish to be on our emailing list or otherwise opted to receive promotional communications, Dorel will not communicate any information to you regarding products, services, and special offers available from Dorel or third parties, although we may communicate with you regarding services you have requested or your use of the services on this Site. If you have opted in to receive promotional communications, we may share your personal information with our licensees and permit them to use it to send you promotional communications about Dorel branded products.   Also, in the event you have expressed an interest in a brand owned by one of our licensor partners, we may share your personal information with such licensor, and you may receive promotional communications from them.  Except in the particular circumstances described in this Privacy Policy, Dorel will not provide your personal information to unaffiliated companies or organizations without your consent.
 
 There are other instances in which Dorel may divulge your personal information. Dorel may provide your personal information if necessary, in Dorel's good faith judgment, to comply with laws or regulations of a governmental or regulatory body or in response to a valid subpoena, warrant, or order or to protect the rights of Dorel or others. Dorel may also provide your personal information to third party shipping agents or financial institutions (such as credit card companies) if necessary to order, pay for or ship products or services that you have ordered.
 
@@ -111,4 +111,4 @@ Consumer Relations Department
 P.O. Box 2609, Columbus, IN 47202-2609  
 Email: [consumer@djgusa.com](mailto:consumer@djgusa.com)
 
-This Privacy Policy effective November, 2006.
+This Privacy Policy effective June, 2011.
