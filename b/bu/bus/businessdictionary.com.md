@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessdictionary.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630075504id_/http%3A//www.businessdictionary.com/disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessdictionary.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228235450id_/http%3A//www.businessdictionary.com/disclaimer.php) for the most accurate reproduction.*
 
 # Privacy Policy, Disclaimer and Copyright
 
@@ -29,7 +29,7 @@ We are very pleased to have partnered with Vijay Luthra to bring you this dictio
 
 Copyright©2007-2011 Vijay Luthra and BusinessDictionary.com. ALL RIGHTS RESERVED.
 
-Reproduction of all or part of this dictionary and/or of any other content on this site, in any format, without our written consent is strictly prohibited. If you have questions about this dictionary please feel free to [contact us](https://web.archive.org/web/20110630075504id_/contact.php).
+Reproduction of all or part of this dictionary and/or of any other content on this site, in any format, without our written consent is strictly prohibited. If you have questions about this dictionary please feel free to [contact us](https://web.archive.org/web/20111228235450id_/contact.php).
 
 **Copyright Complaints**
 
@@ -51,7 +51,7 @@ Once notice is given to us, we will expeditiously remove, or disable access to, 
 **Copyright Agent**
 
 Thomas Murcko  
-10201 Fairfax Blvd, suite 510  
+10201 Fairfax Blvd, suite 570  
 Fairfax, VA 22030  
 Phone: (703) 865-7217  
 E-mail: 
