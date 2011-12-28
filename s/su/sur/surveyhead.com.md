@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the surveyhead.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425060414id_/http%3A//www.surveyhead.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyhead.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228220327id_/http%3A//www.surveyhead.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Surveyhead! Take paid surveys online for cash rewards. Consumer panels for market research firms.
+# Surveyhead.com Privacy Policy
 
 **Surveyhead Privacy Policy**
 
+Last updated: 09/09/10
+
 Surveyhead is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our website and services. 
 
-Surveyhead adheres to the principles set forth in the Safe Harbor framework as established by the U.S. Department of Commerce regarding the collection, use, and retention of personally identifiable information provided to Surveyhead from the European Union. 
+Surveyhead adheres to the principles set forth in the Safe Harbor framework as established by the U.S. Department of Commerce regarding the collection, use, and retention of personally identifiable information provided to Surveyhead from the United States. 
 
 **What personally identifiable information does Surveyhead collect from me?**
 
 Surveyhead collects information in several ways from different parts of our network of websites. 
 
-Some personal information is gathered when you register. During registration, Surveyhead asks for your name, email address, zip code, household information and personal interests. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience. Once you register you are no longer anonymous to Surveyhead - use to access the various protected areas of the site. 
+Some personal information is gathered when you register. During registration, Surveyhead asks for your name, email address, zip code, household information and personal interests. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience. Once you register, you are no longer anonymous to Surveyhead and you can access the various protected areas of the site. 
+
+From time to time, we may use tracking mechanisms such as cookies or web beacons to observe your behavior across multiple websites. We share the information we gather with third parties who serve targeted advertisements to you based on your browsing behaviors.  These advertisements are served to you on multiple third party websites.  If you do not wish to have your activity and browsing behaviors tracked, you may opt out by contacting our customer support team at [support@surveyhelpcenter.com](mailto:support@surveyhelpcenter.com) or selecting the opt-out button located on the “My Account” page. 
 
 Also, if you contact Surveyhead we may keep a record of that correspondence. 
 
@@ -56,9 +60,9 @@ Surveyhead does not sell or rent user information to anyone. We will notify you 
 
 **What is** **Surveyhead's** **policy on allowing me to update, correct, or delete my personally identifiable information?**
 
-You may edit your Surveyhead Account Information and your public Surveyhead Profile at any time by using your Surveyhead ID and password. If you have forgotten your password, please [ click here](https://web.archive.org/web/20100425060414id_/http%3A//www.surveyhead.com/forgot_password.php) . 
+You may edit your Surveyhead Account Information and your public Surveyhead Profile at any time by using your Surveyhead ID and password. If you have forgotten your password, please [ click here](https://web.archive.org/web/20111228220327id_/http%3A//www.surveyhead.com/forgot_password.php) . 
 
-Your Surveyhead account can be deleted or deactivated. Please contact [ support@surveyhead.com](mailto:support@surveyhead.com) for further instructions about deleting or deactivating your Surveyhead account. 
+Your Surveyhead account can be deleted or deactivated. Please contact [ support@surveyhelpcenter.com](mailto:support@surveyhelpcenter.com) for further instructions about deleting or deactivating your Surveyhead account. 
 
 **What security precautions are in place to protect the loss, misuse, or alteration of my information?**
 
@@ -78,4 +82,4 @@ Ultimately, you are solely responsible for maintaining the secrecy of your passw
 
 **Additional information**
 
-Questions regarding this statement should be directed to [ support@surveyhead.com](mailto:support@surveyhead.com).
+Questions regarding this statement should be directed to [ support@surveyhelpcenter.com](mailto:support@suveryhelpcenter.com).
