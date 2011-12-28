@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the ensogo.com.ph privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106222715id_/http%3A//www.ensogo.com.ph/manila/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ensogo.com.ph privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228120802id_/http%3A//www.ensogo.com.ph/manila/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| 
-
-| Privacy Policy   
+Privacy Policy   
 ---  
 |   
 ---  
@@ -29,13 +27,11 @@ Your personally identifiable information is kept secure. Only authorized employe
 Privacy Contact Information  
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:  
    
-Ensogo Limited   
-Unit 1505 One Global Place, 5th ave. cor 25th St.  
-Fort Bonifacio Global City, Taguig, Metro Manila 1634  
-Telephone: (632) 217-9624   
-Fax: (632) 856-1461  
+**Ensogo Inc.**  
+2nd Floor W High Street Building, 28th St., Cor. 11th Ave.,  
+Bonifacio Global City, Taguig, Philippines 1634  
+**Phone:** (+63) 2-555-6868   
+**Fax:** +632-555-6810  
 [Email: info@ensogo.com.ph ](mailto:info@ensogo.com.ph)  
    
-Ensogo reserves the right to make changes to this policy. Any changes to this policy will be posted on the Website.  
-  
- 
+Ensogo reserves the right to make changes to this policy. Any changes to this policy will be posted on the Website.
