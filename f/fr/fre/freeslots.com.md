@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the freeslots.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511131721id_/http%3A//www.freeslots.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeslots.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228071515id_/http%3A//www.freeslots.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # FreeSlots.com - Privacy Policy
 
 [](http://www.freeslots.com/)  
   
 [Slots Home](http://www.freeslots.com/)     
-[Free Slots 1](https://web.archive.org/web/20110511131721id_/http%3A//www.freeslots.com/slots-1.htm)     
-[Free Slots 2](https://web.archive.org/web/20110511131721id_/http%3A//www.freeslots.com/slots-2.htm)     
-[Free Slots 3](https://web.archive.org/web/20110511131721id_/http%3A//www.freeslots.com/slots-3.htm)     
-[Free Slots 4](https://web.archive.org/web/20110511131721id_/http%3A//www.freeslots.com/slots-4.htm)     
-[Free Slots 5](https://web.archive.org/web/20110511131721id_/http%3A//www.freeslots.com/ClassicSlots.htm)     
-[Multi-Payline Slots](https://web.archive.org/web/20110511131721id_/http%3A//www.freeslots.com/MultiPayline1.htm)     
+[Free Slots 1](https://web.archive.org/web/20111228071515id_/http%3A//www.freeslots.com/slots-1.htm)     
+[Free Slots 2](https://web.archive.org/web/20111228071515id_/http%3A//www.freeslots.com/slots-2.htm)     
+[Free Slots 3](https://web.archive.org/web/20111228071515id_/http%3A//www.freeslots.com/slots-3.htm)     
+[Free Slots 4](https://web.archive.org/web/20111228071515id_/http%3A//www.freeslots.com/slots-4.htm)     
+[Free Slots 5](https://web.archive.org/web/20111228071515id_/http%3A//www.freeslots.com/ClassicSlots.htm)     
+[Multi-Payline Slots](https://web.archive.org/web/20111228071515id_/http%3A//www.freeslots.com/MultiPayline1.htm)     
 [Video Poker](http://www.freevideopoker.com/)     
-[Winners List](https://web.archive.org/web/20110511131721id_/http%3A//www.freeslots.com/Winners.htm)     
-[FAQ](https://web.archive.org/web/20110511131721id_/http%3A//www.freeslots.com/FAQ.htm)    |    
+[Winners List](https://web.archive.org/web/20111228071515id_/http%3A//www.freeslots.com/Winners.htm)     
+[FAQ](https://web.archive.org/web/20111228071515id_/http%3A//www.freeslots.com/FAQ.htm)    |    
 [Back to FreeSlots Home](http://www.freeslots.com/) **Privacy Policy**
 
 **General Information**  
@@ -39,7 +39,7 @@ Please be aware that we cannot control the activities of third parties to whom w
 No computer system is one hundred per cent protected, and although the means through which data is submitted to SimSlots are reasonably safe, we cannot guarantee that data will not be unlawfully retrieved by third parties. When data is submitted to SimSlots, it may come via a number of networks and/or machines, and although we use our best endeavors to make sure that the data is not intercepted, we cannot guarantee that this will be the case.
 
 **Opting Out**  
-From time to time, SimSlots may send information to its users on various subjects including, but not limited to, contests, promotions, and announcements of new services or features. Users who sign up for these e-mails by completing a sweepstakes entry form always have the choice to opt out from such opportunities by sending e-mail from the address they signed up with to newgames@freeslots.com with the word "Remove" in the subject line. Alternatively, remove requests containing the specific e-mail address and all pertinent information may be submitted to: SimSlots Remove Request, 1533 N Milwaukee #350, Boise ID 83704.
+From time to time, SimSlots may send information to its users on various subjects including, but not limited to, contests, promotions, and announcements of new services or features. Users who sign up for these e-mails by completing a sweepstakes entry form always have the choice to opt out from such opportunities by sending e-mail from the address they signed up with to newgames@simslots.com with the word "Remove" in the subject line. Alternatively, remove requests containing the specific e-mail address and all pertinent information may be submitted to: SimSlots Remove Request, 1533 N Milwaukee St #350, Boise ID 83704.
 
 **Cookies**  
 Parts of SimSlots use cookies to better provide our services and information. On the Internet, a "cookie" is a file that a website transfers to the user's computer for record-keeping purposes. This is a common feature of many websites on the Internet and is employed by SimSlots to maintain unique information and user preferences, including but not limited to, credit and sweepstakes information.
@@ -48,6 +48,9 @@ Parts of SimSlots use cookies to better provide our services and information. On
 Although the main demographic of SimSlots does not encompass children below the age of 18, we welcome users of all ages to our content and services. If you are under the age of 13, we do, however, specifically request that you have the permission of your parents or legal guardian to view any content at SimSlots and to take part in any and all services we offer.
 
 **Notes to Parents**  
-Users under the age of 18 are ineligible to enter contests or drawings on SimSlots, and should therefore have no cause to provide personal information. If, however, such information is provided, parents who wish to have their child's name removed from any and/or all SimSlots services may send a letter specifically stating that request to: SimSlots Privacy Policy, 1533 N Milwaukee #350, Boise ID 83704. The request must contain all pertinent information including the name and e-mail address of the account in question.
+Users under the age of 18 are ineligible to enter contests or drawings on SimSlots, and should therefore have no cause to provide personal information. If, however, such information is provided, parents who wish to have their child's name removed from any and/or all SimSlots services may send a letter specifically stating that request to: SimSlots Privacy Policy, 1533 N Milwaukee St #350, Boise ID 83704. The request must contain all pertinent information including the name and e-mail address of the account in question.
 
 By using the SimSlots Web sites listed herein, you signify your assent to the SimSlots Privacy Policy. If you do not agree to this policy, please do not use this site. The Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes.
+
+**Third Party Ad Servers**  
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/).
