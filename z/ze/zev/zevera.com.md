@@ -1,72 +1,59 @@
-> *The following text is extracted and transformed from the zevera.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524025553id_/http%3A//www.zevera.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zevera.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228011938id_/http%3A//www.zevera.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy of Zevera.com
 
-Your use of the www.zevera.com site is governed by Zevera Terms of Use and this Privacy Policy. The purpose of this Privacy Policy is to disclose what services we provide, how the information you store at Zevera may be used, and how such information is both protected and made available on our Web site. 
+** Zevera Privacy Policy**
 
-This privacy policy may change from time to time, so you are encouraged to check the page regularly. Zevera will operate this web site according to the Privacy Policy that is posted at the time. 
+**   
+ZEVERA.com** recognizes that respecting user privacy over the Internet is of utmost importance. This privacy statement is designed to provide information about the privacy and data collection practices for the site: [www.zevera.com](http://www.zevera.com/). 
 
-  
-Information we Receive When you Register
+The purpose of the Zevera Site is to provide its Users with an infrastructure which enables the Users to download files from the most popular hosting websites by usage of one Zevera account. Zevera links its Users with the file-sharing networks. None of the content is controlled by Zevera administrators or servers. None of the files stored remotely, nor the ones that users have uploaded are controlled by Zevera administrators or servers. You willingly provide us certain personal information, which we collect in order to allow you to benefit from the Zevera service. If you have any hesitation about providing such information to us or otherwise used in any manner permitted in this Privacy Policy, you should not become a Zevera User. 
 
-Zevera stores your E-mail and Password you create for yourself when you register with Zevera and First and Last Names if they are indicated in the User Profile. We also use your IP address for internal purposes (for covering the download limitation and user sessions).   
+This Privacy Policy applies solely to the Zevera Site. The Site may contain links to third party sites that are not owned or controlled by Zevera. Zevera has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third party site. You agree that you are responsible for reviewing and understanding the privacy policies (if any) of any third party sites you may access through this Site. By using this Site, you release Zevera from any and all liability arising from your use of any third party site to which this Site may be linked. 
 
+Our primary goals in collecting information are to provide and improve the Service, the Site and the related features, to administer your subscription and to enable Users to enjoy and easily navigate the Site. Below are the types and categories of information that we collect. 
 
-  
-Your Virtual Drive
+We collect your personal information in the following ways: 
 
-When you upload your files to the Zevera server, we will provide you with a unique URL to download your file. Zevera will not provide this URL to any other person or entity, but will provide your file to any web browser requesting your unique URL. Zevera has the right to review your file contents for violations of our Terms of Use. If Zevera determines your files are in violation of Zevera Terms of Use we will ban your account and will attempt to contact you. We reserve the right to cancel your account and files from our systems.   
+**Registration**
 
+In order to become a User, you must first create an account on our Site. To create an account you are required to provide the following contact information, which you recognize and expressly acknowledge is personal information allowing others, including Zevera, to identify you: email address and a password. Your password is sent to you via e-mail which you can change any time by logging into your account and editing your ‘My Details’ section. 
 
-Zevera will not attempt to access your files at any time unless explicitly instructed to do so by you. We do not own the contents of your virtual drive. Zevera will only have access to your files for purposes of troubleshooting. When Zevera receives your files, we will store them in your virtual drive. We will allow your files to be downloaded according to your security settings. Zevera has extensive security measures in place to protect your files while stored on our servers and we will prosecute any attempt to access this information without authorization.   
+**Log Data**
 
+When you visit the Site or use the Service, just browsing our servers automatically record information about your use of the Service and your visit to the Site ("Log Data"). The Log Data may include information such as your computers Internet Protocol (IP) address, your browser type, what software you were using, pages of our Site that you visited, the time spent on those pages, information you searched for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Site and the Service and for the Sites technical administration, to improve our Sites functionality and user-friendliness, and to better tailor it to our visitors needs. 
 
-  
-Web-Server Log and Cookies
+**Cookies**
 
-Zevera collects information about the areas and pages of the Zevera website you visit. We also collect information such as your operating system, browser version and the size of your screen. We analyze this data to determine what is of interest to our users as a group, and thereby improve our website. This information is collected in the form of the usual web server logs and cookies. Zevera also collects this information to make the website viewable and useful for the majority of our clients.   
+Like most sites, Zevera uses cookies and web log files to track site usage. A cookie is a tiny data file which resides on your computer which allows Zevera to recognize you as a User when you return to the Zevera site using the same computer and web browser. If your browser settings do not allow cookies, you will not be able to login to your Zevera Premium Account. Like the information you enter at registration, cookie and log file data is used to customize your experience on our Site. 
 
+One type of cookie, known as a “persistent” cookie, is set once you’ve logged into your Zevera account. The next time you visit the Zevera site, the persistent cookie will allow us to recognize you as an existing User so you will not need to log in before using the service. 
 
-Our website utilizes a non-persistent cookie to track your session with our web site. This is an encrypted number, generated when you visit any site that supports sessions. This is a session cookie. It helps Zevera track your sessions and store persistent information to make your visit to our site smoother. This cookie is saved permanently on your PC. This data does not contain any secure information (just an encrypted string). Additionally, we set a cookie when you log in to make further logging into our system a little easier. At no time are cookies used to track where you have been either before or after your visit to our website. No other website can access any information about you from the cookies we may store on your local computer. We do not share cookies or any other type of information with any other companies.   
+Due to the communications standards on the Internet, when you visit the Zevera site we automatically receive the URL of the site from which you came and the site to which you are going when you leave Zevera. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, email patterns, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the Zevera Service. The linkage between your IP address and your personally identifiable information is not shared with third-parties without your permission or except when required by law.
 
+Zevera will communicate with you through email and notices posted on the Zevera Forum Site or through other means available through the service, including text and other forms of messaging.  You can change your e-mail and contact preferences at any time by logging into your “Account” and editing your ‘My Details’ section. 
 
-  
-Access to your information
+Zevera takes the privacy of Users very seriously. We do not sell, rent, or otherwise provide your personally identifiable information to third parties for marketing purposes. We will only share your personally identifiable information with third parties to carry out your instructions or to provide specific services or information. For instance, we use credit card processing companies to bill Users for account fees. These third parties do not retain, share, or store any personally identifiable information except to provide these services and they are bound by confidentiality agreements which limit their use of such information.
 
-You have the right to access, upload and download your files and access and correct your personal information at any time. You may also grant access to your drive to other persons through folder sharing or providing the download link to your audience. 
+Identity theft and the practice currently known as "phishing" are of great concern to Zevera. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password in a non-secure or unsolicited e-mail or telephone communication.
 
-If for some reason you cannot access your virtual drive on Zevera or you want to change other information you provided to us, please contact us at [support@zevera.com](mailto:support@zevera.com). 
+Our Site contains links to other web sites. If you choose to visit any third party link, you will be directed to that third party’s web site. The fact that we link to a web site is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party web sites. These other web sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other web sites you visit.
 
-  
-How we protect your information
+You can review the information you provided us and make any desired changes to them or to the settings for your Zevera account including your email at any time by logging in to your account on the Zevera Site. Please be aware that even after your request for a change is processed, Zevera may, for a time, retain residual information about you in its backup and/or archival copies of its database. 
 
-Any information collected and processed with Zevera is treated with the utmost confidentiality. Zevera will not sell or rent out any personal information gathered from clients. We will make no public release of any personal information that is collected through our proprietary file sharing tool. All client-specific information gathered through Zevera will be the property of the user. To prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use of information, we have put into place physical, electronic and managerial procedures to safeguard the information that we collect online. We use encryption when collecting or transferring data.   
+You can also request to delete your Zevera account easily and at any time. If you request to delete your Zevera account, we may retain certain data contributed by you if we believe it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data, account recovery, or if required by law. In order to delete your account please send us your request to [deletemyaccount@zevera.com](mailto:deletemyaccount@zevera.com) and your account will be deleted the soonest possible.
 
+As a User, you have certain obligations imposed by applicable law and regulations:
 
-  
-E-mail non-disclosure
-
-Our system stores your e-mail addresses on our server in a secured location. These e-mail addresses are kept on the server for granting access to the account. These addresses are yours, not the property of Zevera. 
-
-Zevera Customer Support team may examine these lists as well as the account files for support and troubleshooting purposes. They also may examine the files stored by the users in case of abuse reporting. 
-
-Zevera will never use or sell these e-mail addresses and files to anyone; any attempt to access your e-mail addresses without your authorization will be prosecuted. 
-
-We will only use your email to send the service and support letters. You may address the support team with any questions and problems. We will make sure to process your request as soon as possible. 
-
-  
-Anti SPAM Policy
-
-The e-mail information we collect is never sold, rented out, leased, traded, swapped, marketed, exchanged, bartered, distributed, or disclosed in any way. Zevera and its users agree to never initiate any SPAM emailing.   
+  1. You must, at all times, respect the terms and conditions of the then-current Privacy Policy and the Terms of Use. This includes respecting all intellectual property rights which may belong to third parties.
+  2. You must not download or otherwise disseminate any information which may be deemed to be injurious, violent, offensive, racist or xenophobic.
 
 
-  
-Third Party Web Sites
 
-The Zevera website may contain links to Internet sites and services that are maintained by third parties. These sites may have privacy and security policies that are different from those followed by Zevera. Zevera has no control over these sites and is not responsible or liable for the policies and practices followed by such third parties. When you visit any site outside www.zevera.com this Privacy Policy is no longer valid, while the Privacy Policy of the current site you are visiting comes into force.   
+Any violation of these guidelines may lead to the restriction, suspension or termination of your account by Zevera, as we take these principles seriously and consider them to be the basis on which our Users adhere to the Zevera site and the services which it offers.
 
+** Changes to this Policy**
 
-  
-Contact Us
+Zevera.com may from time to time revise its privacy policy. You should therefore periodically visit this page, so you are aware of any such revisions. We will not, however, use your existing information in a manner not previously disclosed. You will be advised and have the opportunity to opt out of any new use of your information. 
 
-If you have any questions or comments about our Privacy Policy, please contact us at [support@zevera.com](mailto:support@zevera.com). 
+If you have questions or concerns regarding this statement, you should first contact our site coordinator at [info@zevera.com](mailto:info@zevera.com) **.**
