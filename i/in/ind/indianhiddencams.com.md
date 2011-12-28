@@ -1,36 +1,88 @@
-> *The following text is extracted and transformed from the indianhiddencams.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206162601id_/http%3A//www.indianhiddencams.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianhiddencams.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228040055id_/http%3A//www.indianhiddencams.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
-**PRIVACY POLICY** **STATEMENT**   
+We can be reached via e-mail at [ support@247mg.com](mailto:support@247mg.com)
 
+This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this site. This is an adult site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this site.
 
-* * *
+This site does not knowingly seek or collect any personal information or data from persons under the age of 18.
 
-We have created this Privacy Policy to demonstrate our dedication to respecting privacy. This Privacy Policy sets out our practices with respect to personal information collected regarding visitors and subscribers (collectively referred as "you") of this Site. This Site is an adult website and membership is solely restricted to adults; persons under the age of eighteen are strictly prohibited from this Site and we do not intentionally collect information on individuals under the age of eighteen. By visiting or subscribing to this Site, you agree and consent to the terms of this Privacy Policy as amended from time to time, as well as the terms and conditions of this Site. 
+Notice - Use of website by the subscriber constitutes the subscriber's express assent to the use of personal information collected by site.
 
-### Non-Personal Information and Cookies 
+CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS POLICY STATEMENT.
 
-Certain non-personal information may be collected from visitors to this Site including, but not limited to, their browser type, operating system, IP address, and the domain name from which they accessed the Site. Other non-personal information may be collected such as browsing behaviour, date and time of visit, the pages visited; the time spent viewing the Site, the number of times the visitor returns to the Site, and click-stream data. We do not track any information about visitors once they leave our Site. We may use cookies to collect this information. We may also allow unaffiliated third parties, such as advertisers, to serve cookies to visitors of our Site. You are always free to decline cookies, but in doing so they may not be able to use certain features on our Site. 
+IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE.
 
-### Use of Information 
+ _ **What Information About Subscribers is Collected?**_
 
-We collect personal information so that we may custom tailor the web experience for each subscriber and offer the best products and services to meet the needs of each subscriber. 
+When any adult consumer signs-on as a member or subscriber of this site that consumer will be required to provide certain personal as well as demographic information which includes the subscriber's name, e-mail address, zip code, country, username, and password. This site collects any and all such information and includes it in its customer database.
 
-We may use information collected from visitors to our Site for any of the following purposes: (1) to send visitors information and promotional materials about our company, which will not continue if opted out of, (2) to send visitors information and promotional materials from our marketing partners and third parties (3) to deliver targeted display advertisements and offers by email, which will not continue if opted out of (4) to contact visitors to our Site when necessary, (5) to allow one-click purchases or access to proprietary content by pre-populating fields, within registration or other transaction screens, with a visitor's name, billing address, all as provided by that visitor, (6) to help diagnose problems with our server, (7) to administer our Site, (8) to conduct internal reviews of our Site (e.g., to determine the number of visitors to the Site), (9) to help us better understand visitors' use of our Site, and (10) to protect the security or integrity of our Site. 
+If the site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the site and included in its customer database.
 
-Since part of the personal information that is collected and safeguarded by us is your email address, we try very hard to respect your time and privacy by controlling and limiting the frequency of mailings. If you receive a mailing from us or one of our marketing partners, it is because your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future, or you have registered or purchased or otherwise have an existing relationship with us. 
+If a subscriber sends any personal communication or correspondence, by any means, to the site, or any of its employees, agents or representatives, the site may collect any information regarding that communication and include that information in its customer database.
 
-There may be occasions when you will be presented with special offers either from us or from third-party service or content providers, which may include communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers"). Your consent to this Privacy Policy acts as your consent to receive these occasional mailings by us and by our third party service or content providers. 
+The site may also automatically collect traffic and click-through data as well as information regarding the online behavior of subscribers by the use of "cookies" or other programming means - any information about subscribers collected by the site through the use of cookies or other programming means will generally not be associable to the specific user in any way.
 
-The Site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have ads or links on the Site. This Site does not control, monitor or endorse the information gathering practices or Privacy Policies of any of those third-party websites. Whenever applicable, each subscriber should seek to read the Privacy Policy of any third-party website provider that has an advertising banner, advertises or has a link on the Site. 
+You may obtain further information about "cookies" and how they function at: [ http://www.cookiecentral.com/](http://www.cookiecentral.com/).
 
-If you have received unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to [support@indianhiddencams.com](mailto:support@indianhiddencams.com)
+ _ **Use of Personal Subscriber Information.**_
 
-### Security 
+By the subscriber's use of the site, the subscriber expressly agrees that the site may use any personal information that has been provided by the subscriber or that has been collected by the site about the subscriber for any purpose, including without limitation, technical, administration, research and development, customer administration, marketing, trading in personal data, age verification, promotional and advertising use by the site or third parties authorized to use the information by the site.
 
-This Site has security measures in place to protect the loss, misuse and alteration of the information under our control. As for all other information, visitors and subscribers should consider this communication and information to be non-confidential, and consequently, we assume no responsibility or liability if any information relating to any visitor or subscriber is intercepted and/or used by an unintended recipient. 
+By the subscriber's use of the site, the subscriber expressly agrees that the site may, in its sole discretion share, disclose, transfer, rent, license or sell any of the personal information about subscribers that it has gathered or collected with affiliated or unaffiliated third parties.
 
-### Acceptance of these Terms 
+Please note that personal information about a subscriber may be collected by a third-party web service provider that has an advertising banner or link on the site.
 
-By visiting or subscribing to this Site, you agree to the practices described in this Privacy Policy. We may at any time revise or amend any of these terms and conditions. You are bound by any such revisions and should therefore periodically visit this page to review the then-current terms and conditions to which you are bound. To the extent that any of the third-party sites accessible through our Site (such as our advertisers) have different privacy practices from those stated in this Privacy Policy, those third-party privacy practices govern the collection and use of information you provide when visiting those sites. We are not responsible for the policies, content, and practices of other companies which may collect personal information as a third-party web service provider that has an advertising banner or link on the Site.
+The site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have banner ads or links on the site. This site does not control, monitor or endorse the information gathering practices or privacy policies of any of those third-party websites.
+
+Whenever applicable, each subscriber should seek to read the privacy policy of any third-party website provider that has an advertising banner, advertises or has a link on the site.
+
+ _ **Security of Personal Information Collected by the site.**_
+
+Consistent with the policies set forth in this privacy statement, the site has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the site.
+
+All subscribers should consider any information provided to or collected by the site as **non-confidential** , and consequently the site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient.
+
+ _ **"OPT-IN" and "OPT-OUT" Provisions.**_
+
+There may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers").
+
+"OPT-IN" -- Some offers may be presented to the subscriber with the option to express the subsciber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes" the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties.
+
+"OPT-OUT" -- Other offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
+
+ _ **"OPT-OUT" Revocation Procedure.**_ The site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive offers by sending an e-mail to [support@247mg.com](mailto:support@247mg.com) , clearly stating that the subscriber has revoked consent to receive any future offers.
+
+This website (the "site") is licensed and owned by  Yellowplum Ltd Stasikratous, 16, 7th Floor, Office 701, 1065, Nicosia, Cyprus.  We don't accept any post at this address, if you need to contact us you can only contact us by E-Mail: [support@247mg.com](mailto:support@247mg.com) _**Data Controller.**_
+
+The Data Controller for all personal information collected about subscribers of the site can be reached by e-mail at [support@247mg.com](mailto:support@247mg.com) . The Data Controller has the authority to resolve all issues regarding the collection, modification, correction, deletion and use of the personal information that has been collected by the site.
+
+ _ **Review of Personal Information by Subscriber/Means of Challenging Data.**_
+
+A subscriber to this site can review any personal information collected by the site relating to that subscriber by sending an e-mail to the site's DATA CONTROLLER at [support@247mg.com](mailto:support@247mg.com) , clearly stating that the subscriber wishes to review the subscriber's personal information which has been collected by the site.
+
+The individual subscriber shall have the following rights with respect to any personal information gathered by the site:
+
+  * to obtain from a data controller, or otherwise, confirmation of whether or not the data controller has data relating to him;  
+
+  * to have communicated to him, data relating to him within a reasonable time; at a charge, if any, that is not excessive; in a reasonable manner; and in a form that is readily intelligible to him;  
+
+  * to be given reasons if a request made under subparagraphs(a) and (b) is denied, and to be able to challenge such denial; and  
+
+  * to challenge data relating to him and, if the challenge is successful to have the data erased, rectified, completed or amended.
+
+  
+_**Terms and Conditions of Membership.**_
+
+Each subscriber should carefully read each of the terms and conditions of membership of this site. By accepting membership to this site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this site to use information that it has gathered from subscribers.
+
+In the event of any conflicts between the membership terms and conditions and this privacy policy statement, the provisions of this privacy policy shall control.
+
+**_Refund Policy._**
+
+All Sales Are Final! 
+
+We 
+
+_will not_ issue refunds for any website membership you have purchased. Therefore, we are making our refund policy clear up front: _There will be no refunds for any reason_
