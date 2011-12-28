@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naag.org privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501171824id_/http%3A//www.naag.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naag.org privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228130752id_/http%3A//www.naag.org/privacy_policy.php) for the most accurate reproduction.*
 
 # NAAG | Privacy Policy
 
