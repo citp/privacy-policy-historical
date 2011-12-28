@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clickmeter.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530122820id_/http%3A//www.clickmeter.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickmeter.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228095358id_/http%3A//www.clickmeter.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# ClickMeter - Privacy
+# Privacy policy
 
 ClickMeter (+ADV srl) shall not make use of your personal details without your permission, except where necessary to supply the services expressly requested by you.
 
