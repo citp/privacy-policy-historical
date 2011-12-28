@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tkmaxx.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521170135id_/http%3A//www.tkmaxx.com/page/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tkmaxx.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228133909id_/http%3A//www.tkmaxx.com/page/privacynotice) for the most accurate reproduction.*
 
 # Privacy Notice
 
-**Last updated: 13th April 2011**
+**Last updated: 13th December 2011**
 
 Whenever you shop with us or make an enquiry to us you may share personal information with us. This Policy sets out how we collect this information and what we do to make sure it is safe in our hands. TK Maxx and HomeSense are trading names of TJX UK. 
 
@@ -42,6 +42,7 @@ The sort of information we collect depends on what you need us to do for you, or
   * Other personal details such as date of birth, gender and shopping habits appropriate to a specific promotion or competition
   * Footage of you that is captured on CCTV when you are on our premises. We use CCTV for safety and security purposes and for the prevention and detection of crime
   * Your contact details if you enter a competition
+  * Your signature and other appropriate information when you bring a return to our store to acknowledge receipt of the refund and help us guard against theft
 
 
 
@@ -59,7 +60,7 @@ You can assist with protection by ensuring that if you create a password to acce
 
 ## How can you get access to any information we have about you?
 
-You may request a copy of the personal information held about you, and you have the right to have any inaccuracies on record about you corrected. TJX charges £10 for UK requests and will require you to prove your identity before providing any data. Send any requests for access, or queries regarding access, to the Data Protection Officer, TJX Europe, 50 Clarendon Road, Watford, W17 1TX or email [data-protection@tjxeurope.com](mailto:data-protection@tjxeurope.com).
+You may request a copy of the personal information held about you, and you have the right to have any inaccuracies on record about you corrected. TJX charges £10 for UK requests and will require you to prove your identity before providing any data. Send any requests for access, or queries regarding access, to the Data Protection Officer, TJX Europe, 50 Clarendon Road, Watford, WD17 1TX or email [data_protection@tjxeurope.com](mailto:data_protection@tjxeurope.com).
 
 ## Our mailing list - getting on and getting off!
 
@@ -82,6 +83,7 @@ We use third parties to perform services on our behalf for example:
   * When you use our website to make a purchase of goods or evouchers. Our online shop is provided by Venda. We chose Venda to provide this expertise for us because of their security certification.
   * When you buy Store Gift cards from our website. Our store gift cards are provided by Voucher Express who will ask for the relevant details to take payment for a gift card and send it to the recipient.
   * When you apply for a job with us online. See How do we Protect your Information when you Apply for a Job?
+  * When we ask you to give us independent feedback on our products and services
 
 
 
