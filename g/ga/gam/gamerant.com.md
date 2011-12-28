@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamerant.com privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307084631id_/http%3A//gamerant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerant.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228092527id_/http%3A//gamerant.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Game Rant
+# Privacy Policy | Game Rant
 
 This is the web site of _Game Rant_.
 
@@ -38,4 +38,5 @@ Consumers can access this information by e-mail us at the above address.
 
 Consumers can have this information corrected by sending us e-mail at the above address.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA’s Committee on Ethical Business Practices at mgoldberger@the-dma.org, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA’s Committee on Ethical Business Practices at mgoldberger@the-dma.org, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.  
+
