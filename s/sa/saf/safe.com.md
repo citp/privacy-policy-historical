@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safe.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630192205id_/http%3A//www.safe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safe.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229005013id_/http%3A//www.safe.com/privacy) for the most accurate reproduction.*
 
 # Safe Software - Privacy
 
