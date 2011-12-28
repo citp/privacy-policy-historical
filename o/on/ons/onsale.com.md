@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the onsale.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517204107id_/http%3A//onsale.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onsale.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228202847id_/http%3A//www.onsale.com/page/Privacy-Policy) for the most accurate reproduction.*
 
-# OnSale
+# 
 
-## Last Revised: December 23, 2005
+Last Revised: December 23, 2005
 
-We at OnSale ("OnSale", "we" or "us") understand that making purchases online involves a great deal of trust on your part. We take that trust seriously, and, as a result, we seek to ensure the security of your personal information online. This privacy policy is an effort to answer your privacy-related questions. If you have questions that are not addressed herein, please submit them to us by sending an email to [webmaster@onsale.com](mailto:webmaster@onsale.com?subject=RE:)
+We at OnSale ("OnSale", "we" or "us") understand that making purchases online involves a great deal of trust on your part. We take that trust seriously, and, as a result, we seek to ensure the security of your personal information online. This privacy policy is an effort to answer your privacy-related questions. If you have questions that are not addressed herein, please submit them to us by sending an email to [webmaster@onsale.com](mailto:webmaster@onsale.com). 
 
 The purpose of this privacy policy (the "Policy") is to help you understand what kinds of personally identifiable information we may gather about you when you visit the OnSale Web site located at www.onsale.com and related sub-domains (the "Site"), how we may use that information, whether we will disclose it, and how you can correct or update it. We note that this Policy sets forth our online information collection and use policies under U.S. law. The Site is intended for use by residents of the U.S. who are over the age of 18. We do not knowingly collect personally identifiable information from children (that is, minors younger than thirteen years of age). 
 
@@ -27,13 +27,11 @@ To assist you with your review of our Policy, we have provided answers to questi
   * Sweepstakes and Promotions
   * Co-branded Sites: Links to Other Sites
   * Online vs. Offline Practices
-  * Contacting OnSale
+  * Contacting OnSale 
 
 
 
-Return to top
-
-## What Personal Information We Collect
+What Personal Information We Collect
 
 OnSale collects personally identifiable information that you specifically and voluntarily provide on the Site or by email to OnSale. Personally identifiable information ("PII") is information that identifies you as a specific individual, for example, your name, company name, account number, physical or email address, and phone number plus other information that personally identifies you including your industry, the number of employees at your company, and purchase history. The Site includes both public areas, open to all visitors, and private areas that are open only to those visitors who choose to register. In addition, visitors can sign up on the Site to request email newsletters and other information from OnSale. OnSale collects PII from you when you: 
 
@@ -46,13 +44,11 @@ OnSale collects personally identifiable information that you specifically and vo
 
 
 
-Return to top
-
-## How We Use the Personal Information We Collect
+How We Use the Personal Information We Collect
 
 We use the PII that you provide to us in order to 1) fulfill requests for products, services and/or information, 2) provide customer service, 3) offer new products or services, 4) measure and improve the effectiveness of our Site and our marketing endeavors, 5) tailor our online offerings to your preferences, 6) administer promotions or surveys, and 7) achieve other business purposes as permitted under applicable law. 
 
-When you make a purchase on our Site we collect credit card information including card number, card type, cardholder name and billing address, and expiration date, in order to bill you for purchases made through OnSale. [Please review our Credit Card Policy](https://web.archive.org/web/20110517204107id_/http%3A//onsale.com/credit-card-policies.php) for additional information. 
+When you make a purchase on our Site we collect credit card information including card number, card type, cardholder name and billing address, and expiration date, in order to bill you for purchases made through OnSale. Please review our [Credit Card Policy](http://store.onsale.com/n/Payment-And-Pricing/navLinks-160) for additional information. 
 
 OnSale may share PII with third parties for marketing and other business of OnSale and our affiliates. For example, OnSale may disclose PII to consultants, professional advisors and contractors who perform services on our behalf. At times, OnSale may seek to validate the PII we have collected via an audit by a third party designed to determine the accuracy of and/or to update the information collected. We may also combine data that we collect online with data collected offline (such as through purchases made through one of our catalogs), or with data provided by other parties. 
 
@@ -62,15 +58,11 @@ OnSale may share PII collected from our visitors and customers with our affiliat
 
 In the event that we sell or otherwise transfer to a third party assets related either (a) to the Site or (b) to one or more of our businesses, divisions or affiliated companies, we reserve the right to also transfer any and all information (including any PII) associated with the Site and/or any business, division or affiliated company to such third party. 
 
-Return to top
-
-## Special Notification for California Residents
+Special Notification for California Residents
 
 Individual customers who reside in California and have provided their PII to OnSale may request information about our disclosures of certain categories of PII to third parties for their direct marketing purposes. Such requests may be directed to Mailing Management Department, 2555 W 190th St, Torrance, CA 90504. Within thirty days of receiving such a request, we will provide a list of the categories of our customers' PII that have been disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of those third parties. This type of request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the mailing address specified in this paragraph. 
 
-Return to top
-
-## Marketing Communications: Opting Out
+Marketing Communications: Opting Out
 
 When you provide PII to us, including when registering to receive email newsletters, catalog subscriptions or other information, or to make a purchase, OnSale provides you with the opportunity to opt-out of having your PII used by OnSale to send you advertising or promotional materials. Unless you have opted out of receiving such marketing materials, OnSale may use your PII to forward you, via email or mail, advertisements concerning OnSale products, services, special promotions, surveys or other opportunities from OnSale that we think may be of interest to you. Such advertisements may also concern third party companies' products and services, including companies in industries such as hardware and software, and other providers of the types of products that are sold or featured on the Site. 
 
@@ -78,35 +70,25 @@ OnSale has partnered with unaffiliated third parties to offer our customers and 
 
 Should you wish to change your preferences regarding the marketing information that you receive from OnSale or its affiliates, or would prefer that we not share your PII with unaffiliated third parties for their direct marketing purposes, please refer to the paragraph below entitled "Correcting/Updating Your Personal Information and preferences.". 
 
-Return to top
+Cookies
 
-## Cookies
+Upon visiting our Site we will assign you a unique ID in the form of a "cookie". A cookie is a piece of information that our server places on your computer's hard drive, which OnSale may associate with your PII when you log on to the site. Cookies are used for such purposes as facilitating and personalizing your shopping and ordering experience, keeping track of your shopping basket during your visit, helping diagnose problems with our server, and administering our Site. We may use the information collected through cookies for marketing purposes to inform you of special offers, better understand your needs or answer your questions. For more information about cookies, please see our Cookie FAQs. NOTE: You can control how and whether cookies will be accepted by your web browser, and you may remove them from your computer at any time at your discretion. 
 
-Upon visiting our Site we will assign you a unique ID in the form of a "cookie". A cookie is a piece of information that our server places on your computer's hard drive, which OnSale may associate with your PII when you log on to the site. Cookies are used for such purposes as facilitating and personalizing your shopping and ordering experience, keeping track of your shopping basket during your visit, helping diagnose problems with our server, and administering our Site. We may use the information collected through cookies for marketing purposes to inform you of special offers, better understand your needs or answer your questions. For more information about cookies, please see our [Cookie FAQs](http://www.onsale.com/n/Onsale-Privacy-Policy/msc-115#). NOTE: You can control how and whether cookies will be accepted by your web browser, and you may remove them from your computer at any time at your discretion. 
-
-Return to top
-
-## Web Beacons
+Web Beacons
 
 Some OnSale Web pages and HTML-formatted e-mail newsletters may use Web beacons to compile aggregate statistics about website usage. A Web beacon is an electronic image, often called a single-pixel (1x1) or clear GIF that is ordinarily not visible to the site visitor. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page or image view, and a description of the page where the Web beacon is placed. When used in an e-mail, they can tell us whether an e-mail has been opened. 
 
-Return to top
-
-## How We Protect Your Personal Information
+How We Protect Your Personal Information
 
 To help ensure the security of your PII, OnSale seeks to use security technology and procedures, which are reviewed periodically. We use encryption technology and Secure Socket Layers ("SSL") in all areas where your personal and account information is required. This means that the PII you submit to us via our Site is encrypted by your computer, and then decrypted again on our side, discouraging others from accessing your private information during transmission. If your browser does not support SSL or if you are unable to establish a secure connection due to a company firewall, please call us at (888) 760-0300 to place your order by phone. 
 
 In addition, your personal, account information, and transaction history are kept behind our firewall. 
 
-Return to top
+Correcting/Updating Your Personal Information and Preferences
 
-## Correcting/Updating Your Personal Information and Preferences
+If you would like to opt-out of having your PII shared with unaffiliated third parties for their direct marketing purposes, or to make changes to your PII or to your preferences regarding the marketing information that you receive from OnSale or our affiliates, please click [here](http://store.onsale.com/n/Affiliate-Network/msc-67). We will use reasonable affiliates, please [click here](http://store.onsale.com/o/Update-Preferences/msc-96). We will use reasonable efforts to comply with your request. Please note that we contact you in order to be sure that we are updating the appropriate information. When requesting that PII be updated or that your preferences be changed, please keep in mind that until the change is implemented, you may still receive email and/or physical mailings from us. Furthermore, there will be residual information that will remain within OnSale databases, access logs and other records, which may contain such PII. The residual information will not be used for commercial purposes; however, OnSale reserves the right, from time to time, to re-contact former customers or visitors to the Site. Please note that we are not responsible for retracting your PII from third parties with whom we have shared your information pursuant to the terms and conditions of this Policy as in effect from time to time. 
 
-If you would like to opt-out of having your PII shared with unaffiliated third parties for their direct marketing purposes, or to make changes to your PII or to your preferences regarding the marketing information that you receive from OnSale or our affiliates, please click here. We will use reasonable affiliates, please [click here](http://store.onsale.com/o/Update-Preferences/msc-96). We will use reasonable efforts to comply with your request. Please note that we may need to contact you in order to be sure that we are updating the appropriate information. When requesting that PII be updated or that your preferences be changed, please keep in mind that until the change is implemented, you may still receive email and/or physical mailings from us. Furthermore, there will be residual information that will remain within OnSale databases, access logs and other records, which may contain such PII. The residual information will not be used for commercial purposes; however, OnSale reserves the right, from time to time, to re-contact former customers or visitors to the Site. Please note that we are not responsible for retracting your PII from third parties with whom we have shared your information pursuant to the terms and conditions of this Policy as in effect from time to time. 
-
-Return to top
-
-## Other Information We Collect
+Other Information We Collect
 
 Information About Your Computer and Your Site Activities: When a visitor comes to our Site we collect and aggregate information about the visitor's computer (such as its IP address, operating system and browser software), and click-stream information (such as the address (or "URL") of the Web site that the visitor came from before visiting our Site, which pages of the Site were visited, the order in which they were visited and which hyperlinks were clicked) for the purpose of assessing our Site traffic and the effectiveness of our Site content, as well as to help diagnose problems with our servers. This data allows us to improve the quality of your visit by streamlining your ability to navigate the Site and to develop featured programs and content that will be of interest to our customers and Site visitors. 
 
@@ -114,32 +96,14 @@ Aggregated Information: OnSale may collect and aggregate demographic information
 
 Information About Corporate and Other Organizational Customers: We may collect information pertaining solely to corporations, governmental or educational entities, or other business or not for profit entities, such as, for example, a company's address. We may use any such corporate information without restriction. In an effort to better support our customers by delivering more relevant marketing communications, OnSale will, on occasion, purchase third party information about businesses and other entities that are our customers. The company information we purchase may include number of employees, or annual sales volume and company structure. This is used to customize such customers' online/offline experience and to supplement our internal sales information to better serve you. 
 
-Return to top
-
-## Advertisers
+Advertisers
 
 OnSale may use outside advertising companies ("Advertisers") to serve advertisements on the Site. Please be advised that such Advertisers may use cookies or other technologies to enable such Advertisers to record which ads your browser has seen, and which Site pages you may have been viewing when the ads were delivered. 
 
-Return to top
+Co-branded Sites: Links to Other Sites
 
-## Sweepstakes and Promotions
+The Site offers certain features that are provided and/or hosted by third parties, but that may be presented on pages displaying OnSale's branding. For example, OnSale-branded pages featuring investor relations information about OnSale may be created and operated by a third party data provider specializing in such information. The Site may also contain links to other Web sites, or other affiliated sites (e.g., event sponsors, or companies offering rebates or other promotions through our Rebates & Coupons page). We are not responsible for the privacy practices or the content of any such Web sites, including such sites' use of any information (such as IP number, browser type or operating system) collected when visitors to the Site click through links to those sites. Even though such information might not identify you personally, we strongly encourage you to become familiar with the privacy practices of any third party sites.
 
-We may from time to time offer sweepstakes, contests, or other similar promotions on the Site. Additional PII may be required in order to participate in such promotions, so that we may, for example, verify entrants' eligibility and identity and notify winners. Participation in such promotions is completely voluntary. If and when we sponsor such promotions, we will post relevant privacy information in the respective "official rules" and/or registration areas for such promotions. That privacy information, to the extent it conflicts with this Policy, will govern that particular sweepstakes, contest or promotion -- please remember to read it carefully. 
+Online vs. Offline Practices
 
-Other companies may offer sweepstakes, contests or similar promotions through our Site, including through the Rebates & Coupons page. OnSale is not responsible for any such promotions offered by third parties. Please read all related terms and conditions carefully, or contact the applicable third party for more information. The collection and use of PII in connection with such promotions is governed by such third party's privacy policy, and not by the policies of OnSale. 
-
-Return to top
-
-## Co-branded Sites: Links to Other Sites
-
-The Site offers certain features that are provided and/or hosted by third parties, but that may be presented on pages displaying OnSale's branding. For example, OnSale-branded pages featuring investor relations information about OnSale may be created and operated by a third party data provider specializing in such information. The Site may also contain links to other Web sites, or other affiliated sites (e.g., event sponsors, or companies offering rebates or other promotions through our Rebates & Coupons page). We are not responsible for the privacy practices or the content of any such Web sites, including such sites' use of any information (such as IP number, browser type or operating system) collected when visitors to the Site click through links to those sites. Even though such information might not identify you personally, we strongly encourage you to become familiar with the privacy practices of any third party sites. 
-
-Return to top
-
-## Online vs. Offline Practices
-
-Please note that this Policy applies solely to our online information-gathering and dissemination practices in connection with the Site, and does not apply to any of our practices conducted offline other than as expressly set forth in this Policy. 
-
-Return to top
-
-Return to top
+Please note that this Policy applies solely to our online information-gathering and dissemination practices in connection with the Site, and does not apply to any of our practices conducted offline other than as expressly set forth in this Policy.
