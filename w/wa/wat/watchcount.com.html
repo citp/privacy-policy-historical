@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the watchcount.com privacy policy that was archived on 2011-01-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110101161541id_/http%3A//www.watchcount.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the watchcount.com privacy policy that was archived on 2011-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228082414id_/http%3A//www.watchcount.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -40,13 +40,45 @@
 
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="JavaScript">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="JavaScript">
 <!--
+
+
+var blinkInitialDelay = 0 ;
+var blinkCount = 0 ;
+var blinkDelay = 0 ;
+var blinkTagID = '' ;
+
+
+function object_blink() {
+
+   var theTag = document.getElementById(blinkTagID) ;
+
+   if (blinkCount <= 0) {
+      return ;
+   } // end-if: done
+   else {
+      theTag.style.visibility = ( (theTag.style.visibility == 'hidden') ? ('visible') : ('hidden') ) ;
+      blinkCount-- ;
+      var doItAgain = setTimeout( 'object_blink()' , blinkDelay ) ;
+   } // end-if: do stuff
+
+} // end-function: object_blink()
+
+
 function framebreakout() {
    if (top.location != location) {
       // top.location.href = document.location.href ;
-   }
-}
+   } // end-if
+} // end-function: framebreakout()
+
+
+function MAP_popup() {
+   var msgtxt = "A note from eBay:\r\n\r\nSellers have the right to set their own prices independently, but some manufacturers place restrictions on how those prices may be displayed or communicated to others. Because the seller's price on this item is below the manufacturer's \"minimum advertised price\" the manufacturer may not allow the seller to show you the seller's lower price until you take further action, such as clicking on a drop-down menu, placing the item in your cart, or proceeding to checkout. The steps required depend on the terms of the manufacturer's minimum advertised price policy. Taking these steps allows eBay to show you the seller's great price consistent with eBay's goal of always bringing consumers like you the lowest possible prices on the widest selection of products.\r\n\r\nYou should know that by taking these steps, you won't be required to purchase the product. You can always simply remove the item from your cart or not proceed with checkout if you decide not to buy the item.\r\n\r\n( ... and a note from WatchCount.com: Thanks for making it through the above legal stuff! )\r\n" ;
+   alert(msgtxt) ;
+} // end-function: MAP_popup()
+
+
 //-->
 </script>
 
@@ -54,8 +86,6 @@ function framebreakout() {
 </head>
 
 <body onload="framebreakout();" class="bg">
-
-<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US"></script>
 
 <div align="center" style="width: 100%;">
 
@@ -69,11 +99,11 @@ function framebreakout() {
 <table align="center" class="centeringtable"><tbody><tr>
 
 <td class="centeringtablecell" style="text-align: left; width: 21%;">
-<a href="./go/?link=eBay-cac" class="imagelinks" target="_blank"><img src="./images/eBay-cac.gif" class="cac" alt="eBay Compatible Application logo" title="We're an official eBay Compatible Application"></a>
+<a href="./go/?link=eBay-cac" class="imagelinks" target="_blank" rel="nofollow"><img src="./images/eBay-cac.gif" class="cac" alt="eBay Compatible Application logo" title="We're an official eBay Compatible Application"></a>
 </td>
 
 <td class="centeringtablecell" style="text-align: center; width: auto; vertical-align: middle;" align="center">
-<a href="./" class="imagelinks" target="_top"><img src="./images/WCC-2.50.png" class="mainlogo" alt="WatchCount.com" title="WatchCount.com"></a>
+<a href="./" class="imagelinks" target="_top"><img src="./images/wcc-logo-5.00.jpg" style="margin: 2px 0px 0px 0px; border: 0px none;" alt="WatchCount.com" title="WatchCount.com"></a>
 </td>
 
 <td class="centeringtablecell" style="text-align: right; width: 22%;">
@@ -86,14 +116,14 @@ function framebreakout() {
 
 <td style="vertical-align: top; padding: 0px 0px 0px 0px; border: 0px none; text-align: right; width: auto;">
 <div style="text-align: right; vertical-align: top; font-family: Verdana,Tahoma,Arial; font-size: 8pt; font-weight: bold; color: #0033CC; line-height: 140%;">
-<a href="./go/?link=eBay" class="underlinedlinks" title="WatchCount.com is currently reporting for this eBay site." target="_blank">
+<a href="./go/?link=eBay" class="underlinedlinks" title="WatchCount.com is currently reporting for this eBay site." target="_blank" rel="nofollow">
 eBay.com<br><span class="unboldface">USA</span><br>
 </a>
 </div>
 </td>
 
 <td style="vertical-align: top; padding: 1px 3px 0px 6px; border: 0px none; text-align: right; width: auto;">
-<a href="./go/?link=eBay" class="underlinedlinks" target="_blank"><img src="./images/flags/US.jpg" style="float: none; border: 0px none; padding: 0px; margin: 0px; vertical-align: top;" alt="USA Flag" title="WatchCount.com is currently reporting for this eBay site."></a><br>
+<a href="./go/?link=eBay" class="underlinedlinks" target="_blank" rel="nofollow"><img src="./images/flags/US.jpg" style="float: none; border: 0px none; padding: 0px; margin: 0px; vertical-align: top;" alt="USA Flag" title="WatchCount.com is currently reporting for this eBay site."></a><br>
 </td>
 
 </tr><tr>
@@ -127,7 +157,7 @@ eBay.com<br><span class="unboldface">USA</span><br>
 
 <table class="menubar"><tbody><tr>
 
-<td class="menubarcells" style="width: 14%;" align="center">
+<td class="menubarcells" style="width: 13%;" align="center">
    <div class="CSSmenu-nav"><ul><li>
       <div class="CSSmenu-toplink"><a href="./" title="Home Page / Most Watched eBay Items: Basic Search" target="_top">Search</a></div>
       <div class="submenu">
@@ -135,10 +165,10 @@ eBay.com<br><span class="unboldface">USA</span><br>
             <li><a href="./" title="Home Page / Most Watched eBay Items: Basic Search" target="_top">Most Watched: Basic</a></li>
             <li><a href="./advanced.php" title="Most Watched eBay Items: Advanced Search" target="_top">Most Watched: Advanced</a></li>
             <li><a href="./bids.php" title="eBay Auction Items With the Most Bids" target="_top">Most Bids</a></li>
-            <li><a href="./bids.php?zero" title="Last-minute eBay Deals: Items With No Bids Ending Soon" target="_top">Zero Bids, Ending Soon</a></li>
+            <li><a href="./bids.php?zero" title="eBay Auctions/Items Ending Soon With No Bids" target="_top">No Bids, Ending Soon</a></li>
             <li><a href="./ebay-daily-deal.php" title="Today Only: eBay Daily Deal" target="_top">eBay Daily Deal</a></li>
             <li><a href="./misspelled.php" title="Find Misspelled eBay Items and Auctions" target="_top">Misspelled eBay Items</a></li>
-            <li><a href="./faq.php#ilu" title="Item Lookup" target="_top">Item Lookup</a></li>
+            <li><a href="./faq.php#ilu" title="Item Lookup" target="_top" rel="nofollow">Item Lookup</a></li>
             <li><a href="./search-provider.php" title="WatchCount.com Browser Search Bar/Box Provider" target="_top">Browser Search Bar/Box</a></li>
             <li class="nobottom"><a href="./ie-accelerator.php" title="WatchCount.com IE Accelerator" target="_top">IE Accelerator</a></li>
          </ul>
@@ -147,16 +177,16 @@ eBay.com<br><span class="unboldface">USA</span><br>
    </li></ul></div>
 </td>
 
-<td class="menubarcells" style="width: 14%;" align="center">
+<td class="menubarcells" style="width: 13%;" align="center">
    <div class="CSSmenu-nav"><ul><li>
       <div class="CSSmenu-toplink"><a href="./widget-info.php" title="WatchCount.com Widget" target="_top">Widget</a></div>
       <div class="submenu">
          <ul>
             <li><a href="./widget-info.php" title="WatchCount.com Widget" target="_top">Widget for eBay Sellers</a></li>
-            <li><a href="./widget-faq.php" title="WatchCount.com Widget: FAQ" target="_top">Widget FAQ</a></li>
+            <li><a href="./widget-faq.php" title="WatchCount.com Widget: FAQ" target="_top" rel="nofollow">Widget FAQ</a></li>
             <li><a href="./widget-customization.php" title="WatchCount.com Widget: Customization" target="_top" rel="nofollow">Widget Customization</a></li>
             <li><a href="./ebay-watch-link.php" title="Dynamic Watch Link" target="_top">Dynamic Watch Link</a></li>
-            <li class="nobottom"><a href="./ebay-watch-link-faq.php" title="Dynamic Watch Link: FAQ" target="_top">Dynamic Watch Link FAQ</a></li>
+            <li class="nobottom"><a href="./ebay-watch-link-faq.php" title="Dynamic Watch Link: FAQ" target="_top" rel="nofollow">Dynamic Watch Link FAQ</a></li>
          </ul>
          <div class="submenu-bottom"></div>
       </div>
@@ -169,8 +199,8 @@ eBay.com<br><span class="unboldface">USA</span><br>
       <div class="submenu">
          <ul>
             <li><a href="./newsletter.php" title="WatchCount.com Newsletter Signup" target="_top" rel="nofollow">Newsletter</a></li>
+            <li><a href="./go/?link=fb_fanpage" title="Join/Like the WatchCount.com Fan Page on Facebook" target="_blank">Facebook Fan Page</a></li>
             <li><a href="./go/?link=Twitter" title="Follow WatchCount.com on Twitter" target="_blank">Twitter</a></li>
-            <li><a href="./go/?link=fb_fanpage" title="Join/Like the WatchCount.com Fan Page at Facebook" target="_blank">Facebook Fan Page</a></li>
             <li><a href="./go/?link=GCWCC" title="WatchCount.com Global Conversation" target="_blank">Global Conversation</a></li>
             <li class="nobottom"><a href="./social.php" title="Join WatchCount.com via Google Friend Connect and post public comments." target="_top" rel="nofollow">Comment Wall</a></li>
          </ul>
@@ -179,15 +209,15 @@ eBay.com<br><span class="unboldface">USA</span><br>
    </li></ul></div>
 </td>
 
-<td class="menubarcells" style="width: 18%;" align="center">
+<td class="menubarcells" style="width: 17%;" align="center">
    <div class="CSSmenu-nav"><ul><li>
       <div class="CSSmenu-toplink"><a href="./ebay-wordpress-plugin.php" title="WatchCount.com WordPress Plugin" target="_top">WordPress</a></div>
       <div class="submenu">
          <ul>
             <li><a href="./ebay-wordpress-plugin.php" title="WatchCount.com WordPress Plugin" target="_top">WordPress Plugin</a></li>
             <li><a href="./wp-alerts.php" title="Get Notified About Important WCCWPPI Updates" target="_top" rel="nofollow">Notification Alerts</a></li>
-            <li><a href="./wp-faq.php" title="WCCWPPI: Frequently Asked Questions" target="_top">WP Plugin FAQ</a></li>
-            <li><a href="./wp-docs.php" title="WCCWPPI: Documentation" target="_top">Documentation</a></li>
+            <li><a href="./wp-faq.php" title="WCCWPPI: Frequently Asked Questions" target="_top" rel="nofollow">WP Plugin FAQ</a></li>
+            <li><a href="./wp-docs.php" title="WCCWPPI: Documentation" target="_top" rel="nofollow">Documentation</a></li>
             <li class="nobottom"><a href="./go/?link=wp_gcwccwppi" title="Comment or Ask Questions on Our Support 'Mini-Forum'" target="_blank">Support 'Mini-Forum'</a></li>
          </ul>
          <div class="submenu-bottom"></div>
@@ -195,15 +225,15 @@ eBay.com<br><span class="unboldface">USA</span><br>
    </li></ul></div>
 </td>
 
-<td class="menubarcells" style="width: 13%;" align="center">
+<td class="menubarcells" style="width: 12%;" align="center">
    <div class="CSSmenu-nav"><ul><li>
       <div class="CSSmenu-toplink"><a href="./news.php" title="WatchCount.com News" target="_top">About</a></div>
       <div class="submenu">
          <ul>
             <li><a href="./news.php" title="WatchCount.com News" target="_top">News</a></li>
-            <li><a href="./faq.php" title="Frequently Asked Questions (General)" target="_top">General FAQ</a></li>
+            <li><a href="./faq.php" title="Frequently Asked Questions (General)" target="_top" rel="nofollow">General FAQ</a></li>
             <li><a href="./press-releases.php" title="Company Press Releases" target="_top">Press Releases</a></li>
-            <li><a href="./newsletter-archive.php" title="WatchCount.com Newsletter Archive" target="_top">Newsletter Archive</a></li>
+            <li><a href="./newsletter-archive.php" title="WatchCount.com Newsletter Archive" target="_top" rel="nofollow">Newsletter Archive</a></li>
             <li><a href="./articles.php" title="Various Articles About eBay" target="_top">Articles About eBay</a></li>
             <li><a href="./terms.php" title="WatchCount.com Terms of Service" target="_top" rel="nofollow">Terms of Service</a></li>
             <li><a href="./privacy.php" title="WatchCount.com Privacy Policy" target="_top" rel="nofollow">Privacy Policy</a></li>
@@ -214,7 +244,7 @@ eBay.com<br><span class="unboldface">USA</span><br>
    </li></ul></div>
 </td>
 
-<td class="menubarcells" style="width: 29%;" align="center">
+<td class="menubarcells" style="width: auto;" align="center">
 <form name="changesite" action="./privacy.php" target="_top" method="get" class="site-form" accept-charset="UTF-8">
 <select name="cc" size="1" class="site-select" title="Select an eBay country-site for WatchCount.com to access." onchange="javascript:this.form.submit();">
 <option value="US" selected="selected">eBay.com&nbsp;&nbsp;[USA]</option>
@@ -234,6 +264,7 @@ eBay.com<br><span class="unboldface">USA</span><br>
 <option value="MY">eBay.com.my&nbsp;&nbsp;[Malaysia]</option>
 <option value="IN">eBay.in&nbsp;&nbsp;[India]</option>
 <option value="SG">eBay.com.sg&nbsp;&nbsp;[Singapore]</option>
+<option value="PH">eBay.ph&nbsp;&nbsp;[Philippines]</option>
 </select>
 <input type="submit" value="Change" class="site-button-submit" title="Change WatchCount.com to selected eBay country-site.">
 </form>
@@ -284,8 +315,8 @@ See which eBay auctions have <a href="./bids.php" class="underlinedlinks" title=
 <div class="thinspacing"></div>
 
 <div class="morebox-item" style="display: block;">
-<a href="./bids.php?zero" class="imagelinks" target="_top"><img src="./images/reveal-lmd.png" class="floatleft4" style="margin: 3px 7px 1px -2px;" alt="eBay Auctions With No Bids, Ending Soon" title="Last-Minute 'Hidden' eBay Deals: Auctions With No Bids, Ending Very Soon"></a>
-<a href="./bids.php?zero" class="underlinedlinks" title="Last-Minute 'Hidden' eBay Deals: Auctions With No Bids, Ending Very Soon" target="_top">Last-minute eBay deals</a>: auctions with zero (or few) bids, ending very soon.<br>
+<a href="./bids.php?zero" class="imagelinks" target="_top"><img src="./images/reveal-lmd.png" class="floatleft4" style="margin: 2px 7px 1px -2px;" alt="eBay Auctions/Items Ending Soon with No Bids" title="eBay Auctions/Items Ending Soon with No Bids"></a>
+Last-minute deals: <a href="./bids.php?zero" class="underlinedlinks" title="eBay Auctions/Items Ending Soon with No Bids" target="_top">eBay auctions ending soon</a>, currently with no bids.<br>
 </div>
 
 <div class="thinspacing"></div>
@@ -406,6 +437,15 @@ google_ad_height = 60;
 <!-- End -->
 
 
+<div class="thinspacing"></div>
+
+<!-- Start: Google +1 Button (MW) -->
+<div align="center" class="plusone">
+<g:plusone size="medium" annotation="bubble" href="http://www.watchcount.com/"></g:plusone>
+</div>
+<!-- End: Google +1 Button -->
+
+
 <div class="midspacing"></div>
 
 
@@ -415,27 +455,29 @@ google_ad_height = 60;
 
 <br>
 
-<div class="fineprint" style="margin: 1px 0px 2px 0px;"><span class="boldface">
-:::&nbsp;Please "Like"&nbsp;:::<br>
-:::&nbsp;Us Up Above?&nbsp;:::<br>
-</span></div>
-<img src="http://badge.facebook.com/badge/165153330181913.1838.700869670.png" class="floatnone" style="width: 120px; max-width: 120px;" alt="WatchCount.com on Facebook" title="Please click 'Like' up above if you like us -- thanks so much!"><br>
-
-<div class="thickspacing"></div>
-<div class="midspacing"></div>
-
 <a href="./go/?link=eBay_eSDA" class="imagelinks" target="_blank"><img src="./images/eSDA09-2.png" class="floatnone" title="We received the 2009 eBay Star Developer Award." alt="2009 eBay Star Developer Award"></a><br>
 
 <div class="thickspacing"></div>
 <div class="midspacing"></div>
 
-<a href="./news.php#ECMTA1" class="imagelinks" target="_top"><img src="./images/ecmta-seal2.gif" class="floatnone" title="We've partnered with eCommerce Merchants." alt="eCommerce Merchants Trade Association"></a><br>
+<span class="fineprint"><span class="boldface">As seen in:</span></span><br>
+<a href="./go/?link=aucbyts1" class="imagelinks" target="_blank"><img src="./images/auctionbytes.png" class="floatnone" title="AuctionBytes.com wrote about WatchCount.com." alt="AuctionBytes.com"></a><br>
+
+<div class="thickspacing"></div>
+<div class="midspacing"></div>
+
+<a href="./news.php#CSotD" class="imagelinks" target="_top"><img src="./images/CSotD3.gif" class="floatnone" title="We were featured as Cool Site of the Day." alt="Cool Site of the Day"></a><br>
 
 <div class="thickspacing"></div>
 <div class="midspacing"></div>
 
 <span class="fineprint"><span class="boldface">As heard on:</span></span><br>
-<a href="./go/?link=ebayradio1" class="imagelinks" target="_blank"><img src="./images/ebay-radio1.jpg" class="floatnone" title="eBay Radio spoke highly about us!" alt="eBay Radio"></a><br>
+<a href="./go/?link=ebayradio2" class="imagelinks" target="_blank"><img src="./images/ebay-radio1.jpg" class="floatnone" title="eBay Radio interviewed WatchCount.com" alt="eBay Radio"></a><br>
+
+<div class="thickspacing"></div>
+<div class="midspacing"></div>
+
+<a href="./news.php#ECMTA1" class="imagelinks" target="_top"><img src="./images/ecmta-seal2.gif" class="floatnone" title="We've partnered with eCommerce Merchants." alt="eCommerce Merchants Trade Association"></a><br>
 
 <div class="thickspacing"></div>
 <div class="midspacing"></div>
@@ -447,11 +489,6 @@ google_ad_height = 60;
 
 <span class="fineprint"><span class="boldface">As seen in:</span></span><br>
 <a href="./go/?link=ASR1" class="imagelinks" target="_blank"><img src="./images/ASR1.gif" class="floatnone" title="We're in The Auction Software Review." alt="The Auction Software Review"></a><br>
-
-<div class="thickspacing"></div>
-<div class="midspacing"></div>
-
-<a href="./news.php#CSotD" class="imagelinks" target="_top"><img src="./images/CSotD3.gif" class="floatnone" title="We were featured as Cool Site of the Day." alt="Cool Site of the Day"></a><br>
 
 <div class="thickspacing"></div>
 <div class="midspacing"></div>
@@ -504,9 +541,15 @@ US…815
 <a href="./sitemap.php" class="underlinedlinks" title="Sitemap" target="_top">Sitemap</a>
 </div>
 
-<div class="copyright">Copyright © 2008-2011 WatchCount.com – All Rights Reserved<br></div>
+<div class="copyright">Copyright © 2008-2012 WatchCount.com – All Rights Reserved<br></div>
 
-<div class="trademark">WatchCount.com is not owned or operated by eBay Inc. eBay and the eBay Logo are trademarks of eBay Inc.<br></div>
+<div class="trademark" style="margin: 3px 0px 1px 0px;">
+WatchCount.com is not owned or operated by eBay Inc. eBay and the eBay Logo are trademarks of eBay Inc.<br>
+</div>
+
+<div align="center" style="width: 100%;"><div class="trademark" style="width: 82%;">
+We, or our Affiliates, may receive anonymous referral/sales commissions from eBay after visitors click through to eBay while using our site (at no extra expense to them).<br>
+</div></div>
 
 </td>
 
@@ -521,7 +564,7 @@ US…815
 <a class="addthis_button_favorites"></a>
 <a class="addthis_button_twitter"></a>
 <a class="addthis_button_google"></a>
-<a class="addthis_button_myspace"></a>
+<a class="addthis_button_linkedin"></a>
 <a class="addthis_button_compact"></a>
 </div>
 
@@ -532,11 +575,14 @@ var addthis_config = {
    ui_use_css: true ,
    ui_use_addressbook: true ,
    ui_cobrand: 'WatchCount.com' ,
-   services_compact: 'favorites,live,email,stumbleupon,facebook,delicious,twitter,digg,google,linkedin,myspace,more' ,
+   services_compact: 'favorites,linkedin,email,stumbleupon,facebook,delicious,twitter,myspace,google,live,digg,more' ,
    services_exclude: 'print' ,
    data_track_linkback: true ,
    data_track_clickback: true ,
+   data_track_addressbar: false ,
    data_use_flash: false ,
+   data_ga_property: 'UA-145522-5' ,
+   data_ga_social: true ,
    username: 'PureJTS'
 } ;
 </script>
@@ -566,6 +612,7 @@ var addthis_config = {
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-145522-5']);
   _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -594,8 +641,19 @@ var sc_security="5ec51ea6";
 <br>
 <br>
 
-<img src="http://rover.ebay.com/ar/1/711-53200-19255-0/1?mpt=1293898541&amp;adtype=1&amp;size=1x1&amp;type=1&amp;campid=5335849815&amp;toolid=10034&amp;customid=ePNpixel" style="text-decoration: none; border: 0px; padding: 0px; margin: 0px; width: 1px; height: 1px;" alt="" title=""><br>
+<img src="http://rover.ebay.com/ar/1/711-53200-19255-0/1?mpt=1325060654&amp;adtype=1&amp;size=1x1&amp;type=1&amp;campid=5335849815&amp;toolid=10034&amp;customid=ePNpixel" style="text-decoration: none; border: 0px; padding: 0px; margin: 0px; width: 1px; height: 1px;" alt="" title=""><br>
 <br>
+
+
+<!-- Start: Google +1 Asynchronous JS -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<!-- End: Google +1 Asynchronous JS -->
 
 
 <!-- Start: Google Translate Gadget -->
