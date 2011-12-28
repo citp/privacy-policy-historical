@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabotagetimes.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530163343id_/http%3A//www.sabotagetimes.com/syndication-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabotagetimes.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228091228id_/http%3A//www.sabotagetimes.com/syndication-privacy) for the most accurate reproduction.*
 
 # Sabotage Syndication Privacy Policy
 
