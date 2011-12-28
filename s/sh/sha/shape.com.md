@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shape.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624040318id_/http%3A//www.shape.com/subscribe/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shape.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228040248id_/http%3A//shape.com/newsletters/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Shape Magazine
+# Privacy Policy - Shape Magazine
 
 PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective November, 2010.
 
