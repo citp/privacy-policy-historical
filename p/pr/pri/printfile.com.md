@@ -1,15 +1,11 @@
-> *The following text is extracted and transformed from the printfile.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629064734id_/http%3A//www.printfile.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printfile.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228061655id_/http%3A//www.printfile.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Archival photo storage supplies and products, archival boxes, acid free albums - Privacy Policy
 
+[ ](http://www.printfile.com/holiday-hours.aspx)  
+  
 ---  
-| 
-
-[](https://www.scanalert.com/RatingVerify?ref=www.printfile.com)
-
-[](https://secure.blurb.com/partner/printfile?asset=120x240)
-
-| 
+|  | 
 
 [Home](https://web.archive.org/) > Privacy Policy
 
@@ -27,7 +23,7 @@ In general, you can visit many of our web pages without telling us who you are o
 **Information You Give Us:**  
 Print File, Inc. receives and stores personal information about you when you subscribe to a service, register to receive brochures, or participate in contests, sweepstakes and/or promotions. This information may include your name, shipping/billing address, telephone number, and email. You may choose not to provide such information.
 
-Credit card data and registration information is protected by Secure Sockets Layer ("SSL") or other encryption mechanisms. Online Payment Processing for [www.PrintFile.com](http://www.printfile.com/) is processed by VeriSign, Inc. Print File, Inc. does not store credit card information.
+Credit card data and registration information is protected by Secure Sockets Layer ("SSL") or other encryption mechanisms. Online Payment Processing for [www.PrintFile.com](http://www.printfile.com/) is processed by PayPal Payflow Pro. Print File, Inc. does not store credit card information.
 
 Print File, Inc. cautions visitors to its websites that no network, including the internet, is entirely secure. Accordingly, we cannot be responsible for loss, corruption or unauthorized acquisition of personal information provided to our websites, or for any damages resulting from such loss, corruption or unauthorized acquisition.
 
@@ -51,4 +47,9 @@ Back to top
 |   
 | |   
 |   
----
+---  
+  
+[ ](https://www.scanalert.com/RatingVerify?ref=www.printfile.com)  
+---  
+  
+
