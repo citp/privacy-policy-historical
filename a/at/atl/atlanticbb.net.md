@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlanticbb.net privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626144121id_/http%3A//www.atlanticbb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlanticbb.net privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228102435id_/http%3A//www.atlanticbb.com/privacy.html) for the most accurate reproduction.*
 
 # Atlantic Broadband Web Site Privacy Statement
 
