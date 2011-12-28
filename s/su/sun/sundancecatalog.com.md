@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sundancecatalog.com privacy policy that was archived on 2011-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110409043602id_/http%3A//www.sundancecatalog.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundancecatalog.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228222944id_/http%3A//www.sundancecatalog.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security | Robert Redford's Sundance Catalog
 
@@ -18,9 +18,9 @@ For each visitor to our Web page, our Web server automatically recognizes only t
 
 The information we collect is used to improve the content of our pages, used to notify consumers about updates to our website, shared with other reputable organizations to help them contact consumers for marketing purposes or used by us to contact consumers for marketing purposes. We do not make email addresses available to other organizations for commercial purposes. Persons who supply us with their telephone numbers online will only receive telephone contact from us with information regarding orders they have placed online.
 
-We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart and record past activity at a site in order to provide better service when visitors return to our site. In some cases, our authorized third party partners may use cookies, web beacons or similar technologies on our site to deliver more relevant advertising to consumers.
+We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart and record past activity at a site in order to provide better service when visitors return to our site. In some cases, our authorized third party partners may use cookies, web beacons or similar technologies on our site to deliver more relevant advertising to consumers. You may opt-out of receiving Sundance banner ads on third party sites by clicking the "X" in the upper right hand corner of the ad.
 
-We do not partner with or have special relationships with any ad server companies. As a result of completing a transaction on our site, you will be subscribed to marketing emails, unless you have previously opted out of marketing emails.
+As a result of completing a transaction on our site, you will be subscribed to marketing emails, unless you have previously opted out of marketing emails.
 
 If you do not want to receive email from us in the future, or to modify or change your personal information, click on the "[My Account](https://web.archive.org/account/login.do?method=view)" link located on the top right of each page. All changes to your account can be made there.
 
