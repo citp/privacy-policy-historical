@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airliners.net privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629123222id_/http%3A//www.airliners.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airliners.net privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228152659id_/http%3A//www.airliners.net/privacypolicy) for the most accurate reproduction.*
 
 # Airliners.net Privacy and Information Security Policy
 
