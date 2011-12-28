@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pozible.com privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216081051id_/http%3A//www.pozible.com/index.php/help/i/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pozible.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228123128id_/http%3A//www.pozible.com/index.php/help/i/privacy_policy) for the most accurate reproduction.*
 
 # Pozible | Crowdfunding Creativity
 
