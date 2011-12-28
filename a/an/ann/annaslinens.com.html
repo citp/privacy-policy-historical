@@ -1,109 +1,357 @@
-<!--The following is the downloaded HTML source of the annaslinens.com privacy policy that was archived on 2011-01-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110109105915id_/http%3A//www.annaslinens.com/content/4/privacy-security.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the annaslinens.com privacy policy that was archived on 2011-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228030840id_/http%3A//www.annaslinens.com/content/4/privacy-security.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><!--<![endif]--><head>
  <title>Privacy &amp; Security</title>
  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
  <meta name="keywords" content="Bialetti Cookware, Bialleti, Gibson, Oneida, Anna's Linens, duvet cover, quilts, window treatments, shower curtains, bath accessories, bath accessory, tab curtains, comforters, bedspreads, valance, daybed covers, daybeds, appliance covers, Futon Covers, Down comforters, down Pillows, Country style kitchen curtains">
  <meta name="description" content="Annas Linens, bedding, bath, window treatments, shower curtains, kitchen curtain, Down Comforters and bath accessories at AnnasLinens.com.">
  <style type="text/css" media="all">
-    @import "http://www.annaslinens.com/css/1.css";
-         </style>
+
+
+
+	@import "http://www.annaslinens.com/Bundle/r-e0b617573399ef55051c3a0efef48a5b-6f3bce.min.css";
+        
+ </style>
+
+
  <link rel="icon" href="/favicon.ico" type="image/ico">
  <link rel="home" title="Home" href="http://www.annaslinens.com/">
- <script>
-if(document.cookie.indexOf('GuestState=')!=-1 && window.location.protocol=='http:' && window.location.href.indexOf('creload=')==-1) {
-	if(window.location.href.indexOf('?')==-1) window.location+='?creload='+(new Date()).getTime();
-	else window.location+='&creload='+(new Date()).getTime();
-}
-</script>
+ <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.annaslinens.com/Bundle/r-8c32056c7ea91561bd18ef1618f65321-73a9c3.min.js"></script>
 <script type="text/javascript">
-
-function IncludeJavaScript(jsFile)
-{
-  document.write(unescape('%3Cscript type="text/javascript" src="')
-    + jsFile + unescape('">%3C/script%3E'));
-}
-
-if("https:" != document.location.protocol)
-{
-    IncludeJavaScript("/engine/brokenimage.js");
-
-}
-
-
+$j = jQuery;
+jQuery.noConflict();
 </script>
 
+<script src="http://www.annaslinens.com/Bundle/r-cbad434e25633902258054cd6b152c8d-e48889.min.js" type="text/javascript"></script>
 
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-2917584-1");
-pageTracker._trackPageview();
-pageTracker._trackTrans();
-} catch(err) {}
+function IncludeJavaScript(jsFile, onLoadCallback) {
+    var head = document.getElementsByTagName('head')[0] || document.documentElement;
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = jsFile;
+    if (onLoadCallback) {
+        s.onload = s.onreadystatechange = function() {
+            if (!s.readyState || s.readyState == 'loaded' || s.readyState == 'complete') {
+                s.onreadystatechange = null;
+                onLoadCallback(s);
+            }
+        };
+    }
+    head.appendChild(s);
+}
 </script>
-<script src="http://www.annaslinens.com/Scripts/Shop.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+function set_fade_timer(){
+	t = setTimeout("disable_subscribe_pop()", 15000);
+}
+
+function disable_subscribe_pop(){
+	$j("#resp_div_signup").fadeOut("slow");
+	$j("#backgroundDiv").fadeOut("slow");
+	$j("#resp_div_signup").fadeOut("slow");
+	$j("#email_address_24").val("");
+	$j("#resp_div_signup").css("background", "#FFFFFF");
+	clearTimeout(t);
+}
+
+function enable_subscribe_pop(){
+	var windowHeight = document.documentElement.clientHeight;
+	var windowWidth = document.documentElement.clientWidth;
+	
+	$j("#resp_div_signup").text("Sending Subscription request ...");
+	$j("#resp_div_signup").css({"font-size" : "140%"});
+	$j("#resp_div_signup").css({"color" : "red"});
+	$j("#resp_div_signup").fadeIn("slow");
+	$j("#backgroundDiv").css({"height": windowHeight});
+	$j("#backgroundDiv").css({"width": windowWidth});
+	$j("#backgroundDiv").fadeIn("slow");
+}
+
+function checksubscription(){
+	var email_address = document.getElementById("email_address_24").value;
+	var email_signup = document.getElementById("email_signup_24").value;
+		
+	if (window.XMLHttpRequest){
+		xmlhttp_subscribe =new XMLHttpRequest();
+	}
+	else{
+		xmlhttp_subscribe = new ActiveXObject("Microsoft.XMLHTTP");
+	}
+	
+	xmlhttp_subscribe.onreadystatechange=function(){
+		if(xmlhttp_subscribe.readyState==4 && xmlhttp_subscribe.status==200){
+			var resp_div = document.getElementById("resp_div_signup");
+			resp_div.innerHTML = xmlhttp_subscribe.responseText;
+			if(document.getElementById("subscribe_pop_success")){
+				$j("#resp_div_signup").css("background", "url(/store_image/site/footer_popup_v2.gif)");
+				$j("#resp_div_signup").css("background-repeat", "no-repeat");
+				//$j("#resp_div_signup").css("background-position", "50% 50%");
+				//$j("#resp_div_signup").css("background-size", "620px 420px"); no
+			}
+			set_fade_timer();
+		}
+	}
+	
+	xmlhttp_subscribe.open("POST","http://www.annaslinens.com/Shop/EmailNotification/Confirmation.php",true);
+	xmlhttp_subscribe.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+	xmlhttp_subscribe.send("email_signup="+email_signup+"&address="+email_address);
+	enable_subscribe_pop();	
+}
+</script>
+
+<script type="text/javascript">
+$j(document).ready(function() {
+	var searchInputs = document.getElementsByName('s');
+	for (var i = 0; i < searchInputs.length; ++i) {
+		if (!searchInputs[i].placeholder) {
+			if (searchInputs[i].getAttribute('placeholder'))
+				searchInputs[i].placeholder = searchInputs[i].getAttribute('placeholder');
+			else
+				searchInputs[i].placeholder = searchInputs[i].value;
+		}
+		if (supportsInputPlaceholder)
+			searchInputs[i].value = '';
+		searchInputs[i].onclick = function(){};
+		setInputPlaceholderFallback(searchInputs[i]);
+		var form = searchInputs[i].form;
+		if (!form.action.match(/search/))
+			continue;
+		searchInputs[i].setAttribute('autocomplete', 'off');
+		searchInputs[i].setAttribute('spellcheck', 'false');
+				form.action = form.action.replace('search', 'searchx');
+	}
+});
+</script>
+
+<script type="text/javascript">
+var gcsLoadCallback = function() {
+	$j(document).ready(function() {
+		var cse_id = '005517635905630416547:sx5r5snmu9w';
+		var searchInputs = document.getElementsByName('s');
+		var formCount = 0;
+		for (var i = 0; i < searchInputs.length; ++i) {
+			var form = searchInputs[i].form;
+			if (!form.action.match(/searchx/))
+				continue;
+			if (!form.id.length) {
+				form.id = 'searchForm'+formCount;
+				formCount++;
+			}
+			google.search.CustomSearchControl.attachAutoCompletion(
+				cse_id,
+				searchInputs[i],
+				form.id
+			);
+		}
+	});
+};
+IncludeJavaScript("http://www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7B%22name%22%3A%22search%22%2C%22version%22%3A1%2C%22callback%22%3A%22gcsLoadCallback%22%7D%5D%7D");
+</script><script type="text/javascript" async="" src="http://www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7B%22name%22%3A%22search%22%2C%22version%22%3A1%2C%22callback%22%3A%22gcsLoadCallback%22%7D%5D%7D"></script>
+
+<style type="text/css">
+.gsc-completion-container{z-index:10000005}
+</style>
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2917584-1']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+</script>
+<script type="text/javascript">
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
 
 
 </head>
 
-<body id="https:www-annaslinens-com">
+<body id="www-annaslinens-com">
 <div id="body" class="page-privacy-security ">
 <div id="header">
- <h1><a href="https://www.annaslinens.com/" title="Return to home page" accesskey="1">Privacy &amp; Security at AnnasLinens.com</a></h1>
+ <h1><a href="http://www.annaslinens.com/" title="Return to home page" accesskey="1">Privacy &amp; Security at AnnasLinens.com</a></h1>
 
- <form enctype="multipart/form-data" method="get" action="https://www.annaslinens.com/search/0/0/1/1/" name="search_site">
+ <form enctype="multipart/form-data" method="get" action="http://www.annaslinens.com/search/0/0/1/1/" name="search_site">
 <div class="header_marea1">
 <ul class="menu_header1">
-        <li class="home" id="header_li15"><a href="https://www.annaslinens.com/">Home</a></li>
-            <li id="header_li19"><a href="http://www.annaslinens.com/order-status">Order Status</a></li>
-            <li class="stores" id="header_li16"><a href="https://www.annaslinens.com/stores">Store Locator</a></li>
-            <li id="header_li131"><a href="http://www.annaslinens.com/registry">Online Gift Registry</a></li>
-            <li class="last_item" id="header_li6"><a href="https://www.annaslinens.com/content/6/help-faqs.html">Help &amp; FAQs</a></li>
-            <li class="cart" id="header_li17"><div id="shopping_cart_area" style="display:inline"><a href="https://www.annaslinens.com/cart">Shopping Cart</a></div></li>
+    <li style="display:none" id="customer_message"></li>
+        <li class="header_nav_my_account" id="header_li390"><a href="http://www.annaslinens.com/Shop/Customer/Account"><span>My Account</span></a></li>
+            <li class="header_nav_order_status" id="header_li19"><a href="http://www.annaslinens.com/order-status"><span>Order Status</span></a></li>
+            <li class="stores" id="header_li16"><a href="http://www.annaslinens.com/stores"><span>Store Locator</span></a></li>
+            <li class="header_nav_online_gift_registry" id="header_li131"><a href="http://www.annaslinens.com/registry"><span>Online Gift Registry</span></a></li>
+            <li class="header_nav_help_faqs last_item" id="header_li6"><a href="http://www.annaslinens.com/content/6/help-faqs.html"><span>Help &amp; FAQs</span></a></li>
+            <li class="cart" id="header_li17"><div id="shopping_cart_area" style="display:inline"><a href="http://www.annaslinens.com/cart" id="shop_cart_link"><span>Shopping Cart</span></a></div></li>
     
 </ul>
 </div>
 </form>
+    <script>MemberMessage();</script>
+
 
 </div>
-<div id="header_banners">        <div id="header_banner1" class="">
-        	<div class="caption"></div></div></div>
+ 
+	<div class="tab_area">
+	<div id="tabs">
+	<ul style="width:px" id="meu">
+	<li id="tab-id-844" class="shop_tab"><a href="http://www.annaslinens.com/category/844/1/-9-99-and-under-.html" class="shop_tab"><span>$9.99 and Under!</span></a></li><li id="tab-id-38" class="shop_tab"><a href="http://www.annaslinens.com/category/38/1/bedding.html" class="shop_tab"><span>Bedding</span></a><div id="tab_container_38"><ul id="tab_content_38"><li id="tab-id-12"><a href="http://www.annaslinens.com/category/12/1/comforter-sets.html"><span>Comforter Sets</span></a></li><li id="tab-id-14"><a href="http://www.annaslinens.com/category/14/1/kids-and-teen-bedding.html"><span>Kids and Teen Bedding</span></a></li><li id="tab-id-43"><a href="http://www.annaslinens.com/category/43/1/bed-in-a-bag.html"><span>Bed In A Bag</span></a></li><li id="tab-id-136"><a href="http://www.annaslinens.com/category/136/1/bedspreads.html"><span>Bedspreads</span></a></li><li id="tab-id-11" class="daddy"><a href="http://www.annaslinens.com/category/11/1/blankets.html" class="daddy"><span>Blankets</span></a><div id="tab_container_11"><ul id="tab_content_11"><li id="tab-id-840"><a href="http://www.annaslinens.com/category/840/1/electric-blankets.html"><span>Electric Blankets</span></a></li><li id="tab-id-839"><a href="http://www.annaslinens.com/category/839/1/fleece.html"><span>Fleece</span></a></li><li id="tab-id-841"><a href="http://www.annaslinens.com/category/841/1/solids.html"><span>Solids</span></a></li></ul>
+</div>
+</li><li id="tab-id-13"><a href="http://www.annaslinens.com/category/13/1/down-feather-and-down-alternative-comforters.html"><span>Down, Feather and Down Alternative Comforters</span></a></li><li id="tab-id-774"><a href="http://www.annaslinens.com/category/774/1/duvet-covers.html"><span>Duvet Covers</span></a></li><li id="tab-id-50"><a href="http://www.annaslinens.com/category/50/1/quilts-throws-and-coverlets.html"><span>Quilts, Throws  and Coverlets</span></a></li><li id="tab-id-827"><a href="http://www.annaslinens.com/category/827/1/daybed-set.html"><span>Daybed Set</span></a></li><li id="tab-id-16"><a href="http://www.annaslinens.com/category/16/1/sheets-and-sheet-sets.html"><span>Sheets and Sheet Sets</span></a></li><li id="tab-id-9"><a href="http://www.annaslinens.com/category/9/1/bed-pillows.html"><span>Bed Pillows</span></a></li><li id="tab-id-15"><a href="http://www.annaslinens.com/category/15/1/mattress-pads.html"><span>Mattress Pads</span></a></li><li id="tab-id-44"><a href="http://www.annaslinens.com/category/44/1/feather-fiberbeds.html"><span>Feather &amp; Fiberbeds</span></a></li><li id="tab-id-42"><a href="http://www.annaslinens.com/category/42/1/bed-accessories.html"><span>Bed Accessories</span></a></li></ul>
+</div>
+</li><li id="tab-id-37" class="shop_tab"><a href="http://www.annaslinens.com/category/37/1/bath.html" class="shop_tab"><span>Bath</span></a><div id="tab_container_37"><ul id="tab_content_37"><li id="tab-id-8"><a href="http://www.annaslinens.com/category/8/1/bath-collections.html"><span>Bath Collections</span></a></li><li id="tab-id-7"><a href="http://www.annaslinens.com/category/7/1/bath-towels.html"><span>Bath Towels</span></a></li><li id="tab-id-2"><a href="http://www.annaslinens.com/category/2/1/bath-rugs.html"><span>Bath Rugs</span></a></li><li id="tab-id-4"><a href="http://www.annaslinens.com/category/4/1/shower-curtains.html"><span>Shower Curtains</span></a></li><li id="tab-id-3"><a href="http://www.annaslinens.com/category/3/1/bath-accessories.html"><span>Bath Accessories</span></a></li></ul>
+</div>
+</li><li id="tab-id-46" class="shop_tab"><a href="http://www.annaslinens.com/category/46/1/window.html" class="shop_tab"><span>Window</span></a><div id="tab_container_46"><ul id="tab_content_46"><li id="tab-id-29"><a href="http://www.annaslinens.com/category/29/1/panels-and-drapes.html"><span>Panels and Drapes</span></a></li><li id="tab-id-26"><a href="http://www.annaslinens.com/category/26/1/kitchen-curtains.html"><span>Kitchen Curtains</span></a></li><li id="tab-id-33"><a href="http://www.annaslinens.com/category/33/1/top-treatments.html"><span>Top Treatments</span></a></li><li id="tab-id-36"><a href="http://www.annaslinens.com/category/36/1/blinds-and-shades.html"><span>Blinds and Shades</span></a></li><li id="tab-id-35" class="daddy"><a href="http://www.annaslinens.com/category/35/1/hardware.html" class="daddy"><span>Hardware</span></a><div id="tab_container_35"><ul id="tab_content_35"><li id="tab-id-775"><a href="http://www.annaslinens.com/category/775/1/basic-hardware.html"><span>Basic Hardware</span></a></li><li id="tab-id-776"><a href="http://www.annaslinens.com/category/776/1/decorative-hardware.html"><span>Decorative Hardware</span></a></li><li id="tab-id-777"><a href="http://www.annaslinens.com/category/777/1/accessories.html"><span>Accessories</span></a></li></ul>
+</div>
+</li></ul>
+</div>
+</li><li id="tab-id-39" class="shop_tab"><a href="http://www.annaslinens.com/category/39/1/dining.html" class="shop_tab"><span>Dining</span></a><div id="tab_container_39"><ul id="tab_content_39"><li id="tab-id-21"><a href="http://www.annaslinens.com/category/21/1/tablecloths-placemats-and-napkins.html"><span>Tablecloths, Placemats and Napkins</span></a></li><li id="tab-id-19"><a href="http://www.annaslinens.com/category/19/1/flatware.html"><span>Flatware</span></a></li><li id="tab-id-764"><a href="http://www.annaslinens.com/category/764/1/dinnerware.html"><span>Dinnerware</span></a></li><li id="tab-id-90"><a href="http://www.annaslinens.com/category/90/1/glassware.html"><span>Glassware</span></a></li></ul>
+</div>
+</li><li id="tab-id-553" class="shop_tab"><a href="http://www.annaslinens.com/category/553/1/kitchen.html" class="shop_tab"><span>Kitchen</span></a><div id="tab_container_553"><ul id="tab_content_553"><li id="tab-id-554"><a href="http://www.annaslinens.com/category/554/1/bakeware.html"><span>Bakeware</span></a></li><li id="tab-id-603"><a href="http://www.annaslinens.com/category/603/1/cookware.html"><span>Cookware</span></a></li><li id="tab-id-574"><a href="http://www.annaslinens.com/category/574/1/tools.html"><span>Tools</span></a></li><li id="tab-id-691"><a href="http://www.annaslinens.com/category/691/1/houseware.html"><span>Houseware</span></a></li><li id="tab-id-643"><a href="http://www.annaslinens.com/category/643/1/electrics.html"><span>Electrics</span></a></li></ul>
+</div>
+</li><li id="tab-id-40" class="shop_tab"><a href="http://www.annaslinens.com/category/40/1/d-cor.html" class="shop_tab"><span>Décor</span></a><div id="tab_container_40"><ul id="tab_content_40"><li id="tab-id-24"><a href="http://www.annaslinens.com/category/24/1/slipcovers.html"><span>Slipcovers</span></a></li><li id="tab-id-17"><a href="http://www.annaslinens.com/category/17/1/decorative-pillows-and-chairpads.html"><span>Decorative Pillows and Chairpads</span></a></li><li id="tab-id-23"><a href="http://www.annaslinens.com/category/23/1/rugs-and-outdoor-mats.html"><span>Rugs and Outdoor Mats</span></a></li><li id="tab-id-62"><a href="http://www.annaslinens.com/category/62/1/decorative-accessories.html"><span>Decorative Accessories</span></a></li><li id="tab-id-25"><a href="http://www.annaslinens.com/category/25/1/throw-blankets.html"><span>Throw Blankets</span></a></li><li id="tab-id-789"><a href="http://www.annaslinens.com/category/789/1/shelving.html"><span>Shelving</span></a></li><li id="tab-id-822"><a href="http://www.annaslinens.com/category/822/1/furniture.html"><span>Furniture</span></a></li></ul>
+</div>
+</li><li id="tab-id-551" class="shop_tab"><a href="http://www.annaslinens.com/category/551/1/mattress-furniture.html" class="shop_tab"><span>Mattress &amp; Furniture</span></a></li><li id="tab-id-824" class="shop_tab"><a href="http://www.annaslinens.com/category/824/1/more.html" class="shop_tab"><span>More</span></a><div id="tab_container_824"><ul id="tab_content_824"><li id="tab-id-5"><a href="http://www.annaslinens.com/category/5/1/storage-and-organization.html"><span>Storage and Organization</span></a></li><li id="tab-id-790"><a href="http://www.annaslinens.com/category/790/1/garden.html"><span>Garden</span></a></li><li id="tab-id-791"><a href="http://www.annaslinens.com/category/791/1/home-security.html"><span>Home Security</span></a></li></ul>
+</div>
+</li><li id="tab-id-27" class="shop_tab"><a href="http://www.annaslinens.com/content/313" class="shop_tab"><span>Current Ad</span></a></li><li id="tab-id-845" class="shop_tab"><a href="http://www.annaslinens.com/category/845/1/3-day-sale.html" class="shop_tab"><span>3-Day Sale</span></a></li><li id="tab-id-843" class="shop_tab"><a href="http://www.annaslinens.com/category/843/1/7-hour-sale.html" class="shop_tab"><span>7-Hour Sale</span></a></li><li id="tab-id-794" class="shop_tab"><a href="http://www.annaslinens.com/category/794/1/sale.html" class="shop_tab"><span>Sale</span></a><div id="tab_container_794"><ul id="tab_content_794"><li id="tab-id-829"><a href="http://www.annaslinens.com/category/829/1/sale-bath.html"><span>Sale Bath</span></a></li><li id="tab-id-828"><a href="http://www.annaslinens.com/category/828/1/sale-bedding.html"><span>Sale Bedding</span></a></li><li id="tab-id-831"><a href="http://www.annaslinens.com/category/831/1/sale-more.html"><span>Sale More</span></a></li><li id="tab-id-830"><a href="http://www.annaslinens.com/category/830/1/sale-window.html"><span>Sale Window</span></a></li></ul>
+</div>
+</li><li id="tab-id-842" class="shop_tab"><a href="http://www.annaslinens.com/category/842/1/holiday.html" class="shop_tab"><span>Holiday</span></a></li>
+	</ul>
+	</div>
+	</div>
+	
+<div id="adminmenu" style="display:none"></div>
+<style type="text/css">
+#adminmenu {
+    background:#DAC6C6;
+    border-bottom:1px solid #666;
+    margin-left:auto;
+    margin-right:auto;
+    width:100%;
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:1000999;
+}
+div#meua {
+    float:none;
+    top:0px;
+    background:#DAC6C6;
+    padding:0 0 0 0;
+    margin:1px;
+    width:1020px;
+        margin-left:auto;
+        margin-right:auto;
+    height:21px;
+    list-style:none;
+    font-size:11px;
+    font-family:tahoma,verdana;
+    z-index:2220;
+}
+div#meua p {
+    color: #333;
+    font-size: 11px;
+    padding: 3px 0 0 0;
+}
+div#meua img.spinner {
+    width: 13px;
+    height: 13px;
+    vertical-align: bottom;
+    padding-right: 5px;
+}
+</style>
+<script type="text/javascript">
+if (document.cookie.indexOf('GuestState=') != -1) {
+	$j(document.body).css({
+		position: 'relative',
+		'background-position': 'center 2em',
+		'margin-top': '22px'
+	});
+	if (document.cookie.indexOf('GuestStateAdmin=') != -1) {
+		$j('#adminmenu').append('<div id="meua"><p><img class="spinner" src="http://www.annaslinens.com/Public/Images/spinner.gif">Loading admin menu...</p></ul>')
+		$j('#adminmenu').show();
+	}
+	$j.get("http://www.annaslinens.com/_adminmenu",{},function(data) {
+				$j('#adminmenu').css({top:'-1000px'}).html(data).show().css({top:'0'});
 
-<script type="text/JavaScript">
-  var myWidth = 0, myHeight = 0;
-  if( typeof( window.innerWidth ) == 'number' ) {
-    //Non-IE
-    myWidth = window.innerWidth;
-    myHeight = window.innerHeight;
-  } else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
-    //IE 6+ in 'standards compliant mode'
-    myWidth = document.documentElement.clientWidth;
-    myHeight = document.documentElement.clientHeight;
-  } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
-    //IE 4 compatible
-    myWidth = document.body.clientWidth;
-    myHeight = document.body.clientHeight;
-  }
-  if (myWidth<965)
-  {
-  document.write("<STYLE>#FloatingList{display:none;}</STYLE>");
-  }
+				$j('#adminmenu').css({position:'fixed'});
+
+		$j(document).trigger('AdminMenu.ready');
+	},'text');
+}
 </script>
+<div class="header-em-promo">
+<a class="name">Custom Header - Do NOT Edit</a> <a class="desc"> - </a></div>
 
-<div id="FloatingList">
+<div class="DesignerWarningText">Do not edit this promo!!! Push the back button on your browser and send change requests to Lee!</div>
 
-<div class="BannerPromo">
-<a href="http://www.annaslinens.com/product/gifts/42940/anna-s-linens-gift-card.html">
-<img src="http://www.annaslinens.com/content/gift_card_global.gif" border="0">
-</a>
+
+<div class="Shoparoo">
+	<div class="ShoparooLeft">
+		<form method="get" action="http://www.annaslinens.com/search/0/0/1/1/" name="headsearch_site">
+			<table cellpadding="0" cellspacing="0"><tbody><tr>
+				<td class="Putter"><input class="Put PutSEARCH" type="text" name="s" value="Enter search terms here, e.g. Organization" onclick="javascript:document.headsearch_site.s.value=''"></td>
+				<td><input class="Submit SubmitSEARCH" type="submit" name="g" value=" "></td>
+			</tr></tbody></table>
+		</form>
+	</div>
+	<div class="ShoparooRight">
+		<form name="DBoptin" action="http://www.annaslinens.com/email-signup" method="post">
+			<input name="email_signup" value="Go" type="hidden">
+			<table cellspacing="0" cellpadding="0"><tbody><tr>
+				<td class="FormInput Putter"><input type="text" name="address" value="enter email address" class="Put PutEMAIL" onclick="javascript:document.DBoptin.address.value=''"></td>
+				<td class="FormInput BTN"><input type="submit" name="go" value=" " class="Submit SubmitEMAIL"></td>
+			</tr></tbody></table>
+		</form>
+	</div>
+	<div style="clear:both;"></div>
 </div>
 
-<div id="product_rr">
+<div class="HeaderMomInvented">
+<a target="_new" href="http://www.annaslinens.com/MomInvented20100407/winner_ca_2.html"><img src="/MomInvented20100407/mom_invented_banner.gif"></a>
+</div>
+
+<div class="HeaderStoreLocator">
+<form name="zipForm" action="http://www.annaslinens.com/stores" method="post">
+<input type="hidden" name="search" value="1">
+<table cellspacing="0" cellpadding="0"><tbody><tr>
+<td class="TDSLZIP"><input class="StoreLocatorZip" name="zip" type="text" value="City / Zip" onclick="javascript:if(this.value=='City / Zip') this.value='';"></td>
+<td class="TDSLGO"><input class="StoreLocatorGo" type="submit" value=" "></td>
+</tr></tbody></table>
+</form>
+
+</div>
+
+<div style="display:none;"><a></a></div>
+
+	
+<script language="javascript">
+    QuickCart_checkQuckCart();
+</script>
+<div id="sub">
+<div id="trail">
+    <ul>
+        <li><a href="http://www.annaslinens.com/">Home</a></li>
+                <li>Privacy &amp; Security</li>
+    </ul>
+</div>
+<div id="stage">
+    <h2>Privacy &amp; Security</h2>
+		    
+        
+    <p><strong>Privacy Policy</strong> <br>   At Anna's Linens, we are committed to protecting the privacy of our customers, which is why we do not sell, rent, or loan any personal identifiable information regarding our customers to any third party.  We hope the policy below will answer all of your questions regarding how we treat information gathered from visitors to Anna's Linens.  Feel free to email us at <a href="http://www.annaslinens.com/contact">AnnasLinens.com</a> with any questions you might have.    </p><p> <strong>What Information We Collect</strong> <br>   In order to process your order efficiently, we collect the following information: name, billing address, shipping address, e-mail address, phone number, and credit card number ("Personal Information") when you place an order with us.  This information is used solely by Anna's Linens and is stored in a secure environment.  Under certain circumstances we do also collect the user's IP address, but only when we suspect that credit card fraud may have occurred.  We also periodically conduct surveys of visitors to our Web site.  This helps us better understand what our customers would like to see from us.  We use this information for internal marketing research purposes.  We may contact a visitor who responded to a survey for more information, but only if that visitor has told us that they don't mind being contacted.   </p>   <p> <strong>Use of Information that You Provide</strong> <br>   At Anna's Linens we collect Personal Information only for the purposes of fulfilling orders, providing a high level of customer service, gaining knowledge internally regarding what our customers want and mailing circulars and special offers from Anna's Linens.  We do not give or sell Personal Information to any other party.  If at any time you do not want to receive offers and/or circulars from us, you can always remove yourself from our mailing list by sending an e-mail to <a href="http://www.annaslinens.com/contact">AnnasLinens.com</a>.  </p>   <p> <strong>Opt-out Email policy</strong> <br>   We ask that you tell us when you do not wish to receive periodic emails from us.  We will only send email for customer service purposes and to those visitors who have indicated that they wish to receive other types of email from us.  If at any time you wish to stop receiving email from us at any time, you can always remove your name from our mailing list by sending an email to <a href="http://www.annaslinens.com/contact">AnnasLinens.com</a> stating that you wish to unsubscribe.  </p>   <p> <strong>Security of the Information You Provide</strong> <br>   Among our top priorities is keeping your Personal Information secure.  We use Secure Sockets Layer (SSL) technology, which provides the highest level of security currently available for secure transactions, to encrypt all of your Personal Information before it is transmitted to us.  Encrypted information cannot be read or recorded as it travels over the Internet.  You can tell you are sending information securely by the unbroken key icon or closed lock icon that should appear at the bottom of your internet browser's window (depending on what browser you use).  These icons will appear when you are placing an order on our Web site.  In addition, you will see our site address change slightly, from http: to https: indicating a secure server connection is being used.  </p>   <p> Additionally, access to your Personal Information is provided only to our employees and agents who have a need to know such information for the purpose of fulfilling your order and offering our high level of customer service.  The computers that store your Personal Information are located in a separate facility which employs the latest in firewall and security technology.   </p>   <p> <strong>Use of Cookies</strong> <br>    We use cookies to provide our customers with streamlined ordering and other useful features.  Cookies are pieces of information that are stored by your browser on your computer's hard drive.  Cookies make Web surfing easier for you by saving your customer identification information while you're at our site.  The use of cookies has become an industry standard used by most major Web sites.  Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that.  Please continue to review our privacy policy from time to time so that you are aware of our current policy with respect to cookies.  </p>   <p> <strong>Your Acceptance of these Terms</strong> <br>   By using our Web site, you agree to accept the Anna's Linens privacy policy.  Make sure you read this policy carefully, because if you do choose to use our Web site, you automatically agree to this policy.  If you do not agree to this policy, please do not use our Web site.  We reserve the right, at our discretion, to change, modify, add, or remove   </p>   <br><br><p></p>
+    
+        
+    </div>
+<div id="stage_banners">        <div id="stage_banner1" class="">
+        	<div class="caption"><div id="product_rr">
 <div class="BannerPromo MovedSug" id="MovedSugID">
 
 
@@ -114,13 +362,19 @@ pageTracker._trackTrans();
 <script>
 (function(){
         var path = window.location.pathname;
-        var id = 'product_rr';
         if (path.match(/\/cart/))
                 id = 'cart_rr';
-        else if (path.match(/\/category/))
-                id = 'category_rr';
-        else if (path.match(/\/search/))
+        else if (path.match(/\/category\//)) {
+        	var body = document.getElementById('body');
+        	if (body && body.className.indexOf('on_subcategory') != -1)
+        		id = 'subcat_rr';
+        	else
+        		id = 'category_rr';
+        }
+        else if (path.match(/\/searchx\//))
                 id = 'search_rr';
+	else
+		id = 'product_rr';
         document.getElementById('product_rr').id=id;
 })();
 </script>
@@ -159,196 +413,8 @@ function addLoadEvent(func)
 //addLoadEvent(MoveItVersionTwo);
 
 </script>
-
-</div> <!-- FLOATING LIST -->
-
-<div style="display:none;"><div><div></div>        </div>
-        </div> 
-	<div class="tab_area">
-	<div id="tabs">
-	<ul style="width:px" id="meu" onmouseout="HideSelects('show');" onmouseover="HideSelects('hide');">
-	<li id="tab-id-38" class="shop_tab"><a href="http://www.annaslinens.com/category/38/1/bedding.html" class="shop_tab"><span>Bedding</span></a><div id="tab_container_38"><ul id="tab_content_38"><li id="tab-id-12"><a href="http://www.annaslinens.com/category/12/1/comforter-sets.html"><span>Comforter Sets</span></a></li><li id="tab-id-14"><a href="http://www.annaslinens.com/category/14/1/kids-and-teen-bedding.html"><span>Kids and Teen Bedding</span></a></li><li id="tab-id-43"><a href="http://www.annaslinens.com/category/43/1/bed-in-a-bag.html"><span>Bed In A Bag</span></a></li><li id="tab-id-136"><a href="http://www.annaslinens.com/category/136/1/bedspreads.html"><span>Bedspreads</span></a></li><li id="tab-id-11"><a href="http://www.annaslinens.com/category/11/1/blankets.html"><span>Blankets</span></a></li><li id="tab-id-826"><a href="http://www.annaslinens.com/category/826/1/dorm-room.html"><span>Dorm Room</span></a></li><li id="tab-id-13"><a href="http://www.annaslinens.com/category/13/1/down-feather-and-down-alternative-comforters.html"><span>Down, Feather and Down Alternative Comforters</span></a></li><li id="tab-id-774"><a href="http://www.annaslinens.com/category/774/1/duvet-covers.html"><span>Duvet Covers</span></a></li><li id="tab-id-50"><a href="http://www.annaslinens.com/category/50/1/quilts-throws-and-coverlets.html"><span>Quilts, Throws  and Coverlets</span></a></li><li id="tab-id-827"><a href="http://www.annaslinens.com/category/827/1/daybed-set.html"><span>Daybed Set</span></a></li><li id="tab-id-16"><a href="http://www.annaslinens.com/category/16/1/sheets-and-sheet-sets.html"><span>Sheets and Sheet Sets</span></a></li><li id="tab-id-9"><a href="http://www.annaslinens.com/category/9/1/bed-pillows.html"><span>Bed Pillows</span></a></li><li id="tab-id-15"><a href="http://www.annaslinens.com/category/15/1/mattress-pads.html"><span>Mattress Pads</span></a></li><li id="tab-id-44"><a href="http://www.annaslinens.com/category/44/1/featherbeds.html"><span>Featherbeds</span></a></li><li id="tab-id-42"><a href="http://www.annaslinens.com/category/42/1/bed-accessories.html"><span>Bed Accessories</span></a></li></ul>
-</div>
-</li><li id="tab-id-37" class="shop_tab"><a href="http://www.annaslinens.com/category/37/1/bath.html" class="shop_tab"><span>Bath</span></a><div id="tab_container_37"><ul id="tab_content_37"><li id="tab-id-8"><a href="http://www.annaslinens.com/category/8/1/bath-collections.html"><span>Bath Collections</span></a></li><li id="tab-id-7"><a href="http://www.annaslinens.com/category/7/1/bath-towels.html"><span>Bath Towels</span></a></li><li id="tab-id-2"><a href="http://www.annaslinens.com/category/2/1/bath-rugs.html"><span>Bath Rugs</span></a></li><li id="tab-id-4"><a href="http://www.annaslinens.com/category/4/1/shower-curtains.html"><span>Shower Curtains</span></a></li><li id="tab-id-3"><a href="http://www.annaslinens.com/category/3/1/bath-accessories.html"><span>Bath Accessories</span></a></li></ul>
-</div>
-</li><li id="tab-id-46" class="shop_tab"><a href="http://www.annaslinens.com/category/46/1/window.html" class="shop_tab"><span>Window</span></a><div id="tab_container_46"><ul id="tab_content_46"><li id="tab-id-29"><a href="http://www.annaslinens.com/category/29/1/panels-and-drapes.html"><span>Panels and Drapes</span></a></li><li id="tab-id-26"><a href="http://www.annaslinens.com/category/26/1/kitchen-curtains.html"><span>Kitchen Curtains</span></a></li><li id="tab-id-33"><a href="http://www.annaslinens.com/category/33/1/top-treatments.html"><span>Top Treatments</span></a></li><li id="tab-id-36"><a href="http://www.annaslinens.com/category/36/1/blinds-and-shades.html"><span>Blinds and Shades</span></a></li><li id="tab-id-35" class="daddy"><a href="http://www.annaslinens.com/category/35/1/hardware.html" class="daddy"><span>Hardware</span></a><div id="tab_container_35"><ul id="tab_content_35"><li id="tab-id-775"><a href="http://www.annaslinens.com/category/775/1/basic-hardware.html"><span>Basic Hardware</span></a></li><li id="tab-id-776"><a href="http://www.annaslinens.com/category/776/1/decorative-hardware.html"><span>Decorative Hardware</span></a></li><li id="tab-id-777"><a href="http://www.annaslinens.com/category/777/1/accessories.html"><span>Accessories</span></a></li></ul>
-</div>
-</li></ul>
-</div>
-</li><li id="tab-id-39" class="shop_tab"><a href="http://www.annaslinens.com/category/39/1/dining.html" class="shop_tab"><span>Dining</span></a><div id="tab_container_39"><ul id="tab_content_39"><li id="tab-id-21"><a href="http://www.annaslinens.com/category/21/1/tablecloths-placemats-and-napkins.html"><span>Tablecloths, Placemats and Napkins</span></a></li><li id="tab-id-764"><a href="http://www.annaslinens.com/category/764/1/dinnerware.html"><span>Dinnerware</span></a></li><li id="tab-id-90"><a href="http://www.annaslinens.com/category/90/1/glassware.html"><span>Glassware</span></a></li></ul>
-</div>
-</li><li id="tab-id-553" class="shop_tab"><a href="http://www.annaslinens.com/category/553/1/kitchen.html" class="shop_tab"><span>Kitchen</span></a><div id="tab_container_553"><ul id="tab_content_553"><li id="tab-id-554"><a href="http://www.annaslinens.com/category/554/1/bakeware.html"><span>Bakeware</span></a></li><li id="tab-id-603"><a href="http://www.annaslinens.com/category/603/1/cookware.html"><span>Cookware</span></a></li><li id="tab-id-574"><a href="http://www.annaslinens.com/category/574/1/tools.html"><span>Tools</span></a></li><li id="tab-id-691"><a href="http://www.annaslinens.com/category/691/1/houseware.html"><span>Houseware</span></a></li><li id="tab-id-643"><a href="http://www.annaslinens.com/category/643/1/electrics.html"><span>Electrics</span></a></li><li id="tab-id-793"><a href="http://www.annaslinens.com/category/793/1/mom-invented.html"><span>Mom Invented</span></a></li></ul>
-</div>
-</li><li id="tab-id-40" class="shop_tab"><a href="http://www.annaslinens.com/category/40/1/d-cor.html" class="shop_tab"><span>Décor</span></a><div id="tab_container_40"><ul id="tab_content_40"><li id="tab-id-24"><a href="http://www.annaslinens.com/category/24/1/slipcovers.html"><span>Slipcovers</span></a></li><li id="tab-id-17"><a href="http://www.annaslinens.com/category/17/1/decorative-pillows-and-chairpads.html"><span>Decorative Pillows and Chairpads</span></a></li><li id="tab-id-23"><a href="http://www.annaslinens.com/category/23/1/rugs-and-outdoor-mats.html"><span>Rugs and Outdoor Mats</span></a></li><li id="tab-id-62"><a href="http://www.annaslinens.com/category/62/1/decorative-accessories.html"><span>Decorative Accessories</span></a></li><li id="tab-id-25"><a href="http://www.annaslinens.com/category/25/1/throw-blankets.html"><span>Throw Blankets</span></a></li><li id="tab-id-789"><a href="http://www.annaslinens.com/category/789/1/shelving.html"><span>Shelving</span></a></li><li id="tab-id-822"><a href="http://www.annaslinens.com/category/822/1/furniture.html"><span>Furniture</span></a></li></ul>
-</div>
-</li><li id="tab-id-551" class="shop_tab"><a href="http://www.annaslinens.com/category/551/1/mattress.html" class="shop_tab"><span>Mattress</span></a></li><li id="tab-id-824" class="shop_tab"><a href="http://www.annaslinens.com/category/824/1/more.html" class="shop_tab"><span>More</span></a><div id="tab_container_824"><ul id="tab_content_824"><li id="tab-id-5"><a href="http://www.annaslinens.com/category/5/1/storage-and-organization.html"><span>Storage and Organization</span></a></li><li id="tab-id-790"><a href="http://www.annaslinens.com/category/790/1/garden.html"><span>Garden</span></a></li><li id="tab-id-791"><a href="http://www.annaslinens.com/category/791/1/home-security.html"><span>Home Security</span></a></li></ul>
-</div>
-</li><li id="tab-id-27" class="shop_tab"><a href="http://www.annaslinens.com/content/313" class="shop_tab"><span>Current Ad</span></a></li><li id="tab-id-794" class="shop_tab"><a href="http://www.annaslinens.com/category/794/1/sale.html" class="shop_tab"><span>Sale</span></a><div id="tab_container_794"><ul id="tab_content_794"><li id="tab-id-829"><a href="http://www.annaslinens.com/category/829/1/sale-bath.html"><span>Sale Bath</span></a></li><li id="tab-id-828"><a href="http://www.annaslinens.com/category/828/1/sale-bedding.html"><span>Sale Bedding</span></a></li><li id="tab-id-831"><a href="http://www.annaslinens.com/category/831/1/sale-more.html"><span>Sale More</span></a></li><li id="tab-id-830"><a href="http://www.annaslinens.com/category/830/1/sale-window.html"><span>Sale Window</span></a></li></ul>
-</div>
-</li>
-	</ul>
-	</div>
-	</div>
-	<div class="header-em-promo">
-<a class="name">Custom Header - Do NOT Edit</a> <a class="desc"> - </a></div>
-
-<div class="DesignerWarningText">Do not edit this promo!!! Push the back button on your browser and send change requests to Lee!</div>
-
-
-<div class="ShopBarV2">
-	<table class="SBV2 Table" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td class="SB2 Three">
-			<form action="http://echo4.bluehornet.com/phase2/bullseye/contactupdate1.php3" method="post" name="bullseye" id="bullseye" onsubmit="return doSubmit();" target="signup">
-			<table cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td colspan="4" class="SignUpForSpecialOffers"><h1></h1></td>
-				</tr>
-				<tr>
-					<td><input type="hidden" name="cid" value="4f02079228e6c72d199d3f55d6175c8a"></td>
-					<td class="Putter"><input class="Put EMAIL" type="text" name="email" value="Enter Email Address" onclick="javascript:document.bullseye.email.value=''"></td>
-					<td><input class="Submit EMAIL" type="submit" value=" " name="SubmitBullsEye"></td>
-					<td><input type="hidden" name="message" value="Thank you. Your information has been submitted. To ensure delivery of your newsletter(s), please add EMAIL_ADDRESS@WHERE_ITS_FROM.COM to your address book, spam filter whitelist, or tell your company's IT group to allow this address to pass through any filtering software they may have set up."></td>
-				</tr>
-			</tbody></table>
-			</form>
-		</td>
-		<td class="SB2 SN">
-			<h1><a target="_new" href="http://www.facebook.com/annaslinens"></a></h1>
-		</td>
-		<td class="SB2 SN SNTwitter">
-			<h1><a target="_new" href="http://twitter.com/annaslinens"></a></h1>
-		</td>
-		<td class="SB2 One">
-			<form method="get" action="https://web.archive.org/searchx/0/0/1/1/" name="headsearch_site">
-			<table cellpadding="0" cellspacing="0"><tbody><tr>
-			<td class="Putter"><input class="Put PSEARCH" type="text" name="s" value="Enter search terms." onclick="javascript:document.headsearch_site.s.value=''" autocomplete="off" spellcheck="false"></td>
-			<td><input class="Submit SEARCH" type="submit" name="g" value=" "></td>
-			</tr></tbody></table>
-			</form>
-		</td>
-	</tr></tbody></table>
-</div>
-
-<div class="HeaderMomInvented">
-<a target="_new" href="http://www.annaslinens.com/MomInvented20100407/winner_ca_2.html"><img src="/MomInvented20100407/mom_invented_banner.gif"></a>
-</div>
-
-<div class="HeaderStoreLocator">
-<form name="HeaderzipForm" action="https://www.annaslinens.com/stores" method="post">
-<table cellspacing="0" cellpadding="0"><tbody><tr>
-<td class="TDSLZIP"><input class="StoreLocatorZip" name="zip" value="zip code" size="14" type="text" onclick="javascript:document.HeaderzipForm.zip.value=''"></td>
-<td class="TDSLGO"><input class="StoreLocatorGo" type="button" value=" " onclick="javascript: document.HeaderzipForm.submit();"></td>
-<td style="display:none;"><select name="state">
-<option value="">Select State...</option>
-		<option value="AL">Alabama</option>
-				<option value="AZ">Arizona</option>
-				<option value="CA">California</option>
-				<option value="DC">Washington D.C.</option>
-				<option value="FL">Florida</option>
-
-				<option value="GA">Georgia</option>
-				<option value="IL">Illinois</option>
-				<option value="LA">Louisiana</option>
-				<option value="MD">Maryland</option>
-				<option value="MS">Mississippi</option>
-				<option value="NC">North Carolina</option>
-
-				<option value="NJ">New Jersey</option>
-				<option value="NM">New Mexico</option>
-				<option value="NV">Nevada</option>
-				<option value="PA">Pennsylvania</option>
-				<option value="SC">South Carolina</option>
-				<option value="TX">Texas</option>
-
-				<option value="VA">Virginia</option>
-				<option value="WI">Wisconsin</option>
-		</select>
-</td>
-<td style="display:none;"><input class="StoreLocatorGo" value="Go" onclick="javascript: verifyZip();" type="button"></td>
-</tr></tbody></table>
-</form>
-
-</div>
-
-<div style="display:none;"><a></a></div>
-
-<div id="shop_bar">
-
-
-<table>
-<tbody><tr>
-<td nowrap="nowrap">
-<div class="sub1">
-<form method="get" action="http://www.annaslinens.com/searchx/0/0/1/1/" name="search_site">
-
-Search <input type="text" id="keyword" name="s" value="" size="15" autocomplete="off" spellcheck="false"><input type="submit" name="g" value="Go" class="search_btn">
-
-</form>
-</div>
-</td>
-
-<td>
-<div class="sub2 brand_name">
-<form method="get">
-Shop By Brand
-<select name="brand" id="brand" onchange="if (document.getElementById('brand').options[document.getElementById('brand').selectedIndex].value) top.location.href=document.getElementById('brand').options[document.getElementById('brand').selectedIndex].value">
-<option value="">Select a Brand</option>
-<option value="">--------------------------------</option>
-<option value="http://www.annaslinens.com/brands">View all Brands... </option>
-<option value="">--------------------------------</option>
-<option value="http://www.annaslinens.com/brands/622/1/10-speed-press.html">10 Speed Press</option>
-<option value="http://www.annaslinens.com/brands/235/1/8-in-1.html">8 in 1</option>
-<option value="http://www.annaslinens.com/brands/484/1/a-di-alessi-by-alessi.html">A di Alessi by Alessi</option>
-<option value="http://www.annaslinens.com/brands/408/1/a-m-b-enterprises.html">A.M.B. Enterprises</option>
-<option value="http://www.annaslinens.com/brands/309/1/a-t-i-thermometers.html">A.T.I. Thermometers</option>
-<option value="http://www.annaslinens.com/brands/402/1/abc.html">ABC</option>
-<option value="http://www.annaslinens.com/brands/945/1/absolute-global-trading.html">Absolute Global Trading</option>
-<option value="http://www.annaslinens.com/brands/906/1/accessory-zone.html">Accessory Zone</option>
-<option value="http://www.annaslinens.com/brands/325/1/acurel.html">Acurel</option>
-<option value="http://www.annaslinens.com/brands/266/1/advanced-vivarium-systems-avs-books.html">Advanced Vivarium Systems / AVS Books</option>
-
-</select>
-</form>
-</div>
-</td>
-
-<td>
-
-</td>
-</tr>
-</tbody></table>
-
-</div>
-
-<script language="javascript">
-    QuickCart_checkQuckCart();
-</script>
-<div id="sub">
-
-<div id="trail">
-<ul>
-<li><a href="https://www.annaslinens.com/">Home</a>
-</li><li>Privacy &amp; Security</li>
-</ul>
-</div>
-<div id="stage">
-<h2>Privacy &amp; Security </h2>
-
-<p>
-</p><ul>
-</ul>
-<p>
-
-
-</p><p>
-
-<strong>Privacy Policy</strong> <br>   At Anna's Linens, we are committed to protecting the privacy of our customers, which is why we do not sell, rent, or loan any personal identifiable information regarding our customers to any third party.  We hope the policy below will answer all of your questions regarding how we treat information gathered from visitors to Anna's Linens.  Feel free to email us at <a href="http://www.annaslinens.com/contact">AnnasLinens.com</a> with any questions you might have.    </p><p> <strong>What Information We Collect</strong> <br>   In order to process your order efficiently, we collect the following information: name, billing address, shipping address, e-mail address, phone number, and credit card number ("Personal Information") when you place an order with us.  This information is used solely by Anna's Linens and is stored in a secure environment.  Under certain circumstances we do also collect the user's IP address, but only when we suspect that credit card fraud may have occurred.  We also periodically conduct surveys of visitors to our Web site.  This helps us better understand what our customers would like to see from us.  We use this information for internal marketing research purposes.  We may contact a visitor who responded to a survey for more information, but only if that visitor has told us that they don't mind being contacted.   </p>   <p> <strong>Use of Information that You Provide</strong> <br>   At Anna's Linens we collect Personal Information only for the purposes of fulfilling orders, providing a high level of customer service, gaining knowledge internally regarding what our customers want and mailing circulars and special offers from Anna's Linens.  We do not give or sell Personal Information to any other party.  If at any time you do not want to receive offers and/or circulars from us, you can always remove yourself from our mailing list by sending an e-mail to <a href="http://www.annaslinens.com/contact">AnnasLinens.com</a>.  </p>   <p> <strong>Opt-out Email policy</strong> <br>   We ask that you tell us when you do not wish to receive periodic emails from us.  We will only send email for customer service purposes and to those visitors who have indicated that they wish to receive other types of email from us.  If at any time you wish to stop receiving email from us at any time, you can always remove your name from our mailing list by sending an email to <a href="http://www.annaslinens.com/contact">AnnasLinens.com</a> stating that you wish to unsubscribe.  </p>   <p> <strong>Security of the Information You Provide</strong> <br>   Among our top priorities is keeping your Personal Information secure.  We use Secure Sockets Layer (SSL) technology, which provides the highest level of security currently available for secure transactions, to encrypt all of your Personal Information before it is transmitted to us.  Encrypted information cannot be read or recorded as it travels over the Internet.  You can tell you are sending information securely by the unbroken key icon or closed lock icon that should appear at the bottom of your internet browser's window (depending on what browser you use).  These icons will appear when you are placing an order on our Web site.  In addition, you will see our site address change slightly, from http: to https: indicating a secure server connection is being used.  </p>   <p> Additionally, access to your Personal Information is provided only to our employees and agents who have a need to know such information for the purpose of fulfilling your order and offering our high level of customer service.  The computers that store your Personal Information are located in a separate facility which employs the latest in firewall and security technology.   </p>   <p> <strong>Use of Cookies</strong> <br>    We use cookies to provide our customers with streamlined ordering and other useful features.  Cookies are pieces of information that are stored by your browser on your computer's hard drive.  Cookies make Web surfing easier for you by saving your customer identification information while you're at our site.  The use of cookies has become an industry standard used by most major Web sites.  Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that.  Please continue to review our privacy policy from time to time so that you are aware of our current policy with respect to cookies.  </p>   <p> <strong>Your Acceptance of these Terms</strong> <br>   By using our Web site, you agree to accept the Anna's Linens privacy policy.  Make sure you read this policy carefully, because if you do choose to use our Web site, you automatically agree to this policy.  If you do not agree to this policy, please do not use our Web site.  We reserve the right, at our discretion, to change, modify, add, or remove   </p>   <br><br>
-
-<p></p>
-
-
-</div>
+</div>        </div>
+        </div>
 <div style="clear: both;height: 0px;overflow: hidden;"></div>
 </div>
 
@@ -356,31 +422,28 @@ Shop By Brand
 
 
 <div id="footermenu">
-<form enctype="multipart/form-data" method="get" action="https://www.annaslinens.com/search/0/0/1/1/" name="search_site">
+<form enctype="multipart/form-data" method="get" action="http://www.annaslinens.com/search/0/0/1/1/" name="search_site">
 <div class="footer_marea1">
 <ul class="menu_footer1">
 
-        <li class="cart" id="footer_li111"><div id="shopping_cart_area" style="display:inline"><a href="https://www.annaslinens.com/cart">Shopping Cart</a></div></li>
-            <li id="footer_li34"><a href="https://annaslinenscareers.silkroad.com/">Careers</a></li>
-            <li id="footer_li122"><a href="https://www.annaslinens.com/content/122/affiliates.html">Affiliates</a></li>
-            <li id="footer_li184"><a href="https://www.annaslinens.com/content/184/buying-guides.html">Buying Guides</a></li>
-            <li class="last_item" id="footer_li373"><a href="https://www.annaslinens.com/content/373/sweepstakes-rules.html">Sweepstakes Rules</a></li>
-            <li class="last_item" id="footer_li27"><a href="https://www.annaslinens.com/content/27/about-us.html">About Us</a></li>
-            <li class="stores" id="footer_li16"><a href="https://www.annaslinens.com/stores">Store Locator</a></li>
-            <li class="last_item" id="footer_li8"><a href="https://www.annaslinens.com/content/8/contact-us.html">Contact Us</a></li>
-            <li class="last_item" id="footer_li20"><a href="/content/313">In-Store Promotions</a></li>
-            <li class="last_item" id="footer_li131"><a href="http://www.annaslinens.com/registry">Online Gift Registry</a></li>
-            <li class="last_item" id="footer_li3"><a href="https://www.annaslinens.com/content/3/shipping-information.html">Shipping Information</a></li>
-            <li class="last_item" id="footer_li5"><a href="https://www.annaslinens.com/content/5/terms-conditions.html">Terms &amp; Conditions</a></li>
-            <li class="last_item" id="footer_li6"><a href="https://www.annaslinens.com/content/6/help-faqs.html">Help &amp; FAQs</a></li>
-            <li class="last_item" id="footer_li21"><a href="https://www.annaslinens.com/content/21/military-discount.html">Military Discount</a></li>
-            <li class="last_item" id="footer_li4"><a href="https://www.annaslinens.com/content/4/privacy-security.html">Privacy &amp; Security</a></li>
+        <li id="footer_li34"><a href="https://annaslinenscareers.silkroad.com/"><span>Careers</span></a></li>
+            <li id="footer_li184"><a href="http://www.annaslinens.com/content/184/buying-guides.html"><span>Buying Guides</span></a></li>
+            <li id="footer_li27"><a href="http://www.annaslinens.com/content/27/about-us.html"><span>About Us</span></a></li>
+            <li class="stores" id="footer_li16"><a href="http://www.annaslinens.com/stores"><span>Store Locator</span></a></li>
+            <li class="last_item" id="footer_li8"><a href="http://www.annaslinens.com/content/8/contact-us.html"><span>Contact Us</span></a></li>
+            <li class="last_item" id="footer_li20"><a href="http://www.annaslinens.com/content/313/"><span>In-Store Promotions</span></a></li>
+            <li class="last_item" id="footer_li131"><a href="http://www.annaslinens.com/registry"><span>Online Gift Registry</span></a></li>
+            <li class="last_item" id="footer_li3"><a href="http://www.annaslinens.com/content/3/shipping-information.html"><span>Shipping Information</span></a></li>
+            <li class="last_item" id="footer_li5"><a href="http://www.annaslinens.com/content/5/terms-conditions.html"><span>Terms &amp; Conditions</span></a></li>
+            <li class="last_item" id="footer_li6"><a href="http://www.annaslinens.com/content/6/help-faqs.html"><span>Help &amp; FAQs</span></a></li>
+            <li class="last_item" id="footer_li21"><a href="http://www.annaslinens.com/content/21/military-discount.html"><span>Military Discount</span></a></li>
+            <li class="last_item" id="footer_li4"><a href="http://www.annaslinens.com/content/4/privacy-security.html"><span>Privacy &amp; Security</span></a></li>
     
 </ul>
 </div>
 </form>
 </div>
-<br>
+<!-- <br> -->
 <div id="copyright">
 
     <div id="banners">
@@ -389,79 +452,91 @@ Shop By Brand
             <td class="banner "></td></tr></tbody></table>
 
 <table class="FooterSN" cellspacing="0" cellpadding="0"><tbody><tr>
-<td class="TDSN1"><div class="SNCase"><a target="_new" href="http://www.facebook.com/annaslinens"><img src="/store_image/site/footer_facebook.gif"></a></div></td>
-<td class="TDSN2"><div class="SNCase"><a target="_new" href="http://twitter.com/annaslinens"><img src="/store_image/site/footer_twitter.gif"></a></div></td>
-<td class="TDSN3"><div class="SNCase"><a target="_new" href="http://www.youtube.com/user/annaslinens"><img src="/store_image/site/footer_youtube.gif"></a></div></td>
+	<td id="FooterSignUpTD">
+		<form action="http://echo4.bluehornet.com/phase2/bullseye/contactupdate1.php3" method="post" name="bullseye2" id="bullseye" onsubmit="return doSubmit();" target="signup">
+		<table cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td><input type="hidden" name="cid" value="4f02079228e6c72d199d3f55d6175c8a"></td>
+				<td class="Putter"><input class="Put EMAIL" type="text" name="email" value="Sign-up for Special Offers!" onclick="javascript:document.bullseye2.email.value=''"></td>
+				<td><input class="Submit EMAIL" type="submit" value="Sign Up!" name="SubmitBullsEye"></td>
+				<td><input type="hidden" name="message" value="Thank you. Your information has been submitted. To ensure delivery of your newsletter(s), please add EMAIL_ADDRESS@WHERE_ITS_FROM.COM to your address book, spam filter whitelist, or tell your company's IT group to allow this address to pass through any filtering software they may have set up."></td>
+			</tr>
+		</tbody></table>
+		</form>
+	</td>
+	<td class="TDSN1"><div class="SNCase"><a target="_new" href="http://www.facebook.com/annaslinens"><img src="/store_image/site/footer_facebook.gif"></a></div></td>
+	<td class="TDSN2"><div class="SNCase"><a target="_new" href="http://twitter.com/annaslinens"><img src="/store_image/site/footer_twitter.gif"></a></div></td>
+	<td class="TDSN3"><div class="SNCase"><a target="_new" href="http://www.youtube.com/user/annaslinens"><img src="/store_image/site/footer_youtube.gif"></a></div></td>
 </tr></tbody></table>
 
 <table cellspacing="0" cellpadding="0"><tbody><tr><td class="banner"></td>
-                <td class="banner "><a href="http://echo4.bluehornet.com/phase2/survey1/survey.htm?cid=lrhdys"><img src="http://www.annaslinens.com/store_image/banner/5.jpg"></a></td>
+                <td class="banner "><img src="https://payments.amazon.com/gp/cba/button?cartOwnerId=A1DI4URVTGIG07&amp;size=large&amp;color=tan&amp;background=white&amp;type=cart"></td>
                 <td class="banner "><a href="#"><img src="http://www.annaslinens.com/store_image/banner/2.jpg"></a></td>
+                <td class="banner "><img src="https://www.paypal.com/en_US/i/btn/btn_xpressCheckout.gif"></td>
                 <td class="banner "><span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=1954307117044c3471212711d4c959d7417c610693552370"></script></span></td>
             </tr>
     </tbody></table>
     </div>
-    <br>
+    <!-- <br> -->
 
+<div id="powered_by_torrey">
 © 2011 AnnasLinens.com. All rights reserved.
 <script language="javascript">
-document.write("<br /><a href=http://www.torreycommerce.com id=torreypower style=text-decoration:none;>Powered by TorreyCommerce</a>");
-</script><br><a href="http://www.torreycommerce.com" id="torreypower" style="text-decoration:none;">Powered by TorreyCommerce</a>
+document.write("<br /><a href=http://www.torreycommerce.com id=torreypower>Powered by TorreyCommerce</a>");
+</script><br><a href="http://www.torreycommerce.com" id="torreypower">Powered by TorreyCommerce</a>
+</div>
 
- <br>
+<br>
+
+<div id="footer_admin_links">
 <img src="http://www.annaslinens.com/stat.gif" width="1" height="1">
 </div>
 </div>
 </div>
+</div>
+
+<!-- BEGIN: Google Trusted Store -->
+	
+<!-- END: Google Trusted Store -->
 
 
 
 
-<script>
-(function() {
-	var searchInputs = document.getElementsByName('s');
-	for (var i = 0; i < searchInputs.length; ++i) {
-		var form = searchInputs[i].form;
-		if (!form.action.match(/search/))
-			continue;
-		searchInputs[i].setAttribute('autocomplete', 'off');
-		searchInputs[i].setAttribute('spellcheck', 'false');
-				form.action = form.action.replace('search', 'searchx');
-	}
-})();
-</script>
 
-<script type="text/javascript" src="http://www.google.com/jsapi"></script> 
+
+
 <script type="text/javascript">
-google.load('search', '1');
-(function() {
-	var onLoad = function() {
-		var cse_id = '005517635905630416547:sx5r5snmu9w';
-		var searchInputs = document.getElementsByName('s');
-		var formCount = 0;
-		for (var i = 0; i < searchInputs.length; ++i) {
-			var form = searchInputs[i].form;
-			if (!form.action.match(/searchx/))
-				continue;
-			if (!form.id.length) {
-				form.id = 'searchForm'+formCount;
-				formCount++;
-			}
-			google.search.CustomSearchControl.attachAutoCompletion(
-				cse_id,
-				searchInputs[i],
-				form.id
-			);
-		}
-	}
-	google.setOnLoadCallback(onLoad);
-})();
+$j(window).load(function() {
+    function IsImageOk(img) {
+       return (!img.complete) ? false : !(typeof img.naturalWidth !="undefined" && img.naturalWidth == 0);
+    }
+    var root = "/";
+
+    for (var i = 0; i < document.images.length; i++) {
+        var src = document.images[i].src;
+        if(src.indexOf('cloudfront.net')==-1 && src.indexOf('s3.amazonaws.com/tc-photos/')==-1) continue;
+        if (!IsImageOk(document.images[i])) {
+            var newstr = document.images[i].src.replace("http://dfmlo8oja8g1e.cloudfront.net/","");
+            newstr = newstr.replace("http://d2oqjo3nc0aqra.cloudfront.net/","");
+            newstr = newstr.replace("http://s3.amazonaws.com/tc-photos/","");
+
+            var param = newstr.split('/');
+            if (param.length != 4) {
+                continue;
+            }
+            var imagesplit= param[3].split('.');
+            var newurl=root+'photos/'+param[1]+"/"+param[2]+"/"+param[0]+"0S"+imagesplit[0]+"/alt/"+param[3];
+            document.images[i].src = newurl;
+        }
+    }
+});
 </script>
 
 
+<!-- Generated on December 27, 2011, 7:08:39 pm -->
+<!-- Server web2 -->
 
-<!-- Generated on January 9, 2011, 2:59:15 am -->
-<!-- Server  web1 -->
+
 
 
 
