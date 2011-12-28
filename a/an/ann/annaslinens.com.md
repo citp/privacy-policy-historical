@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the annaslinens.com privacy policy that was archived on 2011-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110109105915id_/http%3A//www.annaslinens.com/content/4/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annaslinens.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228030840id_/http%3A//www.annaslinens.com/content/4/privacy-security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
 Do not edit this promo!!! Push the back button on your browser and send change requests to Lee!
-
-
-
 
 **Privacy Policy**   
 At Anna's Linens, we are committed to protecting the privacy of our customers, which is why we do not sell, rent, or loan any personal identifiable information regarding our customers to any third party. We hope the policy below will answer all of your questions regarding how we treat information gathered from visitors to Anna's Linens. Feel free to email us at [AnnasLinens.com](http://www.annaslinens.com/contact) with any questions you might have. 
