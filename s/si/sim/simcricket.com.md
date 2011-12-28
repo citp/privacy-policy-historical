@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simcricket.com privacy policy that was archived on 2011-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110402044342id_/http%3A//www.cricwaves.com/cricket/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simcricket.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228153400id_/http%3A//www.cricwaves.com/cricket/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Cricwaves: Contact - Cricket Live Score, Free Score Widgets
 
