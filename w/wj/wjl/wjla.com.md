@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wjla.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630152606id_/http%3A//www.wjla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wjla.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228192114id_/http%3A//www.wjla.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WJLA.com
 
