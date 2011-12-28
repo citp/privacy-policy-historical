@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skiheavenly.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611085239id_/http%3A//www.skiheavenly.com/%7E/link.aspx%3F_id%3D6D7DB0EA278945F699D24227996B11E0%26_z%3Dz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skiheavenly.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228033424id_/http%3A//www.skiheavenly.com/privacy.aspx) for the most accurate reproduction.*
 
 # Vail Resorts Online Privacy Policy | SkiHeavenly.com
 
@@ -114,6 +114,7 @@ If you have questions about this Privacy Policy or the practices of our Sites, p
 The Vail Corporation dba Vail Resorts Management Company  
 390 Interlocken Crescent, Suite 1000  
 Broomfield, CO 80026  
+1-800-842-8062  
 [comments@vailresorts.com](mailto:comments@vailresorts.com?subject=Contact%20Us%20via%20Privacy%20Policy)
 
  ** _Effective Date of this Privacy Policy_**
