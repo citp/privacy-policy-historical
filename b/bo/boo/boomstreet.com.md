@@ -1,88 +1,95 @@
-> *The following text is extracted and transformed from the boomstreet.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223080927id_/http%3A//www.boomstreet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomstreet.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228122608id_/http%3A//boomstreet.com/legal/privacy) for the most accurate reproduction.*
 
-# BoomStreet - Daily Deals for Baby Boomers - BoomStreet.com
+# Privacy Policy - Atlanta
 
-**What information do we collect?**
+_Privacy Statement Effective as of August 1, 2010_
 
-We collect information from you when you register on our site, place an order or subscribe to our newsletter. 
+This privacy policy (the "Privacy Policy") covers the Tippr website (the "Site"). Please read below to review our Privacy Policy and the types of information we gather through our Site. In this Privacy Policy, "Tippr", "we", "us", "our" and other similar references means Tippr LLC a wholly owned subsidiary of Kashless, Inc., a Delaware corporation, and "User", "End User", "you", and "your" and other similar references mean a specific user of the Site. By visiting the Site, you accept the practices described in this Privacy Policy. If you have any questions about our privacy policy, please email us at [privacy@tippr.com](mailto:privacy@tippr.com).
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, phone number or credit card information. You may, however, visit our site anonymously.
+**PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR SITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR SITE'S TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE SITE.**
 
- **What do we use your information for?**
+### 1\. Changes to Privacy Policy
 
-Any of the information we collect from you may be used in one of the following ways: 
+We may occasionally change this policy. When we do, we will also revise the "last updated" date at the beginning of the policy. Your continued use of this Site after such changes will be subject to the then-current policy. We encourage you to periodically review this policy to stay informed about how we collect, use, and disclose personal information.
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+### 2\. Types of Information Collected and Uses of Collected Information
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+We collect two types of information about our End Users: Personally Identifiable Information and Non-Personally Identifiable Information.
 
-• To process transactions
+**Personally Identifiable Information.** Personally Identifiable Information is information that identifies a specific End User. When you engage in certain activities on the Site, such as creating an account, purchasing a Voucher, ordering a product or service from us or our partners, submitting content and/or posting content in discussion forums, entering a contest or sweepstakes sponsored by us or our partners, filling out a survey, posting a review, sending us or our partners feedback, requesting information about our services, submitting an affiliate agreement, applying for a job, posting a video or signing up for special offers from third parties through the Site (collectively, "Identification Activities"), we may ask you to provide certain information about yourself. It is optional for you to engage in an Identification Activity. If you elect to engage in an Identification Activity, however, we may ask you to provide us with certain personal information about yourself, such as your first and last name, mailing address (including zip code), email address, telephone number and date of birth. When you order products or services or purchase Vouchers, we may also ask you to provide us with your credit card number, expiration date and authentication codes or related information. Depending on the activity, some of the information we ask you to provide is identified as mandatory and some is identified as voluntary. If you do not provide the mandatory information for a particular activity that requires it, you will not be permitted to engage in that activity.
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+We use Personally Identifiable Information to provide products and services to you, administer sweepstakes and contests, enhance the operation of the Site, improve our marketing and promotional efforts, analyze Site use, improve our product and service offerings, and to tailor your experience with third parties as provided in Item 3 of this Privacy Policy. For example, if you send our customer service an email we may use your comments and feedback to tell others about our services, and may post your comment in our marketing materials or on our Site. In addition, if you use our Site to send information or a product to another person, we may store your personal information, and the personal information of any recipient. We may use that other person's contact information to allow him or her to view and accept your gift or to allow the recipient to access the information you requested we send. We may also use Personally Identifiable Information to troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, including our Site's Terms of Use and this Privacy Policy, comply with applicable law, and cooperate with law enforcement activities.
 
-• To send periodic emails  
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+**Non-Personally Identifiable Information.** Non-Personally Identifiable Information is information that does not identify a specific End User. This type of information may include things like the Uniform Resource Locator ("URL") of the website you visited before coming to our Site, the URL of the website you visit after leaving our Site, the type of browser you are using and your Internet Protocol ("IP") address. We, and/or our authorized Third Party Service Providers and Advertisers, may automatically collect this information when you visit our Site through the use of electronic tools like Cookies and Web beacons or Pixel tags, as described in Items 4 and 8 of this Privacy Policy.
 
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
+We use Non-Personally Identifiable Information to troubleshoot, administer the Site, analyze trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized Third Party Service Providers and Advertisers to measure the overall effectiveness of our online advertising, content, and programming.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+### 3\. Release of Personally Identifiable Information
 
- **How do we protect your information?**
+We will not share your Personally Identifiable Information with other parties except as provided below:
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+**We may share your information with Tippr Merchants.** We may share your information with Tippr Merchants. From time to time, we provide offers from particular merchants (referred to as "Merchants") who, as part of the offer, request information on Users who purchased the offer. In those cases, we share some of your Personally Identifiable Information with the Merchants. Sharing this information will allow a Merchant to market directly to you should they choose to do so. However, we will only share Personally Identifiable Information with a Merchant if you engage in an Identification Activity, and then only to the Merchant involved in that Identification Activity. We specifically disclaim any responsibility or liability for the actions of such Merchants. While we inform them that they are only permitted to communicate with you for the purposes of the specific promotion with Tippr, we do not have any responsibility for the actions of the Merchant, and the actions of the Merchant are not in our control.
 
-We offer the use of a secure server. All supplied sensitive/ credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+**We may share your information with Tippr Publishers.** From time to time, we partner with third parties to promote the Merchant's offers ("Publishers") on their Communication Networks (as defined below). In those cases, we share some of your Personally Identifiable Information with the Publishers. Sharing this information will allow Publisher to market directly to you should they choose to do so. However, we will only share Personally Identifiable Information with the Publisher if you engage in an Identification Activity, and then only to the Publisher involved in that Identification Activity. Please note that we will only provide a Publisher your information with an opt-in notice to you, in which you will have a chance to choose that Tippr not give the Publisher your Personally Identifiable Information. We specifically disclaim any responsibility or liability for the actions of such Publishers as the actions of the Publishers are not in our control.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+**We may share your information with Authorized Third Party Service Providers.** We provide some of our services and products through third parties. These "Third Party Service Providers" perform functions on our behalf, like sending out and distributing our administrative and promotional emails. We may share your Personally Identifiable Information with such Third Party Service Providers to fulfill orders, deliver packages, send postal or email, administer contests or sweepstakes, remove repetitive information on customer lists, analyze data, provide marketing assistance, provide search results and links, process credit card payments, operate the Site, troubleshoot, and provide customer service. We may also collect personal information from individuals and companies ("Affiliates") with whom we have business relationships and may have to also share their information with Service Providers to accomplish our administrative tasks. For example, when you order a service, we release your credit card information to the card-issuing bank to confirm payment for the service and, if applicable, release your address to the delivery service to deliver the service. Likewise, we may release an Affiliate's information to our bank to send out a payment. We encourage Tippr Merchants and Third Party Service Providers to adopt and post privacy policies. However, the use of your Personally Identifiable Information by such parties is governed by the privacy policies of such parties and is not subject to our control.
 
- **Do we use cookies?**
+**We may remarket your information.** Remarketing is a way for us to connect with users, based upon your past interactions with the Site. Third-party marketing vendors may be hired by Tippr to perform remarketing services. As a result, third-party vendors, including Google, may show Tippr ads on sites on the internet. Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to Tippr's website. Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page at <http://www.google.com/privacy_ads.html.>
 
-Yes - Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+**We may share your information in a Business Transfer.** As with any other business, we could merge with, or be acquired by another company. If this occurs, the successor company would acquire the information we maintain, including Personally Identifiable Information. However, Personally Identifiable Information would remain subject to this Privacy Policy.
 
-We use cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits.
+**We may share your information for our Protection and the Protection of Others.** We may also disclose Personally Identifiable Information when we believe release is appropriate to comply with the law or a court order; enforce or apply this Privacy Policy, our Site's Terms of Use or other agreements; or protect the rights, property or safety of the Site, its Users or others.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
+### 4\. Release of Non-Personally Identifiable Information
 
-**Do we disclose any information to outside parties?**
+We may disclose or share Non-Personally Identifiable Information with Partners, Affiliates and Advertisers. For example, we may share aggregated demographic information (which does not include any Personally Identifiable Information) with "Third Party Advertisers" or "Third Party Advertising Companies" (collectively "Advertisers") and other parties as provided below:
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We use Third Party Advertising Companies to serve ads when you visit our Site. These companies may use Non-Personally Identifiable Information about your visits to this and other websites in order to provide, through the use of network tags, advertisements about goods and services that may be of interest to you. Some of these Third Party Advertising Companies may be advertising networks that are members of the Network Advertising Initiative ("NAI"). If you would like more information about any NAI member company, or you would like to opt-out of targeted advertising from any NAI member company, click here: <http://www.networkadvertising.org/consumer/opt_out.asp>.
 
- **Third party links**
+We also use Third Party Service Providers to track and analyze Non-Personally Identifiable usage and volume statistical information from our Users to administer our Site and constantly improve its quality. We may also publish this information for promotional purposes or as a representative audience for Advertisers. Please note that this is not Personally Identifiable Information, only general summaries of the activities of our Users. Such data is collected on our behalf, and is owned and used by us.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+### 5\. Updating and Correcting Information
 
- **California Online Privacy Protection Act Compliance**
+We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by sending us an email at [privacy@tippr.com](mailto:privacy@tippr.com) or writing to us at 4300 Roosevelt Way NE, Ste. 200, Seattle, WA 98105. Please indicate your name, address and email address, and what information you would like to update when you contact us.
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Site. In addition, in may be impossible for us to completely delete all of your information because we periodically backup information.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+### 6\. User Choices on Collection and Use of Information
 
- **Childrens Online Privacy Protection Act Compliance**
+As discussed above, you can always choose not to provide information, although it may be required to engage in a certain activity on the Site.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+As a condition of purchase of our products and services, including Vouchers, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. "Administrative Emails" relate to a User's activity on the Site, and include emails regarding a particular User's account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our products and services, including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at [privacy@tippr.com](mailto:privacy@tippr.com), by writing to us at the address contained herein, or by hitting the "unsubscribe" button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.
 
- **Terms and Conditions**
+### 7\. Security of Information
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.boomstreet.com/terms>
+We take security seriously and take numerous precautions to protect the security of Personally Identifiable Information. You can access your Personally Identifiable Information on our Site through a password and your email address. This password is encrypted. We recommend that you do not share your password with anyone. In addition, your Personally Identifiable Information resides on a secure server that only selected personnel and contractors have access to. We encrypt certain sensitive information using Secure Socket Layer (SSL) technology to ensure that your Personally Identifiable Information is safe as it is transmitted to us.
 
-**Your Consent**
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we employ commercially reasonable security measures to protect data and seek to partner with companies, which do the same, we cannot guarantee the security of any information transmitted to or from the Site, and are not responsible for the actions of any third parties that may receive any such information.
 
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
+### 8\. Data Tracking
 
- **Changes to our Privacy Policy**
+**Cookies.** To facilitate and customize your experience with the Site, we store cookies on your computer. A cookie is a small text file that is stored on a User's computer for record-keeping purposes which contains information about that User. We use cookies to save you time while using the Site, remind us who you are, and track and target User interests in order to provide a customized experience. Cookies also allow us to collect Non-Personally Identifiable Information from you, like which pages you visited and what links you clicked on. Use of this information helps us to create a more user-friendly experience for all visitors. In addition, we may use Third Party Advertising Companies to display advertisements on our Site. As part of their service, they may place separate cookies on your computer. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by our Site only and does not cover the use of cookies by any Advertiser. Most browsers automatically accept cookies, but you may be able to modify your browser settings to decline cookies. Please note that if you decline or delete these cookies, some parts of the Site may not work properly.
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+**Other Tracking Devices.** We may use other industry standard technologies like pixel tags and web beacons to track your use of our Site pages and promotions, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Site, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a Non-Personally Identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Site, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our Affiliates and/or Advertisers for the same purposes.
 
-This policy was last modified on July 7, 2010
+### 9\. Privacy Policies of Third Party Websites
 
- **Contacting Us**
+This Privacy Policy only addresses the use and disclosure of information we collect from you. Other websites that may be accessible through this Site have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we urge you review the website's privacy policy. We are not responsible for the policies or practices of third parties.
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+### 10\. Miscellaneous Privacy Issues
 
-http://www.boomstreet.com  
-P.O. Box 1573  
-Hermosa Beach, California 90254  
-United States  
-info@boomstreet.com 
+**Children.** Children's safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children. Our Site is not directed to children, and we do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian of a child under the age of 13, and you become aware that the child has provided us with personal information without your consent, please contact us at [privacy@tippr.com](https://web.archive.org/web/20111228122608id_/http://boomstreet.com/legal/privacy/privacy@tippr.com).
+
+**Public Areas.** We may provide areas on our Site where you can publicly post information about yourself, can communicate with others, or can review products, restaurants, and submit media content. This information may be accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information.
+
+**Notice of Privacy Rights to California Residents.** California law requires that we provide you with a summary of your privacy rights under the California Online Privacy Protection Act (the "Act") and the California Business and Professions Code. As required by the Act, we will provide you with the categories of Personally Identifiable Information that we collect through the Site and the categories of third party persons or entities with whom such Personally Identifiable Information may be shared for direct marketing purposes at your request. California law requires us to inform you, at your request, (1) the categories of Personally Identifiable Information we collect and what third parties we share that information with; (2) the names and addresses of those third parties; and (3) examples of the products marketed by those companies. The Act further requires us to allow you to control who you do not want us to share that information with. To obtain this information, please send a request by email or standard mail to the address found below. When contacting us, please indicate your name, address, email address, and what Personally Identifiable Information you do not want us to share with Affiliates or Advertisers. The request should be sent to [privacy@tippr.com](mailto:privacy@tippr.com), and labeled "California Customer Choice Notice." Please allow 30 days for a response. Also, please note that there is no charge for controlling the sharing of your Personally Identifiable Information or requesting this notice.
+
+**Consent To Processing In The United States.** By providing any Personal Identifiable Information to Tippr, all users, including, without limitation, users in Canada and the member states of the European Union, fully understand and unambiguously consent to this Privacy Policy and to the transfer of such Personal Identifiable Information across international borders in accordance with Tippr's standard operations, including the collection, storage, and processing of such information in the United States of America.
+
+### 11\. Contacting Us
+
+Tippr is committed to protecting your privacy. The information collected from our Site helps us better understand our market and consumer interests. This allows us to serve our customers and business associates with the level of satisfaction they deserve.
+
+If you have questions or suggestions regarding this Privacy Policy or our privacy practices please send an email message [privacy@tippr.com](mailto:privacy@tippr.com).
+
+4300 Roosevelt Way NE, Ste. 200, Seattle, WA 98105
