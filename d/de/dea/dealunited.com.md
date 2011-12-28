@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealunited.com privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319015842id_/http%3A//www.dealunited.de/home/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealunited.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228070714id_/http%3A//dealunited.de/home/en/privacy_policy) for the most accurate reproduction.*
 
 # Data Protection Policy | dealunited
 
