@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the diabeticconnect.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226101832id_/http%3A//www.diabeticconnect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabeticconnect.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228020913id_/http%3A//www.diabeticconnect.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - Diabetic Connect
 
-**Last Updated: 12/15/2010**
+**Last Updated: 11/28/2011**
 
 Alliance Health, the owner and operator of this social health network, understands the importance and sensitivity of our member's information and has created this statement to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices.
 
@@ -25,11 +25,11 @@ By clicking the "Accept" button during registration or by using this site, you e
 
 Alliance Health is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.diabeticconnect.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, email us at [community@alliancehealth.com](mailto:community@alliancehealth.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [watchdog.truste.com](http://watchdog.truste.com/pvr.php?page=complaint&url=www.diabeticconnect.com). TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, [contact us](https://web.archive.org/feedback). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [watchdog.truste.com](http://watchdog.truste.com/pvr.php?page=complaint&url=www.diabeticconnect.com). TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 ## Collection and Use of Information
 
-You do not have to give us any personal information in order to browse and read the content in the public portions of our site. Our registration forms collect both contact information (e.g., name, email address, phone number, and physical address) and demographic information (e.g., gender and age). We use this data to tailor your site experience at the site, display relevant content we think you might be interested in, and display the content according to your preferences. On occasion, this information is shared with advertisers on an aggregate basis only, in order to provide our community members with relevant offers on products and services. You control which (if any) of the details of your contact and demographic information that can be viewed by other members of the site.
+You do not have to give us any personal information in order to browse and read the content in the public portions of our site. Our registration process collects both contact information (e.g., name, email address, phone number, and physical address) and demographic information (e.g., gender and age). We use this data to tailor your site experience at the site, display relevant content we think you might be interested in, and display the content according to your preferences. On occasion, this information is shared with advertisers on an aggregate basis only, in order to provide our community members with relevant offers on products and services. You control which (if any) of the details of your contact and demographic information that can be viewed by other members of the site.
 
 When you use the site, you may set up your personal profile, form relationships with other members, send messages, perform searches and queries, and transmit information through various channels. We collect this information so that we can provide you the various personalized services offered on the site such as discussions, ratings and reviews, and blog postings. In most cases, this information is retained and used, for instance, so you can return to view prior messages you have sent or easily see your friend list. When you update information, a backup copy of the prior version is kept for a reasonable period of time to enable reversion to the prior version of that information should the need arise.
 
@@ -73,15 +73,15 @@ By registering with any Alliance Health site, by managing your profile, or expre
 
 
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com).
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can [contact us](https://web.archive.org/feedback).
 
 Within the community site, you may post User Content on the site at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.
 
 Information you post in public areas of the site can, in some instances, be edited but not everything posted can be. We ask that you provide references for any medical information posted which isn't your own personal experience (something you have personally undergone). User Content you post will be accessed, used, and stored by others around the world, including countries that might not have legislation that guarantees adequate protection with respect to your country of residence. By providing your personal information for inclusion in our database, you acknowledge that you consent to your information being used as described here. While Alliance Health takes measures to safeguard your information from unauthorized access or inappropriate use by third parties, Alliance Health does not control these third parties and we are not responsible for their use of information you post or otherwise make available in public areas of the Alliance Health sites. Accordingly, you should ensure that you do not post sensitive information to any Alliance Health site.
 
-Any improper collection or misuse of information provided on the site is a violation of the terms of use and should be reported to [community@alliancehealth.com](mailto:community@alliancehealth.com).
+Any improper collection or misuse of information provided on the site is a violation of the terms of use and should be reported by [contacting us](https://web.archive.org/feedback).
 
-If you choose to use our invitation service to tell a friend about our site, we will ask you for information relevant to the invitation process, such as your friend's email address. We will automatically send your friend a one-time email or instant message inviting him or her to visit the site. The site stores this one-time invitation information in order to register a friend connection if your invitation is accepted, and to track the success of our referral program. Your invited friend may contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com) to request that we remove this information from our database.
+If you choose to use our invitation service to tell a friend about our site, we will ask you for information relevant to the invitation process, such as your friend's email address. We will automatically send your friend a one-time email or instant message inviting him or her to visit the site. The site stores this one-time invitation information in order to register a friend connection if your invitation is accepted, and to track the success of our referral program. Your invited friend may [contact us](https://web.archive.org/feedback) to request that we remove this information from our database.
 
 From time to time, we share aggregated data regarding the users of our services (for example, information such as the percentage of our users that have a specific condition, or that users who choose one type of service request a related service a certain percentage of the time). Some of this data may include the data obtained as described in the "cookies" section, but no personally identifiable individual information is included in these types of shared statistics.
 
@@ -125,13 +125,13 @@ Occasionally we may share information with our sponsors and partners in order to
 
 ## Securing information entered by visitors
 
-We use industry-standard technology to keep your personal information and information you have entered into our site as secure as possible. We also have put in place privacy protection control systems designed to ensure that your personal data remains safe and private.
+At Alliance Health we follow highly sophisticated security practices (as per HIPAA Security Compliance) and implement the necessary safeguards on our social health communities. We use a secure respected hosting provider for all of our web sites which are hosted in a SAS 70 Type II certified data center. We also use firewalls and other access controls on our servers that are monitored to help protect against security vulnerabilities.
 
-The security of your personal information is important to us. When you enter sensitive information such as private or personal health information on our registration forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, [click here](http://en.wikipedia.org/wiki/Transport_Layer_Security).
+The safety of your personal information is important to us. When sensitive information (such as private or personal health information) is entered or displayed on relevant forms and pages, we encrypt that information. We exclusively use 2048 bit SSL certificates
 
-Each and every Alliance Health employee servicing the website is obligated to abide by this privacy policy. Employees who violate our privacy policies are subject to disciplinary action, up to and including termination.
+Each and every Alliance Health employee servicing the website is obligated to abide by this privacy policy. Employees who violate our privacy policies are subject to disciplinary action, up to and including termination. Only authorized Alliance Health employees servicing the website are permitted to have access to your personal information, and such access is limited by need.
 
-Only authorized Alliance Health employees servicing the website are permitted to have access to your personal information, and such access is limited by need.
+We welcome your input and feedback about our sites and the services that we provide to you.
 
 ## Disclosure on Alliance Health Offers
 
@@ -145,9 +145,9 @@ Our content is not influenced by advertisements or any other commercial influenc
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-## A Note to Parents on our Privacy Policy Regarding Children
+## A Note to Parents on our Privacy Policy
 
-Alliance Health is very sensitive to privacy issues and we are proud of our longtime commitment to our customers. We are especially careful in any communications with one of our most treasured customers—children and families. We do not collect personal information from children 12 and under. We do not associate cookie data with personal information about children.
+Alliance Health is very sensitive to privacy issues. We are especially careful in any communications with one of our most treasured customers—children and families. We do not collect personal information from children 12 and under. We do not associate cookie data with personal information about children.
 
 **Alliance Health Networks**  
 9 Exchange Place, Suite #200  
