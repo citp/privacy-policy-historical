@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the southasiablog.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330061659id_/http%3A//www.southasiablog.com/2009/06/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southasiablog.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228042853id_/http%3A//www.southasiablog.com/2009/06/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# South Asia Blog: Privacy Policy
 
 Privacy Policy for [http://www.southasiablog.com](http://www.southasiablog.com/)
 
