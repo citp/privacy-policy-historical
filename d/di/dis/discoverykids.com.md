@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverykids.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629034810id_/http%3A//kids.discovery.com/utilities/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverykids.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228141537id_/http%3A//kids.discovery.com/utilities/about/privacypolicy) for the most accurate reproduction.*
 
 # Discovery Kids :: Privacy Policy
 
@@ -89,6 +89,8 @@
     **(2) Non-Personally Identifiable Information** 
     
     Non-personally identifiable information is used as described above and in other ways as permitted by applicable laws, including combining non-personally identifiable information with personally identifiable information (except with respect to non-personally identifiable information collected from children under the age of 13). 
+    
+    We allow third-party companies to collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or a third party web beacon to collect this information. To learn more about this behavioral advertising practice, you can visit www.networkadvertising.org.
     
     **C. Sharing and Disclosure of Information** 
     
@@ -256,5 +258,5 @@
     Phone: (240) 662-2000 (Legal)
     Email: [privacy_policy@discovery.com](mailto:privacy_policy@discovery.com) 
     
-    Last Updated On: Wednesday, August 19, 2010 
+    Last Updated On: Monday, September 19, 2011 
         
