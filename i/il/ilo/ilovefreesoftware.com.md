@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ilovefreesoftware.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615164854id_/http%3A//www.ilovefreesoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovefreesoftware.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228175938id_/http%3A//www.ilovefreesoftware.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | I Love Free Software
+# Privacy Policy - I Love Free Software || Free Software
 
 When a visitor requests pages from uberdownloads site, our Web Server automatically recognizes Browser Name and Version, User OS, User IP address, Path etc. This information is collected solely for statistical purposes and is not used to identify individuals.
 
