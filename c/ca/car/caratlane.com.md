@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the caratlane.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228052736id_/http%3A//www.caratlane.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caratlane.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228030308id_/http%3A//www.caratlane.com/privacy-policy) for the most accurate reproduction.*
 
 # CaratLane's Privacy Policy
 
 **PRIVACY POLICY**
 
-CaratLane Trading Private Limited (“ **CaratLane** ”) is the owner of [www.caratlane.com](http://www.caratlane.com/) (“ **Website** ”). Caratlane can be contacted by phone at 1800-102-0103, or by e-mail at [contactus@caratlane.com](mailto:contactus@caratlane.com).  The protection and security of your personal information is one of CaratLane’s top priorities. This online Privacy Policy discloses CaratLane’s information practices for this Website and subscriber / membership based services (“ **Services** ”) including the type of information being collected, method of such information collection, use of such information and sharing of such information with third parties. 
+CaratLane Trading Private Limited (“ **CaratLane** ”) is the owner of [www.caratlane.com](http://www.caratlane.com/index.php) (“ **Website** ”). Caratlane can be contacted by phone at 1800-102-0103, or by e-mail at [contactus@caratlane.com](mailto:contactus@caratlane.com).  The protection and security of your personal information is one of CaratLane’s top priorities. This online Privacy Policy discloses CaratLane’s information practices for this Website and subscriber / membership based services (“ **Services** ”) including the type of information being collected, method of such information collection, use of such information and sharing of such information with third parties. 
 
 By using this Website you agree to accept the terms of this Privacy Policy as well as the Website’s Terms of Use.  By accessing or using this Website you expressly consent to our use and disclosure of your personal information in any manner described in this Privacy Policy.  This Privacy Policy extends to both, users who visit the Website but do not transact business on the Website (“ **Users** ”) as well as users who are registered and are authorized by the Website to transact business on the Website (“ **Members** ”).
 
