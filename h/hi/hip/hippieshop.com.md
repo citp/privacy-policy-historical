@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hippieshop.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628203403id_/http%3A//www.hippieshop.com/cgi-bin/gold/category.cgi%3Fcategory%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hippieshop.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228203042id_/http%3A//www.hippieshop.com/cgi-bin/gold/category.cgi%3Fcategory%3Dprivacy) for the most accurate reproduction.*
 
-# at HippieShop.com
+# Privacy Policy HippieShop.com
+
+***HIPPY HOLIDAY! GET $10 OFF, just use coupon code [[hippyholiday](http://www.hippieshop.com/cgi-bin/gold/category.cgi?category=0&promo=hippyholiday)] at checkout when you purchase $99.99 or more. **
 
 **Privacy Policy**
 
