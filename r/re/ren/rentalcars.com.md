@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rentalcars.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615023101id_/http%3A//www.rentalcars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalcars.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228201721id_/http%3A//www.rentalcars.com/privacy) for the most accurate reproduction.*
 
-# RentalCars.com - Privacy Policy
+# Rental Cars.com - Privacy Policy
 
 ## Privacy Policy
 
@@ -24,7 +24,7 @@ Priceline.com is a participant in the TRUSTe Privacy Seal Program. TRUSTe is an 
 
 [](http://www.truste.org/)
 
-If you have questions or concerns regarding this statement, you should first [click here to contact our Help Center](https://web.archive.org/help/). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first [click here to contact our Help Center](https://web.archive.org/contact/). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 We value your trust in us and will work hard to earn your confidence so that you can enthusiastically use our services and recommend us to your friends and family. 
 
@@ -94,4 +94,4 @@ Persons under the age of 18 are not eligible to use any services on our site.
 
 ### How to Contact Us
 
-Should you have any questions, concerns or comments, please [click here](https://web.archive.org/help/). Rentarcars.com is located c/o Priceline.com Incorporated at 800 Connecticut Avenue, Norwalk, Connecticut 06854. 
+Should you have any questions, concerns or comments, please [click here](https://web.archive.org/contact/). Rentarcars.com is located c/o Priceline.com Incorporated at 800 Connecticut Avenue, Norwalk, Connecticut 06854. 
