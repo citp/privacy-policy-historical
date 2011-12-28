@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tikona.in privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123173649id_/http%3A//www.tikona.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tikona.in privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228010224id_/http%3A//www.tikona.in/privacy-statement) for the most accurate reproduction.*
 
-# Tikona Digital Networks - Privacy Statement
+# Tikona Digital Networks-Secured Wireless Broadband-Home-Enterprise-SME-Privacy Statement
 
-[Home](https://web.archive.org/web/20110123173649id_/http%3A//www.tikona.in/index.php)  »  Privacy Statement
+[Home](https://web.archive.org/web/20111228010224id_/http%3A//www.tikona.in/index.php)  »  Privacy Statement
 
 ## Privacy Statement
 
