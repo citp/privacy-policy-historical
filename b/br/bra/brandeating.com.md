@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandeating.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321172100id_/http%3A//www.brandeating.com/p/contact-and-privacy-policy_27.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandeating.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228191158id_/http%3A//www.brandeating.com/p/contact-and-privacy-policy_27.html) for the most accurate reproduction.*
 
 # Brand Eating: Contact and Privacy Policy
 
