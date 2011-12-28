@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iphoneruler.net privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425232609id_/http%3A//www.iphoneruler.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphoneruler.net privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228063751id_/http%3A//www.iphoneruler.net/privacy-policy) for the most accurate reproduction.*
 
-# iPhoneRuler | Privacy Policy
+# Privacy Policy | iPhoneRuler
 
 The privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by iPhoneRuler.net and how it is used.
 
