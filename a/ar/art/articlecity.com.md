@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlecity.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630100137id_/http%3A//www.articlecity.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecity.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228055813id_/http%3A//www.articlecity.com/privacy.shtml) for the most accurate reproduction.*
 
 # ArticleCity.com - Privacy Policy
 
