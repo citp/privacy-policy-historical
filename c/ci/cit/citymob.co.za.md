@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the citymob.co.za privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509224017id_/http%3A//citymob.co.za/cape-town/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citymob.co.za privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228214257id_/http%3A//citymob.co.za/cape-town/page/privacy-policy) for the most accurate reproduction.*
 
 # CityMob | Privacy Policy
+
+## Privacy Policy
 
 This tells you how we use personal information collected on Citymob.co.za. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed at any time, but any changes will be posted and changes will only apply to activities and information on a going forward basis. 
 
