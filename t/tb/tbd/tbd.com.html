@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the tbd.com privacy policy that was archived on 2011-04-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110425175743id_/http%3A//www.tbd.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tbd.com privacy policy that was archived on 2011-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228192114id_/http%3A//www.wjla.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" dir="ltr" class="js"><head>
 
-<title>Privacy | TBD.com</title>
+<title>Privacy Policy | WJLA.com</title>
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
 
 <meta name="description" content="">
@@ -11,28 +13,31 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="robots" content="all">
 <meta name="Revisit-After" content="10 minutes">
-<meta name="author" content="TBD | TBD.com">
-<meta name="Copyright" content="Copyright (c) 2011 TBD">
+<meta name="author" content="WJLA | WJLA.com">
+<meta name="Copyright" content="Copyright (c) 2011 WJLA">
 
 
-<meta property="og:site_name" content="TBD">
-<meta property="fb:app_id" content="142509369108300">
+<meta property="og:site_name" content="WJLA">
+<meta property="fb:app_id" content="109987712420424">
 
 
-	
 
 
-<link rel="shortcut icon" href="http://www.tbd.com/favicon.ico">
+
+<link rel="shortcut icon" href="http://www.wjla.com/favicon.ico">
 
 
 
 	<link rel="canonical" href="">
 
-		<link rel="stylesheet" type="text/css" href="http://www.tbd.com/css/v1/legal.css" media="screen, projection">
+		<link rel="stylesheet" type="text/css" href="http://www.wjla.com/css/v2/wjla/legal.css" media="screen, projection">
 	
-<link rel="stylesheet" type="text/css" href="http://www.tbd.com/css/v1/print.css" media="print">
+<link rel="stylesheet" type="text/css" href="http://www.wjla.com/css/v2/wjla/print.css" media="print">
 <!--[if  lte IE 7]>
-<link rel="stylesheet" type="text/css" href="http://www.tbd.com/css/v1/ie.css" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="http://www.wjla.com/css/v2/wjla/ie.css" media="screen, projection" />
+<![endif]-->
+<!--[if  lte IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.wjla.com/css/v2/wjla/ie8.css" media="screen, projection" />
 <![endif]-->
 
 
@@ -40,109 +45,70 @@
 
 
 
-<script src="http://www.tbd.com/js/jquery.min.js" type="text/javascript"></script>
-<script src="http://www.tbd.com/js/plugins/jquery.infieldlabel.min.js" type="text/javascript"></script>
-<script src="http://www.tbd.com/js/plugins/jquery.cookie.js" type="text/javascript"></script>
-<script src="http://www.tbd.com/js/plugins/jquery.prettyPhoto.js" type="text/javascript"></script>
+<script src="http://www.wjla.com/js/jquery.min.js" type="text/javascript"></script>
+<script src="http://www.wjla.com/js/plugins/jquery.infieldlabel.min.js" type="text/javascript"></script>
+<script src="http://www.wjla.com/js/plugins/jquery.cookie.js" type="text/javascript"></script>
+<script src="http://www.wjla.com/js/plugins/jquery.prettyPhoto.js" type="text/javascript"></script>
+
+
+	<script src="http://www.wjla.com/js/plugins/jquery.lazyload.js" type="text/javascript"></script>
+
+	
+			<script type="text/javascript">
+					$(document).ready(function(){
+						$("#mainContent img").lazyload({
+							placeholder : "http://www.wjla.com/design/global/bg/gray.gif",
+							effect : "fadeIn" ,
+							failurelimit : 18
+						});
+						$("#secondaryContent .mod img").lazyload({
+							placeholder : "http://www.wjla.com/design/global/bg/gray.gif",
+							effect : "fadeIn"
+						});
+					});
+			</script>
+		
 
 <script type="text/javascript">
-	$(document).ready(function(){
+	$(window).bind("load", function(){
 		$("a[rel^='prettyPhoto']").prettyPhoto( {hideflash: true, theme: 'light_square', showTitle: false, iframe_markup: '<iframe src ="{path}" width="{width}" height="{height}" frameborder="no" scrolling="no"></iframe>'});
 		$("body").addClass("not-signed-in").removeClass("signed-in");
 		if (getCookie("LOGGEDIN") == 'true') {
 			$("body").addClass("signed-in").removeClass("not-signed-in");
 		}
-		if (!getCookie("LOGGEDIN")){
-			$('.save-this').hide();
+
+		//get current nav
+		var myString = new String(document.location); 
+		var myArray = myString.split('/'); 
+		if (myArray[myArray.length-2] == 'www.wjla.com') {
+			$('.nav-news').addClass('current');
+		} else {
+			$('.nav-news').removeClass('current');
+			$('.nav-'+myArray[myArray.length-2]).addClass('current');
 		}
-		$(".save-this").click(function(){
-			$(this).addClass("saved").removeClass("save").html("Saved!");
-		});
+
 	});
 </script>
 
-<script src="http://www.tbd.com/js/v1/behaviors.js" type="text/javascript"></script>
+<script src="http://www.wjla.com/js/v2/wjla/behaviors.js" type="text/javascript"></script>
 <!--[if lte IE 6]>
-<script type="text/javascript" src="http://www.tbd.com/js/plugins/supersleight.plugin.js"></script>
-<script type="text/javascript" src="http://www.tbd.com/js/v1/iepngs.js"></script>
+<script type="text/javascript" src="http://www.wjla.com/js/plugins/supersleight.plugin.js"></script>
+
+		<script type="text/javascript" src="http://www.wjla.com/js/v1/iepngs.js"></script>
+   
 <![endif]-->
-<script type="text/javascript" src="http://www.tbd.com/swfobject2.js"></script>
-<script type="text/javascript" src="http://www.tbd.com/js/cookiemanager.js"></script>
-<script language="JavaScript" src="http://www.tbd.com/js/plugins/jquery.jsonSuggest.js"></script>
-<script language="JavaScript" src="http://www.tbd.com/js/json2.js"></script>
-<script type="text/javascript" src="http://www.tbd.com/js/jquery-ui.min.js"></script>
-<script src="http://www.tbd.com/js/plugins/ui-components.js" type="text/javascript"></script>
-<script type="text/javascript" src="http://www.tbd.com/js/jsr_class.js"></script>
+<script type="text/javascript" src="http://www.wjla.com/swfobject2.js"></script>
+<script type="text/javascript" src="http://www.wjla.com/js/cookiemanager.js"></script>
+<script language="JavaScript" src="http://www.wjla.com/js/plugins/jquery.jsonSuggest.js"></script>
+<script language="JavaScript" src="http://www.wjla.com/js/json2.js"></script>
+<script type="text/javascript" src="http://www.wjla.com/js/jquery-ui.min.js"></script>
+<script src="http://www.wjla.com/js/plugins/ui-components.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.wjla.com/js/jsr_class.js"></script>
+<link href="http://www.wjla.com/css/jsonSuggest.css" rel="stylesheet" type="text/css">
+<script src="http://www.wjla.com/js/plugins/jquery.xml2json.js" type="text/javascript"></script>
+<script src="http://www.wjla.com/js/plugins/jquery.weathertop.js" type="text/javascript"></script>
+<script src="http://www.wjla.com/js/login.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-
-var geolocation = getCookie("GEOLOCATION");
-var geophrase = getCookie("GEOPHRASE");
-var geocounty = getCookie("GEOCOUNTY");
-var WEATHERLOCATION = getCookie("WEATHERLOCATION");
-var WEATHERPHRASE = getCookie("WEATHERPHRASE");
-var geozip = "";
-var geostate = "";
-var thezone = "";
-var thecounty = "";
-
-if(geolocation == null || geolocation == '' || geolocation == undefined){
-	geolocation = "20005_district_of_columbia";
-	setCookie("GEOLOCATION",geolocation,1000,"/","tbd.com");
-}
-if(geophrase == null || geophrase == '' || geophrase == undefined){
-	geophrase = "20005, District of Columbia";
-	setCookie("GEOPHRASE",geophrase,1000,"/","tbd.com");
-}
-if(geocounty == null || geocounty == '' || geocounty == undefined){
-	geocounty = "District of Columbia";
-	setCookie("GEOCOUNTY",geocounty,1000,"/","tbd.com");
-}
-if(WEATHERLOCATION == null || WEATHERLOCATION == '' || WEATHERLOCATION == undefined){
-	WEATHERLOCATION = "20005";
-	setCookie("WEATHERLOCATION",WEATHERLOCATION,1000,"/","tbd.com");
-}
-if(WEATHERPHRASE == null || WEATHERPHRASE == '' || WEATHERPHRASE == undefined){
-	WEATHERPHRASE = "20005, District of Columbia";
-	setCookie("WEATHERPHRASE",WEATHERPHRASE,1000,"/","tbd.com");
-}
-
-$(document).ready(function(){
-	$("#currentLocation").val(geophrase);
-	$.getJSON("/geotaglookup/geotags.json", function(data){
-		$('#currentLocation').jsonSuggest(data,{minCharacters:2,onSelect:setLocationTag,wildCard:"*",highlightMatches:false,maxHeight:1000,width:1500,delay:200});
-	});
-});
-
-
-function setLocationTag(tag){
-	var selectedloc = tag.text.toLowerCase().replace(/[^a-zA-Z0-9]/g,"_").replace(/[_]{2,}/g,"_");
-	setCookie("GEOLOCATION",selectedloc,1000,"/","tbd.com");
-	setCookie("GEOPHRASE",tag.text,1000,"/","tbd.com");
-	$.getJSON("/geotaglookup/"+selectedloc+'.json',function(data){
-		geozip = data.zip;
-		geostate = data.state;
-		geocounty = data.countyproper;
-		setCookie("GEOCOUNTY",geocounty,1000,"/","tbd.com");
-		setCookie("WEATHERLOCATION",data.zip,1000,"/","tbd.com");
-		setCookie("WEATHERPHRASE",tag.text,1000,"/","tbd.com");
-	});
-	geolocation = selectedloc;
-	geophrase = tag.text;
-	$("#currentLocation").val(tag.text);
-}
-
-</script>
-<script type="text/javascript" src="http://www.tbd.com/js/doubleclick/dcvars.js"></script>
-
-<link href="http://www.tbd.com/css/jsonSuggest.css" rel="stylesheet" type="text/css">
-<script src="http://www.tbd.com/js/plugins/jquery.xml2json.js" type="text/javascript"></script>
-<script src="http://www.tbd.com/js/plugins/jquery.weathertop.js" type="text/javascript"></script>
-<script src="http://www.tbd.com/js/rampSearch.js" type="text/javascript"></script>
-<script type="text/javascript">
-	if(typeof(EZDATA) == 'undefined') { EZDATA = {}; }
-   	EZDATA.jsLoaded = {};
-</script>
 
 
 
@@ -150,50 +116,163 @@ function setLocationTag(tag){
 <link href="/favicon.ico" rel="Shortcut Icon">
 
 <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
-<script>
-$(document).ready(function(){
-	var tag = getCookie("GEOLOCATION");
-	if ( tag == null ) {
-		var selectedloc = 20005;
-	} else {
-		var selectedloc = tag.toLowerCase().replace(/[^a-zA-Z0-9]/g,"_").replace(/[_]{2,}/g,"_");
-	}
-	$.getJSON("/geotaglookup/"+selectedloc+'.json',function(data){
-		var thezip = "20005";
-		geocounty = data.countyproper;
-		thezip = data.zip
-		$('#currentConditionsTop').weatherCurrentConditionTop(
-			thezip,{
-			imageurl: "http://images.tbd.com",
-			locationDisp: getCookie("GEOPHRASE")
-		});
-	});
-	if (!getCookie("LOGGEDIN")){
-		$('.save-this').hide();
-	}
-	$(".save-this").click(function(){
-		$(this).addClass("saved").removeClass("save").html("Saved!");
-	});
-});
-</script>
-
 <script type="text/javascript">
     $(function() {
       $("link[rel=canonical]").attr({"href":location.href});
     });
+
+var WEATHERLOCATION = getCookie("WEATHERLOCATION");
+var WEATHERPHRASE = getCookie("WEATHERPHRASE");
+if(WEATHERLOCATION == null || WEATHERLOCATION == '' || WEATHERLOCATION == undefined){
+	WEATHERLOCATION = "20005";
+	setCookie("WEATHERLOCATION",WEATHERLOCATION,1000,"/","wjla.com");
+}
+if(WEATHERPHRASE == null || WEATHERPHRASE == '' || WEATHERPHRASE == undefined){
+	WEATHERPHRASE = "20005, District of Columbia";
+	setCookie("WEATHERPHRASE",WEATHERPHRASE,1000,"/","wjla.com");
+}
 </script>
 
 
 
-<link rel="alternate" type="application/rss+xml" title="Main news feed" href="http://www.tbd.com/rss/all.xml">
-<link rel="alternate" type="application/rss+xml" title="Another feed" href="http://www.tbd.com/rss/">
+<link rel="alternate" type="application/rss+xml" title="Main news feed" href="http://www.wjla.com/rss/all.xml">
+<link rel="alternate" type="application/rss+xml" title="Another feed" href="http://www.wjla.com/rss/">
+
+	<script src="http://www.wjla.com/js/jquery.jsonp.js" type="text/javascript"></script>
+	<script src="http://www.wjla.com/js/plugins/jquery.weather2.js" type="text/javascript"></script>
+
+	<script type="text/javascript">
+
+		function getURLParam(name) {
+			name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+			var regexS = "[\\?&]"+name+"=([^&#]*)";
+			var regex = new RegExp( regexS );
+			var results = regex.exec( window.location.href );
+			if( results == null )
+				return "";
+			else
+				return results[1].toLowerCase();
+		}
+
+		function getWeatherCookie() {
+			var weatherlocation = getCookie("WEATHERLOCATION");
+			var weatherphrase = getCookie("WEATHERPHRASE");
+			if (weatherlocation != null && weatherlocation != null) {
+				weatherlocation = $.trim(myunescape(weatherlocation));
+				if(weatherphrase === undefined || !weatherphrase ){
+					weatherphrase = '     ';
+				}
+				if (isNaN(weatherphrase.substring(0,5)) == true) {
+					$("#weatherLocation").html(weatherlocation+', '+weatherphrase);
+				} else {
+					if ($.trim(weatherphrase) == null || $.trim(weatherphrase) == '') {
+						$("#weatherLocation").html(weatherlocation + ' ' + weatherphrase);
+					} else {
+						$("#weatherLocation").html(weatherphrase);
+					}
+				}
+			} else {
+				$("#weatherLocation").html('CURRENT CONDITIONS');
+			}
+		}
+		
+		
+		function setWeatherCookie(loc,phrase) {
+			loc = $.trim(myunescape(loc));
+			setCookie('WEATHERLOCATION',loc,10,'/','wjla.com');
+			setCookie('WEATHERPHRASE',phrase,10,'/','wjla.com');
+			getWeatherCookie();
+		}
+
+		function setZipfromCityState(loc) {
+			var searchurl = 'weather/ziplookup/'+loc.substring(0,1)+'/' + loc+ '.json';
+			$.ajax({
+			    url: 'http://www.wjla.com/'+searchurl,
+			    type: 'GET',
+			    dataType: 'json',
+			    timeout: 1000,
+			    error: function(){
+			        $('##attributes.subsectionsDivId#').hide();
+			    },
+			    success: function(json){
+			    	var zip = $.trim(json[0].zip);
+					setWeatherCookie(zip,json[0].cs);
+			    },
+				 async: false
+			});
+		}
+		
+		function myunescape (str)
+		{
+			str = "" + str;
+			while (true)
+			{
+				var i = str . indexOf ('+');
+				if (i < 0)
+					break;
+				str = str . substring (0, i) + '%20' +
+					str . substring (i + 1, str . length);
+			}
+			return unescape (str);
+		}
+		
+
+		$(document).ready(function(){
+			var urlweatherlocation = getURLParam('z');
+			if (urlweatherlocation != '' && urlweatherlocation != null) {
+				if(!isNaN(urlweatherlocation)) {
+					setWeatherCookie(urlweatherlocation,'');
+				} else {
+					urlweatherlocation = unescape(urlweatherlocation);
+					urlweatherlocation = urlweatherlocation.replace(/[^a-zA-Z 0-9]+/g,'_');
+					setZipfromCityState(urlweatherlocation);
+				}
+			}
+			getWeatherCookie();
+			
+			$.fn.refreshWeather = function(xml) {
+				if ($.weather.json == null || $.weather.json == '' || $.isEmptyObject($.weather.json) ){
+					return false;
+				}
+					
+				var zip = getCookie("WEATHERLOCATION");
+				if ( typeof zip == "undefined" || zip == null || zip.length === 0){
+					/* do nothing */
+				}else{
+					zip = $.trim(myunescape(zip));
+					if(zip.length != 0){
+						
+						var thezip = '20005';
+						var thephrase = 'CURRENT CONDITIONS'
+						$('#currentConditionsTop').weatherCurrentConditionTop(
+							thezip,{
+							imageurl: "http://images.wjla.com/weather/sm/",
+							locationDisp: thephrase
+						});
+						
+					}
+				}
+			};
+			
+			var zip = getCookie("WEATHERLOCATION");
+			if ( typeof zip == "undefined" || zip == null || zip.length === 0){
+				$.fn.getTwuFeed("20005");
+			}else{
+				zip = $.trim(myunescape(zip));
+				if(zip.length != 0){
+					$.fn.getTwuFeed(zip);
+				}
+			}
+		});
+
+	</script>
 
 <script>
 var ldpth = "/includes/";
 
-var dynsvr = "http://my.tbd.com";
+var dynsvr = "http://my.wjla.com";
 </script>
-<script src="http://www.tbd.com/js/widgets.js"></script>
+<script src="http://www.wjla.com/js/widgets.js"></script>
 </head>
 
 
@@ -202,10 +281,10 @@ var dynsvr = "http://my.tbd.com";
 <!-- SiteCatalyst code version: H.21.
 Copyright 1996-2010 Adobe, Inc. All Rights Reserved
 More info available at http://www.omniture.com -->
-<script type="text/javascript" src="http://www.tbd.com/js/omniture/tbd_omniture_core.js"></script>
+<script type="text/javascript" src="http://www.wjla.com/js/omniture/wjla_omniture_core.js"></script>
 
 		<script type="text/javascript">
-			omtr.server='tbd';
+			omtr.server='wjla';
 			
 			omtr.pageName=document.location.pathname;
 			if (getCookie("LOGGEDIN") == 'true') { omtr.prop21 = "logged in"; omtr.eVar21 = "logged in"; } else { omtr.prop21 = "anonymous"; omtr.eVar21 = "anonymous"; }
@@ -219,93 +298,80 @@ More info available at http://www.omniture.com -->
 				
 				omtr.pageName='utilities - privacy';
 				omtr.eVar1=omtr.pageName; 
+				omtr.prop4='';
+				omtr.eVar5=omtr.prop4; 
 			/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 			var s_code=omtr.t();if(s_code)document.write(s_code);
 		</script>
 	
 <script language="JavaScript" type="text/javascript"><!--
 	if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-	//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img src="http://allbritton.122.2o7.net/b/ss/allbrittontbd/1/H.21--NS/0" height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+	//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img src="http://allbritton.122.2o7.net/b/ss/allbrittonwjla/1/H.21--NS/0" height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 	<!-- End SiteCatalyst code version: H.21. -->
 
 
 	<div id="topLeaderboard">
 		
-<div>
+	<div>
+
 <!-- begin ad tag -->
 <script type="text/javascript">
 dcCat="null";
 ord=Math.random()*10000000000000000;
 //<![CDATA[
-document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/allb.tbd_new/;tile=null;pos=1;cat=null;cnty='+ dcCnty +';zip='+ dcZip +';state='+ dcState +';reg='+ dcReg +';sz=728x90;ord=' + ord + '?"><\/script>');
-</script>
-<noscript><a href="http://ad.doubleclick.net/jump/allb.tbd_new/;tile=null;pos=1;cat=null;cnty=null;zip=null;state=null;reg=null;sz=728x90;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/allb.tbd_new/;tile=null;pos=1;cat=null;cnty=null;zip=null;state=null;reg=null;sz=728x90;ord=123456789?" border="0" alt="" /></a></noscript>
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6526/adj/allb.wjla/uncat;tile=1;pos=top;cat=null;sz=728x90,980x90;KW=null;ord=' + ord + '?"><\/script>');
+</script><script type="text/javascript" src="http://ad.doubleclick.net/N6526/adj/allb.wjla/uncat;tile=1;pos=top;cat=null;sz=728x90,980x90;KW=null;ord=10816958240156.271?"></script>
+<noscript><a href="http://ad.doubleclick.net/N6526/jump/allb.wjla/uncat;tile=1;pos=top;cat=null;reg=null;sz=728x90,980x90;KW=null;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/N6526/ad/allb.wjla/uncat;tile=1;pos=top;cat=null;reg=null;sz=728x90,980x90;KW=null;ord=123456789?" border="0" alt="" /></a></noscript>
 <!--// end ad tag -->
-</div><!--/.ad-flex-->
 
+	</div><!--/.ad-flex-->
 
+	
 	</div>
 	
+
+
+	
+	
+	
+	
+	
+
 	<div id="header" role="banner">
-		<h1 id="siteLogo">
-			<a href="http://www.tbd.com">TBD</a>
-			
-		</h1>
+		<h1 id="siteLogo"><a href="http://www.wjla.com" class="team-11pm">WJLA</a></h1> 
 		<div class="full-wrap">
-			<ul id="accountLinks">
-<script>
-	
-	function trackMe(obj,eventid,linkname){
-	var s=s_gi('allbrittontbd');
-	s.linkTrackVars='events';	
-	s.linkTrackEvents=eventid;
-	s.events = eventid;  
-	s.tl(obj, 'o',linkname); 
-	}
-	function trackLinkOnly(obj,linkname){
-	var s=s_gi('allbrittontbd');
-	s.tl(obj, 'o',linkname); 
-	}
-	if (getCookie("LOGGEDIN") == 'true') {
-		document.write('<li class="user"><a href="http://my.tbd.com/member/">Welcome');
-		if (getCookie("INCOMPLETE_REG") != 1) {
-			document.write(', <span>'+getCookie("FIRSTNAME")+' '+getCookie("LASTNAME")+'</span>');
-		}
-		document.write('</a></li>');
-		if (getCookie("INCOMPLETE_REG") != 1) {
-			document.write('<li class="my-locations"><li class="my-locations"><a rel="prettyPhoto" href="http://my.tbd.com/member/?webAction=userProfileManageLocations&iframe=true&amp;width=606&amp;height=350" onclick="trackLinkOnly(this,\'registration - my locations link\');">My locations</a></li>');
-		} else {
-			document.write('<li class="my-locations"><a href="http://my.tbd.com/member/" onclick="trackLinkOnly(this,\'registration - my locations link\');">My locations</a></li>');
-		}
-		document.write('<li class="saved-stuff"><a href="http://my.tbd.com/member/?webAction=userProfileSaveThis" onclick="trackLinkOnly(this,\'registration - saved items link\');">My saved items</a></li>');
-		document.write('<li class="saved-stuff"><a href="http://my.tbd.com/logout/">Sign out</a></li>');
-	} else {
-		document.write('<li class="user"><a href="http://my.tbd.com/login/?iframe=true&width=606&height=410&jsreturnurl=dfaafdsdfasdsfaadsf" rel="prettyPhoto" onclick="trackMe(this,\'event18\',\'registration - global header - signin register link\');">Sign in/Register</a></li>');
-		document.write('<li class="my-locations"><a href="http://my.tbd.com/login/?iframe=true&width=606&height=410" rel="prettyPhoto" onclick="trackLinkOnly(this,\'registration - my locations link\');">My locations</a></li>');
-		document.write('<li class="saved-stuff"><a href="http://my.tbd.com/login/?iframe=true&width=606&height=410" rel="prettyPhoto" onclick="trackLinkOnly(this,\'registration - saved items link\');">My saved items</a></li>');
-	}
-	
-</script>
-			</ul>
 			
 			<ul id="tertiaryLinks">
-				<li class="mobile"><a href="http://www.tbd.com/mobile/">Mobile</a></li>
-				<li class="rss"><a href="http://www.tbd.com/rss/">RSS</a></li>
+<script>
+	function trackMe(obj,eventid,linkname){
+	var s=s_gi('allbrittonwjla');
+	s.linkTrackVars='events';
+	s.linkTrackEvents=eventid;
+	s.events = eventid;
+	s.tl(obj, 'o',linkname);
+	}
+	function trackLinkOnly(obj,linkname){
+	var s=s_gi('allbrittonwjla');
+	s.tl(obj, 'o',linkname);
+	}
+
+</script>
+				<li class="mobile"><a href="http://www.wjla.com/mobile/">Mobile</a></li>
+				<li class="rss"><a href="http://www.wjla.com/rss/">RSS</a></li>
 			</ul>
 			
 		</div><!--./full-wrap-->
 	</div><!--/#header-->
 
 	
-	
-	<div id="currentConditionsTop" class="current-conditions full-wrap">
+	<div id="currentConditionsTop" class="current-conditions full-wrap" style="visibility:hidden;">
 		<div class="inner">
-			<a href="http://www.tbd.com/weather" title="Get full weather report">
-			<div class="weather-city">20005, District of Columbia</div>
-			<div class="temp">&nbsp;</div>
-			<div class="high-low">High: ° / Low: °</div>
-			<div class="condition">&nbsp;</div>
-			<img id="currentConditionsImg" src="http://images.tbd.com/weather/sm/_.png" alt="" class="weather-visual">
+			<a href="http://www.wjla.com/weather" title="Get full weather report">
+			<div class="weather-city">Current Conditions</div>
+			<div class="temp"></div>
+			<div class="high-low"></div>
+			<div class="condition"></div>
+			<img id="currentConditionsImg" src="" class="weather-visual">
 			</a>
 		</div><!--/.inner-->
 	</div><!--/.current-conditions-->
@@ -314,152 +380,119 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 	<div id="mainWrapper">
 		
 		
-<div id="navigation">
-	<ul role="navigation" id="navBarMain">
-		<li class="nav-news">
-			<a href="http://www.tbd.com/">News</a>
-			<ul class="has-cols">
-				<li><a href="http://www.tbd.com/blogs/tbd-latest/">Latest News</a></li>
-				<li class="even"><a href="http://www.tbd.com/blogs/amanda-hess/">Amanda Hess Blog</a></li>
-				<li><a href="http://my.tbd.com/news/top/">Top Stories</a></li>
-				<li class="even"><a href="http://www.tbd.com/blogs/tbd-justice/">Crime &amp; Justice Blog</a></li>
-				<li><a href="http://my.tbd.com/news/community/">Community News</a></li>
-				<li class="even"><a href="http://www.tbd.com/blogs/tbd-neighborhoods/">Neighborhoods Blog</a></li>
-				<li><a href="http://my.tbd.com/news/county/">County News</a></li>
-				<li class="even"><a href="http://www.tbd.com/blogs/tbd-facts-machine/">The Facts Machine</a></li>
-				<li><a href="http://www.tbd.com/business/">Business</a></li>
-				<li class="even"><a href="http://www.tbd.com/pictures/">Photo Galleries</a></li>
-			</ul>
-		</li>
-		<li class="nav-commute">
-			<a href="http://www.tbd.com/commute/">Commute</a>
-			<ul>
-				<li><a href="http://www.tbd.com/commute/">Commute News</a></li>
-				<li class="even"><a href="http://www.tbd.com/commute/traffic/">Traffic Tools</a></li>
-				<li><a href="http://www.tbd.com/commute/metro/">Metro Tools</a></li>
-				<li class="even"><a href="http://www.tbd.com/blogs/tbd-on-foot/">On Foot Blog</a></li>
-			</ul>
-		</li>
-		<li class="nav-weather">
-			<a href="http://www.tbd.com/weather/">Weather</a>
-			<ul class="has-cols">
-				<li><a href="http://www.tbd.com/weather/">Conditions &amp; Forecast</a></li>
-				<li class="even"><a href="http://www.tbd.com/weather/maps/">HD Weather Maps</a></li>
-				<li><a href="http://www.tbd.com/weather/forecast/hourly/">Hourly Forecast</a></li>
-				<li class="even"><a href="http://www.tbd.com/blogs/weather/">StormWatch 7 Blog</a></li>
-				<li><a href="http://www.tbd.com/weather/forecast/7-day/">7 Day Forecast</a></li>
-				<li class="even"><a href="http://www.tbd.com/weather/dc-school-closings-delays/">School Closings</a></li>
-				<li><a href="http://www.tbd.com/weather/radar/">Doppler Radar</a></li>
-			</ul>
-		</li>
-		<li class="nav-sports">
-			<a href="http://www.tbd.com/sports/">Sports</a>
-			<ul class="has-cols">
-				<li><a href="http://www.tbd.com/sports/">Sports News</a></li>
-				<li class="even"><a href="http://stats.tbd.com/fb/teamstats.asp?tm=28">Redskins</a></li>
-				<li><a href="http://www.tbd.com/blogs/tbd-skins/">Redskins Blog</a></li>
-				<li class="even"><a href="http://stats.tbd.com/mlb/teamreports.asp?report=teamhome&amp;tm=20">Nationals</a></li>
-				<li><a href="http://www.tbd.com/blogs/tbd-scrum/">The Scrum</a></li>
-				<li class="even"><a href="http://stats.tbd.com/nhl/teamstats.asp?teamno=23&amp;type=teamhome">Capitals</a></li>
-				<li><a href="http://www.tbd.com/blogs/chamberlain/">Chamberlain on Sports</a></li>
-				<li class="even"><a href="http://stats.tbd.com/nba/teamstats.asp?teamno=27&amp;type=teamhome">Wizards</a></li>
-				<li><a href="http://www.tbd.com/tv/donovan-mcnabb-show/">The Donovan McNabb Show</a></li>
-			</ul>
-		</li>
-		<li class="nav-entertainment">
-			<a href="http://www.tbd.com/entertainment/">Entertainment</a>
-			<ul class="has-cols">
-				<li><a href="http://www.tbd.com/entertainment/">Entertainment News</a></li>
-				<li class="even"><a href="http://www.tbd.com/entertainment/faves-and-raves/">Faves &amp; Raves</a></li>
-				<li><a href="http://www.tbd.com/entertainment/restaurants/">Food &amp; Dining</a></li>
-				<li class="even"><a href="http://www.tbd.com/blogs/tbd-arts/">Arts Blog</a></li>
-				<li><a href="http://www.tbd.com/entertainment/events/">Events</a></li>
-				<li class="even"><a href="http://www.tbd.com/blogs/tbd-restaurants/">Restaurants Blog</a></li>
-				<li><a href="http://www.tbd.com/entertainment/theater/">Theater</a></li>
-				<li class="even"><a href="http://www.tbd.com/blogs/arch-campbell-show/">The Arch Campbell Blog</a></li>
-			</ul>
-		</li>
-		<li class="nav-tbdtv">
-			<a href="http://www.tbd.com/tv/">NewsChannel<span>8</span></a>
-			<ul>
-				<li><a href="http://www.tbd.com/tv/">NewsChannel 8 Programs</a></li>
-				<li class="even"><a href="http://www.tbd.com/tv/monday-friday-schedule/">Weekly Schedule</a></li>
-				<li><a href="http://www.tbd.com/tv/channels/">Where to Find NewsChannel 8</a></li>
-			</ul>
-		</li>
-		<li class="nav-abc7">
-			<a href="http://www.tbd.com/abc7/">ABC<span>7</span></a>
-			<ul class="has-cols">
-				<li><a href="http://www.abc7dc.com">ABC7 Home</a></li>
-				<li class="even"><a href="http://www.insidewashington.tv/">Inside Washington</a></li>
-				<li><a href="http://www.tbd.com/abc7/">ABC7 News</a></li>
-				<li class="even"><a href="http://www.abc7dc.com/onyourside/">7 On Your Side</a></li>
-				<li><a href="http://www.abc7dc.com/onabc7/">Program Schedule</a></li>
-				<li class="even"><a href="http://www.abc7dc.com/jobs/">WJLA Job Openings</a></li>
-				<li><a href="http://www.abc7dc.com/oprah/">Oprah Fan Club</a></li>
-				<li class="even"><a href="http://www.abc7dc.com/talentbios/">Talent Bios</a></li>
-			</ul>
-		</li>
-		<li class="nav-blogs">
-			<a href="http://www.tbd.com/blogs/">Blogs</a>
-			<ul>
-				<li><a href="http://www.tbd.com/blogs/">TBD Blog Directory</a></li>
-				<li><a href="http://www.tbd.com/community-network/">TBD Community Network</a></li>
-				<li><a href="http://www.tbd.com/blogs/tbddc/">What's New at TBD</a></li>
-			</ul>
-		</li>
-	</ul>
-	<form role="search" method="get" action="http://www.tbd.com/search/s" id="siteSearch">
-		<label for="rampSearch" class="populate">Search</label>
-		<input type="text" id="rampSearch" name="q" value="" autocomplete="off">
-		<input id="doSearch" type="submit" value="Search" autocomplete="off">
-		<div style="position:relative;height:0;line-height:0;overflow:visible;" class="ez-searchMod-autocomplete">
-			<div id="ezTypeAhead"></div>
-		</div>
-		<script type="text/javascript">
-			var ezAutocompleteSearchUrl = '?';
-			var ezAutocompleteServiceUrl = 'http://tbd.ramp.com/autocomplete?callbackName=EZDATA.searchMod_queryExpansion_callback&q=';
-			EZDATA.searchMod_queryExpansion_init();
-		</script>
-	</form>
+
+<div id="siteNavigation">
 
 	
-</div><!--/#navigation-->
+				
+			<div id="primaryNavigation" role="navigation">
+				<ul class="nav nav1">
+		            <li class="nav-news first"><a href="http://www.wjla.com" class="flagged-lighter-blue">News</a></li>
+		            <li class="nav-weather"><a href="http://www.wjla.com/weather/" class="flagged-yellow">Weather</a></li>
+		            <li class="nav-commute"><a href="http://www.wjla.com/commute/traffic/map/" class="flagged-orange">Traffic</a></li>
+					<li class="nav-dc"><a href="http://www.wjla.com/news/washington-dc/" class="flagged-lighter-blue">D.C.</a></li>
+					<li class="nav-maryland"><a href="http://www.wjla.com/news/maryland/" class="flagged-lighter-blue">MD</a></li>
+					<li class="nav-virginia"><a href="http://www.wjla.com/news/virginia/" class="flagged-lighter-blue">VA</a></li>
+					<li class="nav-nation"><a href="http://www.wjla.com/nation/" class="flagged-lighter-blue">Nation</a></li>
+					<li class="nav-world"><a href="http://www.wjla.com/world/" class="flagged-lighter-blue">World</a></li>
+					<li class="nav-crime"><a href="http://www.wjla.com/crime/" class="flagged-lighter-blue">Crime</a></li>
+					<li class="nav-sports last"><a href="http://www.wjla.com/sports/" class="flagged-lighter-blue">Sports</a></li>
+				</ul>
+				<ul class="nav nav2">
+					
+					
+								<li class="nav-video first"><a href="http://www.wjla.com/news/video/" class="0">Video</a></li>
+							
+								<li class="nav-photos"><a href="http://www.wjla.com/pictures" class="0">Photos</a></li>
+							
+								<li class="nav-health"><a href="http://www.wjla.com/health/" class="">Health</a></li>
+							
+								<li class="nav-high-school-sports"><a href="http://www.hssportsfinal.com" class="">High School Sports</a></li>
+							
+								<li class="nav-politics"><a href="http://www.wjla.com/politics/" class="">Politics</a></li>
+							
+								<li class="nav-business"><a href="http://www.wjla.com/business/" class="">Business</a></li>
+							
+								<li class="nav-gift-guide"><a href="http://www.wjla.com/news/gift-guide/" class="">Gift Guide</a></li>
+							
+								<li class="nav-newschannel8-"><a href="http://www.wjla.com/news/newschannel-8/" class="">NEWSCHANNEL8 </a></li>
+							
+								<li class="nav-tbd last current"><a href="http://www.tbd.com/" class="flagged-lighter-blue">TBD <span class="nav-arrow"></span></a></li>
+							
+				</ul>
+			</div><!--/primaryNavigation-->
+			
+			
 
+	<div id="secondaryNavigation">
+					
+				
+					<div id="buzzList">
+						<h5>Hot Topics »</h5>
+						<ul> 
+							
+										<li class=""><a href="http://www.wjla.com/articles/2011/12/dog-saves-family-from-house-fire-in-se-70757.html">Dog saves family</a></li>
+									
+										<li class=""><a href="http://www.wjla.com/articles/2011/12/democratic-sen-ben-nelson-announces-retirement--70761.html">Ben Nelson retires</a></li>
+									
+										<li class=""><a href="http://www.wjla.com/articles/2011/12/presidential-race-in-iowa-quieter-than-in-the-past-70731.html">Iowa caucuses</a></li>
+									
+										<li class="last"><a href="http://www.wjla.com/articles/2011/12/free-d-c-cab-rides-offered-by-soberride-through-new-year-s-eve-70784.html">Free cab rides</a></li>
+									
+						</ul> 
+					</div><!--/.buzz-list-->
+				
+			
+		<div id="searchContainer">
+		    <div class="search-sponsor">
+				
+			</div><!--/search-sponsor-->
+		    <form role="search" method="get" action="http://www.wjla.com/search/" id="siteSearch" enctype="application/x-www-form-urlencoded">
+		        <label for="rampSearch" class="populate">Search WJLA.com</label>
+		        <input type="text" id="rampSearch" name="key" value="" autocomplete="off">
+		        <input id="doSearch" type="submit" value="Search" autocomplete="off">
+		    </form>
+		</div><!--/searchContainer-->
 		
+
+	</div><!--/secondaryNavigation-->
+</div><!--/siteNavigation-->
+
+
 		<div id="content">
 
         	<div id="mainContent" role="main">
 				
-        <h1>Privacy Policy</h1>
-<div class="last-updated">Last Updated: 6/17/2010</div>
+        <h1 class="co-branded">Privacy Policy</h1>
+<div class="last-updated">Last Updated: 4/5/2011</div>
 
-<h2>Privacy Practices</h2>
-<p>This statement discloses the privacy practices for the TBD.com website (the "Website") a service provided by WJLA-TV/NewsChannel 8, a division of Allbritton Communications Company d/b/a TBD.com ("TBD"). Questions regarding this statement should be directed to TBD at webteam@tbd.com or 1100 Wilson Blvd., 6th Floor, Arlington, Virginia 22209. This privacy policy does not apply to data collected offline including, but not limited to, data collected via the mail, telephone or at live events.</p> 
+<h2>PRIVACY PRACTICES</h2>
+<p>This statement discloses the privacy practices for the WJLA.com and TBD.com websites (each referred to in this document as the "Website") a service provided by WJLA-TV/NewsChannel 8, a division of Allbritton Communications Company ("WJLA"). Questions regarding this statement should be directed to WJLA at webteam@tbd.com or 1100 Wilson Blvd., 6th Floor, Arlington, Virginia 22209. This privacy policy does not apply to data collected offline including, but not limited to, data collected via the mail, telephone or at live events.</p> 
 
-<h2>Categories of Information</h2>
-<p>The information gathered by TBD falls into two categories: (1) information voluntarily supplied by users to the Website through optional registration and (2) tracking information gathered as users navigate through the Website.</p> 
+<h2>CATEGORIES OF INFORMATION</h2>
+<p>The information gathered by WJLA falls into two categories: (1) information voluntarily supplied by users to the Website through optional registration and (2) tracking information gathered as users navigate through the Website.</p> 
 
 <h2>Registration</h2>
-<p>To make use of certain features on the Website users may need to register and to provide certain information as part of the registration process. (TBD may ask, for example, for a user's name, email address, gender, age, and zip code.) The information supplied will help TBD to offer more personalized features, to tailor the Website, and to make it more useful to users. Supplying such information is entirely voluntary. However, if a user chooses not to supply information requested, TBD may be unable to provide the user with services made available to other users of the Website. Even if a user wishes to remain completely anonymous, the user may still to take advantage of the content available on the Website without registration.</p> 
+<p>To make use of certain features on the Website users may need to register and to provide certain information as part of the registration process. (WJLA may ask, for example, for a user's name, email address, gender, age, and zip code.) The information supplied will help WJLA to offer more personalized features, to tailor the Website, and to make it more useful to users. Supplying such information is entirely voluntary. However, if a user chooses not to supply information requested, WJLA may be unable to provide the user with services made available to other users of the Website. Even if a user wishes to remain completely anonymous, the user may still to take advantage of the content available on the Website without registration.</p> 
 
 <h2>Uses of Information</h2>
-<p> TBD may present information collected from users of the Website to third parties. Such information is generally in the form of aggregated statistics on traffic within the Website, although from time to time, TBD may share personal information on users of the Website with those marketing products and services that we believe may be of interest to users. </p>
+<p>WJLA may present information collected from users of the Website to third parties. Such information is generally in the form of aggregated statistics on traffic within the Website, although from time to time, WJLA may share personal information on users of the Website with those marketing products and services that we believe may be of interest to users.</p>
 
 <h2>Cookies</h2>
-<p>To help make the Website more responsive to the needs of users, the Website employs a standard feature of browser software, called a "cookie," to assign each user a unique, random number that resides on a user's computer. The cookie does not personally identify the user; it merely identifies the computer with which the user accesses the Website. Unless a user voluntarily identifies himself or herself (through registration, for example), the Website will not be able to identify the identity of the user, even if a cookie is assigned to a user's computer. The only personal information a cookie can contain is information supplied by a user. The advertisers on the Website may also assign their own cookies to a user's browser, a process that TBD does not control. The Website uses cookies to help tailor the Website and deliver a more personalized service. Of course, users are free to instruct their web browsers not to accept cookies; however, doing so may render a computer unable to take advantage of the personalized features enjoyed by other users of the Website.</p> 
+<p>To help make the Website more responsive to the needs of users, the Website employs a standard feature of browser software, called a "cookie," to assign each user a unique, random number that resides on a user's computer. The cookie does not personally identify the user; it merely identifies the computer with which the user accesses the Website. Unless a user voluntarily identifies himself or herself (through registration, for example), the Website will not be able to identify the identity of the user, even if a cookie is assigned to a user's computer. The only personal information a cookie can contain is information supplied by a user. The advertisers on the Website may also assign their own cookies to a user's browser, a process that WJLA does not control. The Website uses cookies to help tailor the Website and deliver a more personalized service. Of course, users are free to instruct their web browsers not to accept cookies; however, doing so may render a computer unable to take advantage of the personalized features enjoyed by other users of the Website.</p> 
 
 <h2>IP Addresses</h2>
 <p>The Website's servers automatically collect limited information about a user's computer's connection to the Internet, including a user's IP address. (The IP address is a number that lets computers attached to the Internet know where to send data - such as the web pages users view.) An IP address does not personally identify a user. The Website uses this information to deliver its content to users upon request, to tailor the Website to a user's interests, and to measure traffic within the Website.</p> 
 
 <h2>Third Party Sites</h2>
-<p>The Website includes links to third party websites whose privacy policies TBD does not control. Once a user leaves the Website, use of any information a user provides is governed by the privacy policy of the operator of the site the user is visiting. The privacy policies of third party websites may differ from that of TBD.</p> 
+<p>The Website includes links to third party websites whose privacy policies WJLA does not control. Once a user leaves the Website, use of any information a user provides is governed by the privacy policy of the operator of the site the user is visiting. The privacy policies of third party websites may differ from that of WJLA.</p> 
 
 <h2>Children's Privacy</h2>
-<p>This children's privacy statement explains TBD's practices with respect to the online collection and use of personal information from children under the age of 13, and provides important information on user's rights under federal law with respect to such information. TBD does NOT knowingly collect personally identifiable information from children under the age of 13. TBD screens users who wish to provide personal information in order to prevent users under the age of 13 from providing such information. If TBD becomes aware that it has inadvertently received personally-identifiable information from a user under the age of 13, TBD will delete such information from its records. Because TBD does not collect any personally identifiable information from children under the age of 13, it also does NOT knowingly distribute such information to third parties. TBD does NOT knowingly allow children under the age of 13 to publicly post or otherwise distribute personally identifiable contact information.</p> 
+<p>This children's privacy statement explains WJLA's practices with respect to the online collection and use of personal information from children under the age of 13, and provides important information on user's rights under federal law with respect to such information. WJLA does NOT knowingly collect personally identifiable information from children under the age of 13. WJLA screens users who wish to provide personal information in order to prevent users under the age of 13 from providing such information. If WJLA becomes aware that it has inadvertently received personally-identifiable information from a user under the age of 13, WJLA will delete such information from its records. Because WJLA does not collect any personally identifiable information from children under the age of 13, it also does NOT knowingly distribute such information to third parties. WJLA does NOT knowingly allow children under the age of 13 to publicly post or otherwise distribute personally identifiable contact information.</p> 
+
 
 <h2>Miscellaneous</h2>
-<p>All information gathered on the Website is stored within a TBD-controlled database accessible only to TBD. However, as effective as the reasonable security measures implemented by TBD may be, no security system is impenetrable. TBD cannot guarantee the security of its database, nor can it guarantee that information supplied will not be intercepted while being transmitted over the Internet. Users should understand that the Web is an evolving medium. If TBD needs to change its privacy policy at some point in the future, TBD will post the changes before they take effect.</p>
+<p>All information gathered on the Website is stored within a WJLA-controlled database accessible only to WJLA. However, as effective as the reasonable security measures implemented by WJLA may be, no security system is impenetrable. WJLA cannot guarantee the security of its database, nor can it guarantee that information supplied will not be intercepted while being transmitted over the Internet. Users should understand that the Web is an evolving medium. If WJLA needs to change its privacy policy at some point in the future, WJLA will post the changes before they take effect.</p>
 
 		</div><!--/#mainContent-->
 	<!-- //TBD END --> 
@@ -470,73 +503,41 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 
 <!-- RIGHT CONTENT GOES HERE -->
 
-    
-	
-<div class="ad-flex">
+
+
+	<div class="ad-flex">
+
 <!-- begin ad tag -->
 <script type="text/javascript">
 dcCat="null";
 //<![CDATA[
-document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/allb.tbd_new/;tile=null;pos=1;cat=null;cnty='+ dcCnty +';zip='+ dcZip +';state='+ dcState +';reg='+ dcReg +';sz=300x250;ord=' + ord + '?"><\/script>');
-</script>
-<noscript><a href="http://ad.doubleclick.net/jump/allb.tbd_new/;tile=null;pos=1;cat=null;cnty=null;zip=null;state=null;reg=null;sz=300x250;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/allb.tbd_new/;tile=null;pos=1;cat=null;cnty=null;zip=null;state=null;reg=null;sz=300x250;ord=123456789?" border="0" alt="" /></a></noscript>
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6526/adj/allb.wjla/uncat;tile=2;pos=top;cat=null;sz=300x250;KW=null;ord=' + ord + '?"><\/script>');
+</script><script type="text/javascript" src="http://ad.doubleclick.net/N6526/adj/allb.wjla/uncat;tile=2;pos=top;cat=null;sz=300x250;KW=null;ord=10816958240156.271?"></script>
+<noscript><a href="http://ad.doubleclick.net/N6526/jump/allb.wjla/uncat;tile=2;pos=top;cat=null;reg=null;sz=300x250;KW=null;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/N6526/ad/allb.wjla/uncat;tile=2;pos=top;cat=null;reg=null;sz=300x250;KW=null;ord=123456789?" border="0" alt="" /></a></noscript>
 <!--// end ad tag -->
-</div><!--/.ad-flex-->
 
-
-<script type="text/javascript">
-//default geolocation
-var zone_geolocation = getCookie("GEOLOCATION");
-var zone_geophrase = getCookie("GEOPHRASE");
-var zone_geophrase_nozip= zone_geophrase.split(',');
-
-</script>
-
-<div id="sidebarCommunityNews" class="sidebarNews mod">
-	<h3></h3>
-	<ul class="story-list"></ul>
-</div>
-<script>$(document).ready(function(){
-	$("#sidebarCommunityNews h3").html('My Community <em>News around '+zone_geophrase+'</em>');
-	jquery_myzone(zone_geophrase,zone_geolocation);});
-</script>	
-
-
-<script type="text/javascript">
-//default geolocation
-var zone_geolocation = getCookie("GEOLOCATION");
-var zone_geophrase = getCookie("GEOPHRASE");
-var zone_geophrase_nozip= zone_geophrase.split(',');
-
-</script>
-
-<div id="sidebarCountyNews" class="sidebarNews mod">
-	<h3></h3>
-	<ul class="story-list"></ul>
-</div>
-<script>$(document).ready(function(){
-	$("#sidebarCountyNews h3").html('My County <em>News around '+zone_geophrase+'</em>');
-	jquery_mycounty(zone_geophrase,zone_geolocation);});
-</script>	
+	</div><!--/.ad-flex-->
 
 	<div class="mod" id="bestOfTBD">
 		<h3>Best of TBD <em>In case you missed it</em></h3>
 		
 <ul class="story-list">
 	<li class="last">
-		<a href="http://www.tbd.com/pictures/2011/04/mayor-vincent-gray-the-first-100-days-in-photos/inaugural-hope-1893-137.html" class="tn"><img src="http://images.tbd.com/government/inauguration-gray-westcott-0102-006_296.jpg" class="border" alt="Mayor Vincent Gray" width="110" height="72"></a>
-		<h4><a href="http://www.tbd.com/pictures/2011/04/mayor-vincent-gray-the-first-100-days-in-photos/inaugural-hope-1893-137.html">Mayor Vincent Gray: The first 100 days, in photos</a></h4>
-		<div class="tease">In his next 100 days, will he continue to be battered by events seemingly out of his control, or will he finally get a handle on his term?</div>
+		<a href="http://www.tbd.com/pictures/2011/12/the-15-weirdest-laws-in-washington-d-c-photos-/but-what-if-shes-the-billie-jean-king-of-boxing--13089-913.html" class="tn"><img src="http://images.wjla.com/entertainment/rave-flickr-dima-bushkov_606_296.jpg" class="border" alt="stupid laws dc, dumb laws dc" width="110" height="72"></a>
+		<h4><a href="http://www.tbd.com/pictures/2011/12/the-15-weirdest-laws-in-washington-d-c-photos-/but-what-if-shes-the-billie-jean-king-of-boxing--13089-913.html">The 15 weirdest laws in D.C. </a></h4>
+		<div class="tease">What are the most bizarre regulations on the District's books?</div>
 	</li>
 </ul>
 
 	<ul class="additional">
-		<li><a href="http://www.tbd.com/pictures/2011/02/the-national-mall-in-washington-d-c-/from-washington-to-the-hill-1207-69.html">Photos: The National Mall</a></li><li><a href="http://www.tbd.com/pictures/2011/03/cherry-blossoms-open-around-tidal-basin-in-washington-d-c-/jefferson-memorial-1532-113.html">Photos: Cherry blossoms in DC</a></li><li><a href="http://www.tbd.com/articles/2011/03/-urban-explorers-discover-sad-scenes-patient-records-at-abandoned-asylum-56459.html">Sad scenes, records at abandoned asylum</a></li>
+		<li><a href=" http://www.tbd.com/pictures/2011/11/d-c-gets-wild-at-fight-night-fundraiser/11843-826.html">A wild 'Fight Night' with 'Skins cheerleaders</a></li><li><a href="http://www.tbd.com/crimedata/">Crime in D.C. schools</a></li><li><a href="http://www.tbd.com/pictures/2011/11/washingtons-best-mustaches/dick-dyszel-11364-791.html">If Arlington ruled Virginia...</a></li>
 	</ul>
 	
 	</div>
 	<!--done_bestoftbd-->
 
+
+ 
 </div>
 
 		</div><!--/#content-->
@@ -544,142 +545,137 @@ var zone_geophrase_nozip= zone_geophrase.split(',');
 
 	
 	
+
 	
-	<div id="footer">
+	
+<div id="footer">
 
 		<div id="bottomLeaderboard">
 			
+	<div>
+
+<!-- begin ad tag -->
+<script type="text/javascript">
+dcCat="null";
+//<![CDATA[
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6526/adj/allb.wjla/uncat;tile=4;pos=bottom;cat=null;sz=728x90;KW=null;ord=' + ord + '?"><\/script>');
+</script><script type="text/javascript" src="http://ad.doubleclick.net/N6526/adj/allb.wjla/uncat;tile=4;pos=bottom;cat=null;sz=728x90;KW=null;ord=10816958240156.271?"></script>
+<noscript><a href="http://ad.doubleclick.net/N6526/jump/allb.wjla/uncat;tile=4;pos=bottom;cat=null;reg=null;sz=728x90;KW=null;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/N6526/ad/allb.wjla/uncat;tile=4;pos=bottom;cat=null;reg=null;sz=728x90;KW=null;ord=123456789?" border="0" alt="" /></a></noscript>
+<!--// end ad tag -->
+
+	</div><!--/.ad-flex-->
+
 		</div>
 		<div class="site-links full-wrap">
-			<div class="column">
+			<div class="column col-narrow">
 				<h4>News</h4>
-				<ul>
-					<li><a href="http://www.tbd.com/blogs/tbd-latest/">Latest News</a></li>
-					<li><a href="http://my.tbd.com/news/top/">Top Stories</a></li>
-					<li><a href="http://my.tbd.com/news/community/">Community News</a></li>
-					<li><a href="http://my.tbd.com/news/county/">County News</a></li>
-					<li><a href="http://www.tbd.com/business/">Business</a></li>
-					<li><a href="http://www.tbd.com/blogs/amanda-hess/">Amanda Hess Blog</a></li>
-					<li><a href="http://www.tbd.com/blogs/tbd-justice/">Crime &amp; Justice Blog</a></li>
-					<li><a href="http://www.tbd.com/blogs/tbd-neighborhoods/">Neighborhoods Blog</a></li>
-					<li><a href="http://www.tbd.com/blogs/tbd-facts-machine/">The Facts Machine</a></li>
-					<li><a href="http://www.tbd.com/pictures/">Photo Galleries</a></li>	
+				<ul class="icons-logos">
+					<li class="abc7"><a href="http://www.wjla.com">ABC7</a></li>
+					<li class="news8"><a href="http://www.tbd.com/tv/">NewsChannel 8</a></li>
+					<li class="tbd"><a href="http://www.tbd.com">TBD</a></li>
 				</ul>
-				<h4>Entertainment</h4>
-				<ul>
-					<li><a href="http://www.tbd.com/entertainment/">Entertainment News</a></li>
-					<li><a href="http://www.tbd.com/entertainment/restaurants/">Food &amp; Dining</a></li>
-					<li><a href="http://www.tbd.com/entertainment/events/">Events</a></li>
-					<li><a href="http://www.tbd.com/entertainment/theater/">Theater</a></li>
-					<li><a href="http://www.tbd.com/entertainment/faves-and-raves/">Faves &amp; Raves</a></li>
-					<li><a href="http://www.tbd.com/blogs/tbd-arts/">Arts Blog</a></li>
-					<li><a href="http://www.tbd.com/blogs/tbd-restaurants/">Restaurants Blog</a></li>
-					<li><a href="http://www.tbd.com/blogs/arch-campbell-show/">The Arch Campbell Blog</a></li>
-				</ul>
+				
 			</div><!--/.column-->
-			<div class="column">
-				<h4>Commute</h4>
-				<ul>
-					<li><a href="http://www.tbd.com/commute/">Commute News</a></li>
-					<li><a href="http://www.tbd.com/commute/traffic/">Traffic Tools</a></li>
-					<li><a href="http://www.tbd.com/commute/metro/">Metro Tools</a></li>
-					<li><a href="http://www.tbd.com/blogs/tbd-on-foot/">On Foot Blog</a></li>
-				</ul>
-				<h4>NewsChannel 8</h4>
-				<ul>
-					<li><a href="http://www.tbd.com/tv/">NewsChannel 8 Programs</a></li>
-					<li><a href="http://www.tbd.com/tv/monday-friday-schedule/">Weekly Schedule</a></li>
-					<li><a href="http://www.tbd.com/tv/channels/">Where to Find NewsChannel 8</a></li>
-				</ul>
+            
+            <div class="column col-med">
 				<h4>Blogs</h4>
 				<ul>
-					<li><a href="http://www.tbd.com/blogs/">TBD Blog Directory</a></li>
+					<li><a href="http://www.tbd.com/blogs/">Blog Directory</a></li>
 					<li><a href="http://www.tbd.com/community-network/">TBD Community Network</a></li>
-					<li><a href="http://www.tbd.com/blogs/tbddc/">What's New at TBD</a></li>
 				</ul>
 				<h4>Multimedia</h4>
 				<ul>
-					<li><a href="http://www.tbd.com/search/">Video</a></li>
+					<li><a href="http://www.wjla.com/live/">ABC7 Livestream</a></li>
+					<li><a href="http://www.tbd.com/tv/">NewsChannel 8 Livestream</a></li>
+					<li><a href="http://www.wjla.com/news/video/">ABC7 Video Archive</a></li>
+
+                    <li><a href="http://www.tbd.com/pictures/">TBD Photo Galleries</a></li>
+					<li><a href="http://www.wjla.com/pictures/">WJLA Photo Galleries</a></li>
 				</ul>
 			</div><!--/.column-->
-			<div class="column">
-				<h4>Weather</h4>
+            
+			<div class="column col-wide">
+				<h4>About Us</h4>
 				<ul>
-					<li><a href="http://www.tbd.com/weather/">Current Conditions</a></li>
-					<li><a href="http://www.tbd.com/weather/radar/">Doppler Radar</a></li>
-					<li><a href="http://www.tbd.com/weather/forecast/hourly/">Hourly Forecast</a></li>
-					<li><a href="http://www.tbd.com/weather/maps/">HD Weather Maps</a></li>
-					<li><a href="http://www.tbd.com/weather/forecast/7-day/">7 Day Forecast</a></li>
-					<li><a href="http://www.tbd.com/blogs/weather/">StormWatch 7 Blog</a></li>
-					<li><a href="http://www.tbd.com/weather/dc-school-closings-delays/">School Closings</a></li>
+					<li><a href="http://www.tbd.com/about/">About TBD.com and NewsChannel 8</a></li>
+
+					<li><a href="http://www.abc7dc.com/talentbios/">ABC7 Talent Bios</a></li>
+                    <li><a href="http://www.wjla.com/tv/monday-schedule/">ABC7 Program Schedule</a></li>
+                    <li><a href="http://www.tbd.com/tv/monday-schedule/">NewsChannel 8 Program Schedule</a></li>
+                    <li><a href="http://www.tbd.com/tv/channels/">Where to Find NewsChannel 8</a></li>
+                    <li><a href="http://www.wjla.com/employment/">Job Openings</a></li>
 				</ul>
-				<h4>ABC 7</h4>
-				<ul>
-					<li><a href="http://www.abc7dc.com">ABC7 Home</a></li>
-					<li><a href="http://www.tbd.com/abc7/">ABC7 News</a></li>
-					<li><a href="http://www.abc7dc.com/onabc7/">Program Schedule</a></li>
-					<li><a href="http://www.abc7dc.com/oprah/">Oprah Fan Club</a></li>
-					<li><a href="http://www.insidewashington.tv/">Inside Washington</a></li>
-					<li><a href="http://www.abc7dc.com/onyourside/">7 On Your Side</a></li>
-					<li><a href="http://www.abc7dc.com/jobs/">WJLA Job Openings</a></li>
-					<li><a href="http://www.abc7dc.com/talentbios/">Talent Bios</a></li>
-				</ul>
+
+				
 			</div><!--/.column-->
-			<div class="column">
-				<h4>Sports</h4>
+            
+			<div class="column col-med">
+				<h4>Reach Out to Us</h4>
 				<ul>
-					<li><a href="http://www.tbd.com/sports/">Sports News</a></li>
-					<li><a href="http://www.tbd.com/blogs/tbd-skins/">Redskins Blog</a></li>
-					<li><a href="http://www.tbd.com/blogs/tbd-scrum/">The Scrum</a></li>
-					<li><a href="http://www.tbd.com/blogs/chamberlain/">Chamberlain on Sports</a></li>
-					<li><a href="http://www.tbd.com/tv/donovan-mcnabb-show/">The Donovan McNabb Show</a></li>
-					<li><a href="http://stats.tbd.com/fb/teamstats.asp?tm=28">Redskins</a></li>
-					<li><a href="http://stats.tbd.com/mlb/teamreports.asp?report=teamhome&amp;tm=20">Nationals</a></li>
-					<li><a href="http://stats.tbd.com/nhl/teamstats.asp?teamno=23&amp;type=teamhome">Capitals</a></li>
-					<li><a href="http://stats.tbd.com/nba/teamstats.asp?teamno=27&amp;type=teamhome">Wizards</a></li>
+					<li><a href="http://www.wjla.com/contact/">Contact Us</a></li>
+					<li><a href="http://www.wjla.com/submit-tip/">Submit a Tip</a></li>
+					<li><a href="http://www.wjla.com/advertising/">Advertise with Us</a></li>
+
+					<li><a href="http://www.wjla.com/advertising/WJLA-NC8-TBD_Credit_App_with_Standard_Terms_Revised_110410.pdf">Advertising Terms &amp;  Conditions</a></li>
 				</ul>
-				<h4>Company</h4>
-				<ul>
-					<li><a href="http://www.tbd.com/about/">About Us</a></li>
-					<li><a href="http://www.tbd.com/employment/">Job Openings at TBD</a></li>
-				</ul>
+				
 			</div><!--/.column-->
-			<div class="column thick-column">
-				<h4>Ways to get TBD</h4>
-				<ul class="social">
+	
+			<div class="column col-wide last">
+				<h4>Ways to get ABC7</h4>
+				<ul class="icons-logos">
+					<li class="rss"><a href="http://www.wjla.com/rss/">RSS</a></li>
+
+					<li class="fb"><a href="http://www.facebook.com/pages/ABC-7-News-WJLA/60987623733">Facebook</a></li>
+					<li class="twitter last"><a href="http://twitter.com/abc7news">Twitter</a></li>
+				</ul>
+                <h4>Ways to get TBD</h4>
+				<ul class="icons-logos">
 					<li class="rss"><a href="http://www.tbd.com/rss/">RSS</a></li>
-					<li class="fb"><a href="http://www.tbd.com/social-media/">Facebook</a></li>
-					<li class="twitter"><a href="http://www.tbd.com/social-media/">Twitter</a></li>
-				</ul>
+					<li class="fb"><a href="http://www.facebook.com/TBDDC">Facebook</a></li>
 
-				<h4>TBD Mobile</h4>
-				<ul>
-					<li><a href="http://www.tbd.com/mobile/#iphone">iPhone application</a></li>
-					<li><a href="http://www.tbd.com/mobile/#android">Android application</a></li>
+					<li class="twitter"><a href="http://twitter.com/tbd">Twitter</a></li>
+                    <li class="iphone"><a href="http://www.tbd.com/mobile/#iphone">iPhone</a></li>
+                    <li class="android last"><a href="http://www.tbd.com/mobile/#android">Android</a></li>
 				</ul>
-				<h4>Reach Out to TBD</h4>
-				<ul>
-					<li><a href="http://my.tbd.com/contact/">Contact Us</a></li>
-					<li><a href="http://my.tbd.com/submit-tip/">Submit a Tip</a></li>
-					<li><a href="http://www.tbd.com/advertising/">Advertise with Us</a></li>
-					<li><a href="http://www.tbd.com/advertising/WJLA-NC8-TBD_Credit_App_with_Standard_Terms_Revised_032411.pdf">Advertising Terms &amp; Conditions</a></li>
-				</ul>
-
 			</div><!--/.column-->
 		</div><!--/.site-links-->
+        
 		<div class="content-info full-wrap" role="contentinfo">
-        	<span>© 2011 Allbritton Communications Company</span>
+
+        	<small>© 2011 Allbritton Communications Company</small>
 			<ul>
-	            <li class="privacy"><a href="http://www.tbd.com/privacy/">Privacy Policy</a></li>
-	            <li class="terms"><a href="http://www.tbd.com/terms/">Terms of Service</a></li>
+				<li class="first"><a href="http://www.wjla.com/eeo">EEO Reports</a></li>
+                <li><a href="http://www.wjla.com/childprog">Children's Programming</a></li>
+                <li><a href="http://www.wjla.com/ccreport">Closed Captioning</a></li>
+	            <li><a href="http://www.wjla.com/privacy/">Privacy Policy</a></li>
+	            <li class="last"><a href="http://www.wjla.com/terms/">Terms of Service</a></li>
 			</ul>
 		</div><!--/.site-info-->
+
 		
-	</div><!--/#footer-->
-	
-	
-	<script type="text/javascript" src="http://ad.doubleclick.net/adj/allb.tbd_new/uncat;dcopt=ist;sz=1x1;ord=[timestamp]?"></script>	
+		
+	</div><!--/footer-->
+<script type="text/javascript">
+var _sf_async_config={uid:25380,domain:"wjla.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+<script type="text/javascript" src="http://ad.doubleclick.net/N6526/adj/allb.wjla/uncat;dcopt=ist;sz=1x1;ord=[timestamp]?"></script>
 	
 
 
- <!--timestamp {ts '2011-04-25 00:59:49'}--></body></html>
+<!--  timestamp {ts '2011-12-28 01:00:09'} --><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
