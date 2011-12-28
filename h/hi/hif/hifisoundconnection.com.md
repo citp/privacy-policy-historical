@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hifisoundconnection.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430212719id_/http%3A//www.hifisoundconnection.com/Shop/Control/fp/SFV/30046/view_page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hifisoundconnection.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228234320id_/http%3A//www.hifisoundconnection.com/Shop/Control/fp/SFV/30046/view_page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HiFiSoundConnection
+
+[](http://www.hifisoundconnection.com/HiFiSoundConnection-Gift-Certificates "gift certificates")
 
   
 
@@ -9,9 +11,21 @@
 
 [](http://www.hifisoundconnection.com/Shop/Control/fp/cat/270010/SFV/30046/set_num/2 "ipod Sale banner")
 
+**Get Exclusive Deals**
+
+  * Deal Previews
+  * Exclusive Coupons
+  * Sweepstakes
+  * The Best Deals
+
+
+
 | 
 
-|  |  |  |  |    |   
+|  | 
+
+40,000 sq ft of Electronics Ready to Ship  
+  
 ---|---  
   
 **Privacy Statement for hifisoundconnection.com**  
