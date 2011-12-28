@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postplanner.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625153800id_/http%3A//www.postplanner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postplanner.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228092233id_/http%3A//www.postplanner.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Post Planner
 
@@ -11,7 +11,7 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
 ## Information Gathering and Usage
 
-When you register for Post Planner Pro we ask for information such as your name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
+When you register for Post Planner Pro or Post Planner White Label we ask for information such as your name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
 
 Post Planner uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, advertising and research.
 
