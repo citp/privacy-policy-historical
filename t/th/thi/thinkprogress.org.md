@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkprogress.org privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615002738id_/http%3A//www.americanprogressaction.org/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkprogress.org privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228073636id_/http%3A//www.americanprogressaction.org/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
