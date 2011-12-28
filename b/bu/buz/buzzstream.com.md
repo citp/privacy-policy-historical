@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the buzzstream.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510020922id_/http%3A//www.buzzstream.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzstream.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228135401id_/http%3A//www.buzzstream.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BuzzStream
 
-Last Updated: July 9, 2009
+Last Updated: August 24, 2011
 
 This is the Privacy Policy of the BuzzStream website (the “Site”), operated by Rel Equals Inc. (together with our affiliates and subsidiaries, “BuzzStream”, “we”, “us”, “our” and terms of similar meaning) and our related products and services. It describes the information that we collect from you as part of the normal operation of our Site, and how we use and disclose this information.
 
-By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our [Terms of Use.](http://www.buzzstream.com/terms-of-use)
+This Privacy Policy is incorporated into and subject to our [Terms of Use.](http://www.buzzstream.com/terms-of-use)
 
 In this Privacy Policy, we use the following terms to describe different types of visitors to our Site. Our customers are called “Subscribers” and our Subscribers’ contacts are called “Contacts”. We use the word “staff” to describe persons to whom Subscribers give “staff” access on the Site. Together with registered users of our forum or other interactive areas of the Site, these people are collectively described in this Privacy Policy as “Users” of our Site.
 
@@ -50,7 +50,7 @@ We use credit card and other payment information (such as PayPal email addresses
 
   * #### Anonymized Aggregated Data.
 
-We may aggregate information about reporters and bloggers, including (but not limited to) topic, Publication name, Contact name, number of pitches sent, influence and traffic statistics, methods of contact, percentage response rate, and disclose such information in a personally identifiable manner to Subscribers (if we do so, it will be in a manner that does NOT personally identify or connect Subscribers with reporters and bloggers). We may also share the email address of your Contacts with other paid Buzzstream subscribers if we have been able to find this information publicly and independently. We will never share any contact information you have stored about Contacts that we have not found publicly on the Internet or another service. Your notes, communications, and any information linking your Subscriber account to a Contact will be kept private. We do not disclose any information that could be used to identify Subscribers personally.
+We may aggregate information to provide benchmarking and other comparison information regarding, for example, the relative success of a Subscribers’ outreach campaign relative to companies in the same or different industries.  If we do so, it will be in a manner that does NOT personally identify or connect Subscribers with reporters and bloggers. Your notes, communications, and any information linking your Subscriber account to a Contact will be kept private. We do not disclose any information that could be used to identify Subscribers personally.
 
   * #### Forum.
 
