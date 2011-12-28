@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbstransit.com.sg privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623061656id_/http%3A//www.sbstransit.com.sg/journeyplan/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbstransit.com.sg privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228150314id_/http%3A//www.sbstransit.com.sg/journeyplan/privacy.aspx) for the most accurate reproduction.*
 
 # Welcome to SBS Transit
 
@@ -10,7 +10,7 @@ This Privacy Policy covers our treatment of personally identifiable information 
 
 • | We collect personally identifiable information when you register at our website.  
 ---|---  
-• | When you subscribe with us, we ask for your name, mobile contact number, ez-link card number, email address and other personal information. Once you subscribe with us, you are not anonymous to us.  
+• | When you subscribe with us, we ask for your name, mobile contact number, fare card number, email address and other personal information. Once you subscribe with us, you are not anonymous to us.  
 • | We shall use the information collected for the following purposes: to notify you if there are updates on the services you have subscribed/registered for. However, SBS Transit shall at no time be held responsible or liable in any way for the loss, theft or other disclosure of the said information.  
 • | We will not sell your personally identifiable information to anyone.  
 • |  We will send personally identifiable information about you to other companies or people when:  
