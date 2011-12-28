@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lawyersclubindia.com privacy policy that was archived on 2010-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101219222321id_/http%3A//www.lawyersclubindia.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lawyersclubindia.com privacy policy that was archived on 2011-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228020753id_/http%3A//www.lawyersclubindia.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -24,33 +24,59 @@
 <style type="text/css">
 @import url('styles/default.css');
 </style>
-<script language="javascript" type="text/javascript" src="js/jquery.min.js"></script>
+<script language="javascript" type="text/javascript" src="js/jquery.js"></script>
 <script language="javascript" type="text/javascript" src="js/screen.js"></script>
-<script type="text/javascript" src="http://www.lawyersclubindia.com/js/fancybox/jquery.fancybox-1.3.4.js"></script>
-<link rel="stylesheet" type="text/css" href="http://www.lawyersclubindia.com/js/fancybox/jquery.fancybox-1.3.4.css" media="screen">
-	<script type="text/javascript">
+
+<script type="text/javascript" src="js/fancybox/jquery.fancybox.pack.js"></script>
+<link rel="stylesheet" type="text/css" href="js/fancybox/jquery.fancybox.css" media="screen">
+
+ <script language="javascript" type="text/javascript" src="js/tiptip/jquery.tipTip.minified.js"></script>
+ <link rel="stylesheet" type="text/css" href="js/tiptip/tipTip.css" media="screen">
+<script type="text/javascript">
+jQuery(document).ready(function() {
+
+$(".various").fancybox({
+		'autoSize' : true
+	});
+	});
+</script>
 
 
-		$(document).ready(function() {
-			$(".iframefancy").fancybox({
-			//'onClosed'		: closedel(),
-			'hideOnOverlayClick' : false,
-			'showCloseButton' :true,
-			//'modal':true
-			        //'height'     	: '100%',
-			        //'width'     	: '100%',
-			        //'modal':true,
-			'type' : 'iframe'
-			});
-		
+<script type="text/javascript">
+jQuery(document).ready(function() {
+
+$(".various").fancybox({
+		'autoSize' : true
+	});
+	});
+</script>
+<script src="http://www.lawyersclubindia.com/js/jquery.rating.js" type="text/javascript"></script>
+<link href="http://www.lawyersclubindia.com/lawyers_search/rating.css" rel="stylesheet" type="text/css">
+
+
+
+
+<script type="text/javascript">
+$(function()
+{
+$(".someClass").tipTip({keepAlive: true});
+$(".more").mouseover(function(event) {
+$("#mod_content").show();
+});
+$(".more").mouseout(function(event) {
+$("#mod_content").hide();
+});
+
 });
 </script>
 
 
 </head>
 
+
 <body>
 <a id="top"></a>
+
 <style type="text/css">
 #triangle {
 	right: 0;
@@ -62,13 +88,20 @@
 }
 </style>
 <div id="triangle">
-	<a href="http://www.lawyersclubindia.com/subscribe_feed.asp"><img alt="Subscribe emails" title="Subscribe emails" src="http://www.lawyersclubindia.com/img/subscribe_all.gif"></a>
+<a href="http://www.lawyersclubindia.com/refer/default.asp"><img src="http://www.lawyersclubindia.com/img/invite_triangle_a.gif" border="0"></a>
 </div>
 
 
 <div id="main">
 	<div class="top-row">
-		<span><a href="mobile/default.asp" target="_blank"><b>Lawyersclubindia Mobile</b></a></span>
+		<span>
+
+Learn about <a style="color: #000000; text-decoration:none" href="http://www.lawyersclubindia.com/pro/default.asp"><img src="http://www.lawyersclubindia.com/pro/pro.gif" width="35" align="absmiddle"></a>
+
+</span>
+
+						
+
         <span style="float: right">
         <script language="JavaScript" type="text/javascript"><!--
 function FrontPage_Form1_Validator(theForm)
@@ -98,7 +131,7 @@ function FrontPage_Form1_Validator(theForm)
 			<input type="hidden" name="redirect" value="/privacy_policy.asp?">
 		</form>
 		
-		<a href="bookmark/bookmark_this.asp?pagetitle=PRIVACY POLICY&amp;page_url=http://lawyersclubindia.com/privacy_policy.asp?" onclick="NewWindow(this.href,'my_win','500','150','yes','center');return false" onfocus="this.blur()">
+		<a href="bookmark/bookmark_this.asp?pagetitle=PRIVACY POLICY&amp;page_url=http://www.lawyersclubindia.com/privacy_policy.asp?" class="various fancybox.iframe">
 		<img alt="Bookmark This Page" src="img/bookmark.gif" width="12px" height="12px"></a>
 		&nbsp; <a href="rss/default.asp">
 		<img alt="RSS Feeds" src="img/ico-small-rss.gif"></a>&nbsp;
@@ -107,23 +140,44 @@ function FrontPage_Form1_Validator(theForm)
 	<div id="header">
 		<div class="logo-holder">
 			<a href="default.asp" class="logo">Lawyersclubindia</a>
-			<table width="65%">
+		
+			<table width="40%" align="right">
 			<tbody><tr>
-			<td align="right" style="width: 266px"><br style="line-height:15px">
+			<td style="overflow:hidden; width: 100px; padding-right:10px" align="left">
+					  <br>
+					<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=lawyersclub" style="width:66px; height:20px;"></iframe>
+  <br><br>
+  <iframe src="http://www.facebook.com/plugins/like.php?app_id=213831841990744&amp;href=https://www.facebook.com/lawyersclubindia&amp;send=false&amp;layout=standard&amp;width=50&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=25" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:50px; height:25px;" allowtransparency="true"></iframe>
+					
 			</td>
-			<td><span class="search">
-			<p style="font-size: 1.1em; color: #336699">Member Strength <b>92194</b> 
+
+					<td><span class="search">
+			<p style="font-size: 1.1em; color: #336699">Member Strength <b>147434</b> 
 			and growing..</p>
 			<br class="spacer">
-			<form id="cse-search-box" action="search_results.asp" name="search_home">
-				<div>
-					<input type="hidden" name="cx" value="017086905237560083377:sdnd0crw_ue">
-					<input type="hidden" name="cof" value="FORID:9">
-					<input class="inp-search" name="q" type="text" onfocus="clearMe(this)" onblur="returnMe(this)" size="20">
-					<input href="javascript:document.search_home.submit()" src="img/btn-search.jpg" title="search" class="btn-search" type="image">
-				</div>
-			</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
-			</span></td></tr></tbody></table>
+						<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">
+  google.load('search', '1');
+  google.setOnLoadCallback(function() {
+    google.search.CustomSearchControl.attachAutoCompletion(
+      '017086905237560083377:sdnd0crw_ue',
+      document.getElementById('q'),
+      'cse-search-box');
+  });
+</script>
+
+							<form id="cse-search-box" action="search_results.asp" name="search_home">
+    <input type="hidden" name="cx" value="017086905237560083377:sdnd0crw_ue">
+    <input type="hidden" name="cof" value="FORID:10">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="text" name="q" id="q" autocomplete="off" size="30">&nbsp;
+<input type="image" src="img/btn-search.jpg" name="sa" value="Search" style="position:absolute">
+
+							</form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+			</span></td>
+			
+			</tr></tbody></table>
 			</div>		<div class="nav">
 			<ul id="menu">
 <li><a href="category/Legal-Documents-1.asp" title="Legal Legal Documents &amp; Law Legal Documents">Legal</a></li>
@@ -154,7 +208,8 @@ function FrontPage_Form1_Validator(theForm)
 		</div>
 	</div>
 	<div id="content">
-		<div id="mod_menu">
+					<div id="mod_menu" class="more">
+
 			<a href="news/default.asp" title="Legal Documents &amp; Law Documents">
 			News</a> |
 			<a href="experts/default.asp" title="Legal Experts &amp; Law Experts">
@@ -181,58 +236,140 @@ function FrontPage_Form1_Validator(theForm)
 			Videos</a> |
 			<a style="color:#e85f17" href="viral/default.asp" title="Legal Recommend &amp; Law Recommend">
 			Recommend</a> |
-			<dl class="dropdown">
-				<dt id="one-ddheader" onmouseover="ddMenu('one',1)" onmouseout="ddMenu('one',-1)">
-				<a>More &gt;&gt;</a></dt>
-				<dd id="one-ddcontent" onmouseover="cancelHide('one')" onmouseout="ddMenu('one',-1)">
-				<table align="center" style="width: 100%; border: 1px #d8d8d8 solid; background: #fff; text-align: left" cellpadding="5" cellspacing="0">
-					<tbody><tr>
-						<td valign="top">
-						<ul style="padding-left: 5px; line-height: 15px">
-							<li><a href="legal_diary/default.asp" title="Legal Diary &amp; Law Diary"><span>Diary</span></a></li>
-							<li><a href="poll/default.asp" title="Legal Poll &amp; Law Poll">Poll</a></li>
-							<li><a href="web_directory/default.asp" title="Legal Web Directory &amp; Law Web Directory">Web Directory</a></li>
-						</ul>
-						</td>
-						<td valign="top">
-						<ul style="padding-left: 5px; line-height: 15px">
-							<li><a href="classifieds/default.asp" title="Legal Classifieds &amp; Law Classifieds">Classifieds</a></li>
-							<li><a href="bookmark/default.asp" title="Legal Bookmarks &amp; Law Bookmarks">Bookmarks</a></li>
-							<li><a href="legal_dictionary/default.asp" title="Legal Dictionary &amp; Law Dictionary">Legal Dictionary</a></li>
-						</ul>
-						</td>
-						<td valign="top">
-						<ul style="padding-left: 5px; line-height: 15px">
-							<li><a href="judiciary/default.asp" title="Legal Judiciary &amp; Law Judiciary"><span>Judiciary</span></a></li>
-							<li><a href="forms/default.asp" title="Legal Forms &amp; Law Forms">Forms</a></li>
-							<li><a href="rewards/default.asp" title="Legal Rewards &amp; Law Rewards"><span>Rewards</span></a></li>
-						</ul>
-						</td>
-						<td valign="top">
-						<ul style="padding-left: 5px; line-height: 15px">
-							<li><a href="sc/default.asp" title="Legal SC &amp; Law SC">SC</a></li>
-							<li><a href="notice_circulars/default.asp" title="Legal Notifications &amp; Law Notifications">Notifications</a></li>
-							<li><a href="friend_connect/form.asp" title="Legal Find Friend &amp; Law Find Friend">Find Friends</a></li>
-						</ul>
-						</td>
-						<td valign="top">
-						<ul style="padding-left: 5px; line-height: 15px">
-							<li><a href="viral/default.asp" title="Legal Recommend &amp; Law Recommend"><span>Recommend</span></a></li>
-							<li><a href="la_newspaper.asp" title="Legal Newspaper &amp; Law Newspaper">Newspaper</a></li>
-							<li><a href="scorecard_details.asp" title="Legal Scorecard &amp; Law Scorecard">Scorecard</a></li>
-						</ul>
-						</td>
-						<td valign="top">
-						<ul style="padding-left: 5px; line-height: 15px">
-							<li><a href="top_members_list.asp" title="Legal Top Members &amp; Law Top Members">Top Members</a></li>
-							<li><a href="toolbar.asp" title="Legal Tool Bar &amp; Law Tool Bar">Tool Bar</a></li>
-							<li><a href="groups.asp" title="Legal Groups &amp; Law Groups">Groups</a></li>
-						</ul>
-						</td>
-					</tr>
-				</tbody></table>
-				</dd>
-			</dl>
+			<a href="#">More&gt;&gt;</a>
+			<div id="mod_content" style="display: none">	
+										<table style="width: 100%;background: #f9f9f9" cellpadding="5" cellspacing="5">
+							<tbody><tr>
+								<td valign="top">
+								<ul style="padding-left: 5px; line-height: 15px; font-weight: bold;text-align:left">
+									<li>
+									<a href="news/default.asp" title="Legal News &amp; Law News">
+									News</a></li>
+									<li>
+									<a href="experts/default.asp" title="Legal Experts &amp; Law Experts">
+									Experts</a></li>
+									<li>
+									<a href="blog/default.asp" title="Legal Blogs &amp; Law Blogs">
+									Blogs</a></li>
+									<li>
+									<a href="articles/default.asp" title="Legal Articles &amp; Law Articles">
+									Articles</a></li>
+									<li>
+									<a href="jobs/default.asp" title="Legal Jobs &amp; Law Jobs">
+									Jobs</a></li>
+									<li>
+									<a href="pro/">Pro</a></li>
+								</ul>
+								</td>
+								<td valign="top">
+								<ul style="padding-left: 5px; line-height: 15px; font-weight: bold;text-align:left">
+									<li>
+									<a href="forum/default.asp" title="Legal Forum &amp; Law Forum">
+									<span>Forum</span></a></li>
+									<li>
+									<a href="students/default.asp" title="Legal Coaching &amp; Law Coaching">
+									Coaching</a></li>
+									<li>
+									<a href="events/default.asp" title="Legal Events &amp; Law Events">
+									Events</a></li>
+									<li>
+									<a href="community/default.asp" title="Legal Communities &amp; Law Communities">
+									Communities</a></li>
+									<li>
+									<a href="bare_acts/default.asp" title="Legal Bare Acts &amp; Law Bare Acts">
+									<span>Bare Acts</span></a></li>
+									<li>
+									<a href="rss/">RSS</a></li>
+								</ul>
+								</td>
+								<td valign="top">
+								<ul style="padding-left: 5px; line-height: 15px; font-weight: bold;text-align:left">
+									<li>
+									<a href="bookmark/default.asp" title="Legal Bookmarks &amp; Law Bookmarks">
+									Bookmarks</a></li>
+									<li>
+									<a href="legal_dictionary/default.asp" title="Legal Dictionary &amp; Law Dictionary">
+									Legal Dictionary</a></li>
+									<li>
+									<a href="share_files/default.asp" title="Legal Files &amp; Law Files">
+									Files</a></li>
+									<li>
+									<a href="judiciary/default.asp" title="Legal Judiciary &amp; Law Judiciary">
+									<span>Judiciary</span></a></li>
+									<li>
+									<a href="forms/default.asp" title="Legal Forms &amp; Law Forms">
+									Forms</a></li>
+									<li>
+									<a href="lawyers_search">Lawyers Search</a></li>
+								</ul>
+								</td>
+								<td valign="top">
+								<ul style="padding-left: 5px; line-height: 15px; font-weight: bold;text-align:left">
+									<li>
+									<a href="sc/default.asp" title="Legal SC &amp; Law SC">
+									SC</a></li>
+									<li>
+									<a href="notice_circulars/default.asp" title="Legal Notifications &amp; Law Notifications">
+									Notifications</a></li>
+									<li>
+									<a href="poll/default.asp" title="Legal Poll &amp; Law Poll">
+									Poll</a></li>
+									<li>
+									<a href="video/default.asp" title="Legal Video &amp; Law Video">
+									Video</a></li>
+									<li>
+									<a href="web_directory/default.asp" title="Legal Web Directory &amp; Law Web Directory">
+									Web Directory</a></li>
+									<li>
+									<a href="mobile.asp">Mobile</a></li>
+								</ul>
+								</td>
+								<td valign="top">
+								<ul style="padding-left: 5px; line-height: 15px; font-weight: bold;text-align:left">
+									<li>
+									<a href="classifieds/default.asp" title="Legal Classifieds &amp; Law Classifieds">
+									Classifieds</a></li>
+									<li>
+									<a href="viral/default.asp" title="Legal Recommend &amp; Law Recommend">
+									<span>Recommend</span></a></li>
+									<li>
+									<a href="birthday/default.asp">
+									Today's Birthdays</a></li>
+									<li>
+									<a href="scorecard_details.asp" title="Legal Scorecard &amp; Law Scorecard">
+									Scorecard</a></li>
+									<li>
+									<a href="legal_diary/default.asp" title="Legal Diary &amp; Law Diary">
+									<span>Diary</span></a></li>
+									<li>
+									<a href="reader">News Reader</a></li>
+								</ul>
+								</td>
+								<td valign="top">
+								<ul style="padding-left: 5px; line-height: 15px; font-weight: bold;text-align:left">
+									<li>
+									<a href="friend_connect/form.asp" title="Legal Find Friend &amp; Law Find Friend">
+									<span>Find Friends</span></a></li>
+									<li>
+									<a href="rewards/default.asp" title="Legal Rewards &amp; Law Rewards">
+									<span>Rewards</span></a></li>
+									<li>
+									<a href="top_members_list.asp" title="Legal Top Members &amp; Law Top Members">
+									Top Members</a></li>
+									<li>
+									<a href="toolbar.asp" title="Legal Tool Bar &amp; Law Tool Bar">
+									Tool Bar</a></li>
+									<li>
+									<a href="groups.asp" title="Legal Groups &amp; Law Groups">
+									Groups</a></li>
+									<li>
+									<a href="subscribe_feed.asp">Email</a></li>
+								</ul>
+								</td>
+							</tr>
+						</tbody></table>
+
+		</div>		
 		</div>
 		
 		<br class="spacer">
@@ -443,6 +580,9 @@ google_ad_height = 90;
 	<img alt="Add Linkedin" title="Add Linkedin" src="img/linkedin.jpg" width="35px" height="35px"></a>&nbsp;
 	<a href="http://www.lawyersclubindia.com/rss/" target="_blank">
 	<img alt="Lawyersclubindia RSS Feed" title="Lawyersclubindia RSS Feed" src="img/rss_socialmedia.png" width="35px" height="35px"></a>&nbsp;
+			<a href="https://plus.google.com/104052185836617982862" target="_blank">
+		<img alt="Lawyersclubindia on Google Plus" title="Lawyersclubindia on Google Plus" src="img/google-plus.jpg" width="35px" height="35px"></a>&nbsp;
+
 	</p>
 	<br class="spacer">
 	<ul>
@@ -456,7 +596,7 @@ google_ad_height = 90;
 		<li><a href="contact_us.asp">Contact</a></li>
 	</ul>
 	<br class="spacer">
-	<span class="copy">© 2010 Lawyersclubindia.com.</span> <span>&nbsp;All trademarks 
+	<span class="copy">� 2011 Lawyersclubindia.com.</span> <span>&nbsp;All trademarks 
 	and copyrights are held by respective owners. Members comments/posts and files 
 	are owned by contributors.</span> </div>
 </div>
@@ -494,4 +634,4 @@ sc_security="918c15a9";
 <img class="statcounter" src="http://c39.statcounter.com/3430427/0/918c15a9/1/" alt="web counter" ></a></div></noscript>
 <!-- End of StatCounter Code -->
 
-</body></html>
+<div id="tiptip_holder" style="max-width:200px;"><div id="tiptip_arrow"><div id="tiptip_arrow_inner"></div></div><div id="tiptip_content"></div></div></body></html>
