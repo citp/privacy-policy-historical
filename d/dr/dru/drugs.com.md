@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugs.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607134311id_/http%3A//www.drugs.com/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugs.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228032839id_/http%3A//www.drugs.com/support/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Drugs.com
 
