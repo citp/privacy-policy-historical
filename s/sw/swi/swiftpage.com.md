@@ -1,29 +1,25 @@
-> *The following text is extracted and transformed from the swiftpage.com privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010234024id_/http%3A//www.swiftpage.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftpage.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229001839id_/http%3A//www.swiftpage.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Swiftpage
 
-## Swiftpage Privacy Policy
+##  Swiftpage Privacy Policy
 
-[](http://www.etrust.org/cert/897546.html)
+Swiftpage is dedicated to the privacy and rights of our customers. We do not sell or distribute   
+any of the information collected from patrons of our service for profit or any other reason. For   
+a detailed description of our practices, read our privacy policy below.
 
-Swiftpage is dedicated to the privacy and rights of our customers. We do not sell or distribute any of the information collected from patrons of our service for profit or any other reason. For a detailed description of our practices, read our privacy policy below.
+**Swiftpage Contact Information**   
+You can contact Swiftpage by calling 303.978.1000 or by emailing [support@swiftpage.com](mailto:support@swiftpage.com).    
+Additional Swiftpage contact information can be found at <http://www.swiftpage.com/contact.htm>.  
 
-**Swiftpage Contact Information**
-
-You can contact Swiftpage by calling 303.978.1000 or by emailing [support@swiftpage.com](mailto:support@swiftpage.com).  Additional Swiftpage contact information can be found at <http://www.swiftpage.com/contact.htm>.  
-
-> Swiftpage Physical Address:  
->  383 Inverness Pkwy.  
->  Suite 340  
->  Englewood, CO 80112
-
-**eTrust Contact Information**
-
-To contact eTrust regarding the Swiftpage privacy policy, go to <http://www.etrust.org/about/privacy_contact.php>
+Swiftpage Physical Address:  
+383 Inverness Pkwy.  
+Suite 340  
+Englewood, CO 80112
 
 **Customer Information**
 
-Swiftpage collects and stores information about its customers including, but not limited to: email address, survey results, phone number, credit card number, and billing address. This information is for the sole use of Swiftpage and used for billing accounts, new product and service notification, and customer support. Swiftpage does not sell email lists, survey results, or any other customer information and is committed to keeping your information confidential.  If you receive email through the Swiftpage system and wish to opt-out, simply click the “Leave this list” link in the footer of the email.  To be completely removed from the list that you are a part of, please contact the sender of the email by replying to that email (Swiftpage is not the list origin).  If you receive an email directly from Swiftpage (i.e. you are a current or past customer) and wish to have your name removed from our list, please reply to us at [support@swiftpage.com](mailto:support@swiftpage.com) with your request and we will be happy to honor it.
+Swiftpage collects and stores information about its customers including, but not limited to: email address, survey results, phone number, credit card number, and billing address. This information is for the sole use of Swiftpage and used for billing accounts, new product and svervice notification, and customer support. Swiftpage does not sell email lists, survey results, or any other customer information and is committed to keeping your information confidential.  If you receive email through the Swiftpage system and wish to opt-out, simply click the “Leave this list” link in the footer of the email.  To be completely removed from the list that you are a part of, please contact the sender of the email by replying to that email (Swiftpage is not the list origin).  If you receive an email directly from Swiftpage (i.e. you are a current or past customer) and wish to have your name removed from our list, please reply to us at [support@swiftpage.com](mailto:support@swiftpage.com) with your request and we will be happy to honor it.
 
 Personally identifiable information can be disclosed to government agencies subject to warrants, subpoenas, and other governmental orders.  
 In addition, personally identifiable information submitted by you in public forums on this site and via email campaign (view as a web page link) will be visible and displayed publicly.
@@ -44,7 +40,7 @@ Swiftpage does not install cookies, or any other software on your computer.  Wh
 
 **Dispute Resolution**
 
-If a situation arises where you have a privacy dispute, please contact Swiftpage directly and we will be happy to work with you in a fair and practical manner (see Swiftpage contact information at the top of this page).  If after speaking with Swiftpage, you feel that you have not come to a mutually agreeable resolution, we will use eTrust as an arbitrator.
+If a situation arises where you have a privacy dispute, please contact Swiftpage directly and we will be happy to work with you in a fair and practical manner (see Swiftpage contact information at the top of this page).  If after speaking with Swiftpage, you feel that you have not come to a mutually agreeable resolution, we shall participate in the dispute resolution procedures of the panel established by the EU data protection authorities to resolve disputes pursuant to the Safe Harbor Privacy Principles, as well as to cooperate and comply with the Swiss Federal Data Protection and Information Commissioner.
 
 **Payment**
 
@@ -56,7 +52,8 @@ Swiftpage customers set up a user profile within their account for the purpose o
 
 **Security**
 
-Swiftpage is dedicated to keeping your information secure. Each customer account is password-protected to ensure that only you have access to your information. Swiftpage will never contact you with unsolicited phone calls or emails asking for your password so do not divulge your contact information to anyone contacting you in this manner. While we do everything in our power to ensure your information is secure, no data transmission over the Internet can be guaranteed 100% safe from those wishing to unlawfully obtain it.  
+Swiftpage is dedicated to keeping your information secure. Each customer account is password-protected to ensure that only you have access to your information. Swiftpage will never contact you with unsolicited phone calls or emails asking for your password so do not divulge your contact information to anyone contacting you in this manner. While we do everything in our power to ensure your information is secure, no data transmission over the Internet can be guaranteed 100% safe from those wishing to unlawfully obtain it.
+
 You may also want to read our [No Spam Policy](http://www.swiftpage.com/SpamPolicy.htm).
 
 **Privacy Policy**
@@ -65,4 +62,4 @@ Changes to the Swiftpage privacy policy will always be available at <http://www.
 
 **Privacy Policy Effective Date**
 
-The current privacy policy is effective 3/29/2010.
+The current privacy policy is effective 3/22/2011. 
