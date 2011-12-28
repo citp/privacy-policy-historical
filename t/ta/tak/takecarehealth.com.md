@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the takecarehealth.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629164722id_/http%3A//takecarehealth.com/Privacy_Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takecarehealth.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228084157id_/http%3A//www.takecarehealth.com/Privacy_Statement.aspx) for the most accurate reproduction.*
 
-# Privacy Statement
+# 
 
 This Privacy Statement sets forth the information gathering, use, and dissemination practices of Take Care Health SystemsSM, LLC ("Take CareSM") in connection with the World Wide Web site located at [www.takecarehealth.com](http://www.takecarehealth.com/) (the "Site"). This Privacy Statement addresses Take Care's practices regarding information collected only directly through or from the Site—it does not address or govern any information gathering, use, or dissemination practices related to information collected other than directly through or from the Site, including, without limitation, from or via telephone, find-a-clinicsimile, postal mail, personal delivery, or other or additional offline means or media. Take Care can be contacted by phone at 1-877-MY-TAKE-CARE or through the "Contact" section of the Web site at [www.takecarehealth.com](http://www.takecarehealth.com/). 
 
