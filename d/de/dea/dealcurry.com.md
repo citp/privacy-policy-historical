@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the dealcurry.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211105415id_/http%3A//www.dealcurry.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealcurry.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228032341id_/http%3A//www.dealcurry.com/Privacy.htm) for the most accurate reproduction.*
 
-# DealCurry: Privacy Policy
-
-| 
-
-About Privacy
-
-Privacy Policy
+# DealCurry.com: Privacy Policy
 
 **BACKGROUND:**
 
@@ -16,30 +10,30 @@ This Policy applies as between you, the User of this Web Site and the owner and 
 In this Policy the following terms shall have the following meanings:
 
 **“Content”**  
-Means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of this Web Site; 
+Means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of this Web Site;
 
 **“Cookie”**  
 Means a small text file placed on your computer by EagleEye Research & Media Pvt. Ltd. when you visit certain parts of this Web Site. This allows us to identify recurring visitors and to analyse their browsing habits within the Web Site. 
 
 **“Data”**  
-Means collectively all information that you submit to the Web Site. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems; 
+Means collectively all information that you submit to the Web Site. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems;
 
-**“EagleEye Research & Media Pvt. Ltd.”** Means EagleEye Research & Media Pvt. Ltd, DealCurry, DealCurry.com and any other trading names and companies of the EagleEye Research & Media Pvt. Ltd. 
+**“EagleEye Research & Media Pvt. Ltd.”**Means EagleEye Research & Media Pvt. Ltd, DealCurry, DealCurry.com and any other trading names and companies of the EagleEye Research & Media Pvt. Ltd.
 
 **“Service”**  
-Means collectively any online facilities, tools, services or information that EagleEye Research & Media Pvt. Ltd makes available through the Web Site either now or in the future; 
+Means collectively any online facilities, tools, services or information that EagleEye Research & Media Pvt. Ltd makes available through the Web Site either now or in the future;
 
 **“System”**  
-means any online communications infrastructure that makes available through the Web Site either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links; 
+Means any online communications infrastructure that makes available through the Web Site either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links;
 
 **“User” ⁄ “Users”**  
-Means any third party that accesses the Web Site and is not employed by EagleEye Research & Media Pvt. Ltd. and acting in the course of their employment; 
+Means any third party that accesses the Web Site and is not employed by EagleEye Research & Media Pvt. Ltd. and acting in the course of their employment;
 
 **“Web Site”**  
-Means the website that you are currently using (www.DealCurry.com) and any sites of EagleEye Research & Media Pvt. Ltd. unless expressly excluded by their own terms and conditions. 
+Means the website that you are currently using (www.DealCurry.com) and any sites of EagleEye Research & Media Pvt. Ltd. unless expressly excluded by their own terms and conditions.
 
   2. **Data Collected**  
-Without limitation, any of the following Data may be collected: 
+Without limitation, any of the following Data may be collected:
 
     1. EagleEye Research & Media Pvt. Ltd; 
 
@@ -75,7 +69,7 @@ Without limitation, any of the following Data may be collected:
 
     3. All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. For more details on security, see clause 9 below.
 
-    4. Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Web Site. Specifically, Data may be used by us for the following reasons: 
+    4. Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Web Site. Specifically, Data may be used by us for the following reasons:
 
       1. internal record keeping;
 
@@ -86,7 +80,7 @@ Without limitation, any of the following Data may be collected:
       4. contact for market research purposes which may be done using email, telephone, fax or mail. Such information may be used to customise or update the Web Site.
 
   4. **Third Party Web Sites and Services**   
-EagleEye Research & Media Pvt. Ltd. may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services do have access to certain personal Data provided by Users of this Web Site. Data used by such parties is used only to the extent required by them to perform the services that EagleEye Research & Media Pvt. Ltd.requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998. 
+EagleEye Research & Media Pvt. Ltd. may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services do have access to certain personal Data provided by Users of this Web Site. Data used by such parties is used only to the extent required by them to perform the services that EagleEye Research & Media Pvt. Ltd.requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998.
 
   5. **Changes of Business Ownership and Control**
 
@@ -96,7 +90,7 @@ EagleEye Research & Media Pvt. Ltd. may, from time to time, employ the services 
 
   6. **Controlling Access to your Data**
 
-    1. Wherever you are required to submit Data, you will be given options to restrict our use of that Data. This may include the following: 
+    1. Wherever you are required to submit Data, you will be given options to restrict our use of that Data. This may include the following:
 
       1. use of Data for direct marketing purposes; and
 
@@ -108,7 +102,7 @@ EagleEye Research & Media Pvt. Ltd. may, from time to time, employ the services 
 
     1. You may access certain areas of the Web Site without providing any Data at all. However, to use all Services and Systems available on the Web Site you may be required to submit Account information or other Data.
 
-    2. You may restrict your internet browser’s use of Cookies. For more information see clause 10.4 below.
+    2. You may restrict your internet browser's use of Cookies. For more information see clause 10.4 below.
 
   8. **Accessing your own Data**
 
@@ -124,7 +118,7 @@ EagleEye Research & Media Pvt. Ltd. may, from time to time, employ the services 
 
     1. EagleEye Research & Media Pvt. Ltd. may set and access Cookies on your computer, Cookies that may be placed on your computer.
 
-    2. A Cookie is a small file that resides on your computer’s hard drive and often contains an anonymous unique identifier and is accessible only by the web site that placed it there, not any other sites. 
+    2. A Cookie is a small file that resides on your computer's hard drive and often contains an anonymous unique identifier and is accessible only by the web site that placed it there, not any other sites. 
 
     3. You may delete Cookies, however you may lose any information that enables you to access the Web Site more quickly. 
 
@@ -135,35 +129,3 @@ EagleEye Research & Media Pvt. Ltd. reserves the right to change this Privacy Po
 
 
 
-
-|   |    
-    |    Latest DealCurry Notes  
----  
-   
-| 
-
-Olympic Cards Files DRHP For An IPO   
-  
----  
-  
-December 10, 2010, 05:56 PM | Khyati Doshi   
-  
-**Olympic Cards Limited** has filed **DRHP** with SEBI for an **IPO** to issue 81,81,000 equity shares. This will constitute 48.12% of fully diluted post issue paid up capital of the company.
-
-It plans to use the funds to set up a manufacturing unit near Chennai, for capital expenditure towards establishment of 4 own retail outlets in southern region of India and for other general purposes.
-
-  
-Founded by **N M Habibullah** and **H Noor Mohamed** in 1962, Olympic Cards is the manufacturer and supplier of invitation cards.
-
-  
- **Ashika Capital Limited** is the sole book running lead manager to the issue.  
-  
-   M&A  
-   
-   PRIVATE EQUITY  
-   
-   VENTURE CAPITAL  
-   
-   I.P.O. / OFFERINGS  
-   
- 
