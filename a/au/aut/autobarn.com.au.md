@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autobarn.com.au privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521223305id_/http%3A//www.autobarn.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobarn.com.au privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228043358id_/http%3A//www.autobarn.com.au/privacy) for the most accurate reproduction.*
 
 # Autobarn: Privacy Policy
 
@@ -80,8 +80,9 @@ All queries regarding our Privacy Policy should be directed to:
 
 The Privacy Officer  
 Autobarn National Office  
-60 Terracotta Drive  
-Nunawading VIC 3131
+72-92 Station Street  
+Reception via Norcal Road  
+Nunawading, Victoria, 3131
 
 Telephone: (03) 8878 1111  
 Facsimile: (03) 8878 2222  
