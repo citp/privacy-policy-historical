@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staplespromotionalproducts.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520123635id_/http%3A//www.staplespromotionalproducts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staplespromotionalproducts.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228211425id_/http%3A//www.staplespromotionalproducts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Staples Promotional Products Privacy Policy
 
@@ -55,7 +55,7 @@ In order to provide our full range of services, we may collect Personal Informat
   * Email address
   * Transaction information
   * Credit card, debit card, or checking account information
-  * Driver’s license number (in conjunction with merchandise returns)
+  * Driver's license number (in conjunction with merchandise returns)
   * Age (in conjunction with promotions and for credit card applications)
   * Social Security number (in conjunction with credit applications only)
   * Employment history (in conjunction with credit applications only)
@@ -93,13 +93,13 @@ At Staples, we always want to provide you with the easiest and best possible sho
 
 
 
-Staples does offer some of our services in connection with affiliated companies as well as other third parties. Third party websites may have different privacy practices than described in this Privacy Policy. We strongly encourage you to read the privacy policies associated with third party websites as this Privacy Policy applies only to the Staples Website, Staples’ services, and Staples’ handling of Personal Information.
+Staples does offer some of our services in connection with affiliated companies as well as other third parties. Third party websites may have different privacy practices than described in this Privacy Policy. We strongly encourage you to read the privacy policies associated with third party websites as this Privacy Policy applies only to the Staples Website, Staples' services, and Staples' handling of Personal Information.
 
 Personal Information that you provide to third party websites may be sent to Staples in order to deliver the services you have requested. You can be assured that we will process Personal Information that we receive from these websites in accordance with this Privacy Policy.
 
 Choices for Personal Information
 
-To further improve your shopping experience, Staples partners with third party vendors to evaluate how the Website is used and to provide continuous improvement for our services. Like most websites, we use “cookies” for a variety of purposes to improve your visits to the Website. Cookies are pieces of information that a website transfers to the hard drive on your computer for record-keeping purposes. For example, we use cookies to understand which web pages are visited, how often they are visited, to remember you when you return to the Website, and to generally make the Website more user-friendly.
+To further improve your shopping experience, Staples partners with third party vendors to evaluate how the Website is used and to provide continuous improvement for our services. Like most websites, we use "cookies" for a variety of purposes to improve your visits to the Website. Cookies are pieces of information that a website transfers to the hard drive on your computer for record-keeping purposes. For example, we use cookies to understand which web pages are visited, how often they are visited, to remember you when you return to the Website, and to generally make the Website more user-friendly.
 
 Most browsers are initially set up to accept cookies. You may decide to reset your browser to refuse all cookies or to notify you when a cookie is being sent. However, if you do decide to refuse all cookies please be aware that some Website features and Staples services may be unavailable or may not function properly.
 
@@ -107,7 +107,7 @@ To opt out of Staples advertising-related cookies, follow the links for our part
 
 **Coremetrics**
 
-  * Opt-out: [www.coremetrics.com/info_eluminate2.html](http://www.coremetrics.com/info_eluminate2.html)
+  * Opt-out: [www.coremetrics.com/company/privacy.php#optout](http://www.coremetrics.com/company/privacy.php#optout)
   * More information: <http://www.coremetrics.com/company/privacy.php>
 
 
@@ -124,7 +124,7 @@ You may also decide to opt-out of receiving promotional mail and/or email from S
 
   * Follow the unsubscribe link on any promotional email received from Staples
   * Send an email to us at [sales@StaplesPromoProducts.com](mailto:sales@staplespromoproducts.com)
-  * Call us toll–free at 1–800–369–4669
+  * Call us toll–free at 1–866-920-2404
   * Fax us at 712-737-8744
   * Write to us at
 
@@ -162,7 +162,7 @@ Data Integrity
 Staples takes reasonable steps to verify that the Personal Information we store and process is accurate, complete and current. We also depend on our customers to update or correct their online profiles and to contact us with changes in Personal Information whenever necessary by one of the following means:
 
   * Send an email to us at [sales@StaplesPromoProducts.com](mailto:sales@staplespromoproducts.com)
-  * Call us toll–free at 1–800–369–4669
+  * Call us toll–free at 1–866-920-2404
   * Fax us at 712-737-8744
   * Write to us at
 
@@ -173,17 +173,15 @@ Staples Promotional Products Sales Department
 Overland Park, KS 66210  
 
 
-Unless otherwise required by law or for legitimate business purposes, we will make good faith efforts to correct or delete such data at your request when you notify us of an error or change in your Personal Information. To prevent unauthorized changes to someone’s Personal Information, we ask individual customers to positively identify themselves before processing such requests.
+Unless otherwise required by law or for legitimate business purposes, we will make good faith efforts to correct or delete such data at your request when you notify us of an error or change in your Personal Information. To prevent unauthorized changes to someone's Personal Information, we ask individual customers to positively identify themselves before processing such requests.
 
 We reserve the right to charge a small fee to process any request to update, correct or delete Personal Information. We also may decline to process requests that require a disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes).
 
 Policy Enforcement
 
-Staples regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Staples’ treatment of Personal Information to us through the website or by writing to us at the email or postal mail address contained at the beginning of this document.
+Staples regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Staples' treatment of Personal Information to us through the website or by writing to us at the email or postal mail address contained at the beginning of this document.
 
-If we receive a written complaint, it is Staples’ policy to contact the complaining customer regarding his or her concerns. We will investigate complaints promptly and diligently to address your concerns and resolve any dispute quickly.
-
-We are also a member of BBBOnLine, the online division of the Better Business Bureau, which offers a privacy dispute resolution program for customers with online privacy complaints involving BBBOnLine privacy program participants. We will strive to resolve any customer service complaints regarding the transfer of Personal Information that cannot be resolved between Staples and the customer promptly in accordance with BBBOnLine procedures.
+If we receive a written complaint, it is Staples' policy to contact the complaining customer regarding his or her concerns. We will investigate complaints promptly and diligently to address your concerns and resolve any dispute quickly.
 
 What to do if you believe someone has improperly used your personal data
 
@@ -224,7 +222,7 @@ www.transunion.com
 
 International Considerations and Safe Harbor
 
-Staples is registered with the U.S. Department of Commerce’s Safe Harbor Program and adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
+Staples is registered with the U.S. Department of Commerce's Safe Harbor Program and adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
 
 For California Residents) Privacy Rights under California Civil Code Sections 1798.83-1798.84
 
