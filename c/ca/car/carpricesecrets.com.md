@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carpricesecrets.com privacy policy that was archived on 2010-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100728081150id_/http%3A//www.carpricesecrets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carpricesecrets.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228212825id_/http%3A//www.carpricesecrets.com/privacy) for the most accurate reproduction.*
 
 # CarPriceSecrets.com - Privacy Policy
 
@@ -29,7 +29,7 @@ We may use and disclose personally identifiable information to provide various t
   * 3\. Third Party Sales Representatives  
 We use third party sales representatives, including our affiliated newspaper and broadcast partners, to sign up affiliated dealers in certain areas. In the course of working with these affiliated dealers, these Sales Representatives may have access to the personally identifiable information that you provide.
   * 4\. Communications  
-We may use personally identifiable information to communicate with you regarding our services and other services that may be of interest to you. For example, when you submit a quote request, you may receive the following email notifications from us: (1) if your car quote request was processed successfully, we will give you information about the affiliated dealer(s) to whom we sent your request ; (2) if we cannot find an affiliated dealer that is able to fulfill your request, we will give you information about the third-party provider to whom we sent your request ; and (3) if your car quote request could not be fulfilled by an affiliated dealer or a third-party provider, we will refer you to one of our online partners. We, and in some instances, our Sales Representatives, also may contact you to learn more about your experiences in using the Site and our service. With respect to any commercial email marketing from us, you will have the opportunity to unsubscribe from such communications at any time.
+We may use personally identifiable information to communicate with you regarding our services and other services that may be of interest to you. For example, when you submit a quote request, you may receive the following email notifications from us: (1) if your car quote request was processed successfully, we will give you information about the affiliated dealer(s) to whom we sent your request ; (2) if we cannot find an affiliated dealer that is able to fulfill your request, we may give you information about the third-party provider to whom we sent your request ; and (3) if your car quote request could not be fulfilled by an affiliated dealer or a third-party provider, we may refer you to one of our online partners. We, and in some instances, our Sales Representatives, also may contact you to learn more about your experiences in using the Site and our service. With respect to any commercial email marketing from us, you will have the opportunity to unsubscribe from such communications at any time.
   * 5\. Service Providers  
 We may disclose personally identifiable information to third-party agents, consultants, and contractors that perform services on our behalf, but only for such purposes.
   * 6\. Legal Reasons  
@@ -67,4 +67,4 @@ If this privacy statement materially changes, the new privacy statement will be 
 
 If you have any questions about this privacy statement, please don't hesitate to [contact us](https://web.archive.org/contact/).
 
-Last updated: February 5, 2008
+Last updated: December 2, 2010
