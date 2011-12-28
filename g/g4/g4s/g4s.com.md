@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the g4s.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630223928id_/http%3A//www.g4s.com/en/Site%2520Tools/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g4s.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228033918id_/http%3A//www.g4s.com/en/Site%2520Tools/Privacy) for the most accurate reproduction.*
 
 # Privacy | G4S
 
-This privacy policy covers our use of the information collected by the G4S.com web site (or other linked G4S web sites) during your visit to our site. 
+This privacy policy covers our use of the information collected by the G4S.com web site (or other linked G4S web sites) during your visit to our site 
 
 ## Cookies
 
@@ -20,11 +20,11 @@ You can delete our cookies or block this information by changing the settings on
 
 We collect and use personal information (including name, address, telephone number and email) in order to:
 
-  * respond to queries or requests submitted by you 
-  * provide services such as our Email Alert service 
-  * process orders or applications submitted by you 
-  * administer or otherwise carry out our obligations in relation to any agreement you have with us 
-  * anticipate and resolve problems with any services supplied to you
+  * Respond to queries or requests submitted by you 
+  * Provide services such as our Email Alert service 
+  * Process orders or applications submitted by you 
+  * Administer or otherwise carry out our obligations in relation to any agreement you have with us 
+  * Anticipate and resolve problems with any services supplied to you
 
 
 
@@ -36,8 +36,8 @@ This policy applies to G4S.com.  However other G4S web sites may contain privac
 
 We cannot be responsible for the privacy policies and practices of other web sites even if:
 
-  * you accessed the third party web site using links from our web site; or 
-  * you linked to our web site from a third party web site.
+  * You accessed the third party web site using links from our web site; or 
+  * You linked to our web site from a third party web site
 
 
 
