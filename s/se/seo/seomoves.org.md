@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seomoves.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629231258id_/http%3A//www.seomoves.org/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seomoves.org privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228060808id_/http%3A//www.seomoves.org/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Search Engine Optimization
 
@@ -49,6 +49,6 @@ To protect your privacy and security, we will also take practical steps to authe
 
 If you have other questions or worries about these privacy policies, please call us at 888.673.6660 or send an email to info@seomoves.org. Additional information can be located below. 
 
-[Contact Us For a FREE No Obligation Price Quote](https://web.archive.org/web/20110629231258id_/http%3A//www.seomoves.org/contact.php)
+[Contact Us For a FREE No Obligation Price Quote](https://web.archive.org/web/20111228060808id_/http%3A//www.seomoves.org/contact.php)
 
 We know how difficult web marketing can be, and there will probably come a time when you need expert Internet marketing services to surpass your competition in the traffic wars. Please consider having our search engine marketing firm help with your campaign. We provide free quotes for SEO services to improve your organic search engine ranking, pay per click (PPC) management, Web analytics for SEO and PPC, Web design, and SEO training programs, so you have nothing to lose! Please contact us for a comprehensive price quote for your search engine campaign. 
