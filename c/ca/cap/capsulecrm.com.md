@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the capsulecrm.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611061433id_/http%3A//capsulecrm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capsulecrm.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228131250id_/http%3A//capsulecrm.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Zestia Limited ("We") is committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](http://www.capsulecrm.com/terms) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. It also sets out your responsibilities for your processing of personal data when using our Service (as defined below). Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it, and your data protection obligations in respect of your use of the Service. In the event of a conflict or disagreement between this Privacy Policy and the terms of use, the [terms of use](http://www.capsulecrm.com/terms) will prevail. 
+This policy (together with our [terms of use](http://capsulecrm.com/terms) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. It also sets out your responsibilities for your processing of personal data when using our Service (as defined below). Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it, and your data protection obligations in respect of your use of the Service. In the event of a conflict or disagreement between this Privacy Policy and the terms of use, the [terms of use](http://capsulecrm.com/terms) will prevail. 
 
 ### Information We collect from you
 
@@ -32,7 +32,7 @@ We reserve the right to use the name and/or logo of the company you work for in 
 
 If you choose to pay for the Service using a Credit Card, your credit card details are not stored by us and cannot be used by our staff.
 
-Your credit card details are encrypted and securely stored by Sage Pay, a division of Sage (UK) Limited to enable us to automatically bill your credit card on a recurring basis. A copy of [SagePay security policy is available here.](http://www.sagepay.com/security_policy.asp)
+Your credit card details are encrypted and securely stored by Sage Pay, a division of Sage (UK) Limited to enable us to automatically bill your credit card on a recurring basis. A copy of [SagePay security policy is available here.](http://www.sagepay.com/security_policy)
 
 ### You can opt-out of any email communications
 
@@ -50,7 +50,7 @@ We may also disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
   * If Zestia Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://www.capsulecrm.com/terms) and other agreements; or to protect the rights, property, or safety of Zestia Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://capsulecrm.com/terms) and other agreements; or to protect the rights, property, or safety of Zestia Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
 
 
 
@@ -86,7 +86,7 @@ You agree to indemnify us and keep us indemnified and defend us at your own expe
 
 ### Your data is sent securely across the internet
 
-Our servers use SSL security certificates so all data transferred between your users and our servers is encrypted. However, the internet is not in itself a secure environment. Users should only enter, or instruct the importation of, data to the database within a secure environment. This means that the user’s browser must support the encryption security used in connection with the our servers. 
+Our servers use SSL security certificates so all data transferred between your users and our servers is encrypted. However, the internet is not in itself a secure environment. Users should only enter, or instruct the importation of, data to the database within a secure environment. This means that the user’s browser must support the encryption security used in connection with our servers. 
 
 ### We will give you access to your data at any time
 
@@ -98,7 +98,7 @@ Your data may be permanently deleted by us after you stop paying to use the Serv
 
 We have access to and may use aggregate information such as number of associated users, number of transactions and billing information for the purpose of billing and monitoring server and software performance as well as for other internal purposes. 
 
-We will never access the details of any information entered and stored in the the Service. We will never access system usage history for a specific identifiable user, except where granted permission by the user to assist with resolution of a system issue or error. 
+We will never access the details of any information entered and stored in the Service. We will never access system usage history for a specific identifiable user, except where granted permission by the user to assist with resolution of a system issue or error. 
 
 Our staff may access non-identifying and aggregated usage information and transaction volumes in order to better understand how our customers are using the Service so we can improve the system design and where appropriate have the system prompt users with suggestions on ways to improve their own use of the system. All aggregated usage information is stored in a secure data warehouse facility. 
 
@@ -112,4 +112,4 @@ We reserve the right to change this policy at any time and any amended policy wi
 
 For the purpose of the Data Protection Act 1998, the data controller is Zestia Limited, a private limited company registered in England with number 06418281 whose registered office is at The Old Workshop, 12B Kennerleys Lane, Wilmslow, Cheshire. SK9 5EQ.
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be forwarded by email to [[info@zestia.com](mailto:info@zestia.com) ](mailto:info@zestia.com). 
+Questions, comments and requests regarding this privacy policy are welcomed and should be forwarded by email to [info@zestia.com](mailto:info@zestia.com). 
