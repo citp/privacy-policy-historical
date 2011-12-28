@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the made-in-china.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629135412id_/http%3A//www.made-in-china.com/help/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the made-in-china.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228092452id_/http%3A//www.made-in-china.com/help/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Made-in-China.com
 
