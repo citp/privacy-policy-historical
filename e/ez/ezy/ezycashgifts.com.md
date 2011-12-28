@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezycashgifts.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123215130id_/http%3A//ezycashgifts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezycashgifts.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228222300id_/http%3A//ezycashgifts.com/privacy.php) for the most accurate reproduction.*
 
 # EzyCashGifts-Receive Unlimited Cash Gifts Directly To Your Alertpay!
 
@@ -26,15 +26,15 @@
 
 |   |  | 
 
-**[Terms](https://web.archive.org/web/20101123215130id_/http%3A//ezycashgifts.com/terms.php?f=)**
+**[Terms](https://web.archive.org/web/20111228222300id_/http%3A//ezycashgifts.com/terms.php?f=)**
 
 | 
 
-**[Privacy](https://web.archive.org/web/20101123215130id_/http%3A//ezycashgifts.com/privacy.php?f=)**
+**[Privacy](https://web.archive.org/web/20111228222300id_/http%3A//ezycashgifts.com/privacy.php?f=)**
 
 | 
 
-**[Earning Disclaimer](https://web.archive.org/web/20101123215130id_/http%3A//ezycashgifts.com/earning.php?f=)**
+**[Earning Disclaimer](https://web.archive.org/web/20111228222300id_/http%3A//ezycashgifts.com/earning.php?f=)**
 
 |   
 ---|---|---|---|---|---  
