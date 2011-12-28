@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinyurl.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623201952id_/http%3A//tinyurl.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyurl.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228175711id_/http%3A//tinyurl.com/privacy.php) for the most accurate reproduction.*
 
 # TinyURL.com - shorten that long URL into a tiny URL
 
