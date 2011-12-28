@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedmaxpc.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512112210id_/http%3A//speedmaxpc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedmaxpc.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228012132id_/http%3A//speedmaxpc.com/privacy-policy) for the most accurate reproduction.*
 
 # SpeedMaxPc Privacy Policy » SpeedMaxPc
 
@@ -43,3 +43,6 @@ We may change this Privacy Policy at any time without notice to you in order to 
 
 **Acceptance of Terms**  
 By using the SpeedMaxPc.com services, and web site, or purchasing SpeedMaxPc products you are consenting to the practices relating to information collection and use that are described in this Privacy Policy.
+
+**Opting Out of Our Website, Services & Products**  
+You may opt out of SpeedMaxPc website and or products at anytime, click here to learn more about uninstalling our software >>> [How to Uninstall SpeedMaxPc Video](http://speedmaxpc.com/videos/uninstall-speedmaxpc/ "How to Uninstall SpeedMaxPc Software")
