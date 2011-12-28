@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivvo.net privacy policy that was archived on 2010-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100710081705id_/http%3A//www.vivvo.net/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivvo.net privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228210220id_/http%3A//www.vivvo.net/legal/privacy.php) for the most accurate reproduction.*
 
 # Vivvo CMS :: Privacy Policy
 
