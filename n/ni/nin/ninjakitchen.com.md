@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ninjakitchen.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107091734id_/http%3A//www.ninjakitchen.com/privacyPolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjakitchen.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228171131id_/http%3A//www.ninjakitchen.com/privacyPolicy.shtml) for the most accurate reproduction.*
 
-# Ninja Ninja - Kitchen appliances for the home - Welcome to ninjakitchen.com(test)
+# Ninja® Privacy Policy | Official Site
 
 Euro-Pro Operating LLC is committed to ensuring your privacy on the Internet by adhering to high standards of fairness and integrity. We are committed to keeping our customers informed about how we use the information we gather from you through the use of each of our websites located at, or linked to, the URLs [ www.sharkclean.com](http://www.sharkclean.com/) and [www.ninjakitchen.com](http://www.ninjakitchen.com/) Our Policy is developed from principles established by the Federal Trade Commission and Direct Marketing Association regarding information collected via the Internet.
 
