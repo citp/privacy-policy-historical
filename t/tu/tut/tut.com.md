@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tut.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630155545id_/http%3A//www.tut.com/other/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tut.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228062003id_/http%3A//www.tut.com/other/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # TUTs Adventurers Club: Explore the power of thought & creative visualization to manifest dreams!
 
