@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the powerbar.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507085310id_/http%3A//www.powerbar.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerbar.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228114022id_/http%3A//www.powerbar.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Effective Date: 10/25/2006  
-Last Updated On: 3/25/2011
+Last Updated On: 8/10/2011
 
 Thank you for visiting a Nestlé USA (“Nestlé USA,” “we,” or “our”) website. The following is a description of how we collect, store, and use the personal information you provide us through any of the websites operated by Nestlé USA, including the one you are currently visiting (“Nestlé USA Privacy Policy” or “Privacy Policy”). We have also voluntarily undertaken privacy certification with TRUSTe, which requires that we meet established online information collection and use practices.
 
@@ -42,7 +42,7 @@ This Privacy Policy does not apply to websites maintained by other companies or 
   1. our parent company, Nestlé SA (e.g., nestle.com); 
   2. our international affiliates (e.g., Nestlé Canada); 
   3. joint ventures such as Beverage Partners Worldwide (e.g., nestea.com); 
-  4. other U.S. subsidiaries of Nestlé SA such as Dreyer’s Ice Cream and Nestlé Waters North America (e.g., nestle-waters.com); 
+  4. other U.S. subsidiaries of Nestlé SA such as Nestlé Waters North America (e.g., nestle-waters.com); 
   5. unaffiliated online stores that sell Nestlé products and to which we link (e.g., mybrandsinc.com and rei.com); and, 
   6. Nestlé USA that are directed to businesses (e.g., vend-nesquik.com and nestleprofessional.com). 
 
