@@ -1,84 +1,50 @@
-> *The following text is extracted and transformed from the raiders.com.au privacy policy that was archived on 2007-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070304161350id_/http%3A//www.raiders.com.au/www/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raiders.com.au privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228124840id_/http%3A//www.raiders.com.au/default.aspx%3Fs%3Dprivacy-policy) for the most accurate reproduction.*
 
-# Raiders.com.au - Official Website of the Canberra Raiders
+# Privacy Policy - Canberra Raiders
 
-Raiders.com.au Privacy Policy 
+**Canberra Raiders Privacy Policy**
 
-**_INTRODUCTION_**
+The Raiders are committed to its supporters, suppliers and clients, and respects and protects the privacy of the personal information of individuals with whom it deals.
 
-We want our users to always be aware of any information we collect and how we use it. Website URL: http://www.raiders.com.au
+Whenever it is reasonable and practicable to do so, information is collected directly from you.
 
-**_INFORMATION COLLECTION AND USE_**
+We collect personal information about you which is reasonably necessary to:
 
-We respect each site visitor's right to personal privacy. To that end, we collect and use information throughout our website only as disclosed in this Privacy Policy. This statement applies solely to information collected on this website.
+a) provide you quality products or services;  
+b) provide you with information about games, events and promotions for the Raiders;  
+c) maintain your contact details.  
+We generally hold personal information relating to your contact details and ticketing arrangements.
 
-The information we collect on this website through online forms is never shared with other organizations for commercial purposes, unless otherwise stated on the same page as the form. In any case, you will have the choice of whether or not to disclose any information to a third party when submitting your details.
+ **How we use that information**
 
-We require information from the user on our online Crusade Newsletter subscription forms. A user must provide contact information (such as name and email). 
+We only use and disclose personal information about you for the purpose for which it was disclosed to us or related purposes which would reasonably be expected without your permission.
 
-We never sell or share our subscribers' email addresses, unless you, as a subscriber, elect us to do so.
+We may from time to time use your personal information to inform you about promotions, products and services which we expect may be of interest to you. However, we do respect your right to ask us not to do this.  
+We may disclose personal information to product and/or service providers who provide products/ services in connection with our products and services.
 
-We may operate online surveys, and we will never sell or share our subscribers' email addresses.
+ **Keeping information secure**
 
-Feedback submitted willfully by you, the website user, through our online feedback or fan mail forms may be posted publicly on the website or email newsletter at the administrator's discretion. By submitting information via the online feedback form you are agreeing to this condition.
+Access to and use of personal information within The Raiders is appropriately limited to prevent misuse or unlawful disclosure of the information. Where information collected is no longer required, we delete the information or permanently de-identify it.
 
-We also collect non-personal information such as your computers IP address through the use of site cookies, which are used solely for the running of our online polls and tipping competition. None of this information is disclosed and is always deleted from our records, usually within 24 hours. 
+ **How you can access your information**
 
-**_BEING REMOVED FROM OUR MAILING LIST_**
+You can contact us to request access to your information. In normal circumstances we will give you full access to your information. However, there may be some legal or administrative reasons to deny access. If access is denied, we will provide you with the reason why.
 
-To remove yourself from the Crusade Newsletter email list, click on the "Newsletter" banner featured throughout this website and follow the on-screen instructions. 
+ **Our Website**
 
-To be removed from all other mailouts, please contact the club at reception@raiders.com.au. 
+If you visit our website to browse, read or download information, our system will log these movements. These website logs are not personally identifiable and we do not link them with the individuals who browse the site, except where a website user has previously registered with the site and has logged in with their account details. Registered users (when logged in to the site) will additionally have usage information collected such as time and date of site access, documents downloaded and requests for password resetting that is matched to the account registration details provided by the user.
 
-**_ONLINE ORDERING SYSTEM_**
+ **Contact Us**
 
-The Raiders.com.au website links to an online ordering console, which is housed on a seperate server to the Raiders.com.au website. Full URL: www.emarket-secure.com/raiders/order/pc/default.asp
+If you have any questions regarding our privacy policy or handling of information, please contact us.  
+The Privacy Officer  
+Canberra Raiders  
+PO Box 3315  
+Belconnen Business Centre ACT 2617
 
-Visitors' Credit Card information captured on the website is transferred via a shared SSL certificate and is stored on the server in an encrypted format and can only be accessed by the Store Administrators. Credit Card numbers are completely purged from the datatbase on a weekly basis.
-
-Customer information is stored on the server and customers can access and modify their information through their designated account at any time. An account is created automatically by the system for every new customer that proceeds through the checkout.
-
-To retrieve any of your customer information please email reception@raiders.com.au.
-
-**_LINKED WEBSITES_**
-
-The Raiders.com.au website and its associated email publications may provide links to websites outside the domain of raiders.com.au. 
-
-We recognise both the Raiders.com.au website and our online newsletter as 'family-type' publications, and as such, we will not knowingly direct people to websites containing offensive or inappropriate material. 
-
-However, the Canberra Raiders do not have control of other websites that we may link to and do not assume any responsibility whatsoever for the content contained in those websites.
-
-**_CONFLICT RESOLUTION_**
-
-We are committed to resolving disputes in an open, friendly manner. If problems arise, users are encouraged to contact us by email: reception@raiders.com.au.
-
-**_WEBSITE ADMINISTRATION_**
-
-Business Name: E.Marketing Services Pty Ltd  
-Postal Address: PO Box 399, Erindale  
-City: Canberra  
-State: A.C.T  
-Post Code: 2903  
-Country: Australia
-
-**_TECHNICAL SUPPORT_**
-
-Details of website issues/errors should be forwarded to the Raiders.com.au webmaster at webmaster@emarketingservices.com.au, with as detailed a description of the problem as possible.
-
-**_VIEWING THIS WEBSITE_**
-
-Raiders.com.au has been built for the latest versions of the most widely-used browsers. We recommend using Internet Explorer 6.0+ or Firefox v2. To upgrade your browser for free, click on one of the links below.
-
-[Internet Explorer](http://www.microsoft.com/windows/ie/download/) | [Mozilla Firefox ](http://www.firefox.com/)
-
-This website features Flash animation. Most browsers have Flash installed automatically, but if needed you can [download the free Flash player from www.macromedia.com](http://www.macromedia.com/).
-
-Raiders.com.au also uses pop-up windows throughout the website. If you have pop-up blocking software installed, you will have to configure it to allow them to properly view this website.
-
-**_FEEDBACK_**
-
-Please send feedback via email to reception@raiders.com.au
-
-_**NOTIFICATION OF CHANGES**_
-
-If we decide to change our privacy policy, we will post those changes to this Privacy Statement.
+Street Address:  
+2 Eade St  
+Bruce ACT 2617  
+Telephone: 07 38589111  
+Fax: 02 6253 3515  
+Email: reception@raiders.com.au
