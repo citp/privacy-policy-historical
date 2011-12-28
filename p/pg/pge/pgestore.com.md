@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgestore.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616032908id_/http%3A//www.pgestore.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgestore.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228120139id_/http%3A//www.pgestore.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # eStore Retail Services | eStore Retail Services Privacy Policy
 
