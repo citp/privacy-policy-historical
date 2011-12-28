@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bitdefender.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519064704id_/http%3A//www.bitdefender.com/site/view/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitdefender.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228235119id_/http%3A//www.bitdefender.com/site/view/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-BITDEFENDER® is very cautious about how your information is collected when you surf our websites and enter information about yourself and how this information is used and shared with others. We appreciate your trust and it is very important to us. This notice describes our privacy policy. BY VISITING ANY OF OUR WEBSITES, YOU AGREE WITH THE PRACTICES DESCRIBED IN THIS PRIVACY STATEMENT. The information that you give us helps us personalize and continually improve your experience with us. 
+BITDEFENDER is very cautious about how your information is collected when you surf our websites and enter information about yourself and how this information is used and shared with others. We appreciate your trust and it is very important to us. This notice describes our privacy policy. BY VISITING ANY OF OUR WEBSITES, YOU AGREE WITH THE PRACTICES DESCRIBED IN THIS PRIVACY STATEMENT. The information that you give us helps us personalize and continually improve your experience with us. 
 
 We receive and store any information you enter on our Web site or give us in any other way for responding to your requests, improving our website, customizing future shopping and services for you, and to communicate with you for special offers, bonuses, sales, and related marketing information and activities. 
 
