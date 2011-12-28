@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the houzz.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507234934id_/http%3A//www.houzz.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houzz.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228045050id_/http%3A//www.houzz.com/privacyPolicy) for the most accurate reproduction.*
 
-# Houzz- Home Design, Decorating and Remodeling Ideas and Inspiration, Kitchen and Bathroom Design
+# Houzz - Home Design, Decorating and Remodeling Ideas and Inspiration, Kitchen and Bathroom Design
 
 ### PRIVACY POLICY
 
