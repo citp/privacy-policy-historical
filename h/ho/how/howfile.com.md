@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howfile.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524141110id_/http%3A//www.howfile.com/user/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howfile.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228081117id_/http%3A//www.howfile.com/user/privacy.html) for the most accurate reproduction.*
 
 # howfile.com - Free File Hosting and Sharing, Unlimit Download
 
