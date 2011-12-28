@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the soapboxmedia.com privacy policy that was archived on 2011-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110628150347id_/http%3A//www.soapboxmedia.com/about/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the soapboxmedia.com privacy policy that was archived on 2011-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228060853id_/http%3A//www.soapboxmedia.com/about/privacypolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><title>
 	Privacy Policy
 </title>
 <link rel="alternate" type="application/rss+xml" title="Subscribe to the Soapbox RSS feed!" href="http://feeds.feedburner.com/soapboxmedia">
@@ -9,6 +9,15 @@
 
 <link rel="shortcut icon" href="/images/favicon.ico">
 <link rel="icon" type="image/png" href="/images/favicon.png">
+
+<link rel="canonical" href="http://www.soapboxmedia.com/about/privacypolicy.aspx"> 
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://www.soapboxmedia.com/about/privacypolicy.aspx">
+<meta property="og:site_name" content="Soapbox"> 
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:author" content="Soapbox">
+
+<meta property="og:description" content="">
 
 <link rel="stylesheet" type="text/css" href="/css/reset.css?v=1">
 <link rel="stylesheet" type="text/css" href="/css/grid.css?v=1">
@@ -18,12 +27,13 @@
 <link rel="stylesheet" type="text/css" href="/css/jquery.lightbox-0.5.css?v=1" media="screen">
 
 <!-- <script type="text/javascript" src="/script/jquery-1.2.6.min.js" ></script> -->
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="/script/jquery.lightbox-0.5.min.js"></script>
 <script type="text/javascript" src="/script/jquery.cycle.all.min.js"></script>
 <script type="text/javascript" src="/script/jquery.media_gallery-1.0.1.min.js"></script>
 <script type="text/javascript" src="/script/swfobject.js"></script>
 <script type="text/javascript" src="/script/site.js?v=2"></script>
+<script type="text/javascript" src="http://platform.linkedin.com/in.js"></script>
 
 <!--[if lt IE 7]>
     <link rel="stylesheet" type="text/css" href="/css/ie.6.css?v=2" />
@@ -37,12 +47,13 @@
 
 <script type="text/javascript">
 $(function() {
-	$('.relatedContent a.lightbox').lightBox({
-	    imageLoading: '/images/lightbox-ico-loading.gif?v=1',
-	    imageBtnPrev: '/images/lightbox-btn-prev.gif?v=1',
-	    imageBtnNext: '/images/lightbox-btn-next.gif?v=1'
+    $('.relatedContent a.lightbox').lightBox({
+        imageLoading: '/images/lightbox-ico-loading.gif?v=1',
+        imageBtnPrev: '/images/lightbox-btn-prev.gif?v=1',
+        imageBtnNext: '/images/lightbox-btn-next.gif?v=1',
+        imageBtnClose: '/images/lightbox-btn-close.gif?v=1'
        }
-	);
+    );
 });
 
 var google_domain = 'www.soapboxmedia.com';
@@ -52,13 +63,79 @@ var google_cof = 'FORID:11';
 </script>
 
 
-<meta property="fb:admins" content="1054316675,674682725,1421961403"> <!--  --> 
+<meta property="fb:admins" content="1054316675,674682725,1421961403">
+
+<meta property="fb:app_id" content="220010661387899">
+
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-1219467-6']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
 
 </head>
 <body class="Basic">
+
+<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+<script type="text/javascript">
+    var facebookLoginStatus = null;
+    window.fbAsyncInit = function () {
+        FB.init({
+        
+                    appId: '220010661387899',
+        
+            status: true, // check login status
+            cookie: true, // enable cookies to allow the server to access the session
+            xfbml: true  // parse XFBML
+        });
+
+        FB.getLoginStatus(function(r) {
+            facebookLoginStatus = r.session;
+        });
+    };
+
+    (function () {
+        var e = document.createElement('script');
+        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+        e.async = true;
+        document.getElementById('fb-root').appendChild(e);
+    } ());
+
+    $(function () {
+        if (window.FB) {
+            FB.Event.subscribe('comment.create', function (response) {
+                _gaq.push(['_trackSocial', 'facebook', 'comment', response.href]);
+            });
+
+            FB.Event.subscribe('comment.remove', function (response) {
+                _gaq.push(['_trackSocial', 'facebook', 'uncomment', response.href]);
+            });
+        }
+        else {
+            var funcOriginal = window.fbAsyncInit;
+            window.fbAsyncInit = function () {
+                funcOriginal();
+                FB.Event.subscribe('comment.create', function (response) {
+                    _gaq.push(['_trackSocial', 'facebook', 'comment', response.href]);
+                });
+
+                FB.Event.subscribe('comment.remove', function (response) {
+                    _gaq.push(['_trackSocial', 'facebook', 'uncomment', response.href]);
+                });
+            }
+        }
+    });
+</script>
     <form name="aspnetForm" method="post" action="privacypolicy.aspx" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJLTcxNjYxOTg4D2QWAmYPZBYCAgEPZBYIAgEPZBYCZg8WAh4HVmlzaWJsZWgWCGYPFgIfAGhkAgEPFgIfAGhkAgIPFgIfAGdkAgMPFgIfAGhkAgMPZBYEZg9kFgQCAQ8WAh4LXyFJdGVtQ291bnQCEBYgAgEPZBYCZg8VAhkvZm9jdXNhcmVhcy9hcmNodGN0ci5hc3B4DEFyY2hpdGVjdHVyZWQCAg9kFgJmDxUCHy9mb2N1c2FyZWFzL2FydHNhbmRjdWx0dXJlLmFzcHgOQXJ0cyArIEN1bHR1cmVkAgMPZBYCZg8VAhkvZm9jdXNhcmVhcy9hZHZicmFuZC5hc3B4EUJyYW5kaW5nICsgRGVzaWduZAIED2QWAmYPFQIdL2ZvY3VzYXJlYXMvY2l0eWJ1aWxkaW5nLmFzcHgNQ2l0eSBCdWlsZGluZ2QCBQ9kFgJmDxUCIi9mb2N1c2FyZWFzL2NvbnN1bWVybWFya2V0aW5nLmFzcHgSQ29uc3VtZXIgTWFya2V0aW5nZAIGD2QWAmYPFQIaL2ZvY3VzYXJlYXMvZGl2ZXJzaXR5LmFzcHgJRGl2ZXJzaXR5ZAIHD2QWAmYPFQIbL2ZvY3VzYXJlYXMvZWRsZWFybmluZy5hc3B4FEVkdWNhdGlvbiArIExlYXJuaW5nZAIID2QWAmYPFQIbL2ZvY3VzYXJlYXMvZW50cmVwZW51ci5hc3B4EEVudHJlcHJlbmV1cnNoaXBkAgkPZBYCZg8VAh8vZm9jdXNhcmVhcy9oZWFsdGh3ZWxsbmVzcy5hc3B4EUhlYWx0aCArIFdlbGxuZXNzZAIKD2QWAmYPFQIaL2ZvY3VzYXJlYXMvbHNtZWRpbm5vLmFzcHgNTGlmZSBTY2llbmNlc2QCCw9kFgJmDxUCHC9mb2N1c2FyZWFzL21vdmV0b2NpbmNpLmFzcHgSTW92ZSB0byBDaW5jaW5uYXRpZAIMD2QWAmYPFQIbL2ZvY3VzYXJlYXMvcGFya3NncmVlbi5hc3B4ElBhcmtzICsgR3JlZW5zcGFjZWQCDQ9kFgJmDxUCGS9mb2N1c2FyZWFzL3JlZ2lvbmFsLmFzcHgTUmVnaW9uYWwgSW5kaWNhdG9yc2QCDg9kFgJmDxUCIy9mb2N1c2FyZWFzL3Jlc2VhcmNoaW5ub3ZhdGlvbi5hc3B4FVJlc2VhcmNoICsgSW5ub3ZhdGlvbmQCDw9kFgJmDxUCHC9mb2N1c2FyZWFzL3N1c3RhaW5idGx5LmFzcHgOU3VzdGFpbmFiaWxpdHlkAhAPZBYCZg8VAh8vZm9jdXNhcmVhcy90cmFuc3BvcnRhdGlvbi5hc3B4DlRyYW5zcG9ydGF0aW9uZAIDDxYCHwECIhZEAgEPZBYCZg8VAh0vY2l0aWVzL2F2b25kYWxlL2RlZmF1bHQuYXNweAhBdm9uZGFsZWQCAg9kFgJmDxUCHS9jaXRpZXMvYmVsbGV2dWUvZGVmYXVsdC5hc3B4CEJlbGxldnVlZAIDD2QWAmYPFQIfL2NpdGllcy9icmlkZ2V0b3duL2RlZmF1bHQuYXNweApCcmlkZ2V0b3duZAIED2QWAmYPFQIcL2NpdGllcy9jbGlmdG9uL2RlZmF1bHQuYXNweAdDbGlmdG9uZAIFD2QWAmYPFQIgL2NpdGllcy9jb2xsZWdlaGlsbC9kZWZhdWx0LmFzcHgMQ29sbGVnZSBIaWxsZAIGD2QWAmYPFQIgL2NpdGllcy9Db2x1bWJpYVR1cy9kZWZhdWx0LmFzcHgRQ29sdW1iaWEgVHVzY3VsdW1kAgcPZBYCZg8VAh8vY2l0aWVzL2NvcnJ5dmlsbGUvZGVmYXVsdC5hc3B4CkNvcnJ5dmlsbGVkAggPZBYCZg8VAh4vY2l0aWVzL2NvdmluZ3Rvbi9kZWZhdWx0LmFzcHgJQ292aW5ndG9uZAIJD2QWAmYPFQIbL2NpdGllcy9kYXl0b24vZGVmYXVsdC5hc3B4BkRheXRvbmQCCg9kFgJmDxUCGC9jaXRpZXMvQ0JEL2RlZmF1bHQuYXNweAhEb3dudG93bmQCCw9kFgJmDxUCHS9jaXRpZXMvZnR0aG9tYXMvZGVmYXVsdC5hc3B4CkZ0LiBUaG9tYXNkAgwPZBYCZg8VAhwvY2l0aWVzL2h5ZGVwcmsvZGVmYXVsdC5hc3B4CUh5ZGUgUGFya2QCDQ9kFgJmDxUCGy9jaXRpZXMvbHVkbG93L2RlZmF1bHQuYXNweAZMdWRsb3dkAg4PZBYCZg8VAiEvY2l0aWVzL21hZGlzb252aWxsZS9kZWZhdWx0LmFzcHgMTWFkaXNvbnZpbGxlZAIPD2QWAmYPFQIeL2NpdGllcy9NYXJpZW1vbnQvZGVmYXVsdC5hc3B4CU1hcmllbW9udGQCEA9kFgJmDxUCHC9jaXRpZXMvbXRhZGFtcy9kZWZhdWx0LmFzcHgJTXQuIEFkYW1zZAIRD2QWAmYPFQIrL2NpdGllcy9tdF9hdWJ1cm5fcHJvc3BlY3RoaWxsL2RlZmF1bHQuYXNweBpNdC4gQXVidXJuIC8gUHJvc3BlY3QgSGlsbGQCEg9kFgJmDxUCHi9jaXRpZXMvbXRsb29rb3V0L2RlZmF1bHQuYXNweAtNdC4gTG9va291dGQCEw9kFgJmDxUCIS9jaXRpZXMvbXR3YXNoaW5ndG9uL2RlZmF1bHQuYXNweA5NdC4gV2FzaGluZ3RvbmQCFA9kFgJmDxUCHC9jaXRpZXMvbmV3cG9ydC9kZWZhdWx0LmFzcHgHTmV3cG9ydGQCFQ9kFgJmDxUCIi9jaXRpZXMvbm9ydGhhdm9uZGFsZS9kZWZhdWx0LmFzcHgOTm9ydGggQXZvbmRhbGVkAhYPZBYCZg8VAiUvY2l0aWVzL25vcnRoY29sbGVnZWhpbGwvZGVmYXVsdC5hc3B4Ek5vcnRoIENvbGxlZ2UgSGlsbGQCFw9kFgJmDxUCJS9jaXRpZXMvbm9ydGhlcm5rZW50dWNreS9kZWZhdWx0LmFzcHgRTm9ydGhlcm4gS2VudHVja3lkAhgPZBYCZg8VAh4vY2l0aWVzL05vcnRoc2lkZS9kZWZhdWx0LmFzcHgJTm9ydGhzaWRlZAIZD2QWAmYPFQIcL2NpdGllcy9ub3J3b29kL2RlZmF1bHQuYXNweAdOb3J3b29kZAIaD2QWAmYPFQIbL2NpdGllcy9PYWtsZXkvZGVmYXVsdC5hc3B4Bk9ha2xleWQCGw9kFgJmDxUCGC9jaXRpZXMvT1RSL2RlZmF1bHQuYXNweA5PdmVyLXRoZS1SaGluZWQCHA9kFgJmDxUCIC9jaXRpZXMvcGxlYXNhbnRyZGcvZGVmYXVsdC5hc3B4IFBsZWFzYW50IFJpZGdlIC8gS2VubmVkeSBIZWlnaHRzZAIdD2QWAmYPFQInL2NpdGllcy9wcmljZWhpbGxfY292ZWRhbGUvZGVmYXVsdC5hc3B4FVByaWNlIEhpbGwgLyBDb3ZlZGFsZWQCHg9kFgJmDxUCGy9jaXRpZXMvVXB0b3duL2RlZmF1bHQuYXNweAZVcHRvd25kAh8PZBYCZg8VAiAvY2l0aWVzL09CcnlvbnZpbGxlL2RlZmF1bHQuYXNweC9XYWxudXQgSGlsbHMgLyBFYXN0IFdhbG51dCBIaWxscyAvIE8nQnJ5b252aWxsZWQCIA9kFgJmDxUCJS9jaXRpZXMvd2VzdGVuZF9icmlnaHRvbi9kZWZhdWx0LmFzcHgTV2VzdCBFbmQgLyBCcmlnaHRvbmQCIQ9kFgJmDxUCHS9jaXRpZXMvd2VzdHdvb2QvZGVmYXVsdC5hc3B4CFdlc3R3b29kZAIiD2QWAmYPFQIcL2NpdGllcy93eW9taW5nL2RlZmF1bHQuYXNweAdXeW9taW5nZAIBDw8WAh8AaGRkAgUPZBYMZg9kFgICAQ9kFgYCAQ8PFgIeD1ZhbGlkYXRpb25Hcm91cAUfY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRjdGwwMGRkAgIPDxYCHwIFH2N0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkY3RsMDBkZAIDDw8WAh8CBR9jdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGN0bDAwZGQCAQ8PFgIfAGhkZAICDw8WAh8AaGRkAgMPDxYCHwBoZGQCBA8PFgIfAGhkZAIFDw8WAh8AaGRkAgcPZBYCAgwPFgIfAQIHFg5mD2QWAmYPFQIVL2Fib3V0L2NvbnRhY3R1cy5hc3B4CkNvbnRhY3QgVXNkAgIPZBYCZg8VAhkvYWJvdXQvcHJpdmFjeXBvbGljeS5hc3B4DlByaXZhY3kgUG9saWN5ZAIED2QWAmYPFQIWL2Fib3V0L3Rlcm1zb2Z1c2UuYXNweAxUZXJtcyBvZiBVc2VkAgYPZBYCZg8VAhEvYWJvdXQvbGlua3MuYXNweA1Tb2FwYm94IExpbmtzZAIID2QWAmYPFQIQL2Fib3V0L3RpcHMuYXNweAtIYXZlIGEgdGlwP2QCCg9kFgJmDxUCES9hYm91dC9hYm91dC5hc3B4DUFib3V0IFNvYXBib3hkAgwPZBYCZg8VAg8vYWJvdXQvcnNzLmFzcHgJUlNTIExpbmtzZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUsY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRjdGwwMCRCdXR0b25TdWJtaXSJ+T6icl4bD7hL37aMbSw3zB9Pcg==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJLTcxNjYxOTg4D2QWAmYPZBYCAgIPZBYIAgEPZBYCZg8WAh4HVmlzaWJsZWgWCGYPFgIfAGhkAgEPFgIfAGhkAgIPFgIfAGdkAgMPFgIfAGhkAgMPZBYEZg9kFgQCAQ8WAh4LXyFJdGVtQ291bnQCEBYgAgEPZBYCZg8VAhkvZm9jdXNhcmVhcy9hcmNodGN0ci5hc3B4DEFyY2hpdGVjdHVyZWQCAg9kFgJmDxUCHy9mb2N1c2FyZWFzL2FydHNhbmRjdWx0dXJlLmFzcHgOQXJ0cyArIEN1bHR1cmVkAgMPZBYCZg8VAhkvZm9jdXNhcmVhcy9hZHZicmFuZC5hc3B4EUJyYW5kaW5nICsgRGVzaWduZAIED2QWAmYPFQIdL2ZvY3VzYXJlYXMvY2l0eWJ1aWxkaW5nLmFzcHgNQ2l0eSBCdWlsZGluZ2QCBQ9kFgJmDxUCIi9mb2N1c2FyZWFzL2NvbnN1bWVybWFya2V0aW5nLmFzcHgSQ29uc3VtZXIgTWFya2V0aW5nZAIGD2QWAmYPFQIaL2ZvY3VzYXJlYXMvZGl2ZXJzaXR5LmFzcHgJRGl2ZXJzaXR5ZAIHD2QWAmYPFQIbL2ZvY3VzYXJlYXMvZWRsZWFybmluZy5hc3B4FEVkdWNhdGlvbiArIExlYXJuaW5nZAIID2QWAmYPFQIbL2ZvY3VzYXJlYXMvZW50cmVwZW51ci5hc3B4EEVudHJlcHJlbmV1cnNoaXBkAgkPZBYCZg8VAh8vZm9jdXNhcmVhcy9oZWFsdGh3ZWxsbmVzcy5hc3B4EUhlYWx0aCArIFdlbGxuZXNzZAIKD2QWAmYPFQIaL2ZvY3VzYXJlYXMvbHNtZWRpbm5vLmFzcHgNTGlmZSBTY2llbmNlc2QCCw9kFgJmDxUCHC9mb2N1c2FyZWFzL21vdmV0b2NpbmNpLmFzcHgSTW92ZSB0byBDaW5jaW5uYXRpZAIMD2QWAmYPFQIbL2ZvY3VzYXJlYXMvcGFya3NncmVlbi5hc3B4ElBhcmtzICsgR3JlZW5zcGFjZWQCDQ9kFgJmDxUCGS9mb2N1c2FyZWFzL3JlZ2lvbmFsLmFzcHgTUmVnaW9uYWwgSW5kaWNhdG9yc2QCDg9kFgJmDxUCIy9mb2N1c2FyZWFzL3Jlc2VhcmNoaW5ub3ZhdGlvbi5hc3B4FVJlc2VhcmNoICsgSW5ub3ZhdGlvbmQCDw9kFgJmDxUCHC9mb2N1c2FyZWFzL3N1c3RhaW5idGx5LmFzcHgOU3VzdGFpbmFiaWxpdHlkAhAPZBYCZg8VAh8vZm9jdXNhcmVhcy90cmFuc3BvcnRhdGlvbi5hc3B4DlRyYW5zcG9ydGF0aW9uZAIDDxYCHwECIhZEAgEPZBYCZg8VAh0vY2l0aWVzL2F2b25kYWxlL2RlZmF1bHQuYXNweAhBdm9uZGFsZWQCAg9kFgJmDxUCHS9jaXRpZXMvYmVsbGV2dWUvZGVmYXVsdC5hc3B4CEJlbGxldnVlZAIDD2QWAmYPFQIfL2NpdGllcy9icmlkZ2V0b3duL2RlZmF1bHQuYXNweApCcmlkZ2V0b3duZAIED2QWAmYPFQIcL2NpdGllcy9jbGlmdG9uL2RlZmF1bHQuYXNweAdDbGlmdG9uZAIFD2QWAmYPFQIgL2NpdGllcy9jb2xsZWdlaGlsbC9kZWZhdWx0LmFzcHgMQ29sbGVnZSBIaWxsZAIGD2QWAmYPFQIgL2NpdGllcy9Db2x1bWJpYVR1cy9kZWZhdWx0LmFzcHgRQ29sdW1iaWEgVHVzY3VsdW1kAgcPZBYCZg8VAh8vY2l0aWVzL2NvcnJ5dmlsbGUvZGVmYXVsdC5hc3B4CkNvcnJ5dmlsbGVkAggPZBYCZg8VAh4vY2l0aWVzL2NvdmluZ3Rvbi9kZWZhdWx0LmFzcHgJQ292aW5ndG9uZAIJD2QWAmYPFQIbL2NpdGllcy9kYXl0b24vZGVmYXVsdC5hc3B4BkRheXRvbmQCCg9kFgJmDxUCGC9jaXRpZXMvQ0JEL2RlZmF1bHQuYXNweAhEb3dudG93bmQCCw9kFgJmDxUCHS9jaXRpZXMvZnR0aG9tYXMvZGVmYXVsdC5hc3B4CkZ0LiBUaG9tYXNkAgwPZBYCZg8VAhwvY2l0aWVzL2h5ZGVwcmsvZGVmYXVsdC5hc3B4CUh5ZGUgUGFya2QCDQ9kFgJmDxUCGy9jaXRpZXMvbHVkbG93L2RlZmF1bHQuYXNweAZMdWRsb3dkAg4PZBYCZg8VAiEvY2l0aWVzL21hZGlzb252aWxsZS9kZWZhdWx0LmFzcHgMTWFkaXNvbnZpbGxlZAIPD2QWAmYPFQIeL2NpdGllcy9NYXJpZW1vbnQvZGVmYXVsdC5hc3B4CU1hcmllbW9udGQCEA9kFgJmDxUCHC9jaXRpZXMvbXRhZGFtcy9kZWZhdWx0LmFzcHgJTXQuIEFkYW1zZAIRD2QWAmYPFQIrL2NpdGllcy9tdF9hdWJ1cm5fcHJvc3BlY3RoaWxsL2RlZmF1bHQuYXNweBpNdC4gQXVidXJuIC8gUHJvc3BlY3QgSGlsbGQCEg9kFgJmDxUCHi9jaXRpZXMvbXRsb29rb3V0L2RlZmF1bHQuYXNweAtNdC4gTG9va291dGQCEw9kFgJmDxUCIS9jaXRpZXMvbXR3YXNoaW5ndG9uL2RlZmF1bHQuYXNweA5NdC4gV2FzaGluZ3RvbmQCFA9kFgJmDxUCHC9jaXRpZXMvbmV3cG9ydC9kZWZhdWx0LmFzcHgHTmV3cG9ydGQCFQ9kFgJmDxUCIi9jaXRpZXMvbm9ydGhhdm9uZGFsZS9kZWZhdWx0LmFzcHgOTm9ydGggQXZvbmRhbGVkAhYPZBYCZg8VAiUvY2l0aWVzL25vcnRoY29sbGVnZWhpbGwvZGVmYXVsdC5hc3B4Ek5vcnRoIENvbGxlZ2UgSGlsbGQCFw9kFgJmDxUCJS9jaXRpZXMvbm9ydGhlcm5rZW50dWNreS9kZWZhdWx0LmFzcHgRTm9ydGhlcm4gS2VudHVja3lkAhgPZBYCZg8VAh4vY2l0aWVzL05vcnRoc2lkZS9kZWZhdWx0LmFzcHgJTm9ydGhzaWRlZAIZD2QWAmYPFQIcL2NpdGllcy9ub3J3b29kL2RlZmF1bHQuYXNweAdOb3J3b29kZAIaD2QWAmYPFQIbL2NpdGllcy9PYWtsZXkvZGVmYXVsdC5hc3B4Bk9ha2xleWQCGw9kFgJmDxUCGC9jaXRpZXMvT1RSL2RlZmF1bHQuYXNweA5PdmVyLXRoZS1SaGluZWQCHA9kFgJmDxUCIC9jaXRpZXMvcGxlYXNhbnRyZGcvZGVmYXVsdC5hc3B4IFBsZWFzYW50IFJpZGdlIC8gS2VubmVkeSBIZWlnaHRzZAIdD2QWAmYPFQInL2NpdGllcy9wcmljZWhpbGxfY292ZWRhbGUvZGVmYXVsdC5hc3B4FVByaWNlIEhpbGwgLyBDb3ZlZGFsZWQCHg9kFgJmDxUCGy9jaXRpZXMvVXB0b3duL2RlZmF1bHQuYXNweAZVcHRvd25kAh8PZBYCZg8VAiAvY2l0aWVzL09CcnlvbnZpbGxlL2RlZmF1bHQuYXNweC9XYWxudXQgSGlsbHMgLyBFYXN0IFdhbG51dCBIaWxscyAvIE8nQnJ5b252aWxsZWQCIA9kFgJmDxUCJS9jaXRpZXMvd2VzdGVuZF9icmlnaHRvbi9kZWZhdWx0LmFzcHgTV2VzdCBFbmQgLyBCcmlnaHRvbmQCIQ9kFgJmDxUCHS9jaXRpZXMvd2VzdHdvb2QvZGVmYXVsdC5hc3B4CFdlc3R3b29kZAIiD2QWAmYPFQIcL2NpdGllcy93eW9taW5nL2RlZmF1bHQuYXNweAdXeW9taW5nZAIBDw8WAh8AaGRkAgUPZBYMZg9kFgICAQ9kFgYCAQ8PFgIeD1ZhbGlkYXRpb25Hcm91cAUfY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRjdGwwMGRkAgIPDxYCHwIFH2N0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkY3RsMDBkZAIDDw8WAh8CBR9jdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGN0bDAwZGQCAQ8PFgIfAGhkZAICDw8WAh8AaGRkAgMPDxYCHwBoZGQCBA8PFgIfAGhkZAIFDw8WAh8AaGRkAgcPZBYCAgwPFgIfAQIHFg5mD2QWAmYPFQIVL2Fib3V0L2NvbnRhY3R1cy5hc3B4CkNvbnRhY3QgVXNkAgIPZBYCZg8VAhkvYWJvdXQvcHJpdmFjeXBvbGljeS5hc3B4DlByaXZhY3kgUG9saWN5ZAIED2QWAmYPFQIWL2Fib3V0L3Rlcm1zb2Z1c2UuYXNweAxUZXJtcyBvZiBVc2VkAgYPZBYCZg8VAhEvYWJvdXQvbGlua3MuYXNweA1Tb2FwYm94IExpbmtzZAIID2QWAmYPFQIQL2Fib3V0L3RpcHMuYXNweAtIYXZlIGEgdGlwP2QCCg9kFgJmDxUCES9hYm91dC9hYm91dC5hc3B4DUFib3V0IFNvYXBib3hkAgwPZBYCZg8VAg8vYWJvdXQvcnNzLmFzcHgJUlNTIExpbmtzZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUsY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRjdGwwMCRCdXR0b25TdWJtaXR08japvQHCbcRzFDsqF4ZXBhMWAw==">
 </div>
 
     
@@ -129,6 +206,8 @@ var google_cof = 'FORID:11';
                 <li><a href="/innovationnews/">Innovation &amp; Job News</a></li>
                 <li><a href="/forgood/">For Good</a></li>
                 <li><a href="/inthenews/">Buzz</a></li>
+                <li><a href="/startupnews/">Startup News</a></li>
+                
                 
             </ul>            
         </li>
@@ -263,20 +342,16 @@ var google_cof = 'FORID:11';
     
 <div class="section-container mastheadSection">
     <div class="masthead" id="mastheadImage">
-        <img src="/images/V4-Mastheads/Issue_166/covington-arts.jpg" alt="Sherri Bessos balloon project at the Artisan Center in Covington / Scott Beseler" width="980">
+        <img src="/images/V4-Mastheads/Issue_188/Polaropposites-980.jpg" alt="Polar opposites / scott beseler" width="980">
     </div>
 
     <div class="photoCredit">
-        Sherri Bessos balloon project at the Artisan Center in Covington / Scott Beseler <span>|</span> <a href="javascript:void(0);" onclick="ToggleMasthead();" id="toggleText">Show Photo</a>
+        Polar opposites / scott beseler <span>|</span> <a href="javascript:void(0);" onclick="ToggleMasthead();" id="toggleText">Show Photo</a>
     </div>
 
     <div class="clear"></div>
 
 	
-    <div class="bannerad-container" id="mastheadAd">
-        <div></div>
-	</div>
-    
     
 </div>
 
@@ -321,6 +396,179 @@ free movement of such data.</font> </p>
             
 
 <div>
+
+<div class="toolBar">
+    <div class="toolBarTitle">
+        Share this page
+    </div>
+    <div class="toolBarLike">
+        <fb:like href="http://www.soapboxmedia.com/about/privacypolicy.aspx" send="false" show_faces="false" layout="standard" width="280" font=""></fb:like>
+    </div>
+    <div class="toolBarApps">
+
+        <script type="text/javascript">
+            $(function () {
+                var funcSetCount = function () {
+                    window.FB.api({ method: 'links.getStats', urls: 'http://www.soapboxmedia.com/about/privacypolicy.aspx' },
+                          function (r) {
+                              $('#facebookCount').text(r[0].share_count);
+                          });
+                      }
+
+                if (window.FB) {
+                    funcSetCount();
+                    FB.Event.subscribe('edge.create', function (targetUrl) {
+                        _gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);
+                    });
+                    FB.Event.subscribe('edge.remove', function (targetUrl) {
+                        _gaq.push(['_trackSocial', 'facebook', 'unlike', targetUrl]);
+                    });
+                }
+                else {
+                    var funcOriginal = window.fbAsyncInit;
+                    window.fbAsyncInit = function () {
+                        funcOriginal();
+                        funcSetCount();
+                        FB.Event.subscribe('edge.create', function (targetUrl) {
+                            _gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);
+                        });
+                        FB.Event.subscribe('edge.remove', function (targetUrl) {
+                            _gaq.push(['_trackSocial', 'facebook', 'unlike', targetUrl]);
+                        });
+                    }
+                }
+            });
+
+            $(function () {
+                $('#facebookButton a').click(function (e) {
+                    e.preventDefault();
+                    var a = $(this);
+                    if (facebookLoginStatus) {
+                        var height = 400, width = 600;
+                        if ($.browser.msie) {//hacked together for IE browsers
+                            centeredY = (window.screenTop - 120) + ((((document.documentElement.clientHeight + 120) / 2) - (height / 2)));
+                            centeredX = window.screenLeft + ((((document.body.offsetWidth + 20) / 2) - (width / 2)));
+                        } else {
+                            centeredY = window.screenY + (((window.outerHeight / 2) - (height / 2)));
+                            centeredX = window.screenX + (((window.outerWidth / 2) - (width / 2)));
+                        }
+                        window.open(a.attr('href'), a.attr('target'), 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=600,height=400,left=' + centeredX + ',top=' + centeredY, true).focus();
+                    }
+                    else {
+                        FB.login(function (r) {
+                            facebookLoginStatus = r.session;
+                        });
+                    }
+                });
+            });
+        </script>
+
+        <div id="facebookButton" class="toolBarItem toolBarItemFacebook">
+            <div class="toolBarBalloon">
+                <div class="toolBarBalloonText">
+                    <span id="facebookCount"></span>
+                </div>
+            </div>
+            <a rel="nofollow" href="http://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.soapboxmedia.com%2fabout%2fprivacypolicy.aspx&amp;t=Privacy+Policy&quot;" target="Share" onclick="_gaq.push(['_trackSocial', 'facebook', 'send', 'http://www.soapboxmedia.com/about/privacypolicy.aspx']);" class="toolbar-button facebook"><i></i><span>Share</span></a>
+        </div>
+        
+        <script type="text/javascript">
+
+            function SetTwitterCount(r) {
+                $(function () {
+                    $('#twitterCount').text(r.count);
+                });
+            }
+
+            $(function () {
+
+                function extractParamFromUri(uri, paramName) {
+                    if (!uri) {
+                        return;
+                    }
+                    var uri = uri.split('#')[0];  // Remove anchor.
+                    var parts = uri.split('?');  // Check for query params.
+                    if (parts.length == 1) {
+                        return;
+                    }
+                    var query = decodeURI(parts[1]);
+
+                    // Find url param.
+                    paramName += '=';
+                    var params = query.split('&');
+                    for (var i = 0, param; param = params[i]; ++i) {
+                        if (param.indexOf(paramName) === 0) {
+                            return unescape(param.split('=')[1]);
+                        }
+                    }
+                }
+
+                twttr.events.bind('tweet', function (event) {
+                    if (event) {
+                        var targetUrl;
+                        if (event.target && event.target.nodeName == 'IFRAME') {
+                            targetUrl = extractParamFromUri(event.target.src, 'url');
+                        }
+                        _gaq.push(['_trackSocial', 'twitter', 'tweet', targetUrl]);
+                    }
+                });
+            });
+
+
+        </script>
+        
+        <div class="toolBarItem toolBarItemTwitter">
+            <div class="toolBarBalloon">
+                <div class="toolBarBalloonText">
+                    <span id="twitterCount"></span>
+                </div>
+            </div>
+            <a href="http://www.soapboxmedia.com/about/privacypolicy.aspx" rel="nofollow" class="twitter-share-button" data-count="none" data-url="http://www.soapboxmedia.com/about/privacypolicy.aspx">Tweet</a>
+            <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+            <script type="text/javascript" src="http://urls.api.twitter.com/1/urls/count.json?callback=SetTwitterCount&amp;url=http://www.soapboxmedia.com/about/privacypolicy.aspx"></script>
+        </div>
+
+        <script type="text/javascript">
+            $(function () {
+                $('.IN-widget').click(function () {
+                    _gaq.push(['_trackSocial', 'linkedin', 'share', 'http://www.soapboxmedia.com/about/privacypolicy.aspx']);
+                })
+            });
+        </script>
+        <div class="toolBarItem toolBarItemLinkedIn">
+            <script type="IN/Share" data-url="http://www.soapboxmedia.com/about/privacypolicy.aspx" data-success="LinkedInShareSuccess"></script>
+        </div>
+
+        <!-- Place this tag in your head or just before your close body tag -->
+        <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+        <!-- Place this tag where you want the +1 button to render -->
+        <div class="toolBarItem toolBarItemPlusOne">
+            <g:plusone size="medium" annotation="none" href="http://www.soapboxmedia.com/about/privacypolicy.aspx"></g:plusone>
+        </div>
+
+        <div class="toolBarItem toolBarItemEmail">
+            <div class="toolBarBalloon">
+                <div class="toolBarBalloonText">
+                    <span>0</span>
+                </div>
+            </div>
+            <a rel="nofollow" href="mailto:?Subject=&amp;Body=http://www.soapboxmedia.com/about/privacypolicy.aspx" onclick="_gaq.push(['_trackSocial', 'email', 'send', 'http://www.soapboxmedia.com/about/privacypolicy.aspx']);" class="toolbar-button"><span>Email</span></a>
+        </div>
+
+        <div class="toolBarItem toolBarItemPrint">
+            <div class="toolBarBalloon" style="visibility:hidden;">
+                <div class="toolBarBalloonText">
+                    <span>0</span>
+                </div>
+            </div>
+            <a rel="nofollow" href="javascript:window.print();" class="toolbar-button"><span>Print</span></a>
+        </div>
+
+        
+        <div class="clear"></div>
+    </div>
+</div>
+
 <div id="ctl00_ContentPlaceHolder1_ctl00_SubscribePanel" class="subscribe">
 	
 
@@ -333,11 +581,6 @@ free movement of such data.</font> </p>
 
 </div>
 
-
-<div class="toolBar">
-    <a href="javascript:window.print();">Print Page</a> | <a href="mailto:?Subject=An+Article+from+Soapbox&amp;Body=http://www.soapboxmedia.com/about/privacypolicy.aspx">Email Page</a> | 
-    <script type="text/javascript" src="http://w.sharethis.com/widget/?tabs=web%2Cpost%2Cemail&amp;charset=utf-8&amp;style=default&amp;publisher=fe639bc2-bbe9-4a8f-a38c-91b5aaa51174&amp;linkfg=%23318df2"></script>
-</div>
 </div>
             <div class="towerad-container">
                 
@@ -378,7 +621,7 @@ free movement of such data.</font> </p>
         }
     }
     // --> 
-    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=232&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403214972"></script>
+    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=232&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403221011"></script>
     <noscript>
 	    <a href="http://ds.issuemediagroup.com/a.aspx?ZoneID=232&Task=Click&Mode=HTML&SiteID=5&PageID=10032" target="_blank"><img src="http://ds.issuemediagroup.com/a.aspxZoneID=232&Task=Get&Mode=HTML&SiteID=5&PageID=10032" border="0"  alt="" ></a>
     </noscript>
@@ -407,7 +650,7 @@ free movement of such data.</font> </p>
         }
     }
     // --> 
-    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=233&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403214973"></script>
+    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=233&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403221013"></script>
     <noscript>
 	    <a href="http://ds.issuemediagroup.com/a.aspx?ZoneID=233&Task=Click&Mode=HTML&SiteID=5&PageID=10032" target="_blank"><img src="http://ds.issuemediagroup.com/a.aspxZoneID=233&Task=Get&Mode=HTML&SiteID=5&PageID=10032" border="0"  alt="" ></a>
     </noscript>
@@ -436,7 +679,7 @@ free movement of such data.</font> </p>
         }
     }
     // --> 
-    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=235&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403214974"></script>
+    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=235&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403221013"></script>
     <noscript>
 	    <a href="http://ds.issuemediagroup.com/a.aspx?ZoneID=235&Task=Click&Mode=HTML&SiteID=5&PageID=10032" target="_blank"><img src="http://ds.issuemediagroup.com/a.aspxZoneID=235&Task=Get&Mode=HTML&SiteID=5&PageID=10032" border="0"  alt="" ></a>
     </noscript>
@@ -465,7 +708,7 @@ free movement of such data.</font> </p>
         }
     }
     // --> 
-    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=236&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403214975"></script>
+    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=236&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403221018"></script>
     <noscript>
 	    <a href="http://ds.issuemediagroup.com/a.aspx?ZoneID=236&Task=Click&Mode=HTML&SiteID=5&PageID=10032" target="_blank"><img src="http://ds.issuemediagroup.com/a.aspxZoneID=236&Task=Get&Mode=HTML&SiteID=5&PageID=10032" border="0"  alt="" ></a>
     </noscript>
@@ -494,7 +737,7 @@ free movement of such data.</font> </p>
         }
     }
     // --> 
-    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=246&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403214977"></script>
+    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=246&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403221018"></script>
     <noscript>
 	    <a href="http://ds.issuemediagroup.com/a.aspx?ZoneID=246&Task=Click&Mode=HTML&SiteID=5&PageID=10032" target="_blank"><img src="http://ds.issuemediagroup.com/a.aspxZoneID=246&Task=Get&Mode=HTML&SiteID=5&PageID=10032" border="0"  alt="" ></a>
     </noscript>
@@ -523,7 +766,7 @@ free movement of such data.</font> </p>
         }
     }
     // --> 
-    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=247&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403214987"></script>
+    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=247&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403221020"></script>
     <noscript>
 	    <a href="http://ds.issuemediagroup.com/a.aspx?ZoneID=247&Task=Click&Mode=HTML&SiteID=5&PageID=10032" target="_blank"><img src="http://ds.issuemediagroup.com/a.aspxZoneID=247&Task=Get&Mode=HTML&SiteID=5&PageID=10032" border="0"  alt="" ></a>
     </noscript>
@@ -553,7 +796,7 @@ free movement of such data.</font> </p>
         }
     }
     // --> 
-    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=248&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403214988"></script>
+    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=248&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403221021"></script>
     <noscript>
 	    <a href="http://ds.issuemediagroup.com/a.aspx?ZoneID=248&Task=Click&Mode=HTML&SiteID=5&PageID=10032" target="_blank"><img src="http://ds.issuemediagroup.com/a.aspxZoneID=248&Task=Get&Mode=HTML&SiteID=5&PageID=10032" border="0"  alt="" ></a>
     </noscript>
@@ -582,7 +825,7 @@ free movement of such data.</font> </p>
         }
     }
     // --> 
-    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=1098&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403214990"></script>
+    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=1098&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403221033"></script>
     <noscript>
 	    <a href="http://ds.issuemediagroup.com/a.aspx?ZoneID=1098&Task=Click&Mode=HTML&SiteID=5&PageID=10032" target="_blank"><img src="http://ds.issuemediagroup.com/a.aspxZoneID=1098&Task=Get&Mode=HTML&SiteID=5&PageID=10032" border="0"  alt="" ></a>
     </noscript>
@@ -611,7 +854,7 @@ free movement of such data.</font> </p>
         }
     }
     // --> 
-    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=1099&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403214993"></script>
+    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=1099&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403221034"></script>
     <noscript>
 	    <a href="http://ds.issuemediagroup.com/a.aspx?ZoneID=1099&Task=Click&Mode=HTML&SiteID=5&PageID=10032" target="_blank"><img src="http://ds.issuemediagroup.com/a.aspxZoneID=1099&Task=Get&Mode=HTML&SiteID=5&PageID=10032" border="0"  alt="" ></a>
     </noscript>
@@ -640,7 +883,7 @@ free movement of such data.</font> </p>
         }
     }
     // --> 
-    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=1100&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403214996"></script>
+    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=1100&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403221035"></script>
     <noscript>
 	    <a href="http://ds.issuemediagroup.com/a.aspx?ZoneID=1100&Task=Click&Mode=HTML&SiteID=5&PageID=10032" target="_blank"><img src="http://ds.issuemediagroup.com/a.aspxZoneID=1100&Task=Get&Mode=HTML&SiteID=5&PageID=10032" border="0"  alt="" ></a>
     </noscript>
@@ -669,7 +912,7 @@ free movement of such data.</font> </p>
         }
     }
     // --> 
-    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=1101&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403214998"></script>
+    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=1101&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403221036"></script>
     <noscript>
 	    <a href="http://ds.issuemediagroup.com/a.aspx?ZoneID=1101&Task=Click&Mode=HTML&SiteID=5&PageID=10032" target="_blank"><img src="http://ds.issuemediagroup.com/a.aspxZoneID=1101&Task=Get&Mode=HTML&SiteID=5&PageID=10032" border="0"  alt="" ></a>
     </noscript>
@@ -698,7 +941,7 @@ free movement of such data.</font> </p>
         }
     }
     // --> 
-    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=1102&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403215000"></script>
+    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=1102&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=5&amp;Random=1580403221037"></script>
     <noscript>
 	    <a href="http://ds.issuemediagroup.com/a.aspx?ZoneID=1102&Task=Click&Mode=HTML&SiteID=5&PageID=10032" target="_blank"><img src="http://ds.issuemediagroup.com/a.aspxZoneID=1102&Task=Get&Mode=HTML&SiteID=5&PageID=10032" border="0"  alt="" ></a>
     </noscript>
@@ -738,15 +981,6 @@ free movement of such data.</font> </p>
 </div>
 
 
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-1219467-6");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
     </div>
     </form>
 
