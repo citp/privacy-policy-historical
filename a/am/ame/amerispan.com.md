@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amerispan.com privacy policy that was archived on 2011-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110212183749id_/http%3A//www.amerispan.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amerispan.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228205421id_/http%3A//www.amerispan.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -6,16 +6,16 @@
 ---  
 [Medical Spanish & More](https://web.archive.org/salud_medical_spanish_programs/)  
 [Volunteer & Intern](http://www.amerispan.com/volunteer_intern/)  
-[Teenager Study Abroad](https://web.archive.org/teenager_programs_abroad)  
+[Teenager Study Abroad](https://web.archive.org/teenager_programs_abroad/)  
 [Language & Fun](http://www.amerispan.com/fun/)  
 [Business & Professional](http://www.amerispan.com/professional/)  
 [College Study Abroad](http://www.amerispan.com/study_abroad/)  
 [Teachers & Educators](http://www.amerispan.com/educators/)  
-[Programs for Groups](http://www.amerispan.com/group_travel)  
-[Faculty Zone](http://www.amerispan.com/faculty)  
-[Participant Zone](http://www.amerispan.com/clientsupport)  
-[Parent Zone](https://web.archive.org/parents)  
-[Travel Resources](https://web.archive.org/travel)  
+[Programs for Groups](http://www.amerispan.com/group_travel/)  
+[Faculty Zone](http://www.amerispan.com/faculty/)  
+[Participant Zone](http://www.amerispan.com/clientsupport/)  
+[Parent Zone](https://web.archive.org/parents/)  
+[Travel Resources](https://web.archive.org/travel/)  
 [Study Abroad Blog](http://www.amerispan.net/)  
   
   
@@ -119,6 +119,6 @@ Email:
   
 [](http://www.amerispan.com/triple_guarantee.asp)  
 [ ](http://www.amerispan.com/catalog_request/)  
-[](http://www.amerispan.com/travel/article/Language_Travel_Magazine_Star_Awards/225)  
+[](http://www.amerispan.com/travel/article/AmeriSpan_Study_Abroad_Named_LTM_s_2011_Best_Agency_in_North_America/367/)  
 [](http://www.amerispan.com/scholarships/)  
 [](https://www.amerispan.com/application/make_payment.asp)
