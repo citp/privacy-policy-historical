@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rajrang.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505113033id_/http%3A//www.rajrang.com/policy/info/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajrang.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228100755id_/http%3A//www.rajrang.com/policy.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 This privacy statement discloses the privacy practices of [Rajrang.com](http://www.rajrang.com/) We are committed to protecting your privacy and encourage you to periodically review this page to be informed of how we protect the information you disclose to us. If you believe that [Rajrang.com](http://www.rajrang.com/) is not abiding by our posted privacy policy, please e-mail us at [customercare@rajrang.com](mailto:customercare@rajrang.com) Information Collection and Use 
 
