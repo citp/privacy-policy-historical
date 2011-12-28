@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pragmites.com privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218064027id_/http%3A//www.pragmites.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pragmites.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228034530id_/http%3A//www.pragmites.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,4 +10,4 @@ Links to other websites - Our website may contain links to other websites of int
 
 What we do with the information we gather - We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: Internal record keeping. We may use the information to improve our products and services. We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
 
-Security - We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+Security - We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
