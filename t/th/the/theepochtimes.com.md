@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theepochtimes.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629105916id_/http%3A//www.theepochtimes.com/n2/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theepochtimes.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228033920id_/http%3A//www.theepochtimes.com/n2/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | | Epoch Times
+# Privacy Policy Epoch Times
 
 _The Epoch Times_ does not collect any information on your computer or your browser without your consent.
 
@@ -8,11 +8,11 @@ The following are the only instances in which information is collected from you,
 
 ## Setting National Editions
 
- _The Epoch Times_ is now found in several countries around the world, and our website was redesigned in August 2005 to accomodate the ever-growing readers who were visiting our website from countries around the world.
+_The Epoch Times_ is now found in several countries around the world, and our website was redesigned in August 2005 to accomodate the ever-growing readers who were visiting our website from countries around the world.
 
 In order to accomodate this, _The Epoch Times_ website allows the user to choose which edition of the front page he or she would like to view. This allows the reader to view _The Epoch Times_ website with local news that would be of interest to the reader.
 
-In order to do this, a cookie with value "countrycode" is used to store the internal number of the region that has been chosen. This is done to remember the user's preference and not bother him or her with a question on every visit to the site.
+In order to do this, a cookie with value “countrycode” is used to store the internal number of the region that has been chosen. This is done to remember the user’s preference and not bother him or her with a question on every visit to the site.
 
 ## Subscriptions
 
@@ -24,4 +24,4 @@ Our website uses the Metatraffic software to analyze traffic to our website. Thi
 
 Please note that this information is provided by your browser automatically, and is available to any website that you visit.
 
-We use this information simply for analyzing the traffic to the website and improving our users' experience.
+We use this information simply for analyzing the traffic to the website and improving our users’ experience.
