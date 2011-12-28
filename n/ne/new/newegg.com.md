@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521233154id_/http%3A//www.newegg.com/HelpInfo/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228235905id_/http%3A//www.newegg.com/HelpInfo/PrivacySecurity.aspx) for the most accurate reproduction.*
 
 # Newegg.com - Computer Parts, PC Components, Laptop Computers, LED LCD TV, Digital Cameras and more!
 
@@ -109,5 +109,5 @@ The Privacy Policy contained herein became officially effective June 1, 2005.
 ##  Address
 
 Newegg.com   
-9997 E. Rose Hills Road,  
+9997 Rose Hills Road,  
 Whittier, CA. 90601 
