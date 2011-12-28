@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsdaily.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605224228id_/http%3A//www.sciencedaily.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsdaily.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228055101id_/http%3A//www.sciencedaily.com/privacy.htm) for the most accurate reproduction.*
 
 # ScienceDaily: Privacy Policy
 
@@ -23,3 +23,10 @@ For example, Google, as a third-party vendor, uses cookies to serve ads on Scien
 If you wish not to have anyone keep any records of your visit to our site, even though it is our policy not to personally identify individual users but only to gather overall cumulative information about our visitors, then we suggest that you use an anonymous web browsing service such as [Anonymizer.com](http://anonymizer.com/ "http://Anonymizer.com"). Such services typically hide all information about particular users from web sites, which log visits from the anonymizing service instead of the users' own computers.
 
 If you have any questions about our privacy policy, please contact Dan Hogan, editor of ScienceDaily, at [editor@sciencedaily.com](mailto:editor@sciencedaily.com "mailto:editor@sciencedaily.com").
+
+* * *
+
+_Recommend this page on **Facebook** , **Twitter** ,   
+and **Google +1** :_
+
+_Other bookmarking and sharing tools:_
