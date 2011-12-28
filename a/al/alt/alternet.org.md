@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alternet.org privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520220525id_/http%3A//blogs.alternet.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternet.org privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228195403id_/http%3A//blogs.alternet.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « SoapBox
 
@@ -47,7 +47,7 @@ Protecting the rights of children is important to us. As a result, we do not col
 AlterNet allows users to opt-out of receiving communications from us and to modify or remove their information from our system. The following options are available to do so:
 
   * Send email to [support@alternet.org](mailto:support@alternet.org);
-  * send mail to: AlterNet, 77 Federal St., San Francisco, CA 94107;
+  * send mail to: AlterNet, 101 Spear St, Suite 203, San Francisco, CA 94105;
   * call: 415/284-1420.
 
 
@@ -61,8 +61,8 @@ AlterNet will not use or disclose your personal information without your consent
 If you have any questions about this privacy statement, the practices of this site or your dealings with this website, you can contact:
 
 AlterNet  
-77 Federal St.  
-San Francisco, CA 94107  
+101 Spear St, Suite 203  
+San Francisco, CA 94105  
 [info@alternet.org](mailto:info@alternet.org)
 
 AlterNet reserves the right to amend this Privacy Statement at any time without notice, and only the current Privacy Statement may be deemed effective.
