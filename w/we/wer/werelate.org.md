@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the werelate.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228160251id_/http%3A//www.werelate.org/wiki/WeRelate%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the werelate.org privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228061216id_/http%3A//www.werelate.org/wiki/WeRelate%3APrivacy_policy) for the most accurate reproduction.*
 
 # WeRelate:Privacy policy - Genealogy
 
@@ -23,19 +23,19 @@
 
 
 
-## ▼Summary
+## Summary
 
 If you only read the WeRelate pages, no more information is collected than is typically collected in server logs by web sites in general. 
 
 If you contribute to the WeRelate, you are publishing every word you post publicly. If you write something, assume that it will be retained forever. This includes articles, user pages and talk pages. Some limited exceptions are described below. 
 
-## ▼Publishing on the Wiki and Public Data
+## Publishing on the Wiki and Public Data
 
 Simply visiting the web site does not expose your identity publicly (but see private logging below). 
 
 When you edit any page in the wiki, you are publishing a document. This is a public act, and you are identified publicly with that edit as its author. 
 
-## ▼Identification of an Author
+## Identification of an Author
 
 You cannot edit any WeRelate wiki pages unless you are logged in. 
 
@@ -47,17 +47,17 @@ When using a pseudonym, your IP address will not be available to the public exce
 
 If you use a company mail server from home or telecommute and use a DSL or cable Internet connection, it is likely to be very easy for your employer to identify your IP address and find all of your IP based WeRelate contributions. Using a user name is a better way of preserving your privacy in this situation. However, remember to log out or disconnect yourself after each session using a pseudonym on a shared computer, to avoid allowing others to use your identity. 
 
-## ▼Cookies
+## Cookies
 
 The wiki will set a temporary session cookie (PHPSESSID) whenever you visit the site. If you do not intend to ever log in, you may deny this cookie, but you cannot log in without it. It will be deleted when you close your browser session. 
 
 More cookies may be set when you log in, to avoid typing in your user name (or optionally password) on your next visit. These last up to 30 days. You may clear these cookies after use if you are using a public machine and don't wish to expose your username to future users of the machine. (If so, clear the browser cache as well.) 
 
-## ▼Passwords
+## Passwords
 
 Many aspects of the WeRelate community interactions depend on the reputation and respect that is built up through a history of valued contributions. User passwords are the only guarantee of the integrity of a user's edit history. All users are encouraged to select strong passwords and to never share them. No one shall knowingly expose the password of another user to public release either directly or indirectly. 
 
-## ▼Private logging
+## Private logging
 
 Every time you visit a web page, you send a lot of information to the web server. Most web servers routinely maintain access logs with a portion of this information, which can be used to get an overall picture of what pages are popular, what other sites link to this one, and what web browsers people are using. It is not the intention of the WeRelate to use this information to keep track of legitimate users. 
 
@@ -65,7 +65,7 @@ These logs are used to produce the site statistics pages; the raw log data is no
 
 Log data may be examined by developers in the course of solving technical problems and in tracking down badly-behaved web spiders that overwhelm the site. IP addresses of users, derived either from those logs or from records in the database are frequently used to correlate usernames and network addresses of edits in investigating abuse of the wiki, including the suspected use of malicious "sockpuppets" (duplicate accounts), vandalism, harassment of other users, or disruption of the wiki. 
 
-## ▼Third Party Advertising
+## Third Party Advertising
 
 WeRelate uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/adsense/support/bin/answer.py?answer=94149 "http://www.google.com/adsense/support/bin/answer.py?answer=94149"). 
 
@@ -75,7 +75,7 @@ You can find additional information in Appendix A of the [NAI Self-Regulatory pr
 
 Please note that the links in this section link to other websites not owned or operated by WeRelate. These websites may alter their pages at anytime without notice to WeRelate. WeRelate takes no responsibility for the content of these pages or their representations. Please notify [Solveig](https://web.archive.org/wiki/User_talk:Solveig "User talk:Solveig") regarding dead links or questions about these pages. 
 
-## ▼Policy on release of data derived from page logs
+## Policy on release of data derived from page logs
 
 It is the policy of WeRelate that personally identifiable data collected in the server logs, or through records in the database via the CheckUser feature, may be released by the system administrators or users with CheckUser access, in the following situations: 
 
@@ -90,17 +90,17 @@ It is the policy of WeRelate that personally identifiable data collected in the 
 
 WeRelate policy does not permit public distribution of such information under any circumstances, except as described above. 
 
-## ▼Sharing information with third parties
+## Sharing information with third parties
 
 Except where otherwise specified, all text added to WeRelate projects is available for reuse under the terms of the [Creative Commons Attribution/Share-Alike license](http://creativecommons.org/licenses/by-sa/3.0/ "http://creativecommons.org/licenses/by-sa/3.0/"). 
 
 The Foundation for On-Line Genealogy, Inc. will not sell or share private information, such as email addresses, with third parties, unless you agree to release this information, or it is required by law to release the information. 
 
-## ▼Security of information
+## Security of information
 
 The Foundation for On-Line Genealogy, Inc. makes no guarantee against unauthorized access to any information you provide. This information may be available to anyone with access to the servers. 
 
-## ▼E-mail
+## E-mail
 
 You must provide your e-mail address in your Preferences. Your email address is used for the following purposes: 
 
@@ -114,15 +114,15 @@ You must provide your e-mail address in your Preferences. Your email address is 
 
 As stated earlier, the Foundation for On-Line Genealogy, Inc. will not sell or share your email address with third parties unless you agree or it is required by law to release the information. 
 
-## ▼User Data
+## User Data
 
 Data on users, such as the times at which they edited and the number of edits they have made are publicly available via "user contributions" lists, and in aggregated forms published by other users. 
 
-## ▼Removal of User Accounts
+## Removal of User Accounts
 
 Once created, user accounts will not be removed. It may be possible for a username to be changed. The Foundation for On-Line Genealogy, Inc. does not guarantee that a name will be changed on request. 
 
-## ▼Deletion of Content
+## Deletion of Content
 
 Removing text from WeRelate pages does not permanently delete it. In normal articles, anyone can look at a previous version and see what was there. If an article is "deleted", any user with "administrator" access on the wiki, meaning almost anyone trusted not to abuse the deletion capability, can see what was deleted. Information can be permanently deleted by those people with access to the servers, but there is no guarantee this will happen except in response to legal action. 
 
