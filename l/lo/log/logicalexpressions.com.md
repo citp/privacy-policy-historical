@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528002352id_/http%3A//www.logicalexpressions.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228212111id_/http%3A//www.logicalexpressions.com/Privacy.htm) for the most accurate reproduction.*
 
 # Logical Expressions Privacy Policy
 
 **Check out what readers  
 say about our writing...**
 
-#352"I just read this week's newsletter, and I had to drop you a quick thank you."\- A.M.
+#87"I have three degrees including a masters degree, but I am a complete dummy when I sit down to the computer, I am learning to burn disks and I did not understand how to reuse CD-RW disks for my accounts, which I back-up on floppies at the moment. I have made about 4 CD-Rs this week, my first! Thank you for your excellent page."\- B.J.
 
 | 
 
@@ -76,7 +76,7 @@ Logical Expressions, Inc.
 Sandpoint, Idaho 83864  
 Phone: 208-265-3636
 
-[Click to contact us by email](https://web.archive.org/web/20110528002352id_/http%3A//www.logicalexpressions.com/contact.asp)
+[Click to contact us by email](https://web.archive.org/web/20111228212111id_/http%3A//www.logicalexpressions.com/contact.asp)
 
 | 
 
