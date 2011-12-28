@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angieslist.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628103008id_/http%3A//angieslist.com/alprivacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angieslist.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228042535id_/http%3A//www.angieslist.com/alprivacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Angie's List
 
@@ -43,7 +43,7 @@ Angie's List
 1030 E. Washington St.   
 Indianapolis, IN 46202   
 Phone: (888) 944-5478   
-E-mail: helpdesk@angieslist.com   
+E-mail: [helpdesk@angieslist.com](mailto:helpdesk@angieslist.com)   
 Fax: (866) 670-5478 
 
 We welcome your questions and comments. 
