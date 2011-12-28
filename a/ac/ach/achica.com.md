@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the achica.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313000229id_/http%3A//www.achica.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achica.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228210142id_/http%3A//www.achica.com/Privacy.aspx) for the most accurate reproduction.*
 
 # ACHICA | Privacy
 
@@ -12,6 +12,9 @@ In operating our website we may collect and process the following data about you
   3. Information provided to us when you communicate with us for any reason.
 
 
+
+**Email Communications**   
+We provide you with the ability to control whether or not to receive e-mail newsletters through our newsletter preference centre which is accessible by visiting the ‘My Account’ section of the website. 
 
 **Use of Cookies**   
 We may on occasion gather information regarding your computer whilst you are on our website. This enables us to improve our services and to provide statistical information regarding the use of our website to our advertisers where appropriate. 
@@ -33,11 +36,9 @@ The information that we collect and store relating to you is primarily used to e
 
 
 
-Further, we may use your data, or permit selected third parties to use your data, so that you can be provided with information about unrelated goods and services which we consider may be of interest to you.  We or they may contact you about these goods and services by any of the methods that you consented at the time your information was collected.
+Further, we may use your data, or permit selected third parties to use your data, so that you can be provided with information about goods and services which we consider may be of interest to you.  We or they may contact you about these goods and services by any of the methods that you consented at the time your information was collected.
 
-If you are a new customer, we will only contact you or allow third parties to contact you only when you have provided consent and only by those means you provided consent for.
-
-If you do not want us to use your data for our or third parties you will have the opportunity to withhold your consent to this when you provide your details to us on the form on which we collect your data.
+If you are a new customer, we will only contact you if you have provided consent and only by those means you provided consent for.
 
 Please be advised that we do not reveal information about identifiable individuals to our advertisers but we may, on occasion, provide them with aggregate statistical information about our visitors.
 
@@ -70,4 +71,20 @@ You might find links to third party websites on our website. These websites shou
 The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested.  Should you wish to receive details that we hold about you please contact us using the contact details below.
 
 **Contacting Us**  
-We welcome any queries, comments or requests you may have regarding this Privacy Policy.  Please do not hesitate to [contact us](https://web.archive.org/web/20110313000229id_/http%3A//www.achica.com/Contact_Form.aspx) using the online form. 
+We welcome any queries, comments or requests you may have regarding this Privacy Policy.  Please do not hesitate to 
+
+[_contact us_](http://achica.hesk.com/)
+
+using the online form. 
+
+ACHICA Limited, a company registered in England and Wales  
+Registration number: 7039129
+
+Registered office address:  
+95 The Promenade  
+Cheltenham  
+Gloucestershire  
+GL50 1WG
+
+VAT number: GB979880436  
+ICO Registration Number: Z2787024
