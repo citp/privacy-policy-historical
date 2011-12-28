@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arubanetworks.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519221714id_/http%3A//www.arubanetworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arubanetworks.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228150424id_/http%3A//www.arubanetworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Aruba Networks
 
@@ -53,4 +53,4 @@ Aruba has the right to amend and change its Privacy Policy from time to time. Up
 
 #### More information
 
-If you have any questions about this “Policy”, please email [zbaloca@arubanetworks.com](mailto:zbaloca@arubanetworks.com).
+If you have any questions about this “Policy”, please email [webmaster@arubanetworks.com](mailto:webmaster@arubanetworks.com).
