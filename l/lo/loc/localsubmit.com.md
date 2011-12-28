@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localsubmit.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519214542id_/http%3A//www.localsubmit.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localsubmit.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228025301id_/http%3A//www.localsubmit.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -37,11 +37,11 @@
 > You may further contact us at:
 > 
 > Andantino  
->  Heldenlaan 32  
+>  Oudenhovestraat 83  
 >  9620 Zottegem  
 >  Belgium
 > 
 > TAX : BE 0649.262.867 
 > 
 > Tel: +32 476 420077  
->  Fax: +32 9 3602129
+>  Fax: +32 9 3677683
