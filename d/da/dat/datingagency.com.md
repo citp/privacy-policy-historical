@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the datingagency.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625180925id_/http%3A//app.datingagency.com/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingagency.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228205550id_/http%3A//app.datingagency.com/help/privacy.cfm) for the most accurate reproduction.*
 
 # DatingAgency.com :: Privacy Policy
 
 ## DatingAgency.com Member Privacy Policy
 
-_Last updated on Wednesday 3rd March, 2010_
+_Last updated on Wednesday 7th December, 2011_
 
 ### Proprietor
 
