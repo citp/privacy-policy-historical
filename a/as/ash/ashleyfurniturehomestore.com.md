@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashleyfurniturehomestore.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629173211id_/http%3A//www.ashleyfurniturehomestore.com/CustomerService/SiteContent.aspx%3Fpid%3D16%26cid%3D17%26rid%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleyfurniturehomestore.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228203101id_/http%3A//www.ashleyfurniturehomestore.com/CustomerService/SiteContent.aspx%3Fpid%3D16%26cid%3D17%26rid%3D9) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -93,7 +93,7 @@ As we continue to improve the services, products, and features we provide, this 
 
   **California Privacy Rights**
 
-Pursuant to Section 1798.83 of California Civil Code, a California resident with whom we have established a business relationship has the right to request from us certain information with respect to the types of personally identifiable information we have shared with third parties for direct marketing purposes by such third parties, and the identities of the third parties with whom we have shared information during the immediately preceding calendar year. All requests for such information must be in writing and sent to: Ashley Furniture Industries, Director of Web Strategy, One Ashley Way, Arcadia, WI 54612.
+Pursuant to Section 1798.83 of California Civil Code, a California resident with whom we have established a business relationship has the right to request from us certain information with respect to the types of personally identifiable information we have shared with third parties for direct marketing purposes by such third parties, and the identities of the third parties with whom we have shared information during the immediately preceding calendar year. All requests for such information must be in writing and sent to: Ashley Furniture Industries, Brand Identity, One Ashley Way, Arcadia, WI 54612.
 
   **Concerns About Privacy**
 
