@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipnadazilch.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615160541id_/http%3A//www.zipnadazilch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipnadazilch.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228172050id_/http%3A//www.zipnadazilch.com/privacy.php) for the most accurate reproduction.*
 
 # ZipNadaZilch » Privacy Policy
 
@@ -7,7 +7,7 @@
 
 #### ZipNadaZilch Privacy Policy
 
-### Registering for and using this site acknowledges that you have read, understood, and accepted these terms as well as understood and accepted the [Terms & Conditions](https://web.archive.org/web/20110615160541id_/http%3A//www.zipnadazilch.com/tac.php).
+### Registering for and using this site acknowledges that you have read, understood, and accepted these terms as well as understood and accepted the [Terms & Conditions](https://web.archive.org/web/20111228172050id_/http%3A//www.zipnadazilch.com/tac.php).
 
   
 
