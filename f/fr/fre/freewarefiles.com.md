@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewarefiles.com privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319023256id_/http%3A//www.freewarefiles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewarefiles.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228063238id_/http%3A//www.freewarefiles.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Freeware Files.com
 
