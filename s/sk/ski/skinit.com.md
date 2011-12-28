@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skinit.com privacy policy that was archived on 2011-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110418012541id_/http%3A//www.skinit.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinit.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228033332id_/http%3A//www.skinit.com/privacy.php) for the most accurate reproduction.*
 
-# Skinit.com: Phone Skins, Laptop Skins, iPod Skins, Gaming Skins: Personalization on Demand
+# Custom Phone Covers, Phone Cases & Skins For Electronics | Skinit
 
 **Privacy Policy**
 
@@ -28,6 +28,8 @@ SkinIt.com uses industry-standard Secure Sockets Layer (SSL) encryption on all w
 When you browse SkinIt.com's website, you are able to do so anonymously. Generally, we don't collect personal information when you browse - not even your email address. Your browser, however, does automatically tell us the type of computer and operating system you are using.
 
 Like many websites, the SkinIt.com website uses "cookie" technology. When you first connect to our site, the cookie identifies your browser with a unique, random number. The cookies we use do not reveal any personal information about you. Cookies help us understand which parts of our websites are the most popular, where our visitors are going, and how long they spend there. We use cookies to study traffic patterns on our site so we can make the site even better.
+
+Skinit.com also uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **SkinIt.com Commitment to Privacy**   
 To make sure your personal information remains confidential, we communicate these privacy guidelines to every SkinIt.com employee. SkinIt.com does not knowingly solicit personal information from children or send them requests for personal information.
