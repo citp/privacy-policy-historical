@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanoutfitters.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630211911id_/http%3A//www.urbanoutfitters.com/urban/help/privacy_security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanoutfitters.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228103625id_/http%3A//www.urbanoutfitters.com/urban/help/privacy_security.jsp) for the most accurate reproduction.*
 
 # UrbanOutfitters.com > Help/Info > Privacy & Security
 
