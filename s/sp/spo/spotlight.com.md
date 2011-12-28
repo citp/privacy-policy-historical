@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518123606id_/http%3A//www.spotlight.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228213856id_/http%3A//www.spotlight.com/aboutus/privacy) for the most accurate reproduction.*
 
 # Spotlight - professional acting jobs and auditions since 1927
 
