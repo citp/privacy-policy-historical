@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychotactics.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520092429id_/http%3A//www.psychotactics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychotactics.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228085209id_/http%3A//www.psychotactics.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Psychotactics - Big and Small Business Ideas
 
@@ -6,13 +6,13 @@
 
 Psychotactics.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Psychotactics.com, you are accepting the practices described in this Privacy Notice.
 
-This is the hard nosed version. There is also a **'Care, Guidance and Protection'** policy that we follow, which is the overriding ethos of PsychoTactics. It is in article form, and [can be read here](http://psychotactics.com/tactics/can-three-words-in-websters-dictionary-be-the-key-to-customer-loyalty).
+This is the hard nosed version. There is also a **'Care, Guidance and Protection'** policy that we follow, which is the overriding ethos of PsychoTactics. It is in article form, and [can be read here](http://www.psychotactics.com/tactics/can-three-words-in-websters-dictionary-be-the-key-to-customer-loyalty).
 
 ### What Personal Information About Customers Does Psychotactics.com Gather?
 
 The information we learn from customers and subscribers helps us personalise and continually improve your learning & sales experience at Psychotactics.com. Here are the types of information we gather. 
 
-Information You Give Us: We receive and store any information you enter on our Web site or give us in any other way. Go to [the subscribe page](http://psychotactics.com/small-business-ideas-newsletter-subscribe) to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. 
+Information You Give Us: We receive and store any information you enter on our Web site or give us in any other way. Go to [the subscribe page](http://www.psychotactics.com/small-business-ideas-newsletter-subscribe) to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. 
 
 We use the information that you provide for such purposes as responding to your requests, customising future product sales offers for you, improving our services, and communicating with you. 
 
