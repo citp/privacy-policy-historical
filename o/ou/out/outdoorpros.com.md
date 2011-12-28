@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorpros.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629094932id_/http%3A//www.outdoorpros.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorpros.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228033701id_/http%3A//www.outdoorpros.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy at OutdoorPros.com
 
@@ -15,7 +15,7 @@ Except as otherwise discussed in this Privacy Policy, this document only address
 Questions regarding this Policy should be directed to [info@OutdoorPros.com](mailto:info@OutdoorPros.com) or may also be contacted directly at the following address::
 
 Privacy Compliance Officer  
-OutdoorPros.com,  
+OutdoorPros.com,   
 P.O. Box 4786  
 Riverside, CA 92514 
 
@@ -25,7 +25,7 @@ In order to better provide you with numerous products and services, OutdoorPros.
 
 #### Personally Identifiable Information
 
-This refers to information that lets us know the specifics of who you are. Personal information is requested when you order a product or service, enter contests or sweepstakes, fill out surveys, and send us feedback. For example, this information might include your name, billing address, shipping address, telephone number, e-mail address, credit card or other payment information, and product details. With this information, OutdoorPros.com can fill your orders and better provide you with personalized services. For a few services, we may collect your personal information on behalf of other merchants or entities and share it with them. For example, to consider discounts for contractors, we may ask you for your social security number, contractor's license number and date of birth and share that information with third-party verification service providers. If you visit one of the stores available through a link on our site, they will independently collect, use and share your personal information in accordance with their own privacy policies. If you have questions about their information practices, please read their privacy policies. In many cases, you can find a link to their privacy policies on the page offering the Partners' services. 
+This refers to information that lets us know the specifics of who you are. Personal information is requested when you order a product or service, enter contests or sweepstakes, fill out surveys, and send us feedback. For example, this information might include your name, billing address, shipping address, telephone number, e-mail address, credit card or other payment information, and product details. With this information, OutdoorPros.com can fill your orders and better provide you with personalized services. For a few services, we may collect your personal information on behalf of other merchants or entities and share it with them. If you visit one of the stores available through a link on our site, they will independently collect, use and share your personal information in accordance with their own privacy policies. If you have questions about their information practices, please read their privacy policies. In many cases, you can find a link to their privacy policies on the page offering the Partners' services. 
 
 #### Non-Personally Identifiable Information
 
@@ -45,10 +45,7 @@ We gather information in the following ways:
 We collect IP addresses for the purposes of system administration, to gather broad demographic information, to enable ads to be served on our site, to report Non-Personally Identifiable Information to our advertisers, and to monitor the level of activity on our site. We collect information from visitors to our site regarding the URLs they came from, domain types (e.g., .com or .org), their IP addresses, the date and time of their visit or order, the number of visits and orders, the number of visits per browsing session, the server type, the operating system and browser type used to come to the site, the country, state and telephone area code where their servers are located, the pages and page titles of our site that visitors viewed during their visit, whether the visitor's computer is enabled for Java or cookies, browser language, applications and plug-ins, and any search terms entered on our site.
 
 **Ordering**  
-When you order from us, we collect personally identifiable information from you. If you order one of our products or services, we will collect and maintain your name, e-mail address, billing address, shipping address, telephone number, product selections, credit card or other payment information, order number, referring URL, IP address, page you bought from and a password. We collect this, and other information, as disclosed in this Policy, in order to fill your order, to communicate with you about your order and to send you promotional materials. Before confirming your order, you will have the opportunity to review the product order form and make changes and additions to the information it contained and these changes will be automatically kept for future use.
-
-**Contractor Discounts**  
-To consider discounts for contractors, we may collect such such information as your social security number, driver's license, date of birth and order specific information on behalf of third-party verification service providers. We may use and transfer to our fulfillment partners and the third-party verification service providers such information together with your other personal information as needed to fulfill any orders that you may place. The third-party verification service providers may use and share that information in accordance with their own privacy policies. Please review the privacy policy of your third-party verification service providers to understand how such information may be used and disclosed by such third-party verification service providers.
+When you order from us, we collect personally identifiable information from you. If you order one of our products or services, we will collect and maintain your name, e-mail address, billing address, shipping address, telephone number, product selections, or other payment information, order number, referring URL, IP address, page you bought from and a password. We collect this, and other information, as disclosed in this Policy, in order to fill your order, to communicate with you about your order and to send you promotional materials. Before confirming your order, you will have the opportunity to review the product order form and make changes and additions to the information it contained and these changes will be automatically kept for future use.
 
 **Online Surveys and Polling**  
 In order to improve our services to you, we ask some of our customers to voluntarily complete surveys, which may be collected by an independent third party. Individual survey answers are confidential, although Non-Personally Identifiable Information is collected and disclosed to third parties. If you do not wish to participate in a survey, simply decline to participate when asked.
@@ -57,12 +54,12 @@ In order to improve our services to you, we ask some of our customers to volunta
 When you enter a contest or other promotion, we may ask you for contact information such as your name, address and e-mail address in order to administer the contest, to send you promotional e-mails, notify winners and make the winners' list publicly available pursuant to certain states' laws. Your consent to such promotional use and disclosure of this information as a condition of your participation. As a condition of receiving any prize, you will be required to submit an Affidavit of Eligibility, for us to ensure that you are eligible to receive the prize according to the Contest Rules.
 
 **Emails**  
-We periodically send informative emails such as free newsletters, customer review emails and promotional e-mails as a service to our customers. To stop receiving these notifications, send an e-mail to us at [info@OutdoorPros.com](mailto:info@OutdoorPros.com) requesting to unsubscribe.
+We periodically send emails such as, account emails, order emails, product emails, customer review emails, transactional and/or relationship messages, newsletters and promotional emails as a service to customers and account holders.
 
 **Contact Information and Third Party Data**  
 If you contact OutdoorPros.com or our customer service representatives by telephone, e-mail or letter, we may keep a record of your correspondence or comments. If you report a problem with our site, we may collect such information in a file specific to you. If you contact us through our feedback area or by calling one of our customer service representatives, we may ask for your name, e-mail address and order information in order to send you a reply. If other users or third parties send us correspondence about your activities or purchases on our site, we may keep the information in a file specific to you.
 
- **Product Reviews**  
+**Product Reviews**  
 OutdoorPros.com has arranged with PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the collection of customer product reviews on products sold by OutdoorPros.com. When you submit a product review to OutdoorPros.com, you are also subject to PowerReviews' terms of use and privacy policies (see <http://www.buzzillions.com/public/legal/index_en_US.html>). Accordingly, you should review those policies prior to submitting a review. Also, reviews you submit may be posted on both [http://www.Buzzillions.com](http://www.buzzillions.com/) and OutdoorPros.com.
 
 **Customer Service**  
@@ -75,14 +72,6 @@ We also track customers' traffic patterns throughout their online session, inclu
 
 We may share aggregated statistics about pages viewed on our site, sales and other shopping information with third parties. 
 
-#### Cookies
-
-We use cookies and may allow others to use cookies in the operation of our site; to find out what cookies are and how they are used, read the entire Privacy Policy. 
-
-#### Analysis Tools
-
-We may use and allow others to use analysis tools in the operation of our site; to find out what analysis tools are and how they are used, read the entire Privacy Policy. 
-
 #### Who is collecting your information?
 
 Ad Servers and Content Servers: We may use third party ad servers or content servers to serve ads, product information, or other information both on and off our site. Those third parties may use "analysis tools" throughout the site to count the number of visitors who click on a banner ad or other information and to track the number of customers who continue on to make a purchase. They may also place their own "cookie" on your computer to help those ads to run and analyze site usage. We do not provide them with any of your Personally Identifiable Information. For more information about the information they collect, please read the entire Privacy Policy.
@@ -93,7 +82,7 @@ E-mail Services: We may use a third party to send promotional e-mails to custome
 
 Website Analysis Agent: We may contract with several online partners to help manage and optimize our Internet business and marketing. We use the services of marketing companies to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use analysis tools and cookies provided by the marketing companies on this site. The type of information we collect includes things such as pages, information and advertisements viewed as well as what items are placed in a shopping basket or purchased, the order number, the amount of a purchase, the product number and the quantity purchased. By supplementing our records, this information helps us learn things like what kinds of customers our site attracts, which of our products most interest our customers, and what kinds of offers our customers like to see. Although the marketing companies log the information coming from our site on our behalf, we control how that data may and may not be used. For more information about cookies, please read the entire Privacy Policy.
 
-Marketing Partners, Co-branded Services, Framing/Windows on Third-Party Sites: We may run promotions for merchants where you may visit the merchants' sites. In some of those promotions, a window or frame containing the merchant's site may appear. Any time you are in a window, you should assume that your personal information is being collected, used and disclosed in accordance with that merchant's policies. This Privacy Policy does not apply to information that you supply to those merchants. Any information that you share with them will be used and disclosed in accordance with that merchant's privacy policy. However, once you click on a return link to our site, you can expect that further information that you disclose will be treated in accordance with this Policy.
+Marketing Partners, Co-branded Services, Framing/Windows on Third-Party Sites: We may run promotions, product review surveys, and other offerings or options for customer participation with third parties, where you many visit the third party’s sites. In some of those cases, a window or frame containing the third party’s site may appear.
 
 On occasion, unaffiliated third parties will "frame" OutdoorPros.com's site in an effort to collect customer information. To ensure your privacy, make sure that your order originates from OutdoorPros.com's site. OutdoorPros.com is not in any manner responsible in the event that you do disclose information to an unaffiliated framing site.
 
@@ -121,7 +110,7 @@ We believe you should have the ability to access and edit the personal informati
 
 #### What are your choices regarding collection, use, and distribution of your information?
 
-Email: We may from time to time send you e-mail or other communications regarding current promotions, specials and new additions to the OutdoorPros.com site. You may "opt-out," or unsubscribe from our newsletters by following the unsubscribe instructions in any e-mail you receive from us, or by sending an e-mail to [info@OutdoorPros.com](mailto:info@OutdoorPros.com) requesting to unsubscribe. After doing so, OutdoorPros.com users will not receive future promotional emails unless they open a new account, enter a contest, or sign up to receive newsletters or emails.
+Email: We may from time to time send you email or other communications such as emails or communications regarding, your order, transaction, account, information, product, service or other related information request, customer reviews, promotions, specials and/or changes to the OutdoorPros.com site. You may “opt-out”, or unsubscribe from non-transactional emails by following the unsubscribe instructions in the email you receive from us. 
 
 Ad Servers and other Content Servers: You may also set your browser so that it will not accept "cookies" to prevent assignment from an ad server or content server of a unique identifier; however, you will be unable to shop on our site if you do so. 
 
@@ -157,17 +146,6 @@ Other sites accessible through our web site have their own privacy policies and 
 
 On behalf of various sponsors, OutdoorPros.com provides sponsored links to third-party web sites. If you click on a sponsored link or banner ad, a "window" or "frame" containing a third-party's web site may appear in the foreground with the OutdoorPros.com web site in the background. Unless you are on OutdoorPros.com's web site, any time that you have moved to a window, you should assume that your personal information is being collected, used and disclosed in accordance with the windowed site's privacy policy (if any). If you are unsure as to whose privacy policy applies, please contact us by e-mail at [info@OutdoorPros.com](mailto:info@OutdoorPros.com), or by sending a letter to the address below. 
 
-#### Contacting OutdoorPros.com about privacy questions or concerns
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact OutdoorPros.com by sending a letter to:
-
-Attn: Privacy Compliance Officer  
-OutdoorPros.com,  
+OutdoorPros.com  
 P.O. Box 4786  
 Riverside, CA 92514
-
-You may also contact us by email at [info@OutdoorPros.com](mailto:info@OutdoorPros.com)
-
-#### Privacy Policy changes
-
-This Privacy Policy was last changed on July 07, 2008. If OutdoorPros.com makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise. 
