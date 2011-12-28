@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galegroup.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517070637id_/http%3A//www.cengage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galegroup.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228234311id_/http%3A//www.cengage.com/privacy) for the most accurate reproduction.*
 
 # Cengage Learning - Privacy Statement
 
