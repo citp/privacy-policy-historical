@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertytax.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924193955id_/http%3A//www.libertytax.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertytax.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228172511id_/http%3A//www.libertytax.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Liberty Tax Service
 
@@ -33,8 +33,6 @@ If you have inputted information into our website to express an interest in bein
 If you entered your contact information into our website to express an interest in being contacted about a franchise opportunity, we use your information to contact you about this opportunity.
 
 If you submitted your e-mail address to sign up for our electronic newsletter, we use your e-mail address to e-mail our newsletter to you and we may contact you about franchise opportunities with us.
-
-If you chose to use our electronic Refer a Friend on this site, we enter your name and address into a database which allows us or a Liberty franchisee to use your name and address to mail to you the referral fee if and when someone that you refer to us uses our tax preparation services.
 
 If you submitted your e-mail address to us for any purpose, we may contact you to invite you to prepare your tax return with us.
 
