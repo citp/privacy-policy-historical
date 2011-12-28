@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the focuslinesurveys.com privacy policy that was archived on 2009-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090123000241id_/http%3A//focuslinesurveys.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focuslinesurveys.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228132852id_/http%3A//www.focuslinesurveys.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Paid Surveys - Rewarded Surveys
 
@@ -10,7 +10,7 @@ What personally identifiable information does FocuslineSurveys collect from me?
 
 FocuslineSurveys collects information in several ways from different parts of our network of websites.
 
-Some personal information is gathered when you register. During registration, FocuslineSurveys asks for your name, email address, zip code, household information and personal interests. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience. Once you register you are no longer anonymous to FocuslineSurveys - use to access the various protected areas of the site.
+Some personal information is gathered when you register. During registration, FocuslineSurveys asks for your name, email address, zip code, household information and personal interests. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience. Once you register, you are no longer anonymous to FocuslineSurveys and you can access the various protected areas of the site.
 
 Also, if you contact FocuslineSurveys we may keep a record of that correspondence.
 
@@ -54,7 +54,7 @@ FocuslineSurveys does not sell or rent user information to anyone. We will notif
 
 What is FocuslineSurveys's policy on allowing me to update, correct, or delete my personally identifiable information?
 
-You may edit your FocuslineSurveys Account Information and your public FocuslineSurveys Profile at any time by using your FocuslineSurveys ID and password. If you have forgotten your password, please [click here](https://web.archive.org/web/20090123000241id_/http%3A//focuslinesurveys.com/forgot_password.php) .
+You may edit your FocuslineSurveys Account Information and your public FocuslineSurveys Profile at any time by using your FocuslineSurveys ID and password. If you have forgotten your password, please [click here](https://web.archive.org/web/20111228132852id_/http%3A//www.focuslinesurveys.com/forgot_password.php) .
 
 Your FocuslineSurveys account can be deleted or deactivated. Please contact support@FocuslineSurveys.com for further instructions about deleting or deactivating your FocuslineSurveys account.
 
