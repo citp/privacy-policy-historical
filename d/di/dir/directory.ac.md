@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the directory.ac privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519105201id_/http%3A//www.directory.ac/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directory.ac privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228060645id_/http%3A//directory.ac/privacy.html) for the most accurate reproduction.*
 
 # Directory.ac Privacy Policy | Directory.ac
 
-Directory.ac understands and respects your concerns about privacy. This notice describes Directory.ac's privacy policy as it pertains to the website at [www.directory.ac](http://www.directory.ac/). **By visiting Directory.ac, you are acknowledging and accepting this Privacy Policy**. Your continued use of the Website after changes have been posted to the Privacy Policy will constitute your acceptance of such changes.
+Directory.ac understands and respects your concerns about privacy. This notice describes Directory.ac's privacy policy as it pertains to the website at [Directory.ac](http://directory.ac/). **By visiting Directory.ac, you are acknowledging and accepting this Privacy Policy**. Your continued use of the Website after changes have been posted to the Privacy Policy will constitute your acceptance of such changes.
 
 We have created this statement to communicate our commitment to privacy and to ensure that you are comfortable with the measures taken to enhance your experience with Directory.ac. We are dedicated to providing a safe, secure and enjoyable environment in which to search a directory of the world business. This statement details our current information gathering procedures, which are subject to change without notice. In order to confirm your understanding of our Privacy Policy, it is suggested that you review this Privacy Policy from time to time.
 
