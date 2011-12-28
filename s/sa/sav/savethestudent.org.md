@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the savethestudent.org privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531063429id_/http%3A//www.savethestudent.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethestudent.org privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228043853id_/http%3A//www.savethestudent.org/privacy-policy) for the most accurate reproduction.*
 
 # SaveTheStudent.org Privacy Policy – Save The Student!
+
+[promoslider]
 
 This privacy policy sets out how this website (www.savethestudent.org) uses and protects any information that you may provide when you use the site. The website is owned and operated by SaveTheStudent.org. This policy is effective from 15th September 2010.
 
