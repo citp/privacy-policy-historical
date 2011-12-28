@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viator.com privacy policy that was archived on 2011-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110301141726id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viator.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228142837id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.*
 
 # Viator Customer Care - 24/7 Assistance | Viator.com
 
@@ -6,9 +6,7 @@
 
 At Viator, we recognize that earning and retaining your trust is one of the most important things we do as a business. Protecting your privacy is a responsibility we take very seriously.
 
-We have prepared this Privacy Policy to help you understand how Viator collects, uses and safeguards the personal information you provide to us on our websites, via email, and through our service providers and distribution partners.
-
-Rest assured that, unless you explicitly give us consent to do otherwise, Viator will only collect and use your personal information as outlined in this Privacy Policy.
+We have prepared this Privacy Policy to help you understand how Viator collects, uses and seeks to safeguard the Personal Information (as defined below) you provide to us on our websites, via email, and through our service providers and distribution partners. This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third party, including any third-party distribution partners, suppliers and tour operators, and any third party operating any site to which our websites contain a link. By downloading, accessing or using our websites, or providing information to us in connection with our websites, you agree to the terms and conditions of this Privacy Policy.
 
 ### Who We Are
 
@@ -22,69 +20,62 @@ Viator operates through different websites around the world, which are all part 
 
 ### What Information Do We Collect?
 
-When you visit Viator.com or any of our affiliates' web pages that are hosted by us, our web server automatically recognizes and collects your IP address.
+We collect two types of information from you on our websites, via email, and through our service providers and distribution partners. Personal Information is information that identifies you personally, such as your name and email address. We also collect Other Information that does not identify you personally, such as gender, country of residence and other demographic information.
 
-In order to purchase our products or services, it is necessary for you to disclose personal information, including your name, address, email address, phone number, credit card details and other identifying information in order to process orders and provide customer service. If you do not provide personal information when purchasing one of our products or services, we cannot confirm your purchase or fulfill your booking.
+In order to purchase our products or services, it is necessary for you to disclose Personal Information, including your name, address, email address, phone number, credit card details and other personally identifying information. If you do not provide Personal Information when purchasing one of our products or services, we cannot confirm your purchase or fulfill your booking.
 
-When you register with Viator, we ask for basic information including your name, email address and ask you to create a unique password and user id along with a password hint. To help us send more relevant communications to you (if you choose to receive them) we keep track of all website searches and bookings. For example, if you frequently visit Paris and London, we may send you special notices listing deals and popular products for those destinations. If you subscribe to any of our email marketing communications - including newsletters and destination alerts, it is necessary to disclose your name, your home country, and email address.
+When you register with Viator, we ask for basic information including your name and email address, and Other Information such as your signup location. If you connect to Viator using Facebook, we may also collect information that you have chosen to make available in your Facebook privacy settings, including Personal Information such as your Facebook email address and Facebook username, Other Information such as your profile picture and friend lists, and any other Personal or Other Information you have chosen to make available.
 
-In some instances we may also ask for personal demographic data such as your country of residence, gender, age, travel habits, etc. We also use cookies (as discussed below) to collect information about the performance and usability of our websites.
+When you visit Viator.com or any of our affiliates' web pages that are hosted by us, our web server automatically recognizes and collects your IP address, which is assigned by your Internet Service Provider and does not identify you personally. To help us analyze the usage of our websites and related services, and to send more relevant communications to you, we also collect and keep track of Other Information such as your website searches and bookings. For example, if you frequently visit Paris and London, we may send you special notices listing deals and popular products for those destinations. If you are subscribed to any of our email marketing communications - including newsletters and destination alerts, it is necessary for you to disclose Personal Information such as your name and email address and Other Information such as your home country.
 
-We ask for and store information about you when you create an account on the site, such as your name, email address, and signup location.
+In some instances we may also ask for Other Information such as demographic data, including your country of residence, gender, age, travel habits, etc. We also use cookies (as discussed below) to collect information about the performance and usability of our websites.
 
-You can contribute to the site in a number of different ways, including writing reviews, uploading photos, filling out your public profile, and rating other users' contributions. We may store these contributions (your "Content"), display them to other users, and use them for promotional purposes. Note that if you include personally identifiable information in your Content, it can be used and viewed by others. We are not responsible for the information you choose to include in your Content.
+You can contribute to the site in a number of different ways, including writing reviews, uploading photos, filling out your public profile, and rating other users' contributions. We may store these contributions (your "Content"), display them to other users, and use them for promotional purposes. Note that if you include Personal Information in your Content, it can be used and viewed by others. We are not responsible for the information you choose to include in your Content.
 
 ### Cookies, and How We Use Them
 
-"Cookies" are pieces of information that are stored by your web browser on your computer's hard disk, for record-keeping purposes. Cookies in and of themselves only identify your computer; they do not personally identify you. 
+"Cookies" are pieces of information that are stored by your web browser on your computer's hard disk, for record-keeping purposes. Cookies in and of themselves only identify your computer; they do not personally identify you.
 
-First-Party Cookies: At Viator we make limited use of cookies to store your preferences, record session information, collect information on how you visit and access our websites, and to tailor our web pages to your needs. We also use cookies to analyze and measure the effectiveness of our email communications, website features and offerings, and advertisements. We do not use cookies to track your movements after leaving our websites. 
+First-Party Cookies: At Viator we make use of cookies to store your preferences, record session information, collect information on how you visit and access our websites, and to tailor our web pages to your needs. We also use cookies to analyze and measure the effectiveness of our email communications, website features and offerings, and advertisements.
 
 Most web browsers allow you to turn off cookies; however, turning off cookies will limit your use of our websites.
 
-Third-Party Cookies: We also use third-party advertising companies to serve ads while you are visiting our websites and permit these companies to place and access their own cookies on your computer in the course of serving advertisements. Such advertisers do not have access to the information we collect through Viator cookies. Other companies' use of their cookies is subject to their own privacy policies and not ours. 
+Third-Party Cookies: We also use third-party advertising companies to serve ads while you are visiting our websites and we permit these companies to place and access their own cookies on your computer in the course of serving advertisements. Such advertisers do not have access to the information we collect through Viator cookies. Other companies' use of their cookies is subject to their own privacy policies and not ours.
 
-### How We Use Your Personal Information
+### How We Use And Disclose Your Personal Information
 
 We use your personal information in the following ways:
 
   * To provide you with the information you request about our products
-  * To send you email marketing messages and information for which you have specifically subscribed
+  * To send you email marketing messages and information
   * To fulfill your bookings
   * To confirm your purchases
   * To ensure you are correctly billed
   * To measure and track demographic details about our customers
   * To target content on our website to more closely match your interests
-  * If you have selected to receive email marketing messages, to target the appropriate content for email marketing messages to better match your interests
+  * To target the appropriate content for email marketing messages to better match your interests
 
 
 
-If you make a purchase at one of our websites, we may also send you information about new products, or ask your opinion about our websites, etc., so that we may improve our service to you and other consumers. If you do not want Viator to contact you in the future, please let us know by sending an email to our Privacy Officer at [privacy@viator.com](mailto:privacy@viator.com).
+We will provide you with choices regarding the use and disclosure of your Personal Information for marketing purposes.
 
-If you subscribe to any of our email marketing messages, we will use your personal information to send you the information you requested. You will always have the option to unsubscribe by sending an email to privacy@viator.com, by logging into your account - if you've created one - and updating your email subscription preferences, or by following the link at the bottom of each email marketing message we send you.
+If you connect to Viator using Facebook, we may show you reviews, photos and tours that your Facebook friends have posted, shared, saved or purchased on Viator. Note that, if you have Facebook friends who are using Viator, they may also share information about you with us through Facebook. If you wish to prevent that sharing, please review your Facebook privacy settings.
 
-Some of the personal information we collect is shared with our service partners (e.g. tour operators) who are directly involved in fulfilling the purchases you have made from us.
+You can also choose to access third-party social media websites and services through Viator (such as Facebook and Twitter). When you do so, you are sharing information with those sites, and the information you share is governed by their privacy policies.
 
-We only provide our service providers with your name and your local contact details, if you provide them (e.g. your hotel name for pick-ups and drop-offs, your local phone number, etc.) We do not provide our service providers with any other personal information. If you decide to provide any personal information directly to a service provider, we recommend that you review the service provider's privacy policy.
+Some of the Personal Information we collect is shared with our service partners (e.g. tour operators) who are directly involved in fulfilling the purchases you have made from us. We only provide our service providers with your name and your local contact details, if you provide them (e.g., your hotel name for pick-ups and drop-offs, your local phone number, your mobile phone number, etc.) We do not provide our service providers with any other Personal Information. If you decide to provide any Personal Information directly to a service provider, we recommend that you review the service provider's privacy policy to determine how such service provider may use or disclose your Personal Information.
 
-We also share your personal information with third parties contracted to provide us with marketing and data reporting services who are bound by an obligation of confidentiality and with other third party marketing partners.
+We also share your Personal Information with third parties contracted to provide us with marketing and data reporting services who are bound by an obligation of confidentiality and with other third-party marketing partners.
 
-We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our website. To do this, we use web beacons and cookies provided by our marketing company on this website. The information we collect helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our website on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can opt-out" of our ability to analyze such data by [clicking here](http://www.omniture.com/privacy/product#optout).
+We currently contract with several third-party online partners to help manage and optimize our Internet business and communications. We use the services of third-party marketing companies to help us measure the effectiveness of our advertising and how visitors use our website. To do this, we use web beacons and cookies provided by such marketing companies in connection with our websites. The information we collect helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of our ability to analyze such data by clicking here.
 
-Finally, rest assured that unless you expressly authorize us to do so, we do not share your personal information with third-party organizations who are not involved in fulfilling the purchases you have made from us or who are not contracted by us. 
+We may also use or disclose Personal Information as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public or government authorities, including public or government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, or that of our affiliates, you or others; or (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+
+We may use and disclose Other Information for any purpose. In some instances, we may combine Other Information with Personal Information (such as combining your name with your geographical location). If we combine any Other Information with Personal Information, the combined information will be treated by us as Personal Information, as long as it is so combined.
 
 ### Email Communications You Can Expect to Receive from Viator
 
-If you opt-in to receive communications from us, you will receive information we believe that will be of use and interest to you. For example:
-
-  * We will keep you informed about Viator deals, destination and product news, sweepstakes, programs, etc., and other special promotions that we believe that you will find valuable.
-  * We will keep you updated about important site functionality changes.
-
-
-
-As a subscriber to our email marketing communications, you will occasionally receive e-mail updates from us about product and destination sales in your area, special offers and new Viator Services and other noteworthy items. We believe that you will find Viator updates interesting and informative. 
-
-With the exception of emails confirming registration, emails that include Viator account information, and emails relating directly to a booking made on our website, Viator will not send any emails unless you elect to receive email communications from us. Please note that emails related to your Viator.com registration and transactions include emails to allow you to review your booking and tour experiences with us, administrative messages, and surveys related to either your Viator.com account or to your transactions on Viator.com. If you are no longer interested in receiving email marketing communications from Viator, you have several choices for opting out of future mailings:
+We may send to you marketing emails with information about Viator deals, destination and product news, sweepstakes, programs, etc., and other special promotions that we believe that you will find valuable, interesting or informative. We will provide you with choices regarding our use of your Personal Information for marketing purposes. If you are no longer interested in receiving future email marketing communications from Viator, you have several choices for opting out of future mailings:
 
   * You may unsubscribe at any time by following the directions and link included in each email marketing message we send.
   * When you register as a Viator.com member, you may click on "My Account" at the top of any page of our website and update your "Account Settings"
@@ -92,36 +83,36 @@ With the exception of emails confirming registration, emails that include Viator
 
 
 
+Please note that, even if you opt-out of receiving future marketing communications from Viator, we will continue to send to you emails regarding your purchases and bookings, and regarding administrative information such as changes to our terms, conditions and policies. If you make a booking or purchase at one of our websites, we may also send you information about new products, or ask your opinion about our websites, etc., so that we may improve our service to you and other consumers.
+
 ### Our Distribution Partners and Suppliers
 
-Our products are made available through our distribution partners. This Privacy Policy should be read in conjunction with the privacy policies of our distribution partners, which may differ from Viator's Privacy Policy.
+Our products are made available through our third-party distribution partners and suppliers. Our distribution partners and suppliers may have privacy policies that differ from Viator's Privacy Policy.
 
-You should also be aware that some product or tour suppliers and some of our distribution partners may need other personal information (such as health or physical fitness information) to determine whether you can participate in an activity. You should read and rely upon the relevant supplier's or partner's Privacy Policy only, if Viator does not collect this information from you directly.
+You should also be aware that some product or tour suppliers and some of our distribution partners may need additional Personal or Other Information (such as health or physical fitness information) to determine whether you can participate in an activity. You should read and rely upon the relevant supplier's or partner's Privacy Policy only (and not Viator's Privacy Policy), if Viator does not collect this information from you directly.
 
-Some suppliers or distribution partners may operate in countries or states that do not have laws or regulation for the protection and safeguarding of personal information. Viator does what it can to persuade all its suppliers and distribution partners to adopt and adhere to privacy policies that are substantially the same as this one. However, please be aware that Viator is not in a position to force adherence, so we will rely on you and our other Customers to inform us if your privacy is not being adequately protected by our suppliers or distribution partners. Viator will then do what it lawfully can do (including severing its relationship with offending suppliers or distribution partners) to prevent other occurrences.
+Some suppliers or distribution partners may operate in countries or states that do not have laws or regulations for the protection and safeguarding of Personal Information. Viator seeks to take reasonable steps to persuade all its suppliers and distribution partners to adopt and adhere to privacy policies that are substantially similar to this one. However, please be aware that Viator is not in a position to force adherence, so we will rely on you and our other Customers to inform us if your privacy is not being adequately protected by our suppliers or distribution partners. Viator may then seek to take steps (including severing its relationship with offending suppliers or distribution partners) to help prevent other occurrences.
 
 ### Our Security and Storage Measures
 
-At Viator we are committed to maintaining the integrity and security of your personal information.
+At Viator we seek to maintain the integrity and security of your Personal Information.
 
-We use industry-standard encryption protocols when receiving and transferring your personal information. In fact, when you send personal information to us over the Internet, we first require that a "secure session" be established using Secure Socket Layer (SSL).
+We use industry-standard encryption protocols when receiving and transferring your Personal Information. In fact, when you send Personal Information to us over the Internet, we first require that a "secure session" be established using Secure Socket Layer (SSL).
 
-Your personal information is stored in secure operating environments that are not accessible to the general public. We have security measures in place at our physical facilities to protect against the loss, misuse or alteration of your personal information by our employees or third parties.
+We seek to store your Personal Information in secure operating environments that are not accessible to the general public, and to have security measures in place at our physical facilities to protect against the loss, misuse or alteration of your Personal Information by our employees or third parties.
 
-However, no data transmission over the Internet can be guaranteed to be 100% secure, so we cannot give an absolute assurance that the information you provide to us will be secure at all times. Viator will not be held responsible for events arising from unauthorized access to your personal information.Viator will rely on you telling us if you experience any unusual events that may indicate a breach in your information security. We will then investigate whether the security breach was related to the data transmissions from or to Viator and let you know what steps can be taken and have been taken to rectify the problem. Further action, such as reporting incidents to the police or other proper authorities, may also be required.
+However, no data transmission over the Internet or data storage environment can be guaranteed to be 100% secure, so we cannot give an absolute assurance that the information you provide to us will be secure at all times. Viator will not be held responsible for events arising from unauthorized access to your Personal Information. Viator will rely on you telling us if you experience any unusual events that may indicate a breach in your information security. We will then seek to investigate whether the security breach was related to the data transmissions from or to Viator and let you know what steps can be taken and have been taken to help rectify the problem. Further action, such as reporting incidents to the police or other proper authorities, may also be required.
 
 ### Changes to Our Privacy Policy
 
-We know that our business will continue to evolve as we introduce new products and as such from time to time our Privacy Policy may be reviewed and revised.
+We know that our business will continue to evolve as we introduce new products, and, as such, from time to time this Privacy Policy may be reviewed and revised.
 
-Viator reserves the right to change its Privacy Policy and post the changes on its website. We will only use your personal information in accordance with the Privacy Policy in effect at the time we collected your personal information.
+Viator reserves the right to change this Privacy Policy by posting the changes on its website. You can determine when this Privacy Policy by reviewing the " _LAST UPDATED_ " legend below.
 
 ### Contacting Us
 
-For some Viator services you can access and update your registration and personal information online.
+For some Viator services you can access and update your registration and Personal Information online.
 
-To correct or update any other personal information, or if you have questions about Viator's Privacy Policy, please email our Privacy Officer at [privacy@viator.com](mailto:privacy@viator.com).
+To correct or update any other Personal Information, or if you have questions about Viator's Privacy Policy, please email our Privacy Officer at [privacy@viator.com](mailto:privacy@viator.com).
 
-### Further Information About Privacy Laws
-
-There is no single global entity that regulates personal information online. Instead, Viator has made a conscious choice to follow the privacy guidelines as established by law in the major markets where we operate and where we have offices. In Australia that means being guided by the [National Privacy Principles](http://www.privacy.gov.au/publications/nppgl_01.html "National Privacy Principles"). In the United States that means adhering to the Federal Trade Commission's [guidelines](http://www.ftc.gov/privacy/ "guidelines"). In Europe that means adhering to EC Directive 95/46/EC and complying with the EU Safe Harbor framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal data from the European Union.
+**_LAST UPDATED:_** November 30, 2011
