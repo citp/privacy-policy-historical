@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beanstalkapp.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119234027id_/http%3A//beanstalkapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beanstalkapp.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228214209id_/http%3A//beanstalkapp.com/privacy-policy) for the most accurate reproduction.*
 
 # Beanstalk — Secure, Private Subversion and Git Hosting | Privacy Policy
 
@@ -26,4 +26,4 @@ Wildbit, LLC will notify customers by email about any significant changes in thi
 
 ## Privacy Questions / Feedback
 
-If you have questions or concerns about Wildbit’s Privacy Policy please contact us at [support@beanstalkapp.com](mailto:support@beanstalkapp.com) or 461 N. 3rd Street, 2nd Floor, Philadelphia, PA, 19123.
+If you have questions or concerns about Wildbit’s Privacy Policy please contact us at [support@beanstalkapp.com](mailto:support@beanstalkapp.com) or 20 N. 3rd Street, Unit 701, Philadelphia, PA, 19106.
