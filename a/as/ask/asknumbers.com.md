@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asknumbers.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212051018id_/http%3A//asknumbers.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asknumbers.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228055431id_/http%3A//www.asknumbers.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use
 
