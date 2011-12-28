@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomagic.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219142106id_/http%3A//www.joomagic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomagic.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228101708id_/http%3A//joomagic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
