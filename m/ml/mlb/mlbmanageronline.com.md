@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the mlbmanageronline.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630030947id_/http%3A//mlbmanageronline.com/en/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlbmanageronline.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228150458id_/http%3A//mlbmanageronline.com/en/support/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | The Official Site of MLB Manager Online
 
   * Home
-  * [Support](https://web.archive.org/web/20110630030947id_/http://mlbmanageronline.com/en/support/)
+  * [Support](https://web.archive.org/web/20111228150458id_/http://mlbmanageronline.com/en/support/)
   * Privacy Policy
 
 
@@ -12,7 +12,7 @@
 
 EFFECTIVE, August 1st 2010
 
-Sega provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of [http://mlbmanageronline.com](http://mlbmanageronline.com/) (the "Sega Website") (the Site and the Sega games and forums collectively, the "Service"). This Privacy Policy applies only to information that you provide to us through the Service. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Service. You are advised to consult this Policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our "[Privacy Policy have the same meanings as in our "MLB Manager Online Game" Service Terms of Use](https://web.archive.org/web/20110630030947id_/http://mlbmanageronline.com/en/support/termsofuse/)".
+Sega provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of [http://mlbmanageronline.com](http://mlbmanageronline.com/) (the "Sega Website") (the Site and the Sega games and forums collectively, the "Service"). This Privacy Policy applies only to information that you provide to us through the Service. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Service. You are advised to consult this Policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our "[Privacy Policy have the same meanings as in our "MLB Manager Online Game" Service Terms of Use](https://web.archive.org/web/20111228150458id_/http://mlbmanageronline.com/en/support/termsofuse/)".
 
 As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
 
