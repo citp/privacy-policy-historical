@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mipi.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629115300id_/http%3A//www.mipi.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mipi.org privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228161654id_/http%3A//www.mipi.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MIPI Alliance
 
