@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rvt.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626140222id_/http%3A//www.rvt.com/privacy.php%3Fpos%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rvt.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228060706id_/http%3A//www.rvt.com/privacy.php%3Fpos%3Dfooter) for the most accurate reproduction.*
 
 # RVT Privacy Agreement
 
@@ -6,7 +6,7 @@
 
 Last Updated: June 29 2010
 
-**Natco Trading Corporation, DBA RV Trader** has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](https://web.archive.org/web/20110626140222id_/http%3A//www.rvt.com/contactus.php). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+**Natco Trading Corporation, DBA RV Trader** has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](https://web.archive.org/web/20111228060706id_/http%3A//www.rvt.com/contactus.php). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 RV Trader is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of the RV Trader Classifieds.   
   
@@ -213,7 +213,9 @@ Back to Top
 
 ### Changes in this Privacy Statement
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
 
 Back to Top
 
