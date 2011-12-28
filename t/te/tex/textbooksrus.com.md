@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the textbooksrus.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318053700id_/http%3A//www.textbooksrus.com/service/policy/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textbooksrus.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228042752id_/http%3A//www.textbooksrus.com/service/policy/privacy-policy.aspx) for the most accurate reproduction.*
 
 # TextbooksRus.com Privacy Policy
 
 Last updated 8/12/08 
 
-When visiting any website, we encourage you to read that website's privacy policy. TextbooksRus is committed to keeping your information private and confidential. 
+When visiting any website, we encourage you to read that website's privacy policy. TextbooksRus.com is committed to keeping your information private and confidential. 
 
 Should you have any suggestions or comments regarding our privacy policy, we encourage you to e-mail us at [help@textbooksrus.com](mailto:help@textbooksrus.com). Our complete contact information, including telephone number and physical mailing address, may be found on [our contact page](http://www.textbooksrus.com/service/contact.aspx). 
 
@@ -62,7 +62,7 @@ Customers may change or review their recorded account information such as addres
 
 ###  Choice/Opt-out
 
-TextbooksRus.com does not use customer’s information for contact other than TextbooksRus pertinent business. However, for customers who wish to opt-out or be removed from TextbooksRus.com special offers and related news, TextbooksRus.com provides several methods to accomplish this request. Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by un-checking the "permission to send" field when processing their order. They may also send us an e-mail to [ help@textbooksrus.com](mailto:help@textbooksrus.com) with a request to be removed. Or, customers may also use the link provided with all communications to automatically unsubscribe. 
+TextbooksRus.com does not use customer’s information for contact other than TextbooksRus.com pertinent business. However, for customers who wish to opt-out or be removed from TextbooksRus.com special offers and related news, TextbooksRus.com provides several methods to accomplish this request. Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by un-checking the "permission to send" field when processing their order. They may also send us an e-mail to [ help@textbooksrus.com](mailto:help@textbooksrus.com) with a request to be removed. Or, customers may also use the link provided with all communications to automatically unsubscribe. 
 
 ###  Notification of Changes
 
