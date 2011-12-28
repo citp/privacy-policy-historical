@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynamicdrive.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406105228id_/http%3A//www.dynamicdrive.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamicdrive.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228175539id_/http%3A//www.dynamicdrive.com/privacy.htm) for the most accurate reproduction.*
 
 # Dynamic Drive- Privacy Statement
 
