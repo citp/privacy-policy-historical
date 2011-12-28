@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getuncommon.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623191025id_/http%3A//www.getuncommon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getuncommon.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228192634id_/http%3A//www.getuncommon.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Uncommon
 
@@ -47,9 +47,8 @@ If you have questions or concerns regarding this statement, you should first con
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
 Uncommon LLC  
-1032 W Fulton Market  
-Suite 201  
+1556 W. Carroll  
+#202  
 Chicago IL, 60607
 
-+1 877 MYUNCOMMON  
-E-Mail: [ryan.lee@getuncommon.com](mailto:ryan.lee@getuncommon.com)
++1 877 MYUNCOMMON
