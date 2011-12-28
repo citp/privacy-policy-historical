@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the coffeedetective.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623024903id_/http%3A//www.coffeedetective.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeedetective.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228083249id_/http%3A//www.coffeedetective.com/privacy.html) for the most accurate reproduction.*
 
 # Coffee Detective Privacy Policy and Contact Information
 
+|  |   |   
   
-
-
 ## About Coffee Detective – our privacy policy and contact information.
 
 If you sign up for the [Coffee Detective Newsletter](http://www.coffeedetective.com/coffee-detective-newsletter.html), we do ask you for your first name and your email address. That information remains secure and private. We will never share, trade or in any way disclose that information to anyone else.
@@ -28,6 +27,22 @@ Quebec H1G 1A3
 Canada. 
 
   
-**Share this page:  **| | | |   
+
+
+### New! Comments
+
+Have your say about what you just read! Leave me a comment in the box below. | **Share this page:  **| | | |   
 ---|---|---|---|---  
-| | | 
+| | |   
+  
+© Copyright 2006-2011. CoffeeDetective.com. All rights reserved.  
+No reproduction permitted without permission.  
+  
+**Our most popular  
+pages.**
+
+[How to Make Coffee](http://www.coffeedetective.com/how-to-make-coffee.html)
+
+[Best Coffee Makers](http://www.coffeedetective.com/best-coffee-makers.html)
+
+[Single Cup Coffee Makers](http://www.coffeedetective.com/single-cup-coffee-brewers.html)
