@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the catalink.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406022631id_/http%3A//www.catalink.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalink.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228204618id_/http%3A//www.catalink.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Catalink Privacy Policy
 
   
-Catalink is a member of the Lifestyle Media Group Ltd, which is registered under the Data Protection Act and as such is committed to respecting your privacy. By joining Catalink your login and password will work on all sites within Lifestyle Media Group. Details of these sites can be found at [www.lmgltd.co.uk](http://www.lmgltd.co.uk/). Please read the following information which outlines our privacy policy. Please read the following information which outlines our privacy policy.
+Catalink is a member of the Lifestyle Media Group Ltd, which is registered under the Data Protection Act and as such is committed to respecting your privacy. By joining Catalink your login and password will work on all sites within Lifestyle Media Group. Details of these sites can be found at [www.lmgltd.co.uk](http://www.lmgltd.co.uk/). Please read the following information which outlines our privacy policy.
 
 **UNSUBSCRIBING**  
-Simply log into your account and then click the **My Details** link at the top of the page and you will be presented with your subscription options. When you join you are automatically opted in to receive information from LMG such as the Catalink and TravelBrochures monthly newsletters. Please visit your **My Details** page if you wish to change these options. When you request information from one of our clients you are automatically opted in to receive future editions of their literature and any special offers both by mail and email, you can alter this option by going to the **My Details** page.
+Simply log into your account and then click the **My Details** link at the top of the page and you will be presented with your subscription options. When you join you are automatically opted in to receive information from LMG such as the Catalink and TravelBrochures monthly newsletters. Please visit your **My Details** page if you wish to change these options. When you request information from one of our clients you are automatically opted in to receive future editions of their literature and any special offers both by mail and email, you can alter this option by going to the **My Details** page.  
+**Please Note:** Due to the logistics involved in managing over 2 million members, unsubscribing from all emails can take approximately 30 days.
 
   
  **OUR POLICY ON PERSONAL DATA**
 
-You will be deemed to have accepted the following terms in relation to any information about yourself which you choose to submit to an LMG website or send to us by any other method (”personal information”). If you do not agree to these terms do not submit any personal information to us. If you wish to discuss our proposed uses of your personal information, or have any complaints please [click here](http://www.catalink.com/contact_us.php).
+You will be deemed to have accepted the following terms in relation to any information about yourself which you choose to submit to an LMG website or send to us by any other method (”personal information”). If you do not agree to these terms do not submit any personal information to us. If you wish to discuss our proposed uses of your personal information, or have any comments or complaints please [click here](http://www.catalink.com/contact_us.php).
 
 **COOKIES  
 ** Cookies are pieces of data that are often created when you visit a website, and which are stored in the cookie directory of your computer.
@@ -45,7 +46,7 @@ Log files do not contain any personal information and they are not used to ident
 > 
 > With selected third parties for marketing purposes including sending you brochures, catalogues, promotional fulfilment and other marketing material (and otherwise contacting you including by SMS, phone or email).
 > 
-> With suppliers to operate LMG websites, who may contact you in relation to services or literature you request or view on our websites, and with other users to forward messages from other users of LMG websites.
+> With suppliers who operate LMG websites, who may contact you in relation to services or literature you request or view on our websites, and with other users to forward messages from other users of LMG websites.
 > 
 > If you would not like to receive marketing information about us or third parties please visit your **My Details** page.
 > 
@@ -61,10 +62,8 @@ If you are aged over sixteen but under 18;
 
 We will always follow strict security procedures in storing, using and sharing the information you give us, in order to prevent unauthorised access to it. These security procedures may mean that proof of your identity may sometimes be required before information can be disclosed to you. 
 
-  
 The Catalink website is owned and operated by the Lifestyle Media Group Ltd  
 Lifestyle Media Group Ltd is registered under the Data Protection Act number: Z4899775  
 Lifestyle Media Group Ltd is a member of the Institute of Direct Marketing (IDM) and the Direct Marketing Association (DMA)  
 Lifestyle Media Group Ltd is a Private Limited Company registered in England and Wales, company number 3871517  
-Lifestyle Media Group Ltd trades from Gresham Court, Wendens Ambo, Essex CB11 4LG, United Kingdom  
-
+Lifestyle Media Group Ltd trades from Gresham Court, Wendens Ambo, Essex CB11 4LG, United Kingdom
