@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tips.net privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209023712id_/http%3A//www.tips.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tips.net privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228070203id_/http%3A//www.tips.net/privacy.html) for the most accurate reproduction.*
 
 # Tips.Net: Privacy Policy
 
@@ -26,4 +26,8 @@ We will not share our newsletter subscription lists with others, period. We will
 
    
  **Collection of Information by Third Parties**  
-The Tips.Net network relies on third parties to provide some of the advertising you see on our sites. Information collected by those third parties, if any, is covered by those parties' privacy policies and is beyond the ability of Tips.Net to monitor or control. For instance, some third parties may collect information about your browsing preferences or habits. That information is not collected or maintained by Sharon Parq Associates, Inc. Contact information for the third parties we use is availabe upon request to allen (at) sharonpart.com.
+The Tips.Net network relies on third parties to provide some of the advertising you see on our sites. Information collected by those third parties, if any, is covered by those parties' privacy policies and is beyond the ability of Tips.Net to monitor or control. For instance, some third parties may collect information about your browsing preferences or habits. That information is not collected or maintained by Sharon Parq Associates, Inc.
+
+The Tips.Net network also relies upon Google Analytics to provide analytical information regarding the use of our sites. Information about privacy policies related to this service is [available from Google](http://www.google.com/intl/en/analytics/privacyoverview.html).
+
+Contact information for the third parties we use is availabe upon request to allen (at) sharonparq.com.
