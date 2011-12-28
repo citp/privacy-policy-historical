@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the boyslife.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629094057id_/http%3A//boyslife.org/home/449/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boyslife.org privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228143834id_/https%3A//boyslife.org/home/449/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy -- Boys' Life magazine
 
-  
 _Boys’ Life_ magazine and the Boy Scouts of America are committed to respecting and protecting the personal privacy of its readers and those who visit its Web site. It is our policy to acquire personal information from users only by overt and voluntary means, only when it is in the interest of the user to provide it, and to utilize this information only for the purpose it was provided.
 
 The information that follows explains the kinds of information the _Boys’ Life_ Web site collects, how it is used, the conditions under which it is made available to third parties, how information is maintained, and our compliance with the Children’s Online Privacy Protection Act.
