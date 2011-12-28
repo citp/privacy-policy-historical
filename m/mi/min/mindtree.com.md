@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindtree.com privacy policy that was archived on 2011-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110306112603id_/http%3A//www.mindtree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindtree.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228035427id_/http%3A//www.mindtree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MindTree
 
