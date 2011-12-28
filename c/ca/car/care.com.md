@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the care.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222010155id_/http%3A//www.care.com/privacy-policy-p1013.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the care.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228230210id_/http%3A//www.care.com/privacy-policy-p1013.html) for the most accurate reproduction.*
 
 # Privacy Policy - Care.com
 
-**Last Updated: May 28, 2009**
+**Last Updated: February 8, 2011**
 
 Care.com, Inc. ("Care.com") is committed to protecting the privacy of your information. We recognize that privacy is of utmost importance, and operate our company with protecting your sensitive personal information in mind. This privacy policy covers the service offered at the [Care.com](http://www.care.com/) Website (the "Site") and outlines the type of information we collect, its uses, and steps we take to safeguard it.
 
@@ -51,7 +51,7 @@ We do not share your personal information with other third parties except as per
 
 
 **Your Choices**  
-Care.com provides users the ability to opt-out of receiving email communications from us. If you wish to cease future communications, you can opt-out by using the link on the bottom of an email that you receive from Care.com or, if you are a registered member, by visiting the Profile section of your account.
+By becoming a Care.com member, you are consenting to receive certain email communications from us, including newsletters, special offers, and customer surveys. Care.com provides users the ability to opt-out of receiving such email communications. If you wish to cease future communications, you can opt-out by using the link on the bottom of an email that you receive from Care.com or, if you are a registered member, by visiting the "Privacy Settings and Preferences" page under "My Profile & Settings" in your account.
 
 Care.com reserves the right to send you specific administrative notices that are required by law, regulation, or as needed to service your account. Administrative notices also include notifications of new messages or job postings in your area and responses to jobs that you have posted. You may not opt-out of receiving these administrative emails.
 
@@ -60,7 +60,7 @@ Care Providers have the ability to suppress certain information, such as their p
 Care.com provides the ability for a user to conduct a background check on themselves with a third-party verification service. If you decide to use this service, a summary of the background check results are made available to you on the Site. You have control over which other users can view the results of your background check. The results may include personal information, such as your first name and last name. Your use of such a service is voluntary.
 
 **Your Access to Personally Identifiable Information**  
-If your personally identifiable information changes, you may update this information by logging into your account and accessing the "Profile" section within "My Account". If you no longer wish to participate in our service you may [contact Care.com Member Care](https://www.care.com/contact-us-p1011.html) and request that your account be closed.
+If your personally identifiable information changes, you may update this information by logging into your account and accessing the "My Profile & Settings" section. If you no longer wish to participate in our service you may [contact Care.com Member Care](https://www.care.com/contact-us-p1011.html) and request that your account be closed. You can also close your account directly by visiting the "Membership Information" page under "My Profile & Settings" in your account. If you are a Care Seeker, this page can be found [here](https://web.archive.org/account-membership-information-p1092.html). If you are a Care Provider, this page can be found [here](https://web.archive.org/account-caregiver-membership-information-p1160.html). 
 
 **How We Protect Your Information**  
 Care.com is committed to earning and keeping your trust and we understand the need to keep your information secure and private. As a result we have implemented industry-recognized safeguards to protect your information. These safeguards include:
@@ -71,7 +71,7 @@ Care.com is committed to earning and keeping your trust and we understand the ne
 
 
 
-Please remember that you also play a valuable role in data security. You should never share your Care.com password with anyone. If you feel your password has been compromised, you should change it immediately by logging into your account and accessing the "Profile" section within "My Account". After you have finished using our Site, you should log out of your Care.com account and exit your browser.
+Please remember that you also play a valuable role in data security. You should never share your Care.com password with anyone. If you feel your password has been compromised, you should change it immediately by logging into your account and visiting the "My Profile & Settings" section. After you have finished using our Site, you should log out of your Care.com account and exit your browser.
 
 **Privacy Policy Changes**  
 This Privacy Policy may change, from time to time, due to changes on our Site, legal developments, business factors and ever-changing technology. Notifications to changes of our Privacy Policy will be posted on our Site, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
@@ -81,5 +81,5 @@ If you have any questions on our Privacy Policy, you can contact us at:
 
 Legal Department   
 Care.com, Inc.   
-1400 Main Street   
+201 Jone Road, Suite 500   
 Waltham, MA 02451 USA 
