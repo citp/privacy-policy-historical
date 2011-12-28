@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lmgtfy.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613053759id_/http%3A//www.lmgtfy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lmgtfy.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228131518id_/http%3A//www.lmgtfy.com/privacy.html) for the most accurate reproduction.*
 
-# Let me google that for you
+# LMGTFY Privacy Policy
 
 This is the web site of LMGTFY, LLC.
 
@@ -8,7 +8,7 @@ For each visitor to our Web page, our Web server automatically recognizes no inf
 
 We collect aggregate information on what pages consumers access or visit.
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page.
+The information we collect is used for internal review to improve the content of our site. Anonymous search history is also published to [LMGTFY Live](http://live.lmgtfy.com/). Afterwards, all information is then discarded.
 
 With respect to cookies: We do not set any cookies.
 
@@ -18,4 +18,4 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
 
-© LMGTFY, 2009 | GOOGLE is a trademark of Google Inc.
+© LMGTFY, 2009-2011 | GOOGLE is a trademark of Google Inc. | Not associated with Google™ in any way.
