@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the shotgunworld.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511064442id_/http%3A//www.shotgunworld.com/bbs/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shotgunworld.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228191440id_/http%3A//www.shotgunworld.com/bbs/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
 # Shotgunworld.com • User Control Panel • Privacy policy
 
-  
-[](https://privacy-policy.truste.com/click-with-confidence/wps/en/www.shotgunworld.com/seal_m "TRUSTe online privacy certification")
-
 **Privacy Policy**  
-Effective December 22, 2010  
+Effective August 22, 2011  
 Shotgunworld LLC is the operator of [www.shotgunworld.com](http://www.shotgunworld.com/). As part of its business Shotgunworld LLC gathers personally identifiable information on its websites as well as anonymous data regarding the website and your activities on the site. Shotgunworld LLC takes its privacy obligations very seriously.   
 Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.  
-Shotgunworld LLC has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [customerservice@shotgunworld.com](mailto:customerservice@shotgunworld.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).  
+If you have questions or complaints regarding our privacy policy or practices, please contact us at [customerservice@shotgunworld.com](mailto:customerservice@shotgunworld.com).   
 
 
 **What Information Do We Collect?**  
@@ -85,7 +82,7 @@ Please remember that when you use a link to go from our Web site to another Web 
 Shotgunworld LLC may make material changes to this Privacy Policy from time to time. Therefore, you should periodically visit this page to view the current Privacy Policy. In the event of a material change to this Privacy Policy, Shotgunworld LLC shall send an email advising of the change to all whose email addresses we have collected and retained pursuant to the terms set forth above. 
 
 Shotgunworld LLC  
-c/o Outside Hub, LLC  
-28400 Northwestern Hwy, Ste 110  
-Southfield, MI 48034  
+c/o Outdoor Hub, LLC  
+30800 Telegraph Road, Ste 4805  
+Bingham Farms, MI 48025  
 
