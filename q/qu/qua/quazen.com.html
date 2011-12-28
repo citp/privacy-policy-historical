@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the quazen.com privacy policy that was archived on 2010-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223025455id_/http%3A//quazen.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quazen.com privacy policy that was archived on 2011-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228214759id_/http%3A//quazen.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -41,6 +41,47 @@
 <meta property="og:site_name" content="Quazen">
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:url" content="http://quazen.com/privacy-policy/">
+<meta property="og:description" content="Flag It
+						Spam
+						Adult Content
+						Plagiarism
+						Insufficient Quality
+						Wrong Category
+					
+				
+					
+					
+				
+					
+						Select the Right Category
+						About Writing
+						Autos
+						Books
+						Business
+						Computers
+						Creative Writing
+						Domestic
+						Gaming
+						General
+						Health
+						Internet
+						Movies
+						Music
+						News
+						Offbeat
+						Pets
+						Poetry
+						Recipes
+						Religion
+						Science
+						Short Stories
+						Society
+						Sports
+						Television
+						Travel
+						Women
+					
+				if (typeof triond_writer_id != &quot;undefined&quot;) document.getElementById('flagit_div').style.display='block';">
 <meta property="og:type" content="article">
 <script type="text/javascript" src="http://quazen.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
 <script type="text/javascript">
@@ -50,7 +91,7 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
    document.getElementById('iLikeItLinkDiv').innerHTML = '';
    document.getElementById('iLikeItNumber').innerHTML = '<img src="http://quazen.com/wp-content/themes/quazen/images/i-like-it-load.gif" />';
    var mysack = new sack( 
-       "http://quazen.com/wp-content/mu-plugins/w4l/w4l_i_like_it_ajax.php" );    
+       "/wp-content/mu-plugins/w4l/w4l_i_like_it_ajax.php" );    
 
   mysack.execute = 1;
   mysack.method = 'POST';
@@ -59,6 +100,53 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
   mysack.setVar( "post_id", post_id );
   mysack.setVar( "results_div_id", "iLikeItNumber" );
   mysack.onError = function() { alert('Ajax error in voting' )};
+  mysack.runAJAX();
+
+  return true;
+
+} // end of JavaScript function myplugin_cast_vote
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+function flagReasonChanged(article_id){
+	if (document.getElementById('flagReasonsSelect').value == '') return false;
+	
+	if (document.getElementById('flagReasonsSelect').value == 'redirect'){
+		document.getElementById('masterCategoriesDiv').style.display='block';
+		document.getElementById('palagrizedUrlDiv').style.display='none';
+	}
+	else if (document.getElementById('flagReasonsSelect').value == 'plagiarism'){
+		document.getElementById('palagrizedUrlDiv').style.display='block';
+		document.getElementById('masterCategoriesDiv').style.display='none';
+	}
+	else
+		doFlagIt(article_id);
+		
+}           
+           
+function doFlagIt( article_id)
+{
+   var reason = document.getElementById('flagReasonsSelect').value;
+   var to_master_category_id = document.getElementById('masterCategoriesSelect').value;
+   var palagrized_url = encodeURIComponent(document.getElementById('palagrizedUrl').value);
+
+   if (reason == 'plagiarism' && palagrized_url.indexOf('http') < 0) return false;
+   if (reason != 'plagiarism') palagrized_url = '';
+	
+   document.getElementById('flagit_div').innerHTML = '';
+   document.getElementById('flagit_div').innerHTML = '<p>Thank you!</p>';
+   var mysack = new sack( 
+       "/wp-content/mu-plugins/w4l/w4l_flag_it_ajax.php" );    
+
+  mysack.execute = 1;
+  mysack.method = 'POST';
+  mysack.setVar( "article_id", article_id );
+  mysack.setVar( "by_writer_id", triond_writer_id);
+  mysack.setVar( "reason", reason);
+  mysack.setVar( "to_master_category_id", to_master_category_id);
+  mysack.setVar( "palagrized_url", palagrized_url);
+  mysack.onError = function() { alert('Ajax error in flagging' )};
   mysack.runAJAX();
 
   return true;
@@ -120,7 +208,7 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
 function showTriondSignupForm()
 {
    var mysack = new sack( 
-       "http://quazen.com/wp-content/plugins/triond-signup/triond_signup_form_ajax.php" );    
+       "/wp-content/plugins/triond-signup/triond_signup_form_ajax.php" );    
 
   mysack.execute = 0;
   mysack.method = 'GET';
@@ -133,33 +221,38 @@ function showTriondSignupForm()
 //]]>
 </script>
 <meta name="google-site-verification" content="gnL1f3tA58Dwzs5dD3Rrb38iHNTYvaveWHCXk8uyl_8">
-<!--
-	generated because: No batcache item found
-	70a22e74feaf4aec4bc93710f656bfdf generated in 0.510 seconds
-	38947 bytes batcached for 300 seconds
--->
 </head>
-<body>	<div id="wrapper">
+<body>
+ 
+		<script type="text/javascript" src="http://www.triond.com/login/is-logged-in"></script>
+	<div id="wrapper">
     	<div class="container">
     		<div id="ad728">
     			
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=527");
-   document.write ("&clr_link=5984A7&clr_title=5984A7&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=111111&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=527&amp;clr_link=5984A7&amp;clr_title=5984A7&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=111111&amp;source=acf=&amp;cb=61136257813&amp;loc=https%3A//web.archive.org/web/20101223025455id_/http%3A//quazen.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=1433bf&amp;cb=50ad2d4aeae46591ac26cbbf3fc29324' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=527&amp;cb=50ad2d4aeae46591ac26cbbf3fc29324&amp;n=1433bf' border='0' alt='' /></a></noscript>    		</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=527");
+					   document.write ("&clr_link=5984A7&clr_title=5984A7&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=111111&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=527&amp;clr_link=5984A7&amp;clr_title=5984A7&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=111111&amp;source=acf=nontriond&amp;cb=98160322829&amp;loc=https%3A//web.archive.org/web/20111228214759id_/http%253A//quazen.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=4ff9c2&amp;cb=7073c1921e68acd9ac694f33f5fb85eb' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=527&amp;cb=7073c1921e68acd9ac694f33f5fb85eb&amp;n=4ff9c2' border='0' alt='' /></a></noscript>    		</div>
             <div id="header">
                 <div id="logo">
                     <span>
@@ -216,7 +309,49 @@ function showTriondSignupForm()
 <p>Quazen is committed to handling your personal information with the highest standards of security information. Quazen shall maintain physical, electronic and procedural safeguards to maintain the secrecy of the personal information, and will test its security syste ms regularly.</p>
 <p>7.  Contact .</p>
 <p>If you have any questions about this Privacy Policy or your dealings with Quazen, you can contact us at: +97236440435 Monday through Thursday between 10:00 – 18:00 GMT, or write to as at webmaster@quazen.com .</p>
-                                                        </div>
+<div id="flagit_div" class="flagItDiv" style="display:none;margin-top:3px;margin-bottom:10px;height:25px;"><div id="flagReasonsDiv" style="display:block;float:left;margin-right:5px;">
+					<select id="flagReasonsSelect" onchange="flagReasonChanged();" style="font-size:11px;">
+						<option value="">Flag It</option>
+						<option value="spam">Spam</option>
+						<option value="adult">Adult Content</option>
+						<option value="plagiarism">Plagiarism</option>
+						<option value="insufficient-quality">Insufficient Quality</option>
+						<option value="redirect">Wrong Category</option>
+					</select>
+				</div><div id="palagrizedUrlDiv" style="display:none;float:left;">
+					<input type="text" id="palagrizedUrl" style="font-size:11px;" value="enter plagiarized url...">
+					<input type="button" onclick="doFlagIt()" style="font-size:11px;" value="Go">
+				</div><div id="masterCategoriesDiv" style="display:none;float:left;">
+					<select id="masterCategoriesSelect" onchange="doFlagIt();" style="font-size:11px;">
+						<option value="">Select the Right Category</option>
+						<option value="27">About Writing</option>
+						<option value="59">Autos</option>
+						<option value="21">Books</option>
+						<option value="16">Business</option>
+						<option value="22">Computers</option>
+						<option value="3">Creative Writing</option>
+						<option value="13">Domestic</option>
+						<option value="6">Gaming</option>
+						<option value="2">General</option>
+						<option value="8">Health</option>
+						<option value="20">Internet</option>
+						<option value="19">Movies</option>
+						<option value="26">Music</option>
+						<option value="30">News</option>
+						<option value="29">Offbeat</option>
+						<option value="55">Pets</option>
+						<option value="54">Poetry</option>
+						<option value="9">Recipes</option>
+						<option value="11">Religion</option>
+						<option value="32">Science</option>
+						<option value="57">Short Stories</option>
+						<option value="12">Society</option>
+						<option value="17">Sports</option>
+						<option value="18">Television</option>
+						<option value="15">Travel</option>
+						<option value="53">Women</option>
+					</select>
+				</div></div><script type="text/javascript">if (typeof triond_writer_id != "undefined") document.getElementById('flagit_div').style.display='block';</script>                                                        </div>
                 
             </div>
             <div id="sidebar">
@@ -233,23 +368,30 @@ function showTriondSignupForm()
 		
 		<li id="ad300">
 			
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=147");
-   document.write ("&clr_link=5984A7&clr_title=5984A7&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=111111&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=147&amp;clr_link=5984A7&amp;clr_title=5984A7&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=111111&amp;source=acf=&amp;cb=69533513162&amp;loc=https%3A//web.archive.org/web/20101223025455id_/http%3A//quazen.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=e06484&amp;cb=324a5e302e80aab4357ab256a9cfed73' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=147&amp;cb=324a5e302e80aab4357ab256a9cfed73&amp;n=e06484' border='0' alt='' /></a></noscript>		</li>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=147");
+					   document.write ("&clr_link=5984A7&clr_title=5984A7&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=111111&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=147&amp;clr_link=5984A7&amp;clr_title=5984A7&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=111111&amp;source=acf=nontriond&amp;cb=93805518822&amp;loc=https%3A//web.archive.org/web/20111228214759id_/http%253A//quazen.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=180354&amp;cb=e0683bcf52a16b4fce8dadb414ece48f' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=147&amp;cb=e0683bcf52a16b4fce8dadb414ece48f&amp;n=180354' border='0' alt='' /></a></noscript>		</li>
     
         <li id="search_plugin" class="widget">
             <div class="sidebar-title">Search Quazen</div>
@@ -268,57 +410,98 @@ function showTriondSignupForm()
 		<li id="ad160Wrapper">
 			<div id="ad160-1">
 				
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=811");
-   document.write ("&clr_link=5984A7&clr_title=5984A7&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=111111&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=811&amp;clr_link=5984A7&amp;clr_title=5984A7&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=111111&amp;source=acf=&amp;cb=87324920511&amp;loc=https%3A//web.archive.org/web/20101223025455id_/http%3A//quazen.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=3cc023&amp;cb=049b5282b9be20161691ed4a57c0ece9' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=811&amp;cb=049b5282b9be20161691ed4a57c0ece9&amp;n=3cc023' border='0' alt='' /></a></noscript>			</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=811");
+					   document.write ("&clr_link=5984A7&clr_title=5984A7&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=111111&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=811&amp;clr_link=5984A7&amp;clr_title=5984A7&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=111111&amp;source=acf=nontriond&amp;cb=51641125078&amp;loc=https%3A//web.archive.org/web/20111228214759id_/http%253A//quazen.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=7ea158&amp;cb=1c333cd16fb44d9f55cd48ae4441a4ef' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=811&amp;cb=1c333cd16fb44d9f55cd48ae4441a4ef&amp;n=7ea158' border='0' alt='' /></a></noscript>			</div>
 			<div id="ad160-2">
 				
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=480");
-   document.write ("&clr_link=5984A7&clr_title=5984A7&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=111111&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=480&amp;clr_link=5984A7&amp;clr_title=5984A7&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=111111&amp;source=acf=&amp;cb=17800640971&amp;loc=https%3A//web.archive.org/web/20101223025455id_/http%3A//quazen.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=9730c3&amp;cb=c4e11d4be48d9aa1bddfa7eacba0971f' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=480&amp;cb=c4e11d4be48d9aa1bddfa7eacba0971f&amp;n=9730c3' border='0' alt='' /></a></noscript>			</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=480");
+					   document.write ("&clr_link=5984A7&clr_title=5984A7&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=111111&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=480&amp;clr_link=5984A7&amp;clr_title=5984A7&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=111111&amp;source=acf=nontriond&amp;cb=98879725029&amp;loc=https%3A//web.archive.org/web/20111228214759id_/http%253A//quazen.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=0ab1b3&amp;cb=d0861c579250559b13ae176fd0a162e8' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=480&amp;cb=d0861c579250559b13ae176fd0a162e8&amp;n=0ab1b3' border='0' alt='' /></a></noscript>			</div>
 			<div class="clear"></div>
 		</li>
 
  			<li id="popular-posts" class="widget">
                 <div class="sidebar-title">Popular Articles</div>
                 <ul>
-                    <li><div class="popularPostImgDiv"><a href="http://quazen.com/shopping/super-zoom-digicam/" title="Super Zoom Digicam"><img src="http://s3.amazonaws.com/readers/quazen/2008/04/02/136481.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://quazen.com/shopping/super-zoom-digicam/" title="Super Zoom Digicam">Super Zoom Digicam</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://quazen.com/shopping/gifts/wrap-a-beautiful-package/" title="Wrap a Beautiful Package"><img src="http://s3.amazonaws.com/readers/quazen/2007/09/26/63007.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://quazen.com/shopping/gifts/wrap-a-beautiful-package/" title="Wrap a Beautiful Package">Wrap a Beautiful Package</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://quazen.com/arts/visual-arts/fuel-your-creativity-by-sketching-out-your-ideas/" title="Fuel Your Creativity by Sketching Out Your Ideas"><img src="http://s3.amazonaws.com/readers/quazen/2009/07/09/1145655.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://quazen.com/arts/visual-arts/fuel-your-creativity-by-sketching-out-your-ideas/" title="Fuel Your Creativity by Sketching Out Your Ideas">Fuel Your Creativity by Sketching Out Your Ideas</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://quazen.com/recreation/autos/how-to-buy-insurance-for-car/" title="How to Buy Insurance for Car"><img src="http://s3.amazonaws.com/readers/quazen/2008/02/24/117189.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://quazen.com/recreation/autos/how-to-buy-insurance-for-car/" title="How to Buy Insurance for Car">How to Buy Insurance for Car</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://quazen.com/shopping/how-to-choose-the-best-wrinkle-cream-that-really-works/" title="How to Choose The Best Wrinkle Cream That Really Works?"><img src="http://s3.amazonaws.com/readers/beyondjane/2008/09/01/305585.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://quazen.com/shopping/how-to-choose-the-best-wrinkle-cream-that-really-works/" title="How to Choose The Best Wrinkle Cream That Really Works?">How to Choose The Best Wrinkle Cream That Really Works?</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://quazen.com/shopping/garlic-is-real-good-for-your-heart/" title="Garlic is Real Good for Your Heart"><img src="http://s3.amazonaws.com/readers/2009/07/28/1204017.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://quazen.com/shopping/garlic-is-real-good-for-your-heart/" title="Garlic is Real Good for Your Heart">Garlic is Real Good for Your Heart</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://quazen.com/shopping/clothing/born-to-shop/" title="Born to Shop"><img src="http://s3.amazonaws.com/readers/quazen/2007/12/06/87466.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://quazen.com/shopping/clothing/born-to-shop/" title="Born to Shop">Born to Shop</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://quazen.com/shopping/why-is-egg-nog-called-egg-nog/" title="Why is Egg Nog Called Egg Nog?"><img src="http://s3.amazonaws.com/readers/notecook/2008/08/22/285233.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://quazen.com/shopping/why-is-egg-nog-called-egg-nog/" title="Why is Egg Nog Called Egg Nog?">Why is Egg Nog Called Egg Nog?</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://quazen.com/shopping/four-easy-ways-to-handle-womens-hair-loss/" title="Four Easy Ways to Handle Women's Hair Loss"><img src="http://s3.amazonaws.com/readers/beyondjane/2008/07/17/97002.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://quazen.com/shopping/four-easy-ways-to-handle-womens-hair-loss/" title="Four Easy Ways to Handle Women's Hair Loss">Four Easy Ways to Handle Women's Hair Loss</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://quazen.com/arts/architecture/symbols-and-the-origins-of-architecture-part-one/" title="Symbols and The Origins of Architecture - Part One"><img src="http://s3.amazonaws.com/readers/2009/07/25/1202437.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://quazen.com/arts/architecture/symbols-and-the-origins-of-architecture-part-one/" title="Symbols and The Origins of Architecture - Part One">Symbols and The Origins of Architecture - Part One</a></div><div style="clear:both;"></div></li>                </ul>
+                    <li><div class="popularPostImgDiv"><a href="http://yvhes-p.quazen.com/recreation/collecting/bruce-willis-dwayne-johnson-great-addition-in-g-i-joe-two-movie-watch-trailer/" title="Bruce Willis, Dwayne Johnson Great Addition in G.i. Joe Two Movie (Watch Trailer)"><img src="http://s3.amazonaws.com/readers/cinemaroll/2007/07/19/43498.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://yvhes-p.quazen.com/recreation/collecting/bruce-willis-dwayne-johnson-great-addition-in-g-i-joe-two-movie-watch-trailer/" title="Bruce Willis, Dwayne Johnson Great Addition in G.i. Joe Two Movie (Watch Trailer)">Bruce Willis, Dwayne Johnson Great Addition in G.i. Joe Two Movie (Watch Trailer)</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://ladyelena.quazen.com/shopping/gifts/important-xmas-gifts-for-triond-friends/" title="Important! Xmas Gifts for Triond Friends"><img src="http://s3.amazonaws.com/readers/authspot/2008/12/10/522513.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://ladyelena.quazen.com/shopping/gifts/important-xmas-gifts-for-triond-friends/" title="Important! Xmas Gifts for Triond Friends">Important! Xmas Gifts for Triond Friends</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://ruby-hawk.quazen.com/shopping/the-mayonnaise-jar-and-the-two-beers/" title="The Mayonnaise Jar and The Two Beers"><img src="http://s3.amazonaws.com/readers/healthmad/2009/05/07/936641.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://ruby-hawk.quazen.com/shopping/the-mayonnaise-jar-and-the-two-beers/" title="The Mayonnaise Jar and The Two Beers">The Mayonnaise Jar and The Two Beers</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://aisha-jamal.quazen.com/shopping/my-town-getting-foggy-in-winters/" title="My Town Getting Foggy in Winters!"><img src="http://s3.amazonaws.com/readers/authspot/2009/06/23/1093247.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://aisha-jamal.quazen.com/shopping/my-town-getting-foggy-in-winters/" title="My Town Getting Foggy in Winters!">My Town Getting Foggy in Winters!</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://pattiann.quazen.com/recreation/collecting/beef-olives/" title="Beef Olives"><img src="http://s3.amazonaws.com/readers/gomestic/2007/11/21/81488.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://pattiann.quazen.com/recreation/collecting/beef-olives/" title="Beef Olives">Beef Olives</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://coffeeadict.quazen.com/shopping/therapeutic-value-of-wood-chopping/" title="Therapeutic Value of Wood Chopping"><img src="http://s3.amazonaws.com/readers/healthmad/2009/01/30/658979.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://coffeeadict.quazen.com/shopping/therapeutic-value-of-wood-chopping/" title="Therapeutic Value of Wood Chopping">Therapeutic Value of Wood Chopping</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://love-doctor.quazen.com/shopping/home-and-garden/cleansing-your-body-from-the-inside-out/" title="Cleansing Your Body From The Inside Out"><img src="http://s3.amazonaws.com/readers/beyondjane/2009/05/12/948391.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://love-doctor.quazen.com/shopping/home-and-garden/cleansing-your-body-from-the-inside-out/" title="Cleansing Your Body From The Inside Out">Cleansing Your Body From The Inside Out</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://mphsglo.quazen.com/games/board-games/what-playing-chess-taught-me-about-life/" title="What Playing Chess Taught Me About Life"><img src="http://s3.amazonaws.com/readers/authspot/2007/03/05/19948.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://mphsglo.quazen.com/games/board-games/what-playing-chess-taught-me-about-life/" title="What Playing Chess Taught Me About Life">What Playing Chess Taught Me About Life</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://btrician.quazen.com/shopping/clothing/types-of-bras/" title="Types of Bras"><img src="http://s3.amazonaws.com/readers/purpleslinky/2008/11/11/448259.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://btrician.quazen.com/shopping/clothing/types-of-bras/" title="Types of Bras">Types of Bras</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://vickylass.quazen.com/recreation/collecting/ten-years-without-her/" title="Ten Years Without Her"><img src="http://s3.amazonaws.com/readers/socyberty/2009/06/25/1097639.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://vickylass.quazen.com/recreation/collecting/ten-years-without-her/" title="Ten Years Without Her">Ten Years Without Her</a></div><div style="clear:both;"></div></li>                </ul>
             </li>
+    		
+    		<li id="ad300">
+				
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1470");
+					   document.write ("&clr_link=5984A7&clr_title=5984A7&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=111111&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1470&amp;clr_link=5984A7&amp;clr_title=5984A7&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=111111&amp;source=acf=nontriond&amp;cb=45866989921&amp;loc=https%3A//web.archive.org/web/20111228214759id_/http%253A//quazen.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=584193&amp;cb=cc0c3a21e03621e47c1241433fa0cdbf' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1470&amp;cb=cc0c3a21e03621e47c1241433fa0cdbf&amp;n=584193' border='0' alt='' /></a></noscript>			</li>        
             
             
-	<script type="text/javascript" src="http://www.triond.com/login/is-logged-in"></script>
+            
 	<div id="triond-signup-div" style="display:none">
 	</div>
 	<script type="text/javascript">
-	if(triond_user_logged_in != undefined)
+	if(typeof triond_user_logged_in != "undefined")
 	{
 		if(!triond_user_logged_in)
 		{
@@ -328,25 +511,6 @@ function showTriondSignupForm()
 	}
 	</script>
 	
-	<li>				
-		<div class="sidebar-title">Video of the Day</div>
-		<div id="SmartPlayer2"></div>
-		<script type="text/javascript">
-		var playerSeed = new PlayerSeed('SmartPlayer2');
-		playerSeed.sid = 332;
-		playerSeed.width = '300';
-		playerSeed.height = '250';
-		playerSeed.videoControlDisplayColor = '#F2F2F2';
-		playerSeed.featured = true;
-		playerSeed.categories = '1';
-		playerSeed.overlay= true;
-		playerSeed.autoStart= false;
-		playerSeed.companionPos= 'bottom';
-		playerSeed.hasCompanion=true;
-		playerSeed.Load();
-		</script>
-	</li>
-            
         	<li id="categories" class="widget">
                 <div class="sidebar-title">Categories</div>
                 <ul>
@@ -371,57 +535,8 @@ function showTriondSignupForm()
         			<iframe src="http://www.facebook.com/plugins/activity.php?site=quazen.com&amp;width=300&amp;height=300&amp;header=true&amp;colorscheme=light&amp;recommendations=true&amp;ref=fb_activity" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:300px;" allowtransparency="true"></iframe>
         	</li>
         			
-        	 <li id="popular-tags" class="widget">
-                <div class="sidebar-title">Popular Tags</div>
-                <ul>
-                    <a href="http://quazen.com/tag/apple/" class="tag-link-5217" title="487 topics" rel="tag" style="font-size: 12.194407456724pt;">Apple</a>
-<a href="http://quazen.com/tag/art/" class="tag-link-3991" title="1,013 topics" rel="tag" style="font-size: 22pt;">art</a>
-<a href="http://quazen.com/tag/best/" class="tag-link-1557" title="435 topics" rel="tag" style="font-size: 11.225033288948pt;">best</a>
-<a href="http://quazen.com/tag/building/" class="tag-link-10655" title="314 topics" rel="tag" style="font-size: 8.9693741677763pt;">building</a>
-<a href="http://quazen.com/tag/business/" class="tag-link-1291" title="277 topics" rel="tag" style="font-size: 8.2796271637816pt;">Business</a>
-<a href="http://quazen.com/tag/camera/" class="tag-link-15107" title="313 topics" rel="tag" style="font-size: 8.9507323568575pt;">Camera</a>
-<a href="http://quazen.com/tag/card/" class="tag-link-26457" title="413 topics" rel="tag" style="font-size: 10.814913448735pt;">Card</a>
-<a href="http://quazen.com/tag/cards/" class="tag-link-26483" title="496 topics" rel="tag" style="font-size: 12.362183754993pt;">Cards</a>
-<a href="http://quazen.com/tag/children/" class="tag-link-1639" title="438 topics" rel="tag" style="font-size: 11.280958721704pt;">Children</a>
-<a href="http://quazen.com/tag/christmas/" class="tag-link-253" title="593 topics" rel="tag" style="font-size: 14.170439414115pt;">Christmas</a>
-<a href="http://quazen.com/tag/college/" class="tag-link-7137" title="473 topics" rel="tag" style="font-size: 11.933422103862pt;">college</a>
-<a href="http://quazen.com/tag/crafts/" class="tag-link-25803" title="262 topics" rel="tag" style="font-size: 8pt;">Crafts</a>
-<a href="http://quazen.com/tag/deck/" class="tag-link-50437" title="367 topics" rel="tag" style="font-size: 9.9573901464714pt;">deck</a>
-<a href="http://quazen.com/tag/education/" class="tag-link-2669" title="511 topics" rel="tag" style="font-size: 12.641810918775pt;">education</a>
-<a href="http://quazen.com/tag/family/" class="tag-link-1449" title="334 topics" rel="tag" style="font-size: 9.3422103861518pt;">family</a>
-<a href="http://quazen.com/tag/fashion/" class="tag-link-2667" title="279 topics" rel="tag" style="font-size: 8.3169107856192pt;">Fashion</a>
-<a href="http://quazen.com/tag/food/" class="tag-link-1377" title="578 topics" rel="tag" style="font-size: 13.890812250333pt;">Food</a>
-<a href="http://quazen.com/tag/fun/" class="tag-link-2383" title="516 topics" rel="tag" style="font-size: 12.735019973369pt;">fun</a>
-<a href="http://quazen.com/tag/gambling/" class="tag-link-1101" title="290 topics" rel="tag" style="font-size: 8.5219707057257pt;">Gambling</a>
-<a href="http://quazen.com/tag/game/" class="tag-link-2537" title="271 topics" rel="tag" style="font-size: 8.167776298269pt;">game</a>
-<a href="http://quazen.com/tag/games/" class="tag-link-6737" title="413 topics" rel="tag" style="font-size: 10.814913448735pt;">Games</a>
-<a href="http://quazen.com/tag/gathering/" class="tag-link-48213" title="363 topics" rel="tag" style="font-size: 9.8828229027963pt;">gathering</a>
-<a href="http://quazen.com/tag/gifts/" class="tag-link-13061" title="344 topics" rel="tag" style="font-size: 9.5286284953395pt;">Gifts</a>
-<a href="http://quazen.com/tag/health/" class="tag-link-5597" title="810 topics" rel="tag" style="font-size: 18.215712383489pt;">health</a>
-<a href="http://quazen.com/tag/history/" class="tag-link-2059" title="435 topics" rel="tag" style="font-size: 11.225033288948pt;">history</a>
-<a href="http://quazen.com/tag/how-to/" class="tag-link-7109" title="314 topics" rel="tag" style="font-size: 8.9693741677763pt;">how to</a>
-<a href="http://quazen.com/tag/iphone/" class="tag-link-26739" title="538 topics" rel="tag" style="font-size: 13.145139813582pt;">Iphone</a>
-<a href="http://quazen.com/tag/ipod/" class="tag-link-23767" title="360 topics" rel="tag" style="font-size: 9.8268974700399pt;">iPod</a>
-<a href="http://quazen.com/tag/kids/" class="tag-link-2771" title="359 topics" rel="tag" style="font-size: 9.8082556591212pt;">kids</a>
-<a href="http://quazen.com/tag/life/" class="tag-link-1267" title="695 topics" rel="tag" style="font-size: 16.07190412783pt;">life</a>
-<a href="http://quazen.com/tag/love/" class="tag-link-581" title="510 topics" rel="tag" style="font-size: 12.623169107856pt;">Love</a>
-<a href="http://quazen.com/tag/magic/" class="tag-link-3375" title="530 topics" rel="tag" style="font-size: 12.996005326232pt;">magic</a>
-<a href="http://quazen.com/tag/money/" class="tag-link-647" title="612 topics" rel="tag" style="font-size: 14.524633821571pt;">money</a>
-<a href="http://quazen.com/tag/mtg/" class="tag-link-187115" title="449 topics" rel="tag" style="font-size: 11.486018641811pt;">MTG</a>
-<a href="http://quazen.com/tag/music/" class="tag-link-1075" title="314 topics" rel="tag" style="font-size: 8.9693741677763pt;">Music</a>
-<a href="http://quazen.com/tag/photography/" class="tag-link-6991" title="522 topics" rel="tag" style="font-size: 12.846870838881pt;">Photography</a>
-<a href="http://quazen.com/tag/review/" class="tag-link-309" title="312 topics" rel="tag" style="font-size: 8.9320905459387pt;">review</a>
-<a href="http://quazen.com/tag/school/" class="tag-link-3277" title="638 topics" rel="tag" style="font-size: 15.009320905459pt;">school</a>
-<a href="http://quazen.com/tag/shopping/" class="tag-link-2465" title="647 topics" rel="tag" style="font-size: 15.177097203728pt;">Shopping</a>
-<a href="http://quazen.com/tag/the/" class="tag-link-1905" title="312 topics" rel="tag" style="font-size: 8.9320905459387pt;">the</a>
-<a href="http://quazen.com/tag/tips/" class="tag-link-7481" title="628 topics" rel="tag" style="font-size: 14.822902796272pt;">tips</a>
-<a href="http://quazen.com/tag/top/" class="tag-link-1995" title="353 topics" rel="tag" style="font-size: 9.6964047936085pt;">top</a>
-<a href="http://quazen.com/tag/trading/" class="tag-link-24255" title="271 topics" rel="tag" style="font-size: 8.167776298269pt;">Trading</a>
-<a href="http://quazen.com/tag/tricks/" class="tag-link-10225" title="298 topics" rel="tag" style="font-size: 8.6711051930759pt;">tricks</a>
-<a href="http://quazen.com/tag/united-states/" class="tag-link-25517" title="320 topics" rel="tag" style="font-size: 9.0812250332889pt;">United States</a>                </ul>
-            </li>
+        	
             
-			            
 
     </ul>
 </div>            					</div>
@@ -431,7 +546,7 @@ function showTriondSignupForm()
 						Powered by <a href="http://www.triond.com"><img src="http://s3.amazonaws.com/triond/images/triond_network_logo_89x20.png" alt="Powered by Triond" width="89" height="20"></a>		
 					</div>
 					<p class="footer-copyright">
-                    	Copyright © <a href="http://quazen.com/">Quazen</a> 2010. All Rights Reserved.&nbsp;&nbsp;&nbsp;<a href="/terms-of-use">Terms of Use</a>&nbsp;&nbsp;&nbsp;<a href="/privacy-policy">Privacy Policy</a>
+                    	Copyright © <a href="http://quazen.com/">Quazen</a> 2011. All Rights Reserved.&nbsp;&nbsp;&nbsp;<a href="/terms-of-use">Terms of Use</a>&nbsp;&nbsp;&nbsp;<a href="/privacy-policy">Privacy Policy</a>
                     </p>
                 </div>
             </div>
@@ -445,11 +560,9 @@ function showTriondSignupForm()
 <noscript>
 <a href="http://www.quantcast.com/p-daj4ISsTm6BnE" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-daj4ISsTm6BnE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
-<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=20&amp;rnd=2371527589"><script type="text/javascript">
+<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=20&amp;rnd=2870481048"><script type="text/javascript">
 					var _gaq = _gaq || [];
-					_gaq.push(['t2._setAccount', 'UA-1488967-2']);
-							_gaq.push(['t2._trackPageview']);_gaq.push(['t29._setAccount', 'UA-1488967-29']);
-							_gaq.push(['t29._trackPageview']);
+					_gaq.push(['t2._setDomainName', '.quazen.com']);_gaq.push(['t2._setAllowHash', false]);_gaq.push(['t2._setAccount', 'UA-1488967-2']);_gaq.push(['t2._trackPageview']);_gaq.push(['t29._setAccount', 'UA-1488967-29']);_gaq.push(['t29._trackPageview']);
 					(function() {
 					  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 					  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -478,26 +591,35 @@ var _sf_async_config={uid:6902};
 	
 		<div id="ad-slider">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1082");
+					   document.write ("&clr_link=5984A7&clr_title=5984A7&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=111111&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1082&amp;clr_link=5984A7&amp;clr_title=5984A7&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=111111&amp;source=acf=nontriond&amp;cb=88169689664&amp;loc=https%3A//web.archive.org/web/20111228214759id_/http%253A//quazen.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=aed98a&amp;cb=316b0843c68bfb7c8a16ef190bfe2007' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1082&amp;cb=316b0843c68bfb7c8a16ef190bfe2007&amp;n=aed98a' border='0' alt='' /></a></noscript>	</div>
+<!-- start eXelate tag - Triond - Default Site -->
 
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=1082");
-   document.write ("&clr_link=5984A7&clr_title=5984A7&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=111111&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1082&amp;clr_link=5984A7&amp;clr_title=5984A7&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=111111&amp;source=acf=&amp;cb=90765814375&amp;loc=https%3A//web.archive.org/web/20101223025455id_/http%3A//quazen.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=909219&amp;cb=8cc0f284c17ac20f207a89092ee08a51' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1082&amp;cb=8cc0f284c17ac20f207a89092ee08a51&amp;n=909219' border='0' alt='' /></a></noscript>	</div>
-<!-- start eXelate tag - Triond - Default Site
-<SCRIPT TYPE="text/javascript" SRC="http://loadus.exelator.com/load/?p=149&g=001"></SCRIPT>
- end eXelate tag -->
+<script type="text/javascript" src="http://loadus.exelator.com/load/?p=149&amp;g=015&amp;c=23706&amp;ctg=entertainment&amp;subctg=uncategorized"></script>
+<!--  end eXelate tag -->
 <script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=cdkR_sttWr35nOadbiUzgI&amp;s=130"></script>
+
 
 <script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
