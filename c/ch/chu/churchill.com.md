@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the churchill.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615052319id_/http%3A//www.churchill.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchill.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228180903id_/http%3A//www.churchill.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Churchill Insurance UK
 
-##   You are here: [Home page](https://web.archive.org/web/20110615052319id_/http%3A//) > [Terms](https://web.archive.org/web/20110615052319id_/http%3A//www.churchill.com/) > **Privacy policy**
+##   You are here: [Home page](https://web.archive.org/web/20111228180903id_/http%3A//) > [Terms](https://web.archive.org/web/20111228180903id_/http%3A//www.churchill.com/) > **Privacy policy**
 
-You are giving your information to Churchill Insurance Company Limited, who is a member of The Royal Bank of Scotland Group (The Group). In this Information statement ‘we’ ‘us’ and ‘our’ refers to Churchill Insurance Company Limited unless otherwise stated.
+You are giving your information to U K Insurance Limited, who is a member of The Royal Bank of Scotland Group (The Group). In this Information statement ‘we’ ‘us’ and ‘our’ refers to U K Insurance Limited unless otherwise stated.
 
 For information about our group of companies please visit [www.rbs.com](http://www.rbs.com/ "www.rbs.com \(opens in a new window\)") and click on ‘About Us’, or for similar enquiries please telephone 0131 556 8555 or Textphone 0845 900 5960.
 
@@ -100,12 +100,6 @@ If you would like a copy of the information we hold about you, please write to: 
 Any personal data saved is held safely on our mainframe computer, with security systems preventing unauthorised access and we always ensure it is treated confidentially. For further information regarding our security provisions please see our note titled Further Security.
 
   
-**Cookies**  
-
-
-Please note that we use "Cookies" on the Site. A cookie is a software application that tracks our users' navigation of the Site and stores that information on their hard drives. This allows us to understand our users' habits and preferences which enables us to customise our services for our users to provide an enhanced user experience. We may, for example, use cookies to store registration information so that you do not have to provide it to us on subsequent visits.
-
-  
 **Further Security**  
 
 
@@ -114,3 +108,112 @@ We take security very seriously and we use one of the strongest available securi
 *There are two minor problems with Microsoft Internet Explorer. Neither problem has any effect on the actual security in force, but may make it appear to you as if it is not fully secure. Internet Explorer 4. The padlock symbol does not always appear at the bottom when it should. A full description of this error, number Q154621, is at <http://support.microsoft.com/support/kb/articles/Q154/6/21.asp>.
 
 Internet Explorer 5. If you click on the padlock symbol to view the security certificate the following message may be displayed: "This certificate has failed to verify for all of its intended purposes". The other details of the certificate shown are correct. A full description of this error, number Q233479, is at <http://support.microsoft.com/support/kb/articles/Q233/4/79.asp>.
+
+**Visitors to our website**
+
+When you visit this website, we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting this websites. We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it.
+
+**What is a cookie?**
+
+A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. Cookies are used to make websites work and improve the efficiency of a website. Cookies are also used to ensure that we provide effective security when using of our website. Cookies can help a website to arrange content to match your preferred interests more quickly - most major websites use cookies. Cookies alone cannot be used to identify you.
+
+A cookie will typically contain the name of the domain from which the cookie has come; the "lifetime" of the cookie; and a value, usually a randomly generated unique number. 
+
+Two types of cookies are used on this website:
+
+**Session Cookies:** These are temporary cookies that remain in the cookie file of your browser until you close your browser.
+
+**Persistent Cookies:** These are stored on your computer until they expire or you remove them.
+
+Persistent cookies store your personal preferences such as your language preferences on multi-lingual sites to make subsequent visits easier. They also remember questions we have asked you previously, such as a request to complete an online survey. A persistent cookie will prevent you from being asked to complete the same survey every time you visit the website.
+
+**Third party cookies:** We work with third parties who, on our behalf, research the use of our website and activities on it. In doing so they may place a cookie on your computer. However it would not contain any personal information that others could read and understand.
+
+We also work with third parties to evaluate the effectiveness of our advertising and promotions on third party websites. Again, the cookie would not contain any personal information that others could read and understand.
+
+**Cookies used on this website**
+
+Details and a brief description of cookies used on this website can be found in the following table
+
+**Grouped Cookie Name** | **Description**  
+---|---  
+Session ID | 'Session ID' cookie to maintain a user's session and allow data to be passed between different online forms, this cookie exists only for the duration of the user's session.  
+Metafaq | Provides an online Frequently Asked Questions facility to assist users of our website. All ‘metafaq’ cookies are used to maintain the user’s session, to provide insight to us in what questions our users are asking and to enable us to optimise this facility for our users and ultimately improve the service we offer.  
+Safe Browsing | Safe browsing' cookie, provided by Google, Inc. This allows us to verify with Google that the site is free from suspected phishing and malware pages  
+Social Media | Our website provides the facility for user's to link content on its website with a user's chose social media platform. In order for this facility to operate we use these platform's cookies, which exist only for the duration of a user's session.  
+Analytics & Optimisation | Web analytics platform and a multi-variant testing platform to monitor and optimise this website, both of which utilise cookies to capture anonymous data about a user's journey and aggregate this data up to analyse trends. These cookies last longer than the user's session so that we can understand whether a user us a first time, or a returning visitor.  
+Ad tracking | We use ad tracking cookies to measure the effectiveness of our online marketing campaigns.  
+Affiliate tracking | Our affiliate network use cookies to measure the effectiveness of our affiliate network's marketing campaigns.  
+  
+**Web Beacons**
+
+Some of our Web pages may contain electronic images known as Web Beacons (sometimes known as clear gifs) that allow us to count users who have visited these pages. Web Beacons collect only limited information which includes a cookie number; time and date of a page view; and a description of the page on which the Web Beacon resides. We may also carry Web Beacons placed by third party advertisers. These Beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign.
+
+**How to refuse use of cookies**
+
+You may refuse the use of cookies by changing your internet browser settings to disable the use of cookies. Please note that a refusal to accept the use of cookies may result in the loss of useful functionality of the site; you may experience slower running times and you may not be able to access all website content.
+
+**How to disable cookies in your browser**
+
+The use of cookies can be prevented by changing your internet browser settings. Each browser has a different procedure for disabling the use of cookies. We have provided details of how to disable the use of cookies for main browsers below. If you have any questions or technical issues, please contact your browser directly.
+
+**Browser** | **Action Required** | **Process**  
+---|---|---  
+Internet Explorer 9.0+ | To prevent new cookies from being installed |  \- Go to Tools in the menu bar  
+\- Click on Internet Options  
+\- Click on the Privacy tab on top  
+\- Move the slider up to the "Block all Cookies" button  
+Internet Explorer 9.0+ | To delete existing cookies |  \- Go to Tools in the menu bar  
+\- Click on Internet Options  
+\- Click on the General tab which should be under "Browsing History" and click "Delete"  
+Internet Explorer 8.0+ | To prevent new cookies from being installed |  \- Go to Tools in the menu bar  
+\- Click on Internet Options  
+\- Click on the Privacy tab on top  
+\- Click on "Sites"  
+\- A new window should open called "Per Site Privacy Actions"  
+\- Type in the URL of the site in the "Address of website" box and click on Block  
+Internet Explorer 8.0+ | To delete existing cookies |  \- Go to Tools in the menu bar  
+\- Click on 'Internet Options'  
+\- Click on the Privacy tab on top  
+\- Click on "Sites"  
+\- A new window should open called "Per Site Privacy Actions"  
+\- Under the "Managed websites" box should be a list of all the websites you have visited  
+\- To remove all cookies click on the "Remove all" button  
+Internet Explorer 7.0+ | To prevent new cookies from being installed |  \- Go to Tools in the menu bar  
+\- Click on Options  
+\- Click on the Privacy tab on top  
+\- Click on the Advanced button  
+\- Select "Prompt" for both "First party cookies" and "Third Party Cookies"  
+Internet Explorer 7.0+ | To delete existing cookies |  \- Go to Tools in the menu bar  
+\- Click on Options  
+\- Click on the General tab on top  
+\- In the "Browsing History" section, click on "Delete"  
+\- Click on "Delete Cookies"  
+Firefox 2.0+ 3.0+ , 4.0+ | To prevent new cookies from being installed |  \- Go to Tools in the menu bar  
+\- Click on Options  
+\- Click on the Privacy tab  
+\- Disable the box that says "Accept Cookies From sites"  
+Firefox 2.0+ 3.0+ , 4.0+ | To delete existing cookies |  \- Go to Tools in the menu bar  
+\- Click on Options  
+\- Click on the Privacy tab  
+\- Click on "Clear Now"  
+\- Select "Cookies"  
+\- Click on "Clear Private Data Now"  
+Google Chrome | To prevent new cookies from being installed |  \- Click on the spanner icon in the top right of the browser  
+\- Click on "Options"  
+\- Click on "Under the Bonnet" (UK) / "Under the Hood" (US)  
+\- Click on the "Content settings" button in the Privacy section  
+\- Ensure that "Allow local data to be set" is selected  
+\- Select "Block sites from setting any data"  
+Google Chrome | To delete existing cookies |  \- Click on the spanner icon in the top right of the browser  
+\- Click on "Options"  
+\- Click on "Under the Bonnet" (UK) / "Under the Hood" (US)  
+\- Click on the "Content settings" button in the Privacy section  
+\- Click on the "Clear browsing data" button  
+Safari | To prevent new cookies from being installed and delete existing cookies |  \- Go to the Safari menu (icon in top right of browser) and select Preferences  
+\- In the popup window that appears, select the Security icon (a padlock)  
+\- Under "Accept Cookies", select the "Never" button  
+  
+**Further information on cookies**
+
+If you would like further information on cookies, please go to [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org \(opens in a new window\)").
