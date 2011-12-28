@@ -1,26 +1,6 @@
-> *The following text is extracted and transformed from the leafly.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623233616id_/http%3A//www.leafly.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leafly.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228203837id_/http%3A//www.leafly.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Leafly
-
-  * [ **Explore**
-
-Discover new strains
-
-](https://web.archive.org/explore)
-  * [ **Dispensaries**
-
-Find a local dispensary
-
-](https://web.archive.org/medical-marijuana/newfinder)
-  * [ **Login/Signup**
-
-Have you signed up yet?
-
-](https://web.archive.org/user)
-
-
-
-[](https://web.archive.org/)
 
 ## Your privacy is critically important to us.
 
