@@ -1,33 +1,87 @@
-> *The following text is extracted and transformed from the youjizz.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610201146id_/http%3A//www.youjizz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youjizz.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228140627id_/http%3A//www.youjizz.com/privacy.php) for the most accurate reproduction.*
 
 # The YouJizz Privacy Page
 
-**This document details important information regarding the use and disclosure of User Data collected on Youjizz.com
+  
 
-The security of your Data is very important to Youjizz.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused. 
 
-This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority. 
+## I. General
 
-DATA COLLECTED 
+### A.
 
-* Personal Information: o Non-Registered users can watch videos without registering and without any information being collected and processed. However the visitor's IP address will be recorded in the event that there is any misappropriation of information and/or content. o o Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information. * Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others. * Cookies: When you visit Youjizz.com, we may send one or more cookies to your computer that uniquely identifies your browser session. Youjizz.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly. * Log File Information: When you visit Youjizz.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request. * Emails: If you contact us, we may keep a record of that correspondence. 
+The operative parties referred to in this policy are Company and you, the user of this site.   
+1.International Media, Ltd., is the publisher and operator of the websites listed at the beginning of this policy. Hereinafter, International Media, Ltd. shall be referred to as "Company". When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to Company. Additionally, when the terms "The Site" or "Site" are used, these terms refer to the websites listed at the beginning of this policy.   
+2.You, the User - As the user of this site, this policy will refer to the user as "you" or through any second-person pronouns, such as "yours," etc. Hereinafter, the user of the site shall be referred to in applicable second- person pronouns. 
 
-USES 
+### B.
 
-* Your Personally identifiable information submitted to Youjizz.com is used to provide to the user the website's features and special personalized features. * Your chosen username (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the Youjizz.com private mail, etc. Other Users can contact you through, private messages. * Any videos that you submit to Youjizz.com may be redistributed through the internet and other media channels, and may be viewed by the general public. * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent. * We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes). * We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the Youjizz.com user-experience. 
+This Privacy Policy describes how we use information received about you when you visit our Site or when you subscribe to, or otherwise use our online services. This Policy does not cover any information that we may receive from or about you through channels other than through the use of the Site. 
 
-DISCLOSURE OF INFORMATION 
+## II. Revisions to this Policy
 
-* if under duty to do so Youjizz.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of Youjizz.com or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is Youjizz.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party. * Should you deliberately upload any illegal material PormHub.com shall forward all available information to all relevant authorities and this without notice. \- We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
+We reserve the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the "refresh" button on your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the "last modified" date remains unchanged after you have -1- clicked the "refresh" button on your browser, you may presume that no changes have been made since the last reading of the policy. A changed "last modified" dates indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting. 
 
-SECURITY 
+## III. Personal information that we collect
 
-Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. 
+Visitors to our site and services will have multiple manners of interactivity with us. Depending upon your level of interaction, we will collect different information about you. The type of information collected is as follows: 
 
-Unfortunately, the transmission of information via the Internet is not completely secure. Youjizz.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Youjizz.com and you do so at your own risk. 
+### A. Members
 
-YOUR RIGHTS 
+Members are those users who interact with our services in a way which requires registration, such as by uploading content to the Site. Members will be prompted to provide their e-mail address in the process of registering a username. 
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at youjizzadmin@gmail.com. 
+### B. Browsers
 
-**
+Browsers are visitors to the site who never enter into any active data collection pages. Browsers may, however, view content uploaded by Members. Any information gathered from Browsers is also gathered from Members. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering devises (explained below). 
+
+## IV. How we collect information from you
+
+### A. Passive Collection 
+
+We use cookies to collect information about you in order to enhance your experience on the site. The information collected in our cookies includes, but is not limited to, your user IP address and other session data. 
+
+### B. Active Collection 
+
+We collect information from you, such as your e-mail address and IP address, when you complete registration forms to sign up for your membership on our Site. Locations for such collection are registration pages, but we reserve the right to add additional information collection portals. 
+
+## V.How we use your information
+
+The primary use for your information is to provide you with services you have requested. We also use your information to deliver customized services to you. Non-personal and aggregate information, such as that collected passively is used in order to customize our marketing efforts or to customize the use of our site for an aggregate group of customers. We additionally may use the personal information of users whose membership has expired or have been cancelled in order to market our services to these individuals in the future.   
+We generally will use your information for the purposes for which you specifically provide it, for example, to verify membership, if applicable. We -2- also use your information for market research purposes - in order to increase your (and other users') experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes. 
+
+##  VI. Special Cases. 
+
+It is our policy not to use or share the personal information about Browsers or Members in ways unrelated to those described in this Policy without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, we may disclose personal information about Browsers or Members, or information regarding your use of the Services or Sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including:   
+1\. To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information;   
+2\. To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms & Conditions or other user policies;   
+3\. To operate our Services properly;   
+4\. To protect ourselves, our Members, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if we are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.   
+5\. We will always cooperate with law enforcement authorities, private-party litigants, and others seeking information about our end users to the extent required by applicable law. Examples of such cooperation include lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process. 
+
+## VII. Transmittals from Us 
+
+We may send you periodic announcements including the details of our existing and new programs. You may opt out of these announcements by contacting youjizzadmin@gmail.com or by clicking the opt-out link at the bottom of these emails. If you opt out of these marketing emails, you may still receive system notices and other information that is specifically related to your account.   
+If you provide your information to us, use the Site, or subscribe to any of our services, you will have created a commercial relationship with us. In having done so, you -3- understand that even unsolicited commercial email sent from us or our affiliates is not SPAM as that term is defined under the law. 
+
+## VIII. Public Forums and Other Public Areas:
+
+### A. Public Forums 
+
+We may offer forums or other interactive features on the Site. We may also provide services that allow Members or Browsers to post messages or comments to the public. Any and all information posted to the Site, whether as a comment to a video or any other post, should immediately be considered to be public information. 
+
+### B. 
+
+Any information or content you voluntarily provide to Us should be considered public. You may have the opportunity to provide additional information or content that is not required for registration to the Site, and your voluntary provision of such information is solely your decision. 
+
+## IX. Our Commitment to Data Security.
+
+We take measures to protect the transmission of all sensitive end-user information. We make every effort to ensure the integrity and security of our network and systems. Nevertheless, we cannot guarantee that our security measures will prevent third- party 'hackers' from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber- criminals we are unable to guarantee that our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite our reasonable security measures. 
+
+## X. How to Access or Modify Your Information.
+
+We may offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at youjizzadmin(at)gmail.com. 
+
+## XI. Where to Direct Questions About Our Privacy Policy.
+
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us at youjizzadmin(at)gmail.com. 
+
+### \- End -
