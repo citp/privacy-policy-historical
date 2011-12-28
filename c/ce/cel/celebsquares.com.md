@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebsquares.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518212904id_/http%3A//celebsquares.com/index.cfm/fuse/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebsquares.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229000031id_/http%3A//celebsquares.com/index.cfm/fuse/privacypolicy) for the most accurate reproduction.*
 
 # Celebrity Squares - When Celebs Make News, You Win Cash & Prizes
 
