@@ -1,585 +1,354 @@
-<!--The following is the downloaded HTML source of the paltalk.com privacy policy that was archived on 2010-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204165343id_/http%3A//www.paltalk.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paltalk.com privacy policy that was archived on 2011-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228033413id_/http%3A//www.paltalk.com/privacy.shtml) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Paltalk Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="Keywords" content="privacy policy, Paltalk, video chat rooms, webcam chat, webcams, chat, voice chat, video chat, streaming video, videoconference, live webcams, instant messaging, instant messenger, interoperable, audio, talk, meet, community, service, web conference, VOIP, file sharing">
 <meta name="Description" content="Paltalk privacy policy.">
 <meta name="generator" content="BBEdit 6.1.2">
-
 <link rel="stylesheet" type="text/css" media="screen" href="/en/style/global.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/en/style/scene.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/en/style/common.css">
-
+<link rel="stylesheet" type="text/css" media="screen" href="/en/style/common-new.css">
 <!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/en/style/ie.css" media="screen"/><![endif]--> 
 <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/en/style/ie7.css" media="screen"/><![endif]--> 
-<!-- style for logout notification box -->
-<link rel="stylesheet" type="text/css" media="screen" href="/en/style/jquery.jgrowl.css">
-<style type="text/css">
-	div.jGrowl div.growl-message { background-color: #fff; color: navy; border: 1px #000 solid; }
-	div.jGrowl div.growl-message h4 { font-size: 12px; font-weight: bold; }
-	div.jGrowl div.growl-message p { margin: 0; padding: 0; width: 220px; }
-</style>
 
-
-<script type="text/javascript" src="/en/js/jquery.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/en/js/jquery-latest.js"></script>
 <script type="text/javascript" language="javascript" src="/en/js/jquery.jgrowl_minimized.js"></script>
-<script type="text/javascript" src="/en/js/utils.js"></script>
-<script type="text/javascript" src="/en/js/scripts.js"></script>
-<script type="text/javascript" language="javascript" src="/en/js/globalnew.js"></script>
-<script type="text/javascript" language="javascript" src="/en/js/session_tracker.js"></script>
-<script type="text/javascript" language="javascript" src="/en/js/add-event.js"></script>
-
+<script type="text/javascript" src="/en/js/homepage.js"></script>
 </head>
 
-<body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
-	<script type="text/javascript" language="javascript">	
-		if(self != top){
-		parent.tb_remove();
-		if(parent.getTarget() == ""){
-			parent.location.reload(1);
-		}
-		else{
-		parent.location=parent.getTarget();
-		}
-	}
-	</script>
-<div id="masthead">
-	<form method="post" action="https://commerce.paltalk.com/sson/login" name="logout">
-		<input type="hidden" name="action" value="logout">
-	</form>
-
-
-
-	<a href="/index.php" class="masthead-logo" id="mastheadHome"><img src="/en/images/phase2/paltalk-logo.gif" alt="paltalk"></a>
-
-	<div id="userInfoLoggedOut" class="hide">
-		<p><strong>Hi, Guest!</strong> <a href="#" onclick="showLogin();">Log in</a>.</p>
-		<p class="logged-out-action">Not a member? <a href="/download.shtml" rel="os-sniff-auto">Download PaltalkScene</a> (PC).</p>
-		<p class="logged-out-action">Or try <a href="/express/">Try PaltalkExpress</a> on the web (PC, Mac, Linux).</p>
-	</div><!-- end userInfoLoggedOut-->
-	
-	<div id="userInfoLoggedIn" class="hide">		
-		<img src="/en/images/scene_images/default-thumb.gif" alt="" id="userpic">
-		<p>Hi, <span id="nickname"></span>! <a href="#" class="login-icon" id="log-out">Log Out</a></p>
-		
-		<ul id="userinfo-menu">
-			<li><a href="#" class="user-settings">Profile</a>
-				<ul class="user-profiles">
-					<li><a href="#" id="logdCreateProfile">Create my Profile Page</a></li>
-					<li><a href="#" id="logdViewProfile">View my Profile Page</a></li>
-					<li><a href="#" class="not-available" id="logdEditProfile">Edit my Profile Page</a></li>
-					<li><a href="#" id="changePicture">Change my Picture</a></li>
-				</ul>
-			</li>
-			
-			<li><a href="#" class="user-settings">Groups</a>
-				<ul class="user-groups">
-					<li><a href="http://www.paltalk.com/g2/webapp/groups/MyGroupsInfo.wmt" id="logdJoindGrp">View Groups I've Joined</a></li>
-					<li><a href="#" id="logdCreateGrp">Create my Group</a></li>
-					<li><a href="#" id="logdViewGrp">View my Group</a></li>
-					<li><a href="http://www.paltalk.com/g2/webapp/my/edit_info.wmt" class="not-available" id="logdEditGrp">Edit/Manage my Group</a></li>					
-				</ul>
-			</li>
-			<li><a href="https://commerce.paltalk.com/mpt/ControllerServlet?RequestId=MyPalTalk.ShowLogin" class="myaccount">My Account</a></li>		
-		</ul>
-		
-		<ul class="masthead-messages">
-			<li class="profile-msg"><a href="#" class="notification" id="profile-notification"></a></li>
-			<li class="group-msg"><a href="http://www.paltalk.com/g2/webapp/groups/MyGroupsInfo.wmt" class="notification" id="group-notification"></a></li>
-		</ul>
-		
+<body>
+<link type="text/css" media="all" rel="stylesheet" href="/en/style/scene-new.css">
+<!--[if lte IE 6]><link type="text/css" media="all" rel="stylesheet" href="/en/style/ie6-new.css" /><![endif]-->
+<!--[if IE 7]><link type="text/css" media="all" rel="stylesheet" href="/en/style/ie-new.css" /><![endif]-->
+<div id="down_frame" class="hide"><iframe src="" id="downloadframe"></iframe></div>
+<div id="header">
+	<div class="login">		
+        <div class="language-choose">
+        <ul>
+            <li>
+            </li><li><a href="https://commerce.paltalk.com/mpt/MyPalTalkHome.jsp" title="Sign In" id="signin" class="sign-in ">Sign In</a>
+            <div id="logout" class="hide">
+			<form action="https://commerce.paltalk.com/sson/login" method="post" name="logout" id="frmlogout">
+				<input type="hidden" name="action" value="logout">
+				<input type="hidden" name="target2" value="#paltalk#/index.php">
+			</form>	<p id="greeting" class="logout"> <a href="#">Log Out</a></p></div></li>
+            </ul>        
+            
+		</div>	
+		<div class="logo">
+			<a href="http://www.paltalk.com"><img src="/en/images/paltalk-logo.gif" alt="paltalk logo"></a></div>
 	</div>
+	<!-- end login -->
 	
-	<div id="nav-states">
-		
-		<div id="navLoggedOut" class="hide">
-			<ul class="nav" id="nav">
-				<li><a href="/index.php" class="home" id="navHomeLink">&nbsp;</a></li>
-				<li><a href="/download.shtml" rel="os-sniff-auto"><strong>Get Paltalk</strong></a>
-					<ul class="download">
-						<li><a href="/download.shtml" rel="os-sniff-auto">Download PaltalkScene</a></li>
-						<li><a href="/express/?refc=83190" rel="os-sniff" id="navExpressLink">PaltalkExpress</a></li>
-						<li><a href="/features/community.shtml?refc=83190" id="navWhatIsPaltalk">What is Paltalk?</a></li>
-						<li><a href="http://www.hearme.com" id="navHearMeLink">Web Conferencing</a></li>
-						
-					</ul>		
-				</li>
-				<li><a href="http://www.paltalk.com/people/webapp/index.wmt" id="navMembers">Members</a>
-					<ul class="profiles">
-						<li><a href="http://www.paltalk.com/people/webapp/index.wmt?refc=83170" id="navBrowseMembers">Browse Members</a></li>
-						<li><a href="#" onclick="showLogin('http://www.paltalk.com/people/webapp/my/info.wmt'); return false;" id="logdOutCreateProfile" class="thickbox">Create/Edit my Profile Page</a></li>
-					</ul>		
-				</li>
-				<li><a href="http://www.paltalk.com/g2/webapp/groups/GroupsPage.wmt" id="navChatRooms">Chat Rooms</a>
-					<ul class="rooms">
-						<li><a href="http://www.paltalk.com/g2/webapp/groups/GroupsPage.wmt?refc=73175" id="navBrowseChatRooms">Browse Chat Room Groups</a></li>
-						<li><a href="#" onclick="showLogin('http://www.paltalk.com/g2/webapp/my/edit_info.wmt'); return false;" id="logdOutCreateGroup" class="thickbox">Create/Edit a Group</a></li>
-					</ul>
-				</li>
-				<li><a href="http://www.paltalk.com/g2/webapp/groups/CameoLanding.wmt" id="navCameoLink">Video Chat On Your Site</a>
-					<ul class="widget">
-							<li><a href="http://www.paltalk.com/g2/webapp/groups/CameoLanding.wmt">Video Chat Widget</a></li>
-							<li><a href="http://www.paltalk.com/g2/webapp/group/PteLanding.wmt">Video Chat Room</a></li>
-					</ul>
-				</li>
-				<li class="help-menu"><a href="/support.shtml">Help</a>
-					<ul class="help">
-						<li><a href="/faq.shtml">FAQs</a></li>
-						<li><a href="/contact_paltalk.shtml">Contact Us</a></li>
-						<li><a href="https://commerce.paltalk.com/mpt/ControllerServlet?RequestId=MyPalTalk.ForgotPassword">Forgotten Password</a></li>
-						<li><a href="#" class="menu-divider not-available">Email Verification</a></li>
-						<li><a href="#" class="not-available">Ban Issues</a></li>
-						<li><a href="#" class="not-available">Customer Support</a></li>
-						<li><a href="#" class="not-available">Send Feedback</a></li>
-					</ul>		
-				</li>		
-			</ul>
-		</div><!-- end navLoggedOut -->
-		
-		<div id="navLoggedIn" class="hide">
-			<ul class="nav">
-				<li><a href="/index.php" class="home" id="logdNavHomeLink">&nbsp;</a></li>
-				<li><a href="/download.shtml" rel="os-sniff-auto"><strong>Get Paltalk</strong></a>
-					<ul class="download">
-						<li><a href="/download.shtml" rel="os-sniff-auto">Download PaltalkScene</a></li>
-						<li><a href="/express/?refc=83190" rel="os-sniff" id="logdNavExpressLink">PaltalkExpress</a></li>
-						<li><a href="/features/community.shtml?refc=83190" id="logdNavWhatIsPaltalk">What is Paltalk?</a></li>
-						<li><a href="http://www.hearme.com" id="logdHearMeLink">Web Conferencing</a></li>
-					</ul>
-				</li>
-				<li><a href="http://www.paltalk.com/people/webapp/index.wmt" id="logdNavMembers">Members</a>
-					<ul class="profiles">
-						<li><a href="http://www.paltalk.com/people/webapp/index.wmt?refc=83170" id="logdNavBrowseMembers">Browse Members</a></li>
-						<li><a href="#" id="createProfile">Create my Profile Page</a></li>
-						<li><a href="#" id="viewProfile">View my Profile Page</a></li>
-						<li><a href="#" class="not-available" id="editProfile">Edit my Profile Page</a></li>
-						<li><a href="#" class="not-available" id="profSettings">Profile Settings</a></li>
-					</ul>		
-				</li>
+	<div class="header-menus">
+		<ul>				
 
-
-				<li><a href="http://www.paltalk.com/g2/webapp/groups/GroupsPage.wmt" id="logdNavChatRooms">Chat Rooms</a>
-					<ul class="rooms">
-						<li><a href="http://www.paltalk.com/g2/webapp/groups/GroupsPage.wmt?refc=73175" id="logdNavBrowseChatRooms">Browse Chat Room Groups</a></li>
-						<li><a href="#" id="createGroup">Create my Group</a></li>
-						<li><a href="#" id="viewGroup">View my Group</a></li>
-						<li><a href="http://www.paltalk.com/g2/webapp/my/edit_info.wmt" class="not-available" id="editGroup">Edit/Manage my Group</a></li>
-						<li><a href="http://www.paltalk.com/g2/webapp/groups/MyGroupsInfo.wmt" id="joindGroup">View Groups I Joined</a></li>
-					</ul>
-				</li>
-				<li><a href="http://www.paltalk.com/g2/webapp/groups/CameoLanding.wmt" id="navCameoLink">Video Chat On Your Site</a>
-					<ul class="widget">
-							<li><a href="http://www.paltalk.com/g2/webapp/groups/CameoLanding.wmt">Video Chat Widget</a></li>
-							<li><a href="http://www.paltalk.com/g2/webapp/group/PteLanding.wmt">Video Chat Room</a></li>
-					</ul>
-				</li>
-				<li class="help-menu"><a href="/support.shtml">Help</a>
-					<ul class="help">
-						<li><a href="/faq.shtml">FAQs</a></li>
-						<li><a href="/contact_paltalk.shtml">Contact Us</a></li>
-						<li><a href="#" class="not-available">Forgotten Password</a></li>
-						<li><a href="/verification.shtml" class="menu-divider">Email Verification</a></li>
-						<li><a href="/banissue.shtml">Ban Issues</a></li>
-						<li><a href="/custsupport.shtml">Customer Support</a></li>
-						<li><a href="/feedback.shtml">Send Feedback</a></li>
-					</ul>		
-				</li>		
-			</ul>
-		</div><!-- end navLoggedIn -->
-		
-	</div><!-- end nav-states -->
-
-	<form name="support_search" action="http://www.paltalk.com/search/webapp/search/support/Search.wmt">
-	  <input type="hidden" name="q" value="">
-	  <input type="hidden" name="site" value="default_collection">					    
-	  <input type="hidden" name="oe" value="UTF-8">
-	  <input type="hidden" name="ie" value="UTF-8">					    
-	  <input type="hidden" name="client" value="default_frontend">	
-	  <input type="hidden" name="proxystylesheet" value="default_frontend">
-	  <input type="hidden" name="output" value="xml_no_dtd">					    
-	</form>    
-					
-	<form name="people_search" action="http://www.paltalk.com/browse/webapp/paltalk/people/FindPeople.wmt">
-	  <input type="hidden" name="tag" value="">
-	  <input type="hidden" name="search" value="advanced">					    
-	  <input type="hidden" name="select" value="Profiles">
-	  <input type="hidden" name="searchinfo" value="searchkeyword">
-	</form>    
-					
-	<form name="groups_search" action="http://www.paltalk.com/browse/webapp/paltalk/groups/FindGroups.wmt">
-	  <input type="hidden" name="searchkey" value="">
-	  <input type="hidden" name="selectapp" value="groups">
-	  <input type="hidden" name="searchinfo" value="searchkeyword">	  
-	</form> 
-
-
-	<div id="masthead-search" class="hide">
-		
-		<div id="searchdrop">
-			<a href="#" id="search-dropdown">
-				<span id="drop-arrow">
-				<span class="show">Chat Rooms</span>
-				<span class="hide">Members</span>
-				<span class="hide">Support</span>
-				</span>
-			</a>
-			<ul id="searchrealm">
-				<li><a href="#" id="searchChat">Chat Rooms</a></li>
-				<li><a href="#" id="searchMembers">Members</a></li>
-				<li><a href="#" id="searchNews">Support</a></li>
-			</ul>
-		</div><!-- end searchdrop -->
-		
-		<form id="search-form" name="frmMenu" action="http://www.paltalk.com/browse/webapp/paltalk/groups/FindGroups.wmt">
-			<input type="text" id="mainsearch" name="mainsearch" value="Enter search term(s)" class="searchtext">
-			<input type="hidden" name="searchTarget">
-			<input type="image" src="/en/images/phase2/search-main-btn.gif" id="go" alt="Search" title="Search">
-		</form>
-	</div><!-- end masthead-search -->
-</div><!-- end masthead -->
-
-<!--NS LOAD TEST TAG-->
-
-<!--<iframe src='http://64.40.11.210/download_auto.shtml' scrolling='no' width='1' height='1' marginheight='0' marginwidth='0' frameborder='0'></iframe>-->
-
-<!--END NS LOAD TEST TAG -->
+			<li id="download-tab"><a id="linkdownload" href="/chat-sites-download?refc=83190" class="download" rel="add-refc">download</a></li>
+			<li id="features-tab">
+                <a href="/Video-Chatting-Features" rel="add-refc">features</a>
+                <ul class="products">
+                    <li><a href="http://www.paltalk.com">Paltalk</a></li>
+                    <li><a href="http://express.paltalk.com/?refc=83235" rel="add-refc">Paltalk Express</a></li>
+                    <li><a href="http://www.paltalk.com/mobile-app">Paltalk Mobile</a></li>
+                    <li><a href="http://www.paltalk.com/website-video-chat">Video Chat Widget</a></li>
+                    <li><a href="http://www.paltalk.com/create-a-chat-room">Embeddable Chat Rooms</a></li>
+                    <li><a href="http://www.vumber.com">Paltalk Vumber</a></li>
+                </ul>
+            </li>
+			<li>
+                <a href="/free-chat-rooms" rel="add-refc">chat rooms</a>
+                <ul class="chatrooms">
+                    <li><a href="/free-chat-rooms" rel="add-refc">Browse Chat Rooms</a></li>
+                    <li><a id="manageroom" rel="load-login" rel1="add-refc" href="http://www.paltalk.com/manage-room">Manage Chat Room</a></li>
+                </ul>
+            </li>
+			<li>
+                <a href="/members" rel="add-refc">members</a>
+                <ul class="members">
+                    <li><a href="/members" rel="add-refc">Browse Members</a></li>
+                    <li><a id="manageprofile" rel="load-login" href="http://www.paltalk.com/manage-profile" rel1="add-refc">Manage My Profile</a></li>
+                </ul>
+            </li>
+			<li id="mobileapp-tab">
+                <a href="http://www.paltalk.com/mobile-app">Mobile</a>
+                <ul class="mobile">
+                    <li><a href="http://www.paltalk.com/iphone/">iPhone</a></li>
+					<li><a href="http://www.paltalk.com/android/">Android</a></li>
+					<li><a href="http://www.paltalk.com/bb/">BlackBerry</a></li>
+                </ul>
+            </li>
+			<li class="hide" id="mypaltalk-tab"><a href="http://my.paltalk.com">my account</a></li>
+		</ul>
+	</div>
+	<!-- end header-menus -->
+</div>
+<!-- end header -->
 
 <center>
-<div class="static">
-	<div class="content">
-<table border="0" width="790" cellspacing="0" cellpadding="0" class="bg_circle">
-<tbody><tr>
-<td align="LEFT"><img src="/en/images/header_tos.gif" style="position: relative; left: -10px;">
-	<!-- Trust-E temporarily disabled
-	<BR><A HREF="http://www.truste.org/ivalidate.php?url=www.paltalk.com&sealid=101" TARGET="_blank"><IMG SRC="/en/images/clickseal.gif" BORDER="0" WIDTH="91" HEIGHT="73" ALT="TrustE Seal"></A><BR>
-	last updated January 28, 2005
-	-->
-	</td>
-</tr>
-<tr>
-<td align="LEFT" valign="TOP" class="bodytext">
-	
-<div style="width: 725px; height: 400px; overflow: auto; padding-right: 25px; text-align: justify">
-
-<div style="margin-top: 20px; font-weight: bold; font-size: 12px;">
-Paltalk is committed to protecting your privacy. We want you to feel free to express yourself within the Paltalk community, 
-and are committed to ensuring that you are in control of what you share with the rest of the community, and with Paltalk.
-</div>
-
-<!-- Trust-E temporarily disabled
-<BR>
-Paltalk is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization 
-whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. 
-This privacy statement covers the site www.Paltalk.com. Because this web site wants to demonstrate its commitment to your privacy, 
-it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-If you have questions or concerns regarding this statement, you should first contact 
-<A HREF="mailto:privacy@corp.paltalk.com" CLASS="bodylink">privacy@corp.paltalk.com</A>. 
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily 
-addressed, you should then contact TRUSTe 
-<A HREF="http://www.truste.org/consumers/watchdog_complaint.php" TARGET="_blank" CLASS="bodylink">http://www.truste.org/consumers/watchdog_complaint.php</A>. 
-TRUSTe will then serve as a liaison with the Web site to resolve your concerns. The TRUSTe program covers 
-information that is collected through this Web site and, does not cover information that may be collected 
-through software downloaded from this site.
-<BR>
--->
-<p>
-<strong><u>Information Collection &amp; Use</u></strong><br>
-
-<br>
-<strong><u>Registration</u></strong><br>
-In order to use Paltalk, you must first complete the registration form. During registration you are 
-required to give contact information such as your email address. We use this information to 
-contact you about services on our site in which you have expressed interest. Please see 
-below for Information and Sharing Disclosure.
-</p>
-
-<p>
-<strong><u>Communications from the Site</u></strong>
-</p><ul>
-	<li><u>Special Offers and Updates</u><br>
-		We will occasionally send you information on products, services, special deals, or promotions. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice and Opt-out.”
-		<br><br>
-	</li>
-	<li><u>Newsletters</u><br>
-		If you wish to subscribe to our newsletter, we will use your email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section.
-		<br><br>
-	</li>
-	
-	<li><u>Service-related Announcements</u><br>
-		We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
-		<br><br>
-	</li>
-	<li><u>Customer Service</u><br>
-		Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
-		<br><br>
-	</li>
-	<li><u>Profile</u><br>
-		We store information that we collect through cookies, log files, clear gifs, to create a “profile” of your preferences. We tie your personally identifiable information, and your purchasing history, to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the site for you. We do not share your profile with other third parties without your consent.
-		<br><br>
-		Paltalk is the sole owner of the information collected on Paltalk.com. Paltalk collects personally identifiable information from our users at several different points on our Web site or through our downloaded software.
-		<br><br>
-	</li>
-	<li><u>Orders</u><br>
-		If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and billing address) and financial information (such as credit card number, expiration date). 
-		<br><br>
-		We use this information for billing purposes and to fill your orders. We will use this information to contact you and confirm your orders.
-	</li>
-</ul>
-		<!--
-		<U>Tell-A-Friend</U><BR>
-		If you choose to use our referral service to tell a friend about our site, we will ask you for your friend&rsquo;s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Paltalk stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
-		<BR>
-		<BR>
-		Your friend may contact us at <A HREF="http://www.paltalk.com/optout/tellafriend.html" TARGET="_blank" CLASS="bodylink">http://www.Paltalk.com/optout/tellafriend.html</A> to request that we remove this information from our database.
-		<BR>
-		-->
-<p></p>		
-
-<p>
-<strong><u>Uses of Information</u></strong><br>
-Paltalk's primary goal in collecting personal information is to provide you, the user, with a customized experience 
-on Paltalk and through our partners. This includes personalization services, interactive communications, and 
-many other types of services, most of which are completely free to you. In order to provide services free of charge, 
-we display advertisements and encourage your participation. By knowing a little about you, Paltalk is able to 
-deliver more relevant advertisements and content, and hence better service, to you.
-</p>
-
-<p>
-In our role of delivering targeted advertisements, Paltalk plays the middleman. Advertisers give us 
-advertisements and tell us the type of audience they want to reach (for example, males over 35 years old). 
-Paltalk displays the advertisement to users meeting the specified criteria. In this process, the advertiser 
-never has access to individual user information. This kind of advertisement targeting is done with banner 
-ads as well as promotional email through Paltalk and its affiliates.
-</p>
-
-
-<strong><u>Personally identifiable information:</u></strong>
-<ul>
-<li><u>Agents</u>
-<br>
-We use outside credit card processing companies to bill you for Paltalk services. These companies do not retain, share, store or use personally identifiable information for any other purposes.
-<br>
-We use outside email delivery systems to contact you and provide you with pertinent information via email. These companies do not retain, share, store or use personally identifiable information for any other purposes.
-</li>
-
-<li><u>Advertising</u>
-<br>
-We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site.&nbsp; These companies may use information (not including personal information such as your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.
-</li>
-
-<li><u>Legal Disclaimer</u>
-<br>
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
-</li>
-</ul>
-
-<u><strong>Choice/Opt-out</strong></u><br>
-We provide you the opportunity to ‘opt-out’ of having your personally identifiable 
-information used for certain purposes, when we ask for this information.
-<br><br>
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or visiting <a href="http://register.paltalk.com/reg/ControllerServlet?RequestId=Register.ShowOptout&amp;src=paltalk" class="bodylink">http://register.paltalk.com/reg/ControllerServlet?RequestId=Register.ShowOptout&amp;src=paltalk</a>. You may also contact us at: 
-<br><br>
-Paltalk.com<br>
-PO Box 7528,<br>
-New York, NY 10116-7481<br><br> 
-Or, please contact our helpful customer support staff online. On the Paltalk buddy list window, click Groups, then Paltalk Help Groups.
-<br><br>
-<strong><u>Log Files</u></strong><br>
-As is true of most Web sites, we gather certain information automatically and store it in log files. This 
-information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), 
-referring/exit pages, operating system, date/time stamp, and clickstream data.
-<br><br>
-We use this information, which does not identify individual users, to administer the site and to track users' movements around the site.
-<br><br>
-We do not link this automatically-collected data to personally identifiable information except during 
-special promotions such as free trials when subscription IP addresses are temporarily tied to personally identifiable information.
-<br><br>
-<strong><u>Cookies</u></strong><br>
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use 
-session ID cookies on this site to maintain your subscription and maintain your account. We do not link the 
-information we store in cookies to any personally identifiable information you submit while on our site. We 
-use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser.
-<br><br>
-<strong><u>Clear Gifs</u></strong><br>
-We employ a software technology called clear gifs that help us better manage content on our site by informing 
-us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to 
-cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on 
-a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of 
-the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
-<br><br>
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This 
-allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. 
-If you would like to opt-out of these emails, please see “Choice and Opt-out.”
-<br><br>
-<strong><u>Third Party Advertisers</u></strong><br>
-The ads appearing on this Web site are delivered to users by a Paltalk proprietary ad serving system. We share 
-Web site usage information about users with reputable third party ad networks for the purpose of targeting our 
-banner advertisements on Paltalk software.
-<br><br>
-We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site.  These companies may use information (not including personal information such as your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.
-<br><br>
-<strong><u>Links to Other Sites</u></strong><br>
-Paltalk contains links to other sites that are not owned or controlled by Paltalk. Please be aware that we, Paltalk, 
-are not responsible for the privacy practices of such other sites.
-<br><br>
-We encourage you to be aware when you leave our site and to read the privacy statements of each and every 
-Web site that collects personally identifiable information.
-<br><br>
-This privacy statement applies only to information collected by Paltalk. 
-<br><br>
-By visiting this Site, all visitors consent to the collection, maintenance, and processing of their personal and 
-non-personal information in the United States.
-<br><br>
-
-<strong><u>Paltalk Discussion Rooms</u></strong><br>
-If you use a discussion room on Paltalk, you should be aware that any personally identifiable information you submit 
-there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited 
-messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
-<br><br>
-
-<strong><u>Access to Personally Identifiable Information</u></strong><br>
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, 
-delete or deactivate it by making the change on <a href="http://my.paltalk.com" target="_blank" class="bodylink">http://my.paltalk.com</a> 
-or by contacting our helpful customer support staff online by clicking Groups on the Paltalk buddy list window, then Paltalk Help.
-<br><br>
-
-<u><strong>Security</strong></u><br>
-The security of your personal information is important to us. When you enter sensitive 
-information such as credit card numbers on our registration or order forms, we encrypt that 
-information using secure socket layer technology (SSL).
-<br><br>
-We follow generally accepted industry standards to protect the personal information submitted to us, 
-both during transmission and once we receive it. No method of transmission over the Internet, or method 
-of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable 
-means to protect your personal information, we cannot guarantee its absolute security.
-<br><br>
-Only employees who need the information to perform a specific job are granted access to personally 
-identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy 
-practices. Finally, the servers that we store personally identifiable information on are kept in a secure environment.
-<br><br>
-If you have any questions about security on our Web site, you can contact our helpful customer support 
-staff online. On the Paltalk buddy list window, click Groups, then Paltalk Help Groups.
-<br><br>
-
-<strong><u>Business Transitions</u></strong><br>
-In the event Paltalk goes through a business transition, such as a merger, acquisition by another 
-company, or sale of all or a portion of its assets, your personally identifiable information will 
-likely be among the assets transferred. You will be notified via email of any such change in ownership 
-or control of your personal information.
-<br><br>
-<strong><u>Changes in this Privacy Statement</u></strong><br>
-If we decide to change our privacy policy, we will post those changes to this privacy statement, and other 
-places we deem appropriate so that you are aware of what information we collect, how we use it, and under 
-what circumstances, if any, we disclose it.
-<br><br>
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
-<br><br>
-This statement reflects the privacy policy of Paltalk with respect to the Web site located at www.Paltalk.com (the “Site”). This statement is intended to inform casual visitors of Paltalk, and visitors who participate in Paltalk, of the data collection and use practices of the Site. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this Site following the posting of any amendment, modification, or change shall constitute your acceptance thereof except if your personally identifiable information will be used in a materially different manner.
-<br><br>
-<strong><u>Contact Us</u></strong><br>
-If you have any questions or suggestions regarding our privacy policy, please contact us at:<br><br>
-Paltalk.com<br>
-PO Box 7528,<br>
-New York, NY 10116-7481<br><br> 
-Or, by visiting our helpful customer support staff online, on the Paltalk buddy list window, click Groups, then Paltalk Help Groups.
-
-<br><br>
-<strong><a href="#top" class="bodylink">::Top::</a></strong>
-
-</div>
-
-
-
-<p></p>
-</td>
-</tr>
-<tr>
-<td align="CENTER"><img src="/en/images/spacer.gif" border="0" width="20" height="20" alt=" "></td>
-</tr>
-</tbody></table>
-</div></div>
+    <div class="static">
+        <div class="header">
+        	<h3>Paltalk Software License Agreement</h3>
+        </div>
+        <div class="content">
+            <table border="0" width="790" cellspacing="0" cellpadding="0" class="bg_circle">
+                <tbody><tr>
+                    <td align="left"><img src="/en/images/header_tos.gif" style="position: relative; left: -10px;">
+                    <!-- Trust-E temporarily disabled
+                    <br><a href="http://www.truste.org/ivalidate.php?url=www.paltalk.com&sealid=101" target="_blank"><img src="/en/images/clickseal.gif" border="0" width="91" height="73" alt="TrustE Seal"></a><br>
+                    last updated January 28, 2005
+                    -->
+                    </td>
+                </tr>
+                <tr>
+                    <td align="LEFT" valign="TOP" class="bodytext">            
+                        <div style="width: 725px; height: 400px; overflow: auto; padding-right: 25px; text-align: justify">            
+                        	<div style="margin-top: 20px; font-weight: bold; font-size: 12px;" id="top">Paltalk is committed to protecting your privacy. We want you to feel free to express yourself within the Paltalk community, and are committed to ensuring that you are in control of what you share with the rest of the community, and with Paltalk.</div>            
+                            <!-- Trust-E temporarily disabled
+                            <br>
+                            Paltalk is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization 
+                            whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. 
+                            This privacy statement covers the site www.Paltalk.com. Because this web site wants to demonstrate its commitment to your privacy, 
+                            it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+                            If you have questions or concerns regarding this statement, you should first contact 
+                            <a href="mailto:privacy@corp.paltalk.com" class="bodylink">privacy@corp.paltalk.com</a>. 
+                            If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily 
+                            addressed, you should then contact TRUSTe 
+                            <a href="http://www.truste.org/consumers/watchdog_complaint.php" target="_blank" class="bodylink">http://www.truste.org/consumers/watchdog_complaint.php</a>. 
+                            TRUSTe will then serve as a liaison with the Web site to resolve your concerns. The TRUSTe program covers 
+                            information that is collected through this Web site and, does not cover information that may be collected 
+                            through software downloaded from this site.
+                            <br>
+                            -->
+                            <p><strong><u>Information Collection &amp; Use</u></strong><br><br><strong><u>Registration</u></strong><br>In order to use Paltalk, you must first complete the registration form. During registration you are required to give contact information such as your email address. We use this information to contact you about services on our site in which you have expressed interest. Please see below for Information and Sharing Disclosure.</p>
+                            <p>
+                            	<strong><u>Communications from the Site</u></strong>
+                                </p><ul>
+                                    <li><u>Special Offers and Updates</u><br>We will occasionally send you information on products, services, special deals, or promotions. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice and Opt-out.”<br><br></li>
+                                    <li><u>Newsletters</u><br>If you wish to subscribe to our newsletter, we will use your email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section.<br><br></li> 
+                                    <li><u>Service-related Announcements</u><br>We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.<br><br></li>
+                                    <li><u>Customer Service</u><br>Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.<br><br></li>
+                                    <li><u>Profile</u><br>We store information that we collect through cookies, log files, clear gifs, to create a “profile” of your preferences. We tie your personally identifiable information, and your purchasing history, to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the site for you. We do not share your profile with other third parties without your consent.<br><br>Paltalk is the sole owner of the information collected on Paltalk.com. Paltalk collects personally identifiable information from our users at several different points on our Web site or through our downloaded software.<br><br></li>
+                                    <li><u>Orders</u><br>If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and billing address) and financial information (such as credit card number, expiration date).<br><br>We use this information for billing purposes and to fill your orders. We will use this information to contact you and confirm your orders.</li>
+                                </ul>
+                                <!--
+                                <u>Tell-A-Friend</u><br>
+                                If you choose to use our referral service to tell a friend about our site, we will ask you for your friend&rsquo;s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Paltalk stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+                                <br>
+                                <br>
+                                Your friend may contact us at <a href="http://www.paltalk.com/optout/tellafriend.html" target="_blank" class="bodylink">http://www.Paltalk.com/optout/tellafriend.html</a> to request that we remove this information from our database.
+                                <br>
+                                -->
+                        	<p></p>            
+                            <p><strong><u>Uses of Information</u></strong><br>Paltalk's primary goal in collecting personal information is to provide you, the user, with a customized experience on Paltalk and through our partners. This includes personalization services, interactive communications, and many other types of services, most of which are completely free to you. In order to provide services free of charge, we display advertisements and encourage your participation. By knowing a little about you, Paltalk is able to deliver more relevant advertisements and content, and hence better service, to you.</p>
+                            <p>In our role of delivering targeted advertisements, Paltalk plays the middleman. Advertisers give us advertisements and tell us the type of audience they want to reach (for example, males over 35 years old). Paltalk displays the advertisement to users meeting the specified criteria. In this process, the advertiser never has access to individual user information. This kind of advertisement targeting is done with banner ads as well as promotional email through Paltalk and its affiliates.</p>
+                            <strong><u>Personally identifiable information:</u></strong>
+                            <ul>
+                                <li><u>Agents</u><br>We use outside credit card processing companies to bill you for Paltalk services. These companies do not retain, share, store or use personally identifiable information for any other purposes.<br> We use outside email delivery systems to contact you and provide you with pertinent information via email. These companies do not retain, share, store or use personally identifiable information for any other purposes.</li>            
+                                <li><u>Advertising</u><br>We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site. These companies may use information (not including personal information such as your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.</li>            
+                                <li><u>Legal Disclaimer</u><br>We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.</li>
+                            </ul>            
+                        	<u><strong>Choice/Opt-out</strong></u><br>We provide you the opportunity to ‘opt-out’ of having your personally identifiable 
+                        information used for certain purposes, when we ask for this information.<br><br>If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or visiting <a href="http://register.paltalk.com/reg/ControllerServlet?RequestId=Register.ShowOptout&amp;src=paltalk" class="bodylink">http://register.paltalk.com/reg/ControllerServlet?RequestId=Register.ShowOptout&amp;src=paltalk</a>. You may also contact us at:<br><br>Paltalk.com<br>PO Box 7528,<br>New York, NY 10116-7481<br><br> Or, please contact our helpful customer support staff online. On the Paltalk buddy list window, click Groups, then Paltalk Help Groups.<br><br>
+                        <strong><u>Log Files</u></strong><br>As is true of most Web sites, we gather certain information automatically and store it in log files. This  information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.<br><br>We use this information, which does not identify individual users, to administer the site and to track users' movements around the site.<br><br>We do not link this automatically-collected data to personally identifiable information except during special promotions such as free trials when subscription IP addresses are temporarily tied to personally identifiable information.<br><br><strong><u>Cookies</u></strong><br>A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use session ID cookies on this site to maintain your subscription and maintain your account. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser.<br><br><strong><u>Clear Gifs</u></strong><br>We employ a software technology called clear gifs that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to  cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.<br><br>We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see “Choice and Opt-out.”<br><br><strong><u>Third Party Advertisers</u></strong><br>The ads appearing on this Web site are delivered to users by a Paltalk proprietary ad serving system. We share Web site usage information about users with reputable third party ad networks for the purpose of targeting our 
+                        banner advertisements on Paltalk software.
+                        <br><br>
+                        We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site.  These companies may use information (not including personal information such as your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.
+                        <br><br>
+                        <strong><u>Links to Other Sites</u></strong><br>
+                        Paltalk contains links to other sites that are not owned or controlled by Paltalk. Please be aware that we, Paltalk, 
+                        are not responsible for the privacy practices of such other sites.
+                        <br><br>
+                        We encourage you to be aware when you leave our site and to read the privacy statements of each and every 
+                        Web site that collects personally identifiable information.
+                        <br><br>
+                        This privacy statement applies only to information collected by Paltalk. 
+                        <br><br>
+                        By visiting this Site, all visitors consent to the collection, maintenance, and processing of their personal and 
+                        non-personal information in the United States.
+                        <br><br>            
+                        <strong><u>Paltalk Discussion Rooms</u></strong><br>
+                        If you use a discussion room on Paltalk, you should be aware that any personally identifiable information you submit 
+                        there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited 
+                        messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+                        <br><br>            
+                        <strong><u>Access to Personally Identifiable Information</u></strong><br>
+                        If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, 
+                        delete or deactivate it by making the change on <a href="http://my.paltalk.com" target="_blank" class="bodylink">http://my.paltalk.com</a> 
+                        or by contacting our helpful customer support staff online by clicking Groups on the Paltalk buddy list window, then Paltalk Help.
+                        <br><br>            
+                        <u><strong>Security</strong></u><br>
+                        The security of your personal information is important to us. When you enter sensitive 
+                        information such as credit card numbers on our registration or order forms, we encrypt that 
+                        information using secure socket layer technology (SSL).
+                        <br><br>
+                        We follow generally accepted industry standards to protect the personal information submitted to us, 
+                        both during transmission and once we receive it. No method of transmission over the Internet, or method 
+                        of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable 
+                        means to protect your personal information, we cannot guarantee its absolute security.
+                        <br><br>
+                        Only employees who need the information to perform a specific job are granted access to personally 
+                        identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy 
+                        practices. Finally, the servers that we store personally identifiable information on are kept in a secure environment.
+                        <br><br>
+                        If you have any questions about security on our Web site, you can contact our helpful customer support 
+                        staff online. On the Paltalk buddy list window, click Groups, then Paltalk Help Groups.
+                        <br><br>            
+                        <strong><u>Business Transitions</u></strong><br>
+                        In the event Paltalk goes through a business transition, such as a merger, acquisition by another 
+                        company, or sale of all or a portion of its assets, your personally identifiable information will 
+                        likely be among the assets transferred. You will be notified via email of any such change in ownership 
+                        or control of your personal information.
+                        <br><br>
+                        <strong><u>Changes in this Privacy Statement</u></strong><br>
+                        If we decide to change our privacy policy, we will post those changes to this privacy statement, and other 
+                        places we deem appropriate so that you are aware of what information we collect, how we use it, and under 
+                        what circumstances, if any, we disclose it.
+                        <br><br>
+                        We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+                        <br><br>
+                        This statement reflects the privacy policy of Paltalk with respect to the Web site located at www.Paltalk.com (the “Site”). This statement is intended to inform casual visitors of Paltalk, and visitors who participate in Paltalk, of the data collection and use practices of the Site. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this Site following the posting of any amendment, modification, or change shall constitute your acceptance thereof except if your personally identifiable information will be used in a materially different manner.
+                        <br><br>
+                        <strong><u>Contact Us</u></strong><br>
+                        If you have any questions or suggestions regarding our privacy policy, please contact us at:<br><br>
+                        Paltalk.com<br>
+                        PO Box 7528,<br>
+                        New York, NY 10116-7481<br><br> 
+                        Or, by visiting our helpful customer support staff online, on the Paltalk buddy list window, click Groups, then Paltalk Help Groups.            
+                        <br><br>
+                        <strong><a href="#top" class="bodylink">::Top::</a></strong>            
+                        </div>
+                        <p></p>
+                    </td>
+                </tr>
+                <tr>
+                	<td align="center"><img src="/en/images/spacer.gif" border="0" width="20" height="20" alt=""></td>
+                </tr>
+            </tbody></table>
+        </div>
+    </div>
 </center>
+<link type="text/css" media="all" rel="stylesheet" href="/en/style/scene-new.css">
+<!--[if lte IE 6]><link type="text/css" media="all" rel="stylesheet" href="/en/style/ie6-new.css" /><![endif]-->
+<!--[if IE 7]><link type="text/css" media="all" rel="stylesheet" href="/en/style/ie-new.css" /><![endif]-->
 
 <div id="footer">
-	<div id="footer-block">
-		<div class="block chat">
+	<div class="footer-block">
+		<div class="blocks">
+			<h6>Products</h6>
 			<ul>
-				<li><a href="http://chat.paltalk.com/g2/webapp/groups/GroupsPage.wmt?refc=73175">Chat Rooms</a></li>
-				<li><a href="http://people.paltalk.com/people/webapp/index.wmt?refc=83170">Chat Profiles</a></li>
+				<li><a href="http://www.paltalk.com/chat-sites-download?refc=83190" rel="add-refc">Paltalk Download</a></li>
+				<li><a href="http://express.paltalk.com/?refc=83235" rel="add-refc">Video Chat for Mac</a></li>
+				<li><a href="http://www.paltalk.com/mobile-app">Paltalk Mobile</a></li>
+				<li><a href="http://www.paltalk.com/features/community.shtml#1">Web Video Call</a></li>
+				<li><a href="http://www.paltalk.com/create-a-chat-room">Video Chat Room</a></li>
 				<li><a href="http://www.paltalk.com/superim/">SuperIM</a></li>
-				<li><a href="/download.shtml" rel="os-sniff-auto">Download Paltalk</a></li>
-				<li><a href="/features/community.shtml">About Paltalk</a></li>
+				<li><a href="http://www.paltalk.com/superim/">SuperIM URL</a></li>
+				<li><a href="http://www.paltalk.com/vgifts/">Virtual Gifts</a></li>
+				<li><a href="http://www.paltalk.com/hi-res/">High Resolution Video</a></li>
+				<li><a href="http://www.paltalk.com/features/extras.shtml#3">Send Large Files</a></li>
+				<li><a href="http://www.hearme.com/features/application_sharing.shtml">HearMe Desktop Sharing</a></li>
+				<li><a href="http://www.hearme.com/">Conferencing</a></li>
+				<li><a href="http://www.paltalk.com/features/extras.shtml#4">Video Messages</a></li>
+				<li><a href="http://www.paltalk.com/features/communication.shtml#5">Phone Calls</a></li>
+				<li><a href="http://www.vumber.com/what_is_a_vumber.aspx">Virtual Numbers</a></li>				
 			</ul>
-		</div><!-- end chat -->
+		</div>
 		
-		<div class="block news">
+		<div class="blocks">
+        	<ul class="products">
+            	<li><a href="http://www.paltalk.com/features/communication.shtml#6">Text Chat</a></li>
+				<li><a href="http://www.paltalk.com/features/communication.shtml#7">VOIP Chat</a></li>
+				<li><a href="http://www.paltalk.com/members">Search for Friends</a></li>
+				<li><a href="http://www.paltalk.com/free-chat-rooms">Search for Rooms</a></li>
+				<li><a href="http://www.paltalk.com/website-video-chat">Video Chat Widget</a></li>
+				<li><a href="http://www.paltalk.com/create-a-chat-room">Embeddable Chat Rooms</a></li>
+            </ul>
+			<h6>Connect</h6>
 			<ul>
-				<li><a href="http://paltalknewsnetwork.com/">Paltalk News Network</a></li>
-				<li><a href="http://blog.paltalk.com/paltalkpress/">Press Center</a></li>
-				<li><a href="http://blog.paltalk.com/paltalkarticles/">Articles</a></li>
-				<li><a href="http://blog.paltalk.com/paltalkawards/">Awards</a></li>
-				<li><a href="http://blog.paltalk.com/paltalkmedia/">Video Clips</a></li>
+				<li><a href="http://www.paltalk.com/communication.shtml">MSN Chat</a></li>
+				<li><a href="http://www.paltalk.com/communication.shtml">Google Chat</a></li>
+				<li><a href="http://www.paltalk.com/communication.shtml">Facebook Chat</a></li>
+				<li><a href="http://www.paltalk.com/communication.shtml">AIM Chat</a></li>
+				<li><a href="http://www.paltalk.com/communication.shtml">Yahoo Chat</a></li>
+				<li><a href="http://www.paltalk.com/bb/features.html">Paltalk for Blackberry</a></li>
+				<li><a href="http://www.paltalk.com/android/">Paltalk for Android</a></li>	
+				<li><a href="http://www.paltalk.com/iphone/">Paltalk for iPhone</a></li>			
 			</ul>
-		</div><!-- end news -->
-		
-		<div class="block links">
-		<h3>Partners</h3>
+        </div>
+        
+        <div class="blocks">        	
+			<h6>Share</h6>
+			<ul class="share">
+				<li><a href="https://web.archive.org/web/20110930094756/http://www.paltalk.com/chat-sites-download?refc=83190" id="invitebyemail">Invite by Email</a></li>
+				<li><a href="http://www.paltalk.com/chat-sites-download?refc=83190" rel="add-refc">Invite by Paltalk</a></li>
+			</ul>            
+            <h6>About Us</h6>
 			<ul>
-				<li><a href="http://www.paltalk.com/advertisers.shtml">Advertisers</a></li>
+				<li><a href="http://blog.paltalk.com/press/">Press</a></li>
+				<li><a href="http://blog.paltalk.com/articles/">Articles</a></li>
+				<li><a href="http://blog.paltalk.com/articles/">Reviews</a></li>
+				<li><a href="http://www.paltalk.com/stories/">Testimonials</a></li>
+				<li><a href="http://blog.paltalk.com/awards/">Awards</a></li>
+				<li><a href="http://blog.paltalk.com/media/">Video Clips</a></li>				
+				<li><a href="http://blog.paltalk.com/">Blog</a></li>
+                <li><a href="http://www.paltalk.com/Paltalk_Press_Kit.pdf">Press Kit</a></li>
+				<li><a href="http://www.paltalk.com/buy">Store</a></li>	
+
+				<li><a href="http://www.paltalk.com/paltalk_shows.html">Paltalk Shows</a></li>				
+			</ul>
+		</div>	
+
+		<div class="blocks">
+			<h6>Partners</h6>
+			<ul class="partners">
+				<li><a href="http://www.paltalk.com/advertisers">Advertise</a></li>
+				<li><a href="http://www.paltalk.com/partner">Partnerships</a></li>
+				<li><a href="http://www.paltalk.com/partnerships/">Business Development</a></li>
 				<li><a href="http://www.paltalk.com/affiliate/">Affiliates</a></li>
-				<li><a href="http://www.vumber.com" class="last">Vumber</a></li>
-			</ul><br>
-
-		<h3>Resources</h3>
+			</ul>		
+			<h6>Support</h6>
 			<ul>
-				<li><a href="http://www.paltalk.com/support.shtml">Support</a></li>
-				<li><a href="http://www.paltalk.com/sitemap.shtml">Site Map</a></li>
-				<li><a href="http://www.paltalk.com/partnerships/">Partnerships</a></li>
-				<li><a href="http://www.paltalk.com/contact_paltalk.shtml">Contact Us</a></li>
-				<li><a href="http://blog.paltalk.com/paltalkblog/">Blog</a></li>
-			</ul><br>
-			
-		<h3>Links</h3>
+	            <li><a href="http://www.paltalk.com/translation">Translate Paltalk</a></li>
+				<li><a href="http://support.paltalk.com">Support Home</a></li>
+				<li><a href="http://www.paltalk.com/faq">FAQs</a></li>
+				<li><a href="http://www.paltalk.com/contact_paltalk">Contact Us</a></li>
+				<li><a href="http://www.paltalk.com/sitemap">Site Map</a></li>
+				<li><a href="https://web.archive.org/web/20110930094756/https://commerce.paltalk.com/mpt/MyPalTalkHome.jsp" id="manageaccount">Manage Account</a></li>
+                <li><a id="editroomurl" rel="load-login" rel1="add-refc" href="http://www.paltalk.com/manage-room">Manage Room</a></li>	
+				<li><a id="editprofileurl" rel="load-login" href="http://www.paltalk.com/manage-profile" rel1="add-refc">Manage Profile</a></li>		
+			</ul>
+        </div>
+        
+        <div class="blocks">        	
+			<h6>Legal</h6>
+			<ul class="legal">
+				<li><a href="http://www.paltalk.com/privacy">Privacy</a></li>
+				<li><a href="http://www.paltalk.com/terms">TOS</a></li>
+			</ul>	
+			<h6>Social Networks</h6>
+			<ul class="socialnetworks">
+				<li><a href="http://www.facebook.com/Paltalk" class="facebook">Facebook</a></li>
+				<li><a href="http://twitter.com/paltalk" class="twitter">Twitter</a></li>
+                <li><a href="http://www.youtube.com/paltalkscene">YouTube</a></li>
+			</ul>
+            <h6>Paltalk Family</h6>
 			<ul>
-				<li><a href="http://www.paltalk.com/mobile/">Mobile</a></li>
-				<li><a href="http://hearme.com">Web Conferencing</a></li>
-				<li><a href="http://www.paltalk.com/buy.shtml" class="last">Store</a></li>
-			</ul><br>
-		
-		<h3>Legal</h3>
-			<ul>
-				<li><a href="http://www.paltalk.com/terms.shtml">Terms of Service</a></li>
-				<li><a href="http://www.paltalk.com/privacy.shtml" class="last">Privacy</a></li>
-			</ul><br>
-		
-		<h3>Social Networks</h3>
-			<ul>
-				<li><a href="http://www.facebook.com/Paltalk"><img src="/en/images/scene_images/facebook_icon.jpg"></a></li>
-				<li><a href="http://twitter.com/paltalk" class="last"><img src="/en/images/scene_images/icon-twitter.gif"></a></li>
-			</ul><br>
-
-		<p>© 1999-2010 Paltalk. All rights reserved.</p>
-			
-		</div><!-- end links -->
-		
+				<li><a href="http://www.paltalk.com">Paltalk Video Chat</a></li>
+                <li><a href="http://www.camfrog.com">Camfrog Video Chat</a></li>
+				<li><a href="http://www.vumber.com">Virtual Phone</a></li>                
+			</ul>
+		</div>
+	</div>
+	<!-- end footer-block -->
 	
-	</div><!-- end footer-block -->
-</div><!-- end footer -->
-
-<!-- google analytics code -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-1854096-1");
-pageTracker._setDomainName(".paltalk.com");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-<!-- google analytics code -->
+	<div class="copyright">
+		<p>© 1999-2011 Paltalk. All rights reserved.</p>
+	</div>
+	<!-- end copyright -->
+</div>
+<!-- end footer -->
 
 <!-- Start Quantcast tag -->
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
@@ -589,11 +358,19 @@ pageTracker._trackPageview();
 </noscript>
 <!-- End Quantcast tag -->
 
-<!--
-<iframe src='http://64.40.11.210/' scrolling='no' width='1' height='1' marginheight='0' marginwidth='0' frameborder='0'></iframe>
--->
+<!-- START GOOGLE ANALYTICS -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-1854096-1']);
+_gaq.push(['_setDomainName', '.paltalk.com']);
+_gaq.push(['_trackPageview']);
 
-
-
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();	
+</script>
+<!-- END GOOGLE ANALYTICS -->  
 
 </body></html>
