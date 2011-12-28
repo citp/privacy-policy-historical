@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the iobit.com privacy policy that was archived on 2011-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110430171948id_/http%3A//www.iobit.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iobit.com privacy policy that was archived on 2011-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228231334id_/http%3A//www.iobit.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy - IObit</title>
 <link type="text/css" rel="stylesheet" href="tpl/css/main.css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-<script type="text/javascript" src="./tpl/js/language.js"></script>
+<script type="text/javascript" src="./tpl/js/language.php"></script>
 <script type="text/javascript" src="./tpl/js/base.js"></script>
+<script type="text/javascript">//AutoGotoLangPage(GetPageName());</script>
 <script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-1447202-1']);
@@ -24,13 +25,32 @@ _gaq.push(['_trackPageview']);
   
 <div id="header">
   <div id="toptool">
-    <div id="lang"> <span id="google_translate_element"></span> </div>
+    <div id="lang"> <select id="select-language" style="position:absolute;right:0;top:-4;width:160px;font-size:11px;display:none" onchange="SelectLangage(this.options[this.selectedIndex].value);">
+        <option value="">Select Language</option>
+        <option value="fr">France</option>
+        <option value="it">Italy</option>
+        <option value="nl">Holand</option>
+        <option value="more">More</option>
+ </select>
+ <span id="google_translate_element" style="display:none"></span>
+ <script type="text/javascript">
+var browseLang = GetLang();
+	if (viewSelectLang && IsOtherLang(browseLang)){
+		$("#select-language").css('display','');
+	} else {
+		$("#google_translate_element").css('display','');
+	}
+ </script>
+ </div>
     <div id="share" class="addthis_toolbox addthis_default_style ">
-      <!-- AddThis Button BEGIN -->
-      <div class="addthis_toolbox addthis_default_style "> <a href="http://www.addthis.com/bookmark.php?v=250&amp;username=iobit" class="addthis_button_compact">Share</a> <span class="addthis_separator">|</span> <a class="addthis_button_preferred_1"></a> <a class="addthis_button_preferred_2"></a> <a class="addthis_button_preferred_3"></a> <a class="addthis_button_preferred_4"></a> </div>
-      <script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
-      <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=iobit"></script>
-      <!-- AddThis Button END -->
+    <!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+<!-- AddThis Button END -->
     </div>
     <div class="clear"></div>
   </div>
@@ -39,10 +59,10 @@ _gaq.push(['_trackPageview']);
     <li class="products"><a href="./products.html">Products</a>
       <ul class="dropdown">
         <li><a href="./products.html">View All Products</a></li>
-                <li><a href="./advancedsystemcarepro.html">Advanced SystemCare PRO 4</a></li>
-        <li><a href="./security360pro.html">Security 360 PRO</a></li>
-        <li><a href="./smartdefragserver.html">Smart Defrag Server 2010</a></li>
-        <li><a href="./gamebooster-premium.html">Game Booster Premium 2</a></li>
+                <li><a href="./advancedsystemcarepro.html">Advanced SystemCare PRO 5</a></li>
+       <li><a href="./malware-fighter-pro.html">IObit Malware Fighter PRO</a></li>
+        <li><a href="./gamebooster.html">Game Booster 3</a></li>
+          <li><a href="./iobitsmartdefrag.html">Smart Defrag 2</a></li>
         <li><a href="./password-protected-folder.html">Protected Folder</a></li>
                 <li><a href="./helpmechoose.html">Help Me Choose</a></li>
       </ul>
@@ -219,14 +239,14 @@ $(".dropdown").each(function(){$(this).parent().eq(0).hover(
   </dd>
 </dl>        <div class="line"></div>
         <dl id="resource">
-  <dt>More Resource</dt>
+  <dt>More Resources</dt>
   <dd>
 	<ul>
 	  <li><a href="./index.html"> Speed up Computer</a></li>
 	  <li><a href="./registry-cleaner.html">Free Registry Cleaner/Repair</a></li>
 	  <li><a href="./advancedsystemcarepro.html">Computer repair software</a></li>
-	  <li><a href="./security360.html">Free Anti-malware</a></li>
-	  <li><a href="./security360pro.html">Trojan Remover</a></li>
+	  <li><a href="./malware-fighter.html">Free Anti-malware</a></li>
+	  <li><a href="./malware-fighter-pro.html">Trojan Remover</a></li>
 	  <li><a href="./gamebooster.html">Game Accelerator</a></li>
 	  <li><a href="./iobitsmartdefrag.html">Disk Defrag</a></li>
 	  <li><a href="./smartdefragserver.html">Defrag Server</a></li>
@@ -270,6 +290,7 @@ function googleTranslateElementInit(){
 </script>
 <script type="text/javascript" src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=iobit"></script>
-
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=iobit"></script>
+<script type="text/javascript">var _kiq = _kiq || [];</script>
+<script type="text/javascript" src="//s3.amazonaws.com/ki.js/18815/3Fk.js" async="true"></script>
 </body></html>
