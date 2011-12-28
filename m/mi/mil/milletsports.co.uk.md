@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the milletsports.co.uk privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625203123id_/http%3A//www.milletsports.co.uk/about/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milletsports.co.uk privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228183105id_/http%3A//www.milletsports.co.uk/about/privacy-and-security) for the most accurate reproduction.*
 
-# Privacy policy – Millet Sports
+# Privacy and Security – Millet Sports
 
 We take the safety and security of your details seriously at Millet Sports, which is why whenever we collect any details from you we will always use a secure encrypted form to do so. When you submit your details to us they are encrypted into a secure code that only we have the key to decipher.
 
@@ -41,11 +41,13 @@ Data Protection Department
 
 Millet Sports
 
-7 Carlisle Road
+4 Hertsmere Industrial Park  
+Warwick Road,  
+Borehamwood,  
+Herts  
+WD6 1GT
 
-London
-
-NW9 0HD
+You can also contact us by telephone on 08452 702 011 or via email to enquiries@milletsports.co.uk  
 
 Like most shopping sites, we use cookies to keep track of your current session on our Website and to enable you store items in your shopping basket whilst you are on the site. A cookie is a small text file that a website sends to your browser, which may then store it on your system. Most browsers are set to accept cookies by default, but you do not have to accept cookies and your browser will give you the option of whether to accept or reject them.
 
