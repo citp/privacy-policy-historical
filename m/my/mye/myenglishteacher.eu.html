@@ -1,0 +1,597 @@
+<!--The following is the downloaded HTML source of the myenglishteacher.eu privacy policy that was archived on 2011-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228124619id_/http%3A//myenglishteacher.eu/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+		<title></title>
+        <link rel="shortcut icon" href="/templates/template/http://www.myenglishteacher.eu/templates/template/img/favico.ico">
+                <!-- base href="http://myenglishteacher.eu/" -->
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="language" content="HU">
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<meta name="robots" content="index, follow">
+		<meta name="revisit-after" content="3 Days">
+		<meta name="author" content="Stylers Menedzsment Csoport">
+		<meta name="copyright" content="">
+		<meta name="MADE" content="stylers@stylers.hu">
+		<meta name="GENERATOR" content="STYLERS CMS.">
+		<meta name="rating" content="general">
+		<meta name="distribution" content="global">
+                <!--
+		<script language="javascript" src="http://www.myenglishteacher.eu/templates/template/js/jquery-1.4.2.js" type="text/javascript"></script>
+                -->
+                <script language="javascript" src="http://www.myenglishteacher.eu/templates/template/js/jquery-1.6.2.min.js" type="text/javascript"></script>
+
+		<script language="javascript" src="http://www.myenglishteacher.eu/templates/template/js/jquery.equalheights.js" type="text/javascript"></script>
+		<script language="javascript" src="http://www.myenglishteacher.eu/templates/template/js/jquery.jcarousel.min.js" type="text/javascript"></script>
+		<link rel="stylesheet" type="text/css" href="http://www.myenglishteacher.eu/templates/template/css/style.css" media="all">
+		<link rel="stylesheet" type="text/css" href="http://www.myenglishteacher.eu/templates/template/css/print.css" media="print">
+        <script language="javascript" src="http://www.myenglishteacher.eu/templates/template/js/common.js" type="text/javascript"></script>
+        <link rel="stylesheet" type="text/css" href="http://www.myenglishteacher.eu/templates/template/css/layout.css" media="screen, print">
+		<script type="text/javascript">var base_url = 'http://www.myenglishteacher.eu/';</script>
+
+                
+		<script type="text/javascript">
+
+                     
+
+                    /******************* FORMOK ALAPERTEKEINEK KEZELESE *********************/
+
+                    // hibas, invalid form postolasi probalkozasa (return false;) utan hivd meg ezt a fugvenyt,
+                    // mert visszateszi a defaul value-kat a formokba
+                    formsBack = function() {
+                        $('input').each(function(){
+                            if( $(this).attr('type') == 'text' || $(this).attr('type') == 'password' ) {
+                                if($(this).val() == '') {
+                                    $(this).val($(this).attr('dvalue'));
+                                }
+                            }
+                        });
+                    }
+
+                    $(document).ready(function(){
+
+                        // defualt-valuek a valuebol lesznek vagy irast bele a template-ben az inputhoz egy 'dvalue="alapertek"' -et,
+                        // ha nem teszd meg, akkor ez a script automatikusan belerakja azt, ami van
+                        $('input').each(function(){
+                            if( $(this).attr('type') == 'text' || $(this).attr('type') == 'password' ) {
+                                if( $(this).attr('dvalue') == undefined ){
+                                    $(this).attr('dvalue', $(this).val() );
+                                    $(this).attr('dcolor', $(this).css('color'));
+                                }
+                            }
+                        });
+
+                        // formok postolasanal az alapertekeket kiszedem, hogy ne kuldje el
+                        // pl. Ország nevü orszag ugy hincs, vagy nincs 'Ird be a neved!' nevü ember sem
+                        $('form').each(function(){
+                            $(this).submit(function(){
+                                $('input').each(function(){
+									if( $(this).attr('fixed') != undefined ) {
+										return;
+									}
+                                    else if( ($(this).attr('type') == 'text' || $(this).attr('type') == 'password') ) {
+                                        if($(this).attr('dvalue') == $(this).val()){
+                                            $(this).val('');
+                                        }
+                                    }
+                                });
+                            });
+                        });
+
+                        // ha alapertek van akkor azt kiszedjuk az inputbol,
+                        // ill. fekete szinre valtunk a bevitelhez
+                        $('input').bind('click focus', function(){
+                            if( $(this).attr('type') == 'text' || $(this).attr('type') == 'password' ) {
+                                if($(this).val() == $(this).attr('dvalue')){
+                                    $(this).val('');
+                                }
+                                $(this).css('color', 'black');
+                            }
+                        });
+
+                        // ha kiklikkel az inputbol, de nem irt be semmit,
+                        // akkor az visszaall az alapertek
+                        $('input').bind('blur', function(){
+                            if( $(this).attr('type') == 'text' || $(this).attr('type') == 'password' ) {
+                                if($(this).val() == ''){
+                                    $(this).val($(this).attr('dvalue'));
+                                    $(this).css('color', $(this).attr('dcolor'));
+                                }
+                            }
+                        });
+
+                    });
+                    
+                    
+                    /*
+                     *feliratkozos form validalas:
+                     */
+                    var feliratkozoform_error = false;
+                    $(function(){
+                        $('form.feliratkozoform input[type=submit]').click(function(){
+                            feliratkozoform_error = false;
+                            $('form.feliratkozoform input[type=text]').each(function(){
+                                if($(this).val()=='') feliratkozoform_error = true;
+                            });
+                            if(feliratkozoform_error) {
+                                alert('All fields are required!');
+                                return false;
+                            }
+                        });
+                    });
+
+                    /**************************** FORMOK ALAPERTEKKEZELESENEK VEGE *************************/
+                    
+                    $(function(){
+                       $('.header .inner').css('background-image', 'url(templates/template/gfx/headerInnerBg_nogaleryscroll.png)');
+                    });
+
+		</script>
+                
+
+	<!-- Start Kampyle Css -->
+<link rel="stylesheet" type="text/css" media="screen" href="http://cf.kampyle.com/k_button.css">
+<!-- End Kampyle Css -->
+<!--Start Kampyle Exit-Popup Code-->
+<script type="text/javascript">
+    
+var k_push_vars = {
+    "display_after_on_page": 90,
+    "display_after": 0,
+	"view_percentage": 40,
+	"popup_font_color": "#000000",
+	"popup_background": "#ffffff",
+	"popup_separator": "#D4E2F0",
+	"header": "Your feedback is important to us!",
+	"question": "Would you be willing to give us a short (1 minute) feedback?",
+	"footer": "Thank you for helping us improve our website",
+	"remind": "Remind me later",
+	"remind_font_color": "#3882C3",
+	"yes": "Yes",
+	"no": "No",
+	"text_direction": "ltr",
+	"images_dir": "http://cf.kampyle.com/",
+	"yes_background": "#76AC78",
+	"no_background": "#8D9B86",
+	"site_code": 2203241
+}
+
+</script>
+<!--End Kampyle Exit-Popup Code-->
+
+	</head>
+	<body>
+
+		<div class="wrapper">
+
+
+<!-- HEADER -->
+			<div class="header light">
+				<div class="inner">
+
+		<!-- LOGO -->
+					<p class="logo" style="margin-top: 15px; background-image: url(http://www.myenglishteacher.eu/templates/template/gfx/logo.png); background-repeat: no-repeat;">
+						<a href="http://www.myenglishteacher.eu/">Vissza a főoldalra</a>
+					</p>
+		<!-- / LOGO -->
+
+		<!-- LOGIN
+					<form class="login" method="POST" action="http://www.myenglishteacher.eu/">
+						<input type="text" name="login_mail" /><br/>
+						<input type="password" name="login_pass" />
+						<input type="submit" value="OK"/>
+						<input type="hidden" name="user_login" value="true" />
+						<p>
+							<a href="http://www.myenglishteacher.eu/sign_up">Regisztráció</a><br/>
+							<a href="http://www.myenglishteacher.eu/forgot_password">Elfelejtettem a jelszavam</a>
+						</p>
+					</form>
+		/ LOGIN -->
+		
+<form class="login" method="POST" action="http://www.myenglishteacher.eu/myprofile">
+	<input type="text" name="login_mail" value="Email address">
+	<input type="password" name="login_pass" value="Password">
+	<input type="submit" value="Login">
+	<input type="hidden" name="user_login" value="true">
+	<p>
+		<a href="http://www.myenglishteacher.eu/sign_up">Sign up</a><br>
+		<a href="http://www.myenglishteacher.eu/forgot_password">Forgot your password?</a>
+	</p>
+</form>
+
+
+		<!-- LANGMENU -->
+					<ul class="langMenu">
+						<li><a href="en">EN</a> | </li>
+						<!-- <li><a href="de">DE</a> | </li> -->
+						<li><a href="hu">HU</a></li>
+					</ul>
+                                        <script type="text/javascript">
+                                            
+
+                                            function getCookie(c_name)
+                                            {
+                                            var i,x,y,ARRcookies=document.cookie.split(";");
+                                            for (i=0;i<ARRcookies.length;i++)
+                                            {
+                                              x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+                                              y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+                                              x=x.replace(/^\s+|\s+$/g,"");
+                                              if (x==c_name)
+                                                {
+                                                return y;
+                                                }
+                                              }
+                                            }
+
+                                            $(document).ready(function(){
+
+                                                var ende = location.href.substr( location.href.length-3 );
+                                                if(ende == '/en' || ende == '/de' || ende == '/hu'){
+                                                    //history.back();
+                                                    back = getCookie('location_back');
+                                                    if(back!='undefined') {
+                                                        back_ende = back.substr(back.length-3);
+                                                        if(back_ende == '/en' || back_ende == '/de' || back_ende == '/hu'); else{
+                                                            window.location.href = back;
+                                                        }
+                                                    }
+                                                }
+                                                
+                                                
+                                                    
+                                                    if(ende == '/en' || ende == '/de' || ende == '/hu'); else{
+                                                        document.cookie = 'location_back='+location.href;
+                                                    }
+                                                
+                                            });
+                                            
+                                        </script>
+
+
+		<!-- / LANGMENU -->
+
+
+
+
+		<!-- TOPMENU -->
+					<ul class="topMenu">
+						
+<li>
+ <a href="http://www.myenglishteacher.eu/angoltanarok" title="Search for an English teacher">
+  Teacher Search </a>
+</li>
+<li>
+ <a href="http://www.myenglishteacher.eu/angoloktatas" title="We help you to get students">
+  For Teachers </a>
+</li>
+<li>
+ <a href="http://www.myenglishteacher.eu/blog" title="Advice and inspiring ideas for teaching">
+  Blog </a>
+</li>
+<li>
+ <a href="http://www.myenglishteacher.eu/about_us" title="About us">
+  About us </a>
+</li>
+<li>
+ <a href="http://www.myenglishteacher.eu/sign_up" title=" Sign up to get students">
+  Sign up </a>
+</li>
+
+					</ul>
+		<!-- TOPMENU -->
+
+				</div>
+			</div>
+<!-- / HEADER -->
+
+
+
+<!-- GALLERY -->
+			<div class="gallery empty">
+				<div class="inner">
+					&nbsp;
+				</div>
+			</div>
+<!-- / GALLERY -->
+
+
+
+
+
+<!-- CONTENT -->
+			<div class="content light">
+				<div class="inner">
+	<!-- LEFTSIDE -->
+					<div class="leftSide">
+
+                                                
+<!--
+<ul class="content">
+        <li><h3><a> </a></h3></li>  
+        <li>                                          
+            <p class="socials">
+	<span class="label" style="padding:33px 0 0 34px;">Join us on FACEBOOK</span> <a href="http://facebook.com" target="_blank"><img alt="" src="http://www.myenglishteacher.eu/userfiles/images/facebookIcon.png" style="width: 46px; height: 46px; margin-right: 12px;" /></a></p>
+
+                        
+            <div class="clear"></div>
+        </li>  
+ </ul>
+-->
+
+<h1> </h1>
+<!-- lead -->
+<p class="socials">
+	<span class="label" style="padding:33px 0 0 34px;">Join us on FACEBOOK</span> <a href="http://facebook.com" target="_blank"><img alt="" src="http://www.myenglishteacher.eu/userfiles/images/facebookIcon.png" style="width: 46px; height: 46px; margin-right: 12px;"></a></p>
+
+<!-- description -->
+
+<div class="hr">&nbsp;</div>
+
+<div style="clear:both;"></div>
+<br>
+<div style="background-color: #f5efe8;">
+
+<h3 style="background-color: transparent;
+color: #A5722B;
+display: block;
+font-family: Verdana, Arial, sans-serif;
+font-size: 17px;
+font-weight: normal;
+height: 20px;
+margin-bottom: 0px;
+margin-left: 15px;
+margin-right: 0px;
+margin-top: 0px;
+padding-bottom: 12px;
+padding-left: 0px;
+padding-right: 0px;
+padding-top: 15px;
+width: 187px;">Recommend this site</h3>
+
+<p style="color:red; padding-bottom:0px; text-align: center;" id="ajanlo_hiba"></p>
+
+<form method="post" action="" id="ajanlo" style="margin-left: 15px;
+margin-right: 15px;">
+    <input type="text" name="ajanlo[nev]" id="ajanlo_nev" value="Your name" style="width: 271px;">
+    <input type="text" name="ajanlo[email]" id="ajanlo_email" value="Recipient's e-mail" style="width: 271px;">
+
+    <div style="text-align: center; padding-bottom: 15px;">
+        <input type="submit" value="Send">
+        
+    </div>
+    
+</form>
+
+</div>
+
+<script type="text/javascript">
+    
+    $(document).ready(function(){
+        $('#ajanlo').submit(function(){
+            var hiba = false;
+            if($('#ajanlo_nev').val()=='')hiba = 'Enter your name!';
+            if($('#ajanlo_email').val()=='')hiba = 'Enter your friend`s e-mail address!';
+            if(hiba){
+                $('#ajanlo_hiba').show();
+                $('#ajanlo_hiba').html(hiba);
+                formsBack();
+                return false;
+            }
+        });
+    });
+    
+</script>
+
+
+					</div>
+	<!-- / LEFTSIDE -->
+
+
+	<!-- RIGHTSIDE -->
+					<div class="rightSide">
+						<div class="whiteBox">
+
+							
+							
+														
+	<h2>Privacy Policy Statement of Myenglishteacher.eu</h2>
+
+	<br>
+
+	<p>
+	<br>
+	1. Handled data<br>
+	<br>
+	Myenglishteacher.eu will only store the following data provided by the User: name, e-mail address, photo, teaching place, teaching language, is English the first language, practice, hourly fee, teaching level, form of teaching, and personal information provided voluntarily considered by the User as important (editable).<br>
+	<br>
+	Other Users can access only the following data: name, photo, teaching place, teaching language, is English the first language, practice, hourly fee, teaching level, form of teaching, and personal information provided voluntarily considered by the User as important (editable).<br>
+	<br>
+	Our servers log the IP address of the User, the start and end of visit, and in some cases – based on the User’s computer settings – the type of browser and operating system used during the viewing of Myenglishteacher.eu. Our system automatically logs this data. The log file data will not be connected by Myenglishteacher.eu with any other personal data.<br>
+	<br>
+	2. Purpose of data management<br>
+	<br>
+	The purpose of data management in the case of mandatory data provided by the User is the identification of the User’s authorization, and the possibility of performing the ordered service.<br>
+	The log file data collected during the use of Myenglishteacher.eu is stored solely for statistical purposes.<br>
+	<br>
+	Myenglishteacher.eu will not use the personal data for any purpose other than the specified purposes; will not disclose any personal data – with the exception of the following cases – to any third party:</p>
+<ul class="origin">
+	<li>
+		Data transfers required by law,</li>
+	<li>
+		Partners effecting payments (e.g. credit card companies, banks, PayPal),</li>
+	<li>
+		IT service providers (e.g. computer centres, internet service providers, data recovery providers, mass mailing service providers)</li>
+</ul>
+<p>
+	These service providers can access your data only to the extent necessary for the fulfilment of their tasks. These service providers oblige themselves to handle your personal data according to this privacy policy statement, and pursuant to the relevant data protection acts.<br>
+	<br>
+	3. Duration of data management<br>
+	<br>
+	The mandatory data provided by the User is stored on the server of Myenglishteacher.eu until the existence of the relation, but for a maximum of 2 years after the inactivation of the registration.<br>
+	<br>
+	The system stores the data collected in the log file during the use of Myenglishteacher.eu for maximum 2 years starting from visiting the website.<br>
+	<br>
+	4. Deletion of personal data<br>
+	<br>
+	We delete the personal data if its management is unlawful, or if the purpose of data management has been terminated, or if the User expresses his/her definite wish to ultimately delete their data from our record.<br>
+	<br>
+	5. Data processor<br>
+	<br>
+	Myenglishteacher.eu does not apply an external data processor.<br>
+	<br>
+	6. Data security measures<br>
+	<br>
+	Myenglishteacher.eu does not place cookies on the User’s computer.<br>
+	Myenglishteacher .eu carefully chose its hosting provider (where the files of its website and user data are stored) in order to protect its data against unauthorised access, however nobody is safe from hackers these days. Myenglishteacher.eu will notify you, as soon as possible, if a breach in security results in an unauthorized intrusion into our system which materially affects you, and will subsequently report the corrective action taken in response to the intrusion.<br>
+	<br>
+	Myenglishteacher.eu accounts require a username and password to log in. When you're finished using Myenglishteacher.eu , please click the "log out" link in the top right corner of your screen, to prevent someone from using your computer to access your account. You must keep your username and password secure and not disclose it to a third party.<br>
+	<br>
+	7. User rights concerning the management of personal data<br>
+	<br>
+	Users may request information regarding the management of their personal data. The request for information must be submitted to <a href="mailto:info@myenglishteacher.eu">info@myenglishteacher.eu.</a></p>
+<p>
+	8. Modification of the privacy policy</p>
+<p>
+	Myenglishteacher may update this Privacy Policy in the future to reflect changes in our privacy practices, our website functionality, or applicable legislation, so please check back often. We will notify you about material changes to this Privacy Policy by sending a notice to the e-mail address you provided to us or by placing a prominent notice on the Site.<br>
+	<br>
+	9. Means of redress<br>
+	<br>
+	The User can seek redress and make a complaint at the office of the Data Protection Commissioner (Address: ) If you have any further questions and observations, please contact Myenglishteacher.eu by e-mail at <a href="mailto:info@myenglishteacher.eu">info@myenglishteacher.eu</a> or regular mail at<br>
+	<br>
+	MyLanguageTeacher Kft.<br>
+	H-1139 Budapest<br>
+	Petneházy u. 38-42. B/8/1.</p>
+<p>
+	This privacy policy is effective as of 1 April 2011<br>
+	&nbsp;</p>
+
+
+						</div>
+					</div>
+	<!-- RIGHTSIDE -->
+				</div>
+			</div>
+<!-- / CONTENT -->
+
+
+
+<!-- FOOTER -->
+			<div class="footer">
+				<div class="inner">
+
+		<!-- FOOTER CONTACT -->
+					<p class="contact">
+						<!-- <span class="title"></span><br/> -->
+                                                <br>
+                                                <span class="home" style="background-image: url(http://www.myenglishteacher.eu/templates/template/gfx/info.png); margin-left: 1px;">MyLanguageTeacher Ltd.</span><br>
+						<span class="home">H-1139 Budapest, Petneházy utca 38-42, B/8/1</span><br>
+						<span class="letter"><a href="mailto:amina@myenglishteacher.eu">amina@myenglishteacher.eu</a></span><br>
+						<!--<span class="phone">(06 30) 0 000 000</span><br/>-->
+					</p>
+		<!-- / FOOTER CONTACT -->
+
+		<!-- FOOTER MENU -->
+					<p class="footerMenu1">
+                                            
+&nbsp;
+ <a href="http://www.myenglishteacher.eu/angoltanarok" title="Search for an English teacher">
+  Teacher Search </a>
+
+&nbsp;
+ <a href="http://www.myenglishteacher.eu/angoloktatas" title="We help you to get students">
+  For Teachers </a>
+
+&nbsp;
+ <a href="http://www.myenglishteacher.eu/blog" title="Advice and inspiring ideas for teaching">
+  Blog </a>
+
+&nbsp;
+ <a href="http://www.myenglishteacher.eu/about_us" title="About Us">
+  About Us </a>
+
+&nbsp;
+ <a href="http://www.myenglishteacher.eu/sign_up" title=" Sign up to get students">
+  Sign up </a>
+
+
+
+					</p>
+		<!-- / FOOTER MENU -->
+		<div style="clear: right;"></div>
+		<!-- FOOTER MENU -->
+					<p class="footerMenu2">
+                                            
+&nbsp;|&nbsp;
+ <a href="http://www.myenglishteacher.eu/" title="Home">
+  Home </a>
+
+&nbsp;|&nbsp;
+ <a href="http://www.myenglishteacher.eu/privacy_policy" title="Privacy Policy">
+  Privacy Policy </a>
+
+&nbsp;|&nbsp;
+ <a href="http://www.myenglishteacher.eu/terms_of_use" title="Terms of Use">
+  Terms of Use </a>
+
+
+                                            </p><div style="clear:both;"></div>
+                                             <div style="color:white; float:right;">
+                                                Copyright © 2011 MyEnglishTeacher.eu | All Rights Reserved
+                                            </div>
+					<p></p>
+		<!-- / FOOTER MENU -->
+
+
+		<!-- LOGIN
+					<form class="login" method="POST" action="http://www.myenglishteacher.eu/">
+						<input type="text" value="Felhasználói név"/>
+						<input type="password" value="Jelszó"/>
+						<input type="submit" value="OK"/>
+						<p>
+							<a href="http://www.myenglishteacher.eu/sign_up">Regisztráció</a><br/>
+							<a href="http://www.myenglishteacher.eu/forgot_password">Elfelejtettem a jelszavam</a>
+						</p>
+					</form>
+		/ LOGIN -->
+		
+
+	<form class="login" method="POST" action="http://www.myenglishteacher.eu/myprofile">
+		<input type="text" name="login_mail" value="Email address">
+		<input type="password" name="login_pass" value="Password">
+		<input type="submit" value="Login">
+		<input type="hidden" name="user_login" value="true">
+		<p>
+			<a href="http://www.myenglishteacher.eu/sign_up">Sign up</a><br>
+			<a href="http://www.myenglishteacher.eu/forgot_password">Forgot your password?</a>
+		</p>
+	</form>
+
+
+		<!-- PARTNER LOGOS -->
+					<ul class="partnerLogos">
+						<li><a href="http://www.stylers.hu" target="_blank">Stylers</a></li>
+					</ul>
+		<!-- / PARTNER LOGOS -->
+
+				</div>
+			</div>
+<!-- / FOOTER -->
+
+		</div>
+
+<!--Start Kampyle Feedback Form Button-->
+
+<div id="k_close_button" class="k_float kc_bottom_sl kc_right"></div><div><a href="http://www.kampyle.com/feedback_form/ff-feedback-form.php?site_code=2203241&amp;lang=en&amp;form_id=62867" target="kampyleWindow" id="kampylink" class="k_float k_bottom_sl k_right" onclick="javascript:k_button.open_ff('site_code=2203241&amp;lang=en&amp;form_id=62867');return false;"><img src="http://cf.kampyle.com/buttons/en/orange/en-orange-band-low-right.gif" alt="Feedback Form" border="0"></a></div>
+<div id="k_slogan" class="k_float k_bottom k_right">
+				<a href="http://www.kampyle.com/online-lead-generation-services" target="_blank">Leads to Insight</a></div>
+<script src="http://cf.kampyle.com/k_button.js" type="text/javascript"></script>
+<script src="http://cf.kampyle.com/k_push.js" type="text/javascript"></script>
+<!--End Kampyle Feedback Form Button-->
+
+<!-- adatkezelesi_szabalyzat -->
+
+	
+
+</body></html>
