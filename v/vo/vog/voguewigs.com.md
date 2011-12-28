@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voguewigs.com privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108161126id_/http%3A//www.voguewigs.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voguewigs.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228145606id_/http%3A//www.voguewigs.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,13 +20,13 @@ We do not have advertisers on our web page. Some functions, like our message boa
 
 **Registration Forms**
 
-Our site's registration form requires users to give us contact information and financial information. Contact information from the registration forms is used to get in touch with the customer when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services.
+Our site's registration form requires users to give us contact information and financial information. Contact information from the registration forms is used to get in touch with the customer when necessary and for customer service purposes regarding abandoned shopping carts. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services.
 
 **Order Forms**
 
 Our site uses an order form for customers to request information, products, and services. We collect contact information and sometimes financial information.
 
-Contact information from the order forms is used to get in touch with the visitor when necessary.
+Contact information from the order forms is used to get in touch with the visitor when necessary and for customer service purposes regarding abandoned shopping carts.
 
 Financial information that is collected is used to check the users' qualifications for registration, and to bill the user for products and services.
 
