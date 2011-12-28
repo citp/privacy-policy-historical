@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitnessfirst.com.au privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506060245id_/http%3A//www.fitnessfirst.com.au/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessfirst.com.au privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228224503id_/http%3A//www.fitnessfirst.com.au/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy statement | Fitness First Australia | Real Fitness, Health club, Gym, Training, Weight loss, Exercise, Aerobics, Personal training, Fitness Equipment Sales
 
