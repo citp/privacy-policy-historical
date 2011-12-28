@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutraplanet.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424101608id_/http%3A//www.nutraplanet.com/company/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutraplanet.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228062358id_/http%3A//www.nutraplanet.com/company/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,18 +81,3 @@ By using our Web site you consent to our collection and use of your personal inf
 **Notification of Changes**
 
 The Privacy Policy is subject to periodic review and change. In order to view the current Privacy Policy, simply check this section of the website.
-
-| 
-
-### Navigation
-
-  * [About Us](https://web.archive.org/company/)
-  * [Ordering Information](https://web.archive.org/company/ordering-information.html)
-  * [Shipping & Returns](https://web.archive.org/company/shipping-and-returns.html)
-  * [Customer Testimonials](https://web.archive.org/company/customer-testimonials.html)
-  * [Sponsored Athletes](https://web.archive.org/company/sponsored-athletes.html)
-  * [Privacy](https://web.archive.org/company/privacy-policy.html)
-  * [Conditions Of Use](https://web.archive.org/company/conditions-of-use.html)
-
-  
----|---
