@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bored-night.com privacy policy that was archived on 2011-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110114044324id_/http%3A//bored-night.com/index.php/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bored-night.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228222230id_/http%3A//www.bored-night.com/Pages/153/privacy_policy.html) for the most accurate reproduction.*
 
-# Bored With Work? | Bored At Home? | Just BORED? - Privacy Policy
+# Bored at Night? | Bored People | Bored 2 Fun
 
 **Bored-night.com** has created this privacy statement in order to demonstrate  
 our firm commitment to privacy. The following discloses the information gathering  
@@ -35,4 +35,4 @@ the privacy practices or the content of such Web sites.
   
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site,  
-or your dealings with this Web site, you can [**contact us**](http://bored-night.com/index.php/Contact-Us.html) .
+or your dealings with this Web site, you can [**contact us**](https://web.archive.org/web/20111228222230id_/http%3A//www.bored-night.com/Pages/153/index.php/Contact-Us.html) .
