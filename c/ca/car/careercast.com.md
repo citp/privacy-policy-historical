@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careercast.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503220643id_/http%3A//www.careercast.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careercast.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228224123id_/http%3A//www.careercast.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | CareerCast.com
 
@@ -124,7 +124,9 @@ The CareerCast.com Site is not intended for children under 13 years of age. We d
 
 Third Party Seal and Dispute Resolution
 
-CareerCast.com and Adicio, Inc. are members of the TRUSTe privacy seal program, the TRUSTe E.U. Safe harbor seal program and the TRUSTe dispute resolution program. TRUSTe has certified the practices of CareerCast.com and Adicio, Inc. Please consult the TRUSTe Web site [http://www.truste.com](http://www.truste.com/ "http://www.truste.com") for more information concerning TRUSTe's privacy programs and dispute resolution procedures. The TRUSTe programs cover only information collected through CareerCast.com and Adicio, Inc., and does not cover information that may be collected through software downloaded from the CareerCast.com Site.
+CareerCast.com and Adicio, Inc., has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, CareerCast.com and does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [careercastsupport@adicio.com](mailto:careercastsupport@careercast.com).  If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint)
+
+CareerCast.com and Adicio, Inc., comply with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
 **Changes to Privacy Statement**
 
@@ -138,4 +140,4 @@ CareerCast.com is the name under which Adicio, Inc., a California corporation wi
 
 Thank you for using CareerCast.com.
 
-Update Effective August 12, 2009
+Update Effective September 27, 2011
