@@ -1,151 +1,151 @@
-> *The following text is extracted and transformed from the comics.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523121543id_/http%3A//comics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comics.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228201355id_/http%3A//www.gocomics.com/help/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# GoComics.com
 
-### WELCOME TO COMICS.COM PRIVACY POLICY
+At Universal Uclick ("Uclick"), we respect your right to privacy and we understand that visitors to Universal Uclick's Web Sites need to control the uses of their personal information. The privacy policy below details the measures taken by Universal Uclick to protect your privacy in connection with your use of [www.gocomics.com](http://www.gocomics.com/), [www.uPuzzles.com](http://www.upuzzles.com/), [www.ComicsSherpa.com](http://www.comicssherpa.com/) , [www.InfiniteCrosswords.com](http://www.infinitecrosswords.com/) and other sites or applications owned and operated by Universal Uclick, ("Sites"). Universal Uclick does not intend to collect any personal information from children under 13 unless Universal Uclick believes such collection to be permitted by law; please read below for Universal Uclick's policy with respect to children under 13.
 
-This Privacy Policy applies only to Comics.com (however accessed) and other interactive features or downloads that are accessible or downloadable through, or related to, Comics.com and owed by United Media (collectively, the " _Web Site_ "). The Web Site is owned by United Media ( _"United Media," "we" or "us"_ ). This Privacy Policy only covers information collected at or via the Web Site and does not cover any information collected at any other web site or offline by United Media (unless specifically stated). This Privacy Policy addresses how United Media collects information at or via the Web Site, what information it collects, how it may use this information and other related issues. Please review this Privacy Policy carefully. In addition, please review the Web Site's [Terms of Use](https://web.archive.org/terms/ "Terms of Use"), which govern your use of the Web Site 
+**What does the this Privacy Policy cover?**  
+This policy covers the treatment and use of personally identifiable information that is collected by Universal Uclick, at any of its owned, operated or affiliated Web sites and when you sign up to use any of the services provided at the sites.
 
-### YOUR CALIFORNIA PRIVACY RIGHTS
+This policy does not cover information that may or may not be collected by companies or Web sites that Universal Uclick does not own or control. This policy also does not guide the behavior of individuals not employed by Universal Uclick.
 
-Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed personally identifiable information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a Privacy Policy that gives either an opt-out or opt-in choice for use of your personally identifiable information by third parties (such as advertisers) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options. 
+**How is my personally identifiable information used by Universal Uclick?**  
+Universal Uclick is the sole owner of the information collected from the Universal Uclick service. Your Personal Information can only be collected when you voluntarily provide it. 
 
-United Media has opted for the alternative option and therefore it has a comprehensive Privacy Policy and provides you with details on how you may opt-out or opt-in to the use of your personally identifiable information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of third parties that received your personally identifiable information for marketing purposes 
+**What is "Personal Information"?**  
+Personal Information is individually identifiable information about a person. This information can include a first and last name, credit card number, a home, billing or e-mail address or a personal identifier that reveals an individual's e-mail address, or a telephone or social security number. Personal information also includes a persistent identifier, such as a customer number held in a cookie (See below for definition of "cookie"), where such identifier is associated with individually identifiable information. 
 
-### OVERVIEW
+**Customized Experience**  
+Universal Uclick gathers user information to provide you with a customized experience on our sites and other services. Your user information helps us tailor the content, services, goods and advertising to your current and future needs. For this reason, we may ask you to register or to provide personal information when you visit certain areas of our site, register for free services, order products, enter contests or subscribe to a newsletter. If you choose not to register, you may not have access to areas that require personal identification. 
 
-This policy statement discloses our privacy practices including the notification of: 
+**Subscription Services**  
+If you subscribe to our site(s) for premium content services, Universal Uclick will gather user information and personal information to grant you access to the site(s). Universal Uclick may use third parties to accept and process orders and credit card purchases for subscriptions, merchandise and products. If you choose not to register you may not have access to subscription areas that require personal identification. 
 
-  * Personally identifiable information collected through the Web Site;
-  * Intended usage of this information;
-  * Choices available regarding opt-in/opt-out, data collection, use and distribution of the information;
-  * Security measures designed to protect the loss or misuse of information under our control; and
-  * How to maintain the accuracy of your information.
+**E-mail Delivery**  
+If you register with our site(s) for daily e-mail delivery, subscription services or purchase products from us, from time to time, we may e-mail you with informative messages about our services or third party products and services we believe may be of interest to you, such as new features and services, special offers and updated information. These e-mails may contain code that enables our database to track your usage of the e-mail, including whether the e-mail was opened and/or what links (if any) were clicked. We will combine that information to other information we have about you and may use that information to improve your site experience and/or provide customized e-mail communications to you. 
 
+**Mobile Messaging**  
+Universal Uclick might gather some personal information specific to participating in mobile messaging programs. The information requested may include contact, mobile phone numbers, carriers, and models for product delivery, and demographic information. 
 
+**When does Universal Uclick collect my information, including personally identifiable information?**  
+When you register, Universal Uclick asks for your e-mail address, a user selected user name, and other information. Once you are a registered user you can update your profile and may be able to provide additional preferential information (e.g. a member name, a nickname, and certain user preferences). Universal Uclick may also ask for other optional information. (See below on Universal Uclick's policy with respect to children under 13)
 
-### HOW INFORMATION IS COLLECTED AND USED
+**Subscription Services**  
+When you subscribe, Universal Uclick asks for your e-mail address, a user selected user name, password and other necessary financial information to process the order. Credit card information is collected by Universal Uclick, however, the specific credit card number is not stored within the Universal Uclick System. Contact information from the order is used to fulfill premium purchases to our registered users and to get in touch with the user when deemed necessary. Once you are a subscribed user you can update your profile and may be able to provide additional preferential information. Universal Uclick may also ask for other optional information. (See below on Universal Uclick's policy with respect to children under 13)
 
-### Information You Provide To The Web Site
+**Order Forms and Products Store**  
+Universal Uclick also uses an order form for users to request information, products and services. For that order form, we collect a user's contact information (e-mail address) and necessary financial information to process the order (i.e. credit card number). Contact information from the order is used to send orders to our registered users and to get in touch with the user when deemed necessary. Universal Uclick may use third parties to accept and process orders and credit card purchases for merchandise and products. For some products, third parties host the store pages, ordering system, order data, collect order information, contact information and necessary financial information to process the order. Please see the privacy policies on their Web sites for more information about how CafePress uses this information. 
 
-The Web Site may collect personally identifiable information about you, such as your name and e-mail address ("Personal Information") and other information that, on its own, can not be used to identify you personally, such as your age ("Demographic Information"). We may collect the Personal Information and Demographic Information at multiple places on the Web Site, including, the Web Site's main registration form; entry forms for contests, sweepstakes, or surveys; or when you submit content or communications to the Web Site. If we ever use any Demographic Information together with any Personal Information, such Demographic Information will be treated as Personal Information under this Privacy Policy. 
+**Special Contests or Promotions**  
+Universal Uclick may occasionally present a special contest or promotion that is sponsored by another company. To qualify for entry in that contest or promotion, we may ask you to provide personal information. If we plan to share that information with the sponsor(s) or with others, we will provide a statement to that effect in the contest or promotion terms. 
 
-We will use the Personal Information and Demographic Information you provide to the Web Site as disclosed at the time we collect the information from you. In addition, this information may be used to: 
+**IP Address**  
+An Internet Protocol (IP) address is unique string of numbers that is assigned to your computer by your Internet Service Provider. Web servers automatically identify your computer by its IP address. We will use your IP address to help diagnose problems with our server and to administer our site. Your IP address also may be used to gather broad demographic information. 
 
-  * Send you communications, including e-mails containing editorial cartoons, comics and newsletters;
-  * Notify you about content or features available at the Web Site;
-  * Notify you about additions or changes to content you or others have submitted to the Web Site;
-  * Send you communications on behalf of third parties, including promotional offers; 
-  * Contact you with regard to a sweepstakes, contest, survey or promotion in which you have participated; 
-  * Register you for participation in an online activity; 
-  * Complete a transaction, provide you with a refund or authorize a purchase that you have requested; 
-  * Verify the accuracy of information you submit to the Web Site; 
-  * Collect and respond to reports of inappropriate conduct at the Web Site; 
-  * Monitor, administer or improve the Web Site or develop future web sites or for other internal business purposes; 
-  * Customize and tailor the Web Site's advertising and other content; 
-  * Contact you about the Web Site, your Personal Information or content, to provide customer service or give important notices or to respond to inquiries you make through the Web Site; or 
-  * Comply with and monitor compliance with the Web Site's Terms of Use and other applicable agreements and polices. 
+**Cookies**  
+A "cookie" is a small line of text that is stored with your Web browser for record-keeping purposes and to help us provide better service to you. Your browser has options to accept, reject, or provide you with notice when a cookie is sent. Universal Uclick may utilize "cookie" technology by sending and/or receiving information from our computers to your browser and computer. We also use cookies to customize our site(s) and deliver content specific to your interests. 
 
+**Computer-Generated Information**  
+Universal Uclick may use server logs to track your movement through our Web sites and properties - in addition, we may use this information to customize the user experience or provide registrant continuity between our various Web sites and properties. Universal Uclick may also use other technologies to verify and track your use of certain services, confirm receipt of certain e-mailed products or to test the integrity of our systems, products and services. 
 
+**Advertisements**  
+The ads appearing on this Web site are delivered to you by our Web advertising partners. In the process of serving ads, advertisers place a cookie in your browser's cookie file and may use information (excluding your name, address, e-mail address or other personal information) about your visits to this and other Web sites in order to provide advertisements on this site and other Web sites about goods and services that may be of interest to you. By delivering ads on the Sites, Universal Uclick is able to record what ads a user -- identified by the unique cookie -- has seen, and what Universal Uclick site pages the user was viewing when the ads were delivered. This Web usage information is combined with other ad delivery information Universal Uclick has (e.g., what type of operating system your computer uses) collected from your visits to Universal Uclick Sites and other sites not affiliated with Universal Uclick. This non-personally identifiable information is used as part of the ad serving process for reporting and to select and direct the ads you see online at Universal Uclick Sites. Additionally, some ads are generated by third party ad serving systems that also may place a cookie on your browser to provide web usage information to those third parties. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. As always remember, we only authorize our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. Our third-party ad servers do not collect, nor do we give them access to, any personally identifying information about you. To find out more about those specific third party ad serving systems, please click to their sites below: 
 
-Information submitted to the Web Site through a "contact us" form, address or other similar mechanism, or when you otherwise e-mail us, may not receive a response from United Media. We will not use this information to contact you for marketing purposes unrelated to your inquiry unless you agree otherwise. For security reasons, we do not recommend that you send non-public personal information, such as passwords, social security numbers, or bank account information to us by email. 
+[24/7 Real Media Inc.](http://www.247realmedia.com/privacy.html)  
+[Advertising.com](http://advertising.aol.com/privacy)  
+[Avenue A](http://www.avenuea.com/about/aboutPrivacyPolicy.asp)  
+[AdKnowledge](http://www.engage.com/company/privacy.cfm)  
+[Click Yield](http://www.clickyield.com/)  
+[DoubleClick](http://www.doubleclick.com/us/corporate/privacy/)  
+[Engage](http://www.engage.com/company/privacy.cfm)  
+[Eyeblaster](http://www.eyeblaster.com/WebSite/Privacy_Policy.htm)  
+[Eyewonder](http://www.eyewonder.com/about/privacy.cfm)  
+[FastClick](http://www.fastclick.com/about/privacy.html)  
+[Her Agency](http://www.heragency.com/)  
+[iBlast](http://www.iblast.com/)  
+[Klipmart](http://www.klipmart.com/)  
+[Lightningcast](http://www.lightningcast.com/company/privacy.html)  
+[MaxWorldWide](http://www.maxworldwide.com/privacy_policy/index.php)  
+[MediaPlex](http://www.mediaplex.com/privacy.shtml)  
+[Meebo](http://www.meebo.com/privacy/advertising/) [Platform-A](http://www.platform-a.com/privacy-policy)  
+[Tribal Fusion](http://www.tribalfusion.com/TribalFusion/privacy.html)  
+[Unicast](http://www.unicast.com/company/privacy.asp)  
+[United Virtualities](http://www.unitedvirtualities.com/)  
+[x10 Network](http://www.x10.com/privacy.htm)  
 
-This Web Site may make blogs, message boards and other public forums available to its users. If you post Personal Information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public. We also cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose Personal Information in these areas. 
 
-Also, remember that if you submit comments, votes, blog entries, comic strip text, photographs, videos, music or other user-generated content to the Web Site, it may be published online or offline in any media or format (currently existing or hereafter developed). Others may have access to this content and may have the ability to share it with third parties across the Internet. United Media may also publish your name, voice, likeness and other Personal Information with the content (or a portion thereof), and United Media may use the content, (or a portion thereof) for advertising, marketing, publicity and promotional activities. For full terms and conditions regarding user-generated content you submit to the Web Site, please review the Web Site's [Terms of Use](https://web.archive.org/terms/ "Terms of Use"). 
+**Opting Out of Third-Party Ad Servers**  
+We recognize that not all users wish to receive ads targeted to their interests and we put the wishes of our users first. If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network’s Web site individually and opt out of this type of advertising. You may find more information from these sites:
 
-### Content You Send From The Web Site To A Friend
+For DoubleClick, one of our partners, cookies, and how to "opt-out," you can visit this page: <http://www.doubleclick.net/us/corporate/privacy/privacy/ad-cookie/default.asp>.
 
-If you send a friend a communication from the Web Site, the information you provide is used on a one-time basis to facilitate the communication and is not used for any other marketing purpose, unless we obtain additional consent. 
+For 24/7 Real Media, Inc., one of our partners, cookies, and how to "opt-out," you can visit this page: <http://www.247realmedia.com/privacy.html>.
 
-### Third Parties Provide Us With Information About You
+If you would like to opt-out of third party ad serving cookies now click here: [www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp). This opt-out feature replaces a network advertiser's unique online preference marketing cookie on your browser with a general opt-out cookie; it does not delete cookies and does not necessarily replace other cookies placed by network advertisers, such as those that are used for aggregate ad reporting or mere ad serving purposes. Such cookies allow network advertisers to rotate ad banners sequentially and track aggregate numbers of impressions. Please see the companies' privacy policies for more details or visit the [NAI web site](http://www.networkadvertising.org/optout_nonppii.asp) for more information. For us at Universal Uclick, the most important thing is that you make the choice that is best for you. 
 
-We also may, from time to time, combine the information we collect from you with information obtained from third parties. We may do this to provide you with services, tailor our content to you or present you with a chance to purchase products or services that may be of interest to you. We may combine information received from third parties with information we collect through the Web Site. In those cases, we will apply this Privacy Policy to any personal identifiable information received from third parties, unless we tell you otherwise at the time you provide us with your personally identifiable information. 
+**Links to Other Sites**  
+The Universal Uclick Sites contain links, including banner and other ads, to other Web sites. Universal Uclick is not responsible for the privacy practices or the content of such Web sites. The Universal Uclick Sites may also link to Web sites that feature Universal Uclick trademarks and names along with trademarks and names of other companies. You should look at the privacy policy on that co-branded Web site, as the co-branded Web site may not be under Universal Uclick's control. 
 
-### We Collect Information As You Access And Use The Web Site
+**Information from Other Sources**  
+For reasons such as improving member experience and providing customized communications to our users, we may receive information about you from other sources and add it to the information that we have received from you. 
 
-We may collect certain non-personally identifiable information related to your usage of the Web Site and how you arrived at the Web Site ("Usage Information"), which may include a visitor's "IP Address" (discussed below) or another unique identifier for a device used to access the Internet, operating system, browser type, referring web site URL. This Usage Information allows us, among other things, to calculate the number of visitors to the Web Site, diagnose problems with the Web Site's server and operate the Web Site. Usage Information may also be used to tailor and improve the Web Site, serve you relevant content and/or advertising at the Web Site and serve you an appropriate version of a web page. 
+**Who does Universal Uclick share information with?**  
+We will not share your personally identifiable information with third parties (aside from entities that perform services for us, such as fulfilling orders, that either are bound to comply with our privacy policy or have privacy policies that protect your information) unless you have "opted-in" to such sharing. If you have previously opted-in to such sharing under a prior privacy policy version, you are still considered to have opted-in under this Privacy Statement. As stated, Universal Uclick may use third parties to accept and process orders for merchandise and products. 
 
-### ip address
+However, Universal Uclick may disclose information you provide if required to do so by law or if we have a good faith belief that disclosure is necessary to (1) comply with the law or with legal process served on Universal Uclick; (2) protect and defend the rights or property of Universal Uclick; or (3) act in an emergency to protect someone's safety. 
 
-An IP address is a number that is automatically assigned to you whenever you access the Internet and is often associated with the place where you enter the Internet like your ISP ("Internet Service Provider"), your company or your university. This IP address may be the same each time you access the Internet or it may change. 
+We may gather demographic information from you (for example, your age, education level or household income) from time to time. We will not share that information in a manner that identifies you as an individual with any other entity, unless we let you know that at the time of collection or we have your permission. When we share demographic information with third parties, we will give them aggregate information only. 
 
-### the web site uses cookies and web beacons
+As we develop our business, we may buy or sell assets, and, depending upon the transaction, your personal information may be one of the transferred assets. In the event that Universal Uclick is acquired by another company, your personal information may be part of the assets transferred to the acquiring party.  
 
-Web pages at the Web Site may utilize cookies, which are small data files that your web browser places on your computer (or other Internet-accessing device) when you visit a web site. These cookies may allow us to collect information to tailor your user interface and facilitate your navigation of the Web Site. Your browser may allow you to reject cookies. However, the Web Site may not function properly if you reject cookies. We do not typically save Personal Information in cookies, but we may link cookies to any information we collect. The Web Site may also use web beacons, clear gifs, pixel tags or technologies (as they become available), which allow United Media and third parties to monitor and collect certain information about the viewer of a web page, web-based document or message sent by the Web Site, such as browser type. We use the information collected though these technologies for a variety of purposes, such as to serve you relevant content and/or advertising at the Web Site, count Web Site visitors and monitor Web Site traffic patterns. 
 
-### the web site uses embedded scripts
+**What are my options to control the use of my personally identifiable information?**  
+You will have the ability to request the deletion of your Universal Uclick registration at any time by utilizing the registration system established for this purpose. However, we may maintain certain other information as part of our internal processes to prevent accidental loss of user data or information and to prevent or discourage fraudulent activities that may involve Universal Uclick registration or account information. We may also continue to maintain information about your registration or account and your computer access to our Web sites or services as part of our server logs 
 
-Scripts and other programming code used in the Web Site may collect non-personally identifiable information regarding use of the Web Site, such as web pages visited, for how long they are visited and which links are clicked. We may use this information for a number of purposes, for example, to enhance or customize content served to users of the Web Site. 
+Unless you opt-out we may e-mail you with information from Universal Uclick, including information about selected third parties. If you do not want to receive information from Universal Uclick or third parties that we have selected, you may decline to receive it (or "Opt-Out") when you provide personal information to Universal Uclick, or you may visit your "My Account" page and click on "Update Billing Information" to updated your settings. You may also contact Universal Uclick by postal mail at the address below.
 
-### third-party ad serving & audience and traffic measurement services
+**What about kids' personally identifiable information?**  
+The Universal Uclick Sites are general audience sites and are not directed to children under the age of 13. Universal Uclick assumes products purchased through credit card means are purchased by adults. Universal Uclick respects the privacy of parents and children and is committed to complying with the Children's Online Privacy Protection Act (COPPA). On those areas of the Sites that ask for age, Universal Uclick does not collect personal information from individuals who identify themselves as under the age of 13 except in those limited circumstances where Universal Uclick believes that such collection is permitted under COPPA. 
 
-The Web Site may use third party network advertisers to serve advertisements on the Web Site and may use a traffic measurement service to analyze traffic on the Web Site. Network advertisers are third parties that display advertisements based on your visits to the Web Site and other web sites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. Although advertisers and other companies do not have access to cookies set by the Web Site, the Web Site's third party ad network providers, the advertisers, the sponsors, and/or traffic measurement services may themselves set and access their own cookies and technologies on your computer. These third party cookies and/or technologies may be set to, among other things, help deliver advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies and/or technologies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies, web beacons and other technologies are governed by each third party's specific privacy policy, not this one. While we may use a variety of companies to serve advertisements on the Web Site, you may wish to visit <http://www.networkadvertising.org/managing/opt_out.asp>, which provides information regarding the "opt-out" procedures of certain third party ad servers we may use. 
+Universal Uclick may ask prospective users to provide their age during the registration process and on other areas of the Universal Uclick Sites. If a user indicates that he or she is under the age of 13 then all personal data collected during the registration process is automatically deleted except Universal Uclick may retain and use limited information, such as the child's e-mail address, for a limited period of time, in those cases where Universal Uclick believes that the collection and use of such information is permitted under COPPA. 
 
-### HOW AND WHEN WE DISCLOSE INFORMATION TO THIRD PARTIES
+If a parent believes that his or her child has submitted personal information to Universal Uclick, he or she can contact us via e-mail or postal mail as listed below. Universal Uclick will promptly delete the information upon learning that it relates to a child under the age of 13. 
 
-We do not share your Personal Information with third parties for those third parties' marketing purposes unless you opt-in to or opt-out of such sharing at the time you provide your Personal Information (for example, you may be provided with an opt-out choice on a sweepstakes registration form). We may share non-personally identifiable information, including aggregated statistics and Usage Information that is not associated with Personal Information, with third parties. Also, we may share information collected about you, including Personal Information ("Information"), as disclosed in this Privacy Policy, as explained when you provide your information and as described below: 
+Universal Uclick believes that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from otherwise disclosing online their name, address and other personal information without parental permission. 
 
-### third party providers, vendors and licensees
+**Universal Uclick's Commitment to Data Security**  
+Protecting user privacy and Personal Information is a high priority for Universal Uclick. We use our best efforts to ensure the security of your Personal Information. Universal Uclick maintains physical, electronic and procedural safeguards that comply with federal regulations to guard your Personal Information. We exercise great care in providing secure transmission of information between your PC and our computers. Unfortunately, no electronic communication over the Internet can be guaranteed to be 100% secure. While we strive to take great care to protect your Personal Information, we cannot warrant the security of any information that you submit to us, and you do so at your own risk. 
 
-We may use or otherwise authorize third parties for certain purposes related to exercising our rights or performing our obligations under the Web Site's [Terms of Use](https://web.archive.org/terms/ "Terms of Use"), such as hosting the Web Site, designing and/or operating Web Site features, enabling us to send you communications, or distributing or otherwise exploiting content or communications. These other companies and individuals may have access to Information, but will only have access to perform services for you or United Media. 
+We also take precautions to protect your Personal Information off-line. Access to all user information is restricted. Only our employees, agents and processors whose jobs require accessing users' Personal Information are granted database access or administrator-level accounts on servers that contain such Personal Information. Finally, all servers containing users' Personal Information are kept locked in a secure data center and require a secure login to access them remotely. 
 
-### sweepstakes, contests and promotions
+Remember to sign off our Site and close your browser window when you are finished using it. This is to ensure that others cannot pose as you online. This is especially important if you are at a terminal that is accessible to others, such as the library, at school, at the workplace or at an Internet café.  
 
-We may offer sweepstakes, contests, and other promotions through the Web Site. These features may require registration. If you choose to enter a sweepstakes, contest or other promotion, Information may be disclosed to third parties in connection with the administration of such promotion. For example, in connection with winner selection; prize fulfillment; and as required by law, such as on a winners list. You may also need to agree to the to the official rules for a promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the promotion to use your name, voice and/or likeness in advertising or marketing associated with the promotion. 
 
-### safety and legal obligations
+**Security**  
+Universal Uclick has security measures in place to protect the loss, misuse and alteration of the information under our control. These include a firewall to prevent unauthorized access to our systems and maintenance of registration information in a separate database. Although we will exercise reasonable care in providing secure transmission of information between your computer and our servers, we cannot ensure or warrant the security of any information transmitted to us over the Internet and we accept no liability for any unintentional disclosure. We will protect the transmission of credit card information through industry standard, SSL (secure socket layer) encryption. We use [thawte](https://www.thawte.com/home.html) SSL Web Server Certificates to offer secure communications by encrypting all data to and from the site. thawte has checked and verified the company registration documents and the site's registered domain name. [Consumer Guidelines: How to know whether a site is secure](https://www.thawte.com/siteseal/index.html)
 
-We may also transfer and disclose Information to third parties: 
+**Chat Rooms and Other Public Areas.**  
+Universal Uclick may offer chat, bulletin board, or other public functions and any posting by you is considered public information available to other users. Any posting is governed by the Universal Uclick [Terms of Service](https://web.archive.org/help/terms/). 
 
-  * if we must respond to subpoenas, court orders, legal process or other valid law enforcement measures; 
-  * if governmental authorities request it; 
-  * in connection with a legal obligation; 
-  * if in our good faith opinion such disclosure is required by law; 
-  * to protect and/or defend the Web Site's Terms of Use or other Web Site policies; 
-  * to protect the rights, safety, rights, property or security of any individual; or 
-  * in an emergency situation. 
+**Refer a Friend**  
+If a user elects to use our referral service for informing a friend about our site or particular features or content, we ask them for the friend's name and e-mail address. Universal Uclick will automatically send the friend a one-time email inviting them to visit an Universal Uclick Site. Universal Uclick stores this information for the sole purpose of sending this one-time email. The friend may contact Universal Uclick to request the removal of this information from their database. 
 
+Your personal information is password-protected, and you should take appropriate measures to protect the secrecy of your password. If you use a computer in a public place or share a computer with others, remember to sign out and close your browser window when you finish a session with Universal Uclick in order to prevent others from accessing your personal information. 
 
+**How can I update my Profile?**  
+You can help Universal Uclick maintain the accuracy of your profile by notifying us when you change your address, phone number, or e-mail address. If at any time you wish to update your information or stop receiving communication from Universal Uclick, from your Dashboard just click on your "My Account" page and click on "Update Billing Information" to updated your settings.. Please include your old and new contact information so that we can make the appropriate corrections. 
 
-We may also use IP address to identify users, and may do so in cooperation with copyright owners, internet service providers, wireless service providers or law enforcement agencies in our discretion. 
+**Contacting Universal Uclick**  
+Universal Uclick would like to receive your comments and questions about this Privacy Statement. Please address comments or questions regarding Universal Uclick's Privacy Statement to us via e-mail or postal mail. 
 
-### business transfers
+You can complete our e-mail form at: [http://gocomics.com/help/contact](https://web.archive.org/help/contact). You may also contact Universal Uclick by mail at: 
 
-We may disclosure and transfer Information: (i) our parent and its and our subsidiaries and affiliates; (ii) to a subsequent owner, co-owner or operator of the Web Site or applicable database; or (iii) in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of United Media's stock and/or assets or other corporate change, including, without limitation, during the course of any due diligence process; provided, however, that this Privacy Policy shall continue to govern such Information. 
+Universal Uclick  
+Attn: Universal Uclick Privacy  
+1130 Walnut St.  
+Kansas City, MO 64106 USA 
 
-### NOTICE TO PARENTS
+**Acceptance of Privacy Statement**  
+Your use of the Universal Uclick Sites, including any dispute concerning privacy, is subject to this Privacy Statement and Universal Uclick's Terms and Conditions of Use.By using the Universal Uclick Sites, you are accepting the practices set out in this Privacy Statement and those Terms and Conditions of Use. We reserve the right to modify this Privacy Statement at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of the Universal Uclick Sites following posting of the updated Privacy Statement will constitute your acceptance of the changes. 
 
-The Web Site is a general audience web site. We do not knowingly collect any Personal Information from children younger than the age of thirteen (13) on the Web Site and we will delete any information later determined to be from a user younger than thirteen (13). 
-
-### CHANGING YOUR INFORMATION AND SUBSCRIPTIONS AND QUESTIONS
-
-You are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided as part of registration. The Web Site may allow you to correct or update Information you have provided to us through a Web Site registration form or otherwise. We will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable. You may cancel or modify your subscriptions to e-mails from the Web Site by following the instructions contained within an e-mail you receive from the Web Site. 
-
-### LINKS TO THIRD PARTY SITES
-
-The Web Site may link to or contain links to other third party web sites that we do not control or maintain, such as in connection with purchasing products referenced on our Web Site and banner advertisements. We are not responsible for the privacy practices employed by any third party web site. We encourage you to note when you leave our Web Site and to read the privacy statements of all third party web sites before submitting any personally identifiable information. 
-
-### THIRD PARTY APPLICATIONS
-
-Third party applications may be available via the Web Site. The owners of these applications ("Third Party Owners") may collect your information and may have their own policies and practices. While we ask Third Party Owners to refrain from collecting your Personal Information without first obtaining your prior consent, we do not guarantee that all Third Party Owners will abide by this request. We do not screen or pre-approve Third Party Owners or their applications and we have no control over how Third Party Owners or their applications use your Information. These Third Party Owners may have their own terms of service, privacy policies or other policies and ask you to agree to the same. We are not responsible for these policies or the practices of Third Party Owners. Be sure to review any available policies before submitting any personally identifiable information to a third party application or otherwise interacting with it. 
-
-### TRANSFER TO THE UNITED STATES
-
-The Web Site is operated in the United States and intended for residents of the United States. If you are located outside of the United States, be aware that Information we collect will be transferred to the United States. By using the Web Site, accessing the Web Site or providing your information to the Web Site or United Media, you consent to this transfer. 
-
-### SECURITY
-
-No data transmission over the Internet, wireless transmission or electronic storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information we collect, and you do so at your own risk. Nonetheless, we have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control. Please be advised, however, that while we strive to protect your Information and privacy, we cannot guarantee the security of any Information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your Information. In the unfortunate event that your "personally identifiable Information" (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when we deem appropriate, we upgrade our information security systems. 
-
-### CHANGES TO THIS PRIVACY POLICY
-
-We generally keep this Privacy Policy posted on the Web Site and you should review it frequently, as it may change from time to time without notice. Any changes will be effective immediately upon the posting of the revised Privacy Policy. WHEN YOU ACCESS THE WEB SITE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING THE WEB SITE. If, at any point, we decide to use your Personal Information in a manner materially different than what was stated at the time it was collected, we will notify users of this change by e-mail to the last e-mail address provided to us. Users will have a choice (by means of an opt-in or opt-out at our discretion) as to whether or not we use their Personal Information in this different manner. We will use Personal Information in accordance with the privacy policy under which the information was collected if you opt-out of the new policy. 
-
-### SOLE STATEMENT
-
-This Privacy Policy as posted on the Web Site is the sole statement of our privacy policy with respect to the Web Site, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Web Site. 
-
-The Effective Date of this Privacy Policy is March 28, 2008.
-
-© 2008 United Feature Syndicate, Inc. All Rights Reserved.
+Updated as of 05-15-09
