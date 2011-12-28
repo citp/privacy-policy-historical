@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offlajn.com privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316060508id_/http%3A//offlajn.com/common-content/privacy-police.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offlajn.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228205636id_/http%3A//offlajn.com/common-content/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Common content
 
