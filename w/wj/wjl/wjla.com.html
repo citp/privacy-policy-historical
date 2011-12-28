@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wjla.com privacy policy that was archived on 2011-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110630152606id_/http%3A//www.wjla.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wjla.com privacy policy that was archived on 2011-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228192114id_/http%3A//www.wjla.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" dir="ltr" class="js"><head>
 
@@ -49,6 +49,25 @@
 <script src="http://www.wjla.com/js/plugins/jquery.infieldlabel.min.js" type="text/javascript"></script>
 <script src="http://www.wjla.com/js/plugins/jquery.cookie.js" type="text/javascript"></script>
 <script src="http://www.wjla.com/js/plugins/jquery.prettyPhoto.js" type="text/javascript"></script>
+
+
+	<script src="http://www.wjla.com/js/plugins/jquery.lazyload.js" type="text/javascript"></script>
+
+	
+			<script type="text/javascript">
+					$(document).ready(function(){
+						$("#mainContent img").lazyload({
+							placeholder : "http://www.wjla.com/design/global/bg/gray.gif",
+							effect : "fadeIn" ,
+							failurelimit : 18
+						});
+						$("#secondaryContent .mod img").lazyload({
+							placeholder : "http://www.wjla.com/design/global/bg/gray.gif",
+							effect : "fadeIn"
+						});
+					});
+			</script>
+		
 
 <script type="text/javascript">
 	$(window).bind("load", function(){
@@ -112,23 +131,141 @@ if(WEATHERPHRASE == null || WEATHERPHRASE == '' || WEATHERPHRASE == undefined){
 	WEATHERPHRASE = "20005, District of Columbia";
 	setCookie("WEATHERPHRASE",WEATHERPHRASE,1000,"/","wjla.com");
 }
-	
-$(document).ready(function(){
-	var thezip = '20005';
-	var thephrase = 'CURRENT CONDITIONS'
-	$('#currentConditionsTop').weatherCurrentConditionTop(
-		thezip,{
-		imageurl: "http://images.wjla.com",
-		locationDisp: thephrase
-	});
-});
-
 </script>
 
 
 
 <link rel="alternate" type="application/rss+xml" title="Main news feed" href="http://www.wjla.com/rss/all.xml">
 <link rel="alternate" type="application/rss+xml" title="Another feed" href="http://www.wjla.com/rss/">
+
+	<script src="http://www.wjla.com/js/jquery.jsonp.js" type="text/javascript"></script>
+	<script src="http://www.wjla.com/js/plugins/jquery.weather2.js" type="text/javascript"></script>
+
+	<script type="text/javascript">
+
+		function getURLParam(name) {
+			name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+			var regexS = "[\\?&]"+name+"=([^&#]*)";
+			var regex = new RegExp( regexS );
+			var results = regex.exec( window.location.href );
+			if( results == null )
+				return "";
+			else
+				return results[1].toLowerCase();
+		}
+
+		function getWeatherCookie() {
+			var weatherlocation = getCookie("WEATHERLOCATION");
+			var weatherphrase = getCookie("WEATHERPHRASE");
+			if (weatherlocation != null && weatherlocation != null) {
+				weatherlocation = $.trim(myunescape(weatherlocation));
+				if(weatherphrase === undefined || !weatherphrase ){
+					weatherphrase = '     ';
+				}
+				if (isNaN(weatherphrase.substring(0,5)) == true) {
+					$("#weatherLocation").html(weatherlocation+', '+weatherphrase);
+				} else {
+					if ($.trim(weatherphrase) == null || $.trim(weatherphrase) == '') {
+						$("#weatherLocation").html(weatherlocation + ' ' + weatherphrase);
+					} else {
+						$("#weatherLocation").html(weatherphrase);
+					}
+				}
+			} else {
+				$("#weatherLocation").html('CURRENT CONDITIONS');
+			}
+		}
+		
+		
+		function setWeatherCookie(loc,phrase) {
+			loc = $.trim(myunescape(loc));
+			setCookie('WEATHERLOCATION',loc,10,'/','wjla.com');
+			setCookie('WEATHERPHRASE',phrase,10,'/','wjla.com');
+			getWeatherCookie();
+		}
+
+		function setZipfromCityState(loc) {
+			var searchurl = 'weather/ziplookup/'+loc.substring(0,1)+'/' + loc+ '.json';
+			$.ajax({
+			    url: 'http://www.wjla.com/'+searchurl,
+			    type: 'GET',
+			    dataType: 'json',
+			    timeout: 1000,
+			    error: function(){
+			        $('##attributes.subsectionsDivId#').hide();
+			    },
+			    success: function(json){
+			    	var zip = $.trim(json[0].zip);
+					setWeatherCookie(zip,json[0].cs);
+			    },
+				 async: false
+			});
+		}
+		
+		function myunescape (str)
+		{
+			str = "" + str;
+			while (true)
+			{
+				var i = str . indexOf ('+');
+				if (i < 0)
+					break;
+				str = str . substring (0, i) + '%20' +
+					str . substring (i + 1, str . length);
+			}
+			return unescape (str);
+		}
+		
+
+		$(document).ready(function(){
+			var urlweatherlocation = getURLParam('z');
+			if (urlweatherlocation != '' && urlweatherlocation != null) {
+				if(!isNaN(urlweatherlocation)) {
+					setWeatherCookie(urlweatherlocation,'');
+				} else {
+					urlweatherlocation = unescape(urlweatherlocation);
+					urlweatherlocation = urlweatherlocation.replace(/[^a-zA-Z 0-9]+/g,'_');
+					setZipfromCityState(urlweatherlocation);
+				}
+			}
+			getWeatherCookie();
+			
+			$.fn.refreshWeather = function(xml) {
+				if ($.weather.json == null || $.weather.json == '' || $.isEmptyObject($.weather.json) ){
+					return false;
+				}
+					
+				var zip = getCookie("WEATHERLOCATION");
+				if ( typeof zip == "undefined" || zip == null || zip.length === 0){
+					/* do nothing */
+				}else{
+					zip = $.trim(myunescape(zip));
+					if(zip.length != 0){
+						
+						var thezip = '20005';
+						var thephrase = 'CURRENT CONDITIONS'
+						$('#currentConditionsTop').weatherCurrentConditionTop(
+							thezip,{
+							imageurl: "http://images.wjla.com/weather/sm/",
+							locationDisp: thephrase
+						});
+						
+					}
+				}
+			};
+			
+			var zip = getCookie("WEATHERLOCATION");
+			if ( typeof zip == "undefined" || zip == null || zip.length === 0){
+				$.fn.getTwuFeed("20005");
+			}else{
+				zip = $.trim(myunescape(zip));
+				if(zip.length != 0){
+					$.fn.getTwuFeed(zip);
+				}
+			}
+		});
+
+	</script>
 
 <script>
 var ldpth = "/includes/";
@@ -175,17 +312,19 @@ More info available at http://www.omniture.com -->
 
 	<div id="topLeaderboard">
 		
-<div>
+	<div>
+
 <!-- begin ad tag -->
 <script type="text/javascript">
 dcCat="null";
 ord=Math.random()*10000000000000000;
 //<![CDATA[
-document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/allb.wjla/uncat;tile=1;pos=top;cat=null;sz=728x90,980x90;KW=null;ord=' + ord + '?"><\/script>');
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/allb.wjla/uncat;tile=1;pos=top;cat=null;sz=728x90,980x90;KW=null;ord=5544881869182370?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/allb.wjla/uncat;tile=1;pos=top;cat=null;reg=null;sz=728x90,980x90;KW=null;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/allb.wjla/uncat;tile=1;pos=top;cat=null;reg=null;sz=728x90,980x90;KW=null;ord=123456789?" border="0" alt="" /></a></noscript>
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6526/adj/allb.wjla/uncat;tile=1;pos=top;cat=null;sz=728x90,980x90;KW=null;ord=' + ord + '?"><\/script>');
+</script><script type="text/javascript" src="http://ad.doubleclick.net/N6526/adj/allb.wjla/uncat;tile=1;pos=top;cat=null;sz=728x90,980x90;KW=null;ord=8132686735683081?"></script>
+<noscript><a href="http://ad.doubleclick.net/N6526/jump/allb.wjla/uncat;tile=1;pos=top;cat=null;reg=null;sz=728x90,980x90;KW=null;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/N6526/ad/allb.wjla/uncat;tile=1;pos=top;cat=null;reg=null;sz=728x90,980x90;KW=null;ord=123456789?" border="0" alt="" /></a></noscript>
 <!--// end ad tag -->
-</div><!--/.ad-flex-->
+
+	</div><!--/.ad-flex-->
 
 	
 	</div>
@@ -215,28 +354,6 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 	var s=s_gi('allbrittonwjla');
 	s.tl(obj, 'o',linkname);
 	}
-	if (getCookie("LOGGEDIN") == 'true') {
-		document.write('<li class="user">Welcome');
-		if (getCookie("INCOMPLETE_REG") != 1) {
-			if (getCookie("LOGGEDIN") == 'true') {
-				var username = getCookie("USERNAME");
-				if (username == null || '' == username) {
-					username = getCookie("FIRSTNAME") + ' ' + getCookie("LASTNAME");
-					if (username == null) 
-						username = '';
-				}
-				document.write(', <span>' + username + '</span>');
-			}			
-		}
-		document.write('</li>');
-		document.write('<li class="profile-and-alerts"><a href="http://www.wjla.com/makehome/">Make wjla.com Your Home Page</a></li>');
-		document.write('<li class="profile-and-alerts"><a href="http://www.wjla.com/member/">Profile and Account Settings</a></li>');
-		document.write('<li class="sign-out"><a id="loginlink" href="http://www.wjla.com/logout/">Sign out</a></li>');
-	} else {
-		document.write('<li class="sign-in-and-register"><a id="loginlink" href="http://www.wjla.com/login/?iframe=true&width=710&height=430&jsreturnurl=dfaafdsdfasdsfaadsf" rel="prettyPhoto" onclick="startLoginTimer();trackMe(this,\'event18\',\'registration - global header - signin register link\');">Sign in/Register</a></li>');
-		document.write('<li class="profile-and-alerts"><a href="http://www.wjla.com/makehome/">Make wjla.com Your Home Page</a></li>');
-	}
-	document.write('<li class="user" style="display:none;"><a id="resetpasslink" href="http://www.wjla.com/login/resetpass/?iframe=true&width=710&height=430&jsreturnurl=dfaafdsdfasdsfaadsf" rel="prettyPhoto" onclick="startLoginTimer();trackMe(this,\'event18\',\'registration - global header - signin register link\');">Reset Password</a></li>');
 
 </script>
 				<li class="mobile"><a href="http://www.wjla.com/mobile/">Mobile</a></li>
@@ -247,17 +364,14 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 	</div><!--/#header-->
 
 	
-	
-	<div id="currentConditionsTop" class="current-conditions full-wrap">
-
-
+	<div id="currentConditionsTop" class="current-conditions full-wrap" style="visibility:hidden;">
 		<div class="inner">
 			<a href="http://www.wjla.com/weather" title="Get full weather report">
 			<div class="weather-city">Current Conditions</div>
-			<div class="temp">77°</div>
-			<div class="high-low">High: 87° / Low: 64°</div>
-			<div class="condition">Partly Cloudy</div>
-			<img id="currentConditionsImg" src="http://images.wjla.com/weather/sm/32.png" alt="Partly Cloudy" class="weather-visual">
+			<div class="temp"></div>
+			<div class="high-low"></div>
+			<div class="condition"></div>
+			<img id="currentConditionsImg" src="" class="weather-visual">
 			</a>
 		</div><!--/.inner-->
 	</div><!--/.current-conditions-->
@@ -275,12 +389,14 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 				<ul class="nav nav1">
 		            <li class="nav-news first"><a href="http://www.wjla.com" class="flagged-lighter-blue">News</a></li>
 		            <li class="nav-weather"><a href="http://www.wjla.com/weather/" class="flagged-yellow">Weather</a></li>
-		            <li class="nav-commute"><a href="http://www.tbd.com/commute/traffic/map/" class="flagged-orange">Traffic</a></li>
+		            <li class="nav-commute"><a href="http://www.wjla.com/commute/traffic/map/" class="flagged-orange">Traffic</a></li>
 					<li class="nav-dc"><a href="http://www.wjla.com/news/washington-dc/" class="flagged-lighter-blue">D.C.</a></li>
-					<li class="nav-maryland"><a href="http://www.wjla.com/news/maryland/" class="flagged-lighter-blue">Maryland</a></li>
-					<li class="nav-virginia"><a href="http://www.wjla.com/news/virginia/" class="flagged-lighter-blue">Virginia</a></li>
+					<li class="nav-maryland"><a href="http://www.wjla.com/news/maryland/" class="flagged-lighter-blue">MD</a></li>
+					<li class="nav-virginia"><a href="http://www.wjla.com/news/virginia/" class="flagged-lighter-blue">VA</a></li>
 					<li class="nav-nation"><a href="http://www.wjla.com/nation/" class="flagged-lighter-blue">Nation</a></li>
-					<li class="nav-world last"><a href="http://www.wjla.com/world/" class="flagged-lighter-blue">World</a></li>
+					<li class="nav-world"><a href="http://www.wjla.com/world/" class="flagged-lighter-blue">World</a></li>
+					<li class="nav-crime"><a href="http://www.wjla.com/crime/" class="flagged-lighter-blue">Crime</a></li>
+					<li class="nav-sports last"><a href="http://www.wjla.com/sports/" class="flagged-lighter-blue">Sports</a></li>
 				</ul>
 				<ul class="nav nav2">
 					
@@ -289,19 +405,17 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 							
 								<li class="nav-photos"><a href="http://www.wjla.com/pictures" class="0">Photos</a></li>
 							
-								<li class="nav-crime"><a href="http://www.wjla.com/crime/" class="flagged-lighter-blue">Crime</a></li>
+								<li class="nav-health"><a href="http://www.wjla.com/health/" class="">Health</a></li>
 							
-								<li class="nav-entertainment"><a href="http://www.wjla.com/entertainment/" class="flagged-purple">Entertainment</a></li>
+								<li class="nav-high-school-sports"><a href="http://www.hssportsfinal.com" class="">High School Sports</a></li>
 							
-								<li class="nav-sports"><a href="http://www.wjla.com/sports/" class="flagged-red">Sports</a></li>
+								<li class="nav-politics"><a href="http://www.wjla.com/politics/" class="">Politics</a></li>
 							
-								<li class="nav-business"><a href="http://www.wjla.com/business/" class="flagged-green">Business</a></li>
+								<li class="nav-business"><a href="http://www.wjla.com/business/" class="">Business</a></li>
 							
-								<li class="nav-health"><a href="http://www.wjla.com/health/" class="flagged-blue">Health</a></li>
+								<li class="nav-gift-guide"><a href="http://www.wjla.com/news/gift-guide/" class="">Gift Guide</a></li>
 							
-								<li class="nav-education"><a href="http://www.wjla.com/education/" class="flagged-blue">Education</a></li>
-							
-								<li class="nav-politics"><a href="http://www.wjla.com/politics/" class="flagged-blue">Politics</a></li>
+								<li class="nav-newschannel8-"><a href="http://www.wjla.com/news/newschannel-8/" class="">NEWSCHANNEL8 </a></li>
 							
 								<li class="nav-tbd last current"><a href="http://www.tbd.com/" class="flagged-lighter-blue">TBD <span class="nav-arrow"></span></a></li>
 							
@@ -317,32 +431,31 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 						<h5>Hot Topics »</h5>
 						<ul> 
 							
-										<li class=""><a href="http://www.wjla.com/articles/2011/06/aaa-as-gas-prices-rise-more-to-fly-for-holiday-weekend-62908.html">Holiday travel</a></li>
+										<li class=""><a href="http://www.wjla.com/articles/2011/12/dog-saves-family-from-house-fire-in-se-70757.html">Dog saves family</a></li>
 									
-										<li class=""><a href="http://www.wjla.com/pictures/2011/06/hook-restaurant-catches-fire-in-georgetown/working-the-flames-4668-319.html">Georgetown fire</a></li>
+										<li class=""><a href="http://www.wjla.com/articles/2011/12/democratic-sen-ben-nelson-announces-retirement--70761.html">Ben Nelson retires</a></li>
 									
-										<li class=""><a href="http://www.wjla.com/articles/2011/06/opinions-on-red-light-cameras-vary-study-says-63018.html">Speed cameras</a></li>
+										<li class=""><a href="http://www.wjla.com/articles/2011/12/presidential-race-in-iowa-quieter-than-in-the-past-70731.html">Iowa caucuses</a></li>
 									
-										<li class="last"><a href="http://www.wjla.com/articles/2011/06/pesticides-permitted-to-combat-stink-bugs-in-va--63022.html">Stink bugs</a></li>
+										<li class="last"><a href="http://www.wjla.com/articles/2011/12/free-d-c-cab-rides-offered-by-soberride-through-new-year-s-eve-70784.html">Free cab rides</a></li>
 									
 						</ul> 
 					</div><!--/.buzz-list-->
 				
 			
 		<div id="searchContainer">
-			<div class="search-sponsor">
+		    <div class="search-sponsor">
 				
 			</div><!--/search-sponsor-->
-			<form role="search" method="get" action="http://www.wjla.com/search/" id="siteSearch" enctype="application/x-www-form-urlencoded">
-				<label for="rampSearch" class="populate">Search WJLA.com</label>
-				<input type="text" id="rampSearch" name="key" value="" autocomplete="off">
-				<input id="doSearch" type="submit" value="Search" autocomplete="off">
-			</form>
+		    <form role="search" method="get" action="http://www.wjla.com/search/" id="siteSearch" enctype="application/x-www-form-urlencoded">
+		        <label for="rampSearch" class="populate">Search WJLA.com</label>
+		        <input type="text" id="rampSearch" name="key" value="" autocomplete="off">
+		        <input id="doSearch" type="submit" value="Search" autocomplete="off">
+		    </form>
 		</div><!--/searchContainer-->
 		
 
-		</div><!--/secondaryNavigation-->
-
+	</div><!--/secondaryNavigation-->
 </div><!--/siteNavigation-->
 
 
@@ -392,30 +505,32 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 
 
 
-<div class="ad-flex">
+	<div class="ad-flex">
+
 <!-- begin ad tag -->
 <script type="text/javascript">
 dcCat="null";
 //<![CDATA[
-document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/allb.wjla/uncat;tile=2;pos=top;cat=null;sz=300x250;KW=null;ord=' + ord + '?"><\/script>');
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/allb.wjla/uncat;tile=2;pos=top;cat=null;sz=300x250;KW=null;ord=5544881869182370?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/allb.wjla/uncat;tile=2;pos=top;cat=null;reg=null;sz=300x250;KW=null;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/allb.wjla/uncat;tile=2;pos=top;cat=null;reg=null;sz=300x250;KW=null;ord=123456789?" border="0" alt="" /></a></noscript>
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6526/adj/allb.wjla/uncat;tile=2;pos=top;cat=null;sz=300x250;KW=null;ord=' + ord + '?"><\/script>');
+</script><script type="text/javascript" src="http://ad.doubleclick.net/N6526/adj/allb.wjla/uncat;tile=2;pos=top;cat=null;sz=300x250;KW=null;ord=8132686735683081?"></script>
+<noscript><a href="http://ad.doubleclick.net/N6526/jump/allb.wjla/uncat;tile=2;pos=top;cat=null;reg=null;sz=300x250;KW=null;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/N6526/ad/allb.wjla/uncat;tile=2;pos=top;cat=null;reg=null;sz=300x250;KW=null;ord=123456789?" border="0" alt="" /></a></noscript>
 <!--// end ad tag -->
-</div><!--/.ad-flex-->
+
+	</div><!--/.ad-flex-->
 
 	<div class="mod" id="bestOfTBD">
 		<h3>Best of TBD <em>In case you missed it</em></h3>
 		
 <ul class="story-list">
 	<li class="last">
-		<a href="http://www.tbd.com/pictures/2011/06/the-graffiti-around-d-c-s-metro-a-celebration-of-street-art-/4558-309.html" class="tn"><img src="http://images.wjla.com/crime/graffiti_metro_4_606_296.jpg" class="border" alt="Metro graffiti" width="110" height="72"></a>
-		<h4><a href="http://www.tbd.com/pictures/2011/06/the-graffiti-around-d-c-s-metro-a-celebration-of-street-art-/4558-309.html">PHOTOS: The graffiti around D.C.'s Metro</a></h4>
-		<div class="tease">Colorful, creative, and controversial images have come to accompany the fences and walls near Washington's transit tracks.</div>
+		<a href="http://www.tbd.com/pictures/2011/12/the-15-weirdest-laws-in-washington-d-c-photos-/but-what-if-shes-the-billie-jean-king-of-boxing--13089-913.html" class="tn"><img src="http://images.wjla.com/entertainment/rave-flickr-dima-bushkov_606_296.jpg" class="border" alt="stupid laws dc, dumb laws dc" width="110" height="72"></a>
+		<h4><a href="http://www.tbd.com/pictures/2011/12/the-15-weirdest-laws-in-washington-d-c-photos-/but-what-if-shes-the-billie-jean-king-of-boxing--13089-913.html">The 15 weirdest laws in D.C. </a></h4>
+		<div class="tease">What are the most bizarre regulations on the District's books?</div>
 	</li>
 </ul>
 
 	<ul class="additional">
-		<li><a href="http://www.tbd.com/pictures/2011/06/tune-inn-beloved-capitol-hill-watering-hole-on-fire/4481-305.html">Capitol Hill's beloved Tune Inn burns (photos)</a></li><li><a href="http://www.tbd.com/blogs/tbd-on-foot/2011/06/no-bathroom-breaks-for-d-c-bus-drivers-11484.html">No bathroom breaks for D.C. bus drivers</a></li><li><a href="http://www.tbd.com/pictures/2011/06/the-horrors-of-whole-foods-parking/a-harrowing-trip-to-the-old-town-whole-foods-garage-starts-innocently-enough--4061-269.html">The horrors of Whole Foods Parking (photos)</a></li>
+		<li><a href=" http://www.tbd.com/pictures/2011/11/d-c-gets-wild-at-fight-night-fundraiser/11843-826.html">A wild 'Fight Night' with 'Skins cheerleaders</a></li><li><a href="http://www.tbd.com/crimedata/">Crime in D.C. schools</a></li><li><a href="http://www.tbd.com/pictures/2011/11/washingtons-best-mustaches/dick-dyszel-11364-791.html">If Arlington ruled Virginia...</a></li>
 	</ul>
 	
 	</div>
@@ -437,16 +552,18 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 
 		<div id="bottomLeaderboard">
 			
-<div>
+	<div>
+
 <!-- begin ad tag -->
 <script type="text/javascript">
 dcCat="null";
 //<![CDATA[
-document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/allb.wjla/uncat;tile=4;pos=bottom;cat=null;sz=728x90;KW=null;ord=' + ord + '?"><\/script>');
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/allb.wjla/uncat;tile=4;pos=bottom;cat=null;sz=728x90;KW=null;ord=5544881869182370?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/allb.wjla/uncat;tile=4;pos=bottom;cat=null;reg=null;sz=728x90;KW=null;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/allb.wjla/uncat;tile=4;pos=bottom;cat=null;reg=null;sz=728x90;KW=null;ord=123456789?" border="0" alt="" /></a></noscript>
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6526/adj/allb.wjla/uncat;tile=4;pos=bottom;cat=null;sz=728x90;KW=null;ord=' + ord + '?"><\/script>');
+</script><script type="text/javascript" src="http://ad.doubleclick.net/N6526/adj/allb.wjla/uncat;tile=4;pos=bottom;cat=null;sz=728x90;KW=null;ord=8132686735683081?"></script>
+<noscript><a href="http://ad.doubleclick.net/N6526/jump/allb.wjla/uncat;tile=4;pos=bottom;cat=null;reg=null;sz=728x90;KW=null;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/N6526/ad/allb.wjla/uncat;tile=4;pos=bottom;cat=null;reg=null;sz=728x90;KW=null;ord=123456789?" border="0" alt="" /></a></noscript>
 <!--// end ad tag -->
-</div><!--/.ad-flex-->
+
+	</div><!--/.ad-flex-->
 
 		</div>
 		<div class="site-links full-wrap">
@@ -483,8 +600,8 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 					<li><a href="http://www.tbd.com/about/">About TBD.com and NewsChannel 8</a></li>
 
 					<li><a href="http://www.abc7dc.com/talentbios/">ABC7 Talent Bios</a></li>
-                    <li><a href="http://www.abc7dc.com/onabc7/">ABC7 Program Schedule</a></li>
-                    <li><a href="http://www.tbd.com/tv/monday-friday-schedule/">NewsChannel 8 Program Schedule</a></li>
+                    <li><a href="http://www.wjla.com/tv/monday-schedule/">ABC7 Program Schedule</a></li>
+                    <li><a href="http://www.tbd.com/tv/monday-schedule/">NewsChannel 8 Program Schedule</a></li>
                     <li><a href="http://www.tbd.com/tv/channels/">Where to Find NewsChannel 8</a></li>
                     <li><a href="http://www.wjla.com/employment/">Job Openings</a></li>
 				</ul>
@@ -557,8 +674,8 @@ var _sf_async_config={uid:25380,domain:"wjla.com"};
      loadChartbeat : function() { oldonload(); loadChartbeat(); };
 })();
 </script>
-<script type="text/javascript" src="http://ad.doubleclick.net/adj/allb.wjla/uncat;dcopt=ist;sz=1x1;ord=[timestamp]?"></script>
+<script type="text/javascript" src="http://ad.doubleclick.net/N6526/adj/allb.wjla/uncat;dcopt=ist;sz=1x1;ord=[timestamp]?"></script>
 	
 
 
-<!--  timestamp {ts '2011-06-30 01:00:24'} --><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+<!--  timestamp {ts '2011-12-28 01:00:09'} --><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
