@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyinfo.in privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622065436id_/http%3A//www.easyinfo.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyinfo.in privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228133156id_/http%3A//easyinfo.in/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -59,6 +59,3 @@ Questions About Our Policies
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at:
 
 [webmaster@easyinfo.co.in](mailto:webmaster@easyinfo.co.in)
-
-  
-[](http://www.addthis.com/bookmark.php)
