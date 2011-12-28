@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiwiclassifieds.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521090120id_/http%3A//www.fiwiclassifieds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiwiclassifieds.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228041834id_/http%3A//www.fiwiclassifieds.com/privacy) for the most accurate reproduction.*
 
 # Free Online Classifieds | FiWi Classifieds Privacy Policy
 
