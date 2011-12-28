@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the ambercoastcasino.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529111110id_/http%3A//www.eurogrand.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambercoastcasino.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228210236id_/http%3A//www.eurogrand.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security- How Your Personal Data is Safeguarded
-
-### Top Games
-
-Play Now
-
-Play Now
-
-Play Now
-
-### Game Of The Month
-
-### Promotions
-
-[](http://www.eurogrand.com/promotions/refer-a-friend/)
 
 **PRIVACY POLICY For www.EuroGrand.com (“the Website”)**
 
