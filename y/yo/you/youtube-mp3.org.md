@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youtube-mp3.org privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628221245id_/http%3A//www.youtube-mp3.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtube-mp3.org privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228062128id_/http%3A//www.youtube-mp3.org/privacy) for the most accurate reproduction.*
 
 # Privacy - YouTube to mp3 converter
 
