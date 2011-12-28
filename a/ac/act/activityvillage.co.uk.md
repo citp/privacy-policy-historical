@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the activityvillage.co.uk privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activityvillage.co.uk privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228043135id_/http%3A//www.activityvillage.co.uk/privacy_policy.htm) for the most accurate reproduction.*
 
 # privacy policy
 
-|   
----  
-|   
-[ ](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/index.htm) |   
-|  |   
----|---|---  
 | 
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. 
@@ -104,64 +98,4 @@ your information would be considered part of those assets, and may be part of th
 **Policy Modifications**  
 We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we may email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent. 
 
-|   
-|    | **Don't miss...**  
----|---  
-[Easter](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/easter.htm)  
-[The Royal Wedding](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/the_royal_wedding.htm)  
-[Teacher Appreciation Week (US)](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/teacher_appreciation.htm)  
-[Children's Day (Japan)](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/childrens_day_japan.htm)  
-[Mother's Day (US)](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/mother's_day.htm)  
-[Spring](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/spring.htm)  
-**More Favourite Pages...**  
-[ Free Printables](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/free_printables.htm)  
-[ Puzzles](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/puzzles.htm)  
-[ Birthday Printables](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/birthday_printables.htm)  
-[ Printable Certificates](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/free_printable_certificates.htm)  
-[ Kids Crafts](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/kids_crafts.htm)  
-[ Kids Games & Activities](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/kids_games_and_activities.htm)  
-  
-[ ](http://tinyurl.com/2vfwtuz)  
-**[The Teacher's Binder](http://tinyurl.com/2vfwtuz)** is the world’s largest and most complete collection of often-used, printable, interactive, classroom forms, helping teachers simplify work, personal organization, record keeping and classroom management. 
-
-  
-27 printable pages of creative fun for kids!  
-**[Easter Doodle Fun](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/easter_doodle_fun.htm)**
-
-  
-120 Sudoku Puzzles   
-designed just for kids!    
-**[ Download and ](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/sudoku_for_kids2.htm)  
-[ print now!](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/sudoku_for_kids2.htm)**
-
-**Latest Articles...**
-
-**Emergency in Japan  
-**The dramatic images of the past week impact children not only in the immediate area where the destruction has taken place but also children throughout the country, and world, who are watching the images on television. **** Concerned about the emotional well-being of their children, many parents, teachers, grandparents and caregivers are looking for advice on how to respond to questions from children about unsettling and upsetting events that continue to be shown in the media about the disaster and the impact on homes, families and neighbourhoods.  
-[How to Help Children Cope with the Emergency in Japan: Ten Tips from Save the Children ](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/how_to_help_children_cope_with_the_emergency_in_japan.htm)
-
-  
-What Are Fine Motor Skills in Preschoolers? We examine why fine motor skill development is important and look at ways in which we can help our toddlers develop their fine motor muscles.  
-[What Are Fine Motor Skills in Preschoolers?](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/fine_motor_skills_in_preschoolers.htm)
-
-  
-Pre-school children are very busy with both growing and learning. During these extremely important years, our children are learning to walk and talk. They are learning language skills, math skills, and social skills; and we hope they are developing a self-concept that says, "I know I can learn" and "I want to learn."   
-[Parents - What To Do If Your Pre-Schooler Says "This Is Too Hard"](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/preschooler_says_this_is_too_hard.htm)
-
-  
-We have all had the experience of being at a movie, at the doctor's office, at a concert, at a restaurant, or even in church, and having small children running around laughing or screaming. We look side to side trying to find the parents while hoping a dirty look will give the parents the message to corral their children. The parents, though, seem oblivious....  
-[Teach behavior expectations to your children](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/teach_behavior_expectations_to_your_children.htm)
-
-[Cyber Bullying - Online Study](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/cyber_bullying_online_study.htm)
-
-[TV diners](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/tv_diners.htm)
-
-[A Babysitter Checklist - Everything She Will Need To Know](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/babysitter_checklist.htm)  
-  
-  |   |    
-  
-[ A Small Publishing Website](http://www.smallpublishing.co.uk/)    [Contact Us ](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/activity_village_contact_us.htm)   [Sudoku for Kids](http://www.sudokuforkids.com/)   [Privacy Policy](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/privacy_policy.htm)
-
-These pages are property of Activity Village and are for personal, classroom and library use only  
-  
 | 
