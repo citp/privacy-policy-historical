@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sportsbetting.com privacy policy that was archived on 2011-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110129071138id_/http%3A//www.sportsbetting.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbetting.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228083446id_/http%3A//www.sportsbetting.ag/privacy.html) for the most accurate reproduction.*
 
 # Privacy—Online Sports Betting, Online Sportsbook, Racebook Betting, Casino & Poker
 
-This privacy statement discloses the privacy practices of Interactive Systems Inc d/b/a SPORTSBETTING.COM.
+This privacy statement discloses the privacy practices of Interactive Systems Inc d/b/a Sportsbetting.
 
-SPORTSBETTING.COM would like to build your trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy we have agreed to notify you of the following.
+Sportsbetting would like to build your trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy we have agreed to notify you of the following.
 
 If you feel that we are not abiding by our posted privacy policy, you should contact us by filling out [this form](https://web.archive.org/help/forms/comments.html).
 
@@ -68,7 +68,7 @@ We also may send you site and service announcement updates. You are not able to 
 
 * #### Correction/Updating Personal Information
 
-If your personally identifiable information (such as your e-mail address) changes, or if you no longer desire our service, we will endeavor to provide a way to correct, update or remove your personal data provided to us. This can usually be done by [contacting our customer service department via Live Chat](http://server.iad.liveperson.net/hc/13561672/?cmd=file&file=visitorWantsToChat&site=13561672&byhref=1&imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a), or calling them toll-free - North America: 1-866-395-1043 , UK: (0) 800-008-7612. Changes to your e-mail address and physical address should also be sent to us using [this form](https://web.archive.org/help/forms/comments.html), if you wish to continue to receive our newsletter and our free CD ROM software.
+If your personally identifiable information (such as your e-mail address) changes, or if you no longer desire our service, we will endeavor to provide a way to correct, update or remove your personal data provided to us. This can usually be done by contacting our customer service department via Live Chat. Changes to your e-mail address and physical address should also be sent to us using [this form](https://web.archive.org/help/forms/comments.html), if you wish to continue to receive our newsletter and our free CD ROM software.
 
 * #### Not Accessible by Minors
 
