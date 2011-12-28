@@ -1,53 +1,23 @@
-> *The following text is extracted and transformed from the thewhir.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602100640id_/http%3A//thewhir.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewhir.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228033446id_/http%3A//www.inetinteractive.com/privacy) for the most accurate reproduction.*
 
-# The Web Host Industry Review | Privacy Policy
+# Privacy Policy |
 
-**Privacy Policy**
+This Privacy Policy governs the manner in which iNET Interactive collects, uses, maintains and discloses information collected from users of the iNET Interactive Web Site (each, a “User”). 
 
-The Web Host Industry Review, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for The Web Host Industry Review (theWHIR.com). 
+**Privacy**  
+iNET Interactive is committed to safeguarding the information Users entrust to iNET Interactive and believes every User should know how iNET Interactive utilizes the information collected from the Web Site. This Web Site is not directed at children under 13 years of age. 
 
-The Web Host Industry Review collects the IP addresses of its visitors. We collect your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to gather broad demographic information. 
+**The Information We Collect**  
+iNET Interactive may collect personally identifiable information from Users in a variety of ways, including through online forms for ordering products and services, and other instances where Users are invited to volunteer such information. iNET Interactive may also collect information about how Users use our Web Site, for example, by tracking the number of unique views received by the pages of the Web Site, or the domains from which Users originate. We may use “cookies” to track how Users use our Web Site. A cookie is a piece of software that a Web server can store on the Users’ PC and use to identify the User should they visit the web site again. While not all of the information that we collect from Users is personally identifiable, it may be associated with personally identifiable information that Users provide us through our Web Site. We currently use third party ad software to serve ads on our site. The cookies received with banner ads served by this software is used to collect and build anonymous behavioral profiles by these companies to deliver targeted ads and tracking referrals. 
 
-Our site's registration form requires users to give us basic contact information, such as your name and e-mail address. We sometimes use this information to send users information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+**How We Use Information**  
+iNET Interactive may use personally identifiable information collected through our Web Site to contact Users regarding products and services offered by iNET Interactive and its trusted affiliates, independent contractors and business partners, and otherwise to enhance Users’ experience with iNET Interactive and such affiliates, independent contractors and business partners. iNET Interactive may also use information collected through our Web Site for research regarding the effectiveness of the Web Site and the marketing, advertising and sales efforts of iNET Interactive, its trusted affiliates, independent contractors and business partners. 
 
-This site contains hyperlinks to other sites. The Web Host Industry Review is not responsible for the privacy practices or the content of other Web sites. 
+**Disclosure of Information**  
+iNET Interactive may disclose information collected from Users to trusted affiliates, independent contractors and business partners who will use the information for the purposes outlined above. We may also disclose aggregate, anonymous data based on information collected from Users to investors and potential partners. Finally, we may transfer information collected from Users in connection with a sale of iNET Interactive’ business.  
+**  
+Maintenance of Information**  
+Information about Users that is maintained on our systems is protected using industry standard security measures. However, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure. 
 
-Our online surveys ask visitors for basic contact and demographic information, including but not limited to name, e-mail address, age and zip code. We use this data to tailor our visitor's experience at our site, showing them content that we believe they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
-
-Security   
-The Web Host Industry Review has security measures in place to protect the loss, misuse and alteration of the information under our control. Beyond our server security measures, we have protected our directory and profile edit features with the use of passwords and / or confirmed email from the account on record. 
-
-Supplementation Information   
-This site supplements the information that you provide with information that is received from third parties. 
-
-Choice/Opt-Out   
-Our site provides users the opportunity to opt-out of receiving communications The Web Host Industry Review and our partners at the point where we request information about the visitor. We give users the following options for removing their information from our database to not receive future communications or to no longer receive our service: 
-
-Email: remove@webhostindustryreview.com 
-
-Postal Mail: Send mail to the following postal address: 
-
-The Web Host Industry Review  
-599B Yonge Street, Suite 144  
-Toronto, Ontario   
-Canada M4Y 1Z4 
-
-Correct/Update   
-This site gives users the following options for changing and modifying information previously provided. 
-
-Email: remove@webhostindustryreview.com 
-
-Postal Mail: Send mail to the following postal address: 
-
-The Web Host Industry Review  
-599B Yonge Street, Suite 144  
-Toronto, Ontario   
-Canada M4Y 1Z4 
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
-
-Executive Director   
-The Web Host Industry Review  
-599B Yonge Street, Suite 144  
-Toronto, Ontario   
-Canada M4Y 1Z4 
+**Questions**  
+Users may direct questions concerning this Privacy Policy by email to privacy@inetinteractive.com. 
