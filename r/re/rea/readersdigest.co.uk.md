@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersdigest.co.uk privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317030033id_/http%3A//www.readersdigest.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.co.uk privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228044910id_/http%3A//www.readersdigest.co.uk/about-us/security-and-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,10 +50,10 @@ For further information about cookies and how they are used, please visit www.ab
 
  **Code of practice**  
 Reader's Digest observes the Code of Practice of the[ Direct Marketing Association](http://www.dma.org.uk/content/home.asp "Direct Marketing Association home page"), and further details are available from Dept DMA at the address below. Please enclose a 9" x 6" SAE.  
-Vivat Direct Limited (t/a Reader's Digest), Leicester LE55 8AA
+Reader's Digest, PO Box 444, Isle of Man, IM99 3ZF
 
 If you have any further questions about our Privacy Policy or how we manage the information you give us, contact us [here](http://www.readersdigest.co.uk/contact.html "Contact Reader's Digest")
 
   
-( 7 Votes )     
+( 10 Votes )     
 
