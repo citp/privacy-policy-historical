@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brokeprofessionals.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629231910id_/http%3A//brokeprofessionals.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokeprofessionals.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228150245id_/http%3A//brokeprofessionals.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Broke Professionals
 
