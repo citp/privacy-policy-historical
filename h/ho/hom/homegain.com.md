@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homegain.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611233641id_/http%3A//www.homegain.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homegain.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228194108id_/http%3A//www.homegain.com/privacy) for the most accurate reproduction.*
 
 # HomeGain -- Find a real estate agent - Realtor - Real Estate - Homes for sale - Home Buying - Home Selling - Home - HomeGain
 
