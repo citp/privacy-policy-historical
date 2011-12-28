@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yuplay.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629143813id_/http%3A//yuplay.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuplay.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228062032id_/http%3A//yuplay.com/privacy.php) for the most accurate reproduction.*
 
-# yuPlay / Privacy Policy
+# YUPLAY / Privacy Policy
 
   
   
@@ -72,7 +72,7 @@ AS SUCH, IF YOU ARE 13 YEARS OLD OR YOUNGER, WE REQUEST THAT YOU NOT SUBMIT ANY 
 
 We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
 
-In some situations, personally information you input in connection with YuPlay may be made available to other users of YuPlay - as example, user's nickname, and, at the user's choice, first and last name. Gaijin Entertainment has no obligation to keep the privacy of personally identifiable information that a user makes available to other users via YuPlay or other software available on YuPlay, such as in multiplayer or other public functions. **Online Privacy Policy Only**
+In some situations, personally information you input in connection with YuPlay may be made available to other users of YuPlay - as example, user's nickname, and, at the user's choice, first and last name. YUPLAY, Inc has no obligation to keep the privacy of personally identifiable information that a user makes available to other users via YuPlay or other software available on YuPlay, such as in multiplayer or other public functions. **Online Privacy Policy Only**
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
@@ -112,4 +112,4 @@ Controlling the Assault of Non-Solicited Pornography and Marketing Act
 Respectfully, 
 
 Anton Yudintsev CEO  
-[www.gaijinent.com](http://gaijinent.com/)
+[YUPLAY, Inc](http://gaijinent.com/)
