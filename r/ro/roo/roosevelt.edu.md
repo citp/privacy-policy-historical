@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roosevelt.edu privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604094737id_/http%3A//www.roosevelt.edu/ITS/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roosevelt.edu privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228212936id_/http%3A//www.roosevelt.edu/ITS/policies/Privacy.aspx) for the most accurate reproduction.*
 
 # Roosevelt University Privacy Policy
 
@@ -9,7 +9,7 @@ Roosevelt University respects the privacy of the individuals who visit our Web s
 Information is gathered via the web site primarily by two methods. First, our web server automatically logs visits to the site. This log contains such information as your computer's IP address, the time and date of the visit, and the files accessed. This information is used for statistical and analytical purposes only. The second main method used to collect information is done through the use of forms that you may voluntarily complete. The information collected will only be used by Roosevelt for the form's stated purpose.   
 About Us 
 
-This is a privacy policy for Roosevelt University. Our homepage on the Web is located at [http://www.roosevelt.edu](http://www.roosevelt.edu/). The full text of our privacy policy is available on the Web at <http://www.roosevelt.edu/its/privacy>. This policy does not tell users where they can go to exercise their opt-in or opt-out options. 
+This is a privacy policy for Roosevelt University. Our homepage on the Web is located at [http://www.roosevelt.edu](http://www.roosevelt.edu/). Read the [full text of our privacy policy](https://web.archive.org/ITS/policies/Privacy.aspx). This policy does not tell users where they can go to exercise their opt-in or opt-out options. 
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: Web Design and Development, AUD 838-A, 430 S. Michigan Avenue, Chicago, IL. 
 
