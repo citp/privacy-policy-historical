@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the businessdictionary.com privacy policy that was archived on 2011-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110630075504id_/http%3A//www.businessdictionary.com/disclaimer.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the businessdictionary.com privacy policy that was archived on 2011-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228235450id_/http%3A//www.businessdictionary.com/disclaimer.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy, Disclaimer and Copyright</title>
@@ -18,10 +18,55 @@
 <![endif]-->
 <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
-<style>
+<style type="text/css">
 #videosection_top_search{border:1px solid #343434;}
 #videosection_innerMenu{padding:30px}
 </style>
+<script type="text/javascript">
+window.FB_RequireFeatures = 1;
+</script>
+<script type="text/javascript">
+function DefValue(elId, defVal){
+var el = document.getElementById(elId);
+var empty = false;
+var first = true;
+var defaultvalue = defVal;
+if (el.value == '' || el.value == undefined || el.value == null)
+{
+el.value = defaultvalue;
+empty = true;
+}
+//el.setAttribute('autocomplete', 'off');
+el.focus();
+el.onblur = function()
+{
+if (el.value == '')
+{
+empty = true;
+el.value = defaultvalue;
+}
+}
+el.onfocus = function()
+{
+if (empty && !first)
+{
+el.value = '';
+empty = false;
+}
+first = false;
+}
+var actFunc = function()
+{
+if (empty)
+{
+empty = false;
+el.value = '';
+}
+}
+el.onclick = actFunc;
+el.onkeydown = actFunc;
+}
+</script>
 </head>
 <body>
 <div id="all">
@@ -32,7 +77,7 @@
 </div>
 <div style="clear:both"></div>
 <div id="top-links-ie" class="top-links-ie">
-<a href="http://www.facebook.com/businessdictionary" target="_blank"><img src="/images/bd-facebook-btn.png" border="0"></a>    <a href="http://twitter.com/bizdictionary" target="_blank"><img src="/images/bd-twitter-btn.png" border="0"></a>
+<a href="http://www.facebook.com/businessdictionary" target="_blank"><img src="/images/bd-facebook-btn.png" border="0" alt="Follow Us on Facebook"></a>    <a href="http://twitter.com/bizdictionary" target="_blank"><img src="/images/bd-twitter-btn.png" border="0" alt="Follow Us on Twitter"></a>
 </div>
 <div id="menu">
 <a class="spbg adj-menu menu_1" href="http://www.businessdictionary.com/" title="Home">Home</a>
@@ -44,10 +89,8 @@
 <a class="spbg adj-menu menu_4" href="http://www.businessdictionary.com/most-popular-terms.php">Most Popular</a>
 <a class="spbg adj-menu menu_5" href="http://www.businessdictionary.com/term-of-day.php">Term of the Day</a>
 </div>
-<!--end menu-->
 </div>
-<!--end top-->
-<div id="newsearch">
+<div id="newsearch" class="">
 <div id="navbox">
 <div class="search-form-new">
 <form id="sf" name="sf" action="http://www.businessdictionary.com/search-terms.php" method="get">
@@ -61,7 +104,6 @@
 </div>
 <div style="clear:both"></div>
 </div>
-<!--end search-->
 <div id="wrapper">
 <div id="print_head">
 BusinessDictionary.com
@@ -107,16 +149,15 @@ BusinessDictionary.com
 <br>
 <p><strong><span style="font-size: 9pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;">Copyright Agent</span></strong></p>
 <p><span style="font-size: 9pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"> Thomas Murcko<br>
-10201 Fairfax Blvd, suite 510<br>
+10201 Fairfax Blvd, suite 570<br>
 Fairfax, VA 22030<br>
 Phone:  (703) 865-7217<br>
 E-mail: <img src="http://www.businessdictionary.com/images/tomemail.png" style="vertical-align:bottom" alt=""> </span></p>
 </div>
 </div>
-</div>
-</div>
-<!--end wrapper-->
-<div id="alpha">
+</div><!-- content_container ends -->
+</div><!-- wrapper ends -->
+<div id="alpha"><!-- browse by letters -->
 Browse by Letter:
 <a href="http://www.businessdictionary.com/terms-by-letter.php?letter=%23">#</a>
 <a href="http://www.businessdictionary.com/terms-by-letter.php?letter=A">A</a>
@@ -145,54 +186,51 @@ Browse by Letter:
 <a href="http://www.businessdictionary.com/terms-by-letter.php?letter=X">X</a>
 <a href="http://www.businessdictionary.com/terms-by-letter.php?letter=Y">Y</a>
 <a href="http://www.businessdictionary.com/terms-by-letter.php?letter=Z">Z</a>
-</div>
-<!--end alpha-->
-<!-- <div id="all-b"></div>-->
-</div>
-<!--end all-->
-<div id="footer">
+</div><!-- browse by letters -->
+<div id="footer"><!-- Footer Starts-->
 <div id="f-r">
 <div class="footer-title">Resources</div>
 <a href="http://www.businessdictionary.com/terms-by-subject.php">Browse by subject</a><br>
-<a href="http://www.businessdictionary.com/term-of-day.php">Term of the Day</a><br>
+<!--<a href="http://www.businessdictionary.com/term-of-day.php">Term of the Day</a><br />-->
 <a href="http://www.businessdictionary.com/answers/">Answers</a><br>
 <a href="http://www.businessdictionary.com/videos/" onclick="javascript:pageTracker._trackPageview('/outgoing/businessdictionary-videos-footer.com')">Videos</a><br>
 <a href="http://www.businessdictionary.com/article/">Articles</a><span style="color:#ff0000; font-weight:bold"><sup>New</sup></span><br>
 <a href="http://www.businessdictionary.com/tips/">Tips</a><br>
-<a href="http://www.businessdictionary.com/most-popular-terms.php">Most Popular</a><br>
-<a href="http://www.businessdictionary.com/content/resources.html">Fun &amp; Games</a>
+<!--<a href="http://www.businessdictionary.com/most-popular-terms.php">Most Popular</a><br />-->
+<a href="http://www.businessdictionary.com/content/resources.html">More Resources</a>
 </div>
-<div id="f-r">
+<!--<div id="f-r">
 <div class="footer-title">Our Network</div>
-<a target="new" href="http://www.investorwords.com">InvestorWords.com</a> <br>
-<a target="ig" href="http://www.investorguide.com">InvestorGuide.com</a> <br>
+<a target="new" href="http://www.investorwords.com">InvestorWords.com</a> <br />
+<a target="ig" href="http://www.investorguide.com">InvestorGuide.com</a> <br />
 <a target="wfc" href="http://www.webfinanceinc.com">WebFinanceInc.com</a>
 </div>
 <div id="f-r">
 <div class="footer-title">Tools</div>
-<a href="http://www.businessdictionary.com/facebook.php">Facebook App</a><br>
-<a href="http://www.google.com/ig/adde?moduleurl=www.businessdictionary.com/gadget.php">iGoogle Widget</a><br>
-<a href="http://feeds.feedburner.com/BDTermOfTheDay">RSS</a><br>
-</div>
+<a href="http://www.businessdictionary.com/facebook.php">Facebook App</a><br />
+<a href="http://www.google.com/ig/adde?moduleurl=www.businessdictionary.com/gadget.php">iGoogle Widget</a><br />
+<a href="http://feeds.feedburner.com/BDTermOfTheDay">RSS</a><br />
+</div>	-->
 <div id="f-r">
 <div class="footer-title">Company</div>
-<a href="http://www.businessdictionary.com/advertising.php">Advertising</a><br>
+<a href="http://www.businessdictionary.com/advertising.php">Advertise with Us</a><br>
 <a href="http://www.businessdictionary.com/content/licensing.php">Licensing</a><br>
 <a href="http://www.businessdictionary.com/aboutus.php">About us</a><br>
 <a href="http://www.businessdictionary.com/content/careers.php">Careers</a><br>
 <a href="http://www.businessdictionary.com/contact.php">Contact Us</a>
 </div>
-<div style="border-left: 1px solid #c3d3ef;" id="f-r">
-<div class="footer-copyright">Copyright©2011 WebFinance, Inc. All Rights Reserved.<br> Unauthorized duplication, in whole or in part, is strictly prohibited.</div>
-<div><a href="http://www.businessdictionary.com/disclaimer.php" style="font-size: 11px;">Privacy Policy, Disclaimer and Copyright</a></div><br>
-<a href="http://www.facebook.com/businessdictionary" target="_blank"><img src="/images/bd-facebook-btn.png" border="0"></a>&nbsp;&nbsp;&nbsp;<a href="http://twitter.com/bizdictionary" target="_blank"><img src="/images/bd-twitter-btn.png" border="0"></a>
+<div style="border-left: 1px solid #c3d3ef; font-size: 11px; color: #444;" id="f-r">
+<a href="http://www.facebook.com/businessdictionary" target="_blank"><img src="/images/bd-facebook-btn.png" border="0" alt="Follow Us on Facebook"></a>&nbsp;&nbsp;&nbsp;<a href="http://twitter.com/bizdictionary" target="_blank"><img src="/images/bd-twitter-btn.png" border="0" alt="Follow Us on Twitter"></a><br>
+Copyright©2011 WebFinance, Inc. All Rights Reserved.<br> Unauthorized duplication, in whole or in part, is strictly prohibited.<br>
+<a href="http://www.businessdictionary.com/disclaimer.php">Privacy Policy, Disclaimer and Copyright</a><br>
 </div>
 </div>
-<div id="print_footer_addin">
-<p><script language="javascript"> document.write(unescape("%43%6F%70%79%72%69%67%68%74%20%A9%32%30%31%30%20%42%75%73%69%6E%65%73%73%44%69%63%74%69%6F%6E%61%72%79%2E%63%6F%6D%2E%20%41%4C%4C%20%52%49%47%48%54%53%20%52%45%53%45%52%56%45%44%2E"))</script>Copyright ©2010 BusinessDictionary.com. ALL RIGHTS RESERVED.</p>
-<p><script language="javascript"> document.write(unescape("%52%65%70%72%6F%64%75%63%74%69%6F%6E%20%6F%66%20%61%6C%6C%20%6F%72%20%70%61%72%74%20%6F%66%20%74%68%69%73%20%64%69%63%74%69%6F%6E%61%72%79%20%61%6E%64%2F%6F%72%20%74%68%69%73%20%70%61%67%65%2C%20%69%6E%20%61%6E%79%20%66%6F%72%6D%61%74%2C%20%77%69%74%68%6F%75%74%20%77%72%69%74%74%65%6E%20%63%6F%6E%73%65%6E%74%20%69%73%20%70%72%6F%68%69%62%69%74%65%64%2E%20%49%66%20%79%6F%75%20%68%61%76%65%20%71%75%65%73%74%69%6F%6E%73%20%61%62%6F%75%74%20%74%68%69%73%20%64%69%63%74%69%6F%6E%61%72%79%20%70%6C%65%61%73%65%20%66%65%65%6C%20%66%72%65%65%20%74%6F%20%63%6F%6E%74%61%63%74%20%75%73%20%66%65%65%64%62%61%63%6B%40%62%75%73%69%6E%65%73%73%64%69%63%74%69%6F%6E%61%72%79%2E%63%6F%6D"))</script>Reproduction of all or part of this dictionary and/or this page, in any format, without written consent is prohibited. If you have questions about this dictionary please feel free to contact us feedback@businessdictionary.com</p>
-</div>
-<!--end footer-->
+<div id="print_footer_addin"><!-- Footer for Print-->
+<p><script language="javascript" type="text/javascript"> document.write(unescape("%43%6F%70%79%72%69%67%68%74%20%A9%32%30%31%30%20%42%75%73%69%6E%65%73%73%44%69%63%74%69%6F%6E%61%72%79%2E%63%6F%6D%2E%20%41%4C%4C%20%52%49%47%48%54%53%20%52%45%53%45%52%56%45%44%2E"))</script>Copyright ©2010 BusinessDictionary.com. ALL RIGHTS RESERVED.</p>
+<p><script language="javascript" type="text/javascript"> document.write(unescape("%52%65%70%72%6F%64%75%63%74%69%6F%6E%20%6F%66%20%61%6C%6C%20%6F%72%20%70%61%72%74%20%6F%66%20%74%68%69%73%20%64%69%63%74%69%6F%6E%61%72%79%20%61%6E%64%2F%6F%72%20%74%68%69%73%20%70%61%67%65%2C%20%69%6E%20%61%6E%79%20%66%6F%72%6D%61%74%2C%20%77%69%74%68%6F%75%74%20%77%72%69%74%74%65%6E%20%63%6F%6E%73%65%6E%74%20%69%73%20%70%72%6F%68%69%62%69%74%65%64%2E%20%49%66%20%79%6F%75%20%68%61%76%65%20%71%75%65%73%74%69%6F%6E%73%20%61%62%6F%75%74%20%74%68%69%73%20%64%69%63%74%69%6F%6E%61%72%79%20%70%6C%65%61%73%65%20%66%65%65%6C%20%66%72%65%65%20%74%6F%20%63%6F%6E%74%61%63%74%20%75%73%20%66%65%65%64%62%61%63%6B%40%62%75%73%69%6E%65%73%73%64%69%63%74%69%6F%6E%61%72%79%2E%63%6F%6D"))</script>Reproduction of all or part of this dictionary and/or this page, in any format, without written consent is prohibited. If you have questions about this dictionary please feel free to contact us feedback@businessdictionary.com</p>
+</div><!-- Footer for Print-->
+<!-- Footer Starts Ends-->
+</div><!-- all div ends-->
 <!--All Js for BD -->
 <script type="text/javascript" src="/min/g=termjs"></script>
 <!--All Js for BD -->
@@ -238,36 +276,6 @@ document.onkeyup = suggestion.handleArrowKeys.bind(suggestion);
 document.forms['sf'].onsubmit = suggestion.formSubmit.bind(suggestion);
 </script>
 <!-- search suggestions js -->
-<!-- QA JS -->
-<script type="text/javascript">
-$(document).ready(function()
-{
-$.ajax({
-type: "GET",
-url: "http://www.businessdictionary.com/answers/search//feed/rss2/",
-dataType: "xml",
-success: function(xml) { parseXml(xml); }
-});
-});
-function parseXml(xml)
-{
-var count=0;
-$('#bdanswers-term').append("<div class='title-head'><h2>Still have questions about '<strong><i></i></strong>'?</h2></div>");
-$(xml).find("item").each(function()
-{
-var title = $(this).find("title").text();
-var link = $(this).find("link").text();
-$('#bdanswers-term').append("<p style='padding-bottom:2px;'><a onclick=\"javascript:pageTracker._trackPageview('/outgoing/question-termpage.com')\" href=\""+link+"\">&#187; "+title+"</a></p>");
-count = count+1;
-if(count == 5){return false;}
-});
-var itemsize = $(xml).find("item").size();
-if(itemsize <1){
-$("#bdanswers-term").html('<div class="title-head"><h2>Still have questions about "<strong><i></i></strong>"?</h2></div><p class="grey">Currently there are no related questions for this term.</p>');
-}
-}
-</script>
-<!-- QA JS -->
 <!-- Start Quantcast tag -->
 <script type="text/javascript">
 _qoptions={
@@ -276,7 +284,7 @@ qacct:"p-6eYxd5rE9ede6"
 </script>
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <noscript>
-<img src="http://pixel.quantserve.com/pixel/p-6eYxd5rE9ede6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+<img src="http://pixel.quantserve.com/pixel/p-6eYxd5rE9ede6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast" />
 </noscript>
 <!-- End Quantcast tag -->
 <!--Begin Google Analytics Code-->
@@ -291,6 +299,20 @@ pageTracker._trackPageview();
 pageTracker._trackPageLoadTime();
 } catch(err) {}</script>
 <!--End Google Analytics Code-->
+<style>
+.black_overlay {
+display: none;
+position: absolute;
+top: 0%;
+left: 0%;
+width: 100%;
+height: 100%;
+background: #333;
+z-index: 1001;
+-moz-opacity: 0.4;
+opacity: .40;
+filter: alpha(opacity=40);</style>
+<div class="black_overlay"></div>
 
 
 </body></html>
