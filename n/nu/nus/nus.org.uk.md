@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nus.org.uk privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523183045id_/http%3A//www.nus.org.uk/en/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nus.org.uk privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228025721id_/http%3A//www.nus.org.uk/en/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy: NUS.org.uk
+# Privacy Policy: www.nus.org.uk
 
-[www.nus.org.uk](https://web.archive.org/web/20110523183045id_/http://www.nus.org.uk/) is operated by NUS, a Students' Union membership organisation, based in London. NUS are committed to protecting the privacy of its users while using the site. 
+[www.nus.org.uk](http://www.nus.org.uk/) is operated by NUS, a Students' Union membership organisation, based in London. NUS are committed to protecting the privacy of its users while using the site. 
 
 1.1 We will collect information about your personal details, tastes and preferences both when you tell us what these are and by analysis of traffic on the Website, including by using cookies. 
 
