@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infragistics.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429172437id_/http%3A//www.infragistics.com/about-us/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infragistics.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228035936id_/http%3A//www.infragistics.com/about-us/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Infragistics | Privacy Statement
 
@@ -19,11 +19,11 @@ Infragistics, Inc. ("Infragistics") will not provide your name, e-mail address, 
 
 
 
-If you do not desire us to send you information on third party products, do not check the appropriate check box requesting us to do so. Similarly, if you don't want Infragistics to send you e-mail or postal mail regarding Infragistics' products, services, or special offers, do not check the appropriate check boxes requesting us to do so.
+If you do not desire us to send you information on third party products, do not check the appropriate check box requesting us to do so. Similarly, if you don't want Infragistics to send you e-mail or postal mail regarding Infragistics' products, services, or special offers, do not check the appropriate check boxes requesting us to do so. Notwithstanding this email opt-out, if you register or download a trial of Infragistics software or services, Infragistics may contact you by email for a limited period to communicate with you on the progress of your trial.
 
 ## Online Registration
 
-When you register a product, whether purchased online directly from Infragistics or otherwise, we store the Personal Information you give us on a secure server. That information is treated in the same manner as any Personal Information gathered through the online store. If you do not wish to have third party or Infragistics marketing information sent to you, choose the appropriate options and we will refrain from doing so
+When you register a product, whether purchased online directly from Infragistics or otherwise, we store the Personal Information you give us on a secure server. That information is treated in the same manner as any Personal Information gathered through the online store. If you do not wish to have third party or Infragistics marketing information sent to you, choose the appropriate options and we will refrain from doing so.
 
 ## Cookies
 
