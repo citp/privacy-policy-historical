@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zatse.in privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519002134id_/http%3A//zatse.in/page/index/pageid/8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zatse.in privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228205444id_/http%3A//zatse.in/page/index/pageid/8) for the most accurate reproduction.*
 
 # 
 
-Untitled document
+** Untitled document
 
 Majestic IT Services Ltd (MITSL) has created this privacy statement in order to demonstrate our commitment to privacy. This policy only applies to the practices of companies that MITSL owns or controls and the network of sites operated by it. 
 
@@ -59,3 +59,5 @@ Ground Floor
 A-110 Sector 4, Noida
 
 [info@mitsl.in](mailto:info@mitsl.in)
+
+**
