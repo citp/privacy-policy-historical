@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hrw.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629034438id_/http%3A//www.hrw.org/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrw.org privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228175739id_/http%3A//www.hrw.org/privacy) for the most accurate reproduction.*
 
-# Human Rights Watch | Defending Human Rights Worldwide
+# Privacy Policy | Human Rights Watch
 
 **Last Updated: November 13, 2009**
 
@@ -70,9 +70,11 @@ We are a global organization and may share your information among all Human Righ
 
 Human Rights Watch  
 Attention: Development Associate  
-2nd Floor, 2-12 Pentonville Road 
-
-London N1 9HF, UK 
+Address: First Floor  
+Audrey House  
+16 -20 Ely Place  
+London, England  
+EC1N 6SN 
 
 If you request that we disclose, modify or delete your information from our databases, or cease to make use of your personal information either temporarily or permanently, we will endeavor to comply with your request as reasonably practicable. Please note that we may need to retain certain information for record-keeping purposes, and there may also be residual information that will remain within our databases and other records to the extent that such retention is legally required and permitted. 
 
