@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the londonpass.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519215650id_/http%3A//www.londonpass.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonpass.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228050152id_/http%3A//www.londonpass.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - London Pass - Save on sightseeing in London
+# The London Pass - How Does The London Pass Work?
 
 Leisure Pass Group is committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998)
 
