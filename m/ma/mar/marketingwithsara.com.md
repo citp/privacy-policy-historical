@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingwithsara.com privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205213229id_/http%3A//marketingwithsara.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingwithsara.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228220343id_/http%3A//marketingwithsara.com/privacypolicy.php) for the most accurate reproduction.*
 
 # 
 
