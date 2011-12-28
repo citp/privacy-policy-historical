@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the illimitux.net privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230073503id_/http%3A//www.illimitux.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illimitux.net privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228015828id_/http%3A//www.illimitux.net/privacy) for the most accurate reproduction.*
 
 # Illimitux | Privacy Policy
 
