@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the drlam.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628145750id_/http%3A//drlam.com/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drlam.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228061152id_/http%3A//www.drlam.com/privacystatement.asp) for the most accurate reproduction.*
 
-# Privacy Statement
+# www.DrLam.com Privacy Statement
 
-|  Privacy Statement
+www.DrLam.com Privacy Statement
+
+Privacy Statement
 
 This privacy policy was last updated Dec 1, 2008 
 
 **Information Collection and Use  
-**The www.DrLam.com Web site collects information from our users at several different points on our Web site. When you use the Web site, some basic, general information is collected. This general information is used internally in connection with our business to improve the Web site, including our marketing and advertising efforts, and to make your use of the Web site as enjoyable and efficient as possible.
+**The [www.DrLam.com](http://www.drlam.com/) Web site collects information from our users at several different points on our Web site. When you use the Web site, some basic, general information is collected. This general information is used internally in connection with our business to improve the Web site, including our marketing and advertising efforts, and to make your use of the Web site as enjoyable and efficient as possible.
 
 When you set up an account on our Web site or purchase goods and or services from our Web site, we collect personal information provided by you that may include your: (i) first and last name; (ii) billing address; (iii) shipping address; (iv) other shipping addresses; (v) email address; (vi) phone number; (vii) credit card account number; (viii) items purchased from us; and (ix) browsing, buying and selling patterns. We use this personal information in order to provide you with the goods and services that you purchase on our Web site. We use your email address to provide you with information about your order and its status and we may occasionally send out emails, including newsletters, to people who have placed an order on-line, with information about other goods and services available on our Web site. Your phone number is used by us only in the event that our customer service representatives need to contact you about an order you have placed.
 
-Michael Lam, MD, ("we" or "us") owns and operates the www.DrLam.com Web site and we are the sole owner of this information collected on the Web site. We may sell, share, or rent this information to a third part as part of the [www.DrLam.com](http://www.drlam.com/) advertising effort to spread and promote natural health information to the world.. We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities and may, in our sole discretion, disclose personal information or other information to satisfy any law, regulation, subpoena, or government request. We reserve the right to release personal information or other information about users who we believe are engaged in illegal activities or are otherwise in violation of our Terms of Service, even without a subpoena, warrant or court order, if we believe, in our sole discretion, that such disclosure is necessary or appropriate to operate our Web site or to protect the rights or property of www.DrLam.com, our affiliates, or our officers, directors, employees, agents, third-party content providers, suppliers, sponsors, or licensors. We also reserve the right to report to law enforcement agencies any activities we reasonably believe in our sole discretion to be unlawful. If we are legally compelled to disclose information about you to a third party, we will attempt to notify you by sending an email to the email address in our records unless doing so would violate the law or unless you have not provided your email address to us.
+Michael Lam, MD, ("we" or "us") owns and operates the [www.DrLam.com](http://www.drlam.com/) Web site and we are the sole owner of this information collected on the Web site. We may sell, share, or rent this information to a third part as part of the [www.DrLam.com](http://www.drlam.com/) advertising effort to spread and promote natural health information to the world.. We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities and may, in our sole discretion, disclose personal information or other information to satisfy any law, regulation, subpoena, or government request. We reserve the right to release personal information or other information about users who we believe are engaged in illegal activities or are otherwise in violation of our Terms of Service, even without a subpoena, warrant or court order, if we believe, in our sole discretion, that such disclosure is necessary or appropriate to operate our Web site or to protect the rights or property of [www.DrLam.com](http://www.drlam.com/), our affiliates, or our officers, directors, employees, agents, third-party content providers, suppliers, sponsors, or licensors. We also reserve the right to report to law enforcement agencies any activities we reasonably believe in our sole discretion to be unlawful. If we are legally compelled to disclose information about you to a third party, we will attempt to notify you by sending an email to the email address in our records unless doing so would violate the law or unless you have not provided your email address to us.
 
 **Registration  
-**To use some features on the www.DrLam.com Web site, a user must first complete a registration form on the Web site. During registration, a user is required to give contact information, such as name and email address. This information is used to contact users about the services on our Web site for which they have indicated interest.  In addition, certain  demographic information, such as age , height, weight, and gender are required if you wish to participate in certain services provided by the site. We encourage our users to provide such information so that we can provide a more personalized experience for our users on our Web site.
+**To use some features on the [www.DrLam.com](http://www.drlam.com/) Web site, a user must first complete a registration form on the Web site. During registration, a user is required to give contact information, such as name and email address. This information is used to contact users about the services on our Web site for which they have indicated interest.  In addition, certain  demographic information, such as age , height, weight, and gender are required if you wish to participate in certain services provided by the site. We encourage our users to provide such information so that we can provide a more personalized experience for our users on our Web site.
 
 **Orders  
 **We request additional personal information from our users when placing an order on our Web site for products or services. In completing our order form, a user must provide contact information, such as name and shipping address, and financial information, such as credit card account number , security validation code, and expiration date. This information is used for billing purposes and to fulfill our customer orders. If we experience difficulties processing an order, we will contact a user through this information.
@@ -75,28 +77,8 @@ Users who no longer wish to receive our newsletter, alerts etc  or other market
 Users of our Web site will be notified if, in connection with the use of a particular service on our Web site, their information will be collected by any outside third-party. At such time, the user can determine whether they wish to proceed with a service that will involve an outside party having access to their information.
 
 **Collecting Information From Children Younger Than 13**  
-The www.DrLam.com Web site does not knowingly collect or use any personal information from children under the age of 13 without obtaining verifiable parental consent. Drlam.com is open to users over 18 years old only.
+The [www.DrLam.com](http://www.drlam.com/) Web site does not knowingly collect or use any personal information from children under the age of 13 without obtaining verifiable parental consent. Drlam.com is open to users over 18 years old only.
 
 **Notification of Changes in Use of Information**  
 Our privacy policy is subject to change. In the event of any change, we will provide notice of such change on our Web site. If you have opted out of all communication with our Web site or have deleted or deactivated your account with us, then you will not be contacted and your personal information will not be used.  
-If you have any questions about this privacy policy or believe that the www.DrLam.com Web site is not abiding by our privacy policy, please contact our Webmaster by e-mail at[ DrLam.com@gmail.com](mailto:DrLam.com@gmail.com)
-
-  
-| 
-
-Ask me for FREE!
-
-  
-| 
-
-Free Newsletter
-
-  
-Sign up for my newsletters: 
-
-You can also [CALL ME FOR FREE](http://www.drlam.com/askme.asp)  
-  
----|---  
-  
-  
-
+If you have any questions about this privacy policy or believe that the [www.DrLam.com](http://www.drlam.com/) Web site is not abiding by our privacy policy, please contact our Webmaster by e-mail at[ DrLam.com@gmail.com](mailto:DrLam.com@gmail.com)
