@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 99labels.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629045714id_/http%3A//99labels.com/v1/PrivacyPolicies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99labels.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229192836id_/http%3A//www.99labels.com/v1/PrivacyPolicies.aspx) for the most accurate reproduction.*
 
 # 99labels
 
@@ -83,6 +83,18 @@ If we plan to use your personally identifiable information for any commercial pu
 To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you. 
 
 Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.
+
+##  Steps for user to OPT-OUT of setting website cookie on users browsers
+
+Whether you want your web browser to accept cookies or not is up to you. If you haven't changed your computer's settings, most likely your browser already accepts cookies. If you choose to decline cookies, you may not be able to fully experience all features of the website. You can also delete your browser cookies of disable them entirely. But this may significantly impact your experience with our website and may make parts of our website non functional or inaccessible. We recommend that you leave them turned on.
+
+##  Information about NPII advertising like behavioural targeting and/or retargeting
+
+We use third-party service providers to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user.
+
+##  Steps to OPT-OUT of NPII advertising
+
+If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please click http://www.networkadvertising.org/managing/opt_out.asp. You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative's website by clicking http://www.networkadvertising.org/
 
 ##  Policy updates 
 
