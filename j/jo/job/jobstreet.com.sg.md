@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobstreet.com.sg privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623090514id_/http%3A//www.jobstreet.com.sg/aboutus/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobstreet.com.sg privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229020259id_/http%3A//www.jobstreet.com.sg/aboutus/privacy_policy.htm) for the most accurate reproduction.*
 
 # JobStreet.com - Privacy Policy
 
@@ -28,7 +28,7 @@ This Statement of Privacy covers how JobStreet.com treats personal information c
 
 **JobStreet.com** may collect information about your computer hardware and software. This information includes your IP address, browser type, domain names, access times and referring website addresses. We use this information for operating our services, maintaining the quality of the service, security management and providing reports for relevant business purposes. 
 
-**JobStreet.com** uses MyJobStreet to provide registration and sign-in services. If you create a MyJobStreet account, you are simultaneously registering with **JobStreet.com** and opening a MyJobStreet account. All the registration information you provide is stored by us in your MyJobStreet profile. For more information about a MyJobStreet account, please visit: <http://myjobstreet.jobstreet.com/>
+**JobStreet.com** uses MyJobStreet to provide registration and sign-in services. If you create a MyJobStreet account, you are simultaneously registering with **JobStreet.com** and opening a MyJobStreet account. All the registration information you provide is stored by us in your MyJobStreet profile. For more information about a MyJobStreet account, please visit: <http://myjobstreet.jobstreet.com.sg/>
 
 Please keep in mind that when you apply for jobs advertised on **JobStreet.com** , your resume data in your MyJobStreet account and any other information that you disclosed during your job application will be made available to the companies you are applying to. We encourage you to review the privacy statements of websites you choose to browse that are linked from **JobStreet.com** so that you can understand how those websites collect, use and share your information. We are not responsible for the privacy statements or other content on such websites outside the **JobStreet.com** domain name. 
 
@@ -46,11 +46,11 @@ Please keep in mind that when you apply for jobs advertised on **JobStreet.com**
 
 
 **_Control of your Personal Information_**  
-**JobStreet.com** offers you various choices for the use and sharing of your personal information, as well as subscription to various marketing preferences, products or services. You may go to the [MyJobStreet](http://myjobstreet.jobstreet.com/) account page to edit your personal information and preferences at any time. You may choose not to receive any marketing material from **JobStreet.com** or from any of our affiliated partners. You may also subscribe to additional products or services from this account. 
+**JobStreet.com** offers you various choices for the use and sharing of your personal information, as well as subscription to various marketing preferences, products or services. You may go to the [MyJobStreet](http://myjobstreet.jobstreet.com.sg/) account page to edit your personal information and preferences at any time. You may choose not to receive any marketing material from **JobStreet.com** or from any of our affiliated partners. You may also subscribe to additional products or services from this account. 
 
-In addition, you may visit [MyJobStreet](http://myjobstreet.jobstreet.com/) to view, edit or delete your personal information or discontinue your subscription to marketing preferences, products or services from the **JobStreet.com** database. 
+In addition, you may visit [MyJobStreet](http://myjobstreet.jobstreet.com.sg/) to view, edit or delete your personal information or discontinue your subscription to marketing preferences, products or services from the **JobStreet.com** database. 
 
-In both cases described above, you will be asked to make your requests while logged into a MyJobStreet account, so that **JobStreet.com** can associate your preferences with a particular service. This security safeguard prevents someone else from making choices about the usage and control of your personal information. If you do not have a MyJobStreet account, you can create one now by [clicking here](http://myjobstreet.jobstreet.com/registration/registration.asp). 
+In both cases described above, you will be asked to make your requests while logged into a MyJobStreet account, so that **JobStreet.com** can associate your preferences with a particular service. This security safeguard prevents someone else from making choices about the usage and control of your personal information. If you do not have a MyJobStreet account, you can create one now by [clicking here](http://myjobstreet.jobstreet.com.sg/registration/registration.asp). 
 
 You may also stop the delivery of future promotional emails from **JobStreet.com** by following the specific instructions in the emails you receive or in the MyJobStreet account page. The instructions explain how to stop receiving such e-mails. 
 
