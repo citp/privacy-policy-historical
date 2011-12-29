@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funpcgame.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231153335id_/http%3A//www.funpcgame.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funpcgame.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229091300id_/http%3A//www.funpcgame.com/Privacy.htm) for the most accurate reproduction.*
 
-# Free Games downloads for adults and kids
+# Privacy Policy - Fun PC Games
 
 _** FunPCGames' Privacy statement**_
 
@@ -8,7 +8,7 @@ _** FunPCGames' Privacy statement**_
 
 **Cookies**
 
-We used the service of [_statscounter_](http://www.statcounter.com/) to track our visitors' basic information such as the number of visits, country, browser type and etc. We also used Google's [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) and enables it to serve ads to our users based on visit to Fun PC Games and . These information will never be shared or sold to others.
+We used the service of _statscounter_ to track our visitors' basic information such as the number of visits, country, browser type and etc. We also used Google's DART cookie and enables it to serve ads to our users based on visit to Fun PC Games and . These information will never be shared or sold to others. Visitors may also choose to opt out use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html).
 
 **Order form**
 
