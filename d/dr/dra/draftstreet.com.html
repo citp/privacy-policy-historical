@@ -1,30 +1,45 @@
-<!--The following is the downloaded HTML source of the draftstreet.com privacy policy that was archived on 2011-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110602061333id_/http%3A//www.draftstreet.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the draftstreet.com privacy policy that was archived on 2011-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229020117id_/http%3A//www.draftstreet.com/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
-	DraftStreet.com - Privacy Policy
-</title><meta id="ctl00_metaDesc" name="description" content="Play daily and weekly fantasy sports money leagues for cash and prizes.  Leagues range from FREE to $5 to $500!"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="image_src" href="http://c1304512.cdn.cloudfiles.rackspacecloud.com/share-fb.png">
+	Fantasy Sports Money Leagues, Win Cash and Prizes Today
+</title><meta id="ctl00_metaDesc" name="description">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     
-    <link rel="stylesheet" type="text/css" href="/css/ds.css?rev1355">
-    <link rel="stylesheet" type="text/css" href="/css/share.css?rev1352">
+    <link rel="image_src" href="http://www.draftstreet.com/share-fb-draftstreet.png">
+    
+    
+      
+    <link rel="stylesheet" type="text/css" href="/css/ds.css?rev=1">
+    <link rel="stylesheet" type="text/css" href="/css/share.css">
     <link rel="stylesheet" type="text/css" href="/plugins/jquery.dsdialog.0/jquery.dsdialog.0.css">
     <link rel="stylesheet" type="text/css" href="/plugins/contactable/contactable.css">
     
         <link rel="stylesheet" type="text/css" href="/css/chat.css">
     
-	
-    <script type="text/javascript" src="/global.js?revision1486"></script>
-    <script src="https://www.google.com/jsapi"></script>
+	<script type="text/javascript">
+	var _IMG = 'http://c1304512.r12.cf0.rackcdn.com/';
+	var _IMGSECURE = 'https://c1304512.ssl.cf0.rackcdn.com/';
+	var _IMGAVATAR = 'http://www.draftstreet.com/images/avatar/';
+	var _PATHS = 'http://www.draftstreet.com/';
+	var _TM = 'DraftStreet';
+	var _CLP = 'http://chat.draftstreet.com/';
+	</script>
+    <script type="text/javascript" src="/global.js?revision1703"></script>
+<!--    <script src="https://www.google.com/jsapi"></script>
 	<script>
 	    google.load('jquery', '1.4.1');
 	    google.load('jqueryui', '1.8.2'); 
-	</script>
+	</script>-->
+
+    <script src="/plugins/jquery-1.4.1.min.js" type="text/javascript"></script>
+
+    <script src="/plugins/jquery-ui-1.8.2.lobby.min.js" type="text/javascript"></script>
     <script type="text/javascript" src="/plugins/soundmanager2-nodebug-jsmin.js"></script>
     <script type="text/javascript" src="/plugins/jquery.simplemodal-1.3.3.min.js"></script>
     <script type="text/javascript" src="/plugins/jquery.cookie.js"></script>
     <script type="text/javascript" src="/plugins/jquery.autotab.js"></script>
-    <script type="text/javascript" src="/plugins/jquery.dsdialog.0/jquery.dsdialog.0.js"></script>
+    <script type="text/javascript" src="/plugins/jquery.dsdialog.0/jquery.dsdialog.0.js?rev=1"></script>
     <script type="text/javascript" src="/plugins/contactable/jquery.contactable.js"></script>
     <script type="text/javascript" src="/plugins/contactable/jquery.validate.pack.js"></script>
     <script src="/lib/creditcard.js" type="text/javascript"></script>
@@ -33,6 +48,8 @@
         <script type="text/javascript" src="/js/chat.js?rev1406"></script>
     
     <script type="text/javascript">
+        
+        
         var _globaluserid = -1;
         var _uiService;
         var _UserService, _userService;
@@ -77,6 +94,8 @@
         var _globalChatRoom;
         var _country = 'US';
         var top5;
+        var _siteid = 1;
+        var params = '';
         
         document.onkeypress = keyPress;
         var count = 1;
@@ -95,13 +114,38 @@
             _UserService = new DraftStreet.UserService();
             _userService = _UserService;
             
-            // init sounds
-            soundManager.url = CONFIG.PATHS.WEB + 'plugins/soundmanager-swf/';
-            soundManager.useFlashBlock = false;
-            soundManager.onload = function() {
-                soundManager.createSound('alert', CONFIG.PATHS.WEB + 'sounds/lobby-active-league-alert.mp3');
-                soundManager.createSound('chat-blip', CONFIG.PATHS.WEB + 'sounds/chat-blip.mp3');
-            };
+            $('#dialog-state')
+            .dsdialog(
+                {
+                    tabTitle: 'Warning',
+                    imgPath: _IMG + 'dsdialog/',
+                    useClose: false,
+                    width: '400px'
+                }
+            );
+            
+            $('#a-states-ok')
+                .click(function() {
+                    $.modal.close();
+                });  
+            
+            //setup title on top if site is not DS
+            
+            if('http://www.draftstreet.com' != "http://testing.draftstreet.com" && 'http://www.draftstreet.com' != "http://www.draftstreet.com"){
+                $('h1.left').html("Fantasy Sports, Daily and Weekly Fantasy Drafts for Cash Prizes");
+                
+            }
+            
+            if(soundManager != undefined)
+            {
+                // init sounds
+                soundManager.url = CONFIG.PATHS.WEB + 'plugins/soundmanager-swf/';
+                soundManager.useFlashBlock = false;
+                soundManager.onload = function() {
+                    soundManager.createSound('alert', CONFIG.PATHS.WEB + 'sounds/lobby-active-league-alert.mp3');
+                    soundManager.createSound('chat-blip', CONFIG.PATHS.WEB + 'sounds/chat-blip.mp3');
+                };
+            }
             
 
 
@@ -175,7 +219,7 @@
 			    notRecievedMsg: 'Sorry -- your message could not be sent.  Please try again later.',
 			    disclaimer: 'Please feel free to get in touch.  We value your feedback.',
 			    hideOnSubmit: false,
-			    mailerPath: '/plugins/contactable/send-feedback.aspx'
+			    mailerPath: 'http://www.draftstreet.com/plugins/contactable/send-feedback.aspx'
             });
 
             //check if user is loggedin
@@ -185,24 +229,85 @@
                 _UserService.LogOut(logoutdone,logoutfailed);
             });
             
-            // buttons that will send user to the Cashier's page
-            $('#button-deposit, #deposit-btn, #button-withdraw, #withdraw-btn, #button-transfer').click(function() {
-                var params = '';
-                if ($(this).attr('id') == 'button-deposit' || $(this).attr('id') == 'deposit-btn')
-                    params = 'deposit';
-                else if ($(this).attr('id') == 'button-withdraw' || $(this).attr('id') == 'withdraw-btn')
+            if(_state == 'AZ' || _state == 'IA' || _state == 'LA' || _state == 'MD' || _state == 'MT' || _state == 'PR' || _state == 'VT' || _state == 'QC')
+            {
+                disablebuttons();
+            }
+            else
+            {
+                // buttons that will send user to the Cashier's page
+                $('#button-withdraw, #withdraw-btn').click(function() {
+                    
                     params = 'withdraw';
-                else if ($(this).attr('id') == 'button-transfer')
-                    params = 'transfer';
+                        
+                    _UserService.CheckWithdrawStatus(CheckWithdrawStatus_Complete, CheckWithdrawStatus_Failed);    
+                                        
+                    return false;
+                });
                 
-                window.location = 'https://www.draftstreet.com/Cashier.aspx?do=' + params;
-                return false;
-            });
+                $('#button-deposit, #deposit-btn').click(function() {
+                    
+                    params = 'deposit';
+                                            
+                    window.location = 'https://www.draftstreet.com/Cashier.aspx?do=' + params; 
+                                        
+                    return false;
+                });
+            }
             
-            _uiService.GetYesterdaysTop5MoneyLeaders('leaderboard.June.2011',5,GetYesterdaysTop5MoneyLeaders_Complete,GetYesterdaysTop5MoneyLeaders_Failed);
+            _uiService.GetLastWeekMoneyLeaders(5,GetYesterdaysTop5MoneyLeaders_Complete,GetYesterdaysTop5MoneyLeaders_Failed);
             
             
         });
+        
+        function CheckWithdrawStatus_Complete(result)
+        {
+            result = normalizeResult(result);
+
+            data = eval('(' + result.data + ')');
+            
+            if(data.is_available == 1)
+                window.location = 'https://www.draftstreet.com/Cashier.aspx?do=' + params;
+            else
+            {
+                CheckWithdrawStatus_Failed();
+            }
+        }
+        
+        function CheckWithdrawStatus_Failed()
+        {
+            basicDialog('Under Maintenance', 'Withdrawals are currently unavailable.  The function will be restored shortly.</br></br>', true);  
+        }
+        
+        function disablebuttons()
+        {
+            $('#button-deposit, #deposit-btn, #button-withdraw, #withdraw-btn, #button-withdraw-cashier, #button-deposit-cashier').addClass('blur-button');
+                
+                // buttons that will send user to the Cashier's page
+                $('#button-deposit, #deposit-btn, #button-deposit-cashier').click(function() {
+                    $('#state-withdraw').html('</br>');
+                    $('#dialog-state')
+                    .modal({
+                        opacity: 75,
+                        overlayCss: { backgroundColor: '#000000' },
+                        close: true
+                    });
+                });
+                
+                // buttons that will send user to the Cashier's page
+                $('#button-withdraw, #withdraw-btn, #button-withdraw-cashier').click(function() {
+                    $('#state-withdraw').html('</br>If you are attempting to withdraw recruiting commission funds, please email us at customerservice@draftstreet.com </br></br>');
+                    
+                    $('#dialog-state')
+                    .modal({
+                        opacity: 75,
+                        overlayCss: { backgroundColor: '#000000' },
+                        close: true
+                    });
+                });
+                
+                $('#txtMyState').attr('disabled', 'disabled');
+        }
         
         function GetYesterdaysTop5MoneyLeaders_Complete(result)
         {
@@ -235,14 +340,16 @@
             }
             else
             {
-                $('#main-header').attr('src', 'http://c1304512.cdn.cloudfiles.rackspacecloud.com/main_header_01a.jpg');
+                $('#main-header').attr('src', _IMG + 'main_header_01a.jpg');
+                $('#top5-noclick').hide();
+                $('#top5-img').hide();
             }
             
         }
         
         function GetYesterdaysTop5MoneyLeaders_Failed()
         {
-            $('#main-header').attr('src', 'http://c1304512.cdn.cloudfiles.rackspacecloud.com/main_header_01a.jpg');
+            $('#main-header').attr('src', 'http://c1304512.r12.cf0.rackcdn.com/main_header_01a.jpg');
         }
         
         function populatedata() {
@@ -395,10 +502,10 @@
     </head>
 <body>
     <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA4MzU0MjMxNmRkpIFpgj34WlJAiBpypqQnuNla9n8=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTc4NDk1MDY5OWRkIA3RvqqvxEiXXMiGgGghQanneoY=">
 
 
-<script src="/ScriptResource.axd?d=lX0MS7JgOmBoX-y1-0Or68fOgh7WRhTnE-iaXrDHuYC7AOvzL7cIVVGKLYsOMuVKs7VWdgJpRr3twvjBhINTn48s7f8FeNFCf4v5sSAj9NI1&amp;t=ffffffffec2d9970" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=AH87UdCCbjI--L0JAoK2RgCBEx75PCpKHd-28cHZQJvK521nmm9B88DN3ZnSbRSTP9bldJPsIusLzCUhRMeJhdyd3s_V__DEdSIphml6wT0XPYK0UrZkJuS4X9ZOvPTuqMMOjaUc54eLYWicPfnZjvSrEUp5XvYyfVnJmwZmFUHIssIp0&amp;t=fffffffff9d85fa6" type="text/javascript"></script>
 <script src="services/UIService.svc/js" type="text/javascript"></script>
 <script src="services/UserService.svc/js" type="text/javascript"></script>
     
@@ -411,45 +518,48 @@
 		                <h1 class="left">Fantasy Sports, Daily and Weekly Fantasy Drafts for Cash Prizes</h1>
 		                <div class="right"><span id="top-notloggedin"><a href="http://www.draftstreet.com/">Sign In</a>  |  <a href="http://www.draftstreet.com/register.aspx">Sign Up</a></span><span id="top-loggedin"><span id="top-loggedin-message"></span> | <a id="top-logout-link" style="text-transform:none;" href="javascript:void(0);">Log out</a></span>  |  1-888-272-1730</div>
 	                </div>
-	                <div class="header"><img id="top5-noclick" src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/transparent.gif" width="280" height="123" style="z-index:10; cursor:default; width: 280px; height: 123px; position: absolute; float: left; margin-left: 693px;margin-top: 0px;"><span id="top5-username" style="color: rgb(255, 255, 255); font-size: 16px; font-weight: bold; position: absolute; float: left; margin-left: 772px; margin-top: 40px;"></span><span id="top5-money" style="font-size: 13px; color:#2C912B; position: absolute; float: left; margin-left: 772px; margin-top: 68px;"></span><span id="top5-score" style="font-size: 13px; color: #2C912B; position: absolute; float: left; margin-left: 772px; margin-top: 87px;"></span><img style="position:absolute;float:left;margin-left:700px;margin-top:44px;" id="top5-img" width="60" height="60"><a style="z-index:1;" href="http://www.draftstreet.com/"><img id="main-header" src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/main_header_winners.jpg" style="z-index:-1;width:970px; height:120px;" alt="DraftStreet - The Future of Fantasy Sports"></a></div>
+	                <div class="header"><div style="float:left;height:120px;"><a style="z-index:1;height:120px;" href="http://www.draftstreet.com/"><img id="main-header" src="https://c1304512.ssl.cf0.rackcdn.com/main_header_lastweekwinners1.jpg" style="z-index:-1;width:970px; height:120px;" alt="DraftStreet - The Future of Fantasy Sports"></a></div><div style="float:left;margin-left:-970px;"><img id="top5-noclick" src="http://c1304512.r12.cf0.rackcdn.com/transparent.gif" width="280" height="123" style="z-index:10; cursor:default; width: 280px; height: 123px; position: absolute; float: left; margin-left: 693px;margin-top: 0px;"><span id="top5-username" style="color: rgb(255, 255, 255); font-size: 16px; font-weight: bold; position: absolute; float: left; margin-left: 772px; margin-top: 40px;"></span><span id="top5-money" style="font-size: 13px; color:#2C912B; position: absolute; float: left; margin-left: 772px; margin-top: 68px;"></span><span id="top5-score" style="font-size: 13px; color: #2C912B; position: absolute; float: left; margin-left: 772px; margin-top: 87px;"></span><img style="position:absolute;float:left;margin-left:700px;margin-top:44px;" id="top5-img" width="60" height="60"></div></div>
 	                <div class="navWrapper">
-	                    <div style="float: left; width: 200px;">
-	                        <a href="http://www.draftstreet.com/"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/ds-main-logo.png" style="width:200px; height:66px;" alt="DraftStreet"></a>
+	                    <div id="main-ds-logo" style="float: left; width: 200px;">
+	                        <a href="http://www.draftstreet.com/"><img src="https://c1304512.ssl.cf0.rackcdn.com/ds-main-logo.png" style="width:200px; height:66px;" alt="DraftStreet"></a>
 	                    </div>
 	                    <div class="top-menu-wrapper">
-	                        <ul id="ctl00_ulTopMenu" class="top-menu">
-	                            <li id="ctl00_liHome" style="margin-left: 1px;"><a href="http://www.draftstreet.com/">Home</a></li>
-	                            
-	                            <li id="ctl00_liMyDraftstreet"><a href="http://www.draftstreet.com/mydraftstreet.aspx">My DraftStreet</a></li>
-	                            <li id="ctl00_liPlayerNews">
-	                                <a href="javascript:void(0);">Player News ▼</a>
-	                            </li>
-	                            <li id="ctl00_liSports">
-	                                <a href="javascript:void(0);">Sports ▼</a>
-	                            </li>
-	                            
-	                            <li id="ctl00_liRules"><a href="http://www.draftstreet.com/rules.aspx">Rules</a></li>
-	                            <li id="ctl00_liFAQ"><a href="http://www.draftstreet.com/blog">Blog</a><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/NewStarburst.gif" style="position: absolute; margin-left: 38px; margin-top: -45px;" alt="DraftStreet"></li>
-	                            
-	                        </ul>
-	                        <div class="clear"></div>
-                            <ul id="player-news-submenu">
-                                <li><a href="http://www.draftstreet.com/player-news.aspx?data=news">Latest News</a></li>
-                                <li><a href="http://www.draftstreet.com/player-news.aspx?data=injuries">Injury News</a></li>
-                            </ul>
-	                        <div class="clear"></div>
-                            <ul id="insider-content-submenu">
-                                <li id="ctl00_liInsiderArticles"><a href="http://www.draftstreet.com/insider-articles.aspx">Articles</a></li><li id="ctl00_liDraftAnalytics"><a href="http://www.draftstreet.com/mlb/draft-analytics.aspx">MLB Draft Analytics</a></li><li id="ctl00_liDraftAnalyticsNfl"><a href="http://www.draftstreet.com/nfl/draft-analytics.aspx">NFL Draft Analytics</a></li><li id="ctl00_liDraftAnalyticsNba"><a id="A1" href="http://www.draftstreet.com/nba/draft-analytics.aspx">NBA Draft Analytics</a></li>
-                            </ul>
-                            <div class="clear"></div>
-                            <ul id="sports-submenu">
-                               <li id="ctl00_li5"><a href="http://www.draftstreet.com/">All</a></li><li id="ctl00_li1"><a href="http://www.draftstreet.com/fantasy/football">Football</a></li><li id="ctl00_li2"><a href="http://www.draftstreet.com/fantasy/baseball">Baseball</a></li><li id="ctl00_li3"><a href="http://www.draftstreet.com/fantasy/basketball">Basketball</a></li><li id="ctl00_li4"><a href="http://www.draftstreet.com/fantasy/hockey">Hockey</a></li>
-                            </ul>
+	                        
+	                            <ul id="ctl00_ulTopMenu" class="top-menu">
+	                                <li id="ctl00_liHome"><a href="http://www.draftstreet.com/">Home</a></li>
+    	                            
+	                                <li id="ctl00_liMyDraftstreet"><a href="http://www.draftstreet.com/my-info.aspx">My DraftStreet</a></li>
+	                                <li id="ctl00_liRules"><a href="http://www.draftstreet.com/rules.aspx">Rules</a></li>
+	                                <li id="ctl00_liPlayerNews">
+	                                    <a href="javascript:void(0);">Player News ▼</a>
+	                                </li>
+	                                <li id="ctl00_liSports">
+	                                    <a href="javascript:void(0);">Sports ▼</a>
+	                                </li>
+	                                
+	                                
+	                                <li id="ctl00_liFAQ"><a href="http://www.draftstreet.com/blog">Blog</a></li>
+    	                            
+	                            </ul>
+	                            <div class="clear"></div>
+                                <ul id="player-news-submenu">
+                                    <li><a href="http://www.draftstreet.com/player-news.aspx?data=news">Latest News</a></li>
+                                    <li><a href="http://www.draftstreet.com/player-news.aspx?data=injuries">Injury News</a></li>
+                                </ul>
+	                            <div class="clear"></div>
+                                <ul id="insider-content-submenu">
+                                    <li id="ctl00_liInsiderArticles"><a href="http://www.draftstreet.com/insider-articles.aspx">Articles</a></li><li id="ctl00_liDraftAnalytics"><a href="http://www.draftstreet.com/mlb/draft-analytics.aspx">MLB Draft Analytics</a></li><li id="ctl00_liDraftAnalyticsNfl"><a href="http://www.draftstreet.com/nfl/draft-analytics.aspx">NFL Draft Analytics</a></li><li id="ctl00_liDraftAnalyticsNba"><a id="A1" href="http://www.draftstreet.com/nba/draft-analytics.aspx">NBA Draft Analytics</a></li>
+                                </ul>
+                                <div class="clear"></div>
+                                <ul id="sports-submenu">
+                                   <li id="ctl00_li5"><a href="http://www.draftstreet.com/">All</a></li><li id="ctl00_li1"><a href="http://www.draftstreet.com/fantasy/football">Football</a></li><li id="ctl00_li2"><a href="http://www.draftstreet.com/fantasy/baseball">Baseball</a></li><li id="ctl00_li3"><a href="http://www.draftstreet.com/fantasy/basketball">Basketball</a></li><li id="ctl00_li4"><a href="http://www.draftstreet.com/fantasy/hockey">Hockey</a></li>
+                                </ul>
+                            
 	                    </div>
 	                </div>
 	            
             
-                <div id="bodyContent" style="background-color: #ffffff;">
+                <div id="bodyContent">
                     
 <div class="sectionTitle">
         <div class="sectionTitleLeft">
@@ -469,7 +579,7 @@
         <p class="b">
             If you are a resident of the State of California and would like to opt-out from the disclosure of 
             your Personal Information to any third party for marketing purposes, please e-mail us at: 
-            <a href="mailto:customerservice@draftstreet.com">customerservice@draftstreet.com</a>.  Please be advised that where California State residents opt-out from 
+            <a href="mailto:cs@draftstreet.com">cs@draftstreet.com</a>.  Please be advised that where California State residents opt-out from 
             permitting their Personal Information to be shared, such individuals may still receive selected offers 
             directly from us, in accordance with applicable law.
         </p>
@@ -571,7 +681,7 @@
 
         <p>
             At your request, we will remove Personal Information that you have provided to us.  You may do so by 
-            e-mailing us at <a href="mailto:customerservice@draftstreet.com">customerservice@draftstreet.com</a>.  However, deleting your Personal Information, or otherwise 
+            e-mailing us at <a href="mailto:cs@draftstreet.com">cs@draftstreet.com</a>.  However, deleting your Personal Information, or otherwise 
             opting-out of receipt of communications from us or third parties, will only change or delete the data 
             in our database for purposes of transacting future business on the Site and for managing future 
             communications from us and third parties.  These deletions will not change or delete Personal 
@@ -589,7 +699,7 @@
             Information sent via e-mail is prepared several days in advance, so users may continue to receive 
             e-mail from us for up to ten (10) days following the unsubscribe procedures detailed above. If, 
             after that point, a user is still receiving e-mail from us, the user should contact us at 
-            <a href="mailto:customerservice@draftstreet.com">customerservice@draftstreet.com</a>.
+            <a href="mailto:cs@draftstreet.com">cs@draftstreet.com</a>.
         </p>
 
         <h2>Your Acceptance of these Terms</h2>
@@ -603,12 +713,12 @@
         <p>
             If you have any questions about this Privacy Policy, the practices of the Site, DraftStreet™ Shop, 
             Sweepstakes and/or DraftStreet™ Services or your dealings with same, please e-mail us at 
-            <a href="mailto:customerservice@draftstreet.com">customerservice@draftstreet.com</a>, or send a letter to:  
+            <a href="mailto:cs@draftstreet.com">cs@draftstreet.com</a>, or send a letter to:  
             <br><br>
             DraftStreet<br>
             111 W 28th St<br>
-                        Suite 2B<br>
-                        New York, NY 10001<br><br>
+Suite 2B<br>
+New York, NY 10001
         </p>
     </div>
 
@@ -617,34 +727,36 @@
 	        </div>
             
             <div id="bottomWrapper">
-    	        <div class="footer">
+    	        <div id="ctl00_footer1" class="footer">
     	            <div style="float: left; width: 150px; height: 60px;">
-    	                <img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/footer-ds.jpg" style="width: 150px; height: 60px; margin: 0px; padding: 0px;" alt="DraftStreet">
+    	                <img src="https://c1304512.ssl.cf0.rackcdn.com/footer-ds.jpg" style="width: 150px; height: 60px; margin: 0px; padding: 0px;" alt="DraftStreet">
     	            </div>
     	            <div style="float: left; width: 678px; padding: 8px 0px 0px 0px;">
-	                    <a href="http://www.draftstreet.com/">Home</a>  |  <a href="http://www.draftstreet.com/aboutus.aspx">About Us</a><span id="bottommydraftstreet">  |  <a href="http://www.draftstreet.com/mydraftstreet.aspx">My Draftstreet</a></span><span id="bottomforgotpassword"> |  <a href="http://www.draftstreet.com/ForgotPassword.aspx">Forgot Password</a></span>  |  <a href="http://www.draftstreet.com/FAQ.aspx">FAQ</a>  |
+	                    <a href="http://www.draftstreet.com/">Home</a>  |  <a href="http://www.draftstreet.com/aboutus.aspx">About Us</a><span id="bottommydraftstreet">  |  <a href="http://www.draftstreet.com/my-info.aspx">My Draftstreet</a></span><span id="bottomforgotpassword"> |  <a href="http://www.draftstreet.com/ForgotPassword.aspx">Forgot Password</a></span>  |  <a href="http://www.draftstreet.com/FAQ.aspx">Faq</a>  |
 	                    <a href="http://www.draftstreet.com/ContactUs.aspx">Contact Us</a>  |  <a href="http://www.draftstreet.com/Terms.aspx">Terms &amp; Conditions</a>  |  <a href="http://www.draftstreet.com/Privacy.aspx">Privacy Policy</a>  |  <a href="http://www.draftstreet.com/links.aspx">Links</a><br><a href="http://www.draftstreet.com/fantasy/daily-fantasy-sports/">Daily Leagues</a>  |  <a href="http://www.draftstreet.com/fantasy/weekly-fantasy-sports/">Weekly Leagues</a>  |  <a href="http://www.draftstreet.com/leaderboard.aspx">Leaderboard</a>
                         <span id="bottom-logout">|  <a id="bottom-logout-link" href="javascript:void(0);">Log out</a></span>
                         <br>
                         Copyright © 2011 DraftStreet™.  All Rights Reserved.
                     </div>
     	            <div style="float:left; width:150px; height:60px; margin-left:-5px;">
-    	                <a href="http://www.dkorp.com" target="_blank"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/footer-nss.jpg" style="width:150px; height:60px;" alt=""></a>
+    	                <a href="http://www.dkorp.com" target="_blank"><img src="https://c1304512.ssl.cf0.rackcdn.com/footer-nss.jpg" style="width:150px; height:60px;" alt=""></a>
     	            </div>
     	            <div class="clear"></div>
 	            </div>
+	            
 	            <div class="footer_logos"></div>
+	            <div class="bannedstates_text"><br>*RESIDENTS OF STATES OF ARIZONA, IOWA, LOUISIANA, MARYLAND, MONTANA, PUERTO RICO, VERMONT AND WHERE OTHERWISE PROHIBITED BY LAW MAY ONLY PARTICIPATE IN THE FREE CONTESTS AND SHALL NOT BE ELIGIBLE TO WIN ANY CASH PRIZES OR REWARD POINTS<br>&nbsp;<br></div>
 	        </div>
         	
     	</div>
     	
     	<!-- SIDE CHAT -->
     	<div id="floating-chat-anchor" style="float: left; position: relative; left: -17px; display: none;"></div>
-    	<div id="floating-chat" style="width: 252px;">
-        	<div id="side-chat" style="float: left; margin-left: 5px; width: 219px; display: none;"></div>
+    	<div id="floating-chat" style="width: 252px;" class="side-chat">
+        	<div id="side-chat" style="float: left; width: 219px; display: none;"></div>
     	    <div style="float: left; width: 28px; padding-top: 28px;">
-        	    <a id="a-show-chat" style="display: none;" href="#" onclick="toggleGlobalChat(true, true); return false;"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/tab-show-chat-28.gif" style="width: 28px; height: 102px;" alt="Show Chat"></a>
-    	        <a id="a-hide-chat" style="display: none;" href="#" onclick="toggleGlobalChat(false, true); return false;"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/tab-hide-chat-28.gif" style="width: 28px; height: 102px;" alt="Hide Chat"></a>
+        	    <a id="a-show-chat" style="display: none;" href="#" onclick="toggleGlobalChat(true, true); return false;"><img src="http://c1304512.r12.cf0.rackcdn.com/tab-show-chat-28.gif" style="width: 28px; height: 102px;" alt="Show Chat"></a>
+    	        <a id="a-hide-chat" style="display: none;" href="#" onclick="toggleGlobalChat(false, true); return false;"><img src="http://c1304512.r12.cf0.rackcdn.com/tab-hide-chat-28.gif" style="width: 28px; height: 102px;" alt="Hide Chat"></a>
     	    </div>
     	</div>
 	</div>
@@ -657,7 +769,11 @@
             <div id="join-freeroll-name" class="b c" style="padding: 17px 0px; font-size: 14pt; color: #cc0000;"></div>
             <div style="float: left; margin-left: 30px; border: solid 1px #c4c4c4; width: 316px;">
                 <table id="tbl-game-info-freeroll">
-                    <tbody><tr>
+                    <tbody><tr class="alt" id="join-freeroll-id-row">
+                        <td class="attr-name">League ID:</td>
+                        <td id="join-freeroll-league-id" class="attr-value"></td>
+                    </tr>
+                    <tr>
                         <td class="attr-name">League Type:</td>
                         <td id="join-freeroll-league-type" class="attr-value"></td>
                     </tr>
@@ -666,30 +782,34 @@
                         <td id="join-freeroll-starts" class="attr-value"></td>
                     </tr>
                     <tr>
+                        <td class="attr-name">Ends:</td>
+                        <td id="join-freeroll-ends" class="attr-value"></td>
+                    </tr>
+                    <tr class="alt">
                         <td class="attr-name">Entries Submitted:</td>
                         <td id="join-freeroll-entries" class="attr-value"></td>
                     </tr>
-                    <tr class="alt">
+                    <tr id="join-freeroll-max-per-row">
                         <td class="attr-name">Max Entries per User:</td>
                         <td id="join-freeroll-max-per" class="attr-value"></td>
                     </tr>
-                    <tr>
+                    <tr class="alt">
                         <td class="attr-name">Entry Fee:</td>
                         <td id="join-freeroll-entry-fee" class="attr-value"></td>
                     </tr>
                 </tbody></table>
             </div>
-            <div style="float: left; margin-left: 66px; width: 235px;">
+            <div style="float: left; margin-left: 26px; width: 275px;">
                 <div class="b c" style="height: 26px; font-size: 12pt;">
-                    <span style="color: #008C00;">Prize Pool:</span>
+                    <span class="prize-pool">Prize Pool:</span>
                     <span id="join-freeroll-prize-pool"></span>
                 </div>
                 
-                <div style="border: solid 1px #c4c4c4;">
+                <div style="border: solid 1px #c4c4c4;width:233px;margin-left: auto;margin-right: auto;">
                     <table id="tbl-game-info-payouts">
                         <thead>
                             <tr>
-                                <td colspan="2">Top 3 Payouts</td>
+                                <td colspan="2" id="join-freeroll-top-payouts">Top 3 Payouts</td>
                             </tr>
                         </thead>
                         <tbody>
@@ -737,17 +857,17 @@
                 </table>
             </div>
         </div>
-        
+        <div id="game-info-additional-details"></div>
         <!-- PERKS -->
         <div id="league-panel-perks">
             <span id="perks-header" class="up green b" style="font-size: 14pt;">Perks</span>
             <div style="margin: 2px auto; width: 490px;">
                 
-                <div id="perks-entry-fee-wrapper" style="float: left; width: 124px; min-height: 86px; background-color: #d5d5d5;">
+                <div id="perks-entry-fee-wrapper" style="float: left; width: 124px; min-height: 86px;" class="perks-entry-fee-wrapper">
                     <div style="padding-top: 20px; font-size: 12pt;" class="c b up">Entry Fee</div>
                     <div id="perks-entry-fee"></div>
                 </div>
-                <div id="lst-perks-wrapper" style="float: left; margin-left: 2px; padding: 8px; width: 346px; min-height: 70px; background-color: #d5d5d5;">
+                <div id="lst-perks-wrapper" style="float: left; margin-left: 2px; padding: 8px; width: 346px; min-height: 70px;" class="perks-entry-fee-wrapper">
                     <ul id="lst-perks">
                     </ul>
                 </div>
@@ -770,11 +890,11 @@
             
             <div style="margin: 0px auto; width: 530px;">
                 <div class="l" style="float: left; width: 265px;">
-                    <a id="a-join-use-voucher" href="javascript:void(0);"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/join-btn-use-voucher.jpg" style="width: 175px; height: 40px;" alt="Use my voucher"><br></a>
-                    <a id="a-join-join" href="javascript:void(0);"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/join-btn-join-40.jpg" style="width: 175px; height: 40px;" alt="Join league"></a>
+                    <a id="a-join-use-voucher" href="javascript:void(0);"><img src="https://c1304512.ssl.cf0.rackcdn.com/join-btn-use-voucher.jpg" style="width: 175px; height: 40px;" alt="Use my voucher"><br></a>
+                    <a id="a-join-join" href="javascript:void(0);"><img src="https://c1304512.ssl.cf0.rackcdn.com/join-btn-join-40.jpg" style="width: 175px; height: 40px;" alt="Join league"></a>
                 </div>
                 <div class="r" style="float: left; width: 265px;">
-                    <a id="a-join-cancel" href="javascript:void(0);"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/join-btn-cancel-40.jpg" style="width: 120px; height: 40px;" alt="Cancel"></a>
+                    <a id="a-join-cancel" href="javascript:void(0);"><img src="https://c1304512.ssl.cf0.rackcdn.com/join-btn-cancel-40.jpg" style="width: 120px; height: 40px;" alt="Cancel"></a>
                 </div>
                 <div class="clear"></div>
             </div>
@@ -782,22 +902,22 @@
         
         <div id="league-panel-voucher" style="display: none; margin: 0px auto; width: 660px;">
             <div style="float: left; margin-top: 20px; width: 110px;">
-                <img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/join-voucher.jpg" style="width: 63px; height: 96px;" alt="DraftStreet voucher">
+                <img src="https://c1304512.ssl.cf0.rackcdn.com/join-voucher.jpg" style="width: 63px; height: 96px;" alt="DraftStreet voucher">
             </div>
             <div style="float: left; margin-top: 20px; width: 340px; font-size: 11pt; font-weight: bold;">
                 <div style="margin: 0px auto; padding: 0px 20px;">
                     You are joining this league using a $<span id="join-voucher-value"></span> cash-league voucher.
                 </div>
                 <br><br>
-                <a id="a-join-use-voucher-continue" href="javascript:void(0);"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/join-btn-continue.jpg" style="width: 160px; height: 50px;" alt="Continue"></a>
-                <a id="a-join-use-voucher-back" href="javascript:void(0);"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/join-btn-back.jpg" style="width: 160px; height: 50px;" alt="Go back"></a>
+                <a id="a-join-use-voucher-continue" href="javascript:void(0);"><img src="https://c1304512.ssl.cf0.rackcdn.com/join-btn-continue.jpg" style="width: 160px; height: 50px;" alt="Continue"></a>
+                <a id="a-join-use-voucher-back" href="javascript:void(0);"><img src="https://c1304512.ssl.cf0.rackcdn.com/join-btn-back.jpg" style="width: 160px; height: 50px;" alt="Go back"></a>
             </div>
             <div style="float: left; width: 210px;">
                 <div id="unused-vouchers-wrapper" style="margin: 6px auto 0px auto; width: 191px;">
-                    <div class="b c" style="padding-top: 8px; height: 20px; background-image: url('http://c1304512.cdn.cloudfiles.rackspacecloud.com/join-unused-vouchers-top.png'); color: #133A03; font-size: 9pt;">
+                    <div class="b c join-unused-vouchers-top" style="padding-top: 8px; height: 20px;">
                         Your Remaining Vouchers
                     </div>
-                    <div style="padding-top: 8px; background-image: url('http://c1304512.cdn.cloudfiles.rackspacecloud.com/join-unused-vouchers-bg.png');">
+                    <div class="join-unused-vouchers-bg" style="padding-top: 8px;">
                         <table style="margin: 0px auto;" id="tbl-unused-vouchers" class="unused-vouchers">
                             <thead>
                                 <tr>
@@ -810,22 +930,22 @@
                             </tbody>
                         </table>
                     </div>
-                    <div style="height: 9px; background-image: url('http://c1304512.cdn.cloudfiles.rackspacecloud.com/join-unused-vouchers-bottom.png');"></div>
+                    <div class="join-unused-vouchers-bottom" style="height: 9px;"></div>
                 </div>
             </div>
             <div class="clear"></div>
         </div>
         
         <div id="league-panel-leave">
-            <a id="a-leave-unregister" href="javascript:void(0);"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/join-btn-unreg.png" style="width: 230px; height: 50px;" alt="Unregister from league"></a>
+            <a id="a-leave-unregister" href="javascript:void(0);"><img src="https://c1304512.ssl.cf0.rackcdn.com/join-btn-unreg.png" alt="Unregister from league"></a>
             &nbsp;&nbsp;&nbsp;
-            <a id="a-leave-cancel" href="javascript:void(0);"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/join-btn-cancel.png" style="width: 170px; height: 50px;" alt="Cancel"></a>
+            <a id="a-leave-cancel" href="javascript:void(0);"><img src="https://c1304512.ssl.cf0.rackcdn.com/join-btn-cancel.png" alt="Cancel"></a>
         </div>
     </div>
     
     <div id="dialog-join-congrats">
         <div id="congrats-top-close" class="r">
-           <a href="#" onclick="$.modal.close(); return false;"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/basic-dialog-close.png" style="width: 16px; height: 16px;" alt="Close"></a>
+           <a href="#" onclick="$.modal.close(); return false;"><img src="https://c1304512.ssl.cf0.rackcdn.com/basic-dialog-close.png" style="width: 16px; height: 16px;" alt="Close"></a>
         </div>
         <div id="congrats-message" class="c" style="width: 100%;">Congratulations!  You have successfully joined this league:</div>
         <div id="game-info-wrapper-congrats">
@@ -860,10 +980,21 @@
         </div>
         <div id="congrats-message-info"></div>
         <div id="congrats-okbutton">
-            <a id="ok-button" href="javascript:void(0);"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/ok-button.jpg" style="width: 100px; height: 49px;" alt="OK"></a>
+            <a id="ok-button" href="javascript:void(0);"><img src="https://c1304512.ssl.cf0.rackcdn.com/ok-button.jpg" style="width: 100px; height: 49px;" alt="OK"></a>
         </div>
         <div class="share"></div>
         <div class="clear"></div>
+    </div>
+    
+    <div id="dialog-state" style="display:none;">
+        <div id="state-body-wrapper" style="text-align:center;">
+		<br>Pursuant to current legislation, legal residents of your state are not permitted to participate in cash leagues on DraftStreet therefore we cannot allow you to deposit or withdraw.  Feel free to try out our free leagues by using the filters in the Draft Lobby.<br>
+		<div id="state-withdraw"><br></div>
+		If you feel you have received this message in error, please don’t hesitate to contact us at customerservice@draftstreet.com and we will respond promptly.<br><br>
+		<a id="a-states-ok" href="javascript:void(0);"><img width="50" height="25" src="http://c1304512.r12.cf0.rackcdn.com/ok-button.jpg"></a>
+		
+		
+	    </div>
     </div>
     
     <div id="pixelfire"></div>	
@@ -889,15 +1020,15 @@ Sys.Application.initialize();
 <input type="hidden" name="no_shipping" value="1">
 <input type="hidden" name="custom" id="paypalorder" value="0">
 <input type="hidden" name="rm" value="1">
-<input type="hidden" name="cbt" value="Return to Draftstreet.com">
-<input type="hidden" name="cpp_header_image" value="http://c1304512.cdn.cloudfiles.rackspacecloud.com/ds-main-logo.png">
-<input type="hidden" name="return" value="https://clp.draftstreet.com/cashier.aspx">
-<input type="hidden" name="cancel_return" value="http://clp.draftstreet.com">
+<input type="hidden" name="cbt" value="Return to DraftStreet.com">
+<input type="hidden" name="cpp_header_image" value="http://www.draftstreet.com/images/ds-main-logo.png">
+<input type="hidden" name="return" value="http://www.draftstreet.com/cashier.aspx">
+<input type="hidden" name="cancel_return" value="http://www.draftstreet.com">
 <input type="hidden" name="currency_code" value="USD">
 <input type="hidden" name="tax_rate" value="0.000">
 <input type="hidden" name="shipping" value="0.00">
-<input type="hidden" name="return" value="http://clp.draftstreet.com/cashier.aspx">
-<input type="hidden" name="cancel_return" value="http://clp.draftstreet.com">
+<input type="hidden" name="return" value="http://www.draftstreet.com/cashier.aspx">
+<input type="hidden" name="cancel_return" value="http://www.draftstreet.com">
 <input type="hidden" name="bn" value="PP-BuyNowBF:btn_paynow_SM.gif:NonHostedGuest">
 <input type="image" id="paypalsubmit" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
