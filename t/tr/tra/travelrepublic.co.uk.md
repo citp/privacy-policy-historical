@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the travelrepublic.co.uk privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420061014id_/http%3A//www.travelrepublic.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelrepublic.co.uk privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229214736id_/http%3A//www.travelrepublic.co.uk/privacypolicy.aspx) for the most accurate reproduction.*
 
-# TravelRepublic Privacy Policy
-
-Travel Republic Takes Your Privacy Seriously
-
-## Personal information
+# Travel Republic Privacy Policy
 
 Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of Travel Republic Limited Ltd. Except where required by us to process your booking and to ensure that your travel arrangements run smoothly and meet your requirements we need to use the information you provide such as name, address, any special needs/dietary requirements etc. 
 
@@ -14,14 +10,8 @@ Additionally, where your holiday is outside the European Economic Area (EEA), co
 
 Usually your tour operator or other principal will pass this information onto their suppliers once we have provided it to them. The tour operator or other principal's use of your information is subject to their policy, both in respect of your booking and any future marketing, and is their responsibility. Please ask either us or them for a copy of this if you would like to see it. 
 
-## Credit & Debit Card Details 
-
 All credit card information and personal information is encrypted as it is passed between your browser and our web site. When you make a booking your initial payment is cleared using the information you provide. Your credit card number is not held in our database. All encryption is performed using at least 128 bits making it virtually impossible to decrypt without the necessary decryption key.
-
-### External Sites 
 
 Travel Republic Ltd is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
 
-###  Cookies
-
-A "cookie" is a small data text file that is placed in your browser and allows Travel Republic Ltd to recognize you each time you visit this site (customisation etc). Cookies themselves do not contain any personal information, and Travel Republic Ltd does not use cookies to collect personal information. Cookies may also be used to pass information between web sites owned by Travel Republic Ltd.
+A "cookie" is a small data text file that is placed in your browser and allows Travel Republic Ltd to recognize you each time you visit this site (customisation etc). Cookies themselves do not contain any personal information, and Travel Republic Ltd does not use cookies to collect personal information. Cookies may also be used to pass information between web sites owned by Travel Republic Ltd. 
