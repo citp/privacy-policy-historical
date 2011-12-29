@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bccampus.ca privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613154106id_/http%3A//www.bccampus.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bccampus.ca privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229080518id_/http%3A//www.bccampus.ca/privacy) for the most accurate reproduction.*
 
 # Privacy » BCcampus
 
@@ -33,8 +33,7 @@ Sometimes we may collect Personal Information about you from other sources, prov
 
 We collect Personal Information under the authority of the Ministry of Advanced Education and the educational institutions to which we provide services.
 
-### Use of Personal Information  
-
+### Use of Personal Information
 
   
 BCcampus may collect and use your Personal Information for the following purposes:
@@ -136,8 +135,7 @@ Ultimately, you are responsible for maintaining the secrecy of your passwords an
 
 Should you have any further questions or concerns about the privacy of information you provide to BCcampus, please contact:
 
-#### Randy Bruce  
-
+#### Randy Bruce
 
 Director, Operations and Chief Information Officer  
 Telephone: 604-889-3422  
