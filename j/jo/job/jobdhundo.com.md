@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobdhundo.com privacy policy that was archived on 2011-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110312065901id_/http%3A//www.jobdhundo.com/Privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobdhundo.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229013225id_/http%3A//www.jobdhundo.com/Privacypolicy.aspx) for the most accurate reproduction.*
 
 # Untitled Page
 
