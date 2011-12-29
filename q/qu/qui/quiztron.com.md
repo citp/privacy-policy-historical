@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quiztron.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618021438id_/http%3A//www.quiztron.com/make_a_quiz_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quiztron.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229143756id_/http%3A//www.quiztron.com/make_a_quiz_privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at Quiztron
 
