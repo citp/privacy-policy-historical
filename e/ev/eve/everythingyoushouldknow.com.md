@@ -1,80 +1,59 @@
-> *The following text is extracted and transformed from the everythingyoushouldknow.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231214516id_/http%3A//everythingyoushouldknow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingyoushouldknow.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229214449id_/http%3A//everythingyoushouldknow.com/privacy-policy) for the most accurate reproduction.*
 
-# KickStartMedia.com Privacy Policy
+# Privacy Policy | Everything You Should Know by Arielle Ford
 
-PRIVACY POLICY 
+Welcome to www.EverythingYouShouldKnow.com (the “Site”).
 
-Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools and opportunities with complete confidence.
+Wherever this Privacy Policy refers to “you”, “your”, “user”, or “visitor”, it means “you”, while “we” or “our” refer to MikeKoenigs.com, LLC, which owns EverythingYouShouldKnow.com.
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet Services (the “Services”)-those who access some of our Services but do not have accounts (“Visitors”) as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service (“Members”)-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully. 
+We understand that privacy online is important to users of our Site, especially when conducting business.
 
-Personal Information Our Company Collects and How It Is Used 
+This statement governs our privacy policies regarding those users of the Site (“Visitors”) who visit without transacting business, and also for Visitors who register to transact business on the Site (“Authorized Customers”) and who make use of the various services (collectively, “Services”) offered by MikeKoenigs.com, LLC.
 
-Introduction. Our Company collects information in different ways from Visitors and Members who access the various parts of our Service and the network of Web Sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Products and Services, and generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.
+**What is Personally Identifiable Information?**  
+Personally Identifiable Information refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, Social Security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information that is not connected to an identified individual.
 
-Registration: Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member’s account (such as for billing purposes). This information is not shared with third parties, unless specifically stated otherwise or in special circumstances.
+**What Personally Identifiable Information is collected?**  
+We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: bill to and ship to names, addresses, phone numbers, email addresses and credit card information needed to authorize purchases and transact payments for products and services.
 
-However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the sole purpose of allowing us and the partner to assess the results of the promotion.
+**What organizations are collecting the information?**  
+In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
 
-In this instance, personal information may not be used by the partner for any other purpose. We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services.
+**How does the Site use Personally Identifiable Information?**  
+We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
 
-Our Company Partners and Sponsors: Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor seller or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information. In these instances, you will be notified before any such data is collected or transferred and may decide not to use that particular service or feature.
+**With whom may the information may be shared?**  
+Personally Identifiable Information about Authorized Customers may be shared only with other Authorized third party service vendors for purposes of completing transactions that you have ordered or requested. We may also share personally identifiable information about Authorized Customers with our other companies that are under common ownership in order to offer you related products or services that may be of interest to you. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
 
-Additionally, our partners may have advertisements or co-branded Web Pages that are cosponsored by an affiliate, independent contractor seller, or non-affiliated partner. Our company may share non-identifying and aggregate information (except as described above), but not personal information, with such parties in order to administer the co-branded products or services offered. 
+**How is Personally Identifiable Information stored?**  
+Personally Identifiable Information collected by www.EverythingYouShouldKnow.com is securely stored and is not accessible to third parties or employees of MikeKoenigs.com, LLC except for use as indicated above.
 
-Online Shopping: At some Websites, you can purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information.
+**What Choices are Available to Visitors Regarding Collection, Use and Distribution of the Information?**  
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [EverythingYouShouldKnow@gmail.com](mailto:EverythingYouShouldKnow@gmail.com). This email address is being protected from spam bots, which means you need Javascript enabled to view it.
 
-If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient’s name, address, and phone number. Our company has no control over third parties’ use of any personal information you provide when placing such an order. Please exercise care when doing so.
+**Are Cookies Used on the Site?**  
+Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
-If you order services or products directly from our company we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+**How does www.EverythingYouShouldKnow.com Use Login Information?**  
+www.EverythingYouShouldKnow.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
 
-Online Advertisements: Our company may display our online advertisements. In those cases we share aggregate and non-identifying information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers.
+**What Partners or Service Providers Have Access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
+www.EverythingYouShouldKnow.com has entered into and may continue to enter into relationships with authorized third party vendors for transaction processing, tax accounting and other financial services. Such vendors may have access to certain Personally Identifiable Information on a need to know basis in the course of performing their services. Our privacy policy does not cover their exposure to this information.
 
-Additionally, in some instances, we use this aggregated and non-identifying information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provide us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display or send the advertisement to the intended audience. Our company does not share personal information about its Visitors or Members with these advertisers or joint venture companies.
+**Disclosure of Personally Identifiable Information to Comply with Law**  
+We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
 
-Responses to Email Inquiries: When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party.
+**How Does the Site Keep Personally Identifiable Information Secure?**  
+All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
 
-Voluntary Customer Surveys: We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our surveys is voluntary.
+**How Can Visitors Correct Any Inaccuracies in Personally Identifiable Information?**  
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [EverythingYouShouldKnow@gmail.com](mailto:EverythingYouShouldKnow@gmail.com). This email address is being protected from spam bots, which means you need Javascript enabled to view it.
 
-We may take the information we receive from individuals responding to our Customer Surveys and combine (aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
+**Can a Visitor Delete or Deactivate Personally Identifiable Information Collected by the Site?**  
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting[ EverythingYouShouldKnow@gmail.com](mailto:EverythingYouShouldKnow@gmail.com). This email address is being protected from spam bots, which means you need Javascript enabled to view it. However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
 
-Special Cases: It is our company’s policy not to use or share the personal information about Visitors or Members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses.
+**What Happens if the Privacy Policy Changes?**  
+We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
 
-However, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, The Child Online Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or Terms of Service, or other user policies; to operate the Services properly; or to protect our company and our Members.
-
-“Cookies” and How Our Company Uses Them. A “cookie” is a small data file that can be place on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.
-
-If you are a Visitor or Member we may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit other Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies.
-
-Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them. 
-
-Our Company Commitment to Children’s Privacy. Protecting children’s privacy is especially important to us. It is our policy to comply with the Children’s Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our Web site to persons eighteen years or older.
-
-YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILD ONLINE PRIVACY ACT (COPA) AND IS NOT MONITORED AS DOING SO.
-
-Public Forums: Please remember that any information you may disclose in any Member Directory, or other public areas of our Web sites or Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. 
-
-Our Company’s Commitment to Data Security; Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third party “hackers” from illegally obtaining this information.
-
-Where To Direct Questions About Our Privacy Policy: If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site.
-
-Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms of Service Agreement, and our other policies and agreements at any time and in any manner, by updating this posting.  
-
-
-Last Updated April 1, 2005
-
-© 2005 KickStartMedia.com
-
-* * *
-
-[Affiliate Sign Up](http://www.1shoppingcart.com/app/afsignup.asp?MerchantID=61556) [](https://web.archive.org/web/20051231214516id_/http%3A//everythingyoushouldknow.com/disclaimer.html) | [](https://web.archive.org/web/20051231214516id_/http%3A//everythingyoushouldknow.com/terms_of_use.html)[Affiliate Login](http://www.1shoppingcart.com/app/aflogin.asp?MerchantID=61556)[](https://web.archive.org/web/20051231214516id_/http%3A//everythingyoushouldknow.com/disclaimer.html) | [](https://web.archive.org/web/20051231214516id_/http%3A//everythingyoushouldknow.com/terms_of_use.html)[Tell a Friend about this site](http://www.1shoppingcart.com/app/tellafriend.asp?MerchantID=61556) [](https://web.archive.org/web/20051231214516id_/http%3A//everythingyoushouldknow.com/disclaimer.html) | [](https://web.archive.org/web/20051231214516id_/http%3A//everythingyoushouldknow.com/terms_of_use.html)[Contact Us](http://www.everythingyoushouldknow.com/contact/) | [Mailing List](http://www.1shoppingcart.com/app/join.asp?MerchantID=61556)
-
-[Warranties, Disclaimers & Legal Rights](https://web.archive.org/web/20051231214516id_/http%3A//everythingyoushouldknow.com/disclaimer.html) | [Terms of Service](https://web.archive.org/web/20051231214516id_/http%3A//everythingyoushouldknow.com/terms_of_use.html) | [Privacy Policy](https://web.archive.org/web/20051231214516id_/http%3A//everythingyoushouldknow.com/privacy.html)
-
-* * *
-
-© 2005 KickStartMedia.com  
-15721 Bernardo Heights Parkway   
-Suite B-454   
-San Diego, CA 92128-3176  
-800-795-5417 
+**Links**  
+This Web site contains links to other Web sites. Please note that when you click on one of these links, or you ask us to forward information to a third party site on your behalf, you are moving to another Web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
