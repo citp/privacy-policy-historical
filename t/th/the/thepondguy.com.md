@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepondguy.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629223109id_/http%3A//www.thepondguy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepondguy.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229092855id_/http%3A//www.thepondguy.com/privacy) for the most accurate reproduction.*
 
 # Pond, Lake, & Water Garden Supplies, Pond Algae Control, Pond Dye, Pond Aeration, Pond Liners
 
