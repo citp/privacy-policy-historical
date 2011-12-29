@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zong.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130190115id_/http%3A//www.zong.com/help/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zong.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230002359id_/http%3A//zong.com/help/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zong
 
@@ -87,6 +87,8 @@ ZONG may disclose personally identifiable information in response to legal proce
 ### Disclosing
 
 ZONG reserves the right to access and disclose your Personal Information to comply with laws, subpoena and lawful government requests, to operate its systems properly, to protect other ZONG users or third parties. ZONG may also reserve the right to disclose individually identifiable information to third parties where a complaint arises concerning your use of the ZONG service, and that use is deemed inconsistent with the ZONG Terms & Conditions. 
+
+Now and in the future, there are subsidiaries, joint ventures, and one or more parent companies whom we control, who control us, or with whom we are under common control (collectively, “Affiliates”). We may share some or all of your personal information with these Affiliates for their business purposes and as required or permitted by law. If our company or our assets are acquired by another company, or otherwise during the dissolution or sale of the company or its assets, we may also provide you data to our corporate purchaser, successor, or new Affiliates. Some of our servers are based in the United States. By using this service, you consent to the transfer of your personal data to the United States, subject to United States law, even though the European Union has deemed the United States laws not to offer an adequate level of data protection. 
 
 ### Information Protection
 
