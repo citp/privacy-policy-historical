@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techyard.net privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525053228id_/http%3A//www.techyard.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techyard.net privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229053835id_/http%3A//www.techyard.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer | TECH YARD
 
@@ -16,9 +16,9 @@ The views expressed in this blog are entirely my views and are NOT endorsed by m
 
 Advertisements appearing on **TechYard.net** may be delivered to users by one of our advertising partners. Our advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, advertising partners (or “ad networks”) may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by **TechYard.net** and does not cover the use of cookies by any advertisers.
 
-Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy/ads/).
 
-Please note that these companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+Please note that these companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy/ads/).
 
 You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set, however, if you configure your browser to reject cookies,you may not be able to take full advantage of all offerings on the **TechYard.net** .
 
