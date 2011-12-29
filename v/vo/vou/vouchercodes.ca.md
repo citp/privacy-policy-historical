@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vouchercodes.ca privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522024027id_/http%3A//vouchercodes.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercodes.ca privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229213909id_/http%3A//vouchercodes.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Voucher Codes
 
