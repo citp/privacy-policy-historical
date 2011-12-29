@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janesville.k12.wi.us privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425000422id_/http%3A//www.janesville.k12.wi.us/Home/tabid/124/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janesville.k12.wi.us privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229123213id_/http%3A//www.janesville.k12.wi.us/Home/tabid/124/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Janesville School District: Home Janesville Wisconsin
 
@@ -44,4 +44,4 @@ Janesville School District will occasionally update this Statement of Privacy to
 
 Contact Information
 
-Janesville School District welcomes your comments regarding this Statement of Privacy. If you believe that Janesville School District has not adhered to this Statement, please contact Janesville School District at [smiller@janesville.k12.wi.us](mailto:smiller@janesville.k12.wi.us). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Janesville School District welcomes your comments regarding this Statement of Privacy. If you believe that Janesville School District has not adhered to this Statement, please contact Janesville School District at [bberg@janesville.k12.wi.us](mailto:bberg@janesville.k12.wi.us). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
