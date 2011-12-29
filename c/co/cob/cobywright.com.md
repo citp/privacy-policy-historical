@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cobywright.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601214453id_/http%3A//cobywright.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobywright.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229020905id_/http%3A//cobywright.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CobyWright.com
 
@@ -24,3 +24,21 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of CobyWright.com then you may contact us at info@cobywright.com
 
 Last updated Sat, 15 Jan 2011 12:57
+
+****
+
+  
+
+
+  * Currently 2.00/5
+  * [1](http://cobywright.com/wp-content/plugins/wpRater/db.php?j=1&q=10&t=174.129.237.157&c=5 "1 out of 5")
+  * [2](http://cobywright.com/wp-content/plugins/wpRater/db.php?j=2&q=10&t=174.129.237.157&c=5 "2 out of 5")
+  * [3](http://cobywright.com/wp-content/plugins/wpRater/db.php?j=3&q=10&t=174.129.237.157&c=5 "3 out of 5")
+  * [4](http://cobywright.com/wp-content/plugins/wpRater/db.php?j=4&q=10&t=174.129.237.157&c=5 "4 out of 5")
+  * [5](http://cobywright.com/wp-content/plugins/wpRater/db.php?j=5&q=10&t=174.129.237.157&c=5 "5 out of 5")
+
+
+
+Rating: **2.0** /5 (9 votes cast) 
+
+****
