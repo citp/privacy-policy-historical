@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thomson.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530052840id_/http%3A//thomsonreuters.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomson.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229145911id_/http%3A//thomsonreuters.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Thomson Reuters
+# Thomson Reuters | Privacy Policy
 
 This Privacy Statement relates solely to the online information collection and use practices of our Web site located at [www.thomsonreuters.com ](https://web.archive.org/ "Home Page")(this "Web Site"), and not to any subdomains of this Web Site. We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns. 
 
