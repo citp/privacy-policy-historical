@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novadevelopment.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101215211id_/http%3A//www.novadevelopment.com/company/legal-privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novadevelopment.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229183755id_/http%3A//www.novadevelopment.com/company/legal-privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,4 +22,4 @@ With respect to security: When we transfer and receive certain types of sensitiv
 
 If you feel that this site is not following its stated privacy policy, you may contact us at our corporate office.
 
-To be removed from our mailing list, please Fill out the Form [Here](https://web.archive.org/company/legal-privacy/remove.html "Remove From Mailing List")
+To be removed from our mailing list, please fill out the form [Here](https://web.archive.org/company/legal-privacy/remove.html "Remove From Mailing List")
