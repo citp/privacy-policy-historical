@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glasgow2014.com privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205135524id_/http%3A//www.glasgow2014.com/system_pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glasgow2014.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229051014id_/http%3A//www.glasgow2014.com/system_pages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,5 +79,3 @@ If this Privacy Policy changes in any way, we will place an updated version on t
 If you have any questions or concerns about the Privacy Policy for Glasgow 2014 Limited or its implementation, you may contact us at [contactus@Glasgow2014.com](mailto:contactus@Glasgow2014.com).  If at any time you decide that we should no longer hold any of your personal data, or wish to change the use to which any such data can be put, please let us know by emailing us at this address.
 
  
-
-© Glasgow 2014 Ltd. All rights reserved 
