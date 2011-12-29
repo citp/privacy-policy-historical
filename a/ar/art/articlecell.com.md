@@ -1,8 +1,32 @@
-> *The following text is extracted and transformed from the articlecell.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430151801id_/http%3A//www.articlecell.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecell.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229015419id_/http%3A//www.articlecell.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Welcome to www.ArticleCell.com (the "Site").
+| 
+
+Welcome to www.ArticleCell.com (the "Site"). 
+
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+
+**Google Adsense and the DoubleClick DART Cookie**  
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies.
+
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Articlecell has no access or control over these cookies that may be used by third party advertisers.
+
+**Collection of Personal Information**  
+When visiting Articlecell, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+
+**Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion.
+
+If you have any questions regarding the privacy policy of Articlecell then you may contact us at admin[at]articlecell.com
+
+**General Information (Privacy Policy)**
 
 We understand that privacy online is important to users of our Site, especially when conducting business.   
 This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by www.ArticleCell.com (collectively, "Services") ("Authorized Customers").
@@ -28,7 +52,7 @@ Personally Identifiable Information collected by www.ArticleCell.com is securely
 **What choices are available to Visitors regarding collection, use and distribution of the information?**  
 Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at 
 
-admin@articlecell.com  
+admin[at]articlecell.com  
   
 **Are Cookies Used on the Site?**  
 Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
@@ -48,12 +72,12 @@ All of our employees are familiar with our security policy and practices. The Pe
 **How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
 Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at 
 
-admin@articlecell.com
+admin[at]articlecell.com
 
 **Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
 We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting 
 
-admin@articlecell.com. However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
+admin[at]articlecell.com. However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
 
 **What happens if the Privacy Policy Changes?**  
 We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
@@ -62,3 +86,9 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
 © 2006 - 2020 **www.ArticleCell.com** , All rights reserved.
+
+| 
+
+[](http://index2php.phonesrch.hop.clickbank.net/)  
+  
+---|---
