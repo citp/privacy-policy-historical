@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deliaonline.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608090310id_/http%3A//www.deliaonline.com/home/our-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliaonline.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229225643id_/http%3A//www.deliaonline.com/home/our-privacy-policy.html) for the most accurate reproduction.*
 
 # Our privacy policy | from Delia Online
 
-[Return to listing](https://web.archive.org/web/20110608090310id_/http%3A//www.deliaonline.com/home/our-privacy-policy.html)
+[Return to listing](https://web.archive.org/equipment/tins-of-all-types.html)
 
 At Delia Online we are committed to protecting your privacy. Any personal information we request from you will be safeguarded under the Data Protection Act 1998. This Act regulates the processing of information relating to individuals, including the holding, use or disclosure of such information. Our data is stored in a secure database protected by a number of access controls. 
 
@@ -21,10 +21,58 @@ By using this website you agree that we may collect and use data as described ab
 
 We may also share non-personal, non-individual information in aggregate form with our marketing partners for research purposes. In other words, we will not tell our marketing partners that you visited a certain page at the site, but we may tell them how many visitors visited that page. 
 
-Delia Online uses cookies in the operation of the site. These are small data files which store the information you provide us with and in doing so enable us to 'remember' the user on repeat visits and effectively let you move around the site without having to keep reintroducing yourself. Most browsers accept cookies automatically, but you can set your browser to prevent this. If you choose not to accept our cookies, some services on our site will not be available (competitions, for example). 
-
 By using this website you agree that we may collect and use data as described above. We will always make it clear how we do this and allow you to select whether, and to whom, your details may be disclosed. 
 
 Should your personal information change, or you no longer require the services you have consented to, please e-mail us via [privacy@deliaonline.com ](mailto:privacy@deliaonline.com)and we will ensure that your records are updated with immediate effect. 
 
 Delia Online reserves the right to share any information provided in response to a legal process, such as a court order or subpoena. 
+
+## Cookies Policy
+
+Since 26 May 2011, the law now states that cookies on websites can only be used with your specific consent. Delia Online is currently formulating the best way to obtain your consent without compromising your enjoyment of the site. We will update you with this information once it is finalised. 
+
+Delia Online uses cookies in the operation of the site in a number of areas. If you choose not to accept our cookies, some services on our site will not be available to you (competitions, Your Recipes, for example). 
+
+### a. What is a cookie? 
+
+A cookie is a small file of data, often incorporating a unique identifier, that is sent to your computer or mobile phone browser from a website's computer. This data file stores the information you provide us with and in doing so enables us to 'remember' you on repeat visit,effectively letting you move around the site without having to keep reintroducing yourself. Most browsers accept cookies automatically, but you can set your browser to prevent this. If your browser’s preferences allow it, each website or third party service provider is able to send a cookie to your browser. However, to protect your privacy, your browser only allows these websites or third party service providers to access cookies already sent to you, not the cookies sent to you by other sites or other third party service providers. 
+
+Cookies record information about your online preferences, which are then used to tailor our website to your individual preferences. You can set your devices to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. However, if you choose the third option, please bear in mind that you may not be able to take full advantage of all of the features on Delia Online. Each browser is different, so check the "Help" menu of your browser to find out how to change your cookie preferences. 
+
+For more information please see: [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
+
+### b. How does Delia Online use cookies?
+
+Delia Online does not use cookies to collect personally identifiable information about you as a user of the site. However if you wish to restrict or block the cookies we use on Delia Online you can do this within your browser settings. The Help function within your browser should tell you how to do this. 
+
+For more information please see: [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
+
+Please be aware that in disabling cookies on Delia Online may affect your experience of the site where the functionality is controlled by the use of cookies. 
+
+Delia Online also uses a number of independent measurement, advertising and research companies. They gather information regarding the visitors to the Delia Online website using cookies, log file data and code embedded on our website. Delia Online uses this type of information to help improve the services it provides to its users; however, we demand that third parties do not use any of this type of information for their own business or other purposes. 
+
+Delia Online does contain hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, including cookies, and we urge you to review them. They will govern the use of any personal information you submit or which is collected by cookies whilst visiting these websites.
+
+We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk. 
+
+### c. Delia Online cookies and how to reject cookies? 
+
+A comprehensive audit of the site in terms of the main cookies that Delia Online sets (and what each is used for) together with ways to minimise the number of cookies you receive has been carried out. As a result of this we have compiled a list of these cookies to enable you to reject any that you decide that you wish to opt out of. 
+
+[Cookies on Delia Online
+
+](http://www.deliaonline.com/home/delia-online-cookies.html)
+
+ **Contacting Delia  Online about this privacy and cookies policy **If you have any questions or comments about the information contained in this this privacy policy please contact:
+
+Nikki Dance   
+Delia Online   
+PO Box 1124   
+Knaphill   
+GU21 9AA   
+Email: enquiries@deliaonline.com   
+Last updated: 23 September 2011 
+
+Last updated: 23 September 2011
+
+[Return to Homepage](https://web.archive.org/home "/home")
