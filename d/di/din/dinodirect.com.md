@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dinodirect.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624064106id_/http%3A//www.dinodirect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinodirect.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229115901id_/http%3A//www.dinodirect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DinoDirect.com
 
-Privacy Policy 
+Privacy Policy
 
-We are committed to making your experience at DinoDirect.com enjoyful and rewarding.   
+We are committed to making your experience at DinoDirect.com enjoyful and rewarding.  
 The following Privacy Policy applies only to DinoDirect.com and information of our customers collected online through DinoDirect.com. Your privacy is very important to us and definitely confidencial. 
 
 DinoDirect respects and protects the privacy of its visitors. In this document, we explain how we use the information you supply us. If we update our Privacy Policy, all revisions will be posted on this page. We reserve the right to change the privacy policy any time. 
@@ -15,7 +15,7 @@ You also may create an account through DinoDirect.com at any time by providing y
 
 Removal or Edit of Your Information
 
-If you have registered for Special E-mail Offerings, you may unsubscribe from the program, by visiting the e-mail unsubscribe page or click on the links available at the bottom of any of these special offer e-mails. You may also request the removal of your information by contacting us via e-mail. 
+If you have registered for Special E-mail Offerings, you may unsubscribe from the program, by visiting the e-mail unsubscribe page or click on the links available at the bottom of any of these special offer e-mails. You may also request the removal of your information by contacting us via e-mail.
 
 If you wish to receive more personalized information from DinoDirect or change anything about your profile such as your e-mail format, please click on the links available at the bottom of any of these special offer e-mails or visit the Your Profile page.
 
@@ -29,7 +29,7 @@ Agents, employees and contractors of DinoDirect who have access to personally id
 
 Information about you specifically will not be used for any other purpose and we will carry out the services you requested from DinoDirect . 
 
-We will not sell or rent your personally identifiable information to anyone at any time. 
+We will not sell or rent your personally identifiable information to anyone at any time.
 
 We will not use any personal information beyond what is necessary to assist us in delivering to you the services you have requested. 
 
@@ -49,6 +49,5 @@ If you have questions, suggestions or concerns regarding our products or service
 
 Name: DinoDirect Customer Service Center   
 Fax: 650-240-3909   
-[Customer Service](http://www.dinodirect.com/customerhelp/ "Customer Service") \- for any pre-sale and after-sale inquiries.
+[Customer Service](http://www.dinodirect.com/customerhelp/ "Customer Service") \- for any pre-sale and after-sale inquiries.  
 
-All design logos appearing on this site (site materials) are the exclusive property of DinoDirect China Limited. As such, DinoDirect owns all right, title and interest in the Logos, including but not limited to, copyright, trademark, service mark, trade dress, moral rights, rights under any statutory protection of fine arts, and otherwise, as applicable. All the transactions are processed by DinoDirect's fully owned subsidiary DinoDirect LLC Ltd located in Coventry, UK. 
