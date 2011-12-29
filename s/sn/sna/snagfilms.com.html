@@ -1,501 +1,555 @@
-<!--The following is the downloaded HTML source of the snagfilms.com privacy policy that was archived on 2011-01-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110103234037id_/http%3A//www.snagfilms.com/films/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the snagfilms.com privacy policy that was archived on 2011-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229050659id_/http%3A//www.snagfilms.com/films/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:media="http://search.yahoo.com/searchmonkey/media/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-<title>Privacy | Watch Free Documentaries Online | SnagFilms</title>
+<!DOCTYPE html><html lang="en"><head>
+    <title>Privacy Policy | Watch Free Movies and Documentaries Online | SnagFilms</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="SnagFilms Privacy Statement. Watch free documentaries. Share documentary films.">
-<meta name="keywords" content="SnagFilms privacy, documentary, documentaries, watch, free, online, best, snag films, SnagFilms, Snag Films, SnagFilm, Snag Film, IndieWire, Indie Wire, Indie Film, Independent Film">
+<meta name="title" content="Privacy Policy | Watch Free Movies and Documentaries Online | SnagFilms">
+<meta name="description" content="Watch free movies and documentaries at SnagFilms.">
+<meta name="keywords" content="Privacy Policy, documentary, documentaries, watch, free, online, best, snag films, SnagFilms, Snag Films, SnagFilm, Snag Film, IndieWire, Indie Wire, Indie Film, Independent Film, ">
 <link rel="icon" type="image/png" href="http://ec.snagfilms.com/i/fav.png">
 <link rel="shortcut icon" type="image/png" href="http://ec.snagfilms.com/i/fav.png">
+<link rel="canonical" href="http://www.snagfilms.com/films/privacy">
 <meta name="msvalidate.01" content="F36E644468CC58F1E161CA94493941B0">
-
-
-<meta name="title" content="Privacy">
 <link rel="image_src" href="http://ec.snagfilms.com/i_v2/logo_snagfilms-fb.gif">
-<link rel="media:image" href="http://ec.snagfilms.com/i_v2/logo_snagfilms-fb.gif">
-<meta name="medium" content="news">
-	
-<link rel="alternate" type="application/rss+xml" href="http://fb.snagfilms.com/SnagFilmsRecentAdditions" title="Watch Free Documentaries at SnagFilms">
-<link rel="stylesheet" type="text/css" href="http://ec.snagfilms.com/styles/main-3.7.2.css">
-<link rel="stylesheet" type="text/css" href="http://ec.snagfilms.com/styles/jquery.fancybox-1.3.1.css">
-<script type="text/javascript" src="http://o.aolcdn.com/ads/adsWrapper.js"></script>
+        <link rel="media:image" href="http://ec.snagfilms.com/i_v2/logo_snagfilms-fb.gif">
+        <meta name="medium" content="article">
+        <meta property="og:image" content="http://ec.snagfilms.com/i_v2/logo_snagfilms-fb.gif">
+        <meta property="og:type" content="article">
+        <meta property="og:title" content="Privacy Policy | Watch Free Movies and Documentaries Online | SnagFilms">
+    <meta property="og:description" content="Watch free movies and documentaries at SnagFilms.">
+<meta property="og:url" content="http://www.snagfilms.com/films/privacy">
+<meta property="og:site_name" content="SnagFilms">
+<meta property="fb:page_id" content="267920908819">
+<meta property="fb:app_id" content="227991737252697">
+<meta property="fb:admins" content="100001749790181">
+<link rel="stylesheet" type="text/css" href="http://cdn.snagfilms.com/resource/assets/css/global.3db9c2c5a02e895faac0b8a76896ac05.css">
+
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/7880.js" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="http://cdn.snagfilms.com/resource/assets/scripts/jquery_tools.e150e9cb43d58f3308e6604a2b4c1143.js"></script>
+<script src="http://cdn.snagfilms.com/resource/assets/scripts/swfobject.be01c7adc3f03441d0fd584fe2901bca.js"></script>
+<script src="http://cdn.snagfilms.com/resource/assets/scripts/main.f144e9efdee5e38401fd1bc3a58ed9ac.js"></script>
+
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="https://s.aolcdn.com/omniunih.js"></script></head>
+<body>
+<div id="fb-root"></div>
 <script type="text/javascript">
-adSetAdURL('/_uac/adpage.html');
+    var isFilmPage = false;
+    
+    
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId: '227991737252697',
+            status : true,
+            cookie : true,
+            oauth: true,
+            xfbml  : true
+        });
+
+        FB.Event.subscribe('auth.authResponseChange', function(response) {
+            if (response.status == 'connected') {
+                location.href = '/fblogin.jsp?token=' +
+                    encodeURIComponent(response.authResponse.accessToken)
+                        + '&expires=' + response.authResponse.expiresIn
+                        + '&uid=' + response.authResponse.userID
+                        + '&return=' + encodeURIComponent(location.href);
+            } else {
+                
+                location.reload();
+            }
+        });
+
+        FB.Event.subscribe('edge.create', function(response) {
+            
+            $.get('/ajax/userEvent.jsp?t=like&u=' +
+                    encodeURIComponent(response), function(data){
+            });
+        });
+
+        FB.Event.subscribe('comment.create', function(response) {
+            
+            var commentQuery = FB.Data.query("SELECT text, fromid FROM comment WHERE post_fbid='"+response.commentID+"' AND object_id IN (SELECT comments_fbid FROM link_stat WHERE url='"+response.href+"')");
+            if (response.href.indexOf('films/title') > -1) {
+                Snag.Tracking.GA.trackEvent('film page', 'comment');
+            }
+            FB.Data.waitOn([commentQuery], function() {
+                var commentRow = commentQuery.value[0];
+                $.post('/ajax/userEvent.jsp?t=comment&u=' +
+                        encodeURIComponent(response.href) +
+                        "&cid=" + response.commentID +
+                        "&c=" + encodeURIComponent(commentRow.text), function(data){
+                });
+            }); 
+        });
+
+        FB.Event.subscribe('comment.remove', function(response) {
+            
+            $.post('/ajax/userEvent.jsp?t=comment&a=rem&u=' +
+                    encodeURIComponent(response.href) +
+                    "&cid=" + response.commentID, function(data){
+            });
+        });
+    };
+    
+    (function(d){
+         var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+         js = d.createElement('script'); js.id = id; js.async = true;
+         js.src = "//connect.facebook.net/en_US/all.js";
+         d.getElementsByTagName('head')[0].appendChild(js);
+    }(document));
+    
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-3922545-1']);
+
+    $(document).ready(function() {
+        _gaq.push(['_trackPageview']);
+    });
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+
+    $(document).ready(function() {
+        
+        $('.login a').click(function(event){
+            event.preventDefault();
+            
+            document.cookie = 'fbsr_227991737252697 = ""; expired=0; path=/';
+            FB.logout();
+        });
+        
+    });
+
+    
+    _gaq.push(['_setCustomVar',
+        1, 
+        'Visitor Type', 
+        'Unauthenticated', 
+        1 
+    ]);
 </script>
-<script type="text/javascript" src="http://ec.snagfilms.com/js/jquery-1.4.2.min.js"></script>
-<script type="text/javascript" src="http://ec.snagfilms.com/js/jquery.fancybox-1.3.1.pack.js"></script>
-<script type="text/javascript" src="http://ec.snagfilms.com/js/main-2.1.3.js"></script>
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-<script type="text/javascript" src="http://ec.snagfilms.com/js/gs-1.1.1.js"></script>
-<script type="text/javascript" src="http://cdn.gigya.com/JS/socialize.js?apikey=2_bZPsAQh3NVQXNlovgAD7NIjL6JXHPKoT32qReuI22sFs1q1UqS9pKHkkn_v83FZz"></script>
-
-<!-- SiteCatalyst code version: H.15.
-Copyright 1997-2005 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script language="JavaScript"><!--
-var s_account="aolmovblog,aolsvc" 
-//--></script>
-<script language="JavaScript" src="http://o.aolcdn.com/omniunih.js"></script>
-<script language="JavaScript"><!--
-s_265.pfxID="mov"
-s_265.pageName=s_265.pfxID + " : " +document.title
-s_265.channel="us.snagfilm"
-s_265.linkInternalFilters="javascript:,moviefone.com,snagfilm.com"
-s_265.prop1="snagfilm"
-s_265.prop2=""
-s_265.prop12=document.URL.split('?')[0];
-s_265.mmxgo=true;
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s_265.t();//--></script>
-
-<!-- End SiteCatalyst code version: H.15. -->
-
-<script type="text/javascript">var addthis_config = { data_track_clickback: true }; var addthis_share = { templates: {twitter: '{{title}} - Watch the Documentary Film for Free {{url}} via @snagfilms'} }; </script>
-</head>
-
-
-
-<body id="page_blog" class="body">
-	<div id="header_container_top"><!-- 0 --></div>
-	<div id="header_container">
-		<div class="content">
-			<table>
-			<tbody><tr>
-				<td><a href="/"><div id="header_logo" class="csprite"><!-- 0 --></div></a></td>
-				<td id="header_spacer"><!-- 0 --></td>
-				<td id="ad_728x90_container">
-					<script type="text/javascript">
-					<!--
-					htmlAdWH("93245595", "728", "90");
-					//-->
-					</script>
-				</td>
-			</tr>
-			</tbody></table>
-		</div>
-	</div>
-<div id="nav_global_container_top"><!-- 0 --></div>
-<div id="nav_global_container" class="sprite">
-<div class="content">
-		<h3 class="nav_global_element"><a href="http://www.snagfilms.com/films/">home</a></h3>
-		<div class="nav_global_element_sep sprite"><!-- 0 --></div>
-		<h3 class="nav_global_element"><a href="http://www.snagfilms.com/films/hot/">what’s hot</a></h3>
-		<div class="nav_global_element_sep sprite"><!-- 0 --></div>
-		<h3 class="nav_global_element"><a href="http://www.snagfilms.com/films/browse/topic/">topics</a></h3>
-		<div class="nav_global_element_sep sprite"><!-- 0 --></div>
-		<h3 class="nav_global_element"><a href="http://www.snagfilms.com/films/browse/channel/">channels</a></h3>
-		<div class="nav_global_element_sep sprite"><!-- 0 --></div>
-		<h3 class="nav_global_element"><a href="http://www.snagfilms.com/films/browse/a-z/">a-z</a></h3>
-			<div id="nav_sub_search">
-<form id="search_form" name="search_form" method="post" action="http://www.snagfilms.com/films">
-<div class="hiddenFields">
-<input type="hidden" name="ACT" value="19">
-<input type="hidden" name="XID" value="b629ac52a45b6e476ef8adae70e41ae7bf7271f9">
-<input type="hidden" name="RP" value="search&amp;#47;results">
-<input type="hidden" name="NRP" value="search">
-<input type="hidden" name="RES" value="">
-<input type="hidden" name="status" value="open">
-<input type="hidden" name="weblog" value="film_blog|snagfilmsnews_blog">
-<input type="hidden" name="search_in" value="entries">
-<input type="hidden" name="where" value="all">
-<input type="hidden" name="site_id" value="1">
-</div>
-
-
-					<div class="hiddenFields"></div>
-					<input id="where" type="hidden" name="where" value="all">
-					<table>
-					<tbody><tr>
-						<td id="nav_sub_search_txt" class="sprite"><input id="nav_sub_search_keywords" type="text" value="" name="keywords"></td>
-						<td><div id="nav_sub_search_btn" class="csprite"><!-- 0 --></div></td>
-					</tr>
-					</tbody></table>
-</form>
-			</div>
-			<script type="text/javascript">
-				$("#nav_sub_search_keywords").val("Search 1800 Films");
-				$("#nav_sub_search_keywords").click(function() { 
-					if ($(this).val() == "Search 1800 Films") {$(this).val("");}
-				});
-				$("#nav_sub_search_btn").click(function() {$("#search_form").submit();});
-			</script>
-
-
-	</div>
-</div>
-	<div id="main_shadow" class="sprite">
-		<div class="content">
-			<table><tbody><tr><td class="col1_shadow sprite"><!-- 0--></td><td class="col2_shadow sprite"><!-- 0--></td></tr></tbody></table>
-		</div>
-	</div>
-	<div id="main_content">
-		<div class="content">
-			<table>
-			<tbody><tr>
-				<td class="col1" style="padding-bottom:0px;">
-					<div id="box_featured">
-
-
-
-				<div id="tab_container">
-
-					<div class="module_header"><div class="title">Privacy</div></div>
-					<div class="separator"><!-- 0 --></div>
-
-					<div id="tab_container" class="notab">
-						<div id="tab_content_top"><!-- 0 --></div>
-						<div id="tab_content_middle">
-
-						<div class="module">
-							<div class="module_content">
-	<style>
-#tos .header { text-transform:uppercase; font-weight:bold; }
-#tos .acenter { text-align:center; }
-#tos .centeredblock { margin-left:225px; }
-</style>
-<div id="tos">
-	<p class="header acenter">PRIVACY STATEMENT</p>
-
-	<p>Thank you for visiting SnagFilms. Your privacy is important to us. To better protect your privacy, we provide this statement explaining our online information practices and the way your information is collected and used at this site.</p>
-
-	<p>SnagFilms provides an online video service offering a selection of movies, clips and other content (collectively, "Content") available on the SnagFilms.com website (the "SnagFilms Site"). SnagFilms’ affiliate and distribution partner websites ("Distribution Sites"), and other websites where users may embed the Content (these websites, together with the SnagFilms Site and Distribution Sites, are referred to collectively as the "Sites"). Our video service, including the Content, video player, widgets and any other features, tools, applications, materials or other services offered from time to time by SnagFilms in connection with its business on any of the Sites are referred to collectively as the "SnagFilms Services." We are a website based in the United States.</p>
-
-	<p>By visiting the SnagFilms Site (whether or not you are a registered member) or using any of the SnagFilms Services on any of the Sites, you are accepting this Privacy Policy. If you do not want information about you to be used in the manner set forth in this Privacy Policy, please do not use the SnagFilms Services.</p>
-
-	<p class="header">Information We Gather</p>
-
-	<p>At our site you can, among other things, view streaming videos, snag widgets, post comments, order products via third party products and services , and subscribe to and use all our services. We may collect certain non-personally identifiable information when you visit many of our web pages such as usage behavior, number of pages visited, the number and type of videos streamed, the number of widgets snagged, and additionally the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS) and the domain name of your Internet service provider (e.g.,  AOL, Earthlink). The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, and information about your interests in and use of various products, programs, and services. At certain parts of the site, (e.g. to post a comment to our blog, post a comment on the user comment section, sign up for our e-newsletter, responding surveys) only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings.</p>
-
-	<p class="header">How We Use the Information</p>
-
-	<p>We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. </p>
-
-	<p>We sometimes use this information to communicate with you, such as to notify you when we make changes to the site or to fulfill a request by you for our bi-weekly newsletter.</p>
-
-	<p>While using the SnagFilms Site you will have opportunities to post user reviews and comment on blog postings. If you choose to submit content for publication, we may publish your screen name and other information you have provided to us.  Please understand that when you post such information, it is made public and is not subject to this policy. </p>
-
-	<p>We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.</p>
-
-	<p>Anonymous data is information (originally personally identifiable or non-personally identifiable) that subsequently is used in aggregate form. We may use anonymous data for purposes of research or analysis. We may conduct research on our customer demographics, internet usage, and interests and behavior based on personal data we gather. Although anonymous data may be based in part on personal data, it does not identify you personally. SnagFilms may share this type of anonymous data with a variety of third parties, including its affiliates, advertisers and other current and prospective business partners. But because it is anonymous, these third parties will not be able to contact you based on this data. </p>
-
-	<p>SnagFilms may display targeted advertisements based on personal information. SnagFilms does not provide any personal information to the advertiser when you interact with or view a targeted ad, although advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria. </p>
-
-	<p>We may use anonymous data collected for website administration, advertising and promotional purposes, and we may share such information with various affiliated and unaffiliated entities for such purposes. IP addresses are also used to provide anonymous aggregated data to advertisers about the volume of use on the SnagFilms Services, and non-personally identifiable information about your activities may be used to customize advertising messages. Anonymous usage and demographic information may also be shared with our advertisers and business partners. </p>
-
-	<p>We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate,  prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to verify or enforce compliance with the policies governing our Web Site and applicable laws or as otherwise required or permitted by law or consistent with legal requirements. </p>
-
-	<p>In addition, we may transfer personally identifiable information about you if we, or one of our business units, are acquired by, sold to, or merged with another company. Agents and contractors who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Statement by, for example, not using the information for any purpose other than to carry out the services they are performing for us.</p>
-
-	<p>SnagFilms enables and encourages users to “snag” or take widgets with our film and related content from our site and embed these widgets on personal web pages, blogs and other sites operated by third parties whose policies regarding the handling of personal information may differ from ours.  We hope that you will take our films with you by widget and enjoy and share them in this way; please read the privacy policies of the sites where you embed a widget, as SnagFilms cannot be responsible for the information handling practices of these other sites.</p>
-
-	<p>Finally, SnagFilms stores information about which films you view in streaming flash format. This information is currently not used but may be used in the future without notice to determine Website usage patterns.</p>
-
-	<p>We will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.</p>
-
-	<p class="header">Cookies &amp; Web Beacons</p>
-
-	<p>To enhance your experience, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site) or save your password in password-protected areas.  </p>
-
-	<p>"Web beacons" or clear .gifs are small pieces of code placed on a web page to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page. We may and other third party sites may use web beacons on this site from time to time for this and other purposes.</p>
-
-	<p class="header">Collection of Information by Third-Party Sites, Ad Servers, and Sponsors</p>
-
-	<p>Some of our pages contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices. Please be aware that SnagFilms does not warn you when you have chosen to link through to another website from the SnagFilms Site.</p>
-
-	<p>SnagFilms sometimes may offer content that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties' use of this information. </p>
-
-	<p>SnagFilms may use a reputable third party to present or serve the advertisements that you may see at its Web pages. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy statement. </p>
-
-	<p class="header">Our Commitment to Security</p>
-
-	<p>We have put in place industry-standard physical, technical, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.</p>
-
-	<p>Unfortunately, no security system can be guaranteed to be 100% secure. Accordingly, we cannot guarantee the security of your personal information and cannot assume liability for improper access to it. By using this Web site, or providing personal information to us through any means, you do so at your own risk and you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of this site.</p>
-
-
-	<p class="header">Our Commitment To Children Privacy</p>
-
-	<p>Protecting the privacy of young children is important to us. Snagfilms does not knowingly collect or maintain personally identifiable information or non-personally identifiable information from persons under 13 years of age, and no part of our this site is directed to persons under 13. If you are under 13 years of age, then please do not use or access our web site or widgets at any time or in any manner. If SnagFilms learns that personally identifiable information of persons less than 13 years of age has been collected on the this site without verified parental consent, then SnagFilms will take the appropriate steps to delete this information.</p>
-
-	<p class="header">How to Contact Us</p>
-
-	<p>If you have any questions or concerns about the online privacy statement for this site or its implementation you may contact us at <script type="text/javascript">
-//<![CDATA[
-var l=new Array();
-l[0]='>';l[1]='a';l[2]='/';l[3]='<';l[4]=' 109';l[5]=' 111';l[6]=' 99';l[7]=' 46';l[8]=' 115';l[9]=' 109';l[10]=' 108';l[11]=' 105';l[12]=' 102';l[13]=' 103';l[14]=' 97';l[15]=' 110';l[16]=' 115';l[17]=' 64';l[18]=' 107';l[19]=' 99';l[20]=' 97';l[21]=' 98';l[22]=' 100';l[23]=' 101';l[24]=' 101';l[25]=' 102';l[26]='>';l[27]='\"';l[28]=' 109';l[29]=' 111';l[30]=' 99';l[31]=' 46';l[32]=' 115';l[33]=' 109';l[34]=' 108';l[35]=' 105';l[36]=' 102';l[37]=' 103';l[38]=' 97';l[39]=' 110';l[40]=' 115';l[41]=' 64';l[42]=' 107';l[43]=' 99';l[44]=' 97';l[45]=' 98';l[46]=' 100';l[47]=' 101';l[48]=' 101';l[49]=' 102';l[50]=':';l[51]='o';l[52]='t';l[53]='l';l[54]='i';l[55]='a';l[56]='m';l[57]='\"';l[58]='=';l[59]='f';l[60]='e';l[61]='r';l[62]='h';l[63]='a ';l[64]='<';
-for (var i = l.length-1; i >= 0; i=i-1){ 
-if (l[i].substring(0, 1) == ' ') document.write("&#"+unescape(l[i].substring(1))+";"); 
-else document.write(unescape(l[i]));
-}
-//]]>
-</script><a href="mailto:feedback@snagfilms.com">feedback@snagfilms.com</a>.</p>
-
-	<p class="header">Updates &amp; Effective Date</p>
-
-	<p>From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. If you do not agree with any changes to the Privacy Policy, you must leave the SnagFilms Site and discontinue any use of the SnagFilms Services. Any visit to the SnagFilms Site or use of the SnagFilms Services on any of the Sites by you after the new Privacy Policy is posted will indicate your agreement to the new Policy.</p>
-
-	<p>The Privacy Statement posted on this site was updated on or about 07.16.07.</p>
-</div>
-								<div class="clearme"><!-- 0 --></div>
-							</div>
-						</div>
-
-
-						</div>
-						<div id="tab_content_bottom"><!-- 0 --></div>
-					</div>
-
-					</div>	
-				</div></td>
-				<td class="col2_shadow" style="background-color:#eceaea;">
-					<div class="outer_container">					
-
-
-<style type="text/css">
-.gsContainer { margin:10px 0px 0px 0px; width:280px; padding:10px; height:66px; overflow:hidden; background-image:url("http://ec.snagfilms.com/i_v2/rightrail_callout_bkgd2.gif"); }
-#gsConnectContainer { padding-top:6px; display:none; }
-#gsConnectContainer h2 { margin:0px; padding:0px; color:#0a78ae; }
-#gsConnectContainer p { margin:0px; padding:0px; font-size:9px; color:#0a78ae; }
-#gsConnect { margin:2px 0px 5px 0px; height:32px; }
-#gsProfileContainer { font-size:14px; color:#0a78ae; display:none; }
-#gsLogout { float:right; height:12px; font-size:11px; text-align:right; }
-#gsPhoto { float:left; margin:4px 0px 0px 4px; width:60px; }
-#gsInfo { float:left; width:200px; margin:0px 0px 0px 10px; }
-#gsShare { width:195px; height:14px; font-size:13px; line-height:14px; background-image:url("http://ec.snagfilms.com/i_v2/gs-share.gif"); background-repeat:no-repeat; background-position:top right; cursor:hand; cursor:pointer; display:none; }
-#gsActivityFeedContainer { margin:0px 0px 10px 0px; background-image:url("http://ec.snagfilms.com/i_v2/rightrail_callout_bkgd2.gif"); }
-#gsProviderContainer { margin:10px 0px; background-color:#ffffff; }
-</style>
-<div id="gsConnectContainer" class="gsContainer">
-	<h2>Login Using a Partner Site</h2>
-	<div id="gsConnect"><!-- 0--></div>
-	<p>Login to SnagFilms with one of these accounts.</p>
-</div>
-
-<div id="ad_300x250_container" style="margin-top:4px;">
-<script type="text/javascript">
-<!--
-htmlAdWH("93224149", "300", "250"); 
-//-->
-</script>
-</div>
-<div style="text-align:center;font-size:9px;font-family:Courier;color:#666666;line-height:11px;">advertisement</div>
-
-
-<div id="gsProfileContainer" class="gsContainer">
-	<div id="gsLogout"><a href="javascript:void(0);" onclick="javascript:gGs.logout();">Logout</a></div>
-	<img id="gsPhoto" src="">
-	<div id="gsInfo">
-		<p>Hi <span id="gsName"><!-- 0 --></span></p>
-		<div id="gsShare" onclick="javascript:gGs.share();">Share this film</div>
-	</div>
-</div>
-<div id="gsActivityFeedContainer"><!-- 0 --></div>
-<div id="gsProviderContainer"><!-- 0 --></div>
-
-<div id="rightrail_callout" style="margin-bottom:5px;">
-	<div class="item" style="width:270px;padding:5px 0px 0px 15px;">
-<form id="mailinglist_form" name="newsletter_form" method="post" action="http://www.snagfilms.com/films">
-<div class="hiddenFields">
-<input type="hidden" name="XID" value="40f0739ff0a2023ca450871a7763bb55652c044f">
-<input type="hidden" name="ACT" value="3">
-<input type="hidden" name="RET" value="http://www.snagfilms.com/films/privacy/">
-<input type="hidden" name="list" value="sf_newsletter">
-<input type="hidden" name="site_id" value="1">
-</div>
-
-
-		<div class="fright"><a href="javascript:void(0);" onclick="document.newsletter_form.submit();"><div style="width:44px;height:28px;background-position:-268px -1398px;" class="csprite"><!-- 0 --></div></a></div>
-		<div class="fleft"><input id="rightrail_signup_text" type="text" style="width:200px;" name="email" value="join our mailing list"></div>
-</form>
-		<div class="clearme"><!-- 0 --></div>
-		
-		<div style="margin:10px 0px;">
-			<div class="fright" style="width:38px;"><a target="_blank" onclick="pageTracker._trackEvent('rr','act','followtwitter');" href="http://www.twitter.com/snagfilms"><div style="margin-left:10px;width:28px;height:21px;border:1px solid #d0d0d0;background-position:-175px -1359px;" class="fright csprite"><!-- 0 --></div></a></div>
-			<div class="fright" style="height:22px;line-height:22px;text-align:left;font-size:13px;color:#006699;">Follow us:</div>
-			<div class="clearme"><!-- 0 --></div>
-		</div>
-	</div>
-</div>
-<div id="callout" style="position:relative;width:300px;height:58px;margin:5px 0px;background-position:0px -1428px;" class="sprite">
-	<a onclick="pageTracker._trackEvent('rr','act','submit');" href="http://www.snagfilms.com/films/submissions/"><div style="position:absolute;left:0px;top:0px;width:146px;height:58px;cursor:hand;cursor:pointer;"><!-- 0 --></div></a>
-	<a onclick="pageTracker._trackEvent('rr','act','feedback');" href="http://www.snagfilms.com/films/feedback/"><div style="position:absolute;left:148px;top:0px;width:153px;height:58px;cursor:hand;cursor:pointer;"><!-- 0 --></div></a>
-</div>
-
-<div class="rightrail_comment sprite" style="background-position:-330px -1428px;">
-	<div class="credit">Jim on <a href="http://www.snagfilms.com/films/title/how_arnold_won_the_west/" title="Watch Now for Free: How Arnold Won The West">How Arnold Won The West</a></div>
-	<div class="text" style="width:235px;overflow:hidden;">Left wing; liberal trash!!!</div>
-</div>
-<div class="rightrail_section_separator"><!-- 0 --></div>	
-
-<div class="rightrail_comment sprite" style="background-position:-330px -1428px;">
-	<div class="credit">waynecarr on <a href="http://www.snagfilms.com/films/title/home/" title="Watch Now for Free: Home">Home</a></div>
-	<div class="text" style="width:235px;overflow:hidden;">i saw a copy of this video in a local …&nbsp;<a style="white-space:nowrap;" href="http://www.snagfilms.com/films/comments/home/">More ›</a></div>
-</div>
-<div class="rightrail_section_separator"><!-- 0 --></div>	
-
-<div class="rightrail_comment sprite" style="background-position:-330px -1428px;">
-	<div class="credit">steve on <a href="http://www.snagfilms.com/films/title/the_atheism_tapes_denys_turner/" title="Watch Now for Free: The Atheism Tapes: Denys Turner">The Atheism Tapes: Denys Turner</a></div>
-	<div class="text" style="width:235px;overflow:hidden;">to the unknowing eye , the supplies needed to construct …&nbsp;<a style="white-space:nowrap;" href="http://www.snagfilms.com/films/comments/the_atheism_tapes_denys_turner/">More ›</a></div>
-</div>
-
-<div style="height:6px;background-position:0px -1531px;" class="sprite"><!-- 0 --></div>
-<div id="rightrail_feeds_container">
-	<div style="background-image:url(http://ec.snagfilms.com/i_v2/feeds_inner_bkgd.gif); background-repeat:repeat-x; background-position:bottom left;">
-		<div class="item">
-			<div class="rightrail_title">Latest Feeds</div>
-		</div>
-		<div class="item_container">
-			<div class="item" style="position:relative;width:260px;overflow:hidden;">
-
-
-				<a target="_blank" onclick="pageTracker._trackEvent('rr','act','iw');" href="http://www.indiewire.com"><div style="float:left;width:40px;height:30px;border:1px solid #efefef;background-position:0px -1358px;" class="csprite"><!-- 0 --></div></a>
-				<div class="text">
-					<div class="info" style="position:relative;"><a target="_blank" onclick="pageTracker._trackEvent('rr','act','iw');" href="http://fb.indiewire.com/~r/indieWIRENews/~3/tPh0CIyA_jY/">January Preview: The 5 Must See Films</a></div>
-					from <a class="src" target="_blank" onclick="pageTracker._trackEvent('rr','act','iw');" href="http://www.indiewire.com">indieWIRE »</a>
-				</div>
-
-
-				<div class="clearme"><!-- 0 --></div>
-			</div>
-		</div>
-		<div class="item_container">
-			<div class="item" style="position:relative;width:260px;overflow:hidden;">
-
-
-				<a target="_blank" onclick="pageTracker._trackEvent('rr','act','toh');" href="http://blogs.indiewire.com/thompsononhollywood"><div style="float:left;width:40px;height:30px;border:1px solid #efefef;background-position:-130px -1359px;" class="csprite"><!-- 0 --></div></a>
-				<div class="text" style="position:relative;">
-					<div class="info" style="position:relative;"><a target="_blank" onclick="pageTracker._trackEvent('rr','act','toh');" href="http://blogs.indiewire.com/thompsononhollywood/2011/01/03/considering_2011_daily_read/">Anticipating the Best of 2011: Malick, Spielberg, Scorsese, Fincher and More Sequels</a></div>
-					from <a class="src" target="_blank" onclick="pageTracker._trackEvent('rr','act','toh');" href="http://blogs.indiewire.com/thompsononhollywood">Thompson on Hollywood »</a>
-				</div>
-
-
-				<div class="clearme"><!-- 0 --></div>
-			</div>
-		</div>
-		<div class="item_container">
-			<div class="item" style="position:relative;width:260px;overflow:hidden;">
-
-
-				<a target="_blank" onclick="pageTracker._trackEvent('rr','act','twitter');" href="http://www.twitter.com/snagfilms"><div style="float:left;width:40px;height:30px;border:1px solid #efefef;background-position:-43px -1359px;" class="csprite"><!-- 0 --></div></a>
-				<div class="text" style="position:relative;">
-					<div class="info" style="position:relative;"><a target="_blank" onclick="pageTracker._trackEvent('rr','act','twitter');" href="http://twitter.com/SnagFilms/statuses/20587430063112192">SnagFilms: #Capitals &amp; #Penguins fans alike prep for the Winter Classic by watching the documentary POND HOCKEY - http://bit.ly/6fYUCO</a></div>
-					from <a class="src" target="_blank" onclick="pageTracker._trackEvent('rr','act','twitter');" href="http://www.twitter.com/snagfilms">Twitter »</a>
-				</div>
-
-
-				<div class="clearme"><!-- 0 --></div>
-			</div>
-		</div>
-		<div class="item_container">
-			<div class="item" style="position:relative;width:260px;overflow:hidden;">
-
-				<a onclick="pageTracker._trackEvent('rr','act','sfn');" href="http://www.snagfilms.com/films/news/"><div style="float:left;width:40px;height:30px;border:1px solid #efefef;background-position:-87px -1359px;" class="csprite"><!-- 0 --></div></a>
-				<div class="text" style="position:relative;">
-					<div class="info" style="position:relative;"><a onclick="pageTracker._trackEvent('rr','act','sfn');" href="http://www.snagfilms.com/films/news/snagfilms_to_stream_live_online_premiere_of_out_in_the_silence/">SnagFilms To Stream Live Online Premiere Of “Out in the Silence”;</a></div>
-					from <a class="src" onclick="pageTracker._trackEvent('rr','act','sfn');" href="http://www.snagfilms.com/films/news/">SnagFilms News »</a>
-				</div>
-
-				<div class="clearme"><!-- 0 --></div>
-			</div>
-		</div>
-		<div class="item_container">
-			<div class="item" style="position:relative;width:260px;overflow:hidden;">
-
-
-				<a target="_blank" onclick="pageTracker._trackEvent('rr','act','learning');" href="http://learning.snagfilms.com" title="SnagLearning"><div style="float:left;width:40px;height:30px;border:1px solid #efefef;background-position:0px -1390px;" class="csprite"><!-- 0 --></div></a>
-				<div class="text">
-					<div class="info" style="position:relative;"><a target="_blank" onclick="pageTracker._trackEvent('rr','act','learning');" href="http://learning.snagfilms.com/film/bring-your-a-game" title="Bring Your A Game">Bring Your A Game</a></div>
-					from <a class="src" target="_blank" onclick="pageTracker._trackEvent('rr','act','learning');" href="http://learning.snagfilms.com" title="SnagLearning">SnagLearning »</a>
-				</div>
-
-
-				<div class="clearme"><!-- 0 --></div>
-			</div>
-		</div>
-		<div class="item_container last">
-			<div class="item" style="position:relative;width:260px;overflow:hidden;">
-
-				<a onclick="pageTracker._trackEvent('rr','act','sts');" href="http://www.snagfilms.com/films/sitesthatsnag/"><div style="float:left;width:40px;height:30px;border:1px solid #efefef;background-position:-87px -1359px;" class="csprite"><!-- 0 --></div></a>
-				<div class="text" style="position:relative;">
-					<div class="info" style="position:relative;"><a onclick="pageTracker._trackEvent('rr','act','sts');" href="http://www.spinner.com/">Spinner</a></div>
-					from <a class="src" onclick="pageTracker._trackEvent('rr','act','sts');" href="http://www.snagfilms.com/films/sitesthatsnag/">Sites That Snag »</a>
-				</div>
-
-				<div class="clearme"><!-- 0 --></div>
-			</div>
-		</div>
-	</div>	
-</div>
-					</div>
-				</td>
-			</tr>
-
-
-<tr>
-	<td class="col1">
-		<div class="links_container" style="margin-top:20px;font-size:11px;">
-			<div style="line-height:14px;"><img class="fleft" src="http://ec.snagfilms.com/i_v2/icon_rss_sm2.gif" alt="RSS">&nbsp;<a target="_blank" href="http://fb.snagfilms.com/SnagFilmsMostPopular" title="Most Popular">Most Popular</a> | <a target="_blank" href="http://fb.snagfilms.com/SnagFilmsUserFavorites" title="Top Rated">Top Rated</a> | <a href="http://fb.snagfilms.com/SnagFilmsMostDiscussed" title="Most Discussed">Most Discussed</a> | <a target="_blank" href="http://fb.snagfilms.com/SnagFilmsRecentAdditions" title="Newest">Newest</a></div>
-			<div style="margin:8px 0px;"><a href="/films/about" title="About Us">About Us</a> | <a href="/films/team" title="Team">Team</a> | <a href="/films/news" title="News">News</a> | <a href="/films/press" title="Press">Press</a> | <a href="/films/profile" title="Filmmakers">Filmmakers</a> | <a href="/films/privacy" title="Privacy">Privacy</a> | <a href="/films/terms" title="Terms">Terms</a> | <a href="/films/report" title="Report Abuse">Report Abuse</a> | <a href="/films/feedback" title="Feedback">Feedback</a> | <a href="/films/moviematcher" title="MovieMatcher">MovieMatcher</a> | <a href="http://learning.snagfilms.com" title="SnagLearning">SnagLearning</a></div>
-		</div>
-	</td>
-	<td class="col2"><!-- 0 --></td>
-</tr>
-			</tbody></table>
-		</div>
-	</div>
-
-
-<div id="footer" class="sprite"> 
-	<div class="content"><a target="_blank" href="http://www.moviefone.com/"><div class="logo csprite"><!-- 0 --></div></a></div>
-</div>
-<div class="clearme"><!-- 0 --></div>
-<div class="content">
-	<div class="links_container" id="links_secondary_container">
-		<div class="links"><span class="label">More Topics</span>: <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/arts/"><h4>Arts</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/campus/"><h4>Campus</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/environment/"><h4>Environment</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/health/"><h4>Health</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/history/"><h4>History</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/international/"><h4>International</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/life_and_culture/"><h4>Life &amp; Culture</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/music/"><h4>Music</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/political/"><h4>Political</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/religion_spirituality/"><h4>Religion &amp; Spirituality</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/science_and_nature/"><h4>Science &amp; Nature</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/short_form/"><h4>Short Form</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/sports_amp_hobby/"><h4>Sports &amp; Hobby</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/war/"><h4>War</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/womens_issues/"><h4>Women's Issues</h4></a> &nbsp; </div>
-		<div class="links"><span class="label">More Channels</span>: <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/alive_mind/"><h4>Alive Mind</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/bento_box/"><h4>Bento Box</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/blue_legacy/"><h4>Blue Legacy</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/brave_new_films/"><h4>Brave New Films</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/cactus_three/"><h4>Cactus Three</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/campus_movie_fest/"><h4>Campus Movie Fest</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/castle_hill/"><h4>Castle Hill</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/cine/"><h4>CINE</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/cinelan_three_minute_stories/"><h4>Cinelan Three-Minute Stories</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/content_film/"><h4>Content Film</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/content_republic/"><h4>Content Republic</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/disinformation/"><h4>Disinformation</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/doc_challenge/"><h4>Doc Challenge</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/e1/"><h4>E1</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/explore/"><h4>Explore</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/fanlight/"><h4>Fanlight</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/feeling_the_heat_with_jeff_corwin/"><h4>Feeling the Heat with Jeff Corwin</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/filmbuff/"><h4>FilmBuff</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/great_museums/"><h4>Great Museums</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/icarus_films/"><h4>Icarus Films</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/img/"><h4>IMG</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/indieflix/"><h4>IndieFlix</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/indiepix/"><h4>IndiePix</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/itvs/"><h4>ITVS</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/kartemquin_films/"><h4>Kartemquin Films</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/leonard_maltin_secrets_out/"><h4>Leonard Maltin - Secret's Out</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/link_tv/"><h4>Link TV</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/lionsgate/"><h4>Lionsgate</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/media_that_matters/"><h4>Media that Matters</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/national_geographic/"><h4>National Geographic</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/national_film_board_of_canada/"><h4>National Film Board of Canada</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/new_video/"><h4>New Video</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/nina_gilden_seavey_films/"><h4>Nina Gilden Seavey Films</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/palm_pictures/"><h4>Palm Pictures</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/pbs/"><h4>PBS</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/peter_jennings_reporting/"><h4>Peter Jennings Reporting</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/red_bull/"><h4>Red Bull</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/reel_geezers/"><h4>Reel Geezers</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/seventh_art_releasing/"><h4>Seventh Art Releasing</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/shootout/"><h4>Shootout</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/sundance/"><h4>Sundance</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/usc_school_of_cinematic_arts/"><h4>USC School of Cinematic Arts</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/vbs_tv/"><h4>VBS TV</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/virgil_films_entertainment/"><h4>Virgil Films &amp; Entertainment</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/westlake/"><h4>Westlake</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/browse/category/xplr/"><h4>XPLR</h4></a> &nbsp; </div>
-		<div class="links"><span class="label">More Featured Sections</span>: <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/sections/category/snagapalooza_10/"><h4>Snagapalooza '10</h4></a> &nbsp; <a style="white-space:nowrap;" href="/films/remembrance"><h4>9/11: A Remembrance in Film</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/sections/category/earth_day_2010/"><h4>Earth Day 2010</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/sections/category/economy/"><h4>Economy</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/sections/category/issues_08_education/"><h4>Education</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/sections/category/issues_08_electoral_process/"><h4>Electoral Process</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/sections/category/issues_08_energy/"><h4>Energy</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/sections/category/issues_08_environment/"><h4>Environment</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/sections/category/issues_08_government_ethics_partisanship/"><h4>Government Ethics &amp; Partisanship</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/sections/category/issues_08_healthcare/"><h4>Healthcare</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/sections/category/issues_08_immigration/"><h4>Immigration</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/sections/category/issues_08_individual_rights/"><h4>Individual Rights</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/sections/category/issues_08_national_security_iraq_war/"><h4>National Security &amp; Iraq War</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/sections/category/veterans_day_2010/"><h4>Veterans Day 2010</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/sections/category/stop_aids_keep_the_promise/"><h4>Stop AIDS. Keep the Promise.</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/sections/category/super_size_me_selects/"><h4>Super Size Me Selects</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/sections/category/snagfilms_presents_top_ten_films_of_year_one/"><h4>Top Ten Films of Year One</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/sections/category/uso_theater/"><h4>USO Theater</h4></a> &nbsp; <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/sections/category/veterans_day_2009/"><h4>Veterans Day 2009</h4></a> &nbsp; </div>
-		<div class="links"><span class="label">More Filmmaker Profiles</span>: <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/profile/michael_brown/"><h4>Michael Brown</h4></a> &nbsp;  <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/profile/filmmaker_profile_karen_cantor_camilla_kjaerulff/"><h4>Karen Cantor</h4></a> &nbsp;  <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/profile/filmmaker_profile_marc_doyle/"><h4>Marc Doyle</h4></a> &nbsp;  <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/profile/seethink_films/"><h4>SeeThink Films</h4></a> &nbsp;  <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/profile/ovo/"><h4>OVO Films</h4></a> &nbsp;  <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/profile/filmmaker_profile_brett_gaylor/"><h4>Brett Gaylor</h4></a> &nbsp;  <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/profile/david_gaynes/"><h4>David Gaynes</h4></a> &nbsp;  <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/profile/les_guthman/"><h4>Les Guthman</h4></a> &nbsp;  <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/profile/filmmaker_profile_jim_killeen/"><h4>Jim Killeen</h4></a> &nbsp;  <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/profile/matthew_ogens/"><h4>Matthew Ogens</h4></a> &nbsp;  <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/profile/filmmaker_profile_stephen_palgon/"><h4>Stephen Palgon</h4></a> &nbsp;  <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/profile/filmmaker_profile_michael_patrei/"><h4>Michael Patrei</h4></a> &nbsp;  <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/profile/paul_perrier/"><h4>Paul Perrier</h4></a> &nbsp;  <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/profile/pete_schuermann/"><h4>Pete Schuermann</h4></a> &nbsp;  <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/profile/filmmaker_profile_angela_shelton/"><h4>Angela Shelton</h4></a> &nbsp;  <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/profile/filmmaker_profile_kobi_and_ron_shely/"><h4>Kobi and Ron Shely</h4></a> &nbsp;  <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/profile/morgan_spurlock/"><h4>Morgan Spurlock</h4></a> &nbsp;  <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/profile/ondi_timoner/"><h4>Ondi Timoner</h4></a> &nbsp;  <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/profile/filmmaker_profile_stuart_urban/"><h4>Stuart Urban</h4></a> &nbsp;  <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/profile/w_tray_white/"><h4>Tray White</h4></a> &nbsp;  <a style="white-space:nowrap;" href="http://www.snagfilms.com/films/profile/filmmaker_profile_joe_wilson_and_dean_hamer/"><h4>Joe Wilson</h4></a> </div>
-		<br>© Copyright 2008-2011 SnagFilms LLC. All Rights Reserved
-	</div>
-</div>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-3922545-1"); pageTracker._initData(); pageTracker._trackPageview();
-</script>
-<!-- Start Quantcast tag -->
-<script type="text/javascript">
-_qoptions={qacct:"p-c1zCil38GHR-I"};
-</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript>
-<a href="http://www.quantcast.com/p-c1zCil38GHR-I" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-c1zCil38GHR-I.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-</noscript>
-<!-- End Quantcast tag -->
-
-<script type="text/javascript">
-var _sf_async_config={uid:2953,domain:"snagfilms.com"};
-(function(){
-  function loadChartbeat() {
-    window._sf_endpt=(new Date()).getTime();
-    var e = document.createElement('script');
-    e.setAttribute('language', 'javascript');
-    e.setAttribute('type', 'text/javascript');
-    e.setAttribute('src',
-       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
-       "static.chartbeat.com/js/chartbeat.js");
-    document.body.appendChild(e);
-  }
-  var oldonload = window.onload;
-  window.onload = (typeof window.onload != 'function') ?
-     loadChartbeat : function() { oldonload(); loadChartbeat(); };
-})();
-</script>
-<script type="text/javascript" src="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/1780.js"></script>
-
-
-
+<div id="pageWrapper" class="grid2"><div id="pageHeader">
+    <div class="top clrfix">
+        <a class="logo" href="/">SnagFilms</a>
+        <div class="headerAd">
+            <script type="text/javascript">
+                document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5182/2215570/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
+            </script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5182/2215570/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];misc=1580395997979"></script>
+        </div>
+        <div class="clear-both"></div>
+    </div> <!-- end top -->
+    <div class="loginBar">
+        <div class="main-login clrfix">
+            <ul class="clear">
+                <li class="facebook last">
+                            <button class="btn-fb">Login or Sign Up</button>
+                        </li>
+                    </ul>
+        </div><!-- end main login -->
+        </div> <!-- end login Bar -->
+    
+    <div class="navBar">
+        <ul class="nav clrfix">
+            <li class="home">
+                <span class="nav-corner"></span>
+                <div class="tab"><a href="/">HOME</a></div>
+            </li>
+            <li class="tab-browse">
+                <span class="nav-corner"></span>
+                <div class="tab"><a href="/films/browse/">BROWSE FILMS</a></div>
+                <div class="dropdown">
+                    <ul>
+                        <li><a href="/films/browse/?sort=likes">Most Liked</a></li>
+                        <li><a href="/films/browse/?sort=newest">New Arrivals</a></li>
+                        <li><a href="/films/browse/?sort=alpha">A-Z</a></li>
+                    </ul>
+                    <ul>
+                        <li><h3>Categories</h3></li>
+                        <li><a title="Adventure &amp; Sports Movies" href="/films/browse/category/adventure_sports">Adventure &amp; Sports</a></li>
+                        <li><a title="Art &amp; Music Movies" href="/films/browse/category/art_music">Art &amp; Music</a></li>
+                        <li><a title="Award-Winning Movies" href="/films/browse/category/award_winning">Award-Winning</a></li>
+                        <li><a title="Celebrities &amp; Fame  Movies" href="/films/browse/category/celebrities_fame">Celebrities &amp; Fame </a></li>
+                        <li><a title="Comedy Movies" href="/films/browse/category/comedy">Comedy</a></li>
+                        <li><a title="Drama Movies" href="/films/browse/category/drama">Drama</a></li>
+                        <li><a title="Fascinating People Movies" href="/films/browse/category/real_people_true_stories">Fascinating People</a></li>
+                        <li><a title="Family Friendly Movies" href="/films/browse/category/family_friendly">Family Friendly</a></li>
+                        <li><a title="Festival Films" href="/films/browse/category/festival">Festival Films</a></li>
+                        <li><a title="Health &amp; Food Movies" href="/films/browse/category/health_food">Health &amp; Food</a></li>
+                        <li><a title="History Movies" href="/films/browse/category/history">History</a></li>
+                        <li><a title="Pop Culture Movies" href="/films/browse/category/pop_culture">Pop Culture</a></li>
+                        <li><a title="Romance Movies" href="/films/browse/category/romance">Romance</a></li>
+                        <li><a title="Science &amp; Nature Movies" href="/films/browse/category/science_nature">Science &amp; Nature</a></li>
+                        <li><a title="Short Films" href="/films/browse/category/short_films">Short Films</a></li>
+                        <li><a title="Social Issues &amp; Politics Movies" href="/films/browse/category/social_issues_politics">Social Issues &amp; Politics</a></li>
+                        <li><a title="Thriller Movies" href="/films/browse/category/thriller">Thriller</a></li>
+                        </ul>
+                    <a class="viewall" href="/films/browse/category/">All Categories <span class="arrow">»</span></a>
+                </div> <!-- end dropdown -->
+            </li>
+            <li class="channels">
+                <span class="nav-corner"></span>
+                <div class="tab"><a href="/films/browse/channel/">CHANNELS</a></div>
+                <div class="dropdown">
+                    <ul>
+                        <li><h3>POPULAR CHANNELS</h3></li>
+                        <li><a title="Celeb Interviews | Shootout Movies" href="/films/browse/category/shootout">Celeb Interviews | Shootout</a></li>
+                        <li><a title="Content Film Movies" href="/films/browse/category/content_film">Content Film</a></li>
+                        <li><a title="Alternative | Disinformation Movies" href="/films/browse/category/disinformation">Alternative | Disinformation</a></li>
+                        <li><a title="Exploration | XPLR Movies" href="/films/browse/category/xplr">Exploration | XPLR</a></li>
+                        <li><a title="FilmBuff Movies" href="/films/browse/category/filmbuff">FilmBuff</a></li>
+                        <li><a title="Kino Lorber Movies" href="/films/browse/category/kino_lorber">Kino Lorber</a></li>
+                        <li><a title="Lionsgate Movies" href="/films/browse/category/lionsgate">Lionsgate</a></li>
+                        <li><a title="Music Videos | MVD  Movies" href="/films/browse/category/mvd">Music Videos | MVD </a></li>
+                        <li><a title="National Geographic Movies" href="/films/browse/category/national_geographic">National Geographic</a></li>
+                        <li><a title="New Video Movies" href="/films/browse/category/new_video">New Video</a></li>
+                        <li><a title="Shorts | Media that Matters Movies" href="/films/browse/category/media_that_matters">Shorts | Media that Matters</a></li>
+                        <li><a title="Travel | Content Republic Movies" href="/films/browse/category/content_republic">Travel | Content Republic</a></li>
+                        <li><a title="Wildlife | Jeff Corwin Movies" href="/films/browse/category/feeling_the_heat_with_jeff_corwin">Wildlife | Jeff Corwin</a></li>
+                        </ul>
+                    <a class="viewall" href="/films/browse/channel/">All Channels <span class="arrow">»</span></a>
+                </div> <!-- end dropdown -->
+            </li>
+            <li class="filmanthropy">
+                <span class="nav-corner"></span>
+                <div class="tab"><a href="/films/browse/filmanthropy/">FILMANTHROPY</a></div>
+                <div class="dropdown">
+                    <ul>
+                        <li><h3>SUPPORT THESE CAUSES</h3></li>
+                        <li><a href="/films/browse/filmanthropy/build-community">Build Community</a></li>
+                        <li><a href="/films/browse/filmanthropy/connect-to-a-higher-power">Connect to a Higher Power</a></li>
+                        <li><a href="/films/browse/filmanthropy/empower-women">Empower Women</a></li>
+                        <li><a href="/films/browse/filmanthropy/encourage-healthy-living">Encourage Healthy Living</a></li>
+                        <li><a href="/films/browse/filmanthropy/examine-globalization">Examine Globalization</a></li>
+                        <li><a href="/films/browse/filmanthropy/explore-arts-and-culture">Explore Arts and Culture</a></li>
+                        <li><a href="/films/browse/filmanthropy/fight-poverty">Fight Poverty</a></li>
+                        <li><a href="/films/browse/filmanthropy/investigate-the-natural-world">Investigate the Natural World</a></li>
+                        <li><a href="/films/browse/filmanthropy/protect-the-environment">Protect the Environment</a></li>
+                        </ul>
+                    <a class="viewall" href="/films/browse/filmanthropy/">All Causes <span class="arrow">»</span></a>
+                </div> <!-- end dropdown -->
+            </li>
+            <li class="nav-queue">
+                <span class="nav-corner"></span>
+                <div class="tab"><a href="#">YOUR QUEUE </a></div>
+                <div class="dropdown">
+                    <div class="queue-login">
+                                        <b>Please login or register to save films to your queue and more.</b>
+                                        <button class="btn-fb">Login with Facebook</button>
+                                    </div>
+                                </div> <!-- end dropdown -->
+            </li>
+            <li class="search">
+                <form class="sBar clear" action="/films/search" method="get">
+                    <input name="q" class="sBox" type="text" placeholder="Search 3,000 Films">
+                        <input class="search" type="submit" value="SEARCH">
+                </form>
+                <div class="clear-both"></div>
+            </li>
+        </ul>
+    </div> <!-- end nav bar -->
+</div> <!-- end page header --><div id="contentWrapper" class="clrfix"><ul class="breadcrumb clrfix">
+    <li><a href="/">Home</a>&nbsp; &gt;</li>
+    
+    <li><a href="/films/about">About</a>&nbsp; &gt;</li>
+            <li>Privacy Policy</li>
+        </ul>
+<div id="col1"><div class="sideNav">
+    <span class="topCorner"></span>
+    <ul>
+        <li>
+                <a href="/films/about">About Our Site</a>
+               <span class="marker"></span>
+            </li>
+        <li>
+                <a href="/films/our-company">Our Company</a>
+               <span class="marker"></span>
+            </li>
+        <li>
+                <a href="/films/team">Team</a>
+               <span class="marker"></span>
+            </li>
+        <li>
+                <a href="/films/jobs/">Jobs</a>
+               <span class="marker"></span>
+            </li>
+        <li class="selected">
+                <a href="/films/privacy">Privacy Policy</a>
+               <span class="marker"></span>
+            </li>
+        <li>
+                <a href="/films/terms">Terms of Use</a>
+               <span class="marker"></span>
+            </li>
+        </ul>
+</div></div><div id="col2"><div class="article">
+    <h1>Privacy Policy</h1>
+    <p>
+	Thank you for visiting SnagFilms. Your privacy is important to us and we know that you care about how we protect your information. This policy covers information SnagFilms collects when you use our service, as well the nature of our relationships with certain third parties that provide services in connection with SnagFilms. We invite you to review this policy explaining how your information is collected, used and shared by SnagFilms.</p>
+<p>
+	SnagFilms provides an online video service offering a selection of movies, clips and other content (collectively, “Content”) available on the SnagFilms.com website (the “SnagFilms Site”), SnagFilms’s affiliate and distribution partner websites (“Distribution Sites”), and other websites where users may embed the Content (these websites, together with the SnagFilms Site and Distribution Sites, are referred to collectively as the “Sites”). Our video service, including the Content, video player, and any other features, tools, applications, materials or other services offered from time to time by SnagFilms in connection with its business on any of the Sites are referred to collectively as the “SnagFilms Services.” Our website is based in the United States.</p>
+<p>
+	By visiting the SnagFilms Site (whether or not you are a registered member) or using any of the SnagFilms Services on any of the Sites, you are accepting this Privacy Policy. If you do not want information about you to be used in the manner set forth in this Privacy Policy, please do not use the SnagFilms Services.</p>
+<p>
+	<strong>INFORMATION WE COLLECT</strong></p>
+<p>
+	Through our Services, users can, among other things, subscribe to and use all our services, view streaming videos, snag embeddable players, post comments, order products via third party products and services. We may collect certain non-personally identifiable information when you visit many of our web pages, such as usage behavior, number of pages visited, the number and type of videos streamed, the number of players snagged, the type of browser you are using (e.g., Firefox, Internet Explorer, Chrome), the type of operating system you are using (e.g., Microsoft Windows or Mac OS), and the domain name of your Internet service provider (e.g., AOL, Earthlink).</p>
+<p>
+	We may also collect personally identifiable information, including the following:</p>
+<ul>
+	<li>
+		information you provide to us, including your name, email address, location, birth date, gender, likes, interests, and friends on third party sites;</li>
+	<li>
+		information automatically collected when you use our Services, such as your location and information collected via cookies, web beacons, or embedded data collection technologies;</li>
+	<li>
+		information from other commercially available sources, such as data aggregators, public databases, or our business partners, which may include your interests, purchasing behavior and your online activities, such as websites visited and advertisements viewed.</li>
+</ul>
+<p>
+	We may combine all of the information we collect about you and use it individually or collectively in the manner described in this Privacy Policy.</p>
+<p>
+	At certain parts of the SnagFilms Site, (e.g. to post a comment to our blog, post a comment on the user comment section, sign up for our e-newsletter, responding surveys) only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the relevant activities and offerings.</p>
+<p>
+	<strong>HOW WE USE THE INFORMATION WE COLLECT</strong></p>
+<p>
+	We may use the information you provide about yourself in order to establish and enhance our relationship with you and to improve the user experience we provide.</p>
+<p>
+	SnagFilms’s use of this information includes the following general purposes: customizing the content and advertising you view; responding to your inquiries about our offerings; fulfilling your requests for products, programs or services; offering products, programs or services we believe may be of interest to you; identifying the comments you post when you use the SnagFilms Services; improving our services; conducting research; compiling aggregate data for internal and external business purposes; preventing potentially illegal activities; protecting our rights; and other uses in accordance with our Terms of Use; and for any other purpose disclosed to you at the time we collect your information.</p>
+<p>
+	While using the SnagFilms Site you will have opportunities to comment on movies and individual pages. If you choose to submit content for publication, we may publish your screen name and other information you have provided to us. Please understand that when you post such information, it is made public and is not subject to this policy.</p>
+<p>
+	We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.</p>
+<p>
+	Anonymous data is information (whether it was originally personally identifiable or non-personally identifiable) that subsequently is used in aggregate form. We may use anonymous data for purposes of research or analysis. We may conduct research on our customer demographics, internet usage, and interests and behavior based on personal data we gather. Although anonymous data may be based in part on personal data, it does not identify you personally. SnagFilms may share this type of anonymous data with a variety of third parties, including its affiliates, advertisers and other current and prospective business partners. Because the information is anonymous, these third parties will not be able to contact you based on this data.</p>
+<p>
+	We may also use anonymous data collected for website administration, advertising and promotional purposes, and we may share such information with various affiliated and unaffiliated entities for such purposes. IP addresses are also used to provide anonymous aggregated data to advertisers about the volume of use on the SnagFilms Services, and non-personally identifiable information about your activities may be used to customize advertising messages. Anonymous usage and demographic information may also be shared with our advertisers and business partners.</p>
+<p>
+	We sometimes use your information to communicate with you, such as to notify you when we make changes to the SnagFilms Site or to fulfill a request by you to receive our weekly newsletter.</p>
+<p>
+	SnagFilms may display targeted advertisements based on personal information. SnagFilms does not provide any personal information to the advertiser when you interact with or view a targeted ad, although advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria. We may also use your personal information to provide you with promotional information about SnagFilms’s features, services, and other offerings that may be of interest to you, or to provide information or offers to you that are related to the SnagFilms Services on behalf of our business partners. We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency’s request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to verify or enforce compliance with the policies governing our Web Site and applicable laws or as otherwise required or permitted by law or consistent with legal requirements.</p>
+<p>
+	In addition, we may transfer personally identifiable information about you if we, or one of our business units, are acquired by, sold to, or merged with another company. Agents and contractors who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Statement by, for example, not using the information for any purpose other than to carry out the services they are performing for us.</p>
+<p>
+	SnagFilms enables and encourages users to “snag” or take embeddable players with our films and related content from our site, and to embed these players on personal web pages, blogs, and other sites operated by third parties whose policies regarding the handling of personal information may differ from ours. We hope that you will take our films with you via the embeddable player and enjoy and share them in this way; please read the privacy policies of the sites where you embed a player, as SnagFilms cannot be responsible for the information handling practices of these other sites.</p>
+<p>
+	Finally, SnagFilms stores information about which films you view in streaming flash format. This information is currently not used but may be used in the future without notice to determine Website usage patterns.</p>
+<p>
+	We will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.</p>
+<p>
+	<strong>HOW WE WORK WITH SOCIAL NETWORKS AND SERVICE PROVIDERS </strong></p>
+<p>
+	You can use the SnagFilms Services on third party social networks, such as Facebook, and connect with third party social networks through the SnagFilms Services.</p>
+<p>
+	To customize your experience on the Site, we provide you with the opportunity to access or interact with these third party services. When you connect to the Site through third party services, we may share information about you with these third party service providers and they may share data about you with us, including as follows:</p>
+<ul>
+	<li>
+		If you connect with a third party service, you will be able to publish information about your activities on the SnagFilms Services, such as your comments or the videos you watch, to that service by adjusting your settings on your Profile page. Please note that when you choose to publish your information from SnagFilms.com or another website or platform to social networking services, that information will be visible to users of those services, in accordance with applicable law and the privacy policies of those services. We recommend that you familiarize yourself with the services’ privacy policies and privacy controls.</li>
+</ul>
+<ul>
+	<li>
+		If you visit SnagFilms.com while logged into one of these services, the third party service provider may be able to identify you and to associate the technical information provided by your web browser with other information the service already has about you.</li>
+	<li>
+		We may also share your information with companies that provide services to third parties as part of that transaction.</li>
+</ul>
+<p style="margin-left:.25in;">
+	SnagFilms’s privacy and settings options give you the option to control certain information in your profile (other than your first and last name) and how your information and activities are shared when you use the SnagFilms Services. Please note that some of your settings are set to share information with others, including when you choose to connect with a social networking service. You can change your privacy settings at any time by logging in and clicking “Manage Profile” and “Account Settings” under your name in the top right corner of the Site. In this way, you can control the sharing of certain information with other SnagFilms users and the publication of information to social networking services.</p>
+<p>
+	If you use the SnagFilms Services on a social networking website or platform, your SnagFilms profile information and information about your use of the SnagFilms Services will be shared with the social networking service and users of that service, in accordance with applicable law and the privacy policies of the services.</p>
+<p>
+	You can stop the delivery of commercial email messages from SnagFilms by following the instructions at the bottom of any such email you receive.</p>
+<p>
+	Please note that you may delete your account and third party connections at any time in the “Profile” section. You also may be able to modify your privacy settings directly with the third party service.</p>
+<p>
+	Please remember that we do not control the privacy practices of these third party services. We encourage you to read the privacy policies of all third party service providers.</p>
+
+<p>
+	<strong>COOKIES &amp; WEB BEACONS</strong></p>
+<p>
+	To enhance your experience, many of our web pages use “cookies.” Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site) or save your password in password-protected areas.</p>
+<p>
+	“Web beacons” or clear .gifs are small pieces of code placed on a web page to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page. We may and other third party sites may use web beacons on this site from time to time for this and other purposes.</p>
+<p>
+	<strong>COLLECTION OF INFORMATION BY THIRD PARTY SITES, AD SERVERS, AND SPONSORS</strong></p>
+<p>
+	Some of our pages contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites’ privacy notices. Please be aware that SnagFilms does not warn you when you have chosen to link through to another website from the SnagFilms Site.</p>
+<p>
+	SnagFilms sometimes may offer content that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties’ use of this information.</p>
+<p>
+	SnagFilms may use a reputable third party to present or serve the advertisements that you may see at its Web pages. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements’ effectiveness. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy statement. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:&nbsp;<a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a>.</p>
+<p>
+	<strong>OUR COMMITMENT TO SECURITY</strong></p>
+<p>
+	We have put in place industry-standard physical, technical, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.</p>
+<p>
+	Unfortunately, no security system can be guaranteed to be 100% secure. Accordingly, we cannot guarantee the security of your personal information and cannot assume liability for improper access to it. By using this Web site, or providing personal information to us through any means, you do so at your own risk and you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of this site.</p>
+<p>
+	<strong>OUR COMMITMENT TO THE PRIVACY OF CHILDREN</strong></p>
+<p>
+	Protecting the privacy of young children is important to us. Snagfilms does not knowingly collect or maintain personally identifiable information or non-personally identifiable information from persons under 13 years of age, and no part of our site is directed to persons under 13. If you are under 13 years of age, then please do not use or access our web site or player at any time or in any manner. If SnagFilms learns that personally identifiable information of persons less than 13 years of age has been collected on the this site without verified parental consent, then SnagFilms will take the appropriate steps to delete this information.</p>
+<p>
+	<strong>HOW TO CONTACT US</strong></p>
+<p>
+	If you have any questions or concerns about the online privacy statement for this site or its implementation you may contact us at&nbsp;<a href="mailto:feedback@snagfilms.com">feedback@snagfilms.com</a>.</p>
+<p>
+	<strong>UPDATES &amp; EFFECTIVE DATE</strong></p>
+<p>
+	From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. If you do not agree with any changes to the Privacy Policy, you must leave the SnagFilms Site and discontinue any use of the SnagFilms Services. Any visit to the SnagFilms Site or use of the SnagFilms Services on any of the Sites by you after the new Privacy Policy is posted will indicate your agreement to the new Policy.</p>
+<p>
+	The Privacy Statement posted on this site was updated on or about September 23, 2011.</p></div>
+</div></div><div id="pageFooter"><div class="recirculation-module">
+        <div class="carousel">
+
+        </div>
+    </div><div class="footer">
+    <a class="fLogo" href="/">SnagFilms</a>
+    <div class="clear-both"></div>
+    <ul class="fnav clrfix">
+        <li><a class="noPad" href="/">HOME</a></li>
+        <li><a href="/films/browse/category/">BROWSE FILMS</a></li>
+        <li><a href="/films/browse/channel/">CHANNELS</a></li>
+        <li><a href="/films/browse/filmanthropy/">FILMANTHROPY</a></li>
+        <li class="search">
+            <form class="sBar clrfix" action="/films/search" method="get">
+                <input name="q" class="sBox" type="text" placeholder="Search 3,000 Films">
+                <input class="search" type="submit" value="SEARCH">
+                <div class="clear-both"></div>
+            </form>
+        </li>
+    </ul>
+    <div class="fsubnav clrfix">
+        <ul class="clrfix flinks">
+            <li>
+                    <a href="/films/about">About Our Site</a></li>
+            <li>
+                    <a href="/films/our-company">Our Company</a></li>
+            <li>
+                    <a href="/films/team">Team</a></li>
+            <li>
+                    <a href="/films/feedback">Feedback</a></li>
+            <li>
+                    <a href="/films/frequently_asked_questions">FAQ</a></li>
+            <li>
+                    <a href="/films/feedback?ftype=problem">Report an Issue</a></li>
+            <li>
+                    <a href="/films/sitemap">Sitemap</a></li>
+            <li>
+                    <a href="http://itunes.apple.com/us/app/snagfilms/id404906625?mt=8">iPad App</a></li>
+            <li>
+                    <a href="https://market.android.com/details?id=air.com.snagfilms&amp;feature=search_result#?t=W251bGwsMSwyLDEsImFpci5jb20uc25hZ2ZpbG1zIl0." target="_blank">Android</a></li>
+            <li>
+                    <a href="http://www.amazon.com/SnagFilms-Inc-Beta/dp/B006BGXIO2/ref=sr_1_2?ie=UTF8&amp;qid=1323709141&amp;sr=8-2" target="_blank">Kindle Fire</a></li>
+            <li>
+                    <a href="http://appworld.blackberry.com/webstore/content/64991?lang=en" target="_blank">Blackberry</a></li>
+            <li>
+                    <a href="http://snagfilms.tumblr.com/post/4776522589/snagfilms-top-quality-documentaries-arrive-on-boxee" target="_blank">Boxee</a></li>
+            <li>
+                    <a href="http://www.businesswire.com/news/home/20110531006294/en/SnagFilms-launches-Roku-Acclaimed-Non-Fiction-Films" target="_blank">Roku</a></li>
+            <li>
+                    <a href="/films/submissions">Submit Your Film</a></li>
+            <li>
+                    <a href="/films/blog/category/press">Press</a></li>
+            <li>
+                    <a href="/films/blog">Blog</a></li>
+            <li>
+                    <a href="/films/advertise">Advertise</a></li>
+            <li>
+                    <a href="http://indieWIRE.com" target="_blank">Indiewire</a></li>
+            <li>
+                    <a href="http://www.moviefone.com" target="_blank">Moviefone</a></li>
+            <li>
+                    <a href="http://www.snaglearning.com" target="_blank">SnagLearning</a></li>
+            <li>
+                    <a href="/films/jobs">Jobs</a></li>
+            <li>
+                    <a href="/films/privacy">Privacy</a></li>
+            <li>
+                    <a href="/films/terms" class="last">Terms</a></li>
+            </ul>
+        <ul class="clrfix fconnect">
+            <li><span>Connect With SnagFilms:</span></li>
+                <li><a target="_blank" href="http://www.facebook.com/snagfilms">Facebook</a></li>
+                <li><a target="_blank" href="http://twitter.com/#!/snagfilms">Twitter</a></li>
+                <li><a target="_blank" href="/films/rss">RSS</a></li>
+                <li class="nl">
+                    <a id="newsletter-footer" class="last newsletter" href="#">Newsletter</a>
+                    <div id="newsletter-footer-frame-wrap" class="popup hidden ">
+    <iframe class="nl-frame" id="newsletter-footer-frame" src="" scrolling="no"></iframe>
+</div> <!-- end popup --></li>
+            </ul>
+    </div> <!-- end fsubnav -->
+    <div class="cright">© Copyright 2008-2011 SnagFilms Inc. All Rights Reserved</div>
+    </div> <!-- end footer --></div></div><script>
+            var SNAG = {};
+            SNAG.loggedIn = false;
+        </script>
+        <div id="queue-login" class="alt">Please login. <button class="btn-fb">Login</button></div>
+        <!-- Quantcast -->
+        <script type="text/javascript">
+          var _qevents = _qevents || [];
+          (function() {
+           var elem = document.createElement('script');
+           elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+           elem.async = true;
+           elem.type = "text/javascript";
+           var scpt = document.getElementsByTagName('script')[0];
+           scpt.parentNode.insertBefore(elem, scpt);
+          })();
+        </script>
+        <script type="text/javascript">
+        _qevents.push( { qacct:"p-c1zCil38GHR-I"} );
+        </script>
+        <noscript>
+        <div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-c1zCil38GHR-I.gif" height="1" width="1" alt="Quantcast"/></div>
+        </noscript>
+        <!-- Omniture -->
+        <script type="text/javascript">
+            function runOmni() {
+                s_265.pfxID="mov";
+                s_265.pageName=document.title;
+                s_265.channel="us.snagfilm";
+                s_265.linkInternalFilters="javascript:,snagfilms.com";
+                s_265.prop1="snagfilm";
+                s_265.prop12=document.URL.split('?')[0];
+                s_265.mmxgo=true;
+                var s_code=s_265.t();
+            }
+            s_account ="aolmovblog,aolsvc";
+            (function(){
+                var d = document, s = d.createElement('script');
+                s.type = 'text/javascript';
+                s.src = (location.protocol == 'https:' ? 'https://s' : 'http://o')
+                    + '.aolcdn.com/omniunih.js';
+                d.getElementsByTagName('head')[0].appendChild(s);
+            })();
+        </script>
+        <!-- Chartbeat -->
+        <script type="text/javascript">
+            var _sf_async_config={uid:2953,domain:"snagfilms.com"};
+            (function(){
+              function loadChartbeat() {
+                window._sf_endpt=(new Date()).getTime();
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+                e.setAttribute('src',
+                   (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+                   "static.chartbeat.com/js/chartbeat.js");
+                document.body.appendChild(e);
+              }
+              var oldonload = window.onload;
+              window.onload = (typeof window.onload != 'function') ?
+                 loadChartbeat : function() { oldonload(); loadChartbeat(); };
+            })();
+        </script>
+        <!-- Crazy Egg -->
+        <script type="text/javascript">
+            setTimeout(function(){var a=document.createElement("script");
+            var b=document.getElementsByTagName('script')[0];
+            a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/7880.js";
+            a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+        </script>
+        <!-- Site Meter -->
+        <script type="text/javascript" src="http://sm8.sitemeter.com/js/counter.js?site=sm8snagfilms"></script>
+        <noscript><a href="http://sm8.sitemeter.com/stats.asp?site=sm8snagfilms" target="_top"><img src="http://sm8.sitemeter.com/meter.asp?site=sm8snagfilms" alt="Site Meter" border="0"/></a></noscript>
+    
 <script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
