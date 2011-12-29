@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freecharge.in privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625110047id_/http%3A//www.freecharge.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecharge.in privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229205108id_/http%3A//www.freecharge.in/privacy-policy.php) for the most accurate reproduction.*
 
-# FREECHARGE - Free Online Prepaid Mobile Recharge
+# Privacy Policy |Freecharge.in - India's Top Online Prepaid Mobile Recharge Service Providers
 
 We are committed towards protecting your privacy. Authorized employees within the company on a need to know basis only use any information collected from individual customers. We constantly review our systems and data to ensure the best possible data security to our customers. Incase of any failures, we will investigate all actions with a view to prosecuting and/or taking civil proceedings to recover damages against those responsibe.
 
