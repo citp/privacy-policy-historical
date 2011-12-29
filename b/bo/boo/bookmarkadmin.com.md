@@ -1,63 +1,100 @@
-> *The following text is extracted and transformed from the bookmarkadmin.com privacy policy that was archived on 2008-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080920120946id_/http%3A//www.bookmarkadmin.com/site_information/legal/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkadmin.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Our Privacy Policy.
+# Legal Agreement
 
-**BookmarkAdmin.com Privacy Notice**   
-Effective **1/1/03**
+**Go Daddy Respects Your Privacy**
 
-**Privacy Notice Table Of Contents:**
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-    * _Our Commitment To Privacy_
-    * _The Information We Collect_
-    * _How We Use Information_
-    * _Our Commitment To Data Security_
-    * _Our Commitment To Children's Privacy_
-    * _How To Access Or Correct Your Information_
-    * _Our use of Browser Cookies_
-    * _How To Contact Us_  
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
+**Information Collection and Use**
 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-**Our Commitment To Privacy**
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our on-line information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**The Information We Collect:**
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-This notice applies to all personal information collected or submitted on the BookmarkAdmin.com website. 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-  
-This notice applies to all personal information collected or submitted on the BookmarkAdmin.com website. On some pages, you can register, make requests, post information, and request to receive materials. The types of personal information collected at these pages are: 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-  * Email Address
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**The Way We Use Information:**
+**Security**
 
-To register into our site, you are required to give a valid email address. After you register, this email address will be used as your sign in name. Also, you email address will be used by this Site's owner to contact you about information related to your membership, and stored information.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-Finally, we never use or share the personally identifiable information(e.g. Email) provided to us on-line in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+**Updating Your Information**
 
-**Our Commitment To Data Security**
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect on-line. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-**Our Commitment To Children's Privacy:**
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18. 
+      iii.      You may call us at: (480) 505-8800
 
-**How You Can Access Or Correct Your Information**
+       iv.      You may fax us at: (480) 505-8844
 
-You can access all your personally identifiable information that we collect on-line and maintain by one(1), accessing your account and editing the information you have provided our website and/or two(2), notify us in writing with a signed notarized letter, containing information to verify you are the same person that is a member of our site(username, email address, password, and registration date) . We use this procedure to better safeguard your information. Mailing address furnished upon request. 
+**Sending Emails**
 
-You can correct factual errors in your personally identifiable information by one(1), accessing your account and updating your information and/or two(2) sending us a request that credibly shows error. 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Our use of Browser Cookies**
+**Compliance with Laws and Law Enforcement**
 
-Browser Cookies is a technology used to personalize a web users experience on a web site. Cookies are a means for a website to temporarily store information pertinent to you, with your browser. A small piece of information generated from our site and can be stored on your hard drive, and it's used to customize your experience. Due to your browser's security, information contained in cookies from one website is not given to another website. Our Website uses Cookies to identify within our system that you have “logged-in”, and never contains your personal information such as name or email address.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**How To Contact Us**
+**Third Party Service Providers**
 
-Should you have other questions or concerns about these privacy policies, please [Contact Us](https://web.archive.org/site_information/contact-us.php). 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
