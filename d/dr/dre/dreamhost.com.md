@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dreamhost.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530025922id_/http%3A//www.dreamhost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhost.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230001042id_/http%3A//dreamhost.com/privacy-policy) for the most accurate reproduction.*
 
-# Web Hosting by DreamHost Web Hosting: Web Sites, Domain Registration, WordPress, Ruby on Rails, all on Debian Linux!
+# Privacy Policy | | DreamHostDreamHost
 
 ## Collected Information
 
@@ -10,6 +10,10 @@ We may also collect the URL from which you linked into our site, your IP address
 
 ## Use of Customer Information
 
-Customer privacy is something we take very seriously at DreamHost. We do not, and have never, sold or disseminated (except in cases where required to by law by law enforcement agencies) the personal information of our customers to any parties outside of DreamHost Web Hosting, or its parent company, New Dream Network, LLC. We use customer information for the purposes of creating and maintaining individual customer accounts, contacting customers in case of a problem with their account, sending personal information, for statistical purposes, to administer our systems, to conduct surveys, to administer drawings or contests, and to provide technical support. All of our development is done in-house, and hence no contracted parties will ever have access to individual customer information.
+Customer privacy is something we take very seriously at DreamHost. We do not, and have never, sold or disseminated (except in cases where required to by law by law enforcement agencies) the personal information of our customers to any parties outside of DreamHost Web Hosting, or its parent company, New Dream Network, LLC. We use customer information for the purposes of creating and maintaining individual customer accounts, contacting customers in case of a problem with their account, sending personal information, for statistical purposes, to administer our systems, to conduct surveys, to administer drawings or contests, and to provide technical support. All of our development is done in-house, and hence no contracted parties will ever have access to individual customer information without their consent. Some optional partner offers and services may require customer information with their approval.
 
-Please note that the contact information that you provide to us is used to register your domain name and is, by the very nature of the domain registration system, available for public viewing in many places on the Internet via the use of the 'whois' tool.
+Please note that the contact information that you provide to us is used to register your domain name and is, by the very nature of the domain registration system, available for public viewing in many places on the Internet via the use of the ‘whois’ tool.
+
+## Whois Privacy Services
+
+Whois Privacy as offered by DreamHost does not act as a shield from legal liability in conjunction with Domain Registration. In order to preserve neutrality in disputes between 3rd parties and domain registrants, DreamHost will act in accordance with ICANN Registrar Accreditation agreement section 3.7.7.3 upon receipt of actionable evidence of illegal activity. This means that identifying information will be provided to law enforcement and officials of the court including attorneys as situations require in order to preserve DreamHost’s neutrality in any litigation.
