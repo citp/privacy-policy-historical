@@ -1,90 +1,100 @@
-> *The following text is extracted and transformed from the freshteenpics.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216004819id_/http%3A//www.safetybilling.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshteenpics.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy : SafetyBilling
+# Legal Agreement
 
-**
+**Go Daddy Respects Your Privacy**
 
-Privacy Policy Statement
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-This website (the "site") is licensed to Price Global Limited / SinComm Limited.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-Our postal address is  
-3880 Lemon St. Suite 205  
-Riverside, California 92501 USA 
+**Information Collection and Use**
 
-We can be reached via e-mail at [privacy-1@silvercash.com](mailto:privacy-1@silvercash.com)
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this site. This is an adult site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this site.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-This site does not knowingly seek or collect any personal information or data from persons under the age of 18.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-Notice - Use of website by the subscriber constitutes the subscriber's express assent to the use of personal information collected by site.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS POLICY STATEMENT.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
- _ **What Information About Subscribers is Collected?**_
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-When any adult consumer signs-on as a member or subscriber of this site that consumer will be required to provide certain personal as well as demographic information which includes the subscriber's name, e-mail address, zip code, country, username, and password. This site collects any and all such information and includes it in its customer database.
+**Security**
 
-If the site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the site and included in its customer database.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-If a subscriber sends any personal communication or correspondence, by any means, to the site, or any of its employees, agents or representatives, the site may collect any information regarding that communication and include that information in its customer database.
+**Updating Your Information**
 
-The site may also automatically collect traffic and click-through data as well as information regarding the online behavior of subscribers by the use of "cookies" or other programming means - any information about subscribers collected by the site through the use of cookies or other programming means will generally not be associable to the specific user in any way.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-You may obtain further information about "cookies" and how they function at: <http://www.cookiecentral.com/>.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
- _ **Use of Personal Subscriber Information.**_
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-By the subscriber's use of the site, the subscriber expressly agrees that the site may use any personal information that has been provided by the subscriber or that has been collected by the site about the subscriber for any purpose, including without limitation, technical, administration, research and development, customer administration, marketing, trading in personal data, age verification, promotional and advertising use by the site or third parties authorized to use the information by the site.
+      iii.      You may call us at: (480) 505-8800
 
-By the subscriber's use of the site, the subscriber expressly agrees that the site may, in its sole discretion share, disclose, transfer, rent, license or sell any of the personal information about subscribers that it has gathered or collected with affiliated or unaffiliated third parties.
+       iv.      You may fax us at: (480) 505-8844
 
-Please note that personal information about a subscriber may be collected by a third-party web service provider that has an advertising banner or link on the site.
+**Sending Emails**
 
-The site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have banner ads or links on the site. This site does not control, monitor or endorse the information gathering practices or privacy policies of any of those third-party websites.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-Whenever applicable, each subscriber should seek to read the privacy policy of any third-party website provider that has an advertising banner, advertises or has a link on the site.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
- _ **Security of Personal Information Collected by the site.**_
+**Compliance with Laws and Law Enforcement**
 
-Consistent with the policies set forth in this privacy statement, the site has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the site.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-All subscribers should consider any information provided to or collected by the site as **non-confidential** , and consequently the site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient.
+**Third Party Service Providers**
 
- _ **"OPT-IN" and "OPT-OUT" Provisions.**_
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-There may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers").
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-"OPT-IN" -- Some offers may be presented to the subscriber with the option to express the subsciber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes" the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties.
+**Supplementation of Information**
 
-"OPT-OUT" -- Other offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
- _ **"OPT-OUT" Revocation Procedure.**_ The site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive offers by sending an e-mail to [privacy-1@silvercash.com](mailto:privacy-1@silvercash.com), clearly stating that the subscriber has revoked consent to receive any future offers. _ **Data Controller.**_
+**Contests/Surveys**
 
-The Data Controller for all personal information collected about subscribers of the site can be reached by e-mail at [privacy-1@silvercash.com](mailto:privacy-1@silvercash.com). The Data Controller has the authority to resolve all issues regarding the collection, modification, correction, deletion and use of the personal information that has been collected by the site.
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
- _ **Review of Personal Information by Subscriber/Means of Challenging Data.**_
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-A subscriber to this site can review any personal information collected by the site relating to that subscriber by sending an e-mail to the site's DATA CONTROLLER at [privacy-1@silvercash.com](mailto:privacy-1@silvercash.com), clearly stating that the subscriber wishes to review the subscriber's personal information which has been collected by the site.
+**Tell-A-Friend**
 
-The individual subscriber shall have the following rights with respect to any personal information gathered by the site:
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-  * to obtain from a data controller, or otherwise, confirmation of whether or not the data controller has data relating to him;  
+**What Happens to my Personal Information if I Opt Out?**
 
-  * to have communicated to him, data relating to him within a reasonable time; at a charge, if any, that is not excessive; in a reasonable manner; and in a form that is readily intelligible to him;  
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-  * to be given reasons if a request made under subparagraphs(a) and (b) is denied, and to be able to challenge such denial; and  
+**Transfer of Data Abroad**
 
-  * to challenge data relating to him and, if the challenge is successful to have the data erased, rectified, completed or amended.  
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
+**Changes in Our Practices**
 
-_**Terms and Conditions of Membership.**_
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-Each subscriber should carefully read each of the terms and conditions of membership of this site. By accepting membership to this site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this site to use information that it has gathered from subscribers.
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-In the event of any conflicts between the membership terms and conditions and this privacy policy statement, the provisions of this privacy policy shall control.
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
