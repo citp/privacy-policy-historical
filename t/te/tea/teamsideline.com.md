@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamsideline.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604040343id_/http%3A//www.teamsideline.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamsideline.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229103253id_/http%3A//www.teamsideline.com/Privacy.aspx) for the most accurate reproduction.*
 
 # League Management, Registration, Scheduling, and Communication - TeamSideline.com
 
