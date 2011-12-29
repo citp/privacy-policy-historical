@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fdbl.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630000133id_/http%3A//www.fragomen.com/xprGeneralContentFrag.aspx%3FxpST%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fdbl.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229182107id_/http%3A//www.fragomen.com/xprGeneralContentFrag.aspx%3FxpST%3DPrivacyPolicy) for the most accurate reproduction.*
 
-# Fragomen global corporate immigration law | Fragomen RSS Registration
+# Fragomen global corporate immigration law | News & Alerts - RSS Registration
 
 Effective June 4, 2010
 
