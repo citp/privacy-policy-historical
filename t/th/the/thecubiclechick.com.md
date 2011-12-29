@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecubiclechick.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622024703id_/http%3A//www.thecubiclechick.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecubiclechick.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229210551id_/http%3A//www.thecubiclechick.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -47,3 +47,6 @@ If there are any questions regarding this privacy policy you may contact us usin
 http://www.thecubiclechick.com
 
 mail@thecubiclechick.com
+
+  
+
