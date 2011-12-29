@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpmotiontemplates.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127013754id_/http%3A//phpmotiontemplates.com/component/content/article/32-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpmotiontemplates.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229112421id_/http%3A//phpmotiontemplates.com/component/content/article/32-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
