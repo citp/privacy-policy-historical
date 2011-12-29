@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the healthypawspetinsurance.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625043208id_/http%3A//www.healthypawspetinsurance.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthypawspetinsurance.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229092422id_/http%3A//www.healthypawspetinsurance.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Healthy Paws Pet Insurance
+# Privacy Policy | Healthy Paws Pet Insurance & Foundation
 
 Healthy Paws Pet Insurance LLC ("Healthy Paws") is committed to the highest level of integrity in all of our dealings with our customers, employees and service partners. Our commitment extends to any personal information about our customers that we might possess or acquire. Healthy Paws is committed to respecting personal privacy, and safeguarding individual record confidentiality and system security. Accordingly, Healthy Paws and its subsidaries and affiliates adhere to the following **Privacy Guidelines and Principles:**
 
 Privacy Guidelines and Principles
+
+  
+
 
   * Healthy Paws has developed policies and programs for the protection of customer information.
   * Healthy Paws strives to maintain the accuracy of customer information and will promptly respond to any questions or concerns customers may raise with respect to the accuracy of personal information.
@@ -20,7 +23,7 @@ You provide most information voluntarily when you apply for pet insurance or sub
 
 Information we collect
 
-The information we request from you or colleipct from third parties relates to your transaction with us such as your pet's information, your name, address, phone number, e-mail, address and bank or credit card information.
+The information we request from you or collect from third parties relates to your transaction with us such as your pet's information, your name, address, phone number, e-mail, address and bank or credit card information.
 
 How your information may be used
 
@@ -42,7 +45,7 @@ We only disclose your information as necessary to effect, administer, or enforce
 
 From time to time, we may change this Privacy Policy. The effective date of this policy, as stated below, indicates the last time this policy was revised or materially changed. Checking the effective date below allows you to determine whether there have been changed since the last time you reviewed the policy.
 
-Effective Date: 02/01/2010   
+Effective Date: 2/10/2010   
 Healthy Paws Pet Insurance LLC  
 P.O. Box 50034  
 Bellevue, WA 98015 
