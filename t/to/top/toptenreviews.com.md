@@ -1,54 +1,76 @@
-> *The following text is extracted and transformed from the toptenreviews.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618132214id_/http%3A//www.toptenreviews.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptenreviews.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229043518id_/http%3A//www.techmedianetwork.com/privacy-policy.html) for the most accurate reproduction.*
 
-# TopTenREVIEWS Privacy Policy
+# Privacy Policy | TechMediaNetwork
 
-TopTenREVIEWS™ and its network of related review sites take your privacy seriously. Our privacy policy is designed to help you understand the terms and conditions surrounding the collection and use of the information we collect. We encourage you to read our full privacy policy, below:
+Welcome to TechMediaNetwork!
 
-**Information Collected**  
-TopTenREVIEWS does not collect any personally identifiable information about individuals, except when such information is voluntarily submitted by the user. 
+TechMediaNetwork has created this Privacy Policy in order to set forth the principles governing our information-gathering and dissemination practices, including but not limited to such activities as forums, chat rooms, personal profile pages, product reviews, article commentary, blogs, RSS feeds and newsletters, among other offerings. TechMediaNetwork has a strong commitment to the privacy of our users. Please note that this Privacy Policy applies only to information collected through TechMediaNetwork and not to information collected offline or to information you may provide to any third-party sites to which TechMediaNetwork may link, except as expressly provided herein. 
 
-In common with many websites, TopTenREVIEWS automatically logs certain non-personally identifiable information about visits to our websites. This information is used for system administration and for producing usage statistics.
+## Information We Collect
 
-We do collect email addresses from individuals that wish to take advantage of special promotional offers, but **we do not sell, rent or disclose collected email addresses to third parties.**
+There are two kinds of information that TechMediaNetwork can obtain about you: “Anonymous Information” and “Personally Identifiable Information.”
 
-**Electronic Newsletters and Site Notification**  
-As a service, we offer free, electronic newsletters and new site (or site update) notifications to our users. TopTenREVIEWS gathers the email addresses from users who voluntarily subscribe for these services. eMail addresses collected are used for newsletter and site notification purposes only. 
+“Anonymous Information” consists of non-personally-identifiable data, such as your Internet Protocol (“IP”) address or domain, or information about your usage on TechMediaNetwork that is used for administrative purposes only. For example, an IP address is a unique string of numbers that is assigned to your computer by your Internet Service Provider. Web servers automatically identify your computer by its IP address. We may collect our users' IP addresses for such purposes as to help diagnose problems with our servers and to report aggregate information to our advertisers, corporate affiliates and consultants, and to third parties that perform particular services on our behalf.
 
-Newsletters and website notifications can be subscribed to at any time by accessing our Review Notification Signup, located on the TopTenREVIEWS homepage and any of our review sites.
+We may also use the information linked to IP addresses to ban users who violate our Terms and Conditions of use.
 
-Consumers may remove themselves from any mailing list by following the instructions contained at the end of every newsletter or website notification email.
+“Personally Identifiable Information” is any information that personally identifies you, such as your name, street address, email address, or telephone number. We collect such information when, for example, you enter a contest, subscribe to our email newsletter, and participate in other interactive online activities such as forums.
 
-**Cookies**  
-As you browse TopTenREVIEWS sites, we place “cookies” on your hard drive to show which source (search engine and keywords, newsletter or site notification, pay-per-click ad and so on) you used to find our site. We also use cookies when you press the buy button to collect aggregate data for analysis. We do not use cookies to track single-user data. 
+When we collect Personally Identifiable Information from you, you will have the opportunity to “opt in” to receive email or other digital communications from us and/or our business partners.
 
-**Opt-Out Policy**  
-TopTenREVIEWS gives users options to opt out wherever practical; such choices include: 
+If you have submitted your personal information to TechMediaNetwork, you may correct, amend or delete the Personally Identifiable Information maintained on file about you if it is incorrect.
 
-• Opting not to receive our electronic newsletters when registering for a site
+If you are a registered Community member of TechMediaNetwork, you may manage your membership information as well as your subscriptions. Simply login to your community account and click on “Account Options.” Click on the tab marked “Account” to manage your password and email address; click on the tab marked “Subscriptions ” to manage your newsletter subscriptions and Click on the tab, “Profile” to edit your public profile.
 
-• Opting not to receive review site notifications
+In all cases, we will only use your information as permitted by law. Notwithstanding any other provision of this Privacy Policy, however, we may disclose Personally Identifiable Information to others if we are required to do so by law or we in good faith believe that such action is necessary to (a) comply with the law or with legal process; (b) protect and defend our rights and property; (c) protect against misuse or unauthorized use of the Site; or (d) protect the personal safety or property of our users or the public. Please note that we may not provide you with notice prior to disclosure in such cases.
 
-**Unsubscribe Policy**  
-Users may unsubscribe from any of our electronic newsletters or site notifications at any time by following the instructions contained at the end of each newsletter or notification. 
+## Use of “Cookies”
 
-**Use of Collected Information**  
-Collecting the information described above enables us to tailor our content to our readers’ needs. 
+TechMediaNetwork uses “cookies” - data that is transferred from TechMediaNetwork to your hard drive for record-keeping purposes. We use cookies to deliver content specific to your interests and to save your password so you do not have to re-enter it each time you visit TechMediaNetwork. Some of the advertisements appearing on TechMediaNetwork are delivered by our third-party ad network, DoubleClick. In the course of serving advertisements, DoubleClick may place or recognize a unique “cookie” in your browser's cache, and may use Anonymous Information (including date/time of the banner ad displayed, the ad that was displayed and the IP address of the visitor) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you and to collect statistical information. For more information about DoubleClick's privacy policy, [please click here](http://www.doubleclick.com/privacy/index.aspx). If you would like to “opt out” of having a unique cookie placed on your hard drive by DoubleClick, [please click here](http://www.doubleclick.com/privacy/dart_adserving.aspx).
 
-All personally identifiable information provided to TopTenREVIEWS is maintained by and accessible only to TopTenREVIEWS, unless stated otherwise in this privacy policy.
+## Disclosure of Information through Business Transfers
 
-**Third Party Partners**  
-TopTenREVIEWS has teamed up with reputable third party vendors in order to provide certain services to its online users. When leaving our website to view one of our partner websites, we encourage users to review the privacy statements of those websites as we cannot guarantee the privacy of users while visiting affiliate sites. TopTenREVIEWS may use third-party companies to serve ads or analyze behavior patterns when you visit our Web site. These companies may place or provide ads (such as banner ads) on this Web site that might also place cookies. These companies may use non-personally identifiable information about your visit to our Web site in order to help us improve our user experience and/or provide advertisements about goods and services that may be of interest to you. In the course of providing these services or placing these ads, these third-party companies may place or recognize a unique "cookie" on your computer and each of these companies uses this cookie information according to their own privacy and security policies. Our Website may also use Web beacons in conjunction with cookies. Web beacons are small strings of code that are placed in a Web page, (sometimes referred to as "1x1 clear pixel," "Web beacon" or "clear GIF") in the pages of our Web site in order to gather additional statistical site usage information. 
+As we continue to develop our business, we may buy, merge or partner with other companies or businesses, and in so doing, acquire customer information. In such transactions, user information may be among the transferred assets. Similarly, in the event that a portion or all of TechMediaNetwork's assets are sold or transferred to a third party, customer information (including your email address) would likely be one of the transferred business assets.
 
-If you would like more information about this practice or to opt out of having this information used by third-party ad servers to provide targeted ads, please visit <http://www.networkadvertising.org/optout_nonppii.asp>. Be advised that if you change computers or browsers, or use multiple computers or browsers, you will need to repeat this process for each computer and each browser.
+## Third Party Web Sites
 
-**Policy Changes**  
-Occasional changes may be made to our privacy policy. Visitors to TopTenREVIEWS, or its network of related sites, are encouraged to check this document periodically to stay informed of current privacy guidelines. 
+TechMediaNetwork contains links to third-party Web sites not owned or controlled by TechMediaNetwork. TechMediaNetwork is not responsible for the privacy practices or the content of such third-party Web sites. Inclusion of any linked Web site on TechMediaNetwork does not imply or express an approval or endorsement of the linked Web site by us, or of any of the content, opinions, products or services provided on these Web sites. Even if an affiliation exists between TechMediaNetwork and a third-party Web site, we exercise no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection policies and procedures. If you visit a Web site via a link from one of our Sites, we encourage you to consult that Web site's privacy policy before providing any personal information, and whenever interacting with any such Web site.
 
-**Acceptance of Terms**  
-By using the TopTenREVIEWS website, you signify your acceptance of this website privacy policy.  If you do not agree to this policy, please do not use our sites. Your continued use of any TopTenREVIEWS site following the posting of changes to these terms will indicate your acceptance of those changes. 
+## Public Forums
 
-**How to Contact Us**  
-If you want to reach us, [click here](http://www.techmedianetwork.com/contact/report-problem.html). 
+TechMediaNetwork may make chat rooms, forums, blogs, article commenting, and personal profile pages available to users. Please remember that any such information that you may choose to provide in these areas becomes accessible to the public, and also becomes the property of TechMediaNetwork in accordance with our Terms and Conditions, and we may use such information in any way that we see fit. Consequently, you should exercise caution when deciding to disclose your personal information or to upload material of any kind.
 
-  
+## Security
 
+TechMediaNetwork has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control. Security of information communicated by or to us over the Internet is of utmost concern to us; however, no data transmission over the Internet can be guaranteed to be 100% secure. Please note that your email, like most, if not all, unencrypted Internet communications, may potentially be accessed and viewed by other Internet users, without your knowledge and permission, while in transit to us. For that reason, to protect your privacy, please do not use email to communicate information to us that you consider confidential. While we strive to protect your personal information, TechMediaNetwork cannot ensure or warrant the security of any information you transmit to us. Once we receive your transmission, we will use reasonable efforts to ensure its security on our internal systems. Depending on the nature of the inquiry, your communication may be discarded or archived.
+
+## Policy Regarding Minors
+
+Children should always ask parents before providing any personal information online. No information should be submitted to or posted on TechMediaNetwork by any minor (a person under 18 years of age) without the consent of a parent or guardian. Unless otherwise disclosed during collection, we do not knowingly provide any Personally Identifiable Information about minors, regardless of its source, nor is this information knowingly used by TechMediaNetwork for any marketing or promotional purposes. Minors are not eligible to participate in contests. 
+
+TechMediaNetwork abides by the Children's Online Privacy Protection Act. In the event that we learn that we have collected information from any child under the age of 13 without verification of parental consent, we will delete this information from our database as quickly as reasonably possible. If you believe that any Site has collected any information about anyone under 13, please contact TechMediaNetwork's Site Administrator via postal mail or email at one of the addresses listed below.
+
+## Limitation of Liability
+
+TECHMEDIANETWORK PROVIDES THE INFORMATION, SERVICES AND PRODUCTS ON THIS WEB SITES “AS IS” WITHOUT WARRANTIES OF ANY KIND. YOU AGREE THAT TECHMEDIANETWORK SHALL NOT BE RESPONSIBLE FOR ANY CONTENT FOUND ON OUR FORUMS, THAT ANY DOWNLOADING OF MATERIALS FOUND ON OR THROUGH TECHMEDIANETWORK FORUMS IS DONE AT YOUR OWN RISK, AND THAT TECHMEDIANETWORK IS NOT RESPONSIBLE FOR UNSOLICITED COMMUNICATIONS THAT ARISE FROM YOUR POSTINGS. TECHMEDIANETWORK SHALL NOT BE RESPONSIBLE IN ANY MANNER FOR THE ACTS OF ANY THIRD PARTY, INCLUDING WITOUT LIMITATION, ANY THIRD PARTY AD NETWORK.
+
+## Consent and Modifications to this Privacy Statement
+
+TechMediaNetwork is controlled, operated and administered entirely within the United States. By using TechMediaNetwork and/or participating in the activities of TechMediaNetwork Community, you signify your agreement to the terms of this Privacy Statement. If you do not agree with this Privacy Statement, please do not disclose any personal information through our site. TechMediaNetwork may modify this Privacy Statement at any time, at its discretion, and modifications are effective upon being posted on this the applicable Site. You are responsible for reviewing this Privacy Statement periodically to ensure that you are aware of any changes to it.
+
+## Contacting TechMediaNetwork
+
+If you have any questions about this Privacy Statement you may contact us at:
+
+Site Administrator  
+TechMediaNetwork  
+470 Park Avenue South, 9th Floor  
+New York, NY 10016  
+Fax: (212) 703-5801  
+[**Contact Us**](https://web.archive.org/web/20111229043518id_/http%3A//www.techmedianetwork.com/contact/advertising.html) ****
+
+**
+
+This Privacy Policy is effective as of October 23, 2009 and supersedes all earlier versions of our Privacy Policy
+
+**
