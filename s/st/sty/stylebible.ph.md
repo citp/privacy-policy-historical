@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the stylebible.ph privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522214839id_/http%3A//www.stylebible.ph/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylebible.ph privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229135457id_/http%3A//www.stylebible.ph/privacy-policy) for the most accurate reproduction.*
 
-# STYLEBIBLE | PRIVACY POLICY
+# Privacy Policy | StyleBible.ph
 
-**Style Bible** is defined as all websites, web pages and channels owned, controlled and/or operated by the same group that created Preview Magazine, the country’s best-selling fashion magazine.
+## Privacy Policy
+
+**Style Bible** is defined as all websites, web pages and channels owned, controlled and/or operated by the same group that created Preview Magazine, the country's best-selling fashion magazine.
 
 We frequently provide information and links to third-party advertisers or partners. Information on how to access the privacy practices of these third parties is included below as well. 
 
-We will notify our members when we make any significant changes to our Privacy Policy that affect the use of any personally identifiable information we collect. We will not make new use of any personally identifiable information which Style Bible gathered from individual members or visitors prior to any such significant change in our Privacy Policy without first obtaining the member's or visitor's consent for any new uses. In instances where we ask for your personally identifiable information and we tell you the data we are collecting on that page will be shared with unaffiliated third parties, and in cases where a member, visitor or subscriber to Style Bible opts-in to share his/her information with third parties, those disclosures and opt-ins will override anything to the contrary in this Privacy Policy. In addition, Style Bible reserves the right to make non-significant changes to our Privacy Policy that will not affect Style Bible's use of a user's personally identifiable information at any time without any notice to you other than posting any such changes in a revised Privacy Policy on Style Bible. We encourage you to periodically review our Privacy Policy to be sure you are familiar with the most current version. The Policy will include the most recent date in which any revision has been made. Please note that this Privacy Policy is also incorporated into Style Bible's [Terms of Service](https://web.archive.org/web/20100522214839id_/http%3A//www.stylebible.ph/terms.php).
+We will notify our members when we make any significant changes to our Privacy Policy that affect the use of any personally identifiable information we collect. We will not make new use of any personally identifiable information which Style Bible gathered from individual members or visitors prior to any such significant change in our Privacy Policy without first obtaining the member's or visitor's consent for any new uses. In instances where we ask for your personally identifiable information and we tell you the data we are collecting on that page will be shared with unaffiliated third parties, and in cases where a member, visitor or subscriber to Style Bible opts-in to share his/her information with third parties, those disclosures and opt-ins will override anything to the contrary in this Privacy Policy. In addition, Style Bible reserves the right to make non-significant changes to our Privacy Policy that will not affect Style Bible's use of a user's personally identifiable information at any time without any notice to you other than posting any such changes in a revised Privacy Policy on Style Bible. We encourage you to periodically review our Privacy Policy to be sure you are familiar with the most current version. The Policy will include the most recent date in which any revision has been made. Please note that this Privacy Policy is also incorporated into Style Bible's [Terms of Service](https://web.archive.org/web/20111229135457id_/http%3A//www.stylebible.ph/terms.php).
 
 ### Information that Style Bible collects 
 
@@ -28,7 +30,7 @@ In order to better describe how information is collected and disseminated, pleas
   * Public Forums
   * Surveys and Polls 
   * Contests and promos
-  * “Email this Page” services
+  * "Email this Page" services
   * Links to Partner and Advertiser Sites
   * Information collected by Style Bible through IP address and cookies 
   * Information Collected by Third Party Advertising Services 
@@ -69,7 +71,7 @@ We regularly operate contests and other promos throughout Style Bible. We typica
 
 You should carefully review the rules of each contest and promo which you enter as they may contain additional important information about Style Bible's or a sponsor's use of your personally identifiable information. 
 
-#### “Email this Page” service 
+#### "Email this Page" service 
 
 Style Bible offers the ability to forward an article to another person via email. If you use either of these services, we will use the recipient's email address in order to send the article or postcard and we will also ask for your email address. We do not use the recipient's email address for any other purpose unless such recipient gives us permission to do so. 
 
