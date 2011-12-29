@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyofflinecash.com privacy policy that was archived on 2010-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100724080741id_/http%3A//www.easyofflinecash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyofflinecash.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229104340id_/http%3A//www.easyofflinecash.com/privacy.html) for the most accurate reproduction.*
 
 # Easy Offline Cash Make $499 Over and Over from Local Business Owners
 
