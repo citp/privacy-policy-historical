@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thekindlife.com privacy policy that was archived on 2011-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110404165740id_/http%3A//www.thekindlife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekindlife.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229071746id_/http%3A//www.thekindlife.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,6 +71,6 @@ If you would like to communicate with us about this Privacy Policy or EQAL's col
 or write to us at
 
 Privacy, EQAL, Inc.,  
-15260 Ventura Blvd., Suite 800  
-Sherman Oaks, CA 91403  
+5250 Lankershim Blvd., Suite 720  
+North Hollywood, CA 91601  
 Attn: Paras Maniar
