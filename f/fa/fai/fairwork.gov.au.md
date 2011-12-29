@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairwork.gov.au privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602003832id_/https%3A//www.fairwork.gov.au/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairwork.gov.au privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229072706id_/http%3A//www.fairwork.gov.au/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Fair Work Ombudsman
 
@@ -100,9 +100,3 @@ Privacy Officer
 Fair Work Ombudsman  
 GPO Box 9887  
 In your capital city
-
-  _[_Privacy Act 1988_](http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/s14.html "Privacy Act 1988")_  (AustLII website)  
-[Australian Government, Office of the Privacy Commissioner](http://www.privacy.gov.au/ "Australian Government, Office of the Privacy Commissioner") 
-
-  
-
