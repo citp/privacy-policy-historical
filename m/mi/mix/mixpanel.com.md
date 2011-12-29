@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixpanel.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621050432id_/http%3A//mixpanel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixpanel.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229212715id_/http%3A//mixpanel.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Mixpanel | Real-time Web Analytics, Funnel Analysis
 
