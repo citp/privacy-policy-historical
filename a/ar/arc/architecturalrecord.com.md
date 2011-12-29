@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architecturalrecord.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503222357id_/http%3A//www.construction.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturalrecord.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229213744id_/http%3A//www.construction.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # McGraw-Hill Construction Privacy Notice
 
@@ -10,13 +10,13 @@ Contact information that you provide to us (such as your name, title and organiz
 
 Contact information obtained via other companies’ marketing lists.
 
-Credit card or other payment information for your transactions.  
+Credit card or other payment information for your transactions. 
 
-We (or our third party services providers) also track your use of our Web site at construction.com through the use of cookies and other tracking mechanisms. A cookie is a text-only string of information that a Web site transfers to the cookie file of the browser on your computer’s hard disk so that the Web site can remember you and your preferences.  “Session” cookies are erased from memory when your browser closes. “Persistent” cookies help identify you and your preferences upon your return to the Web site.
+We (or our third party services providers) also track your use of our Web site at construction.com through the use of cookies and other tracking mechanisms. A cookie is a text-only string of information that a Web site transfers to the cookie file of the browser on your computer’s hard disk so that the Web site can remember you and your preferences. “Session” cookies are erased from memory when your browser closes. “Persistent” cookies help identify you and your preferences upon your return to the Web site.
 
 If you would prefer not to allow cookie use, you must change your browser’s preferences to disable or delete cookies. 
 
-Note that disabling cookies for some services may affect the ability to use that service.  Security information is specific to each browser and operating system.  Please check with your browser’s specific company for more information.   For example, to change your browser’s preference in Internet Explorer, go to Tools > Internet Options > Privacy.  The setting has to be set to **Block All Cookies**. 
+Note that disabling cookies for some services may affect the ability to use that service. Security information is specific to each browser and operating system. Please check with your browser’s specific company for more information. For example, to change your browser’s preference in Internet Explorer, go to Tools > Internet Options > Privacy. The setting has to be set to **Block All Cookies**.
 
 In addition, third party advertising companies who serve ads on our Web site may use cookies (or other mechanisms) to collect information about your visits to this and other Web sites in order to present ads about goods and services that may be of interest to you.  If you would like to obtain more information about the practices of these third party advertisers, and to make choices about their use of your information, please visit [AboutAds.Info](http://www.aboutads.info/).
 
@@ -30,8 +30,10 @@ To provide you with information about services and products that we believe may 
 
 With our vendors to perform services on our behalf.
 
-With applicable project owners and architects so they can monitor use of intellectual property rights.  
-With third-party sponsors of specific McGraw-Hill Construction programs such as Continuing Education and Photo Galleries.  
+With applicable project owners and architects so they can monitor use of intellectual property rights.
+
+With third-party sponsors of specific McGraw-Hill Construction programs such as Continuing Education and Photo Galleries.
+
 In conjunction with a sale or similar transfer of a business.
 
 When legally compelled or for other legal purposes.
@@ -46,10 +48,10 @@ ______I do not want to be contacted by McGraw-Hill Construction through any meth
 
 ______I do not want my information shared with companies outside of McGraw-Hill.
 
-We have established safeguards and use reasonable security measures to protect your PII from unauthorized access and use. Your PII is stored in a secure location in the U.S. and access is limited to authorized persons.  
+We have established safeguards and use reasonable security measures to protect your PII from unauthorized access and use. Your PII is stored in secured locations in the U.S. and Canada and access is limited to authorized persons. 
 
 To review and confirm the accuracy of your PII, or to contact us with concerns or questions, please write to: [Construction_Privacy_Policy@mcgraw-hill.com](mailto:Construction_Privacy_Policy@mcgraw-hill.com)
 
-[Click here ](http://www.mcgraw-hill.com/site/tools/privacy/privacy_english) for more information about The McGraw-Hill Companies Customer Privacy Policy. 
+[Click here](http://www.mcgraw-hill.com/site/tools/privacy/privacy_english) for more information about The McGraw-Hill Companies Customer Privacy Policy. 
 
-**Last updated:   February 23, 2011. ** Future revisions to this Privacy Notice will be posted at this location.
+**Last updated: August 23, 2011.** Future revisions to this Privacy Notice will be posted at this location.
