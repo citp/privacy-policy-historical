@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the master-resale-rights.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126182201id_/http%3A//master-resale-rights.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the master-resale-rights.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229180824id_/http%3A//master-resale-rights.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy: 8000+ Private Label Rights,PLR Products Master Resale Rights, Resell Rights, Private Label Right, ebook, video, articles. Worlds largest catalog.
+# Privacy Policy: Private Label Rights (PLR), Master Resale Rights, Resell Rights, Private Label Right, plr ebook, video, plr articles. Worlds largest catalog.
 
 Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs. 
 
