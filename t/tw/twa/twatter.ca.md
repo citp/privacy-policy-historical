@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twatter.ca privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613040354id_/http%3A//twatter.ca/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twatter.ca privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229021654id_/http%3A//twatter.ca/doc/privacy) for the most accurate reproduction.*
 
-# Privacy - Twatter.ca See what the twats are tweeting!
+# Privacy - Twatter.ca Advice for daily life in 140 characters. Now with added spam!
 
 This document outlines this service's respect for your personal privacy as a user of the service.
 
