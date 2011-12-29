@@ -1,82 +1,56 @@
-> *The following text is extracted and transformed from the londonfog.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213005506id_/http%3A//www.londonfog.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonfog.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229205703id_/http%3A//www.londonfog.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy - London Fog Official Store
+# London Fog Privacy Policy: London Fog Official Online Store
 
-**Privacy Policy**   
-**Effective Date 2008**
+LondonFog.com respects the privacy of our customers and the users of our website and has instituted the policies and practices described below to ensure that your personal information is handled appropriately. Our online privacy policy describes the types of personal information we may collect from you when you visit our website and when we share it with third parties. The information on this website and our privacy policy are subject to change from time to time. Any material changes to our privacy policy and practices will be reflected on this page so that you can be aware of what information we collect and how we are using and/or disclosing it. By using our website, you consent to the collection and use of this information by London Fog.com.
 
-Onestop Internet, Inc. ("Onestop") operates this Web site, pursuant to agreements with London Fog. Both Onestop and London Fog ("we" or "us") recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web site.  Please also review our [**Terms & Conditions**](https://web.archive.org/terms.html) which also govern your use of this Web Site.
+### What information does LondonFog.com collect?
 
-Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web site and, where applicable, through our [**Customer Service Department**](https://web.archive.org/customerservice) in connection with this Web site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means. If you have any questions or concerns regarding this Privacy Policy, you should contact our [**Customer Service Department**](https://web.archive.org/customerservice).  
-**  
-What Information About Me Is Collected and Stored?**
+LondonFog.com collects data that you provide on LondonFog.com, email registration, sweepstakes, contests, or online membership; or through phone, mail and fax interactions or paper registrations that you submit.
 
-We collect and store information that you enter into this Web site or that you provide to our [**Customer Service Department**](https://web.archive.org/customerservice). For example, when you open an account or place an order, we collect and store some or all of the following information that you provide: name, billing address, shipping address, email address, telephone number, credit card number and expiration date. This information is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. This information also may be used for our own marketing and internal business purposes, and to contact you about sales, special offers and new site features, unless you have opted not to receive promotional communications in connection with this Web site. 
+LondonFog.com may collect and store two types of information: "personal information" and "automatic information."
 
-We collect and store certain other information automatically whenever you interact with this Web site. For example, we collect your IP address, browser information and reference site domain name every time you visit this Web site. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve this Web site and to provide our customers with a fulfilling shopping experience. 
+Personal information tells us who you are such as your name, gender, billing address, shipping address, email address, telephone number, date of birth or age, any personal preferences you choose to provide, transaction details such as style, size, price, discount, date, your credit card number and expiration date used for transactions, and an assigned password to protect your privacy.
 
-Also, like many Web sites, we use "cookies", which are files stored on your computer's hard drive by your browser. Cookies do not contain personally identifiable information. Cookies help us to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Web site without checking out. Cookies are not used on this Web site to store your account information; this information is stored securely on this Web site's server. When you log in at this Web site with your username and password, we will assign you a secure session id. The server then passes your information to you through this secure session id. Also, we will use cookies to monitor and maintain information about your use of this Web site. Cookies are also used to track the identity of the Web site you visited immediately prior to visiting this Web site; otherwise, we do not track information about your use of other Web sites. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Web site. We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you. 
+Automatic information is information that we collect automatically whenever you interact with this website such as your IP address, the type of computer you use, and the web browser you use. An IP address is a number assigned to your computer when you connect to the Internet. Each time you visit this site, our web server may automatically recognize and collect this information. Automatic information also includes "cookies" and "web beacons". A "cookie" is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Among other things, cookies provide a means for us to keep track of your online patterns and preferences. By understanding which areas of the site you visit, cookies allow us to present information, products and services that are of personal interest. A cookie will not allow us to learn any personal information (such as your real name and address) that you have not otherwise disclosed. Most browsers are initially set up to accept cookies. You can change your browser so that it will not automatically accept cookies. However, if you do so, it is possible that some portions of the site may not function as intended. "Web beacons", also known as clear GIFs or single-pixel GIFs, are small image files that we may place on web pages and within web-based email newsletters that we send. Working in conjunction with cookies, web beacons allow us to accurately count the number of unique users who have visited a specific page and the number of times those pages are displayed. We can also use web beacons to let us know how many people opened a web-based email newsletter.
 
-**Is Information Collected From Children?**
+We may associate automatic information with your personal information. In the event of such association, such automatic information will be considered personal information.  
 
-This Web site is not intended or directed to anyone under the age of 18.  We do not sell or ship any items ordered through this Web site directly to anyone who we know to be under the age of 18, nor do we collect any personal information from anyone who we know to be under the age of 18. If you are under the age of 18, you should use this Web site only with the involvement of a parent or guardian and should not submit any personal information to us. 
 
-**With Whom Do You Share Information?**
+### How does LondonFog.com use this information?
 
-We do not share with others, or sell or rent to others, any personal information that you provide to us through this Web site or through our [**Customer Service Department**](https://web.archive.org/customerservice), except with your consent or as described in this Privacy Policy. 
+LondonFog.com uses this information to confirm and process sales transactions or to contact you with questions or communications about your order, or to respond to your customer service inquiries.
 
-We engage third parties to perform services in connection with the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, Web site evaluation, data analysis and, where applicable, data cleansing. We provide personal information to these third parties, but we authorize them to use this information only in connection with the services they perform. 
+LondonFog.com also uses this information to enhance and personalize your shopping experience, both online and in our stores, to communicate with you for marketing and promotional purposes including via targeted postal pieces, phone messages, or personalized emails, and to improve the effectiveness of our websites and business activities. You may indicate your contact preferences regarding promotional communications either directly to us online or to customer service representatives. 
 
-We may release personal information if we believe in good faith that: the law or legal process requires it; we have received a valid administrative request from a law enforcement agency; or such release is necessary to protect the rights, property or safety of Onestop and/or London Fog, or any of our respective affiliates, business partners, customers or others. 
+### How does LondonFog.com protect your information?
 
-We may share non-personal information with our marketing partners, advertisers and others from time to time. Examples of such non-personal information include the number of users who visited this Web site during a specific time period or purchased a specific product through this Web site. This information generally is shared in an aggregated form. 
+Unfortunately, no data transmission over the Internet can be unconditionally guaranteed to be secure. Therefore any information you transmit to us is sent at your own risk.
 
-As with any business, it is possible that as our business develops, we might sell or buy online stores or other assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the event that Onestop or London Fog, or substantially all of our respective assets, are acquired by a third party, such information may be one of the transferred assets (unless the information was collected under a previous Privacy Policy that did not permit such disclosure). Under such circumstances, Onestop or London Fog as the case may be, would to the extent possible require the acquiring party to follow the practices described in this Privacy Policy. 
+However, when you place an order online, we use encryption technology, such as Secure Socket Layer Technology ("SSL"), to protect your personal information during data transport. SSL encrypts your order information, including your name, address, and credit card number, before it is transmitted to us to avoid the decoding of your information by anyone other than LondonFog.com.
 
-**What Steps Are Taken To Keep Personal Information Secure?**
+In addition, when you create an online account on LondonFog.com, you must select a personal password. As a member of LondonFog.com website, you will be able to view, among other things, your account profile, contact preferences, order history, address book. We store this type of information so that you do not have to reenter it each time you make a purchase or visit the website. Should you decide to become a member of LondonFog.com’s website, you will be asked to provide an accurate email address and create a password. In order to help protect your personal information, you should be careful about maintaining the secrecy of your password.
 
-We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our [**Customer Service Department**](https://web.archive.org/customerservice).
+### Does LondonFog.com disclose your information to others?
 
-**How Can I Access, Correct and Update Personal Information?**
+Except as described in this privacy policy, LondonFog.com does not sell, rent or trade with third parties any personal information you provide to us online or at our stores, nor do we share such information with third parties. We may disclose personal information about you to third parties who provide services to us and who agree to maintain the confidentiality of such information in accordance with this privacy policy and use the information only in connection with the services they provide. These third parties may provide a variety of services to us including, without limitation, assisting us in fulfilling your transactions and customer service inquiries, updating your customer information record in our database, deploying our promotional offers to you, or fulfilling your request to unsubscribe from our email. We do not authorize those third parties to make any other use of your information.
 
-You can access, correct and update certain personal information that you have provided to us by clicking on "Update Account" within the "[ **My Account**](https://web.archive.org/myaccount)" area of this Web site. 
+We may use and/or disclose to others information about your demographics and use of our website in a manner that does not reveal your identity.
 
-**Can I Indicate Whether or Not I Want To Receive Promotional Communications?**
+We may disclose personal information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may have breached our [ Conditions of Use](https://web.archive.org/terms.asp) or who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users of our website, or anyone else who could be harmed by such activities.
 
-You will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. Additionally, you may contact our [**Customer Service Department**](https://web.archive.org/customerservice) or write to us at: 
+We may also disclose personal information when we reasonably believe that the law requires it. We might sell or buy subsidiaries, or business units. In such transactions, personally identifiable information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing privacy policy. Also, in the unlikely event that assets of Anne Klein are sold, personal information may be one of the transferred assets.
 
-London Fog, 2346 E. Pacifica Place, Rancho Dominguez, CA 90220. 
+### Can I unsubscribe?
 
-Please note that any request to be removed from such mailing lists may take up to one (1) week to become effective. Even if you are removed from any such list, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order. 
+Yes. LondonFog.com honors requests to unsubscribe from receipt of emails, not only for promotional emails that LondonFog.com sends, but also for emails about LondonFog.com that we permit other companies to send to their own list of subscribers. 
 
-**What Happens When I Link To or From Another Web Site?**
+### Does LondonFog.com have links to other web sites?
 
-This Web site may contain links to Web sites operated by third parties. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through these other Web sites. We encourage you to be aware of when you leave this Web site and to read the privacy policies of each and every Web site that you visit. 
+While you are using this website, you may be linked or directed to other third party sites outside of the website that are beyond our control. Each of these third parties may have a privacy policy different from ours. For example, you might click on a link or banner ad that will take you off the website. These links and banners may take you to sites of advertisers, sponsors and co-branding partners. Please review the privacy policies of these sites. We are not responsible for any actions or policies of such third parties.
 
-If you have accessed this Web site through a link from certain of our advertising or marketing partners, this Web site may include a frame of the applicable advertising or marketing partner. Nevertheless, the information you provide to us through these framed Web pages is collected by us, and our use of this information is governed by this Privacy Policy. 
+We welcome your comments regarding this privacy policy. Please send any concerns to:
 
-**What About Contests and Sweepstakes?**
-
-When we run a contest or sweepstakes relating to this Web site, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed. 
-
-**What About Online Surveys?**
-
-We may from time to time conduct on-line surveys. When you complete an online survey, we may ask for certain information including your age, zip code, shopping habits, email and/or mailing address. This information will be treated in accordance with this Privacy Policy. 
-
-**How Will I Be Informed About Changes Regarding This Privacy Policy?**
-
-If we make any material changes to this Privacy Policy, we will post a notice on this Web site notifying users of the changes. In some cases, we also may send an email notifying users of the changes. You should check this Web site periodically to see if any recent changes to this Privacy Policy have occurred.
-
-**IV. INFORMATION FROM PERSONS UNDER THE AGE OF 13**
-
-NOTICE: Visit [www.OnGuardOnline.gov](http://www.onguardonline.gov/topics/kids-privacy.aspx) for tips from the Federal Trade Commission on protecting kidsí privacy online.
-
-We do not seek to collect personally identifiable information from persons under the age of 13 without prior verifiable parental consent. 
-
-If we become aware that we have inadvertently received such information online from a child under the age of 13, we will delete it from our records. 
-
-If you are under the age of 13, please do not submit any personally identifiable information to us. 
-
-If you are the parent or guardian of a person under the age of 13 who has provided personally identifiable information to us, please inform us by contacting us at [info@iconixbrand.com](mailto:info@iconixbrand.com) and we will remove such information from our database. 
-
-If you are concerned about your children's use of the Site, you may use web filtering technology to supervise or limit access to the Site.
+LondonFog.com  
+1615 Kellogg Drive  
+Douglas, GA 31535
