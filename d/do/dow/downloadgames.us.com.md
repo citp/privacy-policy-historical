@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadgames.us.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629192031id_/http%3A//downloadgames.us.com/games/free/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadgames.us.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229165441id_/http%3A//downloadgames.us.com/games/free/privacypolicy.php) for the most accurate reproduction.*
 
 # Free Download Games
 
