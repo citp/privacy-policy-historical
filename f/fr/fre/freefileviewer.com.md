@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freefileviewer.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231050849id_/http%3A//www.freefileviewer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefileviewer.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229060819id_/http%3A//www.freefileviewer.com/privacy.html) for the most accurate reproduction.*
 
 # Free File Viewer Privacy Policy
 
@@ -44,4 +44,4 @@ We use cookies on the Sites to store information about the site you visited us t
 
 ## Enforcement of this Privacy Statement
 
-If you have questions regarding this statement, you should [contact us](https://web.archive.org/web/20101231050849id_/http%3A//www.freefileviewer.com/contact.html).
+If you have questions regarding this statement, you should [contact us](https://web.archive.org/web/20111229060819id_/http%3A//www.freefileviewer.com/contact.html).
