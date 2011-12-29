@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox11online.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630015538id_/http%3A//www.fox11online.com/subindex/About_Us/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox11online.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229020210id_/http%3A//www.fox11online.com/subindex/About_Us/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | FOX 11 Online, WLUK-TV
 
