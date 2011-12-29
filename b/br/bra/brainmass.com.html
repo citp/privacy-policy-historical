@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the brainmass.com privacy policy that was archived on 2011-04-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110427171210id_/http%3A//www.brainmass.com/content/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brainmass.com privacy policy that was archived on 2011-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111230005124id_/http%3A//www.brainmass.com/content/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,13 +8,10 @@
 
 <link href="/css/v4/global.css" rel="stylesheet" type="text/css" media="screen">
 <link href="/css/v4/public.css" rel="stylesheet" type="text/css" media="screen">
-<script src="/js/public_global.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="/js/public_global.js" type="text/javascript" charset="utf-8"></script>
 
 <!--[if IE 7]><link href="/css/v4/ie7fixes.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
 
-
-
-<script type="text/javascript" src="/js/jquery.tools.min.js"></script>
 
 
 </head>
@@ -31,13 +28,26 @@
             </ul>
             <ul id="headernav">
                 <li><a href="/" class="btn1">Home</a></li>
-                <li><a href="/content/postproblem.php" class="btn2">Post-A-Problem</a></li>
-                <li><a href="/content/solutionlib.php" class="btn3">Solution Library</a></li>
-                <li><a href="/homework-help/" class="btn4">Subjects</a></li>
-                <li><a href="/content/ota_profiles.php" class="btn5">OTA Profiles</a></li>
-                <li><a href="/content/textbookrentals.php" class="btn6">Textbook Rentals</a></li>
-                <li><a href="/blog/" class="btn7">Blog</a></li>
+                <li><a href="/content/postproblem.php" class="btn2">Custom Help</a></li>
+                <li><a href="/content/solutionlib.php" class="btn3">Search for Answers</a></li>
+                <li><a href="/needtoknow" class="btn4">eBooks</a></li>
+                <li><a href="/homework-help" class="btn5">Subjects</a></li>
+                <li><a href="/content/ota_profiles.php" class="btn6">OTA Profiles</a></li>
+                <li><a href="/content/textbookrentals.php" class="btn7">Textbook Rentals</a></li>
+                <li><a href="/blog/" class="btn8">Blog</a></li>
             </ul>
+            <div class="gplus">
+                <!-- Place this tag where you want the +1 button to render -->
+                <g:plusone annotation="none" href="http://brainmass.com/"></g:plusone>
+                <!-- Place this render call where appropriate -->
+                <script type="text/javascript">
+                  (function() {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/plusone.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                  })();
+                </script>
+            </div>
         </div>
 	</div>
     
@@ -118,29 +128,6 @@ Last updated September 1, 2010</p>
 
 <br><br><br>
 
-<!-- easter egg -->
-<div id="easteregg-overlay" class="apple_overlay">
-	<div class="contentWrap"></div>
-</div>
-<script type="text/javascript">
-var eastereggframe = $('<iframe frameborder="0" scrolling="no" allowtransparency="true"></iframe>');
-var easteregg = $("#easteregg-overlay").overlay({
-	mask: '#333333',
-	speed: '0',
-	onBeforeLoad: function() {
-        var wrap = this.getOverlay().find(".contentWrap");
-        var link = "/resources/easter-egg.php?egg=u2UEXE";
-        $(eastereggframe).attr({ src: link, style: 'height:424px;width:610px;border:2px solid #333;' });
-        wrap.html(eastereggframe);
-    }
-});
-$('#easter-egg').click(function() {
-    easteregg.data("overlay").load();
-});
-    var preloadbg = $('<img />').attr('src', '/images/v4/misc/eastereggs.png');
-</script>
-<!-- easter egg-->    
-
 		</div>
         
     </div>
@@ -178,30 +165,45 @@ $('#easter-egg').click(function() {
             <li>·</li>
         	<li><a href="/content/about/contact.php">Contact Us</a></li>
          </ul>
-         <ul>
-        	<li><a href="/homework-help/">Homework Help Solutions</a></li>
-            <li>·</li>
-        	<li><a href="http://www.student.com" target="_blank">Student Center</a></li>
-            <li>·</li>
-        	<li><a href="http://www.homerenoexperts.com" target="_blank">Home Renovation Help</a></li>    	
-        </ul>
         <br class="clear">
-        <div class="copy">©2004-2010 BrainMass Inc.</div>
+        <div class="copy">©2004-2011 BrainMass Inc.</div>
     </div>
+
+    <script language="javascript">
+    window.onload = function(){
+    	
+    }
+    </script>
 
 	<!-- BEGIN Analytics Tracker -->
 	<script type="text/javascript">
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	try {
-	var pageTracker = _gat._getTracker("UA-276007-1");
-	pageTracker._trackPageview();
-	} catch(err) {}
-	</script>
-	
-	<!-- BEGIN Analytics Tracker -->
+    <script type="text/javascript">
+        try {
+            var pageTracker = _gat._getTracker("UA-276007-1");
+            try {
+                /*if (analyticsCustom["CustomVar"] != null) {
+                    for (index in analyticsCustom["CustomVar"]) {
+                        var customVar = analyticsCustom["CustomVar"][index];
+                        pageTracker._setCustomVar(
+                                customVar["slot"],
+                                customVar["name"],
+                                customVar["value"],
+                                customVar["scope"]
+                        );
+                    }
+                }*/
+                if (_analyticsVar != null) {
+                    pageTracker._setVar(_analyticsVar);
+                }
+            } catch(e) {}
+            pageTracker._trackPageview();
+        } catch(err) {}
+    </script>
+    
+    <!-- BEGIN Analytics Tracker -->
 	
 	<!-- Start Quantcast tag -->
 	<script type="text/javascript">
@@ -214,64 +216,6 @@ $('#easter-egg').click(function() {
 	<img src="http://pixel.quantserve.com/pixel/p-7fUnxIufwvPHY.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 	</noscript>
 	<!-- End Quantcast tag -->
-	
-	<!-- IE6 warning -->
-	<script type="text/javascript"><!--
-    function getInternetExplorerVersion() {
-      var rv = -1; // Return value assumes failure.
-      if (navigator.appName == 'Microsoft Internet Explorer')
-      {
-        var ua = navigator.userAgent;
-        var re  = new RegExp("MSIE ([0-9]{1,}[\.0-9]{0,})");
-        if (re.exec(ua) != null)
-          rv = parseFloat( RegExp.$1 );
-      }
-      return rv;
-    }
-    
-    if (getInternetExplorerVersion() == 6) {
-    	var b = document.getElementsByTagName("body").item(0)
-    	var fchild = b.firstChild;
-    	
-    	var wchild = document.createElement("div");
-    	wchild.className = "errorBox";
-    	wchild.innerHTML = "<center><strong>BrainMass.com is not compatible with Internet Explorer 6.0.</strong> Please use a newer version of " +
-    						"<strong><a href=\"http://www.microsoft.com/windows/internet-explorer/\">Internet Explorer</a></strong> (7.0 or later), " +
-    						"<strong><a href=\"http://www.mozilla.com\">Firefox</a></strong>, " +
-    						"<strong><a href=\"http://www.google.com/chrome\">Chrome</a></strong> or " +
-    						"<strong><a href=\"http://www.apple.com/safari/download/\">Safari</a></strong>.\n\n</center>";
-    	wchild.style.margin = "0px auto 0px auto";
-    	b.insertBefore(wchild, fchild);
-    	b.style.backgroundPosition = "0px 26px";
-
-    	try {
-			var ie6v = document.getElementById("ie6v");
-			if (ie6v != null) {
-				ie6v.style.display = "block";
-			}
-    	}catch(e){}
-    }
-	</script>
-	
-	<!-- Google Code for Public Pages Visitors Remarketing List -->
-    <script type="text/javascript">
-    /* <![CDATA[ */
-    var google_conversion_id = 1071952036;
-    var google_conversion_language = "en";
-    var google_conversion_format = "3";
-    var google_conversion_color = "666666";
-    var google_conversion_label = "QgoQCIDk_AEQpOGS_wM";
-    var google_conversion_value = 0;
-    /* ]]> */
-    </script>
-    <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-    </script>
-    <noscript>
-    <div style="display:inline;">
-    <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1071952036/?label=QgoQCIDk_AEQpOGS_wM&guid=ON&script=0"/>
-    </div>
-    </noscript>  
-
 
 
 </body></html>
