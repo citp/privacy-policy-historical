@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findxplorer.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630013849id_/http%3A//findxplorer.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findxplorer.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229020045id_/http%3A//www.findxplorer.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
 
 # FindXplorer - Privacy Policy
 
