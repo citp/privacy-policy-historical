@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightinthebox.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616044812id_/http%3A//www.lightinthebox.com/r/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightinthebox.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229053427id_/http%3A//www.lightinthebox.com/r/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice - www.LightInTheBox.com
 
@@ -76,7 +76,7 @@ We sell merchandise, not information **— We do not sell, rent, trade, license,
 
      Third-party service providers:
 
-** Like most catalog and Internet wholesalers, we sometimes use third-party service providers to perform specific functions on our behalf. Any information disclosed to them is solely to help in their provision of service. For example, we provide your name, shipping address, email and phone number to partners such as DHL and UPS in order to guarantee delivery of your orders, and we may use relevant customer information in order to monitor the quality of the third party’s service.  
+** Like most online retailers, we sometimes use third-party service providers to perform specific functions on our behalf. Any information disclosed to them is solely to help in their provision of service. For example, we provide your name, shipping address, email and phone number to partners such as DHL and UPS in order to guarantee delivery of your orders, and we may use relevant customer information in order to monitor the quality of the third party’s service.  
 Similarly, we must provide your credit card number to financial services organizations such as credit card processors and issuers in order to process payments. We protect all submissions of your credit card number for authorization with state-of-the-art data encryption. (More on this below in the Data Security section.)
 
 **Legal requirement to disclose information:** We may be required to disclose information if subpoenaed, served with a court order or requested by law-enforcement officials conducting investigations, or if we are otherwise required by law to disclose such information. We will also release personal information when necessary to protect our legal rights or enforce our Terms of Use and other agreements. For example, we may share information to reduce the risk of fraud, or to prevent fraud by users who attempt fraud or other illegal activity on our Site.  
