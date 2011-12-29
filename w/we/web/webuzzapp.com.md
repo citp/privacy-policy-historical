@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webuzzapp.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315201526id_/http%3A//www.webuzzapp.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webuzzapp.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229045115id_/http%3A//www.webuzzapp.com/aboutus/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WeBuzz
 
@@ -40,7 +40,7 @@ Your information may be transferred to, and maintained on computers located outs
 
 ### INFORMATION SHARING AND DISCLOSURE
 
-As part of our regular business conduct, we may share information with companies or individuals providing services or acting on our behalf, such as companies providing technological or fulfillment services. These third parties have access to your information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. While we cannot guarantee that they will adhere to the same privacy and security procedures as WeBuzz, we will take all reasonable precautions under the circumstances to ensure the protection of your personal information.
+As part of our regular business conduct, we may share information with companies or individuals, but not including advertisers, providing services or acting on our behalf, such as companies providing technological or fulfillment services. These third parties have access to your information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. While we cannot guarantee that they will adhere to the same privacy and security procedures as WeBuzz, we will take all reasonable precautions under the circumstances to ensure the protection of your personal information.
 
 We will disclose any information about you to the government or law enforcement officials or private parties as we, in our sole discretion, believe it is necessary or appropriate to respond to claims and legal processes, to protect the property and rights of WeBuzz or a third party, to protect the safety of the public or any persons, or to prevent or stop activity we may consider to be illegal, unethical or legally actionable activity. In the event that there is a merger, acquisition, reorganization or sale of assets or bankruptcy, WeBuzz may sell, transfer or otherwise share some or all of our assets, including the information you have submitted.
 
@@ -75,5 +75,9 @@ By using any WeBuzz websites, applications or services, you signify your underst
 ### CHANGES TO OUR PRIVACY POLICY
 
 As noted above, we may modify this Privacy Policy from time to time. When we post changes to this Privacy Policy, we will revise the "last modified" date at the bottom of this page. Such revisions shall be effective to you immediately upon posting. We encourage you to periodically review this Privacy Policy to be informed of how we aim to protect your information.
+
+### ENQURIES
+
+For any enquires, WeBuzz can be contacted by posting to SUITE 902, 9/F, WING ON CENTRAL BUILDING, 26 DES VOEUX ROAD, CENTRAL, HONG KONG; by calling 852-31570321; or sending an email to info@webuzzapp.com.
 
 Last Modified: Dec 2010
