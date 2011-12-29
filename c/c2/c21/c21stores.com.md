@@ -1,45 +1,43 @@
-> *The following text is extracted and transformed from the c21stores.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423024026id_/http%3A//www.c21stores.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c21stores.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229201508id_/http%3A//www.c21stores.com/privacy-policy) for the most accurate reproduction.*
 
-# Century 21 - Privacy Policy & Loyalty Program
+# Privacy Policy at Century 21
 
-### What information do we collect and how do we use it?
+## Privacy and Security
 
-Effective March 15, 2010 C21Stores.com collects customer information in an effort to improve our customer's shopping experience and to communicate with our customers about our products, services and promotions. We collect information such as your name, e-mail and postal address, that you provide to us, when you submit your information with us or when you participate in a sweepstakes, promotion or survey. In addition, we maintain a record of your purchases and whatever else might enable us to enhance and personalize your shopping experience. We also monitor site use and traffic patterns to improve our web site design and the products and services we offer. C21Stores.com recognizes that it must maintain and use customer information responsibly. Century 21 Department Stores will not rent or sell your e-mail address for any reason. We may disclose information about you to other members of the Century 21 Department Stores corporate family and as required by law, to include a company with which we contract to help us prevent the unauthorized use of credit and gift cards. If at any time you would like us to remove you from our mailing list, [click here](http://ebm.cheetahmail.com/r/regf2?a=0&aid=2086023554&n=2 "Click here to unsubscribe") to unsubscribe. To update or delete any of your personal information on file, just [click here](mailto:customerservice@c21stores.com) to e-mail C21Stores.com customer service. Please be sure to include your e-mail address and full name.
+### _What information do we collect and how do we get it?_
 
-We may also work with select partners to distribute web advertisements based on our customers' internet browsing patterns. These partners never collect personally identifiable information, however if you'd prefer, you may opt out at any time by clicking here: <http://www.networkadvertising.org/>
+Century 21 Department Stores, also referred to as C21Stores.com, are committed to protecting your privacy.  If you utilize the C21stores.com website, then you agree to C21stores.com Privacy Policy.  In order to access the C21Stores.com website you must complete the registration process.  C21Stores.com collects guest information in an effort to improve our guest's shopping experience and to communicate with our guests about our products, services and promotions. We collect information such as your name, e-mail and postal address, and credit cards that you provide to us when you place an order, when you submit your information with us or when you participate in a sweepstakes, promotion or survey. C21Stores.com may use your information collected online to process and fulfill your order and send you any necessary e-mail messages related to your order, and to send membership invitations to your friends.  In addition, we maintain a record of your product interests, purchases and whatever else might enable us to enhance and personalize your shopping experience. We also monitor site use and traffic patterns to improve our web site design and the products and services we offer. C21Stores.com recognizes that it must maintain and use guest information responsibly. 
 
-### Security
+If you invite a friend to join C21Stores.com, you will need to provide their email address.  C21Stores.com will invite your friend to join our membership, and utilize technology to track membership enrollment and qualifying purchases that are associated to your account. 
 
-When ordering gift cards with us, we want our customers to feel confident that their personal information and credit card data is completely safe. On C21Stores.com, we employ 128-bit Secure Sockets Layer (SSL) technology that safely encrypts all of your private information when placing an order, and guarantees it is sent securely into our systems to be processed.
+To serve you better, we may combine information you give us online and in our stores. We may also combine that information with publicly available information we receive from or cross-reference with select partners and others. By combining this information we are better able to communicate with you about our products, special events and promotional purposes and to personalize your shopping experience. 
 
-### Note To Kids
+Century 21 Department Stores will not rent or sell your e-mail address for any reason. We may disclose information about you to other members of the Century 21 Department Stores corporate family and as required by law, to include a company with which we contract to help us prevent the unauthorized use of credit and gift cards.  If at any time you would like us to remove you from our mailing list, [click here](http://ebm.cheetahmail.com/r/regf2?a=0&aid=2086023554&n=2) to unsubscribe. You can always update or delete your personal information on our website.  Simply click My Account in the menu at the top of each page on our website and you will be able to edit or change your information.  If at any time you would like us to delete any of your personal information on file, just [click here](mailto:customer%20service@c21stores.com) to email C21stores.com customer service. Please be sure to include your email address and full name. Or you may call us at 877-350-2121. 
 
-If you are under the age of 13, you are not permitted to submit any personal information to C21Stores.com. C21Stores.com is intended for users who are 13 years of age and older.
+We may also work with select partners to distribute web advertisements based on our your internet browsing patterns. These advertising companies collect anonymous information about your visits to our website through the use of a cookie.  This technology allows them to develop our advertising so that it directly relates to offers that may be of interest to you. These partners never collect personally identifiable information, however if you'd prefer, you may opt out at any time by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp).  If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice. 
 
-### Return Policy
+We do not share credit card information with third parties except for the purpose of processing payment for products you've ordered and as required by law. In addition, we may disclose credit card and other information we collect from you with an outside company with which we have contracted for their services to protect against fraud and the unauthorized use of credit and gift cards. 
 
-We gladly accept returns within 30 days wsith the original register receipt, price tag attached and in selling condition (i.e. not worn and in original packaging).  We do reserve the right to require photo ID for returns, and to limit returns due to certain circumstances, including unusual frequency, excessive dollar amounts, and/or returns in multiple stores.  Returns are not accepted after 30 days.
+### _Business Partners_
 
-### Non-returnable Items
+We contract with an outside service called Coremetrics to help us better understand your use of C21Stores.com. Coremetrics places cookies on your computer to collect various kinds of information for us related to your use of C21Stores.com, so that we may continue to refine and improve the site for our customers. We do not allow Coremetrics to collect any credit card, user name or password information, nor are they allowed to use data that they collect for us for any other purpose. Additionally, Coremetrics is contractually required to maintain all the information collected for us in strict confidence.   In order to utilize the C21Stores.com website, it is necessary that site users of allow cookies. 
 
-Open packages of socks, tights, pantyhose, and underwear; bathing suits without sanitary liners; merchandise that is used or worn; christening sets purchased more than one day earlier; and merchandise that is sold as Final Sale cannot be returned for any reason.
+### _Security_
 
-### C21 VIP Loyalty Card Program- Terms and conditions
+When ordering with us, we want our customers to feel confident we are using standard industry practices to protect the data stored within our system.  On C21Stores.com, we encrypt your credit card number and other information using Secure Socket Layer (SSL) technology, which guarantees secure transmission of information. 
 
-The C21 VIP Loyalty Card Program is designed to reward frequent guests of Century 21 Department Stores with VIP LOYALTY POINTS that can be used toward future purchases. VIP LOYALTY POINTS are based on guest purchase activity. Enrollants are initiallly designated as SILVER status.  Members attain GOLD status upon reaching 1,000 points.  Members attain PLATINUM status upon reaching 5,000 points.  For every 1,000 points accumulated, guests will earn $20 in VIP Loyalty Dollars. Platinum members will begin earning $30 in VIP Loyalty Dollars in the next reward cycle following reaching the platinum level. Purchases of Century 21 gift cards, shipping, handling, and taxes do not earn VIP loyalty Points. VIP Loyalty Points will not be accumulated if you use a merchandise credit to complete a purchase or on the portion of a purchase made with VIP loyalty Dollars. Returns on purchases will be decremented against accumulated VIP loyalty Dollars. Open to US residents only.
+### _Note to Children_
 
-Present your C21 VIP Loyalty Card prior to each purchase to receive VIP LOYALTY POINTS. Guests who give us their email address have access to their account balance online at [www.c21stores.com](http://www.c21stores.com/).
+If you are under the age of 18, you are not permitted to submit any personal information to C21Stores.com. C21Stores.com is intended for users who are 18 years of age and older.   In the event that we become aware a registered user is under the age of 18, we will delete all details relating to that user’s account. 
 
-VIP LOYALTY POINTS become available 30 days after the purchase date. If you have not made a purchase at Century 21 Department Stores with your C21 VIP LOYALTY CARD in 18 months you will lose your C21 VIP LOYALTY privileges. VIP LOYALTY DOLLARS expire 60 days after the date granted. VIP LOYALTY DOLLARS may not be used applied toward prior purchases. VIP LOYALTY DOLLARS are not redeemable for cash and no change will be given. VIP LOYALTY POINTS and VIP LOYALTY DOLLARS are non-transferable and do not have any cash value. 
+### _Privacy Policy Updates_
 
-VIP LOYALTY DOLLARS can only be redeemed by the registered guest for the C21 VIP Loyalty Card program. VIP LOYALTY DOLLARS may only be redeemed by presenting the VIP LOYALTY DOLLARS coupon, sent via email by Century 21 Department Stores. 
+Periodically we may update or change our Privacy Policy.  We will post updates here so that you are informed of them.  Your acceptance of these updates is indicated by your continued use of the website. 
 
-Century 21 Department Stores is not responsible for any lost or destroyed VIP LOYALTY DOLLARS coupons.
-
-The Terms and Conditions of the C21 VIP Loyalty Card program are subject to change at Century 21 Department Stores sole discretion at any time and without notice. To view our complete privacy policy visit [www.c21stores.com](http://www.c21stores.com/). C21 VIP Loyalty Card program may be terminated at any time without notice. Upon termination, all VIP LOYALTY DOLLARS will immediately expire. Team members of Century 21 are not eligible to participate in the C21 VIP Loyalty Card program. The C21 VIP LOYALTY Card must be presented at the register to qualify for card benefits, Century 21 will make reasonable efforts to count all qualifying purchases toward the program, but we are not responsible for any technical errors that may occur. 
-
-Guest inquiries can be made by online by emailing [VIPloyalty@c21stores.com](mailto:VIPloyalty@c21stores.com) 
-
-By giving us your email address you will receive account status information, special events, promotional offers and be able to participate in the Century 21 Loyalty Program.  Individuals who opt out of receiving email communications from Century 21 or do not have an active email address, are unable to participate in the Century 21 Loyalty Program. 
-
- If you do not wish to receive such email [VIPloyalty@c21stores.com](mailto:VIPloyalty@c21stores.com) to opt out.  If they opt out then we will have no way to send them their reward dollars.
+If you have any questions about our Privacy Policy please contact us at  
+Century 21 Department Stores Guest Service  
+22 Cortlandt Street  
+New York, NY 10007  
+1-888-350-2121  
+[customerservice@c21Stores.com](mailto:customerservice@c21Stores.com)  
+Last updated March 1, 2011. 
