@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the confirio.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426074526id_/http%3A//www.confirio.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confirio.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230000654id_/http%3A//www.confirio.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Confirio | Privacy
 
