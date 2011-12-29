@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoclubrevolution.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602010311id_/http%3A//autoclubrevolution.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoclubrevolution.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229142537id_/http%3A//autoclubrevolution.com/privacypolicy) for the most accurate reproduction.*
 
 # Auto Club Revolution. The Online Racing Game and Car Community Coming Soon
 
