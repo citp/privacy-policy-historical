@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the culinate.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630121451id_/http%3A//www.culinate.com/culinate/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culinate.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229205037id_/http%3A//www.culinate.com/culinate/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Culinate
 
