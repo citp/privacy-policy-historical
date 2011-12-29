@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videospin.com privacy policy that was archived on 2011-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110325085232id_/http%3A//apps.pinnaclesys.com/cdb/register/privacy_policy.aspx%3FLangue_ID%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videospin.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229103652id_/http%3A//apps.pinnaclesys.com/cdb/register/privacy_policy.aspx%3FLangue_ID%3D7) for the most accurate reproduction.*
 
 # Avid Technology is the Leader in Digital Video
 
@@ -11,7 +11,7 @@ PLEASE REVIEW THIS PRIVACY POLICY BEFORE USING THIS WEBSITE.
 
 IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, DO NOT USE THE WEBSITE. THIS PRIVACY POLICY GOVERNS THE USE OF THE WEBSITE AND APPLIES TO ANY INFORMATION YOU MAY SUBMIT TO THIS WEBSITE. BY USING THE WEBSITE AND SUBMITTING ANY PERSONAL INFORMATION, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY. 
 
-Your use of this website and the terms of this privacy policy also are subject to the [Terms of Service](https://web.archive.org/PublicSite/us/About+Us/Company+Info/Terms+of+Service.htm). Please review those Terms of Service for additional detail regarding your use of this website. 
+Your use of this website and the terms of this privacy policy also are subject to the [Terms of Service](http://www.pinnaclesys.com/PublicSite/us/About+Us/Company+Info/Terms+of+Service.htm). Please review those Terms of Service for additional detail regarding your use of this website. 
 
 This privacy policy was last Updated: **May 17, 2006**
 
