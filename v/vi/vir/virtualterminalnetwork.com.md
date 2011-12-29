@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualterminalnetwork.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522213613id_/http%3A//www.virtualterminalnetwork.com/cardholder/CMSDisplay.asp%3FPageID%3D506) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualterminalnetwork.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229172519id_/http%3A//www.virtualterminalnetwork.com/cardholder/CMSDisplay.asp%3FPageID%3D506) for the most accurate reproduction.*
 
 # Privacy Policy - virtualterminalnetwork.com
 
@@ -128,4 +128,4 @@ Email: support@virtualterminalnetwork.com
 
   
   
-[Open an Account](https://web.archive.org/web/20110522213613id_/http%3A//www.virtualterminalnetwork.com/cardholder/)
+[Open an Account](https://web.archive.org/web/20111229172519id_/http%3A//www.virtualterminalnetwork.com/cardholder/)
