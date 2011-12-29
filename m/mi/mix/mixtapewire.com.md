@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mixtapewire.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630153044id_/http%3A//mixtapewire.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixtapewire.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229164907id_/http%3A//mixtapewire.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Mixtapewire Privacy Policy | MixtapeWire - Download Hip Hip Mixtapes & Music Mp3
+# Mixtapewire Privacy Policy | MixtapeWIRE.com
 
 Privacy Policy
 
@@ -22,3 +22,5 @@ Limited information is supplied to www.Mixtapewire.com in the event of a sale. T
 * Google, as a third party vendor, uses cookies to serve ads on your site.  
 * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+Stream and preview songs below:
