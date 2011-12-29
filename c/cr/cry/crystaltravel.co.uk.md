@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crystaltravel.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229034358id_/http%3A//www.crystaltravel.co.uk/Privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystaltravel.co.uk privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229202422id_/http%3A//www.crystaltravel.co.uk/Privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy_policy - Holidays, travel, Cheap Holidays, discount flights, Flights
 
@@ -11,7 +11,7 @@
 ---  
    
 Privacy Statement for www.crystaltravel.co.uk   
-The following discloses our information gathering and dissemination practices for our [www.crystaltravel.co.uk ](https://web.archive.org/web/20101229034358id_/http%3A//www.crystaltravel.co.uk/index.aspx) website . 
+The following discloses our information gathering and dissemination practices for our [www.crystaltravel.co.uk ](https://web.archive.org/web/20111229202422id_/http%3A//www.crystaltravel.co.uk/index.aspx) website . 
 
 What information do we collect?   
 Site and Service Updates   
