@@ -1,61 +1,100 @@
-> *The following text is extracted and transformed from the vectorfree.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623112325id_/http%3A//www.freevector.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectorfree.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# FREE VECTOR PRIVACY
+# Legal Agreement
 
-Welcome to Free Vector!
+**Go Daddy Respects Your Privacy**
 
- **PRIVACY POLICY**
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-Free Vector's Privacy Policy explains the collection, use, and disclosure of personal information by Free Vector, located at www.freevector.com.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-Free Vector has implemented all reasonable measures to protect against unauthorized access to and unlawful interception or processing of personal information that we control. This Privacy Policy covers the use of cookies by Free Vector and does not cover the use of cookies or other tracking technologies by any of its third parties.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-We collect personal information when you provide it to us by becoming a Free Vector member, when you sign up to receive our newsletters, participate in forum discussions, send us messages or emails or when you download or buy one of our products. By using or accessing Free Vector, you are accepting the practices described in this Privacy Policy.
+**Information Collection and Use**
 
-When you become a Free Vector member, you create your own profile, which contains certain personal information, such as your name, nickname, your gender, your address, your email address and any other information that you provide to us. Your member information, as well as your (nick)name, email and avatar, are displayed to other people visiting the Free Vector website.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Please keep in mind that if you disclose personal information in your profile or when posting comments, messages, photos, videos, marketplace listings or other items, this information may become publicly available.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Free Vector site usage information is occasionally collected automatically about your activities while visiting the Free Vector site, including what pages you view and when you view them and information about the browser you are using.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-You agree and understand that you are responsible for maintaining the confidentiality of passwords associated with any account you use to access the Free Vector website and services. Accordingly, you agree that you will be solely responsible for all activities that occur under your Free Vector account. If you become aware of any unauthorized use of your password or of your account, you agree to notify Free Vector immediately at “info at freevector dot com”.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
- **USE OF INFORMATION**
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Profile information you submit to Free Vector will be available to visitors of the website and limited pieces of information may be made available to third party search engines. Free Vector may send you website-related announcements from time to time. Generally, you may opt out of such emails by unsubscribing to our email updates.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Free Vector may use information in your profile without identifying you as an individual to third parties. We share your information with third parties only in limited circumstances where we believe such sharing is 1) permitted by you 2) reasonably necessary to offer the service or 3) legally requested as we might be required to disclose user information in compliance with applicable laws.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-We may use third parties to facilitate our operations, such as to host the service at a co-location facility for servers, to process payments for products or services, to offer an online job application process, or to provide search results or links (including sponsored links). In connection with these offerings and business operations, our service providers may have access to your personal information for use for a limited time in connection with these activities.
+**Security**
 
-Where we utilize third parties for the processing of any personal information, we implement reasonable contractual and technical protections limiting the use of that information to the Free Vector-specified purposes.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-We let you choose to share information with marketers or electronic commerce providers through on-site offers. We may offer stores or provide services jointly with other websites, brands or companies.
+**Updating Your Information**
 
- **THIRD PARTY ADVERTISING**
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-Advertisements that appear on Free Vector are sometimes served directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and web beacons to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-Free Vector does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on Free Vector unless you choose to share it with them.
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
- **SECURITY**
+      iii.      You may call us at: (480) 505-8800
 
-Free Vector takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as Paypal password or credit card number), we encrypt that information using secure socket layer technology (SSL).
+       iv.      You may fax us at: (480) 505-8844
 
- **CHANGING OR REMOVING INFORMATION**
+**Sending Emails**
 
-Access and control over most personal information on Free Vector is readily available through the profile editing tools. Free Vector users may modify or delete any of their profile information at any time by logging into their account. Information will be updated immediately. Individuals who wish to deactivate their Free Vector account may do so on the My Account page. Removed information may persist in backup copies for a reasonable period of time but will not be generally available.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
- **UNDER AGE 13 POLICY**
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-Free Vector does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to become a member. No one under age 13 may provide any personal information to or on Free Vector. If you are under 13, please do not attempt to register for Free Vector or send any information about yourself to us. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible.
+**Compliance with Laws and Law Enforcement**
 
- **BETWEEN AGES 13-18 POLICY**
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-Free Vector recommends that minors 13-18 years old ask their parents for permission before sending any information about themselves to anyone over the Internet
+**Third Party Service Providers**
 
- **LINKS**
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-Free Vector may contain links to other websites. We are of course not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-This Privacy Policy was last updated on April 15, 2010. We may revise these policies at any time. Questions? Please direct questions regarding this Privacy Policy to “info at freevector dot com”.
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
