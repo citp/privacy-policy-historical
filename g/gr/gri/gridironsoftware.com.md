@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gridironsoftware.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630120734id_/http%3A//www.gridironsoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gridironsoftware.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229010249id_/http%3A//www.gridironsoftware.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Gridiron Software
 
