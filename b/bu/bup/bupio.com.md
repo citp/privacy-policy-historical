@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bupio.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630104156id_/http%3A//www.bupio.com/help-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bupio.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229040408id_/http%3A//www.bupio.com/help-privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
