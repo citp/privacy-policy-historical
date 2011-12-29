@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfone.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626000224id_/http%3A//khup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfone.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229191136id_/http%3A//www.khup.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
