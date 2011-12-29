@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the winster.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612222301id_/http%3A//www.winster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winster.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229105051id_/http%3A//www.winster.com/privacy.html) for the most accurate reproduction.*
 
 # Winster - Games, Friends, Prizes
 
-Privacy Policy |   | 
+Privacy Policy |  | 
 
 [ ](https://www.bbb.org/online/consumer/cks.aspx?id=110012715254950)  
   
 ---|---|---  
   
-Last updated: June 9, 2009
+Last updated: June 24, 2011
 
 Winster, Inc. ("Winnie", "I", "We", "Us", "Our") believes in the Golden Rule: We respect your right to privacy, and intend to treat your personal information as We would want Ours treated on your web site. This notice describes Our Privacy Policy. 
 
@@ -32,7 +32,7 @@ In general, We only share information about you with third parties when We need 
 
 In the course of running Our Games and operating Our web site, there are occasions when we may share information about you with other members and players. We will tell you that We may do this when We collect, or you provide Us with, specific information such as your screen name and interests. 
 
-We send you email and other forms of communication for a variety of reasons, such as to tell you about new games, features, and prizes, to tell you if you have won, to confirm orders and charges, to deliver prizes and gift certificates, and to respond to your customer service requests. Also, We may send offers to you on behalf of other businesses. If you do not want to receive certain email or other communications from Us, send an email from the email account that you would like to remove to [unsub-int@winster.com](mailto:unsub-int@winster.com?subject=UNSUBSCRIBE) with "UNSUBSCRIBE" in the Subject field. 
+We send you email and other forms of communication for a variety of reasons, such as to tell you about new games, features, and prizes, to tell you if you have won, to confirm orders and charges, to deliver prizes and gift certificates, and to respond to your customer service requests. Also, We may send offers to you on behalf of other businesses. If you do not want to receive certain email or other communications from Us, send an email from the email account that you would like to remove to [unsub-int@winster.com](mailto:unsub-int@winster.com?subject=UNSUBSCRIBE) with "UNSUBSCRIBE" in the Subject field. You can also call us at 650-376-1460 x101 and request that we remove you from our email list.
 
 We employ people, consultants, and other companies to perform functions for Us. This may from time to time include order fulfillment, prize delivery, sending mail (postal and electronic), analyzing data, marketing consulting, processing credit card payments, providing customer service, and other business functions. These organizations and individuals may have access to your personal information as needed to perform their functions, but may not use it for other purposes. Note specifically that We may share information about you with business partners and vendors from whom We source prizes, including gift certificates, and they may retain this information for their records, add you to their customer records, and treat this information in accordance with their own privacy policies which may differ from Ours. We may receive discounts, payments, or other forms of consideration in return for sharing this information with them. 
 
