@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the intertrader.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616044800id_/http%3A//www.intertrader.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intertrader.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229065029id_/http%3A//www.intertrader.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Intertrader.com - Privacy Policy
+# Privacy Policy | InterTrader
 
 #### Introduction
 
