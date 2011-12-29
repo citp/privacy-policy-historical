@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cff.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629045113id_/http%3A//www.cff.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cff.org privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229054235id_/http%3A//www.cff.org/privacy_policy) for the most accurate reproduction.*
 
 # Cystic Fibrosis Foundation - Privacy Policy
 
@@ -53,7 +53,7 @@ Unless we have your consent or except as required by law, CFF will not share you
 
 By submitting personal information through the Site, you authorize CFF to share this personal information for the purposes identified, such as determining qualifications for grants, organizing fund-raising events, responding to User inquiries, processing donations, or determining eligibility for CFF programs.
 
-If you do not want CFF to disclose your personal information to third parties, you may opt-out by submitting a written request to CFF at Cystic Fibrosis Foundation, 6931 Arlington Road, Bethesda, MD 20872, Attn: Communications Department.
+If you do not want CFF to disclose your personal information to third parties, you may opt-out by submitting a written request to CFF at Cystic Fibrosis Foundation, 6931 Arlington Road, Bethesda, MD 20814, Attn: Communications Department.
 
 If you opt-out, you may not be able to participate in or qualify for CFF grants, or fund-raising events or programs, you may not receive the information you requested, and CFF may not be able to inform you of new programs, events, developments, products and services. CFF may share non-personal, non-individual information in aggregate form with third parties.
 
@@ -69,15 +69,15 @@ Because we are committed to protecting your privacy, personal information that i
 
 In addition, such personal information may be stored on servers located outside your resident jurisdiction. U.S. law may not provide the degree of protection for personal information that is available in other countries. By providing us with your personal information, you acknowledge that your have read this privacy policy, understand it, agree to its terms and consent to the transfer of such information outside your resident jurisdiction.
 
-If you do not consent to the terms of this privacy policy, please do not use this Site, but if you have already provided us with personal information, please send us a written request to Cystic Fibrosis Foundation, 6931 Arlington Road, Bethesda, MD 20872, Attn: Communications Department, or send an e-mail to [info@cff.org](mailto:info@cff.org) and let us know how you would like us to handle such information.
+If you do not consent to the terms of this privacy policy, please do not use this Site, but if you have already provided us with personal information, please send us a written request to Cystic Fibrosis Foundation, 6931 Arlington Road, Bethesda, MD 20814, Attn: Communications Department, or send an e-mail to [info@cff.org](mailto:info@cff.org) and let us know how you would like us to handle such information.
 
 **How to Access, Review  and Update Your Information**
 
-Should your personal information need to be reviewed, updated, corrected or deleted, please submit your request in writing and send to Cystic Fibrosis Foundation, 6931 Arlington Road, Bethesda, MD 20872, Attn: Communications Department, or send an e-mail to [info@cff.org](mailto:info@cff.org).
+Should your personal information need to be reviewed, updated, corrected or deleted, please submit your request in writing and send to Cystic Fibrosis Foundation, 6931 Arlington Road, Bethesda, MD 20814, Attn: Communications Department, or send an e-mail to [info@cff.org](mailto:info@cff.org).
 
 **Opt-Out Policy**
 
-You may request not to be contacted by the CFF in connection with any new services, updates, programs or promotions. Requests not to be contacted by the CFF should be sent in writing to: Cystic Fibrosis Foundation, 6931 Arlington Road, Bethesda, MD 20872, Attn: Communications Department, or send an e-mail to [info@cff.org](mailto:info@cff.org). You also may make your request verbally by calling **(800) FIGHT CF (344-4823)**.
+You may request not to be contacted by the CFF in connection with any new services, updates, programs or promotions. Requests not to be contacted by the CFF should be sent in writing to: Cystic Fibrosis Foundation, 6931 Arlington Road, Bethesda, MD 20814, Attn: Communications Department, or send an e-mail to [info@cff.org](mailto:info@cff.org). You also may make your request verbally by calling **(800) FIGHT CF (344-4823)**.
 
 **Security**
 
@@ -91,7 +91,7 @@ This privacy policy may be modified. Any changes to the CFF privacy policy will 
 
 **How to Contact Us**
 
-If you have any questions about the Site, our privacy policy or the information we collect, please contact us at Cystic Fibrosis Foundation, 6931 Arlington Road, Bethesda, MD 20872, Attn: Communications Department, or send an e-mail to [info@cff.org](mailto:info@cff.org).
+If you have any questions about the Site, our privacy policy or the information we collect, please contact us at Cystic Fibrosis Foundation, 6931 Arlington Road, Bethesda, MD 20814, Attn: Communications Department, or send an e-mail to [info@cff.org](mailto:info@cff.org).
 
 back to top
 
@@ -165,8 +165,8 @@ This privacy policy may be modified. Any changes to the CFF Direct Mail privacy 
 
 **How to Contact Us**
 
-If you have any questions about our privacy policy or the information we collect, please write to the Cystic Fibrosis Foundation, 6931 Arlington Road, Bethesda, MD 208, Attn: Direct Marketing Department, or call toll-free **(866) 347-2345** or **(800) 344-4823**. You also may send an e-mail to [DirectMarketing@cff.org](mailto:DirectMarketing@cff.org).
+If you have any questions about our privacy policy or the information we collect, please write to the Cystic Fibrosis Foundation, 6931 Arlington Road, Bethesda, MD 20814, Attn: Direct Marketing Department, or call toll-free **(866) 347-2345** or **(800) 344-4823**. You also may send an e-mail to [DirectMarketing@cff.org](mailto:DirectMarketing@cff.org).
 
 back to top
 
-**Updated 05/26/10**
+**Updated 09/29/11**
