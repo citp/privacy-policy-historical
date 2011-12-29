@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the megamoneygames.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610203913id_/http%3A//www.megamoneygames.com/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megamoneygames.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229214424id_/http%3A//www.megamoneygames.com/About/Privacy-Policy) for the most accurate reproduction.*
 
-# Scratch cards and scratch off | Privacy Policy | Megamoneygames
+# Privacy Policy | Scratch cards & Scratch games by MegaMoneyGames
 
 At MegaMoneyGames.com we are committed to protecting and respecting our players personal information. We recognize the importance of protecting information collected from users and have created this Privacy Policy to let You know what information We collect, why We collect this information and how We use the collected information.
 
 ## 1\. Privacy
 
-This Privacy Policy is an integral part of MegaMonetGames’s End user license agreement and Our Terms And Conditions. By Clicking / Checking “I Agree” or access or use MegaMoneyGames website, You automatically agree to our information collection, use and disclosure of your personal information in accordance to this Privacy Policy.
+This Privacy Policy is an integral part of MegaMoneyGames’s End user license agreement and Our Terms And Conditions. By Clicking / Checking “I Agree” or access or use MegaMoneyGames website, You automatically agree to our information collection, use and disclosure of your personal information in accordance to this Privacy Policy.
 
 By clicking 'Submit' or 'I agree' during the registration process or by Your continued use of the Service following the posting of this Privacy Policy (as applicable), You agree to this Privacy Policy. This is Our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy should be read in conjunction with Our [Terms and Conditions](https://web.archive.org/About/Terms-and-conditions) and any additional applicable terms posted on Our Platforms. We may periodically make changes to this Privacy Policy and will notify You of these changes by posting the modified terms on Our Platforms. We recommend that You revisit this Privacy Policy regularly
 
@@ -24,7 +24,7 @@ We may disclose Your Personal Information if required to do so by law, or if We 
 
 ## 4\. Access / Opt-Out
 
-You may 'opt out' of receiving any promotional communications either by choosing to opt out directly from your personal profile / account located on Our site or the Service or in an email You receive from Us, or at any time by sending an email to support@megamoneygames.com. In addition, You may update manually or contact Us by email if You: 1) want to confirm the accuracy of the Personal Information We have collected about You; 2) would like to update Your Personal Information; and/or 3) have any complaint regarding Our use of Your Personal Information. If requested, We will (a) update any information You have provided to Us, provided that You provide evidence as We may reasonably require for such changes, or (b) mark any information to prohibit future use for marketing purposes. For the avoidance of doubt, nothing in this Privacy Policy shall prevent Us from retaining Your Personal Information where We are required to do so by law.
+You may 'opt out' of receiving any promotional communications either by choosing to opt out directly from your personal profile / account located on Our site or the Service or in an email You receive from Us, or at any time by sending an email to support@MegaMoneyGames.com. In addition, You may update manually or contact Us by email if You: 1) want to confirm the accuracy of the Personal Information We have collected about You; 2) would like to update Your Personal Information; and/or 3) have any complaint regarding Our use of Your Personal Information. If requested, We will (a) update any information You have provided to Us, provided that You provide evidence as We may reasonably require for such changes, or (b) mark any information to prohibit future use for marketing purposes. For the avoidance of doubt, nothing in this Privacy Policy shall prevent Us from retaining Your Personal Information where We are required to do so by law.
 
 ## 5\. Cookies
 
