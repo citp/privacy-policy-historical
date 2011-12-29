@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optionszone.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623191514id_/http%3A//www.investorplace.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionszone.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229211357id_/http%3A//www.investorplace.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy | InvestorPlace
 
@@ -8,7 +8,7 @@ At InvestorPlace.com, we take the privacy and security of our registered users a
 
 Registration and subscription data are the only personally identifiable information that InvestorPlace seeks about you. This information includes your email address and, in some cases, your name, mailing address, telephone number or fax number.
 
-We collect no information about our users that is not supplied voluntarily through web forms or email. We may at times collect anonymous tracking information to gauge usage patterns and the popularity of specific areas of our sites. As with all other information, this information is kept confidential for use only by employees of InvestorPlace.com and InvestorPlace Media, LLC.
+We collect no information about our users that is not supplied voluntarily through web forms or email. We may at times collect anonymous tracking information to gauge usage patterns and the popularity of specific areas of our sites. As with all other information, this information is kept confidential for use only by employees and contractors of InvestorPlace.com and InvestorPlace Media, LLC.
 
 Some of these data are collected through the use of cookies. Cookies may be deactivated by the user at any time through features available on your Internet browser. They are not required for any InvestorPlace.com site to function properly. Transparent gifs or pixels may occasionally be used for the same purpose, but these items gather no personal information and have no effect on how you view our sites or how you navigate the site. Sites we link to from InvestorPlace.com are under the InvestorPlace umbrella of advisor sites.
 
