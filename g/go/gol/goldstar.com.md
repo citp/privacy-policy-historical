@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the goldstar.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626001022id_/https%3A//www.goldstar.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldstar.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229225753id_/https%3A//www.goldstar.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Company | Goldstar
+
+You have to be a member to continue. Log in or sign up and you'll be on your way.
 
 ### Overview
 
@@ -70,7 +72,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 ### How You Can Update Your Personal Information
 
-This Site gives you the opportunity to change and/or modify your account information you have provided to us through our [edit account](https://web.archive.org/account) page. If you have created a Public Member Profile, you can change and/or modify the profile information you have provided to us by editing feedback in your [profile](https://web.archive.org/my_profile). Changing or deleting your any of this data will change or delete the data only in our member database, but will not change or delete information which we have collected as part of a particular ticket purchase in our transactions database. Users may change or update information related to transactions by [contacting us](https://web.archive.org/help/contact_us) or replying to their confirmation email.
+This Site gives you the opportunity to change and/or modify your account information you have provided to us through our [edit account](https://web.archive.org/my_account/edit) page. If you have created a Public Member Profile, you can change and/or modify the profile information you have provided to us by editing feedback in your [profile](https://web.archive.org/my_profile). Changing or deleting your any of this data will change or delete the data only in our member database, but will not change or delete information which we have collected as part of a particular ticket purchase in our transactions database. Users may change or update information related to transactions by [contacting us](https://web.archive.org/help/contact_us) or replying to their confirmation email.
 
 ### Legal Disclaimer
 
