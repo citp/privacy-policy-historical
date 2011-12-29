@@ -1,52 +1,46 @@
-> *The following text is extracted and transformed from the sunflowermarkets.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015230023id_/http%3A//sunflowermarkets.com%3A80/sunflower-webapp/content/legal/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunflowermarkets.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229103848id_/http%3A//www.sunflowermarkets.com/Profile/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# SUNFLOWER MARKET PRIVACY STATEMENT
+# Privacy Policy :: Sunflower Markets
 
-This Privacy Statement discloses how Sunflower Market collects and uses information on the web site located at www.sunflowermarkets.com (the "Site").
+## Privacy Policy
 
-## INFORMATION COLLECTION AND USE
+**Grocery Shopping Network** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website. 
 
-### Personally Identifiable Information
+This site uses cookies to keep track of your login name and recipe search preferences. Functionality within the site will not work properly if your browser does not accept cookies. 
 
-Certain portions of the Site allow users to contact Sunflower Market to make online requests for information regarding our products or services, provide feedback, or to submit comments regarding our products or the Site. These portions of the Site require the user to provide personally identifiable contact information. Sunflower Market uses the information you provide for the purposes stated at the point of collection. For example, Sunflower Market may use a user's email address to respond to a user's inquiry.
+The registration forms require you to give us contact information (like your name and email address) and optional demographic information (like your gender). We use your contact information to send you information about our website. The contact information is also used to contact you when necessary to resolve a service- related problem. You may opt-out of receiving future e-mail; see the choice/opt-out section below. 
 
-### Non-Personally Identifiable Information
+Personal profile data like your cookbook and dietary preferences is also collected. We use this data to tailor your experience at our site by showing you recipes according to your stated preferences and store it for your benefit on future visits. The personally identifiable parts of this information are not shared with any outside party. Non-identifying demographic and profile information, however, is shared with advertisers, business partners and investors on an aggregate basis. 
 
-Sunflower Market collects non-personally identifiable information regarding Site use. Sunflower Market uses this information in the aggregate as part of our continual efforts to optimize the Site and to better serve our customers. Sunflower Market may use such information to identify an individual user when we believe it is necessary to protect the Site, our customers or others, or in response to the request of law enforcement officials.
+**Choice/Opt-Out**   
+GSN provides you with the opportunity to opt-out of receiving communications from us at the point where we request registration information. You can change this preference at any time by selecting "preferences" and then clicking on "general info" after providing your user name and password. If you would like to remove your information from our database, e-mail this request to [optout@groceryshopping.net](mailto:optout@groceryshopping.net). 
 
-### Sale or Transfer of Information
+**Correct/Update**   
+This site gives you the following options for correcting and updating information previously provided. 
 
-Sunflower Market does not sell or rent personally identifiable user information collected about or from our users. In the event that Sunflower Market sells or acquires business assets or concerns, in whole or in part, Sunflower Market may transfer user information in conjunction with such sale or acquisition.
+  1. For registration or personal profile information, select "preferences" and then click on "general info" (after entering your user name and password). 
+  2. Email [optout@groceryshopping.net](mailto:optout@groceryshopping.net). 
+  3. Send mail to the following postal address: 
+    * Grocery Shopping Network
+    * 900 Lumber Exchange Building
+    * 10 South Fifth Street
+    * Minneapolis, MN 55402
+    * Attn: Customer Service
 
-## 2\. CONSENT TO PRIVACY STATEMENT
 
-By providing the information requested by the Site, or by continuing to use the Site after having an opportunity to review the Privacy Statement, you have consented to the terms of the Privacy Statement, and Sunflower Market's use of the information it collects as described at the point of collection or in this Privacy Statement. If you do not agree to the Privacy Statement, you may not use the Site.
 
-Sunflower Market reserves the right to modify the Privacy Statement at any time without giving you prior notice. Your use of the Site following any such modification constitutes your agreement to follow and be bound by the Privacy Statement as modified. The last date the Privacy Statement was revised is set forth below.
+**Changes in Use of Personally Identifiable Information**   
+If GSN decides to change how it uses the personally identifiable information it collects from users, the changes will be highlighted in this privacy statement and prior consent via e-mail will be obtained from users who have previously provided information. 
 
-## 3\. INTEGRITY/SECURITY OF THE DATA COLLECTED
+**Contacting the Web Site**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-The Site is not a secure Site. Therefore, information you post to or transmit via the Site cannot be considered secure and safe from intrusion. Sunflower Market does not warrant the security of any information you transmit, and all such transmissions are at your own risk.
+  * Grocery Shopping Network
+  * 900 Lumber Exchange Building
+  * 10 South Fifth Street
+  * Minneapolis, MN 55402
+  * [optout@groceryshopping.net](mailto:optout@groceryshopping.net)
 
-## 4\. MISCELLANEOUS PROVISIONS
 
-### Children and Privacy
 
-The Site is not intended for use by children. Sunflower Market encourages parents and guardians to be familiar with the web sites that their children visit. The Federal Trade Commission ("FTC") regulates the means by which web site operators collect and use personal information from children under 13, pursuant to the Children's Online Privacy Protection Act of 1998 (the "Act"). For more information about the Act and children's on-line privacy in general, visit the FTC's web site at http://www.ftc.gov.
-
-### Links to Other Sites
-
-The Site contains links to other web sites. Each of these linked web sites maintains its own independent privacy policies. Sunflower Market does not control and is not responsible for the privacy policies or the content of those web sites. When you leave the Site and access the web sites of third parties, the privacy policies of the parties maintaining those web sites apply.
-
-### Disclaimer of Liability
-
-Under no circumstances shall Sunflower Market be liable for any damages, including, but not limited to, special, incidental, consequential or exemplary damages, that result from the use of the information or materials posted to or collected as a result of the user's accessing the Site, even if Sunflower Market has been advised of the possibility of such damages.
-
-## 5\. ENFORCEMENT/REDRESS
-
-If for some reason you believe that Sunflower Market has not adhered to the Privacy Statement, please notify us at Customer.Service@sunflowermarkets.com. We will do our best to respond to your concerns and, when appropriate, take steps to correct a problem.
-
-DATE OF LAST MODIFICATION  
-November 30, 2005
-
-* * *
+[Back to home](http://www.sunflowermarkets.com/)
