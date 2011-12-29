@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the journeyetc.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514060611id_/http%3A//www.journeyetc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journeyetc.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229165439id_/http%3A//www.journeyetc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Travel Guides » Privacy Policy
 
 **Journeyetc.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
