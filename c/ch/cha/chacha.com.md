@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chacha.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523064930id_/http%3A//answers.chacha.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chacha.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229184205id_/http%3A//answers.chacha.com/footer/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ChaCha
+# 
 
 **Privacy Policy**
 
@@ -59,7 +59,7 @@ A Guide may assist users of the Site and the Services. In ChaCha’s recruitment
 
 When you use the Site, a cookie may be sent to your browser. A cookie is a small text file sent by a website’s computer system that is stored on your computer’s hard drive. Cookies are a commonly used technology on the Web, and they are used in ChaCha’s search functionality. You are always free to set your browser to decline cookies, and you can delete cookies from your computer. However, disabling cookies may adversely affect your ability to use the Site or the Services. See your browser’s “Help” file for more details on cookies.
 
-ChaCha uses outside advertising agencies to display advertisements on the Site. Such advertisements may also contain cookies. Cookies may be used to recognize you, as well as to track site usage. These cookies are stored on your computer’s hard drive, and help to establish usage trends and to tailor website content and develop further enhancements. Advertisers and other third parties and/or affiliates’ use of cookies are subject to their own privacy policies. We encourage you to read those privacy policies.
+ChaCha uses third party advertisers who serve ads and collect information on the Site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements on the Site, other websites and other forms of media about goods and services of interest to you. These third party advertisers may also use cookies on this Site. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 The Site and the Services may contain windows or hyperlinks which provide access to other websites not affiliated with ChaCha. Your use of an external website or any informational content found on an external website is subject to and governed by the terms and guidelines of said external website. ChaCha does not make any representations or warranties concerning, and will not in any way liable for, any informational content, products, services, software, or other materials available on an external website, even if one or more pages of the external website are framed within a page of the Site. ChaCha is not responsible for the privacy practices of any external website. For your protection, please refer to the privacy policies of the respective external websites.
 
@@ -96,4 +96,4 @@ If you ever wish to access your Personal Information, or to have your Personal I
 > **Fax: (317) 660-6687**  
 >  **E-mail:[customer.relations@chacha.com](mailto:customer.relations@chacha.com?subject=Privacy%20Policy)**
 
-Effective Date: 11 April 2011
+Effective Date: 31 October 2011
