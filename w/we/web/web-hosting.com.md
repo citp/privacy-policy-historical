@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web-hosting.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630154143id_/http%3A//www.web-hosting.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-hosting.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229055812id_/http%3A//www.web-hosting.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | Cheap web hosting services, website cheap hosts, cheapest web hosting providers.
 
