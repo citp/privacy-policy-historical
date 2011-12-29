@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ondemand.com privacy policy that was archived on 2011-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110407235305id_/http%3A//www.sap.com/about/company/legal/privacy.epx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ondemand.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229170052id_/http%3A//www.sap.com/corporate-en/our-company/legal/privacy.epx) for the most accurate reproduction.*
 
-# SAP - SAP Privacy Statement
+# SAP Global - SAP Privacy Statement
 
 Protecting the individual's privacy on the Internet is crucial to the future of Internet-based business and the move toward a true Internet economy. SAP has created this privacy statement to demonstrate our firm commitment to the individual's right to privacy. This policy outlines our personal information handling practices for this website.
 
