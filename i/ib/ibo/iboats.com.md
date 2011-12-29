@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the iboats.com privacy policy that was archived on 2010-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100906094735id_/http%3A//www.iboats.com/aboutus_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iboats.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230005810id_/http%3A//www.iboats.com/aboutus_privacy.html) for the most accurate reproduction.*
 
 # About iboats.com - Privacy Policies
 
-**This is a web site owned by iboats, inc.**  
-  
-Our postal address is:
+**This is a web site owned by iboats, inc.**
 
-**iboats, inc.**  
-170 West Election Road.  
-Suite 100  
-Draper, UT 84020  
-USA
+If you are looking for help or need to [contact us](http://www.iboats.com/Contact/dm/func.contact) please use our [Contact Page](http://www.iboats.com/Contact/dm/func.contact)
 
-We can be reached via e-mail by [clicking here](http://www.iboats.com/contactus.html), or you can reach us by telephone at **1-800-914-1123** or **801-571-0071**.
+**Quick Links**
 
   * Overall Privacy Policy
   * Detailed Privacy Policy Regarding Information Collected On Our Site
