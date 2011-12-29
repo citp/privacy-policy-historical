@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the forbestraveler.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630013456id_/http%3A//www.forbes.com/fdc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forbestraveler.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229014656id_/http%3A//www.forbes.com/fdc/privacy.html) for the most accurate reproduction.*
 
 # Forbes.com Privacy Statement
 
 ### FORBES.COM PRIVACY STATEMENT
 
-_Revised and posted as of: August 30, 2010_
+_Revised and posted as of: December 19, 2011_
 
 Forbes.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Forbes.com website and services. The Forbes.com website is owned and operated by Forbes.com LLC.
 
 Forbes has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us by email at [privacy@forbes.com](mailto:privacy@forbes.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-Forbes complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
+Forbes complies with the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Forbes has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Forbes’ certification, please visit <http://www.export.gov/safeharbor/>.
 
 If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://watchdog.truste.com/pvr.php?page=complaint>. TRUSTe will then serve as a liaison with the website to resolve your concerns.
 
