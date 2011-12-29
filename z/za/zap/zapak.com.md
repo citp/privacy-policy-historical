@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zapak.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630213959id_/http%3A//www.zapak.com/ppolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapak.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229081438id_/http%3A//www.zapak.com/ppolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Zapak.com - Free online Games, Downloadable Games and more
 
-Zapak Digital Entertainment Limited (Zapak) is the Portal Business venture of Reliance Anil Dhirubhai Ambani Group, located at [**www.zapak.com**](http://www.zapak.com/) and powers / manages various Online Games which are linked to various internet sites and community boards and services hereinafter collectively referred to as Zapak.
+Zapak Digital Entertainment Limited (Zapak) is the Portal Business venture of Reliance Group, located at [**www.zapak.com**](http://www.zapak.com/) and powers / manages various Online Games which are linked to various internet sites and community boards and services hereinafter collectively referred to as Zapak.
 
 Zapak respects the privacy of it's users and is committed to protect it in all respects.
 
@@ -32,13 +32,13 @@ We use third-party advertisers to serve ads when you visit our Web sites. These 
 
 Several deceptive emails, websites, blogs etc. claiming to be from or associated with the Zapak Internet Sites may or are circulating on the Internet. These emails, websites, blogs etc. often include our logo, photos, links, content or other information from any of Zapak Internet Sites. Some emails, websites, blogs etc. call the user to provide login name, password etc. or that the user has won a prize/ gift or provide a method to commit illegal/ unauthorised act or deed or request detailed personal information or a payment of some kind. The sources and contents of these emails, websites, blogs etc. and accompanying materials are in no way associated with the Zapak Internet Sites. For your own protection, we strongly recommend not responding to emails or using websites, blogs etc. 
 
-Any questions or clarifications with respect to this Policy can be sent to Zapak at: legal@zapak-corp.com or by normal/physical mail addressed to:
+Any questions or clarifications with respect to this Policy can be sent to Zapak at: legal@zapak.co.in or by normal/physical mail addressed to:
 
 **Mr. Zameer Nathani  
 Corporate Law Department  
 Zapak Digital Entertainment Limited  
-Level 4, 401, Infiniti,  
+Level 4, 401, Infiniti Mall,  
 Andheri West,  
-Mumbai 400 050, India,  
-Email: legal@zapak-corp.com**  
+Mumbai 400 053, India,  
+Email: legal@zapak.co.in**  
 
