@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmyshift.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527022742id_/http%3A//www.findmyshift.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmyshift.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229091632id_/http%3A//www.findmyshift.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy » Findmyshift
 
@@ -14,5 +14,3 @@ Our web site may contain links to other web sites which are outside our control 
 
 Cookies  
 "Cookies" are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser. You can find out more about the way cookies work on [http://www.cookiecentral.com](http://www.cookiecentral.com/). Findmyshift uses cookies for a number of purposes, for instance to enable us to simplify the logging on process for registered users and to help ensure the security and authenticity of registered users.
-
-We do not use cookies to track browsing behaviour.
