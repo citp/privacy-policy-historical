@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonzobox.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119150112id_/http%3A//bonzobox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonzobox.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229072817id_/http%3A//bonzobox.com/privacy) for the most accurate reproduction.*
 
 # BonzoBox – It's Your Homepage
 
