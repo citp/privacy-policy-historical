@@ -1,52 +1,100 @@
-> *The following text is extracted and transformed from the investorloft.com privacy policy that was archived on 2010-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100830142942id_/http%3A//www.investorloft.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorloft.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Investorloft.com Privacy Policy
+# Legal Agreement
 
-**InvestorLoft.com's Privacy Statement**   
-This privacy statement covers the website http://InvestorLoft.com. InvestorLoft.com (Company) provides a variety of online services for real estate investors and real estate professionals. Investorloft.com values your privacy, feedback and candor very highly. Any user information we collect is considered private and we do not use it or share it except as permitted herein, without the user's permission. We use this personal information at Investorloft.com to provide the best quality service possible. The following policy statement summarizes the protection and use of any personal information provided by the visitors of this site. 
+**Go Daddy Respects Your Privacy**
 
-**Security of Personal Information:**   
-Client's personal information are considered to be our greatest asset and thus their privacy is treated with the utmost regard and respect. The Company takes every reasonable precaution to secure personal information within both its computers and its physical premises. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-The security of your personal information is important to the Company. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-If you have any questions about security on our Web site, you can email us at customerservice@InvestorLoft.com. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collected:**   
-The Company collects user information from several areas of the website including the 'Member Signup' area (where each user's name, street address, telephone number, email address, and self-selected primary role in real estate are collected); business services; the adding and editing of property listings; the adding and editing of member profiles; IP address; email contact forms; and any inquiry forms a site user may fill out. Typical information collected includes search activity for statistical, archival, and business purposes. 
+**Information Collection and Use**
 
-**Use of Information Collected:**   
-Collected information helps the Company better understand its users' needs in order to improve its product and service offerings. Email addresses are used to communicate with members with account information updates, news, and for site administration purposes. The Company may send promotional emails in the future, which users may opt-out of these email lists at their request. Personal information may be used to contact users for the purpose of research, product development, marketing, or customer service, if the user has opted-in to receive such communication. User search activity is collected and analyzed and may be utilized in the aggregate or in the abstract for a variety of business purposes. This information is not shared with anyone outside of the Company. IP address and cookie log data is analyzed to better understand traffic flows, user preferences, and to actively monitor fraudulent, illegal or aggressive activity. 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-**Use of Email Tools:**   
-You may NOT use the Email The Agent, Email Listing To a Friend, Contact A Local Professional, Ask The Expert, Tell A Friend or other email services that we offer to send spam (i.e. unsolicited email) or otherwise send content that would violate the Terms and Conditions. We may monitor, track or save the use of this feature, but will be under no obligation to monitor, track or save these email messages sent from these tools. If you send an email using the Email This Listing to a Friend or Tell A Friend service to an email address that is not registered in our system, we do not use that email address for any purpose other than to automatically send your friend a one-time email inviting him or her to visit the site. This information may be stored for the sole purpose of sending this one-time email and for tracking the success of our referral program. We also do not rent or sell these email addresses of un-registered users. 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-**Shared or Public Information:**   
-Though every effort is made to preserve user privacy, we may need to disclose personal information when required by law wherein we have good faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-Some member information is displayed in the following areas on the site: Listing Details, Professional Directory, and Professional Profiles. When a member enters a listing in the Listing Service, listing contact information is also entered and of course displayed on the listing for contact purposes regarding that listing. In addition, members searching the website can view contact information (name, email and phone number) when they view Listing Details of the property. 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-Unless required by law as detailed in this section, or a user specifically takes action as discussed in this paragraph, individual user search activity information is not shared, and such activity information remains private to the individual user and to the Company. Professional Profile users agree to share their contact information and allow all site users to view their contact information via the Professional Directory or via links made available to users on a listing or in an email. 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**Opting-out, editing, updating or deleting personal information:**   
-Email transmissions are used as a vital and primary communication channel with registered users and customers. As a registered member, you hereby acknowledge and grant the Company the permission to communicate with you via email (as well as other communication channel such as phone or fax) for any purposes determined to be relevant including, but not limited to, system messages, listing inquiries, product updates, service announcements and other important messages. Best practices will be used to honor customers request to opt out of marketing messages, but under no circumstances will the Company have any liability for sending any email to its registered users/customers. 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-_Members are not able to un-subscribe from system messages, listing inquiries, and account update emails which contain important information._ The Company reserves the right to communicate with its users via email and phone to provide information about requested services and regarding issues related to their account. It is important to note that this communication is not used for marketing or promotional purposes. Requesting the deletion of certain types of user information may prevent users from accessing some web site features. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-Users who do not wish to receive marketing emails such as the newsletter or other non-necessary promotional emails, may opt-out of this service by deselecting the email option from their member profile. If you no longer desire our service entirely, you may deactivate your membership by sending an email to customerservice@InvestorLoft.com with 'Cancel Membership' in the subject line. 
+**Security**
 
-**Cookies:**   
-Cookies are used on this site. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-We use both session cookies and persistent cookies. We use session cookies to make it easier for you to use our site and to enable certain specialized functionality that requires maintaining information about your session. A session cookie is not stored on your hard disk and expires when you close your browser. A persistent cookie remains on your hard disk for an extended period of time. You can remove persistent cookies by following the directions in your Internet browser's "help" files. 
+**Updating Your Information**
 
-We do not store in persistent cookies any personally identifiable information you submit while on our site. 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-Due to the functionality provided by our site, the use of cookies is required. If you reject cookies, our site will not perform properly. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-**Changes to this Privacy Statement:**   
-If the Company decides to change its privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-The Company reserves the right to modify this privacy statement at any time, so please review it frequently. If the Company makes material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
+      iii.      You may call us at: (480) 505-8800
 
-Questions regarding this statement should be directed to customerservice@InvestorLoft.com. 
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
