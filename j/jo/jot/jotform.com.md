@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jotform.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504060206id_/http%3A//www.jotform.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jotform.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229221015id_/http%3A//www.jotform.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+**Last Update: September 16, 2010**
 
 **1\. User Data.** To obtain access to certain areas of our website or to receive certain services we provide, you may be required to register with us and, in connection with such registration, to provide certain Personal Data (e.g., your email address). We use such information to provide the service you requested, to monitor internally usage of our website, and to contact you from time to time about us, our website, and our products and services. In addition, if you wish to make a purchase from our website, you are required to register with us and, in connection with such registration, to provide certain Personal Data (e.g., your full name, email address, and billing information). We use such information to fulfill your order and to contact you from time to time about us, our website, and our products and services.   
 **  
