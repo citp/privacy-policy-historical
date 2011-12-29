@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the marenda.biz privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511230945id_/http%3A//marenda.biz/about-marenda/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marenda.biz privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229212211id_/http%3A//marenda.biz/about-marenda/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy
-
-If you're new here, you may want to subscribe to my [RSS feed](http://marenda.biz/feed/). Thanks for visiting!
+# Living Life Abundantly | Privacy Policy
 
 We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
 
