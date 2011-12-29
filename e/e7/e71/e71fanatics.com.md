@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the e71fanatics.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629211302id_/http%3A//www.e71fanatics.com/2008/07/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e71fanatics.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229031952id_/http%3A//www.e71fanatics.com/2008/07/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Nokia E71 Blog For Fanatics: Privacy Policy
 
-[ ](http://www.blogger.com/rearrange?blogID=2883390246416512168&widgetType=Text&widgetId=Text2&action=editWidget&sectionId=main "Edit")
-
-##  [Privacy Policy](http://www.e71fanatics.com/2008/07/privacy-policy.html)
-
-  
-
-
-**Posted by Mike Macias**
+###  Privacy Policy 
 
 Privacy Policy for e71fanatics.com
 
@@ -30,9 +23,4 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
-
-by Mike Macias 
-
-  
-
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
