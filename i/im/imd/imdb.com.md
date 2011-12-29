@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the imdb.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624045748id_/http%3A//www.imdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imdb.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229031210id_/http%3A//www.imdb.com/privacy) for the most accurate reproduction.*
 
 # 
 
 |  | 
 
-**Last Updated, November 15, 2010**. To see what has changed [click here](https://web.archive.org/web/20110624045748id_/http%3A//www.imdb.com/privacy_change). 
+**Last Updated, November 15, 2010**. To see what has changed [click here](https://web.archive.org/web/20111229031210id_/http%3A//www.imdb.com/privacy_change). 
 
 IMDb knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. **By visiting IMDb, you are accepting the practices described in this Privacy Notice.**
 
