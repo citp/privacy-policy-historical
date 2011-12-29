@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storesonlinepro.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603193017id_/http%3A//www.storesonlinepro.com/store/1234/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storesonlinepro.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229220356id_/http%3A//www.storesonlinepro.com/store/1234/privacy-policy) for the most accurate reproduction.*
 
 # StoresOnline - Privacy Policy
 
