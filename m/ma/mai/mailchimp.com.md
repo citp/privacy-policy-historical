@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailchimp.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622075811id_/http%3A//www.mailchimp.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailchimp.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229174239id_/http%3A//mailchimp.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | MailChimp
 
@@ -83,7 +83,7 @@ We will give you access to any of your Personal Information that we hold about y
 
   10. General 
 
-We comply with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. Details of our registration can be found here: [MailChimp's Safe Harbor Company Profile](http://safeharbor.export.gov/companyinfo.aspx?id=10039)
+We comply with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. Details of our registration can be found here: [MailChimp's Safe Harbor Company Profile](http://safeharbor.export.gov/companyinfo.aspx?id=12701)
 
   11. UK Data Protection Notification 
 
