@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bennetts.co.uk privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630025102id_/http%3A//www.bennetts.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bennetts.co.uk privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229021439id_/http%3A//www.bennetts.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Bennetts
-
-Bennetts is a trading name of BISL Limited registered office Pegasus House, Bakewell Road, Orton Southgate, Peterborough, PE2 6YS.
+# Privacy Policy | Bennetts Insurance
 
 * ### Who is the Data Controller?
 
@@ -100,7 +98,7 @@ We and the other companies processing your data for the purposes mentioned above
 
 * ### How secure is the information I give to you?
 
-The payment site employs enhanced encryption techniques which seek to ensure that all of your confidential data (such as credit card number, name, address and other information) cannot be intercepted, unscrambled or copied when being transmitted between our sever and yourself.
+The payment site employs enhanced encryption techniques which seek to ensure that all of your confidential data (such as credit card number, name, address and other information) cannot be intercepted, unscrambled or copied when being transmitted between our server and yourself.
 
 * ### Who will process my credit/debit card information?
 
@@ -141,3 +139,91 @@ We have in Our sole discretion the right to issue a warning, temporary suspensio
 * ### Law
 
 This Privacy Policy is subject to English Law and to the exclusive jurisdiction of the English Courts.
+
+This Privacy Policy applies to the Bennetts Classified website (“Classifieds”) only.
+
+* ### Who is the Data Controller?
+
+Bennetts is a trading name of BISL Limited part of the BGL Group of Companies. The data controller is BISL Limited registered in England and Wales number 3231094 at Pegasus House, Bakewell Road, Orton Southgate, Peterborough, PE2 6YS. In this Privacy Policy “We”, “Us” and “Our” means BISL Limited and “You” and “Your” means the person who wishes to use Classifieds. 
+
+We reserve the right to amend or modify this privacy policy at any time but will give You as much notice as possible where this is necessary.
+
+* ### Your Rights
+
+2.1      
+
+  You are entitled, on payment of the fee of £10, made payable to BISL Limited to see details of the information We hold about You. If any of the information held is inaccurate We will also make any necessary amendments and confirm to You that these have been made.
+
+2.2    
+
+   You have the right to request at any time that We and/or carefully selected companies cease processing Your personal data for marketing purposes. If You wish to do this please write to the Data Protection Officer at BISL Limited, Pegasus House, Bakewell Road, Orton Southgate, Peterborough, PE2 6YS.
+
+2.3 
+
+You are also entitled to ask Us to remove personal information from Our records and if You wish to do this then please write to the Data Protection Officer at the address above. Please provide Your full name, address and date of birth when contacting Us.
+
+* ### Data Security
+
+3.1              
+
+We are committed to ensuring Your personal information is used properly and kept securely. We use technical and organisational security measures to protect personal data We control against unauthorised processing, loss, destruction or access.
+
+3.2   
+
+   You are responsible for keeping Your account details including Your password confidential.
+
+* ### Use of Data
+
+**4.1         Administration**Data You provide to Classifieds will be used for the administration of the Classifieds service.     You must register and provide Us with the data We ask for in order to use Classifieds.   Advertisements that You submit on Classifieds will be displayed on the Classifieds website.
+
+**4.2         Prevention and Detection of Crime/Fraud**Data that You provide may be disclosed to the police and fraud prevention organisations in order to prevent and detect crime.     We reserve the right to undertake identity and fraud prevention checks in order to protect Classifieds and Our users.     If You have previously been a customer of BISL Limited We may also check data You provide against data that We already hold to help prevent and detect fraud and to help Us improve Our service to You.
+
+We have the right to disclose Your identity to any third party who claims that any content submitted by You on Classifieds constitutes a violation of their intellectual property rights, or of their right to privacy.
+
+**4.3                ****Marketing and Market Research** Where You have given Us permission to do so We may use Your data to send You marketing communications about Bennetts and biking that We believe may be of interest to You by mail, telephone, e-mail or other electronic methods.You can opt out of marketing at any time.We may also contact You to conduct market research. Data that We hold may also used for research and analysis purposes.
+
+**4.4                ****Contact the Seller  
+** **  
+**The Classifieds site contains a “Contract the Seller” function.     If You use the function then We will send Your name and contact details to the seller that You would like to contact. By using the Contact the Seller function You are consenting to Your data being used in this way.
+
+* **4.5                ****Send to a Friend**
+
+If You provide us with details of a friend to whom You would like us to send an e-mail You are confirming the following:-
+
+-  that You have obtained the consent of Your friend to pass Your friend’s details to Us; and
+
+-  that You are happy for Us to disclose Your details as the person who asked that We send the e-mail to Your friend.
+
+* ### Cookies
+
+**5.1                ****Use of Cookies**
+
+A cookie identifies Your computer to a server that then enables information to be stored on the hard drive of Your computer. Cookies allow a computer to be identified as corresponding to one that has accessed another website or visited a website previously. Cookies are commonly used on the Internet and do not harm Your computer system. We may, from time to time use and serve cookies, pixel tags or action tags. Any information that is collected via cookies, pixels and action tags is completely anonymous.
+
+We use cookies, pixel tags or action tags for various purposes, including:
+
+  1.  
+    * collating anonymous aggregated information that is used to manage and plan enhancements to Our services 
+    * to evaluate the effectiveness of Our advertising and promotions on third party websites, for example by tracking whether these advertisements are clicked on by users. 
+
+
+
+We are continually looking to adopt and implement certain practices and technologies in order that We may improve Your user experience.
+
+**5.2             ****How can I stop cookies and what effect will this have?**
+
+You can stop cookies from being deployed on Your computer by configuring Your browser not to accept them or opt-out. Please refer to Your browser's 'help' facility.
+
+If cookies are already on Your system, You can delete them - For more information on cookies and deletion of cookies please visit: <http://www.allaboutcookies.org/manage-cookies/>
+
+Please be aware that deleting certain cookies can result in difficulties when navigating around sites.
+
+* ### Overseas Transfer of Data
+
+From time to time it may be necessary for Us to undertake some of the processing of Your data in countries outside of the European Economic Area which may not have laws to protect Your personal data but in all cases We will ensure that it is kept securely and only used for the purposes for which You provided it.
+
+* ### Law
+
+This Privacy Policy is subject to English Law and to the exclusive jurisdiction of the English Courts.
+
+_Use of Classifieds is subject to the[Classifieds Terms and Conditions](http://www.bennetts.co.uk/terms-and-conditions/ "Classifieds Terms & Conditions")_
