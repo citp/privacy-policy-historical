@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the trafficswarm.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615104929id_/http%3A//www.trafficswarm.com/privacy.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficswarm.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229215524id_/http%3A//www.trafficswarm.com/privacy-policy) for the most accurate reproduction.*
 
 # A Swarm of Free Traffic to Your Site Guaranteed! Get Targeted Free Advertising with TrafficSwarm.com
 
-  
+## TrafficSwarm Privacy Policy
+
 TrafficSwarm.com takes your privacy seriously, and has created this Privacy Policy in order to demonstrate our firm commitment to online privacy.
 
 Please read the following to learn more about our information gathering and dissemination practices, and our use of personally identifiable information.
@@ -36,7 +37,7 @@ This web site has security measures in place to protect against loss, misuse and
 TrafficSwarm.com provides every user with the opportunity to easily opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether. You may do so in the following ways:
 
 1\. Email: [support@trafficswarm.com](mailto:support@trafficswarm.com)  
-2\. Postal Mail: #425 3210 E Chinden Blvd #115 Eagle ID 83616  
+2\. Postal Mail: 1675 Larimer Street, Suite 640, Denver, CO 80202  
 3\. FAX: (734) 661-0173
 
 If you simply want to cancel your TrafficSwarm.com account, you may also do so at the following URL: [http://www.trafficswarm.com/cancelacct.pl](https://web.archive.org/cancelacct.pl)  
