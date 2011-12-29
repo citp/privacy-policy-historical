@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designmoo.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525012655id_/http%3A//designmoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designmoo.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229170457id_/http%3A//designmoo.com/privacy) for the most accurate reproduction.*
 
-# Designmoo | Privacy Policy
+# Privacy Policy - Designmoo
 
 ### What information do we collect?
 
