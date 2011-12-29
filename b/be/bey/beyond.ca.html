@@ -1,404 +1,244 @@
-<!--The following is the downloaded HTML source of the beyond.ca privacy policy that was archived on 2010-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101119104240id_/http%3A//www.canwestglobal.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beyond.ca privacy policy that was archived on 2011-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229192644id_/http%3A//canada.aol.com/portal/misc/PrivacyPolicy.adp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- HEAD OPENER HERE --><!-- ABOVE LINE IS CRITICAL CODE AND PAGE HEADERS IMPORT SAME FOR ALL PAGES --><!-- DEFINE ANY PAGE ATTRIBUTES IN FOLLOWING BLOCK --><!-- DEFING ALL PAGE ATTRIBUTES IN ABOVE BLOCK --><!-- STANDARD HEADER  BELOW, SAME FOR ALL PAGES --><!-- END HEAD OPENER --><head>
-
-<script lang="JavaScript">
-  var DOMType;
-
-  function Initialize()
-  {
-    if (document.all)
-    {
-      DOMType = 'MS';
-      oLastPanel = document.all['NewspaperDivision'];
-      oLastDivision = document.all['Blank'];
-      oLastButton = document.all['DisplayAdsButton'];
-    }
-    else if (document.getElementById)
-    {
-      DOMType = 'W3C';
-      oLastPanel = document.getElementById('NewspaperDivision');
-      oLastDivision = document.getElementById('Blank');
-      oLastButton = document.getElementById('DisplayAdsButton');
-    }
-    else if (document.layers)
-    {
-      DOMType = 'NS4';
-      oLastPanel = document.layers['NewspaperDivision'];
-      oLastDivision = document.layers['Blank'];
-      oLastButton = document.layers['DisplayAdsButton'];
-    }
-    else
-    {
-      DOMType = 'None';
-    }
-  }
-
-  function ToggleMenuItem(strMenuName, iMenuLevel)
-  {
-    var oMenuItem, oCloseMenuItem, oMenuBottomBar, oCloseMenuBottomBar;
-    var strCloseMenuName, strParentMenuName;
-    var bKeepGoing;
-    var i, iLength;
-	var strMenuBottomBar, strCloseMenuBottomBar;
-	
-	strMenuBottomBar = strMenuName + '_Bottom'
-
-    if (DOMType == "MS")
-    {
-      oMenuItem = document.all[strMenuName];
-      oMenuBottomBar = document.all[strMenuBottomBar];
-    }
-    else if (DOMType == "W3C")
-    {
-      oMenuItem = document.getElementById(strMenuName);
-      oMenuBottomBar = document.getElementById(strMenuBottomBar);
-    }
-    else if (DOMType == "NS4")
-    {
-      oMenuItem = document.layers[strMenuName];
-      oMenuBottomBar = document.layers[strMenuBottomBar];
-    }
-
-    if (oMenuItem.style.display == "inline")
-    {
-      oMenuItem.style.display = "none";
-      if (oMenuBottomBar)
-	  {
-		  oMenuBottomBar.style.display = "inline";
-	  }
-    }
-    else
-    {
-
-      iLength = strMenuName.length - 1;
-      bFound = false;
-      i = iLength
-      while (i > 0 && !bFound)
-      {
-        i = i - 1
-        if (strMenuName.charAt(i) == '_')
-        {
-          strParentMenuName = strMenuName.substr(0, i + 1)
-          bFound = true;;
-        }
-      }
-
-      i = 0
-      bKeepGoing = true;
-      while (bKeepGoing)
-      {
-        strCloseMenuName = strParentMenuName + i
-		strCloseMenuBottomBar = strCloseMenuName + '_Bottom';
-        if (DOMType == "MS")
-        {
-          oCloseMenuItem = document.all[strCloseMenuName];
-          oCloseMenuBottomBar = document.all[strCloseMenuBottomBar];
-        }
-        else if (DOMType == "W3C")
-        {
-          oCloseMenuItem = document.getElementById(strCloseMenuName);
-		  oCloseMenuBottomBar = document.getElementById(strCloseMenuBottomBar);
-
-        }
-        else if (DOMType == "NS4")
-        {
-          oCloseMenuItem = document.layers[strCloseMenuName];
-          oCloseMenuBottomBar = document.layers[strCloseMenuBottomBar];
-        }
-
-        if (oCloseMenuItem != null)
-        {
-          oCloseMenuItem.style.display = "none";
-          if (oCloseMenuBottomBar)
-         {
-            oCloseMenuBottomBar.style.display = "inline";
-          }
-          i += 1;
-        }
-        else
-        {
-          bKeepGoing = false;
-        }
-      }
-      oMenuItem.style.display = "inline";
-      if (oMenuBottomBar)
-     {
-        oMenuBottomBar.style.display = "none";
-      }
-    }
-  }
-
-  Initialize();
-</script>
-
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-  <title>Canwest - Privacy Statement</title>
-  <meta name="keywords" content="index,follow,advertising,canwest,media,sales,search,mediaworks,planning,buying,corporate,broadcast,research,online,digital,marketing,print">
-  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-
-<link href="/css/all.css" rel="stylesheet" type="text/css" media="all">
-<link href="/css/menu.css" rel="stylesheet" type="text/css" title="stylesheet">
-<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/style/ie6.css" media="screen"/><![endif]-->
-<script src="/js/global-navbar.js" type="text/javascript"></script>
-<!-- HEAD OPENER HERE -->
-
-<!-- STANDARD HEADER ABOVE, SAME FOR ALL PAGES -->
-<!-- ANY ADDITIONAL INSTRUCTIONS YOU WANT IN THE HEAD TAG PUT BETWEEN THIS AND THE NEXT COMMENT TAG -->
-
-
-<!-- ANY ADDITIONAL ISNRUCTIONS CONTENT YOU WANT IN THE HEAD TAG PUT PETWEEN THIS AND THE PREVIOUS COMMENT TAG --> 
-<!--
-	6 Different headers are available for choice header on standard pages.  Key is as follows:
-		enlightenHeader.asp 		- blue: advertisiing section
-		enlightenHeader1.asp		- Blue: careers section
-		informHeader0.asp		- green: theCompany section
-		informHeader1.asp		- green: inVestors Section
-		informHeader2.asp		- green: newsRoom Section
-		entertainHeader0.asp		- orange: theBusiness Section		
--->
-
-<!-- CHOICE HEADER OPTIONS ARE DETAILED ABOVE  -->
-<!-- END HEAD OPENER -->
-<!-- ARRRR, LEFT NAV & HEADER IS BELOW ME -->
-
-
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+	<title>AOL.ca - Privacy Policy</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<link rel="stylesheet" href="/portal/ssi/portal.css" type="text/css">
+	<script type="text/javascript" src="/portal/ssi/portal.js"></script>
 </head>
-
-
-<body>
-
-  <div id="main">
-    <div id="header" class="corporatesmall">
-      <a class="logo" href="/default.asp">Canwest</a>
-      <div class="form">
-        <form name="yider_form" action="/search/search.asp" method="post">
-          <div>
-            <input name="yider" type="text" class="input" size="30" value="">
-            <input type="image" class="btn" src="/images/go_button.png" onmouseover="this.src='/images/go_button_over.png'" onmouseout="this.src='/images/go_button.png'">
-          </div>
-        </form>
-      </div>
-      <div id="main_nav">	  
-        <ul class="top-nav">
-<noindex>
-  <div class="nospider">
-          <li><a href="/about/default.asp"><span class="first">ABOUT US</span><span class="right">&nbsp;</span></a></li>
-
-          <li><a href="/brands/default.asp"><span>OUR BRANDS</span><span class="right">&nbsp;</span></a></li>
-          <li><a href="/investors/default.asp"><span>INVESTORS</span><span class="right">&nbsp;</span></a></li>
-          <li><a href="/media/default.asp"><span>MEDIA</span><span class="right">&nbsp;</span></a></li>
-          <li><a href="/careers/default.asp"><span>CAREERS</span><span class="right">&nbsp;</span></a></li>
-          <li><a href="/advertising/index.asp"><span>ADVERTISING</span><span class="last">&nbsp;</span></a>
-  </li></div>
-</noindex>
+<body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
 
 
 
-          
-        </ul>
-      </div>
-
-      <div id="top_subnav">
-
-      </div>
-
-      <div id="flyout_space" style="width:585px">
-        <div id="menu1Container"> 
-          <div id="menu1Content" class="menu">
-            <ul>
-              <li><a href="/brands/broadcast.asp">BROADCAST</a></li>
-              <li><a href="/brands/publishing.asp">PUBLISHING</a></li>
-              <li><a href="/brands/advertising.asp">INTERNATIONAL</a></li>
-            </ul>
-          </div>
-        </div>
-      </div> 				
-      <div class="image" style="clear:left;"></div>
-      <div class="background"></div>
-    </div>
-		
-
-		
-		<div id="content">
-			<div id="left-column">
-<br>
-			</div>
-			
-			<div id="rigth-column">			  
-				<div class="text">
-<br>
 
 
-<!-- LEFT NAV & HEADER IS ABOVE ME -->		
-<!-- CONTENT STARTS HERE -->
-
-<!-- CHOICE HEADER OPTION IS LOADED ABOVE  -->
-
-<!-- 
-	All content exists inside a table cell.  Before the content is an open table  cell 
-	with valign="top" and no other attributes.  You may put whatever you please in the content including 
-	open a table immediately as this may give you greater control. 
-	
-	Depending on the wether you have left navigation or not you will have 942 pixels width wise without 
-	navigation and 752 pixels if navigation is required. 
--->
-<!-- content starts here -->   
-
-					<h1>Customer Privacy Statement</h1>
-
-<p>
-<a href="privacy_fr.asp">Version français</a>
-</p>
-					
-
-				
-<p>
-<strong>OUR COMMITMENT TO PRIVACY</strong><br>
-Canwest Global Communications Corp. and its subsidiaries (each, a "Canwest  Company") are committed to controlling the collection, use and disclosure  of the personal information provided by its customers. This Privacy Statement  is a simplified version of the Canwest Privacy Policy adopted by each of the  Canwest Companies to ensure the accuracy, confidentiality and integrity of your  personal information. The Canwest Privacy Policy is modeled after the Canadian  Standards Association Model Code for the Protection of Personal Information and  is compliant with federal and provincial privacy laws including the federal  Personal Information Protection and Electronic Documents Act. A summary of the  ten principles of fair information practices adopted in the Canwest Privacy  Policy is included at the end of this Privacy Statement. A complete copy of the  Canwest Privacy Policy is available on request by contacting your local Privacy  Compliance Officer or on the Canwest website at <a href="http://www.canwestglobal.com">www.canwestglobal.com</a>. <br>
-</p>
-
-<p>
-<strong>A SINGLE POLICY</strong><br>
-Any time you do business with a Canwest Company, or with anyone acting as an  agent on our behalf, you are protected by the rights and safeguards contained  in the Canwest Privacy Policy. <a href="http://www.canwest.com/pdf/PrivacyPolicyFINAL.pdf">Click here</a> to download the full Canwest  Privacy Policy in pdf format. <br>
-</p>
-<p>
-<strong>WHAT IS PERSONAL  INFORMATION?</strong><br>
-"Personal information" is personally identifiable information such as  your name, residential address and e-mail address and includes information  about your product and service subscriptions and usage, credit information and  billing records, service and recorded complaints. <br><br>
-Personal information is  collected by the Canwest Companies only when you specifically and knowingly  choose to provide it us such as when you subscribe to a Canwest publication,  enter a Canwest promotion or choose to receive information, products or  services from a Canwest Company. <br><br>
-We may also receive  personal information from our business partners and other third parties  provided that such third parties confirm to us that they have obtained your  consent to the disclosure of your personal information. <br><br>
-Publicly available  information, such as a public directory listing of your name, address,  telephone number and electronic address, is not considered personal  information.
-</p>
-<p>
-<strong>COLLECTION AND USE OF  PERSONAL INFORMATION</strong><br>
-The Canwest Companies collect and use your personal information primarily for  the purpose of providing you with the products and services you have requested  from us, including the daily delivery of news and related content through Canwest  television, print and online properties. <br><br>
-Your personal information  is used to communicate with you about your account and to provide you with  information related to other Canwest publications and services. If you  indicated that you were interested in receiving offers or information from  selected Canwest sponsors or advertisers, your personal information would also  be used to contact you or to send you e-mail materials and other mailings about  products and services that might be of interest to you. You always have the  option, however, to tell us not to share your personal information with other  Canwest Companies or to exclude you from offers for other products or services. <br><br>
-If you enter a contest or  other promotion offered by a Canwest Company or on a Canwest website, your  personal information will be used to administer the promotion, including the  use of your name and selected other information for the purposes of contacting,  announcing and promoting the winners of the promotion. <br><br>
-The Canwest Companies may  also contact you from time to time to conduct market research and surveys in an  effort to continually improve our product and service offerings. Unless you  specifically authorize us to release your personal information, or release is  required or permitted by law, the Canwest Companies will not sell, lease or  trade your personal information to other third parties. <br><br>
-Anonymous or  "non-personal" information gathered by the Canwest Companies through  our websites may be used for technical, research and analytical purposes.  Information collected through surveys, existing files and public archives may  be used by the Canwest Companies to analyze their markets and to develop or  enhance service offerings. <br><br>
-Canwest Companies will  only ask for information about you that we need and will only ask for it when  we need it. When we ask you for the information, we will explain to you why we  need it and what we are going to do with it. <br><br>
-We will seek your prior  consent to the collection, use and disclosure of the information as required by  applicable privacy legislation. Subject to legal and contractual requirements,  you can refuse to consent to our collection, use or disclosure of information  about you. You may also withdraw your consent to any further collection, use or  disclosure of information about you at any time by giving us reasonable notice.  If our intended disclosures or uses of information change, we will notify you  accordingly. <br><br>
-Your personal information  will not be used for any other purpose without your consent.
-</p>
-<p>
-<strong>DISCLOSURE</strong><br>
-To enable us to more efficiently provide the products and services you have  requested from us, the Canwest Companies may share your personal information  with other Canwest Companies and with selected third parties who are acting on  our behalf as our agents, suppliers or service providers. Such third party  service providers are provided only with such information as is necessary in  the circumstances (i.e. your residential address may be disclosed to our  distributors and carriers for the purpose of delivering your daily newspaper  subscription). Information provided to third parties may be used only for the  purpose stipulated and is subject to strict terms of confidentiality. <br>
-</p>
-<p>
-<strong>USE OF COOKIES</strong><br>
-The Canwest Companies  use a browser feature called a "cookie" to collect information  anonymously and track user patterns on Canwest websites. A cookie is a small  text file that is placed on your hard disk by a website. "Cookies"  contain a unique identification number that identifies your browser, but not  you, to our computers each time you visit one of our websites. Cookies tell us  which pages of our websites are visited and by how many people. Cookies may be  placed, and anonymous user traffic data collected, by a Canwest Company or a  third party who provides services to a Canwest Company. <br><br>
-The use of cookies is an  industry standard and many major browsers are initially set up to accept them.  You can reset your browser to either refuse to accept all cookies or to notify  you when you have received a cookie. However, if you refuse to accept cookies,  you may not be able to use some of the features available on our websites.
-</p>
-<p>
-<strong>ACCURACY</strong><br>
-Canwest Companies will try to ensure that information about you is accurate,  complete and up-to-date. However, please inform the Canwest Company to whom you  provided your information of any change of name, address or other information.  In the event you have questions about the accuracy of factual information we  have collected about you, you will have access to that information in order to  verify and update it. If we have disclosed inaccurate information about you to  a third party, we will be pleased to contact the third party in order to  correct the information. <br>
-</p>
-<p>
-<strong>SECURITY</strong><br>
-The Canwest Companies are committed to protecting your privacy. Security  measures, such as locked cabinets, restricted access and the use of passwords  and firewalls have been adopted to protect your personal information against  loss or theft, as well as unauthorized access, disclosure, copying, use or  modification. Our employees have been trained to respect your privacy at all  times and those employees with access to your personal information shall use  your personal information strictly in accordance with the Canwest Privacy  Policy and the laws applicable to each specific business. <br>
-</p>
-<p>
-<strong>ACCESS</strong><br>
-If you have any questions about the collection, use or disclosure of your  personal information by a Canwest Company, or if you simply want to know  whether we have any of your personal information on file, you may contact your  local Privacy Compliance Officer. Except in limited circumstances, as  specifically provided by applicable privacy legislation, the Canwest Companies  can tell you whether they hold personal information about you. They can tell  you the source of the information, allow you access to your personal  information and find an account of the use that has been made or is being made  of the information and the third parties to which it has been disclosed. <br><br>
-The Canwest Companies  will only refuse access to information about you in those circumstances  permitted or required by applicable privacy legislation. If a Canwest Company  refuses access to you, it will provide you with the reasons for its refusal  upon request. Exceptions may include information that contains references to  other individuals, information that cannot be disclosed for legal, security or  commercial proprietary reasons, and information that is subject to  solicitor-client or litigation privilege. The Canwest Companies will respond to  your requests for access in accordance with applicable privacy legislation.
-</p>
-<p>
-<strong>QUESTIONS OR CONCERNS</strong><br>
-If you have any questions or concerns about the personal information about you  held by a Canwest Company or about the compliance by a Canwest Company with the  Canwest Privacy Policy, please contact your local Privacy Compliance Officer.  Contact information for your local Privacy Compliance Officer may be found on  our website or by contacting any one of the Canwest Companies. <br><br>
-Each Canwest Company has  procedures in place to receive and respond to complaints or inquiries about its  handling of personal information. They will describe the complaint procedures  to anyone who makes inquiries or lodges complaints. <br><br>
-If you are not satisfied  with the response from your local Privacy Compliance Officer after making a  complaint, you may have recourse to additional remedies under applicable  privacy legislation. For further information, please contact the federal  Privacy Commissioner or your provincial Privacy Commissioner, as applicable.  Contact information is available on our website or by contacting any one of the  Canwest Companies.
-</p>
-<p>
-<strong>TEN PRINCIPLES OF FAIR  INFORMATION PRACTICES</strong><br>
-</p>
-<p>
-</p><p><strong>PRINCIPLE 1 -- ACCOUNTABILITY</strong> Each Canwest Company is responsible for  the personal information under its control and shall designate one or more  individuals who shall be accountable for the company's compliance with the  procedures and principles set out in the Canwest Privacy Policy.</p>
-<p><strong>PRINCIPLE 2 --  IDENTIFYING PURPOSE </strong>Each Canwest Company will identify the purpose for which personal  information is collected at or before the time the information is collected.  The purposes for which information is collected, used or disclosed by a Canwest  Company must be those that a reasonable person would consider are appropriate  in the circumstances.</p>
-<p><strong>PRINCIPLE 3 -- CONSENT </strong>The knowledge and consent  of the individual are required for the collection, use or disclosure of  personal information, except where consent is not required by privacy  legislation as, for example, where the collection, use or disclosure of  personal information is solely for journalistic, artistic or literary purposes.</p>
-<p><strong>PRINCIPLE 4 -- LIMITING  COLLECTION </strong>The Canwest Companies shall limit the collection of personal  information to that which is necessary for the purposes identified by the company.  Personal information shall be collected by fair and lawful means.</p>
-<p><strong>PRINCIPLE 5 -- LIMITING  USE, DISCLOSURE AND RETENTION</strong> Personal information shall not be used or  disclosed for purposes other than those for which it was collected, except with  the consent of the individual or as required by law. Personal information shall  be retained only as long as necessary for the fulfillment of the purposes for  which it was collected.</p>
-<p><strong>PRINCIPLE 6 -- ACCURACY </strong>Personal information  shall be as accurate, complete and up-to-date as is necessary for the purposes  for which it is to be used.</p>
-<p><strong>PRINCIPLE 7-- SAFEGUARDS</strong> Personal information  shall be protected by security safeguards appropriate to the sensitivity of the  information.</p>
-<p><strong>PRINCIPLE 8 -- OPENNESS</strong> The Canwest Companies  shall make readily available to its customers and employees specific  information about its policies and practices relating to the management of  personal information.</p>
-<p><strong>PRINCIPLE 9 -- INDIVIDUAL  ACCESS </strong>Upon  request, an individual shall be informed of the existence, use and disclosure  of his or her personal information and shall be given access to that  information except where a Canwest Company is permitted or required by law not  to disclose personal information to the individual customer or employee. An individual  customer or employee shall be able to challenge the accuracy and completeness  of the information disclosed to him or her and have it amended as appropriate.</p>
-<p><strong>PRINCIPLE 10 --  CHALLENGING COMPLIANCE</strong> An individual customer or employee shall be able to address a  challenge concerning compliance with the principles in the Canwest Privacy  Policy to his or her designated Privacy Compliance Officer.</p>
-
-<p>
-<strong>THE CANWEST COMPANIES</strong> <br>
-To contact the privacy  officers click the appropriate link below:
-</p>
-<ul>
-  <li><a href="mailto:VancouverCHANPrivacyOfficer@globaltv.ca">Global BC (CHAN)</a> </li>
-  <li><a href="mailto:CITVPrivacyOfficer@globaltv.ca">Global Alberta</a> </li>
-  <li><a href="mailto:CFSKPrivacyOfficer@globaltv.ca">Global Saskatoon (CFSK)</a> </li>
-  <li><a href="mailto:CFREPrivacyOfficer@globaltv.ca">Global Regina (CFRE)</a> </li>
-  <li><a href="mailto:CKNDPrivacyOfficer@globaltv.ca">Global Winnipeg (CKND)</a> </li>
-  <li><a href="mailto:CIIIPrivacyOfficer@globaltv.ca">Global Toronto (CIII)</a> </li>
-  <li><a href="mailto:CMSTorontoPrivacyOfficer@canwestsales.ca">Sales and Marketing</a> </li>
-  <li><a href="mailto:CKMIQuebecPrivacyOfficer@globaltv.ca">Global Quebec (CKMI)</a> </li>
-  <li><a href="mailto:CIHFPrivacyOfficer@globaltv.ca">Global Martimes (CIHF)</a></li>
-</ul>
-				</div>
-			</div>
-		</div>
-				<div id="footer">
-			<ul class="footer-nav">
-				<li class="first">&nbsp;</li>
-				<li><a href="/default.asp">Home</a></li>
-				<li><a href="/terms.asp">Terms</a></li>
-				<li><a href="/contact_us.asp">Contact Us</a></li>
-				<li><a href="/privacy.asp">Privacy Statement</a></li>
-				<li><a href="/copyright.asp">Copyright</a></li>
-			</ul>
-			<span>All rights reserved 2009 Canwest Global Communications Corp</span>
-
-		</div>
+<!-- SiteCatalyst code version: H.7. Copyright 1997-2005 Omniture, Inc. More info available at http://www.omniture.com -->
+ 
+<script language="JavaScript">
 <!--
-    Site Catalyst files are split into channels as follows:
-        Filename                              Channel Name              Directories to include in the channel
-        standardFooter0.asp       - Print                                 -/advertising/print
-        standardFooter1.asp       - TV and Radio                -/advertising/Broadcast
-                                                                                                   -/advertising/index.asp
-        standardFooter2.asp       - Online                             -/advertising/interactive
-        standardFooter3.asp       - Marketing Ventures    -/advertising/marketingVentures
-        standardFooter4.asp       - Research                         -/advertising/research
-        standardFooter5.asp       - Corporate                      -/theCompany
-                                                                                                    -/theBusiness
-                                                                                                    -/newsroom
-                                                                                                    -/investors
-                                                                                                    -/careers
-                                                                                                    -/search
-                                                                                                    -/
-        starndardFooter6.asp      - Promotions                    -/Promotions
--->
+    var s_account="aolcaacqportal,aolcaglobal";
+//-->
+</script>
+ 
+<script language="JavaScript" src="http://canada.aol.com/omniture/omniunih_int.js"></script>  
+ 
+<script language="JavaScript">
 
-<!-- SiteCatalyst code version: G.7.
-Copyright 1997-2004 Omniture, Inc. More info available at
-http://www.omniture.com --><script language="JavaScript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
+<!--
+var urlString = document.URL + "";
+var string = urlString;                                                          
+var getURL = new Array();
+getURL = string.split("?");
+var pageURL = getURL[0];
 
-var s_pageName="/privacy.asp"
-var s_server="canwestglobal.com"
-var s_channel="General"
-var s_pageType=""
-var s_prop1=""
-var s_prop2=""
-var s_prop3=""
-var s_prop4=""
-var s_prop5=""
+    s_265.pfxID="abt";
+    s_265.pageName= s_265.pfxID + " : " + document.title;
+    s_265.server="http://canada.aol.com";
+    s_265.channel="ca.about AOL Canada";
+    s_265.pageType="";
+    s_265.linkInternalFilters="javascript:,aol.ca,aol.puretracks.com,gamevault.ca,aol.com,aol.qc.ca,forecaster.ca,aol.auto123.com,careerbuilder.ca,aol.mediresource.com,aolca.astrocenter.com,aol.livedeal.ca";
+    s_265.prop1="About AOL Canada";
+    s_265.prop12=pageURL;
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code=s_265.t();if(s_code)document.write(s_code)//--></script>  
+<!-- End SiteCatalyst code version: H.7. -->
 
-/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
-//--></script><script language="JavaScript" src="/includes/siteCatalyst/s_code_remote.js"></script>
+    
 
-<!-- End SiteCatalyst code version: G.7. -->
+<center>
+	<table width="715" height="105" cellpadding="0" cellspacing="0" border="0" bordercolor="FF0000">
+		<tbody><tr>
+			<td width="715" height="70" background="/portal/images/headerbg.gif"><a href="http://canada.aol.com"><img src="/portal/images/logo.gif" width="146" height="37" alt="AOL.ca" border="0" hspace="23"></a></td>
+		</tr>
+		<tr>
+			<td width="715" height="19" valign="top">
+				<a href="/portal/home/"><img src="/portal/images/nav_home.gif" border="0" name="home" alt="Home" onmouseover="imgOn('home')" onmouseout="imgOff('home')"></a><a href="/portal/what/"><img src="/portal/images/nav_what.gif" border="0" name="what" alt="What Is AOL?" onmouseover="imgOn('what')" onmouseout="imgOff('what')"></a><a href="/portal/why/"><img src="/portal/images/nav_why.gif" border="0" name="why" alt="Why Choose AOL?" onmouseover="imgOn('why')" onmouseout="imgOff('why')"></a><a href="/portal/price/"><img src="/portal/images/nav_price.gif" border="0" name="price" alt="Price Plans" onmouseover="imgOn('price')" onmouseout="imgOff('price')"></a><a href="/portal/help/"><img src="/portal/images/nav_help.gif" border="0" name="help" alt="How Can We Help?" onmouseover="imgOn('help')" onmouseout="imgOff('help')"></a><a href="/portal/downloads/"><img src="/portal/images/nav_downloads.gif" border="0" name="downloads" alt="Downloads" onmouseover="imgOn('downloads')" onmouseout="imgOff('downloads')"></a><a href="/portal/about/"><img src="/portal/images/nav_about.gif" border="0" name="about" alt="About AOL Canada" onmouseover="imgOn('about')" onmouseout="imgOff('about')"></a>
+			</td>
+		</tr>
+		<tr>
+			<td width="715" height="16" valign="top">
+				
+			</td>
+		</tr>
+	</tbody></table>
 
 
-	</div>
+<!-- Main Body -->
+	<table width="715" border="0" cellpadding="0" cellspacing="0"><tbody><tr>
+		<td><img src="/portal/images/transpix.gif" width="1" height="1" border="0"></td>
+		<td width="445"><img src="/portal/images/transpix.gif" width="1" height="24" border="0"></td>
+		<td width="20"><img src="/portal/images/transpix.gif" width="20" height="1" border="0"></td>
+		<td width="200"><img src="/portal/images/transpix.gif" width="1" height="24" border="0"></td>
+		<td><img src="/portal/images/transpix.gif" width="1" height="1" border="0"></td>
+	</tr><tr>
+		<td><img src="/portal/images/transpix.gif" width="1" height="1" border="0"></td>
+<!-- ---------- MAIN CONTENT ---------- -->
+		<td width="445" valign="TOP">
+			<font class="base">
+			<img src="/portal/images/tit_privacypolicy.gif" width="445" height="19" border="0">
+			<p>
+			<table cellpadding="0" cellspacing="0" border="0" bordercolor="#000000">
+				<tbody><tr>
+					<td valign="top">
+						AOL is strongly committed to protecting the privacy of consumers of its interactive products and services. Throughout cyberspace, we want to contribute to providing a safe and secure environment for consumers, and in particular, ensure that kids' information is protected. 
+						<br><br>While this privacy policy applies to the AOL.CA site and all of the other Internet-  
+					</td>
+					<td align="center" valign="top">
+						<a href="http://www.caip.ca" target="_blank"><img src="/portal/images/logo_caip.gif" width="220" height="66" border="0"></a>		
+						<br><a href="http://www.the-cma.org" target="_blank"><img src="/portal/images/logo_cma.gif" width="114" height="60" border="0"></a>		
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						accessible AOL-branded services, like AOL Instant Messenger, we will refer here only to AOL.CA to make reading this policy easier. The AOL Internet online service has a separate privacy policy for its members. If you are an AOL member, you can find that policy within our Terms of Service. The purpose of this AOL.CA privacy policy is to inform you, as a welcome visitor to AOL.CA, what kinds of information we may gather about you when you visit AOL.CA, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. Finally, please note that this policy applies only to AOL.CA and not to other companies' or organizations' Web sites to which we link. We have clearly marked AOL.CA with our logo so you know where this policy applies. 	
+					</td>
+				</tr>
+			</tbody></table>
+			
+			</p><p><b>Information About All AOL.CA Visitors</b><br>
+			In general, our service automatically gathers certain "ratings" information when a visitor comes to AOL.CA. We only use such data in the aggregate. This collective data helps us determine how much our customers use parts of the site, so we can improve our site to assure that it is as appealing as we can make it for as many of you as possible. For example, AOL.CA uses a technology nicknamed "cookies" that tells us how and when pages in our site are visited, and by how many people. Cookies do not collect personally identifiable information and we do not combine information collected through cookies with other personally identifiable information to tell us who you are or even what your screen name or E-mail address is. We also may provide statistical "ratings" information, never information about you personally, to our AOL.CA partners about how our members, collectively, use AOL.CA. We do this so they too can understand how much people use their areas and our site in order for them to provide you with 
+			the best possible Web experience as well. 
+			
+			</p><p><b>Information About You</b><br>
+			Sometimes, we may specifically ask for information about you when you sign up to use a service, like AOL Instant Messenger, or when you order a product. We will need certain information in order to provide that service or product to you and may also use that information to offer you additional products and services about which you might be interested. We may ask you for interest information so that both you and we can take advantage of the interactivity of the online medium, but you may always choose to respond or not. Additionally, we may provide you with an opportunity to be listed in a directory on one of our AOL-branded services — these listings are also optional and you can make changes to or eliminate this information when you want to.
+
+	</p><p><b>Third-party Advertising/Networks</b><br>
+
+We use third-party advertising companies and networks to serve ads.  These third-party ad network providers may use web beacons and cookies to help present, better target, and measure the effectiveness of their advertisements, using non-personally identifiable data (such as sites visited and browser type) gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience.  If you would like more information about this practice, as well as your choices about not having this information used for online behavioral advertising by these ad networks, click here: <a href="http://networkadvertising.org/consumer/opt_out.asp">http://networkadvertising.org/consumer/opt_out.asp</a>
 
 
+			
+			</p><p><b>Disclosure</b><br>
+			We do not use or disclose information about your individual visits to AOL.CA or information that you may give us, such as your name, address, E-mail address or telephone number, to any outside companies. But as we mention above, we may share with our Web site partners aggregated statistical "ratings" information about the use of AOL.CA. 
+			
+			</p><p><b>Special Attention to Kids</b><br>
+			AOL takes special care to protect the safety and privacy of young people using our services. We do not specifically collect information about children and believe that children should get their parents' consent before giving out any personal information. We encourage you to participate in your child's experience in cyberspace and to review our important safety tips before your child explores the Internet. We also encourage you and your child to visit AOL.CA's Kids Only Web Channel, which provides access to age-appropriate content available on the Web. AOL also recommends that parents who are AOL members use AOL's Parental Controls or, if not, other Web filtering technology to supervise their kids' access to the Web. 
+			
+			</p><p><b>AOL.CA Privacy Policy Changes</b><br>
+			If we decide to change our privacy policy for AOL.CA, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.
+			
+			</p></font><p><font class="base"><b>Director of Privacy</b><br>
+			Please direct all inquiries about our privacy policy for AOL.CA in writing to our designated Director of Privacy, AOL Canada Inc., 55 St. Clair Avenue East, Suite 700, Toronto, Ontario M4V 2Y7 or by fax to (416) 960 6560 or via e-mail: CAPrivacyinfo@aol.com.			
+			<br><br><br><br>
+			</font>
+		</p></td>
+		<td width="20"><img src="/portal/images/transpix.gif" width="20" height="1" border="0"></td>
+<!-- ---------- RIGHT COLUMN ---------- -->
+		<td width="200" valign="TOP">
+			<table width="200" border="0" cellpadding="0" cellspacing="0"><tbody><tr>
+	<td><img src="/portal/images/transpix.gif" width="6" height="1" border="0"></td>
+	<td><img src="/portal/images/transpix.gif" width="5" height="1" border="0"></td>
+	<td><img src="/portal/images/transpix.gif" width="183" height="1" border="0"></td>
+	<td><img src="/portal/images/transpix.gif" width="6" height="1" border="0"></td>
+</tr><tr>
+	<td><img src="/portal/images/rightnav/rsnavb_corner_ul.jpg" width="6" height="24" border="0"></td>
+	<td background="/portal/images/rightnav/rsnavb_bkgd_u.jpg"> </td>
+	<td background="/portal/images/rightnav/rsnavb_bkgd_u.jpg"><font class="subnavb_hd">&nbsp;How to Get In Touch With Us</font></td>
+	<td><img src="/portal/images/rightnav/rsnavb_corner_ur.jpg" width="6" height="24" border="0"></td>
+</tr><tr>
+	<td background="/portal/images/rightnav/rsnavb_brder_ll.jpg"> </td>
+	<td> </td>
+	<td><img src="/portal/images/transpix.gif" width="1" height="8" border="0"><br>
+		<font class="base">
+			<b>Member Services:</b><br>
+			<br>
+			1-800-AOL-HELP<br>
+			<img src="/portal/images/transpix.gif" width="1" height="8" border="0"><br>
+		</font></td>
+	<td background="/portal/images/rightnav/rsnavb_brder_lr.jpg"> </td>
+</tr><tr>
+	<td colspan="4"><img src="/portal/images/rightnav/rsnavb_hr.gif" width="200" height="1" border="0"></td>
+</tr><tr>
+	<td background="/portal/images/rightnav/rsnavb_brder_ll.jpg"> </td>
+	<td> </td>
+	<td><img src="/portal/images/transpix.gif" width="1" height="8" border="0"><br>
+		<font class="base">
+			<img src="/portal/images/transpix.gif" width="1" height="8" border="0"><br>
+			<b>AOL Canada Inc. Headquarters:</b><br>
+			99 Spadina Avenue <br>
+			Suite 200 <br>
+			Toronto, Ontario<br>
+			M5V 3P8 <br>
+			Phone: (416) 263-8100<br>
+			Fax: (416) 263-8102<br>
+			<img src="/portal/images/transpix.gif" width="1" height="8" border="0"><br>
+		</font></td>
+	<td background="/portal/images/rightnav/rsnavb_brder_lr.jpg"> </td>
+</tr><!-- TR>
+	<TD COLSPAN="4"><IMG src="/portal/images/rightnav/rsnavb_hr.gif" width="200" height="1" border="0"></TD>
+</TR><TR>
+	<TD BACKGROUND="/portal/images/rightnav/rsnavb_brder_ll.jpg"> </TD>
+	<TD> </TD>
+	<TD><IMG src="/portal/images/transpix.gif" width="1" height="8" border="0"><br>
+		<FONT CLASS="base">
+			<IMG src="/portal/images/transpix.gif" width="1" height="8" border="0"><BR>
+			<B>Media Contacts:</B><BR>
+			Vanda Provato<BR>
+			<A HREF="mailto:vandaprovato@aol.com" CLASS="subnav_links">vandaprovato@aol.com</A><BR>
+			(416) 960-6581<BR>
+			Becky Bolt<BR>
+			<A HREF="mailto:beckyboltca@aol.com" CLASS="subnav_links">beckyboltca@aol.com</A><BR>
+			(416) 960-6605<BR>
+			<IMG src="/portal/images/transpix.gif" width="1" height="8" border="0"><BR>
+		</FONT></TD>
+	<TD BACKGROUND="/portal/images/rightnav/rsnavb_brder_lr.jpg"> </TD>
+</TR --><tr>
+	<td><img src="/portal/images/rightnav/rsnavb_corner_ll.jpg" width="6" height="6" border="0"></td>
+	<td colspan="2" background="/portal/images/rightnav/rsnavb_brder_l.jpg"><img src="/portal/images/transpix.gif" width="188" height="1" border="0"></td>
+	<td><img src="/portal/images/rightnav/rsnavb_corner_lr.jpg" width="6" height="6" border="0"></td>
+</tr></tbody></table>
+<img src="/portal/images/transpix.gif" width="1" height="10" border="0"><br>
+			<!-- Questions Block -->
+<table width="202" height="89" border="0" cellpadding="0" cellspacing="0" background="/portal/images/rightnav/questions_bg.jpg">
+	<tbody><tr>
+		<td width="136">
+			<font class="basew">
+			<center>Have Questions?<br>
+			Call toll free,<br>
+			<b>1-888-265-HELP</b> (4357)<br>
+			</center>
+			</font>
+		</td>
+		<td width="66"> </td>
+	</tr>
+</tbody></table>
+<img src="/portal/images/transpix.gif" width="1" height="10" border="0"><br>
 
+			<br><br>
+		</td>
+		<td><img src="/portal/images/transpix.gif" width="1" height="1" border="0"></td>
+	</tr></tbody></table>
+
+<!-- Footer File -->
+	 
+<br><table width="715" cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td colspan="4" align="center">
+				<img src="/portal/images/dotsGrey664.gif" width="664" height="1">
+			</td>
+		</tr>
+		<tr>
+			<td width="27">&nbsp;</td>
+			<td>
+				<a href="/portal/misc/LegalNotices.adp" class="link">Legal Notices</a> |
+				<a href="/portal/misc/PrivacyPolicy.adp" class="link">Privacy Policy</a> |
+				<a href="http://advertise.aol.ca/" class="link" target="_blank">Advertise With Us</a> |
+				<a href="/portal/about/index.adp" class="link">About AOL Canada</a> |
+				<a href="http://canada.aol.com/qc/" class="link" target="_blank">Francais</a>
+			</td>
+			<td width="27">&nbsp;</td>
+			</tr>
+	</tbody></table>
+	<table width="715" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+	                <td width="27">&nbsp;</td>
+			<td colspan="4">
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Copyright © 2011 AOL Canada Inc. All rights reserved.
+			</td>
+		</tr>
+	</tbody></table>
+							
+</center>
 
 </body></html>
