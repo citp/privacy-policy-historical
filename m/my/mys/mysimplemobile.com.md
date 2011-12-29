@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mysimplemobile.com privacy policy that was archived on 2010-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100709231001id_/http%3A//www.mysimplemobile.com/Simple-Mobile-Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysimplemobile.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229022612id_/http%3A//mysimplemobile.com/Simple-Mobile-Privacy.aspx) for the most accurate reproduction.*
 
-# OMG! Simple Mobile
+# SIMPLE Mobile | Privacy Policy
 
-This Privacy Policy identifies and describes the way Simple Mobile uses and protects the information we collect about you, including Customer Proprietary Network Information (“CPNI”). All use of Simple Mobile’s products and services, including visits to our web site, are subject to this Privacy Policy, so please read it carefully and contact us with any questions pursuant to the directions in the section titled [How to Contact Us](https://web.archive.org/web/20100709231001id_/http%3A//www.mysimplemobile.com/Simple-Mobile-Contact-Us.aspx).
+This Privacy Policy identifies and describes the way Simple Mobile uses and protects the information we collect about you, including Customer Proprietary Network Information (“CPNI”). All use of Simple Mobile’s products and services, including visits to our web site, are subject to this Privacy Policy, so please read it carefully and contact us with any questions pursuant to the directions in the section titled [How to Contact Us](https://web.archive.org/web/20111229022612id_/http%3A//mysimplemobile.com/Simple-Mobile-Contact-Us.aspx).
 
 **PERSONAL INFORMATION**
 
@@ -145,4 +145,5 @@ We may update this policy if we materially change our practices or if legal or r
 
 **How to Contact Us**
 
+  
 If you have any questions or comments about this policy or about Simple Mobile's privacy practices, please call Customer Service at 1-877-238-7908 or send an e-mail message to [privacy@mysimplemobile.com](mailto:privacy@mysimplemobile.com). 
