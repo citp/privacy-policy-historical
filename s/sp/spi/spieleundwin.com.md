@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spieleundwin.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528221407id_/http%3A//www.spieleundwin.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spieleundwin.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229222713id_/http%3A//www.spieleundwin.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Play free Scratch games and Lottery at SpieleUndWin.com | Do you Scratch?
 
@@ -8,7 +8,7 @@
 Privacy   
   
 At NG International Ltd., we are committed to respecting your privacy on our Website(s). We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information ("Personal Information") that we acquire when you use Website(s) and the NGI Services. Accordingly, we have implemented this Privacy Policy in order to inform you of our information collection procedures. If you have any questions or comments regarding this Privacy Policy, please contact us at:   
-support@SpieleUndWin.com.
+support@SpieleUndWin.com
 
 How Do I Agree to the Privacy Policy?   
 
@@ -45,7 +45,7 @@ Non-Personal Information - We use non-personal information to track your use of 
 Can I "Opt Out" From Receiving Promotional Communications?   
 
 
-You may "opt-out" from receiving promotional communications at any time. To "opt out," please let us know by sending a blank message with the word "remove" to support@SpieleUndWin.com. or to the email address provided in the promotional communication from the NGI Partner. 
+You may "opt-out" from receiving promotional communications at any time. To "opt out," please let us know by sending a blank message with the word "remove" to support@SpieleUndWin.com or to the email address provided in the promotional communication from the NGI Partner. 
 
 What about Cookies?   
 
@@ -55,7 +55,7 @@ A cookie is a message that is sent to your computer from a web server and stored
 How Can I Review and Make Changes to My Personal Information?   
 
 
-You can review and modify your Personal information at the SPIELE UND WIN Website at any time by clicking on the 'UPDATE ACCOUNT' button from the cashier. You can also request that we correct errors in your Personal Information by emailing us at support@SpieleUndWin.com.. 
+You can review and modify your Personal information at the SPIELE UND WIN Website at any time by clicking on the 'UPDATE ACCOUNT' button from the cashier. You can also request that we correct errors in your Personal Information by emailing us at support@SpieleUndWin.com. 
 
 For your protection, you will be required to provide proof of your identity. If you wish, we will delete all of your Personal Information (except for your transaction history and other data that we are required to keep under applicable laws) from our records upon your request. However, if you choose to delete your Personal Information, you may not be able to access some areas of the Website or use some of the SPIELE UND WIN Services. 
 
@@ -67,6 +67,6 @@ Personal Information - we use only the best, up to date, methods to protect your
 What do you think?   
 
 
-We welcome your questions and comments regarding our Privacy Policy. Please send us an e-mail to support@SpieleUndWin.com..   
+We welcome your questions and comments regarding our Privacy Policy. Please send us an e-mail to support@SpieleUndWin.com.   
   
  
