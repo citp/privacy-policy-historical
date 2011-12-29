@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightcentre.co.uk privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023531id_/http%3A//www.flightcentre.co.uk/info/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightcentre.co.uk privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229095216id_/http%3A//www.flightcentre.co.uk/info/policies) for the most accurate reproduction.*
 
 # Cheap flights, holiday packages, hotels, car hire, touring and travel insurance | Flight Centre
 
@@ -89,6 +89,9 @@ Should you no longer wish to receive information on direct mail promotions and s
 
 **Use of Cookies**  
 A cookie is a small piece of text that is placed within the memory of a computer and can be later retrieved by web page servers. We use cookies to enhance your interaction and convenience with our website and do not use cookies to record any personal information.
+
+**Social Media**  
+At times we may share comments and feedback via our social media channels. Permission to use your information will always be requested prior to this occuring. 
 
 **Linked Sites**  
 Flight Centre has partnered with reputable third parties to offer our site visitors a variety of products and services. This means that our website may contain links to, or framing of, external web sites. Although we only work with reputable third parties, our business partners may have different privacy policies and practices than us. We are not responsible for the privacy practices or the content of such sites and therefore, make no warranties and accept no liability in relation to material contained on these. We encourage you to read the privacy statements of any linked or framed web site before submitting any personal information.
