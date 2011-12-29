@@ -1,34 +1,17 @@
-> *The following text is extracted and transformed from the scorespro.com privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727213257id_/http%3A//www.scorespro.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scorespro.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229140439id_/http%3A//www.scorespro.com/privacy) for the most accurate reproduction.*
 
 # Live Score service (powered by ScoresPro.com) - Privacy Policy
 
-  
+We do not collect your personal information when you simply browse our website. During the process of delivering an information to you via our website, ScoresPro.com does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address etc...
 
-
-ScoresPro.com are committed to your privacy.  
-The terms detailed below are the basis on which we hold personal information about you. 
-  * Personal Information - Collection
-We do not collect your personal information where you simply browse our website. During the process of delivering an information to you via our website, ScoresPro.com does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address.
-
-For the time beeing we do require personal information for you only to subscribe to the ScoresPro.com Score Mail Service.
+For the time beeing we do not require personal information at all.
 
 However, ScoresPro.com may or may not obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, the type of computer operating system you use (Macintosh or Windows, for example), or what screen resolution do you use.
 
-The information collected by ScoresPro.com is used for the purpose of improving your browsing experience on our website. In some cases, you may voluntarily provide personal information in response to a survey, registering for an online competiton, signing up for a newsletter or personalizing your ScoresPro.com pages.
+The information collected by ScoresPro.com (i.e. via [Google Analytics](http://www.google.com/intl/en/analytics/tos.html))* is used for the purpose of improving your browsing experience on our website. In some cases, you may voluntarily provide personal information in response to a survey, registering for an online competiton, signing up for a newsletter or personalizing your ScoresPro.com pages.
 
-If this does occur, ScoresPro.com will under no circumstances use such personal information for any purposes other than the ones you have provided them for. 
+If this does occur, ScoresPro.com will never, under no circumstances, use such personal information for any purposes other than the ones you have provided them for. 
 
-  * Personal Information - Storage
-The personal data collected by us on you will be evaluated periodically to determine whether we should continue to hold it. You will be notified from time to time through our mailings of the continued use of your personal data and be given the opportunity to notify us if you do not wish to continue to receive mailings. 
-  * Personal Information - Use of
-We will only use the personal information you provide to us only for communicating with you or notifying you of information relating to our and services. 
-  * [Score Mail Service](https://web.archive.org/web/20090727213257id_/http%3A//www.scorespro.com/scoremail.htm)
-When you subscribe to ScoresPro.com Score Mail Service you accept that:   
-a. We are going to use your Email address to send you letters  
-providing you the daily Scores & Results.   
-b. Your Email address will be used by our exclusive sponsor to bring you promotional matterial and/or discount offers,  
-included in the Score Mail letter or separately. 
-  * Cookies - What are they?
 ScoresPro.com, as well as most sites on the Internet, uses "cookies" to enhance your experience on the web.  
 ScoresPro.com cannot use these cookies to personally identify you in any way.
 
@@ -45,14 +28,3 @@ The ScoresPro.com Web Server(s) will send a Cookie to a Client system when our a
 We may or may not also use cookies to enhance your experience on our website (personalization,...). We believe cookies to be harmless, and will eventually be to everyone's benefit (end users, as well as site builders).
 
 If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information. 
-
-  * Personal Information - Disclosure
-We may need to disclose your personal information to third parties where this is required by law or where this is necessary for the performance of a service we provide for you. While we do not sell, trade or rent your personal information to others we may chose to do so in the future with trustworthy and specified third-parties.
-
-We will always endeavour to email you prior to any such transfer in order to gain your specific permission to transmit your data to such persons.   
-We may provide aggregate statistics about customers, sales, traffic patterns and related site information to reputable third party vendors but these will not include any personal identifying information. 
-
-  * Your Consent
-By using ScoresPro.com (website), you consent to our collection and use of your personal data for the purposes set out above. In the event that we decide to change our privacy policy we will post such changes on this page in order that you are always aware of the information we collect, how we use it and under what circumstances we disclose it.    
-
-
