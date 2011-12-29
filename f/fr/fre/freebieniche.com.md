@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freebieniche.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613045702id_/http%3A//www.freebieniche.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebieniche.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229191102id_/http%3A//www.freebieniche.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Freebie Niche
+# Privacy | Freebie Niche - Make Money Showing People How To Get Free Stuff
 
-rivacy Policy
+Privacy Policy
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
