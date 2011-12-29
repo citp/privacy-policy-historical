@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentals.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520225938id_/http%3A//www.rentals.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentals.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229141021id_/http%3A//www.rentals.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy « Home Rentals, Homes for Rent, Apartments, Houses For Rent, and Other Rental Homes
 
