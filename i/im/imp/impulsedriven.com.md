@@ -1,134 +1,100 @@
-> *The following text is extracted and transformed from the impulsedriven.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414174548id_/https%3A//store.stardock.com/policy.aspx%3Ftheme%3Dimpulse2%23Policy_PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impulsedriven.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229050621id_/http%3A//impulsedriven.com/support/privacy) for the most accurate reproduction.*
 
-# Impulse : Secure Checkout Process
+# Impulse : Support : Privacy Policy
 
-###  RETURN POLICY - Software published by Stardock
+Impulse, Inc. is aware of your concerns about use of your personal information. We attempt to use and share personal information that we collect online carefully and sensibly. This notice describes our privacy policy. By visiting Impulsedriven.com, you are accepting the practices described in this privacy notice.
 
-**We require that you utilize our technical support services prior to issuing a refund.** Tech support can be contacted at [ support@stardock.com](mailto:support@stardock.com). If it is determined that your problems cannot be rectified, technical support will instruct you on how to receive a full refund. Do not contact sales about a full refund without first contacting technical support. Sales will not fully refund your sale without an RMA from technical support. We do not charge for technical support.
+Our online privacy policy applies only to information that we collect from customers online who visit Impulsedriven.com. This website contains links to other websites. Impulse, Inc. is not responsible for the privacy practices or the content of such other websites.
 
-**We do not give refunds on beta or pre-release versions of software or subscription renewals.** Refunds are only available for fully-released programs.
+In this document, the word "computer" means any device used to connect to Impulsedriven.com, including, but not limited to, mobile devices.
 
-###  RETURN POLICY - 3rd party software via Impulse
+**Types of Personal Information That We Gather About Customers**
 
-If you purchased an application not published by Stardock and are seeking a refund, we must receive authorization from the publisher of the application in question to provide a full refund.
+**Information That You Give Us:** We receive and store any information you enter on our website or that you give us in any other way. You can choose not to provide certain information, but this will limit your ability to purchase products offered on the website, or to take advantage of some of our features for website customers.
 
-Refunds for 3rd party titles will be for Impulse store credit only, except instances approved by technical support where a customer has been unable to download/install a title through Impulse.
+When you place an order with us, your contact information is used to communicate related information, such as order and shipment confirmation, release date changes and requests for more information to facilitate the processing of your order. You may opt-out of these communications by canceling your order.
 
-**Some of our 3rd party titles offer beta access with pre-orders. If you pre-order a game to gain access to its beta, a refund is no longer possible when your order is processed and beta access has been granted.**
+We use customer contact information from the account form to customize future shopping for you, to improve our website and stores, and, if you choose, to send you information about our company and to inform you of sales and special offers. If, after receiving a non-order related email, you do not want to receive such emails in the future, you can notify us, by clicking on the "unsubscribe" link attached to each email.
 
-**We offer the capability to pre-load certain titles via Impulse if you place a pre-order. If you pre-order a game to gain access to the pre-load, a refund is no longer possible when your order is processed and pre-load access has been granted.**
+We obtain information about you when you search, buy, participate in a contest or questionnaire, communicate with customer service, or otherwise contact us or post information on the website. For example, you provide information when you search for a product; place an order through Impulsedriven.com or provide information to update or create your account with us (you may have more than one account if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; create any wish or gift list; participate in any forums or discussion areas or product reviews; or create any alerts or other email notification services we may offer now or in the future. The information collected typically includes your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; content of reviews you may provide; e-mails to us; and any other personal information that you provide to us or post on the website.
 
-**There are no refunds for Massively Multiplayer Online (MMO) games.**
+**We occasionally run our own email surveys** and we ask visitors for contact, demographic and technical information. We use contact data from our surveys to send users information about our company. This information is also used to contact visitors to learn more about specific problems they might have reported or to give them rewards, if such a reward program is part of the survey. The demographic information is used to learn more about the types of people who visit our site.
 
-**There are no refunds for games published by Electronic Arts.**
+**We run contests on our site in which we ask visitors for contact information** (such as their email address). We use this information to contact the winners. We may share contest information entered on our website with our business and marketing partners.
 
-###  RETURN POLICY - General
+**We allow customers to post reviews** and to allow visitors to communicate information on products. When posting a review, you can optionally display your name, an alias, or remain anonymous. However, if you disclose personally identifiable information in your review, that information is public information and may increase your chance of receiving unsolicited email. You should use discretion when disclosing information on-line.
 
-Refund requests on all credit/debit card orders must be received within 90 days of the transaction. No partial or full refunds will be granted after this time.
+**Automatic Collection of Information:** If you purchase any products online, or have any other interaction with our website, we will receive and store information that you provide or that is generated by your actions. For example, like many websites, we use "cookies," which are placed on your computer (explained in more detail below), to remember details about your visit. It also lets us personalize your experience at Impulsedriven.com, tailoring the content to your interests. A number of companies offer utilities designed to help you visit websites anonymously, but if you use these utilities, it may limit your ability to use personalized features that we offer.
 
-PayPal orders can only be refunded for 60 days after purchase date.
+The information we receive or can determine from your interaction with our website includes your Internet (IP) address; login and password information; e-mail address; web browser type and version; operating system and computer platform; purchase history, which we may aggregate with similar information from other customers; the full Uniform Resource Locator (URL) clickstream to, through, and from our website, including date and time; cookie number; products you viewed or searched for; areas of our website you visited; and the phone number you used to call our toll-free number. We also may log the length of time of your visit and the number of times you visit and purchase from us. We assign you a unique internal identifier to help keep track of your future visits.
 
-Please note that most Stardock programs have demo versions available for preview prior to buying. Since we do offer shareware versions and customer service is available to answer any questions about the software before and after ordering, full refunds will not be issued for functional software that does not live up to your expectations. We DO NOT have a "try before you buy" policy; this is why we offer shareware versions of our programs for evaluation. Please use the shareware versions prior to purchase if you are unsure if you want to purchase the product.
+**E-mail Communications:** We may provide email links that allow you to contact us directly with any questions or comments you may have. We may receive a confirmation when you open any e-mail that we send to you, if your computer supports such capabilities. If you send us any email, we will retain such email and your email address for response. We also may compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary or duplicate messages to you.
 
-For Stardock Products Only - Please review the minimum system requirements for our software carefully. If you request a refund and your computer does not meet the minimum system requirements, you will receive a partial refund of 75%.
+**Information from Other Sources:** If we receive any information about you from other sources, we may add it to our account information. For example, if we receive a list of subscribers to a gaming publication, and we note that you are a subscriber, we may include that information in the account information that we store about you. Other examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records; account information, purchase or redemption information, and page-view information from business partners who operate their own websites or for which we provide any services; search term and search result information from searches conducted through the website; and credit history information from credit bureaus, which we use to help prevent and detect fraud.
 
-If you are not willing to work with technical support on any problems you are having, or request a refund even if you are not having problems using the software, we will issue a partial refund of 75%. To receive a partial refund, please email [ sales@stardock.com](mailto:sales@stardock.com).
+**An Explanation of "Cookies"**
 
-We try to process refunds within 5 business days of receipt, but refunds may take up to 2 weeks to process. An original signature on all refund request letters is required due to card processing regulations.
+For purposes of both improving your user experience and providing us with useful analytic data, we use various commonly employed, industry-standard behavioral tracking methods. Among these methods, and similar to many other websites, we use “cookies” to optimize your experience.
 
-Stardock is open Monday through Friday, 8 am to 4 pm Eastern Time. If you experience problems ordering, registering, or using your software and contact us for help, please allow reasonable time for us to respond. Please do not reorder. We will not provide full refunds for duplicate orders under these circumstances. If you do not receive a serial number after the first order, there is probably something wrong with your email address, or routing to you; reordering will not fix this, so please do not reorder. Please email if you did not receive your serial number, and allow us 1 business day to respond. We make every effort to keep our systems up 24/7, but there are conditions beyond our control that may prevent processing to be fully functional.
+Cookies are alphanumeric identifiers that are placed by us on your computer's storage system through your web browser to enable our systems to recognize your browser when you make future visits to our website, and to store certain information (such as items placed in your shopping cart) between visits. Cookies allow us to collect anonymous information and to provide more relevant, targeted content as you navigate our website.
 
-If you have made errors entering your personal information on our order form, please send an email to [sales@stardock.com](https://web.archive.org/web/20110414174548id_/https%3A//store.stardock.com/sales@stardock.com). Do not reorder. We will not provide full refunds for duplicate orders under these circumstances.
+You can stop your computer from storing cookies if you choose to do so. Most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. You should look in the "help" area shown on your browser's toolbar. Because cookies allow you to have the benefit of our personalized features, we recommend that you leave them turned on.
 
-###  PRIVACY STATEMENT FOR STARDOCK.COM
+Additional information regarding the collection of use of information may be found in our Terms of Service.
 
-**Stardock.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Stardock.com](http://www.stardock.com/). This policy is also applicable to Stardock's other Web sites, including but not limited to: [ImpulseDriven.com](http://www.impulsedriven.com/), [ Stardock.net](http://www.stardock.net/), [WinCustomize.com](http://www.wincustomize.com/), [JoeUser.com](http://www.joeuser.com/), [ WindowBlinds.net](http://www.windowblinds.net/), [DesktopX.net](http://www.desktopx.net/), [ GalCiv.com](http://www.galciv.com/), [GalCiv2.com](http://www.galciv2.com/),[PoliticalMachine.com](http://www.politicalmachine.com/), and [ObjectDesktop.net](http://www.objectdesktop.net/).
+**Sharing of Information**
 
-_**WE DO NOT SHARE YOUR EMAIL ADDRESSES OR PERSONAL INFORMATION WITH ANYONE.**_
+**Sharing with Third Parties:** We may share customer information that we collect with third parties. Usually, this information will be shared with a third party that has relationship with us as a business partner or marketing partner. (See information on Third Party Relationships below.) Also, we may use the information that you provide us, or that we collect about you, in connection with the promotion of our products and services and those of our affiliates. It is not our policy to sell or rent lists of our website customers to unaffiliated third parties.
 
-####  Information Automatically Logged
+**Sharing with our Contractors:** We also may employ other companies and individuals to perform functions on our behalf. Examples include order fulfillment, package delivery, postal mail and e-mail communications, customer lists management, data analysis, marketing assistance, credit card processing, and customer relationship management. These companies and individuals have access to personal information needed to perform their functions, but they are not permitted to use such information for other purposes without our permission.
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. This information is used to generate reports on the overall traffic to the site for bandwith planning and usage statistics.
+**Promotional Offers May be Sent to You:** We may send you offers on behalf of our company or other businesses, or permit other businesses that we are working with to send you offers, if we believe that you may be interested in receiving these offers. If, after receiving a non-order related email, you do not want to receive such emails in the future, you can notify us, by clicking on the "unsubscribe" link attached to each email.
 
-####  Stardock Activation
+**Sale or Acquisition of Business Units:** As we continue to develop our business, we may buy or sell business divisions or companies, we may merge or combine with another company, or our company itself, or all or a significant part of its assets, may be acquired by another company. In such transactions, customer information generally is one of the transferred and shared business assets. The information transferred and shared remains subject to the promises made in any pre-existing privacy notice (unless, of course, the customer has agreed to be subject to new privacy notice terms).
 
-Some Stardock products require activation over the Internet to use their enhanced versions or updated versions. Depending on if your order wasdirectly through Stardock or through a third-party, we may ask for your first name, last name, email address, and the serial number/activation code for the product you have purchased.
+**Legal Requirements and Protection of Impulsedriven.com and Others:** We may decide to release your account and other personal information if we believe release is appropriate or necessary to comply with the law, to enforce or apply our website terms of use and other agreements, or to protect the rights, property, or safety of Impulsedriven.com, our users, or others. This information may be released or exchanged with other companies and organizations to protect against fraud, or for credit risk reduction. We will cooperate with law enforcement and judicial authorities, and we may provide personally identifiable information to appropriate government authorities upon receipt of a subpoena or court order, or to cooperate with a law enforcement investigation. We will fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We also reserve the right to report to law enforcement agencies activities that we in good faith believe to be illegal. We undertake no obligation or duty to release such information, however, unless we are required to do so under applicable law.
 
-Your IP address and number of activation attempts will also be logged. There are reasonable limits on how often you can activate a given product to help deter piracy, but for most users, this limit will not be reached.If you have difficulties, please contact support@stardock.com.
+**Other Circumstances:** If we want to share personal information other than as permitted or described above, we will notify you, and you may choose to instruct us not to share the information.
 
-This information will not be used by third parties, but may be used by Stardock to contact you about updates or other Stardock-related news.
+**Security of Information Stored by Us**
 
-####  Cookies
+We use commercially reasonable and appropriate measures to protect your information. For example, during transmission of information by you to our website, we use Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only the first two and last two digits of your credit card number when confirming an order, but we have to transmit the entire credit card number to the credit card processor or company during order processing.
 
-Our Site uses cookies to keep track of items in your shopping cart. Impulse accounts on the various websites (like ImpulseDriven.com and WinCustomize.com and for installing software via Impulse) also use cookies as part of their validation process.
+To the extent that you use our website, and connect to us through your computer, anyone with access to your computer may be able to access our website and conduct transactions in your name. We have no ability to know who has access to your computer, or to your credit card information, or who you have authorized to use such computer or information. Persons with access to your computer may be able to view any private or stored account information or other information that you have given to us. Accordingly, you are responsible for any transactions that are made in your name by someone who has access to your computer or your credit card number. It is important for you to protect against unauthorized access to any login or password information, and to your computer.
 
-####  Advertisers
+**Your Right to Choose (Opt-Out); Updating and Deleting Your Information**
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+You always may choose not to provide information. Obviously, if you choose not to provide necessary information, we may not be able to process your orders or inquiries. If we permit you to update any information that we store about you, we may keep a copy of the previous information for our records.
 
-Some customer data is shared with the advertising companies (i.e. ONLY what they have access to from setting in your cookies). We do not allow advertisers to see any private information including email addresses, home addresses, phone numbers, or any other private information.
+If, after receiving a non-order related email, you do not want to receive such emails in the future, you can notify us, by clicking on the "unsubscribe" link attached to each email.
 
-####  Registration Forms
+You can change or delete certain of your information on your account screen. You may also contact us at this address below if you would like to change your information or have us remove your information from our database.
 
-Our site's registration form requires users to give us contact information (like their name and email) and demographic information (like their zip code and age).
+**Public Areas of Website**
 
-Contact information from the registration forms is used to get in touch with the customer when necessary.
+Our website may include interactive forums such as message boards and chat rooms. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+**Other Websites**
 
-Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
+Our website may contain links to other websites. If you choose to visit other websites, we are not responsible for the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies.
 
-####  Order Forms
+**We May Change These Terms**
 
-Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code and age).
+Whether or not you have viewed our terms and conditions of use of this website, or this privacy notice, and whether or not you have chosen to not receive notices from us, those terms and notices will still govern your use of Impulsedriven.com. We may update or change our terms of use and this privacy notice at any time and from time to time, as we determine is appropriate.
 
-Contact information from the order forms is used to ship purchases, information about our company. The customer's contact information is also used to get in touch with the visitor when necessary.
+**Use of Our Website by Children**
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+Impulsedriven.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Impulsedriven.com only with the involvement of a parent or guardian. We do not knowingly collect or store any personal information, even in the aggregate, about children under the age of 13.
 
-Financial information that is collected is used to bill the user for products and services. 
+**Terms and Conditions of Use, Notices, and Revisions**
 
-Demographic and profile data is also collected at our site. We may use this data in the future to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
+If you choose to visit our website, your visit and any dispute over privacy is subject to this privacy notice and our Terms of Service, including without limitation, limitations on damages, venue for disputes, and application of the law of the State of Texas. If you have any concerns or questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
 
-#### Gift Cards
+Impulse, Inc.  
+Legal Department  
+625 Westport Pkwy  
+Grapevine, TX 76051  
+Fax: (817) 424-2002  
+[support@impulsedriven.com](mailto:support@impulsedriven.com)
 
-Gift Cards must be redeemed through [www.ImpulseDriven.com](http://www.impulsedriven.com/). The balance will be placed in the recipient's Impulse account once redeemed. Purchases are deducted from the Gift Card balance when chosen during checkout. If an order exceeds the amount available in the Impulse account, the balance must be paid with a credit card or other available payment method. To review your Impulse balance, visit <https://store.stardock.com/myaccount>. 
-
-You can view the full Gift Card Terms and Conditions by [clicking here](https://web.archive.org/giftcards/terms). 
-
-####  Surveys
-
-Our online surveys ask visitors for demographic information (like zip code or age). Demographic and profile data is also collected at our site. We use this data in the future to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
-
-####  External Links
-
-This site contains links to other sites. **Stardock.com** is not responsible for the privacy practices or the content of such Web sites.
-
-####  Public Forums
-
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-####  Security
-
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Credit card information for orders is secured via industry standard 128-bit SSL encryption.
-
-####  Choice/Opt-Out
-
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us via Stardock Magazine.
-
-  1. You can send email to [info@stardock.com](mailto:info@stardock.com)
-  2. You can visit the following URL: [ http://www.stardock.com/subscriptions.asp](http://www.stardock.com/subscriptions.asp)
-
-
-
-####  Data Quality/Access
-
-This site gives users the following options for changing and modifying information previously provided: 
-
-  1. You can send email to [sales@stardock.com](mailto:sales@stardock.com)
-
-
-
-###  CONTACTING THE WEB SITE
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [ info@stardock.com](mailto:info@stardock.com)
+As is the case with any business, our business changes over time, and our privacy notice and the Terms of Service also will change. We may e-mail reminders of our notices and conditions. You should frequently check our website to see recent changes to these terms and policies. Unless stated otherwise, our current privacy notice applies to all information that we have about you and your account.
