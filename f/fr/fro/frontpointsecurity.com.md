@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontpointsecurity.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612180729id_/http%3A//www.frontpointsecurity.com/common/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontpointsecurity.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229182444id_/http%3A//www.frontpointsecurity.com/common/privacy-policy) for the most accurate reproduction.*
 
 # Wireless Home Security Systems | FrontPointSecurity : Common : Privacy Policy
 
