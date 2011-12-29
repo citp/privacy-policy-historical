@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the aristotle.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630091525id_/http%3A//www.aristotle.com/content/view/31/152) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aristotle.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229172543id_/http%3A//www.aristotle.com/content/view/31/152) for the most accurate reproduction.*
 
 # Privacy Policy and Data Restrictions - Aristotle - Now You Know
+
+Revised (8/29/2011) 
 
 Aristotle, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for **Aristotle, Inc.** and its divisions. 
 
@@ -8,14 +10,14 @@ Aristotle, Inc. has created this privacy statement in order to demonstrate our f
 
 Our site's registration form requires users to give us contact information (like their name and email address). We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. 
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Financial information that is collected is used to bill the user for products and services.  
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address). Contact information from the order form is used to send orders and information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary.  
 
 
 This site has security measures in place, including server password and firewalls, to protect the loss, misuse and alteration of the information under our control. 
 
 ## Copyright Notice
 
-© 1983-2009 Aristotle, Inc. All rights reserved.   
+© 1983-2011 Aristotle, Inc. All rights reserved.   
 
 
 ## Trademarks
@@ -34,8 +36,7 @@ Personally identifiable information provided for purposes of age and identity ve
 
 ## U.S.-EU Safe Harbor Privacy Statement
 
-For personal information of employees, consumers, customers, investors, and government officials that Aristotle receives from the European Economic Area, Aristotle has committed to handling such personal information in accordance with the Safe Harbor Principles. Aristotle’s Safe Harbor certification can be found at <http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list>. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's Website at <http://www.export.gov/safeharbor/sh_overview.html>.  
-
+For personal information of employees, consumers, customers, investors, and government officials that Aristotle receives from the European Economic Area, Aristotle has committed to handling such personal information in accordance with the Safe Harbor Principles. Aristotle’s Safe Harbor certification can be found at <https://safeharbor.export.gov/list.aspx>. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's Website at <http://export.gov/safeharbor/>. 
 
 ## Confidentiality of Information/Correction
 
