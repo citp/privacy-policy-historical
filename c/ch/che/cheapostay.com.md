@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapostay.com privacy policy that was archived on 2010-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101111084230id_/http%3A//www.cheapostay.com/hotels/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapostay.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229063422id_/http%3A//www.cheapostay.com/hotels/privacy-policy.asp) for the most accurate reproduction.*
 
 # CheapOstay Privacy Policy
 
@@ -69,5 +69,19 @@ Suite 1301
 New York, NY 10001  
 [feedback@CheapOstay.com](mailto:feedback@CheapOstay.com)**  
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns.   
+  
+   
+|   
+---  
+  
+| 
+
+To start receiving exclusive hotel deals & discounts, sign up for CheapOstay's newsletter! 
+
+Check your email for a special coupon! 
+
+PLUS, get $15 instantly*  
+  
+---  
   
  
