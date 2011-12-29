@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the raz-kids.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625055755id_/http%3A//www.learninga-z.com/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raz-kids.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229211550id_/http%3A//www.learninga-z.com/help/privacy.htm) for the most accurate reproduction.*
 
-# Learning A-Z.com
+# Learning A-Z Privacy Statement | Learning A-Z Help
 
 Learning A-Z obeys a strict code of privacy in regards to the information collected for customers and visitors to any Learning A-Z website: Reading A-Z, Raz-Kids, Reading-Tutors, Vocabulary A-Z, and Writing A-Z. The following outlines what information we collect, what we do with it, and how you can determine how information about you is used. 
 
@@ -20,12 +20,12 @@ Learning A-Z websites are directed at adults and educators, and with the excepti
 
 **Surveys & Contests: **From time to time, we request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary, and you have a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of Learning A-Z websites. 
 
-**Security:** Learning A-Z takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order form asks users to enter sensitive information, that information is encrypted. 
+**Security:** Learning A-Z takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order form asks users to enter sensitive information, that information is encrypted. 
 
-While we use encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. 
+While we use encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. 
 
 Learning A-Z does not store credit card information in our database. This is to both reduce our liability and protect your interests. 
 
 If you have any questions about the security at any Learning A-Z website, or the order process, please email [ support@learninga-z.com](mailto:support@learninga-z.com). 
 
-Notification of Changes: If we decide to change our privacy policy, we will post those changes each Learning A-Z website home page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a chance to inform us not to use their information in a different manner. We will use information in accordance with the privacy policy in place when the information was collected.
+Notification of Changes: If we decide to change our privacy policy, we will post those changes each Learning A-Z website home page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a chance to inform us not to use their information in a different manner. We will use information in accordance with the privacy policy in place when the information was collected. 
