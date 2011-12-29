@@ -1,47 +1,143 @@
-<!--The following is the downloaded HTML source of the kidsgamesforfree.net privacy policy that was archived on 2010-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226201438id_/http%3A//www.kidsgamesforfree.net/templates/default/files/pp.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kidsgamesforfree.net privacy policy that was archived on 2011-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229034637id_/http%3A//www.kidsgamesforfree.net/templates/default/files/PrivacyPolicy.html) for the most accurate reproduction.-->
 
 <html><head>
-<title>Privacy Policy - www.kidsgamesforfree.net</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-</head>
-<body>
-<p> Privacy Policy for www.kidsgamesforfree.net </p>
-<p> If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@freecartoongames.net. </p>
-<p> At www.kidsgamesforfree.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.kidsgamesforfree.net and how it is used. </p>
-<p> <b>Log Files</b><br> Like many other Web sites, www.kidsgamesforfree.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. </p>
-<p> <b>Cookies and Web Beacons</b><br> www.kidsgamesforfree.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. </p>
-<b>DoubleClick DART Cookie</b><br>
-<p>
-.:: Google, as a third party vendor, uses cookies to serve ads on www.kidsgamesforfree.net.<br>
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to www.kidsgamesforfree.net and other sites on the Internet. <br>
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html </p>
-<p> Some of our advertising partners may use cookies and web beacons on our site. 
-  Our advertising partners include ....... <br>
-  Google Adsense <br>
-  Valueclickmedia <br>
-  <br>
-  We use third-party advertising companies to serve ads when you visit our<br>
-  Website. These companies may use information (not including your name,<br>
-  address email address or telephone number) about your visits to this and<br>
-  other Web sites in order to provide advertisements about goods and<br>
-  services of interest to you. If you would like more information about<br>
-  this practice and to know your choices about not having this information<br>
-  used by these companies, <a href="http://www.networkadvertising.org">click here</a>.</p>
-<p> </p>
-<p>The link for "click here" is <a href="http://www.networkadvertising.org">www.networkadvertising.org</a>.<br>
-</p>
-<p><br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-</p>
-<p> These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.kidsgamesforfree.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. </p>
-<p> www.kidsgamesforfree.net has no access to or control over these cookies that are used by third-party advertisers. </p>
-<p> You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.kidsgamesforfree.net's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. </p>
-<p> If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. </p>
+<link href="/jquery/css/sunny/1.8.6.custom.css" rel="stylesheet" media="screen">
+<script src="/jquery/js/1.5.1.min.js" type="text/javascript"></script>
+<script src="/jquery/ui/full/1.8.6.min.js" type="text/javascript"></script>
+<script src="/jquery/plugins/jquery.cookie.js" type="text/javascript"></script>
+<script type="text/javascript">
+	var popupStatus = 0;
+	
+	$(document).ready(function() 
+		{
+		$("#dialogmsgbox").dialog(
+			{
+			modal: true,
+			//title: 'Signup Today!',
+			resizable: false,
+			width:500,
+			height:450,
+			autoOpen: false,
+			closeOnEscape: false //,
+			//open: function(event, ui) { $(".ui-dialog-titlebar-close").hide(); }
+			});
+		});
+		
+	//loading popup with jQuery magic!
+	function loadPopup(){
+		$('#dialogmsgbox').dialog('open');
+		/*
+		centerPopup();
+		//loads popup only if it is disabled
+		if(popupStatus==0){
+			$("#backgroundPopup").css({
+				"opacity": "0.7"
+			});
+			$("#backgroundPopup").fadeIn("slow");
+			$("#popupContact").fadeIn("slow");
+			popupStatus = 1;
+		}
+		*/
+	}
+	function close_msg(id)
+		{
+		//document.getElementById('msg_msg').innerHTML = 'Sending Emails...<br /><br />';
+		//document.getElementById('msg_close').style.display = 'none';
+		$("#"+id).dialog("close");
+		}
+	
+	//disabling popup with jQuery magic!
+	function disablePopup(){
+		//disables popup only if it is enabled
+		if(popupStatus==1){
+			//$("#backgroundPopup").fadeOut("slow");
+			//$("#popupContact").fadeOut("slow");
+			//document.getElementById('msg_msg').innerHTML = 'Sending Emails...<br /><br />';
+			//document.getElementById('msg_close').style.display = 'none';
+			$("#"+id).dialog("close");
+			popupStatus = 0;
+		}
+	}
+	
+	/*
+	//centering popup
+	function centerPopup(){
+		//request data for centering
+		var windowWidth = document.documentElement.clientWidth;  
+		var windowHeight = document.documentElement.clientHeight;  
+		var windowscrolltop = document.documentElement.scrollTop; 
+		var windowscrollleft = document.documentElement.scrollLeft; 
+		var popupHeight = $("#popupContact").height();
+		var popupWidth = $("#popupContact").width();
+		var toppos = windowHeight/2-popupHeight/2+windowscrolltop;
+		var leftpos = windowWidth/2-popupWidth/2+windowscrollleft;
+		//centering
+		$("#popupContact").css({
+			"position": "absolute",
+			"top": toppos,
+			"left": leftpos
+		});
+		//only need force for IE6
+		$("#backgroundPopup").css({
+			"height": windowHeight
+		});
+	
+	}
+	*/
+	
+	//CONTROLLING EVENTS IN jQuery
+	$(document).ready(function(){
+		if ($.cookie("anewsletter") != 100) {	
+			//centering with css
+			//load popup
+			setTimeout("loadPopup()",5000);	
+		}	
+		/*	
+		//CLOSING POPUP
+		//Click the x event!
+		$("#popupContactClose").click(function(){
+			disablePopup();
+			$.cookie("anewsletter", "1", { expires: 7 });
+		});
+		//Click out event!
+		$("#backgroundPopup").click(function(){
+			disablePopup();
+			$.cookie("anewsletter", "1", { expires: 7 });
+		});
+		//Press Escape event!
+		$(document).keypress(function(e){
+			if(e.keyCode==27 && popupStatus==1){
+				disablePopup();
+				$.cookie("anewsletter", "1", { expires: 7 });
+			}
+		});
+		*/
+	});
+</script>
+<style>
+	
+</style>
+<title>Privacy Policy</title><style type="text/css">ol{margin:0;padding:0}p{margin:0}.c5{color:#000099;font-size:11pt;text-decoration:underline;font-family:Arial}.c0{padding-left:0pt;line-height:1.15;direction:ltr;margin-left:36.0pt}.c2{line-height:1.15;text-indent:0pt;direction:ltr}.c1{color:#000000;font-size:11pt;font-family:Arial}.c3{background-color:#ffffff}.c4{font-weight:bold}.c6{list-style-type:disc}p{color:#000000;font-size:11pt;font-family:Arial}.heading1{font-size:24pt;font-weight:bold}.heading2{font-size:18pt;font-weight:bold}.heading3{font-size:14pt;font-weight:bold}.heading4{font-size:12pt;font-weight:bold}.heading5{font-size:11pt;font-weight:bold}.heading6{font-size:10pt;font-weight:bold}</style></head><body class="c3"><p class="c2"><span class="c1">Privacy Policy</span></p><p class="c2"><span class="c1">&nbsp;</span></p><p class="c2"><span class="c1 c4">Privacy Policy for www.lolarcades.com</span></p><p class="c2"><span class="c1 c4">&nbsp;</span></p><p class="c2"><span class="c1">If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@lolarcades.com.</span></p><p class="c2"><span class="c1">&nbsp;</span></p><p class="c2"><span class="c1">At www.lolarcades.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.lolarcades.com and how it is used.</span></p><p class="c2"><span class="c1">&nbsp;</span></p><p class="c2"><span class="c1 c4">Log Files</span></p><p class="c2"><span class="c1">Like many other Web sites, www.lolarcades.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.</span></p><p class="c2"><span class="c1">&nbsp;</span></p><p class="c2"><span class="c1 c4">Cookies and Web Beacons</span></p><p class="c2"><span class="c1">www.lolarcades.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.</span></p><p class="c2"><span class="c1">&nbsp;</span></p><p class="c2"><span class="c1 c4">DoubleClick DART Cookie</span></p><p class="c2"><span class="c1"> Google, as a third party vendor, uses cookies to serve ads on www.lolarcades.com.</span></p><p class="c2"><span class="c1"> Google's use of the DART cookie enables it to serve ads to users based on their visit to www.lolarcades.com and other sites on the Internet.</span></p><p class="c2"><span class="c1"> Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html</span></p><p class="c2"><span class="c1">&nbsp;</span></p><p class="c2"><span class="c1">Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....</span></p><ol class="c6"><li class="c0" value="1"><span class="c1">Google Adsense</span></li></ol><ol class="c6"><li class="c0" value="1"><span class="c1">Adbrite</span></li><li class="c0"><span class="c1">Chitika</span></li><li class="c0"><span class="c1">Amazon</span></li><li class="c0"><span class="c1">ValueClick Media</span></li><li class="c0"><span class="c1">Intergi</span></li><li class="c0"><span class="c1">UnderDog Media</span></li><li class="c0"><span class="c1">Clickbooth</span></li><li class="c0"><span class="c1">Smowtion</span></li><li class="c0"><span class="c1">Adfunky</span></li><li class="c0"><span class="c1">VideoEgg</span></li></ol><p class="c2"><span class="c1">&nbsp;</span></p><p class="c2"><span class="c1">These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.lolarcades.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.</span></p><p class="c2"><span class="c1">&nbsp;</span></p><p class="c2"><span class="c1">www.lolarcades.com has no access to or control over these cookies that are used by third-party advertisers.</span></p><p class="c2"><span class="c1">&nbsp;</span></p><p class="c2"><span class="c1">You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.lolarcades.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</span></p><p class="c2"><span class="c1">&nbsp;</span></p><p class="c2"><span class="c1">If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. </span></p><p class="c2"><span class="c1">&nbsp;</span></p><p class="c2"><span class="c1">You can also opt out of </span><span class="c5"><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.macromedia.com%2Fsupport%2Fdocumentation%2Fen%2Fflashplayer%2Fhelp%2Fsettings_manager06.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEAp1b8XTlYEnEoO4Bx-5RK0pTY7Q">of your flash cookies here</a></span><span class="c1">. If you wish to quickly opt-out of many of the advertisers we may use you can visit networkadvertising.org’s opt-out page by </span><span class="c5"><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.networkadvertising.org%2Foptout_nonppii.asp&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGCio23mFoYRHgbjTdoJHtsf5wT6A">clicking here</a></span><span class="c1">.</span></p>
 
- </body></html>
+     
+    <div id="dialogmsgbox" title="Signup" style="display:none;">
+        <div id="msg_msg">
+             <h1>Subscription to tglarcades.com</h1>		 
+             <div id="contactArea">
+                 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="#" method="post">
+                     <p>Enter your email address:</p>
+                     <p><input type="text" style="width:140px" name="email"></p>
+                     <input type="hidden" value="Simplex" name="uri">
+    
+                     <input type="hidden" name="loc" value="en_US">
+                     <input type="submit" value="Subscribe">
+                 </form>
+             </div>
+        </div>
+        <div id="msg_close" style="display:none;">
+        	<br><br>
+        	<input type="button" value="Close" onclick="close_msg('dialogmsgbox');"> 
+        </div>
+    </div>
+</body></html>
