@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the tradethemarkets.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610130709id_/http%3A//www.tradethemarkets.com/public/department12.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradethemarkets.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229214605id_/http%3A//www.tradethemarkets.com/public/department12.cfm) for the most accurate reproduction.*
 
 # Our Privacy Policy
-
- 
-
-Our Privacy Policy
 
 We are strongly committed to safeguarding subscribers' privacy.
 
