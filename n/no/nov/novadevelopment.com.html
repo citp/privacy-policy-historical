@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the novadevelopment.com privacy policy that was archived on 2011-01-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110101215211id_/http%3A//www.novadevelopment.com/company/legal-privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the novadevelopment.com privacy policy that was archived on 2011-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229183755id_/http%3A//www.novadevelopment.com/company/legal-privacy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,6 +9,7 @@
 <meta name="google-site-verification" content="KwBSt94yXIGQcUKEFSQehQtnKfTDb4_Xkh8wwj8n0xM">
 <meta name="y_key" content="127028d8f0de00f6">
 <meta name="msvalidate.01" content="4A66D49C76E2FD34F2CF3FE5AC1A6122">
+<meta name="google-site-verification" content="wkvkc1E6gFv64GhY6h_DOZVPfPo4HMOK2ofUbCNeCf4">
 <meta>
 <link href="http://cdn3.novadevelopment.com/template/nova/css_cdn/allCss_sprite.css" rel="stylesheet" type="text/css">
 <!--[if lt IE 8.]>
@@ -81,6 +82,40 @@ outline: none;
 <script>
  $(document).ready(function() {
 
+		$("a").click(function() {
+			//make sure the link is in the 'footer links'
+			if($(this).parent().attr('id') == 'footer_topCat')
+			{
+				var linkHref = $(this).attr("href").replace(/(<([^>]+)>)/ig,"");
+				
+				// if the link href is not relative
+				if(linkHref.charAt(0) != '/')
+				{
+					//create the base url
+					var baseURI = location.protocol + '://' + location.hostname;
+				
+										
+					// fetermine whether or not the clicked on link is external or not
+					if(!linkHref.match("^" + baseURI))
+					{
+						//return false;
+						
+						var analyticsAccountNo = 'UA-223533-11';
+						
+  						try
+  						{
+    						var pageTracker=_gat._getTracker(analyticsAccountNo);
+    						pageTracker._trackEvent('Outbound Links', linkHref);
+    						setTimeout('document.location = "' + linkHref + '"', 100);
+    						return false;
+  						}catch(err){}
+						
+					}
+				
+				}
+			}
+		});
+
         $(".next").click(function () {
 			//alert('working');
 			var menuPossitem = $(this).parents('.menu_paging').attr('id');
@@ -141,6 +176,16 @@ outline: none;
           return false;
         }); 
 	  }); 
+</script>
+
+<!-- Recaptcha Scripts -->
+<script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+<script type="text/javascript">
+    function showRecaptcha(element) {
+       Recaptcha.create("6LcC3sMSAAAAACc2a-PzijkPH90C57iQa1m17Qkp", element, {
+          theme: "red",
+       callback: Recaptcha.focus_response_field});
+        }
 </script>
 </head>
 
@@ -219,7 +264,7 @@ $(document).ready(function() {
 		<div style="margin-left:10px; margin-right:10px;">
 			<h1>Privacy Policy</h1>
 			<p class="bodycopy">For each visitor to our website, our web server automatically recognizes only the visitor's domain name, not the e-mail address.</p><p class="bodycopy">We do collect the e-mail addresses of those who communicate with us via e-mail and those who indicate their e-mail address when placing an order or joining our mailing list. We also collect aggregate information on what pages visitors access and information volunteered by visitors, such as survey information and/or site registrations.</p><p class="bodycopy">We use the information we collect to more effectively communicate with our users and website visitors and for marketing purposes. At times we also share the information with other reputable organizations for marketing purposes.</p><p class="bodycopy">If you supply us with your postal address or e-mail on-line, you may receive periodic mailings from us with information about new products and services or upcoming events. At times we also share the information with other reputable organizations so that they may offer products or services that we believe will be attractive to those people who have either purchased Nova products or who have elected to subscribe to our mailing list.</p><p class="bodycopy">With respect to Cookies: We use cookies to store visitors' preferences and to record session information, such as the country in which they live (for purposes of calculating shipping costs, for example) and the items they add to their shopping carts.</p><p class="bodycopy">With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.</p><p class="bodycopy">We do not provide site visitors with access to information that we have collected and that we maintain about them. However, consumers can have this type of information corrected by calling or writing us at our corporate office at:</p><p class="bodycopy"><span id="_SE_CP"><span class="bodycopy">23801 Calabasas Road,</span></span>
-	<span>Calabasas, CA USA 91302-1547</span></p><p class="bodycopy">With respect to security: When we transfer and receive certain types of sensitive information, such as financial information, we re-direct visitors to a secure server.</p><p class="bodycopy">If you feel that this site is not following its stated privacy policy, you may contact us at our corporate office.</p><p class="bodycopy">To be removed from our mailing list, please Fill out the Form <a title="Remove From Mailing List" href="/company/legal-privacy/remove.html">Here</a></p>		</div>
+	<span>Calabasas, CA USA 91302-1547</span></p><p class="bodycopy">With respect to security: When we transfer and receive certain types of sensitive information, such as financial information, we re-direct visitors to a secure server.</p><p class="bodycopy">If you feel that this site is not following its stated privacy policy, you may contact us at our corporate office.</p><p class="bodycopy">To be removed from our mailing list, please fill out the form <a title="Remove From Mailing List" href="/company/legal-privacy/remove.html">Here</a></p>		</div>
 	</div>
 	<div class="product_left_column_bottom">
 	</div>
@@ -300,7 +345,7 @@ $(document).ready(function() {
 							Top Categories:&nbsp;
 															<a href="/software/print-creativity-software/greeting-card-software/" class="footer_link">Greeting Card Software</a>
 							&nbsp;|&nbsp;								<a href="/software/print-creativity-software/desktop-publishing-software/" class="footer_link">Desktop Publishing Software</a>
-							&nbsp;|&nbsp;								<a href="/software/language-learning-software/" class="footer_link">Language Learning Software</a>
+							&nbsp;|&nbsp;								<a href="/support/user-community/affiliate-program.html" class="footer_link">Affiliate Program</a>
 														
 					</div>
 					<script>
@@ -315,17 +360,27 @@ $(document).ready(function() {
 							<a href="javascript://" onclick="$('#mailSignupFoot').submit();" class="footer_signup_button"></a>
 						</form>
 					</div>
+					<div class="footer_lowerwrap">
 					<div id="footer_lowerLinks">
 						
+					<a href="http://www.canvasworld.com" class="footer_lowerLink">Canvas Prints</a>
+					&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;	
+					<a href="http://www.simplytoimpress.com" class="footer_lowerLink">Custom Photo Cards</a>
+					&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;	
 					<a href="/company/reseller-center/retail.html" class="footer_lowerLink">Retail Locations</a>
 					&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;	
 					<a href="/company/legal-privacy/index.html" class="footer_lowerLink">Privacy Policy</a>
 					&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;	
 					<a href="/company/sitemap.html" class="footer_lowerLink">Site Map</a>
-					&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;	
-					<a href="/" class="footer_lowerLink">Home</a>
 										<br><br> Copyright 2011 Nova Development. All rights reserved.
 					</div>
+					<div class="bizratefoot">
+<!-- BEGIN: Bizrate Medal (112x37 pixels) -->
+<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--246808.html" target="_blank">
+<img src=" http://medals.bizrate.com/medals/dynamic/small/246808_medal.gif" alt="See Reviews at Bizrate.com" width="112" height="37" align="top" border="0"></a>
+<!-- END: Bizrate Medal (112x37 pixels) -->
+</div>
+</div>
 				</div>
 							</div>
 		</div>
