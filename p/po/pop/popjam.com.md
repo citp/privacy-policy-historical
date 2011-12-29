@@ -1,131 +1,100 @@
-> *The following text is extracted and transformed from the popjam.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221130655id_/http%3A//www.popjam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popjam.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# PopJam - PopJam Privacy Policy
+# Legal Agreement
 
-### Last modified: February 12, 2009
+**Go Daddy Respects Your Privacy**
 
-This Privacy statement ('Privacy Policy') covers the website http://www.popjam.com, owned and operated by PopJam Ltd. ('PopJam', 'we', 'us', 'our'). PopJam knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the PopJam website, submitting information or using any of our products or services, you are accepting the practices outlined in this Privacy Policy.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-For the purposes of the Data Protection Act 1998 the data controller is PopJam Ltd. of 53 Greek Street, Soho, London W1D 3DR.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-## What Does This Privacy Policy Cover?
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-This Privacy Policy covers PopJam's treatment of personal information that PopJam gathers when you are on the PopJam website and when you use PopJam services. Also, this Privacy Policy covers PopJam's treatment of any personal information that PopJam's business partners share with PopJam. This Privacy Policy does not apply to the practices of third parties that PopJam does not own or control, or to individuals that PopJam does not employ or manage.
+**Information Collection and Use**
 
-## What Personal Information Does PopJam Collect?
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Our primary goal in collecting personal information is to personalize and improve our services. We collect the following types of information from you:
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-  1. **Information You Provide to Us:**
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-Registration: In order for you to use our website fully, you must complete a registration form. As part of this registration form, we require your email address, name, and username.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-  2. **Automatic Information:**
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-We may receive and store certain types of information whenever you interact with us. PopJam may automatically receive and record certain 'traffic data' on our server logs from your browser including your IP address, PopJam cookie information, and the page you requested.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-Generally, our services may automatically collect usage information, such as the numbers and frequency of visitors to our website and its components.
+**Security**
 
-  3. **E-mail Communications:**
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-If you contact us by email we may keep record of that communication.
+**Updating Your Information**
 
-  4. **Information from Other Sources:**
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-For purposes such as improving personalization of our service, we may receive information about you from other sources and add it to our account information.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
+      iii.      You may call us at: (480) 505-8800
 
+       iv.      You may fax us at: (480) 505-8844
 
-## What about Cookies?
+**Sending Emails**
 
-Cookies are alphanumeric identifiers that we may transfer to your computer's hard drive through your web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The 'help' portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of PopJam's most attractive features.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-Some of our business partners may use cookies on our website (for example, advertisers). However, we have no access to or control over these cookies.
+**Compliance with Laws and Law Enforcement**
 
-## Uses Made of Your information
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-We use information held about you in the following ways:
+**Third Party Service Providers**
 
-  * To ensure that content from our website is presented in the most effective manner for you and for your computer.
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
-  * To carry out our obligations from any contracts entered into between you and us.
-  * To allow you to participate in interactive features of our service, when you choose to do so.
-  * To notify you about changes to our service.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
+**Supplementation of Information**
 
-We may share your data with selected business partners for the purposes listed above, but we shall not rent or sell your personal data to third parties.
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-We do not disclose information about identifiable individuals to advertisers or business partners, but we may provide them with anonymized aggregate information about our users. We may also use such aggregate information to help advertisers and business partners reach the kind of audience they want to target.
+**Contests/Surveys**
 
-## Will PopJam Share Any of the Information it Receives?
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-We neither rent nor sell your personal information to anyone. We share your personal information only with your consent or to the business partners and affiliates as described below:
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-  * **Personnel:**
+**Tell-A-Friend**
 
-Our personnel (including, for the avoidance of doubt, consultants and/or contractors) may have access to user information while carrying out their duties in the normal course of our company business.
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-  * **Agents:**
+**What Happens to my Personal Information if I Opt Out?**
 
-We may employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include sending e-mail, removing repetitive information from our database, analyzing data, providing marketing assistance, and providing customer service. You hereby consent to our sharing of your personal information for the above purposes.
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-  * **Business Transfers:**
+**Transfer of Data Abroad**
 
-In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Moreover, if PopJam, or substantially all of its assets, were acquired, customer information would be one of the assets that is transferred or acquired by a third party.
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-  * **Protection of PopJam and Others:**
+**Changes in Our Practices**
 
-We may release personal information when we believe in good faith that release is necessary to comply with that law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of PopJam, our employees, our customers, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
+**Contacting Our Site**
 
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-## Where We Store Your Information
+* * *
 
-The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ('EEA'). It may also be processed by staff operating outside the EEA, who work for us or for one of our suppliers. By submitting your personal information, you agree to this transfer, storing or processing. We will take all steps necessary to ensure that your information is treated securely and in accordance with this privacy policy.
-
-## Is Information About Me Secure?
-
-Your PopJam account information is protected by a password for your privacy and security. You need to work to protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer. Only PopJam employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to that personal information. All of our employees are kept up to date on our privacy and security practices.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
-
-## What Information Can I Access?
-
-You can access your personal information on our website and correct, amend, or delete information that is inaccurate by updating your profile under the 'Account' section of the website.
-
-## What Choices Do I Have?
-
-As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website.
-
-You are able to add or update certain information on pages, such as those listed in the 'What Personal Information Does PopJam Collect?' section above. When you update information, however, we often maintain a copy of the unrevised information in our records.
-
-You may request deletion of your PopJam account by sending an email to account [at] popjam [dotcom]. Please note that some information may remain in our records after deletion of your account.
-
-If you do not wish to receive e-mail or other mail from us, please update your profile under the 'Account' section of the website. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the PopJam website, and you are responsible for reviewing such legal notices for changes.
-
-## Can Children Use PopJam's Services?
-
-You must be at least 18 years old to register to use the PopJam website. As a result, PopJam does not specifically collect information about children.
-
-## Conditions of Use
-
-If you decide to visit the PopJam website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, and application of the laws of England & Wales.
-
-## Third Party Websites
-
-PopJam services may permit you to link to other websites on the Internet, and other websites may contain links to the PopJam website. These other websites are not under PopJam control. The privacy and security practices of websites linked to or from the PopJam website are not covered by this Privacy Policy, and PopJam is not responsible for the privacy or security practices or the content of such websites.
-
-## Changes to this Privacy Policy
-
-PopJam may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. We recommend that you periodically check the site for changes, so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
-
-## Questions or Concerns
-
-If you have any questions or concerns regarding privacy at the PopJam website, please send a detailed message to privacy [at] popjam [dotcom]. Your privacy is important to us and we will make every effort to resolve your concerns.
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
