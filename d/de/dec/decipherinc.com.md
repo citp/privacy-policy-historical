@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decipherinc.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607041812id_/http%3A//www.decipherinc.com/n/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decipherinc.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229080135id_/http%3A//hera.decipherinc.com/n/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Decipher Market Research | Decipher
 
@@ -64,8 +64,8 @@ The Company utilizes the self-assessment approach to assure its compliance with 
 If you have any questions about this Policy, our practices related to this Site, or if you would like to have us remove your information from our database please feel contact us at the following address:
 
 **Decipher, Inc.**  
-5250 N. Palm Avenue, Suite 220  
-Fresno, California 93704  
+7 River Park Place, Suite 110  
+Fresno, California 93720  
 559-436-6940  
 [www.decipherinc.com](http://www.decipherinc.com/)
 
