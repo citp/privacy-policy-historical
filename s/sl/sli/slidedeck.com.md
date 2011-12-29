@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slidedeck.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606103258id_/http%3A//www.slidedeck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slidedeck.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229062109id_/http%3A//www.slidedeck.com/privacy-policy) for the most accurate reproduction.*
 
 # SlideDeck | Privacy Policy
 
