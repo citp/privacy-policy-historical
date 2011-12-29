@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paulsmith.co.uk privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617072021id_/http%3A//www.paulsmith.co.uk/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulsmith.co.uk privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229070243id_/http%3A//www.paulsmith.co.uk/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Information - Paul Smith
 
@@ -17,7 +17,7 @@ We will not sell or rent your personal information to third parties except as de
 
 ## Your DATA
 
-When becoming a new customer you agree to our terms and condidtions and privacy policy. The information you provide shall be held and may be used by Paul Smith Ltd and disclosed to associated companies of Paul Smith for the following purposes:
+When becoming a new customer you agree to our terms and conditions and privacy policy. The information you provide shall be held and may be used by Paul Smith Ltd and disclosed to associated companies of Paul Smith for the following purposes:
 
 informing you about forthcoming events organized by or on behalf of Paul Smith telling you about products, services and offers available from Paul Smith and operating and administering such products, services and offers; processing of applications for, and administering membership of, this website; providing you with updates and information about Paul Smith; and helping Paul Smith Ltd through analysis and assessment to better understand and develop our business, including new and innovative products and services.
 
@@ -29,11 +29,11 @@ IMPORTANT: By registering with Paul Smith and/or using this website you consent 
 
 ## Shopping
 
-When becoming a new customer on line with Paul Smith or purchasing goods on line we record your Internet IP address for our records for reference to any fraudulent payment transactions.
+When becoming a new customer online with Paul Smith or purchasing goods on line we record your Internet IP address for our records for reference to any fraudulent payment transactions.
 
 ## Cookies
 
-We use session based cookies to help you maintain your shopping basket and any details you submit during your visit. We do not store permanent cookies on your computer, and you will need to login with your registered user name and password each time you wish to purchase goods from the website.
+We use session based cookies to help you maintain your shopping basket and any details you submit during your visit. We do not store permanent cookies on your computer, and you will need to sign in with your registered user name and password each time you wish to purchase goods from the website.
 
 ## New Customer Forms
 
@@ -49,7 +49,7 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 ## Data Quality/Access
 
-This site gives users the following options for changing and modifying information previously provided once logged in, though the "my account" section.
+This site gives users the following options for changing and modifying information previously provided once signed in, though the "my account" section.
 
 ## Contacting the Web Site
 
@@ -61,9 +61,9 @@ If you have any questions about this privacy statement, the practices of this si
 
 Cookies are small text files that are sent by websites that you visit to recognise who you are when you return there. There files are stored on your computer’s hard drive, and are read by your web browser.
 
-### How are cookie used?
+### How are cookies used?
 
-Cookies perform several functions, such as remembering who you are on a particular site (your welcome message), to keeping you logged in to your account screen on an ecommerce site (however, you should always log out if you are using a public computer). Advertising agencies also use cookies to find out if they have served you an advert from a particular brand on a site, or if you have seen a particular advert before. Website owners will use cookies to follow which pages that you’ve read so that they can see what parts of the site are popular or not. In short, cookies are a way of providing statistics on site visits as well as some limited functionality that makes your site visit easier. When used properly cookies are an asset to a site visitor and a site owner. They are not viruses, but some unscrupulous outfits will use them maliciously – we follow best practice for cookie use.
+Cookies perform several functions, such as remembering who you are on a particular site (your welcome message), to keeping you signed in to your account screen on an ecommerce site (however, you should always sign out if you are using a public computer). Advertising agencies also use cookies to find out if they have served you an advert from a particular brand on a site, or if you have seen a particular advert before. Website owners will use cookies to follow which pages that you’ve read so that they can see what parts of the site are popular or not. In short, cookies are a way of providing statistics on site visits as well as some limited functionality that makes your site visit easier. When used properly cookies are an asset to a site visitor and a site owner. They are not viruses, but some unscrupulous outfits will use them maliciously – we follow best practice for cookie use.
 
 A list of all the cookies used on this website by us, and our technology partners can be found in our [cookies list](https://web.archive.org/cookie-listing.html).
 
@@ -90,6 +90,6 @@ We work with the following companies in maintaining and improving our website, a
 
 ### the OTHER media Limited
 
-the OTHER media provide build and hosting services to Nacro and help us to maintain the software that runs our website. They provide us with reporting statistics where required, and will serve cookies on our behalf to enable any site personalisation and log in functionality.
+the OTHER media provide build and hosting services to Paul Smith and help us to maintain the software that runs our website. They provide us with reporting statistics where required, and will serve cookies on our behalf to enable any site personalisation and sign in functionality.
 
 Return to top of page
