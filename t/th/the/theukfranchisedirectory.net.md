@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theukfranchisedirectory.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611222048id_/http%3A//www.theukfranchisedirectory.net/page/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theukfranchisedirectory.net privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229064857id_/http%3A//www.theukfranchisedirectory.net/page/privacy.php) for the most accurate reproduction.*
 
-# The UK Franchise Directory
+# TheUKFranchiseDirectory.net Website Privacy policy - The UK Franchise Directory
 
 TheUKFranchiseDirectory.net, part of Franchise Development Services Limited, is committed to protecting the privacy of its users. The following outlines our privacy and data protection policy.
 
