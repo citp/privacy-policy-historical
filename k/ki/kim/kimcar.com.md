@@ -1,105 +1,100 @@
-> *The following text is extracted and transformed from the kimcar.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230222438id_/http%3A//kimcar.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kimcar.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# KimCar.Com :Privacy Policy
+# Legal Agreement
 
-KimCar.Com understands your concern with privacy and the use of your personal information. Whether you submit a purchase request for a vehicle or simply browse through our website, we assure you that we are committed to protecting your personal privacy.
+**Go Daddy Respects Your Privacy**
 
-**1\. Information KimCar.Com Collects**
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-KimCar.Com collects email addresses of consumers who communicate with us or through our authorized vendors via e-mail. We also collect information on web pages visited and other information that is provided by consumers either on our site or in response to e-mail communications from us. We also collect information provided to us by consumers in purchase requests submitted through our site or our authorized vendors' sites ("Purchase Request Information"). Purchase Request Information typically includes name, address, and phone numbers, e-mail address and specific vehicle information. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-All information provided by consumers in any of the above-listed ways or otherwise becomes the property of KimCar.Com once received by us and may be used and disclosed as permitted in this Policy. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Framed Sections of Our Site**
+**Information Collection and Use**
 
-KimCar.Com maintains relationships with outside service providers for some of the products and services offered through our site. Certain of these service providers are found on our Finance, Insurance, Warranty, or other pages. The information these providers make available may be presented in a "framed" format, where the KimCar.Com border will surround the pages served by the service providers, or by directly linking the user to the vendors' sites. In either case, the service provider is prominently identified. Please be aware that any information you provide on those framed pages is provided directly to those service providers and is subject to their security and privacy policies. We encourage you to read the privacy policies of these outside service providers because their privacy practices may differ from ours. 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-**Browsing on our Website**
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-If you browse through our site without entering any personal data, we will gather and store certain information about your visit. This information does not identify you personally and cannot be linked back to you unless you decide at some point to identify yourself. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-If you are only browsing, we collect the following information: IP address, the type of browser and operating system used to access our site, the date and time you access our site, the pages you visit (click-through), and if you linked to our Web site from another Web site, the address of that Web site, as well as additional information related to your visit. 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-**2\. How We Use Your Personal Information**
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Collected information is used to improve the content of our website, customize the content or layout of our website for individual users, provide services requested, notify users of updates to the site and, subject to the limitations set forth below, to develop new products and services and to contact consumers for marketing purposes. 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-**Personalization**
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-KimCar.Com offers its users the advantage of personalization on our website by using cookies. (See Cookies below.) Personalized services are offered in designated areas of our website to users who register with us. Examples of personalization include providing information when prompted for services, the saving of favorite vehicle information in "My Garage," the recordation of used vehicle searches for easy updates, and the provision of service reminders and recall information for those users who request these options. 
+**Security**
 
-KimCar.Com may track consumer interest in goods and services marketed to users who are members of the on-site personalization area. This information is used solely by KimCar.Com and its affiliated companies for business purposes. 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-**Purchase Request Information**
+**Updating Your Information**
 
-Purchase Request Information is used to transmit to third parties requests for products or services and to contact consumers regarding vehicle purchases. Typically, the information is transmitted to dealers, manufacturers or fulfillment entities who may be in a position to respond to your request. Occasionally, when KimCar.Com does not have a dealership available to assist you, we may forward your request information to a dealer at another automotive referral service. You will be notified that your information is being forwarded at the time you submit your purchase request. 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-Any Purchase Request Information forwarded in this way becomes subject to the security and privacy policies that are posted on the websites of those referral services. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-Similarly, Purchase Request Information transmitted to a dealer or manufacturer or fulfillment entity becomes the property of that dealer or manufacturer or fulfillment entity, in addition to KimCar.Com. The information is used to process your purchase request and to provide you with information about goods and services. Any request to opt out of future dealer or manufacturer communications must be made directly to the dealer or manufacturer. 
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**Other Uses**
+      iii.      You may call us at: (480) 505-8800
 
-We also share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve our user experience and generally to engage in market research and for other internal business purposes. We also may aggregate your personal information with others' information and prepare reports on site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. 
+       iv.      You may fax us at: (480) 505-8844
 
-**Special Sections of Our Site**
+**Sending Emails**
 
-KimCar.Com offers forums on its site. Any information you disclose in these forums is available to all KimCar.Com registered members and may increase the risk of receiving "spam" or unsolicited email from other parties. Be careful and use discretion when disclosing information online. 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-If you choose to submit a Consumer Review of a Vehicle, you will be able to request that your name, email address and a list of cars in your household be shown. If you do not give that permission, your personal information will not be displayed. 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-If you contact Consumer Care utilizing the live help Chat function, your questions or information will not be collected or shared with other parties, unless directed by you. 
+**Compliance with Laws and Law Enforcement**
 
-**3\. Third Parties That May Receive Your Personal Information**
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-In addition to our own internal uses of your information, we may provide your personal information to non-affiliated third parties under one of several circumstances: 
+**Third Party Service Providers**
 
-  * To provide you with services or products that you have requested (such as, for example, transmittal of Purchase Request Information to dealers, manufacturers, fulfillment third-parties and other automotive referral services); 
-  * To our advertiser clients solely to assess the effectiveness of ad campaigns we have provided for them; 
-  * To contractors or service providers who may provide services or perform functions on our behalf, in which case those service providers may use your information only for the purposes provided and not disclose it to any third party except upon our direction; 
-  * To enforce our rights or as required by law or order of a court or government agency; and 
-  * On occasion, unless you opt-out (as described below), to other third parties who may wish to send you e-mails or postal communications regarding services or products that you may find of interest. 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
+**Supplementation of Information**
 
-**4\. Your Right To Opt Out of Communications From Us and Others**
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-You always have the option of removing yourself from further marketing contact from us. If at any time you choose to opt out of any category of email, you can click on the remove link at the bottom of the e-mail. Alternatively, you may email Customer Service at consumercare@autoindream.com with the word "Remove" in the subject line and we will remove you from all further email and postal mail marketing communication within 5 business days. 
+**Contests/Surveys**
 
-In addition, those consumers who submit a purchase request to us are given the opportunity at the time they provide their information to decide what types of offerings of products or services they wish to receive. You may update those preferences at any time by clicking here. 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-In each case, even if you decide not to receive offers or other product or service information, KimCar.Com and its member dealers may use a phone number or email address that you have provided to contact you regarding your purchase request for a vehicle. Additionally, phone numbers may be used to conduct customer surveys regarding individual experiences with KimCar.Com-accredited dealers. Phone numbers are made available only to KimCar.Com, its affiliates and member dealers or manufacturers who receive your purchase request. 
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-The submission of a purchase request itself is permission for us to submit your Purchase Request Information to the third parties necessary to fulfill your request. 
+**Tell-A-Friend**
 
-**5\. Security**
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-KimCar.Com understands the importance of security for our consumers. We use SSL (Secure Socket Layer) encryption technology to protect personal data such as credit card information and finance or insurance application information during transmission, and maintain other commercially reasonable precautions to protect information that we store or retain. 
+**What Happens to my Personal Information if I Opt Out?**
 
-**6\. Corrections or Changes to Your Personal Information**
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-You may also make corrections and updates to your personal information by contacting consumercare@autoindream.com, or by accessing your settings in the "My Garage" personalized portion of our Web site by clicking on Log In on our Home Page. If you are already a member of "My Garage", you will be offered "My Settings" where you can make any adjustments you wish in your personally identifiable information, and email settings. If you are not already a member of "My Garage", you will be invited to become a member and create your personal information and email settings. 
+**Transfer of Data Abroad**
 
-**7\. Cookies and Web Beacons**
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-KimCar.Com offers consumers the convenience of online personalization by using cookies. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser. When this information is stored on your hard drive, our system is able to recognize your browser and in turn customize web page content for you. (See Personalization) 
+**Changes in Our Practices**
 
-Cookies cannot be used to retrieve data from your hard drive, obtain your email address or obtain sensitive information about you. When a cookie is set, your browser will check it for length, an expiration date, and where it originated. Only KimCar.Com can access the cookies that we set. 
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-KimCar.Com allows our ad service company to set cookies as well. These cookies can "recognize" a consumer by a Unique identifier assigned at the time of the first visit, and may be used to measure site and page visits and browser version number, and browsing activity. This information may be used to better serve and provide advertising content on future visits and web pages viewed during your browser sessions on our websites. These cookies cannot obtain private information like name, e-mail or other personal information, and are not shared with KimCar.Com. 
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-We use a third party tracking service who sets cookies on our site to track visits, page views and click stream behavior. The third party tracking service reports this data to us in aggregate so we can better understand our users and to improve our site. This information is not tied to any individual user. 
+**Contacting Our Site**
 
-If you prefer not to accept cookies, most browsers will explain how to disable cookies under the help portion of the toolbar or notify you when you receive a new cookie. However, if you choose to disallow cookies on your hard drive, our Web site will not be able to provide personalization services. 
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-We also place "web beacons" on the website on behalf of third parties. A web beacon is a small, transparent image placed at various sections of our site to monitor user traffic. The web beacon records the number of click-throughs to the page where it resides and collects users' IP addresses, time the page was viewed, type of browser used, and existence of cookies from a previous visit. However, the data collected by our web beacons are used only in aggregated form, with no associated identifying information, and KimCar.Com does not tie IP addresses to individual users or disclose the IP addresses to any non-affiliated third party. Information collected by web beacons is used only by KimCar.Com, its affiliates and authorized vendors. If you do not wish such information to be collected, you can choose to deactivate cookies on your browser. 
+* * *
 
-**8\. Changes or Revisions to This Policy**
-
-If we are going to use your personally identifying information in a manner different from that stated in our privacy policy at the time of collection, we will notify you via email. You will have a choice as to whether or not to allow us to use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. In some cases we will also e-mail users who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
-
-In the event KimCar.Com or its assets are acquired, such as through merger, acquisition or similar event, resulting in a change in ultimate control over customers' personal information (other than through an internal corporate reorganization or similar transaction), customers will be notified promptly of such change. We will make reasonable efforts to ensure that the acquirer of our customers' personal information respects the provisions of this privacy policy, although this may not be possible in certain legal settings (such as bankruptcy). 
-
-**9\. Questions or Concerns?**
-
-If you have any questions or concerns regarding privacy, security, opting-out of e-mail offers or understanding how your personal information is being used, please contact our Consumer Privacy Advocate by e-mail at webmaster@autoindream.com.
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
