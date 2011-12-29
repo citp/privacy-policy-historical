@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fora.tv privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616121744id_/http%3A//fora.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fora.tv privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229070416id_/http%3A//fora.tv/privacy) for the most accurate reproduction.*
 
 # FORA.tv - Privacy Policy
 
@@ -36,6 +36,8 @@
 > _Service Providers_. We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf or to perform Site-related services (e.g., without limitation, bill and credit card payment processing, maintenance services, database management and improvement of the Site's features). These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. 
 > 
 > _PayPal_. When you purchase a subscription or pay an access fee via PayPal, PayPal will collect and store any information that you submit during the PayPal service process. Refer to PayPal's Privacy Policy located at http://www.paypal.com for more information about PayPal's privacy practices. In connection with the PayPal payment process, PayPal may transfer us your PayPal user ID, your PayPal email address (if different from the PayPal user ID), your postal address, the amount of your payment, method of PayPal payment and your phone number. 
+> 
+> _Apple_. When you purchase a subscription or single transaction on the FORA.tv iPad application, Apple will collect and store any information that you submit during the Apple service process. Refer to Apple's Privacy Policy located at http://www.apple.com for more information about Apple's privacy practices.
 > 
 > _Compliance with Laws and Law Enforcement_. FORA.tv cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including subpoenas), to protect the property and rights of FORA.tv or a third party, to protect the safety of the public or any person, or to prevent or stop any illegal, unethical or legally actionable activity. 
 > 
