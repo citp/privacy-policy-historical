@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the draftstreet.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602061333id_/http%3A//www.draftstreet.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draftstreet.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229020117id_/http%3A//www.draftstreet.com/Privacy.aspx) for the most accurate reproduction.*
 
-# DraftStreet.com - Privacy Policy
+# Fantasy Sports Money Leagues, Win Cash and Prizes Today
 
 ## NOTICE: Privacy Policy Effective March 15th, 2010
 
@@ -8,7 +8,7 @@
 
 Thank you for visiting the DraftStreet™ website located at www.draftstreet.com (the “Site”). The Site is an Internet property of Left Tackle LLC (“DraftStreet™,” “we” or “us”). This DraftStreet™ Website Privacy Policy (“Privacy Policy”) covers our treatment of Personal Information (as defined hereinbelow) and other information that we collect when you: (a) access or use the Site; (b) become a DraftStreet™ Member (as defined in the DraftStreet™ Website Terms and Conditions (“Terms and Conditions”)); (c) use the DraftStreet™ Services (as defined in the Terms and Conditions); (d) purchase DraftStreet™ products, or register to purchase DraftStreet™ purchase products, from the DraftStreet™ shop accessible via the Site (“DraftStreet™ Shop”); and/or (e) register for one of our sweepstakes, promotional offers or contests (the “Sweepstakes”). It is important that visitors are fully informed about the use of their Personal Information. We believe in 100% permission-based marketing. 
 
-If you are a resident of the State of California and would like to opt-out from the disclosure of your Personal Information to any third party for marketing purposes, please e-mail us at: [customerservice@draftstreet.com](mailto:customerservice@draftstreet.com). Please be advised that where California State residents opt-out from permitting their Personal Information to be shared, such individuals may still receive selected offers directly from us, in accordance with applicable law. 
+If you are a resident of the State of California and would like to opt-out from the disclosure of your Personal Information to any third party for marketing purposes, please e-mail us at: [cs@draftstreet.com](mailto:cs@draftstreet.com). Please be advised that where California State residents opt-out from permitting their Personal Information to be shared, such individuals may still receive selected offers directly from us, in accordance with applicable law. 
 
 When you register on our Site, you hereby agree and acknowledge that your Personal Information will be placed into the DraftStreet™ database and that such Personal Information shall be shared with third parties for marketing purposes. 
 
@@ -72,11 +72,11 @@ No information should be submitted to, or posted at, the Site by visitors under 
 
 ## Removal of Your Information/Opting Out
 
-At your request, we will remove Personal Information that you have provided to us. You may do so by e-mailing us at [customerservice@draftstreet.com](mailto:customerservice@draftstreet.com). However, deleting your Personal Information, or otherwise opting-out of receipt of communications from us or third parties, will only change or delete the data in our database for purposes of transacting future business on the Site and for managing future communications from us and third parties. These deletions will not change or delete Personal Information already collected as part of a particular transaction in our database, which may have already been shared with third parties, all as provided above in this Privacy Policy. You will need to contact third parties who may contact you directly to change your preferences or your Personal Information that they may be using to contact you. 
+At your request, we will remove Personal Information that you have provided to us. You may do so by e-mailing us at [cs@draftstreet.com](mailto:cs@draftstreet.com). However, deleting your Personal Information, or otherwise opting-out of receipt of communications from us or third parties, will only change or delete the data in our database for purposes of transacting future business on the Site and for managing future communications from us and third parties. These deletions will not change or delete Personal Information already collected as part of a particular transaction in our database, which may have already been shared with third parties, all as provided above in this Privacy Policy. You will need to contact third parties who may contact you directly to change your preferences or your Personal Information that they may be using to contact you. 
 
 We provide users with the option to opt-out from receiving information sent via electronic mailings on behalf of third party advertisers. Users may unsubscribe from receiving e-mail at any time by following the instructions contained at the end of every e-mailing. Unsubscribe requests can only be processed if you have registered with us in the first instance. If you have not registered with us and wish to opt out of receiving e-mail from a particular sender, please review that sender’s opt out policy or contact that sender. 
 
-Information sent via e-mail is prepared several days in advance, so users may continue to receive e-mail from us for up to ten (10) days following the unsubscribe procedures detailed above. If, after that point, a user is still receiving e-mail from us, the user should contact us at [customerservice@draftstreet.com](mailto:customerservice@draftstreet.com). 
+Information sent via e-mail is prepared several days in advance, so users may continue to receive e-mail from us for up to ten (10) days following the unsubscribe procedures detailed above. If, after that point, a user is still receiving e-mail from us, the user should contact us at [cs@draftstreet.com](mailto:cs@draftstreet.com). 
 
 ## Your Acceptance of these Terms
 
@@ -84,9 +84,9 @@ By using the Site, DraftStreet™ Shop, Sweepstakes and/or DraftStreet™ Servic
 
 ## Contacting Us about Privacy Questions or Concerns
 
-If you have any questions about this Privacy Policy, the practices of the Site, DraftStreet™ Shop, Sweepstakes and/or DraftStreet™ Services or your dealings with same, please e-mail us at [customerservice@draftstreet.com](mailto:customerservice@draftstreet.com), or send a letter to: 
+If you have any questions about this Privacy Policy, the practices of the Site, DraftStreet™ Shop, Sweepstakes and/or DraftStreet™ Services or your dealings with same, please e-mail us at [cs@draftstreet.com](mailto:cs@draftstreet.com), or send a letter to: 
 
 DraftStreet  
 111 W 28th St  
 Suite 2B  
-New York, NY 10001
+New York, NY 10001 
