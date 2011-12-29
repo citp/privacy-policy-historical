@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bradsdeals.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629132803id_/http%3A//www.bradsdeals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradsdeals.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229212450id_/http%3A//www.bradsdeals.com/privacy) for the most accurate reproduction.*
 
 # BradsDeals Privacy Policy
 
@@ -49,6 +49,10 @@ Information Security. We utilize encryption/security software to safeguard the c
 Evaluation of Information Protection Practices. Periodically, our operations and business practices are reviewed for compliance with corporate policies and procedures governing the security, confidentiality and quality of our information.
 
 Employee Access, Training and Expectations. Our corporate values, ethical standards, policies and practices are committed to the protection of customer information. In general, our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons, processes and transactions.
+
+### Communication Opt Out
+
+If you wish to opt out of receiving offers directly from Shop Smart, Inc. network or business partners, you can unsubscribe at [www.bradsdeals.com/my/unsubscribe](http://www.bradsdeals.com/my/unsubscribe) or follow the opt-out instructions in the emails that they send you located at the footer of the communication. We can be reached by postal mail at 7195 Commerce Drive, Mentor, OH 44060, or by phone at 877.970.0707. You can email us at suggestions@bradsdeals.com with questions, comments or suggestions.
 
 ### Do We Disclose Information to Outside Parties?
 
