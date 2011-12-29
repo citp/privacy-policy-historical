@@ -1,0 +1,679 @@
+<!--The following is the downloaded HTML source of the healthsprint.com privacy policy that was archived on 2011-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229233217id_/http%3A//healthsprint.com/General/privacysecurity.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
+	Security And Privacy
+</title><link rel="stylesheet" href="../Style.css" type="text/css"><script type="text/javascript">
+
+var rootPath = "/";
+var localPath = "/General/";
+
+//Contents for menu 1
+var menu1=new Array()
+menu1[0]='<a href="hConnect/LoginPPN.aspx" >Hospital</a>'
+menu1[1]='<a href="hConnect/LoginPPN.aspx"  >TPA</a>'
+menu1[2]='<a href="hConnect/LoginPPN.aspx">Insurance</a>'
+menu1[3]='<a href="hConnect/LoginPPN.aspx">Corporate</a>'
+menu1[4]='<a href="hConnect/LoginPPN.aspx">Diagnostic Center</a>'
+menu1[5]='<a href="hConnect/hConnectLogin.aspx">People: hConnect</a>'
+
+//contents for menu2
+var menu2=new Array()
+menu2[0]='<a href="' + localPath + 'CompanyBackground.aspx">Company Background</a>'
+menu2[1]='<a href="' + localPath + 'Vision.aspx" >Vision And Mission</a>'
+menu2[2]='<a href="' + localPath + 'Management.aspx" >Management Profile</a>'
+menu2[4]='<a href="' + localPath + 'FinancialInformation.aspx" >Financial Information</a>'
+menu2[5]='<a href="' + localPath + 'Investors.aspx" >Investors</a>'
+menu2[6]='<a href="' + localPath + 'ValueProposition.aspx" >Value Proposition</a>'
+
+//contents for menu3
+var menu3=new Array()
+menu3[0]='<a href="' + localPath + 'SolutionsPPNetwork.aspx">Health Care Payer Provider Network</a>'
+menu3[1]='<a href="' + localPath + 'Collabration.aspx" >Collaboration Platform</a>'
+menu3[2]='<a href="' + localPath + 'InPatientClaimsExchangeNetwork.aspx" >In-Patient Insurance Claims Information Exchange Network</a>'
+menu3[3]='<a href="' + localPath + 'SolutioniHIS.aspx" >iHIS: Internet Based HIS</a>'
+menu3[4]='<a href="' + localPath + 'SolutioniLIS.aspx" >iLIS: Internet Based Lab Info System</a>'
+menu3[5]='<a href="' + localPath + 'SolutionWebEMR.aspx" >Web EMR</a>'
+menu3[6]='<a href="' + localPath + 'SolutionOutPatient.aspx" >Out-Patient Claims Information Management</a>'
+menu3[7]='<a href="' + localPath + 'SolutionPrePolicy.aspx" >Pre-Policy Medical Data Exchange Platform</a>'
+
+//contents for menu4
+var menu4=new Array()
+menu4[0]='<a href="' + localPath + 'CustomerHospital.aspx" >Hospital</a>'
+menu4[1]='<a href="' + localPath + 'CustomerTPA.aspx" >TPA</a>'
+menu4[2]='<a href="' + localPath + 'CustomerInsurance.aspx" >Insurance Company</a>'
+menu4[3]='<a href="' + localPath + 'CustomerCorporate.aspx" >Corporate</a>'
+menu4[4]='<a href="' + localPath + 'CustomerDiagnosticCentre.aspx" >Diagnostic Centre</a>'
+menu4[5]='<a href="' + localPath + 'CustomerClinic.aspx" >Clinic</a>'
+menu4[6]='<a href="' + localPath + 'CustomerPharmacy.aspx" >Pharmacy</a>'
+menu4[7]='<a href="' + localPath + 'CustomerPharmaCompany.aspx" >Pharma Company</a>'
+menu4[8]='<a href="' + localPath + 'CustomerRadiologist.aspx">Radiologist</a>'
+menu4[9]='<a href="' + localPath + 'CustomerPeople.aspx">People</a>'
+
+//contents for menu5
+
+var menu5=new Array()
+menu5[0]='<a href="' + localPath + 'CareerTechnical.aspx" >Technical</a>'
+menu5[1]='<a href="' + localPath + 'CareerHealthCare.aspx" >Healthcare</a>'
+menu5[2]='<a href="' + localPath + 'CareerSalesAndBusiness.aspx" >Sales and Business</a>'
+menu5[3]='<a href="' + localPath + 'CareerFinance.aspx" >Finance</a>'
+menu5[4]='<a href="' + localPath + 'CareerAdministration.aspx" >Administration</a>'
+
+//contents for menu6
+var menu6=new Array()
+menu6[0]='<a href="' + localPath + 'contactus.aspx">Contact Us</a>'
+
+//contents for menu7
+var menu7=new Array()
+menu7[0]='<a href="' + localPath + 'BusinessPartner.aspx" >Business Development Partner</a>'
+menu7[1]='<a href="' + localPath + 'OperationsPartner.aspx" >Operations Partner</a>'
+menu7[2]='<a href="' + localPath + 'HealthCarePartner.aspx" >Healthcare Admin</a>'
+menu7[3]='<a href="' + localPath + 'RecruitmentPartners.aspx" >Recruitment Partners</a>'
+menu7[4]='<a href="' + localPath + 'PaymentBanksPartner.aspx" >Payment Gateway Banks</a>'
+
+
+
+var menuwidth='1px' //default menu width
+var menubgcolor='rgb(231,220,237)'  //menu bgcolor
+var disappeardelay=150  //menu disappear speed onMouseout (in miliseconds)
+var hidemenu_onclick="yes" //hide menu when user clicks within menu?
+
+//No further editting needed
+
+var ie4=document.all
+var ns6=document.getElementById&&!document.all
+
+if (ie4||ns6)
+document.write('<div id="dropmenudiv" style="visibility:hidden;width:'+menuwidth+';background-color:'+menubgcolor+'" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
+
+function getposOffset(what, offsettype){
+var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+var parentEl=what.offsetParent;
+while (parentEl!=null){
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+parentEl=parentEl.offsetParent;
+}
+return totaloffset;
+}
+
+function ReDirectToHome()
+{
+    var path = rootPath;
+    window.location=path;   
+}
+
+function ReDirectToSearch()
+{
+    var path = localPath + 'Search_HS.aspx';
+    window.location=path;   
+}
+
+function RedirectInPatient()
+{
+  
+    var path = localPath + 'InPatientClaimsExchangeNetwork.aspx';
+    window.location=path;
+    
+    }
+
+function RedirectPrePolicy()
+{
+    var path = localPath + 'SolutionPrePolicy.aspx';
+    window.location=path;
+   }
+
+function RedirectOutPatient()
+{
+    var path = localPath + 'SolutionOutPatient.aspx';
+    window.location=path;
+   }
+
+
+function showhide(obj, e, visible, hidden, menuwidth){
+if (ie4||ns6)
+dropmenuobj.style.left=dropmenuobj.style.top="-500px"
+if (menuwidth!=""){
+dropmenuobj.widthobj=dropmenuobj.style
+dropmenuobj.widthobj.width=menuwidth
+}
+if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
+obj.visibility=visible
+
+
+else if (e.type=="click")
+obj.visibility=hidden
+}
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function clearbrowseredge(obj, whichedge){
+var edgeoffset=0
+if (whichedge=="rightedge"){
+var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
+dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
+if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
+edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
+}
+else{
+var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
+var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
+dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
+if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move up?
+edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
+if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either?
+edgeoffset=dropmenuobj.y+obj.offsetHeight-topedge
+}
+}
+return edgeoffset
+}
+
+function populatemenu(what){
+if (ie4||ns6)
+dropmenuobj.innerHTML=what.join("")
+}
+
+
+function dropdownmenu(obj, e, menucontents, menuwidth){
+if (window.event) event.cancelBubble=true
+else if (e.stopPropagation) e.stopPropagation()
+clearhidemenu()
+dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
+populatemenu(menucontents)
+
+if (ie4||ns6){
+showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
+dropmenuobj.x=getposOffset(obj, "left")
+dropmenuobj.y=getposOffset(obj, "top")
+dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
+dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
+}
+
+return clickreturnvalue()
+}
+
+function clickreturnvalue(){
+if (ie4||ns6) return false
+else return true
+}
+
+function contains_ns6(a, b) {
+while (b.parentNode)
+if ((b = b.parentNode) == a)
+return true;
+return false;
+}
+
+function dynamichide(e){
+if (ie4&&!dropmenuobj.contains(e.toElement))
+delayhidemenu()
+else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
+delayhidemenu()
+}
+
+function hidemenu(e){
+if (typeof dropmenuobj!="undefined"){
+if (ie4||ns6)
+dropmenuobj.style.visibility="hidden"
+}
+}
+
+function delayhidemenu(){
+if (ie4||ns6)
+delayhide=setTimeout("hidemenu()",disappeardelay)
+}
+
+function clearhidemenu(){
+if (typeof delayhide!="undefined")
+clearTimeout(delayhide)
+}
+
+if (hidemenu_onclick=="yes")
+document.onclick=hidemenu
+		</script></head><body ondragstart="return false" onselectstart="return false" oncontextmenu="return false"><div id="dropmenudiv" style="visibility:hidden;width:1px;background-color:rgb(231,220,237)" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+
+ <table cellpadding="1" cellspacing="0" width="830" align="center">
+ <tbody><tr>
+ <td>
+ <table cellpadding="0" cellspacing="0" id="Table1" style="width: 93%">
+ <tbody><tr>
+ <td>
+ <img alt="" src="/images/logo.png" height="92" width="87"></td>
+ <td>
+ <img alt="" src="/images/strip1.gif" style="width: 758px;" height="92"></td>
+ </tr>
+ <tr>
+ <td colspan="4">
+ <table cellpadding="0" cellspacing="0" class="inactive" width="100%" id="Table2">
+ <tbody><tr>
+ <td>
+ <img alt="" src="/images/mainnavleft.png"></td>
+ <td class="inactive" align="center" width="13%" onmouseover="this.style.cursor='hand';this.className='active'" onmouseout="this.className='inactive'" onclick="ReDirectToHome();"> 
+ Home
+ </td>
+ <td>
+ <img alt="" src="/images/mainnavline.gif"></td>
+ <td class="inactive" align="center" width="13%" onmouseover="this.style.cursor='hand';this.className='active';dropdownmenu(this, event, menu2, '214px');" onmouseout="this.className='inactive';delayhidemenu()">
+ About Us</td>
+ <td width="2">
+ <img alt="" src="/images/mainnavline.gif"></td>
+ <td align="center" width="13%" onmouseover="this.style.cursor='hand';this.className='active';dropdownmenu(this, event, menu3, '214px')" onmouseout="this.className='inactive';delayhidemenu()">
+ Solution/Services</td>
+ <td width="2">
+ <img alt="" src="/images/mainnavline.gif"></td>
+ <td class="inactive" align="center" width="13%" onmouseover="this.style.cursor='hand';this.className='active';dropdownmenu(this, event, menu4, '214px')" onmouseout="this.className='inactive';delayhidemenu()">
+ Customer/Market</td>
+ <td width="2">
+ <img alt="" src="/images/mainnavline.gif"></td>
+ <td class="inactive" align="center" width="13%" onmouseover="this.style.cursor='hand';this.className='active';dropdownmenu(this, event, menu7, '202px')" onmouseout="this.className='inactive';delayhidemenu()">
+ Partners</td>
+ <td width="2">
+ <img alt="" src="/images/mainnavline.gif"></td>
+ <td class="inactive" align="center" width="13%" onmouseover="this.style.cursor='hand';this.className='active';dropdownmenu(this, event, menu5, '214px')" onmouseout="this.className='inactive';delayhidemenu()">
+ Careers</td>
+ <td width="2">
+ <img alt="" src="/images/mainnavline.gif"></td>
+ <td class="inactive" align="center" width="13%" onmouseover="this.style.cursor='hand';this.className='active';dropdownmenu(this, event, menu6, '209px')" onmouseout="this.className='inactive';delayhidemenu()">
+ Contact Us</td>
+ <td width="2">
+ <img alt="" src="/images/mainnavline.gif"></td>
+ <td class="inactive" align="center" width="13%" onmouseover="this.style.cursor='hand';this.className='active'" onmouseout="this.className='inactive'" onclick="ReDirectToSearch();">
+ Search</td>
+ <td>
+ <img alt="" src="/images/mainnavright.png"></td>
+ </tr>
+ </tbody></table>
+ </td>
+ </tr>
+ <tr>
+ <td colspan="4" class="content" valign="top" style="height: 393px">
+ <table cellpadding="2" cellspacing="2" width="100%">
+ <tbody><tr>
+ <td align="center" valign="top" class="content" colspan="2" style="height: 348px">
+ <img alt="" src="/images/innerban.jpg" style="width: 830px; height: 67px">
+ 
+ <center style="vertical-align: top;">
+ <table id="Table4" style="background-color: White; width: 835px">
+ <tbody><tr>
+ <td align="center" valign="top" bgcolor="ghostwhite" class="content">
+ <center>
+ 
+
+ <table width="100%" class="content" id="Table3" cellspacing="0" cellpadding="0" border="0">
+ <tbody><tr>
+ <td>
+ <p class="content">
+ <b><span style=" color: blue; ">HealthSprint Networks Privacy Principles
+ </span></b>
+ </p>
+ <p class="content">
+ <span>Our business has been built on trust between our customers and ourselves. To preserve
+ the confidentiality of all information you provide to us, we maintain the following
+ privacy principles:
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>1. We only collect personal information that we believe to be relevant and required
+ to understand your healthcare needs and to conduct our business.
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>2. We use your personal information to provide you with better customer services
+ and products.
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>3. We may pass your personal information to other HealthSprint Networks Pvt. Ltd.
+ Group companies or agents, as permitted by law.
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>4. We will not disclose your personal information to any external organisation
+ unless we have your consent or are required by law or have previously informed you.
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>5. We may be required from time to time to disclose your personal information
+ to Governmental or judicial bodies or agencies or our regulators, but we will only
+ do so under proper authority.
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>6. We aim to keep your personal information on our records accurate and up-to-date.
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>7. We maintain strict security systems designed to prevent unauthorised access
+ to your personal information by anyone, including our staff.
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>8. All HealthSprint Networks Pvt. Ltd. Group companies, all our staff and all
+ third parties with permitted access to your information are specifically required
+ to observe our confidentiality obligations.
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>By maintaining our commitment to these principles, we at HealthSprint Networks
+ Pvt. Ltd. will ensure that we respect the inherent trust that you place in us. </span>
+ <span style=" ">&nbsp;
+ 
+ </span>
+ </p>
+ <p class="content">
+ <b><span style=" color: blue; ">Your privacy matters
+ to us
+ 
+ </span></b>
+ </p>
+ <p class="content">
+ <span>This section provides specific details of how we treat any personal information
+ you might wish to provide us when you visit this site.
+ 
+ </span>
+ </p>
+ <p class="content">
+ <b><span>Data Security
+ 
+ </span></b>
+ </p>
+ <p class="content">
+ <span>Security is our top priority. HealthSprint Networks will strive at all times to
+ ensure that your personal data will be protected against unauthorised or accidental
+ access, processing or erasure. We maintain this commitment to data security by implementing
+ appropriate physical, electronic and managerial measures to safeguard and secure
+ your personal data.
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>The secure area of our website supports the use of Secure SocketLayer(SSL)protocol
+ and 128-encryption technology - an industry standard for encryption over the Internet
+ to protect data. When you provide sensitive information such as credit card details,
+ it will be automatically converted into codes before being securely dispatched over
+ the Internet.
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>Our web servers are protected behind "firewalls" and our systems are monitored
+ to prevent any unauthorised access. We will not send personal information to you
+ by ordinary email. As the security of ordinary email cannot be guaranteed, you should
+ only send email to us using the secure email facility on our website.All practical
+ steps will be taken to ensure that personal data will not be kept longer than necessary
+ and that the HealthSprint Networks
+ will comply with all statutory and regulatory requirements concerning the retention
+ of personally identifiable information.
+ 
+ </span>
+ </p>
+ <p class="content">
+ <b><span>Security Assurance
+ 
+ </span></b>
+ </p>
+ <p class="content">
+ <span>Both you and HealthSprint Networks Pvt. Ltd. play an important role in protecting
+ against online fraud. You should be careful that your HealthSprint Networks account details including your User
+ ID and/or Password are not compromised by ensuring that you do not knowingly or
+ accidentally share, provide or facilitate unauthorised use of it. Do not share your
+ User ID and/or password or allow access or use of it by others. We endeavor to put
+ in place high standards of security to protect your interests. If, in the unlikely
+ event, unauthorised transactions have been conducted through your account through
+ no fraud, fault or negligence on your part, we will see that you are covered for
+ your direct loss up to the full amount of the unauthorised transaction.
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>You should safeguard your unique User ID and Password by keeping it secret and
+ confidential. Never write them down or share these details with anyone. HealthSprint
+ Networks Pvt. Ltd. will never ask you for your Internet HealthSprint Networks ing
+ Password, in order to ensure that you are the only person who knows this information.
+ When choosing your unique User ID and Password for the first time, do not create
+ it using easily identifiable information such as your birthday, telephone number
+ or a recognisable part of your name. If you think your User ID and/or password has
+ been disclosed to a third party, is lost or stolen and unauthorised transactions
+ may have been conducted, you are responsible to inform us immediately.
+ 
+ </span>
+ </p>
+ <p class="content">
+ <b><span>Collection of Personal Information
+ 
+ </span></b>
+ </p>
+ <p class="content">
+ <span>Use of "cookies"Your visit to this site may be recorded for analysis on the number
+ of visitors to the site and general usage patterns. Some of this information will
+ be gathered through the use of "cookies". Cookies are small bits of information
+ that are automatically stored on a person's web browser in their computer that can
+ be retrieved by this site. Should you wish to disable these cookies you may do so
+ by changing the setting on your browser. However, you will be unable to enter certain
+ part(s) of our website, including healthsprint.com, HealthSprint Networks Pvt. Ltd..
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>Marketing Promotions Occasionally we may collect personal information from visitors
+ to this site and those individuals that participate in a contest or promotion (online
+ or over the telephone,or at one of our branches). Such information is only collected
+ from individuals who voluntarily provide us with their personal information. We
+ may use this information to advise them of products, services and other marketing
+ materials, which we think, may be of interest to them. We may also invite visitors
+ to this site to participate in market research and surveys and other similar activities.
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>If we do ask you to provide personal information, we will always specify the purpose
+ for which such personal information is collected and ensure that it is only used
+ for the purpose specified at the time of collection.
+ 
+ </span>
+ </p>
+ <p class="content">
+ <b><span>Our Information Collection Statement</span></b></p>
+ <p class="content">
+ <b><span></span></b><span>The Statement is intended
+ to notify you why personal data is collected, how it will be used and to whom data
+ access requests are to be addressed.<b>
+ 
+ </b></span>
+ </p>
+ <p class="content">
+ <span>a. Why we collect your data - we collect your personal information to carry out
+ and administer our services to you and in an effort to improve your customer experience.
+ Without such data the HealthSprint Networks
+ may be unable to open or continue accounts or establish or continue HealthSprint
+ Networks ing facilities or provide HealthSprint Networks ing services.
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>b. Data is also collected from customers in the ordinary course of business to
+ continue the HealthSprint Networks ing relationship, for example, when customers
+ write cheques or deposit money.
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>c. How your data may be used - Data relating to a customer may be used to:
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>i. Facilitate the daily operation of the services and facilities provided to customers;
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>ii. conduct relevant checks;
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>iii. assist other healthcare institutions to conduct relevant operations;
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>v. design healthcare services or related products for customers' use;
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>vi. market healthcare services or related products;
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>ix. meet the disclosure requirements of any law binding on the HealthSprint Networks or any of its branches;
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>x. enable an actual or proposed assignee of the HealthSprint Networks , or participant
+ or sub-participant of the HealthSprint Networks 's rights in respect of the customer
+ to evaluate the transaction intended to be the subject of the assignment, participation
+ or sub-participation; and
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>xi. to fulfill any other purposes relating thereto.
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>d. Disclosure of your personal information - Information held by the HealthSprint
+ Networks relating to a customer will
+ be kept confidential but the HealthSprint Networks may provide such information to the following parties for the purposes set
+ out in paragraph (c):
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>i. any agent, contractor or third party service provider who provides administrative,
+ telecommunications, computer, payment or securities clearing or other services to
+ the HealthSprint Networks in connection
+ with the operation of its business;
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>ii. any other person under a duty of confidentiality to the HealthSprint Networks including a group company of the HealthSprint
+ Networks which has undertaken to keep
+ such information confidential;
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>v. any person to whom the HealthSprint Networks is under an obligation to make disclosure under the requirements of any law binding
+ on the HealthSprint Networks or any
+ of its branches; and 
+ </span>
+ </p>
+ <p class="content">
+ <span>vi. any actual or proposed assignee of the HealthSprint Networks or participant or sub-participant or transferee of the HealthSprint Networks
+ 's rights in respect of the customer.
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>e. The HealthSprint Networks retains
+ the right to charge a reasonable fee for the processing of any data access request.
+ 
+ </span>
+ </p>
+ <p class="content">
+ <b><span><a href="contactus.aspx">Contact Us</a>
+ 
+ </span></b>
+ </p>
+ <p class="content">
+ <span>Requests for access to data or correction of data or for information regarding
+ policies and practices and kinds of data held should be addressed to:
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>Manager Public Affairs
+ 
+ </span>
+ </p>
+ <p class="content">
+ <span>Health Sprint Networks Pvt. Ltd.
+ 
+ </span>
+ </p>
+ 
+ <p class="content">
+ <b><i><span style=" color: red; "> </span>
+ </i></b>#829, 17th F Main, 6th Block, Koramangala,<br> Bangalore 560 095, India</p>
+ <p class="content">
+ <b><i><span style=" color: red; ">Important: </span>
+ </i></b><b><i><span>By accessing this web site and any of its pages you are agreeing
+ to the terms set out above. Thank you for choosing HealthSprint Networks Pvt. Ltd..</span></i></b>
+ 
+ </p>
+ </td>
+ </tr>
+ </tbody></table>
+ 
+
+ </center>
+ </td>
+ </tr>
+ </tbody></table>
+ </center>
+ </td>
+ </tr>
+ </tbody></table> 
+ </td>
+ </tr>
+ </tbody></table>
+ 
+ <img alt="" src="/images/footershade.png" height="12" style="width: 845px">
+ 
+ <center class="contentBack">
+ <a href="../../../home.aspx" class="default" id="A1">Home</a> | 
+ <a href="../../../iSprint_sitemap.aspx" class="default" id="A2">Sitemap</a>
+ | <a href="../../../General/contactus.aspx" class="default" id="A3">Contact
+ Us</a> | 
+ <a href="../../../General/privacysecurity.aspx" class="default" id="A4">Privacy and Security</a> | 
+ <a href="../../../General/WebSiteUsageTerms_New.aspx" class="default" id="A5">Website Usage Terms</a><br>
+ <span class="content"> © 2006 Health Sprint Networks Pvt. Ltd. All Rights Reserved. </span>
+ </center>
+ </td>
+ </tr>
+ </tbody></table>
+
+<script type="text/javascript">var infolink_pid = 33427;</script>
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+ 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-844218-2");
+pageTracker._setDomainName("healthsprint.com");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+
+</body></html>
