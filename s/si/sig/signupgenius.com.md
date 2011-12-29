@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signupgenius.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129213057id_/http%3A//signupgenius.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signupgenius.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229182843id_/http%3A//www.signupgenius.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,9 +8,9 @@ We started this company to help churches, temples, schools, soccer moms, coaches
 
 __SignUpGenius is owned by:__  
 Skylark Productions, Inc.  
-2105 Water Ridge Parkway, Suite 500  
-Charlotte, NC 28217  
-www.SkylarkEntertainment.com  
+8440 Rea Rd., Suite J  
+Charlotte, NC 28277  
+www.Skylark.net  
 704-329-9530  
 Co-Owners: Michael Vadini, Dan Rutledge
 
