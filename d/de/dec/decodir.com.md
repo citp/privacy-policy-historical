@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decodir.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611065027id_/http%3A//www.decodir.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decodir.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229014917id_/http%3A//www.decodir.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Modern Homes Interior Design and Decorating Ideas on Decodir
 
