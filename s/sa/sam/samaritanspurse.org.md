@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samaritanspurse.org privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630153431id_/http%3A//www.samaritanspurse.org/index.php/Who_We_Are/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samaritanspurse.org privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229081456id_/http%3A//www.samaritanspurse.org/index.php/Who_We_Are/Privacy_Policy) for the most accurate reproduction.*
 
 # None
 
