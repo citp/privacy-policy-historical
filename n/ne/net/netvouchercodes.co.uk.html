@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the netvouchercodes.co.uk privacy policy that was archived on 2011-04-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110425115843id_/http%3A//www.netvouchercodes.co.uk/privacy.aspx%23privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the netvouchercodes.co.uk privacy policy that was archived on 2011-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229072646id_/http%3A//www.netvouchercodes.co.uk/privacy.aspx%23privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head id="ctl00_Head1"><title>
 	Net Voucher Codes - Privacy Policy
-</title><link href="http://www.netvouchercodes.co.uk/css/screen.css?250311" rel="stylesheet" type="text/css"><link rel="image_src" href="http://images.netvouchercodes.co.uk/images/netvouchercodes-found.gif"><meta name="publisher" content="Net Voucher Codes"><meta content="2 days" name="revisit-after"><meta name="verify-v1" content="lwWrOvpZaiY3R4dP4LD3XX778k4+zOmmLq0LGoPl4e0="><meta name="y_key" content="95cdd8f62c3d8627"><meta name="Slurp" content="NOODP"><meta name="Slurp" content="NOYDIR">
+</title><link href="http://www.netvouchercodes.co.uk/css/screen3.css?231211250" rel="stylesheet" type="text/css"><link rel="image_src" href="http://images.netvouchercodes.co.uk/images/netvouchercodes-found.gif"><meta name="publisher" content="Net Voucher Codes"><meta content="2 days" name="revisit-after"><meta name="verify-v1" content="lwWrOvpZaiY3R4dP4LD3XX778k4+zOmmLq0LGoPl4e0="><meta name="y_key" content="95cdd8f62c3d8627"><meta name="Slurp" content="NOODP"><meta name="Slurp" content="NOYDIR">
         
-<script src="http://www.netvouchercodes.co.uk/Scripts/CommonNew.js?020311" type="text/javascript"></script>
-    <script type="text/javascript">
-        function OpenRetailerLinkNewv2() {
+
+    <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        function orl() {
             retailername = document.getElementById('ctl00_retailer').value;
             var myNewString = 'http://www.netvouchercodes.co.uk/voucher-information/' + retailername;
             var newretailer = retailername.replace("-", " ");
@@ -15,33 +15,37 @@
             pageTracker._trackPageview(myNewString);
 
         }
-        function OpenRetailerLinkNewSearch(retailername) {
-            //Used to go to show all vouchers from the search page when clicking on logo
-            var myNewString = 'http://www.netvouchercodes.co.uk/voucher-information/' + retailername;
-            var newretailer = retailername.replace("-", " ");
-            new_win = window.open(myNewString, '_blank', 'toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,resizable=1,width=600,height=800,left=0,top=0');
+       
+        function svd(url) {
+            //Used from HP when click on code/offer
+            var new_win = window.open(url, '_blank', 'toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,resizable=1,width=600,height=800,left=0,top=0');
             new_win.blur();
-            pageTracker._trackPageview(myNewString);
+            window.focus();
+            if ($('#ctl00_iever').val() == "9") {
+                alert("We have now revealed all the codes and discounts on this page for you!\nJoin our FREE weekly Newsletter to receive our latest codes & deals!");
+            }
         }
-        function showVoucherDeepLink(url) {
+        function sodl(url) {
             //Used from HP when click on code/offer
             new_win = window.open(url, '_blank', 'toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,resizable=1,width=600,height=800,left=0,top=0');
-            new_win.blur();
-            pageTracker._trackPageview('/showdeeplinkretailernew.html');
-        }
-        function showOfferDeepLink(url) {
-            //Used from HP when click on code/offer
-            new_win = window.open(url, '_blank', 'toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,resizable=1,width=600,height=800,left=0,top=0');
-            pageTracker._trackPageview('/showdeeplinkretailernew.html');
+            pageTracker._trackPageview('/out.html');
         }
 
-        function showVoucher(id, url) {
+        function sv(id, url) {
             //Used From Retailer/Tags page etc when clicking on Single Voucher
-            document.getElementById('Voucherhide' + id).style.display = 'none';
-            document.getElementById('Vouchershow' + id).style.display = 'block';
-            new_win = window.open(url, '_blank', 'toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,resizable=1,width=600,height=800,left=0,top=0');
+
+            //if ($('#ctl00_iever').val() != "9") {
+            var new_win = window.open(url, '_blank', 'toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,resizable=1,width=600,height=800,left=0,top=0');
             new_win.blur();
-            pageTracker._trackPageview('/showdeeplinkretailernew.html');
+            window.focus();
+            //}
+
+            document.getElementById('VH' + id).style.display = 'none';
+            document.getElementById('VS' + id).style.display = 'block';
+
+            if ($('#ctl00_iever').val() == "9") {
+                alert("We have now revealed the code on the page for you!\nJoin our FREE weekly Newsletter to receive our latest codes & deals!");
+            }
         }
 
     </script>
@@ -50,6 +54,17 @@
     <script type="text/javascript" src="http://www.netvouchercodes.co.uk/scripts/jquery-1.4.4.min.js?020311"></script> 
     <script type="text/javascript" src="http://www.netvouchercodes.co.uk/scripts/jquery.functions.js?210411"></script>
     
+    <!-- Open Graph Tags -->  
+    <meta property="fb:app_id" content="292753804081478"><meta property="og:type" content="article"><meta id="ctl00_ogImage" property="og:image" content="http://images.netvouchercodes.co.uk/images/default_signup.png"><meta id="ctl00_ogDesc" property="og:description">
+        
+    <!-- Engagement styles -->
+    <link href="http://www.netvouchercodes.co.uk/social/content/themes/base/jquery.ui.all.css" rel="stylesheet" type="text/css"><link href="http://www.netvouchercodes.co.uk/social/content/nvc.engagement.css?1312111" rel="stylesheet" type="text/css">
+
+    <!-- Engagement Scripts -->
+    <script src="http://www.netvouchercodes.co.uk/social/scripts/jquery-ui-1.8.11.min.js" type="text/javascript"></script>
+    <script src="http://www.netvouchercodes.co.uk/social/scripts/modernizr-1.7.min.js" type="text/javascript"></script>
+    <script src="http://www.netvouchercodes.co.uk/social/scripts/nvc.engagement.js?1312111" type="text/javascript"></script>
+    <script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=2_0GQ5SwYD1fw752sSopamsCy5aSnWiBce2F1-SlmTBQTmK1DXXUoXYg6hQN9fidZ5"></script>
 
   <link rel="shortcut icon" href="http://www.netvouchercodes.co.uk/favicon.ico" type="image/x-icon"><link rel="icon" href="http://www.netvouchercodes.co.uk/favicon.ico" type="image/x-icon">
 
@@ -61,212 +76,124 @@
 <![endif]-->
 </head>
 <body>
-<form name="aspnetForm" method="post" action="http://www.netvouchercodes.co.uk/Privacy.aspx" id="aspnetForm">
+<form name="aspnetForm" method="post" action="http://www.netvouchercodes.co.uk/privacy.aspx" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkZJscVuDF52cQcueyH5moZ4S3QmxJi1HlpEgv3G4L0fzs">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRFjdGwwMCRlbWFpbGJ1dHRvbmE5Z0/e6ylSFdQ3pqBj3Gd66l+RGw3HwSA16ouLVsC3">
 </div>
 
 
-<script src="/ScriptResource.axd?d=nvxZPVG7TvvgpYrXXnSwknbe59i_RiOnD08HQhkBbYkLrjXI7xFUIYC3UdFBFqcOjjcoEmOruh72it98-W2SMvjqJlpqI2fV3nwqljoDfHPN-PYo_RQkbdGky_l2D8JrqTeRZvTy1-rhV8aS8o7rOkf5WoKDCRsuxUaucD4x1N01&amp;t=2610f696" type="text/javascript"></script>
-   
  <input type="hidden" name="ctl00$retailer" id="ctl00_retailer">
   <input type="hidden" name="ctl00$sessionid" id="ctl00_sessionid">
-
-    <div id="container">
-        <!-- header -->
-        <div id="top">
-        <a href="http://www.netvouchercodes.co.uk" title="Voucher Codes, Discount Codes &amp; Promotional Codes">
-                <img src="http://images.netvouchercodes.co.uk/images/logo.png" width="288" height="75" alt="Voucher Codes, Discount Codes &amp; Promotional Codes" class="float-left mt18"></a>
-            <div class="allright mt10">
-            <div class="topintro">
-    		<h1>Net Voucher Codes - Privacy Policy</h1>
-  	    	</div>
-
-  <div id="ctl00_NotSignedIn" class="dottedtop">
-	
-  <ul>
-    <li><a href="http://www.netvouchercodes.co.uk/Register.aspx">Free Sign Up</a></li>
-    <li>|</li>
-    <li><a href="http://www.netvouchercodes.co.uk/signin.aspx">Log in</a></li>
-    <li>|</li>
-    <li style="margin-right:0px;"><a href="http://www.netvouchercodes.co.uk/FAQs.aspx">FAQs</a></li>
-  </ul>
-  
-</div>
-  
-            </div>
-           
-            <div class="clear">
-            </div>
-        </div>
-        <div class="greynavleft"></div>
-	<div id="nav">
-		<ul id="topnav"> 
-        	<li><a href="/" class="navon"><img src="http://images.netvouchercodes.co.uk/images/nav_home.gif" alt="home" width="25" height="24" style="margin:4px 6px -6px -6px;">Home</a></li> 
-            <li><a href="http://www.netvouchercodes.co.uk/popular-voucher-codes">Popular Vouchers</a></li> 
-            <li><a href="http://www.netvouchercodes.co.uk/new-voucher-codes">New Vouchers</a></li> 
-            <li><a href="http://www.netvouchercodes.co.uk/expiring-voucher-codes">Expiring Vouchers</a></li> 
-            <li><a href="http://www.netvouchercodes.co.uk/voucher-codes-by-retailer">A to Z</a></li>
-            <li><a href="http://www.netvouchercodes.co.uk/latest-sales-voucher-codes">Sales</a></li>
-            <li><a href="http://www.netvouchercodes.co.uk/Local.aspx">Local</a></li>
-            <li style="margin-right:-10px;"><a href="#">Vouchers by Category</a>
+    
+    <div id="top">
+        	<a href="http://www.netvouchercodes.co.uk"><img src="http://images.netvouchercodes.co.uk/images/new_xmas_logo.png" width="297" height="102" alt="NetVoucherCodes.co.uk" class="nvclogo"></a>
+        	<a href="http://www.netvouchercodes.co.uk"><img src="http://images.netvouchercodes.co.uk/images/home.png" alt="homeicn" width="30" height="29" class="homeicn"></a>
+            
+            <ul class="float-left">
+				<li><a href="/">Home</a></li>
+				<li><a href="/hiddengems.aspx">Gems</a></li>
+				<li><a href="/hot-stuff">Hot Stuff</a></li>
+				<li><a href="/editorspicks.aspx?cid=771">Editors Picks</a></li>
+				<li><a href="/help-support">Help</a></li>
+				<li><a href="/local">Local</a></li>
+				<li style="margin-right:0px;"><a href="/daily-deals">City Deals</a></li>
+			</ul>
 			
-				<div class="sub">
-					<ul>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/adult-discount-codes">Adult</a></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/books-and-magazines-discount-codes">Books &amp; Magazines</a><br>
-							<span class="smallcatnav"><a href="http://www.netvouchercodes.co.uk/tagscat/Magazine_Subscriptions/Voucher_Codes_Deals/233" class="smallcatnav">Magazine subscriptions</a></span></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/broadband-discount-codes">Broadband</a></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/business-and-office-supplies-discount-codes">Business &amp; Office Supplies</a></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/catalogue-discount-codes">Catalogues</a></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/clothing-discount-codes">Clothing &amp; Fashion</a><br>
-                        <span class="smallcatnav"><a href="http://www.netvouchercodes.co.uk/tagscat/Children+s_Clothing/Voucher_Codes_Deals/98" class="smallcatnav">Kids,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Maternity/Voucher_Codes_Deals/205" class="smallcatnav">Maternity,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Men+s_Clothing/Voucher_Codes_Deals/137" class="smallcatnav">Mens,</a><br>
-						<a href="http://www.netvouchercodes.co.uk/tagscat/Women+s_Clothing/Voucher_Codes_Deals/141" class="smallcatnav">Womens,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Luxury/Voucher_Codes_Deals/800" class="smallcatnav">Luxury</a></span></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/computers-and-laptops-discount-codes">Computers</a><br>
-						<span class="smallcatnav"><a href="http://www.netvouchercodes.co.uk/tagscat/Computers/Voucher_Codes_Deals/83" class="smallcatnav">Computers</a>, 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Laptops/Voucher_Codes_Deals/84" class="smallcatnav">Laptops</a>, 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Memory/Voucher_Codes_Deals/33" class="smallcatnav">Memory</a></span></li>		
-						<li><a href="http://www.netvouchercodes.co.uk/codes/dieting-discount-codes">Dieting</a></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/diy-discount-codes">DIY</a></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/dvds-and-bluray-discount-codes">DVDs &amp; Bluray</a></li>
-
-					</ul>
-
-					<ul>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/electrical-discount-codes">Electrical Goods &amp; TVs</a><br>
-						<span class="smallcatnav"><a href="http://www.netvouchercodes.co.uk/tagscat/Audio_Equipment/Voucher_Codes_Deals/5" class="smallcatnav">Audio,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Home_Entertainment/Voucher_Codes_Deals/6" class="smallcatnav">Home Entertainment,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Photography/Voucher_Codes_Deals/7" class="smallcatnav">Photography,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Televisions/Voucher_Codes_Deals/9" class="smallcatnav">TV</a></span></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/ethical-discount-codes">Ethical</a></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/finance-and-loans-discount-codes">Finance &amp; Insurance</a><br>
-						<span class="smallcatnav"><a href="http://www.netvouchercodes.co.uk/tagscat/Vehicle_Insurance/Voucher_Codes_Deals/304" class="smallcatnav">Car Insurance,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Credit_Cards/Voucher_Codes_Deals/298" class="smallcatnav">Credit Card,</a> 
-                        <br><a href="http://www.netvouchercodes.co.uk/tagscat/Home_Insurance/Voucher_Codes_Deals/300" class="smallcatnav">Home Insurance,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Travel_Insurance/Voucher_Codes_Deals/303" class="smallcatnav">Travel Insurance</a></span></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/flowers-and-gifts-discount-codes">Flowers &amp; Gifts</a><br>
-						<span class="smallcatnav"><a href="http://www.netvouchercodes.co.uk/tagscat/Flowers/Voucher_Codes_Deals/393" class="smallcatnav">Flowers,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Gadgets/Voucher_Codes_Deals/177" class="smallcatnav">Gadgets,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Gifts/Voucher_Codes_Deals/181" class="smallcatnav">Gifts,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Toys/Voucher_Codes_Deals/187" class="smallcatnav">Toys</a></span></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/food-pizza-discount-codes">Food &amp; Pizza</a></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/furniture-discount-codes">Furniture</a></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/health-and-beauty-discount-codes">Health &amp; Beauty</a><br>
-						<span class="smallcatnav"><a href="http://www.netvouchercodes.co.uk/tagscat/Cosmetics_and_Skincare/Voucher_Codes_Deals/110" class="smallcatnav">Cosmetics &amp; Skincare,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Fragrance/Voucher_Codes_Deals/113" class="smallcatnav">Fragrence,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Health/Voucher_Codes_Deals/121" class="smallcatnav">Health &amp; Diet,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Skincare/Voucher_Codes_Deals/114" class="smallcatnav">Skincare</a></span></li>
-					</ul>
-										
-					<ul>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/home-and-garden-discount-codes">Home &amp; Garden</a><br>
-						<span class="smallcatnav"><a href="http://www.netvouchercodes.co.uk/tagscat/Home_Accessories/Voucher_Codes_Deals/427" class="smallcatnav">Accessories,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Bathrooms_and_Accessories/Voucher_Codes_Deals/422" class="smallcatnav">Bathroom,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Furniture/Voucher_Codes_Deals/424" class="smallcatnav">Furniture,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Garden/Voucher_Codes_Deals/425" class="smallcatnav">Garden,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Kitchen/Voucher_Codes_Deals/430" class="smallcatnav">Kitchen</a></span></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/home-appliances-discount-codes">Home Appliances</a><br>
-						<span class="smallcatnav"><a href="http://www.netvouchercodes.co.uk/tagscat/Cooking/Voucher_Codes_Deals/362" class="smallcatnav">Cooking,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Laundry_and_Cleaning/Voucher_Codes_Deals/363" class="smallcatnav">Laundry &amp; Cleaning,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Refrigeration/Voucher_Codes_Deals/364" class="smallcatnav">Fridges &amp; Freezers,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Small_Appliances/Voucher_Codes_Deals/365" class="smallcatnav">Small Appliances</a></span></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/jewellery-discount-codes">Jewellery</a><br>
-						<span class="smallcatnav"><a href="http://www.netvouchercodes.co.uk/tagscat/Men+s_Watches/Voucher_Codes_Deals/544" class="smallcatnav">Mens Watches,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Women+s_Jewellery/Voucher_Codes_Deals/546" class="smallcatnav">Womens Jewellery</a></span></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/mobile-phones-discount-codes">Mobile Phones</a><br>
-						<span class="smallcatnav"><a href="http://www.netvouchercodes.co.uk/tagscat/Pay_Monthly/Voucher_Codes_Deals/351" class="smallcatnav">Pay Monthly,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Prepay_Mobile_Phones/Voucher_Codes_Deals/352" class="smallcatnav">PrePay Mobile Phones</a></span></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/motoring-discount-codes">Motoring</a></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/mother-and-baby-discount-codes">Mother &amp; Baby</a></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/music-discount-codes">Music</a></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/pet-discount-codes">Pets</a></li>
-					</ul>
-
-					<ul>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/sports-discount-codes">Sports</a><br>
-						<span class="smallcatnav"><a href="http://www.netvouchercodes.co.uk/tagscat/Fitness/Voucher_Codes_Deals/247" class="smallcatnav">Fitness,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Football/Voucher_Codes_Deals/271" class="smallcatnav">Football,</a> <br>
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Sportswear_and_Swimwear/Voucher_Codes_Deals/251" class="smallcatnav">
-						Sportswear &amp; Swimwear</a></span></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/students-discount-codes">Students</a></li>
-						<li><a href="http://www.netvouchercodes.co.uk/tagscat/Tickets/Voucher_Codes_Deals/586">Tickets</a><br>
-						<span class="smallcatnav"><a href="http://www.netvouchercodes.co.uk/tagscat/Concerts/Voucher_Codes_Deals/590" class="smallcatnav">Concerts,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Theatre/Voucher_Codes_Deals/588" class="smallcatnav">Theatre,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Theme_Parks/Voucher_Codes_Deals/591" class="smallcatnav">Theme Parks</a></span></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/toys-discount-codes">Toys</a></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/travel-discount-codes">Travel</a><br>
-						<span class="smallcatnav"><a href="http://www.netvouchercodes.co.uk/tagscat/Accommodation/Voucher_Codes_Deals/629" class="smallcatnav">Hotels,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Car_Hire/Voucher_Codes_Deals/330" class="smallcatnav">Car Hire,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Flights/Voucher_Codes_Deals/336" class="smallcatnav">Flights,</a> 
-                        <a href="http://www.netvouchercodes.co.uk/tagscat/Holidays/Voucher_Codes_Deals/338" class="smallcatnav">Holidays</a></span></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/energy-discount-codes">Utility Bills - Switch Gas / Electric Deals</a></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/games-consoles-discount-codes">Video Gaming</a></li>
-						<li><a href="http://www.netvouchercodes.co.uk/codes/wedding-discount-codes">Weddings</a></li>
-					</ul>
-					
-				</div>
-			</li> 
-        </ul> 
+			<div id="ctl00_signin">
 	
-	</div>
-      <div id="toolbar">
-		<ul>
-			<li style="width:101px;"><a href="http://www.netvouchercodes.co.uk/editorspicks.aspx?cid=771" class="ml46">Editors Picks</a></li>
-			<li style="width:119px;"><a href="http://www.netvouchercodes.co.uk/printable-vouchers" class="ml46">Printable Vouchers</a></li>
-			<li style="width:135px;"><a href="http://www.netvouchercodes.co.uk/competitions.aspx?cid=774" class="ml46">Retailer Competitions</a></li>
-			<li style="width:114px;"><a href="http://www.netvouchercodes.co.uk/hot-stuff/" class="ml46">Hot Stuff Blog</a></li>
-			<li style="width:117px;"><a href="http://www.netvouchercodes.co.uk/free-delivery-codes" style="margin-left:49px">Free Delivery</a></li>
-			<li style="width:116px;"><a href="http://www.netvouchercodes.co.uk/daily-deals" class="ml46">Daily City Deals</a></li>
-			<li style="width:90px;"><a href="http://www.netvouchercodes.co.uk/hiddengems.aspx" class="ml46">Hidden Gems</a></li>
-			<li style="width:30px; margin:-2px 5px 0 20px;"><a href="http://www.netvouchercodes.co.uk/Social.aspx"><img src="http://images.netvouchercodes.co.uk/images/toolbaricon.gif" width="28" height="28" alt="Join us on Facebook"></a></li>
-			<li style="width:30px; margin:-2px 5px 0 0;"><a href="http://www.netvouchercodes.co.uk/Social.aspx"><img src="http://images.netvouchercodes.co.uk/images/toolbaricon.gif" width="28" height="28" alt="Follow us on Twitter"></a></li>
-			<li style="width:39px; margin:-2px 0 0 0;"><a class="data-reveal-modal" target="myModal" href="#"><img height="28" width="38" alt="Register for your free account" src="http://images.netvouchercodes.co.uk/images/toolbaricon.gif"></a></li>
-		</ul>
+			    <!-- Engagement Placeholder (Required) -->
+                <ul id="engagement" class="float-right" style="margin-right:-47px;"></ul>
+            
+</div>
+
+            <input name="ctl00$searchbox" type="text" id="ctl00_searchbox" class="search-box">
+            
+            <input type="submit" name="ctl00$searchbtn" value="" id="ctl00_searchbtn" title="Search netvouchercodes.co.uk for 1000's of Voucher Codes, Discounts and Exclusive Offers">
+            
+            <div id="ctl00_socialtab">
+				<ul>
+					<li><a href="https://plus.google.com/104892406957190904784/?prsrc=3" style="text-decoration: none;"><span class="icn igplusone">Visit our Social Page and +1 us</span></a></li>
+					<li><a href="http://www.twitter.com/netvouchercodes" class="rlink" title="Follow us on Twitter" target="_blank"><span class="icn itweet">Twitter</span></a></li>
+					<li><a href="http://www.facebook.com/netvouchercodes" class="rlink" title="Like us on Facebook" target="_blank"><span class="icn ilike">Like us on Facebook</span></a></li>
+					<li><a class="data-reveal-modal rlink" target="myModal" href="#" title="Join our free Newsletter"><span class="icn isign">Join our free newsletter</span></a></li>
+				</ul>
+			</div>
+
+            <div id="sectionstab">
+				<ul>
+					<li><a href="/voucher-codes-by-retailer" class="rlink"><span class="icn iatoz">A to Z</span></a></li>
+					<li><a href="/editorspicks.aspx?cid=771" class="rlink"><span class="icn ieditors">Editors Picks</span></a></li>
+					<li><a href="/hiddengems.aspx" class="rlink"><span class="icn igems">Hidden Gems</span></a></li>
+					<li><a href="/hot-stuff/" class="rlink"><span class="icn iblog">Blog</span></a></li>
+				</ul>
+			</div>
+			<div id="categoriestab">
+				<ul>
+					<li><a href="/restaurant-vouchers" class="rlink"><span class="icn ieat">Restaurant Vouchers</span></a></li>
+					<li><a href="/tagscat/Travel/Voucher_Codes_Deals/328" class="rlink"><span class="icn itravel">Travel &amp; Hotels Deals</span></a></li>
+					<li><a href="/tagscat/Clothing_and_Accessories/Voucher_Codes_Deals/97" class="rlink"><span class="icn ifashion">Fashion &amp; Clothing Discounts</span></a></li>
+					<li><a href="/days_out-theme-parks" class="rlink"><span class="icn idaysout">Days Out Offers</span></a></li>
+					<li><a href="/tagscat/Mobile_Phones/Voucher_Codes_Deals/348" class="rlink"><span class="icn imobiles">Mobile Phone Deals</span></a></li>
+					<li><a href="/tagscat/Furniture/Voucher_Codes_Deals/424" class="rlink"><span class="icn ifurniture">Furniture Discounts</span></a></li>
+				</ul>
+			</div>
+
+       </div>
+
+
+
+<div id="navigationtop">
+
+<div class="mnhometabs">
+			<ul>
+            <li><a id="ctl00_pop" href="/popular-voucher-codes">Popular Vouchers</a></li> 
+            <li><a id="ctl00_newvouchers" href="/new-voucher-codes">New Vouchers</a></li> 
+            <li><a id="ctl00_expiring" href="/expiring-voucher-codes">Expiring</a></li> 
+            <li><a id="ctl00_sales" class="season" href="/january-sales">January Sales</a></li> 
+            <li><a id="ctl00_printable" href="/printable-vouchers">Printable</a></li> 
+            <li><a id="ctl00_delivery" href="/free-delivery-codes">Free Delivery</a></li> 
+            <li><a id="ctl00_atoz" href="/voucher-codes-by-retailer">A to Z</a></li> 
+            <li><a id="ctl00_categories" href="/voucher-codes-by-category">Categories</a></li> 
+            <li class="seasonal"><a id="ctl00_HyperLink9" class="season" href="/tagscat/Travel/Voucher_Codes_Deals/328">Travel</a></li> 
+            </ul>
 	</div>
 
-        
 
-        <div id="search">
-		<div class="left280">
-			<p><span class="bluegrey">Search</span> netvouchercodes.co.uk for 1000's of <strong>Voucher Codes,</strong> <strong>Discounts</strong> and <strong>Exclusive Offers...</strong></p>
-		</div>
-		
-		<div class="right630">
-					<input name="ctl00$searchbox" type="text" id="ctl00_searchbox">
-					
-					<input type="submit" name="ctl00$searchbutton" value="" id="ctl00_searchbutton">
-		</div>
-		
-		<div class="clear"></div>
-		
-	</div>
-        <img src="http://images.netvouchercodes.co.uk/images/searchbottom.jpg" alt="search" width="981" height="26" class="searchbottom">
-
-       
+</div>
+   
+<div id="container">
 
     <!-- sign-up -->
 	
-	<div id="myModal" class="reveal-modal large">
-			<div class="revealjoinhead"><h3>Keep up to date with the LATEST VOUCHER CODES by signing up to our Newsletter</h3></div>
-			<div class="revealjoinbg">
-				<p>Get our <span class="red">FREE</span> netvouchercodes.co.uk newsletter delivered direct to your inbox every week. Featuring exclusive codes, top vouchers &amp; great deals...</p>
-				
-                <input name="ctl00$emailaddress" type="text" value="Just enter your email address here" id="ctl00_emailaddress" class="joininput" onclick="if(this.value=='Just enter your email address here')this.value=''">
-							<input type="submit" name="ctl00$emailbutton" value="Join" id="ctl00_emailbutton" class="awesome large joinblue">
-							<div class="clear"></div>
-                            <p style="font-size:10px; float:left">
-    <input type="submit" name="ctl00$newsletter1" value="I already receive the newsletter" id="ctl00_newsletter1" style="border-style:None;width:180px;">
-    <input type="submit" name="ctl00$newsletter2" value="Don't show this again" id="ctl00_newsletter2" style="border-style:None;width:130px;">
-    </p>
-							<span class="red smalldiscription"></span>
-
+	<div id="myModal" class="reveal-modal alert"> 
+			<div class="getvouchers">
+            Get <strong class="gvstrong">Exclusive</strong> Voucher Codes!
 			</div>
-			<div class="joinshad"></div>
-<p>By entering your email address you are agreeing to our terms and privacy policy. You have also agreed to receive our weekly newsletter. We strive to email you the best vouchers we can, however we cannot guarantee retailer specific voucher availability at any given time.</p>
-			<a class="close-reveal-modal">×</a>
+			<div class="gvlogo">
+            <img id="ctl00_emailLogo" src="http://images.netvouchercodes.co.uk/images/default_signup.png" style="width:114px;border-width:0px;">
+				<div class="paperclip"></div>
+			</div>
+			<div class="gvtext">
+				<h3>Keep up to date with the latest voucher codes by signing up to our FREE Weekly Newsletter</h3>
+			</div>
+			<div class="clear"></div>
+			
+	
+	
+			<div class="rela" style="margin-top:-15px;">			
+            <input name="ctl00$emailaddress" type="text" value="enter your email" id="ctl00_emailaddress" class="gvjoininput" onclick="if(this.value=='enter your email')this.value=''">
+			<input type="image" name="ctl00$emailbutton" id="ctl00_emailbutton" class="gvregister" src="http://images.netvouchercodes.co.uk/images/register_email.png" style="height:40px;width:112px;border-width:0px;">
+			<div class="share">
+				<div class="lock"></div>
+                ​<span>We don't share any information, view our <a href="/privacy.aspx" rel="nofollow" target="_blank">privacy policy</a>
+                </span>
+				<span class="float-right mtm10">
+                
+                <input type="submit" name="ctl00$newsletter2" value="Don't show this again" id="ctl00_newsletter2" style="color:White;background-color:#30A7C6;border-style:None;"></span>
+				<div class="clear"></div>
+                <span class="red smalldiscription"></span>
+			</div></div>		             
+			<a class="close-reveal-modal"><img src="http://images.netvouchercodes.co.uk/images/close_modal.png" width="36" height="35"></a> 
 	</div>
 
 
@@ -383,99 +310,93 @@
 	
 </div>
 
-<div id="footernav">
-	<div class="fourcol float-left">
-		<p>Voucher Codes</p>
-		<ul>
-			<li><a href="http://www.netvouchercodes.co.uk/popular-voucher-codes">Popular Vouchers</a></li>
-			<li><a href="http://www.netvouchercodes.co.uk/new-voucher-codes">New Voucher Codes &amp; Deals</a></li>
-			<li><a href="http://www.netvouchercodes.co.uk/expiring-voucher-codes">Expiring Vouchers</a></li>
-			<li><a href="http://www.netvouchercodes.co.uk/voucher-codes-by-retailer">All retailers A to Z</a></li>
-			<li><a href="http://www.netvouchercodes.co.uk/latest-sales-voucher-codes">Sales</a></li>
-			<li><a href="http://www.netvouchercodes.co.uk/free-delivery-codes">Free delivery</a></li>
-			<li><a href="http://www.netvouchercodes.co.uk/printable-vouchers">Printable Vouchers</a></li>
-			<li><a href="http://www.netvouchercodes.co.uk/daily-deals">Daily City Deals</a></li>
-            <li><a href="http://www.netvouchercodes.co.uk/HiddenGems.aspx">Hidden Gems</a></li>
-		</ul>
-	</div>
+<div id="footernav"> 
+	<div class="fourcol float-left"> 
+		<p>Voucher Codes</p> 
+		<ul> 
+			<li><a href="/popular-voucher-codes" rel="nofollow">Popular Vouchers</a></li> 
+			<li><a href="/new-voucher-codes" rel="nofollow">New Voucher Codes &amp; Deals</a></li> 
+			<li><a href="/expiring-voucher-codes" rel="nofollow">Expiring Vouchers</a></li> 
+			<li><a href="/voucher-codes-by-retailer" rel="nofollow">All retailers A to Z</a></li> 
+			<li><a href="/latest-sales-voucher-codes" rel="nofollow">Sales</a></li> 
+			<li><a href="/free-delivery-codes" rel="nofollow">Free delivery</a></li> 
+			<li><a href="/printable-vouchers" rel="nofollow">Printable Vouchers</a></li> 
+			<li><a href="/daily-deals" rel="nofollow">Daily City Deals</a></li> 
+            <li><a href="/HiddenGems.aspx" rel="nofollow">Hidden Gems</a></li> 
+		</ul> 
+	</div> 
 	
-	<div class="fourcol float-left">
-		<p>Help</p>
-		<ul>
-			<li><a href="http://www.netvouchercodes.co.uk/help">Help</a></li>
-			<li><a href="http://www.netvouchercodes.co.uk/FAQs.aspx">FAQs</a></li>
-			<li><a href="http://www.netvouchercodes.co.uk/FAQs.aspx">How to use Voucher Codes</a></li>
-            <li><a href="http://www.netvouchercodes.co.uk/ContactUs.aspx">Contact us</a></li>
-		</ul>
+	<div class="fourcol float-left"> 
+		<p>Help</p> 
+		<ul> 
+			<li><a href="/help">Retailer Help</a></li> 
+			<li><a href="/help-support">Help &amp; Support</a></li> 
+			<li><a href="/FAQs.aspx" rel="nofollow">How to use Voucher Codes</a></li> 
+            <li><a href="/ContactUs.aspx" rel="nofollow">Contact us</a></li> 
+		</ul> 
 		
-		<p>Features</p>
-		<ul>
-			<li><a href="http://www.netvouchercodes.co.uk/hot-stuff">Hot Stuff Blog</a></li>
+		<p>Features</p> 
+		<ul> 
+			<li><a href="/hot-stuff" rel="nofollow">Hot Stuff Blog</a></li> 
 			
-			<li><a href="http://www.netvouchercodes.co.uk/money-saving">Money Saving Tips</a></li>
-			<li><a href="http://www.netvouchercodes.co.uk/deals/blogs/">Offers Blog</a></li>
-		</ul>
+			<li><a href="/money-saving" rel="nofollow">Money Saving Tips</a></li> 
+			
+		</ul> 
 		
-	</div>
+	</div> 
 	
-	<div class="fourcol float-left">
-		<p>About</p>
-		<ul>
-			<li><a href="http://www.netvouchercodes.co.uk/AboutUs.aspx">About us</a></li>
-			<li><a href="http://www.netvouchercodes.co.uk/GreenPolicy.aspx">Environmental Policy</a></li>
-			<li><a href="http://www.netvouchercodes.co.uk/Advertise.aspx">Advertise</a></li>
-			<li><a href="http://www.netvouchercodes.co.uk/MerchantServices.aspx">Merchant services</a></li>
+	<div class="fourcol float-left"> 
+		<p>About</p> 
+		<ul> 
+			<li><a href="/AboutUs.aspx" rel="nofollow">About us</a></li> 
+			<li><a href="/GreenPolicy.aspx" rel="nofollow">Environmental Policy</a></li> 
+			<li><a href="/Advertise.aspx" rel="nofollow">Advertise</a></li> 
+			<li><a href="/MerchantServices.aspx" rel="nofollow">Merchant services</a></li> 
 			
-			<li><a href="http://www.netvouchercodes.co.uk/MediaNews.aspx">Media contact</a></li>
-			<li><a href="http://www.netvouchercodes.co.uk/security.aspx#security">Security Policy</a></li>
-			<li><a href="http://www.netvouchercodes.co.uk/privacy.aspx#privacy">Privacy Policy</a></li>
-			<li><a href="http://www.netvouchercodes.co.uk/terms.aspx#terms">Terms &amp; Conditions</a></li>
-		</ul>
-	</div>
+			<li><a href="/MediaNews.aspx" rel="nofollow">Media contact</a></li> 
+			<li><a href="/security.aspx#security" rel="nofollow">Security Policy</a></li> 
+			<li><a href="/privacy.aspx#privacy" rel="nofollow">Privacy Policy</a></li> 
+			<li><a href="/terms.aspx#terms" rel="nofollow">Terms &amp; Conditions</a></li> 
+		</ul> 
+	</div> 
 	
-	<div class="fourcol float-right">
-		<p>Social / Get Connected</p>
-		<ul style="margin-bottom:38px;">
-			<li><a href="http://www.netvouchercodes.co.uk/Social.aspx" target="_blank">Facebook</a></li>
-			<li><a href="http://www.netvouchercodes.co.uk/Social.aspx" target="_blank">Twitter</a></li>
-			<li><a href="http://www.youtube.com/user/netvouchercodes" target="_blank">YouTube</a></li>
-			<li><a class="data-reveal-modal" target="myModal" href="#">JOIN our free Newsletter</a></li>
-		</ul>
-		<div class="redlogofooter"></div>
-	</div>
+	<div class="fourcol float-right"> 
+		<p>Social / Get Connected</p> 
+		<ul style="margin-bottom:38px;"> 
+			<li><a href="/Social.aspx" target="_blank" rel="nofollow">Facebook</a></li> 
+			<li><a href="/Social.aspx" target="_blank" rel="nofollow">Twitter</a></li> 
+			<li><a href="http://www.youtube.com/user/netvouchercodes" target="_blank" rel="nofollow">YouTube</a></li> 
+			<li><a class="data-reveal-modal" target="myModal" href="#">JOIN our free Newsletter</a></li> 
+		</ul> 
+		<div class="redlogofooter"></div> 
+	</div> 
 	
-	<div class="clear"></div>
-</div>
-
-<div id="footer">
-	<p>©2006-2011 netvouchercodes.co.uk - Net Voucher Codes - All Rights Reserved.</p>
-	<p>C2B Software Solutions Ltd. Registered in England, Company No. 5990184 and VAT Registration 934784977. All rights reserved.</p>
-	<ul>
-		<li><a href="http://www.netvouchercodes.co.uk/days-out">Days Out</a></li>
-		<li>|</li>
-		<li><a href="http://www.netvouchercodes.co.uk/">Voucher Codes</a></li>
-		<li>|</li>
-		<li><a href="http://www.netvouchercodes.co.uk/">Discount Codes</a></li>
-		<li>|</li>
-		<li><a href="http://www.couponcodesusa.com/">Coupon Codes</a></li>
-		<li>|</li>
-		<li><a href="http://www.netvouchercodes.co.uk/">Promotional Codes</a></li>
-		<li>|</li>
-		<li><a href="http://www.netvouchercodes.co.uk/reviews">Retailer Reviews</a></li>
-		<li>|</li>
-		<li><a href="http://www.netvouchercodes.co.uk/articles">Articles</a></li>
-		<li>|</li>
-		<li><a href="http://www.netvouchercodes.co.uk/latest-retailers">New Retailers</a></li>
-		<li>|</li>
-		<li><a href="http://www.netvouchercodes.co.uk/security.aspx#security">Security Policy</a></li>
-		<li>|</li>
-		<li><a href="http://www.netvouchercodes.co.uk/sitemap.aspx#sitemap">Site Map</a></li>
-	</ul>
-	<div class="clear"></div>
-		<p>
+	<div class="clear"></div> 
+	
+	 
+ 
+<div id="footer"> 
+	<p>©2006-2011 netvouchercodes.co.uk - Net Voucher Codes - All Rights Reserved.</p> 
+	<p>4DX Media Ltd. Registered in England, Company No. 5990184 and VAT Registration 934784977. All rights reserved.</p> 
+	<ul> 
+	
+	    <li><a href="http://www.couponcodesusa.com/" rel="nofollow">USA Coupon Codes</a></li> 
+		<li>|</li> 
+		<li><a href="/latest-retailers" rel="nofollow">New Retailers</a></li> 
+		<li>|</li> 
+		<li><a href="/security.aspx#security" rel="nofollow">Security Policy</a></li> 
+		<li>|</li> 
+		<li><a href="/Brands_AtoZ.aspx" rel="nofollow">Shop by Brand</a></li> 
+		<li>|</li> 
+		<li><a href="/sitemap.aspx#sitemap" rel="nofollow">Site Map</a></li> 
+	</ul> 
+	<div class="clear"></div> 
+	<p>
 All discount codes labelled as <strong>'EXCLUSIVE CODE'</strong> must not be copied in any form whatsoever without first gaining written permission from netvouchercodes.co.uk
-</p>
-
+</p> 
+ 
+</div> 
+	
 </div>
 
 
@@ -488,23 +409,32 @@ All discount codes labelled as <strong>'EXCLUSIVE CODE'</strong> must not be cop
     
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCQK71ZKVCwKL75DiBgL+3vqkCALurYWYCQK0i8miDALBod32DAKlnIi6CgKbrrZnApqutmfGKAXfTwdnna5uLhBh2jnuvGvGji2n58RIGm+J+FNF8Q==">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCAK4hr2CBgKL75DiBgL+3vqkCALurYWYCQLUk7IVAsGh3fYMAqWciLoKApqutmce1vUjUmKu3FBGYEXaR6XO9mbcBtn41FO+0Tex2Azyeg==">
 </div></form>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-1562355-3");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-6656370-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
 
     
- <script type="text/javascript">
+    
 
 
-    $(document).ready(function () {
+<script type="text/javascript">
+    $(document).ready(function() {
+    
+        /**
+        * Mega Hover
+        */
         function megaHoverOver() {
             $(this).find(".sub").stop().fadeTo('fast', 1).show();
             (function ($) {
@@ -541,7 +471,6 @@ pageTracker._trackPageview();
                 $(this).hide();
             });
         }
-
         var config = {
             sensitivity: 2,
             interval: 100,
@@ -549,54 +478,59 @@ pageTracker._trackPageview();
             timeout: 500,
             out: megaHoverOut
         };
-
         $("ul#topnav li .sub").css({ 'opacity': '0' });
         $("ul#topnav li").hoverIntent(config);
 
-    });
-    //search
-    $(document).ready(function () {
-        $("#ctl00_searchbox").attr("value", "Type a store name e.g. Comet or brand e.g. Samsung...");
-
-        var text = "Type a store name e.g. Comet or brand e.g. Samsung...";
-
-        $("#ctl00_searchbox").focus(function () {
+        /**
+        * Search box
+        */
+        var searchBox = $(".search-box");
+        searchBox.attr("value", "Type a store name e.g. Debenhams or brand e.g. Samsung...");
+        var text = "Type a store name e.g. Debenhams or brand e.g. Samsung...";
+        searchBox.focus(function () {
             $(this).addClass("active");
             if ($(this).attr("value") == text) $(this).attr("value", "");
         });
-
-        $("#ctl00_searchbox").blur(function () {
+        searchBox.blur(function () {
             $(this).removeClass("active");
             if ($(this).attr("value") == "") $(this).attr("value", text);
         });
-    });
-         //IE search
-    $(document).ready(function () {
-        $("#ctl00_searchbox_IE").attr("value", "Type a store name e.g. Comet or brand e.g. Samsung...");
 
-        var text = "Type a store name e.g. Comet or brand e.g. Samsung...";
+        /**
+        * sub menu click handlers
+        */
+        $("#toolbar li").click(function() {
+            var linkHref = $(this).children(':first-child').attr('href');
+            window.location.href = linkHref;
+        });   
+});
+</script>
 
-        $("#ctl00_searchbox_IE").focus(function () {
-            $(this).addClass("active");
-            if ($(this).attr("value") == text) $(this).attr("value", "");
-        });
+<script type="text/javascript">
+    window.___gcfg = { lang: 'en-GB' };
 
-        $("#ctl00_searchbox_IE").blur(function () {
-            $(this).removeClass("active");
-            if ($(this).attr("value") == "") $(this).attr("value", text);
-        });
-    });
+    (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+</script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
 
+
+<!-- Engagement kickoff (should remain immediately before the closing body tag) -->
+<script type="text/javascript">
     $(document).ready(function() {
-        
-        $("#toolbar li").click(function(){ 
-        var linkHref = $(this).children(':first-child').attr('href');
-        //alert(linkHref);
-        window.location.href = linkHref;
-     });
-
+        // Engagement kickoff & callback handlers
+        $('#engagement')
+            .engage({
+                'onSignin': function() { /*Signed in*/ },
+                'onSignout': function() { /*Signed out*/ }
+            })
+            .engage('refresh');
     });
 </script>
+<!-- mp3 -->
 
 
 </body></html>
