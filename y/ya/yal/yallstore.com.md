@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yallstore.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329111614id_/http%3A//www.yallstore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yallstore.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229154547id_/http%3A//www.yallstore.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : YallStore.com
 
@@ -36,7 +36,7 @@ When you place orders or access your account information, we offer the use of a 
 YallStore.com does not sell, rent, trade or exchange any personally-identifying information of our Users. In addition, YallStore.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors. However, these statistics will not include personally-identifying information. YallStore.com may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements, or (iii) protect the rights, property or safety of YallStore.com, our users, or others. 
 
 **How does YallStore.com allow customers to update or change the information?**  
-You may update or change information related to your account by accessing the "My Account" section of the Web site with your e-mail account and password. For other questions related to updating or changing your account information, please send e-mail to [info@YallStore.com](mailto:info@YallStore.com).
+You may update or change information related to your account by accessing the "My Account" section of the Web site with your e-mail account and password. For other questions related to updating or changing your account information, please send e-mail to [service@YallStore.com](mailto:service@YallStore.com).
 
  **Your consent**  
 By using our website, you consent to the collection and use of this information by YallStore.com. We reserve the right to change this Privacy Policy at any time. Your continued use of the site means that you agree with the terms of the then-current Privacy Policy. If we decide to change our privacy policy, we will post those changes on this page so that you are informed of what information we collect, how we use it, and under what circumstances we disclose it. 
@@ -45,4 +45,4 @@ By using our website, you consent to the collection and use of this information 
 Our website has security measures in place to protect the loss, misuse, and alteration of the information. However, any links from this website is not under our control, and therefore, not governed by our privacy policies. YallStore.com is not responsible for those websites. 
 
 **Tell us what you think**  
-YallStore.com welcomes your questions and comments about privacy. Please send e-mail to [info@YallStore.com](mailto:info@YallStore.com). 
+YallStore.com welcomes your questions and comments about privacy. Please send e-mail to [service@YallStore.com](mailto:service@YallStore.com). 
