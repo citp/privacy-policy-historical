@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avoncompany.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629080327id_/http%3A//www.youravon.com/REPSuite/security_and_privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avoncompany.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229061839id_/http%3A//www.youravon.com/REPSuite/security_and_privacy.page) for the most accurate reproduction.*
 
 # security and policy
 
@@ -78,6 +78,8 @@ CHANGING OR REMOVING YOUR PII. We provide you with several options through the A
 
 CHILDREN. The AVON WEBSITES are not directed to individuals under the age of thirteen (13), and we request that such individuals not provide personally identifiable information, or PII, through the AVON WEBSITES.
 
-CONTACTING US. If you have any questions regarding this Statement, please contact us either by email at avon.websites@avon.com, or by regular mail at Avon Products, Inc 175 Progress Place Springdale, OH 45246 Attn: Campaign Administration. Please note that email communications are not necessarily secure. Accordingly, you should not include credit card information or other sensitive information in your email correspondence with us.
+CONTACTING US. If you have any questions regarding this Statement, please contact us either by email at [avon.websites@avon.com](mailto:avon.websites@avon.com), or by regular mail at Avon Products, Inc 175 Progress Place Springdale, OH 45246 Attn: Campaign Administration. Please note that email communications are not necessarily secure. Accordingly, you should not include credit card information or other sensitive information in your email correspondence with us.
 
-This Statement ©2009 Avon Products, Inc. All rights reserved.
+EU-US SAFE HARBOR.  Avon Products, Inc. has certified to and will adhere to the EU/US Safe Harbor Framework. To review Avon’s Safe Harbor Policy please click here.
+
+This Statement ©2011 Avon Products, Inc. All rights reserved.
