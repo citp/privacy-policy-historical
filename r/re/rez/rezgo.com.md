@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rezgo.com privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815081034id_/http%3A//www.rezgo.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rezgo.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229032729id_/http%3A//www.rezgo.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rezgo
 
@@ -74,9 +74,10 @@ Requests for access to an individuals personal information shall be made to the 
 
 Risk Management Officer  
 Rezgo.com  
-200-92 Lonsdale Avenue  
+718-333 Brooksbank Avenue  
+Suite 320  
 North Vancouver, B.C.  
-V7M 2E6
+V7J 3V8
 
 ## 10\. Challenging Compliance
 
