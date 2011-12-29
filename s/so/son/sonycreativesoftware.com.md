@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonycreativesoftware.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510101237id_/http%3A//www.sonycreativesoftware.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonycreativesoftware.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229210815id_/http%3A//www.sonycreativesoftware.com/corporate/privacy) for the most accurate reproduction.*
 
 # Sony Creative Software - Corporate - Privacy Policy
 
