@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the ezleadcapture.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615003538id_/http%3A//www.ezleadcapture.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezleadcapture.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229025829id_/http%3A//www.ezleadcapture.com/privacy-policy) for the most accurate reproduction.*
 
 # EZLeadCapture.Com Privacy Policy | Lead Capture Pages
-
-A simple, proven system for small business owners and sales professionals to quickly deploy targeted lead capture websites along with autoresponder follow up campaigns to maximize your lead generation efforts.
-
- **We'll Help You Build A Steady Stream Of Fresh Prospects**
-
-[ ](http://www.ezleadcapture.com/packages/ezautoresponse/)
 
 ## PRIVACY POLICY
 
