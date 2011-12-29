@@ -1,156 +1,422 @@
-<!--The following is the downloaded HTML source of the monsterknowledge.com privacy policy that was archived on 2011-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110315150758id_/http%3A//www.monsterknowledge.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the monsterknowledge.com privacy policy that was archived on 2011-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229231548id_/http%3A//www.monsterknowledge.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>MonsterKnowledge.com :: Home Page</title>
-<link href="designs/styles.css" rel="stylesheet" type="text/css">
-<script language="javascript">
+<title>monsterknowledge.com</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="images/drop-men.js">
+</script></head><body><div id="dropmenudiv" style="visibility:hidden; width:150px;  height:; background-color:#FFFFFF" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+<script type="text/javascript" src="images/drop-men.js">
+</script><div id="dropmenudiv" style="visibility:hidden; width:150px;  height:; background-color:#FFFFFF" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
 
-
-
-
-function zipmatch(zip) 
+<script type="text/javascript" language="javascript">
+ function validate()
 {
-	 MyZip=new Array("13081","13734","13736","13812","13840","13845","13864","14418","14478","14521","14527","14541","14801","14805","14807","14809","14810","14812","14814","14815","14816","14817","14818","14819","14820","14821","14822","14823","14824","14825","14826","14827","14830","14831","14837","14838","14839","14840","14841","14842","14843","14845","14847","14850","14851","14852","14853","14854","14855","14856","14857","14858","14859","14860","14861","14863","14864","14865","14867","14869","14870","14871","14872","14873","14874","14876","14878","14879","14882","14883","14885","14886","14887","14889","14891","14892","14893","14894","14898","14901","14902","14903","14904","14905","14925","16901","16910","16912","16914","16917","16918","16920","16922","16925","16926","16928","16929","16930","16932","16933","16935","16936","16940","16942","16945","16946","16947","16950","17724","17735","17765","17768","18614","18616","18810","18814","18817","18829","18830","18831","18832","18833","18837","18840","18846","18848","18850","18853","18854","13040","13045","13052","13053","13056","13062","13068","13073","13077","13087","13101","13102","13124","13136","13155","13730","13732","13733","13734","13736","13737","13738","13743","13744","13745","13746","13748","13749","13754","13758","13760","13761","13762","13763","13774","13776","13777","13778","13780","13783","13784","13787","13790","13794","13795","13797","13801","13802","13803","13804","13809","13811","13812","13813","13814","13815","13826","13827","13830","13833","13835","13838","13839","13840","13841","13843","13844","13845","13847","13848","13849","13850","13851","13856","13859","13862","13863","13864","13865","13901","13902","13903","13904","13905","14859","14865","18407","18411","18413","18419","18420","18421","18430","18433","18437","18439","18440","18446","18449","18453","18454","18455","18461","18462","18465","18470","18471","18615","18623","18625","18630","18657","18801","18810","18812","18813","18814","18815","18816","18818","18820","18821","18822","18823","18824","18825","18826","18827","18828","18829","18830","18831","18834","18837","18842","18843","18844","18845","18846","18847","18851");
-	  //alert(MyZip.length);
-	var ziplength=MyZip.length;
-	var x=0;
-	for(var i=0; i<ziplength; i++)
-	{
-		if (zip== MyZip[i])
+
+if(document.f1.degree.selectedIndex=='')
 		{
-			x++;
-			break;
+		alert("Please Select Degree Type.");
+
+		document.f1.degree.focus();
+		return false;
 		}
-		else
-		{
-			x++;
-		}
-	}
-	if(x==i)
-	{
-		alert("The zip code you entered is not accepted at this time.");
-		document.frm1.zip.focus();
-		return false;
-	}
-	else
-	{
-		return true;
-	}
-}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-function check_n_submit()
-{
-	var box=document.frm1;
-	if (box.degree.selectedIndex == 0 && box.education_level.selectedIndex == 0 && box.zip.value.length != 5)
-	{
-		alert("Please select your area of interest and education level sought, or valid 5 digit zip.");
-		box.degree.focus();
-		return false;
-	}
-	if (box.degree.selectedIndex == 0 && box.education_level.selectedIndex == 0 && box.zip.value.length != 5)
-	{
-	if (!zipmatch(document.frm1.zip.value)) 
-		{
-		return false;
-	}
-	}
 	
-	return true;
+
+return true;
 }
 </script>
-</head>
 
-<body>
-<table width="778" border="0" align="center" cellpadding="0" cellspacing="0" id="maintab" class="maintab">
+
+
+
+
+
+  <script type="text/javascript" language="javascript">
+ function validate2()
+{
+
+
+
+if(document.f2.program.selectedIndex=='')
+		{
+		alert("Please Select Program.");
+
+		document.f2.program.focus();
+		return false;
+		}
+
+return true;
+}
+
+
+</script>
+
+
+
+
+
+
+
+
+
+
+  <script type="text/javascript" language="javascript">
+
+function checkzip()
+	{
+				if(document.z1.zip.value == '')
+				{
+				alert("Please enter your zip.");
+				document.z1.zip.focus();
+				return false;
+				}
+				if (isNaN(document.z1.zip.value)) {
+				alert("Zip must be numbers only.");
+				document.z1.zip.focus()
+				return false;
+			}
+				if (document.z1.zip.value.length < 5) {
+				alert ("Zip must be 5 digits in length.");
+				document.z1.zip.focus();
+				return false;
+			}
+			
+			
+			
+	/*		if(document.z1.zip.value == "84010","84011","84014","84015","84016","84018","84025","84028","84037","84038","84040","84041","84050","84054","84056","84064","84067","84075","84086","84087","84089","84101","84102","84103","84104","84105","84108","84109","84110","84111","84112","84113","84114","84116","84122","84125","84132","84133","84134","84136","84138","84139","84143","84144","84145","84147","84148","84150","84151","84152","84153","84158","84165","84170","84180","84189","84190","84199","84201","84244","84302","84305","84306","84307","84310","84312","84315","84316","84317","84320","84321","84324","84328","84330","84331","84333","84335","84336","84338","84339","84340","84341","84401","84402","84403","84404","84405","84407","84408","84409","84412","84414","84415","79021","79031","79032","79041","79043","79052","79064","79072","79073","79082","79221","79231","79235","79241","79243","79250","79258","79311","79312","79313","79314","79316","79320","79322","79324","79326","79329","79330","79331","79336","79338","79339","79342","79343","79345","79346","79350","79351","79353","79355","79356","79357","79358","79359","79363","79364","79366","79367","79369","79371","79372","79373","79376","79377","79378","79379","79380","79381","79382","79383","79401","79402","79403","79404","79405","79406","79407","79408","79409","79410","79411","79412","79413","79414","79415","79416","79423","79424","79430","79452","79453","79457","79464","79490","79491","79493","79499","79001","79007","79008","79010","79012","79013","79015","79016","79018","79019","79025","79027","79029","79036","79039","79042","79044","79045","79054","79058","79062","79063","79065","79066","79068","79078","79080","79083","79085","79086","79088","79091","79092","79094","79097","79098","79101","79102","79103","79104","79105","79106","79107","79108","79109","79110","79111","79114","79116","79117","79118","79119","79120","79121","79124","79159","79166","79168","79172","79174","79178","79185","79187","79189","79226","79821","79835","79836","79849","79901","79902","79903","79904","79905","79906","79907","79908","79910","79911","79912","79913","79914","79915","79916","79917","79918","79920","79922","79923","79924","79925","79926","79927","79928","79929","79930","79931","79932","79934","79935","79936","79937","79938","79940","79941","79942","79943","79944","79945","79946","79947","79948","79949","79950","79951","79952","79953","79954","79955","79958","79960","79961","79968","79976","79978","79980","79990","79995","79996","79997","79998","79999","88008","88063","88081","88342","88510","88511","88512","88513","88514","88515","88516","88517","88518","88519","88520","88521","88523","88524","88525","88526","88527","88528","88529","88530","88531","88532","88533","88534","88535","88536","88538","88539","88540","88541","88542","88543","88544","88545","88546","88547","88548","88549","88550","88553","88554","88555","88556","88557","88558","88559","88560","88561","88562","88563","88565","88566","88567","88568","88569","88570","88571","88572","88573","88574","88575","88576","88577","88578","88579","88580","88581","88582","88583","88584","88585","88586","88587","88588","88589","88590","88595","88001","88002","88003","88004","88005","88006","88007","88011","88012","88021","88024","88027","88032","88033","88044","88046","88047","88048","88052","88058","88072")
+				{
+				window.location.href='http://www.eduaccelerate.com/zedusearch.asp';
+				return false;
+				}
+				
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+				if(document.z1.zip.value == '85001','85002','85003','85004','85005','85006','85007','85008','85009','85010','85011','85012','85013','85014','85015','85016','85017','85018','85019','85020','85021','85022','85023','85024','85025','85026','85027','85028','85029','85030','85031','85032','85033','85034','85035','85036','85037','85038','85039','85040','85041','85042','85043','85044','85045','85046','85048','85050','85051','85053','85054','85055','85060','85061','85062','85063','85064','85065','85066','85067','85068','85069','85070','85071','85072','85073','85074','85075','85076','85078','85079','85080','85082','85083','85085','85086','85087','85096','85097','85098','85117','85118','85119','85120','85121','85122','85127','85128','85130','85138','85139','85140','85142','85143','85147','85172','85178','85190','85193','85194','85201','85202','85203','85204','85205','85206','85207','85208','85209','85210','85211','85212','85213','85214','85215','85216','85217','85218','85219','85220','85221','85222','85224','85225','85226','85227','85230','85233','85234','85236','85238','85239','85240','85242','85243','85244','85246','85247','85248','85249','85250','85251','85252','85253','85254','85255','85256','85257','85258','85259','85260','85261','85262','85263','85264','85266','85267','85268','85269','85271','85272','85274','85275','85277','85278','85280','85281','85282','85283','85284','85285','85286','85287','85290','85293','85294','85295','85296','85297','85298','85299','85301','85302','85303','85304','85305','85306','85307','85308','85309','85310','85311','85312','85318','85322','85323','85324','85326','85327','85329','85331','85332','85335','85337','85338','85339','85340','85342','85343','85345','85351','85353','85354','85355','85358','85361','85362','85363','85372','85373','85374','85375','85376','85377','85378','85379','85380','85381','85382','85383','85385','85387','85388','85390','85392','85395','85396','86329','86332','86333','86343','10001','10002','10003','10004','10005','10006','10007','10008','10009','10010','10011','10012','10013','10014','10015','10016','10017','10018','10019','10020','10021','10022','10023','10024','10025','10026','10027','10028','10029','10030','10031','10032','10033','10034','10035','10036','10037','10038','10039','10040','10041','10042','10043','10044','10128','10451','10452','10453','10454','10455','10456','10457','10458','10459','10460','10461','10462','10463','10464','10465','10466','10467','10468','10469','10470','10471','10472','10473','10474','10475','10499','11101','11102','11103','11104','11105','11201','11202','11203','11204','11205','11206','11207','11208','11209','11210','11211','11212','11213','11214','11215','11216','11217','11218','11219','11220','11221','11222','11223','11224','11225','11226','11227','11228','11229','11230','11231','11232','11233','11234','11235','11236','11237','11354','11355','11356','11357','11358','11359','11360','11361','11362','11363','11364','11365','11366','11367','11368','11369','11370','11371','11372','11373','11374','11375','11376','11377','11378','11379','11385','11411','11412','11413','11414','11415','11416','11417','11418','11419','11420','11421','11422','11423','11424','11425','11426','11427','11428','11429','11430','11431','11432','11433','11434','11435','11436','10001','10002','10003','10004','10005','10006','10007','10008','10009','10010','10011','10012','10013','10014','10015','10016','10017','10018','10019','10020','10021','10022','10023','10024','10025','10026','10027','10028','10029','10030','10031','10032','10033','10034','10035','10036','10037','10038','10039','10040','10041','10042','10043','10044','10128','10451','10452','10453','10454','10455','10456','10457','10458','10459','10460','10461','10462','10463','10464','10465','10466','10467','10468','10469','10470','10471','10472','10473','10474','10475','10499','11101','11102','11103','11104','11105','11201','11202','11203','11204','11205','11206','11207','11208','11209','11210','11211','11212','11213','11214','11215','11216','11217','11218','11219','11220','11221','11222','11223','11224','11225','11226','11227','11228','11229','11230','11231','11232','11233','11234','11235','11236','11237','11354','11355','11356','11357','11358','11359','11360','11361','11362','11363','11364','11365','11366','11367','11368','11369','11370','11371','11372','11373','11374','11375','11376','11377','11378','11379','11385','11411','11412','11413','11414','11415','11416','11417','11418','11419','11420','11421','11422','11423','11424','11425','11426','11427','11428','11429','11430','11431','11432','11433','11434','11435','11436')
+				{
+				window.location.href='http://www.eduaccelerate.com/zedusearcha.asp';
+				return false;
+				}
+				if(document.z1.zip.value == '33510','33511','33513','33523','33525','33527','33534','33540','33541','33542','33543','33544','33545','33547','33548','33549','33556','33558','33559','33563','33565','33566','33567','33569','33570','33572','33573','33576','33578','33579','33584','33592','33594','33596','33598','33602','33603','33604','33605','33606','33607','33609','33610','33611','33612','33613','33614','33615','33616','33617','33618','33619','33620','33621','33624','33625','33626','33629','33634','33635','33637','33647','33701','33702','33703','33704','33705','33706','33707','33708','33709','33710','33711','33712','33713','33714','33715','33716','33755','33756','33759','33760','33761','33762','33763','33764','33765','33767','33770','33771','33772','33773','33774','33776','33777','33778','33781','33782','33785','33786','33809','33810','33849','34436','34446','34448','34452','34461','34601','34602','34604','34606','34607','34608','34609','34610','34613','34614','34637','34638','34639','34652','34653','34654','34655','34667','34668','34669','34677','34683','34684','34685','34688','34689','34690','34691','34695','34698','33510','33511','33513','33523','33525','33527','33534','33540','33541','33542','33543','33544','33545','33547','33548','33549','33556','33558','33559','33563','33565','33566','33567','33569','33570','33572','33573','33576','33578','33579','33584','33592','33594','33596','33598','33602','33603','33604','33605','33606','33607','33609','33610','33611','33612','33613','33614','33615','33616','33617','33618','33619','33620','33621','33624','33625','33626','33629','33634','33635','33637','33647','33701','33702','33703','33704','33705','33706','33707','33708','33709','33710','33711','33712','33713','33714','33715','33716','33755','33756','33759','33760','33761','33762','33763','33764','33765','33767','33770','33771','33772','33773','33774','33776','33777','33778','33781','33782','33785','33786','33809','33810','33849','34436','34446','34448','34452','34461','34601','34602','34604','34606','34607','34608','34609','34610','34613','34614','34637','34638','34639','34652','34653','34654','34655','34667','34668','34669','34677','34683','34684','34685','34688','34689','34690','34691','34695','34698')
+				{
+				window.location.href='http://www.eduaccelerate.com/zedusearchu.asp';
+				return false;
+				}
+				
+				
+				
+				
+				if(document.z1.zip.value == "84010","84011","84014","84015","84016","84018","84025","84028","84037","84038","84040","84041","84050","84054","84056","84064","84067","84075","84086","84087","84089","84101","84102","84103","84104","84105","84108","84109","84110","84111","84112","84113","84114","84116","84122","84125","84132","84133","84134","84136","84138","84139","84143","84144","84145","84147","84148","84150","84151","84152","84153","84158","84165","84170","84180","84189","84190","84199","84201","84244","84302","84305","84306","84307","84310","84312","84315","84316","84317","84320","84321","84324","84328","84330","84331","84333","84335","84336","84338","84339","84340","84341","84401","84402","84403","84404","84405","84407","84408","84409","84412","84414","84415","79021","79031","79032","79041","79043","79052","79064","79072","79073","79082","79221","79231","79235","79241","79243","79250","79258","79311","79312","79313","79314","79316","79320","79322","79324","79326","79329","79330","79331","79336","79338","79339","79342","79343","79345","79346","79350","79351","79353","79355","79356","79357","79358","79359","79363","79364","79366","79367","79369","79371","79372","79373","79376","79377","79378","79379","79380","79381","79382","79383","79401","79402","79403","79404","79405","79406","79407","79408","79409","79410","79411","79412","79413","79414","79415","79416","79423","79424","79430","79452","79453","79457","79464","79490","79491","79493","79499","79001","79007","79008","79010","79012","79013","79015","79016","79018","79019","79025","79027","79029","79036","79039","79042","79044","79045","79054","79058","79062","79063","79065","79066","79068","79078","79080","79083","79085","79086","79088","79091","79092","79094","79097","79098","79101","79102","79103","79104","79105","79106","79107","79108","79109","79110","79111","79114","79116","79117","79118","79119","79120","79121","79124","79159","79166","79168","79172","79174","79178","79185","79187","79189","79226","79821","79835","79836","79849","79901","79902","79903","79904","79905","79906","79907","79908","79910","79911","79912","79913","79914","79915","79916","79917","79918","79920","79922","79923","79924","79925","79926","79927","79928","79929","79930","79931","79932","79934","79935","79936","79937","79938","79940","79941","79942","79943","79944","79945","79946","79947","79948","79949","79950","79951","79952","79953","79954","79955","79958","79960","79961","79968","79976","79978","79980","79990","79995","79996","79997","79998","79999","88008","88063","88081","88342","88510","88511","88512","88513","88514","88515","88516","88517","88518","88519","88520","88521","88523","88524","88525","88526","88527","88528","88529","88530","88531","88532","88533","88534","88535","88536","88538","88539","88540","88541","88542","88543","88544","88545","88546","88547","88548","88549","88550","88553","88554","88555","88556","88557","88558","88559","88560","88561","88562","88563","88565","88566","88567","88568","88569","88570","88571","88572","88573","88574","88575","88576","88577","88578","88579","88580","88581","88582","88583","88584","88585","88586","88587","88588","88589","88590","88595","88001","88002","88003","88004","88005","88006","88007","88011","88012","88021","88024","88027","88032","88033","88044","88046","88047","88048","88052","88058","88072")
+				{
+				window.location.href='http://www.eduaccelerate.com/zedusearch.asp';
+				return false;
+				}
+				*/
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+}
+</script>
+
+
+
+<table width="809" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td width="420"><a href="default.asp"><br>
-      <img src="images/monsterknowledge_logo.gif" alt="MonsterKnowledge logo" width="249" height="76" hspace="10" vspace="5" border="0"></a>
-      <table width="332" border="0" align="left" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-		<td>&nbsp;</td>
-          <td width="107" height="21" background="images/button.gif"><div align="center"><a href="aboutus.asp">About Us</a> </div></td>
-          <td width="107" height="21" background="images/button.gif"><div align="center"><a href="fastfacts.asp">Fast Facts</a> </div></td>
-          <td width="107" height="21" background="images/button.gif"><div align="center"><a href="info.asp">More Info </a></div></td>
-        </tr>
-    </tbody></table></td>
-    <td align="right"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="320" height="120" hspace="20" align="right" id="ShockwaveFlash1">
-      <param name="movie" value="images/top_banner.swf">
-      <param name="quality" value="high">
-      <embed src="images/top_banner.swf" width="320" height="120" hspace="20" align="right" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash">
-    </object></td>
+    <td align="center" valign="top"><a href="default.asp"><img src="images/logo.gif" alt="monsterknowledge.com" title="monsterknowledge.com" width="255" height="81" border="0" style="margin:10px 0;"></a></td>
+  </tr>
+</tbody></table><table width="809" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="left" valign="top"><img src="images/headerimage.jpg" alt="" width="809" height="315"></td>
+  </tr>
+</tbody></table><table width="809" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="left" valign="top">
+	<ul class="navlink">
+	<li><a href="default.asp" title="Home"><img src="images/home.jpg" alt="" width="89" height="50" border="0"></a></li>
+	<li><a href="aboutus.asp" title="About Us"><img src="images/aboutus.jpg" alt="" width="129" height="50" border="0"></a></li>
+	<li><a href="fastfacts.asp" title="Fast Facts"><img src="images/fastfacts.jpg" alt="" width="148" height="50" border="0"></a></li>
+	<li><a href="info.asp" title="More Info"><img src="images/moreinfo.jpg" alt="" width="155" height="50" border="0"></a></li>
+	<li><a href="#" onmouseover="dropdownmenu(this, event, menu1, '200px')" onmouseout="delayhidemenu()" title="Degrees"><img src="images/degrees.jpg" alt="" width="146" height="50" border="0"></a></li>
+	<li><a href="#" onmouseover="dropdownmenu(this, event, menu2, '220px')" onmouseout="delayhidemenu()" title="Subjects"><img src="images/subjects.jpg" alt="" width="141" height="50" border="0"></a></li>
+
+	</ul>	</td>
   </tr>
   <tr>
-    <td height="3" colspan="2"><table width="760" border="0" align="left" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" class="midtab">
+    <td align="left" valign="top"><img src="images/menubottom.jpg" alt="" width="809" height="4"></td>
+  </tr>
+</tbody></table>
+<table width="809" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="12"></td>
+  </tr>
+</tbody></table>
+
+<table width="809" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td height="2" colspan="3" bgcolor="#FFFFFF"></td>
-        </tr>
-      <tr>
+        <td width="267" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td align="left" valign="top"><img src="images/leftformtop.gif" alt="" width="267" height="11"></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" class="leftimagereppet"><table width="219" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <tbody><tr>
+                    <td height="39" align="left" valign="middle"><p class="formtextleft">Degree Type:</p></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top"><form action="edusearch.asp" name="f1" onsubmit="return validate();" method="post"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                          <td width="160" align="left" valign="top"><select id="degree" name="degree" class="forocolor">
+                            <option value="" selected="selected">---Select One---</option>
+                            <option value="Graduate">Graduate</option>
+                            <option value="Undergraduate">Undergraduate</option>
+                          </select></td>
+                          <td align="left" valign="top"><input name="image" type="image" title="Submit" src="images/submit.gif" alt="Submit" width="62" height="27"></td>
+                        </tr>
+                      </tbody></table></form></td>
+                  </tr>
+                  <tr>
+                    <td height="39" align="left" valign="middle"><p class="formtextleft">Or Program:</p></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top"><form action="edusearch.asp" name="f2" onsubmit="return validate2();" method="post"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                        <td width="160" align="left" valign="top"><select id="program" name="program" class="forocolor">
+                <option value="" selected="selected">---Select One---</option>
+			   <option value="Business">	Business	</option>
+<option value="Communications">	Communications	</option>
+<option value="Computer Science">	Computer Science	</option>
+<option value="Counseling">	Counseling	</option>
+<option value="Cosmetology">	Cosmetology	</option>
+<option value="Criminal Justice">	Criminal Justice	</option>
+<option value="Education">	Education	</option>
+<option value="Finance">	Finance	</option>
+<option value="Health">	Health	</option>
+<option value="Life Style">	Life Style	</option>
+<option value="Nursing">	Nursing	</option>
+<option value="Technology">	Technology	</option>
 
-        <td valign="top" class="maintext_bg"><p class="maintext"><strong>PRIVACY POLICY  </strong><br>
-            <br>
-            <span class="style1">Surfing Data            </span><br>
-            <br>
-            When you browse through our site, we collect information on the efficiency and working of our Web site. This information includes the number of times a web page is accessed, the browser used, and paths taken when moving through the Web site, and search terms entered by users. We keep this information for an indefinite time to improve the operation of our site. 
-We may use third-party advertising companies to serve ads on our site. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. 
-            <br>
-            <br>
-            <span class="style1">Contact Information</span>            <br>
-            <br>
-            We also collect personal contact information if you enter it when requesting information from a school. This contact information is stored on our servers to provide schools with inquiry management features. It is also passed onto the schools you identify (sometimes through a vendor that is under contract to the school), so that they may contact you with more information. Personally identifiable Contact Information is not sold to third parties except as explicitly required to fulfill your information request. Contact Information is aggregated to create reports on overall education industry trends, which may be sold to third parties. 
-            <br>
-            <br>
-            <span class="style1">Cookies            </span><br>
-            <br>
-            All Online Schools uses cookies (small files on your computer), to provide us with usage statistics about our web site, and to understand where visitors find out about our web site. No data is stored in the cookie that identifies you personally. 
-            <br>
-          <br>
-<br>
-          </p></td>
-        <td width="3">&nbsp;</td>
 
-        <td rowspan="2" valign="top"><img src="images/1_t.jpg" width="320" height="199"><br>
-          <img src="images/1_b.jpg" width="320" height="184">
-          <table width="97%" border="0" align="left" cellpadding="15" cellspacing="0" background="images/lt_grey.gif">
-            <tbody><tr>
-              <td>
-                <span class="style1">Schools Contacting You </span><br>
-                <br>
-Different schools have different methods of following up with student information requests. Some will send you brochures in the mail, others will reply via email or try to contact you by telephone. By using our service to request information from schools, you are giving permission to schools (or their partners or vendors) to contact you using the method of their choice, to fulfill your information request, notwithstanding your possible listing in the National Do-Not-Call Registry. <br>
-<br></td>
-            </tr>
-          </tbody></table></td>
-        </tr>
-      <tr>
-        <td colspan="3" height="2"></td>
-        </tr>
-      <tr>
-        <td height="3"></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="privacy.asp">Privacy Policy</a> | <a href="advertise.asp">Advertise your school </a> | <a href="jobs.asp">Jobs</a> </td>
-        <td>&nbsp;</td>
-        <td class="footer1">©2011 monsterknowledge.com | All Rights Reserved.</td>
+			</select></td>
+                        <td align="left" valign="top"><input name="image2" type="image" title="Submit" src="images/submit.gif" alt="Submit" width="62" height="27"></td>
+                      </tr>
+                    </tbody></table></form></td>
+                  </tr>
+                  <tr>
+                    <td height="57" align="left" valign="middle"><p class="formtextleft">Or find local college by zip:</p></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top"><form action="zedusearch.asp" name="z1" onsubmit="return checkzip();" method="post"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                        <td width="160" align="left" valign="top"><input type="text" maxlength="5" name="zip" style="width:150px; height:27px;background-color:#F8F8F8; border:#E2E2E1 1px solid;"></td>
+                        <td align="left" valign="top"><input name="image22" type="image" title="Submit" src="images/submit.gif" alt="Submit" width="62" height="27"></td>
+                      </tr>
+                    </tbody></table></form></td>
+                  </tr>
+                  <tr>
+                    <td height="30" align="left" valign="middle">&nbsp;</td>
+                  </tr>
+                </tbody></table></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><img src="images/leftformbottom.gif" alt="" width="267" height="11"></td>
+              </tr>
+            </tbody></table></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td align="left" valign="top"><h3 class="tredi_text">Top Schools</h3></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                 
+				 
+				 
+				  <tbody><tr>
+                    <td width="117" align="left" valign="top"><a href="citycollege"><img src="images/city.jpg" alt="City College" title="City College" width="117" height="53"></a></td>
+                    <td width="20" align="left" valign="top">&nbsp;</td>
+                    <td align="left" valign="top"><a href="nmti"><img src="images/nmti.jpg" alt="NMTI" title="NMTI" width="117" height="53"></a></td>
+                  </tr>
+				  
+				  
+				  
+				  
+                  <tr>
+                    <td width="117" align="left" valign="top">&nbsp;</td>
+                    <td width="20" align="left" valign="top">&nbsp;</td>
+                    <td align="left" valign="top">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td width="117" align="left" valign="top"><a href="libertyuniversity"><img src="images/liberty.jpg" alt="Liberty University Online" title="Liberty University Online" width="117" height="53"></a></td>
+                    <td width="20" align="left" valign="top">&nbsp;</td>
+                    <td align="left" valign="top">
+					<a href="ace"><img src="images/ace.jpg" alt="American College of Education" title="American College of Education" width="117" height="53"></a>
+					<!--<a href="kaplanu"><img src="images/kaplan_small.jpg" alt="Kaplan University" title="Kaplan University" width="117" height="53" /></a>-->
+					</td>
+				
+					
+                  </tr>
+				  
+				  
+				  <tr>
+                    <td width="117" align="left" valign="top">&nbsp;</td>
+                    <td width="20" align="left" valign="top">&nbsp;</td>
+                    <td align="left" valign="top">&nbsp;</td>
+                  </tr>
+				  
+				  
+				    <tr>
+                    <td width="117" align="left" valign="top"><a href="empire_beauty"><img src="images/empire_beauty_logo.jpg" alt="empire beauty" title="empire beauty" width="117" height="53"></a></td>
+                    <td width="20" align="left" valign="top">&nbsp;</td>
+                    <td align="left" valign="top"><a href="hair_design"><img src="images/hair_design_logo.jpg" alt="hair design" title="hair design" width="117" height="53"></a></td>
+                  </tr>
+				  
+				  
+				
+				
+				
+				
+				
+				
+				
+				
+				  <tr>
+                    <td width="117" align="left" valign="top">&nbsp;</td>
+                    <td width="20" align="left" valign="top">&nbsp;</td>
+                    <td align="left" valign="top">&nbsp;</td>
+                  </tr>
+				  
+				  
+				    <tr>
+                    <td width="117" align="left" valign="top"><a href="westmore_academy"><img src="images/westmore_academy_logo.jpg" alt="westmore academy" title="westmore academy" width="117" height="53"></a></td>
+                    <td width="20" align="left" valign="top">&nbsp;</td>
+                 
+                  </tr>
+				
+				
+				
+				
+				  
+				  
+				  
+				  
+				  
+                </tbody></table></td>
+              </tr>
+            </tbody></table></td>
+          </tr>
+        </tbody></table></td>
+        <td width="23" align="left" valign="top">&nbsp;</td>
+        <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td align="left" valign="top"><p class="text1"><br>
+<strong>PRIVACY POLICY </strong><span></span>
+Surfing Data
+<span></span>
+When you browse through our site, we collect information on the efficiency and working of our Web site. This information includes the number of times a web page is accessed, the browser used, and paths taken when moving through the Web site, and search terms entered by users. We keep this information for an indefinite time to improve the operation of our site. We may use third-party advertising companies to serve ads on our site. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.
+<span></span>
+Contact Information
+<span></span>
+We also collect personal contact information if you enter it when requesting information from a school. This contact information is stored on our servers to provide schools with inquiry management features. It is also passed onto the schools you identify (sometimes through a vendor that is under contract to the school), so that they may contact you with more information. Personally identifiable Contact Information is not sold to third parties except as explicitly required to fulfill your information request. Contact Information is aggregated to create reports on overall education industry trends, which may be sold to third parties.
+<span></span>
+Cookies
+<span></span>
+All Online Schools uses cookies (small files on your computer), to provide us with usage statistics about our web site, and to understand where visitors find out about our web site. No data is stored in the cookie that identifies you personally. 
+			</p>
+
+			</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top"><img src="images/blank.gif" alt="" width="1" height="21"></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top">&nbsp;</td>
+          </tr>
+        </tbody></table></td>
       </tr>
     </tbody></table></td>
   </tr>
 </tbody></table>
+<table width="809" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="left" valign="top"><img src="images/blank.gif" alt="" width="1" height="41"></td>
+  </tr>
+</tbody></table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+   <td height="79" align="center" valign="middle" bgcolor="#26201E">
+	
+	
+	<ul class="footernav">
+	
+<li><a href="default.asp" title="Home">Home</a></li> <li>|</li>
+<li><a href="aboutus.asp" title="About Us">About Us</a></li><li>|</li>
+<li><a href="fastfacts.asp" title="Fast Facts">Fast Facts</a></li><li>|</li>
+<li><a href="info.asp" title="More info">More info</a></li><li>|</li>
+<li><a href="privacy.asp" title="Privacy Policy">Privacy Policy</a></li><li>|</li>
+<li><a href="advertise.asp" title="Advertise your school">Advertise your school</a></li><li>|</li>
+<li><a href="jobs.asp" title="Jobs">Jobs</a></li>	
+	</ul>
+	<p class="footertext">©2011 monsterknowledge.com   |   All Rights Reserved.</p>
+	
+	
+	</td>
+  </tr>
+</tbody></table>
+
+<!-- Quantcast Tag -->
+
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+ 
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+ 
+_qevents.push({
+qacct:"p-fe-cmClkZSCa-"
+});
+
+</script>
+
+ 
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-fe-cmClkZSCa-.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+
+<!-- End Quantcast tag -->
+
+
 
 
 </body></html>
