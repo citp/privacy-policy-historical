@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryanwaggoner.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630212915id_/http%3A//ryanwaggoner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanwaggoner.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229231910id_/http%3A//ryanwaggoner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ryan Waggoner
 
