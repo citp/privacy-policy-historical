@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carsmagz.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515203149id_/http%3A//www.carsmagz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsmagz.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230004435id_/http%3A//www.carsmagz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Car Pictures and Cars For Sale - CARSMAGz
+# Privacy Policy New Cars Pictures and Information - CARSMAGz
 
 ## [Privacy Policy](http://www.carsmagz.com/privacy-policy/ "Permanent Link to Privacy Policy")
 
