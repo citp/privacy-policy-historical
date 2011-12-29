@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altn.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629165946id_/http%3A//www.altn.com/Company/Policies/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altn.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229204852id_/http%3A//www.altn.com/Company/Policies/PrivacyPolicy) for the most accurate reproduction.*
 
 # Alt-N Technologies: Privacy Policy
 
