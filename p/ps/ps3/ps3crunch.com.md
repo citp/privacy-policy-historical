@@ -1,26 +1,84 @@
-> *The following text is extracted and transformed from the ps3crunch.com privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222154924id_/http%3A//ps3crunch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ps3crunch.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229164906id_/http%3A//www.ps3crunch.net/forum/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - PS3Crunch
+# Google Adsense Privacy Policy
 
-**Your Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+##  [Google Adsense 3rd Party Cookie Info]() [](http://www.ps3crunch.net/forum/privacy_policy.php#top)
 
-**Google Adsense and the DoubleClick DART Cookie**  
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+As with most other websites, We collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+  
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, PS3Crunch has no access or control over these cookies that may be used by third party advertisers. 
 
-**Collection of Personal Information**  
-When visiting PS3Crunch, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+##  [Registration]() [](http://www.ps3crunch.net/forum/privacy_policy.php#top)
 
-**Links to third party Websites**  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. 
+Registration is not necessary for the public to use this Web site. However, members must register in order to gain access to adding threads to the Web site. During registration, you must complete the registration form and create a user name and password. During registration you are required to give us contact information. We use this information to contact you about the services on our site in which you have expressed interest.We are the sole owner of the information collected on this Web site.
 
-**Changes to this Privacy Statement**  
-The contents of this statement may be altered at any time, at our discretion. 
+  
 
-If you have any questions regarding the privacy policy of PS3Crunch then you may contact us at xmiccyx@gmail.com 
 
-Last updated Sun, 13 Feb 2011 07:57
+##  [Inappropriate Language]() [](http://www.ps3crunch.net/forum/privacy_policy.php#top)
+
+The use of inappropriate or offensive language is not permitted in these forums. Inappropriate or offensive language includes, but is not limited to, any language or content that is sexually oriented, sexually suggestive or abusive, harassing, defamatory, vulgar, obscene, profane, hateful, or that contains racially, ethnically or otherwise objectionable material of any kind. We ask that you please be considerate to other members in the forums when posting your messages.
+
+  
+
+
+##  [Posting Links]() [](http://www.ps3crunch.net/forum/privacy_policy.php#top)
+
+Our policy on linking to other forums is pretty simple. Members may link to any other site that provides information that helps answer another member's question or is just of general interest to members of that particular forum. One of the most basic tenets of the Web is the open exchange of information.
+
+  
+
+
+##  [Security]() [](http://www.ps3crunch.net/forum/privacy_policy.php#top)
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+  
+
+
+##  [Ad Servers]() [](http://www.ps3crunch.net/forum/privacy_policy.php#top)
+
+To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
+[ **Google**](http://www.google.com/privacypolicy.html) **  
+[vBulletin](http://www.vbulletin.org/forum/info.php?do=privacy)**[](http://www.vbulletin.org/forum/info.php?do=privacy)  
+ **If you have any questions about security on our Web site, you can send email:[Here](http://www.ps3crunch.net/forum/sendmessage.php)**
+
+  
+
+
+##  [Opt-Out Policy]() [](http://www.ps3crunch.net/forum/privacy_policy.php#top)
+
+We give users options wherever necessary and practical. Such choices include:  
+Opting not to register to receive our electronic newsletters.  
+Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our user
+
+  
+
+
+##  [Consent]() [](http://www.ps3crunch.net/forum/privacy_policy.php#top)
+
+By using this site, you consent to the collection and use of this information by us.
+
+  
+
+
+##  [Disclaimer]() [](http://www.ps3crunch.net/forum/privacy_policy.php#top)
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
+
+  
+
+
+##  [Changes in this Privacy Statement]() [](http://www.ps3crunch.net/forum/privacy_policy.php#top)
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.  
+
+
+  
+**PLEASE NOTE that opting out of the ad-serving cookie does not mean that you will stop seeing either pop up advertising or banner ads embedded in websites! You can control many pop ups by using free software available on the Internet or by disabling JavaScript on your browser. DoubleClick has no control over the use or frequency of pop-up ads employed by website publishers or software manufacturers.** For more information about pop-up ads, please [click here](http://www.ps3crunch.net/us/about_doubleclick/privacy/faq.asp#pop-ups) **.** | **DoubleClick Opt-out Click link below**  
+[](http://optout.doubleclick.net/cgi-bin/dclk/optout.pl)  
+---|---  
+  
+-=( Thanks for viewing and reading our privacy policy for [PS3CRUNCH.net](http://www.ps3crunch.net/) )=- 
