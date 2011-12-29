@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schooldigger.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104201751id_/http%3A//www.schooldigger.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooldigger.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229201506id_/http%3A//www.schooldigger.com/privacy.aspx) for the most accurate reproduction.*
 
 # schooldigger.com Privacy Policy
 
@@ -60,4 +60,4 @@ In the event of a transfer of ownership of SchoolDigger.com, such as acquisition
 
 **How To Contact Us:**
 
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20110104201751id_/http%3A//www.schooldigger.com/contact.aspx). 
+Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20111229201506id_/http%3A//www.schooldigger.com/contact.aspx). 
