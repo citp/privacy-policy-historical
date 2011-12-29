@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the debtsteps.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606032546id_/http%3A//www.debtsteps.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtsteps.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229144855id_/http%3A//www.debtsteps.com/privacy.html) for the most accurate reproduction.*
 
 # DebtSteps.com Privacy Policy
 
-## PRIVACY POLICY - Last Updated: April 7, 2009
+## PRIVACY POLICY - Last Updated: August 30, 2011
 
 DebtSteps.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to anyone. 
 
@@ -48,7 +48,7 @@ You should also be aware that if you voluntarily disclose Personally Identifiabl
 
 ### Contacting Us:
 
-We can be reached by contacting us by using our [contact form](https://web.archive.org/web/20110606032546id_/http%3A//www.debtsteps.com/feedback.html). 
+We can be reached by contacting us by using our [contact form](https://web.archive.org/web/20111229144855id_/http%3A//www.debtsteps.com/feedback.html). 
 
 ### Changes to this Policy
 
@@ -74,28 +74,16 @@ DebtSteps.com encourages parents to go online with their kids. Here are a few ti
 > 
 > Look for Web site privacy policies. Know how your child's information is treated. 
 > 
-> Check out the [FTC site](http://www.ftc.gov/privacy/privacyinitiatives/promises_educ.html) for more tips on protecting children's privacy online. 
+> Check out the [FTC site](http://www.ftc.gov/privacy/privacyinitiatives/promises_educ.html) for more tips on protecting children's privacy online.
 
 ### Contacting Us
 
-We can be reached by using our [contact form](https://web.archive.org/web/20110606032546id_/http%3A//www.debtsteps.com/feedback.html) or by mail:
+We can be reached by using our [contact form](https://web.archive.org/web/20111229144855id_/http%3A//www.debtsteps.com/feedback.html) or by mail:
 
 DebtSteps.com   
-P O Box 675  
-Potsdam NY 13676-0675
+28 Bud Hollow Drive  
+Palm Coast, FL 32137
 
-Is getting out of debt on your "To Do" list? [Start here to get the help you need now.](http://www.careonecredit.com/campaigns/affredirect2.aspx?bid=97&aid=CD43&opt=) Not only get out of debt, but learn how to stay out! 
+Top of [Detailed Privacy Policy](https://web.archive.org/web/20111229144855id_/http%3A//www.debtsteps.com/privacy.html)
 
-Return to the top of [Detailed Privacy Policy](https://web.archive.org/web/20110606032546id_/http%3A//www.debtsteps.com/privacy.html)
-
-Go to [Debt Relief Steps](https://web.archive.org/web/20110606032546id_/http%3A//www.debtsteps.com/index.html) Home Page 
-
-#### Getting The Answers You Need
-
-Need help to get your debt under control? [Check this out](https://web.archive.org/web/20110606032546id_/http%3A//www.debtsteps.com/lmb.html).
-
-Be sure and check out the various debt solution reviews, tips, and articles provided on DebtSteps.com:
-
-[Find Your Solution](https://web.archive.org/web/20110606032546id_/http%3A//www.debtsteps.com/debt-solution.html) offers a comprehensive list of reviews to get out of debt once and for all. Get answers on bankruptcy, consumer credit counseling, debt settlement, money management, budgeting, loans and mortgages.
-
-[Debt Relief Tips & Articles](https://web.archive.org/web/20110606032546id_/http%3A//www.debtsteps.com/debt-relief-tips.html) to guide you on your way to financial freedom. Get the lowdown on dealing with debt collectors, handling money problems, understanding your credit, and more. 
+Go to [Debt Relief Steps](http://www.debtsteps.com/index.html) Home Page 
