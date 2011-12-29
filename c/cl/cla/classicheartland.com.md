@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicheartland.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426202326id_/http%3A//www.classicheartland.com/sweepstakes/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicheartland.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229142004id_/http%3A//www.classicheartland.com/sweepstakes/privacypolicy.html) for the most accurate reproduction.*
 
 # ClassicHeartland.com Privacy Policy
 
