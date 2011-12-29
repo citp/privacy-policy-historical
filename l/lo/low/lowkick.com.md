@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowkick.com privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226133818id_/http%3A//www.lowkick.com/data/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowkick.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229103516id_/http%3A//lowkick.blitzcorner.com/data/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LowKick.com
 
