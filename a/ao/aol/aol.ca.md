@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aol.ca privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506045710id_/http%3A//canada.aol.com/portal/misc/PrivacyPolicy.adp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aol.ca privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229192644id_/http%3A//canada.aol.com/portal/misc/PrivacyPolicy.adp) for the most accurate reproduction.*
 
 # AOL.ca - Privacy Policy
 
@@ -32,7 +32,7 @@ AOL takes special care to protect the safety and privacy of young people using o
 If we decide to change our privacy policy for AOL.CA, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. 
 
 **Director of Privacy**  
-Please direct all inquiries about our privacy policy for AOL.CA in writing to our designated Director of Privacy, AOL Canada Inc., 55 St. Clair Avenue East, Suite 700, Toronto, Ontario M4V 2Y7 or by fax to (416) 960 6560 or via e-mail: AOLCanadaPrivacy@aol.com. 
+Please direct all inquiries about our privacy policy for AOL.CA in writing to our designated Director of Privacy, AOL Canada Inc., 55 St. Clair Avenue East, Suite 700, Toronto, Ontario M4V 2Y7 or by fax to (416) 960 6560 or via e-mail: CAPrivacyinfo@aol.com. 
 
 |  |  |  |  |   
 ---|---|---|---  
@@ -47,11 +47,12 @@ Please direct all inquiries about our privacy policy for AOL.CA in writing to ou
 |  |   
   
 **AOL Canada Inc. Headquarters:**  
-55 St. Clair Avenue West  
+99 Spadina Avenue   
+Suite 200   
 Toronto, Ontario  
-M4V 2Y7  
-Phone: (416) 960-6500  
-Fax: (416) 960-6502  
+M5V 3P8   
+Phone: (416) 263-8100  
+Fax: (416) 263-8102  
   
 |   
 |  |   
