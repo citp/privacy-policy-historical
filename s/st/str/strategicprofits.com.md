@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strategicprofits.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629160631id_/http%3A//www.strategicprofits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strategicprofits.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229032736id_/http%3A//www.strategicprofits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -70,3 +70,5 @@ While we cannot guarantee privacy perfection, we will address any issue to the b
 ## Your Consent
 
 By using this Web site, you consent to the terms of our Online Privacy Policy, Terms and Conditions of Use, and to Strategic Profits processing of Personal Information for the purposes given above as well as those explained where Strategic Profits collects Personal Information on the Web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
+
+Written by: [Rich Schefren](http://www.strategicprofits.com/author/rich-schefren/ "More about Rich Schefren ") on June 14, 2008.on October 21, 2008.
