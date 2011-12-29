@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisebread.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107084805id_/http%3A//www.wisebread.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisebread.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229053347id_/http%3A//www.wisebread.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wise Bread
 
@@ -12,7 +12,7 @@ Please also read our [User Agreement](https://web.archive.org/legal/user-agreeme
 
 **Children Under 13 Years of Age**
 
-No person under 13 should disclose any information on KA Websites. KA Websites are not intended for use by children, especially those under age 13. You may learn more about protecting children’s privacy online by visiting [www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy). 
+No person under 13 should disclose any information on KA Websites. KA Websites are not intended for use by children, especially those under age 13. You may learn more about protecting children’s privacy online by visiting [www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy).
 
 **What Information Do We Collect?**
 
@@ -24,7 +24,7 @@ We may receive and store any information you choose to enter on KA Websites or p
 
 If you provide personally identifiable information, it will be used to provide you with the service you have requested. For example:
 
-  * Register for an account: We require a user name and a working email address. 
+  * Register for an account: We require a user name and a working email address.
 
 
   * Participate in a contest: We require your real name, verification of information to satisfy legal requirements and the conditions of the contest, and information required to notify you and ship prizes to you if you win (such information may include name, email, telephone number, and a shipping address).
@@ -39,7 +39,7 @@ If you provide personally identifiable information, it will be used to provide y
 
 **Passive Information Collected**
 
-KA Websites utilize standard technologies called “cookies” and "log files" to collect information about how KA Websites are used. Passive Information gathered may include the date and time of visits, the pages viewed, time spent at KA Websites, the websites visited just before and just after KA Websites, what type of web browser (Internet Explorer, Netscape Navigator, Firefox, etc.) you are using, and your Internet Protocol (“IP”) address. Information is collected on an aggregate basis without any association to your personal information so that you remain anonymous. If you do not wish to transmit “cookie” information about yourself, you may turn off the cookie function in your web browser; please consult the “Help” section of your browser to correctly do so. 
+KA Websites utilize standard technologies called “cookies” and "log files" to collect information about how KA Websites are used. Passive Information gathered may include the date and time of visits, the pages viewed, time spent at KA Websites, the websites visited just before and just after KA Websites, what type of web browser (Internet Explorer, Netscape Navigator, Firefox, etc.) you are using, and your Internet Protocol (“IP”) address. Information is collected on an aggregate basis without any association to your personal information so that you remain anonymous. If you do not wish to transmit “cookie” information about yourself, you may turn off the cookie function in your web browser; please consult the “Help” section of your browser to correctly do so.
 
 **What is a Cookie?**
 
@@ -47,9 +47,9 @@ Cookies are a feature of web browser software that allows web servers to recogni
 
 **How Do We Use the Information Collected?**
 
-Broadly speaking, persons we employ directly, or as contractors or agents at our direction use Active Information for purposes of administering our business activities, providing customer services such as support, and making available other products or services we think may be of interest to our users. If you provided personally identifiable information in order to receive a specific service or product, it will be used to provide you with the service or product you have requested. 
+Broadly speaking, persons we employ directly, or as contractors or agents at our direction use Active Information for purposes of administering our business activities, providing customer services such as support, and making available other products or services we think may be of interest to our users. If you provided personally identifiable information in order to receive a specific service or product, it will be used to provide you with the service or product you have requested.
 
-We may use the Active Information or Passive Information you provide to us to contact you about changes to our Website, new services, forgotten passwords, contest winnings, changes to our agreements and policies, features or products we offer, or other information we think you shall find valuable. If at any time you do not wish to receive such information, please send us an email at: 
+We may use the Active Information or Passive Information you provide to us to contact you about changes to our Website, new services, forgotten passwords, contest winnings, changes to our agreements and policies, features or products we offer, or other information we think you shall find valuable. If at any time you do not wish to receive such information, please send us an email at:
 
 We use Passive Information to gather information about our users and to enhance and design our Website to make it easier, faster, and friendlier to use. Additionally, cookies help us know information about how many people visit our Website, when they visit and how they use our service. We do not connect any of this information to your personal information or email address. However, Passive Information may result in your viewing of particular advertising based on your user habits for your viewing on KA Websites.
 
@@ -59,9 +59,11 @@ You may be able to access third party websites through KA Websites. When you do 
 
 **Sharing Information with Advertisers or Other Third Parties**
 
-We may disclose anonymous information about user habits, characteristics, and user patterns based on aggregate user statistics to advertisers or service providers. 
+We may disclose anonymous information about user habits, characteristics, and user patterns based on aggregate user statistics to advertisers or service providers.
 
-In the course of serving advertisements on KA Websites, our third-party advertisers may place or identify a unique cookie on your browser, or use web beacons to collect information. This information may include your IP address, ISP, the browser you used to visit KA Websites, and in some cases, whether you have Flash installed. This is often used for geotargeting purposes (showing Los Angeles restaurant ads to someone in Los Angeles, for example) or showing certain ads based on specific sites visited (such as showing personal finance ads to someone who frequents personal finance sites). 
+In the course of serving advertisements on KA Websites, our third-party advertisers may place or identify a unique cookie on your browser, or use web beacons to collect information. This information may include your IP address, ISP, the browser you used to visit KA Websites, and in some cases, whether you have Flash installed. This is often used for geotargeting purposes (showing Los Angeles restaurant ads to someone in Los Angeles, for example) or showing certain ads based on specific sites visited (such as showing personal finance ads to someone who frequents personal finance sites).
+
+To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/ "behavioral ads opt out").
 
 **Sharing Information with the Government or As Otherwise Required by Law**
 
