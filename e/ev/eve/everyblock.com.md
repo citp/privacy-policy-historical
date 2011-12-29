@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everyblock.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630015249id_/http%3A//www.everyblock.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyblock.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229021836id_/http%3A//www.everyblock.com/about/privacy) for the most accurate reproduction.*
 
 # EveryBlock privacy statement
 
@@ -10,13 +10,13 @@ Personal information is information that specifically identifies an individual, 
 
 Personal information does not include "aggregate" information. Aggregate information is data we collect about a group or category of products, services or users from which individual user identities have been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service, but no personal information will be included in the resulting data. Likewise, information about the products you purchase may be collected and combined with information about the products purchased by others. Aggregate data helps us understand trends and user needs so that we can better consider new products and services, and tailor existing products and services to user desires.
 
-You provide personal information to us in a number of ways when you visit our Site or use the various services and activities available on our Site. For example, you provide us with personal information when you: (1)register on the Site; (2)participate in a survey, contest or sweepstakes on the Site; (3)participate or make postings in any forums, chat rooms or other interactive areas of the Site; (4)submit/post an article or comment to the Site and voluntarily include your name or other personal information (including, without limitation, any personally identifying photographs or images you submit/post); or (5)contact us by email for any reason (such as to request customer service or provide us with your comments/feedback). We collect your name and email address in this manner.
+You provide personal information to us in a number of ways when you visit our Site or use the various services and activities available on our Site. For example, you provide us with personal information when you: (1)register on the Site; (2)participate in a survey, contest or sweepstakes on the Site; (3)participate or make postings in any forums, chat rooms or other interactive areas of the Site; (4)submit/post an article or comment to the Site and voluntarily include your name or other personal information (including, without limitation, any personally identifying photographs or images you submit/post); or (5)contact us by e-mail for any reason (such as to request customer service or provide us with your comments/feedback). We collect your name and e-mail address in this manner.
 
-We also collect personal information from you if you submit a job application or resume to us via email. Personal information collected in this regard includes your name and email address, as well as other employment related information that you provide to us in the resume and/or application.
+We also collect personal information from you if you submit a job application or resume to us via e-mail. Personal information collected in this regard includes your name and e-mail address, as well as other employment related information that you provide to us in the resume and/or application.
 
 When you visit our Site, some information is also automatically collected, such as your computer's Internet Protocol (IP) address, operating system and browser type and the time and date of your visit. This information is collected through the use of "cookies." Cookies are small files that are stored on your computer by a Web site to give you a unique identification. We also use cookies on our Site to keep track of services you have used, to record registration information regarding your login name and password, to ensure you do not repeatedly see advertisements, to record your user preferences and to keep you logged into the Site. We treat automatically collected information as personal information if we combine it with or link it to any of the personally identifying information mentioned above. Otherwise, it is used in the aggregate only.
 
-Additionally, we use, and allow third parties to use, Web beacons on the Site to monitor the effectiveness of advertising or for other legitimate purposes. Web beacons are small, graphic images on Web pages or Web-based documents or in email messages that allow us or third parties to monitor who is visiting the Site or if the email has be read. Web beacons collect the IP address of the computer that the Web beacon is sent to, the URL of the page the Web beacon comes from and the time it was viewed. Web beacons may be linked to your personal information.
+Additionally, we use, and allow third parties to use, Web beacons on the Site to monitor the effectiveness of advertising or for other legitimate purposes. Web beacons are small, graphic images on Web pages or Web-based documents or in e-mail messages that allow us or third parties to monitor who is visiting the Site or if the e-mail has be read. Web beacons collect the IP address of the computer that the Web beacon is sent to, the URL of the page the Web beacon comes from and the time it was viewed. Web beacons may be linked to your personal information.
 
 We may use third parties, called third-party ad servers or network advertisers, to deliver ads to you on our behalf. These third-party ad servers may use cookies, Web beacons or other technology to collect non-personally identifiable information about your visits to our Site in order to use it to present advertisements that may be of interest to you. If you would like more information about this practice or whether you can opt out of having this information used by third-party ad servers to provide targeted ads, please visit <http://www.networkadvertising.org/optout_nonppii.asp>.
 
@@ -26,7 +26,7 @@ In general, we use personal information to process your requests or transactions
   * complete transactions requested by you or to verify that you have submitted an article or comment;
   * respond to any questions, problems or complaints, or request feedback;
   * organize the Site and its various services and activities to better serve you and customize or develop our products and services; and
-  * send you emails or other communications containing information about products and services that you might find of interest.
+  * send you e-mails or other communications containing information about products and services that you might find of interest.
 
 
 
@@ -40,7 +40,7 @@ In addition, information about our users, including personally identifiable info
 
 Our Site contains links to other Web sites. Links from our Site to other sites or content are provided for your convenience only, and we do not have control over the content or privacy and security practices and policies of such third parties or other sites. Any personal information you provide on linked pages is provided directly to that third party and is subject to that third party's privacy policy. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
 
-To opt-out of receiving communications from us, or to request access to or that we correct or delete your personal information, we provide you with the following options: (1) follow the "Unsubscribe" instructions contained in the communication from us; (2)email us at feedback@everyblock.com; or (3) write to us at the following address with your request:
+To opt-out of receiving communications from us, or to request access to or that we correct or delete your personal information, we provide you with the following options: (1) follow the "Unsubscribe" instructions contained in the communication from us; (2)e-mail us at feedback@everyblock.com; or (3) write to us at the following address with your request:
 
 EveryBlock  
 One Microsoft Way  
@@ -58,4 +58,4 @@ Information you provide through the Site is protected by an encryption technolog
 
 We will modify this Statement if our privacy practices materially change in the future. We will notify you of such changes only by posting the new Statement on our Site and indicating at the top of the Statement the date it was last updated. We encourage you to review the Statement each time you visit our Site to see if it has been updated since your last visit to make sure you understand how personal information you provide will be used.
 
-If you have any questions about this Statement, or the practices of or your dealings with the Site, please contact us at the following address or email us at feedback@everyblock.com.
+If you have any questions about this Statement, or the practices of or your dealings with the Site, please contact us at the following address or e-mail us at feedback@everyblock.com.
