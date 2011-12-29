@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartphoneware.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606134828id_/http%3A//www.smartphoneware.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartphoneware.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229034325id_/http%3A//www.smartphoneware.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Smartphoneware. Privacy Policy
 
