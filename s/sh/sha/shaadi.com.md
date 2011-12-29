@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaadi.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625150748id_/http%3A//www.shaadi.com/shaadi_info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaadi.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229110635id_/http%3A//www.shaadi.com/shaadi_info/privacy.php) for the most accurate reproduction.*
 
 # Shaadi.com Matrimonials - The No.1 Matrimonial Services Provider - Privacy Policy
 
@@ -6,28 +6,28 @@
 ---  
  | Help Topics  
  |  | [About Shaadi.com](https://web.archive.org/introduction/about-us.php)  
- |  | [Shaadi.com On Dish TV](https://web.archive.org/customer_relations/faq/registration-dishtv.php)  
- |  | [Getting Started](https://web.archive.org/customer_relations/faq/registration.php)  
- |  | [Login / Password](https://web.archive.org/customer_relations/faq/login.php)  
- |  | [Partner Search](https://web.archive.org/customer_relations/faq/match_making.php)  
- |  | [Profile Management](https://web.archive.org/customer_relations/faq/profile.php)  
- |  | [Shortlists and more](https://web.archive.org/customer_relations/faq/shortlist.php)  
- |  | [Photographs](https://web.archive.org/customer_relations/faq/photo.php)  
- |  | [Videos](https://web.archive.org/customer_relations/faq/video.php)  
- |  | [Shaadi SEAL](https://web.archive.org/customer_relations/faq/seal.php)  
- |  | [Contacting Members](https://web.archive.org/customer_relations/faq/messaging.php)  
- |  | [Shaadi.com Messenger](https://web.archive.org/customer_relations/faq/messenger.php)  
+ |  | [Shaadi.com On Dish TV](http://ww2.shaadi.com/customer-relations/faq/registration-dishtv)  
+ |  | [Getting Started](http://ww2.shaadi.com/customer-relations/faq/registration)  
+ |  | [Login / Password](http://ww2.shaadi.com/customer-relations/faq/login)  
+ |  | [Partner Search](http://ww2.shaadi.com/customer-relations/faq/match_making)  
+ |  | [Profile Management](http://ww2.shaadi.com/customer-relations/faq/profile)  
+ |  | [Shortlists and more](http://ww2.shaadi.com/customer-relations/faq/shortlist)  
+ |  | [Photographs](http://ww2.shaadi.com/customer-relations/faq/photo)  
+ |  | [Videos](http://ww2.shaadi.com/customer-relations/faq/video)  
+ |  | [Shaadi SEAL](http://ww2.shaadi.com/customer-relations/faq/seal)  
+ |  | [Contacting Members](http://ww2.shaadi.com/customer-relations/faq/messaging)  
+ |  | [Shaadi.com Messenger](http://ww2.shaadi.com/customer-relations/faq/messenger)  
  |  | [Memberships](https://web.archive.org/customer_relations/faq/membership.php)  
- |  | [Gift Memberships](https://web.archive.org/customer_relations/faq/gift-membership.php)  
- |  | [Select Shaadi](https://web.archive.org/customer_relations/faq/select.php)  
- |  | [Shaadi.com Profile Blaster](https://web.archive.org/customer_relations/faq/profile-blaster.php)  
+ |  | [Gift Memberships](http://ww2.shaadi.com/customer-relations/faq/gift-membership)  
+ |  | [Select Shaadi](http://www.shaadi.com/shaadi_info/click-matrimony.php?cmtdom=www.selectshaadi.com&go=http://www.selectshaadi.com/select/index/faqs)  
+ |  | [Shaadi.com Profile Blaster](http://ww2.shaadi.com/customer-relations/faq/profile-blaster)  
  |  | [Payment Options](https://web.archive.org/customer_relations/faq/payments.php)  
- |  | [Shaadi.com Mobile](https://web.archive.org/customer_relations/faq/shaadimobile.php)  
- |  | [Shaadi.com Mobile Match](https://web.archive.org/customer_relations/faq/shaadimobilematch.php)  
- |  | [Shaadi.com Alerts](https://web.archive.org/customer_relations/faq/newsletter.php)  
- |  | [Technical Issues](https://web.archive.org/customer_relations/faq/technical.php)  
+ |  | [Shaadi.com Mobile](http://ww2.shaadi.com/customer-relations/faq/shaadimobile)  
+ |  | [Shaadi.com Mobile Match](http://ww2.shaadi.com/customer-relations/faq/shaadimobilematch)  
+ |  | [Shaadi.com Alerts](http://ww2.shaadi.com/customer-relations/faq/newsletter)  
+ |  | [Technical Issues](http://ww2.shaadi.com/customer-relations/faq/technical)  
  |  | [ISO 9001:2008 certification](https://web.archive.org/customer_relations/faq/iso-certification.php)  
- |  | [Privacy & Security Tips](https://web.archive.org/customer_relations/faq/privacy-tips.php)  
+ |  | [Privacy & Security Tips](http://ww2.shaadi.com/customer-relations/faq/privacy-tips)  
  |  | [Write to Customer Relations](https://web.archive.org/customer_relations/matrimonial_help/index.php)  
  |  | [Calling Customer Relations](https://web.archive.org/customer_relations/faq/toll-free.php)  
   |  |  |  |   
@@ -101,7 +101,7 @@ You can unsubscribe from this Shaadi.com Mobile Alerts service by simply deselec
 Shaadi.com uses the information it collects in the following ways: 
 
   * **Information users submit** MEMBERS  
-Public: Public information supplied by members is intended to be viewed by visitors to the site. This information is used by visitors for searching and matching purposes. Public information cannot be used to identify a specific member by name, address, etc (except photograph, posting of which is voluntary). All members also have an option to post their telephone number. The members can choose to display the telephone number to premium members only. This display preference can be changed anytime by the member by visiting the [My Contact Details](http://www.telugushaadi.com/my-shaadi/contact-details) page and opting not to display the telephone number and other contact details to other members. Only premium members can view telephone number(s) of other members who have opted to show their contact details to premium members.Private: We primarily use member's email addresses to verify enrollment and to send system emails on behalf of other members. Email addresses are not disclosed to members. We may also use user's email address to send news regarding our site or our group sites, but the users may choose not to receive such emails by unsubscribing. Email addresses may also be used in private correspondence with the user for customer service issues. Financial information that is collected is used to bill the user for products and services. All other private information submitted by the user is confidential and is not disclosed except as required by law or to protect members of Shaadi.com. All private information except financial information submitted during the process of a financial transaction & certain account-related information collected at the time of registration can be updated or deleted by the user at any time, as follows:-Updating public information:
+Public: Public information supplied by members is intended to be viewed by visitors to the site. This information is used by visitors for searching and matching purposes. Public information cannot be used to identify a specific member by name, address, etc (except photograph, posting of which is voluntary). All members also have an option to post their telephone number. The members can choose to display the telephone number to premium members only. This display preference can be changed anytime by the member by visiting the [My Contact Details](http://ww2.shaadi.com/my-shaadi/contact-details) page and opting not to display the telephone number and other contact details to other members. Only premium members can view telephone number(s) of other members who have opted to show their contact details to premium members.Private: We primarily use member's email addresses to verify enrollment and to send system emails on behalf of other members. Email addresses are not disclosed to members. We may also use user's email address to send news regarding our site or our group sites, but the users may choose not to receive such emails by unsubscribing. Email addresses may also be used in private correspondence with the user for customer service issues. Financial information that is collected is used to bill the user for products and services. All other private information submitted by the user is confidential and is not disclosed except as required by law or to protect members of Shaadi.com. All private information except financial information submitted during the process of a financial transaction & certain account-related information collected at the time of registration can be updated or deleted by the user at any time, as follows:-Updating public information:
     * Login to your Shaadi.com account
     * Click on My Profile
     * Use Edit options in the page to update relevant information and submit
