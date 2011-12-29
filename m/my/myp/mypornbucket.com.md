@@ -1,59 +1,100 @@
-> *The following text is extracted and transformed from the mypornbucket.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216164316id_/http%3A//www.mypornbucket.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypornbucket.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# MyPornBucket Free Amateur Teen Porn TOS'd Videos and Pictures:: Privacy Policy
+# Legal Agreement
 
-[](http://www.mypornbucket.com/index.php)
+**Go Daddy Respects Your Privacy**
 
-**Did you know?** You can make a private videos list and share them only with your favorite friends! 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-Privacy Policy 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-  The use of this version of the "MyPornBucket" website and/or MyPornBucket software and any other related software, upgrades or updates and all related services and special offers provided by "MyPornBucket" are subject to the hereunder provisions of this Privacy Policy.: 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-General 
+**Information Collection and Use**
 
-  "MyPornBucket" takes your privacy seriously. We gather certain types of information about our users and we want to help you understand the terms related to the collection and use of the information, which we collect. This Privacy Policy discloses the types of information we gather, how we use it, and what choices you have regarding the collection of such information. 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-  BY USING OR ACCESSING ANY MyPornBucket WEBSITE OR DOWNLOADING AND USING THE SERVICE, YOU AGREE TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION (AS HEREUNDER DESCRIBED), ALL IN ACCORDANCE WITH THE TERMS AND CONDITIONS SET HEREUNDER. MyPornBucket MAY AMEND THIS POLICY FROM TIME TO TIME. 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-  If you are under the age of 13, you are not eligible to use the Service, and we ask you not to submit any personal information to us. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-Collection of Information 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-**Personal Information:** Use of certain features of the Service may require submission of certain personal information, including your first and last name, email address, a nick name (or other user ID) and a password. 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**Non personally identifiable Information:** MyPornBucket may also collect or receive additional non personally identifiable usage information specifically related to the use of a particular feature or offering on the MyPornBucket Service or website(s), and responses to the offerings and advertisements presented on MyPornBucket's Service and/or website(s). 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-  "MyPornBucket" may also collect or receive (in some cases as part of the internet communication protocol) certain non personally identifiable technical information, when the MyPornBucket website(s) and pages are visited or when the MyPornBucket Service is used. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**How is the information being used?** The information is used to operate and improve the features, offerings and content presented to you by MyPornBucket, to personalize the content and advertisements provided to you ; to fulfill your requests for Services, programs, and services; to communicate with you and respond to your inquiries; to conduct research about your use of the Service and/or website(s), offerings and advertisements presented on MyPornBucket Service, email communication, website(s) and pages; and to help offer you other Services, programs, or services that may be of interest. 
+**Security**
 
-_Any personally identifiable information of yours_ will not be shared with third parties unless you have consented to the sharing of this information. MyPornBucket may use this information to present offers to you on behalf of business partners and advertisers. These business partners and advertisers may receive aggregate data about various groups of MyPornBucket users, but do not receive information that personally identifies you. 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-_Notwithstanding the foregoing_ , your information may be accessed and disclosed if and as required by legal procedures. 
+**Updating Your Information**
 
-**Cookies:   ** "MyPornBucket" may use cookies or similar technologies to enhance and personalize your experience of the Service and/or of MyPornBucket's website, including to operate and improve offerings through the Service and/or website; to help authenticate your identity when you visit and transact with the Service, and/or website; to remember your preferences and registration information; to present and help measure and research the effectiveness of the various offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon); and to customize the content and advertisements provided to you. 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-  Additionally, "MyPornBucket" or its advertisers may use other companies, known as third party ad servers to help present advertisements online in connection with the Service, and/or web sites. These third party ad servers may use cookies or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies, not MyPornBucket's. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-  "MyPornBucket" does not require that you accept cookies, and you may disable cookies at any time. However, some functionality of our Services and/or web sites may be impaired if you decline to accept cookies. 
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-Special Note for Parents 
+      iii.      You may call us at: (480) 505-8800
 
-  "MyPornBucket"'s Service and website are not intended for a general audience, and children under the age of thirteen (13) are not permitted to register with MyPornBucket's Service and websites. 
+       iv.      You may fax us at: (480) 505-8844
 
-Modification and Deletion of Personally Identifiable Information (Opt-Out) 
+**Sending Emails**
 
-  In order to delete the personally identifiable information you submitted, notify us, to the following email address: admin@mypornbucket.com that you wish to delete your personally identifiable information or any part thereof contained at our databases. 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-Modification 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-  If you wish to modify or update your personally identifiable information, use the web-site or application interface. If you need help, please contact us at the following email address: admin@mypornbucket.com. Please note that deletion of your personally identifiable information from MyPornBucket's database will not prevent MyPornBucket from using gathered anonymous information. 
+**Compliance with Laws and Law Enforcement**
 
-Third Parties' Practices 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-  This Privacy Policy does not cover the information practices exercised by other provides of products or services, advertisers or other web sites, or companies/people that MyPornBucket does not own or control, or does not employ or manage. 
+**Third Party Service Providers**
 
-**Public Videos:** 577 |  **Private Videos:** 35 |  **Watched Videos:** 1.637.211 |  **Members:** 11474 |  **Online:** -4 guests, 4 members 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=434068&afsid=55544)
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
