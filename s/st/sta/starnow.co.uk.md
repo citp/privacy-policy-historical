@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starnow.co.uk privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628093614id_/http%3A//www.starnow.co.uk/help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starnow.co.uk privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229215645id_/http%3A//www.starnow.co.uk/help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - StarNow.co.uk
 
@@ -9,26 +9,26 @@
 
 ### Privacy of your information
 
-StarNow (owned and operated by SMH Interactive Limited) collects personal information about you through your use of the services and the web site, including your registration details; and information relating to your use of the web site and the content you access. 
+StarNow (owned and operated by SMH Interactive Limited) collects personal information about you through your use of the services and the web site, including your registration details; and information relating to your use of the web site and the content you access.
 
-You agree that StarNow may use this personal information to assist us to provide the services to you, for internal research purposes, to verify your identity, for promoting and marketing other StarNow products and services to you, and for any other use that you authorize. 
+You agree that StarNow may use this personal information to assist us to provide the services to you, for internal research purposes, to verify your identity, for promoting and marketing other StarNow products and services to you, and for any other use that you authorise.
 
-StarNow may disclose your personal information, including your name and contact details, to the relevant authorities, parties and/or the applicable intellectual property right holders (or their representatives) as we see fit. 
+StarNow may disclose your personal information, including your name and contact details, to the relevant authorities, parties and/or the applicable intellectual property right holders (or their representatives) as we see fit.
 
-You can access and correct your personal information at any time. 
+You can access and correct your personal information at any time.
 
 ### Third Party Services
 
-StarNow may contain links to other websites ("Third Party Services") and may post your information on other websites (including, but not limited to, Facebook, Twitter and YouTube). If you choose to use a Third Party Service they may use and share your data in accordance with their privacy policy and your privacy settings on that service. You should always review the policies of Third Party Services and websites to make sure you are comfortable with the ways in which they use information you share with them. 
+StarNow may contain links to other websites ("Third Party Services") and may post your information on other websites (including, but not limited to, Facebook, Twitter and YouTube). If you choose to use a Third Party Service they may use and share your data in accordance with their privacy policy and your privacy settings on that service. You should always review the policies of Third Party Services and websites to make sure you are comfortable with the ways in which they use information you share with them.
 
 ### Applying for roles
 
-You understand that when you apply for a role, your contact details and any information entered into your personal profile will be sent to the advertiser. This includes any photo you have uploaded. 
+You understand that when you apply for a role, your contact details and any information entered into your personal profile will be sent to the advertiser. This includes any photo you have uploaded.
 
 ### Spam and your email address
 
-Your email address is used to identify your membership, and to sign in to the site. 
+Your email address is used to identify your membership, and to sign in to the site.
 
-After registering with StarNow you will receive regular casting call update emails, containing casting calls and auditions matching your profile. You may also receive our email newsletters, account updates and information about StarNow features. 
+After registering with StarNow you will receive regular casting call update emails, containing casting calls and auditions matching your profile. You may also receive our email newsletters, account updates and information about StarNow features.
 
-You can easily unsubscribe from any of our emails, either by using the 'unsubscribe' link provided in the email, or by contacting us at contact@starnow.co.uk. 
+You can easily unsubscribe from any of our emails, either by using the 'unsubscribe' link provided in the email, or by contacting us at contact@starnow.co.uk.
