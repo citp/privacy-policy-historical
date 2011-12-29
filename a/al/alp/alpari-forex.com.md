@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpari-forex.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616204158id_/http%3A//www.alpari-forex.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpari-forex.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229225017id_/http%3A//www.alpari-forex.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy & Refund Policy. Forex with Alpari
 
@@ -43,7 +43,7 @@ The Company may convey the Client's Personal Data to associated or affiliated co
 
 ### Use of Information
 
-By opening an account with the Company, the Client consents to ForexTime collecting, maintaining, using and disclosing their Personal Data in accordance with the terms of this Policy.
+By opening an account with the Company, the Client consents to the Company collecting, maintaining, using and disclosing their Personal Data in accordance with the terms of this Policy.
 
 Alpari takes security issues very seriously and takes all reasonable steps to ensure the Security of the Client's personal data. Alpari adheres to strict security standards and procedures and uses leading security technologies to protect clients' Personal Data.
 
