@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forrent.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607090108id_/http%3A//www.dominionenterprises.com/main/do/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forrent.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229113846id_/http%3A//www.dominionenterprises.com/main/do/Privacy_Policy) for the most accurate reproduction.*
 
 # Dominion Enterprises | Privacy Policy
 
