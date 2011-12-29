@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happycopywriting.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630192426id_/http%3A//happycopywriting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happycopywriting.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229134301id_/http%3A//happycopywriting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
