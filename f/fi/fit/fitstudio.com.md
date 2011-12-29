@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitstudio.com privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226115258id_/http%3A//www.fitstudio.com/welcome/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitstudio.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229114143id_/http%3A//www.fitstudio.com/welcome/privacy_policy) for the most accurate reproduction.*
 
 # FitStudio - Privacy Policy
 
@@ -62,7 +62,7 @@ Back to top
 
 How Can I Access My Information? 
 
-You can personalize your experience on the Sears Holdings family of web sites by becoming a registered Member. By registering, you will be able to tell us what products and services interest you, and whether you wish to receive e-mail about special sales, promotions and other events. Once registered, you can review and maintain your account information at anytime by clicking on the 'My FitStudio' link. Your account information is secure and is accessible by using a password that you select. To become registered user, or to modify your current preferences, [click here](https://web.archive.org/welcome/myfitstudio). 
+You can personalize your experience on the Sears Holdings family of web sites by becoming a registered Member. By registering, you will be able to tell us what products and services interest you, and whether you wish to receive e-mail about special sales, promotions and other events. Once registered, you can review and maintain your account information at anytime by clicking on the 'My FitStudio' link. Your account information is secure and is accessible by using a password that you select. To become registered user, or to modify your current preferences, [click here](https://web.archive.org/myfitstudio/profile). 
 
 Back to top
 
