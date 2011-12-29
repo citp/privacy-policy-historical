@@ -1,91 +1,100 @@
-> *The following text is extracted and transformed from the postpopular.com privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123091427id_/http%3A//www.postpopular.com/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postpopular.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# privacy - postpopular
+# Legal Agreement
 
-[ ](http://www.postpopular.com/ "postpopular Home")
+**Go Daddy Respects Your Privacy**
 
-### Privacy Policy
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-Date of Last Revision: February 5, 2009
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-This privacy policy governs the collection, storage and use of personal data collected by us, DJ STATIX. It provides you with details about the personal data we collect from you, how we use your personal data and your rights to control personal data we hold about you. Please read this privacy policy carefully – by accessing or browsing this website and network (the " **Services** "), you confirm that you have read, understood and agree to this privacy policy in its entirety. If you do not agree to this privacy policy in its entirety, you must not use the Services. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-This privacy policy was last updated on February 5, 2009. Please check back regularly to keep informed of updates to this privacy policy. 
+**Information Collection and Use**
 
-#### Who we are
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-This social networking website is made available to you by DJ STATIX. We respect your right to privacy and will only process personal data you provide to us in accordance with the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and other applicable privacy laws. 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-If you have any questions about how we collect, store and use personal data, or if you have any other privacy-related questions, please [click here](https://web.archive.org/report/feedback?ref=L3Rlcm1zL3Rlcm1zX2FuZF9jb25kaXRpb25zLmh0bWw%3D "Contact Network Owner") to contact us. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-#### An important note about children
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We do not and will not knowingly collect information from any unsupervised child under the age of 13. If you are under the age of 13, you may not use the Services unless you have the consent of, and are supervised by, a parent or guardian. 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-#### The personal data we collect about you
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-When you access and browse the Services (including when you submit personal data to us through data entry fields on the Services), we may collect the following information from you: 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-  1. Your name; 
-  2. Your age, date of birth and sex; 
-  3. Your postal address; 
-  4. Your phone and e-mail details; 
-  5. Your employment details (these are optional); 
-  6. Your payment details if you choose to subscribe to or otherwise access paid-for content; and 
-  7. Any other personal data that you choose to upload to or post on the Services, including blogs, photographs, messages, hobbies and interests and other personal details. 
+**Security**
 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
+**Updating Your Information**
 
-In addition, we may collect anonymised details about visitors to our Services for the purposes of aggregate statistics or reporting purposes. However, no single individual will be identifiable from the anonymised details that we collect for these purposes. 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-#### How we may store and use your information
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-We (or third party data processors acting on our behalf) may collect, store and use your personal data listed above for the following purposes: 
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-  1. to make the Services available to you and to provide you with content which is tailored to your individual tastes; 
-  2. to complete any purchases you make through the Services and to provide you with services that you request; 
-  3. to further develop and improve the Services; 
-  4. to maintain and support any customer account that you have with us; 
-  5. to include (or to permit the inclusion of) advertising within the Services of our own and third party products, services and promotions that we or they think may interest you; 
-  6. where you have given us your consent, to contact you (including by SMS and e-mail) with products, services and promotions which we think may interest you; and 
-  7. where you have given us your consent, to disclose your personal data to carefully chosen third parties so that they may contact you (including by SMS and e-mail) with products, services and promotions which they think may interest you. 
+      iii.      You may call us at: (480) 505-8800
 
+       iv.      You may fax us at: (480) 505-8844
 
+**Sending Emails**
 
-Other than as set out in this privacy policy, we will not disclose, sell or rent your personal data to any third party unless you have consented to this. If you do consent but later change your mind, you may contact us and we will cease any such activity. 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-However, if a third party acquires all (or substantially all) of our business and/or assets, we may disclose your personal data to that third party in connection with the acquisition. 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-We may also disclose your personal data where we are required to do so by applicable law, by order of a court, by a governmental body or by a law enforcement agency. We may also disclose your personal data in the context of investigating or reporting any issue arising in connection with activity by you or content supplied or purporting to be supplied by you, to you or on your behalf that we reasonably believe could be unlawful or otherwise in breach of our terms of service. 
+**Compliance with Laws and Law Enforcement**
 
-#### Technology Licensor disclosures
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-We may also disclose your personal data to the business that provides us with technology infrastructure and hosting services for the Service (the " **Technology Licensor** "). The Technology Licensor will use your personal data in order to check that you are using the Services in a way that complies with applicable law, does not infringe the rights of any third party, to maintain and improve the infrastructure and hosting services that it provides to us, to serve advertising within the Services of third party products, services and promotions that it thinks may interest you and otherwise in accordance with its privacy policy. 
+**Third Party Service Providers**
 
-#### International transfers
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-We may transfer personal data that we collect from you to third parties (including the Technology Licensor) located in countries that are outside of the European Economic Area where necessary to exercise, or in connection with, the uses of your data described above. Please be aware that countries which are outside the European Economic Area may not offer the same level of data protection as the United Kingdom, although our collection, storage and use of your personal data will continue to be governed by this privacy policy. 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-#### Cookies
+**Supplementation of Information**
 
-This website uses cookies to collect information about you. Cookies are small data files which are placed on your computer by this website and which collect certain personal data about you. This enables us to tailor our service offering (including the website) to provide you with products and services which are more relevant to your individual tastes. However, you may change your website browser settings to reject cookies, although please note that if you do this it may impair the functionality of the Services. As each website browser is different, please visit your browser's "Help" menu to learn how to change your cookie preferences. 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-#### Security
+**Contests/Surveys**
 
-Whilst we take appropriate technical and organisational measures to safeguard the personal data that you provide to us, no transmission over the Internet can ever be guaranteed secure. Consequently, please note that we cannot guarantee the security of any personal data that you transfer over the Internet to us. 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-#### Your rights
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-You have the following rights: 
+**Tell-A-Friend**
 
-  1. the right to ask us to provide you with copies of personal data that we hold about you at any time, subject to a fee specified by law (currently £10); 
-  2. the right to ask us to update and correct any out-of-date or incorrect personal data that we hold about you free of charge; and 
-  3. the right to opt out of any marketing communications that we may send you. 
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
+**What Happens to my Personal Information if I Opt Out?**
 
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-If you wish to exercise any of the above rights, please e-mail us at the address specified above. 
+**Transfer of Data Abroad**
 
-#### Third party sites
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-This website also contains links to other third party websites over which we have no control. Please note that this privacy policy applies only to the personal data that we collect through this website and we cannot be responsible for personal data that third parties may collect, store and use through their independent websites. You should always read the privacy policy of each website you visit carefully. 
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
