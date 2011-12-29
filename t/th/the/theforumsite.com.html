@@ -1,18 +1,52 @@
-<!--The following is the downloaded HTML source of the theforumsite.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216151538id_/http%3A//www.theforumsite.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theforumsite.com privacy policy that was archived on 2011-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229061747id_/http%3A//www.theforumsite.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<!DOCTYPE html><html><head>
+
 <base href="http://www.theforumsite.com/">
 <title>The Forum Site - Privacy Policy</title>
-<link rel="StyleSheet" href="/templates/style.css" type="text/css">
 
+<meta name="robots" content="index,follow,noarchive">
+<link rel="SHORTCUT ICON" href="http://www.theforumsite.com/favicon.ico">
 
-<script>
+<link rel="StyleSheet" href="http://c.tfster.com/templates/strict28.css" type="text/css">
+
+<script type="text/javascript" src="http://c.tfster.com/templates/jquery.js">
+</script>
+<script type="text/javascript" src="http://c.tfster.com/templates/site20.js">
+</script>
+<script type="text/javascript">
+Shadowbox.init({
+	continuous: true,
+	displayCounter: false,
+	overlayOpacity: 0.8,
+	handleSupported: "link"
+});
+function regBoxOpen() {
+    // open a welcome message as soon as the window loads
+    Shadowbox.open({
+        content:    'http://www.theforumsite.com/register.php?iframe=1',
+	player:     "iframe",
+        title:      "Welcome",
+        height:     450,
+        width:      700
+    });
+
+}
+window.onload = function() {
+   setTimeout('regBoxOpen()',10000);
+   SetCookie('welcomed',1,30);
+};
+
+</script>
+<script type="text/javascript">
 window.google_analytics_uacct = "UA-178304-1"
 </script>
 
 
-<script language="javascript" type="text/javascript">
+
+
+<script type="text/javascript">
 <!--
 var member_last_visit_time = 0;
 var member_has_new_pms = 0;
@@ -20,870 +54,137 @@ var menu_to_show = 'home';
 var TFSUserId    = 0;
 var TFSUserName  = '';
 var user_points  = '';
+var myTimer;
+var thelinks  = new Array();
+var serverTime = 1325139784;
+var trimage    = '';
+
+
+function userTooltip(theID,theUser) {
+	var config = {
+	     over:      function(){
+				$('#'+theID+'div').slideDown();
+			},
+	     timeout: 500,    
+	     out:       function(){
+			}
+	};
+	
+	$('#'+theID).hoverIntent(config);
+}
 
 //toolbar_setname();
 //-->
 </script>
 
 
-<script type="text/javascript" language="Javascript" src="/templates/site2.js">
-</script>
-
-<script type="text/javascript" language="Javascript" src="/templates/xml.js">
-</script>
 
 
-
-
-
+<style type="text/css">
+body {
+	background-image:url("http://c.tfster.com/images/grey_dots.gif");
+	background-repeat:repeat;
+}
+</style>
 </head>
-<body bgcolor="#000000">
-<a name="top"></a>
-
-
-
+<body>
 
 <!-- HEADER -->
+<div style="width:90%;margin:auto;height:60px;background-color:#000000;padding:0px;margin-top:0px;">
+<a style="margin:0px;padding:0px;" name="top" href="http://www.theforumsite.com/" target="_top"><img style="margin:0px;padding:0px;" align="left" width="325" height="60" src="http://c.tfster.com/images/logo1120103.png" border="0" alt="The Forum Site - Join the conversation" title="The Forum Site - Join The Conversation"></a>
+</div>
+<!-- HEADER -->
 
-<div class="mainbody">
+<!-- NAV -->
+<div style="height:52px;"></div>
+<!-- NAV -->
 
-<!--	<tr><td> -->
-<table border="0" bgcolor="#ffffff" cellpadding="8" cellspacing="1" width="100%">
-	<tbody><tr>
-<td bgcolor="#f2f2f2" valign="top" width="165"><table width="160" bgcolor="#ff6600" cellpadding="5" cellspacing="1"><tbody><tr><td bgcolor="#ffffff" align="center"><div style="z-index:4">
-<script language="javascript">
-<!--
-function set_gmt_offset(f) {
-var d = new Date();
-var gmt = d.getTimezoneOffset()*(-1);
-f.gmt_offset.value = gmt;
-}
+	<div style="width:90%;margin-left:5%;margin-top:0px;background-color:#ffffff;">
 
-function sloginvars(f) {
-	set_gmt_offset(f);
-	f.submit();
-}
-//-->
-</script>
-			<form action="/login.php" method="post" class="loginform" name="login_form">
-<input type="hidden" name="to" value="/privacy.php?"><input type="hidden" name="gmt_offset" value="0">
-					Username: <input name="username" size="10" class="loginform" onsubmit="sloginvars(this.form);"><br>
-					Password: <input name="password" type="password" size="10" class="loginform"><br>
-					<input class="loginform" type="checkbox" name="rememberme" value="1"> Remember me?
-					<input type="submit" value="Log in" class="loginform">
-<a class="sign_up_now" href="/register.php?invite=2760-PN-noboo_e6b65b0f22eaef">Sign Up!</a>
-			</form>
-
-</div></td></tr></tbody></table><br><table width="100%" bgcolor="#ffffff" cellpadding="3" cellspacing="1">
-	<tbody><tr><td bgcolor="#003366" align="center" background="/images/fade_blue_dark.gif">
-		<font size="2" color="#ffffff"><b>Forums</b></font></td></tr><tr><td bgcolor="#ffffff">
-<small><span onclick="toggleSub('subs4','fei4',1229418879);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(4, 'expand',1229418879);
-//--></script>
-</span> <a href="/forum/list/Art-Literature/4" title="Art &amp; Literature forum">Art &amp; Literature</a><br><div id="subs4" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(168, 'expand',1228762269);
-//--></script>
- <a href="/forum/list/Architecture/168" title="Architecture forum">Architecture</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(134, 'expand',1229299913);
-//--></script>
- <a href="/forum/list/Art-History/134" title="Art History forum">Art History</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(138, 'expand',1229396985);
-//--></script>
- <a href="/forum/list/Body-Art/138" title="Body Art forum">Body Art</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(137, 'expand',1229364234);
-//--></script>
- <a href="/forum/list/Crafts/137" title="Crafts forum">Crafts</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(130, 'expand',1229393644);
-//--></script>
- <a href="/forum/list/Literature/130" title="Literature forum">Literature</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(140, 'expand',1229417026);
-//--></script>
- <a href="/forum/list/Performing-Arts/140" title="Performing Arts forum">Performing Arts</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(170, 'expand',1229421574);
-//--></script>
- <a href="/forum/list/Photography/170" title="Photography forum">Photography</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6160, 'expand',1229434654);
-//--></script>
- <a href="/forum/list/Poetry/6160" title="Poetry forum">Poetry</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(133, 'expand',1229412027);
-//--></script>
- <a href="/forum/list/Visual-Arts/133" title="Visual Arts forum">Visual Arts</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(132, 'expand',1229416063);
-//--></script>
- <a href="/forum/list/Writing/132" title="Writing forum">Writing</a><br></div><span onclick="toggleSub('subs5','fei5',1229437833);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(5, 'expand',1229437833);
-//--></script>
-</span> <a href="/forum/list/Business-Finance/5" title="Business &amp; Finance forum">Business &amp; Finance</a><br><div id="subs5" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(131, 'expand',1228917169);
-//--></script>
- <a href="/forum/list/Investing/131" title="Investing forum">Investing</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(173, 'expand',1229436010);
-//--></script>
- <a href="/forum/list/Jobs-Careers/173" title="Jobs &amp; Careers forum">Jobs &amp; Careers</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(166, 'expand',1229413864);
-//--></script>
- <a href="/forum/list/Marketing-Advertising/166" title="Marketing &amp; Advertising forum">Marketing &amp; Advertising</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(171, 'expand',1125099812);
-//--></script>
- <a href="/forum/list/Product-Reviews/171" title="Product Reviews forum">Product Reviews</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(154, 'expand',1229411323);
-//--></script>
- <a href="/forum/list/Starting-a-Business/154" title="Starting a Business forum">Starting a Business</a><br></div><span onclick="toggleSub('subs90','fei90',1229394119);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(90, 'expand',1229394119);
-//--></script>
-</span> <a href="/forum/list/College-Life/90" title="College Life forum">College Life</a><br><div id="subs90" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(176, 'expand',0);
-//--></script>
- <a href="/forum/list/Colleges-amp-Universities/176" title="Colleges &amp; Universities forum">Colleges &amp; Universities</a><br></div><span onclick="toggleSub('subs6','fei6',1229435564);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(6, 'expand',1229435564);
-//--></script>
-</span> <a href="/forum/list/Computers-Internet/6" title="Computers &amp; Internet forum">Computers &amp; Internet</a><br><div id="subs6" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(120, 'expand',1229308245);
-//--></script>
- <a href="/forum/list/Apple-Computers/120" title="Apple Computers forum">Apple Computers</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(160, 'expand',1229027262);
-//--></script>
- <a href="/forum/list/Hardware/160" title="Hardware forum">Hardware</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6202, 'expand',1229391955);
-//--></script>
- <a href="/forum/list/Online-Scams/6202" title="Online Scams forum">Online Scams</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(139, 'expand',1228577780);
-//--></script>
- <a href="/forum/list/PCs/139" title="PCs forum">PCs</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(124, 'expand',1228191096);
-//--></script>
- <a href="/forum/list/Programming/124" title="Programming forum">Programming</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(127, 'expand',1229435605);
-//--></script>
- <a href="/forum/list/Security/127" title="Security forum">Security</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(125, 'expand',1229407696);
-//--></script>
- <a href="/forum/list/Software/125" title="Software forum">Software</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(180, 'expand',1229093291);
-//--></script>
- <a href="/forum/list/Web-Design-Coding/180" title="Web Design &amp; Coding forum">Web Design &amp; Coding</a><br></div><span onclick="toggleSub('subs6145','fei6145',1229423889);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(6145, 'expand',1229423889);
-//--></script>
-</span> <a href="/forum/list/Entertainment/6145" title="Entertainment forum">Entertainment</a><br><div id="subs6145" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(128, 'expand',1229330277);
-//--></script>
- <a href="/forum/list/Animation/128" title="Animation forum">Animation</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6171, 'expand',1229405043);
-//--></script>
- <a href="/forum/list/Anime-Manga/6171" title="Anime/Manga forum">Anime/Manga</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(123, 'expand',1229424878);
-//--></script>
- <a href="/forum/list/Celebrities/123" title="Celebrities forum">Celebrities</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(23, 'expand',1229406243);
-//--></script>
- <a href="/forum/list/Movies/23" title="Movies forum">Movies</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(150, 'expand',1229153472);
-//--></script>
- <a href="/forum/list/Radio/150" title="Radio forum">Radio</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(122, 'expand',1229435780);
-//--></script>
- <a href="/forum/list/Television/122" title="Television forum">Television</a><br></div><span onclick="toggleSub('subs185','fei185',1229406501);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(185, 'expand',1229406501);
-//--></script>
-</span> <a href="/forum/list/Food-Drink/185" title="Food &amp; Drink forum">Food &amp; Drink</a><br><div id="subs185" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(6199, 'expand',1229267322);
-//--></script>
- <a href="/forum/list/Recipes/6199" title="Recipes forum">Recipes</a><br></div><span onclick="toggleSub('subs7','fei7',1229385482);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(7, 'expand',1229385482);
-//--></script>
-</span> <a href="/forum/list/Games/7" title="Games forum">Games</a><br><div id="subs7" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(6165, 'expand',1229393491);
-//--></script>
- <a href="/forum/list/Roleplaying/6165" title="Roleplaying forum">Roleplaying</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6167, 'expand',1227906119);
-//--></script>
- <a href="/forum/list/Toys/6167" title="Toys forum">Toys</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6166, 'expand',1227907145);
-//--></script>
- <a href="/forum/list/Trading-Card-Games/6166" title="Trading Card Games forum">Trading Card Games</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(24, 'expand',1229418847);
-//--></script>
- <a href="/forum/list/Video-Games/24" title="Video Games forum">Video Games</a><br></div><span onclick="toggleSub('subs8','fei8',1229440158);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(8, 'expand',1229440158);
-//--></script>
-</span> <a href="/forum/list/Health/8" title="Health forum">Health</a><br><div id="subs8" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(145, 'expand',1229314289);
-//--></script>
- <a href="/forum/list/Alternative-Medicine/145" title="Alternative Medicine forum">Alternative Medicine</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(148, 'expand',1229381676);
-//--></script>
- <a href="/forum/list/Conditions-Diseases/148" title="Conditions &amp; Diseases forum">Conditions &amp; Diseases</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(144, 'expand',1229274916);
-//--></script>
- <a href="/forum/list/Fitness/144" title="Fitness forum">Fitness</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(146, 'expand',1229301052);
-//--></script>
- <a href="/forum/list/Medicine/146" title="Medicine forum">Medicine</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(147, 'expand',1229374786);
-//--></script>
- <a href="/forum/list/Mental-Health/147" title="Mental Health forum">Mental Health</a><br></div><span onclick="toggleSub('subs6197','fei6197',1229279466);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(6197, 'expand',1229279466);
-//--></script>
-</span> <a href="/forum/list/Homes-Real-Estate/6197" title="Homes &amp; Real Estate forum">Homes &amp; Real Estate</a><br><div id="subs6197" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(6198, 'expand',1228693474);
-//--></script>
- <a href="/forum/list/Plants-Gardening/6198" title="Plants &amp; Gardening forum">Plants &amp; Gardening</a><br></div><span onclick="toggleSub('subs17','fei17',1229221258);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(17, 'expand',1229221258);
-//--></script>
-</span> <a href="/forum/list/Languages/17" title="Languages forum">Languages</a><br><div id="subs17" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(36, 'expand',1226977818);
-//--></script>
- <a href="/forum/list/French/36" title="French forum">French</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(35, 'expand',1229272671);
-//--></script>
- <a href="/forum/list/German/35" title="German forum">German</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(37, 'expand',1228761185);
-//--></script>
- <a href="/forum/list/Spanish/37" title="Spanish forum">Spanish</a><br></div><span onclick="toggleSub('subs22','fei22',1229440172);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(22, 'expand',1229440172);
-//--></script>
-</span> <a href="/forum/list/Music/22" title="Music forum">Music</a><br><div id="subs22" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(6194, 'expand',1229260451);
-//--></script>
- <a href="/forum/list/Albums/6194" title="Albums forum">Albums</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(108, 'expand',1229376121);
-//--></script>
- <a href="/forum/list/Alternative/108" title="Alternative forum">Alternative</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(118, 'expand',1229406878);
-//--></script>
- <a href="/forum/list/Bands-Artists/118" title="Bands &amp; Artists forum">Bands &amp; Artists</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(109, 'expand',1229436238);
-//--></script>
- <a href="/forum/list/Country/109" title="Country forum">Country</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(110, 'expand',1182149479);
-//--></script>
- <a href="/forum/list/Emo/110" title="Emo forum">Emo</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(111, 'expand',1228644334);
-//--></script>
- <a href="/forum/list/Goth/111" title="Goth forum">Goth</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(114, 'expand',1229386846);
-//--></script>
- <a href="/forum/list/Metal/114" title="Metal forum">Metal</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6144, 'expand',1229431877);
-//--></script>
- <a href="/forum/list/Musicians/6144" title="Musicians forum">Musicians</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6158, 'expand',1229263790);
-//--></script>
- <a href="/forum/list/Pop/6158" title="Pop forum">Pop</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(107, 'expand',1229301255);
-//--></script>
- <a href="/forum/list/Punk/107" title="Punk forum">Punk</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(115, 'expand',1229230019);
-//--></script>
- <a href="/forum/list/Rap-Hip-Hop/115" title="Rap &amp; Hip Hop forum">Rap &amp; Hip Hop</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(117, 'expand',1229294948);
-//--></script>
- <a href="/forum/list/Ska/117" title="Ska forum">Ska</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(116, 'expand',1229214786);
-//--></script>
- <a href="/forum/list/Techno/116" title="Techno forum">Techno</a><br></div><span onclick="toggleSub('subs9','fei9',1229439984);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(9, 'expand',1229439984);
-//--></script>
-</span> <a href="/forum/list/News-Politics/9" title="News &amp; Politics forum">News &amp; Politics</a><br><div id="subs9" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(102, 'expand',1229408467);
-//--></script>
- <a href="/forum/list/Abortion/102" title="Abortion forum">Abortion</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(103, 'expand',1229427853);
-//--></script>
- <a href="/forum/list/Animal-Rights/103" title="Animal Rights forum">Animal Rights</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6152, 'expand',1229363740);
-//--></script>
- <a href="/forum/list/Conspiracies/6152" title="Conspiracies forum">Conspiracies</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6201, 'expand',1229380626);
-//--></script>
- <a href="/forum/list/Election-2008/6201" title="Election 2008 forum">Election 2008</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6139, 'expand',1229072004);
-//--></script>
- <a href="/forum/list/Environment/6139" title="Environment forum">Environment</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(104, 'expand',1229436154);
-//--></script>
- <a href="/forum/list/Gender-Issues/104" title="Gender Issues forum">Gender Issues</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(105, 'expand',1229431676);
-//--></script>
- <a href="/forum/list/Racism/105" title="Racism forum">Racism</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6182, 'expand',1229352907);
-//--></script>
- <a href="/forum/list/Weather/6182" title="Weather forum">Weather</a><br></div><span onclick="toggleSub('subs10','fei10',1229440460);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(10, 'expand',1229440460);
-//--></script>
-</span> <a href="/forum/list/Random/10" title="Random forum">Random</a><br><div id="subs10" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(164, 'expand',1229368799);
-//--></script>
- <a href="/forum/list/Dreams/164" title="Dreams forum">Dreams</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(191, 'expand',1229424014);
-//--></script>
- <a href="/forum/list/Fashion/191" title="Fashion forum">Fashion</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6157, 'expand',1229439047);
-//--></script>
- <a href="/forum/list/Forum-Games/6157" title="Forum Games forum">Forum Games</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(169, 'expand',1229438394);
-//--></script>
- <a href="/forum/list/Funny-Pics-Videos/169" title="Funny Pics &amp; Videos forum">Funny Pics &amp; Videos</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(26, 'expand',1229031267);
-//--></script>
- <a href="/forum/list/Insults/26" title="Insults forum">Insults</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6195, 'expand',1228958088);
-//--></script>
- <a href="/forum/list/Is-it-true-/6195" title="Is it true? forum">Is it true?</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(126, 'expand',1229426829);
-//--></script>
- <a href="/forum/list/Jokes/126" title="Jokes forum">Jokes</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(194, 'expand',1211443567);
-//--></script>
- <a href="/forum/list/Journals/194" title="Journals forum">Journals</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6205, 'expand',1229405543);
-//--></script>
- <a href="/forum/list/Kudos/6205" title="Kudos forum">Kudos</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6178, 'expand',1229440218);
-//--></script>
- <a href="/forum/list/Look-At-Me-/6178" title="Look At Me! forum">Look At Me!</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6168, 'expand',1229315456);
-//--></script>
- <a href="/forum/list/Man-Talk/6168" title="Man Talk forum">Man Talk</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6177, 'expand',1229440490);
-//--></script>
- <a href="/forum/list/Member-Birthdays-/6177" title="Member Birthdays! forum">Member Birthdays!</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(25, 'expand',1229265119);
-//--></script>
- <a href="/forum/list/Pirates-Ninjas/25" title="Pirates &amp; Ninjas forum">Pirates &amp; Ninjas</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6161, 'expand',1229423803);
-//--></script>
- <a href="/forum/list/Quizzes/6161" title="Quizzes forum">Quizzes</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(192, 'expand',1229440291);
-//--></script>
- <a href="/forum/list/Rants-Raves/192" title="Rants &amp; Raves forum">Rants &amp; Raves</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6169, 'expand',1229440492);
-//--></script>
- <a href="/forum/list/Woman-Talk/6169" title="Woman Talk forum">Woman Talk</a><br></div><span onclick="toggleSub('subs6163','fei6163',1229350369);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(6163, 'expand',1229350369);
-//--></script>
-</span> <a href="/forum/list/Recreation/6163" title="Recreation forum">Recreation</a><br><div id="subs6163" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(91, 'expand',1229375275);
-//--></script>
- <a href="/forum/list/Cars/91" title="Cars forum">Cars</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(183, 'expand',1229350584);
-//--></script>
- <a href="/forum/list/Pets-Animals/183" title="Pets &amp; Animals forum">Pets &amp; Animals</a><br></div><span onclick="toggleSub('subs12','fei12',1229223874);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(12, 'expand',1229223874);
-//--></script>
-</span> <a href="/forum/list/Regional/12" title="Regional forum">Regional</a><br><div id="subs12" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(33, 'expand',1229414687);
-//--></script>
- <a href="/forum/list/Australia/33" title="Australia forum">Australia</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(161, 'expand',1226946018);
-//--></script>
- <a href="/forum/list/Canada/161" title="Canada forum">Canada</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(155, 'expand',1229358929);
-//--></script>
- <a href="/forum/list/United-Kingdom/155" title="United Kingdom forum">United Kingdom</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(38, 'expand',1159400502);
-//--></script>
- <a href="/forum/list/United-States/38" title="United States forum">United States</a><br></div><span onclick="toggleSub('subs14','fei14',1229440436);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(14, 'expand',1229440436);
-//--></script>
-</span> <a href="/forum/list/Relationships/14" title="Relationships forum">Relationships</a><br><div id="subs14" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(6155, 'expand',1229409239);
-//--></script>
- <a href="/forum/list/Bisexuality/6155" title="Bisexuality forum">Bisexuality</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(174, 'expand',1229408731);
-//--></script>
- <a href="/forum/list/Breaking-Up/174" title="Breaking Up forum">Breaking Up</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6156, 'expand',1229435182);
-//--></script>
- <a href="/forum/list/Friendships/6156" title="Friendships forum">Friendships</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(178, 'expand',1229428861);
-//--></script>
- <a href="/forum/list/Homosexuality/178" title="Homosexuality forum">Homosexuality</a><br></div><span onclick="toggleSub('subs6184','fei6184',1229440191);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(6184, 'expand',1229440191);
-//--></script>
-</span> <a href="/forum/list/Religion-Philosophy/6184" title="Religion &amp; Philosophy forum">Religion &amp; Philosophy</a><br><div id="subs6184" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(6185, 'expand',1229434408);
-//--></script>
- <a href="/forum/list/Atheism/6185" title="Atheism forum">Atheism</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(142, 'expand',1229440044);
-//--></script>
- <a href="/forum/list/Philosophy/142" title="Philosophy forum">Philosophy</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(121, 'expand',1229407393);
-//--></script>
- <a href="/forum/list/Religion/121" title="Religion forum">Religion</a><br></div><span onclick="toggleSub('subs13','fei13',1229213806);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(13, 'expand',1229213806);
-//--></script>
-</span> <a href="/forum/list/Science-Technology/13" title="Science &amp; Technology forum">Science &amp; Technology</a><br><div id="subs13" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(97, 'expand',1208335389);
-//--></script>
- <a href="/forum/list/Anthropology/97" title="Anthropology forum">Anthropology</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(93, 'expand',1228769156);
-//--></script>
- <a href="/forum/list/Astronomy/93" title="Astronomy forum">Astronomy</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(94, 'expand',1229094389);
-//--></script>
- <a href="/forum/list/Biology/94" title="Biology forum">Biology</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(95, 'expand',1228511749);
-//--></script>
- <a href="/forum/list/Chemistry/95" title="Chemistry forum">Chemistry</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(100, 'expand',1228591464);
-//--></script>
- <a href="/forum/list/Linguistics/100" title="Linguistics forum">Linguistics</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(101, 'expand',1229357016);
-//--></script>
- <a href="/forum/list/Math/101" title="Math forum">Math</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(96, 'expand',1229030333);
-//--></script>
- <a href="/forum/list/Physics/96" title="Physics forum">Physics</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(98, 'expand',1229298229);
-//--></script>
- <a href="/forum/list/Psychology/98" title="Psychology forum">Psychology</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(136, 'expand',1228838924);
-//--></script>
- <a href="/forum/list/Skepticism/136" title="Skepticism forum">Skepticism</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(99, 'expand',1229279767);
-//--></script>
- <a href="/forum/list/Sociology/99" title="Sociology forum">Sociology</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(141, 'expand',1229346839);
-//--></script>
- <a href="/forum/list/Statistics/141" title="Statistics forum">Statistics</a><br></div><span onclick="toggleSub('subs15','fei15',1229391204);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(15, 'expand',1229391204);
-//--></script>
-</span> <a href="/forum/list/Society-Lifestyles/15" title="Society &amp; Lifestyles forum">Society &amp; Lifestyles</a><br><div id="subs15" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(6173, 'expand',1229148081);
-//--></script>
- <a href="/forum/list/History/6173" title="History forum">History</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6159, 'expand',1229440306);
-//--></script>
- <a href="/forum/list/Kids/6159" title="Kids forum">Kids</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(149, 'expand',1228947364);
-//--></script>
- <a href="/forum/list/Law/149" title="Law forum">Law</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6203, 'expand',1229439804);
-//--></script>
- <a href="/forum/list/Manners-Etiquette/6203" title="Manners &amp; Etiquette forum">Manners &amp; Etiquette</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(143, 'expand',1229434920);
-//--></script>
- <a href="/forum/list/Paranormal/143" title="Paranormal forum">Paranormal</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(172, 'expand',1229287923);
-//--></script>
- <a href="/forum/list/Parenting/172" title="Parenting forum">Parenting</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(106, 'expand',1229381339);
-//--></script>
- <a href="/forum/list/Subcultures/106" title="Subcultures forum">Subcultures</a><br></div><span onclick="toggleSub('subs16','fei16',1229363852);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(16, 'expand',1229363852);
-//--></script>
-</span> <a href="/forum/list/Sports/16" title="Sports forum">Sports</a><br><div id="subs16" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(6204, 'expand',1226240367);
-//--></script>
- <a href="/forum/list/2008-Summer-Olympics/6204" title="2008 Summer Olympics forum">2008 Summer Olympics</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6146, 'expand',1218511338);
-//--></script>
- <a href="/forum/list/Baseball/6146" title="Baseball forum">Baseball</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6147, 'expand',1228070860);
-//--></script>
- <a href="/forum/list/Basketball/6147" title="Basketball forum">Basketball</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6148, 'expand',1229371011);
-//--></script>
- <a href="/forum/list/Cycling/6148" title="Cycling forum">Cycling</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6149, 'expand',1229343875);
-//--></script>
- <a href="/forum/list/Football/6149" title="Football forum">Football</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6150, 'expand',1229395778);
-//--></script>
- <a href="/forum/list/Hockey/6150" title="Hockey forum">Hockey</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6200, 'expand',1226958090);
-//--></script>
- <a href="/forum/list/Motorsports/6200" title="Motorsports forum">Motorsports</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6154, 'expand',1227857703);
-//--></script>
- <a href="/forum/list/Rugby/6154" title="Rugby forum">Rugby</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6151, 'expand',1228553494);
-//--></script>
- <a href="/forum/list/Soccer/6151" title="Soccer forum">Soccer</a><br></div><span onclick="toggleSub('subs165','fei165',1229423578);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(165, 'expand',1229423578);
-//--></script>
-</span> <a href="/forum/list/Teens/165" title="Teens forum">Teens</a><br><div id="subs165" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(6179, 'expand',1229207106);
-//--></script>
- <a href="/forum/list/Cliques/6179" title="Cliques forum">Cliques</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6181, 'expand',1229415968);
-//--></script>
- <a href="/forum/list/Future-Plans/6181" title="Future Plans forum">Future Plans</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6180, 'expand',1229300928);
-//--></script>
- <a href="/forum/list/School/6180" title="School forum">School</a><br></div><span onclick="toggleSub('subs1','fei1',1152394856);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(1, 'expand',1152394856);
-//--></script>
-</span> <a href="/forum/list/The-Forum-Site/1" title="The Forum Site forum">The Forum Site</a><br><div id="subs1" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(193, 'expand',1214813734);
-//--></script>
- <a href="/forum/list/Archive/193" title="Archive forum">Archive</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(21, 'expand',1229011141);
-//--></script>
- <a href="/forum/list/Feedback-Suggestions/21" title="Feedback &amp; Suggestions forum">Feedback &amp; Suggestions</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(163, 'expand',1218597446);
-//--></script>
- <a href="/forum/list/Frequently-Asked-Questions/163" title="Frequently Asked Questions forum">Frequently Asked Questions</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(92, 'expand',1229406055);
-//--></script>
- <a href="/forum/list/New-Members/92" title="New Members forum">New Members</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(175, 'expand',1229311045);
-//--></script>
- <a href="/forum/list/Site-Support/175" title="Site Support forum">Site Support</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(179, 'expand',1229292654);
-//--></script>
- <a href="/forum/list/Test-Forum/179" title="Test Forum forum">Test Forum</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(6183, 'expand',1228867444);
-//--></script>
- <a href="/forum/list/Testimonials/6183" title="Testimonials forum">Testimonials</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(3, 'expand',1229119456);
-//--></script>
- <a href="/forum/list/TFS-News-Notices/3" title="TFS News &amp; Notices forum">TFS News &amp; Notices</a><br>
-<script language="Javascript" type="text/javascript"><!--
- write_image(20, 'expand',1229424771);
-//--></script>
- <a href="/forum/list/The-Forumhole/20" title="The Forumhole forum">The Forumhole</a><br></div><span onclick="toggleSub('subs6164','fei6164',1229436222);" style="cursor: pointer;">
-<script language="Javascript" type="text/javascript"><!--
- write_image(6164, 'expand',1229436222);
-//--></script>
-</span> <a href="/forum/list/Travel/6164" title="Travel forum">Travel</a><br><div id="subs6164" style="display: none;margin-left:10">
-<script language="Javascript" type="text/javascript"><!--
- write_image(6172, 'expand',1227498530);
-//--></script>
- <a href="/forum/list/The-Great-Outdoors/6172" title="The Great Outdoors forum">The Great Outdoors</a><br></div></small></td></tr></tbody></table><br><table width="100%" bgcolor="#ffffff" cellpadding="3" cellspacing="1">
-	<tbody><tr><td bgcolor="#ffcc00" align="center" background="/images/fade_orange.gif">
-		<font size="2" color="#ffffff"><b>Search</b></font></td></tr><tr><td bgcolor="#ffffff">
-<center>
-<small><form style="margin-bottom:0" action="/search.php" method="GET"><input size="10" type="text" name="keyword"><br><input type="submit" value="Search forums">
-</form></small>
-</center>
-</td></tr></tbody></table>
-<br>
-<table width="100%" bgcolor="#ffffff" cellpadding="3" cellspacing="1">
-	<tbody><tr><td bgcolor="#ffcc00" align="center" background="/images/fade_orange.gif">
-		<font size="2" color="#ffffff"><b>Mobile</b></font></td></tr><tr><td bgcolor="#ffffff">
-<small>
-<img src="/images/arrow_orange_sm.gif"> <a href="http://theforumsite.ringtone-logo-game.com/">Ring Tones</a><br>
-<img src="/images/arrow_orange_sm.gif"> <a href="http://theforumsite.play-mobilegame.com/">Java Games</a>
-</small>
-</td></tr></tbody></table>
-<br>
-
-<table width="100%" bgcolor="#ffffff" cellpadding="3" cellspacing="1">
-	<tbody><tr><td bgcolor="#ffcc00" align="center" background="/images/fade_orange.gif">
-		<font size="2" color="#ffffff"><b>Featured Member Sites</b></font></td></tr><tr><td bgcolor="#ffffff">
-<small>
-<a href="http://carbon.liquidweb.com/~mangopho">Mango Photos</a><br>
-Framed prints, postcards and more from photographer Jill Langlois.
-</small>
-
-</td></tr></tbody></table>
-
-
-
-<br>
-</td>		<td bgcolor="#FFFFFF" valign="top" width="100%">
-
-<table cellpadding="8" bgcolor="#c7dad4" align="center"><tbody><tr><td valign="top" colspan="2" align="center">
-<img src="/images/why.png">
-
-</td></tr><tr><td valign="top" align="center">
-<img src="/images/why-star.gif"> Post in Forums <br>
-<img src="/images/why-star.gif"> Create a Profile <br>
-<img src="/images/why-star.gif"> Upload Pictures <br>
-</td><td valign="top" align="center">
-<img src="/images/why-star.gif"> Keep a Journal <br>
-<img src="/images/why-star.gif"> Meet Friends <br>
-<img src="/images/why-star.gif"> It's FREE! <br>
-</td>
-</tr><tr><td align="center" colspan="2">
-
-<a href="http://www.theforumsite.com/register.php?invite=2760-PN-noboo_e6b65b0f22eaef" style="font-weight:bold;font-family:verdana,arial;font-size:18px;background-color:cc6600;color:ffffff;text-decoration:none;border:1px solid 000000;padding:2px;">Sign Up!</a>
-
-</td></tr></tbody></table>
-
-
-TheForumSite.com Privacy Policy
+<div id="amazonad" style="display:none;"><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2F&amp;tag=plebiuspress&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325" target="_blank">Amazon.com</a> Books - Video - Electronics</div>
+<h1>Privacy Policy</h1>
+Updated 7/23/2009
 <p>
-</p><blockquote>
-We collect personal information on this site.  We will not sell, rent or otherwise provide any of your personal information to any third parties except in the case where required by a court of law.
-We may use general demographic information for marketing purposes.  This excludes any and all information that could allow
-them to personally identify you.  We may provide information to law enforcement and emergency officials if we believe you are an imminent danger to yourself or others, or in the case that you use TheForumSite.com to break the law, such as by uploading child pornography or soliciting a child for sex.  In addition, 3rd party advertisers may employ cookies and/or web beacons in the ad serving process.  See your web browser's documentation for information on cookie management.
 
-</blockquote>
+TheForumSite.com may share your personal information and communications with 3rd parties in the following circumstances:
+</p><ol>
+  <li>By subpeona or court order or in criminal investigations.
+  </li><li>If we have reason to believe you are an imminent danger to yourself or others.
+  </li><li>In the case we have reason to believe you have violated the rights of others, including without limitation intellectual property rights.
+  </li><li>In the case we have reason to believe you have used our service to break any law, such as by uploading child pornography.
+  </li><li>In the case of the merger and/or acquisition of TheForumSite.com and/or Funky Llama Productions.
+</li></ol>
 
+In addition, 3rd party advertisers may employ the use of cookies and/or web beacons in the ad serving process.  See your browser documentation for information on cookie management.
+<p>
+We employ the use of tracking techniques used to monitor how people use this site.  These are only used to establish general trends and we are not able to link a specific action to a particular person or computer.
+</p><p>
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.google.com/privacy_ads.html">click here</a>.
+</p><p>
+Our moderators, staff or administrators may view any content you post including content marked "friends only" or "private", which the exception of private messages which may only be accessed in the case of a criminal investigation or if they are reported site moderators or administrators by the recipient.
 
-
-</td></tr></tbody></table>
 
 <!-- END CONTENT -->
 
+</p><center>
+<div id="tbleaderboard">
+<script type="text/javascript"><!--
+google_ad_client = "pub-5460553490594536";
+/* TFS 728x90, created 3/12/10 */
+google_ad_slot = "6112448606";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+</center>
+
+
 <!--FOOTER-->
-<p align="center">
-<font color="#ffffff">
-TFS Time: Tue 16 Dec 2008 09:15 am CST<br>
+<div class="footer" style="width:100%;margin:auto;height:90px;">
+<div style="float:right;width:180px;height:90px;">
+<a href="http://m.maploco.com/details/7337"><img style="border:0px;" src="http://www.maploco.com/vmap/s/7.png" alt="Locations of Site Visitors" title="Locations of Site Visitors"></a>  
+</div>
+
 <small>
-Copyright © 2004-2008 Funky Llama Productions, LLC &nbsp;&nbsp;|&nbsp;&nbsp; 
+TFS Time: Thu 29 Dec 2011 01:23 am EST<br>
+Copyright © 2004-2011 Funky Llama Productions, LLC &nbsp;&nbsp;|&nbsp;&nbsp; 
 <a href="/">Home</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
 <a href="/contact.php">Contact</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
 <a href="/privacy.php">Privacy Policy</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-<a href="/tos.php">Terms of service</a>
+<a href="/tos.php">Terms of Service</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+<a href="/privacy.php#top">Top of Page</a>&nbsp;&nbsp;|&nbsp;&nbsp;Full Site&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://m.theforumsite.com/?noredir">Mobile Site</a>
 <br>
-Proudly hosted by <a href="http://www.liquidweb.com/?RID=plebius">Liquid Web</a><br>
 
 </small>
-</font>
-</p>
+</div>
+
 <!--END FOOTER-->
-
 </div>
 
-<!-- SiteSearch Google -->
-<form method="get" action="http://www.theforumsite.com/gsearch.php" target="_top" style="margin-top:0px; margin-bottom:0px;position:absolute;top:5px;left:565px;z-index:20;">
-<table border="0" bgcolor="#000000">
-<tbody><tr><td nowrap="nowrap" valign="top" align="left" height="32">
-
-</td>
-<td nowrap="nowrap">
-<input type="hidden" name="domains" value="TheForumSite.com">
-<label for="sbi" style="display: none">Enter your search terms</label>
-<input style="font-size:10px;" type="text" name="q" size="20" maxlength="255" value="" id="sbi">
-<label for="sbb" style="display: none">Submit search form</label>
-<input style="font-size:10px;" type="submit" name="sa" value="Google Search" id="sbb">
-</td></tr>
-<tr>
-<td>&nbsp;</td>
-<td nowrap="nowrap">
-<table>
-<tbody><tr>
-<td>
-<input style="font-size:10px;" type="radio" name="sitesearch" value="" id="ss0">
-<label for="ss0" title="Search the Web"><font size="-1" color="white">Web</font></label></td>
-<td>
-<input style="font-size:10px;" type="radio" name="sitesearch" value="TheForumSite.com" checked="" id="ss1">
-<label for="ss1" title="Search TheForumSite.com"><font size="-1" color="white">TheForumSite.com</font></label></td>
-</tr>
-</tbody></table>
-<input type="hidden" name="client" value="pub-5460553490594536">
-<input type="hidden" name="forid" value="1">
-<input type="hidden" name="channel" value="7560137813">
-<input type="hidden" name="ie" value="ISO-8859-1">
-<input type="hidden" name="oe" value="ISO-8859-1">
-<input type="hidden" name="cof" value="GALT:#FFCC00;GL:1;DIV:#FFFFFF;VLC:336699;AH:center;BGC:FFFFFF;LBGC:000000;ALC:3366FF;LC:3366FF;T:000000;GFNT:3366FF;GIMP:3366FF;LH:50;LW:271;L:http://www.theforumsite.com/images/logo.gif;S:http://www.theforumsite.com/;FORID:11">
-<input type="hidden" name="hl" value="en">
-</td></tr></tbody></table>
-</form>
-<!-- SiteSearch Google -->
-
-
-
-<div class="tfs_header">
-
-	<table width="100%" cellpadding="0" cellspacing="0"><tbody><tr><td align="left" valign="top">
-	<a href="http://www.theforumsite.com/" target="_top"><img align="left" width="325" height="79" src="/images/logo.png" border="0" alt="The Forum Site - Your premier source for everything"></a>
-	</td><td align="right" valign="middle">
-		</td></tr></tbody></table>
-</div>
-
-
-<ul id="NavMenuList"><li> <a href="/" id="Menuhome" class="preextra" title="Home"><b>Home</b></a> <a href="javascript:void(0);" id="MenuExtrahome" onclick="javascript:show('home')" class="extra" title="Click for options"><img src="/images/nav/arrow-down.gif" border="0" style="margin-left:0px;margin-right:0px;"></a> </li><ul class="NavSubMenuList" id="SubMenuhome">
+<ul id="NavMenuList"><li> <a href="/" id="Menuhome" class="preextra" title="Home">Home</a> <a href="#" id="MenuExtrahome" onclick="show('home');return false;" class="extra"><img src="http://c.tfster.com/images/nav/arrow-down.gif" border="0" alt="home" width="15" height="15"></a> </li><ul class="NavSubMenuList" id="SubMenuhome">
 						<li> <a href="/forum/">Forums</a> </li> 
 					
-						<li> <a href="/pics.php">Pictures</a> </li> 
+						<li> <a href="/pics.php">Photos</a> </li> 
 					
 						<li> <a href="/blog.php">Journals</a> </li> 
 					
-						<li> <a href="/polls.php">Polls</a> </li> 
-					
 						<li> <a href="/usersearch.php">Members</a> </li> 
 					
-						<li> <a href="/reviews.php">Reviews</a> </li> 
-					
-						<li> <a href="/shop.php">Shop</a> </li> 
-					
 						<li> <a href="/forum/list/FAQ/163">FAQ</a> </li> 
-					</ul><li> <a href="/blog.php" id="Menujournal" class="preextra" title="Journals"><b>Journals</b></a> <a href="javascript:void(0);" id="MenuExtrajournal" onclick="javascript:show('journal')" class="extra" title="Click for options"><img src="/images/nav/arrow-down.gif" border="0" style="margin-left:0px;margin-right:0px;"></a> </li><ul class="NavSubMenuList" id="SubMenujournal">
-						<li> <a href="/friends.php">Friends</a> </li> 
-					
-						<li> <a href="/comments.php?newblog=">Update</a> </li> 
-					
-						<li> <a href="/editprofile.php?mode=blogprefs">Preferences</a> </li> 
-					
-						<li> <a href="/xml.php?mode=blog"><img src="/images/rss.jpg" border="0"></a> </li> 
-					</ul><li> <a href="/forum/" id="Menuposts" class="preextra" title="Forums"><b>Forums</b></a> <a href="javascript:void(0);" id="MenuExtraposts" onclick="javascript:show('posts')" class="extra" title="Click for options"><img src="/images/nav/arrow-down.gif" border="0" style="margin-left:0px;margin-right:0px;"></a> </li><ul class="NavSubMenuList" id="SubMenuposts">
+					</ul><li> <a href="/forum/" id="Menuposts" class="preextra" title="Forums">Forums</a> <a href="#" id="MenuExtraposts" onclick="show('posts');return false;" class="extra"><img src="http://c.tfster.com/images/nav/arrow-down.gif" border="0" alt="posts" width="15" height="15"></a> </li><ul class="NavSubMenuList" id="SubMenuposts">
 						<li> <a href="/search.php?mode=newtopics">New Topics</a> </li> 
 					
 						<li> <a href="/search.php?mode=newposts">Recent Posts</a> </li> 
 					
 						<li> <a href="/search.php?mode=toptopics">Top Topics</a> </li> 
-					</ul><li> <a href="/friends.php" id="Menufriends" class="preextra" title="Friends"><b>Friends</b></a> <a href="javascript:void(0);" id="MenuExtrafriends" onclick="javascript:show('friends')" class="extra" title="Click for options"><img src="/images/nav/arrow-down.gif" border="0" style="margin-left:0px;margin-right:0px;"></a> </li><ul class="NavSubMenuList" id="SubMenufriends">
-						<li> <a href="/invite.php">Invite</a> </li> 
-					
-						<li> <a href="/usersearch.php">Find</a> </li> 
-					</ul><li> <a href="/pics.php" id="Menupics" class="preextra" title="Pictures"><b>Pictures</b></a> <a href="javascript:void(0);" id="MenuExtrapics" onclick="javascript:show('pics')" class="extra" title="Click for options"><img src="/images/nav/arrow-down.gif" border="0" style="margin-left:0px;margin-right:0px;"></a> </li><ul class="NavSubMenuList" id="SubMenupics">
-						<li> <a href="/pics.php?mode=rand">Rate</a> </li> 
-					
-						<li> <a href="/editpics.php">Upload</a> </li> 
-					</ul><li> <a href="/polls.php" id="Menupolls" class="preextra" title="Polls"><b>Polls</b></a> <a href="javascript:void(0);" id="MenuExtrapolls" onclick="javascript:show('polls')" class="extra" title="Click for options"><img src="/images/nav/arrow-down.gif" border="0" style="margin-left:0px;margin-right:0px;"></a> </li><ul class="NavSubMenuList" id="SubMenupolls">
-						<li> <a href="/editpolls.php">My Polls</a> </li> 
-					
-						<li> <a href="/editpolls.php">Create</a> </li> 
-					</ul><li> <a href="/login.php" id="Menulogout" class="preextra" title="Log In"><b>Log In</b></a> <a href="javascript:void(0);" id="MenuExtralogout" class="extra"><img src="/images/blank.gif" border="0" height="26" width="5"></a></li><ul class="NavSubMenuList" id="SubMenulogout"></ul><li> <a href="/register.php?invite=2760-PN-noboo_e6b65b0f22eaef" id="Menuregister" class="preextra" title="&nbsp;Sign Up!&nbsp;&nbsp;"><b><span class="NavMenReg">&nbsp;Sign Up!</span><span class="NavMenRegExtra">&nbsp;&nbsp;</span></b></a> <a href="javascript:void(0);" id="MenuExtraregister" class="extra"><img src="/images/blank.gif" border="0" height="26" width="5"></a></li><ul class="NavSubMenuList" id="SubMenuregister"></ul></ul>
+					</ul><li> <a href="/blog.php" id="Menujournal" class="preextra" title="Journals">Journals</a> <a href="#" id="MenuExtrajournal" onclick="show('journal');return false;" class="extra"><img src="http://c.tfster.com/images/nav/arrow-down.gif" border="0" alt="journal" width="15" height="15"></a> </li><ul class="NavSubMenuList" id="SubMenujournal">
+						<li> <a href="/register.php">Create New</a> </li> 
+					</ul><li> <a href="/pics.php" id="Menupics" class="preextra" title="Photos">Photos</a> <a href="#" id="MenuExtrapics" onclick="show('pics');return false;" class="extra"><img src="http://c.tfster.com/images/nav/arrow-down.gif" border="0" alt="pics" width="15" height="15"></a> </li><ul class="NavSubMenuList" id="SubMenupics">
+						<li> <a href="/register.php">Upload</a> </li> 
+					</ul><li> <a href="/login.php" id="Menupm" class="preextra" title="Login "><span style="margin-right:15px;">Login</span> </a></li><li> <a href="/register.php" id="Menulogin" class="preextra" title="Join Now">Join Now</a></li><form class="gsearchbox" action="http://www.theforumsite.com/gsearch.php" id="cse-search-box">  <div>    <input type="hidden" name="cx" value="partner-pub-5460553490594536:wjdzdzyj3ue">    <input type="hidden" name="cof" value="FORID:10">    <input type="hidden" name="ie" value="ISO-8859-1">    <input type="text" name="q" size="16">    <input type="submit" name="sa" value="Search">  </div></form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script></ul>
 
 <script type="text/javascript">
 <!--
@@ -905,14 +206,48 @@ document.body.addKeyDown(115, function() {if (window.event.altKey) document.post
 
 </script>
 
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 <script type="text/javascript">
-_uacct = "UA-178304-1";
-urchinTracker();
+<!--
+show(menu_to_show);
+//-->
 </script>
 
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-178304-1");
+pageTracker._setCustomVar(1, 'ismember', 'no', 1);
+pageTracker._setCustomVar(2, 'ba', '',1);
+pageTracker._setLocalRemoteServerMode();
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+
+<script language="Javascript">
+<!--
+if(typeof( window[ 'google_ad_width' ] ) != "undefined") {
+	if(google_ad_width == null) {
+		//nab
+			} else {
+		sba();
+	}
+} else {
+	sba();
+}
+
+function sba() {
+	$('#amazonad').show();
+	$('#tfs_hb').load('/a/h.php');
+		
+}
+//-->
+</script>
 
 
 
