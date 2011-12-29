@@ -1,127 +1,100 @@
-> *The following text is extracted and transformed from the internethomebusinessarticles.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209022027id_/http%3A//www.internethomebusinessarticles.com/01privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internethomebusinessarticles.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Statement
+# Legal Agreement
 
-  
-InternetHomeBusinessArticles.com Privacy Statement
+**Go Daddy Respects Your Privacy**
 
-In order to demonstrate our commitment to our visitors’ privacy, we disclose our information practices. We will keep to these practice guidelines on ALL occasions in our dealings with you. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-You won't find a long winded, attorney-driven, hard-to-understand Privacy Statement here. Simply put: 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-We will NEVER distribute, share or sell any personal information we collect on our website to any third party.  
-We will NEVER spam your email address. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-If you are interested, here are the details on information collection and use at InternetHomeBusinessArticles.com. 
+**Information Collection and Use**
 
-Information Collection 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-InternetHomeBusinessArticles.com is the sole owner of the information collected on this site. We collect information from our visitors at several different points. 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Newsletter  
-If a visitor wishes to subscribe our newsletter, we ask for contact information such as name and email address. We then send newsletters to visitor's email address. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-Autoresponder  
-When a visitor requests information such as our free e-book, courses, etc, by sending email to our autoresponder, the visitor's email address is logged. The requested information will be sent out automatically. 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-This includes not only filling up a form at our website. The same progress happens whenever a visitor sends email to our autoresponder, through a form at our site, using his/her own email client, from another website, from newsgroup... 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Order  
-We, or our credit card processing partner, request information from customer on our order form. A customer must provide contact information (such as name, email address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the customer. 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Feedback form  
-Visitors may communicate with us by filling out feedback form at our website. The feedback content itself together with related email address will be stored for our future reference. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-Communication  
-Visitors may communicate with us by sending emails to our email address stated on our website. This includes, but not limited to, feedback, sales information, technique support, order enquire, etc. 
+**Security**
 
-The communication content itself together with related email address will be stored for our future reference and for us to serve visitors better. 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-Tell a Friend  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. 
+**Updating Your Information**
 
-Information Use 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-Cookies  
-A cookie is a piece of data stored on the visitor’s computer tied to information about the visitor. However, usage of a cookie is in no way linked to any personally identifiable information while on our site. Cookies can be removed any time from visitor's computer. Refer browser help file for instructions. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-By setting a cookie on our site, first time visitors would see a popup window inviting him/her to subscribe our newsletter. Cookies enable us to track whether he/she is a returning visitor. If a visitor comes back to our site within a short period of time (2 days, for example), the popup window will not appear again. 
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-Third Party Advertising  
-The ads appearing on this web site are delivered to visitors by our web advertising partner. Information about visit to this site, such as number of times visitors have viewed an ad (but not email address, or other personal information), is used to serve ads to users on this site. For more information about our web advertising partner, cookies, and how to "opt-out", please visit our web advertising partner's site. 
+      iii.      You may call us at: (480) 505-8800
 
-This privacy statement covers the use of cookies by InternetHomeBusinessArticles.com only and does not cover the use of cookies by any advertisers. 
+       iv.      You may fax us at: (480) 505-8844
 
-Log Files  
-Like most standard web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track visitor’s movement in the aggregate, and gather broad demographic information for aggregate use. These information are not linked to personally identifiable information. 
+**Sending Emails**
 
-Newsletter  
-We send confirmation and welcome message to subscribers once they subscribe our free newsletter. Regular newsletters will then be sent to subscribers. The frequency we send newsletter is stated at the relative newsletter subscription page. 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-Out of respect for our subscribers privacy, we provide a way to opt-out (unsubscribe) of our newsletter. Please see also the Choice and Opt-out sections. 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-We will never distribute, share or sell subscribers' personal information to any third party unless it's requested by law. 
+**Compliance with Laws and Law Enforcement**
 
-Service Announcements  
-On rare occasions it is necessary to send out a strictly service related announcement to our newsletter subscribers and customers. For instance, if our service is temporarily suspended for maintenance, we might send them an email. These communications are not promotional in nature. 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-Customer Service  
-We communicate with visitors and customers to provide requested services and information, in accordance with the their wishes. We will try to answer all correspondence in a timely fashion. 
+**Third Party Service Providers**
 
-Aggregate Information (non-personally identifiable)  
-We may need to reveal aggregated demographic information to our advertisers in the future. This is normally necessary to get quality sponsors and advertisers. These information are not linked to any personally identifiable information. 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-Tell-A-Friend  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. We will automatically send the friend a one-time email inviting them to visit the site. We store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact us to request the removal of this information from our database. 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-Legal Disclaimer  
-Though we make every effort to preserve visitor privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our website. 
+**Supplementation of Information**
 
-Third Party Intermediaries We use a credit card processing company to bill users for goods and services. The company does not retain, share, store or use personally identifiable information for any secondary purposes. 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-Business Transitions  
-In the event InternetHomeBusinessArticles.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, visitors’ personal information will, in most instances, be part of the assets transferred. Subscribers and customers will be notified via prior to a change of ownership or control of their personal information. If as a result of the business transition, the visitors’ personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section. 
+**Contests/Surveys**
 
-Choice/Opt-out  
-Our subscribers and customers are given the opportunity to opt-out of having their information used by us. 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-Visitors who no longer wish to receive our newsletter and other communications may opt-out of receiving these communications by clicking the unsubscribe link in the newsletter or email us at: [webmaster@InternetHomeBusinessArticles.com](mailto:webmaster@InternetHomeBusinessArticles.com)
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-Links  
-This web site contains links to other sites. Please be aware that we, InternetHomeBusinessArticles.com, are not responsible for the privacy practices of such other sites. We encourage our visitors to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
+**Tell-A-Friend**
 
-Surveys & Contests  
-From time to time our site may request information from visitors via surveys or contests. Participation in these surveys or contests is completely voluntary and the visitors (and subscribers, customers) therefore have a choice whether or not to disclose this information. 
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Personally identifiable information is not shared with third parties unless requested by law. 
+**What Happens to my Personal Information if I Opt Out?**
 
-Security  
-This web site takes every precaution to protect our users’ information. When users submit sensitive information via the web site, their information is protected both online and off-line. 
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-When our order form asks customers to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just ‘surfing’. 
+**Transfer of Data Abroad**
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our visitors’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices. 
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-If visitors have any questions about the security at our web site, visitors can send an email to:   
-[webmaster@InternetHomeBusinessArticles.com](mailto:webmaster@InternetHomeBusinessArticles.com)
+**Changes in Our Practices**
 
-Children   
-InternetHomeBusinessArticles.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe we have received any information from or about anyone under 13, please contact us at the address listed below. 
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-Notification of Changes  
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our visitors are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-If, however, we are going to use visitors’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect visitor information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+**Contacting Our Site**
 
-Contact Information  
-If users have any questions or suggestions regarding our privacy policy, please contact us at: 
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-Email:  
-[webmaster@InternetHomeBusinessArticles.com](mailto:webmaster@InternetHomeBusinessArticles.com)
+* * *
 
-Address:  
-2 Bombay Street  
-Belfast  
-BT13 2RX  
-Ireland   
-
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
