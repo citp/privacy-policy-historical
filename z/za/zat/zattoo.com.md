@@ -1,107 +1,84 @@
-> *The following text is extracted and transformed from the zattoo.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109004744id_/http%3A//zattoo.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zattoo.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229213833id_/http%3A//corporate.zattoo.com/datenschutz) for the most accurate reproduction.*
 
-# Zattoo Privacy Policy | Zattoo - watch online TV
+# Privacy Policy | Zattoo
 
-Edition October 2008
+Zattoo Data Protection Agreement
 
-All capitalized terms used herein shall have the same meaning as defined in the General Terms and Conditions of Use. 
+As of June 2011
 
-## 1\. DATA COLLECTED AND PROCESSED
+Zattoo refers to the respective services of Zattoo Switzerland Ltd. or to the company itself.
 
-When registering for the Services or using the Services, certain personal data of User is collected and processed in compliance with the European and Swiss data protection provisions. Collected personal data includes or may include in the future, email address, name, postal address, accounting information, age, gender, language, income, education, employment, hobbies and preferences, service usage and IP addresses. 
+Zattoo Europa AG, Zattoo Schweiz AG and Zattoo International AG, all registered at Elias Canetti-Strasse 7, CH-8050 Zürich, Switzerland, take the protection of users’ personal data very seriously. This Data Protection Agreement regulates the recording, processing and sharing of its users’ personal data by Zattoo, in accordance with European and Swiss Data Protection legislature. It applies in conjunction with Zattoo’s General Terms and Conditions.
 
-## 2\. TRANSFER TO AFFILIATES AND RELATED ENTITIES
+1\. SUBJECT OF THE DATA PROTECTION AGREEMENT AND RESPONSIBLE OFFICE
 
-By registering for or using the Services, User acknowledges and agrees that User’s personal data will be transferred to or will be accessible at least by following entities for the purposes set out hereafter:
+This Data Protection Agreement applies to all services offered by Zattoo. It exclusively regulates – where not expressly mentioned elsewhere – how Zattoo uses your personal data. The address responsible for data processing is: Zattoo Switzerland Ltd., Elias Canetti-Strasse 7, CH-8050 Zürich, Switzerland. As far as these services employ the services of third parties, the data protection conditions of these third parties shall apply exclusively.
 
-Zattoo Europe Ltd, Elias-Canetti-Strasse 7, CH-8050 Zurich, Switzerland;  
-Zattoo International Ltd, Elias-Canetti-Strasse 7, CH-8050 Zurich, Switzerland;  
-Zattoo Inc., 1327 Jones Dr, Suite 106, Ann Arbor, MI 48105, USA
+2\. DATA COLLECTION
 
-## 3\. EXPORT OF DATA
+Upon registration, as well as during usage, certain personal data of the User are collected and processed. These include, or may in future include: E-mail address, name, postal address, payment information, birth date, gender, language, income, education, household, job, consumer habits, hobbies, preferred activities and usage of the services.  
+Also during usage of our services, certain other data will be automatically transferred from your computer to us and saved on our servers, for example: IP address, browser type and access times. Excluding for the prevention of illegitimate usage of our online offering, we only use these data to monitor statistics and generate performance reports. Such data are, as far as possible, made anonymous.  
+Zattoo can, by identifying users with user IDs and by using cookies, collect data about users’ usage of its services, e.g. IP addresses, television channels and advertisements presented. Cookies are small data files that are saved on the User’s computer and managed by the User’s web browser. Cookies allow, among other things: faster, personalized access to websites. The User can delete cookies from within the web browser at any time, or configure the browser not to save cookies. The User recognizes and accepts that deleting cookies can have a negative effect on the quality and performance of our services.
 
-User acknowledges and agrees that even if User is a resident of another country or uses the Services in another country, User’s personal data will be collected and processed in Switzerland. 
+3\. SHARING OF DATA WITH AFFILIATED COMPANIES OR THIRD PARTIES
 
-User acknowledges and agrees that Zattoo may transfer and export the data to other countries, including the USA, even if such country does not offer the same level of data protection as Switzerland or User’s country of residence. Zattoo warrants an adequate level of data protection. 
+By registering or using our services, the User acknowledges and permits that his or her personal data may be made accessible to, or shared with the following companies:  
+Zattoo Europa AG, Elias Canetti-Strasse 7, CH-8050 Zürich, Switzerland  
+Zattoo Schweiz AG, Elias Canetti-Strasse 7, CH-8050 Zürich, Switzerland  
+Zattoo International AG, Elias Canetti-Strasse 7, CH-8050 Zürich, Switzerland  
+Furthermore, Zattoo shares personal data collected from users with certain third parties for certain purposes: to payment collectors (e.g. credit card companies, banks, PayPal, mobile telecommunications providers, collection agencies), companies offering statistical services, companies offering IT services (e.g. data processing centres, hosting providers, backup services, database services). These service providers only have access to your personal data to the extent necessary for the performance of their respective services.  
+The companies listed, as well as the service providers, are obliged to process your personal data in accordance with this Data Protection Agreement, and with the data protection legislature in force.
 
-## 4\. SERVICE USAGE
+4\. TRANSMISSION OF DATA ABROAD
 
-Each time the User accesses the Services, User’s login credentials and User’s permissions to access pay services are verified. If User selects the appropriate option in the Zattoo player, such login credentials will be automatically transmitted to Zattoo every time User starts the player. 
+The User acknowledges and permits that his or her data will be collected and processed in Switzerland, even when the User lives in or accesses our services from another country. The User acknowledges and permits that Zattoo may transmit the personal data to other countries, including the USA, even when such countries do not follow a corresponding level of data protection as Switzerland or the User’s home country. In this case Zattoo ensures an appropriate level of data protection.
 
-Each time the User accesses the Services, Zattoo uses the IP address of User for the geographic location of User to define the channels available to User. To the extent required by applicable law, Zattoo will also use the address of User for such geographic location. 
+5\. USAGE OF DATA
 
-Zattoo may collect data on User’s usage of the Services such as IP address, TV channels and advertisements viewed, time and duration of a session, connectivity information, error codes. The usage data is not directly linked to User’s registration information, but processed pseudonymously by using a unique numerical UserID assigned by the system. 
+a. SERVICE USAGE
 
-Zattoo may also use the data on the usage of the Services to compile statistics on usage patterns and may provide such statistics to third parties. 
+Zattoo uses personal data to substantiate your user relationship with Zattoo, and for the collection of payments.  
+When the User accesses our services, Zattoo checks the IP address to verify which country the User is in and to ascertain which channels the User may access.  
+Zattoo can collect and process data on the User’s usage of its services, e.g. IP addresses, channels and advertising viewed, the time and duration of sessions, connection information, problem reports. These usage data are not directly connected with the User’s personal data; rather they are processed on the basis of a numerical User ID given by the system.  
+Zattoo may also use data collected on usage of its services to compile anonymous statistics on Users’ behaviour and share these statistics with third parties.
 
-## 5\. REPORTING TO COPYRIGHT HOLDERS
+b. INVOICING AND CALCULATION OF INTELLECTUAL PROPERTY ROYALTIES
 
-Zattoo uses the usage data to report regularly to copyright holders such as broadcasters and collecting societies on the viewing of their content and to pay the applicable royalties. Such reporting is done with aggregate data without disclosing any of User’s personal data. The copyright holders have rights to audit Zattoo’s reports and to access the usage data for that purpose, subject to appropriate confidentiality undertakings. 
+Should the User subscribe to services that involve charges, Zattoo will collect and process payment information. Zattoo may, for this purpose, also involve third parties as payment processors.  
+Zattoo uses the data it collects on usage of its services for regular reporting to the intellectual rights owners (e.g. broadcasting services and collecting societies) regarding viewer numbers of their content and for the calculation of the respective royalties. Such reports do not contain any personal data of users; they use aggregated viewer counts.
 
-## 6\. BILLING
+c. NEWSLETTER AND DIRECT MARKETING
 
-To the extent User subscribes to pay services, Zattoo will collect and process payment information. Zattoo may also use third party payment processors for this purpose.
+When the User gives permission, either at the time of registration or later, Zattoo or a mandated service provider may use the User’s e-mail address to deliver information about interesting offers.  
+The e-mail address will not be shared with third parties, such as advertising clients, unless the User has expressly permitted it.  
+The User may at any time revoke his or her consent for the usage of his or her personal data to deliver such messages. This can be done by clicking on the link “unregister Zattoo Subscription Plan” at the end of each newsletter, or by changing the settings from within the personal user account area.  
+The User acknowledges that Zattoo itself may continue to deliver important messages related to the service even after such revocation.
 
-## 7\. NEWSLETTER AND ZATTOO MARKETING
+6\. ADVERTISING; PERSONALISED ADVERTISEMENTS
 
-Zattoo, its parent companies, affiliates and subsidiaries, may use the personal data for Zattoo’s marketing purposes. Such newsletter may also include advertisement for third parties, which have not been given access to the personal data of User. User acknowledges that User can stop at any time the newsletter sent by Zattoo and the use of his or her personal data for the marketing purposes of Zattoo by modifying User’s preferences under [www.zattoo.com > “My Zattoo”](https://zattoo.com/my-zattoo). 
+Advertising may be displayed during usage of the Services or during visits to the Website. Zattoo also shows personalised advertisements from third parties, whose content is based on the User’s information, for example data relating to usage of Zattoo’s services, or information submitted by the User upon registration. Advertising may also be delivered by a mandated third party. You may change or delete your information from within your private account area if you do not wish it to be used for advertising purposes; continued usage by Zattoo shall however remain unaffected.  
+7\. CO-REGISTRATION  
+Upon registration, Zattoo gives users certain opportunities to register with selected partners of Zattoo. Should a user select such a co-registration, Zattoo will pass such personal data as is mentioned in the co-registration to the partner, who shall become owner of such data. Zattoo will expressly inform the User of the transmission of such data.
 
-User acknowledges that even if User modifies his or her preferences, Zattoo may still send to User important communications regarding the Services.
+8\. TRANSFER OF DATA IN CASE OF TRANSFER OF BUSINESS OPERATIONS
 
-## 8\. ADVERTISEMENTS
+Zattoo may buy or sell business units or subsidiaries. In such cases – as well as in the case of a takeover of Zattoo, a substantial part of its activities or certain business areas – users’ personal data will generally be part of the transferred stock. Zattoo reserves the right to transfer the User’s personal data in such a takeover by third parties. Personal data transferred in such cases will be subject to the same conditions of this agreement and the applicable data protection legislature.
 
-Advertisements may be displayed when using the Services or the website. Zattoo may use the personal data of User to target the advertisement at certain demographic groups. Processing of personal data for such targeting is performed pseudonymously by using a unique numerical UserID. 
+9\. RIGHTS OF ACCESS TO INFORMATION
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click <http://www.google.com/privacy_ads.html>. 
+The User may at any time require information about his or her personal data as held by Zattoo, the correction or updates to incorrect information, that Zattoo cease to collect personal data or that Zattoo delete the User’s personal data. Zattoo may however, still be required to retain certain data where state authorities require it by law or court judgement, e.g. where a court decrees that certain data must be saved and held ready for inspection.  
+Applications for access to personal data should be submitted by e-mail to: support@zattoo.com or in writing to: Zattoo Switzerland Ltd., Customer Support, Elias Canetti Straße 7, 8050 Zürich, Switzerland.
 
-Notwithstanding the disabling of the Cookies, User acknowledges and accepts that he or she will remain traceable via the UserID.
+10\. FURTHER DATA PROTECTION AGREEMENTS
 
-## 9\. DIRECT MARKETING
+The User acknowledges that additional data protection agreements may be applicable to certain services, e.g. apps.
 
-If User has not exercised his or her opt out right at the time of registration, Zattoo may use his or her personal data to send him or her information about third parties’ products or services by electronic or traditional mail. Zattoo may share the personal data, including e-mail address and postal address, with third party processors for that purpose, but will remain the master of the data and will not allow the transfer of the personal data to other parties such as the advertisers themselves. 
+### Zattoo News
 
-If User wishes to withdraw his or her consent to the use of his or her personal data for direct marketing on behalf of third parties, User can notify Zattoo of such withdrawal of consent by e-mail to [optout@zattoo.com](mailto:optout@zattoo.com) or letter to Zattoo Europe Ltd, Customer Support, Elias Canetti Strasse 7, 8050 Zurich, Switzerland.
+**Sept. 2011** – Zattoo reaches 9 million users
 
-## 10\. CO-REGISTRATION
+**Oct. 2011** – Zattoo now available on Windows Phone 7
 
-At the time of the registration, the User may have the possibility to elect to register with co-registration partners of Zattoo. If User makes such election, Zattoo will forward the data disclosed in such optional co-registration to the co-registration partner, which will become the master of such data. 
+### Social Media
 
-## 11\. IMPROVEMENT OF SERVICES
-
-Zattoo will use statistical information, error messages, inquiries to customer support, information on the player version used and the connectivity and other such data to improve the Services, to identify and correct errors, and to further develop the Services. 
-
-## 12\. COOKIES
-
-Zattoo, both by way of identifying User via the UserID and by way of setting cookies, may collect data on User’s usage of the Services such as IP address, TV channels and advertisements viewed, duration of a session and page views on the Zattoo website. Cookies are small packages of data stored on User’s computer and memorized by User’s browser. Cookies allow faster navigation on websites, allow a personalized access of User in accordance with preferences and needs and prevent misuse of Zattoo’s website. User may at all times erase Cookies from his or her computer by using the respective functions of the browser. User acknowledges and accepts that the removal of Cookies may have an impact on the performance of the Services. 
-
-## 13\. TRANSFER TO AND PROCESSING BY COOPERATION PARTNERS
-
-By subscribing to or using the Services, User acknowledges and agrees that Zattoo is entitled to transfer User’s personal data to third parties with whom Zattoo has entered into a cooperation (“Cooperation Partners”). This data may be used by such Cooperation Partners for the elaboration and provision of services which conform to User’s preferences and for customized offers of such Cooperation Partners. If User does not agree with such transfer of User’s personal data to Cooperation Partners, User can object to such transfer by sending an e-mail to [optout@zattoo.com](mailto:optout@zattoo.com) or a letter to Zattoo Europe Ltd, Customer Support, Elias Canetti Strasse 7, 8050 Zurich, Switzerland.
-
-## 14\. TRANSFER OF DATA IN A COMPANY OR ASSET SALE
-
-Zattoo might sell or purchase subsidiaries or business units. In such transactions as well as in the event Zattoo or substantially all of its assets or certain business units are acquired by a third party, User’s personal data will generally be one of the transferred business assets. Zattoo is entitled to include User’s personal data in any such transfer to a third party.
-
-## 15\. SAFETY
-
-User acknowledges that the use of the internet is not safe and that there are certain inherent risks to User’s personal data. Zattoo shall make reasonable efforts to protect personal data but it cannot guarantee or warrant that data User provides to Zattoo is safe and protected from unauthorized third party access and it therefore waives all liability in this respect.
-
-## 16\. RETENTION OF RECORDS AND OFFICIAL INQUIRIES
-
-User acknowledges and agrees that Zattoo may make User’s personal data available to governmental authorities when required to do so and in the event of illegal activities, violations of the End User License Agreement and/or the General Terms and Conditions of Use. User’s personal data is stored by Zattoo in accordance with and for the duration established in the provisions of applicable data protection laws and telecommunication laws and it may be deleted by Zattoo in accordance with such provisions, subject to compulsory legal provisions or orders from state authorities such as courts requiring Zattoo to store and maintain such personal data at the disposal of the authorities.
-
-## 17\. REQUEST FOR ACCESS
-
-User may at all times request access to User’s personal data collected by Zattoo, request that such collected personal data is corrected if inaccurate, that the collection of personal data be stopped or that the collected personal data be erased, subject to legal provisions or orders from state authorities such as courts requiring Zattoo to store and maintain such personal data at the disposal of the authorities. Such request for access must be sent by letter together with a copy of an official identification document to Zattoo Europe Ltd, attn. General Counsel, Elias Canetti Strasse 7, 8050 Zurich, Switzerland.
-
-## 18\. WITHDRAWAL OF CONSENT
-
-User can withdraw his or her consent to the processing of User’s personal data by sending an e-mail to [optout@zattoo.com](mailto:optout@zattoo.com) or a letter to Zattoo Europe Ltd, Customer Support, Elias Canetti Strasse 7, 8050 Zurich, Switzerland. In this case, Zattoo will cancel User’s account.
-
-## 19\. ADDITIONAL PRIVACY POLICIES
-
-User acknowledges that additional privacy policies may apply to specific services, such as widgets.
-
-## 20\. AMENDMENTS
-
-Zattoo may amend from time to time these rules by amending this Privacy Policy or the General Terms and Conditions of Use. The actual and legally binding version of the Privacy Policy is published on the Site and is valid as of the date of its publication. It is User’s sole responsibility to consult the Site from time to time, to take notice of any amendments and to abide by such amendments. If User does not agree with such amendment, User shall cease to use the Services.
+[ ](http://www.facebook.com/zattoo.ch) [ ](http://twitter.com/zattoo)
