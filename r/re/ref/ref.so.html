@@ -1,0 +1,385 @@
+<!--The following is the downloaded HTML source of the ref.so privacy policy that was archived on 2011-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229070706id_/http%3A//www.ref.so/user/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<title>Ref.so - Easy share, Quick earn </title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="description" content="URL shortening services that pays you! Earn money for every visitor to your links ">
+	<meta name="keywords" content="Short URL | Earn by URL  ">
+
+	<style type="text/css">@import url( /templates/ref/styles/main.css );</style>
+	<script type="text/javascript" src="/templates/ref/js/jquery.js"></script>
+
+<!--[if lt IE 7]>
+   <script type="text/javascript" src="/templates/ref/js/ie_png.js"></script>
+   <script type="text/javascript">
+       ie_png.fix('#headers img,.lg_home img, .box .left-top-corner, .box .left-bot-corner, .box .right-top-corner, .box .right-bot-corner, .link1 a, .link1 a em, .link1 a b, .box1 .left-top-corner, .box1 .left-bot-corner, .box1 .right-top-corner, .box1 .right-bot-corner, .box2 .left-top-corner, .box2 .left-bot-corner, .box2 .right-top-corner, .box2 .right-bot-corner');
+   </script>
+   <link href="/templates/ref/styles/ie_style.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+</head>
+
+<body class="body">
+<div class="tail-top">
+<center>
+	<table id="top_info">
+		<tbody><tr valign="top">
+		<td id="top_login_no">
+		<form action="http://www.ref.so/view?module=user&amp;action=validateLogin" onsubmit="return validate(this);" class="login" method="post" id="login_form">
+					Username or email:
+					<input type="text" class="text_top" name="username" id="login_userid">&nbsp;&nbsp;&nbsp;&nbsp;
+				  Password:&nbsp;<input type="password" class="text_top" name="password" id="login_password">
+				  <input type="submit" style="margin-bottom:1px;;height:22px;" value="Sign in">&nbsp;
+				 <input name="remember" id="remember_checkbox" type="checkbox" class="check" checked="checked">Keep me signed in&nbsp;
+				  <a href="/user/lostPassword.html" target="_blank">forget Password</a>
+		 </form>
+		</td>
+		<td id="top_gg_right">
+			<div id="top_lang">
+<!--zhu ye  cai dan -->
+	<div style="float: left; ">
+		<div>
+
+			
+			<!--zhu ye sou suo kai shi  -->
+			<!--
+			<div id="lang" class="lang" >
+			   <div class="searchbox" ><span class="outline"></span>
+				   <form action="#" method="get" id="srchfrm" name="srchfrm">
+					  <input type="text" value="" class="f1" name="q" accesskey="S" title="?">
+					  <input type="hidden" value="searchresults" name="page">
+					  <button title="" class ="srbbutton" type="submit"> </button>
+					</form>
+				</div>
+		   </div>
+		   -->
+
+	
+		<!--#if emailLogin?exists && emailLogin==true-->
+		<div class="lang" id="lang">
+			<img id="language_img" onclick="language_img_onclick();" alt="" class="lngen" src="/templates/ref/images/blank.gif" style="background-position: -1px 0px;">
+			<div id="lang_list">
+			
+			<p onclick="change_language(true, 'en_us')" class="lngen"></p>
+<!--			<p onclick="change_language(true, 'de_de')" class="lngde"></p>
+			<p onclick="change_language(true, 'fr_fr')" class="lngfr"></p>
+			<p onclick="change_language(true, 'pt_pt')" class="lngpt"></p>
+			<p onclick="change_language(true, 'es_es')" class="lnges"></p>
+			<p onclick="change_language(true, 'nl_nl')" class="lngnl"></p>
+			<p onclick="change_language(true, 'it_it')" class="lngit"></p>
+			<p onclick="change_language(true, 'cz_cz')" class="lngcz"></p>
+			<p onclick="change_language(true, 'pl_pl')" class="lngpl"></p>
+			<p onclick="change_language(true, 'ru_ru')" class="lngru"></p>
+			<p onclick="change_language(true, 'hr_hr')" class="lnghr"></p>
+			<p onclick="change_language(true, 'tr_tr')" class="lngtr"></p>
+			<p onclick="change_language(true, 'ja_jp')" class="lngjp"></p>
+			<p onclick="change_language(true, 'bg_bg')" class="lngbg"></p>
+			<p onclick="change_language(true, 'hu_hu')" class="lnghu"></p>
+			<p onclick="change_language(true, 'ro_ro')" class="lngro"></p>
+			<p onclick="change_language(true, 'sr_yu')" class="lngsr"></p>
+			<p onclick="change_language(true, 'ko_kr')" class="lngko"></p>-->
+			<p onclick="change_language(true, 'zh_cn')" class="lngcn"></p>
+			<p onclick="change_language(true, 'zh_tw')" class="lngtw"></p>
+
+			</div>
+		</div>
+
+		<!--/#if-->
+
+		</div>
+	</div>
+
+
+<script language="javascript" type="text/javascript">
+	function change_language(refresh, lang)
+	{
+		var lang_idx = langlist[lang];
+		if(!lang_idx) {
+			lang_idx = 1;
+			lang = "en_us";
+		}		
+		var pos = (lang_idx-1)*21;
+		document.getElementById("language_img").style.backgroundPosition="-1px -" + pos + "px";
+		if(refresh){
+			setCookie("language", lang);
+			window.location.reload();			
+		}
+	}
+
+function getRealLeft(el){
+	var L=0;
+	var tempEl = document.getElementById(el);
+	while(tempEl.parentNode){
+		L+= ( tempEl .offsetLeft)? tempEl .offsetLeft: 0;
+		if(tempEl == document.body) break;
+		tempEl = tempEl .parentNode;
+	}
+	return L;
+}
+function language_img_onclick (){
+	var lang = document.getElementById('lang');
+	if (lang.className!="lang")
+		lang.className = "lang";
+	else
+		lang.className += ' show_lang';
+
+	document.onmouseup = function (e)
+	{
+			var lang = document.getElementById('lang');
+			lang.className = "lang";
+	}
+	document.getElementById('lang_list').style.left = getRealLeft("lang");
+}
+
+function setCookie(name, value, times)
+{
+    var Days = 30*24*60*60*1000;
+	var exp  = new Date();
+	if(!times) times = Days;
+    exp.setTime(exp.getTime() + times);
+    document.cookie = name + "="+ escape (value) + ";path=/;domain=ref.so;expires=" + exp.toGMTString();
+}
+
+function getCookie(name)
+{
+    var arr = document.cookie.match(new RegExp("(^| )"+name+"=([^;]*)(;|$)"));
+     if(arr != null) return unescape(arr[2]); return null;
+
+}
+function delCookie(name)
+{
+    var exp = new Date();
+	var Days = 90;
+    exp.setTime(exp.getTime() - Days*24*60*60*1000);
+    var cval=getCookie(name);
+    if(cval!=null) document.cookie= name + "="+cval+";expires="+exp.toGMTString();
+}
+var langlist = {"en_us": 1, "de_de": 2, "fr_fr": 3, "es_es": 4, "pt_pt": 5, "nl_nl": 6, "it_it": 7, "zh_cn": 8, "zh_tw": 9, "ja_jp": 10, "ko_kr": 11, "ru_ru": 12, "": 13, "": 14, "": 15, "tr_tr": 16, "": 17, "": 18, "pl_pl": 19, "cz_cz": 20, "hr_hr": 25, "bg_bg": 26, "hu_hu": 27, "ro_ro": 28, "sr_yu": 29};
+
+function loadUserLanguage(){
+
+	var language =  "en_us";
+	change_language(false, language);
+}
+loadUserLanguage();
+
+</script>
+			</div>
+		</td>
+		</tr>
+	</tbody></table>
+</center>
+   <div id="mains">
+      <!-- HEADER -->
+      <div id="headers">
+         <div class="fleft"><a href="http://www.ref.so/"><img src="/templates/ref/images/en_us/logo.png" class="logo" alt="ref.so"></a></div>
+         <div class="fright"><br><!--br/-->
+
+<div id="header">
+	
+	<div id="menu">
+		<div><!-- style="float: left; "width: 560px;-->
+		<ul>
+					<li><a href="http://www.ref.so/" class="current">Home </a></li>
+			<li><a href="http://www.ref.so/user/insert.html">Register</a></li>
+			<li><a href="/short/insert.html">Shrink</a></li>
+
+			<li><a href="http://www.ref.so/user/forPartners.html">Make Money</a></li>
+		</ul>
+
+		</div>
+		<!--#include "lang_list.htm"/-->
+	</div>
+
+<script language="javascript">
+var oldActiveMenu;
+
+function active_menu(url){
+	var mainMenu = document.getElementById("menu");
+	var menus = mainMenu.getElementsByTagName("a");
+	var menu;
+	if(!url) url = window.location.href;
+	var currUrl = url;
+	oldActiveMenu = menus[0];
+	for (var i=0; i<menus.length; i++) {
+		menu = menus[i];
+		if(currUrl==menu.href){
+			menu.className = "current";
+			if(menu!=oldActiveMenu){
+				oldActiveMenu.className = "";
+			}
+			oldActiveMenu = menu;
+			break;
+		}
+	}
+}
+var oldActiveSubMenu;
+function active_submenu(){
+	var subMenu = document.getElementById("sub_menu");
+	if(!subMenu) return;
+	var menus = subMenu.getElementsByTagName("a");
+	var menu;
+	var currUrl = window.location.href;
+	oldActiveSubMenu = menus[0];
+	for (var i=0; i<menus.length; i++) {
+		menu = menus[i];
+		if(currUrl==menu.href){
+			menu.parentNode.className = "active";
+			if(i==0) 
+				menu.parentNode.className = "active first";
+			if(menu!=oldActiveSubMenu){
+				oldActiveSubMenu.parentNode.className = "";
+				if(oldActiveSubMenu==menus[0])
+					oldActiveSubMenu.parentNode.className = "first";
+			}
+			oldActiveSubMenu = menu;
+			break;
+		}
+	}
+}
+active_menu();
+</script>
+
+<!--
+<div class="gonggao">
+	<p   class="dongtai">
+	Message:
+	</p>
+</div>
+<br>
+-->
+
+<!--zhu ti -->
+</div>
+<!-- xyc add -->
+		 </div>
+      </div>
+      <!-- CONTENT -->
+      <div id="contents">
+         <div class="wrapper">
+            <div class="col-2" style="width:979px;">
+               <div class="box2">
+                  <div class="left-top-corner">
+                     <div class="right-top-corner">
+                        <div class="border-top"></div>
+                     </div>
+                  </div>
+                  <div class="border-left">
+                     <div class="border-right">
+                        <div class="xcontent">
+                           <div class="inner">
+<div id="main">
+   <div>
+	 <br>
+   </div>
+
+<div class="page">
+<h2> ref.so privacy policy </h2>
+<br>
+
+ref.so to ref.so the official trademark. You are using the ref.so website ref.so by the terms of use and privacy policy protection. This Privacy Policy is to prompt the use of what services we provide, you and stored in ref.so how the information will be used, and how these messages are protected, and available on our website. <br>
+Privacy Policy for changes over time, we recommend that you check the relevant norms fixed back.
+<br> <br>
+
+<h4> 1. We have received your registration information </h4>
+<ul class="list_num">
+<li> <b class="num"> a. </b> We will save you up ref.so set for themselves when the e-mail and password, name. For internal needs (the download limit, sessions, etc.), we will record your IP address. </li>
+<li> <b class="num"> b. </b> When you upload files to $ {forumName}, we will provide this file after the download URL so that you, we do not provide this URL In addition tazhao.com other person or entity outside the group, but if the browser has issued a string of URL's to download this demand, the system will automatically provide. Terms of Use for violations when, ref.so have the right to view the content of your file, if we think you violate the user specification, we will deactivate your account and notify you personally. We also reserve the delete your account ref.so and file rights. </li>
+<li> <b class="num"> c. </b> ref.so at any time and are not trying to connect to your files, unless you specifically instructed to do so. You save the file in the virtual space does not belong to us. ref.so will only be needed when troubleshooting connection to your files. When ref.so receive your files we will store it in your virtual space. By default, your document is to share state. ref.so done a lot of security measures to protect your stored files on our host. </li>
+</ul>
+<br>
+
+<h4> 2. Web-Server (web server) log files and registry Cookies </h4>
+<ul class="list_num">
+<li> <b class="num"> a. </b> We will collect your ref.so visited the region, page, your computer operating system type, browser version, screen resolution and other information. We analyzed these data to understand user preferences, and thus improve our website. Data collection method is to use server log records and cookies. </li>
+<li> <b class="num"> b. </b> on our website using a non-persistent cookie to record you in our site sessioon, when you visit a site that supports sessions, it will produce a set of encrypted number, called sessions cookie. It helps to ref.so record sessions and store your information in a period of time so that your website visit more smoothly. cookie will be permanently stored on your computer, this information does not include security information (just a bunch of encrypted string). In addition, when you log in, we set the cookie so that you continue to browse the site easier. Whether you visit our site before or after, cookie will be for the record. In addition, no other site can access when you visit our site, our system is stored on your computer's cookie information. We do not openly share the cookie, any type of information to other companies. </li>
+</ul>
+<br>
+<h4> 3. access to your data </h4>
+
+You have the right to log in at any time, upload, download their own files, and modify personal information. If you for some reason can not log in to your ref.so space, or you want to modify the personal information provided to us, you through the support@ref.so Contact Us <br> <br>
+
+<h4> 4. How do we protect your information </h4>
+We collect and process any information be kept confidential. We will not sell or rent any personal information. <br> <br>
+
+
+<h4> 5. not open e-mail </h4>
+
+We store your information in the secure server system, used to authorize your login account. This information is for you, not the ref.so property.
+
+Our customer service team can view these lists and the account belongs to the file as a service and troubleshooting purposes. Upon receiving a complaint, they also can check the user save the file.
+
+ref.so does not use or sell these email addresses and files to anyone without your authorization of any attempt to access your e-mail address of the behavior will be monitored.
+
+We will only use your e-mail service provided and support letters. You may send any questions and issues support group. We will make sure to process your request is processed as quickly as possible. <br> <br>
+
+
+
+<h4> 6. Anti-Spam Policy </h4>
+We never used to collect email information to sell, rent, lease, sale, exchange, sale exchange, distribution, or in any way disclosed. ref.so and the user does not agree and support the spammers. <br> <br>
+
+<h4> 6. third-party site </h4>
+ref.so Web site may contain links to other Internet sites maintained by third parties and services. These sites may have privacy and security policy, different from the ref.so. We have no control over such sites, do not assume any responsibility for policy on such third-party cooperation. When you visit any of ref.so a site other than the policy will no longer be valid, and privacy policy only visit the site you are currently into force. <br> <br>
+
+<h4> 6. Contact Us </h4>
+
+For our privacy policy if you have any questions or comments, please contact us at support@ref.so <br> <br></div>
+</div>
+				<!-- xyc add -->
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="left-bot-corner">
+                     <div class="right-bot-corner">
+                        <div class="border-bot"></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>	
+<div id="footer">
+	<span class="copy">@ 2011 ref.so</span>
+	<ul>
+		<li><a href="http://www.ref.so/user/terms.html">Terms &amp; Conditions</a></li>
+		<li><a href="http://www.ref.so/user/privacy.html">Privacy Policy</a></li>
+<!--		<li><a href="http://www.ref.so/user/sla.html">SLA</a></li>-->
+		<li><a href="http://www.ref.so/user/copyright.html">Copyright</a></li>
+
+		<li><a href="http://www.ref.so/user/faq.html">F&amp;Q</a></li>
+	</ul>
+</div>
+<div style="display: none;">
+<script language="javascript" src="http://count44.51yes.com/click.aspx?id=441719474&amp;logo=1" charset="gb2312"></script>
+</div>
+
+
+
+<script>
+	function validate(fm){
+		if(fm.username.value==""){
+			browser.messageBox("Username and email can not be null!");
+			fm.username.focus();
+			return false;
+		}
+		else if(fm.username.value.length<4){
+			browser.messageBox("Username or email must larger than 4 characters!");
+			fm.username.focus();
+			return false;
+		}
+		else if(fm.password.value==""){
+					browser.messageBox("Password invalid!");	
+					fm.password.focus();
+					return false;
+				}
+		else if(fm.password.value.length<6){
+					browser.messageBox("Must larger than 6 characters!");	
+					fm.password.focus();
+					return false;
+		         }
+		else
+				return true;
+		}
+</script></div></div></body></html>
