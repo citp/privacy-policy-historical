@@ -1,34 +1,64 @@
-> *The following text is extracted and transformed from the mmabay.co.uk privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630084139id_/http%3A//www.mmabay.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmabay.co.uk privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229025409id_/http%3A//www.mmabay.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UFC/MMA News In One Place | MMABay: Powered by TapouT
 
-MMABay knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.  
-This Privacy Policy covers MMABay’s treatment of personal information that MMABay gathers when you are on the MMABay website and when you use MMABay services. This policy does not apply to the practices of third parties that MMABay does not own or control, or to individuals that MMABay does not employ or manage.  
-Information Collected by MMABay.  
-We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our MMABay users:  
-1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.  
-2\. Automatic Information:  
-o We receive and store certain types of information whenever you interact with us. MMABay and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, MMABay cookie information, and the page you requested. MMABay uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.  
-o MMABay may collect and, on any page, display the total counts that page has been viewed.  
-o Many companies offer programs that help you to visit websites anonymously. While MMABay will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.  
-E-mail Communications  
-MMABay is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. MMABay may send out e-mails with MMABay -related news, products, offers, surveys or promotions.  
-Cookies  
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. MMABay cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.  
-The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of MMABay’s coolest features.  
-MMABay ’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads.  If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page.  
-Sharing Your Information  
-Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.  
-MMABay Personnel: MMABay personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of MMABay business.  
-Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if MMABay, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.  
-Protection of MMABay and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of MMABay, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.  
-Syndication: MMABay allows for the RSS syndication of all of its public content within the MMABay website.  
-With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.  
-Children Under 18 Years of Age  
-You must be 13 years and older to register to use the MMABay website. As a result, MMABay does not specifically collect information about children. If we learn that MMABay has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using MMABay or sending information about themselves or anyone else over the Internet.  
-Changes to this Privacy Policy  
-MMABay may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the MMABay website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.  
-Conditions of Use  
-If you decide to visit MMABay website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.  
-Effective Date of this Privacy Policy  
-This Privacy Policy is effective as of 30/08/10 and last updated 30/08/10.
+This privacy policy sets out how MMABay uses and protects any information that you give MMABay when you use this website.
+
+MMABay is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+
+MMABay may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/01/2011.
+
+ **What we collect**
+
+We may collect the following information:
+
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
+
+
+
+ **What we do with the information we gather**
+
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+
+
+
+ **Security**
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, **** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+ **How we use cookies**
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+ **Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+ **Controlling your personal information**
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at michael@mmabay.co.uk
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to michael@mmabay.co.uk
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
