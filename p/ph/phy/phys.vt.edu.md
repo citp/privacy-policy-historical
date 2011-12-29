@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phys.vt.edu privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104142314id_/http%3A//www.phys.vt.edu/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phys.vt.edu privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229054310id_/http%3A//www.phys.vt.edu/privacy.shtml) for the most accurate reproduction.*
 
 # Virginia Tech Department of Physics - Privacy Statement
 
