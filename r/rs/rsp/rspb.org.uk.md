@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rspb.org.uk privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606044700id_/http%3A//www.rspb.org.uk/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rspb.org.uk privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229180213id_/http%3A//www.rspb.org.uk/help/privacy.aspx) for the most accurate reproduction.*
 
 # The RSPB: About our site: Privacy and security
 
-[Print](https://web.archive.org/help/privacy.aspx?view=print)
+Print
 
 This statement applies to:
 
