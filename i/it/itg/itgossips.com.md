@@ -1,41 +1,52 @@
-> *The following text is extracted and transformed from the itgossips.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204025418id_/http%3A//itgossips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itgossips.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229220259id_/http%3A//itgossips.com/online-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | (it)gossips
+# Online Privacy Policy | iPhone, iPad, iOS, Jailbreak, Android, Tablet, Smart Phones, Computer, Laptop, Desktop - Solutions & How To
 
-(it)gossips Network Privacy Statement
+**What information do we collect?**
 
-What follows is the Privacy Statement for all (it)gossips Network websites (a.k.a. blogs) including all the websites run under the (it)gossips.com and (it)gossips.net domain.
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
-Please read this statement regarding our blogs. If you have questions please ask us via our contact form.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address. You may, however, visit our site anonymously.
 
-You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share you email with any third party and that we will remove your email at your request. We donâ€™t currently send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us via our contact form.  
-Ownership of Information
+**Do we use cookies?**
 
-(it)gossips Network is the sole owner of any information collected on our websites.  
-Comments/Message Boards
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-Most (it)gossips Network websites contain comment sections (a.k.a. message boards). We do not actively monitor these comments and the information on them is for entertainment purposes only. If we are alerted to something we deem inappropriate in any way, we may delete it at our discretion. We use email validation on most of our message boards in order to reduce â€œcomment spam.â€ These email addresses will not be shared with any third party.  
- Cookies
+We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-Currently we assign cookies to our readers in order to save their preferences. This data is not shared with any third party. Accessing our websites is not dependent on accepting cookies and all major browsers allow you to disable cookies if you wish.  
-Third Party Cookies
+**Third Party Cookies**
 
-Many of our advertisers use cookies in order to determine the number of times you have seen an advertisement. This is done to limit the number times you are shown the same advertisement. (it)gossips Network does not have access to this data.  
-Traffic Reports
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-Our industry-standard traffic reporting records IP addresses, Internet service provider information, referrer strings, browser types and the date and time pages are loaded. We use this information in the aggregate only to provide traffic statistics to advertisers and to figure out which features and editorials are most popular.  
-Legal proceedings
+**What do we use your information for?**
 
-We will make every effort to preserve user privacy but (it)gossips Network may need to disclose information when required by law.  
-Business Transitions
+Any of the information we collect from you may be used in one of the following ways:
 
-If (it)gossips Network is acquired by or merges with another firm, the assets of our websites, including personal information, will likely be transferred to the new firm.  
- Links
+1> To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-(it)gossips Network websites frequently link to other websites. We are not responsible for the content or business practices of these websites. When you leave our websites we encourage you to read the destination siteâ€™s privacy policy. This privacy statement applies solely to information collected by (it)gossips Network  
-Notification of Changes
+2> To administer a contest, promotion, survey or other site feature
 
-When (it)gossips Network makes changes to this privacy policy we will post those changes here.  
-Contact Information
+3> To send periodic emails
 
-If you have any questions regarding our privacy policy, please contact us.
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Your Consent**
+
+By using our site, you consent to our online privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+[http://itgossips.com/online-privacy-policy](http://www.techbuzz.in/online-privacy-policy "Online Privacy Policy")
