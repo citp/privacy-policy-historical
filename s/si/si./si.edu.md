@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the si.edu privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629193207id_/http%3A//si.edu/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the si.edu privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229070627id_/http%3A//www.si.edu/Privacy) for the most accurate reproduction.*
 
 # Privacy Smithsonian
 
 ### Overview
 
-Thank you for visiting the Smithsonian Institution network of Websites and reviewing our privacy policy. The Smithsonian will use that information to respond to your message and to help us get you the information you have requested.
+Thank you for visiting the Smithsonian Institution network of Websites and reviewing our privacy policy. The Smithsonian Institution does not collect personal information about visitors to our Website unless you choose to provide that information to us. The Smithsonian will use that information to respond to your message and to help us get you the information you have requested.
 
-This privacy policy applies to the online activities of the Smithsonian Institution, except for Smithsonian Enterprises websites (goSmithsonian, Smithsonian Magazine, Air & Space Magazine, Smithsonian Store, and Smithsonian Journeys). Consult those websites for the Smithsonian Enterprises privacy policy. For off-line activities, the Smithsonian Institution has prepared Privacy Impact Assessments for systems that collect, maintain, or disseminate information in identifiable form from or about members of the public. These documents can be found at: [http://www.si.edu/privacyimpact ](http://www.si.edu/privacyimpact)
+This privacy policy applies to the online activities of the Smithsonian Institution, except for Smithsonian Enterprises websites (goSmithsonian, Smithsonian Magazine, Air & Space Magazine, Smithsonian Store, and Smithsonian Journeys). Consult those websites for the Smithsonian Enterprises privacy policy. For off-line activities, the Smithsonian Institution has prepared Privacy Impact Assessments for systems that collect, maintain, or disseminate information in identifiable form from or about members of the public. These documents can be found at: <http://www.si.edu/Privacy/privacyimpact>. Smithsonian Institution Privacy Program Guidance documents can be found at <http://www.si.edu/Privacy/privacyprogram>. 
 
 ### Information Collected and Stored Automatically
 
@@ -51,4 +51,4 @@ Within the Smithsonian’s Website there are links and widgets to non-Smithsonia
 
 ### Comments
 
-The Smithsonian is a large organization with many people sharing responsibility for the content of our Website. Please help us respond to your comments and inquiries by sending them to the appropriate Smithsonian office. Consult our special Web page to help you determine where to send your inquiry at <http://smithsonian.org/contacts>. If you have questions about this Privacy Policy, please contact us via email at [Privacy@si.edu](mailto:privacy@si.edu).
+The Smithsonian is a large organization with many people sharing responsibility for the content of our Website. Please help us respond to your comments and inquiries by sending them to the appropriate Smithsonian office. Consult our special Web page to help you determine where to send your inquiry at <http://smithsonian.org/contacts>. If you have questions about this Privacy Statement, please contact us via email at [Privacy@si.edu](mailto:privacy@si.edu).
