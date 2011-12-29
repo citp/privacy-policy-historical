@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the mobilewhack.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512010221id_/http%3A//www.mobilewhack.com/about-us/about-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilewhack.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229034809id_/http%3A//www.mobilewhack.com/about-us/about-2) for the most accurate reproduction.*
 
-# Privacy Policy « Specs, Reviews, News and Price Info - MobileWhack
+# Privacy Policy : MobileWhack.com
 
 ## Privacy Policy
+
+By Paul B - 05/10/2008 2:39:05 PM
 
 We take our reader’s privacy very seriously.
 
@@ -12,4 +14,4 @@ If an advertiser is interested in advertising on MobileWhack.com, we provide the
 
 Copyright Info:
 
-The content on Mobilewhack is written by professional writers and is copyrighted to Mobilewhack.com and it may not be used or reproduced in any way without the express premission of MobileWhack.com owners. 
+The content on Mobilewhack is written by professional writers and is copyrighted to Mobilewhack.com and it may not be used or reproduced in any way without the express premission of MobileWhack.com owners.
