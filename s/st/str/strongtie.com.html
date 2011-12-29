@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the strongtie.com privacy policy that was archived on 2011-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110630153418id_/http%3A//strongtie.com/privacy.html%3Fsource%3Dfooter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the strongtie.com privacy policy that was archived on 2011-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229054256id_/http%3A//strongtie.com/privacy.html%3Fsource%3Dfooter) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="/stylesheets/sst.css" type="text/css">
 <link rel="stylesheet" type="text/css" media="print" href="/stylesheets/print.css">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" src="/javascripts/basic.js"></script>
+<script language="javascript" src="/javascripts/basic.js"></script>
 </head>
 
 <body leftmargin="0" topmargin="0">
@@ -33,7 +33,10 @@
 	  
       <div class="buttons"> 
           <a href="#" onmousedown="javascript:self.print()" onmouseover="MM_swapImage('printer','','/graphics/printer-orange.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/graphics/printer-blue.gif" name="printer" width="15" height="11" border="0" align="absmiddle" id="printer">&nbsp; Print this page</a><br>
-          <a href="/scripts/email-friend.asp" onmouseover="MM_swapImage('email','','/graphics/email-orange.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/graphics/email-icon.gif" alt="Link to email this page to a friend" name="email" id="email" align="absmiddle" border="0" height="10" width="15">&nbsp; Email this page to a friend</a>
+<!--
+<a href="/scripts/email-friend.asp" onMouseOver="MM_swapImage('email','','/graphics/email-orange.gif',1)" onMouseOut="MM_swapImgRestore()"><img src="/graphics/email-icon.gif" alt="Link to email this page to a friend" name="email" width="15" height="10" border="0" align="absmiddle" id="email">&nbsp; Email this page to a friend</a
+>-->
+
       </div>
 
 </div>
@@ -104,15 +107,58 @@ Your privacy is important  to Simpson Strong-Tie.  If you have  questions about 
 
 <script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-2010971-2']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+(function() {
+	if (typeof jQuery != 'undefined') {
+		jQuery(document).ready(function($) {
+			var filetypes = /\.(zip|exe|pdf|doc*|xls*|ppt*|mp3|dwg|dxf|dvb)$/i;
+			var baseHref = '';
+			if (jQuery('base').attr('href') != undefined)
+				baseHref = jQuery('base').attr('href');
+			jQuery('a').each(function() {
+				var href = jQuery(this).attr('href');
+				
+				if (href && (href.match(/^https?\:/i)) && (!href.match(document.domain))) {
+					jQuery(this).click(function() {
+						var extLink = href.replace(/^https?\:\/\//i, '');
+						_gaq.push(['_trackEvent', 'External', 'Click', extLink]);
+						if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+							setTimeout(function() { location.href = href; }, 200);
+							return false;
+						}
+					});
+				}
+				else if (href && href.match(/^mailto\:/i)) {
+					jQuery(this).click(function() {
+						var mailLink = href.replace(/^mailto\:/i, '');
+						_gaq.push(['_trackEvent', 'Email', 'Click', mailLink]);
+					});
+				}
+				else if (href && href.match(filetypes)) {
+					jQuery(this).click(function() {
+						var PREextension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
+						var extension = '';
+						if (PREextension != undefined) {
+							extension = PREextension.toString();
+							extension =  extension.toLowerCase();
+						} else extension = undefined;
+						
+						var filePath = '';
+						filePath = getAbsolutePath(href);
+						_gaq.push(['_trackEvent', 'Download', 'Click-' + extension, filePath]);
+						if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+	
+							setTimeout(function() { location.href = baseHref + href; }, 200);
+							//alert('timeout');
+							return false;
+						}
+					});
+				}
+			});
+		});
+	}
+	//else 
+	//	alert('JQUERY undefined');	
+})();
 
 </script>
 <script language="JavaScript">
@@ -143,7 +189,7 @@ Printed
              document.write(location.href);
            }
            // -->
-</script>https://web.archive.org/web/20110630153418id_/http%3A//strongtie.com/privacy.html%3Fsource%3Dfooter
+</script>https://web.archive.org/web/20111229054256id_/http%3A//strongtie.com/privacy.html%3Fsource%3Dfooter
 </div>
 
 <div style="float:right;">© 2011 Simpson Strong-Tie®</div>
