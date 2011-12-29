@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumpbox.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630014913id_/http%3A//www.jumpbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpbox.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229020049id_/http%3A//www.jumpbox.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy : VM : Cloud Computing : JumpBox.com | JumpBox Virtual Appliances and Applications for Cloud Computing
 
