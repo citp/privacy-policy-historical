@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the blo.gs privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630140609id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blo.gs privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229212749id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « Automattic
-
-## Privacy Policy
+# Privacy Policy — Automattic
 
 Your privacy is critically important to us. At Automattic we have a few fundamental principles:
 
@@ -43,7 +41,7 @@ A cookie is a string of information that a website stores on a visitor’s compu
 
 ### Business Transfers
 
-If Automattic, or substantially all of its assets were acquired, or in the unlikely event that Automattic goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of Automattic may continue to use your personal information as set forth in this policy.
+If Automattic, or substantially all of its assets were acquired, or in the unlikely event that Automattic goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Automattic may continue to use your personal information as set forth in this policy.
 
 ### Ads
 
@@ -59,12 +57,10 @@ Although most changes are likely to be minor, Automattic may change its Privacy 
 
 **Change log:**
 
-July 1, 2010: Revised paragraph about IP addresses to explain when they are collected and that commenter IPs are visible to blog administrators
+  * _February 1, 2011:_ Clarified subpoena language and added Business Transfers paragraph
+  * _January 3, 2011:_ Added court order and subpoena clarification
+  * _July 1, 2010:_ Revised paragraph about IP addresses to explain when they are collected and that commenter IPs are visible to blog administrators
+  * _October 29, 2009:_ Added Comments paragraph to explain Akismet comment storage policy
+  * _March 10, 2009:_ Added Ads paragraph to alert users that ads from third parties may use cookies
 
-October 29, 2009: Added Comments paragraph to explain Akismet comment storage policy
 
-March 10, 2009: Added Ads paragraph to alert users that ads from third parties may use cookies
-
-January 3, 2011: Added court order and subpoena clarification
-
-February 1, 2011: Clarified subpoena language and added Business Transfers paragraph 
