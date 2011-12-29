@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vureel.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606155017id_/http%3A//www.vureel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vureel.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229212900id_/http%3A//www.vureel.com/privacy) for the most accurate reproduction.*
 
-# VuReel HD Videos
+# VuReel Watch Online Videos
 
 This document outlines exactly what you are permitted and not permitted to do as an user of VuReel. Note that by visiting Vureel, you are an user of Vureel and these rules apply to you. Using this site simply means visiting it, or downloading it.
 
@@ -35,7 +35,6 @@ If you decide to to contact us, your email and name will remain confidential and
 
 Finally, any **videos published** by you are published with the clear intention for them to be publicly viewable.
 
-  
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp 
 
 ## Our Commitment to Privacy
