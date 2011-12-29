@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailquestions.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629120517id_/http%3A//www.emailquestions.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailquestions.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229063556id_/http%3A//www.emailquestions.com/privacy.html) for the most accurate reproduction.*
 
 # Email Questions Privacy Policy Statement
 
@@ -44,7 +44,7 @@
     
     You can chose to disable or selectively turn off our cookies or third-party 
     cookies in your browser settings, or by managing preferences in programs such 
-    as Norton Internet Security.  However, this can affect how you are able to 
+    as [Norton Internet Security](http://www.emailquestions.com/out.php?q=norton).  However, this can affect how you are able to 
     interact with our site as well as other websites.  This could include the 
     inability to login to services or programs, such as logging into forums or 
     accounts.
