@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twoplayergames.org privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430073833id_/http%3A//www.twoplayergames.org/option.contact) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twoplayergames.org privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229020251id_/http%3A//www.twoplayergames.org/option.contact) for the most accurate reproduction.*
 
-# Two Player Games, 2 Player Games,Online Multiplayer Games, Multiplayer Flash Games!
+# Two Player Games, 2 player games, online multiplayer games.
 
 Privacy Policy
 
