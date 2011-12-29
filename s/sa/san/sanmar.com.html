@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the sanmar.com privacy policy that was archived on 2011-04-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110414175027id_/http%3A//www.sanmar.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sanmar.com privacy policy that was archived on 2011-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229025007id_/http%3A//www.sanmar.com/privacy.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:ui="http://java.sun.com/jsf/facelets" xmlns:h="http://java.sun.com/jsf/html" xmlns:f="http://java.sun.com/jsf/core" xml:lang="en" lang="en"><head>
 <title>SanMar : Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 <meta name="Description" content="The industry's most complete toolchest of marketing ideas for driving business.">
@@ -13,6 +13,9 @@
 <div id="container">
 	<div id="header">
 		<!-- Note: This file is generated automatically at server startup. To make changes consider editing the template instead. -->
+
+
+
 <!-- templates/catalog/header-search_tmpl.html -->
 <script>
     useBSNns = true;
@@ -103,7 +106,7 @@
 
  
 <div id="topsearch">
-	<form id="quick" name="quicksrch" method="get" action="/sanmar-servlets/CatalogBrowser" onsubmit="quickSearchHandler(); callWTdcsMT(3);">
+	<form id="quick" name="quicksrch" method="get" action="/sanmar-servlets/CatalogBrowser" onsubmit="quickSearchHandler();" style="text-align: left">
     
     	<!-- Search Field -->
         <b>Search</b>
@@ -112,25 +115,27 @@
         <br>
 		<input type="text" id="query" name="query" value="style#/name/keyword" autocomplete="off" onclick="if (document.quicksrch.query.value == 'style#/name/keyword'){document.quicksrch.query.value='';} start_bsn_q();" onblur="close_bsn_q();" size="30">
 		
-        <a href="javascript:if ((document.quicksrch.query.value.length == 0) || (document.quicksrch.query.value.indexOf('style#/name') == 0)) {alert('Search criterion is required.');}else if(validateSpecialChar('query')){callWTdcsMT(3); document.quicksrch.submit(); };">
+        <a href="javascript:if ((document.quicksrch.query.value.length == 0) || (document.quicksrch.query.value.indexOf('style#/name') == 0)) {alert('Search criterion is required.');}else if(validateSpecialChar('query')){ document.quicksrch.submit(); };">
         	<img src="/images/arrow-blue.png" alt="Execute Search" width="20" height="18" class="submit blue_arrow">
         </a>
         
         <br>
              <div id="_suggestions_" class="autocomplete" style="display:none"></div>
 		<a href="/sanmar-servlets/CatalogBrowser?todo=advsearch" id="refined_search">Refined Search</a>
+		<input type="hidden" name="WTs_stype" value="search">
        </form>
        
         <!-- Order Field --> 
-        <form name="TopOrderForm" method="get" action="/cs/OnlineOrdering" onsubmit="callWTdcsMT(2);">
+        <form name="TopOrderForm" method="get" action="/cs/OnlineOrdering" style="text-align: left">
       	<b>Order</b>
       	<input type="hidden" name="todo" value="addtocart">
       	<input type="hidden" name="top" value="Y">
         <input type="hidden" name="src" value="order">
+        <input type="hidden" name="WTs_stype" value="Order">
       	<br>
       	
       	<input type="text" id="productid" name="productid" value="enter style #" size="30" autocomplete="off" onclick="document.TopOrderForm.productid.value=''; start_bsn_p();" onblur="close_bsn_p();">
-        <a href="javascript:if ((document.TopOrderForm.productid.value.length == 0) || (document.TopOrderForm.productid.value.indexOf('enter style') == 0)) {alert('Style# is required.');}else{callWTdcsMT(2); document.TopOrderForm.submit(); }">
+        <a href="javascript:if ((document.TopOrderForm.productid.value.length == 0) || (document.TopOrderForm.productid.value.indexOf('enter style') == 0)) {alert('Style# is required.');}else{document.TopOrderForm.submit(); }">
         	<img src="/images/arrow-blue.png" alt="Execute Search" width="20" height="18" class="submit blue_arrow">
         </a><br>
         <div id="_pidsuggestions_" class="autocomplete" style="display:none"></div>
@@ -143,6 +148,7 @@
     <a href="/index.jsp"><img src="/images/SanMar-Logo.png" border="0" alt="Return to Sanmar Home Page"></a>
 	<br>
 </div>
+
 
 
 
@@ -165,25 +171,45 @@
 </div>
 
 	</div>
-	<!-- Note: This file is generated automatically at server startup. To make changes consider editing the template instead. -->
-<!-- Template: templates/catalog/topnav_tmpl.html v9.1-->
+	<!--Menu Starts Here-->
 
-<script type="text/javascript">
-  function img_swap(name,on) {
-    $(name + '-img').src = '/images/top_nav_' + name + ((on)? '_on.jpg' : '.jpg');
-  }
+  <!--Menu Starts Here-->
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+	function img_swap(name,on) {
+		var el = document.getElementById(name + '-img');
+		if (el != null) {
+			el.src = '/images/top_nav_' + name + ((on)? '_on.jpg' : '.jpg');
+		}
+	} 
 </script>
+<style>
+	.column1{
+		margin-left:11px;
+	}
+	 
+</style>
 
-<div id="topnav" class="splash"><!-- Add/Remove .MyAccount in order to toggle the reservation of space for the MyAccount link. -->
-  <!-- *** Printable Background Image ***  <img id="topnav_bg" src="/images/bg_topnav.gif" />-->  
-  <div id="menu">
-    <ul class="level1 horizontal" id="root">
+<div id="topnav" class="splash">
+<div id="menu">	
 
+<ul class="level1 horizontal" id="root"> 
+<!-- Note: This file is generated automatically at server startup. To make changes consider editing the template instead. -->
 
-
-
-      <!-- ******************* -->
+ <!-- ******************* -->
       <!-- *** Shop BEGINS *** -->
+      
       <li class="level1">
         
         <!-- Menu Tab -->
@@ -200,23 +226,27 @@
 
 
 
+        
 
 
 
               
               
               
-
+				
               <div class="column0">
+                
+              	  <p style="margin-bottom: 5px;"><a href="/sanmar-servlets/CatalogBrowser?todo=search&amp;query=new+and+coming">New</a></p>
+              		
                   <p>Brands</p>
+                  
+                  
                   <ul>
-<li><a href="/collection/nike_golf.jsp" title="Nike Golf">Nike Golf</a></li><li><a href="/collection/new_era.jsp" title="New Era">New Era</a></li><li><a href="/collection/columbia.jsp" title="Columbia">Columbia</a></li><li><a href="/collection/ogio.jsp" title="Ogio">Ogio</a></li><li><a href="/collection/red_house.jsp" title="Red House">Red House</a></li><li><a href="/sporttek/index.jsp" title="Sport-Tek">Sport-Tek</a></li>
+<li><a href="/sanmar-servlets/CatalogBrowser?brand=Port+Authority&amp;action=advsearch&amp;todo=go&amp;color=" title="Port Authority">Port Authority</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=Port+%26+Company&amp;action=advsearch&amp;todo=go&amp;color=" title="Port &amp; Company">Port &amp; Company</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=Sport-Tek&amp;action=advsearch&amp;todo=go&amp;color=" title="Sport-Tek">Sport-Tek</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=Red+House&amp;action=advsearch&amp;todo=go&amp;color=" title="Red House">Red House</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=District+Threads&amp;action=advsearch&amp;todo=go&amp;color=" title="District Threads">District Threads</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=CornerStone&amp;action=advsearch&amp;todo=go&amp;color=" title="Corner Stone">Corner Stone</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=Precious+Cargo&amp;action=advsearch&amp;todo=go&amp;color=" title="Precious Cargo">Precious Cargo</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=Nike&amp;action=advsearch&amp;todo=go&amp;color=" title="Nike Golf">Nike Golf</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=OGIO&amp;action=advsearch&amp;todo=go&amp;color=" title="OGIO">OGIO</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=Columbia&amp;action=advsearch&amp;todo=go&amp;color=" title="Columbia">Columbia</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=New+Era&amp;action=advsearch&amp;todo=go&amp;color=" title="New Era">New Era</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=Hanes&amp;action=advsearch&amp;todo=go&amp;color=" title="Hanes">Hanes</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=Jerzees&amp;action=advsearch&amp;todo=go&amp;color=" title="Jerzees">Jerzees</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=Gildan&amp;action=advsearch&amp;todo=go&amp;color=" title="Gildan">Gildan</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=Outer+Banks&amp;action=advsearch&amp;todo=go&amp;color=" title="Outer Banks">Outer Banks</a></li>                 
                    </ul>
                 
                   
-                  <p><a href="javascript:submitTopNavForm('121','121', '
-Woven Shirts');" id="
-Woven Shirts">
+                  <p><a href="javascript:submitTopNavForm('121','121', 'Woven Shirts');" id="Woven Shirts">
 Woven Shirts</a></p>
                   <ul>
 
@@ -227,23 +257,19 @@ Woven Shirts</a></p>
                   </ul>
                 
                   
-                  <p><a href="javascript:submitTopNavForm('115','115', '
-Polos/Knits');" id="
-Polos/Knits">
+                  <p><a href="javascript:submitTopNavForm('115','115', 'Knit Shirts');" id="Knit Shirts">
 Polos/Knits</a></p>
                   <ul>
 
 
-<li><a href="javascript:submitTopNavForm('991640','115', '');" id="Easy Care">Easy Care</a></li><li><a href="javascript:submitTopNavForm('991632','115', '');" id="Performance Fabrics">Performance Fabrics</a></li><li><a href="javascript:submitTopNavForm('1305776','115', '');" id="Organic">Organic</a></li><li><a href="javascript:submitTopNavForm('6309360','115', '');" id="Workwear">Workwear</a></li><li><a href="javascript:submitTopNavForm('991639','115', '');" id="Fashion">Fashion</a></li><li><a href="javascript:submitTopNavForm('6863710','115', '');" id="Silk Touch™">Silk Touch™</a></li><li><a href="javascript:submitTopNavForm('63716','115', '');" id="Pocket">Pocket</a></li><li><a href="javascript:submitTopNavForm('63717','115', '');" id="Long Sleeve">Long Sleeve</a></li><li><a href="javascript:submitTopNavForm('991641','115', '');" id="Mock &amp; Turtlenecks">Mock &amp; Turtlenecks</a></li><li><a href="javascript:submitTopNavForm('224066','115', '');" id="Sweaters">Sweaters</a></li><li><a href="javascript:submitTopNavForm('6863734','115', '');" id="Youth">Youth</a></li><li><a href="javascript:submitTopNavForm('6863735','115', '');" id="Tall">Tall</a></li><li>&nbsp;</li></ul></div><div class="column0"><p>
-Polos/Knits (continued..)</p><ul><li><a href="javascript:submitTopNavForm('991637','115', '');" id="Ladies">Ladies</a></li>
+<li><a href="javascript:submitTopNavForm('991640','115', '');" id="Easy Care">Easy Care</a></li><li><a href="javascript:submitTopNavForm('991632','115', '');" id="Performance Fabrics">Performance Fabrics</a></li><li><a href="javascript:submitTopNavForm('1305776','115', '');" id="Organic">Organic</a></li><li> </li></ul></div><div class="column0"><p>
+Polos/Knits (continued..)</p><ul><li><a href="javascript:submitTopNavForm('6309360','115', '');" id="Workwear">Workwear</a></li><li><a href="javascript:submitTopNavForm('6863710','115', '');" id="Silk Touch™">Silk Touch™</a></li><li><a href="javascript:submitTopNavForm('63716','115', '');" id="Pocket">Pocket</a></li><li><a href="javascript:submitTopNavForm('63717','115', '');" id="Long Sleeve">Long Sleeve</a></li><li><a href="javascript:submitTopNavForm('991641','115', '');" id="Mock &amp; Turtlenecks">Mock &amp; Turtlenecks</a></li><li><a href="javascript:submitTopNavForm('224066','115', '');" id="Sweaters">Sweaters</a></li><li><a href="javascript:submitTopNavForm('6863734','115', '');" id="Youth">Youth</a></li><li><a href="javascript:submitTopNavForm('6863735','115', '');" id="Tall">Tall</a></li><li><a href="javascript:submitTopNavForm('991637','115', '');" id="Ladies">Ladies</a></li>
 
                     
                   </ul>
                 
                   
-                  <p><a href="javascript:submitTopNavForm('125','125', '
-<nobr>T-Shirts/Active</nobr>');" id="
-<nobr>T-Shirts/Active</nobr>">
+                  <p><a href="javascript:submitTopNavForm('125','125', 'T-Shirts/Active');" id="T-Shirts/Active">
 <nobr>T-Shirts/Active</nobr></a></p>
                   <ul>
 
@@ -254,9 +280,7 @@ Polos/Knits (continued..)</p><ul><li><a href="javascript:submitTopNavForm('99163
                   </ul>
                 
                   
-                  <p><a href="javascript:submitTopNavForm('372485','372485', '
-Infant/Toddler');" id="
-Infant/Toddler">
+                  <p><a href="javascript:submitTopNavForm('372485','372485', 'Infant &amp; Toddler');" id="Infant &amp; Toddler">
 Infant/Toddler</a></p>
                   <ul>
 
@@ -266,37 +290,30 @@ Infant/Toddler</a></p>
                     
                   </ul>
                 
-                  
-                  <p><a href="javascript:submitTopNavForm('126','126', '
-Caps');" id="
-Caps">
+                  <br></div><div class="column1">
+                  <p><a href="javascript:submitTopNavForm('126','126', 'Caps');" id="Caps">
 Caps</a></p>
                   <ul>
 
 
-<li><a href="javascript:submitTopNavForm('6863886','126', '');" id="Flex Fit">Flex Fit</a></li><li><a href="javascript:submitTopNavForm('991572','126', '');" id="Performance/Athletic">Performance/Athletic</a></li><li><a href="javascript:submitTopNavForm('991561','126', '');" id="Pigment/Garment Dyed">Pigment/Garment Dyed</a></li><li><a href="javascript:submitTopNavForm('991578','126', '');" id="Camouflage">Camouflage</a></li><li><a href="javascript:submitTopNavForm('991577','126', '');" id="Safety">Safety</a></li><li><a href="javascript:submitTopNavForm('991582','126', '');" id="Racing">Racing</a></li><li><a href="javascript:submitTopNavForm('991584','126', '');" id="Full Brim">Full Brim</a></li><li>&nbsp;</li></ul></div><div class="column1"><p>
-Caps (continued..)</p><ul><li><a href="javascript:submitTopNavForm('790','126', '');" id="Visors">Visors</a></li><li><a href="javascript:submitTopNavForm('63628','126', '');" id="Fleece/Beanies">Fleece/Beanies</a></li><li><a href="javascript:submitTopNavForm('380112','126', '');" id="Scarves/Gloves">Scarves/Gloves</a></li><li><a href="javascript:submitTopNavForm('6863900','126', '');" id="Youth">Youth</a></li><li><a href="javascript:submitTopNavForm('6863901','126', '');" id="Ladies">Ladies</a></li>
+<li><a href="javascript:submitTopNavForm('6863886','126', '');" id="Flex Fit">Flex Fit</a></li><li><a href="javascript:submitTopNavForm('991572','126', '');" id="Performance/ Athletic">Performance/ Athletic</a></li><li><a href="javascript:submitTopNavForm('991561','126', '');" id="Pigment/Garment Dyed">Pigment/Garment Dyed</a></li><li><a href="javascript:submitTopNavForm('991578','126', '');" id="Camouflage">Camouflage</a></li><li><a href="javascript:submitTopNavForm('991577','126', '');" id="Safety">Safety</a></li><li><a href="javascript:submitTopNavForm('991582','126', '');" id="Racing">Racing</a></li><li><a href="javascript:submitTopNavForm('991584','126', '');" id="Full Brim">Full Brim</a></li><li><a href="javascript:submitTopNavForm('790','126', '');" id="Visors">Visors</a></li><li><a href="javascript:submitTopNavForm('63628','126', '');" id="Fleece/Beanies">Fleece/Beanies</a></li><li><a href="javascript:submitTopNavForm('380112','126', '');" id="Scarves/Gloves">Scarves/Gloves</a></li><li><a href="javascript:submitTopNavForm('6863900','126', '');" id="Youth">Youth</a></li><li><a href="javascript:submitTopNavForm('6863901','126', '');" id="Ladies">Ladies</a></li>
 
                     
                   </ul>
                 
                   
-                  <p><a href="javascript:submitTopNavForm('130','130', '
-Bags');" id="
-Bags">
+                  <p><a href="javascript:submitTopNavForm('130','130', 'Bags');" id="Bags">
 Bags</a></p>
                   <ul>
 
 
-<li><a href="javascript:submitTopNavForm('138765','130', '');" id="Briefcases/Messengers">Briefcases/Messengers</a></li><li><a href="javascript:submitTopNavForm('138763','130', '');" id="Backpacks">Backpacks</a></li><li><a href="javascript:submitTopNavForm('138762','130', '');" id="Duffels">Duffels</a></li><li><a href="javascript:submitTopNavForm('6863944','130', '');" id="Travel Bags">Travel Bags</a></li><li><a href="javascript:submitTopNavForm('766251','130', '');" id="Golf Bags">Golf Bags</a></li><li><a href="javascript:submitTopNavForm('766254','130', '');" id="Coolers">Coolers</a></li><li><a href="javascript:submitTopNavForm('6864019','130', '');" id="Cinch Packs">Cinch Packs</a></li><li><a href="javascript:submitTopNavForm('5103','130', '');" id="Totes/Specialty Bags">Totes/Specialty Bags</a></li><li><a href="javascript:submitTopNavForm('6864020','130', '');" id="Grocery Totes">Grocery Totes</a></li><li><a href="javascript:submitTopNavForm('6309779','130', '');" id="Organic">Organic</a></li>
+<li><a href="javascript:submitTopNavForm('138765','130', '');" id="Briefcases/ Messengers">Briefcases/ Messengers</a></li><li><a href="javascript:submitTopNavForm('138763','130', '');" id="Backpacks">Backpacks</a></li><li><a href="javascript:submitTopNavForm('138762','130', '');" id="Duffels">Duffels</a></li><li><a href="javascript:submitTopNavForm('6863944','130', '');" id="Travel Bags">Travel Bags</a></li><li><a href="javascript:submitTopNavForm('766251','130', '');" id="Golf Bags">Golf Bags</a></li><li><a href="javascript:submitTopNavForm('766254','130', '');" id="Coolers">Coolers</a></li><li><a href="javascript:submitTopNavForm('6864019','130', '');" id="Cinch Packs">Cinch Packs</a></li><li><a href="javascript:submitTopNavForm('5103','130', '');" id="Totes/Specialty Bags">Totes/Specialty Bags</a></li><li><a href="javascript:submitTopNavForm('6864020','130', '');" id="Grocery Totes">Grocery Totes</a></li><li><a href="javascript:submitTopNavForm('6309779','130', '');" id="Organic">Organic</a></li>
 
                     
                   </ul>
                 
                   
-                  <p><a href="javascript:submitTopNavForm('129','129', '
-Accessories');" id="
-Accessories">
+                  <p><a href="javascript:submitTopNavForm('129','129', 'Accessories');" id="Accessories">
 Accessories</a></p>
                   <ul>
 
@@ -306,37 +323,30 @@ Accessories</a></p>
                     
                   </ul>
                 
-                  
-                  <p><a href="javascript:submitTopNavForm('127','127', '
-Fleece');" id="
-Fleece">
+                  <br></div><div class="column2">
+                  <p><a href="javascript:submitTopNavForm('127','127', 'Fleece');" id="Fleece">
 Fleece</a></p>
                   <ul>
 
 
-<li><a href="javascript:submitTopNavForm('16656','127', '');" id="Pullover Hoods">Pullover Hoods</a></li><li><a href="javascript:submitTopNavForm('991418','127', '');" id="Performance">Performance</a></li><li><a href="javascript:submitTopNavForm('16658','127', '');" id="Full Zip, 1/2 -Zip &amp; 1/4-Zip">Full Zip, 1/2 -Zip &amp; 1/4-Zip</a></li><li><a href="javascript:submitTopNavForm('991426','127', '');" id="Heavyweight">Heavyweight</a></li><li><a href="javascript:submitTopNavForm('16655','127', '');" id="Crewnecks">Crewnecks</a></li><li><a href="javascript:submitTopNavForm('16657','127', '');" id="Sweatpants">Sweatpants</a></li><li>&nbsp;</li></ul></div><div class="column2"><p>
-Fleece (continued..)</p><ul><li><a href="javascript:submitTopNavForm('6864348','127', '');" id="Youth">Youth</a></li><li><a href="javascript:submitTopNavForm('6864350','127', '');" id="Ladies">Ladies</a></li>
+<li><a href="javascript:submitTopNavForm('991402','127', '');" id="Fashion">Fashion</a></li><li><a href="javascript:submitTopNavForm('16656','127', '');" id="Pullover Hoods">Pullover Hoods</a></li><li><a href="javascript:submitTopNavForm('991418','127', '');" id="Performance">Performance</a></li><li><a href="javascript:submitTopNavForm('16658','127', '');" id="Full Zip, 1/2 -Zip &amp; 1/4-Zip">Full Zip, 1/2 -Zip &amp; 1/4-Zip</a></li><li><a href="javascript:submitTopNavForm('991426','127', '');" id="Heavyweight">Heavyweight</a></li><li><a href="javascript:submitTopNavForm('16655','127', '');" id="Crewnecks">Crewnecks</a></li><li><a href="javascript:submitTopNavForm('16657','127', '');" id="Sweatpants">Sweatpants</a></li><li><a href="javascript:submitTopNavForm('6864348','127', '');" id="Youth">Youth</a></li><li><a href="javascript:submitTopNavForm('6864350','127', '');" id="Ladies">Ladies</a></li>
 
                     
                   </ul>
                 
                   
-                  <p><a href="javascript:submitTopNavForm('117','117', '
-Outerwear');" id="
-Outerwear">
+                  <p><a href="javascript:submitTopNavForm('117','117', 'Outerwear');" id="Outerwear">
 Outerwear</a></p>
                   <ul>
 
 
-<li><a href="javascript:submitTopNavForm('991691','117', '');" id="Soft Shells">Soft Shells</a></li><li><a href="javascript:submitTopNavForm('745','117', '');" id="Vests">Vests</a></li><li><a href="javascript:submitTopNavForm('991663','117', '');" id="Parkas/Shells/Systems">Parkas/Shells/Systems</a></li><li><a href="javascript:submitTopNavForm('748','117', '');" id="Leather/Suede/Wool">Leather/Suede/Wool</a></li><li><a href="javascript:submitTopNavForm('991703','117', '');" id="Wind Shirts">Wind Shirts</a></li><li><a href="javascript:submitTopNavForm('749','117', '');" id="Poly Fleece">Poly Fleece</a></li><li><a href="javascript:submitTopNavForm('750','117', '');" id="Athletic">Athletic</a></li><li><a href="javascript:submitTopNavForm('746','117', '');" id="Denim">Denim</a></li><li><a href="javascript:submitTopNavForm('991694','117', '');" id="Camouflage">Camouflage</a></li><li><a href="javascript:submitTopNavForm('6864369','117', '');" id="Youth">Youth</a></li><li><a href="javascript:submitTopNavForm('7201095','117', '');" id="Ladies">Ladies</a></li>
+<li><a href="javascript:submitTopNavForm('991691','117', '');" id="Soft Shells">Soft Shells</a></li><li><a href="javascript:submitTopNavForm('745','117', '');" id="Vests">Vests</a></li><li><a href="javascript:submitTopNavForm('991663','117', '');" id="Parkas/ Shells/ Systems">Parkas/ Shells/ Systems</a></li><li><a href="javascript:submitTopNavForm('748','117', '');" id="Leather/ Suede/ Wool">Leather/ Suede/ Wool</a></li><li><a href="javascript:submitTopNavForm('991703','117', '');" id="Wind Shirts">Wind Shirts</a></li><li><a href="javascript:submitTopNavForm('749','117', '');" id="Poly Fleece">Poly Fleece</a></li><li><a href="javascript:submitTopNavForm('750','117', '');" id="Athletic">Athletic</a></li><li><a href="javascript:submitTopNavForm('746','117', '');" id="Denim">Denim</a></li><li><a href="javascript:submitTopNavForm('991694','117', '');" id="Camouflage">Camouflage</a></li><li><a href="javascript:submitTopNavForm('6864369','117', '');" id="Youth">Youth</a></li><li><a href="javascript:submitTopNavForm('7201095','117', '');" id="Ladies">Ladies</a></li>
 
                     
                   </ul>
                 
                   
-                  <p><a href="javascript:submitTopNavForm('1303136','1303136', '
-Workwear');" id="
-Workwear">
+                  <p><a href="javascript:submitTopNavForm('1303136','1303136', 'Workwear');" id="Workwear">
 Workwear</a></p>
                   <ul>
 
@@ -346,8 +356,7 @@ Workwear</a></p>
                     
                   </ul>
                 
-						<br><p style="padding-bottom:10px;"><a href="/custom/index.jsp" title="Custom Apparel">Custom Apparel</a></p>
-                        
+						<br><p style="padding-bottom:5px;"><a href="/custom/index.jsp" title="Custom Apparel">Custom Apparel</a></p>                       
               </div>
 
               <br class="clearfloat">
@@ -374,337 +383,273 @@ Workwear</a></p>
 
 
 
+<li class="level1"><div class="topnavmarket"><a href="/Market/" onmouseout="img_swap('market',0);" onmouseover="img_swap('market',1);"><img border="0" width="152" height="28" id="market-img" alt="Market" src="/images/top_nav_market.jpg"></a></div>
 
-      <!-- ********************* -->
-      <!-- *** Market BEGINS *** -->
-      <li class="level1">
+  <ul id="marketingmenu" class="level2 dropdown" onmouseout="img_swap('market',0);" onmouseover="img_swap('market',1);" style="position: absolute; top: 144px; left: 516px; visibility: hidden;">
+  
+ <li class="level2">
+    
+ <div class="column">
+  <p><b>Catalogs</b></p>
+    
+ <div style="margin-left: 10px;">
+    <p><a href="/sanmar-servlets/CatalogBrowser?todo=search&amp;query=catalogs">Generic Catalogs</a></p>
+<p><a href="/Market/Catalogs/custom_catalogs.html">Custom Catalogs</a></p>
+    
+</div><br>
+    <p><b>eMarketing</b></p>
+    
+ <div style="margin-left: 10px;">
+    <p><a href="/Market/eMarketing/custom_websites.html">Custom Websites</a></p>
+<p><a href="/Market/eMarketing/wizards">Flyer &amp; Poster Wizard</a></p>
+<p><a href="/Market/eMarketing/image_library.html">Image Library</a></p>
+<p><a href="/Market/eMarketing/ezUpdate.html">Printed Price Lists</a></p>
+<p><a href="/Market/eMarketing/ezUpdate.html">EZ Update Price Lists</a></p>
+<p><a href="/Market/eMarketing/wizards">Catalog Wizard</a></p>
+<p><a href="/marketing/videogallery.jsp">Video Gallery</a></p>
+<p><a href="/marketing/ecatalog.jsp">E-Catalogs</a></p>
+<p><a href="/Market/eMarketing/survey_tool.html">Email Survey Tool</a></p>
+<p><a href="/Market/eMarketing/logoizer.html">Logoizer™</a></p>
+<p><a href="/marketing/specsheet/specsheetBrowser.jsp">Spec Sheet PDF's</a></p>
+<p><a href="/marketing/specsheet/productmeasurementsBrowser.jsp">Product Measurement PDF's</a></p>
+<p><a href="/Market/eMarketing/electronicintegration/">Electronic Integration</a></p>
       
-        <!-- Menu Tab -->
-        <div class="topnavmarket"><a href="/marketing/index.jsp" onmouseover="img_swap('market',1);" onmouseout="img_swap('market',0);"><img src="/images/topnav_market.jpg" alt="Market" width="152" height="28" border="0" id="market-img"></a></div>
-
-        <!-- Drop-Down Menu Items -->
-        <ul class="level2 dropdown" id="marketingmenu" onmouseover="img_swap('market',1);" onmouseout="img_swap('market',0);">
-          <li class="level2">
-          <!-- Marketing Drop Down goes here -->
-          <p class="group"><img src="/images/navarrow_open.gif" width="10" height="8" alt=""> Marketing Tools</p>
-<!-- Consolidated Nav BEGINS -->
-<div class="column">
-	<p><b>Catalogs</b>
-		</p><div style="margin-left: 10px;">
-			<p><a href="/sanmar-servlets/CatalogBrowser?todo=search&amp;query=catalogs">Generic Catalogs</a></p>
-			<p><a href="/marketing/custom_catalogs.jsp" title="Create a catalog custom for your business">Custom Catalogs</a></p>
-		</div>
-	<p></p>
-	
-	<br>
-
-	<p><strong>eMarketing</strong>
-		</p><div style="margin-left: 10px;">
-			<p><a href="/marketing/custom_websites.jsp" title="SanMar offers free Custom Websites for all customers">Custom Websites</a>
-			</p><p><a href="/marketing/wizards.jsp" tit="" le="SanMar offers Marketing tools to create custom fliers and posters">Flyer &amp; Poster Wizard</a>
-			</p><p><a href="/marketing/image_library.jsp" title="View all of SanMar's web and catalog imagery for customer use">Image Library</a>
-			</p><p><a href="/marketing/ezUpdate.jsp" title="Create a Custom priceslist free from SanMar for all customers">Printed Price Lists</a>
-			</p><p><a href="/marketing/ezUpdate.jsp" title="Create a Custom priceslist free from SanMar for all customers">EZ Update Price Lists</a>
-			</p><p><a href="/marketing/wizards.jsp" title="SanMar offers promotional catalogs customized for customers">Catalog Wizard</a>
-			</p><p><a href="/marketing/videogallery.jsp" title="SanMar offers catalog and product videos for customers to share">Video Gallery</a>
-			</p><p><a href="/marketing/ecatalog.jsp" title="SanMar offers free e-catalogs to all customers">E-Catalogs</a>
-			</p><p><a href="/marketing/survey_tool.jsp" title="SanMar customer email survey tool">Email Survey Tool</a>
-			</p><p><a href="/marketing/logoizer.jsp">Logoizer™</a>
-			</p><p><a href="/marketing/specsheet/specsheetBrowser.jsp">Spec Sheet PDF's</a>		
-			</p><p><a href="/marketing/specsheet/productmeasurementsBrowser.jsp">Product Measurement PDF's</a>		
-			</p><p><a href="/marketing/integration.jsp">Electronic Integration</a>
-			</p><div style="margin-left: 15px">
-				<p><a href="/marketing/gettingstarted.jsp">Getting Started</a></p>
-				<p><a href="/marketing/options.jsp">Integration Options</a></p>
-				<p><a href="/marketing/vendorpartners.jsp">Third-Party Vendors</a></p>
-			</div>
-		</div>
-	<p></p>
-	
-	<br>
-
-</div>
-
-<div class="column0">
-	<p><strong>Samples</strong>
-		</p><div style="margin-left: 10px;">
-			<p><a href="/marketing/sample_programs.jsp">Grommeted Samples</a></p>
-			<p><a href="/marketing/sample_programs.jsp">Returnable Samples</a></p>
-			<p><a href="/marketing/presentation_box.jsp" title="SanMar offers presentation boxes branded with top brands like Port Authority and District Threads">Presentation Box</a></p>
-			<p><a href="/marketing/sample_programs.jsp#hangers">Branded Hangers</a></p>
-			<p><a href="/marketing/sample_programs.jsp#bag">Branded Garment Bags</a></p>
-			<p><a href="/marketing/sample_programs.jsp#book">Fabric Swatch Books</a></p>
-		</div>
-	<p></p>
-	
-	<br>
-	
-	<p><strong>Showroom</strong></p>
-		<div style="margin-left: 10px;">
-			<p><a href="/marketing/walldisplays.jsp" title="SanMar offers displays for showcase products from brands like District Threads, Nike and Port Authority">Branded Wall Displays</a></p>
-			<p><a href="/marketing/builddisplays.jsp" title="SanMar offers displays for showcase products from brands like District Threads, Nike and Port Authority">Build  Your Own Display</a></p>
-			<p><a href="/marketing/prebuiltdisplays.jsp" title="SanMar offers displays for showcase products from brands like District Threads, Nike and Port Authority">Pre-Built Displays</a></p>
-		</div>
-</div>
-<!-- Consolidated Nav ENDS -->
-<script language="javascript" type="text/javascript">setPage()</script>
-
-         </li>
-        </ul>
-      </li>
-	  <!-- *** Market ENDS *** -->
-      <!-- ******************* -->
+ <div style="margin-left: 15px;">
+      <p><a href="/Market/eMarketing/electronicintegration/gettingstarted.html">Getting Started</a></p>
+<p><a href="/Market/eMarketing/electronicintegration/options.html">Integration Options</a></p>
+<p><a href="/marketing/DataLibrary/DataLibraryMarket/">Product Download</a></p>
+<p><a href="/Market/eMarketing/electronicintegration/vendorpartners.html">Third-Party Vendors</a></p>
       
-     
-
-
-
-      <!-- ******************** -->
-      <!-- *** Learn BEGINS *** -->
-      <li class="level1">
+</div>
+          
+</div><br>
+    </div><div class="column0">
+<p><b>Samples</b></p>
+    
+ <div style="margin-left: 10px;">
+    <p><a href="/Market/Samples/sample_programs.html">Grommeted Samples</a></p>
+<p><a href="/Market/Samples/sample_programs.html">Returnable Samples</a></p>
+<p><a href="/Market/Samples/presentation_box.html">Presentation Box</a></p>
+<p><a href="/Market/Samples/sample_programs.html">Branded Hangers</a></p>
+<p><a href="/Market/Samples/sample_programs.html">Branded Garment Bags</a></p>
+<p><a href="/Market/Samples/sample_programs.html">Fabric Swatch Books</a></p>
+    
+</div>
+    </div><div class="column0">
+<p><b>Showroom</b></p>
+    
+ <div style="margin-left: 10px;">
+    <p><a href="/marketing/walldisplays.jsp">Branded Wall Displays</a></p>
+<p><a href="/Market/Showroom/builddisplays.html">Build Your Own Display</a></p>
+<p><a href="/Market/Showroom/prebuiltdisplays.html">Pre-Built Displays</a></p>
+    
+</div><br>
       
-        <!-- Menu Tab -->
-        <div class="topnavlearn">
-          <a href="/learn/index.jsp" onmouseover="img_swap('learn',1);" onmouseout="img_swap('learn',0);">
-            <img src="/images/topnav_learn.jpg" alt="Learn" width="152" height="28" border="0" id="learn-img">
-          </a>
-        </div>
-        
-        <!-- Drop-Down Menu Items -->
-          <ul class="level2 dropdown" id="aboutmenu" onmouseover="img_swap('learn',1);" onmouseout="img_swap('learn',0);">
-            <li class="level2">
-            <!-- Learn Drop Down Goes here -->
-            <!--[if IE]>
-<style>
-	#menu ul li a{
-		margin:0;
-	}
-</style>
-<![endif]-->
+ </div>
+  
+ </li>
+  
+ </ul>
+  </li>
+<li class="level1"><div class="topnavlearn"><a href="/Learn/" onmouseout="img_swap('learn',0);" onmouseover="img_swap('learn',1);"><img border="0" width="152" height="28" id="learn-img" alt="Learn" src="/images/top_nav_learn.jpg"></a></div>
 
-<p class="group"><img src="/images/navarrow_open.gif" width="10" height="8" border="0">Learn</p>
+  <ul id="learnmenu" class="level2 dropdown" onmouseout="img_swap('learn',0);" onmouseover="img_swap('learn',1);" style="position: absolute; top: 144px; left: 678px; visibility: hidden;">
+  
+ <li class="level2">
+    
+ <div class="column">
+  <p><a style="color: rgb(54, 85, 130);" href="/learn/newsletter/index27.jsp"><strong>Fabric Newsletter</strong></a></p>
+    
+ <div style="margin-left: 10px;">
+    <p><a href="/learn/newsletter/index27.jsp">Autumn 2011</a></p>
+<p><a href="/learn/newsletter/index26.jsp">Summer 2011</a></p>
+<p><a href="/learn/newsletter/index25.jsp">Spring 2011</a></p>
+<p><a href="/learn/newsletter/index24.jsp">Winter 2011</a></p>
+<p><a href="/learn/newsletter/index23.jsp">Autumn 2010</a></p>
+<p><a href="/learn/newsletter/index22.jsp">Summer 2010</a></p>
+<p><a href="/learn/newsletter/index21.jsp">Spring 2010</a></p>
+    
+</div><br>
+    <p><a style="color: rgb(54, 85, 130);" href="/learn/fall_styles_2011.jsp?null"><strong>New Fall 2011 Styles</strong></a><br></p>
+<p><a style="color: rgb(54, 85, 130);" href="/Learn/industry/"><strong>Industry Links</strong></a><br></p>
+<p><a style="color: rgb(54, 85, 130);" href="/Learn/shipping/"><strong>Shipping Carriers</strong></a><br></p>
+<p><a style="color: rgb(54, 85, 130);" href="/Learn/brands/"><strong>Brand Links</strong></a><br></p>
+<p><a style="color: rgb(54, 85, 130);" href="/cgi-bin/events.cgi"><strong>Tradeshow Schedule</strong></a><br></p>
+<p><a style="color: rgb(54, 85, 130);" href="/Learn/more_tools/"><strong>Reference Tools</strong></a></p>
+    
+ <div style="margin-left: 10px;">
+    <p><a href="/Learn/more_tools/productinformation.html">Product Information</a></p>
+<p><a href="/Learn/more_tools/sizing.html">Size &amp; Fit</a></p>
+<p><a href="/learn/glossary.jsp">Glossary of Terms</a></p>
+<p><a href="/Learn/more_tools/FaxOrderForm.pdf">Fax Order Form</a></p>
+<p><a href="/Learn/more_tools/2011_springsummer_sellsheetFINAL.pdf">2011 Spring/Summer Sell Sheet</a></p>
+    
+</div><br>
+    <p><a style="color: rgb(54, 85, 130);" href="/Learn/productsafety/"><strong>Product Safety</strong></a></p>
+    
+ <div style="margin-left: 10px;">
+    <p><a href="/productsafety/gcc.jsp">GCC Search</a></p>
+    
+</div><br>
+    <p><a style="color: rgb(54, 85, 130);" href="/Market/eMarketing/electronicintegration/"><strong>Electronic Integration</strong></a></p>
+    
+ <div style="margin-left: 10px;">
+    <p><a href="/Market/eMarketing/electronicintegration/gettingstarted.html">Getting Started</a></p>
+<p><a href="/Market/eMarketing/electronicintegration/options.html">Integration Options</a></p>
+<p><a href="/marketing/DataLibrary/DataLibrary/">Product Download</a></p>
+<p><a href="/Market/eMarketing/electronicintegration/vendorpartners.html">Third-Party Vendors</a></p>
+    
+</div><br>
+    <p><a style="color: rgb(54, 85, 130);" href="/Learn/newsanmar/"><strong>About SanMar.com</strong></a></p>
+    
+ <div style="margin-left: 10px;">
+    <p><a href="/Learn/newsanmar/systemrequirements.html">System Requirements</a></p>
+    
+</div><br>
+    <p><a style="color: rgb(54, 85, 130);" href="/learn/mobile.jsp"><strong>SanMar Mobile</strong></a><br></p>
+  
+ </div>
+  
+ </li>
+  
+ </ul>
+  </li>
+<li class="level1"><div class="topnavabout"><a href="/AboutUs/" onmouseout="img_swap('aboutus',0);" onmouseover="img_swap('aboutus',1);"><img border="0" width="152" height="28" id="aboutus-img" alt="About Us" src="/images/top_nav_aboutus.jpg"></a></div>
 
-<!-- Consolidated Nav BEGINS -->
-<div class="column">
-	<p><a href="/learn/newsletter.jsp" style="color:#365582;"><strong><em>Fabric</em> Newsletter</strong></a></p>
-	
-		<p><a href="/learn/newsletter/index25.jsp">Spring 2011</a></p>
-		<p><a href="/learn/newsletter/index24.jsp">Winter 2011</a></p>
-		<p><a href="/learn/newsletter/index23.jsp">Autumn 2010</a></p>
-		<p><a href="/learn/newsletter/index22.jsp">Summer 2010</a></p>
-		<p><a href="/learn/newsletter/index21.jsp">Spring 2010</a></p>
-		<p><a href="/learn/newsletter/index20.jsp">Winter 2010</a></p>
-		<p><a href="/learn/newsletter/index18.jsp">Autumn 2009</a></p>
-		<p><a href="/learn/newsletter/index17.jsp">Spring 2009</a></p>
-	
-	<br>
-	<p><a href="/learn/forecast.jsp" style="color:#365582;"><strong>The Forecast</strong></a></p>
-	
-		<p><a href="/docs/forecast_2011.pdf">Fall 2010 Trends</a></p>
-	
-	<br>
-	<p><a href="/learn/industry.jsp" style="color:#365582;"><strong>Industry Links</strong></a></p>	<br>
-	<p><a href="/learn/shipping.jsp" style="color:#365582;"><strong>Shipping Carriers</strong></a></p>	<br>
-	<p><a href="/learn/brands.jsp" style="color:#365582;"><strong>Brand Links</strong></a></p>	<br>
-	<p><a href="/cgi-bin/events.cgi" style="color:#365582;"><strong>Tradeshow Schedule</strong></a></p>	<br>
-	<p><a href="/learn/more_tools.jsp" style="color:#365582;"><strong>Reference Tools</strong></a></p>
-	
-		<p><a href="/learn/productinformation.jsp">Product Information</a></p>
-		<p><a href="/learn/sizing.jsp">Size &amp; Fit</a></p>
-		<p><a href="/learn/glossary.jsp">Glossary of Terms</a></p>
-		<p><a href="/docs/FaxOrderForm.pdf">Fax Order Form</a></p>
-		<p><a href="/docs/2011_springsummer_sellsheetFINAL.pdf">2011 Spring/Summer Sell Sheet</a></p>
-	
-	<br>
-	<p><a href="/productsafety/index.jsp" style="color:#365582;"><strong>Product Safety</strong></a></p>
-	
-		<p><a href="/productsafety/gcc.jsp">GCC Search</a></p>
-	
-	<br>
-	<p><a href="/marketing/integration.jsp" style="color:#365582;"><strong>Electronic Integration</strong></a></p>
-	
-		<p><a href="/marketing/gettingstarted.jsp">Getting Started</a></p>
-		<p><a href="/marketing/options.jsp">Integration Options</a></p>
-		<p><a href="/marketing/vendorpartners.jsp">Third-Party Vendors</a></p>
-	
-	<br>
-	<p><a href="/learn/newsanmar.jsp" style="color:#365582;"><strong>About SanMar.com</strong></a></p>
-	
-		<p><a href="/learn/systemrequirements.jsp">System Requirements</a></p>
-	
-	<br>
-	<p><a href="/learn/mobile.jsp" style="color:#365582;"><strong>SanMar Mobile</strong></a></p>
-	<br>
-	<br class="clearfloat">
-</div>
-<!-- Consolidated Nav ENDS -->
+  <ul id="aboutmenu" class="level2 dropdown" onmouseout="img_swap('aboutus',0);" onmouseover="img_swap('aboutus',1);" style="position: absolute; top: 144px; left: 840px; visibility: hidden;">
+  
+ <li class="level2">
+    
+ <div class="column">
+  <p><a style="color: rgb(54, 85, 130);" href="/AboutUs/contact_us/"><strong>Contact Us</strong></a></p>
+    
+ <div style="margin-left: 10px;">
+    <p><a href="/AboutUs/contact_us/">Customer Service</a></p>
+<p><a href="/AboutUs/contact_us/">Tech Support</a></p>
+<p><a href="/AboutUs/contact_us#contactbox">Feedback</a></p>
+    
+</div><br>
+    <p><a style="color: rgb(54, 85, 130);" href="/AboutUs/"><strong>SanMar Difference</strong></a><br></p>
+<p><a style="color: rgb(54, 85, 130);" href="/AboutUs/locations/"><strong>Locations</strong></a></p>
+    
+ <div style="margin-left: 10px;">
+    <p><a href="/AboutUs/locations/seattle.html">Seattle, WA</a></p>
+<p><a href="/AboutUs/locations/cincinnati.html">Cincinnati, OH</a></p>
+<p><a href="/AboutUs/locations/reno.html">Reno, NV</a></p>
+<p><a href="/AboutUs/locations/robbinsville.html">Robbinsville, NJ</a></p>
+<p><a href="/AboutUs/locations/dallas.html">Dallas, TX</a></p>
+<p><a href="/AboutUs/locations/jacksonville.html">Jacksonville, FL</a></p>
+    
+</div><br>
+    <p><a style="color: rgb(54, 85, 130);" href="/about/shippingcutofftimes.jsp"><strong>Shipping Cutoff Times</strong></a><br></p>
+<p><a style="color: rgb(54, 85, 130);" href="/cgi-bin/events.cgi"><strong>Tradeshow Schedule</strong></a><br></p>
+<p><a style="color: rgb(54, 85, 130);" href="/cgi-bin/pr.cgi"><strong>SanMar in the News</strong></a><br></p>
+<p><a style="color: rgb(54, 85, 130);" href="/about/history.jsp"><strong>SanMar History</strong></a><br></p>
+<p><a style="color: rgb(54, 85, 130);" href="/about/socialResponsibility.jsp"><strong>Social Responsibility</strong></a><br></p>
+<p><a style="color: rgb(54, 85, 130);" href="/AboutUs/new_customer/"><strong>Become a Customer</strong></a></p>
+    
+ <div style="margin-left: 10px;">
+    <p><a href="/about/credit_application.jsp">Credit Application</a></p>
+<p><a href="/about/credit_application.jsp">Resale Certificate</a></p>
+    
+</div><br>
+    <p class="spaced"><a style="color: rgb(54, 85, 130);" href="/cgi-bin/jobs.cgi"><strong>Careers</strong></a><br></p>
+<p class="spaced"><a style="color: rgb(54, 85, 130);" href="/AboutUs/branded_websites/"><strong>Branded Websites</strong></a><br></p>
+<p class="spaced"><a style="color: rgb(54, 85, 130);" href="/AboutUs/terms/"><strong>Terms of Use</strong></a><br></p>
+<p class="spaced"><a style="color: rgb(54, 85, 130);" href="/AboutUs/privacy/"><strong>Privacy Policy</strong></a><br></p>
+  
+ </div>
+  
+ </li>
+  
+ </ul>
+  </li>
 
-<script language="javascript">setPage()</script>
+</ul>
+ 
 
-            </li>
-          </ul>
-        </li>
-      <!-- *** Learn ENDS *** -->
-      <!-- ****************** -->
-
-
-
-
-      <!-- *********************** -->
-      <!-- *** About Us BEGINS *** -->
-      <li class="level1">
-      
-        <!-- Menu Tab -->
-        <div class="topnavabout">
-          <a href="/about/index.jsp" onmouseover="img_swap('aboutus',1);" onmouseout="img_swap('aboutus',0);">
-            <img src="/images/topnav_aboutus.jpg" alt="About Us" width="152" height="28" border="0" id="aboutus-img">
-              </a>
-        </div>
-        
-        <!-- Drop-Down Menu Items -->
-        <ul class="level2 dropdown" id="aboutmenu" onmouseover="img_swap('aboutus',1);" onmouseout="img_swap('aboutus',0);">
-          <li class="level2">
-          <!-- About Drop Down goes here -->
-          <p class="group"><img src="/images/navarrow_open.gif" width="10" height="8"> About Us</p>
-
-<!-- Consolidated Nav BEGINS -->
-       <div class="column">
-		<p><strong><a id="heading" href="/about/contact_us.jsp">Contact Us</a></strong>
-			</p><div style="margin-left: 10px;">
-				<p><a href="/about/contact_us.jsp">Customer Service</a></p>
-				<p><a href="/about/contact_us.jsp">Tech Support</a> </p>
-				<p><a href="/about/contact_us.jsp#contactbox">Feedback</a> </p>
-			</div>
-		<p></p>	
-			
-		<br>
-			
-		<p><a id="heading" href="/about/index.jsp"><strong>SanMar Difference</strong></a></p>	
-		
-		<br>
-        
-        <p><a id="heading" href="/about/locations.jsp"><strong>Locations</strong></a>
-           	</p><div style="margin-left: 10px;">
-				<p><a href="/about/seattle.jsp">Seattle, WA</a></p>
-				<p><a href="/about/cincinnati.jsp">Cincinnati, OH</a></p>
-				<p><a href="/about/reno.jsp">Reno, NV</a></p>
-				<p><a href="/about/cranbury.jsp">Cranbury, NJ</a></p>
-				<p><a href="/about/dallas.jsp">Dallas, TX</a></p>
-				<p><a href="/about/jacksonville.jsp">Jacksonville, FL</a></p>
-			</div>	
-		<p></p>
-		
-		<br>
-		
-		<p><a id="heading" href="/about/shippingcutofftimes.jsp"><strong>Shipping Cutoff Times</strong></a></p>
-		
-		<br>
-		
-		<p><a id="heading" href="/cgi-bin/events.cgi"><strong>Tradeshow Schedule</strong></a></p>	
-		
-		<br>
-		
-		<p><strong><a id="heading" href="/cgi-bin/pr.cgi">SanMar in the News</a></strong></p>	
-		
-		<br>
-		
-		<p><strong><a id="heading" href="/about/history.jsp">SanMar History</a></strong></p> 	
-		
-		<br>
-		
-		<p><strong><a id="heading" href="/about/socialResponsibility.jsp">Social Responsibility</a></strong><a href="/about/socialResponsibility.jsp"></a>
-			</p><div style="margin-left: 10px;">
-				<p><a href="/about/socialcompliance.jsp">Social Compliance</a></p>
-				<p><a href="/about/Green_Fabrics_Guide.pdf">Green Fabric Guide</a></p>
-				<p><a href="/about/hometelecommute.jsp">Telecommuting  </a></p>
-				<p><a href="/about/recycle.jsp">Resource Conservation</a></p>
-				<p><a href="/about/energyeffiency.jsp">Energy Efficiency</a></p>
-				<p><a href="/about/community.jsp">Community Investment</a></p>
-				<p><a href="/about/sanmarGiving.jsp">Donation Fund</a></p>
-			</div>	
-		<p></p>
-			
-		<br>
-		
-		<p><strong><a id="heading" href="/about/new_customer.jsp">Become a Customer</a></strong>
-			</p><div style="margin-left: 10px;">
-				<p><a href="/about/credit_application.jsp">Credit Application</a></p>
-				<p><a href="/about/credit_application.jsp">Resale Certificate</a></p>
-			</div>	
-		<p></p>
-		
-		<br>
-        
-        <p class="spaced"><a id="heading" href="/cgi-bin/jobs.cgi"><strong>Careers</strong></a></p>	
-        
-        <br>
-        
-		<p class="spaced"><strong><a id="heading" href="/branded_websites.jsp">Branded Websites</a></strong></p>	
-		
-		<br>
-		
-		<p class="spaced"><strong><a id="heading" href="/terms.jsp">Terms of Use</a></strong></p>	
-		
-		<br>
-		
-		<p class="spaced"><strong><a id="heading" href="/privacy.jsp">Privacy Policy</a></strong><a href="/privacy.jsp"></a></p>
-				
-    </div>
-<!-- Consolidated Nav ENDS -->
-
-<script language="javascript">setPage()</script>
-
-          </li>          
-        </ul>
-      </li>
-      <!-- *** About Us ENDS *** -->
-      <!-- ********************* -->
-
-
-
-
-
-    </ul>
-  </div>
-  &nbsp; <br>
 </div>
 
-
-
-
-
-
-<!--quick bar -->
-<div id="quickbar">
-   <div class="inventorycheck"> <!--Inventory/Price Check -->
-      <form id="inventorycheckform" name="ItemInventoryCheckForm" method="get" action="/cs/OnlineOrdering" onsubmit="return submitInventoryCheckFormNow();">
-      <input type="hidden" name="todo" value="addtocart">
-      <input type="hidden" name="swatch" value="">
-      <input type="hidden" name="parentId" value="">
-      <input type="hidden" name="prodimage" value="">
-      <input type="hidden" name="discontinued" value="">
-      <input type="hidden" name="top" value="A">
-      Inventory/Price Check 
-      <input type="text" id="invproductid" name="productid" value="enter style #" onclick="document.ItemInventoryCheckForm.productid.value='';"><!-- <a href="javascript:submitInventoryCheckForm();">--><input type="image" src="/images/arrow_blue.gif" alt="check inventory" border="0" class="submit"><!--/a-->
-      </form><br>
-   </div>
-
-   <div class="expressorder"><!--Express Order-->
-      <form id="expressorderform" name="ExOrForm" method="get" action="/cs/OnlineOrdering" onsubmit="return submitExpressOrderFormNow();">
-      <input type="hidden" name="todo" value="exor">
-      <input type="hidden" name="top" value="A">
-      Express Order 
-      <input type="text" id="exproductid" name="productid" value="enter style #" onclick="document.ExOrForm.productid.value='';"><!-- <a href="javascript:submitExpressOrderForm();">--><input type="image" src="/images/arrow_blue.gif" alt="check inventory" border="0" class="submit"><!--/a-->
-      </form><br>
-   </div>
-
-   <div class="quicklinks">
-      Quick Links: <a href="/marketing/custom_catalogs.jsp?ql=Y">Custom Catalogs </a>|<a href="/marketing/wizards.jsp?ql=Y"> Flyers </a>| <a href="/marketing/custom_websites.jsp?ql=Y">Custom Websites</a>
-   </div>
 </div>
 
+	
+    
+
+    <!--Menu Ends Here-->
 
 
+
+
+   <!--Quick Bar Starts Here-->
+
+    
+
+    <div id="quickbar">
+
+		<div class="inventorycheck"> <!--Inventory/Price Check -->
+
+			<form id="inventorycheckform" name="ItemInventoryCheckForm" method="get" action="/cs/OnlineOrdering" onsubmit="return submitInventoryCheckFormNow();">
+
+				<input type="hidden" name="todo" value="addtocart">
+
+				<input type="hidden" name="swatch" value="">
+
+				<input type="hidden" name="parentId" value="">
+
+				<input type="hidden" name="prodimage" value="">
+
+				<input type="hidden" name="discontinued" value="">
+
+				<input type="hidden" name="top" value="A">
+
+				<input type="hidden" name="WTs_stype" value="IPC">
+
+				Inventory/Price Check
+
+				<input type="text" id="invproductid" name="productid" value="enter style #" onclick="document.ItemInventoryCheckForm.productid.value='';"><input type="image" src="/images/arrow-blue.png" alt="check inventory" border="0" class="submit">
+
+				<!--/a-->
+
+			</form>
+
+			<br>
+
+		</div>
+
+		<div class="expressorder"><!--Express Order-->
+
+			<form id="expressorderform" name="ExOrForm" method="get" action="/cs/OnlineOrdering" onsubmit="return submitExpressOrderFormNow();">
+
+				<input type="hidden" name="todo" value="exor">
+
+				<input type="hidden" name="top" value="A">
+
+				<input type="hidden" name="WTs_stype" value="exOrder">
+
+				Express Order
+
+				<input type="text" id="exproductid" name="productid" value="enter style #" onclick="document.ExOrForm.productid.value='';"><input type="image" src="/images/arrow-blue.png" alt="check inventory" border="0" class="submit">
+
+				<!--/a-->
+
+			<div id="_pidsuggestions_" class="autocomplete" style="display:none"></div>
+	</form>
+
+
+			<br>
+
+		</div>
+
+		<div class="quicklinks"> Quick Links: <a href="/Market/Catalogs/custom_catalogs.html?ql=Y">Custom Catalogs </a>|<a href="/Market/eMarketing/wizards?ql=Y"> Flyers </a>| <a href="/Market/eMarketing/custom_websites.html?ql=Y">Custom Websites</a> </div>
+
+	</div>
+
+    
+
+    <!--Quick Bar Ends Here-->
+    
+    
+ 
 	<div id="sidebar">
 		<div class="content">
 			<div id="leftnav"> </div>
@@ -736,6 +681,9 @@ Workwear</a></p>
 		</div>
 	</div>
 	<!-- Note: This file is generated automatically at server startup. To make changes consider editing the template instead. -->
+
+
+
 <!-- Template: catalog/footer_tmpl.html -->
 <link rel="stylesheet" type="text/css" href="/css/global.css">
 
@@ -752,11 +700,11 @@ Workwear</a></p>
 
 <div id="footer">  
     ©2011 SanMar.com
-    <a href="/index.jsp">Home</a>
-  | <a href="/privacy.jsp">Privacy Policy</a>
-  | <a href="/terms.jsp">Terms of Use</a>
-  | <a href="/branded_websites.jsp">Branded Websites</a>
-  | <a href="/about/contact_us.jsp">Contact Us</a>
+ 	<a href="/index.jsp">Home</a>
+  | <a href="/AboutUs/privacy/">Privacy Policy</a>
+  | <a href="/AboutUs/terms/">Terms of Use</a>
+  | <a href="/AboutUs/branded_websites/">Branded Websites</a>
+  | <a href="/AboutUs/contact_us/">Contact Us</a>
   | <span>Social Networking</span>
   
 	<img src="/images/socmedia_icons2.png" width="33" height="14" border="0" align="top" usemap="#Map">
@@ -775,28 +723,23 @@ Workwear</a></p>
 <!-- Tag Builder Version: 2.1.0  -->
 <!-- Created: 12/12/2008 10:19:10 PM -->
 <script src="/scripts/webtrends.js" type="text/javascript"></script>
-<!-- ----------------------------------------------------------------------------------- -->
+<!-- *********************************************************************************** -->
 <!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
 <!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
-<!-- ----------------------------------------------------------------------------------- -->
+<!-- *********************************************************************************** -->
 <script type="text/javascript">
-//<![CDATA[
 var _tag=new WebTrends();
 _tag.dcsGetId();
-//]]>>
 </script>
 <script type="text/javascript">
-//<![CDATA[
-// Add custom parameters here.
-//_tag.DCSext.param_name=param_value;
 _tag.dcsCollect();
-//]]>>
 </script>
 <noscript>
 <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.sanmar.com/dcsairxqntlbtj3wwflz3plo1_4d5g/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.0"/></div>
 </noscript>
 <!-- END OF SmartSource Data Collector TAG -->
 <!-- script type="text/javascript" src="/scripts/autocompleter.js"></script -->
+
 
 
 
