@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medfusion.net privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630081420id_/http%3A//healthcare.intuit.com/portal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medfusion.net privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229160204id_/http%3A//healthcare.intuit.com/portal/privacy.jsp) for the most accurate reproduction.*
 
 # Intuit Health and Intuit Health Patient Payments Privacy Statement
 
