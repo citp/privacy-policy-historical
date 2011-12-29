@@ -1,0 +1,630 @@
+<!--The following is the downloaded HTML source of the tremorgames.com privacy policy that was archived on 2011-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229170516id_/http%3A//www.tremorgames.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Tremor games brings you the hottest and coolest free online games. Play flash games, shooting games, war games, fighting games, car games, funny games, addicting games, puzzle games and more. ">
+<meta name="keywords" content="tremor games, free online games, flash games, cool games, hot games, great games, shooting games, car games, truck games, bike games, puzzle games, adventure games, strategy games, skill games, hidden object games, tower defence games, escape games, typing games, racing games, parkinga games, physics games, mahjong games, card games, war games, fighting games "> 
+
+<title>Privacy Policy | Tremor Games </title>
+
+<link rel="stylesheet" type="text/css" href="http://www.tremorgames.com/templates/tremor/style.css">
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.tremorgames.com/templates/tremor/jscripts/common_funcs.js"></script>
+
+<script src="Scripts/swfobject_modified.js" type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="http://www.tremorgames.com/templates/tremor/rating_style.css">
+
+<script type="text/javascript" src="http://www.tremorgames.com/js/rating_update.js"></script>	 
+
+<link rel="stylesheet" href="http://www.tremorgames.com/templates/tremor/slideshow1.css" type="text/css">
+
+<script src="http://www.tremorgames.com/templates/tremor/arcade.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<script type="text/javascript" language="javascript">
+  var http_request = false;
+
+  function show_hint ( p_hint_text, p_span ) {
+    document.getElementById(p_span).innerHTML = p_hint_text ;
+  }
+
+  function makePOSTRequest(url, parameters, SpanName) {
+    http_request = false;
+    if (window.XMLHttpRequest) { // Mozilla, Safari,...
+    http_request = new XMLHttpRequest();
+    if (http_request.overrideMimeType) {
+    http_request.overrideMimeType('text/xml');
+    }
+    } else if (window.ActiveXObject) { // IE
+    try {
+    http_request = new ActiveXObject("Msxml2.XMLHTTP");
+    } catch (e) {
+    try {
+    http_request = new ActiveXObject("Microsoft.XMLHTTP");
+    } catch (e) {}
+    }
+    }
+    if (!http_request) {
+    alert('Cannot create XMLHTTP instance');
+    return false;
+    }
+  
+    http_request.onreadystatechange = function() {
+    if (http_request.readyState == 4) {
+    if (http_request.status == 200) {
+    //alert(http_request.responseText);
+    result = http_request.responseText;
+    document.getElementById(SpanName).innerHTML = result;
+    //document.getElementById('status').innerHTML = 'Ready'; 
+    } else {
+    alert('There was a problem with the request.');
+    }
+    }
+    };
+    http_request.open('POST', url, true);
+    http_request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+    http_request.setRequestHeader("Content-length", parameters.length);
+    http_request.setRequestHeader("Connection", "close");
+    http_request.send(parameters);
+  }
+
+
+  function Contact(obj,SpanName,DivName) {
+    var curDateTime = new Date(); //For IE 
+    var SpanName = SpanName; 
+
+
+    if(DivName == 'tf'){
+		if(trimAll(document.getElementById("sendersname").value) == "")
+		{
+			alert("Enter Senders Name");
+			document.getElementById("sendersname").focus();
+			return false;
+		}
+		if(!checkEmail(document.getElementById("sendersemail").value))
+		{
+			document.getElementById("sendersemail").focus();
+			return false;
+		}
+		if(!checkEmail(document.getElementById("friendsemail").value))
+		{
+			document.getElementById("friendsemail").focus();
+			return false;
+		}
+		
+    var poststr = "sendersname=" + encodeURI( document.getElementById("sendersname").value ) +
+  	  				"&sendersemail=" + encodeURI( document.getElementById("sendersemail").value ) +
+  	  				"&friendsemail=" + encodeURI( document.getElementById("friendsemail").value ) +
+  	  				"&about=" + encodeURI( document.getElementById("about").value ) +
+  	  				"&gamename=" + encodeURI( document.getElementById("gamename").value ) +
+  					  "&gameid=" + encodeURI( document.getElementById("gameid").value );
+    
+    //alert (SpanName); 
+    makePOSTRequest('http://www.tremorgames.com/index.php?action=tellafriendajax', poststr, SpanName);
+    }    
+    if(DivName == 'tfv'){
+		if(trimAll(document.getElementById("sendersname").value) == "")
+		{
+			alert("Enter Senders Name");
+			document.getElementById("sendersname").focus();
+			return false;
+		}
+		if(!checkEmail(document.getElementById("sendersemail").value))
+		{
+			document.getElementById("sendersemail").focus();
+			return false;
+		}
+		if(!checkEmail(document.getElementById("friendsemail").value))
+		{
+			document.getElementById("friendsemail").focus();
+			return false;
+		}
+		if(trimAll(document.getElementById("tafverifycode").value) == "")
+		{
+			alert("Enter Security code");
+			document.getElementById("tafverifycode").focus();
+			return false;
+		}
+		
+    var poststr = "sendersname=" + encodeURI( document.getElementById("sendersname").value ) +
+  	  				"&sendersemail=" + encodeURI( document.getElementById("sendersemail").value ) +
+  	  				"&friendsemail=" + encodeURI( document.getElementById("friendsemail").value ) +
+  	  				"&about=" + encodeURI( document.getElementById("about").value ) +
+  	  				"&gamename=" + encodeURI( document.getElementById("gamename").value ) +
+  	  				"&verifycode=" + encodeURI( document.getElementById("tafverifycode").value ) +
+  					  "&gameid=" + encodeURI( document.getElementById("gameid").value );
+    
+    //alert (SpanName); 
+    makePOSTRequest('http://www.tremorgames.com/index.php?action=tellafriendajax', poststr, SpanName);
+    }    
+
+    if(DivName == 'cf'){
+    var poststr = "newcomment=" + encodeURI( document.getElementById("newcomment").value ) +
+  	  				"&id=" + encodeURI( document.getElementById("id").value );
+    
+    //alert (SpanName); 
+    makePOSTRequest('http://www.tremorgames.com/index.php?action=addcommentajax', poststr, SpanName);
+    }
+    if(DivName == 'cfv'){
+    var poststr = "newcomment=" + encodeURI( document.getElementById("newcomment").value ) +
+  	  				"&id=" + encodeURI( document.getElementById("id").value ) +
+  					"&verifycode=" + encodeURI( document.getElementById("cverifycode").value );
+    
+    //alert (SpanName); 
+    makePOSTRequest('http://www.tremorgames.com/index.php?action=addcommentajax', poststr, SpanName);
+    }
+	
+	if(DivName == 'rf'){
+		var poststr = "reportgameid=" + encodeURI( document.getElementById("reportgameid").value ) +
+						"&reportreason=" + encodeURI( document.getElementById("reportreason").value );
+		
+		//alert (SpanName); 
+		makePOSTRequest('http://www.tremorgames.com/reportgame.php', poststr, SpanName);
+		
+		document.getElementById('reportreason').value = "";
+    }   
+   
+    document.getElementById(DivName).style.display = 'none';
+  } 
+
+
+</script>  
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.js"></script>
+<script type="text/javascript" src="http://www.tremorgames.com/templates/tremor/jscripts/jquery.easing.1.2.js"></script>
+<script src="http://www.tremorgames.com/templates/tremor/jscripts/jquery.anythingslider.js" type="text/javascript" charset="utf-8"></script>
+
+<script type="text/javascript" src="http://www.tremorgames.com/templates/tremor/jscripts/dropdown.js"></script>
+
+<script type="text/javascript" src="http://www.tremorgames.com/templates/tremor/jscripts/tooltip.js"></script>
+
+<script type="text/javascript" src="http://www.tremorgames.com/templates/tremor/jscripts/ajaxscripts.js"></script>
+
+<script type="text/javascript" src="http://www.tremorgames.com/templates/tremor/jscripts/slider/jquery.liquidcarousel.pack.js"></script>
+
+<script type="text/javascript" language="javascript" src="http://www.tremorgames.com/templates/tremor/jscripts/jquery.dropdownPlain.js"></script>
+
+<!-- Full categories list - slide down -->    
+<script type="text/javascript" src="http://www.tremorgames.com/templates/tremor/jscripts/slidedown.js"></script>
+
+
+
+<!-- per project includes -->
+                        
+<script type="text/javascript">
+
+	function formatText(index, panel) {
+	  return index + "";
+	}
+
+	$(function () {
+		
+		$('#liquid1').liquidcarousel({height:150, duration:1000, hidearrows:false});
+	
+		$('.anythingSlider').anythingSlider({
+			easing: "easeInOutExpo",        // Anything other than "linear" or "swing" requires the easing plugin
+			autoPlay: true,                 // This turns off the entire FUNCTIONALY, not just if it starts running or not.
+			delay: 3000,                    // How long between slide transitions in AutoPlay mode
+			startStopped: false,            // If autoPlay is on, this can force it to start stopped
+			animationTime: 600,             // How long the slide transition takes
+			hashTags: true,                 // Should links change the hashtag in the URL?
+			buildNavigation: true,          // If true, builds and list of anchor links to link to each slide
+			pauseOnHover: true,             // If true, and autoPlay is enabled, the show will pause on hover
+			startText: "",             // Start text
+			stopText: "",               // Stop text
+			navigationFormatter: formatText       // Details at the top of the file on this use (advanced use)
+		});
+		
+		$("#slide-jump").click(function(){
+			$('.anythingSlider').anythingSlider(6);
+		});
+		
+	});
+</script>
+
+<script type="text/javascript">
+
+function showTabGames(show, hide1, hide2)
+{ 
+	var tabshow = show+'tab';
+	var tabhide1 = hide1+'tab';
+	var tabhide2 = hide2+'tab';
+	
+	document.getElementById(tabshow).className = 'ib-'+show+'-actv';
+	
+	document.getElementById(tabhide1).className = 'ib-'+hide1;
+	document.getElementById(tabhide2).className = 'ib-'+hide2;
+		
+	document.getElementById(show).style.display = 'block';
+	document.getElementById(hide1).style.display = 'none';
+	document.getElementById(hide2).style.display = 'none';
+	
+}
+
+
+function showhidepanel()
+{
+	if(document.getElementById('allcat_list').style.display == 'inline')
+	{
+		document.getElementById('allcat_list').style.display = 'none';
+		document.getElementById('option_name').innerHTML = "Show";
+	}
+	else
+	{
+		document.getElementById('allcat_list').style.display = 'inline';
+		document.getElementById('option_name').innerHTML = "Hide";
+	}
+}
+
+function showhidepanelcat()
+{
+	if(document.getElementById('fullcat_list').style.display == 'inline')
+	{
+		document.getElementById('fullcat_list').style.display = 'none';
+		document.getElementById('cat_option_name').innerHTML = "Show";
+	}
+	else
+	{
+		document.getElementById('fullcat_list').style.display = 'inline';
+		document.getElementById('cat_option_name').innerHTML = "Hide";
+	}
+}
+
+</script>
+
+
+</head>
+
+<body>
+
+
+	
+<div id="wrapper">
+
+	<div id="innerbg">
+
+	<div id="header">
+    
+    	
+		
+		
+		<div class="logo">
+           	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="303" height="148" id="FlashID" title="Tremor Games">
+            	  <param name="movie" value="http://www.tremorgames.com/templates/tremor/flash/Tremor-Games.swf">
+            	  <param name="quality" value="high">
+            	  <param name="wmode" value="transparent">
+            	  <param name="swfversion" value="11.0.0.0">
+            	  <!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you don’t want users to see the prompt. -->
+            	  <param name="expressinstall" value="Scripts/expressInstall.swf">
+            	  <!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. -->
+            	  <!--[if !IE]>-->
+            	  <object type="application/x-shockwave-flash" data="http://www.tremorgames.com/templates/tremor/flash/Tremor-Games.swf" width="303" height="148">
+            	    <!--<![endif]-->
+            	    <param name="quality" value="high">
+            	    <param name="wmode" value="transparent">
+            	    <param name="swfversion" value="11.0.0.0">
+            	    <param name="expressinstall" value="Scripts/expressInstall.swf">
+            	    <!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
+            	    <div>
+            	      <h4>Content on this page requires a newer version of Adobe Flash Player.</h4>
+            	      <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" width="112" height="33"></a></p>
+          	      </div>
+            	    <!--[if !IE]>-->
+          	    </object>
+            	  <!--<![endif]-->
+       	    </object>
+
+        </div>
+        
+        <div class="header-right">
+        
+		<form name="form1" method="post" action="http://www.tremorgames.com/index.php">
+        	<div class="login-box">
+            	<div class="new-user"><a href="http://www.tremorgames.com/index.php?action=register"></a></div>
+            	<div class="exiting-user"><img src="http://www.tremorgames.com/templates/tremor/images/existing-user.gif" alt=""></div>
+                <div class="tokens">
+                	
+                </div>
+                <div class="login-fields">
+                	<input type="text" name="loginuser" id="loginuser" value="username" onblur="if(this.value=='') this.value='username';" onfocus="if(this.value=='username') this.value='';" class="login-input" style="margin-right:8px;">
+                    <input type="password" name="loginpassword" id="loginpassword" value="password" onblur="if(this.value=='') this.value='password';" onfocus="if(this.value=='password') this.value='';" class="login-input" style="margin-right:4px;">
+                    <input type="submit" name="Submit" id="Submit" value="" class="login-submit">
+                </div>
+                <div class="forgot-rem">
+                	<div class="forgot"><a href="javascript:popRecoverPassword('http://www.tremorgames.com/index.php?action=passwordrecovery')" title="Forgot Password">Forgot Password ?</a></div>
+                    <div class="rem"><input type="checkbox">&nbsp;&nbsp;Remember Me</div>
+                </div>
+            </div>
+            
+         </form>
+         
+         <div style="clear:both; width:100%; float:right;">
+             <div class="top-menus">
+             
+             	<ul>
+                	<li><a href="http://www.tremorgames.com/index.php">Home</a></li>
+                                        	<li><a href="http://www.tremorgames.com/index.php?action=submit" title="Submit a game">Submit a game</a></li>
+                                        <li><a href="http://www.tremorgames.com/index.php?action=rss" title="RSS Feeds">RSS Feeds</a></li>
+                                        	<li><a href="http://www.tremorgames.com/index.php?action=memberlist">Member List</a></li>
+                                        <li><a href="http://www.tremorgames.com/index.php?action=contact" title="Contact us">Contact us</a></li>
+                </ul>
+             
+             </div>
+             
+             <div class="search-right">
+             	<form name="searchbox" method="post" action="http://www.tremorgames.com/">
+                    <input type="text" name="q" style="height:15px;font-size:11px;" value="Search Games" onblur="if(this.value=='') this.value='Search Games';" onfocus="if(this.value=='Search Games') this.value='';">
+                    <input type="submit" name="Submit" value="GO" style="height:20px;font-size:11px; margin-top:2px; cursor:pointer;">
+                  </form>
+             </div>
+         
+       	 </div>
+       </div>
+       
+       <div class="cat-menus">
+             
+            <ul class="dropdown">
+               <li><span><a href="http://www.tremorgames.com/categories/8/bike-games.html" title="Bike "><div class="shadow">Bike </div><div class="text">Bike </div></a><ul class="sub_menu" style="left:0px;"><li><a href="http://www.tremorgames.com/categories/62/dirt-bike-games.html"><div class="shadow">Dirt Bike Games</div><div class="text">Dirt Bike Games</div></a></li><li class="last_list"><a href="http://www.tremorgames.com/categories/101/scooter-games.html"><div class="shadow">Scooter Games</div><div class="text">Scooter Games</div></a></li><li class="dropdown_btm">&nbsp;</li></ul></span>
+				
+					</li><li><span><a href="http://www.tremorgames.com/categories/4/car-games.html" title="Car "><div class="shadow">Car </div><div class="text">Car </div></a><ul class="sub_menu" style="left:0px;"><li><a href="http://www.tremorgames.com/categories/33/atv-games.html"><div class="shadow">ATV Games</div><div class="text">ATV Games</div></a></li><li class="last_list"><a href="http://www.tremorgames.com/categories/44/drifting-games.html"><div class="shadow">Drifting Games</div><div class="text">Drifting Games</div></a></li><li class="dropdown_btm">&nbsp;</li></ul></span>
+				
+					</li><li><span><a href="http://www.tremorgames.com/categories/142/cartoon-games.html" title="Cartoon "><div class="shadow">Cartoon </div><div class="text">Cartoon </div></a></span>
+				
+					</li><li><span><a href="http://www.tremorgames.com/categories/64/christmas-games.html" title="Christmas "><div class="shadow">Christmas </div><div class="text">Christmas </div></a><ul class="sub_menu" style="left:0px;"><li><a href="http://www.tremorgames.com/categories/105/christmas-puzzle-games.html"><div class="shadow">Christmas Puzzle Games</div><div class="text">Christmas Puzzle Games</div></a></li><li class="last_list"><a href="http://www.tremorgames.com/categories/104/santa-games.html"><div class="shadow">Santa Games</div><div class="text">Santa Games</div></a></li><li class="dropdown_btm">&nbsp;</li></ul></span>
+				
+					</li><li><span><a href="http://www.tremorgames.com/categories/58/fighting-games.html" title="Fighting "><div class="shadow">Fighting </div><div class="text">Fighting </div></a><ul class="sub_menu" style="left:0px;"><li><a href="http://www.tremorgames.com/categories/125/boxing-games.html"><div class="shadow">Boxing Games</div><div class="text">Boxing Games</div></a></li><li class="last_list"><a href="http://www.tremorgames.com/categories/123/wrestling-games.html"><div class="shadow">Wrestling Games</div><div class="text">Wrestling Games</div></a></li><li class="dropdown_btm">&nbsp;</li></ul></span>
+				
+					</li><li><span><a href="http://www.tremorgames.com/categories/36/funny-games.html" title="Funny "><div class="shadow">Funny </div><div class="text">Funny </div></a></span>
+				
+					</li><li><span><a href="http://www.tremorgames.com/categories/30/physics-games.html" title="Physics "><div class="shadow">Physics </div><div class="text">Physics </div></a></span>
+				
+					</li><li><span><a href="http://www.tremorgames.com/categories/3/shooting-games.html" title="Shooting "><div class="shadow">Shooting </div><div class="text">Shooting </div></a><ul class="sub_menu" style="left:0px;"><li class="last_list"><a href="http://www.tremorgames.com/categories/19/sniper-games.html"><div class="shadow">Sniper Games</div><div class="text">Sniper Games</div></a></li><li class="dropdown_btm">&nbsp;</li></ul></span>
+				
+					</li><li><span><a href="http://www.tremorgames.com/categories/12/sports-games.html" title="Sports "><div class="shadow">Sports </div><div class="text">Sports </div></a><ul class="sub_menu" style="left:0px;"><li><a href="http://www.tremorgames.com/categories/74/baseball-games.html"><div class="shadow">Baseball Games</div><div class="text">Baseball Games</div></a></li><li><a href="http://www.tremorgames.com/categories/73/basketball-games.html"><div class="shadow">Basketball Games</div><div class="text">Basketball Games</div></a></li><li><a href="http://www.tremorgames.com/categories/124/bowling-games.html"><div class="shadow">Bowling Games</div><div class="text">Bowling Games</div></a></li><li><a href="http://www.tremorgames.com/categories/18/golf-games.html"><div class="shadow">Golf Games</div><div class="text">Golf Games</div></a></li><li><a href="http://www.tremorgames.com/categories/70/rugby-games.html"><div class="shadow">Rugby Games</div><div class="text">Rugby Games</div></a></li><li class="last_list"><a href="http://www.tremorgames.com/categories/28/tennis-games.html"><div class="shadow">Tennis Games</div><div class="text">Tennis Games</div></a></li><li class="dropdown_btm">&nbsp;</li></ul></span>
+				
+					</li><li><span><a href="http://www.tremorgames.com/categories/2/stick-games.html" title="Stick "><div class="shadow">Stick </div><div class="text">Stick </div></a><ul class="sub_menu" style="left:0px;"><li><a href="http://www.tremorgames.com/categories/57/stick-fighting-games.html"><div class="shadow">Stick Fighting Games</div><div class="text">Stick Fighting Games</div></a></li><li class="last_list"><a href="http://www.tremorgames.com/categories/59/stick-shooting-games.html"><div class="shadow">Stick Shooting Games</div><div class="text">Stick Shooting Games</div></a></li><li class="dropdown_btm">&nbsp;</li></ul></span>
+				
+					</li><li><span><a href="http://www.tremorgames.com/categories/32/truck-games.html" title="Truck "><div class="shadow">Truck </div><div class="text">Truck </div></a><ul class="sub_menu" style="left:0px;"><li class="last_list"><a href="http://www.tremorgames.com/categories/63/tractor-games.html"><div class="shadow">Tractor Games</div><div class="text">Tractor Games</div></a></li><li class="dropdown_btm">&nbsp;</li></ul></span>
+				
+					</li><li><span><a href="http://www.tremorgames.com/categories/136/zombie-games.html" title="Zombie "><div class="shadow">Zombie </div><div class="text">Zombie </div></a></span>
+				
+					</li><li class="more" style="color:#ffe71f;"><span><a id="moreid" href="http://www.tremorgames.com/index.php#full_category_list"><div class="shadow">MORE...</div><div class="text">MORE...</div></a>
+									</span></li>            </ul>
+         
+         </div>
+    
+    	
+    </div>
+    
+        
+    <div class="middle-container" style="padding-top:0px;">
+    
+            
+                
+        <div class="index-middle" style="margin-top:0px;">
+        
+        	            
+                        
+            	<div class="main_section_box">
+<div class="ads728x90_top">
+    	<script type="text/javascript"><!--
+google_ad_client = "pub-6412763491962446";
+/* 728x90, created 6/23/10 */
+google_ad_slot = "7120601650";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>    </div>
+    
+<div class="main_section_headers">
+	<span>Privacy Policy</span>
+    <div class="subpage_header_backlink">
+        <a href="javascript:history.go(-1);">&lt;&lt; back</a>
+    </div>
+</div>
+<div class="main_section_content">
+	<div class="tos_text">
+        <p>Please read the  privacy policy to know and understand how we use the information  provided by you.</p>
+        <p><br>
+		 
+
+</p><p>At www.tremorgames.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.tremorgames.com and how it is used.</p>
+<p><strong>Log Files</strong><br>
+Like many other Web sites, www.tremorgames.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.</p>
+<p><strong>Cookies and Web Beacons</strong><br>
+
+www.tremorgames.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.</p>
+<p><strong>DoubleClick DART Cookie</strong><br>
+.:: Google, as a third party vendor, uses cookies to serve ads on www.tremorgames.com.<br>
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.tremorgames.com and other sites on the Internet.<br>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html</p>
+<p>Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….<br>
+Google Adsense</p>
+
+<p>These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.tremorgames.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.</p>
+<p>www.tremorgames.com has no access to or control over these cookies that are used by third-party advertisers.</p>
+<p>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.tremorgames.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p>
+<p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.</p>
+
+        <p></p>
+        <ol>
+          <li>
+            <p>When a user  registers at <a href="http://www.tremorgames.com/">Tremor Games</a>, information provided voluntarily is  	collected and stored for accessing the facilities provided in the website.</p>
+          </li>
+        </ol>
+        <p><br>
+        </p>
+        <ol start="2">
+          <li>
+            <p>We do not  	share information provided by you with anyone without your consent</p>
+          </li>
+        </ol>
+        <p><br>
+        </p>
+        <ol start="3">
+          <li>
+            <p>You are  	governed by the privacy policies of the sites linking to and from  	<a href="http://www.tremorgames.com/">Tremor Games</a>. Please go through the respective privacy policies  	for details.</p>
+          </li>
+        </ol>
+        <p><br>
+        </p>
+        <ol start="4">
+          <li>
+            <p>Avoid posting  	sensitive personal details on the website. <a href="http://www.tremorgames.com/">Tremor Games</a> will not  	assume any responsibility for consequences arising out of the  	information divulged by users on the website.</p>
+          </li>
+        </ol>
+	</div>
+</div>
+</div>                
+        <div class="index-left" style="float:right; padding-top:15px; padding-right:23px;">
+    <div class="left-section">
+        <div class="left-section-top"></div>
+        <div class="left-section-mid">
+        
+                        
+            <div class="sidebar-title"><span class="tp">TOP PLAYERS</span>
+                <div class="tp-icon"><img src="http://www.tremorgames.com/templates/tremor/images/tp-icon.png" alt=""></div>
+            </div>
+            
+            <div class="top-player-list">
+                <div class="tp-rows">
+					<div class="imgpart"><img src="http://www.tremorgames.com/images/avatars/280-66math.random.jpg" width="30" height="30" style="margin:1px; border:1px solid #000000;"></div>
+					<div class="txtpart">
+						<span class="gamename">adi_tabi</span><br>
+						<span class="viewp">(<a href="http://www.tremorgames.com/profiles/316/aditabi.html">View profile</a>)</span>
+					</div>
+					<div class="points">211 points</div>
+				</div><div class="tp-rows">
+					<div class="imgpart"><img src="http://www.tremorgames.com/images/noavatar.gif" width="30" height="30" style="margin:1px; border:1px solid #000000;"></div>
+					<div class="txtpart">
+						<span class="gamename">gabrielfey</span><br>
+						<span class="viewp">(<a href="http://www.tremorgames.com/profiles/488/gabrielfey.html">View profile</a>)</span>
+					</div>
+					<div class="points">109 points</div>
+				</div><div class="tp-rows">
+					<div class="imgpart"><img src="http://www.tremorgames.com/images/avatars/feed-us.png" width="30" height="30" style="margin:1px; border:1px solid #000000;"></div>
+					<div class="txtpart">
+						<span class="gamename">krull</span><br>
+						<span class="viewp">(<a href="http://www.tremorgames.com/profiles/262/krull.html">View profile</a>)</span>
+					</div>
+					<div class="points">94 points</div>
+				</div><div class="tp-rows">
+					<div class="imgpart"><img src="http://www.tremorgames.com/images/avatars/run-ninja-run.png" width="30" height="30" style="margin:1px; border:1px solid #000000;"></div>
+					<div class="txtpart">
+						<span class="gamename">alex1234</span><br>
+						<span class="viewp">(<a href="http://www.tremorgames.com/profiles/391/alex1234.html">View profile</a>)</span>
+					</div>
+					<div class="points">83 points</div>
+				</div><div class="tp-rows">
+					<div class="imgpart"><img src="http://www.tremorgames.com/images/avatars/212-21Sjoerd.jpg" width="30" height="30" style="margin:1px; border:1px solid #000000;"></div>
+					<div class="txtpart">
+						<span class="gamename">8341877</span><br>
+						<span class="viewp">(<a href="http://www.tremorgames.com/profiles/305/8341877.html">View profile</a>)</span>
+					</div>
+					<div class="points">54 points</div>
+				</div>            </div>
+            
+            <div class="side-sep"></div>
+            
+                        
+           
+            
+            
+            
+            
+           
+        
+            
+       
+            
+           
+                                    
+           
+            
+                             <div class="stat-top"></div>
+                <div class="stat-mid" style="padding-left:0px; width:193px; text-align:center;">
+                    <script type="text/javascript"><!--
+google_ad_client = "pub-6412763491962446";
+/* 160x600, created 6/21/10 */
+google_ad_slot = "4228060065";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>                </div>
+                <div class="stat-btm"></div>
+                    
+        </div>
+        <div class="left-section-btm"></div>
+    </div>
+</div>          
+                    
+      </div>
+
+	</div> <!-- Middle Container -->
+    
+    <div class="middle-cont-btm"></div>
+    
+        
+    <div class="fg-btm-curve"></div>
+    
+    <div class="seotextcontent">
+	        </div>
+    
+
+</div><!-- Wrapper -->
+
+</div>
+
+<div class="footer">
+
+	<div class="footer-content">
+		 <div class="fmenus">
+             
+             	<ul>
+                	<li><a href="http://www.tremorgames.com/index.php">Tremor Games</a></li>
+                    <li><a href="http://www.tremorgames.com/index.php?action=aboutus" title="About us">About Us</a></li>
+                                        	<li><a href="http://www.tremorgames.com/index.php?action=submit" title="Submit a game">Submit A Game</a></li>
+                                        <li><a href="http://www.tremorgames.com/index.php?action=rss" title="RSS Feeds">RSS Feeds</a></li>
+                                        	<li><a href="http://www.tremorgames.com/index.php?action=memberlist">Member List</a></li>
+                                        <li><a href="http://www.tremorgames.com/index.php?action=gamesforsite">Games For Your Site</a></li>
+                    <li><a href="http://www.tremorgames.com/index.php?action=contact" title="Contact us">Contact Us</a></li>
+                </ul>
+             
+         </div>
+          <div class="footer-left">
+            (c)2011  -Tremor Games  - Play Free Online Flash Games    -   <a href="http://www.tremorgames.com/index.php?action=tos">Terms of Service</a>  |  <a href="http://www.tremorgames.com/index.php?action=privacy">Privacy</a>  |  <a href="http://www.tremorgames.com/index.php?action=faq">FAQ</a>
+         </div>
+         
+         
+
+     </div>
+     
+   	<input type="hidden" id="base_url" name="base_url" value="http://www.tremorgames.com/">
+    
+    </div>
+
+<script type="text/javascript">
+swfobject.registerObject("FlashID");
+</script>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20828227-48']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body></html>
