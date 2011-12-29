@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edenfantasys.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617071938id_/http%3A//www.edenfantasys.com/support/shopping/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edenfantasys.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229202742id_/http%3A//www.edenfantasys.com/support/shopping/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Shopping Support - Support
+# Privacy Policy - Shopping Information - Support
 
 **Ordering information privacy policy**
 
@@ -19,4 +19,4 @@
 **Discreet billing and shipping information**   
 \- We ship our products in plain brown or white boxes. The sender on the shipping label will be Web Merchants Inc. 
 
-\- "WM8003509050NJ" is what will appear on your credit card statement. 
+\- "WEB MERCHANTS" or "EF8885065516" is what will appear on your credit card statement. 
