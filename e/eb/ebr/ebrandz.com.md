@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebrandz.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225031423id_/http%3A//www.ebrandz.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebrandz.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230063520id_/http%3A//www.ebrandz.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # eBrandz™ : Privacy Policy
 
@@ -10,9 +10,19 @@ We have made the unsubscription process very simple. You may opt out of any futu
 **Security**  
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. 
 
-Sensitive information such as credit card data are collected through trusted vendors like Google Checkout or CCAvenue. Approrpiate measures are taken by them to encrypt the data. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the webaddress when you are in the process of transaction. 
+Sensitive information such as credit card data are collected through trusted vendors like Google Checkout or CCAvenue. Appropriate measures are taken by them to encrypt the data. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the webaddress when you are in the process of transaction. 
 
 While encryption is used to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment behind a hardware firewall. 
+
+**Data Collection:**
+
+eBrandz uses third party tracking tools inlcuding Google to track data to understand performance of website. No personal identifiable information is collected. 
+
+  * Third party vendors, including Google, show our ads on sites on the internet. 
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
+  * Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy/ads/).
+
+
 
 **Contact Form**  
 In order for us to contact you, a user must first complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. 
@@ -25,35 +35,3 @@ In the event eBrandz updates it's privacy policy then that information will be p
 
 **Questions?**  
 If you have any further questions or concerns then feel free to [contact us.](http://www.ebrandz.com/feedback.htm)
-
-**Press**
-
-  * [Press Kit](https://web.archive.org/web/20101225031423id_/http%3A//www.ebrandz.com/press-kit.htm)
-  * [Press Releases](https://web.archive.org/web/20101225031423id_/http%3A//www.ebrandz.com/press-releases.htm)
-  * [Media Coverage](https://web.archive.org/web/20101225031423id_/http%3A//www.ebrandz.com/press.htm)
-
-
-
-...................................... 
-
-**Case Studies**
-
-...................................... 
-
-**Testimonials**
-
-I would say the communications with eBrandz were adequate and more important, true. I could actually believe what was said, and if something was promised, it was delivered. If I asked for something that was not automatically provided, such as a comparison of search engine ranking from start to current month, it would be provided without question in a day or two. 
-
-**Eric C Anderson, President**  
-**Anderson Creations**
-
-...................................... 
-
-The team at ebrandz gets the job done with utmost professionalism and dedication. I would not have anyone else but ebrandz tackle the complex issues of search engine optimization 
-
-**Cameron Rokhsar (MD FAAD FAACS)**  
-**Cosmetic & Laser Skin Surgery Center of New York. **
-
-[More Testimonials](https://web.archive.org/web/20101225031423id_/http%3A//www.ebrandz.com/usa-testimonials.htm) [](https://web.archive.org/web/20101225031423id_/http%3A//www.ebrandz.com/usa-testimonials.htm)
-
-...................................... 
