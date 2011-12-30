@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hide-my-ip.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204001239id_/http%3A//www.hide-my-ip.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hide-my-ip.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230014927id_/http%3A//www.hide-my-ip.com/privacy.shtml) for the most accurate reproduction.*
 
 # Hide-My-IP.Com - Our Privacy Statement
 
@@ -22,10 +22,14 @@ Third-party Links
 
 Our web site may contain external links to other third-party web sites. We are not in any way responsible for the content, security, or privacy policies of these external web sites.
 
+Trial Software Usage
+
+Some of our products offer a free trial including the Hide My IP program with the 14 day free trial.  The Hide My IP 14 day trial is a free, no obligation trial that provides a functional demo of the software for evaluation purposes. We collect no payment or personal information to start the trial and there is no obligation to purchase the software when the trial is finished.
+
 Children's Online Privacy Protection Act
 
 The privacy and protection of children is especially important to us. As per the Children's Online Privacy Protection Act, we do not collect personally identifiable information from children without prior parental consent nor do we provide links to external web sites that are inappropriate for children.
 
 How to Contact Us
 
-If you have any questions about our privacy policy or Hide-My-IP.com, please visit our [contact page](https://web.archive.org/web/20101204001239id_/http%3A//www.hide-my-ip.com/contact.cgi).
+If you have any questions about our privacy policy or Hide-My-IP.com, please visit our [contact page](https://web.archive.org/web/20111230014927id_/http%3A//www.hide-my-ip.com/contact.cgi).
