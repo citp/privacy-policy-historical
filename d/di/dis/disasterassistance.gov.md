@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disasterassistance.gov privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614022341id_/http%3A//www.disasterassistance.gov/privacy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disasterassistance.gov privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230044456id_/http%3A//www.disasterassistance.gov/privacy-and-terms-of-use) for the most accurate reproduction.*
 
 # DisasterAssistance.gov - Privacy & Terms of Use
 
