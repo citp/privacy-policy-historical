@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildgames.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630022623id_/http%3A//about.wildtangent.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildgames.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230072738id_/http%3A//about.wildtangent.com/legal/privacy) for the most accurate reproduction.*
 
 # WildTangent: Privacy Policy
 
