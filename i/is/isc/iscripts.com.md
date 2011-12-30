@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iscripts.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514103950id_/http%3A//www.iscripts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iscripts.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230013838id_/http%3A//www.iscripts.com/privacy.php) for the most accurate reproduction.*
 
 # iScripts.com, paid and free opensource PHP web scripts and software. Create turnkey web business in social networking, virtual mall, online swapping, image hosting, site builder using our web apps
 
