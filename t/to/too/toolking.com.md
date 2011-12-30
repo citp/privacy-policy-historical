@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolking.com privacy policy that was archived on 2010-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100813215209id_/http%3A//www.toolking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolking.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230012038id_/http%3A//www.toolking.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,15 +10,23 @@ Note, the privacy practices set forth in this privacy policy are for this web si
 
 We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
 
-**NOTE FOR FESTOOL CUSTOMERS:** As a Festool dealer, it is a requirement per Festool that Tool King register tools on the behalf of of our Festool customers. As a result your name, company name, address, phone number & email address will be shared with Festool.
+**NOTE FOR FESTOOL CUSTOMERS:** As a Festool dealer, it is a requirement per Festool that Tool King register tools on the behalf of our Festool customers. As a result your name, company name, address, phone number & email address will be shared with Festool.
 
 ### Cookie/Tracking Technology
 
 This site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors on this site, and understanding how visitors use our Site. Cookies can also help customize our site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate (non-personal) cookie and tracking information may be shared with third parties.
 
+### Google Adsense and the DoubleClick DART Cookie
+
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies.
+
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, DinosaurBedding.net has no access or control over these cookies that may be used by third party advertisers.
+
 ### Distribution of Information
 
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. We will NOT share your personal information with other companies or agencies for marketing purposes.
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud that has already taken place. We will NOT share your personal information with other companies or agencies for marketing purposes.
 
 ### Commitment to Data Security
 
@@ -26,11 +34,11 @@ Your personally identifiable information is kept secure. Only authorized employe
 
 ### Passwords
 
-While creating an account with Tool King you'll be asked to provide a personal password. This password will be used for all future access to your account. The password should be something the user will easily remember. You will be provided with a Password Hint drop-down. This box will allow you to pick a word that relates to something like your hometown or your pets name. And you will give yourself a hint, to ensure you remember. If you do happen to forget your password or log-in your password incorrectly, simply click on the 'Forgot Password' link under the member login area. We will email you the password. (For security reasons, we cannot assign a password for you, nor can we provide it to you over the phone in case you forget it.  
+While creating an account with Tool King, you will be asked to provide a personal password. This password will be used for all future access to your account. The password should be something the user will easily remember. You will be provided with a Password Hint drop-down. This box will allow you to pick a word that relates to something like your hometown or your pets name. You will also be able to give yourself a hint, to ensure you remember. If you do happen to forget your password or login your password incorrectly, simply click on the 'Forgot Password' link under the member login area. We will email you the password. (For security reasons, we cannot assign a password for you, nor can we provide it to you over the phone in case you forget it.  
 
 ### SSL Technology
 
-Secure Sockets Layer (SSL) technology is presently the safest way to send credit card information over the Internet. Information is first encrypted on your computer, then decrypted on our server, preventing anyone from accessing any information inbetween. To ensure your security, we recommend the use of SSL-capable browsers, like Netscape 3.0 or Internet Explorer 3.0 or higher.
+Secure Sockets Layer (SSL) technology is presently the safest way to send credit card information over the Internet. Information is first encrypted on your computer, then decrypted on our server, preventing anyone from accessing any information in between. To ensure your security, we recommend the use of SSL-capable browsers, like Netscape 3.0 or Internet Explorer 3.0 or higher.
 
 ### Privacy Contact Information
 
