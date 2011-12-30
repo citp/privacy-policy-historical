@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leisure.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630090050id_/http%3A//leisure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leisure.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230090120id_/http%3A//leisure.com/privacy.php) for the most accurate reproduction.*
 
 # Leisure | Privacy Statement
 
@@ -46,6 +46,8 @@ Although you may Opt Out of receiving email offers and promotions, we may still 
 
 Leisure.com does all we can to protect your personally identifiable information with our extensive security measures from unauthorized use and access. Submitting personally identifiable information by email is not safe, because the information can be read by anyone who intercepts it.
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
+
 ### Updating your Leisure account
 
 Any changes to your personally identifiable information related to your Leisure.com account can be made by contacting a Leisure representative by phone or email.
@@ -56,4 +58,4 @@ Leisure.com reserves the right to alter our Privacy Statement at our discretion.
 
 ### Contact the Leisure team
 
-You may contact the Leisure Team by [Clicking Here](https://web.archive.org/web/20100630090050id_/http://leisure.com/contact/) to visit the Contact page.
+You may contact the Leisure Team by [Clicking Here](https://web.archive.org/web/20111230090120id_/http%3A//contact/) to visit the Contact page.
