@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youlovecoupons.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609060236id_/http%3A//youlovecoupons.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youlovecoupons.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230164734id_/http%3A//youlovecoupons.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Discount Coupon Codes and Promotional Vouchers
 
@@ -56,4 +56,4 @@ By using our site, you consent to our online privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page without prior notice.
 
-If you wish to [contact us](http://www.youlovecoupons.com/contact-us.html "contact us") please use the Contact Us page or email us at info[at]youlovecouponsdotcom
+If you wish to [contact us](http://www.youlovecoupons.com/contact-us/ "contact us") please use the Contact Us page or email us at info[at]youlovecouponsdotcom
