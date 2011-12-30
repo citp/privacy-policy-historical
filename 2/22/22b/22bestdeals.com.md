@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 22bestdeals.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630152722id_/http%3A//www.22bestdeals.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 22bestdeals.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230054152id_/http%3A//www.22bestdeals.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - 22BestDeals.com
 
 22bestdeals and its affiliates respect your privacy. This Privacy Policy provides succinctly in the manner your data is collected and used by 22bestdeals. You are advised to please read the Privacy Policy carefully. By accessing the services provided by 22bestdeals you agree to the collection and use of your data by 22bestdeals in the manner provided in this Privacy Policy.
 
@@ -12,7 +12,7 @@
 
 • [Contact us](http://contact%20us/) with your questions or concerns about privacy on this website
 
-• Know that by using our website you are consenting to the collection of certain data. We are committed to protect your personal privacy. 22bestdeals will not give out your telephone number or email address, except when it is needed to deliver a product or service you ordered.
+• Know that by using our website you are consenting to the collection of certain data. We are committed to protect your personal privacy. 22bestdeals will not share your telephone number or email address, except when it is needed to deliver a product or service you ordered.
 
 • We will not disclose your account information. In other words, we will never rent or sell your name, address, email address or personal details to any third party.
 
