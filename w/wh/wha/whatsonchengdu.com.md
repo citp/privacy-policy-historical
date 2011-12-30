@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatsonchengdu.com privacy policy that was archived on 2011-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110212131928id_/http%3A//www.whatsonchengdu.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsonchengdu.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230063847id_/http%3A//www.whatsonchengdu.com/policy.php) for the most accurate reproduction.*
 
 # Policy - What's On Chengdu
 
