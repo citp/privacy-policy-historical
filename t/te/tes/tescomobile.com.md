@@ -1,35 +1,43 @@
-> *The following text is extracted and transformed from the tescomobile.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613234749id_/http%3A//www.tesco.com/mobile/guideSmallPrint2.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescomobile.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230060927id_/http%3A//phone-shop.tesco.com/tesco-mobile/about-us/terms-paym-privacy.aspx) for the most accurate reproduction.*
 
-# Tesco.com - Mobile phones
+# Pay monthly - Privacy Policy - Terms & Conditions - Tesco Mobile
 
-**What information do we collect and how do we use it?**  
-With your permission, we may collect or hold information on you such as your name and contact details, or use that already held by the Tesco Group to occasionally notify you about important changes to services or to manage your account.
+Please read this Privacy Policy carefully as it sets out how we use your personal information.
 
-We may also use your information and your usage history to help shape our recommendations about potential Tesco Mobile products, tariffs and services, or those of third parties, that might be of interest to you, and to inform you of these. Please contact Tesco Mobile customer care on 0870 900 4455 if you do not wish to receive such information.
+The Tesco Mobile Pay monthly Service Terms and Conditions and Tesco Mobile Pay monthly Tariff Terms and Conditions also apply.
 
-We may collect additional information in connection with your participation in any promotions or competitions offered by us and information you provide when giving us feedback or completing profile forms. We also monitor customer traffic patterns and site use which enables us to improve the service we provide.
+## 1\. Using your information
 
-| 
+1.1 You must let us know if you change your name, address, telephone number or bank details.
 
-**How do we protect your details?**  
-Pages that display your personal information or that ask you to enter personal information are protected by SSL (Secure Socket Layer) technology, which encrypts your details as they travel between us. This ensures that the information cannot be obtained by any third party.
+1.2 We may use and share your information, information relating to the provision of Tesco Mobile Pay monthly Service, and other information about you available to us to identify you and consider your application, provide you with Tesco Mobile Pay monthly Service, conduct research on your use of Tesco Mobile Pay monthly Service to help us make informed business decisions, and inform you about Tesco Group products and services.
 
-Furthermore, as required by the UK Data Protection Act of 1998, we follow strict security procedures in the storage and disclosure of information that you have given us to prevent unauthorised access. This means we request proof of identity before displaying your account details.
+## 2\. Credit Reference Agencies
 
-**Is the security of the site verified by a third party?**  
-All sites that use SSL technology need to be certified. Our site is certified by Thawte, a subsidiary of VeriSign, the leading internet security company. In order to gain this certificate, we have satisfied Thawte that we have taken all the necessary measures to protect your personal information.
+2.1 We will search your record at credit reference agencies who will supply us with credit information, as well as information from the Electoral Register. We will also add to your record with the credit reference agency details of your contract with us, the payments you make under it and any default or failure to keep to its terms.
 
-**How do I know if the page I'm using is secure?**  
-There are two ways of knowing that a page is secure. The first is that the URL starts "https" rather than "http". The second way is from the special icon, as follows, at the foot of your browser window.
+2.2 The credit reference agency will record details of the search whether or not your application proceeds. We may use credit scoring or other automated decision-making systems when assessing your application and to verify your identity. Credit searches and other information which is provided to us and/or the credit reference agencies, about you and those with whom you are linked financially may be used by us and other companies if credit decisions are made about you, or other members of your household. This information may also be used for debt tracing and the prevention of money laundering as well as the management of your account.
 
-**Internet Explorer** \- look for a padlock icon on the bottom bar of the browser window. Click on it to view the security certificate.
+2.3 Information held about you by the credit reference agencies may already be linked to records relating to one or more of your partners and you may be treated as financially linked which means your application will be assessed with reference to any associated records.
 
-**Netscape Communicator** \- a padlock on the bottom bar is locked on secure pages and unlocked on other pages. Again, click to check the security certificate.
+## 3\. Fraud Prevention Agencies
 
-**Netscape Navigator** \- a key icon is shown on secure pages. Go to the 'View' menu and choose 'Document Info' to inspect the certificate.
+3.1 If false or inaccurate information is provided and fraud is identified or suspected, details may be passed to fraud prevention agencies.
 
-**What about "cookies"?**  
-Our cookies do not contain personally identifying information or passwords. They simply enable us to recognise existing customers when they come to the website. This means customers will be shown the log-in page rather than the home page when they visit us.
+3.2 Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example, when: checking applications for, and managing credit and credit related or other facilities; recovering debt; checking insurance proposals and claims; checking details of job applicants and employees. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
 
-  
+3.3 If you want to receive details of credit reference and fraud prevention agencies we use, please contact Customer Care on 4445 from your Tesco Mobile or by telephoning 0845 301 4455 or writing to Tesco Mobile Ltd, Dumers Lane, Radcliffe, Bury BL9 9QL.
 
+## 4\. Monitoring and recording calls
+
+4.1 We may monitor and record calls made to or by our Customer Services for monitoring and training purposes and to improve the services we offer you.
+
+## 5\. Sharing your information
+
+5.1 We may pass your information to other members of the Tesco Group. We will never pass your information to anyone-else, except where we have your permission, where we are required or permitted to do so by law, to other companies who provide a service to us and any successors in title to our business. Your information will never be released to companies outside the Tesco Group for their marketing purposes.
+
+## 6\. General
+
+6.1 If you would like to obtain a copy of the information we hold about you, please write to: Data Protection Officer, Corporate & Legal Affairs, New Tesco House, Delamare Road, Cheshunt, Hertfordshire EN8 9SL enclosing your cheque for £10 payable to "Tesco Stores Limited" and any details to help us identify and locate your information.
+
+6.2 The Tesco Mobile Pay Monthly Service is operated by Tesco Mobile Limited, Tesco House, Delamare Road, Cheshunt, Hertfordshire, EN8 9SL. Company Registration No. 04780736, VAT No. 815-3845-24.
