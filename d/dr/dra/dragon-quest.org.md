@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dragon-quest.org privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601011936id_/http%3A//dragon-quest.org/wiki/Dragon_Quest_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragon-quest.org privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230032505id_/http%3A//dragon-quest.org/wiki/Dragon_Quest_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # Dragon Quest Wiki:Privacy policy - Dragon Quest Wiki
 
-### From Dragon Quest Wiki
+From Dragon Quest Wiki
 
 All content on Dragon Quest Wiki is distributed under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/) and open for anyone to edit. This includes any information which is posted by users. Anyone who contributes content on the Dragon Quest Wiki is advised to be aware of the license under which content is released. 
 
