@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidstart.com privacy policy that was archived on 2011-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110405201007id_/http%3A//www.bidstart.com/wiki/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidstart.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230064242id_/http%3A//www.bidstart.com/wiki/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - StampWantsWiki
 
@@ -8,7 +8,7 @@ This privacy policy sets out how bidStart uses and protects any information that
 
 bidStart is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
 
-bidStart may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from February 25, 2010. 
+bidStart may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from August 21, 2011. 
 
 ## Contents
 
@@ -18,8 +18,8 @@ bidStart may change this policy from time to time by updating this page. You sho
   * 4 MyMessages
   * 5 Security
   * 6 How we use cookies
-  * 7 Links to other websites
-  * 8 Controlling your personal information
+  * 7 Controlling your personal information
+  * 8 Links to other websites
 
 
 
@@ -35,6 +35,8 @@ We may collect the following information:
 
 
 ## What we do with the information we gather
+
+**We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law.**
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
@@ -68,16 +70,16 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website, and you will not be able to login to your account. 
 
-## Links to other websites
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
-
 ## Controlling your personal information
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/ "http://www.networkadvertising.org"). 
-
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to us (see the Contact Us Page). 
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible. We will promptly correct any information found to be incorrect. 
+
+## Links to other websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/ "http://www.networkadvertising.org"). Please note that this is in no way related to any information we collect from you. We do not share any of your personal information we collect with these companies. 
