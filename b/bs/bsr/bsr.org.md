@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsr.org privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630142902id_/http%3A//www.bsr.org/en/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsr.org privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230084954id_/http%3A//www.bsr.org/en/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BSR | Sustainability, Corporate Social Responsibility Network and Consultancy
 
