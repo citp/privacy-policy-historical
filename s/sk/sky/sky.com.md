@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sky.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426034306id_/http%3A//www.sky.com/portal/site/skycom/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sky.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230073245id_/http%3A//www.sky.com/helpcentre/account-and-billing/privacy-notice) for the most accurate reproduction.*
 
 # Sky Account & Billing | Privacy Notice
 
@@ -88,7 +88,7 @@ We use information from cookies for purposes which may include:
 
 If you do not want information to be collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookies feature. Please note, however, that there may be some deterioration in the service you receive (for example, you may not be able to access online content such as Sky Player or undertake self-service activities).
 
-For more detailed information on how to manage or disable cookies, please go to [http://www.aboutcookies.org](http://www.aboutcookies.org/). To opt out of the use of specific cookies, please see below.
+For more detailed information on how to manage or disable cookies, please go to [http://www.aboutcookies.org.](http://www.allaboutcookies.org/) To opt out of the use of specific cookies, please see below.
 
  
 
@@ -134,7 +134,7 @@ We also use cookies served by third parties in order to make our advertising on 
 
   * [www.youronlinechoices.com/uk/your-ad-choices](http://www.youronlinechoices.com/uk/your-ad-choices)
   * [www.doubleclick.com/privacy/index.aspx](http://www.doubleclick.com/privacy/index.aspx)
-  * [www.infectiousmedia.com/index.php/privacy-statement](http://www.infectiousmedia.com/index.php/privacy-statement)
+  * [www.infectiousmedia.com/index.php/privacy-statement](http://www.infectiousmedia.com/uploads/infectious/privacy-policy.pdf)
   * [www.google.com/ads/preferences/html/about.html](http://www.google.com/ads/preferences/html/about.html)
   * <https://choice.live.com/advertisementchoice/Default.aspx>
   * [www.contextweb.com/privacy_policy/opt_out](http://www.contextweb.com/privacy_policy/opt_out)
@@ -142,7 +142,7 @@ We also use cookies served by third parties in order to make our advertising on 
   * <http://content.yieldmanager.com/ym_privacy.html>
   * [www.rubiconproject.com/transparency](http://www.rubiconproject.com/transparency)
 
-  
+
 
 ### Adtech cookie
 
