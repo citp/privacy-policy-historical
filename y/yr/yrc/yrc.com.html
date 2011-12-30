@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yrc.com privacy policy that was archived on 2011-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110622054936id_/http%3A//www.yrc.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yrc.com privacy policy that was archived on 2011-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111230171101id_/http%3A//www.yrc.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <title>Privacy Policy</title>
@@ -53,6 +53,7 @@
 Copyright 1997-2008 Omniture, Inc. More info available at
 http://www.omniture.com -->
 <script language="JavaScript" type="text/javascript" src="/siteflow/scripts/s_code.js"></script>
+
 <script language="JavaScript" type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
@@ -87,7 +88,11 @@ s.prop1=""
 s.prop2=""
 s.prop3=""
 /* Conversion Variables */
-var myevents = "(none)";
+if (location.href.indexOf("/services/yrctimecritical.html") > -1)
+	{ var myevents = "event41,event42"; }
+else
+  { var myevents="(none)";
+}
 var myproducts = "(none)";
 s.events=(myevents!='(none)')?myevents:"";
 s.products=(myproducts!='(none)')?myproducts:"";
@@ -227,7 +232,7 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 			<li><a href="/search/">Search</a></li>
 			<li><a href="/sitemap/">Site Map</a></li>
 			<li><a href="/yrcnews/">YRC News</a></li>
-			<li class="last">1-800-610-6500</li>
+			<li class="last">Customer Support: 800-610-6500</li>
 		</ul>
 		<ul class="navlist" style="margin:0;">
 			<li class="first"><a onclick="MM_openBrWindow('https://server.iad.liveperson.net/hc/60557662/?cmd=file&amp;file=visitorWantsToChat&amp;site=60557662&amp;SESSIONVAR!skill=Live%20Chat&amp;byhref=1','liveChat','width=472,height=320');return false;" target="liveChat" href="https://server.iad.liveperson.net/hc/60557662/?cmd=file&amp;file=visitorWantsToChat&amp;site=60557662&amp;SESSIONVAR!skill=Live%20Chat&amp;byhref=1">Live Chat</a></li>
@@ -244,7 +249,7 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 			<li class="last">Copyright © 2011 YRC Inc.</li>
 		</ul>
 	</div>
-	<div class="logosRight"><img src="/siteflow/png/YRC_legacy_exp_cmyk.png" width="183" height="12" border="0"></div>
+	<div class="logosRight"></div>
 </div>
 
 <!-- Login Form and Navigation -->
@@ -263,7 +268,7 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 			<a href="/shipping_tools/"><span>TOOLS</span></a>
 			<ul>
 				<div>
-					<li><a href="https://my.yrc.com/dynamic/national/servlet?CONTROLLER=com.rdwy.ec.rexclaims.http.controller.DisplayClaimStatusInquiryController&amp;DESTINATION=/rexclaims/claimStatusInquiry.jsp&amp;ERRORDESTINATION=/rexclaims/claimStatusInquiry.jsp">Cargo Claims</a></li>
+					<li><a href="https://my.yrc.com/dynamic/national/servlet?CONTROLLER=com.rdwy.ec.rexclaims.http.controller.DisplayClaimStatusInquiryController&amp;DESTINATION=/rexclaims/claimStatusInquiry.jsp&amp;ERRORDESTINATION=/rexclaims/claimStatusInquiry.jsp">Cargo Claims Inquiry</a></li>
 					<li><a href="https://my.yrc.com/dynamic/national/servlet?CONTROLLER=com.rdwy.ec.rexetracking.http.controller.PublicSubmitTrackingRequestController&amp;DESTINATION=/rexetracking/etracking.jsp&amp;REQUESTTYPE=0">E-Tracking</a></li>
 					<li><a href="https://my.yrc.com/dynamic/national/servlet?CONTROLLER=com.rdwy.ec.rexservicecenter.http.controller.ServiceCenterController&amp;DESTINATION=/rexservicecenter/serviceCenter.jsp&amp;ERRORDESTINATION=/rexservicecenter/serviceCenter.jsp&amp;ACTION=display">Find Service Center</a></li>
 					<li><a href="/shippers/shipformlib.html">Forms Library</a></li>
@@ -285,11 +290,11 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 						<ul>
 							<div>
 								<li class=" submenu">
-									<span class="noLink">Standard LTL</span>
+									<span class="noLink">Standard</span>
 									<ul style="margin-top: -252px;">
 										<div>
-											<li><a href="http://www.yrc.com/services/ltl_national.html">National</a></li>
-											<li><a href="http://www.yrc.com/services/ltl_regional.html">Regional</a></li>
+											<li><a href="http://www.yrc.com/services/ltl_national.html">National LTL</a></li>
+											<li><a href="http://www.yrc.com/services/ltl_regional.html">Regional LTL</a></li>
 											<li><a href="http://www.yrc.com/services/foreign/mexico.html">Mexico</a></li>
 											<li class=" submenu"><a href="http://www.yrc.com/services/canada/index.html">Canada</a>
 												<ul style="margin-top: -54px;">
@@ -310,7 +315,7 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 													</div>
 												</ul>
 											</li>
-											<li><a href="http://www.yrc.com/services/trckldvolume.html">Spot &amp; Volume</a></li>
+											<li><a href="http://www.yrc.com/services/trckldvolume.html">Spot Volume</a></li>
 										</div>
 									</ul>
 								</li>
@@ -377,13 +382,12 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 					<li><a href="/homeland/">Border Security</a></li>
 					<li class=" submenu">
 						<a href="/shippers/howto.html">How to Ship</a>
-						<ul style="margin-top: -108px;">
+						<ul style="margin-top: -90px;">
 							<div>
 								<li><a href="/shippers/howto.html">Get Shipping Info</a></li>
 								<li><a href="/tools/converter.html">Measurement Conversion</a></li>
 							  <li><a href="/shippers/density.html">Shipment's Density</a></li>
 								<li><a href="/shippers/glossary.html">Shipping Glossary</a></li>
-								<li><a href="/shippers/guide.html">Shipping &amp; Receiving</a></li>
 							</div>
 						</ul>
 				  </li>
@@ -421,6 +425,7 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 					<li><a href="/crc/">Careers</a></li>
 					<li><a href="/about/companyStore.html">Company Store</a></li>
 					<li><a href="/corporate_citizenship/">Corporate Citizenship</a></li>
+					<li><a href="http://www.yrcw.com/green/" rel="external" target="_blank">Destination Green</a></li>
 					<li><a href="/about/environmental.html">Environmental Initiatives</a></li>
 					<li><a href="/about/safety/motorform.html">How Are We Driving?</a></li>
 					<li><a href="/investors/indexGK.html">Investor Information</a></li>
@@ -436,13 +441,26 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 							</div>
 						</ul>
 					</li>
-					<li><a href="/about/safety/index.html">Safety</a></li>
+					<li class=" submenu">
+						<a href="/about/safety/index.html">Safety</a>
+						<ul style="margin-top: -162px;">
+							<div>
+								<li><a href="/about/safety/index.html">CSA</a></li>
+								<li><a href="/about/safety/safety_1.html">Safety Facts and Achievements</a></li>
+								<li><a href="/about/ntdc/">NTDC</a></li>
+								<li><a href="/about/safety/roadteam.html">Road Team</a></li>
+								<li><a href="/about/safety/motorform.html">How are we driving?</a></li>
+								<li><a href="/drivesafe/index.html">Sharing the Road Safely With Trucks</a></li>
+								<li><a href="/about/safety/safety_tips.html">12 Safety Tips for Bad-Weather Driving</a></li>
+								<li><a href="/about/hof/index.html">Driver Hall of Fame</a></li>
+							</div>
+						</ul>
+					</li>
 					<li><a href="/shippers/holiday.html">Shipping Holidays</a></li>
 					<li class=" submenu">
 						<span class="noLink">Team YRC</span>
-						<ul style="margin-top: -126px;">
+						<ul style="margin-top: -108px;">
 							<div>
-								<li><a href="/alphonso/">Alphonso Lewis Safety Site</a></li>
 								<li><a href="/about/CCTintro.html">Customer Support</a></li>
 								<li><a href="/about/hof/index.html">Driver Hall of Fame</a></li>
 								<li><a href="/about/ntdc/">National Truck Driving Championship</a></li>
@@ -596,7 +614,7 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 			<input type="hidden" id="servicedays.inquiry.origincountry" name="servicedays.inquiry.origincountry" value="USA">
 			<input type="hidden" id="servicedays.inquiry.destinationcountry" name="servicedays.inquiry.destinationcountry" value="USA">
 			
-			<input type="hidden" maxlength="10" class="formFieldDate" value="06/22/2011" id="servicedays.inquiry.pickupdate" name="servicedays.inquiry.pickupdate">
+			<input type="hidden" maxlength="10" class="formFieldDate" value="12/30/2011" id="servicedays.inquiry.pickupdate" name="servicedays.inquiry.pickupdate">
 			<div>
 				<label for=""><a target="_top" href="https://my.yrc.com/dynamic/national/servlet?CONTROLLER=com.rdwy.ec.rexservicedays.http.controller.DisplayPublicServiceDaysController&amp;DESTINATION=/rexservicedays/serviceDaysPublic.jsp&amp;ERRORDESTINATION=/rexservicedays/serviceDaysPublic.jsp">Routing / Service Calculator</a></label>
 				<input type="text" maxlength="6" id="O_ZIP" name="servicedays.inquiry.originzip" value="origin zip">
@@ -623,8 +641,8 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 			<li><a target="_top" href="http://www.yrc.com/terminals/maps.php">Service Maps</a></li>
 			<li><a target="_top" href="https://my.yrc.com/dynamic/national/servlet?CONTROLLER=com.rdwy.ec.rexpur.http.controller.CreatePublicPickupRequestController">Pickup Request</a></li>
 			<!--<li><a target="_top" href="/shipment_resources/fuel_popup.html" onclick="return centerWin();">Fuel Surcharge</a></li>-->
-			<li><a target="_top" href="http://www.yrc.com/weather.html">Service Alerts</a>
-			</li><li><a target="_top" href="http://www.yrc.com/tools/etracking.cgi">E-Tracking</a></li>
+			<li><a target="_top" href="http://www.yrc.com/about/weather.html">Service Alerts</a></li>
+			<li><a target="_top" href="http://www.yrc.com/tools/etracking.cgi">E-Tracking</a></li>
 			<li><a target="_top" href="https://my.yrc.com/">Register for my.yrc</a></li>
 			<li><a target="_top" href="http://www.yrc.com/shippers/shipformlib.html">Forms Library</a></li>
 			<li><a target="_top" href="http://www.yrc.com/tools/claims.html">Customer Claims</a></li>
