@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the blogware.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422095741id_/http%3A//www.tucows.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogware.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230045657id_/http%3A//www.tucows.com/privacy.html) for the most accurate reproduction.*
 
-# Tucows Download
+# Tucows Downloads
 
-Tucows.com Co. owns and operates Tucows.com and Butterscotch.com and various derivative sites. Because we gather information about the customers of Butterscotch.com and Tucows.com, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. 
+Tucows.com Co. owns and operates Tucows Downloads and butterscotch.com and various derivative sites. Because we gather information about the customers of butterscotch.com and Tucows Downloads, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. 
 
-## Information Butterscotch.com and Tucows.com gathers and tracks
+## Information butterscotch.com and Tucows Downloads gathers and tracks
 
 Tucows.com Co. gather two types of information about users: 1) Data that users provide through optional, voluntary registration on several of our sites, and 2) aggregated tracking information derived mainly by tallying page views throughout our sites. Such information enables us to better tailor our content to readers' needs and help our advertisers better understand the demographics of our audience. Because our sites derive a portion of their revenue from advertising, providing such aggregated demographic data is essential in order to keep some of our services free to users. 
 
 ## Electronic Newsletters
 
-Tucows.com and Butterscotch.com offer free electronic newsletters to users. Tucows.com Co. gathers the e-mail addresses, names and other voluntary information from users who subscribe. Customers may remove themselves from any mailing list by following the instructions contained at the bottom of every newsletter. They can also subscribe to the newsletters at the time of registration on the sites. 
+Tucows Downloads and butterscotch.com offer free electronic newsletters to users. Tucows.com Co. gathers the e-mail addresses, names and other voluntary information from users who subscribe. Customers may remove themselves from any mailing list by following the instructions contained at the bottom of every newsletter. They can also subscribe to the newsletters at the time of registration on the sites. 
 
 ## Surveys
 
@@ -22,7 +22,7 @@ From time to time, we offer contests and sweepstakes in which we request certain
 
 ## Usage tracking
 
-Tucows.com and Butterscotch.com track user traffic patterns throughout the sites and this information is correlated with data about individual users. Overall usage statistics, according to a user's domain name, browser type and MIME type gotten by reading this information from the browser string (information contained in every user's browser), are also broken down. 
+Tucows Downloads and butterscotch.com track user traffic patterns throughout the sites and this information is correlated with data about individual users. Overall usage statistics, according to a user's domain name, browser type and MIME type gotten by reading this information from the browser string (information contained in every user's browser), are also broken down. 
 
 We also track and catalog the search terms that customers enter into our search tools, but this tracking is never associated with individual users. 
 
@@ -32,7 +32,7 @@ A cookie is a small data file that certain Web sites write to your hard drive wh
 
 If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. 
 
-You can refuse cookies by turning them off in your browser. However, Butterscotch.com and Tucows.com may not work well or optimally with cookies turned off or used selectively. 
+You can refuse cookies by turning them off in your browser. However, butterscotch.com and Tucows Downloads may not work well or optimally with cookies turned off or used selectively. 
 
 ## Use of the information
 
