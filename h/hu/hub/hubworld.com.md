@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the hubworld.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430041718id_/http%3A//www.hubworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubworld.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230014521id_/http%3A//www.hubworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Hubworld Privacy Policy
 
-[ ](https://web.archive.org/bumper-exit?dest=http%3A%2F%2Fclicktoverify.truste.com/pvr?page=validate&url=www.hubworld.com&sealid=101) [ ](https://web.archive.org/bumper-exit?dest=http%3A%2F%2Fclicktoverify.truste.com/pvr?page=validate&url=www.hubworld.com&sealid=105)
+#### WELCOME!
+
+[ ](https://web.archive.org/bumper-exit?dest=http%3A%2F%2Fclicktoverify.truste.com/pvr.php?page=validate&url=www.hubworld.com&sealid=101) [ ](https://web.archive.org/bumper-exit?dest=http%3A%2F%2Fclicktoverify.truste.com/pvr.php?page=validate&url=www.hubworld.com&sealid=105)
 
 These Web sites, operated by Hasbro, Inc. ("Hasbro"), bring you the coolest information about the world of Hasbro and The Hub and the videos, games and activities you can enjoy here. If you are a parent or guardian and are interested in knowing more about Hasbro's policy regarding the online collection of information from children, we recommend reviewing the Note To Parents below.
 
@@ -10,7 +12,7 @@ Hasbro respects the privacy rights of its online visitors and is committed to pr
 
 Hasbro, Inc. is a licensee of the TRUSTe Web and Children's Online Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web sites [www.Hubworld.com](http://www.hubworld.com/), www.Hasbro.com, www.HasbroToyShop.com and other promotional sites that have this privacy statement linked from it (the "Hasbro Web sites"). Because these Web sites want to demonstrate their commitment to your privacy, they have agreed to disclose their information practices and have their privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact the Website Administrator at [support@hubworld.com](mailto:support@hubworld.com) (for Hubworld.com related questions) or [hasbroregistration@hasbro.com](mailto:hasbroregistration@hasbro.com) (for Hasbro.com or HasbroToyShop.com related questions). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr?page=complaint&url=](http://watchdog.truste.com/pvr?page=complaint&url=). TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact the Website Administrator at [support@hubworld.com](mailto:support@hubworld.com) (for Hubworld.com related questions) or [hasbroregistration@hasbro.com](mailto:hasbroregistration@hasbro.com) (for Hasbro.com or HasbroToyShop.com related questions). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url=). TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 The TRUSTe Web and Children's Online Privacy programs only covers information that is collected through the Hasbro Web sites, and **does not** cover information that may be collected through any software downloaded from these Web sites. In addition, this Privacy Policy applies only to the information that Hasbro collects online, not offline.
 
@@ -167,4 +169,4 @@ A parent who has already given Hasbro permission to collect and use his or her c
 
 Back to start of Hasbro Privacy Statement
 
-[ ](https://web.archive.org/bumper-exit?dest=http%3A%2F%2Fclicktoverify.truste.com/pvr?page=validate&url=www.hubworld.com&sealid=101) [ ](https://web.archive.org/bumper-exit?dest=http%3A%2F%2Fclicktoverify.truste.com/pvr?page=validate&url=www.hubworld.com&sealid=105)
+[ ](https://web.archive.org/bumper-exit?dest=http%3A%2F%2Fclicktoverify.truste.com/pvr.php?page=validate&url=www.hubworld.com&sealid=101) [ ](https://web.archive.org/bumper-exit?dest=http%3A%2F%2Fclicktoverify.truste.com/pvr.php?page=validate&url=www.hubworld.com&sealid=105)
