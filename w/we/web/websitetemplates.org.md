@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the websitetemplates.org privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621071901id_/http%3A//www.websitetemplates.org/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitetemplates.org privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230051537id_/http%3A//www.websitetemplates.org/policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - WebsiteTemplates.org
+# Privacy Policy
 
 WebsiteTemplates.org (hereafter referred to as Company) has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
@@ -29,10 +29,10 @@ Company may otherwise disclose you personal information when:
 
 
 
-If you do not consent to the collection, use or disclosure of your personal information as outlined in the policy, please do not provide any personal information to Company. If you have provided personal information to Company and no longer consent to its use or disclosure as outlined herein, please [contact us](http://www.websitetemplates.org/contactus.html).
+If you do not consent to the collection, use or disclosure of your personal information as outlined in the policy, please do not provide any personal information to Company. If you have provided personal information to Company and no longer consent to its use or disclosure as outlined herein, please [contact us](http://www.websitetemplates.org/free-templates/contactus.html).
 
 Unfortunately, no data transmission over the Internet can be considered 100% secure. However, our Company Information protected for your privacy and security. In certain areas of our websites, as identified on the site, Company uses industry-standard SSL-encryption to protect data transmissions. We also safeguard your personal information from authorized access, through access control procedures, network firewalls and physical security measures. Further, Company retains your personal information only as long as necessary to fulfill the purposes identified above or as required by law.
 
 Company may at any time, without notice to you and in its sole discretion, amend this policy from time to time. Please review this policy periodically. Your continued use of Company websites after any such amendments signifies your acceptance thereof.
 
-If you have questions or suggestions about this privacy policy, or your own personal information, please [contact us](http://www.websitetemplates.org/contactus.html).
+If you have questions or suggestions about this privacy policy, or your own personal information, please [contact us](http://www.websitetemplates.org/free-templates/contactus.html).
