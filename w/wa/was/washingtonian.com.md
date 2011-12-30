@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the washingtonian.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614023528id_/http%3A//www.washingtonian.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtonian.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230212653id_/http%3A//www.washingtonian.com/privacy.html) for the most accurate reproduction.*
 
 # Washingtonian.com
 
