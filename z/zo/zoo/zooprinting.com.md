@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zooprinting.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218074002id_/http%3A//www.zooprinting.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooprinting.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230191349id_/http%3A//www.zooprinting.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zoo Printing
 
@@ -6,7 +6,7 @@
 
 ### Our Commitment to Privacy
 
-We value our customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and communicate with you about our products, services and promotions. We do not sell or rent your personal information to third parties. As described in this policy, we do, however, share your information, under certain circumstances, with third parties that provide services on our behalf, or with whom we have partnered to offer a particular product or service. This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, you can always contact us in any of three ways (or as discussed in the Contact Us portion of this policy): 
+We value our customers and respect their privacy. We collect customer information in an effort to improve your shopping experience and communicate with you about our products, services and promotions. We do not sell or rent your personal information to third parties. As described in this policy, we do, however, share your information, under certain circumstances, with third parties that provide services on our behalf, or with whom we have partnered to offer a particular product or service. This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, you can always contact us in any of three ways (or as discussed in the Contact Us portion of this policy): 
 
 ### Information We Collect
 
@@ -47,3 +47,5 @@ We may set and access cookies on your computer. We may also allow other companie
 ### Contact Us
 
 We use email links located on the "contact us" page and other areas of our Website to allow you to contact us directly with any questions or comments you may have. We read every message sent in and will try to reply promptly if you request information or otherwise require a response. We may file your comments to improve our Website or our products, or we may review and discard the information. 
+
+California Office: 5700 Bandini Blvd., Commerce, CA 90040   •   Kentucky Office: 4015 Produce Road, Louisville, KY 40218
