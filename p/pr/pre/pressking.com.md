@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pressking.com privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123064739id_/http%3A//www.pressking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressking.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230045040id_/http%3A//www.pressking.com/privacy-policy) for the most accurate reproduction.*
 
-# PressKing - Privacy Policy
+# Privacy Policy - PressKing
 
-As of October 1st, 2010.
+_As of October 1st, 2011._
 
 At PressKing we recognize privacy is important. This Privacy Policy applies to all Services offered by PressKing.
 
-## 1\. Information we collect and how we use it
+**1\. Information we collect and how we use it**
 
 In order to provide our full range of Services, we may collect the following types of information:  
 (i) **Information you provide** – When you sign up for a PressKing account, we ask you for personal information (such as your name, email address, an account password, or credit card or other payment account information), which we maintain in encrypted form on secure servers.  
@@ -25,7 +25,7 @@ PressKing only processes personal information for the purposes described in this
 
 PressKing processes personal information on our servers in France and in other countries. In some cases, we may process personal information on a server outside your own country. We may process personal information to provide our own Services. In some cases, we may process personal information on behalf of and according to the instructions of a third party.
 
-## 2\. Choices for personal information
+**2\. Choices for personal information**
 
 When you sign up for the Services, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
 
@@ -33,7 +33,7 @@ Most browsers are initially set up to accept cookies, but you can reset your bro
 
 You can decline to submit personal information to any of our Services, in which case PressKing may not be able to provide those Services to you.
 
-## 3\. Information sharing
+**3\. Information sharing**
 
 PressKing only shares personal information with other companies or individuals outside of PressKing in the following limited circumstances:  
 (i) We have your consent. We require opt-in consent for the sharing of any sensitive personal information.  
@@ -44,26 +44,25 @@ If PressKing becomes involved in a merger, acquisition, or any form of sale of s
 
 We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular hyperlink. Such information does not identify you individually.
 
-## 4\. Information security
+**4\. Information security**
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.
 
 We restrict access to personal information to PressKing employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are also bound by confidentiality obligations.
 
-## 5\. Data integrity
+**5\. Data integrity**
 
 PressKing processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy.
 
 We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
 
-## 6\. Accessing and updating personal information
+**6\. Accessing and updating personal information**
 
 When you use PressKing services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at any time, if it is not otherwise required to be retained by law or for legitimate business purposes.
 
-## 7\. Changes to this Privacy Policy
+**7\. Changes to this Privacy Policy**
 
 PressKing reserves the right to change this Privacy Policy at any time. Updated versions of the Privacy Policy will be made available on or through the Services and will have immediate effect. Continued use of the Services after any such changes constitutes your consent to such changes.
 
-* * * * *
-
-“PressKing” is owned and operated by PressKing SAS, 17 Square Edouard VII, 75009 Paris, France. For any question regarding this Privacy Policy, [contact us](https://web.archive.org/support).
+“PressKing” is owned and operated by PressKing SAS, 17 Square Edouard VII, 75009 Paris, France.  
+For any question regarding this Privacy Policy, [contact us](https://web.archive.org/support).
