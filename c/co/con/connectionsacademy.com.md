@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectionsacademy.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627152146id_/http%3A//www.connectionsacademy.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectionsacademy.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230143749id_/http%3A//www.connectionsacademy.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,7 +31,7 @@ The Website may collect personal information you provide voluntarily in connecti
 
 Connections Academy uses personal information voluntarily supplied through the Website to fulfill requests for information, deliver the services, or carry out the transactions you have requested. For example, if you register for a Connections Academy school using the Website, information will be collected in order to process your registration. This information will not be maintained on the Website, but it will be included in the Learning Management System (LMS). Enrollment information that is collected in this manner may be provided to school districts or other third parties as required by state law, federal law, and/or school operating procedures. 
 
-Personal information may also be used to communicate with you regarding special promotions, new services, or upcoming events. If you do not want to receive information from Connections Academy, you can email us at  [unsubscribe@connectionsacademy.com](mailto:unsubscribe@connectionsacademy.com) and ask to be removed from Connections Academy’s contact list.   
+Personal information may also be used to communicate with you regarding special promotions, new services, or upcoming events. If you do not want to receive information from Connections Academy, you can email us at  [unsubscribe@connectionseducation.com](mailto:unsubscribe@connectionseducation.com) and ask to be removed from Connections Academy’s contact list.   
 In the event that all or substantially all of Connections Academy’s assets are sold or transferred to another party, your personally identifiable information may be transferred to the acquiring entity. 
 
 Finally, we may disclose your personally identifiable information to third parties if we believe we are required to do so in order to comply with law (including court orders and subpoenas); to comply with lawful requests from law enforcement agencies or other governmental organizations; to enforce our Terms of Use; to protect the rights, privacy, safety, or property of Connections Academy, our employees, or other users of the Website; and/or to permit us to pursue available remedies or limit the damages that we may sustain. 
@@ -42,7 +42,7 @@ Connections Academy is concerned about the safety and privacy of children online
 
 The Website is not intended to solicit information of any kind from children under the age of 13, and we do not and will not knowingly contact or collect personal information from children under 13. A parent/guardian must provide consent in order for any child under the age of 13 to provide personal information through the Website and for Connections Academy to use that information. 
 
-It is possible that by fraud or deception by others we may receive information pertaining to children under the age of 13. If we are notified of this unauthorized information, as soon as we verify the information, we will immediately obtain parental consent or else delete the information from our servers. If you want to notify us that we have received information for children under 13, please do so by emailing us at [legal@connectionsacademy.com](mailto:legal@connectionsacademy.com).
+It is possible that by fraud or deception by others we may receive information pertaining to children under the age of 13. If we are notified of this unauthorized information, as soon as we verify the information, we will immediately obtain parental consent or else delete the information from our servers. If you want to notify us that we have received information for children under 13, please do so by emailing us at [legal@connectionseducation.com](mailto:legal@connectionseducation.com).
 
 ## Security
 
@@ -54,6 +54,6 @@ The Website contains links to other websites or other resources that are provide
 
 ## Contact Information
 
-If you have any questions regarding this Privacy Policy, please contact us by email at [legal@connectionsacademy.com](mailto:legal@connectionsacademy.com). Please note that email communications will not necessarily be secure. Accordingly, you should not include credit card information or other sensitive information in your email correspondence with us. 
+If you have any questions regarding this Privacy Policy, please contact us by email at [legal@connectionseducation.com](mailto:legal@connectionseducation.com). Please note that email communications will not necessarily be secure. Accordingly, you should not include credit card information or other sensitive information in your email correspondence with us. 
 
 1001 Fleet Street, 5th Floor, Baltimore, MD 21202 | 800-382-6010
