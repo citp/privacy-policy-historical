@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnn.cn privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610203407id_/http%3A//cnn.cn/shop/privacy-notice-i-10.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnn.cn privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230223334id_/http%3A//cnn.cn/shop/privacy-notice-i-10.html) for the most accurate reproduction.*
 
 # Cellular Accessories | Mobile Accessories | Cell Phone Chargers | Cases | Cell Phone parts | Cell
 
