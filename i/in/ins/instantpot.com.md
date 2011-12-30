@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantpot.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515094328id_/http%3A//instantpot.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantpot.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230084753id_/http%3A//instantpot.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,8 +55,9 @@ Double Insight Inc.
 Ottawa, Ontario K2T 1C1  
 Canada
 
-This policy was last updated on 06-09-2009.
-
 Copyright © 2008 [Law Office of Michael E. Young PLLC ](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at InstantPot.com. All Rights Reserved.  No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+
+This Privacy Policy was last updated on June 9th, 2009.  
+
 
 #### Related articles
