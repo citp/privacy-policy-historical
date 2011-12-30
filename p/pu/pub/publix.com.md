@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605141416id_/http%3A//www.publix.com/PrivacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231000609id_/http%3A//www.publix.com/PrivacyPolicy.do) for the most accurate reproduction.*
 
 # Publix Privacy Policy
 
