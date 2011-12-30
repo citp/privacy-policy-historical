@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statelinetack.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525222728id_/http%3A//www.statelinetack.com/cs/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statelinetack.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230022455id_/http%3A//www.statelinetack.com/cs/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Statelinetack.com
 
@@ -65,7 +65,7 @@ To "opt-out" of receiving State Line Tack communications, do one of the followin
 
 1\. If you've created an account on our Site, you can access and change your personal profile information and preferences after logging into your account.
 
-2\. Send an e-mail request to: [ customerservice@statelinetack.com](mailto:customerservice@statelinetack.com)
+2\. [ Contact us online. ](https://web.archive.org/CS/Feedback.aspx)
 
 3\. Call: Toll-free: 1.800.814.4332  
 Monday - Friday: 8 a.m. ET - 8 p.m. ET  
@@ -105,7 +105,9 @@ Back to top
 **QUESTIONS OR CONCERNS**  
 To report any known or suspected privacy or security breaches, or to submit privacy-related questions or complaints, please contact us in one of the following ways, and we will respond within five (5) business days of receipt of your inquiry. 
 
-**1\. E-mail:** [customerservice@statelinetack.com](mailto:customerservice@statelinetack.com)
+**1.[ Contact us online. ](https://web.archive.org/CS/Feedback.aspx)**
+
+**
 
 **2\. Regular Mail:**
 
@@ -122,7 +124,9 @@ Saturday: 8:30 a.m. ET - 5 p.m. ET
 Sunday: Closed
 
 Please be sure to include your full name, address, phone number and e-mail address (if applicable) and to specifically describe your concern so that it may be appropriately addressed.   
-Back to top   
+Back to top 
+
+**  
   
 **CHANGES/UPDATES TO THIS POLICY**  
 Because our Site and store will continue to implement new technologies and improve the products and services we provide, this Policy is subject to change. If there are significant changes or additions to this Policy, we will identify those changes below and/or in other communicative formats to keep you informed of any new information and procedures that may change the way we collect, use or handle your personal information. If we change our information handling practices or this Policy in such a way that your personal information may be used or shared in a different manner, we will give you the opportunity to "opt-out" of having your information used or shared in that new way.   
