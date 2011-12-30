@@ -1,8 +1,20 @@
-> *The following text is extracted and transformed from the kingice.com privacy policy that was archived on 2010-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100215010430id_/http%3A//www.kingice.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingice.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230223718id_/http%3A//www.kingice.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  | 
+|  |  [NEW ARRIVALS](http://www.kingice.com/new-arrivals.html "New Arrivals")  
+---  
+   
+[HIP HOP COLLECTIONS](http://www.kingice.com/Collections-100572.html "Hip Hop Collections")  
+   
+[CELEBRITY JEWELRY](http://www.kingice.com/Celebrity-Jewelry-100596.html "Celebrity Jewelry")  
+   
+[TOP SELLERS](http://www.kingice.com/top-sellers.html "Top Sellers")  
+   
+[TESTIMONIALS](http://www.kingice.com/testimonial.aspx "Testimonial")  
+   
+[80% CLEARANCE](http://www.kingice.com/Jewelry-Sale-100518.html "Clearance")  
+| 
 
   
 |  **Privacy Policy**  
@@ -18,10 +30,6 @@ The standard, unsecured URL address begins "http://". When you enter a secure ar
 Your computer and our server begin to communicate in a secure area, sending data back and forth in an encrypted format. Browser encryption software is quite powerful and ensures the security of this data as it is transmitted to our server. To verify that you are in a secure area look for the padlock at the bottom right of your browser   
 **Credit Card Information**  
 The credit card numbers are placed in the SQL database on the KING ICE web server. All credit card information is stored as encrypted data. The information is scrambled and requires a virtual key possessed solely by authorized personnel, to be accessed. A user must logon, requiring a password to to access the database which includes your order history. All communications during these sessions are encrypted again using SSL. No credit card numbers are ever sent via e-mail, due to the fact that e-mail is not secure.   
-  
-  
-  
-  
   
   
 
