@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vagex.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618122528id_/http%3A//vagex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vagex.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230170923id_/http%3A//www.vagex.com/privacy.php) for the most accurate reproduction.*
 
 # Vagex
 
