@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamefreaks.co.nz privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430231134id_/http%3A//www.gamefreaks.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefreaks.co.nz privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230112426id_/http%3A//www.gamefreaks.co.nz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Gamefreaks
 
 By using the Gamefreaks website, you agree to the terms and conditions outlined below. If you do not agree to these terms and conditions, please do not use this site.
 
