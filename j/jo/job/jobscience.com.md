@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobscience.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504055347id_/http%3A//www.jobscience.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscience.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230233414id_/http%3A//www.jobscience.com/privacypolicy) for the most accurate reproduction.*
 
 # Jobscience.com
 
@@ -24,7 +24,8 @@ Since Jobscience is a career site, we give you the option of putting your resume
 
 If we decide to change our privacy commitment for Jobscience, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about Jobscience?s privacy commitment, please feel free to call (866) 284-1892 and speak to one of our representatives.
 
-## Safe Harbor Data Privacy Policy
+##   
+Safe Harbor Data Privacy Policy
 
 Jobscience, Inc. ("Jobscience") provides talent relationship management solutions to help its customers assess, acquire, develop, and align their workforces for improved business performance. Jobscience combines software, best practices and services so organizations can increase process efficiency, improve quality of hire, reduce risk, and return financial results, and abides by the Safe Harbor Principles of the United States Department of Commerce.
 
@@ -32,11 +33,13 @@ Jobscience respects the individual privacy of its clients and customers (and the
 
 Effective November 28, 2007, this Privacy Policy sets forth the privacy principles that Jobscience follows with respect to the protection and transfers of personal information, whether it is in electronic, paper or verbal format, between the United States and the EU. This statement applies to all personal information Jobscience processes (except as noted below), including on-line, off-line, and manually processed data. Any employee whom Jobscience determines is in violation of this Privacy Policy will be subject to disciplinary process, up to and including termination.
 
-## Safe Harbor
+##   
+Safe Harbor
 
-Consistent with its commitment to protect personal privacy, Jobscience declares that it adheres to the Safe Harbor Principlesembodied in the Safe Harbor Agreement concerning the transfer of personal data from the european Union to the United States of America. The United States Department of Commerce and the european Commission have agreed on the Safe Harbor Principles as they are articulated in a set of data protection principles and frequently asked questions as a means to enable U.S. companies to satisfy EU law requirements for adequate protection of personal information transferred from the EU to the United States. If there is a conflict between the provisions of this Privacy Policy and the Safe Harbor Principles, the Safe Harbor Principles will govern.
+Consistent with its commitment to protect personal privacy, Jobscience declares that it adheres to the Safe Harbor Principlesembodied in the Safe Harbor Agreement concerning the transfer of personal data from the European Union to the United States of America. The United States Department of Commerce and the European Commission have agreed on the Safe Harbor Principles as they are articulated in a set of data protection principles and frequently asked questions as a means to enable U.S. companies to satisfy EU law requirements for adequate protection of personal information transferred from the EU to the United States. If there is a conflict between the provisions of this Privacy Policy and the Safe Harbor Principles, the Safe Harbor Principles will govern.
 
-## Definitions
+##   
+Definitions
 
 The following definitions apply to all statements throughout this Privacy Policy.
 
@@ -44,7 +47,8 @@ The following definitions apply to all statements throughout this Privacy Policy
 
 "Sensitive personal information" means personal information that reveals race, ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, or that concerns health or sex life. For purposes of this Privacy Policy, Jobscience will treat as sensitive personal information any information received from a third party where that third party treats and identifies the information as sensitive.
 
-## The Privacy Principles
+##   
+The Privacy Principles
 
 Jobscience's operations and processing of personal information conform to the following Safe Harbor Privacy Principles as stated below under the heading of each principle.
 
@@ -56,15 +60,15 @@ To the extent permitted by the Safe Harbor Agreement, Jobscience reserves the ri
 
 Jobscience will not disclose an individual's personal information to third parties, except when one or more of the following conditions is true:
 
-  * Jobscience has the individual's permission to make the disclosure;
-  * The disclosure is required by law or professional standards;
-  * The disclosure is reasonably related to the sale or disposition of all or part of Jobscience's business;
-  * The information in question is publicly available;
-  * The disclosure is reasonably necessary for the establishment or defense of legal claims; or
-  * The disclosure is to another Jobscience entity or to persons or entities providing services on Jobscience's or the individual's behalf (each a "transferee"), consistent with the purpose for which the information was obtained, if the transferee, with respect to the information in question: 
-    * is subject to law providing an adequate level of privacy protection;
-    * has agreed in writing to provide an adequate level of privacy protection; or
-    * subscribes to the Safe Harbor Principles.
+  * •  Jobscience has the individual's permission to make the disclosure;
+  * •  The disclosure is required by law or professional standards;
+  * •  The disclosure is reasonably related to the sale or disposition of all or part of Jobscience's business;
+  * •  The information in question is publicly available;
+  * •  The disclosure is reasonably necessary for the establishment or defense of legal claims; or
+  * •  The disclosure is to another Jobscience entity or to persons or entities providing services on Jobscience's or the individual's behalf (each a "transferee"), consistent with the purpose for which the information was obtained, if the transferee, with respect to the information in question: 
+    * •  is subject to law providing an adequate level of privacy protection;
+    * •  has agreed in writing to provide an adequate level of privacy protection; or
+    * •  subscribes to the Safe Harbor Principles.
 
 
 
@@ -90,15 +94,18 @@ Any claim arising out of or relating to Jobscience's adherence to the EU Data Di
 
 Jobscience is also subject to the jurisdiction of the U.S. Federal Trade Commission.
 
-## Changes
+##   
+Changes
 
 Jobscience may change this Privacy Policy from time to time, consistent with the requirements of the Safe Harbor Principles or the United States Department of Commerce. Jobscience will post any revised privacy policy in its work places, train its employees about such changes and how to comply with them, and will publish any amended privacy policy on this Web site or a similar Web site that replaces this Web site.
 
-## Information Subject To Other Policies Or Standards
+##   
+Information Subject To Other Policies Or Standards
 
 Jobscience is committed to following the Safe Harbor Principles for all personal information within the scope of the Safe Harbor Agreement. Certain information, however, is subject to policies of Jobscience that may differ in some respects from the provisions of this Privacy Policy. Information subject to such additional policies includes information obtained from or relating to a client, customer or business partner or former client, customer or business partner that is subject to the terms of any privacy notice to or agreement with such client, customer or business partner, any engagement letter or letters with such client, customer or business partner, and applicable laws and professional standards.
 
-## Contact Information
+##   
+Contact Information
 
 Questions or comments regarding Jobscience's Safe Harbor certification and this Privacy Policy should be submitted to Jobscience by mail or e-mail as follows:
 
