@@ -1,23 +1,25 @@
-<!--The following is the downloaded HTML source of the apture.com privacy policy that was archived on 2011-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623025242id_/http%3A//www.apture.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apture.com privacy policy that was archived on 2011-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111230172618id_/http%3A//www.apture.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Privacy Policy – Apture</title>
+    <meta charset="utf-8">
+    
+    <title>Privacy Policy</title>
 
     <!-- xxxxxxxxxxxxxxxxxxx IMPORT EXTERNAL SHEETS xxxxxxxxxxxxxxxxxxxxxxxxx -->
-    <link rel="stylesheet" type="text/css" title="global" media="screen" href="http://cdn.apture.com/media/global.css?v=34466840">
-    <link rel="stylesheet" type="text/css" media="screen" href="http://cdn.apture.com/media/app.css?v=34466840">
+    <link rel="stylesheet" type="text/css" title="global" media="screen" href="http://cdn.apture.com/media/global.css?v=49971756">
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cdn.apture.com/media/app.css?v=49971756">
     <!--[if IE 6]>
-    	<link rel="stylesheet" type="text/css" media="screen" href="http://cdn.apture.com/media/ie6.css?v=34466840">
+    	<link rel="stylesheet" type="text/css" media="screen" href="http://cdn.apture.com/media/ie6.css?v=49971756">
     <![endif]-->
 
 </head>
-<body class="secondary khtml">
-    <script>        
+<body class="secondary khtml chrome chrome4">
+    <script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/582feaa531198d89f197b9fe1492bc48e3591691.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script>        
         (function() {		
             var browserVersion = function()
             {
+                var globalbrowser = "unsupported";
                 var browser = [];
                 if (/*@cc_on ! @*/ 0)
                 {
@@ -36,6 +38,7 @@
                         {
                             // IE8+
                             browser.push('ie8');
+                            globalbrowser = "ie";
                         }
                     }
                     else
@@ -48,6 +51,26 @@
                 {
                     // Webkit
                     browser.push('khtml');
+                    if(navigator.userAgent && navigator.userAgent.toLowerCase().indexOf('chrome') != -1)
+                    {
+                        globalbrowser = "chrome";
+                        browser.push('chrome');
+                        var chromeVersion = parseFloat((new RegExp(/Chrome\/([\d.]+)/)).exec(navigator.userAgent)[1]);
+                        if(chromeVersion >= 4)
+                        {
+                            browser.push('chrome4');
+                        }
+                    }
+                    else if(navigator.userAgent && navigator.userAgent.toLowerCase().indexOf('safari') != -1)
+                    {
+                        globalbrowser = "safari";
+                        browser.push('safari');
+                        var safariVersion = parseFloat((new RegExp(/Version\/([\d.]+)/)).exec(navigator.userAgent)[1]);
+                        if(safariVersion >= 5)
+                        {
+                            browser.push('safari5');
+                        }
+                    }
                 }
                 else if (document.getBoxObjectFor || (typeof window.mozInnerScreenX != 'undefined'))
                 {
@@ -59,10 +82,11 @@
                     if (ffVersion >= 3)
                     {
                         // FF 3.6
+                        globalbrowser = "firefox";
                         browser.push('ff3');
                         if (ffVersion <= 3.5)
                         {
-                            browser.push('ff3.5');
+                            browser.push('ff3-5');
                         }
                     }
                     else if (ffVersion < 3)
@@ -75,25 +99,29 @@
                     // unknown
                     browser.push('unk');
                 }
-                
+                window.globalbrowser = globalbrowser;
                 return browser;
             }
             
             document.body.className += ' ' + (browserVersion()).join(' ');
         })();
     </script>
-    <div class="top-stripe"></div>
+    
+        <script type="text/javascript"> var _kmq = _kmq || []; function _kms(u){ setTimeout(function(){ var s = document.createElement('script'); var f = document.getElementsByTagName('script')[0]; s.type = 'text/javascript'; s.async = true; s.src = u; f.parentNode.insertBefore(s, f); }, 1); } _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/582feaa531198d89f197b9fe1492bc48e3591691.1.js'); </script>
+
+<div class="top-stripe"></div>
     <div class="container" id="contact">
         <div class="column-row">
             <div class="sixteen columns">
                 <a href="/" class="logo">Apture</a>
-                <ul class="nav">
-                    <li><a href="http://www.apture.com/contact/">Contact Us</a></li>
-                    <li>|</li>
-                    <li><a href="/user/">Sign In</a></li>
-                </ul>
+                <div class="nav">
+                    
+                    <a href="/user/" class="km-publisher-login">Publisher login</a>
+                    
+                </div>
             </div><!--Close sixteen columns -->
 
+    
 
 
 
@@ -114,13 +142,7 @@
         <a href="http://www.apture.com/press/">Press</a>
     </li>
     <li class="">
-        <a href="http://www.apture.com/faq/">FAQ</a>
-    </li>
-    <li class="">
         <a href="http://www.apture.com/contact/">Contact</a>
-    </li>
-    <li class="">
-        <a href="http://www.apture.com/jobs/">Jobs</a>
     </li>
 </ul>
 
@@ -203,37 +225,28 @@
             <p class="copyright">Copyright 2011, Apture, Inc Patents Pending</p>
             <ul class="footer-nav">
                 <li>
-                    <a href="http://www.apture.com/about/">About</a>
+                    <a class="km-footer-about" href="http://www.apture.com/about/">About</a>
                 </li>
                 <li>
-                    <a href="http://www.apture.com/press/">Press</a>
+                    <a class="km-footer-press" href="http://www.apture.com/press/">Press</a>
                 </li>
                 <li>
-                    <a href="http://www.apture.com/faq/">FAQ</a>
+                    <a class="km-footer-blog" href="http://blog.apture.com/">Blog</a>
                 </li>
                 <li>
-                    <a href="http://blog.apture.com/">Blog</a>
+                    <a class="km-footer-contact" href="http://www.apture.com/contact/">Contact</a>
                 </li>
                 <li>
-                    <a href="http://www.apture.com/contact/">Contact</a>
+                    <a class="km-footer-privacy" href="http://www.apture.com/privacy/">Privacy</a>
                 </li>
                 <li>
-                    <a href="http://www.apture.com/jobs/">Jobs</a>
+                    <a class="km-footer-terms" href="http://www.apture.com/terms/">Terms</a>
                 </li>
                 <li>
-                    <a href="http://www.apture.com/privacy/">Privacy</a>
-                </li>
-                <li>
-                    <a href="http://www.apture.com/terms/">Terms</a>
-                </li>
-                <li>
-                    <a href="http://www.apture.com/support/optout/">Opt out</a>
+                    <a class="km-footer-optout" href="http://www.apture.com/support/optout/">Opt out</a>
                 </li>
             </ul>
         </div>
-	
-	<img src="http://ad.retargeter.com/seg?add=108329" width="1" height="1">
-	
     </div>
 
 
@@ -246,6 +259,18 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-3957552-1");
 pageTracker._initData();
 pageTracker._trackPageview();
+
+/*
+This might be for the newer GA code:
+*/
+function recordOutboundLink(link, category, action) {
+    _gat._getTrackerByName()._trackEvent(category, action);
+    setTimeout('document.location = "' + link.href + '"', 100);
+}
+// example use:
+// <a href="http://www.example.com" onclick="recordOutboundLink(this, 'Outbound Links', 'example.com');return false;">
+
+
 </script>
 
 
