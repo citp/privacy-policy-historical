@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the livestrong.org privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626012637id_/http%3A//www.livestrong.org/Terms-of-Use/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livestrong.org privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230014225id_/http%3A//www.livestrong.org/Terms-of-Use/Privacy-Policy) for the most accurate reproduction.*
 
 # Terms of Use | LIVESTRONG.org
 
 ## Privacy Policy
 
-The Lance Armstrong Foundation ("LIVE **STRONG** ") has created this privacy policy ("Privacy Policy") to demonstrate our commitment to privacy. The following statement explains our information-gathering and dissemination practices for our web sites at [www.livestrong.org](http://www.livestrong.org/), [www.livestrongespanol.org](http://www.livestrongespanol.org/), [www.livestrongblog.org](http://www.livestrongblog.org/), [www.livestrongaction.org](http://www.livestrongaction.org/), [www.livestrongchallenge.org](http://www.livestrongchallenge.org/), [http://vote.livestrong.org](http://vote.livestrong.org/) and [www.store-laf.org](http://www.store-laf.org/) (the "Sites"). This Privacy Policy may change from time to time, so please check back periodically.
+The Lance Armstrong Foundation ("LIVE **STRONG** ") has created this privacy policy ("Privacy Policy") to demonstrate our commitment to privacy. The following statement explains our information-gathering and dissemination practices for our web sites at [www.LIVE **STRONG**.org](http://www.livestrong.org/), [www.LIVE **STRONG** espanol.org](http://www.livestrongespanol.org/), [www.LIVE **STRONG** blog.org](http://www.livestrongblog.org/), [www.LIVE **STRONG** action.org](http://www.livestrongaction.org/), [www.LIVE **STRONG** challenge.org](http://www.livestrongchallenge.org/), [http://vote.LIVE **STRONG**.org](http://vote.livestrong.org/) and [www.store-laf.org](http://www.store-laf.org/) (the "Sites"). This Privacy Policy may change from time to time, so please check back periodically.
 
 Throughout this Privacy Policy, "we," "us," and "our" will mean LIVE **STRONG**. This Privacy Policy does not apply to the practices of persons or entities that LIVE **STRONG** does not control manage or employ.
 
@@ -34,7 +34,7 @@ LIVE **STRONG** also employs persons and entities to perform functions on our be
 
 When you create a profile or register with the Sites, you become a registered user with password access and we use your Profile Information to verify your identity, create your user account, and help us to offer you more personalized features, improve our Sites, and provide you with information that is of the most interest to you. Such Profile Information is also compiled and analyzed on an aggregated basis that does not reveal your personal identity and is also considered "Aggregated Data". In addition, you may from time to time be provided with or given the opportunity to obtain additional information of interest, updates, surveys, bulletins or other communications from LIVE **STRONG** or its partners ("Communications") via e-mail. You may select to opt out of future Communications by following the opt-out provision below.
 
-When you join the global movement to fight cancer through our Sites we will use that information to send you email updates. If at any time you would like to unsubscribe from the LIVE **STRONG** email list, you may do so by contacting us at [info@livestrong.org](mailto:info@livestrong.org) with the subject heading "unsubscribe" or by clicking on the link provided in our emails. For more information, please review the section of this Privacy Policy entitled, "Can I opt-out of receiving Communications?".
+When you join the global movement to fight cancer through our Sites we will use that information to send you email updates. If at any time you would like to unsubscribe from the LIVE **STRONG** email list, you may do so by contacting us at [info@LIVE **STRONG**.org](mailto:info@LIVESTRONG.org) with the subject heading "unsubscribe" or by clicking on the link provided in our emails. For more information, please review the section of this Privacy Policy entitled, "Can I opt-out of receiving Communications?".
 
 If you choose to make a donation to LIVE **STRONG** , we will use your credit card information only for this transaction through our secure online payment system. LIVE **STRONG** does not retain credit card information.
 
@@ -92,7 +92,7 @@ Our computer systems and some of the computer systems of our third party service
 
 **How do I contact** LIVE **STRONG ?**  
 If you suspect that this Privacy Policy has been violated, or if you have any questions about this Privacy Policy, the practices of the Sites, or your dealings with the Sites, you may contact us in the following ways:  
-By email: [livestrong@livestrong.org](mailto:livestrong@livestrong.org)  
+By email: [livestrong@LIVE **STRONG**.org](mailto:livestrong@LIVESTRONG.org)  
 By conventional mail: Lance Armstrong Foundation  
 Attn: Website Privacy Policy  
 2201 E. 6th Street  
