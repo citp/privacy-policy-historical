@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripaura.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630094731id_/http%3A//www.tripaura.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripaura.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230165128id_/http%3A//www.tripaura.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
