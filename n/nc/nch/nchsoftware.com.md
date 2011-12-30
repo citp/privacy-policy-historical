@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nchsoftware.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513123554id_/http%3A//www.nch.com.au/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nchsoftware.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230044009id_/http%3A//www.nch.com.au/general/privacy.html) for the most accurate reproduction.*
 
 # NCH Software Privacy Statement
 
@@ -6,6 +6,8 @@
 
   * Introduction
   * Cookies and Other Tracking Technologies
+  * Collection of Email Addresses
+  * Collection of Program Usage Data
   * Choice
   * Security
   * Access/Accuracy
@@ -31,9 +33,25 @@ NCH Software strives to comply with all applicable laws around the globe that ar
 
 ##### Cookies and Other Tracking Technologies
 
-Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyse information that does not contain Personal Information for trends and statistics. 
+Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; click stream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics. 
 
-We use cookies so we can track users through our website so we can improve our website (for example to assist us to decide the ordering the placement of links). We also use cookies to track from where visitors to our site find us. We never store personal information in cookies. We will never provide cookie information to third parties. 
+We use cookies so we can track users through our website so we can improve our website, for example to assist us to decide the ordering the placement of links. We also use cookies to track from where visitors to our site find us. We never store personal information in cookies. We will never provide cookie information to third parties. 
+
+  Back to top
+
+##### Collection of Email Addresses
+
+We will never sell your email address. 
+
+If you opt-in for our version update newsletter or purchase software from us we may send you marketing material. You will be able to unsubscribe at any time. 
+
+Your email address may be recorded by the software automatically, even if you do not opt-in. In this case we will not send you marketing material (unless you later chose to opt-in on purchase). Use of your email address will be limited to extreme cases such as notifying users of serious bugs in an application or on no more than once for non-marketing product feedback requests. 
+
+  Back to top
+
+##### Collection of Program Usage Data
+
+Our programs may collect anonymous usage data which may be sent back to use for analysis, such as the number of times a menu or option is used within the program. In these cases the data collected will never contain anything that can personally identify you. 
 
   Back to top
 
