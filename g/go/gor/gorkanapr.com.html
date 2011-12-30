@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the gorkanapr.com privacy policy that was archived on 2011-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110512210027id_/http%3A//gorkanapr.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gorkanapr.com privacy policy that was archived on 2011-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111230153142id_/http%3A//www.gorkanapr.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>gorkanapr</title>
+
+<link rel="shortcut icon" href="/img/favicon.ico">
 
 <link href="/css/main.gpr.css.php" rel="stylesheet" type="text/css">
 
@@ -138,8 +140,8 @@ function selectItem(li) {
         }
 
 
-        $('#searchForm').append(inpType);
-        $('#searchForm').append(inpID);
+        $('#head_searchForm').append(inpType);
+        $('#head_searchForm').append(inpID);
         $("#searchQuickString").focus();
 
     }
@@ -177,34 +179,74 @@ autoFill:true
 </head>
 <body>
 <div id="MainWrapper">
-<div id="Header" style="background-image: url(/img/header.jpg)">
-<h1>GorkanaPR</h1>
-<a href="/" class="homeLink"></a>
-<div class="rightCol">
-<form id="searchForm" action="/search/" method="get">
-        </form>
 
-        <div style="clear:right;"></div>
-                    <div id="topnav">
-                <ul>
-                                        <li><a href="/user/join">register</a></li>
-                                                <li><a href="/news/pr/news/nli">PR news</a></li>
-                                                <li><a href="http://www.gorkanajobs.co.uk/jobs/pr" target="_blank">PR jobs</a></li>
-                                                <li><a href="http://www.gorkanajobs.co.uk/jobs/journalist" target="_blank">journo jobs</a></li>
-                                                <li><a href="/about/contact">contact us</a></li>
-                                                </ul>
-                        </div>
-                        </div>
-<div style="clear:both;"></div>
+
+<div id="head">
+  <table cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td id="head_search" style="vertical-align: top">
+        <form id="head_searchForm" action="/search/" method="get">
+                  </form>
+      </td>
+      <td id="head_login">
+                    You are not logged in            <a href="/login" onclick="if ($('#login_box').length>0) {
+                            $('#login_box').fadeIn(); return false;
+                        }">[login]
+            </a>
+                  </td>
+      <td id="head_logo" rowspan="4">
+        <a href="/">
+          <img src="/img/Gorkana_PR_logo.jpg" alt="Gorkana PR">
+        </a>
+      </td>
+        <td rowspan="4"></td>
+    </tr>
+    <tr>
+      <td id="head_topnav" colspan="2">
+
+                    <ul class="sf-menu">
+                                <li>
+                    <a href="/about/contact">
+                      <span>Contact Us</span>
+                    </a>
+                  </li>
+                                    <li>
+                    <a href="http://www.gorkanajobs.co.uk/jobs/journalist" target="_blank">
+                      <span>Journo Jobs</span>
+                    </a>
+                  </li>
+                                    <li>
+                    <a href="http://www.gorkanajobs.co.uk/jobs/pr" target="_blank">
+                      <span>PR Jobs</span>
+                    </a>
+                  </li>
+                                    <li>
+                    <a href="/news/pr/news/nli">
+                      <span>PR News</span>
+                    </a>
+                  </li>
+                                    <li>
+                    <a href="/user/join">
+                      <span>Register</span>
+                    </a>
+                  </li>
+                              </ul>
+            
+
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="height: 25px">
+        <div id="head_subNav" style="vertical-align: top; margin-right:0px">
+          &nbsp;        </div>
+      </td>
+    </tr>
+  </tbody></table>
 </div>
-<div id="navBar" style="height: 20px;">
-            <div id="loggedInAs">You are not logged in <a href="/login" onclick="if ($('#login_box').length>0) {$('#login_box').fadeIn(); return false;}">[login]</a></div>
-                
-                <div id="subNav" style="margin-right:0px">
-                                            </div>
-                            <div style="clear:both;"></div>
-                            </div> <!-- / #navBar -->
-                            
+
+<div style="clear:both"></div>
+
+
     <div id="login_box" style="display:none;"> 
         <div id="LoginCol" style="margin-top: 0; padding:5px;
 background:URL(//img/texture.gif) ; padding-left:10px; border:solid 1px #999;">
@@ -284,18 +326,12 @@ background:URL(//img/texture.gif) ; padding-left:10px; border:solid 1px #999;">
   </div>
 </div>
 
-<div id="LayoutLEFT">
-  <div class="colright"></div>
-</div>
-
-<div style="clear:both;"></div>
-
 <script type="text/javascript">
 $(document).ready(function(){
     $("#MindTheGap").css("height",$("#MainWrapper").height()+200);
 });
 </script>
-<div id="MindTheGap" style="height: 1217px;">
+<div id="MindTheGap" style="height: 1223px;">
 </div>
 
   
