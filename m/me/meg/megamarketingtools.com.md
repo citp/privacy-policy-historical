@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the megamarketingtools.com privacy policy that was archived on 2010-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100805071509id_/http%3A//wealthgroupinternational.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megamarketingtools.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230031631id_/http%3A//wealthgroupinternational.com/privacy.html) for the most accurate reproduction.*
 
 # Wealth Group International- Spam Policy
 
-Wealth Group International Inc.operates multiple web sites including Megalistbuilderpro.com, Megamarketingtools.com, Buzzwah.com Hostingmmt.com and Megatraffic4u.com. All policies and statements in this privacy policy are intended to apply to all Wealth Group International Inc.services. 
+Wealth Group International Inc.operates multiple web sites including Marketingtools4u.com, Adprotiser.com,MegaListBuilderPro.com, MegaSplashPage.com, MegaMarketingTools.com, Buzzwah.com HostingMMT.com and MegaTraffic4U.com. All policies and statements in this privacy policy are intended to apply to all Wealth Group International Inc.services. 
 
 Wealth Group International Inc.is committed to protecting your privacy. 
 
 Wealth Group International Inc.will never willfully disclose personally identifiable information about its customers to any third party without first receiving that customer's permission, unless necessary for legal reasons. 
 
-Questions regarding this statement should be directed to admin@Megalistbuilderpro.com. 
+Questions regarding this statement should be directed to admin@megamarketingtools.com. 
 
 What information does Wealth Group International Inc.Collect?   
 You don't need to provide any information in order to browse web sites in our network. 
 
-If you choose to subscribe to any of our services (become a member), you will be asked to provide the following information: name, company name, email address, city, state, country, zip code, phone number, and phone number. 
+If you choose to subscribe to any of our services (become a member), you could be asked to provide the following information: name, company name, email address, city, state, country, zip code, phone number.
+
+Marketingtools4u.com will ask for your social security number or ein number if you wish to sell products from this paticular site. This is in accordance with laws governing the USA. 
 
 We will NOT disclose, sell or exchange any member's personally identifiable information to or with anyone, without your approval. The only circumstances under which personally identifiable information about Wealth Group International Inc.members will be shared in a manner inconsistent to that stated above is if we believe disclosure is reasonably necessary to:   
 comply with the law or legal process;  
@@ -29,7 +31,7 @@ Once you confirm any such offer the privacy policies and standards of our member
 
 We will aggregate member and visitor information and perform statistical analyses of the collective characteristics and behavior of our members and visitors, to measure overall demographics and interests regarding specific areas of our network and to analyze how and where to use our resources. We also use the aggregate data collected to inform our sponsors and members as to the number of people who have seen and "clicked" on their advertisement, requested further information, or have responded to any offer provided by our members via our network. In addition, Wealth Group International Inc.may compile and disclose aggregate information about its visitors and members for promotional or other purposes. For example, we might want to disclose that a certain percentage of our members are located within a particular geographic area or fall within a particular age range. 
 
-##### Does Wealth Group International Inc.use cookies?
+##### Does Wealth Group International Inc. use cookies? 
 
 Wealth Group International Inc.uses both session cookies and persistent cookies (for an explanation of cookies, please see http://www.epic.org/privacy/internet/cookies/). Cookies help us determine how long visitors view particular content, which particular content (e.g., advertising) visitors view, which content or sites visitors link to, and which of our services members and visitors use. 
 
@@ -41,11 +43,11 @@ Session cookies help us keep track of when a person is logged in. Once a member 
 
 As a registered Wealth Group International Inc.member, you have easy access to your information, along with the ability to change it. And, you can always choose to unsubscribe from any services you've subscribed to at any of our sites. 
 
-##### I am not a member. I am receiving emails from your members. How can I unsubscribe from email lists at Megalistbuilderpro.com LLC?
+##### I am not a member. I am receiving emails from your members. How can I unsubscribe from email lists at Megalistbuilderpro.com?
 
 There are three ways to unsubscribe from Wealth Group International Inc. mailinglists: 
 
-  1. Use the unsubscribe link that appears at the bottom of every message you receive from any of our lists. Clicking the link automatically unsbuscribes you from the list your email came from AND provides the option to unsubscribe from any and all other lists on our network. **Clicking this option will remove and ban your email address from future use in our network.**    
+  1. Use the unsubscribe link that appears at the bottom of every message you receive from any of our lists. Clicking the link automatically unsbuscribes you from the list your email came from. **Clicking this option will remove and ban your email address from future use in our network.**    
 
   2. Send an email to [admin@Megalistbuilderpro.com](mailto:admin@Megalistbuilderpro.com) with the message" _UNSUBSCRIBE {_ youremail@email.com} from Megalistbuilderpro.com" in the subject line.  
 Your address will be manually removed from our system within ten business days. 
@@ -58,14 +60,14 @@ Las Vegas, NV 89107**
 
 
 
-##### How does Wealth Group International Inc.protect the privacy of children?
+##### How does Wealth Group International Inc. protect the privacy of children?
 
  
 
   
 The Wealth Group International Inc.services are not intended for use by anyone under the age of 18. However, as with any Web site, children can access all parts of the site which are accessible to the general public. See the "What information does Wealth Group International Inc. collect?" section of this document for an explanation of what information is publicly accessible through the Wealth Group International Inc. sites. 
 
-##### Notification of Changes
+##### Notification of Changes 
 
 If Wealth Group International Inc.intends to use your personally identifiable information in a manner different from that stated at the time of collection, we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect visitor or member information already stored in our database, we will post a prominent notice on our web site notifying visitors of the change. In some cases when we post such a notice we will also email users who have opted to receive communications from us notifying them of the changes in our privacy practices. 
 
