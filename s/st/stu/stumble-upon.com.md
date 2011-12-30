@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stumble-upon.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624001033id_/http%3A//www.stumbleupon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stumble-upon.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230125457id_/http%3A//www.stumbleupon.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ We collect and use Personal Information and Anonymous Information as described i
 
 ### User Consent
 
-By submitting information through our Services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Information according to this Privacy Policy and you agree to the StumbleUpon Terms of Service located at [http://www.stumbleupon.com/terms/](https://web.archive.org/web/20110624001033id_/http://www.stumbleupon.com/terms/).  
+By submitting information through our Services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Information according to this Privacy Policy and you agree to the StumbleUpon Terms of Service located at [http://www.stumbleupon.com/terms/](https://web.archive.org/web/20111230125457id_/http%3A//terms/).  
 Your Personal Information may be processed by us in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country.
 
 ### Personal Information You Provide to Us
@@ -71,7 +71,7 @@ If you provide feedback to us, we may use and disclose such feedback for any pur
 
 We do not trade, rent, or share your Personal Information with third parties, unless it is available on your profile page, without your express written consent, except as set forth in this Privacy Policy.  
 If you invite a third party to join StumbleUpon through the StumbleUpon Services email service, we will disclose your email address to the invitee.  Also, if you share a website or video with a friend through the StumbleUpon Services email service, we will disclose your email address to the recipient.  
-We may provide your Personal Information to third party service providers who work on behalf of or with us to provide some of the services and features of the StumbleUpon community and Services and to help us communicate with the members of our community. However, these service providers do not have any independent right to share this information (expect pursuant to a legal requirement such as a subpoena or warrant).  
+We may provide your Personal Information to third party service providers who work on behalf of or with us to provide some of the services and features of the StumbleUpon community and Services and to help us communicate with the members of our community. However, these service providers do not have any independent right to share this information (except pursuant to a legal requirement such as a subpoena or warrant).  
 Any information contained on publicly available portions of the StumbleUpon website (e.g. member profiles or other areas that are not password protected) may be “crawled” by third party search engines.  As a result, any Personal Information you include on such publicly available portions of the StumbleUpon website may be accessible through search engines in search results.  Moreover information on publicly any information you place on publicly available portions of the website, including Personal Information, is accessible by any third party and is not subject to this Privacy Policy.  
 We may share some or all of your Personal Information with our parent company, any subsidiaries, joint ventures, or other companies under a common control with us (“ **Affiliates** “), in which case we will require our Affiliates to honor this Privacy Policy.  
 If our company or our assets are acquired by another company, we may transfer your information in connection with that acquisition or sale and that company will possess the information (including your Personal Information) collected by us and it will assume the rights and obligations as described in this Privacy Policy.  
