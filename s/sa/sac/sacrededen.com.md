@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sacrededen.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305140613id_/http%3A//store.sacrededen.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sacrededen.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231004118id_/http%3A//store.sacrededen.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
