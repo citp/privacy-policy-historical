@@ -1,100 +1,72 @@
-> *The following text is extracted and transformed from the rxwiki.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rxwiki.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230033058id_/http%3A//rxwiki.com/Privacy_Policy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+RxWiki knows your personal privacy is very important, and we intend to earn your trust each and every day you access RxWiki.com. Our privacy policy applies to all RxWiki services, but it does not apply to third-party companies or for advertising relationships. Each of these companies has its own privacy policies, and we strongly encourage you to review the policies of each and every Web site you visit, are directed to or register for.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+RxWiki.com contains links to other Web sites. Once you enter another Web site (whether through an advertisement, service or content link), please be aware that we are not responsible for the privacy practices of that external Web site and that our privacy terms do not apply.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Our privacy policy informs you specifically what information is collected, how that information is used and other related subjects about your use of our Web site. To keep current with new technologies or regulations, we may change our privacy policy from time to time at our discretion. However, if we make a change, we may post version dates with a notice banner on the Web site, in our e-newsletters or via e-mail notification.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**How We Protect Your Information**
 
-**Information Collection and Use**
+To prevent unauthorized access to information, maintain data accuracy and ensure correct usage, we have implemented appropriate physical, electronic and workflow procedures designed to safeguard the information we collect. We limit access to your personal information to those individuals, companies and partners who have a clear need to know that information in order to support our businesses, products or services.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+The following types of personally identifiable information may be collected and stored by the Web site and used by RxWiki:
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  * E-mail address--As part of registering for the RxWiki e-newsletter, for any other RxWiki application (individually and collectively called "eNewsletters") or for use of our sites, you will be asked to provide your e-mail address. Your e-mail address will be used to deliver newsletters and other services.
+  * Name and address--As part of registering for eNewsletters or for use of our sites, you may be asked to provide your real name, address and other such contact information. Your name will be used for eNewsletter delivery and other marketing communications.
+  * Demographic information--As part of registering for eNewsletters or for use of our sites, we may ask you for specific demographic information so we may deliver information that is more relevant to you and your interests. For example, we may ask you about your gender, race, age, areas of interest and other information that would help us deliver services targeted to you. RxWiki may also combine information that we have about you with information we obtain from business partners or other parties.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**Polls and Surveys**
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+As part of using various applications on our Web site, such as polls, surveys and other interactive features, we collect information from answers and other user input. We may share the results of these applications in aggregate with third parties.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**Other Information We Collect and How We Use It**
 
-**Security**
+When you access the Web site, we may collect nonpersonal information about your use of our Web site. We may use cookies or Web beacons (both defined and described below) to collect or store personal information or link nonpersonal information from cookies or Web beacons to personal information without your prior permission.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**Our Commitment to Protect Children's Privacy**
 
-**Updating Your Information**
+We never collect information on our Web site from those users whom we know are under age 13, and no part of our Web site is structured to attract anyone under age 13.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**Third-party Advertisers**
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We allow other companies, called third-party ad servers or ad networks, to serve advertisements within our Web pages. Because your Web browser must request these advertising banners from the ad network, these companies can send their own cookies to your cookie file, just as if you had requested a Web page from our Web site.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**Usage Logging**
 
-      iii.      You may call us at: (480) 505-8800
+Every time you visit a page of our Web site, we record a small amount of information about your activities, such as which page you view. We use this information to form an overall statistical picture of the Web site, such as popular content, other Web sites users link to and the types of Web browsers being used to access our Web site. Additionally, each time you access our Web site, we may record the network address of your computer. Although this network address is used to identify your computer, it may or may not be a unique address.
 
-       iv.      You may fax us at: (480) 505-8844
+**When We Disclose Your Personal Information**
 
-**Sending Emails**
+  1. We permit distribution of your personal information as follows:
+  2. To our employees, contractors and agents who have an express need to know such information in order to provide the site or eNewsletters to you
+  3. To third parties designated by you as required to facilitate an online transaction or registration with such third party that you initiate on our Web site
+  4. In response to a valid subpoena or other compulsory request from law enforcement
+  5. To our officers, legal counsel or their designees when necessary during the investigation of abuse, harassment or other violations of the Terms
+  6. When the information is necessary to illustrate or resolve technical issues with the site or eNewsletters
+  7. To conduct audits or other similar operations procedures, but only as minimally required to perform such procedures
+  8. When a user has violated the Terms and RxWiki will, at its discretion, block the user's network address
+  9. When we reasonably determine it is necessary to protect the rights, property or safety of RxWiki, its users or the public
+  10. For any portions of the site that specifically require you to opt in, unless you specifically opt in to such portions, you will be automatically opted out
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Compliance with Laws and Law Enforcement**
+We may transfer your personal information to a successor-in-interest in connection with a merger, sale, divestiture or other transfer of assets or fundamental corporate change of the portion of our business of that provides the site or any eNewsletter.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+We may freely distribute nonpersonal information to any party for any reason, subject to applicable laws.
 
-**Third Party Service Providers**
+**How to Correct Your Information**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+You can obtain all your personally identifiable information that we collect online and maintain by contacting our Privacy Officer. If you have any questions, comments or complaints about this privacy policy, please contact us through the Web site, by e-mail, by phone or by post at the following addresses below.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+**Ownership**
 
-**Supplementation of Information**
+RxWiki is owned by Patient Conversation Media, Inc.  Patient Conversation Media's corporate site can be found at www.PatientConversation.com and we can be reached by email at info@PatientConversation.com.  Our mailing address is:
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+>  _Patient Conversation Media, Inc._  
+>  _43 Rainey Street_  
+>  _Austin, TX 78701_
