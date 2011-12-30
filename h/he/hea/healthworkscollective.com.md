@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthworkscollective.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430111354id_/http%3A//healthworkscollective.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthworkscollective.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230111615id_/http%3A//healthworkscollective.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Healthworks Collective
+# Privacy | HealthWorks Collective
 
 HealthWorks Collective respects each individual's right to personal privacy. We will collect and use information through our web site only in the ways disclosed in this statement. This statement applies solely to information collected at HealthWorks Collective's web site.
 
