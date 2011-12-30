@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bloggingunderground.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429173342id_/http%3A//www.bloggingunderground.com/bu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingunderground.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230204009id_/http%3A//www.bloggingunderground.com/bu/privacy-policy) for the most accurate reproduction.*
 
 # Blogging Underground Privacy Policy | Blogging Underground
 
 **Blogging Underground Privacy Policy**
 
-We respect your privacy and make every effort to protect your personal information.
+We respect your privacy and make every effort to protect your personal information and will not share your email address with anyone else period. We will only occasionally send you email messages with important news and info and will not send you junk.
 
 Blogging Underground (“Blogging Underground” or “the Site” or “our” or “Creative Power”) has created this privacy policy statement in order to demonstrate our firm commitment to the privacy of our web visitors and members.
 
