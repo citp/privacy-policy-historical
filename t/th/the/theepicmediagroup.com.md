@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theepicmediagroup.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130044435id_/http%3A//www.theepicmediagroup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theepicmediagroup.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230032725id_/http%3A//www.theepicmediagroup.com/privacy.php) for the most accurate reproduction.*
 
 # The Epic Media Group: How The Web Is Won.
 
@@ -44,3 +44,5 @@ Attn: Privacy Officer
 New York, NY 10018
 
 EMG is a self-certified member of the U.S. Department of Commerce's EU Safe Harbor privacy program jointly established to comply with the European Commission's 1998 Directive on Data Protection. For more information about this privacy initiative, visit the Department of Commerce's website at [http://www.export.gov/safeHarbor/.](http://www.export.gov/safeHarbor/)
+
+LAST UPDATED APRIL 27, 2010
