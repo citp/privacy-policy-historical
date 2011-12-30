@@ -1,98 +1,1477 @@
-<!--The following is the downloaded HTML source of the mytelus.com privacy policy that was archived on 2011-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110519054055id_/http%3A//about.telus.com/legal/privacy/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mytelus.com privacy policy that was archived on 2011-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111230042043id_/http%3A//about.telus.com/legal/privacy/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Privacy | TELUS</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class=" linux chrome webkit"><head>
+	
+	
 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="TELUS Privacy">
-<meta name="keywords" content="TELUS, Privacy">  
 
-<link rel="stylesheet" type="text/css" href="/legal/privacy/css/simple.css">
-<link rel="stylesheet" type="text/css" href="/legal/privacy/css/styles.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/legal/privacy/css/print.css" media="print">
 
-<script src="/legal/privacy/js/sifr.js" type="text/javascript"></script>
-<script src="/legal/privacy/js/common.js" type="text/javascript"></script>
+
+
+	
+	
+	
+
+	
+	<title>About TELUS - Privacy</title>
+	
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"> 
+
+<script type="text/javascript">
+    if (top != self) {
+        var isSafeTopUrl = false;
+        try {
+            var topUrl = top.location.href;
+            var topUrlQsIdx = topUrl.indexOf('?');
+            if (topUrlQsIdx > 0) {
+                topUrl = topUrl.substring(0, topUrlQsIdx);
+            }
+            topUrl = topUrl.toLowerCase();
+
+            var safeTopUrls = new Array(
+                'http://about.telus.com/skin-basic.jspa',
+                'http://about.telus.com/skin-advanced.jspa',
+                'http://about.telus.com/skin-advanced!UploadSkinZip.jspa',
+                'http://about.telus.com/skin-palette.jspa',
+                'http://about.telus.com/skin-palette!start.jspa'
+            );
+            for (var i = 0; i < safeTopUrls.length; i++) {
+                if (safeTopUrls[i].toLowerCase() == topUrl) {
+                    isSafeTopUrl = true;
+                    break;
+                }
+            }
+        } catch (err) {
+        }
+        if (!isSafeTopUrl) top.location = location;
+    }
+</script>
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Language" content="en-CA">
+<meta name="keywords" content="">
+<meta name="description" content="Welcome to About TELUS. TELUS is a leading national telecommunications company in Canada, with $9.9 billion of annual revenue and 12.3 million customer connections.">
+<link rel="search" href="/opensearch.xml" title="About TELUS" type="application/opensearchdescription+xml">
+
+
+<link rel="shortcut icon" type="image/x-icon" href="/themes/about_telus/images/favicon.ico">
+<link rel="icon" type="image/png" href="/themes/about_telus/images/favicon.ico">
+
+    
+
+
+    <script type="text/javascript">
+        (function() {
+            var prepareUrl = function(url) {
+                if (url.indexOf(";") > 0) {
+                    url = url.substring(0, url.indexOf(";"));
+                }
+                if (url.charAt(url.length - 1) == '/') {
+                    url = url.substring(0, url.length - 1);
+                }
+                return url
+            };
+            if (typeof(window._jive_base_url) == "undefined") {
+                window._jive_base_url = prepareUrl("/")
+            }
+            if (typeof(window._jive_resource_url) == "undefined") {
+                window._jive_resource_url = prepareUrl("/4.5.5/")
+            }
+                if (typeof(window._jive_current_user) == "undefined") {
+                    window._jive_current_user = {
+                        anonymous: true,
+                        username: 'ANONYMOUS',
+                        ID: '-1',
+                        enabled: true,
+                        avatarID: '-1',
+                        displayName: ''
+                    };
+                }
+
+
+
+        })();
+
+        var _jive_effective_user_id = "-1";
+        var _jive_auth_token ="no-user";
+        var _jive_locale = "en_US";
+
+    </script>
+
+
+<script type="text/javascript">
+    function KJS(config) { this._path = (config && config.path) || ''; this._d = {}; }
+    KJS.prototype = {
+        require: function(/* deps */) {
+            var ms = Array.prototype.slice.call(arguments), fn;
+            if (typeof ms[ms.length - 1] == 'function') { fn = ms.pop(); }
+            for (var i = 0; i < ms.length; i++) {
+                this.sat(ms[i] +'--required');
+            }
+            if (fn) {
+                this.run(fn, ms);
+            }
+        },
+        load: function(file, depends, satisfies) {
+            var kjs = this,
+                s = (satisfies || []).concat(file.split('?')[0]),
+                satisfy = function(body) {
+                    kjs.embed(body);
+                    var i;
+                    while (i = s.shift()) { kjs.sat(i); }
+                };
+            if (!kjs.isSat(s)) {
+                this.get(this._path + file, function(body) {
+                    depends && depends.length ?
+                        kjs.run(function() { satisfy(body); }, depends) :
+                        satisfy(body);
+                });
+            }
+        },
+        run: function(fn, depends, satisfies) {
+            var kjs = this, ifn,
+                s = satisfies || [],
+                fn_with_satisfies = s.length ?
+                    function() { fn(); var i; while (i = s.pop()) { kjs.sat(i); } } : fn;
+            if (!kjs.isSat(s)) {
+                if (!depends.length) {
+                    fn_with_satisfies();
+                } else if (1 == depends.length) {
+                    ifn = fn_with_satisfies;
+                } else {
+                    var c = depends.length;
+                    ifn = function() { if (!--c) { fn_with_satisfies(); } };
+                }
+                var i;
+                while (i = depends.pop()) {
+                    if (true === this._d[i]) { ifn(); }
+                    else {
+                        this._d[i] = this._d[i] ?
+                        function(ofn, nfn) {
+                            return function() { ofn(); nfn(); };
+                        }(this._d[i], ifn) : ifn;
+                    }
+                }
+            }
+        },
+        get: function(url, fn) {
+            var t;
+            try {
+                t = new XMLHttpRequest();
+            } catch(_) {
+                try {
+                    t = new ActiveXObject('Msxml2.XMLHTTP');
+                } catch(_) {
+                    t = new ActiveXObject('Microsoft.XMLHTTP');
+                }
+            }
+            t.open('GET', url, true);
+            t.onreadystatechange = function() {
+                if (4 == t.readyState) {
+                    fn(t.responseText);
+                    t.onreadystatechange = function(){};
+                }
+            };
+            t.send();
+        },
+        embed: function(body) {
+            jQuery.globalEval(body);
+        },
+        sat: function(dep) {
+            if (this._d[dep] && true !== this._d[dep]) { this._d[dep](); }
+            this._d[dep] = true;
+        },
+        isSat: function(deps) {
+            var c = 0;
+            for (var i = 0; i < deps.length; i++) {
+                if (true === this._d[deps[i]]) { c++; }
+            }
+            return c > 0 && c === deps.length
+        }
+    };
+    var kjs = new KJS();
+</script>
+
+    
+      
+      
+    <script type="text/javascript">
+        window.SPELL_LANGS = "English (Canada)=en_ca,English (United Kingdom)=en_gb,+English (United States)=en_us,French=fr,French (Canada)=fr_ca,German=de,Italian=it,Spanish=es";
+        window.CS_BASE_URL = "";
+        window.CS_RESOURCE_BASE_URL = "/4.5.5";
+        window.tinyMCEPreInit = {
+            suffix : "_src",
+            base : CS_BASE_URL + "/resources/scripts/tiny_mce3"
+        };
+        if (typeof(_jive_project_i18n) == "undefined") {
+            var _jive_project_i18n = new Array();
+            _jive_project_i18n['project.calendar.task'] = "Task";
+            _jive_project_i18n['project.calendar.tasks'] = "Tasks";
+            _jive_project_i18n['project.calendar.checkpoint'] = "Checkpoint";
+            _jive_project_i18n['project.calendar.checkpoints'] = "Checkpoints";
+            _jive_project_i18n['global.edit'] = "Edit";
+            _jive_project_i18n['global.delete'] = "Delete";
+            _jive_project_i18n['project.task.mark.complete'] = "Mark complete";
+            _jive_project_i18n['project.task.assign.to.me'] = "Assign to me";
+            _jive_project_i18n['task.incomplete.link'] = "Incomplete";
+            _jive_project_i18n['project.checkPoint.create.link'] = "Create a checkpoint";
+            _jive_project_i18n['project.task.create.link'] = "Create a task";
+        }
+    </script>
+     
+
+
+
+
+    
+
+
+
+    
+<script type="text/javascript">
+kjs.run(function() {
+kjs.load('/4.5.5/resources/scripts/gen/1d4107d6bb4175462acb57ffdeacd834.js', [  ]);
+kjs.run(function() {
+        Zapatec.Calendar._TT["DEF_DATE_FORMAT"] = "%m/%d/%Y";
+
+
+}, [ '/4.5.5/resources/scripts/gen/1d4107d6bb4175462acb57ffdeacd834.js' ], [ 'Zapatec.Calendar' ]);
+}, [ 'Zapatec.Calendar--required' ]);
+</script>
+    
+    <script type="text/javascript">
+        var profileShortUrl = "/profile-short.jspa";
+        var profileLoadingTooltip = "Loading user profile";
+        var profileErrorTooltip = "There was an error loading that profile information.";
+
+        var projectChooserUrl = "/community/english/project-chooser!input.jspa";
+
+        var containerShortUrl = "/container-short.jspa";
+        var containerLoadingTooltip = "Loading place information.";
+        var containerErrorTooltip = "There was an error loading that place information.";
+
+        var videoShortUrl = "/view-video-short.jspa";
+        var videoLoadingTooltip = "video.tooltip.loading";
+        var videoErrorTooltip = "video.tooltip.error";
+        var _jive_video_picker__url = "?container=3773&containerType=14";
+        var followErrorMessage = "An internal error occurred while following the project or space.";
+
+        (function() {
+            var originalWrite = document.write;
+            document.write = function() {
+                if(typeof $j != 'undefined' && $j.isReady) {
+                    console.warn("document.write called after document was loaded: ", arguments);
+                }
+                else {
+                    // In IE before version 8 `document.write()` does not
+                    // implement Function methods, like `apply()`.
+                    return Function.prototype.apply.call(originalWrite, document, arguments);
+                }
+            }
+        })();        
+    </script>
+
+
+
+
+
+<!-- fh include powershifter javascript -->
+<script type="text/javascript" src="/themes/about_telus/js/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="/themes/about_telus/js/jquery-ui.min.js"></script>
+<link href="/themes/about_telus/css/jquery-ui.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/themes/about_telus/js/jquery.main.js"></script>
+<script type="text/javascript" src="/themes/about_telus/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/themes/about_telus/js/jquery.form.js"></script>
+<script type="text/javascript" src="/themes/about_telus/js/jquery.json-2.2.js"></script>
+<script type="text/javascript" charset="windows-1252" src="/themes/about_telus/onlineopinionOO4S/oo_engine_c.js"></script>
+<script type="text/javascript" charset="windows-1252" src="/themes/about_telus/onlineopinionOO4S/oo_conf_en-US_inline.js"></script>
+
+
+	<link rel="stylesheet" type="text/css" href="/themes/about_telus/css/jive-global.css" media="all">
+	
+    <!-- <link rel="stylesheet" href="/styles/jive-icons-legacy.css" type="text/css" media="all" /> -->
+
+	<link rel="stylesheet" type="text/css" href="/themes/about_telus/css/jive-icons.css" media="all">
+
+
+    	<link rel="stylesheet" href="/theme/purple/styles/theme.css" type="text/css">
+
+
+
+    <!--[if IE 6]>
+    <style type="text/css">
+    /* hack for IE6's lack of alpha PNG support */
+    #jive-wrapper .ie6png {
+        filter: expression(function(e){
+            e.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src=" +
+                (e.tagName=='IMG' ? e.src : e.currentStyle.backgroundImage.split('\"')[1]) + ")",
+            e.runtimeStyle.backgroundImage = "none",
+            e.src = "/images/transparent.png"
+        }(this));
+    }
+    </style>
+
+	<link rel="stylesheet" type="text/css" href="/themes/about_telus/css/jive-icons-ie.css" media="all"/>
+
+    <![endif]-->
+
+	<link rel="stylesheet" type="text/css" href="/themes/about_telus/css/all_new.css" media="all">
+
+
+
+    <!--[if IE]><script type="text/javascript" src="/themes/about_telus/js/telus-local-query.js"></script><![endif]-->
+<script type="text/javascript" src="/4.5.5/resources/scripts/gen/5d39175a497d2c9b1f13db4f2c8f637b.js"></script>
+<script type="text/javascript">
+        // begin list of custom CSS
+        jive.rte.defaultStyles = new Array();
+        // end list of custom CSS
+
+
+            var jiveControl = new jive.model.Controller();
+            jive.rte.mobileUI = false;
+
+
+if (dwr == null) var dwr = {};
+if (dwr.engine == null) dwr.engine = {};
+if (DWREngine == null) var DWREngine = dwr.engine;
+
+dwr.engine._origScriptSessionId = "71F8C487CEB37A51856EFEBBA489EE23";
+dwr.engine._sessionCookieName = "JSESSIONID"; // JSESSIONID
+dwr.engine._allowGetForSafariButMakeForgeryEasier = "true";
+dwr.engine._scriptTagProtection = "throw 'allowScriptTagRemoting is false.';";
+dwr.engine._defaultPath = "/dwr/interface";
+dwr.engine._pollWithXhr = "false";
+
+
+    (function() {
+        var options = {
+            friendsRange : 20,
+            everyoneRange : 20,
+            youUsername : 'ANONYMOUS',
+            youID : -1,
+            isGuest : true
+        };
+
+        var i18n = {
+            acclaimLikingLike : "Like",
+            acclaimLikingUnlike : "Liked",
+            acclaimLikedNone : "None",
+            acclaimLikingLiked : "Person Liked This",
+            acclaimLikingLikedPlural : "People Liked This",
+            acclaimPeopleLiked : "People who liked this",
+            acclaimLikedYou : "You",
+            acclaimLikedFriends : "Friends",
+            acclaimLikedEveryone : "Everyone Else",
+            globalMore : "More",
+            globalClose : "Close"
+        };
+
+        new jive.Acclaim(options, i18n);
+    })();
+
+
+        var quickuserprofile = new QuickUserProfile("jive-note-user-body", profileShortUrl, profileLoadingTooltip,
+                profileErrorTooltip);
+        var jiveprojectchooser = new JiveProjectChooser(projectChooserUrl);
+        var quickcontainersummary = new QuickContainerSummary("jive-note-container-body", containerShortUrl,
+                containerLoadingTooltip, containerErrorTooltip);
+        var quickviewvideo = new QuickViewVideo("jive-note-video-body", videoShortUrl, videoLoadingTooltip,
+                videoErrorTooltip);
+
+        var jiveFollow = new jive.Follow(followErrorMessage);
+
+
+</script>
+    
+
+    
+    <!--[if IE]><script type="text/javascript" src="/themes/about_telus/js/telus-local-watches.js"></script><![endif]-->
+<script type="text/javascript" src="/4.5.5/resources/scripts/gen/8083c0116dbfb885804866a410e7117c.js"></script>
+<script type="text/javascript">
+    var communityID = 3773;
+    var containerID = 3773;
+    var containerType = 14;
+    function closeCustomizeWidgetMessageProperty() {
+        $j('#jive-overview-customize-info').hide();
+        CommunityUtils.closeCustomizeWidgetMessageProperty();
+    }
+
+    function setUserDefaultTab() {
+        $j('#jive-set-default-tab').hide();
+        CommunityUtils.setUserDefaultTab(communityID, 'overview');
+    }
+
+
+    function startFollowing() {
+        FollowingActionBean.followContainer(14, communityID, true, {
+            callback:function() {
+                $j('#jive-link-community-startFollowing').hide();
+                $j('#jive-link-community-stopFollowing').show();
+                Jive.AlertMessage('thread.watch.notify', {
+                        beforeStart:function() {
+                            $j('[id=thread.watch.notify]').html('<div><span class="jive-icon-med jive-icon-info"></span>' + 'You are now following this space, which will appear in the Places widget. To remove, click &quot;Stop following this space&quot;.' + '</div>');
+                        }
+                 });
+            },
+            errorHandler:function(msg, e) {
+                alert("An internal error occurred while following the project or space.");
+            }
+        });
+    }
+
+    function stopFollowing() {
+        FollowingActionBean.followContainer(14, communityID, false, {
+            callback:function() {
+                $j('#jive-link-community-startFollowing').show();
+                $j('#jive-link-community-stopFollowing').hide();
+                Jive.AlertMessage('thread.watch.notify', {
+                        beforeStart:function() {
+                            $j('[id=thread.watch.notify]').html('<div><span class="jive-icon-med jive-icon-info"></span>' + 'You have stopped following this space. To view this space in the Places widget, click &quot;Follow this space&quot; below.' + '</div>');
+                        }
+                 });
+            },
+            errorHandler:function(msg, e) {
+                alert("An internal error occurred while following the project or space.");
+            }
+        });
+    }
+
+
+
+            window.tinyMCE_GZ = { loaded: true };
+
+
+$j(function() { window.gadgetContainer = new GadgetContainer()});
+
+
+var bridgeIDs = new Array();
+var widgetBridges = new WidgetBridges({
+    bridgeAction : "/community/english/bridge-widgets.jspa",
+    bridgeLoginAction : "/community/english/bridge-widgets!login.jspa",
+    bridgeLogoutAction : "/community/english/bridge-widgets!logout.jspa",
+    bridgeIDs: bridgeIDs
+});
+
+
+</script>
+
+    
+    
+<!-- Warning: This macro assumes the necessary javascript and dwr methods already exist to persist the open/closed state -->
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN community.ftl head section -->
+
+
+<meta name="description" content="">
+
+
+
+
+
+    <link rel="alternate" type="application/rss+xml" title="Privacy All Content Feed" href="/community/feeds/allcontent?community=3773">
+
+
+        <link rel="alternate" type="application/rss+xml" title="Privacy Documents Feed" href="/community/feeds/documents?community=3773">
+
+
+    <link rel="alternate" type="application/rss+xml" title="Privacy Polls Feed" href="/community/feeds/polls?community=3773 ">
+
+
+
+
+
+
+<!-- END community.ftl head section -->
+
+
+
+
+
+    <style type="text/css">/* RICH TEXT EDITOR FIX */
+.mce_fontselect { display: none !important }
+.mce_fontsizeselect { display: none !important }
+.jive_magicspacer_button { display: none !important }
+.jive_spacer_button { display: none !important }
+.mce_jivevideo { display: none !important }
+.mce_jiveemoticons { display: none !important }
+.mce_justifyleft { display: none !important }
+.mce_justifycenter { display: none !important }
+.mce_justifyright { display: none !important }
+.mce_justifyfull { display: none !important }
+/*.mce_jiveimage { display: none !important }*/
+
+#jive-wrapper {
+margin-left: auto;
+margin-right: auto;
+}
+
+
+
+#jive-body-intro {
+background: none;
+}
+
+#jive-body-intro-content {
+display: none;
+}
+
+#jive-announcements-messaging{
+display: none;
+}
+
+a #jive-set-default-tab [
+display: none !important;
+}
+
+.jive-icon-big jive-icon-space {
+display: none;
+}
+
+#jive-userbar, #jive-breadcrumb {
+background: none;
+}
+/** misc */
+#telus-admin-bar-wrapper {
+background-color: #F9F9F9;
+border-left: 1px solid #E5E5E5;
+border-right: 1px solid #E5E5E5;
+border-bottom: 1px solid #E5E5E5;
+border-bottom-left-radius: 3px;
+border-bottom-right-radius: 3px;
+height: 35px;
+}
+
+#telus-admin-bar {
+padding-top: 12px;
+padding-left: 0px;
+
+}
+
+#telus-admin-bar li {
+display:inline;
+padding-right: 10px;
+}
+#jive-body-intro h1 a, h1 {
+color: #49166D;
+font-family: "HelveticaNeueLight", Arial, Helvetica, sans-serif;
+}
+
+/** Widget Styling */
+.jive-box-header, .jive-sidebar-header, .jive-widget-header {
+background: none;
+border: none;
+}
+ 
+.jive-widget-handle span{
+color: #49166D;
+font-family: "HelveticaNeueLight", Arial, Helvetica, sans-serif;
+font-size: 18px;
+}
+
+.jive-widget-handle .dragToAdd{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 1.1em;
+font-weight: bold;
+color: #FFFFFF;
+}
+
+/** RIGHT COLUMN */
+.jive-body-layout-s1 {
+
+}
+
+.jive-widget {
+border-color: #DDD;
+}
+
+/** LANDING PAGE */
+
+.cwe-landing h1 {
+font-size: 48px;
+font-family: HelveticaNeueLTStd35Thin, Arial, Helvetica, sans-serif;
+
+}
+
+
+.hidden{
+	position:absolute;
+	left:-9999px;
+	top:auto;
+	width:1px;
+	height:1px;
+	overflow:hidden;
+}
+.jive-link-community-small {
+background: none !important;
+padding-left: 0px !important;
+}
+.jive-link-anchor-small[name] {
+display: none !important;
+}</style>
+    <style type="text/css">/* custom-css-container */</style>
 
 </head>
+<body class="jive-body-community jive-body-community-overview">
 
-<body>
+
+<a href="#jive-body" class="jive-skip-nav">Skip navigation</a>
+
+    <div id="jive-compliance" class="" style="display:none">
+        <span class="jive-icon-med "></span>
+        
+    </div>
+
+    <div id="jive-wrapper" class="clearfix">
+
+<script type="text/javascript">
+	function getLanguageCookie() {
+		if ($.cookie("language") == null) {
+			return "EN";
+		}
+		return $.cookie("language");
+	}
+
+	function setLanguageCookie(lang) {
+		$.cookie("language", lang, { path: '/', expires: 30 });
+	}
+
+	function setLanguageCookieAndGo(lang, url) {
+		setLanguageCookie(lang);
+		window.location.href = url;
+	}
 
 
-<!-- Start header -->
-<div id="header">
-	<div id="logo">
-		<a href="http://www.telus.com" title="Go to telus.com"><img src="/legal/privacy/images/logoTelus.gif" width="174" height="33" alt="TELUS" border="0"></a> 
+	$(document).ready(function() {
+		var currentInPageURL = document.URL;
+		
+		if (currentInPageURL.indexOf("/opportunities/career_connect") != -1) {
+			// If this is the career connection page, ensure we're using HTTPS
+			if (parent.location.protocol == "http:") {
+				window.location.href = "https://" + parent.location.host + parent.location.pathname;
+			}
+		}
+		//alert(parent.location.protocol);
+		
+		// Reset the cookie if necessary -- helps ensure correct state
+		if (currentInPageURL.indexOf("/community/french") != -1) {
+			setLanguageCookie("FR");
+		} else if (currentInPageURL.indexOf("/community/english") != -1){
+			setLanguageCookie("EN");
+		} // Else don't reset the cookie, e.g. search page
+		var newInPageURL = "";
+		var langSwitcherText, bottomLangSwitcherText, bottomLanguageWord, newLang = "";
+		var bottomLangSwitcherText = "";
+		if (getLanguageCookie() == "EN") {
+			langSwitcherText = "Français";
+			bottomLanguageWord = "Language";
+			bottomLangSwitcherText = "English";
+			newInPageURL = currentInPageURL.replace("english", "french");
+			newLang = "FR";
+		}
+		else {
+			langSwitcherText = "English";
+			bottomLanguageWord = "Langue";
+			bottomLangSwitcherText = "Français";
+			newInPageURL = currentInPageURL.replace("french", "english");
+			newLang = "EN";
+		}
+		$.ajax({
+			url: newInPageURL,
+			processData: false,
+   			success: function(msg){
+     			$('.languageSwitcherTop').html("<a id='t_lang-switch-link-top' href='" + newInPageURL + "'>" + langSwitcherText + "</a>");
+				$('.languageSwitcherBottom').html("<strong class='t_title'>" + bottomLanguageWord + "</strong> <a id='t_lang-switch-link-bottom' class='t_lang-change' href='" + newInPageURL + "'>" + bottomLangSwitcherText + "</a>");
+				var topLink = $('#t_lang-switch-link-top');
+				topLink.click(function() {
+					topLink.hide();
+					setLanguageCookieAndGo(newLang, newInPageURL);
+					return false;
+				});
+				var bottomLink = $('#t_lang-switch-link-bottom');
+				bottomLink.click(function() {
+					bottomLink.hide();
+					setLanguageCookieAndGo(newLang, newInPageURL);
+					return false;
+				});
+
+
+   			},
+   			error: function(msg) {
+   				$('.languageSwitcherTop').hide();
+				$('.languageSwitcherBottom').hide();
+   			},
+   			complete: function(msg) {
+   				$.ajax({
+					url: currentInPageURL,
+					processData: false
+ 				});
+   			}
+ 		});
+		
+	});
+</script>
+
+<script src="https://about.telus.com/analytics/s_code.js" language="JavaScript"></script>
+<script language="JavaScript" type="text/javascript">
+            var currentUrl = window.location.href;
+            var indexOfDoubleSlash = currentUrl.indexOf("//");
+            currentUrl = currentUrl.substring(indexOfDoubleSlash + 2); //two because double slashed have length 2
+            
+            var indexOfFirstSlash = currentUrl.indexOf("/");
+            var indexOfStartOfQueryString = currentUrl.indexOf("?");
+           
+            
+            var serverName = currentUrl.substring(0,indexOfFirstSlash);
+            s.server=serverName;
+            
+            var pageName;
+            if(indexOfStartOfQueryString == -1){
+                pageName = currentUrl.substring(indexOfFirstSlash+1);
+            }
+            else{
+                pageName = currentUrl.substring(indexOfFirstSlash+1,indexOfStartOfQueryString); //filtering out url parameters
+            }
+            s.pageName=pageName;
+            s.hier1=pageName;
+            s.channel="corporate";
+            
+            //Initialize properties
+            s.prop1="";
+            s.prop2="";
+            s.prop3="";
+            s.prop4="";
+            s.prop47="";
+            s.prop48="";
+            s.prop49="";
+            s.prop50="";
+            
+            var urlSections = pageName.split("/");
+            if(urlSections != null) {
+                for(var i =0; i < urlSections.length; i++){
+                    if(i+1 == 1){
+                        s.prop1=urlSections[i]; // Section (Level 1)
+                    }
+                    else if (i+1 == 2){
+                        s.prop2=urlSections[i]; // Sub Section (Level 2)
+                    }
+                    else if (i+1 == 3){
+                        s.prop3=urlSections[i]; // Sub Section (Level 3)
+                    }
+                    else if (i+1 == 4){
+                        s.prop4=urlSections[i]; // Sub Sections (Level 4)
+                    }
+                    else if (i+1 == 5){
+                        s.prop47=urlSections[i]; // Sub Sections (Level 5)
+                    }
+                    else if (i+1 == 6){
+                        s.prop48=urlSections[i]; // Sub Sections (Level 6)
+                    }
+                    else if (i+1 == 7){
+                        s.prop49=urlSections[i]; // Sub Sections (Level 7)
+                    }
+                    else if (i+1 == 8){
+                        s.prop50=urlSections[i]; // Sub Sections (Level 8)
+                    }
+                }
+            }
+            
+            
+             /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)
+            
+        </script>
+        <script language="JavaScript" type="text/javascript">
+            if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-') 
+        </script>
+        <noscript>
+            <a href="http://www.omniture.com" title="Web Analytics">
+                <img src="http://a.telus.com/b/ss/telusaboutdevelopment/1/H.21--NS/0" height="1" width="1" border="0" alt="" />
+            </a>
+        </noscript><!--/DO NOT REMOVE/-->
+
+
+
+
+<!-- BEGIN HEADER -->
+
+
+
+
+
+	<a name="top"></a>
+
+
+
+
+
+
+<a class="hidden" style="margin-left: -9999px;" href="#nav" tabindex="1">skip to navigation</a>
+
+
+<div id="t_header" class="t_header2">
+
+	
+	<h1 class="t_logo t_logo2" style="background: url('/themes/about_telus/images/logo.gif') no-repeat;"><a href="/community/english">TELUS</a></h1>
+	<div class="t_upper">
+		<!-- search-form2 -->
+		<form action="/search.jspa" method="get" id="jive-userbar-search-form" class="t_search-form t_search-form2">
+			<fieldset>
+				<input type="hidden" name="peopleEnabled" value="true">
+				<input type="hidden" name="userID">
+				<input type="hidden" name="containerType">
+				<input type="hidden" name="container">
+				<input type="hidden" name="spotlight" value="false">
+				<input type="hidden" name="resultTypes" value="document">
+				<span class="t_text">
+					<input type="text" id="jive-query" name="q" value="" class="jive-userbar-search-field" accesskey="4" autocomplete="off">
+				</span>
+				<input type="submit" value="Search Tags" class="t_submit">
+			</fieldset>
+		</form>
+		<!-- user-nav2 -->
+		
+		<ul class="t_user-nav t_user-nav2">
+		
+		
+			<!-- BEGIN user bar -->
+			<!-- END user bar -->
+			
+			
+			<li class="languageSwitcherTop"><a id="t_lang-switch-link-top" href="https://web.archive.org/web/20111230042043id_/http://about.telus.com/community/french/privacy">Français</a></li>
+			<li><a href="javascript:void(0);" onclick="oOobj3.OnClick()">Site Feedback</a></li>
+			<li>Search multimedia &amp; presentations:</li>
+
+		</ul>
 	</div>
-	<div id="headerTitle"><h1>privacy</h1></div>
-	<div id="closeWin"><a href="javascript:window.close();"><img src="/legal/privacy/images/closewindow.gif" width="114" height="26" alt="close window" border="0"></a></div>
-</div> 
-<!-- End header -->
-
-
-<!-- Start Global Nav -->
-<div id="mainNav">
-  <ul id="menuList">
-   <li id="privacy"><a href="/legal/privacy/brochure.html" title="TELUS privacy commitment"><strong>TELUS privacy commitment</strong></a></li>
-   <li id="faq"><a href="faq.html" title="frequently asked questions"><strong>frequently asked questions</strong></a> </li>
-   <li id="code"><a href="download.html" title="privacy code"><strong>privacy code</strong></a></li>
-  </ul>
- </div>
-<!-- End Global Nav -->
-
-<div id="icon"><a href="javascript:window.print();" class="printPage">Print this page</a></div>
-
-<!-- Start Content -->
-<div id="content">
-
-<!-- Start Column 1 -->
-<div id="column1">
-
-<h2>privacy</h2>
-<!-- PRIVACY MENU -->
-<ul>
-	<li class="selected"><a href="index.html">home</a></li>
-	<li><a href="/legal/privacy/downloads/8_00374_01EN_09sc.pdf">privacy fact statement (pdf)</a></li>
-	<li class="last"><a href="cookies.html">cookies</a></li>
-</ul>
-<!-- END OF PRIVACY MENU -->
-
-<!--	******** Removed NYMITY - ISR 29498 - Feb 7/08 - A. Fernandes *******
-<div id="nymityLogo">
- <a href="http://www.nymity.com/about_us/Top_Privacy_Policies.asp" target="_blank"><img src="images/nymity.jpg" width="111" height="112" alt="Nymity 2006 Privacy Award Winner" border="0" /></a></div>-->
-
 </div>
 
 
-<!-- End Column 1 -->
 
-<!-- Start Column 2 -->
-<div id="column2">
-<h1>your privacy is important to us</h1>
 
-<p>Although our ability to provide service requires that we collect personal information about our clients, we take measures to ensure the privacy and confidentiality of that information.</p>
 
-<p>Our commitment to safeguarding your privacy is reflected in our TELUS Privacy Code, which governs the behavior of our employees with regard to the collection, use and disclosure of our clients' personal information. We updated our privacy code to reflect the federal privacy legislation that came into effect on January 1, 2001.</p>
+        <div id="jive-body">
 
-<p>We have also developed a <a href="/legal/privacy/brochure.html">TELUS Privacy Commitment</a> to explain why we collect personal information and how we use and protect this information.  &nbsp;In  2008, we updated our Privacy  Commitment to provide more detailed information about the purposes for which we  collect, use and disclose personal information.&nbsp;  A copy of our Commitment is provided to all of our  clients. &nbsp;You can also access it from  this Web site.&nbsp; The updates are as  follows:</p>
 
-  <ul>
-    <li>Under the heading <strong>“why we collect personal information”</strong>, we’ve noted that telephone  calls to or from our service representatives may be monitored or recorded for  quality assurance purposes.&nbsp;&nbsp; If you wish  an alternative to having your call recorded, please discuss this with your  service representative.</li><br><br>
-    <li>Under the heading <strong>“when do we disclose personal information?”</strong>, we’ve added two  examples.&nbsp; First, we’ve stated that we  may disclose personal information to meet legal or regulatory requirements,  such as under a court order or to a government institution if required or  authorized by law.&nbsp; Second, we’ve noted  that should we sell a part of our business or merge or amalgamate part or all  of our business with another entity, we may need to disclose client  information as part of the transaction.&nbsp;  This is normal business practice in any such transaction.&nbsp; Any such disclosure would be subject to  appropriate privacy and security safeguards.</li><br><br>
-    <li>Under the heading <strong>“how we protect your personal information”</strong>, we’ve noted that some  personal information may be stored and processed in Canada or another country.&nbsp; In either case, the information is protected  with appropriate security safeguards but may be available to government  agencies under applicable laws.&nbsp;&nbsp; For  example, our wireless business unit may provide clients with access to music  services that are hosted outside Canada.&nbsp; If you subscribe to those services, your cell  phone number may be securely stored in the application provider’s servers  outside Canada.&nbsp;&nbsp;&nbsp;</li>
-  </ul>
+            
+<!-- BEGIN community.ftl body section -->
 
-<p id="copyright">For more information about your privacy, call us at 1-800-567-0000 or <br> write us at  <a href="mailto:privacy@telus.com">privacy@telus.com</a>. <br> <br>
 
-Copyright © 2000-2008 TELUS Corporation. All rights reserved. </p>
+<!-- BEGIN header & intro  -->
+<!-- END header & intro -->
 
-</div>
-<!-- End Column 2 -->
+
+
+
+<div id="jive-body-announcements-container">
 
 </div>
 
-<!-- End Content -->
+    <script>
+            window._jive_images_enabled = true;
+    </script>
+
+
+
+
+
+    <link rel="stylesheet" type="text/css" href="/4.5.5/styles/tiny_mce3/plugins/inlinepopups/skins/clearlooks2/window.css">
+
+
+
+<script type="text/javascript">
+kjs.run(function() {
+kjs.load('/4.5.5/resources/scripts/gen/2ff8c47344fe11038c6576620c2f6c0e.js', [  ]);
+kjs.run(function() {
+    window.errorHandlerMessage = "An error occurred:";
+
+    window.editorErrorHandler = function(message, exception) {
+        // if the message is something other than a timeout, show the message plus the error code
+        if (message.indexOf('Timeout') == -1) {
+            $j('#dwr-error-text').text(errorHandlerMessage + ' Error Code: ' + message);
+            $j('#dwr-error-table').fadeIn();
+            setTimeout(function() {
+                $j('#dwr-error-table').fadeOut();
+            }, 10000);
+        }
+    };
+
+
+    
+    if(typeof(tinyMCE) != "undefined"){ // could be Safari 2, which dies with tinyMCE
+        tinyMCE.addI18n('en.jivemacros',{
+                    "unused.jive.key" : "nothing."
+        });
+    }
+    if(typeof(tinyMCE) != "undefined"){ // could be Safari 2, which dies with tinyMCE
+        tinyMCE.addI18n('en.jivemacros',{
+                    "unused.jive.key" : "nothing."
+        });
+    }
+    if(typeof(tinyMCE) != "undefined"){ // could be Safari 2, which dies with tinyMCE
+        tinyMCE.addI18n('en.jivemacros',{
+                    "unused.jive.key" : "nothing."
+        });
+    }
+    if(typeof(tinyMCE) != "undefined"){ // could be Safari 2, which dies with tinyMCE
+        tinyMCE.addI18n('en.jivemacros',{
+                    "unused.jive.key" : "nothing."
+        });
+    }
+    if(typeof(tinyMCE) != "undefined"){ // could be Safari 2, which dies with tinyMCE
+        tinyMCE.addI18n('en.jivemacros',{
+                    "unused.jive.key" : "nothing."
+        });
+    }
+
+
+        window.RawHTMLSaveFunction = function(element_id, html, body){
+            var text = $j('#wysiwygtext');
+            if (text.is(':not(:visible)')) {
+                return html;
+            }else{
+                return text.val();
+            }
+        }
+        jive.rte.multiRTE = new Array();
+
+        //Not used by RTEWrap, but we need this for backward compatibility; see CS-23883
+        window.refreshLinks = function() {
+            jive.rte.multiRTE.forEach(function(rteID) {
+                if ($j('#' + rteID + '_parent').length < 1) {
+                    // safari 2, text only
+                    $j('#' + rteID + '_toggle_html').hide();
+                    $j('#jivePreferredEditorModeLinkHREF').hide();
+                    return;
+                }
+
+                if(currentMode == 'rawhtml') {
+                    $j('#' + rteID + '_toggle_html').css('display', 'block');
+                }else{
+                    $j('#' + rteID + '_toggle_html').hide();
+                }
+
+                if (preferredMode == currentMode) {
+                    $j('#jivePreferredEditorModeLinkHREF').hide();
+                } else {
+                    $j('#jivePreferredEditorModeLinkHREF').css('display', 'block');
+                }
+            });
+        }
+
+    window.editor = new jive.ext.y.HashTable();
+
+
+       
+jive.rte.macros.push(new jive.rte.Macro("color","","TEXT", true, false, [], [{name: "0",value: ""},{name: "__default_attr",value: ""}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("size","","TEXT", true, false, [], [{name: "0",value: ""},{name: "__default_attr",value: ""}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("font","","TEXT", true, false, [], [{name: "0",value: ""},{name: "__default_attr",value: ""}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("toc","","IMAGE", true, true, [], [], true,false));
+jive.rte.macros.push(new jive.rte.Macro("code","","TEXT", false, true, [{ name: "sql", deleteAll: true, params: [{ name: "__default_attr", value :"sql"} ]},{ name: "html", deleteAll: true, params: [{ name: "__default_attr", value :"html"} ]},{ name: "xml", deleteAll: true, params: [{ name: "__default_attr", value :"xml"} ]},{ name: "java", deleteAll: true, params: [{ name: "__default_attr", value :"java"} ]},{ name: "plain", deleteAll: true, params: [{ name: "__default_attr", value :"plain"} ]}], [{name: "__default_attr",value: ["sql","html","xml","java","plain"]}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("noformat","","TEXT", true, false, [], [], true,false));
+jive.rte.macros.push(new jive.rte.Macro("thread","thread/","INLINE", true, false, [], [{name: "id",value: ""},{name: "0",value: ""},{name: "__default_attr",value: ""},{name: "title",value: ""}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("message","message/","INLINE", true, false, [], [{name: "id",value: ""},{name: "__default_attr",value: ""},{name: "title",value: ""}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("external-site","bookmarks/","INLINE", false, false, [], [{name: "id",value: ""},{name: "__default_attr",value: ""},{name: "title",value: ""}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("document","docs/","INLINE", true, false, [], [{name: "id",value: ""},{name: "__default_attr",value: ""},{name: "title",value: ""}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("microblog","status/","INLINE", true, false, [], [{name: "id",value: ""},{name: "__default_attr",value: ""},{name: "title",value: ""}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("polls","polls/","INLINE", true, false, [], [{name: "id",value: ""},{name: "__default_attr",value: ""},{name: "title",value: ""}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("blogpost","blogs/","INLINE", true, false, [], [{name: "id",value: ""},{name: "__default_attr",value: ""},{name: "title",value: ""}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("blog","blogs/","INLINE", true, false, [], [{name: "id",value: ""},{name: "name",value: ""},{name: "__default_attr",value: ""},{name: "title",value: ""}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("community","community/","INLINE", true, false, [], [{name: "id",value: ""},{name: "__default_attr",value: ""},{name: "title",value: ""}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("space","community/","INLINE", true, false, [], [{name: "id",value: ""},{name: "__default_attr",value: ""},{name: "title",value: ""}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("user","","INLINE", true, false, [], [{name: "id",value: ""},{name: "username",value: ""},{name: "__default_attr",value: ""},{name: "title",value: ""}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("project","project/","INLINE", true, false, [], [{name: "id",value: ""},{name: "__default_attr",value: ""},{name: "title",value: ""}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("task","view-task.jspa?task=","INLINE", true, false, [], [{name: "id",value: ""},{name: "0",value: ""},{name: "__default_attr",value: ""},{name: "title",value: ""}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("group","groups/","INLINE", true, false, [], [{name: "id",value: ""},{name: "__default_attr",value: ""},{name: "title",value: ""}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("quote","","TEXT", false, true, [], [{name: "title",value: ""},{name: "__default_attr",value: ""}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("vimeo","","IMAGE", false, false, [], [{name: "__default_attr",value: ""},{name: "width",value: ""},{name: "height",value: ""}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("veoh","","IMAGE", false, false, [], [{name: "__default_attr",value: ""},{name: "width",value: ""},{name: "height",value: ""}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("dailymotion","","IMAGE", false, false, [], [{name: "__default_attr",value: ""},{name: "width",value: ""},{name: "height",value: ""}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("google","","IMAGE", false, false, [], [{name: "__default_attr",value: ""},{name: "width",value: ""},{name: "height",value: ""}], true,false));
+jive.rte.macros.push(new jive.rte.Macro("youtube","","IMAGE", false, false, [], [{name: "__default_attr",value: ""},{name: "width",value: ""},{name: "height",value: ""}], true,false));
+
+
+
+}, [ '/4.5.5/resources/scripts/gen/2ff8c47344fe11038c6576620c2f6c0e.js' ], [ 'jive.rte' ]);
+}, [ 'jive.rte--required' ]);
+</script>
+    
+
+
+    <script type="text/html" id="rte-template">
+
+<div>
+    <div class="wysiwygtext_html_link" id="wysiwygtext_html_link" style="display:block">
+        <a href="javascript:;" class="toggle_html" style="display:none;">
+Show Full Editor        </a>
+        <a href="javascript:void(0);" class="jive-description toggle_preferred_mode" style="display:none;" id="jivePreferredEditorModeLinkHREF">
+Always use this editor        </a>
+    </div>
+    <textarea id="wysiwygtext" rows="10" class="jive-comment-textarea"><%= body %></textarea>
+    <textarea name="body" rows="10" style="display:none;" class="jive-comment-textarea"><%= body %></textarea>
+</div>
+
+    </script>
+
+
+
+
+    <div id="jive-body-main">
+        <div id="thread.watch.notify" class="jive-info-box" style="display:none"></div>
+
+
+
+        <div id="jive-widgets-panel-loading" style="display: none">
+            <p class="font-color-meta-light"><img src="/4.5.5/images/jive-image-loading.gif" alt="">Loading...</p>
+        </div>
+
+<script src="/gadgets/js/core:rpc?c=1&amp;debug=1"></script>
+<script type="text/javascript">
+    var widgetContainer = new jive.widgets.Container({
+        'widgetType': '3',
+        'renderWidgetAction': '/community/english/render-widget!execute.jspa'
+            ,
+            'container': '3773',
+            'containerType': '14'
+    });
+    $j(function() {
+        widgetContainer.renderAll();
+    });
+</script>
+<div id="jive-widget-container">
+    <div id="jive-widget-content" class="clearfix">
+<div id="jive-body-layout-tls">
+
+    <div class="jive-body-layout-l1">
+        <div id="jive-widget-container_1" class="jive-widget-container jive-widget-container-large">
+         <div id="jive-widgetframe_54901" class="jive-widget jive-box jive-widget-telusfirstlevelnavigationwidget jive-widget-formattedtext jive-widget-borderless ">
+    <div id="jive-widgetsize_54901" class="jive-widgetsize-large">
+        <div id="jive-widgetframe-header_54901" class="jive-widget-header jive-box-header   ">
+            <h4 class="jive-widget-handle">
+                <span id="jive-widgetframe-title_54901">
+                    TELUS First Level Navigation
+                </span>
+            </h4>
+        </div>
+        <div id="jive-widgetframe-loading_54901" class="jive-widget-body jive-widget-loading jive-box-body" style="display: none">
+            <div>
+                <strong>Loading...</strong>
+            </div>
+        </div>
+        <div id="jive-widgetframe-body_54901" class="jive-widget-body jive-box-body">
+
+<div class="content-large"><!-- BEGIN NAVIGATION -->
+
+<style type="text/css">
+	#t_nav {  background: url('/themes/about_telus/images/bg-nav2.png') no-repeat 0 -360px !important; }
+	#t_nav li.t_active a, #t_nav a:hover { background-image:url('/themes/about_telus/images/bg-nav2.png') !important; }
+</style>
+
+
+	
+	<div id="t_header" class="t_header2">
+			<!-- Level 1 Navigation -->
+			<div class="t_navigaton t_navigaton3">
+				<!-- nav -->
+				<ul id="t_nav">
+					<li><a title="Home" class="t_home-item" href="/community/english"><span>Home</span></a></li>
+								
+									<li>
+										<a class="t_about-item" title="About us" href="/community/english/about_us"><span><strong>About us</strong></span></a>
+									</li>
+								
+									<li>
+										<a class="t_communty-item" title="Community &amp; Corporate responsibility" href="/community/english/community_%26_corporate_responsibility"><span><strong>Community &amp; Corporate responsibility</strong></span></a>
+									</li>
+								
+									<li>
+										<a class="t_investor-item" title="Investor relations" href="/community/english/investor_relations"><span><strong>Investor relations</strong></span></a>
+									</li>
+								
+									<li>
+										<a class="t_careers-item" title="Careers" href="/community/english/careers"><span><strong>Careers</strong></span></a>
+									</li>
+								
+									<li>
+										<a class="t_news-item" title="News centre" href="/community/english/news_centre"><span><strong>News centre</strong></span></a>
+									</li>
+								
+									<li>
+										<a class="" title="TELUS sites" href="/community/english/telus_sites"><span><strong>TELUS sites</strong></span></a>
+									</li>
+								
+									<li>
+										<a class="" title="Legal" href="/community/english/legal"><span><strong>Legal</strong></span></a>
+									</li>
+								
+									<li class="t_active">
+										<a class="" title="Privacy" href="/community/english/privacy"><span><strong>Privacy</strong></span></a>
+									</li>
+								
+									<li>
+										<a class="" title="Security" href="/community/english/security"><span><strong>Security</strong></span></a>
+									</li>
+								
+									<li>
+										<a class="" title="Facebook" href="/community/english/facebook"><span><strong>Facebook</strong></span></a>
+									</li>
+								
+									<li>
+										<a class="" title="Twitter contest" href="/community/english/twittercontest"><span><strong>Twitter contest</strong></span></a>
+									</li>
+								
+									<li>
+										<a class="" title="Copyright" href="/community/english/copyright"><span><strong>Copyright</strong></span></a>
+									</li>
+								
+									<li>
+										<a class="" title="stuffbetterfast" href="/community/english/stuffbetterfast"><span><strong>stuffbetterfast</strong></span></a>
+									</li>
+								
+									<li>
+										<a class="" title="Area Codes" href="/community/english/area_codes"><span><strong>Area Codes</strong></span></a>
+									</li>
+				</ul>
+				<a class="t_hidden" href="#wrapper" tabindex="8">skip to page content</a>
+			</div>
+			
+	</div>
+
+<!-- 2  -->
+
+
+<!-- END NAVIGATION --></div>
+        </div>
+    </div>
+</div>
+<div id="jive-widgetframe_54902" class="jive-widget jive-box jive-widget-telussecondlevelnavigationwidget jive-widget-formattedtext jive-widget-borderless ">
+    <div id="jive-widgetsize_54902" class="jive-widgetsize-large">
+        <div id="jive-widgetframe-header_54902" class="jive-widget-header jive-box-header   ">
+            <h4 class="jive-widget-handle">
+                <span id="jive-widgetframe-title_54902">
+                    TELUS Second Level Navigation
+                </span>
+            </h4>
+        </div>
+        <div id="jive-widgetframe-loading_54902" class="jive-widget-body jive-widget-loading jive-box-body" style="display: none">
+            <div>
+                <strong>Loading...</strong>
+            </div>
+        </div>
+        <div id="jive-widgetframe-body_54902" class="jive-widget-body jive-box-body">
+
+<div class="content-large"><!-- BEGIN NAVIGATION -->
+
+<style type="text/css">
+	#t_nav {  background: url('/themes/about_telus/images/bg-nav2.png') no-repeat 0 -360px !important; }
+	#t_nav li.t_active a, #t_nav a:hover { background-image:url('/themes/about_telus/images/bg-nav2.png') !important; }
+</style>
+
+
+	
+	<div id="t_header" class="t_header2">
+			<ul class="t_addnav">
+								<li>
+								<a title="Privacy commitment" href="/community/english/privacy/privacy_commitment">Privacy commitment</a>
+								</li>	
+								<li>
+								<a title="FAQ" href="/community/english/privacy/faq">FAQ</a>
+								</li>	
+			</ul>
+	</div>
+
+<!-- 2  -->
+
+
+<!-- END NAVIGATION --></div>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+
+    <div class="jive-body-layout-l2">
+         <div id="jive-widget-container_2" class="jive-widget-container jive-widget-container-large">
+<div id="jive-widgetframe_54903" class="jive-widget jive-box jive-widget-marqueewidget jive-widget-borderless ">
+    <div id="jive-widgetsize_54903" class="jive-widgetsize-large">
+        <div id="jive-widgetframe-header_54903" class="jive-widget-header jive-box-header   ">
+            <h4 class="jive-widget-handle">
+                <span id="jive-widgetframe-title_54903">
+                    Marquee Widget
+                </span>
+            </h4>
+        </div>
+        <div id="jive-widgetframe-loading_54903" class="jive-widget-body jive-widget-loading jive-box-body" style="display: none">
+            <div>
+                <strong>Loading...</strong>
+            </div>
+        </div>
+        <div id="jive-widgetframe-body_54903" class="jive-widget-body jive-box-body">
+
+<div class="content-large"><div class="t_marquee-block t_marquee-block2">
+	<div class="t_t">
+		<div class="t_b">
+			<div class="t_image-holder">
+				<img src="/themes/about_telus/images/Other/Privacy/privacy-marquee.jpg" alt="image" class="t_image">
+			</div>
+			<div class="t_content">
+				<div class="t_heading">
+					<h2>Your privacy is<br> important to us</h2>
+					<p></p>
+				</div>
+			</div>
+				<div class="t_button-group">
+					<ul>
+						<li class="t_print"><a href="JavaScript:window.print();">Print</a></li>
+							<li class="t_share">
+								<!--<a class="addthis_button_compact" href="">Share </a>-->
+								<!-- AddThis Button BEGIN -->
+								<a class="addthis_button_compact">Share <img src="/themes/about_telus/images/ico-action-share.gif"></a>
+								<script type="text/javascript">
+									var addthis_config = {
+										"data_track_clickback":true,
+										ui_language: "en",
+										ui_click:true
+									};
+								</script>
+								<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4daf4aa96025e6fa"></script>
+								<!-- AddThis Button END -->
+							</li>
+					</ul>
+					<span class="t_r"></span>
+				</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+</div>
+        </div>
+    </div>
+</div>
+<div id="jive-widgetframe_54904" class="jive-widget jive-box jive-widget-driverwidget jive-widget-borderless ">
+    <div id="jive-widgetsize_54904" class="jive-widgetsize-large">
+        <div id="jive-widgetframe-header_54904" class="jive-widget-header jive-box-header   ">
+            <h4 class="jive-widget-handle">
+                <span id="jive-widgetframe-title_54904">
+                    Driver Widget
+                </span>
+            </h4>
+        </div>
+        <div id="jive-widgetframe-loading_54904" class="jive-widget-body jive-widget-loading jive-box-body" style="display: none">
+            <div>
+                <strong>Loading...</strong>
+            </div>
+        </div>
+        <div id="jive-widgetframe-body_54904" class="jive-widget-body jive-box-body">
+
+<div class="content-large"><div class="t_driver-box">
+	<div class="t_t">
+		<div class="t_b">
+			<div class="t_col">
+				<div class="t_img-decor-holder">
+					<img src="/themes/about_telus/images/ill-driver-decor5.jpg" alt="image" class="t_image-decor">
+				</div>
+				<div class="t_content">
+					<h3>Privacy facts</h3>
+					<p><a href="/servlet/JiveServlet/downloadBody/1642-102-1-1628/Privacy%20Facts.pdf">A snapshot of how TELUS protects<br> it's customers' privacy online.</a> <img src="/themes/about_telus/images/arrow1.gif" width="4" height="8" alt="image"></p>
+				</div>
+			</div>
+			<div class="t_col">
+				<div class="t_img-decor-holder">
+					<img src="/themes/about_telus/images/ill-driver-decor4.jpg" alt="image" class="image-decor">
+				</div>
+				<div class="t_content">
+					<h3>Our Privacy Code</h3>
+					<p><a href="/servlet/JiveServlet/downloadBody/2461-102-1-2451/Privacy%20Code_EN%20updated%20Jun%202011.pdf">Learn more about TELUS' comprehensive privacy policy.</a> <img src="/themes/about_telus/images/arrow1.gif" width="4" height="8" alt="image"></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div></div>
+        </div>
+    </div>
+</div>
+<div id="jive-widgetframe_54905" class="jive-widget jive-box jive-widget-formattedtextwidget jive-widget-formattedtext jive-widget-borderless ">
+    <div id="jive-widgetsize_54905" class="jive-widgetsize-large">
+        <div id="jive-widgetframe-header_54905" class="jive-widget-header jive-box-header   ">
+            <h4 class="jive-widget-handle">
+                <span id="jive-widgetframe-title_54905">
+                    Formatted Text
+                </span>
+            </h4>
+        </div>
+        <div id="jive-widgetframe-loading_54905" class="jive-widget-body jive-widget-loading jive-box-body" style="display: none">
+            <div>
+                <strong>Loading...</strong>
+            </div>
+        </div>
+        <div id="jive-widgetframe-body_54905" class="jive-widget-body jive-box-body">
+
+<div class="content-large"><div class="jive-widget-formatted-body"><div class="jive-rendered-content"><p>Although our ability to provide service requires that we collect personal information about our customers, we take measures to ensure the privacy and confidentiality of that information.</p><p style="min-height: 8pt; height: 8pt; padding: 0px;">&nbsp;</p><p>Our commitment to safeguarding your privacy is reflected in our <a class="" href="http://about.telus.com/servlet/JiveServlet/downloadBody/2461-102-1-2451/Privacy%20Code_EN%20updated%20Jun%202011.pdf">TELUS Privacy Code</a>, which governs the behavior of our employees with regard to the collection, use and disclosure of our customers' personal information. We updated our privacy code to reflect the federal privacy legislation that came into effect on January 1, 2001.</p><p style="min-height: 8pt; height: 8pt; padding: 0px;">&nbsp;</p><p>We have also developed a TELUS Privacy Commitment to explain why we collect personal information and how we use and protect this information. In January 2008, we updated our <a class="jive-link-community-small" href="http://about.telus.com/community/english/privacy/privacy_commitment">Privacy Commitment</a> to provide more detailed information about the purposes for which we collect, use and disclose personal information.&nbsp; A copy of our Commitment is provided to all of our customers. The updates are as follows:</p><p style="min-height: 8pt; height: 8pt; padding: 0px;">&nbsp;</p><ul><li>Under the heading <strong>Why we collect personal information</strong>, we’ve noted that telephone calls to or from our service representatives may be monitored or recorded for quality assurance purposes. If you wish an alternative to having your call recorded, please discuss this with your service representative.</li><li>Under the heading <strong>When do we disclose personal information?</strong>, we’ve added two examples. First, we’ve stated that we may disclose personal information to meet legal or regulatory requirements, such as under a court order or to a government institution if required or authorized by law. Second, we’ve noted that should we sell a part of our business or merge or amalgamate part or all of our business with another entity, we may need to disclose customer information as part of the transaction. This is normal business practice in any such transaction. Any such disclosure would be subject to appropriate privacy and security safeguards.</li><li>Under the heading <strong>How we protect your personal information?</strong>, we’ve noted that some personal information may be stored and processed in Canada or another country. In either case, the information is protected with appropriate security safeguards but may be available to government agencies under applicable laws. For example, our wireless business unit may provide customers with access to music services that are hosted outside Canada. If you subscribe to those services, your cell phone number may be securely stored in the application provider’s servers outside Canada.</li></ul><p style="min-height: 8pt; height: 8pt; padding: 0px;">&nbsp;</p><p>For more information about your privacy, call us at 1-800-567-0000 or write us at <a class="jive-link-email-small" href="mailto:privacy@telus.com">privacy@telus.com</a>.</p></div></div></div>
+        </div>
+    </div>
+</div>
+        </div>
+     </div>
+
+     <div class="jive-body-layout-s1">
+         <div id="jive-widget-container_3" class="jive-widget-container jive-widget-container-small">
+<div id="jive-widgetframe_54906" class="jive-widget jive-box jive-widget-relatedinfowidget jive-widget-borderless ">
+    <div id="jive-widgetsize_54906" class="jive-widgetsize-small">
+        <div id="jive-widgetframe-header_54906" class="jive-widget-header jive-box-header   ">
+            <h4 class="jive-widget-handle">
+                <span id="jive-widgetframe-title_54906">
+                    Related Info Widget
+                </span>
+            </h4>
+        </div>
+        <div id="jive-widgetframe-loading_54906" class="jive-widget-body jive-widget-loading jive-box-body" style="display: none">
+            <div>
+                <strong>Loading...</strong>
+            </div>
+        </div>
+        <div id="jive-widgetframe-body_54906" class="jive-widget-body jive-box-body">
+
+<div class="content-small"><div class="t_widget-box">
+	<div class="t_t">
+		<div class="t_b">
+						
+			<h3>Related info:</h3>
+			<ul class="t_related-list">
+				<li><a href="/community/english/legal">Legal <img src="/themes/about_telus/images/arrow1.gif" width="4" height="8" alt=">"></a></li>
+				<li><a href="/community/english/security">Security <img src="/themes/about_telus/images/arrow1.gif" width="4" height="8" alt=">"></a></li>
+				
+				
+				
+			</ul>
+		</div>
+	</div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+        </div>
+     </div>
+    
+</div>
+    </div>
+</div>
+
+    </div>
+
+<!-- END community.ftl body section -->
+
+
+        </div>
+
+
+
+
+<!-- BEGIN BREADCRUMBS -->
+<div>&nbsp;
+
+
+	<div class="t_breadcrumbs-row">
+		<div class="t_breadcrumbs">
+			<strong class="t_title">You are here:</strong>
+			<ul>
+				<li><a href="/community/english">About TELUS</a></li>
+                <li><a class="jive-breadcrumb-last" href="/community/english/privacy">
+            Privacy</a></li>
+
+
+			</ul>
+		</div>
+	</div>
+</div>
+<!-- END BREADCRUMBS -->
+
+<!-- START FOOTER -->
+
+
+
+
+<div id="t_footer" class="t_footer2">
+	<div class="t_upper">
+		<div class="t_share-nav">
+			<div class="t_holder">
+				<strong><span><a href="/community/english/talk_with_telus">Talk with TELUS</a></span></strong>
+				<ul>
+					<li class="t_facebook"><a href="http://www.facebook.com/telus">Facebook</a></li>
+					<li class="t_twitter"><a href="http://www.twitter.com/telus">Twitter</a></li>
+					<li class="t_youtube"><a href="http://www.youtube.com/telus">YouTube</a></li>
+					<li class="t_linkedin"><a href="http://www.linkedin.com/company/telus">LinkedIn</a></li>
+				</ul>
+			</div>
+		</div>
+		<ul class="t_nav">
+			<li><a href="http://www.telus.com">TELUS.com</a></li>
+			<li><a href="/community/english/telus_sites">TELUS sites</a></li>
+			<li><a href="/community/english/careers">Careers</a></li>
+			<li><a href="/community/english/legal">Legal</a></li>
+			<li><a href="/community/english/privacy">Privacy</a></li>
+			<li><a href="http://www.telus.com/contactus">Contact us</a></li>
+		</ul>
+	</div>
+	<div class="t_copyright">
+		<ul>
+			<li class="languageSwitcherBottom"><strong class="t_title">Language</strong> <a id="t_lang-switch-link-bottom" class="t_lang-change" href="https://web.archive.org/web/20111230042043id_/http://about.telus.com/community/french/privacy">English</a></li>
+			<li>© 2011 TELUS Communications Company</li>
+		</ul>
+	</div>
+</div>
+<!-- END FOOTER -->
+
+
+    </div> 
+
+
+<div id="jiveTT-note-user" class="jive-tooltip2 notedefault snp-mouseoffset">
+	<div class="jive-tooltip2-mid j-mini-modal">
+		<div class="jive-tooltip2-mid-padding j-modal-content clearfix" id="jive-note-user-body"></div>
+	</div>
+<!--[if lt IE 7]><iframe src="javascript:false;" class="ieselectfix"></iframe><![endif]--></div>
+
+<div id="jiveTT-note-video" class="jive-tooltip2 notedefault snp-mouseoffset">
+	<div class="jive-tooltip2-mid j-mini-modal">
+		<div class="jive-tooltip2-mid-padding j-modal-content clearfix" id="jive-note-video-body"></div>
+	</div>
+<!--[if lt IE 7]><iframe src="javascript:false;" class="ieselectfix"></iframe><![endif]--></div>
+
+<div id="jivecontainerTT-note-container" class="jive-tooltip2 notedefault snp-mouseoffset">
+	<div class="jive-tooltip2-mid j-mini-modal">
+		<div class="jive-tooltip2-mid-padding j-modal-content clearfix" id="jive-note-container-body"></div>
+	</div>
+<!--[if lt IE 7]><iframe src="javascript:false;" class="ieselectfix"></iframe><![endif]--></div>
+
+
+
+
+
+
+
+
 
 
 
