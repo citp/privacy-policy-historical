@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotschedules.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521092256id_/http%3A//www.hotschedules.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotschedules.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230025211id_/http%3A//www.hotschedules.com/privacy) for the most accurate reproduction.*
 
-# HotSchedules: Privacy Statement
+# Privacy | HotSchedules
 
 ### HotSchedules Privacy Statement
 
@@ -40,7 +40,7 @@ _Disclosure for other reasons._ We may disclose personal information if required
 
 **Security** HotSchedules is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access that are located in facilities to which access is limited. For sites to which you login, it is your responsibility to ensure the security of your password and not to reveal this information to others. 
 
-**Reviewing your personal information** In some cases, you can review and correct personal information provided through our websites by going to the page on which you provided the information. In all cases, you can make a request to review and correct your personal information collected via our websites or ask HotSchedules to stop using it by sending an email to support@hotschedules.com . We may take steps to verify your identity before providing you access to your personal information. You can help us to maintain the accuracy of your information by notifying us of any change to your mailing address, phone number, or e-mail address.
+**Reviewing your personal information** In some cases, you can review and correct personal information provided through our websites by going to the page on which you provided the information. In all cases, you can make a request to review and correct your personal information collected via our websites or ask HotSchedules to stop using it by sending an email to [support@hotschedules.com](mailto:support@hotschedules.com) . We may take steps to verify your identity before providing you access to your personal information. You can help us to maintain the accuracy of your information by notifying us of any change to your mailing address, phone number, or e-mail address.
 
 **Children's information** HotSchedules does not knowingly collect information from children and does not target its websites that collect information to children.
 
