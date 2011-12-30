@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mathsisfun.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628175249id_/http%3A//www.mathsisfun.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathsisfun.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230205733id_/http%3A//www.mathsisfun.com/Privacy.htm) for the most accurate reproduction.*
 
 # Maths is Fun - Privacy Statement
 
   
 
 
-Also Read: [Internet Safety Guide](https://web.archive.org/web/20110628175249id_/http%3A//www.mathsisfun.com/internet-safety.html)
+Also Read: [Internet Safety Guide](https://web.archive.org/web/20111230205733id_/http%3A//www.mathsisfun.com/internet-safety.html)
 
 _This privacy statement discloses the privacy practices for mathsisfun.com, and advises you of what information may be collected via this website and what will happen to it._
 
@@ -20,7 +20,7 @@ _This privacy statement discloses the privacy practices for mathsisfun.com, and 
 
 
   
-**_If you feel that we are not abiding by our privacy policy, please[contact us](https://web.archive.org/web/20110628175249id_/http%3A//www.mathsisfun.com/contact.php)_**
+**_If you feel that we are not abiding by our privacy policy, please[contact us](https://web.archive.org/web/20111230205733id_/http%3A//www.mathsisfun.com/contact.php)_**
 
 ##  Information Collection and Use 
 
