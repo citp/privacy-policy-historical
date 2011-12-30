@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aphrodite1994.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222121708id_/http%3A//www.aphrodite1994.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aphrodite1994.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230070901id_/http%3A//www.aphrodite1994.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Aphrodite
+# Aphrodite Clothing Privacy Policy - Mens Designer Clothes - Aphrodite
 
 ## Privacy Statement
 
