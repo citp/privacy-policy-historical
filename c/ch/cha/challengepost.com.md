@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the challengepost.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601195800id_/http%3A//challengepost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the challengepost.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230183612id_/http%3A//challengepost.com/privacy) for the most accurate reproduction.*
 
-# ChallengePost.com
+# Privacy Policy - ChallengePost.com
 
 Effective March 24, 2011
 
