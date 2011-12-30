@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universetoday.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608004537id_/http%3A//www.universetoday.com/28582/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universetoday.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230024442id_/http%3A//www.universetoday.com/28582/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,3 +22,5 @@ Universe Today uses Google as a third-party vendor to serve advertisements on th
 
 **Questions and Comments**  
 If you have any questions or comments about this privacy policy, please don’t hesitate to send me an email at info@universetoday.com
+
+Fraser is the publisher of [Universe Today](http://www.universetoday.com/). He's also the co-host of [Astronomy Cast](http://www.astronomycast.com/) with Dr. Pamela Gay. He's the forum co-administrator of the [Bad Astronomy/Universe Today](http://www.bautforum.com/) forum with [Bad Astronomer Phil Plait](http://blogs.discovermagazine.com/badastronomy/).
