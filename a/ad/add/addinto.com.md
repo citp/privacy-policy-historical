@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addinto.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630221839id_/http%3A//www.addinto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addinto.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230063806id_/http%3A//addinto.com/privacy) for the most accurate reproduction.*
 
 # AddInto - Privacy Policy
 
