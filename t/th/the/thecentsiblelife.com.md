@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecentsiblelife.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522201105id_/http%3A//www.thecentsiblelife.com/ads-and-ftc-disclosure/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecentsiblelife.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230185506id_/http%3A//www.thecentsiblelife.com/disclosure/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — the ¢entsible life
+# Privacy Policy — Centsible Life
 
 **the ¢entsible life** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
