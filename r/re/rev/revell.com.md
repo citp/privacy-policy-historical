@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the revell.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618030533id_/http%3A//www.revell.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revell.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230022534id_/http%3A//www.revell.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Revell Privacy Policy
 
   | 
 
-[Privacy Policy](https://web.archive.org/web/20110618030533id_/http%3A//www.revell.com/privacy-policy.html)
+[Privacy Policy](https://web.archive.org/web/20111230022534id_/http%3A//www.revell.com/privacy-policy.html)
 
 Revell Inc., has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for www.Revell.com. The Revell Inc. web site is a dynamic site and changes all the time. Some information given in this section is included for future intended use. By visiting this portion of our site, you can expect to be notified of:
 
