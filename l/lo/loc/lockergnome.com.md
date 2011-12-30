@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410230731id_/http%3A//www.lockergnome.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230033011id_/http%3A//www.lockergnome.com/privacy) for the most accurate reproduction.*
 
-# About Us » Privacy Policy
-
-##  Privacy Policy  
-
+# Privacy Policy ~ LockerGnome
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
@@ -57,4 +54,4 @@ We are committed to conducting our business in accordance with these principles 
 
 Lockergnome Inc.  
 1420 NW Gilman Blvd #2543  
-Issaquah WA 98027
+Issaquah, WA 98027
