@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aderous.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505111640id_/http%3A//aderous.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aderous.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230183344id_/http%3A//aderous.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Aderous Classifieds
 
