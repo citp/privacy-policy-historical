@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filmofilia.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601170107id_/http%3A//www.filmofilia.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmofilia.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230095010id_/http%3A//www.filmofilia.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FilmoFilia
+# Privacy Policy, page /
 
 ## Ownership of Information
 
@@ -43,11 +43,8 @@ If you have any questions regarding our privacy policy, please contact us: **fil
 * * *
 
 ****[](http://creativecommons.org/licenses/by-nc-nd/3.0/)  
-Filmofilia – movie blog by [FilmoFilia.com](https://web.archive.org/web/20110601170107id_/http%3A//www.filmofilia.com/about/www.filmofilia.com) is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/).  
-Based on a work at [www.filmofilia.com](https://web.archive.org/web/20110601170107id_/http%3A//www.filmofilia.com/about/www.filmofilia.com).  
+Filmofilia – movie blog by FilmoFilia.com is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/).  
+Based on a work at www.filmofilia.com.  
 Permissions beyond the scope of this license may be available at <http://www.filmofilia.com/about/privacy-policy/>.
 
 * * *
-
-  
-
