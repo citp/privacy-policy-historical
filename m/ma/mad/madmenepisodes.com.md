@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the madmenepisodes.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501135326id_/http%3A//www.madmenepisodes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madmenepisodes.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230170743id_/http%3A//www.madmenepisodes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watch Mad Men Episodes Online for Free
 
 ## Privacy Policy
+
+  
+[](http://www.graboid.com/affiliates/scripts/click.php?a_aid=download&a_bid=fdf68426&chan=madmen_exe)   
+
 
 **Acceptance of Terms.**  
 Please read this policy carefully since by visiting this website (“Website”) and/or sharing information with us, you agree to be bound by this Privacy Policy. The Privacy Policy may be revised or updated at any time by us.
@@ -27,3 +31,7 @@ Please note that the above link for opt-out Cookies is only applicable to ValueC
 ValueClick Media also offers “opt-out Cookies” to block the placement of future ValueClick Media Cookies on your system for 10 years from the time you opted out. If you have multiple internet browsers or users on the same computer, you will need to perform the opt-out operation for each browser and/or user. If you or your privacy software deletes the opt-out Cookies from your computer, you will need to repeat the process.
 
 We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “Behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit <http://www.valueclickmedia.com/member_privacy.shtml>
+
+  
+[](http://www.graboid.com/affiliates/scripts/click.php?a_aid=download&a_bid=fdf68426&chan=madmen_exe)   
+
