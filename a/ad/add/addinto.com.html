@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the addinto.com privacy policy that was archived on 2011-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110630221839id_/http%3A//www.addinto.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the addinto.com privacy policy that was archived on 2011-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111230063806id_/http%3A//addinto.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>AddInto - Privacy Policy</title>
@@ -85,9 +85,9 @@ This Privacy Policy summarizes how AddInto.com handles the information collected
 				<div id="tw_iframe" class="social_iframe"></div>
 				<div id="po_iframe" class="social_iframe"></div>
 				<div id="fb_iframe" class="social_iframe"></div>
-				<a href="http://twitter.com/AddInto" target="_blank"><img src="/imgs/twitter20.png" alt=""></a>
-				<a href="javascript:void(0);"><img src="/imgs/plusone20.png" alt=""></a>
-				<a href="javascript:void(0);"><img src="/imgs/facebook20.png" alt=""></a>
+				<a href="http://twitter.com/AddInto" target="_blank"><img src="/imgs/twitter20.png" alt="Twitter"></a>
+				<a href="javascript:void(0);"><img src="/imgs/plusone20.png" alt="Google +1"></a>
+				<a href="javascript:void(0);"><img src="/imgs/facebook20.png" alt="Facebook like"></a>
 			</div>
 			<div id="tw_follow" style="position:absolute; bottom:0; padding-left:70px; margin-bottom:-5px;"></div>
 			
@@ -132,7 +132,9 @@ $(document).ready(function() {
 		});
 		if($('#po_iframe').css('display') == 'none') {
 			if($('#po_iframe').html() == '') {
+				
 				$.getScript('https://apis.google.com/js/plusone.js', function() {
+					window.___gcfg = {lang: 'en'};
 					$('#po_iframe').html('<g:plusone size="tall"></g:plusone>').hide().delay(600).fadeIn(300);
 					gapi.plusone.go();
 				});
