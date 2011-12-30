@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the jpopasia.com privacy policy that was archived on 2011-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110615171300id_/http%3A//www.jpopasia.com/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jpopasia.com privacy policy that was archived on 2011-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111230055433id_/http%3A//www.jpopasia.com/static/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>JpopAsia - breaking asian celebrity news</title>
+<title>JpopAsia - the online asian media resource</title><link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.jpopasia.com/rss/videos.xml">
 <link href="http://www.jpopasia.com/inc/css/smoothness/jquery-ui-1.7.1.custom.css" type="text/css" rel="stylesheet" media="screen, projection">
-<link href="http://d3rufoqhb6ap02.cloudfront.net/core-3.41.css" type="text/css" rel="stylesheet" media="screen, projection">
+<link href="http://d3rufoqhb6ap02.cloudfront.net/core-3.57.css" type="text/css" rel="stylesheet" media="screen, projection">
 <!--[if IE 6]>
 <link rel="stylesheet" href="/inc/css/ie6.css" type="text/css" media="screen, projection" />
 <![endif]-->
@@ -20,15 +20,15 @@
 <script language="javascript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js"></script>
 <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 
-	<script type="text/javascript" src="http://d3rufoqhb6ap02.cloudfront.net/core-3.2.7.min.js"></script>
+	<script type="text/javascript" src="http://d3rufoqhb6ap02.cloudfront.net/core-3.3.3.min.js"></script>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="en-us">
 <meta name="revisit-after" content="1">
 <meta name="robots" content="all">
 <meta name="author" content="jpopasia">
-<meta name="keywords" lang="en" content="jpop, kpop, jrock, indopop, anime, breaking news, music, asia, charts, community, korean, japanese, chinese, entertainment">
-<meta name="description" lang="en" content="Breaking Asian celebrity news + largest online resource for Asian music! J-pop, K-pop, J-rock, C-pop &amp; Anime!">
+<meta name="keywords" lang="en" content="lyrics, videos, news, jpop, kpop, jrock, indopop, anime, breaking news, music, asia, charts, community, korean, japanese, chinese, entertainment">
+<meta name="description" lang="en" content="Largest online resource for Asian music, news, lyrics, videos, community! J-pop, K-pop, J-rock, C-pop &amp; Anime!">
 <link rel="shortcut icon" href="http://cdn.jpopasia.com/favicon2.ico">
 <meta name="google-site-verification" content="yA6PSdCTGk0zIZoZiO_JKeIXS3zrJZjQdB1NtctvVCc">
 
@@ -86,16 +86,13 @@ $(document).ready(function(){
 		var left			= offset.left + elementWidth + 30;
 		var top				= offset.top - 2;
 		/*$('#ad-header-728').hide();*/
-		$('#footerPlaceholder').after('<div style="position:absolute; display:block; z-index:1000; top:'+top+'px; left:'+left+'px;"><div class="widget login border-round"><div class="pointer up right"></div><div class="close hand"></div><div class="content"><form id="login" class="embedLogin">E-mail address:<br /><input class="pretty" type="text" name="emailLogin" /><br />Password:<br /><input class="pretty" type="password" name="passwordLogin" /><br />Remember me <input type="checkbox" name="rememberLogin" /><br /><br /><input class="small button green" type="submit" value="Submit" /></form></div></div></div>');
+		$('#footerPlaceholder').after('<div style="position:absolute; display:block; z-index:1000; top:'+top+'px; left:'+left+'px;"><div class="widget login border-round"><div class="pointer up right"></div><div class="close hand"></div><div class="content"><form id="login" class="embedLogin">E-mail address:<br /><input class="pretty" type="text" name="emailLogin" /><br />Password:<br /><input class="pretty" type="password" name="passwordLogin" /><br />Remember me <input type="checkbox" name="rememberLogin" /><br /><br /><div id="globalLoginSubmit" class="small hand button green">Submit</div></form></div></div></div>');
 		$('.widget.login .close').click(function(){ $('.widget.login').remove() });
-		// hide when clicked outside area
-		$('body').click(function() { $('.widget.login').remove(); });
-		$('.widget.login .close, .widget.login').click(function(event){ event.stopPropagation(); });	
 		// submit login
-		$('form#login').submit(function(){
-			$('#login [type=submit]').after(loading).addClass('black').removeClass('green');
+		$('#globalLoginSubmit').live('click', function(){
+			//$(this).after(loading).addClass('black').removeClass('green');
+			$(this).after(loading).attr('disabled', '').removeClass('black').addClass('green').removeClass('disabled');
 			embedLogin();
-			return false;
 		});
 		return false;
 	});
@@ -132,6 +129,18 @@ $(document).ready(function(){
 	$('.poptip-l').poptip({ 'delay':0, 'maxWidth':'350px', 'fadeIn':0, 'fadeOut':0 });
 	
 	});
+
+function blockError()
+{
+	return true;
+}
+window.onerror = blockError;
+
+// pop-up comments and message
+function chat() 
+{  	
+	var direc = 'http://www.jpopasia.com/chat/chatJPA/';	window.open(direc,'chat','fullscreen=no,toolbar=no,status=no,menubar=no,scrollbars=yes,resizable=no,directories=no,location=no,width=950,height=620,left=0,top=100,screenX=0,screenY=100');return false;   	 	 
+}
 </script>
 
 </head>
@@ -169,118 +178,39 @@ $(document).ready(function(){
 		<li id="charts" class="navigation small"><a href="/charts/">Charts</a></li>
 		<li id="celebrities" class="navigation large"><a href="/celebrities/">Celebrities</a></li>
 		<li id="community" class="navigation large"><a href="/community/">Community</a></li>
+		<li id="market" class="navigation large"><a href="/market/">Market</a></li>
 		<li id="concerts" class="navigation medium"><a href="/concert-event/">Concerts</a></li>
-		<li id="chat" class="navigation small"><a href="/chat/">Chat</a><div class="chatballoon">7</div></li>
+		<li id="chat" class="navigation small"><a href="javascript:chat();void(0);" onclick="return confirm(\'Do not spam or insult others in the chat. Be respectful to eachother. All messages are logged and we have zero tolerance for chat misbehaviour (site wide bans and termination of your account without warnings). Forum rules apply to our chat. Entering the chat is FREE! Do you want to enter the JPA chat?\')">Chat</a><div class="chatballoon">5</div></li>
 				
 				<li id="fblike">
-			<iframe scrolling="no" frameborder="0" src="http://www.facebook.com/plugins/like.php?href=http://www.facebook.com/jpopasia&amp;locale=en_US&amp;layout=button_count&amp;show_faces=false&amp;width=250&amp;action=like&amp;colorscheme=light&amp;height=21" style="border:none; overflow:hidden; width:250px; position: absolute; top: 106px; left: 552px; height:21px; background-color:#3D4758;" allowtransparency="true"></iframe>
+			<iframe scrolling="no" frameborder="0" src="http://www.facebook.com/plugins/like.php?href=http://www.facebook.com/jpopasia&amp;locale=en_US&amp;layout=button_count&amp;show_faces=false&amp;width=120&amp;action=like&amp;colorscheme=light&amp;height=21" style="border:none; overflow:hidden; width:120px; position: absolute; top: 106px; left: 630px; height:21px; background-color:#3D4758;" allowtransparency="true"></iframe>
 		</li>
 				
 		<li id="nav-search"><form action="/search/" method="GET"><input id="globalsearch" type="text" name="q" value="search"></form><div id="nav-search-loading" class="hidden"><img src="/img/gen/spinner-s.gif" title="loading"></div></li>
 
+
+
+
+
+
+
 		<li id="nav-promo1">
-			<ul id="fade1">
-								
-				<li><a href="http://twitter.com/jpopasia/"><img src="http://cdn.jpopasia.com/jpaPromo428.gif" alt="JpopAsia on twitter" title="JpopAsia on twitter"></a></li>
-				
-				<!--<li><a href="http://www.jpopasia.com/awards/"><img src="http://cdn.jpopasia.com/jpaPromo417.png" alt="JpopAsia International Music Awards 2010" title="JpopAsia International Music Awards 2010" /></a></li>-->
-				<li>
-					<div class="mask" style="background-color:#111111; width:260px; height:84px;"><iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fjpopasia&amp;width=260&amp;colorscheme=dark&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:260px; height:62px;" allowtransparency="true"></iframe>
-						<div class="news-sticky-titlebg white" style="width:500px; padding: 3px 3px 3px 8px; top: 59px;">
-							<h2 class="news-sticky-title" style="font-size:11px; font-weight:bold;">Breaking Asian news on your FB? Like us!</h2>
-						</div>
-					</div>
-				
-				</li>
-				
-				<li>
-					<div class="mask" style="width:260px; height:84px;">		
-						<div class="mask-visible">
-							<a href="http://www.jpopasia.com/celebrity/michi/videos/one::13996.html">
-								<img src="http://cdn.jpopasia.com/jpaPromo441.jpg" alt="ONE by MiChi" title="ONE by MiChi" style="width:260px;">
-							
-								
-								<div class="news-sticky-titlebg white" style="width:500px; padding: 3px 3px 3px 8px; top: 59px;">
-									<h2 class="news-sticky-title" style="font-size:11px; font-weight:bold;">ONE by MiChi</h2>
-								</div>
+										<ul id="fade1">
+											<a href="/awards/"><img src="http://d3rufoqhb6ap02.cloudfront.net/jpaPromo488.jpg" alt="JpopAsia International Music Awards 2011" title="JpopAsia International Music Awards 2011"></a>
+										</ul>
+									</li>
+									
+									<li id="nav-promo2">
+										<ul id="fade2">
+											<a href="/kug/"><img src="http://d3rufoqhb6ap02.cloudfront.net/jpaPromo490.jpg" alt="Kohaku Uta Gassen 2011" title="Kohaku Uta Gassen 2011"></a>
+										</ul>
+									</li>
 
-							</a>
-						</div>
-					</div>
-				</li>
-				
-							
-				
-				<!--<li><a href="http://www.jpopasia.com/news/featured-miyavi-on-jpopasia::5738.html"><img src="http://cdn.jpopasia.com/jpaPromo421.jpg" alt="Featured: Miyavi on JpopAsia" title="Featured: Miyavi on JpopAsia" /></a></li>-->
-				
-				<!--<li><a href="http://www.jpopasia.com/news/japan-earthquake-and-tsunami-relief-please-donate::5673.html"><img src="http://cdn.jpopasia.com/jpaPromo420.gif" alt="Japan earthquake and tsunami relief" title="Japan earthquake and tsunami relief" /></a></li>-->
-				
-											</ul>
-		</li>
 	
-	
-	
-	
-	
-	
-								
-						
-						
-						
-		<li id="nav-promo2">
-			<ul id="fade2">
-								
-				<!--<li><a href="http://www.jpopasia.com/news/join-the-anime-news-team::5980.html"><img src="http://cdn.jpopasia.com/jpaPromo426.jpg" alt="Join the Anime News Team" title="Join the Anime News Team" /></a></li>-->
-				
 
-				<!--<li><a href="http://www.jpopasia.com/awards/"><img src="http://cdn.jpopasia.com/jpaPromo429.gif" alt="JpopAsia Music Awards 2010" title="JpopAsia Music Awards 2010" /></a></li>-->
-				<!--<li><a href="http://www.jpopasia.com/awards/"><img src="http://cdn.jpopasia.com/jpaPromo417.png" alt="JpopAsia International Music Awards 2010" title="JpopAsia International Music Awards 2010" /></a></li>-->
-				
-				
-				<li>
-					<div class="mask" style="width:260px; height:84px;">		
-						<div class="mask-visible">
-							<a href="http://www.jpopasia.com/celebrity/lindaliu/videos/lp::13464.html">
-								<img src="http://cdn.jpopasia.com/jpaPromo442.jpg" alt="LP by Linda Liao" title="LP by Linda Liao" style="width:260px;">
-							
+	
 								
-								<div class="news-sticky-titlebg white" style="width:500px; padding: 3px 3px 3px 8px; top: 59px;">
-									<h2 class="news-sticky-title" style="font-size:11px; font-weight:bold;">LP by Linda Liao</h2>
-								</div>
-
-							</a>
-						</div>
-					</div>
-				</li>
-				
-					
-				<li>
-					<div class="mask" style="width:260px; height:84px;">		
-						<div class="mask-visible">
-							<a href="http://www.jpopasia.com/celebrity/kananishino/videos/alright::13998.html">
-								<img src="http://cdn.jpopasia.com/jpaPromo445.jpg" alt="Alright by Kana Nishino" title="Alright by Kana Nishino" style="width:260px;">
-							
-								
-								<div class="news-sticky-titlebg white" style="width:500px; padding: 3px 3px 3px 8px; top: 59px;">
-									<h2 class="news-sticky-title" style="font-size:11px; font-weight:bold;">Alright by Kana Nishino</h2>
-								</div>
-
-							</a>
-						</div>
-					</div>
-				</li>
-			
-			
-			
-			</ul>
-		</li>
-				
-						
-						
-						
-		<!--<li id="nav-promo3"><a href="/awards/"><img src="http://d3rufoqhb6ap02.cloudfront.net/jpaPromo3-jima2010.png" alt="JpopAsia International Music Awards 2010" title="JpopAsia International Music Awards 2010" style="width:100px;" /></a></li>-->
-		<li id="nav-promo3"><a href="/vip/"><img src="/img/promos/jpapromo-3-vip.png" alt="Advertise" title="Advertise" style="width:100px;"></a></li>
-							
+				<li id="nav-promo3"><a href="/vip/"><img src="/img/promos/jpapromo-3-vip.png" alt="VIP" title="VIP" style="width:100px;"></a></li>							
 							
 		<li id="subnavi">
 			<ul class="horizontal-r">
@@ -288,6 +218,8 @@ $(document).ready(function(){
 					<li class="spacer"> · </li>
 					<li><a class="create-account white" href="#">sign up</a></li>
 					<li class="spacer"> · </li>
+					<li><a class="poptip" title="JpopAsia RSS feed" href="http://www.jpopasia.com/rss/videos.xml"><div class="sprite-lq rssxs" style="margin-top:2px;"></div></a></li>
+					<li>&nbsp;&nbsp;&nbsp;</li>
 					<li><a class="poptip" title="facebook.com/jpopasia" href="http://www.facebook.com/jpopasia/"><div class="sprite-lq fbxs" style="margin-top:2px;"></div></a></li>
 					<li>&nbsp;&nbsp;&nbsp;</li>
 					<li><a class="poptip" title="twitter.com/jpopasia" href="http://twitter.com/jpopasia/"><div class="sprite-lq twxs" style="margin-top:2px;"></div></a></li>
@@ -298,8 +230,6 @@ $(document).ready(function(){
 	</div>  <!-- /.wrapper -->
 </div> <!-- /#header -->
 
-
-	
 
 <div id="dialog" title="JpopAsia">
 	<div id="dialog-content" style="display:none;"><div align="center"><img src="/img/gen/spinner-m.gif"></div></div>
@@ -542,23 +472,27 @@ You should consult the respective privacy policies of these third-party ad serve
 							<dd><a href="http://www.facebook.com/jpopasia">Facebook</a></dd>
 							<dd><a href="http://twitter.com/jpopasia">Twitter</a></dd>
 							<dd><a href="http://www.youtube.com/user/officialjpopasia">YouTube</a></dd>
+							<dd><a href="http://www.jpopasia.com/rss/jpopasia.xml">RSS news</a></dd>
+							<dd><a href="http://www.jpopasia.com/rss/videos.xml">RSS videos</a></dd>
 						</dl>
 					</li>
 					<li>
 						<dl>
 							<dt>Partners</dt>
+							<dd><a href="http://www.intuned.com/">intuned</a></dd>
 							<dd><a href="http://www.gokpop.com/">GoKpop</a></dd>
 							<dd><a href="http://www.animetaku.com/">AnimeTaku</a></dd>
 							<dd><a href="http://www.ricepv.com/">RicePV</a></dd>
+							<dd><a href="http://www.thesocial.nl/">thesocial.nl</a></dd>
 						</dl>
 					</li>
 					<li>
 												
 						<dl>
-														<dd class="label">57,102 accounts</dd>
-							<dd class="label">10,412 albums</dd>
-							<dd class="label">52,660 videos</dd>
-							<dd class="label">132,872 lyrics</dd>
+														<dd class="label">63,344 accounts</dd>
+							<dd class="label">14,532 albums</dd>
+							<dd class="label">56,990 videos</dd>
+							<dd class="label">158,579 lyrics</dd>
 						</dl>
 					</li>
 				</ul><!-- /footerLinks -->
