@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestgore.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629075148id_/http%3A//www.bestgore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestgore.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230054502id_/http%3A//www.bestgore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Best Gore
 
@@ -66,14 +66,14 @@ Best Gore will use commercially reasonable efforts to promptly respond and resol
 #### What People Searched For To Land Here:
 
   * is best gore legal
-  * best gore web
-  * bestgore com web
-  * top gore website
-  * top gore web
-  * is bestgore legal?
-  * is best gore website legal?
-  * best gore > top link
-  * is best gore a legal site
-  * best gore legal site?
+  * best gore legal
+  * top gore websites
+  * bestgore review
+  * why is bestgore legal
+  * is best gore legal?
+  * what\s the best gore website?
+  * virginia tech on bestgore
+  * virginia tech bestgore
+  * virginia tech best gore
 
 
