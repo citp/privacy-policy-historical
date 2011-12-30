@@ -1,149 +1,241 @@
-> *The following text is extracted and transformed from the dx.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dx.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230025045id_/http%3A//www.dealextreme.com/privacy.dx) for the most accurate reproduction.*
 
-# Privacy Policy
+# DealExtreme: Privacy Statement
 
-#### Find Answers To Your Questions:
+**privacy statement**
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+### Data Collection 
 
-### Privacy Policy
+DX undertakes to collect Your Data by means that are: 
 
-**Why A Privacy Policy?**  
+  * fair; 
+  * legal; and 
+  * transparent. 
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
 
- **This Privacy Policy protects your privacy by:**
 
- **Informing you about:**
+**If you visit DX's web-site** , your web-browser automatically discloses, and DX's web-server automatically logs, the following information: the date and time, the IP address from which you issued the request, the type of browser and operating system you are using, the URL of any page that referred you to the page, the URL you requested, and whether your request was successful. This data may or may not be sufficient to identify you. 
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+**Any additional data that you provide, e.g. in a web-form** , may also be logged. This data may or may not be sufficient to identify you. 
 
+**Any additional data that your web-browser automatically provides** may also be logged. This will be the case, for example, if your browser has previously been requested to store data on your computer in **'cookies'** and submits them each time you request a web-page within a particular domain (such as dealextreme.com). This data may or may not be sufficient to identify you. 
 
+**If you disclose personal data to DX in conjunction with an identifier such as your name or your contact details (such as your e-mail address)** , DX will collect Your Data. Moreover, any data that becomes available to DX through any of the means described in the preceding paragraphs may be able to be associated with that identifier, and hence become Your Data. 
 
-**Empowering you to choose:**
+Subject to the qualifications immediately below, DX undertakes to collect Your Data **from you** and not from other parties. This undertaking is qualified as follows: 
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+  * where DX reasonably considers that the protection of its financial interests requires that it gather Your Data from other sources, or from additional sources. This applies in particular where DX has a lending exposure to you, and seeks information about your creditworthiness; 
+  * where DX reasonably considers that its capability to deliver quality services to you will be materially enhanced by gathering Your Data from other sources. This applies in particular to consumer profile data. 
 
 
 
-**Assuring you that Network Solutions:**
+**Where DX collects Your Data from sources other than you** , it undertakes: 
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+  * to do so only by legal means; 
+  * to do so only with your Consent; and 
+  * to declare to you what sources it uses, and under what circumstances. 
 
 
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+DX undertakes to declare the **purpose of collection** in a manner which is clear and meaningful, and to avoid vague, highly inclusive statements such as 'to support our operations'. 
 
-  
-**Third Party Advertising and Cookies**
+* * *
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+### Data Security 
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+DX undertakes to **store** Your Data in a manner that ensures security against unauthorised access, alteration or deletion, at a level commensurate with its sensitivity. 
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+DX undertakes to store Your Data only in **jurisdictions** where data protections are at least equivalent to those required under the OECD Guidelines. 
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+DX undertakes to **transmit** Your Data in a manner that ensures security against unauthorised access, alteration or deletion, at a level commensurate with its sensitivity. 
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+DX undertakes to implement appropriate **measures to ensure security of Your Data against inappropriate behaviour by DX's staff-members and contractors**. These include: 
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+  * training for staff in relation to privacy; 
+  * access control, to limit access to Your Data to those staff and contractors who have legitimate reasons to access it; 
+  * particularly in the case of sensitive data, audit trails of accesses, including the identities of staff and contractors accessing the data; 
+  * reminders to staff and contractors from time to time about the importance of data privacy, and the consequences of inappropriate behaviour; 
+  * declaration of appropriately strong sanctions that are to be applied in the event of inappropriate behaviour 
+  * clear communication of policies and sanctions; and 
+  * processes to audit, to investigate and to impose sanctions. 
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+* * *
 
- **Getting to Know Our Customers**
+### Data Use 
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+Use refers to the application of Your Data by any part of DX, or any staff-member or contractor of DX in the course of their work. 
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+DX undertakes to use Your Data only for: 
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+  * **the purposes for which it was collected** ; 
+  * such other purposes as are **subsequently agreed** between DX and You; 
+  * such additional purposes as may be **required by law**. In these circumstances, DX will take any reasonable steps available to it to communicate to You that the use has occurred, unless it is precluded from doing so by law; and 
+  * such additional purposes as are **authorised by law** (in particular to protect DX's interests, e.g. if it believes on reasonable grounds that You have failed to fulfil your undertakings to DX or have committed a breach of the criminal law). 
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+DX undertakes to use Your Data only if it has **demonstrable relevance** to the particular use to which it is being put. 
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+DX undertakes to use Your Data in such a manner as to take into account the possibility that it is not of **sufficient quality for the purpose** , e.g. because it is inaccurate, out-of-date, incomplete, or out-of-context. 
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+* * *
 
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
+### Data Disclosure 
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+Disclosure refers to making Your Data available to any party other than DX and You. The term disclosure may include many different conditions of data transfer, including selling, renting, trading, sharing and giving. 
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
+DX undertakes to disclose Your Data only under the following circumstances: 
 
-b. Click “Edit User Info” in the left menu;
+  * **in the course of business being conducted between You and DX** , where disclosure is necessary to a contractor, such as payment processors like PayPal and transportation companies. Where Your Data is disclosed in this way, DX undertakes to exercise control over DX's contractors to ensure that their actions are compliant with these Terms; 
+  * **in other circumstances that are directly implied by the purpose agreed between You and DX** at the time of data collection or subsequently. Where Your Data is disclosed in this way, DX undertakes to exercise control over DX's contractors to ensure that their actions are compliant with these Terms; 
+  * **with your consent** , or at your request; 
+  * **where required by law** , such as a provision of a statute, or a court order such as a search warrant or sub poena. In these circumstances, DX will take any reasonable steps available to it to communicate to You that the disclosure has occurred, unless it is precluded from doing so by law; 
+  * **where permitted by law** (e.g. the reporting of suspected breach of the criminal law to a law enforcement agency; and in an emergency, where DX believes on reasonable grounds that the disclosure of Your Data will materially assist in the protection of the life of health of some person), provided that DX will apply due diligence to ensure that the exercise of the permission is justifiable. 
 
-c. Scroll to the bottom of the page;
 
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
 
-e. Click “SAVE.”
+In all cases, DX undertakes to disclose only such of Your Data as is necessary in the particular circumstances. 
 
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+* * *
 
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+### Data Retention and Destruction 
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
+Subject to the qualifications immediately below, DX undertakes: 
 
-b. Click “Edit User Info” in the left menu;
+  * to **retain** Your Data only as long as is consistent with its purpose; and 
+  * to **destroy** Your Data when its purpose has expired, and to do so in such a manner that Your Data is not subsequently capable of being recovered. 
 
-c. Scroll to the bottom of the page;
 
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
 
-e. Click “SAVE.” 
+This undertaking is qualified as follows: 
 
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+  * Your Data may be retained in DX's **logs, backups and audit trails** within short-term retention cycles that are devised to protect the company's operations. In such cases, Your Data will be destroyed in accordance with those cycles; 
+  * Your Data may be retained beyond the expiry of its purpose if that is **required by law** , such as a provision of a statute, or a court order such as a search warrant or sub poena, or a warning by a law enforcement agency that delivery of a court order is imminent. In these circumstances, DX: 
+    * will take any reasonable steps available to it to communicate to You that Your Data is being retained, unless it is precluded from doing so by law; and 
+    * will only retain Your Data while that provision is current, and will then destroy Your Data; 
+  * Your Data may be retained beyond the expiry of its purpose if it is **authorised by law** (in particular to protect DX's interests, e.g. if it believes on reasonable grounds that You have failed to fulfil your undertakings to DX or have committed a breach of the criminal law). In these circumstances, DX will only retain Your Data while that situation is current, and will then destroy Your Data. 
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
 
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
+* * *
 
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+### Access by You to Your Personal Data 
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
+DX undertakes to provide you with **access** to Your Data, subject to only such conditions and processes as are reasonable in the circumstances. In particular, DX undertakes to enable access: 
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+  * conveniently; 
+  * without unreasonable delay; and 
+  * without cost. 
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
 
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
+DX undertakes to establish and operate **identity authentication protections for access to Your Data** that are appropriate to its sensitivity, but practical. This may involve some inconvenience; for example, relatively straightforward procedures may be involved in order to provide you with access through a channel that you have previously registered with DX (such as a particular email-address), but may impose more onerous procedures if you wish to use some other channel. 
 
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+In the event that you dispute some aspect of Your Data, DX undertakes to take reasonable steps in relation to the **amendment, supplementation or deletion** of Your Data. 
+
+You undertake: 
+
+  * not to seek access for frivolous purposes, or unreasonably frequently; 
+  * to accept that deletion of some data may not be consistent with the provision of particular services by DX to you. 
+
+
+
+* * *
+
+### Information about Data-Handling Practices 
+
+DX undertakes to make information available to you about the manner in which DX handles your data: 
+
+  * in general terms, in a readily accessible manner; and 
+  * in more specific terms, on request. 
+
+
+
+Where Your Data is disclosed to a contractor, DX undertakes to make information available to you on request about the manner in which DX's contractors handle your data. 
+
+DX undertakes to ensure that the information provided is meaningful, and addresses your concerns. 
+
+You undertake: 
+
+  * not to seek such information for frivolous purposes, or unreasonably frequently; and 
+  * to accept that the disclosure of excessive detail may harm the security of Your Data and DX's business processes, and may harm DX's commercial interests. 
+
+
+
+* * *
+
+### Handling of Enquiries, General Concerns and Complaints 
+
+If you have enquiries, general concerns, or complaints about these Terms, or about DX's behaviour in relation to these Terms, you undertake: 
+
+  * to **communicate them in the first instance:**
+    * to DX only; 
+    * in sufficient detail; 
+    * through a channel made available by DX for that purpose; 
+
+
+
+DX undertakes: 
+
+  * to provide one or more **channels for communications** to DX, which are convenient to users; 
+  * to promptly provide **acknowledgement** of the receipt of communications, including the provision of a copy of the communication, the date and time it was registered, and DX's reference-code for the communication; 
+  * to promptly provide **a response** to the communication, in an appropriate and meaningful manner. 
+
+
+
+You further undertake to not pursue DX through any **Regulator or the media** : 
+
+  * until and unless DX has had a reasonable opportunity to respond to the initial communication; and 
+  * while DX and you remain are conducting a meaningful dialogue about the matter. 
+
+
+
+* * *
+
+### Enforcement
+
+DX declares that its undertakings in these Terms are intended to create **legal obligations,** and that those obligations are intended to be **enforceable** under appropriate laws in appropriate jurisdictions. These include laws relating to data protection, privacy, fair trading, corporations and criminal laws. 
+
+You undertake to seek enforcement only in a **jurisdiction** that is relevant to the transactions that have taken place between You and DX, in particular the jurisdiction in which you live or in which you performed the relevant acts, and the jurisdiction in which DX is domiciled or performed the relevant acts. 
+
+If you wish to discover the **relevant laws** in any particular jurisdiction, DX draws your attention to the following resources: 
+
+  * [ WorldLII Privacy Links](http://www.worldlii.org/catalog/273.html)
+  * [ Compilation of [U.S.] State and Federal Privacy Laws](http://www.privacyjournal.net/work1.htm), Privacy Journal, Providence RI 
+  * [Privacy Law Sourcebook 2004, EPIC](http://www.epic.org/bookstore/pls2004/), Washington DC 
+  * the Australian Privacy Foundation's pages: 
+    * [ International Instruments Relating to Privacy Law](http://www.privacy.org.au/Resources/PLawsIntl.html)
+    * [Privacy Laws of Countries of the World](http://www.privacy.org.au/Resources/PLawsWorld.html)
+    * [Privacy Laws of the Commonwealth of Australia](http://www.privacy.org.au/Resources/PLawsClth.html)
+    * [Privacy Laws of the States and Territories of Australia](http://www.privacy.org.au/Resources/PLawsST.html)
+  * [ Privacy International](http://www.privacyinternational.org/index.shtml?cmd\[342\]\[\]=c-1-Data+Protection+and+Privacy+Laws&als\[theme\]=Data%20Protection%20and%20Privacy%20Laws&conds\[1\]\[category........\]=Data%20Protection%20and%20Privacy%20Laws)
+
+
+
+* * *
+
+### Changes to These Privacy Undertakings 
+
+DX undertakes: 
+
+  * not to materially change these Terms in a manner that reduces the protections for Your Data; 
+  * to take all possible steps to prevent any company that acquires this company or any of its relevant assets from materially changing the Terms applicable to Your Data in a manner that reduces the protections for Your Data; 
+  * where it is considering making changes to these Terms, or creating more specific Terms relating to specific services, to consult with appropriate representative and advocacy organisations; 
+  * where it makes changes to these Terms, to ensure that the differences between successive versions are readily accessible; 
+  * to maintain all prior versions of these Terms in such a manner that they are dated, and readily accessible. 
+
+
+
+* * *
+
+### Definitions
+
+**DX** means DealExtreme.com. 
+
+**Your Data** means data that is capable of being associated with you, whether or not it includes an explicit identifier such as your name or customer number. In particular, it encompasses all data that DX is capable of correlating with you, using such means as server-logs and cookie-contents. 
+
+Your Data does _not_ refer to data that can no longer be associated with you. This includes aggregated data that does not and cannot identify the individuals whose data are included in the aggregation. 
+
+**Consent** means your concurrence with an action to be taken by DX. Consent may be express or implicit, but in either case must be informed and freely-given. 
