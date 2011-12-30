@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowpopular.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608015612id_/http%3A//www.wowpopular.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowpopular.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230123118id_/http%3A//www.wowpopular.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # WoW Popular » Privacy Policy
 
@@ -10,7 +10,7 @@ We have created this email privacy policy to demonstrate our firm commitment to 
 
 ### Why did you receive an email from us?
 
-If you received a mailing from us, (a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future (”opt-in”), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.
+If you received a mailing from us, (a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future (“opt-in”), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.
 
 ### How we protect your privacy
 
