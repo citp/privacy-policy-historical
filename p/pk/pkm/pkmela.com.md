@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pkmela.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614002430id_/http%3A//pkmela.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkmela.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230122125id_/http%3A//pkmela.com/privacy.php) for the most accurate reproduction.*
 
 # PKmela.com - Privacy Policy
 
@@ -78,7 +78,7 @@ The collection is a blend of top Pakistani, Indian & English love songs, this is
 ---  
 wallpaper of the moment  
   
-[ ](https://web.archive.org/gallery/details.php?image_id=590)   
+[ ](https://web.archive.org/gallery/details.php?image_id=134)   
 [View More Wallpapers Â»](https://web.archive.org/gallery)  
   | **[CONTACT](https://web.archive.org/contact.php)**   |   [**ABOUT** ](https://web.archive.org/about.php)  |   [**PRIVACY POLICY**](https://web.archive.org/privacy.php)   |   [ **MAILING LIST**](https://web.archive.org/redir/o.php?out=http://mailing.wordsofsoul.com/?p=subscribe&id=1) **    **| **  **[ **TERMS OF USE**](https://web.archive.org/terms.php) |    
   | PKmela.com |    
