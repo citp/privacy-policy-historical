@@ -1,35 +1,35 @@
-> *The following text is extracted and transformed from the terapeak.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615180516id_/https%3A//www.terapeak.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terapeak.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230111656id_/http%3A//www.terapeak.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Terapeak
 
 ## Last Updated: August 11, 2010
 
-AERS Inc. a British Columbia company, is committed to protecting the privacy of users to this Website and for users of our on-line services in accordance with the requirements of Canadian federal and provincial privacy laws.
+Advanced E-Commerce Research Systems, Inc., ("AERS") a British Columbia company, is committed to protecting the privacy of users to this Website and for users of our on-line services in accordance with the requirements of Canadian federal and provincial privacy laws.
 
-**AERS Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with[TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. This privacy statement covers the Websites [http://terapeak.com](http://www.terapeak.com/) and [http://analytics.terapeak.com](http://analytics.terapeak.com/) (the "Website"). The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 250.483.3273. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). **
+**AERS has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with[TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. This privacy statement covers the Website [http://terapeak.com](http://www.terapeak.com/) (the "Website"). The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 250.483.3273. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). **
 
-This privacy statement details how AERS Inc. collects and uses personal information from users of the Website or our on-line services and outlines our privacy commitment to you, the user, as well as our privacy practices. AERS Inc. wants all users of Terapeak.com to understand the purposes and uses for our collection of personal user information and we want to ensure that AERS Inc. has your consent to continue to collect, use and disclose your personal information for those purposes and uses as set out below.
+This privacy statement details how AERS collects and uses personal information from users of the Website or our on-line services and outlines our privacy commitment to you, the user, as well as our privacy practices. AERS wants all users of Terapeak.com to understand the purposes and uses for our collection of personal user information and we want to ensure that AERS has your consent to continue to collect, use and disclose your personal information for those purposes and uses as set out below.
 
-At the same time, AERS Inc. wants its privacy statement to meet the highest commercial standards that establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.
+At the same time, AERS wants its privacy statement to meet the highest commercial standards that establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.
 
 We want this Website and our on-line services to demonstrate our commitment to its user’s privacy, and we want you to know what our information and privacy practices are with respect to the following matters:
 
-  1. What personally identifiable information AERS Inc. collects
+  1. What personally identifiable information AERS collects
   2. What personally identifiable information third parties collect through the Website
   3. What organization collects the personal information
-  4. How AERS Inc. uses the personal information
-  5. With whom AERS Inc. may share user information
+  4. How AERS uses the personal information
+  5. With whom AERS may share user information
   6. What choices are available to users regarding collection, use and distribution of the personal information
-  7. What types of security procedures are in place to protect the loss, misuse or alteration of personal information under AERS Inc. control
+  7. What types of security procedures are in place to protect the loss, misuse or alteration of personal information under AERS control
   8. How users can correct any inaccuracies in the personal information
 
 
 
-If users have questions or concerns regarding this statement, they should first contact Anthony Sukow at the following email: [anthony[at]aers[dot]ca](https://web.archive.org/contact/anthony/aers/ca). If a user does not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact AERS Inc. directly with the following contact number: [250.483.3273](tel: 1 250 483 3273)
+If users have questions or concerns regarding this statement, they should first contact Anthony Sukow at the following email: [anthony@aers.ca](mailto:anthony@aers.ca). If a user does not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact AERS directly with the following contact number: [250.483.3273](tel: 1 250 483 3273)
 
 ### Information Collection and Use of Information Collected
 
-With the exception of any third party information arising from utilization of data sets, such as eBay data and shared eBay user information, AERS Inc. is the sole owner of the information collected on the Website. AERS Inc. collects personally identifiable information from our users at the Website and may receive personally identifiable information from eBay and PayPal users who access the Website from links via eBay and PayPal.
+With the exception of any third party information arising from utilization of data sets, such as eBay data and shared eBay user information, AERS is the sole owner of the information collected on the Website. AERS collects personally identifiable information from our users at the Website and may receive personally identifiable information from eBay and PayPal users who access the Website from links via eBay and PayPal.
 
 If you use our on-line products and services, we ask you for:
 
@@ -89,7 +89,7 @@ We may disclose personal information if legally required to do so such as to pro
 
 We collect and use the personally identifying information, contact information and account information to process and deliver our online services, to facilitate the services requested by the user, to improve the services and features of the Website, to customize our services or delivery of information to you on the Website to make the use of the Website more effective and efficient, to resolve disputes, to troubleshoot problems and enforce this privacy statement. We automatically track certain information based on the user's use of our Website. We use this information to do internal research on our user's demographics, interests, and behavior to better understand the users and our client base. We track information regarding the URL that the user came from (whether from our site or not), which URL the user may go to next (whether this URL is on our site or not), and what browser is being used and the user's IP address. We collect information to generate statistics and aggregate reports for internal use only. These statistics and aggregate reports will not contain any personally identifiable information. Personal identity is kept anonymous. We collect and use information from messages, and users who choose to post information on our site. We also collect and use personal correspondence, such as emails or letters, or if other users or third parties send correspondence about your activities or postings on the Website.
 
-We collect and use information if users register for Terapeaks Website or another third party Website or use a third party Website providing a service for the Terapeak Website that helps facilitate a user's activity on Terapeak’s Website and that third party Website may provide personal information about you and your transactions back to Terapeak’s Website AERS Inc. does not sell or rent any information collected from users to other third parties.
+We collect and use information if users register for Terapeaks Website or another third party Website or use a third party Website providing a service for the Terapeak Website that helps facilitate a user's activity on Terapeak’s Website and that third party Website may provide personal information about you and your transactions back to Terapeak’s Website AERS does not sell or rent any information collected from users to other third parties.
 
 We create user accounts to tailor the information displayed to each individual user and as applicable to the users.
 
@@ -161,21 +161,21 @@ We partner with other third parties such as a tracking utility company and a liv
 
 ### Business Transitions
 
-In the event that AERS Inc. goes through a business transition such as a merger, being acquired by another company, or selling a portion of its assets, personal user information will, in most instances, be part of the assets transferred. Users will be notified via prominent notice on our Website for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the user’s personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section. We may disclose personal information of a user to an agent when in the reasonable judgment of AERS Inc. the individual is seeking information as an agent of the user.
+In the event that AERS goes through a business transition such as a merger, being acquired by another company, or selling a portion of its assets, personal user information will, in most instances, be part of the assets transferred. Users will be notified via prominent notice on our Website for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the user’s personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section. We may disclose personal information of a user to an agent when in the reasonable judgment of AERS the individual is seeking information as an agent of the user.
 
 Subject to applicable regulatory requirements, we may disclose personal information of a user to a credit reporting agency.
 
-We may disclose personal information of a user to a public agency when in the reasonable judgment of AERS Inc., there is imminent danger to person or property to which such disclosure would avoid or minimize the danger.
+We may disclose personal information of a user to a public agency when in the reasonable judgment of AERS, there is imminent danger to person or property to which such disclosure would avoid or minimize the danger.
 
 ### Choice/Opt-out
 
-We do not use our user’s information for purposes unrelated to our site. We would like to continue to have the user's consent for the purposes and uses of personal information as set out in this privacy statement, however, you as a user may choose to refuse or withdraw your consent by refusing to give us personal information or withdrawing such consent subject to any applicable contractual or notice provisions by emailing us at [support[at]terapeak[dot]com](https://web.archive.org/contact/support/terapeak/com).
+We do not use our user’s information for purposes unrelated to our site. We would like to continue to have the user's consent for the purposes and uses of personal information as set out in this privacy statement, however, you as a user may choose to refuse or withdraw your consent by refusing to give us personal information or withdrawing such consent subject to any applicable contractual or notice provisions by emailing us at [support@terapeak.com](mailto:support@terapeak.com).
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by following instructions given in the footer of the email or emailing [support[at]terapeak[dot]com](https://web.archive.org/contact/support/terapeak/com).
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by following instructions given in the footer of the email or emailing [support@terapeak.com](mailto:support@terapeak.com).
 
 ### Links
 
-This Website contains links to other sites. Please be aware that AERS Inc., is not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Website that collects personally identifiable information. This privacy statement applies solely to information collected by this Website.
+This Website contains links to other sites. Please be aware that AERS, is not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Website that collects personally identifiable information. This privacy statement applies solely to information collected by this Website.
 
 ### Surveys & Contests
 
@@ -215,7 +215,7 @@ We do not combine information about the purchasing habits of our users with othe
 
 ### Correcting/Updating/Deleting/Deactivating Personal Information
 
-If a user's personally identifiable information changes (such as name, postal code, zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate user’s personally identifiable information. This can be done by going to the account page or by emailing our Customer Support at [support[at]terapeak[dot]com](https://web.archive.org/contact/support/terapeak/com).
+If a user's personally identifiable information changes (such as name, postal code, zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate user’s personally identifiable information. This can be done by going to the account page or by emailing our Customer Support at [support@terapeak.com](mailto:support@terapeak.com).
 
 ### Notification of Changes
 
@@ -229,15 +229,15 @@ If users have any questions, concerns or suggestions regarding our privacy pract
 
   * Phone: 250.483.3273
   * Fax: 250.483.3271
-  * Email: [support[at]terapeak[dot]com](https://web.archive.org/contact/support/terapeak/com)
+  * Email: [support@terapeak.com](mailto:support@terapeak.com)
   * Website URL: [www.terapeak.com](https://web.archive.org/)
 
 
 
 Otherwise, we assume that we have you - the user of our Website and or on-line services - consent to collect, use and disclose your personal information for the purposes and uses identified in this privacy statement.
 
-For further information on the AERS Corporate Privacy Code, please email us at [support[at]terapeak[dot]com](https://web.archive.org/contact/support/terapeak/com).
+For further information on the AERS Corporate Privacy Code, please email us at [support@terapeak.com](mailto:support@terapeak.com).
 
-2307-4464 Markham St.  
-Victoria, BC  
-V8Z 7X8
+102 – 3962 Borden St.  
+Victoria, BC, Canada  
+V8P 3H8
