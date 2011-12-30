@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the victoriamilan.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502130530id_/http%3A//www.victoriamilan.com/info_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victoriamilan.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230061203id_/http%3A//www.victoriamilan.com/info_privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Victoria Milan, Europe's discreet dating for married & attached!
+## Victoria Milan, America's discreet dating for married & attached!
 
 * * *
 
@@ -22,6 +22,8 @@ Please note that we do not accept any liability or responsibility for any damage
 Victoria Milan® is in no way involved in activities that involve the sale, redistribution or other unauthorized use of your personal information. By providing your personal information to us and using our website, you say you agree with our terms and conditions as described in this text and in our terms of agreement available [here](http://www.victoriamilan.com/info_terms "Terms of Service").
 
 All processing of personal information will follow the provisions of applicable data protection legislation and regulation. You have the right to information about the information we store about you and request that faulty information is corrected. Contact us if you have any questions or concerns about your personal information.
+
+In spite of the fact that we try to comply with the highest standards regarding the protection of any (personal and/ or private) information and abuse by others according to the applicable legislation we decline every responsibility and/or liability in the event of unauthorized use and/or loss of information.
 
   
 
@@ -47,9 +49,11 @@ When paying via our website, you are ensured that Victoria Milan® or other site
   
 
 
-## "Cookies" or "Cookies"
+## "Cookies"
 
 To be able to log in to Victoria Milan® pages you must have enabled cookies feature in your private web browser. "Cookies" is used to identify our servers for your computer so they can recognize each other. If there are any problems related to "Cookies" you will be told to put down your security. This is done by going into tools -> internet options -> privacy (tools -> internet options -> security in Internet Explorer. Consult the user manual if you are using a different web browser.
+
+By using the Service and/or the Website you agree unambiguously the use of cookies in order to enable us to use, develop and/or improve the Service and the Website.
 
   
 
