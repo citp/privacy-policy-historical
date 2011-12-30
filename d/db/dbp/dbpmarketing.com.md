@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dbpmarketing.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423104257id_/http%3A//dbpmarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dbpmarketing.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230191950id_/http%3A//dbpmarketing.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - DBPMARKETING
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
