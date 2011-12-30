@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the regalassets.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229022547id_/http%3A//www.regalgoldcoins.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regalassets.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230180800id_/http%3A//www.regalgoldcoins.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy,
+# Privacy Policy
 
 **PRIVACY POLICY**
 
@@ -8,7 +8,7 @@ Your privacy is important – Regal Assets is dedicated to protecting yours. Any
 
 **What kind of information do you store?**
 
-Regal Assets stores the information you share with us in your membership logon account for the sole purpose of improving our service to you. Your membership account contains only the information you have chosen to share with us. When you register for our service, you also choose a password that makes sure that your information remains private. We store your membership account information in our membership database.
+Regal Assets stores the information you share with us in your membership logon account for the sole purpose of improving our service to you. Your membership account contains only the information you have chosen to share with us and is stored in our membership database.
 
 **What do you do with information you gather about me?**
 
@@ -26,13 +26,6 @@ Regal Assets has implemented a number of security procedures to secure protectio
 
 We are committed to providing you a safe, no-risk environment. We use some of the most sophisticated security software available on the market today and have done everything reasonably possible to ensure that any personal information you share with us will not be misappropriated. Should you ever suspect that an unauthorized party has obtained or used your personal information, please contact Regal Assets immediately. We will investigate the matter thoroughly. And of course, any time that you discover or suspect fraud, you should contact your credit card company immediately.
 
-**Why do I need a password?**
-
-Your password is key to protecting the personal information you share with us. Do not share your password with anyone.
-
 **Tell us what you think**
 
 If you have any comments or questions about our security and privacy statement please call us at **Toll Free 1-877-962-1133**
-
-  
-
