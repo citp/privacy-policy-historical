@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rakeback.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618131512id_/http%3A//www.rakeback.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rakeback.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230065542id_/http%3A//www.rakeback.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Rakeback.com
+# Privacy Policy
 
 At [Rakeback.com]( "Rakeback Site") we respect your privacy. Please read the following to learn more about our privacy policy.
 
@@ -18,7 +18,7 @@ Analytic and Reporting Technologies. Like the operators of most web sites, we us
 
 ## Information Use
 
-Rakeback.com uses the information it collects from you in a variety of ways, ncluding using the information to customize features and advertising that appear on the Rakeback.com website. We also may provide your information to third parties, such as service providers, contractors, and advertisers, for a variety of purposes. For example, we may provide our advertisers with information about you and other visitors that will enable our advertisers to better target ads to specific types of visitors.
+Rakeback.com uses the information it collects from you in a variety of ways, including using the information to customize features and advertising that appear on the Rakeback.com website. We also may provide your information to third parties, such as service providers, contractors, and advertisers, for a variety of purposes. For example, we may provide our advertisers with information about you and other visitors that will enable our advertisers to better target ads to specific types of visitors.
 
 Rakeback.com reserves the right to use and to disclose to third parties all of the information that Rakeback.com collects online about you and other visitors in any way and for any purpose, with one important exception. Rakeback.com will not use the information that it collects online from you while you are using the Service, nor will Rakeback.com authorize third parties to use such information, to mail or email promotional offers directly to you unless you have specifically informed Rakeback.com that you would like to receive promotional offers from Rakeback.com and/or from third parties. If you choose to receive these promotional offers, then your information may be used for direct mail or email marketing.
 
