@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apture.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623025242id_/http%3A//www.apture.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apture.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230172618id_/http%3A//www.apture.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Apture
+# Privacy Policy
 
 Please note that by using this website or the services (the “Site”) provided by Apture, Inc. (“Apture”), you are accepting the practices described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Site.
 
