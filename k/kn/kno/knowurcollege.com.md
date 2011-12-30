@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowurcollege.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617234123id_/http%3A//www.knowurcollege.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowurcollege.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230055949id_/http%3A//www.knowurcollege.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for www.knowurcollege.com | KnowurCollege.com
 
@@ -47,9 +47,19 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 
 
+**Commenting and[inquiry](http://www.knowurcollege.com/inquiry/ "inquiry") form fill up Policy  
+**
+
+  * Make your contact details available to Knowurcollege.com partners, you may be contacted by Knowurcollege.com partners for education information through email, telephone and SMS, if you do not wish to be contacted, you may click on unsubscribe link on email.
+  * Receive promotional mails/special offers from Knowurcollege.com or any of its partner websites
+
+
+
 **Along with**
 
   * Knowurcollege.com is created for information purpose only . The information we have presented here is a best with our knowledge and collected from web.  The information might be wrong or out dated  and Visitor will only responsible for his/her own decision.
   * we are not providing any services.
 
 
+
+No tags for this post. 
