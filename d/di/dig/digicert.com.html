@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the digicert.com privacy policy that was archived on 2011-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110525163610id_/http%3A//www.digicert.com/digicert-privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the digicert.com privacy policy that was archived on 2011-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111230121321id_/http%3A//www.digicert.com/digicert-privacy-policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<title>DigiCert SSL Certificate Authority | Security | Privacy Policy</title>
 	<meta name="DESCRIPTION" content="DigiCert is committed to protecting your privacy with the highest possible level of security.">
-			<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://edge1.digicert.com/CB66/includes/js/d3js.base.js.php"></script>
-	<link href="http://content.digicert.com/CB66/d3style.css.php" rel="stylesheet" type="text/css">
+			<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://edge1.digicert.com/CB4/js/d3js.base.js.php"></script>
+	<link href="http://content.digicert.com/CB4/css/d3style.css.php" rel="stylesheet" type="text/css">
 	<!--[if IE 6]>
-	<link href="http://content.digicert.com/d3style-ie.css" rel="stylesheet" type="text/css" />
+	<link href="http://content.digicert.com/css/d3style-ie.css" rel="stylesheet" type="text/css" />
 	<![endif]-->
 	<link rel="SHORTCUT ICON" href="/favicon.ico">
 
@@ -17,6 +17,41 @@
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-8640690-1'],['_setDomainName','www.digicert.com']);
   if (typeof trackedPageView == 'undefined') { _gaq.push(['_trackPageview']); }  
+function checkForUTMACookie() {
+	var cookiename = "__utma";
+	var cookiecheck = 0;
+	var cookies = document.cookie.split(';');
+	for (var i=0;i<cookies.length;i++){
+		while (cookies[i].charAt(0)==' ') cookies[i] = cookies[i].substring(1,cookies[i].length);
+		if (cookies[i].indexOf(cookiename+'=') == 0){
+			cookiecheck = 1;
+		} //if
+	} //for
+	return cookiecheck;
+}
+
+function _varTruncate(input) {
+	var byteLength = 63;
+	//we can't decode if we happen to truncate part-way through an encoded entity so if the encoded string has a % near 63 characters, we truncate before the % before decoding
+	if (encodeURIComponent(input).substr(byteLength-2,1) == "%"){
+		truncatedInput = decodeURIComponent(encodeURIComponent(input).substr(0,byteLength-2));
+	} else if (encodeURIComponent(input).substr(byteLength-1,1) == "%"){
+		truncatedInput = decodeURIComponent(encodeURIComponent(input).substr(0,byteLength-1));
+	} else {
+		truncatedInput = decodeURIComponent(encodeURIComponent(input).substr(0,byteLength));
+	}
+	return truncatedInput;
+}
+
+	try {
+		if (checkForUTMACookie() === 0){
+						_gaq.push(['_setCustomVar', 1, "l", _varTruncate(window.location.pathname), 1]);
+			_gaq.push(['_setCustomVar', 2, "s", _varTruncate(window.location.search), 1]);
+			_gaq.push(['_setCustomVar', 3, "r", _varTruncate(document.referrer.substr(7,document.referrer.length)), 1]);
+			_gaq.push(['_setCustomVar', 4, "q", _varTruncate(document.referrer.match(/(?:([#]|[?]|[&]))(?:(encquery|k|p|q|qs|qt|query|rdata|search_word|szukaj|terms|text|wd|words))=[^&]*/i)[0]), 1]);
+		} 
+	} catch (err) {}
+  
  (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })(); </script>
@@ -28,12 +63,12 @@
 	<ul>
 				<li><a href="http://www.digicert.com/ssl-certificate.htm" id="productsMenuID">SSL Certificates</a></li>
 		<li><a href="http://www.digicert.com/code-signing/" id="codeSigningMenuID">Code Signing Certificates</a></li>
-		<li><a href="http://www.digicert.com/mpki/explore-enterprise-ssl.htm" id="mpkiMenuID">Enterprise</a></li>
+		<li><a href="http://www.digicert.com/managed-pki-ssl.htm" id="mpkiMenuID">Enterprise</a></li>
 		<li><a href="http://www.digicert.com/support.htm" id="supportMenuID">Support</a></li>
 		<li><a href="http://www.digicert.com/digital-certificate-reseller-program.htm" id="partnerMenuID">Reseller</a></li>
 		<li><a href="http://www.digicert.com/about-digicert.htm" id="companyMenuID">About Us</a></li>
 		<li>
-							<a href="https://www.digicert.com/custsupport/" id="loginMenuID">Login</a>						</li>
+							<a href="https://www.digicert.com/custsupport/" id="loginMenuID">My Account</a>						</li>
 	</ul>
 </div>
 <div id="contain">
@@ -100,7 +135,7 @@
 
 		<p><span class="b">Safe Harbor</span></p>
 
-		<p>DigiCert adheres to the EU-Swiss Safe Harbor Framework and the Privacy Principles of Notice, Choice, Onward Transfer, Access, Security, Data Integrity, and Enforcement and the Frequently Asked Questions issued by the U.S. Department of Commerce, see <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>, (the “Safe Harbor Principles”). DigiCert is subject to the jurisdiction of the Federal Trade Commission of the United States, and our failure to comply with this Privacy Policy or the Safe Harbor Principles is actionable under Section 5 of the Federal Trade Commission Act.</p>
+		<p>DigiCert complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  DigiCert has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view DigiCert's certification, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a></p>
 
 		<p><span class="b">TRUSTe Licensee Statement</span></p>
 
@@ -110,7 +145,7 @@
 
 		<p><span class="b">Applicability</span></p>
 
-		<p>This privacy policy is supplemental to any agreement that exists between a customer and DigiCert and does not alter any agreed upon terms.  In case of a conflict, the terms agreed to by DigiCert and the customer take precedence over this privacy policy.  In addition, this privacy policy does not apply to any downloadable software provided through DigiCert’s websites.</p>
+		<p>This privacy policy is supplemental to any agreement that exists between a customer and DigiCert and does not alter any agreed upon terms.  In case of a conflict, the terms agreed to by DigiCert and the customer take precedence over this privacy policy.  In addition, this privacy policy does not apply to any downloadable software provided through DigiCert's websites.</p>
 
 		<p>Third party sites may link to or from DigiCert websites.  DigiCert is not responsible for the privacy practices or the content of those other websites.</p>
 
@@ -153,7 +188,7 @@
 	</div>
     <div id="qualList">
         	<div id="liveHelp">
-				<a id="chat_link_sidebar" name="chat_link_sidebar" href="#chat_link_sidebar" style="cursor:pointer"><img src="http://edge1.digicert.com/CB66/images/d3/button-live-help.png" width="210" height="69" border="0"></a>
+				<a id="chat_link_sidebar" name="chat_link_sidebar" href="#chat_link_sidebar" style="cursor:pointer"><img src="http://edge1.digicert.com/CB4/images/d3/button-live-help.png" width="210" height="69" border="0"></a>
 	</div>
         	<ul>
 		<li id="quickMenu" class="top">
@@ -177,23 +212,20 @@
 	</ul>
         	<p>	
 <a href="http://www.digicert.com/community.htm"><img src="/images/community.png" alt="" style="margin-top:10px;"></a>
-<img id="d3features" src="http://edge1.digicert.com/CB66/images/d3/d3-features.png" width="210" height="249" usemap="#d3featuresmap" style="margin-top:9px;">
-<map name="d3featuresmap">
-<area shape="rect" coords="0,0,210,62" href="http://www.digicert.com/unlimited-servers.htm" alt="Unlimited Servers No Extra Charge!">
-<area shape="rect" coords="0,63,210,124" href="http://www.digicert.com/high-assurance-ssl-certificates.htm" alt="High Assurance SSL">
-<area shape="rect" coords="0,125,210,186" href="http://www.digicert.com/unlimited-ssl-certificate-reissues.htm" alt="Unlimited Reissues">
-<area shape="rect" coords="0,187,210,249" href="http://www.digicert.com/digicert-managed-pki.htm" alt="How Does PKI Work?">
-</map>
+<a href="http://www.digicert.com/site-seal-conversion-rate-benefits.htm"><img src="/images/ss-ros.png" alt="" style="margin-top:15px;"></a>
 </p>
 	<p>	
 		<a href="http://www.digicert.com/digital-certificate-guarantee.htm"><img src="http://edge1.digicert.com/images/d3/30-day-guarantee.png" width="208" height="104" alt="Guarantee"></a>
 	</p>
-		<div id="digicertsitesealcode" style="width: 81px; margin: 20px 0 0 10px;">
-		<script type="text/javascript">
-			document.write(unescape('%3Cscript language="javascript" type="text/javascript" src="')+document.location.protocol+unescape('//seal.digicert.com/custsupport/sealtable.php?order_id=00182007&amp;seal_type=a&amp;seal_size=large&amp;seal_color=green"%3E%3C/script%3E'));
-		</script><script language="javascript" type="text/javascript" src="https://seal.digicert.com/custsupport/sealtable.php?order_id=00182007&amp;seal_type=a&amp;seal_size=large&amp;seal_color=green"></script>
-				<span>&nbsp;</span>
-		<script language="javascript" type="text/javascript">coderz();</script>
+		<div id="digicertsitesealcode" style="margin: 20px 0 0 0; text-align: center;">
+
+		<div id="DigiCertClickIDlfC4Ai8" style="display: inline-block; vertical-align: middle; margin: 5px;">
+		</div>
+		<script type="text/javascript">var __dcid = __dcid || [];__dcid.push(["DigiCertClickIDlfC4Ai8", "11", "s", "black", "_lfC4Ai8"]);(function(){var cid=document.createElement("script");cid.type="text/javascript";cid.async=true;cid.src=("https:" === document.location.protocol ? "https://" : "http://")+"seal.digicert.com/seals/cascade/seal.min.js";var s = document.getElementsByTagName("script");var ls = s[(s.length - 1)];ls.parentNode.insertBefore(cid, ls.nextSibling);}());</script><script type="text/javascript" async="" src="https://seal.digicert.com/seals/cascade/seal.min.js"></script>
+		<div id="DigiCertClickID_jsdqcE6b" style="display: inline-block; vertical-align: middle; margin: 5px;">
+		</div>
+		<script type="text/javascript">var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_jsdqcE6b", "8", "s", "black", "jsdqcE6b"]);(function(){var cid=document.createElement("script");cid.type="text/javascript";cid.async=true;cid.src=("https:" === document.location.protocol ? "https://" : "http://")+"seal.digicert.com/seals/cascade/seal.min.js";var s = document.getElementsByTagName("script");var ls = s[(s.length - 1)];ls.parentNode.insertBefore(cid, ls.nextSibling);}());</script><script type="text/javascript" async="" src="https://seal.digicert.com/seals/cascade/seal.min.js"></script>
+
 	</div>
     </div>
 </div>
@@ -207,11 +239,11 @@
 		<li><a href="http://www.digicert.com/apache-ssl-authentication.htm">Apache SSL</a></li>
 	</ul>
 </div>
-		<img id="d3header" src="http://edge1.digicert.com/CB66/images/d3/d3-header.png" width="978" height="111" usemap="#d3headermap">
+		<img id="d3header" src="http://edge1.digicert.com/CB4/images/d3/d3-header.png" width="978" height="111" usemap="#d3headermap">
 	<map name="d3headermap">
 		<area shape="rect" coords="18,13,248,69" href="http://www.digicert.com/" alt="DigiCert SSL Certificate Authentication - Home">
 		<area shape="rect" coords="664,42,844,69" href="mailto:support@digicert.com">
-	<area shape="rect" coords="851,42,940,69" href="#" onclick="window.open('https://chat.digicert.com/1/rRouter.asp?groupid=1&amp;websiteid=0&amp;departmentid=1&amp;dl='+escape(document.location.href),'','width=450,height=400');">
+	<area shape="rect" coords="851,42,940,69" href="#" onclick="window.open('https://chat.digicert.com/1/rRouter.asp?groupid=1&amp;websiteid=0&amp;departmentid=1&amp;dl='+escape(document.location.href)+'','','width=450,height=400');">
 	</map>
 
 		<div id="searchForm">
@@ -224,9 +256,52 @@
 			</div> 
 		</form> 
 	</div>
-
-	<p id="copyright">© 2003-2011 DigiCert® Inc • <i>SSL Certificate Authority</i> • All Rights Reserved</p>
+		<p id="copyright">© 2003-2011 DigiCert® Inc • <i>SSL Certificate Authority</i> • All Rights Reserved</p>
 	<p id="trademarks">All trademarks displayed on this web site are the exclusive property of the respective holders.</p>
+
+	
+</div><!-- end #mainContent -->
+
+<script type="text/javascript">
+  document.write('<scr'+'ipt type="text/javascript" src="' +                 
+                 document.location.protocol +
+                 '//munchkin.marketo.net/munchkin.js"><\/scr'+'ipt>');
+</script><script type="text/javascript" src="https://munchkin.marketo.net/munchkin.js"></script>
+<script>mktoMunchkin("825-WPK-761");</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1071719024;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "aDrRCProtAIQ8MSE_wM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1071719024/?label=aDrRCProtAIQ8MSE_wM&amp;guid=ON&amp;script=0"/>
 </div>
+</noscript>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1071719024;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "czWyCPLptAIQ8MSE_wM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1071719024/?label=czWyCPLptAIQ8MSE_wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
 
 </body></html>
