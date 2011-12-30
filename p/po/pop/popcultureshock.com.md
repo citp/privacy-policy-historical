@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popcultureshock.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630143954id_/http%3A//www.popcultureshock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popcultureshock.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230043558id_/http%3A//www.popcultureshock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PopCultureShock
 
@@ -26,8 +26,6 @@ We may from time to time provide information of a general nature to third partie
 **Third Party Advertising**
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and the ability to opt-out of 3rd party data collection, please visit: http://www.networkadvertising.org/managing/opt_out.asp. 
-
-Comments Off
 
   
 
