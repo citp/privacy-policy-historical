@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digicert.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525163610id_/http%3A//www.digicert.com/digicert-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digicert.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230121321id_/http%3A//www.digicert.com/digicert-privacy-policy.htm) for the most accurate reproduction.*
 
 # DigiCert SSL Certificate Authority | Security | Privacy Policy
 
@@ -64,7 +64,7 @@ DigiCert follows generally accepted industry standards to protect personal infor
 
 Safe Harbor
 
-DigiCert adheres to the EU-Swiss Safe Harbor Framework and the Privacy Principles of Notice, Choice, Onward Transfer, Access, Security, Data Integrity, and Enforcement and the Frequently Asked Questions issued by the U.S. Department of Commerce, see <http://www.export.gov/safeharbor/>, (the “Safe Harbor Principles”). DigiCert is subject to the jurisdiction of the Federal Trade Commission of the United States, and our failure to comply with this Privacy Policy or the Safe Harbor Principles is actionable under Section 5 of the Federal Trade Commission Act.
+DigiCert complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. DigiCert has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view DigiCert's certification, please visit <http://www.export.gov/safeharbor/>
 
 TRUSTe Licensee Statement
 
@@ -74,7 +74,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 Applicability
 
-This privacy policy is supplemental to any agreement that exists between a customer and DigiCert and does not alter any agreed upon terms. In case of a conflict, the terms agreed to by DigiCert and the customer take precedence over this privacy policy. In addition, this privacy policy does not apply to any downloadable software provided through DigiCert’s websites.
+This privacy policy is supplemental to any agreement that exists between a customer and DigiCert and does not alter any agreed upon terms. In case of a conflict, the terms agreed to by DigiCert and the customer take precedence over this privacy policy. In addition, this privacy policy does not apply to any downloadable software provided through DigiCert's websites.
 
 Third party sites may link to or from DigiCert websites. DigiCert is not responsible for the privacy practices or the content of those other websites.
 
