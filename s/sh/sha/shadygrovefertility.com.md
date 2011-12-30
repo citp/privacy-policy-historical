@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shadygrovefertility.com privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319060201id_/http%3A//www.shadygrovefertility.com/joint-notice-privacy-practices) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadygrovefertility.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230063934id_/http%3A//www.shadygrovefertility.com/privacy-policy) for the most accurate reproduction.*
 
-# Joint Notice of Privacy Practices | Shady Grove Fertility Center
+# Privacy Policy | Shady Grove Fertility Center
 
 Your privacy is important to Shady Grove Fertility Reproductive Center. Please read this Privacy Policy carefully. This Privacy Policy is subject to the [**Terms and Conditions**](https://web.archive.org/terms-and-conditions) posted on this Site and may be amended without notice. Any changes to this Privacy Policy will be effective immediately upon the posting of the revised Privacy Policy on this site. Site users are encouraged to periodically check this policy to see if any changes have been made that may affect them. By using the Shady Grove Fertility Center site, you agree to the terms of this Privacy Policy.
 
-Personal-identifying information is data that can be used to identify or contact you. Shady Grove Fertility Center collects only the personal-identifying information you provide to us through this Site, such as when you register as a member of the site, or when you use certain services provided by the Site, signing up to receive a newsletter, or applying for financing. All personal-identifying information, however collected, is used only by Shady Grove Fertility Center, for the sole purpose of supplying the services requested by the user, and is never disclosed to any third parties.
+Personal-identifying information is data that can be used to identify or contact you. Shady Grove Fertility Center collects only the personal-identifying information you provide to us through this Site, such as when you register as a member of the site, or when you use certain services provided by the Site, signing up to receive a newsletter, registering for an event, or applying for financing. All personal-identifying information, however collected, is used only by Shady Grove Fertility Center, for the sole purpose of supplying the services requested by the user, and is never disclosed to any third parties.
 
 Shady Grove Fertility Center reserves the right to disclose any personally identifying or non-personal identifying information if we are required to do so by law or if we reasonably believe that such action is necessary in order to: fulfill a government request, conform with the requirements of the law or to comply with legal process served on us; protect against misuse or unauthorized use of the Site; transfer to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting Shady Grove Fertility Center or this Site; protect or defend the legal rights or property of Shady Grove Fertility Center, this Site or its users; or, in an emergency, to protect the health and safety of this Site’s users or the general public.
 
@@ -32,3 +32,7 @@ Shady Grove Fertility Reproductive Science Center
 15001 Shady Grove Road, Suite 340  
 Rockville, MD 20850  
 (301) 340-1125
+
+Read our [Joint Notices of Privacy Practices](http://www.shadygrovefertility.com/sites/default/files/JointNoticeofPrivacyPractices_6_2011.pdf)
+
+_updated 9.7.11_
