@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimmyjazz.com privacy policy that was archived on 2010-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100728091705id_/http%3A//www.jimmyjazz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimmyjazz.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230092543id_/http%3A//www.jimmyjazz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jimmy Jazz Clothing & Shoes
 
