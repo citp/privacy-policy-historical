@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usinsuranceonline.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423220203id_/http%3A//www.usinsuranceonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usinsuranceonline.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230184146id_/http%3A//www.usinsuranceonline.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | UsInsuranceOnline.com
 
@@ -85,7 +85,7 @@ The use of cookies by our third-party partners or affiliates is not covered by t
 
 **Vendors and Suppliers.** We may provide personally identifiable information to or permit access to personally identifiable information by our subsidiaries, affiliated companies, vendors and service providers for the purpose of verifying data or where such access is incidental to their assisting us such as phone number verification services and email service providers. We expect that these parties will only process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
 
-**Protecting Our Legal Rights and Other's Rights.** We do not otherwise share personally identifiable information about website users with third parties unless we believe using or sharing such information is appropriate to carry out a user's request or if we have a good-faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce our [Terms and Conditions of Use](https://web.archive.org/web/20110423220203id_/http%3A//www.usinsuranceonline.com/terms.php), including investigation of potential violations thereof, (c) detect, prevent or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of the Company, its users or the public as required or permitted by law.
+**Protecting Our Legal Rights and Other's Rights.** We do not otherwise share personally identifiable information about website users with third parties unless we believe using or sharing such information is appropriate to carry out a user's request or if we have a good-faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce our [Terms and Conditions of Use](https://web.archive.org/web/20111230184146id_/http%3A//www.usinsuranceonline.com/terms.php), including investigation of potential violations thereof, (c) detect, prevent or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of the Company, its users or the public as required or permitted by law.
 
 We reserve the right to disclose your personally identifiable information as required by law or when we believe that disclosure is necessary to protect our rights and/or comply with a legal or judicial proceeding or court order.
 
@@ -127,4 +127,4 @@ We may occasionally update this Privacy Policy, and we expect that most such cha
 
 **CONTACTING US**
 
-If you have any questions, comments, or concerns about us or this Privacy Policy, please contact us by clicking the following link: [Information](mailto:information@allwebleads.com), by phone at (512) 279-3113, or by U.S. mail at 7801 N. Capital Texas Hwy., Austin, TX 78731 Attention: Customer Service.
+If you have any questions, comments, or concerns about us or this Privacy Policy, please contact us by clicking the following link: [Information](mailto:information@allwebleads.com), by phone at (512) 279-3113, or by U.S. mail at 7300 FM 2222, Bldg. 2, Suite 100, Austin, TX 78730Attention: Customer Service.
