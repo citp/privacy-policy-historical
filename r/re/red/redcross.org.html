@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the redcross.org privacy policy that was archived on 2011-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110630225810id_/http%3A//www.redcross.org/en/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the redcross.org privacy policy that was archived on 2011-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111230111235id_/http%3A//www.redcross.org/en/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
@@ -82,7 +82,7 @@
 		<!-- end of added for ARC specific styles -->
 
 		<!-- added for ARC javascript files -->
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
 		<script type="text/javascript" src="/files/site/scripts/swfobject.js"></script>
 		<script type="text/javascript" src="/files/site/scripts/core.js"></script>
@@ -91,16 +91,14 @@
 		<!-- end of added for ARC javascript files -->
 		<!-- start Google Analytics header -->
 		<script type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-		<script type="text/javascript">
-		try {
-		var pageTracker = _gat._getTracker("UA-869735-3");
-		pageTracker._setDomainName(".redcross.org");
-		pageTracker._trackPageview();
-		} catch(err) {}
-		</script>  
+		    try {
+		    var _gaq = _gaq || [];
+		    _gaq.push(['_setAccount', 'UA-869735-3']);
+		    _gaq.push(['_setDomainName', '.redcross.org']);
+		    _gaq.push(['_setAllowHash', false]);
+		    _gaq.push(['_trackPageview']);
+		    } catch(err) {}
+  		</script>
 		<!-- end Google Analytics header -->
 
 	</head>
@@ -157,15 +155,11 @@
                         field.value = field.defaultValue;
                 }
         }
-        function urlencode(str) {
-            return escape(str).replace(/\+/g,'%2B').replace(/%20/g, '+').replace(/\*/g, '%2A').replace(/\//g, '%2F').replace(/@/g, '%40');
-        }
         function validate(s) {
             if (s.value == 'Search' || s.value == '') {
                 window.alert('Please enter a search term.');
                 return false;
             }
-            s.value = urlencode(s.value);
             return true;
         }        
 </script>
@@ -188,8 +182,8 @@ if (typeof(usemovie)=='undefined')
 			</li>
 		</ul>
 <p class="header-donate">
-<a id="donation-sites" href="/en/otherdonationsites/" style="font-size: 13px; font-weight: bold; color: red; position: relative; bottom: 12px; margin-right: 24px;">Find an Official Cash Donation Site</a>   
-<a class="donate-button" href="/go/donateall/?s_src=RSG000000000&amp;s_subsrc=RCO_BigRedButton">
+<a id="donation-sites" href="/en/givehere/" style="font-size: 13px; font-weight: bold; color: red; position: relative; bottom: 12px; margin-right: 24px;" onclick="_gaq.push(['_trackEvent', 'Donate', 'Homepage', 'Take Challenge']);">Other Official Red Cross Donation Sites</a>   
+<a class="donate-button" href="/go/donateall/?s_src=RSG000000000&amp;s_subsrc=RCO_BigRedButton" onclick="_gaq.push(['_trackEvent', 'Donate', 'Homepage', 'Take Challenge']);">
 		<img src="/www-files/SiteComponents/site/images/header-donate-now.gif"></a></p>
 	</div>
 </div><!-- /#branding -->
@@ -216,12 +210,12 @@ if (typeof(usemovie)=='undefined')
 
 
 <div><div id="topbar">
-<div id="joinUs">&nbsp; &nbsp; <b><font style=" font-size: 14px;">Join Us</font></b> &nbsp; 
+<div id="joinUs">&nbsp; &nbsp; <span style=" font-size: 14px;"><b>Join Us</b></span> &nbsp; 
 
-<form action="/RCOWebApp/override/jsp/localCntntProcessor.jsp" method="post" onsubmit="return doSignup();" name="frmJoinUs"><input type="text" onfocus="clrTxt(this)" maxlength="255" name="email" size="35" value="Email" onblur="clrTxt(this)" id="cons_email">&nbsp; &nbsp; <input type="text" onfocus="clrTxt(this)" maxlength="5" name="zipcode" size="8" value="Zip Code" onblur="clrTxt(this)" id="cons_zip_code">&nbsp; &nbsp; <input type="hidden" name="frmJoinUsRedirPage" value="/en/" id="frmJoinUsRedirPage"><input type="hidden" name="showJoinUsThanks" value="1"><input type="submit" name="submitJoinUs" value="GO"></form>
+<form name="frmJoinUs" id="frmJoinUs" action="http://american.redcross.org/site/Survey" onsubmit="return doSignup();" target="_blank" method="post"><input onfocus="clrTxt(this)" name="cons_email" maxlength="255" id="cons_email" value="Email" type="text" onblur="clrTxt(this)" size="35">&nbsp; &nbsp; <input onfocus="clrTxt(this)" name="cons_zip_code" maxlength="5" id="cons_zip_code" value="Zip Code" type="text" onblur="clrTxt(this)" size="8">&nbsp; &nbsp; <input name="ACTION_SUBMIT_SURVEY_RESPONSE" id="ACTION_SUBMIT_SURVEY_RESPONSE" value="Submit" type="submit" class="button"><input name="SURVEY_ID" value="2780" id="SURVEY_ID" type="hidden"><input name="cons_info_component" value="t" id="cons_info_component" type="hidden"></form>
 </div>
 
-<div id="thanksJoinUs">&nbsp; &nbsp; <font style=" font-size: 14px;"><b>Thank you!</b></font></div>
+<div style=" display: none;" id="joinUs_thankYou">&nbsp; &nbsp; <span style=" font-size: 14px;"><b>Thank you!</b></span></div>
 
 <div id="biomed-a">
 <ul>
@@ -473,6 +467,12 @@ if (typeof(usemovie)=='undefined')
 
 
 			            
+
+								                  <li><a href="/portal/site/en/menuitem.86f46a12f382290517a8f210b80f78a0/?vgnextoid=fcad844952723310VgnVCM10000089f0870aRCRD&amp;vgnextfmt=default">Using the Red Cross Brand</a></li>
+
+
+
+					
 
 								                  <li><a href="/portal/site/en/menuitem.d8aaecf214c576bf971e4cfe43181aa0/?vgnextoid=33261a53f1c37110VgnVCM1000003481a10aRCRD&amp;vgnextfmt=default">Corporate and Foundation Supporters</a></li>
 
@@ -801,71 +801,69 @@ if (typeof(usemovie)=='undefined')
                        
                        <h1><div style="line-height:.1em;">&nbsp;</div></h1>
                    </div>
-                   <p></p><p><img src="/www-files/Images/other/privpol.gif" alt="Internet Site Privacy Policy" id="nothing~~" height="35px" width="306px"></p>
+                   <p></p><p><img src="/www-files/Images/other/privpol.gif" height="35px" id="nothing~~" alt="Internet Site Privacy Policy" width="306px"></p>
 
 <p><strong>Our Commitment to Privacy</strong></p>
 
-<p>The American Red Cross respects the privacy of every visitor to our web site.&nbsp; Your privacy is a priority, and we go to great lengths to protect it.&nbsp; This Internet Site Privacy Policy explains our online information practices.&nbsp; This Policy may be changed or updated from time to time.&nbsp; By visiting the American Red Cross at <a href="http://www.redcross.org/">www.redcross.org</a>, you accept the practices described in this Policy.</p>
+<p>The American Red Cross respects the privacy of every visitor to our website. Your privacy is a priority, and we go to great lengths to protect it. This Internet Site Privacy Policy explains our online information practices. This Policy may be changed or updated from time to time. By visiting the Red Cross at <a href="http://www.redcross.org/">www.redcross.org</a>, you accept the practices described in this Policy.</p>
 
 <p><strong>Data Collection</strong></p>
 
-<p>Through our web site, we offer convenient online access to our services and communicate with you about important opportunities and events.&nbsp; We will not collect personal information from you when you visit our web site unless you provide the information to us voluntarily and knowingly.&nbsp; &nbsp;&nbsp;</p>
+<p>Through our website, we offer convenient online access to our services and communicate with you about important opportunities and events. We will not collect personal information from you when you visit our website unless you provide the information to us voluntarily and knowingly.</p>
 
 <ul class="hplist">
-<li><strong>Registering for a class or special event:</strong> When you register online for a class or special event, we may ask for your name and contact information.&nbsp; Depending upon the activity, we may also collect payment information (such as standard credit card data) and date of birth.</li>
+<li><strong>Registering for a class or special event:</strong> When you register online for a class or special event, we may ask for your name and contact information. Depending upon the activity, we may also collect payment information (such as standard credit card data) and date of birth.</li>
 
-<li><strong>Applying to work at the American Red Cross as a volunteer or employee:</strong> When you apply online to be an American Red Cross volunteer, we will ask you for your name, contact information, and date of birth.&nbsp; We may ask for other data as well, depending on the volunteer activity.&nbsp; When you apply to be a Red Cross employee, we ask for a variety of types of data that are typical for employment applications, and we may ask for your resume.</li>
+<li><strong>Applying to work at the American Red Cross as a volunteer or employee:</strong> When you apply online to be a Red Cross volunteer, we will ask you for your name, contact information and date of birth. We may ask for other data as well, depending on the volunteer activity. When you apply to be a Red Cross employee, we ask for a variety of types of data that are typical for employment applications, and we may ask for your résumé.</li>
 
 <li><strong>Making an appointment to donate blood:</strong> When you make an online appointment to donate blood, we will ask for your name, contact information, date of birth and blood type.</li>
 
-<li><strong>Making a financial contribution:</strong> When you make a financial contribution online, we collect your name, contact information, and standard credit card data.</li>
+<li><strong>Making a financial contribution:</strong> When you make a financial contribution online, we collect your name, contact information and standard credit card data.</li>
 </ul>
 
 <p><strong>How We Use Cookies</strong></p>
 
-<p>We send “cookies” to your computer and use other technologies to enhance your online experience. A “cookie” can be either permanent (i.e., it remains on your computer until you delete it) or temporary (i.e., it lasts only until you close your browser). A “cookie” is a small text file that helps us recognize repeat visitors, facilitate the visitor’s ongoing access to and use of the site, and track usage behavior and compile aggregate data that can lead to web site improvements. If you do not want information collected through the use of cookies, you can deny or accept the cookie feature using a simple procedure available in most browsers. If you block cookies, however, you may lose some website functionality.</p>
+<p>We send “cookies” to your computer and use other technologies to enhance your online experience. A “cookie” can be either permanent (i.e., it remains on your computer until you delete it) or temporary (i.e., it lasts only until you close your browser). A “cookie” is a small text file that helps us recognize repeat visitors, facilitate the visitor’s ongoing access to and use of the site, and track usage behavior and compile aggregate data that can lead to website improvements. If you do not want information collected through the use of cookies, you can deny or accept the cookie feature using a simple procedure available in most browsers. If you block cookies, however, you may lose some website functionality.</p>
 
 <p><strong>Is My Credit Card Information Secure?</strong></p>
 
-<p>We use a variety of safeguards to protect the security of your credit card transactions.&nbsp; We use technologies and processes such as encryption, access controls, network firewalls, physical security and other measures.&nbsp; These measures make it extremely difficult for anyone to intercept the credit card information you send to us.&nbsp; When we work with other companies to process credit card transactions, those companies also use encryption and other security measures.&nbsp;</p>
-
-<p>You can make financial contributions online, by mail, by calling 1-800-HELP-NOW, or by contacting <a href="http://www.redcross.org/where">your local American Red Cross chapter</a>.&nbsp;</p>
+<p>We use a variety of safeguards to protect the security of your credit card transactions. We use technologies and processes such as encryption, access controls, network firewalls, physical security and other measures. These measures make it extremely difficult for anyone to intercept the credit card information you send to us. When we work with other companies to process credit card transactions, those companies also use encryption and other security measures.<br>
+You can make financial contributions online, by mail, by calling 1-800-HELP-NOW, or by contacting <a href="http://www.redcross.org/where">your local Red Cross chapter</a>.</p>
 
 <p><strong>Is My Personal Information Secure?</strong></p>
 
-<p>We use the same security measures and industry-standard security protocols for online scheduling of blood donations as we do for credit card transactions. &nbsp;</p>
-
-<p>You can also schedule a blood donation by calling 1-800-GIVE-LIFE or contacting your local American Red Cross Blood Services Region.</p>
+<p>We use the same security measures and industry-standard security protocols for online scheduling of blood donations as we do for credit card transactions. &nbsp;<br>
+You can also schedule a blood donation by calling 1-800-GIVE-LIFE or contacting your local Red Cross Blood Services Region.</p>
 
 <p><strong>How We Use Your Information</strong></p>
 
-<p>If you provide the American Red Cross with personal information when you visit our web site, we may use the information in our programs and activities.&nbsp; We may enter your name into one of our databases so we can contact you to obtain your input, provide information about our programs and events, or request contributions.&nbsp;</p>
+<p>The American Red Cross will not sell, trade, or share personal information about our financial donors with anyone else, nor will we send mailings to our financial donors on behalf of other organizations, unless a donor has given us specific permission to do so.</p>
 
-<p>The American Red Cross may share financial donor postal mailing lists with other non-profits.&nbsp; If you are a Red Cross financial donor and you would like us to withhold your mailing information from such list exchanges, please contact us by completing <a href="http://www.redcross.org/contactusdonor">this form</a>.&nbsp; Donor e-mail addresses are not included in the list exchanges.</p>
+<p>If you provide the Red Cross with personal information when you visit our website, we may use the information in our programs and activities. We may enter your name into one of our databases so we can contact you to obtain your input, provide information about our programs and events, or request contributions.</p>
 
-<p>On occasion, the American Red Cross may share information about you with vendors and service providers who assist us with our activities and programs.&nbsp; These vendors and service providers help us with functions such as fulfilling orders, managing data, and processing donations.&nbsp; In addition, we make disclosures as required by law.</p>
+<p>On occasion, the Red Cross may share information about you with vendors and service providers that assist us with our activities and programs. These vendors and service providers help us with functions such as fulfilling orders, managing data and processing donations. In addition, we make disclosures as required by law.</p>
 
-<p><strong>We Care About Doing It Right</strong></p>
+<p><strong>We Care About Doing it Right</strong></p>
 
-<p>The American Red Cross is committed to accuracy and precision in processing your contribution information.&nbsp; We employ a variety of error checking procedures, and our systems are subject to independent external and internal audits to ensure the privacy, security and accurate processing of your information.</p>
+<p>The American Red Cross is committed to accuracy and precision in processing your contribution information. We employ a variety of error-checking procedures, and our systems are subject to independent external and internal audits to ensure the privacy, security and accurate processing of your information.</p>
 
 <p>If you need to contact us to review your information or make corrections, please use <a href="http://www.redcross.org/contactusdonor">this form</a>.</p>
 
-<p><strong>Note to Parents on our Privacy Policy</strong></p>
+<p><strong>Note to Parents on Our Privacy Policy</strong></p>
 
-<p>The American Red Cross welcomes children to learn more about our organization and, where appropriate, find opportunities to serve their communities through American Red Cross training programs and volunteer activities.&nbsp; However, we encourage children to do this only with their parent’s knowledge and supervision.&nbsp; For this reason, the American Red Cross follows the guidelines for interactive electronic media published by the Children’s Advertising Review Unit of the Better Business Bureau.</p>
+<p>The American Red Cross welcomes children to learn more about our organization and, where appropriate, find opportunities to serve their communities through Red Cross training programs and volunteer activities. However, we encourage children to do this only with their parents’ knowledge and supervision. For this reason, the Red Cross follows the guidelines for interactive electronic media published by the Children’s Advertising Review Unit of the Better Business Bureau.</p>
 
 <p><strong>Questions</strong></p>
 
-<p>If you have questions about this Privacy Policy, you may send us an e-mail at <a href="mailto:PrivacyOfficer@usa.redcross.org">PrivacyOfficer@usa.redcross.org</a> or write to</p>
+<p>If you have questions about this Privacy Policy, you may send us an email at <a href="mailto:PrivacyOfficer@usa.redcross.org">PrivacyOfficer@usa.redcross.org</a> or write to—</p>
 
 <p>American Red Cross<br>
 Office of the General Counsel<br>
 2025 E Street NW<br>
-Washington D.C.&nbsp; 20006<br>
+Washington D.C. 20006<br>
 Attention: Privacy Officer</p>
 
-<p>Revised April 2010</p><p></p>
+<p>Revised September 2011</p><p></p>
                    
 										<!-- AddThis Button BEGIN -->
 										<br>
@@ -956,7 +954,7 @@ Attention: Privacy Officer</p>
 			<p>Get local content and learn how we help in your community.</p>
 			<div>
 				<input type="text" name="zipcode" id="zipcode" class="txt" value="">
-				<input type="hidden" id="redirPage" name="redirPage" size="200" value="https://web.archive.org/web/20110630225810id_/http://www.redcross.org/en/privacy/">
+				<input type="hidden" id="redirPage" name="redirPage" size="200" value="https://web.archive.org/web/20111230111235id_/http://www.redcross.org/en/privacy/">
 				<input type="submit" class="btn" value="GO">
 				<script language="JavaScript" type="text/javascript">
 				<!--
@@ -1049,35 +1047,16 @@ Host a Blood Drive, and more...</p>
 	</ul>
 </div>
 <!-- begin google analytics -->
-	<script type="text/javascript">
-	function addtrackerlistener(obj) {
-	  if (obj.addEventListener) {
-	   obj.addEventListener('click', trackfiles, true);
-	  } else if (obj.attachEvent) {
-	   obj.attachEvent("on" + 'click', trackfiles);
-	  }
-	 }
-	function trackfiles(array_element) {
-	 file_path = "";
-	 if (this.hostname.indexOf('redcross') < 0){
-	  file_path = "/exlinks/" + ((array_element.srcElement) ? "/" + array_element.srcElement.hostname : this.hostname);
-	  }
-	  file_path = file_path + ((array_element.srcElement) ? "/" + array_element.srcElement.pathname : this.pathname);pageTracker._trackPageview(file_path);
-	  }
-	  var hrefs = document.getElementsByTagName('a');
-	  var link_path = "";
-	  for (var l = 0; l < hrefs.length; l++) {
-	   try {var link_path = hrefs[l].pathname;
-	   if ((location.host == hrefs[l].hostname) || (hrefs[l].hostname == '')) {
-	    if (link_path.match(/\.(doc|pdf|xls|ppt|zip|txt|vsd|vxd|js|css|rar|exe|wma|mov|avi|wmv|mp3)$/)) {addtrackerlistener(hrefs[l]);
-	     }
-	     }
-	     else {addtrackerlistener(hrefs[l]);
-	     }
-	     }
-	     catch(err) {}}
-	</script>
+<script type="text/javascript">  (function() {
+    var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = 'async';
+    ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+   </script>
 <!-- end google analytics -->
+
+
+
 			<!-- end footer area -->
 
 		</div><!-- /#doc -->
@@ -1087,5 +1066,5 @@ Host a Blood Drive, and more...</p>
 
 
 
-<!--26-->
+<!--25-->
 </body></html>
