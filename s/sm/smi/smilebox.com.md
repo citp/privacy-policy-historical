@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smilebox.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623040028id_/http%3A//smilebox.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smilebox.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230074113id_/http%3A//www.smilebox.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,4 +42,4 @@ We respect the privacy of parents and children and are committed to complying wi
 
 ## Contacting Smilebox, Inc.
 
-If, for any reason, you are concerned with the way that we may be using your personal information, you would like to request that we cease using your personal information altogether, or you wish to file a complaint, you may contact Smilebox, Inc. at 15809 Bear Creek Pkwy, Redmond, WA 98052. You may also contact us via our webpage.
+If, for any reason, you are concerned with the way that we may be using your personal information, you would like to request that we cease using your personal information altogether, or you wish to file a complaint, you may contact Smilebox, Inc. at 15809 Bear Creek Pkwy, Redmond, WA 98052. You may also contact us via email (Bob in Customer Support at [support@smilebox.com](mailto:support@smilebox.com)) or our webpage.
