@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinationmaternity.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831131017id_/http%3A//www.destinationmaternity.com/RetailSitesPrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationmaternity.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230103430id_/http%3A//www.destinationmaternity.com/RetailSitesPrivacyPolicy.asp) for the most accurate reproduction.*
 
 # destinationmaternity.com Privacy Policy
 
@@ -15,7 +15,7 @@ We believe that your privacy is of the utmost importance, which is why this stat
 
 By using our web site, you consent to the collection and use of information as set forth in this privacy policy, and to our right to amend this privacy policy. All revisions made to this privacy policy will be posted on this page.
 
-**This Privacy Policy applies only to the retail and e-commerce web sites operated by Destination Maternity Corporation. and its affiliates, which include, without limitation,[www.apeainthepod.com](http://www.apeainthepod.com/);  [www.motherhood.com](http://www.motherhood.com/); [www.motherhoodnursing.com](http://www.motherhoodnursing.com/); [www.destinationmaternity.com](http://www.destinationmaternity.com/); and/or [www.edamamespa.com](http://www.edamamespa.com/) (the "Retail Web Sites"). **
+**This Privacy Policy applies only to the retail and e-commerce web sites operated by Destination Maternity Corporation. and its affiliates, which include, without limitation,[www.apeainthepod.com](http://www.apeainthepod.com/);  [www.motherhood.com](http://www.motherhood.com/); [www.motherhoodnursing.com](http://www.motherhoodnursing.com/); [www.destinationmaternity.com](http://www.destinationmaternity.com/); [m.destinationmaternity.com](http://m.destinationmaternity.com/);  and/or [www.edamamespa.com](http://www.edamamespa.com/) (the "Retail Web Sites"). **
 
 **For the Privacy Policy that applies to our corporate informational web site (www.destinationmaternitycorporation.com), please click[here](http://www.destinationmaternitycorporation.com/CorporatePrivacyPolicy2007.asp).**
 
