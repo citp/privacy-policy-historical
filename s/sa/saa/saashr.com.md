@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the saashr.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502033131id_/http%3A//www.saashr.com/shr/inside.jsp%3Ftype%3Dresources%26type2%3Dprivacypolicy%26page%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saashr.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230055947id_/http%3A//www.saashr.com/shr2/inside.jsp%3Fpage%3DPrivacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | SaaShr.com
+
+## Privacy Policy
 
 Effective Date: 03/16/2011 
 
 [ ](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.saashr.com/seal_m "Validate TRUSTe privacy certification")
 
-Data privacy is very important to SaaS _hr_.com SaaS _hr_.com website visitors are invited to review this web document to learn about SaaS _hr_.com's information gathering and disbursement policy for SaaS _hr_.com with regard to this website. 
+Data privacy is very important to SaaS _hr_.com. Website visitors are invited to review this web document to learn about SaaS _hr_.com's information gathering and disbursement policy for SaaS _hr_.com with regard to this website. 
 
 SaaS _hr_.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and its practices have been reviewed by TRUSTe for compliance with 
 
@@ -84,10 +86,10 @@ SaaS _hr_.com posts customer testimonials on the SaaS _hr_.com website, which ma
 
 ## Changes in this Privacy Statement
 
-SaaS _hr_.com may update this privacy statement to reflect changes to its information practices. If SaaS _hr_.com makes any material changes, it will notify its partners and their end-user client companies, where applicable, by email (sent to the e-mail address specified in users' accounts) or by means of a notice on SaaS _hr_.com's website prior to the change becoming effective. SaaS _hr_.com encourages all users to periodically review this page for the latest information on SaaS _hr_.com's privacy practices. 
+SaaS _hr_.com may update this privacy statement to reflect changes to its information practices. If SaaS _hr_.com makes any material changes, it will notify its partners and their end-user client companies, where applicable, by email (sent to the e-mail address specified in users' accounts) or by means of a notice on SaaS _hr_.com's website prior to the change becoming effective. SaaS _hr_.com encourages all users to periodically review this page for the latest information on SaaS _hr_.com's privacy practices.
 
 ## Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at: info@SaaShr.com or by writing to SaaS _hr_.com, Re: Privacy Policy, 3040 Route 22 West, Suite 200, Branchburg, NJ 08876. 
+If you have any questions or suggestions regarding our privacy policy, please contact us at: [info@SaaShr.com](mailto:info@saashr.com) or by writing to SaaS _hr_.com, Re: Privacy Policy, 3040 Route 22 West, Suite 200, Branchburg, NJ 08876. 
 
 [ ](http://privacy-policy.truste.com/click-with-confidence/wps/en/www.saashr.com/seal_m "TRUSTe online privacy certification")[ ](http://privacy-policy.truste.com/click-with-confidence/wps/en/www.saashr.com/seal_m "TRUSTe online privacy certification")
