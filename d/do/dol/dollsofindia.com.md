@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollsofindia.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630014644id_/http%3A//dollsofindia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollsofindia.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230110711id_/http%3A//www.dollsofindia.com/privacy.php) for the most accurate reproduction.*
 
 # Indian Art Store : Privacy Policy
 
@@ -58,22 +58,22 @@ INDIA**
 
 [Click here](http://www.dollsofindia.com/library/) **for list of archives**
 
-[](http://www.dollsofindia.com/ardhanarishvara-symbolism.htm)
+[](http://www.dollsofindia.com/swaminarayan.htm)
 
-Ardhanarishvara is a composite androgynous form of Shiva and his consort Parvati. This form is shown as a fusion of half-male and half-female forms, split down in the center... The very name Ardhanarishvara implies "the Lord who is half-woman"... The deity symbolizes the optimal balance of the male and female energies in this world and also indicates that they are essentially inseparable forces, which are complimentary to each other and must work together to maintain equilibrium...
+Swaminarayan is considered as being equal to the Purushottama or the Supreme Being... Swaminarayan had exhibited his scholastic prowess from a very young age. He is believed to have mastered all the major Hindu scriptures...by the tender age of seven... Swaminarayan believed in a practical approach to religion and spirituality... After taking over the leadership of the Sampraday, Sri Swaminarayan involved himself in a lot of social work... Sri Swaminarayan was indeed an Avatar Purush of his time, one that richly deserves all the respect, devotion and adoration showered on him...
 
   
 
 
 ## Testimonials
 
-I came across your site recently and thought it was excellent. You have tried to incorporate all the aspects of Goddess Durga which deserves special praise.
+ur site is fabulous.informative.
 
-Poulami Kundu
+Ritu
 
-Your website was easy to navigate and easy to place an order on. Thanks.
+I have enjoyed your paintings very much and with reasonable prices.
 
-Alice Hanchosky 
+Isabel Iglesias 
 
   
 
@@ -86,7 +86,7 @@ Alice Hanchosky
 
 [](http://www.dollsofindia.com/writetous.php)
 
-#### [Random Art Pages](http://www.dollsofindia.com/allpages.htm): [Batik Paintings](http://www.dollsofindia.com/read/batik-paintings.htm) - [Sholapith Sculptures](http://www.dollsofindia.com/read/sholapithsculptures.htm) - [Ethnic Doll](http://www.dollsofindia.com/read/ethnic-doll.htm) - [Lord Krishna](http://www.dollsofindia.com/read/lord-krishna.htm) - [Krishna Pictures](http://www.dollsofindia.com/read/krishna-pictures.htm) - [Indian Dolls](http://www.dollsofindia.com/read/indiandolls.htm) - [Devi Books](http://www.dollsofindia.com/read/devi-books.htm) - [Camel Bone Jewelry](http://www.dollsofindia.com/read/camel-bone-jewelry.htm) - [Parvati Sculpture](http://www.dollsofindia.com/read/parvati-sculpture.htm) - [Radha Krishna Picture](http://www.dollsofindia.com/read/radha-krishna-picture.htm) 
+#### [Random Art Pages](http://www.dollsofindia.com/allpages.htm): [Shiva Posters](http://www.dollsofindia.com/read/shiva-posters.htm) - [Sholapith Sculptures](http://www.dollsofindia.com/read/shola-pith-sculptures.htm) - [Indian Ivory Statues](http://www.dollsofindia.com/read/indianivorystatues.htm) - [Saraswati](http://www.dollsofindia.com/read/saraswati.htm) - [Murlidhar](http://www.dollsofindia.com/read/murlidhar.htm) - [Hinduism Books](http://www.dollsofindia.com/read/hinduism-books.htm) - [Bal Gopala Statue](http://www.dollsofindia.com/read/bal-gopala-statue.htm) - [Swastika](http://www.dollsofindia.com/read/swastika.htm) - [Brass Buddha](http://www.dollsofindia.com/read/brass-buddha.htm) - [Gents Kurta](http://www.dollsofindia.com/read/gents-kurta.htm) 
 
   
 **Copyright © 2011,[Dolls Of India](http://www.dollsofindia.com/)  
