@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the launchtree.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112190414id_/http%3A//course.launchtree.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the launchtree.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230133905id_/http%3A//course.launchtree.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy : Launch Tree | Earn an extra 456% with just a few tweaks to your next offer
 
