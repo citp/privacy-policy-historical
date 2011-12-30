@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobie.in privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529094115id_/http%3A//xtgem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobie.in privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230170038id_/http%3A//xtgem.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - XtGem.com — Visual mobile site building tool / wap creator
+# Privacy Policy - XtGem.com — Visual mobile site building tool
 
 XTGEM Service Provider aims to ensure the protection of XTGEM website visitors’ and service users’ privacy. This privacy policy is applied only to XTGEM website.
 
