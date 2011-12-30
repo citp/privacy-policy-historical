@@ -1,33 +1,6 @@
-> *The following text is extracted and transformed from the scriptlance.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422162908id_/http%3A//www.scriptlance.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scriptlance.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230044348id_/http%3A//www.scriptlance.com/support/privacy) for the most accurate reproduction.*
 
-# ScriptLance.com Custom Freelance Programming. Outsource web projects to programmers and designers.
-
-| |    THE 20 LATEST PROJECTS  
----|---  
-[Duplicate Html Pages And Ed...](http://www.scriptlance.com/projects/1303489019.shtml "Duplicate Html Pages And Edit Content 2")  
----  
-[Essay 2000 Words](http://www.scriptlance.com/projects/1303488980.shtml)  
-[Easy Job -get The Keywords ...](http://www.scriptlance.com/projects/1303488737.shtml "Easy Job -get The Keywords From The Webpages For Meta Tags 3")  
-[Copy Flash Template Website...](http://www.scriptlance.com/projects/1303488623.shtml "Copy Flash Template Website With Cms")  
-[Project For Alive Hope Aliv...](http://www.scriptlance.com/projects/1303488607.shtml "Project For Alive Hope Alivehope12")  
-[Real Estate](http://www.scriptlance.com/projects/1303488331.shtml)  
-[Build Website With Sales La...](http://www.scriptlance.com/projects/1303488192.shtml "Build Website With Sales Landing Page")  
-[Wordpress Thematic Framwork](http://www.scriptlance.com/projects/1303487853.shtml)  
-[Data Collection](http://www.scriptlance.com/projects/1303486905.shtml)  
-[Ten Articles Needed](http://www.scriptlance.com/projects/1303486897.shtml)  
-[Link Building](http://www.scriptlance.com/projects/1303486787.shtml)  
-[Script](http://www.scriptlance.com/projects/1303486601.shtml)  
-[Need New Header File With L...](http://www.scriptlance.com/projects/1303486049.shtml "Need New Header File With Logo And More..")  
-[Project For Muhammad Umer340](http://www.scriptlance.com/projects/1303485445.shtml)  
-[Oscommerce Fixes](http://www.scriptlance.com/projects/1303485074.shtml)  
-[Write Product Reviews](http://www.scriptlance.com/projects/1303484406.shtml)  
-[My Website Development](http://www.scriptlance.com/projects/1303483387.shtml)  
-[Copy Cached Content From Go...](http://www.scriptlance.com/projects/1303482422.shtml "Copy Cached Content From Google")  
-[Clone A Website](http://www.scriptlance.com/projects/1303482399.shtml)  
-[Opencart - 2 Projects](http://www.scriptlance.com/projects/1303481991.shtml)  
-|    POPULAR NEW PROJECTS  
----|---  
-| 
+# ScriptLance Privacy Policy
 
 ##  Privacy Statement for ScriptLance.com 
 
@@ -55,6 +28,4 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 ##  Contacting the Web Site 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.r3n3.com/contact.html). 
-
-| 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.scriptlance.com/about). 
