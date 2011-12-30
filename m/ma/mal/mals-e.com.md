@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mals-e.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206031821id_/http%3A//mals-e.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mals-e.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230233029id_/http%3A//www.mals-e.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
