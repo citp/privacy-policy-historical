@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalsports.com privacy policy that was archived on 2011-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110121202808id_/http%3A//digitalsports.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalsports.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230123233id_/http%3A//digitalsports.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # High School Sports, Youth Athletics, Leagues and Activities - Digital Sports | Privacy Policy
 
