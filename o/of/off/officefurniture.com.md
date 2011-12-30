@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officefurniture.com privacy policy that was archived on 2011-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110131084013id_/http%3A//www.officefurniture.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officefurniture.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230033002id_/http%3A//www.officefurniture.com/Privacy.aspx) for the most accurate reproduction.*
 
 # OfficeFurniture.com Privacy Policy
 
