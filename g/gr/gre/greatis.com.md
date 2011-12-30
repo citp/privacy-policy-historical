@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatis.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125053444id_/http%3A//greatis.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatis.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230232935id_/http%3A//greatis.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Greatis Software
 
@@ -6,7 +6,7 @@
 
 Privacy Policy
 
-**This statement describes the privacy practices we use for our website, transaction of information via E-mail and distribution of our customer list. We reserve the right to change this policy at any time. If you have any questions about our privacy practices, please feel free to[contact us](https://web.archive.org/web/20101125053444id_/http%3A//greatis.com/contacts.html). **
+**This statement describes the privacy practices we use for our website, transaction of information via E-mail and distribution of our customer list. We reserve the right to change this policy at any time. If you have any questions about our privacy practices, please feel free to[contact us](https://web.archive.org/web/20111230232935id_/http%3A//greatis.com/contacts.html). **
 
 **In General**  
 In cases where we do keep information about visitors to our site and the E-mail addresses of people who write to us, we store it in our off-line secure computing environment, not on the web. We store this information, but we DON'T sell it or release it to third parties.
@@ -33,4 +33,8 @@ Our customer list is internally used by our company, [Greatis Software](http://w
 
 * * *
 
-[](http://www.greatis.com/dotnet/printsuite/) [**Print Suite .Net**](http://www.greatis.com/dotnet/printsuite/)  is a complete solution for printing text, images and grids from within you WinForms .Net applications. Included document designer allows creating complex documents from simple ready-to-use context providers without manual coding.  | 
+[](http://www.greatis.com/dotnet/printsuite/) [**Print Suite .Net**](http://www.greatis.com/dotnet/printsuite/)  is a complete solution for printing text, images and grids from within you WinForms .Net applications. Included document designer allows creating complex documents from simple ready-to-use context providers without manual coding. 
+
+* * *
+
+[](http://www.greatis.com/dotnet/gradient/) [**Gradient Controls .Net**](http://www.greatis.com/dotnet/gradient/)  offers controls with gradient background feature. Decorate your .Net forms without manual coding.  | 
