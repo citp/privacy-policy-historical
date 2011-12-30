@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magneticone.com privacy policy that was archived on 2011-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110206161904id_/http%3A//www.magneticone.com/store/page_info.php%3Fpages_id%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magneticone.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230141234id_/http%3A//www.magneticone.com/store/page_info.php%3Fpages_id%3D18) for the most accurate reproduction.*
 
-# Privacy Policy
+# osCommerce modules, X-Cart modules, CRE Loaded modules, Zen Cart modules
 
 (last updated December 2010)
 
