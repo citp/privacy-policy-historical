@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impactfactory.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519124950id_/http%3A//www.impactfactory.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impactfactory.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230055203id_/http%3A//www.impactfactory.com/privacy.shtml) for the most accurate reproduction.*
 
 # Impact Factory - Communication training - our privacy policy
 
@@ -6,7 +6,7 @@
 
 This is the website of Impact Factory. Our postal address is 121 Business Design Centre, 52 Upper Street, Islington, London 
 
-We can be reached via e-mail at enquiries@impactfactory.com or you can reach us by telephone at 020 7226 1877. 
+We can be reached via e-mail at enquiries@impactfactory.com or you can reach us by telephone at +44 (0)20 7226 1877. 
 
 ### Data Protection Act 
 
@@ -18,11 +18,11 @@ Our Web server recognises no personal information. We collect the domain name, b
 
 ### Cookies
 
-Most areas of our site do not set any cookies. We do use temporary cookies if you book an open course online. This is to store your course choices, providing 'shopping cart' functionality while making your booking. We use PayPal for the paid versions of our Factory Gate articles, and PayPal may use cookies to identify your purchases. This is outside our control. We also display ads from Amazon and Google who may also use cookies to track visitors. This is also beyond our control. 
+Most areas of our site do not set any cookies. We do use temporary cookies if you book an open course online. This is to store your course choices, providing 'shopping cart' functionality while making your booking. We also display ads from Amazon and Google who may also use cookies to track visitors. This is also beyond our control. 
 
 ### Contact
 
-We collect the e-mail addresses of those who communicate with us via e-mail. If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at the above address, calling us at the above telephone number, or writing to us at the above address, or if you wish to unsubscribe from an email newslettter, by visiting /new.shtml. 
+We collect the e-mail addresses of those who communicate with us via e-mail. If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at the above address or by calling us at the above telephone number.
 
 Visitors who supply us with their telephone numbers on-line will only receive telephone contact from us with information directly relevant to their enquiry. If you do not wish to be contacted, please let us know. 
 
