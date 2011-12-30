@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howismysite.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501071642id_/http%3A//howismysite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howismysite.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230055339id_/http%3A//howismysite.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - How Is My Site?
 
