@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myxertones.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502023418id_/http%3A//www.myxer.com/privacy/%3Floc%3Df) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myxertones.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230110630id_/http%3A//www.myxer.com/privacy/%3Floc%3Df) for the most accurate reproduction.*
 
 # Myxer - Privacy Policy
 
@@ -29,7 +29,7 @@ We will not sell, rent or otherwise distribute your personal information to thir
 
 Myxer uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-Google is one of the third-pary advertising companies used to serve ads on our site. Google's use of the DART cookie enables it to serve ads to users based on their visits to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+Google is one of the third-party advertising companies used to serve ads on our site. Google's use of the DART cookie enables it to serve ads to users based on their visits to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 ## HOW DO WE USE YOUR PERSONAL INFORMATION?
 
@@ -56,11 +56,13 @@ Myxer does not knowingly collect or maintain personally identifiable information
 
 ## WHEN AND HOW DO WE SHARE YOUR INFORMATION WITH THIRD PARTIES?
 
-Myxer does not sell, rent, or share your personal information to anyone unless you consent to provide such information. Myxer may disclose relevant information about our customers to our contractors (e.g. a customer service contractor or a credit card clearing service) in order for them to provide specific services for Myxer, and to better serve our customers. Myxer's contractors are bound by strict contractual requirements to keep all personal information they process strictly confidential and to use such information solely on behalf of Myxer. Also, Myxer may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to:
+Myxer may disclose relevant information about our customers to our contractors (e.g. a customer service contractor or a credit card clearing service) in order for them to provide specific services for Myxer, and to better serve our customers. Myxer's contractors are bound by strict contractual requirements to keep all personal information they process strictly confidential and to use such information solely on behalf of Myxer. Also, Myxer may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to:
 
 (a) conform to the edicts of the law or comply with legal process served on Myxer;  
 (b) protect and defend the rights or property of Myxer and its products; or   
 (c) act in urgent circumstances to protect the personal safety of users of Myxer products or the public at large.
+
+Myxer also may use and share non-personally identifiable information, such as general demographic or location information, mobile phone make or model, wireless carrier information, content preferences and content consumption data, or information about the computer or device from which you access the Service. The use and disclosure of such information is not subject to any restrictions under this Privacy Policy. Myxer may share this information with its advertising and business partners in order to provide you with targeted advertisements and other offers which may interest you. Myxer may also enable these advertisers or business partners to ask you for personal information, with your consent, for the purpose of offering you access to their products or services.
 
 The Myxer websites and products may contain links to other websites and products. Myxer is not responsible for the privacy practices or the content of such websites or products. Please visit the privacy policies of these sites in order to understand their privacy policies and data collection practices. 
 
@@ -75,4 +77,4 @@ We customarily release alpha and beta versions of our products, which are furthe
 If you have questions about the privacy aspects of our products or services or would like to make a complaint, please contact: [support@myxer.com](mailto:support@myxer.com)
 
 NOTE: mVisible®, Myxer®, MyxerTones®, MyxerTags™, MyxerCodes™, and MyxerPix™ are trademarks of Myxer Inc.  
-Last modified: June 29th, 2010 
+Last modified: April 29th, 2011 
