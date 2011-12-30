@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the governorsballmusicfestival.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629221703id_/http%3A//governorsballmusicfestival.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the governorsballmusicfestival.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230062448id_/http%3A//governorsballmusicfestival.com/privacy-policy) for the most accurate reproduction.*
 
 # The Governors Ball Music Festival | Privacy Policy
 
