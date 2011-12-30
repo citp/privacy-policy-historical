@@ -1,61 +1,29 @@
-> *The following text is extracted and transformed from the xaxor.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629032420id_/http%3A//xaxor.com/index.php/component/content/article/11579.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xaxor.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230185805id_/http%3A//xaxor.com/public/11579.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
-Privacy Policy:
+Saturday, 10 July 2010 08:26   
+  
+**Privacy Policy**
 
-xaXor.com does not collect any personal information from its visitors (names, e-mails, etc.). There are no subscription forms for individuals to subscribe. Users can access and and browse the site without disclosing any personal data.
+At xaXor.com (“the Website”) we take your privacy and the protection of your information seriously. Outlined below is our online Privacy Policy. By using the Website you are accepting our terms and practices under this Privacy Policy. If you do not agree to this Privacy Policy, please do not continue to use the Website. 
 
-xaXor.com reviews standard web logs and uses Google Analytics that shows information such as what pages a visitor viewed on the web site, where they came from and how they left the site. This information is used for  site quality improvement only.
+**Collection and disclosure of information:**
 
-xaXor.com will never share, lend, sell or disclose any personal information you decide to share with this website.
+You are not required to provide information directly to us in order to view the site. There are no subscription forms for individuals to subscribe. Users can access and browse the site without disclosing any personal data.
 
-xaXor.com will notify you of substantial changes to this Privacy Policy by posting a prominent announcement on the website.
+The type of information we collect includes ‘Personal Information’ and ‘Non-Personal Information’. Personal Information is the information you supply to us about yourself (name, e-mail, etc.) when you contact us using our [contact form](http://xaxor.com/component/aicontactsafe/?view=message&layout=message&pf=1) and/or [upload form](http://xaxor.com/component/aicontactsafe/?view=message&layout=message&pf=2) (for image submissions). Non-Personal Information incorporates web usage information collected by us as you use the Website such as browser type, your IP address, and user data to track usage of the Website. xaXor.com reviews standard web logs and uses Google Analytics that shows information such as what pages a visitor viewed on the web site, where they came from and how they left the site. This information is used for site quality improvement only.
 
-Terms of use:
+**Our Use of Your Personal Information:** We only use your information in order to respond to queries or requests submitted by you.
 
-All the pictures shown on xaXor.com are submitted by users.  xaXor.com is to be used solely for  noncommercial, non-exclusive, non-assignable, non- transferable and limited personal use and for no other purposes.
+**Security of your Personal Information:** We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. We will never share, lend, sell or disclose any personal information you decide to share with this Website.
 
-Submission Guidelines:
+**Children's Privacy:** We recommend that the Website should be used only by adults aged 18 or over. If you are a minor visiting the site you should do so with the consent and supervision of a parent or guardian.
 
-If you want to submit pictures on xaXor.com just contact us using our contact form and send us your pictures. In the email please explicitly give us your permission to post your pictures on our site.
+**Changes to this Privacy Policy:** We will notify you of substantial changes to this Privacy Policy by posting a prominent announcement on the Website. Please review the Privacy Policy on a regular basis for any such changes.
 
-IMPORTANT NOTE: Always keep a copy of anything you send because we are not responsible for lost, damaged, misdirected, unusable or unreadable User Content. Proof that you submitted User Content does not constitute proof that we received anything.
+**Contact Information:** You can contact us by e-mail at [Contact{at}xaxor.com](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy51301%20=%20'Contact'%20+%20'@';%20addy51301%20=%20addy51301%20+%20'xaxor'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy51301%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy51301%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E).  
 
-IMPORTANT NOTE: You are responsible for all materials that you send for submitting. By distributing content  for display or inclusion on the site, you represent and warrant that you either own all rights or you have checked to make sure the content is in fact in the public domain.
-
-IMPORTANT NOTE: xaXor.com does not claim to hold any copyright about mentioned content.
-
-Users are prohibited from submitting images unless:
-
-1\. They are the lawful copyright owner of the images.
-
-2\. The images are collected from different public sources, including different websites, considered to be with copyright free and public domain images.
-
-3\. The images are covered under Fair Use and believed to belong in the public domain.
-
-xaXor.com  reserves the right to delete, modify or supplement the content of this web site at any time for any reason without notification to its users.
-
-Disclaimer:
-
-xaXor.com has no control over, and no duty to take any action regarding: which users access the site; what effects the content may have on you; how you may interpret or use the content; or what actions you may take as a result of having been exposed to the content. You release xaXor.com  from all liability for you having acquired or not acquired content through the site.
-
-xaXor.com respects the intellectual property of others and  aims to  display only pictures that do not violate any copyright laws.
-
-Procedure for notifying us of copyright infringement:
-
-Those who believe that their copyrighted work has been infringed or are aware of other infringing material, should contact us using our [contact form](http://xaxor.com/component/contact/12/1-name.html) and provide us with the following information:
-
-1. A physical or electronic signature of a person authorized to act on behalf of the owner of the copyrighted work that has allegedly been infringed.
-
-2\. Your address, telephone number, and email address.
-
-3. Identification of the copyrighted work claimed to have been infringed.
-
-4. Information describing where the allegedly infringing material is located on the Website.
-
-5. A written statement by you that the disputed use is not authorized by the copyright owner, its agent, or the law.
-
-6. A statement by you that the above information in your notification is accurate and that, under penalty of perjury, you are the copyright owner or authorised to act on the copyright owner's behalf.
-
-Following receipt of the information listed above, and where it is deemed accurate, we will remove or disable access to the infringing material.
+|  [< Prev](http://xaxor.com/public/31932-terms-of-service.html)  
+---  
+Last Updated on Saturday, 06 August 2011 11:53 
