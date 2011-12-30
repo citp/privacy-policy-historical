@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icelebz.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625102246id_/http%3A//www.icelebz.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icelebz.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230090647id_/http%3A//www.icelebz.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : iCelebZ.com
 
