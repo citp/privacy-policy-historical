@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the postmarkapp.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521180516id_/http%3A//postmarkapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postmarkapp.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230190159id_/http%3A//postmarkapp.com/privacy-policy) for the most accurate reproduction.*
 
-# Postmark – Email delivery for web apps
+# Postmark Privacy Policy
 
 We collect personal information in a number of ways when you visit our site or use our service. For example, you provide us with personal information when you register for an account or contact us by email. Wildbit, LLC automatically receives and records information from your browser, including your IP address and cookies. The personal information collected is used for billing, identification, authentication, service improvement, research, and contact.
 
@@ -26,4 +26,4 @@ Wildbit, LLC will notify customers by email about any significant changes in thi
 
 ## Privacy Questions / Feedback
 
-Users with questions about this Agreement or the Privacy Policy may contact Wildbit at [support@postmarkapp.com](mailto:support@postmarkapp.com) or 20 N. 3rd Street, Unit 201, Philadelphia, PA 19106.
+Users with questions about this Agreement or the Privacy Policy may contact Wildbit at [support@postmarkapp.com](mailto:support@postmarkapp.com) or 20 N. 3rd Street, Unit 701, Philadelphia, PA 19106.
