@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the americanidol.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523064055id_/http%3A//www.americanidol.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanidol.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230203752id_/http%3A//www.americanidol.com/legal/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy -- American Idol
+# Privacy Policy - American Idol - American Idol
 
 * ### Introduction
 
@@ -72,7 +72,7 @@ The Site uses reasonable administrative, technical, personnel and physical measu
 
 * ### USER CONTROL AND ACCOUNT CANCELATION
 
-Through your "Edit Account" settings, you can access, edit or delete your Registration Information, profile picture and Profile Content. You may unsubscribe to the American Idol newsletter by clicking the link at the bottom of the newsletter e-mail or writing to the Privacy Officer (see contact information in "Contact Us" below). If you no longer want to use the Services, you may cancel your account by clicking on "Delete Profile" through your "Edit Account" settings. Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances – where, for example, you have shared information with a third-party application or website. We may also retain backup information related to your account on Our servers for some time after cancelation for fraud detection or to comply with applicable law or Our internal security policies. Because of the nature of caching technology, your account may not be instantly inaccessible to others, and there may be a delay in the removal of the content from elsewhere on the Internet and from search engines. 
+Through your "Edit Account" settings, you can access, edit or delete your Registration Information, profile picture and Profile Content. You may unsubscribe to the American Idol newsletter by clicking the link at the bottom of the newsletter e-mail or writing to the Privacy Officer (see contact information in "Contact Us" below). If you no longer want to use the Services, you may cancel your account by clicking on "Delete Profile" through your "Edit Account" settings. Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances - where, for example, you have shared information with a third-party application or website. We may also retain backup information related to your account on Our servers for some time after cancelation for fraud detection or to comply with applicable law or Our internal security policies. Because of the nature of caching technology, your account may not be instantly inaccessible to others, and there may be a delay in the removal of the content from elsewhere on the Internet and from search engines. 
 
 * ### Contact Us
 
