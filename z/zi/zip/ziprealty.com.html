@@ -1,26 +1,56 @@
-<!--The following is the downloaded HTML source of the ziprealty.com privacy policy that was archived on 2010-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101115055826id_/http%3A//www.ziprealty.com/footer_pages/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ziprealty.com privacy policy that was archived on 2011-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111230125706id_/http%3A//www.ziprealty.com/footer_pages/privacy.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-  <title>Privacy - ZipRealty Real Estate</title>
+<!DOCTYPE html><html><head>
+  <title>Homes for Sale, MLS Listings Search, Real Estate Agents -- Zip Realty</title>
   
-<link rel="stylesheet" type="text/css" href="http://www.ziprealty.com/style/global-all-min.css">
-<!--[if IE]>
-      <link rel="stylesheet" type="text/css" href="http://www.ziprealty.com/style/iehacks.css" >
-<![endif]-->
-<link rel="stylesheet" type="text/css" href="/style/yuimenuzip.css">
-<link type="text/css" rel="stylesheet" href="http://www.ziprealty.com/style/zip_panel.css">
-<link rel="stylesheet" type="text/css" href="http://www.ziprealty.com/style/feedback_panel.css">
 
-</head>
+<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.8.1/build/container/assets/container.css">
+<link rel="stylesheet" type="text/css" href="/css/global-all.css">
+<link href="http://fonts.googleapis.com/css?family=Cabin:regular,500,bold" rel="stylesheet" type="text/css">
+<link rel="icon" type="image/gif" href="/favicon.ico">
+<link type="text/css" rel="stylesheet" href="/css/search_bar.css">
+
+<!--[if gte IE 8]>
+<link type="text/css" rel="stylesheet" href="/css/ie8ge.css">
+<![endif]-->
+<!--[if IE 8]>
+<link type="text/css" rel="stylesheet" href="/css/ie8.css">
+<![endif]-->
+<!--[if IE 7]>
+<link type="text/css" rel="stylesheet" href="/css/ie7.css">
+<![endif]-->
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="/css/ie6.css">
+<![endif]-->
+
+<script type="text/javascript">
+  var _XHR_URL_PREFIX = '/xhr';
+  var _XHR_URI_PREFIX = '/xhr';
+  var _JSP_URL_PREFIX = '';
+  var _IMG_URL_PREFIX = '/images';
+  var _IMG_MLS_URL_PREFIX = '';
+
+  var _HEAD = document.getElementsByTagName('head')[0];
+
+  var addBofALeadGenElement = null; 
+
+</script>
+<script type="text/javascript" src="http://yui.yahooapis.com/2.8.1/build/yahoo-dom-event/yahoo-dom-event.js"></script>
+<script type="text/javascript" src="/js/v2/ziprealty-core.js"></script>
+
+<script type="text/javascript">
+  var Z = new ZipRealty();
+</script>
+
+
+
+<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script></head>
 <body>
 
-
-<div id="pcontainer">
-
-  <div id="pcontent">
-
-    
+  <div id="doc3" class="yui-t7" style="margin:auto">
+    <div id="hd">
+      
 
 
 
@@ -38,231 +68,1232 @@
 
 
 
-<div id="navcontainer"> 
+
+
+
+
+
+
+
+<div id="newFeaturesContainer" class="displayNF">
+  <div id="newFeaturesBgShim"></div>
+  <div id="newFeaturesContent">
+   <span class="empText">NEW LOOK, NEW FEATURES</span><a href="javascript:_NEW_FEATURE.show();">Take the tour</a> and see what’s new!
+  </div>
+  <a href="#" title="close this alert" id="newFeaturesClose"></a>
+</div>
+
+<script type="text/javascript">
+  var _NEW_FEATURE = null;
+  addOnLoadEvent(
+    function() {
+    _NEW_FEATURE =  new IFramePanel('newFeaturesOverlay', 580, 500, '/new-features/newFeatures1.jsp');
+
+    YAHOO.util.Event.addListener("newFeaturesClose", "click", function(e){
+       YAHOO.util.Event.preventDefault(e);
+       document.getElementById('newFeaturesContainer').style.display="none";
+       YAHOO.util.Connect.asyncRequest('GET', '/xhr/hideNewFeatures', function() {});
+    });
+  });
+</script>
+
+
+
+
+
   <div id="navcontent"> 
-    <div id="logo">
-      
-        <a href="http://www.ziprealty.com"><img src="http://www.ziprealty.com/images/global/zip-logo.gif" width="240" height="56" alt="ZipRealty"></a>
-      
-    </div>
     <div id="navsign">
       <div id="welcomesignin">
         <div id="signin">
-          
-            <a href="http://www.ziprealty.com/log_in/index.jsp" class="signinlink">Sign In</a>
-            <a href="http://community.ziprealty.com" class="zipcommunity" target="_blank">ZipCommunity</a>
-            <span class="newclient">New client?</span> <a href="http://www.ziprealty.com/registration/index.jsp" class="startherelink">Start here</a>
-          
-          | <a href="http://www.ziprealty.com/sale/index.jsp" style="background:url(/images/sale-homes/red-sale-tag-sm.gif) left center no-repeat;padding-left:25px;color:#f00">SALE</a>
+
+          <ul class="globalNavSignInLinks" style="width:auto">
+            
+            <li class="tritem">
+              <span class="signinwelcome">Welcome, Ruth</span> 
+            </li>
+            <li class="tritem">
+              | <a href="/login/logout.jsp">Sign Out</a>
+            </li>
+            <li class="tritem" style="margin-left:4px">
+             | <a href="/account/my_account/index.jsp">My Account</a>
+            </li>
+            
+          </ul>
         </div>
+        <div class="clearbox"></div>
+      </div>
+    </div>
+
+    <div id="globalNavZipLinks">
+      <div>
+          <a href="/account/my_ziprealty">My ZipRealty</a>
+          | <a href="/real-estate-agents/search/form">Find an Agent</a>
+          | <a href="/learning-center/finding-realtors.jsp">Buy a Home</a>
+          | <a href="/mobile/index.jsp">Go Mobile!</a>
+
+      </div>
         <div id="callrealtor">
           <div id="tollfree">
             <div class="bphone">1.800.CALL.ZIP</div>
             <div class="sphone">(1.800.225.5947)</div>
           </div>
         </div>
-      </div>
+    </div>
+    <div class="clearbox"></div>
+  </div>
+<script type="text/javascript">
+  var _SEARCH_BAR = null;
+  addOnLoadEvent(function() { _SEARCH_BAR = new SearchBar(); });
+</script>
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+
+
+
+
+
+
+<form id="psb" method="POST" action="/homes/for-sale/search/locate" name="searchForm" onsubmit="_SEARCH_BAR.submitForm(this); return false;">
+  <input type="hidden" name="changeLocation" value="0">
+  <input type="hidden" name="searchFormType" value="map">
+  <input type="hidden" name="originalLocation" value="">
+  <input type="hidden" name="doSubmit" value="true">
+  
+  
+  
+  <input type="hidden" name="latitude_min" value="">
+  
+  <input type="hidden" name="latitude_max" value="">
+  
+  <input type="hidden" name="longitude_min" value="">
+  
+  <input type="hidden" name="longitude_max" value="">
+  
+  <input type="hidden" name="lat" value="">
+  
+  <input type="hidden" name="lon" value="">
+  
+  <input type="hidden" name="zoomLevel" value="">
+  
+
+   
+
+<div id="headerPositioner">
+  <div id="logo">
       
-    </div>
-
-    
-<div id="zipnavbox">
-
-  <div class="plusthree">
-
-    <div id="topnavmenu" class="yuimenubar yuimenubarnav">
-      <div class="bd">
-        <ul>
-          <li class="yuimenubaritem first-of-type"><a class="yuimenubaritemlabel" href="http://www.ziprealty.com/buy_a_home/index.jsp">Homes for Sale</a>
-            <div id="homesforsale" class="yuimenu">
-              <div id="hfsddbox" class="bd">
-                <ul id="hfsddsearchby">
-                  <li class="heading"><span>Search by</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/buy_a_home/search/form/city.jsp">City</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/buy_a_home/search/form/postal_code.jsp">Zip Code</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/buy_a_home/search/form/map.jsp">Map</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/buy_a_home/search/form/address.jsp">Address</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/buy_a_home/search/form/proximity.jsp">Proximity</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/buy_a_home/search/form/school_census.jsp">School District</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/buy_a_home/search/form/mls.jsp">MLS Number</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/buy_a_home/search/form/reduced_price_search.jsp">Reduced Prices</a></li>
-                </ul>
-                <ul class="first-of-type" id="hfsddtools">
-                  <li class="heading"><span>Tools</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/buy_a_home/index.jsp">My ZipRealty (Buyers)</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/buy_a_home/logged_in/my_homes.jsp">My Homes</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/buy_a_home/logged_in/search/form/saved.jsp">Saved Searches</a></li>
-                  
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/buy_a_home/search/form/email_signup_search.jsp">Email Notification</a></li>
-                  
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/buy_a_home/tools.jsp">Buyer Tools</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/sell_my_house/tools.jsp">Seller Tools</a></li>
-                </ul>
-                <div class="clearbox"></div>
-              </div>
-            </div>
-          </li>
-          <li class="yuimenubaritem">
-            <a class="yuimenubaritemlabel" href="http://www.ziprealty.com/ps/index.jsp">Sell My House</a>
-            <div id="homevalues" class="yuimenu">
-              <div id="hvddbox" class="bd">
-                <ul id="hvddinfolist">
-                  <li class="heading"><span>Home Values</span></li>                  
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/ps/index.jsp">Price Estimates</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/ps/index.jsp">Recent Comparables</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/ps/index.jsp">Professional CMA</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/ps/index.jsp">Nearby Schools</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/ps/index.jsp">Sales Trends</a></li>
-                </ul>
-                <ul id="hvddstools" class="first-of-type">
-                  <li class="heading"><span>Seller Tools</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/sell_my_house/feedback/feedback_request.jsp">Buyer Buzz</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/sell_my_house/tools.jsp">Commission Rates in Your Area</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/sell_my_house/tools.jsp">BuyerMatch</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/short-sales/home-owner.jsp">Short Sales</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/sell_my_house/index.jsp">My ZipRealty (Seller)</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/fsbo/index.jsp">FSBO</a></li>
-
-                </ul>
-                <div class="clearbox"></div>
-              </div>
-            </div>
-          </li>
-          <li class="yuimenubaritem" style="_margin-right:0px"><a class="yuimenubaritemlabel" href="http://www.ziprealty.com/find-agent/index.html">Find a Zip Agent</a>
-            <div id="findagent" class="yuimenu">
-              <div id="faddbox" class="bd">
-                <ul id="faddsearchby" class="first-of-type">
-                  <li class="heading"><span>Search By</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/find-agent/index.html">Zip Code</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/find-agent/index.html">Name</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/find-agent/index.html">Language(s)</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/find-agent/index.html">Area</a></li>
-                </ul>
-                <ul id="faddworklist" class="first-of-type">
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/sell_my_house/agents.jsp">Working with a ZipAgent</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/sell_my_house/marketing_plan.jsp">Seller Marketing Plans</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/find/satisfaction_testimonial.jsp">Client Testimonials</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/find/satisfaction_guarantee.jsp">Satisfaction Guarantee</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/sell_my_house/commission.jsp">How ZipRealty Saves You Money</a></li>
-                </ul>
-                <div class="clearbox"></div>
-              </div>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-  <div class="fhtabbox">
-    <div id="topnavmenu2" class="yuimenubar yuimenubarnav">
-      <div class="bd">
-        <ul>
-          <li class="yuimenubaritem" style="_margin-right:0px"><a class="yuimenubaritemlabel" href="http://www.ziprealty.com/map/featured-homes/us">Featured Homes</a>
-            <div id="featuredhomes" class="yuimenu">
-              <div id="fhddbox" class="bd">
-                <ul id="fhddleftlist">
-                  <li class="heading"><span>Arizona</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/phoenix/list/1">Phoenix</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/tucson/list/1">Tucson</a></li>
-                  <li class="heading"><span>California</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/map/featured-homes/norcal">Northern</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/map/featured-homes/socal">Southern</a></li>
-                  <li class="heading"><span>Colorado</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/denver/list/1">Boulder</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/denver/list/1">Denver</a></li>
-                  <li class="heading"><span>Connecticut</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/hartford/list/1">Fairfield County</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/hartford/list/1">Hartford</a></li>
-                  <li class="heading"><span>Delaware</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/philadelphia/list/1">Wilmington</a></li>
-                  <li class="heading"><span>Florida</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/naples/list/1">Florida - Southwest</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/jacksonville/list/1">Jacksonville</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/miami/list/1">Miami/Ft. Lauderdale</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/orlando/list/1">Orlando</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/miami/list/1">Palm Beach</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/tampa/list/1">Tampa</a></li>
-                </ul>
-                <ul id="fhddmidlist">
-                  <li class="heading"><span>Georgia</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/atlanta/list/1">Atlanta</a></li>
-                  <li class="heading"><span>Illinois</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/chicago/list/1">Chicago</a></li>
-                  <li class="heading"><span>Maryland</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/baltimore/list/1">Baltimore</a></li>
-                  <li class="heading"><span>Massachusetts</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/boston/list/1">Boston</a></li>
-                  <li class="heading"><span>Minnesota</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/minneapolis/list/1">Minneapolis/St. Paul</a></li>
-                  <li class="heading"><span>Nevada</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/lv/list/1">Las Vegas</a></li>
-                  <li class="heading"><span>New Jersey</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/philadelphia/list/1">Southern New Jersey</a></li>
-                  <li class="heading"><span>New York</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/newyork/list/1">Long Island</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/newyork/list/1">New York City Boroughs*</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/newyork/list/1">Westchester County</a></li>
-                  <li class="heading"><span>North Carolina</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/charlotte/list/1">Charlotte</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/raleigh/list/1">Raleigh/Durham</a></li>
-                </ul>
-                <ul id="fhddrightlist">
-                  <li class="heading"><span>Oregon</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/portland/list/1">Portland</a></li>
-                  <li class="heading"><span>Pennsylvania</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/philadelphia/list/1">Philadelphia</a></li>
-                  <li class="heading"><span>Texas</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/austin/list/1">Austin</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/dallas/list/1">Dallas</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/dallas/list/1">Fort Worth</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/houston/list/1">Houston</a></li>
-                  <li class="heading"><span>Utah</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/saltlakecity/list/1">Salt Lake City</a></li>
-                  <li class="heading"><span>Virginia</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/richmond/list/1">Charlottesville</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/norfolk/list/1">Norfolk/Virginia Beach</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/virginia/list/1">Northern Virginia</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/richmond/list/1">Richmond</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/richmond/list/1">Williamsburg</a></li>
-                  <li class="heading"><span>Washington</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/seattle/list/1">Seattle</a></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/portland/list/1">Vancouver</a></li>
-                  <li class="heading"><span>Washington D.C. Area</span></li>
-                  <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.ziprealty.com/featured-homes/homes-for-sale/virginia/list/1">DC, Maryland, Virginia</a></li>
-                </ul>
-                <div class="clearbox"></div>
-              </div>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-  <div class="clearbox"></div>
-</div>
-
-
-  </div>
-</div>
-
-
-
-
-
-
-    <div id="doc2" class="yui-t2">   
-
+          <a href="/index.jsp"><img src="/images/logo/ziplogo-sm.png" width="201" height="46" alt="ZipRealty"></a>
       
-<div style="width:960px;margin:7px auto 15px auto;padding:0;text-align:left;">
-  <a href="http://www.ziprealty.com">Home</a> &gt; Privacy
+
+
+
+  </div>
+  <div id="searchOptionsWrapper">
+
+          <a id="btnAddlOptsClose" class="fRight" href="javascript:void(0)" title="Close search options"></a>
+
+          
+          
+          <input type="text" id="inputZipCode" name="location" size="60" maxlength="50" value=""><input type="submit" name="submitbtn" id="btnPrimarySearch" value="Search" class="grdtbtn bgposventi grande">
+         
+          <a id="clearPS" href="javascript:_SEARCH_BAR.resetSearch()">Reset Search</a>
+          <div id="autocomplete_choices" class="autocompfield"></div>
+
+          
+          <div style="clear:both;overflow:auto">
+              <div style="position:relative; margin:0" id="searchPrimaryFields">
+                <table class="colspacer2">
+                  <tbody><tr>
+                    <td>
+                      <b>Price from</b><br>
+                    </td>
+                    <td>
+                      
+                      <select class="primaryField" name="listing_price_min">
+                        <option value="">Any</option>
+                        
+                        <option value="50000">$50,000
+                        </option>
+                        
+                        <option value="75000">$75,000
+                        </option>
+                        
+                        <option value="100000">$100,000
+                        </option>
+                        
+                        <option value="110000">$110,000
+                        </option>
+                        
+                        <option value="120000">$120,000
+                        </option>
+                        
+                        <option value="130000">$130,000
+                        </option>
+                        
+                        <option value="140000">$140,000
+                        </option>
+                        
+                        <option value="150000">$150,000
+                        </option>
+                        
+                        <option value="160000">$160,000
+                        </option>
+                        
+                        <option value="170000">$170,000
+                        </option>
+                        
+                        <option value="180000">$180,000
+                        </option>
+                        
+                        <option value="190000">$190,000
+                        </option>
+                        
+                        <option value="200000">$200,000
+                        </option>
+                        
+                        <option value="225000">$225,000
+                        </option>
+                        
+                        <option value="250000">$250,000
+                        </option>
+                        
+                        <option value="275000">$275,000
+                        </option>
+                        
+                        <option value="300000">$300,000
+                        </option>
+                        
+                        <option value="325000">$325,000
+                        </option>
+                        
+                        <option value="350000">$350,000
+                        </option>
+                        
+                        <option value="375000">$375,000
+                        </option>
+                        
+                        <option value="400000">$400,000
+                        </option>
+                        
+                        <option value="425000">$425,000
+                        </option>
+                        
+                        <option value="450000">$450,000
+                        </option>
+                        
+                        <option value="475000">$475,000
+                        </option>
+                        
+                        <option value="500000">$500,000
+                        </option>
+                        
+                        <option value="525000">$525,000
+                        </option>
+                        
+                        <option value="550000">$550,000
+                        </option>
+                        
+                        <option value="575000">$575,000
+                        </option>
+                        
+                        <option value="600000">$600,000
+                        </option>
+                        
+                        <option value="650000">$650,000
+                        </option>
+                        
+                        <option value="700000">$700,000
+                        </option>
+                        
+                        <option value="750000">$750,000
+                        </option>
+                        
+                        <option value="800000">$800,000
+                        </option>
+                        
+                        <option value="850000">$850,000
+                        </option>
+                        
+                        <option value="900000">$900,000
+                        </option>
+                        
+                        <option value="1000000">$1,000,000
+                        </option>
+                        
+                        <option value="1250000">$1,250,000
+                        </option>
+                        
+                        <option value="1500000">$1,500,000
+                        </option>
+                        
+                        <option value="1750000">$1,750,000
+                        </option>
+                        
+                        <option value="2000000">$2,000,000
+                        </option>
+                        
+                        <option value="2250000">$2,250,000
+                        </option>
+                        
+                        <option value="2500000">$2,500,000
+                        </option>
+                        
+                        <option value="2750000">$2,750,000
+                        </option>
+                        
+                        <option value="3000000">$3,000,000
+                        </option>
+                        
+                        <option value="4000000">$4,000,000
+                        </option>
+                        
+                        <option value="5000000">$5,000,000
+                        </option>
+                        
+                        <option value="10000000">$10,000,000
+                        </option>
+                        
+                      </select>
+                    </td>
+                    <td>
+                      to
+                    </td>
+                    <td>
+                      
+                      <select class="primaryField" name="listing_price_max">
+                        <option value="">Any</option>
+                        
+                        <option value="50000">$50,000
+                        </option>
+                        
+                        <option value="75000">$75,000
+                        </option>
+                        
+                        <option value="100000">$100,000
+                        </option>
+                        
+                        <option value="110000">$110,000
+                        </option>
+                        
+                        <option value="120000">$120,000
+                        </option>
+                        
+                        <option value="130000">$130,000
+                        </option>
+                        
+                        <option value="140000">$140,000
+                        </option>
+                        
+                        <option value="150000">$150,000
+                        </option>
+                        
+                        <option value="160000">$160,000
+                        </option>
+                        
+                        <option value="170000">$170,000
+                        </option>
+                        
+                        <option value="180000">$180,000
+                        </option>
+                        
+                        <option value="190000">$190,000
+                        </option>
+                        
+                        <option value="200000">$200,000
+                        </option>
+                        
+                        <option value="225000">$225,000
+                        </option>
+                        
+                        <option value="250000">$250,000
+                        </option>
+                        
+                        <option value="275000">$275,000
+                        </option>
+                        
+                        <option value="300000">$300,000
+                        </option>
+                        
+                        <option value="325000">$325,000
+                        </option>
+                        
+                        <option value="350000">$350,000
+                        </option>
+                        
+                        <option value="375000">$375,000
+                        </option>
+                        
+                        <option value="400000">$400,000
+                        </option>
+                        
+                        <option value="425000">$425,000
+                        </option>
+                        
+                        <option value="450000">$450,000
+                        </option>
+                        
+                        <option value="475000">$475,000
+                        </option>
+                        
+                        <option value="500000">$500,000
+                        </option>
+                        
+                        <option value="525000">$525,000
+                        </option>
+                        
+                        <option value="550000">$550,000
+                        </option>
+                        
+                        <option value="575000">$575,000
+                        </option>
+                        
+                        <option value="600000">$600,000
+                        </option>
+                        
+                        <option value="650000">$650,000
+                        </option>
+                        
+                        <option value="700000">$700,000
+                        </option>
+                        
+                        <option value="750000">$750,000
+                        </option>
+                        
+                        <option value="800000">$800,000
+                        </option>
+                        
+                        <option value="850000">$850,000
+                        </option>
+                        
+                        <option value="900000">$900,000
+                        </option>
+                        
+                        <option value="1000000">$1,000,000
+                        </option>
+                        
+                        <option value="1250000">$1,250,000
+                        </option>
+                        
+                        <option value="1500000">$1,500,000
+                        </option>
+                        
+                        <option value="1750000">$1,750,000
+                        </option>
+                        
+                        <option value="2000000">$2,000,000
+                        </option>
+                        
+                        <option value="2250000">$2,250,000
+                        </option>
+                        
+                        <option value="2500000">$2,500,000
+                        </option>
+                        
+                        <option value="2750000">$2,750,000
+                        </option>
+                        
+                        <option value="3000000">$3,000,000
+                        </option>
+                        
+                        <option value="4000000">$4,000,000
+                        </option>
+                        
+                        <option value="5000000">$5,000,000
+                        </option>
+                        
+                        <option value="10000000">$10,000,000
+                        </option>
+                        
+                      </select>
+                    </td>
+                    <td>
+                      <b>Beds</b>
+                    </td>
+                    <td>
+
+                    
+                      <select class="primaryField" name="min_bedrooms">
+                        <option value="">Any</option>
+                        
+                        <option value="1">1+
+                        </option>
+                        
+                        <option value="2">2+
+                        </option>
+                        
+                        <option value="3">3+
+                        </option>
+                        
+                        <option value="4">4+
+                        </option>
+                        
+                        <option value="5">5+
+                        </option>
+                        
+                      </select>
+                    </td>
+                    <td>
+                      <b>Baths</b>
+                    </td>
+                    <td style="padding-right:10px;">
+                      
+                      <select class="primaryField" name="min_full_baths">
+                        <option value="">Any</option>
+                        
+                        <option value="1">1
+                          +
+                        </option>
+                        
+                        <option value="2">2
+                          +
+                        </option>
+                        
+                        <option value="3">3
+                          +
+                        </option>
+                        
+                        <option value="4">4
+                          +
+                        </option>
+                        
+                      </select>
+                    </td>
+                    <td>
+                      <a href="javascript:void(0)" id="moreOptions" style="font-size:85%">More Search Options</a>
+                    </td>
+                  </tr>
+                </tbody></table>
+              </div>
+          </div>
+      <div id="advSearchPanel">
+          
+        <div style="padding:10px;">
+
+
+        
+
+        <div id="locationBlockContainer">
+
+          
+          
+          
+          
+        </div>
+        
+
+          
+
+
+
+          
+
+
+        <div class="sixtyPerCol">
+           <div class="sixtyPerCol">
+              <table width="90%">
+                
+                 <tbody><tr>
+                   <td>
+                      Minimum Sq. Ft.
+                   </td>
+                   <td class="tRight">
+                      <select name="home_sq_feet" style="width:100px">
+                        <option value="">Any</option>
+                         
+                          <option value="500">500+</option>
+                        
+                          <option value="750">750+</option>
+                        
+                          <option value="1000">1000+</option>
+                        
+                          <option value="1250">1250+</option>
+                        
+                          <option value="1500">1500+</option>
+                        
+                          <option value="1750">1750+</option>
+                        
+                          <option value="2000">2000+</option>
+                        
+                          <option value="2250">2250+</option>
+                        
+                          <option value="2500">2500+</option>
+                        
+                          <option value="2750">2750+</option>
+                        
+                          <option value="3000">3000+</option>
+                        
+                      </select>
+                   </td>
+                 </tr>
+                
+               <tr>
+                 <td>Minimum Lot Size</td>
+                 <td class="tRight">
+                   
+                     
+                     <select name="lot_sq_feet" style="width:100px">
+                        <option value="">All</option>
+                        
+                          <option value="2000">2,000 Sq. Ft.</option>
+                        
+                          <option value="3000">3,000 Sq. Ft.</option>
+                        
+                          <option value="4000">4,000 Sq. Ft.</option>
+                        
+                          <option value="5000">5,000 Sq. Ft.</option>
+                        
+                          <option value="7500">7,500 Sq. Ft.</option>
+                        
+                          <option value="10000">10,000 Sq. Ft.</option>
+                        
+                          <option value="12500">12,500 Sq. Ft.</option>
+                        
+                          <option value="15000">15,000 Sq. Ft.</option>
+                        
+                          <option value="20000">20,000 Sq. Ft.</option>
+                        
+                          <option value="21780">1/2 Acre</option>
+                        
+                          <option value="43560">1 Acre</option>
+                        
+                          <option value="87120">2 Acres</option>
+                        
+                          <option value="217800">5 Acres</option>
+                        
+                          <option value="435600">10 Acres</option>
+                        
+                    </select>
+                  
+                 </td>
+               </tr>
+               <tr>
+                 <td colspan="2">
+                   <span style="float:right">
+                      <select name="year_built_from">
+<option value="" selected="">Any</option>
+<option value="1850">1850</option>
+<option value="1860">1860</option>
+<option value="1870">1870</option>
+<option value="1880">1880</option>
+<option value="1890">1890</option>
+<option value="1900">1900</option>
+<option value="1910">1910</option>
+<option value="1920">1920</option>
+<option value="1930">1930</option>
+<option value="1940">1940</option>
+<option value="1950">1950</option>
+<option value="1960">1960</option>
+<option value="1970">1970</option>
+<option value="1980">1980</option>
+<option value="1990">1990</option>
+<option value="1995">1995</option>
+<option value="1996">1996</option>
+<option value="1997">1997</option>
+<option value="1998">1998</option>
+<option value="1999">1999</option>
+<option value="2000">2000</option>
+<option value="2001">2001</option>
+<option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+<option value="2006">2006</option>
+<option value="2007">2007</option>
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+<option value="2010">2010</option>
+<option value="2011">2011</option>
+<option value="2012">2012</option>
+</select>
+
+                      to
+                      <select name="year_built_to">
+<option value="" selected="">Any</option>
+<option value="1850">1850</option>
+<option value="1860">1860</option>
+<option value="1870">1870</option>
+<option value="1880">1880</option>
+<option value="1890">1890</option>
+<option value="1900">1900</option>
+<option value="1910">1910</option>
+<option value="1920">1920</option>
+<option value="1930">1930</option>
+<option value="1940">1940</option>
+<option value="1950">1950</option>
+<option value="1960">1960</option>
+<option value="1970">1970</option>
+<option value="1980">1980</option>
+<option value="1990">1990</option>
+<option value="1995">1995</option>
+<option value="1996">1996</option>
+<option value="1997">1997</option>
+<option value="1998">1998</option>
+<option value="1999">1999</option>
+<option value="2000">2000</option>
+<option value="2001">2001</option>
+<option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+<option value="2006">2006</option>
+<option value="2007">2007</option>
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+<option value="2010">2010</option>
+<option value="2011">2011</option>
+<option value="2012">2012</option>
+</select>
+
+                    </span>
+                   Year Built
+                 </td>
+               </tr>
+
+
+                <tr>
+                  <td colspan="2">
+                     Days listed
+                    <span style="float:right">
+                      
+
+                     <select name="last_visit">
+                       <option value="">No Limit</option>
+                       
+                       <option value="3">1-2 days</option>
+                       
+                       <option value="4">3 days</option>
+                       
+                       <option value="8">1 week</option>
+                       
+                       <option value="31">1 month</option>
+                       
+                     </select>
+
+                    </span>
+                  </td>
+                </tr>
+
+
+             </tbody></table>
+           </div>
+
+
+           <div class="fortyPerCol">
+                <strong class="empTextXL">Property Type</strong>
+                <div style="padding-top:2px">
+                  <div>
+                    
+                    <input name="property_type_or" type="checkbox" value="SFR"> Single Family<br>
+                    
+                    
+                    <input name="property_type_or" type="checkbox" value="LAND"> Land<br>
+                    
+                    
+                  </div>
+                  <div>
+                    
+                    <input name="property_type_or" type="checkbox" value="CONDO"> Condo/Townhouse<br>
+                    
+                  </div>
+                  <div>
+                    <input name="property_type_or" type="checkbox" value="MFR" onclick="_SEARCH_BAR.toggleNumUnits(this);"> Multi-Family<br>
+                  </div>
+                  <div>
+                    <div id="no_units" style="display: none;">
+                      # of units:
+                      
+                      <select name="num_mfr_units">
+                        <option value="">Any</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5+</option>
+                      </select>
+                    </div>
+                  </div>
+                </div>
+           </div>
+
+           <div class="clearbox"><br><br>
+             <span style="font-weight: bold; color: rgb(0, 0, 0);">
+              <span onclick="SearchFormTipBubble.show(this,'<b>Keyword Search</b> – Use our keyword search to find homes with specific features that are not already available below in additional search criteria.<br><br>The keyword search treats words inside double quotes as an exact search phrase. You can also use modifiers like AND, OR, and NOT.')" class="helpbubbleicon" id="helpIconKeywordSearch"></span>
+             <label for="inputKeywords">Keywords</label>
+             </span>
+             <input id="inputKeywords" type="text" value="" size="35" name="keywords">
+           </div>
+
+          
+
+        </div>
+
+        <div class="fortyPerCol">
+          <strong class="empTextXL">Listing features</strong>
+          <table width="93%">
+            <tbody><tr><td width="60%">
+              <label for="is_price_reduced">Price reductions</label>
+            </td><td class="tRight">
+              <select name="is_price_reduced" id="is_price_reduced">
+                <option value="">Include</option>
+                <option value="1">Show Only</option>
+              </select>
+            </td></tr>
+            <tr><td>
+              <label for="is_featured_home">Featured listings</label>
+            </td><td class="tRight">
+              <select name="is_featured_home" id="is_featured_home">
+                <option value="">Include</option>
+                <option value="1">Show Only</option>
+              </select>
+            </td></tr>
+            
+            <tr><td>
+              <label for="only_photos">Listings with photos</label>
+             </td><td class="tRight">
+                <select name="only_photos" id="only_photos">
+                  <option value="">Include</option>
+                  <option value="Y">Show Only</option>
+                </select>
+              </td>
+            </tr>
+          </tbody></table>
+
+          <div id="listingTypeGroup" style="padding:10px 0;">
+            <strong class="empTextXL">Listing type</strong>
+            <table width="93%">
+              
+              
+                <tbody><tr>
+                  <td width="60%">
+                    <span id="helpIconForeclosure" class="helpbubbleicon" onclick="SearchFormTipBubble.show(this,'<b>Foreclosures</b> – Foreclosure properties listed on the MLS are properties where the lender/bank has taken ownership of the property through a foreclosure action. These types of properties are also referred to as Real Estate Owned (REO), or bank-owned properties.')"></span>
+                    <label for="is_foreclosure">Foreclosures</label></td>
+                  <td class="tRight">
+                    <select name="is_foreclosure" id="is_foreclosure">
+                       <option value="">Include</option>
+                       <option value="0">Exclude</option>
+                       <option value="1">Show Only</option>
+                    </select>
+                  </td>
+                </tr>
+              
+              
+                <tr>
+                  <td width="60%">
+                    <span id="helpIconShortSales" class="helpbubbleicon" onclick="SearchFormTipBubble.show(this,'<b>Short Sales</b> – Based on property listings with the words SHORT SALE in the property description. Please be aware that this search criterion may not display a complete list of SHORT SALE properties in the area. Short Sale is one type of foreclosure related transaction and this search criterion may also capture foreclosures and home equity sales. Use of the term &quot;short sale&quot; in the property description on the property listing does not guarantee that the seller\'s mortgage lender has agreed to accept a payoff of less than the balance due on the loan and/or that the property is not already in default or in foreclosure.')"></span>
+                    <label for="is_short_sale">Short Sales</label></td>
+                  <td class="tRight">
+                    <select name="is_short_sale" id="is_short_sale">
+                        <option value="">Include</option>
+                        <option value="0">Exclude</option>
+                        <option value="1">Show Only</option>
+                     </select>
+                  </td>
+                </tr>
+              
+              
+                <tr>
+                  <td width="60%"><label for="is_new_construction">New Construction</label></td>
+                  <td class="tRight">
+                    <select name="is_new_construction" id="is_new_construction">
+                      <option value="">Include</option>
+                      <option value="0">Exclude</option>
+                      <option value="1">Show Only</option>
+                    </select>
+                  </td>
+                </tr>
+              
+              
+                <tr>
+                  <td width="60%">
+                    <span id="helpIconFixerUpper" class="helpbubbleicon" onclick="SearchFormTipBubble.show(this,'<b>Fixer Uppers</b> – Based on listings with the words TLC, FIXER, CONTRACTOR, or AS-IS in the property description. Please be aware that this search criterion may not display a complete list of Fixer Upper properties in the area.')"></span>
+                    <label for="is_fixer_upper">Fixer Uppers</label></td>
+                  <td class="tRight">
+                    <select name="is_fixer_upper" id="is_fixer_upper">
+                       <option value="">Include</option>
+                       <option value="0">Exclude</option>
+                       <option value="1">Show Only</option>
+                     </select>
+                  </td>
+                </tr>
+              
+            
+              <tr>
+                <td width="60%"><label for="is_age_restricted">Age Restricted</label></td>
+                <td class="tRight">
+                  <select name="is_age_restricted" id="is_age_restricted">
+                    <option value="">Include</option>
+                    <option value="0">Exclude</option>
+                    <option value="1">Show Only</option>
+                  </select>
+                </td>
+              </tr>
+            
+            
+            </tbody></table>
+
+
+          </div>
+        </div>
+
+        <div class="clearbox"></div>
+
+            <script language="JavaScript" type="text/javascript">
+                function togglePriceSearch() {
+                  if(document.getElementById('home_price_block').style.display == "block") {
+                  document.getElementById('home_price_block').style.display = "none";
+                  document.getElementById('monthly_payment_block').style.display = "block";
+                  } else {
+                  document.getElementById('home_price_block').style.display = "block";
+                  document.getElementById('monthly_payment_block').style.display = "none";
+                  }
+                }
+                // ensure we are searching by listing price OR monthly_payment
+                function adjustPriceCriteria(form) {
+                  if(form.monthly_payment_min) {
+                  if(document.getElementById('home_price_block').style.display == "block") {
+                  form.monthly_payment_min.value = "";
+                  form.monthly_payment_max.value = "";
+                  } else {
+                  form.listing_price_min.value = "";
+                  form.listing_price_max.value = "";
+                  }
+                  }
+
+                  return true;
+                }
+            </script>
+
+
+
+          
+
+
+
+
+          
+
+        
+          <a name="additional"></a>
+          
+          <div class="h2box"><a id="psMoreFeaturesBlockLink" href="javascript:void(0);">Show Additional Property Features</a></div>
+          <div id="psMoreFeaturesBlock">
+            <div id="psMoreFeatureScrollable">
+              
+              
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+<!-- Interior Features Block -->
+
+<div class="addlfeatbox">
+  <div class="colbox">
+    <p>
+      <label>Rooms</label><br>
+        <input type="checkbox" name="localized_parameter" value="319"> Arizona Room<br>
+        <input type="checkbox" name="localized_parameter" value="320"> Family Room<br>
+        <input type="checkbox" name="localized_parameter" value="321"> Great Room<br>
+        <input type="checkbox" name="localized_parameter" value="322"> Guest Quarters<br>
+        <input type="checkbox" name="localized_parameter" value="323"> Library/Den<br>
+        <input type="checkbox" name="localized_parameter" value="324"> Separate Guest House
+    </p>
+  </div>
+  <div class="colbox">
+    <p>
+      <label>Dining Area</label><br>
+      <input type="checkbox" name="localized_parameter" value="325"> Breakfast Bar<br>
+      <input type="checkbox" name="localized_parameter" value="326"> Eat-in Kitchen<br>
+      <input type="checkbox" name="localized_parameter" value="327"> Formal
+    </p>
+    <p>
+      <label>Kitchen</label><br>
+      <input type="checkbox" name="localized_parameter" value="328"> Kitchen Island<br>
+      <input type="checkbox" name="localized_parameter" value="329"> Pantry
+    </p>
+  </div>
+  <div class="colbox">
+    <p>
+      <label>Master Bedroom</label><br>
+      <input type="checkbox" name="localized_parameter" value="330"> Downstairs<br>
+      <input type="checkbox" name="localized_parameter" value="331"> Upstairs
+    </p>
+  </div>
 </div>
 
-      <h1>Privacy</h1>
-      <p>
+<div class="addlfeatbox">
+  <div class="colbox">
+    <p>
+      <label>Lot</label><br>
+        <input type="checkbox" name="localized_parameter" value="332"> Cul-De-Sac<br>
+        <input type="checkbox" name="localized_parameter" value="333"> Desert Back<br>
+        <input type="checkbox" name="localized_parameter" value="334"> Desert Front<br>
+        <input type="checkbox" name="localized_parameter" value="335"> Gated Community<br>
+        <input type="checkbox" name="localized_parameter" value="336"> Golf Course Lot<br>
+        <input type="checkbox" name="localized_parameter" value="337"> Golf Course Subdivision<br>
+        <input type="checkbox" name="localized_parameter" value="338"> Lake Subdivision<br>
+        <input type="checkbox" name="localized_parameter" value="339"> North/South Exposure<br>
+        <input type="checkbox" name="localized_parameter" value="340"> Waterfront Lot
+    </p>
+  </div>
+  <div class="colbox">
+    <p>
+      <label>Views</label><br>
+      
+      View(s): <select name="localized_parameter">
+<option value="">Any</option><option value="345">
+City Lights</option>
+<option value="346">
+Mountain</option>
+</select>
+
+    </p>
+    <p>
+      <label>Outdoor Area</label><br>
+      <input type="checkbox" name="localized_parameter" value="347"> Balcony/Decks<br>
+      <input type="checkbox" name="localized_parameter" value="350"> Patio
+    </p>
+  </div>
+  <div class="colbox">
+    <p>
+      <label>Parking</label>
+    </p>
+    <table cellspacing="0" cellpadding="3" border="0">
+      <tbody><tr>
+        <td align="right" valign="top">Garage:</td>
+        <td valign="top"><select name="min_garage_spaces">
+<option value="" selected="">Any</option>
+<option value="1">1+ car</option>
+<option value="2">2+ car</option>
+<option value="3">3+ car</option>
+<option value="4">4+ car</option>
+</select>
+</td>
+      </tr>
+    </tbody></table>
+    <p>
+      <input type="checkbox" name="localized_parameter" value="353"> RV Parking
+    </p>
+    <p>
+      <label>Heating/Cooling</label>
+    </p>
+    <table cellspacing="0" cellpadding="3" border="0">
+      <tbody><tr>
+        <td align="right" valign="top">Cooling:</td>
+        <td valign="top"><select name="localized_parameter">
+<option value="">Any</option><option value="391">
+Evaporative</option>
+<option value="392">
+Refrigeration</option>
+<option value="393">
+Both</option>
+</select>
+</td>
+      </tr>
+      <tr>
+        <td align="right" valign="top">Heating:</td>
+        <td valign="top"><select name="localized_parameter">
+<option value="">Any</option><option value="394">
+Electric</option>
+<option value="395">
+Gas</option>
+</select>
+</td>
+      </tr>
+    </tbody></table>
+  </div>
+</div>
+
+<div class="addlfeatbox">
+  <div class="colbox">
+    <p>
+      <label>Energy Efficiency</label><br>
+      <input type="checkbox" name="localized_parameter" value="386"> Ceiling Fan(s)<br>
+      <input type="checkbox" name="localized_parameter" value="387"> Load Controller<br>
+      <input type="checkbox" name="localized_parameter" value="388"> Multi-Pane Windows<br>
+      <input type="checkbox" name="localized_parameter" value="389"> Multi-Zones<br>
+      <input type="checkbox" name="localized_parameter" value="390"> Solar Hot Water Heater
+    </p>
+  </div>
+  <div class="colbox">
+    <p>
+      <label>Features</label><br>
+      <input type="checkbox" name="localized_parameter" value="380"> Cable TV Available<br>
+      <input type="checkbox" name="localized_parameter" value="348"> Covered Patio<br>
+      <input type="checkbox" name="localized_parameter" value="381"> Fix-Up<br>
+      <input type="checkbox" name="localized_parameter" value="349"> Handball/Racquetball Courts<br>
+      <input type="checkbox" name="localized_parameter" value="385"> Handicap Access<br>
+      <input type="checkbox" name="localized_parameter" value="352"> Horses Allowed<br>
+      <input type="checkbox" name="localized_parameter" value="383"> Skylights<br>
+      <input type="checkbox" name="localized_parameter" value="351"> Tennis Court(s)<br>
+      <input type="checkbox" name="localized_parameter" value="384"> Vaulted Ceilings
+    </p>
+  </div>
+  <div class="colbox">
+    <table cellspacing="0" cellpadding="3" border="0">
+      <tbody><tr>
+        <td align="right" valign="top">Architectural Style:</td>
+        <td valign="top"><select name="localized_parameter">
+<option value="">Any</option><option value="354">
+Contemporary</option>
+<option value="355">
+Ranch</option>
+<option value="356">
+Spanish</option>
+<option value="357">
+Territorial</option>
+</select>
+</td>
+      </tr>
+      <tr>
+        <td align="right" valign="top"># of Levels:</td>
+        <td valign="top"><select name="localized_parameter">
+<option value="">Any</option><option value="358">
+1</option>
+<option value="359">
+2+</option>
+</select>
+</td>
+      </tr>
+      <tr>
+        <td align="right" valign="top">Roof:</td>
+        <td valign="top"><select name="localized_parameter">
+<option value="">Any</option><option value="360">
+All Tile</option>
+<option value="361">
+Built Up</option>
+<option value="362">
+Composition Shingle</option>
+<option value="363">
+Foam</option>
+<option value="364">
+Partial Tile</option>
+</select>
+</td>
+      </tr>
+      <tr>
+        <td align="right" valign="top">Fireplace:</td>
+        <td valign="top"><select name="localized_parameter">
+<option value="">Any</option><option value="365">
+1</option>
+<option value="366">
+2</option>
+<option value="367">
+3+</option>
+</select>
+</td>
+      </tr>
+      <tr>
+        <td align="right" valign="top">&nbsp;</td>
+        <td valign="top"><select name="localized_parameter">
+<option value="">Any</option><option value="368">
+Freestanding</option>
+<option value="369">
+Gas</option>
+<option value="370">
+in Family Room</option>
+<option value="371">
+in Master Bedroom</option>
+</select>
+</td>
+      </tr>
+      <tr>
+        <td align="right" valign="top">Spa:</td>
+        <td valign="top"><select name="localized_parameter">
+<option value="">Any</option><option value="372">
+Community</option>
+<option value="373">
+Private</option>
+</select>
+</td>
+      </tr>
+      <tr>
+        <td align="right" valign="top">Pool:</td>
+        <td valign="top"><select name="localized_parameter">
+<option value="">Any</option><option value="374">
+Community</option>
+<option value="375">
+Community - Heated</option>
+<option value="377">
+Diving</option>
+<option value="376">
+Fenced</option>
+<option value="28909">
+No Pool</option>
+<option value="378">
+Play</option>
+<option value="379">
+Private</option>
+</select>
+</td>
+      </tr>
+    </tbody></table>
+  </div>
+</div>
+              <div class="clearbox"></div>
+            </div>
+          </div>
+
+            
+        
+          
+        </div>
+        <div class="clearbox"></div>
+    </div>
+  </div>
+</div>
+
+</form>
+
+
+<div class="clearbox"></div>
+
+    </div>
+    <div id="bd">
+
+      <div class="mainpgcontent">
+
+        <h1>Privacy Policy</h1>
+        <p>
 <b>ZipRealty's Privacy Policy </b>
 </p>
 <p>
-Last updated: 07/13/10 
+Last updated: October 25, 2011
 </p>
 <p>
 ZipRealty Inc.'s ("ZipRealty" or "we") Privacy Policy is designed to help you understand how we collect and use information on the ZipRealty website (the "Site").
@@ -277,10 +1308,15 @@ ZipRealty Inc.'s ("ZipRealty" or "we") Privacy Policy is designed to help you un
 </p>
 
 <p>
-Personally identifiable information is information that others can use to identify you, such as your name, address, email address, credit card number or phone number. When you register on and throughout your use of the Site you provide ZipRealty with certain personally identifiable information including without limitation your name, address, ZIP Code, email address, telephone number, information about whether you plan on buying and/or selling property, home search criteria, information about financing for the purchase of property and other information related to the sale and/or purchase of property.
-</p>
-
-<p>
+  Personal Information is information that others can use to identify, locate, or contact you. When you register on or use the Site, or contact ZipRealty, you provide
+  ZipRealty with certain Personal Information including, without limitation, your name, address, zip code,
+  email address, telephone number, comments you make to forums and blogs available on the Site, information about whether you plan on buying and/or selling property, home search
+  criteria, information about financing for the purchase of property and other information related to the sale and/or
+  purchase of property.
+  If you register or log on to the Site through Facebook, you agree to allow Facebook to share additional information
+  with ZipRealty including your name, email address, profile picture, gender, user ID, list of friends and any other
+  information that you have made publicly available on Facebook.
+</p><p>
 Additionally, ZipRealty servers automatically record information sent by your browser when you use the ZipRealty Site, including Internet Protocol address, browser type and language, and date and time of request.  We may also collect information using cookies, web beacons or similar technologies.
 </p>
 
@@ -293,12 +1329,12 @@ When you send email or other communication to ZipRealty, we may retain those com
 </p>
 
 <p>
-Depending on your use of the Site and the services you request from ZipRealty, we may use your personally identifiable information for the following purposes:
+Depending on your use of the Site and the services you request from ZipRealty, we may use your Personal Information for the following purposes:
 </p>
 
 <ul>
   <li>
-    To enable our ZipRealty Sales Agents to contact you and provide personal service, or to provide you with personalized content, including email messages, ZipNotify and/or search results.
+    To enable ZipRealty Agents or other third-party real-estate professionals and their affiliated entities to contact you and provide personal service, or to provide you with personalized content, including email messages, E-Mail Alerts and/or search results.
   </li>
   <li>
     To facilitate all aspects of the sale and/or purchase (or potential sale and/or purchase) of real estate.
@@ -307,21 +1343,21 @@ Depending on your use of the Site and the services you request from ZipRealty, w
     For the purposes for which you provided the information, including to process and respond to inquiries and to contact you about services you have requested.
   </li>
   <li>
-    To improve the content and navigability of the Site.
+    To improve the features, content and navigability of the Site.
   </li>
   <li>
     To solicit your feedback about our services.
   </li>
   <li>
-    To alert you to new Site features, promotions, services, and to deliver other information from which you may opt out.  
+    To alert you to new Site features, promotions, and services, and to deliver other information from which you may opt out.
   </li>
   <li>
-    To enforce the <a href="/footer_pages/terms_of_use.jsp" id="pp_termsofuse_link">Terms of Use</a>. 
+    To enforce the <a href="/footer_pages/terms_of_use.jsp" id="pp_termsofuse_link">Terms of Use</a>.
   </li>
 </ul>
 
 <p>
-In the future, we may sell some or all or our assets. In such transactions, customer information generally is one of the transferred business assets.  In the event of a sale of our assets including our database, customer information will be transferred.  We will require buyers to honor our privacy policy. 
+In the future, we may sell some or all or our assets. In such transactions, customer information generally is one of the transferred business assets.  In the event of a sale of our assets including our database, customer information will be transferred.  We will require buyers to honor our privacy policy.
 </p>
 
 <p>
@@ -329,19 +1365,45 @@ In the future, we may sell some or all or our assets. In such transactions, cust
 </p>
 
 <p>
-ZipRealty may disclose your personally identifiable information to another entity (i) for purposes of outsourcing one or more of the functions described in the previous section; (ii) to confirm or update information provided by you; (iii) to inform you of important information; (iv) as a part of a sale of assets as described in the previous section; (v) with other companies for the purposes of marketing products to you after obtaining your consent; and/or (vi) as otherwise authorized by you.  
+ZipRealty may disclose your Personal Information: (i) to another entity for purposes of outsourcing one or more of the functions described in the previous section; (ii) to confirm or update information provided by you; (iii) to inform you of important information; (iv) as a part of a sale of assets as described in the previous section; (v) with other companies for the purposes of marketing products to you after obtaining your consent; and/or (vi) as otherwise authorized by you.
 </p>
 
 <p>
-ZipRealty will provide you with an opportunity to opt-in to share information with and receive information from ZipRealty partners. When you opt-in to share information with and receive information from ZipRealty's partners, your information will be shared with these partners at ZipRealty's discretion.  You may at any point withdraw your consent to share information with these third parties by sending an email with the subject "Do Not Share Information" to <a href="mailto:Privacy@ziprealty.com">Privacy@ziprealty.com</a>.    ZipRealty will stop sharing your information within 10 (ten) days after receiving your request; provided, however, that information shared prior to that time will remain in the possession of ZipRealty's partners and may continue to be used consistent with this Privacy Policy.
+ZipRealty will provide you with opportunities to opt-in to share information with and receive information from ZipRealty
+  or third parties. When you opt-in to share and receive information from ZipRealty or third parties, your information will
+  be shared at ZipRealty's discretion.  You may at any point withdraw your consent to share information with ZipRealty or
+  third parties by sending an email with the subject "Do Not Share Information" to
+  <a href="mailto:privacy@ziprealty.com">privacy@ziprealty.com</a>.  Additionally, if you wish to opt out of emails
+  received directly from third parties, you can follow the opt-out instructions in the emails they send you.
+  ZipRealty will stop sharing your information within  10 (ten) days after receiving your request; provided,
+  however, that information shared prior to that time will remain
+  in the possession of ZipRealty or third parties and may continue to be used consistent with this Privacy Policy.
 </p>
 
 <p>
- ZipRealty may transmit your personally identifiable information to third parties involved with your sale and/or purchase (or potential sale and/or purchase) of real estate.  These parties include, but are not limited to insurance providers, lenders, appraisers, home warranty providers and inspectors.  You also give ZipRealty permission to transmit your personally identifiable information to other parties or real estate agents involved in your sale and/or purchase process. 
+  You can manage your email preferences by logging into your account through the Site, entering the "Your Account" section, and selecting "Email Preferences." You can also manage your subscriptions by following the subscription management instructions contained in commercial messages that we send you.
 </p>
 
 <p>
-You may choose to work with companies that are not affiliated with or related to ZipRealty, including without limitation lending institutions, title companies, insurers, appraisers, home warranty companies and other service providers, in connection with your real estate transaction.  These companies may each have their own privacy policies governing how they handle your personally identifiable information. ZipRealty accepts no responsibility or liability for third party privacy policies or the actions of any third party with respect to your personally identifiable information.
+  For users who register or log on to the Site through Facebook, please refer to Facebook's privacy settings to determine how you may adjust the permissions and manage the interactivity between ZipRealty and Facebook.
+</p>
+
+
+<p>
+  For users who have consented to have Bank Of America Home Loans share information with ZipRealty: you may revoke your
+  consent to Bank of America Home Loans sharing information about your loan or the status of your loan application with
+  ZipRealty at any time by making such a request via email at
+  <a href="mailto:ziprealty.optout@bankofamerica.com">ziprealty.optout@bankofamerica.com</a>.
+</p>
+
+<p>
+  ZipRealty may share your Personal Information with third parties involved with your sale and/or purchase
+  (or potential sale and/or purchase) of real estate.  These third parties include, but are not limited to, third-party
+  real estate agents and brokers, insurance providers, lenders, appraisers, home warranty providers, or inspectors.
+</p>
+
+<p>
+  You may choose to work with companies who are third parties and who are not affiliated with or related to ZipRealty, including without limitation, lending institutions, title companies, insurers, appraisers, home warranty companies, real-estate agents, real-estate brokers and other service providers, in connection with your real-estate transaction.  These companies may each have their own privacy policies governing how they handle your personal information. ZipRealty accepts no responsibility or liability for third-party privacy policies or the actions of any third party with respect to your personal information.
 </p>
 
 <p>
@@ -349,15 +1411,20 @@ We may also share your information in response to a subpoena, legal order or off
 </p>
 
 <p>
-Information that is de-identified (stripped of any information that could be used to identify you) may be used by ZipRealty for any reason and shared freely with affiliates, the press, partners and other third parties.  This information is usually aggregated (combined with information from many other users), and may include information such as Site traffic patterns, trends, demographics, search patterns and other information.   
+Information that is de-identified (stripped of any information that could be used to identify you) may be used by ZipRealty for any reason and shared freely with affiliates, the press, partners and third parties.  This information is usually aggregated (combined with information from many other users), and may include information such as Site traffic patterns, trends, demographics, search patterns and other information.
 </p>
 
 <p>
-<b>Third Party Advertising</b>
+<b>Third-Party Advertising</b>
 </p>
 
 <p>
-Third-party advertisers may serve you ads when you visit the Site. Some of these companies may use information about your visits to ZipRealty and other websites in order to provide advertisements about goods and services that may be of interest to you. If you would like more information about this type of advertising, you can visit www.networkadvertising.org.
+  Third-party advertisers may serve you ads when you visit the Site. Some of these companies may use information about
+  your visits to ZipRealty and other websites in order to provide advertisements about goods and services that may be
+  of interest to you.  This Privacy Policy does not cover the collection methods or use of information by these third-party
+  advertisers, which have their own privacy policies about their use of cookies and other technologies.  If you would
+  like more information about this type of advertising, including opt-out procedures for certain third-party advertising
+  companies, you can visit <a target="_blank" href="http://www.networkadvertising.org">www.networkadvertising.org</a>.
 </p>
 
 <p>
@@ -365,31 +1432,44 @@ Third-party advertisers may serve you ads when you visit the Site. Some of these
 </p>
 
 <p>
-A "cookie" is a small data file that can be placed on your hard drive when you visit certain websites. When you visit the Site, ZipRealty sends one or more cookies to your computer that uniquely identifies your Internet browser. We use cookies to collect, store and sometimes track information for statistical purposes to improve the services we provide. If you are a registered user, we will use a cookie to save your settings and to provide customizable and personalized services.  Advertisers and partners may also use their own cookies over which ZipRealty has no control. 
+A "cookie" is a small data file that can be placed on your hard drive when you visit certain websites. When you visit
+  the Site, ZipRealty sends one or more cookies to your computer that uniquely identifies your Internet browser. We use
+  cookies to collect, store and sometimes track information for statistical purposes to improve the services we provide.
+  If you are a registered user, we will use a cookie to save your settings and to provide customizable and personalized
+  services.  Advertisers and third parties may also use their own cookies over which ZipRealty has no control.
 </p>
 
 <p>
-<b>How We Protect Information</b>
+  You may manage how your browser handles cookies by adjusting its privacy and security settings.  Browsers are
+  different, so refer to instructions related to your browser to learn about cookie-related and other privacy and
+  security settings that may be available.
 </p>
 
-<p>
-ZipRealty attempts to protect against the loss, misuse and alteration of your personally identifiable information. Our servers are protected by reasonable physical and electronic security measures.  
-</p>
 
 <p>
 <b>Links</b>
 </p>
 
 <p>
-The Site may contain links to third-party websites.  ZipRealty is not responsible for the privacy practices or the content of such websites.
+The Site may contain links to third-party websites.  The use of Personal Information on third-party websites is governed
+  by the privacy policies of the third-party websites and is not subject to ZipRealty's control.  ZipRealty is not
+  responsible for the privacy practices or the content of such websites.
 </p>
 
+<p><b>How We Protect Information</b></p>
+<p>
+  ZipRealty attempts to protect against the loss, misuse and alteration of your Personal Information. Our servers are
+  protected by reasonable physical and electronic security measures.
+</p>
 <p>
 <b>California Privacy Rights</b>
 </p>
 
 <p>
-If you are a California resident, you are entitled by law to request an Information Sharing Disclosure. If you request it, we will provide you with a notice of your right to prevent sharing of your personally identifiable information as well as a cost-free means of doing so. To receive such a notice, submit a written request to the address listed in the Contact section below, specifying that you seek your "California Customer Choice Notice." Please allow thirty days for a response.
+If you are a California resident, you are entitled by law to request an Information Sharing Disclosure. If you request
+  it, we will provide you with a notice of your right to prevent sharing of your Personal Information as well as a 
+  cost-free means of doing so. To receive such a notice, submit a written request to the address listed in the Contact
+  section below, specifying that you seek your "California Customer Choice Notice." Please allow thirty days for a response.
 </p>
 
 <p>
@@ -405,7 +1485,7 @@ Your ZipRealty account can be de-activated at any time by contacting <a href="ma
 </p>
 
 <p>
-You may edit your preferences or request changes to the information you have provided at any time by sending email to <a href="mailto:team@ziprealty.com">team@ZipRealty.com</a> or mail to ZipRealty, Inc., 2000 Powell Street, Suite 300, Emeryville, CA 94608 or by using the Site.  If you have lost your password, you may request a new one by sending an email to <a href="mailto:team@ziprealty.com">team@ZipRealty.com</a>. You may also contact your sales agent to edit the information you provide to ZipRealty.
+You may edit your preferences or request changes to the information you have provided at any time by sending email to <a href="mailto:team@ziprealty.com">team@ZipRealty.com</a> or mail to ZipRealty, Inc., 2000 Powell Street, Suite 300, Emeryville, CA 94608 or by using the Site.  If you have lost your password, you may request a new one by sending an email to <a href="mailto:team@ziprealty.com">team@ZipRealty.com</a>.
 </p>
 
 <p>
@@ -413,19 +1493,17 @@ You may edit your preferences or request changes to the information you have pro
 </p>
 
 <p>
-If you have any questions, concerns, or suggestions regarding this privacy policy, please contact <a href="mailto:privacy@ziprealty.com">privacy@ziprealty.com</a>.
+If you have any questions, concerns, or suggestions regarding this Privacy Policy, please contact <a href="mailto:privacy@ziprealty.com">privacy@ziprealty.com</a>.
 </p>
 
 
-    </div>  
 
-    
+      </div>
 
+    </div>
+    <div id="ft">
 
-
-
-
-
+      
 
 
 
@@ -433,106 +1511,192 @@ If you have any questions, concerns, or suggestions regarding this privacy polic
 
 
 
+
+
+
+
+
+
+
+
+ 
 
 
 
 <div id="ftcontainer">
   <div id="footerbar"></div>
   <div id="ftcontent">
-    <div id="rssbox"><a href="http://www.ziprealty.com/rss/feed_list.jsp" class="rsslink">RSS</a></div>
-    <div id="rssicon"><a href="http://www.ziprealty.com/rss/feed_list.jsp"><div id="rssdiv" title="RSS logo"></div></a></div>
-
+    
     <ul class="footerlinks">
-      <li><a href="http://www.ziprealty.com/about_zip/contact_us.jsp">Contact Us</a></li>
-      <li><a href="http://www.ziprealty.com/faq/index.jsp">FAQs</a></li>
+      <li class="footLabel">Customers</li>
+      <li><a href="/about_zip/contact_us.jsp">Contact Us</a></li>
+      <li><a href="/faq/index.jsp">FAQs</a></li>
+      <li><a href="/learning-center/index.jsp">Learning Center</a></li>
+      <li><a href="http://community.ziprealty.com" target="_blank">Community</a></li>
+      <li><a href="/blog/">Blog</a></li>
+      <li><a href="/video_library.jsp">Videos</a></li>
+      
+      <li><a href="/real-estate-agents/satisfaction_guarantee.jsp">Satisfaction Guarantee</a></li>
+      
       <li><a href="javascript:void(0)" id="feedback_link">Feedback &amp; Suggestions</a></li>
-      <li><a href="http://www.zipagent.com/recruit/index.jsp">Careers</a></li>
-      <li><a href="http://www.ziprealty.com/about_zip/index.jsp">About Us</a></li>
-      <li><a href="http://www.ziprealty.com/advertise/index.jsp">Advertise With Us</a></li>
-      <li><a href="http://onlinepressroom.net/ziprealty">News Room</a></li>
-      <li><a href="http://www.ziprealty.com/footer_pages/site_map.jsp">Site Map</a></li>
+      <li><a href="/about_zip/contact_us.jsp">Website Support</a></li>
+      <li class="last"><a href="/footer_pages/site_map.jsp">Site Map</a></li>
     </ul>
+
     <ul class="footerlinks">
-      <li><a href="https://signup.cj.com/member/brandedPublisherSignUp.do?air_refmerchantid=937877">Affiliate Program</a></li>
-      <li><a href="http://community.ziprealty.com" target="_blank">ZipCommunity</a></li>
-      <li><a href="http://blog.ziprealty.com">Blog</a></li>
-      <li><a href="http://www.ziprealty.com/video_library.jsp">Videos</a></li>
-      
-      <li><a href="http://www.ziprealty.com/find/satisfaction_guarantee.jsp">Satisfaction Guarantee</a></li>
-      
-      <li><a href="http://www.ziprealty.com/footer_pages/licenses.jsp">Licenses</a></li>
-      <li><a href="http://www.ziprealty.com/about_zip/contact_us.jsp">Website Support</a></li>
+      <li class="footLabel">Business Partners</li>
+      <li><a href="/real-estate-agents/search/form">Agents</a></li>
+      <li><a href="/advertise/index.jsp">Advertise With Us</a></li>
+      <li class="last"><a href="https://signup.cj.com/member/brandedPublisherSignUp.do?air_refmerchantid=937877" target="_blank">Affiliate Program</a></li>
     </ul>
+
     <ul class="footerlinks">
-      <li><a href="http://www.ziprealty.com/about_zip/leadership/index.jsp">Management</a></li>
+      <li class="footLabel">Company</li>
+      <li><a href="/recruit/careers/index.jsp">Careers</a></li>
+      <li><a href="/about_zip/index.jsp">About ZipRealty</a></li>
+      <li><a href="/about_zip/leadership/index.jsp">Management</a></li>
       <li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=180169&amp;p=irol-irhome" target="_blank">Investor Relations</a></li>
-      <li><a href="http://www.ziprealty.com/footer_pages/fair_housing.jsp">Fair Housing</a></li>
-      <li><a href="http://www.ziprealty.com/footer_pages/privacy.jsp">Privacy</a></li>
-      <li><a href="http://www.ziprealty.com/footer_pages/terms_of_use.jsp">Terms of Use</a></li>
-      <li><a href="http://www.ziprealty.com/footer_pages/disclaimer.jsp">Disclaimer</a></li>
+      <li><a href="/footer_pages/licenses.jsp">Licenses</a></li>
+      <li class="last"><a href="http://onlinepressroom.net/ziprealty" target="_blank">News Room</a></li>
     </ul>
 
-    <p class="footerphone" style="padding:25px 0 20px 0">
-      <span class="footerphonetf">Call toll free: 1.800 CALL ZIP</span> (1.800.225.5947) <span style="padding-left:30px"><a href="http://www.facebook.com/ziprealty" target="_blank"><img src="/images/logos/logo_facebook_footer.jpg" align="absmiddle"></a></span> <span style="padding-left:20px"><a href="http://www.twitter.com/ziprealty" target="_blank"><img src="/images/logos/logo_twitter_footer.jpg" align="absmiddle"></a></span>
-    </p>
-    <ul id="languages">
-      <li>Languages:</li>
-      
-      <li>In English</li>
-      
-      <li><a href="http://www.ziprealty.com/footer_pages/locale.jsp?locale=es&amp;back=http%3A%2F%2Fwww.ziprealty.com%2Ffooter_pages%2Fprivacy.jsp">En Español</a></li>
-      
-      <li><a class="footer_link" href="http://www.ziprealty.com/footer_pages/locale.jsp?locale=zh&amp;back=http%3A%2F%2Fwww.ziprealty.com%2Ffooter_pages%2Fprivacy.jsp" style="text-decoration:none"><span id="inchinese" style="padding:2px 22px;text-decoration:none" title="In Chinese">&nbsp;</span></a></li>
-      
-      <li><a class="footer_link" href="http://www.ziprealty.com/footer_pages/locale.jsp?locale=kr&amp;back=http%3A%2F%2Fwww.ziprealty.com%2Ffooter_pages%2Fprivacy.jsp" style="text-decoration:none"><span id="inkorean" style="padding:2px 17px;text-decoration:none" title="In Korean">&nbsp;</span></a></li>
-      
-      <li><a class="footer_link" href="http://www.ziprealty.com/footer_pages/locale.jsp?locale=fr&amp;back=http%3A%2F%2Fwww.ziprealty.com%2Ffooter_pages%2Fprivacy.jsp">En français</a></li>
-      
+
+    <ul class="footerlinks">
+      <li class="footLabel">Disclosures</li>
+      <li><a href="/footer_pages/fair_housing.jsp">Fair Housing</a></li>
+      <li><a href="/footer_pages/privacy.jsp">Privacy</a></li>
+      <li><a href="/footer_pages/terms_of_use.jsp">Terms of Use</a></li>
+      <li class="last"><a href="/footer_pages/disclaimer.jsp">Disclaimer</a></li>
     </ul>
-    <p class="copyright">Copyright 1999-2010 and Patent Pending, ZipRealty, Inc.  All rights reserved.</p>
-    
-    <div style="margin:20px auto;width:320px">
-      <div style="float:left;width:250px;">
-        <div id="footerlogos" title="ZipRealty Real Estate -- ZipRealty's real estate agents are Realtor members of the National Association of Realtors; Search MLS listings"><div id="footerbbb"><a href="http://www.bbbonline.org/cks.asp?id=108011612412660" target="_blank"><div id="bbblinkbox"></div></a></div></div>
-      </div>
-      <div style="float:left;width:50px;margin:15px 0 0 20px">
-        <img src="/images/logos/logo_realtor_footer.gif">
-      </div>
-      <div class="clearbox"></div>
+    <div class="clearbox">&nbsp;</div>
+    <p class="copyright">Copyright 1999-2011 and Patent Pending, ZipRealty, Inc.  All rights reserved.</p>
+
+   
+
+      
+
+
+          <div id="footerlogos">
+            <div class="sub-left-cont">
+              <span class="zip-follow">Follow Us On</span>
+              <div class="clearbox"></div>
+              <a href="http://www.facebook.com/ziprealty" target="_blank" class="zip-fb" alt="Follow ZipRealty on Facebook" title="Follow ZipRealty on Facebook"></a>
+              <a href="http://www.twitter.com/ziprealty" target="_blank" class="zip-twit" alt="Follow ZipRealty on Twitter" title="Follow ZipRealty on Twitter"></a>
+              <a href="http://www.youtube.com/user/ZipRealtyInc" target="_blank" class="zip-youtube" alt="Visit ZipRealty on YouTube" title="Visit ZipRealty on YouTube"></a>
+              <a href="http://community.ziprealty.com/" target="_blank" class="zip-com" alt="Visit our ZipRealty Community" title="Visit our ZipRealty Community"></a>
+            </div>
+            <div class="sub-right-cont">
+                <div id="eho" title="The Office of Fair Housing and Equal Opportunity (FHEO)"></div>
+                <div id="mls" title="National Association of Realtors; Search MLS listings"></div>
+                <a id="bbb" href="http://www.bbbonline.org/cks.asp?id=108011612412660" target="_blank" title="ZipRealty is a member of the Better Business Bureau" alt="ZipRealty is a member of the Better Business Bureau"></a>
+                <div id="realtor" title="ZipRealty's real estate agents are Realtor members of the National Association of Realtors"></div>
+                <div class="clearbox"></div>
+            </div>
+          </div>
+
+        <div class="clearbox"></div>
+
+
+      
     </div>
-
-    
   </div>
-</div>
 
-<script language="JavaScript" type="text/javascript" src="http://www.ziprealty.com/js/lib.js"></script>
 
-<script type="text/javascript" src="http://www.ziprealty.com/js/yui/2.8.0/yahoo-dom-event/yahoo-dom-event.js"></script>
-<script type="text/javascript" src="http://www.ziprealty.com/js/yui/2.8.0/container/container-min.js"></script>
-<script type="text/javascript" src="http://www.ziprealty.com/js/yui/2.8.0/animation/animation-min.js"></script>
-<script type="text/javascript" src="http://www.ziprealty.com/js/yui/2.8.0/connection/connection-min.js"></script>
 
-<script type="text/javascript" src="http://www.ziprealty.com/js/yui/2.8.0/menu/menu.js"></script>
-<script type="text/javascript" src="http://www.ziprealty.com/js/topnav.js"></script>
+
+<script type="text/javascript" src="http://yui.yahooapis.com/combo?2.8.1/build/container/container-min.js&amp;2.8.1/build/menu/menu-min.js&amp;2.8.1/build/element/element-min.js&amp;2.8.1/build/selector/selector-min.js&amp;2.8.1/build/animation/animation-min.js&amp;2.8.1/build/connection/connection-min.js&amp;2.8.1/build/datasource/datasource-min.js&amp;2.8.1/build/autocomplete/autocomplete-min.js&amp;2.8.1/build/event-delegate/event-delegate-min.js"></script>
+
+
+ <script language="JavaScript" type="text/javascript" src="/js/lib.js"></script>
+
+<script type="text/javascript" src="/js/topnav.js"></script>
+
+
 
 <div id="feedback_panel">
   <div id="feedback_iframe">
-    <iframe id="fbackframe" src="http://www.ziprealty.com/feedback/index.jsp" frameborder="0" scrolling="no"></iframe>
+    
+    <iframe id="fbackframe" src="about:blank" frameborder="0" scrolling="no"></iframe>
   </div>
 </div>
 
-<script type="text/javascript" src="http://www.ziprealty.com/js/zip_panel.js"></script>
-<script type="text/javascript" src="http://www.ziprealty.com/js/feedback_panel.js"></script>
+<script type="text/javascript" src="/js/zip_panel.js"></script>
+<script type="text/javascript" src="/js/feedback_panel.js"></script>
 
 
 
 
 
-<script language="JavaScript" type="text/javascript" src="http://www.ziprealty.com/js/s_code_prod.js"></script>
+
+
+<!-- Delegation functionality source file -->
+<script type="text/javascript" src="/js/search_bar.js"></script>
+<script type="text/javascript" src="/js/ui_widgets.js"></script>
+
+
+
+<script type="text/javascript" src="/js/zip_bubble.js"></script>
+<div id="searchform_tip_bubble">
+  <div class="bd"></div>
+</div>
+
+<script language="JavaScript" type="text/javascript">
+  
+  /**
+ * Interface to support ZipRealty website Home Search form help tips.
+ * Referenced in 
+ * (c) Copyright 2010, ZipRealty, Inc.
+ * Version 1.0
+ */
+
+function SearchFormTipBubble() {
+
+  this.searchformtipbubble = new ZipBubble("searchform_tip_bubble", true, null, 280, 0);
+
+  //this.tipinnerbd = document.getElementById("tip-content-box");
+
+}
+
+SearchFormTipBubble.prototype.render = function(contextId, searchFormTipDesc) {
+
+  this.searchformtipbubble.bubbleBodyInnerContent = searchFormTipDesc;
+  //this.tipinnerbd.innerHTML = searchFormTipDesc;
+  this.searchformtipbubble.zipbubble.cfg.setProperty("context", [contextId,"tl","br", ["beforeShow", "windowResize"],[-14,4]]);
+  this.searchformtipbubble.zipbubble.render();
+  this.searchformtipbubble.showBubble();
+
+};
+
+SearchFormTipBubble.INSTANCE = new SearchFormTipBubble();
+
+SearchFormTipBubble.show = function(contextId, searchFormTipDesc) {
+  SearchFormTipBubble.INSTANCE.render(contextId, searchFormTipDesc);
+};
+
+var popularitybubble = new ZipBubble("zip_bubble", true, "<p><b>What is Popularity?</b> Popularity is a measure of how many people have viewed a particular property on the ZipRealty website relative to how many people have viewed other properties in the area within the last 30 days. We use a scale of 1-10, with 10 indicating the highest level of interest.</p><p style='text-align:center'><img src='" + _IMG_URL_PREFIX + "/buy_a_home/rating_example.gif' width='107' height='73' alt='Popularity Example'></p>", 280, 0, "helpIconInterest", "tl", "br", "-14", "4");
+
+YAHOO.util.Event.addListener("helpIconInterest", "click", popularitybubble.showBubble,popularitybubble,true);
+
+</script>
+<script type="text/javascript" src="/js/iframe_panel.js"></script>
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="/js/s_code_prod.js"></script><img name="s_i_ziprealtycom" height="1" width="1" border="0" alt="" src="https://smetrics.ziprealty.com/b/ss/ziprealtycom/1/H.5-pdv-2/s4150447458357?[AQB]&amp;ndh=1&amp;t=30/0/2020%2019%3A12%3A43%204%200&amp;ns=ziprealty&amp;pageName=Footer%20%3A%20Privacy%20Policy&amp;g=https%3A//web.archive.org/web/20111230125706id_/http%253A//www.ziprealty.com/footer_pages/privacy.jsp&amp;c1=https%3A//web.archive.org/web/20111230125706id_/http%253A//www.ziprealty.com/footer_pages/privacy.jsp&amp;v8=8913401&amp;v10=https%3A//web.archive.org/web/20111230125706id_/http%253A//www.ziprealty.com/footer_pages/privacy.jsp&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+
+
+
 
 <script language="JavaScript" type="text/javascript"><!--
 /* SiteCatalyst Variables */
-s.pageName="";
+s.pageName="Footer : Privacy Policy";
 s.channel="";
 
 
@@ -540,8 +1704,48 @@ s.channel="";
 
 
 
+
+
+s.eVar8='8913401';
+
+
+
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+var s_code=s.t();if(s_code)document.write(s_code);//--></script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setCustomVar', 1, 'Logged In', 'Yes', 2]);
+  
+
+
+  
+  _gaq.push(['_setAccount', 'UA-102662-25']);
+  
+  _gaq.push(['_trackPageview']);
+
+
+  
+
+  
+
+  (function() {
+    var loadga = function() {
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.async = true;
+      script.src ='http://www.google-analytics.com/ga.js';
+      document.getElementsByTagName('head')[0].appendChild(script);
+    };
+
+    if(window.addEventListener) {
+      window.addEventListener("load", loadga, false);
+    } else if(window.attachEvent) {
+      window.attachEvent("onload", loadga);
+    }
+  }());
+    
+</script>
 
 
 
@@ -554,28 +1758,13 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-  </div>  
-
-</div>  
+    </div>
+  </div>
 
 <script type="text/javascript">
   document.getElementById('pp_termsofuse_link').href = "/footer_pages/terms_of_use.jsp";
   document.getElementById('pp_termsofuse_link2').href = "/footer_pages/terms_of_use.jsp";
 </script>
-
-
-
 
 
 </body></html>
