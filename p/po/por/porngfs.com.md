@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porngfs.com privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221125619id_/http%3A//porngfs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porngfs.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230032512id_/http%3A//www.porngfs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
