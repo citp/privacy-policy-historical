@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the infonow.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501014543id_/http%3A//www.infonow.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infonow.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230225408id_/http%3A//www.channelinsight.com/privacypolicy) for the most accurate reproduction.*
 
-# InfoNow Site Privacy Policy
+# Channelinsight Privacy Policy
 
 Privacy Policy 
 
 **Our Commitment to Online Privacy**  
-InfoNow is committed to protecting the privacy of visitors to this website. To accomplish this, we have implemented this Online Privacy Policy that governs all information collected on or submitted to our website. To make this Online Privacy Policy easy to find, we make it available on our homepage. By accessing, browsing or using the Site, you acknowledge that you read, understand, and agree to the terms and conditions of InfoNow’s Online Privacy Policy. **Please review this Online Privacy Policy each time you visit this Site to understand any changes that we may have made to the Online Privacy Policy. If you do not agree to these terms and conditions, please do not access, browse, or use this Site.**
+InfoNow is committed to protecting the privacy of visitors to this website. To accomplish this, we have implemented this Online Privacy Policy that governs all information collected on or submitted to our website. To make this Online Privacy Policy easy to find, we make it available on our homepage. By accessing, browsing or using the Site, you acknowledge that you read, understand, and agree to the terms and conditions of InfoNow�s Online Privacy Policy. **Please review this Online Privacy Policy each time you visit this Site to understand any changes that we may have made to the Online Privacy Policy. If you do not agree to these terms and conditions, please do not access, browse, or use this Site.**
 
 **What Information We Collect on our Site and How We Use It**
 
@@ -34,4 +34,4 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 We do not collect or maintain information at our Site from those we actually know are under 13, and no part of our Site is intended for anyone under 13 years of age. By entering this Site, users represent that they are 13 years of age or older. 
 
-If you have any questions about this policy or about this web site, please feel free to contact the site administrator [smiller@infonow.com]. 
+If you have any questions about this policy or about this web site, please feel free to contact us. 
