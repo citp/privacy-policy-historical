@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unocha.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623033113id_/http%3A//www.un.org/en/aboutun/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unocha.org privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230084427id_/http%3A//www.un.org/en/aboutun/privacy) for the most accurate reproduction.*
 
 # United Nations: Privacy
 
