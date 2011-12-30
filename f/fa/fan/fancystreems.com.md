@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fancystreems.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502002657id_/http%3A//fancystreems.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fancystreems.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230035644id_/http%3A//www.fancystreems.com/privacy.php) for the most accurate reproduction.*
 
-# Read Privacy of - fancystreems.com
+# Read Privacy of fancystreems.com
 
 Privacy Policy
 
