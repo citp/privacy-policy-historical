@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mingle2.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426004610id_/http%3A//mingle2.com/welcome/showPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mingle2.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230154840id_/http%3A//mingle2.com/welcome/showPrivacy) for the most accurate reproduction.*
 
-# Free Online Dating Site at Mingle2.com
+# Mingle2 Free Dating
 
 NextC, LLC, ("NEXTC"), a Delaware Limited Liability Company is committed to protecting your privacy. This Privacy Policy explains the data collection and use practices of NEXTC and all related websites owned or registered to NEXTC. It does not apply to any third party websites, applications, products or services for which NEXTC is not responsible.
 
