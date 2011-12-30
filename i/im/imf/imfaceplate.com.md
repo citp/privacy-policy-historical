@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imfaceplate.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425030658id_/http%3A//imfaceplate.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imfaceplate.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230045932id_/http%3A//www.imfaceplate.com/about/privacy) for the most accurate reproduction.*
 
-# IM faceplate - brand yourself!
+# social network marketing | FREE online branding with IMfaceplate
 
 This site is owned and operated by [Logiscape Technologies Inc.](http://www.logiscape.com/). Your privacy on the Internet is of the utmost importance to us. At Logiscape Technologies Inc., we want to make your experience online satisfying and safe. 
 
