@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makehitmusic.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501084448id_/http%3A//www.makehitmusic.com/privacy1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makehitmusic.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230084605id_/http%3A//www.makehitmusic.com/privacy1) for the most accurate reproduction.*
 
 # Privacy Policy
 
