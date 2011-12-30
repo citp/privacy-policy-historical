@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605021844id_/http%3A//www.codeproject.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230161658id_/http%3A//www.codeproject.com/info/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - CodeProject
+# Privacy Policy - CodeProject®
+
+[](http://www.etrust.org/cert/979676.html)
 
 Last updated: Tuesday, May 10, 2011
 
