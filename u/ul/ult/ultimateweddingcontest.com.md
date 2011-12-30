@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimateweddingcontest.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629132411id_/http%3A//www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimateweddingcontest.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230055050id_/http%3A//www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Crate&Barrel
 
@@ -84,7 +84,7 @@ Back to Top
 
 ## Remove Your Name From Our Lists at Any Time
 
-To delete your name from the Crate and Barrel email contact list, please follow these simple [email opt-out instructions](https://web.archive.org/Customer-Service/Email-Preference.aspx). To request to have your name removed from the catalogue mailing list, please complete this quick [catalogue opt-out form](https://web.archive.org/Customer-Service/Catalogue-Preference.aspx). To request to have your name removed from the catalogue mailing list, please complete this quick catalogue opt-out form. We appreciate your patience as it may take up to six to eight weeks to process your request from the date of receipt. When you make subsequent purchases at Crate and Barrel, you may provide contact information for customer service only, and request that your name not be forwarded to either mailing list.
+To delete your name from the Crate and Barrel email contact list, please follow these simple [email opt-out instructions](https://web.archive.org/Customer-Service/Email-Preference.aspx). To request to have your name removed from the catalogue mailing list, please complete this quick [catalogue opt-out form](https://web.archive.org/Customer-Service/Catalogue-Preference.aspx). We appreciate your patience as it may take up to six to eight weeks to process your request from the date of receipt. When you make subsequent purchases at Crate and Barrel, you may provide contact information for customer service only, and request that your name not be forwarded to either mailing list.
 
 Back to Top
 
