@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collegegaymovies.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630200250id_/http%3A//www.collegegaymovies.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegegaymovies.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230060209id_/http%3A//www.collegegaymovies.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy at College Gay Movies
+# Privacy at Gay Tube Movies
 
 AE Media Group recognizes that its customers, visitors, users, and others who use College Gay Movies value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the College Gay Movies site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site. 
 
