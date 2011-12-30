@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slb.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618145054id_/http%3A//www.slb.com/en/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slb.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230194008id_/http%3A//www.slb.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Schlumberger General Web Site Privacy Statement, Schlumberger
 
@@ -68,6 +68,6 @@ The use of cookies is common in the industry, and they are used at most major we
 
 ### Contact information
 
-Customers should direct comments or questions regarding this statement to their [Schlumberger Representative](https://web.archive.org/en/contact_us.aspx); employees to their Personnel representative; all other inquiries should be directed [here](https://web.archive.org/forms/contact/contact_inquiry.aspx?recipientCode=email.contact.general&service=SL&referringURL=about/privacy.aspx&context=Privacy+Statement&serviceSelectable=Y&inquiryMode=&SSL=&region= "General Inquiries").
+Customers should direct comments or questions regarding this statement to their [Schlumberger Representative](https://web.archive.org/contact_us.aspx); employees to their Personnel representative; all other inquiries should be directed [here](https://web.archive.org/forms/contact/contact_inquiry.aspx?recipientCode=email.contact.general&service=SL&referringURL=/about/privacy.aspx&context=Privacy+Statement&serviceSelectable=Y&inquiryMode=&SSL=&region= "General Inquiries").
 
 _Last updated: 12 June 2006 Version 1.5_
