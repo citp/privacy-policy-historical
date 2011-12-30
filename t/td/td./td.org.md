@@ -1,133 +1,103 @@
-> *The following text is extracted and transformed from the td.org privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619034710id_/http%3A//www.ddc.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the td.org privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230202915id_/http%3A//www.chowcow.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement for Domain Development Corporation
+# Chowcow.Com - Privacy Policy
 
-## About Us
+###  Welcome
 
-This is a privacy policy for Domain Development Corporation. Our homepage on the Web is located at [ http://www.ddc.com](http://www.ddc.com/). The full text of our privacy policy is available on the Web at [ http://ddc.com/w3c/policy.html](http://ddc.com/w3c/policy.html). DDC allows Magnetic to monitor DDC affiliated sites for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such Magnetic may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about DDC users. For further information about Magnetic's search re-targeting product, Magnetic's homepage on the Web is located at [http://www.magnetic.is](http://privacy.magnetic.is/). The full text of Magnetic's privacy policy is available on the Web at [http://privacy.magnetic.is](http://privacy.magnetic.is/). Magnetic may allow third parties to monitor Magnetic associated sites for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Magnetic users. Users may go to <http://domdex.com/i> for information on what is being tracked. Users may go to <http://privacy.magnetic.is/w3c/optout.html> for information on how to opt-in or opt-out of use of their information by Magnetic and may go to <http://www.networkadvertising.org/managing/opt_out.asp> to opt-out of most third party tracking. 
+Welcome to the Chowcow.com Privacy Policy page. Chowcow.com is brought to you by Click Busy Media, Inc.
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
-    
-    
-    28636 Roadside Drive
-    Suite 150
-    Agoura Hills, CA 91301 
-    USA
-    
+###  Summary
 
-You may contact us by e-mail at [ support@ddc.com](mailto:support@ddc.com). You may call us at 800-332-8000. 
+Our Privacy Policy explains how we use personal information submitted by you through our website. This Privacy Policy applies solely to the Chowcow.com website. It does not apply to any third party websites that you may visit through a link you find on Chowcow.com. 
 
-## Dispute Resolution and Privacy Seals
+By accepting the Privacy Policy during the account creation process, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective on May 25, 2010.
 
-We have no privacy seals or other assurance mechanisms. 
+**Data Capture**
 
-## Additional Information
+You can browse Chowcow.com and view listings without providing us with any of your personal information. If you choose to become a [Registered User](https://web.archive.org/web/20111230202915id_/http%3A//create_account.php), the personal information you provide us will be stored on our servers located in the United States. By becoming a Registered Member of our website, you hereby consent to the storage of such information.
 
-This policy is valid until 1 Jan, 2010 at 12:00:00 PST. 
+**The Information We Collect**
 
-## Data Collection
-
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately. 
-
-* * *
-
-### Group "Basic information"
-
-We collect the following information: 
-
-  * Click-stream data
-  * HTTP protocol elements
-  * Search terms
+  1. Your first and last name, your physical address (should you choose to provide it), your email address, your gender and your age (should you choose to provide them).
+  2. If you sign up for one of our paid services (i.e. [Job Listings](https://web.archive.org/web/20111230202915id_/http%3A//jobs.php)), we may also store your financial information, including your credit card number and billing address.
+  3. We may also collect transactional information based on your activities which may include your posts and listings, content, and feedback.
+  4. We collect information from your interaction with Chowcow.com, use of our services, and your response to content and advertising.
+  5. We further gather browser and connection information, page view stats, inbound and outbound traffic stats, IP addresses and standard web log information;
 
 
 
-This data will be used for the following purposes:
+**How We Use the Information We Collect**
 
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
+We collect personal information primarily to protect your safety and the safety of others using our website. In an effort to prevent fraud and scams, we want to make sure that our Registered Users are not anonymous to us. In addition, we use your information to continually improve Chowcow.com and the quality of the services we provide you.
 
+You hereby concent to our use of your personal information to:
 
-
-This data will be used by ourselves and our agents. 
-
-The following explanation is provided for why this data is collected:
-
-> Data collected from all Web users: access logs, and search strings (if entered).
-
-* * *
-
-### Group "Cookies"
-
-At the user's option, we will collect the following data: 
-
-  * HTTP cookies
+  1. Provide you with the support and services you request.
+  2. Protect your safety and the safety of others usinc Chowcow.com.
+  3. Prevent fraud, scams, and to respolve disputes.
+  4. Prevent prohibited and illegal activities and uphold the law.
+  5. Enforce our [Terms of Use](https://web.archive.org/web/20111230202915id_/http%3A//terms.php) and Intellectual Property Policies.
+  6. Improve our services, content, and advertising.
+  7. Inform you about our services, sister companies, and updates to our services.
+  8. Offer you occassional promos and discounts (if you have authorized use to do so); and
+  9. Comply with laws and regulations.
 
 
 
-This data will be used for the following purposes:
+###  Disclosure of Your Information
 
-  * Targetting advertisements
-  * Research and development.
-  * One-time tailoring.
+We may disclose your personal information when required by law, to enforce our terms of use and policies, respond to claims of fraud or scams, to protect anyone's rights, property, or safety. If required, your information will only be disclosed in accordance with applicable laws and regulations.
 
+**Other Uses of Your Information**
 
+We may also use your personal information in the following manners:
 
-This data will be used by ourselves and our agents. Domdex may allow third parties to monitor our data for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Domdex users. 
-
-The following explanation is provided for why this data is collected:
-
-> Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you and tailor advertisements served on our partner websites.
-
-* * *
-
-## Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
-
-Our site makes use of cookies. Cookies are used for the following purposes: 
-
-  * User targeting 
-  * Research and development 
+  1. Provide such information to service providers that assist us with the operation of Chowcow.com for purposes such as collections, fraud investigation, and compliance with regulations and laws.
+  2. Law enforcement, regulatory agencies, or other government agencies in response to court orders, subpoenas, or similar legal obligation, pretaining to criminal investigations, illegal activity, or civil matters. We will only share your information with government agencies when required to do so by one of the aforementioned methods, unless we, in our sole and absolute discretion, feel that the disclosure of your information is necessary to prevent harm or financial loss to anyone or to report suspected illegal activity conducted by you.
+  3. Entities or organizations that we may merge with or that may acquire our business.
 
 
 
-* * *
+###  No Solicitation 
 
-## Compact Policy Summary
+We don't sell or rent your personal information to third parties for solicitation purposes without your written consent. We may combine your information with information we collect from other companies and use it to improve and personalize our services, content and website performance. 
 
-The compact policy which corresponds to this policy is: 
-    
-    
-        CP="ALL CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
-    
+**Public Information**
 
-The following table explains the meaning of each field in the compact policy. 
+Your User Name on Chowcow.com is public information. Your User Name is displayed on all of your listings and throughout the website. As such, if you use your real name as your User Name, anyone who knows your real name will be able to track your listings and activities on Chowcow.com. We recommend that you do not use your real name for your User Name. 
 
-**Field**|  **Meaning**  
----|---  
-`CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-`ALL` |  Access to all collected information is available.   
-`CURa` |  The data is used for completion of the current activity.   
-`ADMa` |  The data is used for site administration.   
-`DEVa` |  The data is used for research and development.   
-`TAIa` |  The data is used for tailoring the site.   
-`OUR` |  The data is given to ourselves and our agents.   
-`BUS` |  Our business practices specify how long the data will be kept.   
-`IND` |  The data will be kept indefinitely.   
-`UNI` |  Unique identifiers are collected.   
-`COM` |  Computer information is collected.   
-`NAV` |  Navigation and clickstream data is collected.   
-`INT` |  Interactive data is collected.   
-  
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
+When creating a listing, any information you put in the "Listing Details" section of your ad is public information. As such, if you choose to put your contact phone number or email address, such information will become accessible by anyone using or visiting Chowcow.com. 
 
-* * *
+If you choose to place any personal information in the "Listing Details" section, you hereby agree to release Chowcow.com and Click Busy Media, Inc., including our officers, agents, subsidiaries, affiliates and employees harmless for any misuse or abuse of such information. 
 
-## Policy Evaluation
+Our system has an internal communication tool that is automatically added to every listing and activated by clicking on the "Contact Lister" link on top of each ad. Users who wish to contact you can use this system to email you without ever seeing your email address. When you respond to them, however, your email address WILL be visible to them and they will be able to contact out outside of the Chowcow.com system. 
 
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
+**No Tolerance Policy**  
+ 
 
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
+Chowcow.com has a strict No Tolerance Policy for Spam and Spoofing. If you spam or spoof using Chowcow.com, your account will immediately be terminated without notice to you. You are strictly prohibited from adding Users, even those who have made purchases from you, to your physical or digital mailing lists without the prior written approval of that User.  If you are a Chowcow.com user and another user is sending you Spam or Spoofing, you should immediately report such user by sending an email to [spam@chowcow.com](mailto:spam@chowcow.com?subject=Spam%20Issue%20Report).
 
-**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
+**Account Security and Your Password**
+
+You must protect your Password at all times. Anyone who has access to your password, has complete access to your account and personal information. We strongly recommend that you carefully choose your Password using a combination of upper and lower case letters and numbers. 
+
+We advise you not to share your Password with anyone. If you do share your Password with third parties, you hereby agree that you are fully responsible for any and all actions taken by such person(s) using your account. Granting third parties access to your Password gives them the ability to access, change, use, misuse, or abuse your information or commit fraud, which may subject you to liability and legal issues. 
+
+If at anytime your Password becomes jeopardized, or you think it may have been jeopardized, please notify us by emailing [security@chowcow.com](mailto:security@chowcow.com?subject=Security%20Issue%20Report) and change your Password immediately. 
+
+**Modifying or Deleting Your Account**
+
+For security reasons, Chowcow.com cannot modify your personal information for you. If you want to modify your personal (account) information, you must log in to your account, click on "Edit Profile," and make the changes yourself. 
+
+You are required to keep your personal and contact information current at all times. Chowcow.com may send you occasional emails to make sure that your contact information is current. 
+
+If you wish to delete your account with Chowcow.com, you may do so by sending our Membership Department an email to [membership@chowcow.com](mailto:membership@chowcow.com?subject=Membership%20Inquiry). Within a reasonable timeframe, we will remove your account from our viewable system but will retain your personal information solely for legal compliance reasons and to prevent fraud, resolve disputes, collect unpaid balances, and enforce our Terms of Use and legal rights. 
+
+**Disclaimer**
+
+We go to great lengths to protect your private information. We use security tools and take all the necessary steps to insure that your information is not jeopardized. However, third parties may be able to unlawfully access our servers and your information by using criminal tactics to hack into our system. As such, by using Chowcow.com, you indicate that you understand and agree that we do not promise that your private information will never be jeopardized. 
+
+**Amendments to Privacy Policy**  
+ 
+
+We may amend this Privacy Policy at any without notice to you. Amended terms take effect immediately. If your questions are not answered online, you may contact us by mailing your correspondence to Click Busy Media, Inc., Privacy Department, 25061 Avenue Stanford, Suite 30, Valencia, CA 91355. You can also send us an email at anytime by [clicking here](mailto:privacy@chowcow.com?subject=Privacy%20Policy%20Inquiry).
