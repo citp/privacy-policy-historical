@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tuvie.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501143054id_/http%3A//www.tuvie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuvie.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230084604id_/http%3A//www.tuvie.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Industrial Design and Future Technology – Tuvie
+# Privacy Policy | Modern Industrial Design and Future Technology - Tuvie
 
 The [http://www.tuvie.com](http://www.tuvie.com/) Privacy Statement
 
