@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ignitionone.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620190456id_/http%3A//www.ignitionone.com/en/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ignitionone.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230025210id_/http%3A//www.ignitionone.com/en/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**LAST UPDATED: April 11, 2011**
+**LAST UPDATED: July 14, 2011**
 
 We, IgnitionOne, Inc., are concerned about privacy issues and want you to be familiar with how we collect, use and disclose Personal Information (as defined below). This Privacy Policy describes our practices in connection with Personal Information that we collect through http://www.ignitionone.com/ (the "Site") and offline in connection with the services we provide. This Privacy Policy does not address the collection, use or disclosure of information through our IgnitionOne analytics and web customization services; if you wish to understand our practices with respect to information we collect via our IgnitionOne analytics services, please review our **[IgnitionOne Services Privacy Policy](http://www.ignitionone.com/en/about/privacy-services.php).**
 
@@ -47,7 +47,7 @@ By providing Personal Information to us, you agree to the terms and conditions o
 
 **Security.** We use reasonable organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. Please do not send us sensitive information through email. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), you must immediately notify us of the problem by contacting us in accordance with the "Contacting Us" section below (note that if you choose to notify us via physical mail, this will delay the time it takes for us to respond to the problem).
 
-**Opt-Out.** If you no longer wish to receive marketing-related emails from us on a going-forward basis, or if you would prefer that we do not share Personal Information about you on a going-forward basis with our affiliates for our affiliates' marketing purposes, you may opt-out of receiving such marketing-related emails or from such sharing by sending an email containing your request to [privacy@ignitionone.com](https://web.archive.org/web/20110620190456id_/http%3A//www.ignitionone.com/en/about/privacy@ignitionone.com). Please specify clearly which of the following choices you are opting out of:
+**Opt-Out.** If you no longer wish to receive marketing-related emails from us on a going-forward basis, or if you would prefer that we do not share Personal Information about you on a going-forward basis with our affiliates for our affiliates' marketing purposes, you may opt-out of receiving such marketing-related emails or from such sharing by sending an email containing your request to [privacy@ignitionone.com](https://web.archive.org/web/20111230025210id_/http%3A//www.ignitionone.com/en/about/privacy@ignitionone.com). Please specify clearly which of the following choices you are opting out of:
 
 \- Receiving marketing-related emails from us; and/or  
 \- Allowing us to share Personal Information about you with our affiliates (including our parent and subsidiaries) for their marketing purposes. 
@@ -66,7 +66,7 @@ In each event, you must clearly indicate the information that you wish to have c
 
 **Jurisdictional Issues.** We do not represent or warrant that the Site, or any part thereof, is appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. We may limit the Site's availability, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time and in our sole discretion. By using the Site and submitting any Personal Information, you consent to the transfer of Personal Information to other countries, such as the United States, which may provide a different level of data security than in your country of residence.
 
-**Contacting Us.** If you have any questions regarding this Privacy Policy, please contact us by email at [privacy@ignitionone.com](https://web.archive.org/web/20110620190456id_/http%3A//www.ignitionone.com/en/about/privacy@ignitionone.com), or please write to the following address or fax number:
+**Contacting Us.** If you have any questions regarding this Privacy Policy, please contact us by email at [privacy@ignitionone.com](https://web.archive.org/web/20111230025210id_/http%3A//www.ignitionone.com/en/about/privacy@ignitionone.com), or please write to the following address or fax number:
 
 Legal Department   
 IgnitionOne, Inc.  
