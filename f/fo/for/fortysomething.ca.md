@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortysomething.ca privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501145227id_/http%3A//www.fortysomething.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortysomething.ca privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230090412id_/http%3A//www.fortysomething.ca/privacy.php) for the most accurate reproduction.*
 
 # Food and Whine: Privacy Policy
 
