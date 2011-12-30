@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wiziapp.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430133205id_/http%3A//www.wiziapp.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiziapp.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230064049id_/http%3A//www.wiziapp.com/policy) for the most accurate reproduction.*
 
-# WiziApp iPhone Plugin - Policy
+# WiziApp - Wordpress iPhone App Plugin | Policy
 
-**WiziApp Solutions Ltd (hereafter “WiziApp” or “We” or “Our” or “Us”) provides a service that enables you to Turning your blog into a native iPhone app using a wordpress plugin (hereafter “Services”). This Privacy Policy may be updated from time to time and can always be viewed on our website at[www.wiziapp.com/policy](https://web.archive.org/web/20110430133205id_/http%3A//www.wiziapp.com/www.wiziapp.com/policy).
+**WiziApp Solutions Ltd (hereafter “WiziApp” or “We” or “Our” or “Us”) provides a service that enables you to Turning your blog into a native iPhone app using a wordpress plugin (hereafter “Services”). This Privacy Policy may be updated from time to time and can always be viewed on our website at[www.wiziapp.com/policy](http://www.wiziapp.com/policy).
 
 This document provides information regarding our policies that relate to the use and disclosure of personal information that we receive from WiziApp customers and/or end users that use the apps. 
 
