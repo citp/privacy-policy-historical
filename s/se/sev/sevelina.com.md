@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sevelina.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502074506id_/http%3A//www.sevelina.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevelina.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230055331id_/http%3A//www.sevelina.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fashion Dress Up Games
+# Privacy Policy | • Sevelina Girls Games • | Free Online Dress Up Games
 
 **Personal Information**
 
@@ -41,3 +41,6 @@ All published games under SEVELINA bar are created by SEVELINA, with all proprie
 **Advertisements**
 
 sevelina.org does not accept any responsibility for advertisements which are published at the website, though the reasonable control for ads content is permanently monitored.
+
+  
+
