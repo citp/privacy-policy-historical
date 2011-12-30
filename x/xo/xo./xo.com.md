@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the xo.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520220856id_/http%3A//www.xo.com/about/policy/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xo.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230054847id_/http%3A//www.xo.com/about/policy/Pages/privacy.aspx%3Futm_source%3DXOhome%26utm_medium%3Dtextlink%26utm_campaign%3Dfooter_small_privacy) for the most accurate reproduction.*
 
-# XO | Privacy Policy
-
-[](http://www.xo.com/sites/SocialMedia/overview.aspx "XO Social Media")
+# Privacy Policy | XO
 
 | 
 
-XO Communications, Inc. respects the privacy of every individual. This Privacy Policy applies to XO retail Customers and visitors to XO websites in the United States. The policy applies to all XO Communications companies that collect and/or use Customer information ("XO Companies") as well as all web sites owned and operated by XO Companies including [www.xo.com](http://www.xo.com/), [www.nextlink.com](http://www.nextlink.com/default.htm), [www.concentric.com](http://www.concentric.com/), [www.allegiancetelecom.com](http://www.allegiancetelecom.com/), and related sites (collectively "the XO Sites"). This policy statement provides detailed information about how XO collects and uses information gathered about web visitors and Customers. This policy is dated and may change from time to time, so please check back periodically to review this information.
+XO Communications, LLC. respects the privacy of every individual. This Privacy Policy applies to XO retail Customers and visitors to XO websites in the United States. The policy applies to all XO Communications companies that collect and/or use Customer information ("XO Companies") as well as all web sites owned and operated by XO Companies including [www.xo.com](http://www.xo.com/), [www.nextlink.com](http://www.nextlink.com/default.htm), [www.concentric.com](http://www.concentric.com/), [www.allegiancetelecom.com](http://www.allegiancetelecom.com/), and related sites (collectively "the XO Sites"). This policy statement provides detailed information about how XO collects and uses information gathered about web visitors and Customers. This policy is dated and may change from time to time, so please check back periodically to review this information.
 
 ### I.      General Principles:
 
