@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the iphone-network.net privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629053516id_/http%3A//www.iphone-network.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphone-network.net privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230191422id_/http%3A//www.iphone-network.net/privacy) for the most accurate reproduction.*
 
 # Privacy | iPhone-Network.net
+
+## Privacy
 
 **Privacy Policy**
 
@@ -28,3 +30,36 @@ These third-party ad servers or ad networks use technology to the advertisements
 iPhone-Network.net has no access to or control over these cookies that are used by third-party advertisers.
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. iPhone-Network.net privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+**DMCA Information**
+
+iPhone-Network.net is in compliance with 17 U.S.C. § 512 and the Digital Millennium Copyright Act (“DMCA”). It is our policy to respond to any infringement notices and take appropriate actions under the Digital Millennium Copyright Act (“DMCA”) and other applicable intellectual property laws.
+
+If your copyrighted material has been posted on iPhone-Network.net or if links to your copyrighted material are returned through our search engine and you want this material removed, you must provide a written communication that details the information listed in the following section. Please be aware that you will be liable for damages (including costs and attorneys’ fees) if you misrepresent information listed on our site that is infringing on your copyrights. We suggest that you first contact an attorney for legal assistance on this matter.
+
+The following elements must be included in your copyright infringement claim :
+
+Provide evidence of the authorized person to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+Provide sufficient contact information so that we may contact you. You must also include a valid email address.
+
+You must identify in sufficient detail the copyrighted work claimed to have been infringed and including at least one search term under which the material appears in iPhone-Network.net’s search results.
+
+A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+
+A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+Must be signed by the authorized person to act on behalf of the owner of an exclusive right that is allegedly being infringed.
+
+Send the written infringement notice to the following address and an email notifcation to **webmaster@iPhone-Network.net**  
+Please allow 1-2 business days for an email response. Note that emailing your complaint to other parties such as our Internet Service Provider will not expedite your request and may result in a delayed response due the complaint not properly being filed.
+
+#### Sign up Free Email Newsletter
+
+Stay Updates with this Blog. Get Free email newsletter updates, **Enter your Email here:**
+
+Don't forget to confirm your email subcription
+
+### Leave your comment here:
+
+You must be [logged in](http://www.iphone-network.net/wp-login.php?redirect_to=http%3A%2F%2Fwww.iphone-network.net%2Fprivacy%2F) to post a comment.
