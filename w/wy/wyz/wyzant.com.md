@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyzant.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519100705id_/http%3A//www.wyzant.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyzant.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230140826id_/http%3A//www.wyzant.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | WyzAnt Tutoring
 
