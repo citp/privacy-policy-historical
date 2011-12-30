@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the killmydaynow.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514225114id_/http%3A//www.killmydaynow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killmydaynow.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230092338id_/http%3A//www.killmydaynow.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Funny Photos
 
