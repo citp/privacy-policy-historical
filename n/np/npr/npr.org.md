@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the npr.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629084159id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npr.org privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230205038id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.*
 
 # NPR Privacy Policy
 
 Privacy Policy  
-Effective Date October 25, 2010
+Effective Date August 29, 2011
 
 _See related:[NPR Terms of Use](https://web.archive.org/about/termsofuse.html)_
 
@@ -31,7 +31,7 @@ Like all other Web servers, NPR's Web server automatically creates log files for
 **Cookies and Other Technologies**  
 NPR also uses 'cookies' to collect information. A cookie is a string of characters that can be written to a file on the user's hard drive when the user visits a web site, application or service. Only the web site, application or service that set the cookie can read it, and it can only be used as a record keeping device to store user IDs and information that the site already has. It cannot be used to read other information from the user's hard drive.
 
-NPR uses cookies to track users' activity through the NPR Services in order to improve the site/application/service architecture, to offer the user interactive features that would not be possible without them, to offer local station content, and to recall specific information to save the user time during subsequent visits to the NPR Services. For example, cookies allow NPR to remember your registration information while you are logged in. Local station customization, the NPR Shop, and other interactive features also use cookies. Our sponsorship service vendors, which serve sponsorship messages onto the NPR Services, and third party vendors that measure and analyze the use of the NPR Services for NPR, may also use their own cookies.
+NPR uses cookies to track users' activity through the NPR Services in order to improve the site/application/service architecture, to offer the user interactive features that would not be possible without them, to offer local station content, to recall specific information to save the user time during subsequent visits to the NPR Services, and to direct more relevant sponsorship or underwriting messages to the user while the user is on the NPR Services, based on the user’s activity on the NPR Services. For example, cookies allow NPR to remember your registration information while you are logged in. Local station customization, the NPR Shop, and other interactive features also use cookies. Our sponsorship service vendors, which serve sponsorship messages onto the NPR Services, and third party vendors that measure and analyze the use of the NPR Services for NPR, also use their own cookies.
 
 NPR and the third party vendors that measure and analyze use of the NPR Services for NPR also may use web beacons, alone or in conjunction with cookies, to help compile information about and facilitate usage of the NPR Services, including usage of certain API Content. A web beacon is an electronic image, also known as a single-pixel (1x1) or clear .gif., which can be used to recognize certain information on your computer, such as cookies, the time and date of a page viewed, and a description of where API Content is placed. We may use web beacons on this site from time to time for this and other purposes. 
 
