@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the athenahealth.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227122442id_/http%3A//www.athenahealth.com/our-company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the athenahealth.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230103440id_/http%3A//www.athenahealth.com/our-company/privacy-policy.php) for the most accurate reproduction.*
 
 # athenahealth :: Privacy Policy
 
@@ -84,7 +84,5 @@ We use Google's AdWords Conversion, DART, and Google Analytics tracking for trac
 We use Omniture for tracking and associating internet search and browsing behavior with our advertisements. For more information on Omniture's privacy policy, [click here](https://web.archive.org/exit.php?u=http://www.omniture.com/en/privacy&TB_iframe=true&height=360&width=484).
 
 We use Marketo and SalesForce tracking tags to enable the tracking of web activity of cookied visitors. For more information on Marketo's privacy policy, [click here](https://web.archive.org/exit.php?u=http://www.marketo.com/privacy.php&TB_iframe=true&height=360&width=484) and for more information on SalesForce's privacy policy, [click here](https://web.archive.org/exit.php?u=http://www.salesforce.com/company/privacy.jsp&TB_iframe=true&height=360&width=484).
-
-We use Quantcast for tracking our advertisements. For more information on Quantcast's privacy policy, [click here](https://web.archive.org/exit.php?u=http://www.quantcast.com/privacy&TB_iframe=true&height=360&width=484).
 
 We use BGC Boston, a third party marketing services provider, to track and associate internet search and browsing behavior of visitors to this site with our advertisements. For more information on BGC Boston's privacy policy, [click here](https://web.archive.org/exit.php?u=http://www.bgcboston.com/customerprivacy-athenahealth/&TB_iframe=true&height=360&width=484).
