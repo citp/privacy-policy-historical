@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download3k.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425085249id_/http%3A//www.download3k.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download3k.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230202236id_/http%3A//www.download3k.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy - Download3K
 
@@ -14,6 +14,8 @@ A cookie is a piece of data stored on the user's hard drive containing informati
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
   * Users may update their ads preferences [here](http://www.google.com/ads/preferences/). 
 
+
+
 We also use other third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. You can see a list of these companies by clicking [here](https://www.google.com/adsense/support/bin/answer.py?answer=94149). You may visit these vendor websites to opt out of cookies (if the vendor offers this capability). 
 
 #### Security
@@ -28,8 +30,7 @@ This web site contains links to other sites. Please be aware that we Download3k.
 
 #### Related info:
 
-  * [Download3K Help / Troubleshooting](https://web.archive.org/web/20110425085249id_/http%3A//www.download3k.com/help.php)
-  * [Download3K Terms of use](https://web.archive.org/web/20110425085249id_/http%3A//www.download3k.com/terms.php)
+  * [Download3K Help / Troubleshooting](https://web.archive.org/web/20111230202236id_/http%3A//www.download3k.com/help.php)
+  * [Download3K Terms of use](https://web.archive.org/web/20111230202236id_/http%3A//www.download3k.com/terms.php)
 
-  
 
