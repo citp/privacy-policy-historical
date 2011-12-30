@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livinglocurto.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627035108id_/http%3A//www.livinglocurto.com/advertise/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livinglocurto.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230203603id_/http%3A//www.livinglocurto.com/advertise/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Living Locurto - FREE Printables, recipes, party ideas and crafts.
+# Privacy Policy | Living Locurto - Free Printables, How To DIY Ideas, Crafts & Party Ideas.
 
 #### **What information do we collect?**
 
@@ -33,7 +33,7 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers but through PayPal’s online [services](http://www.livinglocurto.com/about-me/design-services/ "services").
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers but through PayPal’s online services.
 
 #### **Do we use cookies?**
 
@@ -45,7 +45,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 #### **Childrens Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and [services](http://www.livinglocurto.com/about-me/design-services/ "services") are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 #### **Online Privacy Policy Only**
 
