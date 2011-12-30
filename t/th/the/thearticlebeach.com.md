@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the thearticlebeach.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630021841id_/http%3A//www.thearticlebeach.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thearticlebeach.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230225156id_/http%3A//thearticlebeach.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # privacy TheArticleBeach.com you're number one place for free articles.
 
   
-[unlimited hosting](https://secure.hostgator.com/~affiliat/cgi-bin/affiliates/clickthru.cgi?id=comfortf)
+[](http://www.losethebackpain.com/aff/index.php?w=LTBP-AFF&p=comfortf)|  |   
+---|---|---  
+[](http://affiliate.godaddy.com/redirect/E50C1AEDB36C4F56217A0EE007EBAF2529E1277314BA3F024DB879FBBDE3818909BF3024E61658D64665C99CE85C03E3BFB3FC15390C3251037482AE9EB6BF4F)
 
 **This can be edited in admin panel.**
 
