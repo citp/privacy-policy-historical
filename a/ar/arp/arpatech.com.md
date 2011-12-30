@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arpatech.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426071726id_/http%3A//www1.arpatech.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D102%26Itemid%3D158) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arpatech.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230114639id_/http%3A//www1.arpatech.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D102%26Itemid%3D158) for the most accurate reproduction.*
 
 # Privacy Policy
 
