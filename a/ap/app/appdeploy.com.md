@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appdeploy.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628162153id_/http%3A//dell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appdeploy.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230025741id_/http%3A//dell.com/privacy) for the most accurate reproduction.*
 
 # Dell Terms of Sale, License Agreements & Policies | Dell
 
