@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go4promotion.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615021715id_/http%3A//www.go4promotion.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4promotion.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230074413id_/http%3A//www.go4promotion.com/privacy.htm) for the most accurate reproduction.*
 
 # Go4promotion :: Privacy Policy
 
