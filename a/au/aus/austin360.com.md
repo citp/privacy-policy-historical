@@ -1,28 +1,24 @@
-> *The following text is extracted and transformed from the austin360.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617072404id_/http%3A//www.statesman.com/services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austin360.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230060714id_/http%3A//www.statesman.com/services/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-LAST UPDATED: JULY 6, 2009 
+LAST UPDATED: AUGUST 19, 2011 
 
 We care about your privacy. We will not sell your name or email address to any third party advertisers without your permission. Please read our privacy policy below for further details. 
 
 Statesman.com respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by Cox Texas Newspapers, L.P., d/b/a Austin American-Statesman ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to our General Manager: 
 
-Tim Lott 
+Zach Ryall 
 
-Vice President of Audience Strategy 
-
-Statesman.com 
+Internet managing editor 
 
 305 South Congress Avenue 
 
 Austin, Texas 78704 
 
-Phone: (512) 445-3550 
+Phone: 512-912-2938 
 
-Fax: (512) 445-3557 
-
-e-mail: tlott@statesman.com 
+e-mail: zryall@statesman.com 
 
 **CHILDREN'S PRIVACY**
 
@@ -46,7 +42,9 @@ We use cookies to help us tailor our site to your needs, to deliver a better, mo
 
 **Other Methods of Collecting Information.** Our web pages may contain electronic images (called "single-pixel GIFs" or "web beacons") that allow us and our vendors to count users who have visited particular pages or to access certain cookies. We may use these tools and other technologies to recognize which pages users visit, and which links they click on. These features may also be included in our email newsletters so that we can learn which messages have been opened and acted upon. We may also be able to verify your online purchases from us or from third party sites that have agreed to share such information with us. 
 
-**Browser Level Information and IP Addresses.** Our web servers automatically collect limited information about your computer configuration when you visit our site, including the type of browser software you use, the operating system you're running, the resolution of your computer monitor, the website that referred you, and your IP address. (Your IP address is a numerical address that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and trouble shooting purposes. Your IP address does not tell us who you are.) We use this information to deliver our web pages to you upon request, to tailor our site (including our ads) to the interests of our users, and to measure traffic within our site. To improve your ad experience, we may send non-personal information to Yahoo!, an ad network partner that displays ads on this site. Such information is based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information it gathers regarding its own users to select which ads to display on this site. Please click this link http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html to learn more about Yahoo!'s ad practices, including how to opt out of Yahoo! using anonymous information to select which ads to show you. 
+**Data Collected in Connection with Ad Serving and Targeting.** We use third-party Service Providers, such as ad networks, to serve advertising to you when you visit our Site. These Service Providers may use information about your activities while you navigate through this Site and other web sites and that they collect through cookies to provide you with advertisements about products and services that they think may be of interest to you. The information used by these Service Providers for these purposes generally does not identify you personally (in other words, the Service Providers are not using your name, address, email address, or phone number for these purposes) but it may include the IP address of your computer. Instead, it only relates to your behavior while on this site and other websites: what ads you clicked on, what content you viewed, etc. You can learn more about such data collection practices, and/or opt out of any use by our Service Providers’ of cookies to tailor advertising to your interests, by visiting [aboutads.info](http://www.aboutads.info/). 
+
+**Cox Media Group’s Adherence to Self-Regulatory Principles for Online Behavioral Advertising.** CMG adheres to the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance. To learn more about the Principles and your choices when it comes to the use of online behavioral advertising data by advertisers and ad servers across the Internet, visit [aboutads.info](http://www.aboutads.info/). 
 
 **DISCLOSURE OF INFORMATION**
 
