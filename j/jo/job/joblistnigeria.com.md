@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joblistnigeria.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607042546id_/http%3A//joblistnigeria.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joblistnigeria.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230090420id_/http%3A//joblistnigeria.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Jobs in Nigeria - Job Vacancies in Nigeria
 
@@ -52,8 +52,17 @@ Unfortunately, email and online fraud are continuing concerns for virtually all 
 
 Jobs in Nigeria
 
-  * [recently advertised jobs in Nigeria](http://joblistnigeria.com/about/privacy "recently advertised jobs in Nigeria")
-  * [demographic information on nigeria 2011](http://joblistnigeria.com/about/privacy "demographic information on nigeria 2011")
+  * [efcc recruitment](http://joblistnigeria.com/about/privacy "efcc recruitment")
+  * [efcc nigeria recruitment](http://joblistnigeria.com/about/privacy "efcc nigeria recruitment")
+  * [www efccrecruitment com](http://joblistnigeria.com/about/privacy "www efccrecruitment com")
+  * [Efcc recruitment in nigeria](http://joblistnigeria.com/about/privacy "Efcc recruitment in nigeria")
+  * [www efcc vacancy](http://joblistnigeria.com/about/privacy "www efcc vacancy")
+  * [Www efcc nig com](http://joblistnigeria.com/about/privacy "Www efcc nig com")
+  * [www EFCC Recruitment com](http://joblistnigeria.com/about/privacy "www EFCC Recruitment com")
+  * [www efcc nigeria com](http://joblistnigeria.com/about/privacy "www efcc nigeria com")
+  * [efcc recruitment for2011/2012](http://joblistnigeria.com/about/privacy "efcc recruitment for2011/2012")
+  * [efcc nigeria/career](http://joblistnigeria.com/about/privacy "efcc nigeria/career")
 
+  
   
 
