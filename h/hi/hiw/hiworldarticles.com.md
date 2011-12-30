@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiworldarticles.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502094152id_/http%3A//www.hiworldarticles.com/page/1/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiworldarticles.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230162428id_/http%3A//www.hiworldarticles.com/page/1/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HiWorldArticles.com
 
