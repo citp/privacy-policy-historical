@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armstrong.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614035658id_/http%3A//www.armstrong.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armstrong.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230130038id_/http%3A//www.armstrong.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # Armstrong Web Privacy Policy
 
@@ -12,7 +12,7 @@ Armstrong World Industries, Inc. ("Armstrong") strives to achieve the highest st
 
 
 
-If you have any questions or comments about Armstrong's Privacy Policy, please [contact us here](https://web.archive.org/web/20110614035658id_/http%3A//www.armstrong.com/corporate/contact-us.html). 
+If you have any questions or comments about Armstrong's Privacy Policy, please [contact us here](https://web.archive.org/web/20111230130038id_/http%3A//www.armstrong.com/corporate/contact-us.html). 
 
 **NOTICE: Information We Collect and How We Use It**  
 Armstrong collects two types of information about you when you visit our site: personal information (including, by way of example only, your name, address, telephone number and e-mail address) and non-personal, aggregate information (such as information regarding the pages on our site that you have visited and your IP address). 
@@ -62,6 +62,10 @@ At certain points in your visit to the Armstrong site, our server may send a "co
 The Armstrong Web site may collect non-personally identifiable information during your visit, such as type of browser, operating system, domain name, or IP address. An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers -- the big computers that "serve" up Web pages -- automatically identify your computer by its IP address. When you visit pages on Armstrong's Web site our servers log your IP address. We do not link IP addresses to any personally identifiable information. This means that your session will be logged, but you remain anonymous to us. IP address information is used only to improve the service of the Armstrong site, and is then discarded at the end of each session on our site. 
 
 Armstrong also collects information through "referrers" and various environmental variables. A "referrer" is information the Web browser passes along to Armstrong’s Web server that references the URL from which you came. "Environmental variables" include, among other things, the domain from which you access the Internet, the time you accessed our Web site, type of Web browser and operating system or platform used, the Internet address of the Web site you left to visit Armstrong, the names of the pages you visit while at our Web site, and the Internet address of the Web site you then visit. We collect all of this information to allow us to detect broad demographic trends, to provide information tailored to your interests and to enhance your experience on Armstrong’s Web site. Armstrong may store "referrer" information for a limited period of time prior to deleting this information. 
+
+At times, the Armstrong website may use what are commonly referred to as "pixel tags," "web beacons," or "clear GIFs," including other similar methods (collectively, "Pixel Tags") to collect aggregated information about website usage. Pixel Tags allow Armstrong to measure the amount of users who have visited specific pages on our site and help determine the effectiveness of advertising campaigns. The information collected from Pixel Tags contains no personally identifiable information and is used for statistical analysis only. 
+
+In certain situations, the use of Pixel Tags may be controlled by unaffiliated entities in order to manage programs or promotions. Armstrong cannot be responsible for third-party uses of Pixel Tags, however, when we are able; we employ our best efforts to assure that these unaffiliated entities do not collect personally identifiable information. 
 
 **Profiling**
 
