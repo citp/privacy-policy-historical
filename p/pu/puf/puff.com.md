@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the puff.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107205951id_/http%3A//www.puff.com/Content/Info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puff.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230063930id_/http%3A//www.puff.com/Content/Info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Info | Content
 
-|  |  |   |  |   
----  
-Written by Administrator   
-  
-Tuesday, 11 August 2009 14:26   
-  
 PRIVACY POLICY 
 
 Puff Enterprises, hereafter the Company, agrees not to disclose to anyone the terms, conditions, subject matter, or identity of the parties involved in any paid transaction or membership/forum activity to any other party unless required to do so by law. The Company collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. The Company also collects anonymous demographic information that is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites. 
@@ -23,6 +17,3 @@ The Company does not sell, rent or lease its client lists to third parties. The 
 The Company keeps track of the websites and pages our client's visit, in order to determine what websites and services are the most popular. This data is used to deliver customized content and advertising to clients whose behavior indicates that they are interested in a particular subject area. 
 
 The Company's websites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on the Company or the website; (b) protect and defend the rights or property of Puff Enterprises, but not limited to this Company's websites; and, (c) act under exigent circumstances to protect the personal safety of users of the Company, its websites, or the public. 
-
-    
-  |  |  | 
