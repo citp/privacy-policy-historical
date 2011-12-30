@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maharashtraspider.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214174928id_/http%3A//maharashtraspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maharashtraspider.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230124226id_/http%3A//maharashtraspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # MaharashtraSpider.com privacy policy
 
