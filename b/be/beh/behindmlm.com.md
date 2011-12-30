@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the behindmlm.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630150735id_/http%3A//behindmlm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the behindmlm.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230204004id_/http%3A//behindmlm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BehindMLM
 
