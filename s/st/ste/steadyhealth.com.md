@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the steadyhealth.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513030227id_/http%3A//www.steadyhealth.com/polices/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steadyhealth.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230075510id_/http%3A//www.steadyhealth.com/polices/privacy) for the most accurate reproduction.*
 
-# >> Medical Questions, Weight Loss, Pregnancy, Drugs, Health Insurance
-
-## SteadyHealth.com Privacy Act
+# Medical Questions, Weight Loss, Pregnancy, Drugs, Health Insurance | SteadyHealth.com
 
 SteadyHealth.com is firmly committed to privacy. The following discloses our information gathering and dissemination practices for this website, including the SteadyHealth.com. 
 
@@ -11,6 +9,10 @@ The protection of your privacy being very important, we have adopted the followi
 ###  SECURITY AND LIABILITY 
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. This site maintains a dedicated server with restricted access only to authorized user accounts. The webmaster, administrator and moderators cannot be held responsible if data integrity on the site becomes compromised. 
+
+### CHILDREN PRIVACY
+
+SteadyHealh is not intended for use by the children under the age of 13. We will not collect any personally identifiable information from anyone we know is a child under the age of 13, or allow them to participate on SteadyHealth discussion boards. If we become aware that person under the age of 13 has submitted personal information or any other form of content to SteadyHealth, that becomes a reason for immediate account suspension, without any prior notice.
 
 ###  PRIVACY IN A PUBLIC 
 
@@ -68,7 +70,7 @@ We follow generally accepted industry standards to protect the personal informat
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
 
-All information about Advertisements and Advertising on SteadyHealth.com is strictly defined in [Advertising Policy](http://www.steadyhealth.com/polices/advertising_policy.php). 
+All information about Advertisements and Advertising on SteadyHealth.com is strictly defined in [Advertising Policy](https://web.archive.org/polices/advertising/). 
 
 ###  STEADYHEALTH's FIND A DOCTOR DISCLAIMER 
 
@@ -78,6 +80,6 @@ SteadyHealth.com provides information about registered health care providers who
 
 If you're a doctor or health practitioner and would like to add or change related information in our database please fill out the doctor info form. It is important to send us following information: Name, Address, City, County, State, Zip, Credentials, Speciality, AreaCode, TimeZone, Country, Description of your practice, References. If you would like to appear on an interactive map please include your practice location Latitude and Longtitude. Incomplete or deceptive information won't be included into database. SteadyHealth.com reserves the right not to publish any information it may consider inappropriate in its sole reasonable discretion. 
 
-Adding new entries automatically is not available at this time. However, if you are not listed in our database, please fill out the [Contact Form](http://www.steadyhealth.com/contact.php) or the [Doctor Info Form](http://www.steadyhealth.com/find_doctor/contact_dr.php) and add the info that you are not listed and would like to get listed. We'll consider your application and publish your info manually. 
+Adding new entries automatically is not available at this time. However, if you are not listed in our database, please fill out the [Contact Form](https://web.archive.org/contact/) or the [Doctor Info Form](https://web.archive.org/find_doctor/contact_dr.php) and add the info that you are not listed and would like to get listed. We'll consider your application and publish your info manually. 
 
 **Last updated on March, 12th 2009.**
