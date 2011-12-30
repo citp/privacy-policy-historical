@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smugmug.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618123502id_/http%3A//www.smugmug.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smugmug.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230012018id_/http%3A//www.smugmug.com/aboutus/privacy) for the most accurate reproduction.*
 
 # SmugMug Privacy Policy
 
