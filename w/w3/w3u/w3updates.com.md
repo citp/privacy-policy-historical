@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3updates.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423085428id_/http%3A//www.w3updates.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3updates.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230134333id_/http%3A//www.w3updates.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.w3updates.com
 
