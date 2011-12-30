@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the csgsystems.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527184244id_/http%3A//www.csgsystems.com/CSG_Content.aspx%3FL1%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csgsystems.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230162008id_/http%3A//csgi.com/CSG_Content.aspx%3FL1%3D14) for the most accurate reproduction.*
 
-# Privacy Policy | CSG Systems
+# Privacy Policy | CSG International
 
 **Privacy Policy**
 
@@ -8,7 +8,7 @@
 
 Protecting privacy is not a new endeavor for CSG. CSG has a long-standing tradition of recognizing and protecting the privacy of customers who use its billing and customer care solutions. The company maintains strict customer information privacy policies and uses state of the art technologies to safeguard customer information and communications from unauthorized intrusions.
 
-CSG has created this privacy policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL www.CSGSystems.com and any other site provided by CSG (collectively, the "Site"). This policy covers CSG and its subsidiaries. CSG reserves the right to change this policy at any time by posting a new privacy policy at this location.
+CSG has created this privacy policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL www.csgi.com and any other site provided by CSG (collectively, the "Site"). This policy covers CSG and its subsidiaries. CSG reserves the right to change this policy at any time by posting a new privacy policy at this location.
 
 What Information We Collect and How We Use That Information
 
@@ -35,10 +35,10 @@ If you have any questions about our Safe Harbor participation, please contact:
 Ron Lambert  
 Chief Counsel and Director Business Development  
 Telephone: 312-660-5627  
-[ron_lambert@csgsystems.com](mailto:ron_lambert@csgsystems.com)
+[ron_lambert@csgsi.com](mailto:ron_lambert@csgsi.com)
 
 **Customer Concerns**  
 If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, you can contact:
 
 Web Site Administrator/Web Master  
-You can also send email to [webmaster@csgsystems.com](mailto:webmaster@csgsystems.com).
+You can also send email to [webmaster@csgsi.com](mailto:webmaster@csgsi.com).
