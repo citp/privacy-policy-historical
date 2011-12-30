@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cctv.ws privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521091315id_/http%3A//cctv.ws/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cctv.ws privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230075118id_/http%3A//cctv.ws/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Referer.us Privacy Policy
 
