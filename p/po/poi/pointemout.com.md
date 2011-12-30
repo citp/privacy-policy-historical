@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pointemout.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630171958id_/http%3A//pointemout.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointemout.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230234301id_/http%3A//pointemout.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice | POINTEMOUT.COM
+# - POINTEMOUT.COM
+
+## [Privacy Notice](http://pointemout.com/privacy-notice/ "Permanent Link to Privacy Notice")
 
 **Pointemout.com** respects your privacy and is committed to protecting it at all times. This Internet Privacy Notice explains how we collect, use, and safeguard information on this Website. Please read this Privacy Notice carefully. **By visiting Pointemout.com, you are accepting the practices described in this Privacy Notice and agree that any dispute over privacy is governed by this Privacy Notice and Conditions of Use.**
 
