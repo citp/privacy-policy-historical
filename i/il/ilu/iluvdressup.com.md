@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iluvdressup.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218141951id_/http%3A//www.iluvdressup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iluvdressup.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230060858id_/http%3A//www.iluvdressup.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY - iLuvDressUp.com - Dress up games
 
