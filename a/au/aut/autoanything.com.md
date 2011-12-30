@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629134847id_/http%3A//www.autoanything.com/help/policy.aspx%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230192627id_/http%3A//www.autoanything.com/help/policy.aspx%23privacypolicy) for the most accurate reproduction.*
 
 # AutoAnything Privacy Policy
 
@@ -11,6 +11,7 @@ Take a moment to check out AutoAnything's policies and related information
   * Affiliate program
   * Problems receiving AutoAnything e-mail
   * Legal notice, terms & conditions
+  * CARB Exempt Information
   * Contact information
 
 
@@ -25,17 +26,9 @@ And, to show our commitment to you, you have 1 FULL Year of price protection fro
 
 ### Price match for products you would like to purchase
 
-If you would like to purchase a product from AutoAnything and you see it advertised at a lower price somewhere else, there are two ways to get that price for your order:
+If you would like to purchase a product from AutoAnything and you see it advertised at a lower price somewhere else, contact our Auto Accessory Specialists toll-free at (800) 874-8888. We will review your request and place your order for the lower price.
 
-  * **Use our online checkout process***  
-Place your order online as you would normally order an item from AutoAnything. In the "Additional Information" area, located on the order and payment review page during checkout, note the lower price and where you found. We will adjust your order to reflect a credit for the difference.
-
-*Please note: your online receipt will not reflect the price adjustment. A corrected receipt will be emailed to you once the adjustment has been processed.
-
-  * **Place your order over the phone**  
-Contact one of our Auto Accessory Specialists toll-free at (800) 874-8888. We will review your request and place your order for the lower price.
-
-
+Please note: Processing your order at the lower match price is done at the discretion of AutoAnything and is subject to evaluation using the terms and conditions below.
 
 Processing your order at the lower match price is done at the discretion of AutoAnything and is subject to evaluation using the terms and conditions below.
 
@@ -194,7 +187,7 @@ Once you've made changes to your settings, email us once more and we'll gladly a
 
 ## Legal Notice, Terms & Conditions
 
-Blue Ribbon Motoring LLC d/b/a AutoAnything ALL RIGHTS RESERVED. Please refer to the legal notice below for terms of use. This Web site is operated by AutoAnything. The Web site address for AutoAnything is [http://www.AutoAnything.com](http://www.autoanything.com/). The mailing address for Blue Ribbon Motoring, LLC is 9210 Sky Park Court, Suite 100, San Diego, California 92123.
+Blue Ribbon Motoring LLC d/b/a AutoAnything ALL RIGHTS RESERVED. Please refer to the legal notice below for terms of use. This Web site is operated by AutoAnything. The Web site address for AutoAnything is [http://www.AutoAnything.com](http://www.autoanything.com/). The mailing address for Blue Ribbon Motoring, LLC is 6602 Convoy Ct, Suite 200, San Diego, California 92123.
 
 All users of this Web site agree that their access to and use of this Web site are subject to the terms and conditions set forth in this legal notice and all applicable laws, and that any such access or use is undertaken at the user's own risk. These terms and conditions further are subject to change at any time without prior notice. Any such changes will be reflected on the Legal Notice page of the AutoAnything Web site.
 
@@ -208,6 +201,34 @@ Blue Ribbon Motoring LLC and/or AutoAnything does not make any representations o
 
 * * *
 
+## CARB Exempt Information
+
+Parts and accessories which are not “CARB exempt” may violate emission control system anti-tampering laws, and may not be legal for highway use in your state.
+
+CARB (California Air Resources Board) sets motor vehicle emissions standards for the state of California; however, the following states also adhere to the CARB standard.
+
+  * Arizona
+  * California
+  * Connecticut
+  * District of Columbia
+  * Maine
+  * Maryland
+  * Massachusetts
+  * New Jersey
+  * New Mexico
+  * New York
+  * Oregon
+  * Pennsylvania
+  * Rhode Island
+  * Vermont
+  * Washington
+
+
+
+Please check your state and local laws for details.
+
+* * *
+
 ## Contact Information
 
 We're always here to help! Whether you contact us by phone or email, we'll give a prompt reply to your questions, comments or concerns.
@@ -217,8 +238,8 @@ For assistance from one of our knowledgeable Auto Accessory Specialists, call to
 ### Mailing address/company offices
 
 AutoAnything  
-9210 Sky Park Court, Suite 100  
-San Diego, CA 92123
+6602 Convoy Ct, Suite 200  
+San Diego, CA 92111
 
 ### Telephone
 
@@ -240,7 +261,7 @@ Friday - 5:30am - 5:00pm
 
 Saturday - 6:00am - 5:00pm
 
-Sunday - 6:00am - 7:00pm
+Sunday - 6:00am - 5:00pm
 
  **Customer Service**
 
