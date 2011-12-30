@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bellmedia.ca privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622070658id_/http%3A//www.bell.ca/shopping/PrsShpCTV_Privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellmedia.ca privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230194124id_/http%3A//www.bellmedia.ca/about/Media_Privacy.page) for the most accurate reproduction.*
 
-# Bell Media Website Privacy Policy- Bell
+# Bell
+
+## Bell Media Website Privacy Policy
 
   
 (Last Updated on April 1, 2011)
