@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ensighten.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216192152id_/http%3A//www.ensighten.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ensighten.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230053113id_/http%3A//ensighten.com/privacy) for the most accurate reproduction.*
 
 # Ensighten Privacy Policy
 
 ## Ensighten Customer Internet Privacy Statement
 
-**Effective 8/10/2010**
+**Last Updated 1/28/2011**
 
 ## Our Commitment To Privacy
 
@@ -12,7 +12,7 @@ Your privacy is important to us and maintaining your trust is our priority. To e
 
 ## Our Principles
 
-Ensighten adheres to industry best practice privacy principles with respect to the data collection practices at our websites; including the site that you are now visiting and the site that each of our clients uses to access the data we collect on the client’s behalf pursuant to the client’s instructions. Our fundamental privacy principles incorporate the guidelines suggested by the Federal Trade Commission for web sites that collect personally identifying information - Notice, Choice, Access, and Security - which are discussed below.
+Ensighten adheres to industry best practice privacy principles outlined by the [Web Analytics Association Code of Ethics](http://www.webanalyticsassociation.org/?page=codeofethics) with respect to the data collection practices at our websites; including the site that you are now visiting and the site that each of our clients uses to access the data we collect on the client’s behalf pursuant to the client’s instructions. Our fundamental privacy principles incorporate the guidelines suggested by the Federal Trade Commission for web sites that collect personally identifying information - Notice, Choice, Access, and Security - which are discussed below.
 
 **Notice** \- Ensighten is committed to making our data collection practices readily available to you so that you can make informed decisions about your activities at our websites.
 
