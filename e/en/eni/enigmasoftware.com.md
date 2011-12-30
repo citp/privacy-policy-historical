@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enigmasoftware.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501074043id_/http%3A//www.enigmasoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enigmasoftware.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230055102id_/http%3A//www.enigmasoftware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Remove Spyware & Malware with SpyHunter - Enigma Software Group USA LLC
 
