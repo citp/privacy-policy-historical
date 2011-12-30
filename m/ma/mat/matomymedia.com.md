@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matomymedia.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514195916id_/http%3A//www.matomymedia.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matomymedia.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230050816id_/http%3A//www.matomymedia.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Matomy Media
 
