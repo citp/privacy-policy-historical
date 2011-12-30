@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the greatsampleresume.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225105038id_/http%3A//www.greatsampleresume.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatsampleresume.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230090954id_/http%3A//www.greatsampleresume.com/privacy.php) for the most accurate reproduction.*
 
 # GreatSampleResume.com - Privacy Policy
+
+[Home](https://web.archive.org/) » Privacy Policy 
+
+  
+
 
 Thanks for visiting greatsampleresume.com. We are very much concerned about your privacy protection while providing you with useful information. Our privacy policy describes everything about our privacy practices like how we treat the information you provided when using or interacting with our site. 
 
@@ -19,7 +24,7 @@ We use your submitted information to send you e-mails about your requests, to me
 
 **Third Party Cookies** We use third-party advertising companies to serve ads when you visit our website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
 
-**DoubleClick DART Cookie** We use Google, as a third party vendor, who uses cookies to serve ads on greatsampleresumes.com. Google's use of the DART cookie enables it to serve ads to users based on their visit to greatsampleresumes.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.
+**DoubleClick DART Cookie** We use Google, as a third party vendor, who uses cookies to serve ads on greatsampleresumes.com. Google's use of the DART cookie enables it to serve ads to users based on their visit to greatsampleresumes.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
 
 **Security**
 
@@ -29,4 +34,4 @@ We hope this policy clarifies our procedures regarding your Personal Information
 
 [_contact us_](https://web.archive.org/contact-us.php/)
 
-.
+. 
