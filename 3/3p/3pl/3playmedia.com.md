@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3playmedia.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508121108id_/http%3A//www.3playmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3playmedia.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230045251id_/http%3A//www.3playmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - 3Play Media
 
@@ -62,4 +62,4 @@ We retain Personal Information for the period necessary to fulfill the purposes 
 
 We reserve the right to change this Privacy Policy without prior notice. You can find out when this Privacy Policy was last revised by referring to the “Last Updated” legend at the top of this page. Any changes to our Privacy Policy will become effective upon our posting of the revised Privacy Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Privacy Policy then in effect.
 
-If you are concerned about how your information is used or if you have questions regarding this policy, please contact us at **[info@3playmedia.com](mailto:info@3playmedia.com)**. 
+If you are concerned about how your information is used or if you have questions regarding this policy, please contact us at [info@3playmedia.com](mailto:info@3playmedia.com). 
