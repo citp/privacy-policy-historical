@@ -1,20 +1,24 @@
-> *The following text is extracted and transformed from the uship.com privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127141213id_/http%3A//www.uship.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uship.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230133103id_/http%3A//www.uship.com/privacy.aspx) for the most accurate reproduction.*
 
 # uShip - The Online Shipping Marketplace - Ship Freight, Furniture, Cars or Moves
 
 Your privacy is very important to all of us at uShip. We have established this privacy policy to explain to you how your personal information is protected, collected and used. Personal information is information about you that is personally identifiable such as your name, address, phone number, and email address that is not otherwise publicly available.
 
+TRUSTe Certification
+
 [ ](http://www.truste.org/ivalidate.php?url=www.uship.com&sealid=101)
 
-uShip is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site http://www.uShip.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+uShip has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the Web site www.uship.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
-If you have questions or concerns regarding this statement, you should first contact a uShip privacy associate at privacy@uShip.com. If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with uShip to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact a uShip privacy associate at privacy@uShip.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 Overview
 
 The privacy practices of this statement apply to our services available under the domain and subdomains of www.uShip.com (the "Site"). By visiting this website, you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree, please do not use or access our site.
 
 By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the uShip User Agreement.
+
+uShip complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. uShip has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view uShip’s certification, please visit http://www.export.gov/safeharbor/.
 
 Information Collection & Use
 
@@ -28,7 +32,7 @@ We automatically track certain information based upon your behavior on the Site.
 
 If you choose to list, bid or match on the Site, we collect information about your activity and behavior. We also collect other users’ comments about you in our feedback area.
 
-Additionally, as part of the registration process, uShip allows members registering as a service provider the option to submit certain commercial information such as a commercial service provider’s license number, DOT number, Motor Carrier (MC) number, and/or any other authority a service provider chooses to include. It is up to each member individually to provide this information and uShip does not verify its validity. This information can be viewed by other members on the member’s profile page under the About Me section.
+Additionally, as part of the registration process, uShip allows members registering as a service provider the option to submit certain commercial information such as a commercial service provider’s license number, DOT number, Motor Carrier (MC) number, and/or any other authority a service provider chooses to include. It is up to each member individually to provide this information. uShip will not validate this information but will allow uShip’s 3rd party partner, CarrierWatch, to verify and monitor the validity of the information submitted by each individual service provider. Only service providers that submit valid information on the uShip site will be officially CarrierWatch Verified, which is signified by a seal on the member profile. This seal and all other public information that a service provider submits can be viewed by other members on the member’s profile page under the About Me section. At any point in time a service provider can choose to opt out of the 3rd party CarrierWatch verification program from their uShip account within the edit profile section.
 
 If you choose to post messages on our Community Discussion Forums, Shipment Listing Q&A boards, or leave feedback for other members, we will collect that information you provide to us. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law. See “Community Discussion Forums” section below.
 
@@ -60,11 +64,11 @@ Information Sharing and Disclosure
 
 As a matter of policy, we do not sell, rent or share any of your personal information, including your email address, to third parties for their marketing purposes without your explicit consent. However, the following describes some of the ways that your personal information may be disclosed in the normal scope of business to provide our services.
 
-uShip Community: Your uShip userID is displayed throughout the Site and is therefore available to the public. All of your activities on the Site will be identifiable to your userID. Other people can see your bids, shipments you have listed, your feedback rating and associated comments, your postings on the Site, and so on. Therefore, if you associate your name with your userID, the people you have revealed your name to will be able to personally identify your uShip activities. If you are involved in a transaction, we have features that allow parties to the transaction to view your email address and obtain your contact information to help complete the transaction. Further, we may send out notices to you or other community members regarding suspicious activity or policy violations on the Site.
+uShip Community: Your uShip userID is displayed throughout the Site and is therefore available to the public. All of your activities on the Site will be identifiable to your userID. Other people can see your bids, shipments you have listed, your feedback rating and associated comments, your postings on the Site, and so on. Therefore, if you associate your name with your userID, the people you have revealed your name to will be able to personally identify your uShip activities. If you are involved in a transaction, we have features that allow parties to the transaction to view your email address and obtain your contact information to help complete the transaction. Further, we may send out notices to you or other community members regarding suspicious activity or policy violations on the Site. To request removal of your personal information from the uShip community, contact us at privacy@uship.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 External Service Providers: There may be separate services offered by third parties that we refer to as external service providers that may be complementary to your use of the Site. If you choose to use these separate services, disclose information to the external service providers, and/or grant them permission to collect information about you, then their use of your information is governed by their privacy policy. We do not disclose your personal information, including your email address, to external service providers unless you provide your explicit consent. With your consent we may provide some of your personal information to the external service provider offering such services, for your convenience. To prevent our disclosure of your personal information to an external service provider, you can decline such consent or simply not use their services. Because we do not control the privacy practices of these third parties, you should evaluate their practices before deciding to use their services. Examples of external service providers include CaféPress (http://www.cafepress.com) which operates the uShip merchandise store and BoxBundles (http://www.boxbbundles.com) which operates the uShip moving supply store.
 
-Internal Service Providers for Our Operations: We may use third parties that we refer to as internal service providers to facilitate or outsource one or more aspects of the business, product and service operations that we provide to you and therefore we may provide some of your personal information, including your email address, directly to these internal service providers. These internal service providers' are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide them for any other purpose except to facilitate the specific outsourced uShip related operation, unless you have explicitly agreed or given your prior permission to them for additional uses. If you provide additional information to an internal service provider directly, then their use of your personal information is governed by their applicable privacy policy. Examples of internal service providers include PayPal which is involved in the credit card processing function.
+Internal Service Providers for Our Operations: We may use third parties that we refer to as internal service providers to facilitate or outsource one or more aspects of the business, product and service operations that we provide to you and therefore we may provide some of your personal information, including your email address, directly to these internal service providers. These internal service providers' are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide them for any other purpose except to facilitate the specific outsourced uShip related operation, unless you have explicitly agreed or given your prior permission to them for additional uses. If you provide additional information to an internal service provider directly, then their use of your personal information is governed by their applicable privacy policy. Examples of internal service providers include PayPal which is involved in the credit card processing function, Transcore’s CarrierWatch tool which verifies and monitors all participating service provider’s licensure information, and the Location Labs Veriplace service which provides a tracking service.
 
 Legal Requests: uShip cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you and the uShip community from bad actors. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorize us to) disclose your name, city, state, telephone number, email address, UserID history, fraud complaints, and bidding and listing history without a subpoena. Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement or other government officials without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to: prevent imminent physical harm or financial loss; or report suspected illegal activity.
 
@@ -74,7 +78,7 @@ Log Files
 
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information.
 
-We use a third-party tracking service called Omniture that uses cookies and log files to track non-personally identifiable information about visitors to our site in the aggregate. We track trends in users’ usage and volume statistics to create a more efficient and usable site, and to determine areas of the site that could be improved to enhance the user experience.
+We track trends in users’ usage and volume statistics to create a more efficient and usable site, and to determine areas of the site that could be improved to enhance the user experience.
 
 Log files are used on the website, and in any link to the website from an email.
 
@@ -90,17 +94,31 @@ When uShip sets a cookie, it is not tied to your personally identifiable informa
 
 Cookies are only used on the website, not in email.
 
+The use of third party cookies are not covered by our privacy policy. We do not have access or control over these cookies. 
+
+Web Beacons (Clear Gifs)
+
+Our third party tracking utility company employs a software technology called clear gifs (a.k.a. web beacons), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. 
+
 Links to Other Sites
 
 This Web site contains links to other sites that are not owned or controlled by uShip. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.
 
 Community Discussion Forums
 
-If you use a bulletin board on the Site, you should be aware that any personally identifiable information, including your email address, you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. All other information pertaining to the collection and use of information can be found in the [Discussion Forum rules](https://web.archive.org/discussion_rules.aspx).
+If you use a bulletin board on the Site, you should be aware that any personally identifiable information, including your email address, you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. All other information pertaining to the collection and use of information can be found in the [Discussion Forum rules](https://web.archive.org/discussion_rules.aspx).To request removal of your personal information from the uShip community, contact us at privacy@uship.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+Facebook Connect
+
+uShip may allow users to access Facebook Connect to interact with friends and to share on Facebook through wall and friends’ news feeds. If you are already logged into uShip and Facebook, when you click on “Connect with Facebook” you will be prompted to merge your profiles. If you are already logged into uShip but not logged into Facebook, when you click on “Connect with Facebook” you will be prompted to enter your Facebook credentials or to “Sign up for Facebook.” By proceeding, you are allowing the uShip site to access your information and you are agreeing to the Facebook Terms of Use in your use of the uShip site.
+
+Conversely, if you are not currently registered as a uShip user and you click on “Sign in using Facebook” you will first be asked to enter your Facebook credentials and then be given the option to register and join uShip. Once you register on the uShip site and Connect with Facebook, you will be able to automatically post recent activity back to Facebook. You have the option to disable Facebook Connect at any time by logging into your profile and clicking on “My Facebook Profile.” Further, you can edit privacy settings for the reviews that appear on Facebook or disconnect this service by visiting the Facebook Application Settings page.
 
 Access to Personally Identifiable Information
 
-If your personally identifiable information, including your email address, changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member Account page or by contacting our Customer Support at [uShip Member Support](http://www.uship.com/support/).
+If your personally identifiable information, including your email address, changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member Account page or by contacting our Customer Support at [uShip Member Support](http://www.uship.com/support/).We will respond to your access request within 30 days.
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at privacy@uship.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 Security
 
@@ -126,4 +144,4 @@ uShip, Inc.
 205 Brazos St.  
 Austin, TX 78701
 
-_Last Revised Date: February 20, 2008_
+_Last Revised Date: September 27, 2011_
