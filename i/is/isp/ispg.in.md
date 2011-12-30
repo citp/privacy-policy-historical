@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ispg.in privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523005609id_/http%3A//www.ispg.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispg.in privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230044201id_/http%3A//www.ispg.in/privacy-policy.html) for the most accurate reproduction.*
 
 # ISPG Web Design Web & Mobile App Development Company Privacy Policy
 
