@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keynoir.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502024110id_/http%3A//www.keynoir.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keynoir.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230122047id_/http%3A//www.keynoir.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Keynoir London
 
