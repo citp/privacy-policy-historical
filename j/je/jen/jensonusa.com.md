@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jensonusa.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615075716id_/http%3A//www.jensonusa.com/help_desk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jensonusa.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230021154id_/http%3A//www.jensonusa.com/help_desk/privacy.aspx) for the most accurate reproduction.*
 
 # JensonUSA.com - Your Mountain & Road Bike online parts supplier!
 
@@ -46,6 +46,6 @@ Shipments outside the USA are declared as “bike parts” for customs purposes 
 
 close window
 
-Get free shipping with your $150 purchase today when you choose Economy Shipping at checkout. Please note this offer is only available to shipping addresses in the 48 continental United States, and oversize charges still apply on some heavy/large items.
+Get free shipping with your $25 purchase today when you choose Standard Shipping at checkout. Please note this offer is only available to shipping addresses in the 48 continental United States, and oversize charges still apply on some heavy/large items.
 
 Additionally, items marked “« Eligible for free shipping! »” ship free with no minimum.
