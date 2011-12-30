@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jpopasia.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615171300id_/http%3A//www.jpopasia.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpopasia.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230055433id_/http%3A//www.jpopasia.com/static/privacy) for the most accurate reproduction.*
 
-# JpopAsia - breaking asian celebrity news
+# JpopAsia - the online asian media resource
 
 The JpopAsia Privacy Policy describes how JpopAsia treats personal information, including information provided when you use JpopAsia. In addition, the following describes privacy practices specific to JpopAsia. To understand how we treat the information you give us as you use JpopAsia, you should read the JpopAsia Privacy Policy.
 
