@@ -1,114 +1,163 @@
-> *The following text is extracted and transformed from the roxio.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611084350id_/http%3A//www.roxio.com/enu/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roxio.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230174826id_/http%3A//www.roxio.com/enu/company/privacy.html) for the most accurate reproduction.*
 
 # Roxio - Privacy Statement
 
-Welcome to the website properties (the "Sonic Web Sites") of Sonic Solutions and its affiliates, [subsidiaries](http://www.sonic.com/privacy/subsidiaries.asp), successors, and assigns (collectively referred to as "Sonic")Sonic Websites include, without limitation, www.sonic.com, www.roxio.com, and other website properties hosted by or on behalf of Sonic. Sonic products and services (collectively, the "Products and Services") are offered by Sonic through web pages at or linked to the Sonic Web Sites, and are made available subject to this Privacy Policy. This Privacy Policy discloses the privacy practices of Sonic. Sonic reserves the right to change this Privacy Policy from time to time in its sole discretion. You are at all times responsible for reading and understanding any notices regarding this Privacy Policy and the current version of this document, as well as reading and understanding the current versions of all other Sonic policies, procedures and guidelines relating to the Products and Services and the Sonic Web Sites. A notice will be posted on our Web Sites whenever this Privacy Policy is changed in a material way. YOUR CONTINUED USE OF SONIC WEB SITES AND/OR THE PRODUCTS AND SERVICES FOLLOWING SONIC'S POSTING OF ANY CHANGES WILL CONSTITUTE YOUR ACCEPTANCE OF SUCH CHANGES. IF YOU DO NOT AGREE TO ANY CHANGES TO THIS PRIVACY POLICY, DO NOT CONTINUE TO USE THE PRODUCTS OR SERVICES OR THE SONIC WEB SITES.
+Review Rovi's legal and privacy notices for details on how we collect, use and protect your personal information on the website.
 
-  1. What information of yours does Sonic collect?
-  2. What are "cookies" and how does Sonic use them?
-  3. What organization is collecting the information?
-  4. How does Sonic use the information?
-  5. With whom does Sonic share the information that is collected?
-  6. What types of security procedures are in place to protect against the loss, misuse or alteration of your information?
-  7. Sonic notice regarding the U.S. Children's Online Privacy Protection Act (COPPA) of 1998
-  8. Updating your personal information and privacy preferences
-  9. Inquiries and Complaints
-  10. Disputes
+Your use of and access to any website or software application ('Rovi Property') either (i) made available to you directly or indirectly from this website; or (ii) with a direct link to this privacy policy is subject to this privacy policy. This privacy policy explains the data that we collect and how we use it. 
+
+We respect your privacy. If you have any privacy concerns or questions about this privacy policy, you can contact us by email at: [legal@rovicorp.com](mailto:legal@rovicorp.com).
+
+#### Contents
+
+About us  
+Your information  
+Tracking and Cookies  
+Email  
+Which organizations collect the information  
+Advertising  
+Security  
+Children  
+Changing your preferences  
+Other disclosures  
+Overseas transfers  
+Your consent  
+Your rights  
 
 
+**_ABOUT US AND THIS POLICY_**
 
-Contact information for questions regarding this statement should be directed to:
+All references to "we", "us" or "our" refer to (1) Rovi Corporation and/or one or more of its corporate affiliates (for all users located outside the European Union ('Europe')); and (2) for all users located in Europe, Rovi Europe Limited.
 
-Sonic Solutions Privacy Site Coordinator/Privacy Compliance  
-Sonic Solutions  
-7250 Redwood Blvd  
-Suite 300 Novato CA 94945  
-email: [privacy@sonic.com](mailto:privacy@sonic.com)
+Rovi Corporation is incorporated in the State of Delaware and its principal office is 2830 De La Cruz Boulevard, Santa Clara, California 95050. Rovi Europe Limited is incorporated in England with registered number 0296781 and has its registered office at Malvern House, 14-18 Bell Street, Maidenhead, Berkshire SL6 1BR. 
 
-Please note that Sonic Web Sites may contain links to other sites and that these sites' Privacy Policies may not conform to our own. This Sonic Privacy Policy does not cover third party data collection practices and Sonic does not assume any responsibility for any actions of third parties. You are solely responsible for reading and understanding the privacy and other policies of such web sites, and for complying therewith.
+This policy gives you the details of who we are and the details of our privacy policies, including: what data we collect about you when you use Rovi Property; what organization is collecting the information; how the information will be used or disclosed; what choices are available to you regarding collection and use of the data; what security measures are in place to protect your personal information; and how you can correct any inaccuracies in the information.
 
-#### 1\. What information of yours does Sonic collect?
+This policy may be amended from time to time without notice and it is your responsibility to read it carefully and review any changes that may have been made. Since changes will be posted on this page, we encourage you to check this page regularly. 
 
-The goal of Sonic is to provide you with the information, services and resources that are most relevant and useful to consumers and professionals interested in our products and those who serve them. To achieve this goal, Sonic sometimes needs to collect information to understand what differentiates you from its hundreds of thousands of other unique users. We collect two types of information from you, "anonymous information" and "personally identifiable information."
+For all users in locations other than in Europe, this policy, the processing of your online account data and any other data we collect shall be governed by the laws of the State of California and shall be subject to the exclusive jurisdiction of the courts in Santa Clara, California. For all users located in Europe, this policy, the processing of your online account data and any other data we collect is controlled by Rovi Europe Limited which is established in England, and subject to any mandatory laws in the country in which the user resides, shall be governed by the laws of and shall be subject to the exclusive jurisdiction of the Courts of England.
 
-Anonymous information refers to information that cannot be tied back to a specific individual. Each time a visitor comes to a Sonic Web Site, Sonic collects some information to improve the overall quality of the visitor's online experience. Sonic also collects aggregate search terms from its search services for internal reporting and targeted content presentation (that is, web pages which are dynamically displayed based on your individual interests). Sonic collects this user information for purposes of product monitoring, product improvement, and targeted content.
+Back to top
 
-In addition to anonymous data, Sonic may also collect personally identifiable information. Personally identifiable information refers to information that tells us specifically who you are, such as your name and postal address, credit card information, email address, products or services you purchase. Sonic collects personally identifiable information in the following ways from different parts of its network of web sites:
+**_YOUR INFORMATION: WHAT WE COLLECT, HOW WE COLLECT IT, AND HOW IT IS USED_**
 
-Most of the personal information is gathered when you register with one or several of Sonic Web Sites (often when you use a computer program or other Product or Service for the first time). If you choose to register, you may provide Sonic with your name, postal address, email address, birth date, gender, zip code and other requested information. While not all of this information may be required, the more information you provide (and the more accurate it is), the better we are able to customize your experience.
+In common with most other websites and on-line services, we collect certain data about your visit to the Rovi Properties. Any data we gather through your use of Rovi Property falls into three categories: (1) personal information that you supply to us, such as information you provide when you register (including your e-mail address), create an account, create a user name, complete a survey, enter a contest, or purchase products or services; (2) information that is collected as you use Rovi Property that becomes identified with your personal information; and (3) information that does not directly identify you and is collected as you use Rovi Property, including your IP address, and information gathered with the use of a "cookie" (cookies are discussed further below), and information related to searches or recommendations on Rovi Property. Such information collected includes, without limitation, which pages and content are browsed, interactions with advertising and content, and other data related to preferences and usage. We use this information to better provide products and services, including, without limitation, to better target advertising and content, and to generate statistics and reports.
 
-Sonic may also specifically ask you whether we may send you information about Products and Services related to a Sonic purchase.
+You may use certain Rovi Property without registering or creating an account. We may nonetheless build a history of your interactions with the Rovi Property even though we don't know who you are.In respect of certain Rovi Properties which are products, Rovi may also employ update management software to collect installation and registry information from your computer, including product, version, build, language and original equipment manufacturer. Where you use multiple Rovi Properties, Rovi may combine or link information collected from various Rovi Properties and use it for the purposes outlined in this privacy policy.
 
-Sonic collects information from commercial transactions, from requests for information on the Sonic Web Sites, and from its registration database.
+**Personal information**  
+As is common across websites, to use certain features of Rovi Property we ask you to register, create an account, provide your full name and email address and create a password. Once you have created an account, you will have the option to fill out a form (all or portions of which may be included in your profile).  When you create your profile, we collect personal information about you, such as name, address, location, e-mail address, favourite actors, music, etc. which will be stored in order to provide services to you and to conduct activities including, without limitation, using it to process your registration, maintain a profile about you, process your request to receive newsletters and email announcements, or to voluntarily participate in surveys or contests and/or to communicate with you about services and products we think may be of interest to you. 
 
-Sonic employs update management software to collect installation and registry information from your computer, including product, version, build, language, and OEM.
+Rovi may allow you to set up profiles that may be viewed by other users of the Rovi Properties. To enrich your profile you may chose to include some personal information in your public profile so that other users can identify you. You should only include information in your public profile that you do not mind making publicly available without restriction. 
 
-If you contact Sonic, we may keep a record of that correspondence, including your email address. We use that information so that we may respond to that email, and for future reference.
+To process your purchase orders we require your name, billing address, phone number, email address, shipping address, credit card information and credit card security codes. We use this information to process your order and, if any questions arise, to contact you about your order. We may also use it to contact you about other products and services we feel may be of interest to you. In general Rovi will try to email you first but may phone or send an electronic message to you if you have provided these details and you consent to our so doing. 
 
-#### 2\. What are "cookies" and how does Sonic use them?
+In respect of 'Roxio' branded Rovi Property, registering your product indicates that you have informed us of your interest in receiving offers and information from us and from third parties and we will contact you after registration unless you specify that you do not wish to receive such contact by notifying us at [legal@rovicorp.com](mailto:legal@rovicorp.com). For those who elect to receive such materials from third parties, Rovi may release personal information to those third parties. Information released may include your name, email address and other information supplied in the Rovi registration process.
 
-A cookie is a small text file containing a unique identification number that is transferred from a web site to the hard drive of your computer so that the web site may identify you and track your activities on the web site. This unique number identifies your browser to computers whenever you visit the web site making use of them. A cookie will not allow a web site to learn any personally identifiable information (such as your real name and address) that you have not otherwise disclosed.
+Personal information is also used to provide personalised services to you, such as show tracking and recommendations.
 
-In order to improve the Sonic Web Sites, we use cookies to track your visits. Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. Please see the user guide or help section of your browser to make this change. For some Sonic Web Sites that require an authorization, cookies may not be optional; users choosing not to accept cookies may not be able to access such Web Sites or to use some or all of the Products and/or Services otherwise available on such Web Sites.
+Back to top
 
-#### 3\. What organization is collecting the information?
+**_TRACKING INFORMATION - COOKIES, FLASH COOKIES , CLEAR GIFS, AND IP ADDRESSES_**
 
-When you provide information to Sonic, that information is collected and maintained either by Sonic or by an authorized agent of Sonic such as web hosting companies, customer care service providers, and transaction processing service providers, unless specifically stated otherwise at the point of collection.
+We store and track user information by using "cookies" and clear GIFs, which are also sometimes called web bugs or web beacons. Cookies alone do not tell us your e-mail address or other personal information. However, information provided through cookies may be associated with personal information if you provide this information to us by, for example, registering to use certain Rovi Properties. A cookie is data sent to your browser from a web server. It is stored on your computer and contains a unique identifier that allows our sites to recognize your computer. If you have an account with Rovi, a cookie on your computer lets us remember your user name and password so you don't have to re-enter that information each time you visit the site. Another cookie is a Flash cookie that is embedded in the Adobe Flash Player, which is a web tool that allows rapid development of dynamic content. Adobe Flash cookies may be used in certain situations where we use Flash to provide some content such as video clips or animation and to remember settings, preferences and usage. They are similar to 'browser' cookies (as described above) but are managed through a different interface than the one provided by your web browser.
 
-#### 4\. How does Sonic use the information it collects?
+The use of cookies is standard on the Internet and you will find they are currently used by many major websites. You can set your web browser preferences to alert you when a cookie is sent to your hard drive, or to refuse cookies altogether. We do not require you to use cookies, but please keep in mind that certain features and services will not function properly if you set your browser to refuse cookies.
 
-Any personal information you provide to Sonic at any of the Sonic Web Sites is maintained and accessible only by Sonic and its authorized agents and business partners, unless specifically stated otherwise. Sonic may request information from its users so that users can enjoy customized experiences across Sonic Web Sites, including personalized services, interactive communications, discussion groups, and many other types of content and services. Most of these Products and Services are free to you. In order to provide great content and services free of charge, Sonic may display advertisements.
+"Clear GIFs" are very small image files that we sometimes place on web pages and within web-based email newsletters or other communication we send. Clear GIFs let us accurately count the number of users who have visited specific pages and the number of times those pages are accessed. Clear GIFs also let us know how many people opened an email. 
 
-The following are examples of how Sonic may use the information it collects:
+We may use cookies, clear GIFs and related tracking technology to collect information such as your browser type, the type of operating system you use, the domain name of your Internet service provider, IP address, pages visited on the site, services used and how you have used them. 
 
-Sonic may provide you with technical support, updates to Products and Services, and upgrades to newer products as they become available.
+We may provide data about our users, traffic patterns, products, services and site information to third-parties (such as vendors, advertisers and our business partners), but we will use reasonable efforts to provide it in a form that does not directly identify you.
 
-Sonic may offer its users the ability to personalize content such as news, local resources, links to other web sites, and more.
+Find out how to disable/enable browser cookies by clicking on the "Manage Cookies" section of the Interactive Advertising Bureau website on the following link <http://www.allaboutcookies.org/>. You may access and manage Flash management tools such as flash cookies from Adobe's web site directly at <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html>.
 
-Sonic occasionally sponsors sweepstakes, contests and promotions. If you request, we may use contact data from our promotions to send you information we think you will find useful, such as information about new products or promotions. When we email you, we will always provide instructions explaining how to unsubscribe, so you will not receive our emails in the future.
+Back to top
 
-To process your order on our online store(s), we require name, billing address, phone number, email address, shipping address and credit card information. We use this information to process your order and, if any questions arise, to contact you about your order. In general, we will try to contact you first by email and only if that fails, or if time is critical, will we try to contact you by phone.
+**_EMAIL_**
 
-Sonic may be required by law enforcement or judicial authorities to provide information on individual users to the appropriate governmental authorities. In matters involving a danger to personal or public safety, Sonic may voluntarily provide information to appropriate governmental authorities. If you are a member of the military, you should not register any personally identifiable information at the Sonic Web Sites in the eventuality that it may be subpoenaed. Sonic sometimes uses an individual registered user's data to "pre-populate" forms that are displayed when that user has logged in for the purpose of collecting individual data by Sonic and/or its advertisers and sponsors.
+Email addresses are used for identification, inviting new friends to Rovi Properties, searching for and finding friends, general communication, order processing and to send notifications to you. To facilitate searching for and finding friends on the Rovi Properties, Rovi allows users to search for other members using text searches, first and last name, email address, and by using other attributes. Users can invite friends to join certain Rovi Properties by sending invitation emails via our automated invitation system. Where permitted by applicable law, Rovi stores these email addresses so that the respondents may be added to the friend list of the member sending the invitations and to establish relationships between users. 
 
-Sonic may use the aggregate data collected to inform our sponsors, advertisers and other third parties as to numbers of people who have certain demographic characteristics and the number of those people who have seen and "clicked" on specific pages or advertisement(s). We may also disclose to such third-parties the overall demographics available regarding who saw and "clicked" on advertisements.
+Back to top
 
-In the event Sonic sells assets (or the assets of a division or subsidiary) to another entity, including, without limitation, in the event of bankruptcy, or if Sonic (or a division or subsidiary) is acquired by, or merged with, another entity, Sonic may provide to such entity customer and visitor information (both aggregate and personally identifiable) that is related to that part of the business that was sold to or merged with the other entity.
+**_WHICH ORGANIZATIONS ARE COLLECTING THE INFORMATION?_**
 
-Sonic may send you email or otherwise contact you about products and services that we feel may be of interest to you, including, without limitation notification of sales, coupons, newsletters and other communications. Registering your product indicates that you have informed us of your interest, and we will contact you after registration unless you specify that you do not wish to receive such contact by notifying us at [privacy@sonic.com](mailto:privacy@sonic.com)[](http://www.sonic.com/notification/). For those who elect to receive such materials from Sonic or third parties, and who indicate that they do in their profile, Sonic will release personally identifiable information. Information released may include your name, email address and other information supplied in the Sonic registration process, and only when you specifically grant us that right. You may opt-out of any Sonic communications at any time. Sonic also uses aggregate data to perform statistical analyses of the collective characteristics and behavior of our registered users and visitors, to measure user demographics and interests regarding specific areas of the Sonic Web Sites, and to analyze how and where best to use our resources. Without such data, we would not know what the most popular areas of the Sonic Web Sites are, and we would not be able to change and update the content and services appropriately.
+When you provide information to Rovi, that information is collected and maintained either by Rovi or by an authorized agent or contractor of Rovi such as web hosting companies, customer care service providers, and transaction processing service providers, unless specifically stated otherwise at the point of collection.
 
-Sonic may, from time to time, use your information to contact you about changes or enhancements to Sonic Products and Services.
+Back to top
 
-#### 5\. With whom does Sonic share the information that is collected?
+**_ADVERTISING_**
 
-Information about our customers and visitors to the Sonic Web Sites is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described in this Privacy Policy and with affiliates, business partners, subsidiaries and agents that either are subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy.
+We may use your personal information and non-personal information to serve ads to you via Rovi Property as well as to provide you with promotions, products and services. We may also use third-party advertising companies and other business partners to serve ads on Rovi Property and provide you with promotions, products and services. These third-party advertising companies and our business partners may be located throughout the world. 
 
-When you submit personally identifiable information to Sonic, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in any of the countries in which Sonic and its affiliates, business partners, and subsidiaries maintain offices, including, without limitation, the United States which may not provide the same statutory protection as your country of residence.
+These third-party advertising companies and business partners may receive information relating to the advertisements that they serve you including, without limitation, date and time of ad shown, the banner ad that was shown and your IP address and your interactions with such advertisements. These third-party advertising companies and business partners may use cookies, clear GIFs and anonymous information about your visits to Rovi Property and other websites to measure and improve the effectiveness of their ads, promotions, products and services. This information may also be used for online preference and other targeted marketing purposes. The information received by these third-party advertising companies and business partners is subject to the privacy policies of these third-party advertising companies and business partners. We may be given access to this information by these third-party advertising companies and business partners which we may use for purposes including, without limitation, to better target advertising and content to you and to generate statistics and reports that help us develop our products and services.
 
-You also acknowledge that in certain countries or with respect to certain activities, the collection, transferring, storage, and processing of your information may be undertaken by trusted vendors, agents, or service providers of Sonic. Such vendors are bound by contract not to use your personal information for their own purposes or provide it to any third parties.
+With your consent (as indicated when you set up your account) we may make certain information about you (including personal information, where you consent) available to third-party advertising companies and other business partners under agreements between us and those third-party advertising companies and business partners. The third-party advertising companies and business partners will use that information to target advertising to you or provide and market promotions, products and services to you. You may withdraw your consent to our providing your personal information to advertising companies and business partners at any time by adjusting your preferences in the preference page of the relevant Rovi Property. If you do so we will not provide your personal information from the relevant Rovi Property to third party advertisers or business partners from the time you opt out. However where permitted by applicable law, we may still provide them with information that does not directly identify you from which they may send you targeted advertisements.
 
-Sonic has established relationships with various service providers whose services are available to you from the Sonic Web Sites or from web sites that are linked to the Sonic Web Sites. Typically, these providers offer services that Sonic customers might find useful, such as those that can be used in conjunction with Sonic Products and Services. In order to use those services, you may be required to provide personally identifiable or other information to the providers. Unless expressly provided to the contrary,personally identifiable information that you provide while you are visiting a provider's web site will be subject to the privacy policy posted on such web site, and personally identifiable information that you provide while on the Sonic Web Sites in conjunction with a provider's service will be subject to this Privacy Policy. As noted above, you are solely responsible for reading and understanding the privacy and other policies of these service providers and all other third party web sites you visit. You should be aware that our agreements with these service providers often provide that they will share with Sonic personal information collected from you. If we do receive information from a third party service provider, we may use this information in a manner consistent with this Privacy Policy. You should also be aware that our agreements with certain business partners whose products and/or services you have elected to acquire may require that Sonic share certain personal information collected from you relating to those business partners' products and/or services. Information Sonic collects from you that is shared with business partners under such an agreement will be used by those business partners only in accordance with their privacy policies.
+Many of our advertising partners are part of the Network Advertising Initiative. You may opt-out of behavioral advertising for Network Advertising Initiative member companies by following the link below and opting-out of all or some of the advertising networks: <http://www.networkadvertising.org/managing/opt_out.asp>
 
-#### 6\. What kinds of security procedures are in place to protect against the loss, misuse or alteration of your information?
+Opting out of Flash Cookies is described above in the Advertising section.
 
-Sonic has security measures in place to attempt to protect against the loss, misuse and alteration of data under our control. We have implemented rules and procedures designed to limit access to the information you provide us. Despite the steps we take to ensure the protection of your information, unfortunately we cannot guarantee that loss, misuse or alteration to data will not occur. To better protect you, we encrypt particularly sensitive information, such as credit card numbers collected for a commerce transaction (donation) on the Sonic Web Sites, prior to transmission. In the event of an inadvertent disclosure, Sonic will do everything commercially reasonable to limit and remedy the disclosure, but Sonic accepts no liability for any unintentional disclosure. In addition, in the unlikely event that any government or private individual seeks information, Sonic will not voluntarily provide the information, but will obey any court order requiring disclosure.
+Back to top
 
-You are responsible for the security of your Sonic ID and password. Please take care when using and storing them. Sonic recommends that you do not divulge your password to anyone. You should log out of your browser at the end of each computer session to ensure that others cannot access your personal information and correspondence, especially if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
+**_SECURITY_**
 
-#### 7\. Sonic notice regarding the U.S. Children's Online Privacy Protection Act (COPPA) of 1998
+We use commercially reasonable efforts to safeguard the confidentiality of your personal information. However, due to the design of the Internet, ever-changing technology and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties. We will have no liability for disclosure of personal information due to errors in transmission or unauthorized or unlawful acts of third parties. 
 
-The Children's Online Privacy Protection Act (COPPA) of 1998 provides safeguards to protect children who use the Internet by regulating the online collection of personal information from children under the age of 13. Sonic does not sell Products or Services for purchase by children, and we ask that minors (under the age of 18) do not submit any personal information to us. If you are a minor, you can use the Sonic Web Sites only in conjunction with your parents or guardians. Sonic and the Sonic Web Sites do not target children as an audience or a market, and Sonic does not collect information about the age of its web site users. If we learn that we have inadvertently collected personal information from a child we will make all reasonable efforts to delete that data from our records.
+You are responsible for the security of your Rovi user name, ID and password. Please take care when using and storing them.
 
-#### 8\. Updating your personal information and privacy preferences.
+Back to top
 
-Upon your request, we will deactivate your Sonic ID, contact information, billing information, shipping information, and financial information from our active databases to prevent your information from being shared with other users. To make this request, please email privacy@sonic.com. Such information will be deactivated as soon as reasonably possible based on your Sonic ID activity and in accordance with our deactivation policies and procedures and applicable law.
+**_COMMITMENT TO CHILDRENS' PRIVACY_**
 
-We will make our best effort to remove your information from our active communication files upon request. Please note, however, that we will retain certain information in order to resolve disputes, troubleshoot problems and enforce the policies, procedures and agreements set forth on the Sonic Web Sites.
+Protecting the privacy of children is important to us. For that reason, none of our Rovi Properties are directed at anyone under 13 and they are not structured specifically to attract anyone under 13.  We also do not collect or maintain personal information from those users who we actually know are under 13. Should we learn or be notified that we have collected information from users under the age of 13, we will immediately delete such personal information.
 
-#### 9\. Inquiries and Complaints
+Back to top
 
-If you have any concern about privacy at Sonic, please send us a thorough description of your concern to privacy@sonic.com or the address above, and we will try to resolve it.
+**_CHANGING YOUR PERSONAL INFORMATION & PREFERENCES_**
 
-#### 10\. Disputes
+**Your Right to Choose**  
+When you register to access certain Rovi Properties, you can let us know that you do not wish to receive announcements from us by opting out at the time you give us your personal information. You may also later opt out of providing us personal identifiable information by changing your preferences in the set up areas of the Rovi Properties or changing the necessary settings in your profile. For certain Rovi Properties opting out may only be possible if you delete your account for that Rovi Property. If you opt out or do not provide your personal information then some services and features (such as personal information services, recommendations and tracking of ratings and likes and dislikes) may not be available to you or may be deleted. All newsletters and email announcements from us will contain an unsubscribe link that also allows you to opt out at any time from these messages.
 
-If you choose to visit any Sonic Web Site, your visit and any dispute over privacy is subject to this Privacy Policy and our Legal terms and conditions, including limitations on damages, arbitration of disputes, and application of the law of the State of California.
+**Review and Correction**  
+You may review and update the personal information that you have provided us by visiting the relevant set up page of the Rovi Property and updating your account profile.
+
+Back to top
+
+**_OTHER DISCLOSURE OF PERSONAL INFORMATION_**
+
+We will not otherwise use or disclose your personal information without your consent except (i) as described in this privacy policy, (ii) as required by court order or other government or law enforcement authorities in order to comply with legal process or law, (iii) in the event of a merger where another company has acquired the relevant Rovi Property, (iv) in order to protect against the misuse or unauthorized use of Rovi Property, (v) in order to protect and defend our rights and property, or (vi) in order to protect the personal safety or property of our users or the public.
+
+If Rovi sells assets (or the assets of a division or subsidiary) to another entity, including, without limitation, in the event of bankruptcy, or if Rovi (or a division or subsidiary) is acquired by, or merged with, another entity, Rovi may provide to such entity user information (both anonymised and/or aggregate and personal information) that is related to that part of the business that was sold to or merged with the other entity.
+
+**Links to Third Party Websites**  
+Rovi Properties may display links to websites operated by third parties. If you click on a link, the relevant third party operator or others may collect data about you when you visit the linked website. They are responsible for the collection and further processing of such data and we have no control over it. We advise you to check the terms of use and privacy policies of any linked websites you visit to find out what data they are collecting and the purposes for which they process your personal data.
+
+Back to top
+
+**_OVERSEAS TRANSFERS AND PROCESSING OF YOUR INFORMATION_**
+
+Your personal information may be used by us and our affiliates, subsidiaries and our suppliers who may be located in countries outside the country where you are located or the purposes outlined in this policy to manage Rovi's global business. The data protection laws in these countries may not offer the same level of protection as those in the country where you are located. By providing your personal information to us you understand and expressly consent to us and our suppliers processing your data in any jurisdiction, including without limitation the United States of America, in accordance with this privacy policy.
+
+Back to top
+
+**_YOUR CONSENT_**
+
+**BY USING ANY ROVI PROPERTIES, YOU ARE CONSENTING TO THE COLLECTION AND USE OF YOUR INFORMATION DESCRIBED IN THIS PRIVACY POLICY AND YOU ACCEPT AND AGREE TO THIS PRIVACY POLICY.**
+
+Back to top
+
+**_YOUR RIGHTS_**
+
+Your European Privacy Rights. If you are located in Europe, some of the data that we process may be protected by data protection laws such as, in the United Kingdom, the Data Protection Act 1998 (the "Act"). Under the Act, you have certain rights to request information about, get access to or request the amendment of any such personal data. If you wish to exercise these rights, please contact us at [legal@rovicorp.com](mailto:legal@rovicorp.com). Please see the UK Information Commissioner's Office website at: <http://www.ico.gov.uk/> for further details.
+
+Your California Privacy Rights. If you are a resident of the State of California, we provide you in this Privacy Policy with information on how to exercise your disclosure choice options such as your right to opt-out (or "unsubscribe") of our use and sharing of your Personal Information for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. 
+
+If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to our Privacy Administrator at [legal@rovicorp.com](mailto:legal@rovicorp.com) or by postal mail to Rovi Corporation 2830 De La Cruz Boulevard, Santa Clara, California 95050, Attn:Your California Privacy Rights, c/o Privacy Administrator, Legal Department. All requests must be labelled "Your California Privacy Rights" in the email subject line or envelope or post card. For all requests, please clearly state that the request is related to "Your California Privacy Rights", include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We are unable to accept requests via the telephone or by facsimile. We are not responsible for notices that are not labelled or sent properly, or do not have complete information.
+
+Back to top
+
+**Inquiries**  
+If you have any concern about privacy at Rovi, please send us a thorough description of your concern to [legal@rovicorp.com](mailto:legal@rovicorp.com) or the address above, and we will try to resolve it.
+
+This privacy policy was last updated on: September 30th 2011.
