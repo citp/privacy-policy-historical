@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wemabank.com privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108031113id_/http%3A//www.wemabank.com/pages/Content.aspx%3Fid%3Db%252b0UUlYXEY7o1MmB5RIZNQ%253d%253d%26ln%3DGy7UlI4cSJE94Wa2qudbFQ%253d%253d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wemabank.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230125204id_/http%3A//www.wemabank.com/pages/Content.aspx%3Fid%3Db%252b0UUlYXEY7o1MmB5RIZNQ%253d%253d%26ln%3DGy7UlI4cSJE94Wa2qudbFQ%253d%253d) for the most accurate reproduction.*
 
 # Wema Bank PLC
 
@@ -68,7 +68,3 @@ In providing your telephone, facsimile number, postal and e-mail address or simi
 Wema Bank PLC reserves the right to amend its prevailing Data Protection and Privacy Statement at any time and will place any such amendments on this Web Site. This Data Protection and Privacy Statement is not intended to, nor does it, create any contractual rights whatsoever or any other legal rights, nor does it create any obligations on Wema Bank PLC in respect of any other party or on behalf of any party.
 
 COPYRIGHT © Wema Bank PLC 2010. ALL RIGHTS RESERVED. 
-
-Market Share Price
-
-Links
