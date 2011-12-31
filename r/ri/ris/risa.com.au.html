@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the risa.com.au privacy policy that was archived on 2011-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605194503id_/http%3A//www.risa.com.au/AboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the risa.com.au privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231031030id_/http%3A//www.risa.com.au/AboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -8,6 +8,8 @@
 	<title>RISA - Racing Information Services Australia</title>
     <link rel="shortcut icon" type="image/x-icon" href="/design/images/favicon_risa.ico">
     <link href="/design/css/risa_web_style.css" rel="stylesheet" type="text/css">
+	 <link href="/design/css/risa_white_label.css" rel="stylesheet" type="text/css">
+	 
     <!--Racing Materials Style-->
     <link href="/design/css/drop_down_style.css" rel="stylesheet" type="text/css">
 
@@ -27,14 +29,26 @@ a.hiddenajaxlink{display: none}
 
 	<!-- Begin iPhone/iPad detection code - Sets a global variable -->
 	<script type="text/javascript">
-		if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
-			var replaceSWF = 1;
-		} else {
-			var replaceSWF = 0;
-		}
+	    if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+	        var replaceSWF = 1;
+	    } else {
+	        var replaceSWF = 0;
+	    }
+	    function GoHome() {
+	        window.location='/home.aspx';
+	    }
 	</script>
 		
 	<!-- End iPhone/iPad detection code   -->
+	<!--Asynchronous Code for google to track out bound clicks-->
+	<script type="text/javascript">
+	  function recordOutboundLink(link, category, action) {
+		_gat._getTrackerByName()._trackEvent(category, action);
+		setTimeout('document.location = "' + link.href + '"', 100);
+	  }
+	</script>
+	<!--End Asynchronous Code-->
+	
 	<!--Google Analytics Updated Tracking 13052011-->
 	<script type="text/javascript">
 
@@ -50,13 +64,23 @@ a.hiddenajaxlink{display: none}
 	  })();
 	
 	</script>
+	<!--Extra Code to Track out bound links-->
+	<script type="text/javascript">
+	function recordOutboundLink(link, category, action) {
+	  try {
+		var pageTracker=_gat._getTracker("UA-6444294-1");
+		pageTracker._trackEvent(category, action);
+		setTimeout('document.location = "' + link.href + '"', 100)
+	  }catch(err){}
+	}
+	</script>
 	<!-- End Google Analytics Updated Tracking 13052011-->
 	   
 </head>
 <body class="IE6fix ShowQuickLinks">
 <div id="main">
   <div id="shadow-left"></div>
-  <div id="main-content"><a href="/home.aspx" name="top"><img src="/design/images/RISA_header.jpg" class="header-img" width="1000" height="120" title="RISA" alt="RISA" border="0"></a><br>
+  <div id="main-content"><a href="/home.aspx" name="top"><div id="RisaBanner" onclick="GoHome()"></div></a>
     <div id="green-menu">
         <ul id="navlist">
 		  <li><a href="/home.aspx"><img src="/design/images/home_btn.png" border="0" width="15" height="14" alt="Home" title="Home"><!--[if IE 6]> Home<![endif]--></a></li>
@@ -89,6 +113,7 @@ a.hiddenajaxlink{display: none}
               <li><a href="http://www.australianracingboard.com.au/rules" target="_blank">Rules of Racing</a></li>
               <li><a href="/RoR/RenamedHorses.aspx">Renamed Horses</a></li>
               <li><a href="/RoR/Login.aspx">Login</a></li>
+			  <li><a href="/RoR/OwnersAssociations.aspx">Owners Associations</a></li>
               <li><a href="/RoR/ContactUs.aspx">Contact Us</a></li>
             </ul>
           </li>
@@ -96,7 +121,7 @@ a.hiddenajaxlink{display: none}
             <ul>
 			  <li><a href="/Subscriber/">Subscriber Information</a></li>
               <li><a href="http://www.risaform.com.au/racing/Racing.aspx" target="_blank">RISA Form Subscriber Login</a></li>
-            <!--  <li><a href="/PaidServices/Pedigree/index.aspx" target="_blank">Pedigree Report Subscriber Login</a></li> -->
+           	  <li><a href="/PaidServices/Pedigree/index.aspx">Pedigree Report Subscriber Login</a></li>
               <li><a href="http://materials.risa.com.au/Publishing/MainMenu.asp" target="_blank">RSB Subscriber Login</a></li>
             </ul>
           </li>
@@ -105,6 +130,7 @@ a.hiddenajaxlink{display: none}
               <li><a href="/IndustryLogin/IRIS_Login.aspx">IRIS</a></li>
               <li><a href="/RoR/Login.aspx">ROR Login</a></li>
               <li><a href="http://www.risaconnect.com.au/risa/login.asp" target="_blank">RISA Connect</a></li>
+			  <li><a href="http://risa.webex.com" target="_blank">Webex</a></li>
             </ul>
           </li>
 		  <li><a href="/AboutUs/">About Us</a>
@@ -116,6 +142,7 @@ a.hiddenajaxlink{display: none}
                   <li><a href="/AboutUs/AdvertiseWithUs.aspx">Advertise With Us</a></li>
 				  <li><a href="/AboutUs/CorporateDocuments/RISA_YIR/index.html" target="_blank">2010 Year in Review</a></li>
 				  <li><a href="/IndustryUpdates/BarrierDrawAudit.aspx">Barrier Draw Audit</a></li>
+				  <li><a href="/AboutUs/IndustryAnnouncements.aspx">Industry Announcements</a></li>
                 </ul>
           </li>
 		  <li><a href="/ContactUs">Contact Us</a></li>
@@ -185,19 +212,19 @@ a.hiddenajaxlink{display: none}
                   <li><a href="http://www.trnt.org.au/integrity-matters/stewards-reports/" target="_blank">- Northern Territory</a></li>
                   <li><a href="http://www.thoroughbredpark.com.au/stewards-reports" target="_blank">- Australian Capital Territory</a></li>
               	</ul>
-			   	<!--<h3 class="headerbar" style="background: url(/design/images/racingmaterial/premierships_button.png) no-repeat 8px 6px;"><a href="#">Premierships</a></h3>
+			   	<h3 class="headerbar" style="background: url(/design/images/racingmaterial/premierships_button.png) no-repeat 8px 6px;"><a href="#">Premierships</a></h3>
                  <ul class="submenu">
-                   <li><a href="http://materials.risa.com.au/Publishing/pgStatsPremierships.asp" >- Australia</a></li>
-                  <li><a href="http://materials.risa.com.au/Publishing/pgNSW.asp" >- New South Wales</a></li>
-                  <li><a href="http://materials.risa.com.au/Publishing/pgVIC.asp">- Victoria</a></li>
-                  <li><a href="http://materials.risa.com.au/Publishing/pgQLD.asp">- Queensland</a></li>
-                  <li><a href="http://materials.risa.com.au/Publishing/pgWA.asp">- Western Australia</a></li>
-                  <li><a href="http://materials.risa.com.au/Publishing/pgSA.asp">- South Australia</a></li>
-                  <li><a href="http://materials.risa.com.au/Publishing/pgTAS.asp">- Tasmania</a></li>
-                  <li><a href="http://materials.risa.com.au/Publishing/pgNT.asp">- Northern Territory</a></li>
-                  <li><a href="http://materials.risa.com.au/Publishing/pgACT.asp">- Australian Capital Territory</a></li>
-				  <li><a href="http://materials.risa.com.au/Publishing/pgStatePremINC.asp?FileName=AUSPREVSEASON&StateDesc=">- 2009/2010 Premierships</a></li>
-                </ul>-->
+                   <li><a href="/FreeServices/Premierships.aspx">- Australia</a></li>
+                  <li><a href="/FreeServices/Premierships.aspx?State=NSW">- New South Wales</a></li>
+                  <li><a href="/FreeServices/Premierships.aspx?State=VIC">- Victoria</a></li>
+                  <li><a href="/FreeServices/Premierships.aspx?State=QLD">- Queensland</a></li>
+                  <li><a href="/FreeServices/Premierships.aspx?State=WA">- Western Australia</a></li>
+                  <li><a href="/FreeServices/Premierships.aspx?State=SA">- South Australia</a></li>
+                  <li><a href="/FreeServices/Premierships.aspx?State=TAS">- Tasmania</a></li>
+                  <li><a href="/FreeServices/Premierships.aspx?State=NT">- Northern Territory</a></li>
+                  <li><a href="/FreeServices/Premierships.aspx?State=ACT">- Australian Capital Territory</a></li>
+				  <!--<li><a href="/FreeServices/Premierships.aspx?Season=2009">- 2009/2010 Premierships</a></li>-->
+                </ul>
               	<h3 class="headerbar2" style="background: url(/design/images/racingmaterial/horse_search_button.png) no-repeat 8px 6px;"><a href="/FreeServices/HorseSearch.aspx">Horse Search with Ratings</a></h3>
              	<h3 class="headerbar2" style="background: url(/design/images/racingmaterial/pedigree_button.png) no-repeat 8px 6px;"><a href="/FreeServices/PedigreeSearch.aspx">Free 5x Pedigree Search</a></h3>
             
@@ -207,11 +234,12 @@ a.hiddenajaxlink{display: none}
         </div>
 		<div class="side-adverts">
 		    
-			<a href="http://www.macedonlodge.com.au/pages/Horses.for.sale" target="_blank"><img src="/design/images/adverts/HUD196_WebAd_RISA_185x140.jpg" width="185" height="140" alt="Lloyd Williams" title="Lloyd Williams" border="0"></a><br><br>
-			<a href="http://www.gavelhouse.com/au" target="_blank"><img src="/design/images/adverts/gavelhouse_184x127.gif" width="185" height="127" alt="Gavel House" title="Gavel House" border="0"></a><br><br>
+				<a href="http://www.gavelhouse.com/au" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Gavel House']);" target="_blank"><img src="/design/images/adverts/gavelhouse_184x127.gif" width="185" height="127" alt="Gavel House" title="Gavel House" border="0"></a><br><br>
+				<a href="http://www.magicmillions.com.au/" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Magic Millions - Yearling']);" target="_blank"><img src="/design/images/adverts/2012GCYearlingSale_WebButtonSet_185x127pt.jpg" width="185" height="127" alt="Magic Millions - Yearling" title="Magic Millions - Yearling" border="0"></a><br><br>
+				<a href="http://www.getontrack.com.au" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Ontrack - Dubai World Cup']);" target="_blank"><img src="/design/images/adverts/Ontrack_sm.gif" width="185" height="127" alt="Ontrack - Dubai World Cup" title="Ontrack - Dubai World Cup" border="0"></a><br><br>		
 			
-			<a href="http://www.ttsc.com.au" target="_blank"><img src="/design/images/adverts/TTSC_RISA_website.gif" width="185" height="127" alt="TTSC" border="0"></a><br><br>
-			<a href="http://www.facebook.com/pages/RISA/118598388162040?ref=ts" target="_blank"><img src="/design/images/adverts/find_risa_on_facebook.jpg" width="185" height="50" alt="Go to our Facebook Page" title="Go to our Facebook Page" border="0"></a>
+			<a href="http://www.ttsc.com.au" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'ttsc.com.au - Magic Millions']);" target="_blank"><img src="/design/images/adverts/TTSC_RISA_website_Magic_Millions.gif" width="185" height="127" alt="TTSC" border="0"></a><br><br>
+			<a href="http://www.facebook.com/RISA10" target="_blank"><img src="/design/images/adverts/facebook_btn.jpg" width="93" height="29" alt="Go to our Facebook Page" title="Go to our Facebook Page" border="0"></a><a href="http://twitter.com/#!/RISA_Updates" target="_blank"><img src="/design/images/adverts/twitter_btn.jpg" width="93" height="29" alt="Go to our Twitter Page" title="Go to our Twitter Page" border="0"></a>
 		</div>
 		<!-- AddThis Button BEGIN -->
 		<div class="addthis_toolbox addthis_default_style ">
@@ -271,9 +299,10 @@ a.hiddenajaxlink{display: none}
     <div id="stateCopyright-container"></div>    
     <img src="/design/images/copyright_top_bar.gif" class="header-img" width="1000" height="6" border="0" alt=""><br>
     <div id="copyright-bar">
+	<img src="/design/images/risa_logo_90x63.jpg" class="copyright-logo" width="90" height="63" border="0" alt="">
       <p>
       	© 2011 Racing Information Services Australia Pty Ltd (and other parties working with it)<br>
-        Use of this website is subject to the express <a href="/AboutUs/TermsOfUse.aspx">terms of use</a> &amp; <a href="/AboutUs/PrivacyPolicy.aspx">privacy policy</a>.<br>
+        Use of this website is subject to the express <a href="/AboutUs/TermsOfUse.aspx">terms of use</a> <b>(Updated June 2011)</b> &amp; <a href="/AboutUs/PrivacyPolicy.aspx">privacy policy</a>.<br>
         While care has been taken to compile the details of racing materials information available via this website, RISA accepts no responsibility for errors or omissions in the information provided.<br>
         In the event of any defect, errors or omissions RISA's liability shall be limited to providing the information again. 
       </p>
