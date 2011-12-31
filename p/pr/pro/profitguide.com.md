@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profitguide.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422191642id_/http%3A//www.rogerspublishing.ca/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitguide.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223149id_/http%3A//www.rogerspublishing.ca/privacy.htm) for the most accurate reproduction.*
 
 # Rogers Publishing -- Canada’s largest publisher magazines and online
 
@@ -63,7 +63,7 @@ Back to top
 
 **_Might I be contacted by organizations outside Rogers?_**  
 Advertisers who use direct mail may ask Rogers Publishing to be able to send through the mail material of interest to subscribers of some of our publications, but in such cases the list is only released to a reputable third party service bureau for the purpose of sending the specific mailing. E-mail lists might be used for similar communications. All such advertising material is reviewed and subject to approval for acceptable advertising content.  
-If you would prefer that you name not be provided to marketers outside of Rogers, please inform us. (see "[Contact Us](https://web.archive.org/web/20110423185549id_/http://www.rogerspublishing.ca/portfolio/privacy.htm#Contact)" below)  
+If you would prefer that you name not be provided to marketers outside of Rogers, please inform us. (see "[Contact Us](https://web.archive.org/web/20111231223149id_/http://www.rogerspublishing.ca/portfolio/privacy.htm#Contact)" below)  
 Back to top
 
 **_What are marketing preferences?_**  
@@ -72,8 +72,8 @@ Back to top
 
 _**How can I change my marketing preferences?**_  
 You can contact a customer service representative of the Rogers Media property you receive material from, or use their online customer care (if available for that property). To access our customer care properties, please visit  
-Consumer properties:[http://www.rogerspublishing.ca/read_sub/CPG.shtml](https://web.archive.org/web/20110423185549id_/http://www.rogerspublishing.ca/read_sub/CPG.shtml) or  
-Business to Business properties: [http://www.rogerspublishing.ca/read_sub/BPPG.shtml](https://web.archive.org/web/20110423185549id_/http://www.rogerspublishing.ca/read_sub/BPPG.shtml)
+Consumer properties:[http://www.rogerspublishing.ca/read_sub/CPG.shtml](https://web.archive.org/web/20111231223149id_/http://www.rogerspublishing.ca/read_sub/CPG.shtml) or  
+Business to Business properties: [http://www.rogerspublishing.ca/read_sub/BPPG.shtml](https://web.archive.org/web/20111231223149id_/http://www.rogerspublishing.ca/read_sub/BPPG.shtml)
 
 For consumer properties: If you registered with a password-protected profile at one of our web sites, log in to your profile update page and click the "Update Your Rogers Marketing Preferences" link at the bottom of the page. If you do not have a password-protected profile, you will have to upgrade your newsletter registration. Do this by registering for a password-protected profile with your existing e-mail address, and clicking on the upgrade link when prompted. If you prefer not to register with a password, you can remove yourself from all future marketing e-mail communications by clicking the link found at the end of any marketing e-mail.
 
@@ -82,8 +82,8 @@ Back to top
 
 _**Does Rogers Media use telemarketing to sell magazine subscriptions?**_  
 Yes, we have found it convenient for some consumers to contact them by phone either to start new subscriptions or to renew an existing subscription. The authorized agents who sell new subscriptions are required to make use of the national "Do Not Call" registry so that they do not call the phone numbers of people who have registered. You can get more information about the "Do Not Call" registry here <http://www.crtc.gc.ca/eng/INFO_SHT/t1031.htm>. For telemarketing related to the renewals of existing subscriptions, you can update your contact preferences by logging in to your subscriber service page which can be found here.   
-For consumer magazines: [http://www.rogerspublishing.ca/read_sub/CPG.shtml](https://web.archive.org/web/20110423185549id_/http://www.rogerspublishing.ca/read_sub/CPG.shtml)[  
-](http://www.rogerspublishing.ca/subscribe/subscriptions_consumer.htm)For business magazines: [http://www.rogerspublishing.ca/read_sub/BPPG.shtml](https://web.archive.org/web/20110423185549id_/http://www.rogerspublishing.ca/read_sub/BPPG.shtml)[](http://www.rogerspublishing.ca/subscribe/subscriptions_business.htm)  
+For consumer magazines: [http://www.rogerspublishing.ca/read_sub/CPG.shtml](https://web.archive.org/web/20111231223149id_/http://www.rogerspublishing.ca/read_sub/CPG.shtml)[  
+](http://www.rogerspublishing.ca/subscribe/subscriptions_consumer.htm)For business magazines: [http://www.rogerspublishing.ca/read_sub/BPPG.shtml](https://web.archive.org/web/20111231223149id_/http://www.rogerspublishing.ca/read_sub/BPPG.shtml)[](http://www.rogerspublishing.ca/subscribe/subscriptions_business.htm)  
 Back to top
 
 _**What if I use Rogers Cable or Wireless services?**_  
@@ -118,7 +118,7 @@ We have many e-mail newsletters for you choose from and realize your preferences
 
 For consumer properties: If you provided a password when you subscribed, just log on - using your e-mail address and your password - and you'll be brought to your profile page. All your choices are listed here. Simply click on the options provided, and then "Update Profile." If you prefer not to register with a password, you can remove yourself from all future marketing e-mail communications by clicking the link found at the end of any marketing e-mail.
 
-For business properties: You can set your newsletter preferences by logging in to your customer care profile through [](http://www.rogerspublishing.ca/subscribe/subscriptions_business.htm)[http://www.rogerspublishing.ca/read_sub/BPPG.shtml](https://web.archive.org/web/20110423185549id_/http://www.rogerspublishing.ca/read_sub/BPPG.shtml)[](http://www.rogerspublishing.ca/subscribe/subscriptions_business.htm). You can also remove yourself by clicking the ‘Unsubscribe’ link found in any e-mail newsletter.  
+For business properties: You can set your newsletter preferences by logging in to your customer care profile through [](http://www.rogerspublishing.ca/subscribe/subscriptions_business.htm)[http://www.rogerspublishing.ca/read_sub/BPPG.shtml](https://web.archive.org/web/20111231223149id_/http://www.rogerspublishing.ca/read_sub/BPPG.shtml)[](http://www.rogerspublishing.ca/subscribe/subscriptions_business.htm). You can also remove yourself by clicking the ‘Unsubscribe’ link found in any e-mail newsletter.  
 Back to top
 
 _**Can I change my e-mail marketing preferences online?**_   
