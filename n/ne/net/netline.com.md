@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the netline.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215044939id_/http%3A//www.netline.com/About/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netline.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214037id_/http%3A//www.netline.com/About/privacy.html) for the most accurate reproduction.*
 
-# NetLine Corporation - About NetLine - Privacy Policy
+# Netline Corporation : Privacy Policy
+
+## Privacy Policy
+
+NetLine Corporation, a provider of e-marketing and marketing automation technology and services, is committed to protecting Internet user privacy. Below you will find our privacy policies for: 
+
+  * This website – [www.netline.com](http://www.netline.com/) – and the information collected through it
+  * e-Marketing campaigns executed on behalf of our clients 
+
+
+
+#### NetLine.com Privacy Statement
 
 NetLine is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. 
 
@@ -41,3 +52,17 @@ Only users who sign up to receive communications from NetLine will receive email
 
 **POLICY CHANGES**  
 This policy may be revised over time as new features are added to the website. Please check this site for information about revisions to our privacy policy. If there is a material change to our privacy policy we will post notification on our homepage. If there is a material change to personally identifiable information, we will notify you by e-mail and provide the ability to opt out of these new uses. 
+
+#### Client e-Marketing Campaigns
+
+NetLine delivers permission-based electronic marketing campaigns, including newsletters, surveys, and product offerings on behalf of our clients. NetLine's role in supporting our clients may include hosting the actual collection site, delivery of email, tracking results of e-marketing campaigns, analysis of data, and transferring collected data back to the client. 
+
+In some cases, NetLine stores database lists from our clients. These lists may contain email addresses, street address, contact information and other relevant information. Confidentiality of the client list is a top priority. NetLine is contractually bound to keep our clients' customer data private. A client's list is never shared with other clients, partners, etc., and is treated as an asset of our client. 
+
+NetLine tracks if a recipient has the ability to support HTML email in their email client, as well as whether an HTML email message has been opened or previewed. This capability is used only to deliver the best content to the recipient, and the recipient always has control to change their profile by contacting the client for whom the campaign was deployed. 
+
+Information regarding the activity of campaign recipients is only reported to the client who deployed the e-marketing campaign through NetLine. Information about specific campaign recipients is only shared with the client who owns the list on which the recipients email address originally appeared. 
+
+NetLine has a strict policy against sending unsolicited commercial email. If problems arise with a client's campaign, NetLine will work with the client to resolve the problems and prevent them in the future. If NetLine determines that a client has knowingly used our system for sending unsolicited commercial email, NetLine will revoke the right of this client to send email from our system. 
+
+If you no longer wish to receive email from a NetLine client, you may opt-out of receiving these communications by clicking on the link within the email you receive or by contacting the client for whom the campaign was deployed directly. If you experience difficulty opting out in either of these ways, email us at [optout_help@netline.com](mailto:optout_help@netline.com). 
