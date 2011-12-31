@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubai-bb.com privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307033626id_/http%3A//dubai-bb.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubai-bb.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215504id_/http%3A//dubai-bb.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy on Dubai Bulletin Board
 
