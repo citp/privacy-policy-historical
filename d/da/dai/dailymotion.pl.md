@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailymotion.pl privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226041522id_/http%3A//www.dailymotion.com/us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymotion.pl privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231141449id_/http%3A//www.dailymotion.com/us/legal/privacy) for the most accurate reproduction.*
 
 # Dailymotion - Online Videos, Music, and Movies. Watch a Video Today!
 
@@ -19,5 +19,7 @@ Children under the age of 13 are not permitted to register with Dailymotion. It 
 In any case, you affirm that you are over the age of 13, as the Website is not intended for children under 13. If you are under 13 years of age, do not use or access the Dailymotion website at any time or in any manner.  
 
 If you are the parent or legal guardian of a child under 13, and that child has somehow registered with Dailymotion, please send an e-mail to [webmaster@dailymotion.com](mailto:webmaster@dailymotion.com) for instructions on how to cancel your child's registration.  In the e-mail, please provide your full name and address, your child's full name and address, your relationship to the child, your daytime and evening telephone numbers, your email address and a signed statement that you are the child's parent or legal guardian. Dailymotion will use this information only to verify that you are the child's parent or legal guardian and for no other purposes. 
+
+This site allows third-party companies to serve ads and/or collect certain anonymous information when you and other Internet users visit. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this site and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third-party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 You are entitled to access and correct your Data by requesting to do so via the Contact us section, or by sending a letter to the following address: 49/51 rue Ganneron, 75018 Paris.
