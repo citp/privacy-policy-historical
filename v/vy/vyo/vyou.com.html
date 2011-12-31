@@ -1,16 +1,48 @@
-<!--The following is the downloaded HTML source of the vyou.com privacy policy that was archived on 2011-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110613084346id_/http%3A//vyou.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vyou.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231224918id_/http%3A//vyou.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><!-- <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> --><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:foaf="http://xmlns.com/foaf/0.1/"><!-- <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> --><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# vyoucom: http://ogp.me/ns/fb/vyoucom#">
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <link rel="stylesheet" type="text/css" media="all" href="/css/prod/latest.css?621121.460249972523389919.926554">
-      <script type="text/javascript" src="/js/prod/latest.js?621121.460249972523389919.926554"></script>
+  <link rel="foaf:primaryTopic foaf:maker" href="#me">
+  <meta http-equiv="content-Type" content="text/html; charset=utf-8">
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17921822-1']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_setAllowAnchor', true]);
+  (function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  </script>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-2773513237193744");
+GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-2773513237193744", "Channel_Promo_Ad");
+GA_googleAddSlot("ca-pub-2773513237193744", "Homepage_TopBannerSquare");
+</script>
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
+
+ 
+
+
+  <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+        <link rel="stylesheet" type="text/css" media="all" href="/css/prod/latest.css?69872.8682972577359971624.762398">
+      <script type="text/javascript" src="/js/prod/latest.js?999505.102511123819531218.583856"></script>
     
   <meta property="fb:page_id" content="156301944408998">
   <meta property="fb:app_id" content="357696300574">
-   <meta property="og:title" content="VYou"> <meta property="og:description" content="Create and share conversational videos on VYou.">  <meta property="og:image" content="http://vyou.com/images/graphics/facebook-vyou-thumbnail.jpg">     <script type="text/javascript"> var open_tab = ''; </script>
+  <meta property="fb:admins" content="24409159">
+   <meta property="og:image" content="http://vyou.com/images/graphics/facebook-vyou-thumbnail.jpg"> 
+  <script type="text/javascript"> var open_tab = ''; </script>
   <title>VYou</title>
   <script type="text/javascript">var JST={preload:{}}</script>
 
@@ -24,21 +56,54 @@ function change_to_login_layout(username_from_login, display_name_from_login) {
   $('#logged_out_menu').hide();
   $('#logged_in_menu').fadeIn('100');
   }
+
+function loginFB()
+  {
+   FB.login(function(response) {
+     if (response.session) {
+       if (response.scope) {
+         //alert('user is logged in and granted some permissions: ' + response.perms);
+         // user is logged in and granted some permissions.
+         // perms is a comma separated list of granted permissions
+       } else {
+         // notification("Please grant us permissions to read and publish on your Facebook wall so that we can link your Facebook account...");
+         // return;
+         //alert('user is logged in, but did not grant any permissions');
+       }
+         var session = response.session;
+         document.fbform.fb_uid.value  = session['uid'];
+         document.fbform.fb_skey.value = session['session_key'];
+         document.fbform.submit();
+     } else {
+        notification("Sorry, Facebook says your login wasn't successful...");
+     }
+   }, {scope:'user_birthday,email,read_stream,publish_stream,offline_access'});
+
+  }
   </script>
+
+<script type="text/javascript">
+  function recordOutboundLink(link, category, action) {
+    _gat._getTrackerByName()._trackEvent(category, action);
+    setTimeout('document.location = "' + link.href + '"', 100);
+  }
+</script>
+
 </head>
-<body id="VirtualYou">
+<body id="">
     <div class="container_12">
     <div id="page">
 
       <!-- =========================== HEADER ================================== -->
       <div id="header_area">
         <div id="main_nav" class="grid_12">
-                    <div id="baseball_card">
+
+          <div id="baseball_card" class="make_room_fb">
             <div id="bb_card_logged_in" style="display:none;">                  
               <span class="username" id="bb_card_username_container">
-                <a href="/anonymous" id="bb_card_username"></a>
+                <a href="/" id="bb_card_username"></a>
               </span> 
-              <span id="settings_dd"><a class="first" href="">Settings</a>
+              <span id="settings_dd"><a class="first" href="#">Settings</a>
                 <div id="settings_dd_box" style="display:none;">
                      <a href="/user/profilesettings">Video Profile Settings</a>
                                                       <a class="bottom" href="/mysettings">Account Settings</a><br>
@@ -50,25 +115,40 @@ function change_to_login_layout(username_from_login, display_name_from_login) {
             $('#settings_dd').hover(function() { 
               $('#settings_dd_box').show();
               $('#settings_dd').addClass('selected');
-            }, 
+            },
             function() { 
               $('#settings_dd_box').hide();
               $('#settings_dd').removeClass('selected');
               
             }
             );
+			
+			$("#logout").click(function(){
+				var cookies = document.cookie.split(";");
+
+			    for (var i = 0; i < cookies.length; i++) {
+			        var cookie = cookies[i];
+			        var eqPos = cookie.indexOf("=");
+			        var name = eqPos > -1 ? cookie.substr(0, eqPos) : cookie;
+			        document.cookie = name + "=;expires=Thu, 01 Jan 1970 00:00:00 GMT";
+			    }
+			document.location = "/logout";
+			});
            });
            </script>
-              <a href="http://help.vyou.com/wiki/index.php/Main_Page">Help</a>
-              <a class="last" href="/logout">Logout</a>
+              <a href="http://help.vyou.com/">Help</a>
+              <a class="last" id="logout" href="/logout">Logout</a>
             </div>
             <div id="bb_card_not_logged_in">
               <span class="login">        
-                <a class="first" href="http://help.vyou.com/wiki/index.php/Main_Page" style="border-left:none;">Help</a>         
+                <a class="first" href="http://help.vyou.com/" style="border-left:none;">Help</a>         
                 <a href="/login">Login</a>
-                <a class="last" href="/register">Sign-up</a></span>
+                <a class="last" href="/register?utm_source=header&amp;utm_medium=internal&amp;utm_campaign=signup&amp;utm_term=VYou">Sign-up</a></span>
+
             </div>
           </div>
+
+								<fb:login-button id="fb-login" scope="user_birthday,email,read_stream,publish_stream,offline_access" height="32" onlogin="window.location ='http://vyou.com/user/facebookconnect'"><span id="fb_login_text" style="margin-left:10px;">Login with Facebook</span></fb:login-button>
           
           <div id="main_nav_buttons" class="f_left">
             <a href="/" class="nav-logo"><img src="/images/layout/vyou-logo-site-header.png" width="165" height="46" alt="VYou"></a>
@@ -78,18 +158,22 @@ function change_to_login_layout(username_from_login, display_name_from_login) {
                         <a href="/channels" class="nav-btn">Channels</a>
             <a href="/montage/all" class="nav-btn">Montages</a>
             <a href="/people" class="nav-btn last">People</a>
+
+			<a id="iphone_header_btn" href="http://itunes.apple.com/us/app/vyou/id424596916?ls=1&amp;mt=8" onclick="recordOutboundLink(this, 'Outbound Links', 'itunes');return false;"></a>
             <div id="header_search">
               <form action="/search/index" method="GET" name="search_users">
                 <input id="header_search_textbox" name="q" style="color: #666" maxlength="140">
                 <input type="submit" id="header_search_btn" class="btn_bg_01" value="Search">
               </form>
             </div>
-            <div id="share_btns">
-              <span><img src="/images/graphics/follow_us_text.png" alt="follow us" width="60" height="8"> </span>
-                <a href="http://twitter.com/vyou" target="_blank" title="Twitter" class="twitter_btn">Twitter</a> 
-                <a href="http://facebook.com/VYou" target="_blank" title="Facebook" class="facebook_btn">Facebook</a>
-                <a href="http://vyoucom.tumblr.com/" target="_blank" title="Tumblr" class="tumblr_btn">Tumblr</a>
-            </div>
+
+			<!--
+			GOOGLE ADD MANAGER GOES HERE
+			
+				<a class="download_app_header" href="http://itunes.apple.com/us/app/vyou/id424596916?ls=1&mt=8"; >
+					<div></div>
+				</a>
+			-->
           </div>
         </div> <!-- main-nav -->
         <div id="alerts"></div>
@@ -97,11 +181,11 @@ function change_to_login_layout(username_from_login, display_name_from_login) {
       </div> <!-- header-area -->
       <!-- =========================== HEADER ================================== -->
       
-      <!-- =========================== CONTENT ================================= -->
+      <!-- =========================== content ================================= -->
       <div id="content">
         <div class="grid_12 mb10">
-<div class="page-header">
-Privacy Policy </div>
+<h1 class="page-header">
+Privacy Policy </h1>
 </div>
 
 <div id="privacy" class="grid_12">
@@ -218,7 +302,7 @@ Privacy Policy </div>
 <p class="p4"><br></p>
 <a name="user_submissions"></a>
 <p class="p5"><b>User Submissions</b></p>
-<p class="p3">We may provide areas on our websites where you can post information about yourself and others and communicate with others; upload content (e.g. audio files, videos, pictures, blogs etc.); and post comments or reviews of content found on the Website. Such postings are governed by our <a href="http://vyou.com/index/tos">Terms and Conditions of Use</a>. In addition, such postings may appear whn searches are executed on the subject matter of your posting or on other websites. Also, any voluntary disclosure by you of personal information on publicly-viewable web pageswill be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post. We strongly urge you to use a high degree of discretion and caution with respect to your personal information. Once you have posted information, you may not be able to edit or delete such information.</p>
+<p class="p3">We may provide areas on our websites where you can post information about yourself and others and communicate with others; upload content (e.g. audio files, videos, pictures, blogs etc.); and post comments or reviews of content found on the Website. Such postings are governed by our <a href="http://vyou.com/index/tos">Terms and Conditions of Use</a>. In addition, such postings may appear when searches are executed on the subject matter of your posting or on other websites. Also, any voluntary disclosure by you of personal information on publicly-viewable web pageswill be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post. We strongly urge you to use a high degree of discretion and caution with respect to your personal information. Once you have posted information, you may not be able to edit or delete such information.</p>
 <p class="p4"><br></p>
 <p class="p5"><b>Children’s Privacy</b></p>
 <p class="p3">Our website is a general audience site, and we do not knowingly collect personal information from children under the age of 13.</p>
@@ -235,7 +319,7 @@ Privacy Policy </div>
 <p class="p5"><b>How To Contact Us</b></p>
 <p class="p3">If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by email or postal mail as follows:</p>
 <p class="p6"><b>Virtual Labs Inc</b><span class="s7"><br>
-</span>594 Broadway, Suite 1212</p>
+</span>560 Broadway, Suite 402</p>
 <p class="p6">New York, NY<span class="Apple-converted-space">  </span>10012<span class="s7"><br>
 </span><span class="s1"><a href="mailto:privacy@vyou.com">privacy@vyou.com</a></span></p>
 <p class="p14"><span class="s5"></span><br></p>
@@ -260,15 +344,21 @@ Privacy Policy </div>
 </div>
       </div>
       <a name="content_bottom"></a>
-      <!-- =========================== CONTENT ================================= -->
+      <!-- =========================== content ================================= -->
 
       <!-- ============================ FOOTER ================================= -->
       <div id="footer" class="grid_12">
         <div id="footer_links" class="grid_8 alpha">
-          <a href="/about">About</a> | <a href="/contact">Contact</a> | <a href="/privacy">Privacy Policy</a> | <a href="/index/tos">Terms</a>
-        </div>
 
-        <div id="footer_copyright" class="grid_4 omega a_right">
+          <a href="/about">About</a> | <a href="/contact">Contact</a> | <a href="/privacy">Privacy Policy</a> | <a href="/communityguidelines">Community Guidelines</a> | <a href="/index/tos">Terms</a>
+
+        </div>
+		<div id="share_btns">
+	        <a href="http://twitter.com/vyou" target="_blank" title="Twitter" class="twitter_btn">Twitter</a> 
+	        <a href="http://facebook.com/VYou" target="_blank" title="Facebook" class="facebook_btn">Facebook</a>
+	        <a href="http://vyoucom.tumblr.com/" target="_blank" title="Tumblr" class="tumblr_btn">Tumblr</a>
+    	</div>
+        <div id="footer_copyright" class="grid_5 omega a_right">
           © 2011 Virtual Labs Inc. All Rights Reserved.
         </div>
       </div>
@@ -277,14 +367,25 @@ Privacy Policy </div>
     </div> <!-- page -->
   </div> <!-- container-12 -->
 
-            <script type="text/javascript" src="/js/vyou/main.prod.js?621121.460249972523389919.926554"></script>    
-<script type="text/javascript">$(document).ready(function(){VY.init()})</script>
-
-<script>
-  VY.C.s3_url = "http://vythumb.s3.amazonaws.com/";
+            <script type="text/javascript" src="/js/vyou/main.prod.js" ?69872.8682972577359971624.762398"=""></script>    
+<script type="text/javascript">$(document).ready(function(){
+  VY.init();
+//	$("#fb_login_text").show();
+})
 </script>
 
+<!--[if IE 7]>
+<script type="text/javascript">$(document).ready(function(){    
+  notification("We've noticed you're using Internet Explorer 7. We are currently working out the kinks with this browser. Please upgrade your version of IE or download Firefox or Google Chrome");
+  });
+</script>  
+<![endif]-->
 
+
+<script type="text/javascript"> 
+  VY.C.s3_url = "http://vythumb.s3.amazonaws.com/";
+  VY.C.unixtime = "1325371758";
+</script>
 
            <script type="text/javascript">
     /* This code should appear anywhere the lightbox lives. */
@@ -295,39 +396,44 @@ Privacy Policy </div>
          notification(close_notification);
           }
       }
-
      
     </script>  	
-
-             
         <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
     <script>
+
+	//initialize the facebook javascript SDK
+	//if all elements are hidden on register, show loader gif
+	//
+	if ( $('#register_loading')[0] ){
+		$("#register_loading").html('<img src="/images/common/loading-spinner-2.gif"/>');
+	}
       window.fbAsyncInit = function() {
-        FB.init({appId: 'c6a2546bf03d0366554839c320bdbde9', status: true, cookie: true, xfbml: true});
+        FB.init({appId: '357696300574', status: true, cookie: true, xfbml: true, oauth: true});
+		// Hack to fix http://bugs.developers.facebook.net/show_bug.cgi?id=20168 for IE7/8/9
+		//FB.UIServer.setLoadedNode = function (a, b) {     FB.UIServer._loadedNodes[a.id] = b; };
+		if ( $('#reg_container')[0] ){
+			FB.getLoginStatus(function(response) {
+			  if (response.authResponse) {
+				FB.XFBML.parse(document.getElementById('reg_container'));
+				$('#fb_reg_container').show();
+				is_facebook_user = true;
+			  } else {
+				$('#reg_container').show();
+			  }
+				$("#register_loading").html('');
+			});
+		}
       };
       (function() {
           var e = document.createElement('script'); e.async = true;
-          e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+           e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
           document.getElementById('fb-root').appendChild(e);
       }());
     </script>
-    
-             
-    <script type="text/javascript">
 
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-17921822-1']);
-    _gaq.push(['_trackPageview']);
-    _gaq.push(['_setAllowAnchor', true]);
+	
+	
 
-    (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-
-    </script>
-    
     
     <script type="text/javascript">
    var _sf_async_config={uid:11135,domain:"vyou.com"};
@@ -348,18 +454,22 @@ Privacy Policy </div>
     })();
 
     </script>
-    
+
     <!-- Start Quantcast tag -->
     <script type="text/javascript">
     _qoptions={
     qacct:"p-249dGBpREX1r-"
     };
+	setTimeout('	$("#fb_login_text").show();',1000);
     </script>
     <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
     <noscript>
     <img src="http://pixel.quantserve.com/pixel/p-249dGBpREX1r-.gif"; style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
     </noscript>
     <!-- End Quantcast tag -->
+    <!-- NewRelic RUM Start-->
+          <!-- NewRelic RUM End -->
 
 
-<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
