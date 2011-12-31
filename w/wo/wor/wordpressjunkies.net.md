@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordpressjunkies.net privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424235600id_/http%3A//www.wordpressjunkies.net/static/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordpressjunkies.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231225013id_/http%3A//www.wordpressjunkies.net/static/private-policy) for the most accurate reproduction.*
 
 # Private Policy | WordPress Junkies
 
