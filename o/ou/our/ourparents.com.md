@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourparents.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228081229id_/http%3A//www.ourparents.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourparents.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231095208id_/http%3A//www.ourparents.com/privacy) for the most accurate reproduction.*
 
 # OurParents - Nursing Homes, Senior Care Providers & Assisted Living
 
@@ -49,10 +49,4 @@ You may opt-out of email communications that you receive from us by following th
 
 If you have any questions about this privacy statement or the privacy practices of our Sites, please contact us at [privacy@ourparents.com](mailto:privacy@ourparents.com)
 
-Copyright © 2009 OurParents, Inc. All rights reserved. OurParents is a provider of elder care housing advice and has the nation's largest database of elder care facilities. Our consultation is provided at no cost to families, as many facilities reimburse us for our services.
-
-### Create your FREE OurParents Account
-
-Please register for your **FREE** OurParents Account. 
-
-With your OurParents account, you'll get immediate and free access to detailed profiles of over 65,000 care providers, unlimited use of the professionally-acclaimed Care Options Advisor tool, free detailed facility reports, and more!
+Copyright © 2011 Senior-Living.com, Inc. All rights reserved. OurParents is a provider of elder care housing advice and has the nation's largest database of elder care facilities. Our consultation is provided at no cost to families, as many facilities reimburse us for our services.
