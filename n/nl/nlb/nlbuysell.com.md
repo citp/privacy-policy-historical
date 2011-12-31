@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nlbuysell.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502174156id_/http%3A//www.nlbuysell.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nlbuysell.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210033id_/http%3A//www.nlbuysell.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# NL Buy & Sell Online Free Classifieds
+# NLBuySell.com
 
 At the Newfoundland Buy & Sell Online we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by the Newfoundland Buy & Sell Online or its subsidiaries.
 
-If you have any questions about this Policy, please feel free to contact us through our [website](https://web.archive.org/web/20110502174156id_/http%3A//www.nlbuysell.com/contactus.asp) or [email](mailto:privacy@nlbuysell.com) us.
+If you have any questions about this Policy, please feel free to contact us through our [website](https://web.archive.org/web/20111231210033id_/http%3A//www.nlbuysell.com/contactus.asp) or [email](mailto:privacy@nlbuysell.com) us.
 
   
 
@@ -13,19 +13,17 @@ If you have any questions about this Policy, please feel free to contact us thro
 
 We offer a number of services that do not require you to register or provide any personal information to us, such as horoscopes. In order to provide our full range of services, we may collect the following types of information:
 
-  * Information you provide - When you sign up to purchase the Newfoundland Buy & Sell Online online, we ask you for personal information (such as your name, email address, credit card and an account password). Credit card information is not stored in any location and only used for the purchase of the Newfoundland Buy & Sell Online Online.
-  * User communications - When you send email or other communication to the Newfoundland Buy & Sell Online, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
-  * Other sites - This Privacy Policy applies to web sites and services that are owned and operated by the Newfoundland Buy & Sell Online. 
+**Information you provide:** When you sign up to purchase the Newfoundland Buy & Sell Online online, we ask you for personal information (such as your name, email address, credit card and an account password). Credit card information is not stored in any location and only used for the purchase of the Newfoundland Buy & Sell Online Online.
 
+**User communications:** When you send email or other communication to the Newfoundland Buy & Sell Online, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
 
+**Other sites:** This Privacy Policy applies to web sites and services that are owned and operated by the Newfoundland Buy & Sell Online. 
 
 The Newfoundland Buy & Sell Online only processes personal information for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the above, such purposes include:
 
-  * Providing our products and services to users, including the display of customized content and advertising;
-  * Ensuring the technical functioning of our network; and
-  * Developing new services. 
-
-
+* Providing our products and services to users, including the display of customized content and advertising;
+* Ensuring the technical functioning of our network; and
+* Developing new services. 
 
 The Newfoundland Buy & Sell Online processes personal information on our servers in Canada. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our financial institution.
 
@@ -86,3 +84,6 @@ When we receive formal written complaints at this address, it is the Newfoundlan
 ## Changes to this policy
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice. Each version of this Policy will be identified at the top of the page by its effective date.
+
+  
+
