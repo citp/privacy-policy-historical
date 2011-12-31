@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organizedhome.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621092259id_/http%3A//organizedhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organizedhome.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214055id_/http%3A//organizedhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Organized Home
 
@@ -31,13 +31,13 @@ An example of the customization allowed by the use of such cookies is to retain 
 
 **Third Party Advertising**
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Neither Threadneedle Press nor this Web site collects the information or control the content of the advertisements that you will see. 
 
 Your use of this website without opting out means that you understand and agree to data collection to provide you with interest-based advertising.
 
-In addition, Google, as a third party vendor, uses cookies to serve ads on the Site. Google's use of the DART cookie enables it to serve ads based on the users visit to the Site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy on Google’s website. Click here for[more information](http://www.doubleclick.com/privacy/faq.aspx).
+In addition, Google, as a third party vendor, uses cookies to serve ads on the Site. Google's use of the DART cookie enables it to serve ads based on the users visit to the Site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy on Google’s website. Click here for [more information](http://www.doubleclick.com/privacy/faq.aspx).
 
 **Contact for Privacy Inquiries:**
 
