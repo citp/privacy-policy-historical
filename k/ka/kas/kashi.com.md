@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kashi.com privacy policy that was archived on 2011-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110129074035id_/http%3A//kashi.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kashi.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211144id_/http%3A//www.kashi.com/privacy_policy) for the most accurate reproduction.*
 
 # Kashi Seven Whole Grain Cereal Snacks Entrees
 
