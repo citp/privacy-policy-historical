@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diglo.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420000136id_/http%3A//www.diglo.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diglo.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210736id_/http%3A//www.diglo.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Diglo privacy policy
 
