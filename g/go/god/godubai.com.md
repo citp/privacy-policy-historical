@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godubai.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130204416id_/http%3A//www.godubai.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godubai.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214556id_/http%3A//www.godubai.com/privacy.asp) for the most accurate reproduction.*
 
 # Dubai Online Information Guide , Dubai Hotels, Online Hotel Booking, Desert Safari,Dhow Cruise, Reservation
 
