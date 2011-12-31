@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the resume.com privacy policy that was archived on 2010-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229213503id_/http%3A//www.resume.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the resume.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231224926id_/http%3A//www.resume.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
   <base href="http://www.resume.com/privacy">
@@ -13,6 +13,7 @@
   <title>Privacy</title>
   <link href="/templates/resume.com/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <link rel="stylesheet" href="http://www.resume.com/components/com_community/templates/default/css/jquery-ui.css" type="text/css">
+  <link rel="stylesheet" href="http://www.resume.com/templates/resume.com/css/template1.css" type="text/css" media="all" id="tmpl_css">
   <link rel="stylesheet" href="http://www.resume.com/components/com_community/templates/default/css/style.css" type="text/css">
   <link rel="stylesheet" href="http://www.resume.com/components/com_community/assets/window.css" type="text/css">
   <link rel="stylesheet" href="http://www.resume.com/components/com_community/assets/autocomplete.css" type="text/css">
@@ -25,6 +26,7 @@
   <script type="text/javascript" src="http://www.resume.com/templates/resume.com/js/fx.slidev2.js"></script>
   <script type="text/javascript" src="http://www.resume.com/templates/resume.com/js/image_slider.js"></script>
   <script type="text/javascript" src="http://www.resume.com/components/com_community/assets/jquery.jeditable.js"></script>
+  <script type="text/javascript" src="http://www.resume.com/templates/resume.com/js/autocomplete.js"></script>
   <script type="text/javascript">
 /*<![CDATA[*/
 	var jax_live_site = 'http://www.resume.com/index.php';
@@ -32,12 +34,15 @@
 /*]]>*/
 </script><script type="text/javascript" src="http://www.resume.com/plugins/system/pc_includes/ajax_1.3.js"></script>
 
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
 <link rel="stylesheet" href="/templates/resume.com/css/styles.css" type="text/css" media="all">
+<link rel="stylesheet" href="/templates/resume.com/css/menu.css" type="text/css" media="all">
 <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css">
 <!--[if lte IE 8]>
 <link href="/templates/resume.com/css/ie.css" rel="stylesheet" type="text/css" />
 <![endif]-->
 <script type="text/javascript">
+var current_host = 'http://www.resume.com/privacy';
 $.noConflict();
 function submitForm(formid){
     if (jQuery('#smallusername').attr('value') == '' || jQuery('#smallpassword').attr('value') == ''){
@@ -69,38 +74,59 @@ function applyDefaultValue(elem, val) {
     }
   }
 }
+jQuery(document).ready(function(){
 
-jQuery(document).ready(function() {						   
-	jQuery(".item47 a").click(function () {
-	           joms.user.login('/my-resume');
+            jQuery('a[href^=/edit-resume-link]').hide();
+    
+    jQuery("ul.dropdown li > a").each(function(){
+        if (jQuery(this).attr('href') == current_host){
+            jQuery(this).parent('li').addClass("active");
+        }
+    });
+	jQuery("#btnApply").click(function () {
+	           joms.user.login(jQuery("#btnApply").attr('href'));
         return false;
-            });			
+            });
 });
-
 </script>
-
+<!--[if lt IE 7]>
+<script type="text/javascript" src="/templates/resume.com/js/jquery/jquery.dropdown.js"></script>
+<![endif]-->
 </head>
 <body>
 
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        jQuery(".toggle_search").click(function(){
+            jQuery(".toggle_search").removeClass('active');
+            jQuery(this).addClass('active');
+            jQuery("input#search_type").val(jQuery(this).attr("name"));
+            jQuery("#search_type_form").val(jQuery(this).attr("name"));
+        });
+    });
+</script>
 <div id="search">
   <div class="search">
-    <form action="index.php" method="post">
+    <form action="http://www.resume.com/index.php" method="post">
       <table cellpadding="0" cellspacing="0" border="0">
         <tbody><tr>
-          <td><div class="search_left"> Keyword<br>
+          <td><div class="search_left"> Search with Keywords<br>
               <input type="text" size="20" name="searchword" id="mod_search_searchword" value="job title, keyword or company name">
             </div></td>
-          <td><div class="search_right"> Location<br>
+          <td><div class="search_right"> Location <br>
               <input type="text" size="20" name="searchlocation" id="mod_search_location" value="city, state or zip code (optional)">
             </div></td>
           <td><input type="submit" class="button" value="Search" style="margin-top:15px;"></td>
         </tr>
-       <!--  <tr>
-          <td>Search Resumes <a href="#">Search Jobs</a> </td>
+        <tr>
+          <td><span name="resume" class="toggle_search active">Resumes</span>
+              <span name="jobs" class="toggle_search">Jobs</span>
+          </td>
           <td colspan="2"></td>
-        </tr>-->
+        </tr>
       </tbody></table>
       <input type="hidden" name="task" value="search">
+      <input type="hidden" name="searchtype" id="search_type" value="resume">
       <input type="hidden" name="option" value="com_search">
       <input type="hidden" name="Itemid" value="53">
     </form>
@@ -108,32 +134,58 @@ jQuery(document).ready(function() {
 </div>
 <div id="searchbar">
   <div>
-    <div> <span class="resume_count"><a href="http://www.resume.com/search/all">6169 Resumes</a></span> <span id="toggle" class="toggle"> <a id="open" class="open" href="javascript:void(0);">Search</a> <a id="close" style="display: none;" class="close" href="javascript:void(0);">Search</a> </span> </div>
+    <div>
+        <span class="resume_count"><a href="http://www.resume.com/search/resume/all">36838 Resumes</a></span>
+        <span class="resume_countjob"><a href="http://www.resume.com/search/jobs/all">7 Jobs</a></span>
+        <span id="toggle" class="toggle"> <a id="open" class="open" href="javascript:void(0);">Search</a> <a id="close" style="display: none;" class="close" href="javascript:void(0);">Search</a> </span> </div>
   </div>
 </div>
 <div id="container">
   <div id="header" class="clearfix">
-    
-    <div class="logo">		<div class="moduletable">
+        
+        <div class="logo">		<div class="moduletable">
 					<p><a href="/"><img src="/templates/resume.com/images/logo.png" border="0" alt="Resume"></a></p>		</div>
 	</div>
-    <div class="menu">
-            		<div class="moduletable">
-					<ul class="menu_menu"><li class="item69"><a href="http://www.resume.com/"><span>Home</span></a></li><li class="item47"><a href="/my-resume"><span>My Resume</span></a></li><li class="item72"><a href="/sample"><span>View Sample</span></a></li><li class="item7"><a href="/blog"><span>Blog</span></a></li></ul>		</div>
-	
-          </div>
-    <div class="top"></div>
-    <!-- BEGIN Image Slider -->
-      
-    <!-- END Image Slider -->
+        <div class="menu">
+            <ul class="menu_menu dropdown">
+                <li><a href="http://www.resume.com/"><span>Home</span></a></li>
+                <li><a href="http://www.resume.com/search/resume/all"><span>Resumes</span></a></li>
+                <li><a href="http://www.resume.com/search/jobs/all"><span>Jobs</span></a>
+<!--                    <ul>-->
+<!--                        <li><a href="/--><!--/search/jobs/all"><span>Job Listings</span></a></li>-->
+<!--                        <li><a href="#"><span>Company Profiles</span></a></li>-->
+<!--                    </ul>-->
+                </li>
+                <li><a href="http://www.resume.com/sample" class="dir">View Sample</a>
+                    <ul>
+                        <li><a href="http://www.resume.com/sample">Resume</a></li>
+                        <li><a href="http://www.resume.com/jobs/sample_company/job_listing_sample"><span>Job Listing</span></a></li>
+                        <li><a href="http://www.resume.com/jobs/sample_company"><span>Employers Profile</span></a></li>
+                    </ul>
+                </li>
+                <li><a href="http://www.resume.com/blog"><span>Blog</span></a></li>
+            </ul>
+        </div>
+        <div class="top"></div>
+        <!-- BEGIN Image Slider -->
+          
+        <!-- END Image Slider -->
   </div>
   <div id="content">
     <div class="box clearfix">
   
-  
- 	<!-- BEGIN Show Different Menu if logged in --> 
-    <div class="content-menu"><table width="100%" border="0" cellpadding="0" cellspacing="1"><tbody><tr><td nowrap="nowrap"><a href="javascript:joms.user.login('/my-resume')" class="mainlevel">Login</a></td></tr></tbody></table></div> 
-    <!-- END Show Different Menu if logged in --> 
+   	<!-- BEGIN Show Different Menu if logged in -->
+            <div class="content-menu">
+            <table width="100%" border="0" cellpadding="0" cellspacing="1">
+                <tbody><tr>
+	                <td nowrap="nowrap">
+	                    <a href="http://employer.resume.com" class="mainlevel">Employers</a>
+	                    <a href='javascript:joms.user.login("/my-resume")' class="mainlevel">Login</a>
+	                </td>
+                </tr>
+            </tbody></table>
+        </div>
+	    <!-- END Show Different Menu if logged in --> 
       
       <div class="without_left_bg">
       	  
@@ -175,10 +227,10 @@ jQuery(document).ready(function() {
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy48600 = 's&#117;pp&#111;rt' + '&#64;';
- addy48600 = addy48600 + 'R&#101;s&#117;m&#101;' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + addy48600 + suffix + '\'' + attribs + '>' );
- document.write( addy48600 );
+ var addy38580 = 's&#117;pp&#111;rt' + '&#64;';
+ addy38580 = addy38580 + 'R&#101;s&#117;m&#101;' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + addy38580 + suffix + '\'' + attribs + '>' );
+ document.write( addy38580 );
  document.write( '<\/a>' );
  //-->
  </script><a href="mailto:support@Resume.com">support@Resume.com</a><script language="JavaScript" type="text/javascript">
@@ -238,10 +290,10 @@ jQuery(document).ready(function() {
 					<h3>Recent Resumes</h3>
 					
 <ul class="menu">
-		<li><a href="http://www.resume.com/jqparrott"><span>Jennifer Parrott's R...</span></a></li>
-		<li><a href="http://www.resume.com/crclyburn"><span>Cynthia Clyburn's Re...</span></a></li>
-		<li><a href="http://www.resume.com/ladyangiebee"><span>Angela Renee Gibbs's...</span></a></li>
-		<li><a href="http://www.resume.com/kidluchie"><span>donn chung's Resume</span></a></li>
+		<li><a href="http://www.resume.com/leestruber"><span>Lee R Struber 's Res...</span></a></li>
+		<li><a href="http://www.resume.com/breebreelove99"><span>Breana's Resume </span></a></li>
+		<li><a href="http://www.resume.com/rosalind"><span>ROSALIND WILKINS's R...</span></a></li>
+		<li><a href="http://www.resume.com/fatimabarry08"><span>fatoumata barry's Re...</span></a></li>
 	</ul>		</div>
 	
         </div>
