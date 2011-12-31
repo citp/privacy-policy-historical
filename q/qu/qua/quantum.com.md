@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quantum.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518011446id_/http%3A//www.quantum.com/privacypolicy/Index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantum.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112404id_/http%3A//quantum.com/privacypolicy/Index.aspx) for the most accurate reproduction.*
 
 # Quantum Privacy Policy
 
@@ -25,7 +25,7 @@
 
 
 
-If you have any questions, comments, or requests regarding privacy, please email the Quantum Webteam.
+If you have any questions, comments, or requests regarding privacy, please email the [Quantum Webteam](mailto:webteam@quantum.com).
 
 ### Collection of Information
 
@@ -69,10 +69,10 @@ Personal information given to us in one country may be transferred to a differen
 **Use of employee and job applicant personal information**  
 Quantum uses personal information of its employees, contractors, and job applicants for a variety of human resources and similar functions, including job applications and hiring programs, compensation and benefit programs, performance appraisals, training, business travel, expense and tuition reimbursement, identification cards, access to Quantum facilities and computer networks, employee profiles, internal employee directories, human resources recordkeeping, compliance with legal requirements and other employment related purposes.
 
-**Review and Removal of Your Personally Identifiable Data**    
-We need your help in making sure your personal information is correct in our data bases. If you provide us with personally identifiable information you may submit a request to us to review this information and either change or remove such data by using the online form entitled "[Update Your Contact Information](http://quantum.treehousei.com/updatecontact/updateContact.aspx)"
+**Update your Quantum communication preferences**    
+You can choose which Quantum Corporation correspondence you want to receive. Please use this link to [update your communication preferences](http://quantum.mv.treehousei.com/unsubscribe.aspx).
 
-**Cookies and Other Tracking Methods**  
+**Cookies and other tracking methods**  
 When you view our Web sites or advertisements, we might store some information on your computer. This information will be in the form of a "cookie" or similar file. Cookies are small pieces of information stored on your hard drive, not on our Web sites, to help you navigate a Web site as easily as possible. Cookies can help us to better understand how users use our Web sites, which in turn helps us focus our resources on features that are more popular with our users. If you prefer not to receive cookies while browsing our Web site, you can set your browser to warn you before accepting cookies. If your browser permits, you can refuse a cookie when your browser alerts you to its presence or generally refuse all cookies by turning them off in your browser, but some parts of our Web sites, including the portion which is targeted for our registered customers, may not work properly in that case.
 
 We employ a software technology known as Web Beacons that help us better manage content on our site by informing us what content is effective, and what kinds of offers our customers like to see. The type of information we collect includes the pages visited, navigation patterns, etc.
