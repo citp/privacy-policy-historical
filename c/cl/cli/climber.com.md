@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the climber.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121073713id_/http%3A//www.climber.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climber.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231062937id_/http%3A//www.climber.com/privacy) for the most accurate reproduction.*
 
 # Climber.com
 
@@ -56,7 +56,14 @@ Disclosure to Law Enforcement and Similar Disclosures - While Climber.com strive
   
 
 
-## 4\. OTHER PROVISIONS
+## 4\. THIRD PARTY COOKIES
+
+We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services.   No personally identifiable information is on, or is connected to these cookies.  The cookies may reflect de-identified demographic or other data linked to the registration data you have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies, please go to http://www.privacychoice.org/companies or http://www.aboutads.info/choices.
+
+  
+
+
+## 5\. OTHER PROVISIONS
 
 Acceptance of Terms/Changes to Privacy Policy - Your use of this site indicates an acceptance of the terms of the Privacy Policy. Climber.com reserves the right to update or amend this Privacy Policy at any time. 
 
