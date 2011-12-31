@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the screw-paypal.com privacy policy that was archived on 2010-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222145800id_/http%3A//screw-paypal.com/bottom_nav_homepage/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the screw-paypal.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231161156id_/http%3A//www.screw-paypal.com/bottom_nav_homepage/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- DW6 --><head> 
 <script type="text/javascript" src="../ticker.js">
@@ -92,87 +92,715 @@ document.oncontextmenu=new Function("alert(message);return false")
 // --> 
 </script>
 <div id="masthead">
-  <table width="100%" border="0" align="center" cellpadding="5" cellspacing="5" bordercolor="#FFFFFF">
-    <tbody><tr>
-      <td width="47%" rowspan="2" align="left" valign="top" bgcolor="#FFFFFF"><img src="../images/Screwpaypal_logo_x501_gif.gif" alt="Thank you for visiting Screw-Paypal.com!" width="431" height="317"></td>
-      <td width="53%" height="51" align="right" valign="middle" bgcolor="#999999"><div id="ticker"><div style="position:relative;width:640px;height:75px;overflow:hidden;background-color:#999999"><div id="mq" style="position: absolute; left: 595px; top: 0px; font-family: &quot;cooper std black&quot;; font-size: 71px; white-space: nowrap;"><span id="tx">MARCH 2010 The PayPal Survival Guide!...LATEST EBAY STOCK PRICE...$22.31....DOWN $3.18 FROM 52-WEEK HIGH PRICE OF $25.49...Screw-PayPal.com...The First Place to go when PayPal SCREWS You!</span></div></div></div> &nbsp;</td>
-    </tr>
-    <tr>
-      <td height="259" align="right" valign="bottom" bgcolor="#FFFFFF"> <script language="JavaScript" type="text/JavaScript">
-function initArray() {
-for(i=0;i<initArray.arguments.length; i++)
-this[i] = initArray.arguments[i];
-}
-var isnMonths=new initArray("JANUARY","FEBRUARY","MARCH",
-"APRIL","MAY","JUNE",
-"JULY","AUGUST","SEPTEMBER",
-"OCTOBER","NOVEMBER","DECEMBER");
-var isnDays= new initArray("Sunday","Monday","Tuesday","Wednesday",
-"Thursday","Friday","Saturday","Sunday");
-today=new Date();
-hrs=today.getHours();
-min=today.getMinutes();
-sec=today.getSeconds();
-clckh=""+((hrs>12)?hrs-12:hrs); 
-clckm=((min<10)?"0":"")+min;
-clck=(hrs>=12)?"PM":"AM";
+ <script language="JavaScript1.2">
 
-var stnr="";
-var ns="0123456789";
-var a="";
+// Drop-in content box- By Dynamic Drive
+// For full source code and more DHTML scripts, visit http://www.dynamicdrive.com
+// This credit MUST stay intact for use
 
-function getFullYear(d) { // d is a date object
-yr = d.getYear();
-if (yr < 1000)
-yr+=1900;
-return yr;
+var ie=document.all
+var dom=document.getElementById
+var ns4=document.layers
+var calunits=document.layers? "" : "px"
+
+var bouncelimit=32 //(must be divisible by 8)
+var direction="up"
+
+function initbox(){
+if (!dom&&!ie&&!ns4)
+return
+crossobj=(dom)?document.getElementById("dropin").style : ie? document.all.dropin : document.dropin
+scroll_top=(ie)? truebody().scrollTop : window.pageYOffset
+crossobj.top=scroll_top-250+calunits
+crossobj.visibility=(dom||ie)? "visible" : "show"
+dropstart=setInterval("dropin()",50)
 }
-  </script>
-    <script>document.write(" "+isnDays[today.getDay()]+", "+isnMonths[today.getMonth()]+" "+today.getDate()+", "+getFullYear(today)+"");</script> Wednesday, FEBRUARY 19, 2020
-    
-  <script>document.write(" "+clckh+":"+clckm+" "+clck+" ");</script> 7:09 PM 
-  <a href="../consumer_complaint/complaint_help.html"><img src="../images/help.jpg" alt="help" width="564" height="330" border="0"></a>&nbsp;</td>
-    </tr>
-  </tbody></table>
-  <p align="left">&nbsp;</p>
-  <div id="globalNav"> <a href="../index.html"><strong>HOME</strong></a> <strong>| <a href="../resources/resources.html">RESOURCES</a></strong> <strong>| <a href="../history.html">HISTORY</a> | <a href="../faq.html">FAQ</a> | <a href="../alternatives/alternatives.html">ALTERNATIVES</a> | <a href="http://www.screw-paypal.com/live/chat">CHAT</a> | <a href="http://www.screw-paypal.com/forums" class="style1">FORUMS</a></strong></div>
-  <h2 id="pageName">&nbsp;</h2>
+
+function dropin(){
+scroll_top=(ie)? truebody().scrollTop : window.pageYOffset
+if (parseInt(crossobj.top)<100+scroll_top)
+crossobj.top=parseInt(crossobj.top)+40+calunits
+else{
+clearInterval(dropstart)
+bouncestart=setInterval("bouncein()",50)
+}
+}
+
+function bouncein(){
+crossobj.top=parseInt(crossobj.top)-bouncelimit+calunits
+if (bouncelimit<0)
+bouncelimit+=8
+bouncelimit=bouncelimit*-1
+if (bouncelimit==0){
+clearInterval(bouncestart)
+}
+}
+
+function dismissbox(){
+if (window.bouncestart) clearInterval(bouncestart)
+crossobj.visibility="hidden"
+}
+
+function truebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+
+window.onload=initbox
+
+</script>
+
+<div id="dropin" style="position: absolute; visibility: visible; left: 100px; top: 78px; width: 440px; height: 385px; background-color: rgb(255, 255, 255);">
+
+<div align="right"><a href="#" onclick="dismissbox();return false">[Close Box] </a></div>
+
+<!-- ImageReady Slices (popup.psd) -->
+<table width="440" height="385" border="0" align="center" cellpadding="0" cellspacing="0" id="Table_01">
+	<tbody><tr>
+		<td>
+			<a href="http://www.screw-paypal.com/toolkit_2011.html"><img src="http://www.screw-paypal.com/images/toolkit_download.jpg" width="440" height="385" alt="" border="0"></a></td>
+	</tr>
+
+</tbody></table>
+<!-- End ImageReady Slices -->
+</div>
+
+
+  <div id="globalNav"> 
+    <div align="center"><a href="http://www.screw-paypal.com/index.html"><strong>HOME</strong></a> <strong>| <a href="http://www.screw-paypal.com/resources/resources.html">RESOURCES</a></strong> <strong>| <a href="http://www.screw-paypal.com/history.html">HISTORY</a> | <a href="http://www.screw-paypal.com/faq.html">FAQ</a> | <a href="http://www.screw-paypal.com/alternatives/alternatives.html">ALTERNATIVES</a> | <a href="http://www.paypalsucks.com/videocomplaints">VIDEOS</a> | <a href="http://www.paypalsucks.com/media_inquiries.shtml">MEDIA INQUIRIES</a> | <a href="http://www.screw-paypal.com/contact.html">CONTACT US</a> |<a href="http://www.paypalsucks.com/newforums"> FORUMS</a></strong></div>
+  </div>
+  <h2 align="center" id="pageName">&nbsp;</h2>
   <div id="breadCrumb"></div>
 </div>
 <div id="navBar">
-  <div id="search"><!-- SiteSearch Google -->
-<form method="get" action="http://www.screw-paypal.com/google_search.html" target="_top">
-<table border="0" bgcolor="#999999">
-<tbody><tr><td nowrap="nowrap" valign="top" align="left" height="14">
+<img src="http://www.screw-paypal.com/images/pp-header.jpg" border="0" usemap="#Map">
+<map name="Map" id="Map">
+  <area shape="rect" coords="5,3,262,88" href="http://www.screw-paypal.com">
+</map>
+<br><br>
 
-<br>
-<input type="hidden" name="domains" value="www.screw-paypal.com">
-<label for="sbi" style="display: none">Enter your search terms</label>
-<input type="text" name="q" size="10" maxlength="59" value="" id="sbi">
-<label for="sbb" style="display: none">Submit search form</label>
-<input type="submit" name="sa" value="Google Search" id="sbb">
-</td></tr>
-<tr>
-<td nowrap="nowrap">
-<table>
-<tbody><tr>
-<td>
-<input type="radio" name="sitesearch" value="" checked="" id="ss0">
-<label for="ss0" title="Search the Web"><font size="-1" color="#ffffff">Web</font></label></td>
-<td>
-<input type="radio" name="sitesearch" value="www.screw-paypal.com" id="ss1">
-<label for="ss1" title="Search www.screw-paypal.com"><font size="-1" color="#ffffff">www.screw-paypal.com</font></label></td>
-</tr>
-</tbody></table>
-<input type="hidden" name="client" value="pub-2191463111988991">
-<input type="hidden" name="forid" value="1">
-<input type="hidden" name="ie" value="ISO-8859-1">
-<input type="hidden" name="oe" value="ISO-8859-1">
-<input type="hidden" name="cof" value="GALT:#3D81EE;GL:1;DIV:#191919;VLC:CC0000;AH:center;BGC:FFFFFF;LBGC:191919;ALC:0066CC;LC:0066CC;T:000000;GFNT:7E3939;GIMP:7E3939;FORID:11">
-<input type="hidden" name="hl" value="en">
-</td></tr></tbody></table>
-</form>
-<!-- SiteSearch Google --></div>
+<center><img src="http://www.screw-paypal.com/images/join-facebook-nopaypal.jpg">
+<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="http://www.facebook.com/NoPayPal" width="250" show_faces="true" border_color="" stream="false" header="false"></fb:like-box></center><br> <br> 
+<center>
+<!--<a href="http://twitter.com/#!/No_Paypal" target="_blank"><img src="http://www.screw-paypal.com/images/twitter.gif" border="0" /></a>-->
+<a href="https://twitter.com/No_Paypal" class="twitter-follow-button">Follow @No_Paypal</a>
+<script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
+
+</center>
+<br><br> 
+<center><a href="http://www.paypalsucks.com/newforums/sendmessage.php"><font face="arial" size="+1" color="#003366"> <b>Submit Your PayPal Complaint</b></font></a></center>
+<div class="complaints"> 
+
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal-is-a-corrupt-organization"><font face="Times New Roman" color="#0000cc" size="2">Paypal Is A Corrupt Organization</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=internet-theft-victim-via-paypal"><font face="Times New Roman" color="#0000cc" size="2">Internet Theft Victim Via Paypal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal-is-a-pain-in-the-ass"><font face="Times New Roman" color="#0000cc" size="2">Paypal Is A Pain In The Ass</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=fake-bmw-wheels-thru-paypal"><font face="Times New Roman" color="#0000cc" size="2">Fake BMW Wheels Thru Paypal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=unjustified-new-paypal-policy"><font face="Times New Roman" color="#0000cc" size="2">Unjustified New Paypal Policy</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal-took-all-but-three-dollars"><font face="Times New Roman" color="#0000cc" size="2">Paypal Took All But Three Dollars</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=want-my-email-address-removed"><font face="Times New Roman" color="#0000cc" size="2">Want My Email Address Removed</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=excessive-currency-conversion-fees"><font face="Times New Roman" color="#0000cc" size="2">Excessive Currency Conversion Fees</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=we-should-flood-them-with-complaints"><font face="Times New Roman" color="#0000cc" size="2">We Should Flood Them With Complaints</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal-is-a-terrorist-organization"><font face="Times New Roman" color="#0000cc" size="2">Paypal Is A Terrorist Organization</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=worried-paypal-will-not-protect-me"><font face="Times New Roman" color="#0000cc" size="2">Worried Paypal Will Not Protect Me</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=bought-fake-car-via-paypal"><font face="Times New Roman" color="#0000cc" size="2">Bought Fake Car Via Paypal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal-facilitates-theft"><font face="Times New Roman" color="#0000cc" size="2">Paypal Facilitates Theft</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal-and-identity-theft"><font face="Times New Roman" color="#0000cc" size="2">Paypal And Identity Theft</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=purchase-caused-limited-account"><font face="Times New Roman" color="#0000cc" size="2">Purchase Caused Limited Account</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=closed-due-to-security-reasons"><font face="Times New Roman" color="#0000cc" size="2">Closed Due To Security Reasons</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=accepting-only-incoming-payments"><font face="Times New Roman" color="#0000cc" size="2">Accepting Only Incoming Payments</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypay-not-safe-way-to-purchase"><font face="Times New Roman" color="#0000cc" size="2">Paypal Not Safe Way To Purchase</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=outright-thievery-by-paypal"><font face="Times New Roman" color="#0000cc" size="2">Outright Thievery By Paypal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=bleeding-more-money-from-sellers"><font face="Times New Roman" color="#0000cc" size="2">Bleeding More Money From Sellers</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal-are-little-hitlers"><font face="Times New Roman" color="#0000cc" size="2">Paypal Are Little Hitlers</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=absolutely-sickened-by-paypal"><font face="Times New Roman" color="#0000cc" size="2">Absolutely Sickened By Paypal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal-are-soulless-thieves"><font face="Times New Roman" color="#0000cc" size="2">Paypal Are Soulless Thieves</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=unable-to-refund-money"><font face="Times New Roman" color="#0000cc" size="2">Unable To Refund Money</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=actual-paypal-user-agreement"><font face="Times New Roman" color="#0000cc" size="2">Actual Paypal User Agreement</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal-do-not-fuckin-care"><font face="Times New Roman" color="#0000cc" size="2">Paypal Do Not Fuckin Care</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=the-merchant-is-always-the-crook"><font face="Times New Roman" color="#0000cc" size="2">The Merchant Is Always The Crook</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_business_practices_are_crazy!"><font face="Times New Roman" color="#0000cc" size="2">PayPal Business Practices are CRAZY!</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=closed_account_without_any_explanation"><font face="Times New Roman" color="#0000cc" size="2">Closed Account Without Any Explanation</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=ebay_suspension"><font face="Times New Roman" color="#0000cc" size="2">Ebay_Suspension</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=accessing_money_made_on_ebay_is_no_easy_task"><font face="Times New Roman" color="#0000cc" size="2">Accessing Money Made On Ebay Is No Easy Task</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_they_are_anything_but-friendly"><font face="Times New Roman" color="#0000cc" size="2">PayPal They Are Anything But Friendly</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=funds_on_hold_unless_i_use_paypals_shipping_label_program"><font face="Times New Roman" color="#0000cc" size="2">Funds On Hold Unless I Use PayPals Shipping Label Program</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=account_frozen_for_issuing_refund"><font face="Times New Roman" color="#0000cc" size="2">Account Frozen For Issuing Refund</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=it_happened_to_me_and_it_can_happen_to_you"><font face="Times New Roman" color="#0000cc" size="2">It Happened To Me And It Can Happen To You</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=holding_my_money"><font face="Times New Roman" color="#0000cc" size="2">Holding My Money</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=even_with_tracking_number_funds_were_put_on_hold"><font face="Times New Roman" color="#0000cc" size="2">Even With Tracking Number Funds Were Put On Hold</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_is_so_unfair"><font face="Times New Roman" color="#0000cc" size="2">Paypal Is So Unfair</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_is_holding_my_funds_hostage"><font face="Times New Roman" color="#0000cc" size="2">Paypal Is Holding My Funds Hostage</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypay_charged_their_fees_but_hold_my_funds"><font face="Times New Roman" color="#0000cc" size="2">PayPay Charged Their Fees But Hold My Funds</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=forced_by_ebay_to_refund_a_ps3"><font face="Times New Roman" color="#0000cc" size="2">Forced By eBay to Refund a PS3</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=iphone_sales_with_paypal_thought_of_as_scam"><font face="Times New Roman" color="#0000cc" size="2">IPhone Sales With PayPal Thought Of As Scam</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=warning_to_new_paypal_users"><font face="Times New Roman" color="#0000cc" size="2">Warning to New PayPal Users</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=double_charged_me"><font face="Times New Roman" color="#0000cc" size="2">Double Charged Me</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=seller_and_buyer_screwed_by_paypal"><font face="Times New Roman" color="#0000cc" size="2">Seller And Buyer Screwed By Paypal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=overcharged"><font face="Times New Roman" color="#0000cc" size="2">Overcharged</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=put-under-review"><font face="Times New Roman" color="#0000cc" size="2">Put_Under_Review</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=it_could_happen_to_you"><font face="Times New Roman" color="#0000cc" size="2">It Could Happen To You</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=no_reason_given_for_account_limitations"><font face="Times New Roman" color="#0000cc" size="2">No Reason Given For Account Limitations</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=sold_iphone_on_ebay"><font face="Times New Roman" color="#0000cc" size="2">Sold Iphone On eBay</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=unfair_treatment_by_paypal"><font face="Times New Roman" color="#0000cc" size="2">Unfair Treatment By PayPal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypals_way_is_anything_but_conducive"><font face="Times New Roman" color="#0000cc" size="2">Paypals Way Is Anything But Conducive</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=ebays_shipping_calculator_screwed_me"><font face="Times New Roman" color="#0000cc" size="2">eBays Shipping Calculator Screwed Me</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=past_few_years_have_been_horrible"><font face="Times New Roman" color="#0000cc" size="2">Past Few Years Have Been Horrible</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_did_not_accept_my_proof"><font face="Times New Roman" color="#0000cc" size="2">Paypal Did Not Accept My Proof</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_needs_to_iron_out_their_wrinkles"><font face="Times New Roman" color="#0000cc" size="2">Paypal Needs To Iron Out Their Wrinkles</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=i_win_take_that_paypal"><font face="Times New Roman" color="#0000cc" size="2">I Win Take That Paypal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=ipad2_sold_on_ebay_horror_story"><font face="Times New Roman" color="#0000cc" size="2">iPad2 Sold On eBay Horror Story</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=guitar_sale_on_ebay_ruined_me"><font face="Times New Roman" color="#0000cc" size="2">Guitar Sale On eBay Ruined Me</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=registration_problem"><font face="Times New Roman" color="#0000cc" size="2">Registration Problem</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=outrageous_fees"><font face="Times New Roman" color="#0000cc" size="2">Outrageous Fees</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=100%_done_with_paypal"><font face="Times New Roman" color="#0000cc" size="2">100% Done With Paypal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_is_playing_float_game"><font face="Times New Roman" color="#0000cc" size="2">PayPal Is Playing Float Game</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=not_sticking_around"><font face="Times New Roman" color="#0000cc" size="2">Not Sticking Around</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_froze_my_money"><font face="Times New Roman" color="#0000cc" size="2">Paypal Froze My Money</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=they_still_took_the_money"><font face="Times New Roman" color="#0000cc" size="2">They Still Took The Money</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=thanks_for_nothing_paypal"><font face="Times New Roman" color="#0000cc" size="2">Thanks For Nothing Paypal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=unwilling_to_help"><font face="Times New Roman" color="#0000cc" size="2">Unwilling To Help</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_is_screwing_with_me"><font face="Times New Roman" color="#0000cc" size="2">PayPal Is Screwing With Me</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=will_never_use_paypal_again"><font face="Times New Roman" color="#0000cc" size="2">Will Never Use PayPal Again</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=feedback_privilege"><font face="Times New Roman" color="#0000cc" size="2">Feedback Privilege</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=ebay_has_changed_a_lot"><font face="Times New Roman" color="#0000cc" size="2">eBay Has Changed A Lot </font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_gave_me_nightmares"><font face="Times New Roman" color="#0000cc" size="2">PayPal Gave Me Nightmares</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=ridiculous_request"><font face="Times New Roman" color="#0000cc" size="2">Ridiculous Request</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=got_crap_when_buying_adobe_acrobat_x_pro_on_ebay"><font face="Times New Roman" color="#0000cc" size="2">Got Crap When Buying Adobe Acrobat X Pro On eBay</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=animals_are_euthanized_because_of_paypal"><font face="Times New Roman" color="#0000cc" size="2">Animals Are Euthanized Because Of PayPal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_ruined_christmas"><font face="Times New Roman" color="#0000cc" size="2">Paypal Ruined Christmas</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_is_too_big_to_care"><font face="Times New Roman" color="#0000cc" size="2">PayPal Is Too Big To Care</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=stay_away_from_ebay_and_paypal"><font face="Times New Roman" color="#0000cc" size="2">Stay Away From eBay And PayPal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=they_robbed_me"><font face="Times New Roman" color="#0000cc" size="2">They Robbed Me</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=they_blocked_my_account"><font face="Times New Roman" color="#0000cc" size="2">They Blocked My Account</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_and_ebay_two_names_for_same_crook"><font face="Times New Roman" color="#0000cc" size="2">PayPal And eBay Two Names For Same Crook</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=account_frozen_for_too_many_sales"><font face="Times New Roman" color="#0000cc" size="2">Account Frozen For Too Many Sales</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=ebay_is_impossible_to_work_with"><font face="Times New Roman" color="#0000cc" size="2">eBay Is Impossible To Work With</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=dont_delay_close_today"><font face="Times New Roman" color="#0000cc" size="2">Dont Delay Close Today</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=iphone4_returned_not_getting_refund"><font face="Times New Roman" color="#0000cc" size="2">iPhone4 Returned Not Getting Refund</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=using_ebay_was_a_bad_idea"><font face="Times New Roman" color="#0000cc" size="2">Using eBay Was A Bad Idea</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=black_balled_from_paypal"><font face="Times New Roman" color="#0000cc" size="2">Black Balled From PayPal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_only_protects_paypal"><font face="Times New Roman" color="#0000cc" size="2">PayPal Only Protects PayPal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=call_center_in_philippines"><font face="Times New Roman" color="#0000cc" size="2">Call Center In Philippines</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=went_from_good_to_bad"><font face="Times New Roman" color="#0000cc" size="2">Went From Good To BAD</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=sold_iphone_3gs_on_ebay_auction"><font face="Times New Roman" color="#0000cc" size="2">Sold iPhone 3GS On eBay Auction</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=ebay_fees_outrageous"><font face="Times New Roman" color="#0000cc" size="2">eBay Fees Outrageous</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=not_allowed_to_contact_seller"><font face="Times New Roman" color="#0000cc" size="2">Not Allowed To Contact Seller</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=canceled_ebay_and_paypal"><font face="Times New Roman" color="#0000cc" size="2">Canceled eBay And PayPal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=the_dark_side_of_ebay"><font face="Times New Roman" color="#0000cc" size="2">The Dark Side Of eBay</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=sales_increased_and_account_got_frozen"><font face="Times New Roman" color="#0000cc" size="2">Sales Increased And Account Got Frozen</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=where_is_my_seller_protection"><font face="Times New Roman" color="#0000cc" size="2">Where Is My Seller Protection</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=loss_on_watches_and_cell_phones"><font face="Times New Roman" color="#0000cc" size="2">Loss On Watched And Cell Phones</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=21_day_hold_is_bs"><font face="Times New Roman" color="#0000cc" size="2">21 Day Hold Is BS</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_does_not_care"><font face="Times New Roman" color="#0000cc" size="2">PayPal Does Not Care</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_is_a-growhouse_for-scammers"><font face="Times New Roman" color="#0000cc" size="2">PayPal Is A GrowHouse For Scammers</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=only_buyers_are_protected"><font face="Times New Roman" color="#0000cc" size="2">Only Buyers Are Protected</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_punish_the_innocent"><font face="Times New Roman" color="#0000cc" size="2">PayPal Punish The Innocent</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=video_camera_sold_on_ebay_never_delivered"><font face="Times New Roman" color="#0000cc" size="2">Video Camera Sold On eBay Never Delivered</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=shut_down_after_complying"><font face="Times New Roman" color="#0000cc" size="2">Shut Down After Complying</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=banned_for_depositing_my_own_money"><font face="Times New Roman" color="#0000cc" size="2">Banned For Depositing My Own Money</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_is_the_only_winner"><font face="Times New Roman" color="#0000cc" size="2">PayPal Is The Only Winner</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=is_this_a_scam"><font face="Times New Roman" color="#0000cc" size="2">Is This A Scam</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=$1000_held_for_180_days"><font face="Times New Roman" color="#0000cc" size="2">$1000 Held For 180 Days</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=sold_computer_on_ebay"><font face="Times New Roman" color="#0000cc" size="2">Sold Computer On eBay</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_is_playing_with_our_money"><font face="Times New Roman" color="#0000cc" size="2">PayPal Is Playing With Our Money</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=wtf"><font face="Times New Roman" color="#0000cc" size="2">WTF</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypals_unfair_limitations"><font face="Times New Roman" color="#0000cc" size="2">Paypals Unfair Limitations</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=sellers_get_screwed_over_and_over"><font face="Times New Roman" color="#0000cc" size="2">Sellers Get Screwed Over And Over</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=no_one_is_home_at_paypal"><font face="Times New Roman" color="#0000cc" size="2">No One Is Home At PayPal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=funds_on_hold_and_getting_evicted"><font face="Times New Roman" color="#0000cc" size="2">Funds On Hold And Getting Evicted</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=frozen_account_leads_to_problems"><font face="Times New Roman" color="#0000cc" size="2">Frozen Account Leads To Problems</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=10_years_down_the_drain"><font face="Times New Roman" color="#0000cc" size="2">10 Years Down The Drain</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=bought_dslr_camera_on_ebay"><font face="Times New Roman" color="#0000cc" size="2">Bought DSLR Camera On eBay</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=bill_me_later_cost_me_now"><font face="Times New Roman" color="#0000cc" size="2">Bill Me Later Cost Me Now</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=no_help_when_calling_paypal"><font face="Times New Roman" color="#0000cc" size="2">No Help When Calling Paypal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=changing_email_lead_to_problems"><font face="Times New Roman" color="#0000cc" size="2">Changing Email Lead To Problems</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=no_info_on_why_account_was_limited"><font face="Times New Roman" color="#0000cc" size="2">No Info On Why Account Was Limited</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=frustration_over_closure"><font face="Times New Roman" color="#0000cc" size="2">Frustration Over Closure</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_broke_their_own_policy"><font face="Times New Roman" color="#0000cc" size="2">PayPal Broke Their Own Policy</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=froze_account_used_to_feed_the_starving"><font face="Times New Roman" color="#0000cc" size="2">Froze Account Used To Feed The Starving</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=christmas_robbers"><font face="Times New Roman" color="#0000cc" size="2">Christmas Robbers</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=random_hold_on_account"><font face="Times New Roman" color="#0000cc" size="2">Random Hold On Account</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=no_refund_for_item_not_as_described"><font face="Times New Roman" color="#0000cc" size="2">No Refund For Item Not As Described</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=unfair_business_practices"><font face="Times New Roman" color="#0000cc" size="2">Unfair Business Practices</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=it_was_all_good_until_it_went_bad"><font face="Times New Roman" color="#0000cc" size="2">It Was All Good Until It Went BAD</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=account_hold_is_appalling"><font face="Times New Roman" color="#0000cc" size="2">Account Hold Is Appalling</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=complaints_vs_paypal"><font face="Times New Roman" color="#0000cc" size="2">Complaints Vs PayPal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_scam"><font face="Times New Roman" color="#0000cc" size="2">PayPal Scam</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=funds_on_hold_by_paypal"><font face="Times New Roman" color="#0000cc" size="2">Funds On Hold By PayPal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=bought_hp_printer_on_ebay"><font face="Times New Roman" color="#0000cc" size="2">Bought HP Printer on eBay</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_password_problems"><font face="Times New Roman" color="#0000cc" size="2">PayPal Password Problems</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_is_holding_money_for_180_days"><font face="Times New Roman" color="#0000cc" size="2">PayPal Is Holding Money For 180 Days</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=account_locked_after_ebay_auction"><font face="Times New Roman" color="#0000cc" size="2">Account Locked After eBay Auction</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_refund_problems"><font face="Times New Roman" color="#0000cc" size="2">PayPal Refund Problem</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=ebay_is_judge_and_jury"><font face="Times New Roman" color="#0000cc" size="2">eBay Is Judge And Jury</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_is_not_safe_for_sellers"><font face="Times New Roman" color="#0000cc" size="2">PayPal Is Not Safe For Sellers</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=money_pak_card_is_crap"><font face="Times New Roman" color="#0000cc" size="2">Money Pak Card Is Crap</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_is_holding_my_cash"><font face="Times New Roman" color="#0000cc" size="2">PayPal Is Holding My Cash</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=2_paypal_accounts_1_big_problem"><font face="Times New Roman" color="#0000cc" size="2">2 PayPal Accounts 1 Big Problem</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_verification_impossible"><font face="Times New Roman" color="#0000cc" size="2">PayPal Verification Impossible</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_dispute"><font face="Times New Roman" color="#0000cc" size="2">PayPal Dispute</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_account_limited_then_closed"><font face="Times New Roman" color="#0000cc" size="2">PayPal Account Limited Then Closed</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=ez_support_for_ebay_sucks"><font face="Times New Roman" color="#0000cc" size="2">EZ Support for Ebay Sucks</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_is_so_stupid"><font face="Times New Roman" color="#0000cc" size="2">PayPal Is So Stupid</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=you_can_buy_it_on_ebay_but_not_sell_it"><font face="Times New Roman" color="#0000cc" size="2">You Can Buy It On eBay But Not Sell It</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_harassment_and_threats"><font face="Times New Roman" color="#0000cc" size="2">PayPal Harassment And Threats</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=my_funds_are_on_hold"><font face="Times New Roman" color="#0000cc" size="2">My Funds Are On Hold</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=took_seller_to_court"><font face="Times New Roman" color="#0000cc" size="2">Took Seller To Court</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=$1_mistake"><font face="Times New Roman" color="#0000cc" size="2">$1 Mistake</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_is_such_a_hassle"><font face="Times New Roman" color="#0000cc" size="2">PayPal Is Such A Hassle</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=item_damaged_by_buyer"><font face="Times New Roman" color="#0000cc" size="2">Item Damaged By Buyer</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_screwed_hurricane_victim"><font face="Times New Roman" color="#0000cc" size="2">Paypal Screwed Hurricane Victim</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_robbed_me"><font face="Times New Roman" color="#0000cc" size="2">PayPal Robbed Me</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_customer_service_complaint"><font face="Times New Roman" color="#0000cc" size="2">PayPal Customer Service Complaint</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=i_know_my_time_is_coming"><font face="Times New Roman" color="#0000cc" size="2">I Know My Time Is Coming</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=screwed_without_feedback"><font face="Times New Roman" color="#0000cc" size="2">Screwed Without Feedback</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=funds_transfer"><font face="Times New Roman" color="#0000cc" size="2">Funds Transfer</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=bad_business_by_paypal"><font face="Times New Roman" color="#0000cc" size="2">Bad Business By PayPal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=hello_paypal_are_you_there"><font face="Times New Roman" color="#0000cc" size="2">Hello PayPal Are You There</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=ebay_and_paypal_encourage_scams"><font face="Times New Roman" color="#0000cc" size="2">eBay And PayPal Encourage Scams</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_account_frozen"><font face="Times New Roman" color="#0000cc" size="2">PayPal Account Frozen</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=angry_australian"><font face="Times New Roman" color="#0000cc" size="2">Angry Australian</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_is_not_the_way_to_go"><font face="Times New Roman" color="#0000cc" size="2">PayPal Is Not The Way To Go</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=accused_of_selling_fake_coach_bag_on_ebay"><font face="Times New Roman" color="#0000cc" size="2">Accused Of Selling Fake Coach Bag On eBay</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=negative_review_for_paypal"><font face="Times New Roman" color="#0000cc" size="2">Negative Review For PayPal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=my_bank_is_protecting_me_from_paypal"><font face="Times New Roman" color="#0000cc" size="2">My Bank Is Protecting Me From PayPal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=not_safe_for_sellers"><font face="Times New Roman" color="#0000cc" size="2">Not Safe For Sellers</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=buyers_get_free_stuff"><font face="Times New Roman" color="#0000cc" size="2">Buyers Get Free Stuff</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=no_vacation_selling_on_ebay"><font face="Times New Roman" color="#0000cc" size="2">No Vacation Selling On eBay</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=got_my_account_canceled"><font face="Times New Roman" color="#0000cc" size="2">Got My Account Canceled</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_has_put_my_funds_on_hold"><font face="Times New Roman" color="#0000cc" size="2">PayPal Has Put My Funds On Hold</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=how_do_i_contact_paypal"><font face="Times New Roman" color="#0000cc" size="2">How Do I Contact PayPal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_account_frozen_several_times"><font face="Times New Roman" color="#0000cc" size="2">PayPal Account Frozen Several Times</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=charged_twice_never_got_item"><font face="Times New Roman" color="#0000cc" size="2">Charged Twice Never Got Item</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_lost_a_good_customer"><font face="Times New Roman" color="#0000cc" size="2">PayPal Lost A Good Customer</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_is_holding_our_shipping_funds"><font face="Times New Roman" color="#0000cc" size="2">PayPal Is Holding Our Shipping Funds</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=impossible_to_access_my_money"><font face="Times New Roman" color="#0000cc" size="2">Impossible To Access My Money</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=it_is_hard_to_please_paypal"><font face="Times New Roman" color="#0000cc" size="2">It Is Hard To Please PayPal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_froze_my_account"><font face="Times New Roman" color="#0000cc" size="2">PayPal Froze My Account</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypals_fraud_detection_is_crap"><font face="Times New Roman" color="#0000cc" size="2">PayPals Fraud Detection Is Crap</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=do_not_use_checkout_by_paypal"><font face="Times New Roman" color="#0000cc" size="2">Do Not Use Checkout By PayPal</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_shut_me_down"><font face="Times New Roman" color="#0000cc" size="2">PayPal Shut Me Down</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=paypal_does_not_give_a_rats_ass"><font face="Times New Roman" color="#0000cc" size="2">PayPal Does Not Give A Rats Ass</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=buyer_filed_not_as_described_claim"><font face="Times New Roman" color="#0000cc" size="2">Buyer Filed Not As Described Claim</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=account_frozen_for_selling_rolex_on_ebay"><font face="Times New Roman" color="#0000cc" size="2">Account Frozen For Selling Rolex On eBay</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=took_14%_of_everything_i_sold"><font face="Times New Roman" color="#0000cc" size="2">Took 14% Of Everything I sold</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=not_easy_for_new_sellers"><font face="Times New Roman" color="#0000cc" size="2">Not Easy For New Sellers</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=account_limited_for_christmas"><font face="Times New Roman" color="#0000cc" size="2">Account Limited For Christmas</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=i_have_to_pay_fraud_charge"><font face="Times New Roman" color="#0000cc" size="2">I Have To Pay Fraud Charge</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=cb_radio_sold_on_ebay"><font face="Times New Roman" color="#0000cc" size="2">CB Radio Sold On eBay</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+<a href="http://www.screw-paypal.com/view_story.php?name=sold_model_engine_on_ebay"><font face="Times New Roman" color="#0000cc" size="2">Sold Model Engine On eBay</font></a><br>
+<!--<div class="textlink"><a href="http://www.merchantinc.com">Click Here For Our PayPal Alternative</a></div>
+<div class="textlink"><a href="http://www.paypalsucks.com/videocomplaints">Check Out Our New Video Section!</a></div>-->
+</div>
+<br><br>  
+<center><a href="http://www.youtube.com/watch?v=wV2fk56ktVE" target="_blank"><img src="images/pps-video-clip-for-spp-home.gif" border="0"></a></center>
+<br><br>          
+  <a href="http://www.screw-paypal.com/toolkit_2011.html"><img src="http://www.screw-paypal.com/images/sideimage1.jpg" border="0"></a><br>
+  <a href="http://www.screw-paypal.com/alternatives/alternatives.html"><img src="http://www.screw-paypal.com/images/sideimage2.jpg" border="0"></a><br>
+  <a href="http://www.screw-paypal.com/paypal_lawsuits.html"><img src="http://www.screw-paypal.com/images/sideimage3.jpg" border="0"></a><br>
+  <a href="http://www.paypalsucks.com/newforums/sendmessage.php"><img src="http://www.screw-paypal.com/images/sideimage4.jpg" border="0"></a><br>
+  <a href="http://www.paypalsucks.com/newforums/"><img src="http://www.screw-paypal.com/images/sideimage5.jpg" border="0"></a><br>
+  <a href="http://www.paypalsucks.com/newforums/whistleblowers/27105-i-work-ebay-call-center-salt-lake.html"><img src="http://www.screw-paypal.com/images/sideimage6.jpg" border="0"></a><br>
+  <a href="http://www.screw-paypal.com/toolkit_2011.html"><img src="http://www.screw-paypal.com/images/sideimage7.jpg" border="0"></a><br>
+  <a href="http://www.paypalsucks.com/newsflash.shtml"><img src="http://www.screw-paypal.com/images/sideimage8.jpg" border="0"></a><br>    <br>  
+  
+<p> 
+  <script src="http://www.screw-paypal.com/peel.js" type="text/javascript"></script>
+</p>   
   <div id="sectionLinks">
     <h3 class="style22">FEATURES</h3>
     <ul class="style24">
@@ -223,7 +851,7 @@ return yr;
       We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website,  you can be assured that it will only be used in accordance with this privacy statement.</p>
     <p class="style30"><br>
       <span class="style31">Screw-Paypal.com may change this policy from time to time by updating this page. Should any changes be made, the changes will be made to further strengthen the protection of your privacy. This is necessary in order to keep up with  rapidly changing internet technology and user habits. You should check this page from time to time to ensure that you are briefed on what your protections are.</span></p>
-    <p class="style39"> NOTE: This policy is effective as of March 30,  2009. The latest revision of this policy took place on March 30, 2009. Please read this privacy policy carefully. It explains important information about you, your personal information and the privacy of your online activities. </p>
+    <p class="style39"> NOTE: This policy is effective as of March 30,  2011. The latest revision of this policy took place on March 30, 2011. Please read this privacy policy carefully. It explains important information about you, your personal information and the privacy of your online activities. </p>
     <hr>
     <p align="center" class="style32"><u>WHAT WE COLLECT</u> </p>
     <p align="left" class="style27"><br>
@@ -270,24 +898,14 @@ return yr;
       <span class="style31">Our website contains links to other websites which we think are relevant, helpful, or entertaining to our visitors. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites. </span></p>
     <p class="style27"><span class="style31">These sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. </span></p>
     <p class="style30">If you feel there are improvements or additions that we can make to our Privacy Policy, please do not hesitate to contact us with your suggestion. If your suggestion is valid -- and we are able to comply with it -- we will gladly add it to this portion of our website. <br>
-      <script type="text/javascript"><!--
-google_ad_client = "pub-2191463111988991";
-google_ad_width = 468;
-google_ad_height = 60;
-google_ad_format = "468x60_as_rimg";
-google_cpa_choice = "CAAQlYyYhAIaCEU_ZZsKwEZpKOm293MwAA";
-google_ad_channel = "";
-//-->
-      </script>
-      <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-      </script>
+ 
   </p>
   </div>
   <div class="story"></div>
 </div>
 <!--end content -->
 <div id="siteInfo">
-  <div align="left"><a href="anti_paypal_domains.html"><img src="../images/thumb_paypal.gif" alt="Get the word out, PayPal is NOT YOUR PAL!" width="72" height="58" border="0"></a><a href="donate.html">Donate</a> | <a href="../contact.html">Contact Us </a> | <a href="privacy_policy.html">Privacy Policy</a> | <a href="legal.html">Legal</a> | ©2007 Screw-Paypal.com </div>
+  <div align="left"><a href="anti_paypal_domains.html"><img src="../images/thumb_paypal.gif" alt="Get the word out, PayPal is NOT YOUR PAL!" width="72" height="58" border="0"></a><a href="donate.html">Donate</a> | <a href="../contact.html">Contact Us </a> | <a href="privacy_policy.html">Privacy Policy</a> | <a href="legal.html">Legal</a> | ©2011 Screw-Paypal.com </div>
 </div>
 <br><!-- Start of StatCounter Code -->
 <script type="text/javascript">
