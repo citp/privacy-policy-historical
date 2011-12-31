@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobirn.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604075510id_/http%3A//jobirn.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobirn.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231235341id_/http%3A//jobirn.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy|Your Insider Referral Network- Jobirn
 
@@ -81,7 +81,7 @@ Jobirn reserves the right to update this Privacy Policy at any point. Users will
 If you have any questions or suggestions, please contact us at:  
 InsidersReferral.com, Inc.   
 ATTN: Agreement Issues   
-1250 Oakmead Pkwy, Suite 210  
+1230 Oakmead Pkwy, Suite 312  
 Sunnyvale, CA 94085
 
 ## Effective Date: May 8, 2008 
