@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesudburystar.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621234347id_/http%3A//www.thesudburystar.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesudburystar.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205058id_/http%3A//www.thesudburystar.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -104,7 +104,5 @@ Any rights not expressly granted herein are reserved.
 
 * * *
 
-COPYRIGHT NOTICE.© 1999-2011 [PriorityDigital.com](http://209.204.219.152/) Prepared for: www.thesudburystar.com ,All rights reserved. 
-
-  
+COPYRIGHT NOTICE.© 1999-2011 [PriorityDigital.com](http://209.204.219.152/) Prepared for: www.thesudburystar.com ,All rights reserved.   
 
