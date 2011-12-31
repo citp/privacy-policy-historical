@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xsserver.eu privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624230829id_/http%3A//xsserver.eu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsserver.eu privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231114150id_/http%3A//xsserver.eu/privacy.html) for the most accurate reproduction.*
 
 # Windows VPS hosting, VPS hosting, Linux VPS, Dedicated Servers, Windows VPS, Germany servers, Unmetered windows vps, Netherlands servers
 
@@ -38,4 +38,4 @@ If problems arise, users may contact xsserver.eu by emailing us or mailing us. W
 
 xsserver.eu protects user information with secure-hardened servers, firewalls, SSL encryption and other technology and procedures used to protect consumer privacy. 
 
-If you have any questions on our privacy policy please [contact us](https://web.archive.org/web/20110624230829id_/http%3A//xsserver.eu/contact.html)
+If you have any questions on our privacy policy please [contact us](https://web.archive.org/web/20111231114150id_/http%3A//xsserver.eu/contact.html)
