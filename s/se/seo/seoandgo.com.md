@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoandgo.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514170648id_/http%3A//www.seoandgo.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoandgo.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231090619id_/http%3A//www.seoandgo.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # SEO&GO - Privacy Policy
 
@@ -84,4 +84,4 @@ Your information may be processed or transferred outside of your state, where th
 
 If you have any concerns or questions about this Privacy Policy, please contact us at info@seoandgo.com. 
 
-Copyright © 2010, ExactFactor Ltd. All rights reserved. 
+Copyright © 2011, ExactFactor Ltd. All rights reserved. 
