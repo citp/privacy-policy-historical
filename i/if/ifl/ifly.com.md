@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ifly.com privacy policy that was archived on 2011-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110114171659id_/http%3A//www.ifly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifly.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222341id_/http%3A//www.ifly.com/privacy) for the most accurate reproduction.*
 
 # iFly.com: Privacy Policy
 
-This is the web site of iFly.com, operated by Red Cirrus LLC. Our postal address is 26790 Taaffe Road, Los Altos Hills CA 94022 , USA . Our Web servers do not capture any information regarding the domain or e-mail address of any visitors. For questions please send an inquiry to [support@ifly.com](mailto:support@ifly.com)
+This is the web site of iFly.com, operated by Red Cirrus LLC, located in Los Gatos CA, USA . Our Web servers do not capture any information regarding the domain or e-mail address of any visitors. For questions please send an inquiry to [support@ifly.com](mailto:support@ifly.com)
 
 We collect user-specific information on what pages consumers access or visit. The information we collect is used to customize the content and/or layout of our page for each individual visitor. We use cookies to store visitors preferences, customize Web page content based on visitors' browser type or other information that the visitor sends.
 
