@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appliedmaterials.com privacy policy that was archived on 2011-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110324165620id_/http%3A//www.appliedmaterials.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliedmaterials.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222228id_/http%3A//www.appliedmaterials.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Applied Materials
 
@@ -31,7 +31,7 @@ Again, information you disclose in a public forum will naturally be public and a
 **Applicant Data**  
 Applied Materials may use the information that you provide and any other information which is subsequently provided (the “Information”) in considering you for a specific position and/or other available positions at any Applied Materials location. Your Information may remain active for up to six months and may be kept on record for a limited period of time as required by law.
 
-Your Information is stored on a server in the United States of America and is visible to all Applied Materials locations globally, including countries where laws may not protect data privacy to the same extent as laws in the country or region in which you live. If your submission is considered for employment, it will be used for these purposes only and normally considered primarily in locations where the position(s) is available. The contact details of Applied Materials can be found at [http://www.appliedmaterials.com/about/contact](https://web.archive.org/web/20110324165620id_/http%3A//www.appliedmaterials.com/about/contact).
+Your Information is stored on a server in the United States of America and is visible to all Applied Materials locations globally, including countries where laws may not protect data privacy to the same extent as laws in the country or region in which you live. If your submission is considered for employment, it will be used for these purposes only and normally considered primarily in locations where the position(s) is available. The contact details of Applied Materials can be found at [http://www.appliedmaterials.com/about/contact](https://web.archive.org/web/20111231222228id_/http%3A//www.appliedmaterials.com/about/contact).
 
 If you become or currently are an Applied Materials employee, your Information will be retained in individual employment records kept by Applied Materials. Such Information will be used in administering benefits, and performing Applied Materials’ contractual and other legal obligations.
 
