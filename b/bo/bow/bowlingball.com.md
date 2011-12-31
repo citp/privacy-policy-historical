@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bowlingball.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513133336id_/http%3A//www.bowlingball.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowlingball.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222239id_/http%3A//www.bowlingball.com/info/privacy.html) for the most accurate reproduction.*
 
-# bowlingball.com Privacy Policy - bowlingball.com, Helping Bowlers Make Better Bowling Decisions
+# bowlingball.com Privacy Policy - bowlingball.com
 
 **What information do we collect?**
 
