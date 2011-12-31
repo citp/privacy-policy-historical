@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the votigo.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102174051id_/http%3A//votigo.com/corp/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the votigo.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211110id_/http%3A//www.votigo.com/corp/privacy.php) for the most accurate reproduction.*
 
 # Votigo social media solutions - Privacy Policy
 
-  | 
+|   | 
 
 Votigo Privacy Policy 
 
-At Votigo, Inc. we share your concerns about privacy while using the website found at [www.votigo.com](http://www.votigo.com/) (the "Site"). Accordingly we want you to understand what types of information we are collecting and what may happen to that information. This Privacy Policy is incorporated into and is subject to the Votigo [Terms of Use](https://web.archive.org/web/20100102174051id_/http%3A//votigo.com/corp/terms.php). Your use of the Site and any personal information you provide on the Site remains subject to the terms of this Privacy Policy and our Terms of Use.
+At Votigo, Inc. we share your concerns about privacy while using the website found at [www.votigo.com](http://www.votigo.com/) (the "Site"). Accordingly we want you to understand what types of information we are collecting and what may happen to that information. This Privacy Policy is incorporated into and is subject to the Votigo [Terms of Use](https://web.archive.org/web/20111231211110id_/http%3A//www.votigo.com/corp/terms.php). Your use of the Site and any personal information you provide on the Site remains subject to the terms of this Privacy Policy and our Terms of Use.
 
 **COLLECTION OF INFORMATION**
 
@@ -20,15 +20,15 @@ Information is collected from our users at several different points during your 
 
 
 
-**COLLECTION OF INFORMATION**
+**USE OF INFORMATION**
 
 Votigo may use your information in order to customize our site to your interests and enhance your overall experience at our site. Votigo tries to recognize you using various methods, including having you log in with your user name and your password. Once Votigo recognizes you, pages, advertisements and other content may be customized for you so that you can see what interests you the most. In addition, as described above, Votigo utilizes passive information to learn more about how you interact with our site. This passive information may be combined with your other information for purposes such as testing and improving your experience at our site and the compilation of broad aggregate demographic data and related usage information for internal purposes and for disclosure to third parties such as advertisers and content partners. This aggregate passive information does not contain any personal information which can identify any individual user. 
 
-**COLLECTION OF INFORMATION**
+**CONTACTING YOU BY E-MAIL**
 
-Votigo may use your contact information periodically in order to send you e-mail regarding updates at the Votigo site and to alert you or remind you of happenings on the Site. The frequency of these messages will vary depending upon various factors. 
+Votigo may use your contact information periodically in order to send you e-mail regarding updates to Votigo and to alert you or remind you of happenings on the Site. The frequency of these messages will vary depending upon various factors. 
 
-**COLLECTION OF INFORMATION**
+**SHARING OF INFORMATION**
 
 Votigo will not knowingly sell, share, rent or otherwise transfer your information other than in accordance with the terms set forth in this Privacy Policy. Votigo does not share any information that can be tied to you without your permission. If you give your permission to allow third parties to contact you, personal information about you (such as your contact information and other information collected during your visit to Votigo) may be shared with builders, product manufacturers, data aggregators, marketers (possibly in the form of list rental), and other organizations. Regardless of your decision regarding the sharing of your personal information, we may share broad aggregate demographic data and related usage information with our business partners. This aggregate information does not contain any personal information which can identify any individual user. 
 
@@ -54,4 +54,26 @@ If you have any questions about security issues at our site, please use our [con
 
 Your privacy is important to Votigo. If you have questions about any of the provisions described above, please contact us using our [contact form](https://web.archive.org/corp/contact.php).
 
-|  
+|    
+---|---|---  
+  
+Votigo, Inc.
+
+San Francisco Bay Area  
+251 Lafayette Circle  
+Suite #330  
+Lafayette, CA 94549
+
+Boulder, CO  
+1731 15th Street  
+Suite 101  
+Boulder, CO 80302  
+ 
+
+Hyderabad, India  
+8-2-332/8/A,  
+Aditya House,  
+1st Floor,  
+Rd #3, Banjara Hills  
+Hyderabad, 500034  
+ 
