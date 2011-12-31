@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exchange-rates.org privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220014132id_/http%3A//www.exchange-rates.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exchange-rates.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213913id_/http%3A//www.exchange-rates.org/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for Exchange-Rates.org - Exchange Rates
 
