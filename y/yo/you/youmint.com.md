@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youmint.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630073122id_/http%3A//www.youmint.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youmint.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231172053id_/http%3A//www.youmint.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - YouMint.com
 
@@ -77,6 +77,7 @@ Please read the following to learn more about our privacy policy. The premise of
 
   * You can update your profile information at any time on the YouMint.com website.   
 You can terminate your account at any time. If you terminate your account, your profile, including any messages in your inbox, will be removed from the site and deleted from YouMint servers. Because of the way we maintain this service such deletion may not be immediate, and residual copies of your profile information may remain on backup media.
+  * You can choose to delete your account and unsubscribe from our mails by sending a mail to [deleteaccount@youmint.com](mailto:deleteaccount@youmint.com)
 
 
 
