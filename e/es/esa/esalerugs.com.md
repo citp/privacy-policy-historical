@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esalerugs.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221112225id_/http%3A//esalerugs.com/customer-service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esalerugs.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223804id_/http%3A//esalerugs.com/customer-service/privacy) for the most accurate reproduction.*
 
 # Rug Education Center
 
