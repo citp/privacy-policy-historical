@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreety.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429025424id_/http%3A//www.spreety.com/Membership-About.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreety.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231180714id_/http%3A//www.spreety.com/Membership-About.aspx) for the most accurate reproduction.*
 
 # About Spreety TV Online Copyright / Privacy Policy
 
