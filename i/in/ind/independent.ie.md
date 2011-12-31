@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the independent.ie privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521084929id_/http%3A//www.independent.ie/service/data-protection-and-privacy-statement-24073.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent.ie privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231050915id_/http%3A//www.independent.ie/service/data-protection-and-privacy-statement-24073.html) for the most accurate reproduction.*
 
-# Data protection and privacy statement - Service, Frontpage - Independent.ie
+# Data protection and privacy statement - Service - Independent.ie
 
 Independent Newspapers Ireland Ltd. and its associated companies fully respect your right to privacy. 
 
