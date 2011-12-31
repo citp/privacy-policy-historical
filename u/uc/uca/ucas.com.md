@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucas.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520234853id_/http%3A//www.ucas.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucas.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231113642id_/http%3A//www.ucas.com/privacy_statement) for the most accurate reproduction.*
 
 # UCAS - Privacy statement
 
@@ -40,13 +40,13 @@ We may collect and process the following information about you:
     * to allow you to participate in any interactive features of our service, when you choose to do so.
     * to notify you about changes to our service.
     * to ensure that content from our website is presented in the most effective manner for you and for your computer.
-    * to keep you informed (with your consent) by electronic means, or other means of information, about specific funding, sponsorship opportunities or services and products that we think may be of interest to you.
+    * to keep you informed (with your consent) by electronic means, or other means, of information about specific funding, sponsorship opportunities or services and products that we think may be of interest to you.
     * to provide you (unless you object) with general information relevant to students.
   2. We may share personal information included in your application, or which you subsequently supply to us, with the staff of the institutions which (i) you have previously or currently attend as a student or (ii) you are making application to attend for further or higher education as indicated in your application. More detail of the parties with whom some or all of your information will shared is set out in our data protection statement which forms part of the declaration.
   3. As part of your application, you will be asked if you wish to nominate a representative who may speak to UCAS on your behalf. You do not have to nominate a representative but where you do so you must have their consent that they will to act as your representative and that we may hold their personal details including their name and contact details. We will only discuss your application, give information or take directions from your nominated representative if you make us aware that you have appointed one.
   4. After you register to use our Apply product or after have submitted your application to UCAS in paper form, you will receive a 'welcome' letter or email, which will contain your Personal ID and your user name for using our Track service. You must take care not to disclose them to anyone other than your nominated representative. We will not be liable to you for any loss or damage suffered by you as a result of an unauthorised third party having accessed your application.
   5. Where you use our website to submit an application, we may invite you to participate in surveys intended to assist us in the development of our services or for enhancement of areas of study in which you have expressed interest. Whilst your views will be welcome to us, there is no obligation for you to respond. You will be given details of the purpose of the survey and the parties who will undertake it.
-  6. We may, on occasion, be required to undertake a check of your identity. This will be conducted in confidence. We will normally discuss this with you prior to carrying out any identity check except as set out in our data protection statement.
+  6. We may, on occasion, be required to undertake a check of your identity. This will be conducted in confidence. We will normally discuss this with you prior to carrying out any identity checks except as set out in our data protection statement.
   7. UCAS will cooperate, where it is required to do so, with enquiries from authorities which demonstrate a legal requirement for access to information about you. These include, but are not limited to: the Police, the UK Border Agency and investigators on behalf of other agencies.
 
 
@@ -63,7 +63,7 @@ We may collect and process the following information about you:
 #### 4 Mailings and sales information
 
   1. From time to time we may use your personal information to send you general information ("Mailings") by post, email or SMS, such as (without limitation), information relating to health issues; or career information which is relevant to your chosen subjects.
-  2. In addition, and from time to time, we would like to make use your personal information to send you marketing or promotional information ("Sales information") about (without limitation) products and services which may be of interest to you; or specific funding and sponsorship opportunities. Mailings and sales information may include information sent by the UCAS Group of Companies on behalf of carefully selected and trustworthy third parties. Please note that except as set out in this privacy policy or data protection statement, your details will not be released to any third party.
+  2. In addition, and from time to time, we would like to make use of your personal information to send you marketing or promotional information ("Sales information") about (without limitation) products and services which may be of interest to you; or specific funding and sponsorship opportunities. Mailings and sales information may include information sent by the UCAS Group of Companies on behalf of carefully selected and trustworthy third parties. Please note that except as set out in this privacy policy or data protection statement, your details will not be released to any third party.
   3. If you do not wish your personal information to be used for us to send you sales information by post you must ensure that you tick the appropriate box on the registration page.
   4. You should tick the appropriate boxes on the registration page if you wish to receive Marketing Information by text, email or both.
   5. You may, at any time, withdraw your permission for UCAS to use your personal information for the purposes of sending mailings or sales information by ticking on the appropriate boxes in the Apply or Track applications, or by writing to the Company Secretary, UCAS, Rosehill, New Barn Lane, Cheltenham, Glos GL52 3LZ.
@@ -81,7 +81,7 @@ We may collect and process the following information about you:
 
 #### 6 Your right to ask to see the information we hold about you
 
-  1. Under the Data Protection Act 1998 you may request for us to provide you with details of personal information that we holds about you. If you want to make a request for this information you should write to our Company Secretary at the address given in section 3.3 above. There will be a fee of £10 payable to UCAS. A cheque for this amount should be sent to UCAS with your request for information.
+  1. Under the Data Protection Act 1998 you may request for us to provide you with details of personal information that we hold about you. If you want to make a request for this information you should write to our Company Secretary at the address given in section 3.3 above. There will be a fee of £10 payable to UCAS. A cheque for this amount should be sent to UCAS with your request for information.
   2. If you request us to do so we will consider making changes to the information that we hold about you. We will change certain limited information that we hold about you where you tell us it is incorrect. We cannot make any changes to information contained in your application such as (without limitation) your qualifications, personal statement or reference. If you believe any such information is incorrect or contains any errors or mistakes, you must contact your selected higher education institutions directly to discuss these.
 
 
