@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidscamps.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628152719id_/http%3A//www.kidscamps.com/privacy.camp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidscamps.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211322id_/http%3A//www.kidscamps.com/privacy.camp) for the most accurate reproduction.*
 
 # Privacy Statement @ KidsCamps.com
 
