@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the rolanddga.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617074008id_/http%3A//www.rolanddga.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rolanddga.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213609id_/http%3A//www.rolanddga.com/company/privacy.asp) for the most accurate reproduction.*
 
-# Roland DGA
+# Privacy Statement - Roland DGA
 
 ## Our Commitment to Privacy
 
   * **Introduction.**
 
-> Roland DGA Corporation recognizes the importance of protecting the privacy of all information provided by users of www.rolanddga.com. We created the following policy guidelines with a fundamental respect for our users´ right to privacy and because we value our relationships with our users.  Your visit to this website is subject to this Online Privacy Policy and our [Terms and Conditions](https://web.archive.org/web/20110617074008id_/http%3A//www.rolanddga.com/terms/).
+> Roland DGA Corporation recognizes the importance of protecting the privacy of all information provided by users of www.rolanddga.com. We created the following policy guidelines with a fundamental respect for our users´ right to privacy and because we value our relationships with our users.  Your visit to this website is subject to this Online Privacy Policy and our [Terms and Conditions](https://web.archive.org/web/20111231213609id_/http%3A//www.rolanddga.com/terms/).
 
   * **Description**. 
 
@@ -14,7 +14,7 @@
 
   * **Limitations**. 
 
-> Please note that this Online Privacy Policy governs only information provided to Roland DGA online. It does not govern any other information or communications that relate to Roland DGA. If you visit other regional websites for Roland affiliates, or link to another website from this Site, you are subject to the privacy policy applicable for that website and we suggest that you consult such privacy policy. If you are a user from outside the United States (an “International User”), you are also subject to the applicable privacy policy of our affiliates that service your geographic location and we suggest that you consult such privacy policy.  For a list of our international affiliates, please check out the following link: [http://www.rolanddga.com/internationalPartners.asp](https://web.archive.org/web/20110617074008id_/http%3A//www.rolanddga.com/company/internationalPartners.asp)
+> Please note that this Online Privacy Policy governs only information provided to Roland DGA online. It does not govern any other information or communications that relate to Roland DGA. If you visit other regional websites for Roland affiliates, or link to another website from this Site, you are subject to the privacy policy applicable for that website and we suggest that you consult such privacy policy. If you are a user from outside the United States (an “International User”), you are also subject to the applicable privacy policy of our affiliates that service your geographic location and we suggest that you consult such privacy policy.  For a list of our international affiliates, please check out the following link: [http://www.rolanddga.com/internationalPartners.asp](https://web.archive.org/web/20111231213609id_/http%3A//www.rolanddga.com/company/internationalPartners.asp)
 
 
 
@@ -136,5 +136,3 @@
 
 
 
-
-[]()[]()[]()[]()
