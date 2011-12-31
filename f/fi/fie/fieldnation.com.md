@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fieldnation.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605063356id_/http%3A//www.fieldnation.com/tech_reg/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fieldnation.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211114id_/http%3A//www.fieldnation.com/tech_reg/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
