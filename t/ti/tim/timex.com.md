@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timex.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330000212id_/http%3A//www.timex.com/info/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timex.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203913id_/https%3A//www.timex.com/info/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
