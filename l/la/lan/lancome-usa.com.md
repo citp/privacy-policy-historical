@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lancome-usa.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521062302id_/http%3A//www.lancome-usa.com/Privacy/privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lancome-usa.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222323id_/http%3A//www.lancome-usa.com/Privacy/privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# Lancome Cosmetics and Skin Care Official Site: Make up, Skincare, Perfume, Sun & Body care
+# Privacy Policy - Lancome Policies On Information Collected From Website
 
 **Privacy Policy**
 
