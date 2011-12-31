@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ubersocial.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427055413id_/http%3A//ubersocial.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubersocial.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231161521id_/http%3A//ubersocial.com/privacy) for the most accurate reproduction.*
 
-# Privacy « UberSocial
+# Privacy UberSocial
 
 UberMedia is committed to protecting the privacy of your information. This Privacy Policy describes how we collect, store and use information from and about users of the website you are on now (the “Site”) and any services or software available or enabled via the Site (“Services”). This Privacy Policy is subject to the Universal Terms [link] posted on the Site. By using our Site or Services, you expressly consent to UberMedia’s collection, storage, use and disclosure of your information as described in this Privacy Policy. If you disagree with anything in this privacy policy, you may not use the Site or the Services.
 
