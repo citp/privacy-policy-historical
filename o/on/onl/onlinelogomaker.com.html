@@ -1,23 +1,56 @@
-<!--The following is the downloaded HTML source of the onlinelogomaker.com privacy policy that was archived on 2011-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110504103151id_/http%3A//www.onlinelogomaker.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onlinelogomaker.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231052509id_/http%3A//www.onlinelogomaker.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
   <base href="http://www.onlinelogomaker.com/">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
-  <meta name="keywords" content="joomla, Joomla">
+  <meta name="keywords" content="information, privacy, web, www.onlinelogomaker.com, policy, cookies, third-party, cookie, beacons, content, dart, log, advertising, visitors, access">
   <meta name="title" content="Privacy Policy - Online Logo Maker">
-  <meta name="author" content="Ricardo Lopes">
-  <meta name="description" content="Privacy Policy Privacy Policy At www. onlinelogomaker.">
+  <meta name="description" content=" Privacy Policy Privacy Policy At www. onlinelogomaker.">
   
   <title>Privacy Policy - Online Logo Maker</title>
-  <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link href="/templates/logomaker/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet" href="/components/com_jvotesystem/assets/css/comment.css" type="text/css">
+  <link rel="stylesheet" href="/components/com_jvotesystem/assets/css/general.css" type="text/css">
   <link rel="stylesheet" href="/plugins/system/modalizer/modals/lytebox/lytebox.css" type="text/css">
   <script type="text/javascript" src="/media/system/js/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="/components/com_jvotesystem/assets/js/comment_ajax.js"></script>
+  <script type="text/javascript" src="/components/com_jvotesystem/assets/js/ajax.js"></script>
+  <script type="text/javascript" src="/components/com_jvotesystem/assets/js/vote_ajax.js"></script>
+  <script type="text/javascript" src="/components/com_jvotesystem/assets/js/alert.js"></script>
+  <script type="text/javascript" src="/components/com_jvotesystem/assets/js/fade.js"></script>
   <script type="text/javascript" src="/plugins/system/modalizer/modals/lytebox/lytebox.js"></script>
   <script type="text/javascript">
-
+function resizeNewCommentVoteBox(t) {
+				a = t.value.split("\n");
+				  b=1;
+				  for (i=0; i < a.length; i++) {
+					if (a[i].length >= t.cols) b+= Math.floor(a[i].length/t.cols);
+				  }
+				  b+= a.length;
+				  t.rows = b-1;
+			}
+			var alreadyFocusedCommentsVoteBox = new Array();
+			function onFocusNewCommentVoteBox(t, id) {
+				if(alreadyFocusedCommentsVoteBox[id] == undefined || alreadyFocusedCommentsVoteBox[id] == false) {
+					t.value = "";
+					t.form.Submit.style.display = "block";
+					t.form.Reset.style.display = "block";
+					alreadyFocusedCommentsVoteBox[id] = true;
+				}
+			}
+			function resetNewCommentVoteBoxOnBlur(t, id) {
+				if(t.form.comment.value == "") resetNewCommentVoteBox(t, id);
+			}
+			function resetNewCommentVoteBox(t, id) {
+				t.form.comment.value = "Verfassen Sie einen neuen Kommentar!";
+				t.form.Submit.style.display = "none";
+				t.form.Reset.style.display = "none";
+				alreadyFocusedCommentsVoteBox[id] = false;
+				resizeNewCommentVoteBox(t.form.comment);
+			}
 			if (window.addEventListener) {
 				window.addEventListener("load",initLytebox,false);
 			} else if (window.attachEvent) {
@@ -33,96 +66,59 @@
   </script>
 
 
-<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css">
-<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css">
-<link rel="stylesheet" href="/templates/joomexpert/css/reset.css" type="text/css">
-<link rel="stylesheet" href="/templates/joomexpert/css/style.css" type="text/css">
+	<link rel="stylesheet" href="/templates/logomaker/css/template.css" type="text/css">
+	<link rel="stylesheet" href="/templates/logomaker/css/position.css" type="text/css" media="screen,projection">
+	<link rel="stylesheet" href="/templates/logomaker/css/layout.css" type="text/css" media="screen,projection">
+	<link rel="stylesheet" href="/templates/logomaker/css/print.css" type="text/css" media="Print">
+	<link rel="stylesheet" href="/templates/logomaker/css/general.css" type="text/css">
+		<!--[if lte IE 6]>
+		<link href="/templates/logomaker/css/ieonly.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+		<link href="/templates/logomaker/css/ie7only.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+	<script type="text/javascript" src="/templates/logomaker/javascript/md_stylechanger.js"></script>
+	<script type="text/javascript" src="/templates/logomaker/javascript/contact.js"></script>
+		
+		<!--JQuery -->
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.pack.js"></script>
+	<script type="text/javascript" src="/includes/js/jquery.popin.js"></script>
 
-<!--JQuery -->
-<script type="text/javascript" src="http://code.jquery.com/jquery-latest.pack.js"></script>
-<script type="text/javascript" src="/includes/js/jquery.popin.js"></script>
 
-</head>
+	<!-- Google +1 -->
+	<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+	
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+  
 
 <body>
 
-<div id="wrapper">
-
-<div id="head">
-<div id="logo">
-
-  <h1><a href="/">Online Logo Maker</a></h1>
-
-  <h2 class="slogan">Free Logo Maker - Free Logo Creator</h2>
-
-</div>
-</div>
-
-<div id="menu">
-    		<div class="moduletable">
-					<ul id="mainlevel-nav"><li><a href="/" class="mainlevel-nav">Home</a></li><li><a href="/premium" class="mainlevel-nav">Premium</a></li><li><a href="/index.php?Itemid=65&amp;option=com_account&amp;view=account" class="mainlevel-nav">My Account</a></li><li><a href="http://blog.onlinelogomaker.com" class="mainlevel-nav">Blog</a></li><li><a href="/tutorial" class="mainlevel-nav">Tutorial</a></li><li><a href="/free" class="mainlevel-nav">About</a></li><li><a href="/contact" class="mainlevel-nav">Contact</a></li><li><a href="/share" class="mainlevel-nav">Share</a></li></ul>		</div>
-	
-</div>
+<!-- Checking for the Content Locking Gateway Variable -->
 
 
-  <div class="content">
+	<div id="all">
+		<div id="header">
+			<div id="logo">
+            				<p><a href="http://www.onlinelogomaker.com/"><img src="http://www.onlinelogomaker.com/images/stories/logo_new.png" alt="Logo Maker" border="0"></a></p>
+            			</div>
+			
+			<ul id="mainlevel-nav"><li><a href="/" class="mainlevel-nav">Home</a></li><li><a href="/index.php?Itemid=65" class="mainlevel-nav">My Account</a></li><li><a href="http://blog.onlinelogomaker.com" class="mainlevel-nav">Blog</a></li><li><a href="/tutorial" class="mainlevel-nav">Tutorial</a></li><li><a href="/free" class="mainlevel-nav">About</a></li><li><a href="/contact" class="mainlevel-nav">Contact</a></li><li><a href="/share" class="mainlevel-nav">Share</a></li></ul>
 
-    <div class="contentleft roundedBox">
-
-      
-<table class="contentpaneopen">
-
-
-
-<tbody><tr>
-<td valign="top">
-<h2>Privacy Policy</h2>
-<p>At www.onlinelogomaker.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.onlinelogomaker.com and how it is used.</p>
-<p>Log Files Like many other Web sites, www.onlinelogomaker.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.</p>
-<p>Cookies and Web Beacons www.onlinelogomaker.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.</p>
-<p>DoubleClick DART Cookie .:: Google, as a third party vendor, uses cookies to serve ads on www.onlinelogomaker.com. .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.onlinelogomaker.com and other sites on the Internet. .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html</p>
-<p>Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .... Google Adsense</p>
-<p>These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.onlinelogomaker.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.</p>
-<p>www.onlinelogomaker.com has no access to or control over these cookies that are used by third-party advertisers.</p>
-<p>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.onlinelogomaker.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p>
-<p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.</p>
-<p>If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin AT onlinelogomaker.com.</p>
-
-</td>
-</tr>
-
-</tbody></table>
-<span class="article_separator">&nbsp;</span>
-
-
-<div class="corner topLeft"></div>
-
-      <div class="corner topRight"></div>
-
-      <div class="corner bottomLeft"></div>
-
-      <div class="corner bottomRight"></div>
-
-    </div>
-
-    <div class="contentright">
-
-      <div class="google roundedBox">
-
-        <div class="addthis">
-
-          <!-- AddThis Button BEGIN -->
-
-
-
-        </div>
-
-        <span class="clearit"></span>
-
-        <div align="center">
-
-          		<div class="moduletable">
-					<div class="bannergroup">
+						<div id="banner">
+				<h1 id="banner1">Free Logo Maker</h1>
+<h1 id="banner2">Free Logo Creator</h1>
+			</div>
+			            			
+		</div><!-- end header -->
+		
+		
+		<div id="contentarea">
+                        			<div id="left">
+				<div id="left-top"></div>
+				<div id="left-content">
+							<div class="moduletable">
+			<div class="bannergroup">
 
 <div class="banneritem"><script type="text/javascript"><!--
 google_ad_client = "pub-6603047705183566";
@@ -135,27 +131,118 @@ google_ad_height = 250;
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"> 
 </script>
 
-<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://www.onlinelogomaker.com" layout="button_count" colorscheme="dark"></fb:like><div class="clr"></div>
+
+<div id="fb-root"></div>
+  <script>
+    window.fbAsyncInit = function() {
+   FB.init({
+     appId      : '167698633322296', // App ID
+     channelURL : '//www.onlinelogomaker.com/channel.html', // Channel File
+     status     : true, // check login status
+     cookie     : true, // enable cookies to allow the server to access the session
+     xfbml      : true  // parse XFBML
+   });
+
+   // Additional initialization code here
+    };
+
+    // Load the SDK Asynchronously
+    (function(d){
+    var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+    js = d.createElement('script'); js.id = id; js.async = true;
+    js.src = "//connect.facebook.net/en_US/all.js";
+    d.getElementsByTagName('head')[0].appendChild(js);
+     }(document));
+  </script>
+
+<br>
+<br>
+
+<table style="width: 100%">
+<tbody><tr>
+<td width="15%">
+</td>
+<td align="center">
+
+<fb:like href="http://www.onlinelogomaker.com" layout="button_count" colorscheme="dark"></fb:like>
+
+</td>
+<td style="padding-top: 0px;" align="center">
+
+<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.onlinelogomaker.com/" data-text="Create your own logo!" data-count="horizontal" data-via="rlopes528">Tweet</a>
+
+</td>
+<td width="12%">
+</td>
+
+</tr>
+
+</tbody></table>
+
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script><div class="clr"></div>
 	</div>
 
 </div>		</div>
 	
+					
+										
+				</div>
+				<div id="left-bottom"></div>
+			</div><!-- left -->
+                        
+			<!--<a name="content"></a>-->
+			<div id="wrapper">
+			<div id="main">
+				
+				
+                                                                    
+                                    <div id="content-content">
+                                       <div id="content-top"></div>
+                                        
+                                        <div id="content-component">
+                                        	
+<div id="page">
 
-        </div>
 
-        <div class="corner topLeft"></div>
 
-        <div class="corner topRight"></div>
 
-        <div class="corner bottomLeft"></div>
 
-        <div class="corner bottomRight"></div>
 
-      </div>
+<p class="buttonheading">
+	</p>
 
-    </div>
 
-  </div><div id="footerlinks">		<div class="moduletable">
+
+
+
+<h2>Privacy Policy</h2>
+<p>At www.onlinelogomaker.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.onlinelogomaker.com and how it is used.</p>
+<p>Log Files Like many other Web sites, www.onlinelogomaker.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.</p>
+<p>Cookies and Web Beacons www.onlinelogomaker.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.</p>
+<p>DoubleClick DART Cookie .:: Google, as a third party vendor, uses cookies to serve ads on www.onlinelogomaker.com. .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.onlinelogomaker.com and other sites on the Internet. .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html</p>
+<p>Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .... Google Adsense</p>
+<p>These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.onlinelogomaker.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.</p>
+<p>www.onlinelogomaker.com has no access to or control over these cookies that are used by third-party advertisers.</p>
+<p>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.onlinelogomaker.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p>
+<p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.</p>
+<p>If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin AT onlinelogomaker.com.</p>
+
+
+</div>
+
+                                        </div>
+                                        
+										<div id="content-bottom"></div>
+                                    </div>
+				
+			</div><!-- end main or main2 -->
+
+			<div class="wrap"></div>
+			</div><!-- wrapper --> 
+		</div><!-- contentarea -->
+
+		<div id="footer">
+							<div id="menufooter">
 					
 <ul class="menu">
 	<li class="item63">
@@ -173,50 +260,64 @@ google_ad_height = 250;
 			<span>Privacy Policy</span>
 		</a>
 	</li>
-</ul>		</div>
-	</div>
+	<li class="item73">
+		<span class="separator">
+			<span>-</span>
+		</span>
+	</li>
+	<li class="item74">
+		<a href="http://www.onlineiconmaker.com/">
+			<span>Icon Maker</span>
+		</a>
+	</li>
+</ul><p>© Copyright 2011 Online Logo Maker. All Rights Reserved</p>
+				</div>
+								</div><!-- footer -->
+	</div><!-- all -->
 
-</div>
+	
 
 <script type="text/javascript">
-$("[href='/pay.html']").popin({
-    width: 435,
-    height: 587,
-    className: "mypopin2",
-    loaderImg: 'ajax-loader.gif',
-    opacity: .8
-});
 
-$("[href='/premium']").popin({
-    width: 435,
-    height: 587,
-    className: "mypopin2",
-    loaderImg: 'ajax-loader.gif',
-    opacity: .8
-});
+if($("[href='http://www.onlineiconmaker.com/']") != null)
+{
+	$("[href='http://www.onlineiconmaker.com/']").attr("target", "_blank");
+}
 </script>
 
-<script type="text/javascript">
 
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+<!-- Google Analytics -->
+	<script type="text/javascript">
 
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 
-<script type="text/javascript">
+		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
-    try {
+		<script type="text/javascript">
 
-    var pageTracker = _gat._getTracker("UA-10054249-1");
+		try {
 
-    pageTracker._setDomainName(".onlinelogomaker.com");
+		var pageTracker = _gat._getTracker("UA-10054249-1");
+		//var pageTracker = _gat._getTracker("UA-26487672-1");
 
-    pageTracker._trackPageview();
+		pageTracker._setDomainName(".onlinelogomaker.com");
 
-    } catch(err) {}</script>
+		pageTracker._trackPageview();
 
+		$(document).ready(function() {
+			if ($("#system-message").length > 0)
+			{
+				if ($("#system-message").html().indexOf("Registration Complete") != -1) {				
+					pageTracker._trackPageview('/G2/SignUp');
+				}
+			}
+		});
 
+		} catch(err) {}
+
+	</script>
 
 
 
