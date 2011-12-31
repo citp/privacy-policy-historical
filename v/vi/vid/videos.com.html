@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the videos.com privacy policy that was archived on 2011-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110514201454id_/http%3A//www.videos.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the videos.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231204306id_/http%3A//www.videos.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Videos.com ~ Privacy Policy</title>
-<link href="http://www.videos.com/templates/default/css/default-main.css" rel="stylesheet" type="text/css">
+<link href="/templates/default/css/default-main.css" rel="stylesheet" type="text/css">
 <link rel="search" type="application/opensearchdescription+xml" title="Videos.com ~ Free Videos, Online Videos, Video Search Engine" href="http://www.videos.com/opensearch.xml">
-<link rel="shortcut icon" href="http://www.videos.com/templates/default/images/favicon.ico">
+<link rel="shortcut icon" href="/templates/default/images/favicon.ico">
 </head>
 <body>
-<div id="login">
+<div style="margin: 0px; position: relative; overflow: hidden; height: 0px;"><div id="login" style="height: auto; margin: -285px 0px 0px;">
    <div class="content clearfix">
 	<div class="left">
 		<h1>Why register with Videos.com?</h1>
@@ -48,7 +48,7 @@
 	</form>
 	</div>
    </div>
-</div>
+</div></div>
 <div id="container">
    <div id="top"><!-- header -->
 	<div id="header_outer">
@@ -83,10 +83,10 @@
 <form action="http://www.videos.com/video" method="get" id="mainform" name="myform" onsubmit="return Validate(this)">
 <div id="searchsmall">
 <div id="farrow" class="form-left-arrow_small"></div>
-<div class="searchinput_small"><input type="text" class="sinput_small" name="search" id="searchtext" value="Type here to search videos..." maxlength="100"></div>
+<div class="searchinput_small"><input type="text" class="sinput_small yui-ac-input" name="search" id="searchtext" value="Type here to search videos..." maxlength="60" autocomplete="off"></div>
 <div class="searchbutton_small"><input type="submit" value="SEARCH" class="sbutton_small" id="SubmitButton"></div>
 </div><!--end searchsmall-->
-<div id="search_autocomplete"></div>
+<div id="search_autocomplete" class="yui-ac-container"><div class="yui-ac-content" style="display: none;"><div class="yui-ac-hd" style="display: none;"></div><div class="yui-ac-bd"><ul><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li></ul></div><div class="yui-ac-ft" style="display: none;"></div></div><iframe src="javascript:false;" frameborder="0" scrolling="no" tabindex="-1" title="Presentational iframe shim" style="position: absolute; width: 0px; height: 0px; padding: 0px;"></iframe></div>
 <div id="Soptions_small" style="display:none;">
 <div class="Shide"><a href="javascript:;" id="Shide">Close [X]</a></div>
 <div class="Soptiner_small"><h3>Filter by duration:</h3>
@@ -109,7 +109,7 @@
 </div>
 </div><!--End Soptions-->
 </form>
-<div class="filter_sm">Adult Filter: <a href="javascript:;" onclick="$('searchtext').focus()"><span id="filter">ON</span></a></div>
+<div class="filter_sm">Adult Filter: <a href="javascript:;" onclick="Filter_Set()"><span id="filter">ON</span></a></div>
 </div><!--end search-->
 
 <div class="contentsearch" id="holderph">
@@ -307,9 +307,20 @@ please feel free to contact us any time through this website.</p>
 </div>
 <div style="padding-top:40px"></div>
 <div id="footer">
-<span style="margin:20px;float:right;"><a href="http://www.videos.com/">Videos</a> · <a href="http://www.videos.com/categories.html">Browse</a> · <a href="http://www.videos.com/about.htm">About</a> · <a href="http://www.videos.com/privacy.htm" style="color:#666666">Privacy</a> · <a href="http://www.videos.com/terms.htm">Terms</a> · <a href="http://www.videos.com/contact.htm">Contact</a> · <a href="http://www.videos.com/suggest.htm">Suggest A Site</a> · <a href="javascript:;" onclick="window.external.AddSearchProvider('http://www.videos.com/opensearch.xml')">Install Our Video Search Plugin</a></span>
+<span style="margin:20px;float:right;"><a href="http://www.videos.com/">Videos</a> · <a href="http://www.videos.com/categories.html">Browse</a> · <a href="http://www.videos.com/video_chat.html">Video Chat</a> · <a href="http://www.videos.com/about.htm">About</a> · <a href="http://www.videos.com/privacy.htm" style="color:#666666">Privacy</a> · <a href="http://www.videos.com/terms.htm">Terms</a> · <a href="http://www.videos.com/contact.htm">Contact</a> · <a href="http://www.videos.com/suggest.htm">Suggest A Site</a> · <a href="http://www.videos.com/download.htm">Download Videos</a></span>
 <span style="margin:20px;float:left;">© Copyright 2011 Videos.com. All rights reserved.</span>
 </div>
-<script language="javascript" type="text/javascript" src="http://www.videos.com/templates/default/js/videos.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="/templates/default/js/videos.js"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-26598232-1']);
+_gaq.push(['_setDomainName', 'videos.com']);
+_gaq.push(['_trackPageview']);
+(function() {
+   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
 
 </div></body></html>
