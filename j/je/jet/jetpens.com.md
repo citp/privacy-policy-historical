@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jetpens.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516083548id_/http%3A//www.jetpens.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetpens.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215931id_/http%3A//www.jetpens.com/articles/Privacy_Notice) for the most accurate reproduction.*
 
-# JetPens - Japanese Pens and Stationery
+# Privacy Notice - JetPens.com
 
 We are dedicated to ensuring that your online shopping experience is secure and private. All of the credit card information we receive from our customers is transmitted and encrypted through SSL to our credit card processing gateway. Customer information is used for shipping, payment and contact purposes only. We do not sell, give away, or abuse the information we receive. Jet-Do would not approve of such things! 
 
@@ -13,13 +13,13 @@ The information we learn from customers helps us personalize and continually imp
 * Information You Give Us: We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you.  
 * Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses JetPens. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at JetPens if we cannot recognize you, we want you to be aware that these tools exist.  
 * E-mail Communications: To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from JetPens if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences.  
+* Newletters: We send newsletters to users who select to receive them. Should you at any point change your mind about receiving these communications, please select the unsubscribe link which is present at the bottom of each email we send to remove yourself from the list.  
 * Information from Other Sources: We might receive information about you from other sources and add it to our account information. 
 
 What About Cookies? 
 
 * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as storage of items in your Shopping Cart between visits.  
-* The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of JetPens's coolest features, and we recommend that you leave them turned on.  
-
+* The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of JetPens's coolest features, and we recommend that you leave them turned on.
 
 Does JetPens Share the Information It Receives? 
 
@@ -56,4 +56,4 @@ Conditions of Use, Notices, and Revisions
 
 If you choose to visit JetPens, your visit and any dispute over privacy is subject to this Notice, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at JetPens, please contact us with a thorough description, and we will try to resolve it. 
 
-Our business changes constantly, and our Privacy Notice will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+Our business changes constantly, and our Privacy Notice will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
