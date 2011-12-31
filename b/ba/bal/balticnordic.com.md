@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the balticnordic.com privacy policy that was archived on 2011-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110408104518id_/http%3A//www.balticnordic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balticnordic.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215618id_/http%3A//www.balticnordic.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
