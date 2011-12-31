@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the phila.gov privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621102248id_/http%3A//phila.gov/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phila.gov privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204930id_/http%3A//www.phila.gov/privacy/index.html) for the most accurate reproduction.*
 
 # PHILA.GOV | Welcome to the City of Philadelphia
 
-[**Notice of Privacy Practices**](https://web.archive.org/web/20110621102248id_/http%3A//phila.gov/pdfs/Phila.gov_Privacy_Statement.pdf)Click to download or print this document in an Adobe Portable Document Format (PDF) file.
+[**Notice of Privacy Practices**](https://web.archive.org/web/20111231204930id_/http%3A//www.phila.gov/pdfs/Phila.gov_Privacy_Statement.pdf)Click to download or print this document in an Adobe Portable Document Format (PDF) file.
 
-[**HIPAA Privacy Statement**](https://web.archive.org/web/20110621102248id_/http%3A//phila.gov/pdfs/HIPAA_Privacy_Statement.pdf) Click to download or print this document in an Adobe Portable Document Format (PDF) file.
+[**HIPAA Privacy Statement**](https://web.archive.org/web/20111231204930id_/http%3A//www.phila.gov/pdfs/HIPAA_Privacy_Statement.pdf) Click to download or print this document in an Adobe Portable Document Format (PDF) file.
 
 **City of Philadelphia  
 eGovernment and Health Information Privacy Statement**
