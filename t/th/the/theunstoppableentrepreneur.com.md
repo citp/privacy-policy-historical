@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theunstoppableentrepreneur.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507011538id_/http%3A//theunstoppableentrepreneur.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theunstoppableentrepreneur.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231115143id_/http%3A//theunstoppableentrepreneur.com/privacy.htm) for the most accurate reproduction.*
 
 # privacy policy
 
