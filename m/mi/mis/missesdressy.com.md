@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the missesdressy.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601225107id_/http%3A//www.missesdressy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missesdressy.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231234731id_/http%3A//www.missesdressy.com/privacy.html) for the most accurate reproduction.*
 
-# MissesDressy™ homecoming 2011 prom/evening gowns unique bridesmaid formal cocktail dresses wedding guest
+# Privacy Policy - MissesDressy.com
 
   
 
 
 ### Information Sharing: MissesDressy hates spam as much as you do!
 
-Information collected from our customers and visitors will never be sold or transferred to others for any purpose. The information you enter in forms on our website will be used solely to complete your order, and with your permission send you occasional newsletters about our new products and promotions.
+Information collected from our customers and visitors will never be sold or transferred to others for any purpose. The information you enter in forms on our website will be used to complete your order, and send you occasional newsletters about our new products and promotions.
 
-To complete your order, we'll need your name, address, and payment information. Your credit card information will never be stored on our computers. The credit card authorization process is instantaneous and your sensitive credit card information is immediately discarded in accordance with recently implemented e-commerce regulations. We ship items ourselves, so we won't share your shipping address won't be given to anyone. 
+To complete your order, we'll need your name, address, and payment information. Your credit card information will never be stored on our computers. The credit card authorization process is instantaneous and your sensitive credit card information is immediately discarded in accordance with recently implemented e-commerce regulations. We ship items ourselves, so we won't share your shipping address won't be given to anyone.
 
   
 
@@ -39,4 +39,4 @@ Our facility is off-limits to everyone except authorized employees. We have 24x7
 
 ### Questions?
 
-Please [contact us](http://www.missesdressy.com/contact_us.php) if you'd like more information. Thank you!
+Please [contact us](https://web.archive.org/contact_us.php) if you'd like more information. Thank you!
