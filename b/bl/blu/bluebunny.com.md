@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bluebunny.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507111507id_/http%3A//www.bluebunny.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebunny.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214129id_/http%3A//www.bluebunny.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Blue Bunny Privacy Policy
+# Blue Bunny Ice Cream Privacy Policy
 
 ## WWW.BLUEBUNNY.COM PRIVACY POLICY
 
@@ -38,4 +38,4 @@ Any material changes to these privacy terms and conditions will be posted on our
 
 ### PRIVACY POLICY EFFECTIVE DATE: 4/20/2007
 
-If you have any questions about this privacy statement or this website, please feel free to [contact us](https://web.archive.org/web/20110507111507id_/http%3A//www.bluebunny.com/About/ContactUs.aspx).
+If you have any questions about this privacy statement or this website, please feel free to [contact us](https://web.archive.org/web/20111231214129id_/http%3A//www.bluebunny.com/About/ContactUs.aspx).
