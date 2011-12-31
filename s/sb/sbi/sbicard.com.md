@@ -1,33 +1,98 @@
-> *The following text is extracted and transformed from the sbicard.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604035152id_/http%3A//www.sbicard.com/header_footer_pages/privacy_policy_0_121329.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbicard.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224612id_/http%3A//www.sbicard.com/header_footer_pages/privacy_policy_0_121329.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy|SBI Card | Make life simple
 
-SBI Cards and Payments Services Private Ltd ("SBICPSL") is sensitive to privacy issues on the Internet. We believe it is important that you know how we treat the information that we receive on the Internet and that information shared with us is safeguarded in accordance with the strictest standards of security and confidentiality both internally and externally. In general, you can visit our site on the World Wide Web without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses of visitors. 
+**1\. STATEMENT OF PRACTICE & POLICY:   
+**SBICPSL respects the privacy rights and interests of each person and will observe the following principles when processing sensitive / personal data: 
 
-This information is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. We usually use this information to measure the use of our site and to improve the content of our site. There are times, however, when we may need additional information from you, such as your name and address and [insert details]. Usually, the personal information we collect is used only by us to respond to your enquiry, process an order or allow you to access specific account information. Our policy is to collect only the minimum amount of personal information that is required to deliver a high quality of service to our customers on our products, services and other opportunities that we feel will be of relevance and value to you.
+(i) Data will be processed fairly and lawfully. 
 
-Occasionally, we may make the information, available to other external organizations whose products or services we think you may find interesting. Such disclosures will only be made with your consent and you will have the opportunity to limit access to such information. We may divulge information about our customers without consent where such disclosure is required to reputable reference sources or clearinghouse services for the purposes of credit reporting, verification and risk management. Please also refer to the terms and Condition on the SBI Card Application from. SBICPSL will try to ensure that these organizations conform to our privacy policies and we will require such external organizations to permit us to audit them for compliance with our standards of privacy.
+(ii) Data will be collected for specified and legitimate purposes and not processed further in ways incompatible with those purposes which have been duly explained, communicated to and consented by each person concerned. 
 
-However, SBICPSL is in no way responsible or liable for the content and privacy practices of these organization/s.
+(iii) Data will be relevant to and not excessive for the purposes for which they are collected and used. For example, data may be rendered anonymous when feasible and appropriate, depending on the nature of the data and the risks associated with the intended uses. 
 
-SBICPSL will not disclose your information other than as set out above unless acting under a good faith belief that such action is necessary to:
+(iv) Data will be kept only as long as it is necessary for the purposes for which it was collected and processed and in accordance with data storage requirements under various applicable local laws.
+
+(v) Data will be processed in having full regard to each person’s lawful l rights (as described in these Standards or as provided by appropriate law). 
+
+(vi) All appropriate technical, physical, and organizational measures will be taken to prevent unauthorized access, unlawful processing, and unauthorized or accidental loss, destruction, or damage to data.
+
+ **2\. SCOPE:  
+** The scope of this policy include the collecting, recording, organizing, storing, modifying, using, disclosing, or deleting Customer, Employee and Company related data. For details of such definitions reference is drawn to the Information Technology Act, 2000 read with all statutory amendments carried forth therewith ("Act")  including all other relevant Laws, Rules, Bye Laws or Standing orders  passed by competent authorities within India applicable to each the Company. This includes personal information that is collected in India from individuals located outside of India and then transferred outside of India. Any treatment of all such data including its collection, storage, usage, and be fully protected in accordance with this policy and Privacy Rules.
+
+2.1. Applicability  
+This policy applies to SBICPSL and  all its Employees, Officers, Directors, Advisors, Consultants other Personnel,  and all third party service providers who act on behalf of the Company and collect, process and use personal data, profile data, financial and other, within India and outside.
+
+2.2. Effective Date  
+This Policy has been issued on 10/24/11. It is effective from 10/24/11.
+
+ **3\. DEFINITIONS:  
+** Provider of Information: The individual who provides the information (i.e., the data subject). The Term "Person" is defined to mean and include natural persons as under stood under the applicable Indian laws.
+
+Personal information: Any information that relates to a natural person, which, either directly or indirectly, in combination with other information available or likely to be available with a body corporate, is capable of identifying such person.
+
+Sensitive Personal Data or Information of a person: means such personal information which consists of information relating to –
+
+(i) password; (ii) financial information such as Bank account or credit card or debit card or other payment instrument details ; (iii) physical, physiological and mental health condition; (iv) sexual orientation; (v) medical records and history; (vi) Biometric information; (vii) any detail relating to the above clauses as provided to body corporate for providing service; and  (viii) any of the information received under above clauses by body corporate for processing, stored or processed under lawful contract or otherwise.
+
+Public Information: Any information that is freely available or accessible in public domain or furnished under the Right to Information Act, 2005 or any other law for the time being in force shall not be regarded as sensitive personal data or information for the purposes of this Policy.
+
+Company or Body Corporate means the body corporates as defined in Section 43 A of the IT Act 2000 and for the purposes of this policy means and refers to SBICPSL. . 
+
+Password means a secret word or phrase or code or passphrase or secret key, or encryption or decryption keys that one uses to gain admittance or access to information. 
 
   
-1\. conform to legal requirements or comply with legal process
+**4\. REASONABLE SECURITY PRACTICES AND PROCEDURES  
+** SBICPSL will ensure Reasonable Security Practices and Procedures including but not limited to the following: 
 
-2\. protect and defend the rights or property of SBICPSL
+(1) Comprehensive documented information security programme and information security policies that contain managerial, technical, operational and physical security control measures that are commensurate with the information assets being protected with the nature of business are available
 
-3\. enforce the SBICPSL terms of service, or
+(2) In the event of an information security breach, SBICPSL or a competent and duly  authorized person having knowledge of and in possession of information relating to such security breach  shall be prepared to demonstrate, as and when called upon to do so by the regulatory agency created under the the applicable law, that the Company has taken all bonafide measures and have implemented security control measures in accordance with the SBICPSL  documented information security programme and information security policies together with standards and codes of best practices in letter and spirit.7
 
-4\. act to protect the interests of its members or others.
+(3) Such policies, standard or the codes of best practices have been certified or audited on a regular basis by entities by an  independent auditor.
 
-If you register with us on-line, we may use this information to provide you with custom information about our offering in support of your needs. 
+ **5\. RESPONSIBILITY & WIDE PUBLICITY:**   
+SBICPSL will publish the policy on its website in an endeavor to make accessible through this policy the statement of practices & policies governing:
 
-A technology called cookies may be used to provide you with tailored information. A cookie is a tiny element of data that a web site can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. You may set your browser to notify when you receive a cookie. At times we conduct on-line surveys to understand better, the needs and profile of our visitors.
+(i) Type of personal or sensitive personal data or information collected;
 
-When we conduct a survey, we will try to let you know how we will use the information, at the time that we collect it from you on the Internet. Children using our website:   
-Our website is directed at an audience over the age of 18. Children are, of course, welcome to visit our site. But if you are under the age of 18, you may not join our website, sign-up for any contest, or send us any personal information about you. 
+(ii) Purpose of collection and usage of such information
 
-If we determine that you are under age 18, we will delete any personal information that we have about you. The SBICPSL website may contain links to other sites such as SBICPSL's distributors and sales affiliates. 
+(iii) Disclosure of information including sensitive personal data or information as provided in rule for Disclosure of Information; and
 
-While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by other sites. Please be aware that advertisers or web sites that have links on our site may collect personally identifiable information about you. The information practices of those web sites are not covered by this privacy statement.
+(iv) Reasonable security practices and procedures as provided under rule for Reasonable Security Practices and Procedures
+
+  
+ **6.   CONSENT:  
+**The Company while collecting information from the Provider of Information, data, sensitive personal data and other financial information will ensure that, in addition to obtain consent: 
+
+(i) The Provider of Information understands the purpose for the collection; the intended recipients of the information; Contact details for agency collecting/retaining the information.
+
+(ii) The Provider of Information will also have an option not to provide or withdraw their consent. The company can decline goods/services for which info was sought.
+
+(iii) Prior permission from the person is required for disclosure to any third party (except as may be required to be disclosed by law).
+
+(iv) Providers will have access to review, correct or amend information provided.
+
+(v) Data may be transferred in line with the consent (i.e., provider knew purpose/intended recipients when giving information) in India or to any country so long as same level of data protection is provided.
+
+(vi) The consent obtained by the Company be of a nature and extent so as to fulfill the requirements of a lawful contract between the Provider of Information and the Company.  
+
+(vii) If access or rectification is denied, the reason for the denial will be communicated and a written record will be made of the request and reason for denial. In this case the person affected may make use of the dispute resolution processes described in law. 
+
+(viii) If the person demonstrates that the purpose for which the data is being processed is no longer legal or appropriate, the data will be deleted, unless the law requires otherwise.
+
+  
+ **7.   Common Obligations:  
+**7.1 This Policy includes an obligation to provide actual notice to individuals when personal information is collected. SBICPSL will establish and make this privacy policy available to all persons. SBICPSL will also grant the persons   the right to access and correct personal information. In addition, SBICPSL is committed to secure information and establish a dispute resolution process that applies to the collection and use of all personal information.
+
+7.2 Collection and Use of Sensitive Data:  
+In addition to the general obligations, there are obligations specific to the collection, use, and disclosure of sensitive personal data. Sensitive personal data is broadly defined to include password; financial information (bank account, credit/debit card, or other payment instrument details); physical, physiological, and mental health conditions; sexual orientation; medical records and history; and biometric information. Any information that is freely available or accessible in the public domain or furnished under the Right to Information Act, 2005, is excepted from the definition.
+
+Notwithstanding anything in Section 5 and 6 above, any sensitive personal data on Information shall be disclosed to any third party by an order under the law for the time being in force.
+
+7.3 Disputes:  
+Any discrepancies or grievances will be addressed in a timely manner by the Company. A Grievance Officer and such other personnel designated to assist that grievance officer shall be designated, and his or her name and contact details are at all-time be published on the company’s website. The Grievance Officer is singularly responsible for and accordingly redresses the grievances expeditiously (but within one month from the date of receipt of the grievance).
+
+ **8\. AUDIT PROCEDURES:  
+** To further ensure enforcement of these Standards, Privacy Leader in consultation with the appropriate Legal Counsel, Regulatory Officer and Compliance officer will identify Provider and Employment Data procedures that should be audited on periodic basis.
