@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeonsmash.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624215241id_/http%3A//www.freeonsmash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonsmash.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214133id_/http%3A//www.freeonsmash.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OnSMASH
 
@@ -66,11 +66,8 @@ By using our site, you consent to our web site privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on January 7, 2011
-
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us here
+If there are any questions regarding this privacy policy you may contact us at [Legal@Freeonsmash.com](mailto:Legal@freeonsmash.com)
 
-Email:  
-
+_Last Updated: January 7, 2011_
