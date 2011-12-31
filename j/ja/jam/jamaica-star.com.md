@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jamaica-star.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623122416id_/http%3A//www.jamaica-star.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamaica-star.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210258id_/http%3A//www.jamaica-star.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Jamaica Star
+# Privicy Policy- Jamaica Star
 
 **Third Party Advertising**  
 We use Google, Burstmedia, Kontera, ValueClickMedia, Amazon, Share A Sale, Advertising.com, Tribal Fusion, AdvertisingZ, Creafi.com and other third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this web site in order to provide advertisements on this site about goods and services that may be of interest to you. 
