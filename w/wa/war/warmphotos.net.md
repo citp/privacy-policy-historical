@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the warmphotos.net privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630082546id_/http%3A//www.warmphotos.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warmphotos.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231154037id_/http%3A//www.warmphotos.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Warm Photos
+# Privacy Policy | Warm Photos
 
 Warm Photos has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
