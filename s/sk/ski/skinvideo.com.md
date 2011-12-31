@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinvideo.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510053652id_/http%3A//www.skinvideo.com/privacy.gsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinvideo.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112246id_/http%3A//www.skinvideo.com/privacy.gsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,6 +16,10 @@ Cookies are small text files that are stored in your web browser. The use of coo
 
 We may provide aggregate data regarding site usage to our third party partners. We will also disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority or to prevent harm to yourself or others. In addition, we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which SkinVideo participates or to a purchaser of all or substantially all of SkinVideo's assets. Such successor entity shall be bound by the terms and conditions of this privacy policy. 
 
+### Harassment
+
+If you harass or publish private information on our site about the models on our site (whether appearing in previously recorded videos or live chat rooms), your IP address may be provided to the model to assist in identifying you and ending the harassment. 
+
 ### Links to Third Party Sites
 
 SkinVideo may be linked to other web sites on the Internet which are not under the control of or maintained by SkinVideo. Such links do not constitute an endorsement by SkinVideo of those other web sites, the content displayed therein, or the persons or entities associated therewith. You acknowledge that SkinVideo is providing these links to you only as a convenience, and you agree that SkinVideo is not responsible for the content of such sites. Your use of these other linked web sites is subject to the respective terms of use and privacy policies located on the linked sites. 
@@ -32,4 +36,4 @@ If you wish to update your personally identifiable information please contact Sk
 
 SkinVideo reserves the right to change this privacy policy, and will post any revisions on its website located at www.skinvideo.com. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of this web site will be subject to the then-current privacy policy. 
 
-If you have questions or comments regarding SkinVideo's privacy practices you can contact us at: SVG Technology, Inc., 50 California St., Suite 1601, San Francisco, CA 94111 or admin@skinvideo.com. We will be sure to address your concerns. 
+If you have questions or comments regarding SkinVideo's privacy practices you can contact us at: SVG Technology, Inc., 548 Market Street #90461, San Francisco, CA 94104 or admin@skinvideo.com. We will be sure to address your concerns. 
