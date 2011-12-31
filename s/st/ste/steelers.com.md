@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steelers.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613181843id_/http%3A//www.steelers.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelers.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214033id_/http%3A//www.steelers.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Pittsburgh Steelers | Privacy Policy
 
