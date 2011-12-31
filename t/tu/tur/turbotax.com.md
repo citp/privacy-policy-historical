@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the turbotax.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620084632id_/http%3A//turbotax.intuit.com/corp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbotax.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231065439id_/http%3A//turbotax.intuit.com/corp/privacy.jsp) for the most accurate reproduction.*
 
 # Intuit Consumer Group Privacy Policy
 
 Privacy Statement Highlights 
 
-## Intuit Consumer Group Privacy Statement Highlights
+## Intuit Consumer Group Inc. ("Intuit") Privacy Statement Highlights
 
 At Intuit, we value our relationship with you and place the highest importance on respecting and protecting your privacy. We want you to feel comfortable and confident when using our products and services and with entrusting your personal, company and financial information to us.
 
@@ -32,7 +32,7 @@ More details on the information we collect can be found [here](https://web.archi
 ## Uses:
 
   * We do not sell or rent your personal information to anyone for promotional or marketing purposes.
-  * We do not share your personal information with anyone outside of Intuit for their promotional or marketing use without your consent.
+  * We do not share your personal information with anyone outside of Intuit or its affiliates for their promotional or marketing use without your consent.
   * We use your personal or financial information to provide you with information and services you request, to give you a customized interactive experience as you use our products, and to tell you about other products and services.
   * We summarize information about you and we also combine that information with that of others in a way that does not identify you personally to understand how our products are used, to deliver products and services and to help us develop new products and services.
   * We may use service companies to help provide you products and services who are not allowed to use your information for their own purposes.
@@ -49,7 +49,7 @@ Contact us with your question at <https://privacy.intuit.com/cpi/do/comments>.
 
   * Or write to us at:  
 **Privacy Team  
-Intuit Inc.   
+Intuit Consumer Group Inc.   
 2800 East Commerce Center Place  
 Tucson, AZ 85706**
 
