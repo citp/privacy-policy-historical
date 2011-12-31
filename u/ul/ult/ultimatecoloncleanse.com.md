@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatecoloncleanse.com privacy policy that was archived on 2011-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110403043508id_/http%3A//www.ultimatecoloncleanse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatecoloncleanse.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231100346id_/http%3A//www.ultimatecoloncleanse.com/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy : Colon Cleansing Products : Best Colon Cleanser : Ultimate Cleanse : UltimateColonCleanse.com
 
@@ -93,10 +93,10 @@ QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS
 
 You may direct questions, comments or reports to:
 
-Organica Research LLC  
-22100 East 26th Ave. #100  
-Aurora, CO 80019  
-USA
+Ultimate Lifespan LLC  
+2710 Thomas Ave.  
+Suite 864  
+Cheyenne, WY 82001
 
 REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE
 
@@ -119,10 +119,10 @@ JURISDICTION AND VENUE
 
 If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified.
 
-Organica Research LLC  
-22100 East 26th Ave. #100  
-Aurora, CO 80019  
-USA
+Ultimate Lifespan LLC  
+2710 Thomas Ave.  
+Suite 864  
+Cheyenne, WY 82001
 
   
 In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
