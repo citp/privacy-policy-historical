@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makefriendsonline.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605170727id_/http%3A//www.makefriendsonline.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makefriendsonline.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231220456id_/http%3A//www.makefriendsonline.com/privacy.cfm) for the most accurate reproduction.*
 
 # Makefriendsonline.com - Privacy
 
@@ -63,7 +63,7 @@ You can access, change or update all your personal information online by logging
 It is a good practice to refrain from disclosing your email address or any other personal information in chat rooms, public forums or any other place unless this is properly protected. Information disclosed may be used by other persons for any purpose, including spamming. 
 
 **10\. Payment Security **  
-All credit card numbers are secured as we use a third party, Realex Payments United Kingdom, to process your payment. No credit card details are stored on our servers. 
+All credit card numbers are secured as we use a third party, PayPoint.net United Kingdom, to process your payment. No credit card details are stored on our servers. 
 
 **11\. Choice/Opt out **  
 SkyStem Ltd regularly sends emails to its members in order to inform them of new services, improvements, etc. Our members can opt out of receiving communications from us by permanently unsubscribing from their membership. To do this you can send an email to support@makefriendsonline.com 
