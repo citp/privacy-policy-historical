@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schmap.it privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513165852id_/http%3A//www.schmap.it/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schmap.it privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222051id_/http%3A//schmap.it/privacy) for the most accurate reproduction.*
 
 # Schmaps & Schnaps - privacy policy
 
