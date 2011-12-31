@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the saatchionline.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518194432id_/http%3A//www.saatchionline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saatchionline.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231020516id_/http%3A//www.saatchionline.com/privacy) for the most accurate reproduction.*
 
-# Saatchi Online : Privacy Policy
+# Privacy Policy | Saatchi Online
 
-Effective Date: **_February 14, 2011_**
+Effective Date: **_August 1, 2011_**
 
 Saatchi Online (" ** _Saatchi Online,_** " " ** _we_** " or " ** _our_** ") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.saatchionline.com (the " ** _Site_** "). Saatchi Online makes available through the Site an online service for selling and purchasing original works of art and commercially exploiting digital images of works of art (the " ** _Services_** "). This Privacy Policy applies only to information that you provide to us through the Site and Services.
 
@@ -16,7 +16,7 @@ As used in this policy, the terms "using" and "processing" information include u
   * We may also request that you provide certain information, such as your zip code and personal preferences, which is typically considered " ** _Non-Identifying Information_** _"_ because it cannot, by itself, be used to contact or identify you.
   * We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) primarily to provide and improve the Services, to complete your transactions and respond to your inquiries.
   * Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But, the same items of information are considered Non-Identifying Information when they are taken alone or combined only with other non-Identifying information (for example, your age). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Saatchi Online users to attempt to provide you with a better experience, to improve the quality and value of the Site and Services and to analyze and understand how our Site and Services are used.
-  * We also use your Personal Information to contact you with Saatchi Online newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or via the "Settings" section of the Site. (See " **Changing or Deleting Information,** " below.)
+  * We also use your Personal Information to contact you with Saatchi Online newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or via the "Account" section of the Site. (See " **Changing or Deleting Information,** " below.)
 
 
 
@@ -37,6 +37,8 @@ If you purchase a work or other item or list a work for sale via the Site, we re
 **Information Sharing and Disclosure**
 
 _Saatchi Online Members._ When you register for the Site and create an Account, your Personal Information (including, but not limited to, your name) will be publicly viewable via the Site. We recommend that you guard your sensitive information and we encourage you to think carefully about what information you post via the Site. If you choose to purchase Original Works of Art via the Site and Services, we will share your name and postal address with the Member who listed the work for sale on the Site to enable that Member to ship the purchased work directly to you.
+
+_Saatchi Online Forums._ If you choose to participate in the Saatchi Online forums via the Site, the content of any comments or information you post in such forums will be publicly available via the Site, together with your profile picture, your name, and a link to your profile on the Site. Participating in the Saatchi Online forums is voluntary and should correlate with the degree of interaction you want to have with other Saatchi Online Users.
 
 _Facebook Connect_. Our Site allows users to create an account and login to the Site using their Facebook account credentials through Facebook Connect. Creating an account for the first time through Facebook Connect will prompt users to merge their Saatchi Online and Facebook accounts. By using Facebook Connect, you are allowing Saatchi Online to access your Facebook account information and you are agreeing to the Facebook Terms of Use in your use of the Site via Facebook. If you are not currently registered as a Saatchi Online Member and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join Saatchi Online. We allow Members to automatically post recent activity back to Facebook, and give them the option to disable Facebook Connect at any time by accessing your Facebook account and disconnecting access to the Site.
 
