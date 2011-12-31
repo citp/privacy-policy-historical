@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnyordie.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623182125id_/http%3A//www.funnyordie.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnyordie.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231020922id_/http%3A//www.funnyordie.com/about/privacy) for the most accurate reproduction.*
 
 # Funny or Die Privacy Notice
 
@@ -80,7 +80,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 Funny or Die uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Funny or Die and you do so at your own risk. Once we receive your transmission of information, Funny or Die makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-If Funny or Die learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Funny or Die may post a notice on the Funny or Die Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this [contact form](https://web.archive.org/contact_us).
+If Funny or Die learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Funny or Die may post a notice on the Funny or Die Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this Contact Form.
 
 ## Our Commitment To Childrens' Privacy
 
@@ -106,4 +106,4 @@ This Privacy Notice was last modified April 11, 2007.
 **Contact Information:**  
 Please contact Funny or Die with any questions or comments about this Privacy Notice at [privacy@funnyordie.com](mailto:privacy@funnyordie.com).
 
-Copyright © 2011 June Funny or Die Inc. All rights reserved. 
+Copyright © 2011 Funny or Die Inc. All rights reserved. 
