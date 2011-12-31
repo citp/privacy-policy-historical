@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunnyislesmiamirealestate.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425232325id_/http%3A//www.sunnyislesmiamirealestate.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnyislesmiamirealestate.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231113523id_/http%3A//www.sunnyislesmiamirealestate.com/Privacy.htm) for the most accurate reproduction.*
 
 # Sunny Realty Privacy Statement
 
@@ -35,12 +35,12 @@ www.SunnyRealty.com contain links to other websites that are not operated by Sun
 
 **Contact Sunny Realty**
 
-Sunny Realty is the sole operator of the electronic web pages known as www.SunnyRealty.com or www.Sunny-Realty.com or www.SunnyRealtyFL.com or www.SunnyIslesMiamiRealEstate.com and are © Copyright 2003-2010 by Sunny Realty. All rights reserved. If you would like to contact us for any reason regarding our privacy practices, please call, write, or email us at the following address: 
+Sunny Realty is the sole operator of the electronic web pages known as www.SunnyRealty.com or www.Sunny-Realty.com or www.SunnyRealtyFL.com or www.SunnyIslesMiamiRealEstate.com and are © Copyright 2003-2012 by Sunny Realty. All rights reserved. If you would like to contact us for any reason regarding our privacy practices, please call, write, or email us at the following address: 
 
 **Mailing Address:**   
 Sunny Realty  
-101 Washington Ave, #C3  
-Miami Beach, FL 33139
+3873 N.E. 163rd Street  
+North Miami Beach, FL 33160
 
 **Toll Free:** 1-877-368-2318  
 **Customer Care:** 1-954-336-1016  
@@ -48,4 +48,4 @@ Miami Beach, FL 33139
 
 **General Feedback:** [ info@SunnyRealty.com](mailto:info@SunnyRealty.com)
 
-Effective Date: 4/25/2011 
+Effective Date: 12/31/2011 
