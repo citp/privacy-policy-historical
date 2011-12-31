@@ -1,30 +1,33 @@
-<!--The following is the downloaded HTML source of the alibris.co.uk privacy policy that was archived on 2011-01-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110129021855id_/http%3A//www.alibris.co.uk/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alibris.co.uk privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231214021id_/http%3A//www.alibris.co.uk/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+		
+			<script type="text/javascript">var Mobify={};(function(c,e){Mobify.configure=function(a){Mobify.config=a};Mobify.snippet=function(a){if(Mobify.config){if(a=="head start"){var b=c.cookie,d=/mobify=(.)/.exec(b);if(d?!!+d[1]:/(ip(hone|od|ad))|(android)|(blackberry.*applewebkit)/i.test(navigator.userAgent)){if(b=/mobify-path=(.*?)(;|$)/i.exec(b))Mobify.config.path="//safe.mobifyapp.com/?s="+encodeURIComponent(b[1])}else{Mobify.config=e;return}}switch(a){case "head start":case "body start":case "style end":c.write('<style type="text/mobify" media="mobify">');break;case "body end":c.write('\x3Cscript type="text/javascript" src="'+Mobify.config.path+'mobify.js">\x3C\/script>')}}}})(document);Mobify.configure({path: '//d3tx18vam4pzc8.cloudfront.net/alibris/'});Mobify.snippet('head start');</script>
+		
 	
-		<script type="text/javascript">var Mobify = [];if (/mobify=1/.test(document.cookie)||((/(ip(hone|od|ad))|(android)|(blackberry.*applewebkit)/i.test(navigator.userAgent))&&!/mobify=0/.test(document.cookie))){document.write('\x3Cscript type="text/javascript" src="'+location.protocol+'//d3tx18vam4pzc8.cloudfront.net/alibris.js">\x3C/script>');}</script>
-	
-	
-
-
-	<link rel="canonical" href="http://www.alibris.com/policies/privacy">
 
 
 
+
+
+	<link rel="canonical" href="http://www.alibris.co.uk/policies/privacy">
 
 
 
 
 
 
-<link rel="stylesheet" type="text/css" href="http://www0.alibris-static.com/css/en_GB/main6.50.001-hot04.css">
+
+
+
+<link rel="stylesheet" type="text/css" href="http://www4.alibris-static.com/css/en_GB/main7.65.012.css">
 
 
 
 
-<script src="http://www3.alibris-static.com/framework/skins/alibris/js/jquery-1.4.3.min.6.50.001-hot04.js"></script>
-<script src="http://www4.alibris-static.com/framework/skins/alibris/js/jquery-ui-1.8.6.min.6.50.001-hot04.js"></script>
+<script src="http://www3.alibris-static.com/framework/skins/alibris/js/jquery-1.4.3.min.7.65.012.js"></script>
+<script src="http://www4.alibris-static.com/framework/skins/alibris/js/jquery-ui-1.8.6.min.7.65.012.js"></script>
 
 <link rel="stylesheet" type="text/css" href="http://www2.alibris-static.com/css/promos.css">
 
@@ -52,6 +55,13 @@
 
 
 
+
+
+
+
+
+
+
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
       <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
       
@@ -60,7 +70,34 @@
       <meta name="y_key" content="3c9faaf9851614e3">
       <meta name="msvalidate.01" content="FFEFF96241A34BA5AA3D4773D99A9192">
       
+	  
+		
+		
+	  
+
+		
+		
+		
+		
+		
+		
+			<noscript></style></noscript>
+		
+		
+		
+			<script type="text/javascript" src="//use.typekit.com/sbl4zmf.js"></script>
+			<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+		
+		
 	</head>
+
+
+
+
+
+
+
+
 
 
 
@@ -73,7 +110,7 @@
 
 <body class="bea-portal-body">
 
-	<script type="text/javascript">Mobify.push("head");</script>
+	<script type="text/javascript">Mobify.snippet('body start');</script>
 
 <div class="bea-portal-body-content" id="bea-portal-body-content">
 
@@ -107,6 +144,25 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="http://www2.alibris-static.com/css/en_GB/jquery-ui7.65.012.css">
+
+
+	<script src="http://www3.alibris-static.com/framework/skins/alibris/js/complete.7.65.012.js"></script>
+
+
+	<script type="text/javascript">Mobify.snippet('style end');</script>
+
+
 <script type="text/javascript">
 <!--
 	var changeCurrencyUrl;
@@ -121,15 +177,54 @@
 			remote.opener = window;
 		}
 	}
-	
+
 	function setNewCurrency(currencyCode) {
 		document.location.href = changeCurrencyUrl + "&currencyCode=" + currencyCode;
 	}
 	
 	function updateCartQuantityText(newValue)
 	{
-		document.getElementById("cart-items-text").innerHTML = newValue;
+		$('#cart-items-text').empty().append('<div>'+ newValue + '</div>');
 	}
+
+
+	function selectMtype(mtype) {
+		var mtypeMenu = document.getElementById("mtypeMenu");
+		for (i = 0; i < mtypeMenu.length; i++) {
+			if (mtypeMenu[i].value == mtype) {
+				mtypeMenu.selectedIndex = i;
+			}
+		}
+		setMtype(mtype);
+	}
+
+	function horizMtype(sel) {
+		return setMtype(sel.options[sel.selectedIndex].value);
+	}
+
+	function setMtype(mtype) {
+		var searchBox = document.getElementById("searchBox");
+		var emptySearchBox = (searchBox.value == '' || searchBox.value == initTxt);
+		var searchHorizLink = document.getElementById("searchHorizLink");
+		mtype = mtype.substring(0, 1);
+		if (mtype == "B") { document.searchHorizForm.action = "/booksearch"; searchHorizLink.href = "/booksearch?cm_sp=search-_-advSearch-_-na"; initTxt = "Enter title, author, or ISBN"; }
+		else if (mtype == "E") { document.searchHorizForm.action = "/ebooksearch"; searchHorizLink.href = "/ebooksearch?cm_sp=search-_-advSearch-_-na"; initTxt = "Enter title, author, or ISBN"; }
+		else if (mtype == "R") { document.searchHorizForm.action = "/rentalsearch"; searchHorizLink.href = "/rentalsearch?cm_sp=search-_-advSearch-_-na"; initTxt = "Enter title, author, or ISBN"; }
+		else if (mtype == "V") { document.searchHorizForm.action = "/moviesearch"; searchHorizLink.href = "/moviesearch?cm_sp=search-_-advSearch-_-na"; initTxt = "Enter title, actor, or director"; }
+		else if (mtype == "M") { document.searchHorizForm.action = "/musicsearch"; searchHorizLink.href = "/musicsearch?cm_sp=search-_-advSearch-_-na"; initTxt = "Enter title or artist/composer"; }
+		else if (mtype == "C") { document.searchHorizForm.action = "/classicalsearch"; searchHorizLink.href = "/classicalsearch?cm_sp=search-_-advSearch-_-na"; initTxt = "Enter title or artist/composer"; }
+		
+		if (emptySearchBox) { searchBox.value = initTxt; }
+		return true;
+	}	
+
+	function clearDefaults() {
+		var searchBox = document.getElementById("searchBox");
+		if(searchBox.value == initTxt) {
+			searchBox.value = "";
+		}
+	}
+	
 -->
 </script>
 
@@ -155,73 +250,417 @@
 
 
 
-	
-	
-		<div id="wrapper">
-		  <div id="header">
-		    
-		    
-		    <h2>
-		    <a href="/">
-		    
-		    
-		    <img src="http://www2.alibris-static.com/images/nav/alibris-logo.gif" alt="Alibris - Happy Holidays" width="176" height="70" align="middle" class="logo" border="0"></a>
-		     </h2>
-		    <div id="user_navigation">
-		    <div>
-		   	
-		    
-		      <p class="acct_links">
-		      
-					
-				     	<a href="/account">Your account</a>
-					
-					
-			  
 
-		     &nbsp;|&nbsp;
-		     <a href="/wishlist"><strong>Wishlist</strong></a>
-		     &nbsp;|&nbsp;
-			 <a href="/help/home"><strong>Help</strong></a>
-			 
-				&nbsp;|&nbsp;
-				
-				<a href="/account?login=true"><img src="http://www2.alibris-static.com/images/nav/btn-login.gif" alt="Login" width="56" height="17" border="0" align="absmiddle"></a>
-			 
-			 </p>
-			  </div>
-			  <div>
-		      <p class="cart_links">
-		      	
-		      	<span id="cart-items-text">
-		      	<a href="/cart">0 items in your basket</a>
-		      	</span>
-		      	<a href="/cart">
-			      	
-				      	
-				      	
-				      		
-				      		<img src="http://www0.alibris-static.com/images/checkCart/cart-off.gif" alt="Shopping Basket" width="27" height="20" border="0" align="absmiddle">
-				      	
-			      	
-		      	</a>
-				
+	
+	
+	   	
+<div class="bea-portal-book-primary">	
+<!-- new header -->
+<link rel="stylesheet" type="text/css" href="/css/header-new.css">
+<div id="alibris-header-new">
+
+<div class="logo">
+	
+	<a href="/">
+	<img src="http://www2.alibris-static.com/images/nav/alibris-logo.gif" class="logo" alt="Alibris" width="134" border="0" height="64"></a>
+</div>
+
+<div class="other-sites">
+	<ul>
+    	<li>Visit our other sites:</li>
+
+    	<li><a href="http://www.alibris.com">Alibris Retail</a></li>
+    	<li><a href="http://library.alibris.com">Alibris for Libraries </a></li>  
 		    	
-		      	</p>
-		      	</div>
-		    </div>
-		    <div id="targeted_links">
-		      <ul>
-		        <li>
-		        <a href="http://library.alibris.com">Alibris for Libraries </a></li>
-				
-		        <li><a href="/sellers">Sell at Alibris</a></li>
-		      </ul>
-		    </div>
+    	<li><a href="/sellers">Sell at Alibris</a></li>     
+    </ul>
+</div>
+
+	  
+
+<div class="utility-nav">
+	<ul>
+    	<li class="first">
+		  
+			
+		     	<a href="/account">Your account</a>
+			
+			
+		      		
+    	</li>
+    	<li><a href="/wishlist">Wishlist</a></li>
+    	<li><a href="/help/home">Help</a></li>     
+    	
+		      	  	     
+    </ul>
+    
+	
+	<div class="cart">
+	    <a id="cart-items-text" href="/cart">
+	    	<div>0</div>
+	    </a>
+    </div>
+	
+    
+</div>
+
+
+<div class="primary-nav">
+    <ul>
+	
+		<li class="first">
+			<a class="on" href="/?cm_sp=navShop-_-na-_-na">
+				SHOP BY CATEGORY
+			</a>
+		</li>
+	
+		<li class="">
+			<a class="" href="/books/books-bargains?cm_sp=navSales-_-na-_-na">
+				SALES &amp; DEALS
+			</a>
+		</li>
+	
+		<li class="">
+			<a class="" href="/book-gifts-and-more?cm_sp=navGifts-_-na-_-na">
+				GIFT IDEAS
+			</a>
+		</li>
+	
+		<li class="">
+			<a class="" href="/community?cm_sp=navCommunity-_-na-_-na">
+				COMMUNITY
+			</a>
+		</li>
+	
+    </ul>
+</div>
+
+<!-- secondary nav -->
+<div class="secondary-nav">
+	
+<ul id="menu" class="clearfix">
+
+	
+	
+	
+	<li class="nav-item  ">
+		<a href="/books" class="drop ">
+			Books
+		</a>
 		
-		    <div class="clear"></div>
-		  </div>
+		
+			
+<!-- Begin columns container -->
+			<div class="dropdown_3columns"> 
+			
+			<div class="col_1 first">
+			<ul class="clearfix">
+				<li><a href="/books/new-books-of-note?cm_sp=navShop-_-books-_-newofnote">New Books of Note</a></li>
+				<li><a href="/books/at-the-movies?cm_sp=navShop-_-books-_-atthemovies">At the Movies</a></li>
+				<li><a href="/books/books-on-books?cm_sp=navShop-_-books-_-booksonbooks">Books on Books</a></li>
+				<li><a href="/books/audiobooks?cm_sp=navShop-_-books-_-audiobooks">Audiobooks</a></li>
+				<li><a href="/books/textbooks?cm_sp=navShop-_-books-_-textbooks">Textbooks</a></li>
+				<li><a href="/books/rare-collectible?cm_sp=navShop-_-books-_-ooprare">Out-of-Print &amp; Rare Books</a></li>
+				<li><a href="/books/top-selling-authors?cm_sp=navShop-_-books-_-authors">Top-Selling Authors</a></li>
+			</ul> 
+			<a href="/find-a-seller?cm_sp=navShop-_-books-_-findaseller" class="find-a-seller">Find a Seller</a>
+			</div>
+			
+			<div class="col_1 border">
+			<ul class="clearfix">
+				<li><a href="/search/books/subject/Architecture?cm_sp=navShop-_-books-_-architecture">Architecture</a></li>
+				<li><a href="/search/books/subject/Art?cm_sp=navShop-_-books-_-art">Art</a></li>
+				<li><a href="/search/books/subject/Biography Autobiography?cm_sp=navShop-_-books-_-biography">Biography &amp; Memoir</a></li>
+				<li><a href="/search/books/subject/Body Mind Spirit?cm_sp=navShop-_-books-_-bodymindspirit">Body, Mind, &amp; Spirit</a></li>
+				<li><a href="/search/books/subject/Business?cm_sp=navShop-_-books-_-business">Business &amp; Finance</a></li>
+				<li><a href="/search/books/subject/Children%27s Fiction?cm_sp=navShop-_-books-_-childrens">Children's Books</a></li>
+				<li><a href="/search/books/subject/Computers?cm_sp=navShop-_-books-_-compluters">Computers</a></li>
+				<li><a href="/search/books/subject/cooking?cm_sp=navShop-_-books-_-cooking">Cooking &amp; Cookbooks</a></li>
+				<li><a href="/search/books/subject/Family Relationships?cm_sp=navShop-_-books-_-family">Family &amp; Relationships</a></li>	
+				<li><a href="/search/books/subject/Fiction?cm_sp=navShop-_-books-_-fiction">Fiction &amp; Literature</a></li>
+				<li><a href="/search/books/subject/Health Fitness?cm_sp=navShop-_-books-_-health">Health &amp; Fitness</a></li>
+				<li><a href="/search/books/subject/Fiction Historical Fiction?cm_sp=navShop-_-books-_-historicalfiction">Historical Fiction</a></li>
+				<li><a href="/search/books/subject/History?cm_sp=navShop-_-books-_-history">History</a></li>
+			</ul>   
+			</div>
+			
+			<div class="col_1">
+			<ul class="clearfix">
+				<li><a href="/search/books/subject/Fiction Literary Fiction?cm_sp=navShop-_-books-_-literaryfiction">Literary Fiction</a></li>
+				<li><a href="/search/books/subject/Fiction Mystery Fiction?cm_sp=navShop-_-books-_-mysteryfiction">Mystery &amp; Crime Fiction</a></li>	
+				<li><a href="/search/books/subject/Reference?cm_sp=navShop-_-books-_-reference">Reference &amp; Language</a></li>
+				<li><a href="/search/books/subject/religion?cm_sp=navShop-_-books-_-religion">Religion &amp; Spirituality</a></li>
+				<li><a href="/search/books/subject/Fiction Romance?cm_sp=navShop-_-books-_-romance">Romance</a></li>
+				<li><a href="/search/books/subject/science?cm_sp=navShop-_-books-_-science">Science &amp; Nature</a></li>
+				<li><a href="/search/books/subject/Fiction Science Fiction?cm_sp=navShop-_-books-_-scifi">Science Fiction</a></li>
+				<li><a href="/search/books/subject/Social Science?cm_sp=navShop-_-books-_-socialscience">Social Science</a></li>
+				<li><a href="/search/books/subject/Sports Recreation?cm_sp=navShop-_-books-_-sports">Sports &amp; Fitness</a></li>
+				<li><a href="/search/books/subject/Travel?cm_sp=navShop-_-books-_-travel">Travel</a></li>
+			</ul> 
+			</div>
+			
+			
+			</div>
+			<!-- End columns container -->	
+				
+	</li>
+	
+	<!-- nav item -->
+
+	
+	
+	
+	<li class="nav-item  ">
+		<a href="/movies" class="drop ">
+			Movies &amp; TV
+		</a>
+		
+		
+			
+<div class="dropdown_3columns"> 
+
+
+<div class="col_1 first">
+<ul class="clearfix">
+	<li><a href="/movies/movies-new-releases?cm_sp=navShop-_-movies-_-newreleases">New Releases</a></li>
+	<li><a href="/movies/movies-based-on-books?cm_sp=navShop-_-movies-_-basedonbooks">Movies Based on Books</a></li>
+</ul>  
+<a href="/find-a-seller?cm_sp=navShop-_-movies-_-findaseller" class="find-a-seller">Find a Seller</a>
+</div>
+
+<div class="col_1 border">
+<ul class="clearfix">
+	<li><a href="/search/movies/genre/Action?cm_sp=navShop-_-movies-_-action">Action</a></li>
+	<li><a href="/search/movies/genre/Adventure?cm_sp=navShop-_-movies-_-adventure">Adventure</a></li>
+	<li><a href="/search/movies/genre/Children's%20and%20Family?cm_sp=navShop-_-movies-_-childrens">Children's &amp; Family</a></li>
+	<li><a href="/search/movies/genre/Comedy?cm_sp=navShop-_-movies-_-comedy">Comedy</a></li>
+	<li><a href="/search/movies/genre/Crime?cm_sp=navShop-_-movies-_-crime">Crime</a></li>
+	<li><a href="/search/movies/genre/Drama?cm_sp=navShop-_-movies-_-drama">Drama</a></li>
+	<li><a href="/search/movies/genre/Fantasy?cm_sp=navShop-_-movies-_-fantasy">Fantasy</a></li>
+	<li><a href="/search/movies/genre/Horror?cm_sp=navShop-_-movies-_-horror">Horror</a></li>
+</ul>   
+</div>
+
+<div class="col_1">
+
+<ul class="clearfix">
+	<li><a href="/search/movies/genre/Mystery?cm_sp=navShop-_-movies-_-mystery">Mystery</a></li>
+	<li><a href="/search/movies/genre/Romance?cm_sp=navShop-_-movies-_-romance">Romance</a></li>	
+	<li><a href="/search/movies/genre/Science Fiction?cm_sp=navShop-_-movies-_-scifi">Science Fiction</a></li>
+	<li><a href="/search/movies/genre/Thriller?cm_sp=navShop-_-movies-_-thriller">Thriller</a></li>
+	<li><a href="/search/movies/genre/TV Show?cm_sp=navShop-_-movies-_-tvshow">TV Shows</a></li>
+	<li><a href="/search/movies/genre/War?cm_sp=navShop-_-movies-_-war">War</a></li>
+	<li><a href="/search/movies/genre/Western?cm_sp=navShop-_-movies-_-western">Western</a></li>
+</ul> 
+</div>
+
+</div>
+
+				
+	</li>
+	
+	<!-- nav item -->
+
+	
+	
+	
+	<li class="nav-item  ">
+		<a href="/music" class="drop ">
+			Music
+		</a>
+		
+		
+			
+<div class="dropdown_3columns"> 
+<div class="col_1 first">
+
+<ul class="clearfix">
+	<li><a href="/music/pop-jazz-new-releases?cm_sp=navShop-_-music-_-popnew">Pop &amp; Jazz New Releases</a></li>
+	<li><a href="/music/classical/classical-new-releases?cm_sp=navShop-_-music-_-classicalnew">Classical New Releases</a></li>
+</ul>  
+
+<a href="/find-a-seller?cm_sp=navShop-_-music-_-findaseller" class="find-a-seller">Find a Seller</a>
+</div>
+
+<div class="col_1 border">
+<ul class="clearfix">
+	<li><a href="/search/music/genre/Blues?cm_sp=navShop-_-music-_-blues">Blues</a></li>
+	<li><a href="/search/music/genre/Children's?cm_sp=navShop-_-music-_-childrens">Children's Music</a></li>
+	<li><a href="/search/music/genre/Country?cm_sp=navShop-_-music-_-country">Country</a></li>
+	<li><a href="/search/music/genre/Easy Listening?cm_sp=navShop-_-music-_-easylistening">Easy Listening</a></li>
+	<li><a href="/search/music/genre/Electronica?cm_sp=navShop-_-music-_-electronica">Electronica</a></li>
+	<li><a href="/search/music/genre/Folk?cm_sp=navShop-_-music-_-folk">Folk</a></li>
+	<li><a href="/search/music/genre/Jazz?cm_sp=navShop-_-music-_-jazz">Jazz</a></li>
+	<li><a href="/search/music/genre/Latin?cm_sp=navShop-_-music-_-latin">Latin</a></li>
+	<li><a href="/search/music/genre/Rap?cm_sp=navShop-_-music-_-rap">Rap</a></li>
+	<li><a href="/search/music/genre/Rock?cm_sp=navShop-_-music-_-rock">Rock</a></li>
+	<li><a href="/search/music/genre/Soundtrack?cm_sp=navShop-_-music-_-soundtrack">Soundtrack</a></li> 
+	<li><a href="/search/music/genre/World?cm_sp=navShop-_-music-_-world">World</a></li>                
+</ul>   
+
+</div>
+
+<div class="col_1">
+<ul class="clearfix">
+	<li><a href="/search/classical/genre/Chamber Music?cm_sp=navShop-_-music-_-chamber">Chamber Music</a></li>
+	<li><a href="/search/classical/genre/Choral Music?cm_sp=navShop-_-music-_-choral">Choral Music</a></li>	
+	<li><a href="/search/classical/genre/Concerto?cm_sp=navShop-_-music-_-concerto">Concerto</a></li>
+	<li><a href="/search/classical/genre/Musical Theater?cm_sp=navShop-_-music-_-musicaltheater">Musical Theater</a></li>
+	<li><a href="/search/classical/genre/Opera?cm_sp=navShop-_-music-_-opera">Opera</a></li>
+	<li><a href="/search/classical/genre/Orchestral Music?cm_sp=navShop-_-music-_-orchestral">Orchestral Music</a></li>
+	<li><a href="/search/classical/genre/Symphony?cm_sp=navShop-_-music-_-symphony">Symphony</a></li>
+	<li><a href="/search/classical/genre/Vocal Music?cm_sp=navShop-_-music-_-vocal">Vocal Music</a></li>
+</ul> 
+
+
+</div>
+</div>
+
+				
+	</li>
+	
+	<!-- nav item -->
+
+	
+	
+	
+	<li class="nav-item  ">
+		<a href="/books/textbooks" class="drop ">
+			Textbooks
+		</a>
+		
+		
+			
+
+
+<link rel="stylesheet" type="text/css" href="http://www0.alibris-static.com/css/en_GB/rentals7.65.012.css">
+
+<!-- Begin columns container --> 
+<div class="dropdown_2columns align_right"> 
+	<div class="col_1 first">
+		<ul class="clearfix">
+			<li><a href="/books/college-textbooks?cm_sp=navShop-_-texts-buy_-college">University Textbooks</a></li>
+			<li><a href="/books/homeschooling-textbooks?cm_sp=navShop-_-texts-buy-_-homeschool">Home Education</a></li>
+			<li><a href="/books/high-school-textbooks?cm_sp=navShop-_-texts-buy-_-highschool">Sixth Form Textbooks</a></li>
+		    <li><a href="/books/middle-school-textbooks?cm_sp=navShop-_-texts-buy-_-middleschool">Secondary School</a></li>
+		    <li><a href="/books/elementary-school-textbooks?cm_sp=navShop-_-texts-buy-_-elementary">Primary School Textbooks</a></li>
+		</ul>  
+	</div>
+	<div class="col_1 border">
+		<ul class="clearfix">
+			<li><a href="/search/books/subject/United%20States%20college%20Entrance%20examinations?cm_sp=navShop-_-textbooks-_-na">Acing Entrance Exams</a></li>
+			<li><a href="/search/books/keyword/choose%20a%20college?cm_sp=navShop-_-textbooks-_-na">Choosing a College</a></li>
+			<li><a href="/search/books/subject/Internships?cm_sp=navShop-_-textbooks-_-na">Find an Internship</a></li>
+			<li><a href="/search/books/subject/Interviewing?cm_sp=navShop-_-textbooks-_-na">Interview Skills</a></li>
+			<li><a href="/search/books/subject/college%20Finance?cm_sp=navShop-_-textbooks-_-na">Paying for College</a></li>
+			<li><a href="/search/books/subject/Reference%20Writing%20Skills?cm_sp=navShop-_-textbooks-_-na">Reference Guides</a></li> 
+			<li><a href="/search/books/subject/Student%20aid?cm_sp=navShop-_-textbooks-_-na">Scholarship Guides</a></li>
+			<li><a href="/search/books/subject/Study%20guides?cm_sp=navShop-_-textbooks-_-na">Study Skills Guides</a></li>
+		</ul>   
+	</div>
+</div>
+<!-- End columns container --> 
+				
+	</li>
+	
+	<!-- nav item -->
+
+	
+	
+	
+	<li class="nav-item  ">
+		<a href="/books/rare-collectible" class="drop ">
+			Rare &amp; Collectible
+		</a>
+		
+		
+			
+<!-- Begin columns container -->
+<div class="dropdown_2columns align_right"> 
+<div class="col_1 first">
+
+<ul class="clearfix">
+	<li><a href="/books/first-edition-books?cm_sp=navShop-_-ooprare-_-firstedition">First Edition Books</a></li>
+	<li><a href="/books/antiquarian-books?cm_sp=navShop-_-ooprare-_-antiquarian">Antiquarian Books</a></li>
+	<li><a href="/books/signed-books?cm_sp=navShop-_-ooprare-_-signed">Signed Books</a></li>
+	<li><a href="/books/collectible-book-gifts?cm_sp=navShop-_-ooprare-_-gifts">Collectible Book Gifts</a></li>
+</ul>  
+<a href="/find-a-seller?cm_sp=navShop-_-ooprare-_-findaseller" class="find-a-seller">Find a Seller</a>
+</div>
+
+<div class="col_1 border">
+<ul class="clearfix">
+	<li><a href="/article/bookselling?cm_sp=navShop-_-ooprare-_-bookselling">About Bookselling</a></li>
+	<li><a href="/article/book-collecting?cm_sp=navShop-_-ooprare-_-collecting">Book Collecting</a></li>
+	<li><a href="/article/book-specialties?cm_sp=navShop-_-ooprare-_-specialities">Book Specialties</a></li>
+	<li><a href="/article/book-condition-grading?cm_sp=navShop-_-ooprare-_-condition">Book Condition</a></li>
+	<li><a href="/article/book-restoration?cm_sp=navShop-_-ooprare-_-restoration">Book Repair</a></li>	
+</ul>   
+</div>
+
+
+</div>
+<!-- End columns container -->
+
+				
+	</li>
+	
+	<!-- nav item -->
+
+
+
+</ul>
+</div>
+<!-- / nav item -->
+
+<script language="JavaScript">
+	var initTxt = "Enter title, author, or ISBN";
+</script>
+
+<form name="searchHorizForm" method="get" action="/booksearch">
+<div class="search">
+	<span class="search-title">Search</span>
+     <a id="searchHorizLink" href="/booksearch?cm_sp=search-_-advSearch-_-na" class="advanced-search">advanced search</a>
+     <div class="search-form-wrapper">  
+       	<div class="form-item">
+          <span class="ui-widget">
+            <input id="searchBox" name="keyword" type="text" value="Enter title, author, or ISBN" onfocus="this.className='searchBox'; if (this.value == initTxt) { this.value = ''; }" onblur="if (this.value == '') {  this.className='searchBoxInit'; this.value = initTxt; }">
+          </span>
 		</div>
+        <div class="form-item select">
+            <select name="mtype" id="mtypeMenu" onchange="horizMtype(this)">
+				<option value="B" selected="">Books</option>
+				
+				
+				
+				
+				<option value="V">Movies</option>
+				<option value="M">Music</option>
+				<option value="C">Music - Classical</option>
+				
+			</select>
+        </div>
+        <div class="form-item">
+           <input name="hs" type="image" value="Submit" src="http://www4.alibris-static.com/images/header-new/submit-btn.png" alt="go" onclick="javascript:clearDefaults();">        
+   		</div>
+  </div>
+
+  
+</div>
+ </form> 
+
+</div>
+
+
+
+
+<!-- new header -->
+
+
+     	
+
+	
+</div>
 	
 
 
@@ -236,7 +675,7 @@
 
     
 
-<div class="bea-portal-theme-alibrisMain">
+<div class="bea-portal-theme-alibrisInvisible">
 
 
 
@@ -249,185 +688,39 @@
         
 
 
+    
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-<script language="javascript">
-function toggleImage(currentImgName, otherImgName)
-{
-	document.images[currentImgName].style.display = "none";
-	document.images[otherImgName].style.display = "";
-}
-</script>
-
-<div id="singlelevelmenu" class="nav">
-<ul>
-	<li class="first_nav">
-						<a class="" href="/books">books</a>
-					</li><li class="">
-						<a class="" href="/movies">movies</a>
-					</li><li class="">
-						<a class="" href="/music">music</a>
-					</li><li class="">
-						<a class="" href="/books/textbooks">textbooks</a>
-					</li><li class="">
-						<a class="holiday-tab" href="/books/rare-collectible">rare &amp; collectible</a>
-					</li><li class="">
-						<a class="" href="/community/home">community</a>
-					</li>
-			
-	</ul>
-	</div>
-
-	
-				<div id="subNavBeige">&nbsp;</div>
-	
-
-
-
-
-
-<script language="javascript" type="text/javascript">
-<!--
-function selectMtype(mtype) {
-	var mtypeMenu = document.getElementById("mtypeMenu");
-	for (i = 0; i < mtypeMenu.length; i++) {
-		if (mtypeMenu[i].value == mtype) {
-			mtypeMenu.selectedIndex = i;
-		}
-	}
-	setMtype(mtype);
-}
-
-function horizMtype(sel) {
-	return setMtype(sel.options[sel.selectedIndex].value);
-}
-
-function setMtype(mtype) {
-	var searchBox = document.getElementById("searchBox");
-	var emptySearchBox = (searchBox.value == '' || searchBox.value == initTxt);
-	var searchHorizLink = document.getElementById("searchHorizLink");
-	
-	
-	if (mtype == "B") { document.searchHorizForm.action = "/booksearch"; searchHorizLink.href = "/booksearch?cm_sp=search-_-advSearch-_-na"; initTxt = "Enter title, author, ISBN, and/or keyword"; }
-	else if (mtype == "E") { document.searchHorizForm.action = "/ebooksearch"; searchHorizLink.href = "/ebooksearch?cm_sp=search-_-advSearch-_-na"; initTxt = "Enter title, author, ISBN, and/or keyword"; }
-	else if (mtype == "V") { document.searchHorizForm.action = "/moviesearch"; searchHorizLink.href = "/moviesearch?cm_sp=search-_-advSearch-_-na"; initTxt = "Enter title, actor, director, and/or keyword"; }
-	else if (mtype == "M") { document.searchHorizForm.action = "/musicsearch"; searchHorizLink.href = "/musicsearch?cm_sp=search-_-advSearch-_-na"; initTxt = "Enter title, artist/composer, and/or keyword"; }
-	else if (mtype == "C") { document.searchHorizForm.action = "/classicalsearch"; searchHorizLink.href = "/classicalsearch?cm_sp=search-_-advSearch-_-na"; initTxt = "Enter title, artist/composer, and/or keyword"; }
-	if (emptySearchBox) { searchBox.value = initTxt; }
-	return true;
-}
-
-var initTxt = "Enter title, author, ISBN, and/or keyword";
-
-//-->
-</script>
-
-<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.6/themes/base/jquery-ui.css" type="text/css" media="all">
-<script src="http://www3.alibris-static.com/framework/skins/alibris/js/complete.6.50.001-hot04.js"></script>
-
-<style type="text/css">
-.searchBoxInit, .searchBox {
-	padding-left: 3px;
-	width: 400px;
-	font-size: 13px;
-	padding-top: 1px;
-	padding-bottom: 1px;
-}
-.searchBoxInit {
-	color: #999;
-}
-.searchBox {
-	color: #000;
-}
-</style>
-
-
-
-
-<div id="search-horiz2">
-	<nobr>
-	<form name="searchHorizForm" method="get" action="/booksearch">
-		
-		<img src="http://www0.alibris-static.com/images/nav/search-arrow.gif" align="absmiddle" class="search-arrow" width="78" height="31">
-		<select name="mtype" id="mtypeMenu" onchange="horizMtype(this)">
-			<option value="B">Books</option>
-			
-			
-			
-			<option value="V">Movies</option>
-			<option value="M">Music</option>
-			<option value="C">Music - Classical</option>
-		</select>
-		<span class="ui-widget">
-			<input id="searchBox" name="keyword" type="text" value="Enter title, author, ISBN, and/or keyword" class="searchBoxInit" onfocus="this.className='searchBox'; if (this.value == initTxt) { this.value = ''; }" onblur="if (this.value == '') { this.className='searchBoxInit'; this.value = initTxt; }">
-		</span>
-		<input name="hs" type="image" value="Submit" src="http://www0.alibris-static.com/images/nav/go-arrow.gif" alt="go" align="absmiddle" width="38" height="31">
-	</form>
-	<a id="searchHorizLink" href="/booksearch?cm_sp=search-_-advSearch-_-na" class="smallgreytype">» advanced search</a>
-	</nobr>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
+    
 
 
         
         <div class="bea-portal-book-primary-content">
 
 
+<div class="bea-portal-theme-alibrisMain">
+
+
+
+
+
+
+
+    
+    <div class="bea-portal-book-invisible">
+        
+        
+        <div class="bea-portal-book-content">
+
+
+<div class="bea-portal-theme-alibrisInvisible">
+</div>
+<div class="bea-portal-theme-alibrisInvisible">
+</div>
 <div class="bea-portal-theme-alibrisInvisible">
 </div>
 <div class="bea-portal-theme-alibrisInvisible">
@@ -453,7 +746,7 @@ var initTxt = "Enter title, author, ISBN, and/or keyword";
 
 
     
-    <div id="bea-portal-book-primary" class="bea-portal-book-primary-page">
+    <div id="bea-portal-book-primary" class="bea-portal-book-page">
 
 
 
@@ -483,7 +776,7 @@ var initTxt = "Enter title, author, ISBN, and/or keyword";
         <tbody><tr>
     
             
-            <td class="bea-portal-layout-placeholder-container">
+            <td class="bea-portal-layout-placeholder-container" width="100%">
 
 <div class="bea-portal-layout-placeholder">
 
@@ -526,8 +819,6 @@ var initTxt = "Enter title, author, ISBN, and/or keyword";
 
         
 <div class="bea-portal-alert-window-content">
-
-
 
 
 
@@ -560,18 +851,15 @@ var initTxt = "Enter title, author, ISBN, and/or keyword";
 	
 	
 		<div style="margin-bottom: 10px; padding: 0;">
-		
-		<a href="/promotions/why-alibris-uk?cm_sp=promo-_-discoverUK-_-na"><img border="0" src="/images/promos/uk_welcome_174.gif"></a>
+		<a href="/promotions/why-alibris-uk?cm_sp=promo-_-discoverUK-_-na">
+			<img alt="" border="0" src="/images/promos/uk_welcome_174.gif">
+		</a>
 		</div>
     
 
 
 
-    
- 
-
-
-
+		
 
 
 
@@ -597,7 +885,7 @@ var initTxt = "Enter title, author, ISBN, and/or keyword";
                     <tr>
     
             
-            <td class="bea-portal-layout-placeholder-container">
+            <td class="bea-portal-layout-placeholder-container" width="100%">
 
 <div class="bea-portal-layout-placeholder">
 
@@ -661,31 +949,30 @@ var initTxt = "Enter title, author, ISBN, and/or keyword";
 
 
 
+
 	
 	
-	
+
 	
 	
 	
 			
 			<div class="bottom-20">
-			
-		    	
-			
-		
 				
-			    
-			 </div>  
+				
+					<a href="/?cm_sp=promo-_-mobilesite-_-lhs">
+						<img border="0" src="/images/promos/Shop_Mobile_174_UK.gif" alt="Shop Mobile with Alibris U.K.">
+					</a>
+						    	
+			</div>
 		
-		
-			
-			
-		
+	
+	
+	
+	
 	
 	
 
-	
-	
 
 
 
@@ -707,7 +994,7 @@ var initTxt = "Enter title, author, ISBN, and/or keyword";
                     <tr>
     
             
-            <td class="bea-portal-layout-placeholder-container">
+            <td class="bea-portal-layout-placeholder-container" width="100%">
 
 <div class="bea-portal-layout-placeholder">
 
@@ -779,15 +1066,11 @@ var initTxt = "Enter title, author, ISBN, and/or keyword";
 
 
 
-
-
 	
 	
 
 
-
-
-
+		
 
 
 
@@ -813,7 +1096,7 @@ var initTxt = "Enter title, author, ISBN, and/or keyword";
                     <tr>
     
             
-            <td class="bea-portal-layout-placeholder-container">
+            <td class="bea-portal-layout-placeholder-container" width="100%">
 
 <div class="bea-portal-layout-placeholder">
 
@@ -895,7 +1178,7 @@ var initTxt = "Enter title, author, ISBN, and/or keyword";
 		document.getElementById("nlSignupForm").submit();
 	}
 	</script>
-	<script src="http://www4.alibris-static.com/framework/skins/alibris/js/jquery.infieldlabel.min.6.50.001-hot04.js"></script>
+	<script src="http://www4.alibris-static.com/framework/skins/alibris/js/jquery.infieldlabel.min.7.65.012.js"></script>
 
 	<script type="text/javascript" charset="utf-8">
 		$(document).ready(function(){
@@ -1019,7 +1302,7 @@ var initTxt = "Enter title, author, ISBN, and/or keyword";
                     <tr>
     
             
-            <td class="bea-portal-layout-placeholder-container">
+            <td class="bea-portal-layout-placeholder-container" width="100%">
 
 <div class="bea-portal-layout-placeholder">
 
@@ -1091,14 +1374,12 @@ var initTxt = "Enter title, author, ISBN, and/or keyword";
 
 
 
-
-
 	
 	
 
 
-
-
+		    
+		 
 
 
 
@@ -1144,6 +1425,21 @@ var initTxt = "Enter title, author, ISBN, and/or keyword";
     
             
             <td class="bea-portal-layout-placeholder-container-east">
+
+<div class="bea-portal-layout-placeholder">
+
+
+
+
+
+
+
+    
+    <table class="bea-portal-layout-flow" cellspacing="0">
+        <tbody><tr>
+    
+            
+            <td class="bea-portal-layout-placeholder-container" width="100%">
 
 <div class="bea-portal-layout-placeholder">
 
@@ -1206,6 +1502,21 @@ var initTxt = "Enter title, author, ISBN, and/or keyword";
 
 
 
+    
+    <table class="bea-portal-layout-flow" cellspacing="0">
+        <tbody><tr>
+    
+            
+            <td class="bea-portal-layout-placeholder-container" width="100%">
+
+<div class="bea-portal-layout-placeholder">
+
+
+
+
+
+
+
 
     
     <div class="bea-portal-alert-window" width="100%">
@@ -1259,6 +1570,7 @@ var initTxt = "Enter title, author, ISBN, and/or keyword";
 
 
 
+	<link rel="stylesheet" type="text/css" href="http://www2.alibris-static.com/css/en_GB/popup7.65.012.css">
 
 	
 
@@ -1267,7 +1579,7 @@ var initTxt = "Enter title, author, ISBN, and/or keyword";
 		<h1>Privacy Policy</h1>
 		</div>
 		<div id="help">
-		<p>(Last updated: September 21, 2010)</p>
+		<p>(Last updated: July 12, 2011)</p>
 
 <p><strong>Your privacy matters to us</strong></p>
 <p>Welcome to Alibris, Inc. (Alibris). Because we are committed to protecting your privacy in all aspects of our business, we hope you will take the time to read this policy, which explains what information we collect from you and how we use and disclose that information. This Privacy Policy ("<strong>Policy</strong>") is incorporated into and is subject to the Alibris <a href="/policies/terms">Terms of Use</a>  ("<strong>Terms</strong>"), and capitalized terms used but not defined in this Privacy Policy are defined in the Terms.</p>
@@ -1282,11 +1594,11 @@ Alibris collects a variety of personal information from you when you register wi
 
 <li><u>Other Information:</u> The Service includes a variety of other features that allow you to voluntarily provide personally identifiable information to Alibris, such as by our community features, "chat with an agent" feature or other customer service systems, email submission forms, contests, drawings, and surveys, and "Book Fetch" requests. Additionally, when you contact the seller of an item through the Service, Alibris has access to that information (including the email address you supply for the seller to respond to). Alibris may use all of this information throughout the Service to provide the Service to you and other users.</li>
 
-<li><u>Information from Third Parties:</u> We may also receive information about you if you purchase books on another web site through a third party partner of Alibris.</li>
+<li><u>Information from Third Parties:</u> We may also receive information about you if you order books on another web site through a third party partner of Alibris.</li>
 
 <li><u>"Automatically Collected" Information:</u> Like most web sites, when you visit the Service, Alibris automatically collects a variety of information about your computer and your use of the Service in log files, such as your IP address, address or device id, operating system, and browser type, as well as information regarding pages you visit, web sites you visit before or after using the Service, search queries you may have used to find the Service, items on the Service you view, and transactions you engage in through the Service. If automatically collected information is used or intended to be used to identify you, or if we associate or combine this information with your other personally identifiable information, we will treat the associated or combined information as personally identifiable information under this Policy. </li>
 
-<li><u>"Cookies" Information:</u> The Service also uses "cookies," which are small pieces of information that are stored by your browser on your computer's hard drive so that the Service may access that information on your return visits. We generally do not store or retrieve any personally identifiable information in cookies. If you've set your browser to reject cookies, you can still use our site, but will not be able to take full advantage of all the features of the Service. For example, without cookies enabled, you cannot purchase items.
+<li><u>"Cookies" Information:</u> The Service also uses "cookies," which are small pieces of information that are stored by your browser on your computer's hard drive so that the Service may access that information on your return visits. We generally do not store or retrieve any personally identifiable information in cookies. If you've set your browser to reject cookies, you can still use our site, but will not be able to take full advantage of all the features of the Service. For example, without cookies enabled, you cannot order items.
 </li>
 </ul>
 
@@ -1294,9 +1606,9 @@ Alibris collects a variety of personal information from you when you register wi
 <p>Alibris uses information you provide or that we collect for a variety of purposes. </p>
 
 <ul>
-<li><u>Communication:</u> We use your information to communicate with you regarding the Service, such as for administrative purposes, customer service purposes, to address intellectual property infringement, or rights of privacy, and as otherwise may be necessary to provide, operate, maintain, and enhance, the Service. For certain types of communications relating to the Service and your account with Alibris (such as notifications, service announcements, and administrative messages, and the like) you will not have the opportunity to opt-out. If you subscribe to the Alibris newsletter, we may use your Account Information and Order Information to occasionally notify you about important changes to the Service, new Alibris features, or special Alibris offers you may find useful. If you would prefer to opt out of receiving this information, visit your account page ("<strong>Your Account</strong>" available at <a href="https://www.alibris.co.uk/account">https://www.alibris.co.uk/account</a>) to change your preferences.</li>
+<li><u>Communication:</u> We use your information to communicate with you regarding the Service, such as for administrative purposes, customer service purposes, to address intellectual property infringement, or rights of privacy, and as otherwise may be necessary to provide, operate, maintain, and enhance, the Service. For certain types of communications relating to the Service and your account with Alibris (such as notifications, service announcements, and administrative messages, and the like) you will not have the opportunity to opt-out. If you subscribe to the Alibris newsletter, we may use your Account Information and Order Information to occasionally notify you about important changes to the Service, new Alibris features, or special Alibris offers you may find useful. If you would prefer to opt out of receiving this information, visit your <a href="/account">account page</a> to change your preferences.</li>
 
-<li><u>Buying and Selling:</u> We may also use your information to contact you in connection with your buying and selling of items by you through the Service, and to comply with laws and regulations related to purchases and sales of items by you through the Service. Information we receive from third party partners in connection with your purchases made through such partners' web sites are used for the purpose of fulfilling those transactions.</li>
+<li><u>Buying and Selling:</u> We may also use your information to contact you in connection with your buying and selling of items by you through the Service, and to comply with laws and regulations related to orders and sales of items by you through the Service. Information we receive from third party partners in connection with your orders made through such partners' web sites are used for the purpose of fulfilling those transactions.</li>
 
 <li><u>Providing and Improving the Service; Personalization:</u> We may also use information we collect from you (including automatically collected information and cookies information) (i) to provide, customize, and personalize features of the Service (such as remembering your information so that you will not have to re-enter it during your visit or the next time you use the Service), (ii) to analyze and understand the usage trends and preferences of users of the Service, and the effectiveness of our marketing and communication efforts, so that we can continually improve our offerings, (iii) to perform internal reporting, analysis, maintenance, enhancements, troubleshooting, and other related development work, and (iv) to provide customized third party advertisements, content, and information. </li>
 </ul>
@@ -1380,6 +1692,26 @@ Emeryville, CA 94608<br>
             
     
         </tr>
+    </tbody></table>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</td>
+            
+    
+        </tr>
     
     </tbody></table>
     
@@ -1421,6 +1753,26 @@ Emeryville, CA 94608<br>
 </div>
 </td>
             
+    
+        </tr>
+    </tbody></table>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</td>
+            
         </tr>
     
     </tbody></table>
@@ -1444,9 +1796,20 @@ Emeryville, CA 94608<br>
     
 
 </div>
-<div class="bea-portal-theme-alibrisInvisible">
+
+
+
+
+
+
+
+        </div>
+        
+    </div>
+    
+
 </div>
-<div class="bea-portal-theme-alibrisInvisible">
+<div class="bea-portal-theme-alibrisMain">
 </div>
 
 
@@ -1493,6 +1856,7 @@ Emeryville, CA 94608<br>
 
 		
 
+
 <div id="footer2">
 		<div class="share-tab-footer" style="text-align: center; width: 563px; margin: -10px auto 10px;"><img name="sharetab" src="/images/promos/share-tab.gif" id="sharetab" usemap="#m_sharetab" alt="" width="563" border="0" height="46"><map name="m_sharetab" id="m_sharetab"><area shape="rect" coords="465,0,557,46" href="http://www.alibris.com/blog/alibris" title="Alibris blog" alt="Alibris blog">	<area shape="rect" coords="343,0,455,46" href="http://www.twitter.com/alibris" title="Alibris on Twitter" alt="Alibris on Twitter">	<area shape="rect" coords="201,0,330,46" href="http://www.facebook.com/alibris" title="Alibris on Facebook" alt="Alibris on Facebook"></map></div>
 		
@@ -1512,6 +1876,7 @@ Emeryville, CA 94608<br>
 				<div class="about-us">
 					<p><strong>About Us</strong></p>
 					<p><a href="/about/aboutus">The Alibris Story</a></p>
+					<p><a href="/about/employment">We're Hiring!</a></p>
 					<p><a href="/about/alibris-cares">Social Responsibility</a></p>
 					<p><a href="/promotions/intro">Why Shop Here?</a></p>
 
@@ -1539,6 +1904,9 @@ Emeryville, CA 94608<br>
 					<p><a href="/">Second-Hand Books</a></p>
 					<p><a href="/books/rare-collectible">Rare, Out-of-Print, &amp; Collectible Books</a></p>
 					<p><a href="/books/textbooks">Textbooks</a></p>
+					
+					
+					
 					<p><a href="/movies">Used DVDs &amp; Movies</a></p>
 					<p><a href="/music">Used CDs &amp; Music</a></p>
 					<p><a href="/find-a-seller">Find a Bookseller</a></p>
@@ -1563,7 +1931,7 @@ Emeryville, CA 94608<br>
 
 				<div class="other-sites">
 					<ul><li><a href="/">Books You Thought You'd Never Find</a></li><li><a href="/sellers">Sell Books, Music, &amp; Movies Online</a></li><li class="last"><a href="http://developer.alibris.com">Develop Custom Apps for Alibris</a></li></ul>
-					<ul><li><a href="http://library.alibris.com">Alibris for Libraries</a></li><li><a href="javascript:void(0);" onclick="document.cookie = 'mobify=1; path=/; domain=alibris.co.uk';location.reload();">Alibris Mobile</a></li><li class="last">International: <a href="http://www.alibris.com">Alibris U.S.</a></li></ul>
+					<ul><li><a href="http://library.alibris.com">Alibris for Libraries</a></li><li class="last">International: <a href="http://www.alibris.com">Alibris U.S.</a></li></ul>
 					
 					<ul>
 						<li><a href="/policies/terms">Terms of Use</a></li>
@@ -1608,7 +1976,7 @@ Emeryville, CA 94608<br>
 
 
 
-<!-- betty.ms4 -->
+<!-- bedrock.bedrock_8103 -->
 
 	
 
@@ -1641,15 +2009,19 @@ Emeryville, CA 94608<br>
 
 
 
+
+
+
+
+
+
+
+
         </div>
 
 
-	<script type="text/javascript">Mobify.push("body");</script>
-
-
-
-<script language="javascript1.1" src="/coremetrics/eluminate2_uk.js"></script>
-<script language="javascript1.1" src="/coremetrics/cmdatatagutils_uk.js"></script>
+<script language="javascript1.1" src="http://www4.alibris-static.com/coremetrics/eluminate2_uk.js"></script>
+<script language="javascript1.1" src="http://www4.alibris-static.com/coremetrics/cmdatatagutils_uk.js"></script>
 <script language="javascript1.1">
 <!--
   try {
@@ -1660,6 +2032,16 @@ Emeryville, CA 94608<br>
 </script>
 
 
+
+
+<feature:ifenabled name="googleAdwords">
+
+</feature:ifenabled>
+
+
+
+
+	<noscript></style></noscript><script type="text/javascript">Mobify.snippet('body end');</script>
 
 
 
