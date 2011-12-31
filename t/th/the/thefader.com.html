@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the thefader.com privacy policy that was archived on 2011-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110610120511id_/http%3A//www.thefader.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thefader.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231222332id_/http%3A//www.thefader.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html dir="ltr" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:addthis="http://www.addthis.com/help/api-spec"><head>
+<!DOCTYPE html><html dir="ltr" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta charset="UTF-8">
 <meta name="readability-verification" content="2cStDkFvc36qNbrZw8t2awwu4DRvtwrnMnTwY3mL">
 <meta name="readability-verification" content="NXe9b3PrpLVz3fagV59Xs4eMgytVZyW8J4UXYCPj">
 
-      
 <title>Privacy Policy «  The FADER</title>
 <link rel="stylesheet" type="text/css" media="all" href="http://cdn.thefader.com/wp-content/themes/fadernew/style.css">
+<link rel="stylesheet" type="text/css" media="all" href="http://cdn.thefader.com/wp-content/themes/fadernew/rubbertracks_style.css">
 <link rel="pingback" href="http://www.thefader.com/xmlrpc.php"> 
 <!--[if IE ]><link rel="stylesheet" type="text/css" href="http://cdn.thefader.com/wp-content/themes/fadernew/css/lt7.css" /><![endif]-->
 
@@ -85,95 +85,16 @@ GA_googleAddSlot("ca-pub-6934372828187386", "fader_music_posts_after_3rd_300x250
 <script type="text/javascript" src="http://cdn.thefader.com/wp-content/themes/fadernew/superfish/js/superfish.js"></script>
 <link rel="stylesheet" type="text/css" href="http://cdn.thefader.com/wp-content/themes/fadernew/superfish/css/superfish.css" media="screen">
 <script type="text/javascript" src="http://cdn.thefader.com/wp-content/themes/fadernew/superfish/js/hoverIntent.js"></script>
+<!-- SUPERFISH END -->
 
       
-<script src="/galleria/src/galleria.js"></script>
-<script src="/galleria/src/themes/classic/galleria.classic.js"></script>
+<script src="http://cdn.thefader.com/wp-content/themes/fadernew/js/galleria/galleria-1.2.5.js"></script>
+<script src="http://cdn.thefader.com/wp-content/themes/fadernew/js/galleria/themes/twelve/galleria.twelve.js"></script>
 
 <script>
   var $j = jQuery.noConflict();
 </script>
       
-<script>
-  $j(document).ready(function() {
-	  
-  // initialise superfish jquery plugin
-  /* jQuery('ul.sf-menu').superfish({ */
-  /*   autoArrows: false */
-  /* }); */
-
-  $("#popular_week").hide();
-  $("#popular_month").hide();
-  $("#popular_year").hide();
-
-  $("#discussed_week").hide();
-  $("#discussed_month").hide();
-  $("#discussed_year").hide();
-
-//  $('#gallery').galleria();
-
-  });
-
-function hide_all_popular() {
-  $("#popular_day").hide();
-  $("#popular_week").hide();
-  $("#popular_month").hide();
-  $("#popular_year").hide();  
-}
-
-function hide_all_discussed() {
-  $("#discussed_day").hide();
-  $("#discussed_week").hide();
-  $("#discussed_month").hide();
-  $("#discussed_year").hide();  
-}
-
-function popular_day() {
-  hide_all_popular();
-  $("#popular_day").show();
-}
-
-function popular_week() {
-  hide_all_popular();
-  $("#popular_week").show();
-}
-
-function popular_month() {
-  hide_all_popular();
-  $("#popular_month").show();
-}
-
-function popular_year() {
-  hide_all_popular();
-  $("#popular_year").show();
-}
-
-
-function discussed_day() {
-  hide_all_discussed();
-  $("#discussed_day").show();
-}
-
-function discussed_week() {
-  hide_all_discussed();
-  $("#discussed_week").show();
-}
-
-function discussed_month() {
-  hide_all_discussed();
-  $("#discussed_month").show();
-}
-
-function discussed_year() {
-  hide_all_discussed();
-  $("#discussed_year").show();
-}
-
-</script>
-      
-<!-- SUPERFISH END -->
-
-
 <!-- TRACKING -->
 <script type="text/javascript">
   var _gaq = _gaq || [];
@@ -200,6 +121,9 @@ function discussed_year() {
 
 <script type="text/javascript" src="http://ads.jetpackdigital.com/sites/fader/jpd.js"></script>
 
+<!-- newsbeat -->      
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+      
 <link rel="alternate" type="application/rss+xml" title="The FADER" href="http://feeds.feedburner.com/TheFaderMagazine">
 
 
@@ -209,6 +133,10 @@ var addthis_share = {
 }
 </script>
 
+<script type="text/javascript" src="http://cdn.thefader.com/wp-content/themes/fadernew/fadernew.js"></script>
+
+<script src="http://mobileroadie.com/clientmodal/js/731" type="text/javascript"></script>
+      
 <script src="https://c.compete.com/bootstrap/b48e562a127c521723ace4e307139cee/bootstrap.js" type="text/javascript" async=""></script></head>
 
 <!-- body class -->
@@ -232,9 +160,10 @@ var addthis_share = {
 		<!-- different header if in uncapped, load no top banner -->
 		 
 			
-		<div class="banner-ad">
-		  <script type="text/javascript">
-	      GA_googleFillSlot("fader_homepage_top_728x90");	    </script>
+		<div class="banner-ad" id="top_ad_728x90">
+
+	      	      
+	        <iframe id="refreshable_ad_top" class="ad refresher" src="http://www.thefader.com/wp-content/themes/fadernew/ad_frame.php?ad_slot=fader_homepage_top_728x90" width="728" height="90" vspace="0" hspace="0" scrolling="no" frameborder="0" marginheight="0" bordercolor="#000000" marginwidth="0"></iframe>
 
 		</div><!-- banner-ad end -->
 		
@@ -249,7 +178,7 @@ var addthis_share = {
 			<h1><a href="http://www.thefader.com/" title="The FADER" rel="home">The FADER - The FADER is the definitive voice of emerging music and the lifestyle that surrounds it.</a></h1>
 			<div class="header-items">
 				<div class="header-date">
-					Friday June 10, 2011				</div>
+					Saturday December 31, 2011				</div>
 				<ul>
 					<li class="facebook"><a href="http://www.facebook.com/pages/The-FADER/6815651902?ref=nf#/pages/The-FADER/6815651902?ref=nf" title="Facebook" target="_blank">Facebook</a></li>
 		            <li class="twitter"><a href="http://twitter.com/thefader" title="Twitter" target="_blank">Twitter</a></li>
@@ -330,19 +259,22 @@ var addthis_share = {
 			  </li>
               <li class="nav_blogs"><a href="http://www.thefader.com/category/columns" title="View all posts filed under BLOGS">BLOGS</a>
 			  	<ul>
+			      <li class="cat-item cat-item-"> <a title="View all posts filed under BY THE NUMBERS" href="http://www.thefader.com/category/columns/by-the-numbers-columns/">BY THE NUMBERS</a> </li>
 			      <li class="cat-item cat-item-11954"> <a title="View all posts filed under THE TRIPWIRE" href="http://www.thefader.com/category/columns/the-tripwire/">THE TRIPWIRE</a> </li>
 				  <li class="cat-item cat-item-12697"> <a title="View all posts filed under RESPECT YOURSELF" href="http://www.thefader.com/category/columns/respect-yourself/">RESPECT YOURSELF</a> </li>
-			      <li class="cat-item cat-item-7937"> <a title="View all posts filed under SUITE903" href="http://www.thefader.com/category/columns/suite903/">SUITE903</a> </li>
-			      <li class="cat-item cat-item-"> <a title="View all posts filed under LUNGU LUNGU" href="http://www.thefader.com/category/columns/lungu-lungu/">LUNGU LUNGU</a> </li>
-			      <li class="cat-item cat-item-19"> <a title="View all posts filed under GHETTO PALMS" href="http://www.thefader.com/category/columns/ghetto-palms/">GHETTO PALMS</a> </li>
+				  <li class="cat-item cat-item-"> <a title="View all posts filed under WHAT WE'RE READING" href="http://www.thefader.com/category/columns/what-were-reading-columns/">WHAT WE'RE READING</a> </li>
+
+			    <li class="cat-item cat-item-"> <a title="View all posts filed under BEAT CONSTRUCTION" href="http://www.thefader.com/category/columns/beat-construction/">BEAT CONSTRUCTION</a> </li>
+			    <li class="cat-item cat-item-"> <a title="View all posts filed under LUNGU LUNGU" href="http://www.thefader.com/category/columns/lungu-lungu/">LUNGU LUNGU</a> </li>
+			      <li class="cat-item cat-item-18"> <a title="View all posts filed under DOLLARS TO POUNDS" href="http://www.thefader.com/category/columns/dollars-to-pounds/">DOLLARS TO POUNDS</a> </li>
+			    <li class="cat-item cat-item-19"> <a title="View all posts filed under GHETTO PALMS" href="http://www.thefader.com/category/columns/ghetto-palms/">GHETTO PALMS</a> </li>
 			      <li class="cat-item cat-item-60"> <a title="View all posts filed under SLEPT ON" href="http://www.thefader.com/category/columns/slept-on/">SLEPT ON</a> </li>
 			      <li class="cat-item cat-item-17"> <a title="View all posts filed under AROUND THE WORLD WITH A-TRAK" href="http://www.thefader.com/category/columns/around-the-world-with-a-trak-blogs/">AROUND THE WORLD WITH A-TRAK</a> </li>
-			      <li class="cat-item cat-item-18"> <a title="View all posts filed under DOLLARS TO POUNDS" href="http://www.thefader.com/category/columns/dollars-to-pounds/">DOLLARS TO POUNDS</a> </li>
+			    			      <li class="cat-item cat-item-7937"> <a title="View all posts filed under SUITE903" href="http://www.thefader.com/category/columns/suite903/">SUITE903</a> </li>
 			      <li class="cat-item cat-item-58"> <a title="View all posts filed under FREAK SCENE" href="http://www.thefader.com/category/columns/freak-scene/">FREAK SCENE</a> </li>
 			      <li class="cat-item cat-item-5528"> <a title="View all posts filed under THE WAY THINGS WORK" href="http://www.thefader.com/category/columns/the-way-things-work/">THE WAY THINGS WORK</a> </li>
 			      <li class="cat-item cat-item-4850"> <a title="View all posts filed under INTERNET HANGOVER" href="http://www.thefader.com/category/columns/internet-hangover/">INTERNET HANGOVER</a> </li>
 			      <li class="cat-item cat-item-4285"> <a title="View all posts filed under SWEATY HANDS" href="http://www.thefader.com/category/columns/sweaty-hands/">SWEATY HANDS</a> </li>
-			      <li class="cat-item cat-item-3259"> <a title="View all posts filed under HEAL YOURSELF AND MOVE" href="http://www.thefader.com/category/columns/heal-yourself-move/">HEAL YOURSELF AND MOVE</a> </li>
 			      <li class="cat-item cat-item-73"> <a title="View all posts filed under RATIONAL CONVERSATION" href="http://www.thefader.com/category/columns/rational-conversation/">RATIONAL CONVERSATION</a> </li>
 			      <li class="cat-item cat-item-59"> <a title="View all posts filed under PRANCEHALL'S BASS ODYSSEY" href="http://www.thefader.com/category/columns/prancehall%e2%80%99s-bass-odyssey/">PRANCEHALL'S BASS ODYSSEY</a> </li>
 			    </ul>
@@ -351,12 +283,14 @@ var addthis_share = {
 			  	<ul>
 			      <li class="cat-item cat-item-21"> <a title="View all posts filed under FEATURES" href="http://www.thefader.com/category/magazine/features/">FEATURES</a> </li>
 			      <li class="cat-item cat-item-22"> <a title="View all posts filed under GEN F" href="http://www.thefader.com/category/magazine/gen-f/">GEN F</a> </li>
-			      <li class="cat-item cat-item-23"> <a title="View all posts filed under VINYL ARCHEOLOGY" href="http://www.thefader.com/category/magazine/vinyl-archeology/">VINYL ARCHEOLOGY</a> </li>
-			      <li> <a href="http://www.thefader.com/category/fader-tv/magazine-channel/">FADER TV MAGAZINE CHANNEL</a> </li>
+			      <li class="cat-item cat-item-22"> <a title="View all posts filed under NWSPRINT" href="http://www.thefader.com/category/magazine/nwsprint/">NWSPRINT</a> </li>
+			      <li class="cat-item cat-item-22"> <a title="View all posts filed under STYLE" href="http://www.thefader.com/category/magazine/style/">STYLE</a> </li>
+			      <li class="cat-item cat-item-22"> <a title="View all posts filed under REHEATERS" href="http://www.thefader.com/category/magazine/reheaters/">REHEATERS</a> </li>
 			      <li><a href="http://www.thefader.com/category/magazine/back-issues/" class="">BACK ISSUES</a></li>
 			      <li><a href="http://www.thefader.com/category/magazine/podcasts/" class="">PODCASTS</a></li>
 			      <li><a href="http://shop.thefader.com/categories/Subscriptions/">SUBSCRIBE</a></li>
 			      <li class="last"><a href="/where-to-buy">WHERE TO BUY</a></li>
+			      <li> <a href="http://www.thefader.com/category/fader-tv/magazine-channel/">FADER TV MAGAZINE CHANNEL</a> </li>
 			    </ul>
 			  </li>
               <li class="nav_events"><a href="http://www.thefader.com/category/events" title="View all posts filed under EVENTS">EVENTS</a>
@@ -382,6 +316,7 @@ var addthis_share = {
 	</div>
 
 	<div id="main">
+
 		<div id="container">
 			<div id="content" role="main">
 
@@ -390,10 +325,7 @@ var addthis_share = {
 											<h1 class="page-title">Privacy Policy</h1>
 					
 					<div class="entry-content">
-						
-<!-- AddThis Button Begin -->
-<script type="text/javascript">var addthis_product = 'wpp-258';
-var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=thefader"></script><p>          You must read this <a href="/privacy-policy">Privacy Policy</a>, and related documents (the <a href="/terms-of-use" target="_top">Terms of Use</a> and the <a href="/acceptable-use-guidelines">Acceptable Use Guidelines</a>), carefully before accessing or using any of The Fader Web Sites (as defined in the <a href="/terms-of-use" target="_top">Terms of Use</a>). By accessing or using The Fader Web Sites, you agree to be bound by this <a href="/privacy-policy">Privacy Policy</a> and the <a href="/terms-of-use" target="_top">Terms of Use</a> and the <a href="/acceptable-use-guidelines">Acceptable Use Guidelines</a> and all the terms and conditions set forth herein and therein. If you wish not to be bound by these terms you must navigate away from any of The Fader Web Sites now, and you are prohibited from accessing and using such Web sites until such time as you are willing to be so bound. If you use The Fader Web Sites in a manner inconsistent with this <a href="/privacy-policy">Privacy Policy</a>, the <a href="/terms-of-use" target="_top">Terms of Use</a> or the <a href="/acceptable-use-guidelines">Acceptable Use Guidelines</a> The Fader may terminate your access, block your future access and/or seek such other additional relief as The Fader, in its sole and reasonable discretion, shall determine. This <a href="/privacy-policy">Privacy Policy</a> may be modified per its terms. </p>
+						<p>          You must read this <a href="/privacy-policy">Privacy Policy</a>, and related documents (the <a href="/terms-of-use" target="_top">Terms of Use</a> and the <a href="/acceptable-use-guidelines">Acceptable Use Guidelines</a>), carefully before accessing or using any of The Fader Web Sites (as defined in the <a href="/terms-of-use" target="_top">Terms of Use</a>). By accessing or using The Fader Web Sites, you agree to be bound by this <a href="/privacy-policy">Privacy Policy</a> and the <a href="/terms-of-use" target="_top">Terms of Use</a> and the <a href="/acceptable-use-guidelines">Acceptable Use Guidelines</a> and all the terms and conditions set forth herein and therein. If you wish not to be bound by these terms you must navigate away from any of The Fader Web Sites now, and you are prohibited from accessing and using such Web sites until such time as you are willing to be so bound. If you use The Fader Web Sites in a manner inconsistent with this <a href="/privacy-policy">Privacy Policy</a>, the <a href="/terms-of-use" target="_top">Terms of Use</a> or the <a href="/acceptable-use-guidelines">Acceptable Use Guidelines</a> The Fader may terminate your access, block your future access and/or seek such other additional relief as The Fader, in its sole and reasonable discretion, shall determine. This <a href="/privacy-policy">Privacy Policy</a> may be modified per its terms. </p>
 <p> <b>1. Information About Visitors to The Fader Web Sites</b><br>
   The Fader keeps track of The Fader Web Sites, and pages our visitors view within The Fader Web Sites, to enable The Fader to determine what sites and services are the most popular. This data can be used to deliver customized content and advertising to The Fader’s customers and other visitors to The Fader Web Sites whose behavior indicates that they are interested in a specific subject area. The Fader’s service may automatically gather certain usage information like the numbers and frequency of visitors to The Fader Web Sites and its pages, and The Fader will only use information gathered in this manner in the aggregate to enable The Fader to improve and better design The Fader Web Sites. </p>
 <p> To facilitate the above, The Fader Web sites may use a technology called “cookies” – small files attached to your Web browser – which tell The Fader how and when pages in The Fader Web Sites are visited, and by how many people. The Fader’s cookies do not collect personally identifiable information and do not combine information collected through cookies with other personally identifiable information, so users remain anonymous. The Fader may also provide statistical “ratings” information in the aggregate (and never about individual users personally) to The Fader’s partners about how visitors, collectively, use The Fader Web sites. </p>
@@ -453,83 +385,105 @@ var addthis_config = {"data_track_clickback":true};</script><script type="text/j
             				    
       <!-- 1 --> 
       <div class="item">
-		<a href="http://www.thefader.com/2011/06/09/philadelphia-vitaminwater-uncapped-live-with-freeway-young-chris-and-sean-falyon-616/">
-			<img width="300" height="200" src="http://cdn.thefader.com/wp-content/uploads/2011/06/VW_FADER_UNCAPPED_Invite_PHILLY-fixedsm-300x200.jpg" class="attachment-300x1000 wp-post-image" alt="philly" title="philly">	        </a>
+		<a href="http://www.thefader.com/2011/12/30/weekend-end-times-live-at-the-fader-fort-by-fiat-nyc/">
+			<img width="300" height="199" src="http://cdn.thefader.com/wp-content/uploads/2011/12/weekendfort-300x199.jpg" class="attachment-300x1000 wp-post-image" alt="weekendfort" title="weekendfort">	        </a>
 	<h3>
-		<a href="http://www.thefader.com/2011/06/09/philadelphia-vitaminwater-uncapped-live-with-freeway-young-chris-and-sean-falyon-616/">
-		  	  Philadelphia: vitaminwater uncapped LIVE with Freeway, Young Chris and Sean Falyon, 6/16	  	</a>
+		<a href="http://www.thefader.com/2011/12/30/weekend-end-times-live-at-the-fader-fort-by-fiat-nyc/">
+		  	  Weekend, “End Times” Live at The FADER FORT by FIAT NYC	  	</a>
       </h3>
     </div> 
     				    
       <!-- 1 --> 
       <div class="item">
-		<a href="http://www.thefader.com/2011/06/07/beyonce-f-andre-3000-party-prod-by-kanye-west-consequence-mp3/">
-			<img width="300" height="200" src="http://cdn.thefader.com/wp-content/uploads/2011/06/bey-300x200.jpg" class="attachment-300x1000 wp-post-image" alt="bey" title="bey">	        </a>
+		<a href="http://www.thefader.com/2011/12/28/qa-el-p/">
+			<img width="300" height="199" src="http://cdn.thefader.com/wp-content/uploads/2011/12/ELP_featured-300x199.jpg" class="attachment-300x1000 wp-post-image" alt="ELP_featured" title="ELP_featured">	        </a>
 	<h3>
-		<a href="http://www.thefader.com/2011/06/07/beyonce-f-andre-3000-party-prod-by-kanye-west-consequence-mp3/">
-		  	  Beyonce f. Andre 3000, “Party” (Prod. by Kanye West &amp; Consequence) MP3	  	</a>
+		<a href="http://www.thefader.com/2011/12/28/qa-el-p/">
+		  	  Q&amp;A: El-P	  	</a>
       </h3>
     </div> 
     				    
       <!-- 1 --> 
       <div class="item">
-		<a href="http://www.thefader.com/2011/06/06/kanyes-official-monster-video-shall-be-taken-as-art/">
-			<img width="300" height="199" src="http://cdn.thefader.com/wp-content/uploads/2011/06/kanyemonster-300x199.jpg" class="attachment-300x1000 wp-post-image" alt="kanyemonster" title="kanyemonster">	        </a>
+		<a href="http://www.thefader.com/2011/12/23/a-year-in-music-matthew-schnipper/">
+			<img width="300" height="199" src="http://cdn.thefader.com/wp-content/uploads/2011/12/ayearinmusic_matt-300x199.jpg" class="attachment-300x1000 wp-post-image" alt="ayearinmusic_matt" title="ayearinmusic_matt">	        </a>
 	<h3>
-		<a href="http://www.thefader.com/2011/06/06/kanyes-official-monster-video-shall-be-taken-as-art/">
-		  	  Kanye’s Official “Monster” Video “Shall be Taken” As Art	  	</a>
+		<a href="http://www.thefader.com/2011/12/23/a-year-in-music-matthew-schnipper/">
+		  	  A Year in Music: Matthew Schnipper	  	</a>
       </h3>
     </div> 
     				    
       <!-- 1 --> 
       <div class="item">
-		<a href="http://www.thefader.com/2011/06/02/stream-zombys-dedication-lp/">
-			<img width="300" height="200" src="http://cdn.thefader.com/wp-content/uploads/2011/06/zomby-300x200.jpg" class="attachment-300x1000 wp-post-image" alt="zomby" title="zomby">	        </a>
-	<h3>
-		<a href="http://www.thefader.com/2011/06/02/stream-zombys-dedication-lp/">
-		  	  Stream: Zomby’s Dedication LP	  	</a>
-      </h3>
-    </div> 
-    				    
-      <!-- 1 --> 
-      <div class="item">
-		<a href="http://www.thefader.com/2011/05/25/newly-leaked-songs-from-the-weeknd/">
-			<img width="300" height="199" src="http://cdn.thefader.com/wp-content/uploads/2011/05/the_weeknd-300x199.jpg" class="attachment-300x1000 wp-post-image" alt="the_weeknd" title="the_weeknd">	        </a>
-	<h3>
-		<a href="http://www.thefader.com/2011/05/25/newly-leaked-songs-from-the-weeknd/">
-		  	  Newly Leaked Songs From The Weeknd	  	</a>
-      </h3>
-    </div> 
-    				    
-      <!-- 1 --> 
-      <div class="item">
-		<a href="http://www.thefader.com/2011/05/18/kreayshawn-is-good-and-weird-odd-future-guys-agree/">
-			<img width="300" height="200" src="http://cdn.thefader.com/wp-content/uploads/2011/05/Safari0023-300x200.jpg" class="attachment-300x1000 wp-post-image" alt="kreayshawn" title="kreayshawn">	        </a>
-	<h3>
-		<a href="http://www.thefader.com/2011/05/18/kreayshawn-is-good-and-weird-odd-future-guys-agree/">
-		  	  Kreayshawn Is Good and Weird, Odd Future Guys Agree	  	</a>
-      </h3>
-    </div> 
-    				    
-      <!-- 1 --> 
-      <div class="item">
-		<a href="http://www.thefader.com/2011/05/18/interview-with-friendly-fires-at-the-fader-fort-by-fiat/">
-			<img src="http://cdn.thefader.com/wp-content/uploads/2011/05/friendlyfiresfort_ftd.jpg">
+		<a href="http://www.thefader.com/2011/12/22/htc-x-squared-10-yelawolf-growin-up-in-the-gutter-kill-the-noise-remix-mp3/">
+			<img src="http://cdn.thefader.com/wp-content/uploads/2011/12/HTC_COVER_No-10300x200-1.jpg">
 	        </a>
 	<h3>
-		<a href="http://www.thefader.com/2011/05/18/interview-with-friendly-fires-at-the-fader-fort-by-fiat/">
-		  	  Interview With Friendly Fires at the FADER FORT by FIAT	  	</a>
+		<a href="http://www.thefader.com/2011/12/22/htc-x-squared-10-yelawolf-growin-up-in-the-gutter-kill-the-noise-remix-mp3/">
+		  	  HTC X Squared #10: Yelawolf, “Growin Up in the Gutter (Kill The Noise Remix)” MP3	  	</a>
       </h3>
     </div> 
     				    
       <!-- 1 --> 
       <div class="item">
-		<a href="http://www.thefader.com/2011/04/11/kenneth-cole-reaction-re-play-mix-1/">
-			<img src="http://cdn.thefader.com/wp-content/uploads/2011/04/mix1final.jpg">
+		<a href="http://www.thefader.com/2011/12/22/a-year-in-music-naomi-zeichner/">
+			<img width="300" height="199" src="http://cdn.thefader.com/wp-content/uploads/2011/12/ayearinmusic_nomi-300x199.jpg" class="attachment-300x1000 wp-post-image" alt="ayearinmusic_nomi" title="ayearinmusic_nomi">	        </a>
+	<h3>
+		<a href="http://www.thefader.com/2011/12/22/a-year-in-music-naomi-zeichner/">
+		  	  A Year in Music: Naomi Zeichner	  	</a>
+      </h3>
+    </div> 
+    				    
+      <!-- 1 --> 
+      <div class="item">
+		<a href="http://www.thefader.com/2011/12/21/download-the-weeknds-echoes-of-silence/">
+			<img src="http://cdn.thefader.com/wp-content/uploads/2011/12/Echoes-Of-Silence-Cover-Art3.jpg">
 	        </a>
 	<h3>
-		<a href="http://www.thefader.com/2011/04/11/kenneth-cole-reaction-re-play-mix-1/">
-		  	  Kenneth Cole Reaction Re-Play Mix #1	  	</a>
+		<a href="http://www.thefader.com/2011/12/21/download-the-weeknds-echoes-of-silence/">
+		  	  Download The Weeknd’s Echoes of Silence	  	</a>
+      </h3>
+    </div> 
+    				    
+      <!-- 1 --> 
+      <div class="item">
+		<a href="http://www.thefader.com/2011/12/21/interview-light-asylum-at-the-fader-fort-by-fiat-nyc/">
+			<img width="300" height="199" src="http://cdn.thefader.com/wp-content/uploads/2011/10/lightasylumfortint-300x199.png" class="attachment-300x1000 wp-post-image" alt="lightasylumfortint" title="lightasylumfortint">	        </a>
+	<h3>
+		<a href="http://www.thefader.com/2011/12/21/interview-light-asylum-at-the-fader-fort-by-fiat-nyc/">
+		  	  Interview: Light Asylum at The FADER FORT by FIAT NYC	  	</a>
+      </h3>
+    </div> 
+    				    
+      <!-- 1 --> 
+      <div class="item">
+		<a href="http://www.thefader.com/2011/12/19/video-big-krits-big-country/">
+			<img width="300" height="199" src="http://cdn.thefader.com/wp-content/uploads/2011/12/fad-300x199.jpg" class="attachment-300x1000 wp-post-image" alt="fad" title="fad">	        </a>
+	<h3>
+		<a href="http://www.thefader.com/2011/12/19/video-big-krits-big-country/">
+		  	  Video: Big KRIT’s Big Country	  	</a>
+      </h3>
+    </div> 
+    				    
+      <!-- 1 --> 
+      <div class="item">
+		<a href="http://www.thefader.com/2011/12/19/the-fader-77-podcast/">
+			<img src="http://cdn.thefader.com/wp-content/uploads/2011/12/F77_Podcast_COVER_300x200_FINAL.jpg">
+	        </a>
+	<h3>
+		<a href="http://www.thefader.com/2011/12/19/the-fader-77-podcast/">
+		  	  The FADER #77 Podcast	  	</a>
+      </h3>
+    </div> 
+    				    
+      <!-- 1 --> 
+      <div class="item">
+		<a href="http://www.thefader.com/2011/12/18/the-fader-presents-listmania-2011/">
+			<img src="http://cdn.thefader.com/wp-content/uploads/2011/12/LISTMANIA_2011_sidebar.jpg">
+	        </a>
+	<h3>
+		<a href="http://www.thefader.com/2011/12/18/the-fader-presents-listmania-2011/">
+		  	  The FADER Presents: LISTMANIA 2011!	  	</a>
       </h3>
     </div> 
     
@@ -547,12 +501,11 @@ var addthis_config = {"data_track_clickback":true};</script><script type="text/j
   // What is $(document).ready ? See: http://flowplayer.org/tools/documentation/basics.html#document_ready
   $(document).ready(function() {
 
-    // initialize scrollable together with the navigator plugin
+  // initialize scrollable together with the navigator plugin
   $("#browsable").scrollable({circular: true}).navigator().autoscroll({
 	interval: 6000		
   });
 
-    
   });
 
 </script>
@@ -571,121 +524,71 @@ var addthis_config = {"data_track_clickback":true};</script><script type="text/j
 	<!-- Most Read/Most Discussed -->
 <div class="most-read-discussed">
 
-       
-
   <ul class="tabs">
     <li class="most-read-tab"><a href="#">MOST READ</a></li>
     <li class="most-discussed-tab"><a href="#">MOST DISCUSSED</a></li>
     <li class="most-recent-tab"><a href="#">MOST RECENT</a></li>
   </ul>
   <div class="panes">
-    <div class="most-read-pane">
-<!--      <ul class="time-filter">
-	<li><a href="javascript:popular_day();" class="selected">DAY</a></li>
-	<li><a href="javascript:popular_week();">WEEK</a></li>
-	<li><a href="javascript:popular_month();">MONTH</a></li>
-	<li class="last"><a href="javascript:popular_year();">YEAR</a></li>
+
+  
+<div class="most-read-pane">
+  <ul class="time-filter">
+    <li><a id="popular_day_link" href="javascript:popular_day();" class="selected">DAY</a></li>
+    <li><a id="popular_week_link" href="javascript:popular_week();">WEEK</a></li>
+    <li><a id="popular_month_link" href="javascript:popular_month();">MONTH</a></li>
+    <li class="last"><a id="popular_year_link" href="javascript:popular_year();">YEAR</a></li>
+  </ul>
+
+  <ul class="pointed-list" id="popular_day">		  
+            <li><a href="http://www.thefader.com/2011/12/29/is-beyonce-in-labor/">Is Beyonce in Labor?</a></li>
+        <li><a href="http://www.thefader.com/2011/12/18/the-fader-presents-listmania-2011/">The FADER Presents: LISTMANIA 2011!</a></li>
+        <li><a href="http://www.thefader.com/2011/11/02/video-big-sean-f-nicki-minaj-ass-remix/">Video: Big Sean f. Nicki Minaj, “Ass (Remix)”</a></li>
+        <li><a href="http://www.thefader.com/2011/08/02/video-3ball-mty-intentalo-me-prende/">Video: 3Ball MTY, “Inténtalo (Me Prende)”</a></li>
+        <li><a href="http://www.thefader.com/2011/10/06/on-the-street-soho-6/">On The Street: Soho</a></li>
+        <li><a href="http://www.thefader.com/2011/12/12/young-jeezy-f-2-chainz-superfreak-mp3/">Young Jeezy f. 2 Chainz, “Superfreak” MP3</a></li>
+        <li><a href="http://www.thefader.com/2011/12/26/interview-tyler-the-creator-on-golf-wang/">Interview: Tyler, the Creator on Golf Wang</a></li>
+        <li><a href="http://www.thefader.com/2011/12/26/stream-frank-ocean-4-tears/">Stream: Frank Ocean, “4 Tears”</a></li>
+        <li><a href="http://www.thefader.com/2011/12/25/the-most-wonderful-mixtape-day-of-the-year-downloads-from-lil-b-squadda-b-and-mr-muthafuckin-exquire/">The Most Wonderful Mixtape Day of the Year: Downloads from Lil B, Squadda B and Mr. Muthafuckin’ eXquire</a></li>
+        <li><a href="http://www.thefader.com/2011/12/21/download-the-weeknds-echoes-of-silence/">Download The Weeknd’s Echoes of Silence</a></li>
       </ul>
 
--->
+  <ul class="pointed-list" id="popular_week">		  
+              </ul>
 
-      <ul class="pointed-list" id="popular_day">		  
-			<li><a href="http://www.thefader.com/2011/06/09/drake-marvins-room-mp3/">Drake, “Marvins Room” MP3</a></li>
-		<li><a href="http://www.thefader.com/2011/06/07/beyonce-f-andre-3000-party-prod-by-kanye-west-consequence-mp3/">Beyonce f. Andre 3000, “Party” (Prod. by Kanye West &amp; Consequence) MP3</a></li>
-		<li><a href="http://www.thefader.com/2011/06/09/interview-kreayshawn/">Interview: Kreayshawn</a></li>
-		<li><a href="http://www.thefader.com/2011/06/08/beyonces-entire-album-4-leaks-online-countdown-mp3/">Beyonce’s Entire Album 4 Leaks Online + “Countdown” MP3</a></li>
-		<li><a href="http://www.thefader.com/2011/05/18/kreayshawn-is-good-and-weird-odd-future-guys-agree/">Kreayshawn Is Good and Weird, Odd Future Guys Agree</a></li>
-		<li><a href="http://www.thefader.com/2011/06/09/video-151-feva-gang-kush-groove/">Video: 151 Feva Gang, “Kush Groove”</a></li>
-		<li><a href="http://www.thefader.com/2011/06/09/beyonce-responds-to-her-album-leak/">Beyonce Responds to Her Album Leak</a></li>
-		<li><a href="http://www.thefader.com/2011/06/08/girl-stop-kreayshawn-signs-massive-deal-with-columbia/">Girl Stop: Kreayshawn Signs Massive Deal With Columbia</a></li>
-		<li><a href="http://www.thefader.com/2011/06/08/feature-kanye-wests-time-has-come/">FEATURE: Kanye West’s Time Has Come</a></li>
-		<li><a href="http://www.thefader.com/2011/04/28/this-new-gold-panda-and-star-slinger-video-is-about-to-inspire-a-lot-of-romantic-ideas/">This New Gold Panda and Star Slinger Video is About to Inspire a Lot of Romantic Ideas</a></li>
-	      </ul>
+  <ul class="pointed-list" id="popular_month">		  
+          </ul>
 
-      <ul class="pointed-list" id="popular_week">		  
-			      </ul>
+  <ul class="pointed-list" id="popular_year">		  
+          </ul>
 
-      <ul class="pointed-list" id="popular_month">		  
-		      </ul>
-
-      <ul class="pointed-list" id="popular_year">		  
-		      </ul>
-
-    </div>
+</div>
+       
 
     <div class="most-discussed-pane">
       <ul class="time-filter">
-	<li><a href="javascript:discussed_day();" class="selected">DAY</a></li>
-	<li><a href="javascript:discussed_week();">WEEK</a></li>
-	<li><a href="javascript:discussed_month();">MONTH</a></li>
-	<li class="last"><a href="javascript:discussed_year();">YEAR</a></li>
+	<li><a id="discussed_day_link" href="javascript:discussed_day();" class="selected">DAY</a></li>
+	<li><a id="discussed_week_link" href="javascript:discussed_week();">WEEK</a></li>
+	<li><a id="discussed_month_link" href="javascript:discussed_month();">MONTH</a></li>
+	<li class="last"><a id="discussed_year_link" href="javascript:discussed_year();">YEAR</a></li>
       </ul>
 
       <ul class="pointed-list" id="discussed_day">
-			<li><a href="http://www.thefader.com/2011/05/23/beyonce-role-model-of-this-millennium-ran-the-billboard-music-awards/">Beyonce Runs the Billboard Awards, Crowned Role Model of the Millenium</a></li>
-		<li><a href="http://www.thefader.com/2011/06/06/keyboard-kids-video-games-and-blunts-vol-1-mixtape/">Keyboard Kid’s Video Games and Blunts Vol. 1 Mixtape</a></li>
-		<li><a href="http://www.thefader.com/2011/05/22/get-posters-of-colin-hawkins-and-seymour-chwasts-notorious-big-portraits-in-the-fader-store/">Get Posters of Colin Hawkins and Seymour Chwast’s Notorious BIG Portraits in the FADER Store</a></li>
-		<li><a href="http://www.thefader.com/2011/06/09/video-cyhi-documentary/">Video: CyHi Documentary</a></li>
-		<li><a href="http://www.thefader.com/2011/06/09/premiere-inc-swear-mp3/">Premiere: Inc., “Swear” MP3</a></li>
-		<li><a href="http://www.thefader.com/2011/06/09/interview-kreayshawn/">Interview: Kreayshawn</a></li>
-		<li><a href="http://www.thefader.com/2011/05/16/lil-bs-bitch-mob-respect-da-bitch-vol-1-mixtape/">Lil B’s Bitch Mob Respect Da Bitch Vol. 1 Mixtape</a></li>
-		<li><a href="http://www.thefader.com/2011/05/18/kreayshawn-is-good-and-weird-odd-future-guys-agree/">Kreayshawn Is Good and Weird, Odd Future Guys Agree</a></li>
-		<li><a href="http://www.thefader.com/2011/05/18/interview-with-friendly-fires-at-the-fader-fort-by-fiat/">Interview With Friendly Fires at the FADER FORT by FIAT</a></li>
-		<li><a href="http://www.thefader.com/2011/06/08/girl-stop-kreayshawn-signs-massive-deal-with-columbia/">Girl Stop: Kreayshawn Signs Massive Deal With Columbia</a></li>
-	      </ul>
+			      </ul>
 
       <ul class="pointed-list" id="discussed_week">
-			<li><a href="http://www.thefader.com/2011/05/23/beyonce-role-model-of-this-millennium-ran-the-billboard-music-awards/">Beyonce Runs the Billboard Awards, Crowned Role Model of the Millenium</a></li>
-		<li><a href="http://www.thefader.com/2011/06/06/keyboard-kids-video-games-and-blunts-vol-1-mixtape/">Keyboard Kid’s Video Games and Blunts Vol. 1 Mixtape</a></li>
-		<li><a href="http://www.thefader.com/2011/05/22/get-posters-of-colin-hawkins-and-seymour-chwasts-notorious-big-portraits-in-the-fader-store/">Get Posters of Colin Hawkins and Seymour Chwast’s Notorious BIG Portraits in the FADER Store</a></li>
-		<li><a href="http://www.thefader.com/2011/06/07/beyonce-f-andre-3000-party-prod-by-kanye-west-consequence-mp3/">Beyonce f. Andre 3000, “Party” (Prod. by Kanye West &amp; Consequence) MP3</a></li>
-		<li><a href="http://www.thefader.com/2011/06/06/video-pill-documentary/">Video: Pill Documentary</a></li>
-		<li><a href="http://www.thefader.com/2011/05/18/kreayshawn-is-good-and-weird-odd-future-guys-agree/">Kreayshawn Is Good and Weird, Odd Future Guys Agree</a></li>
-		<li><a href="http://www.thefader.com/2011/06/09/video-cyhi-documentary/">Video: CyHi Documentary</a></li>
-		<li><a href="http://www.thefader.com/2011/05/12/vybz-kartel-got-hair-extensions-looks-weirder-than-ever/">Vybz Kartel Got Hair Extensions, Looks Weirder Than Ever</a></li>
-		<li><a href="http://www.thefader.com/2011/06/08/girl-stop-kreayshawn-signs-massive-deal-with-columbia/">Girl Stop: Kreayshawn Signs Massive Deal With Columbia</a></li>
-		<li><a href="http://www.thefader.com/2011/06/09/interview-kreayshawn/">Interview: Kreayshawn</a></li>
-	      </ul>
+		      </ul>
 
       <ul class="pointed-list" id="discussed_month">
-			<li><a href="http://www.thefader.com/2011/05/23/beyonce-role-model-of-this-millennium-ran-the-billboard-music-awards/">Beyonce Runs the Billboard Awards, Crowned Role Model of the Millenium</a></li>
-		<li><a href="http://www.thefader.com/2011/06/06/keyboard-kids-video-games-and-blunts-vol-1-mixtape/">Keyboard Kid’s Video Games and Blunts Vol. 1 Mixtape</a></li>
-		<li><a href="http://www.thefader.com/2011/05/27/video-justice-civilization/">Video: Justice, “Civilization”</a></li>
-		<li><a href="http://www.thefader.com/2011/05/22/get-posters-of-colin-hawkins-and-seymour-chwasts-notorious-big-portraits-in-the-fader-store/">Get Posters of Colin Hawkins and Seymour Chwast’s Notorious BIG Portraits in the FADER Store</a></li>
-		<li><a href="http://www.thefader.com/2011/05/18/kreayshawn-is-good-and-weird-odd-future-guys-agree/">Kreayshawn Is Good and Weird, Odd Future Guys Agree</a></li>
-		<li><a href="http://www.thefader.com/2011/05/12/vybz-kartel-got-hair-extensions-looks-weirder-than-ever/">Vybz Kartel Got Hair Extensions, Looks Weirder Than Ever</a></li>
-		<li><a href="http://www.thefader.com/2011/06/07/beyonce-f-andre-3000-party-prod-by-kanye-west-consequence-mp3/">Beyonce f. Andre 3000, “Party” (Prod. by Kanye West &amp; Consequence) MP3</a></li>
-		<li><a href="http://www.thefader.com/2011/05/26/beyonce-11-mp3/">Beyonce, “1+1″ MP3</a></li>
-		<li><a href="http://www.thefader.com/2011/06/06/video-pill-documentary/">Video: Pill Documentary</a></li>
-		<li><a href="http://www.thefader.com/2011/06/03/hodgy-beats-april-27th-prod-by-uzii-mp3/">Hodgy Beats, “April 27th” (Prod. by Uzii) MP3</a></li>
-	      </ul>
+		      </ul>
 
       <ul class="pointed-list" id="discussed_year">
-			<li><a href="http://www.thefader.com/2011/05/23/beyonce-role-model-of-this-millennium-ran-the-billboard-music-awards/">Beyonce Runs the Billboard Awards, Crowned Role Model of the Millenium</a></li>
-		<li><a href="http://www.thefader.com/2011/03/08/rsvp-to-the-fader-fort-by-fiat/">RSVP to the FADER FORT by FIAT</a></li>
-		<li><a href="http://www.thefader.com/2011/06/06/keyboard-kids-video-games-and-blunts-vol-1-mixtape/">Keyboard Kid’s Video Games and Blunts Vol. 1 Mixtape</a></li>
-		<li><a href="http://www.thefader.com/2011/02/23/introducing-the-fader-fort-by-fiat/">Introducing: The FADER FORT by FIAT</a></li>
-		<li><a href="http://www.thefader.com/2011/05/27/video-justice-civilization/">Video: Justice, “Civilization”</a></li>
-		<li><a href="http://www.thefader.com/2010/06/16/contest-win-a-pitch-perfect-megapack-from-nike-sportswear-and-the-fader/">Contest: Win a PITCH PERFECT Megapack from Nike Sportswear and The FADER</a></li>
-		<li><a href="http://www.thefader.com/2011/05/22/get-posters-of-colin-hawkins-and-seymour-chwasts-notorious-big-portraits-in-the-fader-store/">Get Posters of Colin Hawkins and Seymour Chwast’s Notorious BIG Portraits in the FADER Store</a></li>
-		<li><a href="http://www.thefader.com/2011/05/18/kreayshawn-is-good-and-weird-odd-future-guys-agree/">Kreayshawn Is Good and Weird, Odd Future Guys Agree</a></li>
-		<li><a href="http://www.thefader.com/2010/09/20/nyc-win-tickets-to-see-drake-at-radio-city-music-hall/">NYC: Win Tickets to See Drake at Radio City Music Hall</a></li>
-		<li><a href="http://www.thefader.com/2011/05/06/contest-win-four-remastered-beastie-boys-records/">Contest: Win Four Remastered Beastie Boys Records</a></li>
-	      </ul>
+		      </ul>
 
     </div>
     <div class="most-recent-pane">
-      <ul class="pointed-list">
-       	<li><a href="http://www.thefader.com/2011/06/09/drake-marvins-room-mp3/">Drake, “Marvins Room” MP3</a></li>
-		<li><a href="http://www.thefader.com/2011/06/09/video-memory-tapes-yes-i-know/">Video: Memory Tapes, “Yes I Know”</a></li>
-		<li><a href="http://www.thefader.com/2011/06/09/delorean-grow-taragana-pyjarama-remix-mp3/">Delorean, “Grow” (Taragana Pyjarama Remix) MP3</a></li>
-		<li><a href="http://www.thefader.com/2011/06/09/blood-diamonds-grins-mp3/">Blood Diamonds, “Grins” MP3</a></li>
-		<li><a href="http://www.thefader.com/2011/06/09/young-thugs-i-came-from-nothing-mixtape/">Young Thug’s I Came From Nothing Mixtape</a></li>
-		<li><a href="http://www.thefader.com/2011/06/09/on-the-street-shelly-colvin-at-billy-reid-shindig/">On The Street: Shelly Colvin at Billy Reid Shindig</a></li>
-		<li><a href="http://www.thefader.com/2011/06/09/video-151-feva-gang-kush-groove/">Video: 151 Feva Gang, “Kush Groove”</a></li>
-		<li><a href="http://www.thefader.com/2011/06/09/tim-hamiltons-shiny-graphic-fall-collection/">Tim Hamilton’s Shiny, Graphic Fall Collection</a></li>
-		<li><a href="http://www.thefader.com/2011/06/09/interview-kreayshawn/">Interview: Kreayshawn</a></li>
-		<li><a href="http://www.thefader.com/2011/06/09/moma-ps1-announces-2011-warm-up-series/">MoMA PS1 Announces 2011 Warm Up Series</a></li>
+      <ul class="pointed-list" id="most_recent"> 
+              
 					
       </ul>
     </div>
@@ -702,7 +605,22 @@ var addthis_config = {"data_track_clickback":true};</script><script type="text/j
 // perform JavaScript after the document is scriptable.
 $(function() {
 	// setup ul.tabs to work as tabs for each div directly under div.panes
-	$("ul.tabs").tabs("div.panes > div");
+	$("ul.tabs").tabs("div.panes > div", {
+
+	  onClick: function(event, tabIndex) {
+            // "this" is a reference to the Tabs API
+
+	    if (tabIndex == 1) {
+	      //alert("discussed");
+	      discussed_day();
+	    } else if (tabIndex == 2) {
+	      most_recent();
+	    }
+
+	  }
+	  
+	});
+
 });
 </script>
 	
@@ -818,6 +736,8 @@ $(function() {
 </div>
 <!-- SIDEBAR END -->	</div><!-- #main -->
 
+	<div class="footer-wrapper">
+	
 	<div id="footer">
 		<div>
 		<span class="inner"><a href="http://www.faderfilms.com/" target="_new">Fader Films</a></span>
@@ -832,12 +752,13 @@ $(function() {
 	    </div>  
 	</div><!-- #footer -->
 
+        </div>
+
 	<!-- NEEDS CODE -->
 		      
 	<div class="banner-ad bottom-banner-ad">
 
-	  <script type="text/javascript">
-	    GA_googleFillSlot("fader_homepage_footer_728x90");	  </script>
+	    	  <iframe id="refreshable_ad_footer" class="ad refresher" src="http://www.thefader.com/wp-content/themes/fadernew/ad_frame.php?ad_slot=fader_homepage_footer_728x90" width="728" height="90" vspace="0" hspace="0" scrolling="no" frameborder="0" marginheight="0" bordercolor="#000000" marginwidth="0"></iframe>';	      
 
 	</div>
 		      
@@ -855,16 +776,46 @@ var pollsL10n = {
 </script>
 <script type="text/javascript" src="http://www.thefader.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.50"></script>
 
-<!-- AddThis Button Begin -->
-<script type="text/javascript">var addthis_product = 'wpp-258';
-var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=thefader"></script>
 </div><!-- #wrapper -->
 
 <script>
 // Load the classic theme
 //Galleria.loadTheme('galleria.classic.js');
 // Initialize Galleria
-$j('#gallery').galleria();
+		
+				  
+$j('.galleria-gallery').galleria({
+  width: 620,
+  height: 413 + 92,
+  imageCrop: false,
+  maxScaleRatio: 1,
+  debug: true,
+  imageMargin: 0,
+  imagePosition: "top center"
+});
+
+
+
+
+$j(Galleria.get()).each(function(gindex) { 
+        //console.log(gallery);
+		       
+        var gallery = Galleria.get(gindex);
+
+	gallery.bind('image', function(e) {
+	//console.log(e.index); // the image index
+
+	$j('#refreshable_ad_top').attr('src', $('#refreshable_ad_top').attr('src'));
+	$j('#refreshable_ad_footer').attr('src', $('#refreshable_ad_footer').attr('src'));
+	$j('#refreshable_ad_detail').attr('src', $('#refreshable_ad_detail').attr('src'));
+	$j('#refreshable_ad_sidebar_big').attr('src', $('#refreshable_ad_sidebar_big').attr('src'));
+	$j('#refreshable_ad_sidebar_small').attr('src', $('#refreshable_ad_sidebar_small').attr('src'));
+  
+	parent.location.hash = "/"+e.index;
+    });
+
+});
+
 </script>
 
 <!-- Start Quantcast tag -->
@@ -876,26 +827,6 @@ $j('#gallery').galleria();
 <!-- End Quantcast tag -->
 
 <script type="text/javascript" src="http://cetrk.com/pages/scripts/0001/3993.js"> </script>
-
-<script type="text/javascript">
-var _sf_async_config={uid:8132,domain:"thefader.com"};
-(function(){
-  function loadChartbeat() {
-    window._sf_endpt=(new Date()).getTime();
-    var e = document.createElement('script');
-    e.setAttribute('language', 'javascript');
-    e.setAttribute('type', 'text/javascript');
-    e.setAttribute('src',
-       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
-       "static.chartbeat.com/js/chartbeat.js");
-    document.body.appendChild(e);
-  }
-  var oldonload = window.onload;
-  window.onload = (typeof window.onload != 'function') ?
-     loadChartbeat : function() { oldonload(); loadChartbeat(); };
-})();
-
-</script>
 
 <script type="text/javascript">
     __compete_code = 'b48e562a127c521723ace4e307139cee';
@@ -913,6 +844,34 @@ var _sf_async_config={uid:8132,domain:"thefader.com"};
     }());
 </script>
 
+<!-- newsbeat -->
+<script type="text/javascript">
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 8132;
+    _sf_async_config.domain = 'thefader.com';
+    _sf_async_config.sections = '';
+
+        _sf_async_config.authors = 'thefader';
+    
+    /** CONFIGURATION END **/
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+           (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+           'js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+
 
 
 
@@ -921,8 +880,8 @@ var _sf_async_config={uid:8132,domain:"thefader.com"};
 
 Minified using memcached
 Page Caching using apc
-Database Caching 39/54 queries in 0.012 seconds using memcached
-Object Caching 1227/1294 objects using apc
+Database Caching 48/60 queries in 0.023 seconds using memcached
+Object Caching 1004/1247 objects using apc
 Content Delivery Network via cdn.thefader.com
 
-Served from: www.thefader.com @ 2011-06-10 12:05:11 --><script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+Served from: www.thefader.com @ 2011-12-31 22:23:32 --><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
