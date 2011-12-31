@@ -1,23 +1,6 @@
-> *The following text is extracted and transformed from the webcheatsheet.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430023836id_/http%3A//www.webcheatsheet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcheatsheet.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112522id_/http%3A//www.webcheatsheet.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**Got questions?**
-
- **We got answers.**
-
-[Ask your question](http://ask.webcheatsheet.com/) about PHP, ASP, Javascript, HTML, CSS, hosting and get professional help, free of charge. 
-
-**Subscription**
-
-Sign up for the free email newsletter for new tips, tutorials and more. Enter your email address below, and then click the button.
-
-[Privacy Policy](http://www.webcheatsheet.com/privacy.php)
-
-[](http://feeds2.feedburner.com/WebcheatsheetcomRssFeed) [](http://twitter.com/webcheatsheet)
-
-|   
-|  | 
 
 This is the privacy policy for the WebCheatSheet.com Web site. Our policy is simple - we do not sell or give your personal information to anyone at any time, ever!
 
@@ -38,7 +21,3 @@ This site contains links to other sites. WebCheatSheet.com is not responsible fo
 Contacting the Web Site
 
 If you have any questions or suggestions regarding this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.webcheatsheet.com/feedback.php).
-
-|   
----|---  
-| 
