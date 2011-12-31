@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.wy.us privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515200059id_/http%3A//attorneygeneral.state.wy.us/privac2.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.wy.us privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213454id_/http%3A//attorneygeneral.state.wy.us/privac2.htm) for the most accurate reproduction.*
 
 # Wyoming Attorney General Official Website
 
