@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the travelyaari.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423234210id_/http%3A//www.travelyaari.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelyaari.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223301id_/http%3A//www.travelyaari.com/privacy) for the most accurate reproduction.*
 
 # Travelyaari.com - Privacy Policy
-
-Privacy Policy
 
 Travelyaari respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. We would like to assure you that we follow appropriate standards when it comes to protecting your privacy on our web sites. In general, you can visit Travelyaari website without telling us who you are or revealing any personal information about yourself. We track the Internet address of the domains from which people visit us and analyze this data for trends and statistics, but the individual user remains anonymous. 
 
@@ -15,13 +13,3 @@ If our privacy policy changes in the future, it will be posted here and a new ef
 Thank you for using TraveYaari! 
 
 We appreciate your business
-
-##  HOW IS TRAVELYAARI DIFFERENT
-
-  * Book **bus tickets** "live". No request booking
-  * ##  Largest bus ticket inventory for 5000+ [ bus routes](http://www.travelyaari.com/bus-tickets/cities.htm)
-
-  * Pay only bus ticket price. No additional charge
-  * Return bus ticket booking and [cancellation](https://web.archive.org/web/20110423234210id_/http%3A//www.travelyaari.com/GetBookingDetails.aspx?cmd=Cancel) facility
-
-
