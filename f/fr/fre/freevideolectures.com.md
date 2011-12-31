@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freevideolectures.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215134634id_/http%3A//freevideolectures.com/Pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freevideolectures.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223758id_/http%3A//freevideolectures.com/Pages/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -24,6 +24,10 @@
 
 
   * If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+
+
+  * ### If you believe that your work has been copied in a way that constitutes copyright infringement, or that your intellectual property rights have been otherwise violated, please provide us with the URL of where your copyrighted material is located. We promptly remove or disable access to the material.
+
 
   
 For any queries mail us at ak[@]freevideolectures.com  
