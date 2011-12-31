@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lucidimagination.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428212823id_/http%3A//www.lucidimagination.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucidimagination.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205933id_/http%3A//www.lucidimagination.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lucid Imagination
 
 This Privacy Policy statement describes our practices regarding how information we collect on the Lucid Imagination Web sites is used and shared with third parties. By visiting the Lucid Imagination Web sites, you accept the practices described in this statement. This statement applies to anonymous data and personal information collected at the Lucid Imagination Web sites. This statement also applies to personally identifiable customer information collected in connection with the sale, support and use of Lucid Imagination Products and Services.
 
-**Part I. Information Collection**
+## Part I. Information Collection
 
 Lucid Imagination collects personally identifiable information through our Web sites. This information is used in e-commerce transactions and to provide customer service and support.
 
@@ -18,7 +18,7 @@ If you do not wish Lucid Imagination to use your information as described in thi
 
 In order to protect the privacy interests of younger Internet users, we do not actively market our Web sites or products to children under 13. We do not knowingly collect information from children under 13 for marketing purposes. We encourage children of any age to visit our Web sites or to use our Products and Service only with the supervision of their parents.
 
-**Part II. Information Usage**
+## Part II. Information Usage
 
 Information collected by Lucid Imagination is used to understand how customers are using our Products and Services in order to make them better.
 
@@ -38,20 +38,20 @@ Our Web sites offer a space for postings and submissions. Please be advised that
 
 Finally, please be assured that Lucid Imagination does not sell information collected from customers.
 
-**Part III. Access to Your Information**
+## Part III. Access to Your Information
 
 If you wish to correct or delete of any of your personal information held by us or a change in the way we use your information, please contact support at [info@lucidimagination.com](mailto:info@lucidimagination.com). We will use commercially reasonable efforts to fulfill your request in a timely manner, but not more than 30 days. However, even if Lucid Imagination deletes such personal information from its 'live' database, it may still be stored on other databases (including those kept for archival purposes).
 
-**Part IV. Data Storage and Security**
+## Part IV. Data Storage and Security
 
 Lucid Imagination uses industry-standard methods of securing its electronic databases of personal information. Except as provided elsewhere in this privacy policy, Lucid Imagination limits access to personal information in electronic databases to those persons in Lucid Imagination's organization who have a business need for such access. However, you should know that no Lucid Imagination, including Lucid Imagination, can fully eliminate security risks associated with personal information.
 
 Your privacy is very important to us. Due to factors beyond our control, however, we cannot fully ensure that your personal information will not be disclosed to third parties other than those mentioned above. For example, we may be legally required to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications.
 
-**Part V. Modifications**
+## Part V. Modifications
 
 We may amend this privacy policy at any time by posting the amended version on our web sites.
 
-**Part VI. Contact Information**
+## Part VI. Contact Information
 
 If you have any questions regarding this privacy policy, please contact support. We will use commercially reasonable efforts to resolve disputes within 90 days.
