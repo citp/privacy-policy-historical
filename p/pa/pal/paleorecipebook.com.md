@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paleorecipebook.com privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218060249id_/http%3A//paleorecipebook.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paleorecipebook.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231225300id_/http%3A//paleorecipebook.com/privacy.html) for the most accurate reproduction.*
 
 # Paleo Recipe Book | Privacy policy
 
