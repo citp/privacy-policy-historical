@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uimn.org privacy policy that was archived on 2011-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110112223016id_/http%3A//www.positivelyminnesota.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uimn.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223850id_/http%3A//www.positivelyminnesota.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for State of Minnesota Department of Employment and Economic Development (DEED) website
 
@@ -20,7 +20,7 @@ If you choose to identify yourself by sending us an e-mail or completing our onl
 
 DEED websites use Secure Socket Layering (SSL) to encrypt data on our forms that request or require private data; SSL technology is the industry standard for secure online transactions. We may retain this information in our files, either in electronic form or hardcopy. Some of this information is public data under the Minnesota Government Data Practices Act.
 
-Information e-mailed to us via the Internet is not secure and can be intercepted and read by others. We recommend that you not use e-mail to send us private or sensitive data about yourself or others unless the data is encoded or encrypted. Also, users are cautioned that the collection of personal information requested from or volunteered by children on-line or by e-mail will be treated the same as information given by an adult and may be subject to public access.
+Information e-mailed to us via the Internet is not secure and could be intercepted and read by others. We recommend that you not use e-mail to send us private or sensitive data about yourself or others unless the data is encoded or encrypted. Also, users are cautioned that the collection of personal information requested from or volunteered by children online or by e-mail will be treated the same as information given by an adult and may be subject to public access.
 
 **Your Rights as the Subject of Government Data  
 **The Minnesota Government Data Practices Act governs your right to see and know about the data that government entities collect, keep, or can release about you:
@@ -48,9 +48,7 @@ Minnesota Department of Employment and Economic Development
 1st National Bank Building  
 332 Minnesota Street, Suite E200  
 Saint Paul, MN 55101-1351  
-Voice: (651) 259-7193  
-TTY/TTD: (651) 296-3900  
-E-mail: [Deb.Serum@state.mn.us](mailto:deb.serum@state.mn.us)
+Voice: (651) 259-7193; TTY/TTD: (651) 296-3900; E-mail: [Deb.Serum@state.mn.us](mailto:deb.serum@state.mn.us)
 
 * **DEED Websites:**
 
@@ -58,8 +56,8 @@ E-mail: [Deb.Serum@state.mn.us](mailto:deb.serum@state.mn.us)
   * www.focusonability.net
   * www.gwdc.org
   * www.minnesota-china.com
-  * www.minnesotaworks.net
-  * www.mnpro.com
+  * www.MinnesotaWorks.net
+  * www.mnprospector.com
   * www.mnsilc.org
   * www.uimn.org
 
