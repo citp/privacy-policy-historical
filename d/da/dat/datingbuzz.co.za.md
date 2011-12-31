@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datingbuzz.co.za privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125164617id_/http%3A//www.datingbuzz.co.za/s/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingbuzz.co.za privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231060748id_/http%3A//www.datingbuzz.co.za/s/help/privacy.php) for the most accurate reproduction.*
 
-# DatingBuzz SA - Privacy Policy
+# DatingBuzz South Africa - Privacy Policy
 
 ### Privacy Policy
 
@@ -16,7 +16,7 @@ You can freely update all of your personal information including username, email
 
 #### 3\. Your Password
 
-It is vital that your keep your password safe to prevent unauthorised access to your personal information. If you believe that your password has been compromised for any reason please CHANGE it immediately.
+It is vital that you keep your password safe to prevent unauthorised access to your personal information. If you believe that your password has been compromised for any reason please CHANGE it immediately.
 
 #### 4\. Cookies
 
@@ -49,12 +49,16 @@ We may internally use your information to improve our services, analyse site usa
 
 #### 10\. Tell a Friend Services
 
-Our site includes various 'tell a friend' services. Your friends will never receive unsolicited email from us and, once your 'tell a friend' email is sent, they will never hear from us again unless they choose to become members themselves. You may not use the 'tell a friend' services to send spam
+Our site includes various 'tell a friend' services. Your friends will never receive unsolicited email from us and, once your 'tell a friend' email is sent, they will never hear from us again unless they choose to become members themselves. You may not use the 'tell a friend' services to send spam.
 
-#### 11\. Security
+#### 11\. Social Network Sharing
+
+Our members and site visitors have the option to share a profile they like with their friends on social networks such as Facebook, Twitter, etc. We will never disclose any personal details supplied by members that are not publicly displayed on the member's profile.
+
+#### 12\. Security
 
 Our technical team do their utmost to ensure the security of our systems. Internet Security is a complex topic and no system can be considered 100% secure. Should a security breach occur we would endeavour to react as fast as possible to remedy the problem. However we cannot assume responsibility for member details compromised in the unlikely event of a security breach.
 
-#### 12\. Changes to This Policy
+#### 13\. Changes to This Policy
 
 If we make material changes to our privacy policy, these changes will be posted to our privacy policy page. You should review this page regularly for updates.
