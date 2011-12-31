@@ -1,106 +1,175 @@
-<!--The following is the downloaded HTML source of the votigo.com privacy policy that was archived on 2010-01-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100102174051id_/http%3A//votigo.com/corp/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the votigo.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231211110id_/http%3A//www.votigo.com/corp/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Votigo social media solutions - Privacy Policy</title>
-  <meta name="Description" content="Votigo custom Video contest promotions, viral video contests, video galleries, photo gallery, image gallery, contest rules, sweepstakes rules, photo contests, online promotions.">
+<!-- server name:www.votigo.com server ip: 192.168.1.181 -->
+      <meta name="Description" content="Votigo custom Video contest promotions, viral video contests, video galleries, photo gallery, image gallery, contest rules, sweepstakes rules, photo contests, online promotions.">
   <meta name="keywords" content="video contest, video contests, photo contest, photo contests, social networking, contest platform, image gallery, viral marketing, contests, online promotions">
-  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
   <meta name="author" content="Votigo, Inc.">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="robots" content="index,follow">
-  <link rel="Shortcut Icon" href="http://corp.votigo.com/favicon.ico">
+  <link rel="Shortcut Icon" href="http://www.votigo.com/favicon.ico">
   <link rel="image_src" type="image/jpeg" href="http://www.votigo.com/corp/img/votigo-logo.gif">
   <meta name="title" content="Video Contest, Video Contests, Photo contests, online promotions">
-  <link href="/corp/css/common.css?v=13" rel="stylesheet" type="text/css">
-  <script type="text/javascript" src="http://w.sharethis.com/widget/?tabs=email%2Cpost%2Cweb&amp;charset=utf-8&amp;style=default&amp;publisher=bdbbc573-47c6-4f4c-a8da-f858539e036d&amp;popup=true&amp;embeds=true"></script>
-</head>
+  <script type="text/javascript" src="/corp/js/jquery-1.4.2.min.js"></script>
+  <script type="text/javascript" src="/corp/js/sample.js"></script>
+  <script type="text/javascript" src="/corp/js/jquery.jcoverflip.js"></script>
+  <script src="/colorbox/jquery.colorbox.js" type="text/javascript"></script>
+  <link href="/colorbox/colorbox.css?v=11" media="screen" rel="stylesheet" type="text/css">
+  <script type="text/javascript" src="/corp/js/jquery.betterTooltip.js"></script>
+   <script type="text/javascript">
+		$(document).ready(function(){
+			$('.tTip').betterTooltip({speed: 150, delay: 300});
+		});
+	</script>
+    <script>
+    var curentelement;
+    var currentgall;
+    function showGallery() {
+    	$.colorbox({
+            width : "1020px",
+            height : "420px",
+			inline : true,
+    		href : "#maingallerywrap",
+	    	onOpen : function() {
+		    	$("#maingallerywrap").show();
+		    },
+			onCleanup : function() {
+    			if((curentelement != null) && (currentgall != null)){
+        			document.getElementById(currentgall).style.display = "block";
+        			document.getElementById(curentelement).style.display = "none";
+    			}
+    			$("#maingallerywrap").hide();
+	    	}
+	    	
+	    });
+    }
+
+    function showGallery1(showId, hideId) {
+        document.getElementById(showId).style.display = "block";
+    	document.getElementById(hideId).style.display = "none";
+    	$.colorbox.resize();
+    }
+
+    function setDisplayEle(galleryId,eleId) {
+        curentelement=eleId;
+    	currentgall=galleryId;
+    }
+    
+   jQuery( document ).ready( function(){
+       jQuery( '#flip' ).jcoverflip({
+         current: 1,
+         beforeCss: function( el, container, offset ){
+           return [
+             $.jcoverflip.animationElement( el, { left: ( container.width( )/2 - 210 - 110*offset + 20*offset )+'px', bottom: '0px' }, { } ),
+             $.jcoverflip.animationElement( el.find( 'img' ), { width: Math.max(10,100-20*offset*offset) + 'px' }, {} )
+           ];
+         },
+         afterCss: function( el, container, offset ){
+           return [
+             $.jcoverflip.animationElement( el, { left: ( container.width( )/2 + 110 + 110*offset )+'px', bottom: '0px' }, { } ),
+             $.jcoverflip.animationElement( el.find( 'img' ), { width: Math.max(10,100-20*offset*offset) + 'px' }, {} )
+           ];
+         },
+         currentCss: function( el, container ){
+           return [
+             $.jcoverflip.animationElement( el, { left: ( container.width( )/2 - 100 )+'px', bottom: 0 }, { } ),
+             $.jcoverflip.animationElement( el.find( 'img' ), { width: '200px' }, { } )
+           ];
+         },
+         change: function(event, ui){
+           jQuery('#scrollbar').slider('value', ui.to*25);
+         }
+       });
+       
+       
+       jQuery('#scrollbar').slider({
+         value: 50,
+         stop: function(event, ui) {
+           if(event.originalEvent) {
+             var newVal = Math.round(ui.value/25);
+             jQuery( '#flip' ).jcoverflip( 'current', newVal );
+             jQuery('#scrollbar').slider('value', newVal*25);
+           }
+         }
+       });
+     });
+    </script>
+  <script>
+(function($){$.browserTest=function(a,z){var u='unknown',x='X',m=function(r,h){for(var i=0;i<h.length;i=i+1){r=r.replace(h[i][0],h[i][1]);}return r;},c=function(i,a,b,c){var r={name:m((a.exec(i)||[u,u])[1],b)};r[r.name]=true;r.version=(c.exec(i)||[x,x,x,x])[3];if(r.name.match(/safari/)&&r.version>400){r.version='2.0';}if(r.name==='presto'){r.version=($.browser.version>9.27)?'futhark':'linear_b';}r.versionNumber=parseFloat(r.version,10)||0;r.versionX=(r.version!==x)?(r.version+'').substr(0,1):x;r.className=r.name+r.versionX;return r;};a=(a.match(/Opera|Navigator|Minefield|KHTML|Chrome/)?m(a,[[/(Firefox|MSIE|KHTML,\slike\sGecko|Konqueror)/,''],['Chrome Safari','Chrome'],['KHTML','Konqueror'],['Minefield','Firefox'],['Navigator','Netscape']]):a).toLowerCase();$.browser=$.extend((!z)?$.browser:{},c(a,/(camino|chrome|firefox|netscape|konqueror|lynx|msie|opera|safari)/,[],/(camino|chrome|firefox|netscape|netscape6|opera|version|konqueror|lynx|msie|safari)(\/|\s)([a-z0-9\.\+]*?)(\;|dev|rel|\s|$)/));$.layout=c(a,/(gecko|konqueror|msie|opera|webkit)/,[['konqueror','khtml'],['msie','trident'],['opera','presto']],/(applewebkit|rv|konqueror|msie)(\:|\/|\s)([a-z0-9\.]*?)(\;|\)|\s)/);$.os={name:(/(win|mac|linux|sunos|solaris|iphone)/.exec(navigator.platform.toLowerCase())||[u])[0].replace('sunos','solaris')};if(!z){$('html').addClass([$.os.name,$.browser.name,$.browser.className,$.layout.name,$.layout.className].join(' '));}};$.browserTest(navigator.userAgent,true);})(jQuery);
+
+            $(document).ready(function(){
+               $("html").addClass($.os.name);
+               $("body").addClass($.browser.className);
+            });
+
+</script>
+  <link rel="stylesheet" type="text/css" media="screen" href="/corp/css/screen.css?v=985"></head>
 
 <body>
 <div id="wrapper">
 
+            <div id="header">
+       <div id="logo"><a href="/" title="Votigo®"><span>Votigo®</span></a></div>
+        <div class="launch-txt">social media contests &amp; promotions</div>
+        <div class="contact-details">
+          <span>Call us. 1.800.948.8830</span>
+          <div class="clear"></div>
+          <div class="already-reg"><a href="http://platform.votigo.com/login" target="_blank">Already Registered? Login</a></div>
+          <div class="clear"></div>
+        </div>
+      </div><!-- end #header -->
 
-
-
-<div id="header">
-  <div id="headerImg">
-    <a href="http://www.votigo.com/"><img height="58" alt="Votigo | Video Contest, Photo contests, Online promotions, Sweepstakes" title="Votigo | Video Contest, Photo contests, Online promotions, Sweepstakes" src="/corp/img/votigo-logo.gif" width="192" border="0" name="logoIm"></a>
-  </div>
-  <div class="launchTxt">launch a video contest, photo contest, or online promotion</div>
-  <div class="viralhdr">
-    <p class="viralhdrshre">share</p>
-    <p class="vhdricons"><a target="_blank" href="http://www.facebook.com/share.php?u=http://votigo.com/corp/privacy.php&amp;t=Votigo creates viral and engaging photo and video contests, sweepstakes, and promotions that drive measurable results for our clients."><img src="/corp/img/ic-facebook.gif" width="30" height="30" alt="facebook" title="facebook" border="0"></a></p>
-    <p class="vhdricons"><a href="http://twitter.com/home/?status=Check+out+%40votigo+http://bit.ly/3nuNH6+for+video+contest%2C+facebook+contest%2C+twitter+contest%2C+sweepstakes+%26+social+media+promotions.+%23contest" title="Update your status on Twitter!" target="_blank"><img src="/corp/img/ic-twitter.gif" width="30" height="30" alt="twitter" title="twitter" border="0"></a></p><a href="http://twitter.com/home/?status=Check+out+%40votigo+http://bit.ly/3nuNH6+for+video+contest%2C+facebook+contest%2C+twitter+contest%2C+sweepstakes+%26+social+media+promotions.+%23contest" title="Update your status on Twitter!" target="_blank">
-    <p class="vhdricons">
-
-<script language="javascript" type="text/javascript">
-//Create your sharelet with desired properties and set button element to false
-var object = SHARETHIS.addEntry({
-title:'Votigo creates viral and engaging photo and video contests, sweepstakes, and promotions that drive measurable results for our clients.',
-url:'http://votigo.com/corp/privacy.php',
-content: 'http://votigo.com/corp/privacy.php',
-summary: 'http://votigo.com/corp/privacy.php'},
-{button:false, popup:false});
-//Output your customized button
-document.write('<span id="share"><a title="ShareThis via email, AIM, social bookmarking and networking sites, etc." href="javascript:void(0)"><span class="stbuttontext"><img src="/corp/img/ic-email.gif" width="40" height="30" alt="email" title="email" border="0" /></span></a></span>');
-//Tie customized button to ShareThis button functionality.
-var element = document.getElementById("share");
-object.attachButton(element);
-</script>
-    </p>
-
-  </a></div><a href="http://twitter.com/home/?status=Check+out+%40votigo+http://bit.ly/3nuNH6+for+video+contest%2C+facebook+contest%2C+twitter+contest%2C+sweepstakes+%26+social+media+promotions.+%23contest" title="Update your status on Twitter!" target="_blank">
-</a></div><a href="http://twitter.com/home/?status=Check+out+%40votigo+http://bit.ly/3nuNH6+for+video+contest%2C+facebook+contest%2C+twitter+contest%2C+sweepstakes+%26+social+media+promotions.+%23contest" title="Update your status on Twitter!" target="_blank">
-
+      <div id="masthead">
 
 <!-- sec nav begin. -->
-</a><div id="secnav"><a href="http://twitter.com/home/?status=Check+out+%40votigo+http://bit.ly/3nuNH6+for+video+contest%2C+facebook+contest%2C+twitter+contest%2C+sweepstakes+%26+social+media+promotions.+%23contest" title="Update your status on Twitter!" target="_blank">
+<div id="secnav">
 
   <!-- sec nav top begin. -->
-  </a><div id="secnavTop"><a href="http://twitter.com/home/?status=Check+out+%40votigo+http://bit.ly/3nuNH6+for+video+contest%2C+facebook+contest%2C+twitter+contest%2C+sweepstakes+%26+social+media+promotions.+%23contest" title="Update your status on Twitter!" target="_blank">
-    <div id="secnavImgL"><img height="26" alt="image" src="/corp/img/ffffff-sec-left-closed.gif" width="10" border="0" name="hdrLeft"></div>
+  <div id="secnavTop">
 
-    </a><div id="secnavUlCont"><a href="http://twitter.com/home/?status=Check+out+%40votigo+http://bit.ly/3nuNH6+for+video+contest%2C+facebook+contest%2C+twitter+contest%2C+sweepstakes+%26+social+media+promotions.+%23contest" title="Update your status on Twitter!" target="_blank">
-      </a><ul><a href="http://twitter.com/home/?status=Check+out+%40votigo+http://bit.ly/3nuNH6+for+video+contest%2C+facebook+contest%2C+twitter+contest%2C+sweepstakes+%26+social+media+promotions.+%23contest" title="Update your status on Twitter!" target="_blank">
-        </a><li class="secClosed"><a href="http://twitter.com/home/?status=Check+out+%40votigo+http://bit.ly/3nuNH6+for+video+contest%2C+facebook+contest%2C+twitter+contest%2C+sweepstakes+%26+social+media+promotions.+%23contest" title="Update your status on Twitter!" target="_blank"></a><a href="http://www.votigo.com">Home</a> </li>
-        <li class="secClosed"><a href="/corp/about/index.php">About Us</a> </li>
-        <li class="secClosed"><a href="/corp/solutions/index.php">Solutions</a></li>
+
+    <div id="secnavUlCont">
+      <ul>
+        <li class="secClosed"><a href="/corp/platform-overview/platform-overview.php">Platform Overview</a></li>
+        <!-- <li class="secClosed"><a href="/corp/about/index.php">About Votigo</a> </li> -->
+        <li class="secClosed"><a href="/corp/promotions/index.php">Promotions</a></li>
+        <li class="secClosed"><a href="/corp/facebook/facebook-applications.php">Facebook Apps</a></li>
+        <li class="secClosed"><a href="/corp/features-and-pricing.php">Features &amp; Pricing</a></li>
         <li class="secClosed"><a href="/corp/clients/index.php">Clients</a></li>
-        <!--<li class=secClosed><a href="http://www.votigo.com/community">Community</a></li>-->
+        <!--  <li class="secClosed"><a href="/corp/about/index.php">About Us</a> </li>-->
         <li class="secClosed"><a href="/corp/contact.php">Contact Us</a></li>
-        <li class="secClosed"><a href="http://www.votigo.com/blog/">Blog</a></li>
+        <!--<li class=secClosed><a href="http://www.votigo.com/community">Community</a></li>-->
       </ul>
-      <div class="conSales"><a href="/corp/contact.php">Call us: 800.948.8830</a></div>
+
     </div>
-    <div id="secnavImgR"><img height="26" alt="image" src="/corp/img/ffffff-sec-right.gif" width="10" border="0" name="hdrRt"></div>
   </div>
   <!-- sec nav top end. -->
   <!-- sec nav bottom begin. -->
-  
-  <div id="secnavBot">
-    <p id="secnavBotLinks">&nbsp;</p>
-  </div>
+
+    
+
   <!-- sec nav bottom end. -->
 
 </div>
 <!-- sec nav end. -->
 
 
-<table width="990" border="0" cellspacing="0" cellpadding="0">
+      </div><!-- end #masthead -->
+
+<table width="990" border="0" cellspacing="0" cellpadding="0" class="privacy">
   <tbody><tr>
     <td>&nbsp;</td>
     <td align="right">&nbsp;</td>
   </tr>
   <tr>
-    <td width="685" valign="top">
+    <td width="620" valign="top" class="cnt">
 
       <!--content table begin.-->
-      <table width="670" border="0" cellspacing="0" cellpadding="0">
+      <table width="620" border="0" cellspacing="0" cellpadding="0" class="leftContent">
+
       <tbody><tr>
-        <td width="11" height="9" align="left" valign="top"><img src="/corp/img/cs-lf-top.gif" width="11" height="9"></td>
-        <td class="col1"><img src="/corp/img/spacer.gif" width="1" height="9"></td>
-        <td width="11" height="9" align="right" valign="top"><img src="/corp/img/cs-rt-top.gif" width="11" height="9"></td>
-      </tr>
-      <tr>
         <td class="col1">&nbsp;</td>
         <td class="col1">
           <div class="pageTitle">Votigo Privacy Policy </div>
@@ -111,7 +180,7 @@ object.attachButton(element);
           <p>
             <b>COLLECTION OF INFORMATION</b><br><br>
             Information is collected from our users at several different points during your visit to the Site.
-            </p><ul>
+            </p><ul class="votigo_pp">
               <li>Registration. To use some resources available on our Site, a user must complete our registration process. During registration, a user is required to provide certain categories of information, which may include a name, address, e-mail address, and a password.<br><br></li>
               <li>Optional Information.  At various other points during your visit to Votigo, you may be asked to provide information about yourself. For example, you may wish to participate in a survey or a contest. Participation in surveys or contests or the use of other services which require the input of additional information is completely voluntary on your part, and you have the choice about whether to disclose the information necessary to use these features of our site. <br><br></li>
               <li>Passive Collection of Information. In addition to the information which you actively provide to Votigo by methods such as completing the registration form, Votigo collects information about how you interact with our site. Votigo collects passive information for purposes such as testing and improving a user's experience at the site and the compilation of broad aggregate demographic data and related usage information for internal purposes and for disclosure to third parties such as advertisers and content partners. The types of passive information collected by this site include, without limitation, your IP address, which type of browser you are using, where you go on our site, and how long you stay on any part of our site. <br><br></li>
@@ -123,21 +192,21 @@ object.attachButton(element);
 
           <!--USE OF INFORMATION BEGIN-->
           <p>
-            <b>COLLECTION OF INFORMATION</b><br><br>
+            <b>USE OF INFORMATION</b><br><br>
             Votigo may use your information in order to customize our site to your interests and enhance your overall experience at our site. Votigo tries to recognize you using various methods, including having you log in with your user name and your password. Once Votigo recognizes you, pages, advertisements and other content may be customized for you so that you can see what interests you the most. In addition, as described above, Votigo utilizes passive information to learn more about how you interact with our site. This passive information may be combined with your other information for purposes such as testing and improving your experience at our site and the compilation of broad aggregate demographic data and related usage information for internal purposes and for disclosure to third parties such as advertisers and content partners. This aggregate passive information does not contain any personal information which can identify any individual user.
           </p>
           <!--USE OF INFORMATION END-->
 
           <!--CONTACTING YOU BY E-MAIL BEGIN-->
           <p>
-            <b>COLLECTION OF INFORMATION</b><br><br>
-            Votigo may use your contact information periodically in order to send you e-mail regarding updates at the Votigo site and to alert you or remind you of happenings on the Site. The frequency of these messages will vary depending upon various factors.
+            <b>CONTACTING YOU BY E-MAIL</b><br><br>
+            Votigo may use your contact information periodically in order to send you e-mail regarding updates to Votigo and to alert you or remind you of happenings on the Site. The frequency of these messages will vary depending upon various factors.
           </p>
           <!--CONTACTING YOU BY E-MAIL END-->
 
           <!--COLLECTION OF INFORMATION BEGIN-->
           <p>
-            <b>COLLECTION OF INFORMATION</b>
+            <b>SHARING OF INFORMATION</b>
             </p><p>Votigo will not knowingly sell, share, rent or otherwise transfer your information other than in accordance with the terms set forth in this Privacy Policy.  Votigo does not share any information that can be tied to you without your permission. If you give your permission to allow third parties to contact you, personal information about you (such as your contact information and other information collected during your visit to Votigo) may be shared with builders, product manufacturers, data aggregators, marketers (possibly in the form of list rental), and other organizations. Regardless of your decision regarding the sharing of your personal information, we may share broad aggregate demographic data and related usage information with our business partners. This aggregate information does not contain any personal information which can identify any individual user. </p>
             <p>From time to time, Votigo may decide that it is more efficient to use third parties to perform specific services, such as sending communications to Votigo's users. If we use a third party to provide specific services (such as sending communications to our users on our behalf), then information (such as contact information) may be shared with that party to the extent necessary for the third party to provide these services. These third party service providers are only allowed to use personally identifiable information for the purpose of providing the specific services requested by Votigo. The third party services covered by this paragraph do not include links to third party sites found on our site, which are governed by a more specific provision below.</p>
             <p>While Votigo strives to protect the personal information of our users, Votigo will release personal information if required by law or in the good-faith belief that such action is necessary or appropriate. </p>
@@ -156,7 +225,7 @@ object.attachButton(element);
           <!--OTHER PROVISIONS BEGIN-->
           <p>
             <b>OTHER PROVISIONS</b><br><br>
-            </p><ul>
+            </p><ul class="votigo_pp">
               <li>The Site is hosted in the United States and is intended for and directed to Users in the United States. If you are a User accessing the Site from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Site, which is governed by U.S. law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer.<br><br></li>
               <li>Your use of this site indicates an acceptance of the terms of the Privacy Policy. Votigo reserves the right to update or amend this Privacy Policy at any time.<br><br></li>
               <li>In the event that Votigo sells, assigns or transfers some or all of its business to a successor or acquirer, Votigo may sell, assign or transfer all of your information, regardless of your opt status, to such successor or acquirer. <br><br></li>
@@ -172,62 +241,104 @@ object.attachButton(element);
         </td>
         <td class="col1">&nbsp;</td>
       </tr>
-      <tr>
-        <td width="11" height="9"><img src="/corp/img/cs-lf-bot.gif" width="11" height="9"></td>
-        <td class="col1"><img src="/corp/img/spacer.gif" width="1" height="9"></td>
-        <td width="11" height="9"><img src="/corp/img/cs-rt-bot.gif" width="11" height="9"></td>
-      </tr>
+
     </tbody></table>
     <!--content table end.-->
 
     </td>
-    <td width="305" align="right" valign="top">
-      <!--right navigation begin.-->
-            <table width="305" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td width="7" height="16"><img src="/corp/img/c-lf-top.gif" width="7" height="16"></td>
-        <td><img src="/corp/img/c-top.gif" width="290" height="16"></td>
-        <td width="8" height="16" align="right" valign="top"><img src="/corp/img/c-rt-top.gif" width="8" height="16"></td>
+    <td width="285" align="right" valign="top">
+   <!-- <div class="rightContent">
+  <table width="285" border="0" cellspacing="0" cellpadding="0" class="contact_fonts">
+      <tr>
+        <td width="7" height="16"><img src="/corp/img/c-lf-top.gif" width="7" height="16" /></td>
+        <td><img src="/corp/img/c-top.gif" width="270" height="16" /></td>
+        <td width="8" height="16" align="right" valign="top"><img src="/corp/img/c-rt-top.gif" width="8" height="16" /></td>
       </tr>
       <tr>
-        <td class="col2">&nbsp;</td>
+        <td class="col2 contact_bg">&nbsp;</td>
         <td height="77" align="left" valign="top" background="/corp/img/c-top-bg.gif" class="font_col_1">
           <div class="contactSt"><b>Contact us today!
-          <br>Toll-free 1.800.948.8830 <br>
-          For Sales press '1'<br>
+          <br />Toll-free 1.800.948.8830 <br />
+          For Sales press '1'<br />
           Or use our <a href="/corp/contact.php" class="ylinkStyle">contact form</a></b></div>
+          <div class="fl env_pos"><img src="/corp/img/envelope.gif" width="60" height="39" alt="" /></div>
+
         </td>
-        <td class="col2">&nbsp;</td>
+        <td class="col2 contact_bg">&nbsp;</td>
+      </tr>
+
+      <tr>
+        <td class="contact_bg">&nbsp;</td>
+        <td><img src="/corp/img/c-bot-contact.gif" width="270" height="16" /></td>
+        <td class="contact_bg">&nbsp;</td>
       </tr>
       <tr>
-        <td class="col2"><img src="/corp/img/spacer.gif" width="1" height="10" alt=""></td>
-        <td height="10" align="center" valign="top"><img src="/corp/img/c-bot.gif" width="290" height="10"></td>
-        <td class="col2"><img src="/corp/img/spacer.gif" width="1" height="10" alt=""></td>
+        <td class="contact_bg">&nbsp;</td>
+        <td><img src="/corp/img/c-top.gif" width="270" height="16" /></td>
+        <td class="contact_bg">&nbsp;</td>
       </tr>
       <tr>
-        <td class="col2">&nbsp;</td>
-        <td class="col2">&nbsp;</td>
-        <td class="col2">&nbsp;</td>
-      </tr>
+        <td class="col2 contact_bg">&nbsp;</td>
+         <td align="left" class="col3 contact_borderbg">
+          <div class="contactSt font_col_1">
+            <b>Votigo, Inc.<br /><br />
+            San Francisco Bay Area<br />
+            251 Lafayette Circle<br />
+            Suite #330<br />
+            Lafayette, CA 94549<br />
+            <br />
+            Boulder, CO<br />
+            1245 Pearl St.<br />
+            Suite #207<br />
+            Boulder, CO 80302
+            </b>
+            </div></td>
+        <td class="col2 contact_bg">&nbsp;</td>
+
+         </tr>
       <tr>
-        <td class="col2">&nbsp;</td>
-        <td><img src="/corp/img/dgr-top.gif" width="290" height="18"></td>
-        <td class="col2">&nbsp;</td>
+        <td width="7" height="16"><img src="/corp/img/c-lf-bot.gif" width="7" height="16" /></td>
+        <td><img src="/corp/img/c-bot-address.gif" width="270" height="16" /></td>
+        <td width="8" height="16" align="right" valign="top"><img src="/corp/img/c-rt-bot.gif" width="8" height="16" /></td>
       </tr>
-      <tr>
-        <td class="col2">&nbsp;</td>
-        <td align="left" class="col3"><div class="contactSt font_col_1"><b>Votigo, Inc.<br>
-          3527 Mt. Diablo Blvd.<br>
-          #364<br>
-          Lafayette, CA 94549<br><!--Tel.  510.333.3333<br />Fax. 215.318.4664 <br />--></b></div></td>
-        <td class="col2">&nbsp;</td>
-      </tr>
-      <tr>
-        <td><img src="/corp/img/dg-bot-lf.gif" width="7" height="20"></td>
-        <td><img src="/corp/img/dgr-btm.gif" width="290" height="20"></td>
-        <td><img src="/corp/img/dg-bot-rt.gif" width="8" height="20"></td>
-      </tr>
-    </tbody></table>      <!--right navigation end.-->
+     </table>
+      </div> -->
+
+    <div class="rightContent">
+                    <div id="contactSection">
+            <div>
+              <p>Contact us today!<br>1.800.948.8830<br>For Sales press '1'<br>Or use our <a href="/corp/contact.php">contact form</a></p>
+            </div>
+          </div><!-- #contactSection end-->                    <div id="rightDarkContent">
+            <p>
+              Votigo, Inc.<br><br>
+              San Francisco Bay Area<br>
+              251 Lafayette Circle<br>
+              Suite #330<br>
+              Lafayette, CA 94549<br>&nbsp;
+            </p>
+
+            <p>
+              Boulder, CO<br>
+              1731 15th Street<br>
+              Suite 101<br>
+              Boulder, CO 80302<br>
+              &nbsp;
+            </p>
+
+            <p>
+              Hyderabad, India<br>
+              8-2-332/8/A,<br>
+              Aditya House,<br>
+              1st Floor,<br>
+              Rd #3, Banjara Hills<br>
+              Hyderabad, 500034<br>
+              &nbsp;
+            </p>
+
+          </div><!--#rightDarkContent end-->
+
+     </div>
     </td>
   </tr>
   <tr>
@@ -237,70 +348,101 @@ object.attachButton(element);
   <tr>
     <td colspan="2">
       <!--footer begin.-->
-            <div class="footerCon">
-        <div>
-          <div class="fl"><img height="9" src="/corp/img/cs-lf-top.gif" width="11"></div>
-          <div class="fl col1"><img height="9" src="/img/spacer.gif" width="968"></div>
-          <div class="fr"><img height="9" src="/corp/img/cs-rt-top.gif" width="11"></div>
-        </div>
-
-        <div class="footLnkCon">
-          <div class="footFiller"><img height="9" src="/img/spacer.gif" width="10"></div>
+      
+      <div id="footer">
+        <div class="content">
+          <span>&nbsp;</span>
           <div class="fotLp">
-            <ul class="footul">
-              <li>All About Votigo </li>
-              <li><a class="linkStyle" href="/corp/about/index.php">Company Overview</a></li>
-              <li><a class="linkStyle" href="/corp/about/management.php">Management</a></li>
-              <li><a class="linkStyle" href="/corp/about/news.php">News</a></li>
-              <li><a class="linkStyle" href="http://www.votigo.com/blog/" target="_blank">Blog</a></li>
-              <li><a class="linkStyle" href="/corp/about/jobs.php">Jobs</a></li>
+            <ul>
+              <li>Company </li>
+              <li><a href="/corp/about/index.php">About Votigo</a></li>
+              <li><a href="/corp/about/management.php">Management</a></li>
+              <li><a href="/corp/about/client_services.php">Team</a></li>
+              <li><a href="/corp/about/news.php">News</a></li>
+              <li><a href="/corp/about/jobs.php">Careers</a></li>
             </ul>
           </div>
           <div class="fotLp">
-            <ul class="footul">
-              <li>Solutions</li>
-              <li><a class="linkStyle" href="/corp/solutions/index.php">Overview </a></li>
-              <li><a class="linkStyle" href="/corp/solutions/contests.php">Video Contests</a></li>
-              <li><a class="linkStyle" href="/corp/solutions/photo-contest.php">Photo Contests</a></li>
-              <li><a class="linkStyle" href="/corp/solutions/fbcontests.php">Facebook Contests</a></li>
-              <li><a class="linkStyle" href="/corp/solutions/contestwidget.php">Contest Widgets</a></li>
-              <li><a class="linkStyle" href="/corp/solutions/photo-video.php">Photo &amp; Video Galleries</a></li>
+            <ul>
+              <li class="notification_header"><a href="/corp/platform-overview/platform-overview.php">Platform Overview</a></li>
+              <li><a href="/corp/platform-overview/premium-solutions.php">Premium Solutions </a></li>
+              <li><a href="/corp/platform-overview/createcontest.php">Self-Service Platform</a></li>
+              <li><a href="/corp/platform-overview/dev-api.php">Developer API</a></li>
+              <li><a href="/corp/platform-overview/enterprise.php">Enterprise Solutions</a></li>
+              
+              <li class="notification_header" style="margin-top: 20px;"><a href="/corp/features-and-pricing.php">Features &amp; Pricing</a></li>
+              <li class="notification_header">Self-Serve</li>
+              <li><a href="/corp/self-serve/faq.php">FAQ's  </a></li>
+              <li><a href="/corp/self-serve/how-it-works.php">How-It-Works</a></li>
+              <li><a href="/corp/self-serve/examples.php">Examples</a></li>
             </ul>
           </div>
           <div class="fotLp">
-            <ul class="footul">
-              <li>Clients</li>
-              <li><a class="linkStyle" href="/corp/clients/index.php">Portfolio</a></li>
-              <li><a class="linkStyle" href="/corp/clients/testimonials.php">Testimonials</a></li>
+            <ul>
+              <li class="notification_header"><a href="/corp/promotions/index.php">Promotions </a></li>
+              <li><a href="/corp/promotions/contests.php">Video Contests</a></li>
+              <li><a href="/corp/promotions/photo-contest.php">Photo Contests</a></li>
+              <li><a href="/corp/promotions/sweepstakes.php">Sweepstakes</a></li>
+              <li><a href="/corp/promotions/photo-video.php">UGC Galleries</a></li>
+              <li><a href="/corp/promotions/contestwidget.php">Contest Widgets</a></li>
+              <li><a href="/corp/promotions/youtube.php">YouTube</a></li>
+              <li><a href="/corp/promotions/twitter.php">Twitter</a></li>
+              <li><a href="/corp/promotions/mobile.php">Mobile</a></li>
+              <li><a href="/corp/promotions/microsite.php">Microsite</a></li>
             </ul>
           </div>
           <div class="fotLp">
-            <ul class="footul">
-              <li>Legal</li>
-              <li><a class="linkStyle" href="/corp/terms.php">Terms of Use</a></li>
-              <li><a class="linkStyle" href="/corp/privacy.php">Privacy Policy</a></li>
+            <ul>
+              <li class="notification_header"><a href="/corp/facebook/facebook-applications.php">Facebook Apps</a></li>
+              <li><a href="/corp/facebook/facebook-video-contest-application.php">Video Contests</a></li>
+              <li><a href="/corp/facebook/facebook-photo-contest-application.php">Photo Contests</a></li>
+              <li><a href="/corp/facebook/facebook-sweepstakes-application.php">Sweepstakes</a></li>
+              <li><a href="/corp/facebook/facebook-applications.php#explore">Branded Apps</a></li>
+              <li style="margin-top: 18px;">Legal</li>
+              <li><a href="/corp/terms.php">Terms of use </a></li>
+              <li><a href="/corp/privacy.php">Privacy Policy</a></li>
+              <li><div class="fl fbtabs"><a href=""><p class="contact-details-logo" title="Preferred Developer Consultant"><span class="contact-details-icon">Sweepstakes</span></p></a></div></li>
             </ul>
           </div>
-          <div class="fotLpLast">
-            <ul class="footul">
+          <div class="fotLp">
+            <ul>
+              <li>Free Resources</li>
+              <li><a href="http://www.votigo.com/blog/">Blog </a></li>
+              <li><a href="/corp/solutions/whycontestswork.php">Why Contests Work</a></li>
+              <li><a href="/corp/solutions/tips.php">Tips for Success</a></li>
+              
+              <li style="margin-top:33px;">Clients</li>
+              <li><a href="/corp/clients/index.php">Portfolio</a></li>
+              <li><a href="/corp/clients/testimonials.php">Testimonials</a></li>
+              <li><a href="/corp/privacy.php">Showcase</a></li>
+            </ul>
+          </div>
+           <div class="fotLpLast">
+            <ul>
+              
               <li>Contact Us</li>
               <li>Sales: 1.800.948.8830</li>
-              <li>1.510.550.2388</li>
-              <li>Or use our <a class="linkStyle" href="/corp/contact.php">contact form</a></li>
+              <li>For Sales press '1'</li>
+              <li>Or use our <a href="/corp/contact.php">contact form</a></li>
               <li>&nbsp;</li>
-              <li><a class="linkStyle" href="http://twitter.com/votigo" target="_blank"><img src="/corp/img/twit.gif" border="0" width="16" height="16" alt="t" class="followtwit">Follow us on Twitter</a></li>
-              <li style="width:180px; padding-top:3px;"><a class="linkStyle" href="http://www.facebook.com/pages/Lafayette-CA/Votigo-Social-Media-Solutions/30234388700" target="_blank"><img src="/corp/img/h-ic-2a.gif" border="0" width="18" height="18" alt="f" class="followtwit">Become our fan</a></li>
-            </ul>
+              <li class="lastlink">
+                <a href="http://twitter.com/votigo" target="_blank"><img src="/corp/img/latest/footer-twitter.jpg" border="0" width="38" height="38" alt="t" class="virallinks"></a>
+                <a href="http://twitter.com/share?url=http://www.votigo.com/corp/privacy.php&amp;text=Check%20out%20%40votigo%20for%20video%20contest%2C%20facebook%20contest%2C%20twitter%20contest%2C%20sweepstakes%20%26%20social%20media%20promotions.%20%23contest&amp;related=votigo" target="_blank"></a>
+              </li>
+              <li class="lastlink">
+                <a href="http://www.facebook.com/pages/Lafayette-CA/Votigo-Social-Media-Solutions/30234388700" target="_blank"><img src="/corp/img/latest/footer-fb-icon.jpg" border="0" width="38" height="39" alt="f" class="virallinks virallinks1"></a> 
+                <a target="_blank" href="http://www.facebook.com/share.php?u=http://www.votigo.com/corp/privacy.php&amp;t=Votigo creates viral and engaging photo and video contests, sweepstakes, and promotions that drive measurable results for our clients."></a>
+               
+              </li>
+               <li class="lastlink">
+				 <a href="https://plus.google.com/117447893516827723575#117447893516827723575/posts" target="_blank"><img src="/corp/img/latest/gplus.jpg" style="height: 37px;"></a>
+              </li>
+              </ul>
           </div>
-        </div>
-        <div class="fCurve">
-          <div class="fl"><img height="9" src="/corp/img/cs-lf-bot.gif" width="11"></div>
-          <div class="fl col1"><img height="9" src="/img/spacer.gif" width="968"></div>
-          <div class="fr"><img height="9" src="/corp/img/cs-rt-bot.gif" width="11"></div>
-        </div>
-      </div>
+        </div><!-- .content end-->
+        <div class="copyright">©2011 Votigo, Inc.  Votigo is a registered trademark and the Votigo logo is a trademark of Votigo, Inc.  All Rights Reserved.</div>
 
-    <div class="footerCR cb">©2009 Votigo, Inc.  Votigo is a registered trademark and the Votigo logo is a trademark of Votigo, Inc.  All Rights Reserved.</div>
+    </div><!-- end #footer -->
 
      <!-- google tracking. -->
           <script type="text/javascript">
