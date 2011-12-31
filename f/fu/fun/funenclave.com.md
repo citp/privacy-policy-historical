@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funenclave.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303141340id_/http%3A//funenclave.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funenclave.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205240id_/http%3A//funenclave.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Fun Enclave
 
