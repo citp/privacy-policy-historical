@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silverstripe.org privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529172529id_/http%3A//www.silverstripe.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverstripe.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112305id_/http%3A//www.silverstripe.org/privacy-policy) for the most accurate reproduction.*
 
 # SilverStripe Privacy Policy » SilverStripe.org - Open Source CMS / Framework
 
@@ -12,7 +12,7 @@ SilverStripe is committed to protecting your privacy. When you give us personal 
 This privacy policy covers SilverStripe's treatment of personally identifiable information that we collect on our websites. It only applies to websites which SilverStripe manages and controls, including:
 
   * Our company website at [silverstripe.com](http://silverstripe.com/)
-  * Our open source website [silverstripe.org](http://silverstripe.org/home/)
+  * Our open source website [silverstripe.org](http://www.silverstripe.org/home/)
   * Our documentation (wiki) at [doc.silverstripe.org](http://doc.silverstripe.com/)
   * Our open source bugtracker at [open.silverstripe.org](http://open.silverstripe.org/)
   * Our translation service at [translate.silverstripe.org](http://translate.silverstripe.org/)
