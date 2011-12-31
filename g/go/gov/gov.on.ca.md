@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gov.on.ca privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630144641id_/http%3A//www.ontario.ca/en/general/004228.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.on.ca privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214147id_/http%3A//www.ontario.ca/en/general/004228.html) for the most accurate reproduction.*
 
 # Privacy Statement - Ontario.ca
 
