@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pr9.net privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504002850id_/http%3A//www.pr9.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pr9.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223820id_/http%3A//www.pr9.net/privacy.html) for the most accurate reproduction.*
 
 # PR9.NET Privacy Policy
 
