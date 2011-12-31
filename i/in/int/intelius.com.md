@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the intelius.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621030130id_/http%3A//www.intelius.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelius.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231110808id_/http%3A//www.intelius.com/privacy.php) for the most accurate reproduction.*
 
 # People Search & Directory Services Powered By Intelius
 
-Effective December 2009
+Effective August 2011
 
 Intelius respects your right to privacy and we are committed to protecting it. This statement discloses the information practices for the web pages associated with the domain www.intelius.com (the "Website"), including what type of personal information we gather and track, how we use this personal information, and with whom we share the personal information. 
 
@@ -14,7 +14,10 @@ Personal Information
 
 In general, you can visit us on the Internet without telling us who you are and without giving any personal information about yourself. However, you may choose to give us personal information in a variety of situations. For example, you may want to give us information such as your name and address, phone number or e-mail address so we may correspond with you, process an order, or provide you with a subscription or service. You may give us your credit card details to buy a product or service from us, or provide us a description of your education and work experience in connection with a job opening at Intelius for which you wish to be considered. The purpose of this Policy is to inform you of how we will use your information, before you provide it. If you tell us that you do not want us to use this information in this manner or to make further contact with you beyond fulfilling your requests, we will respect your wishes. If you give us personal information about somebody else, such as a spouse or associate, we will assume that you have their permission to do so. 
 
-How to Remove your Information from the Intelius Public Records Databases
+How to Remove your Information from the Intelius Public Records Databases  
+[Submit your opt out request online](http://www.intelius.com/optout.php)
+
+[](https://www.truerep.com/partner-offer-1.html?refer=8090)
 
 Public records are available from the official public records custodian or repository to anyone who requests them. In order for any database of public records to be useful, the databases must contain all of the information in the public records offices. If you have a compelling privacy or security issue, you may wish to contact the official custodians of those public records that contain sensitive information about you, such as your county's land records office, to determine how to remove your information from the public record. (The process of having public records sealed typically requires a court order.) This process will ensure that the information is not available to the public, to us, or to any other public records information provider.
 
@@ -22,7 +25,9 @@ In addition to public records, personal information may be publicly or commercia
 
 As a courtesy we allow you to opt out your personal information from our Website. What this means is that your name as it appears in a particular record and the associated identifying information such as your address and phone number will be suppressed if you request this in the manner described below. However, please note that any time your identifying information appears in a public record or in a publicly or commercially available manner, in a way that is different from the particular record you opted out, it will again appear on our Website. For example, if your address or area code changes, your new information -- including other associated identifying information -- will again appear unless you opt out the new record. Similarly, if the way in which your name or address appears in a record differs from a record you opted out (e.g., "Michael" instead of "Mike," or "1212 Second AVE NE" instead of "1212-2nd Avenue Northeast"), we may include the differing record. Please also note that there may be more than one record on our Website associated with your personal information. Opting out one particular record will not opt out other record(s).In addition to this Website, there are many other companies offering public records search services, and your request that we opt out your information from this Website will not prevent your information from appearing on these other services.
 
-In order for us to suppress or opt out your personal information from appearing on our Website, we need to verify your identity. To do this, we require faxed proof of identity. Proof of identity can be a state issued ID card or driver's license. If you are uploading, faxing, or mailing a copy of your driver's license, we require that you cross out the photo and the driver's license number. We only need to see the name, address and date of birth. We will only use this information to process your opt out request. To submit your opt out request online, please click [here](http://www.intelius.com/optout.php), to submit via fax please send to 425-974-6194 or to submit via mail please send to Intelius Consumer Affairs PO Box 808 Bothell, WA 98041-0808. Allow 4 to 6 weeks to process your request. We will only process opt out requests received by online submission, fax, or mail and no request will be processed without complete information (i.e., name, address and date of birth). Requests for opt out will not be processed over the phone or via email.
+In order for us to suppress or opt out your personal information from appearing on our Website, we need to verify your identity. To do this, we require faxed proof of identity. Proof of identity can be a state issued ID card or driver's license. If you are uploading, faxing, or mailing a copy of your driver's license, we require that you cross out the photo and the driver's license number. We only need to see the name, address and date of birth. We will only use this information to process your opt out request.
+
+[Submit your opt out request online](http://www.intelius.com/optout.php), fax to 425-974-6194 or to submit via mail to: Intelius Consumer Affairs PO Box 808 Bothell, WA 98041-0808. Allow 7-14 days to process your request. We will only process opt out requests received by online submission, fax, or mail and no request will be processed without complete information (i.e., name, address and date of birth). Requests for opt out will not be processed over the phone or via email.
 
 How we Use and Share Personal Information
 
@@ -85,3 +90,7 @@ Changes to this Policy
 If we decide to change this Policy, we will post the changes to this Policy, the home page link, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
 We reserve the right to modify this Policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our home page.
+
+Third Party Advertisers
+
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
