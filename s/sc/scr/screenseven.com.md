@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenseven.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613051305id_/http%3A//screenseven.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenseven.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223021id_/http%3A//screenseven.com/about/privacy.php) for the most accurate reproduction.*
 
 # Download Games | Free & Safe PC Game Downloads at SCREENSEVEN
 
